@@ -1,0 +1,13 @@
+[color=543210][b]St Kitts and Nevis[/b]
+
+[b]Sister Regions:[/b]
+&#149; [region=Saint Christopher]
+&#149; [region=Saint Christopher and Nevis] 
+&#149; [region=Saint Kitts]
+&#149; [region=Saint Kitts and Nevis] 
+&#149; [region=St Kitts]
+&#149; [b]St Kitts and Nevis[/b]
+
+REGION
+&#149; a [region=Royal Alliance] region
+&#149; [b]Created:[/b] October 28, 2010[/color]

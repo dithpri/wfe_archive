@@ -1,0 +1,10 @@
+[b]This is the 1st Fireteam of [region]The Greater German Reich[/region].[/b]
+[b]It is a part of the [region]1st Platoon of the Greater German Reich[/region].[/b]
+
+[b]Commander :[/b]
+Sgt.[nation=short+noflag]Tadmirtolia[/nation]
+
+[b]Soldiers:[/b]
+Cpl.[nation=short+noflag]The Kuomintang[/nation]
+Pvt.[nation=short+noflag]Grodon[/nation]
+Pvt.[nation=short+noflag]Vollkommene Gemeinschaft[/nation]

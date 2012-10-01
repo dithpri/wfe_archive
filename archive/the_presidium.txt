@@ -1,0 +1,7 @@
+Welcome... to [i]The Presidium[/i].
+[hr][u]Temperature scale for Presidian seasons[/u]:
+
+[b][color=green]Spring[/color][/b]: 16 C - 26 C
+[b][color=grey]Winter[/color][/b]: -12 C - -2 C
+[b][color=orange]Autumn[/color][/b]: 15 C - 22 C
+[b][color=indigo]Summer[/color][/b]: 25 C - 35 C

@@ -1,0 +1,22 @@
+[u][b]Summary[/b][/u]
+The [region]Allied Nordic Nations[/region] (ANN) are a group of Northern European nations that have joined together because of our similiar hatred for communism.
+
+[b][u]Leading Nations[/u][/b]
+[i]Leader/Chief of Ministries[/i]: 
+[nation]Steinweg[/nation]
+[b]Ministries[/b]
+[i]Chief of Joint Armed Forces[/i]:
+[nation]Schotteland[/nation]
+[i]Chief of Foreign Affairs[/i]:
+[nation]Fuerstenburg[/nation]
+[i]Chief of Commercial Affairs[/i]:
+[nation]Scheinfeld[/nation]
+[i]Chief of Legal Affairs[/i]:
+[nation]Rotgeheim[/nation]
+[i]Chief of Intelligence[/i]:
+[nation]Kerastan[/nation]
+
+[u][b]Allied Regions[/b][/u]
+[region]Libertatem[/region]
+[region]International Republican Union[/region]
+[region]The Federal Islands[/region]

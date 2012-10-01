@@ -1,0 +1,22 @@
+Map Rules:
+Everyone Starts off with 5 pixels on the map. 1 Pixel per 1 Million Population
+
+If attacking a player&amp;#39;s Nation (Attack - Defense = Amount of pixels per day)  (ie: 10M - 9M = 1pixel)
+
+Military power = Population/10  
+
+Attacking: 25% of your military power can attack.
+
+You may only take up to 10% of a nation&amp;#39;s territory during a war.
+
+After a war, you may not re-declare war for 3 days.
+
+You may only Attack Nations from 1/4 your size up to 4 times your size.
+
+(Attacks Across water -10%    Attacks on another Continent -10%  Not touching -10%)
+
+Defending:  (Militarypower*Spending) 
+
+MAP: http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=192226
+
+

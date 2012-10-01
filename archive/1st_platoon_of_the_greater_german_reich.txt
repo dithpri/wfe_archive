@@ -1,0 +1,13 @@
+[b]This is the 1st Platoon of [region]The Greater German Reich[/region].[/b]
+[b]It is a part of the [region]1st Company of the Greater German Reich[/region].[/b]
+
+[b]Commander:[/b]
+Cpt.[nation=short+noflag]Verborgenen Herrn[/nation]
+
+[b]Assistant:[/b]
+Lt.[nation=short+noflag]Jekrehnot[/nation]
+
+[b]Units:[/b]
+[region]1st Fireteam of the Greater German Reich[/region]
+[region]2nd Fireteam of the Greater German Reich[/region]
+[region]3rd Fireteam of the Greater German Reich[/region]

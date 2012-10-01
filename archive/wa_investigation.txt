@@ -1,0 +1,14 @@
+How to create a nation with your desired WA category:
+
+Choose the category.
+Search for the nation with the decided category here.
+Once you find it, look at the motto.
+You&amp;#39;ll find something like &amp;quot;Sensible: 11111111&amp;quot;, this is the way to get your category, the following code will be the key:
+0=no answer
+1=Strongly Disagree
+2=Disagre
+3=Agree
+4=Strongly Agree
+The first thing will be the government type you&amp;#39;ll need, for example, Conservative. Then there will be the 8 digit code which is basically the answers for questions 1 to 8.
+
+Enjoy your new puppet.

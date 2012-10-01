@@ -1,0 +1,8 @@
+True North
+
+[nation]The Colony Master[/nation]
+
+[region]nature[/region]
+[region]johto[/region]
+[region]supernatural[/region]
+[region]Love[/region]

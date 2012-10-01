@@ -1,0 +1,10 @@
+[b]This is the 3rd Platoon of [region]The Greater German Reich[/region].[/b]
+[b]It is a part of the [region]1st Company of the Greater German Reich[/region][/b]
+
+[b]Commander:[/b]
+[nation=short+noflag]awaiting new recruits[/nation]
+
+[b]Units:[/b]
+[region]7th Fireteam of the Greater German Reich[/region]
+[region]8th Fireteam of the Greater German Reich[/region]
+[region]9th Fireteam of the Greater German Reich[/region]

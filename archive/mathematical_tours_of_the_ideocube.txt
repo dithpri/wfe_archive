@@ -1,0 +1,7 @@
+Nations trying to traverse the ideocube in a defined mathematical pattern of each nation&amp;#39;s choosing.
+
+Only one, [nation]A Knights Tour of the IdeoTripleTorus[/nation], is attempting the feat at the moment. Others are welcome.
+
+Attempts will be made to construct embassies with regions reflecting the political disposition of cubelet currently or most recently being aimed for by the nation with the highest adjusted courtliness score (or exactly equivalent but differently named metric), which is currently [nation]A Knights Tour of the IdeoTripleTorus[/nation]. Following each successful Move, embassies pertaining to the previous Move will be dismantled. 
+
+We also construct enduring embassies in regions with a similar approach to Nationstates.

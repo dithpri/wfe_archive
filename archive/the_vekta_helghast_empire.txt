@@ -1,0 +1,13 @@
+DEFCON LEVEL: [X] [4] [3] [2] [1]
+
+Status: [X] [BLUE] [YELLOW] [RED] [WHITE]
+
+Regional Powers (In order of political power).
+
+- Scholar Hayden from [nation]The Vekta-Helghast Empire[/nation]
+
+- Scott Zimmer from [nation]Soviet Workers Union[/nation]
+
+- William Henry Abelson from [nation]Pandora Research Facility[/nation]
+
+- George Larby from [nation]Sigma Eighteen[/nation]
