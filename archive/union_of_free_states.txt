@@ -10,7 +10,7 @@ Secretary General :[nation=short]Hercosk[/nation]
 Minister of Defence: [nation=short]Peace Republic[/nation]
 Minister of Foreign Affairs: [nation=short]Separatist Allies[/nation]
 Minister of Internal Affairs:[nation=short]Undertaker[/nation]
-[hr]
+Secretary(IA): [nation=short]Romanov Dynasty[/nation][hr]
 [u][b]SENATE[/b][/u]:
 Speaker of Senate:[nation=short]lancearc[/nation]
 [hr]

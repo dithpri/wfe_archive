@@ -6,6 +6,5 @@ This military unit is being trained by [nation]jekrehnot[/nation]
 
 [b]Soldiers:[/b]
 Pvt.[nation=short+noflag]Adolfhitleristan[/nation]
-Pvt.[nation=short+noflag]Tuscanon[/nation]
 Pvt.[nation=short+noflag]Pauperes commilitones Christi Templique[/nation]
 Pvt.[nation=short+noflag]Nodorg[/nation]

@@ -1,16 +1,17 @@
 A unique place to live.We would be delighted if you join us. We also award noble peace prizes and we have a regional senate. You will have a fun time playing Nationstates! 
 
-Secretary of Energy:[nation]Bigtopians[/nation]
-Regional Foreign affairs:[nation]Grovia[/nation]
-W.A. Delegate:[nation]Smoya[/nation]
-Defender General:[nation]Morlipssa[/nation]
-Treasurer:[nation]United Falcon[/nation]
-Colony Master:[nation]Guba[/nation]
+Secretary of Energy:
+Regional Foreign affairs:
+Secretary of Environment:
+Defender General:
+Treasurer:
+Colony Master:
 Secretary of Finance:
-Secretary of State:[nation]Zaa Stick[/nation]
-Ambassadors:[nation]Double Bunz[/nation],[nation]Zaa Stick[/nation], and [nation]Katin[/nation]
+Secretary of State:
+Ambassadors:
 Secretary of Education:
 
-Space program info: [color=aqua]We will be sending people to space in 2 days[/color].
+Space program info: [color=blue]We are currently on a mission.[/color].
 News: [color=Purple]The Sunalayan Olympics[/color]! 
+[color=green]Elections for jobs![/color]
  

@@ -1,3 +1,4 @@
 [b]We are part of the growing British Empire.[/b]
-[b]Monarch[/b] [color=red]Queen Pippa[/color]
-[b]Prime Minister[/b] [nation]ulster brigades[/nation]
+
+[b]Prime Minister[/b] [nation=short]The defender of truth fox news[/nation]
+[b]Allied with[/b][region]British Isles[/region]

@@ -5,3 +5,6 @@ Regional Legistlator: [nation]Croazstan[/nation]
  [b][u][i]NEWS:[/b][/u][/i]
 -[nation=short+noflag]Alcatrazin[/nation], the father of COUC&amp;#39;s [i]economy?[/i]
 -A new bank in COUC?!
+[b][u][i]National Treasury:[/b][/u][/i]
+Spending:$0
+Balance:$0------broke!

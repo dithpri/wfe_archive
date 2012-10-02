@@ -1,12 +1,12 @@
 [color=2F4F4F][b][u]The Interplanetary Allied Empire[/u][/b][/color]
-[color=696969]QVCBNM: [b]1246[/b] $63,000; 11,000; T1; 0pp[/color] Yut-Yuiopa; Solar planets; Remnants of Sillivice; Weave Fragments; the Hub
-[color=DAA520][b]UW[/b][/color] [color=696969]Panti: [b]14[/b] $0; 11,000; 0pp Lo16[/color] Faridall; Darkford
+[color=696969]QVCBNM: [b]1246[/b] $0; 11,000; T1; 0pp[/color] Yut-Yuiopa; Solar planets; Remnants of Sillivice; Weave Fragments; the Hub
+[color=DAA520][b]UW[/b][/color] [color=696969]Panti: [b]11[/b] $0; 11,000; 0pp Lo16[/color] Faridall; Darkford
 
 [color=808000]Paradoon: [b]467[/b] $11,000; 11,000; T1; 0pp Lo St100[/color] Unova
 [color=808000]Wallflower: $26,000; 1,000; 0pp[/color]
-[color=DAA520][b]UW[/b][/color] [color=808000]Firdonia: [b]45[/b] $15,000; 10,000; T6; 0pp Lo9[/color] Talaroma
-[color=DAA520][b]UW[/b][/color] [color=808000]Archinia: [b]1[/b] $20,000; 15,000; 700pp[/color] Peridon
+[color=DAA520][b]UW[/b][/color] [color=808000]Firdonia: [b]45[/b] $15,000; 10,000; T6; 0pp Lo7[/color] Talaroma
+[color=DAA520][b]UW[/b][/color] [color=808000]Archinia: [b]1[/b] $10,000; 15,000; 700pp[/color] Peridon
 [color=DAA520][b]UW[/b][/color] [color=808000]Bronzia: $8,000; 6,000; 0pp Lo Si[/color] New Bronzia
 [color=DAA520][b]UW[/b][/color] [color=808000]Celmarog: $31,000; 1,000; 100pp[/color]
-[color=DAA520][b]UW[/b][/color] [color=808000]Tamany: [b]124[/b] $0; 10,000; 50pp Ra940 Bo40 In20 Ju40 So Lo6[/color]
+[color=DAA520][b]UW[/b][/color] [color=808000]Tamany: [b]124[/b] $0; 10,000; 50pp Ra760 Bo33 In18 Ju26 So Lo4[/color]
 [color=808000]The Singular United Laborstate of Anchor: $2,400; 100; 100pp[/color]

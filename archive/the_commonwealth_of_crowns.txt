@@ -2,7 +2,7 @@
 
 [b]Regional Executive Council[/b]
 Chancellor: [nation=short]Lentheric[/nation]
-Speaker: vacant
+Speaker: [nation=short]Noorderkwartier[/nation]
 Secretary-General: [nation=short]Borduriaa[/nation]
 [hr]
 [b]Administrative Body[/b]

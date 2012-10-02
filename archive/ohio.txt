@@ -4,6 +4,7 @@
 
 Into the battle rode the following riders:
 [nation]General Halcones[/nation]
+[nation]Nordic Arbor[/nation]
 [nation]Feuer Ritter[/nation]
 [nation]Gest[/nation]
 [nation]Scooby-Doo[/nation]
@@ -14,4 +15,4 @@ Into the battle rode the following riders:
 [nation]Darrtethia[/nation]
 [/color]
 
-[color=black]Terminated[/color][color=#000061] with[/color] [color=black]Extreme[/color] [color=#000061]Prejudice:[/color] [color=#8B0000]20 ish[/color][/b]
+[color=black]Terminated[/color][color=#000061] with[/color] [color=black]Extreme[/color] [color=#000061]Prejudice:[/color] [color=#8B0000]30[/color][/b]

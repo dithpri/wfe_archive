@@ -1,0 +1,5 @@
+Region Currency = Dosh
+
+Head of Region - [Nation]Sirrol[/Nation]
+Head of Military - [Nation]Rosov[/Nation]
+Head of Internal Affairs - [Nation]Harvel[/Nation]
