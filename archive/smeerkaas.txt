@@ -1,6 +1,6 @@
 [b][u]Military alliance[/b][/u]
-[b]Total military forces:[/b] 305.000
-[b]Total population:[/b] 203,000,000
+[b]Total military forces:[/b] 494,900
+[b]Total population:[/b] 327,000,000
 
 [b][u]National Animals[/b][/u]
 [i]- Velociraptor
@@ -8,13 +8,13 @@
 - Spinosaurus[/i]
 
 [b][u]Economics[/b][/u]
-[b]GDP:[/b] $389 billion
+[b]Total GDP:[/b] $3,94 trillion
 
 [b][u]Stock Exchange[/b][/u]
-[b]Goldcoin (G$):[/b] G$2.6631 = $1
-[b]WON (W$):[/b] W$1.2457 = $1	
-[b]Spinoguilder (S$):[/b] S$1.8321 = $1
+[b]Goldcoin (G$):[/b] G$2.7164 = $1
+[b]WON (W$):[/b] W$1 = $1.1014
+[b]Spinoguilder (S$):[/b] S$1.9130 = $1
 
 [b][u]Import/Export[/b][/u]
-[b]Import:[/b] $88,9 billion
-[b]Export:[/b] $92,9 billion
+[b]Import:[/b] $493 billion
+[b]Export:[/b] $466 billion

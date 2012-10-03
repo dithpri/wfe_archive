@@ -2,10 +2,10 @@
 
 [b][i][color=blue]WORLD ALLIANCE COUNCIL[/color][/i][/b]
 
-[b]President :[/b] [i][nation=soviet vermontopia][/i]
+[b]President :[/b] [i][nation=acquitane][/i]
 [b]Prime Minister :[/b] [i][nation=namor][/i]
-[b]Minister of Internal Affairs :[/b] [i][nation=davis germany][/i]
-[b]Minister of External Affairs :[/b] [i][nation=archie world][/i]
+[b]Minister of Internal Affairs :[/b]
+[b]Minister of External Affairs :[/b]
 
 [b][i][color=blue]WORLD ALLIANCE TRIBUNAL[/color][/i][/b]
 
@@ -13,5 +13,5 @@
 [b]Associate Justice :[/b] [i][nation=zebulor][/i]
 [b]Associate Justice :[/b] [i][nation=acquitane][/i]
 
-[hr][b][color=red]WA LINKS :[/color] [i][url=http://justpaste.it/resolutions]Council Resolutions[/url][/i] || [i][url=http://justpaste.it/decisions]Tribunal Decisions[/url][/i] || [i][url=http://tracker.conquestofabsolution.com/region=world_alliance]Statistics Tracker[/url][/i][/b]
+[hr][b][color=red]WA LINKS :[/color] [i][url=http://justpaste.it/resolutions]Council Resolutions[/url][/i] || [i][url=http://justpaste.it/decisions]Tribunal Resolutions[/url][/i] || [i][url=http://tracker.conquestofabsolution.com/region=world_alliance]Statistics Tracker[/url][/i][/b]
 [hr][hr]

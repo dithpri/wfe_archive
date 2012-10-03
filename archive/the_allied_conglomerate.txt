@@ -1,20 +1,16 @@
-This, is [region]The Allied Conglomerate[/region] ([Color=Blue][b]T.A.C.[/b][/color]).
+[u][b]International Leaders:[/b][/u]
+[b][color=Blue]Head Nation[/color][/b]: [nation]Skurmany[/nation]
+[b][color=blue]Capital Nation[/color][/b]: [nation]Ermorium[/nation]
 
-[u][b]Current Message[/b][/u]:
-[color=blue][b]Sorry[/b][/color], for the the founding Nations can [color=red][b]no longer be apart of the WA[/b][/color]... Because they believe we&amp;#39;re all the [color=red][b]same person![/b][/color]
-
-[u][b]Positions:[/b][/u]
-[b][color=green]Department of Defense[/color][/b]: [nation]Ermorium[/nation]
-[b][color=green]Foreign Relations[/color][/b]: [nation]Skurmany[/nation]
-
-[u][b]The original founding nations to this region are:[/b][/u]
+[u][b]Full Members:[/b][/u] ([color=blue]Cannot be Officially Unrecognized[/color])
 [nation]Skurmany[/nation]
 [nation]Ermorium[/nation]
-[nation]Aturia[/nation]
+[nation]Aturia[/nation] [color=green](Northern &amp;amp; Southern Empires)[/color]                                            
 [nation]Monrassa[/nation]
+[i]*Aturia is a Unified Nation[/i]
 
-[nation]South Skurmany[/nation] is a partial member, and considered a [color=red]disputed territory[/color].
-
-[nation]Conloah[/nation], Welcome to the Conglomerate!
-
-Contained Nation&amp;#39;s can follow our [Color=Blue][b][url=https://twitter.com/AlliedConglom]Twitter[/url][/b][/color] page!
+[b][u]Partial Members:[/u][/b] ([color=red]Disputed Territories/Not Fully Recognized[/color])
+[nation]South Skurmany[/nation] [color=green](Claimed by Skurmany) [/color]
+[nation]Eastern Ermorium[/nation] [color=green](Claimed by Ermorium) [/color]
+[nation]Conloah[/nation] [color=green](Not Recognized by Ermorium) [/color]
+[nation]Gainpo[/nation] [color=green](Not Recognized by Aturia) [/color]
