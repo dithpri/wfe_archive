@@ -2,10 +2,10 @@
  Emperor: [nation]Socialist_republic_of_Andrew[/nation]
  EOA Enforcer: [nation]The Orson Empire[/nation]
  Prime Minister: [nation]The Commonwealth Federation[/nation]
- Minister of Finance and Trade: [nation]Timmy_City[/nation]
+ Minister of Interuniversal Affairs: [nation]Timmy_City[/nation]
  Minister of War:[nation]United Kingdom of Poland[/nation]
  Minister of Intelligence:[nation]Cybus1[/nation]
- High Confesser: [nation]The Legion of Kane[/nation]
- Raiding Commissar:[nation]Sovjetia[/nation]
+Consul:[nation]German-Spanish Empire[/nation]
+Chief of Justice:[nation]Novo Wagondia[/nation]
 ENDORSE THE WA DELEGATE AND FOUNDER PLEASE!
 

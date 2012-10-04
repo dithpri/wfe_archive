@@ -2,11 +2,11 @@
 
 Prime Minister: [nation]Aanon Bay[/nation]
 
-Minister for Foreign Affairs: [nation]Ichaland[/nation]
-Minister for Interior Affairs: [nation]Cyrahzia[/nation]
-Minister for Defence: [nation]The replubic of the United State[/nation]
-Minister for Recruitment: [nation]Maronite peoples[/nation]
-Minister for Intel and Justice: [nation]Latin and Central America[/nation]
+Minister for Foreign Affairs: [nation]Maronite Peoples[/nation]
+Minister for Interior Affairs: [nation]Latin and Central America[/nation]
+Minister for Defence: [nation]Bankstown City[/nation]
+Minister for Recruitment: [nation]Raindrop Valley[/nation]
+Minister for Intel and Justice: [nation]Cyrahzia[/nation]
 
 [b]JUDICIARY[/B]
 
