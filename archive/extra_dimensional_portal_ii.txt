@@ -1,5 +1,8 @@
 On the other side of the portal is a high tech metropolis composed of multiple nations.
 
 Dimensional council members (DCM)
-[color=red] The Atheist Holy Empire of Philep [/color]
-[color=white] The Protectorate of Neural [/color]
+[color=red] [nation] The Atheist Holy Empire of Philep [/nation] [/color]
+[color=white] [nation] The Protectorate of Neural [/nation] [/color]
+
+Code:
+[color=green] X [/color] [color=yellow] O [/color] [color=orange] O [/color][color=darkorange] O [/color] [color=red] O [/color]
