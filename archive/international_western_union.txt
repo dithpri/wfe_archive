@@ -1,9 +1,10 @@
 [b][color=blue]The IWU Regional Government:[/color][/b]
 President:
 Vice-President:
+Presidential Advisor: 
 Secretary of Embassy Establishment:
 Secretary of Negotiations:
-WA Vice-Delegate:
+WA Vice-Delegate: [nation=short]GROSS Independency[/nation]
 Council Chairman: [nation=short]Kialga[/nation]
 
 [url=http://interwesternunion.forumotion.com/t2-regional-government-voting]Vote Here.[/url]

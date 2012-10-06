@@ -5,11 +5,11 @@
 [b]President :[/b] [i][nation=acquitane][/i]
 [b]Prime Minister :[/b] [i][nation=namor][/i]
 [b]Minister of Internal Affairs :[/b] [i][nation=zebulor][/i]
-[b]Minister of External Affairs :[/b]
+[b]Minister of External Affairs :[/b] [i][nation=aveles][/i]
 
 [b][i][color=blue]WORLD ALLIANCE TRIBUNAL[/color][/i][/b]
 
-[b]Chief Justice:[/b] [i][nation=aveles][/i]
+[b]Chief Justice:[/b]
 [b]Associate Justice :[/b] 
 [b]Associate Justice :[/b] 
 

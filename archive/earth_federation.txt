@@ -1,16 +1,16 @@
-[b][color=lightgreen]Regional Population:[/color][/b] 16,197,000,000
-[b][color=lightgreen]Smallest Member State:[/color][/b] [nation=short]X1ng[/nation]  [ 589M ]
-[b][color=lightgreen]Largest Member State:[/color][/b] [nation=short]Obesinia[/nation] [ 1.297B ] 
+[b][color=lightgreen]Regional Population:[/color][/b] 16,298,000,000
+[b][color=lightgreen]Smallest Member State:[/color][/b] [nation=short]X1ng[/nation]  [ 594M ]
+[b][color=lightgreen]Largest Member State:[/color][/b] [nation=short]Obesinia[/nation] [ 1.303B ] 
 [b][color=lightgreen]Lowest Taxation:[/color][/b] [color=lightblue]14%[/color] - [nation=short]Preston County[/nation]
 [b][color=lightgreen]Highest Taxation:[/color][/b] [color=red]83%[/color] - [nation=short]the illuminous sun[/nation]
-[b][color=lightgreen]Smallest Economy:[/color][/b] $81.1B - [nation=short]Bruceton Mills[/nation]
-[b][color=lightgreen]Largest Economy:[/color][/b] $52.1T - [nation=short]Greater Neo Germany[/nation]
+[b][color=lightgreen]Smallest Economy:[/color][/b] $81.6B - [nation=short]Bruceton Mills[/nation]
+[b][color=lightgreen]Largest Economy:[/color][/b] $52.4T - [nation=short]Greater Neo Germany[/nation]
 [b][color=lightgreen]Lowest GDP Per Capita:[/color][/b] $90.23 - [nation=short]Bruceton Mills[/nation]
-[b][color=lightgreen]Highest GDP Per Capita:[/color][/b] $40,583.12 - [nation=short]Greater Neo Germany[/nation]
+[b][color=lightgreen]Highest GDP Per Capita:[/color][/b] $40,583.37  - [nation=short]Greater Neo Germany[/nation]
 [b][color=lightgreen]Largest Portion of GDP from Public Sector:[/color][/b] [color=lightblue]87%[/color] / [color=red]13%[/color] - [nation=short]Preston County[/nation] 
 [b][color=lightgreen]Largest Portion of GDP from Private Sector:[/color][/b] [color=red]86%[/color] / [color=lightblue]14%[/color] - [nation=short]Fatboy Industries[/nation]
-[b][color=lightgreen]Largest Trade Surplus:[/color][/b] [color=lightblue]$668B[/color] - [nation=short]the illuminous sun[/nation]
-[b][color=lightgreen]Largest Trade Deficit:[/color][/b] [color=red]$448B[/color] - [nation=short]Fast Food[/nation]
+[b][color=lightgreen]Largest Trade Surplus:[/color][/b] [color=lightblue]$670B[/color] - [nation=short]the illuminous sun[/nation]
+[b][color=lightgreen]Largest Trade Deficit:[/color][/b] [color=red]$450B[/color] - [nation=short]Fast Food[/nation]
 
 [hr]
 

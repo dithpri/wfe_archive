@@ -1,6 +1,7 @@
 True North
 
-[nation]The Colony Master[/nation]
+[nation]The Colony Master[/nation] Puppet Master
+[nation]True and great north[/nation] Project Creator
 
 [region]nature[/region]
 [region]johto[/region]

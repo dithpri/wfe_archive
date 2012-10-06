@@ -10,10 +10,8 @@ Defense Minister: [nation]Civil War[/nation]
 
 Regional Recruiter: [nation]Alagaisean empirial army[/nation]
 
-Foreign Affairs Minister: [nation]New California Republic 20[/nation]
-Remember... One Enclave, One America.
-Presidential canidates: [nation]the enclave1[/nation]
-foreign defense minister canadates: [nation]federal2[/nation]
+Foreign defense minister:[nation]Federal2[/nation]
+vice president canidates: north america and great britain and New California Republic 20
 Currency: The Enclave credit.
 
 No WA members allowed!!!!!

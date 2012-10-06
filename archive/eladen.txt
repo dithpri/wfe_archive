@@ -8,10 +8,11 @@ Armed: 182nd
 Smartest: 297th
 Economy: 41st
 Manufacturing: 21st
-Arms: 14th
-Agriculture: 12th
+Arms: 18th
+Agriculture: 13th
 Fishing: 5th
 Auto: 7th
+Cheese: 12th
 Avoided: 66th
 
 [b][color=green]#1 in World[/color][/b]
