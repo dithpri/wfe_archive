@@ -6,8 +6,9 @@ Secretary of Embassy Establishment:
 Secretary of Negotiations:
 WA Vice-Delegate: [nation=short]GROSS Independency[/nation]
 Council Chairman: [nation=short]Kialga[/nation]
-
-[url=http://interwesternunion.forumotion.com/t2-regional-government-voting]Vote Here.[/url]
+[hr]
+[b][color=purple]Ambassadors:[/color][/b]
+[region]World Alliance[/region]: [nation]IWU Ambassador[/nation]
 
 [hr]
 [url=http://interwesternunion.forumotion.com/]Forum[/url]

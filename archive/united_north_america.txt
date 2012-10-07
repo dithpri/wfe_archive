@@ -1,6 +1,6 @@
 **[b] Welcome to United North America[/b]!!**
 
-[color=blue] We are a Peaceful Region. We welcome all Embassy Requests from other regions who also seek peace and freedom. We welcome all nations here and we offer you prosperity, freedom, free speech, free and open elections. [/color]  
+[color=blue] We are a Peaceful Region. We welcome all Embassy Requests from other regions who also seek peace and freedom.[/color]  
 
 -----------------------------------------------------------------------------------------
 
@@ -23,9 +23,11 @@ Indorse your WA delegate: [nation]East Omaha[/nation]
 [color=Red] Regional Rules:
 
 No spamming 
-No recruiting[/color]
+No recruiting
+Be active or be rejected
+[/color]
 
 
-[color=black]Defense Condition[/color]: 3
+[color=black]Defense Condition[/color]: 5
 
 

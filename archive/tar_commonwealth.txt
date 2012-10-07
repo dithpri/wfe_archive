@@ -12,3 +12,5 @@ Join today!
 -[region]The Federation of Democratic Nations[/region]
 -[region]The United Earth Federation[/region]
 -[region]The Federation of Freedom Fighters[/region]
+-[region]Region[/region]
+-[region]The Anti Allied Republics[/region]
