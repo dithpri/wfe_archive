@@ -1,17 +1,17 @@
 A unique place to live.We would be delighted if you join us. We also award noble peace prizes and we have a regional senate. You will have a fun time playing Nationstates! 
 
-Secretary of Energy:
-Regional Foreign affairs:
+Secretary of Energy:[nation]Romano Vargas[/nation]
+Regional Foreign affairs:[nation]Zaa Stick[/nation]
 Secretary of Environment:
-Defender General:
-Treasurer:
+Defender General:[nation]Grovia[/nation]
+Treasurer:[nation]Chimneyswifters[/nation]
 Colony Master:
-Secretary of Finance:
-Secretary of State:
-Ambassadors:
-Secretary of Education:
+Secretary of State:[nation]Insula de Scientia et de libertate[/nation]
+Ambassadors:[nation]Zenuha[/nation], [nation]Double Bunz[/nation]
+Secretary of Education: [nation]Selexa[/nation]
 
-Space program info: [color=blue]We are currently on a mission.[/color].
+Space program info:
+
 News: [color=Purple]The Sunalayan Olympics[/color]! 
-[color=green]Elections for jobs![/color]
+
  

@@ -2,22 +2,16 @@
 
 [color=green] Operational headquarters have been moved to [region=Castle on the Hill][/color]
 [color=purple]This region tries to bring justice to the free peoples.[/color]
-[color=blue]Detags executed by Ravanian Justice-nations :[b] 151 [/b][/color]
+[color=blue]Detags executed by Ravanian Justice-nations :[b] 155 [/b][/color]
 
 [hr]
 [b][color=red][u]Justice-detag list:[/u][/color]
 
-Sep 23rd: [region=The Depths of Oblivion]
-Sep 23rd: [region=The Rebel Alliance]
-Sep 23rd: [region=Rockin Rockets]
-Sep 23rd: [region=United Nations of the North West Pacific]
-Oct 1st: [region=The Last of the Earth]
-Oct 1st: [region=Persian Empire]
-Oct 1st: [region=The Conservative Alliance]
-Oct 1st: [region=Eranshahr]
-Oct 1st: [region=Ptolemaic Kingdom]
-Oct 1st: [region=Magicka]
 Oct 1st: [region=Gentoo Linux]
+Oct 7th: [region=Republic of Neros]
+Oct 7th: [region=Great White Brotherhood]
+Oct 7th: [region=Cyborg Pirate Ninja Jesus]
+Oct 7th: [region=DFI]
 [hr]
 [color=purple][u]Detag to-do-list:[/u][/color][/b]
 [color=blue] Unban banned defender nations

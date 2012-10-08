@@ -1,12 +1,13 @@
-[i]Welcome to the Fort Archipelago[/i]. This region is under the Delegacy of  [b][u][nation]Balgokuth[/nation][/b][/u]
+[i]Welcome to the Fort Archipelago.[/i]
 
-[b] Voting has finished[/b], The winner is
-[Nation]jyushin[/nation]
-please allocate endorsements appropriately
+This region is under the Delegacy of  [b][u][nation]Jyushin[/nation][/b][/u] under the [i]Third Jyushin Sanctum[/i].
+
+[b]Due to the absence of the Founding State, this Region is now under Provisional Interim Constitutional Law [C.F.A. XI-I][/b].
 
 Members of Incumbent Government
--[color=#77003c]Delegate/Head of Government and Minister for Defence:[/color] [b][Nation]Balgokuth[/nation][/b]
--[color=#6a006a]Minister for Magic and Foreign Affairs:[/color] [b][Nation]Jyushin[/nation][/b]
--[color=#2b0057]Minister for Ministers[/color] [b][Nation]1025world[/nation][/b]
--[color=#005682]Minister for Economics[/color] [b][nation]Macro-Economics[/nation][/b]
--[color=#008282]Minister for Internal Affairs[/color] [b][Nation]Lavode[/nation][/b]
+-[color=#77003c]Delegate &amp;amp; Praesidens Sancti &amp;amp; Legatus Exercitum Fortii:[/color] [b][Nation]Jyushin[/nation][/b]
+-[color=#6a006a]Consul for Economics &amp;amp; Praetor Aerarii Fortii[/color]: [b][Nation]macro-economics[/nation][/b]
+-[color=#2b0057]Consul for Defence &amp;amp; Praefectus Praetorianorum Fortii[/color]: [i]vacant[/i]
+-[color=#005682]Consul for Interregional Affairs and Trade[/color]: [i]vacant[/i]
+-[color=#008282]Consul for Regional Social Affairs[/color]: [i]vacant[/i]
+-[color=#008282]Suppraetor Granariorum Aquaeductuumque[/color]: [b][Nation]1025world[/nation][/b]

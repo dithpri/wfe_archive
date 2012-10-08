@@ -1,5 +1,7 @@
-A puppet storage region for the user behind [nation]Equestrian States[/nation].
+A private puppet storage region for the user behind [nation]Equestrian States[/nation].
 
 Embassies will be accepted depending on the user&amp;#39;s OOC relationship with the proposing region.
 
-[nation=short]Equestrian States[/nation] owns [b]116[/b] puppets as of 8/8/2012
+[nation=short]Equestrian States[/nation] controls over [b]125[/b] puppets as of 10/7/2012
+
+Puppets that are no longer used are sent to the [region]Equestrian Graveyard[/region] region for disposal

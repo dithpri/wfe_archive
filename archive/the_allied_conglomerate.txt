@@ -3,14 +3,12 @@
 [b][color=blue]Capital Nation[/color][/b]: [nation]Ermorium[/nation]
 
 [u][b]Full Members:[/b][/u] ([color=blue]Cannot be Officially Unrecognized[/color])
-[nation]Skurmany[/nation]
+[nation]Skurmany[/nation] &amp;amp; [nation]South Skurmany[/nation]
 [nation]Ermorium[/nation]
 [nation]Aturia[/nation] [color=green](Northern &amp;amp; Southern Empires)[/color]                                            
-[nation]Monrassa[/nation]
+[nation]Monrassa[/nation] &amp;amp; [nation]Gainpo[/nation]
 [i]*Aturia is a Unified Nation[/i]
 
 [b][u]Partial Members:[/u][/b] ([color=red]Disputed Territories/Not Fully Recognized[/color])
-[nation]South Skurmany[/nation] [color=green](Claimed by Skurmany) [/color]
 [nation]Eastern Ermorium[/nation] [color=green](Claimed by Ermorium) [/color]
 [nation]Conloah[/nation] [color=green](Not Recognized by Ermorium) [/color]
-[nation]Gainpo[/nation] [color=green](Not Recognized by Aturia) [/color]

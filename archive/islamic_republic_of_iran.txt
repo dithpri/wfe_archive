@@ -10,11 +10,11 @@
 
 [u][b]Ministries:[/b][/u]
 
-[b]Minister of Internal Affairs:[/b]
-[b]Minister of Foreign Affairs:[/b] [nation]Eshtikistan[/nation]
-[b]Minister of Defense :[/b] [nation]Iranian Revolutionary guard corps[/nation]
+[b]Minister of Internal Affairs:[/b] [nation]Alliance of Builders of Islamic Iran[/nation]
+[b]Minister of Foreign Affairs:[/b] [nation]Ognjen Ahmadinejad[/nation]
+[b]Minister of Defense :[/b] [nation]Iranian Revolutionary Guard Corps[/nation]
 
-[b][color=red]Allied With: [region]United Empire of Islam[/region], [region]RORMS[/region], and [region]Foxtopia[/region][/b][/color]
+[b][color=red]Allied With: [region]United Empire of Islam[/region], [region]RORMS[/region], [region]Foxtopia[/region] and [region]New Germany[/region][/b][/color]
 
 [color=red][b]Against: [region]The Black Riders[/region] and [region]Death Star[/region][/b][/color]
 
