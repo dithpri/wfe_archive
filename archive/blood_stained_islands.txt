@@ -1,13 +1,9 @@
-The Blood Stained Islands are a gathering of island nations surrounding a forested mainland where the region&amp;#39;s capital is situated. With constant nation war being fought the island soaked in the blood of it&amp;#39;s nations, only recently have the nations ended their feuds and gained a regional peace. Until the next war...
+The Blood Stained Islands are a group of thousands of islands surrounding one large land mass, everything covered with scattered mountains and forests, and are imbued with magical essence in certain ponds and lakes. This essence has caused war between nations, as well as natives. Because of the wars, the islands have been soaked with the blood of millions of youth and only recently has a peace treaty brought peace to all. Until the next war begins...
 
 [b]Positions[/b]:
-Northern Islands Senator: [nation]Demonicangel[/nation]
-Western Islands Senator: 
-Southern Islands Senator: 
-Eastern Islands Senator: [nation]Katsaris[/nation]
-Island Colonies Senator: 
-Regional Army General: [nation]Demonicopolis[/nation]
-Regional Navy General: [nation]Katsaris[/nation]
-Regional Air Force General: 
-
-The Regional Olympics will be held at: 
+Native Representative: [nation]Katsaris[/nation]
+Central Island Representative:
+Northern Island Representative: [nation]Demonicopolis[/nation]
+Southern Island Representative:
+Eastern Island Representative: 
+Western Island Representative:
