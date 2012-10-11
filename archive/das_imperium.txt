@@ -8,7 +8,7 @@
 [color=red]Temporary Dictator[/color] [nation]Doppio Giudici[/nation]
 
 [color=black]Minister of the State:[/color] [nation]New Roman Empire[/nation]
-[color=black]Minister of Foreign Affairs[/color]: [nation]New_Rome_Pax[/nation]
+[color=black]Minister of Foreign Affairs[/color]: [nation][/nation]
 [color=black]Minister of War[/color]: [nation]Das_Stig[/nation]
 [hr][u]Das Imperium News and Announcements:[/u]
 

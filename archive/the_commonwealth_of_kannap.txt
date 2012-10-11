@@ -1,1 +1,12 @@
 Region for the Commonwealth nations of Kannap.
+
+[b]Nations under the crown of Kannap:[/b]
+[nation]South Kannap[/nation]
+[nation]Geratu[/nation]
+
+Cabinet of the Commonwealth:
+Steven Harrison, Geratu
+Crystal Meadles, Geratu
+David Classing, South Kannap
+Jessica Clengin, South Kannap
+Mindy Landon, South Kannap

@@ -1,9 +1,13 @@
 [b][color=darkred][u]THE NEW SITH EMPIRE[/u][/color]
 &amp;quot;Over the course of the next thousand years, the Sith Empire recovered its strength. The Grand Emperor developed a massive Imperial military, a fleet of advanced warships, he promises you destruction, and an Empire destined to dominate the galaxy!&amp;quot;
 
-[u][color=darkred]MEMBERS OF THE INNER CIRCLE:[/color][/u]
-[color=darkslategrey]Grand Emperor:[nation]Imperial tatine[/nation]
-Leader Of The Dark Council:
-Supreme Commander Of The Armed Forces:[nation]Bo Jinkins[/nation]
-Minister Of Imperial Affairs:[nation]Tarellia[/nation]
-Grand Inquisitor:[nation]Germaner[/nation][/color][/b]
+[u][color=darkred]PYRAMIDS OF THE NEW SITH EMPIRE:[/color][/u]
+The Pyramid Of Sith Knowledge:
+[color=blue]The Pyramid Of The Defence Of The Empire:[nation]Tarellia[/nation] [/color]
+The Pyramid Of Expansion And Diplomacy:
+The Pyramid Of Imperial Intelligence:
+The Pyramid Of Laws And Justice:
+[color=orange]The Pyramid Of Military Strategy:[nation]Bo Jinkins[/nation] [/color]
+The Pyramid Of Production And Logistics:
+The Pyramid Of Technological Science:
+[/b]

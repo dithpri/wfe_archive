@@ -1,6 +1,6 @@
 [i]Welcome to the Fort Archipelago.[/i]
 
-This region is under the Delegacy of  [b][u][nation]Jyushin[/nation][/b][/u] under the [i]Third Jyushin Sanctum[/i].
+This region is under the Delegacy of the [i]Third Jyushin Sanctum[/i].
 
 [b]Due to the absence of the Founding State, this Region is now under Provisional Interim Constitutional Law [C.F.A. XI-I][/b].
 
@@ -9,5 +9,5 @@ Members of Incumbent Government
 -[color=#6a006a]Consul for Economics &amp;amp; Praetor Aerarii Fortii[/color]: [b][Nation]macro-economics[/nation][/b]
 -[color=#2b0057]Consul for Defence &amp;amp; Praefectus Praetorianorum Fortii[/color]: [i]vacant[/i]
 -[color=#005682]Consul for Interregional Affairs and Trade[/color]: [i]vacant[/i]
--[color=#008282]Consul for Regional Social Affairs[/color]: [i]vacant[/i]
+-[color=#008282]Consul for Regional Social Affairs[/color]: [b][nation]lavode[/nation][/b]
 -[color=#008282]Suppraetor Granariorum Aquaeductuumque[/color]: [b][Nation]1025world[/nation][/b]
