@@ -4,20 +4,19 @@
 
 [b][u]Officials[/u][/b]
 
-[b]Supreme Leader (Ayatollah):[/b] [nation]ognjen ahmadinejad[/nation]
-[b]President:[/b] [nation]western arab empire[/nation]
-[b]Vice-President:[/b] [nation]world powers[/nation]
+[b]Supreme Leader (Ayatollah):[/b] [nation]Ognjen Ahmadinejad[/nation]
+[b]President:[/b] [nation]Iranian Revolutionary Guard Corps[/nation]
+[b]Vice-President:[/b] VACANT
 
 [u][b]Ministries:[/b][/u]
 
 [b]Minister of Internal Affairs:[/b] [nation]Alliance of Builders of Islamic Iran[/nation]
 [b]Minister of Foreign Affairs:[/b] [nation]Eshtikistan[/nation]
-[b]Minister of Defense :[/b] [nation]Iranian Revolutionary Guard Corps[/nation]
+[b]Minister of Defense:[/b] [nation]Iranian Revolutionary Guard Corps[/nation]
+[b]Ambassador to RORMS:[/b] [nation]Bagghar[/nation]
 
-[b][color=red]Allied With: [region]United Empire of Islam[/region], [region]RORMS[/region], [region]Foxtopia[/region] and [region]New Germany[/region][/b][/color]
+[b][color=red]Allied With: [region]RORMS[/region], [region]Foxtopia[/region] and [region]New Germany[/region][/b][/color]
 
 [color=red][b]Against: [region]The Black Riders[/region] and [region]Death Star[/region][/b][/color]
 
 [color=red][b] The [region]Islamic Republic of Iran[/region] will accept most embassy requests. [/b][/color]
-
-[b][color=red]All non-WA members are asked to move to the [region]Army base of Islamic Republic of Iran[/region][/color][/b]

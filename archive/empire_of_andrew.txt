@@ -1,5 +1,5 @@
 [b]High Command:[/b]
- Emperor: [nation]Socialist_republic_of_Andrew[/nation]
+ Premier : [nation]Socialist_republic_of_Andrew[/nation]
  EOA Enforcer: [nation]The Orson Empire[/nation]
  Prime Minister: [nation]The Commonwealth Federation[/nation]
  Minister of Interuniversal Affairs: [nation]Timmy_City[/nation]
