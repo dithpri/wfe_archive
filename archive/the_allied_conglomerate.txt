@@ -1,9 +1,5 @@
-[u][b]International Leaders:[/b][/u]
-[b][color=Blue]Head Nation[/color][/b]: [nation]Skurmany[/nation] + [nation]South Skurmany[/nation]
-[b][color=blue]Capital Nation[/color][/b]: [nation]Ermorium[/nation]
-
 [u][b]Full Members:[/b][/u] ([color=blue]Cannot be Officially Unrecognized[/color])
-[nation]Skurmany[/nation] + [nation]South Skurmany[/nation]
+[nation]Skurmany[/nation] + [nation]South Skurmany[/nation] 
 [nation]Ermorium[/nation]
 [nation]Aturia[/nation] [color=green](Northern &amp;amp; Southern Empires)[/color]                                            
 [nation]Monrassa[/nation] + [nation]Gainpo[/nation]
@@ -12,3 +8,6 @@
 [b][u]Partial Members:[/u][/b] ([color=red]Disputed Territories/Not Fully Recognized[/color])
 [nation]Eastern Ermorium[/nation] [color=green](Claimed &amp;amp; Unrecognized by Ermorium) [/color]
 [nation]Conloah[/nation] [color=green](Not Recognized by Ermorium) [/color]
+
+[b][u]Other Members:[/u][/b] 
+[nation]Shioque[/nation]

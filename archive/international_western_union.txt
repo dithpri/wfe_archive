@@ -1,10 +1,11 @@
 [b][color=blue]The IWU Regional Government:[/color][/b]
 President: [nation=short]Cyphet[/nation]
-Vice-President:
-Presidential Advisor: 
+Vice-President: [nation=short]Skyblock[/nation]
+Presidential Adviser: 
 Secretary of Embassy Establishment:
 Secretary of Negotiations:
 Secretary of Recruitment:
+Secretary of Intelligence: [nation=short]GROSS Independency[/nation]
 WA Vice-Delegate: [nation=short]GROSS Independency[/nation]
 Council Chairman: [nation=short]Kialga[/nation]
 [hr]

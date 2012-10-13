@@ -6,11 +6,11 @@ Speaker: [nation=short]Noorderkwartier[/nation]
 Secretary-General: [nation=short]Borduriaa[/nation]
 [hr]
 [b]Administrative Body[/b]
-Minister of Culture: [nation=short]Besate[/nation]
-Minister of Foreign Affairs: [nation=short]Belhorizon[/nation]
-Minister of Defence and Justice:[nation=short]Lentheric[/nation]
-Minister of Internal Affairs: [nation=short]Syldevia[/nation]
-Minister of Finance: [nation=short]GuatemalaCity[/nation]
+Minister of Culture: Vacant
+Minister of Foreign Affairs: Vacant
+Minister of Defence and Justice:Vacant
+Minister of Internal Affairs: Vacant
+Minister of Finance: Vacant
 Cartographer:[nation=short]The quadruple Alliance[/nation]
 [hr]
 [b]Crowns Court of Justice[/b]
@@ -20,5 +20,4 @@ Cartographer:[nation=short]The quadruple Alliance[/nation]
 
 Alert level:[color=green]GREEN[/color]
 
-[url=http://w11.zetaboards.com/CommonwealthOfCrowns/index/]Forum[/url][url=http://www.nswiki.net/index.php?title=The_Commonwealth_of_Crowns]CoC Constitution, History, Laws [/url][url=http://i1236.photobucket.com/albums/ff444/BanditoWalrus/cocmapv-8.png]CoC Map[/url][url=http://www.youtube.com/watch?v=fmdDEwhnqPk&amp;amp;feature=youtu.be]Anthem[/url] [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=177061]Apply for CoC [/url] [url=http://tracker.conquestofabsolution.com/region=the_commonwealth_of_crowns]NSAbsolution[/url]
-[url=http://mibbit.com/?channel=%23CoC&amp;amp;server=irc.mibbit.net]CoC IRC Link[/url]
+[url=http://w11.zetaboards.com/CommonwealthOfCrowns/index/]Forum[/url][url=http://www.nswiki.net/index.php?title=The_Commonwealth_of_Crowns]CoC Constitution, History, Laws [/url][url=http://i1236.photobucket.com/albums/ff444/BanditoWalrus/cocmapv-8.png]CoC Map[/url][url=http://www.youtube.com/watch?v=fmdDEwhnqPk&amp;amp;feature=youtu.be]Anthem[/url] [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=177061]Apply for CoC [/url] [url=http://tracker.conquestofabsolution.com/region=the_commonwealth_of_crowns]NSAbsolution[/url][url=http://mibbit.com/?channel=%23CoC&amp;amp;server=irc.mibbit.net]CoC IRC Link[/url]

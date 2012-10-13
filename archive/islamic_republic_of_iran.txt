@@ -5,15 +5,15 @@
 [b][u]Officials[/u][/b]
 
 [b]Supreme Leader (Ayatollah):[/b] [nation]Ognjen Ahmadinejad[/nation]
-[b]President:[/b] [nation]Iranian Revolutionary Guard Corps[/nation]
-[b]Vice-President:[/b] VACANT
+[b]President:[/b] [nation]The Assembly of Experts[/nation]
+[b]Vice-President and Head of Intelligence and National Security:[/b] [nation]The Free State of Bavaria[/nation]
 
 [u][b]Ministries:[/b][/u]
 
 [b]Minister of Internal Affairs:[/b] [nation]Alliance of Builders of Islamic Iran[/nation]
-[b]Minister of Foreign Affairs:[/b] [nation]Eshtikistan[/nation]
-[b]Minister of Defense:[/b] [nation]Iranian Revolutionary Guard Corps[/nation]
-[b]Ambassador to RORMS:[/b] [nation]Bagghar[/nation]
+[b]Minister of Foreign Affairs:[/b] VACANT
+[b]Minister of Defense:[/b] VACANT
+[b]RORMS Ambassador to Iran:[/b] [nation]Bagghar[/nation]
 
 [b][color=red]Allied With: [region]RORMS[/region], [region]Foxtopia[/region] and [region]New Germany[/region][/b][/color]
 

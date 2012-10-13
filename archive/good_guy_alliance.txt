@@ -12,11 +12,11 @@ Anti-Fascist, Anti-Totalitarian, Anti-Corrupt
 
 [hr]
 
-[b]President[/b]: St James/ Happy Friends Land
+[b]President[/b]: [nation=short]St James[/nation]/ [nation=short]Happy Friends Land[/nation]
 [b]Foreign Ambassador[/b]: vacant
-[b]Recruiters[/b]: [nation=short]The Great mid-north[/nation], [nation=short]glakaw[/nation]
-[b]Minister of Polling[/b]: vacant
-[b]Security General[/b]: vacant
+[b]Recruiters[/b]: [nation=short]The mid-north[/nation], [nation=short]glakaw[/nation]
+[b]Minister of Polling[/b]: [nation=short]Libertathia[/nation]
+[b]Security General[/b]: [nation=short]Radicai[/nation]
 
 [hr]
 
@@ -26,7 +26,8 @@ Anti-Fascist, Anti-Totalitarian, Anti-Corrupt
 [*][region]Asgard[/region]
 [*][region]The Union of Nations Against Fascism[/region]
 [*][region]Natan Region[/region]
-[*]Currently administering [region]Pax Imperium[/region] and [region]Iran[/region]
+[*]Currently protecting [region]Pax Imperium[/region] and [region]Iran[/region]
+[*][region]Oceanea[/region]
 
 [hr]
 

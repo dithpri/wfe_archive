@@ -1,11 +1,16 @@
 Coalition President: [nation]Ism[/nation]
+[color=royalblue][b][u][i]President&amp;#39;s Cabinet:[/b][/u][/i][/color]
 Coalition Vice President: [nation]Ackermann[/nation]
-FFT Coordinators: [nation]Prison Guard[/nation],[nation]Ahgrahbah[/nation]
-Regional Legistlator: [nation]Croazstan[/nation]
+[color=darkgreen]FFT Coordinators: [nation]Prison Guard[/nation],[nation]Ahgrahbah[/nation]:*Auction*[/color]
+[color=darkgreen]Regional Legistlator: [nation]Croazstan[/nation]:*Auction*[/color]
 Diplomat to AOAN: [nation]Alcatrazin[/nation]
+[color=darkgreen]Embassy Manager:*Auction*[/color]
+-------[color=darkgreen]Embassy Oversight:*Auction*[/color]
+[color=darkgreen]Finacial Advisor:*Auction*[/color]
+[color=darkgreen]Media:*Auction*[/color]
+[color=darkgreen]Regional Spokesman:*Auction*[/color]
 [b][u][i]NEWS:[/b][/u][/i]
--[nation=short+noflag]Alcatrazin[/nation], the father of COUC&amp;#39;s [i]economy?[/i]
--A new bank in COUC?!
+Regional Benifit!
 [b][u][i]National Treasury:[/b][/u][/i]
 Spending:$0
 Balance:$1,500------ not broke!
