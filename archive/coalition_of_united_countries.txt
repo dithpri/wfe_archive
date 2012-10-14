@@ -1,17 +1,25 @@
 Coalition President: [nation]Ism[/nation]
 [color=royalblue][b][u][i]President&amp;#39;s Cabinet:[/b][/u][/i][/color]
 Coalition Vice President: [nation]Ackermann[/nation]
-[color=darkgreen]FFT Coordinators: [nation]Prison Guard[/nation],[nation]Ahgrahbah[/nation]:*Auction*[/color]
-[color=darkgreen]Regional Legistlator: [nation]Croazstan[/nation]:*Auction*[/color]
-Diplomat to AOAN: [nation]Alcatrazin[/nation]
-[color=darkgreen]Embassy Manager:*Auction*[/color]
--------[color=darkgreen]Embassy Oversight:*Auction*[/color]
-[color=darkgreen]Finacial Advisor:*Auction*[/color]
-[color=darkgreen]Media:*Auction*[/color]
-[color=darkgreen]Regional Spokesman:*Auction*[/color]
+
+FFT Coordinators:[nation]Ahgrahbah[/nation]:*Auction*
+
+Regional Legistlator: [nation]White Moon[/nation]
+
+Diplomat to AOAN: [nation]Alcatrazin Command[/nation]
+
+Embassy Manager:[nation]Croazstan[/nation]
+-------Embassy Oversight:[nation]Croazstan[/nation]
+
+Finacial Advisor:[nation]Republican Island of Paradise[/nation]
+
+Media:[nation]Orange Sky[/nation]
+
+Regional Spokesman: [nation]Prison Guard[/nation]
+
 [b][u][i]NEWS:[/b][/u][/i]
 Regional Benifit!
 [b][u][i]National Treasury:[/b][/u][/i]
 Spending:$0
-Balance:$1,500------ not broke!
+Balance:$256,000,500
 [url=http://www.broomdces.com/nseconomy/regions.php?region=Coalition+of+United+Countries]COUC Regional Nation control room![/url]
