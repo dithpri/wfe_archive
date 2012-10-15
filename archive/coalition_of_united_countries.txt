@@ -2,7 +2,7 @@ Coalition President: [nation]Ism[/nation]
 [color=royalblue][b][u][i]President&amp;#39;s Cabinet:[/b][/u][/i][/color]
 Coalition Vice President: [nation]Ackermann[/nation]
 
-FFT Coordinators:[nation]Ahgrahbah[/nation]:*Auction*
+FFT Coordinators:[nation]Ahgrahbah[/nation]
 
 Regional Legistlator: [nation]White Moon[/nation]
 
@@ -21,5 +21,5 @@ Regional Spokesman: [nation]Prison Guard[/nation]
 Regional Benifit!
 [b][u][i]National Treasury:[/b][/u][/i]
 Spending:$0
-Balance:$256,000,500
+Balance:556,000,500
 [url=http://www.broomdces.com/nseconomy/regions.php?region=Coalition+of+United+Countries]COUC Regional Nation control room![/url]

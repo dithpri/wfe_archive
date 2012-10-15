@@ -1,5 +1,5 @@
-[b]Leader-[/b] [nation]Redwing II[/nation]
-[b]Tactical Expert-[/b]
+[b]Leader-[/b] [nation=short]Redwing II[/nation]
+[b]Tactical Expert-[/b] [nation=short]Kid Flash[/nation]
 [b]Diplomatic Liaison-[/b]
 [b]Recruitment Officer-[/b]
 [b]Technical Expert-[/b]

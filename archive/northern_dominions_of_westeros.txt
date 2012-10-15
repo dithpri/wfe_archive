@@ -1,7 +1,8 @@
 [color=red]Welcome to Northern Westeros[/color]
 
+[color=black]High Lord:[/color][nation]Falas Doriath[/nation]
+
 [color=blue]Executive Operations[/color]
-[color=black]High Lord:[/color]
 [color=black]Warden:[/color]
 
 [color=green]Legislative Operations[/color]
