@@ -8,6 +8,8 @@ Secretary: [nation]Alagaisean empirial army[/nation]
 
 Defense Minister: [nation]Civil War[/nation]
 
+Seceratary of War: [nation]The gods2[/nation]
+
 Regional Recruiter: [nation]Alagaisean empirial army[/nation]
 
 Foreign defense minister:[nation]Federal2[/nation]

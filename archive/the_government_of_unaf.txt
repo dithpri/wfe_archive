@@ -1,1 +1,12 @@
-[b]The Politburo of [region]The Union of Nations Against Fascism[/region] is to be re-shuffled on the 12th October. Please stand by.[/b]
+[b]Here is the Politburo of [region]The Union of Nations Against Fascism[/region]:
+
+People&amp;#39;s Commissar for Administration: [nation=short]The Fascist-Free Lands[/nation]
+People&amp;#39;s Commissar for Administration&amp;#39;s Assistant: [nation=short]Fynnbays[/nation]
+People&amp;#39;s Delegate: [nation=short]The UDSS[/nation]
+People&amp;#39;s Vice-Delegate: [nation=short]Enderby[/nation]
+People&amp;#39;s Commissars for Foreign Affairs: [nation=short]Communist Quinntopia[/nation], [nation=short]The UDSS[/nation]
+People&amp;#39;s Commissars for Internal Affairs: [nation=short]Fynnbays[/nation], [nation=short]The Not Evil UNAF Police[/nation]
+People&amp;#39;s Commissar for Intelligence: [nation=short]Communist Quinntopia[/nation]
+People&amp;#39;s Commissar for Justice: [nation=short]Nyekundustan[/nation]
+
+[color=red]Next Politburo reshuffle: 25th-27th October[/color][/b]
