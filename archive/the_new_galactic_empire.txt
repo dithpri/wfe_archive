@@ -10,7 +10,7 @@
 - [b]Associate Justices[/b]: [nation=short]Yelklia[/nation], [nation=short]Vacant [/nation][hr]
 [b][u]The Moff Council[/u][/b]
 - [b]Moff of Foreign Affairs[/b]: [nation=short]The Chommell Sector[/nation]
---- [b]Vice Moff of FA[/b]: [nation=short]Vacant [/nation]
+--- [b]Vice Moff of FA[/b]: [nation=short]the order of the eagles assasins[/nation]
 - [b]Moff of Recruitment[/b]: [nation=short]The united nation of clone troopers[/nation] 
 - [b]Interim Moff of War[/b]: [nation=short]The Lost Tribe of Sith[/nation]
 --- [b]Vice Moff of War[/b]: [nation=short]The Guardians of the Covenant[/nation]

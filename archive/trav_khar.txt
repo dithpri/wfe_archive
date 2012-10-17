@@ -5,10 +5,11 @@
 [url=http://travkharv.proboards.com/index.cgi?action=display&amp;amp;board=bb&amp;amp;thread=93]Allies[/url]
 [url=http://s7.zetaboards.com/FRA/index/]FRA[/url]
 
-[color=red]President: [/b][nation=short]Drugged Monkeys[/nation][/color]
-[color=blue][b]Prime Minister: [/b][nation=short]Seattile[/nation][/color]
-[color=orange][b]Head of Intelligence: [/b][nation=short]Italian Union[/nation][/color]
-[color=darkblue][b]Chief Consultant: [/b][nation=short]Kardas 1[/nation][/color]
+[color=red]President: [/b][nation=short]Kardas 1[/nation][/color]
+[color=blue][b]Prime Minister: [/b][nation=short]Cantiliahantan[/nation][/color]
+[color=orange][b]Intelligence Consultant: [/b][nation=short]Italian Union[/nation][/color]
+[color=darkred][b]Military Consultant: [/b][nation=short]Drugged Monkeys[/nation][/color]
+[color=darkblue][b]Chief Consultant: [/b][nation=short]Seattile[/nation][/color]
 [color=purple][b]Emperor: [/b][nation=short]Neo Nibu[/nation][/color]
 
 [i][color=blue]And the white knight is talking backwards

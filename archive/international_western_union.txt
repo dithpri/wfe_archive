@@ -2,7 +2,7 @@
 President: [nation=short]Cyphet[/nation]
 Vice-President: [nation=short]Skyblock[/nation]
 Presidential Adviser: [nation=short]Richtofen[/nation]
-Secretary of Embassy Establishment:
+Secretary of Embassy Establishment: [nation=short]Kialga[/nation]
 Secretary of Recruitment:
 Secretary of Intelligence: [nation=short]GROSS Independency[/nation]
 WA Vice-Delegate: [nation=short]GROSS Independency[/nation]
