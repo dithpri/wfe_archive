@@ -5,6 +5,6 @@
 This military unit is being trained by [nation]jekrehnot[/nation]
 
 [b]Soldiers:[/b]
-Pvt.[nation=short+noflag]Adolfhitleristan[/nation]
-Pvt.[nation=short+noflag]Pauperes commilitones Christi Templique[/nation]
+Cpl.[nation=short+noflag]Romanian Reich[/nation]
 Pvt.[nation=short+noflag]Nodorg[/nation]
+Pvt.[nation=short+noflag]ArgenReich[/nation]

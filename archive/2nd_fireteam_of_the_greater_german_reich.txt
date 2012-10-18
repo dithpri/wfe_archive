@@ -6,5 +6,4 @@ Sgt.[nation=short+noflag]Einserdvan[/nation]
 
 [b]Soldiers:[/b]
 Cpl.[nation=short+noflag]88bottlesofbeer[/nation]
-Pvt.[nation=short+noflag]Romanian Reich[/nation]
 Pvt.[nation=short+noflag]Nischeland[/nation]

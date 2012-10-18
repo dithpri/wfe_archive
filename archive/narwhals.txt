@@ -1,12 +1,12 @@
 The narwhal capital of the world.
-death rates as of the 15 of October
-heart disease       43.2%
-old age               40%
-murder                10%
-exposure             4.6%
-cancer                2.3%
-acts of god          0.7%
-lost in wilderness   0.4%
-capital punishment 0.5%
+death rates as of the 16 of October
+old age               45.5%
+heart disease       35.8%
+exposure             7%
+murder                5.1%
+cancer                3.9%
+capital punishment 1.3%
+acts of god          0.8%
+lost in wilderness   0.3%
 scurvey               0.1%
 sunburn               0.1%

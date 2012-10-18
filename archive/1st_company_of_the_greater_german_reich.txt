@@ -1,9 +1,1 @@
-[b]This is the 1st Company of [region]The Greater German Reich[/region].[/b]
-
-[b]Commander:[/b]
-Maj.[nation=short+noflag]Engelabad[/nation]
-
-[b]Units:[/b]
-[region]1st Platoon of the Greater German Reich[/region]
-[region]2nd Platoon of the Greater German Reich[/region]
-[region]3rd Platoon of the Greater German Reich[/region]
+n/a

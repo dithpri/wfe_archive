@@ -1,1 +1,7 @@
 A region of Palm Trees, Sunshine, and Freedom.
+
+Nations:
+Founder: [nation]The Island Kingdom[/nation]
+Delegate: [nation]Chrotonia[/nation]
+Member: [nation]Dusk Star[/nation]
+Member: [nation]Freebirlandia[/nation]

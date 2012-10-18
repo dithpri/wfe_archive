@@ -1,9 +1,4 @@
 President-  [nation=dakota_united]
-Vice president: none
-Congress: none
+Vice president: [nation=the_llamas]
+Congress: [nation=dakota_united] [nation=the_llamas] and last [nation=corn_dog_country]
 
-
-
-Elections this Friday! And I will remain president until I step down.
-There will be 3 congress people. And 1 vice president and the vice president can be apart of congress.
-Along with president

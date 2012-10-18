@@ -5,7 +5,7 @@
 [color=maroon][b]Prime Minister:[/b][/color] [nation]Tarotara[/nation]
 [color=green][b]Vice Prime Minister:[/b][/color] [nation]Intelligentsica[/nation]
 [color=gold][b]Minister of Defence:[/color][/b] [nation]Intelligentsica[/nation]
-[color=gold][b]Minister of Cartography:[/color][/b] [nation]Viceist[/nation]
+[color=gold][b]Minister of Cartography:[/color][/b] [nation]Tarotara[/nation] Temporary
 [color=gold][b]Minister of Relations:[/color][/b] [nation]Clopland[/nation]
 [color=teal][b]Cabinet:[/color][/b] [nation]Viceist[/nation]
  [nation]Clopland[/nation]

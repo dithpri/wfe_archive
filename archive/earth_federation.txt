@@ -1,8 +1,8 @@
 [b][color=lightgreen]Regional Population:[/color][/b] 18,063,000,000
-[b][color=lightgreen]Smallest Member State:[/color][/b] [nation=short]X1ng[/nation]  [ 659M ]
-[b][color=lightgreen]Largest Member State:[/color][/b] [nation=short]Obesinia[/nation] [ 1.370B ] 
-[b][color=lightgreen]Lowest Taxation:[/color][/b] [nation=short]Hydros[/nation] [ [color=lightblue]18%[/color] ]
-[b][color=lightgreen]Highest Taxation:[/color][/b] [nation=short]the illuminous sun[/nation] [ [color=red]86%[/color] ]
+[b][color=lightgreen]Smallest Member State:[/color][/b] [nation=short]X1ng[/nation]  [ 666M ]
+[b][color=lightgreen]Largest Member State:[/color][/b] [nation=short]Obesinia[/nation] [ 1.376B ] 
+[b][color=lightgreen]Lowest Taxation:[/color][/b] [nation=short]Preston County[/nation] [ [color=lightblue]16%[/color] ]
+[b][color=lightgreen]Highest Taxation:[/color][/b] [nation=short]the illuminous sun[/nation] [ [color=red]85%[/color] ]
 [b][color=lightgreen]Smallest Economy:[/color][/b] [nation=short]Bruceton Mills[/nation] [ $91.4B ]
 [b][color=lightgreen]Largest Economy:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $56.3T ]
 [b][color=lightgreen]Lowest GDP Per Capita:[/color][/b] [nation=short]Bruceton Mills[/nation] [ $94.56 ]
