@@ -3,15 +3,10 @@ President: [nation=short]Cyphet[/nation]
 Vice-President: [nation=short]Skyblock[/nation]
 Presidential Adviser: [nation=short]Richtofen[/nation]
 Secretary of Embassy Establishment: [nation=short]Kialga[/nation]
-Secretary of Recruitment:
-Secretary of Intelligence: [nation=short]GROSS Independency[/nation]
+Secretary of Recruitment: [nation=short]GROSS Independency[/nation]
+Secretary of Intelligence: 
 WA Vice-Delegate: [nation=short]GROSS Independency[/nation]
 Council Chairman: [nation=short]Kialga[/nation]
-[hr]
-[b][color=purple]Ambassadors:[/color][/b]
-[nation]IWU Ambassador[/nation] ([region]World Alliance[/region])
-[nation]IWU Ambassador II[/nation] (Free)
-
 [hr]
 [url=http://interwesternunion.forumotion.com/]Forum[/url]
 [url=http://iwucouncil.weebly.com/index.html]Website[/url]
