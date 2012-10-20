@@ -13,6 +13,11 @@
 [color=black]General: [nation=short]A Million Voices[/nation][/color]
 [color=#8B0000]General: [nation=short]Feuer Ritter[/nation][/color]
 [hr]
+[color=black] News: [/color]
+
+[color=8B0000]TBR now has an [url=http://client00.chat.mibbit.com/?channel=%23tbr&amp;amp;server=irc.mibbit.net]IRC[/url].  Pick a nickname and start chatting[/color]
+
+[hr]
 [color=black]Order of the Day
 [/color]
-[color=#8B0000]All troops are instructed to move to [region=Eastern Islands of Dharma] and endorse [nation=Donkey Kong Raiders][/color][/b]
+[color=8B0000]All troops are instructed to move to [region]Mile Highlands[/region] and endorse [nation]Anticipation[/nation][/b][/color]

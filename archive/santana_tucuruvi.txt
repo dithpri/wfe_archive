@@ -1,0 +1,10 @@
+Parte da regi&atilde;o [region]Brasil[/region]. Novo Estado reconhecido por:
+[nation=short]Santana-Tucuruvi[/nation];
+[nation=short]Kihimo[/nation]
+[nation=short]Tremembe[/nation]
+
+N&atilde;o reconhecido por:
+[nation=short]Romanist[/nation]
+
+Neutros:
+-

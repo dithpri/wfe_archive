@@ -1,12 +1,12 @@
 [color=2F4F4F][b][u]The Interplanetary Allied Empire[/u][/b][/color]
-[color=696969]QVCBNM: [b]12456[/b] $22,000; 11,000; T3; 0pp[/color] Yut-Yuiopa; Solar planets; Weave Fragments; the Hub; Greater Array, Alluvium, Expiats, and the Forge
-[color=DAA520][b]UW[/b][/color] [color=696969]Panti: [b]14[/b] $17,000; 11,000; 0pp Lo16[/color] Faridall; Darkford; Pantia; Remnants of Sillivice
+[color=696969]QVCBNM: [b]12456[/b] $33,000; 11,000; T4; 0pp[/color] Yut-Yuiopa; Solar planets; Weave Fragments; the Hub; Greater Array, Alluvium, Expiats, and the Forge
+[color=DAA520][b]UW[/b][/color] [color=696969]Panti: [b]14[/b] $8,000; 11,000; 0pp Lo18[/color] Faridall; Darkford; Pantia; Remnants of Sillivice
 
-[color=808000]Paradoon: [b]467[/b] $0; 11,000; T0; 0pp Lo St100[/color] Unova
-[color=808000]Wallflower: $26,000; 1,000; 0pp[/color]
-[color=DAA520][b]UW[/b][/color] [color=808000]Firdonia: [b]all[/b] $10,000; 10,000; T1; 0pp [/color] Talaroma
-[color=DAA520][b]UW[/b][/color] [color=808000]Archinia: [b]1[/b] $15,000; 15,000; 700pp[/color] Peridon
-[color=DAA520][b]UW[/b][/color] [color=808000]Bronzia: $15,000; 6,000; 0pp Lo Si[/color]
-[color=DAA520][b]UW[/b][/color] [color=808000]Celmarog: $33,000; 1,000; 100pp[/color]
-[color=DAA520][b]UW[/b][/color] [color=808000]Tamany: [b]124[/b] $7,000; 10,000; 50pp Ra760 Bo33 In18 Ju26 So Lo4[/color]
-[color=808000]The Singular United Laborstate of Anchor: $2,600; 100; 100pp[/color]
+[color=808000]Paradoon: [b]467[/b] $0; 11,000; T1; 0pp Lo St100[/color] Unova
+[color=808000]Wallflower: $27,000; 1,000; 0pp[/color]
+[color=DAA520][b]UW[/b][/color] [color=808000]Firdonia: [b]all[/b] $20,000; 10,000; T2; 0pp Lo11 [/color] Talaroma
+[color=DAA520][b]UW[/b][/color] [color=808000]Archinia: [b]1[/b] $30,000; 15,000; 700pp[/color] Peridon
+[color=DAA520][b]UW[/b][/color] [color=808000]Bronzia: $1,000; 6,000; 0pp Lo3 Si[/color]
+[color=DAA520][b]UW[/b][/color] [color=808000]Celmarog: $35,000; 1,000; 100pp[/color]
+[color=DAA520][b]UW[/b][/color] [color=808000]Tamany: [b]124[/b] $17,000; 10,000; 50pp Ra760 Bo33 In18 Ju26 So Lo4[/color]
+[color=808000]The Singular United Laborstate of Anchor: $2,700; 100; 100pp[/color]

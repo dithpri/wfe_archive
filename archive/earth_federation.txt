@@ -1,16 +1,16 @@
-[b][color=lightgreen]Regional Population:[/color][/b] 18,063,000,000
-[b][color=lightgreen]Smallest Member State:[/color][/b] [nation=short]X1ng[/nation]  [ 671M ]
-[b][color=lightgreen]Largest Member State:[/color][/b] [nation=short]Obesinia[/nation] [ 1.383B ] 
-[b][color=lightgreen]Lowest Taxation:[/color][/b] [nation=short]Preston County[/nation] [ [color=lightblue]16%[/color] ]
+[b][color=lightgreen]Regional Population:[/color][/b] 18,402,000,000
+[b][color=lightgreen]Smallest Member State:[/color][/b] [nation=short]X1ng[/nation]  [ 676 million ]
+[b][color=lightgreen]Largest Member State:[/color][/b] [nation=short]Obesinia[/nation] [ 1.389 billion ] 
+[b][color=lightgreen]Lowest Taxation:[/color][/b] [nation=short]Preston County[/nation] [ [color=lightblue]11%[/color] ]
 [b][color=lightgreen]Highest Taxation:[/color][/b] [nation=short]the illuminous sun[/nation] [ [color=red]85%[/color] ]
-[b][color=lightgreen]Smallest Economy:[/color][/b] [nation=short]Bruceton Mills[/nation] [ $91.4B ]
-[b][color=lightgreen]Largest Economy:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $56.3T ]
-[b][color=lightgreen]Lowest GDP Per Capita:[/color][/b] [nation=short]Bruceton Mills[/nation] [ $94.56 ]
-[b][color=lightgreen]Highest GDP Per Capita:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $41,544.64 ]
-[b][color=lightgreen]Lowest Average Employee Salary: [/color][/b] [nation=short]Bruceton Mills[/nation] [ $135.39 ]
-[b][color=lightgreen]Highest Average Employee Salary: [/color][/b][nation=short]Greater Neo Germany[/nation]  [ $79,392.25 ]
-[b][color=lightgreen]Largest Trade Surplus:[/color][/b] [nation=short]The Illuminous Sun[/nation] [ [color=lightblue]$887B[/color] ]
-[b][color=lightgreen]Largest Trade Deficit:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ [color=red]$497B[/color] ]
+[b][color=lightgreen]Smallest Economy:[/color][/b] [nation=short]Bruceton Mills[/nation] [ $92.9 billion ]
+[b][color=lightgreen]Largest Economy:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $58.4 trillion ]
+[b][color=lightgreen]Lowest GDP Per Capita:[/color][/b] [nation=short]Bruceton Mills[/nation] [ $94.49 ]
+[b][color=lightgreen]Highest GDP Per Capita:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $42,389.39 ]
+[b][color=lightgreen]Lowest Average Employee Salary: [/color][/b] [nation=short]Bruceton Mills[/nation] [ $135.29 ]
+[b][color=lightgreen]Highest Average Employee Salary: [/color][/b][nation=short]Greater Neo Germany[/nation]  [ $79,335.25 ]
+[b][color=lightgreen]Largest Trade Surplus:[/color][/b] [nation=short]The Illuminous Sun[/nation] [ [color=lightblue]$947 billion[/color] ]
+[b][color=lightgreen]Largest Trade Deficit:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ [color=red]$564 billion[/color] ]
 
 [hr]
 

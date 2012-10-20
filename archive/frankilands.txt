@@ -1,19 +1,20 @@
-[color=blue][b][i]------Welcome to Frankilands!------[/b][/color][/i]
-[color=blue][b][i]YOUR NATIONSTATES NEWS CENTER![/color][/b][/i]
-[b][color=cyan]=-=-=-=-=-=-=-=-=-=-=-=-=-=-=[/color][/b]
+[color=orange][b][i]--------[/color][color=blue]Welcome to Frankilands[/b][/color][color=orange]--------[/color][/i]
+[color=green][b][u]Imposing Transparency, For Everyone[/color][/b][/u]
+[b][color=orange]*******************************[/color][/b]
 
-[color=indigo][u][b]THE US MARKETS AS OF 10/12/12 CLOSING:[/u][/b][/color]
-^DJI |[color=green] 13,328.85 [b]+2.46 (+0.02%) [/color][/b]
-^IXIC |[color=red] 3,044.11 [b]-5.3 (-0.17%) [/color][/b]
-^GSPC |[color=red] 1,428.59 [b]-4.25 (-0.30%) [/color][/b]
+[color=indigo][u][b]THE US MARKETS AS OF 10/19/12 CLOSING:[/u][/b][/color]
+^DJI |[color=red] 13,343.51 [b]-205.43 (-1.52%) [/color][/b]
+^IXIC |[color=red] 3,005.62 [b]-67.25 (-2.19%) [/color][/b]
+^GSPC |[color=red] 1,433.19 [b]-24.15 (-1.66%) [/color][/b]
 
-[b][color=indigo][u]Relative[/color][/u][color=gray]*[/color] [color=indigo][u]US News:[/color][/u][/b]
-[i]-[url=http://politicalticker.blogs.cnn.com/2012/10/12/no-injuries-after-shot-fired-at-obama-campaign-office-in-denver/?hpt=hp_t2]Shot fired at Obama campaign office[/url]
--[url=http://money.cnn.com/2012/10/12/news/economy/100-bill-theft/index.html?hpt=hp_t3]New $100 bills stolen en route to Fed[/url]
--[url=http://www.cnn.com/2012/10/11/us/north-dakota-school-shooting/index.html?hpt=us_c2]Student apologizes, shoots self in class[/url][/i]
+[b][color=indigo][u]Hot[/color][/u][color=gray]*[/color] [color=indigo][u]News:[/color][/u][/b]
+[i]-[url=http://money.cnn.com/2012/10/19/news/economy/state-unemployment-rates/index.html?hpt=hp_t3]Unemployment falls in 7 swing states[/url]
+-[url=http://lightyears.blogs.cnn.com/2012/10/18/mars-rover-spots-shiny-objects/?hpt=hp_t3]Rover spots shiny objects on Mars[/url]
+-[url=http://politicalticker.blogs.cnn.com/2012/10/18/comedic-relief-obama-romney-bring-on-the-jokes-at-annual-dinner/?hpt=hp_t2]Obama, Romney trade one-liners[/url][/i]
 
 [b][color=indigo][u]Relative[/color][color=gray][/u]*[/color] [color=indigo][u]Frankilands News:[/u][/color][/b]
-[i]-None[/i]
+[i]-New communication policy re-bans FRMB use
+-Change in region protection regulations, password now enforced[/i]
 
-[color=lightgray]*relative as defined by The NFGA
-**updated once a week, normally on Fridays &amp;amp; Saturdays[/color]
+[color=lightgray]*as defined by The NFGA
+note: data is updated once a week[/color]
