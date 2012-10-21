@@ -1,8 +1,13 @@
-[b][color=red]WELCOME TO THE PARIS COMMUNE![/color][/b]
+[b][color=red]WELCOME TO THE PARIS COMMUNE![/color][/b][hr]
 
-[b]Chairman of the Communal Council:[/b] [i]Vacant[/i]
-[b]Minister of Foreign Affairs:[/b] [i]Vacant[/i]
+[b]Chairman of the Communal Council:[/b] [nation=short]Dehoytchland[/nation]
+[b]Minister of Foreign Affairs:[/b] [nation=short]La Pasionaria[/nation]
+[b]Minister of Education:[/b] [nation=short]Marxingrad[/nation]
+[b]Minister of Agitation:[/b] [nation=short]Opaloka[/nation]
+[b]Minister of Internal Security:[/b] [nation=short]Marxist-Feminists[/nation]
 [b]Minister of Defense:[/b] [nation=short]Proletaurus[/nation]
+[b]Commander of Artillery:[/b] [nation=short]Forestarnya[/nation]
+[b]Ambassador for Rejected Realms:[/b] [nation=short]Aluzer[/nation][hr]
 
 [b]Made safe 24/5/12 by the United Forces of [region]Antifa[/region]:
 [region]The Red Fleet[/region] ([region]Communist International[/region], [Region]The Internationale[/region], [region]International Socialists[/region]), International Brigades &amp;amp; Columns, [region]The Union of Nations Against Fascism[/region], [region]Argentina[/region] &amp;amp; [region]Uruguay[/region].
