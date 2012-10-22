@@ -1,1 +1,9 @@
-Free nations that happen to be allies, that also know eachother.
+A group of islands with several nations in them.
+[nation=short]Old Zekaland[/nation]
+[nation=short]New Zekaland[/nation]
+[nation=short]Ze Border[/nation]
+[nation=short]Pabhland[/nation]
+[nation=short]Poatic[/nation]
+[nation=short]Tuadania[/nation]
+[nation=short]Potifia[/nation]
+[nation=short]Wolfario[/nation]

@@ -3,8 +3,8 @@
 
 [b]The Council of The Realm[/b]
 Prime Minister: Vacant
-Lord Speaker: Vacant
-Secretary of State: Vacant
+Lord Speaker: [nation=shortname]Freustria[/nation]
+Secretary of State: [nation=shortname]Imperial Constantinople[/nation]
 [hr]
 
 [b]Ministerial Departments[/b]
@@ -26,4 +26,4 @@ Lord Justice: Vacant
 Alert level:[color=green]GREEN[/color]
 [hr]
 
-[url=http://commonwealthofkings.africamotion.net]Regional Forum[/url] [url=http://i1234.photobucket.com/albums/ff407/allyboy2/TheCommonwealthofKings_zpsd1febd1b.png]Regional Map[/url]
+[url=http://commonwealthofkings.africamotion.net]Regional Forum[/url] [url=http://i1234.photobucket.com/albums/ff407/allyboy2/TheCommonwealthofKings_zps84b8db87.png]Regional Map[/url]

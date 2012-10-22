@@ -10,4 +10,6 @@
 [nation]Conloah[/nation] [color=green](Not Recognized by Ermorium) [/color]
 
 [b][u]Other Members:[/u][/b] 
-[nation]Shioque[/nation] [color=green](Incorporated State of Aturia)[/color]
+[nation]Shioque[/nation] [color=green](Economically Incorporated Territory of Aturia)[/color]
+[nation]Kiozah[/nation]
+[nation]Samata[/nation] [color=green](Protectorate of Skurmany)[/color]
