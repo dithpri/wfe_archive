@@ -2,4 +2,4 @@
 
 [color=blue]Currency: Silver Arcs[/color]
 
-[color=red]Def Con 1 2 3 [u]4[/u] 5[/color]
+[color=red]Def Con 1 2 3 4 [u]5[/u][/color]

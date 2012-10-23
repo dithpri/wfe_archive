@@ -2,7 +2,7 @@
 [Hr][b][color=crimson][u]The Chairmen of the C.O.G.[/u][/color][/b]
 [b][u]High Chairman[/u]:[/b][nation=short]Fraserland[/nation]
 [b][u]High Chairman[/u]:[/b][nation=short]Vanhania[/nation]
-[b][u]Chairman of Defense[/b][/u]:[nation=short]Vacant[/nation]
+[b][u]Chairman of Defense[/b][/u]:[nation=short]Open[/nation]
 [b][u]Chairman of Intelligence[/b][/u]:[nation=short]Wallonia-Brussels[/nation]
 [b][u]Chairman of Foreign Affairs[/b][/u]:[nation=short]Libertas Liber[/nation]
 [b][u]Chairman of Health[/b][/u]:[nation=short]Glaedirsgrad[/nation]
