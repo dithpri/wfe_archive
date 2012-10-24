@@ -1,15 +1,14 @@
-[u][b]Full Members:[/b][/u] ([color=blue]Cannot be Officially Unrecognized[/color])
-[nation]Skurmany[/nation] + [nation]South Skurmany[/nation] 
-[nation]Ermorium[/nation]
-[nation]Aturia[/nation] [color=green](Northern &amp;amp; Southern Empires)[/color]                                            
+[u][b]Full Members:[/b][/u] ([color=blue]Veto Superpowers[/color])
+[nation]Skurmany[/nation] + [nation]South Skurmany[/nation] + [color=green](Outer Territories)[/color]
+[nation]Aturia[/nation] [color=green](Northern &amp;amp; Southern Empires + Watcher Island)
 [nation]Monrassa[/nation] + [nation]Gainpo[/nation]
-[i]*[Aturia], [Skurmany &amp;amp; South Skurmany], and [Monrassa &amp;amp; Gainpo] are Unified Nations[/i]
+[/color][nation]Ermorium[/nation]
 
-[b][u]Partial Members:[/u][/b] ([color=red]Disputed Territories/Not Fully Recognized[/color])
-[nation]Eastern Ermorium[/nation] [color=green](Claimed &amp;amp; Unrecognized by Ermorium) [/color]
-[nation]Conloah[/nation] [color=green](Not Recognized by Ermorium) [/color]
 
 [b][u]Other Members:[/u][/b] 
+[nation]Eastern Ermorium[/nation] [color=green](Federal Territory of Ermorium) [/color]
+[nation]Kiozah[/nation] [color=green](Federal Territory of Skurmany)[/color]
 [nation]Shioque[/nation] [color=green](Federal Territory of Aturia)[/color]
-[nation]Kiozah[/nation] [color=green](Mutual Market with Skurmany)[/color]
 [nation]Samata[/nation]
+[nation]Conloah[/nation]
+

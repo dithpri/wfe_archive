@@ -5,7 +5,7 @@ Presidential Adviser: [nation=short]Richtofen[/nation]
 Secretary of Embassy Establishment: [nation=short]Kialga[/nation]
 Secretary of Recruitment: [nation=short]GROSS Independency[/nation]
 Secretary of Intelligence: [nation=short]Orgiana[/nation]
-WA Vice-Delegate: 
+WA Vice-Delegate: [nation=short]Fairgreen[/nation]
 Council Chairman: [nation=short]Kialga[/nation]
 [hr]
 [url=http://interwesternunion.forumotion.com/]Forum[/url]
