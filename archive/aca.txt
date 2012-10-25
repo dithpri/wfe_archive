@@ -20,7 +20,6 @@ President:[/b] [nation=short]Sheltopolis[/nation]
 [*][color=orange]HIGH[/color] - Serious threat
 [*][color=red]SEVERE[/color] - Gargantuan threat[/List]
 
-[b]Current Level:[/b] [color=blue]GUARDED[/color]
+[b]Current Level:[/b] [color=red]SEVERE[/color]
 [hr][b][u][color=blue]News[/color][/b][/u]
-10/22/12: [nation=short]Muhcania[/nation] joined the ACA
-10/20/12: [nation=short]Enchorage[/nation] joined the ACA
+[color=red]The ACA is in temporary lock down. Residents who have questions ask [nation=short]Sheltopolis[/nation][/color]

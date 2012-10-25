@@ -3,27 +3,35 @@
 
 [b][color=darkblue]WORLD ALLIANCE COUNCIL[/color][/b]
 
-[i]President : [nation=Acquitane][/i]
-[i]Vice President : [nation=Spiritualiza][/i]
+[i]President : [nation]Acquitane[/nation][/i]
+[i]Vice President : [nation]Spiritualiza[/nation][/i]
 
-[i]Prime Minister : [nation=Namor][/i]
-[i]Minister of Internal Affairs : [nation=zebulor][/i]
-[i]Minister of External Affairs : [nation=Vendoland][/i]
+[i]Prime Minister : [nation]Namor[/nation][/i]
+[i]Minister of Internal Affairs : [nation=short]zebulor[/nation][/i]
+[i]Minister of External Affairs : [nation=short]Vendoland[/nation][/i]
 
 [hr]
 
 [b][color=darkblue]WORLD ALLIANCE TRIBUNAL[/color][/b] 
 
-[i]Chief Justice : [nation=soviet vermontopia][/i]
+[i]Chief Justice : [nation=short]soviet vermontopia[/nation][/i]
 [i]Associate Justice :[/i]
 [i]Associate Justice :[/i]
 
 [hr]
 
-[b][color=darkblue]WA DEVELOPMENT COMMISSION[/color][/b] 
+[b][color=darkblue]WORLD ALLIANCE SECURITY COMMISSION[/color][/b] 
 
-[i]Chairman : [nation=newasia][/i]
-[i]Commissioner : [nation=crosmin][/i]
+[i]Chairman : [/i]
 [i]Commissioner : [/i]
-[hr][hr][url=http://forum.nationstates.net/viewtopic.php?f=23&amp;amp;t=202651][color=yellow]WA News Network[/color][/url] || [url=http://tracker.conquestofabsolution.com/region=world_alliance][color=yellow]WA Statistics Tracker[/color][/url] || [url=http://justpaste.it/decisions][color=yellow]WA Tribunal Decisions[/color][/url] || [url=http://justpaste.it/resolutions][color=yellow]WA Council Resolutions[/color][/url]
+[i]Commissioner : [/i]
+
+[hr]
+
+[b][color=darkblue]WORLD ALLIANCE DEVELOPMENT COMMISSION[/color][/b] 
+
+[i]Chairman : [nation=short]newasia[/nation][/i]
+[i]Commissioner : [nation=short]crosmin[/nation][/i]
+[i]Commissioner : [nation=short]naziaran[/nation][/i]
+[hr][hr][url=http://forum.nationstates.net/viewtopic.php?ns=1&amp;amp;f=5&amp;amp;t=205509][color=yellow]OWU/WA Summit[/color][/url] || [url=http://forum.nationstates.net/viewtopic.php?f=23&amp;amp;t=202651][color=yellow]WA News Network[/color][/url] || [url=http://tracker.conquestofabsolution.com/region=world_alliance][color=yellow]WA Statistics Tracker[/color][/url] || [url=http://justpaste.it/decisions][color=yellow]WA Tribunal Decisions[/color][/url] || [url=http://justpaste.it/resolutions][color=yellow]WA Council Resolutions[/color][/url]
 [hr][hr]

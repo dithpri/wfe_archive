@@ -22,10 +22,6 @@ Niek:
 [nation]ToastKingdom[/nation]
 [nation]DiekDiek[/nation]
 
-Martijn:
-[nation]Vennomina[/nation]
-[nation]Anaalia[/nation]
-
 Ferd:
 [nation]Reutje van Roerdalen[/nation]
 
