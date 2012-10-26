@@ -1,10 +1,12 @@
 [b]Region Name:[/b] [region]Holy Empires[/region]
 
 [b]Secretary-General:[/b] [nation=short]Holy Philippine Empire[/nation]
+June 5, 2012-[i]Incumbent[/i]
 
-[b]Director of Foreign Affairs:[/b] [nation=short]Scarborough Shoal[/nation] 
-[b]Director of Internal Affairs:[/b] [nation=short]New Billenia[/nation] 
+[b]Director of Recruitment:[/b] [nation=short]New Billenia[/nation] 
+[b]Director of Internal Affairs:[/b] [nation=short]Scarborough Shoal[/nation] 
 [b]Director of Military Affairs:[/b] [nation=short]The Vongola Family[/nation]
+[b]Director of WA Affairs:[/b] [nation=short]Wumbonesia[/nation]
 
 [b]Highest Population:[/b] 15 Nations
 [b]Current Population:[/b] 5 Nations

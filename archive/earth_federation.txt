@@ -1,16 +1,16 @@
-[b][color=lightgreen]Regional Population:[/color][/b] 18,851,000,000
-[b][color=lightgreen]Smallest Member State:[/color][/b] [nation=short]X1ng[/nation]  [ 699 million ]
-[b][color=lightgreen]Largest Member State:[/color][/b] [nation=short]Obesinia[/nation] [ 1.413 billion ] 
-[b][color=lightgreen]Lowest Taxation:[/color][/b] [nation=short]Kanto Johto Hoenn Sinnoh and Unova[/nation] [ [color=lightblue]6%[/color] ]
-[b][color=lightgreen]Highest Taxation:[/color][/b] [nation=short]the illuminous sun[/nation] [ [color=red]85%[/color] ]
-[b][color=lightgreen]Smallest Economy:[/color][/b] [nation=short]Bruceton Mills[/nation] [ $89.4 billion ]
-[b][color=lightgreen]Largest Economy:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $60.5 trillion ]
-[b][color=lightgreen]Lowest GDP Per Capita:[/color][/b] [nation=short]Bruceton Mills[/nation] [ $88.81 ]
-[b][color=lightgreen]Highest GDP Per Capita:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $43,296.15 ]
+[b][color=lightgreen]Regional Population:[/color][/b] 19,082,000,000
+[b][color=lightgreen]Smallest Member State:[/color][/b] [nation=short]X1ng[/nation]  [ 711 million ]
+[b][color=lightgreen]Largest Member State:[/color][/b] [nation=short]Obesinia[/nation] [ 1.426 billion ] 
+[b][color=lightgreen]Lowest Taxation:[/color][/b] [nation=short]Little Bill[/nation] [ [color=lightblue]7%[/color] ]
+[b][color=lightgreen]Highest Taxation:[/color][/b] [nation=short]the illuminous sun[/nation] [ [color=red]87%[/color] ]
+[b][color=lightgreen]Smallest Economy:[/color][/b] [nation=short]Bruceton Mills[/nation] [ $88.3 billion ]
+[b][color=lightgreen]Largest Economy:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $59.8 trillion ]
+[b][color=lightgreen]Lowest GDP Per Capita:[/color][/b] [nation=short]Bruceton Mills[/nation] [ $86.71 ]
+[b][color=lightgreen]Highest GDP Per Capita:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $42,426.93 ]
 [b][color=lightgreen]Lowest Average Employee Salary: [/color][/b] [nation=short]Bruceton Mills[/nation] [ $135.38 ]
 [b][color=lightgreen]Highest Average Employee Salary: [/color][/b][nation=short]Greater Neo Germany[/nation]  [ $83,315.53 ]
-[b][color=lightgreen]Largest Trade Surplus:[/color][/b] [nation=short]The Illuminous Sun[/nation] [ [color=lightblue]$974 billion[/color] ]
-[b][color=lightgreen]Largest Trade Deficit:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ [color=red]$513 billion[/color] ]
+[b][color=lightgreen]Largest Trade Surplus:[/color][/b] [nation=short]The Illuminous Sun[/nation] [ [color=lightblue]$1.02 trillion[/color] ]
+[b][color=lightgreen]Largest Trade Deficit:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ [color=red]$568 billion[/color] ]
 
 [hr]
 

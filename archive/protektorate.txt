@@ -23,3 +23,6 @@
 [region]The Kingdom of Bulgaria[/region]
 [region]Neo Fascist Europe[/region]
 [region]British Imperial Federation[/region]
+[region]The Isle of Durkeen[/region]
+[region]South Texas[/region]
+[region]Socialist Liberal Union[/region]
