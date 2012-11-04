@@ -2,10 +2,10 @@
 
 [b][color=blue]This region is home to Ambroscus Koth&amp;#39;s loyal puppets who await the day they can serve their master once more. Visitors welcome.[/b][/color]
 
-[color=red]In loving memory of [nation]Sixtynine[/nation], who was slain in the battle for Whitereach on October 23rd, 2012. He is laid to rest for personal reasons, no longer to be used in raiding. 
+[color=red]In loving memory of [nation=short]Sixtynine[/nation], who was slain in the battle for Whitereach on October 23rd, 2012. He is laid to rest for personal reasons, no longer to be used in raiding. 
 [b]Welcome to The Damned.[/b][/color]
 
-[u][i][b]Who is [nation]Ambroscus Koth[/nation]?[/b][/u][/i]
+[u][i][b]Who is [nation=noflag+short]Ambroscus Koth[/nation]?[/b][/u][/i]
 [b]Co-Founder of [region]The Brotherhood of Malice[/region]
 Lord High Executioner of [region]The Imperial Legion[/region]
 Private First Class of [region]The Black Hawks[/region]

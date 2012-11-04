@@ -4,7 +4,6 @@ The mission here at the ACA is to run a region the way it should be. We are a pa
 
 President:[/b] [nation=short]Sheltopolis[/nation]
 [b]Vice President:[/b] [nation=short]United Horizon[/nation]
-[b]Treasurer:[/b] [nation=short]Fnfail[/nation]
 [b]Chief Justice:[/b] [nation=short]Wind in the Willows[/nation]
 
 [u][b]Congress:[/u][/b]
@@ -12,7 +11,7 @@ President:[/b] [nation=short]Sheltopolis[/nation]
 [nation=short]Hanalia[/nation]
 [nation=short]South Raiders[/nation]
 [nation=short]Ayrena[/nation]
-[hr][b][url=http://www.youtube.com/watch?v=3VjKPKvRS4A&amp;amp;feature=related]National Anthem[/url] | [url=http://www.youtube.com/watch?v=MaC07le_SUs&amp;amp;NR=1&amp;amp;feature=endscreen]Secondary Anthem[/url] | [url=http://w11.zetaboards.com/TheACAforum/index/]Forums[/url] | [url=http://w11.zetaboards.com/TheACAforum/topic/7964742/]Constitution[/url] | [url=http://www.youtube.com/user/ACANewsNetwork]YouTube Channel[/url] | [url=http://www.youtube.com/watch?v=IhnUgAaea4M]Song of the Month[/url][/b]
+[hr][b][url=http://www.youtube.com/watch?v=3VjKPKvRS4A&amp;amp;feature=related]National Anthem[/url] | [url=http://www.youtube.com/watch?v=MaC07le_SUs&amp;amp;NR=1&amp;amp;feature=endscreen]Secondary Anthem[/url] | [url=http://w11.zetaboards.com/TheACAforum/index/]Forums[/url] | [url=http://w11.zetaboards.com/TheACAforum/topic/7964742/]Constitution[/url] | [url=http://www.youtube.com/user/ACANewsNetwork]YouTube Channel[/url] | [url=http://www.youtube.com/watch?v=Xv24N8H1KyI]Song of the Month[/url][/b]
 [hr][b][u]Home Land Security[/b][/u]
 [List][*][color=green]LOW[/color] - Safe
 [*][color=blue]GUARDED[/color] - Minor threat
@@ -20,6 +19,6 @@ President:[/b] [nation=short]Sheltopolis[/nation]
 [*][color=orange]HIGH[/color] - Serious threat
 [*][color=red]SEVERE[/color] - Gargantuan threat[/List]
 
-[b]Current Level:[/b] [color=red]SEVERE[/color]
+[b]Current Level:[/b] [color=blue]GUARDED[/color]
 [hr][b][u][color=blue]News[/color][/b][/u]
-[color=red]The ACA is in temporary lock down. Residents who have questions ask [nation=short]Sheltopolis[/nation][/color]
+Sign-up for Congress ends [color=red]Nov. 5[/color]

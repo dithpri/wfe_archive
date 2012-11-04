@@ -4,7 +4,7 @@ head:
 http://www.nationstates.net/nation=muckchoi
 
 spies:
-http://www.nationstates.net/nation=maltiff
 http://www.nationstates.net/nation=agiza
 
-
+nobles of occupied regions:
+http://www.nationstates.net/nation=maltiff

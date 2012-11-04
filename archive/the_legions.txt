@@ -8,14 +8,17 @@ Welcome to [region]The Legions[/region]![/color]
 
 [u][color=red]The Government[/color][/u][/b]
 
-[b][color=purple]The Emperor[/color]: [nation=noname]Caesar Hadrian[/nation][/b] Caesar Hadrian
-[b][color=purple]The Chief Consul and Council of Generals[/color]:[/b] To be announced post-elections.
-[b][color=blue]The Senators of the Imperial Council:[/color][/b]
-- [nation=noname]Of The Free Socialist Territories[/nation] The Free Socialist Territories (FreeSoc)
-- [nation=noname]Knoxifania[/nation] Knoxifania (Knox)
-- [nation=noname]Caius Martius Coriolanus[/nation] Martius
-- [nation=noname]Silver Court[/nation] Silver Court
-- [nation=noname]Asaconthropiat[/nation] Asaconthropiat
+[u][b][color=purple]The Emperor[/color]:[/u] [nation=noname]Caesar Hadrian[/nation][/b] Caesar Hadrian
+
+[b][u][color=purple]The Chief Consul and Council of Generals[/color][/u][/b]
+Chief Consul: [b][nation=short]Asaconthropiat[/nation][/b]
+Generals:
+
+[u][b][color=blue]The Senators of the Imperial Council:[/color][/b][/u]
+Secretary of Internal Affairs - [b][nation=short]Silver Court[/nation][/b]
+Attorney General - [b][nation=short]Legio IX[/nation][/b]
+Secretary of State - [b][nation=short]Anstan[/nation][/b]
+Secretary Consul - [b][nation=short]Constantine the Great IV[/nation][/b]
 
 [b][url=http://w11.zetaboards.com/The_Legions/index/][color=black]Safe Offsite Forums[/color][/url]
 
@@ -25,6 +28,6 @@ Welcome to [region]The Legions[/region]![/color]
 
 P.S. Fascists are not welcome.
 
-P.P.S.[/color] [u][color=teal]Any and all WA nations who enter the region will be ejected. WA nations are forbidden in [region]The Legions[/region].[/color][/u]
+P.P.S.[/color] [u][color=teal]WA nations are forbidden from entering [region]The Legions[/region].[/color][/u]
 
 [color=black]P.P.P.S.[/color] [color=orange]There&amp;#39;s no need to address the Founder with fancy titles.[/color][/b]

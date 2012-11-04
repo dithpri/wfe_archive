@@ -22,3 +22,4 @@ Embassies:
 [region]Himalia[/region]
 [region]The Alliance of Democratic Nations[/region]
 [region]Nederland[/region]
+[region]Soviet republics region[/region]

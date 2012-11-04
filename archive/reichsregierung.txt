@@ -8,4 +8,4 @@
 [color=black][b]Reichsminister f&uuml;r Volksaufkl&auml;rung und Propaganda:[/b][/color] [nation]Jekrehnot[/nation]
 [color=black][b]Reichsjustizminister:[/b][/color] [nation]European Federal Alliance[/nation]
 [color=black][b]Reichsminister f&uuml;r Bewaffnung und Munition:[/b][/color] [nation]Fesdrech[/nation]
-[color=black][b]Chef der Gestapo:[/b][/color] [nation]Verborgenen Herrn[/nation]
+[color=black][b]Chef of [region]the Gestapo[/region]:[/b][/color] [nation]ArgenReich[/nation]

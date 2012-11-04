@@ -6,17 +6,20 @@
 
 [color=green] Operational headquarters have been moved to [region=Castle on the Hill][/color]
 [color=purple]This region tries to bring justice to the free peoples.[/color]
-[color=blue]Detags executed by Ravanian Justice-nations :[b] 186 [/b][/color]
+[color=blue]Detags executed by Ravanian Justice-nations :[b] 219 [/b][/color]
 
 [hr]
 [b][color=red][u]Justice-detag list:[/u][/color]
 
-Oct 17th: [region=Littlefallsblows]
-Oct 17th: [region=1000 flowers]
-Oct 17th: [region=The Triumvirate Consortium]
-Oct 18th: [region=African Union]
-Oct 18th: [region=Undertow]
-Oct 18ty: [region=League of Righteousness]
+Oct 30th: [region=The Forbidden Voodoo Kingdoms]
+Oct 30th: [region=New Spain]
+Oct 31st: [region=The Dagobah System]
+Oct 31st: [region=The Islamic Republic of Iran]
+Oct 31st: [region=Ponychan Nations]
+Oct 31st: [region=Militaria]
+Oct 31st: [region=Ankdammen]
+Oct 31st: [region=Northeastshooterstan]
+Oct 31st: [region=Italian Social Republic] 
 [hr]
 [color=purple][u]Detag to-do-list:[/u][/color][/b]
 [color=blue] Unban banned defender nations

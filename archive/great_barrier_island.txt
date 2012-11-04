@@ -1,2 +1,11 @@
-Great Barrier Island is home to the free and now independent people of New Barrierland.
-Revolted from: New Zealand
+[region]Great Barrier Island[/region] is home to the free and now independent people of [nation]New Barrierland[/nation]
+Revolted from: [region]New Zealand[/region]
+Any country is free to join.
+[color=red]Region leader: [nation]The Constitutional Monarchy of New Barrierland[/nation][/color]
+[color=blue]Minister of foreign affairs: [nation]The Constitutional Monarchy of New Barrierland[/nation][/color]
+
+[color=brown]Minister of defense: [nation]The Constitutional Monarchy of New Wattle[/nation][/color]
+
+[color=purple]Minister of state: [nation]The Constitutional Monarchy of New Barrierland[/nation][/color]
+
+[color=orange]Minister of Industry: [nation]The Empire of Gordonton[/nation][/color]

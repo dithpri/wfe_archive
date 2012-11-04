@@ -1,10 +1,9 @@
 Commonwealth of Soviet Socialist Republics
 
-[b]Sedikal is temporarily in charge![/b]
 
 Regional Minister of Foreign Affairs: [nation]Sedikal[/nation] 
 
-Regional Minister of Intelligence: [nation]Northern Anglica[/nation]
+Regional Minister of Intelligence: [nation]Zanazbar[/nation]
 
 Regional Minister of Defense: [nation]Grand Soviet Union[/nation]
 
@@ -21,6 +20,7 @@ Territories:
 [region]The Glorious Garden of Eden[/region] 
 [region]Refuxiados[/region] 
 [region]Eratovan Peninsula[/region]
+[region]The Great Region of Freedom[/region]
 Regional Anthem:
 
 http://www.youtube.com/watch?v=KK3TFGAkzJw

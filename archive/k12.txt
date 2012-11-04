@@ -1,9 +1,12 @@
+[hr]
 
-[color=blue]Kasperian Republics Presidential Palace[/color]
+[color=blue][b]Kasperian Republics Presidential Palace[/b][/color]
 
-Home seat of the Kasperian National Presidency, set in Kasperville, [nation]Kasperiah[/nation]. Loyal to the [region]Democratic Socialist Assembly[/region]
+Home seat of the Kasperian National Presidency, set in the city of Kasperville, [nation=short+noflag]Kasperiah[/nation]. Loyal to the [region]Democratic Socialist Assembly[/region].
 
-[b]Ruler[/b]: Lennart Austerlitz.
+[b]Ruler[/b]: [color=blue][i]Lennart Austerlitz[/i][/color]
+
+[b]Motto[/b]: [color=blue][i]&amp;quot;Twelve as One&amp;quot;[/i][/color]
 
 Proud [i]constituent countries[/i] of the [region]K12[/region]:
 
@@ -19,3 +22,5 @@ Proud [i]constituent countries[/i] of the [region]K12[/region]:
 [nation]Terratheos[/nation]
 [nation]Lathrus[/nation]
 [nation]Very Angry Sasquatches[/nation]
+
+[hr]

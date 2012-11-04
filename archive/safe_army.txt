@@ -6,5 +6,5 @@ Main Nations are
 [nation]albiol[/nation]
 
 army commander is [nation]kalasnikof[/nation]
-aiding countries are [nation]aindaria[/nation] , [nation]isalica[/nation]
+aiding countries are [nation]aindaria[/nation]
 founder is [nation]madrid international[/nation]

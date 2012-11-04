@@ -1,1 +1,1 @@
-This is a puppet storage region for [nation]Auralia[/nation].
+This region was originally created as a puppet storage region for [nation]Auralia[/nation].

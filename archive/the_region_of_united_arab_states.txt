@@ -6,7 +6,7 @@ The Regional Government
 
 Supreme Governor of the region and Wazir of international affairs:[nation]Grand United Nejd and Hejaz[/nation]
 Wazir of internal affairs: [nation]The Grand saudi Emirates[/nation]
-Wazir of WA Affairs:vacant
 Wazir of military protection:[nation]Grand United Nejd and Hejaz[/nation]
 Wazir of religious affairs: vacant
-commander of all internal security forces:vacant
+commander of all internal security forces:[nation]The Flaming Red Death[/nation] 
+Other Departments of our Grand Regional Government: [region]R O U A S Armed forces H Q[/region]

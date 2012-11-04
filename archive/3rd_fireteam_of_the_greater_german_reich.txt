@@ -2,9 +2,8 @@
 [b]It is a part of the [region]1st Platoon of the Greater German Reich[/region].[/b]
 
 [b]Commander:[/b]
-This military unit is being trained by [nation]jekrehnot[/nation]
+This military unit is being trained by Lt.[nation=short+noflag]Jekrehnot[/nation]
 
 [b]Soldiers:[/b]
-Cpl.[nation=short+noflag]Romanian Reich[/nation]
-Pvt.[nation=short+noflag]Nodorg[/nation]
-Pvt.[nation=short+noflag]ArgenReich[/nation]
+Pvt.[nation=short+noflag]Herr Michael Wittmann[/nation]
+Pvt.[nation=short+noflag]Pampa Mirage[/nation]
