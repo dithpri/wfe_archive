@@ -1,21 +1,23 @@
-[color=green]This region is governed by[/color] [b][color=red][region]Islamic Republic of Iran[/region][/color][/b]
+[b][color=green]Welcome to the[/color] [color=red]Islamic[/color] [color=green]Republic[/color][color=green] Iran[/color][/b]
 
 
 [color=black][b][u]Officials[/u][/b][/color]
-[color=brown][b]Supreme Leader (Ayatollah):[/b] [nation]Ognjen Ahmadinejad[/nation][/color]
-[color=brown][b]Acting President:[/b] [nation]Ognjen Ahmadinejad II[/nation][/color]
-[color=brown][b]First Vice-President for Intelligence and National Security:[nation]The Free State of Bavaria[/nation]
+[color=brown][b]Supreme Leader: Grand Ayatollah [nation=short]Ognjen Ahmadinejad[/nation] [/color]
+[color=brown]Acting President: [nation=short]Ognjen Ahmadinejad II[/nation][/color]
+[color=brown]First Vice-President responsible for Intelligence and National Security:[nation=short]The Free State of Bavaria[/nation]
 Vice-President for Multicultural Affairs: VACANT
-[/color][/b] 
+Adviser to the President: [nation=short]Western Arab Empire[/nation][/color][/b] 
 
 [u][b]Ministries:[/u] 
 
-Minister of Foreign Affairs: [nation]Western Arab Empire[/nation]
+Minister of Foreign Affairs: [nation=short]Western Arab Empire[/nation]
 
-Minister of Defense:  [nation]Amenhotep IV[/nation]
+Minister of Defense:  [nation=short]Amenhotep IV[/nation]
 
-Minister of Internal Affairs: VACANT
+Minister of Internal Affairs: [nation=short]Ahmedistan[/nation]
 
 Minister of Culture and Islamic Guidance: VACANT
+
+Minister of Recruitment VACANT:
 
 [color=red]Allied With: [region]RORMS[/region], [/color] [region]International Republican Union[/region],[region]United Empire of Islam[/region] and [region]Foxtopia[/region][/b]

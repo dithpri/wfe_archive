@@ -1,11 +1,9 @@
-[i]Welcome to the Fort Archipelago.[/i]
-
-This region is under the Delegacy of the [i]Third Jyushin Sanctum[/i].
+[i]Welcome to the Fort Archipelago under the Third Jyushin Sanctum.[/i]
 
 Members of Incumbent Government
 -[color=#77003c]Protoconsul F.B.V. &amp;amp; Delegate &amp;amp; Legatus Exercitum Fortii:[/color] [b][Nation]Jyushin[/nation][/b] (Iusinion Caesus)
 -[color=#6a006a]Consul for Economics &amp;amp; Praetor Aerarii Fortii V.S.[/color]: [b][Nation]macro-economics[/nation][/b] (Denarion)
 -[color=#2b0057]Consul for Defence &amp;amp; Praefectus Praetorianorum Fortii V.S.[/color]: [b][nation]balgokuth[/nation][/b] (Custus)
--[color=#005682]Consul for Interregional Affairs and Trade[/color]: [i]vacant[/i]
+-[color=#005682]Consul for Interregional Affairs and Trade[/color]: [b][nation]mlhmh aldhlam[/nation][/b] (Pontifens)
 -[color=#008282]Consul for Regional Social Affairs V.S.[/color]: [b][nation]lavode[/nation][/b] (Dentius Benedictus)
 -[color=#008282]Suppraetor Granariorum Aquaeductuumque V.S.[/color]: [b][Nation]1025world[/nation][/b] (Krispykremus / Granarius Benedictus)

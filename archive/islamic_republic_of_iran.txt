@@ -14,8 +14,10 @@ Minister of Foreign Affairs: [nation=short]Western Arab Empire[/nation]
 
 Minister of Defense:  [nation=short]Amenhotep IV[/nation]
 
-Minister of Internal Affairs: VACANT
+Minister of Internal Affairs: [nation=short]Ahmedistan[/nation]
 
 Minister of Culture and Islamic Guidance: VACANT
+
+Minister of Recruitment VACANT:
 
 [color=red]Allied With: [region]RORMS[/region], [/color] [region]International Republican Union[/region],[region]United Empire of Islam[/region] and [region]Foxtopia[/region][/b]

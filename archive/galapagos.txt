@@ -8,9 +8,9 @@
 * Passworded Puppet Storage Region
 * Previously a [region=Rio de Janeiro] puppet region
 * Founded: March 16, 2011
-* We will accept all embassy requests
+* This region will accept all embassy requests
 * Puppets are not available
 * Census Bureau: [region=Western Samoa]
-* Lands Management (Cemeteries): [region=Cemetery] and [region=Crematorium]
+* Public Works: [region=Cemetery] and [region=Crematorium]
 * Naval Ports of Call: [region=South China Sea], [region=Pitcairn], and [region=the Cayman Islands]
 * Customs Union: [region=Ecuador][/color][hr][color=red][b]* PLEASE * DO NOT RECRUIT HERE *[/b][/color][hr]

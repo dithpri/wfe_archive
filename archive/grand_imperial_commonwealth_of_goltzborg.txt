@@ -1,0 +1,7 @@
+[b]
+The Grand Imperial Commonwealth of Goltzborg is comprised of the following nations:
+
+[nation]Goltzborg[/nation]
+
+[nation]New Goltzborg[/nation]
+[/b]

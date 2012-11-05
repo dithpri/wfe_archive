@@ -8,7 +8,7 @@
 [b]PRESIDIUM:[/b] 
 Secretary General :[nation=short]Undertaker[/nation]
 Minister of Foreign Affairs: [nation=short]Romanov Dynasty[/nation]
-Minister of Internal Affairs:Vacant[hr]
+Minister of Internal Affairs:[nation=short]Nan Zhou[/nation][hr]
 [u][b]SENATE[/b][/u]:
 Speaker of Senate:[nation=short]lancearc[/nation]
 [hr]
