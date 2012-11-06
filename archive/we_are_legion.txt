@@ -8,8 +8,8 @@
 3.Don&amp;#39;t betray us.
 4.I don&amp;#39;t care...
 [hr][b][u][color=red]War Council[/b][/u][/color]
-[color=navy][b]Head of State: [nation=tag]United Fallcrest[/nation]/[nation]Zebesian Space Pirates[/nation]
+[color=navy][b]Head of State: [nation=short]United Fallcrest[/nation]/[nation=short]Zebesian Space Pirates[/nation]
 Generals:
-Diplomats:[/color][/b]
+Diplomats: [nation=short]Rugaria[/nation][/color][/b]
 [hr][b][u]Raided Regions: 0[/u][/b]
 [hr][u][color=green][b]Links:[/color][/u] [url=http://www.pastebucket.com/5144]Laws of The Legion[/url][/b]

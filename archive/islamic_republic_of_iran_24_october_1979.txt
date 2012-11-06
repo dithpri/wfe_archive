@@ -1,7 +1,7 @@
-[b][color=green]Welcome to the[/color] [color=red]Islamic[/color] [color=green]Republic[/color][color=green] Iran[/color][/b]
+[b][color=green]Islamic Republic of Iran 24 October 1979[/color] [color=red]is sister region of [region]Islamic Republic of Iran[/region] and is govern by [/color] [color=green][region]Islamic Republic of Iran[/region][/color][color=green][/b]
 
 
-[color=black][b][u]Officials[/u][/b][/color]
+[b][u]Officials[/u][/b][/color]
 [color=brown][b]Supreme Leader: Grand Ayatollah [nation=short]Ognjen Ahmadinejad[/nation] [/color]
 [color=brown]Acting President: [nation=short]Ognjen Ahmadinejad II[/nation][/color]
 [color=brown]First Vice-President responsible for Intelligence and National Security:[nation=short]The Free State of Bavaria[/nation]
@@ -10,7 +10,7 @@ Adviser to the President: [nation=short]Western Arab Empire[/nation][/color][/b]
 
 [u][b]Ministries:[/u] 
 
-Minister of Foreign Affairs: [nation=short]Western Arab Empire[/nation]
+Minister of Foreign Affairs: [nation=short]Ognjen Ahmadinejad[/nation]
 
 Minister of Defense:  [nation=short]Amenhotep IV[/nation]
 
@@ -18,6 +18,6 @@ Minister of Internal Affairs: [nation=short]Ahmedistan[/nation]
 
 Minister of Culture and Islamic Guidance: VACANT
 
-Minister of Recruitment VACANT:
+Minister of Recruitment: [nation=short]Western Arab Empire[/nation]
 
 [color=red]Allied With: [region]RORMS[/region], [/color] [region]International Republican Union[/region],[region]United Empire of Islam[/region] and [region]Foxtopia[/region][/b]

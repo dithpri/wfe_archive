@@ -17,5 +17,8 @@
 [color=purple]Lieutenant[/color]
 [color=darkblue]Senior[/color] [color=darkblue]Petty[/color] [color=darkblue]officer[/color]
 [color=darkblue]Petty[/color] [color=darkblue]officer[/color]
-[color=lightblue]Crewman[/color]
+[color=lightblue]Crewman[/color]                                                    
 [color=lightblue]Cadet[/color]
+
+[color=blue]Intelligence[/color] [b][color=blue][/b]Officer[/color]
+[color=purple]Cheif [/color] [color=purple]Of[/color] [color=purple]Security[/color]

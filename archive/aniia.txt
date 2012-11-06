@@ -20,11 +20,8 @@ Members of Aniia Continent:
 [nation=noflag]Lawful Corruption[/nation]
 [nation=noflag]Maritoria[/nation]
 [nation=noflag]Pattypamster[/nation]
-[nation=noflag]Hell of Death[/nation]
 [nation=noflag]Ranmaverse[/nation]
-[nation=noflag]Realm of Dreams[/nation]
 [nation=noflag]Renesella[/nation]
-[nation=noflag]Tetragon[/nation]
-[nation=noflag]USSR Russia[/nation]
+[nation=noflag]Snakara[/nation]
 [nation=noflag]We The Kingz[/nation]
 

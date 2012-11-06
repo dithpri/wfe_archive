@@ -13,7 +13,7 @@ ________________________________________________________________________
 Overlord: [nation]General Themis[/nation]
 [color=darkred]Naval Commander:[/color]  
 Air Force Commander:[nation]aberffraw[/nation] 
-[color=darkred]Army Commander:[/color] 
+[color=darkred]Army Commander:[nation=short]United States of Great Britain[/nation][/color] 
 Ambassador:
 [color=darkred]Secretary of Regional Affairs:[/color]
 Secretary of Finance:[/b]
