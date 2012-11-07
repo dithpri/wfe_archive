@@ -11,6 +11,7 @@ President:[/b] [nation=short]Sheltopolis[/nation]
 [nation=short]Hanalia[/nation]
 [nation=short]South Raiders[/nation]
 [nation=short]Ayrena[/nation]
+[nation=short]FnFail[/nation]
 [hr][b][url=http://www.youtube.com/watch?v=3VjKPKvRS4A&amp;amp;feature=related]National Anthem[/url] | [url=http://www.youtube.com/watch?v=MaC07le_SUs&amp;amp;NR=1&amp;amp;feature=endscreen]Secondary Anthem[/url] | [url=http://w11.zetaboards.com/TheACAforum/index/]Forums[/url] | [url=http://w11.zetaboards.com/TheACAforum/topic/7964742/]Constitution[/url] | [url=http://www.youtube.com/user/ACANewsNetwork]YouTube Channel[/url] | [url=http://www.youtube.com/watch?v=Xv24N8H1KyI]Song of the Month[/url][/b]
 [hr][b][u]Home Land Security[/b][/u]
 [List][*][color=green]LOW[/color] - Safe
@@ -19,6 +20,6 @@ President:[/b] [nation=short]Sheltopolis[/nation]
 [*][color=orange]HIGH[/color] - Serious threat
 [*][color=red]SEVERE[/color] - Gargantuan threat[/List]
 
-[b]Current Level:[/b] [color=blue]GUARDED[/color]
+[b]Current Level:[/b] [color=green]LOW[/color]
 [hr][b][u][color=blue]News[/color][/b][/u]
-Sign-up for Congress ends [color=red]Nov. 5[/color]
+11/6/12: [nation=short]KizilViran[/nation] joined the ACA

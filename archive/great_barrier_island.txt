@@ -1,11 +1,10 @@
-[region]Great Barrier Island[/region] is home to the free and now independent people of [nation]New Barrierland[/nation]
-Revolted from: [region]New Zealand[/region]
-Any country is free to join.
-[color=red]Region leader: [nation]The Constitutional Monarchy of New Barrierland[/nation][/color]
-[color=blue]Minister of foreign affairs: [nation]The Constitutional Monarchy of New Barrierland[/nation][/color]
-
-[color=brown]Minister of defense: [nation]The Constitutional Monarchy of New Wattle[/nation][/color]
-
-[color=purple]Minister of state: [nation]The Constitutional Monarchy of New Barrierland[/nation][/color]
-
-[color=orange]Minister of Industry: [nation]The Empire of Gordonton[/nation][/color]
+Region leader: [nation]New Barrierland[/nation]
+Minister of foreign Affairs: [nation]New Barrierland[/nation]
+Minister of Defense: [nation]New Wattle[/nation]
+Minister of States: [nation]New Barrierland[/nation]
+Minister of Industry and Economy: [nation]Gordonton[/nation]
+Minister of Tourism: [nation]New Barrierland[/nation]
+Minister of Administry: [nation]Gordonton[/nation]
+Minister of Enviroment: [nation]New Barrierland[/nation]
+Minister of Information: [nation]New Barrierland[/nation]
+Minister of Justice: [nation]New Barrierland[/nation]

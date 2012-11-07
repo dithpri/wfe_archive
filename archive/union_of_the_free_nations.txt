@@ -7,3 +7,4 @@ A group of islands with several nations in them.
 [nation=short]Tuadania[/nation]
 [nation=short]Potifia[/nation]
 [nation=short]Wolfario[/nation]
+[nation=short]Synapticus[/nation]

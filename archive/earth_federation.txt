@@ -1,16 +1,16 @@
-[b][color=lightgreen]Regional Population:[/color][/b] 20,226,000,000
-[b][color=lightgreen]Smallest Member State:[/color][/b] [nation=short]X1ng[/nation]  [ 770 million ]
-[b][color=lightgreen]Largest Member State:[/color][/b] [nation=short]Obesinia[/nation] [ 1.488 billion ] 
-[b][color=lightgreen]Lowest Taxation:[/color][/b] [nation=short]Little Bill[/nation] [ [color=lightblue]10%[/color] ]
-[b][color=lightgreen]Highest Taxation:[/color][/b] [nation=short]the illuminous sun[/nation] [ [color=red]82%[/color] ]
-[b][color=lightgreen]Smallest Economy:[/color][/b] [nation=short]Bruceton Mills[/nation] [ $94.1 billion ]
-[b][color=lightgreen]Largest Economy:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $61.3 trillion ]
-[b][color=lightgreen]Lowest GDP Per Capita:[/color][/b] [nation=short]Bruceton Mills[/nation] [ $87.19 ]
-[b][color=lightgreen]Highest GDP Per Capita:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $41,576.50 ]
+[b][color=lightgreen]Regional Population:[/color][/b] 20,465,000,000
+[b][color=lightgreen]Smallest Member State:[/color][/b] [nation=short]X1ng[/nation]  [ 782 million ]
+[b][color=lightgreen]Largest Member State:[/color][/b] [nation=short]Obesinia[/nation] [ 1.500 billion ] 
+[b][color=lightgreen]Lowest Taxation:[/color][/b] [nation=short]Little Bill[/nation] [ [color=lightblue]8%[/color] ]
+[b][color=lightgreen]Highest Taxation:[/color][/b] [nation=short]the illuminous sun[/nation] [ [color=red]83%[/color] ]
+[b][color=lightgreen]Smallest Economy:[/color][/b] [nation=short]Bruceton Mills[/nation] [ $95.3 billion ]
+[b][color=lightgreen]Largest Economy:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $63.1 trillion ]
+[b][color=lightgreen]Lowest GDP Per Capita:[/color][/b] [nation=short]Bruceton Mills[/nation] [ $87.21 ]
+[b][color=lightgreen]Highest GDP Per Capita:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $42,455.64 ]
 [b][color=lightgreen]Lowest Average Employee Salary: [/color][/b] [nation=short]Bruceton Mills[/nation] [ $120.90 ]
-[b][color=lightgreen]Highest Average Employee Salary: [/color][/b][nation=short]Greater Neo Germany[/nation]  [ $79,452.52 ]
-[b][color=lightgreen]Largest Trade Surplus:[/color][/b] [nation=short]The Illuminous Sun[/nation] [ [color=lightblue]$1.03 trillion[/color] ]
-[b][color=lightgreen]Largest Trade Deficit:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ [color=red]$493 billion[/color] ]
+[b][color=lightgreen]Highest Average Employee Salary: [/color][/b][nation=short]Greater Neo Germany[/nation]  [ $79,453.18 ]
+[b][color=lightgreen]Largest Trade Surplus:[/color][/b] [nation=short]The Illuminous Sun[/nation] [color=lightblue]$1.07 trillion[/color] ]
+[b][color=lightgreen]Largest Trade Deficit:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ [color=red]$499 billion[/color] ]
 
 [hr]
 

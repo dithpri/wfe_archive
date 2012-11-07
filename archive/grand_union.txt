@@ -9,9 +9,9 @@
 [hr]
 [b][color=gold]Grand Union Court[/color][/b]
 
-[i]- [nation]Kiun-de-Xikster[/nation]
-- [nation]Itius[/nation]
--VACANT[/i]
+[i]- [nation=Kiun-de-Xikster]
+- [nation=Itius]
+- [nation=Royalist Albion][/i]
 
 [i][url=http://www.nationstates.net/nation=macea/detail=factbook/id=57021]See the Development Ministry&amp;#39;s full roster here![/url][/i]
 
