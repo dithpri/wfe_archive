@@ -7,5 +7,4 @@ Under joint Armenia and Nagorno Karabakh military control
 Most likely, the borders in the area will be adjusted, and Armenia will annex the region.
 
 ABOUT THIS REGION
-a [region=Royal Alliance] region
-[b]Founded by:[/b] [nation=short]Elliston[/nation] [i]Jan. 24, 2012[/i]
+a [region=Galapagos] region

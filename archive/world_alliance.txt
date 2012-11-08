@@ -1,7 +1,7 @@
-[hr][hr][b][color=green]WORLD ALLIANCE IS THE ASSOCIATION OF ALL NATION STATES OF THE WORLD[/color][/b]
+[hr][hr][b][color=darkblue]WORLD ALLIANCE IS THE ASSOCIATION OF ALL NATION STATES OF THE WORLD[/color][/b]
 [hr][hr]
 
-[i][color=green]WORLD ALLIANCE COUNCIL[/color][/i]
+[i][b][color=yellow]WORLD ALLIANCE COUNCIL[/color][/b][/i]
 
 [i]President : [nation]Acquitane[/nation][/i]
 [i]Vice President : [nation]Spiritualiza[/nation][/i]
@@ -11,20 +11,14 @@
 [i]Minister of Internal Affairs : [nation]Zebulor[/nation][/i]
 [i]Minister of External Affairs : [nation]Newasia[/nation][/i]
 
-[hr]
-
-[i][color=green]WORLD ALLIANCE SECURITY COMMISSION[/color][/i]
-
-[i]Chairman : [nation=short]YesoVenda[/nation][/i]
-[i]Commissioner : [nation=short]Stalingrad Island[/nation][/i]
+[hr][i][b][color=yellow]WORLD ALLIANCE SECURITY COMMISSION[/color][/b][/i]
+[i]Chairman : [/i]
 [i]Commissioner : [/i]
-
-[hr]
-
-[i][color=green]WORLD ALLIANCE DEVELOPMENT COMMISSION[/color][/i]
-
+[i]Commissioner : [/i]
+[hr][i][b][color=yellow]WORLD ALLIANCE DEVELOPMENT COMMISSION[/color][/b][/i]
 [i]Chairman : [/i]
 [i]Commissioner : [nation=short]Crosmin[/nation][/i]
 [i]Commissioner : [nation=short]Naziaran[/nation][/i]
-[hr][hr][b][url=http://tracker.conquestofabsolution.com/region=world_alliance][color=green]WA Tracker[/color][/url] | [url=http://justpaste.it/resolutions][color=green]WA Laws[/color][/url] | [url=http://forum.nationstates.net/viewtopic.php?f=23&amp;amp;t=202651][color=green]WA News[/color][/url] | [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=206503][color=green]WA Summit[/color][/url][/b]
+[hr][hr][b][color=red]ONGOING LINKS :[/color] [i][url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=206503][color=darkviolet]WA Regional Summit[/color][/url] | [url=forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=207422][color=darkviolet]WA Informal Summit[/color][/url] | [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=207503][color=darkviolet]WA Council Summit[/color][/url][/i]
+[hr][color=red]UPDATED LINKS :[/color] [i][url=http://tracker.conquestofabsolution.com/region=world_alliance][color=darkorange]WA Statistics Tracker[/color][/url] | [url=http://justpaste.it/resolutions][color=darkorange]WA Passed Resolutions[/color][/url] | [url=http://forum.nationstates.net/viewtopic.php?f=23&amp;amp;t=202651][color=darkorange]WA News Network[/color][/url][/i][/b]
 [hr][hr]
