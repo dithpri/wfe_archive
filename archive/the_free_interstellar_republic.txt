@@ -2,15 +2,18 @@
 #1 - [i]Aerinoth[/i] ([nation=short]The Fifth Dominion[/nation])
 #2 - [i]Inquells[/i] ([nation=short]Inquells[/nation])
 #3 - [i]Hoppity Jump[/i] ([nation=short]Hoppity Jump[/nation])
-#4 - [i]Alvojne[/i] ([nation]Alfalshi[/nation] ([b]Dead[/b]))
-#5 - [i]Alquells[/i] (&amp;quot; &amp;quot;)
-#6 - [i]Falshi[/i] (&amp;quot; &amp;quot;)
-#7 - [i]Fourth Dominion[/i] ([nation=short]The Grand Fourth Dominion[/nation])
-#8 - [i]Old North Fish[/i] ([nation=short]Old North Fish[/nation])
-#9 - [i]Adi Rajen[/i] ([nation=short]Adi Rajen[/nation])
-#10 - [i]Fal shia[/i] ([nation=short]Fal shia[/nation])
-#11 - [i]Davatria[/i] ([nation=short]Davatria[/nation])
-#12 - [i]Vojne[/i] ([nation=short]Vojne[/nation])
-#14 - [i]Southern Zone[/i] ([nation=short]Ashbringer[/nation]/[nation=short]The Southern Zones[/nation])
+#4 - [i]Alfalshi[/i] ([nation]Nationalist Alfalshi[/nation]
+#5 - [i]Fourth Dominion[/i] ([nation=short]The Grand Fourth Dominion[/nation])
+#6 - [i]Old North Fish[/i] ([nation=short]Old North Fish[/nation])
+#7 - [i]Adi Rajen[/i] ([nation=short]Adi Rajen[/nation])
+#8 - [i]Fal shia[/i] ([nation=short]Fal shia[/nation])
+#9 - [i]Davatria[/i] ([nation=short]Davatria[/nation])
+#10 - [i]Vojne[/i] ([nation=short]Vojne[/nation])
+#11 - [i]Southern Zone[/i] ([nation=short]Ashbringer[/nation]/[nation=short]The Southern Zones[/nation])
 
-[b]RP[/b] - [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=182560]Secession: Civil War[/url]
+[b]FEDERAL ZONES[/b]
+#1 - Varnathox Capital Zone (location: [i]Inquells[/i])
+#2 - Free Fire Zone (location: [i]Alfalshi[/i])
+#3 - Iievian Ruins Historical Site (location: [i]Former Iievian Isles[/i])
+
+[b]RP[/b] - [b]COMING SOON[/b]

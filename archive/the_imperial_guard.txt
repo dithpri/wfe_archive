@@ -4,13 +4,13 @@
 
 [/b][color=black][b]Government[/b]
 
-[b]Imperial Emperor:[/b] [nation=short]Budisel[/nation]
-[b]Prime Minister:[/b] [nation=short]Zumreed[/nation]
-[b]Speaker:[/b] [nation=short]Wiendonia[/nation]
-[b]Honorable Judge:[/b] [/color][color=green]N/A[/color][color=darkblue]
-Minister of Regional Affairs: [nation=short]Ayodo[/nation]
-Minister of Immigration and Customs: [nation=short]Taikoku[/nation]
-Minister of Defense and Intelligence: [nation=short]Dernovia[/nation][/color]
+[b]Imperial Emperor:[/b] [nation=noname]Budisel[/nation][/color][color=darkblue]Budisel[/color][color=black]
+[b]Prime Minister:[/b] [nation=noname]Zumreed[/nation][/color][color=darkblue]Zumreed[/color][color=black]
+[b]Speaker:[/b] [nation=noname]Wiendonia[/nation] [/color][color=darkblue]Wiendonia[/color][color=black]
+[b]Honorable Judge:[/b] [/color][color=darkblue]N/A[/color][color=darkblue]
+Minister of Regional Affairs: [nation=noname]Ayodo[/nation][/color][color=black]Ayodo[/color][color=darkblue]
+Minister of Immigration and Customs: [nation=noname]Taikoku[/nation] [/color][color=black]Taikoku[/color][color=darkblue] 
+Minister of Defense and Intelligence: [nation=noname]Dernovia[/nation] [/color][color=black]Dernovia[/color]
 
 [color=black][b]News[/b][/color]
 

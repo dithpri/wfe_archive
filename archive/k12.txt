@@ -1,12 +1,12 @@
 [hr]
 
-[color=blue][b]Kasperian Republics Presidential Palace[/b][/color]
-
-Home seat of the Kasperian National Presidency, set in the city of Kasperville, [nation=short+noflag]Kasperiah[/nation]. Loyal to the [region]Democratic Socialist Assembly[/region].
+[color=blue][b]Kasperian Republics Presidential Palace[/b][/color], set in the city of Kasperville, [nation=short+noflag]Kasperiah[/nation].
 
 [b]Ruler[/b]: [color=blue][i]Lennart Austerlitz[/i][/color]
 
 [b]Motto[/b]: [color=blue][i]&amp;quot;Twelve as One&amp;quot;[/i][/color]
+
+[b]Loyalty[/b]: [region]Democratic Socialist Assembly[/region]
 
 Proud [i]constituent countries[/i] of the [region]K12[/region]:
 

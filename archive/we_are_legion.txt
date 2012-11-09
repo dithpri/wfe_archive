@@ -3,8 +3,8 @@
 [hr][b][color=red]R[/color][color=orange]A[/color][color=yellow]I[/color][color=green]N[/color][color=blue]B[/color][color=purple]O[/color][color=maroon]W[/color][/b]
 [hr][b][u][color=red]War Council[/b][/u][/color]
 [color=navy][b]Head of State: [nation=short]Charlzilla[/nation]
-Vice Head of State: [nation=short]New-Zealand[/nation]
-Generals: [nation=short]Vockovia[/nation]/[nation=short]Zebesian Space Pirates[/nation]
+Vice Head of State:
+Generals: [nation=short]Zebesian Space Pirates[/nation]/[nation=short]Vockovia[/nation]
 Diplomats: [nation=short]Rugaria[/nation]/[/color][/b]
 [hr][b][color=maroon][u]Flag Overview:[/u][/b][/color]
 [color=blue]You have the right to have your own flag, but it is highly encouraged that you change your flag to the regional flag. There is a different adaption according to what you are in the region.[/color]

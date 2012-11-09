@@ -1,25 +1,19 @@
-[color=blue] Government Officials [/color]
+[color=red] Conservative Party
+The Grand Duchy of Denargwei
+The United Socialist States of Mzuilet
+[/color]
 
-[color=red] President [/color]
-[color=green] The Federal Republic of Argoth [/color]
+[color=blue] Liberal Party
+The Disputed Territories of Skroth
+The Commonwealth of Tentar
+The United States of Monster_2024
+The Repulic of The Piewalker442
+[/color]
 
-[color=red] Vice President [/color]
-[color=green] The Disputed Territories of Skroth[/color]
-
-[color=red] Commander in Chief[/color]
-[color=green] The Grand Duchy of Denargwei[/color]
-
-[color=red] Head of Intellegence [/color]
-[color=green]The People&amp;#39;s Republic of Attieron[/color]
-
-[color=blue] Government Advisory [/color]
-
-[color=red] Internal Affairs Advisor [/color]
-[color=green] The United Socialist States of Mzuilet[/color]
-
-[color=red] External Affairs Advisor [/color]
-[color=green] The Commonwealth of Tentar[/color]
-
+[color=green] Federalist Party
+The Federal Republic of Argoth
+The People&amp;#39;s Republic of Attieron
+[/color]
  
  
  

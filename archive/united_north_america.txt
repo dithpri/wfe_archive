@@ -7,7 +7,6 @@
 [color=Purple]Vice president: [nation=short]MCALS[/nation][/color]  
 [color=Purple]Defence minister: [nation=short]Pacificia Empire[/nation][/color]  
 [color=Purple]Senate Leader: [nation=short]Paramountia[/nation][/color]
-[color=Purple]Head of Recruitment Committee: [nation=short]New Queensberry 2[/nation][/color]
 [color=Purple]Foreign minister:[/color] Elections start Friday!
 
 
@@ -17,6 +16,7 @@
 [b]Endorsement cap: 10[/b]
 ------------------------------
 
-
+[color=grey]Head of Recruitment Committee: [nation=short]New Queensberry 2[/nation][/color]
+[color=grey] WA delegate/President: [nation=short]Paramountia[/nation][/color]
 
 [color=gold]TERMS FOR ALL END ON JANUARY 1, 2013[/color] in regional government

@@ -5,5 +5,5 @@ Idris is an isolated planet found in a parallel universe. All the nations of Idr
 
 [color=red]Minister of the Interior[/color]: [nation=Vriskastan]
 [color=red]Minister of Foreign Affairs[/color]: [nation=Gordano and Lysandus]
-[color=red]Minister of Science and Technology[/color]: Open
+[color=red]Minister of Science and Technology[/color]: [nation=Venamek]
 [color=red]Minister of Economics[/color]: Open

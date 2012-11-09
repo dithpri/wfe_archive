@@ -1,0 +1,7 @@
+Hello!  Welcome!  Now go away!
+
+New lines.  I know, they make it /n/n so much harder to think, don&amp;#39;t they?
+
+&amp;lt;This might not do anything&amp;gt;&amp;lt;/REGION&amp;gt;&amp;lt;REGION&amp;gt;
+&amp;lt;/REGION&amp;gt;
+&amp;lt;REGION&amp;gt;
