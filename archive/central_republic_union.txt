@@ -9,6 +9,7 @@
 [nation]Bytharta[/nation]
 [nation]Saragona[/nation]
 [nation]Agica[/nation]
+[nation]Ganshee[/nation]
 [nation]Arceal[/nation]
 [nation]Segundul[/nation]
 [nation]Orlees[/nation]

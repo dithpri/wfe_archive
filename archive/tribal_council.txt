@@ -1,4 +1,4 @@
-President:
+President: [nation]Skullhead[/nation]
 VP:
 Secretary:
 General:
