@@ -9,7 +9,7 @@ VCC: [nation=short]The Slavic Socialist Union[/nation]
 CoIA: [nation=short]German[/nation]
 CoFA: [nation=short]New Langsia[/nation]
 MoD: [nation=short]World Anarchy[/nation]
-MoJ: Vacant
+MoJ: [nation=short]SouthWestt America[/nation]
 See constitution for descriptions.
 
 [color=red][b][u]Nations are encouraged to join the World Assembly[/u][/b][/color]

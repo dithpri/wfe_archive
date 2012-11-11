@@ -3,11 +3,13 @@
 
 [b][u]Officials[/u][/b]
 
-[color=brown][b]Supreme Leader: Grand Ayatollah [nation=short]Ognjen Ahmadinejad[/nation] [/color]
-[color=brown]Acting President: [nation=short]Ognjen Ahmadinejad II[/nation][/color]
-[color=brown]First Vice-President responsible for Intelligence and National Security:[nation=short]The Free State of Bavaria[/nation]
-Vice-President for Multicultural Affairs: VACANT
-Adviser to the President: [nation=short]Western Arab Empire[/nation][/color][/b] 
+[b]Supreme Leader: Grand Ayatollah [nation=short]Ognjen Ahmadinejad[/nation]
+Acting President: [nation=short]Ognjen Ahmadinejad II[/nation][/color]
+[color=brown]First Vice-President: [nation=short]Western Arab Empire[/nation]
+Vice-President for Intelligence and National Security: [nation=short]Amenhotep IV[/nation]
+Vice-President for Multicultural Affairs: [nation=short]Ahmedistan[/nation]
+Adviser to The President: [nation=short]The Free State of Bavaria[/nation][/color][/b] 
+ 
 
 [u][b]Ministries:[/u] 
 
@@ -15,7 +17,7 @@ Adviser to the President: [nation=short]Western Arab Empire[/nation][/color][/b]
 
 Minister of Defense:  [nation=short]Amenhotep IV[/nation]
 
-Minister of Internal Affairs: [nation=short]Ahmedistan[/nation]
+Minister of Internal Affairs: VACANT
 
 Minister of Culture and Islamic Guidance: VACANT
 

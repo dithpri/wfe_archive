@@ -10,7 +10,8 @@ If there are any questions about the rules contact either [nation]Tasistan[/nati
 [nation=short]Rishiragua[/nation]-50--Cash Crops
 [nation=short]Yertladistan[/nation]-50--Steel
 [nation=short]Myxlplykxia[/nation]-50--Oil
-[nation=short]Chandlerganistan[/nation]-50--Textiles
-[nation=short]Habibia[/nation]-50--Slaves[/b][/color]
+[nation=short]Chandlerganistan[/nation]-50--Plastic
+[nation=short]Habibia[/nation]-50--Slaves
+[nation=short]Andrewstan[/nation]-50--Textiles[/b][/color]
 
 [b][color=blue]NI![/color][/b]

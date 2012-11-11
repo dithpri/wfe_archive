@@ -1,11 +1,11 @@
 [b]Government[/b]
-President - King Elliot I ([nation]Sheldon Cooper Worshippers[/nation])
-Vice President - President Scot Kelly ([nation]Howard Wolowitz Worshippers[/nation])
-Minister of Foreign Affairs - King Hamim Shamoun ([nation]Rajesh Koothrappali Worshippers[/nation])
-Minister of Finance - Queen Courtney [nation]Amy Farrah Fowler Worshippers[/nation])
-Minister of Defense - Pope Marcus I ([nation]Mary Cooper Worshippers[/nation])
-Minister of Law - President Michael Frost ([nation]Leonard Hofstadter Worshippers[/nation])
-Minister of Resources - Queen Kathleen ([nation]Bernadette Rostenkowski Worshippers[/nation])
+President - [nation]Sheldon Cooper Worshippers[/nation]
+Vice President - [nation]Howard Wolowitz Worshippers[/nation]
+Minister of Foreign Affairs - [nation]Rajesh Koothrappali Worshippers[/nation]
+Minister of Finance - [nation]Amy Farrah Fowler Worshippers[/nation]
+Minister of Defense - [nation]Mary Cooper Worshippers[/nation]
+Minister of Law - [nation]Leonard Hofstadter Worshippers[/nation]
+Minister of Resources - [nation]Bernadette Rostenkowski Worshippers[/nation]
 
 [b]Announcements[/b]
 1. Officer terms will begin on January 1, 2013.

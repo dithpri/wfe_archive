@@ -20,4 +20,4 @@
 
 [color=black]Order of the Day[/b]
 [/color]
-[b][color=8B0000]All troops are instructed to move to [region]Whitereach[/region] and endorse [nation]Monsoon[/nation][/b][/color]
+[b][color=8B0000]All troops are asked to move to [region=Whitereach] and endorse [nation=Monsoon][/b][/color]

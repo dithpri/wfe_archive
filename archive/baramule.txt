@@ -1,8 +1,8 @@
-[color=808000]QVCBNM: $0; 150; T0; 0pp[/color] Weave Fragments; the Hub; Greater Array, Alluvium, Expiats, and the Forge
-[color=808000]Gerhylo: [b]1[/b] $100; 100; 0pp Lo[/color]
-[color=808000]Rampana: $0; 200; T0; 0pp[/color]
+[color=808000]QVCBNM: $0; 225; T0; 0pp[/color] Weave Fragments; the Hub; Greater Array, Alluvium, Expiats, and the Forge
+[color=808000]Gerhylo: [b]1[/b] $200; 100; 0pp Lo[/color]
+[color=808000]Rampana: $0; 350; T0; 0pp[/color]
 [color=808000]Hydricia: $0; 100; T0; 0pp[/color]
-[color=808000]Neo-Arkaen: $0; 150; 700pp Lo[/color]
-[color=808000]Arenia-Necros:  $0; 150; 0pp Si[/color]
-[color=808000]Celmarog: $36,000; 100; 100pp[/color]
-[color=808000]Tamany: $100; 100; 50pp[/color]
+[color=808000]Neo-Arkaen: $150; 150; 700pp Lo[/color]
+[color=808000]Arenia-Necros:  $0; 225; 0pp Si[/color]
+[color=808000]Celmarog: $37,000; 1,000; 100pp[/color]
+[color=808000]Tamany: $200; 100; 50pp[/color]

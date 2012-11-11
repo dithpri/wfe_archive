@@ -4,19 +4,19 @@
 
 [b]- [color=darkred]Join our regional government![/color]
 
-- Join our regional military by telegramming [nation]General Themis[/nation][/b]
+- Join our regional military by telegramming [nation=short]General Themis[/nation][/b]
 
 
 [b][color=darkred]The Government:[/color]
 ________________________________________________________________________
 
-Supreme Commander: [nation]General Themis[/nation]
+Supreme Commander: [nation=short]General Themis[/nation]
 [color=darkred]Naval Commander:[/color]  
-Air Force Commander:[nation]aberffraw[/nation] 
-[color=darkred]Army Commander:[nation=short]United States of Great Britain[/nation][/color] 
-Ambassador:
-[color=darkred]Secretary of Regional Affairs:[/color]
-Secretary of Finance:[/b]
+Air Force Commander: [nation=short]aberffraw[/nation] 
+[color=darkred]Army Commander: [nation=short]United States of Great Britain[/nation][/color] 
+Major General:[nation=short]Civil Servants[/nation]
+[color=darkred]Ambassador:[/color] [nation=short]makonia[/nation]
+[/b]
 ________________________________________________________________________
 
 [b]ALL MEMBERS ARE TO JOIN THE WA![/b]

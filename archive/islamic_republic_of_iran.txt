@@ -18,7 +18,7 @@ Adviser to The President: [nation=short]The Free State of Bavaria[/nation][/colo
 
 Minister of Defense:  [nation=short]Amenhotep IV[/nation]
 
-Minister of Internal Affairs: VACANT
+Minister of Internal Affairs: [nation=short]The Free State of Bavaria[/nation]
 
 Minister of Culture and Islamic Guidance: VACANT
 
