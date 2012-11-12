@@ -16,6 +16,7 @@
 [color=#8B0000]General: [nation=short]A Million Voices[/nation][/color]
 [color=black]General: [nation=short]Feuer Ritter[/nation][/color]
 [color=#8B0000]General: [nation=short]Scooby-Doo[/nation][/color]
+[color=black]General: [nation=short]Jarron[/nation][/color]
 [hr]
 
 [color=black]Order of the Day[/b]

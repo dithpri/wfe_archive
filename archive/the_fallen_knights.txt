@@ -10,8 +10,8 @@
 [b][color=darkred]The Government:[/color]
 ________________________________________________________________________
 
-Supreme Commander: [nation=short]General Themis[/nation]
-[color=darkred]Naval Commander:[/color]  
+Warlord: [nation=short]General Themis[/nation]
+[color=darkred]Naval Commander: [/color][nation=short]risin outlaws[/nation]  
 Air Force Commander: [nation=short]aberffraw[/nation] 
 [color=darkred]Army Commander: [nation=short]United States of Great Britain[/nation][/color] 
 Major General:[nation=short]Civil Servants[/nation]

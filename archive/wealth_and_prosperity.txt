@@ -4,5 +4,5 @@ We are a region of wealth and prosperity. We are a group of nations with economi
 
 President: [nation]Celynius[/nation]
 Vice President: [nation]Eupheos-Anetus[/nation]
-Senator:
-Senator:
+Senator: [nation]Regencia de Cazonia[/nation]
+Senator: [nation]Cadior[/nation]

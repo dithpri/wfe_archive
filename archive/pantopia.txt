@@ -1,10 +1,7 @@
 Pantopia is a region consisting of democratic nations who share the values of liberty and democracy. We promote international cooperation, economic development, social progress and international law across NS.
 
-Secretary-General: [nation]socialist republic of andrew[/nation]
-Deputy Secretary-General: [nation]the orson empire[/nation]
-Minister of Economic Affairs: [nation]timmy city[/nation]
-Minister of Regional Security: [nation]cybus1[/nation]
-Chairman of the Commission:  [nation]valecia[/nation]
+WA Delegate: [nation]timmy city[/nation]
+Chairman of the Commission: [nation]valecia[/nation]
 Commission Member: [nation]novo wagondia[/nation]
 Commission Member: [nation]united kingdom of Poland[/nation]
 Commission Member: [nation]Williamson[/nation]

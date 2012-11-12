@@ -7,13 +7,13 @@
 
 Arch Chancellor -- [nation=short]Wopruthien[/nation]
 
-Vice Chancellor -- [nation=short]Cocodian[/nation]
+Vice Chancellor -- [i]To be appointed[/i]
 
 Chief of Defence Force -- [nation=short]Frattastan[/nation]
 
 Intelligence Minister -- [nation=short]Guy[/nation]
 
-Regional Liaison Officer -- [nation=short]Jaggeria[/nation] (Likako Nehio)
+Regional Liaison Officer -- [nation=short]Karputsk[/nation]
 
 Speaker of the Assembly -- [nation=short]Wibblefeet[/nation]
 

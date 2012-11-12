@@ -1,6 +1,8 @@
 [color=blue][b][i]THE GOVERNMENT OF THE GRAND UNION[/color][/b][/i]
 
-[color=gold][b]Government Ministers[/b][/color]
+[color=gold][b]Grand Council-Government Ministers[/b][/color]
+[i]Head of the Grand Council:[nation=GTCJ][/i]
+
 [i]Minister of Internal Affairs: [nation]Deithwyr[/nation][/i]
  
 [i]Minister of External Affairs: [nation]Vladov[/nation][/i]
@@ -28,12 +30,13 @@
 
 [i]Title Change: &amp;quot;Member&amp;quot; to &amp;quot;Intern&amp;quot;[/i]
 [i]Government Continuity Plan for Successor Regions
-Creation of the Ministry of Commerce[/i]
+Creation of the Ministry of Commerce
+Creation of the Senate[/i]
 
 
 [hr]
 
-[i][b][url=http://w11.zetaboards.com/The_Grand_Union/index/]Regional Forum[/url]||[url=http://tracker.conquestofabsolution.com/region=grand_union]Regional Statistics[/url]||[url=http://iiwiki.wikkii.net/iiwiki/images/GRAND_UNION_GLOBAL_MAP_EIGHTH_VERSION.jpg]Regional Map[/url]||[url=http://justpaste.it/guconstitution]Regional Constitution[/url][/b][/i] 
+[i][b][url=http://w11.zetaboards.com/The_Grand_Union/index/]Regional Forum[/url]||[url=http://tracker.conquestofabsolution.com/region=grand_union]Regional Statistics[/url]||[url=http://images2.wikia.nocookie.net/nationstates/images/c/c1/Grand_Union_Map.jpg]Regional Map[/url]||[url=http://justpaste.it/guconstitution]Regional Constitution[/url][/b][/i] 
 
 
 
