@@ -4,9 +4,9 @@
 [nation=long+flag]Odinburgh[/nation]
 
 [b][u]Offices of the Intergalactic Federacy[/b][/u]
-Chief of State
+Chief of State -[color=Blue]Odinburgh[/color]
 Chief of Finance - [color=Blue]Inuyashina[/color]
-Chief of Defense
+Chief of Defense - [color=Blue]Holy Trek[/color]
 Chief of Intelligence - [color=Blue]Illion Systems[/color]
 
 

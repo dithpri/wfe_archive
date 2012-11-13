@@ -1,17 +1,11 @@
 The 2012 F1 season. Home Base.
 
-[region]Australia[/region] - Button [nation]M c L a r e n[/nation]
-[region]Malaysia[/region] - Alonso [nation]F e r r a r i[/nation]
+[region]Australia[/region], [region]Belgium[/region] - Button [nation]M c L a r e n[/nation]
+[region]Malaysia[/region], [region]Europe[/region], [region]Germany[/region] - Alonso [nation]F e r r a r i[/nation]
 [region]China[/region] - Rosberg [nation]M e r c e d e s[/nation]
-[region]Bahrain[/region] - Vettel [nation]R e d B u l l[/nation]
+[region]Bahrain[/region], [region]Singapore[/region], [region]Japan[/region], [region]Korea[/region], [region]India[/region]  - Vettel [nation]R e d B u l l[/nation]
 [region]Spain[/region] - Maldonado [nation]W i l l i a m s[/nation]
-[region]Monaco[/region] - Webber [nation]R e d B u l l[/nation]
-[region]Canada[/region] - Hamilton [nation]M c L a r e n[/nation]
-[region]Europe[/region] - Alonso [nation]F e r r a r i[/nation]
-[region]Great Britain[/region] - Webber [nation]R e d B u l l[/nation]
-[region]Germany[/region] - Alonso [nation]F e r r a r i[/nation]
-[region]Hungary[/region] - Hamilton [nation]M c L a r e n[/nation]
-[region]Belgium[/region] - Button [nation]M c L a r e n[/nation]
-[region]Italy[/region] - Hamilton [nation]M c L a r e n[/nation]
-[region]Singapore[/region], [region]Japan[/region], [region]Korea[/region], [region]India[/region] - Vettel [nation]R e d B u l l[/nation]
-Next stop, [region]United Arab Emirates[/region]!
+[region]Monaco[/region], [region]Great Britain[/region] - Webber [nation]R e d B u l l[/nation]
+[region]Canada[/region], [region]Hungary[/region], [region]Italy[/region]  - Hamilton [nation]M c L a r e n[/nation]
+[region]United Arab Emirates[/region] - Raikkonen [nation]L o t u s[/nation]
+Next stop, [region]United States of America[/region]!

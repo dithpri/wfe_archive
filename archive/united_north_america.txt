@@ -4,9 +4,9 @@
 [b]*Regional government*[/b]
 
 [color=grey]Head of Recruitment Committee: [nation=short]New Queensberry 2[/nation][/color]
-[color=grey] WA delegate/President: [nation=short]Paramountia[/nation][/color]
 
-[color=Purple]Vice president: [nation=short]MCALS[/nation][/color]  
+[color=Purple] WA delegate/President: [nation=short]Paramountia[/nation][/color]
+[color=Purple]Vice president:[/color]Elections on hold! 
 [color=Purple]Defence minister: [nation=short]Pacificia Empire[/nation][/color]  
 [color=Purple]Senate Leader: [nation=short]Paramountia[/nation][/color]
 [color=Purple]Foreign minister: [nation=short]IrIDIOUS[/nation][/color]
@@ -22,7 +22,7 @@
 
 [color=gold]TERMS FOR ALL END ON JANUARY 1, 2013[/color] in regional government
 
-POLITICAL PARTIES ( two big ones)
+POLITICAL PARTIES:
 
 [url=http://www.nationstates.net/nation=paramountia/detail=factbook/id=60155] [color=red] Conservative Party(UNAC)[/color][/url]
 
