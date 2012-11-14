@@ -1,7 +1,14 @@
-This is a land of fledgling nations. As they are sheltered under the watchful eyes of the Kingdom of Senoheir and its officers, they are safe to expand to their full potential. 
+This is a land of fledgling nations. As they are sheltered under the watchful eyes of  the Chilean Keepers, they are safe to expand to their full potential. 
 
-The officers of The Great Chili are as follows:
-The Borderlands of Wabacha
-The Holy Empire of the Sangeheili Separatist
+The Chilean Keepers are as follows:
+[nation]Senoheir[/nation]: The Guardian
+[nation]Wabacha[/nation]: The Coordinator
+[nation]The Sangheili Separatist[/nation]: The Eldest
+[nation]Scamvidia[/nation]: The Peace-Keeper
 
-Any nation may be put up for election of office, and shall be judged by the majority vote.
+Any nation may be put up for the role of [b]Chilean Keeper[/b], and shall be judged by the majority vote.
+
+These are the various dances and emotes that are used within the Great Chili
+
+Dance of Happiness: &amp;lt;(^-^&amp;lt;)(&amp;gt;^-^)&amp;gt;(&amp;gt;^-^&amp;lt;)&amp;lt;(^-^)&amp;gt;
+Ban Dance: &amp;lt;(-_-&amp;lt;) ^(-_-^) ^(-_-)^ (^-_-)^ (&amp;gt;-_-)&amp;gt;

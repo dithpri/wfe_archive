@@ -1,10 +1,1 @@
-Parte da regi&atilde;o [region]Brasil[/region]. Novo Estado reconhecido por:
-[nation=short]Santana-Tucuruvi[/nation];
-[nation=short]Kihimo[/nation]
-[nation=short]Tremembe[/nation]
-
-N&atilde;o reconhecido por:
-[nation=short]Romanist[/nation]
-
-Neutros:
--
+Parte da regi&atilde;o [region]Brasil[/region]. Novo Estado reconhecido pelo [region]Distrito Federal[/region]. Sabe-se l&aacute; as consequ&ecirc;ncias que isso ter&aacute;...

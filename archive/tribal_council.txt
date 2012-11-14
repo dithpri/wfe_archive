@@ -1,5 +1,5 @@
 President: [nation]Skullhead[/nation]
-VP:
+VP: [nation]DevilDude[/nation]
 Secretary:
 General:
 International recruiters:[nation]Evildictator[/nation], [nation]Nandrainia[/nation] and [nation]Smilesaway[/nation]
