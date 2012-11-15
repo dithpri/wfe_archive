@@ -13,7 +13,7 @@
 [color=black]Chief of the General Staff: [nation=short]Nordic Arbor[/nation] [/color]
 [color=#8B0000]Marshal: [nation=short]Gest[/nation][/color]
 [color=black]Marshal: [nation=short]Ithilis[/nation][/color]
-[color=#8B0000]General: [nation=short]A Million Voices[/nation][/color]
+[color=#8B0000]Marshal: [nation=short]A Million Voices[/nation][/color]
 [color=black]General: [nation=short]Feuer Ritter[/nation][/color]
 [color=#8B0000]General: [nation=short]Scooby-Doo[/nation][/color]
 [color=black]General: [nation=short]Jarron[/nation][/color]
@@ -21,4 +21,4 @@
 
 [color=black]Order of the Day[/b]
 [/color]
-[b][color=8B0000]All troops are asked to move to [region=Whitereach] and endorse [nation=Monsoon][/b][/color]
+[b][color=8B0000]Celebrate [nation=short+noflag]A Million Voices[/nation]  [url=http://s4.zetaboards.com/The_Black_Riders/topic/9762650/1]Promotion[/url][/b][/color]

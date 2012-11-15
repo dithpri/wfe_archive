@@ -1,14 +1,14 @@
 Welcome to the The Union of Left Wing Nations. 
-The region has an abundants of [color=green]Uranium[/color] and [color=green]Plutonium [/color]
+The region has an abundants of [region=Uranium] and [region=Plutonium] 
 Are understanding of nuclear technology and weaponry exceles most regions.
 The head fo are nuclear research plan are the people at Nuclear United in The U.S.S.T(Tiberium)
 
 [color=yellow]Ministry board[/color]
 
-[color=blue]Head of Region:[/color] Tiberium(U.S.S.T)
-[color=red]Mister of Defense:[/color]Izibia 
-[color=brown]Mister of Foringn Affairs:[/color]
-[color=orange]Mister of Internal Affairs:[/color]open
-[color=purple]Mister of Law:[/color]open
+[color=blue]Head of Region[/color]: Tiberium(U.S.S.T)
+[color=red]Mister of Defense[/color]:Izibia 
+[color=brown]Mister of Foringn Affairs[/color]:
+[color=orange]Mister of Internal Affairs[color]:open
+[color=purple]Mister of Law[/color]:open
 
-DEFCON Level--[color=green]DEFCON 4[/color]--
+DEFCON Level--[region=DEFCON 4]--

@@ -16,9 +16,9 @@ Clive P. Otato (Casinoria)
 [b]Judicial Ministers:[/b] Gerald Smith-TKF, Harold Baldwin-CF, Julie Lafferty-America, Salu-Unidis-WYT, Usilles-Pilcomayo-HC
 
 [b]Defcon Levels:[/b]
-[] 5-[color=yellow]Alliance at Peace[/color]
+[X] 5-[color=yellow]Alliance at Peace[/color]
 [] 4-[color=orange]Alliance on Standbye[/color]
-[X] 3-[color=red]Alliance being threatened[/color]
+[] 3-[color=red]Alliance being threatened[/color]
 [] 2-[color=darkred]Alliance at War[/color]
 [] 1-[b]More then one nation being attacked[/b]
 

@@ -3,8 +3,8 @@ Main Nations are
 [nation]madrid international[/nation]
 [nation]swisslands[/nation]
 [nation]aindaria[/nation]
-[nation]albiol[/nation]
+[nation]kalasnikof[/nation]
 
 army commander is [nation]kalasnikof[/nation]
-aiding countries are [nation]aindaria[/nation]
+aiding countries are [nation]aindaria[/nation], [nation]albiol[/nation] and [nation]dae han jeguk[/nation]
 founder is [nation]madrid international[/nation]

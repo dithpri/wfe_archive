@@ -8,14 +8,14 @@ http://www.nationstates.net/nation=usp_founder/detail=factbook/id=main
 
 
 [b][u]Elections:[/u][/b]
-President:
-Votes for Arkucia-1
+[b]President:[/b]
+Votes for Arkucia-3
+Votes for Neptunian Moons-1
 
 
-WA Delegate:
-WA Votes for Arkucia-1
+[b]WA Delegate:[/b]
 WA Votes for Kannap-
-
+WA Votes for Neptunian Moons-2
 
 
 
