@@ -3,7 +3,7 @@
 [b]REC[/b]
 Chancellor: [nation=short]Borduriaa[/nation]
 Speaker: [nation=short]Noorderkwartier[/nation]
-Secretary-General: [nation=short]Oberseewald[/nation]
+Secretary-General: Elections to be held
 [hr]
 [b]Cabinet[/b]
 Minister of Finance:[nation=short]Lentheric[/nation]

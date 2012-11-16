@@ -6,13 +6,13 @@ Confederacy Forum: http://panhelleniccon.greatestboard.com/
 
 [b]Now building the first Pan-Hellenic Confederation! All brother Greek regions are welcome to join! Our alliance will be based upon unity, freedom, independence, and fraternity/sorority! Brothers and Sisters, welcome![/b]
 
-Meeting Region: [region]Pan Hellenic Confederacy[/region]
+Meeting Region: [region=Pan Hellenic Confederacy]
 
 Declared Member Regions of the Pan-Hellenic Confederation:
 
-[region]GrecoRoman World of Classical Antiquity[/region]
-[region]The Greek Empire[/region]
-[region]The Empire of persia[/region]
-[region]The Persian Empire[/region]
-[region]Empire of Iran[/region]
-[region]Maxtopia[/region]
+[region=GrecoRoman World of Classical Antiquity]
+[region=The Greek Empire]
+[region=The Empire of persia]
+[region=The Persian Empire]
+[region=Empire of Iran]
+[region=Maxtopia]

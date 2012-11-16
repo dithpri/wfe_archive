@@ -9,6 +9,9 @@
 [nation]Eastern Ermorium[/nation] [color=green](Federal Territory of Ermorium) [/color]
 [nation]Kiozah[/nation] [color=green](Federal Territory of Skurmany)[/color]
 [nation]Shioque[/nation] [color=green](Federal Territory of Aturia)[/color]
-[nation]Samata[/nation]
+[nation]Bahungahagarriah[/nation]
+[nation]Vindishla[/nation]
 [nation]Conloah[/nation]
+[nation]Samata[/nation]
+[nation]Marlomag[/nation]
 

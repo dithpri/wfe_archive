@@ -1,9 +1,9 @@
 Emperor:[nation]Socialist Republic of Andrew[/nation]
 Enforcer:[nation]The Orson Empire[/nation]
-Prime Minister:[nation]Cybus1[/nation]
+Prime Minister:OPEN
 Minister of Regional Protection:[nation]Republic of matthew[/nation]
 Minister of Finance and regional trade:[nation]floridarocks[/nation]
-Minister of Foreign Relations:[nation]Valecia[/nation]
+Minister of Foreign Relations:OPEN
 Minister of Justice:[nation]German-Spanish Empire[/nation]
 
 
@@ -16,4 +16,5 @@ Freedom Party
 Democratic Party
 Republican Party
 Socialist Party
-Independent Party
+
+[i]Corruption is like a ball of snow,once is starts rolling it must increase[/i]-Charles Caleb Colton 
