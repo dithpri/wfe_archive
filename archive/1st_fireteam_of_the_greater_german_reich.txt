@@ -5,6 +5,6 @@
 Sgt.[nation=short+noflag]Tadmirtolia[/nation]
 
 [b]Soldiers:[/b]
-Cpl.[nation=short+noflag]The Kuomintang[/nation]
-Pvt.[nation=short+noflag]Grodon[/nation]
+Cpl.[nation=short+noflag]Nischeland[/nation]
+Pvt.[nation=short+noflag]Captain Woodhouse[/nation]
 Pvt.[nation=short+noflag]ArgenReich[/nation]

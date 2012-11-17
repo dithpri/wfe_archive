@@ -1,15 +1,15 @@
 This region is named &amp;quot;Pan-Slavia&amp;quot; after the fact that it is home to the Slavic peoples, and under the sovereignty of the Allied States of the Pan-Slavic Union.
 
 Founder: [nation]The Pan-Slavic Union[/nation] 
-WA Delegate: [color=red]VACANT[/color]
-President: [color=red]VACANT[/color]
+WA Delegate: [color=blue][nation]The Pan-Slavic Union[/nation][/color]
+President: [color=blue][nation]Crna Gora[/nation][/color]
 Minister of Recruiting: [color=red]VACANT[/color]
-Minister of Diplomacy: [color=blue][nation]Mission of the Soviet Union in Slavia[/nation][/color]
+Minister of Diplomacy: [color=blue][nation]Soviet Socialist Republics-[/nation][/color]
 
 
 Regional Motto: 
 
-[b][i][color=blue]In greatness and unity, we strive together as a community.[/color][/i][/b]
+[b][i][color=blue]In greatness and unity, we strive as a community.[/color][/i][/b]
 
 
 

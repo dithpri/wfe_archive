@@ -1,17 +1,17 @@
 [u][b]Full Members:[/b][/u] ([color=blue]Veto Superpowers[/color])
 [nation]Skurmany[/nation] + [nation]South Skurmany[/nation] + [color=green](Outer Territories)[/color]
-[nation]Aturia[/nation] [color=green](Northern &amp;amp; Southern Empires + Watcher Island)
+[nation]Aturia[/nation]
 [nation]Monrassa[/nation] + [nation]Gainpo[/nation]
-[/color][nation]Ermorium[/nation]
-
+[nation]Ermorium[/nation]
+[nation]Conloah[/nation]
+[nation]Shioque[/nation]
 
 [b][u]Other Members:[/u][/b] 
 [nation]Eastern Ermorium[/nation] [color=green](Federal Territory of Ermorium) [/color]
 [nation]Kiozah[/nation] [color=green](Federal Territory of Skurmany)[/color]
-[nation]Shioque[/nation] [color=green](Federal Territory of Aturia)[/color]
 [nation]Bahungahagarriah[/nation]
+[nation]Jalteshara[/nation] [color=green](Protectorate of Aturia)[/color]
+[nation]Saturia[/nation]
 [nation]Vindishla[/nation]
-[nation]Conloah[/nation]
 [nation]Samata[/nation]
 [nation]Marlomag[/nation]
-

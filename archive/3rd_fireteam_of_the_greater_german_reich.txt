@@ -2,8 +2,9 @@
 [b]It is a part of the [region]1st Platoon of the Greater German Reich[/region].[/b]
 
 [b]Commander:[/b]
-This military unit is being trained by Lt.[nation=short+noflag]Jekrehnot[/nation]
+Sgt.[nation=short+noflag]The Kuomintang[/nation]
 
 [b]Soldiers:[/b]
-Pvt.[nation=short+noflag]Herr Michael Wittmann[/nation]
+Cpl.[nation=short+noflag]Grodon[/nation]
 Pvt.[nation=short+noflag]Pampa Mirage[/nation]
+Pvt.[nation=short+noflag]Byrones[/nation]

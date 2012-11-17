@@ -1,0 +1,10 @@
+one nation region awaiting new nations
+Four large islands crowded together, each holding small caves. AVOID CAVES heartless threat
+
+green:safe
+yellow:warning
+orange:prep nukes
+Red : fire nukes
+
+
+nation status :green

@@ -1,31 +1,7 @@
-&amp;lt;font color=&amp;quot;black&amp;quot;&amp;gt;&amp;lt;b&amp;gt;&amp;lt;u&amp;gt;Nationalsozialistische Nationale - Gro&szlig;deutsches Reich&amp;lt;/u&amp;gt;&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;
-&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;
-&amp;lt;font color=&amp;quot;red&amp;quot;&amp;gt;On zhe 18.9.1939, &amp;lt;a href=&amp;quot;/region=the_greater_german_reich&amp;quot; class=&amp;quot;rlink&amp;quot;&amp;gt;the Greater German Reich&amp;lt;/a&amp;gt; marched into zhis Region in goose step, crushing it under patent leather riding boots to rule it vizh a leather gloved iron fist.&amp;lt;/font&amp;gt;
-&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;
+[u][b]Nationalsozialistische Nationale - Gro&szlig;deutsches Reich[/b][/u]
+[color=red]On zhe 2.10.1939, [region]the Greater German Reich[/region] marched into zhis Region in goose step, crushing it under patent leather riding boots, to rule it vizh a leather gloved iron fist.[/color]
 
-&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;
-&amp;lt;font color=&amp;quot;black&amp;quot;&amp;gt;&amp;lt;u&amp;gt;Bestandteile&amp;lt;/u&amp;gt;&amp;lt;/font&amp;gt;
-&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;
-&amp;lt;a href=&amp;quot;/region=the_byelorussian_ssr&amp;quot; class=&amp;quot;rlink&amp;quot;&amp;gt;The Byelorussian SSR&amp;lt;/a&amp;gt;
-&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;
-&amp;lt;a href=&amp;quot;/region=the_ukrainian_soviet_socialist_republic&amp;quot; class=&amp;quot;rlink&amp;quot;&amp;gt;The Ukrainian Soviet Socialist Republic&amp;lt;/a&amp;gt;
-&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;
-&amp;lt;a href=&amp;quot;/region=the_russian_sfsr&amp;quot; class=&amp;quot;rlink&amp;quot;&amp;gt;The Russian SFSR&amp;lt;/a&amp;gt;
-&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;
-&amp;lt;a href=&amp;quot;/region=the_azerbaijan_soviet_socialist_republic&amp;quot; class=&amp;quot;rlink&amp;quot;&amp;gt;The Azerbaijan Soviet Socialist Republic&amp;lt;/a&amp;gt;
-&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;
-&amp;lt;a href=&amp;quot;/region=the_georgian_soviet_socialist_republic&amp;quot; class=&amp;quot;rlink&amp;quot;&amp;gt;The Georgian Soviet Socialist Republic&amp;lt;/a&amp;gt;
-&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;
-&amp;lt;a href=&amp;quot;/region=the_armenian_soviet_socialist_republic&amp;quot; class=&amp;quot;rlink&amp;quot;&amp;gt;The Armenian Soviet Socialist Republic&amp;lt;/a&amp;gt;
-&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;
-&amp;lt;a href=&amp;quot;/region=the_tajik_soviet_socialist_republic&amp;quot; class=&amp;quot;rlink&amp;quot;&amp;gt;The Tajik Soviet Socialist Republic&amp;lt;/a&amp;gt;
-&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;
-&amp;lt;a href=&amp;quot;/region=the_uzbek_soviet_socialist_republic&amp;quot; class=&amp;quot;rlink&amp;quot;&amp;gt;The Uzbek Soviet Socialist Republic&amp;lt;/a&amp;gt;
-&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;
-&amp;lt;a href=&amp;quot;/region=the_kazakh_soviet_socialist_republic&amp;quot; class=&amp;quot;rlink&amp;quot;&amp;gt;The Kazakh Soviet Socialist Republic&amp;lt;/a&amp;gt;
-&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;
-&amp;lt;a href=&amp;quot;/region=the_kirghiz_soviet_socialist_republic&amp;quot; class=&amp;quot;rlink&amp;quot;&amp;gt;The Kirghiz Soviet Socialist Republic&amp;lt;/a&amp;gt;
-&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;
-&amp;lt;a href=&amp;quot;/region=the_turkmen_soviet_socialist_republic&amp;quot; class=&amp;quot;rlink&amp;quot;&amp;gt;The Turkmen Soviet Socialist Republic&amp;lt;/a&amp;gt;
-&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;
-&amp;lt;a href=&amp;quot;/region=the_tuvan_peoples_republic&amp;quot; class=&amp;quot;rlink&amp;quot;&amp;gt;The Tuvan Peoples Republic&amp;lt;/a&amp;gt;
+[u]Bestandteile[/u]
+[region]The Union of Soviet Socialist Republics[/region][color=red] (enth&auml;lt mehrere Gebiete)[/color]
+[region]The Tuvan Peoples Republic[/region]
+[region]The Mongolian Peoples Republic[/region]

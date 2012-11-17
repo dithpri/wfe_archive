@@ -1,15 +1,17 @@
 [color=blue][b][i]THE GOVERNMENT OF THE GRAND UNION[/color][/b][/i]
 
-[color=gold][b]Grand Council-Government Ministers[/b][/color]
-[i]Head of the Grand Council:[nation=GTCJ][/i]
+[color=gold][b]The Grand Council[/b][/color]
+[i]Head of the Grand Council: [nation=GTCJ][/i]
 
-[i]Minister of Internal Affairs: [nation]Deithwyr[/nation][/i]
+[i]Minister of Internal Affairs: [nation=Deithwyr]
  
-[i]Minister of External Affairs: [nation]Vladov[/nation][/i]
+Minister of External Affairs: [nation=Vladov]
 
-[i]Minister of Development: [nation]Macea[/nation][/i] 
+Minister of Development: [nation=Macea] 
+
+Minister of Commerce: [nation=Vladov][/i]
 [hr]
-[b][color=gold]Grand Union Court[/color][/b]
+[b][color=gold]The Grand Court[/color][/b]
 
 [i]- [nation=Kiun-de-Xikster]
 - [nation=Itius]
@@ -30,7 +32,6 @@
 
 [i]Title Change: &amp;quot;Member&amp;quot; to &amp;quot;Intern&amp;quot;[/i]
 [i]Government Continuity Plan for Successor Regions
-Creation of the Ministry of Commerce
 Creation of the Senate[/i]
 
 

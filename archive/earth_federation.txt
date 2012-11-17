@@ -1,16 +1,16 @@
-[b][color=lightgreen]Regional Population:[/color][/b] 21,143,000,000
-[b][color=lightgreen]Smallest Member State:[/color][/b] [nation=short]X1ng[/nation]  [ 823 million ]
-[b][color=lightgreen]Largest Member State:[/color][/b] [nation=short]Obesinia[/nation] [ 1.544 billion ] 
-[b][color=lightgreen]Lowest Taxation:[/color][/b] [nation=short]X1ng[/nation] [ [color=lightblue]4%[/color] ]
+[b][color=lightgreen]Regional Population:[/color][/b] 21,600,000,000
+[b][color=lightgreen]Smallest Member State:[/color][/b] [nation=short]X1ng[/nation]  [ 839 million ]
+[b][color=lightgreen]Largest Member State:[/color][/b] [nation=short]Obesinia[/nation] [ 1.561 billion ] 
+[b][color=lightgreen]Lowest Taxation:[/color][/b] [nation=short]X1ng[/nation] [ [color=lightblue]2%[/color] ]
 [b][color=lightgreen]Highest Taxation:[/color][/b] [nation=short]the illuminous sun[/nation] [ [color=red]83%[/color] ]
-[b][color=lightgreen]Smallest Economy:[/color][/b] [nation=short]Nova Africa[/nation] [ $83.2 billion ]
-[b][color=lightgreen]Largest Economy:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $63.4 trillion ]
-[b][color=lightgreen]Lowest GDP Per Capita:[/color][/b] [nation=short]Bruceton Mills[/nation] [ $87.10 ]
-[b][color=lightgreen]Highest GDP Per Capita:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $41,655.89 ]
+[b][color=lightgreen]Smallest Economy:[/color][/b] [nation=short]Nova Africa[/nation] [ $85.2 billion ]
+[b][color=lightgreen]Largest Economy:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $65.7 trillion ]
+[b][color=lightgreen]Lowest GDP Per Capita:[/color][/b] [nation=short]Bruceton Mills[/nation] [$87.12 ]
+[b][color=lightgreen]Highest GDP Per Capita:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $42,557.10 ]
 [b][color=lightgreen]Lowest Average Employee Salary: [/color][/b] [nation=short]Bruceton Mills[/nation] [ $110.95 ]
 [b][color=lightgreen]Highest Average Employee Salary: [/color][/b][nation=short]Greater Neo Germany[/nation]  [ $80,971.66 ]
-[b][color=lightgreen]Largest Trade Surplus:[/color][/b] [nation=short]The Illuminous Sun[/nation] [color=lightblue][ $869 billion[/color] ]
-[b][color=lightgreen]Largest Trade Deficit:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ [color=red]$455 billion[/color] ]
+[b][color=lightgreen]Largest Trade Surplus:[/color][/b] [nation=short]The Illuminous Sun[/nation] [color=lightblue][ $799 billion[/color] ]
+[b][color=lightgreen]Largest Trade Deficit:[/color][/b] [nation=short]Little Bill[/nation] [ [color=red]$433 billion[/color] ]
 
 [hr]
 

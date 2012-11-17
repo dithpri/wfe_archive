@@ -6,5 +6,5 @@ Sgt.[nation=short+noflag]Einserdvan[/nation]
 
 [b]Soldiers:[/b]
 Cpl.[nation=short+noflag]Romanian Reich[/nation]
-Pvt.[nation=short+noflag]Nischeland[/nation]
-Pvt.[nation=short+noflag]Adolfhitleristan[/nation]
+Pvt.[nation=short+noflag]ArgenReich[/nation]
+Pvt.[nation=short+noflag]Hesse[/nation]
