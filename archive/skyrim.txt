@@ -3,6 +3,7 @@ High King - [nation=short]Redonersa[/nation][color=ghostwhite]------------------
 Jarl - [nation=short]Pomplamouse[/nation]
 High Chancellor - [nation=short]Sedore[/nation]
 [hr][color=navy]Moot[/color]
+Steward - [nation=short]Zanzar[/nation]
 Thane - [nation=short]Logistica[/nation]
 High Judges - [nation=short]Caelavie[/nation], [nation=short]Lewis Browns[/nation], [nation=short]Skyrim Diplomacy[/nation]
 [hr][color=green]News[/color]

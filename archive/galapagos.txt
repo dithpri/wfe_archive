@@ -1,11 +1,13 @@
 [color=darkgreen][b]Galapagos[/b]
-[hr]FACTS
+
+FACTS
 * Gal&aacute;pagos is a province of [region=Ecuador]
 * [b]Capital:[/b] Puerto Baquerizo Moreno
 * [b]Subdivisions:[/b] Galapagos has three cantons: Isabel, San Christobal and Santa Cruz.
-* [b]Population:[/b] 19,184 (2006 c)[/color][color=navy][hr]REGION 
+* [b]Population:[/b] 19,184 (2006 c)[/color][color=navy]
+
+REGION 
 * Passworded Puppet Storage Region refounded March 16, 2011
-* This region will accept all embassy requests
-* Bureau: [region=Western Samoa]
-* Agencies: [region=Cemetery], [region=Crematorium], [region=Sibulon], [region=War Room]
-* Ports of Call: [region=Balochistan], [region=Danmark], [region=Ecuador], [region=Gambier Islands], [region=Pitcairn], [region=Republic of Narions], [region=Russian Federation], [region=Saint Lucia], [region=Solomon Islands], [region=South China Sea], [region=South Georgia], [region=Sverige], [region=the Cayman Islands], [region=Tuscany], [region=United States of America], [region=Wallis and Futuna], [region=Washington], [region=Windsor], [region=Yugoslavia] [i](just to name a few)[/i].[/color][hr][color=red][b]* PLEASE * DO NOT RECRUIT HERE *[/b][/color][hr]
+* Ports of Call: [region=Balochistan], [region=Cemetery], [region=Crematorium], [region=Danmark], [region=Ecuador], [region=Gambier Islands], [region=Pitcairn], [region=Republic of Nations], [region=Russian Federation], [region=Saint Lucia], [region=Sibulon], [region=Solomon Islands], [region=South China Sea], [region=South Georgia], [region=Sverige], [region=the Cayman Islands], [region=Tuscany], [region=United States of America], [region=Wallis and Futuna],  [region=War Room], [region=Washington],  [region=Western Samoa], [region=Windsor], [region=Yugoslavia] [i](just to name a few)[/i].[/color]
+[color=E52B50][b]* PLEASE * DO NOT RECRUIT HERE *
+* Accepts all embassy requests *[/b][/color]

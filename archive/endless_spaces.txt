@@ -1,1 +1,16 @@
-[color=red][b]Not much to do here[/b][/color]
+[b][color=blue]Welcome to Endless Spaces![/color][/b]
+[hr][color=red][b][u]Government[/u][/color]
+[u]Executive Branch:[/u]
+President [nation=short]Endless Spaces[/nation]
+
+
+[U]Senate:[/u]
+Speaker [nation=short]Wimmeronia[/nation]
+Senator [nation=short]Heathumbia[/nation]
+Senator [nation=short]Wender[/nation]
+Senator [nation=short]Frimar[/nation]
+
+[U]Supreme Court:[/u]
+Chief Justice [nation=short]Copton[/nation]
+Associate Justice [nation=short]Cota[/nation]
+Associate Justice [nation=short]Sandretto[/nation][/b]

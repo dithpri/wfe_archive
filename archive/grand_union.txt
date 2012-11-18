@@ -9,10 +9,9 @@ Minister of External Affairs: [nation=Vladov]
 
 Minister of Development: [nation=Macea] 
 
-Minister of Commerce: [nation=Vladov][/i]
+Minister of Commerce: [nation=The Dark Wing][/i]
 [hr]
 [b][color=gold]The Grand Court[/color][/b]
-
 [i]- [nation=Kiun-de-Xikster]
 - [nation=Itius]
 - [nation=Royalist Albion][/i]
