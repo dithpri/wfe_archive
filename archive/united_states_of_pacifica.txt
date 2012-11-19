@@ -1,11 +1,7 @@
 Constitution:
 http://www.nationstates.net/nation=usp_founder/detail=factbook/id=main
-[b][u]USP Executive Branch[/u][/b]
+[b][u]USP Regional Government[/u][/b]
 [b]President:[/b][nation]Arkucia[/nation]
 [b]Chancellor:[/b][nation]New Concord[/nation]
 [b]WA Delegate:[/b][nation]Neptunian Moons[/nation]
-
-
-
-Constitution:
-http://www.nationstates.net/nation=usp_founder/detail=factbook/id=main
+[b]Supreme Court Justice(s)[/b][nation]Kannap[/nation]

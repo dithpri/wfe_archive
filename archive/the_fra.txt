@@ -7,7 +7,7 @@
 
 Arch Chancellor -- [nation=short]Wopruthien[/nation]
 
-Vice Chancellor -- [i]To be appointed[/i]
+Vice Chancellor -- [nation]Kogvuron[/nation]
 
 Chief of Defence Force -- [nation=short]Frattastan[/nation]
 

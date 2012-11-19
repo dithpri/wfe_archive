@@ -14,11 +14,9 @@ international security provided by the War Command/WarCom:
 
 [nation]Military Intel War Commands-WarCom[/nation]
 
-
-Local community security provided by the War Command/WarCom:
-
 [nation]Civil Aerial Patrol Command Cap-Com[/nation]
 
+[nation]Military State University of Goltzborg[/nation]
 
 The Command-in-Chief of JoMiCo is: [nation]Nartho[/nation]
 
