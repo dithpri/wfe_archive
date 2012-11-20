@@ -1,23 +1,22 @@
 [b][u]Officials[/u][/b]
 
 [color=red][b]Supreme Leader: Grand Ayatollah [nation=short]Ognjen Ahmadinejad[/nation][/color]
-[color=brown]Acting President: [nation=short]Ognjen Ahmadinejad II[/nation][/color]
-[color=brown]First Vice-President: [nation=short]Western Arab Empire[/nation]
-Vice-President for Intelligence and National Security: [nation=short]Amenhotep IV[/nation]
+
+[color=brown]Acting President: [nation=short]Ognjen Ahmadinejad II[/nation] ([nation=short]Ognjen Ahmadinejad[/nation])[/color]
+
+[color=brown]First Vice-President and Minister of Foreign Affairs: [nation=short]Western Arab Empire[/nation]
+
+Vice-President for Intelligence and National Security: [nation=short]The Free State of Bavaria[/nation]
+
 Vice-President for Multicultural Affairs: [nation=short]Ahmedistan[/nation]
-Vice-President: [nation=short]The Free State of Bavaria[/nation]
+
+Vice-President and Minister of Defense: [nation=short]Amenhotep IV[/nation]
+
 Adviser to The President: [nation=short]The Free State of Bavaria[/nation]
+
 Peacekeepers: [nation=short]Christ is Risen[/nation] and [nation=short]Christian Holy[/nation][/color][/b]
  
 
-[u][b]Ministries:[/u] 
 
-[color=brown]Minister of Foreign Affairs: [nation=short]Western Arab Empire[/nation]
-
-Minister of Defense:  [nation=short]Amenhotep IV[/nation]
-
-Minister of Culture and Islamic Guidance: VACANT
-
-Minister of Recruitment: VACANT[/color][/b] 
 
 [color=red][b]Allied With: [region]RORMS[/region],[region]International Republican Union[/region],[region]United Empire of Islam[/region] and [region]Foxtopia[/region][/b][/color]

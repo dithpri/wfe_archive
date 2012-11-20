@@ -1,4 +1,4 @@
-[u][b]Full Members:[/b][/u] ([color=blue]Veto Superpowers[/color])
+[u][b]Full Members:[/b][/u] ([color=blue]Superpowers[/color])
 [nation]Skurmany[/nation] + [nation]South Skurmany[/nation] + [color=green](Outer Territories)[/color]
 [nation]Aturia[/nation]
 [nation]Monrassa[/nation] + [nation]Gainpo[/nation]
@@ -7,12 +7,12 @@
 [nation]Shioque[/nation]
 
 [b][u]Other Members:[/u][/b] 
-[nation]Eastern Ermorium[/nation] [color=green](Federal Territory of Ermorium) [/color]
-[nation]Kiozah[/nation] [color=green](Federal Territory of Skurmany)[/color]
-[nation]Bahungahagarriah[/nation]
-[nation]Jalteshara[/nation] [color=green](Protectorate of Aturia)[/color]
-[nation]Saturia[/nation]
-[nation]Vindishla[/nation]
-[nation]Samata[/nation]
+[nation]Eastern Ermorium[/nation] [color=green](CT of Ermorium) [/color]
+[nation]Kiozah[/nation] [color=green](CW of Skurmany)[/color]
+[nation]Bahungahagarriah[/nation] [color=green](ProT of Monrassa)[/color]
+[nation]Jalteshara[/nation] [color=green](ProT of Aturia)[/color]
+[nation]Saturia[/nation] [color=green](ProT of Aturia)[/color]
+[nation]Vindishla[/nation] [color=green](PS of Skurmany)[/color]
+[nation]Samata[/nation] [color=green](PS of Skurmany)[/color]
+[nation]Zathonia[/nation] [color=green](ProT of Ermorium)[/color]
 [nation]Marlomag[/nation]
-[nation]Zathonia[/nation]

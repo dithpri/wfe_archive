@@ -4,7 +4,7 @@ president: [nation]the enclave1[/nation]
 
 Vice-President: [nation]north america and Great Britain[/nation]
 
-Secretary: 
+Secretary: [nation]Bradshaw Mountain[/nation]
 
 Defense Minister: [nation]Civil War[/nation]
 

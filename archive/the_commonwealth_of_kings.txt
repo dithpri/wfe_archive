@@ -1,8 +1,8 @@
-[color=red]Welcome to The Commonwealth of Kings[/color]
+[color=red]Welcome to The Commonwealth of Kings. Please endorse [nation]Republic of SAS[/nation][/color]
 [hr]
 
 [b]The Council of The Realm[/b]
-Prime Minister:[color=red] Vacant[/color]
+Prime Minister:[color=red] [nation=shortname]Republic of SAS[/nation][/color]
 Lord Secretary:[color=red] Vacant[/color]
 Lord Speaker:[color=red] Vacant[/color]
 [hr]
@@ -25,4 +25,4 @@ Lord Justice:[color=red] Vacant[/color]
 Alert level:[color=green]GREEN[/color]
 [hr]
 
-[url=http://commonwealthofkings.africamotion.net]Regional Forum[/url] [url=http://commonwealthofkings.africamotion.net/t13-regional-map]Regional Map[/url] [url=http://us5.chatzy.com/33155990728991]Regional Chat Room[/url] #[url=http://www.nationstates.net/page=un]Become a World Assembly Member[/url]
+[url=http://commonwealthofkings.africamotion.net]Regional Forum[/url] [url=http://commonwealthofkings.africamotion.net/t13-regional-map]Regional Map[/url] [url=http://us5.chatzy.com/33155990728991]Regional Chat Room[/url] #[url=http://www.nationstates.net/page=un]Become a World Assembly Member[/url] [url=http://tracker.conquestofabsolution.com/region=the_commonwealth_of_kings]Nation Tracker[/url]

@@ -10,8 +10,8 @@ Economy: 41st
 Manufacturing: 18th
 Arms: 18th
 Agriculture: 13th
-Fishing: 5th
-Auto: 7th
+Fishing: 12th
+Auto: 15th
 Cheese: 12th
 Avoided: 66th
 
