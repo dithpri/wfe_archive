@@ -1,13 +1,12 @@
-[color=orange][b][i]--------[/color][color=blue]Welcome to Frankilands[/b][/color][color=orange]--------[/color][/i]
-[color=green][b][u]Imposing Transparency, For Everyone[/color][/b][/u]
-[b][color=orange]*******************************[/color][/b]
+[color=orange][b][i]--------- [/color][color=blue]Welcome to Frankilands[/b][/color][color=orange] --------[/color][/i]
+[color=green][b][u]_Imposing Transparency, For Everyone_[/color][/b][/u]
+[b][color=orange]* * * * * * * * * * * * * * * * * * * * * * *[/color][/b]
 
-[color=indigo][u][b]THE US MARKETS AS OF 11/06/12 CLOSING:[/u][/b][/color]
-^DJI |[color=green] 13,245.68 [b]+133.24 (+1.02%) [/color][/b]
-^IXIC |[color=green] 3,011.93 [b]+12.27 (+0.41%) [/color][/b]
-^GSPC |[color=green] 1,428.39 [b]+11.13 (+0.79%) [/color][/b]
+[color=indigo][u][b]US MARKETS AS OF 11/20/12 CLOSING:[/u][/b][/color]
+^DJI |[color=red] 12,788.51 [b]-7.45 (-0.06%) [/color][/b]
+^IXIC |[color=green] 2,916.68 [b]+0.61 (+0.02%) [/color][/b]
+^GSPC |[color=green] 1,387.81 [b]+0.92 (+0.07%) [/color][/b]
 
-[color=blue]OBAMA ~ BIDEN[/color]
-[color=red]-----------2012[/color]
-[color=lightgray]
-note: data is updated once a week[/color]
+[color=brown][b]-=-=-=- Happy Thanksgiving! -=-=-=-[/color][/b]
+
+[color=lightgray]note: data is updated bi-monthly[/color]

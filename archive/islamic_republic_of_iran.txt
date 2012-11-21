@@ -14,7 +14,7 @@ Vice-President and Minister of Defense: [nation=short]Amenhotep IV[/nation]
 
 Adviser to The President: [nation=short]The Free State of Bavaria[/nation]
 
-Peacekeepers: [nation=short]Christ is Risen[/nation] and [nation=short]Christian Holy[/nation][/color][/b]
+Peacekeeper: [nation=short]Christ is Risen[/nation][/color][/b]
  
 
 

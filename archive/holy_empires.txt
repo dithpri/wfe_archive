@@ -3,8 +3,8 @@
 [b]Secretary-General:[/b] [nation=short]Holy Philippine Empire[/nation]
 June 5, 2012-[i]Incumbent[/i]
 
-[b]Director of Internal Affairs:[/b] [nation=short]Florinia[/nation]
-[b]Director of Foreign Affairs:[/b] [nation=short]Florinia[/nation]
+[b]Director of Internal Affairs:[/b] [i]vacant[/i]
+[b]Director of Foreign Affairs:[/b] [i]vacant[/i]
 [b]Director of Military Affairs:[/b] [nation=short]The Vongola Family[/nation]
 [b]Director of WA Affairs:[/b] [nation=short]Wumbonesia[/nation]
 [b]Director of Recruitment:[/b] [nation=short]Wumbonesia[/nation]
@@ -13,7 +13,7 @@ June 5, 2012-[i]Incumbent[/i]
 [b]Director of Sports:[/b] [i]vacant[/i]
 [b]Deputy in [/b] [region]Holy Philippine Islands[/region][b]:[/b] [nation=short]Scarborough Shoal[/nation]
 
-Please Endorse Our WA Delegate [nation=short]Wumbonesia[/nation] or WA Vice Delegate [nation=short]Florinia[/nation].
+Please Endorse Our WA Delegate [nation=short]Wumbonesia[/nation].
 
 [b]Highest Population:[/b] 15 Nations
 [b]Current Population:[/b] 7 Nations
