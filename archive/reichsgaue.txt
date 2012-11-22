@@ -15,8 +15,6 @@
 [region]The Principality of Liechtenstein[/region]
 [b][region]The League of Nations[/region][/b]
 [region]The Kingdom of Hungary[/region]
-[region]The Kingdom of Italy[/region]
-[region]The Empire of Great Japan[/region]
 [region]Pan American Union[/region]
 [region]North East Africa[/region]
 [region]Toroxian Community[/region]
@@ -25,3 +23,4 @@
 [region]The independent soviet union[/region]
 [region]Socialist Haven[/region]
 [region]The Red Army of Communism[/region]
+[region]The Union of Communist Socialist Nations[/region]

@@ -5,7 +5,7 @@
 
 [i]Minister of Internal Affairs: [nation=Deithwyr]
  
-Minister of External Affairs: [nation=Vladov]
+Minister of Foreign Affairs: [nation=Vladov]
 
 Minister of Development: [nation=Macea] 
 

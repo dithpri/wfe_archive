@@ -6,18 +6,18 @@ Welcome to The Not So United Nations
 ex: (nation)Remparo (team name)Hedgehogs 
 
 TEAMS SIGNED UP:
-1.Gwazi Slowpokes
-2.Zombinia Crawlers
-3.Remparo Hedgehogs
-4.Ausiya Bucks
-5.Mornik Expendables
-6.Derp Street Cleaners
-7.Deminofari Renegades
-8.Terrahax Hackers
-9.Sazo Bats
-10.Criptic Wumbos
-11.
-12.
+1.[nation=short]Gwazi[/nation] Slowpokes
+2.[nation=short]Zombinia[/nation] Crawlers
+3.[nation=short]Remparo[/nation] Hedgehogs
+4.[nation=short]Ausiya[/nation] Bucks
+5.[nation=short]Mornik[/nation] Expendables
+6.[nation=short]Derp Street[/nation] Cleaners
+7.[nation=short]Deminofari[/nation] Renegades
+8.[nation=short]Terrahax[/nation] Hackers
+9.[nation=short]Sazo[/nation] Bats
+10.[nation=short]Criptic[/nation] Wumbos
+11.[nation=short]Gwazin[/nation] Longbeaks
+12.[nation=short]Xohn[/nation] Xenoliths
 13.
 14.
 15.
