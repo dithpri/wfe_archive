@@ -1,3 +1,6 @@
 [color=543210][b]the Cayman Islands[/b]
 
-a [region=Galapagos] region[/color]
+a [region=Galapagos] region
+co-region with [region=Western Samoa][/color]
+
+[b]5[/b] PASSWORDED REGION :  SORRY

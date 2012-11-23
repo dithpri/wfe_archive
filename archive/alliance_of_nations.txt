@@ -1,12 +1,3 @@
-[b]Regional Information:[/b]
+The [b]United Kingdom Alliance[/b] is an extension of this region.
 
-[i]Regional Leader:[/i] [nation]Jacksistan[/nation]
-[i]Regional Vice-Leader:[/i] [nation]Stevesrael[/nation]
-[i]Regional Anthem:[/i] [url=http://www.youtube.com/watch?v=yw-bhIq0zJ4]Alliance Anthem[/url]
-[i]Regional Motto:[/i] United We Stand, Divided We Fall
-
-[b]Extension Regions:[/b]
-
-[region]The United Kingdom Alliance[/region]
-
-[i]Overseer of the UKA:[/i] [nation]Jacksistan[/nation]
+[b]Overseer of the UKA:[/b]  [nation]Jacksistan[/nation]

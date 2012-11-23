@@ -9,6 +9,7 @@ Speaker [nation=short]Wimmeronia[/nation]
 Senator [nation=short]Heathumbia[/nation]
 Senator [nation=short]Wender[/nation]
 Senator [nation=short]Frimar[/nation]
+Senator [nation=short]Staklenu[/nation]
 
 [U]Supreme Court:[/u]
 Chief Justice [nation=short]Copton[/nation]

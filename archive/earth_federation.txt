@@ -1,28 +1,28 @@
-[b][color=lightgreen]Regional Population:[/color][/b] 22,051,000,000
+[b][color=lightgreen]Lowest GDP Per Capita:[/color][/b] [nation=short]Nova Africa[/nation] [ $81.46 ]
 
-[b][color=lightgreen]Smallest Member State:[/color][/b] [nation=short]X1ng[/nation]  [ 864 million ]
-
-[b][color=lightgreen]Largest Member State:[/color][/b] [nation=short]Obesinia[/nation] [ 1.585 billion ] 
-
-[b][color=lightgreen]Lowest Taxation:[/color][/b] [nation=short]X1ng[/nation] [ [color=lightblue]2%[/color] ]
-
-[b][color=lightgreen]Highest Taxation:[/color][/b] [nation=short]the illuminous sun[/nation] [ [color=red]75%[/color] ]
-
-[b][color=lightgreen]Smallest Economy:[/color][/b] [nation=short]Nova Africa[/nation] [ $79.4 billion ]
-
-[b][color=lightgreen]Largest Economy:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $69.6 trillion ]
-
-[b][color=lightgreen]Lowest GDP Per Capita:[/color][/b] [nation=short]Nova Africa[/nation] [ $81.71 ]
-
-[b][color=lightgreen]Highest GDP Per Capita:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $44,290.90 ]
+[b][color=lightgreen]Highest GDP Per Capita:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $43,491.87 ]
 
 [b][color=lightgreen]Lowest Average Employee Salary: [/color][/b] [nation=short]Preston County[/nation] [ $123.48 ]
 
-[b][color=lightgreen]Highest Average Employee Salary: [/color][/b][nation=short]Greater Neo Germany[/nation]  [ $92,856.55 ]
+[b][color=lightgreen]Highest Average Employee Salary: [/color][/b][nation=short]Greater Neo Germany[/nation]  [ $92,796.04 ]
 
-[b][color=lightgreen]Largest Trade Surplus:[/color][/b] [nation=short]The Illuminous Sun[/nation] [color=lightblue][ $768 billion[/color] ]
+[b][color=lightgreen]Smallest Economy:[/color][/b] [nation=short]Nova Africa[/nation] [ $80.0 billion ]
 
-[b][color=lightgreen]Largest Trade Deficit:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ [color=red]$513 billion[/color] ]
+[b][color=lightgreen]Largest Economy:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $68.8 trillion ]
+
+[b][color=lightgreen]Largest Trade Surplus:[/color][/b] [nation=short]The Illuminous Sun[/nation] [color=lightblue][ $803 billion[/color] ]
+
+[b][color=lightgreen]Largest Trade Deficit:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ [color=red]$420 billion[/color] ]
+
+[b][color=lightgreen]Lowest Taxation:[/color][/b] [nation=short]X1ng[/nation] [ [color=lightblue]0%[/color] ]
+
+[b][color=lightgreen]Highest Taxation:[/color][/b] [nation=short]the illuminous sun[/nation] [ [color=red]76%[/color] ]
+
+[b][color=lightgreen]Regional Population:[/color][/b] 22,272,000,000
+
+[b][color=lightgreen]Smallest Member State:[/color][/b] [nation=short]X1ng[/nation]  [ 878 million ]
+
+[b][color=lightgreen]Largest Member State:[/color][/b] [nation=short]Obesinia[/nation] [ 1.595 billion ] 
 
 [hr]
 

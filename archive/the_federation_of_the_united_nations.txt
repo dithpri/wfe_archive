@@ -12,5 +12,5 @@ Role Play Enforcer: [nation]Nationalist Reichland[/nation]
 Regional Court Judge: [nation]Akronion[/nation]
 
 Regional Federation:
-President:
-Members:
+President:  [nation]Nationalist Reichland[/nation]
+Members:[nation]Akronion[/nation] &amp;amp;  [nation]Palafox[/nation]
