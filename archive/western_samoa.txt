@@ -8,10 +8,14 @@ FACTS
 &#149; [b]Timezone[/b] &#149; UTC-11
 &#149; [b]Independence[/b] &#149; 1 Jan 1962 (New Zealand)
 [/color][color=404040]
-REGION[hr]&#149; PUPPET REGION
+REGION
+&#149; PUPPET STORAGE REGION
 &#149; [b]Founded:[/b] Mar. 21, 2011
 &#149; A [region=Galapagos] Region
 &#149; co-region with [region=South China Sea] and [region=Pitcairn]
 &#149; THIS REGION REFUSES ALL EMBASSY REQUESTS
-[b]PLEASE, DO NOT RECRUIT HERE[/b][hr]GALAPAGOS DEPARTMENT OF THE INTERIOR
+[b]PLEASE, DO NOT RECRUIT HERE[/b]
+
+GALAPAGOS DEPARTMENT OF THE INTERIOR
 Bureau Office of the Census[/color]
+[b]2[/b] PASSWORDED REGION : SORRY

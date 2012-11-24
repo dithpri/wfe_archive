@@ -2,11 +2,11 @@
 [Hr][b][color=crimson][u]The Chairmen of the C.O.G.[/u][/color][/b]
 [b][u]High Chairman[/u]:[/b][nation=short]Fraserland[/nation]
 [b][u]High Chairman[/u]:[/b][nation=short]Vanhania[/nation]
-[b][u]Chairman of Defense[/b][/u]:[nation=short]Chinamerica[/nation]
+[b][u]Chairman of Defense[/b][/u]:[nation=short]Spiritualiza[/nation]
 [b][u]Chairman of Intelligence[/b][/u]:[nation=short]Wallonia-Brussels[/nation]
 [b][u]Chairman of Foreign Affairs[/b][/u]:[nation=short]Libertas Liber[/nation]
 [b][u]Chairman of Health[/b][/u]:[nation=short]Glaedirsgrad[/nation]
-[b][u]Chairman of Internal Affairs[/b][/u]:[nation=short]Nagashissar[/nation]
+[b][u]Chairman of Internal Affairs[/b][/u]:[nation=short]Paixao[/nation]
 
 [Hr]
 
@@ -16,6 +16,6 @@ Endorse [nation=short]Vanhania[/nation] to be our WA Delegate!
 [Hr]
 [b][u][color=red]Announcements![/color][/u][/b]:
 
-Elections will be over Friday (tomorrow). Good luck to all candidates.
+[b]Elections are over. See the new Chairmen above, or read about it (and the new Vice Chairman) on our site news.[/b]
 
 [url=http://thegravolicwars.webs.com/]Gravolic Wars[/url]

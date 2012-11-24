@@ -1,6 +1,11 @@
+                                [color=green][b]All for one, One for all, All for Iran[/color][/b]
+
+
+
+
 [b][u]Officials[/u][/b]
 
-[color=red][b]Supreme Leader: Grand Ayatollah [nation=short]Ognjen Ahmadinejad[/nation][/color]
+[color=red][b]Supreme Leader: Grand Ayatollah Sayyid [nation=short]Ognjen Ahmadinejad[/nation][/color]
 
 [color=brown]Acting President: [nation=short]Ognjen Ahmadinejad II[/nation] ([nation=short]Ognjen Ahmadinejad[/nation])[/color]
 
@@ -10,7 +15,7 @@ Vice-President for Intelligence and National Security: [nation=short]The Free St
 
 Vice-President for Multicultural Affairs: [nation=short]Ahmedistan[/nation]
 
-Vice-President and Minister of Defense: [nation=short]Amenhotep IV[/nation]
+Vice-President and Minister of Defense: Major general [nation=short]Amenhotep IV[/nation]
 
 Adviser to The President: [nation=short]The Free State of Bavaria[/nation]
 

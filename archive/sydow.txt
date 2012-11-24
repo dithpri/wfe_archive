@@ -12,7 +12,7 @@ In memory of the fallen men of the regions of Sydow,[region]New Amsterdam[/regio
 
 [color=red]Archemperor:[/color][nation]FreedomStates[/nation]
 [color=blue]Military Sovereign:[/color][nation]Altrim[/nation]
-Chaimber of Deputies:
+Chaimber of Deputies:[nation]Usual people in life 2[/nation]
 Council Advisor:[nation]Germanican[/nation]
 Head of Judical:[nation]The KerPreschistan[/nation]
 
