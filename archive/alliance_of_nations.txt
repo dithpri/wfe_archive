@@ -1,3 +1,17 @@
-The [b]United Kingdom Alliance[/b] is an extension of this region.
+[b]Regional Government:[/b]
 
-[b]Overseer of the UKA:[/b]  [nation]Jacksistan[/nation]
+[i]Regional Leader:[/i] [nation=short]Jacksistan[/nation]
+[i]Regional Vice-Leader:[/i] [nation=short]Rezland[/nation]
+
+[b]Regional Information:[/b]
+
+[i]Regional Anthem:[/i] (To Be Decided)
+[i]Regional Motto:[/i] (To Be Decided)
+
+[b]Extension Regions:[/b]
+
+[region]The United Kingdom Alliance[/region] - [i]Overseer of the UKA:[/i] [nation=short]Jacksistan[/nation]
+
+[b]Allied Regions:[/b]
+
+[region]The United Kingdom Alliance[/region]

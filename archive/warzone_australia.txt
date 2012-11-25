@@ -3,9 +3,9 @@
 WA Deligete: [nation=short]Fontoria[/nation]
 Vice Deligete: [nation=short]Awas[/nation]
 Government Member: [nation=short]Dying Is Your Latest Fashion[/nation]
-Government Member: (Vacant)
-Government Member: (Vacant)
-Government Member: (Vacant)
+Government Member: [nation=short]Marzovia[/nation]
+Government Member: [nation=short]R2dav2[/nation]
+Government Member: [nation=short]Fidisi[/nation]
 
 [u]Laws of the Region:[/u]
 *Natons may only endorse [nation=flag]Fontoria[/nation]

@@ -1,18 +1,16 @@
 [u][b]Full Members:[/b][/u] ([color=blue]Superpowers[/color])
-[nation]Skurmany[/nation] + [nation]South Skurmany[/nation] + [color=green](Outer Territories)[/color]
-[nation]Aturia[/nation]
+[nation]Skurmany[/nation] + [nation]South Skurmany[/nation] + [color=green](Outer Territories)[/color] + [nation]Kiozah[/nation]
+[nation]Aturia[/nation] + [nation]Shioque[/nation]
 [nation]Monrassa[/nation] + [nation]Gainpo[/nation]
 [nation]Ermorium[/nation]
-[nation]Conloah[/nation]
-[nation]Shioque[/nation]
+[nation]Conloah[/nation] ([color=red]Invaded by Ermorium[/color])
 
 [b][u]Other Members:[/u][/b] 
-[nation]Eastern Ermorium[/nation] [color=green](CT of Ermorium) [/color]
-[nation]Kiozah[/nation] [color=green](CW of Skurmany)[/color]
-[nation]Bahungahagarriah[/nation] [color=green](ProT of Monrassa)[/color]
-[nation]Jalteshara[/nation] [color=green](ProT of Aturia)[/color]
-[nation]Saturia[/nation] [color=green](ProT of Aturia)[/color]
-[nation]Vindishla[/nation] [color=green](PS of Skurmany)[/color]
-[nation]Samata[/nation] [color=green](PS of Skurmany)[/color]
-[nation]Zathonia[/nation] [color=green](ProT of Ermorium)[/color]
+[nation]Eastern Ermorium[/nation] ([color=red]Liberated by Ermorium[/color]) 
+[nation]Bahungahagarriah[/nation] ([color=red]Invaded by Monrassa[/color])
+[nation]Jalteshara[/nation]
+[nation]Saturia[/nation]
+[nation]Vindishla[/nation]
+[nation]Samata[/nation] 
+[nation]Zathonia[/nation] 
 [nation]Marlomag[/nation]

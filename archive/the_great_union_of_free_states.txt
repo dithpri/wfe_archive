@@ -1,9 +1,5 @@
 [u][b][color=red]The Union of Free States[/color][/b][/u]
 
-[color=red]News
-
-The Great Union of Free State&amp;#39;s Website is WIP![/color]
-
 [u]Government Positions[/u]
 Tenet of UFS: [nation]Leanore[/nation]
 
@@ -15,7 +11,7 @@ Secretary of Defense: [nation]Krumbia[/nation]
 Secretary of Immigration: [nation]United Formosa[/nation]
 Secretary of the Economy: [nation]Jukenia[/nation]
 Secretary of Treasury: 
-Secretary of Agriculture:
+Secretary of Agriculture: [nation]Alinto[/nation]
 Union of Free State&amp;#39;s Ambassador: [nation]Mialmaropa[/nation]
 
 [u]The Court of the Union of Free States[/u]

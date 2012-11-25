@@ -1,16 +1,15 @@
-[color=red]Welcome to The Commonwealth of Kings. Please endorse [nation]Republic of SAS[/nation][/color]
+[color=red]Welcome to The Commonwealth of Kings. Puppet Nations will be Ejected[/color]
 [hr]
 
 [b]The Council of The Realm[/b]
-Prime Minister:[color=red] [nation=shortname]Republic of SAS[/nation][/color]
+Prime Minister:[color=red] Vacant[/color]
 Lord Secretary:[color=red] [nation=shortname]Polyspanic[/nation][/color]
 Lord Speaker:[color=red] [nation=shortname]Pacific Arms[/nation][/color]
 [hr]
 
 [b]Ministerial Departments (To be elected by the Prime Minister)[/b]
 Minister of Defence:[color=red] Vacant[/color]
-Minister of Finance:[color=red] Vacant[/color]
-Minister of Internal Development:[color=red] Vacant[/color]
+Minister of Internal Development: [color=red] [nation=shortname]ShenGuo[/nation][/color]
 Minister of International Development:[color=red] Vacant[/color]
 
 [hr]

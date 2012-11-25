@@ -24,3 +24,4 @@ Embassies:
 [region]Nederland[/region]
 [region]Soviet republics region[/region]
 [region]The communist region[/region]
+[region]Project Horizon[/region]

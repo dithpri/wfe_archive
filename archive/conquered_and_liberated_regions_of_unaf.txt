@@ -1,11 +1,1 @@
-[b][color=red]Here is a list of regions confiscated and liberated by [region]The Union of Nations Against Fascism[/region].
-
-[u]Confiscated Regions:[/u]
-[list][*][region]UNAF Victories Batch 1[/region]
-[*][region]UNAF Victories Batch 2[/region]
-[*][region]UNAF Victories Batch 3[/region]
-[*][region]UNAF Victories Batch 4[/region][/list][/color]
-
-[u][color=blue]Protectively Refounded Regions:[/u][/color]
-[list][color=blue][*][region]Luxemburgists International[/region]
-[*][region]Trotskyan League[/region][/list][/b][/color]
+[b]A region which [region]The Union of Nations Against Fascism[/region] used to record victories in, which became obsolete. UNAF has now re-founded the region protectively to prevent a Fascist takeover.[/b]
