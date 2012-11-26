@@ -8,9 +8,9 @@ Lord Speaker:[color=red] [nation=shortname]Pacific Arms[/nation][/color]
 [hr]
 
 [b]Ministerial Departments (To be elected by the Prime Minister)[/b]
-Minister of Defence:[color=red] Vacant[/color]
+Minister of Defence:[color=red] [nation=shortname]Colonial Britannia[/nation][/color]
 Minister of Internal Development: [color=red] [nation=shortname]ShenGuo[/nation][/color]
-Minister of International Development:[color=red] Vacant[/color]
+Minister of International Development:[color=red] [nation=shortname]Republic of SAS[/nation][/color]
 
 [hr]
 

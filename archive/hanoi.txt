@@ -1,9 +1,5 @@
-[b]Welcome to the capital of [region]Revolutionary Vietnam[/region], [region]Hanoi[/region][/b][hr][u]Central Committee of the Communist Party of [region]Revolutionary Vietnam[/region][/u]
+[b]Welcome to the capital of [region]Revolutionary Vietnam[/region], [region]Hanoi[/region][hr][hr]Media:
 
-General Secretary: [b][nation=short]The Viet Minh[/nation][/b]
-
-Commissar for Central Intelligence:
-[hr][hr]Media:
 [url=http://www.cpv.org.vn/cpv/Modules/News_English/ListNewsObjects_E.aspx?co_id=30180]Communist Party of Vietnam Web page[/url]
 
 [url=http://www.youtube.com/watch?v=JV6CDRyiWww&amp;amp;feature=related/]National Anthem[/url]
@@ -14,4 +10,4 @@ Commissar for Central Intelligence:
 
 [url=http://www.wfdy.org/]World Federation of Democratic Youth[/url][hr]
 
-Proud member of [region]The Left Interregional[/region] and [region]Regional Defense Committee[/region]
+Proud member of [u][region]The Left Interregional[/region][/u] and [u][region]Regional Defense Committee[/region][/u][/b]
