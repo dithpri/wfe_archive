@@ -1,9 +1,1 @@
-[b]This is the 9th Fireteam of [region]The Greater German Reich[/region].[/b]
-
-[b]Commander:[/b]
-[nation=short+noflag]awaiting new recruits[/nation]
-
-[b]Soldiers:[/b]
-[nation=short+noflag]awaiting new recruits[/nation]
-[nation=short+noflag]awaiting new recruits[/nation]
-[nation=short+noflag]awaiting new recruits[/nation]
+n/a

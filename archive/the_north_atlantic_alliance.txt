@@ -6,4 +6,12 @@ W.A. Delegate: [nation]The Valenhammer[/nation]
 Minister of Defense: [nation]East Scandinavian Territories[/nation]
 Minister of Intelligence: [nation]The Fox Islands[/nation]
 
-[color=blue]C[/color][color=red]o[/color][color=yellow]l[/color][color=green]o[/color][color=orange]u[/color][color=cyan]r[/color][color=pink]m[/color][color=brown]a[/color][color=teal]t[/color][color=lime]i[/color][color=purple]c[/color]
+[color=red]R[/color][color=orange]A[/color][color=yellow]I[/color][color=green]N[/color][color=blue]B[/color][color=indigo]O[/color][color=purple]W[/color]
+
+[color=red]______________________________[/color]
+[color=orange]______________________________[/color]
+[color=yellow]______________________________[/color]
+[color=green]______________________________[/color]
+[color=blue]______________________________[/color]
+[color=indigo]______________________________[/color]
+[color=purple]______________________________[/color]

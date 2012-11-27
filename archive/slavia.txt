@@ -11,9 +11,9 @@ Minister of Internal Affairs: [color=red]VACANT[/color]
 Inferior Council:
 
 Nation With Most Slavia-Points: [color=red]VACANT[/color]
-Council Member 1: [color=red]VACANT[/color]
-Council Member 2: [color=red]VACANT[/color]
-Council Member 3: [color=red]VACANT[/color]
+Council Member 1: [nation]The Philadelphia Phillies[/nation]
+Council Member 2: [nation]AutoKratia[/nation]
+Council Member 3: [nation]NovaJugoslavija[/nation]
 
 
 
@@ -21,7 +21,6 @@ Regional Motto:
 
 [b][i][color=blue]In greatness and unity, we strive as a community.[/color][/i][/b]
 
-[color=red]=======[/color][color=blue]=======[/color][color=red]=======[/color]
 
 [url=http://www.rickrolln.com/anthem]OFFICIAL ANTHEM OF SLAVIA[/url]
 
