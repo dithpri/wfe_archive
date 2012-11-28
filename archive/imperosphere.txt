@@ -1,6 +1,6 @@
 Emperor:[nation]Socialist Republic of Andrew[/nation]
 Enforcer:[nation]The Orson Empire[/nation]
-Prime Minister:OPEN
+Prime Minister::[nation]Ethiopian Derg Communist Empire[/nation]
 Minister of Regional Protection:[nation]Republic of matthew[/nation]
 Minister of Finance and regional trade:[nation]floridarocks[/nation]
 Minister of Foreign Relations:OPEN
