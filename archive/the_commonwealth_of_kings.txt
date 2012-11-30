@@ -2,7 +2,7 @@
 [hr]
 
 [b]The Council of The Realm[/b]
-Prime Minister:[color=red] Vacant[/color]
+Prime Minister:[color=red] [nation=shortname]Wisemagick1[/nation][/color]
 Lord Secretary:[color=red] [nation=shortname]Polyspanic[/nation][/color]
 Lord Speaker:[color=red] [nation=shortname]Pacific Arms[/nation][/color]
 [hr]

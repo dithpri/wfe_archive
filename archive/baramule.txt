@@ -1,8 +1,8 @@
-[color=808000]QVCBNM: $0; 500; T0; 0pp[/color] Weave Fragments; the Hub; Greater Array, Alluvium, Expiats, and the Forge
-[color=808000]Gerhylo: [b]1[/b] $250; 250; 0pp[/color]
-[color=808000]Rampana: $0; 825; T0; 0pp[/color]
-[color=808000]Hydricia: $0; 100; T0; 0pp[/color]
-[color=808000]Neo-Arkaen: $0; 375; 700pp Lo[/color]
-[color=808000]Arenia-Necros:  $325; 325; 0pp Si[/color]
-[color=808000]Celmarog: $39,000; 1,000; 100pp[/color]
-[color=808000]Tamany: $400; 100; 50pp[/color]
+ICD: $1,000; 1,000; 100pp
+New Panti: $1,000; 1,000; 100pp
+Teppelin: $1,000; 1,000; 100pp
+Epimitheus: $1,000; 1,000; 100pp
+Rampana: $1,000; 1,000; 100pp
+Aquacia: $1,000; 1,000; 100pp
+Celmarog: $39,000; 1,000; 100pp
+: $1,000; 1,000; 100pp

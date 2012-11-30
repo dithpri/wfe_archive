@@ -12,7 +12,7 @@ Minister of Culture and Regional Cartographer: [nation=short]The Quadruple Allia
 Minister of Justice: [nation=short]Helladria[/nation]
 Minister of Internal Affairs: [nation=short]Besate[/nation]
 Secy(Immigration):[nation=short]New English[/nation]
-Minister of Defence: Idaho [hr]
+Minister of Defence:[nation=short]Belhorizon[/nation] [hr]
 [b]Crowns Court of Justice[/b]
 [nation=short]The Quadruple Alliance[/nation](CJ),[nation=short]lentheric[/nation][nation=short]Kingdom of the Polar bear[/nation][hr]
 
