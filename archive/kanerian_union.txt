@@ -1,0 +1,4 @@
+[b]This union is reserved for a select group of nations[/b]
+[i]Members[/i]
+[nation=short]Kaneria[/nation]
+[nation=short]Meroria[/nation]

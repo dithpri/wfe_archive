@@ -2,10 +2,11 @@ Region Leader: [nation]New Barrierland[/nation]
 Co-Region Leader: [nation]New wattle[/nation]
 Minister of Foreign Affairs: [nation]New Barrierland[/nation]
 Minister of Defense: [nation]New Wattle[/nation] and [nation]Thessalonia[/nation]
-Minister of States: [nation]Thessalonia[/nation]
+Minister of Administry and States: [nation]Thessalonia[/nation]
 Minister of Industry and Economy: [nation]Gordonton[/nation] and [nation]Thessalonia[/nation]
 Minister of Civil Rights: [nation]Roatan[/nation]
-Minister of Administry: [nation]Thessalonia[/nation]
 Minister of Environment: [nation]New Barrierland[/nation]
 Minister of Justice: [nation]New Barrierland[/nation]
+Featured: 26/11/12
+[color=blue]All nations in WA please endorse each other[/color]
 

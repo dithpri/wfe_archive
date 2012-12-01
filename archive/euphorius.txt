@@ -1,13 +1,13 @@
-Euphorius believes that in order to become successful you need to have more money than everyone else and carry a bigger stick.  We also believe in marketing, exports, and having a strong willed and strong minded political system.  
+[b]Euphorius[/b] believes that in order to become successful you need to have more money than everyone else and carry a bigger [i]stick[/i].  We also believe in marketing, exports, and having a strong willed and strong minded political system.  
 
-Political Positions
+[color=orange]Political Positions[/color]
 
-[color=red]Delegate[/color]:[nation]Halousa[/nation]
-Head Of Immigrations:Vacant
-Minister Of Defense: Vacant
-Minister Of Foreign Affairs: Vacant
-Senate Head: Vacant
-[color=blue]Head of Industrial Enterprises[/color]: [nation]Phontaus[/nation]
+[color=black]Delegate[/color]:Vacant
+[color=maroon]Head Of Immigrations[/color]:Vacant
+[color=black]Minister Of Defense[/color]: Vacant
+[color=maroon]Minister Of Foreign Affairs[/color]: Vacant
+[color=black]Senate Head[/color]: Vacant
+[color=maroon]Head of Industrial Enterprises[/color]: [nation]Phontaus[/nation]
   
 To run for a position simply Tg [nation]Tetritoria[/nation] 
 

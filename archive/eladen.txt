@@ -9,6 +9,7 @@ Smartest: 297th
 Economy: 50th
 Manufacturing: 18th
 Arms: 18th
+Mining: 24th
 Agriculture: 13th
 Fishing: 12th
 Auto: 14th
