@@ -1,4 +1,5 @@
 [b]This union is reserved for a select group of nations[/b]
 [i]Members[/i]
-[nation=short]Kaneria[/nation]
-[nation=short]Meroria[/nation]
+[nation=noname]Kaneria[/nation]
+[nation=noname]Meroria[/nation]
+[nation=noname]Prime Evil Diablo[/nation]

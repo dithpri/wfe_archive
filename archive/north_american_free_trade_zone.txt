@@ -1,11 +1,12 @@
 Election: 12-1-2012, XII-I-MMXII
 
 Candidates:
-[nation]the jahistic unified republic[/nation]- Capitalist Party: 2 Votes
-[nation]Rasvaton Maito[/nation]- Socialist Party: 1 Vote
-[nation]new Meshgall[/nation]- Libertarian Party: 0 Votes
-[nation]Aldoria[/nation]- Liberal Party: 0 Votes
-[nation]Not Important[/nation]- The Rent is Too Damn High: 1 Votes
+[nation]the jahistic unified republic[/nation]- Capitalist Party: 5 Vote(s)- Public Ballots: Denali, Great Murica, New Geo
+[nation]Rasvaton Maito[/nation]- Socialist Party: 2 Vote(s)- Public Ballots: Auriolus Aeterno
+[nation]new Meshgall[/nation]- Libertarian Party: 0 Vote(s)
+[nation]Aldoria[/nation]- Liberal Party: 1 Vote(s)-Public Ballots: JUR
+[nation]Not Important[/nation]- The Rent is Too Damn High: 0 Vote(s)
+[nation]rafiit[/nation]- Unregistered: 1 Vote(s)
 
 [color=black] Defcon 1[/color] 
 [color=red] Defcon 2[/color] 

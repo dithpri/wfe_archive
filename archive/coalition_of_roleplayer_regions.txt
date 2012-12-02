@@ -3,3 +3,4 @@
 [color=darkred][b]Member Regions[/b][/color]
 [region]Nysa[/region]
 [region]The Allied Union[/region]
+[region]Valiant[/region]

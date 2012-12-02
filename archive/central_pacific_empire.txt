@@ -2,13 +2,13 @@
 
 [b]GOVERNMENT IN CARETAKER MODE[/B]
 
-Prime Minister: [nation]Aanon Bay[/nation]
+Prime Minister: [nation]Latin and Central America[/nation]
 
-Minister for Foreign Affairs: [nation]Maronite Peoples[/nation]
-Minister for Interior Affairs: [nation]Latin and Central America[/nation]
-Minister for Defence: [nation]Bankstown City[/nation]
-Minister for Recruitment: [nation]Migraton[/nation]
-Minister for Intel and Justice: [nation]Cyrahzia[/nation]
+Minister for Foreign Affairs: [nation]Bankstown city[/nation]
+Minister for Interior Affairs: [nation]Cyrahzia[/nation]
+Minister for Defence: [nation]Aanon Bay[/nation]
+Minister for Recruitment: [nation]maronite peoples[/nation]
+Attorney General: [nation]mirmadon[/nation]
 
 [b]JUDICIARY[/B]
 

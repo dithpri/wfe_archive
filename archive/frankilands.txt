@@ -1,12 +1,9 @@
 [color=orange][b][i]--------- [/color][color=blue]Welcome to Frankilands[/b][/color][color=orange] --------[/color][/i]
-[color=green][b][u]_Imposing Transparency, For Everyone_[/color][/b][/u]
+[color=teal][b][u]_Imposing Transparency, For Everyone_[/color][/b][/u]
+[b][i][color=green] &amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;[/color][color=red] Happy[/color][color=green] Holidays![/color][color=red] &amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; [/color][/b][/i]
 [b][color=orange]* * * * * * * * * * * * * * * * * * * * * * *[/color][/b]
 
-[color=indigo][u][b]US MARKETS AS OF 11/20/12 CLOSING:[/u][/b][/color]
-^DJI |[color=red] 12,788.51 [b]-7.45 (-0.06%) [/color][/b]
-^IXIC |[color=green] 2,916.68 [b]+0.61 (+0.02%) [/color][/b]
-^GSPC |[color=green] 1,387.81 [b]+0.92 (+0.07%) [/color][/b]
-
-[color=brown][b]-=-=-=- Happy Thanksgiving! -=-=-=-[/color][/b]
-
-[color=lightgray]note: WA member nations are prohibited from entering[/color]
+[color=indigo][u][b]US MARKETS AS OF 12/1/12 CLOSING:[/u][/b][/color]
+^DJI |[color=green] 13,025.58 [b]+3.76 (+0.03%) [/color][/b]
+^IXIC |[color=red] 3,010.24 [b]-1.79 (-0.06%) [/color][/b]
+^GSPC |[color=green] 1,416.18 [b]+0.23 (+0.02%) [/color][/b]

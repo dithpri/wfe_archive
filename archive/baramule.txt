@@ -1,8 +1,8 @@
-ICD: $1,500; 1,500; 125pp
-New Panti: $2,000; 1,000; 125pp
-Teppelin: $2,000; 1,000; 125pp
-Epimitheus: $2,000; 1,000; 125pp
-Rampana: $2,000; 1,000; 125pp
-Aquacia: $2,000; 1,000; 125pp
-Boff the Placeholder: $2,000; 1,000; 125pp
+ICD: $0 2,250 125pp [color=1E90FF]100i[/color] [color=87CEEB]50[/color]
+New Panti: $2,000 1,000 125pp [color=1E90FF]100i[/color] [color=87CEEB]50[/color]
+Teppelin: $0 2,000 125pp [color=1E90FF]100i[/color] [color=87CEEB]50[/color]
+Epimitheus: $2,000 1,000 125pp [color=1E90FF]100i[/color] [color=87CEEB]50[/color]
+Rampana: $2,000 1,000 125pp [color=1E90FF]100i[/color] [color=87CEEB]50[/color]
+Aquacia: $2,000 1,000 125pp [color=1E90FF]100i[/color] [color=87CEEB]50[/color]
+Boff the Placeholder: $2,000 1,000 125pp [color=1E90FF]100i[/color] [color=87CEEB]50[/color]
 Celmarog: $40,000; 1,000; 100pp

@@ -5,3 +5,11 @@ http://www.nationstates.net/nation=usp_founder/detail=factbook/id=main
 [b]Chancellor:[/b][nation]New Concord[/nation]
 [b]WA Delegate:[/b][nation]Neptunian Moons[/nation]
 [b]Supreme Court Justice(s)[/b][nation]Kannap[/nation]
+
+
+[b][u]Elections![/u][/b]
+[b]Presidential Candidates:[/b]
+-Arkucia, Incumbent
+
+[b]WA Delegate Candidates:[/b]
+-Arkucia
