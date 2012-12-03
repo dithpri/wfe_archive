@@ -1,8 +1,8 @@
-[b][color=lightgreen]Largest Economy:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $69.4 trillion ]
+[b][color=lightgreen]Largest Economy:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $68.7 trillion ]
 
-[b][color=lightgreen]Smallest Economy:[/color][/b] [nation=short]Nova Africa[/nation] [ $83.4 billion ]
+[b][color=lightgreen]Smallest Economy:[/color][/b] [nation=short]Nova Africa[/nation] [ $84.8 billion ]
 
-[b][color=lightgreen]Highest GDP Per Capita:[/color][/b] [nation=short]X1ng[/nation] [ $48,052.73 ]
+[b][color=lightgreen]Highest GDP Per Capita:[/color][/b] [nation=short]X1ng[/nation] [ $48,056.15 ]
 
 [b][color=lightgreen]Lowest GDP Per Capita:[/color][/b] [nation=short]Nova Africa[/nation] [ $81.42 ]
 
@@ -10,17 +10,17 @@
 
 [b][color=lightgreen]Lowest Average Employee Salary: [/color][/b] [nation=short]Nova Africa[/nation] [ $109.45 ]
 
-[b][color=lightgreen]Largest Trade Surplus:[/color][/b] [nation=short]The Illuminous Sun[/nation] [color=Springgreen][ $684 billion[/color] ]
+[b][color=lightgreen]Largest Trade Surplus:[/color][/b] [nation=short]The Illuminous Sun[/nation] [color=Springgreen][ $694 billion[/color] ]
 
-[b][color=lightgreen]Largest Trade Deficit:[/color][/b] [nation=short]Little Bill[/nation] [ [color=Red]$409 billion[/color] ]
+[b][color=lightgreen]Largest Trade Deficit:[/color][/b] [nation=short]Little Bill[/nation] [ [color=Red]$413 billion[/color] ]
 
 [hr]
 
-[b][color=lightgreen]Regional Population:[/color][/b] 23,076,000,000
+[b][color=lightgreen]Regional Population:[/color][/b] 23,413,000,000
 
-[b][color=lightgreen]Largest Member State:[/color][/b] [nation=short]Obesinia[/nation] [ 1.619 billion ]
+[b][color=lightgreen]Largest Member State:[/color][/b] [nation=short]Obesinia[/nation] [ 1.653 billion ]
 
-[b][color=lightgreen]Smallest Member State:[/color][/b] [nation=short]X1ng[/nation]  [ 904 million ]
+[b][color=lightgreen]Smallest Member State:[/color][/b] [nation=short]X1ng[/nation]  [ 938 million ]
 
 [b][color=lightgreen]Highest Taxation:[/color][/b] [nation=short]the illuminous sun[/nation] [ [color=Red]76%[/color] ]
 

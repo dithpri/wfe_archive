@@ -1,4 +1,4 @@
-Region Leader: [nation]New Barrierland[/nation]
+[b]Region Leader: [nation]New Barrierland[/nation]
 Co-Region Leader: [nation]New wattle[/nation]
 Minister of Foreign Affairs: [nation]New Barrierland[/nation]
 Minister of Defense: [nation]Thessalonia[/nation]
@@ -8,4 +8,4 @@ Minister of Civil Rights and Environment: [nation]New Barrierland[/nation]
 Minister of Justice: [nation]New Barrierland[/nation]
 Featured: 26/11/12
 [color=blue]All nations in WA please endorse each other[/color]
-[color=red]Colonies:[/color][region]The Chatam Islands[/region] and [region]Stewart Island[/region]
+[color=red]Colonies:[/color][region]The Chatam Islands[/region] and [region]Stewart Island[/region] [/b]

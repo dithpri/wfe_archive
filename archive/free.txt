@@ -1,19 +1,18 @@
-[b]Welcome to [color=blue]Team Free[/color]![/b]
-
-[hr]
-
-[b][region=Free], The Ravanian Justice Region![/b]
+[b]Welcome to [region=Free], The Ravanian Justice Region![/b]
 
 [color=green] Operational headquarters have been moved to [region=Castle on the Hill][/color]
 [color=purple]This region tries to bring justice to the free peoples.[/color]
-[color=blue]Detags executed by Ravanian Justice-nations :[b] 253 [/b][/color]
+[color=blue]Detags executed by Ravanian Justice-nations :[b] 287 [/b][/color]
 
 [hr]
 [b][color=red][u]Justice-detag list:[/u][/color]
-
-Nov 8th: [region=The Sea of Death]
-Nov 8th: [region=Magicka]
-Nov 8th: [region=United Kingdom of Britain and Eire]
+Nov 25th: [region=Quills]
+Dec 1st: [region=The Great Green Federation]
+Dec 1st: [region=The Monotopian Allied States]
+Dec 1st: [region=Tonagaria]
+Dec 1st: [region=Pirates of the Caribbean]
+Dec 1st: [region=Ellonia]
+Dec 1st: [region=The Great Union of Empires]
 [hr]
 [color=purple][u]Detag to-do-list:[/u][/color][/b]
 [color=blue] Unban banned defender nations

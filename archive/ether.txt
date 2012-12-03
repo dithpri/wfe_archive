@@ -4,16 +4,24 @@
 
 Into the battle rode the following riders:
 
-[nation]General Halcones[/nation]
-[nation]Gest[/nation]
-[nation]A Million Voices[/nation]
-[nation]Scooby-Doo[/nation]
-[nation]Jarron[/nation]
-[nation]Ragnarok Arisen[/nation]
-[nation]Koth II[/nation]
-[nation]Federation Republic[/nation]
+[nation=short]General Halcones[/nation]
+[nation=short]Gest[/nation]
+[nation=short]A Million Voices[/nation]
+[nation=short]Scooby-Doo[/nation]
+[nation=short]Jarron[/nation]
+[nation=short]Ragnarok Arisen[/nation]
+[nation=short]Koth II[/nation]
+[nation=short]Federation Republic[/nation]
+[nation=short]Ashbringer[/nation]
+[nation=short]Camo5768[/nation]
+[nation=short]Of the free socialist territories[/nation]
+[nation=short]Vazeckta[/nation]
+[nation=short]Wraith_Fin[/nation]
+
 
 Special thanks to [region]The Brotherhood of Malice[/region] and [region]Kantrias[/region] for their invaluable support!
 
-Natives slain: 7
+Please telegram your identity to the delegate upon entering the region, or you may risk ejection.
+
+Natives slain: 8
 Defenders slain: 0[/color][/b]
