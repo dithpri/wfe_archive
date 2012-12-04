@@ -13,7 +13,7 @@
 
 Minister of Intelligence and National Security: [nation=short]The Free State of Bavaria[/nation]
 
-Minister of Foreign Affairs and International Cooperation: [nation=short]Ahmedistan[/nation]
+Minister of Foreign Affairs: [nation=short]Ahmedistan[/nation]
 
 Minister of Defense and Armed Forces Logistics: Major general [nation=short]Amenhotep IV[/nation]
 

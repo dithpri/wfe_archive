@@ -3,14 +3,14 @@
 [nation]Aturia[/nation] + [nation]Shioque[/nation]
 [nation]Monrassa[/nation] + [nation]Gainpo[/nation]
 [nation]Ermorium[/nation]
-[nation]Conloah[/nation] ([color=red]Invaded by Ermorium[/color])
+[nation]Conloah[/nation] + [nation]Marlomag[/nation]
 
 [b][u]Other Members:[/u][/b] 
-[nation]Eastern Ermorium[/nation] ([color=red]Liberated by Ermorium[/color]) 
-[nation]Bahungahagarriah[/nation] ([color=red]Invaded by Monrassa[/color])
+[nation]Eastern Ermorium[/nation] ([color=blue]Liberated by Ermorium[/color]) 
+[nation]Bahungahagarriah[/nation] 
 [nation]Jalteshara[/nation]
 [nation]Saturia[/nation]
-[nation]Vindishla[/nation]
+[nation]Vindishla[/nation] ([color=green]Skurmany[/color])
 [nation]Samata[/nation] 
 [nation]Zathonia[/nation] 
 [nation]Marlomag[/nation]
