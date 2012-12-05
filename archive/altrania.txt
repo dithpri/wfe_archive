@@ -25,3 +25,4 @@ Embassies:
 [region]Soviet republics region[/region]
 [region]The communist region[/region]
 [region]Project Horizon[/region]
+[region]The United Democracies[/region]
