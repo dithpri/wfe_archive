@@ -4,7 +4,7 @@
 [b]The Council of The Realm[/b]
 Prime Minister:[color=red] [nation=shortname]Pacific Arms[/nation][/color]
 Lord Secretary:[color=red] [nation=shortname]Polyspanic[/nation][/color]
-Lord Speaker:[color=red] Vacant[/color]
+Lord Speaker:[color=red] [nation=shortname]ShenGuo[/nation][/color]
 [hr]
 
 [b]Ministerial Departments (To be elected by the Prime Minister)[/b]

@@ -18,13 +18,13 @@
 
 [b][color=lightgreen]Regional Population:[/color][/b] 23,413,000,000
 
-[b][color=lightgreen]Largest Member State:[/color][/b] [nation=short]Obesinia[/nation] [ 1.653 billion ]
+[b][color=lightgreen]Largest Member State:[/color][/b] [nation=short]Obesinia[/nation] [ 1.674 billion ]
 
-[b][color=lightgreen]Smallest Member State:[/color][/b] [nation=short]X1ng[/nation]  [ 938 million ]
+[b][color=lightgreen]Smallest Member State:[/color][/b] [nation=short]X1ng[/nation]  [ 955 million ]
 
-[b][color=lightgreen]Highest Taxation:[/color][/b] [nation=short]the illuminous sun[/nation] [ [color=Red]76%[/color] ]
+[b][color=lightgreen]Highest Tax Rate:[/color][/b] [nation=short]the illuminous sun[/nation] [ [color=Red]76%[/color] ]
 
-[b][color=lightgreen]Lowest Taxation:[/color][/b] [nation=short]X1ng[/nation] [ [color=Springgreen]0%[/color] ]
+[b][color=lightgreen]Lowest Tax Rate:[/color][/b] [nation=short]X1ng[/nation] [ [color=Springgreen]0%[/color] ]
 
 
 

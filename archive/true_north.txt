@@ -15,15 +15,6 @@
 
 [color=00ccff]&yen;[/color][i]miscellaneous Controlled Regions[/i][color=00ccff]&yen;[/color]
 
-[color=ff33ff]&reg;[/color][region]nature[/region][color=ff33ff]&reg;[/color]
-[color=ff33ff]&reg;[/color][region]johto[/region][color=ff33ff]&reg;[/color]
-[color=ff33ff]&reg;[/color][region]supernatural[/region][color=ff33ff]&reg;[/color]
-[color=ff33ff]&reg;[/color][region]Love[/region][color=ff33ff]&reg;[/color]
-[color=ff33ff]&reg;[/color][region]Easter[/region][color=ff33ff]&reg;[/color]
-[color=ff33ff]&reg;[/color][region]dexter[/region][color=ff33ff]&reg;[/color]
-[color=ff33ff]&reg;[/color][region]starfleet[/region][color=ff33ff]&reg;[/color]
-
-[color=00FF66]M[/color][color=red]E[/color][color=00FF66]R[/color][color=red]R[/color][color=00FF66]Y[/color] [color=00FF66]C[/color][color=red]H[/color][color=00FF66]R[/color][color=red]I[/color][color=00FF66]S[/color][color=red]T[/color][color=00FF66]M[/color][color=red]A[/color][color=00FF66]S[/color]
-
+[b]All Embassies with [color=ff33ff]&reg;[/color][region]true north territory[/region][color=ff33ff]&reg;[/color] are Territories of True North[/b]
          
       
