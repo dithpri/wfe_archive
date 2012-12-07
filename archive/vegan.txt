@@ -1,8 +1,8 @@
-Given the following facts :
-meat is murder, causes cancer, diabetes, weakens the immune system, plays a large part in climate change, cause desertification, is not energy nor nutritionally efficient, is an ecology disaster and causes world hunger,
+Consider the following facts about the consumption of meat: it is murder; causes cancer and diabetes; weakens the immune system; plays a large part in climate change; cause desertification; is not energy nor nutritionally efficient; is an ecology disaster; and causes world hunger.
 
-A quickly growing amount of people is becoming vegans and vegetarians.
 
-Some of them are moving to the region of Vegan.
+A quickly growing amount of people are becoming vegans and vegetarians.
 
-Among the documentaries explaining the reasons why people join this region are &amp;quot;Forks over Knives&amp;quot;, &amp;quot;Earthlings&amp;quot; and &amp;quot;Meat The Truth&amp;quot;
+Some of them are moving to the region of [region]Vegan[/region].
+
+Among the documentaries explaining the reasons why people join this region are &amp;#39;Forks over Knives&amp;#39;, &amp;#39;Earthlings&amp;#39; and &amp;#39;Meat The Truth&amp;#39;.

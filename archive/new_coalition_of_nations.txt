@@ -2,8 +2,8 @@
 [hr][color=red]MINISTRIES OF GOVERNMENT[/color]
 First Minister: [nation]Oceanuz[/nation]
 Speaker: [nation]Merciless Rossett[/nation]
-Foreign Affairs: [nation]Briannia[/nation]
-- Secretary Ambassador: VACANT
+Foreign Affairs: [nation]St Saratoga[/nation]
+- Secretary Ambassador: [nation]Briannia[/nation]
 Regional Affairs: [nation]Nedea[/nation]
 - Secretary of Recruitment: [nation]Ivstinian[/nation]
 - Secretary of Recruitment: [nation]Wicko[/nation]

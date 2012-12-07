@@ -7,5 +7,5 @@ Minister of Industry and Economy: [nation]Thessalonia[/nation]
 Minister of Civil Rights and Environment: [nation]New Barrierland[/nation]
 Minister of Justice: [nation]New Wattle[/nation]
 Featured: 26/11/12
-[color=red]Colonies:[/color][region]The Chatam Islands[/region] , [region]Stewart Island[/region], [region]Burinka Faso[/region] and [region]Max Barry[/region]
+[color=red]Colonies:[/color][region]The Chatam Islands[/region] , [region]Stewart Island[/region], and [region]Max Barry[/region]
 [color=red]Daily Message:[/color] Join the WA! [/b]
