@@ -1,9 +1,9 @@
-large, dark, and evil region ruled by UKC 
+large, dark, and evil region ruled by [nation]United Kingdom of Cameron[/nation] 
 slowly growing in population
 
-THREAT LEVEL: YELLOW
-BLUE:SAFE
-GREEN:RUMOR OF THREAT
-YELLOW:WARNING
-ORANGE: EVAC
-RED: FIRE THE POLARIS
+THREAT LEVEL: [color=orange]ORANGE[/color]
+[color=blue]BLUE[/color]:SAFE
+[color=green]GREEN[/color]:RUMOR OF THREAT
+[color=yellow]YELLOW[/color]:WARNING
+[color=orange]ORANGE[/color]: EVAC
+[color=red]RED[/color]: FIRE THE POLARIS

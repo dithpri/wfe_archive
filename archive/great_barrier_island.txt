@@ -1,11 +1,14 @@
 [b]Region Leader: [nation]New Barrierland[/nation]
-Co-Region Leader: [nation]New wattle[/nation]
-Minister of Foreign Affairs: [nation]New Wattle[/nation]
+Co-Region Leader: [nation]Thessalonia[/nation]
+Minister of Foreign Affairs: [nation]Thessalonia[/nation]
 Minister of Defense: [nation]Thessalonia[/nation]
-Minister of Administry and States: [nation]Thessalonia[/nation]
-Minister of Industry and Economy: [nation]Thessalonia[/nation]
-Minister of Civil Rights and Environment: [nation]New Barrierland[/nation]
+Minister of Administry: [nation]Thessalonia[/nation]
+Minister of Economy: [nation]Gordonton[/nation]
+Minister of Civil Rights: [nation]Hrothgarion[/nation]
 Minister of Justice: [nation]New Wattle[/nation]
+Minister of [region]Max Barry[/region]: vacant
+Minister of [region]The Chatam Islands[/region]: vacant
+Minister of [region]Stewart Island[/region]: vacant
 Featured: 26/11/12
-[color=red]Colonies:[/color][region]The Chatam Islands[/region] , [region]Stewart Island[/region], and [region]Max Barry[/region]
-[color=red]Daily Message:[/color] Join the WA! [/b]
+[color=red]Colonies:[/color][region]The Chatam Islands[/region] , [region]Stewart Island[/region], and [region]Max Barry[/region]s
+[color=red]Daily Message:[/color] Join the WA![/b]

@@ -1,18 +1,21 @@
 [color=blue]The CoC is a close-knit,friendly, monarchist region which stands for rule of law, freedom of expression &amp;amp; democracy.[/color]  [hr]
 
-[b]REC[/b]
+[b]Caretaker REC[/b]
 Chancellor: [nation=short]Borduriaa[/nation]
 Speaker: [nation=short]Noorderkwartier[/nation]
 Secretary-General: [nation=short]GuatemalaCity[/nation]
 [hr]
 [b]Cabinet[/b]
-Minister of Finance:[nation=short]Lentheric[/nation]
-Minister of Foreign Affairs: [nation=short]Xiamen University[/nation]
-Minister of Culture and Regional Cartographer: [nation=short]The Quadruple Alliance[/nation]
-Minister of Justice: [nation=short]Helladria[/nation]
-Minister of Internal Affairs: [nation=short]Besate[/nation]
-Secy(Immigration):[nation=short]New English[/nation]
-Minister of Defence:[nation=short]Belhorizon[/nation] [hr]
+Minister of Defence:vacant
+Minister of Internal Affairs: vacant
+Minister of Foreign Affairs: vacant
+Minister of Finance: vacant
+Minister of Justice: vacant
+Minister of Culture: vacant
+Secy(Immigration):vacant
+
+Regional Cartographer: [nation=short]The Quadruple Alliance[/nation]
+ [hr]
 [b]Crowns Court of Justice[/b]
 [nation=short]The Quadruple Alliance[/nation](CJ),[nation=short]lentheric[/nation][nation=short]Kingdom of the Polar bear[/nation][hr]
 

@@ -7,6 +7,11 @@ Forged from the ashes of a fallen region, The New Democratic Union shall forever
 
 President: [nation=short]Onza[/nation] (HC)
 
+[u]Ministers[/u]
+[nation=short]Democratic Republic of Cohesion[/nation] (Defense)
+[nation=short]Welsh Cowboy II[/nation] (Interior)
+[nation=short]The-Commonwealth[/nation] (Regional Records)
+
 [b][u]Legislative Branch[/b][/u]
 
 Prime Minister: [nation=short]United States of Minecraftia[/nation] (I)

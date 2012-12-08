@@ -1,14 +1,13 @@
-[b]Welcome to the Russian Federation![/b]
+[color=red][b]Welcome to the Russian Federation![/b][/color]
+
 Founded on February 3rd, 2012 by the Council of Three (Yo., Co., &amp;amp; Ro.).
-Refounded on May 31st, 2012 by [nation=short+noflag]Russian Around[/nation].
-[hr][b]King:[/b] Romain Martin-Coana
-[b]Queen:[/b] Martha Ruvenacht-Martin-Coana
-[b]Governor-General:[/b] Martha Ruvenacht
-[b]Lord Protector:[/b] [nation=short+noflag]Russian Around[/nation]
+Refounded on May 31st.
+[hr][color=purple][b]Monarch:[/b][/color] HRM King Michael I
+[color=purple]Crown Prince:[/color] Romain Adelgunde
+[color=purple]Crown Princess:[/color] Martha Adelgunde-Ruvenacht
+[color=purple]Governor:[/color] [nation=short+noflag]Russian Around[/nation]
 [hr][b][color=orange]Updates from the Capitol[/color][/b]
-~General Election Registration opened.
-~Prime Minister, Cabinet, and Northern Ireland Assembly elected.
-~Crown Regent Romain crowned King! 
-[color=purple][i]Long Live King Romain![/i][/color]
+[list][*]The Russian Federation has been transferred to [region]The United Kingdom of Denmark[/region], ruled by the House Adelgunde (formerly known as House Martin-Coana).
+[*]UKD is in integration talks with [region]United Kingdom[/region].[/list]
 
 [hr][color=green][b]Region Threat Level: 1[/b][/color]
