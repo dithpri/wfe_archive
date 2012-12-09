@@ -7,7 +7,6 @@
 [b][color=red]Fuhrer und Kaiser:[/color][/b][b]Adolf Hitler[/b]
 [b][color=red]Obersten Kommandanten:[/color][/b][nation]Nexin[/nation]
 [b][color=red]WA Delegieren:[/color][/b][nation]Francisco Archipelago[/nation]
-[b][color=red]Kommandeur der Schutzstaffel:[/color][/b][nation]Synchen[/nation]
 [b][color=red]General:[/color][/b][nation]Benito Mussolini Italy[/nation]
 [b][color=red]General:[/color][/b][nation]Sombay[/nation]
 [b][u]_________________________________________[/u][/b]
@@ -20,3 +19,5 @@
 [b]Communists sent to concentration camps: 6[/b]
 
 [b]Raid Count: 2[/b]
+
+[b][u][i][color=red]Heil Hitler!!![/color][/i][/u][/b]

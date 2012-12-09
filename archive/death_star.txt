@@ -1,18 +1,9 @@
-[b][u]The Galactic Empire[/u][/b]
+[b]The [color=red]Death Star[/color] is currently the [i]official space station[/i] of [region=New York]. Citizens of the [color=red]Death Star[/color] have all the same rights and privileges as citizens of [region=New York]. [color=red]Join today[/color]![/b]
 
-[b]THE GOVERNMENT WILL BE GOING THROUGH A REFORMATION IN THE NEXT FEW DAYS.[/b]
+[b][u]Colonial Government:[/u][/b]
+[b]Governor:[/b][nation=short]Commander Samir[/nation]
+[b]Vice Governor:[/b][nation=short]Gordnesia[/nation]
+[b]Minister of Information:[/b][nation=short]Darth Vader-[/nation]
 
-[b]Long Live the Empire![/b]
-
-[b]Galactic Emperor:[/b] [nation=short]Commander Samir[/nation]
-[b]Grand Moff:[/b] [nation=short]Gordnesia[/nation]
-[b]Senior Moff:[/b] [i]Open position[/i]
-[b]Imperial Knight:[/b] [nation=short]Absarka[/nation]
-[b]First Lieutenant:[/b] [nation=short]The XpeopleX[/nation]
-
-[b]Moff of Propaganda:[/b] [nation=short]Darth Vader-[/nation]
-[b]Moff of Enlistment:[/b] Open
-[b]Moff of Intelligence:[/b] Open
-
-[url=http://thedeathstar.freeforums.org]Forum[/url]
-[url=http://nseconomy.thirdgeek.com/nseconomy.php?region=death+star]NS Economy[/url]
+[b][u]Important News:[/u][/b]
+[color=red]Stay tuned for important news![/color]

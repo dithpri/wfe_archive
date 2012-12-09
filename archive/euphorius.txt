@@ -4,7 +4,7 @@
 
 [color=black]Delegate[/color]:Vacant
 [color=maroon]Head Of Immigrations[/color]:Vacant
-[color=black]Minister Of Defense[/color]: Vacant
+[color=black]Minister Of Defense[/color]:[nation]new queensberry 2[/nation] (part of UNA)
 [color=maroon]Minister Of Foreign Affairs[/color]: Vacant
 [color=black]Senate Head[/color]: Vacant
 [color=maroon]Head of Industrial Enterprises[/color]: [nation]Phontaus[/nation]

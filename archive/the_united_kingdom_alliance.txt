@@ -11,8 +11,8 @@ the regional council&amp;#39;s intelligence agency
  sec of security 
 [nation]gem isles[/nation]
 dep sec of security [nation]algan[/nation] 
- sec def  (being elected 
-dep seC [nation]mac bac[/nation]
+ sec def [nation]star isles[/nation] 
+dep sec [nation]mac bac[/nation]
 sec tress 
  [nation]reva[/nation]
-dep sec tres [nation]star isles[/nation]
+dep sec tres (being nominated

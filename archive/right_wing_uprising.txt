@@ -21,7 +21,6 @@
 [region]Apartheid South Africa[/region]
 [region]Grossdeutschland 88[/region]
 [region]Union of Nationalists[/region]
-[region]The Nazi Reich[/region]
 
 [b][color=silver]Allies:[/color][/b]
 [region]Meritorious Imperium[/region]

@@ -1,6 +1,6 @@
 (Honorary Title) Founder: [url=http://www.nationstates.net/nation=united_warhal]United Warhal[/url]
-Pope: [url=http://www.nationstates.net/nation=united_serkonos]United Serkonos[/url]
-
+Pope: 
+Vice-Pope:
 President of the Committee of Archbishops: [url=http://www.nationstates.net/nation=jingingoustic]Jingningoustic[/url]
 Archbishop of Foreign Affairs: [url=http://www.nationstates.net/nation=united_warhal]United Warhal[/url]
 Archbishop of the Treasury: [url=http://www.nationstates.net/nation=loubo]Loubo[/url]
@@ -12,10 +12,10 @@ Duke of Education:
 
 Council of Nation Representation
 
-Speaker of the Council: Burdoni
-Councilman:
-Councilman:
-Councilman:
+Speaker of the Council: 
+Councilman: North Wadia
+Councilman: South Wadia
+Councilman: The Community of TheBFSStates
 
 &amp;quot;What kind of stuff?&amp;quot; - Founder
 

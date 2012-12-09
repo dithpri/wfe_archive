@@ -1,8 +1,8 @@
-ICD: $0 2,250 125pp [color=1E90FF]100i[/color] [color=87CEEB]50[/color]
-New Panti: $0 2,000 125pp [color=1E90FF]100i[/color]  [color=87CEEB]50[/color] Ra
-Teppelin: $0 2,000 125pp [color=1E90FF]100i[/color] [color=87CEEB]50[/color] Ra
-Epimitheus: $2,000 1,000 125pp [color=1E90FF]100i[/color] [color=87CEEB]50[/color] Ra
-Rampana: $0 2,250 125pp [color=1E90FF]100i[/color] [color=87CEEB]50[/color]
-Aquacia: $2,000 1,000 125pp [color=1E90FF]100i[/color] [color=87CEEB]50[/color] Ra
-Boff the Placeholder: $2,000 1,000 125pp [color=1E90FF]100i[/color] [color=87CEEB]50[/color]
-Celmarog: $40,000; 1,000; 100pp
+ICD: $0 3,500 125pp [color=1E90FF]100i[/color] [color=87CEEB]50[/color]
+New Panti: $0 2,500 125pp [color=1E90FF]100i[/color]  [color=87CEEB]50[/color] Ra
+Teppelin: $2,000 2,000 125pp [color=1E90FF]100i[/color] [color=87CEEB]50[/color] Ra
+Epimitheus: $3,000 1,000 125pp [color=1E90FF]100i[/color] [color=87CEEB]50[/color] Ra
+Rampana: $5,250 2,250 125pp [color=1E90FF]100i[/color] [color=87CEEB]50[/color]
+Aquacia: $0 1,000 125pp [color=1E90FF]100i[/color] [color=87CEEB]50[/color] Ra
+Boff the Placeholder: $3,000 1,000 125pp [color=1E90FF]100i[/color] [color=87CEEB]50[/color]
+Celmarog: $41,000; 1,000; 100pp
