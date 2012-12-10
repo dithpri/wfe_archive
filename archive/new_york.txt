@@ -10,7 +10,7 @@ We&amp;#39;re the Great Empire State, Home of [i][color=red]The Big Apple[/i][/c
 Delegate:  [nation=short]The Orion Nebula[/nation](F)
 Head of Assembly: [nation=short]Devil[/nation](F)
 Defense Sec: [nation=short]Layarteb[/nation]
-Foreign Minister: [/color] vacant
+Foreign Minister: [nation=short]The Trefoil Knot[/nation](F)[/color]
 
 [u][b][color=purple]Assembly:[/b][/color][color=orangered][/u]
 [nation=short]Crazy Gauls[/nation]

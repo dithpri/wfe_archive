@@ -15,6 +15,7 @@
 [region]The Tanganyika Territory[/region]
 [region]The Western Samoa Trust Territory[/region]
 [region]Anglo Egyptian Sudan[/region]
+[region]North East Africa[/region]
 [region]South West Africa[/region]
 [region]Ruanda Urundi[/region]
 [region]The Republic of Turkey[/region]

@@ -14,7 +14,6 @@
 [region]The Swaziland Protectorate[/region]
 [region]The Protectorate of Uganda[/region]
 [region]British Hong Kong[/region]
-[region]British Burma[/region]
 [region]The Colony of Aden[/region]
 [region]The Territory of Basutoland[/region]
 [region]British Somaliland[/region]

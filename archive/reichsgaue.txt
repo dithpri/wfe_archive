@@ -2,7 +2,6 @@
 [color=red]Mehrere Teilgebiete enthaltende Regionen werden[/color] [color=green][b]fett[/b][/color] [color=red]dargestellt.[/color]
 [region]The Territory of the Saar Basin[/region]
 [region]The Federal State of Austria[/region]
-[region]The Free City of Danzig[/region]
 [region]The Republic of Poland[/region]
 [b][region]The Danish Realm[/region][/b]
 [region]The Grand Duchy of Luxembourg[/region]

@@ -15,7 +15,6 @@
 [region]The Kingdom of Norway[/region]
 [region]The Republic of Panama[/region]
 [region]The Republic of Poland[/region]
-[region]The Portuguese Republic[/region]
 [region]The Kingdom of Thailand[/region]
 [region]The Swiss Confederation[/region]
 [region]The Kingdom of Yugoslavia[/region]

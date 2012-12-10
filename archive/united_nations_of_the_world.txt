@@ -5,7 +5,7 @@ The [region]United Nations of The World[/region] is runed by the Leader and his 
 Long live our Leader [color=red]Chris Hackins[/color]
 
 [color=blue]Government:[/color]
-[b]Leader:[/b] [color=red]Chris Hackins[/color] of the nation [nation=short+noflag]United People of The World[/nation]
-
+[b]Leader:[/b] 
+[nation]United People of The World[/nation]
 [i]Council:[/i]
 [nation]New Belgium Kingdom[/nation]
