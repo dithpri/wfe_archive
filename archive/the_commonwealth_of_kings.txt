@@ -1,4 +1,4 @@
-[color=red]Welcome to The Commonwealth of Kings. Puppet Nations will be Ejected[/color]
+[color=red]Welcome to The Commonwealth of Kings. Puppet Nations will be Ejected[/color] [url=http://picosong.com/3Vga]A welcome message[/url]
 [hr]
 
 [b]The Council of The Realm[/b]
@@ -23,6 +23,8 @@ Lord Justice:[color=red] Vacant[/color]
 
 Alert level:[color=green]GREEN[/color]
 Please endorse [nation=shortname]Pacific Arms[/nation]
+
+[hr]
 
 [b]The Commonwealth Bank[/b]
 Crowns (C) available: [color=red]10 Billion Crowns[/color] - [b]Aid given:[/b] [color=blue]NIL[/color]

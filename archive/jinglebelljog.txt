@@ -1,23 +1,20 @@
 (Honorary Title) Founder: [url=http://www.nationstates.net/nation=united_warhal]United Warhal[/url]
-Pope: 
-Vice-Pope:
+Pope: [nation]Burdoni[/nation]
+Vice-Pope: [nation]Dabovka[/nation]
 President of the Committee of Archbishops: [url=http://www.nationstates.net/nation=jingingoustic]Jingningoustic[/url]
 Archbishop of Foreign Affairs: [url=http://www.nationstates.net/nation=united_warhal]United Warhal[/url]
 Archbishop of the Treasury: [url=http://www.nationstates.net/nation=loubo]Loubo[/url]
 Archbishop of Justice: [url=http://www.nationstates.net/nation=harvardar]Harvardar[/url]
 Archbishop of Media and Internal Affairs: [url=http://www.nationstates.net/nation=queshaka]Queshaka[/url]
 
-Duke of Homeland Security: [url=http://www.nationstates.net/nation=dabovka]Dabovka[/url]
-Duke of Education:
+Duke of Homeland Security:[nation]Dabovka[/nation]
+Duke of Education: 
 
 Council of Nation Representation
 
-Speaker of the Council: 
+Speaker of the Council: The Community of TheBFSStates
 Councilman: North Wadia
 Councilman: South Wadia
-Councilman: The Community of TheBFSStates
+Councilman: What was the main reason Obama flunked the debate, 
 
-&amp;quot;What kind of stuff?&amp;quot; - Founder
-
-
-[url=http://upload.wikimedia.org/wikipedia/commons/7/72/Updated_NS_Graph.png]Other Info[/url]
+Citizen Nations: 

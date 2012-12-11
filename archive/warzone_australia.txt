@@ -1,6 +1,6 @@
-[b][color=brick][u]Warzone Australia[/u]
+[u][b][color=brick]W[/color][color=grey]a[/color][color=brick]r[/color][color=grey]z[/color][color=brick]o[/color][color=brick]n[/color][color=grey]e[/color] [color=brick]A[/color][color=grey]u[/color][color=brick]s[/color][color=grey]t[/color][color=brick]r[/color][color=grey]a[/color][color=brick]l[/color][color=grey]i[/color][color=brick]a[/u][/color]
 
-WA Deligete: [nation=short]Fontoria[/nation]
+[color=brick]WA Deligete: [nation=short]Fontoria[/nation]
 Vice Deligete: [nation=short]Awas[/nation]
 Government Member: [nation=short]Dying Is Your Latest Fashion[/nation]
 Government Member: [nation=short]Marzovia[/nation]

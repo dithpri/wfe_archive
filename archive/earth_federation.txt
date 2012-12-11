@@ -1,26 +1,26 @@
-[b][color=lightgreen]Largest Economy:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $68.7 trillion ]
+[b][color=lightgreen]Largest Economy:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $68.8 trillion ]
 
-[b][color=lightgreen]Smallest Economy:[/color][/b] [nation=short]Nova Africa[/nation] [ $84.8 billion ]
+[b][color=lightgreen]Smallest Economy:[/color][/b] [nation=short]Nova Africa[/nation] [ $88.6 billion ]
 
-[b][color=lightgreen]Highest GDP Per Capita:[/color][/b] [nation=short]X1ng[/nation] [ $48,056.15 ]
+[b][color=lightgreen]Highest GDP Per Capita:[/color][/b] [nation=short]X1ng[/nation] [ $47,555.91 ]
 
-[b][color=lightgreen]Lowest GDP Per Capita:[/color][/b] [nation=short]Nova Africa[/nation] [ $81.42 ]
+[b][color=lightgreen]Lowest GDP Per Capita:[/color][/b] [nation=short]Nova Africa[/nation] [ $81.50 ]
 
-[b][color=lightgreen]Highest Average Employee Salary: [/color][/b][nation=short]Greater Neo Germany[/nation]  [ $86,250.39 ]
+[b][color=lightgreen]Highest Average Employee Salary: [/color][/b][nation=short]Greater Neo Germany[/nation]  [ $77,098.64 ]
 
-[b][color=lightgreen]Lowest Average Employee Salary: [/color][/b] [nation=short]Nova Africa[/nation] [ $109.45 ]
+[b][color=lightgreen]Lowest Average Employee Salary: [/color][/b] [nation=short]Nova Africa[/nation] [ $109.56 ]
 
-[b][color=lightgreen]Largest Trade Surplus:[/color][/b] [nation=short]The Illuminous Sun[/nation] [color=Springgreen][ $694 billion[/color] ]
+[b][color=lightgreen]Largest Trade Surplus:[/color][/b] [nation=short]The Illuminous Sun[/nation] [color=Springgreen][ $756 billion[/color] ]
 
-[b][color=lightgreen]Largest Trade Deficit:[/color][/b] [nation=short]Little Bill[/nation] [ [color=Red]$413 billion[/color] ]
+[b][color=lightgreen]Largest Trade Deficit:[/color][/b] [nation=short]Little Bill[/nation] [ [color=Red]$741 billion[/color] ]
 
 [hr]
 
 [b][color=lightgreen]Regional Population:[/color][/b] 23,413,000,000
 
-[b][color=lightgreen]Largest Member State:[/color][/b] [nation=short]Obesinia[/nation] [ 1.674 billion ]
+[b][color=lightgreen]Largest Member State:[/color][/b] [nation=short]Obesinia[/nation] [ 1.701 billion ]
 
-[b][color=lightgreen]Smallest Member State:[/color][/b] [nation=short]X1ng[/nation]  [ 955 million ]
+[b][color=lightgreen]Smallest Member State:[/color][/b] [nation=short]X1ng[/nation]  [ 987 million ]
 
 [b][color=lightgreen]Highest Tax Rate:[/color][/b] [nation=short]the illuminous sun[/nation] [ [color=Red]76%[/color] ]
 
