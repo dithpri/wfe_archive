@@ -23,6 +23,7 @@ Territories:
 [region]The Great Region of Freedom[/region]
 [region]Balkan[/region]
 [region]UNSSR[/region]
+[region]Greater Serbia[/region]
 Regional Anthem:
 
 http://www.youtube.com/watch?v=KK3TFGAkzJw

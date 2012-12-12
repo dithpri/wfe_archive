@@ -4,13 +4,13 @@ If there are any questions about the rules contact either [nation]Tasistan[/nati
  
 [b]Yertladistan has declared war on Andrewstan. Premier Ferreira is our first Chairman. Due to inconsistencies with the previous battle simulator we are going to be using a new one at http://www.dskelly.com/misc/aa/aasim.html. [/b]
 
-[b][color=purple][nation=short]Tasistan[/nation]-310--Sugar/Spices
-[nation=short]The Republic of the Empire of Britain[/nation]-298--Tea
-[nation=short]Ferreiria[/nation]-286--Timber *CHAIRMAN OF NI*
-[nation=short]Rishiragua[/nation]-306--Cash Crops
-[nation=short]Yertladistan[/nation]-306--Steel
-[nation=short]Myxlplykxia[/nation]-282--Oil
-[nation=short]Habibia[/nation]-262--Slaves
-[nation=short]Andrewstan[/nation]-204--Textiles[/b][/color]
+[b][color=purple][nation=short]Tasistan[/nation]-380--Sugar/Spices
+[nation=short]The Republic of the Empire of Britain[/nation]-368--Tea
+[nation=short]Ferreiria[/nation]-352--Timber *CHAIRMAN OF NI*
+[nation=short]Rishiragua[/nation]-376--Cash Crops
+[nation=short]Yertladistan[/nation]-376--Steel
+[nation=short]Myxlplykxia[/nation]-344--Oil
+[nation=short]Habibia[/nation]-320--Slaves
+[nation=short]Andrewstan[/nation]-254--Textiles[/b][/color]
 
 [b][color=blue]NI![/color][/b]

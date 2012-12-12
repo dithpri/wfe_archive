@@ -1,13 +1,5 @@
-[b][color=#000061]Huzzah! Huzzah! Huzzah! This region was about to be attack from a charge by [region=The Black Riders]![/color]
+[color=blue]Bonjour et Bienvenue au royaume de [/color]France. Cette Royaume a ete ici pour 300 [color=red]annees et sera ici pour 300 plus![/color]
 
-[color=red]Royal Troops arm yourselves! Prepare for war!
+[hr]
 
-Into the battle rode the following riders:
-[nation]General Halcones[/nation],[nation]Feuer Ritter[/nation],[nation]Gest[/nation],[nation]Scooby-Doo[/nation],[nation]A Million Voices[/nation]
-[nation]Twin Equine[/nation]
-[/color][/b]
-
-[color=red][b]Bullets were shot. Explosions were heard and blood had fallen. [nation]Perinpanland[/nation] vs The Black Riders. In the end [nation]Perinpanland[/nation] was [u]victorious![/u][/color][/b]
-
-You are now a colony of [region]Troy[/region], the royal empire&amp;#39;s HQ.
-The Royal Constitution is now in effect!
+[color=blue]Hello and Welcome to the kingdom of[/color] France. The Kingdom has been here for 300[color=red] years and will be here for 300 more![/color]

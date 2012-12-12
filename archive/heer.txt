@@ -1,6 +1,5 @@
-[B][U][region]Oberkommando des Heeres[/region] - Heeres - Gro&szlig;deutches Reich[/U][/B]
+[B][U]Gro&szlig;deutches Reich - [region]Oberkommando des Heeres[/region] - Heeres[/U][/B]
 
 [B]Oberbefehlshaber des Heeres:[/B] [nation]Hesse[/nation]
 
 [color=red]Administrative Region of [region]the Greater German Reich[/region].[/color]
-
