@@ -1,1 +1,8 @@
 The Union of Strathan Republics is a region home to Strathy and her colonies and other outlying territories.
+
+The Homeland:
+[nation]Strathy[/nation]
+
+Colonies:
+[nation]Strathy Minor[/nation]
+[nation]Novya Esco[/nation]

@@ -1,18 +1,18 @@
 Commonwealth of Soviet Socialist Republics
 
 
-Regional Minister of Foreign Affairs: [nation]Sedikal[/nation] 
+Regional Minister of Foreign Affairs: [nation]Northern Anglica[/nation] 
 
 Regional Minister of Intelligence: [nation]Zanazbar[/nation]
 
-Regional Minister of Defense: [nation]Grand Soviet Union[/nation]
+Regional Minister of Defense: vacant
 
-
-We are a peaceful region. We do not attack without reason.
-
-If you want to talk to us about alliance, war, etc. talk to the foreign minister first
+[i]Hero of the CSSR: Belrussia[/i]
+Honored Nations of the CSSR: Belrussia, Grand Soviet Union, Sedikal, Soviet Murmansk
 
 [b]PLEASE JOIN THE WA![/b]
+
+[b]Please endorse [nation]Koasiquey[/nation][/b]
 
 Territories:
 [region]The Bulkans[/region]
@@ -25,7 +25,6 @@ Territories:
 [region]UNSSR[/region]
 [region]Greater Serbia[/region]
 Regional Anthem:
-
 http://www.youtube.com/watch?v=KK3TFGAkzJw
 
 

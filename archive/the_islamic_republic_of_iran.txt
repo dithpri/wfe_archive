@@ -10,12 +10,14 @@ Jomhuri-ye Eslami-ye Iran
 
 President: [nation=short]Pav Parande[/nation]
 Vice President:
-Minister of Defense and Intelligence:
+Minister of Defense and Intelligence: [nation=short]Iranian Lands and Provinces[/nation]
 Minister of Justice:
-Minister of International Affairs:
+Minister of International Affairs: [nation=short]Germano-Iranian Land[/nation]
 Minister of Recruitment: [nation=short]New Iranians[/nation]
 Ambassador to The World Assembly:
 
 [b]La Ilaha Illa Allah, Muhammad Rasulu Allah
 
 [color=green]The Islamic Republic of Iran welcomes all Muslim Nations and respectful peoples![/b][/color]
+
+[b]World Assembly (WA) nations refusing endorse [nation]Pav Parande[/nation] will be ejected as spies.  This is only hope to fight invasion force and those mocking Islam.[/b]

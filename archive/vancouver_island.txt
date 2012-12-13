@@ -7,7 +7,7 @@
 
 WA Delegate: OPEN
 Prime Minister: [nation]Mikes cave land[/nation]
-Defence Minister: [nation]Empires of state[/nation]
+Defence Minister: OPEN
 
 [b]Please endorse your WA delegate:[/b] Open
 

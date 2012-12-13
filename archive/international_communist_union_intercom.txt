@@ -13,7 +13,7 @@ has resurrected the region of [region]Soviet Nationalist Army[/region]
 has occupied the region of [region]The Land of Liberty[/region]
 
 [nation]InterCom Occupation Force 2[/nation] 
-has occupied the region of [region]Juniata[/region]
+had occupied the region of [region]Juniata[/region] for a period of time
 
 [nation]InterCom Occupation Force 1[/nation] 
 has occupied the region of [region]New Confederacy of Sovereign Nations[/region][/b]

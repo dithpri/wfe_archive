@@ -20,6 +20,6 @@ President:[/b] [nation=short]Sheltopolis[/nation]
 [*][color=orange]HIGH[/color] - Serious threat
 [*][color=red]SEVERE[/color] - Gargantuan threat[/List]
 
-[b]Current Level:[/b] [color=green]LOW[/color]
+[b]Current Level:[/b] [color=orange]HIGH[/color]
 [hr][b][u][color=blue]News[/color][/b][/u]
 [color=red]Thanks to Sheltopolis and Kraanei for a good debate[/color]

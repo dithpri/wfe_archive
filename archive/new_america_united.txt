@@ -2,9 +2,7 @@
 
 [region]new america united[/region] the new vision of the American continent that is united in one region and not divided into central america, north or south, where all nations are more than welcome to join.
 
-Nova Am&eacute;rica &eacute; a nova vis&atilde;o do continente americano que se une em uma regi&atilde;o e n&atilde;o dividido em Am&eacute;rica Central, norte ou sul, onde todas as na&ccedil;&otilde;es s&atilde;o mais do que bem-vindos para participar.
-
 Minister for Foreign Affairs: vacant
 Minister of Interior: vacant
 Minister of Defence: vacant
-Recruiter or Recruiters: vacant
+Recruiters: [nation]villa mercedes[/nation] and [nation]new santiago[/nation]

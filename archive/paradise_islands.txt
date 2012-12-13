@@ -2,6 +2,6 @@ A region of Palm Trees, Sunshine, and Forest Tuna.
 
 Nations:
 Founder: [nation]The Island Kingdom[/nation]
-Delegate: [nation]Chrotonia[/nation]
+Founding Member: [nation]Chrotonia[/nation]
 Founding Member: [nation]Dusk Star[/nation]
 Founding Member: [nation]Freebirlandia[/nation]
