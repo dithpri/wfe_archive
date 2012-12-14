@@ -1,5 +1,11 @@
 [u][b]GOVERNMENT OF THE [region=ICELANDIC INTERNATIONAL COMMUNITY][/b][/u]
-[b]Status -[/b] Presidental Control [i](Provisional Emergency Government)[/i]
+[i]State legislature is proposed by the parliamentary body, and then carried to the Vice-President to approval or revision. After a maximum of three readings, it is then carried to the Vice-President to be passed upwards to be cleared by the President.[/i] 
 
-Regional government has temporarily been placed under review by [nation=Ejyafjallajokull], acting President of the [region=Icelandic International Community] under an Emergency Provisional Government. All queries and status updates can be addressed to the President only. A refounding timetable is underway, and it is hoped that all prominent former member nations will be online by 07/12/12. (The Kirkjub&aelig;jarklaustur Stock Exchange and the International Icelandic Kr&oacute;na have been emergency-married to the Swiss Franc in the meantime.) We thank you for your consideration in this matter.
+[b]President[/b] = [nation=Ejyafjallajokull]
+[b]Vice-President[/b] = [nation=Arnarsonland]
 
+[u][b]Parliamentary Body[/b][/u]
+[nation=Vestmannaeyjar and Surtsey]
+[nation=Vatnajokull]
+[nation=Gullfoss]
+[nation=Snaefellsjokull and Northvesturkjordaemi]

@@ -11,7 +11,7 @@ Jomhuri-ye Eslami-ye Iran
 President: [nation=short]Pav Parande[/nation]
 Vice President:
 Minister of Defense and Intelligence: [nation=short]Iranian Lands and Provinces[/nation]
-Minister of Justice:
+Minister of Justice: [nation=short]New Iranians[/nation]
 Minister of International Affairs: [nation=short]Germano-Iranian Land[/nation]
 Minister of Recruitment: [nation=short]New Iranians[/nation]
 Ambassador to The World Assembly:

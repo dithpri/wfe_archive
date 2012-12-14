@@ -1,10 +1,14 @@
 [b][color=red]GREETINGS COMRADES!
 
-The International Communist Union ( InterCom ) is a collective of socialist and communist nations; which seek peace and prosperity through solidarity and shared strength which comes from national unity[/color]
+The InterCom is a collective of socialist and communist nations; 
+which seek peace and prosperity through solidarity and unity.[/color]
 
-[nation]Sovereign Socialist States[/nation] is the Secretary-General of the InterCom Secretariat
+[nation]Sovereign Socialist States[/nation] is the Sec-Gen of the InterCom Secretariat
 
 *
+
+[nation]InterCom Occupation Force 5[/nation]
+has resurrected the region of [region]Rapo Islands[/region]
 
 [nation]InterCom Occupation Force 4[/nation]
 has resurrected the region of [region]Soviet Nationalist Army[/region]
@@ -13,7 +17,7 @@ has resurrected the region of [region]Soviet Nationalist Army[/region]
 has occupied the region of [region]The Land of Liberty[/region]
 
 [nation]InterCom Occupation Force 2[/nation] 
-had occupied the region of [region]Juniata[/region] for a period of time
+has occupied the region of [region]Barren Wastelands[/region]
 
 [nation]InterCom Occupation Force 1[/nation] 
 has occupied the region of [region]New Confederacy of Sovereign Nations[/region][/b]

@@ -2,11 +2,11 @@
 
 [color=orange]Political Positions[/color]
 
-[color=black]Delegate[/color]:Vacant
+[color=teal]Delegate[/color]:Vacant
 [color=maroon]Head Of Immigrations[/color]:Vacant
-[color=black]Minister Of Defense[/color]:[nation]new queensberry 2[/nation] (part of UNA)
+[color=teal]Minister Of Defense[/color]:[nation]new queensberry 2[/nation] (part of UNA)
 [color=maroon]Minister Of Foreign Affairs[/color]: Vacant
-[color=black]Coalition General[/color]: Vacant
+[color=teal]Coalition General[/color]: Vacant
 [color=maroon]Head of Industrial Enterprises[/color]: [nation]Phontaus[/nation]
   
 To run for a position simply Tg [nation]Tetritoria[/nation] 

@@ -6,9 +6,9 @@
 
 President : [nation=short]The United States of Schorr[/nation]
 
-Prime Minister: [nation=short]Acquitane[/nation]
+Prime Minister: [nation]Acquitane[/nation]
 
-Minister of Intelligence : [nation=short]Escuro[/nation]
+Minister of Intelligence : [nation]Escuro[/nation]
 
 [b][url=http://forum.nationstates.net/viewtopic.php?p=11834682#p11834682][color=blue]The PARLIAMENT[/color][/url][/b]
 
@@ -18,7 +18,7 @@ Senators : [nation=short]Browera[/nation] &amp;amp; [nation=short]Zebulor[/natio
 
 [b][url=http://forum.nationstates.net/viewtopic.php?p=11834701#p11834701][color=blue]The COURT OF JUSTICE[/color][/url][/b]
 
-Chief Justice : [nation=short]Newasia[/nation]
+Chief Justice : [nation]Newasia[/nation]
 
 Associate Justices : [nation=short]Vendoland[/nation] &amp;amp; [nation=short]Republic of Greater Broatia[/nation]
 
@@ -26,7 +26,7 @@ Associate Justices : [nation=short]Vendoland[/nation] &amp;amp; [nation=short]Re
 
 [b][Url=http://forum.nationstates.net/viewtopic.php?p=12027579#p12027579][color=blue]WORLD ALLIANCE ALLIED FORCES[/color][/url][/b]
 
-Secretary General : [nation=short]New-Zealand[/nation]
+Secretary General : [nation]New-Zealand[/nation]
 
 [hr]
 
