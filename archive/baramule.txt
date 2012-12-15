@@ -1,8 +1,8 @@
-Adaescum: $0 3,500 125pp [color=1E90FF]100i[/color] [color=87CEEB]50[/color]
-New Panti: $0 2,500 125pp [color=1E90FF]100i[/color]  [color=87CEEB]50[/color] Ra
-Teppelin: $0 4,500 125pp [color=1E90FF]100i[/color] [color=87CEEB]50[/color] Ra
-Epimitheus: $3,000 2,000 125pp [color=1E90FF]100i[/color] [color=87CEEB]50[/color] Ra
-Rampana: $0 5,000 125pp [color=1E90FF]100i[/color] [color=87CEEB]50[/color]
+Adaescum: $0 5,250 125pp [color=1E90FF]100i[/color] [color=87CEEB]50[/color]
+New Panti: $0 3,250 125pp [color=1E90FF]100i[/color]  [color=87CEEB]50[/color] Ra
+Teppelin: $4,500 4,500 125pp [color=1E90FF]100i[/color] [color=87CEEB]50[/color] Ra
+Epimitheus: $0 4,500 125pp [color=1E90FF]100i[/color] [color=87CEEB]50[/color] Ra
+Rampana: $0 8,000 125pp [color=1E90FF]100i[/color] [color=87CEEB]50[/color]
 Aquacia: $0 1,000 125pp [color=1E90FF]100i[/color] [color=87CEEB]50[/color] Ra
-Boff the Placeholder: $0 1,000 125pp [color=1E90FF]100i[/color] [color=87CEEB]50[/color]
-Celmarog: $41,000; 1,000; 100pp
+Boff the Placeholder: $1,000 1,000 125pp [color=1E90FF]100i[/color] [color=87CEEB]50[/color]
+Celmarog: $42,000; 1,000; 100pp

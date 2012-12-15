@@ -4,7 +4,7 @@ Vice-President: [nation=short]Skyblock[/nation]
 Presidential Adviser: [nation=short]Rachara[/nation]
 Secretary of Recruitment: [nation=short]GROSS Independency[/nation]
 WA Vice-Delegate: [nation=short]Fairgreen[/nation]
-Intelligence Committee: [nation=short]Orgiana[/nation] (Head)
+Intelligence Group: [nation=short]Orgiana[/nation] (Head)
 Council Chairman: [nation=short]Zetting Miran[/nation]
 [i]Ambassadorial Committee:[/i] [nation=short]Jhinara[/nation] (Head) &amp;amp; [nation=short]Mastana[/nation]
 [i]A Justice Committee will consist of the President, WA Delegate, &amp;amp; Founder.[/i]

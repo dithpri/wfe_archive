@@ -8,9 +8,9 @@ Lord Speaker:[color=red] [nation=shortname]ShenGuo[/nation][/color]
 [hr]
 
 [b]Ministerial Departments (To be elected by the Prime Minister)[/b]
-Minister of Defence:[color=red] [nation=shortname]Colonial Britannia[/nation][/color]
-Minister of Internal Development: [color=red] [nation=shortname]ShenGuo[/nation][/color]
-Minister of International Development:[color=red] [nation=shortname]Republic of SAS[/nation][/color]
+Minister of Defence: [nation=shortname]Colonial Britannia[/nation]
+Minister of Internal Development: [nation=shortname]West Frissia[/nation]
+Minister of International Development: [nation=shortname]Republic of SAS[/nation]
 
 [hr]
 
@@ -30,4 +30,4 @@ Please endorse [nation=shortname]Pacific Arms[/nation]
 Crowns (C) available: [color=red]Pending Legislation[/color] - [b]Aid given:[/b] [color=blue]NIL[/color]
 [hr]
 
-[url=http://commonwealthofkings.africamotion.net]Regional Forum[/url] [url=http://commonwealthofkings.africamotion.net/t13-regional-map]Regional Map[/url] [url=http://us5.chatzy.com/33155990728991]Regional Chat Room[/url] [url=http://tracker.conquestofabsolution.com/region=the_commonwealth_of_kings]Nation Tracker[/url] [url=https://docs.google.com/spreadsheet/embeddedform?formkey=dGVhNzdEUjJ2VWpHT0dsOGhPcW9SZnc6MQ]Regional Embassy Application Form[/url]
+[url=http://commonwealthofkings.africamotion.net]Regional Forum[/url] [url=http://commonwealthofkings.africamotion.net/t13-regional-map]Regional Map[/url] [url=http://us5.chatzy.com/33155990728991]Regional Chat Room[/url] [url=http://commonwealthofkings.africamotion.net/f9-passed-legislation]Passed Laws[/url] [url=https://docs.google.com/spreadsheet/embeddedform?formkey=dGVhNzdEUjJ2VWpHT0dsOGhPcW9SZnc6MQ]Regional Embassy Application Form[/url]

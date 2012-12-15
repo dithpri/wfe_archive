@@ -8,3 +8,18 @@ GUM[Greiland United Marines]
 GRAF[Greiland royal air force]
 GWCS[Greiland Water Craft Skuad]
 Our Allies[Region]10000 ISLANDS[/Region]
+[color=red]Central Greiland Power[/color]
+-[nation]Grezee[/nation]
+-[nation]Greitralia[/nation]
+-[nation]Grekarine[/nation]
+[color=yellow]Left Wing Power[/color]
+-[nation]United Greiland[/nation]
+-[nation]United Greiland Defence[/nation]
+-[nation]East United Greiland[/nation]
+[color=blue]The Outer Power[/color]
+-[nation]Greinasia[/nation]
+-[nation]Greinemburg[/nation]
+-[nation]greimany[/nation]
+
+
+

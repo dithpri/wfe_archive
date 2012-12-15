@@ -1,8 +1,8 @@
 When war comes to us, war goes back with them.
 there going to be things added to this region like a president vice president and a general.
 
-President()
-Vice President()
-Gerenral()
+President(Paleocacher)
+Vice President(Metal Root ball island)
+Gerenral(Madurapura)
 
 copy and paste this http://www.thewarriorsong.com/lyrics.html the one in the middle is are theme song for TMA 

@@ -4,7 +4,7 @@ All endorse the Regent to help secure our region!
 
 [b][color=teal]Imperial Regent[/color] = [nation]Virtus Dinami[/nation][/b]
 
-[color=teal]Imperial Marshal[/color] = N/A
+[color=teal]Imperial Marshal[/color] = [nation]Doppio Giudici[/nation]
 [color=teal]Imperial Senator[/color] = N/A
 [color=teal]Imperial Chancellor[/color] = [nation]Barnstorvia[/nation]
 [color=teal]Imperial Steward[/color]= N/A

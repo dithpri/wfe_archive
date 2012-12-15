@@ -1,8 +1,22 @@
-[b]Gargantuan Province of the Imperial Verdanian Empire[/b]
+Temporary Government
 
-Caesar [nation]virgo[/nation]
+[u][b]Executive Branch[/b][/u]
+Office of the President
+President: [nation=short+noflag]Reagan Island[/nation]
+Vice President: [nation=short+noflag]Hoytenstan[/nation]
 
-Provincial Governor [nation]reagan island[/nation]
+[u][b]Legislative Branch[/b][/u]
+House of Representatives
+Speaker: [nation=short+noflag]Rhemaland[/nation]
+Representative: [nation=short+noflag]Confederacy of gilgehad[/nation]
+Representative: [nation=short+noflag]United Federation of Canada[/nation]
+Representative: [nation=short+noflag]Archangel Magistrate[/nation]
+Representative: [color=green]To Be Appointed[/color]
 
-Gargantuan is now a province of the Verdanian Empire. The seat of the Empire is located in [region]Verdania[/region]. If you wish Democracy and Freedom then relocate to [region]Verdania[/region] where you will become an Imperial Citizen with full civil/voting rights among other benefits. Otherwise you may remain here and be ruled by the Provincial Governor (Delegate) with an Iron Fist. 
+[u][b]Judicial Branch[/b][/u]
+Department of Justice
+Chief Justice: [nation=short+noflag]Branceonia[/nation]
+Justice: [color=green]To Be Appointed[/color]
+Justice: [color=green]To Be Appointed[/color]
 
+[url=http://www.gargantuanregion.webs.com]Click here to visit the Gargantuan Website![/url]
