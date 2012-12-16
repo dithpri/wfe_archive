@@ -1,11 +1,16 @@
-[color=green][i][b]Welcome to The Grand Union of Empires![/b][/i][/color]
-[color=orange][i][b]Sovereignty &#149; Power &#149; Loyalty[/b][/i][/color]
-[color=blue][i][b]This is the fourth GUE region, learn by your mistakes![/b][/i][/color][hr][color=red][i][b]Regional Threat Level 1: Peaceful[/b][/i][/color]
-[b]Regional Threat Level 2: Invading others[/b]
-[b]Regional Threat Level 3: War[/b]
-[b]Regional Threat Level 4: Being Invaded[/b][hr][b][i]Regional Government[/i][/b]
-[color=blue][b]President[/b][/color]: [nation]Emnia[/nation]
-[color=blue][b]Vice President[/b][/color]: [nation]Bari[/nation]
-[color=blue][b]Sec. of Domestic Affairs[/b][/color]: [nation]New Roman Empire[/nation]
-[color=blue][b]Sec. of Foreign Affairs[/b][/color]: [nation]Leikistan[/nation] 
-[b][url=https://sites.google.com/a/gcspartans.net/gue/]Government Documents[/url][/b][hr][color=red][i][b]Elections are held on Jan. 20th[/b][/i][/color][hr][b][color=maroon]If it is possibly possible, join the WA![/b][/color]
+[b][color=green][i]Welcome to The Grand Union of Empires![/i][/color]
+[color=orange][i]Sovereignty &#149; Power &#149; Loyalty[/i][/color]
+[color=grey][i]This is the fourth GUE region, learn by your mistakes![/i]
+[/color][hr][u][i]1st Regional Government: Emnian (Ravonic) Administration[/i][/u]
+[color=blue]President[/color]: [nation=short]Emnia[/nation]
+[color=blue]Vice President[/color]: [nation=short]Bari[/nation]
+[color=blue]Sec. of Domestic Affairs[/color]: [nation=short]New Roman Empire[/nation]
+[color=blue]Sec. of Foreign Affairs[/color]: [nation=short]Leikistan[/nation] 
+[url=https://sites.google.com/a/gcspartans.net/gue/]Government Documents[/url][hr][color=red][i]Regional Threat Level 1: Peaceful[/i][/color]
+Regional Threat Level 2: Invading others
+Regional Threat Level 3: War
+Regional Threat Level 4: Being Invaded[hr][color=maroon]Regional News: 
+&#149; Elections scheduled for Jan. 20th
+&#149; We are currently forming government
+&#149; All nations have to recruit 
+&#149; Join the WA and endorse the Delegate[/color][/b]

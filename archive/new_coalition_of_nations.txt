@@ -2,7 +2,7 @@
 [hr][color=red]MINISTRIES OF GOVERNMENT[/color]
 First Minister: [nation]Oceanuz[/nation]
 Speaker: [nation]Albeland[/nation]
-Foreign Affairs: VACANT
+Foreign Affairs: [nation]Mare Solis[/nation]
 - Secretary Ambassador: [nation]Briannia[/nation]
 Regional Affairs: [nation]Nedea[/nation]
 - Secretary of Recruitment: [nation]Ivstinian[/nation]

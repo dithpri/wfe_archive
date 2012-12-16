@@ -1,7 +1,7 @@
-[b]Regional Government:[/b]
+[b]Regional Council:[/b]
 
 [i]Regional Leader:[/i] [nation=short]Jacksistan[/nation]
-[i]Regional Vice-Leader:[/i] [nation=short]Byzantine2[/nation]
+[i]Regional Vice-Leader:[/i] [nation=short]Imperial-Empire[/nation]
 [i]Regional Minister of Internal Affairs:[/i] [nation=short]Stevesrael[/nation]
 [i]Regional Minister of the Treasury:[/i] [nation=short]Elvendire[/nation]
 [i]Alliance of Nations Representative to the UKA:[/i] [nation=short]Jacksistan[/nation]

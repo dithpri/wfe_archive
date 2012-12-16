@@ -1,6 +1,9 @@
 [b]Welcome to Majkin![/b]
 [*][i]Majkin is reclassified as &amp;#39;[color=purple]Medium[/color]&amp;#39;[/i]
 
+[*][nation]Buten[/nation] welcomes:
+[nation]Bears Dictatorial Republic[/nation]
+
 [*]After recent elections, these nations are presented with the following responsibilities in Majkin:
 
 [nation]Sort of Angry People[/nation] = [b]Dean of Science[/b]
@@ -8,12 +11,6 @@
 [nation]Rosaecke[/nation] = [b]Officer of Education[/b]
 [nation]Peoples Republic of Ornate Elephant[/nation] = [b]Master Chief of Transport[/b]
 [nation]Polingtonville[/nation] = [b]Governor of Health[/b]
-
-[*][nation]Buten[/nation] welcomes:
-
-[nation]My despotistic nation[/nation]
-[nation]Eddam1995[/nation]
-[nation]Kilernazi[/nation]
 
 [color=orange][b]Regional Message Board Topic:[/b][/color]
 n/a

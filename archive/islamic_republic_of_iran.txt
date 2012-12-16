@@ -9,15 +9,17 @@
 
 [color=brown]Acting President: [nation=short]Ognjen Ahmadinejad II[/nation] ([nation=short]Ognjen Ahmadinejad[/nation])[/color]
 
-[color=brown]Vice President: [nation=short]Western Arab Empire[/nation]
+[color=brown]Vice President: [nation=short]Western Arab Empire[/nation][/color]
 
-Minister of Intelligence and National Security: [nation=short]The Free State of Bavaria[/nation]
+[u]Ministers[/u]
+
+[color=brown]Minister of Intelligence and National Security: [nation=short]The Free State of Bavaria[/nation]
 
 Minister of Foreign Affairs: [nation=short]Ahmedistan[/nation]
 
-Minister of Defense and Internal Affairs: Major general [nation=short]Amenhotep IV[/nation]
+Minister of Defense and Internal Affairs: Major general [nation=short]Amenhotep IV[/nation][/color][/b]
 
-[/color][/b]
+
  
 
 
