@@ -16,9 +16,9 @@ has resurrected the region of [region]Soviet Nationalist Army[/region]
 has occupied the region of [region]The Land of Liberty[/region]
 
 [nation]InterCom Occupation Force 2[/nation] 
-has occupied the region of [region]Barren Wastelands[/region]
+administrates the region of [region]Soviet Panama Canal Zone[/region]
 
 [nation]InterCom Occupation Force 1[/nation] 
-has occupied the region of [region]New Confederacy of Sovereign Nations[/region]
+administrates the region of [region]Soviet Suez Canal Zone[/region]
 
 [/b]
