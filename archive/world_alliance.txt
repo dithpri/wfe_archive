@@ -1,14 +1,26 @@
-[hr][i]
+[hr][hr][i]
 
-[b][color=blue]WORLD ALLIANCE DEBATES[/color][/b]
+[b][url=http://forum.nationstates.net/viewtopic.php?f=23&amp;amp;t=202651&amp;amp;sid=64b6517860484d23b570f26908714d16][color=blue]WORLD ALLIANCE EVENTS[/color][/url][/b]
 
-Topic : [url=http://forum.nationstates.net/viewtopic.php?p=12081489#p12081489]Shoz Peace Conference[/url]
+[url=http://forum.nationstates.net/viewtopic.php?f=25&amp;amp;t=208621]The Bar[/url]
 
-[hr]
+[url=http://forum.nationstates.net/viewtopic.php?p=12094504#p12094504]The Regional Map[/url]
 
-[b][color=blue]WORLD ALLIANCE GOVERNMENT[/color][/b]
+[url=http://forum.nationstates.net/viewtopic.php?f=23&amp;amp;t=202651&amp;amp;sid=64b6517860484d23b570f26908714d16]The News Network[/url]
 
-[b][url=http://forum.nationstates.net/viewtopic.php?p=11834662#p11834662][color=blue]The COUNCIL[/color][/url][/b]
+[url=http://forum.nationstates.net/viewtopic.php?p=11839292#p11839292]The Regional Summit[/url]
+
+[url=http://forum.nationstates.net/viewtopic.php?p=11909051&amp;amp;sid=73df3a395434041d6f1597611264e22e#p11909051]The Regional Archives[/url]
+
+[url=http://forum.nationstates.net/viewtopic.php?p=12081489#p12081489]The Peace Conference[/url]
+
+[url=http://tracker.conquestofabsolution.com/region=world_alliance]The Statistics Tracker[/url]
+
+[hr][hr]
+
+[b][url=http://forum.nationstates.net/viewtopic.php?p=11839292#p11839292][color=blue]WORLD ALLIANCE GOVERNMENT[/color][/url][/b]
+
+[b][url=http://forum.nationstates.net/viewtopic.php?p=11834662#p11834662][color=gold]The COUNCIL[/color][/url][/b]
 
 President : [nation=short]The United States of Schorr[/nation]
 
@@ -16,13 +28,13 @@ Prime Minister:
 
 Minister of Intelligence : [nation]Escuro[/nation]
 
-[b][url=http://forum.nationstates.net/viewtopic.php?p=11834682#p11834682][color=blue]The PARLIAMENT[/color][/url][/b]
+[b][url=http://forum.nationstates.net/viewtopic.php?p=11834682#p11834682][color=gold]The PARLIAMENT[/color][/url][/b]
 
 Speaker : [nation=short]The United States of Reagan[/nation]
 
 Senators : [nation=short]Browera[/nation] &amp;amp; [nation=short]Zebulor[/nation]
 
-[b][url=http://forum.nationstates.net/viewtopic.php?p=11834701#p11834701][color=blue]The COURT OF JUSTICE[/color][/url][/b]
+[b][url=http://forum.nationstates.net/viewtopic.php?p=11834701#p11834701][color=gold]The COURT OF JUSTICE[/color][/url][/b]
 
 Chief Justice : [nation]Newasia[/nation]
 
@@ -34,7 +46,4 @@ Associate Justices : [nation=short]Vendoland[/nation] &amp;amp; [nation=short]Re
 
 Secretary General : [nation]New-Zealand[/nation]
 
-[hr]
-
-[b][color=gold]LINKS :[/color] [url=http://forum.nationstates.net/viewtopic.php?f=25&amp;amp;t=208621][color=gold]Bar[/color][/url][/b] | [b][url=http://forum.nationstates.net/viewtopic.php?p=12027294#p12027294][color=gold]Map[/color][/url][/b] | [b][url=http://forum.nationstates.net/viewtopic.php?f=23&amp;amp;t=202651&amp;amp;sid=64b6517860484d23b570f26908714d16][color=gold]News[/color][/url][/b] | [b][url=http://forum.nationstates.net/viewtopic.php?p=11839292#p11839292][color=gold]Summit[/color][/url][/b] |  [b][url=http://tracker.conquestofabsolution.com/region=world_alliance][color=gold]Tracker[/color][/url][/b] | [b][url=http://forum.nationstates.net/viewtopic.php?p=11909051&amp;amp;sid=73df3a395434041d6f1597611264e22e#p11909051][color=gold]Archives[/color][/url][/b]
-[/i][hr]
+[/i][hr][hr]

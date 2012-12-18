@@ -1,17 +1,15 @@
-[color=navy][b]Pitcairn[/b]
-
-co-region with [region=Western Samoa] and [region=South China Sea]
-A [region=Galapagos] region[/color][color=006480]
-
+[b]Pitcairn[/b]
+[color=006480]
 GALAPAGOS DEPARTMENT OF THE INTERIOR
 Bureau Office of the Census
 CONTROL CENTRE
 
-[b]1[/b] [region=Galapagos]
-[b]2[/b] [region=Western Samoa]
-[b]3[/b] [region=South China Sea]
-[b]4 Pitcairn[/b]: PASSWORDED REGION : SORRY
-[b]5[/b] [region=the Cayman Islands]
-[b]6[/b] [region=Tuscany]
-[b]7[/b] [region=Sverige][/color][color=red]
-[b]RECRUITING PROHIBITED HERE[/b][/color]
+1 [region=Galapagos]
+2 Western Samoa
+3 South China Sea
+4 Pitcairn: PASSWORDED REGION : SORRY
+5 the Cayman Islands
+6 Tuscany
+7 Sverige
+[/color]
+ RECRUITING PROHIBITED HERE
