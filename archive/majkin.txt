@@ -1,10 +1,6 @@
-[b]Welcome to Majkin![/b]
-[*][i]Majkin is reclassified as &amp;#39;[color=purple]Medium[/color]&amp;#39;[/i]
+[color=red][b]Welcome to Majkin![/b][/color]
 
-[*][nation]Buten[/nation] welcomes:
-[nation]Bears Dictatorial Republic[/nation]
-
-[*]After recent elections, these nations are presented with the following responsibilities in Majkin:
+[nation]Buten[/nation] welcomes [nation]Barn Hast[/nation]
 
 [nation]Sort of Angry People[/nation] = [b]Dean of Science[/b]
 [nation]Ohen[/nation] = [b]Premier of Culture[/b]
