@@ -1,7 +1,7 @@
 [b]Regional Council:[/b]
 
-[i]Imperator:[/i] [nation=short]Jacksistan[/nation]
-[i]Potentate:[/i] [nation=short]Imperial-Empire[/nation]
+[i]Imperator (President):[/i] [nation=short]Jacksistan[/nation]
+[i]Potentate (Vice-President):[/i] [nation=short]Imperial-Empire[/nation]
 [i]Minister of Internal Affairs:[/i] [nation=short]Stevesrael[/nation]
 [i]Minister of the Treasury:[/i] [nation=short]Elvendire[/nation]
 [i]Alliance of Nations Representative to the UKA:[/i] [nation=short]Jacksistan[/nation]

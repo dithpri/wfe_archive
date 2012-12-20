@@ -6,4 +6,5 @@ Former nations for posterity:
 
 [list][*][nation]Commendation[/nation]
 [*][nation]WealthOfNations[/nation]
-[*][nation]MULA-Nation[/nation][/list]
+[*][nation]MULA-Nation[/nation]
+[*][nation]Leroc[/nation][/list]

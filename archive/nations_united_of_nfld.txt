@@ -3,3 +3,5 @@ Region for peace, war, and trade
 http://nunfldforums1.freeforums.net/index.cgi?
 -Link to where we can discuss regional policy on war, trade, alliances, and other policy regarding interactions between nations
 
+-Size of your military is figured out by talking how many military points you have, dividing it by four, change that to a decimal, multiply it by your population, and that is the size of your military for example.
+32 military points, 12 million people.  .04 x 12million =480,000 troops in your  military, how you split that up amongst air force, army and navy is your business
