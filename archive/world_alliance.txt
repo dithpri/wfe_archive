@@ -1,14 +1,14 @@
 [hr][hr][i]
 
-[b][url=http://forum.nationstates.net/viewtopic.php?f=23&amp;amp;t=202651&amp;amp;sid=64b6517860484d23b570f26908714d16][color=blue]WORLD ALLIANCE EVENTS[/color][/url][/b]
+[b][color=blue]WORLD ALLIANCE STATISTICS[/color][/url][/b]
 
 [url=http://tracker.conquestofabsolution.com/region=world_alliance]The Tracker[/url]
 
 [hr][hr]
 
-[b][url=http://forum.nationstates.net/viewtopic.php?p=11839292#p11839292][color=blue]WORLD ALLIANCE GOVERNMENT[/color][/url][/b]
+[b][color=blue]WORLD ALLIANCE GOVERNMENT[/color][/b]
 
-[b][url=http://forum.nationstates.net/viewtopic.php?p=11834662#p11834662][color=gold]The COUNCIL[/color][/url][/b]
+[b][color=gold]The COUNCIL[/color][/b]
 
 President : [nation=short]The United States of Schorr[/nation]
 
@@ -16,13 +16,13 @@ Prime Minister:
 
 Minister of Intelligence : [nation]Escuro[/nation]
 
-[b][url=http://forum.nationstates.net/viewtopic.php?p=11834682#p11834682][color=gold]The PARLIAMENT[/color][/url][/b]
+[b][color=gold]The PARLIAMENT[/color][/b]
 
 Speaker : [nation=short]The United States of Reagan[/nation]
 
 Senators : [nation=short]Browera[/nation] &amp;amp; [nation=short]Zebulor[/nation]
 
-[b][url=http://forum.nationstates.net/viewtopic.php?p=11834701#p11834701][color=gold]The COURT OF JUSTICE[/color][/url][/b]
+[b][color=gold]The COURT OF JUSTICE[/color][/b]
 
 Chief Justice : [nation]Newasia[/nation]
 
@@ -30,7 +30,7 @@ Associate Justices : [nation=short]Vendoland[/nation] &amp;amp; [nation=short]Re
 
 [hr]
 
-[b][Url=http://forum.nationstates.net/viewtopic.php?p=12027579#p12027579][color=blue]WORLD ALLIANCE ALLIED FORCES[/color][/url][/b]
+[b][color=blue]WORLD ALLIANCE ALLIED FORCES[/color][/b]
 
 Secretary General : [nation]New-Zealand[/nation]
 

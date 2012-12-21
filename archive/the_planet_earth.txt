@@ -1,8 +1,10 @@
-Prime Minister: The Socialist Commonwealth of Europe and Asia
-Vice-Minister: The Imperial Federation of Rynatia
-W.A. Delegate: The Incorporated States of Trenton
+Prime Minister: [nation]Europe and Asia[/nation]
+Vice-Minister: [nation]Rynatia[/nation]
+W.A. Delegate: [nation]Trenton[/nation]
 Minister of the Economy: (ELECTION ONGOING)
 Minister of Defence: (ELECTION ONGOING)
 Speaker of the Senate: (ELECTION ONGOING)
+
+Current Election Canidates: [nation]Corporate Republic[/nation], [nation]Eastern Bloc States[/nation]
 
 (UNDER CONSTRUCTION. EXPECT CHANGES)

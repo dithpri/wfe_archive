@@ -1,8 +1,8 @@
-Supreme Leader: The Holy Empire Of Loreckvania
-Vice Leader: The Borderlands Of Northern Bloc States (Election Elligible)
-Treasurer: The Holy Empire Of Loreckvania (Election Elligible)
-Secretary: The Republic Of Capitalist Spring Lake (Election Elligible)
-Foreign Delegate Official: The Republic Of Capitalist Spring Lake (Election Elligible)
-War And Tactics Commander: The Borderlands Of Northern Bloc States (Election Elligible)
+Supreme Leader: [nation]Loreckvania[/nation]
+Vice Leader: [nation]northern Bloc States[/nation] (Election Elligible)
+Treasurer: [nation]Loreckvania[/nation] (Election Elligible)
+Secretary: [nation]Capitalist Spring Lake[/nation] (Election Elligible)
+Foreign Delegate Official: [nation]Capitalist Spring Lake[/nation] (Election Elligible)
+War And Tactics Commander: [nation]Northern Bloc States[/nation] (Election Elligible)
 U.N. Delegate: Unknown (Election Elligible)
 World Assembly Delegate: None

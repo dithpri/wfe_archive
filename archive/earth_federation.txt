@@ -6,9 +6,9 @@
 
 [b][color=lightgreen]Lowest GDP Per Capita:[/color][/b] [nation=short]Nova Africa[/nation] [ $81.45 ]
 
-[b][color=lightgreen]Highest Average Employee Salary: [/color][/b][nation=short]Greater Neo Germany[/nation]  [ $77,098.64 ]
+[b][color=lightgreen]Highest Average Employee Salary:[/color][/b][nation=short]Greater Neo Germany[/nation]  [ $89,115.52 ]
 
-[b][color=lightgreen]Lowest Average Employee Salary: [/color][/b] [nation=short]Nova Africa[/nation] [ $109.56 ]
+[b][color=lightgreen]Lowest Average Employee Salary: [/color][/b] [nation=short]Nova Africa[/nation] [ $109.50 ]
 
 [b][color=lightgreen]Largest Trade Surplus:[/color][/b] [nation=short]The Illuminous Sun[/nation] [color=Springgreen][ $751 billion[/color] ]
 
