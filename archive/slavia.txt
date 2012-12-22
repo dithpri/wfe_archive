@@ -1,12 +1,14 @@
-Welcome to the Regional Factbook of [region]Slavia[/region]!
+[b]Welcome to the mighty region of [region]Slavia[/region]![/b]
 
-Executive Slavia Council:
+Our Government: 
+
+Executive Slavian Council:
 President: [nation]Spexton[/nation]
 Minister of Recruiting: [nation]AntiSwagLand[/nation]
 Minister of Diplomacy: [nation]The North Polish Union[/nation]
 Minister of Internal Affairs: [nation]Slavianka[/nation]
 
-Slavia Council:
+Common Slavia Council:
 Council Member 1: [nation]Nova Bulgaria[/nation]
 Council Member 2: [nation]Crna Gora[/nation]
 Council Member 3: [nation]Novy Slovenska[/nation]

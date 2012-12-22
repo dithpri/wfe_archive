@@ -6,7 +6,7 @@
 [b][u]Chairman of Intelligence[/b][/u]:[nation=short]Wallonia-Brussels[/nation]
 [b][u]Chairman of Foreign Affairs[/b][/u]:[nation=short]Libertas Liber[/nation]
 [b][u]Chairman of Health[/b][/u]:[nation=short]Glaedirsgrad[/nation]
-[b][u]Chairman of Internal Affairs[/b][/u]:[nation=short]Paixao[/nation]
+[b][u]Chairman of Internal Affairs[/b][/u]:[nation=short]Open[/nation]
 
 [Hr]
 
@@ -16,7 +16,9 @@ Endorse [nation=short]Vanhania[/nation] to be our WA Delegate!
 [Hr]
 [b][u][color=red]Announcements![/color][/u][/b]:
 
-[b]Vanhania is having a summit for the nations of Lerodas. See the link below.[/b]
+[b]Elections are here! See the candidates for each position on the forum!
+
+Vanhania is having a summit for the nations of Lerodas. See the link below.[/b]
 
 [url=http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=214413]Summit[/url]
 

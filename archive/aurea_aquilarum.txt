@@ -7,9 +7,8 @@ Head of Foreign Relations: (election)
 Aurean Intelligence and Espionage: (election)
 Head of Internal Affairs: (election)
 Head of Recruiting: (election)
-Congress: (election) I need 5 nations to be in congress!
-Senate: (election) I need 5 nations to be in congress!
-Council: (election) I need 3 nations to be in congress!
+Senate: (election) I need 5 nations to be in Senate!
+Congress: (election) I need 10 nations to be in congress!
 
 Aurea Aquilarum:Regions Anthem: (election)
 

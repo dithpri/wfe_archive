@@ -5,16 +5,16 @@ Vice President: [nation=short+noflag]Hoytenstan[/nation]
 
 [u][b]Legislative Branch[/b][/u]
 House of Representatives
-Speaker: [nation=short+noflag]Rhemaland[/nation]
+Representative: [nation=short+noflag]Rhemaland[/nation]
 Representative: [nation=short+noflag]Confederacy of gilgehad[/nation]
-Representative: [nation=short+noflag]United Federation of Canada[/nation]
-Representative: [nation=short+noflag]Archangel Magistrate[/nation]
-Representative: [color=green]To Be Appointed[/color]
+Representative: [nation=short+noflag]Vispariti[/nation]
+Representative: [nation=short+noflag]Wellingtonburg[/nation]
+Representative: [nation=short+noflag]Falkos[/nation]
 
 [u][b]Judicial Branch[/b][/u]
 Department of Justice
 Chief Justice: [nation=short+noflag]Branceonia[/nation]
-Justice: [color=green]To Be Appointed[/color]
-Justice: [color=green]To Be Appointed[/color]
+Justice: [nation=short+noflag]Papua New Craig[/nation]
+Justice: [nation=short+noflag]United Federation of Canada[/nation]
 
 [url=http://www.gargantuanregion.webs.com]Click here to visit the Gargantuan Website![/url]
