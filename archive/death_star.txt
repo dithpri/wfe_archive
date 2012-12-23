@@ -1,9 +1,13 @@
-[b]The [color=red]Death Star[/color] is currently the [i]official space station[/i] of [region=New York]. Citizens of the [color=red]Death Star[/color] have all the same rights and privileges as citizens of [region=New York]. [color=red]Join today[/color]![/b]
+[color=darkblue][b]Welcome to the Imperial Death Star,[/b][/color][color=blue] The Galaxies best Space Bar! Occasionally destroying planets for fun![/color]
+[b]The [color=red]Death Star[/color] is currently the [i]official space station[/i] of [region=New York]. Citizens of the [color=red]Death Star[/color] share the same rights and privileges as citizens of [region=New York]. [/b]
+[color=red]Join the[/color] [b]dark side[/b] [color=red]today[/color]!
+[url=http://nsny.proboards.com/]NY Forum[/url]
 
 [b][u]Colonial Government:[/u][/b]
-[b]Governor:[/b][nation=short]Commander Samir[/nation]
-[b]Vice Governor:[/b][nation=short]Gordnesia[/nation]
-[b]Minister of Information:[/b][nation=short]Darth Vader-[/nation]
+[b]Governor:[/b] [nation=short]Commander Samir[/nation]
+[b]Vice Governor:[/b] [nation=short]Gordnesia[/nation]
+[b]Minister of Information:[/b] [nation=short]Darth Vader-[/nation]
+[b]Minister of Immigration:[/b] OPEN
 
 [b][u]Important News:[/u][/b]
 [color=red]New York Assembly considers building space flood protection infrastructure on Death Star![/color]

@@ -1,1 +1,24 @@
-[b]Protegido por [region]Brasil[/region].[/b]
+[u][b]Prov&iacute;ncias:[/b][/u]
+[region]Chile[/region]
+Conquistado na ascens&atilde;o de [b][nation=short]Kapkav[/nation] III[/b]
+
+[region]Taiwan[/region]
+Removido das m&atilde;os chinesas pelas tropas regionais
+
+[region]Status Sueciae[/region]
+Reino conquistado &agrave; for&ccedil;a por uma invas&atilde;o massiva Brasileira.
+
+[region]Brugaria[/region]
+Uma das maiores regi&otilde;es da hist&oacute;ria do NS, conquistada pelo [region]Brasil[/region] numa opera&ccedil;&atilde;o de nossa intell.
+
+[region]British Antarctic Territory[/region]
+Conquistada de [region]Empires of Earth[/region]
+
+[region]Sahara[/region]
+Ap&oacute;s contendas com regi&otilde;es africanas, o Imp&eacute;rio se reafirmou dominando esta regi&atilde;o.
+
+[hr]
+[u]
+Estados Federais:[/u]
+[i]Ir em &amp;quot;[region]Distrito Federal[/region]&amp;quot;
+[/i]
