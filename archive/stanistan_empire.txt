@@ -1,12 +1,11 @@
-[b]Divine Stanistan[/b] is ruled by the central authority of the Confederacy of Glorious Albertistan. Long Live the People&amp;#39;s of Stanistan!
+[b][region]Divine Stanistan[/region][/b] is ruled by the central authority of [nation]Glorious Albertistan[/nation]. Long Live the People&amp;#39;s of Stanistan!
 
 [b]Administration[/b]
-Imperial Consul: [b]The Confederacy of Glorious Albertistan[/b]
-Vice Imperial Consul: [b]The People&amp;#39;s Republic of Zuloo[/b]
-United Imperial Judicial Council:[b]Confederacy of Glorious Albertistan[/b] 
+Imperial Consul: [nation]Glorious Albertistan[/nation]
+Vice Imperial Consul: [nation]Zuloo[/nation]
+Imperial Judicial Counsul:[nation]Glorious Albertistan[/nation] 
+Public Affairs Board: [nation]Glorious Albertistan[/nation]
+WA Delegate: [nation]Zuloo[/nation]
 
-[b]Imperial Authorities[/b]
-United Imperial Military Chairman: [b]The Confederacy of Glorious Albertistan[/b]
-Public Affairs Board: [b]The Confederacy of Glorious Albertistan[/b]
-WA Delegate: [b]The People&amp;#39;s Republic of Zuloo[/b]
+[b]Constitution[/b]: TBA
  

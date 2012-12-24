@@ -1,0 +1,10 @@
+[b][u][color=Red]Overlord[/color][/b][/u]: [nation]Lestero[/nation]
+[b][color=Blue]Region President[/b][/color]: UNELECTED
+[b][color=Green]Region Vice President[/color][/b]: UNELECTED
+[b][color=DarkRed]Region Secretary[/color][/b]: UNELECTED
+[b][color=DarkRed]Region Treasurer[/color][/b]: UNELECTED
+[b][color=DarkRed]Region Administrator[/color][/b]: UNELECTED
+[color=DarkRed]Vice Admininistrator[/color]: UNELECTED
+[b][i][color=Red]Region General[/color][/i][/b]: UNELECTED
+[i][color=Red]General[/color][/i]: UNELECTED
+[i][color=Red]Second Command General[/color][/i]: UNELECTED

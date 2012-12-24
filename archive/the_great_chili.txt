@@ -1,12 +1,12 @@
 This is a land of fledgling nations. As they are sheltered under the watchful eyes of  the Chilean Keepers, they are safe to expand to their full potential. 
 
 The Chilean Keepers are as follows:
-[nation]Senoheir[/nation]: The Bastion
-[nation]Wabacha[/nation]: The Coordinator
-[nation]The Sangheili Separatist[/nation]: The Eldest
-[nation]Scamvidia[/nation]: The Peace-Keeper
-[nation]TheCreed[/nation]: The Informer
-Any nation may be put up for the role of [b]Chilean Keeper[/b], and shall be judged by the majority vote.
+[nation]Senoheir[/nation]: [i]The Bastion[/i]
+[nation]Wabacha[/nation]: [i]The Coordinator[/i]
+[nation]The Sangheili Separatist[/nation]: [i]The Eldest[/i]
+[nation]Scamvidia[/nation]: [i]The Peace-Keeper[/i]
+[nation]TheCreed[/nation]: [i]The Informer[/i]
+Any nation may be put up for the role of [i]Chilean Keeper[/i], and shall be judged by the majority vote.
 
 These are the various dances and emotes that are used within the Great Chili
 

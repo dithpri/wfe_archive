@@ -1,8 +1,8 @@
 We are a group a nations, bound by democracy, freedom, and a past that still haunts us. Yet maybe we can arise from the destruction.
 
-First Minister:
-Deputy First Minister:
-Culture Minister:
-Security Minister:
-Justice Minister:
-Economic Minister:
+[b]First Minister:[/b][nation]Northern-Peoples[/nation]
+[b]Deputy First Minister:[/b][nation]ImperialFederation[/nation]
+Culture Minister:[nation]Vacant[/nation]
+Security Minister:[nation]Warrior Class[/nation]
+Justice Minister:[nation]Vacant[/nation]
+Economic Minister:[nation]NewRepublic[/nation]
