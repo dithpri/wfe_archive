@@ -1,7 +1,7 @@
 Welcome to [region]Aurea Aquilarum[/region]
 
-President: (election)
-Vice President: (election)
+President: [nation]hothaba[/nation]
+Vice President: [nation]hofe[/nation]
 Head of Armed Forces,(WA Delegate): (election)
 Head of Foreign Relations: (election)
 Aurean Intelligence and Espionage: (election)

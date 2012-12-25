@@ -2,7 +2,7 @@ Prime Minister: [nation]Europe and Asia[/nation]
 Vice-Minister: [nation]Rynatia[/nation]
 W.A. Delegate: [nation]Trenton[/nation]
 Minister of the Economy: (ELECTION ONGOING)
-Minister of Defence: (ELECTION ONGOING)
+Minister of Defence: [nation]Trenton[/nation]
 Speaker of the Senate: (ELECTION ONGOING)
 
 Current Election Canidates: [nation]Corporate Republic[/nation], [nation]Eastern Bloc States[/nation]
