@@ -1,8 +1,8 @@
-[b][color=lightgreen]Largest Economy:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $77.6 trillion ]
+[b][color=lightgreen]Largest Economy:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $78.3 trillion ]
 
 [b][color=lightgreen]Smallest Economy:[/color][/b] [nation=short]Nova Africa[/nation] [ $95.9 billion ]
 
-[b][color=lightgreen]Highest GDP Per Capita:[/color][/b] [nation=short]X1ng[/nation] [ $44,292.28 ]
+[b][color=lightgreen]Highest GDP Per Capita:[/color][/b] [nation=short]X1ng[/nation] [ $44,571.11 ]
 
 [b][color=lightgreen]Lowest GDP Per Capita:[/color][/b] [nation=short]Nova Africa[/nation] [ $81.47 ]
 
@@ -20,7 +20,7 @@
 
 [b][color=lightgreen]Largest Member State:[/color][/b] [nation=short]Obesinia[/nation] [ 1.790 billion ]
 
-[b][color=lightgreen]Smallest Member State:[/color][/b] [nation=short]X1ng[/nation]  [ 1.087 billion ]
+[b][color=lightgreen]Smallest Member State:[/color][/b] [nation=short]X1ng[/nation]  [ 1.093 billion ]
 
 [b][color=lightgreen]Highest Tax Rate:[/color][/b] [nation=short]the illuminous sun[/nation] [ [color=Red]76%[/color] ]
 

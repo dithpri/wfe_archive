@@ -2,9 +2,9 @@
 [hr]
 
 [b]The Council of The Realm[/b]
-Prime Minister:[color=red] Vacant[/color]
+Prime Minister:[color=red] [nation=shortname]ShenGuo[/nation][/color]
 Lord Secretary:[color=red] [nation=shortname]Cooldom[/nation][/color]
-Lord Speaker:[color=red] [nation=shortname]ShenGuo[/nation][/color]
+Lord Speaker:[color=red] Vacant[/color]
 [hr]
 
 [b]Ministerial Departments (To be elected by the Prime Minister)[/b]
@@ -22,7 +22,7 @@ Lord Justice:[color=red] Vacant[/color]
 [hr]
 
 Alert level:[color=green]GREEN[/color]
-Please endorse:
+Please endorse: [nation=shortname]ShenGuo[/nation]
 
 [hr]
 

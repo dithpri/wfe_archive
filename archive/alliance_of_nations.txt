@@ -1,5 +1,5 @@
 [b]Regional Council:[/b]
-
+[color=black]======[/color][color=red]======[/color][color=gold]======[/color]
 [i]Imperator (President):[/i] [nation=short]Jacksistan[/nation]
 [i]Potentate (Vice-President):[/i] [nation=short]Imperial-Empire[/nation]
 [i]Minister of Internal Affairs:[/i] [nation=short]Stevesrael[/nation]
@@ -7,14 +7,14 @@
 [i]Alliance of Nations Representative to the UKA:[/i] [nation=short]Jacksistan[/nation]
 
 [b]Regional Information:[/b]
-
+[color=black]======[/color][color=red]======[/color][color=gold]======[/color]
 [i]Regional Anthem:[/i] [url=http://www.youtube.com/watch?v=4jIB4va_HVo&amp;amp;list=UU0qR_Ep87KLzo5cfZF_9ueg&amp;amp;index=101]Alliance Anthem[/url]
-[i]Regional Motto:[/i] The Strength of the Region Lies in Unity
+[i]Regional Motto:[/i] [b]The Strength of the Region Lies in Unity[/b]
 
 [b]Extension Regions:[/b]
-
+[color=black]======[/color][color=red]======[/color][color=gold]======[/color]
 [region]The United Kingdom Alliance[/region] - [i]Overseer of the UKA:[/i] [nation=short]Jacksistan[/nation]
 
 [b]Allied Regions:[/b]
-
+[color=black]======[/color][color=red]======[/color][color=gold]======[/color]
 [region]The United Kingdom Alliance[/region]
