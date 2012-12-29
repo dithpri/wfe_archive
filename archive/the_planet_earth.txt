@@ -1,9 +1,12 @@
+OFFICIALS:
 Prime Minister: [nation]Europe and Asia[/nation]
 Vice-Minister: [nation]Rynatia[/nation]
 W.A. Delegate: [nation]Trenton[/nation]
-Minister of the Economy: (ELECTION ONGOING)
-Minister of Defence: [nation]Trenton[/nation]
-Speaker of the Senate: (ELECTION ONGOING)
+Secretary of the Economy: (ELECTION ONGOING)
+Secretary of Regional Defence: [nation]Trenton[/nation]
+Declarator of the Regional Senate: (ELECTION ONGOING)
+Foreign Affairs Official: [nation]The Planet Earth Ambassador[/nation]
+Chairman of the Security Committee: ELECTION ONGOING
 
 Current Election Canidates: [nation]Corporate Republic[/nation], [nation]Eastern Bloc States[/nation]
 

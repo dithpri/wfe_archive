@@ -1,34 +1,48 @@
 [hr][hr][i]
 
-[b][url=http://worldalliance.forumc.net/][color=blue]WORLD ALLIANCE GOVERNMENT[/color][/url][/b]
+[b][color=blue]WORLD ALLIANCE GOVERNMENT[/color][/b]
 
-[b][url=http://worldalliance.forumc.net/f2-the-council][color=gold]The COUNCIL[/color][/url][/b]
+[b][color=gold]The COUNCIL[/color][/b]
 
-[url=http://worldalliance.forumc.net/t1-the-president-schorr][color=lightgray]President[/color][/url] : [nation=short]The United States of Schorr[/nation]
+[color=lightgray]President[/color] : [nation=short]The United States of Schorr[/nation]
 
-[url=http://worldalliance.forumc.net/t2-the-prime-minister-vacant][color=lightgray]Prime Minister[/color][/url] : 
+[color=lightgray]Prime Minister[/color] : 
 
-[url=http://worldalliance.forumc.net/t3-the-intelligence-minister-escuro][color=lightgray]Intelligence Minister[/color][/url] : [nation]Escuro[/nation]
+[color=lightgray]Intelligence Minister[/color] : [nation]Escuro[/nation]
 
-[b][url=http://worldalliance.forumc.net/f4-the-parliament][color=gold]The PARLIAMENT[/color][/url][/b]
+[b][color=gold]The PARLIAMENT[/color][/b]
 
-[url=http://worldalliance.forumc.net/t5-the-speaker-reagan][color=lightgray]Speaker[/color][/url] : [nation=short]The United States of Reagan[/nation]
+[color=lightgray]Speaker[/color] : [nation=short]The United States of Reagan[/nation]
 
-[url=http://worldalliance.forumc.net/t8-the-wa-parliament-s-proposal-session][color=lightgray]Senators[/color][/url] : [nation=short]Browera[/nation] &amp;amp; [nation=short]Zebulor[/nation]
+[color=lightgray]Senators[/color] : [nation=short]Browera[/nation] &amp;amp; [nation=short]Zebulor[/nation]
 
-[b][url=http://worldalliance.forumc.net/f5-the-court-of-justice][color=gold]The COURT OF JUSTICE[/color][/url][/b]
+[b][color=gold]The COURT OF JUSTICE[/color][/b]
 
-[url=http://worldalliance.forumc.net/t10-the-chief-justice-newasia][color=lightgray]Chief Justice[/color][/url] : [nation]Newasia[/nation]
+[color=lightgray]Chief Justice[/color] : [nation]Newasia[/nation]
 
-[url=http://worldalliance.forumc.net/t18-the-court-of-justice-s-trial-session][color=lightgray]Associate Justices[/color][/url] : [nation=short]Vendoland[/nation] &amp;amp; [nation=short]Republic of Greater Broatia[/nation]
-
-[hr]
-
-[b][url=http://worldalliance.forumc.net/f16-the-allied-forces][color=blue]WORLD ALLIANCE ALLIED FORCES[/color][/url][/b]
-
-[url=http://worldalliance.forumc.net/t19-the-secretary-general-new-zealand][color=lightgray]Secretary General[/color][/url] : [nation=short]New-Zealand[/nation]
+[color=lightgray]Associate Justices[/color] : [nation=short]Vendoland[/nation] &amp;amp; [nation=short]Republic of Greater Broatia[/nation]
 
 [hr]
-[b][url=http://worldalliance.forumc.net/f3-wa-help][color=orange]LINKS :[/color][/url][/b] [url=http://i46.tinypic.com/30hor54.png]Map[/url] || [url=http://worldalliance.forumc.net/]Forum[/url] || [url=http://tracker.conquestofabsolution.com/region=world_alliance]Tracker[/url] 
+
+[b][color=blue]WORLD ALLIANCE ALLIED FORCES[/color][/b]
+
+[color=lightgray]Secretary General[/color] : [nation=short]New-Zealand[/nation]
+
+[hr][hr]
+
+[b][color=orange]WHAT&amp;#39;S WITH WORLD ALLIANCE TODAY?[/color][/b]
+
+[url=http://i46.tinypic.com/30hor54.png]Claim your land on the regional map![/url]
+
+[url=http://worldalliance.forumc.net/]Register your nation on the regional forum![/url]
+
+[url=http://tracker.conquestofabsolution.com/region=world_alliance]Find out your nation&amp;#39;s statistics using the tracker![/url]
+
+
+[url=http://worldalliance.forumc.net/t38-world-headlines][color=red]Great Eurussia showcases neoliberalism![/color][/url]
+
+[url=http://worldalliance.forumc.net/][color=red]Never miss any regional events happening at once![/color][/url]
+
+[url=http://worldalliance.forumc.net/t28-broton-conference-on-going][color=red]Greater Broatia hosts the historic Broton Conference![/color][/url]
 
 [/i][hr][hr]

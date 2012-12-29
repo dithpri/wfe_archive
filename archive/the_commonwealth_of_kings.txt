@@ -1,15 +1,15 @@
-[url=http://picosong.com/3Vga]A welcome message[/url] Turn on your speakers! [color=red]puppet nations will be expelled immediately!!![/color]
+[url=http://picosong.com/3Vga]A welcome message[/url] Turn on your speakers! [color=red]Nations that are not registered on the regional forum and are not active will be ejected.[/color]
 [hr]
 
 [b]The Council of The Realm[/b]
 Prime Minister:[color=red] [nation=shortname]ShenGuo[/nation][/color]
 Lord Secretary:[color=red] [nation=shortname]Cooldom[/nation][/color]
-Lord Speaker:[color=red] Vacant[/color]
+Lord Speaker:[color=red] [nation=shortname]Ceased[/nation][/color]
 [hr]
 
 [b]Ministerial Departments (To be elected by the Prime Minister)[/b]
 Minister of Defence: [nation=shortname]Colonial Britannia[/nation]
-Minister of Internal Development: [nation=shortname]West Frissia[/nation]
+Minister of Internal Development: [nation=shortname]Pacific Arms[/nation]
 Minister of International Development: [nation=shortname]Republic of SAS[/nation]
 
 [hr]
