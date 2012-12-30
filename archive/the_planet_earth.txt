@@ -1,12 +1,12 @@
-OFFICIALS:
-Prime Minister: [nation]Europe and Asia[/nation]
-Vice-Minister: [nation]Rynatia[/nation]
-W.A. Delegate: [nation]Trenton[/nation]
-Secretary of the Economy: (ELECTION ONGOING)
-Secretary of Regional Defence: [nation]Trenton[/nation]
-Declarator of the Regional Senate: (ELECTION ONGOING)
-Foreign Affairs Official: [nation]The Planet Earth Ambassador[/nation]
-Chairman of the Security Committee: ELECTION ONGOING
+[color=red]OFFICIALS[/color]:
+[b]Prime Minister[/b]: [nation]Europe and Asia[/nation]
+[b]Vice-Minister[/b]: [nation]Rynatia[/nation]
+[b]W.A. Delegate[/b]: [nation]Trenton[/nation]
+[b]Secretary of the Economy[/b]: [nation]Corporate Republic[/nation]
+[b]Secretary of Regional Defense[/b]: [nation]Trenton[/nation]
+[b]Declarator of the Regional Senate[/b]: (ELECTION ONGOING)
+[b]Foreign Affairs Official[/b]: [nation]The Planet Earth Ambassador[/nation]
+[b]Chairman of the Security Committee[/b]: ELECTION ONGOING
 
 Current Election Canidates: [nation]Corporate Republic[/nation], [nation]Eastern Bloc States[/nation]
 
