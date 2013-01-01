@@ -1,6 +1,8 @@
-[u][b]Members:[/b][/u] ( [color=blue][b]|[/b][/color] [color=green]Superpowers[/color] [color=blue][b]&amp;gt;[/b][/color] [color=green]Their colonies[/color] )
-[b][color=blue]|[/color][/b] [nation]Skurmany[/nation] [b][color=blue]&amp;gt;[/color][/b] + [nation]South Skurmany[/nation] + [nation]Kiozah[/nation] + [color=green](Outer Territories)[/color] + [nation]Vindishla[/nation] + [nation]Samata[/nation] 
-[b][color=blue]|[/color][/b] [nation]Aturia[/nation] [b][color=blue]&amp;gt;[/color][/b] + [nation]Shioque[/nation] + [nation]Saturia[/nation] + [nation]Jalteshara[/nation]
-[b][color=blue]|[/color][/b] [nation]Monrassa[/nation] [b][color=blue]&amp;gt;[/color][/b] + [nation]Gainpo[/nation] + [nation]Bahungahagarriah[/nation]
-[b][color=blue]|[/color][/b] [nation]Ermorium[/nation] [b][color=blue]&amp;gt;[/color][/b] + [nation]Eastern Ermorium[/nation] + [nation]Zathonia[/nation]
-[b][color=blue]|[/color][/b] [nation]Conloah[/nation] [b][color=blue]&amp;gt;[/color][/b] + [nation]Marlomag[/nation]
+[u][b]Members:[/b][/u]  
+[nation]Skurmany[/nation] 
+  - [nation]Aturia[/nation] [color=blue](Regional Districts of Skurmany)[/color]
+[nation]Monrassa[/nation]
+[nation]Ermorium[/nation]
+[nation]Conloah[/nation]
+
+[b][u][i][color=red]Non-Main nations were ejected, only main accounts (Sovereign Nations) are needed.[/color][/i][/u][/b]

@@ -15,7 +15,16 @@ Member Regions:
 
 [region]United NationStates of Mind[/region]
 
+[region]Region of Rogue Regimes[/region]
+
+[region]East Normandy Region[/region]
+
+[region]Ptolemaic Kingdom[/region]
+
 [region]The Warzog Pact[/region]
 
 [region]States of Mind[/region]
+
+[region]Silver Coast[/region]
+
 [/b]

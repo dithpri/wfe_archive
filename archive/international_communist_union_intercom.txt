@@ -13,7 +13,7 @@ has resurrected the region of [region]Rapo Islands[/region]
 has resurrected the region of [region]Soviet Nationalist Army[/region]
 
 [nation]InterCom Occupation Force 3[/nation] 
-has occupied the region of [region]The Land of Liberty[/region]
+Military Governor of the [region]East Normandy Region[/region]
 
 [nation]InterCom Occupation Force 2[/nation] 
 administrates the region of [region]Soviet Panama Canal Zone[/region]
