@@ -6,5 +6,4 @@ Supreme Chancellor: [nation]Atticatia[/nation]
 Vice Chancellor: [nation]Chernobyland[/nation]
 Secretary of Finance: [nation]Mikail[/nation]
 Secretary of Foreign Relations:
-Secretary of Internal Affairs:
 Secretary of Defense:

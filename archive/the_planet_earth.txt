@@ -1,11 +1,10 @@
 [color=red]OFFICIALS[/color]:
 [b]Prime Minister[/b]: [nation]Europe and Asia[/nation]
-[b]Vice-Minister[/b]: [nation]Rynatia[/nation]
+[b]Vice-Minister and Regional Senate Delcarator[/b]: [nation]Rynatia[/nation]
 [b]W.A. Delegate[/b]: [nation]Trenton[/nation]
 [b]Secretary of the Economy[/b]: [nation]Corporate Republic[/nation]
-[b]Secretary of Regional Defense[/b]: [nation]Trenton[/nation]
-[b]Declarator of the Regional Senate[/b]: (ELECTION ONGOING)
+[b]Secretary of Regional Defense and Security Committee Chairman[/b]: [nation]Trenton[/nation]
 [b]Foreign Affairs Official[/b]: [nation]The Planet Earth Ambassador[/nation]
-[b]Chairman of the Security Committee[/b]: ELECTION ONGOING
+[b]Secretary of Technological Develpoment[/b]: [nation]Eastern Bloc States[/nation]
 
-(UNDER CONSTRUCTION. EXPECT CHANGES)
+[color=blue]Native Nations, please note that several positions have been combined and/or dissolved due to lack of nations in our region. When the population increases, the positions shall be made seperate.[/color]

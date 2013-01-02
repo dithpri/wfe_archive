@@ -5,7 +5,7 @@
  [nation=Spartzerium]
  [nation=Mallorea]
  [nation=Jakker]
- [nation=Severisen]
+ [nation=SevHawk]
  [nation=Tramiar][/b]
 [hr]
 
@@ -16,4 +16,6 @@
 [color=#000061]Into the battle rode the following riders:[/color]
 [nation]Gest[/nation]
 [nation]Ragnarok Arisen[/nation]
+
+[color=black]Terminated: 17[/color]
 [/b]

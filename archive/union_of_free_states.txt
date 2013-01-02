@@ -10,7 +10,7 @@ Secretary General :[nation=short]Hercosk[/nation]
 Minister of Internal Affairs:[nation=short]Romanov Dynasty[/nation]
 Minister of Foreign Affairs: [nation=short]North America and the Great Lakes[/nation][hr]
 [u][b]SENATE[/b][/u]:
-Speaker of Senate:[nation=short]Undertaker[/nation]
+Speaker of Senate:vacant
 [hr]
 [b]CHIEF JUSTICE:[/b][nation=short]Wambesia[/nation]
 [hr]

@@ -14,6 +14,8 @@ Mining: 24th
 Agriculture: 13th
 Fishing: 12th
 Auto: 14th
+Insurance: 11th
+IT: 21st
 Cheese: 12th
 Avoided: 66th
 
