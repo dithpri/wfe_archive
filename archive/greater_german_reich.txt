@@ -1,6 +1,4 @@
 [color=black][b][u]Gro&szlig;eutsches Reich - [region]The Greater German Reich[/region][/u][/b][/color]
-[color=black][b]F&uuml;hrer und Reichskanzler:[/b][/color] [color=red][b]Adolf Hitler[/b][/color]
-[color=black][b]Motto:[/b][/color] [color=red]&#132;Ein Volk, ein Reich, ein F&uuml;hrer.&#147;[/color]
 [color=black][b]Nationalhymne:[/b][/color] [color=red]&#132;Das Lied der Deutschen&#147;, &#132;Horst-Wessel-Lied&#147;[/color]
 [color=black][b]Hauptstadt:[/b][/color] [color=red][nation=short]Berlin-Welthauptstadt Germania[/nation][/color]
 [color=black][b]Amtssprache:[/b][/color] [color=red]Deutsch[/color]
@@ -9,4 +7,3 @@
 [color=black][b]Bev&ouml;lkerungsdichte:[/b][/color] [color=red]129,3 pro km&sup2;[/color]
 [color=black][b]W&auml;hrung:[/b][/color] [color=red]Reichsmark[/color]
 [color=black][b]Nationalfeiertag:[/b][/color] [color=red]1. Mai &#150; Tag der nationalen Arbeit[/color]
-[color=black][b]Staatsdoktrin:[/b][/color] [color=red]	Nationalsozialismus[/color]

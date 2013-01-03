@@ -17,8 +17,10 @@
 
 Minister of Foreign Affairs: [nation=short]Ahmedistan[/nation]
 
-Minister of Defense and Internal Affairs: Major general [nation=short]Amenhotep IV[/nation][/color][/b]
+Minister of Defense and Internal Affairs: Major general [nation=short]Amenhotep IV[/nation]
 
+Minister of Culture and Islamic Guidance: [nation]Shiite Iran[/nation]
+[/color][/b]
 
  
 

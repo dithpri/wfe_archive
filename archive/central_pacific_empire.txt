@@ -1,13 +1,13 @@
 [b]Regional Info page[/b]: [b][url=http://www.nswiki.net/index.php?title=Central_Pacific_Empire]Click here[/url][/b]
 
 
-Prime Minister: [nation]Latin and Central America[/nation]
+Prime Minister: [nation]Shakovina[/nation]
 
-Minister for Foreign Affairs: [nation]Bankstown city[/nation]
-Minister for Interior Affairs: [nation]Cyrahzia[/nation]
-Minister for Defence: [nation]Aanon Bay[/nation]
-Minister for Recruitment: [nation]Norton Island[/nation]
-Attorney General: [nation]mirmadon[/nation]
+Minister for Interior Affairs: [nation]Latin and Central America[/nation]
+Minister for Foreign Affairs: [nation]Mirmadon[/nation]
+Minister for Justice: [nation]Aanon Bay[/nation]
+Minister for Recruitment: [nation]Perlamo State[/nation]
+Minister for Defence: [nation]Raindrop Valley[/nation]
 
 [b]JUDICIARY[/B]
 

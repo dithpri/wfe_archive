@@ -15,7 +15,6 @@ Foreign Minister: [nation=short]The Trefoil Knot[/nation](F)[/color]
 [u][b][color=purple]Assembly:[/b][/color][color=orangered][/u]
 [nation=short]Crazy Gauls[/nation]
 [nation=short]Devil[/nation](F)
-[nation=short]Pipe Heads[/nation]
 [nation=short]Restanoy[/nation](W)
 [nation=short]Sitar noir[/nation](F)
 [nation=short]The Trefoil Knot[/nation](F)

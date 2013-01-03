@@ -1,0 +1,5 @@
+A region to store a compendium of puppet nations used by [nation]New Andureo[/nation].
+
+[list]
+[*]Founder: 		[nation]RNA founder[/nation]
+[*]Sandboxes: 	[list=1]	[*][nation]RNA Sandbox[/nation][/list][/list]
