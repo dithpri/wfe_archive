@@ -6,5 +6,5 @@ Sgt.[nation=short+noflag]Einserdvan[/nation]
 
 [b]Soldiers:[/b]
 Cpl.[nation=short+noflag]Romanian Reich[/nation]
-Pvt.[nation=short+noflag]ArgenReich[/nation]
-Pvt.[nation=short+noflag]Panzer Division Muncheberg[/nation]
+Pvt.[nation=short+noflag]Mors Moderatoris[/nation]
+Pvt.[nation=short+noflag]German Togoland Protectorate[/nation]

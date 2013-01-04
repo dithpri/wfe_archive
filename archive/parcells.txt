@@ -4,7 +4,7 @@ Return of the mack
 
 Former nations for posterity:
 
-[list][*][nation]Commendation[/nation]
+[list][*][nation]Commendation[/nation]/[nation]Proper Noun[/nation]
 [*][nation]WealthOfNations[/nation]
 [*][nation]MULA-Nation[/nation]
 [*][nation]Leroc[/nation][/list]
