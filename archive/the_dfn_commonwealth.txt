@@ -5,6 +5,8 @@ Colonies:
 [region]The Federation of Democratic Nations[/region]
 [region]The United Earth Federation[/region]
 [region]Anglia[/region]
+[region]The League of Democratic Nations[/region]
+[region]The United Mars Federation[/region]
 
 Staff:
 [nation]Bartholomew[/nation]
@@ -14,6 +16,8 @@ Staff:
 [nation]Richington[/nation]
 [nation]Wolfman[/nation]
 [nation]Pacertopia[/nation]
+[nation]South Lee[/nation]
+[nation]North Lee[/nation]
 
 [/color][/b]
 

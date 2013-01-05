@@ -6,5 +6,4 @@ Sgt.[nation=short+noflag]The Kuomintang[/nation]
 
 [b]Soldiers:[/b]
 Cpl.[nation=short+noflag]Grodon[/nation]
-Pvt.[nation=short+noflag]Adolfhitleristan[/nation]
 Pvt.[nation=short+noflag]Byrones[/nation]

@@ -9,7 +9,7 @@ Tiberiam is currently under the rule of single Overseer until other offices are 
 [u][b]Overseer[/b][/u] : [nation]Oscalantine[/nation]
 
 [u][b]S[/b]ecretary of [color=blue][b]C[/b]ulture[/color][/u] : [nation]Oscalantine[/nation]
-[u][b]S[/b]ecretary of [color=green][b]C[/b]artography[/color][/u] : --vacant--
+[u][b]S[/b]ecretary of [color=green][b]C[/b]artography[/color][/u] : [nation]Lenyo[/nation]
 [u][b]S[/b]ecretary of [color=red][b]R[/b]ecruitment[/color][/u] : [nation]Lenyo[/nation]
 
 [hr]

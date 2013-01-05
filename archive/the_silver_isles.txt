@@ -24,4 +24,4 @@ Defense Minister: [nation=short]Old Beringia[/nation][/color]
 Chancellor: Old Beringia3|0no confidence
 Defence: Diol2|1 Qwanch
 Justice:  Zonolia 2|1 no confidence
-Severania: 3|0 no confidence
+foreign affairs:Severania: 3|0 no confidence

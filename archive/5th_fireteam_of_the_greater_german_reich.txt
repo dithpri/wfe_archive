@@ -5,6 +5,3 @@
 [nation=short+noflag]awaiting new recruits[/nation]
 
 [b]Soldiers:[/b]
-[nation=short+noflag]Wolfenburg[/nation]
-[nation=short+noflag]German Togoland Protectorate[/nation]
-[nation=short+noflag]awaiting new recruits[/nation]

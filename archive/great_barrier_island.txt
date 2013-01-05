@@ -1,11 +1,11 @@
-[b]Region Leader: [nation]New Barrierland[/nation]
-Co-Region Leader: [nation]Thessalonia[/nation]
+[b]Region Leader: [nation]Thessalonia[/nation]
+Co-Region Leader: [nation]New Barrierland[/nation]
 Minister of Foreign Affairs: [nation]Thessalonia[/nation]
 Minister of Defense: [nation]Thessalonia[/nation]
 Minister of Administry: [nation]Thessalonia[/nation]
 Minister of Economy: [nation]Gordonton[/nation]
-Minister of Civil Rights: [nation]Hrothgarion[/nation]
-Minister of Justice: [nation]New Wattle[/nation]
+Minister of Civil Rights: [nation]Thessalonia[/nation]
+Minister of Justice: [nation]Thessalonia[/nation]
 Minister of [region]Max Barry[/region]: vacant
 Minister of [region]The Chatam Islands[/region]: vacant
 Minister of [region]Stewart Island[/region]: vacant
