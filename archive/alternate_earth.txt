@@ -5,7 +5,7 @@ WA Delegate:
 
 General Secretary:
 Ambassadors:
-Cartographer:
+Cartographer: [nation]Naftahstan[/nation]
 Head of Regional Security:
 Head of the Regional Bank:
 Head of Foreign Affairs:

@@ -4,11 +4,8 @@
 
 Councilor:[i] [nation=GTCJ][/i]
 
-Councilor:[i] [nation=Royalist Albion][/i]
-
 Councilor:[i] [nation=Macea][/i]
-
-Councilor:[i] [nation=Grand Longueville][/i][/b]
+[/b]
 [hr]
 
 [color=darkblue][b][i]News:[/color]
