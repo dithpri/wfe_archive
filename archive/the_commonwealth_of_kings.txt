@@ -3,14 +3,14 @@
 
 [b]The Council of The Realm[/b]
 Prime Minister:[color=red] [nation=shortname]ShenGuo[/nation][/color]
-Lord Secretary:[color=red] [nation=shortname]Cooldom[/nation][/color]
-Lord Speaker:[color=red] [nation=shortname]Ceased[/nation][/color]
+Lord Secretary:[color=red] Vacant[/color]
+Lord Speaker:[color=red] Vacant[/color]
 [hr]
 
 [b]Ministerial Departments (To be elected by the Prime Minister)[/b]
-Minister of Defence: [nation=shortname]Summerhill[/nation]
-Minister of Internal Development: [nation=shortname]Pacific Arms[/nation]
-Minister of International Development: [nation=shortname]Republic of SAS[/nation]
+Minister of Defence:[color=red] Vacant[/color]
+Minister of Internal Development:[color=red] Vacant[/color]
+Minister of International Development:[color=red] Vacant[/color]
 
 [hr]
 

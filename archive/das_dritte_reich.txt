@@ -7,16 +7,16 @@
 [u][b][color=red]Reichsmarschalls:[/color][/u]
 [nation]Hakidaku[/nation] (Kopf)
 [nation]Hydra Germany[/nation] (Military)
-[nation]Vacant[/nation] (Delegate)[/b]
+[nation]Lictorfasci[/nation] (Delegate)[/b]
 
 [u][b][color=red]Generals[/color] [/u]
-[nation]Vacant[/nation] 
+[nation]Vacant[/nation](Spy Chief)
 [nation]Vacant[/nation] 
 [nation]Vacant[/nation][/b]
 
 [u][b][color=red]Ministers[/color] [/u]
 [nation]Akota[/nation](Propaganda) 
-[nation]Vacant[/nation](Intelligence)
+[nation]Vacant[/nation](Foreign Affairs)
 [/b]
 
 Join zhe WA
