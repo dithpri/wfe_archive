@@ -6,8 +6,10 @@ Our regional map: [url=http://i1149.photobucket.com/albums/o595/weolseland/URN_z
 
 [b]Government:[/b]
 General Secretary:
-Premier:
-URN Spokesperson:
-Map monitor:
-Head of Diplomacy:
-Head of Armed Forces:
+Premier: [nation]Vchera[/nation]
+URN Spokesperson: [nation]Soviet Ruk-Tsan[/nation]
+Map monitor: [nation]Dakran[/nation]
+Head of Diplomacy: Elections
+Head of Armed Forces: [nation]United commonwealth of ayrshire[/nation]
+
+Rules: [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=218008]here[/url]
