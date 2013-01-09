@@ -15,7 +15,7 @@ Representative: [nation=short+noflag]United Federation of Canada[/nation]
 Department of Justice
 Chief Justice: [nation=short+noflag]Branceonia[/nation]
 Justice: [nation=short+noflag]Papua New Craig[/nation]
-Justice: [color=red]Vacant[/color]
+Justice: [nation=short+noflag]Brutii Rebels[/nation]
 
 [u][b]Terms To Know[/b][/u]
 [u]Primary Election[/u] is the election that only affects the election of Representatives and Justices.

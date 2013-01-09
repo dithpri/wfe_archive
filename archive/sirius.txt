@@ -1,5 +1,6 @@
-[b][color=red]THARGOID SYSTEM[/color] - SIRIUS
-
-ThSDC_121012:162500
-
-[color=red]The InterGalactic Empire[/color] of [nation=short]Thargoids[/nation][/b]
+Founders:
+[nation]ancalador[/nation]
+[nation]silvaenia[/nation]
+[nation]venaleria[/nation]
+[nation]foretoldia[/nation]
+[nation]Gabartstpuldoxiquab[/nation]

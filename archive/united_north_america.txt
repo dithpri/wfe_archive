@@ -1,8 +1,6 @@
-[color=blue]!!Welcome to United North America!![/color]
+[color=blue][b]!!Welcome to United North America the land of the strong!![/b][/color]
 
-[b]The UNA welcomes all nations to live here in freedom and prosperity![/b]
-
-[color=Red]Please endorse the WA delegate: [nation=short]Paramountica[/nation] as per regional law![/color] 
+[color=Red]Please endorse the WA delegate: [nation=short]Paramountica[/nation][/color] 
 
 [b]*Regional government*[/b]
 [color=Purple] President: [nation=short]Paramountica[/nation][/color]
@@ -17,5 +15,7 @@
 Head Judge:[nation=short]Jewish Isreal[/nation]
 Judge: SEAT OPEN
 Judge: SEAT OPEN
+
+[b]This region is part of: [url=http://leagueofregionsfourm.freeforums.org/index.php]League of Regions[/url] [/b]
 
 [b]ENDORSEMENT CAP: 12[/b]

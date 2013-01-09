@@ -4,6 +4,7 @@
 
 [hr]Welcome to Venetia, the powerful city state, famed across the world for its beauty, intrigue and history. 
 
-[hr][b][color=darkgreen]Doge of Venetia:[/color][/b] Victor Silvestro
-[b][color=darkgreen]Chancellor:[/b][/color] TBA
-[b][color=grey]News:[/b] First elections for Chancellor begin.[/color]
+[hr][b][color=darkgreen]Doge of Venetia:[/color][/b] [nation=short]Victor Silvestro[/nation]
+[b][color=darkgreen]Chancellor:[/b][/color] [nation=short]Jurisdictions II[/nation]
+[b][color=darkgreen]World Assembly Delegate:[/b][/color] [nation=short]Liberal Systems[/nation] [i]| Please endorse your WA delegate.[/i]
+[b][color=grey]News:[/b] Jurisdictions elected first Chancellor.[/color]

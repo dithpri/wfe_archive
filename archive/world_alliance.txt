@@ -6,7 +6,7 @@
 
 [color=lightgray]President[/color] : [nation=short]The United States of Schorr[/nation]
 
-[color=lightgray]Prime Minister[/color] : 
+[color=lightgray]Prime Minister[/color] : [nation]Acquitane[/nation]
 
 [color=lightgray]Intelligence Minister[/color] : [nation]Escuro[/nation]
 
@@ -26,20 +26,26 @@
 
 [b][color=blue]WORLD ALLIANCE ALLIED FORCES[/color][/b]
 
-[color=lightgray]Secretary General[/color] : [nation=short]New-Zealand[/nation]
+[color=lightgray]Secretary General[/color] : [nation]New-Zealand[/nation]
 
 [hr][hr]
 
 [b][color=red]WHAT&amp;#39;S WITH WORLD ALLIANCE TODAY?[/color][/b]
 
-[url=http://i46.tinypic.com/30hor54.png]Official Regional Map[/url]
+[url=http://i45.tinypic.com/sobq69.png]Official Regional Map[/url]
 
 [url=http://tracker.conquestofabsolution.com/region=world_alliance]Official Statistics Tracker[/url]
 
-[url=http://forum.nationstates.net/viewtopic.php?p=12405654#p12405654]World Alliance Map Claims[/url]
+[url=http://forum.nationstates.net/viewtopic.php?p=12421625#p12421625]World Alliance Map Claims[/url]
 
-[url=http://forum.nationstates.net/viewtopic.php?p=12405629&amp;amp;sid=f6967ca9130b9e0a38803397299281c1#p12405629]World Alliance News Network[/url]
+[url=http://forum.nationstates.net/viewtopic.php?f=23&amp;amp;t=202651&amp;amp;sid=1990ac01b60972dee322020f972ded09]World Alliance News Network[/url]
 
-[url=http://forum.nationstates.net/viewtopic.php?p=12407520&amp;amp;sid=fb9c701c9a9b5afac6bd2403e7a2da86#p12407520]Broatia Announces SEDP Pact[/url]
+[url=http://forum.nationstates.net/viewtopic.php?p=12421402&amp;amp;sid=ba1176b5d688d7263be6e4325febdde4#p12421402][color=gold]USSR is Dissolved[/color][/url]
+
+[url=http://forum.nationstates.net/viewtopic.php?p=12407520&amp;amp;sid=fb9c701c9a9b5afac6bd2403e7a2da86#p12407520][color=gold]Broatia Announces SEDP Pact[/color][/url]
+
+[url=http://forum.nationstates.net/viewtopic.php?p=12421619&amp;amp;sid=ba1176b5d688d7263be6e4325febdde4#p12421619][color=gold]Eurussia&amp;#39;s New Claimed Province[/color][/url]
+
+[url=http://forum.nationstates.net/viewtopic.php?p=12418800&amp;amp;sid=ba1176b5d688d7263be6e4325febdde4#p12418800][color=gold]New Zealand Relay Operational Once Again[/color][/url]
 
 [/i][hr][hr]

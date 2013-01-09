@@ -6,6 +6,6 @@
 
 [u][b]Parliamentary Body[/b][/u]
 [nation=Vestmannaeyjar and Surtsey]
-[nation=Vatnajokull]
 [nation=Gullfoss]
 [nation=Snaefellsjokull and Northvesturkjordaemi]
+[nation=Geysir-Strokkur]

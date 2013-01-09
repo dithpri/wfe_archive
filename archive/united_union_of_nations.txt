@@ -1,7 +1,7 @@
 [b]A New Region And Unstoppable Force In The World Of Democracy
 
-[color=gold]Founder and Head of Government[/b][/color]: [nation]San Salvador Islands[/nation]
-[color=blue][b]WA Delegate: None[/b][/color]
+[color=gold]Founder and Head of Government: [nation=short+noflag]San Salvador Islands[/nation][/b][/color] 
+[color=blue][b]WA Delegate and President: [nation=short+noflag]Centaurus Islands[/nation][/b][/color]
 
 [b]Government Under Work[/b]
 

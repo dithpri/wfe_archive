@@ -4,3 +4,4 @@
 [region]Nysa[/region]
 [region]The Allied Union[/region]
 [region]Valiant[/region]
+[region]Aluvean Seas[/region]
