@@ -1,25 +1,27 @@
-Welcome to the United Nations Alliance (UNA)
-***UNA website is currently unavailable***
+Welcome to [region=the United Nations Alliance] (UNA)
+***UNA website is under construction and is currently unavailable***
 
-Contact the UNA:  theunalliance@gmail.com
+Contact the UNA:  
+theunalliance@gmail.com
 
 
-DIRECTOR: 
-Lt. Gov. Sir Byron O&amp;#39;Connell
-The Commonwealth of the United Kingdom
+DIRECTOR
+[nation=The Commonwealth of the United Kingdom]
 
-HEAD OF DEFENSE:
-U.S. Defense Secretary Louis Ford
-The Federal Republic of United States
+HEAD OF DEFENSE
+[nation=The Federal Republic of United States]
 
-HEAD OF TREASURY:
-Prime Minister Alexi Bruni
-The Republic of Italy
+HEAD OF TREASURY
+[nation=The Republic of Italy]
 
-HEAD OF JUSTICE:
-Chief Justice Antonio Cruz
-The Republic of Spain
+HEAD OF JUSTICE
+[nation=The Republic of Spain]
 
-HEAD OF RECRUITMENT:
-Foreign Affairs Liaison Hans Whitezel
-The United Federation of Germany
+HEAD OF FOREIGN AFFAIRS
+[nation=The Unified Empire of Japan]
+
+HEAD OF INTELLIGENCE
+[nation=The Kingdom of Qatar]
+
+HEAD OF RECRUITMENT
+[nation=the United Federation of Germany]
