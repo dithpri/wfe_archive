@@ -12,7 +12,7 @@ President: Peunt12
 [color=blue]The senate:
  Senator:Dardoillyria
  Senator:Kakhovske
- Senator:Great West Cost[/color]
+ Senator:none[/color]
 
 [color=blue]Judicial Branch
  Supreme Judge:

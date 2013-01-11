@@ -1,6 +1,7 @@
-President: www.nationstates.net/lengleland
-Vice President: www.nationstates.net/ahmedistan
-Minister of Foreign Affairs: www.nationstates.net/Hevzane
-Defence Minister: www.nationstates.net/Ahmedistan.Border
-Members:
-ALL U.D.S MEMBERS
+[b]Welcome to The Union of Democratic States. We are dedicated to providing a home for Capitalist/Democratic nations. So if you are one, come on in! We will welcome you!
+
+President: [nation]Lengleland[/nation]
+
+Vice President: [nation]Hevzane[/nation]
+
+Minister of Internal Affairs: [nation]Ahmedistan Border[/nation][/b]

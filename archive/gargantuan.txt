@@ -6,10 +6,10 @@ Vice President: [nation=short+noflag]Hoytenstan[/nation]
 [u][b]Legislative Branch[/b][/u]
 House of Representatives
 Speaker: [nation=short+noflag]Rhemaland[/nation]
-Representative: [nation=short+noflag]Confederacy of gilgehad[/nation]
 Representative: [nation=short+noflag]Vispariti[/nation]
 Representative: [nation=short+noflag]Wellingtonburg[/nation]
-Representative: [nation=short+noflag]United Federation of Canada[/nation]
+Representative: [color=red]Vacant[/color]
+Representative: [color=red]Vacant[/color]
 
 [u][b]Judicial Branch[/b][/u]
 Department of Justice

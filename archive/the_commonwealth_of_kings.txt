@@ -7,10 +7,10 @@ Lord Secretary:[color=red] Vacant[/color]
 Lord Speaker:[color=red] Vacant[/color]
 [hr]
 
-[color=Yellow][b]Ministerial Departments (To be elected by the Prime Minister)[/b][/color]
-Minister of Defence:[color=red] Vacant[/color]
-Minister of Internal Development:[color=red] Vacant[/color]
-Minister of International Development:[color=red] Vacant[/color]
+[color=Yellow][b]Ministries (To be elected by the Prime Minister)[/b][/color]
+Minister of Defence:[color=red] [nation=shortname]Summerhill[/nation][/color]
+Minister of Internal Development:[color=red] [nation=shortname]Karburgh[/nation][/color]
+Minister of International Development:[color=red] [nation=shortname]Pacific Arms[/nation][/color]
 
 [hr]
 
