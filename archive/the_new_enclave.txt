@@ -6,13 +6,10 @@ Vice-President: [nation]north america and Great Britain[/nation]
 
 Secretary: [nation]Bradshaw Mountain[/nation]
 
-Defense Minister: [nation]Civil War[/nation]
-
-Seceratary of War: [nation]The gods2[/nation]
+Seceratary of Defense: [nation]The gods2[/nation]
 
 Regional Recruiter: 
 
-Foreign defense minister:[nation]Federal2[/nation]
 Currency: The Enclave credit.
 Anyone whos wants to come into the new enclave please telegram the president.
-Chat line: client.canternet.org channel #Enclaveradio
+Chat line: 

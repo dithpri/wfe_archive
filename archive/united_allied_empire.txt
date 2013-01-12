@@ -1,14 +1,10 @@
 Lord President of the Council - [nation]MacDonald Islands[/nation]
 Secretary of State for Foreign Affairs [b](WA)[/b] - [nation]Land of Gay Dragons[/nation]
 Chief Secretary to the Treasury -
-Secretary of State for Defence -
+Secretary of State for Defence - [nation]Xino[/nation]
 Secretary of the Board of Trade -
 Secretary of State for Justice	 -
 Secretary of State for Education -
-Secretary of State for Environment, Food and Rural Affairs -
-Secretary of State for International Development -
-Secretary of State for Energy and Climate Change -
 Secretary of State for Transport -
-Secretary of State for Culture, Media and Sport -
+Secretary of State for Culture, Media and Sport - [nation]Byrnison[/nation]
 Minister for Women and Equality - [nation]Ny Halldorland[/nation]
-Minister of State for Universities and Science -

@@ -1,12 +1,5 @@
 [u][b]Gro&szlig;deutsches Reich - Hauptquartier der Geheimen Staatspolizei[/U][/B]
-[b]F&uuml;hrer: [color=red]Adolf Hitler[/b][/color]
-[b]F&uuml;hrerin und Reichsf&uuml;hrerin-SS:[/b] [nation]Leather-clad Germany[/nation]
-[b]Chef der Geheimen Staatspolizei:[/b] [nation]ArgenReich[/nation]
-[b]Gerichtsbarkeit:[/b] [color=red][region]The Greater German Reich[/region] und Occupied Regions.[/color]
-[b]Hauptsitz:[color=red][/b] Berlin - [nation=short]Welthauptstadt Germania[/nation]
+[b]Chef der Geheimen Staatspolizei:[/b]
+[b]Gerichtsbarkeit:[/b] [color=red][region]The Greater German Reich[/region] and Occupied Regions.[/color]
+[b]Hauptsitz:[color=red][/b] Berlin - [nation=short]Welthauptstadt Germania[/nation][/color]
 
-[b]ACHTUNG![/b]
-
-Zhis ist a restricted Region to zhe [b]Geheime Staatspolizei[/b] personnel und the [b]F&uuml;hrerin[/b] only, trespassing vithout documentation ist
-
-[b]VERBOTEN![/B][/COLOR]
