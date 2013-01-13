@@ -10,12 +10,6 @@
 
 [color=lightgray]Intelligence Minister[/color] : [nation]Escuro[/nation]
 
-[b][color=gold]The PARLIAMENT[/color][/b]
-
-[color=lightgray]Speaker[/color] : [nation=short]The United States of Reagan[/nation]
-
-[color=lightgray]Senators[/color] : [nation=short]Browera[/nation] &amp;amp; [nation=short]Zebulor[/nation]
-
 [b][color=gold]The COURT OF JUSTICE[/color][/b]
 
 [color=lightgray]Chief Justice[/color] : [nation]Newasia[/nation]
