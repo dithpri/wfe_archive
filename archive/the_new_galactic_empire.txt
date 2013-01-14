@@ -7,7 +7,7 @@
 - [b]Chancellor[/b]: [nation=short]Atrum Vesica[/nation] (Next Election February 2013)[hr]
 [b][u]Supreme Court[/u][/b] 
 - [b]Supreme Judge[/b]: [nation=short]Gray Army[/nation], 
-- [b]Associate Justices[/b]: [nation=short]Yelklia[/nation], [nation=short]Vacant [/nation][hr]
+- [b]Associate Justices[/b]:  [nation=short]Vacant [/nation], [nation=short]Vacant [/nation][hr]
 [b][u]The Moff Council[/u][/b]
 - [b]Moff of Foreign Affairs[/b]: [nation=short]The Chommell Sector[/nation]
 --- [b]Vice Moff of FA[/b]: [nation=short]the order of the eagles assasins[/nation]

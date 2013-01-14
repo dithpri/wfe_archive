@@ -1,10 +1,11 @@
-We are a union between 5 independent nations and 1 commonwealth. Formed to unify many nations, we host elections.
+We are a union between 4 independent nations and 2 colonies. 
+Formed to unify many nations, we host elections.
 
 Positions ( in order of power ) :
 
-1.President/Member of the Supreme Court=Democratic States of Bazarium
-1.WA delegate/Member of the Supreme Court=The Kingdom of Greekland1821
-2.Vice-President=The Kingdom of Athenaland48 (does not have access to administration)
-3.Member of the Supreme Court=Olympistan ( does not have acces to administration)
+1.President= [i]Vacant[/i]
+1.WA delegate= [nation]Greekland1821[/nation]
+2.Vice-President= [i]Vacant[/i] (does not have access to administration)
 
-Supreme Court=Bazarium, Greekland1821, Olympistan
+
+Supreme Court = [nation]Bazarium[/nation], [nation]Greekland1821[/nation], [nation]Olympistan[/nation]

@@ -13,9 +13,9 @@ President:[/b] [nation=short]United Horizon[/nation]
 [nation=short]Ayrena[/nation]
 [nation=short]FnFail[/nation]
 
-[b][u]Diplomats:[/u][/b]
+[b][u]Ambassadors:[/u][/b]
 [nation=short]Kraannei[/nation]
- [nation=short]Democratic Republic of Sapientia[/nation]
+[nation=short]Democratic Republic of Sapientia[/nation]
 [hr][b][url=http://www.youtube.com/watch?v=Jo_-KoBiBG0]National Anthem[/url] | [url=http://www.youtube.com/watch?v=mUSW4l4bD18]Secondary Anthem[/url] | [url=http://w11.zetaboards.com/TheACAforum/index/]Forums[/url] | [url=http://w11.zetaboards.com/TheACAforum/topic/7964742/]Constitution[/url] | [url=http://aca.wikinet.org/wiki/Main_Page]Wiki[/url] |   [url=http://www.youtube.com/watch?v=QaXIOanHlGc]Song of the Month[/url][/b]
 [hr][b][u]Home Land Security[/b][/u]
 [List][*][color=green]LOW[/color] - Safe
@@ -24,6 +24,6 @@ President:[/b] [nation=short]United Horizon[/nation]
 [*][color=orange]HIGH[/color] - Serious threat
 [*][color=red]SEVERE[/color] - Gargantuan threat[/List]
 
-[b]Current Level:[/b] [color=green]LOW[/color]
+[b]Current Level:[/b] [color=blue]GUARDED[/color]
 [hr][b][u][color=blue]News[/color][/b][/u]
 Diplomats Appointed
