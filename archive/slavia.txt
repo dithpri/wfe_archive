@@ -13,7 +13,7 @@ Minister of Internal Affairs: [nation=short]The Republic of Bracka[/nation] [col
 [b]Common Slavia Council:[/b]
 Council Member 1: [nation=short]Nova Bulgaria[/nation]
 Council Member 2: [nation=short]Crna Gora[/nation]
-Council Member 3: [nation=short]Slavianka[/nation] [color=blue] (Newly Appointed)[/color]
+Council Member 3: [nation=short]Bolguria[/nation] [color=blue] (Newly Appointed)[/color]
 Council Member 4: [nation=short]Jakhawks[/nation][color=blue] (Newly Appointed)[/color]
 Council Member 5: [nation=short]Grand Macedonia[/nation]
 
@@ -21,7 +21,7 @@ Council Member 5: [nation=short]Grand Macedonia[/nation]
 
 -
 
-[b][color=blue]We have officially met the 50 member mark! URA![/color][/b]
+[b][color=blue]We are the best Slavic region in all of NationStates![/color][/b]
 
 -
 

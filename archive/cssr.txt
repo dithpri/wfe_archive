@@ -5,7 +5,7 @@ Regional Minister of Foreign Affairs: [nation]Northern Anglica[/nation]
 
 Regional Minister of Intelligence: [nation]Zanazbar[/nation]
 
-Regional Minister of Defense: vacant
+Regional Minister of Defense: [nation]SSPG[/nation]
 
 [i]Hero of the CSSR: Belrussia[/i]
 Honored Nations of the CSSR: Belrussia, Grand Soviet Union, Sedikal, Soviet Murmansk

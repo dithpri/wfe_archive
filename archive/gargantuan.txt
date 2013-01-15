@@ -8,8 +8,8 @@ House of Representatives
 Speaker: [nation=short+noflag]Rhemaland[/nation]
 Representative: [nation=short+noflag]Vispariti[/nation]
 Representative: [nation=short+noflag]Wellingtonburg[/nation]
-Representative: [color=red]Vacant[/color]
-Representative: [color=red]Vacant[/color]
+Representative: [nation=short+noflag]Klacik[/nation]
+Representative: [nation=short+noflag]AmsterDAN[/nation]
 
 [u][b]Judicial Branch[/b][/u]
 Department of Justice

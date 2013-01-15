@@ -2,9 +2,9 @@ Southern European Nations here. This Region is Anti-Fascist and economically lef
 
 Regional Superpower: [nation]Altaslavia[/nation]
 
-Chief of Internal Security: [nation]LordWaverly[/nation]
-Cheif of Monetary Systems: [nation]The Neutral Swiss[/nation]
-Cheif of Defence: [nation]Fulminata-Legion XII[/nation]
-Cheif of Foreign Affairs: [nation]Yaltaslavia[/nation]
-Cheif of Agriculture, Transport, and Public Support etc.: [nation]Kazakhslavia[/nation]
-Cheif of Administration: [nation]Yaltistan[/nation]
+Minister of Internal Security: [nation]LordWaverly[/nation]
+Minister of Monetary Systems: [nation]The Neutral Swiss[/nation]
+Minister of Defence: [nation]Fulminata-Legion XII[/nation]
+Minister of Foreign Affairs: [nation]Yaltaslavia[/nation]
+Minister of Agriculture, Transport, and Public Support etc.: [nation]Kazakhslavia[/nation]
+Minister of Administration: [nation]Yaltistan[/nation]
