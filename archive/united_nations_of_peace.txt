@@ -1,10 +1,9 @@
 United Nations of Peace is a new Region , devoted to keep Peace among its nations . 
-United Nations of Peace has embassies in:
-[region]Athens[/region]
-[region]Eastern Roman Empire [/region]
-[Region]Hellinic Civilization [/region]
+[color=purple][b]The United Nations of Peace has Embassies in the following Regions :[/color][/b]
+[Region]Hellinic Civilization[/region]
 
-Our Founder is [nation]Yorklyn[/nation]
+ [b][color=blue]Government :[/color][/b]
+ Founder  [nation]Yorklyn[/nation]
 
 [Color=orange]Motto[/color]
 Peace . It does not mean to be in a place where there is no noise , trouble , or hard work . It means to be in the midst of these things , and still be calm in your heart .

@@ -6,7 +6,18 @@ The White Rose is our emblem, our sign of peace and nobility among us.
 
 Join us, and we can unite. Together as one, alone as none. 
 
-[b]Head of State[/b]: [nation]Great Eurea[/nation] [b]King Robert[/b]
-[b]Head of Government[/b]: Undecided
-[b]Head of Senate[/b]: Undecided
-[b]Head of Representatives[/b]: Undecided 
+[i]Head Cabinet[/i]
+[b]Union Head of State[/b]: [nation]Great Eurea[/nation] [b]King Robert[/b]
+[b]Union Head of Government[/b]: Undecided
+[b]Union Head of Senate[/b]: Undecided
+[b]Union Head of Representatives[/b]: Undecided 
+[b]Union Representative Speaker[/b]: Undecided
+[b]Union Senate Speaker[/b]: Undecided
+
+[i]Main Cabinet[/i]
+[b]Head of Defence[/b]: Undecided
+[b]Head of Justice[/b]: Undecided
+[b]Head of Internal Affairs[/b]: Undecided
+[b]Head of Foreign Affairs[/b]: Undecided
+[b]Head of The Treasury[/b]: Undecided
+[b]Head of Immigration[/b]: Undecided

@@ -6,12 +6,11 @@ President:[/b] [nation=short]United Horizon[/nation]
 [b]Vice President:[/b] None
 [b]Chief Justice:[/b] [nation=short]Wind in the Willows[/nation]
 
-[u][b]Congress:[/u][/b]
+[u][b]Supreme Court[/u][/b]
 
 [b]SPOT OPEN
 SPOT OPEN
-SPOT OPEN
-SPOT OPEN[/b]
+[/b]
 
 [b][u]Ambassadors:[/u][/b]
 [nation=short]Kraannei[/nation]
@@ -26,4 +25,6 @@ SPOT OPEN[/b]
 
 [b]Current Level:[/b] [color=blue]GUARDED[/color]
 [hr][b][u][color=blue]News[/color][/b][/u]
-Diplomats Appointed
+Congress has been abolished
+Supreme Court Erected
+Embassies ordered to close
