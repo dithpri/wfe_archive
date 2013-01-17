@@ -5,7 +5,7 @@ President: [nation]Lengleland[/nation]
 
 Vice President: [nation]Hevzane[/nation]
 
-Minister of Internal Affairs: VACANT
+Minister of Internal Affairs: [nation]Montego Bay 12[/nation]
 
 Minister of Foreign Affairs: [nation]Conta[/nation]
 

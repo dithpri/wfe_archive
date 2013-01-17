@@ -1,15 +1,16 @@
 Welcome to [region]The New Enclave[/region]! The Enclave shall live in prosperity and peace!
 
-president: [nation]the enclave1[/nation]
+[color=blue]president:[/color] [nation]the enclave1[/nation]
 
-Vice-President: [nation]north america and Great Britain[/nation]
+[color=red]Vice-President:[/color] [nation]north america and Great Britain[/nation]
 
-Secretary: [nation]Bradshaw Mountain[/nation]
+[color=yellow]Secretary:[/color] [nation]Bradshaw Mountain[/nation]
 
-Seceratary of Defense: [nation]The gods2[/nation]
+[color=green]Seceratary of Defense:[/color] [nation]The gods2[/nation]
 
-Regional Recruiter: 
+[color=orange]Regional Recruiter:[/color] 
 
-Currency: The Enclave credit.
-Anyone whos wants to come into the new enclave please telegram the president.
-Chat line: 
+[color=purple]Currency: The Enclave credit.
+Anyone whos wants to come into the new enclave please telegram the president.[/color]
+Chat line: [url=http://webchat.freenode.net]Our Offsite Chat Board![/url] 
+[color=brown]Our channel:[/color] #Enclaveradio

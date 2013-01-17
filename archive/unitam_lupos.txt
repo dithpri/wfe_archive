@@ -6,7 +6,7 @@
 [color=red] Members of the [b]Inner Party[/b] are as follows:[/color]
 [color=red][b]Founder:[/b][/color][nation=short]The Maritime Provinces[/nation]
 [color=red][b]Emissary:[/b][/color][nation=short]Luchdearg[/nation]
-[color=red][b]Alternate:[/b][/color][nation=short]Youth In Asia[/nation]
+[color=red][b]Alternate:[/b][/color]
 [color=red][b]Executor :[/b][/color]
 [color=red][b]Quaestor:[/b][/color]
 [color=red][b]Polemarch:[/b][/color][nation=short]The Red Wolves[/nation]
