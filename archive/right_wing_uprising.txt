@@ -18,7 +18,6 @@
 [region]National Socialist League[/region]
 [region]Monoffian Militarized Zone[/region]
 [region]Apartheid South Africa[/region]
-[region]Grossdeutschland 88[/region]
 [region]Union of Nationalists[/region]
 
 [b][color=silver]Allies:[/color][/b]
@@ -27,5 +26,4 @@
 [region]Great Britain and Eire[/region]
 [region]The Federal Islands[/region]
 [region]Elite Region of Global Command[/region]
-[region]The ECAA[/region]
 [region]Hail The Trinity[/region]

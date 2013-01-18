@@ -1,7 +1,7 @@
 [b]Regional Council:[/b]
 [color=black]======[/color][color=red]======[/color][color=gold]======[/color]
 [i]President:[/i] [nation=short]Jacksistan[/nation]
-[i]Vice-President:[/i] [nation=short]Imperial-Empire[/nation]
+[i]Vice-President:[/i] [nation=short]N-C-R[/nation]
 [i]Minister of Internal Affairs:[/i] [nation=short]Stevesrael[/nation]
 [i]Minister of the Treasury:[/i] [nation=short]Elvendire[/nation]
 [i]Alliance of Nations Representative to the UKA:[/i] [nation=short]Jacksistan[/nation]
