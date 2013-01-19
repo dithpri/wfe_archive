@@ -1,11 +1,12 @@
 [color=#FF0606]Cabinet[/color]
 
-WA Delegate -- [nation]Weiben[/nation]
-Vice Delegate -- [nation]Exagros[/nation]
-Secretary of State -- [nation]Beepers[/nation]
-Secretary of Homeland -- [nation]Lawless Idealism[/nation]
-Secretary of Human Rights -- [nation]Collingwood1[/nation]
+WA Delegate -- [nation]Aringrim[/nation]
+Vice Delegate -- [nation]EPJ[/nation]
+Secretary of Homeland and State -- [nation]Weiben[/nation]
+Secretary of Environment -- [nation]Inferna[/nation]
 Secretary of Defense -- [nation]Amehstris[/nation]
+Minister of Education -- [nation]Collingwood1[/nation]
+Secretary of Human Rights -- [nation]Marshmallows[/nation]
 
 ------------------------------------------------------------
 

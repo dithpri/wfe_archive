@@ -2,8 +2,8 @@ We are a Vassal State of [region]the Free Region[/region]...
 In-order to reside in this region you must be registered and confirmed through our mother region: [region]The Free Region[/region].
 Vice WA:
 Ambassadors:
-Ambassador: [region]AuGreia[/region] = [region]The free region[/region]
-Minister of Defense: **Spot Open**
+Ambassador: [nation]AuGreia[/nation] [nation]Indenosia[/nation] 
+Minister of Defense: **Spot Open** 
 Minister of Education and Welfare: **Spot Open**
 Conference Chairman: **Spot Open**
 Conference Chairwoman: **Spot Open**

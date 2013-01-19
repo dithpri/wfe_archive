@@ -1,8 +1,15 @@
 [b][color=black]
 [list]Generalissimo [nation=short]The Fascist-Free Lands[/nation]
-Field Marshals [nation=short]Fynnbays[/nation],
+Field Marshals [nation=short]Fynnbays[/nation]
 Sergeants [nation=short]Enderby[/nation], [nation=short]Yevak[/nation]
 Corporal [nation=short]Dillitti[/nation]
 Private 1st Class [nation=short]Svalbar[/nation]
+
+Volunteers:
+[nation]The Revolutionary Proletarian Republic[/nation]
+[nation]Terra Libertas[/nation]
+[nation]Akitania Luberri[/nation]
+[nation]Central North America[/nation]
+
 
 Resignations: [nation=short]Communist Quinntopia[/nation][/list][/b][/color]
