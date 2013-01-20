@@ -2,4 +2,6 @@ Welcome to the training base of [region]the communist region[/region]!
 
 This is currently a base for: [b]Region Defense Training[/b]
 
-[b]Current Region General: [nation=short]Red Army Nation 1[/nation][/b]
+[b]Current Region Generals: 
+[nation=short]Red Army Nation 1[/nation]
+[nation=short]Aaban[/nation][/b]

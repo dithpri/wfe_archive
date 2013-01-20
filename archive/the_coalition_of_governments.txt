@@ -2,7 +2,7 @@
 [Hr][b][color=crimson][u]The Chairmen of the C.O.G.[/u][/color][/b]
 [b][u]High Chairman[/u]:[/b][nation=short]Fraserland[/nation]
 [b][u]High Chairman[/u]:[/b][nation=short]Vanhania[/nation]
-[b][u]Chairman of Health[/b][/u]:[nation=short]Glaedirsgrad[/nation]
+[b][u]Chairman of Finance[/b][/u]:[nation=short]Vacant[/nation]
 [b][u]Chairman of Defense[/b][/u]:[nation=short]Communist Hyrule[/nation]
 [b][u]Chairman of Intelligence[/b][/u]:[nation=short]Wallonia-Brussels[/nation]
 [b][u]Chairman of Foreign Affairs[/b][/u]:[nation=short]Libertas Liber[/nation]
@@ -18,7 +18,9 @@ Endorse [nation=short]Vanhania[/nation] to be our WA Delegate!
 [Hr]
 [b][u][color=red]Announcements![/color][/u][/b]:
 
-[b] The LLA (Lerodan Legislative Assembly) needs more people! Apply for it on the forums![/b]
+[b] Elections are approaching! If you are running for something; be sure to let Fr&auml;serland know so you are not forgotten on the ballot!
+
+The LLA (Lerodan Legislative Assembly) needs more people! Apply for it on the forums![/b]
 
 [url=http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=214413]Summit[/url]
 

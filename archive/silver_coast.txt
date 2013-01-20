@@ -1,11 +1,9 @@
 [b]
 The Region of the [region]Silver Coast[/Region] was resurrected by [nation]Boluvia[/nation].
 
-The Region of the [region]Silver Coast[/Region] is now a Protectorate of the [region]Ptolemaic Kingdom[/region] Region.
-
 [nation]Sarenmagne[/nation], a MemberState of the [region]International Commonwealth Of Nations[/region] Region, is the Military Governor of the  [region]Silver Coast[/Region] Region.
 
-The [region]Ptolemaic Kingdom[/region] is a Protectorate of the [region]International Commonwealth Of Nations[/region] Region.
+The [region]Silver Coast[/region] is a Protectorate of the [region]International Commonwealth Of Nations[/region] Region.
 
 
 *

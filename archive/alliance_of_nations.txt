@@ -6,6 +6,12 @@
 [i]Minister of the Treasury:[/i] [nation=short]Elvendire[/nation]
 [i]Alliance of Nations Representative to the UKA:[/i] [nation=short]Jacksistan[/nation]
 
+[b]Triple Military Alliance[/b]
+[color=black]======[/color][color=red]======[/color][color=gold]======[/color]
+[nation]Jacksistan[/nation]
+[nation]N-C-R[/nation]
+[nation]Stevesrael[/nation]
+
 [b]Regional Information:[/b]
 [color=black]======[/color][color=red]======[/color][color=gold]======[/color]
 [i]Regional Anthem:[/i] [url=http://www.youtube.com/watch?v=4jIB4va_HVo&amp;amp;list=UU0qR_Ep87KLzo5cfZF_9ueg&amp;amp;index=101]Alliance Anthem[/url]

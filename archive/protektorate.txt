@@ -9,7 +9,6 @@
 [region]The Indian Empire[/region]
 [region]The Territory of New Guinea[/region]
 [region]The British Overseas Territories[/region] [color=red](enth&auml;lt mehrere Gebiete)[/color]
-[region]The Emirate of Transjordan[/region]
 [region]British Togoland[/region]
 [region]The British Cameroons[/region]
 [region]The Tanganyika Territory[/region]

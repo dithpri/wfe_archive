@@ -19,8 +19,6 @@ Member Regions:
 
 [region]East Normandy Region[/region]
 
-[region]Ptolemaic Kingdom[/region]
-
 [region]The Warzog Pact[/region]
 
 [region]States of Mind[/region]
