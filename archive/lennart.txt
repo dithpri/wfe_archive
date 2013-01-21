@@ -2,6 +2,6 @@
 
 Main nations ruled by Lennart Raybrandt:
 
-[nation]Ehlnar[/nation]
-[nation]Angelzrealm[/nation]
-[nation]Raybrandt[/nation]
+[nation]Ehlnar[/nation] ([region]the North Pacific[/region])
+[nation]Angelzrealm[/nation] ([region]Commonwealth of Crowns[/region])
+[nation]Raybrandt[/nation] ([region]10000 Islands[/region])

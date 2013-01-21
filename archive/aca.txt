@@ -7,10 +7,10 @@ President:[/b] [nation=short]United Horizon[/nation]
 [b]Chief Justice:[/b] [nation=short]Wind in the Willows[/nation]
 
 [u][b]Supreme Court[/u][/b]
+[nation=short]FnFail[/nation]
+[nation=short]Hanalia[/nation]
 
-[b]SPOT OPEN
-SPOT OPEN
-[/b]
+
 
 [b][u]Ambassadors:[/u][/b]
 [nation=short]Kraannei[/nation]

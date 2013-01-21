@@ -1,7 +1,6 @@
 [b][color=black]
 [list]Generalissimo [nation=short]The Fascist-Free Lands[/nation]
-Field Marshals [nation=short]Fynnbays[/nation]
-Sergeants [nation=short]Enderby[/nation], [nation=short]Yevak[/nation]
+Sergeants [nation=short]Enderby[/nation]
 Corporal [nation=short]Dillitti[/nation]
 Private 1st Class [nation=short]Svalbar[/nation]
 

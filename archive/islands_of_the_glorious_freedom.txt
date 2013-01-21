@@ -5,9 +5,9 @@
 [color=green]Government:[/color][/b]
 [b]Founder[/b]: [nation]Dvinglus[/nation]
 [b]WA Delegate[/b]: [nation]Gastonica[/nation]
-[b]Vice Delegate[/b]: [nation]FederalDominica[/nation]
-[b]Minister of Defence[/b]: [nation]Wolffangary[/nation]
-[b]Warlord[/b]: [nation]Avi Rimor[/nation][color=green] (Three Star)[/color]
+[b]Vice Delegate[/b]: [nation]Cecma[/nation]
+[b]Minister of Defence[/b]: [nation]Livic[/nation]
+[b]Warlord[/b]: [nation]Kill Everyone[/nation][color=green] (One Star)[/color]
 [b]Administrator[/b]: [nation]Teaurnai[/nation]
 
 

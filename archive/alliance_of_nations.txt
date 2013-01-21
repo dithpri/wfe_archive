@@ -8,9 +8,9 @@
 
 [b]Triple Military Alliance[/b]
 [color=black]======[/color][color=red]======[/color][color=gold]======[/color]
-[nation]Jacksistan[/nation]
-[nation]N-C-R[/nation]
-[nation]Stevesrael[/nation]
+[nation]Jacksistan[/nation] - UAFJ Army
+[nation]N-C-R[/nation] - NCR Navy
+[nation]Stevesrael[/nation] - Stevesraeli Air Force
 
 [b]Regional Information:[/b]
 [color=black]======[/color][color=red]======[/color][color=gold]======[/color]

@@ -1,6 +1,8 @@
 Only true loyal fascists are allowed.
 
-Dictator:Einsiev
-Chancellor:Abatael
+Founder/Dictator:Einsiev
+Chancellor:Zakastibad
 Vice Chancellor:Vacant
-Head of Military:Affairs Vacant
+Head of Military Affairs:Vacant
+Diplomat:Vacant
+Diplomat:Vacant
