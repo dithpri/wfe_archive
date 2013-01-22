@@ -6,9 +6,9 @@ _________________________________________________________________
 
 - [b]Grand Master: [nation=short]King George Washington[/nation][/b]
 - [b][color=darkred] Master Templar:[/color][nation=short]Vordona[/nation][/b]
-- [b]General:[/b]
+- [b]General:[nation=short]The Tropican States[/nation][/b]
 - [b][color=darkred]Marshal[/color][nation=short]Orgaria[/nation][/b]
-- [b]Marshal:[nation=short]The Tropican States[/nation][/b]
+- [b]Marshal:[/b]
 - [b][color=darkred]Ambassador[/color][nation=short]Transoxthraxia[/nation][/b]
 - [b]Recruitment Officer:[/b]
 - [b][color=darkred]Judge:[/b][/color]

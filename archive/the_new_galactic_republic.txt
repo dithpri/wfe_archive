@@ -8,7 +8,7 @@
 [b]Minister of Foreign Affairs:[/b] [nation=short]Steel Talons[/nation]
 [b]Minister of Defence:[/b] [nation=short]New Lazaria[/nation]
 [b]Minister of Internal Affairs :[/b] [nation=short]Magnum Ultra[/nation]
-[hr][color=red][b]Supreme Court[/b][/color] Disbanded
+[hr][color=red][b]Supreme Court[/b][/color]
 [b]Chief Justice:[/b] [nation=short]Eiffel[/nation]
 [b]Associate Justice:[/b] TBA
 

@@ -4,9 +4,7 @@ Welcome to [region=the United Nations Alliance] (UNA)
 Contact the UNA:   theunalliance@gmail.com
 &#149;&#149;&#149;&#149;&#149;&#149;&#149;&#149;&#149;&#149;&#149;&#149;&#149;&#149;&#149;&#149;&#149;&#149;&#149;&#149;
 DIRECTOR [nation=The Federal Republic of United States]
-HEAD OF DEFENSE [nation=The Federal Parliament of Canada]
-HEAD OF TREASURY [nation=The Commonwealth of the United Kingdom]
-HEAD OF JUSTICE [nation=The Republic of Spain]
-HEAD OF FOREIGN AFFAIRS [nation=The Unified Empire of Japan]
-HEAD OF INTELLIGENCE [nation=The Kingdom of Qatar]
-HEAD OF RECRUITMENT [nation=the United Federation of Germany]
+DEPUTY DIRECTOR [nation=The US Virgin Islands]
+HEAD OF DEFENSE [nation=The Commonwealth of the United Kingdom]
+HEAD OF TREASURY [nation=Port of Portland]
+HEAD OF JUSTICE [nation=The United Federation of Germany]

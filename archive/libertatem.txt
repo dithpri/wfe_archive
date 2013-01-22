@@ -5,10 +5,10 @@
 Vice WA Delegate(s):  [nation=short]Soplestan[/nation] (DRP)
 Manager of Recruitment and Internal Affairs:  [nation=short]Conservative Idealism[/nation] (LP) 
 Manager of Military Affairs:  VACANT
-Manager of the State:  VACANT
+Manager of the State:  [nation=short]Chapelgoer[/nation]
 Chairman of the Board:  VACANT
 Board Member:  [nation=short]Coolidgestein[/nation] (RP)
-Board Member:  VACANT
+Board Member:  [nation=short]The Grand Macallan[/nation]
 Board Member:  [nation=short]Kentuck[/nation] (DRP)
 Board Member:  [nation=short]RedBadge[/nation] (ACPL)
 

@@ -4,9 +4,9 @@ Formed to unify many nations, we host elections.
 [color=blue]Elections have ended. The WA delegate and founder will decide for president and vice-president.Thank you for voting.[/color]
 
 
-President= [i]Vacant[/i]
+President= [nation]Bazarium[/nation]
 WA delegate= [nation]Greekland1821[/nation]
-Vice-President= [i]Vacant[/i] (does not have access to administration)
+Vice-President= [nation]Olympistan[/nation] (does not have access to administration)
 
 
 Supreme Court = [nation]Bazarium[/nation], [nation]Greekland1821[/nation], [nation]Olympistan[/nation]
