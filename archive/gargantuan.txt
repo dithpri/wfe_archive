@@ -1,21 +1,21 @@
 [u][b]Executive Branch[/b][/u]
 Office of the President
 President: [nation=short+noflag]Hoytenstan[/nation]
-Vice President: [color=red]Vacant[/color]
+Vice President: [nation=short+noflag]Rhemaland[/nation]
 
 [u][b]Legislative Branch[/b][/u]
 House of Representatives
-Speaker: [nation=short+noflag]Rhemaland[/nation]
+Speaker: [color=red]Vacant[/color]
 Representative: [nation=short+noflag]Vispariti[/nation]
 Representative: [nation=short+noflag]Wellingtonburg[/nation]
-Representative: [color=red]Vacant[/color]
-Representative: [color=red]Vacant[/color]
+Representative:[nation=short+noflag]Brutii Rebels[/nation]
+Representative:[nation=short+noflag]Max-A-Million Centre[/nation]
 
 [u][b]Judicial Branch[/b][/u]
 Department of Justice
 Chief Justice: [nation=short+noflag]Branceonia[/nation]
 Justice: [nation=short+noflag]Papua New Craig[/nation]
-Justice: [nation=short+noflag]Brutii Rebels[/nation]
+Justice: [color=red]Vacant[/color]
 
 [u][b]Terms To Know[/b][/u]
 [u]Primary Election[/u] is the election that only affects the election of Representatives and Justices.

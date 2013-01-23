@@ -1,7 +1,14 @@
 We are a union between 4 independent nations and 2 colonies. 
 Formed to unify many nations, we host elections.
 
-[color=blue]Elections have ended. The WA delegate and founder will decide for president and vice-president.Thank you for voting.[/color]
+[i]NEWS[/i]
+
+[color=red]Today, the elections have ended and the results have been posted below.[/color]
+
+Visit [url=http://socraticunionns.jimdo.com]our site[/url]!
+
+
+
 
 
 President= [nation]Bazarium[/nation]
@@ -10,3 +17,5 @@ Vice-President= [nation]Olympistan[/nation] (does not have access to administrat
 
 
 Supreme Court = [nation]Bazarium[/nation], [nation]Greekland1821[/nation], [nation]Olympistan[/nation]
+
+Population:199 000 000

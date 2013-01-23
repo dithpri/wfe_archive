@@ -1,13 +1,12 @@
-[b]Welcome to the new District of Republica![/b]
+[b]Welcome to The District of Republica![/b]
 
-[b]Present Regional Leaders:[/b]
+[b]Present Heads of State:[/b]
 [i]Founding Nation[/i]: [nation]Nova Angleterre[/nation]
 [i]Elder Nations[/i]: [nation]Moreovia[/nation]
-[i]*Leader[/i]: [nation]Nova Angleterre[/nation]
 
-*- pending changes in government structure
+[b]Present Heads of Government:[/b]
+[i]*Administrator[/i]: [nation]Nova Angleterre[/nation]
 
 DISTRICT OF REPUBLICA NEWS
-1/5/2013 - [nation]Nova Angleterre[/nation] founds [region]The District of Republica[/region].
-1/9/2013 - [nation]Moreovia[/nation], an Elder Nation, arrives in [region]The District of Republica[/region].
 1/17/2013 - District population moves to 3.
+1/22/2013 - [nation]Nova Angleterre[/nation] officially proclaims himself [i]de facto[/i] Administrator of the District of Republica until a Constitutional Conference can be called.
