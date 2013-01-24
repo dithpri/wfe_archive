@@ -10,6 +10,6 @@ SDC General Secretary: [nation]Riysa[/nation]
 
 SDC Foreign Minister: [nation]Iske[/nation]
 
-SDC Secretary of Defense: [nation]Coalition State[nation]
+SDC Secretary of Defense: [nation]Coalition State[/nation]
 
 The Chairperson is appointed by the WA Delegate, and the other seats are permanent.

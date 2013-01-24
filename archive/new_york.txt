@@ -18,7 +18,6 @@ Foreign Minister: [nation=short]The Trefoil Knot[/nation](F)[/color]
 [nation=short]Restanoy[/nation](W)
 [nation=short]Sitar noir[/nation](F)
 [nation=short]The Trefoil Knot[/nation](F)
-[nation=short]We Definitely Surrender[/nation](F)
 [/color]
 
 -------------
