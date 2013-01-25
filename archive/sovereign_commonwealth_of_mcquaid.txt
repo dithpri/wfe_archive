@@ -4,7 +4,6 @@ All World Assembly Nations Must Endorse:
 [nation=Zafrinarina]=Delegate
 
 Possible WA Endorsements:
-[nation=Ignampos]=Founder
 [nation=United States of the Superior]=Prime Minister
 [nation=German American States]=Immigration Chief/Webmaster
 [nation=Timoskanavia]=Head of the Department of Capitialism

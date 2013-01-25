@@ -5,11 +5,11 @@ Vice President: [nation=short+noflag]Rhemaland[/nation]
 
 [u][b]Legislative Branch[/b][/u]
 House of Representatives
-Speaker: [color=red]Vacant[/color]
+Speaker: [nation=short+noflag]Max-A-Million Centre[/nation]
 Representative: [nation=short+noflag]Vispariti[/nation]
 Representative: [nation=short+noflag]Wellingtonburg[/nation]
 Representative:[nation=short+noflag]Brutii Rebels[/nation]
-Representative:[nation=short+noflag]Max-A-Million Centre[/nation]
+Representative:[color=red]Vacant[/color]
 
 [u][b]Judicial Branch[/b][/u]
 Department of Justice

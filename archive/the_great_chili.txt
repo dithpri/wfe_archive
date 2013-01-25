@@ -4,7 +4,6 @@ The Chilean Keepers are the slightly mad protectors of the region.
 The Chilean Keepers are as follows:
 [nation]Senoheir[/nation]: [i]The Bastion[/i]
 [nation]Wabacha[/nation]: [i]The Coordinator[/i]
-[nation]The Sangheili Separatist[/nation]: [i]The Eldest[/i]
 [nation]Scamvidia[/nation]: [i]The Peace-Keeper[/i]
 [nation]TheCreed[/nation]: [i]The Informer[/i]
 

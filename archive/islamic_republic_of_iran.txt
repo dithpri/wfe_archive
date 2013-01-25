@@ -13,7 +13,7 @@
 
 [u]Ministers[/u]
 
-[color=brown]Minister of Intelligence and National Security: [nation=short]The Free State of Bavaria[/nation]
+[color=brown]Minister of Intelligence and National Security: VACANT
 
 Minister of Foreign Affairs: [nation=short]Ahmedistan[/nation]
 
@@ -23,7 +23,7 @@ Minister of Culture and Islamic Guidance: VACANT
 [/color][/b]
 
  
-
+Ambassador in [region]RORMS[/region] [nation=short]Al-Jihad Palestine Iran[/nation]
 
 
 [color=red][b]Allied With: [region]RORMS[/region], [region]United Empire of Islam[/region] and [region]Foxtopia[/region][/b][/color]

@@ -20,11 +20,9 @@ Aein(1)
 [b]Largest City:[/b] Astianas,[nation=short]ecnav enitsuj[/nation]
 
 [b] Astianas Stock Exchange index
-[color=blue]ASEi [/color] :[/b][b] 6058.00 [ [color=green]+218 pts[/color]][/b]
+[color=blue]ASEi [/color] :[/b][b] 8,183.63 [ [color=green]+27.39 pts[/color]][/b]
 
- [b]Redlands Exchange index 
-[color=blue]RedExi [/color] :[/b][b]4,2601 [ [color=green]+115 pts[/color]][/b]
-
+ 
 
 
 ==============================================================

@@ -1,13 +1,13 @@
-Wilson Boys is a region founded by the students of Wilson High School. We all look for every nation and region to prosper in the future! 
+Wilson Boys is a region founded by the students of Wilson High School. We welcome everyone from Wilson to join and participate in our elections!
 
-President: [nation=short]New Frankoland[/nation]
+[b]President[/b]: [nation=short]New Frankoland[/nation]
 
-VP: [nation=short]Concerned Conservatives[/nation]
+[b]Vice President[/b]: [nation=short]Concerned Conservatives[/nation]
 
-Peacekeeper:  [nation=short]FSUniverse[/nation]
+[b]Peacekeeper[/b]:  [nation=short]FSUniverse[/nation]
 
-Ambassador: [nation=short]Mwc45[/nation]
+[b]Ambassador[/b]: [nation=short]Mwc45[/nation]
 
-RDA: [nation=short]New Impire[/nation]
+[b]RDA[/b]: [nation=short]New Impire[/nation]
 
-If any problems arise please contact [nation=short]New Frankoland[/nation] or [nation=short]Concerned Conservatives[/nation]
+[i]If any problems arise please contact [nation=short]New Frankoland[/nation] or [nation=short]Concerned Conservatives[/nation][/i]
