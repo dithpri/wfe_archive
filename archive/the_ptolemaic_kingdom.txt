@@ -4,11 +4,14 @@
 
 [b]*
 
-[I]&amp;quot;The Ptolemaic Kingdom, Now and Forever!&#148;[/I]
+[I]&amp;quot;The Ptolemaic Kingdom, Now and Forever, Home of the Pharaohs!&#148;[/I]
 
 [region]The Ptolemaic Kingdom[/region] Region is once again under the Joint Administration,
-and the Command and Control, of the [region]International Commonwealth Of Nations[/region],
-and [nation]Ptolemaic Kingdom[/nation]; and is now a Protectorate of the I.C.O.N.
+the Absolute Authority, and the Command and Control, of the Region of the 
+[region]International Commonwealth Of Nations[/region], and [nation]Ptolemaic Kingdom[/nation],
+which serves as the Military Governor of the region.
+
+[region]The Ptolemaic Kingdom[/region] Region is a Protectorate of the [region]International Commonwealth Of Nations[/region].
 
 
 [region]The Ptolemaic Kingdom[/region] Region was reborn on the foundation of the [region]Ptolemaic Kingdom[/region]; 

@@ -17,7 +17,7 @@ Chief Justice: [nation=short+noflag]Branceonia[/nation]
 Justice: [nation=short+noflag]Papua New Craig[/nation]
 Justice: [color=red]Vacant[/color]
 
-[u][b]Terms To Know[/b][/u]
+[color=red][u][b]GENERAL ELECTION ON FEBRUARY 1ST[/b][/u][/color]
 [u]Primary Election[/u] is the election that only affects the election of Representatives and Justices.
 [u]General Election[/u] is the election that affects the election of Representatives, Justices, and the Office of the President, along with any constitutional revisions or amendments.
 

@@ -1,6 +1,6 @@
-[b]Welcome to Imperial Russia! [/b]
-[hr][b]Imperial Russia[/b] is a Protectorate of [region]Kingdom of Northern Ireland[/region].
-[hr][b]King:[/b] Romain Martin
-[b]Queen:[/b] Martha Ruvenacht-Martin
+[b][color=red]Welcome to[/color] [color=blue]Imperial[/color] [color=grey]Russia![/color] [/b]
+[hr][b]Imperial Russia[/b] is a Protectorate of [region]United Kingdom[/region].
+[hr][b]King:[/b] Alexander II
+[b]Queen:[/b] Victoria
 [b]Grand Duke/Duchess:[/b] To be appointed
-[b]Lord Protector:[/b] Henrik Stuart-Danneborg of [region]The Kingdom of Denmark[/region] 
+[b]Lord Protector:[/b] Joakim Oldenbug of [region]The Kingdom of Denmark[/region] 
