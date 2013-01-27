@@ -1,4 +1,8 @@
-&lt;b&gt;&lt;u&gt;Colony &amp;quot;Gestapo&amp;quot;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;
-&lt;font color=&quot;blue&quot;&gt;Captured on 20/9/2012 at 4:30 p.m by &lt;b&gt;&lt;a href=&quot;/region=the_great_kingdom_of_prussia&quot; class=&quot;rlink&quot;&gt;The Great Kingdom of Prussia&lt;/a&gt;&lt;/font&gt;&lt;/b&gt;&lt;p&gt;&lt;font color=&quot;gold&quot;&gt;&lt;b&gt;&lt;u&gt;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;p&gt;&lt;u&gt;&lt;b&gt;Participants:&lt;/b&gt;&lt;/u&gt;&lt;br&gt;
-&lt;a href=&quot;nation=germanier&quot; class=&quot;nlink&quot;&gt;&lt;img src=&quot;/images/flags/uploads/germanier__939946t2.jpg&quot; class=&quot;miniflag&quot; alt=&quot;&quot;&gt;&lt;span&gt;Germanier&lt;/span&gt;&lt;/a&gt; / &lt;a href=&quot;nation=kajstan&quot; class=&quot;nlink&quot;&gt;&lt;img src=&quot;/images/flags/uploads/kajstan__157489t2.jpg&quot; class=&quot;miniflag&quot; alt=&quot;&quot;&gt;&lt;span&gt;Kajstan&lt;/span&gt;&lt;/a&gt;&lt;br&gt;
-&lt;a href=&quot;nation=nationalist_state_of_knox&quot; class=&quot;nlink&quot;&gt;&lt;img src=&quot;/images/flags/uploads/nationalist_state_of_knox__104071t2.jpg&quot; class=&quot;miniflag&quot; alt=&quot;&quot;&gt;&lt;span&gt;Nationalist State of Knox&lt;/span&gt;&lt;/a&gt;&lt;p&gt;&lt;font color=&quot;grey&quot;&gt;&lt;b&gt;&lt;u&gt;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;p&gt;
+[b][u]Colony &amp;quot;Gestapo&amp;quot;[/u][/b]
+[color=blue]Captured on 20/9/2012 at 4:30 p.m by [b][region]The Great Kingdom of Prussia[/region][/b][/color]
+
+[color=gold][b][u]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/u][/b][/color]
+[u][b]Participants:[/b][/u]
+[nation=short]Germanier[/nation] / [nation=short]Kajstan[/nation]
+[nation=short]Nationalist State of Knox[/nation]
+[color=grey][b][u]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/u][/b][/color]

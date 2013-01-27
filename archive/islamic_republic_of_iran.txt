@@ -9,11 +9,13 @@
 
 [color=brown]Acting President: [nation=short]Ognjen Ahmadinejad II[/nation] ([nation=short]Ognjen Ahmadinejad[/nation])[/color]
 
-[color=brown]Vice President: [nation=short]Western Arab Empire[/nation][/color]
+[color=brown]Vice President: [nation=short]Western Arab Empire[/nation]
+
+Vice President for Intelligence and National Security: [nation=short]Unibot III[/nation][/color] 
 
 [u]Ministers[/u]
 
-[color=brown]Minister of Intelligence and National Security: VACANT
+[color=brown]
 
 Minister of Foreign Affairs: [nation=short]Ahmedistan[/nation]
 

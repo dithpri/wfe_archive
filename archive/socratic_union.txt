@@ -1,29 +1,19 @@
 We are a union between 4 independent nations and 2 colonies. 
-Formed to unify many nations, we host elections.
-
-[i]NEWS[/i]
-
-
 Visit [url=http://socraticunionns.jimdo.com]our site[/url]!
-
 
 President= [nation]Bazarium[/nation]
 WA delegate= [nation]Greekland1821[/nation]
-Vice-President= [nation]Olympistan[/nation]
-Minister of Foreign Affairs= [i]Vacant[/i]
-Minister of Wealth=   [i]Vacant[/i]
-Minister of War=    [i]Vacant[/i]
-Supreme Court = [nation]Bazarium[/nation]
- [nation]Greekland1821[/nation]
- [nation]Olympistan[/nation]
+Minister of Foreign Affairs=[nation]Mix[/nation]
+Minister of Wealth= [nation]Tzatzikistania[/nation]
+Minister of War=[nation]Olympistan[/nation]
+Minister of Economy=[nation]Greekland1821[/nation]
+Supreme Court = [nation]Bazarium[/nation],[nation]Greekland1821[/nation],
+[nation]Athenaland48[/nation].
 
-
-[i]Stats[/i]
-
-Population:221 000 000
+Population:301 000 000
 Exchange Rate ($):
-1 Bazarian Dollar (BAZ.+TZA.)= 1,02$ 
-1 Greek Drachma (GR1821)=     1,18$
+1 Socratic Union Dollar (BAZ.+TZA.)= 0,99$ 
+1 Greek Drachma (GR1821)=     1,15$
 1 Yemin (OLY.)=                           1,35$ 
 1 Melila (MIX)=                             0,37$
 1 Ally (ATH48)=                           1,06$
