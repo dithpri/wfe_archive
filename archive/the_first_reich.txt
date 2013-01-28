@@ -2,7 +2,7 @@
 [hr][b][u]The Government:[/u][/b]
 
 [b]WA Delegate: [nation=short]Marzovia[/nation]
-Vice WA Delegate: [nation=short]Awas[/nation]
+Vice WA Delegate: 
 Lord of Intelligence and Foreign Affairs: [nation=short]Marzovia[/nation] 
 Lord of Internal Affairs and the Military: [nation=short]Fontoria[/nation]
 Lord of Recruitment: [nation=short]Marzovia[/nation]

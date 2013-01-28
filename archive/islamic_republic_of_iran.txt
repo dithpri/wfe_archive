@@ -11,13 +11,15 @@
 
 [color=brown]Vice President: [nation=short]Western Arab Empire[/nation]
 
-Vice President for Intelligence and National Security: [nation=short]Unibot III[/nation][/color] 
+Adviser for Intelligence and National Security: [nation=short]Unibot III[/nation][/color] 
 
 [u]Ministers[/u]
 
 [color=brown]
 
 Minister of Foreign Affairs: [nation=short]Ahmedistan[/nation]
+
+Minister of Intelligence and National Security: VACANT
 
 Minister of Defense and Internal Affairs: Major general [nation=short]Amenhotep IV[/nation]
 

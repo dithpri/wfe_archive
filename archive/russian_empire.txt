@@ -1,1 +1,13 @@
-The lands of Russia
+[color=red]Prime Ministers of Russia[/color]:
+[nation]Hothaba[/nation] : (Prime Ministers)
+Vacant (Military)
+Vacant (Delegate)
+
+[color=red]Generals[/color]:
+Vacant (Spy Chief)
+Vacant
+Vacant
+
+[color=red]Ministers[/color]:
+Vacant (Propaganda)
+[nation]Hofe[/nation] (Foreign Affairs)

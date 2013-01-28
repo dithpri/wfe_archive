@@ -19,5 +19,5 @@ Founder: [nation]Agrigal The Second[/nation]
 [region]Fraca[/region]
 [region]Theramore[/region]
 [region]Intergalactic Federacy[/region]
-[region]Tychrome[/region]
+[region]Tychrome[/region] (Pending)
 [region]Bermuda Triangle[/region]

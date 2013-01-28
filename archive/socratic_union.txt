@@ -10,7 +10,7 @@ Minister of Economy=[nation]Greekland1821[/nation]
 Supreme Court = [nation]Bazarium[/nation],[nation]Greekland1821[/nation],
 [nation]Athenaland48[/nation].
 
-Population:301 000 000
+Population:331 000 000
 Exchange Rate ($):
 1 Socratic Union Dollar (BAZ.+TZA.)= 0,99$ 
 1 Greek Drachma (GR1821)=     1,15$
