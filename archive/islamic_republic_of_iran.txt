@@ -11,7 +11,7 @@
 
 [color=brown]Vice President: [nation=short]Western Arab Empire[/nation]
 
-Adviser for Intelligence and National Security: [nation=short]Unibot III[/nation][/color] 
+Adviser for Intelligence: [nation=short]Unibot III[/nation][/color] 
 
 [u]Ministers[/u]
 

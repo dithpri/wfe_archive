@@ -11,7 +11,7 @@ _________________________________________________________________
 - [b]Marshal:[/b]
 - [b][color=darkred]Ambassador[/color][nation=short]Transoxthraxia[/nation][/b]
 - [b]Recruitment Officer:[/b]
-- [b][color=darkred]Judge:[/b][/color]
+- [b][color=darkred]Judge:[/b][/color][b][nation=short]Fungopolis[/nation][/b]
 _________________________________________________________________
 
 -[b][color=darkred]Join our The Templar Army and help us destroy The [region]Assassins[/region][/b][/color]

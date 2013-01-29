@@ -20,7 +20,7 @@ Nation of the Week Award
 [nation]Orvalian[/nation]
 
 Protectorates
-[region]Silver Coast[/region]
+[region]Silver Coast[/region], [region]The Ptolemaic Kingdom[/region]
 
 ICON Embassy Mailing Address
 [color=green]commonwealth.government.mail@gmail.com[/color]

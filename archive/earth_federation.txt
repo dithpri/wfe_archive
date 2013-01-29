@@ -1,26 +1,26 @@
-[b][color=lightgreen]Largest Economy:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $79.5 trillion ]
+[b][color=lightgreen]Largest Economy:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $68.9 trillion ]
 
-[b][color=lightgreen]Smallest Economy:[/color][/b] [nation=short]Ter Alda[/nation] [ $88.3 billion ]
+[b][color=lightgreen]Smallest Economy:[/color][/b] [nation=short]Nova Africa[/nation] [ $107.0 billion ]
 
-[b][color=lightgreen]Highest GDP Per Capita:[/color][/b] [nation=short]X1ng[/nation] [ $44,279.01 ]
+[b][color=lightgreen]Highest GDP Per Capita:[/color][/b] [nation=short]X1ng[/nation] [ $43,463.85 ]
 
-[b][color=lightgreen]Lowest GDP Per Capita:[/color][/b] [nation=short]Nova Africa[/nation] [ $77.94 ]
+[b][color=lightgreen]Lowest GDP Per Capita:[/color][/b] [nation=short]Nova Africa[/nation] [ $77.98 ]
 
-[b][color=lightgreen]Highest Average Employee Salary:[/color][/b][nation=short]Greater Neo Germany[/nation]  [ $88,506.95 ]
+[b][color=lightgreen]Highest Average Employee Salary:[/color][/b][nation=short]X1ng[/nation]  [ $58,162.80 ]
 
-[b][color=lightgreen]Lowest Average Employee Salary: [/color][/b] [nation=short]Nova Africa[/nation] [ $102.44 ]
+[b][color=lightgreen]Lowest Average Employee Salary: [/color][/b] [nation=short]Nova Africa[/nation] [ $102.51 ]
 
 [b][color=lightgreen]Highest Unemployment Rate: [/color][/b][nation=short]Nova Africa[/nation] [ 26.12% ]
 
-[b][color=lightgreen]Lowest Unemployment Rate: [/color][/b] [nation=short]Greater Neo Germany[/nation] [ 2.56% ]
+[b][color=lightgreen]Lowest Unemployment Rate: [/color][/b] [nation=short]X1ng[/nation] [ 2.55% ]
 
 [hr]
 
-[b][color=lightgreen]Regional Population:[/color][/b] 26,829,000,000
+[b][color=lightgreen]Regional Population:[/color][/b] 28,037,000,000
 
-[b][color=lightgreen]Largest Member State:[/color][/b] [nation=short]Obesinia[/nation] [ 1.834 billion ]
+[b][color=lightgreen]Largest Member State:[/color][/b] [nation=short]Obesinia[/nation] [ 1.993 billion ]
 
-[b][color=lightgreen]Smallest Member State:[/color][/b] [nation=short]Ter Alda[/nation]  [ 12 million ]
+[b][color=lightgreen]Smallest Member State:[/color][/b] [nation=short]Ter Alda[/nation]  [ 133 million ]
 
 [b][color=lightgreen]Highest Tax Rate:[/color][/b] [nation=short]the illuminous sun[/nation] [ [color=Red]77%[/color] ]
 

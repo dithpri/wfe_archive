@@ -1,0 +1,9 @@
+[color=burgundy]Welcome to [region]Onderon[/region]![/color]
+
+[b][color=silver]Onderon is a region based on the executive authority of the Monarchy.[/color][/b]
+
+[b][color=gold][nation=short]Queen Talia[/nation] is the current ruler of Onderon. Long may she reign![/color][/b]
+
+[b][color=Black]Council of Lords
+Chief of the Onderonian Military: [nation=short]General Vaklu[/nation]
+Minister for Foreign Affairs: [nation=short]Freedon Nadd[/nation][/color][/b]
