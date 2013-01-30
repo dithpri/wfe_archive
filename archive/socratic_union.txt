@@ -3,12 +3,12 @@ Visit [url=http://socraticunionns.jimdo.com]our site[/url]!
 
 President= [nation]Bazarium[/nation]
 WA delegate= [nation]Greekland1821[/nation]
-Minister of Foreign Affairs=[nation]Mix[/nation]
-Minister of Wealth= [nation]Tzatzikistania[/nation]
-Minister of War=[nation]Olympistan[/nation]
-Minister of Economy=[nation]Greekland1821[/nation]
+Minister of Foreign Affairs=[i]Vacant[/i]
+Minister of Wealth= [i]Vacant[/i]
+Minister of War=[i]Vacant[/i]
+Minister of Economy=[i]Vacant[/i]
 Supreme Court = [nation]Bazarium[/nation],[nation]Greekland1821[/nation],
-[nation]Athenaland48[/nation].
+[nation]Olympistan[/nation].
 
 Population:331 000 000
 Exchange Rate ($):

@@ -1,12 +1,12 @@
 [b]Welcome to the[/b] [color=blue]Roman Republic[/color]
 -----------------------------------------------------------
-[color=red]The Government Is Lead By The Following People[/color] 
-[color=blue]Consul[/color]: 
+[b]The Government Is Lead By The Following People[/b] 
+[color=blue]Consul[/color]:[nation=short]Romanus Republic[/nation] 
 [color=blue]Vice Consul[/color]: 
 [color=green]First Censor[/color]: 
 [color=green]Second Censor[/color]:
 -----------------------------------------------------------
-[color=purple]Senator[/color]:[nation=short]Romanus Republic[/nation]
+[color=purple]Senator[/color]:
 [color=purple]Senator[/color]: 
 [color=purple]Senator[/color]:
 [color=purple]Senator[/color]:

@@ -1,6 +1,15 @@
 [color=000080][b]Ionia[/b][/color]
-[color=008000][i]the Galapagos A Team[/i][/color]
+[color=008000][i]the [region=Galapagos] [b]A[/b] Team[/i][/color]
+
 [color=800000][u]Sorry - A Closed Region[/u][/color]
+
 [color=FF8000]Region refounded by [nation=short]Royal House of Windsor[/nation][/color]
 
-[color=1E90FF]EMBASSY POLICY: Sorry - will not be entertaining any more embassies[/color]
+[color=4F7942][b]Home Regions of [nation=short+noflag]Elliston[/nation][/b]
+1. [b]Ionia[/b]
+2. [region=Weirdonia]
+3. [region=Galapagos]
+4. [region=Western Samoa]
+5. [region=South China Sea][/color]
+
+[color=1E90FF][b]EMBASSY POLICY:[/b] Will accept any EMBASSY offer sent.[/color]

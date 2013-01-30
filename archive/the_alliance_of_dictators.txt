@@ -9,7 +9,7 @@ ALLIES
 MINISTERS
 War: [nation]Cinistra[/nation] 
 Totalitarian Spirit: [nation]Stojanistein[/nation]
-Foreign Affairs: -vacant-
+Foreign Affairs: [nation]Valcouria[/nation]
 Internal Affairs: [nation]The Mighty Hyena[/nation]
 Welcome Wagon: [nation]Khalite[/nation]
 

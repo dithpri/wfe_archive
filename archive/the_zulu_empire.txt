@@ -4,7 +4,7 @@
 [u][b]The Regional Council:[/u]
 Emporer: [nation=short]Imperial Rising sun[/nation]
 WA Deligete:[nation=short]Fontoria[/nation] 
-Minister:
+Minister: [nation=short]Marzovia[/nation]
 Minster:
 Minister:
 Minster:

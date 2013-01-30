@@ -4,7 +4,8 @@ The Chilean Keepers are the slightly mad protectors of the region.
 The Chilean Keepers are as follows:
 [nation]Senoheir[/nation]: [i]The Bastion[/i]
 [nation]Wabacha[/nation]: [i]The Coordinator[/i]
-[nation]Scamvidia[/nation]: [i]The Peace-Keeper[/i]
+[nation]Political Confusionists[/nation]: [i]The Peacekeeper[/i]
+[nation]Czargonia[/nation]: [i]The Warmonger[/i]
 [nation]TheCreed[/nation]: [i]The Informer[/i]
 
 These are the various dances and emotes that are used within the Great Chili
@@ -13,3 +14,4 @@ Dance of Happiness: &amp;lt;(^-^&amp;lt;)(&amp;gt;^-^)&amp;gt;(&amp;gt;^-^&amp;l
 Ban Dance: &amp;lt;(-_-&amp;lt;) ^(-_-^) ^(-_-)^ (^-_-)^ (&amp;gt;-_-)&amp;gt;
 Migrane: /(-.-)\
 Nom Waffle: #&amp;lt;(^-^&amp;lt;)
+Get Out: ,(-_-)&amp;gt;

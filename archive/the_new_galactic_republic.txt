@@ -6,7 +6,7 @@
 [hr][color=red][b]Cabinet[/b][/color] 
 [b]Minister of Foreign Affairs:[/b] [nation=short]Veneztia[/nation]
 [b]Minister of Defence:[/b] [nation=short]New Lazaria[/nation]
-[b]Minister of Internal Affairs :[/b] TBA
+[b]Minister of Internal Affairs :[/b] [nation=short]Steel Talons[/nation]
 [hr][color=red][b]Supreme Court[/b][/color]
 [b]Chief Justice:[/b] [nation=short]Eiffel[/nation]
 [b]Associate Justice:[/b] TBA
@@ -15,7 +15,8 @@
 
 [color=purple]Hailing Chatbot[/color]
 
-If anyone wants to be in the cabinet please let me know, and I will consider it, you will probably get the job.
+Today is Chatbot day! Every day is chatbot day!
+All hail the Chatbot overlords!
 
 [color=purple][b]Please endorse your new President, [nation=short]346Rebels[/nation]![/b][/color]
 

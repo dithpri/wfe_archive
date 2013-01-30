@@ -7,10 +7,13 @@ GALAPAGOS DEPARTMENT OF THE INTERIOR
 Bureau Office of the Census
 CONTROL OFFICE
 
-[b]1[/b] [region=Galapagos]
-[b]2[/b] [region=Western Samoa]
-[b]3[/b] PASSWORDED REGION : SORRY
-[b]4[/b] [region=Pitcairn]
-[b]5[/b] [region=the Cayman Islands]
-[b]6[/b] [region=Tuscany][/color][color=red]
+[b]Home Regions of [nation=short+noflag]Elliston[/nation]
+3[/b] [region=Galapagos]
+[b]4[/b] [region=Western Samoa]
+[b]5 South China Sea
+6[/b] [region=Pitcairn]
+[b]7[/b] [region=M1A1]
+[b]8[/b] [region=the Cayman Islands]
+[b]9[/b] [region=Tuscany]
+[/color][color=red]
 [b]PLEASE - DO NOT RECRUIT HERE[/b][/color]
