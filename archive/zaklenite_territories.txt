@@ -8,4 +8,4 @@ Regional Tribunal:
 [nation=short]Amyrintha[/nation], ???, and ???.
 
 Delegate:
-[b]Election in Progress. Remember to only endorse one nation.[/b]
+[nation=short]Zaklen[/nation]

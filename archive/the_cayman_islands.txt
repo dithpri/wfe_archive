@@ -1,6 +1,11 @@
 [color=543210][b]the Cayman Islands[/b]
 
-a [region=Galapagos] region
-co-region with [region=Western Samoa][/color]
+a [region=Galapagos] region[/color]
 
-[b]5[/b] PASSWORDED REGION :  SORRY
+[color=green][b]Home Region of [nation=short+noflag]Elliston[/nation][/b]
+ 6 [region=Pitcairn]
+ 7 [region=M1A1]
+ 8 [b]the Cayman Islands[/b]
+ 9 [region=Tuscany]
+10 [region=Sverige][/color][color=800000]
+ PLEASE - NO RECRUITING[/color]
