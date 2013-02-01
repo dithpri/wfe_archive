@@ -2,6 +2,8 @@
 
 [b][color=silver]Onderon is a region based on the executive authority of the Monarchy.[/color][/b]
 
+[b][color=green]King: [nation=short]Carl Phillip I[/nation][/color][/b]
+
 [b][color=Black]Council of Lords
 Chief of the Onderonian Military: [nation=short]General Vaklu[/nation]
 Minister for Foreign Affairs: [nation=short]Freedon Nadd[/nation][/color][/b]

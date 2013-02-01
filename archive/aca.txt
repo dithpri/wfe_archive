@@ -8,7 +8,7 @@ President:[/b] [nation=short]United Horizon[/nation]
 
 [u][b]Supreme Court[/u][/b]
 [nation=short]FnFail[/nation]
-OPEN
+[nation=short]South Raiders[/nation]
 
 
 
@@ -25,6 +25,4 @@ OPEN
 
 [b]Current Level:[/b] [color=blue]GUARDED[/color]
 [hr][b][u][color=blue]News[/color][/b][/u]
-Congress has been abolished
-Supreme Court Erected
-Embassies ordered to close
+[b][color=red]The War has been declared &amp;quot;Unable to be won&amp;quot; by Titanshen speculation[/color][/b]

@@ -1,8 +1,8 @@
 Adaescum: $0 30,000 [color=1E90FF]100i[/color] [color=87CEEB]100[/color]
-New Panti: $8,000 8,000[color=1E90FF]150i[/color]  [color=87CEEB]50[/color] Ra
+New Panti: $3,000 8,000[color=1E90FF]150i[/color]  [color=87CEEB]50[/color] Ra
 Litseron: $5,000 20,000[color=1E90FF]150i[/color] [color=87CEEB]50[/color] Ra
 Epimitheus: $0 30,000[color=1E90FF]150i[/color] [color=87CEEB]50[/color] Ra
 Rampana: $0 30,000[color=1E90FF]100i[/color] [color=87CEEB]70[/color]
-Aquacia: $1,000 30,000[color=1E90FF]150i[/color] [color=87CEEB]50[/color] Ra
-Boff the Placeholder: $12,000 12,000[color=1E90FF]150i[/color] [color=87CEEB]50[/color]
+Aquicia: $1,000 30,000[color=1E90FF]150i[/color] [color=87CEEB]50[/color] Ra
+Boff the Placeholder: $0 18,000[color=1E90FF]150i[/color] [color=87CEEB]50[/color]
 Celmarog: $47,000; 1,000; 100pp

@@ -7,15 +7,15 @@
 [b][url=http://forum.nationstates.net/viewtopic.php?f=23&amp;amp;t=214613&amp;amp;p=12144339#p12144339]Regional Factbook[/url][/b]
 
 [b][color=darkred]Regional Positions:[/color][/b]
-[color=blue]Regional Chief: [nation]Shofercia[/nation]
-Founder and Executor: [nation]Kleomentia[/nation]
-Regional Duke: [nation]Petrovsegratsk[/nation]
+[color=blue]Regional Chief: [nation=short]Shofercia[/nation]
+Founder and Executor: [nation=short]Kleomentia[/nation]
+Regional Duke: [nation=short]Petrovsegratsk[/nation]
 Minister of Foreign Affairs: To be elected
-Recruiter Chief: [nation]Kleomentia[/nation][/color]
+Recruiter Chief: [nation=short]Kleomentia[/nation][/color]
 
-[color=red]Inter-regional Delegate 1: [nation]Marcunia[/nation] 
-Inter-regional Delegate 2: [nation]Terchinsia[/nation]
-Inter-regional Delegate 3: [nation]Boriyanka[/nation][/color]
+[color=red]Inter-regional Delegate 1: [nation=short]Marcunia[/nation] 
+Inter-regional Delegate 2: [nation=short]Terchinsia[/nation]
+Inter-regional Delegate 3: [nation=short]Boriyanka[/nation][/color]
 
 [b][color=darkblue]One of the best Slavic/Eastern regions in NationStates![/color][/b]
 

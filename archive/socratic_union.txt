@@ -10,10 +10,10 @@ Minister of Economy=[i]Vacant[/i]
 Supreme Court = [nation]Bazarium[/nation],[nation]Greekland1821[/nation],
 [nation]Olympistan[/nation].
 
-Population:331 000 000
+Population:467 000 000
 Exchange Rate ($):
 1 Socratic Union Dollar (BAZ.+TZA.)= 0,99$ 
-1 Greek Drachma (GR1821)=     1,19$
+1 Greek Drachma (GR1821)=     1,22$
 1 Yemin (OLY.)=                           1,35$ 
 1 Melila (MIX)=                             0,37$
 1 Ally (ATH48)=                           1,06$

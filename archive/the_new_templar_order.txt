@@ -8,7 +8,7 @@ _________________________________________________________________
 - [b][color=darkred] Master Templar:[/color][nation=short]Vordona[/nation][/b]
 - [b]General:[nation=short]The Tropican States[/nation][/b]
 - [b][color=darkred]Marshal[/color][nation=short]Orgaria[/nation][/b]
-- [b]Marshal:[/b]
+- [b]Marshal:[nation=short]Changolia[/nation][/b]
 - [b][color=darkred]Ambassador[/color][nation=short]Transoxthraxia[/nation][/b]
 - [b]Immigration Officer:[/b]
 - [b][color=darkred]Judge:[/b][/color][b][nation=short]Fungopolis[/nation][/b]
