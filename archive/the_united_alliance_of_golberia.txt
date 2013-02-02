@@ -8,6 +8,7 @@
 [u]Government:[/u]
 Founder: [nation]Colland[/nation]
 Official World Assembly Delegate: [nation]Saggitarius[/nation]
-Department of Defence:
-Department of Trade:
-Department of Foreign Alliances:
+Department of Defense: [nation]Lycan fang[/nation]
+Department of Trade: [nation]Laser land[/nation]
+Department of Foreign Alliances: [nation]Eratova[/nation]
+Departments of Sports:

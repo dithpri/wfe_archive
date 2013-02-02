@@ -6,7 +6,6 @@ We are few, we are great.
 
 [color=navy]Supreme Chancellor[/color]: [nation=new cubeckistan]
 [color=amarillo]Premier[/color]: Vacant
-[color=afadsf]Minister of Governors[/color]: Vacant
+[color=afadsf]Minister of Governors[/color]: [nation=obscurus neutrala]
 [color=green]Minister of Commons[/color]: [nation=corn world]
 [color=navy]Adviser Honorary[/color]: [nation=the armed republic of dutch coolness]
-

@@ -1,11 +1,10 @@
-[color=burgundy]Welcome to [region]Onderon[/region]![/color]
+[b][color=red]Welcome to [region]Onderon[/region]![/color][/b]
 
 [b][color=silver]Onderon is a region based on the executive authority of the Monarchy.[/color][/b]
 
 [b][color=green]King: [nation=short]Carl Phillip I[/nation][/color][/b]
 
-[b][color=Black]Council of Lords
-Chief of the Onderonian Military: [nation=short]General Vaklu[/nation]
-Minister for Foreign Affairs: [nation=short]Freedon Nadd[/nation][/color][/b]
+[color=blue]Join our Regional Forum[/color] [url=http://w11.zetaboards.com/Onderon/index/]here[/url]
+[color=green]Apply for Citizenship [url=http://w11.zetaboards.com/Onderon/topic/8450127/1/#new]here[/url][/color]
 
-Forum: http://w11.zetaboards.com/Onderon/index/
+[b][color=purple]Join the World Assembly! Whoever collects the most endorsements may be our Delegate.[/color][/b]

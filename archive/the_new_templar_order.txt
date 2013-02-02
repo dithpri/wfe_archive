@@ -1,19 +1,20 @@
-- [color=darkred][b]Welcome to The New Templar Order! Sworn Enemies of The [region]Assassins[/region]![/b][/color]
+- [color=darkred][b]Welcome to The New Templar Order! [/color]
 
-[b][i]&amp;quot;I am an expert swordsman. And I am skilled in the business of death. I take no pleasure in my skill. Simply, I am good at it.&amp;quot;
+[i]&amp;quot;I am an expert swordsman. And I am skilled in the business of death. I take no pleasure in my skill. Simply, I am good at it.&amp;quot;
 - Haytham Kenway[/i][/b]
 _________________________________________________________________
 
 - [b]Grand Master: [nation=short]King George Washington[/nation][/b]
-- [b][color=darkred] Master Templar:[/color][nation=short]Vordona[/nation][/b]
-- [b]General:[nation=short]The Tropican States[/nation][/b]
-- [b][color=darkred]Marshal[/color][nation=short]Orgaria[/nation][/b]
-- [b]Marshal:[nation=short]Changolia[/nation][/b]
-- [b][color=darkred]Ambassador[/color][nation=short]Transoxthraxia[/nation][/b]
-- [b]Immigration Officer:[/b]
-- [b][color=darkred]Judge:[/b][/color][b][nation=short]Fungopolis[/nation][/b]
+- [b][color=darkred]Supreme Commander:[/color] [nation=short]Brentonania[/nation]
+-  Master Templar:[nation=short]Vordona[/nation][/b]
+- [b][color=darkred]General:[/color][nation=short]The Tropican States[/nation][/b]
+- [b]Marshal[nation=short]Orgaria[/nation][/b]
+- [b][color=darkred]Marshal:[nation=short]Aerovinik[/nation][/color][/b]
+- [b]Ambassador[nation=short]Transoxthraxia[/nation][/b]
+- [b][color=darkred]Immigration Officer:[/color][/b]
+- [b]Judge:[/b][b][nation=short]Fungopolis[/nation][/b]
 _________________________________________________________________
 
--[b][color=darkred]Join our The Templar Army and help us destroy The [region]Assassins[/region][/b][/color]
+-[b][color=darkred]Join our The Templar Army and help us destroy our enemies![/color][/b]
 
 -[b]May The Father of Understanding Guide Us[/b]

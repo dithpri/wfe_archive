@@ -2,17 +2,15 @@
 [hr][b][url=http://w11.zetaboards.com/Imperial_Guard_Forum/index/][color=000080]Forum[/color][/url]  [/b]l[b]  [url=http://www.broomdces.com/nseconomy/regions.php?region=The%20Imperial%20Guard][color=000080]Economy[/color][/url]  [/b]l[b]  [url=http://w11.zetaboards.com/Imperial_Guard_Forum/topic/7980368/1][color=000080]Map[/color][/url]  [/b]l[b]  [url=https://docs.google.com/document/d/1u6Zkfurx0ViFj0ytgwZXvYlTGSk2npKQjRe1_BVlViI/edit][color=000080]Order[/color][/url]  [/b]l[b]  [url=https://docs.google.com/spreadsheet/viewform?formkey=dG14V0dBT0xlSmtUWWViQXhLVDljbVE6MQ#gid=0][color=000080]Citizenship[/color][/url][/b]
 [hr][color=000080][b]Imperial Government[/b][/color]
 
-[color=Black][b]Imperial Emperor:[/b] ......[nation=noname]Budisel[/nation][/color][color=Black]Budisel[/color][color=black]
-[b]Prime Minister:[/b] ...........[nation=noname]Zumreed[/nation][/color][color=Black]Zumreed[/color][color=black]
-[b]Speaker:[/b] ....................[nation=noname]Ginkersnort[/nation][/color][color=black]Ginkersnort[/color][color=black] 
-[b]Honorable Judge:[/b] ........[nation=noname]Pannau[/nation][/color][color=black]Pannau[/color][color=darkblue]
+[color=Black][b]Imperial Emperor:[/b] ......[nation=short]Budisel[/nation]
+[b]Prime Minister:[/b] ...........[nation=short]Zumreed[/nation]
+[b]Speaker:[/b] ....................[nation=short]Ginkersnort[/nation]
+[b]Honorable Judge:[/b] ........[nation=short]Pannau[/nation][/color]
 
-Minister of Immigration and Customs: ....[nation=noname]Taikoku[/nation] [/color][color=black]Taikoku[/color][color=darkblue] 
-Minister of Defense and Intelligence: .....[nation=noname]Dernovia[/nation] [/color][color=black]Dernovia[/color][color=darkblue]
-Minister of Entertainment: ....................[nation=noname]Shnercropolis[/nation] [/color][color=black]Shnercropolis[/color][color=darkblue]
-Minister of the Interior: ........................[nation=noname]Wiendonia[/nation] [/color][color=black]Wiendonia[/color][hr][color=000080][b]Imperial Information[/b][/color]
+Minister of Immigration and Customs: ....[nation=short]Taikoku[/nation] 
+Minister of Defense and Intelligence: .....[nation=short]Dernovia[/nation]
+Minister of Entertainment: ....................[nation=short]Shnercropolis[/nation]
+Minister of the Interior: ........................[nation=short]Wiendonia[/nation] [hr][color=000080][b]Imperial Information[/b][/color]
 
-[list][*][color=000080]Speaker elections will be held January 30th and will last until the 1st of Febraury.[/color]
-
-[*][color=000080]The Imperial Emperor is initiating an effort to revise inactivity. Welcome to the Imperial Guard of 2013.[/color][/list]
+[list][*]A new recruitment message will be forwarded to active members soon to send to at least one new NS member per day.[/list]
 [hr]
