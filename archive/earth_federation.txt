@@ -1,14 +1,14 @@
-[b][color=lightgreen]Largest Economy:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $68.9 trillion ]
+[b][color=lightgreen]Largest Economy:[/color][/b] [nation=short]Shinikame[/nation] [ $67.8 trillion ]
 
-[b][color=lightgreen]Smallest Economy:[/color][/b] [nation=short]Nova Africa[/nation] [ $107.0 billion ]
+[b][color=lightgreen]Smallest Economy:[/color][/b] [nation=short]Nova Africa[/nation] [ $109.0 billion ]
 
-[b][color=lightgreen]Highest GDP Per Capita:[/color][/b] [nation=short]X1ng[/nation] [ $43,463.85 ]
+[b][color=lightgreen]Highest GDP Per Capita:[/color][/b] [nation=short]X1ng[/nation] [ $43,450.49 ]
 
-[b][color=lightgreen]Lowest GDP Per Capita:[/color][/b] [nation=short]Nova Africa[/nation] [ $77.98 ]
+[b][color=lightgreen]Lowest GDP Per Capita:[/color][/b] [nation=short]Nova Africa[/nation] [ $77.96 ]
 
-[b][color=lightgreen]Highest Average Employee Salary:[/color][/b][nation=short]X1ng[/nation]  [ $58,162.80 ]
+[b][color=lightgreen]Highest Average Employee Salary:[/color][/b][nation=short]X1ng[/nation]  [ $58,145.28 ]
 
-[b][color=lightgreen]Lowest Average Employee Salary: [/color][/b] [nation=short]Nova Africa[/nation] [ $102.51 ]
+[b][color=lightgreen]Lowest Average Employee Salary: [/color][/b] [nation=short]Nova Africa[/nation] [ $102.48 ]
 
 [b][color=lightgreen]Highest Unemployment Rate: [/color][/b][nation=short]Nova Africa[/nation] [ 26.12% ]
 
@@ -16,11 +16,11 @@
 
 [hr]
 
-[b][color=lightgreen]Regional Population:[/color][/b] 28,037,000,000
+[b][color=lightgreen]Regional Population:[/color][/b] 30,459,000,000
 
-[b][color=lightgreen]Largest Member State:[/color][/b] [nation=short]Obesinia[/nation] [ 1.993 billion ]
+[b][color=lightgreen]Largest Member State:[/color][/b] [nation=short]Obesinia[/nation] [ 2.024 billion ]
 
-[b][color=lightgreen]Smallest Member State:[/color][/b] [nation=short]Ter Alda[/nation]  [ 133 million ]
+[b][color=lightgreen]Smallest Member State:[/color][/b] [nation=short]Ter Alda[/nation]  [ 164 million ]
 
 [b][color=lightgreen]Highest Tax Rate:[/color][/b] [nation=short]the illuminous sun[/nation] [ [color=Red]77%[/color] ]
 

@@ -7,10 +7,10 @@
 [color=darkred][b]If you wish to help recruiting, please contact the Secretary of Inter-Regional Relations[/b][/color]
 
 [color=purple][b][i]The Secretariat for the Term:[/i][/b][/color]
-[b]Director-General:[/b] [i]Pending Election[/i]
-Secretary of Administrative Affairs: [i]Pending Election[/i]
-Secretary of Inter-Regional Relations: [i]Pending Election[/i]
+[b]Director-General:[/b] [nation=short]Zagornias[/nation]
+Secretary of Administrative Affairs: 
+Secretary of Inter-Regional Relations: 
 [hr][color=darkgreen][b][i]The Security Council for the Term:[/i] [/b][/color]
-Security Councillor: [i]Pending Election[/i]
-Security Councillor: [i]Pending Election[/i]
-Security Councillor: [i]Pending Election[/i]
+Security Councillor: [nation=short]San Monteriano[/nation]
+Security Councillor: [nation=short]La Libera[/nation]
+Security Councillor: [nation=short]Momotsuu[/nation]

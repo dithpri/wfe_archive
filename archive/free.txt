@@ -2,17 +2,15 @@
 
 [color=green] Operational headquarters have been moved to [region=Castle on the Hill][/color]
 [color=purple]This region tries to bring justice to the free peoples.[/color]
-[color=blue]Detags executed by Ravanian Justice-nations :[b] 287 [/b][/color]
+[color=blue]Detags executed by Ravanian Justice-nations :[b] 355 [/b][/color]
 
 [hr]
 [b][color=red][u]Justice-detag list:[/u][/color]
-Nov 25th: [region=Quills]
-Dec 1st: [region=The Great Green Federation]
-Dec 1st: [region=The Monotopian Allied States]
-Dec 1st: [region=Tonagaria]
-Dec 1st: [region=Pirates of the Caribbean]
-Dec 1st: [region=Ellonia]
-Dec 1st: [region=The Great Union of Empires]
+Jan 23rd: [region=Weopi]
+Jan 28th: [region=7th Street Brigade]
+Jan 28th: [region=Maarn]
+Jan 28th: [region=The Montopian Allied States]
+Jan 31st: [region=United Nations of the North West Pacific]
 [hr]
 [color=purple][u]Detag to-do-list:[/u][/color][/b]
 [color=blue] Unban banned defender nations

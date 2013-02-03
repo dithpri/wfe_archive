@@ -13,7 +13,7 @@ Arms: 18th
 Mining: 24th
 Agriculture: 13th
 Fishing: 12th
-Auto: 14th
+Auto: 11th
 Insurance: 11th
 IT: 21st
 Cheese: 12th
@@ -21,6 +21,6 @@ Avoided: 66th
 
 [b][color=green]#1 in World[/color][/b]
 
-Most Armed, Most Crime, Least Safe: [nation]little flowers[/nation] 
+Most Armed, Most Crime, Least Safe: [nation=short]little flowers[/nation] 
 
-[color=blue][b]Endorsements[/color][/b]: All WA nations must endorse [nation]Virulent Racism[/nation] prior to endorsing other nations.&nbsp;
+[color=blue][b]Endorsements[/color][/b]: All WA nations must endorse [nation=short]Virulent Racism[/nation] prior to endorsing other nations.&nbsp;
