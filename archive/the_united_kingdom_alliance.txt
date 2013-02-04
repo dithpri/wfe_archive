@@ -1,18 +1,26 @@
-IN unity we stand strong. In division, we are weak. wellcom. this region contains the RCM, the regional government of [region]the united kingdom alliance[/region]
+IN unity we stand strong. In division, we are weak. welcom. this region contains the commonwealth  of nations, former colonies of the Asthian empire.
  extention of [region]alliance of nations[/region]
-overseer [nation]jacksistan[/nation]  
-RCM President [nation]delhanara[/nation]
-vise president  [nation]kalwan[/nation]
-region is home to the:
-the regional council 
-regional council&amp;#39;s military command 
-the regional council&amp;#39;s constitutional court and 
-the regional council&amp;#39;s intelligence agency
- sec of security 
-[nation]gem isles[/nation]
-dep sec of security [nation]algan[/nation] 
- sec def [nation]star isles[/nation] 
-dep sec [nation]mac bac[/nation]
-sec tress 
- [nation]reva[/nation]
-dep sec tres [nation]sypria[/nation]
+overseer [nation=short]jacksistan[/nation]
+================
+this region is also home to the UNSc:
+=======
+Permanent members:
+=====
+[nation=short]jacksistan[/nation]
+[nation=short]asthia[/nation]
+[nation=short]gem isles[/nation]
+[nation=short]mac bac[/nation]
+[nation=short]star isles[/nation]
+===============
+rotating members:
+============
+[nation=short]japan1[/nation]
+[nation=short]delhanara[/nation]
+[nation=short]eeleenia[/nation] and
+[nation=short]hanannara[/nation]
+
+========
+regional anthem:
+=======
+commonwealth/royal anthem:
+[url=http://www.youtube.com/watch?v=Ki7nsddXuC8]god save our Queen[/url]

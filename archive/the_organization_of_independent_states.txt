@@ -8,9 +8,9 @@
 
 [color=purple][b][i]The Secretariat for the Term:[/i][/b][/color]
 [b]Director-General:[/b] [nation=short]Zagornias[/nation]
-Secretary of Administrative Affairs: 
-Secretary of Inter-Regional Relations: 
+Secretary of Administrative Affairs: [nation=short]Regnum Albion[/nation] 
+Secretary of Inter-Regional Relations: [nation=short]Cyprentana[/nation]
 [hr][color=darkgreen][b][i]The Security Council for the Term:[/i] [/b][/color]
-Security Councillor: [nation=short]San Monteriano[/nation]
+Security Councillor: [nation=short]San Monteriano[/nation] [b]PD[/b]
 Security Councillor: [nation=short]La Libera[/nation]
 Security Councillor: [nation=short]Momotsuu[/nation]

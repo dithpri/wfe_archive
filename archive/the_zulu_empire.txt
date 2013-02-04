@@ -5,7 +5,7 @@
 Emporer: [nation=short]Imperial Rising sun[/nation]
 WA Deligete:[nation=short]Fontoria[/nation] 
 Minister: [nation=short]Marzovia[/nation]
-Minster:
+Minster: [nation=short]USSR air space[/nation]
 Minister:
 Minster:
 Minster:

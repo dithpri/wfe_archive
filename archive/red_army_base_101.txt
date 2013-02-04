@@ -1,9 +1,9 @@
-This is a training region, consider it as a military base.
+[b]This is a training region of [region]the communist region[/region], consider it as a military base.
 
 Here you will learn some skill needed in regional warfare.
 
-[b]Current Generals:
-[nation=shortname]Red Army Nation 1[/nation]
-[nation=shortname]Aaban[/nation][/b]
+Current General: [nation=shortname]Red Army Nation 1[/nation]
 
-Next Lesson: [b]How to &amp;quot;Defend&amp;quot; Regions[/b]
+Next Lesson: [u]How to &amp;quot;Defend&amp;quot; Regions[/u]
+
+[url=http://forum.nationstates.net/viewtopic.php?f=12&amp;amp;t=99173]The Art of Region Warfare[/url][/b]

@@ -10,10 +10,6 @@ All nations must endorse the WA delegate, currently [nation=short]Nazi germany i
 
 [b][color=990033]YOU ARE NAZIS NOW![/color][/b]
 
-&#151; [nation=short]Testing One Two Three[/nation]
+AnoNazionous is now a protectorate of [region]BLITZKRIEG[/region]
 
-Founder: [region]AnoNazionous[/region]
-Founder: [region]BLITZKRIEG[/region]
-Elder/Demigod: [region]Hell[/region]
-General: [region]NAZI EUROPE[/region]
-Corporal: [region]The Greater German Reich[/region]
+

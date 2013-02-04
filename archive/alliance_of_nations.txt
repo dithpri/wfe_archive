@@ -1,26 +1,28 @@
 [b]Regional Council:[/b]
-[color=black]======[/color][color=red]======[/color][color=gold]======[/color]
 [i]President:[/i] [nation=short]Jacksistan[/nation]
-[i]Vice-President:[/i] [nation=short]N-C-R[/nation]
+[i]Vice-President:[/i] [nation=short]Japan1[/nation]
 [i]Minister of Internal Affairs:[/i] [nation=short]Stevesrael[/nation]
 [i]Minister of the Treasury:[/i] [nation=short]Elvendire[/nation]
-[i]Alliance of Nations Representative to the UKA:[/i] [nation=short]Jacksistan[/nation]
 
-[b]Triple Military Alliance[/b]
-[color=black]======[/color][color=red]======[/color][color=gold]======[/color]
+[b]Tripartite Pact[/b]
 [nation]Jacksistan[/nation]
-[nation]N-C-R[/nation]
+[nation]Japan1[/nation]
 [nation]Stevesrael[/nation]
 
 [b]Regional Information:[/b]
-[color=black]======[/color][color=red]======[/color][color=gold]======[/color]
 [i]Regional Anthem:[/i] [url=http://www.youtube.com/watch?v=4jIB4va_HVo&amp;amp;list=UU0qR_Ep87KLzo5cfZF_9ueg&amp;amp;index=101]Alliance Anthem[/url]
 [i]Regional Motto:[/i] [b]The Strength of the Region Lies in Unity[/b]
 
 [b]Extension Regions:[/b]
-[color=black]======[/color][color=red]======[/color][color=gold]======[/color]
-[region]The United Kingdom Alliance[/region] - [i]Overseer of the UKA:[/i] [nation=short]Jacksistan[/nation]
+[region]The United Kingdom Alliance[/region] (Allied) - [i]Overseer of the UKA:[/i] [nation=short]Jacksistan[/nation]
 
-[b]Allied Regions:[/b]
-[color=black]======[/color][color=red]======[/color][color=gold]======[/color]
-[region]The United Kingdom Alliance[/region]
+[b]United Nations Security Council:[/b]
+[nation=short]Jacksistan[/nation] - Permanent Seat
+[nation=short]Asthia[/nation] - Permanent Seat
+[nation=short]Gem Isles[/nation] - Permanent Seat
+[nation=short]Mac Bac[/nation] - Permanent Seat
+[nation=short]Star Isles[/nation] - Permanent Seat
+[nation=short]Delhanara[/nation] - Rotating Member
+[nation=short]Hanannara[/nation] - Rotating Member
+[nation=short]Japan1[/nation] - Rotating Member
+[nation=short]Eeleenia[/nation] - Rotating Member
