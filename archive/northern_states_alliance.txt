@@ -14,9 +14,9 @@ We are only a small region, most of our communications are on the regional messa
 1) [nation=short]NewRepublic[/nation] 2) [nation=short]Colonsay Island[/nation] 3) [nation]Vacant[/nation] 4) [nation]Vacant[/nation] 5) [nation]Vacant[/nation] 6) [nation]Vacant[/nation]
 
 [b]
-Population: 8,342,000,000
-Economic Size: 199.30 trillion
-GDP Per Capita: 14.30
+Population: 26,521,000,000
+Economic Size: 538.6 trillion
+GDP Per Capita: 20.3 Thousand
 Regional Military Capacity: None
 [/b]
 Everyone please endorse the [u][color=red]First Minister[/color] [color=blue]for WA[/color] [color=green]Delegate[/color][/u]

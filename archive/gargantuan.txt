@@ -1,24 +1,22 @@
 [u][b]Executive Branch[/b][/u]
 Office of the President
-President: [nation=short+noflag]Hoytenstan[/nation]
-Vice President: [nation=short+noflag]Rhemaland[/nation]
+President: [nation=short+noflag]Branceonia[/nation]
+Vice President: [nation=short+noflag]Hoytenstan[/nation]
 
 [u][b]Legislative Branch[/b][/u]
 House of Representatives
-Speaker: [nation=short+noflag]Max-A-Million Centre[/nation]
-Representative: [nation=short+noflag]Vispariti[/nation]
-Representative: [nation=short+noflag]Wellingtonburg[/nation]
-Representative:[nation=short+noflag]Brutii Rebels[/nation]
+Representative: [nation=short+noflag]Max-A-Million Centre[/nation]
+Representative: [nation=short+noflag]Rhemaland[/nation]
+Representative: [nation=short+noflag]Klacik[/nation]
+Representative:[nation=short+noflag]Reagan Island[/nation]
 Representative:[color=red]Vacant[/color]
 
 [u][b]Judicial Branch[/b][/u]
 Department of Justice
-Chief Justice: [nation=short+noflag]Branceonia[/nation]
+Chief Justice: [nation=short+noflag]Virgo[/nation]
 Justice: [nation=short+noflag]Papua New Craig[/nation]
-Justice: [color=red]Vacant[/color]
+Justice: [nation=short+noflag]AmsterDAN[/nation]
 
-[color=red][u][b]GENERAL ELECTION ON FEBRUARY 1ST[/b][/u][/color]
-[u]Primary Election[/u] is the election that only affects the election of Representatives and Justices.
-[u]General Election[/u] is the election that affects the election of Representatives, Justices, and the Office of the President, along with any constitutional revisions or amendments.
+[color=red][u][b]SPECIAL ELECTION TODAY, FEBRUARY 4TH[/b][/u][/color]
 
 [url=http://www.gargantuanregion.webs.com]Click here to visit the Gargantuan Website![/url]

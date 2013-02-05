@@ -11,18 +11,18 @@ Associate Justice: TBA[/b]
 
 [b][u][color=maroon]Ministry of Tides:[/color][/u][/b]
 [b]Prime Minister: [nation=short]Astesia[/nation] [color=blue](D)[/color]
-Justice: TBA
-Defense: TBA
+Justice: [nation=short]Reihtuor[/nation] [color=blue](D)[/color]*
+Defense: [nation=short]Fijonga[/nation] [color=orange](G)[/color]*
+Treasury: [nation=short]Bill Murray[/nation] [color=gold](T)[/color]*
 Immigration: TBA
-Treasury: TBA
 Interior: TBA
+
+*Pending Congressional Confirmation
 
 [u][color=maroon]House of Tides:[/color][/u]
 Seat #1: [nation=short]Quiet Shadows[/nation] [color=green](E)[/color]
 Seat #2: [nation=short]Leanore[/nation] [color=grey](I)[/color]
-Seat #3:  [nation=short]Andureo[/nation] [color=orange](G)[/color]*
-
-*Pending Oath
+Seat #3:  [nation=short]Andureo[/nation] [color=orange](G)[/color]
 
 [u][color=maroon]Reformation Committee:[/color][/u]
 [url=http://w11.zetaboards.com/League_of_Tides/topic/8433103/1/]Meeting Hall[/url]
