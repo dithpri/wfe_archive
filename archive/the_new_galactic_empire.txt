@@ -11,8 +11,6 @@
 [b][u]The Moff Council[/u][/b]
 - [b]Moff of Foreign Affairs[/b]: [nation=short]the order of the eagles assasins[/nation]
 --- [b]Vice Moff of FA[/b]: [nation=short] Vacant[/nation]
-- [b]Moff of Recruitment[/b]: [nation=short]The united nation of clone troopers[/nation] 
---- [b]Vice Moff of Recruitment[/b]: [nation=short] Vacant[/nation]
 - [b]Moff of War[/b]: [nation=short]The Guardians of the Covenant[/nation]
 --- [b]Vice Moff of War[/b]: [nation=short]Vacant [/nation]
 - [b]Moff of Culture[/b]: [nation=short]Romic[/nation] 

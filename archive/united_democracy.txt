@@ -5,7 +5,7 @@ President: [nation=short]Orange Rock[/nation]
 Secretary of Congress: [nation=short]Jugoslavak[/nation]
 Secretary of Defense: [nation=short]Silverdalia[/nation]
 Secretary of Internal Affairs:
-Secretary of Foreign Affairs:
+Secretary of Foreign Affairs: [nation=short]Evonian[/nation]
 [/color]
 
 [color=blue][u]Congress[/u][/color][color=orange]

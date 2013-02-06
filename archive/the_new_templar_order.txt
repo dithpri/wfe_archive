@@ -3,16 +3,27 @@
  - Our Armies make our Enemies Tremble with Fear![/b]                           
 ___________________________________________________________________________________________________________________________
 
-- [b][color=darkred]The High Council[/b][/color]
+- [u][b][color=darkred]The High Council[/b][/color][/u]
 
-- [b]Grand Master: [nation=short]King George Washington[/nation][/b]
+- [b][color=darkred]Grand Master: [nation=short]King George Washington[/nation][/b][/color]
+-  [b]Master Templar:[nation=short]Vordona[/nation]
+
+- [color=darkred][u]The Military[/u][/color][/b]
+
 - [b][color=darkred]Supreme Commander:[/color] [nation=short]Brentonania[/nation]
--  Master Templar:[nation=short]Vordona[/nation][/b]
-- [b][color=darkred]General:[/color][nation=short]The Tropican States[/nation][/b]
+- [color=darkred]General:[/color][nation=short]The Tropican States[/nation][/b]
 - [b]Marshal[nation=short]Orgaria[/nation][/b]
 - [b][color=darkred]Marshal:[nation=short]Aerovinik[/nation][/color][/b]
-- [b]Ambassador[nation=short]Transoxthraxia[/nation][/b]
-- [b][color=darkred]Judge:[/b][b][nation=short]Fungopolis[/nation][/b][/color]
+
+[u][b]The Foreign Office[/b][/u]
+
+- [b][color=darkred]Ambassador: [nation=short]Transoxthraxia[/nation][/b][/color]
+-[b]Ambassador:[/b]
+
+[color=darkred][b][u]The High Court[/b][/u][/color]
+
+- [b]Judge:[/b][b][nation=short]Fungopolis[/nation][/b]
+
 _________________________________________________________________________________________________________________________
 
--[b]May The Father of Understanding Guide Us[/b]
+- [b][url=http://www.youtube.com/watch?v=Thbsg9i2mZ0]Song Of The Week: Imagine Dragons - Radioactive[/url][/b]

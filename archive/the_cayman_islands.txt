@@ -1,11 +1,10 @@
-[color=543210][b]the Cayman Islands[/b]
+[color=543210][b]the Cayman Islands[/b][/color]
 
-a [region=Galapagos] region[/color]
-
-[color=green][b]Home Region of [nation=short+noflag]Elliston[/nation][/b]
+[color=green]REGION
+[b]Home Region of [nation=short+noflag]Elliston[/nation][/b]
  6 [region=Pitcairn]
  7 [region=M1A1]
  8 [b]the Cayman Islands[/b]
  9 [region=Tuscany]
-10 [region=Sverige][/color][color=800000]
+10 [region=Sverige][/color][color=FF2400]
  PLEASE - NO RECRUITING[/color]

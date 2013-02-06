@@ -3,10 +3,10 @@
 [b]*REGIONAL GOVERNMENT*[/b] 
 
 [color=Red][b]Please endorse the WA delegate:[/b][/color] [nation=short]New Begton[/nation]
-
+ 
 [color=brown][b]President:[/b][/color] [nation=short]New Begton[/nation] 
 [color=Brown][b]Vice president: [nation=short]Open[/nation][/b][/color] 
-[color=Brown][b]Defence minister: [nation=short]Open[/nation][/b][/color]
+[color=Brown][b]Defence minister: [nation=short]Grand Empire Of Halifko[/nation][/b][/color]
 [color=Brown][b]Foreign ambassador:[/b][/color] [nation=short]New Begton[/nation]
 
 [color=Black][b]TREC Court:[/b][/color]
@@ -15,3 +15,5 @@ Judge:
 Judge:
 
 Join: [url=http://www.nationstates.net/page=un]The World Assembly[/url] /  [url=http://www.chatzy.com/23191276542259]TREC Chatroom[/url]
+
+ELECTIONS WILL HAPPEN SOON!

@@ -13,6 +13,6 @@ Directorate Council: [color=darkblue]TBD[/color]
 Chairman of the Assembly: [nation=short]The Grand Republic of Hannover[/nation]
 Representatives (EUN): [nation=short]Forest Moon of Endor[/nation], [nation=short]The Grand Republic of Hannover[/nation], [nation=short]Sapien[/nation], [nation=short]Imperian[/nation], [nation=short]Zovu[/nation], [nation=short]Tisotto[/nation]
 Chairman of the Court: [nation=short]Gallania[/nation]
-Justices: [nation=short]Eurianand[/nation], [nation=short]Gallania[/nation], [nation=short]Sohanistan[/nation]
+Justices:[nation=short]Gallania[/nation], [nation=short]Sohanistan[/nation]
 
 [i](Last Updated: 2.4.2013)[/i]

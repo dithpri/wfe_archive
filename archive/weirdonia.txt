@@ -1,12 +1,11 @@
 [color=800000][b]Weirdonia[/b]
 [/color][color=000080]
-Sorry. An Anarchy puppet storage region for [region=Ionia].
+Sorry. An Anarchy puppet storage region for [region=Ionia] and [region=Galapagos].
 [/color][color=4F7942]
 [b]Home Regions of [nation=short+noflag]Elliston[/nation][/b]
  1. [region=Ionia]
  2. [b]Weirdonia[/b]
  3. [region=Galapagos]
  4. [region=Western Samoa]
- 5. [region=South China Sea]
-[/color][color=800000]
+ 5. [region=South China Sea][/color][color=800000]
 [b]Please, No Recruiting[/b][/color]

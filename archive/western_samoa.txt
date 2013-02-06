@@ -10,7 +10,6 @@ FACTS
 [/color][color=404040]
 REGION
 Home Regions of [nation=short+noflag]Elliston[/nation]
- 1. [region=Ionia]
  2. [region=Weirdonia]
  3. [region=Galapagos]
  4. [b]Western Samoa[/b]

@@ -9,7 +9,7 @@ Representative: [nation=short+noflag]Max-A-Million Centre[/nation]
 Representative: [nation=short+noflag]Rhemaland[/nation]
 Representative: [nation=short+noflag]Klacik[/nation]
 Representative:[nation=short+noflag]Reagan Island[/nation]
-Representative:[color=red]Vacant[/color]
+Representative:[nation=short+noflag]Wellingtonburg[/nation]
 
 [u][b]Judicial Branch[/b][/u]
 Department of Justice
@@ -17,6 +17,6 @@ Chief Justice: [nation=short+noflag]Virgo[/nation]
 Justice: [nation=short+noflag]Papua New Craig[/nation]
 Justice: [nation=short+noflag]AmsterDAN[/nation]
 
-[color=red][u][b]SPECIAL ELECTION TODAY, FEBRUARY 4TH[/b][/u][/color]
+[color=red][u][b]Vote for Speaker of the House today, February 5th[/b][/u][/color]
 
 [url=http://www.gargantuanregion.webs.com]Click here to visit the Gargantuan Website![/url]

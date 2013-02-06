@@ -1,17 +1,17 @@
 [b]Pitcairn[/b]
 [color=006480]
+REGION
+
 GALAPAGOS DEPARTMENT OF THE INTERIOR
 Bureau Office of the Census
 CONTROL CENTRE
 
 Home Regions of [nation=short+noflag]Elliston[/nation]
-3 [region=Galapagos]
 4 [region=Western Samoa]
 5 [region=South China Sea]
 6 [b]Pitcairn[/b]
 7 [region=M1A1]
 8 [region=the Cayman Islands]
 9 [region=Tuscany]
-10 [region=Sverige]
-[/color]
- RECRUITING PROHIBITED HERE
+[/color][color=red]
+PLEASE == NO RECRUITING HERE[/color]
