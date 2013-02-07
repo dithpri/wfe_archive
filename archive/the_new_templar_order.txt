@@ -1,29 +1,16 @@
-- [color=darkred][b]Welcome to The New Templar Order! [/color]
-
- - Our Armies make our Enemies Tremble with Fear![/b]                           
-___________________________________________________________________________________________________________________________
-
-- [u][b][color=darkred]The High Council[/b][/color][/u]
+- [color=darkred][b]Welcome to The New Templar Order! [/color] 
+                    _______________________________________________________________________________________________________________
+- [u][color=darkred]The High Council[/b][/color][/u]
 
 - [b][color=darkred]Grand Master: [nation=short]King George Washington[/nation][/b][/color]
--  [b]Master Templar:[nation=short]Vordona[/nation]
-
+-  [b][color=grey]Master Templar:[nation=short]Vordona[/nation][/color]
+________________________________________________________________________________________________________________
 - [color=darkred][u]The Military[/u][/color][/b]
 
 - [b][color=darkred]Supreme Commander:[/color] [nation=short]Brentonania[/nation]
-- [color=darkred]General:[/color][nation=short]The Tropican States[/nation][/b]
-- [b]Marshal[nation=short]Orgaria[/nation][/b]
-- [b][color=darkred]Marshal:[nation=short]Aerovinik[/nation][/color][/b]
-
-[u][b]The Foreign Office[/b][/u]
-
-- [b][color=darkred]Ambassador: [nation=short]Transoxthraxia[/nation][/b][/color]
--[b]Ambassador:[/b]
-
-[color=darkred][b][u]The High Court[/b][/u][/color]
-
-- [b]Judge:[/b][b][nation=short]Fungopolis[/nation][/b]
-
-_________________________________________________________________________________________________________________________
+- [color=grey]General:[/color][nation=short]The Tropican States[/nation][/b]
+- [color=darkred][b]Marshal[nation=short]Orgaria[/nation][/b][/color]
+- [b][color=grey]Marshal:[nation=short]Aerovinik[/nation][/color][/b]
+____________________________________________________________________________________________________________________________
 
 - [b][url=http://www.youtube.com/watch?v=Thbsg9i2mZ0]Song Of The Week: Imagine Dragons - Radioactive[/url][/b]

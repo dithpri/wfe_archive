@@ -7,7 +7,7 @@ FACTS
 &#149; [b]Population[/b] &#149; 188,540 (2008 est)
 &#149; [b]Timezone[/b] &#149; UTC-11
 &#149; [b]Independence[/b] &#149; 1 Jan 1962 (New Zealand)
-[/color][color=404040]
+[/color][color=4F7942]
 REGION
 Home Regions of [nation=short+noflag]Elliston[/nation]
  2. [region=Weirdonia]
@@ -15,9 +15,5 @@ Home Regions of [nation=short+noflag]Elliston[/nation]
  4. [b]Western Samoa[/b]
  5. [region=South China Sea]
  6. [region=Pitcairn]
-&#149; THIS REGION REFUSES ALL EMBASSY REQUESTS
-[b]PLEASE, DO NOT RECRUIT HERE[/b]
-
-GALAPAGOS DEPARTMENT OF THE INTERIOR
-Bureau Office of the Census[/color]
-PASSWORDED REGION : SORRY
+[/color][color=FF2400]
+[b]PLEASE, DO NOT RECRUIT HERE[/b][/color]

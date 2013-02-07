@@ -5,16 +5,13 @@ FACTS
 * [b]Capital:[/b] Puerto Baquerizo Moreno
 * [b]Subdivisions:[/b] Galapagos has three cantons: Isabel, San Christobal and Santa Cruz.
 * [b]Population:[/b] 19,184 (2006 c).
-[/color][color=navy]
-REGION 
-* Passworded Puppet Storage Region refounded March 16, 2011
 [/color][color=4F7942]
+REGION 
 Home Regions of [nation=short+noflag]Elliston[/nation]
  1. [region=Ionia]
  2. [region=Weirdonia]
  3. [b]Galapagos[/b]
  4. [region=Western Samoa]
  5. [region=South China Sea].
-[/color][color=E52B50]
-[b]* PLEASE * DO NOT RECRUIT HERE *
-* Accepts all embassy requests *[/b][/color]
+[/color][color=FF2400]
+[b]* PLEASE * DO NOT RECRUIT HERE *[/b][/color]

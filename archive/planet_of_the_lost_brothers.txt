@@ -2,7 +2,7 @@ Supreme Leader: [nation]Loreckvania[/nation]
 Vice Leader: [nation]northern Bloc States[/nation] (Election Elligible)
 Treasurer: [nation]Loreckvania[/nation] (Election Elligible)
 Foreign Delegate Official: [nation]Capitalist Spring Lake[/nation] (Election Elligible)
-War And Tactics Commander: [nation]Unified Metro Coalition[/nation] (Election Elligible)
+War And Tactics Commander: [nation]None[/nation] (Election Elligible)
 U.N. Delegate:  [nation]Planet Of The Lost Brothers Ambassador[/nation] (Election Elligible)
-World Assembly Delegate: [nation]Unified Metro Coalition[/nation]
+World Assembly Delegate: [nation]None[/nation]
 Region Ambassador: [nation]Planet Of The Lost Brothers Ambassador[/nation]

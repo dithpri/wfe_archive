@@ -2,8 +2,21 @@
 
 Region founded by [nation]Lotasia[/nation]
 
-Home Regions of [region]Sato[/region]
+[b]Capital Region of [region]Sato[/region][/b]
 1. [nation]Lotasia[/nation]
 
-EMBASSY POLICY: Will accept [b]most[/b] embassy offers sent.
-JOIN POLICY: None
+[b]Nations in [region]Sato[/region][/b]
+1. [nation]Lotasia[/nation]
+2. [nation]Adrimal General Aladeens Wadiya[/nation]
+3. [nation]long land[/nation]
+
+-------------------------------------------------------------------------------
+[b]POLICES:[/b]
+[b]EMBASSY POLICY:[/b] Will accept [i]most[/i] embassy offers sent
+[b]JOIN POLICY:[/b] None
+[b]ECONOMIC POLICY:[/b] None 
+-------------------------------------------------------------------------------
+[b]Current Headlines:[/b]
+-Two [i]new[/i] regions join [nation]Lotasia[/nation] in [region]Sato[/region]
+-Embassies in [region]The Apex[/region] and [region]Ionia[/region] have [i]finished[/i] construction
+-Proposals for an embassy in [region]The Coalition of Arkadia[/region] has been sent
