@@ -1,7 +1,11 @@
-[color=blue]People, please go to one of the Pacific regions and recruit for me so we may be the strongest region in[/color] [color=green]Nation States[/color]
+[color=red]People, please go to one of the Pacific regions and recruit for me so we may be the strongest region in[/color] [color=red]Nation States. Some of them are called[/color]
+[region]The North Pacific[/region]
+[region]The South Pacific[/region]
+[region]The East Pacific[/region]
+[region]The West Pacific[/region]
 
 [color=purple]Leader[/color] [nation]The Polish[/nation]
 
-[color=red]Councilor #1- ?[/color]
+[color=red]Councilor #1-[/color][nation]The Royal Dragonguard of Xedillion[/nation]
 [color=blue]Councilor #2- ?[/color]
 [color=gold]Councilor #3- ?[/color] 

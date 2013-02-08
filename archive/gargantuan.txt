@@ -5,7 +5,7 @@ Vice President: [nation=short+noflag]Hoytenstan[/nation]
 
 [u][b]Legislative Branch[/b][/u]
 House of Representatives
-Representative: [nation=short+noflag]Max-A-Million Centre[/nation]
+Speaker of the House: [nation=short+noflag]Max-A-Million Centre[/nation]
 Representative: [nation=short+noflag]Rhemaland[/nation]
 Representative: [nation=short+noflag]Klacik[/nation]
 Representative:[nation=short+noflag]Reagan Island[/nation]
@@ -17,6 +17,6 @@ Chief Justice: [nation=short+noflag]Virgo[/nation]
 Justice: [nation=short+noflag]Papua New Craig[/nation]
 Justice: [nation=short+noflag]AmsterDAN[/nation]
 
-[color=red][u][b]Vote for Speaker of the House today, February 5th[/b][/u][/color]
+[color=red][u][b]Any concerns about the current state of emergency should be telegrammed to me and I will respond as quickly as possible.  Thank You.[/b][/u][/color]
 
 [url=http://www.gargantuanregion.webs.com]Click here to visit the Gargantuan Website![/url]

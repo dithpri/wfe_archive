@@ -1,10 +1,7 @@
-[color=green]Regional Governmental positions[/color]
-These are one week terms, new people can be voted for each week.
-Head Of State: [nation]The Sovereign Leader[/nation]
-The Secretary of Defense: [nation]Rolling Stonesia[/nation]
-The Secretary of the Treasury: [nation]Cortbuscus[/nation]
-The Secretary of Law Enforcement: [nation]Cortbuscus[/nation]
-The Secretary of Natural Resources: [nation]The Free Landers of Merica[/nation]
-The Secretary of Civil Services: [nation]Rolling Stonesia[/nation]
-[color=green]Rules[/color]
-The only rule is to respect other nations and give them the rights that they deserve. Please be respectful to the region as well.
+[color=green]Regionaler Regierungs Stellungen[/color]
+Staatschef: [nation]The Sovereign Leader[/nation]
+Der Verteidigungsminister: [nation]Rolling Stonesia[/nation]
+Der Sekret&auml;r des Finanzministeriums: [nation]Cortbuscus[/nation]
+Der Sekret&auml;r des Rechtsdurchsetzung: [nation]Kanggye[/nation]
+Der Sekret&auml;r des nat&uuml;rliche Ressourcen: [nation]The Free Landers of Merica[/nation]
+Der Sekret&auml;r des &ouml;ffentliche Dienst: [nation]Rolling Stonesia[/nation]

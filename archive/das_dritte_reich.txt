@@ -6,17 +6,17 @@
 
 [u][b][color=red]Reichsmarschalls:[/color][/u]
 [nation]Hakidaku[/nation] (Kopf)
-[nation]Hydra Germany[/nation] (Military)
+[nation]Hydra Germany[/nation] (Wehrmacht)
 [nation]Lictorfasci[/nation] (Delegate)[/b]
 
 [u][b][color=red]Generals[/color] [/u]
-[nation]Deutches Reich[/nation](Spy Chief)
+[nation]Deutches Reich[/nation](Abwehr)
 [nation]Benito mussolini italy[/nation] 
 [nation]Vacant[/nation][/b]
 
 [u][b][color=red]Ministers[/color] [/u]
 [nation]Akota[/nation](Propaganda) 
-[nation]Geths[/nation](Foreign Affairs)
+[nation]Geths[/nation](Ausw&auml;rtige Angelegenheiten)
 [/b]
 
 [i]Join the [u][b]WA[/b][/u]

@@ -9,16 +9,12 @@
 [color=FF3333]The act you&amp;#39;ve known for all these years,[/color]
 Sgt. Pepper&amp;#39;s Lonely Hearts Club Band![/b][/i]
 
-[b][color=blue]Lord Mayor: [/b][nation=short]Kardas 1[/nation][/color]
-[color=purple][b]Caretaker: [/b][nation=short]Neo Nibu[/nation][/color]
-
-[u][color=FF9900][b]Lord Admirals:[/b][/u][/color]
-[nation=short]Cantiliahantan[/nation]
-[nation=short]Drugged Monkeys[/nation]
-[nation=short]Austin Setzer[/nation]
-[nation=short]Seattile[/nation]
-[nation=short]Kyraina[/nation]
-[nation=short]Atlatonha[/nation]
+[color=darkred][b]Lord Sorcerer: [/b][nation=short]Kardas 1[/nation][/color]
+[color=purple][b]Lord Phoenix: [/b][nation=short]Neo Nibu[/nation][/color]
+[color=808080][b]Lord Silver: [/b][nation=short]Cantiliahantan[/nation][/color]
+[color=1E90FF][b]Lord Labor: [/b][/color]
+[color=blue][b]Lord Mayor: [/b][/color]
+[color=FF3333][b]Lord Ambassador: [/b][/color]
 
 [b]&amp;gt;[url=http://client00.chat.mibbit.com/?channel=%23hippie&amp;amp;server=irc.esper.net]Chat IRC #Hippie[/url]&amp;lt;[/b]
 

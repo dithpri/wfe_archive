@@ -1,3 +1,11 @@
-[b]South Georgia[/b]
-
-a [region=Royal Alliance] region
+[color=654321][b]South Georgia[/b][/color]
+[color=008B8B]
+REGION
+[b]An allied region of [nation=short]Elliston[/nation][/b]
+12. [region=Balochistan]
+13. [region=Westminster]
+14. [b]South Georgia[/b]
+15. [region=Wallis and Futuna]
+16. [region=Gambier Islands]
+[/color][color=800000]
+[b]Please, Do Not Recruit Here[/b][/color]
