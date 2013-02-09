@@ -1,7 +1,7 @@
 Constitution:
 http://www.nationstates.net/nation=usp_founder/detail=factbook/id=main
 [b][u]USP Regional Government[/u][/b]
-[b]President:[/b][nation]Arkucia[/nation]
-[b]Chancellor:[/b][nation]New Concord[/nation]
-[b]WA Delegate:[/b][nation]Neptunian Moons[/nation]
+[b]President:[/b][nation]Neptunian Moons[/nation] (acting President is Arkucia)
+[b]Chancellor:[/b][nation]Arkucia[/nation]
+[b]WA Delegate:[/b][nation]Arkucia[/nation]
 [b]Supreme Court Justice(s)[/b]none
