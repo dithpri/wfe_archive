@@ -2,7 +2,7 @@
 
 [color=blue][u]Government[/u][/color][color=orange]
 President: [nation=short]Orange Rock[/nation]
-Secretary of Congress: [nation=short]Jugoslavak[/nation]
+Secretary of Congress:
 Secretary of Defense: [nation=short]Silverdalia[/nation]
 Secretary of Internal Affairs:
 Secretary of Foreign Affairs: [nation=short]Evonian[/nation]
@@ -16,7 +16,4 @@ Seat 4:
 Seat 5:
 [/color]
 
-[color=blue][u]WA Delegate:[/u] [/color][nation=short]Civolpaedia[/nation]
-Endorsing the WA Delegate allows our Region&amp;#39;s WA Representative to have stronger influence amongst other Regions in the WA. This will lead to other Regions acknowledging U.D. as a respectable Region and lead to making us apart of the ELITE Regions in NS.
-
-[url=http://i46.tinypic.com/jb1ksk.png]Regional Map[/url]
+[color=blue][u]WA Delegate:[/u] [/color]

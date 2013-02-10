@@ -12,10 +12,10 @@ We are dedicated, respectful, and hospitable![/b]
 
 [b]Executive Slavian Council:[/b]
 
-[list][*]President of Slavia: [nation=short]Spexton[/nation]
-[*]Minister of Recruiting: [nation=short]AntiSwagLand[/nation]
-[*]Minister of Diplomacy: [nation=short]The North Polish Union[/nation]
-[*]Minister of Internal Affairs: [nation=short]The Republic of Bracka[/nation]
+[list]President of Slavia: [nation=short]Spexton[/nation]
+Minister of Recruiting: [nation=short]AntiSwagLand[/nation]
+Minister of Diplomacy: [nation=short]The North Polish Union[/nation]
+Minister of Internal Affairs: [nation=short]The Republic of Bracka[/nation]
 [/list]
 
 [b][url=http://bit.ly/WH8icB]The Common Council of [region]Slavia[/region][/url][/b]
