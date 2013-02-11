@@ -4,9 +4,9 @@
 
 [hr]
 
-[b][url=http://worldalliance.postalboard.com/f2-wa-government][color=blue]WORLD ALLIANCE GOVERNMENT[/color][/url][/b]
+[b][color=blue]WORLD ALLIANCE GOVERNMENT[/color][/b]
 
-[b][url=http://worldalliance.postalboard.com/t6-the-security-council][color=gold]The SECURITY COUNCIL[/color][/url][/b]
+[b][color=gold]The SECURITY COUNCIL[/color][/b]
 
 [b][color=lightgray]President[/color][/b] : [nation=short]The United States of Schorr[/nation]
 
@@ -14,7 +14,7 @@
 
 [nation=short]Republic of Greater Broatia[/nation], [nation=short]The Democratic Nation of Unovia[/nation][/color]
 
-[b][url=http://worldalliance.postalboard.com/t7-the-court-of-justice][color=gold]The COURT OF JUSTICE[/color][/url][/b]
+[b][color=gold]The COURT OF JUSTICE[/color][/b]
 
 [b][color=lightgray]Chief Justice[/color][/b] : vacant
 
@@ -22,6 +22,6 @@
 
 [hr]
 
-[b][url=http://worldalliance.postalboard.com/t1-registration][color=red]REGIONAL LINKS :[/color][/url][/b] | [url=http://i45.tinypic.com/n4jsch.png]Map[/url] | [url=http://worldalliance.postalboard.com/t12-the-regional-map]Claims[/url] | [url=http://worldalliance.postalboard.com/]Forums[/url] | [url=http://tracker.conquestofabsolution.com/region=world_alliance]Tracker[/url] | [url=http://justpaste.it/worldallianceconstitution]Constitution[/url] | [url=http://worldalliance.postalboard.com/t10-the-news-network]News Network[/url] |
+[b][color=red]REGIONAL LINKS :[/color][/b] | [url=http://i45.tinypic.com/n4jsch.png]Map[/url] | [url=http://worldalliance.postalboard.com/t1-registration/]Forums[/url] | [url=http://tracker.conquestofabsolution.com/region=world_alliance]Tracker[/url] | [url=http://justpaste.it/worldallianceconstitution]Constitution[/url] | [url=http://worldalliance.postalboard.com/t10-the-news-network]News Network[/url] |
 
 [/i][hr]

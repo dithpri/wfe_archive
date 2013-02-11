@@ -7,10 +7,10 @@ Our regional map: [url=http://imageshack.us/photo/my-images/715/unionofrednation
 [b]Government:[/b]
 General Secretary:
 Premier:
-URN Spokesperson:
-Map monitor:
-Head of Diplomacy:
-Head of Armed Forces:
+URN Spokesperson: [nation]Soviet Ruk-Tsan[/nation]
+Map monitor: [nation]Dakran[/nation]
+Head of Diplomacy: [nation]Barunia[/nation]
+Head of Armed Forces: [nation]Bojikami[/nation]
 Head of Recruitment:
 Head of Internal Affairs:
 

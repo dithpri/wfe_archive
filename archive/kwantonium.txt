@@ -2,11 +2,16 @@
 
 [color=Red]Regional Government:[/color]
  
-[b]Jobs will be added after the signing of the constitution![/b]
+[b]President[/b]: ([i]Vacant[/i])
+[b]Vice President[/b]: ([i]Vacant[/i])
+[b]WA Delegate[/b]: [nation]Chamiku[/nation]
+[b]Chief of Staff[/b]: ([i]Vacant[/i])
+[b]Head of Regional Secretary[/b]: ([i]Vacant[/i])
+[b]Head of Foreign Secretary[/b]: ([i]Vacant[/i])
+[b]Head of Regional Maps[/b]: [nation]Niran[/nation]
 
-
-[region]Kwantonium[/region] is a vassal state to the region [region]International Commonwealth Of Nations[/region].
-
-
+[url=http://www.broomdces.com/nseconomy/]NSEconomy[/url]
 
 [color=Red]Found: Feb. 08 2013[/color] 
+
+[region]Kwantonium[/region] is a vassal state to the region [region]International Commonwealth Of Nations[/region].

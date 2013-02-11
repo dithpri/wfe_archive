@@ -1,5 +1,19 @@
-[Color=red]Join the army, take up the rifle, learn to wield the lance, run down your enemy until their feet bleed and they scream in agony. We tare down the wall of our enemies. Enslave their women and children and conquer their lands. Wealth and fame, strength and power such are the rewards of the Uiska. You are the soldier, we are the legion![/color]
+Imperial lord: [nation=long]ujjanistan[/nation]
+Master governor: [nation=long]bhatistan[/nation]
 
-[Color=blue]Join the Uiska Army and serve the imperial lord [nation=short]ujjanistan[/nation]
-Or join the Intelligence Corps under [nation=short]kanatistan[/nation], if you wish to join politics follow master governor [nation=short]bhatistan[/nation]. The choice is yours on which path you choose we&amp;#39;re only here to guide you to glory.
-                             Hurry, the Uiska are calling you![/color]
+Imperial court
+Court master: [nation=long]bhatistan[/nation]
+Court master assistant: [nation=long]the sansuf[/nation]
+Court officer: [nation=short]french crusader states[/nation]
+Court officer: [nation=long]vintostan[/nation]
+Court officer: [nation=short]the evil mermaids[/nation]
+Court officer:
+
+Intelligence
+Head of intelligence: [nation=long]kanatistan[/nation]
+Spies: classified
+
+Notice: All people interested in being a spy contact the head of intel.
+Notice: all people interested in being an officer contact the imperial lord
+
+All WA members please endorse [nation=short]bhatistan[/nation]

@@ -10,7 +10,7 @@ Minister for Defence: [nation]Shakovina[/nation]
 
 [b]JUDICIARY[/B]
 
-[u]Supreme Judge[/u]: VACANT
+[u]Supreme Judge[/u]: [nation]North of South[/nation] 
 
 [u]Regional Judge[/u]: [nation]Migraton[/nation] and [nation]Yarsni[/nation]
 
@@ -18,4 +18,4 @@ Minister for Defence: [nation]Shakovina[/nation]
 
 Capital City: [nation]Emperor City[/nation]
 
-Current governor: [nation]Raindrop Valley[/nation]
+Current Governor: [nation]Love Island[/nation]

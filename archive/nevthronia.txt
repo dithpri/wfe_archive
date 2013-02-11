@@ -1,1 +1,14 @@
----
+[i]An experiment in regional development. Growth has exceeded expectations, and now we have enough members to begin forming this region into a true community. Thank you to all of our Founding Fathers![/i]
+
+[color=navy][b]Region Project Checklist:[/b][/color]
+[list]
+[color=gold][*]Creating a Regional Map[/color]
+[color=gold][*]Making a Regional Chatroom[/color]
+[color=red][*]Establishing a Regional Flag[/color]
+[color=red][*]Creating a Regional Forum[/color]
+[color=red][*]Developing a Constitution[/color]
+[color=red][*]Organizing a Government System[/color][/list]
+
+[b]Project Status Code[/b]
+
+[color=green]Complete[/color] [color=gold]In Progress[/color] [color=red]Not Yet Begun[/color]
