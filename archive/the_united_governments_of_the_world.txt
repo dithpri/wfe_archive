@@ -7,4 +7,4 @@ Brigadier generals: [nation=short]the horde of gold[/nation] [nation=short]the b
 
 Minister of foreign affairs:[/color] [color=green]none[/color]
 [Color=red]Minister of communication:[/color] [color=green]none[/color]
-[Color=red]Treasurer:[/color] [color=green]none[/color]
+[Color=red]Treasurer:[/color] [nation=long]christ redeemer[/nation]

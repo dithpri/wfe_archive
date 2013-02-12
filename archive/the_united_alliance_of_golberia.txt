@@ -12,4 +12,4 @@ Official Vice World Assembly Delegate: [nation]Nibsin[/nation]
 Department of Defense: [nation]Lycan fang[/nation]
 Department of Trade: [nation]Laser land[/nation]
 Department of Foreign Alliances: [nation]Eratova[/nation]
-Departments of Sports:
+Department of Sports: [nation]Wyldland[/nation]

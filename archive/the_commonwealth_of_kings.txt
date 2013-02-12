@@ -8,9 +8,9 @@ Lord Chief Justice:[color=red] Vacant[/color]
 [hr]
 
 [b]Administrative Government[/b]
-Ministry of Defence and Internal Development:[color=red] Vacant[/color]
+Ministry of Defence and Internal Development:[color=red] [nation=shortname]Pacific Arms[/nation][/color]
 Ministry of International Development:[color=red] Vacant[/color]
-Ministry of Immigration:[color=red] Vacant[/color]
+Ministry of Immigration:[color=red] [nation=shortname]West Frissia[/nation][/color]
 Cartographer:[color=red] [nation=shortname]Karburgh[/nation][/color]
 [hr]
 

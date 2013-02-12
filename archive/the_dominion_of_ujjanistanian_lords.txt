@@ -1,19 +1,19 @@
+[Color=red]We accept all nation from republics to (especially) communist, fascists, and nazis[/color]
+
 Imperial lord: [nation=long]ujjanistan[/nation]
 Master governor: [nation=long]bhatistan[/nation]
 
-Imperial court
+[Color=purple]Imperial court[/color]
 Court master: [nation=long]bhatistan[/nation]
 Court master assistant: [nation=long]the sansuf[/nation]
 Court officer: [nation=short]french crusader states[/nation]
 Court officer: [nation=long]vintostan[/nation]
 Court officer: [nation=short]the evil mermaids[/nation]
-Court officer:
+Court officer: [nation=long]getrid[/nation]
 
-Intelligence
+[Color=blue]Intelligence[/color]
 Head of intelligence: [nation=long]kanatistan[/nation]
 Spies: classified
 
-Notice: All people interested in being a spy contact the head of intel.
-Notice: all people interested in being an officer contact the imperial lord
-
-All WA members please endorse [nation=short]bhatistan[/nation]
+[Color=blue]Notice: All people interested in being a spy contact the head of intel.[/color]
+[Color=purple]Notice: all people interested in being an officer contact the imperial lord[/color]

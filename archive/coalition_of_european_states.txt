@@ -5,12 +5,12 @@ The [b]Coalition of European States[/b] (CES) Government
 
 President: *Election Pending*
 
-Prime Minister: The United Kingdom of Great Britain and Her Majesty&#146;s Dominions
+Prime Minister: [nation]Great Britain and Her Majestys Dominions[/nation]
  Deputy Prime Minister: *Appointment Pending*
 
-Minister of Defence: The Soviet Federation of Hulkland
- Minister of Home Affairs: The Mathematicians&amp;#39; Home of The Math of Clarence
- Minister of Foreign Affairs: The Republic of United Teddy
+Minister of Defence: [nation]Hulkland[/nation]
+ Minister of Home Affairs: [nation]The Math of Clarence[/nation]
+ Minister of Foreign Affairs:[nation]United Teddy[/nation]
 
 Director of Regional Elections: *Appointment Pending*
  Director of Regional Development: *Appointment Pending*
@@ -18,6 +18,8 @@ Director of Regional Elections: *Appointment Pending*
 
 [b]Events and News:[/b]
 
-Minister of Defence position taken by The Soviet Federation of Hulkland.
+[nation]Hulkland[/nation] appointed Minister of Defence.
+
+Regional Motto &amp;amp; Statement entry deadline - 18th February 2013
 
 Coalition Day &#150; 23rd August
