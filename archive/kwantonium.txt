@@ -2,15 +2,16 @@
 
 [color=Red]Regional Government:[/color]
  
-[b]President[/b]: ([i]Vacant[/i])
-[b]Vice President[/b]: ([i]Vacant[/i])
+[b]Founder[/b]: [nation]Hothaba[/nation]
 [b]WA Delegate[/b]: [nation]Chamiku[/nation]
-[b]Chief of Staff[/b]: ([i]Vacant[/i])
-[b]Head of Regional Secretary[/b]: ([i]Vacant[/i])
-[b]Head of Foreign Secretary[/b]: ([i]Vacant[/i])
-[b]Head of Regional Maps[/b]: [nation]Niran[/nation]
+[b]Head of Armed Forces[/b]: [nation]Russian Fedration[/nation]
+[b]Minister of Regional Secretary[/b]: ([i]Vacant[/i])
+[b]Minister of Foreign Secretary[/b]: ([i]Vacant[/i])
+[b]Minister of Regional Maps[/b]: [nation]Niran[/nation]
 
 [url=http://www.broomdces.com/nseconomy/]NSEconomy[/url]
+
+[b]WA Delegate[/b]: Please endorse are WA Delegate [nation]Chamiku[/nation]
 
 [color=Red]Found: Feb. 08 2013[/color] 
 

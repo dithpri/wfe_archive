@@ -16,9 +16,9 @@
 
 [b][color=gold]The COURT OF JUSTICE[/color][/b]
 
-[b][color=lightgray]Chief Justice[/color][/b] : vacant
+[b][color=lightgray]Chief Justice[/color][/b] : [nation=short]Vendoland[/nation]
 
-[b][color=lightgray]Justices[/color][/b] : vacant
+[b][color=lightgray]Justices[/color][/b] : [color=green][nation=short]Acquitane[/nation], [nation=short]Zakiristan[/nation][/color]
 
 [hr]
 

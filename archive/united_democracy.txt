@@ -2,11 +2,12 @@
 
 [color=blue][u]Government[/u][/color][color=orange]
 President: [nation=short]Orange Rock[/nation]
-Secretary of Congress:
+WA Delegate &amp;amp; Secretary of Foreign Affairs: [nation=short]Evonian[/nation]
 Secretary of Defense: [nation=short]Silverdalia[/nation]
+Secretary of Congress:
 Secretary of Internal Affairs:
-Secretary of Foreign Affairs: [nation=short]Evonian[/nation]
 [/color]
+
 
 [color=blue][u]Congress[/u][/color][color=orange]
 Seat 1:
@@ -16,6 +17,5 @@ Seat 4:
 Seat 5:
 [/color]
 
-[color=blue][u]WA Delegate:[/color][/u] [nation=short]Evonian[/nation]
-
+[url=http://w11.zetaboards.com/United_Democracy/index/]Regional Forum[/url]
 [url=http://i49.tinypic.com/2isi0ap.jpg]Regional Map[/url]

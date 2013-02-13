@@ -3,7 +3,7 @@ Welcome to regional merge between Northeast Tropical and Forza2cheaters Ultimate
 Imperial Minister: [nation=short]forza2cheater[/nation]
 Minister of Foreign Affairs: [nation=short]Sectumsentspra[/nation]
 Deputy Minister: Vacant
-Minister of Domestic Affairs: [nation=short]Pspiz[/nation]
+Minister of Domestic Affairs:
 Deputy Minister: Vacant
 Minister of Recruitment: [nation=short]Forza2cheater[/nation]
 Deputy Minister: Vacant
@@ -12,5 +12,4 @@ Regional Motto: Good, Better, Best, Never Let It Rest. Until Your Good Is Better
 Regional Forum: [url=http://s11.zetaboards.com/UD_of_NT/index/]UD of NT[/url]
 AD spam policy: Recruiters must have a would you rather...? question, and the people that they recruit must have an answer.
 General orders:[url=http://www.nationstates.net/nation=forza2cheater/detail=factbook/id=80118]Please read[/url]
-Endorse [nation=short]Pspiz[/nation] to be WA delegate.
 Threat Level:[color=blue]blue[/color]
