@@ -4,7 +4,8 @@
 [b]Executive Government[/b]
 Prime Minister:[color=red] [nation=shortname]ShenGuo[/nation][/color]
 Deputy Prime Minister:[color=red] Vacant[/color]
-Lord Chief Justice:[color=red] Vacant[/color]
+Lord Chief Justice:[color=red] [nation=shortname]Ceased[/nation][/color]
+
 [hr]
 
 [b]Administrative Government[/b]
@@ -12,6 +13,12 @@ Ministry of Defence and Internal Development:[color=red] [nation=shortname]Pacif
 Ministry of International Development:[color=red] Vacant[/color]
 Ministry of Immigration:[color=red] [nation=shortname]West Frissia[/nation][/color]
 Cartographer:[color=red] [nation=shortname]Karburgh[/nation][/color]
+[hr]
+
+[b]Court of Justice[/b]
+Lord Chief Justice:[color=red] [nation=shortname]Ceased[/nation][/color]
+Lord Justice: [color=red] Vacant[/color]
+Lord Justice: [color=red] Vacant[/color]
 [hr]
 
 [b]Ruling Political Part:[/b] [color=blue][b]TBA[/b][/color]  

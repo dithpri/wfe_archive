@@ -7,11 +7,6 @@ FACTS
 * [b]Population:[/b] 19,184 (2006 c).
 [/color][color=4F7942]
 REGION 
-Home Regions of [nation=short+noflag]Elliston[/nation]
- 1. [region=Ionia]
- 2. [region=Weirdonia]
- 3. [b]Galapagos[/b]
- 4. [region=Western Samoa]
- 5. [region=South China Sea].
-[/color][color=FF2400]
+[b][nation=short+noflag]Elliston[/nation]&amp;#39;s Home Allied Regions[/b]
+[region=Ionia] - [region=Weirdonia] - [b]Galapagos[/b] - [region=Western Samoa] - [region=Cute Kids].[/color][color=FF2400]
 [b]* PLEASE * DO NOT RECRUIT HERE *[/b][/color]

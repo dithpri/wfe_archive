@@ -1,9 +1,10 @@
 Government positions
 Leader- [nation]loganian nexus[/nation]
 Vice leader-[nation]the rocky desert[/nation]
-Military general (highest defense force) - [nation]loganian nexus[/nation]
-Recruiter (person who recruited the most)- [nation]Katziopia[/nation]
-Keeper of Peace/Ambassador- [nation]the rocky desert[/nation]
+Military general (highest defense force) - [nation=short]Neckon[/nation]
+Recruiter (person who recruited the most)- [nation=short]Katziopia[/nation]
+Keeper of Peace/Ambassador- [nation=short]the rocky desert[/nation]
+Hero- [nation=short]Neckon[/nation] ([nation=short]Copenhagen Metropolis[/nation])
 
 Veterans
 [nation]loganian nexus[/nation]

@@ -1,14 +1,10 @@
-[color=0000C0][b]Ionia[/b]
+[color=000080][b]Ionia[/b]
 
 Ionia is an ancient region of present day nation of Turkey.
 [/color]
-[color=4F7942][u]REGION[/u]
-[b]Home Regions of [nation=short+noflag]Elliston[/nation]:[/b]
-1. [b]Ionia[/b]
-2. [region=Weirdonia]
-3. [region=Galapagos]
-4. [region=Western Samoa]
-5. [region=South China Sea][/color][color=1E90FF]
+[color=004626][u]REGION[/u]
+[b][nation=short+noflag]Elliston[/nation]&amp;#39;s Allied Regions:[/b]
+[b]Ionia[/b] - [region=Weirdonia] - [region=Galapagos] - [region=Western Samoa] - [region=Cute Kids][/color][color=03C03C]
 [b]EMBASSY POLICY:[/b]
 &amp;lt; Will accept any EMBASSY offer sent &amp;gt;
 Currently copying embassies from my other regions

@@ -1,12 +1,7 @@
 [color=004626][b]M1A1[/b]
 
-Created this region as a filler for sorting my puppets, but quickly realized that it was a keeper.[/color][color=08457E]
-REGION[/color]
-[color=green][b]Home Regions of [nation=short]Elliston[/nation][/b]
- 5 [region=South China Sea]
- 6 [region=Pitcairn]
- 7 [b]M1A1[/b]
- 8 [region=the Cayman Islands]
- 9 [region=Tuscany]
-[/color][color=FF4F00]
-[b]PLEASE[/b] -- Do Not Recruit Here[/color]
+Created this region as a filler for sorting my puppets, but quickly realized that it was a keeper.[/color][color=006424]
+REGION
+[b]Home Regions of [nation=short]Elliston[/nation][/b]
+&amp;lt;&amp;lt; [region=Pitcairn] - [region=The Big Bang Theory Worshippers] - [b]M1A1[/b] - [region=Beyond the Walls of Night] - [region=the Blasted Lands] &amp;gt;&amp;gt;[/color][color=red]
+[b]PLEASE -- Do Not Recruit Here[/b][/color]

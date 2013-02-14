@@ -2,15 +2,10 @@
 [/color][color=006460]
 [b]REGION[/b]
 
-GALAPAGOS DEPARTMENT OF THE INTERIOR
+DEPARTMENT OF THE INTERIOR
 Bureau Office of the Census
 CONTROL OFFICE
 
-[b]Home Regions of [nation=short+noflag]Elliston[/nation]
-3[/b] [region=Galapagos]
-[b]4[/b] [region=Western Samoa]
-[b]5 South China Sea
-6[/b] [region=Pitcairn]
-[b]7[/b] [region=M1A1]
-[/color][color=red]
+[b]Home Regions of [nation=short+noflag]Elliston[/nation][/b]
+&amp;lt;&amp;lt; [region=Western Samoa] - [region=Cute Kids] [b]South China Sea[/b] - [region=Pitcairn] - [region=The Big Bang Theory Worshippers] &amp;gt;&amp;gt;[/color][color=red]
 [b]PLEASE - DO NOT RECRUIT HERE[/b][/color]
