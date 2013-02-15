@@ -2,10 +2,13 @@
 
 Peace be upon you.[/i]
 
-[b]Regional Governmental Posts[/b]
 
-[color=blue] Regional Secretary of Foreign Affairs:[/color]  [nation] The Sultanate of Inci [/nation]
+[color=red][b]Regional Governmental Posts[/b][/color]
 
-[color=blue] Regional Defense Minister [acting]:[/color]  [nation] The Empire of The Ottoman Empire Refounded [/nation]
+[color=grey][b] Regional Secretary of Foreign Affairs:[/b][/color]  [nation=Inci]
 
-[color=blue] Regional Secretary of Commerce [acting]:[/color]  [nation] The Theocracy of Ardul Islam [/nation]
+[color=blue] Regional Defense Minister [acting]:[/color]  [nation=Qron]
+
+[color=blue] Regional Secretary of Commerce [acting]:[/color]  [nation=Dirn]
+
+[color=grey][b]Regional Internal Affairs Minister[/b][/color]  [nation=Baqy]

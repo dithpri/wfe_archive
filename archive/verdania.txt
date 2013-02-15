@@ -1,11 +1,12 @@
-Out of the ashes of the evil Verdanian Empire, this region is refounded as a beacon of democracy and freedom to all nations.
+A founded colony of [region]The True Democratic States[/region]
 
 This region shall forever serve as a memorial to all the nations wronged by the heinous acts of [nation]Virgo[/nation] including, but not limited to:
 
-[nation]Vispariti[/nation]
-[nation]Reagan Island[/nation]
-[nation]Rhemaland[/nation]
-[nation]United Federation of Canada[/nation]
-[nation]Branceonia[/nation]
+[nation=short]Vispariti[/nation]
+[nation=short]Reagan Island[/nation]
+[nation=short]Rhemaland[/nation]
+[nation=short]United Federation of Canada[/nation]
+[nation=short]Branceonia[/nation]
 
-These nations were terribly wronged by [nation]Virgo[/nation] in his brutal civil war and shall forever be remembered for their heroic actions in overthrowing the brutal regime of [nation]Virgo[/nation]
+These nations were terribly wronged by [nation=short]Virgo[/nation] in his brutal civil war and shall forever be remembered for their heroic actions in overthrowing the brutal regime of [nation=short]Virgo[/nation].
+

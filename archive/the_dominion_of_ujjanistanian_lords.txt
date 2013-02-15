@@ -16,4 +16,4 @@ Head of intelligence: [nation=long]kanatistan[/nation]
 Spies: classified
 
 [Color=blue]Notice: All people interested in being a spy contact the head of intel.[/color]
-[Color=purple]Notice: all people interested in being an officer contact the imperial lord[/color]
+[Color=purple]Notice: all people interested in being an ammbassador contact the imperial lord[/color]

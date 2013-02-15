@@ -12,13 +12,14 @@
 
 [color=green]W.A. Delegate[/color]: None
 
-[color=yellow]Secretary of the Planet[/color]: [nation]Capitalist Spring 
-Lake[/nation]
+[color=yellow]Secretary of the Planet[/color]: [nation]Capitalist Spring Lake[/nation]
 
-[color=purple]General of Planet-Wide Defense and Security Committee Chairman[/color]:  [nation]Northern Bloc States[/nation]
+[color=purple]General of Planet-Wide Defense and [/color]:  [nation]Northern Bloc States[/nation]
 
 [color=pink]Planetary Affairs Ambassador[/color]: [nation]Planet Of The Lost Brothers Ambassador[/nation]
 
-[color=grey]Chief Scientist of Technological Develpoment[/color]:  [nation]Capitalist Spring Lake[/nation]
+[color=grey]Chief Scientist of Technology[/color]:  [nation]Capitalist Spring Lake[/nation]
 
 [color=blue][i]COMRADES, ANY IMPORTANT EVENTS YOU WILL BE INFORMED OF VIA TELEGRAM.[/color][/i]
+
+[b][color=green]Proud Protector of [region]The Planet Earth[/region][/color][/b]

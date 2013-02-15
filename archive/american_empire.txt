@@ -3,10 +3,10 @@
 [color=red][b]We are a up and coming region that accepts all nations.[/color][/b] 
 
 [color=blue][b]*Regional Government*[/color][/b]
-Delegate President: Vacant
-Vice President: Vacant
-Representative [nation]The American Monarchy[/nation]
-Representative:Vacant
+Delegate President [nation]The American Monarchy[/nation]
+Vice President [nation]Sidurian Empire[/nation]
+Representative: 
+Representative [nation]Columbian Empire[/nation]
 
 [Color=blue][b]News[/b][/color]
 [b]We will be having elections for the last representative position so if you are interested please let me know. For the Delegate position, once we have more nations we will hold elections for that position and the Vice Delegate position. 

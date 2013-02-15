@@ -7,5 +7,5 @@ President and WA Delegate: [nation]Neoconstantius[/nation]
 Defense Council: [nation]Parinis[/nation], [nation]Menae[/nation], [nation]The Pontian Greeks[/nation], [nation]Nordic Tribes[/nation], [nation]Tetrapolis[/nation]
 
 [b]CURRENT HOSTILITIES[/b]
-[nation]Sassanian Empire[/nation], [region]Persian Empire[/region], [region]Empire of Iran[/region]
+[nation]Sassanian Empire[/nation], [nation]Datis[/nation], [region]Persian Empire[/region], [region]Empire of Iran[/region]
 [hr][b][color=blue]LONG LIVE FREE GREECE! ELEFTHERIA I THANATOS! [/color][/b]

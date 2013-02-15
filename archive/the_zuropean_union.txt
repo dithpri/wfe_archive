@@ -6,12 +6,11 @@
 [b]Regional Vice President: [/b][nation=short]Flynnerane[/nation]
 [b]Regional Premier: [/b][nation=short]Pzetrovlaskia[/nation]
 [b]Government I: [/b][nation=short]Independent Plaizh Avantia[/nation]
-[b]Government II: [/b][nation=short]Avantarr[/nation]
+[b]Government II: [/b]AT VOTE
 [b]Regional Senator: [/b][nation=short]Unified Legoland[/nation]
 [b]Immigration Administrator: [/b][nation=short]Imyahistan[/nation]
 [b]Foreign Affairs Administrator: [/b]AT VOTE
 [b]Defense &amp;amp; Military Administrator: [/b]AT VOTE
 
 [b][color=blue]Announcements &amp;amp; News[/color][/b]
-- [color=green]The Zuropean Union is Making Some Changes![/color]
-- [color=amber]The PGSD&amp;#39;s bug is being fixed![/color]
+- [color=green]New Rule Guide Coming Soon![/color]
