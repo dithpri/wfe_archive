@@ -19,7 +19,7 @@ Founder of Slavia: [nation=short]The Pan-Slavic Union[/nation]
 President of Slavia: [nation=short]Spexton[/nation]
 Minister of Foreign Affairs: [nation=short]Bolguria[/nation]
 Minister of Internal Affairs: [nation=short]The North Polish Union[/nation]
-Minister of Arts and Culture: [color=red]VACANT[/color]
+Minister of Arts and Culture: [nation=short]Redarnia[/nation]
 Supreme General of the SPA: [nation=short]The Republic of Bracka[/nation]
 [/list]
 

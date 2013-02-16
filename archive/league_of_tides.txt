@@ -9,11 +9,11 @@
 [b][u][color=maroon]Court of Tides:[/color][/u][/b]
 [b]Chief Justice: [nation=short]Runento[/nation] [color=gold](T)[/color]
 Associate Justice: [nation=short]Libertarian America[/nation] [color=gold](T)[/color]
-Associate Justice: TBA[/b]
+Associate Justice: [nation=short]Reihtuor[/nation] [color=blue](D)[/color][/b]
 
 [b][u][color=maroon]Ministry of Tides[/u]:[/color][/b]
 [b]Prime Minister: [nation=short]Astesia[/nation] [color=blue](D)[/color]
-Justice: [nation=short]Reihtuor[/nation] [color=blue](D)[/color]
+Justice: TBA
 Defense: [nation=short]Fijonga[/nation] [color=orange](G)[/color]
 Treasury: [nation=short]Bill Murray[/nation] [color=gold](T)[/color]
 Immigration: TBA
@@ -26,6 +26,6 @@ Seat #3: [nation=short]Leanore[/nation] [color=orange](G)[/color]
 
 [hr][u][color=maroon]LoT Tending Topics:[/color][/u]
 
--Judicial Appointments TODAY (Read RMB)!
+-Judicial Appointments TODAY!
 -Should LoT draft an amendment for guns? 
 -[url=http://w11.zetaboards.com/League_of_Tides/topic/7901302/1/#new]Welcome New Nations[/url]![/b]

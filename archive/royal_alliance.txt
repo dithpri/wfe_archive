@@ -1,6 +1,6 @@
 Royal Alliance
 
-a [region=Galapagos] region[hr]a [nation=Royal House of Windsor] region[hr]this region is not associated with [region=The Royal Alliance][hr]Associate Regions: 
+a [region=Galapagos] region[hr]a [nation=short]Royal House of Windsor[/nation]/[nation=short]Elliston[/nation] region[hr]this region is not associated with [region=The Royal Alliance][hr]Associate Regions: 
 &#149; [region=Galapagos] (Current Prime Region)
 &#149; [region=Rio de Janeiro] (Previous Prime Region]
 &#149; [region=0000] (an ancient prime region)

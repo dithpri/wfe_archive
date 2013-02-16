@@ -17,7 +17,7 @@ President: [nation=short]Onza[/nation] (HC)
 Prime Minister: [nation=short]United States of Minecraftia[/nation] (I)
 
 [u]Senators:[/u]
-[nation=short]The Peace of the World[/nation] (I)
+[i]Currently Vacant[/i]
 [nation=short]The-Commonwealth[/nation] (PP)
 [nation=short]The Wiggle[/nation] (I)
 [nation=short]Zaharawi[/nation] (PP)

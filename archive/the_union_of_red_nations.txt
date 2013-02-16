@@ -12,6 +12,6 @@ Map monitor: [nation]Dakran[/nation]
 Head of Diplomacy: [nation]Barunia[/nation]
 Head of Armed Forces: [nation]Bojikami[/nation]
 Head of Recruitment:
-Head of Internal Affairs:
+Head of Internal Affairs: [nation]Free Terra[/nation]
 
 [url=http://forum.nationstates.net/viewtopic.php?f=23&amp;amp;t=222306]Our Constitution[/url]

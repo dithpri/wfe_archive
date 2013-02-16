@@ -1,5 +1,5 @@
-Located just above the planetary cloud cover the floating island of Cyleto is home to the nation of Cytoscandia.
+Located just above the planetary cloud cover the floating island of [region]Cyleto[/region] is home to the nation of [nation=short+noflag]Cytoscandia[/nation].
 
-Cyleto features three mountains in a scalene triangle, otherwise known as The Scalene Mountains. Located between them is a fully enclosed valley called The Primary; Cytoscandia is located here.
+[region]Cyleto[/region] features three mountains in a scalene triangle, otherwise known as The Scalene Mountains. Located between them is a fully enclosed valley called The Primary; [nation=short+noflag]Cytoscandia[/nation] is located here.
 
 Three rivers run from the scalene mountains down to the primary and each river has a large basin attached to it. Other smaller rivers then connect these basins to the edge of the island through a series of caverns which redirects the excess water off of the island.
