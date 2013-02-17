@@ -1,10 +1,19 @@
 [u][b]GOVERNMENT OF THE [region=ICELANDIC INTERNATIONAL COMMUNITY][/b][/u]
 
 [b]President[/b] = [nation=Ejyafjallajokull]
-[b]Ejyafjallajokull&amp;#39;s Sphere:[/b]
+[i]Founder of the region and leader of the &amp;quot;New Icelandic Community&amp;quot;[/i]
+
+[b][u]Ejyafjallajokull&amp;#39;s Sphere:-[/b][/u]
+[b]States of the &amp;quot;New Community&amp;quot; [/b]
 
 [nation=Arnarsonland]
 [nation=Vestmannaeyjar and Surtsey]
 [nation=Gullfoss]
 [nation=Geysir-Strokkur]
 [nation=Vatnajokull]
+
+[b][u]Welcome Ambassadors:-[/b][/u]
+[nation=Dansk]
+
+An in-depth analysis of the properties of [region=Icelandic International Community] can be found here:
+[i]http://www.thirdgeek.com/nseconomy/nseconomy.php?region=Icelandic+International+Community[/i]

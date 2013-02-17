@@ -1,1 +1,4 @@
-the Far North
+[color=navy][b]the Far North[/b]
+
+This group are allied regions
+[region=The Far East] - [b]The Far North[/b] - [region=The Far South] - [region=The Far West][/color]

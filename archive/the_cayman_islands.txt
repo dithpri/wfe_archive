@@ -2,9 +2,5 @@
 
 [color=green]REGION
 [b]Home Region of [nation=short+noflag]Elliston[/nation][/b]
- 6 [region=Pitcairn]
- 7 [region=M1A1]
- 8 [b]the Cayman Islands[/b]
- 9 [region=Tuscany]
-10 [region=Sverige][/color][color=FF2400]
+&amp;lt;-- [region=Beyond the Walls of Night] - [region=the Blasted Lands] - [b]the Cayman Islands[/b] - [region=Tuscany] - [region=Sverige] --&amp;gt;[/color][color=FF2400]
  PLEASE - NO RECRUITING[/color]

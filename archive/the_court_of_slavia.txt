@@ -1,0 +1,14 @@
+[b]This is a Court of the Region of [region]Slavia[/region].
+If you were found here, you should start a trial with these executive councils:
+
+Magistrate: [nation]The Pan-Slavic Union[/nation]
+
+Public Prosecutor: [nation]The republic of bracka[/nation]
+
+Lawyer: [nation]The North Polish Union[/nation]
+
+Current Witnesses: [nation]Redarnia[/nation], [nation]Bolguria[/nation], [nation]The republic of bracka[/nation]
+
+Current Defendant: [nation]Pashaluka Valentinovica[/nation]
+
+Others Involved: [nation]Spexton[/nation] (President of [region]Slavia[/region])[/b]
