@@ -13,9 +13,9 @@
 --- [b]Vice Moff of Foreign Affairs[/b]: [nation=short] Vacant[/nation]
 - [b]Moff of War[/b]: [nation=short]The Guardians of the Covenant[/nation]
 --- [b]Vice Moff of War[/b]: [nation=short]Vacant [/nation]
-- [b]Moff of Culture[/b]: [nation=short]Romic[/nation] 
---- [b]Vice Moff of Culture[/b]: [nation=short]The New Sith[/nation] 
-- [b]Moff of Imperial Justice[/b]: [nation=short]Vacant [/nation]
+- [b]Moff of Culture[/b]: [nation=short]The New Sith[/nation] 
+--- [b]Vice Moff of Culture[/b]: [nation=short]Vacant [/nation] 
+- [b]Moff of Imperial Justice[/b]: [nation=short]Mack Lochmere[/nation]
 --- [b]Vice Moff of Imperial Justice[/b]: [nation=short]Vacant [/nation][hr]
 
 [url=http://s4.zetaboards.com/New_Galactic_Empire/index/]NGE Forum[/url]

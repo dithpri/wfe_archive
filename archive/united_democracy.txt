@@ -5,13 +5,14 @@ President: [nation=short]Orange Rock[/nation]
 WA Delegate &amp;amp; Secretary of Foreign Affairs: [nation=short]Evonian[/nation]
 Secretary of Defense: [nation=short]Silverdalia[/nation]
 Secretary of Congress:
-Secretary of Internal Affairs:
+Secretary of Internal Affairs: [nation=short]St Luke[/nation]
+----Deputy Secretary: [nation=short]Faligren[/nation]
 [/color]
 
 
 [color=blue][u]Congress[/u][/color][color=orange]
-Seat 1:
-Seat 2:
+Seat 1: [nation=short]DFW[/nation]
+Seat 2: [nation=short]Harlishek[/nation]
 Seat 3:
 Seat 4:
 Seat 5:

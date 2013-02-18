@@ -1,7 +1,5 @@
 [color=black][b][u]The Great Kingdom of Prussia[/u][/b][/color]
 
-[color=gold][u][b]King[/u]: [/color][nation=short+noflag]Friedrich II the great[/nation][/b]
-[color=grey]_____________________________________________________________________________________[/color]
 [color=purple][u][b]Upperhouse[/u][/b][/color]
 [b]State Steward:[/b] [i][nation=short]Nationalist state of Knox[/nation][/i]
 [b]Chancellor:[/b] [i] [nation=short]House Korlov[/nation][/i]
@@ -9,8 +7,8 @@
 [b]Lord Marshall:[/b] [i] [nation=short]Vaval[/nation][/i]
 
 [color=blue][u][b]Lowerhouse[/b][/u][/color]
-[b]Minister for Internal Affairs:[/b] [i]Vacant[/i]
-[b]Minister for Foreign Affairs:[/b] [i]Vacant[/i]
+[b]Minister for Internal Affairs:[/b] [i][nation=short]Senecah[/nation][/i]
+[b]Minister for Foreign Affairs:[/b] [i][nation=short]Transvaal and the Orange Free State[/nation][/i]
 [b]Minister of Justice:[/b] [i]Vacant[/i]
 [color=grey]_____________________________________________________________________________________[/color]
 
@@ -18,8 +16,9 @@
 2] [b]Apply for [url=http://w11.zetaboards.com/PrussianKingdom/topic/7898035/2/#new]Citizenship[/url][/b] 
 3] [b]Join the [url=http://w11.zetaboards.com/PrussianKingdom/topic/7909617/1/#new]Prussian army[/url]![/b]
 
-
 [url=http://www.chatzy.com/74833008846849][b]Chat room[/b][/url].
 
 [b]Please, join the World Assembly ([url=http://www.nationstates.net/page=un]Here[/url]) and endorse our elected Delegate:[/b] [i][nation=short]House Korlov[/nation][/i]
 [color=grey]_____________________________________________________________________________________[/color]
+
+[b]Apply for embassies on forums[/b]

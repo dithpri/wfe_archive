@@ -5,5 +5,5 @@ President: [nation]The New Earth Coalition[/nation]
 Secretary of War: [nation]Conceptina[/nation]
 Secretary of Justice: [nation]Republic of the North[/nation]
 ----------------------------------------------------
-Senators: [nation]charibdina[/nation], [nation]promethious[/nation]
+Senators: [nation]Charibdina[/nation], [nation]Promethious[/nation]
 Representatives: [i]vacant, vacant, vacant, vacant[/i]

@@ -2,7 +2,7 @@ Great Empire across space in the distant Zior Galaxy.  Join the empire today and
 
 Emperor - [nation=Krimsonland]
 Chancellor - [nation=Japhari]
-Vice Chancellor - Vacant
+Vice Chancellor - [nation=Diadem]
 
 Minister of State - Vacant
 Minister of Interior - Vacant

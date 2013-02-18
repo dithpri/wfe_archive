@@ -1,13 +1,15 @@
-[b][color=brown][u]GOVERNMENT:[/u][/color]
-[color=brown][u]Leader: [/u][/color][nation=short]the united slavic tsardom[/nation]
-[color=brown][u]Minister of Recruiting: [/u][/color][nation=short]parthyaea[/nation]
-[color=brown][u]Minister of foreign affairs: [/color][/u][nation=short]parthyaea[/nation] [color=blue](temporarily)[/color]
+[b][color=brown][u]GOVERNMENT:[/u]
+[u]Leader: [/u][nation=short]the united slavic tsardom[/nation]
+[u]Minister of Recruiting: [/u][nation=short]parthyaea[/nation]
+[u]Minister of foreign affairs: [/u][nation=short]parthyaea[/nation]
 _______________________________________________________________
 
-[color=brown]We are a free loving communist/anarchist utopia, here you can enjoy partaking in the regional government (anyone can join) or partake in long historical/political discussions. Any questions ask our leader, [nation=short+noflag]the united slavic tsardom[/nation][/color]
+[u]POLITICAL PARTY&amp;#39;S:[/u]
+1.Communist party of The Union of Communism
+2.Anarchist party of The Union of Communism
 _______________________________________________________________
 
-[color=brown]NEWS:
+[u]NEWS:[/u]
 1.recently updated factbook entry
 2.new regional government developed
 3.population: 2[/color][/b]

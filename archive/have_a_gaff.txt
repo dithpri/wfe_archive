@@ -1,21 +1,26 @@
 [color=blue][u][b]Have a gaff[/b][/u][/color] [url=http://www.nationstates.net/nation=meskeland/detail=factbook/id=90585]Overview [b]Here[/b][/url]
 
-[color=purple]Planetary Schematics Pre-Colonization[/color]
-[url=http://www.nationstates.net/nation=meskeland/detail=factbook/id=90513]Here![/url]
+[color=violet][b]Regional Date: [/b][/color] Month: Einuar | Year: 1
+(90 Earth Seconds = 1 Gaff Minute, 54 Gaff Minutes = 1 Gaff hour, 23 Gaff Hours [28.8 Earth hours] = 1 Gaff Day, 42 Gaff Days Per Gaff Month, Exactly 10 Gaff Months Per Gaff Year)
 
-[color=red]Planetary Schematics Post-Colonization[/color]
-[url=http://www.nationstates.net/nation=meskeland/detail=factbook/id=90545]Here![/url]
-
-[color=blue]Maps[/color]:
-[url=https://dl.dropbox.com/u/3515831/test%20nation%20excretia.png]Political[/url](Telegram [nation]Meskeland[/nation] to add your nation to the map)
+[color=blue][b]Maps:[/b][/color]
+[url=https://dl.dropbox.com/u/3515831/test%20nation%20excretia.png]Political[/url](Telegram [nation=short]Meskeland[/nation] to add your nation to the map)
 [url=https://dl.dropbox.com/u/3515831/Have%20a%20gaff_relief.png]Elevation[/url]
 [url=https://dl.dropbox.com/u/3515831/Have%20a%20gaff_climate.png]Climate[/url]
+[color=green]War[/color] [color=lightblue]Coming soon...[/color]
 
-[color=orange]Miscellaneous [region]Have a gaff[/region] Statistics![/color]
-[url=http://www.broomdces.com/nseconomy/regions.php?region=Have%20a%20gaff]Here![/url]
+[color=orange][b]International Standings[/b] (Allies, Enemies, Neutral)[b]:[/b] [/color]
+[url=http://www.nationstates.net/nation=meskeland/detail=factbook/id=95632]Here![/url]
 
-[color=indigo]Regional Market:[/color] [url=http://www.nationstates.net/nation=meskeland/detail=factbook/id=92987]Click Here[/url]
-Contact Delegate [nation]Meskeland[/nation] or Founder [nation]Vorldaufscott[/nation] to set up a trade route.
+[color=indigo][b]Regional Market:[/b][/color]
+[url=http://www.nationstates.net/nation=meskeland/detail=factbook/id=95424]Here![/url]
+Contact Delegate [nation=short]Meskeland[/nation] or Founder [nation=short]Vorldaufscott[/nation] to set up a trade route.
 
-[color=darkblue]Goods Currently Being Traded:[/color]
-[url=http://www.nationstates.net/nation=meskeland/detail=factbook/id=91367]Trade Routes Here![/url]
+[color=darkblue][b]Goods Currently Being Traded:[/b][/color]
+[url=http://www.nationstates.net/nation=meskeland/detail=factbook/id=91367]Here![/url]
+
+[color=purple][b]Planetary Schematics Pre-Colonization[/b][/color]
+[url=http://www.nationstates.net/nation=meskeland/detail=factbook/id=90513]Here![/url]
+
+[color=red][b]Planetary Schematics Post-Colonization[/b][/color]
+[url=http://www.nationstates.net/nation=meskeland/detail=factbook/id=90545]Here![/url]
