@@ -1,5 +1,6 @@
-[color=blue][b]Welcome to Conservadoms![/b][/color]
 
-[b]A place to relax and rest in peace.[/b]
+[color=blue][b]Welcome to Conservadoms[/b][/color]
 
-[b]Territory regions:[/b] [region]The Golden Gates[/region]
+[color=Purple][b]A place to relax and rest in peace![/b][/color]
+
+[b]Are territory regions:[/b] [region]The Golden Gates[/region]

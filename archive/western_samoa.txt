@@ -9,6 +9,6 @@ FACTS
 &#149; [b]Independence[/b] &#149; 1 Jan 1962 (New Zealand)
 [/color][color=4F7942]
 REGION
-[b][nation=short+noflag]Elliston[/nation]&amp;#39;s Home Allied Regions[/b]
-&amp;lt; [region=Weirdonia] - [region=Galapagos] - [b]Western Samoa[/b] - [region=Cute Kids] - [region=South China Sea] &amp;gt;&amp;gt;[/color][color=FF2400]
+[b][nation=short+noflag]Manitoulin[/nation]&amp;#39;s group of Allied Regions[/b]
+[region=Weirdonia] - [region=Galapagos] - [b]Western Samoa[/b] - [region=South China Sea] - [region=Cute Kids][/color][color=FF2400]
 [b]PLEASE, DO NOT RECRUIT HERE[/b][/color]

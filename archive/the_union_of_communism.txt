@@ -1,12 +1,12 @@
 [b][color=brown][u]GOVERNMENT:[/u]
-[u]Leader: [/u][nation=short]the united slavic tsardom[/nation]
+[u]Dictator: [/u][nation=short]the united slavic tsardom[/nation]
 [u]Minister of Recruiting: [/u][nation=short]parthyaea[/nation]
 [u]Minister of foreign affairs: [/u][nation=short]parthyaea[/nation]
 _______________________________________________________________
 
 [u]POLITICAL PARTY&amp;#39;S:[/u]
-1.Communist party of The Union of Communism
-2.Anarchist party of The Union of Communism
+1.[i]Communist party of The Union of Communism[/i]
+2.[i]Anarchist party of The Union of Communism[/i]
 _______________________________________________________________
 
 [u]NEWS:[/u]

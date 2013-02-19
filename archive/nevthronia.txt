@@ -2,18 +2,16 @@
 
 [color=navy][b]Region Project Checklist:[/b][/color]
 [list]
-[color=chartreuse][*]Establishing a Regional Flag[/color]
-[color=gold][*]Creating a Regional Map[/color]
+[color=green][*]Establishing a Regional Flag[/color]
+[color=chartreuse][*]Creating a Regional Map[/color]
 [color=gold][*]Making a Regional Chatroom[/color]
 [color=orange][*]Creating a Regional Forum[/color]
-[color=orange][*]Reach a population of 20 members[/color]
-[color=red][*]Developing a Constitution[/color]
-[color=red][*]Organizing a Government System[/color][/list]
+[color=orange][*]Reach a Population of 20 members[/color]
+[color=red][*]Develop a Constitution[/color]
+[color=red][*]Organize a Government System[/color][/list]
 
 [b]Project Status Code[/b]
 
-[color=green]Complete[/color] ~ [color=gold]In Progress[/color] ~ [color=red]Not Yet Begun[/color]
+[color=green]Complete[/color] ~ [color=gold]In Progress[/color] ~ [color=red]Long Term[/color]
 
-[b][url=http://tinyurl.com/bdwdjx3][color=purple]Vote in the Nevthronian Flag Referendum! Polls close Monday.[/color][/url][/b]
-
-[color=green]Submissions: [url=http://i.imgur.com/NaU343x.gif?1]Flag #1[/url] |  [url=http://i.imgur.com/IaNoXfE.png?2?8763]Flag #2[/url] | Anyone else?[/color]
+[b][color=purple]Regional Map: RL world map, or original design?[/color][/b]

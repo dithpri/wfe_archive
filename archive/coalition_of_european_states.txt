@@ -3,7 +3,7 @@
 
 The [b]Coalition of European States[/b] (CES) Government
 
-President: *Election Pending*
+President: [b]*Election In Progess*[/b]
 
 Prime Minister: [nation]Great Britain and Her Majestys Dominions[/nation]
  Deputy Prime Minister: *Appointment Pending*
@@ -12,13 +12,13 @@ Minister of Defence: [nation]Hulkland[/nation]
  Minister of Home Affairs: [nation]The Math of Clarence[/nation]
  Minister of Foreign Affairs:[nation]United Teddy[/nation]
 
-Director of Regional Elections: *Appointment Pending*
+[i]Acting Director of Regional Elections[/i]: [nation=short]The Math of Clarence[/nation]
  Director of Regional Development: *Appointment Pending*
 
 
 [b]Events &amp;amp; News:[/b]
 
-&#149; [i]Presidential Election[/i] pending.
+&#149; [i]Presidential Election[/i] in progress.
 
 &#149; Regional Motto &amp;amp; Statement entry deadline - 18th February 2013
 
