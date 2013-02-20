@@ -11,7 +11,7 @@ Executive Director: [nation=short]Tisotto[/nation]
 Director General: [color=darkblue]TBD[/color]
 Directorate Council: [color=darkblue]TBD[/color]
 Chairman of the Assembly: [nation=short]The Grand Republic of Hannover[/nation]
-Representatives (EUN): [nation=short]Forest Moon of Endor[/nation], [nation=short]The Grand Republic of Hannover[/nation], [nation=short]Sapien[/nation], [nation=short]Imperian[/nation], [nation=short]Zovu[/nation], [nation=short]Tisotto[/nation]
+Representatives (EUN): [nation=short]Forest Moon of Endor[/nation], [nation=short]The Grand Republic of Hannover[/nation], [nation=short]Sapien[/nation], [nation=short]Imperian[/nation], [nation=short]Zovu[/nation], vacant 
 Chairman of the Court: [nation=short]Gallania[/nation]
 Justices:[nation=short]Gallania[/nation], [nation=short]Sohanistan[/nation]
 

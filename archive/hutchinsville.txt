@@ -4,4 +4,4 @@ Delegate/Emperor: [nation=short]Jeffersontopia[/nation]
 Executive Magistrate: 
 Minister of Commerce: 
 Minister of Foreign Affairs: 
-Minister of Regional Defense: [nation=short]Pxoria[/nation]
+Minister of Regional Defense: 

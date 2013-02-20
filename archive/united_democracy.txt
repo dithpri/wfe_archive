@@ -13,7 +13,7 @@ Secretary of Internal Affairs: [nation=short]St Luke[/nation]
 [color=blue][u]Congress[/u][/color][color=orange]
 Seat 1: [nation=short]DFW[/nation]
 Seat 2: [nation=short]Harlishek[/nation]
-Seat 3:
+Seat 3: [nation=short]Sloviakia[/nation]
 Seat 4:
 Seat 5:
 [/color]

@@ -13,19 +13,20 @@ Associate Justice: [nation=short]Reihtuor[/nation] [color=blue](D)[/color][/b]
 
 [b][u][color=maroon]Ministry of Tides[/u]:[/color][/b]
 [b]Prime Minister: [nation=short]Astesia[/nation] [color=blue](D)[/color]
-Justice: TBA
+Justice: [nation=short]Soseliba[/nation] [color=blue](D)[/color]*
 Defense: [nation=short]Fijonga[/nation] [color=orange](G)[/color]
 Treasury: [nation=short]Bill Murray[/nation] [color=gold](T)[/color]
 Immigration: TBA
-Interior: TBA
+Interior: TBA[/b]
 
-[u][color=maroon]House of Tides:[/color][/u]
+[b][u][color=maroon]House of Tides:[/color][/u]
 Seat #1: Speaker [nation=short]Andureo[/nation] [color=orange](G)[/color]
 Seat #2: [nation=short]Quiet Shadows[/nation] [color=green](E)[/color]
-Seat #3: [nation=short]Leanore[/nation] [color=orange](G)[/color]
+Seat #3: [nation=short]Leanore[/nation] [color=orange](G)[/color][/b]
 
-[hr][u][color=maroon]LoT Tending Topics:[/color][/u]
+*Pending Congressional Approval.
+[b][hr][u][color=maroon]LoT Tending Topics:[/color][/u]
 
--Judicial Appointments TODAY!
+-Reihtuor joins the Court &amp;amp; Soseliba appointed as Attorney General!
 -Should LoT draft an amendment for guns? 
 -[url=http://w11.zetaboards.com/League_of_Tides/topic/7901302/1/#new]Welcome New Nations[/url]![/b]

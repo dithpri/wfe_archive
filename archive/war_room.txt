@@ -1,11 +1,6 @@
-[color=465945][b]War Room[/b][/color]
-[color=008B8B]
+[color=004664][b]War Room[/b]
+
 REGION
-[b]Allied Region of [nation=short]Elliston[/nation][/b]
- 9. [region=Tuscany]
-10. [region=Sverige]
-11. [b]War Room[/b]
-12. [region=Balochistan]
-13. [region=Westminster]
-[/color][color=800000]
+A group of [nation=short]Manitoulin[/nation]&amp;#39;s Allied Regions.
+[region=Sverige] - [region=Valiant] - [b]War Room[/b] - [region=Balochistan] - [region=Westminster][/color][color=800000]
 [b]Please, do not recruit here[/b][/color]

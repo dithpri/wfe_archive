@@ -3,15 +3,16 @@
 [color=navy][b]Region Project Checklist:[/b][/color]
 [list]
 [color=green][*]Establishing a Regional Flag[/color]
-[color=chartreuse][*]Creating a Regional Map[/color]
-[color=gold][*]Making a Regional Chatroom[/color]
-[color=orange][*]Creating a Regional Forum[/color]
-[color=orange][*]Reach a Population of 20 members[/color]
+[color=green][*]Reach a Population of 20 members[/color]
+[color=yellowgreen][*]Creating a Regional Map[/color]
+[color=gold][*]Creating a Regional Forum[/color]
+[color=orange][*]Making a Regional Chatroom[/color]
 [color=red][*]Develop a Constitution[/color]
 [color=red][*]Organize a Government System[/color][/list]
 
 [b]Project Status Code[/b]
-
 [color=green]Complete[/color] ~ [color=gold]In Progress[/color] ~ [color=red]Long Term[/color]
 
 [b][color=purple]Regional Map: RL world map, or original design?[/color][/b]
+[color=white]_____________________________________________________________________________.[/color]Founded 2/6/13
+[color=white]___________________________________________________________________________..[/color]Featured 2/19/13
