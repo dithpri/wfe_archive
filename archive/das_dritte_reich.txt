@@ -7,7 +7,7 @@
 [u][b][color=red]Reichsmarschalls:[/color][/u]
 [nation]Hakidaku[/nation] (H&auml;uptling)
 [nation]Hydra Germany[/nation] (Wehrmacht)
-[nation]Lictorfasci[/nation] (Delegate)[/b]
+[nation]Lictorfasci[/nation] (Reichsdelegate)[/b]
 
 [u][b][color=red]Generalobersts[/color] [/u]
 [nation]Benito mussolini italy[/nation] 
@@ -15,11 +15,11 @@
 
 [u][b][color=red]Ministers[/color] [/u]
 [nation]Akota[/nation](Propaganda) 
-[nation]Geths[/nation](Ausw&auml;rtige Angelegenheiten)
+[nation]Geths[/nation](Finanzieren)
 [/b]
 
 [i]Join the [u][b]WA[/b][/u]
-Endorse the [b]Delegate[/b]
+Endorse the [b]Reichsdelegate [nation]Lictorfasci[/nation][/b]
 [url=http://dasdrittereich.forumotion.co.uk/f1-das-dritte-reich-immigration-office]APPLY FOR CITIZENSHIP[/url].
 [url=http://dasdrittereich.forumotion.co.uk/t2-apply-for-millitary-service#5]JOIN THE WEHRMACHT[/url]:[b]SCHNELL![/b]
 Take a look at our [url=http://forum.nationstates.net/viewtopic.php?f=12&amp;amp;t=217532][u]international embassy[/u][/url][/i]

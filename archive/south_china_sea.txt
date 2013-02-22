@@ -1,11 +1,7 @@
-[color=000080]The [b]South China Sea[/b] is part of the Pacific Ocean, around 3,500,000 km sq (1,350,000 sq mi). One-third of the world&amp;#39;s shipping transiting through here, and has huge oil and gas reserves. Located south of mainland China and the island of Taiwan, west of the Philippines, north west of Sabah and Sarawak (Malaysia), Brunei, north of Indonesia, Malay peninsula (Malaysia) and Singapore, and east of Vietnam. This area is disputed between the several nations around it.
-[/color][color=006460]
-[b]REGION[/b]
+[color=177245]The [b]South China Sea[/b] is part of the Pacific Ocean, around 3,500,000 km sq (1,350,000 sq mi). One-third of the world&amp;#39;s shipping transiting through here, and has huge oil and gas reserves. Located south of mainland China and the island of Taiwan, west of the Philippines, north west of Sabah and Sarawak (Malaysia), Brunei, north of Indonesia, Malay peninsula (Malaysia) and Singapore, and east of Vietnam. This area is disputed between the several nations around it.
 
-DEPARTMENT OF THE INTERIOR
-Bureau Office of the Census
-TRANSIT CONTROL REGION
-
-[nation=short+noflag]Manitoulin[/nation]&amp;#39;s group of Allied Regions
-[region=Galapagos] - [region=Western Samoa] - [b]South China Sea[/b] - [region=Cute Kids] - [region=Pitcairn][/color][color=800000]
-[b]PLEASE - DO NOT RECRUIT HERE[/b][/color]
+REGION
+&#149; &#149; TRANSIT CONTROL REGION &#149; &#149;
+&#149; Another of [nation=short+noflag]Manitoulin[/nation]&amp;#39;s group of Allied Regions &#149;
+&#149; [region=Western Samoa] &#149; [b]South China Sea[/b] &#149; [region=Cute Kids] &#149;
+&#149; &#149; &#149; [b]PLEASE - DO NOT RECRUIT HERE[/b] &#149; &#149; &#149;[/color]

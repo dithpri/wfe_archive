@@ -1,15 +1,17 @@
-[b][color=brown][u]GOVERNMENT:[/u]
+[color=red][b][u]GOVERNMENT:[/u]
 [u]Dictator: [/u][nation=short]the united slavic tsardom[/nation]
 [u]Minister of Recruiting: [/u][nation=short]parthyaea[/nation]
 [u]Minister of foreign affairs: [/u][nation=short]parthyaea[/nation]
 _______________________________________________________________
 
-[u]POLITICAL PARTY&amp;#39;S:[/u]
-1.[i]Communist party of The Union of Communism[/i]
-2.[i]Anarchist party of The Union of Communism[/i]
-_______________________________________________________________
+[u]Quotes:[/u]
+&amp;quot;May the workers of the world UNITE&amp;quot;
+-Karl Marx
+&amp;quot;The true leader must submerge himself into the fountain of the people&amp;quot;
+-V.L. Lenin
+_______________________________________________________________[/color]
 
-[u]NEWS:[/u]
+[color=red][u]NEWS:[/u]
 1.recently updated factbook entry
 2.new regional government developed
-3.population: 2[/color][/b]
+3.population: 2[/b][/color]
