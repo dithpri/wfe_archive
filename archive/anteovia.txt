@@ -4,8 +4,17 @@ Every nation has a say, there is no nation greater than another in Anteovia.
 
 There are currently three separate alliance systems in Anteovia:
 
-Quad Pact-Agreement:        Eastern Renewal:             Dual Alliance:
-- Protelium                        -Procurs                         -Paladainia
-- Gatharin                         -Hostimentum                  -Clovakia
-- Flaeonce                        -Nebuchaland                  
+Quad Pact-Agreement:                  
+- Protelium
+- Gatharin
+- Flaeonce            
 - Jarrath
+
+Eastern Renewal: 
+- Procurs
+- Hostimentum
+- Nebuchaland
+
+Dual Alliance:
+- Paladainia
+- Clovakia

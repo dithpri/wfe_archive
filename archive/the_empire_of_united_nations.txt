@@ -8,10 +8,10 @@ UL: Founded September 26, 2012 by [region]Transcendence[/region] and [region]The
 
 [b][color=blue]Government - United League[/color][/b]
 Executive Director: [nation=short]Tisotto[/nation]
-Director General: [color=darkblue]TBD[/color]
+Director General: [nation=short]Sapien[/nation]
 Directorate Council: [color=darkblue]TBD[/color]
 Chairman of the Assembly: [nation=short]The Grand Republic of Hannover[/nation]
-Representatives (EUN): [nation=short]Forest Moon of Endor[/nation], [nation=short]The Grand Republic of Hannover[/nation], [nation=short]Sapien[/nation], [nation=short]Imperian[/nation], [nation=short]Zovu[/nation], Vacant 
+Representatives (EUN): [nation=short]Forest Moon of Endor[/nation], [nation=short]The Grand Republic of Hannover[/nation], [nation=short]Imperian[/nation], [nation=short]Zovu[/nation], 2 Vacancies 
 Chairman of the Court: [nation=short]Gallania[/nation]
 Justices:[nation=short]Gallania[/nation], [nation=short]Sohanistan[/nation]
 

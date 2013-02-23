@@ -1,6 +1,6 @@
 WE ARE A NEW NATION. NO POSITIONS HAVE BEEN FILLED YET.
 
-Founder: Test 3748
+HOLDER: Test 3748
 
 President:
 Vice President: 
@@ -11,3 +11,7 @@ Senators:
 Representatives:
 --------------------------------------------------------------------------------
 Secretary of State:
+
+Judges:
+--------------------------------------------------------------------------------
+Past Presidents:

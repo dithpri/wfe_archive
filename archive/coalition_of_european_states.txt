@@ -3,8 +3,6 @@
 
 The [b]Coalition of European States[/b] (CES) Government
 
-President: [b]*Election In Progess*[/b]
-
 Prime Minister: [nation]Great Britain and Her Majestys Dominions[/nation]
  Deputy Prime Minister: *Appointment Pending*
 
@@ -18,6 +16,6 @@ Minister of Defence: [nation]Hulkland[/nation]
 
 [b]Events &amp;amp; News:[/b]
 
-&#149; [i]Presidential Election[/i] in progress.
+&#149; The Office of the President suspended.
 
 &#149; [i]Coalition Day[/i] &#150; 23rd August
