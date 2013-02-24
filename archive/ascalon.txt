@@ -1,6 +1,10 @@
 [B]Welcome to Ascalon, Colony and Legion Fortress of The Gargantuan Empire[/b]
 
-This colony is under direct control of the Legion, those within are still afforded the same rights as any Gargantuan Empire citizen. 
+This colony is under direct control of the Legion. 
 
 Legion General/Regional Governor
 [nation]Virgo[/nation]
+
+Imperial Magistrate [nation]Neal Empire[/nation] 
+
+It is required to endorse the Imperial Magistrate to protect the colony. All nations still have a voice and vote in the [region]The Gargantuan Empire[/region] 

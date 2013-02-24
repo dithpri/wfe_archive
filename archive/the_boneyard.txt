@@ -1,0 +1,9 @@
+[b]An [color=limegreen]active nation[/color] currently exists within the gameworld.
+
+A [color=blue]deleted nation[/color] ceased to exist in the gameworld (probably due to inactivity) but may be resurrected by its owner.
+
+An [color=gold]ancient nation[/color] was deleted a very long time and can no longer be resurrected, as its name has since been re-used for a newer nation.
+
+A [color=red]Disgraced nation[/color] was soiled by a former nation and cannot be resurrected or re-used for a newer nation.
+
+Link to Nationstates [url=http://www.nationstates.net/page=boneyard]Boneyard[/url][/b]
