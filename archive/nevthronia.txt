@@ -4,9 +4,9 @@
 [list]
 [color=green][*]Establishing a Regional Flag[/color]
 [color=green][*]Reach a Population of 20 members[/color]
+[color=green][*]Making a Regional Chatroom[/color]
 [color=yellowgreen][*]Creating a Regional Map[/color]
 [color=yellowgreen][*]Creating a Regional Forum[/color]
-[color=gold][*]Making a Regional Chatroom[/color]
 [color=orangered][*]Organize a Government System[/color]
 [color=red][*]Develop a Constitution[/color][/list]
 
@@ -16,3 +16,4 @@
 [b][color=purple]Regional forum is near completion, and will be opened to the public soon![/color][/b]
 [color=white]_____________________________________________________________________________.[/color]Founded 2/6/13
 [color=white]___________________________________________________________________________..[/color]Featured 2/19/13
+[b][url=http://tinyurl.com/nev-irc][color=dodgerblue]Regional Chat[/color][/url][/b]

@@ -1,1 +1,3 @@
-The Duchy of Gascony, vassal of Duchy of [region=Normandy]. 
+The Duchy of Gascony is a fiefdom of the Duchy of [b][region=Normandy][/b].
+
+If you want further information about this region please contact the Duke [nation=short]Green Forester[/nation].

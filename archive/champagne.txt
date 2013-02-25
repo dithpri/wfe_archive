@@ -1,1 +1,3 @@
-The County of Champagne, vassal of the Duchy of [region=Normandy].
+The County of Champagne is a fiefdom of the Duchy of [b][region=Normandy][/b].
+
+If you want further information about this region please contact the Count, [nation=short]Green Forester[/nation].

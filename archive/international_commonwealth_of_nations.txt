@@ -6,7 +6,7 @@ ICON Motto
 Secretary-General &amp;amp; Founding FatherLand of ICON
 [nation]Goltzborg[/nation]
 
-Deputy Secretary-General
+Deputy Sec-Gen
 [nation]Shangolia[/nation]
 
 Ambassador @ Large
@@ -17,7 +17,7 @@ Commander-in-Chief of ICON&amp;#39;s
 [nation]Nartho[/nation]
 
 Nation of the Week Award
-[nation]Sarenmagne[/nation]
+[nation]Belarus Permanent Mission in the ICON[/nation]
 
 Protectorates
 [region]Silver Coast[/region], [region]The Ptolemaic Kingdom[/region]
@@ -32,7 +32,7 @@ ICON [url=http://mibbit.com/?channel=%23icon&amp;amp;server=irc.esper.net]Confer
 
 ICON [url=http://www.twitter.com/icongovt]Regional Twitter[/url]
 
-ICON [url=http://forum.nationstates.net/viewtopic.php?f=23&amp;amp;t=205337]Regional Maps[/url]
+ICON [url=http://forum.nationstates.net/viewtopic.php?f=23&amp;amp;t=205337]Regional Map[/url]
 
 ICON [url=http://www.nationstates.net/nation=goltzborg/detail=factbook/id=53797]Regional Anthem[/url]
 
@@ -40,6 +40,6 @@ ICON is a Member of
 [region]United Regions of NationStates[/region]
 
 Weekly Topic 
-[color=green]Regional Map Project[/color]
+[color=green]?[/color]
 
 [/b]

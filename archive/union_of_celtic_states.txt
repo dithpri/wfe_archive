@@ -1,6 +1,22 @@
 [b]Welcome to the Union of Celtic States (UCS)[/b]
 
-[b]President:[/b] William Barclay (Acting)
-[b]Member States:[/b] 9
-[b]Population:[/b] 16,240,104,059
+[b]President:[/b] [nation]MacDonald Islands[/nation]
+[b]Vice President:[/b][nation]Meerkovo Mountains[/nation]
+[b]Population:[/b] 4 States
 [b]Founded:[/b] 6 July, 2012
+
+WA Delegate: [nation]MacDonald Islands[/nation]
+
+[b]Home Land Security[/b]
+
+[color=blue]LOW - Safe[/color]
+
+[color=green]GUARDED - Minor threat[/color]
+
+[color=yellow]ELEVATED - Clear threat[/color]
+
+[color=orange]HIGH - Serious threat[/color]
+
+[color=red]SEVERE - Gargantuan threat[/color]
+
+Current Level: [color=green]GUARDED[/color]

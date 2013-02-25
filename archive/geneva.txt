@@ -1,1 +1,3 @@
-[b]The County of Geneva is a vassal of the Duchy of [region=Normandy].[/b]
+The Prince-Bishopric of Geneva is a fiefdom of the Duchy of [b][region=Normandy][/b].
+
+If you want further information about this region please contact the Prince-Bishop [nation=short]Green Forester[/nation].

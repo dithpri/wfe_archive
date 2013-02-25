@@ -4,17 +4,19 @@
 The [b]Coalition of European States[/b] (CES) Government
 
 Prime Minister: [nation]Great Britain and Her Majestys Dominions[/nation]
- Deputy Prime Minister: *Appointment Pending*
+ Deputy Prime Minister: [nation]-_Spain_-[/nation]
 
 Minister of Defence: [nation]Hulkland[/nation]
  Minister of Home Affairs: [nation]The Math of Clarence[/nation]
- Minister of Foreign Affairs:[nation]United Teddy[/nation]
+ Minister of Foreign Affairs: [nation]United Teddy[/nation]
 
 [i]Acting Director of Regional Elections[/i]: [nation=short]The Math of Clarence[/nation]
  Director of Regional Development: *Appointment Pending*
 
 
 [b]Events &amp;amp; News:[/b]
+
+&#149; [nation=short]-_Spain_-[/nation] appointed Deputy Prime Minister.
 
 &#149; The Office of the President suspended.
 
