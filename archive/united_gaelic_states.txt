@@ -1,0 +1,24 @@
+[b]President:[/b] [nation]MacDonald Islands[/nation]
+[b]Vice President:[/b] [nation]Meerkovo Mountains[/nation]
+[b]Population:[/b] [color=green]4 States[/color]
+[b]Founded:[/b] [color=green]25/02/2012[/color]
+
+[hr]
+
+[b]WA Delegate:[/b] [nation]MacDonald Islands[/nation]
+
+[hr]
+
+[b]Home Land Security[/b]
+
+[list][*][b]LOW[/b] - Blue [color=blue]O[/color]
+
+[*][b]GUARDED[/b] - Green [color=green]O[/color]
+
+[*][b]ELEVATED[/b] - Yellow [color=yellow]O[/color]
+
+[*][b]HIGH[/b] - Orange [color=orange]O[/color]
+
+[*][b]SEVERE[/b] - Red [color=red]O[/color][/list]
+
+[b]Current Level:[/b] [color=green][b]Green[/b][/color]

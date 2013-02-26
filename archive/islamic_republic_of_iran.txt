@@ -5,11 +5,11 @@
 
 [b][u]Officials[/u][/b]
 
-[color=red][b]Supreme Leader: Grand Ayatollah Sayyid [nation=short]Ognjen Ahmadinejad[/nation][/color]
+[color=orange][b]Supreme Leader: Grand Ayatollah Sayyid [nation=short]Ognjen Ahmadinejad[/nation][/color]
 
-[color=brown]Acting President: [nation=short]Ognjen Ahmadinejad II[/nation] ([nation=short]Ognjen Ahmadinejad[/nation])[/color]
+[color=red]Acting President: [nation=short]Ognjen Ahmadinejad II[/nation] ([nation=short]Ognjen Ahmadinejad[/nation])[/color]
 
-[color=brown]Vice President: [nation=short]Western Arab Empire[/nation]
+[color=red]Vice President: [nation=short]Western Arab Empire[/nation]
 
 [/color] 
 
@@ -21,13 +21,12 @@ Minister of Foreign Affairs: [nation=short]Ahmedistan[/nation]
 
 Minister of Intelligence and National Security: VACANT
 
-Minister of Defense and Internal Affairs: Major general [nation=short]Amenhotep IV[/nation]
+Minister of Defense and Internal Affairs: [nation=short]United Azawad[/nation]
 
 Minister of Culture and Islamic Guidance: VACANT
 [/color][/b]
 
  
-Ambassador in [region]RORMS[/region] [nation=short]Al-Jihad Palestine Iran[/nation]
 
 
 [color=red][b]Allied With: [region]RORMS[/region], [region]United Empire of Islam[/region] and [region]Foxtopia[/region][/b][/color]

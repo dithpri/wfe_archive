@@ -1,4 +1,4 @@
-Head Senator: The Federation of West Morskoj, General-President Jayrus Cole
+Head Senator:West Morskoj, General-President Jayrus Cole
 Head Senator: The Federal Republic of East Tarakia, President Eduardo Gilgarmado
 Senator of Defense: The Republic of East Morskoj, President Cyrus Longwood
 Senator of Homeland Security: The Republic of Vanhanio, Prime Minister Jordan Johnson
@@ -8,10 +8,12 @@ Senator of The Home Army: The Federation of the Anti-Coalition of Governments, D
 Enemies: The Coalition of Governments
 
 Status: Peace Time
-           Instability
+           {Instability}
            Preparation for War
            Wartime
-           (Nuked and Extreme War Preparation)
+           Nuked and Extreme War Preparation
            Negotiations
+
+Special Note: We have revoked the nuking order on the COG.
            
 

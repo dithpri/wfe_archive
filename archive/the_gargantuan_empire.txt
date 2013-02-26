@@ -1,8 +1,29 @@
 [color=green][b]Welcome to The Gargantuan Empire![/b][/color]
 
-Temporary Government:
+[b][color=red]General Election is Friday, March 1, 2013! [u]All nations seeking office must announce their intentions by Wednesday, February 27, 2013 at 10:30pm[/u][/b][/color]
 
-Ruling Council
-Emperor Reagan Island, Regional Governor Hoytenstan, Virgo, Klacik, and Rhemaland.
+[b][u]International Branch[/b][/u]
+Office of the Emperor
+Emperor: [nation=short+noflag]Reagan Island[/nation]
+Legion General: [nation=short+noflag]Virgo[/nation]
+
+[b][u]Executive Branch[/b][/u]
+Office of the Governor
+Imperial Governor: (interim) [nation=short+noflag]Hoytenstan[/nation]
+Lt. Governor: [color=red]Vacant[/color]
+
+[b][u]Legislative Branch[/u][/b]
+Senate
+President: [color=red]Vacant[/color]
+Senator: [color=red]Vacant[/color]
+Senator: [color=red]Vacant[/color]
+Senator: [color=red]Vacant[/color]
+Senator: [color=red]Vacant[/color]
+
+[b][u]Judicial Branch[/b][/u]
+Department of Justice
+Chief Justice: [color=red]Vacant[/color]
+Justice: [color=red]Vacant[/color]
+Justice: [color=red]Vacant[/color]
 
 [url=http://www.gargantuanregion.webs.com]Click here to visit The Gargantuan Empire website![/url]

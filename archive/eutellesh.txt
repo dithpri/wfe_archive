@@ -1,6 +1,6 @@
 [b][color=blue]Greetings and welcome to[/color] [region]Eutellesh[/region]![/b]
 
-[b][u]Regional Government[/u][/b]
+[b][u][color=purple]Regional Government[/color][/u][/b]
 
 [b]Regional President[/b]: N/A
 [b]Regional Vice President[/b]: N/A
@@ -15,4 +15,4 @@
 
 [b][color=red]Elections begin as soon as our region has 10 nations.[/color][/b]
 
-[b]Regional Happenings[/b]: The nation [nation]Alejandra[/nation] has joined our region. Welcome.
+[b]Regional Happenings[/b]: [region]The United Federation of Planets[/region] agreed to construct embassies and the nation [nation]Ho Du Fla[/nation] has join our region. Welcome [nation]Ho Du Fla[/nation].

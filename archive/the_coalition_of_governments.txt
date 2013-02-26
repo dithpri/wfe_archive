@@ -5,10 +5,9 @@
 [Hr][b][color=crimson][u]The Chairmen of the C.O.G.[/u][/color][/b]
 [b][u]High Chairman[/u]:[/b][nation=short]Fraserland[/nation]
 [b][u]High Chairman[/u]:[/b][nation=short]Vanhania[/nation]
-[b][u]Chairman of Finance[/b][/u]:[nation=short]Libertas Liber[/nation]
+[b][u]High Chairman[/u]:[/b][nation=short]Libertas Liber[/nation]
 [b][u]Chairman of Defense[/b][/u]:[nation=short]Avaron[/nation]
-[b][u]Chairman of Intelligence[/b][/u]:[nation=short]Capra[/nation]
-[b][u]Chairman of Foreign Affairs[/b][/u]:[nation=short]Glaedirsgrad[/nation]
+[b][u]Chairman of Foreign Affairs[/b][/u]:[nation=short]Provenna[/nation]
 [b][u]Chairman of Internal Affairs[/b][/u]:[nation=short]Lerodan Chinamerica[/nation]
 
 
@@ -17,6 +16,6 @@
 [Hr]
 [b][u][color=red]Announcements![/color][/u][/b]:
 [b]
-Elections are here. TG your votes to Fr&auml;ser by the 25th. ([nation=noflag+short]Fraserland[/nation])
+The Chairmen elections are over! Elections for Congress will begin on the 28th. If you want to run for one of the five seats, TG Fraser.
 
 The RMB is now under regulation. See rules [url=http://coalition-of-governments.shivtr.com/news_entries/135169]here[/url] [/b]

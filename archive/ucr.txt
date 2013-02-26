@@ -1,13 +1,13 @@
 [color=brown][b][u]GOVERNMENT:[/u]
-PRESIDENT:[nation]the united slavic tsardom[/nation]
-WA:[/color] [color=blue][u](Undecided)[/u][/color][color=brown]
+PRESIDENT:[nation=short]the united slavic tsardom[/nation]
+VICE PRESIDENT:[/color] [color=blue][u](Undecided)[/u][/color][color=brown] (WA)
 
 ______________________________________________________________
 
 [u]NEW:[/u]
 1.region founded 2/24/13
-2.population 1
-3.Updated factbook
+2.population 2
+3.expanding embassies 
 
 ______________________________________________________________
 

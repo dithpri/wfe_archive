@@ -10,9 +10,9 @@ Follow the Steps below to start.[/b]
 
 [b]Chancellor:[/b] [nation]Alexander Sothis[/nation]
 [b]The Chamber:[/b]  [nation=short]Anathema Armaments[/nation], [nation=short]Novadem[/nation], [nation=short]Pratse[/nation], [nation=short]Patyun[/nation], [nation=short]Villa Real[/nation], [nation=short]House Basileus[/nation]
-[b]President:[/b] 
+[b]President:[/b] [nation=short]Imperial Japan-[/nation]
 
 [b][color=red]NEWS ANNOUNCEMENTS[/b]
-[b]Presidential Elections Happening now![/b]
+[b][nation=short]Imperial Japan-[/nation] Elected first President of Panopticon[/b]
 [b]Minister Elections[/b] March 5th.  Six positions available, Start campaigning now.
-[b]New Axioms Ratified:[/b] Axiom 26: Founders Day and Census Day[/color]
+[b]Happening Now:[/b] Reactions to the Election.[/color]
