@@ -13,3 +13,10 @@ Department of Defense: [nation]Lycan fang[/nation]
 Department of Trade: [nation]Laser land[/nation]
 Department of Foreign Alliances: [nation]Eratova[/nation]
 Department of Sports: [nation]Wyldland[/nation]
+
+[u]DEFCON[/u]
+[color=Tomato]DEFCON 1[/color]
+[color=Orange]DEFCON 2[/color]
+[color=Yellow]DEFCON 3[/color]&amp;lt;Current DEFCON
+[color=Green]DEFCON 4[/color]
+[color=Blue]DEFCON 5[/color]

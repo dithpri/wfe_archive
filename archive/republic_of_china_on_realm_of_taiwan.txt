@@ -1,18 +1,1 @@
-[nation]Taiwan-[/nation]
-Republic of China (Taiwan)
-_________________________________________________________________________________________________________________
-
-Capital: de-facto Taipei
-            de-jure  Nanking
-President: Ma Ying-Jeou
-Government: Unitary Semi-Presidential Republic
-Denonym: Chinese (Taiwanese)
-Official Languages: Mandarin Chinese, Taiwanese
-Recognized Regional Languages: Hakka, Indeginous
-Currency: New Taiwan Dollar
-Internet Domain: .tw
-Official Websites: 
-www.president.gov.tw
-www.mofa.gov.tw/en
-_________________________________________________________________________________________________________________
-Government of the Republic of China (Taiwan)
+Taiwan
