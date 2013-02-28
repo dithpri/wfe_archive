@@ -4,7 +4,6 @@ Regional Superpower: [nation]Altaslavia[/nation]
 
 Minister of Internal Security: [nation]LordWaverly[/nation]
 Minister of Monetary Systems: [nation]The Neutral Swiss[/nation]
-Minister of Defence: [nation]Fulminata-Legion XII[/nation]
+Minister of Defence: [nation]Altaslavia[/nation]
 Minister of Agriculture, Transport, and Public Support etc.: [nation]Kazakhslavia[/nation]
 Minister of Foreign Affairs: [nation]Yaltaslavia[/nation]
-Minister of Culture: [nation]Fulminata-Legion XII[/nation]

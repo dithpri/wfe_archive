@@ -1,11 +1,12 @@
 Synchor Officials:
 
-Co-Founders: The Kingdom of Helkairns, The Kingdom of the World According to Panda, The Republic of Csevaria
-President: The Kingdom of the World According to Panda, The Kingdom of Helkairns
-Recruitment Officer: The Republic of Csevaria
-People&amp;#39;s Official: The Kingdom of Helkairns
-Economic Officer: The Kingdom of the World According to Panda
-Military Director: The People&amp;#39;s Republic of West Dorian
+Co-Founders: [nation]Helkairns[/nation], [nation]The World According to Panda[/nation], [nation]Csevaria[/nation]
+President: [nation]Helkairns[/nation], [nation]The World According to Panda[/nation]
+Recruitment Officer: [nation]Csevaria[/nation]
+People&amp;#39;s Official: [nation]Helkairns[/nation]
+Economic Officer: [nation]The World According to Panda[/nation]
+Military Director: [nation]West Dorian[/nation]
+UCC Directors: [nation]West Dorian[/nation], [nation]Drowning in Cows[/nation]
 
 Welcome to Synchor, an opportunistic region of economic diligence.
 

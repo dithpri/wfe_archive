@@ -1,7 +1,7 @@
 [Color=red]We accept all nations from republics to communist[/color]
 
 Imperial lord: [nation=long]ujjanistan[/nation]
-Master governor: [nation=long]bhatistan[/nation]
+High governor: [nation=long]bhatistan[/nation]
 
 [Color=purple]Imperial court[/color]
 Court master: [nation=long]bhatistan[/nation]
