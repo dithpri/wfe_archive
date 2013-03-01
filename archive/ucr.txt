@@ -1,6 +1,8 @@
 [color=brown][b][u]GOVERNMENT:[/u]
 PRESIDENT:[nation=short]the united slavic tsardom[/nation]
-VICE PRESIDENT:[/color] [color=blue][u](Undecided)[/u][/color][color=brown] (WA)
+VICE PRESIDENT:[/color] [color=blue][u][i]open[/i][/u][/color]  [color=brown](WA)
+MINISTER OF DEFENSE: [/color][color=blue][i][u]open[/u][/i][/color][color=brown]
+MINISTER OF FOREIGN AFFAIRS: [/color][color=blue][u][i]open[/u][/i][/color][color=brown]
 
 ______________________________________________________________
 
@@ -17,5 +19,5 @@ QUOTES:
 &amp;quot;The true leader must submerge himself into the fountain of the people&amp;quot; 
 - Vladimir Lenin[/color][/b]
 
-[color=green][b][i][UCR:Union of communist republics][/b][/i][/color]
+[color=green][b][i][UCR: Union of communist republics][/b][/i][/color]
 

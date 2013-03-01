@@ -1,7 +1,6 @@
-[b]Welcome to the UNO, a colony of the [region]The Gargantuan Empire[/region][/b]!
+[color=green][b]Welcome to the UNO, a colony of [region]The Gargantuan Empire[/region][/b]![/color]
 
-[b]Please join the forum![/b]
-[b][i]http://uno.createaforum.com/index.php[/i][/b]
+[url=http://uno.createaforum.com/index.php]Click here to join the UNO forum![/url]
 
 [b]See what it takes to live here![/b]
 [b][i]http://uno.createaforum.com/general-discussion/united-nations-organization-code-(rough-draft)/msg2/#msg2[/b][/i]
@@ -14,3 +13,5 @@ If you wish to take an open position or suggest a new one, contact [nation]Equit
 [b][color=orange]Military Secretary-[nation]Easter Pie[/nation][/b][/color]
 [b][color=orange]Secretary of Culture-[/b][/color]Open
 [b][color=orange]Secretary of Internal Affairs-[nation]Gorkhabhumi[/nation][/b][/color]
+
+[url=http://www.gargantuanregion.webs.com]Click here to visit The Gargantuan Empire website![/url]

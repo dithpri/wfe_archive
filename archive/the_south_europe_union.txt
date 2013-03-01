@@ -1,9 +1,10 @@
 Southern European Nations here. This Region is Anti-Fascist and economically left leaning. Join and become un-stoppable! We care for the well-being of our citizens! 
 
 Regional Superpower: [nation]Altaslavia[/nation]
+Deputy: [nation]Fedralstan[/nation]
 
 Minister of Internal Security: [nation]LordWaverly[/nation]
 Minister of Monetary Systems: [nation]The Neutral Swiss[/nation]
-Minister of Defence: [nation]Altaslavia[/nation]
+Minister of Defence: [nation]Fedralstan[/nation]
 Minister of Agriculture, Transport, and Public Support etc.: [nation]Kazakhslavia[/nation]
-Minister of Foreign Affairs: [nation]Yaltaslavia[/nation]
+Minister of Foreign Affairs: [nation]Altaslavia[/nation]

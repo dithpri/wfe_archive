@@ -1,6 +1,6 @@
 [color=green][b]Welcome to The Gargantuan Empire![/b][/color]
 
-[b][color=red]General Election is Friday, March 1, 2013! [u]All nations seeking office must announce their intentions by Wednesday, February 27, 2013 at 10:30pm[/u][/b][/color]
+[b][color=red]General Election is tomorrow - Friday, March 1, 2013![/b][/color]
 
 [b][u]International Branch[/b][/u]
 Office of the Emperor
@@ -15,15 +15,15 @@ Lt. Governor: [color=red]Vacant[/color]
 [b][u]Legislative Branch[/u][/b]
 Senate
 President: [color=red]Vacant[/color]
-Senator: [color=red]Vacant[/color]
-Senator: [color=red]Vacant[/color]
-Senator: [color=red]Vacant[/color]
-Senator: [color=red]Vacant[/color]
+Senator: [nation=short+noflag]Brutii Rebels[/nation]
+Senator: [nation=short+noflag]Virgo[/nation]
+Senator: [nation=short+noflag]Vispariti[/nation]
+Senator: [nation=short+noflag]Gorkhabhumi[/nation]
 
 [b][u]Judicial Branch[/b][/u]
 Department of Justice
 Chief Justice: [color=red]Vacant[/color]
-Justice: [color=red]Vacant[/color]
+Justice: [nation=short+noflag]Papua New Craig[/nation]
 Justice: [color=red]Vacant[/color]
 
 [url=http://www.gargantuanregion.webs.com]Click here to visit The Gargantuan Empire website![/url]

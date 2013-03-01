@@ -3,6 +3,8 @@
 
 The [b]Coalition of European States[/b] (CES) Government
 
+President: [nation]Kingiutari[/nation]
+
 Prime Minister: [nation]Great Britain and Her Majestys Dominions[/nation]
  Deputy Prime Minister: [nation]-_Spain_-[/nation]
 
@@ -16,7 +18,7 @@ Minister of Defence: [nation]Hulkland[/nation]
 
 [b]Events &amp;amp; News:[/b]
 
-&#149; [nation=short]Kingiutari[/nation] President-elect
+&#149; [nation=short]Kingiutari[/nation] elected President.
 
 &#149; [nation=short]-_Spain_-[/nation] appointed Deputy Prime Minister.
 
