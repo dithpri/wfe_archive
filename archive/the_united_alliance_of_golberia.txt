@@ -17,6 +17,6 @@ Department of Sports: [nation]Wyldland[/nation]
 [u]DEFCON[/u]
 [color=Tomato]DEFCON 1[/color]
 [color=Orange]DEFCON 2[/color]
-[color=Yellow]DEFCON 3[/color]&amp;lt;Current DEFCON
-[color=Green]DEFCON 4[/color]
+[color=Yellow]DEFCON 3[/color]
+[color=Green]DEFCON 4[/color]&amp;lt;Current DEFCON
 [color=Blue]DEFCON 5[/color]
