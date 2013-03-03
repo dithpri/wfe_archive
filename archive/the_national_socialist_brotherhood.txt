@@ -10,6 +10,10 @@ national socialists to the death.[/b]
 [region]The Realm[/region]
 [region]National socialist league[/region]
 
+[u]Allies of the Brotherhood[/u]
+[region]The United Aryan Empire[/region]
+[region]The Fascist Union[/region]
+
 [u]Enemies of the Brotherhood[/u]
 [region]The Greater German Reich[/region]
 [region]NAZI EUROPE[/region]
@@ -17,4 +21,5 @@ national socialists to the death.[/b]
 [url=http://www.nationstates.net/page=tag_search/type=region/tag=democratic]Democracy[/url]
 [url=http://www.nationstates.net/page=tag_search/type=region/tag=communist]Communism[/url]
 
-[i]To acquire membership of the brotherhood a region must have ten or more members (and not just puppets), regions with less than ten members can apply to be allies of the brotherhood[/i]
+[i]Members must have ten or more nations (not just puppets).
+A region with under ten members can become an ally.[/i]

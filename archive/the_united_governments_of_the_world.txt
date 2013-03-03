@@ -5,6 +5,6 @@ Vice-president: [nation=long]uranium mining states[/nation]
 Major general: [nation=short]the Mongolian hordes[/nation]
 Brigadier generals: [nation=short]the horde of gold[/nation] [nation=short]the blue hordes[/nation]
 
-Minister of foreign affairs:[/color] [color=green]none[/color]
-[Color=red]Minister of communication:[/color] [color=green]none[/color]
+Minister of Foreign Affairs:[/color] [color=green]none[/color]
+[Color=red]Reporter:[/color] [nation=short]krineland[/nation]
 [Color=red]Treasurer:[/color] [nation=long]christ redeemer[/nation]

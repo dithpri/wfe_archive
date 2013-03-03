@@ -1,18 +1,13 @@
-Welcome to [color=blue][b][i][u]The League of United Nations[/color][/b][/i][/u] founded on February 12, 2013.  We are a global force that will take in any nation, weak or strong.  We are here to stay and you will be among people just like you in this group.
-[hr]
-[b][color=Blue]President:[/b][/color] [nation]The United States of Emenia[/nation]
-[b][color=Blue]Vice-President:[/b][/color] [nation]The United States of Northern America[/nation]
+Welcome to [color=blue][b][i][u]The League of United Nations[/color][/b][/i][/u].
+[hr][b][color=Blue]President:[/b][/color] [nation=short]The United States of Emenia[/nation]
+[b][color=Blue]Vice-President:[/b][/color] [nation=short]The United States of Northern America[/nation]
 [b][color=Blue]Security Council:[/b][/color]
-[b]-Chief:[/b] Vacant
-[b]-Member:[/b] Vacant
-[b]-Member:[/b] Vacant
+[b]-Chief:[/b] [nation=short]Overlook[/nation]
+[b]-Member:[/b] [nation=short]The Osean Republics[/nation]
+[b]-Member:[/b] [nation=short]Estovakiaa[/nation]
 [b][color=Blue]Economic Council:[/b][/color]
-[b]-Chief:[/b] Vacant
-[b]-Member:[/b] Vacant
-[b]-Member:[/b] Vacant
-[b][color=Blue]Minister of Foreign Relations:[/b][/color] Vacant
+[b]-Chief:[/b] [nation=short]Silea[/nation]
+[b]-Member:[/b] [nation=short]Nordendavic[/nation]
+[b]-Member:[/b] [nation=short]Khesed[/nation]
 [b][color=Blue]Minister of Intelligence: [/b][/color] Vacant
-[hr]
-[b]Current DEFCON Level: [color=Blue]DEFCON5[/color][/b]
-[b]Orders: Elections are on March 1.  Voting Starts at 6 am Washington DC Time, and end at 7 pm of the same day.[/b]
-[b]Regional Links:[/b][url=http://www.broomdces.com/nseconomy/regions.php?region=The%20League%20of%20United%20Nations]Economic Information[/url] [url=http://w11.zetaboards.com/leagueunitednations/index/]Forum[/url]
+[hr][b]Regional Links:[/b][url=http://www.broomdces.com/nseconomy/regions.php?region=The%20League%20of%20United%20Nations]Economic Information[/url] [url=http://w11.zetaboards.com/leagueunitednations/index/]Forum[/url]

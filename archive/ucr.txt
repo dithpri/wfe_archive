@@ -1,15 +1,20 @@
 [color=brown][b][u]GOVERNMENT:[/u]
-PRESIDENT:[nation=short]the united slavic tsardom[/nation]
-VICE PRESIDENT:[/color] [color=blue][u][i]open[/i][/u][/color]  [color=brown](WA)
-MINISTER OF DEFENSE: [/color][color=blue][i][u]open[/u][/i][/color][color=brown]
-MINISTER OF FOREIGN AFFAIRS: [/color][color=blue][u][i]open[/u][/i][/color][color=brown]
+PRESIDENT: [nation=short]Al safi[/nation]
+VICE PRESIDENT:  [/color][color=green][i][u]open[/u][/i][/color][color=brown] (WA)
+MINISTER OF DEFENSE: [/color][color=green][i][u]open[/u][/i][/color][color=brown]
+MINISTER OF FOREIGN AFFAIRS: [/color][color=green][u][i]open[/u][/i][/color][color=brown]
+
+______________________________________________________________
+
+[i]WELCOME TO THE GREAT REGION OF THE UCR,
+[u]FREEDOM[/u] AND [u]EQUALITY[/u] FOR ALL![/i]
 
 ______________________________________________________________
 
 [u]NEW:[/u]
 1.region founded 2/24/13
-2.population 2
-3.expanding embassies 
+2.population 1
+3.[nation=short+noflag]Al safi[/nation], [i]elected[/i] vice president!  (WA)
 
 ______________________________________________________________
 
@@ -20,4 +25,3 @@ QUOTES:
 - Vladimir Lenin[/color][/b]
 
 [color=green][b][i][UCR: Union of communist republics][/b][/i][/color]
-

@@ -1,10 +1,20 @@
-[color=000080][b]Weirdonia[/b][/color][color=5f9ea0]
-Anarchist puppet region.[/color][color=b5a642]
+[color=navy][b]Weirdonia[/b]
+[/color][color=5F9EA0]
+Anarchist puppet region.
+[/color][color=2E8B57]
 REGION
-This region is affiliated with [region=United States of America].
+Allied with [region=United States of America].
 [b]ORDER:[/b] . &amp;lt; [region=Ionia] | [b]Weirdonia[/b] | [region=Galapagos] &amp;gt;
 [b]ALPHA:[/b] .. &amp;lt; [region=Washington DC] | [b]Weirdonia[/b] | [region=West] &amp;gt;
+[/color][color=CFB53B]
 This Region Contains Only Nations That Are Anarchy
-[b]Most Extreme:[/b] scoring 50 (100)
-[b]Nation Cap:[/b] 401 nations[/color][color=800000][hr][b]Please, do not recruit here[/b]
-PASSWORDED &amp;amp; CLOSED REGION[/color]
+Civil Rights: 100*
+Most Corrupt Governments: 40 (284)
+Most Extreme: 50*Pro Market: 20*
+Political Freedom: 100*
+Rich-Poor Divides: 200*
+Nation Cap: 405 nations
+* 100%
+[/color][color=maroon]
+[hr][hr][b]Please, do not recruit here[/b]
+PASSWORDED &amp;amp; CLOSED REGION[/color][hr][hr]

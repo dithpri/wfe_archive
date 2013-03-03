@@ -8,7 +8,7 @@ This region consists of twenty islands. He has a cup of football IsleCup.
 [color=blue]Founder[/color] : [nation]Bestnid[/nation]
 [color=green]WA Delegate[/color] : [nation]Chaotis[/nation]
 Secretary of Region :
-Secretary of Justice :
+Secretary of Justice : [nation]Chaotis[/nation]
 Secretary of the Land forces :
 Secretary of Marine : [nation]Bestnid[/nation]
 Secretary of the Air Force :

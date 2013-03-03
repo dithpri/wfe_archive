@@ -3,7 +3,7 @@
 [hr][color=000080][b]Imperial Government[/b][/color]
 
 [color=Black][b]Imperial Emperor:[/b] ......[nation=short]Budisel[/nation]
-[b]Prime Minister:[/b] ...........N/A
+[b]Prime Minister:[/b] ...........[nation=short]Varnya[/nation]
 [b]Speaker:[/b] ....................[nation=short]Ginkersnort[/nation]
 [b]Honorable Judge:[/b] ........[nation=short]Pannau[/nation][/color]
 
@@ -12,5 +12,5 @@ Minister of Defense and Intelligence: .....[nation=short]Dernovia[/nation]
 Minister of Entertainment: ....................[nation=short]Shnercropolis[/nation]
 Minister of the Interior: ........................N/A [hr][color=000080][b]Imperial Information[/b][/color]
 
-[list][*]Speaker elections and Prime Minister elections will be held Febraury 27th-28th. The newly elected government will be officially inaugurated on the 1st of March.[/list]
+[list][*]Congratulations to [nation=short]Varnya[/nation] for winning the position of Prime Minister! Welcome to our March season![/list]
 [hr]

@@ -12,15 +12,13 @@
 
 [b][color=lightgray]Members[/color][/b] : [color=green][nation=short]The United States of Schorr[/nation], [nation=short]Turkiye Federal Republic[/nation], 
 
-[nation=short]The Democratic Nation of Unovia[/nation], [nation=short]Stati Uniti d Europa[/nation], [nation=short]Aloia[/nation]
-
-[/color]
+[nation=short]Stati Uniti d Europa[/nation], [/color] [color=red]One Vacant Seat, One Vacant Seat[/color]
 
 [b][url=http://worldalliance.postalboard.com/f6-wa-court-of-justice][color=gold]The COURT OF JUSTICE[/color][/url][/b]
 
 [b][color=lightgray]Chief Justice[/color][/b] : [color=red]One Vacant Seat[/color]
 
-[b][color=lightgray]Justices[/color][/b] : [color=green][nation=short]Acquitane[/nation], [nation=short]Zakiristan[/nation][/color]
+[b][color=lightgray]Justices[/color][/b] : [color=green][nation=short]Acquitane[/nation],[/color] [color=red]One Vacant Seat[/color]
 
 [hr]
 
