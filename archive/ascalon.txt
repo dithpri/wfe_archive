@@ -5,8 +5,4 @@ Legion General/Regional Governor
 
 Imperial Magistrate [nation]Neal Empire[/nation] 
 
-It is required to endorse the Imperial Magistrate to protect the colony. When the Imperial Magistrate is not here the colony is on lockdown.
-
-All Legionnaires report to [region]United Nations Organization[/region] this is an emergency, we have been invaded and must defend the empire! Endorse the Regional Governor Equitador!!
-
-[b]Code Red, Deploy immediately[/b] 
+It is required to endorse the Imperial Magistrate to protect the colony. When the Imperial Magistrate or Regional Governor are not here the colony is in lockdown.

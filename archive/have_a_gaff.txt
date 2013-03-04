@@ -1,16 +1,21 @@
 [color=blue][u][b]Have a gaff[/b][/u][/color] [url=http://www.nationstates.net/nation=meskeland/detail=factbook/id=90585]Overview [b]Here[/b][/url]
 
-[color=violet][b]Regional Date: [/b][/color] Month: Zweibruar | Year: 1
+[color=violet][b]Regional Date: [/b][/color] Month: Dreich | Year: 1
 (90 Earth Seconds = 1 Gaff Minute, 54 Gaff Minutes = 1 Gaff hour, 23 Gaff Hours [28.8 Earth hours] = 1 Gaff Day, 42 Gaff Days Per Gaff Month, Exactly 10 Gaff Months Per Gaff Year)
 
 [color=blue][b]Maps:[/b][/color]
 [url=https://dl.dropbox.com/u/3515831/test%20nation%20excretia.png]Political[/url](Telegram [nation=short]Meskeland[/nation] to add your nation to the map)
 [url=https://dl.dropbox.com/u/3515831/Have%20a%20gaff_relief.png]Elevation[/url]
 [url=https://dl.dropbox.com/u/3515831/Have%20a%20gaff_climate.png]Climate[/url]
-[color=green]War[/color] [color=lightblue]Coming soon...[/color]
+[url=https://dl.dropbox.com/u/3515831/war%20map%20with%20grid%20mar%203%202012.png]War(Beta)[/url]
+
+[color=darkred][b]Military Statistics[/b](Beta)[b]:[/b][/color]
+[url=http://www.nationstates.net/nation=meskeland/detail=factbook/id=100161]Here![/url]
 
 [color=orange][b]International Standings[/b] (Allies, Enemies, Neutral, Embassies)[b]:[/b] [/color]
 [url=http://www.nationstates.net/nation=meskeland/detail=factbook/id=95632]Here![/url]
+
+[color=#4aee0b][b]Have a gaff News:[/b][/color] [color=cyan]Coming soon...[/color]
 
 [color=indigo][b]Regional Market:[/b][/color]
 [url=http://www.nationstates.net/nation=meskeland/detail=factbook/id=100404]Here![/url]
