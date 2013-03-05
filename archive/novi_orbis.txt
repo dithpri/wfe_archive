@@ -1,6 +1,6 @@
 [u]Regional Positions[/u]
 Office of the High Chancellor-The Emperor [nation]Infinite New Order[/nation]
-Office of the Vice Chancellor-n/a
+Office of the Vice Chancellor-Northern Beast [nation]Northern Beast[/nation]
 Office of the WA Delegate-King Ilinum [nation]ILINUNIOUS[/nation]
 Office of the Spymaster-Queen Julianna [nation]Nova Forte[/nation]
 Ministry of the Interior &amp;amp; Exterior-King Ilinum [nation]ILINUNIOUS[/nation]
@@ -9,4 +9,4 @@ Ministry of War and Defense-High Chancellor Anyulas Yuur [nation]Rhyleah[/nation
 Ministry of Economics-Director Yramus Tahw [nation]Annunak[/nation]
 Ministry of Public Enlightenment and Propaganda-Queen Megan [nation]La Pantuflas[/nation] 
 [u]Current Wars[/u] 
-The Novi-Blood War([region]Novi Orbis[/region],[region]Blood Brothers[/region]) 
+[region]Blood Brothers[/region]

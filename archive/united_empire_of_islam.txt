@@ -4,16 +4,16 @@
 
 [b][color=red]Administration:[/color][/b]
 
-[b][color=grey]President:[/color][/b] [nation]Greater Islamic Empire of Pakistan[/nation]
+[b][color=grey]President:[/color][/b] [nation=short]Greater Islamic Empire of Pakistan[/nation]
 
-[b][color=grey]Prime Minister:[/b][nation]Western Arab Empire[/nation] [/color](Interim)
+[b][color=grey]Prime Minister:[/b][nation=short]Western Arab Empire[/nation] [/color](Interim)
 
-[b][color=grey]Head of Regional Assembly:[/color][/b][nation]Rehbran[/nation]
+[b][color=grey]Head of Regional Assembly:[/color][/b][nation=short]Rehbran[/nation]
 
 
-[b][color=grey]Minister of Defence:[/color][/b][nation]Independent azawad[/nation]
+[b][color=grey]Minister of Defence:[/color][/b][nation=short]Independent azawad[/nation]
 
-[b][color=grey]Minister of Judicial Affairs:[/color][/b][nation]Western Arab Empire[/nation]
+[b][color=grey]Minister of Judicial Affairs:[/color][/b][nation=short]Western Arab Empire[/nation]
 
 [color=green]Visit our[/color] [url=http://unitedempireislam.boards.net/index.cgi]Forum[/url]
 

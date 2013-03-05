@@ -1,7 +1,5 @@
 [color=green][b]Welcome to The Gargantuan Empire![/b][/color]
 
-[b]Imperial Governor-Elect Rhemaland will take office as Imperial Governor on Monday, March 4, 2013![/b]
-
 [b][u]International Branch[/b][/u]
 Office of the Emperor
 Emperor: [nation=short+noflag]Reagan Island[/nation]
@@ -9,8 +7,8 @@ Legion General: [nation=short+noflag]Virgo[/nation]
 
 [b][u]Executive Branch[/b][/u]
 Office of the Governor
-Imperial Governor: (interim) [nation=short+noflag]Hoytenstan[/nation]
-Lt. Governor: [color=red]Vacant[/color]
+Imperial Governor: [nation=short+noflag]Rhemaland[/nation]
+Lt. Governor: [nation=short+noflag]Klacik[/nation]
 
 [b][u]Legislative Branch[/u][/b]
 Senate
@@ -19,6 +17,7 @@ Senator: [nation=short+noflag]Brutii Rebels[/nation]
 Senator: [nation=short+noflag]Virgo[/nation]
 Senator: [nation=short+noflag]Vispariti[/nation]
 Senator: [nation=short+noflag]Gorkhabhumi[/nation]
+Senator: Fmr. Reg. Gov. [nation=short+noflag]Equitador[/nation]
 
 [b][u]Judicial Branch[/b][/u]
 Department of Justice
