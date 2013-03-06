@@ -15,4 +15,4 @@ Representatives (EUN): [nation=short]Forest Moon of Endor[/nation], [nation=shor
 Chairman of the Court: [nation=short]Gallania[/nation]
 Justices:[nation=short]Gallania[/nation], [nation=short]Sohanistan[/nation]
 
-[i](Last Updated: 2.22.2013)[/i]
+[i](Last Updated: 3.5.2013)[/i]

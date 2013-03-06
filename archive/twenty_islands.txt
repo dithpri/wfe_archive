@@ -11,7 +11,7 @@ Secretary of Region :
 Secretary of Justice : [nation]Chaotis[/nation]
 Secretary of the Land forces :
 Secretary of Marine : [nation]Bestnid[/nation]
-Secretary of the Air Force :
+Secretary of the Air Force : [nation]Gaius Marianus[/nation]
 Secretary of the Finances :
 Secretary of the Education and the Transport :
 Secretary of the Health and the Sport :

@@ -10,8 +10,8 @@ President:Dardoillyria
  Secretary of Defense:Certus[/color]
 
 [color=blue]The senate:
- Senator:Philipine Nations
- Senator:vacant
+ Senator:
+ Senator:Callilias
  Senator:Anean Tribes[/color]
 
 [color=blue]Judicial Branch

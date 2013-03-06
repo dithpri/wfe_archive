@@ -12,17 +12,17 @@ Lt. Governor: [nation=short+noflag]Klacik[/nation]
 
 [b][u]Legislative Branch[/u][/b]
 Senate
-President: [color=red]Vacant[/color]
+President: [nation=short+noflag]Virgo[/nation]
 Senator: [nation=short+noflag]Brutii Rebels[/nation]
-Senator: [nation=short+noflag]Virgo[/nation]
 Senator: [nation=short+noflag]Vispariti[/nation]
 Senator: [nation=short+noflag]Gorkhabhumi[/nation]
 Senator: Fmr. Reg. Gov. [nation=short+noflag]Equitador[/nation]
+Senator: [color=red]Vacant[/color]
 
 [b][u]Judicial Branch[/b][/u]
 Department of Justice
-Chief Justice: [color=red]Vacant[/color]
+Chief Justice: [nation=short+noflag]AmsterDAN[/nation]
 Justice: [nation=short+noflag]Papua New Craig[/nation]
-Justice: [color=red]Vacant[/color]
+Justice: [nation=short+noflag]Max-A-Million Centre[/nation]
 
 [url=http://www.gargantuanregion.webs.com]Click here to visit The Gargantuan Empire website![/url]
