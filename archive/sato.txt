@@ -1,20 +1,17 @@
-[region]Sato[/region]
+                                               [region]Sato[/region]
 
 Region founded by [nation]Lotasia[/nation]
 
 [b]Capital Region of [region]Sato[/region][/b]
 1. [nation]Lotasia[/nation]
 
-[b]Nations in [region]Sato[/region][/b]
-1. [nation]Lotasia[/nation]
-2. [nation]Adrimal General Aladeens Wadiya[/nation]
-3. [nation]long land[/nation]
+[b]Military Head of [region]Sato[/region] [/b]
+[nation]Adrimal General Aladeens Wadiya[/nation]
 
 -------------------------------------------------------------------------------
 [b]POLICES:[/b]
 [b]EMBASSY POLICY:[/b] Will accept [i]most[/i] embassy offers sent
 [b]JOIN POLICY:[/b] Joining nation [i]must[/i] use the plug as their national currency 
-[b]ECONOMIC POLICY:[/b] None 
 -------------------------------------------------------------------------------
 [b]Current Headlines:[/b]
 -Two [i]new[/i] regions join [nation]Lotasia[/nation] in [region]Sato[/region]

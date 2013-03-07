@@ -1,6 +1,8 @@
 future version of the soviet union
 
-the Pan Asian Coalition is strong in military and got a whole fleet of titans
+the Pan Asian Coalition is strong in military and titans
+capital: moscow
+language: russian
 
 founder:[nation]snarfia[/nation]
 

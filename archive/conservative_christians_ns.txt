@@ -1,14 +1,14 @@
 [b]President: [nation=short]Muntre[/nation][/b]
 
-[b]Vice President:[/b] TBD
+[b]Vice President:[/b] [nation=short]Travaxa[/nation]
 
 [b]Secretary Of Defense:[/b] TBD
 
-[B]Secretary of Peace:[/b] TBD
+[B]Secretary of Peace:[/b] [NATION=SHORT]VATICAN supremacy[/nation]
 
 [b]Senate:[/b] TBD
 
-[b]Supreme Court:[/b] TBD
+[b]Supreme Court:[/b] [nation=short]Abatael[/nation]
 
 [b]Discussion Of The Week:[/b] Your Favorite Song In The Bible.
 

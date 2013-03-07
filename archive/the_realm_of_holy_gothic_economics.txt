@@ -6,4 +6,4 @@ Code Green (at peace, no threats)
            Code Orange (unavoidable invasion, begin extreme precautionary measures)
            Code Red (FULL LOCKDOWN)
 
-Current Alert: [color=blue]Code Blue[/color]
+Current Alert: [color=green]Code Green[/color]

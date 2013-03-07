@@ -11,13 +11,11 @@ Capicalibera League is an intergalactic federation home to the state of [nation]
 [u][color=A00000][b]Satellite Zones[/b][/color][/u]
 * [nation]Enuhartha[/nation]
 * [nation]Lanternas[/nation]
-
-[u][color=505050][b]Developing Zones[/b][/color][/u]
-* [nation]Ribfesticus[/nation]
 * [nation]Neromaxira[/nation]
 
-[u][color=808080][b]Correctional Zones[/b][/color][/u]
+[u][color=505050][b]Developing Zones[/b][/color][/u]
 * [nation]Underboobs[/nation]
-* [nation]Frodric[/nation]
 * [nation]The Commonwealth of Galvania[/nation]
+
+[u][color=808080][b]Correctional Zones[/b][/color][/u]
 * [nation]Obedire[/nation]

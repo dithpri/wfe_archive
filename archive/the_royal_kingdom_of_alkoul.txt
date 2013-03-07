@@ -1,7 +1,9 @@
 [nation]Alkoul[/nation]
+[b]Head of State[/b] King Andrew II
+[b]Prime Minister[/b] none
+[b]Population[/b] 45.8 million
 
-Domestic center for Alkoul.
-
-Head of State| King Andrew II
-Prime Minister| none
-Population| 45.8 million
+[u]The nine states[/u]
+[nation=short]United Fantasia[/nation]
+[nation=short]Tres Beau[/nation]
+[nation=short]State of Alkoul[/nation]
