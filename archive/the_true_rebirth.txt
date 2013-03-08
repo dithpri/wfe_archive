@@ -1,5 +1,5 @@
 [color=blue]Vice Delegate[/color] = Position Open
-[color=blue]Chairman of Law[/color] = Position Open
+[color=blue]Chairman of Law[/color] = [nation]Singaland[/nation]
 [color=blue]Chairman of Recruitment[/color] = Position Open
 [color=blue]Chairman of Innovation[/color] = [nation]Battery power low[/nation]
 [color=blue]Chairman of Foreign Affairs[/color] = Position Open 

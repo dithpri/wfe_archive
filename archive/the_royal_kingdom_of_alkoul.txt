@@ -7,3 +7,5 @@
 [nation=short]United Fantasia[/nation]
 [nation=short]Tres Beau[/nation]
 [nation=short]State of Alkoul[/nation]
+[nation=short]Pirre la Rivera[/nation]
+[nation=short]Mer de Fleurs[/nation]

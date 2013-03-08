@@ -16,8 +16,8 @@ President: [nation=short+noflag]Virgo[/nation]
 Senator: [nation=short+noflag]Brutii Rebels[/nation]
 Senator: [nation=short+noflag]Vispariti[/nation]
 Senator: [nation=short+noflag]Gorkhabhumi[/nation]
+Senator: [nation=short+noflag]Hoytenstan[/nation]
 Senator: Fmr. Reg. Gov. [nation=short+noflag]Equitador[/nation]
-Senator: [color=red]Vacant[/color]
 
 [b][u]Judicial Branch[/b][/u]
 Department of Justice

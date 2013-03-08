@@ -1,0 +1,11 @@
+This region is used to list all current Government officials of [region]Frankfurt Am Main[/region].
+
+
+President [nation]Frankfurt Memorial[/nation]
+Chancellor
+Vice Chancellor
+
+Minister for Justice: 
+Minister for Recruitment:
+Minister for Foreign Affairs: 
+Minister for Internal Affairs: 
