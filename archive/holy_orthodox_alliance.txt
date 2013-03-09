@@ -2,10 +2,9 @@
 
 [hr]
 
-[b]CONQUERED REGIONS (13):[/b]
-Bolshevik/Communist (4): [region]CommunistEurasia[/region], [region]The Communist Republics[/region], [region]United Alliance of Workers[/region], [region]United Nations of The Peoples[/region]
-Fascist (3): [region]Falling Israel[/region], [region]Scoterna[/region], [region]Imperial Region of Psycho Dictators[/region], [region]1 Thousand Nations[/region]
-Heretical (3): [region]Pan Imperium[/region], [region]United Empire of World Nations[/region], [region]Arcem Luciferius[/region]
+[b]CONQUERED REGIONS (10):[/b]
+Bolshevik/Communist (6): [region]CommunistEurasia[/region], [region]The Communist Republics[/region], [region]United Alliance of Workers[/region], [region]United Nations of The Peoples[/region], [region]The Red League[/region], [region]The Communist Folk[/region]
+Fascist (1): [region]Falling Israel[/region]
 Protectorates (3): [region]Sakha Republic[/region], [region]Baltic Nations[/region], [region]Eurasian Union of Nations[/region]
 
 [hr]

@@ -1,19 +1,17 @@
 Welcome to the [region]Land of Kahn[/region]. This region is mostly peaceful. 
 
-The dictator pro-tempore (till the elections are done) is [nation]Hispanic Imperium[/nation]
-
 Current Elected:
 [b]Executive Council[/b]: 
 [nation]Black Tsar Star[/nation] (Imperial Faction)
-[nation]Science Imperium[/nation] ( Faction)
-&amp;lt;empty&amp;gt;            ( Faction)
+[nation]Science Imperium[/nation] (GSU Faction)
+[nation]The Land of the Blazing Star[/nation] (Star Faction)
 
 [b]Legislative Body[/b]:
 [nation]Lapturia[/nation] (Imperial Faction)
-[nation]Free Business[/nation] ( Faction)
-&amp;lt;empty&amp;gt;        ( Faction)
+[nation]Free Business[/nation] (United Faction)
+[nation]The Frozen Star[/nation] (Star Faction)
 
 [b]Judaical[/b]: 
-[color=blue]High Magistrate[/color]-&amp;lt;empty&amp;gt; ( Faction)
-[color=red]Master Attorney[/color]-&amp;lt;empty&amp;gt; (Faction)
-[color=purple]WA Delegate[/color]-&amp;lt;empty&amp;gt; (Faction)
+[color=blue]High Magistrate[/color]-[nation]The Land of the Blazing Star[/nation] (Star Faction)
+[color=red]Master Attorney[/color]-[nation]Hispanic Imperium[/nation] (Imperial Faction)
+[color=purple]WA Delegate[/color]-[nation]Scientific Adeptio[/nation] (GSU Faction)

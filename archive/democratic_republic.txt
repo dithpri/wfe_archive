@@ -3,7 +3,7 @@
 [color=blue]Regional Government
 
 President:[nation]New Philippine Nation[/nation]
-Vice President:[nation]Philippine Nation[/nation]
+Vice President:
 Secretary of States:Vacant
 Secretary of Defense:Vacant
 Secretary of Communications:Vacant
@@ -16,7 +16,7 @@ Senator:Vacant
 
 Court
 
-Chief Justice:[nation]Dallasium[/nation]
+Chief Justice:
 Judge:Vacant
 Judge:Vacant[/color]
 

@@ -5,6 +5,7 @@ Military general (highest defense force) - [nation=short]Neckon[/nation]
 Recruiter (person who recruited the most)- [nation=short]Loganian Nexus[/nation]
 Keeper of Peace/Ambassador- [nation=short]the rocky desert[/nation]
 Hero- [nation=short]Neckon[/nation] ([nation=short]Copenhagen Metropolis[/nation])
+Negotiator-[nation]Stephan[/nation]
 
 Veterans
 [nation]loganian nexus[/nation]

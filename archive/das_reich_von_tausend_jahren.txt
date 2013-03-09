@@ -1,6 +1,8 @@
 [color=blue]Das Reich von tausend Jahren[/color]
 
-[color=Red]Kanzler[/color] - 
+[color=Red]Kanzler[/color] - [nation]Hydra germany[/nation]
 [color=Red]Reichskanzlei[/color] - 
 [color=Red]REICH Justizministerium &amp;amp; Volksgericht[/color] - 
 [color=Red]Reichsministerium f&uuml;r Propaganda[/color] - 
+
+[b][region]National Socialist League[/region][/b] [b]SS[/b]
