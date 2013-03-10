@@ -1,29 +1,13 @@
-[b]Regional Council:[/b]
-[i]President:[/i] [nation=short]Jacksistan[/nation]
-[i]Vice-President:[/i] [nation=short]Japan1[/nation]
-[i]Minister of Internal Affairs:[/i] [nation=short]Stevesrael[/nation]
-[i]Minister of the Treasury:[/i] [nation=short]Elvendire[/nation]
+This is a re-established Alliance of Nations, since for some reason, it decided to delete itself.
 
-[b]Tripartite Pact[/b]
-[nation]Jacksistan[/nation]
-[nation]Stevesrael[/nation]
-[nation]Japan1[/nation]
+[b]Regional Government:[/b]
+-[i]President:[/i] [nation=short]Jacksistan[/nation]
+-[i]Vice-President:[/i] [nation=short]Japan1[/nation]
+[b]Tripartite Pact:[/b]
+-[nation=short]Jacksistan[/nation]
+-[nation=short]Stevesrael[/nation]
+-[nation=short]Japan1[/nation]
+[b]Extension/Partner Regions:[/b]
+-[region]The United Kingdom Alliance[/region]
 
-
-[b]Regional Information:[/b]
-[i]Regional Anthem:[/i] [url=http://www.youtube.com/watch?v=4jIB4va_HVo&amp;amp;list=UU0qR_Ep87KLzo5cfZF_9ueg&amp;amp;index=101]Alliance Anthem[/url]
-[i]Regional Motto:[/i] [b]The Strength of the Region Lies in Unity[/b]
-
-[b]Extension Regions:[/b]
-[region]The United Kingdom Alliance[/region] (Allied) - [i]Overseer of the UKA:[/i] [nation=short]Jacksistan[/nation]
-
-[b]United Nations Security Council:[/b]
-[nation=short]Jacksistan[/nation] - Permanent Seat
-[nation=short]Asthia[/nation] - Permanent Seat
-[nation=short]Gem Isles[/nation] - Permanent Seat
-[nation=short]Mac Bac[/nation] - Permanent Seat
-[nation=short]Star Isles[/nation] - Permanent Seat
-[nation=short]Delhanara[/nation] - Rotating Member
-[nation=short]Hanannara[/nation] - Rotating Member
-[nation=short]Japan1[/nation] - Rotating Member
-[nation=short]Eeleenia[/nation] - Rotating Member
+[b][i]To all nations in the AON:  The Germanic Protectorate of Jaxionia will remain here as an &amp;quot;anchor&amp;quot; nation, to make sure that the region is not deleted again.  Don&amp;#39;t try to send telegrams to it, because it won&amp;#39;t respond.  Thank you, and apologies for this issue.[/b][/i]

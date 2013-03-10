@@ -3,8 +3,9 @@
 [color=red]Regional Government[/color]
 
 [color=green]Executive Branch[/color]
-[color=blue]President:Philippine Nation
-Vice President:Vacant
+
+[color=blue]President:[nation]Philippine Nation[/nation]
+Vice President:[nation]Samorala[/nation]
 Secretary of States:Vacant
 Secretary of Communication:Vacant
 Secretary of Defense:Vacant
@@ -15,7 +16,7 @@ Secretary of Domestic Concerns:Vacant[/color]
 [color=blue]Senate President:Vacant
 Senator:Vacant
 Senator[/color]:Vacant
-[b]Congress[/b]
+[b]The Congress[/b]
 [color=blue]Speaker:Vacant
 Congressman:Vacant
 Congressman:Vacant[/color]

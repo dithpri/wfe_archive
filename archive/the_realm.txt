@@ -1,10 +1,7 @@
-[B]Welcome to the [color=red]Military Base[/color] of the [region]National Socialist League[/region]
-
-[u]Join our Military Alliance in our Holy War against all enemies of National Socialism and The Eternal Fuhrer![/u][/b][hr][b][color=red]Totaler Krieg! gegen [region]The Greater German Reich[/region] Deviant Leadership and Armed Forces[/color][/b][hr][b][color=blue] [u]Military Alliances:[/u][/color][/b][b]
-[region]Das Dritte Reich[/region]
-[region]The United Aryan Reich[/region]
-[region]The International League Of Fascists[/region]
-[region]The Fascist Union[/region]
-[/b][hr][b][color=blue]Now Recruiting WA Military Forces! 
-Civilians and Unarmed Military puppets are to report to [region]National Socialist League[/region][/color]
-Contact [nation]Aryan Shield Command[/nation] upon arrival here[/b]
+[B]Welcome to [region]The Realm[/region] , a [color=red]Military Base[/color] of the [region]National Socialist League[/region][hr][color=red][i]Join in our Holy War against all enemies of National Socialism and The Eternal Fuhrer![/i][/color][hr][color=blue] [u]Military Alliances:[/u][/color]
+[region]Das Dritte Reich[/region] ,[region]The United Aryan Empire[/region] ,[region]The International League Of Fascists[/region] ,[region]The Fascist Union[/region][hr][color=blue] [u]Military Ranks:[/u][/color]
+[nation=short]Aryan Shield Command[/nation] [u]Generalfeldmarschall[/u]
+[nation=short]Hesse[/nation] [u]Generaloberst[/u]
+[nation=short]The New Tommainia[/nation] [u]Stabsfeldwebel[/u]
+[nation=short]NeuDeutschland[/nation] [u]Unterfeldwebel[/u]
+[nation=short]Herbedies[/nation] [u]Unterfeldwebel[/u][/b]

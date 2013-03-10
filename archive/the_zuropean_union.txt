@@ -5,15 +5,15 @@
 [b]Regional President: [/b][nation=short]Zitru[/nation]
 [b]Regional Vice President: [/b][nation=short]Flynnerane[/nation]
 [b]Regional Premier: [/b][nation=short]Pzetrovlaskia[/nation]
-[b]Government I: [/b][nation=short]Independent Plaizh Avantia[/nation]
-[b]Government II: [/b][nation=short]Nakyrozia[/nation]
+[b]Government I: [/b][nation=short]Avantian Union[/nation]
+[b]Government II: [/b][nation=short]Independent Plaizh Avantia[/nation]
 [b]Regional Senator: [/b][nation=short]Unified Legoland[/nation]
-[b]Immigration Administrator: [/b][nation=short]Imyahistan[/nation]
-[b]Foreign Affairs Administrator: [/b]AT VOTE
-[b]Defense &amp;amp; Military Administrator: [/b]AT VOTE
+[b]Immigration Executive: [/b][nation=short]Imyahistan[/nation]
+[b]Foreign Affairs Executive: [/b][nation=short]Nakyrozia[/nation]
+[b]Defense &amp;amp; Military Executive: [/b]AT VOTE
 
 [b][color=blue]Announcements &amp;amp; News[/color][/b]
 - [color=green]New Rule Guide Coming Soon![/color]
 
 [b]Last Updated[/b]
-Tuesday, February 19, 2013
+Saturday, March 9, 2013 [11:22]
