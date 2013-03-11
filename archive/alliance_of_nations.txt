@@ -9,5 +9,15 @@ This is a re-established Alliance of Nations, since for some reason, it decided 
 -[nation=short]Japan1[/nation]
 [b]Extension/Partner Regions:[/b]
 -[region]The United Kingdom Alliance[/region]
+[b]United Nations Security Council:[/b]
+[i]P = Permanent Member, R = Rotating Member[/i]
+-[nation=short]Jacksistan[/nation] - P
+-[nation=short]Star Isles[/nation] - P
+-[nation=short]Japan1[/nation] - R
+-[nation=short]Gem Isles[/nation] - P
+-[nation=short]Delhanara[/nation] - R
+-[nation=short]Eeleenia[/nation] - R
+-[nation=short]Asthia[/nation] - P
+-[nation=short]Hanannara[/nation] - R
 
 [b][i]To all nations in the AON:  The Germanic Protectorate of Jaxionia will remain here as an &amp;quot;anchor&amp;quot; nation, to make sure that the region is not deleted again.  Don&amp;#39;t try to send telegrams to it, because it won&amp;#39;t respond.  Thank you, and apologies for this issue.[/b][/i]

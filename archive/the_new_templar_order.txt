@@ -7,7 +7,7 @@ Welcome to The New Templar Order! A powerful region that accepts all nations, an
 President: [nation=short]Brentonania[/nation]
 Vice President:
 Secretary of State:
-Secretary of Defense:
+Secretary of Defense: [nation=short]Federal Republic of Yugoslavia[/nation]
 Secretary of Business:
 Secretary of Foreign Affairs:
 Secretary of Regional Affairs:
@@ -27,11 +27,6 @@ Defcon: [color=green][B]LOW[/B][/color] [color=blue]GUARDED[/color] [color=yello
 
 
 |[b][url=http://w11.zetaboards.com/The_Templar_Order/index/]Forums[/url][/b]| [b][url=http://www.youtube.com/watch?v=txlXcJDtDwM]Anthem[/url][/b]|[url=http://www.youtube.com/user/ERB][b]Epic Rap of the Month[/b][/url]|
-
-
-[u][b][color=darkred]News[/b][/color][/u]
-[b]We are currently looking for nations to fill up our Regional Government! If interested please telegram the Founder to ask for a position![/b]
-
 
 
 
