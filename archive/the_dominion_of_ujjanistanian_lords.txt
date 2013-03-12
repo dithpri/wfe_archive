@@ -4,15 +4,15 @@ Imperial lord: [nation=long]ujjanistan[/nation]
 High governor:
 
 [Color=purple]Imperial court[/color]
-Court master: 
+Court master: [nation=short]bhatistan[/nation]
 Court master assistant: [nation=long]the sansuf[/nation]
 Court officer: [nation=short]french crusader states[/nation]
 Court officer:
-Court officer:
+Court officer: [nation=short]the evil mermaids[/nation]
 Court officer:
 
 [Color=blue]Intelligence[/color]
-Head of intelligence: 
+Head of intelligence:
 Spies: classified
 
 [Color=blue]Notice: All people interested in being a spy contact the head of intel.[/color]

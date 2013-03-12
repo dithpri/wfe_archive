@@ -1,9 +1,9 @@
 [color=red]OFFICIALS[/color]:
-[b]Regional Administrator[/b]: [nation]Europe and Asia[/nation]
-[b]Deputy-Administrator and Regional Senate Delcarator[/b]: [nation]Toulain[/nation]
+[b]Regional Administrator[/b]: [nation]Toulain[/nation]
+[b]Deputy-Administrator and Regional Senate Delcarator[/b]: [nation]Russo-American Republic[/nation]
 [b]W.A. Delegate[/b]: [nation]Trenton[/nation]
 [b]Administrator of the Economy[/b]: [nation]Corporate Republic[/nation]
-[b]Administrator of Regional Defense and Security Committee Chairman[/b]: [nation]Trenton[/nation]
+[b]Administrator of Regional Defense and Security Committee Chairman[/b]: Toulain
 [b]Foreign Affairs Official[/b]: [nation]The Planet Earth Ambassador[/nation]
 [b]Administrator of Technological Develpoment[/b]: [nation]Eastern Bloc States[/nation]
 [b]Commisioner of the Regional Treasury[/b]: [nation]Toulain[/nation]
@@ -11,7 +11,6 @@
 [b][color=Blue]IMPORTANT LINKS[/color][/b]
 [url=http://tracker.conquestofabsolution.com/region=the_planet_earth]Region Facts[/url]
 
-[color=blue][b]A Link To Our Lovely Protectorate Region:[/b][/color]
-            [region]Planet of the Lost Brothers[/region]
+
 
 

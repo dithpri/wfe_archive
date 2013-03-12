@@ -1,6 +1,7 @@
 [b]Regions to be Liberated[/b]
 [region]Global Federation of Nations[/region]
 [region]Global Alliance[/region]
+[region]United Coalition[/region]
 
 This region was once home to a rebellion led by [nation]Skako[/nation] and backed by [region]The Commonwealth of Crowns[/region]. Relations have been mended with [nation=short]Skako[/nation] however [region]The Commonwealth of Crowns[/region] has become a colonialist region that seeks to subject others to their rule and force themselves when not wanted.
 Though earlier they helped save the GFN and GA they have long over stayed their welcome and continue to oppress of the last natives of the GFN.

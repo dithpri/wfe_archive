@@ -13,7 +13,7 @@ Police: 367th
 Economy: 50th
 Manufacturing: 18th
 Arms: 18th
-Mining: 24th
+Mining: 22nd
 Agriculture: 13th
 Fishing: 12th
 Auto: [b]9th[/b]
