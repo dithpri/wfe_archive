@@ -16,7 +16,7 @@ Arms: 18th
 Mining: 22nd
 Agriculture: 13th
 Fishing: 12th
-Auto: [b]9th[/b]
+Auto: [color=yellow]9th[/color]
 Insurance: 11th
 IT: 21st
 

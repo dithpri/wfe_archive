@@ -4,11 +4,11 @@ Welcome to The New Templar Order! A powerful region that accepts all nations, an
 
 [u][color=darkred][b]The Government[/b][/color][/u]
 
-President: [nation=short]Brentonania[/nation]
+President: [nation=short]Brentonania[/nation] [color=darkred](T)[/color]
 Vice President:
-Secretary of State:
+Secretary of State: [nation=short]Cnor79[/nation] [color=darkblue](WH)[/color]
 Secretary of Defense: [nation=short]Federal Republic of Yugoslavia[/nation]
-Secretary of Business:
+Secretary of Business: [nation=short]Confederate States of Murica[/nation] [color=darkblue](WH)[/color]
 Secretary of Foreign Affairs:
 Secretary of Regional Affairs:
 
