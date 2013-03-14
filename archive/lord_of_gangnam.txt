@@ -1,13 +1,16 @@
-President: Lord of Gangnam 
+Welcome To [region]Lord of Gangnam[/region]
+
+
+President: [nation]Gangnam101[/nation] 
 
  
-Vice President: 
+Vice President:[nation]Gods Rule2[/nation]
 
 
-Secretary: 
+Secretary:[nation]Poseidon Rules[/nation] 
 
 
-Secretary of Defense: 
+Secretary of Defense:[nation]Zeus Rules[/nation]
 
 
 Regional Recruiter:

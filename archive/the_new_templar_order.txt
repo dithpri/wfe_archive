@@ -4,13 +4,14 @@ Welcome to The New Templar Order! A powerful region that accepts all nations, an
 
 [u][color=darkred][b]The Government[/b][/color][/u]
 
+Overlord: [nation=short]King George Washington[/nation] [color=darkblue](WH)[/color]
 President: [nation=short]Brentonania[/nation] [color=darkred](T)[/color]
-Vice President:
+Vice President: [nation=short]The Tropican States[/nation]
 Secretary of State: [nation=short]Cnor79[/nation] [color=darkblue](WH)[/color]
-Secretary of Defense: [nation=short]Federal Republic of Yugoslavia[/nation]
+Secretary of Defense: [nation=short]Federal Republic of Yugoslavia[/nation] [color=orange](I)[/color]
 Secretary of Business: [nation=short]Confederate States of Murica[/nation] [color=darkblue](WH)[/color]
-Secretary of Foreign Affairs:
-Secretary of Regional Affairs:
+Secretary of Foreign Affairs: [nation=short]Ferenginar Prime[/nation] [color=darkred](T)[/color]
+Secretary of Regional Affairs: [nation=short]Colorinia[/nation] [color=grey](M)[/color]
 
 [u][color=darkred][b]Congress[/b][/color][/u]
 
@@ -26,7 +27,7 @@ Defcon: [color=green][B]LOW[/B][/color] [color=blue]GUARDED[/color] [color=yello
 [color=darkred][b]Colonies[/color]: [region]Ralenn[/region], [region]New Templar Order Military Headquarters[/region], [region]Christendom[/region], [region]West Point[/region][/b]
 
 
-|[b][url=http://w11.zetaboards.com/The_Templar_Order/index/]Forums[/url][/b]| [b][url=http://www.youtube.com/watch?v=txlXcJDtDwM]Anthem[/url][/b]|[url=http://www.youtube.com/user/ERB][b]Epic Rap of the Month[/b][/url]|
+|[b][url=http://w11.zetaboards.com/The_Templar_Order/index/]Forums[/url][/b]| [b][url=http://www.youtube.com/watch?v=txlXcJDtDwM]Anthem[/url][/b]|
 
 
 
