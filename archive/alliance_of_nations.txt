@@ -13,7 +13,7 @@ This is a re-established Alliance of Nations, since for some reason, it decided 
 [i]P = Permanent Member, R = Rotating Member[/i]
 -[nation=short]Jacksistan[/nation] - P
 -[nation=short]Star Isles[/nation] - P
--[nation=short]Japan1[/nation] - R
+-[nation=short]Japan1[/nation] - P
 -[nation=short]Gem Isles[/nation] - P
 -[nation=short]Delhanara[/nation] - R
 -[nation=short]Eeleenia[/nation] - R

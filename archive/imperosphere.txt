@@ -1,6 +1,7 @@
 Emperor:[nation]Socialist Republic of Andrew[/nation]
 Enforcer:[nation]The Orson Empire[/nation]
 Premier:[nation]Timmy City[/nation]
+Consul:[nation]Socialist Republic of Andrew[/nation]
 Minister of Regional Security:[nation]The Orson Empire[/nation]
 Secretary of Regional Trade and Finance:[nation]Timmy City[/nation]
 Minister of Foreign Relations:[nation]Novo Wagondia[/nation]
@@ -8,9 +9,3 @@ Minister of Intelligence:[nation]Cybus1[/nation]
 Minister of Justice:[nation]Barrinia[/nation]
 
 [b]PLEASE BE SURE TO ENDORSE THE WA DELEGATE IF YOU ARE A WA NATION[/b]
-________________________________________________________________
-Please register for a party if you want to:
-Imperialist Party
-Democratic Party
-Republican Party
-Socialist Party

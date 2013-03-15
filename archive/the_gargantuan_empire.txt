@@ -17,12 +17,11 @@ Senator: [nation=short+noflag]Brutii Rebels[/nation]
 Senator: [nation=short+noflag]Vispariti[/nation]
 Senator: [nation=short+noflag]Gorkhabhumi[/nation]
 Senator: [nation=short+noflag]Hoytenstan[/nation]
-Senator: Fmr. Reg. Gov. [nation=short+noflag]Equitador[/nation]
 
 [b][u]Judicial Branch[/b][/u]
 Department of Justice
-Chief Justice: [color=red]Vacant[/color]
+Chief Justice: [nation=short+noflag]Max-A-Million Centre[/nation]
 Justice: [nation=short+noflag]Papua New Craig[/nation]
-Justice: [nation=short+noflag]Max-A-Million Centre[/nation]
+Justice: [nation=short+noflag]Equitador[/nation]
 
 [url=http://www.gargantuanregion.webs.com]Click here to visit The Gargantuan Empire website![/url]

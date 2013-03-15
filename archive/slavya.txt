@@ -16,7 +16,9 @@ Founder and Executor: [nation=short]Kleomentia[/nation]
 Regional Duke: [nation=short]Petrovsegratsk[/nation]
 Minister of Internal Affairs: [nation=short]States of Yugoslavia[/nation]
 Minister of Foreign Affairs: [nation=short]Serbia and Montenegro-[/nation]
-Recruiter Chief: [nation=short]Kleomentia[/nation][/color]
+Recruiter Chief: [nation=short]Kleomentia[/nation]
+Representative of Slavia: [nation=short]Petokraka[/nation][/color]
+
 
 [hr]
 
@@ -24,7 +26,7 @@ Recruiter Chief: [nation=short]Kleomentia[/nation][/color]
 
 [b][color=purple]Ask [nation=short]States of Yugoslavia[/nation] to settle you on the regional map![/color]
 [hr]
-[color=red]Current RMB Topic: Rome, from Republic to Empire age. Opinion?[/color]
+[color=red]Current RMB Topic: Greatest scientists/inventor?[/color]
 
 [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=228676]Current Ongoing RP[/url]
 

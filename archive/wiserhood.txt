@@ -1,7 +1,11 @@
-[color=000066][b]Wiserhood[/b][/color][color=E49B0F]
-refounding this region, thinking that I just might need it after all.[/color][color=006600]
+[color=00416A][b]Wiserhood[/b]
+[/color][color=765432]
+Decided that I needed to re-found this region
+I just might need it after all.
+[/color][color=01796F]
 REGION
-a [region=United States of America] region[/color][color=000066]
-I will confirm this later.[/color][color=660000]
-[b]Please, Do Not Recruit Here[/b][/color][color=BB7D0F]
-This region has been temporaily passworded to confirm it&amp;#39;s status[/color]
+a [region=United States of America] region
+ALPHA.: &amp;lt;&amp;lt; [region=Winnipeg] | [b]Wiserhood[/b] | [region=Wyoming] &amp;gt;&amp;gt;
+ORDER.: &amp;lt;&amp;lt; (Will confirm this part later) &amp;gt;&amp;gt;
+Figured that none of the [b]Zeta Block of Regions[/b] requires a password.[/color][color=660000]
+[hr][b]Please, Do Not Recruit Here[/b][hr][/color]

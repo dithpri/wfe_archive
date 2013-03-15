@@ -7,6 +7,10 @@ President: [nation=Cerod]
 Prime Minister: [nation=New World Community]
 War Minister: [nation=High Pinkerton] (a neutral in the interim government.)
 
-[u]Regional and International News:[/u] AI in turmoil one of the region&amp;#39;s colonies declares independence.
+[u]Regional and International News:[/u] 
+AI in turmoil one of the region&amp;#39;s colonies declares independence.
+
+[u]Question of the Week:[/u] 
+How is your nation&amp;#39;s military organized?
 [hr]
 [url=http://w11.zetaboards.com/Atrosia_Isles/index/]AI Forums[/url]| [url=http://newatrosiaisles.chatango.com]AI Chatroom[/url]|AI NSwiki Page| AI Wiki| AI Embassy Exchange Policy

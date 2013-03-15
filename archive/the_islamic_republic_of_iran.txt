@@ -1,5 +1,4 @@
-[b][color=blue][region]The Islamic Republic of Iran[/region] is a Protectorate of the [region]National Socialist League[/region].[/color]
-We found no living locals upon arrival; just enemy agents of [nation]Cormac Stark[/nation]. We came to Liberate the region from Islam and free our Southern Aryan cousins from bondage...to no avail...for none remain
+[b][color=blue][region]The Islamic Republic of Iran[/region] is a Protectorate of the [region]National Socialist League[/region].[/color] [hr]Our Holy Army:
 
 [nation=short]Aryan Shield Command[/nation]
 [nation=short]The New Tommainia[/nation] 
@@ -19,4 +18,6 @@ We found no living locals upon arrival; just enemy agents of [nation]Cormac Star
 [nation=short]New Finnland[/nation]
 [nation=short]Herbedies[/nation]
 [nation=short]Fascist Ideals[/nation]
-[nation=short]Future German Reich[/nation][/b]
+[nation=short]Future German Reich[/nation]
+[nation=short]Fascist Earth[/nation]
+[nation=short]Nepotismy[/nation][/b]

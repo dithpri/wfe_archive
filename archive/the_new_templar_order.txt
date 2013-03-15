@@ -6,7 +6,7 @@ Welcome to The New Templar Order! A powerful region that accepts all nations, an
 
 Overlord: [nation=short]King George Washington[/nation] [color=darkblue](WH)[/color]
 President: [nation=short]Brentonania[/nation] [color=darkred](T)[/color]
-Vice President: [nation=short]The Tropican States[/nation]
+Vice President: [nation=short]The Templarian Order[/nation] (A)
 Secretary of State: [nation=short]Cnor79[/nation] [color=darkblue](WH)[/color]
 Secretary of Defense: [nation=short]Federal Republic of Yugoslavia[/nation] [color=orange](I)[/color]
 Secretary of Business: [nation=short]Confederate States of Murica[/nation] [color=darkblue](WH)[/color]
@@ -15,23 +15,14 @@ Secretary of Regional Affairs: [nation=short]Colorinia[/nation] [color=grey](M)[
 
 [u][color=darkred][b]Congress[/b][/color][/u]
 
+Speaker of The House: [nation=short]The Tropican States[/nation]
+Congressman: [nation=short]Sombay[/nation]
 Congressman:
 Congressman:
-Congressman:
-Congressman:
-Congressman:
-
 
 Defcon: [color=green][B]LOW[/B][/color] [color=blue]GUARDED[/color] [color=yellow]ELEVATED[/color] [color=orange]HIGH[/color] [color=red]SEVERE[/color]
 
 [color=darkred][b]Colonies[/color]: [region]Ralenn[/region], [region]New Templar Order Military Headquarters[/region], [region]Christendom[/region], [region]West Point[/region][/b]
 
 
-|[b][url=http://w11.zetaboards.com/The_Templar_Order/index/]Forums[/url][/b]| [b][url=http://www.youtube.com/watch?v=txlXcJDtDwM]Anthem[/url][/b]|
-
-
-
-[color=darkred][b]&amp;quot;May the Father of Understanding Guide Us&amp;quot;[/b][/color]
-
-
-
+|[b][url=http://w11.zetaboards.com/The_Templar_Order/index/]Forums[/url][/b]| [b][url=http://www.youtube.com/watch?v=txlXcJDtDwM]Anthem[/url][/b]|[b][url=http://i.imgur.com/IHwYrcN.png]Map[/url][/b]|
