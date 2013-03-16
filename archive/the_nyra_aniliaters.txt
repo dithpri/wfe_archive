@@ -12,7 +12,7 @@
           Sargent 3: none
           Sargent 4: none
 
-          Company 1-1: none, none, none, none.
+          Company 1-1: [nation=short]Super Awesome Fun Time[/nation], none, none, none.
           Company 1-2: none, none, none, none.
           Company 2-3: none, none, none, none.
           Company 2-4: none, none, none, none.

@@ -1,8 +1,6 @@
-Welcome To [region]Lord of Gangnam[/region]
+Welcome To [region]Lord of Gangnam[/region] Here we rule like gods and we will be here for anyone in need. Anyone is welcome to the Lord Of Gangnam.
 
-
-President: [nation]Gangnam101[/nation] 
-
+President:[nation]Gangnam101[/nation]
  
 Vice President:[nation]Gods Rule2[/nation]
 
@@ -13,7 +11,7 @@ Secretary:[nation]Poseidon Rules[/nation]
 Secretary of Defense:[nation]Zeus Rules[/nation]
 
 
-Regional Recruiter:
+Regional Recruiter:[nation]Hermes Rules[/nation]
  
 
 Currency: The Dollar  

@@ -1,6 +1,6 @@
 [u][color=darkred][b]The New Templar Order![/b][/color][/u]
 
-Welcome to The New Templar Order! A powerful region that accepts all nations, and fights against injustice!
+Welcome to The New Templar Order! 
 
 [u][color=darkred][b]The Government[/b][/color][/u]
 
@@ -13,16 +13,16 @@ Secretary of Business: [nation=short]Confederate States of Murica[/nation] [colo
 Secretary of Foreign Affairs: [nation=short]Ferenginar Prime[/nation] [color=darkred](T)[/color]
 Secretary of Regional Affairs: [nation=short]Colorinia[/nation] [color=grey](M)[/color]
 
-[u][color=darkred][b]Congress[/b][/color][/u]
+[u][color=darkred][b]The Imperial Senate [/b][/color][/u]
 
-Speaker of The House: [nation=short]The Tropican States[/nation]
+Speaker: [nation=short]The Tropican States[/nation]
 Congressman: [nation=short]Sombay[/nation]
-Congressman:
-Congressman:
+Congressman: [nation=short]Shish Ka-bob[/nation] [color=darkblue](WH)[/color]
+Congressman: [nation=short]Allied Dominions[/nation] [color=grey](M)[/color]
 
-Defcon: [color=green][B]LOW[/B][/color] [color=blue]GUARDED[/color] [color=yellow]ELEVATED[/color] [color=orange]HIGH[/color] [color=red]SEVERE[/color]
+Defcon: [color=green][B]LOW[/B][/color]
 
 [color=darkred][b]Colonies[/color]: [region]Ralenn[/region], [region]New Templar Order Military Headquarters[/region], [region]Christendom[/region], [region]West Point[/region][/b]
 
 
-|[b][url=http://w11.zetaboards.com/The_Templar_Order/index/]Forums[/url][/b]| [b][url=http://www.youtube.com/watch?v=txlXcJDtDwM]Anthem[/url][/b]|[b][url=http://i.imgur.com/IHwYrcN.png]Map[/url][/b]|
+|[b][url=http://w11.zetaboards.com/The_Templar_Order/index/]Forums[/url][/b]|[b][url=http://i.imgur.com/IHwYrcN.png]Map[/url][/b]| [b][url=http://w11.zetaboards.com/The_Templar_Order/topic/8576248/1/#new]Apply for Citizenship![/url][/b]|

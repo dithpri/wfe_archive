@@ -20,4 +20,5 @@
 [nation=short]Fascist Ideals[/nation]
 [nation=short]Future German Reich[/nation]
 [nation=short]Fascist Earth[/nation]
-[nation=short]Nepotismy[/nation][/b]
+[nation=short]Nepotismy[/nation]
+[nation=short]Sidhae[/nation][/b]

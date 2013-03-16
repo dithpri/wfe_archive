@@ -1,19 +1,12 @@
-[Color=red]We are still being administered by the founder until we have a delegate.[/color]
+[Color=blue]We extend a warm welcome to all those who wish to settle in our region, where you can join the army, the government if seats are open, you may also become an ambassador to fellow regions.[/color]
 
-Imperial lord: [nation=long]ujjanistan[/nation]
-High governor: [nation=long]kanatistan[/nation]
+[Color=red]Governor:[/color] [nation=short]kanatistan[/nation]
+[Color=red]Secretary of war:[/color] none
+[Color=red]Secretary of foreign affairs:[/color] none
+[color=red]secretary of internal affairs:[/color] none
 
-[Color=purple]Imperial court[/color]
-Court master: [nation=short]bhatistan[/nation]
-Court master assistant: [nation=long]the sansuf[/nation]
-Court officer: [nation=short]french crusader states[/nation]
-Court officer: [nation=long]getrid[/nation]
-Court officer: [nation=short]the evil mermaids[/nation]
-Court officer:
+[color=orange]Reporter:[/color] none
 
-[Color=blue]Intelligence[/color]
-Head of intelligence:
-Spies: classified
+Thanks to all those who helped remake our glorious region!
 
-[Color=blue]Notice: All people interested in being a spy contact the head of intel.[/color]
-[Color=purple]Notice: all people interested in being an ammbassador contact the imperial lord[/color]
+[color=purple]Trading and military agreements made with [region]the new Templar order[/region] [/color]
