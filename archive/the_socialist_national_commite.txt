@@ -2,7 +2,7 @@
 ____________________________________________________________________________________
 
 [u]GOVERNMENT:[/u]
-PRESIDENT: [nation]the united slavic tsardom[/nation]
+PRESIDENT: [nation=short]czarist czardom of czardomia[/nation]
 MINISTER OF DEFENSE: [u]open[/u]
 MINISTER OF FOREIGN AFFAIRS: [u]open[/u]
 ____________________________________________________________________________________

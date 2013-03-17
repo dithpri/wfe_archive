@@ -1,7 +1,7 @@
 [color=brown][b][u]GOVERNMENT:[/u]
-PRESIDENT: [nation=short]the united slavic tsardom[/nation]
-MINISTER OF DEFENSE: [nation=short]al safi[/nation]
-MINISTER OF FOREIGN AFFAIRS: [/color][nation=short]the united slavic tsardom[/nation]
+PRESIDENT: [nation]the united slavic tsardom[/nation]
+MINISTER OF DEFENSE: [u]open[/u]
+MINISTER OF FOREIGN AFFAIRS: [/color][nation]the united slavic tsardom[/nation]
 
 [color=brown]_____________________________________________________________
 [url=http://www.youtube.com/watch?v=GxQ7GUEPsrU]OUR GREAT ANTHEM[/url] ~ [url=http://www.nationstates.net/nation=the_united_slavic_tsardom/detail=factbook/id=main]ABOUT THE UCR[/url][/b]
@@ -14,7 +14,8 @@ ______________________________________________________________
 
 [u]NEWS:[/u]
 1.anthem added! 3/14/13
-2.population 3
+2.population 3[/color][color=red]
+[i]COME HELP US DESTROY SOME FASCIST SCUM![/i][/color][color=brown]
 ______________________________________________________________
 
 [/color][color=green][i][UCR: Union of communist republics][/b][/i][/color]

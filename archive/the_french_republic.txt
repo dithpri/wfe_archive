@@ -7,5 +7,5 @@
 [region]The Indochinese Union[/region]
 [region]The French protectorate of Tunisia[/region]
 [region]The French Protectorate of Morocco[/region]
-[region]the Principality of Andorra[/region]
-[region]the Principality of Monaco[/region]
+[region]The Principality of Andorra[/region]
+[region]The Principality of Monaco[/region]

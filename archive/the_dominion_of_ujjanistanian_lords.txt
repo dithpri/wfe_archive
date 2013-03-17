@@ -1,12 +1,11 @@
 [Color=blue]We extend a warm welcome to all those who wish to settle in our region, where you can join the army, the government if seats are open, you may also become an ambassador to fellow regions.[/color]
 
-[Color=red]Governor:[/color] [nation=short]kanatistan[/nation]
+[Color=red]Governor:[/color] [nation=short]kanatistan[/nation] ~ please endorse
 [Color=red]Secretary of war:[/color] none
 [Color=red]Secretary of foreign affairs:[/color] none
-[color=red]secretary of internal affairs:[/color] none
+[color=red]secretary of Regional affairs:[/color] none
 
 [color=orange]Reporter:[/color] none
 
-Thanks to all those who helped remake our glorious region!
-
 [color=purple]Trading and military agreements made with [region]the new Templar order[/region] [/color]
+[color=purple]Outposts: [region]zelda[/region] [/color]

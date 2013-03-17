@@ -10,7 +10,7 @@
 [color=#801818]The Sphere Of The Defence Of The Empire:[nation]Tarellia[/nation][hr][/color]
 [color=#801818]The Sphere Of Expansion And Diplomacy:[nation]Daniconis[/nation][/color] [hr]
 [color=#801818]The Sphere Of Imperial Intelligence:[nation]Etonnia[/nation][HR][/color]
-[color=#801818]The Sphere Of Laws And Justice:[/color] [hr]
+[color=#801818]The Sphere Of Laws And Justice:[nation]The Gentlemen With Tophats[/nation][/color] [hr]
 [color=#801818]The Sphere Of Military Strategy:[hr][/color]
 [color=#801818]The Sphere Of Production And Logistics:[nation]Donkervader[/nation] [/color] [hr]
 [color=#801818]The Sphere Of Applied Science:[/color] [hr]

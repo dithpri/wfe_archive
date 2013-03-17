@@ -11,7 +11,7 @@
 [b][u]The Moff Council[/u][/b]
 - [b]Moff of Foreign Affairs[/b]: [nation=short]the order of the eagles assasins[/nation]
 --- [b]Vice Moff of Foreign Affairs[/b]: [nation=short] Vacant[/nation]
-- [b]Moff of War[/b]: [nation=short]The Guardians of the Covenant[/nation]
+- [b]Interim Moff of War[/b]: [nation=short]The Lost Tribe of Sith[/nation]
 --- [b]Vice Moff of War[/b]: [nation=short]Vacant [/nation]
 - [b]Moff of Culture[/b]: [nation=short]The New Sith[/nation] 
 --- [b]Vice Moff of Culture[/b]: [nation=short]The Hand of Thrawnn[/nation] 
