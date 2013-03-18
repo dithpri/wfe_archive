@@ -1,13 +1,13 @@
 [color=#FF0606]Cabinet[/color]
 
-WA Delegate -- [nation]Aringrim[/nation]
-Vice Delegate -- [nation]EPJ[/nation]
-Secretary of Homeland -- [nation]Weiben[/nation]
-Secretary of Environment -- [nation]Inferna[/nation]
-Secretary of Defense -- [nation]Amehstris[/nation]
-Minister of Education -- [nation]Collingwood1[/nation]
-Secretary of State -- [nation]The Eurkan Empire[/nation]
-Minister of Economy -- [nation]Trustopia[/nation]
+WA Delegate -- [nation]EPJ[/nation]
+Vice Delegate -- TBD
+Secretary of Homeland -- TBD
+Secretary of Environment -- TBD
+Secretary of Defense -- TBD
+Minister of Education -- TBD
+Secretary of State -- TBD
+Minister of Economy -- TBD
 
 ------------------------------------------------------------
 

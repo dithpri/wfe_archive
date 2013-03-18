@@ -16,9 +16,9 @@
 
 [b][color=gold]The COURT OF JUSTICE[/color][/b]
 
-[b][color=lightgray]Chief Justice[/color][/b] : [color=red]One Vacant Seat[/color]
+[b][color=lightgray]Chief Justice[/color][/b] : [nation=short]The Republic of Chivalry[/nation]
 
-[b][color=lightgray]Justices[/color][/b] : [color=green][nation=short]Acquitane[/nation],[/color] [color=red]One Vacant Seat[/color]
+[b][color=lightgray]Associate Justices[/color][/b] : [color=green][nation=short]Dromoda[/nation], [nation=short]Acquitane[/nation][/color] 
 
 [hr]
 

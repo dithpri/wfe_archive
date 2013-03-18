@@ -1,4 +1,4 @@
 [b]Welcome to the Free State of New Atrosia.
 
-Dominar: [nation=Rosenchild]
-Governor: [nation=Davisonar][hr][url=http://newatrosia.b1.jcink.com/index.php?act=idx]Colonial Forums[/url][/b]
+Dominar: [nation=short]Arius I[/nation]
+Governor: [nation=short]Davisonar[/nation][hr][url=http://newatrosia.b1.jcink.com/index.php?act=idx]Forums[/url][/b]
