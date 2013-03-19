@@ -11,7 +11,7 @@ Infernal Affairs: [nation]Calski[/nation]
 Foreign Affairs: [nation]Socialist EU[/nation]
 Defence: [nation]Torchwood 23[/nation]
 Justice: [nation]Free Socialist Canada[/nation]
-Commerce: Open
+Commerce: [nation]Nezahualcoyotl[/nation]
 Role-Playing: Open
 
 Orator of the Senate: Open

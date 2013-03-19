@@ -2,5 +2,6 @@
 We are the Reds! A centrally-organized, international Peoples&amp;#39; Front.
 This region is governed by the Inter-regional Council of People&amp;#39;s Commissars , controlled by a shadow government of the party&amp;#39;s &amp;quot;High Circle&amp;quot;.
 
-High Council Member Nations:
-[nation]Firm Earth[/nation]~~ Chairman of the Council of People&amp;#39;s Commissars &amp;amp; High Commander of Allied Forces
+Council Member Nations:
+[nation]Firm Earth[/nation]~~[color=red]Chairman of the Council of People&amp;#39;s Commissars[/color] 
+[nation]Djinxera[/nation]~~[color=red]High Commander of the Allied Red Army[/color]

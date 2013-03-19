@@ -1,1 +1,10 @@
-Welcome to the military base of [region]Frankfurt Am Main[/region]. 
+Welcome to the military base of [region]Frankfurt am Main[/region]. You can join the Federal Defence Force by contacting the Chancellor or President. If neither of the mentioned are avaliable then contact the highest ranking military official.
+
+
+[b]Captured Territories[/b]
+[region]Thuringia[/region]
+[region] Saarland[/region]
+[region]Hessen[/region]
+
+[b]Defended Territories[/b]
+

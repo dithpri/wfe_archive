@@ -1,24 +1,21 @@
 [u]Executive Branch[/u]
-High Chancellor: The Dominion (Veliria)
-Chancellor Pro Tempore: Haltioiden
-Counselor:Anuminas
-Counselor: McContrag
+High Chancellor: [nation]Veliria[/nation]
+Chancellor Pro Tempore: [nation]Haltioiden[/nation]
+Counselor: [nation]Anuminas[/nation]
+Counselor: [nation]McContrag[/nation]
+
 [u]Legislature[/u]
-Prime Minister: Haltioiden
-Eligable to vote: All member nations
+Prime Minister: [nation]Haltioiden[/nation]
+
 [u]Judiciary[/u]
-High Chief Justice: Haltioiden
-Justice: Theoro
-Justice: Hekima
+High Chief Justice: [nation]Haltioiden[/nation]
+Justice: [nation]Theoro[/nation]
+Justice: [nation]Hekima[/nation]
 
 The First to join was The Dominion for the Dominion are wise and are lead by The Founders, and soon after others came to join us.
 
-To join the UEOA you must send me a message or have a contact permission with from the Arrakine Government.
+To join the UEOA you must send [nation]Veliria[/nation] a message or have a contact permission with the Arrakine Government.
 
-The Primary Enemy of the UEOA is the Empire Of Chauvin, rebels who broke away and declared total war...
-
-Regions Supporting The Dominion In the War:
-UEOA - Yes
-New Republica - NA
-New Enclave - No
-Gargantuan Empire - Yes
+Regions Supporting The Dominion In the Arrakine Civil War:
+[region]New Republica[/region] - Non-Combat Aid
+[region]The Gargantuan Empire[/region] - Yes

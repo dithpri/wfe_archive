@@ -3,7 +3,6 @@
 [b]The executive branch is currently vacant.[/b]
 
 [b]Cabinet[/b]
-Military Advisor - [nation]Siaxxis[/nation]
 Foreign Advisor - [nation]House Thenn[/nation]
 
 [b]Court[/b]
@@ -17,6 +16,7 @@ Assistant Justice
 [u]Cabinet[/u]
 Minister of Rock
 Economic Advisor
+Military Advisor
 
 [u]Executive[/u]
 Supreme Chancellor
