@@ -2,10 +2,10 @@
 
 [Color=red]Governor:[/color] [nation=short]kanatistan[/nation] ~ please endorse
 [Color=red]Secretary of war:[/color] none
-[Color=red]Secretary of foreign affairs:[/color] none
-[color=red]secretary of Regional affairs:[/color] none
+[Color=red]Secretary of foreign affairs:[/color] [nation=short]paleocacher[/nation]
+[color=red]secretary of Regional affairs:[/color] [nation=long]sloviakia[/nation]
 
 [color=orange]Reporter:[/color] none
 
-[color=purple]Trading and military agreements made with [region]the new Templar order[/region] [/color]
-[color=purple]Outposts: [region]zelda[/region] [/color]
+[color=purple]Trading and military agreements made with [region]the new Templar order[/region], and [region]the united governments of the world[/region][/color]
+[color=purple]Outposts: [region]zelda[/region], and [region]lost outpost[/region] [/color]

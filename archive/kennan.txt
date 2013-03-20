@@ -1,19 +1,25 @@
 [color=green][b]Important Links[/b][/color]
-[url=http://goo.gl/96qks]Kennan Map[/url] [b]|[/b] [url=http://goo.gl/snQJB]Neutral Island Map[/url] [b]|[/b] [url=http://goo.gl/rahj3]Kennan Offsite Forum[/url] [b]|[/b] [url=http://goo.gl/bJ3zN]In case of Technical Difficulties[/url]
+[url=http://goo.gl/p84x8]Kennan Map[/url] [b]|[/b] [url=http://goo.gl/snQJB]Neutral Island Map[/url] [b]|[/b] [url=http://goo.gl/rahj3]Kennan Offsite Forum[/url] [b]|[/b] [url=http://goo.gl/bJ3zN]In case of Technical Difficulties[/url]
 
 [color=purple][b]Kennan Regional Council[/b][/color]
 [url=http://goo.gl/LOV0p]Resolution #23: Rebuild the Pagophagic Powers[/url]
 [color=red][b]FOR:[/b] 7.5 (100%)
 [b]AGAINST:[/b] 0 (0%)[/color]
 
-[url=http://goo.gl/Yzh68]Resolution #24: Regional Message Board Protocol[/url]
-[color=red][b]FOR:[/b] 3 (40%)
-[b]AGAINST:[/b] 4.5 (60%)[/color]
+[url=http://goo.gl/f7r5q]Resolution #25: Personal Conflict[/url]
+[color=red][b]FOR:[/b] 2 (100%)
+[b]AGAINST:[/b] 0 (0%)[/color]
 
-[Color=orange][b]Kennan Secretary Council[/b][/color]
+[color=orange][b]Kennan Secretary Council[/b][/color]
 [b]Administration:[/b] [nation=short]Cortal[/nation]
 [b]Commerce:[/b] [nation=short]Wilder Ancestors[/nation]
 [b]Defense:[/b] [nation=short]Ethan Foley[/nation]
 [b]Education:[/b] [nation=short]Sandwich Territories[/nation]
 [b]Environment:[/b] [nation=short]United Solcialist States of Jakeopia[/nation]
 [b]Human Rights:[/b] [nation=short]Hackleberry Islands[/nation]
+
+[b][color=blue]Next Delegate Election[/color][/b]
+Sunday, March 31
+[color=blue][b]Candidates[/b][/color]
+[list][*][nation=short]Sandwich Territories[/nation] (for re-election)
+[*][nation=short]Ethan Foley[/nation][/list]

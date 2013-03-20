@@ -1,7 +1,1 @@
-Strength is power.
-
-Prosperity is golden.
-
-Liberty is pleasant. 
-
-This region is now an esteemed vassal of [region]Zarathustra[/region].
+This region is an esteemed vassal of [region]Zarathustra[/region].

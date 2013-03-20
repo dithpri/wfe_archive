@@ -5,9 +5,11 @@ We are trying to improve: economy, political stability and military of our regio
 Nations should endorse the elected World Assembly Delegate
 
 [color=blue]The Council[/color]
-The administrator [color=red]New Grad[/color]
-Commander of United Territories military [color=red]North Tampo[/color]
+The administrator [nation]New Grad[/nation]
+Commander of United Territories military [nation]North Tampo[/nation]
+
+Ministers:
+Minister of foreign affairs [nation]Lonely Isles[/nation]
+
   Council seats:
-[color=red]Sand Land[/color]
-[color=red]Lonely Isles[/color]
 [color=red]Comon Land [/color]
