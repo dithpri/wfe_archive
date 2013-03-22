@@ -20,9 +20,9 @@ Department of Sports: [nation]Wyldland[/nation]
 [color=Green]DEFCON 4[/color]
 [color=Blue]DEFCON 5[/color]&amp;lt;Current DEFCON
 
-[u]Stats (Updated 2013-03-12)[/u]
-Total Population: 15,875,000,000
-Average Population: 933,823,529
-Gross Regional Product: $264,500,000,000,000
-GRP Per Capita: $16,700
-Regional Average GDP: $15,600,000,000,000
+[u]Stats (Updated 2013-03-21)[/u]
+Total Population: 16,670,000,000
+Average Population: 980,588,235
+Gross Regional Product(In NSD): $487,480,048,320,000,000
+GRP Per Capita(In NSD): $2,924,298
+Regional Average GDP(In NSD): $286,752,960,000,000

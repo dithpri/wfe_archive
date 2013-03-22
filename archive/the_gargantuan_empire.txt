@@ -3,7 +3,7 @@
 [b][u]International Branch[/b][/u]
 Office of the Emperor
 Emperor: [nation=short+noflag]Reagan Island[/nation]
-Legion General: [nation=short+noflag]Virgo[/nation]
+Legion General: [color=red]Vacant[/color]
 
 [b][u]Executive Branch[/b][/u]
 Office of the Governor
@@ -12,7 +12,7 @@ Lt. Governor: [nation=short+noflag]Klacik[/nation]
 
 [b][u]Legislative Branch[/u][/b]
 Senate
-President: [nation=short+noflag]Virgo[/nation]
+President: [color=red]Vacant[/color]
 Senator: [nation=short+noflag]Brutii Rebels[/nation]
 Senator: [nation=short+noflag]Vispariti[/nation]
 Senator: [nation=short+noflag]Gorkhabhumi[/nation]
@@ -20,8 +20,8 @@ Senator: [nation=short+noflag]Hoytenstan[/nation]
 
 [b][u]Judicial Branch[/b][/u]
 Department of Justice
-Chief Justice: [nation=short+noflag]Max-A-Million Centre[/nation]
-Justice: [nation=short+noflag]Papua New Craig[/nation]
-Justice: [nation=short+noflag]Equitador[/nation]
+Int. Chief Justice: [nation=short+noflag]Papua New Craig[/nation]
+Justice: [color=red]Vacant[/color]
+Justice: [color=red]Vacant[/color]
 
 [url=http://www.gargantuanregion.webs.com]Click here to visit The Gargantuan Empire website![/url]
