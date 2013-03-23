@@ -16,13 +16,22 @@ Peace be upon you.[/i]
 
 [color=grey][b] Regional Secretary of Foreign Affairs:[/b][/color]  [nation=Quith]
 
+
+[color=grey][b]Diplomatic Envoy At Large, Ministry of Foreign Affairs :[/b][/color]
+[nation=Elanore]
+
+***
+
 [color=grey][b] Regional Defence Minister :[/b][/color]  [nation=Qron]
 
                [color=grey][b] Defense Attache, Ministry of Defence : [/b][/color]
                                     [nation=Jaririan Overseas Territorial Islands] 
 
+***
+
 [color=grey][b] Regional Secretary of Commerce :[/b][/color]  [nation=Dirn]
 
-[color=grey][b]Regional Internal Affairs Minister :[/b][/color]  [nation=Baqy]
+***
+[color=grey][b]Regional Internal Affairs:[/b][/color]  [nation=Baqy]
 
-[color=grey][b]Diplomatic Envoy At Large :[/b][/color]  [nation=Elanore]
+***

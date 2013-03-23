@@ -4,13 +4,13 @@ WPK Central Committee leadership[/b]
 
 Members of the Presidium of the Politburo
 
-[nation]Rodong 1[/nation]
+[nation=short]Rodong 1[/nation] - WAD / General Secretary of the Workers Party Korea
 
-[nation]Marxist-Feminists[/nation]
+[nation=short]Marxist-Feminists[/nation] - Regional protector / military commissar
 
-[nation]N Korea[/nation]
+[nation=short]CPPI DPRK[/nation] - International commissar / Inter-regional commissar
 
-[nation]A Unified Korea[/nation]
+[nation=short]The Great Korea[/nation] - Intelligence / covert operations.
 [hr][url=http://www.marxists.org/archive/kim-il-sung/index.htm] Kim Il Sung Collected Works[/url]
 
 [url=http://vmingcollectedworks.wikispaces.com/] Political Commissar V Ming Collected Works[/url]

@@ -1,13 +1,13 @@
-Welcome To [region]The EpicClanss place[/region]
+[color=purple]Welcome To[/color] [region]The EpicClanss place[/region]
 
 [color=orange]President:[/color] [nation]The EpicClan[/nation]
 
-Vice President:
+[color=red]Vice President:[/color]
 
-Secratary:
+[color=yellow]Secratary:[/color]
 
-Secratarty of Defence:
+[color=pink]Secratarty of Defence:[/color]
 
-Regional Recruiter:
+[color=black]Regional Recruiter:[/color]
 
-Currency: The Dollar
+[color=blue]Currency: The Dollar[/color]
