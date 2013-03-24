@@ -1,22 +1,10 @@
-[color=brown][b][u]GOVERNMENT:[/u]
-PRESIDENT: [nation]the united slavic tsardom[/nation]
-MINISTER OF DEFENSE: [u]open[/u]
-MINISTER OF FOREIGN AFFAIRS: [/color][nation]the united slavic tsardom[/nation]
-
-[color=brown]_____________________________________________________________
+[color=purple][b][u]GOVERNMENT:[/u]
+PRESIDENT: [nation=short]the united slavic tsardom[/nation]
+MINISTER OF DEFENSE: [/color][color=blue][u]open[/u][/color][color=purple]
+MINISTER OF FOREIGN AFFAIRS:[/color][color=blue] [u]open[/u][/color]
+[color=purple]MINISTER OF INTERNAL AFFAIRS:[/color] [color=blue][u]open[/u][/color]
+[color=purple]_____________________________________________________________
 [url=http://www.youtube.com/watch?v=GxQ7GUEPsrU]OUR GREAT ANTHEM[/url] ~ [url=http://www.nationstates.net/nation=the_united_slavic_tsardom/detail=factbook/id=main]ABOUT THE UCR[/url] ~ [url=http://www.nationstates.net/page=un]THE WORLD ASSEMBLY[/url][/b]
 _____________________________________________________________________[/color]
 
-[b][color=red][i]WELCOME TO THE GREAT REGION OF THE UCR,
-[u]FREEDOM[/u] AND [u]EQUALITY[/u] FOR ALL![/i][/color][color=brown]
-
-______________________________________________________________
-
-[u]NEWS:[/u]
-1.anthem added! 3/14/13
-2.population 4[/color][color=red]
-[i]COME HELP US DESTROY SOME FASCIST SCUM![/i][/color][color=brown]
-______________________________________________________________
-
-TO JOIN JUST ASK [nation=short]THE UNITED SLAVIC TSARDOM[/nation]!
-[/color][color=green][i][UCR: Union of communist republics][/b][/i][/color]
+[b][color=purple][i][UCR: Union of communist republics][/b][/i][/color]

@@ -6,9 +6,9 @@ This region consists of twenty islands. He has a cup of football IsleCup.
 
 [u]Government[/u] :
 [color=blue]Founder[/color] : [nation]Bestnid[/nation]
-[color=green]WA Delegate[/color] : [nation]Chaotis[/nation]
+[color=green]WA Delegate[/color] : 
 Secretary of Region :
-Secretary of Justice : [nation]Chaotis[/nation]
+Secretary of Justice : 
 Secretary of the Land forces :
 Secretary of Marine : [nation]Bestnid[/nation]
 Secretary of the Air Force : [nation]Gaius Marianus[/nation]

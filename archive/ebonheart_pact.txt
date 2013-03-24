@@ -1,14 +1,12 @@
 [color=red]High King:[/color][nation]Xark-Vorkestaad[/nation]
-[color=red]High Judge:[/color][color=grey] Open[/color]
-[color=red]High Chancellor:[/color][color=grey] Open[/color]
-[color=red]WA Scribe:[/color][color=grey] Open[/color]
-[color=red]Officer of Recruitment:[/color][color=grey] Open[/color]
-[color=red]Commander and Chief:[/color][color=grey] Open[/color]
+[color=red]High Judge:[/color][nation]West Neutralia[/nation]
+[color=red]Officer of Recruitment:[/color][nation]Holyousness[/nation]
+[color=red]Commander and Chief:[/color][nation]Runesland[/nation]
 [hr]
 [color=blue]Jarl of Whiterun Hold:[/color][nation]Anglo-German Empire[/nation]
 [color=blue]Jarl of Falkreath Hold:[/color][nation]Runesland[/nation]
 [color=blue]Jarl of The Rift:[/color][nation]Servaesia[/nation]
-[color=blue]Jarl of Winterhold:[/color][nation]Republic of Virtue[/nation]
+[color=blue]Jarl of Winterhold:[/color][nation]Drizland[/nation]
 [color=blue]Jarl of The Pale:[/color][nation]Matrioshka 9[/nation]
 [color=blue]Jarl of Hjaalmarch:[/color][nation]King Marx[/nation]
 [color=blue]Jarl of The Reach:[/color][nation]Borosa Ete Whitedemonicaa[/nation]
@@ -16,8 +14,7 @@
 [color=blue]Jarl of Eastmarch:[/color][nation]Important Buisness[/nation]
 [hr]
 [color=orange][b][i][u]Announcements[/u][/i][/b][/color]
-
--All Jarls, vote for High King in the [url=http://nsope.minoanpenman.com/viewtopic.php?f=25&amp;amp;t=18]Ballot[/url].
+Let&amp;#39;s Kick Butt!
 [hr]
 [b][url=http://nsope.minoanpenman.com/index.php]Regional Forum[/url][/b]
 [b][url=http://chat.minoanpenman.com/]Chat Forum[/url][/b]
