@@ -1,10 +1,10 @@
 [color=Purple]Elder Council[/color]
-High King - 
-Jarl -
-High Chancellor - 
+High King - [nation]Grantsbourg[/nation]
+Jarl - [nation]Logistica[/nation]
+
 [hr][color=navy]Moot[/color]
 Steward - 
-Thane - [nation=short]Logistica[/nation]
+Thane - 
 High Judges - [nation=short]Caelavie[/nation], [nation=short]Skyrim Diplomacy[/nation]
 [hr][color=green]News[/color]
 We are no longer a protectorate, we will protect ourselves.

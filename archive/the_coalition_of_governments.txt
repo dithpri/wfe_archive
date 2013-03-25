@@ -6,9 +6,9 @@
 [b][u]High Chairman[/u]:[/b][nation=short]Fraserland[/nation]
 [b][u]High Chairman[/u]:[/b][nation=short]Vanhania[/nation]
 [b][u]High Chairman[/u]:[/b][nation=short]Libertas Liber[/nation]
-[b][u]Chairman of Defense[/b][/u]:[nation=short]Avaron[/nation]
-[b][u]Chairman of Foreign Affairs[/b][/u]:[nation=short]Provenna[/nation]
-[b][u]Chairman of Internal Affairs[/b][/u]:[nation=short]Lerodan Chinamerica[/nation]
+[b][u]Chairman of Defense[/b][/u]:[nation=short]Vacant[/nation]
+[b][u]Chairman of Foreign Affairs[/b][/u]:[nation=short]Vacant [/nation]
+[b][u]Chairman of Internal Affairs[/b][/u]:[nation=short]Vacant [/nation]
 
 
 [Hr]Endorse [nation=short]Vanhania[/nation] to be our WA Delegate!
@@ -17,6 +17,4 @@
 [Hr]
 [b][u][color=red]Announcements![/color][/u][/b]:
 [b]
- The Lerodan calendar is now up on the website. Check the History section.
-
-The RMB &amp;quot;Rules&amp;quot; have been updated. Check them.[/b]
+ [/b]

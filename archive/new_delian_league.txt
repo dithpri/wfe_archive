@@ -1,3 +1,4 @@
-[color=000066][b]New Delian League[/b][/color]
+[color=006600][b]New Delian League[/b]
 
-[color=999999]TESTING[/color]
+[list][region=Ionia], [b]New Delian League[/b], [region=Weirdonia], [region=Bettering Nations for the Greater Good], [region=Banuhal], [region=Galapagos], [region=TeveRob], [region=New United], [region=Kafosin], [region=Christian Conservatives], [region=Western Samoa], [region=InterGalactica], [region=South China Sea], [region=Cute Kids], [region=These United Nations], [region=Pitcairn], [region=the Big Bang Theory Worshippers], [region=Cougar Town], [region=M1A1], [region=Beyond the Walls of Night], [region=The Higher Power], [region=Algora], [region=the Cayman Islands], [region=Iwo Jima], [region=Bhumi], [region=Tuscany], [region=Ageos], [region=NuFovur], [region=Sverige], [region=Valiant], [region=War Room], [region=Balochistan], [region=Westminster], [region=Nokinia Island], [region=South Georgia], [region=La Nina], [region=Wallis and Futuna], [region=Gambier Islands], [region=Stadacona], [region=Saint Lucia], [region=Solomon Islands].[/list]
+Associated regions of [region=United States of America][/color]

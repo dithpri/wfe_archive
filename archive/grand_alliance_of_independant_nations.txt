@@ -3,8 +3,8 @@ Founded by an Empire, the peoples of this region belive in autocracy and absolut
 The GAOIN Ambassador is currently placed within:The Sentient Hub
 
 Founder: [nation] The Empire of Christophosis [/nation]
-WA Delegate:
-WA Vice-Delegate:
+WA Delegate: [nation] The Empire of Christophosis[/nation]
+WA Vice-Delegate: [nation] The Republic of Linkobob [/nation]
 Minister of Defence:
 Home Secretary:
 Foreign Secretary:

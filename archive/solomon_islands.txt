@@ -1,5 +1,12 @@
 [color=4242ff][b]Solomon Islands[/b] is a nation in Melanesia, east of Papua New Guinea, consisting of nearly one thousand islands.
 Together they cover a land mass of 28,400 square kilometres (10,965 sq mi).
 The capital is Honiara, located on the island of Guadalcanal.[/color]
-
-a [region=Royal Alliance] region
+[color=000066]
+a [region=United States of America] region
+[list]ALPHA LIST:
+[list][region=Sierra Leone]
+[list][b]Solomon Islands[/b]
+[list][region=Somalia][/list][/list][/list][/list]
+[list]ORDER LIST:[list][region=Saint Lucia]
+[list][b]Solomon Islands[/b]
+[list][region=the New Earth][/list][/list][/list][/list][/color]

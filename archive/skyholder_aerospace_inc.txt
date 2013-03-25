@@ -10,7 +10,7 @@ Minister of Defense: [nation]Novambisk VII[/nation]
 Minister of Space Forces: [nation]AusBraylia[/nation]
 Minister of Economics &amp;amp; Commerce: [nation]Great Zenith[/nation]
 Minister of Domestic Affairs: 
-Minister of Foreign Affairs: 
+Minister of Foreign Affairs: [nation]Technocratica[/nation]
 Minister of Education: [nation]Torktopia[/nation]
 
 [b][color=purple]&amp;gt;&amp;gt;It is not required, but is [u]recommended[/u] to join the WA while you are here![/color] [/b]

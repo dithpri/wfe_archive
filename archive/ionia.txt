@@ -2,25 +2,9 @@
 
 Ionia is an ancient region of present day nation of Turkey.
 [/color][color=006442]
-REGION
-&#149; Associated with [region=United States of America]
-
-[b]ALLIANCE ORDER:[/b] ALPHA Block ONE (PASSWORDED)
-[list]&#149; [b]Ionia[/b]
-&#149; [region=New Delian League]
-&#149; [region=Weirdonia]
-&#149; [region=Bettering Nations for the Greater Good]
-&#149; [region=Banuhal]
-&#149; [region=Galapagos]
-&#149; [region=TeveRob]
-&#149; [region=New United]
-&#149; [region=Kafosin]
-&#149; [region=Christian Conservatives]
-&#149; [region=Western Samoa]
-&#149; [region=InterGalactica]
-&#149; [region=South China Sea][/list]
-For Block TWO see [region=Cute Kids]
-
+REGION[list]&#149; Associated with [region=United States of America]
+&#149; See [region=New Delian League] for list of ALPHA REGIONS
+&#149; Sorry these 41 regions are passworded[/list]
 [b]Handy Tools:[/b]
 [list]&#149; [url=http://nsdossier.texasregion.net/]Dossier Tools[/url] (from [region=Texas])
 &#149; [url=http://forum.nationstates.net/viewtopic.php?f=16&amp;amp;t=74486]ONE STOP RULES[/url]

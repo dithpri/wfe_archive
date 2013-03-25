@@ -17,11 +17,8 @@ President: [nation=short]Onza[/nation] (HC)
 Prime Minister: [nation=short]United States of Minecraftia[/nation] (I)
 
 [u]Senators:[/u]
-[i]Currently Vacant[/i]
-[nation=short]The-Commonwealth[/nation] (PP)
 [nation=short]The Wiggle[/nation] (I)
-[nation=short]Zaharawi[/nation] (PP)
-[nation=short]Hedfer[/nation] (PP)
+
 
 [hr][color=red][u][b]Announcements:[/u][/color][/b]
 [url=http://w11.zetaboards.com/The_NDU/topic/8571434/1/?x=0#post8061512]Abolish the Senate![/url]

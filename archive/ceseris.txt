@@ -1,6 +1,6 @@
 Welcome to Ceseris!
 
-First Lord/Founder: [nation=short+noflag]Armud[/nation]
+First Lord/Founder: [nation=noflag]Armud[/nation]
 President: [i]Unelected![/i]
 Vice President: [i]Unelected![/i]
 WA Delegate: [i]Unelected![/i]
