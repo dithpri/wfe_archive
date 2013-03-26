@@ -1,8 +1,8 @@
 [Color=blue]We extend a warm welcome to all those who wish to settle in our region, where you can join the army, the government if seats are open, you may also become an ambassador to fellow regions.[/color]
 
-[Color=red]Governor:[/color] [nation=short]kanatistan[/nation] Imperialist party ~ please endorse
+[Color=red]Governor:[/color] [nation=short]kanatistan[/nation] Imperialist Party ~ please endorse
 [Color=red]Secretary of war:[/color] none
-[Color=red]Secretary of foreign affairs:[/color] [nation=short]paleocacher[/nation]
+[Color=red]Secretary of foreign affairs:[/color] [nation=short]paleocacher[/nation] Imperialist Party
 [color=red]secretary of Regional affairs:[/color] [nation=long]sloviakia[/nation] Democratic Party
 
 [color=orange]Reporter:[/color] none

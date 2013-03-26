@@ -17,11 +17,12 @@ Senator: [nation=short+noflag]Brutii Rebels[/nation]
 Senator: [nation=short+noflag]Vispariti[/nation]
 Senator: [nation=short+noflag]Gorkhabhumi[/nation]
 Senator: [nation=short+noflag]Hoytenstan[/nation]
+Senator: [nation=short+noflag]Virgo[/nation]
 
 [b][u]Judicial Branch[/b][/u]
 Department of Justice
 Int. Chief Justice: [nation=short+noflag]Papua New Craig[/nation]
-Justice: [color=red]Vacant[/color]
+Justice: [nation=short+noflag]Equitador[/nation]
 Justice: [color=red]Vacant[/color]
 
 [url=http://www.gargantuanregion.webs.com]Click here to visit The Gargantuan Empire website![/url]
