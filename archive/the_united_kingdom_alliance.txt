@@ -9,13 +9,13 @@ Permanent members:
 [nation=short]jacksistan[/nation]
 [nation=short]asthia[/nation]
 [nation=short]japan1[/nation]
-[nation=short]gem isles[/nation]
+[nation=short]russian federation 1[/nation]
 [nation=short]star isles[/nation]
 ===============
 rotating members:
 ============
 [nation=short]stevesrael[/nation]
-
+[nation=short]gem isles[/nation]
 [nation=short]delhanara[/nation]
 [nation=short]eeleenia[/nation] and
 [nation=short]hanannara[/nation]

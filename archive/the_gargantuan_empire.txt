@@ -3,7 +3,7 @@
 [b][u]International Branch[/b][/u]
 Office of the Emperor
 Emperor: [nation=short+noflag]Reagan Island[/nation]
-Legion General: [color=red]Vacant[/color]
+Legion General: [nation=short+noflag]Virgo[/nation]
 
 [b][u]Executive Branch[/b][/u]
 Office of the Governor
@@ -12,12 +12,11 @@ Lt. Governor: [nation=short+noflag]Klacik[/nation]
 
 [b][u]Legislative Branch[/u][/b]
 Senate
-President: [color=red]Vacant[/color]
+President: [nation=short+noflag]Virgo[/nation]
 Senator: [nation=short+noflag]Brutii Rebels[/nation]
 Senator: [nation=short+noflag]Vispariti[/nation]
 Senator: [nation=short+noflag]Gorkhabhumi[/nation]
 Senator: [nation=short+noflag]Hoytenstan[/nation]
-Senator: [nation=short+noflag]Virgo[/nation]
 
 [b][u]Judicial Branch[/b][/u]
 Department of Justice

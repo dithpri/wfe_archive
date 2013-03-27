@@ -1,7 +1,7 @@
 Emperor:[nation]Socialist Republic of Andrew[/nation]
 Enforcer:[nation]The Orson Empire[/nation]
 Premier:[nation]Timmy City[/nation]
-Consul:[nation]Socialist Republic of Andrew[/nation]
+Chief of Staff:[nation]Socialist Republic of Andrew[/nation]
 Minister of Regional Security:[nation]The Orson Empire[/nation]
 Secretary of Regional Trade and Finance:[nation]Timmy City[/nation]
 Minister of Foreign Relations:[nation]Novo Wagondia[/nation]

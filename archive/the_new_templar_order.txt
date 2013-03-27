@@ -20,7 +20,7 @@ Congressman: [nation=short]Sombay[/nation] [color=grey](M)[/color]
 Congressman: [nation=short]Shish Ka-bob[/nation] [color=darkblue](WH)[/color]
 Congressman: [nation=short]Allied Dominions[/nation] [color=grey](M)[/color]
 
-Defcon: [color=green][B]LOW[/B][/color]
+Defcon: [color=yelloW]ELEVATED[/color]
 
 [color=darkred][b]Colonies[/color]: [region]Ralenn[/region], [region]New Templar Order Military Headquarters[/region], [region]Christendom[/region], [region]West Point[/region][/b]
 
