@@ -4,8 +4,10 @@
 [Color=red]Secretary of war:[/color] none
 [Color=red]Secretary of foreign affairs:[/color] [nation=short]paleocacher[/nation] Imperialist Party
 [color=red]secretary of Regional affairs:[/color] [nation=long]sloviakia[/nation] Democratic Party
-
 [color=orange]Reporter:[/color] none
+
+[color=blue]national song: KITAB ALLAH (The Book of Allah)[/color]
+[color=green]National Religion: Islam[/color]
 
 [color=purple]Trading and military agreements made with [region]the new Templar order[/region] [region]the united governments of the world[/region] [region]Iran[/region] [region]UCR[/region] [region]leadersofgreece[/region] [region]the communist region[/region][/color]
 [color=purple]Outposts: [region]zelda[/region] [region]lost outpost[/region] [region]tdul fall back head quarters[/region] [/color]

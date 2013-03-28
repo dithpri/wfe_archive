@@ -1,16 +1,3 @@
-[b]Welcome to the[/b] [color=blue]Roman Republic[/color]
------------------------------------------------------------
-[b]The Government Is Lead By The Following People[/b] 
-[color=blue]Consul[/color]: 
-[color=blue]Pro-Consul[/color]: 
-[color=green]First Censor[/color]: 
-[color=green]Second Censor[/color]:
------------------------------------------------------------
-[color=purple]Senator[/color]:[nation=short]Romanus Republic[/nation]
-[color=purple]Senator[/color]: 
-[color=purple]Senator[/color]:
-[color=purple]Senator[/color]:
-[color=purple]Senator[/color]:
-[color=purple]Senator[/color]:
------------------------------------------------------------
-[b]Please Join Our[/b] [url=http://romanrepublic.createaforum.com/index.php]Forum[/url]
+[b][color=blue]This region has been colonized by the [region]Eastern Roman Empire[/region].[/color][/b]
+
+Glory to the Eastern Roman Empire Alliance!

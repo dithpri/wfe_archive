@@ -1,3 +1,5 @@
-President: The Democratic Republic of Tsul Kalu
+[b]President[/b]: [nation]Tsul Kalu[/nation]
 
-Secretary of Defense: The Federal Republic High Hrogarth
+[b]Vice President[/b]: [nation]Father Russia[/nation]
+
+[b]Secretary of Defense[/b]: [nation]High Hrogarth[/nation]

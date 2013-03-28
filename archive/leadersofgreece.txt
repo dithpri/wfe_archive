@@ -2,14 +2,13 @@
 ----------------------------------
 [I]Today we fight in the region. We shall attack all who we appose. We are brothers of battle. We shall fight as Warriors of Greece![/i]
 [Color=Green][U]Our Gov. [/u][/color]
-Emperor: Mithea
-Lead General: The Republic of New Americas USA [aka] The Republic of Leadersofgreece
-General of War:The Empire of President Andrew Jackson 
-General of Defense: The Confederacy of Czechrepublic
-General of Espionage: 
-General of Balance:
-Head Judge: The Republic of Confederate States of Murica
-Appointed Judge:The Republic of El Presidente Santa Anna
-[Color=blue]Commission - The Empire of Jackson, Mithea, No awesome names left[/color]
+[Color=gold]Emperor:[/color][i][nation=noflag]Mithea[/nation][/i]
+[Color=teal]Lead General:[/color] [nation=noflag]Leadersofgreece[/nation]
+[Color=brown]General of War:[/color][nation=noflag]President Andrew Jackson[/nation]
+[Color=yellow]General of Defense:[/color] [nation=noflag]Czechrepublic[/nation]
+[Color=red]General of Espionage:[/color] [color=silver]open[/color]
+[Color=litepink]General of Balance:[/color][color=silver]open[/color]
+[Color=navyblue]Head Judge: [/color][color=silver]open[/color]
+[Color=darkred]Appointed Judge:[/color][nation=noflag]El Presidente Santa Anna[/nation]
 [Color=blue]Please visit our forums[/color] [url=http://www.logregion.nstars.org]here[/url]
 Region ambassador(s)- WC New America &amp;amp; The Empire of President Andrew Jackson

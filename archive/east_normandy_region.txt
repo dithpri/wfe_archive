@@ -1,9 +1,1 @@
-[b]The [region]East Normandy Region[/region] is a Protectorate of the [region]International Communist Union InterCom[/region]
-
-[nation]EAST NORMANDY SEA COMMAND-SEACOM[/nation] 
-is the Founder and Administrator
-
-[nation]InterCom Occupation Force 3[/nation] 
-is the Military Governor
-
-[/b]
+[b][region]East Normandy Region[/region] was annexed by the [region]National Socialist League[/region][/b]

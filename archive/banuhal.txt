@@ -1,2 +1,8 @@
-[color=000666][b]Banuhal[/b][/color]
-[color=666000]Puppet Storage and Sorting region[/color]
+[color=000666][b]Banuhal[/b]
+
+ORDER:
+&#149;&#149;&#149; [region=Bettering Nations for the Greater Good] &#149; [b]Banuhal[/b] [region=Galapagos] &#149;&#149;&#149; 
+ALPHA:
+&#149;&#149;&#149; [region=Baluchistan] &#149; [b]Banuhal[/b] &#149; [region=Barbados] &#149;&#149;&#149; 
+ASSOCIATED WITH:
+&#149; [region=United States of America][/color]
