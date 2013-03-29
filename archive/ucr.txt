@@ -1,6 +1,7 @@
 [color=purple][b][u]GOVERNMENT:[/u]
 PRESIDENT: [nation=short]the united slavic tsardom[/nation]
-MINISTER OF DEFENSE: [/color][color=blue][u]open[/u][/color][color=purple]
+VICE PRESIDENT: [nation=short]Nimmopia[/nation]
+MINISTER OF DEFENSE: [nation=short]Al safi[/nation]
 MINISTER OF FOREIGN AFFAIRS:[/color][color=blue] [u]open[/u][/color]
 [color=purple]MINISTER OF INTERNAL AFFAIRS:[/color] [color=blue][u]open[/u][/color]
 [color=purple]_____________________________________________________________
@@ -9,7 +10,6 @@ _____________________________________________________________________[/color]
 
 [b][color=purple][u]ALLIES:[/u]
 1.[region]The Dominion of Ujjanistanian lords[/region]
-2.[region]The Communist Party of NationStates[/region]
 
 [i][UCR: Union of communist republics][/color]
 [color=gray]We accept embassies with all leftist regions.[/b][/color][/i]

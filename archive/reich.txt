@@ -1,4 +1,4 @@
-[color=blue][b]The [region]Reich[/region] is the manifestation of the eternal fuhrers beliefs and teachings, it is said, by the eternal fuhrer, that The [region]Reich[/region] shall exist for over 1000 years. This region is dedicated to the fulfilling of that ideal and dedicated to fighting in the memory of The Third Reich.[/b][/color]
+[color=blue][b]The [region]Reich[/region] is the manifestation of the eternal fuhrers beliefs and teachings, it is said that The [region]Reich[/region] shall exist for over 1000 years. This region is dedicated to the fulfilling of that ideal.[/b][/color]
 
 [color=red][i]The [region]Reich[/region] is a region [u]made by[/u] National Socialist/Fascist nations [u]for[/u] National Socialist/Fascist nations[/i][/color]
 
@@ -6,7 +6,9 @@
 [b][u]The [region]Reich[/region]&amp;#39;s Oberkommando[/u]
 [color=red]Reichsmarschall:[nation=short]Die Volkes Lebensraum[/nation]
 Chef der Wehrmacht:[nation=short]Hydra Germany[/nation]
-Reichsdelegate:[nation=short]Deutches Reich[/nation][/b][/color]
+Reichsdelegate:[nation=short]Deutches Reich[/nation][/color]
+
+Endorse reichsdelegate [nation=short]Deutches Reich[/nation] and [u]nobody[/u] else.[/b]
 
 [i]Move all military puppets to [region]Kaserne[/region].[/i]
 [i]Contact [nation=short]Hydra Germany[/nation] if interested in joining the Wehrmacht.[/i]

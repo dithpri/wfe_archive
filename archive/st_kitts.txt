@@ -1,1 +1,7 @@
-[color=800000][b]St Kitts[/b][/color]
+[color=000666][b]St Kitts[/b]
+
+AKA [region=Saint Kitts][/color][color=006600]
+
+REGION[list]ORDER: - [region=Central Pacific] - [b]St Kitts[/b] - [region=Somers Isles] -
+ALPHA: - [region=Spitsbergen] - [b]St Kitts[/b] - [region=St Kitts and Nevis] -
+ALLIED &amp;amp; ASSOCIATED REGION OF: - [region=United States of America] -[/list][/color]
