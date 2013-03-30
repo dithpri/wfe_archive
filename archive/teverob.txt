@@ -1,3 +1,5 @@
-[color=000066][b]TeveRob[/b][/color][color=FF6600]
-
-Testing this region[/color]
+[color=000666][b]TeveRob[/b]
+[/color][color=006600]
+REGION[list]ORDER: &#149;&#149;&#149; [region=Galapagos] &#149; [b]TeveRob[/b] &#149; [region=New United] &#149;&#149;&#149; 
+ALPHA: &#149;&#149;&#149; [region=Taskforce] &#149; [b]TeveRob[/b] &#149; [region=The Allied Nations of the World] &#149;&#149;&#149; 
+ASSOCIATED WITH: &#149; [region=United States of America] &#149;[/color][/list]

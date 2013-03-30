@@ -10,9 +10,10 @@ Space Forces: [nation]AusBraylia[/nation]
 Economics &amp;amp; Commerce: [nation]Great Zenith[/nation]
 Domestic Affairs: 
 Foreign Affairs: [nation]Technocratica[/nation]
-Recruitment: 
+Recruitment:
+Justice: [nation]Cakestand[/nation] 
 Education: [nation]Torktopia[/nation]
-Technology: 
+Technology: [nation]Hijjma[/nation]
 
 [b][color=purple]&amp;gt;&amp;gt;It is not required, but is [u]recommended[/u] to join the WA while you are here![/color] [/b]
 

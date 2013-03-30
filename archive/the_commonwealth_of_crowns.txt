@@ -3,7 +3,7 @@
 Chancellor: [nation=short]Borduriaa[/nation]
 Secretary-General: [nation=short]Noorderkwartier[/nation]
 Speaker: [nation=short]Gennomia[/nation]
-[hr]Dy.SG: [nation=short]Skako[/nation]
+[hr]Dy.SG: [nation=short]Velykyy Ukraina[/nation]
 Dy. Speaker:[nation=short]Renovia and Northern Providence[/nation]
 [hr][b]Cabinet of Ministers[/b]
 Foreign Affairs:[nation=short]Wyethalania[/nation]

@@ -1,7 +1,5 @@
-[color=000666][b]Galapagos[/b][/color]
-
-[color=006600]REGION[list]ALPHA REGION SIX
+[color=000666][b]Galapagos[/b]
+[/color][color=006600]
+REGION[list][b]ORDER:[/b] &#149;&#149;&#149; [region=Banuhal] &#149; [b]Galapagos[/b] &#149; [region=TeveRob] &#149;&#149;&#149; 
 [b]ALPHA:[/b] &#149;&#149;&#149; [region=Gabon] &#149; [b]Galapagos[/b] &#149; [region=Galapagos Islands] &#149;&#149;&#149; 
-[b]ORDER:[/b] &#149;&#149;&#149; [region=Banuhal] &#149; [b]Galapagos[/b] &#149; [region=TeveRob] &#149;&#149;&#149; 
-[b]ASSOCIATED WITH:[/b] &#149; [region=United States of America] &#149;[/color][color=660000]
-[b]&#149; Sorry, this is a PUPPET STORAGE REGION &#149;[/b][/color][/list]
+[b]ASSOCIATED WITH:[/b] &#149; [region=United States of America] &#149;[/color][/list]

@@ -1,14 +1,14 @@
-[color=purple][b][u]GOVERNMENT:[/u]
-PRESIDENT: [nation=short]the united slavic tsardom[/nation]
-VICE PRESIDENT: [nation=short]Nimmopia[/nation]
+[color=blue][b][u]GOVERNMENT:[/u]
+HEAD OF STATE: [nation=short]the united slavic tsardom[/nation]
+PRIME MINISTER: [nation=short]Nimmopia[/nation]
 MINISTER OF DEFENSE: [nation=short]Al safi[/nation]
-MINISTER OF FOREIGN AFFAIRS:[/color][color=blue] [u]open[/u][/color]
-[color=purple]MINISTER OF INTERNAL AFFAIRS:[/color] [color=blue][u]open[/u][/color]
-[color=purple]_____________________________________________________________
+MINISTER OF FOREIGN AFFAIRS: [nation=short]Elgomeria[/nation]
+MINISTER OF INTERNAL AFFAIRS: [nation=short]The Soviet Slave State[/nation]
+_____________________________________________________________
 [url=http://www.youtube.com/watch?v=GxQ7GUEPsrU]OUR GREAT ANTHEM[/url] ~ [url=http://www.nationstates.net/nation=the_united_slavic_tsardom/detail=factbook/id=main]ABOUT THE UCR[/url] ~ [url=http://www.nationstates.net/page=un]THE WORLD ASSEMBLY[/url][/b]
-_____________________________________________________________________[/color]
+_____________________________________________________________________
 
-[b][color=purple][u]ALLIES:[/u]
+[b][u]ALLIES:[/u]
 1.[region]The Dominion of Ujjanistanian lords[/region]
 
 [i][UCR: Union of communist republics][/color]
