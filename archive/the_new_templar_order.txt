@@ -16,7 +16,6 @@ Secretary of Regional Affairs: [nation=short]Colorinia[/nation] [color=grey](M)[
 [u][color=darkred][b]The Imperial Senate [/b][/color][/u]
 
 Speaker: [nation=short]The Tropican States[/nation]
-Congressman: [nation=short]Sombay[/nation] [color=grey](M)[/color]
 Congressman: [nation=short]Shish Ka-bob[/nation] [color=darkblue](WH)[/color]
 Congressman: [nation=short]Allied Dominions[/nation] [color=grey](M)[/color]
 

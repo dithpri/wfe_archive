@@ -1,9 +1,9 @@
-[color=blue][b][u]GOVERNMENT:[/u]
+[color=red][b][u]GOVERNMENT:[/u]
 HEAD OF STATE: [nation=short]the united slavic tsardom[/nation]
 PRIME MINISTER: [nation=short]Nimmopia[/nation]
 MINISTER OF DEFENSE: [nation=short]Al safi[/nation]
 MINISTER OF FOREIGN AFFAIRS: [nation=short]Elgomeria[/nation]
-MINISTER OF INTERNAL AFFAIRS: [nation=short]The Soviet Slave State[/nation]
+MINISTER OF INTERNAL AFFAIRS: [nation=short]Anarcho-Communist Alduvia[/nation]
 _____________________________________________________________
 [url=http://www.youtube.com/watch?v=GxQ7GUEPsrU]OUR GREAT ANTHEM[/url] ~ [url=http://www.nationstates.net/nation=the_united_slavic_tsardom/detail=factbook/id=main]ABOUT THE UCR[/url] ~ [url=http://www.nationstates.net/page=un]THE WORLD ASSEMBLY[/url][/b]
 _____________________________________________________________________
@@ -12,4 +12,4 @@ _____________________________________________________________________
 1.[region]The Dominion of Ujjanistanian lords[/region]
 
 [i][UCR: Union of communist republics][/color]
-[color=gray]We accept embassies with all leftist regions.[/b][/color][/i]
+[color=gray]Please endorse our prime minister: [nation=short]Nimmopia[/nation], the cap is: 15[/b][/color][/i]

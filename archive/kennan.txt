@@ -2,16 +2,11 @@
 [url=http://goo.gl/p84x8]Kennan Map[/url] [b]|[/b] [url=http://goo.gl/snQJB]Neutral Island Map[/url] [b]|[/b] [url=http://goo.gl/rahj3]Kennan Offsite Forum[/url] [b]|[/b] [url=http://goo.gl/udLs4]Kennan Wiki[/url] [b]|[/b] [url=http://goo.gl/bJ3zN]In case of Technical Difficulties[/url]
 
 [color=purple][b]Kennan Regional Council[/b][/color]
-[url=http://goo.gl/rik0k]Resolution #28: Sentience and Intelligence[/url]
-[color=red][b]FOR:[/b] 11 (100%)
-[b]AGAINST:[/b] 0 (0%)[/color]
-
-[url=http://goo.gl/k0xwD]Resolution #29: Currency[/url]
-[color=red][b]FOR:[/b] 3 (55%)
-[b]AGAINST:[/b] 2.5 (45%)[/color]
-
 [url=http://goo.gl/kLBxh]Resolution #30: International Court[/url]
-[color=red][b]FOR:[/b] 9 (100%)
+[color=red]PASSED[/color]
+
+[url=http://goo.gl/sn3Ju]Resolution #31: Trade Routes[/url]
+[color=red][b]FOR:[/b] 7 (100%)
 [b]AGAINST:[/b] 0 (0%)[/color]
 
 [color=orange][b]Kennan Secretary Council[/b][/color]
@@ -22,8 +17,12 @@
 [b]Environment:[/b] [nation=short]United Solcialist States of Jakeopia[/nation]
 [b]Human Rights:[/b] [nation=short]Hackleberry Islands[/nation]
 
-[b][color=blue]Next Delegate Election[/color][/b]
+[color=blue][b]Next Delegate Election[/b][/color]
 Sunday, March 31
 [color=blue][b]Candidates[/b][/color]
 [list][*][nation=short]Sandwich Territories[/nation] (for re-election)
 [*][nation=short]Ethan Foley[/nation][/list]
+[b][url=http://goo.gl/uRR9t]WA Delegate Election here![/url][/b]
+
+[color=blue][b]SANDWICH:[/b] 4 (50%)
+[b]ETHAN FOLEY:[/b] 4 (50%)[/color]
