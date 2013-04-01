@@ -1,10 +1,10 @@
 Welcome to [region]The New Enclave[/region]! The Enclave shall live in prosperity and peace!
 
-[color=blue]president:[/color] [nation]the enclave1[/nation]
+[color=blue]King:[/color] [nation]the enclave1[/nation]
 
-[color=red]Vice-President:[/color] [nation]north america and Great Britain[/nation]
+[color=red]Queen:[/color] 
 
-[color=yellow]Secretary:[/color] [nation]New California Republic 20[/nation]
+[color=yellow]Secretary:[/color] [nation]North America and Great Britain[/nation]
 
 [color=green]Seceratary of Defense:[/color] [nation]The gods2[/nation]
 

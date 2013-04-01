@@ -6,17 +6,7 @@
 
 [b][color=blue]WORLD ALLIANCE GOVERNMENT[/color][/b]
 
-[b][color=gold]The Outgoing SECURITY COUNCIL[/color][/b]
-
-[b][color=lightgray]President[/color][/b] : [nation=short]Republic of Greater Broatia[/nation]
-
-[b][color=lightgray]Members[/color][/b] : [color=green][nation=short]Browera[/nation], [nation=short]Newasia[/nation], [nation=short]New-Zealand[/nation], 
-
-[nation=short]Stati Uniti d Europa[/nation], [nation=short]The United States of Schorr[/nation] [/color] 
-
-[hr]
-
-[b][color=gold]The Incoming SECURITY COUNCIL[/color][/b]
+[b][color=gold]The SECURITY COUNCIL[/color][/b]
 
 [b][color=lightgray]President[/color][/b] : [nation]New-Zealand[/nation]
 
@@ -24,8 +14,6 @@
 
 [nation=short]Stati Uniti d Europa[/nation], [nation=short]The United States of Schorr[/nation]
  [/color] 
-
-[hr]
 
 [b][color=gold]The COURT OF JUSTICE[/color][/b]
 

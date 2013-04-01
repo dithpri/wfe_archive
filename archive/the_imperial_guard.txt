@@ -10,7 +10,11 @@
 Minister of Immigration and Customs: ....[nation=short]Taikoku[/nation] 
 Minister of Defense and Intelligence: .....[nation=short]Dernovia[/nation]
 Minister of Entertainment: ....................[nation=short]Shnercropolis[/nation]
-Minister of the Interior: ........................N/A [hr][color=000080][b]Imperial Information[/b][/color]
+Minister of Finance: ........................N/A
+Minister of Public Safety: ........................N/A 
+Minister of Environment: ........................N/A
+Minister of Industry: ........................N/A [hr][color=000080][b]Imperial Information[/b][/color]
 
-[list][*]Congratulations to [nation=short]Varnya[/nation] for winning the position of Prime Minister! Welcome to our March season![/list]
+[list][*]Prime Minister [nation=short]Varnya[/nation] has announced new minister openings. Please feel free to apply.
+[*]Telegram [nation=short]Budisel[/nation] to run for Speaker.[/list]
 [hr]

@@ -1,3 +1,5 @@
+[b]===THE ZOMBIE INVASION HAS BEGUN===[/b]
+
 [b][color=red]Welcome to [region]Kwantonium[/region][/color][/b]
 
 [b]Executive Government[/b]
@@ -8,15 +10,9 @@ Deputy Prime Minister: [color=red]Vacant[/color]
 Lord Chief Justice: [color=red]Vacant[/color]
 
 [b]Administrative Government[/b]
-Ministry of Defence: [color=red]Vacant[/color]
+Ministry of Defence: [b][nation]Anzaba[/nation][/b]
 Ministry of International Development: [color=red]Vacant[/color]
 Ministry of Immigration: [color=red]Vacant[/color]
-Cartographer: [b][nation]Hothaba[/nation][/b], [color=red]Vacant[/color]
-
-[b]Court of Justice[/b]
-Lord Chief Justice: [color=red]Vacant[/color]
-Lord Justice: [color=red]Vacant[/color]
-Lord Justice: [color=red]Vacant[/color]
+Cartographer: [b][nation]Hothaba[/nation][/b]
 
 [b]All WA nations Endorse our WA Delegate [nation]United Newellian federation[/nation][/b]
-[u][b]Election will begin on 1 April 2013. You all have one day to campaign.[/b][/u]
