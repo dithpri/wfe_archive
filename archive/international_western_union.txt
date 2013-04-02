@@ -1,11 +1,11 @@
 [b][i][color=orange]IWU Regional Government:[/color][/i][/b]
-President: [nation=short]Fenburg[/nation] (vizindolf)
-Vice-President: [nation=short]Benoslovia[/nation] (rachara)
-Adviser: [nation=short]Rachara[/nation] 
+President: [nation=short]Vizindolf[/nation]
+Vice-President: [nation=short]Rachara[/nation]
+Adviser: [nation=short]Abacathea[/nation] 
 Secretary of Recruitment: [nation=short]GROSS Independency[/nation] 
 WA Vice-Delegate: [nation=short]Abacathea[/nation]
-Intelligence Group: [nation=short]Orgiana[/nation] (Head), [nation=short]Skeldistan[/nation], [nation=short]Ferreirastan[/nation], and [nation=short]Zetting Miran[/nation]
-Official Chairman: [nation=short]Kialga[/nation]
+Intelligence Group: [nation=short][/nation] (Head), [nation=short][/nation], [nation=short][/nation], and [nation=short][/nation] [b]IN PROGRESS[/b]
+Official Chairman: [nation=short]Kialga[/nation] [b]AWAITING[/b]
 [i]Ambassadorial Committee:[/i] [nation=short]Jhinara[/nation] (Head) &amp;amp; [nation=short]Mastana[/nation] [[nation=short]IWU Ambassador[/nation] &amp;amp; [nation=short]IWU Ambassador II[/nation]]
 [i]Justice Committee: President, WA Delegate, &amp;amp; Founder[/i]
 [i]Regional Congress~See Website[/i]

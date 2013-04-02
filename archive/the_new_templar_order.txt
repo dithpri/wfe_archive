@@ -1,6 +1,6 @@
-[u][color=darkred][b]The New Templar Order![/b][/color][/u]
+[u][b]The New Templar Order![/b][/u]
 
-Welcome to The New Templar Order! 
+[b][color=green]Zombie Refugees Welcomed![/b][/color]
 
 [u][color=darkred][b]The Government[/b][/color][/u]
 
@@ -19,7 +19,7 @@ Speaker: [nation=short]The Tropican States[/nation]
 Congressman: [nation=short]Shish Ka-bob[/nation] [color=darkblue](WH)[/color]
 Congressman: [nation=short]Allied Dominions[/nation] [color=grey](M)[/color]
 
-Defcon: [color=yelloW]ELEVATED[/color]
+Defcon: [color=red]SEVERE[/color]
 
 [color=darkred][b]Colonies[/color]: [region]Ralenn[/region], [region]New Templar Order Military Headquarters[/region], [region]Christendom[/region], [region]West Point[/region][/b]
 

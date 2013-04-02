@@ -11,4 +11,6 @@ Minister of Foreign Affairs: [i]Vacant[/i]
 --
 [color=orange][b][url=http://www.nationstates.net/page=world]Join the World Assembly today![/url][/b][/color]
 --
-DEFCON: [color=blue][b]5[/b][/color]
+[url=http://www.nationstates.net/page=zombie_control]Go to your zombie control page and pick the second option (find the cure)[/url]
+--
+DEFCON: [color=red][b]1[/b][/color]

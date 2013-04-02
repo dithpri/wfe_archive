@@ -6,8 +6,7 @@ Chain of Command
 Union Overseer: [nation=Linkazonia][/color]
 Minister of:
 [color=blue]War &amp;amp; Armaments: [nation=happ-evil]
-Foreign Affairs: [nation=Jewphobia]
-Law Enforcement: [nation=Jewphobia]
+Foreign Affairs &amp;amp; Law Enforcement: [nation=Jewphobia]
 Economy &amp;amp; Public Services: [nation=Banana Republic of Venezualia]
 Special Operations: [nation=Linkazonia][/b][/color]
 

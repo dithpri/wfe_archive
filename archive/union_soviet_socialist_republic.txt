@@ -8,4 +8,6 @@
 [nation=short]Nurburgring Nordschleife[/nation]
 [nation=short]SSS Bob Barker[/nation]
 [nation=short]Shiff[/nation]
-[nation=short]California Uber Alles[/nation][/b]
+[nation=short]California Uber Alles[/nation]
+[nation=short]The Revolutionary Capital North Korea[/nation]
+[nation=short]The Spetsnaz[/nation][/b]

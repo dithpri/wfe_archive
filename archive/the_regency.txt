@@ -1,9 +1,11 @@
 The Regency
 
-Tallies:
- Cotopia, 60 million, 31% infection rate
- Albicia, 199 million, 10% infection rate
- Havanah, 60 million, 32% infection rate
- Khaleesi, 14 million, 16% infection rate
- Connerland, 152 million, 16% infection rate
-
+Tallies: 
+ Cotopia, 98 million, 42% infection rate
+ Albicia, 201 million, 14% infection rate
+ Havanah, 98 million, 44% infection rate
+ Khaleesi, 12 million, 20% infection rate
+ Connerland, 255 million, 50% infection rate
+ Alynor, 12 million, 13%
+ El Salvadoria, 11 million, 5%
+ Catholic Cornwall, 282 million, 14%

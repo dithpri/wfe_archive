@@ -1,6 +1,7 @@
 [color=000666][b]The Philippines[/b]
 [/color][color=006600]
 REGION
-ALPHA: [region=the Papal States] - [b]The Philippines[/b] - [region=the Republic of Congo]
+ORDER: &amp;lt;&amp;lt; Pending -- The Philippines -- Pending &amp;gt;&amp;gt;
+ALPHA: &amp;lt;&amp;lt; [region=the Papal States] - The Philippines - [region=the Regiment] &amp;gt;&amp;gt;
 HOME: [region=Ionia], [region=Galapagos]
 ALLIED &amp;amp; ASSOCIATED: [region=United States of America][/color]

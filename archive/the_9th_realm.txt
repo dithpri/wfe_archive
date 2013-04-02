@@ -1,9 +1,14 @@
 We believe in citizens&amp;#39; enthropy.
 Human life, respect and order above all.
 
-Chancellor: [nation]Luxtitia[/nation]
-Super Secretary of Commerce: [nation]East Fabri[/nation]
-Secretary of Defence: [nation]Nachopoland[/nation]
-Secretary of Economy: [nation]Nambamba[/nation]
+[i]To your sons you shall tell the story
+About the zombies and the Apocalypse they drive
+And after beating your chest proudly
+Say &amp;quot;We, The 9th Realm, [b]Survived![/b]&amp;quot;[/i]
+
+Chancellor: [b][nation]Luxtitia[/nation][/b]
+Super Secretary of Commerce and Economy: [nation]East Fabri[/nation]
+Secretary of Defence: [nation]Regiras[/nation]
 Secretary of Education and Reality Affairs: [nation]Marthlandia[/nation]
+Secretary of Health: [nation]Kladeus[/nation]
 Secretary of Science: [nation]Perdiland[/nation]
