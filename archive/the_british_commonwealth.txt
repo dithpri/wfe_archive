@@ -1,12 +1,28 @@
-Monarch: Great Britain
-Governor General: Rt.Hon. Durvya
-Lt.Governor: Rt.Hon. Hantepore
-Chief of Cabinet and WA Affairs: Rt. Hon Malay Sultanate
-Office of the Prime Minister:Rt. Hon. Newfoundland and Labrador
-Deputy PM: Rt.Hon. Qatar
-Secretary of State for Foreign and Commonwealth Affairs: Rt. Hon. Techter
-Chancellor of the Exchequer: Rt.Hon. Middarys
-Secretary of State for the Home Department: Rt.Hon. Leigadon
-Secretary of State for Defense: Rt.Hon.New Zealand
-Secretary of State for Development: Rt.Hon. Ouebec
-Attorney General: Rt.Hon. Australia
+MONARCH: Great Britain
+
+GOVERNOR GENERAL: Rt.Hon. Durvya
+
+Lt. GOVERNOR: Rt.Hon. Hantepore
+
+CHIEF OF CABINET AND WA AFFAIRS: Rt. Hon Malay Sultanate
+
+PRIME MINISTER:Rt. Hon. Newfoundland and Labrador
+
+DEPUTY PM: Rt.Hon. Qatar
+
+SECRETARY OF STATE FOR FOREIGN AND COMMONWEALTH AFFAIRS: Rt. Hon. Techter
+
+CHANCELLOR OF THE EXCHEQUER: Rt.Hon. Middarys
+
+SECRETARY OF STATE FOR THE HOME DEPARTMENT: Rt.Hon. Leigadon
+
+SECRETARY OF STATE FOR DEFENCE: Rt.Hon.New Zealand
+
+SECRETARY OF STATE FOR DEVELOPMENT: Rt.Hon. Ouebec
+
+ATTORNEY GENERAL: Rt.Hon. Australia
+
+CHIEF ELECTION COMMISSIONER: British East India
+
+DIRECTOR GENERAL OF COMMONWEALTH INTELLIGENCE AGENCY - Hongkong ROC
+             

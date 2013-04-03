@@ -1,8 +1,9 @@
-[color=red][b]REPUBLIC OF THE GREAT REGION OF THE [region]UCR[/region]![/color][/b][color=purple][b]
+[color=red][b]REPUBLIC OF THE GREAT REGION OF THE [region]UCR[/region]![/color][/b][color=blue][b]
 ____________________________________________________________________________________
 
 [u]GOVERNMENT:[/u]
 PRESIDENT: [nation=short]czarist czardom of czardomia[/nation]
+VICE PRESIDENT: [u]open[/u]
 MINISTER OF DEFENSE: [u]open[/u]
 MINISTER OF FOREIGN AFFAIRS: [u]open[/u]
 ____________________________________________________________________________________

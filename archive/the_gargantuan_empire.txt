@@ -22,6 +22,6 @@ Senator: [nation=short+noflag]Hoytenstan[/nation]
 Department of Justice
 Int. Chief Justice: [nation=short+noflag]Papua New Craig[/nation]
 Justice: [nation=short+noflag]Equitador[/nation]
-Justice: [color=red]Vacant[/color]
+Justice: [nation=short+noflag]Vilkon[/nation]
 
 [url=http://www.gargantuanregion.webs.com]Click here to visit The Gargantuan Empire website![/url]

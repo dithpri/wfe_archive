@@ -10,7 +10,7 @@
 [b]Regional Senator: [/b][nation=short]Unified Legoland[/nation]
 [b]Immigration Executive: [/b][nation=short]Imyahistan[/nation]
 [b]Foreign Affairs Executive: [/b][nation=short]Nakyrozia[/nation]
-[b]Defense &amp;amp; Military Executive: [/b]AT VOTE
+[b]Defense &amp;amp; Military Executive: [/b][nation=short]The Swiss Empire[/nation]
 
 [b][color=blue]Announcements &amp;amp; News[/color][/b]
 - [color=green]New Rule Guide Coming Soon![/color]

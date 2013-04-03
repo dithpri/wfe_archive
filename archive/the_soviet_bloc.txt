@@ -16,12 +16,12 @@
 Foreign Affairs: [nation]Kavamkao[/nation]
 Security: [nation]The United Socalist States of America[/nation]
 Social Economics: [nation]United Greater France[/nation]
-Environment: [nation]Salinistan[/nation]
+Environment: Open
 Judicial Affairs: [nation]Divokl[/nation]
 Immigration: [nation]Contravian[/nation]
-Recruitment: Open
+Recruitment: [nation]Lunaka[/nation]
 [/color][/b]
 
 [hr]
 
-[color=blue][b]Current Topic: Protectorates Act and Immigration Act [/color][/b]
+[color=blue][b]Current Topic: Post-Apocalypse[/color][/b]

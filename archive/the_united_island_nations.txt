@@ -1,11 +1,13 @@
 Welcome!
 
-President and Minister of Finance and Public Transport - Vevillia
+President and Minister of Finance - [nation]Vevillia[/nation]
 
-Vice President and Minister of Defense, Law Enforcement and Zombie Control - Lys Myr and Tyrosh
+Vice President and Minister of Defense and Law Enforcement - [nation]Lys Myr and Tyrosh[/nation]
 
-Minister of Education, Health and Welfare - Princess Land
+Minister of Education, Health and Welfare - [nation]Princess Land[/nation]
 
-Minister of Climate Change and The Enviroment - Houlannd
+Minister of Climate Change and The Enviroment - [nation]Houlannd[/nation]
 
-Minister of Infrastructure - Mantarys
+Minister of Infrastructure - [nation]Mantarys[/nation]
+
+Minister of Public Transport - [nation]Shadowton[/nation]

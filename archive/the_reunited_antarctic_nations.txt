@@ -2,22 +2,18 @@
 
 [b][color=red]This region is made up of nations from the communist pact and the people&amp;#39;s socialist union[/color][/b]
 
-[color=orange]President:[/color][nation]Rolling Stonesia[/nation][hr]
+[color=orange]President:[/color][hr]
 
-[color=orange]Finance Minister:[/color][nation]New Cytopia[/nation][hr]
+[color=orange]Minister of Finance:[/color][hr]
 
-[color=orange]War Minister:[/color][nation]Kanggye[/nation][hr]
+[color=orange]Minister of War:[/color][hr]
 
-[color=orange]Nature Minister:[/color][nation]new cytopia[/nation][hr]
+[color=orange]Minister of Civil Services:[/color][hr]
 
-[color=orange]Civil rights Minister:[/color][nation]cortbuscus[/nation][hr]
+[color=orange]Foreign Diplomat:[/color][hr]
 
-[color=orange]Foreign Diplomat:[/color][nation]the sovereign leader[/nation][hr]
-
-[color=orange]Recruiter:[/color][nation]Rolling Stonesia[/nation][hr]
+[color=orange]Recruiter:[/color][hr]
 
 [b][color=red]These offices can propose laws that we will vote on later[/color][/b]
-
-[b][color=red]We are strictly communist[/color][/b]
 
 [b][color=orange]Weekly Challenge:getting ethan to play again.[/color][/b]
