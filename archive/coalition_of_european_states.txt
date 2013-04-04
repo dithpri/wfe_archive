@@ -3,8 +3,8 @@
 
 President: [nation]Kingiutari[/nation]
 
-Director of Regional Elections: *Appointment Pending*
-Director of Regional Development: *Appointment Pending*
+Director of Regional Elections: *Pending*
+Director of Regional Development: *Pending*
 
 [u]The Government[/u]
 
@@ -15,13 +15,8 @@ Minister of Defence: [nation]Hulkland[/nation]
 Minister of Home Affairs: [nation]The Math of Clarence[/nation]
 Minister of Foreign Affairs: [nation]United Teddy[/nation]
 
-
 [b]Events &amp;amp; News:[/b]
-
-&#149; [nation=short]Kingiutari[/nation] elected President.
-
-&#149; [i]Constitutional Convention[/i] in progress.
-
+&#149; [i]Constitutional Convention[/i] terminated.
 &#149; [i]Coalition Day[/i] &#150; 23rd August
-
-&#149; [i]Making Every Reform Great, Enlightening Recruits[/i] in progress. 
+&#149; [i]Making Every Reform Great, Enlightening Recruits[/i] in progress.
+&#149; Expansion of Factbook: [url=http://www.nationstates.net/nation=the_math_of_clarence/detail=factbook/id=110815]Link[/url]

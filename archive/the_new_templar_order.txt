@@ -19,7 +19,7 @@ Speaker: [nation=short]The Tropican States[/nation]
 Congressman: [nation=short]Shish Ka-bob[/nation] [color=darkblue](WH)[/color]
 Congressman: [nation=short]Allied Dominions[/nation] [color=grey](M)[/color]
 
-Defcon: [color=red]SEVERE[/color]
+Defcon: [color=green]LOW[/color]
 
 [color=darkred][b]Colonies[/color]: [region]Ralenn[/region], [region]New Templar Order Military Headquarters[/region], [region]Christendom[/region], [region]West Point[/region][/b]
 

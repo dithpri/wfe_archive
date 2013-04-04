@@ -4,6 +4,6 @@ Regional Government
 Minister of Defense: [nation]SSO[/nation]
 Minister of Foreign Affairs: [nation]The Western States Of Osacracy[/nation]
 Minister of Law: [nation]Sabrent[/nation]
-Minister of Intelligence: [nation]2ND AMENDMANT[/nation]
+Minister of Intelligence: [color=blue]Open for election[/color]
 Minister of Economics: [nation]The Zambola Federation[/nation]
 

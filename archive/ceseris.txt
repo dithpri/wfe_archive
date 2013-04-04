@@ -5,8 +5,8 @@ First Lord/Founder: [nation=noflag]Armud[/nation]
 First Lord: [nation=noflag]Pyravar II[/nation]
 
 [b]Heads of Government[/b]
-Prime Minister/President: [i]Unelected![/i]
-Deputy Prime Minister/Vice President: [i]Unelected![/i]
+Chancellor: [i]Unelected![/I]
+Vice Chancellor: [i]Unelected![/i]
 
 [b]Miscellaneous[/b]
 WA Delegate: [i]Unelected![/i]

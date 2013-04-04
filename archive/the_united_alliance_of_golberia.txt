@@ -15,10 +15,10 @@ Department of Sports: [nation]Wyldland[/nation]
 
 [u]DEFCON[/u]
 [color=Tomato]DEFCON 1[/color]
-[color=Orange]DEFCON 2[/color]
+[color=Orange]DEFCON 2[/color]&amp;lt;Current DEFCON
 [color=Yellow]DEFCON 3[/color]
 [color=Green]DEFCON 4[/color]
-[color=Blue]DEFCON 5[/color]&amp;lt;Current DEFCON
+[color=Blue]DEFCON 5[/color]
 
 [u]Stats (Updated 2013-03-21)[/u]
 Total Population: 16,670,000,000

@@ -6,14 +6,12 @@ Counselor: [nation]McContrag[/nation]
 
 [u]Legislature[/u]
 Prime Minister: [nation]Haltioiden[/nation]
+The Prime Minister can administer a vote, but any 
+nation may propose a vote and cast their vote once a vote is called.
 
 [u]Judiciary[/u]
 High Chief Justice: [nation]Haltioiden[/nation]
 Justice: [nation]Theoro[/nation]
 Justice: [nation]Hekima[/nation]
-
-Regions Supporting The Dominion In the Arrakine Civil War:
-[region]New Republica[/region] - Non-Combat Aid
-[region]The New Enclave[/region] - Yes
 
 The New Enclave and UEOA were united April 2nd 2013, in a royal wedding between Juno of the [nation]The Allied Empire Of Colombia[/nation] and the Lord of the New Enclave. As of that day, the New Enclave is now family with the UEOA, under the binding of the AEC.
