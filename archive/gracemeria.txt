@@ -25,6 +25,8 @@ Strategic Advisors:
 
 [nation]Frontline Soldiers[/nation]
 
+[nation]The Reapers Wolves[/nation]
+
 
 Special Units:
 [nation]The Gracemerian Zombie Response Force[/nation]

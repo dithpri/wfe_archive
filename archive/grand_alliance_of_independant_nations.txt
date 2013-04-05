@@ -5,13 +5,13 @@ The GAOIN Ambassador is currently placed within:The Sentient Hub
 Founder: [nation] The Empire of Christophosis [/nation]
 WA Delegate: [nation] The Empire of Christophosis[/nation]
 WA Vice-Delegate: [nation] The Republic of Linkobob [/nation]
-Minister of Defence:
+Minister of Defence:[nation] The Republic of Hugeland [/nation]
 Home Secretary:
 Foreign Secretary:
 Minister of Education:
 Minister of Health:
 Minister of Transport:
-Minister of Intelligence:
+Minister of Intelligence: [nation] The Republic of Linkobob [/nation]
 Minister of Taxation:
 Minister of Recrutment: Empire of Christophosis
 War Minister: N/A (Not at war)

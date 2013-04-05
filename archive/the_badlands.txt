@@ -6,9 +6,11 @@ CODES/PASSWORD:
 NOTIFICATIONS:
  All badland nations will be notified by telegram of updates in the badlands.
 
-ENDORSEMENTS: 
-If you want someone to be the wa delegate. Tell me that you are nominating them over the board.If I do not put them under the candidates send me a telegram telling me again.
+COLOR-CODES:
+GREEN-everything is fine.
 
-W.A. CANDIDATES: so far...
-#1. Hyrule1
-Nominate yourself or a friend to be the second in command...
+YELLOW-suspicious things are going on, watch out.
+
+RED-we are under attack.
+
+BLACk-we have been overrun.

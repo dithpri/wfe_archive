@@ -2,10 +2,4 @@
 [/color][color=0095B6]
 &#149; Former British Crown Colonies that have not become independant.
 &#149; Associated with [region=Great Britain and Northern Ireland]
-[/color][color=004626]
-REGION
-&#149; a [region=Galapagos] region
-&#149; [b]Created:[/b] March 18, 2011
-&#149; [b]Caretaker:[/b] [nation=short]Royal House of Windsor[/nation]
-&#149; [b]Alliance Sorting Region:[/b] [region=Western Samoa][/color]
-[hr][color=red][b]DO NOT RECRUIT HERE[/b][/color][hr]
+[/color]

@@ -4,26 +4,25 @@
 
 [b][color=red]Administration:[/color][/b]
 
-[b][color=grey]President:[/color][/b] [nation=short]Greater Islamic Empire of Pakistan[/nation]
+[b][color=black]President:[/color][/b] [nation=short]Greater Islamic Empire of Pakistan[/nation]
 
-[b][color=grey]Prime Minister:[/b][nation=short]Western Arab Empire[/nation] [/color][color=red](Interim)[/color]
+[b][color=black]Prime Minister:[/b] [nation=short]Western Arab Empire[/nation] [/color]
 
-[b][color=grey]Head of Regional Assembly:[/color][/b][nation=short]Rehbran[/nation]
+[b][color=black]Head of Regional Assembly:[/color][/b] [nation=short]Rehbran[/nation]
+
+[b][color=red]Cabinet:[/color][/b]
+
+[b][color=black]Minister of Defence:[/color][/b] [nation=short]United Azawad[/nation]
+
+[b][color=black]Minister of Judicial Affairs:[/color][/b] [nation=short]Mishalle[/nation]
+
+[b][color=black]Minister of Foreign Affairs:[/color][/b] [nation=short]Nomadic sister of shawnas north africa[/nation]
+
+[b][color=black]Minister of Internal Affairs:[/color][/b] [nation=short]Al Meajilia[/nation]
+
+[b][color=black]Minister of Religious Affairs:[/color][/b] [nation=short]Western Arab Empire[/nation]
 
 
-[b][color=grey]Minister of Defence:[/color][/b][nation=short]United azawad[/nation]
-
-[b][color=grey]Minister of Judicial Affairs:[/color][/b][nation=short]Western Arab Empire[/nation]
 
 
 [url=http://unitedempireislam.boards.net/index.cgi][color=green]Freely express your views, ideas, and opinions at our[/color] Forum[/url]
-
-
-[b][url=http://unitedempireislam.boards.net/thread/137/general-elections-5th-april-2013]General Elections have begun!, Click Here to vote![/url][/b]
-
-[url=http://unitedempireislam.boards.net/thread/144/ad-efficient]Election Promo Video[/url]
-
-[b][u] Candidates for the election[/u][/b]
-
-[b][nation=short]Western Arab Empire[/nation] of the Islamic Unity League
-[nation=short]United Azawad[/nation] of the Muslim Defense League[/b]

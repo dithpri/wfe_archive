@@ -11,6 +11,7 @@ Economy &amp;amp; Public Services: [nation=Banana Republic of Venezualia]
 Special Operations: [nation=Linkazonia][/b][/color]
 
 Capital: Marinov, Galkin Oblast, Chermania
-Dictator: Mikhail Rubin
-Overseer: Yuri Antonov
+Leader: Mikhail Rubin
+Overseer: Eldar Kharmanov
+Chermanian President: Yuri Antonov
 General of the CUAF: Vladimir Galkin

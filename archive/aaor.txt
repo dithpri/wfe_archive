@@ -11,15 +11,14 @@ Founder: [nation]Agrigal The Second[/nation]
 [u][b]CURRENT MEMBERS:[/b][/u]
 
 [region]Islands of The Glorious Freedom[/region]
-[region]The United Lands[/region]
+[region]The United Lands[/region] (CTE)
 [region]ACA[/region]
 [region]Ecnavian Federation[/region] 
-[region]Jesuitopolis[/region]
+[region]Jesuitopolis[/region] (CTE)
 [region]Fraca[/region]
-[region]Theramore[/region]
+[region]Theramore[/region] (CTE)
 [region]Intergalactic Federacy[/region]
 [region]Tychrome[/region] 
-[region]Bermuda Triangle[/region]
 [region]The Vintagionian Empire[/region]
 [region]Sovereign Commonwealth of McQuaid[/region]
 [region]The Allied Epic Nations[/region]

@@ -7,11 +7,12 @@ In [region]Mare Fortuna[/region], we are about to set up a democratic government
 - Vice President of [region]Mare Fortuna[/region]
 - Assistant Nation (introduces new members to [region]Mare Fortuna[/region]) 
 
-Founder of [region]Mare Fortuna[/region]: [nation]La Asturiana[/nation]
-
 President: [nation]La Asturiana[/nation]
+
+[color=red]Allied Regions: [region]Occitania[/region][/color]
 
 We are ready to welcome you all and hope that you will have a good time in [region]Mare Fortuna[/region]! Please feel free to contact us via a telegram for any more information and help!
 
 Sincerely,
               [nation]La Asturiana[/nation]
+

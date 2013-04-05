@@ -14,14 +14,14 @@
 [b][color=red]Soviet Bloc Politics:
 
 Foreign Affairs: [nation]Kavamkao[/nation]
-Security: [nation]The United Socalist States of America[/nation]
+Security: [nation]Alak-Kazanistahn[/nation]
 Social Economics: [nation]United Greater France[/nation]
-Environment: Open
-Judicial Affairs: [nation]Divokl[/nation]
+Environment: [nation]Divokl[/nation]
+Judicial Affairs: Open
 Immigration: [nation]Contravian[/nation]
 Recruitment: [nation]Lunaka[/nation]
 [/color][/b]
 
 [hr]
 
-[color=blue][b]Current Topic: Post-Apocalypse[/color][/b]
+[color=blue][b]Current Topic: The Mentorship Act[/color][/b]
