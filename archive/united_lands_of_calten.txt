@@ -11,6 +11,7 @@
 
 Regional Alert System - [color=green] Green:[/color] All Clear.[color=yellow] Yellow:[/color] On Alert.[color=orange] Orange:[/color] Threat of an Attack.[color=red] Red:[/color] Under Attack!
 
+Current Level: [color=green] Green. [/color]
 
 
 

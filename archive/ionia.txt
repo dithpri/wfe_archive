@@ -2,10 +2,7 @@
 
 [/color][color=006660]
 REGION[list]&#149; This is our [b]HOME PUPPET REGION[/b] &#149;
-ORDER: &#149;&#149;&#149; [region=Danmark] &#135;//&#135; [b]Ionia[/b] &#149; [region=New Delian League] &#149;&#149;&#149;
-ALPHA: &#149;&#149;&#149; [region=InterGalactica] &#149; [b]Ionia[/b] &#149; [region=Iowa] &#149;&#149;&#149;
-ASSOCIATED WITH: &#149; [region=United States of America] &#149;
-CARETAKER: &#149; [nation=short]Royal House of Windsor[/nation] &#149;[/list]Handy Tools:[list]&#149; [url=http://nsdossier.texasregion.net/]Dossier Tools[/url] (from [region=Texas])
+ASSOCIATED WITH: &#149; [region=United States of America] &#149;[/list]Handy Tools:[list]&#149; [url=http://nsdossier.texasregion.net/]Dossier Tools[/url] (from [region=Texas])
 &#149; [url=http://forum.nationstates.net/viewtopic.php?f=16&amp;amp;t=74486]ONE STOP RULES[/url]
 &#149; http://www.nationstates.net/page=faq
 &#149; http://www.nationstates.net/page=boneyard[/list][/color][color=660006]

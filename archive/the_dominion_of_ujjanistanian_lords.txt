@@ -1,13 +1,12 @@
-[Color=blue]We extend a warm welcome to all those who wish to settle in our region, where you can join the army, the government if seats are open, you may also become an ambassador to fellow regions.[/color]
-
-[Color=red]Governor:[/color] [nation=short]kanatistan[/nation] Imperialist Party ~ please endorse
+[Color=blue]We extend a warm welcome to all those who wish to settle in our region, where you can join the army, the government if seats are open, you may also become an ambassador to fellow regions.[/color] [hr]
+[Color=red]Governor:[/color] [nation=short+noflag]kanatistan[/nation] Imperialist Party ~ please endorse
 [Color=red]Secretary of War:[/color] none
-[Color=red]Secretary of Foreign Affairs:[/color] [nation=short]paleocacher[/nation] Imperialist Party
-[color=red]Secretary of Regional Affairs:[/color] [nation=long]sloviakia[/nation] Democratic Party
-[color=red]Reporter:[/color] none
-
+[Color=red]Secretary of Foreign Affairs:[/color] [nation=short+noflag]paleocacher[/nation] Imperialist Party
+[color=red]Secretary of Regional Affairs:[/color] [nation=short+noflag]sloviakia[/nation] Democratic Party [hr]
+[color=red]supreme judge[/color] [nation=short+noflag]the independent state of Wisconsin[/nation] - Democratic Party
+[color=red]Judge(s)[/color] [nation=short+noflag]ujjanistan[/nation] - nazi party
+[color=red]Reporter:[/color] none [hr]
 [color=blue]National Song: KITAB ALLAH (The Book of Allah)[/color]
-[color=blue]National Religion: Islam[/color]
-
-[color=purple]Trading and military agreements made with [region]the new Templar order[/region] [region]the united governments of the world[/region] [region]Iran[/region] [region]UCR[/region] [region]leadersofgreece[/region] [region]the communist region[/region][/color]
-[color=purple]Outposts: [region]zelda[/region] [region]lost outpost[/region] [region]gardena[/region] [region]tdul fall back head quarters[/region] [/color]
+[color=blue]National Currency: the Pound[/color]
+[color=blue]National Religion: Islam[/color] [hr]
+[color=purple]Outposts: [region]zelda[/region] [region]lost outpost[/region] [region]gardena[/region] [region]tdul fall back head quarters[/region] [region]the united governments of the world[/region] [/color]

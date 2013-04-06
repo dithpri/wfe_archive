@@ -1,15 +1,1 @@
-[color=800000][b]Iwo Jima[/b]
-[/color][color=177245]
-REGION
-Currently testing this region . . .
-
-[b]an [nation=short+noflag]Elliston[/nation] Allied Region[/b]
-. . . PENDING . . .
-. 8 [region=the Cayman Islands]
-. 9 [region=Tuscany]
-.10 [region=Sverige]*
-.11 [region=War Room]
-.12 [region=Balochistan]
-. . . PENDING . . .
-* Just seeing if I want to place this region before Sverige or not[/color][color=800000]
-[b]Please, do not recruit here[/b][/color]
+[color=800000][b]Iwo Jima[/b][/color]

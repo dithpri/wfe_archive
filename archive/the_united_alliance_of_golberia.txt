@@ -9,8 +9,9 @@ Founder: [nation]Colland[/nation]
 Official World Assembly Delegate: [nation]Saggitarius[/nation]
 Official Vice World Assembly Delegate: Position Not Held
 Department of Defense: [nation]Lycan fang[/nation]
+Department of Offense: [nation]Terrisyia[/nation]
 Department of Trade: [nation]Laser land[/nation]
-Department of Foreign Alliances: [nation]Eratova[/nation]
+Department of Foreign Alliances: Position Not Held
 Department of Sports: [nation]Wyldland[/nation]
 
 [u]DEFCON[/u]
@@ -19,10 +20,3 @@ Department of Sports: [nation]Wyldland[/nation]
 [color=Yellow]DEFCON 3[/color]
 [color=Green]DEFCON 4[/color]
 [color=Blue]DEFCON 5[/color]
-
-[u]Stats (Updated 2013-03-21)[/u]
-Total Population: 16,670,000,000
-Average Population: 980,588,235
-Gross Regional Product(In NSD): $487,480,048,320,000,000
-GRP Per Capita(In NSD): $2,924,298
-Regional Average GDP(In NSD): $286,752,960,000,000

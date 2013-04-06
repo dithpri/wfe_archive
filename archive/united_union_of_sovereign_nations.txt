@@ -4,12 +4,13 @@ Welcome to the United Union of Sovereign Nations. We are a Union devoted to sove
 [hr]
 Union Government Head
 
- [b]Chancellor:[/b] The Federation of Volkshalle
- [b]Vice Chancellor:[/b] The Republic of Vissaria
- [b]Ministry of Activity:[/b] Position Open
+ [b]Chancellor:[/b] [nation]Volkshalle[/nation]
+ [b]Vice Chancellor:[/b] [nation]Vissaria[/nation]
+ [b]Minister of Activity:[/b] [nation]Anfrancia[/nation]
+ [b]Ambassador(s):[/b] Position(s) Open
 
 [hr]
 
-[b]Status:[/b] Election discussions on Ministry of Activity have commenced.   
+[b]Status:[/b] Election discussion has reached its end. Congratulations Anfrancia, to your skilled winning in the M.A. elections.
 
 [b]Code:[/b] [color=green]GREEN[/color]  (No risk)

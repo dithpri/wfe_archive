@@ -2,16 +2,16 @@
 
 [b][color=red]This region is made up of nations from the communist pact and the people&amp;#39;s socialist union[/color][/b]
 
-[color=orange]President:[/color][hr]
+[color=orange]President:[nation=short]the sovereign leader[/nation][/color][hr]
 
-[color=orange]Minister of Finance:[/color][hr]
+[color=orange]Minister of Finance:[nation=short]cortbuscus[/nation][/color][hr]
 
-[color=orange]Minister of War:[/color][hr]
+[color=orange]Minister of War:[nation=short]kanggye[/nation][/color][hr]
 
-[color=orange]Minister of Civil Services:[/color][hr]
+[color=orange]Minister of Civil Services:[nation=short]new cytopia[/nation][/color][hr]
 
-[color=orange]Foreign Diplomat:[/color][hr]
+[color=orange]Foreign Diplomat:[nation=short]rolling stonesia[/nation][/color][hr]
 
-[color=orange]Recruiter:[/color][hr]
+[color=orange]Recruiter:[nation=short]rolling stonesia[/nation][/color][hr]
 
 [b][color=red]Our officers should not hesitate to suggest any regional improvements in any way that we can vote on.[/color][/b]

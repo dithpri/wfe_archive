@@ -14,14 +14,14 @@
 [b][color=red]Soviet Bloc Politics:
 
 Foreign Affairs: [nation]Kavamkao[/nation]
-Security: [nation]Alak-Kazanistahn[/nation]
+Security: Vacant
 Social Economics: [nation]United Greater France[/nation]
 Environment: [nation]Divokl[/nation]
-Judicial Affairs: Open
+Judicial Affairs: [nation]Cornonor[/nation]
 Immigration: [nation]Contravian[/nation]
 Recruitment: [nation]Lunaka[/nation]
 [/color][/b]
 
 [hr]
 
-[color=blue][b]Current Topic: The Mentorship Act[/color][/b]
+[color=blue][b]Current Topic: Departure of Alak-Kazanistahn[/color][/b]

@@ -12,16 +12,12 @@ Lt. Governor: [nation=short+noflag]Klacik[/nation]
 
 [b][u]Legislative Branch[/u][/b]
 Senate
-President: [nation=short+noflag]Virgo[/nation]
-Senator: [nation=short+noflag]Brutii Rebels[/nation]
-Senator: [nation=short+noflag]Vispariti[/nation]
-Senator: [nation=short+noflag]Gorkhabhumi[/nation]
-Senator: [nation=short+noflag]Hoytenstan[/nation]
+[color=red]Don&amp;#39;t forget to vote, if you are a member of the WA, in today&amp;#39;s Midterm Election![/color]
 
 [b][u]Judicial Branch[/b][/u]
 Department of Justice
 Int. Chief Justice: [nation=short+noflag]Papua New Craig[/nation]
-Justice: [nation=short+noflag]Equitador[/nation]
-Justice: [nation=short+noflag]Vilkon[/nation]
+Justice: [nation=short+noflag]Hoytenstan[/nation]
+Justice: [nation=short+noflag]Vispariti[/nation]
 
 [url=http://www.gargantuanregion.webs.com]Click here to visit The Gargantuan Empire website![/url]

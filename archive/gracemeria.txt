@@ -29,8 +29,10 @@ Strategic Advisors:
 
 
 Special Units:
+[nation]The Gracemeria Honor Guard[/nation] 
+
+
 [nation]The Gracemerian Zombie Response Force[/nation]
-
-
+ 
 
 

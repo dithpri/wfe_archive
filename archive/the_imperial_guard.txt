@@ -4,7 +4,7 @@
 
 [color=Black][b]Imperial Emperor:[/b] ......[nation=short]Budisel[/nation]
 [b]Prime Minister:[/b] ...........[nation=short]Varnya[/nation]
-[b]Speaker:[/b] ....................[nation=short]Ginkersnort[/nation]
+[b]Speaker:[/b] ....................[nation=short]Wiendonia[/nation]
 [b]Honorable Judge:[/b] ........[nation=short]Pannau[/nation][/color]
 
 Minister of Immigration and Customs: ....[nation=short]Taikoku[/nation] 
@@ -15,6 +15,5 @@ Minister of Public Safety: ........................N/A
 Minister of Environment: ........................N/A
 Minister of Industry: ........................N/A [hr][color=000080][b]Imperial Information[/b][/color]
 
-[list][*]Prime Minister [nation=short]Varnya[/nation] has announced new minister openings. Please feel free to apply.
-[*]Telegram [nation=short]Budisel[/nation] to run for Speaker.[/list]
+[list][*]Prime Minister [nation=short]Varnya[/nation] has announced new minister openings. Please feel free to apply.[/list]
 [hr]
