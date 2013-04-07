@@ -1,7 +1,9 @@
-[color=654321][b]Royal American[/b]
+[color=3C3C6E][b]Royal American[/b]
 
-REGION
+REGION[list]
 [b]founded:[/b] March 05, 2012
-a [region=Beijing] region
-This is a puppet holding region associated with [region=Western Samoa].
-We no longer trade nations, but if you are dumping a nation, I will accept your offer.[hr][b]Comments and Questions | Contact [nation=short]Royal House of Windsor[/nation][/b][/color][hr][color=red]///// [b]Please, Do Not Recruit Here[/b] \\\\\[/color][hr]
+a [region=Royal Alliance] allied region
+This is a puppet holding region associated with [region=United States of America].
+We no longer trade nations, but if you are dumping a nation, I will accept your offer.
+[b]Comments and Questions | Contact [nation=short]Royal House of Windsor[/nation][/b][/color]
+[color=B22234]///// [b]Please, Do Not Recruit Here[/b] \\\\\[/color][/list]

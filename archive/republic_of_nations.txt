@@ -1,6 +1,7 @@
-[color=800040][b]Republic of Nations[/b]
+[color=3c3b6e][b]Republic of Nations[/b]
 &sect;
-&para;  Found this region name stuck on a list at [b]Tag:[/b] &#147;Minuscule&#148; where it has been for quite some time, dead to the world. &laquo;
+&para;  Found this region name stuck on a list at [b]Tag:[/b] &#147;Minuscule&#148; 
+&raquo; where it has been for quite some time, dead to the world. &laquo;
 &sect;
 &para;  Wonder why these few dozen regions are dead on that list? &laquo;[/color]
-[color=f8f8ff]&raquo; [b]Founded:[/b] Jan. 10th, 2012 (9 pm game time)[/color][hr][color=000080][b]TESTING[/b] - Password in place.[/color][hr]a [region=Royal Alliance] region
+[color=006600]&raquo; [b]Founded:[/b] Jan. 10th, 2012 (9 pm game time)[/color][hr][color=b22234][b]TESTING OVER[/b] - Password removed.[/color][hr]a [region=United States of America] region

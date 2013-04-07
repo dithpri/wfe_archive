@@ -1,6 +1,10 @@
-Royal Alliance
-
-a [region=Galapagos] region[hr]a [nation=short]Royal House of Windsor[/nation]/[nation=short]Elliston[/nation] region[hr]this region is not associated with [region=The Royal Alliance][hr]Associate Regions: 
-&#149; [region=Galapagos] (Current Prime Region)
-&#149; [region=Rio de Janeiro] (Previous Prime Region]
-&#149; [region=0000] (an ancient prime region)
+[color=3C3C6E][b]Royal Alliance[/b][list]an [region=Ionia] / [region=Great Britain and Northern Ireland] / [region=United States of America] region
+a [nation=short]Royal House of Windsor[/nation]/[nation=short]New Falham[/nation] region
+this region is not associated with [region=The Royal Alliance]
+Associated Regions include: 
+&#149; [region=Ionia] -- Home Region
+&#149; [region=Galapagos] -- Previous Home Region
+&#149; [region=United States of America] -- Allied Region
+&#149; [region=0000] -- Old Home Region
+&#149; Other Associated Regions: [region=South China Sea] - [region=Western Samoa]
+| Really too many regions to list properly here |[/list][/color]

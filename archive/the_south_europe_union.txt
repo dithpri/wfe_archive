@@ -1,9 +1,10 @@
 Southern European Nations here. This Region is Anti-Fascist and economically left leaning. We strive to achieve the ultimate [color=red]Socialistic Goal![/color] We provide security, and hope for a better future. We care about our citizens!
 
-[u]Regional Superpower:[/u] [nation]Altaslavia[/nation]
-[u]Minister of Internal Security:[/u] [nation]LordWaverly[/nation]
-[u]Minister of Defence:[/u] [nation]Fedralstan[/nation]
-[u]Minister of Agriculture, Transport, Welfare:[/u] [nation]Kazakhslavia[/nation]
-[u]Minister of Foreign Affairs:[/u] [nation]Fulminata-Legion XII[/nation]
-[u]Regional Currency:[/u] The Drachma
-[u]Regional Capital (Rotating):[/u]Burn [nation]The Neutral Swiss[/nation]
+[u]Minister of Internal Security:[/u] No Minister 
+[u]Minister of Defence:[/u] No Minister 
+[u]Minister of Public Welfare:[/u] No Minister
+[u]Minister of Foreign Affairs:[/u] No Minister
+[u]Minister of Economics:[/u] No Minister
+
+Regional Capital (Rotating): Burn [nation]The Neutral Swiss[/nation]
+

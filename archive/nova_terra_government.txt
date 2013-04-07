@@ -9,4 +9,4 @@ Representant: [nation]Dragoneon[/nation]
 [nation]Dragoneon[/nation] ([b]Foreign Affairs[/b])
 [nation]Phiseria[/nation] ([b]Economy and Commerce[/b])
 [nation]Unified Free Zones[/nation] ([b]Health[/b])
-(temporary) [nation]Mattville Islands[/nation] ([b]Culture and Tourism[/b])
+[nation]Mattville Islands[/nation] ([b]Culture and Tourism[/b])
