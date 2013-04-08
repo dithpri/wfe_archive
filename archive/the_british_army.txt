@@ -1,25 +1,4 @@
-This region is the military base of [region]The New British Empire[/region]. 
+[b]This region is the military base for the Army of [region]The New British Empire[/region].
 
-[b][u][color=blue]Ranks[/b][/color][/u]
-
-[b]Field Marshal [nation=short]TBA Field Marshal[/nation]
-General
-Lieutenant-General
-Major-General
-Brigadier
-Colonel [nation=short]Nickstrailia[/nation]
-Lieutenant-Colonel
-Major
-Captain
-Lieutenant
-Second Lieutenant
-Warrant Officer. Class 1
-Warrant Officer. Class 2
-Staff Sergeant
-Sergeant
-Corporal [nation=short+flag]Brition[/nation] - Ceremonial
-Lance Corporal
-Private
-[/b]
-
-[b][color=blue]RULE BRITANNIA![/b][/color]
+[url=http://www.nationstates.net/nation=tba_field_marshal/detail=factbook/id=112385]View captured territories here[/url] 
+[url=http://www.nationstates.net/nation=tba_field_marshal/detail=factbook/id=51229]View ranks here[/url][/b]

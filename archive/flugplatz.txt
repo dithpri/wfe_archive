@@ -1,0 +1,17 @@
+[b][color=red]The [region]Flugplatz[/region] (Translation: Airfield) is the military base of the Luftwaffe of The [region]Reich[/region].[/color]
+
+Chef der Wehrmacht:
+[nation=short]Deutches Reich[/nation]
+
+Kommandant:
+[nation=short]Great Holy Prussia[/nation]
+
+Truppen:
+[/b]
+
+
+[i]All civillians move to the [region]Reich[/region], or risk ejection.[/i]
+
+[color=blue][i]Only active WA personal and military puppets are permitted access to reside in this region.[/i][/color]
+
+[b][u]HEIL![/u][/b]

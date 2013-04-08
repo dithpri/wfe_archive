@@ -1,7 +1,5 @@
-Terrain:  Sub-Arctic grasslands, interspersed with sparse forests and craggy mountains
+Terrain type:  tundra, grassland steppes, and taiga forests
 
-Average Temp:  67 (July), -75 (January)
+Climate:  Short, cool summers and long, cold winters
 
-Resources:  Precious metals, fossil fuels, gemstones, foodstuffs
-
-Manliness Rating:  Infinity +1
+Resources:  mineral, metal, gemstones, oil, freshwater

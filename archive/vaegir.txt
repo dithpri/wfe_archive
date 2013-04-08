@@ -1,9 +1,7 @@
 A vast landmass that varies from sprawling forests to desolate wastes. Many powerful governments flourish here and, while they differentiate in many ways, they manage to maintain a mutual respect for each other. To join this region is a great honor.
 
 Founder: [nation]Murphoria[/nation]
-Chairman of Defense: [nation]Aethylthryth[/nation]
-Chairman of Health and Human Services: [nation]New Seleno[/nation]
-Chairman of Science: [nation]Tassadon[/nation]
-Chairman of Foreign Relations: [nation]Mozhno[/nation]
+Chairman of Defense: [nation]Kleptonicon[/nation]
+Chairman of Health and Human Services: [nation]Elsadine[/nation]
 
 Economic Information: [url=http://nseconomy.thirdgeek.com/nseconomy.php?region=Vaegir]Right Here[/url]

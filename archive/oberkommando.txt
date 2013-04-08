@@ -1,0 +1,22 @@
+[b][u]The [region]Reich[/region]s Oberkommando (supreme command)[/u]
+
+[color=red]Reichsmarschall: [nation=short]Die Volkes Lebensraum[/nation][/color]
+
+[u]Wehrmacht (Military)[/u]
+
+[color=red]Chef der Wehrmacht:[nation=short]Deutches Reich[/nation]
+Chef der Heer:[nation=short]Future German Reich[/nation]
+Chef der Kriegsmarine:[nation=short]Vacant[/nation]
+Chef der Luftwaffe:[nation=short]Great Holy Prussia[/nation]
+Chef der Schutzstaffel:[nation=short]The German Socialist Union[/nation][/color]
+
+[u]Zivilist (Civillian)[/u]
+
+[color=red]Reichspropagandaminister:[nation=short]Vecta[/nation]
+Justizminister:[nation=short]New Finnland[/nation]
+Minister der Rekrutierung:[nation=short]Vacant[/nation][/color]
+
+If interested in a vacant position contact [nation]Die Volkes Lebensraum[/nation], however you must reside in [region]Reich[/region].
+
+[color=red][i][u]HEIL![/u][/i][/color][/b]
+

@@ -3,14 +3,14 @@
 [color=red][i]The [region]Reich[/region] is a region [u]made by[/u] National Socialist/Fascist nations [u]for[/u] National Socialist/Fascist nations[/i][/color]
 
 
-[b][u]The [region]Reich[/region]&amp;#39;s Oberkommando[/u]
-[color=red]Reichsmarschall:[nation=short]Die Volkes Lebensraum[/nation]
-Chef der Wehrmacht:[nation=short]Deutches reich[/nation]
-Reichsdelegate:[nation=short]Croacs[/nation][/color]
+[b][region]Oberkommando[/region]
+[region]Kaserne[/region]
+[region]Hafen[/region]
+[region]Flugplatz[/region]
+[region]Haus Der Schutzstaffel[/region]
 
 Endorse Reichsdelegate [nation=short]Croacs[/nation] and [u]nobody[/u] else.[/b]
 
-[i]Move all military puppets to [region]Kaserne[/region].[/i]
 [i]Contact [nation=short]Deutches reich[/nation] if interested in joining the Wehrmacht.[/i]
 
 [color=purple]Current Discussion Topic:[/color] Organisation.

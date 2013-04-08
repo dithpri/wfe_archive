@@ -4,7 +4,7 @@ Vice President: Haemo
 Regional Guard: None
 WA Delegate: None
 Recruiting Officer: Beyond The Beyond
-Minister of Foreign Affairs: None
+Minister of Foreign Affairs: [nation] The Republic of Mojopore [/nation]
 
 Allies: The Republic of Derp
 
@@ -18,4 +18,4 @@ PRESIDENTIAL ELECTIONS ARE ONGOING.
 
 Runners: [nation]The United States of Western Ageena[/nation] and [nation]Hrathgar Glacier[/nation]
 
-Current election status. Hrathgar Glacier has one vote. 
+Current election status. Hrathgar Glacier has one vote. The United States of Western Ageena has two votes.
