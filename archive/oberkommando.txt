@@ -12,8 +12,9 @@ Chef der Schutzstaffel:[nation=short]The German Socialist Union[/nation][/color]
 
 [u]Zivilist (Civillian)[/u]
 
-[color=red]Reichspropagandaminister:[nation=short]Vecta[/nation]
-Justizminister:[nation=short]New Finnland[/nation]
+[color=red]Reichsdelegate:[nation=short]Croacs[/nation]
+Reichspropagandaminister:[nation=short]Vecta[/nation]
+Justizminister:[nation=short]Vacant[/nation]
 Minister der Rekrutierung:[nation=short]Vacant[/nation][/color]
 
 If interested in a vacant position contact [nation]Die Volkes Lebensraum[/nation], however you must reside in [region]Reich[/region].

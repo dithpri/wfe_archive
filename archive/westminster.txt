@@ -1,10 +1,1 @@
 [color=654321][b]Westminster[/b][/color]
-[color=008B8B]
-REGION
-[b]Allied Region of [nation=short]Elliston[/nation][/b]
-ORDER: [region=Balochistan], Westminster, [region=South Georgia]
-ALPHA: [region=Western Samoa], Westminster, [region=Windsor]
-ASSOCIATE: [region=United States of America]
-HOME: [region=Ionia]
-[/color][color=800000]
-[b]Please, do not recruit here[/b][/color]

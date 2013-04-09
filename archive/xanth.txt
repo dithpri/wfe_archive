@@ -1,8 +1,4 @@
-[color=red]All nations must endorse the Emperor [nation]Awas[/nation][/color]
-
-[color=blue]Emperor:[nation]Awas[/nation]
-Heir to the throne:[nation]Ibwa[/nation]
-Prime minister:[nation]fontoria[/nation][/color]
+Prime minister:[nation]fontoria[/nation]
 
 [b][color=brown]Regional Ministers and advisers:[/color][/b]
 [color=orange]Minister of Trade: 

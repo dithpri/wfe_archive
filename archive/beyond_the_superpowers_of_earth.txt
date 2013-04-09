@@ -4,7 +4,7 @@ Vice President: Haemo
 Regional Guard: None
 WA Delegate: None
 Recruiting Officer: Beyond The Beyond
-Minister of Foreign Affairs: [nation] The Republic of Mojopore [/nation]
+Minister of Foreign Affairs: [nation]The Republic of Mojopore[/nation]
 
 Allies: The Republic of Derp
 

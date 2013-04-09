@@ -1,16 +1,20 @@
-CODES/PASSWORD:
+[Color=green]CODES/PASSWORD:
 #1. do not pass around the code
 #2. You will be ejected if you give out the code
 #3. protect the code at all costs
+[/color]
 
-NOTIFICATIONS:
+[Color=green]NOTIFICATIONS:[/color]
  All badland nations will be notified by telegram of updates in the badlands.
 
-COLOR-CODES:
-GREEN-everything is fine.
+[Color=green]SUGGESTIONS:[/color]
+We would like to look professional so we highly recommend all members join the W.A.
 
-YELLOW-suspicious things are going on, watch out.
+[Color=green]COLOR-CODES:[/color]
+[Color=blue]BLUE-all is well in the region.[/color]
 
-RED-we are under attack.
+[Color=purple]PURPLE-suspicious things are amiss, prepare yourselves for anything.[/color]
 
-BLACk-we have been overrun.
+[Color=orange]ORANGE-we are being infiltrated.[/color]
+
+[Color=red]RED-we have been overrun.[/color]

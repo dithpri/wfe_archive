@@ -12,13 +12,11 @@ Lt. Governor: [nation=short+noflag]Klacik[/nation]
 
 [b][u]Legislative Branch[/u][/b]
 Senate
-**TAKING OFFICE ON MONDAY**
-President: [color=green]To Be Decided[/color]
+President: [nation=short+noflag]Virgo[/nation]
 Senator: [nation=short+noflag]Equitador[/nation]
 Senator: [nation=short+noflag]Gorkhabhumi[/nation]
 Senator: [nation=short+noflag]Liberty[/nation]
 Senator: [nation=short+noflag]Vilkon[/nation]
-Senator: [nation=short+noflag]Virgo[/nation]
 
 [b][u]Judicial Branch[/b][/u]
 Department of Justice

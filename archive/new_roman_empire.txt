@@ -2,8 +2,9 @@
 
 [color=purple][b]We bring the glory of Rome to wherever we march!
 We must expand civilization and culture as we become an empire in Nationstates![/b]
-______________________________________________________________________________________________________
+[hr]
 [b]Emperor: [nation=shortname]Caivs Ivlivs Caesar[/nation]
 Advisor: [nation=shortname]father archancship[/nation]
-Pontifex Maximus: [nation=shortname]christian-roman union[/nation][/b]
+Pontifex Maximus: [nation=shortname]christian-roman union[/nation]
+Minister of Information: [nation]Cerian Quilor VII[/nation][/b]
 [/color]
