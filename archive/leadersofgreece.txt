@@ -1,4 +1,4 @@
-[Color=dgreen][B]DEFCON=5  CODE GREEN[/B][/color]
+[Color=dgreen][B]DEFCON=3  CODE GREEN(heightened level)[/B][/color]
 [Color=silver][I]Today we fight in the region. We shall attack all who we appose. We are brothers of battle. We shall fight as Warriors of Greece![/i][/color]
 [Color=Green][U]Our Gov. [/u][/color]
 [Color=gold]Emperor:[/color][i][nation=noflag]Mithea[/nation][/i]

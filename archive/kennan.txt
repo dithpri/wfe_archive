@@ -1,13 +1,14 @@
 [color=green][b]Important Links[/b][/color]
-[url=http://goo.gl/CUiya]Kennan Map[/url] [b]|[/b] [url=http://goo.gl/snQJB]Neutral Island Map[/url] [b]|[/b] [url=http://goo.gl/rahj3]Kennan Offsite Forum[/url] [b]|[/b] [url=http://goo.gl/udLs4]Kennan Wiki[/url] [b]|[/b] [url=http://goo.gl/bJ3zN]In case of Technical Difficulties[/url]
+[url=http://goo.gl/CUiya]Kennan Map[/url] [b]|[/b] [url=http://goo.gl/snQJB]Neutral Island Map[/url] [b]|[/b] [url=http://goo.gl/rahj3]Kennan Offsite Forum[/url]
 
 [color=purple][b]Kennan Regional Council[/b][/color]
-[url=http://goo.gl/44AU3]Resolution #32: Separation of the Wilder Alliance[/url]
-[color=red]REPEALED[/color]
-
 [url=http://goo.gl/PKNgG]Resolution #33: Repeal &amp;quot;Resolution #29: Currency&amp;quot;[/url]
 [color=red][b]FOR:[/b] 4 (100%)
 [b]AGAINST:[/b] 0 (100%)[/color]
+
+[url=http://goo.gl/79MZw]Resolution #34: Closing a Resolution[/url]
+[color=red][b]FOR:[/b] 4 (100%)
+[b]AGAINST:[/b] 0 (0%)[/color]
 
 [b][color=purple]Kennan Union[/color][/b]
 [url=http://goo.gl/xTzSv]Trial #1: The People&amp;#39;s Republic of Wilder[/url]
@@ -24,6 +25,6 @@
 [color=blue][b]Next Delegate Election[/b][/color]
 Tuesday, April 30
 [color=blue][b]Candidates[/b][/color]
-[list][*]Ethan Foley[/list]
-
-[color=blue][b]April 2013 Election Winner:[/b] [nation=short]Sandwich Territories[/nation]; 54%[/color]
+[list][*][nation=short]Sandwich Territories[/nation] (for re-election)
+[*][nation=short]Vinco[/nation] (officially [nation=short]Ethan Foley[/nation])
+[*][nation=short]Skyrim Brazil[/nation][/list]

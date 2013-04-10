@@ -1,20 +1,18 @@
-[Color=green]CODES/PASSWORD:
-#1. do not pass around the code
+[Color=blue]CODES/PASSWORD:[/color]
+[Color=purple]#1. do not pass around the code
 #2. You will be ejected if you give out the code
 #3. protect the code at all costs
 [/color]
 
-[Color=green]NOTIFICATIONS:[/color]
+[Color=blue]NOTIFICATIONS:[/color]
  All badland nations will be notified by telegram of updates in the badlands.
 
-[Color=green]SUGGESTIONS:[/color]
+[Color=blue]SUGGESTIONS:[/color]
 We would like to look professional so we highly recommend all members join the W.A.
 
-[Color=green]COLOR-CODES:[/color]
-[Color=blue]BLUE-all is well in the region.[/color]
+[Color=blue]COLOR-CODES:[/color]
+[Color=green]GREEN-all is well in the region.[/color]
 
-[Color=purple]PURPLE-suspicious things are amiss, prepare yourselves for anything.[/color]
+[Color=orange]ORANGE-suspicious things are amiss, prepare yourselves for anything.[/color]
 
-[Color=orange]ORANGE-we are being infiltrated.[/color]
-
-[Color=red]RED-we have been overrun.[/color]
+[Color=red]RED-we are being infiltrated.[/color]

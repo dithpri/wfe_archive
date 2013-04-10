@@ -8,7 +8,7 @@ Minister of:
 [color=blue]War &amp;amp; Armaments: [nation=happ-evil]
 Law Enforcement: [nation=Jewphobia]
 Economy &amp;amp; Public Services: [nation=Llama-land]
-Foreign Affairs: [nation=Chermania]
+Foreign Affairs &amp;amp; Government Representative: [nation=Chermania]
 Spetsnaz: [nation=Linkazonia][/b][/color]
 
 Capital: Linkingrad, Linkazonia
