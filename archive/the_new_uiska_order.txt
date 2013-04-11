@@ -2,8 +2,8 @@
 [Color=orange]We are part of THE UNITED POWERS and a semi colony of The Prevailing Empire of Emperorism 
 [/color] [hr]
 [Color=red]Governor:[/color] [nation=short+noflag]paleocacher[/nation] ~ please endorse
-[Color=red]Secretary of War:[/color] none
-[Color=red]Secretary of Foreign Affairs:[/color] [nation=short+noflag]paleocacher[/nation]
+[Color=red]Secretary of War:[/color] Army of Islam
+[Color=red]Secretary of Foreign Affairs:[/color] [nation=short+noflag]The Great King Muhammad of Kanatistan[/nation]
 [color=red]Secretary of Regional Affairs:[/color] [nation=short+noflag]sloviakia[/nation]
 [color=red]supreme judge[/color] [nation=short+noflag]the independent state of Wisconsin[/nation]
 [color=red]Judge(s)[/color] [nation=short+noflag]jack and Jill[/nation] [hr]

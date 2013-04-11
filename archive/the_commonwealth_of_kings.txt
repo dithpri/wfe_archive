@@ -2,7 +2,7 @@
 [hr]
 
 [b]Executive Government[/b]
-Prime Minister:[color=red] [nation=shortname]ShenGuo[/nation][/color]
+Prime Minister:[color=red] Vacant[/color]
 Deputy Prime Minister:[color=red] Vacant[/color]
 Lord Chief Justice:[color=red] [nation=shortname]Ceased[/nation][/color]
 

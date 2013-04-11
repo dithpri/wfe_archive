@@ -3,12 +3,12 @@
 [color=red] Leader:[/color][nation]Yogcraftian[/nation]
 [color=magenta]Co-Leader:[/color][nation]Team Martian[/nation]
 [color=blue] Minister of Defence: [/color][nation]The Slayers[/nation]
-[color=green] Recruitment Officer: [/color][nation]Deross[/nation]
+[color=green] Recruitment Officer: [/color]
 [color=lightblue]Courier:[/color][nation]Scorpio Avenger[/nation]
 
 [color=cyan]Our Brother Region:[/color][region]Legion of Fire[/region]
 [color=purple]Our Fallen:[/color][region]Demons Realm[/region]
 [color=orange]The Almighty and Powerful:[/color][nation]The Treorai[/nation]
 
-[color=lightgreen]Endorse: [/color][nation]Deross[/nation]
+
 	

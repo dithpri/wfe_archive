@@ -5,4 +5,4 @@ Vice-president: [nation=long]uranium mining states[/nation]
 Minister of Foreign Affairs:[/color] [nation=short]libindian[/nation]
 [Color=red]Reporter:[/color] [nation=short]krineland[/nation]
 
-[color=orange]this region is part of the WORLD POWERS[/color]
+[color=orange]this region is part of THE WORLD POWERS[/color]
