@@ -14,16 +14,17 @@ The Allied has a major goal to hit, and that is to achieve world recognition fro
 
 [u][b][color=red]Relations[/color][/b][/u]
 
-Xiann - War imminent
+Xiann - War: Classified
 
 [u][b]War[/b][/u]
-Xiann Throws threats! DEFCON Level is now 2.
+Xiann War: Nuclear War is imminent! DEFCON Level is now 5.
 
 
 DEFCON LEVELS:
 
-1.[] Peacetime Readiness
-2.[x]Heightened Readiness
-3.[] Minor Conflict
+1.[]Peacetime Readiness
+2.[]Heightened Readiness
+3.[]Minor Conflict
 4.[]Major Conflict
-5.[]Nuclear War
+5.[x]Nuclear War
+6.[]Classified

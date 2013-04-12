@@ -4,7 +4,7 @@
 [b]Executive Government[/b]
 Prime Minister:[color=red] Vacant[/color]
 Deputy Prime Minister:[color=red] Vacant[/color]
-Lord Chief Justice:[color=red] [nation=shortname]Ceased[/nation][/color]
+Lord Chief Justice:[color=red] Vacant[/color]
 
 [hr]
 
@@ -12,11 +12,10 @@ Lord Chief Justice:[color=red] [nation=shortname]Ceased[/nation][/color]
 Ministry of Defence and Internal Development:[color=red] Vacant[/color]
 Ministry of International Development:[color=red] Vacant[/color]
 Ministry of Immigration:[color=red] Vacant[/color]
-Cartographer:[color=red] Vacant[/color]
 [hr]
 
 [b]Court of Justice[/b]
-Lord Chief Justice:[color=red] [nation=shortname]Ceased[/nation][/color]
+Lord Chief Justice:[color=red] Vacant[/color]
 Lord Justice: [color=red] Vacant[/color]
 Lord Justice: [color=red] Vacant[/color]
 [hr]
@@ -31,4 +30,4 @@ Crowns: [color=red]C$1 Billion[/color] - [b]Aid given:[/b] [color=blue]NIL[/colo
 Alert level:[color=green]GREEN[/color] / [url=http://www.nationstates.net/page=un]Join the WA[/url] 
 [hr]
 
-[url=http://commonwealthofkings.africamotion.net]Regional Forum[/url] [url=http://commonwealthofkings.africamotion.net/t13-regional-map]Regional Map[/url] [url=http://client01.chat.mibbit.com/?channel=%23CoK&amp;amp;server=irc.esper.net]IRC[/url] [url=http://thomasalrich6.wix.com/commonwealth]Website[/url] [url=http://poll.pollcode.com/dfgi6w]Weekly Regional Vote[/url]
+[url=http://commonwealthofkings.africamotion.net]Regional Forum[/url] [url=http://commonwealthofkings.africamotion.net/t13-regional-map]Regional Map[/url] [url=http://client01.chat.mibbit.com/?channel=%23CoK&amp;amp;server=irc.esper.net]IRC[/url] [url=http://thomasalrich6.wix.com/commonwealth]Website[/url] [url=http://www.nstracker.net/regions?region=The+Commonwealth+of+Kings]Nation States Tracker[/url]

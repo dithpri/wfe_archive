@@ -8,14 +8,14 @@ Overlord: [nation=short]King George Washington[/nation] [color=darkblue](WH)[/co
 President: [nation=short]Brentonania[/nation] [color=darkred](T)[/color]
 Vice President: [nation=short]The Templarian Order[/nation] (A)
 Secretary of State: [nation=short]Cnor79[/nation] [color=darkblue](WH)[/color]
-Secretary of Defense: [nation=short]Federal Republic of Yugoslavia[/nation] [color=orange](I)[/color]
+Secretary of Defense: 
 Secretary of Business: [nation=short]Domination6[/nation]
 Secretary of Foreign Affairs: [nation=short]Ferenginar Prime[/nation] [color=darkred](T)[/color]
 Secretary of Regional Affairs: [nation=short]Colorinia[/nation] [color=grey](M)[/color]
 
 [u][color=darkred][b]The Imperial Senate [/b][/color][/u]
 
-Speaker: [nation=short]The Tropican States[/nation]
+Speaker: [nation=short]Federal Republic of Yugoslavia[/nation] [color=orange](I)
 Congressman: [nation=short]Shish Ka-bob[/nation] [color=darkblue](WH)[/color]
 Congressman: [nation=short]Allied Dominions[/nation] [color=grey](M)[/color]
 
