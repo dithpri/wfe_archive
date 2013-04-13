@@ -3,7 +3,9 @@
 [b][color=Red]Council Members: [/color][/b] 
 &#149;[nation]Armunus[/nation]:Sith
 &#149;[nation]Vossik[/nation]:Trade Federation 
-&#149;[nation]Lontina[/nation]:Trade Federation [hr]
+&#149;[nation]Lontina[/nation]:Trade Federation 
+&#149;[nation]Haor Chall Engineering[/nation]: Techno Union 
+&#149;[nation]Independent Javer[/nation]: IGBC[hr]
 [b][color=Red]Ruling Party: [/color][/b] [hr] 
 [b][color=gold]Announcements: Government under construction[/color][/b] [hr] 
 

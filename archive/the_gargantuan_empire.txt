@@ -1,27 +1,12 @@
 [color=green][b]Welcome to The Gargantuan Empire![/b][/color]
 
-[b][u]International Branch[/b][/u]
-Office of the Emperor
-Emperor: [nation=short+noflag]Reagan Island[/nation]
-Legion General: [nation=short+noflag]Virgo[/nation]
-
-[b][u]Royal Palace[/b][/u]
+[color=green][b][u]Royal Palace[/b][/u][/color]
 Office of the Queen
-The Tyrant: [nation=short+noflag]Rhemaland[/nation]
-Powerless Lt.: [nation=short+noflag]Klacik[/nation]
+Queen: [nation=short+noflag]Rhemaland[/nation]
+Knight: [nation=short+noflag]Hoytenstan[/nation]
 
-[b][u]Powerless Legislative Branch[/u][/b]
-Senate
-President: [nation=short+noflag]Virgo[/nation]
-Senator: [nation=short+noflag]Equitador[/nation]
-Senator: [nation=short+noflag]Gorkhabhumi[/nation]
-Senator: [nation=short+noflag]Liberty[/nation]
-Senator: [nation=short+noflag]Vilkon[/nation]
-
-[b][u]Puppet Judicial Branch[/b][/u]
-Department of Justice
-Defender of the Constitution: [nation=short+noflag]Papua New Craig[/nation]
-Royal Crony: [nation=short+noflag]Hoytenstan[/nation]
-Royal Crony: [nation=short+noflag]Vispariti[/nation]
+[color=green][b][u]Hall of Justice[/b][/u][/color]
+High Court
+Chief Justice: [nation=short+noflag]Vispariti[/nation]
 
 [url=http://www.gargantuanregion.webs.com]Click here to visit The Gargantuan Empire website![/url]

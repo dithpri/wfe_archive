@@ -5,8 +5,8 @@ ___________________________________
 [b][u]Head Senator[/b][/u]: [nation]United Space Command[/nation]
 [b][u]Head Senator[/b][/u]: [nation]Morganutopia[/nation]
 [b][u]Senator of International and Regional Affairs[/b][/u]: [nation]Lift[/nation]
-[b][u]Senator of Recruitment and Campaigning[/b][/u]: [nation]New Flastavia[/nation]
-[b][u]Senator of Defense[/b][/u]: N/A
+[b][u]Senator of Recruitment and Campaigning[/b][/u]: [nation]Morganutopia[/nation]
+[b][u]Senator of Defense[/b][/u]: [nation]United Space Command[/nation]
 [b][u]WA Delegate[/b][/u]: [nation]Morganutopia[/nation] &amp;lt;-- Please Endorse!
 ___________________________________
 [b][u][i]Events:[/b][/u][/i]

@@ -8,8 +8,8 @@
 President: [nation]The New Balag Republic[/nation]
 Vice-President: [nation]Great British Kingdom[/nation]
 General: [nation]Baggyland[/nation]
-Admiral: Open
-Head of Foreign Affairs: Open
+Admiral: [nation]Edwayne[/nation]
+Head of Foreign Affairs:[nation]Farshonia[/nation]
 Head of Home Affairs:Open
 Senators:
 Open!
