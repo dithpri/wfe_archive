@@ -1,4 +1,4 @@
-Tyria is a nordic country consisting of 6 nation and 2 territory. It is a small semi- land locked region. Each territory consists of 5 nations, the nations just depend on whenever the nation joins the region.
+Tyria is a nordic country consisting of 7 nation and 2 territory. It is a small semi- land locked region. Each territory consists of 5 nations, the nations just depend on whenever the nation joins the region.
 [b]Territory 1 -
 The Oppressed Peoples of Bobahnia
 The Theocracy of Lillard
@@ -7,6 +7,7 @@ The Federation of BioBombia
 The Dictatorship of Peoples Empire of Afiracastan
 
 Territory 2 -
-The Empire of NarkVille[/b]
+The Empire of NarkVille
+The Rogue Nation of Xenzatan[/b]
 
  

@@ -2,7 +2,6 @@
 
 [u][b]REGIONAL GOVERNMENT[/b][/u]
 
-[b][color=blue]King:[/color][/b] [b][nation=short]THE GREAT BRITISH[/nation][/b]
-[b][color=blue]Queen:[/color][/b] [b]vacant[/b]
+[b][color=blue]Prime Minister:[/color][/b] [b][nation=short]THE GREAT BRITISH[/nation][/b]
 [b][color=blue]House of Lords:[/color][/b] [b]vacant[/b], [b]vacant[/b], [b]vacant[/b]
 [b][color=blue]House of Commons:[/color][/b] [b]vacant[/b], [b]vacant[/b], [b]vacant[/b]

@@ -2,9 +2,9 @@
 [hr]
 
 [b]Executive Government[/b]
-Prime Minister:[color=red] Vacant[/color]
-Deputy Prime Minister:[color=red] Vacant[/color]
-Lord Chief Justice:[color=red] Vacant[/color]
+Prime Minister:[color=red] [nation=shortname]Ceased[/nation][/color]
+Deputy Prime Minister:[color=red] [nation=shortname]Lyncanestria[/nation][/color]
+Lord Chief Justice:[color=red] [nation=shortname]ShenGuo[/nation][/color]
 
 [hr]
 
@@ -15,12 +15,12 @@ Ministry of Immigration:[color=red] Vacant[/color]
 [hr]
 
 [b]Court of Justice[/b]
-Lord Chief Justice:[color=red] Vacant[/color]
+Lord Chief Justice:[color=red] [nation=shortname]ShenGuo[/nation][/color]
 Lord Justice: [color=red] Vacant[/color]
 Lord Justice: [color=red] Vacant[/color]
 [hr]
 
-[b]Ruling Political Part:[/b] [color=blue][b]TBA[/b][/color]  
+[b]Ruling Political Part:[/b] [color=blue][b]The Conservative Party[/b][/color]  
 [hr]
 
 [b]The Commonwealth Bank[/b]

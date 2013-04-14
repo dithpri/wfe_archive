@@ -5,10 +5,13 @@
 &#149;[nation]Vossik[/nation]:Trade Federation 
 &#149;[nation]Lontina[/nation]:Trade Federation 
 &#149;[nation]Haor Chall Engineering[/nation]: Techno Union 
-&#149;[nation]Independent Javer[/nation]: IGBC[hr]
+&#149;[nation]Independent Javer[/nation]: IGBC
+&#149;[nation]Arcemia[/nation]: Koorivar [hr]
 [b][color=Red]Ruling Party: [/color][/b] [hr] 
 [b][color=gold]Announcements: Government under construction[/color][/b] [hr] 
 
 [b]Links: 
 [url=http://www.nationstates.net/nation=vossik/detail=factbook/dsubcategory1=100]Political Factions[/url]
-[url=http://www.nationstates.net/nation=vossik/detail=factbook/dsubcategory1=105]Articles of Secession (Constitution)[/url][/b]
+[url=http://www.nationstates.net/nation=vossik/detail=factbook/dsubcategory1=105]Articles of Secession (Constitution)[/url][/b][hr] 
+
+[b]Proud ally of [region]The New Sith Empire[/region]![/b]

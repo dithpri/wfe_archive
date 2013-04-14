@@ -5,9 +5,9 @@ The Regional Government Is an OOC (Out Of Character) Political Power only, and s
 
 
 
-[u][color=orange]Prime Minister[/color] --- Glaedirsgrad[/u]  [ Monthly Message:  Apply for a Ministry position Today! ]
+[u][color=orange]Prime Minister[/color] --- [nation]Glaedirsgrad[/nation][/u]  [ Monthly Message:  Apply for a Ministry position Today! ]
 
-[u][color=yellow]Senator[/color] --- Karamja[/u]
+[u][color=yellow]Senator[/color] --- [nation]Karamja[/nation][/u]
 
 [b][u]Cabinet Ministry[/u][/b]
 
@@ -15,4 +15,4 @@ The Regional Government Is an OOC (Out Of Character) Political Power only, and s
 
 [u][color=brown]Minister of Internal Affairs[/color][/u] ---
 
-[u][color=pink]Minister of Recruitment[/color][/u](WA Delegate) ---
+[u][color=pink]Minister of Recruitment[/color] --- [nation]Pevvania[/nation][/u]
