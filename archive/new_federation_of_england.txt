@@ -6,9 +6,9 @@ Regional Government:
 
 President:New Emeryville 
 Vice President: South Socialist Republic
-Secretary of State:
-Secretary of Communications: Tumtumania
-Secretary of Defense:
+Secretary of State: British Overseas Colonies
+Secretary of Communications: Animal Farmvile
+Secretary of Defense: The New Soviet Socialist Republic
 Head Recruiter:
 
 The senate:
@@ -16,5 +16,6 @@ Senator:Star Trek The Next Generations
 Senator:Star Trek The Original Series
 Senator:Star Trek Voyager
 Senator:Star Trek Deep Space Nine
+Senator:Star Trek Enterprise
 
 This region is a colony of New Republica 

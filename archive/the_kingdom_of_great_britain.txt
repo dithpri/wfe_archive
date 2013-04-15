@@ -1,7 +1,1 @@
-[u][b][color=red]Welcome to The Kingdom of Great Britain[/color][/b][/u]
-
-[u][b]REGIONAL GOVERNMENT[/b][/u]
-
-[b][color=blue]Prime Minister:[/color][/b] [b][nation=short]THE GREAT BRITISH[/nation][/b]
-[b][color=blue]House of Lords:[/color][/b] [b]vacant[/b], [b]vacant[/b], [b]vacant[/b]
-[b][color=blue]House of Commons:[/color][/b] [b]vacant[/b], [b]vacant[/b], [b]vacant[/b]
+[u][b][color=red]The Kingdom of Great Britain[/color][/b][/u]
