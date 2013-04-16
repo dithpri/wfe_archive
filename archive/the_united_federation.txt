@@ -1,10 +1,10 @@
 [hr][hr][i][color=Purple][b]WELCOME TO THE UNITED FEDERATION![/i]
 
-Chancellor: [nation]kjentertainment[/nation]
-President: [nation]nelsonation[/nation][/b]
+Chancellor:[nation]nelsonation[/nation]
+President: 
 Secretary of State:[nation]Wethepeople[/nation]
-Secretary of Defense:[nation]kjentertainment[/nation]
-Secretary of Justice:Entatra
+Secretary of Defense:
+Secretary of Justice:[nation]nelsonation[/nation]
 Secretary of Interior:[nation]Eaglefeather[/nation]
 [/color]
 

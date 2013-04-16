@@ -11,7 +11,7 @@ Lord Chief Justice:[color=red] [nation=shortname]ShenGuo[/nation][/color]
 [b]Administrative Government[/b]
 Ministry of Defence and Internal Development:[color=red] Vacant[/color]
 Ministry of International Development:[color=red] Vacant[/color]
-Ministry of Immigration:[color=red] Vacant[/color]
+Ministry of Immigration:[color=red] [nation=shortname]Kasagstonia and Deynlande[/nation][/color]
 [hr]
 
 [b]Court of Justice[/b]

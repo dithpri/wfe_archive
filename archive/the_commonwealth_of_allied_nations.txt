@@ -7,14 +7,14 @@ Secretary of State: [nation=short]Sunspear[/nation]
 Secretary of Recruitment: [nation=short]Bacilli[/nation]
 Attorney General: Vacant
 
-[color=red][u]Federal Assembly:[/u][/color] Vacant, Vacant, Vacant
+[color=red][u]Federal Assembly:[/u][/color] [nation=short]Western Timpetotia[/nation], [nation=short]Golgafrinchian[/nation], [nation=short]San Salvadora[/nation]
 [/b]
 
 
-[color=Green][b][u]Supreme Court:[/u][/color] Vacant, Vacant, Vacant
+[color=Green][b][u]Supreme Court:[/u][/color] [nation=short]The Confederate States[/nation], [nation=short]The Rhein[/nation], Vacant
 [/b]
 
-Join the [url=http://w11.zetaboards.com/CAN/index/]Forums[/url] [b]Please sign up using your nation name![b]
+Join the [url=http://w11.zetaboards.com/CAN/index/]Forums[/url] [b]Please sign up using your nation name!
 
 [color=Orange][u]Regional Headlines:[/u][/b][/color]
-Elections on the 14th of April! Sign up today!
+Justice run-off election!

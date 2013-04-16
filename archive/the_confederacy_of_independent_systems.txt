@@ -5,8 +5,7 @@
 &#149;[nation]Vossik[/nation]:Trade Federation 
 &#149;[nation]Lontina[/nation]:Trade Federation 
 &#149;[nation]Haor Chall Engineering[/nation]: Techno Union 
-&#149;[nation]Independent Javer[/nation]: IGBC
-&#149;[nation]Arcemia[/nation]: Koorivar [hr]
+&#149;[nation]Independent Javer[/nation]: IGBC [hr]
 [b][color=Red]Ruling Party: [/color][/b] [hr] 
 [b][color=gold]Announcements: Government under construction[/color][/b] [hr] 
 
