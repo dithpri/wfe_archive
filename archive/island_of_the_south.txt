@@ -2,6 +2,11 @@
 
 Working on establishing some form of government[/b]
 
-Founder:Empire of Talbaino
+Founder:[nation]Talbaino[/nation]
 
-WA Delagate:[i]not appointed[/i]
+WA Delagate:[nation]Talbaino[/nation] [i] Need to elect someone else[/i]
+
+Government:
+[b]Democratic[/b]
+President:Not open until Congress is Elected
+Congress:Open for Election(3 Members)

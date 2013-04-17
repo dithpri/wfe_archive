@@ -5,7 +5,7 @@ Endorse the Delegate!
 King: [nation=short]King John XI[/nation]
 Queen: [nation=short]Alicia DiLaurentis[/nation]
 
-Minister for Regional Affairs and Recruitment: [nation=short]NoFreedomland[/nation]
+Minister for Regional Affairs: [nation=short]NoFreedomland[/nation]
 Minister for Foreign Affairs: [nation]Great Celtic Empire[/nation]
 
 The forum: [url=http://w11.zetaboards.com/Empire_of_Oceania/index/]click here[/url]

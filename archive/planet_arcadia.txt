@@ -1,1 +1,15 @@
 Planet of Arcadia
+
+
+The stars of our flag represents the nations who first came as an alliance here.:
+
+[nation]Aggeloupoli[/nation]
+[nation]Seraa[/nation]
+[nation]Artite[/nation]
+[nation]Langock[/nation]
+[nation]The Revolutionary Fighters of Intel[/nation]
+[nation]East Langock[/nation]
+[nation]Niston[/nation]
+[nation]Rostrog[/nation]
+[nation]Landwehr Republic[/nation]
+

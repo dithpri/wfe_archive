@@ -2,8 +2,8 @@
 
 =============================
 President: [nation]The New Earth Coalition[/nation]
-Secretary of War: [nation]Conceptina[/nation]
-Secretary of Justice: [nation]Republic of the North[/nation]
+Secretary of Justice &amp;amp; Internal Affairs: [nation]Conceptina[/nation]
+Secretary of War &amp;amp; Foreign Affairs: [nation]Republic of the North[/nation]
 ----------------------------------------------------
-Senators: [nation]Charibdina[/nation], [nation]Promethious[/nation]
-Representatives: [i]vacant, vacant, vacant, vacant[/i]
+Senators: [nation]Etrisia[/nation], [nation]Promethious[/nation]
+Representatives: [nation]Neil landis[/nation], [nation]Asactia[/nation], [nation]Zaalbar[/nation], [nation]Charibdina[/nation], 
