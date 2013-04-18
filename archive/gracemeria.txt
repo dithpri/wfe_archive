@@ -25,7 +25,11 @@ Strategic Advisors:
 
 [nation]Frontline Soldiers[/nation]
 
+
 [nation]The Reapers Wolves[/nation]
+
+[nation]Gracemerian Marines[/nation]
+
 
 
 Special Units:
