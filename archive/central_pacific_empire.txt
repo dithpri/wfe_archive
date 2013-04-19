@@ -4,7 +4,7 @@
 
 Prime Minister: [nation]Mirmadon[/nation]
 
-Minister for Interior Affairs: [nation]Norton Island[/nation]
+Minister for Interior Affairs: Vacant
 Minister for Foreign Affairs: [nation]Latin and Central America[/nation]
 Minister for Justice: [nation]Nicaea-West Pontus[/nation]
 Minister for Recruitment: [nation]VACANT[/nation]
@@ -21,4 +21,4 @@ Minister for Citizenship: [nation]Faikliren[/nation]
 
 Capital City: [nation]Emperor City[/nation]
 
-Current Governor: [nation]latin and Central America[/nation]
+Current Governor: [nation]Centralton[/nation]

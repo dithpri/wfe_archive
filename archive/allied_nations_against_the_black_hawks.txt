@@ -6,11 +6,12 @@ Minister of Interior: [nation]Billania[/nation]
 Minister of Intelligence: [b][i]CENSORED[/b][/i]
 Minister of Communications: [i]Vacant[/i]
 Minister of Foreign Affairs: [i]Vacant[/i]
+Assistant to the WA Delegate: [i]Vacant[/i]
 --
 [color=purple][b]New forum is being built! A link will be posted soon![/b][/color]
 --
 [color=orange][b][url=http://www.nationstates.net/page=un]Please join the World Assembly today![/url][/b][/color]
 --
-DEFCON: [color=red][b]1[/b][/color]
+DEFCON: [color=orange][b]2[/b][/color]
 [nation]Chaucerlian[/nation] claims he has declared war on us.
-Be watchful.
+Although this is probably a false threat, be watchful.

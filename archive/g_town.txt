@@ -1,5 +1,7 @@
 &amp;quot;READY FOR ACTION&amp;quot;
-threat level
-[color=green]green[/color]calm
-[color=yellow]yellow[/color]population 
-[color=red]red[/color]prep nukes
+[COLOR=GREEN]GREEN[/COLOR]calm
+[COLOR=YELLOW]YELLOW[/COLOR]population 
+[COLOR=RED]RED[/COLOR]prep nukes
+[COLOR=ORANGE]ORANGE[/COLOR]ALERT
+
+&amp;#39;THREAT LEVEL&amp;#39;[COLOR=ORANGE]ORANGE[/COLOR]ALERT

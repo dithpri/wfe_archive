@@ -15,6 +15,6 @@ Intelligence Minister -- [nation=short]Wibblefeet[/nation]
 
 Regional Liaison Officer -- [nation=short]Falconias[/nation]
 
-Speaker of the Assembly -- [i]vacant[/i]
+Speaker of the Assembly -- [nation=short]Nelsonation[/nation]
 
 [i][color=red]Please do not contact the founder nation. For questions contact the Arch-Chancellor.[/color][/i]
