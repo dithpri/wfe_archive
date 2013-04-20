@@ -1,10 +1,10 @@
-[color=gold][i][b]Welcome to the New Roman Empire!!![/b][/i][/color]
+[color=gold][i][b]Welcome to the New Roman Empire![/b][/i][/color]
 
 [color=purple][b]We bring the glory of Rome to wherever we march!
 We must expand civilization and culture as we become an empire in Nationstates![/b]
 [hr]
 [b]Emperor: [nation=shortname]Caivs Ivlivs Caesar[/nation]
-Advisor: [nation=shortname]father archancship[/nation]
-Pontifex Maximus: [nation=shortname]christian-roman union[/nation]
+Advisor: [nation=shortname]father Archancship[/nation]
+Pontifex Maximus: [nation=shortname]Christian-Roman Union[/nation]
 Minister of Information: [nation]Cerian Quilor VII[/nation][/b]
 [/color]

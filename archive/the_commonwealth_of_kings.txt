@@ -1,4 +1,4 @@
-[color=red]Welcome the The Commonwealth of Kings.[/color]
+[color=red]Welcome to The Commonwealth of Kings.[/color]
 [hr]
 
 [b]Executive Government[/b]
@@ -9,7 +9,7 @@ Lord Chief Justice:[color=red] [nation=shortname]ShenGuo[/nation][/color]
 [hr]
 
 [b]Administrative Government[/b]
-Ministry of Defence and Internal Development:[color=red] Vacant[/color]
+Ministry of Defence and Internal Development:[color=red] [nation=shortname]Partirius[/nation][/color]
 Ministry of International Development:[color=red] Vacant[/color]
 Ministry of Immigration:[color=red] [nation=shortname]Kasagstonia and Deynlande[/nation][/color]
 [hr]
@@ -23,8 +23,8 @@ Lord Justice: [color=red] Vacant[/color]
 [b]Ruling Political Part:[/b] [color=blue][b]The Conservative Party[/b][/color]  
 [hr]
 
-[b]The Commonwealth Bank[/b]
-Crowns: [color=red]C$1 Billion[/color] - [b]Aid given:[/b] [color=blue]NIL[/color]
+[b]Government Election Date[/b]
+The next General Elections will be held on the:[color=red] 1st of June 2013[/color]
 [hr]
 
 Alert level:[color=green]GREEN[/color] | [url=http://www.nationstates.net/page=un]Join the WA[/url] 

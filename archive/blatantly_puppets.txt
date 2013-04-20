@@ -1,6 +1,6 @@
 Nations of the same creator, made for various tech periods/RP styles. Grouped together for ease of location.
 
-[b]Nations Existing in the Same Universe:[/b]
+[nation]American Soviet Republics[/nation]
 
 [nation]Astoria[/nation]
 
@@ -9,18 +9,16 @@ Nations of the same creator, made for various tech periods/RP styles. Grouped to
 [nation]Fennwick[/nation]
 
 [nation]Alstein[/nation]
-[nation]Termenia[/nation]
 
 [nation]Weiland[/nation]
-
-[nation]Guyaland[/nation]
-
 [nation]Usziya[/nation]
 
-[nation]Byronsland[/nation]
-
-[b]Nations Existing Separately:[/b]
-
-[nation]American Soviet Republics[/nation]
+[nation]Termenia[/nation]
 [nation]Alynia[/nation]
+
+[nation]Byronsland[/nation]
+[nation]Guyaland[/nation]
 [nation]The Terran Confederacy[/nation]
+
+
+
