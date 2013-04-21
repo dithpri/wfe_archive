@@ -4,7 +4,6 @@ This player also controls:
 
 [nation]The Grim Reaper[/nation] - Mobile WA 
 
-[nation]Vortiaganica[/nation] - [region]Osiris[/region] puppet
 [nation]The Fatherland[/nation] - [region]Ashazeth[/region] puppet
 [nation]Siam Meow[/nation] - [region]Cat Burglars[/region] puppet
 [nation]Nicholas von Sinterklaas[/nation] - [region]The Rejected Realms[/region] puppet

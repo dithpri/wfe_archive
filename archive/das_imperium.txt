@@ -1,12 +1,10 @@
-Welcome to the free lands of Das Imperium!
+Welcome to the free lands of Das Imperium! 
 
-All citizens must register in the Imperium Militia with the Supreme Imperium Commander 
+[b][color=Gold]Imperial Regent[/color] = [nation]Virtus Dinami[/nation][/b]
 
-[b][color=Gold]Temporary Dictator[/color] = [nation]Doppio Giudici[/nation][/b]
-
-[color=teal]Supreme Imperium Commander [/color] = [nation]Doppio Giudici[/nation]
-[color=teal]Imperial Senator[/color] = [nation]Virtus Dinami[/nation]
-[color=teal]Imperial Chancellor[/color] = [nation]Vadia[/nation]
-[color=teal]Imperial Steward[/color]= [nation]Vadia[/nation]
+[color=teal]Imperial Marshal [/color] = [nation]Doppio Giudici[/nation]
+[color=teal]Imperial Senator[/color] = [nation] NONE [/nation]
+[color=teal]Imperial Chancellor[/color] = [nation]NONE[/nation]
+[color=teal]Imperial Steward[/color]= [nation]NONE[/nation]
 
 Join the [url=http://dasimperium.freeforums.org/index.php] forums! [/url]
