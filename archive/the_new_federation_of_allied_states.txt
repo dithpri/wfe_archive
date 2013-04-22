@@ -5,6 +5,7 @@
 
 Governor/delegate: [nation]Spuddsvania[/nation]
 Regional Government Chief: [nation]Leviston[/Nation]
+Senator to the Alliance Of Armed Nations Senate: [nation]NFOAS Senator[/nation]    
 Overseer of Alliance Of Armed Nations Colonies: [nation]BOUGHEYIA[/nation]
 
 [b][color=blue]TG or post new government position ideas![/color][/b]

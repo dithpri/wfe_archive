@@ -6,12 +6,12 @@
 [color=blue][u]Congress:[/u] 
 Representative 1: [nation]Skix[/nation]
 Representative 2: [nation]League of Libertarian Populists[/nation]
-Representative 3: [nation]East Oregon Counties[/nation] 
+Representative 3: VACANT
 Representative 4: VACANT[/color]
 
 [color=green]Minister of Defense: VACANT
 Secretary of the State: VACANT
-Secretary of the Interior: VACANT[/color]
+Secretary of the Interior: [nation]East Oregon Counties[/nation] [/color]
 
 [color=orange]Supreme Court Justice: VACANT[/color]
 

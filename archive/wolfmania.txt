@@ -7,8 +7,8 @@
 [b]-[color=Aqua]High God: [nation=short+noflag]Wolfmania[/nation][/color][/b]
 [b]-[color=Aqua]Leader: [nation=short+noflag]The Spirit Wolf[/nation][/color][/b]
 [b]-[color=Aqua]Lead of Peace: [nation=short+noflag]The DivineWolf[/nation][/b][/color]
-[b]-[color=Aqua]Lead of Power:[/b][/color]
-[b]-[color=Aqua]Lead of Foreign Affairs:[/b][/color]
+[b]-[color=Aqua]Lead of Power: [nation=short+noflag]Seriousness[/nation][/b][/color]
+[b]-[color=Aqua]Lead of Judgement: [nation=short+noflag]Mitten[/nation][/b][/color]
 [b]-[color=Aqua]Role-Playing Advisor: [nation=short+noflag]The Dark Wolf[/nation][/color][/b]
 [hr]
 
