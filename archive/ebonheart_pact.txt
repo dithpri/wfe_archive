@@ -6,7 +6,7 @@
 [b][color=blue]Whiterun Jarl:[/color][/b][nation]Anglo-German Empire[/nation]
 [b][color=blue]Falkreath Jarl:[/b][/color][nation]Kyrana[/nation]
 [color=blue]The Rift Jarl:[/color][nation]The Republic of Woldstein[/nation]
-[b][color=blue]Winterhold Jarl:[/b][/color][nation]North Andalasia[/nation]
+[b][color=blue]Winterhold Jarl:[/b][/color][nation]The Republic of Woldstein[/nation]
 [b][color=blue]The Pale Jarl:[/b][/color][nation]Matrioshka 9[/nation]
 [b][color=blue]Hjaalmarch Jarl:[/b][/color][nation]King Marx[/nation]
 [b][color=blue]The Reach Jarl:[/b][/color][nation]Borosa Ete Whitedemonicaa[/nation]

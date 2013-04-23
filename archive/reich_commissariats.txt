@@ -1,5 +1,5 @@
 [u][b][color=black]Reichskommissariate of [region]the Greater German Reich[/region][/u][/b][/color]
-[color=red]Mehrere Teilgebiete enthaltende Regionen werden[/color] [color=green][b]fett[/b][/color] [color=red]dargestellt.[/color]
+[color=green][b]Fett[/b][/color][color=red]: Region enth&auml;lt Teilgebiete.[/color]
 [b][region]The French Republic[/region][/b]
 [b][region]The United Kingdom of GB and NI[/region][/b]
 [b][region]The Commonwealth of Australia[/region][/b]
@@ -24,3 +24,4 @@
 [region]The Alliance Against Nazis[/region]
 [region]The Jewish Zionist Empire[/region]
 [region]Jewish Zionist Empire[/region]
+[region]Region of Rogue Regimes[/region]

@@ -1,16 +1,21 @@
-[b]&amp;quot;Independence, Freedom, Islamic Republic&amp;quot;
+[b][color=green]&amp;quot;Independence,[/color] Freedom, [color=red]Islamic Republic&amp;quot;[/color]
 
-[color=green]Government:[/color]
 
- 
-[color=red]*Supreme Leader: Grand Ayatollah Sayyid[/color] [nation=short]Ognjen Ahmadinejad[/nation] ([nation=short]Ognjen Ahmadinejad II[/nation])
 
-[color=brown]*President:[/color] [nation=short]Ognjen Ahmadinejad II[/nation] (Interim)
+[color=green]Officials:[/color]
+
+[color=red]*Supreme Leader: Grand Ayatollah Sayyid[/color] [nation=short]Ognjen Ahmadinejad[/nation] ([color=red]Office term: July 28, 2012. - present[/color] )
+
+[color=brown]*President:[/color] [nation=short]Ognjen Ahmadinejad II[/nation] ([color=red]Office term: October 18, 2013 - present[/color])
 
 [color=brown]*Vice President:[/color]  [nation=short]Western Arab Empire[/nation]
 
-*Minister for Foreign Affairs: [nation=short]Tatar Crimea[/nation] (Interim)
+[color=green]Cabinet:[/color]
 
-*Minister for Defense and Internal Affairs: [nation=short]James Carlton[/nation][/b]
+*Minister of Intelligence and National Security: [color=red]VACANT[/color]
 
+*Minister for Foreign Affairs: [nation=short]Ognjen Ahmadinejad[/nation]
 
+*Minister for Defense and Internal Affairs: [nation=short]United Azawad[/nation]
+
+*Minister of Culture and Islamic Guidance: [color=red]VACANT[/color][/b]

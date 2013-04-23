@@ -1,3 +1,5 @@
 [color=000666][b]Weirdonia[/b][/color]
 [color=006600]
 // [region=New Delian League] // Weirdonia // [region=Chukaku] //[/color]
+
+Note to other regions, do not use the tags system. Just causes trouble.
