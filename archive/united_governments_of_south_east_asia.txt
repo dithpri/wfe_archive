@@ -1,21 +1,18 @@
-[b][color=#FF0000]This is an Emergency Broadcast: Our overrun reached 30.4 and increasing. Under Emergency Action Protocol Code Red, all nations must choose Option 1 to control Z virus. 
-Exception:[nation]razors[/nation]   --MINDEF--[/color][/b]
+[b][color=#0000FF]Everything is good now[/color][/b]
 
-[b]Security Level : [color=#FF0000]RED[/color][/b]
+[b]Security Level : [color=#00FF00]Green[/color][/b]
 
 [b]CABINET[/b] 
 
 [b]President and Chairman[/b]: [nation]United Borneo[/nation]
 [b]Permanent Secretary at President&amp;#39;s Office[/b]: [nation]SParkleWing[/nation]
 
-[b]PM[/b]: The Most Honorable [nation]Tanjung Semberong[/nation]
-[b]MINDEF[/b]:[nation]Pinang Island[/nation]
-[b]MoIA[/b]:[nation]woods elves[/nation]
-[b]MoIFA[/b]:[nation]Christian Malaysia[/nation]
-[b]Director of Central Research On Zombie Virus : [nation]razors[/nation][/b]
+[b]Prime Minister[/b]: The Most Honorable [nation]Tanjung Semberong[/nation]
+[b]Defense Minister[/b]:[nation]Pinang Island[/nation]
+[b]Internal Affairs Minister[/b]:[nation]woods elves[/nation]
+[b]Information and Foreign Affairs Minister[/b]:[nation]Christian Malaysia[/nation]
+[b]Former Director of CRZV :[/b] The Honorable [nation]razors[/nation]
 
 [B]AMBASSADOR[/B]
 
 [b]To [region]Central Pacific Empire[/region][/b]: [nation]North Sabah[/nation]
-
-

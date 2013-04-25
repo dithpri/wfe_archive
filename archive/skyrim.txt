@@ -3,8 +3,8 @@
 
 The High King of [nation=short]Grantsbourg[/nation]
 
-Jarl of [nation=short]Logistica[/nation] Thane [nation=short]the great and powerful wizard[/nation]
-Jarl of [nation=short]Redonersa[/nation] Thane [nation=short]Kentai[/nation]
+Jarl of [nation=short]Logistica[/nation][i](Interior Relations).[/i] Thane [nation=short]the great and powerful wizard[/nation]
+Jarl of [nation=short]Redonersa[/nation][i](Foreign Affairs).[/i] Thane [nation=short]Kentai[/nation]
 Jarl of [nation=short]Caelavie[/nation]
 
 [hr][color=blue]News[/color]
