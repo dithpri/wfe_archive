@@ -23,9 +23,6 @@ Strategic Advisors:
 
 [nation]The Dark Angels[/nation]
 
-[nation]Frontline Soldiers[/nation]
-
-
 [nation]The Reapers Wolves[/nation]
 
 [nation]Gracemerian Marines[/nation]
@@ -34,6 +31,9 @@ Strategic Advisors:
 
 Special Units:
 [nation]The Gracemeria Honor Guard[/nation] 
+
+
+[nation]The Spartans of Gracemeria[/nation]
 
 
 [nation]The Gracemerian Zombie Response Force[/nation]

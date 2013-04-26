@@ -7,9 +7,9 @@ Chain of Command
 Union Overseer: [nation=Chermania][/color]
 Minister of:
 [color=blue]War &amp;amp; Armaments: [nation=happ-evil]
-Law Enforcement: [nation=Jewphobia]
+Law Enforcement &amp;amp; Healthcare: [nation=Jewphobia]
 Economy &amp;amp; Public Services: [nation=Llama-land]
-Foreign Affairs &amp;amp; Government Representative: [nation=Chermania]
+Foreign Affairs &amp;amp; National Archives: [nation=Chermania]
 Spetsnaz: [nation=Linkazonia][/b][/color]
 
 National Religion: Agnostic / Atheist

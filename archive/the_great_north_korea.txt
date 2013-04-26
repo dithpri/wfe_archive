@@ -9,6 +9,8 @@ Political Party:[nation]the Great North Korea[/nation]
 
 Military:[nation]Revolutionary North Korea[/nation]
 
+Capital City:[nation=short]Pyongyang-[/nation]
+
 The People:[nation]The Voice of Korea[/nation][/b][/color]
 [hr]
 

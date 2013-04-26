@@ -1,16 +1,18 @@
-[b][color=navy]Welcome to Knyghtaria! Here, we believe in Freedom, Capitalism, and Democracy[/color]
+[b][color=skyblue]Welcome to Knyghtaria![/color]
 
-[url=http://knyghtaria.forumotion.com/t14-new-republica-treaty#31][color=crimson]Treaties[/color][/url]| [url=http://knyghtaria.forumotion.com/][color=green]Forums/Chatbox[/color][/url]| [url=http://knyghtaria.forumotion.com/f5-regional-maps][color=orange]Maps[/color][/url]|[url=http://www.youtube.com/watch?v=zMlp3aCYmGA][color=Silver]Regional Anthem[/color][/url]
+[url=http://knyghtaria.forumotion.com/t14-new-republica-treaty#31][color=royalblue]Treaties[/color][/url]| [url=http://knyghtaria.forumotion.com/][color=navy]Forums/Chatbox[/color][/url]| [url=http://knyghtaria.forumotion.com/f5-regional-maps][color=skyblue]Maps[/color][/url]|[url=http://www.youtube.com/watch?v=zMlp3aCYmGA][color=royalblue]Regional Anthem[/color][/url]
 
-[color=purple]All nations please endorse our WA Delegate [nation]United Provinces of Atlantica[/nation], and Vice WA Delegate [nation]Redbird[/nation][/color]
+[color=navy]Please endorse our WA Delegate [nation=short]United Provinces of Atlantica[/nation], and Vice WA Delegate [nation=short]Redbird[/nation][/color]
 
-[color=gold][u]Knyghtarian Government[/u]
-President [nation]St James[/nation]
-Vice President [nation]Misopris[/nation]
-WA Delegate [nation]United Provinces of Atlantica[/nation]
-Vice WA Delegate [nation]Redbird[/nation]
-Minister of Internal Affairs [nation]The Holy See of Science[/nation]
+[color=skyblue][u]Knyghtaria Government[/u]
+Founder [nation=short]Xcenanonia[/nation]
+President [nation=short]St James[/nation]
+Vice President [nation=short]Misopris[/nation]
+WA Delegate [nation=short]United Provinces of Atlantica[/nation]
+Vice WA Delegate [nation=short]Redbird[/nation]
+Minister of Internal Affairs [nation=short]The Holy See of Science[/nation]
 Minister of External Affairs [nation]The Russian Imperial States[/nation][/color]
 
-[color=blue]Colonies: [region]Grand Union of Nations[/region][/color][/b]
+[color=royalblue]Colonies: [region]Grand Union of Nations[/region], [region]The New Uiska Order[/region], [region]ImperialFrance[/region], [region]Doomsday[/region], [region]Confederate Nations of Earth[/region][/color]
 
+[color=navy]Military Bases: [region]SkyLeague[/region], [region]Northern alliance[/region][/color][/b]
