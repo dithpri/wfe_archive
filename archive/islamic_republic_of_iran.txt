@@ -6,7 +6,7 @@
 
 [color=red]*Supreme Leader: Grand Ayatollah Sayyid[/color] [nation=short]Ognjen Ahmadinejad[/nation] ([color=red]Office term: July 28, 2012. - present[/color] )
 
-[color=brown]*President:[/color] [nation=short]Ognjen Ahmadinejad II[/nation] ([color=red]Interim[/color])
+[color=brown]*President:[/color] [color=red]His Excellency[/color] [nation=short]Ognjen Ahmadinejad II[/nation] ([color=red]Interim[/color])
 
 [color=brown]*Vice President:[/color]  [nation=short]Western Arab Empire[/nation]
 

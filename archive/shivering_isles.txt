@@ -1,4 +1,5 @@
-Its a extremely large island with multiple islands scattered about.The Isles are ruled by three councilors and one head councilor that protect and decide what the Isles should do. If the Isles comes under any threat they are the first and last line of defense, the safety of the region is theirs to uphold.  
+Its a extremely large island with multiple islands scattered about.The Isles are ruled by three councilors and one head councilor that protect and decide what the Isles should do.
+ If the Isles comes under any threat they are the first and last line of defense, the safety of the region is theirs to uphold.  
  
                                                                                   
                                                                                [color=green]Green:[/color] Calm
@@ -9,7 +10,7 @@ Its a extremely large island with multiple islands scattered about.The Isles are
 
 
 
-THREAT LEVEL: [color=Orange]Orange[/color]
+THREAT LEVEL: [color=Yellow]Yellow[/color]
                                                                     
                          [color=Aqua]Head councilor:[/color][nation]United Empire of Justin[/nation]
                                                        
@@ -17,4 +18,3 @@ THREAT LEVEL: [color=Orange]Orange[/color]
 [color=silver]2nd councilor:[/color][nation]The Golden Circle States[/nation]
 [color=grey]3rd councilor:[/color][nation]Ernestos[/nation]
 
-[color=Aqua]Head of the Guardians:[/color] [nation]Gibson Makowiecki[/nation]
