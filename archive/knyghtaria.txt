@@ -13,6 +13,6 @@ Vice WA Delegate [nation=short]Redbird[/nation]
 Minister of Internal Affairs [nation=short]The Holy See of Science[/nation]
 Minister of External Affairs [nation]The Russian Imperial States[/nation][/color]
 
-[color=royalblue]Colonies: [region]Grand Union of Nations[/region], [region]The New Uiska Order[/region], [region]ImperialFrance[/region], [region]Doomsday[/region], [region]Confederate Nations of Earth[/region][/color]
+[color=royalblue]Colonies: [region]Grand Union of Nations[/region], [region]The New Uiska Order[/region], [region]ImperialFrance[/region], [region]Doomsday[/region], [region]Confederate Nations of Earth[/region], [region]Rhineland[/region][/color]
 
 [color=navy]Military Bases: [region]SkyLeague[/region], [region]Northern alliance[/region][/color][/b]
