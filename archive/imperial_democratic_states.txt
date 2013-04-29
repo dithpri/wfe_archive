@@ -1,7 +1,7 @@
 Without Democracy you will have nothing.
 
-President:[nation=short]Kasgradashev[/nation]
-Head of Military Affairs:[nation=short]C I[/nation]
+President:[nation]Kasgradashev[/nation]
+Head of Military Affairs: VACANT
 Head of Foreign Affairs:VACANT
 Diplomat:VACANT
 Diplomat:VACANT
