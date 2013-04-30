@@ -4,15 +4,10 @@ Purpose: The objective of the Vandenreich is to establish peace and prosperity t
 [color=Red]King: The Great Allied Nations[/color]
 [color=redorange]Royal Family: N/A[/color]
 [color=silver]Advisor: N/A[/color]
-[color=gold]Chief of Staff: N/A[/color]
-[color=yellowgreen]Department Head of Agriculture: N/A[/color]
-[color=navyblue]Department Head of Energy: N/A [/color]
-[color=orange]Department Head of Financing: N/A[/color]
-Department Head of Security: N/A
-[color=Blue]Leader of the Stern Ritter: N/A[/color]
 [color=Green]General of the Armies: N/A[/color]
 [color=SkyBlue]Fleet Admiral of the Navies: N/A[/color]
-[color=Purple]Supreme Judge of the Courts: N/A[/color]
-[color=violet]Members of the Court: N/A[/color]
-
+[color=Blue]Leader of the Stern Ritter: N/A[/color]
+[color=Purple]Stern ritter members: N/A[/color]
+[color=turquoise]Military Troops: N/A[/color]
+[color=gold]Judges of his Majesty:N/A[/color]
 
