@@ -13,4 +13,4 @@ PM: Vacant
 Minister of Defense: Vacant
 Minister of Commerce: Vacant
 Minister of Human Rights: Vacant
-MPs: [nation]The Andrewtopian Republic[/nation], [nation]Wolny Kraj[/nation], [nation]Ivory Rhodes[/nation]
+MPs: all members of the region

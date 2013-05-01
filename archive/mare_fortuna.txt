@@ -9,9 +9,9 @@ In [region]Mare Fortuna[/region], we are about to set up a democratic government
 
 President: [nation]La Asturiana[/nation]
 
-[color=red]Allied Regions: [region]Occitania[/region][/color], [region]Emperio de Castilla y Aragon[/region]
+[color=red]Allied Regions: [region]Occitania[/region][/color], [region]Emperio de Castilla y Aragon[/region], [region]Lusitania Galega[/region]
 
-We are ready to welcome you all and hope that you will have a good time in [region]Mare Fortuna[/region]! Please feel free to contact us via a telegram for any more information and help!
+We welcome you all and hope that you will have a good time in [region]Mare Fortuna[/region]! Please feel free to contact us via a telegram for any more information and help!
 
 Sincerely,
               [nation]La Asturiana[/nation]

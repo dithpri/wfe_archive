@@ -2,8 +2,8 @@ A new region founded by friends and looking to grow.
 [hr]
 &nbsp;[color=orange]Founders:[/color]
 [nation]Zanzar[/nation]
-[nation=short+noflag]Girfa Massa[/nation] 
-[nation=short+noflag]Goldmerrow[/nation] 
+[nation=short]Girfa Massa[/nation] 
+[nation=short]Goldmerrow[/nation] 
 [hr]
 [Url=http://www.nationstates.net/region=hogarahoiprash][U][B][Color=red]We have established our first Embassy![/color][/B][/u][/url]
 [hr]
@@ -14,16 +14,16 @@ The World Assembly delegate is still being spread around until Thursday. If you 
 Voting for WAD concludes on Thursday at 12:00 pm CST. 
 [hr]
 Voting for WAD current totals
-[nation=short]Fat-mans Pride[/nation] 9 votes
+[nation=short]Fat-mans Pride[/nation]9 votes
 Running on a campaign of liberal freedoms.
 [hr]
-[nation=short]Bearcatz[/nation] 3 votes
-Running on a campaign of a strong military 
+[nation=short]Bearcatz[/nation] Has been disqualified. Anyone who voted for him may change their vote.
 [hr]
 [nation=short] The return of the man with the mustache[/nation] 1 vote
 Running on a campaign of a strong economy
 [hr]
 [nation=short]Girfa Massa[/nation]
 Running on a campaign of the majority rule
+1 vote
 [hr]
 Abstentions: 1

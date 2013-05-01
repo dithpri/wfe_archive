@@ -8,11 +8,11 @@
 [nation=short]Libertas Liber[/nation]
 
 [b][u][color=crimson]The High Council of Magistrates[/b][/u][/color]
-[nation=short]Paixao[/nation]
 [nation=short]Khalikhan[/nation]
-[nation=short]Koselia[/nation]
-[nation=short]Spiritualiza[/nation]
+[nation=short]New Scotlandia[/nation]
+[nation=short]Lerodan Chinamerica[/nation]
 [nation=short]Veren Commonwealths[/nation]
+[nation=short]Iltaakwenusih[/nation]
 
 [Hr]Endorse [nation=short]Vanhania[/nation] to be our WA Delegate!
 
@@ -20,16 +20,6 @@
 [Hr]
 [b][u][color=red]Announcements![/color][/u][/b]:
 [b]
-Elections are here. Send your top 5 picks to Fr&auml;ser!
-
-[color=orange][u]Candidates[/u][/color]
-Khalikhan
-Koselia
-Spiritualiza
-Veren Commonwealths
-Iltaakwenusih
-New Scotlandia
-Communist Hyrule
-Chinamerica
-Kraslavia
+Elections are over. See the results above, posted in no particular order. Congratulations to the new Magistrates.
+Note: Due to Fr&auml;ser being a perfectionist, elections will take place from the 24th to the 27th from now on.
  [/b]
