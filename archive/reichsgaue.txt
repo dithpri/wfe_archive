@@ -4,6 +4,7 @@
 [region]The Federal State of Austria[/region]
 [region]The Republic of Poland[/region]
 [b][region]The Danish Realm[/region][/b]
+[b][region]The Commonwealth of the Realm[/region][/b]
 [region]The Grand Duchy of Luxembourg[/region]
 [region]The Kingdom of Belgium[/region]
 [b][region]The Allies[/region][/b]

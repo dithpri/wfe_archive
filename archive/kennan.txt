@@ -3,28 +3,30 @@
 
 [color=purple][b]Kennan Regional Council[/b][/color]
 [url=http://goo.gl/86lOs]Resolution #38: Power Promotions[/url]
-[color=red][b]FOR:[/b] 7 (100%)
+[color=red][b]FOR:[/b] 9 (100%)
 [b]AGAINST:[/b] 0 (0%)[/color]
 
 [url=http://goo.gl/rPSQc]Resolution #39: Activity Checks v2.0[/url]
-[color=red][b]FOR:[/b] 3.5 (100%)
+[color=red][b]FOR:[/b] 8 (100%)
+[b]AGAINST:[/b] 0 (0%)[/color]
+
+[url=http://goo.gl/1tMYT]Resolution #40: Procedures of Voting[/url]
+[color=red][b]FOR:[/b] 5 (100%)
 [b]AGAINST:[/b] 0 (0%)[/color]
 
 [b][color=purple]Kennan Union[/color][/b]
 --Currently none--
 
-[color=orange][b]2nd Kennan Regional Secretary Council[/b][/color]
-[b]Administration:[/b] [nation=short]Samukan[/nation]
-[b]Commerce:[/b] [nation=short]The Azerian Empire[/nation]
-[b]Defense:[/b] [nation=short]Ethan Foley[/nation]
-[b]Education:[/b] [nation=short]Sandwich Territories[/nation]
-[b]Environment:[/b] [nation=short]United Solcialist States of Jakeopia[/nation]
-[b]Human Rights:[/b] [nation=short]Hackleberry Islands[/nation]
+[color=orange][b]3rd Kennan Regional Secretary Council[/b][/color]
+[b]Administration:[/b] [nation=short]Ethan Foley[/nation]
+[b]Commerce:[/b] [nation=short]Samukan[/nation]
+[b]Defense:[/b] [nation=short]Soviet New Ireland[/nation]
+[b]Education:[/b] [nation=short]Hackleberry Islands[/nation]
+[b]Environment:[/b] [nation=short]united solcialist states of jakeopia[/nation]
+[b]Human Rights:[/b] [nation=short]Fords[/nation]
 
-[color=blue][b]Delegate Election[/b][/color]
-[url=http://goo.gl/9Gmx0]Election![/url]
+[color=blue][b]Next Delegate Election[/b][/color]
+May 31, 2013
 
 [color=blue][b]Candidates[/b][/color]
-[list][*][nation=short]Sandwich Territories[/nation] (for re-election)
-[*][nation=short]Wilder Ancestors[/nation]
-[*][nation=short]Vinco[/nation] (officially [nation=short]Ethan Foley[/nation])[/list]
+[list][*]none[/list]

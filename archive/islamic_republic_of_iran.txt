@@ -4,18 +4,18 @@
 
 [color=green]Officials:[/color]
 
-[color=red]*Supreme Leader: Grand Ayatollah Sayyid[/color] [nation=short]Ognjen Ahmadinejad[/nation] ([color=red]Office term: July 28, 2012. - present[/color] )
+[color=red]*Supreme Leader: [i]Grand Ayatollah Sayyid[/i][/color] [nation=short]Ognjen Ahmadinejad[/nation] ([color=red]Office term: July 28, 2012. - present[/color] )
 
-[color=brown]*President:[/color] [color=red]His Excellency[/color] [nation=short]Ognjen Ahmadinejad II[/nation] ([color=red]Interim[/color])
+[color=brown]*President:[/color] [i][color=red]His Excellency[/color][/i] [nation=short]Ognjen Ahmadinejad II[/nation] ([color=red]Interim[/color])
 
-[color=brown]*Vice President:[/color]  [nation=short]Western Arab Empire[/nation]
+[color=brown]*Vice President:[/color]  [i][color=red]The Honourable[/color][/i] [nation=short]Western Arab Empire[/nation]
 
 [color=green]Cabinet:[/color]
 
 *Minister of Intelligence and National Security: [color=red]VACANT[/color]
 
-*Minister for Foreign Affairs: [nation=short]Ognjen Ahmadinejad[/nation]
+*Minister for Foreign Affairs: [nation=short]Ognjen Ahmadinejad[/nation] ([color=red]Interim[/color])
 
 *Minister for Defense and Internal Affairs: [nation=short]United Azawad[/nation]
 
-*Minister of Culture and Islamic Guidance: [color=red]VACANT[/color][/b]
+*Minister of Culture and Islamic Guidance: [nation=short]Eastern Arab Empire[/nation][/b]

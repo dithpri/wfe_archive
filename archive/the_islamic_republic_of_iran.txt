@@ -1,11 +1,10 @@
-Jomhuri-ye Eslami-ye Iran
+[color=red][b]This region was captured by the [region]the Greater German Reich[/region] on 1 May 1941.[/b][/color]
 
-[color=red]*[/color] [color=green]Shahada[/color]
-[color=red]*[/color] [color=green]Salah[/color]
-[color=red]*[/color] [color=green]Zakah[/color]
-[color=red]*[/color] [color=green]Saum[/color]
-[color=red]*[/color] [color=green]Hajj[/color]
+[b]Planner of Invasion:
+[nation]Engelabad[/nation][/b] 
 
-[b]La Ilaha Illa Allah, Muhammad Rasulu Allah[/b]
+[b]Leader of Invasion:
+[nation]Verborgenen Herrn[/nation][/b]
 
-[color=green][b]The Islamic Republic of Iran welcomes all Muslim Nations and respectful peoples![/b][/color]
+[b]Participants:
+[nation]Grodon[/nation][/b]

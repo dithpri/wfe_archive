@@ -1,16 +1,14 @@
 [b][REGION]NORTH KOREA[/REGION][hr][hr]
 
-Regional Government;
+Members of the Presidium of the Politburo
 
-All nations endorse [nation=short]Rodong 1[/nation] - WAD / General Secretary 
+[nation=short]Rodong 1[/nation] - Non-executive WAD 
 
-[nation=short]Marxist-Feminists[/nation] - Regional protector / Military commissar
+[nation=short]Marxist-Feminists[/nation] - Regional protector / military commissar
 
 [nation=short]CPPI DPRK[/nation] - International commissar / Inter-regional commissar
 
-[nation=short]The Great Korea[/nation] - Intelligence / Covert operations.
-
-[hr][hr]
+[nation=short]The Great Korea[/nation] - Intelligence / covert operations[hr][hr]
 
 Important links;
 

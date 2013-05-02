@@ -16,6 +16,8 @@ Department of Offense: [nation]Terrisyia[/nation]
 Department of Trade: [nation]Laser land[/nation]
 Department of Foreign Alliances: Position Not Held
 Department of Sports: [nation]Wyldland[/nation]
+Department of Light: [nation]The Lightbloods[/nation]
+Department of Dark: [nation]Lycan fang[/nation]
 
 [u]DEFCON[/u]
 [color=Tomato]DEFCON 1[/color]
