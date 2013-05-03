@@ -6,9 +6,10 @@ UIA - United Imperial Alliance
 [nation]Haltioiden[/nation]
 [nation]The Allied Empire Of Colombia[/nation]
 [nation]Panem321[/nation]
+[nation]McContrag[/nation]
 
 [u]The Counsel[/u]
-[u]Contains every nation (Including Anterrans and Machines)[/u]
+[u]Contains every nation (Including Anterrans, Machines and TBA Rilthens)[/u]
 
 [u]The Machine Union[/u]
 [nation]Ventraidi[/nation]

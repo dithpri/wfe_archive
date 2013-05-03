@@ -9,8 +9,8 @@
 
 [u]Government:[/u]
 Founder: [nation]Colland[/nation]
-Official World Assembly Delegate: [nation]Saggitarius[/nation]
-Official Vice World Assembly Delegate: Position Not Held
+World Assembly Delegate: [nation]Saggitarius[/nation]
+Vice World Assembly Delegate: Position Not Held
 Department of Defense: [nation]Lycan fang[/nation]
 Department of Offense: [nation]Terrisyia[/nation]
 Department of Trade: [nation]Laser land[/nation]
@@ -18,6 +18,7 @@ Department of Foreign Alliances: Position Not Held
 Department of Sports: [nation]Wyldland[/nation]
 Department of Light: [nation]The Lightbloods[/nation]
 Department of Dark: [nation]Lycan fang[/nation]
+Department of Religion: [nation]Kow[/nation]
 
 [u]DEFCON[/u]
 [color=Tomato]DEFCON 1[/color]

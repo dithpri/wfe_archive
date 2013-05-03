@@ -19,8 +19,6 @@ Commander of Regional Military Forces:
 
 
 Strategic Advisors:
-[nation]Sky Soldiers[/nation]
-
 [nation]The Dark Angels[/nation]
 
 [nation]The Reapers Wolves[/nation]
@@ -30,6 +28,9 @@ Strategic Advisors:
 
 
 Special Units:
+[nation]Gracemerian Alchemists[/nation]
+
+
 [nation]The Gracemeria Honor Guard[/nation] 
 
 

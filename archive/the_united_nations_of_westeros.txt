@@ -3,6 +3,7 @@ Welcome to [i]The United Nations of Westeros[/i]
 [color=red]President[/color]: [nation]Riel[/nation]
 [color=blue] Vice President[/color]: [nation]Butter Land[/nation]
 
-[b]Heart Disease and Cancer Cure[/b]: [i]Progress[/i]: 3% [i]Funding[/i]: $1,000,000 [i]Researchers[/i]: [nation]Riel[/nation]
+[b]Heart Disease and Cancer Cure[/b]: [i]Progress[/i]: 5% [i]Funding[/i]: $3,000,000 [i]Researchers[/i]: [nation]Riel[/nation] and [nation]Broncocorns[/nation]
 
 [b]War[/b]: [nation]Riel[/nation] Civil War against [nation]Rieltopia[/nation]
+[nation]Riel[/nation] Allies: [nation]Broncocorns[/nation]
