@@ -4,10 +4,10 @@ Chef der Wehrmacht:
 [nation=short]Deutches Reich[/nation]
 
 Kommandant:
-[nation=short]Die Volkes Lebensraum[/nation](Temporarily)
+[nation=short]The Greater Imperial Japan[/nation]
 
 Truppen:
-[nation=short]Deutches Reich[/nation][/b]
+[nation=short]Die Volkes Lebensraum[/nation][/b]
 
 [i]All civillians move to the [region]Reich[/region], or risk ejection.[/i]
 

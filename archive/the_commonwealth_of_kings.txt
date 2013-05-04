@@ -2,29 +2,29 @@
 [hr]
 
 [b]Executive Government[/b]
-Prime Minister:[color=red] [nation=shortname]Ceased[/nation][/color]
-Deputy Prime Minister:[color=red] [nation=shortname]Lyncanestria[/nation][/color]
-Lord Chief Justice:[color=red] [nation=shortname]ShenGuo[/nation][/color]
+Prime Minister:[color=red] Vacant[/color]
+Deputy Prime Minister:[color=red] Vacant[/color]
+Lord Chief Justice:[color=red] Vacant[/color]
 
 [hr]
 
 [b]Administrative Government[/b]
-Ministry of Defence and Internal Development:[color=red] [nation=shortname]Partirius[/nation][/color]
+Ministry of Defence and Internal Development:[color=red] Vacant[/color]
 Ministry of International Development:[color=red] Vacant[/color]
-Ministry of Immigration:[color=red] [nation=shortname]Kasagstonia and Deynlande[/nation][/color]
+Ministry of Immigration:[color=red] Vacant[/color]
 [hr]
 
 [b]Court of Justice[/b]
-Lord Chief Justice:[color=red] [nation=shortname]ShenGuo[/nation][/color]
+Lord Chief Justice:[color=red] Vacant[/color]
 Lord Justice: [color=red] Vacant[/color]
 Lord Justice: [color=red] Vacant[/color]
 [hr]
 
-[b]Ruling Political Part:[/b] [color=blue][b]The Conservative Party[/b][/color]  
+[b]Ruling Political Part:[/b] [color=blue][b]TBA[/b][/color]  
 [hr]
 
 [b]Government Election Date[/b]
-The next General Elections will be held on the:[color=red] 1st of June 2013[/color]
+The next General Elections will be held on the:[color=red] 5th of May 2013[/color]
 [hr]
 
 Alert level:[color=green]GREEN[/color] | [url=http://www.nationstates.net/page=un]Join the WA[/url] | [b]Featured on: [color=red]1st May 2013[/color][/b]

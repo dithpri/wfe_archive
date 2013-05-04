@@ -3,13 +3,13 @@
 [color=red][i]Please join the World Assembly and endorse our WA Delegate.[/i][/color]
 -
 -
-[b]Host Member:[/b] [nation]Domanouq[/nation]
-[b]The President of the United Assembly:[/b] [nation]The Grand Danish Empire[/nation]
+[b]Host Member:[/b] [nation=short]Domanouq[/nation]
+[b]The President of the United Assembly:[/b] [nation=short]The Grand Danish Empire[/nation]
 [list]
-[*][b]Chairman of the Union Department of Defence:[/b] [nation]Resaeland[/nation]
-[*][b]Chairman of the Union Department of Economy:[/b] [nation]Northern German Unity[/nation]
-[*][b]Chairman of the Union Department of Justice:[/b] [nation]Scottish Peoples Republic[/nation]
-[*][b]Chairman of the Union Department of International Affairs:[/b] [nation]Panaulas[/nation]
+[*][b]Chairman of the Union Department of Defence:[/b] [nation=short]Resaeland[/nation]
+[*][b]Chairman of the Union Department of Economy:[/b] [nation=short]Northern German Unity[/nation]
+[*][b]Chairman of the Union Department of Justice:[/b] [nation=short]Scottish Peoples Republic[/nation]
+[*][b]Chairman of the Union Department of International Affairs:[/b] [nation=short]Panaulas[/nation]
 [/list]
 -
 -

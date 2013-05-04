@@ -9,7 +9,7 @@ Minister for Foreign Affairs: [nation]Cyrahzia[/nation]
 Minister for Justice: [nation]Nicaea-West Pontus[/nation]
 Minister for Recruitment: [nation]Aanon Bay[/nation]
 Minister for Defence: [nation]Shakovina[/nation]
-Minister for Citizenship: [nation]Migraton[/nation] 
+Minister for Citizenship and Engagement: [nation]Migraton[/nation] 
 
 [b]JUDICIARY[/B]
 
