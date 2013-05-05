@@ -9,7 +9,7 @@ President: [nation=short]Brentonania[/nation] [color=darkred](T)[/color]
 Vice President: [nation=short]The Templarian Order[/nation] (A)
 Secretary of State: [nation=short]Cnor79[/nation] [color=darkblue](WH)[/color]
 Secretary of Defense: 
-Secretary of Business: [nation=short]Domination6[/nation]
+Secretary of Recruitment:
 Secretary of Foreign Affairs: [nation=short]Ferenginar Prime[/nation] [color=darkred](T)[/color]
 Secretary of Regional Affairs: [nation=short]Colorinia[/nation] [color=grey](M)[/color]
 
