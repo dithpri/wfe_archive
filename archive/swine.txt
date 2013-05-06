@@ -7,8 +7,8 @@ Minister of Diplomacy: [nation]Broccoli[/nation] &amp;lt; who in their right min
 Minister of Intelligence: [nation]The Onion[/nation] &amp;lt; defending Swine from the heathens
 Minister of War: [nation]Lewina[/nation] &amp;lt; bringing democracy to the heathens
 Minister of Agriculture: [nation]Vreddo[/nation] &amp;lt; he makes our farms prosperous
-Minister of Internal Affairs: [nation]Kamchastkia[/nation] &amp;lt; crushes political dissent
 Minister of Education: [nation]Armenia II[/nation] &amp;lt; educates the peasants
+Minister of Music: [nation]Gaveo II[/nation] &amp;lt; leader of the marching band
 
 IRC: webchat.freenode.com #regionofswine
 [url=http://swine.proboards.com/]Forum[/url]

@@ -8,8 +8,8 @@ Overlord: [nation=short]King George Washington[/nation] [color=darkblue](WH)[/co
 President: [nation=short]Brentonania[/nation] [color=darkred](T)[/color]
 Vice President: [nation=short]The Templarian Order[/nation] (A)
 Secretary of State: [nation=short]Cnor79[/nation] [color=darkblue](WH)[/color]
-Secretary of Defense: 
-Secretary of Recruitment:
+Secretary of Defense: [nation=short]The Rogues of Sense[/nation] [color=darkred](T)[/color]
+Secretary of Recruitment: [nation=short]The Poor Fellow-Soldiers of Christ[/nation] [color=darkred](T)[/color]
 Secretary of Foreign Affairs: [nation=short]Ferenginar Prime[/nation] [color=darkred](T)[/color]
 Secretary of Regional Affairs: [nation=short]Colorinia[/nation] [color=grey](M)[/color]
 

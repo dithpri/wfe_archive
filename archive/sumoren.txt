@@ -1,0 +1,12 @@
+[u][b][color=darkred][region]Sumoren[/region] Regional Government[/color][/b][/u]
+
+[b]Founder[/b] : [b][nation=short]Oughkimdelumi[/nation][/b]
+[b][color=darkblue]Chancellor[/color][/b] : ((NATION))
+[b][color=blue]WA Delegate[/color][/b] : ((NATION))
+
+[u][b][color=darkred]High council[/color][/b][/u]
+
+[b][color=darkgreen]War council[/color][/b] : ((NATION)) , ((NATION)) , ((NATION)) 
+[b][color=red]Law and Order council[/color][/b] : ((NATION)) , ((NATION)) , ((NATION)) 
+[b][color=light]Foreign affairs council[/color][/b] : ((NATION)) , ((NATION)) , ((NATION)) 
+

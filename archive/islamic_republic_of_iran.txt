@@ -23,6 +23,6 @@
 
 *Minister for Defense and Internal Affairs: [nation=short]United Azawad[/nation]
 
-*Minister of Culture and Islamic Guidance: [nation=short]Eastern Arab Empire[/nation][/b]
+*Minister of Culture and Islamic Guidance: [nation=short]Eastern Arab Empire[/nation]
 
-[color=red]Allied with: [region]United Empire of Islam[/region], [region]Federation of Free States[/region], [region]RORMS[/region], [region]Central Pacific Empire[/region] and [region]Foxtopia[/region][/color]
+[color=red]Allied with: [region]United Empire of Islam[/region], [region]Federation of Free States[/region], [region]RORMS[/region], [region]Central Pacific Empire[/region] and [region]Foxtopia[/region][/color][/b]

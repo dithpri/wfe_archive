@@ -2,10 +2,9 @@
 [hr]
 
 [b]Executive Government[/b]
-Prime Minister:[color=red] Vacant[/color]
-Deputy Prime Minister:[color=red] Vacant[/color]
-Lord Chief Justice:[color=red] Vacant[/color]
-
+Prime Minister: [nation=shortname]Partirius[/nation]
+Deputy Prime Minister: [nation=shortname]Alcont[/nation]
+Lord Chief Justice: [nation=shortname]ShenGuo[/nation]
 [hr]
 
 [b]Administrative Government[/b]
@@ -15,19 +14,18 @@ Ministry of Immigration:[color=red] Vacant[/color]
 [hr]
 
 [b]Court of Justice[/b]
-Lord Chief Justice:[color=red] Vacant[/color]
+Lord Chief Justice: [nation=shortname]ShenGuo[/nation]
 Lord Justice: [color=red] Vacant[/color]
 Lord Justice: [color=red] Vacant[/color]
-[hr]
-
-[b]Ruling Political Part:[/b] [color=blue][b]TBA[/b][/color]  
 [hr]
 
 [b]Government Election Date[/b]
-The next General Elections will be held on the:[color=red] 5th of May 2013[/color]
+The next General Elections will be held on the:[color=red] 16th of June 2013[/color]
 [hr]
+
+[b]Please endorse: [nation=shortname]Partirius[/nation] as your Prime Minister[/b]
 
 Alert level:[color=green]GREEN[/color] | [url=http://www.nationstates.net/page=un]Join the WA[/url] | [b]Featured on: [color=red]1st May 2013[/color][/b]
 [hr]
 
-[url=http://commonwealthofkings.africamotion.net]Regional Forum[/url] | [url=http://commonwealthofkings.africamotion.net/t13-regional-map]Regional Map[/url] | [url=http://client01.chat.mibbit.com/?channel=%23CoK&amp;amp;server=irc.esper.net]IRC[/url] | [url=http://thomasalrich6.wix.com/commonwealth]Website[/url] | [url=https://twitter.com/CommonwealthK]Twitter Page[/url]
+[url=http://commonwealthofkings.africamotion.net]Regional Forum[/url] | [url=http://commonwealthofkings.africamotion.net/t13-regional-map]Regional Map[/url] | [url=http://client01.chat.mibbit.com/?channel=%23CoK&amp;amp;server=irc.esper.net]IRC[/url] | [url=http://thomasalrich6.wix.com/commonwealth]Website[/url] | [url=https://twitter.com/CommonwealthK]Twitter Page[/url] | [url=https://docs.google.com/spreadsheet/viewform?rm=full&amp;amp;formkey=dGVhNzdEUjJ2VWpHT0dsOGhPcW9SZnc6MQ#gid=0]Embassy Application Request[/url] | [url=https://docs.google.com/forms/d/1WiP7YiDb8YvFXN1YMN-9a3Xjk0IQYRzAyHhykOiO5LA/viewform]Citizen Application Request[/url]

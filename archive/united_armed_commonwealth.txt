@@ -7,5 +7,5 @@ The Junta:
 [b][color=red]Minister of Interior:[/b][/color]
 [b][color=red]Minister of Foreign Affairs:[/b][/color]
 [b][color=red]Minister of Defence:[/b][/color] [nation=war-reapers]
-[b][color=red]Minister of Education:[/b][/color]
+[b][color=red]Minister of Education:[/b][/color] [nation=griemland]
 [b][color=red]Minister of Economy:[/b][/color]
