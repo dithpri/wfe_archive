@@ -6,10 +6,10 @@ Chain of Command
 [b][color=blue]WA Delegate: [nation=Linkazonia]
 Union Overseer: [nation=Chermania][/color]
 Minister&amp;#39;s:
-[color=blue]War &amp;amp; Armaments: [nation=happ-evil]
-Law Enforcement &amp;amp; Healthcare: [nation=Jewphobia]
-Economy &amp;amp; Services: [nation=Llama-land]
-Foreign Affairs &amp;amp; National Archives: [nation=Chermania]
+[color=blue]Defense &amp;amp; Armaments: [nation=happ-evil]
+Interior &amp;amp; Healthcare: [nation=Jewphobia]
+Finance &amp;amp; Services: [nation=Llama-land]
+Foreign Affairs: [nation=Chermania]
 Spetsnaz: [nation=Linkazonia][/b][/color]
 
 National Religion: Agnostic / Atheist

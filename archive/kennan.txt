@@ -1,13 +1,8 @@
 [color=green][b]Important Links[/b][/color]
-[url=http://goo.gl/CUiya]Kennan Map[/url] [b]|[/b] [url=http://goo.gl/iAwzW]Neutral Island Map[/url] [b]|[/b] [url=http://goo.gl/rahj3]Kennan Offsite Forum[/url] [b]|[/b] [url=http://goo.gl/v21ls]Straight-Up Legit Ghetto Version of Kennan[/url]
+[url=http://goo.gl/CUiya]Kennan Map[/url] [b]|[/b] [url=http://goo.gl/rahj3]Kennan Offsite Forum[/url] [b]|[/b] [url=http://goo.gl/pzGqE]Kennan Wiki[/url]
 
 [color=purple][b]Kennan Regional Council[/b][/color]
-[url=http://goo.gl/rPSQc]Resolution #39: Activity Checks v2.0[/url]
-[color=red]PASSED[/color]
-
-
-[url=http://goo.gl/1tMYT]Resolution #40: Procedures of Voting[/url]
-[color=red]PASSED[/color]
+--Currently none--
 
 [b][color=purple]Kennan Union[/color][/b]
 --Currently none--
@@ -24,4 +19,6 @@
 May 31, 2013
 
 [color=blue][b]Candidates[/b][/color]
-[list][*][nation]Ethan Foley[/nation][/list]
+[list]
+[*][nation=short]Vinco[/nation] (on behalf of [nation=short]Ethan Foley[/nation])
+[/list]

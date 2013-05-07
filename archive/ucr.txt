@@ -4,7 +4,7 @@ ________________________________________________________________
 PRESIDENT: [nation]the united slavic tsardom[/nation]
 VICE PRESIDENT: [nation=short]saganitopia[/nation] ~ please endorse
 MINISTER OF DEFENSE: [nation=short]Draganograd[/nation]
-MINISTER OF FOREIGN AFFAIRS: [nation=short]the Irish second coming[/nation]
+MINISTER OF FOREIGN AFFAIRS: open
 MINISTER OF INTERNAL AFFAIRS: [nation=short]Democratic North Korea[/nation]
 MINISTER OF RECRUITING: [nation=short]Soviet American States[/nation]
 _________________________________________________________________

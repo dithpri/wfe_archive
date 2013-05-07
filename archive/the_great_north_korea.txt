@@ -2,21 +2,21 @@
 
 [hr]
 
-[b][color=crimson][u][url=http://www.k-dpr.weebly.com]Democratic People&amp;#39;s Republic of Korea website[/url][/u]
+[color=crimson][u][url=http://www.k-dpr.weebly.com]Democratic People&amp;#39;s Republic of Korea website[/url][/u]
 [hr]
 
-Political Party:[nation]the Great North Korea[/nation]
+The Regional Government:
 
-Military:[nation]Revolutionary North Korea[/nation]
-
-Capital City:[nation=short]Pyongyang-[/nation]
-
-The People:[nation]The Voice of Korea[/nation][/b][/color]
+-[nation=short]Comrade Mark[/nation], Great Founder.
+-[nation=short]Juche Union[/nation], People&amp;#39;s Representative.
+-[nation=short]Lock EVA Sung[/nation], Minister of Foreign Affairs and Korean Regional Unification.
+-[nation=short]The Cuban Comintern[/nation], Minister of Internal Affairs.
+-[nation=short]The God-Realm[/nation], Minister of Justice.[/color]
 [hr]
 
-[color=royalblue][b]Long live Eternal President [nation=short]KIM IL SUNG-[/nation]![/b]
+[color=royalblue][b]Long live Eternal President [nation=short]KIM IL SUNG-[/nation]!
 
-[b]No Motherland Without Comrade [nation=short]Kim Jong Il-[/nation]![/b]
+No Motherland Without Comrade [nation=short]Kim Jong Il-[/nation]!
 
-[b]Let Us Protect Respected Leader [nation=short+blue]KIM JONG UN-[/nation] With Our Lives![/b][/color]
+Let Us Protect Respected Leader [nation=short+blue]KIM JONG UN-[/nation] With Our Lives![/b][/color]
 

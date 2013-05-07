@@ -1,9 +1,4 @@
-[b]Regions to be Liberated[/b]
-[region]Global Federation of Nations[/region]
-[region]Global Alliance[/region]
-[region]United Coalition[/region]
+[u][b]TERRITORY OF [region]THE COMMONWEALTH OF CROWNS[/region][/u][/b]
 
-This region was once home to a rebellion led by [nation]Skako[/nation] and backed by [region]The Commonwealth of Crowns[/region]. Relations have been mended with [nation=short]Skako[/nation] however [region]The Commonwealth of Crowns[/region] has become a colonialist region that seeks to subject others to their rule and force themselves when not wanted.
-Though earlier they helped save the GFN and GA they have long over stayed their welcome and continue to oppress of the last natives of the GFN.
-
-The Cavern Accords signed at [region]The Cavern[/region] have been thrown out as the CoC refuses to recognize the right to self determination and continues to oppress the GFN and GA ignoring the will of the native peoples.
+First created by Skako as a rebellion against [region]Global Alliance[/region], supported by [region]The Commonwealth of Crowns[/region].
+Briefly conquered by [nation]Wiendonia[/nation] in 2012, but re-annexed by [nation]Borduriaa[/nation]n forces for the Commonwealth.
