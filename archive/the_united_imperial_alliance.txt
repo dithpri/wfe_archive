@@ -1,5 +1,5 @@
 UIA - United Imperial Alliance
-[u]The High Counsel[/u]
+[u]The High Council[/u]
 [nation]The Enclave1[/nation]
 [nation]Veliria[/nation]
 [nation]The Cadian Dominion[/nation]
@@ -8,7 +8,7 @@ UIA - United Imperial Alliance
 [nation]Panem321[/nation]
 [nation]McContrag[/nation]
 
-[u]The Counsel[/u]
+[u]The Council[/u]
 [u]Contains every nation (Including Anterrans, Machines and TBA Rilthens)[/u]
 
 [u]The Machine Union[/u]

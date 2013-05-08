@@ -4,8 +4,8 @@ Welcome to The New Templar Order, a region that accepts all, and fights against 
 
 [u][color=darkred][b]The Government[/b][/color][/u]
 
-Overlord: [nation=short]King George Washington[/nation] [color=darkblue](WH)[/color]
-President: [nation=short]Brentonania[/nation] [color=darkred](T)[/color]
+Overlord: [nation=short]Brentonania[/nation] [color=darkred](T)[/color]
+President: 
 Vice President: [nation=short]The Templarian Order[/nation] (A)
 Secretary of State: [nation=short]Cnor79[/nation] [color=darkblue](WH)[/color]
 Secretary of Defense: [nation=short]The Rogues of Sense[/nation] [color=darkred](T)[/color]

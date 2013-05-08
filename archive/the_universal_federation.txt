@@ -6,7 +6,7 @@
 Supreme chancellor of the federation: [nation]Slekomania[/nation]
 Leading political advisor of the Supreme chancellor: [nation]Rahni[/nation]
 Generalissimus of the great united army of the federation:
-Commander of propaganda:
+Commander of propaganda: [nation]Cordoba Caliphate[/nation]
 Commander of foreing affairs:
 Commander of internal affairs:
 Captain of the united police force of the Federation: [nation]Chapmanian Kingdom[/nation]

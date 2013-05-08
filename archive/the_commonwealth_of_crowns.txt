@@ -19,6 +19,6 @@ Governor,CCCB:[nation=short]The langobardi[/nation]
 Maps: [nation=short]The Quadruple Alliance[/nation]
 [hr][b]Crowns Court of Justice[/b]
  [nation=short]Vetega[/nation](J), [nation=short]Oberseewald[/nation](J)
-Prosecutor General:[nation=short]the Antarctica Territories[/nation][hr]
+Prosecutor General:[hr]
 [hr]
 [b]Active  RPS[/b]: [url=http://w11.zetaboards.com/CommonwealthOfCrowns/topic/8748395/1/#new]Return to Dusk[/url]

@@ -1,6 +1,6 @@
 [b][REGION]NORTH KOREA[/REGION][hr][hr]
 
-Members of the Presidium of the Politburo
+Provisional Government
 
 [nation=short]Rodong 1[/nation] - Non-executive WAD 
 
@@ -28,4 +28,4 @@ Ruling Political Party: [region]Workers Party Korea[/region]
 
 Military: [region]Korean Peoples Army[/region][hr][hr]
 
-Member of [u][region]The Left Interregional[/region][/u][/b]
+Member of [region]The Left Interregional[/region] and [region]Regional Defense Committee[/region][/b]

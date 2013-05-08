@@ -7,8 +7,8 @@
 [color=red]Chef der Wehrmacht:[nation=short]Deutches Reich[/nation]
 Chef der Heer:[nation=short]Future German Reich[/nation]
 Chef der Kriegsmarine:[nation=short]The Greater Imperial Japan[/nation]
-Chef der Luftwaffe:[nation=short]Great Holy Prussia[/nation]
-Chef der Schutzstaffel:[nation=short]The German Socialist Union[/nation][/color]
+Chef der Luftwaffe:[nation=short]George Lincoln Rockwell[/nation]
+[/color]
 
 [u]Zivilist (Civillian)[/u]
 

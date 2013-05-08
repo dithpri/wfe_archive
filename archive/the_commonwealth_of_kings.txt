@@ -8,11 +8,11 @@ Lord Chief Justice: [nation=shortname]ShenGuo[/nation]
 [hr]
 
 [b]Administrative Government[/b]
-Minister of Internal Development:[nation=shortname]Alestadt[/nation]
+Ministry of Internal Development:[nation=shortname]Alestadt[/nation]
 Ministry of International Development:[nation=shortname]Ceased[/nation]
 Ministry of Immigration:[nation=shortname]Nautic[/nation]
-Ministry of Culture: [nation]SaudiPakistan[/nation]
-Ministry of Defense: [color=red] Vacant[/color]
+Ministry of Culture: [nation=shortname]SaudiPakistan[/nation]
+Ministry of Defense: [nation=shortname]Lyncanestria[/nation]
 
 
 [b]Court of Justice[/b]
@@ -25,7 +25,7 @@ Lord Justice: [color=red] Vacant[/color]
 General Elections will be held on the:[color=red] 16th June 2013[/color]
 [hr]
 
-[b]Please endorse: [nation=shortname]Partirius[/nation] as your Prime Minister[/b]
+[b]Endorse [nation=shortname]Partirius[/nation] as your Prime Minister[/b]
 
 Alert level:[color=green]GREEN[/color] | [url=http://www.nationstates.net/page=un]Join the WA[/url] | [b]Featured on: [color=red]1st May 2013[/color][/b]
 [hr]

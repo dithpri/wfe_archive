@@ -2,7 +2,7 @@
 ________________________________________________________________
 [u]GOVERNMENT:[/u]
 PRESIDENT: [nation]the united slavic tsardom[/nation]
-VICE PRESIDENT: [nation=short]saganitopia[/nation] ~ please endorse
+VICE PRESIDENT: [nation=short]new saganitopia[/nation] ~ please endorse
 MINISTER OF DEFENSE: [nation=short]Draganograd[/nation]
 MINISTER OF FOREIGN AFFAIRS: open
 MINISTER OF INTERNAL AFFAIRS: [nation=short]Democratic North Korea[/nation]
