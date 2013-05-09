@@ -5,11 +5,11 @@ First Lord/Founder: [nation=noflag]Armud[/nation]
 First Lord: [nation=noflag]Pyravar II[/nation]
 
 [b]Heads of Government[/b]
-Chancellor: [i]Unelected![/I]
-Vice Chancellor: [i]Unelected![/i]
+Chancellor: [i]Unappointed![/I]
+Vice Chancellor: [i]Unappointed![/i]
 
 [b]Miscellaneous[/b]
-WA Delegate: [i]Unelected![/i]
+WA Delegate: [i]Unappointed![/i]
 
 Ceseris Forums: [url=http://s13.zetaboards.com/ceseris]http://s13.zetaboards.com/ceseris[/url]
 

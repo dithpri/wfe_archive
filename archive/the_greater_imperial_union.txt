@@ -7,8 +7,7 @@
 [b]Supreme Senator of Foreign Affairs and Diplomatic Relations:[nation]The Second Transcaucasian Confederacy[/nation][/b]
 [b]Grand Senator of Internal Affairs:[nation]The Imperial Nation[/nation][/b]
 [b]Regional WA Delegate:[nation]Colonial State[/nation][/b]
-[b]Forum Security minister:[/b] postion currenly vacant
-[b]Social policy Minister:[/b] postion currently vacant
+[b]Forum Security minister:[nation]The Supreme State of Rush[/nation][/b]
 
-[b][color=darkgreen]|Regional Policy:|[/color] Endorsement Cap: 5[/b]
-[b][color=darkgreen]|latest News Feed:|[/color][/b]
+[b][color=darkgreen]|Regional Policy:|[/color][/b]Legislation pending
+[b][color=darkgreen]|latest News Feed:|[/color][/b] Legislation pending  

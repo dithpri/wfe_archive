@@ -10,7 +10,7 @@ II) Vice-Secretary: [nation=short]House of Griffindor[/nation]
 III)Speaker of Senate:[nation=short]The French Kingdom[/nation]
 
 [b]Cabinet Members[/b]
-I) Foreign Minister: *acting* [nation=short]House of Griffindor[/nation]
+I) Foreign Minister: [nation=short]Buena Suerte[/nation]
 II)Defense Minister:[nation=short]Alpacanzia[/nation]
 
 *More members to be added as more nations become available*

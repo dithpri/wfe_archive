@@ -11,16 +11,13 @@
 
 [color=grey][b]Regional Secretary of Foreign Affairs:[/b][/color] [Nation=Elanore]
 
-[color=grey][b]Diplomatic Envoy At Large, Ministry of Foreign Affairs :[/b][/color]
-[Nation=Slovenya]
+[color=grey][b]Diplomatic Envoy At Large:[/b][/color]: [Nation=Slovenya],
+
+[color=grey][b]Good Will Ambassador[/b][/color]: [Nation=Nomadic sister of shawnas north africa]
 
 [color=grey][b]Regional Defence Minister :[/b][/color]  [Nation=Rekolanoja oasis]
 
-[color=grey][b]Def Attache[/b][/color] :[Nation=Irrutia]
-
 [color=Purple][b]Joint Chiefs of Staff [/b][/color]: [Nation=New Queensberry 2]
-
-[color=Purple][b]Office of the Protectorate[/b][/color] : [Nation=United America of the North]
 
 [color=grey][b]Director of Regional Bureau of Investigation[/b][/color] :  [Nation=Rezene]
 
