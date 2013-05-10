@@ -1,13 +1,14 @@
 We are Capitalists, United, and Free.
 
 Regional Government:
-President: Poder Mundial
-Vice-President: Borincana
-Secretary of State: Nethonesia
-Secretary of Defense: Zervan
-Secretary of Foreign Affairs: Power Domination
+President: [nation=short]Poder Mundial[/nation]
+Vice-President: [nation=short]Borincana[/nation]
+Secretary of State: [nation=short]Nethonesia[/nation]
+Secretary of Defense: [nation=short]Zervan[/nation]
+Secretary of Foreign Affairs: [nation=short]Power Domination[/nation]
 
-President of Senate: Silver Port
+President of Senate:[nation=short]Silver Port[/nation]
+Senator: [nation=short]FCB Land[/nation]
 
 Regional News:
 Any nation is welcomed in this region. Endorse your WA Delegate and President.

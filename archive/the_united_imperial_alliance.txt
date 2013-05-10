@@ -5,7 +5,6 @@ UIA - United Imperial Alliance
 [nation]The Cadian Dominion[/nation]
 [nation]Haltioiden[/nation]
 [nation]The Allied Empire Of Colombia[/nation]
-[nation]Panem321[/nation]
 [nation]McContrag[/nation]
 
 [u]The Council[/u]
@@ -16,3 +15,5 @@ UIA - United Imperial Alliance
 
 [u]UIA Recruiter[/u]
 [nation]Calatani[/nation]
+
+[u]Anterran Supporters and Anterran Colony[/u]
