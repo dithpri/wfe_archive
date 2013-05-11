@@ -1,19 +1,19 @@
-head of region&amp;gt; us saxophone
+head of region&amp;gt; [color=green]us saxophone[/color]
 
-vice head of region&amp;gt; vacant
+vice head of region&amp;gt; [color=red]vacant[/color]
 
-head of world assembly&amp;gt; vacant
+head of world assembly&amp;gt; [color=red]vacant[/color]
 
-head of military&amp;gt; vacant
+head of military&amp;gt; [color=red]vacant[/color]
 
-head of state&amp;gt; vacant
+head of state&amp;gt; [color=red]vacant[/color]
 
-head of council&amp;gt; vacant
+head of council&amp;gt; [color=red]vacant[/color]
 
-head of zombie control&amp;gt; vacant
-
-
-http://ussaxophonemap.WebStarts.com	for the map 	
+head of zombie control&amp;gt; [color=red]vacant[/color]
 
 
-public election here
+[color=brown]http://ussaxophonemap.WebStarts.com[/color] [color=blue]for the map[/color] 	
+
+
+[color=blue]public election here[/color]

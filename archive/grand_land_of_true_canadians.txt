@@ -1,9 +1,8 @@
-Proud to be Canadian? This is, without question, the region for you! We hold open elections for prime minister. 
-[B]Regional Information:[/B] [nation]Grand Land of True Canadians Information[/nation]
-[Check fact-book]
+Welcome to TGLTC. We are an active and highly involved region. 
+[B]Regional Information:[/B] [nation]Grand Land of True Canadians Information[/nation] [Check fact-book]
 
 [b]WA Delegate:[/b] [nation]Old World Egypt[/nation]
-[b]Prime-minister:[/b] none
+[b]Prime-minister:[/b] [nation]Dontrusiem[/nation]
 [b]Parliament:[/b]
 [nation]Monsterdam[/nation]
 [nation]English Kings[/nation]

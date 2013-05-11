@@ -7,7 +7,7 @@ President:[/b] [nation=short]United Horizon[/nation]
 [b]Chief Justice:[/b] [nation=short]Sheltopolis[/nation]
 
 [u][b]Supreme Court[/u][/b]
-[NATION=SHORT]Kraannei[/nation]
+[nation=short]Kraannei[/nation]
 
 
 

@@ -7,10 +7,5 @@ Foreign Relations
 
 Status
 ( ) War
-( ) Alert
-(x) Peace
-
-Known Planets with Life
--Oblivioni
--Earth
--X-86
+(x) Alert
+( ) Peace
