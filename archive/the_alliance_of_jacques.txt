@@ -13,4 +13,4 @@ PM: [nation=short]Ivory Rhodes[/nation]
 Defense Minister: [nation=short]Banagpie[/nation] (awaiting acceptance)
 Commerce Minister: [nation=short]United Independent States of America[/nation] (awaiting acceptance)
 Human Rights Minister: [nation=short]Wolny Kraj[/nation]
-Recruitment Minister: Vacant
+Recruitment Minister: [nation=short]The Andrewtopian Republic[/nation]
