@@ -6,10 +6,10 @@ Vice WA Delegate(s):  [nation=short]Confederate People of the United States[/nat
 Manager of Internal Affairs:  [nation=short]Conservative Idealism[/nation] (LSP) 
 Manager of Military Affairs:  [nation=short]The New Sea Territory[/nation]
 Manager of the State:  [nation=short]Chapelgoer[/nation] (RP)
-Chairman of the Board:  VACANT
+Chairman of the Board:  [nation=short]Miencraft[/nation] (RP)
 Board Member:  [nation=short]Coolidgestein[/nation] (RP)
 Board Member:  [nation=short]The Constitutional Land of Freedom[/nation] (LSP)
-Board Member:  [nation=short]Miencraft[/nation] (RP)
+Board Member:  VACANT
 Board Member:  [nation=short]Rebelland[/nation] (DRP)[/b] 
 
 [b][url=http://www.nationstates.net/nation=the_law_of_libertatem/detail=factbook/id=75156]The Constitution of Libertatem[/url][/b]

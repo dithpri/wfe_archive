@@ -10,7 +10,7 @@ Minister of Education: Vacant
 Minister of Foreign Affairs: Vacant
 Minister of Internal Affairs: Vacant
 Council Seat 1: Vacant
-Council Seat 2: Vacant
+Council Seat 2: [nation]Hapha[/nation]
 Council Seat 3: [nation]Blazika[/nation]
-Council Seat 4: [nation]Timerica[/nation]
-Council Seat 5: [nation]Hapha[/nation]
+Council Seat 4: Vacant
+Council Seat 5: Vacant

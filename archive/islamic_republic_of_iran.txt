@@ -6,21 +6,14 @@
 
 [color=brown]*Supreme Leader:[/color] [color=red][i]His Excellency Grand Ayatollah Sayyid[/i][/color] [nation=short]Ognjen Ahmadinejad[/nation] ([color=red]Office term: July 28, 2012. - present[/color] )
 
-[color=brown]*President:[/color] [i][color=red]His Excellency[/color][/i] [nation=short]Ognjen Ahmadinejad II[/nation] ([color=red]Interim[/color])
+*President and Minister for Foreign Affairs: [i][color=red]His Excellency[/color][/i] [nation=short]Ognjen Ahmadinejad II[/nation] ([color=red]Interim[/color])
 
-[color=brown]*First Vice President:[/color]  [i][color=red]The Honourable[/color][/i] [nation=short]Western Arab Empire[/nation] ([color=red]Office term: October 25, 2012. - present[/color] )
+*First Vice President and Minister of Justice: [i][color=red]The Honourable[/color][/i] [nation=short]Western Arab Empire[/nation] ([color=red]Office term: October 25, 2012. - present[/color] )
 
-[color=brown]*Vice President for Defense and Internal Affairs: [/color][i][color=red]The Honourable[/color][/i] [nation=short]United Azawad[/nation]
-
-[u][color=green]Cabinet[/color][/u]
-
-*Minister for Foreign Affairs: [nation=short]Ognjen Ahmadinejad II[/nation] 
-
-*Minister of Justice: [nation=short]Eastern Arab Empire[/nation]
-
-*Minister of Intelligence and National Security: [color=red]VACANT[/color]
-
-*Minister of Culture and Islamic Guidance: [color=red]VACANT[/color]
+*Vice President for Defense and Internal Affairs: [i][color=red]The Honourable[/color][/i] [nation=short]United Azawad[/nation]
 
 
-[color=red]Allied with: [region]United Empire of Islam[/region], [region]Federation of Free States[/region], [region]RORMS[/region], [region]Central Pacific Empire[/region] and [region]Foxtopia[/region][/color][/b]
+
+
+
+[color=red]Allied with: [region]United Empire of Islam[/region], [region]Federation of Free States[/region], [region]RORMS[/region], [region]Foxtopia[/region] and [region]Central Pacific Empire[/region][/color][/b]
