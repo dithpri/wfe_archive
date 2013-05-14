@@ -1,6 +1,6 @@
-Supreme Leader: St Gabriel/WA Delegate                                          Rules: Thriving or above economy
+Supreme Leader: St Gabriel                                      Rules: Thriving or above economy
 
-Ambassador to World Assembly: St Gilondor
+Prime Minister: St Gilondor
 
 Lord Chancellor: Canarialand
 
@@ -9,6 +9,8 @@ Minister of Finance: At Vote
 Ambassador to Kara Magnum: Caputan
 
 Ambassador to Ironwell: Rubysea
+
+Ambassador to Right to Life: Birchlandia
 
 Minister of Education: Gregoriopolis
 

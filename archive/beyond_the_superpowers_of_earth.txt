@@ -1,23 +1,23 @@
 Executive branch 
-President: [nation]Southern Ageena[/nation]
-Vice President: [nation]Jultopia[/nation]
-Minister of Foreign Affairs: [nation]Mojopore[/nation]
-Minister of Defence: [nation]MoorVanguard[/nation]
+President:[nation]Southern Ageena[/nation]
+Vice President:[nation]Jultopia[/nation]
+Minister of Foreign Affairs:[nation]Mojopore[/nation]
+Minister of Defence:[nation]MoorVanguard[/nation]
 
 Judicial branch
-Chief Justice : [nation]Haemo[/nation]
-Justice: [nation]adele[/nation]
-Justice: [nation]Hrathgar Glacier[/nation]
+Chief Justice :[nation]Haemo[/nation]
+Justice:[nation]adele[/nation]
+Justice:[nation]Hrathgar Glacier[/nation]
 
 Legislative branch
-Head Senator: [nation]The Great State of Christopia[/nation]
-Senator: [nation]Delta Zero[/nation]
-Senator: [nation]nazimbia[/nation]
-Senator:[nation]chisa[/nation]
-Senator:
-Senator:
+Head Senator:[nation]The Great State of Christopia[/nation]
+Senators:
+[nation]Delta Zero[/nation]
+[nation]nazimbia[/nation]
+[nation]chisa[/nation]
+[nation]tirada[/nation]
+[nation]mojoland[/nation]
 
-We have a constitution!! : bse.wikia.com/wiki/Constitution_of_BS_of_E
-We have a Wiki!! :  bse.wikia.com
-offsite chatroom: us12.chatzy.com/51369874019291
-Refounded on the 17/04/13
+Constitution: bse.wikia.com/wiki/Constitution_of_BS_of_E
+Wiki: bse.wikia.com
+Chatroom: us12.chatzy.com/51369874019291

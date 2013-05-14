@@ -3,23 +3,27 @@
 
 Regional Government:
 
-President:Dardoillyria
- Vice President:Flattnerk
- Secretary of state:Beta Test
+President: [nation=short+noflag]Dardoillyria[/nation]
+ Vice President: [nation=short+noflag]Flattnerk[/nation]
+ Secretary of state: [nation=short+noflag]Beta Test[/nation]
  Secretary of communications:
- Secretary of Defense:Vaupus[/color]
+ Secretary of Defense: [nation=short+noflag]The Republic of Vapaus[/nation]
+[/color]
 
-[color=blue]The senate:
- Senator:Republic of Rome
- Senator:Callilias
- Senator:Anean Tribes[/color]
+[color=blue]The Senate:
+The President of the Senate: [nation=short+noflag]the anean tribes[/nation]
+ Senator: [nation=short+noflag]Callilias[/nation]
+ Senator: [nation=short+noflag]the republic Rome[/nation][/color]
 
 [color=blue]Judicial Branch
- Supreme Judge:Revolution
- Judge:Cafla
- Judge:Dantooine[/color]
+ Supreme Judge: [nation=short+noflag]Reevolution[/nation]
+ Judge: [nation=short+noflag]Cafla[/nation]
+ Judge: [nation=short+noflag]Dantooine[/nation]
+
+New Republica Guard
+Chairman of the board: [nation=short+noflag]The United Remnants of America[/nation]
+Member: [nation=short+noflag]vladivostak[/nation]
+Member: [nation=short+noflag]Mithea III[/nation] [/color]
  [url=http://newrepublica.createaforum.com/index.php]Our Forum[/url]
-[color=Red]REGIONAL NEWS!!!!!
-  Elections are soon
- New Republica colonies-Democria, New Columbia, The Recovers, FreeNations, Free Market, Universitas Scholarium, New Luna, New Federation of England, Navarian, Verdania, and Criterian
- Bases-Docendo discimus, Armed Alliance of Dirmova, and Anteron[/color]
+[color=Red]REGIONAL NEWS !!!
+[b]Please recruit everybody[/b] [/color]
