@@ -4,6 +4,7 @@ The AGIS specifically contains members of the world&amp;#39;s economic, politica
 
 Regional Government:
 President: [nation]Liberechstein[/nation]
+Vice President: Vacant
 Minister of Defense: Vacant
 Minister of Business: Vacant
 Minister of Education: Vacant
@@ -14,3 +15,4 @@ Council Seat 2: [nation]Hapha[/nation]
 Council Seat 3: Vacant
 Council Seat 4: Vacant
 Council Seat 5: Vacant
+Commander In Chief of Military: Vacant

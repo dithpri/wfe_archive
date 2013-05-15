@@ -2,11 +2,11 @@
 
 [color=green]President[/color]: [nation]Machiamarx Republic[/nation]
 
+[color=blue]Vice President[/color]: [nation]New Berenzik[/nation]
+
 [color=red]Secretary of Defense[/color]: [nation]Kentak[/nation]
 
-[color=blue]Secretary of Immigration[/color]: [nation]Gongeie[/nation]
-
-[color=orange]Secretary of Recruiting[/color]: [nation]Centro California[/nation]
+[color=orange]Secretary of Recruiting[/color]: [nation]Gongeie[/nation]
 
 [color=maroon]Secretary of Foreign Affairs[/color]: [nation]Gaius Marianus[/nation]
 
