@@ -1,12 +1,21 @@
 [b]Thermodolian Regional Government:[/b]
 
-Until the Constitution is written and ratified, a temporary government has been set 
+Until the Constitution is written and ratified, a temporary government has been set up and
+a temporary constitution has been ratified. 
 
 [b]Thermodolian Temporary Government:[/b]
 
+[u]Supreme Leadership[/u]
+
 Supreme Regional Leader: [nation=short]Thermodolia[/nation]
 
-Supreme Regional General: [nation=short]Faustinstin[/nation]
+[u]Supreme Council[/u]
 
-Supreme WA Ambassador: [nation=short]Durstina[/nation]
+Regional General: [nation=short]Faustinstin[/nation]
+
+WA Ambassador: [nation=short]Durstina[/nation]
+
+Minster of Justice: Open 
   
+
+[b]Thermodolian Temporary Constitution:[/b] 

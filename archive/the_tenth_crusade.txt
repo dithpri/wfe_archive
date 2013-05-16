@@ -1,11 +1,10 @@
-We are [b][color=blue]The Poor Fellow-Soldiers of Christ and of the Temple of Solomon[/color][/b], also known as the [b][color=blue]Order of the Temple[/color][/b], or [b][color=blue]Knights Templar[/color][/b].
-[b][color=red]Through our crusades, we will govern the regions that are under the control of the Saracen[/color][/b].
+We are the [b][color=blue] Order of the Temple[/color][/b], or [b][color=blue]Knights Templar[/color][/b]. [b][color=red]Through our crusades, we will govern the regions under the control of the Saracen[/color][/b].
 
 [hr]
-[b][color=red]*** Telegram our Marshal, [nation]The Holy Knights of Jerusalem[/nation] to report for military duty[/color]. *** [i]Failure to do within a week after arrival may result in ejection from our order. This does NOT apply to ambassadors/chaplains.[/i][/b]
+[b][color=red]Telegram our Marshal, [nation]The Holy Knights of Jerusalem[/nation] to report for military duty[/color]. [i]Failure to do within a week after arrival may result in ejection from our order. This does NOT apply to ambassadors/chaplains.[/i][/b]
 [hr]
 [b]Grand Master[/b]: [nation]New Crusaders[/nation]
-[b]Seneschal[/b]: Vacant
+[b]Seneschal[/b]: [nation]San Guerra[/nation]
 [b]Marshal[/b]: [nation]The Holy Knights of Jerusalem[/nation]
 [b]Under Marshal[/b]: [nation]Anzaba[/nation]
 [b]Standard Bearer[/b]: Vacant

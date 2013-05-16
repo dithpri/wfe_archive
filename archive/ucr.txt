@@ -3,7 +3,8 @@ ____________________________________________
 [u]GOVERNMENT:[/u]
 PRESIDENT: [nation=short]Kavamkao[/nation] ~ please endorse
 MINISTER OF DEFENSE: [nation=short]Draganograd[/nation]
-MINISTER OF FOREIGN AFFAIRS: [/color][color=blue][u]OPEN![/u][/color][color=red]
+MINISTER OF FOREIGN AFFAIRS: [nation=short]Albul Region Aid[/nation]
+MINISTER OF EDUCATION: [u]OPEN![/u]
 MINISTER OF INTERNAL AFFAIRS: [nation=short]Lunaka[/nation]
 MINISTER OF RECRUITING: [nation=short]Soviet American States[/nation]
 ____________________________________________

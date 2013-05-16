@@ -15,5 +15,5 @@ President:[/b] [nation=short]Shelstein[/nation]
 [*][color=orange]ORANGE[/color] - Threatened
 [*][color=red]RED[/color] - Invasion/Lockdown
 [/list]
-[b]Current Level:[/b] [color=green]GREEN[/color][hr][b][u][color=blue]News[/b][/u][/color]
+[b]Current Level:[/b] [color=yellow]YELLOW[/color][hr][b][u][color=blue]News[/b][/u][/color]
 [color=red]Telegram [nation=short]Shelstein[/nation] if you would like to become a Senator (details on RMB)[/color]
