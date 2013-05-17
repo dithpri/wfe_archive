@@ -3,7 +3,7 @@ Officials of the Carptopian Enclave:
 
 President/Founder: [nation]Carptopia[/nation]
 
-WA Delegate: [nation]The Zorrah[/nation]
+WA Delegate: [nation]Thoumotherland[/nation]
 
 Guardian: [nation]LionBlaze follower[/nation]
 
@@ -21,4 +21,6 @@ Threat Levels:
 [color=orange]ORANGE[/color]:BE ON THE LOOK OUT
 [color=red]RED[/color]:ITS WAR PREP NUKES
 
-[color=green]CURRENT THREAT LEVEL:GREEN[/color]
+[color=blue]CURRENT THREAT LEVEL:BLUE[/color]
+
+[color=purple]TODAY&amp;#39;S FEATURED NATION IS[/color]: [nation]Sneikland[/nation]

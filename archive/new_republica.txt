@@ -11,7 +11,7 @@ President: [nation=short+noflag]Dardoillyria[/nation]
 [/color]
 
 [color=blue]The Senate:
-The President of the Senate: [nation=short+noflag]the anean tribes[/nation]
+ President Pro Tempore of the Senate: [nation=short+noflag]the anean tribes[/nation]
  Senator: [nation=short+noflag]Callilias[/nation]
  Senator: [nation=short+noflag]the republic Rome[/nation][/color]
 
@@ -28,3 +28,4 @@ Member: [nation=short+noflag]Mithea III[/nation] [/color]
  [url=http://www.nationstates.net/nation=claflin/detail=factbook/id=127304]Citizen Application[/url]
 [color=Red]REGIONAL NEWS !!!
 [b]Please recruit everybody[/b] [/color]
+[url=http://www.nationstates.net/nation=claflin/detail=factbook/id=128046]Recruitment Message[/url]

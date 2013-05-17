@@ -1,30 +1,30 @@
-[b][color=lightgreen]Largest Economy:[/color][/b] [nation=short]Shinikame[/nation] [ $67.8 trillion ]
+[b][color=lightgreen]Largest Economy:[/color][/b] [nation=short]Shinikame[/nation] [ $87.1 trillion ]
 
-[b][color=lightgreen]Smallest Economy:[/color][/b] [nation=short]Nova Africa[/nation] [ $109.0 billion ]
+[b][color=lightgreen]Smallest Economy:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $59.0. trillion ]
 
-[b][color=lightgreen]Highest GDP Per Capita:[/color][/b] [nation=short]X1ng[/nation] [ $43,450.49 ]
+[b][color=lightgreen]Highest GDP Per Capita:[/color][/b] [nation=short]Shinikame[/nation] [ $33,713 ]
 
-[b][color=lightgreen]Lowest GDP Per Capita:[/color][/b] [nation=short]Nova Africa[/nation] [ $77.96 ]
+[b][color=lightgreen]Lowest GDP Per Capita:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ $24,186 ]
 
 [b][color=lightgreen]Highest Average Employee Salary:[/color][/b][nation=short]X1ng[/nation]  [ $58,145.28 ]
 
 [b][color=lightgreen]Lowest Average Employee Salary: [/color][/b] [nation=short]Nova Africa[/nation] [ $102.48 ]
 
-[b][color=lightgreen]Highest Unemployment Rate: [/color][/b][nation=short]Nova Africa[/nation] [ 26.12% ]
+[b][color=lightgreen]Highest Unemployment Rate: [/color][/b][nation=short]Greater Neo Germany[/nation] [ 3.22% ]
 
-[b][color=lightgreen]Lowest Unemployment Rate: [/color][/b] [nation=short]X1ng[/nation] [ 2.55% ]
+[b][color=lightgreen]Lowest Unemployment Rate: [/color][/b] [nation=short]Shinikame[/nation] [ 2.61% ]
 
 [hr]
 
-[b][color=lightgreen]Regional Population:[/color][/b] 30,459,000,000
+[b][color=lightgreen]Regional Population:[/color][/b] 5,025,000,000
 
-[b][color=lightgreen]Largest Member State:[/color][/b] [nation=short]Obesinia[/nation] [ 2.024 billion ]
+[b][color=lightgreen]Largest Member State:[/color][/b] [nation=short]Shinikame[/nation] [ 2.585 billion ]
 
-[b][color=lightgreen]Smallest Member State:[/color][/b] [nation=short]Ter Alda[/nation]  [ 164 million ]
+[b][color=lightgreen]Smallest Member State:[/color][/b] [nation=short]greater neo germany[/nation]  [ 2.440 billion ]
 
-[b][color=lightgreen]Highest Tax Rate:[/color][/b] [nation=short]the illuminous sun[/nation] [ [color=Red]77%[/color] ]
+[b][color=lightgreen]Highest Tax Rate:[/color][/b] [nation=short]Shinikame[/nation] [ [color=Red]74%[/color] ]
 
-[b][color=lightgreen]Lowest Tax Rate:[/color][/b] [nation=short]X1ng[/nation] [ [color=Springgreen]0%[/color] ]
+[b][color=lightgreen]Lowest Tax Rate:[/color][/b] [nation=short]Greater Neo Germany[/nation] [ [color=Springgreen]65%[/color] ]
 
 
 

@@ -12,8 +12,7 @@ Justice:[nation]Hrathgar Glacier[/nation]
 Legislative branch
 Head Senator:[nation]The Great State of Christopia[/nation]
 Senators:
-[nation]Delta Zero[/nation]
-[nation]nazimbia[/nation]
+[nation]Delta Zero[/nation]]
 [nation]chisa[/nation]
 [nation]tirada[/nation]
 [nation]mojoland[/nation]

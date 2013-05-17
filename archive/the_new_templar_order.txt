@@ -8,10 +8,10 @@ Overlord: [nation=short]Brentonania[/nation] [color=darkred](T)[/color]
 President: 
 Vice President: [nation=short]The Templarian Order[/nation] (A)
 Secretary of State: [nation=short]Cnor79[/nation] [color=darkblue](WH)[/color]
-Secretary of Defense: [nation=short]The Rogues of Sense[/nation] [color=darkred](T)[/color]
+Secretary of Defense: 
 Secretary of Recruitment: [nation=short]The Poor Fellow-Soldiers of Christ[/nation] [color=darkred](T)[/color]
 Secretary of Foreign Affairs: [nation=short]Ferenginar Prime[/nation] [color=darkred](T)[/color]
-Secretary of Regional Affairs: [nation=short]Colorinia[/nation] [color=grey](M)[/color]
+Secretary of Regional Affairs: 
 
 [u][color=darkred][b]The Imperial Senate [/b][/color][/u]
 
