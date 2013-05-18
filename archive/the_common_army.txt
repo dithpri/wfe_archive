@@ -4,4 +4,5 @@
 _______________________________________________________________________
 [b]Member regions:
 [region]Slavia[/region]
-[region]The Communist Region[/region][/b]
+[region]The Communist Region[/region]
+[region]UCR[/region][/b]

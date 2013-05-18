@@ -5,11 +5,11 @@
  [hr]
 [b][u]Imperial Senate[/u][/b] 
 - [b]Chancellor[/b]: [nation=short]Vaculatestar64[/nation] (Next Election August 2013)
-- [b]Representative[/b]:  [nation=short]Vacant [/nation], [nation=short]Vacant [/nation][hr]
+- [b]Representative[/b]:  [nation=short]Darth Gree[/nation], [nation=short]Dranger 3[/nation][hr]
 [b][u]Supreme Court[/u][/b] 
 - [b]Supreme Judge[/b]: [nation=short]Gray Army[/nation][hr]
 [b][u]The Moff Council[/u][/b]
-- [b]Moff of Foreign Affairs[/b]: [nation=short]the order of the eagles assasins[/nation]
+- [b]Interim Moff of Foreign Affairs[/b]: [nation=short]Darth Radix II[/nation]
 --- [b]Vice Moff of Foreign Affairs[/b]: [nation=short] Vacant[/nation]
 - [b]Interim Moff of War[/b]: [nation=short]The Lost Tribe of Sith[/nation]
 --- [b]Vice Moff of War[/b]: [nation=short]Vacant [/nation]

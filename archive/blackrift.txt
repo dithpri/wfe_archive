@@ -1,5 +1,5 @@
-[color=blue]This Region is under control by the DAC.
-The DAC has found it fit to eliminate all nations that were inactive or served no purpose to the region.
+[b][color=purple]This Region is under control by the [region]The Dominion of Markarth[/region][/color][/b]
+[color=blue]The DAC has found it fit to eliminate all nations that were inactive or served no purpose to the region.
 All nations that were ejected are gone for good.[/color]
 
 [color=red][b]This is the end of Blackrift![/b][/color]

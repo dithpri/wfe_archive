@@ -7,12 +7,13 @@
 -Founder: [nation]The Revolutionary Police[/nation]
 -WA Delegate: [nation]Theranistan[/nation]
 -Chief Advisor: [nation]Gordtofron[/nation]
--Secretary of Recruitment: [nation]Gordtofron[/nation]
--Colonial Supervisor: [nation]Revolutionary Police Canada[/nation]
--Field Marshal: [nation]The Former Yugoslav Republic of Serbia[/nation]
--Minister of Trade: [nation]Canadian Ice Fisherman[/nation]
--Minister of Justice: [nation]Sophist Scholars[/nation]
--Secretary of the Treasury: [nation]Independent Gamblers[/nation]
+-Secretary of Regional Recruitment: [nation]Gordtofron[/nation]
+-Field Marshal of the Armies: [nation]The Former Yugoslav Republic of Serbia[/nation]
+-Minister of International Trade: [nation]Canadian Ice Fisherman[/nation]
+-Minister of International Justice: [nation]Sophist Scholars[/nation]
+
+[url=http://www.broomdces.com/nseconomy/regions.php?region=the+conservative+society]Nation Statistics[/url]
+
 
 
 
