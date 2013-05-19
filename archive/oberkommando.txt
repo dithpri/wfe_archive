@@ -6,14 +6,15 @@
 
 [color=red]Chef der Wehrmacht:[nation=short]Deutches Reich[/nation]
 Chef der Heer:[nation=short]Future German Reich[/nation]
-Chef der Kriegsmarine:[nation=short]The Greater Imperial Japan[/nation]
+Chef der Kriegsmarine:[nation=short]Vacant[/nation]
 Chef der Luftwaffe:[nation=short]George Lincoln Rockwell[/nation]
 [/color]
 
 [u]Zivilist (Civillian)[/u]
 
 [color=red]Reichsdelegate:[nation=short]Croacs[/nation]
-Reichspropagandaminister:[nation=short]Vecta[/nation]
+Reichspropagandaminister:[nation=short]The Misotheist Union
+2 days 20 hours ago[/nation]
 Justizminister:[nation=short]Peoples State of Dominica[/nation]
 Minister der Rekrutierung:[nation=short]Vacant[/nation][/color]
 

@@ -1,11 +1,10 @@
 [b]THE LUNA FEDERATION[/b]
-[b] Ruled By The Coalition [/b]
+[b] Ruled By The Loyalists[/b]
 [i] &amp;quot;Night Is Coming&amp;quot;[/i]
 
 [b] REGIONAL OR NATIONAL ENEMIES [/b]               
 
 Dread Lady Nathicana (N)
-The Solar Empire (R)
 Quasar Infrared (R)
 
 [b] REGIONAL ANTHEM [/b]
@@ -14,11 +13,11 @@ Quasar Infrared (R)
 
 [b]MEMBERS OF COUNCIL[/b]
 
-HEAD OF REIGON: [nation]Bold Victory[/nation]
+HEAD OF REIGON: [nation]Buggy Republic[/nation]
 COUNCILOR OF MILITARY: [nation]New sky hub[/nation]
 COUNCILOR OF CIVIL RIGHTS: [nation]Lonely Reef Islands[/nation]
-COUNCILOR OF FINANCE: [nation]Bold Victory[/nation]
+COUNCILOR OF FINANCE: [nation]Buggy Republic[/nation]
 COUNCILOR OF TRADING: [nation]Bold Victory[/nation]
 COUNCILOR OF FOREIGN AFFAIRS:  [nation]New sky hub[/nation]
-COUNCILOR OF INTERNAL AFFAIRS: [nation]Attican Traverse[/nation]
-COUNCILOR OF EDUCATION:  [nation]Double dip[/nation]
+COUNCILOR OF INTERNAL AFFAIRS: [nation]New Bzadia[/nation]
+COUNCILOR OF EDUCATION:  [nation]Lonely Reef Islands[/nation]

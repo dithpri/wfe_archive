@@ -1,10 +1,10 @@
-Supreme Leader: [St Gabriel]                                     Rules: Thriving or above economy
+Supreme Leader: St Gabriel                                     Rules: Thriving or above economy
 
-Prime Minister: [St Gilondor]
+Prime Minister: St Gilondor
 
 Lord Chancellor: Canarialand
 
-Minister of Finance: At Vote
+Minister of Finance: Legislation Pending
 
 Ambassador to Kara Magnum: Caputan
 
@@ -16,6 +16,6 @@ Minister of Education: Gregoriopolis
 
 Minister of Energy: Federalia
 
-Minister of Industry: At Vote
+Minister of Industry: Legislation Pending 
 
 Minister of War: MinoraGabriel

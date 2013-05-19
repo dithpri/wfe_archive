@@ -4,9 +4,9 @@
 
 
 [u][I][b]Regional Government[/b][/I][/u]
-Vice-Delegate:[nation]Asimostan[/nation]
-Ambassador:[nation]Alcatrazin[/nation]
-General:[nation]drangoniov[/nation]
+Vice-Delegate:[nation]Ism[/nation]
+Ambassador:[nation]Avanzamento[/nation]
+General:[nation]Levivania[/nation]
 Complaint Filing Agent:[nation]Prison Guard[/nation]
 
 [u][I][b]Quick Links[/u][/I][/b]

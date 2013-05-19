@@ -15,7 +15,6 @@ This is a re-established Alliance of Nations, since for some reason, it decided 
 -[nation=short]Jacksistan[/nation] - P
 -[nation=short]Star Isles[/nation] - P
 -[nation=short]Japan1[/nation] - P
--[nation=short]Russian Federation 1[/nation] - P
 -[nation=short]Delhanara[/nation] - R
 -[nation=short]Eeleenia[/nation] - R
 -[nation=short]Asthia[/nation] - P
