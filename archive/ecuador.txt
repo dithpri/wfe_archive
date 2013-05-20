@@ -1,6 +1,6 @@
 WELCOME
 
-[color=navy][b]Pro Deo, Patria et Libertate[/b]
+[list][color=navy][b]Pro Deo, Patria et Libertate[/b]
 Ecuador straddles the equator, from which it takes its name.
 
 [b]Capital:[/b] ------ Quito
@@ -10,4 +10,4 @@ Ecuador straddles the equator, from which it takes its name.
 
 PLEASE, DO NOT RECRUIT HERE
 ALL VISITOS ARE WELCOME HERE
-a [region=Galapagos] region
+a [region=Galapagos] region[/list]

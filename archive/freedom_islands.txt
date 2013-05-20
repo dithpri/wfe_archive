@@ -5,8 +5,8 @@
 [b][u][color=crimson][*]Regional Government[/color][/u][/b]
            &#149; [b]President:[/b] [nation=short]Zachsland[/nation]
            &#149; [b]Vice President:[/b] [nation=short]Madani[/nation]
-           &#149; [b]Sec. of State:[/b] (Open)
-           &#149; [b]Sec. of Foreign Affairs:[/b] (Open)
+           &#149; [b]Sec. of State:[/b] [nation=short]Pyong[/nation]
+           &#149; [b]Sec. of Foreign Affairs:[/b] [nation=short]Magic Island[/nation]
            &#149; [b]Sec. of Recruitment:[/b] [nation=short]Madani[/nation]
            &#149; [b]Sec. of Defense:[/b] [nation=short]Zachsland[/nation]
            &#149; [b]Chief Justice:[/b] [nation=short]The Byrick Natives[/nation]

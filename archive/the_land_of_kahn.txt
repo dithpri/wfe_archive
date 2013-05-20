@@ -1,17 +1,20 @@
-Welcome to the [region]Land of Kahn[/region]. This region is mostly peaceful. Telegram founder or WA delegate to apply.
+Welcome to the [region]Land of Kahn[/region]. 
+This region is mostly peaceful. Telegram founder or WA delegate to apply. 
+All regional government positions are filled by nation delegates elected by their faction. There are three current factions: The Imperial Faction, The United Faction, and The Star Faction.
 
-Current Elected:
-[b]Executive Council[/b]: 
-[nation]Black Tsar Star[/nation] (Imperial Faction)
-[nation]Science Imperium[/nation] (GSU Faction)
-[nation]The Land of the Blazing Star[/nation] (Star Faction)
+Imperial Faction:
+[nation]Hispanic Imperium[/nation]
+[nation]Black Tsar Star[/nation]
+[nation]Lapturia[/nation]
+[nation]Nation Destruction[/nation]
+[nation]Imperial Colony[/nation]
 
-[b]Legislative Body[/b]:
-[nation]Lapturia[/nation] (Imperial Faction)
-[nation]Free Business[/nation] (United Faction)
-[nation]The Frozen Star[/nation] (Star Faction)
+United Faction:
+[nation]Science Imperium[/nation]
+[nation]Scientific Adeptio[/nation]
+[nation]Free Business[/nation]
 
-[b]Judaical[/b]: 
-[color=blue]High Magistrate[/color]-[nation]The Land of the Blazing Star[/nation] (Star Faction)
-[color=red]Master Attorney[/color]-[nation]Hispanic Imperium[/nation] (Imperial Faction)
-[color=purple]WA Delegate[/color]-[nation]Scientific Adeptio[/nation] (GSU Faction)
+Star Faction:
+[nation]The Land of the Blazing Star[/nation]
+[nation]The Honored Sun[/nation]
+[nation]The Frozen Star[/nation]
