@@ -7,12 +7,12 @@ Minister of Defence:[nation]MoorVanguard[/nation]
 Judicial branch
 Chief Justice :[nation]Haemo[/nation]
 Justice:[nation]adele[/nation]
-Justice: to-be-elected pending further notice
+Justice:[nation]popolock[/nation]
 
 Legislative branch
 Head Senator:[nation]The Great State of Christopia[/nation]
 Senators:
-[nation]Delta Zero[/nation]]
+[nation]Delta Zero[/nation]
 [nation]chisa[/nation]
 [nation]tirada[/nation]
 [nation]mojoland[/nation]

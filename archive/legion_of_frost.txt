@@ -4,7 +4,6 @@
 [color=magenta]Co-Leader:[/color][nation]Team Martian[/nation]
 [color=blue] Minister of Defence: [/color][nation]Rendez[/nation]
 [color=green] Recruitment Officer:[/color][nation]The Slayers[/nation]
-[color=lightblue]Courier:[/color][nation]Scorpio Avenger[/nation]
 
 [color=lightgreen]Endorse:[/color][nation=short]Rendez[/nation]
 

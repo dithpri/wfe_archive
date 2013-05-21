@@ -1,4 +1,14 @@
-Emperor: [nation]Mapleonia[/nation]
-Lieutenant Emperor: [nation]Istervia[/nation]
+[color=blue]Emperor: Johnathan Maple, [nation]Mapleonia[/nation][/color]
+[color=blue]Lieutenant Emperor: Charles Francado VI [nation]Istervia[/nation][/color]
 
-[b][i]All Hail Emperor Johnathan Maple![/i][/b]
+[b][i][color=red]All Hail Emperor Johnathan Maple![/color][/i][/b]
+
+[color=purple]The Three Supreme Powers are:
+1. [nation]Mapleonia[/nation]
+2. [nation]Istervia[/nation]
+3. [nation]Awannia[/nation][/color]
+
+[color=teal]Imperial Currency: Isolar
+Imperial Animal: Pegasus[/color]
+
+[b][i][color=red]&amp;quot;God Bless the Emperor!&amp;quot;[/color][/i][/b]
