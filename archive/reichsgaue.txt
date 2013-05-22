@@ -15,6 +15,7 @@
 [region]The Principality of Liechtenstein[/region]
 [b][region]The League of Nations[/region][/b]
 [region]The Kingdom of Hungary[/region]
+[b][region]The Spanish State[/region][/b]
 [region]Pan American Union[/region]
 [region]North East Africa[/region]
 [region]Toroxian Community[/region]

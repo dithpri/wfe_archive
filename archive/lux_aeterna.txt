@@ -1,10 +1,8 @@
-We are the answer, we are the enlightened. We are the ageless power behind the true meaning of this world. That knowledge is to be shared with everyone, but only when they are deemed ready. Are you ready?
 Regional Sector Heads are as follows:
-The Blue Isles: Regional Defense Sector and Ascended
-North Klondike: Regional Industry Sector
-Yillsp: Regional Agriculture Sector and Champion of Chainsaw Charity
-Alethieasia: Regional Security and Intelligence Sector
-Weegeebot: Regional Scientific Research and Development Sector
-Stephan: Regional War Sector
-Lonestar: Regional Civil Administration
-Executive power is greatest for the heads of sectors, but 2/3 majority vote is required for most cases. Special cases will be discussed as they arise.
+[NATION]The Blue Isles[/nation]: Regional Defense Sector
+[NATION]North Klondike[/nation]: Regional Industry Sector
+[NATION]Yillsp[/nation]: Regional Agriculture Sector and Champion of Chainsaw Charity
+[NATION]Alethiaesia[/nation]: Regional Security and Intelligence Sector
+[NATION]Weegeebot[/nation]: Regional Scientific Research and Development Sector
+[NATION]Stephan[/nation]: Regional War Sector
+[NATION]Lonestar[/nation]: Regional Civil Administration
