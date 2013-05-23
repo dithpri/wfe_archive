@@ -7,7 +7,7 @@
 [b][color=blue]Vice President[/color][/b]
 [nation]Paldrov[/nation]
 [b][color=blue]Minister of Foreign Affairs[/color][/b]
-[nation]Central_Park[/nation]
+[nation]Integritat[/nation]
 [b][color=blue]Minister of Defense[/color][/b]
 [nation]Wolficity[/nation]
 [b][color=blue]Minister of Domestic Affairs[/color][/b]

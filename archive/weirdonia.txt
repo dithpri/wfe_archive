@@ -1,12 +1,5 @@
 [color=000666][b]Weirdonia[/b]
-
-This is [region=Ionia]&amp;#39;s Puppet Anarchy Region[/color]
-[color=006600]
-[b]OP.:[/b] &#149; [region=New Delian League] &#149; Weirdonia &#149; [region=Chukaku] &#149;
-[b]AO.:[/b] &#149; [region=Washington DC] &#149; Weirdonia &#149; [region=Welarar] &#149;
-[/color][color=066600]
-REGION
-[b]Allies:[/b] [region=United States of America]
-[list]&#149; Note to all other regions, do not use the tag system.
-&#149; It just brings unwanted attention to your region.
-&#149; It is just too much trouble for what it is worth.[/list][/color]
+[/color][color=006600]
+REGION[list]This region is associated with [region=Ionia] and [region=United States of America]
+Region No. 15
+A Puppet Storage Region[/list][/color]

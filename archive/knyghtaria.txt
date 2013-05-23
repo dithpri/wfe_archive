@@ -1,6 +1,6 @@
 [b][color=skyblue]Welcome to Knyghtaria![/color]
 
-[url=http://knyghtaria.forumotion.com/t14-new-republica-treaty#31][color=royalblue]Treaties[/color][/url]| [url=http://knyghtaria.forumotion.com/][color=navy]Forums/Chatbox[/color][/url]| [url=http://knyghtaria.forumotion.com/f5-regional-maps][color=skyblue]Maps[/color][/url]|[url=http://www.youtube.com/watch?v=zMlp3aCYmGA][color=royalblue]Regional Anthem[/color][/url]
+[url=http://knyghtaria.forumotion.com/t14-new-republica-treaty#31][color=royalblue]Treaties[/color][/url]| [url=http://knyghtaria.forumotion.com/][color=navy]Forums/Chatbox[/color][/url]| [url=http://knyghtaria.forumotion.com/f7-main-maps][color=skyblue]Maps[/color][/url]|[url=http://www.youtube.com/watch?v=zMlp3aCYmGA][color=royalblue]Regional Anthem[/color][/url]
 
 [color=navy]Please endorse our WA Delegate [nation=short]United Provinces of Atlantica[/nation], and Vice WA Delegate [nation=short]Redbird[/nation][/color]
 
@@ -11,8 +11,11 @@ Vice President [nation=short]Misopris[/nation]
 WA Delegate [nation=short]United Provinces of Atlantica[/nation]
 Vice WA Delegate [nation=short]Redbird[/nation]
 Minister of Internal Affairs [nation=short]The Holy See of Science[/nation]
-Minister of External Affairs [nation]The Russian Imperial States[/nation][/color]
+Minister of External Affairs [nation=short]The Russian Imperial States[/nation][/color]
 
 [color=royalblue]Colonies: [region]Grand Union of Nations[/region], [region]ImperialFrance[/region], [region]Doomsday[/region], [region]United Nations of Earth[/region], [region]Rhineland[/region], [region]Rebel Region[/region], [region]Reichskommissariat[/region][/color]
 
-[color=navy]Military Bases: [region]SkyLeague[/region], [region]Northern alliance[/region], [region]Fort Howslandia[/region][/color][/b]
+[color=navy]Military Bases: [region]SkyLeague[/region], [region]Fort Howslandia[/region][/color]
+
+[color=skyblue]Announcements
+The forums are now open! Sign up today![/color][/b]

@@ -1,6 +1,6 @@
 Current office status:
-President: Hrathgar Glacier
-Vice President: none
+President: [nation]Hrathgar Glacier[/nation]
+Vice President: [nation]Beardsville[/nation]
 Regional Guard: None
 WA Delegate: None
 Recruiting Officer: None

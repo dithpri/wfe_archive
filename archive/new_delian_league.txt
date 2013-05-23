@@ -1,9 +1,5 @@
 [color=000666][b]New Delian League[/b][/color]
 [color=006600]
-REGION &amp;amp; ALLIANCE[list]ORDER: &#149;&#149;&#149; [region=Ionia] &#149; [b]New Delian League[/b] &#149; [region=Weirdonia] &#149;&#149;&#149; 
-ALPHA: &#149;&#149;&#149; [region=New Caledonia] &#149; [b]New Delian League[/b] &#149; [region=New Hampshire] &#149;&#149;&#149; 
-ASSOCIATED WITH: &#149; [region=United States of America] &#149;
-CARETAKER: &#149; [nation=short]Royal House of Windsor[/nation] (AKA [nation=short]Elliston[/nation] or [nation=short]New Falham[/nation])
-&#149; [nation=short]Dog Lake[/nation] (AKA [nation=short]Crazy Kitty[/nation] or [nation=short]Bundin Silverarrow[/nation])[/list][/color][color=660000]
-PUPPET STORAGE REGION[/color][color=CC6600]
-[b]New Delian League[/b] is ranked 16th in the world for Largest Populations with 400 nations (ranked 31) - March 30, 2013[/color]
+REGION[list]This region is associated with [region=Ionia] and [region=United States of America]
+Region No. 13
+PUPPET STORAGE REGION[/list][/color]
