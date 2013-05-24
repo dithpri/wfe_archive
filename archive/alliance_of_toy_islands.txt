@@ -4,6 +4,6 @@
 Includes Charter, Nation Guide and News[/color]
 
 President: OPEN
-Regional Secretariat: [nation]Teddy Bear Republic[/nation] Empire
+Regional Secretariat: [nation=short]Teddy Bear Republic[/nation] Empire
  
 [b]No raiders, please.[/b]

@@ -1,6 +1,6 @@
-[b]Welcome to the Region. Make yourself at home.[/b]
+Welcome to [u][b][color=Red]The Archdiocese[/color][/b][/u]
 
-The Archdiocese houses the Abby of St. Peter and ProtoCathedral of Cardinal Leopold and a proud member region of the VRCC headquartered in [region]Vatican II[/region].
+The Archdiocese houses the Abby of St. Peter and ProtoCathedral of [color=purple]Archbishop [nation]Namabia[/nation][/color] and a proud member region of the VRCC headquartered in [region]Vatican II[/region].
 
 Prelature Pope: [b][color=Blue]Luke I.[/color][/b]
 Cardinal in Charge: [b][color=red]His Eminence Cardinal-Archbishop CrimsonScribbles[/color][/b]
