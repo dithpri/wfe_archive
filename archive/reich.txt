@@ -19,6 +19,6 @@ Endorse Reichsdelegate [nation=short]Croacs[/nation] and [u]nobody[/u] else.
 
 [u]NEW LAW[/u]
 
-Nations who have been inactive for [u]7days[/u] will be ejected from the [region]Reich[/region], unless prior notice is given to [nation=short]Der Volkes Lebensraum[/nation]
+Nations who have been inactive for [u]7 days[/u] will be ejected from the [region]Reich[/region], unless prior notice is given to [nation=short]Der Volkes Lebensraum[/nation]
 
 [color=red][u]HEIL![/u][/color][/b]

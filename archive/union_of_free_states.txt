@@ -7,7 +7,7 @@
 [i]Executive[/i]
 I) Secretary-General: [nation=short]North America and the Great lakes[/nation]
 II) Vice-Secretary: [nation=short]House of Griffindor[/nation]
-III) Speaker of Senate: *Vacant* 
+III) Speaker of Senate:[nation=short]The French Kingdom[/nation]
 
 [i]Cabinet Members[/i]
 I) Foreign Minister: [nation=short]Buena Suerte[/nation]

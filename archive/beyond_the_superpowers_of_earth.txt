@@ -10,7 +10,7 @@ Justice:[nation]adele[/nation]
 Justice:[nation]popolock[/nation]
 
 Legislative branch
-Head Senator:[nation]The Great State of Christopia[/nation]
+Head Senator: [nation]The Great State of Christopia[/nation]
 Senators:
 [nation]Delta Zero[/nation]
 [nation]chisa[/nation]

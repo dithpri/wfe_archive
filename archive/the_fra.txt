@@ -7,7 +7,7 @@
 
 Arch Chancellor -- [nation=short]Karputsk[/nation]
 
-Vice Chancellor -- [i]to be appointed[/i]
+Vice Chancellor -- [nation=short]Azerzia[/nation]
 
 Chief of Defence Force -- [nation=short]Drop Your Pants[/nation]
 
