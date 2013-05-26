@@ -1,9 +1,8 @@
-[b]Arch Chancellor:[/b] [nation=short]Wopruthien[/nation]
-[b]Vice Chancellor:[/b]TBA
-[b]Chief of Defence:[/b] [nation=short]Karputsk[/nation]
+[b]Arch Chancellor:[/b] [nation=short]Karputsk[/nation]
+[b]Vice Chancellor:[/b][nation=short]Azerzia[/nation]
+[b]Chief of Defence:[/b] [nation=short]Drop Your Pants[/nation]
 [b]Intelligence Minister:[/b] [nation=short]Wibblefeet[/nation]
-[b]Regional Liaison Officer:[/b]
-[nation=short]Falconias[/nation]
-[b]Speaker:[/b] [nation=short]Seneca[/nation]
+[b]Regional Liaison Officer:[/b][nation=short]Falconias[/nation]
+[b]Speaker:[/b] [nation=short]Ironicness[/nation]
 
 [url=http://s7.zetaboards.com/FRA/index]Forum to the FRA[/url]

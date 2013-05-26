@@ -20,6 +20,4 @@ Governor,CCCB:[nation=short]The langobardi[/nation]
 Maps: [nation=short]The Quadruple Alliance[/nation]
 [hr][b]Crowns Court of Justice[/b]
  [nation=short]Oberseewald[/nation](CJ) [nation=short]Vetega[/nation](J), [nation=short]Imperial Yamea[/nation](J)
-Prosecutor General:
-[hr]
-[b]Active  RPS[/b]: [url=http://w11.zetaboards.com/CommonwealthOfCrowns/topic/8748395/1/#new]Return to Dusk[/url]
+Prosecutor General: [nation]Lentheric[/nation]
