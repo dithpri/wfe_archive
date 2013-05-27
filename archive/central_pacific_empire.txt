@@ -2,14 +2,13 @@
 
 [B]OFF SITE FORUM:[/B] [b][url=http://www.z13.invisionfree.com/CPE]Click here[/url][/b]
 
-Prime Minister: [nation]Latin and Central America[/nation]
+Prime Minister: [nation]Aanon Bay[/nation]
 
-Minister for Interior Affairs: [nation]Norton Island[/nation]
-Minister for Foreign Affairs: [nation]Cyrahzia[/nation]
-Minister for Justice: [nation]Nicaea-West Pontus[/nation]
-Minister for Recruitment: [nation]Aanon Bay[/nation]
-Minister for Defence: [nation]Shakovina[/nation]
-Minister for Citizenship and Engagement: [nation]Migraton[/nation] 
+Minister for Interior Affairs: [nation]Cyrahzia[/nation]
+Minister for Foreign Affairs: [nation]Latin and Central America[/nation]
+Minister for Justice: [nation]Forssaland[/nation]
+Minister for Recruitment and Citizenship: [nation]Norton Island[/nation]
+Minister for Defence: [nation]Raindrop Valley[/nation]
 
 [b]JUDICIARY[/B]
 
