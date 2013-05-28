@@ -1,5 +1,7 @@
-[b]This region has been scourged of the [region]The BEC Army[/region].
+[b]Welcome to Warzone Africa, a protectorate of [region]The BEC Army[/region] and their allies.[/b]
 
-[color=red]They tried to destroy the might of [region]Mordor[/region] but under the leadership of the all seeing eye, [nation=short+noflag]Evil Lord Sauron[/nation] the forces of [region]Mordor[/region] and [region]Spiritus[/region] overthrew these defilers.[/color]
+[color=blue] The region is governed by a professional Colonial Administration:[/color]
+[color=red] Resident-in-Chief: [nation]Woodsonian Military Authority[/nation][/color]
+[color=green] Foreign Secretary: [nation]My Morrupted POWER[/nation][/color]
 
-[color=blue]Let this be a lesson to all. Disobedience will not be tolerated.[/color][/b]
+

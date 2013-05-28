@@ -3,7 +3,7 @@ The United Imperial Armed Forces of [region]The New Inquisition[/region] and [re
 [b][u]The Imperial Command[/u][/b]
 
 Joint Commander: Field Marshal [nation=short+noflag]Charles Cerebella[/nation]
-Deputy Commander: Lieutenant General [nation=short+noflag]Christopher Bishop[/nation]
+Deputy Commander: Lieutenant-General [nation=short+noflag]Christopher Bishop[/nation]
 
 TNI Division Commander: Major-General [nation=short+noflag]Cerian Quilor[/nation]
 LKE Division Commander: Major-General [nation=short+noflag]Cephal Talleyrand[/nation]

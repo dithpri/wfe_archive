@@ -1,11 +1,11 @@
 The NLR or &amp;#39;New Lunar Republic&amp;#39;, is an alliance for supporters of Princess Luna against the tyrant Princess Celestia. This alliance provides economic and military support to all nations that join our cause. The Apple family is welcome too. We also welcome anyone who supports Nightmare Moon.
 
-Leader: [nation]The Modern Empire of The Feedom Allaince[/nation]
+Leader: [nation]The Feedom Allaince[/nation]
 
-Military Advisior: Freedom Aliance
-Social/Culture Advisior: The Pony Alliance
-Business/Economic Advisor: The People&amp;#39;s Republic of Bronyopia
-Science Advisor: Gallopfrey and the Pony Republic Therof 
-Minister of War: Soul Legion
-Minister of Peace: Fluttershire
-Recruiter: Starlightia 
+Military Advisior: [nation]The Feedom Allaince[/nation]
+Social/Culture Advisior: none
+Business/Economic Advisor: none
+Science Advisor: [nation]Gallopfrey and the Pony Republic Therof[/nation]
+Minister of War: none
+Minister of Peace: [nation]Fluttershire[/nation]
+Recruiter: [nation]Starlightia[/nation] 
