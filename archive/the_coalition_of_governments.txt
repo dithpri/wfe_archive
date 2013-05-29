@@ -12,6 +12,7 @@
 [nation=short]New Scotlandia[/nation]
 [nation=short]Veren Commonwealths[/nation]
 [nation=short]Iltaakwenusih[/nation]
+[nation=short]Kraslavia[/nation]
 
 [Hr]Endorse [nation=short]Vanhania[/nation] to be our WA Delegate!
 
@@ -19,5 +20,5 @@
 [Hr]
 [b][u][color=blue]Announcements![/color][/u][/b]:
 [b]
-Elections are here. For further instruction, read [url=http://coalition-of-governments.shivtr.com/news_entries/153679]this[/url].
+Elections have ended. See the results above.
  [/b]

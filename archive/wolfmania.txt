@@ -1,14 +1,25 @@
 [b][color=Aqua]Salutations, my friends![/color][/b]
 
-[Color=Skyblue][b]Wolfmania is a delicate, noble region that is highly pacifist and is full of Democracy. Our military is full of Land, Air, and Space tatics. We also give out Role Playing tips. And yes, everyone is welcomed.[/color][/b]
+[Color=Skyblue][b]Wolfmania is a delicate, noble region that is highly pacifist and is full of Democracy. Our military is full of Land, Air, and Space tactics. We also give out Role Playing tips. And yes, everyone is welcome.[/color][/b]
 [hr]
 
-[b][color=Aqua]Lead of Science: [nation]Ytrisium[/nation].[/color][/b]
-[b][color=Aqua]Lead of Military Power: [nation]Hundermenschen[/nation].[/color][/b]
-[b][color=Aqua]Lead of Foreign Affairs: [nation]Distanbole[/nation].[/color][/b]
-[b][color=Aqua]Lead of Recruitment: [nation]Wolfmania[/nation].[/color][/b]
-[b][color=Aqua]Lead of Role-Playing Advisories: [nation]The Spirit Wolf[/nation].[/color][/b]
-[b][color=Aqua]Regional Couriers: [nation]Mitten[/nation], and [nation]Seriousness[/nation].[/color][/b]
-[b][color=Aqua]Lead of Aid and Protecting: [nation]The Power of Heaven[/nation].[/color][/b]
+[color=aqua][b]Lead of Military:[/color][/b]
+. [nation=short]Hundermenschen[/nation]
+. [nation=short]The Spirit Wolf[/nation]
+. [nation=short]The Alliance States[/nation]
+
+[color=aqua][b]Lead of Science:[/color][/b]
+. [nation=short]Ytrisium[/nation]
+. [nation=short]The Dark Wolf[/nation]
+. [nation=short]Seriousness[/nation]
+
+[color=aqua][b]Lead of Technologies:[/color][/b]
+. [nation=short]Wolfmania[/nation]
+. [nation=short]Mitten[/nation]
+. [nation=short]King Boo[/nation]
+
+[color=aqua][b]Lead of Spiritual Gifts and Councilors:[/color][/b]
+. [nation=short]Goddess Velsion[/nation]
+. [nation=short]Jeremias[/nation]
 [hr]
 [color=skyblue][b]Closest alliances are [region]Foxtopia[/region].[/color][/b]

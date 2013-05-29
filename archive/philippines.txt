@@ -9,7 +9,7 @@
 [b][color=blue]Minister of Foreign Affairs[/color][/b]
 [nation]Integritat[/nation]
 [b][color=blue]Minister of Defense[/color][/b]
-[nation]Wolficity[/nation]
+[nation]Lanaograd[/nation]
 [b][color=blue]Minister of Domestic Affairs[/color][/b]
 [nation]The Third Nova Terra of Scrin[/nation]
 
