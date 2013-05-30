@@ -8,4 +8,4 @@ Field Marshal [nation=short]TBA Field Marshal[/nation]
 Major-General [nation=short]New Finnland[/nation]
 
 [b][u]News[/b][/u]
-[b]The Imperial People&amp;#39;s Army has captured Uiska. We are victorious in this conflict. [region]UCR Military Outpost 1[/region] was also captured.[/b]
+[b][nation=short]Londovia[/nation] has been promoted to Major.[/b]

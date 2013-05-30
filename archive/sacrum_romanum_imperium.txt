@@ -12,3 +12,5 @@ The Habsburg Dominions
 -[nation]The Koniggratzer[/nation]
 -[nation]Makao[/nation]
 -[nation]Libyia[/nation]
+Prince Electors
+-[nation]Krelburg[/nation]

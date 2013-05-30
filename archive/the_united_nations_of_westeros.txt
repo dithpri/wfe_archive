@@ -1,10 +1,11 @@
 Welcome to [i]The United Nations of Westeros[/i]
 
-[color=red]President[/color]: [nation]Riel[/nation]
-[color=blue] Vice President[/color]: [nation]Butter Land[/nation]
+[color=red][b]President[/b][/color]: [nation]Riel[/nation]
+[color=blue][b]Vice President[/b][/color]: [nation]Butter Land[/nation]
 
-[b]Ministers[/b]:
-[b]Chief of the Army[/b]: Up for Vote
+[b]Cabinet[/b]:
+[color=grey][b]Chief Justice[/b][/color]: Up for Vote
+[color=green][b]Chief of the Army[/b][/color]: [nation]Blubbery[/nation]
 
 [b]Heart Disease and Cancer Cure[/b]: [i]Progress[/i]: 100% The Heart Disease and Cancer Cure is being distributed to the people of the region.
 

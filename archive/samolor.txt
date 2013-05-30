@@ -1,6 +1,8 @@
 This is a warm region in a nice climate.
 
 [b]Leaderboard[/b]
-[b][color=gold]Gold -- [nation]Geocliffate[/nation][/color][/b] (12 points)
-[i][color=silver]Silver -- [nation]Tumbloria[/nation][/color][/i] (11 points)
-[color=brown]Bronze -- [nation]Icewyn[/nation][/color] (10 points)
+[b][color=gold]Gold -- [nation]Geocliffate[/nation][/color][/b] (24 points)
+[i][color=silver]Silver -- [nation]Tumbloria[/nation][/color][/i] (21 points)
+[u][color=brown]Bronze[/u] -- [u][nation]Icewyn[/nation][/color][/u] (18 points)
+...
+Nail -- [nation]Dyzistrolux[/nation] (2 points)

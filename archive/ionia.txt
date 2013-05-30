@@ -2,10 +2,12 @@
 
 [/color][color=006600]
 [b]REGION[/b][list]PUPPET REGIONS:
-&#149; Ionia is our HOME REGION &#149;
-&#149; [region=Pangara] is our True Blue REGION &#149;
-&#149; [region=New Delian League] is our SILVER LINING REGION &#149;
-&#149; [region=Weirdonia] is our FINALISTS REGION &#149;
+&#149; Ionia is HOME &#149;
+&#149; [region=Pangara] is True Blue &#149;
+&#149; [region=New Delian League] has a SILVER LINING &#149;
+&#149; [region=Weirdonia] is Weird &#149;
+&#149; [region=Greater Healand] is a sorting region &#149;
+&#149;&#149;&#149;
 ASSOCIATED WITH: &#149; [region=United States of America] &#149;
 
 Handy Tools:
