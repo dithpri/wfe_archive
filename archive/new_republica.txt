@@ -12,13 +12,13 @@ President: [nation=short+noflag]Dardoillyria[/nation]
 
 [color=blue]The Senate:
  President Pro Tempore of the Senate: [nation=short+noflag]the anean tribes[/nation]
- Senator: [nation=short+noflag]Callilias[/nation]
+ Senator: [nation=short+noflag]Dantooine[/nation] (Temporary) 
  Senator: [nation=short+noflag]the republic Rome[/nation][/color]
 
 [color=blue]Judicial Branch
  Supreme Judge: [nation=short+noflag]claflin[/nation]
  Judge: [nation=short+noflag]Cafla[/nation]
- Judge: [nation=short+noflag]Dantooine[/nation]
+ Judge: 
 
 New Republica Guard
 Chairman of the board: [nation=short+noflag]The United Remnants of America[/nation]

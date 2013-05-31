@@ -6,7 +6,7 @@ Regional Government:
 President: [nation]Liberechstein[/nation]
 Vice President: [nation]Timerica[/nation]
 Minister of Business: [nation]Hapha[/nation]
-Minister of Foreign Affairs: [nation]Verzatuna[/nation]
+Minister of Foreign Affairs:
 Minister of Internal Affairs: Vacant
 Council Seat 1: [nation]Rjanistan[/nation]
 Council Seat 2: Vacant

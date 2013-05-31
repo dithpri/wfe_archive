@@ -11,7 +11,7 @@ Supernational Domain: [nation]Kaltburg Union[/nation]
 [b]Leaders[/b]
 President of the Kaltburg Council:
 President of the Commission:
-WA Delegate:
+WA Delegate: [nation]Fleurlitch[/nation]
 
 [b]Legislature[/b]
 Legislature: Legislature of the Kaltburg Union
@@ -23,3 +23,5 @@ Lower house: Kaltburg Parliament
 
 [b]Party[/b]
 Kaltburg Peoples Party (KPP)
+
+[b]Regional Embassies:[/b] [region]Gratisverden[/region]

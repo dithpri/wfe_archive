@@ -3,6 +3,6 @@ ____________________
 [b]Government[/b]
 General Secretary: [nation]Bugaria[/nation]
 Head of Diplomacy: 
-Head of Armed Forces: 
+Head of Armed Forces: [nation]XinXyang[/nation]
 Head of Recruitment:
-Head of Internal Affairs: [nation]XinXyang[/nation]
+Head of Internal Affairs: 
