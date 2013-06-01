@@ -6,13 +6,25 @@
 
 [b][color=blue]WORLD ALLIANCE GOVERNMENT[/color][/b]
 
-[b][color=gold]The SECURITY COUNCIL[/color][/b]
+[b][color=gold]The OUTGOING SECURITY COUNCIL[/color][/b]
 
 [b][color=lightgray]President[/color][/b] : [nation]New-Zealand[/nation]
 
 [b][color=lightgray]Members[/color][/b] : [color=green][nation=short]Aloia[/nation], [nation=short]Marquette of Pacific[/nation], [nation=short]Stati Uniti d Europa[/nation],
 
 [nation]Holy Patrician States[/nation], [nation=short]Turkiye Federal Republic[/nation][/color]
+
+[hr]
+
+[b][color=gold]The INCOMING SECURITY COUNCIL[/color][/b]
+
+[b][color=lightgray]President[/color][/b] : [nation]New-Zealand[/nation]
+
+[b][color=lightgray]Members[/color][/b] : [color=green][nation=short]Novo Canuckia[/nation], [nation=short]Freedom Planita 2[/nation], 
+
+[nation=short]Aloia[/nation], [nation=short]Marquette of Pacific[/nation], [nation=short]Holy Patrician States[/nation][/color]
+
+[hr]
 
 [b][color=gold]The COURT OF JUSTICE[/color][/b]
 

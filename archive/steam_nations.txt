@@ -7,10 +7,12 @@ Minister of Defense: Vacant
 Minister of Trade: Vacant
 Minister of Internal Affairs: Vacant
 Minister of International Affairs: Vacant
-*(note that Prime Minister is simply WA delegate message, Langock for position interest)
+Regional currency: Cog
+*(note that Prime Minister is simply WA delegate message, Langock for position interest)*
 
 [b]MEMBERS[/b]
 [nation]Langock[/nation]
 [nation]Blue Star Securities[/nation]
 [nation]Niston[/nation]
 [nation]Seraa[/nation]
+[nation]The Verlish Pioneers[/nation]

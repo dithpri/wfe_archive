@@ -3,8 +3,9 @@ EVACUATE! All WA nations that remain in this region MUST endorse [nation]New Lib
 
 Minister of Justice: [nation=short]New Libertarian States[/nation] 
 Minister of Education: [nation=short]Playing Field[/nation] 
-Chief of the Army:
-Head of Customs/Immigration: [nation=short]International Solidarity[/nation] 
+Chief of the Army:[nation=short]Marxist Kommunists[/nation]
+
+Head of Customs/Immigration:[nation=short]The new order of Hetalia7[/nation]
 Regional Affairs Officer: [nation=short]Guevarist Germany[/nation] 
 
 Please move to [region]The True Communist Region[/region] or [region]Slavia[/region][/color][/b]

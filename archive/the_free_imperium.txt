@@ -5,10 +5,10 @@
 
 [color=blue]Administrative Building[/color]: [nation]The Free Imperium Administrative Offices[/nation]
 
-[b][color=green]Prime Minsiter[/color]:[/b]
+[b][color=green]Prime Minsiter[/color]:[/b] [nation]Rotgeheim[/nation]
 
 [color=black]Minister of Foreign Affairs[/color]:[nation]Balkans[/nation]
-[color=black]Minister of Interior Affairs[/color]:[nation]Rotgeheim[/nation]
+[color=black]Minister of Interior Affairs[/color]:[nation]Scheinfeld[/nation]
 [color=black]Minister of Judicial Affairs[/color]:[nation]Joshulia[/nation]
 [color=black]Minister of Citizenship[/color]:[nation]Asaconthropiat[/nation]
 [color=black]Minister of Defense[/color]:[nation]The Belvin Islands[/nation] [i]Lockdown Mode[/i]

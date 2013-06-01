@@ -1,7 +1,19 @@
-[b]Welcome to the Raybrandt Royal Palace[/b]
+[b]Welcome to the Palace of [color=blue]Lennart[/color]: King of many lands, citizen of a few regions.[/b]
 
-Main nations ruled by Lennart Raybrandt:
+[hr]
 
-[nation]Ehlnar[/nation] ([region]the North Pacific[/region])
-[nation]Angelzrealm[/nation] ([region]Commonwealth of Crowns[/region])
-[nation]Raybrandt[/nation] ([region]10000 Islands[/region])
+Main active Nations (well, some of them more than the others xD):
+
+[nation]Avalon[/nation], Region: [region]The North Pacific[/region]
+
+[nation]Anglia[/nation], Region: [region]The Commonwealth of Crowns[/region]
+
+[nation]AngelzRealm[/nation], Region: [region]Avalon[/region]
+
+[nation]Free Canary Islands[/nation], Region: [region]Democratic Socialist Assembly[/region]
+
+[hr]
+
+For Embassies, Puppet Trading and help with flags or factbooks, send a TG to [nation=short]Lennart[/nation] or [nation=short]Sacred Realms[/nation].
+
+Smile!
