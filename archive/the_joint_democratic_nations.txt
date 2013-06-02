@@ -6,7 +6,7 @@ Heads of Regional Council:
 
 President: [nation=short]Pongol[/nation]
 Prime Minister: [nation=short]Krookland[/nation]
-Head of Regional Assembly: [nation=short]Strock[/nation]
+Head of Regional Assembly: request position
 
 Cabinet: 
 

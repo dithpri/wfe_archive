@@ -4,7 +4,7 @@
 [b][color=red]Commander and Chief:[/color][/b][nation]Terra Lumin[/nation]
 [hr]
 [b][color=blue]Whiterun Jarl:[/color][/b][nation]Anglo-German Empire[/nation]
-[b][color=blue]Falkreath Jarl:[/b][/color][nation]Kyrana[/nation]
+[b][color=blue]Falkreath Jarl:[/b][/color][color=grey]Open[/color]
 [b][color=blue]The Rift Jarl:[/b][nation]Terra Lumin[/nation][/color]
 [b][color=blue]Winterhold Jarl:[/b][/color][nation]Mountains Hold[/nation]
 [b][color=blue]The Pale Jarl:[/b][/color][nation]Matrioshka 9[/nation]

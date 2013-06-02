@@ -8,12 +8,10 @@ _______________________________________________________________
 |&raquo; MINISTER OF FOREIGN AFFAIRS: OPEN!
 |&raquo; MINISTER OF EDUCATION: [nation=short]Quivellia[/nation]
 |&raquo; MINISTER OF INTERNAL AFFAIRS: [nation=short]Lunaka[/nation]
-|&raquo; MINISTER OF IMMIGRATION: [u]OPEN![/u]
+|&raquo; MINISTER OF IMMIGRATION: [nation=short]Profland[/nation]
 ________________________________________________________________
 [u][url=http://www.nationstates.net/nation=the_united_slavic_tsardom/detail=factbook/id=125998]MILITARY[/url] | [url=http://www.nationstates.net/nation=lunaka/detail=factbook/id=128255]UCR CONSTITUTION[/url] | [url=http://www.youtube.com/watch?v=fCFibtD3H_k]NATIONAL ANTHEM[/url] | [url=http://www.nationstates.net/nation=the_united_slavic_tsardom/detail=factbook/id=131476]POLITICAL PARTIES[/url][/u]
-
-[i]Here we strive for unity between all leftist!
 ________________________________________________________________
 
 
-[/color][color=gray][u]NEWS[/u]: Join the military, and a political party![/color][/i]
+[i][/color][color=gray][u]NEWS[/u]: Elections will be held soon![/color][/i]

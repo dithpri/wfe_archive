@@ -5,9 +5,9 @@ President
 Vice-President
 Department of Defense
 Department of Finance
-Department of Foreign Affairs [nation]State of Abu Bakr[/nation]
+Department of Foreign Affairs
 Department of Justice
 Department of Intelligence
 Department of Immigration
-Department of WA Delegate [nation]KizilViran[/nation]
-Department of Energy [nation]Islamic State of Husay[/nation]
+Department of WA Delegate
+Department of Energy 
