@@ -2,7 +2,7 @@ A Steampunk-themed alternate dimension, where true lovers of the Steampunk genre
 
 [b]POSITIONS[/b]
 Founder: [nation]Langock[/nation]
-Prime Minister: Vacant
+Prime Minister: [nation]Seraa[/nation]
 Minister of Defense: Vacant
 Minister of Trade: Vacant
 Minister of Internal Affairs: Vacant
@@ -16,3 +16,5 @@ Regional currency: Cog
 [nation]Niston[/nation]
 [nation]Seraa[/nation]
 [nation]The Verlish Pioneers[/nation]
+[nation]Vygarm[/nation]
+[nation]Verland and Ormany[/nation]

@@ -1,18 +1,25 @@
 [color=red][b]Welcome to Lemouria.[/b][/color]
 
-[hr][color=lightslategrey][b]The Territories of Lemouria[/b][/color][hr]
+[color=tomato][b][i]&amp;quot;Home to Leftists, Lemurs, and Leftist Lemurs&amp;quot;[/i][/b][/color]
+
+[hr][color=lightslategrey][b]The Territories of Lemouria:[/b][/color][hr]
+[list]
 [color=royalblue][u][b]The Singulari Insulae [i](Singular Islands)[/i][/b][/u][/color] An island chain that makes up
 [list]
-[*][b][nation]Singulis Libertate[/nation] *Regional Founder*[/b]
+[*][b][nation]Singulis Libertate[/nation] [color=red]*Regional Founder*[/color][/b]
+Ruled by [url=http://www.nationstates.net/nation=singulis_libertate/detail=factbook/id=133724]Momo the Revolutionary Bat-Lemur[/url].
 [*][b][nation]Singulis a Selectionem[/nation][/b]
+Ruled by the Vongola Mafia Family.
 [/list]
 
 [color=seagreen][u][b]The Arcadum Silvae [i](Arcadian Forests)[/i][/b][/u][/color] A large temperate forest that contains
 [list]
 [*][b][nation]New Arcadeia[/nation][/b]
+A new nation founded by Rebels after Arcadeia fell.
 [/list]
 
-[color=tomato][u][b]Deus Terra [i](God&amp;#39;s Land)[/i][/b][/u][/color] A vast land spanning the many biomes that encompass
+[color=firebrick][u][b]Deus Terra [i](God&amp;#39;s Land)[/i][/b][/u][/color] A vast land spanning the many biomes that encompass
 [list]
-[*][b][nation]Terrah Deus[/nation] *Future WA Delegate*[/b]
-[/list]
+[*][b][nation]Terrah Deus[/nation] [color=red]*WA Delegate*[/color][/b]
+Ruled by Salvatore Escobar with an iron fist.
+[/list][/list][hr]

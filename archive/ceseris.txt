@@ -5,7 +5,7 @@ First Lord/Founder: [nation=noflag]Armud[/nation]
 First Lord: [nation=noflag]Pyravar II[/nation]
 
 [b]Heads of Government[/b]
-Chancellor: [i]Unappointed![/I]
+Chancellor: [nation=noflag]Premor[/nation]
 Vice Chancellor: [i]Unappointed![/i]
 
 [b]Miscellaneous[/b]
