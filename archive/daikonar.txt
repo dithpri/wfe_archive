@@ -4,7 +4,7 @@ Emperor - Krimson III [nation=Krimsonland]
 
 Chancellor - [nation=ceseris]
 
-Vice Chancellor - Vacant
+Vice Chancellor - [nation=Krimson_vulika]
 
 Minister of State - Vacant
 Minister of War - Vacant

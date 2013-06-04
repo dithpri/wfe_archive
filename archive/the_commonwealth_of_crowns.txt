@@ -23,7 +23,7 @@ Justice: [nation]Syldevia[/nation]
 Finance:[nation]GuatemalaCity[/nation]
 Immigration:[nation=short]Noorderkwartier[/nation] + [nation]Anglia[/nation]
 [hr]
-Governor,CCCB:[nation=short]The langobardi[/nation]
+Governor,CCCB: UNASSIGNED
 Maps: [nation=short]The Quadruple Alliance[/nation][hr]
 [b]Crowns Court of Justice[/b]
  [nation=short]Oberseewald[/nation](CJ) [nation=short]Vetega[/nation](J), [nation=short]Imperial Yamea[/nation](J)

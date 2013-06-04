@@ -1,7 +1,7 @@
 Executive branch 
 President:[nation]Southern Ageena[/nation]
 Vice President:[nation]Mojopore[/nation]
-Minister of Foreign Affairs:
+Minister of Foreign Affairs:[nation]Hrathgar Glacier[/nation]
 Minister of Defence:[nation]MoorVanguard[/nation]
 
 Judicial branch

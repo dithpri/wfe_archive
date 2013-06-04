@@ -1,12 +1,16 @@
-[color=4242ff]Take a Deep Breath 
-
-Saskatchewan has a quiet stillness that invades your soul. Landscape is larger than life, people down to earth, cultural experiences authentic.
+[color=2164ff][list]Take a Deep Breath,
+Saskatchewan has a quiet stillness that invades your soul,
+Landscape is larger than life,
+People down to earth,
+Cultural experiences authentic.
 There&amp;#39;s room to breathe in our communities, our beaches and resorts.
 
 Discover a place where every visit rejuvenates.
 
-[b]Welcome to Saskatchewan.[/b][/color]
-
-[color=white]# # [/color] [region=Northwest Territories] | [region=Nunavut]
+[b]Welcome to Saskatchewan.[/b][/color][/list]
+.
+.
+.
+[color=006600]Where we are:[list][region=Northwest Territories] | [region=Nunavut][/list]
 [region=Alberta] | SASKATCHEWAN | [region=Manitoba]
-[color=white]# # # # #[/color][region=Montana] | [region=North Dakota]
+[list][region=Montana] | [region=North Dakota][/list][/color]
