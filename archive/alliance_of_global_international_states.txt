@@ -10,5 +10,5 @@ Minister of Foreign Affairs:
 Minister of Internal Affairs: Vacant
 Council Seat 1: [nation]Rjanistan[/nation]
 Council Seat 2: Vacant
-Council Seat 3: Vacant
+Council Seat 3: [nation]Roderivokia[/nation]
 Commander In Chief: [nation]The Dompire[/nation]
