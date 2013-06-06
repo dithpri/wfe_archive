@@ -6,7 +6,7 @@ President: [Nation]United Libertarian Nation[/Nation]
 
 Defense Minister: [nation]The Demonborn[/nation]
 Foreign Affairs Minister: Free
-Senate Minister: Free
+Senate Minister: Free - [b][i][u]Elections in the next days![/b][/i][/u]
 
 [b]Regional Recruiter: Everyone![/b]
 
@@ -16,5 +16,10 @@ Senate Minister: Free
 
 [b][url=http://w11.zetaboards.com/UCA/index/]Regional Forum[/url][/B]  
 
-
 Everyone please join the WA!
+
+[b][u]Senate in session![/b][/u]
+Current bills being voted on:
+Soci-Commune Resolution: 1-0. ([nation]SLOANSKI[/nation] - FOR)
+Nation Rights Resolution: 1-0. ([nation]SLOANSKI[/nation] - FOR)
+Condemnation of Krjder: 1-0. ([nation]SLOANSKI[/nation] - FOR)

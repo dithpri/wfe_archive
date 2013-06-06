@@ -1,17 +1,3 @@
-[b][color=blue]Welcome to Endless Spaces![/color][/b]
-[hr][color=red][b][u]Government[/u][/color]
-[u]Executive Branch:[/u]
-President [nation=short]Endless Spaces[/nation]
+[color=teal]This is the Realm of Endless Spaces[/color]
 
-
-[U]Senate:[/u]
-Speaker [nation=short]Wimmeronia[/nation]
-Senator [nation=short]Heathumbia[/nation]
-Senator [nation=short]Wender[/nation]
-Senator [nation=short]Frimar[/nation]
-Senator [nation=short]Staklenu[/nation]
-
-[U]Supreme Court:[/u]
-Chief Justice [nation=short]Copton[/nation]
-Associate Justice [nation=short]Cota[/nation]
-Associate Justice [nation=short]Sandretto[/nation][/b]
+[b]Enter at your own peril.[/b]

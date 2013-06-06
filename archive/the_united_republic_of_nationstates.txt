@@ -1,18 +1,18 @@
-President: Vacant
+President: [nation]South Temecia[/nation]
 
-Vice President: Vacant
+Vice President: [nation]The Don River[/nation]
 
 Speaker of the house: Vacant
 
-Commander and Chief: Vacant
+Commander and Chief: [nation]Midwestren America[/nation]
 
 Secretary of State: Vacant
 
 Secretary of Treasury: Vacant
 
 Recruitment Agency:
- &#149;Vacant
- &#149;Vacant
+ &#149;[nation]Upgraded Beings[/nation]
+ &#149;[nation]Midwestren America[/nation]
  &#149;Vacant
  &#149;Vacant
 
@@ -23,3 +23,5 @@ Senate:
 &#149;Vacant
 &#149;Vacant
 &#149;Vacant
+
+[color=blue][url=http://www.nationstates.net/nation=north_turkey/detail=factbook/id=134917]The Constitution[/color][/url]

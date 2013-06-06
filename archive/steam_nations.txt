@@ -18,3 +18,4 @@ Regional currency: Cog
 [nation]The Verlish Pioneers[/nation]
 [nation]Vygarm[/nation]
 [nation]Verland and Ormany[/nation]
+[nation]Urtu[/nation]

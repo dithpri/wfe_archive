@@ -3,8 +3,8 @@
 [b]Chancellor:[/b] [nation=short]Alexander Sothis[/nation]
 [b]President:[/b] [nation=short]Novadem[/nation]
 
-[b]The Elected Chamber:[/b] [nation=short]House Basileus[/nation],[nation=short]Open[/nation], [nation=short]Pratse[/nation]
-[b]The Appointed Chamber:[/b] [nation=short]Aanden[/nation], [nation=short]BrazC[/nation], [nation=short]Nakhijevan[/nation][hr][hr]
+[b]The Elected Chamber:[/b] [nation=short]Open[/nation], [nation=short]Open[/nation], [nation=short]Open[/nation]
+[b]The Appointed Chamber:[/b] [nation=short]Aanden[/nation], [nation=short]BrazC[/nation], [nation=short]open[/nation][hr][hr]
 
 Who will You Become?
 Panopticon is a game of Destiny, Where your fate is chosen by you.

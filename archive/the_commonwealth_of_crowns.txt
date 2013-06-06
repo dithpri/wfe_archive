@@ -14,7 +14,7 @@ Secretary-General: [nation=short]The Antarctica Territories[/nation]
 Speaker: [nation=short]Velykyy Ukraina[/nation] 
 [hr]
 [b]Cabinet:[/b]
-Minister(Interior Affairs): UNASSIGNED
+Minister(Interior Affairs):[nation]Jewish-Polish Empire[/nation]
 Minister(Foreign Affairs):[nation=short]BORDURIAA[/nation]
 Minister(Culture):[nation=short]Sayeram[/nation]
 Minister(Defence):[nation=short]Churchilland[/nation][hr]
@@ -23,7 +23,6 @@ Justice: [nation]Syldevia[/nation]
 Finance:[nation]GuatemalaCity[/nation]
 Immigration:[nation=short]Noorderkwartier[/nation] + [nation]Anglia[/nation]
 [hr]
-Governor,CCCB: UNASSIGNED
 Maps: [nation=short]The Quadruple Alliance[/nation][hr]
 [b]Crowns Court of Justice[/b]
  [nation=short]Oberseewald[/nation](CJ) [nation=short]Vetega[/nation](J), [nation=short]Imperial Yamea[/nation](J)
