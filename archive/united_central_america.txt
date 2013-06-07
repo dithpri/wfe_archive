@@ -6,7 +6,7 @@ President: [Nation]United Libertarian Nation[/Nation]
 
 Defense Minister: [nation]The Demonborn[/nation]
 Foreign Affairs Minister: Free
-Senate Minister: Free - [b][i][u]Elections in the next days![/b][/i][/u]
+Senate Minister: Free - [b][i][u]Voting is now![/b][/i][/u]
 
 [b]Regional Recruiter: Everyone![/b]
 
@@ -20,6 +20,6 @@ Everyone please join the WA!
 
 [b][u]Senate in session![/b][/u]
 Current bills being voted on:
-Soci-Commune Resolution: 1-0. ([nation]SLOANSKI[/nation] - FOR)
-Nation Rights Resolution: 1-0. ([nation]SLOANSKI[/nation] - FOR)
-Condemnation of Krjder: 1-0. ([nation]SLOANSKI[/nation] - FOR)
+Soci-Commune Resolution: 4-1. - Passed into law.
+Nation Rights Resolution: 5-0. - Passed into law.
+Condemnation of Krjder: 3-0-1.

@@ -2,19 +2,19 @@ President: [nation]South Temecia[/nation]
 
 Vice President: [nation]The Don River[/nation]
 
-Speaker of the house: Vacant
+Speaker of the house: [nation]National Socialist League Of The Reich[/nation]
 
 Commander and Chief: [nation]Midwestren America[/nation]
 
-Secretary of State: Vacant
+Head Ambassador: [nation]The New Vatican Republic[/nation]
 
-Secretary of Treasury: Vacant
+Secretary of The People: [nation]Turtletrains[/nation]
 
 Recruitment Agency:
  &#149;[nation]Upgraded Beings[/nation]
  &#149;[nation]Midwestren America[/nation]
- &#149;Vacant
- &#149;Vacant
+ &#149;[nation]Veraliance[/nation]
+ &#149;[nation]baq[/nation]
 
 Senate:
 &#149;Vacant
@@ -24,4 +24,8 @@ Senate:
 &#149;Vacant
 &#149;Vacant
 
-[color=blue][url=http://www.nationstates.net/nation=north_turkey/detail=factbook/id=134917]The Constitution[/color][/url]
+[url=http://turons.createaforum.com/][color=red]The United Republic Of NationStates Forum[/url][/color]
+
+[url=http://m.nationstates.net/nation=north_turkey/detail=factbook/id=135196][color=red]Government Positions[/color][/url]
+
+[url=http://m.nationstates.net/nation=north_turkey/detail=factbook/id=134917][color=red]The Constitution[/url][/color]

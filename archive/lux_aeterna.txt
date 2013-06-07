@@ -6,3 +6,4 @@ Regional Sector Heads are as follows:
 [NATION]Weegeebot[/nation]: Regional Scientific Research and Development Sector
 [NATION]Stephan[/nation]: Regional War Sector
 [NATION]Lonestar[/nation]: Regional Civil Administration
+[NATION]Land of the Warrior[/nation]: Special Forces Administration

@@ -14,11 +14,9 @@
 
 [color=grey][b]Diplomatic Envoy At Large:[/b][/color]: [Nation=Slovenya],
 
-[color=grey][b]Good Will Ambassador[/b][/color]: [Nation=Nomadic sister of shawnas north africa]
-
-[color=grey][b]Regional Defence Minister :[/b][/color]  [Nation=Rekolanoja oasis]
+[color=grey][b]Regional Defence Minister :[/b][/color] [Nation=Rekolanoja oasis]
 
 [color=Purple][b]Joint Chiefs of Staff [/b][/color]: [Nation=New Queensberry 2]
 
-[color=grey][b]Director of Regional Bureau of Investigation[/b][/color] :  [Nation=Rezene]
+[color=grey][b]Director of Regional Bureau of Investigation[/b][/color] : [Nation=Mehmedistan]
 

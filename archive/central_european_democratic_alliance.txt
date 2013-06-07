@@ -10,9 +10,10 @@ Adjudicator: [nation]Greater Beggnig[/nation]
 
 Head of Military: [nation]Greater Beggnig[/nation]
 
-Head of Legislation: Unelected.
+Head of Legislation: Request Position.
 
-Head of Embassies: Unelected.
+Head of Embassies: Request Position.
 
-Head of Democracy: Unelected.
+Head of Democracy: Request Position.
+
 

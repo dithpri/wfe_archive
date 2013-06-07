@@ -24,5 +24,4 @@ Embassies:
 [region]Korean Reunification[/region]
 [region]Nederland[/region]
 [region]The communist region[/region]
-[region]Project Horizon[/region]
 [region]Australia[/region]
