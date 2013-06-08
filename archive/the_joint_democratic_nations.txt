@@ -12,7 +12,7 @@ Cabinet:
 
 Minister of Defense:  request position
 Minister of Judicial Affairs:  request position
-Minister of Foreign Affairs: request position
+Minister of Foreign Affairs: [nation=short]Delvakistan[/nation]
 Minister of Internal Affairs:  [nation=short]Eurafricasiamerica[/nation]
 
 Links:
@@ -22,3 +22,5 @@ Links:
 [url=http://www.nationstates.net/nation=eurafricasiamerica/detail=factbook/id=132982] Rules for the WA Delegate[/url]
 
 [url=http://jdnnationstates.boards.net]JDN Forums[/url]
+
+Please join and be active on our forums.

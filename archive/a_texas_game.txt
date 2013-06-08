@@ -3,4 +3,6 @@
 [nation]New Bama[/nation]
 [color=orange][b] WA Delegate:[/b][/color]
 [nation]Chwopalop[/nation]
+[hr][color=purple][b]Embassies:[/b][/color]
+[region]Pigtopia[/region]
 [hr]

@@ -7,5 +7,5 @@ Social/Culture Advisior: none
 Business/Economic Advisor: none
 Science Advisor: [nation]Gallopfrey and the Pony Republic Therof[/nation]
 Minister of War: none
-Minister of Peace: [nation]Fluttershire[/nation]
+Minister of Peace: none
 Recruiter: [nation]Starlightia[/nation] 

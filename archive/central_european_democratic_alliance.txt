@@ -10,10 +10,10 @@ Adjudicator: [nation]Greater Beggnig[/nation]
 
 Head of Military: [nation]Greater Beggnig[/nation]
 
-Head of Legislation: Request Position.
+Head of Legislation: [nation]Perigros[/nation]
 
-Head of Embassies: Request Position.
+Head of Embassies: [nation]Elbenia[/nation]
 
-Head of Democracy: Request Position.
+Head of Democracy: [nation]Perigros[/nation]
 
 
