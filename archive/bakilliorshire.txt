@@ -10,5 +10,5 @@ We encourage you to join the World Assembly but it is not compulsory[/color]
 ------------------------------------------------------------------------------------------------
 [b]PRIME MINISTER: [nation]of_herbshire[/nation][/b]
 [b]DEPUTY PRIME MINISTER: [nation]ryccia_3[/nation][/b]
-[b]DELEGATE: Not yet elected.
+[b]DELEGATE: [nation]ozoi[/nation]
 MINISTER OF INTERNAL AFFAIRS:[nation]new_brunswickshire[/nation][/b]

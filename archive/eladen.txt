@@ -5,12 +5,13 @@
 Population: 178th
 
 Smartest: 831st
+Culture: 684th
 
 Defense: 28th
 Armed: 153rd
 Police: 367th
 
-Economy: 50th
+Economy: 62nd
 Manufacturing: 18th
 Publishing: 23rd
 Arms: 18th
@@ -19,7 +20,7 @@ Agriculture: 13th
 Fishing: 12th
 Auto: [color=yellow]9th[/color]
 Insurance: 11th
-Gambling: 17th
+Gambling: 16th
 IT: 21st
 Timber: 15th
 

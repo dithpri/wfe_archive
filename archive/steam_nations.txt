@@ -8,14 +8,12 @@ Minister of Trade: [nation]Verland and Ormany[/nation]
 Minister of Internal Affairs: Vacant
 Minister of International Affairs: Vacant
 Regional currency: Cog
-*(note that Prime Minister is simply WA delegate message, Langock for position interest)*
 
 [b]MEMBERS[/b]
-[nation]Langock[/nation]
+[nation]Langock[/nation] [nation]The Royal Sovereign Colonies[/nation]
 [nation]Blue Star Securities[/nation]
 [nation]Niston[/nation]
 [nation]Seraa[/nation]
 [nation]The Verlish Pioneers[/nation]
 [nation]Vygarm[/nation]
-[nation]Verland and Ormany[/nation]
-[nation]Urtu[/nation]
+[nation]Verland and Ormany[/nation] [nation]Urtu[/nation]
