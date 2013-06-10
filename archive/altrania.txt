@@ -6,15 +6,15 @@ WA Delegate: [nation]Ibo-Biafra[/nation]
 Presidents:
 
 President of Capitalism: [nation]United weerribben[/nation]
-President of Commun/Socialism: *none*
+President of Commun/Socialism: [nation]Basilon[/nation]
 President of Dictatorship: *none*
 President of Monarchy: [nation]Ibo-Biafra[/nation]
-President of National Socialism: *none*
+President of Facism: *none*
 President of Rossism: [nation]Rossiyan union[/nation]
 
 Map:
 
-http://postimg.org/image/d3l62nwuv/
+http://postimg.org/image/aagm0nlvx/
 
 Embassies:
 

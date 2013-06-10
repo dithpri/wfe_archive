@@ -7,9 +7,9 @@
 &#149; [region=New Delian League] has a SILVER LINING &#149;
 &#149; [region=Weirdonia] is Weird &#149;
 &#149; [region=Greater Healand] is a sorting region &#149;
-&#149;&#149;&#149;
-ASSOCIATED WITH: &#149; [region=United States of America] &#149;
-
+[/color][color=0041a7]
+[b]POSSESSION OF:[/b] &#149; [region=United States of America] &#149;
+[/color][color=006600]
 Handy Tools:
 &#149; [url=http://nsdossier.texasregion.net/]Dossier Tools[/url] (from [region=Texas])
 &#149; [url=http://nseconomy.thirdgeek.com/nseconomy.php]NSEconomy[/url]

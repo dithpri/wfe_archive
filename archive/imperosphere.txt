@@ -1,6 +1,6 @@
 Emperor:[nation]Socialist Republic of Andrew[/nation]
 Enforcer:[nation]The Orson Empire[/nation]
-Prime Minister:[nation]Timmy City[/nation]
+EL Primer Ministro (Prime Minister):[nation]Timmy City[/nation]
 Secretary of Regional Trade and Finance:[nation]Timmy City[/nation]
 Minister of Foreign Relations:[nation]Novo Wagondia[/nation]
 Minister of Intelligence:[nation]Cybus1[/nation]

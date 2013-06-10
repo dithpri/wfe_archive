@@ -1,12 +1,10 @@
-[b]=[color=red]=[/color][color=gold]=[/color]UNITED FEDERATION OF INDEPENDENT STATES=[color=red]=[/color][color=gold]=[/color][/b]
-
-[b]Alliance of Nations (AoN)[/b] and [b]United Kingdom Alliance (UKA)[/b] recreational region.
+[b][i]The United Federation of Independent States is the united region of the Alliance of Nations and the United Kingdom Alliance.[/i][/b]
 
 [b]Regional Government:[/b]
 
 [b]President:[/b]  [nation]Elvendire[/nation]
-[b]Vice-President:[/b]  [nation]Deltora 1[/nation]
-[b]Minister of Internal Affairs:[/b]  [nation]Arra[/nation]
+[b]Vice-President:[/b]  [nation]Delhanara[/nation]
+[b]Minister of Internal Affairs:[/b]  [nation]Star Isles[/nation]
 [b]Minister of Defense:[/b]  [nation]Jacksistan[/nation]
 [b]Minister of Foreign Affairs:[/b]  [nation]Andor1[/nation]
 [b]Minister of Intelligence:[/b]  [nation]Stevesrael[/nation]
