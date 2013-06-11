@@ -6,12 +6,12 @@
 
 [i]Executive[/i]
 I) Secretary-General: [nation=short]Hercosk[/nation]
-II) Vice-Secretary: Vacant
-III) Speaker of Senate:[nation=short]The French Kingdom[/nation]
+II) Vice-Secretary: [nation=short]Griffindor[/nation]
+III) Speaker of Senate: Up for Election
 
 [i]Cabinet Members[/i]
-I) Foreign Minister: Vacant
-II) Defense Minister: Vacant
+I) Foreign Minister: [nation=short]North America and the Great Lakes[/nation]
+II) Defense Minister: [nation=short]Gimbalia[/nation]
 
 [hr]
 
