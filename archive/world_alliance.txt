@@ -10,15 +10,17 @@
 
 [b][color=lightgray]President[/color][/b] : [nation]New-Zealand[/nation]
 
-[b][color=lightgray]Members[/color][/b] : [color=green][nation=short]Novo Canuckia[/nation], [nation=short]Marquette of Pacific[/nation], [/color] [color=red][b]3[/b] Vacancies[/color]
+[b][color=lightgray]Members[/color][/b] : [color=green][nation=short]Novo Canuckia[/nation], [nation=short]Marquette of Pacific[/nation], [nation=short]Europe and Asia[/nation], [nation=short]Newasia[/nation], [nation=short]Naujoji Amerika[/nation] [/color]
 
 [b][color=gold]The COURT OF JUSTICE[/color][/b]
 
 [b][color=lightgray]Chief Justice[/color][/b] : [nation=short]The Republic of Chivalry[/nation]
 
-[b][color=lightgray]Associate Justices[/color][/b] : [color=green][nation=short]Acquitane[/nation], [/color] [color=red][b]1[/b] Vacancy[/color]
+[b][color=lightgray]Associate Justices[/color][/b] : [color=green][nation=short]Acquitane[/nation], [nation=short]The United States of Schorr[/nation] [/color]
 
 [hr]
+
+[b][color=blue]WA Forum Moderator :[/color][/b] [nation=New-Zealand]
 
 [b][color=blue]WA Role Play Moderator :[/color][/b] [nation=Arcadiana]
 

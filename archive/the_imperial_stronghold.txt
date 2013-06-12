@@ -18,4 +18,6 @@
 
 [color=blue][i]The Imperial Catering Officer[/i][/color]: [nation=noflag]Biscuits[/nation]
 
+[color=blue][i]The Supreme Controller of Law and Imperial Enforcement[/i][/color]: [nation=noflag]Vacine[/nation]
+
 [hr]

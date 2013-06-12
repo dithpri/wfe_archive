@@ -3,9 +3,9 @@ DEFCON 4
 
 [b]Minister of Interior (Temporary):[/b][nation]Kavamkao[/nation] - Please Endorse 
 [b]Minister of Defence:[/b] Open
-[b]Minister of Public Welfare:[/b]Open
+[b]Minister of Public Welfare:[/b][nation]Tevinland[/nation]
 [b]Minister of Economics:[/b][nation]Fedralstan[/nation]
-[b]Political Officer:[/b]Open
+[b]Minister of Foriegn Affiars:[/b]Open
 
 Capital City (Rotating): The City of Cloverport [nation]Anarchstead[/nation]
 

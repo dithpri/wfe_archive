@@ -17,7 +17,7 @@
 
 Social Affairs: [nation]Axonic[/nation]
 Security: [nation]Yisrae1[/nation]
-Interior Affairs: Vacant
+Foreign Affairs: Vacant
 Environment: [nation]Divokl[/nation]
 Judicial Affairs: [nation]Cornonor[/nation]
 Immigration: [nation]Contravian[/nation]
@@ -26,4 +26,4 @@ Recruitment: [nation]Consortium of Manchukuo[/nation]
 
 [hr]
 
-[color=blue][b]RMB Topic: WA Delegacy[/color][/b]
+[color=blue][b]RMB Topic: Regional Government Position Elections! - 14/06/2013[/color][/b]

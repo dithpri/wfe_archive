@@ -7,13 +7,13 @@
 [b][color=purple]Kennan Union[/color][/b]
 --Currently none--
 
-[color=orange][b]3rd Kennan Regional Secretary Council[/b][/color]
-[b]Administration:[/b] [nation=short]Ethan Foley[/nation]
-[b]Commerce:[/b] [nation=short]Samukan[/nation]
-[b]Defense:[/b] [nation=short]Soviet New Ireland[/nation]
-[b]Education:[/b] [nation=short]Hackleberry Islands[/nation]
-[b]Environment:[/b] [nation=short]united solcialist states of jakeopia[/nation]
-[b]Human Rights:[/b] [nation=short]Fords[/nation]
+[color=orange][b]4th Kennan Regional Secretary Council[/b][/color]
+[b]Administration:[/b] [nation=short]Samukan[/nation]
+[b]Commerce:[/b] [nation=short]Roytonburg[/nation]
+[b]Defense:[/b] [nation=short]The Azerian Empire[/nation]
+[b]Education:[/b] [nation=short]Sandwich Territories[/nation]
+[b]Environment:[/b] [nation=short]United Solcialist States of Jakeopia[/nation]
+[b]Human Rights:[/b] [nation=short]Hackleberry Islands[/nation]
 
 [b]Head Ambassador:[/b] [nation=short]Sandwich Territories[/nation] (contact him for embassies, etc.)
 
