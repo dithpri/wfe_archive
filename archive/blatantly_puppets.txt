@@ -1,24 +1,24 @@
 Nations of the same creator, made for various tech periods/RP styles. Grouped together for ease of location.
 
+Benevolent Hegemon
 [nation]American Soviet Republics[/nation]
 
+Active
 [nation]Astoria[/nation]
 [nation]Rocky Mountain States[/nation]
-
 [nation]Betonland[/nation]
-[nation]The Cairns[/nation]
-[nation]Fennwick[/nation]
-
 [nation]Alstein[/nation]
-
 [nation]Weiland[/nation]
-[nation]Usziya[/nation]
-
 [nation]Termenia[/nation]
 [nation]Alynia[/nation]
-
-[nation]Guyaland[/nation]
 [nation]The Terran Confederacy[/nation]
+[nation]The Cairns[/nation]
+
+Inactive
+[nation]Fennwick[/nation]
+[nation]Usziya[/nation]
+[nation]Guyaland[/nation]
+
 
 
 

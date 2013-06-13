@@ -17,7 +17,7 @@ Secretary of Regional Affairs:
 
 Speaker: [nation=short]Federal Republic of Yugoslavia[/nation] [color=orange](I)[/color]
 Congressman: [nation=short]Shish Ka-bob[/nation][color=darkblue](WH)[/color]
-Congressman: [nation=short]Allied Dominions[/nation] [color=grey](M)[/color]
+Congressman:
 
 Defcon: [color=green]LOW[/color]
 

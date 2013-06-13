@@ -14,3 +14,5 @@ Conquered Subjects:
 [region]Babylonian Empire[/region]
 [region]Imperial persia[/region]
 [region]The soviet block[/region]
+[region]Dathomir[/region]
+[region]Kronas[/region]
