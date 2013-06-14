@@ -1,8 +1,10 @@
 A region of allied nations focusing mainly on Defence, Trade and the Rich.
 
 Head of Defence: [nation]Pundii[/nation]
-Head of Trade: [nation]Mr Padfoot[/nation]
-Head of Economics:
-Head of Education:
+Head of Trade: [nation]McNip[/nation]
+Head of Economics: [nation]Mr Padfoot[/nation]
+Head of Education: 
 Head of Health:
-Head of Public Relations: [nation]Mr Heskett[/nation]
+Head of Public Relations: 
+
+[color=red]Enemy of the State:[/color] [nation]Mr Heskett[/nation]

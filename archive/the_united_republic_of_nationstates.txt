@@ -2,7 +2,7 @@ President: [nation]South Temecia[/nation]
 
 Vice President: [nation]Midwestren America[/nation]
 
-Speaker of the house: [nation]Computer Master[/nation]
+Speaker of the house: [nation]Naoki[/nation]
 
 Commander and Chief: [nation]The Don River[/nation]/[nation]South Temecia[/nation]
 
@@ -17,7 +17,7 @@ Recruitment Agency:
  &#149;Vacant
 
 Senate:
-&#149;[nation]Naoki[/nation]
+&#149;[nation]Vacant[/nation]
 &#149;[nation]Sandkit[/nation]
 &#149;Vacant
 &#149;Vacant

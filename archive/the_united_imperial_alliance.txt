@@ -7,7 +7,7 @@ UIA - United Imperial Alliance
 [nation]McContrag[/nation]
 
 [u]The Council[/u]
-[u]Contains every nation (Including Anterrans, Machines and TBA Rilthens)[/u]
+[u]Contains every nation (Including Anterrans, Machines and Rilthens)[/u]
 
 [u]The Machine Union[/u]
 [nation]Ventraidi[/nation]
