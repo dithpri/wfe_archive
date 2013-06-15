@@ -9,7 +9,7 @@ Chancellor: [nation=noflag]Premor[/nation]
 Vice Chancellor: [i]Unappointed![/i]
 
 [b]Miscellaneous[/b]
-WA Delegate: [i]Unappointed![/i]
+WA Delegate: [nation=noflag]Eretz Yehuda[/nation]
 
 [color=blue]Take a look and join the forums at [url=http://s13.zetaboards.com/ceseris]http://s13.zetaboards.com/ceseris[/url][/color]
 

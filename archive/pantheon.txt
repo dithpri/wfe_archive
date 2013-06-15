@@ -1,6 +1,6 @@
 [b]Welcome to [region]Pantheon[/region]![/b]
 
-We aim to conquer and destroy regions. We will spread uncertainty and suspicion through NationStates. All true raiders welcome.
+We aim to conquer and destroy regions. We will spread uncertainty and suspicion through NationStates. 
 
 Join our [url=http://w11.zetaboards.com/The_Pantheon_NS/index/]forum[/url] today!
 Sign up for the [url=http://w11.zetaboards.com/The_Pantheon_NS/topic/8770464/1/#new]military[/url]!
@@ -9,8 +9,12 @@ We now have IRC [url=http://w11.zetaboards.com/The_Pantheon_NS/pages/chat/]chat[
 For the moment please endorse our delegate [b][nation=short]Malakh HaMavet[/nation][/b] for the security of the region.
 
 [b][u]Regional Government[/b][/u]
-[b]Founder:[/b] [nation=short]Guarda[/nation]
-[b]Delegate (Prime Minister):[/b] [nation=short]Malakh HaMavet[/nation]
+[b]Founder and Prime Minister:[/b] [nation=short]Guarda[/nation]
+[b]Appointed Delegate:[/b] [nation=short]Malakh HaMavet[/nation]
+[b]Minister of Intelligence:[/b] Vacant
+[b]Minister of Foreign Affairs:[/b] Vacant
+[b]Minister of Internal Affairs:[/b] Vacant
+[b]Sergeant in Arms / Military Liaison:[/b] [nation=short]United Land of Advancement[/nation]
 
 [u][b]The Military[/b][/u]
 [b]Commander-General:[/b] [nation=short]Guarda[/nation]
