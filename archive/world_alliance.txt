@@ -10,9 +10,9 @@
 
 [b][color=lightgray]President[/color][/b] : [nation]New-Zealand[/nation]
 
-[b][color=lightgray]Members[/color][/b] : [color=green][nation=short]Newasia[/nation], [nation=short]Novo Canuckia[/nation], [nation=short]Naujoji Amerika[/nation],
+[b][color=lightgray]Members[/color][/b] : [color=green][nation=short]Newasia[/nation], [nation=short]Novo Canuckia[/nation], [nation=short]Kulon Bangsa[/nation],
 
-[nation=short]Europe and Asia[/nation], [nation]Marquette of Pacific[/nation]
+[nation]Dromoda[/nation], [nation=short]Marquette of Pacific[/nation]
 
 [/color]
 
@@ -20,18 +20,22 @@
 
 [b][color=lightgray]Chief Justice[/color][/b] : [nation=short]The Republic of Chivalry[/nation]
 
-[b][color=lightgray]Associate Justices[/color][/b] : [color=green][nation=short]The United States of Schorr[/nation],[/color] [color=red][b]1[/b] Vacancy[/color]
+[b][color=lightgray]Associate Justices[/color][/b] : [color=green][nation=short]Europe and Asia[/nation], [nation=short]The United States of Schorr[/nation] [/color]
 
 [hr]
 
-[b][color=blue]WA Forum Moderator :[/color][/b] [nation=New-Zealand]
+[b][color=blue]WORLD ALLIANCE ADMINISTRATION[/color][/b]
 
-[b][color=blue]WA Role Play Moderator :[/color][/b] [nation=Arcadiana]
+[b][color=lightgray]Map Developer[/color][/b] : [nation=Dromoda]
 
-[b][color=blue]WA Foreign Affairs Advisor :[/color][/b] [nation=Kulon Bangsa]
+[b][color=lightgray]Forum Moderator[/color][/b] : [nation=New-Zealand]
+
+[b][color=lightgray]Role Play Moderator[/color][/b] : [nation=Arcadiana]
+
+[b][color=lightgray]External Affairs Advisor[/color][/b] : [nation=Kulon Bangsa]
 
 [hr]
 
-[b][color=red]REGIONAL LINKS :[/color][/b] | [url=http://worldalliance.postalboard.com/t1-registration/]Forums[/url] | [url=http://www.nstracker.net/regions?region=World+Alliance]Tracker[/url] | [url=http://worldalliance.postalboard.com/f9-wa-regional-archives]Archives[/url] | [url=http://s15.postimg.org/614qak9cp/Physical_Map.png]WA Physical Map[/url] | [url=http://s10.postimg.org/dloonyjlj/Political_Map.png]WA Political Map[/url] | [url=http://worldalliance.postalboard.com/t12p510-world-alliance-map-claims#4281]Map Claims[/url] | [url=http://worldalliance.postalboard.com/t10-world-alliance-news-network]News Network[/url] |
+[b][color=red]REGIONAL LINKS :[/color][/b] | [url=http://worldalliance.postalboard.com/t1-registration/]Forums[/url] | [url=http://www.nstracker.net/regions?region=World+Alliance]Tracker[/url] | [url=http://worldalliance.postalboard.com/f9-wa-regional-archives]Archives[/url] | [url=http://s10.postimg.org/dloonyjlj/Political_Map.png]WA Map[/url] | [url=http://worldalliance.postalboard.com/t12p510-world-alliance-map-claims#4281]Map Claims[/url] | [url=http://worldalliance.postalboard.com/t10-world-alliance-news-network]News Network[/url] |
 
 [/i][hr]

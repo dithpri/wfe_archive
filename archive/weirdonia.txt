@@ -1,5 +1,8 @@
-[color=000666][b]Weirdonia[/b]
-[/color][color=006600]
-REGION[list]This region is associated with [region=Ionia] and [region=United States of America]
-Region No. 15
-A Puppet Storage Region[/list][/color]
+[color=CC3300][b]Weirdonia[/b][/color]
+[color=006600]
+REGION[list]&#149; This region is associated with [region=Ionia] and [region=United States of America]
+&#149; Region No. 15
+&#149; A Puppet Storage Region
+[list]&#149; Decided to make a change of direction for this particular region.
+Nations placed here are in the top 5% populations, and does not have any 1% awards of any kind, nor any other top 5% awards[/list]
+&#149; Sorry, this region has a Password[/list][/color]

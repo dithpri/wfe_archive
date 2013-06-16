@@ -4,4 +4,5 @@
 [hr]Magnate:
 
 Triarch: [nation=short]Mazora[/nation]
-Triarch: [nation=short]Hydraxos[/nation][/b]
+Triarch: [nation=short]Hydraxos[/nation]
+Triarch: [nation=short]Nonungalo[/nation][/b]

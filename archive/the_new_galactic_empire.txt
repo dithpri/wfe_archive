@@ -10,7 +10,7 @@
 [b][u]Moff Council[/u][/b]
 - [b]Interim Moff of Foreign Affairs[/b]: [nation=short]Darth Radix II[/nation]
 -- [b]Vice Moff of Foreign Affairs[/b]: [nation=short] Vacant[/nation]
-- [b]Moff of War[/b]: [nation=short]Atrum Vesica[/nation]
+- [b]Moff of War[/b]: [nation=short]Darth Tenebris[/nation]
 -- [b]Vice Moff of War[/b]: [nation=short]Vacant [/nation]
 - [b]Interim Moff of Culture[/b]: [nation=short]Darth Revan II[/nation] 
 -- [b]Vice Moff of Culture[/b]: [nation=short]The Hand of Thrawnn[/nation] 

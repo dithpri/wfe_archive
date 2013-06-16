@@ -4,12 +4,10 @@
 
 Main active Nations (well, some of them more than the others xD):
 
-[nation]Avalon[/nation], Region: [region]The North Pacific[/region]
+[nation]Avalon[/nation] &amp;gt;&amp;gt; Region: [region]The North Pacific[/region]
 
-[nation]Anglia[/nation], Region: [region]The Commonwealth of Crowns[/region]
+[nation]Anglia[/nation] &amp;gt;&amp;gt; Region: [region]The Commonwealth of Crowns[/region]
 
-[nation]AngelzRealm[/nation], Region: [region]Avalon[/region]
-
-[nation]Free Canary Islands[/nation], Region: [region]Democratic Socialist Assembly[/region]
+[nation=short]AngelzRealm[/nation] and [nation=short]Free Canary Islands[/nation] &amp;gt;&amp;gt; Region: [region]Democratic Socialist Assembly[/region]
 
 [hr]

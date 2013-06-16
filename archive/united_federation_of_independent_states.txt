@@ -2,12 +2,16 @@
 
 [b]THE REGION WELCOMES YOU![/b]
 
-[b][i]Regional Government:[/b][/i]
+[b][i]Regional Council:[/b][/i]
 
-[b]President:[/b]  [nation]Elvendire[/nation]
-[b]Vice-President:[/b]  [nation]Delhanara[/nation]
-[b]Minister of Internal Affairs:[/b]  [nation]Star Isles[/nation]
-[b]Minister of Defense:[/b]  [nation]Jacksistan[/nation]
-[b]Minister of Foreign Affairs:[/b]  [nation]Andor1[/nation]
-[b]Minister of Intelligence:[/b]  [nation]Stevesrael[/nation]
-[b]Minister of the Treasury:[/b]  [nation]Light isles[/nation]
+[nation]Elvendire[/nation]
+[nation]Delhanara[/nation]
+[nation]Star Isles[/nation]
+[nation]Jacksistan[/nation]
+[nation]Andor1[/nation]
+[nation]Stevesrael[/nation]
+[nation]Light isles[/nation]
+
+[b]Active Wars:[/b]
+
+None
