@@ -5,4 +5,5 @@ REGION[list]&#149; This region is associated with [region=Ionia] and [region=Uni
 &#149; A Puppet Storage Region
 [list]&#149; Decided to make a change of direction for this particular region.
 Nations placed here are in the top 5% populations, and does not have any 1% awards of any kind, nor any other top 5% awards[/list]
+&#149; Former puppet status transferred to [region=The Peoples Pacific]
 &#149; Sorry, this region has a Password[/list][/color]

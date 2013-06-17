@@ -1,6 +1,11 @@
-HALT! YOU HAVE ENTERED A RESTRICTED AREA!
+[color=red]HALT! THIS REGION IS A RESTRICTED AREA![/color]
 
-FOB Darby is a Forward Operating Base (FOB) for reconnaissance scouts, field intelligence operatives, and military forces of an undisclosed region. This is a military operational area.
+[color=blue]FOB W O Darby[/color] is a Forward Operating Base (FOB) for reconnaissance scouts, field intelligence operatives, agent provocateurs, double agents, and the external military forces of an undisclosed region. 
 
-DO NOT LOITER OR RECRUIT HERE!
+[color=red]This is a military operational area.[/color]
+
+Nations seeking [b]political asylum[/b] or [b]sanctuary[/b] [u]must[/u] telegram the FOB Commanding Officer with your request. If you are cleared by Intelligence, you will be granted access and issued the password. 
+
+[color=blue]FOB CO:[/color] Sanctuary Islands
+[color=blue]FOB NCOIC:[/color] US Cavalry
 

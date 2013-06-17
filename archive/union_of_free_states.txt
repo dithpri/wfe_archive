@@ -7,7 +7,7 @@
 [i]Executive[/i]
 I) Secretary-General: [nation=short]Hercosk[/nation]
 II) Vice-Secretary: [nation=short]Griffindor[/nation]
-III) Speaker of Senate: Up for Election
+III) Speaker of Senate: [nation=short]North America and the Great Lakes[/nation]
 
 [i]Cabinet Members[/i]
 I) Foreign Minister: [nation=short]North America and the Great Lakes[/nation]

@@ -4,5 +4,5 @@ Nations of Space is an intergalactic group of powerful and engulfed nations with
 [u]Positions[/u]
 Founder: [nation]Imperial States of the Empire[/nation]
 WA Delegate: [nation]Imperial States of the Empire[/nation]
-Head of Security: Available
-Cheif Advisor: Available
+Head of Security: [nation]Farusian[/nation]
+Cheif Advisor: [nation]Anti-US[/nation]

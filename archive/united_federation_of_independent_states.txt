@@ -7,6 +7,7 @@
 [nation]Elvendire[/nation]
 [nation]Delhanara[/nation]
 [nation]Star Isles[/nation]
+[nation]Imperial-Empire[/nation]
 [nation]Jacksistan[/nation]
 [nation]Andor1[/nation]
 [nation]Stevesrael[/nation]

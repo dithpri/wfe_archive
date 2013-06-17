@@ -1,4 +1,4 @@
-Zarathustra, Laand dak Mjakt aast Majistaat.
+Zarathustra, Alaand dak Mjakt aast Majistaat.
 Zhen Vlijtig regjin aast djer Stjerk sejre.
 Vrijhyd afgezjakt av Verjeft.
 Ljat zhen Zaal ayf dak Wysett fjar virspryd.
@@ -16,3 +16,5 @@ Conquered Subjects:
 [region]The soviet block[/region]
 [region]Dathomir[/region]
 [region]Kronas[/region]
+[region]Hexic[/region]
+[region]Gihok[/region]
