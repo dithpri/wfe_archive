@@ -4,15 +4,15 @@
 
 [b][i]Regional Council:[/b][/i]
 
-[nation]Elvendire[/nation]
+[b][nation]Elvendire[/nation]
 [nation]Delhanara[/nation]
 [nation]Star Isles[/nation]
 [nation]Imperial-Empire[/nation]
 [nation]Jacksistan[/nation]
 [nation]Andor1[/nation]
 [nation]Stevesrael[/nation]
-[nation]Light isles[/nation]
+[nation]Light isles[/nation][/b]
 
-[b]Active Wars:[/b]
+[b][i]Active Wars:[/b][/i]
 
-None
+[b]Jacksistani Civil War[/b]

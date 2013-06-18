@@ -6,7 +6,7 @@ First Lord: [nation=noflag]Pyravar II[/nation]
 
 [b]Heads of Government[/b]
 Chancellor: [nation=noflag]Premor[/nation]
-Vice Chancellor: [i]Unappointed![/i]
+Vice Chancellor: [nation=noflag]Ba Natari[/nation]
 
 [b]Miscellaneous[/b]
 WA Delegate: [nation=noflag]Eretz Yehuda[/nation]
