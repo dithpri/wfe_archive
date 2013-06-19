@@ -10,8 +10,6 @@ FACTS
 &#149; Prime Minister: Denzil Douglas
 [/color][color=003153]
 ABOUT THIS REGION
-&#149; a [region=Royal Alliance] region
-&#149; [b]Founded by:[/b] [nation=short]Dog Lake[/nation] (Dec. 22, 2010)
-&#149; [b]Caretaker:[/b] [nation=short]Royal House of Windsor[/nation]
+&#149; a [region=United States of America] region
 [/color][color=002486]
 [b]WELCOME[/b][/color]

@@ -6,3 +6,8 @@ Bordered by: [region=Quebec] ([region=Canada]), [region=New York], [region=New H
 -----------------------------------------------------------------------------------
 
 Bienvenue au Vermont. Nous parlons fran&ccedil;ais et anglais.
+
+-----------------------------------------------------------------------------------
+Vermont Regional Legislature:
+Governor: [nation=Anarchys Everywhere]
+Senators: [nation=Les-verts-monts], [nation=Parks Kalieding]

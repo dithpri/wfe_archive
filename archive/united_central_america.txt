@@ -6,7 +6,7 @@ President: [Nation]United Libertarian Nation[/Nation]
 
 Defense Minister: [nation]The Demonborn[/nation]
 Foreign Affairs Minister: Free
-Senate Minister: [nation]Sloanski[/nation]
+Senate Minister: Free
 
 [b]Regional Recruiter: Everyone![/b]
 
