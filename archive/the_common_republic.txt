@@ -1,8 +1,10 @@
 [color=red][u][b].:WELCOME TO THE COMMON REPUBLICS:.[/b][/u][/color]
-[b]This Region is now a Colony of [region]The New British Empire[/region][/b]
+
+[b]This Region is now a Colony of [region]The New British Empire[/region]![/b]
+
 [b]Rule Britannia![/b]
 
-F&uuml;hrer:[nation=short]Brition[/nation]
+Leader:[nation=short]Brition[/nation]
 Colonial Governor:[nation=short]116th Panzer Division[/nation]
 Lieutenant Governor: [nation=short]The 2nd Holy Roman Empire[/nation]
 

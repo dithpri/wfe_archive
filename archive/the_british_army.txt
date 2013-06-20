@@ -2,6 +2,8 @@
 
 This region is used as a base and puppet storage for the Imperial People&amp;#39;s Army of [region]The New British Empire[/region].
 
+Nations are required to telegram [nation=short]TBA Field Marshal[/nation] with the username of their puppet. Unidentified puppets will be ejected.
+
 [u][b]High Command[/u][/b]
 Commander in Chief [nation=short]Brition[/nation]
 Field Marshal [nation=short]TBA Field Marshal[/nation]

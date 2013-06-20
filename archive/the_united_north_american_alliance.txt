@@ -6,5 +6,6 @@ Secretary-General: [color=orange][nation]The Community of Yuba-Sutter[/nation][/
 Security Council President: [color=blue][nation]New Republic of Confedracy[/nation][/color]
 President of the General Assembly: [color=green]The Empire of Nedistan[/color]
 Deputy Secretary-General: [color=red][nation]Democratic Republic of Nesquo[/nation][/color]
+Regional Justice: [color=#00FFFF][nation]Colony of Sir Charles Islands[/nation][/color]
 
 [b]TG Aznazia if you have any new positions that can be created.[/b]

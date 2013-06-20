@@ -11,10 +11,11 @@
 Founder: [nation]The Revolutionary Police[/nation] 
 Delegate: [nation]Theranistan[/nation]
 Minister of Events: 
-Minister of Recruitment:
+Regional Security Advisor: [nation]The Revolutionary Police[/nation]*
+Minister of Recruitment: [nation]Gordtofron[/nation]*
 Minister of Immigrants:
 Regent of the Council:
-
+* These positions currently held are only temporary-until the election
 
 [url=http://www.broomdces.com/nseconomy/regions.php?region=the+conservative+society]Nation Statistics[/url]
 [url=http://www.w11.zetaboards.com/The_Conservative/index/]Regional Forum[/url]

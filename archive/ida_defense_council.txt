@@ -5,9 +5,11 @@
 [i]Member Regions[/i]
 - [region]Libertatem[/region]
 - [region]Federation of Free States[/region]
-- [region]New Republica[/region]
-- [region]Central Pacific Empire[/region]
-- [region]The Commonwealth of Crowns[/region]
-- [region]Wolfmania[/region]
+- [region]New Republica[/region] *
+- [region]Central Pacific Empire[/region] *
+- [region]The Commonwealth of Crowns[/region] *
+- [region]Wolfmania[/region] *
+
+* In Progress of Ratification
 
 [b][url=http://www.nationstates.net/nation=the_ida_headquarters/detail=factbook/id=139127]The IDA Treaty[/url][/b]

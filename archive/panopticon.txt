@@ -7,4 +7,4 @@
 [b]A1 - [nation=short]open[/nation], A2 - [nation=short]Osorno[/nation], A3 - [nation=short]open[/nation], A4 - [nation=short]Aanden[/nation], A5-[nation=short]BrazC[/nation], A6 - [nation=short]Patyun[/nation].
 E1 - [nation=short]open[/nation], E2 - [nation=short]open[/nation], E3 - [nation=short]open[/nation], E4 - [nation=short]open[/nation], E5 - [nation=short]open[/nation], E6 - [nation=short]open[/nation].[/b]
 
-[b][color=red]STATE OF EMERGENCY = Effective Until July 5, 2013[/color][/b]
+[b][color=red]State of Emergency Ends[/color][/b]
