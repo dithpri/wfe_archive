@@ -4,7 +4,7 @@ Vice President: [nation]Midwestren America[/nation]
 
 Speaker of the house: [nation]Naoki[/nation]
 
-Commander and Chief: [nation]The Don River[/nation]/[nation]South Temecia[/nation]
+Commander and Chief: [nation]The Don River[/nation]
 
 Head Ambassador: [nation]Master Computer[/nation] 
 
@@ -17,11 +17,11 @@ Recruitment Agency:
  &#149;Vacant
 
 Senate:
-&#149;[nation]Vacant[/nation]
+&#149;[nation]Vulcania[/nation]
 &#149;[nation]Sandkit[/nation]
-&#149;Vacant
-&#149;Vacant
-&#149;Vacant
+&#149;[nation]Of the communist empire[/nation]
+&#149;[nation]Holltesem[/nation]
+&#149;[nation]The Greenhouse[/nation]
 &#149;Vacant
 
 [b][color=red]ALL NEW NATIONS SIGN UP ON THE REGIONAL FORUM AND APPLY FOR CITIZENSHIP!!![/color][/b]
@@ -31,4 +31,3 @@ Senate:
 [url=http://m.nationstates.net/nation=north_turkey/detail=factbook/id=135196][color=red]Government Positions[/color][/url]
 
 [url=http://m.nationstates.net/nation=north_turkey/detail=factbook/id=134917][color=red]The Constitution[/url][/color]
-

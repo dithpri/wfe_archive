@@ -4,8 +4,6 @@ Benevolent Hegemon
 [nation]American Soviet Republics[/nation]
 
 Active
-[nation]Astoria[/nation]
-[nation]Rocky Mountain States[/nation]
 [nation]Betonland[/nation]
 [nation]Alstein[/nation]
 [nation]Weiland[/nation]
