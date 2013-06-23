@@ -1,22 +1,22 @@
 Welcome to The United Federation of Free Nations! We are a region dedicated for [b]freedom and peace![/b] Come join us!
 
 [hr]
-
-[b][color=blue]ADMINISTRATOR[/color][/b]
-[nation]Freedom Planita 2[/nation]
-
+[b][i][color=red]UFFN Government[/color][/i][/b]
 
 
 [hr]
 
-[b][i][color=red]UFFN Government[/color][/i][/b]
+[b][color=blue]ADMINISTRATOR[/color][/b]
+[nation]Freedom Planita 2[/nation]
+[hr]
+[b]Executive Branch
 
-[b]WA Elector[/b] : [nation]Lonbonia[/nation]
+WA Elector[/b] : [nation]Lonbonia[/nation]
 
 [b]Federation President : [/b] [color=red]Vacant[/color]
+[hr]
 
-
-
+[b]Legislative Branch[/b]
 [b]The Federation Congress[/b]
 
 Federation Council(FP2)(LON)

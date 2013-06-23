@@ -3,7 +3,6 @@ UIA - United Imperial Alliance
 [nation]Veliria[/nation]
 [nation]The Cadian Dominion[/nation]
 [nation]Haltioiden[/nation]
-[nation]The Allied Empire Of Colombia[/nation]
 [nation]McContrag[/nation]
 
 [u]The Council[/u]

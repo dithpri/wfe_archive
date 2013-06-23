@@ -1,13 +1,20 @@
-[b]Welcome to the Palace of [color=blue]Lennart[/color]: King of many lands, citizen of a few regions.[/b]
+[b]Welcome to the Palace of [nation=short+noflag]Lennart[/nation]: King of many lands, honourable citizen of a few regions.[/b]
 
 [hr]
 
-Main active Nations (well, some of them more than the others xD):
+Main active Nations and the Regions they reside in:
 
-[nation]Avalon[/nation] &amp;gt;&amp;gt; Region: [region]The North Pacific[/region]
+[b][nation=short]Avalon[/nation][/b] and [b][nation=short+noflag]Ehlnar[/nation][/b] in [i][region]The North Pacific[/region][/i]
 
-[nation]Anglia[/nation] &amp;gt;&amp;gt; Region: [region]The Commonwealth of Crowns[/region]
+[b][nation=short]Anglia[/nation][/b] in [i][region]The Commonwealth of Crowns[/region][/i]
 
-[nation=short]AngelzRealm[/nation] and [nation=short]Free Canary Islands[/nation] &amp;gt;&amp;gt; Region: [region]Democratic Socialist Assembly[/region]
+[b][nation=short]AngelzRealm[/nation][/b] in [i][region]Nationstates[/region][/i]
+
+[b][nation=short]Free Canary Islands[/nation][/b] in [i][region]Democratic Socialist Assembly[/region][/i]
+
 
 [hr]
+
+[i]Contact the founder for embassies, puppet trading, interregional affairs, friendship, fun, Community (tv series) worship, Canarian secessionist propaganda and help with flags or factbooks.[/i]
+
+[hr][b]Peace[/b]
