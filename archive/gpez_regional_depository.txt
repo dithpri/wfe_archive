@@ -8,7 +8,8 @@
 |=|[nation]Khamad[/nation]
 |=|[nation]Novus Imperii Romani[/nation]
 |=|[nation]Neua China[/nation]
-|=|[nation]Novosti Soviet Republics[/nation][/color][/b]
+|=|[nation]Novosti Soviet Republics[/nation]
+|=|[nation]City 08[/nation][/color][/b]
 
 [u][b][color=darkgreen]Temporary Members:[/color][/b][/u]
 [b][color=green]|=|[nation]The Novosti Soviet Republics[/nation][/color][/b]

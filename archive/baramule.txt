@@ -1,11 +1,11 @@
-Europe:
-Africa:
-Southeast Asia:
-North America:
-Northwestern Europe:
-East Asia:
+Europe: LMR20 AGR30: R150; NX AX; Sat
+Africa: GLD80 FRT50: R15; NI AIV; Sat
+Southeast Asia: FSH70 SPC70: R15; NIII AII; Sat
+North America: LMR70 AGR50: R50; NVII AVII; Sat
+Northwestern Europe: FSH60 FRS40 R30; NV AV; Sat
+East Asia: FSH50 AGR50: R15; NIII AIII; Sat
 
-Middle East:
-South America:
+Middle East: SPC70 AGR60: R15; NI AIV; Sat
+South America: GLD70 DRG70: R15; NI AIII; Sat
 
-Celmarog: $66,000; 1,000; 100pp
+Celmarog: $67,000; 1,000; 100pp

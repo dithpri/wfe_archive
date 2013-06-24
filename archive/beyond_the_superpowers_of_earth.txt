@@ -4,15 +4,9 @@ Vice President:[nation]Mojopore[/nation]
 Minister of Foreign Affairs:[nation]Hrathgar Glacier[/nation]
 Minister of Defence:[nation]MoorVanguard[/nation]
 
-Judicial branch
-Chief Justice :[nation]Haemo[/nation]
-Justice:[nation]adele[/nation]
-Justice:[nation]popolock[/nation]
-
 Legislative branch
-Head Senator: [nation]The Great State of Christopia[/nation]
+Head Senator: [nation]Delta Zero[/nation]
 Senators:
-[nation]Delta Zero[/nation]
 [nation]chisa[/nation]
 [nation]tirada[/nation]
 [nation]mojoland[/nation]

@@ -1,20 +1,12 @@
-President: [nation]South Temecia[/nation]
+&#149;President: [nation]South Temecia[/nation]
+&#149;Vice President: [nation]Midwestren America[/nation]
+&#149;Speaker of the house: [nation]Naoki[/nation]
+&#149;Commander and Chief: [nation]The Don River[/nation]
+&#149;Head Ambassador: [nation]Master Computer[/nation] 
+&#149;Secretary of The People: [nation]Upgraded Beings[/nation]
+&#149;Recruitment Chief:[nation]The Greenhouse[/nation]
 
-Vice President: [nation]Midwestren America[/nation]
-
-Speaker of the house: [nation]Naoki[/nation]
-
-Commander and Chief: [nation]The Don River[/nation]
-
-Head Ambassador: [nation]Master Computer[/nation] 
-
-Secretary of The People: [nation]Upgraded Beings[/nation]
-
-Recruitment Agency:
- &#149;Vacant
- &#149;Vacant
- &#149;Vacant
- &#149;Vacant
+[color=brown]SIGN[/color] [color=grey]UP[/color] [color=black]FOR[/color] [color=green]THE   [/color][color=brown]ARMY[/color]/[color=red]BORDER[/color] [color=blue]TEAM[/color]
 
 Senate:
 &#149;[nation]Vulcania[/nation]
@@ -24,10 +16,7 @@ Senate:
 &#149;[nation]The Greenhouse[/nation]
 &#149;Vacant
 
-[b][color=red]ALL NEW NATIONS SIGN UP ON THE REGIONAL FORUM AND APPLY FOR CITIZENSHIP!!![/color][/b]
-
-[url=http://turons.createaforum.com/][color=red]The United Republic Of NationStates Forum[/url][/color]
-
-[url=http://m.nationstates.net/nation=north_turkey/detail=factbook/id=135196][color=red]Government Positions[/color][/url]
-
-[url=http://m.nationstates.net/nation=north_turkey/detail=factbook/id=134917][color=red]The Constitution[/url][/color]
+[u][b][color=red]ALL NEW NATIONS SIGN UP ON THE REGIONAL FORUM AND APPLY FOR CITIZENSHIP!!![/u][/color][/b]
+[url=http://turons.createaforum.com/][u][color=red]The United Republic Of NationStates Forum[/u][/url][/color]
+[url=http://m.nationstates.net/nation=north_turkey/detail=factbook/id=135196][color=red][u]Government Positions[/u][/color][/url]
+[url=http://m.nationstates.net/nation=north_turkey/detail=factbook/id=134917][color=red][u]The Constitution[/u][/url][/color]

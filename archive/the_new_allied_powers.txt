@@ -3,3 +3,6 @@ In order to be a member, you must be a communist region willing to fight in the 
 ----------------------------------------------------------------------------------------------------------
 [b]MEMBER REGIONS:[/b]
 [region]UCR[/region]
+[region]Free France[/region]
+[region]the Western Allies[/region]
+[region]the Union of Communist Republics[/region]
