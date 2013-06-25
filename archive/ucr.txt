@@ -4,16 +4,14 @@
 President: [nation=short]the united slavic tsardom[/nation]
 Vice President: [nation=short]the united communist republic[/nation] - [i]please endorse[/i]
 Minister of defense: [nation=short]Samminaria Malachin[/nation]
-Minister of foreign affairs: OPEN
+Minister of foreign affairs: [nation=short]free korealand[/nation]
 Minister of internal affairs: [nation=short]Lunaka[/nation]
 Minister of recruiting: OPEN
 _____________________________________[/color][color=blue]
-[u]News:[/u] 1) Government positions are open to anyone. 
-If you would like to join the government, telegram the president.
-2) Join the red army today! 
+[u]News:[/u] We are now at war with the GGR.
 [/color][color=red]_____________________________________
 [u][url=http://www.nationstates.net/nation=the_united_slavic_tsardom/detail=factbook/id=125998]RED ARMY[/url] | [url=http://www.youtube.com/watch?v=PBxlmzgOo2g]ANTHEM[/url] | [url=http://www.youtube.com/watch?v=ABby6nGIeHM]UCR BATTLE HYMN[/url]
 
 [/color][/u]
 
-[b][color=gold]MEMBER OF [region]the New Allied Powers[/region]![/b][/color]
+[b][color=red]MEMBER OF [region]the New Allied Powers[/region], AND [region]The united peoples army[/region]![/b][/color]

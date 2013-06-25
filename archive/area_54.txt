@@ -4,7 +4,9 @@
 
 [b]JOIN THE OFFICIAL FORUM:[/b] [url=http://w11.zetaboards.com/AREA_54/]REGIONAL FORUM BOARD[/url]
 
-[b] POPULATION: [/b] 1,448,000,000 (source: KYSB, OSTATCOM)
+[*][b]THE GENERALISSMUS OF AREA 54: [/b] [B][URL=http://www.nationstates.net/nation=kara-yuktobania]THE PARTISAN-LED STATE OF KARA-YUKTOBANIA[/URL][/B]
+
+[*][b] POPULATION:[/b] 1,485,000,000 (source: KYSB, OSTATCOM)
 
 [b]AREA 54 REGIONAL DEFENSE STATUS:[/b] LEVEL [color=GREEN][B]4[/B][/color]
 
@@ -15,4 +17,4 @@
 []            A54DEF 5	FADE OUT (BLUE)
 
 [B]AREA 54 REGIONAL TOTAL ACTIVE AND RESERVED MILITARY PERSONNEL:
-[/B] [B]90,619,495[/B]
+[/B] [color=red][B]95,903,770[/B][/color]

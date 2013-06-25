@@ -2,10 +2,9 @@
 [hr][b][url=http://w11.zetaboards.com/Imperial_Guard_Forum/index/][color=000080]Forum[/color][/url]  [/b]l[b]  [url=http://www.broomdces.com/nseconomy/regions.php?region=The%20Imperial%20Guard][color=000080]Economy[/color][/url]  [/b]l[b]  [url=http://w11.zetaboards.com/Imperial_Guard_Forum/topic/7980368/1][color=000080]Map[/color][/url]  [/b]l[b]  [url=https://docs.google.com/document/d/1u6Zkfurx0ViFj0ytgwZXvYlTGSk2npKQjRe1_BVlViI/edit][color=000080]Order[/color][/url]  [/b]l[b]  [url=https://docs.google.com/spreadsheet/viewform?formkey=dG14V0dBT0xlSmtUWWViQXhLVDljbVE6MQ#gid=0][color=000080]Citizenship[/color][/url][/b]
 [hr][color=000080][b]Imperial Government[/b][/color]
 
-[color=Black][b]Imperial Emperor:[/b] ......N/A
-[b]Prime Minister:[/b] ...........N/A
-[b]Speaker:[/b] ....................N/A
-[b]Honorable Judge:[/b] ........N/A[/color]
+[color=Black][b]Imperial Emperor:[/b] ......[nation=short]Budisel[/nation]
+[b]Prime Minister:[/b] ...........[nation=short]Varnya[/nation]
+[b]Honorable Judge:[/b] ........[nation=short]Pannau[/nation][/color]
 
 Minister of Immigration and Customs: ....N/A
 Minister of Defense and Intelligence: .....N/A
@@ -15,5 +14,5 @@ Minister of Public Safety: ........................N/A
 Minister of Environment: ........................N/A
 Minister of Industry: ........................N/A [hr][color=000080][b]Imperial Information[/b][/color]
 
-[list][*]Imperial Emperor [nation=short]Budisel[/nation] has enacted an electoral purge. Every elected position will be available for this coming special election![/list]
+[list][*]The election results are in! The government has been reinstated![/list]
 [hr]
