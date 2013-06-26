@@ -2,11 +2,13 @@
 
 [color=red]Colonies:
 [region]The DFN Commonwealth[/region]
+[region]Region[/region]
 
 Staff:
 [nation]Bartholomew[/nation]
 [nation]Lieselotte[/nation]
-[nation]Arubato[/nation][/color]
+[nation]Arubato[/nation]
+[nation]Mikanada IV[/nation][/color]
 
 [color=navy]Click here to learn more about the order of jurisdiction of The JIC.[/color]
 
