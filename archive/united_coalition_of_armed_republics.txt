@@ -10,7 +10,7 @@ Minister of Business: [nation=Death Korps Of Krieg]
 Minister of Education: [nation=Kota land]
 Minister of Foreign Affairs: [nation=Intonisia]
 Minister of Internal Affairs: [nation=Doranos]
-Council Seat 1: [nation=New Chucklaslovokia]
+Council Seat 1: Vacant
 Council Seat 2: [nation=Ardoor]
 Council Seat 3: Vacant
 Council Seat 4: Vacant

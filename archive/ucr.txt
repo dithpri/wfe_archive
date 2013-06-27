@@ -6,7 +6,7 @@ Vice President: [nation=short]the united communist republic[/nation] - [i]please
 Minister of defense: OPEN
 Minister of foreign affairs: [nation=short]free korealand[/nation]
 Minister of internal affairs: [nation=short]Lunaka[/nation]
-Minister of recruiting: OPEN
+Minister of recruiting: [nation=short]Ronacria[/nation]
 _____________________________________[/color][color=blue]
 [u]News:[/u] Welcome, brothers, from the Republic of Nationstates!
 [/color][color=red]_____________________________________

@@ -1,3 +1,2 @@
-Estado pertencente a [region]Polska[/region].
-
-[b]Estado sob jurisdi&ccedil;&atilde;o de [nation]Lisander[/nation]![/b]
+Region of [b][region]Polska[/region][/b]
+Under Control of [b][nation]lisander[/nation][/b].

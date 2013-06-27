@@ -1,12 +1,14 @@
 Government positions
-Leader- [nation]the rocky desert[/nation]
-Vice leader-[nation]pengwina[/nation]
+Leader- [nation]pengwina[/nation]
+Vice leader-[nation]nicholus[/nation]
 Military general (highest defense force) - [nation=short]pengwina[/nation]
 Recruiter (person who recruited the most)- [nation=short]mercalaran[/nation]
-Keeper of Peace/Ambassador- [nation=short]the rocky desert[/nation]
+Best armed citizens- [nation=short]death to all clear people[/nation]
+Best industry- [nation=short]nicholus[/nation] 
+Most privatized- [nation=short]nicholus[/nation]
+Most cultured- [nation=short]pengwina[/nation]
 
 Veterans
-[nation]the rocky desert[/nation]
 [nation]nicholus[/nation]
 [nation]pengwina[/nation]
 

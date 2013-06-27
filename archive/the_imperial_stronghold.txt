@@ -9,7 +9,9 @@
 
 [color=darkgold][i]The Imperial Enforcer and Commander of the Grand Army of the Stronghold[/i][/color]: [nation=noflag]The Imperial Lands of Simpson[/nation]
 
-[color=darkgold][i]WA Delegate and Chief of Propaganda[/i][/color]: [nation=noflag]Eurygia[/nation]
+[color=darkgold][i]Chief of Propaganda[/i][/color]: [nation=noflag]Eurygia[/nation]
+
+[color=darkgold][i]WA Delegate[/i][/color]: [nation=noflag]Lancastrian[/nation]
 
 [hr]
 

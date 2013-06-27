@@ -4,6 +4,7 @@
 _______________________________________________________________________
 [b]Member regions:
 [region]Slavia[/region]
+[region]Nova Slavia[/region]
 [region]The Communist Region[/region]
 [region]The True Communist Region[/region]
 [region]The Cooperative Union[/region][/b]
