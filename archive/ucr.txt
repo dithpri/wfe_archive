@@ -1,12 +1,12 @@
 [b][color=gold][u].:WELCOME TO THE UNION OF COMMUNIST REPUBLICS:.[/u][/color][color=red][/b]
 
 [u]GOVERNMENT:[/u]
-President: [nation=short]the united slavic tsardom[/nation]
+President: [nation]the united slavic tsardom[/nation]
 Vice President: [nation=short]the united communist republic[/nation] - [i]please endorse[/i]
-Minister of defense: OPEN
-Minister of foreign affairs: [nation=short]free korealand[/nation]
-Minister of internal affairs: [nation=short]Lunaka[/nation]
-Minister of recruiting: [nation=short]Ronacria[/nation]
+Minister of defense: [nation]Omorov-Nier[/nation]
+Minister of foreign affairs: [nation]free korealand[/nation]
+Minister of internal affairs: [nation]Lunaka[/nation]
+Minister of recruiting: [nation]Ronacria[/nation]
 _____________________________________[/color][color=blue]
 [u]News:[/u] Welcome, brothers, from the Republic of Nationstates!
 [/color][color=red]_____________________________________
@@ -14,4 +14,6 @@ _____________________________________[/color][color=blue]
 
 [/color][/u]
 
-[b][color=red]MEMBER OF [region]the New Allied Powers[/region], AND [region]The united peoples army[/region]![/b][/color]
+[b][color=red]MEMBER OF [region]the New Allied Powers[/region], AND [region]The united peoples army[/region]!
+
+WORKERS OF THE WORLD, UNITE![/b][/color]
