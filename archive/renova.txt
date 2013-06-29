@@ -1,1 +1,12 @@
-Welcome to [nation=Renova] the first Socialist state of the region of [region=Orda].
+[color=red]Welcome to [nation=Renova]![/color] The first Socialist state of the region of [region=Orda] and [region=Epheron].
+[hr]
+[u]Governing Officials:[/u]
+Revolutionary President: Lin Lu
+Prime Minister: Sun Young Kim
+Defense Minister: Wei Pei
+Education Minister: Ho Sung Wang
+[hr]
+[u]Facts:[/u]
+Current Ruling Party: The National Liberation Front of Renova(NLFR)
+Diplomatic Status: Open to international embassy.
+Current Defcon: [color=green][5] Peaceful[/color]

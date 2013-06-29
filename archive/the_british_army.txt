@@ -7,7 +7,6 @@ Nations are required to telegram [nation=short]TBA Field Marshal[/nation] with t
 [u][b]High Command[/u][/b]
 Commander in Chief [nation=short]Brition[/nation]
 Field Marshal [nation=short]TBA Field Marshal[/nation]
-Major-General [nation=short]New Finnland[/nation]
 
 [b][u]News[/b][/u]
-[b][nation=short]Londovia[/nation] has been promoted to Major.[/b]
+[b][nation=short]New Finnland[/nation] has been demoted to Corporal as ordered by First Minister [nation=short]Londovia[/nation].[/b]

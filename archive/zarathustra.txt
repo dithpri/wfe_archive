@@ -8,6 +8,7 @@ Honored Vassals:
 
 [region]Hollenthon[/region]
 [region]Media[/region]
+[region]Nations for the Advancement of Science[/region]
 
 Conquered Subjects:
 
@@ -19,3 +20,4 @@ Conquered Subjects:
 [region]Hexic[/region]
 [region]Gihok[/region]
 [region]Sukaluq[/region]
+[region]Sinhala Lanka[/region]

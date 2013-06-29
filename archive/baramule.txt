@@ -1,11 +1,11 @@
-Europe: LMR20 AGR30: R150; NX AX; Sat
-Africa: GLD80 FRT50: R15; NI AIV; Sat
-Southeast Asia: FSH70 SPC70: R15; NIII AII; Sat
-North America: LMR70 AGR50: R50; NVII AVII; Sat
-Northwestern Europe: FSH60 FRS40 R30; NV AV; Sat
-East Asia: FSH50 AGR50: R15; NIII AIII; Sat
+Europe: LMR20 AGR30: R150; NX AX; +0 [20][30] 0
+Africa: GLD80 FRT50: R15; NI AIV; +0 [80][50] 0
+Southeast Asia: FSH70 SPC70: R15; NIII AII; +0 [70][70] 0
+North America: LMR70 AGR50: R50; NVII AVII; +0 [70][50] 0
+Northwestern Europe: FSH60 FRS40 R30; NV AV; +0 [60][40] 0
+East Asia: FSH50 AGR50: R15; NIII AIII; +0 [50][50] 0
 
-Middle East: SPC70 AGR60: R15; NI AIV; Sat
-South America: GLD70 DRG70: R15; NI AIII; Sat
+Middle East: SPC70 AGR60: R15; NI AIV; +0 [70][60] 0
+South America: GLD70 DRG70: R15; NI AIII; +0 [70][70] 0
 
-Celmarog: $67,000; 1,000; 100pp
+Celmarog: $68,000; 1,000; 100pp
