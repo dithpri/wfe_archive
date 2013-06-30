@@ -7,7 +7,7 @@ First Secretary : [nation=short]Moskvia Union[/nation]
 Minister of Justice: [nation=short]The Republic of Romania[/nation]
 Minister of Education: [nation=short]The Workers of Markonia[/nation]
 Supreme Commander of The People&amp;#39;s Red Army: [nation=short]Kalrathia[/nation]
-Head of Customs/Immigration: [nation=short]Moldovoska[/nation]
+Head of Customs/Immigration/Ideology: [nation=short]Slobozhanshchyna[/nation]
 Regional Affairs Officer: [nation=short]World Wide Soviets[/nation]
 
 [i]Join the New Red Army![/i] - Telegram [nation=short]Kalrathia[/nation]

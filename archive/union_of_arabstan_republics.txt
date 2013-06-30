@@ -4,7 +4,7 @@ General Secretary of UAR: [b][nation=krbustan][/b]
 \WA Delegate: [b][nation=krbustan][/b]
 \Secretary of Defense Council: [b][nation=krbustan][/b]
 \Secretary of Foreign Affairs Council: [b][nation=grbustan][/b]
-\Secretary of Economic Council: Vacant 
+\Secretary of Economic Council: [b][color=Red]Vacant[/color][/b]
 \Secretary of Cultural Council: [b][nation=Al Hashid][/b]
 \Speakar of UAR Parliament: [b][nation=cherqstan][/b]
 \ Member of UAR Parliament: [b][nation=krbustan][/b]

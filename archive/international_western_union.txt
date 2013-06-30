@@ -1,10 +1,10 @@
 [b][i][color=orange]IWU Regional Government:[/color][/i][/b]
-Counsels: [nation=short]Vizindolf[/nation] [nation=short]Rachara[/nation]
+Counsels: [nation=short]Vizindolf[/nation] [nation=short]Rachara[/nation] [nation=short]Abacathea[/nation]
 Justices: [nation=short]Fenburg[/nation] [nation=short]Kialga[/nation] [nation=short]Pharthan[/nation]
 Secretary of Recruitment: [nation=short]GROSS Independency[/nation] 
 WA Vice-Delegate: [nation=short]Abacathea[/nation]
-Intelligence Group: [nation=short][/nation] (Head), [nation=short][/nation], [nation=short]Neo-Assyrian Empire[/nation], and [nation=short]Iloistan[/nation] [i]Two Needed, Postponed[/i]
-Official Chairman: [nation=short]Kialga[/nation] [b]AWAITING[/b]
+Intelligence Group: [nation=short]Neo-Assyrian Empire[/nation] and [nation=short]Iloistan[/nation]
+Official Chairman: [nation=short]Kialga[/nation]
 [i]Ambassadorial Committee:[/i] [nation=short]Jhinara[/nation] (Head) &amp;amp; [nation=short]Mastana[/nation] [[nation=short]IWU Ambassador[/nation] &amp;amp; [nation=short]IWU Ambassador II[/nation]]
 
 [i]Regional Congress~See Website[/i]

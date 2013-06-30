@@ -6,15 +6,17 @@
 
 [*][b]THE GENERALISSMUS OF AREA 54: [/b] [B][URL=http://www.nationstates.net/nation=kara-yuktobania]THE PARTISAN-LED STATE OF KARA-YUKTOBANIA[/URL][/B]
 
-[*][b] POPULATION:[/b] 1,485,000,000 (source: KYSB, OSTATCOM)
+[*][b] POPULATION:[/b] 1,547,000,000 (source: KYSB, OSTATCOM)
 
-[b]AREA 54 REGIONAL DEFENSE STATUS:[/b] LEVEL [color=GREEN][B]4[/B][/color]
+[b]AREA 54 REGIONAL DEFENSE STATUS:[/b] LEVEL [color=gold][B]3[/B][/color]
 
 []            A54DEF 1	COCKED PISTOL (WHITE)
 []            A54DEF 2	FAST PACE (RED)
-[]            A54DEF 3	ROUND HOUSE (YELLOW)
-[x]            A54DEF 4       DOUBLE TAKE (GREEN)
+[x]            A54DEF 3	ROUND HOUSE (YELLOW)
+[]            A54DEF 4       DOUBLE TAKE (GREEN)
 []            A54DEF 5	FADE OUT (BLUE)
 
 [B]AREA 54 REGIONAL TOTAL ACTIVE AND RESERVED MILITARY PERSONNEL:
-[/B] [color=red][B]95,903,770[/B][/color]
+[/B] [color=red][B]97,428,550[/B][/color]
+
+[b] SOLDIER-TO-CIVILIAN RATIO: [color=red]1:15 [/b][/color]
