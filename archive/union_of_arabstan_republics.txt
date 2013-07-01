@@ -5,11 +5,11 @@ General Secretary of UAR: [b][nation=krbustan][/b]
 \Secretary of Defense Council: [b][nation=krbustan][/b]
 \Secretary of Foreign Affairs Council: [b][nation=grbustan][/b]
 \Secretary of Economic Council: [b][color=Red]Vacant[/color][/b]
-\Secretary of Cultural Council: [b][nation=Al Hashid][/b]
+\Secretary of Cultural Council: [b][color=Red]Vacant[/color][/b]
 \Speakar of UAR Parliament: [b][nation=cherqstan][/b]
 \ Member of UAR Parliament: [b][nation=krbustan][/b]
 \ Member of UAR Parliament: [b][nation=grbustan][/b]
-\ Member of UAR Parliament: [b][nation=Al Hashid][/b]
+\ Member of UAR Parliament: [b][nation=Central Tokyo][/b]
 \ Member of UAR Parliament: [b][nation=Empire of Thorusn][/b]
 
 [b]* Arabstan News[/b]: formed the first government.

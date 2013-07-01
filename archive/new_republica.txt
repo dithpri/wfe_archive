@@ -3,17 +3,16 @@
 
 Regional Government:
 
-President: [nation=short+noflag]Dardoillyria[/nation]
- Vice President: [nation=short+noflag]Flattnerk[/nation]
+President: [nation=short+noflag]The Anean Tribes[/nation]
+ Vice President: [nation=short+noflag]none[/nation]
  Secretary of state: [nation=short+noflag]Beta Test[/nation]
- Secretary of communications:
- Secretary of Defense: [nation=short+noflag]The Republic of Vapaus[/nation]
+ Secretary of Defense: [nation=short+noflag]The United Remnants of America[/nation]
 [/color]
 
 [color=blue]The Senate:
  President Pro Tempore of the Senate: [nation=short+noflag]the anean tribes[/nation]
  Senator: [nation=short+noflag]Dantooine[/nation] 
- Senator: [nation=short+noflag]the republic Rome[/nation][/color]
+ Senator: [nation=short+noflag]Patridam[/nation][/color]
 
 [color=blue]Judicial Branch
  Supreme Judge: [nation=short+noflag]claflin[/nation]

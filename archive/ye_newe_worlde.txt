@@ -1,7 +1,7 @@
 Welcometh to Ye Newe Worlde!  A place where the olde rennisance cometh back to life in this lordly newe worlde!
 
-King -- Ye Olde Natione
-Prince -- _____
+King -- [nation]Ye Olde Natione[/nation]
+Prince -- [nation]Ye Olde Kingdom[/nation]
 Lord -- _____
 Lord high constable -- _____
 High counsel -- _____
