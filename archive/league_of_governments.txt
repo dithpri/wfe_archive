@@ -13,7 +13,7 @@
 [b][color=green][u]Governmental Offices[/u][/b][/color]
 [b][color=green]Supreme Cancellarus-[/b][nation]Britanno[/nation][/color]
 [b][color=green]Vice Cancellarus-[/b] [nation]Librira[/nation][/color]
-[b][color=green]Judge-[/b] Open
+[b][color=green]Judge-[/b] [nation]Librira[/nation]
 [b]Prosecutor-[/b] Open
-[b]Defence-[/b] Open
+[b]Defence-[/b] [nation]Raziz[/nation]
 [b]Peacekeeper-[/b] [nation]Rhodevus[/nation][/color]

@@ -1,11 +1,10 @@
 [u] [b]GOVERNMENT:[/b] [/u]
-[b]PRESIDENT:[/b] OPEN
+[b]PRESIDENT:[/b] [nation]Al safi[/nation]
 [b]VICE PRESIDENT:[/b] [nation]Real Syria[/nation]
 [b]MINISTER OF DEFENSE:[/b] [nation]United arab emirates-kyrgyzstan[/nation]
 [b]FOREIGN ADMINISTER:[/b] [nation]Ashwar[/nation]
 
-[b] [color=red]PLEASE ENDORSE REAL SYRIA![/color] [/b]
-
+[b] [color=red]EVACUATE TO[/color] [/b]   [region]the UAR[/region]
 ----------------------------------------------------------------------------------------------------------
 The UAR is a union dedicated to pan-arabism and socialist democracy. all nations are equal and are welcomed government positions or land on the map.
 ----------------------------------------------------------------------------------------------------------

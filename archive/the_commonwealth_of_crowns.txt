@@ -16,6 +16,7 @@ Speaker: [nation=short]Noorderkwartier[/nation]
 [b]Cabinet:[/b]
 Minister(Interior Affairs):[nation]Eastland Duchies[/nation]
 Minister(Foreign Affairs):[nation=short]Velykyy Ukraina[/nation]
+Minister(Finance):[nation]GuatemalaCity[/nation]
 
 [b]Secretariates[/b]
 Justice: [nation]Aquenetta[/nation]

@@ -15,14 +15,15 @@ Economy: 55th
 Manufacturing: 18th
 Publishing: 23rd
 Arms: 18th
-Beverage: [color=yellow]9th[/color]
+Beverage: [color=yellow][b]9th[/color][/b]
 Mining: 22nd
 Agriculture: 13th
 Fishing: 12th
-Auto: [color=yellow]9th[/color]
+Auto: [color=yellow][b]9th[/b][/color]
 Insurance: 11th
 Gambling: 16th
 IT: 20th
+Basket Weaving: [b][color=yellow]9th[/b][/color]
 Timber: 14th
 
 [u][I][b][color=green]#1 in World[/color][/b][/I][/u]

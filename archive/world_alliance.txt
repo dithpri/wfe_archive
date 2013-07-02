@@ -10,9 +10,9 @@
 
 [b][color=lightgray]President[/color][/b] : [nation]New-Zealand[/nation]
 
-[b][color=lightgray]Members[/color][/b] : [color=green][nation=short]Newasia[/nation], [nation=short]Novo Canuckia[/nation], [nation=short]Kulon Bangsa[/nation],
+[b][color=lightgray]Members[/color][/b] : [color=green][nation=short]Ivania[/nation], [nation=short]Yellasia[/nation], [nation=short]Dromoda[/nation], 
 
-[nation]Dromoda[/nation], [nation=short]Marquette of Pacific[/nation]
+[nation=short]Shirouma[/nation], [nation]Stati Uniti d Europa[/nation]
 
 [/color]
 
