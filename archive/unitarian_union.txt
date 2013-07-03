@@ -2,13 +2,14 @@ The Unitarian Union is based around the currency called the Unitaria. The Unitar
  [b]Government[/b]
 President: [nation]Sengrial[/nation]
 Vice-President: [nation]Pasovo-nacoBo[/nation]
-Secretary of Banking: [nation]Brick country[/nation]
-Secretary of Finance: [nation]Lopehi[/nation]
-Secretary of State: [nation]Asuiop[/nation]
+SOB: [nation]Brick country[/nation]
+SOB: [nation]Lopehi[/nation]
+SOS: [nation]Asuiop[/nation]
+SRC: [nation]Flaskjinia[/nation]
 [b]Members[/b]
 [nation]Julii-Nall[/nation]
 [nation]Retarika[/nation] S.R.S.
-[nation]Flaskjinia[/nation]
+
 [nation]Relics[/nation]
 [nation]The New Greek Republic[/nation]
 [b]Off-Site Forum:[/b]

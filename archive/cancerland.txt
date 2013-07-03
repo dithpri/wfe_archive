@@ -1,16 +1,12 @@
-Esta tierra se caracteriza por una confrontacion entre paises socialistas y capitalistas, y ademas por la particularidad de que sus habitantes tienen cancer. 
+Esta tierra se caracteriza por una confrontacion entre paises socialistas y capitalistas, y ademas por la particularidad de que sus habitantes tienen cancer. La aparici&oacute;n de un nuevo y misterioso pa&iacute;s es acompa&ntilde;ada por la discordia y divisi&oacute;n en las alianzas tradicionales... y la creaci&oacute;n de otras nuevas.
 
 Poderes Centrales:
 [nation]Mioland[/nation]
 [nation]Yrgksvol[/nation]
-[nation]Non-sosializ[/nation]
 [nation]Fedeland[/nation]
-Uni&oacute;n de Paises socialistas:
-[nation]Tribuzz1[/nation]
+A.C.S.B.I.M:
 [nation]Ito[/nation]
 [nation]Lucky Lucciano[/nation]
-No alineados:
-[nation]Cancerland[/nation]
-[nation]Emanuelista[/nation]
-[nation]Sionist_Israel[/nation] (o... con propositos secretos)
-[url=www.broomdces.com/nseconomy/regions.php?region=Cancerland]Calculador Econ&oacute;mico[/url]
+Comunidad de Naciones de Tribuzz
+[nation]Non-sosializ[/nation]
+[nation]Tribuzz1[/nation]

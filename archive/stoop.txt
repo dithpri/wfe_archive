@@ -1,7 +1,7 @@
 The Stoop is safe haven for all whom seek it.
 
-President &#150; Roger
-Vice President &#150; John
+President &#150; John
+Vice President &#150; Roger
 Speaker of the House &#150; Kayla
 Senator Pro Tempore &#150; Lhanna
 
@@ -17,3 +17,4 @@ Presidents of the Stoop region
 8. John
 9. Lhanna
 10. Roger
+11. John
