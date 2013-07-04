@@ -17,9 +17,11 @@ Speaker: [nation=short]Noorderkwartier[/nation]
 Minister(Interior Affairs):[nation]Eastland Duchies[/nation]
 Minister(Foreign Affairs):[nation=short]Velykyy Ukraina[/nation]
 Minister(Finance):[nation]GuatemalaCity[/nation]
+Minister(Culture):[nation]Alkoul[/nation]
 
 [b]Secretariates[/b]
 Justice: [nation]Aquenetta[/nation]
+Immigration:[nation]Besate[/nation]
 
 [hr]
 Maps: [nation=short]The Quadruple Alliance[/nation][hr]

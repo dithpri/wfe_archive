@@ -1,5 +1,6 @@
-[color=blue][b]Greater Healand[/b][/color]
-[color=c0c0c0]&laquo; 16 &raquo;[/color]
-[color=006600]REGION
-OP.: &laquo;: [region=Weirdonia] : Greater Healand : [region=The American National Socialist Party] :&raquo;
-AO.: &laquo;: [region=Great British Empire] : Greater Healand : [region=Greek Region] :&raquo;[/color]
+[color=3c3b6e][b]Greater Healand[/b][/color]
+[color=e3ded4]&laquo; 16 &raquo;[/color]
+[color=9b1c2c]REGION[/color][color=009900]
+[b]OP.:[/b] &laquo;: [region=Weirdonia] : Greater Healand : [region=The American National Socialist Party] :&raquo;
+[b]AO.:[/b] &laquo;: [region=Great British Empire] : Greater Healand : [region=Greek Region] :&raquo;[/color]
+[color=006600]This is a [region=United States of America] region[/color]

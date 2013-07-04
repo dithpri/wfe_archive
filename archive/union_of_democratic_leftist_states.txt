@@ -4,7 +4,7 @@
 [hr][color=gold][b]Government[/b][/color]
 [color=gold][i]Regional[/i][/color]
 acting President: [nation=short]Azerzia[/nation]
-World Assembly Delegate: [nation=short]Prussian state Union[/nation]
+acting World Assembly Delegate: [nation=short]Kennedystan[/nation]
 [color=gold][i]Realmic[/i][/color]
 Governor of the Vineyard: [nation=short]Kennedystan[/nation]
 Governor of Libera Terras: [nation=short]Ellorn[/nation]

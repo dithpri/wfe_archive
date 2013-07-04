@@ -1,16 +1,1 @@
-[b][color=red]The [region]Hafen[/region] (Translation: Harbor) is the military base of the Kriegsmarine of The [region]Reich[/region].[/color]
-
-Chef der Wehrmacht:
-[nation=short]Deutches Reich[/nation]
-
-Kommandant:
-[nation=short]The Greater Imperial Japan[/nation]
-
-Truppen:
-[nation=short]Die Volkes Lebensraum[/nation][/b]
-
-[i]All civillians move to the [region]Reich[/region], or risk ejection.[/i]
-
-[color=blue][i]Only active WA personal and military puppets are permitted access to reside in this region.[/i][/color]
-
-[b][u]HEIL![/u][/b]
+This was previously [region=Reich]-held territory. Now [b][region=The Red Fleet][/b] comes to port here.
