@@ -4,7 +4,7 @@ The Reichskanzlei is a refuge for displaced citizens of [region]Reich[/region].
 
 [b]Current Government Officials:[/b]
 Reichsfuhrer and Reichsdelegate: [nation]The National-Socialist Romanian Republic[/nation]
-Minister of Propaganda: [nation]The Misotheist Union[/nation]
+Minister of Propaganda: [nation]The Misotheist Reich[/nation]
 Minister of War: [nation]Tiberium the Last Reich[/nation]
 Minister of Intelligence: [nation]Benetta[/nation]
 Minister of Foreign Affairs: [i]vacant[/i]

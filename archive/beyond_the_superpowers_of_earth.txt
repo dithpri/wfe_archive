@@ -2,14 +2,18 @@ Executive branch
 President:[nation]Haemo[/nation]
 Vice President:[nation]Southern Ageena[/nation]
 Minister of Foreign Affairs:[nation]Jultopia[/nation]
-Minister of Defence:[nation]MoorVanguard[/nation]
+Minister of Home Affairs:[nation]MoorVanguard[/nation]
+Minister of Defence:[nation]Bubia[/nation]
+First Lord of the Treasury :[nation]Hrathgar Glacier[/nation]
 
-Legislative branch
+Legislative branch ELECTIONS PENDING
 Head Senator: [nation]Delta Zero[/nation]
 Senators:
 [nation]chisa[/nation]
 [nation]tirada[/nation]
 
+Honorary Ambassadors to BtSoE:
+Ambassador from the Swiss Armed Alliance: Nation X
 Founding Fathers: http://www.nationstates.net/nation=jultopia/detail=factbook/id=main
 Constitution: bse.wikia.com/wiki/Constitution_of_BS_of_E
 Wiki: bse.wikia.com

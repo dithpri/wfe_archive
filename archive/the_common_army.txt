@@ -8,4 +8,5 @@ _______________________________________________________________________
 [region]The Communist Region[/region]
 [region]The True Communist Region[/region]
 [region]The Cooperative Union[/region]
-[region]The Communist Coalition[/region][/b]
+[region]The Communist Coalition[/region]
+[region]UCR[/region][/b]

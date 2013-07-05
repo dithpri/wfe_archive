@@ -1,9 +1,8 @@
 [color=gold][b]Welcome to the Greater Allied Union (GAU)![/b][/color] 
 [color=red]Founding Regional Members are:[/color]
-  [color=blue][b]-Gallifrax[/b][/color]
-  [color=blue][b]-Ophiliansa[/b][/color]
-  [color=blue][b]-Tamus[/b][/color]
-
+  [color=blue][b]-[nation]Gallifrax[/nation][/b][/color]
+  [color=blue][b]-[nation]Ophiliansa[/nation][/b][/color]
+  [color=blue][b]-[nation]Shadvale[/nation][/b][/color]
 AS OF 7/1/2013- (Regional Cooperation- &amp;quot;GAU Currency Agreement&amp;quot;)
     All New Nations who enter the GAU MUST comply with Regional laws and make their currency the GAU Credit
-
+   EXCEPTION: Shadvale may have its currency set to &amp;quot;GAU Creditfish&amp;quot;. Same basic currency, just a fish.
