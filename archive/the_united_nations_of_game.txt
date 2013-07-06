@@ -8,7 +8,7 @@ Secretary of War: Vacant
 Secretary of State: Vacant
 Secretary of Finance: Vacant
 [Color=blue]Senate:[/color]
-Senator: Vacant
+Senator: [nation]The Greenhouse[/nation]
 Senator: Vacant
 Senator: Vacant
 Senator: Vacant

@@ -1,9 +1,12 @@
-[color=000064][b]Pangara[/b]
-[list]Banda District, Burkina Faso[/list][/color]
-[color=320064][b]Note:[/b][list]&#149; Only nations that have received a 5% of the world crest, and none better are allowed in this region.
-&#149; Those that receive a 1% world crest will move to [region=Ionia] instead.
-&#149; Those that have not received a 1% or 5% crest, but have received at least one 10% crest will move to [region=New Delian League].
-&#149; Those that have received no crest at all, will move to [region=Weirdonia][list]&#149; this includes new nations that have not been counted yet
-&#149; this region is the source for new founders[/list]
-Hope this explains these four puppet regions.[/list][/color]
-[color=800000][b]Sorry - this region is has a Password[/b][/color]
+[color=333399][b]Pangara[/b]
+[list]Banda District, Burkina Faso[/color]
+[color=339933][b]Associated Regions:[/b]
+&#149; 1. [region=Ionia]
+&#149; 2. [region=Olds]
+&#149; 3. [b]Pangara[/b]
+&#149; 4. [region=New Delian League]
+&#149; 5. [region=The Peoples Pacific]
+These are my sorting regions, and they are passworded as a result.
+&#149; All these regions are Affiliated with [region=United States of America], one of my longest held regions.
+Previous associations with other regions have been de-emphasized over time.[/list][/color][color=993333]
+THIS REGION HAS A PASSWORD, SORRY[/color]

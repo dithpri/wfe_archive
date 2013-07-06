@@ -1,10 +1,9 @@
-
 Welcome to the free lands of Das Imperium! Endorse the [b][color=Gold]Imperial Regent[/color].[/b]
 
 [hr]
-[b][color=Gold]Imperial Regent[/color] = [nation]Virtus Dinami[/nation][/b]
+[b][color=Gold]Imperial Regent[/color] = [nation]Vacant[/nation][/b]
 
-[color=teal]Imperial Marshal [/color] = [nation]Doppio Giudici[/nation]
+[color=teal]Imperial Marshal [/color] = [nation]Vacant[/nation]
 [color=teal]Imperial Senator[/color] = [nation] NONE [/nation]
 [color=teal]Imperial Chancellor[/color] = [nation]NONE[/nation]
 [color=teal]Imperial Steward[/color]= [nation]NONE[/nation]
