@@ -9,6 +9,6 @@ Minister of War: [nation]Tiberium the Last Reich[/nation]
 Minister of Intelligence: [nation]Benetta[/nation]
 Minister of Foreign Affairs: [i]vacant[/i]
 
-[b]Endorse Reichsdelegate The National-Socialist Romanian Republic immediately.[/b]
+[b]Endorse Reichsdelegate [nation=short+noflag]The National-Socialist Romanian Republic[/nation] immediately.[/b]
 
 [b]SIEG HEIL![/b]

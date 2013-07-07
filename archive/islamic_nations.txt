@@ -5,7 +5,7 @@ This region is for [b]EVERYONE[/b]!
 Islam is a religion of Peace
 [i]SALAM[/i]
 
-Welcoming new nation: [nation]The Holy servant of Allah[/nation]
+
 
 Prime Minister: [nation]Islamic Singapura[/nation]
 President: [nation]Mishalle[/nation]
@@ -13,7 +13,7 @@ Vice President: [nation]Malay East[/nation]
 
 Minister of Defence:OPEN
 Minister of Religious Affairs:OPEN
-Minister of Judicial Affairs:OPEN
+Minister of Judicial Affairs: [nation]Kaytiso[/nation]
 Minister of Foreign Affairs:OPEN
 
 Capital City:South Nickcouver,[nation]Mishalle[/nation]

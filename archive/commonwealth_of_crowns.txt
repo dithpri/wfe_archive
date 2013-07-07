@@ -1,6 +1,6 @@
 [u][b]TERRITORY OF [region]THE COMMONWEALTH OF CROWNS[/region][/u][/b]
 
-Please move to  [region]The Commonwealth of Crowns[/region].[hr]
+[hr]
 
 [u]THE CROWNS EMPIRE[/u]
 
@@ -29,3 +29,5 @@ xxi)[region]The Global Alliance[/region]
 xxii)[region]Grand Union[/region]
 xxiii)[region]The Phantom Knights[/region]
 xxiv)[region]The United forces of Darkness[/region]
+xxv)[region]Greek Empire[/region]
+xxvi)[region]Blackreach[/region]

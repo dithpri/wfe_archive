@@ -11,7 +11,8 @@ Welcome to The United Federation of Free Nations! We are a region dedicated for 
 [hr]
 [b]Executive Branch[/b]
 
-[b]Federation President :[/b] [nation]Lonbonia[/nation], [color=red]Vacant[/color], [color=red]Vacant[/color]
+[b]Council of Presidents :[/b] Supreme President [nation]Lonbonia[/nation]
+ [color=red]Vacant[/color], [color=red]Vacant[/color]
 
 [b]Elector of the Council: [/b] [color=red]Vacant[/color]
 [hr]
@@ -20,7 +21,7 @@ Welcome to The United Federation of Free Nations! We are a region dedicated for 
 
 [b]The Federation Congress[/b]
 
-Federation Council(FP2)(LON)(AB)(CI)(PY)(FL)
+Federation Council(FP2)(LON)(ABS)(FRE)(CI)(PY)(FL)
 
 
 [hr]

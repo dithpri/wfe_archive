@@ -1,17 +1,1 @@
-[b][i]Arche Seleukeia[/i][/b], the Hellenistic empire centered in Babylonia and Syria.
-
-[b]Eastern Satrapies[/b] 
-[region]Bactria[/region] 
-[region]Sogdiana[/region]
-[region]Arachosia[/region]
-
-[b]Renegade Province[/b]
-[region]Gaugamela[/region]
-
-[b]Royal Cities[/b] 
-[region]Seleucia[/region]
-[region]Babylon the Great[/region]
-
-[b]Caravan Cities[/b] 
-[region]Apamea[/region] 
-[region]Laodicea[/region]
+[b][i]Arche Seleukeia[/i][/b], the Hellenistic kingdom centered in Babylonia and Syria.
