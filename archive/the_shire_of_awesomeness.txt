@@ -1,20 +1,21 @@
-a paradise... if you play your cards right
+regional slogan
+[b]a paradise... if you play your cards right[/b]
 
-President: The Distopia of Panem
+President: [nation]Beep boop bop[/nation]
 
-Vice President: Spartnia  
+Vice President: [nation]Spartnia[/nation]  
 
-Secretary of Recruitment: Conservative USA
+Secretary of Recruitment: needs to be filled
 
-Head Ambassador: Civitatum Foederatarum
+Head Ambassador: [nation]Civitatum Foederatarum[/nation]
 
-Speaker of the People/Senate: Lanaidia
+Speaker of the People/Senate: [nation]Midwestren America[/nation]
 
 
 Senate:
 
-Vacant:
-Vacant:
-Vacant:
-Vacant:
+[nation]Distopia of Panem[/nation]
+[nation]Fontes iuris Germanici antiqu[/nation]
+[nation]Republica heaven[/nation]
+[nation]Vulcania[/nation]
 Vacant:
