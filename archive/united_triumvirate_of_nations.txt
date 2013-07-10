@@ -1,0 +1,32 @@
+[b]Welcome to the United Triumvirate of Nations[/b]
+
+[url=http://s3.excoboard.com/unt]Forum Under Construction[/url]
+
+[b][u]Triumvirate[/u][/b]
+
+High Chancellor: [nation=short]Partirius[/nation]
+Grand Councillor: [nation=short]Alestadt[/nation]
+Chief Justice: [nation=short]ThatOtherCountry[/nation]
+
+[u][b]Chancellory[/b][/u]
+
+High Chancellor: [nation=short]Partirius[/nation]
+Department of State: [color=red]Vacant[/color]
+Department of the Interior: [color=red]Vacant[/color]
+Department of Defense: [color=red]Vacant[/color]
+Department of the Treasury: [color=red]Vacant[/color]
+
+[u][b]Senate[/b][/u]
+
+Grand Councillor: [nation=short]Alestadt[/nation]
+Senator: [color=red]Vacant[/color]
+Senator: [color=red]Vacant[/color]
+Senator: [color=red]Vacant[/color]
+Senator: [color=red]Vacant[/color]
+Senator: [color=red]Vacant[/color]
+
+[b][u]Supreme Court[/u][/b]
+
+Chief Justice: [nation=short]ThatOtherCountry[/nation]
+Justice: [color=red]Vacant[/color]
+Justice: [color=red]Vacant[/color]

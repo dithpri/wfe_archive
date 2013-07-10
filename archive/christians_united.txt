@@ -15,4 +15,6 @@ President:[/b] [nation=short]Shelstein[/nation]
 [*][color=orange]ORANGE[/color] - Threatened
 [*][color=red]RED[/color] - Invasion/Lockdown
 [/list]
-[b]Current Level:[/b] [color=yellow]Yellow[/color][hr][b][u][color=blue]News[/b][/u][/color]
+[b]Current Level:[/b] [color=Green]Green[/color][hr][b][u][color=blue]News[/b][/u][/color]
+
+[b]Sign-Ups for the August 2013 election cycle are currently up on the forums![/b]
