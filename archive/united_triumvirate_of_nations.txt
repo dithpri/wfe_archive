@@ -1,6 +1,7 @@
-[b]Welcome to the United Triumvirate of Nations[/b]
+[b]Welcome to the United Triumvirate of Nations![/b]
 
-[url=http://s3.excoboard.com/unt]Forum Under Construction[/url]
+[url=https://docs.google.com/document/d/1-sDhLuUg_kOw8fcOw-gxe_YRsQ35gZiUS1Gkrpgas3o/edit?usp=sharing]Provisional Charter of the United Triumvirate[/url]
+[url=http://w11.zetaboards.com/United_Triumvirate/index/]Forum Under Construction[/url]
 
 [b][u]Triumvirate[/u][/b]
 
@@ -11,17 +12,14 @@ Chief Justice: [nation=short]ThatOtherCountry[/nation]
 [u][b]Chancellory[/b][/u]
 
 High Chancellor: [nation=short]Partirius[/nation]
-Department of State: [color=red]Vacant[/color]
-Department of the Interior: [color=red]Vacant[/color]
-Department of Defense: [color=red]Vacant[/color]
-Department of the Treasury: [color=red]Vacant[/color]
+Secretary of State: [color=red]Vacant[/color]
+Secretary of the Interior: [color=red]Vacant[/color]
+Secretary of Defense: [color=red]Vacant[/color]
+Secretary of the Treasury: [color=red]Vacant[/color]
 
 [u][b]Senate[/b][/u]
 
 Grand Councillor: [nation=short]Alestadt[/nation]
-Senator: [color=red]Vacant[/color]
-Senator: [color=red]Vacant[/color]
-Senator: [color=red]Vacant[/color]
 Senator: [color=red]Vacant[/color]
 Senator: [color=red]Vacant[/color]
 
@@ -30,3 +28,9 @@ Senator: [color=red]Vacant[/color]
 Chief Justice: [nation=short]ThatOtherCountry[/nation]
 Justice: [color=red]Vacant[/color]
 Justice: [color=red]Vacant[/color]
+
+[u][b]World Assembly Delegation[/b][/u]
+
+WA Delegate: [color=red]Vacant[/color]
+
+[b]Next Election:[/b] [b][color=red]TBA[/color][/b]

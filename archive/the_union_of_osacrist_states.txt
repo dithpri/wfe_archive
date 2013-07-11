@@ -5,6 +5,6 @@ Minister of Defense: [nation]SSO[/nation]
 Minister of Foreign Affairs: [nation]The Western States Of Osacracy[/nation]
 Minister of Law: [nation]West Czech[/nation]
 Minister of Intelligence: [nation]HaBbein[/nation]
-Minister of Economics: [nation]The Zambola Federation[/nation]
+Minister of Elections: [nation]The Zambola Federation[/nation]
 
 [url=http://osacristnations.forumotion.com]Visit and join our forum![/url]

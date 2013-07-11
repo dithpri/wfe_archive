@@ -1,10 +1,18 @@
-[b][color=orange]Dar as-Salaam[/color][/b], or, [i][color=orange]the Abode of Peace[/color][/i], is a peaceful region where compassion and mercy are valued the most.
+[b][color=orange]Dar as-Salaam[/color][/b], or, [i][color=orange]the Abode of Peace[/color][/i], is a peaceful Region where compassion and mercy are valued the most.
 
-[b]Founding States[/b]
+[b][color=orange]Dar as-Salaam[/color][/b], o, [i][color=orange]la Morada de la Paz[/color][/i], es una Regi&oacute;n pac&iacute;fica donde la compasi&oacute;n y la misericordia son lo m&aacute;s valorado.
+[b]______________________________________________[/b]
 
-[nation]Nuevo Meshiko[/nation]
-[nation]Rosenblau[/nation]
+[b]Founding States (Estados fundadores)[/b]
 
-[b]Member States[/b]
+[nation]Nuevo Meshiko[/nation] [i](El Sultanato de Nuevo Meshiko)[/i]
+[nation]Rosenblau[/nation] [i](La Confederaci&oacute;n de Rosenblau)[/i]
 
-[nation]Lyaseriene[/nation]
+[b]Member States (Estados miembros)[/b]
+
+[nation]Lyaseriene[/nation] [i](El Emirato de Lyaseriene)[/i]
+[b]______________________________________________[/b]
+
+[b]Allied Regions (Regiones aliadas)[/b]
+
+[region]International Union of Workers States[/region] [i](Estados de la Uni&oacute;n Internacional de Trabajadores)[/i]

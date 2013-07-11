@@ -3,12 +3,14 @@
 This is the Official Army of the [region]Next Generation Alliance[/region].
 
 [u][b]&amp;gt;&amp;gt;Government&amp;lt;&amp;lt;[/b][/u]
-[b][color=blue]Leader:[/color][/b] [nation]The Silver Bloods[/nation]
-[b][color=blue]Commander:[/color][/b] ( none )
-[b][color=blue]Generals:[/color][/b] ( none )
-[b][color=blue]Colonels:[/color][/b] ( none )
+[b][color=red]Leader:[/color][/b] [nation]The Silver Bloods[/nation] ([color=red][b]R[/b][/color])
+[b][color=black]Commander:[/color][/b] ( none )
+[b][color=black]Generals:[/color][/b] ( none )
+[b][color=purple]Colonels:[/color][/b] [nation]The Droid Revolution[/nation] ([color=purple][b]I[/b][/color])
 
 [u][b]&amp;gt;&amp;gt;Captures&amp;lt;&amp;lt;[/b][/u]
-Amount:2
-[region]The Pacific Northwest[/region]
+Amount:1
 [region]The Republican Empire of Duellum[/region]
+
+[u][b]&amp;gt;&amp;gt;News&amp;lt;&amp;lt;[/b][/u]
+[color=purple]Independent Party Representative,[/color] [nation]The Droid Revolution[/nation], becomes first Colonel.

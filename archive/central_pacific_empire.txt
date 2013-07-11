@@ -6,7 +6,7 @@ Prime Minister: [nation]Latin and Central America[/nation]
 
 Minister for Interior Affairs and Citizenship: [nation]Cyrahzia[/nation]
 Minister for Foreign Affairs: [nation]Aanon Bay[/nation]
-Minister for Justice: VACANT
+Minister for Justice: [nation]Bankstown City[/nation]
 Minister for Recruitment: [nation]Norton Island[/nation]
 Minister for Defence: [nation]Raindrop Valley[/nation]
 
@@ -18,6 +18,4 @@ Minister for Defence: [nation]Raindrop Valley[/nation]
 
 [b]CAPITAL CITY[/B]
 
-Capital City: [nation]Emperor City[/nation]
-
-Current Governor: [nation]Cyrahzia[/nation]
+TEMPORARILY SUSPENDED

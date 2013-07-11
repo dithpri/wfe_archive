@@ -1,15 +1,15 @@
 Executive branch 
 President:[nation]Haemo[/nation]
-Vice President:[nation]Southern Ageena[/nation]
-Minister of Foreign Affairs:[nation]Jultopia[/nation]
+Vice President: vacant
+Minister of Foreign Affairs:Vacant
 Minister of Home Affairs:[nation]MoorVanguard[/nation]
-Minister of Defence:[nation]Bubiawoopa[/nation]
-First Lord of the Treasury :[nation]Hrathgar Glacier[/nation]
-WA Delagate: [nation]wattland[/nation]
+Minister of Defence:Vacant
+First Lord of the Treasury :Vacant
+WA Delagate: Vacant
 
 Legislative branch:
-Speaker of the House: [nation]Mojopore[/nation]
-Bearer of Arms: [nation]Chisa[/nation]
+Speaker of the House: Vacant
+Bearer of Arms: Vacant
 Senators:
 [nation]Adele[/nation]
 [nation]Calitan[/nation]

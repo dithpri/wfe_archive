@@ -21,6 +21,6 @@ To be assigned
 [*][color=orange]HIGH[/color] - Serious threat
 [*][color=red]SEVERE[/color] - Gargantuan threat[/List]
 
-[b]Current Level:[/b] [color=yellow]ELEVATED[/color]
+[b]Current Level:[/b] [color=GREEN]LOW[/color]
 [hr][b][u][color=blue]News[/color][/b][/u]
-Decline in the region population is resulting in martial law
+Welcome all new nations!
