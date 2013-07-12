@@ -13,8 +13,8 @@ Honored Vassals:
 Conquered Subjects:
 
 [region]Babylonian Empire[/region]
-[region]Imperial persia[/region]
-[region]The soviet block[/region]
+[region]Imperial Persia[/region]
+[region]The Soviet Block[/region]
 [region]Dathomir[/region]
 [region]Kronas[/region]
 [region]Hexic[/region]
@@ -23,3 +23,4 @@ Conquered Subjects:
 [region]Sinhala Lanka[/region]
 [region]Anarchic Communist Alliance[/region]
 [region]Confederacy of Independent States[/region]
+[region]Socialist Republics of Slovakia[/region]

@@ -1,14 +1,11 @@
 [b][u]Welcome to the Berenzik Empire![/u][/b]
 
- [region]The Berenzik Empire[/region] is a region fully controlled by [nation]New Berenzik[/nation] and its [b][color=purple]Monarch[/color][/b]. All other nations are to be referred to as [b]Colonies[/b] or [b]Dependencies[/b] (depending on level of importance). If a nation in the Empire is one of high respect and importance, they may be granted title of [b][i]Chancellor[/i][/b] and get a say in decisions made. To qualify for [b][i]Chancellor[/i][/b], a nation must be a [b]Dependency[/b]. To become a [b]Minister[/b], a nation must first be a [b][i]Chancellor[/i][/b], and then be approved by the [b][color=purple]Monarch[/color][/b].
+ [region]The Berenzik Empire[/region] is a region fully controlled by [nation]New Berenzik[/nation] and its [b][color=purple]Monarch[/color][/b]. All other nations are to be referred to as [b]Colonies[/b] or [b]Dependencies[/b] (depending on level of importance). To become a [b]Minister[/b], a nation must first be a [b][i]Dependency[/i][/b], and then be approved by the [b][color=purple]Monarch[/color][/b].
 
 [u][b]Government[/b][/u]
 [color=purple]Monarch[/color]:[nation]New Berenzik[/nation]
 [color=red]WA Delegate[/color]:[nation]Dayde[/nation]
 [color=blue]Minister of Defense[/color]:[nation]Zarakel[/nation]
 
-[i][b]Chancellors[/b][/i]
-[nation]Alta Columbia[/nation]
-
-[i]Ambassadors:[/i]
-[nation][/nation]
+[i]Regional Ambassadors:[/i]
+[region]Kolaskyva[/region]:[nation]Atelia[/nation]
