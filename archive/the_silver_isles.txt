@@ -10,11 +10,11 @@
 Chief of Staff: [nation=short]The Almighty King Tofu The VII[/nation]
 Justice Minister: [nation=short]Zonolia[/nation]
 Foreign Minister: [nation=short]Diol[/nation]
-Defense Minister: [nation=short]New Cinoth[/nation][/color]
+Defense Minister: [nation=short]New Cinoth[/nation]
 
 *****
 
-[color=red]Please endorse our WA Delegate [nation=short]New Embossia[/nation][/color]
+Please endorse our WA Delegate [nation=short]New Embossia[/nation][/color]
 
 *****
 
@@ -29,4 +29,4 @@ Defense Minister: [nation=short]New Cinoth[/nation][/color]
 [u][color=grey]Contact the Foreign Minister for embassy information.[/b][/color][/u]
 
 [b][color=red]Voting in Progress:[/b][/color]
-[b]None[/b]  
+[b]Constitutional Revisions[/b]  

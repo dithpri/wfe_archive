@@ -1,9 +1,8 @@
-
 Executive branch 
 President:[nation]Haemo[/nation]
 Vice President: vacant
 Minister of Foreign Affairs:Vacant
-Minister of Home Affairs:[nation]MoorVanguard[/nation]
+Minister of Home Affairs:Vacant
 Minister of Defence:Vacant
 First Lord of the Treasury :Vacant
 WA Delagate: Vacant
@@ -12,10 +11,10 @@ Legislative branch:
 Speaker of the House: Vacant
 Bearer of Arms: Vacant
 Senators:
-[nation]Adele[/nation]
-[nation]Calitan[/nation]
-[nation]Chinastates[/nation]
 [nation]the great state of Christopia[/nation]
-[nation]Delta Zero[/nation]
+Vacant
+Vacant 
+Vacant
+Vacant
 
 Founding Fathers: http://www.nationstates.net/nation=jultopia/detail=factbook/id=main

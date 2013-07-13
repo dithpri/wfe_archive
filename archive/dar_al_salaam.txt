@@ -5,12 +5,13 @@
 
 [b]Founding States (Estados fundadores)[/b]
 
-[nation]Nuevo Meshiko[/nation] [i](El Sultanato de Nuevo Meshiko)[/i]
-[nation]Rosenblau[/nation] [i](La Confederaci&oacute;n de Rosenblau)[/i]
+[nation]Nuevo Meshiko[/nation] [i](Sultanato de Nuevo Meshiko)[/i]
+[nation]Rosenblau[/nation] [i](Confederaci&oacute;n de Rosenblau)[/i]
 
 [b]Member States (Estados miembros)[/b]
 
-[nation]Lyaseriene[/nation] [i](El Emirato de Lyaseriene)[/i]
+[nation]Lyaseriene[/nation] [i](Emirato de Lyaseriene)[/i]
+[nation]Terra-Pacifica[/nation] [i](Protectorado de Terra-Pac&iacute;fica)[/i]
 [b]______________________________________________[/b]
 
 [b]Allied Regions (Regiones aliadas)[/b]
