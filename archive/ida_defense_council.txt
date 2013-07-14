@@ -5,7 +5,7 @@
 [i]Member Regions[/i]
 - [region]Libertatem[/region]
 - [region]Federation of Free States[/region]
-- [region]New Republica[/region] *
+- [region]New Republica[/region]
 - [region]Central Pacific Empire[/region]
 - [region]The Commonwealth of Crowns[/region]
 - [region]Wolfmania[/region]
