@@ -7,24 +7,24 @@ President: [nation=short+noflag]The Anean Tribes[/nation]
  Vice President: [nation=short+noflag]none[/nation]
  Secretary of state: [nation=short+noflag]Beta Test[/nation]
  Secretary of Defense: [nation=short+noflag]The United Remnants of America[/nation]
-[/color]
 
-[color=blue]The Senate:
+
+The Senate:
  President Pro Tempore of the Senate: [nation=short+noflag]the anean tribes[/nation]
  Senator: [nation=short+noflag]Dantooine[/nation] 
- Senator: [nation=short+noflag]Patridam[/nation][/color]
+ Senator: [nation=short+noflag]Patridam[/nation]
 
-[color=blue]Judicial Branch
- Supreme Judge: [nation=short+noflag]claflin[/nation]
+Judicial Branch
+ Supreme Judge: [nation=short+noflag]none[/nation]
  Judge: [nation=short+noflag]Cafla[/nation]
- Judge: 
+ Judge: [nation=short+noflag]none[/nation]
 
 New Republica Guard
 Chairman of the board: [nation=short+noflag]The United Remnants of America[/nation]
 Member: [nation=short+noflag]vladivostak[/nation]
-Member: [nation=short+noflag]Mithea III[/nation] [/color]
+Member: [nation=short+noflag]Mithea III[/nation][/color]
  [url=http://newrepublica.createaforum.com/index.php]Our Forum[/url]
  [url=http://www.nationstates.net/nation=claflin/detail=factbook/id=127304]Citizen Application[/url]
 [color=Red]REGIONAL NEWS !!!
-[b]Please recruit everybody[/b] [/color]
+[b]Please recruit everybody[/b][/color]
 [url=http://www.nationstates.net/nation=claflin/detail=factbook/id=128046]Recruitment Message[/url]

@@ -12,7 +12,7 @@ We now have IRC [url=http://w11.zetaboards.com/The_Pantheon_NS/pages/chat/]chat[
 [b]Minister of Intelligence:[/b] [nation=short]Afrana II[/nation]
 [b]Minister of Foreign Affairs:[/b] [nation=short]Ket[/nation]
 [b]Minister of Internal Affairs:[/b] [nation=short]Justiar[/nation]
-[b]Chancellor:[/b] Vacant
+[b]Chancellor:[/b] [nation=short]Afrana II[/nation]
 
 [u][b]The Military[/b][/u]
 [b]Legate (and Tribune):[/b] [nation=short]Guarda[/nation]
@@ -25,7 +25,7 @@ We now have IRC [url=http://w11.zetaboards.com/The_Pantheon_NS/pages/chat/]chat[
 
 [u][b]News[/b][/u]
 [url=http://w11.zetaboards.com/The_Pantheon_NS/topic/8944591/1/#new]Prime Minister elected.[/url]
-[url=http://w11.zetaboards.com/The_Pantheon_NS/topic/8958562/1/#new]Elections for Chancellor[/url]
+[url=http://w11.zetaboards.com/The_Pantheon_NS/topic/8958562/1/#new]Chancellor wins by default[/url]!
 
 [u][b]Current Orders[/b][/u]
 Please move to [color=green][region]Oromis[/region][/color] and endorse [color=red][b][nation=short]duunkschlava[/nation][/b][/color].

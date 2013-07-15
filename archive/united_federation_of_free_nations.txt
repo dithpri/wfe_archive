@@ -1,23 +1,17 @@
 Welcome to The United Federation of Free Nations! We are a region dedicated for [b]freedom and peace![/b] Come join us!
 
 It is recommended that you become a member of the World Assembly and endorse the current delegate, [nation]Absium[/nation] For the security of the region!
+
 [hr]
 [b][i][color=red]UFFN Government[/color][/i][/b]
 
-
 [hr]
 
-[b][color=blue]ADMINISTRATOR[/color][/b]
-[nation]Freedom Planita 2[/nation]
-
-[b][color=blue]Commisioner of Recruitment[/color][/b]
-[nation]United Akavir[/nation]
-[hr]
 [b]Executive Branch[/b]
 
 [b]Chancellor:[/b] [color=red]Vacant[/color]
-[b]Elector:[/b] [nation]Absium[/nation]
 [b]President[/b]: [color=red]Vacant[/color]
+[b]Elector:[/b] [nation]Absium[/nation]
 [hr]
 
 [b]Legislative Branch[/b]
@@ -27,6 +21,18 @@ It is recommended that you become a member of the World Assembly and endorse the
 Federation Council(FP2)(ABS)(FRE)
 
 
+[hr]
+[b]Judicial Branch[/b]
+
+Prime Justice:[color=red]Vacant[/color]
+Justices:[color=red]Vacant[/color], [color=red]Vacant[/color]
+[hr]
+
+[b][color=blue]UFFN ADMINISTRATION[/color][/b]
+
+[b][color=grey]Administrator:[/color][/b][nation]Freedom Planita 2[/nation]
+
+[b][color=grey]Commissioner of Recruitment:[/color][/b][nation]United Akavir[/nation]
 [hr]
 
 

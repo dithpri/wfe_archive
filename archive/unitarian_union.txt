@@ -1,4 +1,4 @@
-The Unitarian Union is based around the currency called the Unitaria. The Unitaria (U), created by Pasovo NacoBo, aims to unite diverse economies under one strong currency and introduce economic equality.b
+The Unitarian Union is based around the currency called the Unitaria. The Unitaria (U), created by Pasovo NacoBo, aims to unite diverse economies under one strong currency and introduce economic equality.
  [b]Government[/b]
 President: [nation]Sengrial[/nation]
 Vice-President: [nation]Pasovo-nacoBo[/nation]
@@ -11,5 +11,6 @@ UH/SRC: [nation]Flaskjinia[/nation]
 [nation]Retarika[/nation] S.R.S.
 [nation]Relics[/nation]
 [nation]The New Greek Republic[/nation]
+[nation]Neverdaunt 8bit[/nation]
 [b]Off-Site Forum:[/b]
 [url=http://w11.zetaboards.com/Unitaria/index/]The Unitarian Union[/url]

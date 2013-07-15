@@ -1,14 +1,15 @@
 [b]Welcome to the [color=red]The Third Dominion[/color][/b]
 
-President: [nation]Advelard[/nation]
+President: [nation=short]Advelard[/nation]
+Vice President: [nation=short]The New Earth Coalition[/nation]
 =============================
-Secretary of Justice: [nation]Fairy-Tail[/nation]
-Secretary of War: [nation]Conceptina[/nation]
-Secretary of Internal Affairs: [nation]Republic of the North[/nation]
-Secretary of Foreign Affairs: [nation]Zaalbar[/nation]
+Secretary of Justice: [nation=short]Fairy-Tail[/nation]
+Secretary of War: [nation=short]Conceptina[/nation]
+Secretary of Internal Affairs: [nation=short]Republic of the North[/nation]
+Secretary of Foreign Affairs: [nation=short]Zaalbar[/nation]
 ----------------------------------------------------
-Senators: [nation]Zeros Britannia[/nation], [nation]Advelard[/nation]
-Representatives: [nation]Romallest[/nation], [nation]Shannara[/nation], [color=red][i]vacant[/i][/color], [color=red][i]vacant[/i][/color]
+Senators: [nation=short]Zeros Britannia[/nation], [color=red][i]vacant[/i][/color]
+Representatives: [nation=short]Romallest[/nation]
 
 [url=http://thethirdominion.boardonly.com]Regional Forum[/url]
 
