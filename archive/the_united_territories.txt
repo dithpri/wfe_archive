@@ -4,12 +4,15 @@
 ######################
 
 [Color=red][b]Chancellor:
-Council Ministers:
-Trade Minister:
+Council Ministers:[/b][/color]
+[color=purple]Victor Sirrah ([nation]the united common[/nation])
+Tyler Ruzich ([nation]Tylande[/nation])[/color]
+
+[Color=red][b]Trade Minister:
 Domestic Security Chief:
 Ambassador:[/b][/color]
 [color=purple][b] 
-Election In: 12 Days[/b] [/color]
+Election In: pending[/b] [/color]
 ######################
 
 [b][u]All nations are welcome, all ideologies are accepted.[/u][/b]

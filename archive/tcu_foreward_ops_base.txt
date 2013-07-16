@@ -6,8 +6,6 @@ Military Forces of The Cooperative Union
 
 Commander and Cheif: [nation]Altaslavia[/nation]
 
-Field Marshal: [nation]The 8th Guards Army[/nation] [nation]Eastern Yugoslavia[/nation]
+Figure Head: [nation]The 8th Guards Army[/nation] 
 
-Officers: [nation]Soviet land[/nation]
-
-Enlisted Men: [nation]Potomia[/nation], [nation]Fulminata-Legion XII[/nation]
+Members: [nation]Soviet land[/nation] [nation]Eastern Yugoslavia[/nation] [nation]Potomia[/nation], [nation]Fulminata-Legion XII[/nation] [nation]Potato clan[/nation]

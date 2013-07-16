@@ -18,7 +18,7 @@ It is recommended that you become a member of the World Assembly and endorse the
 
 [b]The Federation Congress[/b]
 
-Federation Council(FP2)(ABS)(FRE)
+Federation Senate(FP2)(ABS)
 
 
 [hr]
@@ -30,9 +30,9 @@ Justices:[color=red]Vacant[/color], [color=red]Vacant[/color]
 
 [b][color=blue]UFFN ADMINISTRATION[/color][/b]
 
-[b][color=grey]Administrator:[/color][/b][nation]Freedom Planita 2[/nation]
+[b][color=grey]Administrator:[/color][/b] [nation]Freedom Planita 2[/nation]
 
-[b][color=grey]Commissioner of Recruitment:[/color][/b][nation]United Akavir[/nation]
+[b][color=grey]Commissioner of Recruitment:[/color][/b] [nation]United Akavir[/nation]
 [hr]
 
 
