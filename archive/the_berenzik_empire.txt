@@ -4,8 +4,10 @@
 
 [u][b]Government[/b][/u]
 [color=purple]Monarch[/color]:[nation]New Berenzik[/nation]
-[color=red]WA Delegate[/color]:[nation]Dayde[/nation]
+[color=red]Prime Minister[/color]:[nation]Gaius Marianus[/nation]
 [color=blue]Minister of Defense[/color]:[nation]Zarakel[/nation]
+[color=orange]Minister of Foreign Affairs[/color]:[nation]Dayde[/nation]
 
 [i]Regional Ambassadors:[/i]
-[region]Kolaskyva[/region]:[nation]Atelia[/nation]
+&#149;[region]Kolaskyva[/region]:[nation]Atelia[/nation]
+&#149;[region]The Northern Hemisphere[/region]:[nation]Britonisea[/nation]

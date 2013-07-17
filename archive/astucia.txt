@@ -4,8 +4,8 @@
 [hr]
 
 [b][color=darkblue]Emperor[/b][/color]: [nation=short]Tristan de Warren[/nation]
-[b][color=darkred]Lord Chancellor[/b][/color]: [nation=short]Knox de Noble[/nation]
-[b][color=darkred]Commander General[/b][/color]: TBA
+[b][color=darkred]Lord Chancellor[/b][/color]: TBA
+[b][color=darkred]Commander General[/b][/color]: [nation=short]Knox de Noble[/nation]
 [hr]
 [b]Join us in the [url=http://w11.zetaboards.com/Astucia/index/]Realm[/url][/b]
 [hr]

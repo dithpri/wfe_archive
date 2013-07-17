@@ -5,7 +5,7 @@ Vice-President: [nation]Pasovo-nacoBo[/nation]
 FSOB: [nation]Brick country[/nation]
 SOB: [nation]Lopehi[/nation]
 SOS: [nation]Asuiop[/nation]
-UH/SRC: [nation]Flaskjinia[/nation]
+SOF/UH/SRC: [nation]Flaskjinia[/nation]
 [b]Members[/b]
 [nation]Julii-Nall[/nation]
 [nation]Retarika[/nation] S.R.S.

@@ -3,8 +3,8 @@
 Monarch: [nation]Xochi[/nation]
 President: [nation]Formerly Occupied America[/nation]
 Vice President: [nation]MirrorGate[/nation]
-Minister of Recruitment: [nation]Pomplamouse[/nation]
+Minister of Recruitment: [nation]jusitopia[/nation]
 Vice Minister of Recruitment: [nation]Ismereldian Isles[/nation]
-Minister of Foreign Affairs: [nation]Kosrockastan[/nation]
-Minister of Finance: [nation]Kosrockastan[/nation]
-Council members: [nation]Hardstavia[/nation], [nation]Renstaff[/nation], [nation]Dionotia[/nation], and [nation]Ismereldian Isles[/nation]
+Minister of Foreign Affairs: Election Pending
+Minister of Finance: Election Pending
+Council members: [nation]french_willeon[/nation], [nation]Renstaff[/nation], Election Pending

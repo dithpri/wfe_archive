@@ -10,11 +10,11 @@
 Chief of Staff: [nation=short]The Almighty King Tofu The VII[/nation]
 Justice Minister: [nation=short]Zonolia[/nation]
 Foreign Minister: [nation=short]Diol[/nation]
-Defense Minister: [nation=short]New Cinoth[/nation]
+Defense Minister: [nation=short]New Cinoth[/nation][/color]
 
 *****
 
-Please endorse our WA Delegate [nation=short]New Embossia[/nation][/color]
+[color=maroon]Please endorse our WA Delegate [nation=short]New Embossia[/nation][/color]
 
 *****
 

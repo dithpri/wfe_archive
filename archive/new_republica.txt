@@ -10,14 +10,14 @@ President: [nation=short+noflag]The Anean Tribes[/nation]
 
 
 The Senate:
- President of the Senate: [nation=short+noflag]none[/nation]
- Senator: [nation=short+noflag]Dantooine[/nation] 
+ President of the Senate: [nation=short+noflag]Dantooine[/nation]
+ Senator: [nation=short+noflag]Beta Test[/nation] 
  Senator: [nation=short+noflag]Patridam[/nation]
 
 Judicial Branch
  Supreme Judge: [nation=short+noflag]Flattnerk[/nation]
  Judge: [nation=short+noflag]Cafla[/nation]
- Judge: [nation=short+noflag]none[/nation]
+ Judge: [nation=short+noflag]united states of brazilian nations[/nation]
 
 New Republica Guard
 Chairman of the board: [nation=short+noflag]The United Remnants of America[/nation]

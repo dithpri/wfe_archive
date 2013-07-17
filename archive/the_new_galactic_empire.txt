@@ -13,7 +13,7 @@
 - [b]Vice Moff of Foreign Affairs[/b]: [nation=short] Vacant[/nation]
 [b]Moff of War[/b]: [nation=short]Darth Tenebris[/nation]
 - [b]Vice Moff of War[/b]: [nation=short]Vacant [/nation]
-[b]Interim Moff of Culture[/b]: [nation=short]The Lost Tribe of Sith[/nation] 
+[b]Interim Moff of Culture[/b]: [nation=short]The Last Son of Gallifrey[/nation] 
 - [b]Vice Moff of Culture[/b]: [nation=short]The Order of the Eagles Assasins[/nation] 
 [b]Interim Moff of Imperial Justice[/b]: [nation=short]Darth Radix II[/nation]
 - [b]Vice Moff of Imperial Justice[/b]: [nation=short]Wolnosch[/nation][hr]

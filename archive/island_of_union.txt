@@ -3,8 +3,8 @@
 General Secretary of IU: [b][nation=krbustan][/b]
 \WA Delegate: [b][nation=Kebiru][/b]
 \Secretary of Defense Council: [b][nation=krbustan][/b]
-\Secretary of Foreign Affairs Council: [b][nation=grbustan][/b]
-\Secretary of Economic Council: [b][color=Red]Vacant[/color][/b]
+\Secretary of Foreign Affairs Council: [b][nation=Egyptos][/b]
+\Secretary of Economic Council: [b][nation=grbustan][/b]
 \Secretary of Cultural Council: [b][color=Red]Vacant[/color][/b]
 \Speaker of IU Parliament: [b][nation=cherqstan][/b]
 
