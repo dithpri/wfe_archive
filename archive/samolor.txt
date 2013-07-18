@@ -1,12 +1,11 @@
 [b]Leaderboard Cycle 2[/b] [i](Last updated: Jul 16)[/i]
-[b][color=gold]Gold -- [nation]Suricatta[/nation][/color][/b] (124 points)
-[i][color=silver]Silver -- [nation]Tomoran[/nation][/color][/i] (112 points)
-[u][color=brown]Bronze[/u] -- [u][nation]The Ruh[/nation][/color][/u] (111 points)
-[u][color=brown]Bronze[/u] -- [u][nation]Dyzistrolux[/nation][/color][/u] (111 points)
+[b][color=gold]Gold -- [nation]Suricatta[/nation][/color][/b] (134 points)
+[i][color=silver]Silver -- [nation]Tomoran[/nation][/color][/i] (117 points)
+[u][color=brown]Bronze[/u] -- [u][nation]Kawada[/nation][/color][/u] (116 points)
 
-Nail: [nation]Kalermos[/nation] (70 points)
+Nail: [nation]Kalermos[/nation] (74 points)
 
-Mean=95.5; Median=100; Standard Deviation=16.7
+Mean=103.5; Median=112; Standard Deviation=17.2
 
 Find detailed rankings [url=https://docs.google.com/spreadsheet/ccc?key=0AiGGfjA6JXzXdGRac0c5eWpDbFY1b3RjQTFxZUo2SkE&amp;amp;pli=1#gid=2]here[/url]
 

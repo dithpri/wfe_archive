@@ -7,20 +7,20 @@ We encourage nations to join the WA and the forum ([b][u][i]! sign up with your 
 [hr]
 
 [b]Commission[/b]
-Premier: [nation=short]Os Corelia[/nation]
-Foreign Affairs: [nation=short]Occoron[/nation]
-Defence and Peacekeeping: [nation=short]Halsberg[/nation]
-Economics: [nation=short]Gun-Toting Animals[/nation]
-Internal Affairs: [nation=short]Angleter[/nation]
+Premier: [nation=short]Angleter[/nation]
+Foreign Affairs: [nation=short]Rhine Ruhr[/nation]
+Defence and Peacekeeping: [nation=short]Os Corelia[/nation]
+Economics: [nation=short]Northern Caesarea[/nation]
+Internal Affairs: [nation=short]Red Croatia[/nation]
 
 [hr]
 
 [b]Court[/b]
-Chief Justice: [nation=short]Duxburian Union[/nation]
-Justice: [nation=short]Bakrova[/nation]
+Chief Justice: [nation=short]Gun-Toting Animals[/nation]
+Justice: [nation=short]North Europa[/nation]
 Justice: [nation=short]Kryuland[/nation]
 Justice: [nation=short]Pax Aurea[/nation]
-Justice: [nation=short]Rhine Ruhr[/nation]
+Justice: [nation=short]The Balkan Socialist Federation[/nation]
 
 [hr]
 

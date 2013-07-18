@@ -8,6 +8,6 @@
 [color=blue]Minister of Defense[/color]:[nation]Zarakel[/nation]
 [color=orange]Minister of Foreign Affairs[/color]:[nation]Dayde[/nation]
 
-[i]Regional Ambassadors:[/i]
-&#149;[region]Kolaskyva[/region]:[nation]Atelia[/nation]
-&#149;[region]The Northern Hemisphere[/region]:[nation]Britonisea[/nation]
+[i]Regional Anthem:[/i]
+[color=darkblue]http://www.youtube.com/watch?v=ZWuNf4gxwuM[/color]
+[i]&amp;quot;Winds of Tomorrow&amp;quot;[/i]

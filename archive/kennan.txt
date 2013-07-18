@@ -1,24 +1,22 @@
 [color=green][b]Important Links[/b][/color]
-[url=http://goo.gl/CUiya]Kennan Map[/url] [b]|[/b] [url=http://goo.gl/rahj3]Kennan Offsite Forum[/url]
+[url=http://goo.gl/CUiya]Kennan Map[/url]|[url=http://goo.gl/rahj3]Kennan Offsite Forum[/url]
 
 [color=blue][b]Kennan Regional Council[/b][/color]
-[url=http://goo.gl/L1TuA]Resolution #45: Shipping Information Database[/url]
-[color=red][b]FOR:[/b] 6 (75%)
-[b]AGAINST:[/b] 2 (25%)[/color]
+[url=http://goo.gl/g4fUf]Resolution #47: Formation of the Kennan Administration[/url]
 
-[url=http://goo.gl/BLQ8g]Resolution #46: Formation of the Kennan Recruitment Program[/url]
-[color=red][b]FOR:[/b] 6 (100%)
-[b]AGAINST:[/b] 0 (0%)[/color]
+[url=http://goo.gl/N3B8g]Resolution #48: Kennan Historian[/url]
+
+[url=http://goo.gl/AW9Xf]Resolution #49: Kennan Union Punishment Updates[/url]
+
+[url=http://goo.gl/XapOs]Resolution #50: Kennan International Police Agency[/url]
 
 [b][color=blue]Kennan Union[/color][/b]
-[i]Currently none[/i]
 
-[color=red][b]4th Kennan Regional Secretary Council[/b][/color]
-[b]Administration:[/b] [nation=short]Samukan[/nation]
-[b]Commerce:[/b] [nation=short]Roytonburg[/nation]
-[b]Defense:[/b] [nation=short]The Azerian Empire[/nation]
-[b]Education:[/b] [nation=short]Sandwich Territories[/nation]
-[b]Environment:[/b] [nation=short]United Solcialist States of Jakeopia[/nation]
-[b]Human Rights:[/b] [nation=short]Hackleberry Islands[/nation]
-
-[b]Head Ambassador:[/b] [nation=short]Sandwich Territories[/nation] (contact him for embassies, etc.)
+[color=red][b]4th Kennan Secretary Council[/b][/color]
+Administration: [nation]Samukan[/nation]
+Commerce: [nation]Roytonburg[/nation]
+Defense: [nation]The Azerian Empire[/nation]
+Education: [nation]Sandwich Territories[/nation]
+Environment: [nation]United Solcialist States of Jakeopia[/nation]
+Human Rights: [nation]Hackleberry Islands[/nation]
+Head Ambassador: [nation]Sandwich Territories[/nation]

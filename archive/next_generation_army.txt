@@ -5,19 +5,21 @@ This is the Official Army of the [region]Next Generation Alliance[/region].
 [u][b]&amp;gt;&amp;gt;Government&amp;lt;&amp;lt;[/b][/u]
 [b][color=red]Leader:
 [/color][/b] [nation]The Silver Bloods[/nation] ([color=red][b]R[/b][/color])
+
 [b][color=black]Commander:[/color][/b]
  ( none )
-[b][color=purple]Generals:[/color][/b]  
+
+[b][color=blue]Generals:[/color][/b]  
 [nation]The Droid Revolution[/nation] ([color=purple][b]I[/b][/color])
 [nation]The Order of Chaos Chao[/nation] ([color=blue][b]L[/b][/color])
+
+[b][color=red]Colonels:[/color][/b] 
 [nation]The Lost King[/nation] ([color=red][b]C[/b][/color])
-Colonels:
-( none )
 
 [u][b]&amp;gt;&amp;gt;Captures&amp;lt;&amp;lt;[/b][/u]
 Amount:1
 [region]The Republican Empire of Duellum[/region]
 
 [u][b]&amp;gt;&amp;gt;News&amp;lt;&amp;lt;[/b][/u]
-[color=red]Conservative Party Representative[/color], [nation]The Lost King[/nation], has been promoted to General.
+[color=red]Conservative Party Representative[/color], [nation]The Lost King[/nation], has been temporarily demoted to Colonel.
 [color=blue]WA Delegate Speaker of the House[/color] and [color=blue]Liberal Party Representative[/color], [nation]The Order of Chaos Chao[/nation], has been promoted to General.

@@ -4,13 +4,12 @@
 
 [i]Executive[/i]
 I) Secretary-General: [nation=short]Hercosk[/nation]
-II) Vice-Secretary: [nation=short]Griffindor[/nation]
-III) Speaker of Senate: [nation=short]North America and the Great Lakes[/nation]
+II) Speaker of Senate: [nation=short]North America and the Great Lakes[/nation]
 
 [i]Cabinet Members[/i]
 I) Foreign Minister: [nation=short]North America and the Great Lakes[/nation]
 II) Defense Minister: [nation=short]Gimbalia[/nation]
-
+III)Internal Affairs Minister:[nation=short]Griffindor[/nation]
 [hr]
 
 Please endorse the SECRETARY-GENERAL : [nation=short]Hercosk[/nation][/b]

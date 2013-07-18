@@ -3,14 +3,20 @@ Union of Nations
 
 The Union of Nations is a region that is founded upon freedoms for everyone.
 
-Founder: Derakon
+Founder:
+[nation]Derakon[/nation]
 Key Nations:
-Gernik
-The hex
-New Terra Atlantis
-Isle de Oscura
-Battle
-Pegasus
+[nation]Gernik[/nation]
+[nation]The hex[/nation]
+[nation]New Terra Atlantis[/nation]
+[nation]Isle de Oscura[/nation]
+[nation]Battle[/nation]
+[nation]Pegasus[/nation]
+
+We have a sub region: [region]Confederacy of Former Colonial Islands[/region]
+
+
+we are looking for more nations especially nations that can join the WA so we can get a WA delegate
 
 embassies accepted
 new nations accepted

@@ -1,16 +1,17 @@
 [color=blue][B][I]&amp;quot;FREEDOM, JUSTICE, AND PROSPERITY!&amp;quot;[/B][/I][/color]--- [B]THE RISING [color=blue]DEMOCRATIC-CAPITALIST COALITION[/color] IN [U]NATIONSTATES[/U][/B]!
 
-[b][color=red]NEWS UPDATE: [/color]
-[*]RG SEEKS SOLUTION TO SOOTH HYPERINFLATION
-[*]A54 UNEMPLOYMENT RATE MARKED ITS [COLOR=RED]27.2%[/COLOR] HIGH[/b]
+[b][color=red]UPDATE: [/color]
+[*]2 Newest Regional Airports Opened in Kara-Yuktobania[/b]
 
-[b][color=orange]ON LEGISLATION: A54RCB#014: INHERITANCE TAX BILL [/color][/b]
+[b][color=orange]ON LEEGISLATION:
+A54RCB#014: INHERITANCE TAX BILL (Junked!)
+A54RCP#012: CHARTER CHANGE BILL (Junked!)[/color][/b]
 
-[b]Newest Member: [nation]Aldford[/nation][/b]
+[b]Recent Member: [nation]Aldford[/nation][/b]
 
 [*][b]CENTRE: [/b][B][nation]Kara-Osea[/nation][/B]
 
-[*][b] POPULATION:[/b] 3,201,000,000 (source: A54CRP)
+[*][b] POPULATION:[/b] 3,221,000,000 (source: A54CRP)
 
 [b]REGIONAL DEFENSE STATUS:[/b] LEVEL [color=green][B]4[/B][/color]
 
@@ -21,6 +22,6 @@
 []            A54DEF 5	FADE OUT (BLUE)
 
 [B]REGION&amp;#39;S TOTAL ACTIVE AND RESERVED MILITARY PERSONNEL:
-[/B] [color=red][B]139,865,005[/B][/color]
+[/B] [color=red][B]135,355,504[/B][/color]
 
-[b] SOLDIER-TO-CIVILIAN RATIO: [color=red]1:22 [/b][/color]
+[b] SOLDIER-TO-CIVILIAN RATIO: [color=red]1:23 [/b][/color]
