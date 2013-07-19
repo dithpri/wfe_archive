@@ -5,18 +5,26 @@ The Union of Nations is a region that is founded upon freedoms for everyone.
 
 Founder:
 [nation]Derakon[/nation]
+Current World Assembly Delegate:
+[nation]Afrai[/nation]
 Key Nations:
 [nation]Gernik[/nation]
 [nation]The hex[/nation]
 [nation]New Terra Atlantis[/nation]
 [nation]Isle de Oscura[/nation]
 [nation]Battle[/nation]
-[nation]Pegasus[/nation]
 
 We have a sub region: [region]Confederacy of Former Colonial Islands[/region]
 
 
-we are looking for more nations especially nations that can join the WA so we can get a WA delegate
+we are looking for more nations especially nations that can join the WA.
 
 embassies accepted
 new nations accepted
+
+
+currencies of union of nations:
+Derakon Credit (Derakon only)
+Union Dollar
+National Pound
+Zerakon Dollar (Zerakon nations only)

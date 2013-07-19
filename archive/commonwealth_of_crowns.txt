@@ -1,7 +1,5 @@
 [u][b]TERRITORY OF [region]THE COMMONWEALTH OF CROWNS[/region][/u][/b]
 
-[hr]
-
 [u]THE CROWNS EMPIRE[/u]
 
 [region]Global Federation of Nations[/region]
@@ -34,3 +32,4 @@
 [region]Blackreach[/region]
 [region]The Galactic Empire[/region]
 [region]The Kingdom[/region]
+[region]The Liberty Republic[/region]

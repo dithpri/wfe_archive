@@ -8,7 +8,7 @@ International Delegate: Open
 Recruitment: [nation]Al Majdal[/nation]
 International Ambassador: [nation]North Arabia[/nation]
 WA Affairs: [open]
-Defense: [nation]The Phoenix Prince[/nation], [region]The Prince Consortium[/region]
+Defense: [nation]united-hayat[/nation]
 [color=red][b]War[/b][/color] Council: [nation]North Arabia[/nation], [nation]Darmadewa[/nation], [nation]Potato Peeler[/nation]
 
 
