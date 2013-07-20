@@ -16,8 +16,8 @@ The Senate:
 
 Judicial Branch
  Supreme Judge: [nation=short+noflag]Flattnerk[/nation]
- Judge: [nation=short+noflag]Cafla[/nation]
  Judge: [nation=short+noflag]united states of brazilian nations[/nation]
+ Judge: [nation=short+noflag]none[/nation]
 
  [url=http://newrepublica.createaforum.com/index.php]Our Forum[/url]
  [url=http://www.nationstates.net/nation=claflin/detail=factbook/id=127304]Citizen Application[/url]
