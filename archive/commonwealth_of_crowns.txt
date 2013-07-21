@@ -33,3 +33,4 @@
 [region]The Galactic Empire[/region]
 [region]The Kingdom[/region]
 [region]The Liberty Republic[/region]
+[region]British Overseas Territory[/region]

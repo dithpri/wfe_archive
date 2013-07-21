@@ -1,22 +1,18 @@
 Nations of the same creator, made for various tech periods/RP styles. Grouped together for ease of location.
 
-Benevolent Hegemon
+Benevolent Hegemons
 [nation]American Soviet Republics[/nation]
+[nation]Revolutionary Proletarian Soviets[/nation]
 
 Active
-[nation]Betonland[/nation]
-[nation]Alstein[/nation]
-[nation]Weiland[/nation]
-[nation]Termenia[/nation]
-[nation]Alynia[/nation]
 [nation]The Terran Confederacy[/nation]
 [nation]The Cairns[/nation]
+[nation]Usziya[/nation]
+[nation]Betonland[/nation]
+[nation]Alstein[/nation]
 
 Inactive
-[nation]Fennwick[/nation]
-[nation]Usziya[/nation]
+[nation]Alynia[/nation]
+[nation]Termenia[/nation]
 [nation]Guyaland[/nation]
-
-
-
-
+[nation]Weiland[/nation]
