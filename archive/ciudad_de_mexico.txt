@@ -1,3 +1,5 @@
 [b][color=darkgreen]Sejam todos bem-vindos a Ciudad de M&eacute;xico[/color][/b]
 
-[color=darkgreen]Ciudad de M&eacute;xico &eacute; o Distrito Federal, capital dos Estados Unidos Mexicanos e &eacute; sede dos poderes federais da Rep&uacute;blica Mexicana, que constitui uma de suas 32 entidades federativas.[/color][hr][b][color=brown]Tropas brasileiras ocuparam a regi&atilde;o com o intuito de proteger a capital mexicana da [i]ditadura do [u]comunismo[/u][/i]. Essa a&ccedil;&atilde;o n&atilde;o tem rela&ccedil;&atilde;o com a regi&atilde;o do [region]Brasil[/region].[/color][/b]
+[color=darkgreen]Ciudad de M&eacute;xico &eacute; o Distrito Federal, capital dos Estados Unidos Mexicanos e &eacute; sede dos poderes federais da Rep&uacute;blica Mexicana, que constitui uma de suas 32 entidades federativas.[/color][hr][b][color=brown]Las tropas del americano y de la Commonwealth han ocupado la regi&oacute;n con la intenci&oacute;n de proteger la capital mexicana contra la dictadura de los se&ntilde;ores de las drogas. Aliado con los Estados Unidos de Am&eacute;rica.[/b][/color]
+[hr][color=006600]Associate regions are: [region=Guatemala], [region=Belize], [region=Costa Rica] and [region=Jamaica].
+Allied regions includes: [region=Baja California].[/color][hr]

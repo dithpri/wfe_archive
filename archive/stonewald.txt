@@ -1,7 +1,8 @@
 We have elected our delegate! Please endorse him! 
 &nbsp;[color=orange]Founders:[/color]
 [nation=short]Zanzar[/nation]
-[nation=short]Girfa Massa
+[nation=short]Girfa Massa[/nation]
+[nation=short]Goldmerrow[/nation]
 New government positions:
 [color=red]Secretary of War[/color] 
 [nation=short+noflag]Zanzar[/nation]
