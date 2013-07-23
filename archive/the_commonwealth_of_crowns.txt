@@ -20,4 +20,5 @@ Immigration:[nation]Besate[/nation]
 [hr]
 [b]Crowns Court of Justice[/b]
  [nation=short]Oberseewald[/nation](CJ) [nation=short]Vetega[/nation](J), [nation=short]Imperial Yamea[/nation](J)
-Prosecutor General: [nation]Lentheric[/nation]
+Prosecutor General:  [hr]
+ [url=http://www.nationstates.net/region=commonwealth_of_crowns]Click here for Our Colonies[/url]

@@ -2,28 +2,20 @@
 [url=http://goo.gl/CUiya]Kennan Map[/url] | [url=http://goo.gl/rahj3]Kennan Offsite Forum[/url]
 
 [color=blue][b]Kennan Regional Council[/b][/color]
-[url=http://goo.gl/g4fUf]Resolution #47: Formation of the Kennan Administration[/url]
-
-[url=http://goo.gl/N3B8g]Resolution #48: Kennan Historian[/url]
-
-[url=http://goo.gl/AW9Xf]Resolution #49: Kennan Union Punishment Updates[/url]
-
-[url=http://goo.gl/XapOs]Resolution #50: Kennan International Police Agency[/url]
 
 [b][color=blue]Kennan Union[/color][/b]
 
-
 [color=red][b]5th Kennan Secretary Council[/b][/color]
-Administration: [nation=short]Samukan[/nation]
-Commerce: [nation=short]Roytonburg[/nation]
-Defense: [nation=short]The Azerian Empire[/nation]
-Education: [nation=short]Ethan Foley[/nation]
-Environment: [nation=short]United Solcialist States of Jakeopia[/nation]
-Foreign Affairs: [nation=short]Sandwich Territories[/nation]
-Human Rights: [nation=short]Hackleberry Islands[/nation]
+[b]Administration:[/b] [nation=short]Samukan[/nation]
+[b]Commerce:[/b] [nation=short]Roytonburg[/nation]
+[b]Defense:[/b] [nation=short]The Azerian Empire[/nation]
+[b]Education:[/b] [nation=short]Ethan Foley[/nation]
+[b]Environment:[/b] [nation=short]United Solcialist States of Jakeopia[/nation]
+[b]Foreign Affairs:[/b] [nation=short]Sandwich Territories[/nation]
+[b]Human Rights:[/b] [nation=short]Hackleberry Islands[/nation]
 
 [color=red][b]Chairmen[/b][/color]
-Kennan Regional Council: [nation=short]Sandwich Territories[/nation]
-Kennan Union: [nation=short]Ethan Foley[/nation]
-Kennan Species Bureau: [nation=short]Samukan[/nation]
-Kennan Space Command: [nation=short]The Azerian Empire[/nation]
+[b]Kennan Regional Council:[/b] [nation=short]Sandwich Territories[/nation]
+[b]Kennan Union:[/b] [nation=short]Ethan Foley[/nation]
+[b]Kennan Species Bureau:[/b] [nation=short]Samukan[/nation]
+[b]Kennan Space Command:[/b] [nation=short]The Azerian Empire[/nation]

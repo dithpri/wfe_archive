@@ -1,1 +1,24 @@
 South Czechoslovakia
+
+Included Territory from:
+
+[color=red]Moldava[/Color]
+[nation]Komrat[/nation]
+[nation]Balti[/nation]
+[nation]Pridnestrovian Republic[/nation]
+
+[color=red]Slovakia[/color]
+[nation]East Slovakia[/nation]
+[nation]South West Slovakia[/nation]
+
+[color=red]Czech Republic/Czechoslovakia[/color]
+[nation]Sudeten[/nation]
+[nation]East Bohemia[/nation]
+
+[color=red]Georgia[/color]
+[nation]West Ossetia[/nation]
+[nation]Russtavi[/nation]
+
+[color=red]Army[/color]
+[nation]Armed forces of South Czechoslovakia[/nation]
+[nation]Air force of South Czechoslovakia[/nation]
