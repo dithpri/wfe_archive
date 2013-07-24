@@ -1,13 +1,13 @@
 [b][u]The 2nd British empire regional government[/b][/u]
 
 [u]Chairman:[/u]
-The new united Britsh empire  
+The New United British empire  
 [u]Chief of staff:[/u]
 (resvered)
 [u]Secretary of state of defence:[/u]
-###
+The Holy Empire of Free Sealand
 [u]Minster of foreign affairs:[/u]
-The Kingdom of Jeriatha
+###
 [u]World Assembly delegate:[/u]
 The Kingdom of Jeriatha
 [u]Intelligence minster:[/u]
@@ -21,5 +21,11 @@ The New United British empire
 The United States of Moriala
 The Kingdom of Jeriatha
 The Imperial State of Bialiya
+The Empire of Royal Manchukuo 
+The Kingdom of The French Bourbons
+The Holy Empire of Free Sealand
+###
+###
+###
 
 endorse our delegate [nation]Jeriatha[/nation]

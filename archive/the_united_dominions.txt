@@ -4,13 +4,10 @@
 -
 -
 [b]Host Member:[/b] [nation=short]Domanouq[/nation]
-[b]The President of the United Assembly:[/b] [nation=short]The Grand Danish Empire[/nation]
+[b]The President of the United Assembly:[/b]
 [list]
 [*][b]Chairman of the Union Department of Defence:[/b] [nation=short]Resaeland[/nation]
 [*][b]Chairman of the Union Department of Economy:[/b] [nation=short]Vellenum[/nation]
 [*][b]Chairman of the Union Department of Justice:[/b] [nation=short]Scottish Peoples Republic[/nation]
 [*][b]Chairman of the Union Department of International Affairs:[/b] [nation=short]Panaulas[/nation]
 [/list]
--
--
-[color=blue][b]Join our Forum:[/b][/color] [url=http://w11.zetaboards.com/The_United_Dominions/index/]Forum[/url]

@@ -8,17 +8,17 @@ Prime Minister: [nation]Great Adrianland[/nation]
 Deputy Prime Minister: [nation]Sylven[/nation]
 
 Chancellor: [nation]Fuso[/nation]
-Home Secretary: [b]Election T.B.A.[/b]
+Home Secretary: [b]T.B.A.[/b]
 Foreign Secretary: [nation]Mordakia[/nation]
 Defence Secretary: [nation]Rutannia[/nation]
 Political Freedoms Minister: [nation]Shantak-kun[/nation]
-Civil Rights Minister: Planned
+Civil Rights Minister: 
 
 [b]JUDICIARY:[/b] 
 
-Lord Chief Justice: Planned
+Lord Chief Justice: 
 
 [b]CIVIL SERVICE: [/b]
 
-Lobbyist for the Government: Planned
+Government Lobbyist: [nation]Mordakia[/nation]
 Head Cartographer: [nation]Shantak-kun[/nation]
