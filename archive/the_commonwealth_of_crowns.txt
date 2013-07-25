@@ -15,10 +15,11 @@ Minister(Culture):[nation]Alkoul[/nation]
 
 [b]Secretariat[/b]
 Justice: [nation]Aquenetta[/nation]
-Immigration:[nation]Besate[/nation]
+Immigration:
 
 [hr]
 [b]Crowns Court of Justice[/b]
  [nation=short]Oberseewald[/nation](CJ) [nation=short]Vetega[/nation](J), [nation=short]Imperial Yamea[/nation](J)
-Prosecutor General:  [hr]
+Prosecutor General:  
+Lord Commander: [hr]
  [url=http://www.nationstates.net/region=commonwealth_of_crowns]Click here for Our Colonies[/url]

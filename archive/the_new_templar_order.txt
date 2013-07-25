@@ -4,18 +4,18 @@ Welcome to The New Templar Order, a region that accepts all, and fights against 
 
 [u][color=darkred][b]The Government[/b][/color][/u]
 
-Overlord: [nation=short]Brentonania[/nation] [color=darkred](T)[/color]
+Overlord: 
 President: 
 Vice President: [nation=short]The Templarian Order[/nation] (A)
 Secretary of State:
 Secretary of Defense: 
-Secretary of Recruitment: [nation=short]The Poor Fellow-Soldiers of Christ[/nation] [color=darkred](T)[/color]
-Secretary of Foreign Affairs: [nation=short]Ferenginar Prime[/nation] [color=darkred](T)[/color]
+Secretary of Recruitment: 
+Secretary of Foreign Affairs: 
 Secretary of Regional Affairs: 
 
 [u][color=darkred][b]The Imperial Senate [/b][/color][/u]
 
-Speaker: [nation=short]Federal Republic of Yugoslavia[/nation] [color=orange](I)[/color]
+Speaker: 
 Congressman: [nation=short]Shish Ka-bob[/nation][color=darkblue](WH)[/color]
 Congressman:
 

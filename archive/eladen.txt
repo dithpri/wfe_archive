@@ -17,7 +17,7 @@ Publishing: 23rd
 Arms: 18th
 Beverage: [color=orange][b]9th[/color][/b]
 Mining: 22nd
-Agriculture: 13th
+Agriculture: [color=orange][b]10th[/color][/b]
 Fishing: 12th
 Auto: [color=orange][b]9th[/b][/color]
 Insurance: 11th
@@ -28,11 +28,11 @@ Timber: 14th
 
 [I][b][color=green][u]#1 in World[/u][/color][/b][/I]
 
-[B]Most Armed, Most Crime, Least Safe, 
-Least Eco-Friendly[/b]: [nation=short]little flowers[/nation] 
+[B]Most Armed, Most Crime, Most Dangerouse, 
+Most Polluting[/b]: [nation=short]little flowers[/nation] 
 
 [color=blue][b]Endorsements[/color][/b]: All WA nations must endorse [nation=short]Virulent Racism[/nation] prior to endorsing other nations.
 
-[color=red]EDF Rating[/color]: 1505    
+[color=red]EDF Rating[/color]: 1515
 
 [i]Updated: 12/7/13[/i]&nbsp;

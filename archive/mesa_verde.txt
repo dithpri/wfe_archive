@@ -9,7 +9,7 @@
 [color=orange]Please endorse all government officials![/color]
 
 Acting President: [nation=short]San Xavier de Tanzania[/nation]
-Vice President: vacant
+Vice President: [nation=short]Marinar[/nation]
 Delegate: vacant 
 Vice Delegate: vacant
 Minister of Foreign Affairs: Vacant

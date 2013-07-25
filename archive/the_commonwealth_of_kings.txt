@@ -1,14 +1,20 @@
-[color=red]Welcome message:[/color][url=http://picosong.com/Fcpd]Welcome Message[/url]
+[color=red]Welcome message: [/color][url=http://picosong.com/Fcpd]Welcome Message[/url]
 
 [hr]
 
-[b][u]EXECUTIVE GOVERNMENT[/u][/b]
+[b][u][color=orange]EXECUTIVE GOVERNMENT[/color][/u][/b]
 Prime Minister: [nation=shortname]ShenGuo[/nation]
 Deputy Prime Minister: [color=blue]Vacant[/color]
 Lord Chief Justice: [nation=shortname]SaudiPakistan[/nation]
 [hr]
 
-Alert level: [color=green]GREEN[/color] | [url=http://www.nationstates.net/page=un]Join the WA[/url] | [b]Featured on: [color=red]1st May 2013[/color][/b]
+[b][u][color=orange]ADMINISTRATIVE GOVERNMENT[/color][/u][/b]
+Ministry of Defence and Internal Development: [color=blue]Vacant[/color]
+Ministry of International Development: [color=blue]Vacant[/color]
+Ministry of Culture and Education: [color=blue]Vacant[/color]
 [hr]
 
-[url=http://commonwealthofkings.africamotion.net]Regional Forum[/url] | [url=http://thomasalrich6.wix.com/commonwealth]Regional Map[/url] | [url=http://client01.chat.mibbit.com/?channel=%23CoK&amp;amp;server=irc.esper.net]IRC[/url] | [url=https://twitter.com/CommonwealthK]Twitter Page[/url] | [url=https://docs.google.com/forms/d/1WgQNkooxajwfm2XeGRaCYZWUaki67rFrYA3nC25Z-ZU/viewform]Embassy Application Request[/url] | [url=https://docs.google.com/forms/d/1WiP7YiDb8YvFXN1YMN-9a3Xjk0IQYRzAyHhykOiO5LA/viewform]Citizen Application Request[/url]
+Alert level: [color=green][B]LOW RISK[/B][/color] | [url=http://www.nationstates.net/page=un]Join the WA[/url] | [b]Featured on: [color=red]1st May 2013[/color][/b]
+[hr]
+
+[url=http://commonwealthofkings.africamotion.net]Regional Forum[/url] | [url=http://thomasalrich6.wix.com/commonwealth]Regional Map[/url] | [url=http://client01.chat.mibbit.com/?channel=%23CoK&amp;amp;server=irc.esper.net]Chat Room[/url] | [url=https://twitter.com/CommonwealthK]Twitter Page[/url] | [url=https://docs.google.com/forms/d/1WgQNkooxajwfm2XeGRaCYZWUaki67rFrYA3nC25Z-ZU/viewform]Embassy Application Request[/url] | [url=https://docs.google.com/forms/d/1WiP7YiDb8YvFXN1YMN-9a3Xjk0IQYRzAyHhykOiO5LA/viewform]Citizen Application Request[/url]
