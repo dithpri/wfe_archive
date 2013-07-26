@@ -1,0 +1,10 @@
+FACTS
+
+Nation: Eesti (Estonia in English)
+Capital: Tallinn
+Area: 43,075 km2
+Polulation: 1,286,540
+
+REGION
+ADDITIONAL: Closed
+Founded: July 25, 2013

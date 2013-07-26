@@ -10,8 +10,10 @@ SOF/UH/SRC: [nation]Neverdaunt 8bit[/nation]
 [nation]Retarika[/nation] S.R.S.
 [nation]The New Greek Republic[/nation]
 [nation]Asuiop[/nation]
-[nation]Lopehi[/nation]
-Sen
+[nation]Sengrial[/nation]
+Lopehi
+UFT:2%
+DEFCON 5
 [b]Off-Site Forum:[/b]
 [url=http://w11.zetaboards.com/Unitaria/index/]The Unitarian Union[/url]
 [b]Site[/b]

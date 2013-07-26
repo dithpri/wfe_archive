@@ -5,15 +5,18 @@
 [list]
 President: [nation]CommonWealth of Free Nations[/nation]
 Vice President: Apply
-Secretary of Region: Apply
+Chief of Election Committee: Apply
 Secretary of Defense: Apply
-Delegate: Apply
-Vice Delegate: Apply
 Congress: Election Soon!
 Speaker of Congress: Elections!
+Secretary of Foreign Relations: Apply
+[list]
+Delegate: Apply
+Vice Delegate: Apply
 Ambassador:Apply
 Ambassador:Apply
 Recruiter:Apply
 Recruiter:Apply
+[/list]
 [/list]
 Join the [url=http://www.nationstates.net/page=un]World Assembly[/url] and endorse your President [nation]CommonWealth of Free Nations[/nation].

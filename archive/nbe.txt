@@ -8,8 +8,8 @@ led by [nation=short]Desocia[/nation] towards a future of power, prosperity, and
 [color=scarlet][u]The Grand Imperial Council:[/b][/u]
 
 
-[b]Imperial Monarch:[nation=short]Desocia[/nation]
-Imperial Enforcer:[nation=short]The Amarican Empire[/nation]
+[b]Imperial Autocrat:[nation=short]Desocia[/nation]
+Imperial Guardian:[nation=short]The Amarican Empire[/nation]
 
 Minister of Culture:[nation=short]Makeb[/nation]
 Minister of Propaganda and Enlightenment:[nation=short]Zambia-Rhodesia[/nation]
