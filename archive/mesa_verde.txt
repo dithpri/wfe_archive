@@ -12,7 +12,7 @@ Acting President: [nation=short]San Xavier de Tanzania[/nation]
 Vice President: [nation=short]Marinar[/nation]
 Delegate: vacant 
 Vice Delegate: vacant
-Minister of Foreign Affairs: Vacant
+Minister of Foreign Affairs:  [nation=short]Woodland and Forest[/nation]
 Minister of Domestic Affairs: vacant
 Minister of the Environment: vacant
 Minister of Immigration: vacant
