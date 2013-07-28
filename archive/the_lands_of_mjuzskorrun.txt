@@ -1,7 +1,6 @@
-The Lands of Mjuzskorrun (Runh&thorn; keMjuzskorrun) is a supernation containing 6 sovereign nations:
+The Lands of Mjuzskorrun (Jul Runh&thorn; ke Mjuzskorrun) is a supernation containing 5 sovereign nations:
 [nation]Redentro[/nation] (Plazor keRedentro)
-[nation]Crejanh[/nation] (Jul ampiron ke Crejanh)
+[nation]Crejanh[/nation] (Jul Ampiron ke Crejanh)
 [nation]Halinyzrun[/nation] (Jul Rejanyrun ke Halinyzrun)
-[nation]Republiq ke En Theti[/nation] (Jul Stor Ducrun ke jul Driepupli&thorn; ke En Theti)
 [nation]Galethen[/nation] (Jul Ampiron ke Gale&eth;en)
-[nation]Ainguximoqrun[/nation] (Jul Plazor ke Ainguximo&thorn;run)
+[nation]Redentran Ainguximoqrun[/nation] (Jul Inektu&eth; ke Ainguximo&thorn;run Redentro&eth;a)

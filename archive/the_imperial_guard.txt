@@ -9,8 +9,8 @@
 Minister of Immigration and Customs: ....[nation=short]Taikoku[/nation]
 Minister of Defense and Intelligence: .......N/A
 Minister of Entertainment: ......................N/A
-Minister of Public Safety: ........................N/A 
-Minister of Environment: ........................N/A [hr][color=000080][b]Imperial Information[/b][/color]
+Minister of Public Safety: ........................N/A
+Minister of Environment: ........................[nation=short]Pultridus[/nation] [hr][color=000080][b]Imperial Information[/b][/color]
 
-[list][*]The election results are in! The government has been reinstated![/list]
+[list][*]Got an idea for a bill? Propose it in the legislative forum![/list]
 [hr]

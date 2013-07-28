@@ -5,7 +5,7 @@
 [color=gold][i]Regional[/i][/color]
 acting President: [nation=short]Azerzia[/nation]
 Prime Minister and Minister of Membership: [nation=short]Kennedystan[/nation]
-Minister of Foreign Affairs: [nation=short]Frankezia[/nation]
+Minister of Foreign Affairs and WAD: [nation=short]Frankezia[/nation]
 Minister of Internal Affairs: [nation=short]Quebecc[/nation]
 Minister of Justice: [nation=short]Cornish Republic[/nation]
 [color=gold][i]Realmic[/i][/color]

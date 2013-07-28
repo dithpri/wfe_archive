@@ -2,7 +2,7 @@ ASCOF is a great place. Founded on the principles of justice, democracy and free
 
 [i]Strength in unity, together in ideologies. [/i]
 
-[url=http://ascofconstitution.webs.com][b]YOUR CONSTITUTION[/b] [/url]
+[url=http://ascofconstitution.webs.com][b]CONSTITUTION[/b] [/url]
 
 [b][i][u]YOUR[/u][/i] GOVERNMENT:[/b]
 
@@ -16,11 +16,11 @@ Defence Secretary: [nation]Rutannia[/nation]
 Political Freedoms Minister: [nation]Shantak-kun[/nation]
 Civil Rights Minister: 
 
-[b]JUDICIARY:[/b] 
 
-Lord Chief Justice: 
 
-[b]CIVIL SERVICE: [/b]
+Lord Chief Justice: [nation]Absolute Power[/nation]
+
+
 
 Government Lobbyist: [nation]Mordakia[/nation]
 Head Cartographer: [nation]Shantak-kun[/nation]

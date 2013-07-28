@@ -1,16 +1,16 @@
 [color=blue][B][I]&amp;quot;FREEDOM, JUSTICE, AND PROSPERITY!&amp;quot;[/B][/I][/color]---[B]THE RISING [color=blue]CAPITALIST POWERHOUSE[/color] IN [U]NATIONSTATES[/U][/B]!
 
 [b][color=red]UPDATE: [/color]
-[region]The Epsilon District[/region] established its Inter-Regional ties with [region] AREA 54[/region][/b]
+[*][nation=short]Kara-Osea[/nation] Created its FIRST LEGAL Colony, [nation=short]Southern Osea[/nation][/b]
 
 [b][color=orange]ON LEGISLATION:
-A54RCB#021: Nuclear Proliferation Bill
-A54RCP#016: EMR BILL (Third Reading Passed)[/color][/b]
+A54RCB#021: Nuclear Proliferation Bill (Junked!)
+A54RCP#016: EMR BILL (PASSED!)[/color][/b]
 
-[b]Foreign Represent: [nation]TED Ambassador[/nation] 
-Regional Consul-General: [nation]Kara-Osea[/nation][/b]
+[b]Foreign Represent: [nation=short]TED Ambassador[/nation] 
+Regional Consul-General: [nation=short]Kara-Osea[/nation][/b]
 
-[b] POPULATION:[/b] 3,339,000,000 (source: A54CRP)
+[b] POPULATION:[/b] 3,407,000,000(source: A54CRP)
 
 [b]DEFENSE STATUS:[/b] LEVEL [color=gold][B]3[/B][/color]
 
@@ -21,6 +21,6 @@ Regional Consul-General: [nation]Kara-Osea[/nation][/b]
 []            A54DEF 5	FADE OUT (BLUE)
 
 [B]ACTIVE AND RESERVED MILITARY PERSONNEL:
-[/B] [color=red][B]134,347,726[/B][/color]
+[/B] [color=red][B]138,315,493[/B][/color]
 
-[b] SOLDIER-TO-CIVILIAN RATIO: [color=red]1:23 [/b][/color]
+[b] SOLDIER-TO-CIVILIAN RATIO: [color=red]1:24 [/b][/color]

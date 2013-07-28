@@ -1,10 +1,10 @@
-Esta tierra se caracteriza por una confrontacion entre paises socialistas y capitalistas, y ademas por la particularidad de que sus habitantes tienen cancer. La aparici&oacute;n de un nuevo y misterioso pa&iacute;s es acompa&ntilde;ada por la discordia y divisi&oacute;n en las alianzas tradicionales... y la creaci&oacute;n de otras nuevas.
+Esta tierra se caracteriza por una confrontacion entre paises socialistas y capitalistas, y ademas por la particularidad de que sus habitantes tienen cancer. Despu&eacute;s de que se conformo la Comunidad de Naciones de Tribuzz en el centro del continente, tanto los Poderes Centrales como el, por el momento independiente, pa&iacute;s de Ito buscan la expansi&oacute;n a trav&eacute;s de estas tierras cancerigenas, formando y reclutando nuevas naciones en territorios otrora inhabitables.
 
 Poderes Centrales:
 [nation]Mioland[/nation]
 [nation]Yrgksvol[/nation]
-[nation]Fedeland[/nation]
+[nation]Gargery[/nation]
 Comunidad de Naciones de Tribuzz
-[nation]Non-sosializ[/nation]
 [nation]Tribuzz1[/nation]
+[nation]Non-sosializ[/nation]
 [nation]Tribuzz2[/nation]
