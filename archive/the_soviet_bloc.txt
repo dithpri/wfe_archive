@@ -8,12 +8,12 @@ Founding Father: [nation]Ryaanistan[/nation]
 World Assembly Delegate: [nation]Contravian[/nation]
 
 [color=gray][u]Regional Government Assembly:[/u][/color]
-Foreign Affairs:
+Foreign Affairs:[nation]Axonic[/nation]
 Security:[nation]Confederacy of Bavarian States[/nation]
 Judicial Affairs:[nation]Cornonor[/nation]
 Environment:[nation]Tobagana[/nation]
 Social Affairs:[nation]Divokl[/nation]
 Immigration:[nation]Contravian[/nation]
-Recruitment:
+Recruitment:[nation]Consortium of Manchukuo[/nation]
 
-[color=blue]RMB Topic: Ministers of Foreign Affairs and Recruitment?[/color]
+[color=blue]RMB Topic: Please Endorse Contravian![/color]

@@ -10,7 +10,7 @@ Prime Minister: [nation]Great Adrianland[/nation]
 Deputy Prime Minister: [nation]Sylven[/nation]
 
 Chancellor: [nation]Fuso[/nation]
-Home Secretary: 
+Home Secretary: Election3-4 August
 Foreign Secretary: [nation]Mordakia[/nation]
 Defence Secretary: [nation]Rutannia[/nation]
 Political Freedoms Minister: [nation]Shantak-kun[/nation]
@@ -22,5 +22,5 @@ Lord Chief Justice: [nation]Absolute Power[/nation]
 
 
 
-Government Lobbyist: [nation]Mordakia[/nation]
-Head Cartographer: [nation]Shantak-kun[/nation]
+Lobbyist: [nation]Mordakia[/nation]
+Cartographer: [nation]Shantak-kun[/nation]
