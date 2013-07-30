@@ -2,13 +2,13 @@
 
 [color=purple]Head of State:[/color][nation]South Arabia[/nation]
 
-[color=green]Head of Government:[/color][nation]Muhammadia[/nation]
+[color=green]Head of Government:[/color][nation]Aden Protectorate[/nation]
 
-[color=brown]Minister of The Interior and Religious Affairs:[/color][nation]Aden Protectorate[/nation]
+[color=brown]Supreme Ayatollah:[/color][nation]Muhammadia[/nation]
 
 [color=blue]Minister of Foreign Affairs:[/color][nation]South Yemen Republic[/nation]
 
-[color=red]Minister of Justice:[/color]Vacant
+[color=red]Minister of Justice:[/color][nation]Jordan-Khali[/nation]
 
 [color=orange]Minister of Defense:[/color]Vacant[/b]
 

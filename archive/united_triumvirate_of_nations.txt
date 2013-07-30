@@ -14,8 +14,6 @@ Chief Justice: [nation=short]ThatOtherCountry[/nation]
 High Chancellor: [nation=short]Partirius[/nation]
 Secretary of State: [color=red]Vacant[/color]
 Secretary of the Interior: [color=red]Vacant[/color]
-Secretary of Defense: [color=red]Vacant[/color]
-Secretary of the Treasury: [color=red]Vacant[/color]
 
 [u][b]Senate[/b][/u]
 
@@ -31,6 +29,6 @@ Justice: [color=red]Vacant[/color]
 
 [u][b]World Assembly Delegation[/b][/u]
 
-WA Delegate: [color=red]Vacant[/color]
+WA Delegate: [nation=short]ThatOtherCountry[/nation]
 
 [b]Next Election:[/b] [b][color=red]TBA[/color][/b]

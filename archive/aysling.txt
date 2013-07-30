@@ -12,4 +12,4 @@
 [url=http://oi41.tinypic.com/2s6m0is.jpg]Geographical Map[/url]
 
 [color=blue]-=[[/color][color=purple]Regional News[/color][color=blue]]=-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[/color]
-[color=red]Election: [A=1] [C=2] [RI=0] | Referendum: [Y=2] [N=1][/color]
+[color=red]Election: [A=1] [C=2] [RI=1] [D=0] | Referendum: [Y=2] [N=2][/color]
