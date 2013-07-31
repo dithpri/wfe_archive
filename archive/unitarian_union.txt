@@ -1,7 +1,7 @@
 The Unitarian Union is based around the currency called the Unitaria. The Unitaria (U), created by Pasovo NacoBo, aims to unite diverse economies under one strong currency and introduce economic equality.
- [b]Government[/b]
+[b]Government[/b]
 President: [nation]Flaskjinia[/nation]
-Vice President: [nation]plipperoustocrat[/nation] --Still attractive, lol
+Vice President: [nation]plipperoustocrat[/nation]
 SOB: [nation]Kassaran[/nation]
 SOS: [nation]Siaos[/nation]
 SOF/UH/SRC: [nation]Neverdaunt 8bit[/nation]
@@ -12,7 +12,7 @@ SOF/UH/SRC: [nation]Neverdaunt 8bit[/nation]
 [nation]Asuiop[/nation]
 [nation]Sengrial[/nation]
 New Greek Republic
-Lopehi
+[nation]Lopehi[/nation]
 UFT:2%
 DEFCON 5
 [b]Off-Site Forum:[/b]

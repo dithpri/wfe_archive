@@ -15,7 +15,7 @@ Economy: 55th
 Manufacturing: 11th
 Publishing: 23rd
 Arms: 18th
-Beverage: [color=orange][b]9th[/color][/b]
+Beverage: [color=orange][b]8th[/color][/b]
 Mining: 22nd
 Agriculture: [color=orange][b]10th[/color][/b]
 Fishing: 12th
@@ -28,7 +28,7 @@ Timber: 14th
 
 [I][b][color=green][u]#1 in World[/u][/color][/b][/I]
 
-[B]Most Armed, Most Crime, Most Dangerouse, 
+[B]Most Armed, Most Crime, Most Dangerous,  
 Most Polluting[/b]: [nation=short]little flowers[/nation] 
 
 [color=blue][b]Endorsements[/color][/b]: All WA nations must endorse [nation=short]Virulent Racism[/nation] prior to endorsing other nations.

@@ -1,7 +1,7 @@
-Welcome to the free lands of Das Imperium! Endorse the [b][color=Gold]Imperial Regent[/color].[/b]
+Welcome tof Das Imperium! Endorse the [b][color=Gold]Steward[/color].[/b]
 
 [hr]
-[b][color=Gold]Imperial Regent[/color] = [nation]Vacant[/nation][/b]
+[b][color=Gold]Steward[/color] = [nation]East Brandenburg[/nation][/b]
 
 [color=teal]Imperial Marshal [/color] = [nation]Vacant[/nation]
 [color=teal]Imperial Senator[/color] = [nation] NONE [/nation]
