@@ -2,10 +2,10 @@ The NLR or &amp;#39;New Lunar Republic&amp;#39;, is an alliance for supporters o
 
 Leader: [nation]The Feedom Allaince[/nation]
 
-Military Advisior: [nation]The Feedom Allaince[/nation]
-Social/Culture Advisior: none
-Business/Economic Advisor: none
-Science Advisor: [nation]Gallopfrey and the Pony Republic Therof[/nation]
+Military Adviser: [nation]The Feedom Allaince[/nation]
+Social/Culture Adviser: none
+Business/Economic Adviser: [nation]Bronyopia[/nation]
+Science Adviser: [nation]Gallopfrey and the Pony Republic Therof[/nation]
 Minister of War: [nation]The New Lunar Republic of Armed Ponies[/nation]
 Minister of Peace: none
 Recruiter: [nation]Starlightia[/nation] 

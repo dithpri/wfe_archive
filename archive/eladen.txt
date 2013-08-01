@@ -7,7 +7,7 @@ Population: 178th
 Smartest: 793rd
 Culture: 684th
 
-Defense: 28th
+Defense: 29th
 Armed: 153rd
 Police: 367th
 
@@ -21,6 +21,7 @@ Agriculture: [color=orange][b]10th[/color][/b]
 Fishing: 12th
 Auto: [color=orange][b]9th[/b][/color]
 Insurance: 11th
+Cheese: [color=orange][b]7th[/b][/color]
 Gambling: 16th
 IT: 18th
 Basket Weaving: [b][color=orange]9th[/b][/color]
@@ -35,4 +36,4 @@ Most Polluting[/b]: [nation=short]little flowers[/nation]
 
 [color=red]EDF Rating[/color]: 1515
 
-[i]Updated: 12/7/13[/i]&nbsp;
+[i]Updated: 31/7/13[/i]&nbsp;

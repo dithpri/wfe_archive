@@ -1,5 +1,3 @@
-                           Gamblar
+   [list] [color=blue] King [/color]-  [nation=Neuschottland]
 
-King - Aaron I of Neuschottland 
-
-Governor - Richard II of Twangdang
+ [color=blue] Governor [/color]-  [nation=Twangadang]
