@@ -22,5 +22,5 @@ Lord Chief Justice: [nation]Absolute Power[/nation]
 
 
 
-[i]Lobbyist: [/i][nation]Mordakia[/nation]
-[i]Cartographer: [/i][nation]Shantak-kun[/nation]
+Lobbyist: [nation]Mordakia[/nation]
+Cartographer: [nation]Shantak-kun[/nation]

@@ -1,17 +1,17 @@
 [color=blue][B][I]&amp;quot;FREEDOM, JUSTICE, AND PROSPERITY!&amp;quot;[/B][/I][/color]---[B]THE RISING [color=blue]CAPITALIST POWERHOUSE[/color] IN [U]NATIONSTATES[/U][/B]!
 
 [b][color=red]UPDATE: [/color]
-[*]Southern Osea Held Its First National Election[/b]
+[*]Southern Osea Held Its First Interim Election[/b]
 
 [b][color=orange]ON LEGISLATION:
-A54RCR#025: Repeal Nuclear Proliferation Bill
-A54RCB#030: Regional Defense Bill
-A54RCB#031: Integration Bill[/color][/b]
+A54RCR#025: Nuclear Proliferation Bill (First Reading Passed)
+A54RCB#030: Regional Defense Bill (First Reading Passed)
+A54RCB#031: Integration Bill (Junked)[/color][/b]
 
 [b]Foreign Represent: [nation=short]TED Ambassador[/nation] 
 Regional Consul-General: [nation=short]Kara-Osea[/nation][/b]
 
-[b] POPULATION:[/b] 3,407,000,000(source: A54CRP)
+[b] POPULATION:[/b] 1,974,000,000(source: A54CRP)
 
 [b]DEFENSE STATUS:[/b] LEVEL [color=gold][B]3[/B][/color]
 
@@ -22,6 +22,6 @@ Regional Consul-General: [nation=short]Kara-Osea[/nation][/b]
 []            A54DEF 5	FADE OUT (BLUE)
 
 [B]ACTIVE AND RESERVED MILITARY PERSONNEL:
-[/B] [color=red][B]138,315,493[/B][/color]
+[/B] [color=red][B]146,546,618[/B][/color]
 
-[b] SOLDIER-TO-CIVILIAN RATIO: [color=red]1:24 [/b][/color]
+[b] SOLDIER-TO-CIVILIAN RATIO: [color=red]1:12 [/b][/color]

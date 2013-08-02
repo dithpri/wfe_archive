@@ -2,15 +2,15 @@
 
 [b][u]Currency Exchange[/b][/u]
 Soviet is base currency:
-1 Soviet = 0.9 Pebbles
-1 Soviet = 1 Quill
-1 Soviet = 1.5 Golds
-1 Soviet = 1.5 Thomdollars
-1 Soviet = 2.25 Grains
-1 Soviet = 2.25 Blerks
+1 Soviet = 1 Pebbles
+1 Soviet = 1.1 Quill
+1 Soviet = 1.6 Golds
+1 Soviet = 1.6 Thomdollar
+1 Soviet = 1.6 Ruppee 
+1 Soviet = 2.3 Blerks
 
 [b][u]Current Alliances:[/b][/u]
 [b]Spanish-African Alliance [/b]: Socialist Capitalslits, Socialist Capitalslits republic, Dat Island you know of
 [b]Asian Oceania Treaty [/b]: The Socialist Islands of Capitalism, Verrocco, Aandora
-[b]The WARSAW Pact [/b]: The United Soviet Russia, Monroe, Banoi, Tingdom
+[b]The WARSAW Pact [/b]: The United Soviet Russia, Monroe, Banoi, Tingdom, Ceylon, Fersblerk
 [b]The European Union [/b]: First Second &amp;amp; Fourth Thomradeopolis, Third Thomradopolis (Spealt differently for no good reason), Capitalist Central,

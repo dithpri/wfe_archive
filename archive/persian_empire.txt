@@ -6,6 +6,6 @@ Capital: [region]Empire of Iran[/region]
 
 Colonies: [region]Parsa[/region]
 
-Confederates: [region]Persis[/region] and [region]Greece[/region].
+Confederates: [region]Persis[/region], [region]Greece[/region], [region]Eran Shahr[/region]
 
 Conquests: [region]Ctesiphon[/region] and [region]Armenia[/region].[/b]

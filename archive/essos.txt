@@ -1,1 +1,7 @@
-Hooyah
+   [list] [color=blue] King [/color]-  [nation=Neuschottland]
+
+ [color=blue] Governor [/color]-  [nation=Twangadang]
+
+[/list][list][color=blue] Knights [/color]- [nation=Bunawunna]
+[nation=Schweigenstein]
+[nation=Tiki Tiki Kakaw Kakaw]
