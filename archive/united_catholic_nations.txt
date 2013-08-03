@@ -3,12 +3,12 @@ Vice-President: [nation]Moralem Populi[/nation]
 
 HOUSE OF THE PARLIAMENT
 Prime Minister: [nation]Muggledrun[/nation]
-Members:[nation]Jafraseco[/nation][nation]USUA[/nation][nation]Bearded Dragon Empire[/nation][nation]WestgateJohnP[/nation]
+Members:[nation]Jafraseco[/nation][nation]USUA[/nation][nation]WestgateJohnP[/nation]
 
 
 SUPREME COURT
 Chief Justice: [nation]Inglia[/nation]
-Associate Justices:[nation]CankerSore[/nation][nation]USAUS[/nation][nation]Zanisibar[/nation][nation]Marberland[/nation]
+Associate Justices:[nation]CankerSore[/nation][nation]USAUS[/nation][nation]Marberland[/nation]
 
 Ambassador
 [nation]NEW USAA[/nation]
