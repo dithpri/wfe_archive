@@ -1,8 +1,8 @@
 [color=blue]Regional Government[/color]
 [color=red]President[/color]:[nation]flakaland[/nation]
-[color=red]Vice President[/color]:[nation]Vatix[/nation]                        
+[color=red]Vice President[/color]:[nation]derosh[/nation]                        
 [color=purple]Sec. Of Defence[/color]:[nation]Zachsland[/nation]
-[color=purple]Supreme Judge[/color]:[nation]Calostile[/nation]
+[color=purple]Supreme Judge[/color]:[nation]marttin[/nation]
 [color=purple]Ambassador of foreign relations[/color]:[nation]Ancient Union[/nation]
 
 [color=blue]May democracy reign forever[/color]

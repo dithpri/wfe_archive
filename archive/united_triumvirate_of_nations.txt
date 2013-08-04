@@ -29,6 +29,6 @@ Justice: [color=red]Vacant[/color]
 
 [u][b]World Assembly Delegation[/b][/u]
 
-WA Delegate: [nation=short]ThatOtherCountry[/nation]
+WA Delegate: [nation=short]Narhinia[/nation]
 
 [b]Next Election:[/b] [b][color=red]TBA[/color][/b]
