@@ -2,8 +2,7 @@ UIA - United Imperial Alliance
 [u]The High Council[/u]
 [nation]Veliria[/nation]
 [nation]The Cadian Dominion[/nation]
-[nation]Haltioiden[/nation]
-[nation]McContrag[/nation]
+
 
 [u]The Council[/u]
 [u]Contains every nation (Including Anterrans, Machines and Rilthens)[/u]

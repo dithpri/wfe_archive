@@ -1,7 +1,8 @@
 [b][color=red][u].:WELCOME TO THE UNION OF COMMUNIST REPUBLICS:.[/b][/color][/u][color=red]
 
 [u]GOVERNMENT:[/u]
-President: [nation]the united communist republic[/nation] (temporary)
+President: 
+Vice-President: [nation]the united communist republic[/nation]
 Minister of Defense: [nation]Omorov-Nier[/nation]
 Minister of Foreign Affairs: [nation]free korealand[/nation]
 Minister of Internal Iffairs: [nation]lunaka[/nation]

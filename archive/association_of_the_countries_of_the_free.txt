@@ -1,4 +1,4 @@
-ASCOF is a great place. Founded on the principles of justice, democracy and freedom, ASCOF guarantees all of its members full rights and freedom for self-determination. We&amp;#39;re just right for you! 
+ASCOF is a great place. Founded on the principles of justice, democracy and freedom, ASCOF guarantees all of its members full rights and freedom for self-determination. 
 
 [i]Strength in unity, together in ideologies. [/i]
 
@@ -7,10 +7,10 @@ ASCOF is a great place. Founded on the principles of justice, democracy and free
 [b][i][u]YOUR[/u][/i] GOVERNMENT:[/b]
 
 Prime Minister: [nation]Great Adrianland[/nation]
-Deputy Prime Minister: [nation]Sylven[/nation]
+Deputy PM: [nation]Sylven[/nation]
  
-Chancellor: Election T.B.C.
-Home Secretary: Election3-4 August
+Chancellor: 8-9Aug
+Home Secretary: [nation]Brinavia[/nation]
 Foreign Secretary: [nation]Mordakia[/nation]
 Defence Secretary: [nation]Rutannia[/nation]
 Political Freedoms Minister: [nation]Shantak-kun[/nation]

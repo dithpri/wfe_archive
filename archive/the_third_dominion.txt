@@ -8,7 +8,7 @@ Secretary of War: [nation=short]Conceptina[/nation]
 Secretary of Internal Affairs: [nation=short]Republic of the North[/nation]
 Secretary of Foreign Affairs: [nation=short]Zaalbar[/nation]
 ----------------------------------------------------
-Senators: [nation=short]Zeros Britannia[/nation], [color=red][i]vacant[/i][/color]
+Senators: [color=red][i]vacant[/i][/color]
 Representatives: [nation=short]Romallest[/nation]
 
 [url=http://thethirdominion.boardonly.com]Regional Forum[/url]
