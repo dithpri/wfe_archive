@@ -8,4 +8,6 @@ Vice President: [nation=short]Misopris[/nation]
 WA Delegate: [nation=short]United Provinces of Atlantica[/nation] (as Knyghtarian Delegate, they represent us in the WA)
 Vice Delegate: [nation=short]Redbird[/nation]
 Minister of Internal Affairs: [nation=short]The Holy See of Science[/nation]
-Minister of External Affairs: [nation=short]The Russian Imperial States[/nation][/color][/b]
+Minister of External Affairs: [nation=short]The Russian Imperial States[/nation][/color]
+
+Return home!  We have been refounded![/b]

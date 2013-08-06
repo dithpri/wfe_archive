@@ -9,7 +9,7 @@
 Minister of Immigration and Customs: ....[nation=short]Taikoku[/nation]
 Minister of Defense and Intelligence: .......N/A
 Minister of Entertainment: ......................N/A
-Minister of Public Safety: ........................N/A
+Minister of Public Safety: ........................[nation=short]Merriwhether[/nation]
 Minister of Environment: ........................[nation=short]Pultridus[/nation] [hr][color=000080][b]Imperial Information[/b][/color]
 
 [list][*]Got an idea for a bill? Propose it in the legislative forum![/list]

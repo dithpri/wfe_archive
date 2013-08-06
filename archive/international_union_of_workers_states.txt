@@ -20,6 +20,8 @@ __________________________________
 [nation]Islo Republique di Antova[/nation]
 [nation]Mongalan[/nation]
 [nation]Los Cartagenas[/nation]
+[nation]Pasty[/nation]
+[nation]Zeficia[/nation]
 
 __________________________________
 
