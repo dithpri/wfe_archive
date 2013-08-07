@@ -3,13 +3,11 @@
 [color=blue]Here the members of the IDA (the Defense Council) will meet.  Each member region must send a representative.  The IDA is an alliance of regions dedicated to each other&amp;#39;s mutual defense.[/color]
 
 [i]Member Regions[/i]
-- [region]Libertatem[/region]
-- [region]Federation of Free States[/region]
-- [region]New Republica[/region]
-- [region]Central Pacific Empire[/region]
-- [region]The Commonwealth of Crowns[/region]
-- [region]Wolfmania[/region]
-
-* In Progress of Ratification
+- [region]Libertatem[/region] -- [nation]Libertatem3[/nation]
+- [region]Federation of Free States[/region] -- [nation]Ampadov[/nation]
+- [region]New Republica[/region] -- [nation]1st Remnants Army[/nation]
+- [region]Central Pacific Empire[/region] -- [nation]Central Pacific Empire IDA Treaty Rep[/nation]
+- [region]The Commonwealth of Crowns[/region] -- [nation]CoC Chancellor[/nation]
+- [region]Wolfmania[/region] -- currently unrepresented
 
 [b][url=http://www.nationstates.net/nation=the_ida_headquarters/detail=factbook/id=139127]The IDA Treaty[/url][/b]

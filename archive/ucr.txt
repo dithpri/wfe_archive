@@ -2,7 +2,7 @@
 
 [u]GOVERNMENT:[/u]
 President: 
-Vice-President: [nation]the united communist republic[/nation]
+Vice-President: 
 Minister of Defense: [nation]Omorov-Nier[/nation]
 Minister of Foreign Affairs: [nation]free korealand[/nation]
 Minister of Internal Iffairs: [nation]lunaka[/nation]

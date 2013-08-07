@@ -13,12 +13,12 @@ Police: 545th
 
 Economy: 55th
 Manufacturing: 11th
-Publishing: 23rd
+Fishing: [color=orange][b]7th[/b][/color]
 Arms: 18th
 Beverage: [color=orange][b]8th[/color][/b]
 Mining: 20th
 Agriculture: [color=orange][b]10th[/color][/b]
-Fishing: 12th
+Publishing: 23rd
 Auto: [color=orange][b]9th[/b][/color]
 Insurance: 11th
 Cheese: [color=orange][b]7th[/b][/color]

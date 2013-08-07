@@ -18,5 +18,7 @@ Ministro de defensa: -
 
 Ministro de RR.II: -
 
-Regiones Aliadas: [region]Mare Fortuna[/region]
+Ministro de Relaciones Coloniales: -
+
+Regiones Aliadas: [region]Mare Fortuna[/region], [region]Lusitania Galega[/region]
 

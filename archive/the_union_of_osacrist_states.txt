@@ -2,10 +2,10 @@ Welcome to [region]The Union of Osacrist States[/region]! All nations are welcom
 [color=blue]We now offer housing for victims of invasions.[/color]
 
 Regional Government
-Minister of Defense: [nation]SSO[/nation]
-Minister of Foreign Affairs: [nation]The Western States Of Osacracy[/nation]
-Minister of Law: [nation]West Czech[/nation]
-Minister of Intelligence: [nation]HaBbein[/nation]
-Minister of Elections: [nation]The Zambola Federation[/nation]
+Minister of Defense: [nation=noflag]SSO[/nation]
+Minister of Foreign Affairs: [nation=noflag]The Western States Of Osacracy[/nation]
+Minister of Law: [nation=noflag]West Czech[/nation]
+Minister of Intelligence: [nation=noflag]HaBbein[/nation]
+Minister of Elections: [nation=noflag]The Zambola Federation[/nation]
 
 [url=http://osacristnations.forumotion.com]Visit and join our forum![/url]

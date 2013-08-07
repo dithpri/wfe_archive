@@ -1,13 +1,20 @@
-   [list] [color=blue] King [/color]-  [nation=Neuschottland]
+   [list] [color=blue] King [/color]
+-  [nation=Neuschottland]
 
- [color=blue] Governor [/color]- [nation=Twangadang]
+ [color=blue] Governor [/color]
+- [nation=Twangadang]
 
-[/list][list][color=blue] Lords [/color]- [nation=Bunawunna]
+[/list][list][color=blue]Lords [/color]
+- [nation=khalesi]
 - [nation=Schweigenstein]
 - [nation=Tiki Tiki Kakaw Kakaw]
 - [nation=Kazikistan]
 - [nation=Velvet Hills]
 
-[/list][list][color=blue] Feifs [/color]- [nation=Kablomin]
+[/list][list][color=blue] Feifs [/color]
+- [nation=Kablomin]
 - [nation=Anthenia]
 - [nation=Xenorobia]
+
+[/list][list][color=blue] Vassals [/color]
+ - [nation=Bunawunna]

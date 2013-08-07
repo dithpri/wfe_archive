@@ -1,12 +1,13 @@
-The United Imperial Armed Forces of [region]The New Inquisition[/region] and [region]The Land of Kings and Emperors[/region].
+The United Imperial Armed Forces of [region]The New Inquisition[/region], [region]The Land of Kings and Emperors[/region] and [region]Albion[/region].
 
 [b][u]The Imperial Command[/u][/b]
 
-Joint Commander: Field Marshal [nation=short+noflag]Charles Cerebella[/nation]
-Deputy Commander: Lieutenant-General [nation=short+noflag]Christopher Bishop[/nation]
+Joint Commander: Field Marshal [nation=short+noflag]Christopher Bishop[/nation]
+Deputy Commander: Lieutenant-General [nation=short+noflag]Edward Leben[/nation]
+Associate Commander: Field Marshal [nation=short+noflag]OnderKelkia[/nation], Field Marshal [nation=short+noflag]Charles Cerebella[/nation] &amp;amp; General [nation=short+noflag]North East Somerset[/nation]
 
 TNI Division Commander: Major-General [nation=short+noflag]Cerian Quilor[/nation]
-LKE Division Commander: Major-General [nation=short+noflag]Cephal Talleyrand[/nation]
+LKE Division Commander: Major-General [nation=short+noflag]Valfor[/nation]
+Albion Division Commander: Major-General [nation=short+noflag]MagentaFairy[/nation]
 
-Assistant Commander: Major-General [nation=short+noflag]North East Somerset[/nation]
-Assistant Commander: Field Marshal [nation=short+noflag]OnderKelkia[/nation]
+Adjutant Commander: Brigadier [nation=short+noflag]Cephal Talleyrand[/nation]
