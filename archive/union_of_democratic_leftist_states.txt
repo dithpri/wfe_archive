@@ -9,10 +9,10 @@ Minister of Foreign Affairs and WAD: [nation=short]Frankezia[/nation]
 Minister of Internal Affairs: [nation=short]Quebecc[/nation]
 Minister of Justice: [nation=short]Cornish Republic[/nation]
 [color=gold][i]Realmic[/i][/color]
-Governor of the Vineyard: [nation=short]Kennedystan[/nation]
-Governor of Libera Terras: N/A
-Governor of Mormont: [nation=short]Sennasia[/nation]
-Governor of Rabocie Ray: [nation=short]Racao[/nation]
+Consul of the Vineyard: TBD
+Consul of Libera Terras: [nation=short]Chowa[/nation]
+Consul of Mormont: [nation=short]Frankezia[/nation]
+Consul of Rabocie Ray: [nation=short]Racao[/nation]
 [b]Please endorse all members of the government[/b]
 
 [hr][color=green][b]Regional Information[/b][/color]

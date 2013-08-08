@@ -1,9 +1,10 @@
 [b][u]Welcome to the Eastern Hemisphere![/b][/u]
-The region is lead by a council of WA members, each with various roles. To become a member of the council or to obtain another role, you must impress one of the region&amp;#39;s rulers.
+The region is lead by a council of WA members, each with various roles. To obtain a role, you must impress one of the region&amp;#39;s rulers.
 [b][u]Members of the council[/b][/u]
-[nation]The Socialist Islands of Capitalism[/nation] - [color=platinum]Delegate of the Realm, Supreme-Admiral, Master of Economy[/color]
-[nation]The United Soviet Russia[/nation] - [color=gold]Founder, Supreme-General, Master of Defence[/color]
-[nation]Socialist Capitslists[/nation] - [color=silver]High-Priest, Master of Law, Master of Relations[/color]
-[nation]The Republic of Tingdom[/nation] - [color=bronze]Supreme-Pilot[/color]
+[nation]The Socialist Islands of Capitalism[/nation] - [color=diamond]Delegate of the Realm, Supreme-Admiral, Master of Economy[/color]
+[nation]The United Soviet Russia[/nation] - [color=Platinum]Founder, Supreme-General, Master of Defence[/color]
+[nation]Socialist Capitslists[/nation] - [color=gold]High-Priest, Master of Law, Master of Relations[/color]
+[nation]The Republic of Tingdom[/nation] - [color=silver]Supreme-Pilot[/color]
+[nation]Thomradeopolis[/nation] - [color=bronze]Grand Advisor[/color]
 [b][u]Currency Exchange[/b][/u]
 1 Soviet = 1 Pebble = 1.1 Quill = 1.6 Gold = 1.6 Rupee = 1.8 Thomdollar = 2.3 Blerks
