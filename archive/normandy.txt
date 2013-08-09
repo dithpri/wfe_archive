@@ -1,9 +1,5 @@
-[b][color=darkred]Welcome to Normandy, a new region destined for great things! If you want any information about the region, please feel free to contact the Duke.[/color][/b]
+[b][color=darkred]Welcome to Normandy! If you want any information about the region, please feel free to contact the Duke.[/color][/b]
 
 [b]Duke of Normandy[/b]: [nation=short]Green Forester[/nation]
-[b]Prime Minister[/b]: [nation=short]Cunard-White Star[/nation]
-[b]Speaker[/b]: [nation=short]Kannap[/nation]
 
-[color=darkblue][b]Nations should join the World Assembly endorse our WA Delegate, [nation=short]Kidlantis[/nation].[/b][/color]
-
-[b][url=http://w11.zetaboards.com/Duchy_of_Normandy/index/]Join our community forums, and participate in our regional government![/url][/b]
+[b][url=http://w11.zetaboards.com/Duchy_of_Normandy/index/]Join our community forums by clicking here![/url][/b]
