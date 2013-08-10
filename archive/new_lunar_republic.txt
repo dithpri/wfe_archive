@@ -7,5 +7,5 @@ Social/Culture Adviser: none
 Business/Economic Adviser: [nation]Bronyopia[/nation]
 Science Adviser: [nation]Gallopfrey and the Pony Republic Therof[/nation]
 Minister of War: [nation]The New Lunar Republic of Armed Ponies[/nation]
-Minister of Peace: none
+Minister of Peace/ Morale:[nation]Apple-Loosa[/nation]
 Recruiter: [nation]Starlightia[/nation] 
