@@ -1,14 +1,3 @@
 [b]SIEG HEIL![/b]
 
-The Reichskanzlei is a refuge for displaced citizens of [region]Reich[/region].
-
-[b]Current Government Officials:[/b]
-Reichsdelegate: [nation]The Misotheist Reich[/nation]
-Reichsfuhrer: [nation]Der Deutsche Reichstag[/nation]
-Minister of War: [nation]Tiberium the Last Reich[/nation]
-Minister of Intelligence and Propaganda: [nation]Benetta[/nation]
-Minister of Foreign Affairs: [i]vacant[/i]
-
-[b]Endorse Reichsdelegate [nation=short+noflag]The Misotheist Reich[/nation] immediately.[/b]
-
-[b]SIEG HEIL![/b]
+[b][color=red]RELOCATION ORDERS:[/color] All citizens of the [region]Reichskanzlei[/region] are to relocate to [region]The Fascist Union[/region] immediately.[/b]

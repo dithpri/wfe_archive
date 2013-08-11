@@ -8,9 +8,9 @@ Lord Chief Justice: [nation=shortname]SaudiPakistan[/nation]
 [hr]
 
 [b][u][color=orange]ADMINISTRATIVE GOVERNMENT[/color][/u][/b]
-Minister of Homeland Security: [color=blue]Vacant[/color]
+Minister of Homeland Security: [nation=shortname]Juliusland[/nation]
 Minister of International Development: [color=blue]Vacant[/color]
-Minister of Culture and Education: [color=blue]Vacant[/color]
+Minister of Culture and Education: [nation=shortname]Lyncanestria[/nation]
 Minister of Immigration: [color=blue]Vacant[/color]
 [hr]
 

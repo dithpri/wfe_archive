@@ -17,11 +17,10 @@ Minister(Culture):[nation]Alkoul[/nation]
 
 [b]Secretariat[/b]
 Justice: [nation]Aquenetta[/nation]
-Immigration:
 
 [hr]
 [b]Crowns Court of Justice[/b]
  [nation=short]San Monteriano[/nation](CJ), [nation=short]The Unified Hawaiian Islands[/nation][(J), [nation=short]Zagornias[/nation](J)
-Prosecutor General:  
+Prosecutor General: [nation=short]Wyethalania[/nation] 
 Lord Commander: [hr]
  [url=http://www.nationstates.net/region=the_commonwealth_empire]Click here for [b]Our Colonies[/b][/url]

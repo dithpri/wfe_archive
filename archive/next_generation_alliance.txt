@@ -8,9 +8,8 @@ Like what you see, select move to this region! We guarantee you will enjoy our r
 [b][color=blue]President:[/color][/b] [nation=short]Saja Tori[/nation] ([color=blue][b]C[/b][/color])
 [b][color=blue]Vice President:[/color][/b] [nation=short]Britanique[/nation] ([color=blue][b]C[/b][/color])
 [b][color=blue]WA Delegate:[/color][/b] [nation=short]The Order of Chaos Chao[/nation] ([color=blue][b]L[/b][/color])
-[b][color=blue]Chief Justice:[/color][/b] [nation=short]Skrillenx[/nation] ([color=blue][b]F[/b][/color])
 [b][color=red]Commander of the Military:[/color][/b] [nation=short]The Silver Bloods[/nation] ([color=red][b]R[/b][/color])
-[b][color=blue]Head of Legislation:[/color][/b] [nation=short]The Order of Chaos Chao[/nation] ([color=blue][b]L[/b][/color])
+[b][color=blue]Head of the Senate:[/color][/b] [nation=short]The Order of Chaos Chao[/nation] ([color=blue][b]L[/b][/color])
 [b][color=purple]Head Minister:[/color][/b]  [nation=short]The Droid Revolution[/nation] ([color=purple][b]I[/b][/color])
 [b][color=red]Peoples&amp;#39; Representative:[/color][/b] [nation=short]The Lost King[/nation] ([color=red][b]C[/b][/color])
 

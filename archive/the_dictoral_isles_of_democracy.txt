@@ -1,6 +1,6 @@
 [color=blue]Regional Government[/color]
 [color=red]President[/color]:[nation]flakaland[/nation]
-[color=red]Vice President[/color]:[nation]Renments[/nation]                        
+[color=red]Vice President[/color]:[nation]Magnitudinus[/nation]                        
 [color=purple]Sec. Of Defence[/color]:[nation]Zachsland[/nation]
 [color=purple]Supreme Judge[/color]:[nation]marttin[/nation]
 [color=purple]Ambassador of foreign relations[/color]:[nation]Ancient Union[/nation]
