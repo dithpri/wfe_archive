@@ -5,7 +5,6 @@
 [list]
 President and WA Delegate: [nation]CommonWealth of Free Nations[/nation]
 Vice President: [nation]Fellow Asgards[/nation]
-Chief of Election Committee: Apply
 Secretary of Defense: Apply
 Congress: Election Soon!
 Speaker of Congress: Elections!
@@ -17,5 +16,6 @@ Ambassador:Apply
 Recruiter:Apply
 Recruiter:Apply
 [/list]
+Chief of Election Committee: Apply
 [/list]
 Join the [url=http://www.nationstates.net/page=un]World Assembly[/url] and endorse your President [nation]CommonWealth of Free Nations[/nation].

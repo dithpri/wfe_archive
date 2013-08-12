@@ -9,10 +9,9 @@ We now have IRC [url=http://w11.zetaboards.com/The_Pantheon_NS/pages/chat/]chat[
 [b][u]Regional Government[/b][/u]
 [b]Prime Minister and Delegate:[/b] [nation=short]Malakh HaMavet[/nation]
 [b]Temporary Delegate:[/b] [nation=short]Volstead[/nation]
-[b]Minister of Intelligence:[/b] [nation=short]Afrana II[/nation]
 [b]Minister of Foreign Affairs:[/b] [nation=short]Ket[/nation]
 [b]Minister of Internal Affairs:[/b] [nation=short]Justiar[/nation]
-[b]Chancellor:[/b] [i]Vacant[/i]
+[b]Chancellor:[/b] [nation=short]Liseria[/nation]
 
 [u][b]The Military[/b][/u]
 [b]Legate (and Tribune):[/b] [nation=short]Guarda[/nation]
@@ -20,13 +19,15 @@ We now have IRC [url=http://w11.zetaboards.com/The_Pantheon_NS/pages/chat/]chat[
 [b]Prefect:[/b] [nation=short]United Land of Advancement[/nation]
 [b]Alpha Centurion:[/b] [nation=short]Malakh HaMavet[/nation]
 [b]Beta Centurion:[/b] [nation=short]Ket[/nation]
-[b]Co-Gamma Centurion:[/b] [nation=short]Liseria[/nation]
-[b]Co-Gamma Centurion:[/b] [nation=short]Afrana II[/nation]
+[b]Gamma Centurion:[/b] [nation=short]Liseria[/nation]
+
+[u][b]The Judiciary[/b][/u]
+[b]Chief Justice:[/b] [nation=short]New North[/nation]
 
 [u][b]News[/b][/u]
-[url=http://w11.zetaboards.com/The_Pantheon_NS/topic/9030871]Chancellor Nominations Open[/url]
+[url=http://w11.zetaboards.com/The_Pantheon_NS/topic/9053285]Chief Justice and Chancellor Elected[/url]
+[url=http://w11.zetaboards.com/The_Pantheon_NS/topic/9051099]Centurion and Minister of Intelligence Dismissed[/url]
 [url=http://w11.zetaboards.com/The_Pantheon_NS/topic/9039737/]Osiris &amp;amp; ANA Embassy[/url]
-[url=http://w11.zetaboards.com/The_Pantheon_NS/topic/9027572]Voting for Chief Justice[/url]
 
 [u][b]Current Orders[/b][/u]
 Move to [region]Pantheon[/region] &amp;amp; endorse [nation=short]Volstead[/nation].
