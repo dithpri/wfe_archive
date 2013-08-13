@@ -1,5 +1,9 @@
-[I][u]This region will be open soon.[/u][/I]
+[b][color=Blue]Welcome to Das Deutsch Reich![/color][/b]
 
-[b]Founder[/b]
-[I][b][region]Das Deutsch Reich[/region][/b][/I]
-[I][u][b][nation]Hydra Germany[/nation][/b][/u][/I]
+[u][b][color=Red]Regionalregierung[/color][/b][/u]
+
+[i][color=Red]Gr&uuml;nder[/color][/i] : [b][nation]Hydra Germany[/nation][/b]
+[i][color=Red]Kanzler[/color][/i] : (N/A)
+[i][color=Red]VizeKanzler[/color][/i] : (N/A)
+[i][color=Red]Kriegsminister[/color][/i] : (N/A)
+[i][color=Red]Leiter Recruiter[/color][/i] : [nation]Rekrutierung[/nation]
