@@ -4,10 +4,10 @@
 Regional Government: 
 President:The Anean Tribes
 Vice President:None
-Secretary of State:Beta Test
-Secretary of Defense:The United Remnants of America
+SecState:Beta Test
+SecDef:The United Remnants of America
 
-Senate:
+Senate Elections  Friday@noon, Deadline Thursday@noon
 
 Judges:
 Flattnerk[/color]
@@ -15,10 +15,10 @@ Flattnerk[/color]
 [color=purple]Message of the Day: This place still belongs to the people[/color]
 
 Record population:468
-Current Population:149
+Current Population:147
 Recruitment Goal:150
 
-Colonies/Possessions:New Columbia, Anteron, New Sun, Verdania, doscendo discimus, New Luna, The Recovers, Criterian, Universitas Scholarium, and New Federation of England
+Colonies/Possessions:New Columbia, Criterian, Universitas Scholarium, and New Federation of England
 
 Proud Member Of The IDA
 

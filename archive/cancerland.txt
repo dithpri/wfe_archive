@@ -1,4 +1,4 @@
-Esta tierra se caracteriza por una confrontacion entre paises socialistas y capitalistas, y ademas por la particularidad de que sus habitantes tienen cancer. Despu&eacute;s de que se conformo la Comunidad de Naciones de Tribuzz en el centro del continente, tanto los Poderes Centrales como el, por el momento independiente, pa&iacute;s de Ito buscan la expansi&oacute;n a trav&eacute;s de estas tierras cancerigenas, formando y reclutando nuevas naciones en territorios otrora inhabitables.
+Esta tierra se caracteriza por una confrontacion entre paises socialistas y capitalistas, y ademas por la particularidad de que sus habitantes tienen cancer. Despu&eacute;s de que se conformo la Comunidad de Naciones de Tribuzz en el centro del continente, tanto los Poderes Centrales como Ito se aliaron fortalecieron sus alianzas.
 
 Poderes Centrales:
 [nation]Mioland[/nation]
@@ -8,3 +8,7 @@ Comunidad de Naciones de Tribuzz
 [nation]Tribuzz1[/nation]
 [nation]Non-sosializ[/nation]
 [nation]Tribuzz2[/nation]
+(Alianza jud&iacute;a sin nombre)
+[nation]Ito[/nation]
+[nation]Balshad Al-Hammud[/nation]
+[nation]Saint Flaver[/nation]

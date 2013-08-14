@@ -4,6 +4,6 @@
 
 [i][color=Red]Gr&uuml;nder[/color][/i] : [b][nation]Hydra Germany[/nation][/b]
 [i][color=Red]Kanzler[/color][/i] : (N/A)
-[i][color=Red]VizeKanzler[/color][/i] : (N/A)
+[i][color=Red]VizeKanzler[/color][/i] : [nation]Akota[/nation]
 [i][color=Red]Kriegsminister[/color][/i] : (N/A)
 [i][color=Red]Leiter Recruiter[/color][/i] : [nation]Rekrutierung[/nation]

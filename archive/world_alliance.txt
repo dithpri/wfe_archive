@@ -18,7 +18,7 @@
 
 [b][color=gold]The COURT OF JUSTICE[/color][/b]
 
-[b][color=lightgray]Chief Justice[/color][/b] : [nation=short]The Republic of Chivalry[/nation]
+[b][color=lightgray]Chief Justice[/color][/b] : [nation]The Republic of Chivalry[/nation]
 
 [b][color=lightgray]Associate Justices[/color][/b] : [color=green][nation=short]Europe and Asia[/nation], [nation=short]The United States of Schorr[/nation] [/color]
 
