@@ -4,8 +4,8 @@ The UEG has two factions within it the UEG its self, which heads all administrat
 [color=brass]Other Members:[/color]
 [color=gold]UNCS Members[/color]
 [color=gold]Head of HIGHCOM:[/color][nation=short]Falconmont[/nation]
-[color=gold]Head of FLEETCOM:[/color]N/A
-[color=gold]Head of UNICOM:[/color]N/A
+[color=gold]Head of FLEETCOM:[/color][nation=short]Silvanis[/nation]
+[color=gold]Head of UNICOM:[/color][nation=short]The isles of Cathorina[/nation]
 [color=gold]Other Members:[/color]
 [color=silver]Director of ONI:[/color][nation=short]Jereathiel of Jedmathia[/nation]
 [color=silver]Other Members:[/color]

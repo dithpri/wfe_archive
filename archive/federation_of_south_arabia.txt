@@ -1,10 +1,10 @@
-[b][color=blue]Welcome to the Federation of South Arabia, an up and coming Muslim Region! Please feel free to join the Government and get involved.[/color]
+[U][i][b][color=blue]Welcome to the Federation of South Arabia, an up and coming Muslim Region! Please feel free to join the Government and get involved.[/color][/I][/u]
 
 [color=gray][u]The Directory Government of The Federation of South Arabia[/u][/color]
 
 [color=purple]Chief of State:[/color][nation]South Arabia[/nation]
 
-[color=green]Chairman of The Directory Government:[/color][nation]Aden Protectorate[/nation]
+[color=gray]Chairman of The Directory Government:[/color][nation]Aden Protectorate[/nation]
 
 [color=brown]Religious Advisory to the Chief of State and The Directory Government:[/color][nation]Muhammadia[/nation], [nation]Barunei[/nation]
 

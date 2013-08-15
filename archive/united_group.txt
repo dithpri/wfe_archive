@@ -15,6 +15,6 @@
 [b][color=darkblue]Government[/color][/b]
 President [nation]Ruffandia[/nation]
 Vice-President [nation]The NAR[/nation]
-Minister of Foreign Affairs [b]AVAILIBLE[/b]
+Minister of Foreign Affairs [nation]Trajikistan[/nation]
 Minister of Defense [nation]Vetaz[/nation]
 Minister of Immigration [nation]Tathar[/nation]
