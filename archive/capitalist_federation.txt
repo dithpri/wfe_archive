@@ -4,11 +4,11 @@
 President: [nation=short]Poder Mundial[/nation]
 Vice-President: [nation=short]Borincana[/nation]
 Secretary of State: [nation=short]Nethonesia[/nation]
-Secretary of Defense: [nation=short]Zervan[/nation]
+Secretary of Defense: vacant
 Secretary of Foreign Affairs: [nation=short]Power Domination[/nation][/color]
 
-President of Senate:[nation=short]Silver Port[/nation]
-Senator: [nation=short]FCB Land[/nation]
+President Senate: [/nation]Silver Port[/nation]
+Senator: vacant
 
 [color=red]Regional News:
 Any nation is welcomed in this region. Endorse your WA Delegate and President.[/color]

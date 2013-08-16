@@ -1,4 +1,4 @@
-[color=#BF0000]This region was captured by the [region]Greater German Reich [/region]on  14 August 1941.[/color]
+[b][color=#BF0000]This region was captured by the [region]Greater German Reich [/region]on  14 August 1941.[/color]
 
 Leader of the Invasion:
 [nation]Grodon[/nation]
@@ -7,4 +7,4 @@ Planner of the Invasion
 [nation]Verborgenen Herrn[/nation]
 
 Participants:
-[nation]Tadmirtolia[/nation]
+[nation]Tadmirtolia[/nation][/b]

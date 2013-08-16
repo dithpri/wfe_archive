@@ -15,7 +15,7 @@ Regional Duke/Duchess:
 Regional Recruiter:
 Foreign Affairs Minister:
 Internal Affairs Minister:
-Regional Delegate:[nation]Russadonia[/nation][/b]
+Regional Delegate:[/b]
 
 [b][u][color=blue]Elections in progress![/color][/u][/b]
 

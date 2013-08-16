@@ -1,10 +1,8 @@
-[b][color=blue]Welcome to [region]Rothkalkel[/region]![/color][/b]
+[b][color=red]Welcome to [region]Rothkalkel[/region]![/color][/b]
 
-[u][b][color=orange]Regional Government[/color][/b][/u]
+[b][region]Rothkalkel[/region] is a group on waring nations that fight and raid together and each other. So if you love fighting stay and have a fight.[/b]
 
-[b][color=red]Founder[/color][/b] : [b][nation=short]Toangtan[/nation][/b]
-[b][color=red]WA Delegate[/color][/b] : (N/A)
+[b][color=red]Regional Government[/color][/b]
 
-[b]Regional Goal[/b]: 10 Nations
-
-[b]Regional Topic[/b] : ?
+[b]Founder[/b]: [b][nation=short]Toangtan[/nation][/b]
+[b]WA Delegate[/b]:
