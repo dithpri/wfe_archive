@@ -5,10 +5,12 @@ We accept all [color=red]communists, socialists, syndicalists, liberals, social 
 Regional Government:
 WA Delegate: [nation=short]Communist Skyrim[/nation]
 General of the People&amp;#39;s Red Liberation Army: [nation=short]Socialist Republics of Russia[/nation]
-People&amp;#39;s Ambassador: [nation=short]Omensa[/nation]
-Chief Justice of the People&amp;#39;s Court and Grand Punmaster: [nation=short]Red Briefcase[/nation]
+Chief Justice of the People&amp;#39;s Court: [nation=short]Omensa[/nation]
+
+People&amp;#39;s Ambassador: [nation=short]Mongolian People[/nation]
 Minister of Culture: [nation=short]Torsiedelle[/nation]
 Chief Recruiter: [nation=short]Sween[/nation]
+Grand Punmaster: [nation=short]Red Briefcase[/nation]
 
 [i]Today&amp;#39;s Roleplay Theme: Superheroes[/i]
 

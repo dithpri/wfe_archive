@@ -1,13 +1,1 @@
-[Color=red]Please move to http://www.nationstates.net/region=the_genuan_rebirth[/color]
-
-
-President: [nation]Southern Ageena[/nation]
-Vice President: [nation]The Great State of Christopia[/nation]
-WA Delegate: [nation]Jultoplex[/nation]
-Secretary of Defence: [color=blue]General [nation]Kinistian[/nation][/color]
-Secretary of Forein Affairs: [nation]MoorVanguard[/nation]
-Secretary of Recruitment: [nation]Hrathgar Glacier[/nation]
-Secretary of State: [nation]Mojopore[/nation]
-Secretary of Motivation: [nation]Bubiawoopa[/nation]
-
-Please endorse [nation]Jultoplex[/nation]
+This region is a colony of [region]Beyond the Superpowers of Earth[/region] 

@@ -2,15 +2,15 @@
  We are also democratic and looking for new members to join.
 
 Regional Government: 
-President:The Anean Tribes
-Vice President:None
-SecState:Beta Test
-SecDef:The United Remnants of America
+President:[nation]The Anean Tribes[/nation]
+Vice President Pro Tempore:[nation]The United Remnants of America[/nation]
+SecState:[nation]Beta Test[/nation]
+SecDef: None
 
 Senate Elections  Friday@noon, Deadline Thursday@noon
 
 Judges:
-Flattnerk[/color]
+[nation]Flattnerk[/nation][/color]
 
 [color=purple]Message of the Day: Let&amp;#39;s have a moment of silence for the late Lisa Kelly.[/color]
 

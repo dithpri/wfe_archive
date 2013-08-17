@@ -12,3 +12,5 @@ Foreign Affairs: [nation]United Starland[/nation]
 Propaganda Minister: [color=blue]Open[/color]
 
 Signatories for Regional Cooperation: [region]Sakeylycie[/region], [region]Dimbar[/region]
+
+The ULN is a member of the [region]United Republic of Regions[/region].
