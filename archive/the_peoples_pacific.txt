@@ -1,6 +1,7 @@
 [color=navy][b]The Peoples Pacific[/b][/color]
 
-[color=660000]A possession of [nation=short]Royal House of Windsor[/nation][/color][list][hr]ALLIED PUPPET STATES
+[color=660000]A possession of [nation=short]Royal House of Windsor[/nation][list]AKA: [nation]New Falham[/nation]
+[nation]Elliston[/nation][/list][/color][list][hr]ALLIED PUPPET STATES
 &#149; [region=Ionia] &#149;
 &#149; [region=Olds] &#149;
 &#149; [region=Pangara] &#149;

@@ -1,14 +1,13 @@
 Executive branch
-Delegate:Vacant
-Vice Delegate: vacant
-Minister of Foreign Affairs:Vacant
-Minister of Home Affairs:Vacant
-Minister of Defence:Vacant
+President:[nation]Southern Ageena[/nation]
+Delegate:[nation]JultoLand[/nation]
+Minister of Foreign Affairs:[nation]Mojopore[/nation]
+Minister of Home Affairs:[nation]Haemo[/nation]
+Minister of Defence:[nation]MoorVanguard[/nation]
+Governor of the Treasury:[nation]Hrathgar Glacier[/nation] 
 
-Legislative branch:
-Senators:
-Vacant
-Vacant
-Vacant
 
-Original Founding Fathers: http://www.nationstates.net/nation=jultopia/detail=factbook/id=138186
+Founding Fathers: http://www.nationstates.net/nation=jultopia/detail=factbook/id=138186
+
+Current Colonies:
+-[region]Genua[/region]

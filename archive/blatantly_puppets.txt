@@ -8,11 +8,6 @@ Active
 [nation]The Terran Confederacy[/nation]
 [nation]The Cairns[/nation]
 [nation]Usziya[/nation]
-[nation]Betonland[/nation]
-[nation]Alstein[/nation]
 
 Inactive
 [nation]Alynia[/nation]
-[nation]Termenia[/nation]
-[nation]Guyaland[/nation]
-[nation]Weiland[/nation]
