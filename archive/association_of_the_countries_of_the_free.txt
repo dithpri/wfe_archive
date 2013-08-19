@@ -9,7 +9,7 @@ ASCOF is a great place. Founded on the principles of justice, democracy and free
 Prime Minister: [nation]Great Adrianland[/nation]
 Deputy PM: [nation]Sylven[/nation]
  
-Chancellor: 8-9Aug
+Chancellor: 
 Home Secretary: [nation]Brinavia[/nation]
 Foreign Secretary: [nation]Mordakia[/nation]
 Defence Secretary: [nation]Rutannia[/nation]

@@ -1,13 +1,13 @@
-Executive branch
-President:[nation]Southern Ageena[/nation]
-Delegate:[nation]JultoLand[/nation]
-Minister of Foreign Affairs:[nation]Mojopore[/nation]
-Minister of Home Affairs:[nation]Haemo[/nation]
-Minister of Defence:[nation]MoorVanguard[/nation]
-Governor of the Treasury:[nation]Hrathgar Glacier[/nation] 
-
-
-Founding Fathers: http://www.nationstates.net/nation=jultopia/detail=factbook/id=138186
-
-Current Colonies:
+[color=grey]Welcome to Beyond the Superpowers of Earth![/color]
+[hr]
+[color=red]Executive Committee[/color] 
+[color=blue]President:[nation]Southern Ageena[/nation][/color] 
+[color=blue]Vice-President:[nation]Haemo[/nation][/color] 
+[color=blue]Chairman of Law:[nation]MoorVanguard[/nation][/color] 
+[color=blue]Chairman of Finances:[nation]Hrathgar Glacier[/nation][/color] 
+[color=blue]Chairman of Defence:[nation]Mojopore[/nation][/color] 
+[hr]
+[url=http://www.nationstates.net/nation=jultopia/detail=factbook/id=138186]Founding Fathers[/url]
+[hr]
+[color=blue]Current Colonies:[/color] 
 -[region]Genua[/region]

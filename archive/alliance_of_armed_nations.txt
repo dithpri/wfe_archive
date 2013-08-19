@@ -5,7 +5,7 @@
 [u][I][b]Regional Government[/b][/I][/u]
 Vice-Delegate:[nation]Ism[/nation]
 Ambassador:[nation]Avanzamento[/nation]
-General: TBD
+General: [nation]prison guard[/nation]
 Raid Masters: [nation]New Joshinia[/nation], [nation]New-Netherealm[/nation]
 
 [u][I][b]Quick Links[/u][/I][/b]

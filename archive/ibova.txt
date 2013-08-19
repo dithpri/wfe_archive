@@ -1,7 +1,7 @@
-Founders:
-[nation]The Green Notebook[/nation]
-[nation]Tibbletopia[/nation]
+Top Nations:
 [nation]Salmanor[/nation]
+[nation]Los Kirblos[/nation]
+[nation]Gyetcerhsudu[/nation]
 
 Regional Animal:
 Anableps
