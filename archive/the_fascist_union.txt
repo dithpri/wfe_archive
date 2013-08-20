@@ -19,7 +19,7 @@ Consul: [nation]Serpentura[/nation]
 
 Minister of Defense: [nation]The Imperial Prefectures of America[/nation]
 
-Minister of Foreign Affairs: [nation]Kolreich[/nation]
+Minister of Foreign Affairs: [nation]The Misotheist Reich[/nation]
 
 Minister of State Security: [nation]The Reichslaender[/nation] 
 

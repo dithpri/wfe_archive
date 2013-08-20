@@ -1,8 +1,10 @@
 [b][color=blue]Welcome to The Royal Alliance![/color]
 
+[color=darkblue][u]The Executive[/u][/color]
+
 [color=purple]Governor-General:[/color] [color=blue] [/color][nation=short]Lazzarania[/nation]
 
-[color=purple]Reigning Monarch:[/color] [color=blue] [/color]King [nation=short]Buddyland[/nation]
+[color=purple]Reigning Monarch:[/color] [color=blue] [/color][nation=short]Buddyland[/nation]
 
 [color=purple]Prime Minister: [/color][nation=short]The Maynard Islands[/nation] 
 
@@ -10,13 +12,17 @@
 
 [color=purple]Assistant Governor-General:[/color] [nation=short]OshiWoshi[/nation]
 
+[color=darkblue][u]The Parliament[/u][/color]
+
+[color=purple]Ministers of the Crown: [/color]  [nation=short]Figltopia[/nation] [nation=short]SlyFoxHoundia[/nation] [nation=short]The Star Enpire[/nation]  [nation=short]Terrasis[/nation] [nation=short]Falas Doriath[/nation] [nation=short]Altrodia[/nation] [nation=short]Republic of Numenor[/nation] [nation=short]Ghostopolis[/nation] [nation=short]Eglashiaa[/nation] [nation=short]Rucktonia[/nation] [nation=short]Dremasar[/nation] [nation=short]Cottesmore[/nation] [nation=short]ZackAttack0797[/nation] |[url=http://nationstates.net/nation=lazzarania/detail=factbook/id=114557]Complete list[/url]
+
+[color=darkblue][u]The Judiciary[/u][/color]
+
 [color=purple]Supreme Court Chief Justice: [nation=short]Dinaris[/nation][/color] 
 
 [color=purple]Supreme Court Justice:[/color] [nation=short]The Army of the Children of the Light[/nation]
 
-[color=purple]Ministers of the Crown: [/color]  [nation=short]Figltopia[/nation] [nation=short]SlyFoxHoundia[/nation] [nation=short]The Star Enpire[/nation]  [nation=short]Terrasis[/nation] [nation=short]Falas Doriath[/nation] [nation=short]Altrodia[/nation] [nation=short]Republic of Numenor[/nation] [nation=short]Theonentus[/nation] [nation=short]Ghostopolis[/nation] [nation=short]Eglashiaa[/nation] [nation=short]Rucktonia[/nation] [nation=short]Dremasar[/nation] [nation=short]Cottesmore[/nation] [nation=short]ZackAttack0797[/nation] |[url=http://nationstates.net/nation=lazzarania/detail=factbook/id=114557]Complete list[/url]
-
 [url=http://tracker.conquestofabsolution.com/region=the_royal_alliance]The Royal Alliance Absolution Tracker[/url] | [url=http://nsdossier.texasregion.net/history.aspx?region=The+Royal+Alliance&amp;amp;type=Exact&amp;amp;group=region&amp;amp;start=&amp;amp;end=]The Royal Alliance History[/url] | [url=http://client00.chat.mibbit.com/?channel=%23TheRoyalAlliance&amp;amp;server=irc.mibbit.net] The Royal Alliance Chat Room[/url] | [url=http://www.members.boardhost.com/lazzarania/]The Regional Government of The Royal Alliance[/url][/b] [b]| [color=blue][url=http://www.nationstates.net/nation=lazzarania/detail=factbook/id=129467]A beginner&amp;#39;s guide to The Royal Alliance
 [/url][/color][/b] 
 
-[b][color=blue]Endorsement Cap:[/color][/b] [b][color=red]Unlimited![/color][/b] 
+[b][color=blue]Endorsement Cap:[/color][/b] [b][color=red][u]Unlimited![/u][/color][/b] 

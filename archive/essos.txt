@@ -18,3 +18,5 @@
 
 [/list][list][color=blue] Vassals [/color]
  - [nation=Bunawunna]
+ - [nation=Hyranam]
+ - [nation=Neuschottland Isles]

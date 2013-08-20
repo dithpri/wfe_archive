@@ -1,8 +1,8 @@
 [color=red][b]The Humble Lands detailed description, containing geography of the following nations.[/b][/color]
 
-[nation]vassudan[/nation].........            [nation]mord0r[/nation] 
-[nation]sontaran[/nation]..................                   [nation]Hathagian[/nation] 
-[nation]Laffayette[/nation] .............               [nation]The Czech Army[/nation]
-[nation]Saumensch[/nation]
+[nation]vassudan[/nation].........[nation]mord0r[/nation] 
+[nation]sontaran[/nation]....[nation]Hathagian[/nation] 
+[nation]Laffayette[/nation] ............[nation]The Czech Army[/nation]
+[nation]Saumensch[/nation]..............[nation]Fyrest0ne[/nation]
 
 [url=http://www.nationstates.net/nation=mord0r/detail=factbook/id=147724/]The Humble Lands Factbook!!![/url]

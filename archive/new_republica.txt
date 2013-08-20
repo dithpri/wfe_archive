@@ -2,17 +2,21 @@
  We are also democratic and looking for new members to join.
 
 Regional Government: 
-President:[nation]The Anean Tribes[/nation]
-Vice President Pro Tempore:[nation]The United Remnants of America[/nation]
+President Pro Tempore: [nation]The United Remnants of America[/nation]
+Vice President: None
 SecState:[nation]Beta Test[/nation]
 SecDef: None
 
-Senate Elections Starting Friday@noon
+Senate:
+[nation]The Anean Tribes[/nation]
+[nation]Dardoillyria[/nation]
+[nation]The Untied states[/nation]
+
 
 Judges:
 [nation]Flattnerk[/nation][/color]
 
-[color=purple]Message of the Day: Welcome, ex-New Federation of England nations![/color]
+[color=burntsienna]Message of the Day: Please take the time to welcome our new Senators![/color]
 
 Record population:468
 Current Population:144
