@@ -5,6 +5,6 @@ The region is lead by a council of WA members, each with various roles. To obtai
 [nation]The United Soviet Russia[/nation] - [color=Platinum]Founder, Supreme-General, Master of Defence[/color]
 [nation]Socialist Capitslists[/nation] - [color=gold]High-Priest, Master of Law, Master of Relations[/color]
 [nation]The Republic of Tingdom[/nation] - [color=silver]Supreme-Pilot[/color]
-[nation]Thomradeopolis[/nation] - [color=bronze]Grand Advisor[/color]
+[nation]Thomradeopolis[/nation] - [color=bronze]Master of Internal Relations[/color]
 [b][u]Currency Exchange[/b][/u]
 1 Soviet = 1 Pebble = 1.1 Quill = 1.6 Gold = 1.6 Rupee = 1.8 Thomdollar = 2.3 Blerks

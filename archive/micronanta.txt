@@ -1,5 +1,2 @@
-[color=000066][b]MicroNanta[/b]
-[/color][color=006600][list]&#149;&#149;&#149; A [region=United States of America] Controlled Region
-&laquo;&laquo;&#149;&#149; [region=Banuhal] &#149; [b]MicroNanta[/b] &#149; [region=Galapagos] &#149;&#149;&raquo;&raquo;
-&laquo;&laquo;&#149;&#149; [region=Michigan] &#149; [b]MicroNanta[/b] &#149; [region=Micronesia] &#149;&#149;&raquo;&raquo;
-&laquo;&laquo;&#149;&#149; Region 29 &#149;&#149;&raquo;&raquo;[/color][/list]
+[color=000066][b]MicroNanta[/b][/color][color=006600]
+A [region=United States of America] Controlled Region[/color]

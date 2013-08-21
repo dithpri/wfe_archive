@@ -12,10 +12,11 @@ Minister of Culture: [nation=short]Torsiedelle[/nation]
 Chief Recruiter: [nation=short]Sween[/nation]
 Grand Punmaster: [nation=short]Red Briefcase[/nation]
 
-[i]Today&amp;#39;s Roleplay Theme: Superheroes[/i]
-
-[b]Join the PRLA, and do your duty for the region![/b]
-
 [url=http://us12.chatzy.com/53310339083777]Official chat room.[/url]
 
-[u]The next Delegatial Election will occur in less than two weeks. If you want to run, announce your candidacy for either an independent ticket or the party of your choice.[/u]
+[u]Security Level[/u]
+Peacetime - no foreseeable threats.
+Guarded - minor threat.
+[color=yellow]Alert - clear threat.[/color]
+Danger - serious threat.
+Emergency - invasion imminent.
