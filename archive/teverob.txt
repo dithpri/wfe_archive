@@ -1,12 +1,1 @@
-[color=000666][b]TeveRob[/b]
-[/color][color=006600]
-REGION[list]ORDER: &#149;&#149;&#149; [region=Galapagos] &#149; [b]TeveRob[/b] &#149; [region=New United] &#149;&#149;&#149; 
-ALPHA: &#149;&#149;&#149; [region=Taskforce] &#149; [b]TeveRob[/b] &#149; [region=The Allied Nations of the World] &#149;&#149;&#149; 
-ASSOCIATED WITH: &#149; [region=United States of America] &#149;[/color][color=996600][/list]
-ALLIANCE RECORDS
-[b]Largest Populations:[/b] March 30, 2013:[list][region=Ionia] ranked 4th in the world, has 400 nations (29th most).
-[region=New Delian League] ranked 16th in the world, has 400 nations (31st most).
-[region=Weirdonia] ranked 29th in the world, has 310 nations (39th most).
-[region=Bettering Nations for the Greater Good] ranked 26th in the world, has 321 nations (37th most).
-[region=Banuhal] ranked 22nd in the world, has 300 nations (41st most).
-[region=Galapagos] ranked 11th in the world, has 400 nations (30th most).[/list][/color]
+[color=000666][b]TeveRob[/b][/color]

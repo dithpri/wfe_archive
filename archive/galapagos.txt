@@ -1,7 +1,5 @@
 [color=003300][b]Galapagos[/b][/color]
-
-[color=006600]REGION[list]ORDER: &#149;&#149;&#149; [region=MicroNanta] &#149; Galapagos &#149; [region=Secret F7 Confrency Thing] &#149;&#149;&#149; 
-ALPHA: &#149;&#149;&#149; [region=Gabon] &#149; Galapagos &#149; [region=Galapagos Islands] &#149;&#149;&#149; 
-&#149; [region=Ionia] &#149; [region=United States of America] &#149;
-A [region=United States of America] associated region
-&#149; Region 30[/list][/color]
+Associated with:
+[region=Ecuador]
+[region=Ionia]
+[region=United States of America]
