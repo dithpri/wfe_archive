@@ -18,7 +18,7 @@ Fishing: [color=orange][b]7th[/b][/color]
 Arms: 18th
 Beverage: [color=orange][b]8th[/color][/b]
 Mining: 20th
-Agriculture: [color=orange][b]10th[/color][/b]
+Agriculture: [color=orange][b]9th[/color][/b]
 Publishing: 23rd
 Auto: [color=orange][b]9th[/b][/color]
 Insurance: 11th

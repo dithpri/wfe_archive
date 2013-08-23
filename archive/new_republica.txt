@@ -16,13 +16,13 @@ Senate:
 Judges:
 [nation]Flattnerk[/nation][/color]
 
-[color=burntsienna]Message of the Day: Please take the time to welcome our new Senators![/color]
+[color=gunmetal]Message of the Day: Remember to vote for your Executives![/color]
 
 Record population:468
-Current Population:140
-Recruitment Goal:145
+Current Population:138
+Recruitment Goal:140
 
-Colonies: New Federation of England, The Recovers
+Colonies:
 
 Proud Member Of The IDA
 

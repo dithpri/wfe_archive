@@ -1,9 +1,16 @@
-The purpose of this region is promote the establish diplomatic relations and international cooperation between nations. 
+[b]Introduction:[/b]
+The purpose of this region is promote the establish of diplomatic relations and international cooperation between nations.
 
-WA Regional Delegate: Vacant
+[b]WA Regional Delegate:[/b] 
+Any. The World Assembly rules are very complicated, and bureaucratic. The nations of this region were unilaterally expelled from the World Assembly.
 
-Governing Board: 
-
+[b]Governing Board:[/b]
 [nation]Puerto Rico II[/nation], Secretary General 
 [nation]W2013[/nation], Deputy Secretary General 
-[nation]PRIC[/nation], Secretary of Foreign Affairs
+[nation]PRIC[/nation], Secretary of Information Management 
+[nation]Banking[/nation], Secretary of Diplomacy and Public Affairs 
+[nation]Yauco[/nation], Secretary of International Cooperation
+
+
+[b]General Policy:[/b]
+If a region is interested in opening an embassy with us, just click on the request of the Administration section.

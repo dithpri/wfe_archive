@@ -1,9 +1,16 @@
 Unity or death!
 
 [u]Administrators[/u]:
-The Minister of Defense: [nation]TIWS[/nation] ([i]Pavle Milenkovich[/i]);
-The Minister of Foreign Affairs: [nation]Rodovska[/nation] ([i]Svevlad Crnoyevich[/i]);
-The Minister of Industry and Armaments: [nation]Rhineland Ruhr and Alsace Lorraine[/nation] ([i]Bojan Milenkovich[/i]);
-The Minister of Economy: [nation]Syngecku[/nation] ([i]Predrag Kovaczevich[/i]);
-The Minister of Law and Order: [nation]Cordon[/nation] ([i]Stefan Todorovich[/i]);
-The Minister of Intel: [nation]New Turkish[/nation] ([i]Serdar Gemici[/i]).
+The Minister of Defense: [nation]TIWS[/nation],
+The Vice Minister of Defence: [nation]Methed[/nation];
+
+The Minister of Foreign Affairs: [nation]Rodovska[/nation];
+
+The Minister of Industry and Armaments: [nation]Rhineland Ruhr and Alsace Lorraine[/nation];
+
+The Minister of Economy: [nation]Syngecku[/nation];
+
+The Minister of Law and Order: [nation]Cordon[/nation];
+
+The Minister of Intel: [nation]New Turkish[/nation],
+The Vice Minister of Intel: [nation]The Fluffy Pink Bunnies of Doom[/nation].

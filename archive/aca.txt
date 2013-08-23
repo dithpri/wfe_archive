@@ -1,6 +1,4 @@
 [u][b][color=PURPLE]The[/color] [color=silver]Allied[/color] [color=purple]Capitalist[/color] [color=silver]Association[/color][/u]
-
-[color=crimson]We are currently in an [i]unprovoked[/i] WAR with the [region]UCR[/region].[/color]
 [hr]
 President:[/b] [b][nation=short]The Treorai[/nation][/b]
 [b]Vice President:[/b] [b][nation=short]Democratic Republic of Sapientia[/nation][/b]
@@ -20,6 +18,6 @@ President:[/b] [b][nation=short]The Treorai[/nation][/b]
 [*][color=orange]HIGH[/color] - Serious threat
 [*][color=red]SEVERE[/color] - Gargantuan threat[/List]
 
-[b]Current Level:[/b] [color=YELLOW]ELEVATED[/color]
+[b]Current Level:[/b] [color=blue]GUARDED[/color]
 [hr][b][u][color=red]News[/color][/b][/u]
 Every WA Member, please endorse [nation]The Treorai[/nation] if you have not already. Every Nation that is eligible for WA membership, please join and endorse.

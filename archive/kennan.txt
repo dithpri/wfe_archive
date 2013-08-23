@@ -7,7 +7,7 @@
 
 [color=red][b]5th Kennan Secretary Council[/b][/color]
 [b]Administration:[/b] [nation=short]Samukan[/nation]
-[b]Commerce:[/b]
+[b]Commerce:[/b] [nation=short]Roytonburg[/nation]
 [b]Defense:[/b] [nation=short]The Azerian Empire[/nation]
 [b]Education:[/b] [nation=short]Ethan Foley[/nation]
 [b]Environment:[/b] [nation=short]United Solcialist States of Jakeopia[/nation]
