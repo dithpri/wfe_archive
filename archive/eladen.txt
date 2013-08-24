@@ -11,6 +11,7 @@ Defense: 29th
 Armed: 153rd
 Police: 545th
 Aggression: 48th
+Avoided: 340th
 
 Economy: 55th
 Manufacturing: 11th

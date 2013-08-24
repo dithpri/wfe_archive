@@ -4,23 +4,24 @@
 
 
 [hr] 
-[b]11th REC[/b]
-Chancellor: [nation=short]Borduriaa[/nation]
-Secretary-General: [nation=short]Lentheric[/nation] 
-Speaker: [nation=short]Noorderkwartier[/nation] 
+[b]12th REC[/b]
+Chancellor: [nation=short]Alkoul[/nation]
+Secretary-General: 
+Speaker: [nation=short]Zagornias[/nation]
+Prosecutor General: [nation=short]Wyethalania[/nation]
+Lord Commander:  
 [hr]
 [b]Cabinet:[/b]
-Minister(Interior Affairs):[nation]Eastland Duchies[/nation]
-Minister(Foreign Affairs):[nation=short]Velykyy Ukraina[/nation]
-Minister(Finance):[nation]GuatemalaCity[/nation]
-Minister(Culture):[nation]Alkoul[/nation]
+Minister of the Interior: 
+Minister of Finance: 
+Minister of Recruitment: 
+Minister of Foreign Affairs: 
+Minister of Culture: 
 
-[b]Secretariat[/b]
-Justice: [nation]Aquenetta[/nation]
+(update per-after official oath taken)
 
 [hr]
 [b]Crowns Court of Justice[/b]
- [nation=short]The Unified Hawaiian Islands[/nation](CJ), [nation=short]San Monteriano[/nation][(J), [nation=short]Zagornias[/nation](J)
-Prosecutor General: [nation=short]Wyethalania[/nation] 
-Lord Commander: [hr]
+ [nation=short]The Unified Hawaiian Islands[/nation](CJ), [nation=short]San Monteriano[/nation][(J), (Vacant)(J)
+[hr]
  [url=http://www.nationstates.net/region=the_commonwealth_empire]Click here for [b]Our Colonies[/b][/url]
