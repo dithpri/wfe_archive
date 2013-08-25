@@ -4,13 +4,13 @@
 [b]High Moff[/b]: [nation=short]Darth Radix II[/nation]
 [b]Imperial Knight[/b]:[nation=short]The Last Son of Gallifrey[/nation][hr]
 [b][u]Imperial Senate[/u][/b] 
-[b]Chancellor[/b]: [nation=short]Vaculatestar64[/nation] (Next Election August 2013)
-[b]Representative[/b]:  [nation=short]The Galactic System of Iego[/nation], [nation=short]Severnia[/nation][hr]
+[b]Chancellor[/b]: [nation=short]Severnia[/nation] (Next Election November 2013)
+[b]Representative[/b]:  [nation=short]The Galactic System of Iego[/nation], [nation=short] Vacant [/nation][hr]
 [b][u]Supreme Court[/u][/b] 
 [b]Supreme Judge[/b]: [nation=short]Gray Army[/nation][hr]
 [b][u]Moff Council[/u][/b]
 [b]Interim Moff of Foreign Affairs[/b]: [nation=short]Darth Radix II[/nation]
-- [b]Vice Moff of Foreign Affairs[/b]: [nation=short] Vacant[/nation]
+- [b]Vice Moff of Foreign Affairs[/b]: [nation=short]Vaculatestar64[/nation], [nation=short]The Hand of Thrawnn[/nation]
 [b]Moff of War[/b]: [nation=short]Darth Tenebris[/nation]
 - [b]Vice Moff of War[/b]: [nation=short]Vacant [/nation]
 [b]Interim Moff of Culture[/b]: [nation=short]The Last Son of Gallifrey[/nation] 
@@ -21,5 +21,3 @@
 [b][color=gold]Nation of the Month[/color][/b]: [nation=short]Vaculatestar64[/nation]
 
 [b]Empire founded in March 2010[/b]
-
-[nation=short]Darth Radix II[/nation] [b][color=green]Day![/color][/b] [b]August 14th[/b]
