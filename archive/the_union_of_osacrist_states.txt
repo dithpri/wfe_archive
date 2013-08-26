@@ -1,5 +1,5 @@
-Welcome to [region]The Union of Osacrist States[/region]! All nations are welcome. You may continue on your own and stay a sovereign nation, or become part of our regional government. If you are in the World Assembly, please endorse [nation]The Western States of Osacracy[/nation]. 
-[color=blue]We now offer housing for victims of invasions.[/color]
+Welcome to [region]The Union of Osacrist States[/region]! All nations are welcome. You may continue on your own and stay a sovereign nation, or become part of our regional government.
+If you are in the World Assembly, please endorse [nation=noflag]The Western States of Osacracy[/nation]. 
 
 Regional Government
 Minister of Defense: [nation=noflag]SSO[/nation]
@@ -7,5 +7,8 @@ Minister of Foreign Affairs: [nation=noflag]The Western States Of Osacracy[/nati
 Minister of Law: [nation=noflag]West Czech[/nation]
 Minister of Intelligence: [nation=noflag]HaBbein[/nation]
 Minister of Elections: [nation=noflag]The Zambola Federation[/nation]
+
+Colonies
+[region]Conglomerate of the Nagarian Islands[/region]
 
 [url=http://osacristnations.forumotion.com]Visit and join our forum![/url]

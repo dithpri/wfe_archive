@@ -12,9 +12,9 @@ Prosecutor General: [nation=short]Wyethalania[/nation]
 Lord Commander:  
 [hr]
 [b]Cabinet:[/b]
-Minister of the Interior: 
+Minister of the Interior: [nation=short]Lunidia[/nation]
 Minister of Finance: 
-Minister of Recruitment: 
+Minister of Recruitment: [nation=short]Besate[/nation]
 Minister of Foreign Affairs: [nation=short]BORDURIAA[/nation]
 Minister of Culture: 
 

@@ -1,7 +1,7 @@
-[b]Welcome to the Kingdom of Conservadom!, we are primarily a Monarchist Region stuck in the late Renaissance time period, we enjoy an endless era of Absolute Monarchism and strictly follow the old order that some people call the Ancien Regime.
+[b]Welcome to the Kingdom of Conservadom! we are primarily a Monarchist Region stuck in the late Renaissance time period, we enjoy an endless era of Absolute Monarchism and strictly follow the old order that some people call the Ancien Regime.
 
-Monarch[/b]: [nation=long]All Communist China[/nation]
+High Monarch[/b]: [nation=long]All Communist China[/nation]
 
-[b]Steward[/b]: Vacant
+[b]Steward[/b]: [nation]Solomonic Ethiopia[/nation]
 
-[b]Comptroller of Finances[/b]: Vacant 
+[b]Comptroller of Finances[/b]: [nation]east slavica[/nation]
