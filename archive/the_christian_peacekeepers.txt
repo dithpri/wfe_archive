@@ -8,13 +8,13 @@
 
 [u]Regional Security Level Key[/u]
 
-[color=green]GREEN[/color] - Safe
+&#149; [color=green]GREEN[/color] - Safe
 
-[color=yellow]YELLOW[/color] - Watchful
+&#149; [color=yellow]YELLOW[/color] - Watchful
 
-[color=orange]ORANGE[/color] - Threatened
+&#149; [color=orange]ORANGE[/color] - Threatened
 
-[color=red]RED[/color] - Invasion/Lockdown
+&#149; [color=red]RED[/color] - Invasion/Lockdown
 
 Current Level: [color=green]Green[/color]
 

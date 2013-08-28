@@ -1,10 +1,12 @@
-The Commonwealth of Allied Nations
-Formed: March 31, 2013
-The Commonwealth of Allied Nations is a democratic region founded upon the guiding principles of Freedom and Liberty. Our Founders banded together to form this region to create a new democratic utopia as a beacon of liberty to shine across Nationstates!
+[b][color=darkcyan]The Commonwealth of Allied Nations is a democratic region founded upon the guiding principles of Freedom and Liberty. Our Founders banded together to form this region to create a new democratic utopia as a beacon of liberty to shine across Nationstates!
 
-Constitutional Committee
-The Greater Federal Union of Bacilli
-The United Republic of Golgafrinchian
-Dyatopia
-The Republic of Western Timpetotia
-Sunspear
+Constitutional Committee:
+[nation]Bacilli[/nation]
+[nation]Golgafrinchian[/nation]
+[nation]Dyatopia[/nation]
+[nation]Western Timpetotia[/nation]
+[nation]Sunspear[/nation]
+
+This region was abandoned not to long after its foundation, due to the high participation in the long established and successful region of [region]The Allied Republics[/region]. The Commonwealth of Allied Nations is a part of [region]The Japerican Imperial Commonwealth[/region], consider relocating to [region]Japerica[/region] today! ^_^
+
+[i]Est: March/31/2013[/i][/color][/b]

@@ -9,11 +9,11 @@ Chancellor: [nation=short]Alkoul[/nation]
 Secretary-General: [nation=short]Eastland Duchies[/nation]
 Speaker: [nation=short]Zagornias[/nation]
 Prosecutor General: [nation=short]Wyethalania[/nation]
-Lord Commander:  
+Lord Commander: [nation=short]Noorderkwartier[/nation]
 [hr]
 [b]Cabinet:[/b]
 Minister of the Interior: [nation=short]Lunidia[/nation]
-Minister of Finance: 
+Minister of Finance: [nation=short]Lentheric[/nation]
 Minister of Recruitment: [nation=short]Besate[/nation]
 Minister of Foreign Affairs: [nation=short]BORDURIAA[/nation]
 Minister of Culture: 
