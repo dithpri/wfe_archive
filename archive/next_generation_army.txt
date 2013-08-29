@@ -6,24 +6,24 @@ Flag made by [nation]Droterion[/nation].
 [u][b]&amp;gt;&amp;gt;Government&amp;lt;&amp;lt;[/b][/u]
 
 [b][color=red]Commander:[/color][/b]
-[nation]The Silver Bloods[/nation] ([color=red][b]R[/b][/color]) ( Temp )
+[nation=short]The Silver Bloods[/nation] ([color=red][b]R[/b][/color])
 
 [b][color=purple]Generals:[/color][/b]  
-[nation]The Order of Chaos Chao[/nation] ([color=blue][b]USL[/b][/color])
-[nation]The Lost King[/nation] ([color=red][b]C[/b][/color])
-[nation]Controlled Interests[/nation] ([color=red][b]NF[/b][/color])
+[nation=short]The Order of Chaos Chao[/nation] ([color=blue][b]USL[/b][/color])
+[nation=short]The Lost King[/nation] ([color=red][b]C[/b][/color])
+[nation=short]Controlled Interests[/nation] ([color=red][b]NF[/b][/color])
 
 [b][color=blue]Colonels:[/color][/b] 
-[nation]The Russian Federations[/nation] ([color=blue][b]USL[/b][/color])
-[nation]BADASS DRAGON PLANET[/nation] ([b][color=blue]F[/color][/b])
-[nation]KiingKraze[/nation] ([b][color=red]L[/color][/b])
-[nation]United Martains[/nation] ([b][color=blue]USL[/color][/b])
-[nation]Hinahon[/nation] ([b][color=blue]DI[/color][/b])
-[nation]Blackichan[/nation] ([b][color=blue]USL[/color][/b])
-[nation]Gapa[/nation] ([b][color=blue]USL[/color][/b])
+[nation=short]The Russian Federations[/nation] ([color=blue][b]USL[/b][/color])
+[nation=short]BADASS DRAGON PLANET[/nation] ([b][color=blue]F[/color][/b])
+[nation=short]KiingKraze[/nation] ([b][color=red]L[/color][/b])
+[nation=short]United Martains[/nation] ([b][color=blue]USL[/color][/b])
+[nation=short]Hinahon[/nation] ([b][color=blue]DI[/color][/b])
+[nation=short]Blackichan[/nation] ([b][color=blue]USL[/color][/b])
+[nation=short]Gapa[/nation] ([b][color=blue]USL[/color][/b])
+
+[b][color=blue]Major:[/color][/b] 
+[nation=short]United American Lands[/nation] ([color=blue][b]C[/b][/color])
 
 [u][b]&amp;gt;&amp;gt;[url=http://www.nationstates.net/nation=the_silver_bloods/detail=factbook/id=152249]Territory[/url]&amp;lt;&amp;lt;[/b][/u]
 [url=http://www.nationstates.net/nation=the_silver_bloods/detail=factbook/id=152249]Regions Conquered[/url]: [b]10+[/b]
-
-[u][b]&amp;gt;&amp;gt;News&amp;lt;&amp;lt;[/b][/u]
-Our military is well reinforced.
