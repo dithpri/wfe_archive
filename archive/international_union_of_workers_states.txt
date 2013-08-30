@@ -12,7 +12,6 @@ __________________________________
 
 [b]Fully Integrated Member States[/b]
 
-[nation]Peihan[/nation]
 [nation]Mongalan[/nation]
 [nation]Hallorania[/nation]
 [nation]Los Cartagenas[/nation]
@@ -22,6 +21,7 @@ __________________________________
 [nation]Algodon[/nation]
 [nation]Kavaii[/nation]
 [nation]Barbaracx[/nation]
+[nation]Yuzan[/nation]
 
 __________________________________
 
