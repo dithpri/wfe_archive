@@ -10,7 +10,7 @@
 [b]Emperor:[nation=short]Desocia[/nation]
 Imperial Guardian:[nation=short]The Amarican Empire[/nation]
 
-Minister of Culture:
+Minister of Culture:[nation=short]Kavamkao[/nation]
 Minister of Information:[nation=short]Zambia-Rhodesia[/nation]
 Director of the Secret Police:[nation=short]Trunava[/nation]
 [/b]

@@ -8,8 +8,4 @@
 [color=gray]#############[/color]
 [color=red]######[/color][color=gold]#[/color][color=red]######[/color]
 [color=gray]#############[/color]
-[color=darkgreen]#############[/color]
-
-[hr]
-[/b][i]
-This is a region of freedom and it&amp;#39;s protected by [region]Brasil[/region]![/i]
+[color=darkgreen]#############[/color][/b]

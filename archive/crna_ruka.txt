@@ -4,7 +4,8 @@ Unity or death!
 The Minister of Defense: [nation]TIWS[/nation],
 The Vice Minister of Defence: [nation]Methed[/nation];
 
-The Minister of Foreign Affairs: [nation]Rodovska[/nation];
+The Minister of Foreign Affairs: [nation]Rodovska[/nation],
+The Vice Minister of Foreign Affairs: [nation]Arashini[/nation];
 
 The Minister of Industry and Armaments: [nation]Rhineland Ruhr and Alsace Lorraine[/nation];
 

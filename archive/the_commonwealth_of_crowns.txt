@@ -15,13 +15,12 @@ Lord Commander: [nation=short]Noorderkwartier[/nation]
 Minister of the Interior: [nation=short]Lunidia[/nation]
 Minister of Finance: [nation=short]Lentheric[/nation]
 Minister of Recruitment: [nation=short]Besate[/nation]
-Minister of Foreign Affairs: [nation=short]BORDURIAA[/nation]
+Minister of Foreign Affairs: 
 Minister of Culture: [nation=short]Skako[/nation]
 
-(update per-after official oath taken)
 
 [hr]
 [b]Crowns Court of Justice[/b]
- [nation=short]The Unified Hawaiian Islands[/nation](CJ), [nation=short]San Monteriano[/nation](J), [nation=short]Churchilland[/nation](J)
+ (Vacant)(CJ), [nation=short]San Monteriano[/nation](J), [nation=short]Churchilland[/nation](J)
 [hr]
  [url=http://www.nationstates.net/region=the_commonwealth_empire]Click here for [b]Our Colonies[/b][/url]
