@@ -5,11 +5,11 @@
 
 [b][color=blue]Kennan Union[/color][/b]
 
-[color=red][b]5th Kennan Secretary Council[/b][/color]
+[color=red][b]6th Kennan Secretary Council[/b][/color]
 [b]Administration:[/b] [nation=short]Samukan[/nation]
-[b]Commerce:[/b] [nation=short]Roytonburg[/nation]
-[b]Defense:[/b] [nation=short]The Azerian Empire[/nation]
-[b]Education:[/b] [nation=short]Ethan Foley[/nation]
+[b]Commerce:[/b] [nation=short]Wilder Ancestors[/nation]
+[b]Defense:[/b] [nation=short]Ethan Foley[/nation]
+[b]Education:[/b] [nation=short]Frache[/nation]
 [b]Environment:[/b] [nation=short]United Solcialist States of Jakeopia[/nation]
 [b]Foreign Affairs:[/b] [nation=short]Sandwich Territories[/nation]
 [b]Human Rights:[/b] [nation=short]Hackleberry Islands[/nation]
@@ -20,11 +20,4 @@
 [b]Kennan Species Bureau:[/b] [nation=short]Samukan[/nation]
 [b]Kennan Space Command:[/b] [nation=short]The Azerian Empire[/nation]
 
-[color=blue][b]September 2013 Election Candidates[/b][/color]
-[list]
-[*][nation=short]Sandwich Territories[/nation]
-[*][nation=short]Ethan Foley[/nation]
-[*][nation=short]Hackleberry Islands[/nation]
-[/list]
-
-[b][url=http://goo.gl/SZDWTA]Candidate Speeches[/url][/b]
+[color=#4B92DA]Congratulations to the [nation=short]Hackleberry Islands[/nation], the new WA Delegate![/color]

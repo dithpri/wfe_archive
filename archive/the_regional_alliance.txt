@@ -1,10 +1,10 @@
 [url=http://regionalalliance.boardhost.com/index.php]Government Boards[/url] | Chat | [url=http://www.nationstates.net/nation=sugarfootland/detail=factbook/id=159034]Constitution[/url] | [url=http://www.nationstates.net/nation=sugarfootland/detail=factbook/id=159062]Edicts[/url] | Laws | Court Decisions
 [b][color=blue]CENTRAL COUNCIL[/color][/b]
-Consul of the Governor [nation]teejayarctica[/nation] 
+Consul of the Governor 
 Consul of the Senate  
 Consul of the Assembly
 [b][color=blue]MINISTERS[/color][/b]
-Governor
+Governor [nation]teejayarctica[/nation] 
 Defense &amp;amp; Security [nation]germantic[/nation]
 Communications
 Immigration

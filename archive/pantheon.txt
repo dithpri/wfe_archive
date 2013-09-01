@@ -11,7 +11,7 @@ We now have IRC [url=http://w11.zetaboards.com/The_Pantheon_NS/pages/chat/]chat[
 [b]Temporary Delegate:[/b] [nation=short]Volstead[/nation]
 [b]Minister of Foreign Affairs:[/b] [nation=short]Ket[/nation]
 [b]Minister of Internal Affairs:[/b] [nation=short]Justiar[/nation]
-[b]Chancellor:[/b] [nation=short]Liseria[/nation]
+[b]Chancellor:[/b] [i]Vacant[/i]
 
 [u][b]The Military[/b][/u]
 [b]Legate (and Tribune):[/b] [nation=short]Guarda[/nation]
@@ -19,7 +19,7 @@ We now have IRC [url=http://w11.zetaboards.com/The_Pantheon_NS/pages/chat/]chat[
 [b]Prefect:[/b] [nation=short]United Land of Advancement[/nation]
 [b]Alpha Centurion:[/b] [nation=short]Malakh HaMavet[/nation]
 [b]Beta Centurion:[/b] [nation=short]Ket[/nation]
-[b]Gamma Centurion:[/b] [nation=short]Liseria[/nation]
+[b]Gamma Centurion:[/b] [i]Vacant[/i]
 
 [u][b]The Judiciary[/b][/u]
 [b]Chief Justice:[/b] [nation=short]New North[/nation]

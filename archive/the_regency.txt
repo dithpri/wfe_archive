@@ -1,6 +1,6 @@
 [b][i][u]The Regency Political Structure[/u][/i][/b]
 
-[color=purple][b]Democratically Elected WA Delegate Nation[/b][/color]: [nation]Cotopia[/nation]
+[color=purple][b]Democratically Elected WA Delegate Nation[/b][/color]: [nation]The Daggerfall Covenant[/nation]
 
 [color=red][b]All supreme Nation[/b][/color]: [nation]Alynor[/nation]
 
@@ -14,7 +14,7 @@
 
 [color=pink][b]Nation for Human and Dragon Rights[/b][/color]: [nation]Khaleesi[/nation]
 
-[color=orange][b]Nation for Region Defence[/b][/color]: [nation]The Daggerfall Covenant[/nation]
+[color=orange][b]Nation for Region Defence[/b][/color]: [nation]Cotopia[/nation]
 
 [color=salmon][b]Nation for People&amp;#39;s Equality[/b][/color]: [nation]Grosse Deutschland[/nation]
 

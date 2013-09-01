@@ -4,9 +4,9 @@
 [b]World Assembly Delegate:  [nation=short]Snabagag[/nation] (LP) - (AG)
 Manager of Internal Affairs:  [nation=short]Conservative Idealism[/nation] (RLP) 
 Manager of Military Affairs:  [nation=short]Pevvania[/nation] (RLP)
-Manager of the State: VACANT
+Manager of the State: [nation=short]Islands[/nation]
 Chairman of the Board:  VACANT
-Board Member:  [nation=short]Islands[/nation]
+Board Member:  VACANT
 Board Member:  [nation=short]The Constitutional Land of Freedom[/nation] (RLP)
 Board Member:  [nation=short]Confederate People of the United States[/nation]
 Board Member:  VACANT[/b]
