@@ -12,7 +12,7 @@ and our
 
 [color=grey][u]Regional Administration:[/u][/color]
 
-[color=maroon]Chancellor: [nation=short]BettaMin[/nation]
+[color=maroon]Chancellor: [nation=short]Severania[/nation]
 Justice Minister: [nation=short]Zonolia[/nation]
 Foreign Minister: [nation=short]Diol[/nation]
 Defense Minister: [nation=short]New Cinoth[/nation][/color]

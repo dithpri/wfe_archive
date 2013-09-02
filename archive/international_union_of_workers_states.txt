@@ -1,19 +1,19 @@
-Welcome to the [color=red][b][u]International Union of Workers States[/u][/b][/color], the only NS region made by real Communists, for real Communists.
+[b]Current Status[/b]: [color=green]PEACE[/color]
 
-__________________________________
+[hr]
 
-[b]Founder States[/b]
+[b]Federative Workers&amp;#39; States[/b]
 
 [nation]Krasniya[/nation]
 [nation]Czervenika[/nation]
+[nation]Hallorania[/nation]
 
-__________________________________
+[hr]
 
 
-[b]Fully Integrated Member States[/b]
+[b]Fully Integrated Workers&amp;#39; States[/b]
 
 [nation]Mongalan[/nation]
-[nation]Hallorania[/nation]
 [nation]Los Cartagenas[/nation]
 [nation]Pasty[/nation]
 [nation]Zeficia[/nation]
@@ -22,8 +22,10 @@ __________________________________
 [nation]Kavaii[/nation]
 [nation]Barbaracx[/nation]
 [nation]Yuzan[/nation]
+[nation]Moshnia[/nation]
 
-__________________________________
+[hr]
 
+[b]Autonomous Workers&amp;#39; States[/b]
 
-[b][u][url=http://youtu.be/OiSlgCBpEFM]International Anthem of the Workers&amp;#39; Union[/url][/u][/b]
+[nation]Zatraska[/nation]

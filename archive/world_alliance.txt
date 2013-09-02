@@ -8,11 +8,11 @@
  
 [b][color=gold]The SECURITY COUNCIL[/color][/b]
 
-[b][color=lightgray]President[/color][/b] : vacant
+[b][color=lightgray]President[/color][/b] : [nation]Holy Patrician States[/nation]
 
-[b][color=lightgray]Members[/color][/b] : [color=green][nation=short]Aloia[/nation], [nation=short]Ivania[/nation], [nation]Yellasia[/nation],
+[b][color=lightgray]Members[/color][/b] : [color=green][nation=short]The Catham Islands[/nation], [nation=short]Marquette of Pacific[/nation],
 
-[nation=short]New-Zealand[/nation], [nation=short]Great Eurussia[/nation], [nation=short]Holy Patrician States[/nation] 
+[nation]Aloia[/nation], [nation=short]Texania[/nation], [nation=short]New-Zealand[/nation]
 
 [/color]
 

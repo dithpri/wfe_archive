@@ -7,7 +7,7 @@ King: [nation=shortname]Lalucia[/nation]
 Prime Minister: [nation=shortname]ShenGuo[/nation]
 Minister of Defence: [color=blue]Vacant[/color]
 Minister of Justice: [color=blue]Vacant[/color]
-Minister of Foreign Affairs: [nation=shortname]Jeriatha and Northern Windport[/nation]
+Minister of Foreign Affairs: [color=blue]Vacant[/color]
 Minister of Immigration: [nation=shortname]Lyncanestria[/nation]
 
 [b][u][color=orange]SUPREME COURT[/color][/u][/b]

@@ -1,7 +1,7 @@
    [list] [color=blue] King [/color]
 -  [nation=Neuschottland]
 
- [color=blue] Governor [/color]
+ [color=blue] Imperial Delegate [/color]
 - [nation=Twangadang]
 
 [/list][list][color=blue]Lords [/color]
@@ -9,14 +9,16 @@
 - [nation=Schweigenstein]
 - [nation=Tiki Tiki Kakaw Kakaw]
 - [nation=Kazikistan]
-- [nation=Velvet Hills]
 
 [/list][list][color=blue] Feifs [/color]
 - [nation=Kablomin]
 - [nation=Anthenia]
 - [nation=Xenorobia]
+- [nation=Velvet Hills]
 
 [/list][list][color=blue] Vassals [/color]
  - [nation=Bunawunna]
  - [nation=Hyranam]
- - [nation=Neuschottland Isles]
+ - [nation=Neuschottland Isles] 
+ - [nation=Tyranistatia]
+ - [nation=Echonis]
