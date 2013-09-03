@@ -2,10 +2,10 @@ The Achaemenid and Sassanid realms of Iran. The greatest empire the World had ev
 
 [b]Nations wishing to reside in the Persian Empire must NOT make anti-Persian comments. Doing so will result in expulsion. Otherwise, anyone else is free to join!
 
-Capital: [region]Empire of Iran[/region]
+Capital: [region]Greater Iran[/region]
 
-Colonies: [region]Parsa[/region]
+Colonies: [region]Empire of Iran[/region], [region]Parsa[/region]
 
-Confederates: [region]Persis[/region], [region]Greece[/region], [region]Eran Shahr[/region]
+Confederates: [region]Persis[/region], [region]Greece[/region], [region]Eran Shahr[/region], [region]Greater Persian Empire[/region], [region]Susa the Palace[/region]
 
-Conquests: [region]Ctesiphon[/region] and [region]Armenia[/region].[/b]
+Conquests: [region]Ctesiphon[/region], [region]Armenia[/region][/b]

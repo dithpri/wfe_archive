@@ -9,18 +9,18 @@ This is the Official Army of the [region]Next Generation Alliance[/region].
 
 [b][color=purple]Generals:[/color][/b]  
 [nation=short]The Order of Chaos Chao[/nation] ([color=blue][b]USL[/b][/color])
-[nation=short]The Lost King[/nation] ([color=red][b]C[/b][/color])
+[nation=short]The Lost King[/nation] ([color=red][b]R[/b][/color])
 [nation=short]Controlled Interests[/nation] ([color=red][b]NF[/b][/color])
 
 [b][color=blue]Colonels:[/color][/b] 
 [nation=short]The Russian Federations[/nation] ([color=blue][b]USL[/b][/color])
 [nation=short]BADASS DRAGON PLANET[/nation] ([b][color=blue]F[/color][/b])
-[nation=short]KiingKraze[/nation] ([b][color=red]L[/color][/b])
+[nation=short]KiingKraze[/nation] ([b][color=red]R[/color][/b])
 [nation=short]United Martains[/nation] ([b][color=blue]USL[/color][/b])
 [nation=short]Hinahon[/nation] ([b][color=blue]DI[/color][/b])
 [nation=short]Blackichan[/nation] ([b][color=blue]USL[/color][/b])
 [nation=short]Gapa[/nation] ([b][color=blue]USL[/color][/b])
 
 [b][color=blue]Major:[/color][/b] 
-[nation=short]United American Lands[/nation] ([color=blue][b]D[/b][/color])
+[nation=short]United American Lands[/nation] ([color=blue][b]NCD[/b][/color])
 [nation=short]Ambibia[/nation] ([color=blue][b]DI[/b][/color])

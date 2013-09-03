@@ -1,12 +1,16 @@
    [list] [color=blue] King [/color]
 -  [nation=Neuschottland]
 
- [color=blue] Imperial Delegate [/color]
+ [color=blue] Imperial Delegate and Minister of Foreign Affairs [/color]
 - [nation=Twangadang]
 
-[/list][list][color=blue]Lords [/color]
+[color=blue] Imperial Minister of Internal Affairs [/color]
 - [nation=khalesi]
+
+[color=blue] Imperial Minister of Defence [/color]
 - [nation=Schweigenstein]
+
+[/list][list][color=blue]Lords [/color]
 - [nation=Tiki Tiki Kakaw Kakaw]
 - [nation=Kazikistan]
 
@@ -22,3 +26,4 @@
  - [nation=Neuschottland Isles] 
  - [nation=Tyranistatia]
  - [nation=Echonis]
+ - [nation=Ullarah]

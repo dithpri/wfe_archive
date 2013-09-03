@@ -1,4 +1,4 @@
-The International Cooperative Assembly provides a ground for nations to engage in discussion and cooperation. We use a system of direct democracy by which all member states vote on proposals by way of privately telegramed ballot.
+The International Cooperative Assembly provides a ground for nations to engage in discussion and cooperation. 
 
 To see our laws and rules please see the [url=http://www.nationstates.net/nation=quasivatia/detail=factbook/id=157791]ICA Lawbook[/url]
 To see our power structure please see [url=http://www.nationstates.net/nation=quasivatia/detail=factbook/id=158038]Structure of Power[/url]
@@ -7,7 +7,7 @@ Capital City: [nation]Quasivatia[/nation]
 
 [u]The Executive Presidium[/u]
 Regional President, Finance Secretary: [nation]Torvalyn[/nation]
-Prime Minister, WA Delegate, Defense Secretary: [nation]Herzangia[/nation]
+Prime Minister, Defense Secretary: [nation]Herzangia[/nation]
 Justice Secretary, Environmental, Science &amp;amp; Education Secretary: [nation]Kapabable[/nation]
 
 The International Cooperative Assembly is a proud sponser of [region]Union Cycliste Internationale[/region]

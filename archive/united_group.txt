@@ -18,8 +18,7 @@
 
 [b][u][color=green]Government[/color][/b][/u]
 President: [nation=short]Ruffandia[/nation]
-Vice President: [nation=short]The NAR[/nation]
-Ambassador: [nation=short]Great British Islands[/nation]
+Vice-President: [nation=short]The NAR[/nation]
 Foreign Secretary: [nation=short]Trajikistan[/nation] 
 Defense Secretary: [nation=short]Vetaz[/nation]
 Immigration Secretary: [nation=short]Tathar[/nation]
