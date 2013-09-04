@@ -10,11 +10,9 @@ Prime Minister: [nation]Great Adrianland[/nation]
 Deputy PM: [nation]Sylven[/nation]
  
 Chancellor: Election 8-9 September
-Home Secretary: [nation]Brinavia[/nation]
 Foreign Secretary: [nation]Mordakia[/nation]
 Defence Secretary: [nation]Rutannia[/nation]
-Political Freedoms Minister: [nation]Shantak-kun[/nation]
-Civil Rights Minister: 
+
 
 
 
@@ -22,5 +20,4 @@ Lord Chief Justice: [nation]Absolute Power[/nation]
 
 
 
-Lobbyist: [nation]Mordakia[/nation]
 Cartographer: [nation]Shantak-kun[/nation]

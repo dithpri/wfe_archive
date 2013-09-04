@@ -7,7 +7,7 @@
 [b]12th REC[/b]
 Chancellor: [nation=short]Alkoul[/nation]
 Secretary-General: [nation=short]Eastland Duchies[/nation]
-Speaker: [nation=short]Zagornias[/nation]
+Speaker: [nation=short]Arkorrnia[/nation](Zagornias)
 Prosecutor General: [nation=short]Wyethalania[/nation]
 Lord Commander: [nation=short]Noorderkwartier[/nation]
 [hr]

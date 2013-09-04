@@ -19,6 +19,7 @@
 [region]The Mutawakkilite Kingdom of Yemen[/region]
 [region]The Imperial State of Iran[/region]
 [region]The Empire of Manchuria[/region]
+[region]The Republic of Costa Rica[/region]
 [region]Mamlekhet yehuda[/region]
 [region]Medinat Yisrael[/region]
 [region]Southern Bermuda[/region]

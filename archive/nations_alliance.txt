@@ -6,8 +6,9 @@ Nations Alliance is ruled over by the Regional Government, who are committed to 
 
 Prime Minister: [nation]Empire[/nation]
 Deputy Prime Minister: [nation]Taprobaria Island[/nation]
-Home Secretary: [nation]Gallycova[/nation]
-Justice Secretary: [nation]Waldenia[/nation]
-Foreign Secretary: OPEN
+Secretary of the Interior: [nation]Gallycova[/nation]
+Secretary of State: OPEN
+Attorney General: [nation]Waldenia[/nation]
+
 
 Please endorse our WA delegate [nation]Empire[/nation]! (Requires WA membership)

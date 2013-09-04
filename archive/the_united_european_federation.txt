@@ -7,10 +7,11 @@ Welcome to the UEF: The United European Federation
 [b][u][url=http://s14.postimg.org/gbcuc482p/UEF_Map.png]Regional Map[/url][/b][/u]
 
 [b]Currency Values are relative to the Euro (Listed Below in Order of Value)[/b][list=1]
-1 Gold = 1.68 Euro
-1 Blerk = 1.53 Euro
-1 Thomdollar = 1.05 Euro
-1 Keko Coin = 0.74 Euro
-1 Mug o&amp;#39; beer = 0.25 Euro
-1 Arrow = 0.24 Euro
-1 Swagbuck = 0.1337 Euro
+1 Gold = 1.70 Euro
+1 Blerk = 1.56 Euro
+1 Thomdollar = 0.83 Euro
+1 Keko Coin = 0.70 Euro
+1 Arrow = 0.49 Euro
+1 Dopa = 0.47 Euro
+1 Mug o&amp;#39; beer = 0.20 Euro
+1 Swag Point = 0.1337 Euro
