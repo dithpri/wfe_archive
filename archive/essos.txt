@@ -1,29 +1,15 @@
    [list] [color=blue] King [/color]
 -  [nation=Neuschottland]
 
- [color=blue] Imperial Delegate and Minister of Foreign Affairs [/color]
-- [nation=Twangadang]
+ [color=blue] Imperial Delegate and Minister for Foreign Affairs [/color]
+- [color=green]Voting in progress[/color]
 
-[color=blue] Imperial Minister of Internal Affairs [/color]
+[color=blue] Imperial Minister for Internal Affairs [/color]
 - [nation=khalesi]
 
-[color=blue] Imperial Minister of Defence [/color]
+[color=blue] Imperial Minister for Defence [/color]
 - [nation=Schweigenstein]
 
-[/list][list][color=blue]Lords [/color]
-- [nation=Tiki Tiki Kakaw Kakaw]
-- [nation=Kazikistan]
 
-[/list][list][color=blue] Feifs [/color]
-- [nation=Kablomin]
-- [nation=Anthenia]
-- [nation=Xenorobia]
-- [nation=Velvet Hills]
 
-[/list][list][color=blue] Vassals [/color]
- - [nation=Bunawunna]
- - [nation=Hyranam]
- - [nation=Neuschottland Isles] 
- - [nation=Tyranistatia]
- - [nation=Echonis]
- - [nation=Ullarah]
+[color=red]The Empire of Twangadang has fallen. RIP Emperor Richard II. The King Aaron of [nation=short+noflag]Neuschottland[/nation] has declared the borders of Essos are now open. [/color]

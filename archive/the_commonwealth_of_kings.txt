@@ -8,7 +8,7 @@ Prime Minister: [nation=shortname]ShenGuo[/nation]
 Minister of Defence: [color=blue]Vacant[/color]
 Minister of Justice: [color=blue]Vacant[/color]
 Minister of Foreign Affairs: [color=blue]Vacant[/color]
-Minister of Immigration: [nation=shortname]Lyncanestria[/nation]
+Minister of Immigration: [color=blue]Vacant[/color]
 
 [b][u][color=orange]SUPREME COURT[/color][/u][/b]
 Lord Chief Justice: [nation=shortname]SaudiPakistan[/nation]

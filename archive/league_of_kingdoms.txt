@@ -1,10 +1,12 @@
 A loose coalition of independent nation-states which are free to control themselves as they see fit. 
-Regional government goes something like:
+Regional government goes something like this:
 
 [b]WA Delegate:[/b] None
 [b]Regional Governor:[/b] [nation=long]radan[/nation]
-[b]Cartography Minister:[/b] [nation=long]eloian[/nation]
-|REGIONAL MAP IMMINENT| 
+[b]Cartography Minister:[/b] [nation=long]eloian[/nation] 
+
+[color=green]-|[url=http://image.bayimg.com/608ad9603b6a234a17b8fb0f68582e9f2fa1d283.jpg]Regional Map[/url]|-[/color]
+
 
 [b]Next Governor Election in:[/b] [color=red] 9 weeks [/color]
 
