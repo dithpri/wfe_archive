@@ -9,15 +9,15 @@
 [b]Regional Commissioner: M.W. bin Saleh ([nation=short]Kara-Osea[/nation]) 
 Consul-General: [nation=short]Arimaxistad[/nation][/b]
 
-[b] POPULATION:[/b] 7,201,000,000 (source: A54CRP)
+[b] POPULATION:[/b] 7,033,000,000 (source: A54CRP)
 
-[b]DEFENSE STATUS:[/b] LEVEL [color=green][B]4[/B][/color]
+[b]DEFENSE STATUS:[/b] LEVEL [color=gold][B]3[/B][/color]
 
-[]            A54DEF 1	NUCLEAR WAR (WHITE)
+[]            A54DEF 1	NUCLEAR WAR (BLACK)
 []            A54DEF 2	STATE OF WAR (RED)
 [x]            A54DEF 3	AGGRESSIVE (YELLOW)
 []            A54DEF 4     ALERT (GREEN)
-[]            A54DEF 5	PEACE (BLUE)
+[]            A54DEF 5	PEACE (WHITE)
 
 [B]REGION&amp;#39;S ACTIVE AND RESERVED MILITARY PERSONNEL (AS of SEPTEMBER 2013):
 [/B] [color=red][B]783,559,513[/B][/color]

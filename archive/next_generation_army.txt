@@ -24,5 +24,6 @@ This is the Official Army of the [region]Next Generation Alliance[/region].
 [nation=short]Ambibia[/nation] ([color=blue][b]DI[/b][/color])
 [nation=short]KiingKraze[/nation] ([b][color=red]R[/color][/b])
 [nation=short]Hinahon[/nation] ([b][color=blue]DI[/color][/b])
-[nation=short]Chatawa[/nation] ([color=purple][b]I[/b][/color])
-[nation=short]BlarnyStone[/nation] ([color=purple][b]I[/b][/color])
+[nation=short]Chatawa[/nation] ([color=purple][b]I[/b][/color]) 
+[nation=short]Wasatia[/nation] ([color=red][b]A[/b][/color])
+[nation=short]Hogwarts School of Cats[/nation] ([color=purple][b]I[/b][/color])
