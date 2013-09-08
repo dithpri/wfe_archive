@@ -1,14 +1,14 @@
 Anova is a democratic region that strives to be fair and just to all. Any nation is welcome to join Anova as long as they agree to the rules of the constitution. 
 
 [hr][B][u]Executive Government[/u][/b]
-Interim Secretary General: [nation]Windport[/nation]
-Interim WA Representative: [nation]Next Washington[/nation]
-Speaker of Congress:
+Secretary General: [nation]Windport[/nation]
+WA Representative: [nation]Arcadonisia[/nation]
+Speaker of Congress: [nation]Bodobol[/nation]
 
 [hr][b][u]Cabinet[/u][/b]
-Secretary of Domestic Affairs:
-Secretary of Foreign Affairs:
-Secretary of Immigration:
+Secretary of Domestic Affairs: [nation]New Anoka[/nation]
+Secretary of Foreign Affairs: [nation]Next Washington[/nation]
+Secretary of Immigration: [nation]Capaldia[/nation]
 Secretary of Defense:
 
 [hr][B][u]Important Links[/u][/b]

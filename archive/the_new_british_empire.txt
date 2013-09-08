@@ -1,11 +1,9 @@
 [u][color=scarlet][b]First Colonial Council[/u]:
 
 Colonial Governor: [nation=short]The Fifth German Reich[/nation]
-Civilian Representative: [nation=short]TBA Field Marshal[/nation]
+
 
 [/color][/b]
-
-
 
 
 
@@ -15,6 +13,6 @@ All nations must endorse the Colonial Governor for your own protection.[/b]
 [u]Threat Level:[/u]
 [color=green][b][u]Heightened[/u]-Substantial [url=http://en.wikipedia.org/wiki/UK_Threat_Levels]Definitions[/url][/b][/color]
 
-For any inquiries, please contact [nation=short]TBA Field Marshal[/nation].
+For any inquiries, please contact [nation=short]The Fifth German Reich[/nation].
 
 [b]This Region is [color=gold]protected[/color] by the [region]Right Wing Uprising[/region].[/b]

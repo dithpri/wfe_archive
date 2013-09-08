@@ -11,3 +11,5 @@
 [hr]
 [color=blue]Current Colonies:[/color] 
 -[region]Genua[/region]
+[hr]
+Threat level: [color=yellow]LOW[/color]

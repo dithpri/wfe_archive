@@ -15,7 +15,6 @@ Aggression: 48th
 Avoided: 340th
 
 Economy: 55th
-Manufacturing: 11th
 Fishing: [color=orange][b]5th[/b][/color]
 Arms: 18th
 Beverage: [color=orange][b]8th[/color][/b]
@@ -26,6 +25,7 @@ Auto: [color=orange][b]9th[/b][/color]
 Insurance: 11th
 Cheese: [color=orange][b]7th[/b][/color]
 Gambling: 16th
+Manufacturing: [color=orange][b]9th[/b][/color]
 IT: 18th
 Basket Weaving: [b][color=orange]9th[/b][/color]
 Timber: 14th

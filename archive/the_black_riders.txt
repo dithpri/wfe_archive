@@ -1,10 +1,10 @@
-[b][color=black]Welcome to The Black Riders! The Elite Cavalry in NationStates! Charge![/color]
+[b][color=black]Welcome to The Black Riders![/color] [color=#8B0000]The Elite Cavalry of NationStates! [/color][color=black] Charge the natives![/color]
 
 [color=#8B0000]For information about upcoming raids or to propose a target:[/color]
 
-&#149; [url=http://s4.zetaboards.com/The_Black_Riders/index/]Join our regional forum[/url]
+&#149; [url=http://s4.zetaboards.com/The_Black_Riders/index/]Join our private forum[/url]
 
-&#149; [color=#8B0000]Contact [nation=short+noflag]Feuer Ritter[/nation] to discuss regional business[/color]
+&#149; [color=#8B0000]Contact [nation=short+noflag]Feuer Ritter[/nation][/color]
 
 [hr]
 [color=black]The General Staff[/color]
@@ -17,11 +17,11 @@
 [color=black]General: [nation=short]Camo5768[/nation][/color]
 [hr]
 
-[color=black]News[/b]
+[color=#8B0000]News
 
-[/color][color=8B0000][b]The Second Munich Conference:[/color][color=black] Admins, former defenders, grant current defender&amp;#39;s wish list. Defenders protest that raiders were not rounded up and deleted from the game. Perhaps next time? http://forum.nationstates.net/viewforum.php?f=32[/color][/b]
+[/color][color=black]The Second Munich Conference:[/color][color=#8B0000] Admins, former defenders, grant current defender&amp;#39;s wish list. Defenders protest that raiders were not rounded up and deleted from the game. Perhaps next time? http://forum.nationstates.net/viewforum.php?f=32[/color][/b]
 
 [hr]
-[color=8B0000][b]Order of the Day[/b][/color]
+[color=black][b]Order of the Day[/color]
 
-[b][color=black]All troops are instructed to move to [region]Orion[/region] and endorse [nation]transkila[/nation][/color][/b]
+[color=#8B0000]All troops are instructed to move to [region]Orion[/region] and endorse [nation=short]transkila[/nation][/color][/b]
