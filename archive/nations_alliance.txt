@@ -2,12 +2,12 @@
 
 Nations Alliance is ruled over by the Regional Government, who are committed to development of the region and its future.
 
-[b]THE REGIONAL GOVERNMENT[/b] [I](recruiting)[/i]
+[b]THE REGIONAL GOVERNMENT[/b] 
 
 Prime Minister: [nation]Empire[/nation]
 Deputy Prime Minister: [nation]Taprobaria Island[/nation]
-Secretary of the Interior: [nation]Gallycova[/nation]
-Secretary of State: PENDING
+Secretary of the Interior: [nation]Gallycova[/nation] (Chief Adviser) 
+Secretary of State: [nation]Divartica[/nation]
 Attorney General: [nation]Waldenia[/nation]
 
 
