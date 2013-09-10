@@ -3,7 +3,7 @@
 [b][u][color=orange]INU Regional Government:[/color][/b][/u]
 Supreme Council: [nation=short]Astrosis[/nation], [nation=short]Britain-Prussia[/nation], [nation=short]Violet Islands[/nation]
 WA Delegate: [nation=short]Xin Prussia[/nation]
-Adviser:
+Adviser: [nation=short]Norskia[/nation]
 Chairman:
 Secretary of Recruitment:
 Foreign Minister:
