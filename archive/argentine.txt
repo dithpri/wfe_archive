@@ -10,8 +10,6 @@
 
 [b][u]Regiones aliadas:[/u][/b]
 [region]Republica de Colombia[/region] 
-[region]Medellin[/region] 
-[region]Cali[/region] 
 [region]Bundesrepublik Deutschland[/region] 
 [region]Munchen[/region]
 [region]Sucre[/region]

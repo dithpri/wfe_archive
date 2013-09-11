@@ -6,10 +6,10 @@ Welcome to the UEF: The United European Federation
 
 [b][u][url=http://s11.postimg.org/f9mll2r2b/UEF_Map.png]Regional Map[/url][/u][/b]
 
-[b]Currency Values are relative to the Euro (Listed Below in Order of Value)[/b]
+[b]Exchange Rates:[/b]
 1 Gold = 1.85 Euro
 1 Blerk = 1.58 Euro
-1 Thomdollar = 0.81 Euro
+1 Thomdollar  = 1 Euro
 1 Arrow = 0.74 Euro
 1 Keko Coin = 0.73 Euro
 1 Dopa = 0.69 Euro
@@ -19,3 +19,5 @@ Delegate &amp;amp; Religion: [nation=Celestial Being II]
 Industry &amp;amp; Espionage: [Nation=Fersblerk]
 Finance &amp;amp; Culture: [nation=The Lost Tribe of Keko]
 Education &amp;amp; Internal Relations: [nation=Om3ga]
+
+[b]Nation of the Week:[/b] [nation=The Lost Tribe of Keko]
