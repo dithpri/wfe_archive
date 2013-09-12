@@ -2,11 +2,11 @@ Welcome to The United Kingdom of Nations (UKoN).This region is an elective monar
 
 [color=red]All nations are welcome regardless of weather you are a monarchy.[/color]
 
-[color=brown]Monarch:[/color]
+[color=brown]Monarch:[/color][nation]Central Marginia[/nation],Emperor Peter III
 
 [color=gold]Government:[/color]
 Foreign Advisor
-Home Office
+Home Office: [nation]Yardenstein[/nation]
 Defense Advisor
 
 [color=gold]High Court:[/color]
