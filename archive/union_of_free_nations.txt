@@ -10,10 +10,11 @@ We offer a peaceful environment free of interference and drama. Bring your frien
 [nation=short]baleanor[/nation]
 [b][u]Intelligence Directorate[/b][/u] 
 [nation=short]the_federal_telecommunications_bureau[/nation] [b](Director) [/b]
+[nation=short]republicofhampstead[/nation]
 [b][u]Recruitment Bureau[/b][/u] 
 [nation=short]haigford[/nation] [b](Chairman) [/b]
 [b][u]Chief Communications Officer[/b][/u] 
-[nation=short]republicofhampstead[/nation]
+VACANT
 
 Our ambassadorial representatives are currently located in:
 

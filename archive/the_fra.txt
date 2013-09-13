@@ -7,7 +7,7 @@
 
 Arch Chancellor -- [nation=short]Falconias[/nation]
 
-Vice Chancellor -- [i]to be appointed[/i]
+Vice Chancellor -- [nation=short]Flowering Staplers[/nation]
 
 Chief of Defence Force -- [nation=short]Frattastan II[/nation]
 

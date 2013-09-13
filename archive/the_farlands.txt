@@ -1,8 +1,8 @@
 The Caucus:
 
-World Assembly Delegate: Jaredania
-
 President: Jaredania
+
+World Assembly Delegate: StateofWalrus
 
 Minister of Defence: StateofWalrus
 
@@ -10,6 +10,6 @@ Minister of Communications: Actualisaria
 
 Minister of Foreign Affairs: Actualisaria
 
-Minister of Missile Defence: StateofWalrus
+
 
 Minister of Social Policy: Jaredania

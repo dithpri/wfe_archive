@@ -8,7 +8,7 @@
 [color=purple][b][u]Royal Council[/u][/b][/color] 
 [b]Lord Duke of the Aluvean:[/b] [nation]Valorono[/nation]
 [b]Vice Lord Duke of the Aluvean:[/b] [nation]Merodin[/nation]
-Duke of Defence: 
+Duke of Defence: [nation]Brotherhood Steel the 2nd[/nation]
 Duke of the Earl (environment): 
 Duke of Foreign Affairs: [nation]V E X[/nation]
 Duke of Education: 
