@@ -19,7 +19,7 @@ This is the Official Army of the [region]Next Generation Alliance[/region].
 [nation=short]Blackichan[/nation] ([b][color=blue]USL[/color][/b])
 [nation=short]Gapa[/nation] ([b][color=blue]USL[/color][/b])
 
-[b][color=blue]Majors:[/color][/b] 
+[b][color=red]Majors:[/color][/b] 
 [nation=short]United American Lands[/nation] ([color=blue][b]NCD[/b][/color])
 [nation=short]Ambibia[/nation] ([color=blue][b]DI[/b][/color])
 [nation=short]KiingKraze[/nation] ([b][color=red]R[/color][/b])
@@ -28,3 +28,5 @@ This is the Official Army of the [region]Next Generation Alliance[/region].
 [nation=short]Wasatia[/nation] ([color=red][b]A[/b][/color])
 [nation=short]Hogwarts School of Cats[/nation] ([color=purple][b]I[/b][/color])
 [nation=short]Kami Sekai[/nation] ([b][color=red]R[/color][/b])
+[nation=short]Barony of Blackmoor[/nation] ([b][color=red]NF[/color][/b])
+[nation=short]The Republic of Texiana[/nation] ([b][color=red]R[/color][/b])

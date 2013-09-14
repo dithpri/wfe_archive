@@ -1,12 +1,12 @@
-[color=red][b]Welcome to The Commonwealth of Kings[/b][/color]
+[color=red][b]Welcome to The Commonwealth of Kings, a Constitutional Monarchy who believes in the Freedom of Speech![/b][/color]
 
 [b][u][color=orange]MONARCH[/color][/u][/b]
 King: [nation=shortname]Lalucia[/nation]
 
 [b][u][color=orange]HIS MAJESTY&amp;#39;S GOVERNMENT[/color][/u][/b]
 Prime Minister: [nation=shortname]Lyncanestria[/nation] [color=blue][b]PCP[/b][/color]
-Minister of Defence: [color=blue][nation=shortname]Ceased[/nation][/color]
-Minister of Justice: [nation=shortname]Jeriatha and Northern Windport[/nation]
+Minister of Defence: [color=blue][nation=shortname]Ceased[/nation][/color] [i](Awaiting Oath)[/i]
+Minister of Justice: [nation=shortname]Jeriatha and Northern Windport[/nation] [i](Awaiting Oath)[/i]
 Minister of Foreign Affairs: [nation=shortname]Great Majorca[/nation]
 Minister of Immigration: [color=blue]Vacant[/color]
 [hr] Regional Alert Level: [b][color=green]GREEN[/color][/b] | Ruling Party: [b][color=blue]The Progressive-Conservative Party (PCP)[/color][/b]

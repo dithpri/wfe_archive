@@ -25,6 +25,7 @@
 [nation]Yuzan[/nation]
 [nation]Moshnia[/nation]
 [nation]Puipead[/nation]
+[nation]Dreispitz[/nation]
 
 [hr]
 
@@ -34,4 +35,4 @@
 
 [hr]
 
-[url=http://www2.picturepush.com/photo/a/13690380/img/13690380.png]Map of the Union[/url]
+[url=http://www2.picturepush.com/photo/a/13692815/img/13692815.png]Map of the Union[/url]
