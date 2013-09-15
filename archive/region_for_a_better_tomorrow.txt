@@ -1,21 +1,21 @@
-RegionalGoverment officials for the [region]Region For A Better Tomorrow[/region].
+Regional Goverment officials for the [region]Region For A Better Tomorrow[/region].
 
-Council of Elders(3):
-Chairman=
-Vice Chairman=
-Vice Chairman=
-Clerk of Courts:
-Branch Head-W. A Delegate:
-Regional Congressman:
-Regional President:
-Regional Vice President:
-Regional Minister of Culture:
-Regional Minister of Advisory:
-Regional Minister of Education:
-Regional Minister of Foreign Affairs:
-Regional Minister of Defense:
-Regional Minister of Female Affairs:
-Regional Minister of Youth Affairs:
-Regional Minister of Health Care:
+[B][U][COLOR=Blue]Council of Elders(3):[/U][/B][/COLOR]
+[B][U][COLOR=Blue]Chairman=[/U][/B][/COLOR][Nation]Marelda[/Nation]
+[B][U][COLOR=Blue]Vice Chairman=[/U][/B][/COLOR]
+[B][U][COLOR=Blue]Vice Chairman=[/U][/B][/COLOR]
+[B][U][COLOR=Green]Clerk of Courts:[/U][/B][/COLOR]
+[B][U][COLOR=Crimson]Branch Head-W. A Delegate:Acting[/U][/B][/COLOR][Nation]Marelda[/Nation]
+[B][U][COLOR=Crimson]Regional Congress:[/U][/B][/COLOR][Nation]Blutonburg[/Nation],[Nation]Selia[/Nation]
+[B][U][COLOR=Crimson]Regional President:[/U][/B][/COLOR][Nation]New-Creation[/Nation]
+[B][U][COLOR=Crimson]Regional Vice President:[/U][/B][/COLOR]
+[B][U][COLOR=Green]Regional Minister of Culture:[/U][/B][/COLOR][Nation]Genovia-Union[/Nation]
+[B][U][COLOR=Purple]Regional Minister of Advisory:[/U][/B][/COLOR]
+[B][U][COLOR=Red]Regional Minister of Education:[/U][/B][/COLOR]
+[B][U][COLOR=Green]Regional Minister of Foreign Affairs:[/U][/B][/COLOR]
+[B][U][COLOR=Purple]Regional Minister of Defense:[/U][/B][/COLOR]
+[B][U][COLOR=Purple]Regional Minister of Female Affairs:[/U][/B][/COLOR][Nation]Moral-Love[/Nation]
+[B][U][COLOR=Purple]Regional Minister of Youth Affairs:[/U][/B][/COLOR]
+[B][U][COLOR=Purple]Regional Minister of Health Care:[/U][/B][/COLOR][Nation]New-Pleasant[/Nation]
 
 

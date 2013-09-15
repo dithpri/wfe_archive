@@ -1,3 +1,3 @@
-The territories and constituent countries within [nation]French Willeon[/nation], mainly:
-- 3 Federation territories: [nation=short]French Sardinia[/nation], [nation=short]the French Balearic Islands[/nation], [nation=short]French Newfoundland[/nation]
-- 2 Constituent countries: [nation=short]Brittania Royale[/nation], [nation=short]Aegina Royale[/nation]
+The territories and constituent countries of [nation]French Willeon[/nation], mainly:
+- Federation territories: [nation=short]French Sardinia[/nation], [nation=short]the French Balearic Islands[/nation], [nation=short]French Newfoundland[/nation]
+- Constituent countries: [nation=short]Brittania Royale[/nation], [nation=short]Aegina Royale[/nation], [nation=short]Kyra Royale[/nation], [nation=short]Nero Royale[/nation], [nation=short]Philos Royale[/nation], [nation=short]Skyros Royale[/nation]

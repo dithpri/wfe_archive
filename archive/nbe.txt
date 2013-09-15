@@ -10,7 +10,7 @@
 [b]Emperor:[nation=short]Desocia[/nation]
 Imperial Guardian:[nation=short]Zambia-Rhodesia[/nation]
 
-Minister of Culture:[nation=short]Cernakoo[/nation]
+Minister of Culture:
 Minister of Information:[nation=short]Zambia-Rhodesia[/nation]
 Director of the Secret Police:[nation=short]Trunava[/nation]
 [/b]

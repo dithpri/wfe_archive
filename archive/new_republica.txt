@@ -3,7 +3,7 @@
 
 Regional Government: 
 President: [nation]Beta Test[/nation]
-Vice President: None
+Vice President: [nation]the republic rome[/nation]
 SecState: None
 SecDef: [nation]The United Remnants of America[/nation]
 
@@ -19,8 +19,8 @@ Judges:
 [color=gunmetal]Message of the Day: Welcome to all new nations! Long live the New Republican nations![/color]
 
 Record population:468
-Current Population:186
-Recruitment Goal:200
+Current Population:202
+Recruitment Goal:210
 
 [color=purple]Make sure to endorse your Delegate![/color]
 

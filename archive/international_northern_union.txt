@@ -6,16 +6,16 @@ WA Delegate: [nation=short]Xin Prussia[/nation]
 Adviser: [nation=short]Norskia[/nation]
 Chairman: [nation=short]Mundimundi[/nation]
 Secretary of Recruitment: [nation=short]Zwotstyg[/nation]
-Foreign Minister:
+Foreign Minister: [nation=short]Iarphairc[/nation]
 Ambassador Committee:
 
-[b]WA Members:[/b] Please endorse our current delegate.
+[b]Please endorse our current delegate.[/b]
 
 
 [u]The INU is a sister region of:[/u]
---[region]International Western Union[/region]
---[region]International Southern Union[/region]
---[region]International Arctic Union[/region]
+[region]International Western Union[/region]
+[region]International Southern Union[/region]
+[region]International Arctic Union[/region]
 When 40 nations are reached, the INU will work to form connections with the IWU, IAU, and ISU.
 
 [b][u][url=http://oi41.tinypic.com/111nswl.jpg]Regional Map[/url][/b][/u]  [b][u][url=http://internorthernunion.forumotion.com/]INU Regional Forum[/url][/b][/u]  [b][u][url=http://www.nstracker.net/regions?region=international+northern+union]NationStates Tracker[/url][/b][/u] [b][u][url=http://internationalnorthernunion.weebly.com/]INU Website[/url][/u][/b]
