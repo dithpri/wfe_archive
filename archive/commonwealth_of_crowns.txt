@@ -32,6 +32,6 @@
 [region]Grand Union[/region]
 [region]Draconian Alliance[/region]
 [region]Blackreach[/region]
-[region]The Kingdom[/region]
+[region]Troy[/region]
 [region]Libertopia[/region]
 [region]Pangea[/region]

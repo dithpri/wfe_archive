@@ -1,11 +1,15 @@
 Founded: 22 June 2013
 
-The forces of nature and corrupt government are stronger than previously thought. We must form together to fight back against this turmoil.
+The forces of nature and corrupt government are stronger than previously thought. We must form together to fight back against this turmoil. 
 [hr]
-Chief Executive:
-- [nation]Josh Beaty[/nation]
+[color=blue]Chief Executive/Founder:[/color]
+- [nation=short]Josh Beaty[/nation]
 
-Advisors:
-- [nation]Desuenos[/nation]
-- [nation]Saint Gorski[/nation]
-- [nation]Cody Roberson[/nation]
+[color=green]Executive Delegate:[/color]
+- [nation=short]Saint Gorski[/nation]
+
+[color=purple]WA Members:[/color]
+- [nation=short]The ubermenschen[/nation]
+- [nation=short]Uber Awesomeness[/nation]
+- [nation=short]DeSuenos[/nation]
+- [nation=short]Cody Roberson[/nation]
