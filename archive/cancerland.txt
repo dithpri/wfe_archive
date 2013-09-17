@@ -1,10 +1,9 @@
-Esta tierra se caracteriza por una confrontacion entre paises socialistas y capitalistas, y ademas por la particularidad de que sus habitantes tienen cancer. Despu&eacute;s de que se conformo la Comunidad de Naciones de Tribuzz en el centro del continente, tanto los Poderes Centrales como la nueva AFU, creada por Ito y sucesora a la ACSBIM, fortalecieron sus alianzas.
-
+Esta tierra se caracteriza por una confrontacion entre paises socialistas y capitalistas, y ademas por la particularidad de que sus habitantes tienen cancer. Son tiempos de paz y tranquilidad posteriores al refuerzo de las Alianzas que ocurri&oacute; despu&eacute;s de la formaci&oacute;n de la CNT, que se quiebran hoy con la formaci&oacute;n de la UTT.
 Poderes Centrales:
 [nation]Mioland[/nation]
 [nation]Yrgksvol[/nation]
 [nation]Gargery[/nation]
-Comunidad de Naciones de Tribuzz
+Uni&oacute;n de Tierras de Tribuzz
 [nation]Tribuzz1[/nation]
 [nation]Non-sosializ[/nation]
 [nation]Tribuzz2[/nation]

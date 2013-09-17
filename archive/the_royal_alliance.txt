@@ -8,7 +8,7 @@
 
 [color=blue]Prime Minister: [/color][nation=short]The Maynard Islands[/nation] 
 
-[color=blue]Deputy Prime Minister:[/color] [color=black](Vacant)[/color]
+[color=blue]Deputy Prime Minister:[/color] [nation=short]Magna civilis[/nation]
 
 [color=blue]Assistant Governor-General:[/color] [nation=short]OshiWoshi[/nation]
 

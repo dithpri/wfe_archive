@@ -1,20 +1,14 @@
-Welcome to The United Allied Powers of the Pacific. This great region is an area for countries that want to grow from anything like a world power, or a smaller colony. 
-
 Here are the nominees for Legislative Council of United Allied Powers President (CLAUP)
-[nation]Roselake[/nation]
 [nation]Mondelera[/nation]
-[nation]Wavekiller[/nation]
 [nation]Kobej[/nation]
 [nation]Whatsitsname[/nation]
 
-
-Here is our Government:
-President: [b]Biron[/b]
-Vice President: [b]Zoropas[/b]
-Congress Party Member: [b]Putnam[/b]
-Congress Part Member: [b]Kwanville[/b]
-Supreme Court Justice: [b]Earthbound Valhalla[/b]
-Foreign Policy Advisor: [b]Aqua Royale[/b]
-Foreign Policy Advisor: [b]Emerald States[/b]
-Foreign Policy Advisor: [b]Hydropia[/b]
-Internal Affairs: [b]Shilton[/b]
+President: [nation]Biron[/nation]
+Vice President: [nation]Zoropas[/nation]
+Congress Party Member: [nation]United Republic of Putnam[/nation]
+Congress Party Member: [nation]Kwanville[/nation]
+Supreme Court Justice: [nation]Earthbound Valhalla[/nation]
+Foreign Policy Advisor: [nation]Aqua Royale[/nation]
+Foreign Policy Advisor: [nation]Emerald States[/nation]
+Foreign Policy Advisor: [nation]Hydropia[/nation]
+Internal Affairs: [nation]Shilton[/nation]
