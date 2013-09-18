@@ -6,11 +6,6 @@ Head of Gracemerian War Council and Foreign Affairs
 
 
 
-[u]Gracemerian Foreign Affairs[/u]
- Secretary of Forgein Affairs:
-[nation]Oblitus Sicarii[/nation]
-
-
 
 [u]Gracemerian War Council[/u]
 Commander of Regional Military Forces:  
@@ -19,25 +14,17 @@ Commander of Regional Military Forces:
 
 
 Strategic Advisors:
-[nation]The Dark Angels[/nation]
 
-[nation]The Reapers Wolves[/nation]
-
-[nation]Gracemerian Marines[/nation]
+[nation]Shiggity Diggity[/nation]
 
 
 
 Special Units:
 [nation]Gracemerian Alchemists[/nation]
 
-
-[nation]The Gracemeria Honor Guard[/nation] 
-
-
-[nation]The Spartans of Gracemeria[/nation]
+[nation]Gracemerian Marines[/nation]
 
 
-[nation]The Gracemerian Zombie Response Force[/nation]
+
+
  
-
-

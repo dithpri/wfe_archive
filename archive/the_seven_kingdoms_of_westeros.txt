@@ -1,12 +1,13 @@
 [b]I welcome all nations to [region]The Seven Kingdoms of Westeros[/region][/b]
 
+Ruled by Queen Daenerys of [nation]Targaryen Blood[/nation]
+Hand of the Queen: [nation]Winterfell of House Stark[/nation]
+
 Current titles of nobility:
 Lord Protector of The Iron Islands to [nation]House Greyjoy of Pyke[/nation]
 Lord Protector of The Vale to [nation]Arryn of The Vale[/nation]
-Lord Protector of The North to [nation]BoltonLand[/nation]
-Lord Protector of Dorne to [nation]House Dayne of Starfall[/nation]
-Lord Protector of The Reach to [nation]Tyrelland[/nation]
+Lord Protector of The North to [nation]Winterfell of House Stark[/nation]
+Lord Protector of The Neck to [nation]The Twins[/nation]
+Lord Protector of The Reach to [nation]House Hightower[/nation]
 Lord Protector of The Rock to [nation]Lannister of the Rock[/nation]
-Lord Protector of The Stormlands [nation]House Baratheon of the Stormlands[/nation]
-
-[b]KINGSMOOT HAS COMMENCED, CAST YOUR VOTES NOW![/b]
+Lord Protector of The Stormlands and Dorne [nation]Targaryen Blood[/nation]

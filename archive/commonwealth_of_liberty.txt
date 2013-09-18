@@ -11,7 +11,7 @@ Speaker of the Parliament: to be elected by Parliament
 
 Defense Minister: [nation=short]North Omaha[/nation]
 
-Legal Minister: To be selected by PM 
+Legal Minister: [nation=short]The United Tribes[/nation]
 
 Foreign Affairs Minister: [nation=short]Tritona[/nation]
 [u]----------------[/u]

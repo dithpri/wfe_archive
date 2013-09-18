@@ -1,14 +1,16 @@
-Here are the nominees for Legislative Council of United Allied Powers President (CLAUP)
-[nation]Mondelera[/nation]
-[nation]Kobej[/nation]
-[nation]Whatsitsname[/nation]
-
+Executive: 
 President: [nation]Biron[/nation]
 Vice President: [nation]Zoropas[/nation]
-Congress Party Member: [nation]United Republic of Putnam[/nation]
-Congress Party Member: [nation]Kwanville[/nation]
-Supreme Court Justice: [nation]Earthbound Valhalla[/nation]
 Foreign Policy Advisor: [nation]Aqua Royale[/nation]
 Foreign Policy Advisor: [nation]Emerald States[/nation]
 Foreign Policy Advisor: [nation]Hydropia[/nation]
 Internal Affairs: [nation]Shilton[/nation]
+
+Legislative:
+Legislative Council President:[nation]Mondelera[/nation]
+Congress Party Member: [nation]United Republic of Putnam[/nation]
+Congress Party Member: [nation]Kwanville[/nation]
+Council Deputies:[nation]Roselake[/nation], [nation]Wavekiller[/nation], [nation]Kobej[/nation], [nation]Whatsitsname[/nation]
+
+Judicial:
+Supreme Court Justice: [nation]Earthbound Valhalla[/nation]

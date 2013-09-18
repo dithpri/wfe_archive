@@ -1,10 +1,11 @@
-[color=blue]Regional Government[/color]
-[color=red]President[/color]:[nation]Zachsland[/nation]
-[color=red]Vice President[/color]:[nation]Derosh[/nation]                        
-[color=purple]Sec. Of Defence[/color]:[nation]Flakaland[/nation]
-[color=purple]Supreme Judge[/color]:[nation]Soviet Africa[/nation]
-[color=purple]Ambassador of foreign relations[/color]:[nation]Renments[/nation]
-[color=purple]D.I.D Scout[/color]:[nation]Pyong[/nation]
+[color=grey]President[/color]- [nation=short]Zachsland[/nation]
+[color=grey]Vice President[/color]- [nation=short]Derosh[/nation]
+[color=orange]Speaker of the House[/color]- [nation=short]Calostile[/nation]
+[color=orange]Sec. of Defense[/color]- [nation=short]Flakaland[/nation]
+[color=green]Supreme Judge[/color]- [nation=short]Vatix[/nation]
+[color=green]Region Representative[/color]- [nation=short]Ancient Union[/nation]
+[color=purple]Ambassador[/color]- [nation=short]Redmany[/nation]
+[color=purple]Sec. of Economics[/color]- [nation=short]The Syrian Empire[/nation]
 
 [color=blue]May democracy reign forever[/color]
 [color=red]and let Dictatorship constantly triumph[/color]
@@ -14,12 +15,12 @@
 [url=http://www.nstracker.net/regions?region=The+Dictoral+Isles+of+Democracy] Region Stats[/url] 
 [url=http://www.nationstates.net/nation=zachsland/detail=factbook/id=149945]-D.I.D Constitution[/url] 
 [url=http://www.nationstates.net/nation=zachsland/detail=factbook/id=164490]Top 3 Militaries[/url]
-[url=http://i.imgur.com/UEd99RF.png]Regional Map[/url] 
+[url=http://i.imgur.com/TEfUfIj.png]Regional Map[/url] 
 [url=http://www.nationstates.net/nation=zachsland/detail=factbook/id=150051]-Recruitment Message[/url] 
 [url=http://w11.zetaboards.com/DID_offsite/index/]Region Forum[/url] 
 [url=http://www.nationstates.net/nation=zachsland/detail=factbook/id=150210]-Regions Most Populated Cities
 [/url] 
-[url=http://www.nationstates.net/nation=flakaland/detail=factbook/id=152074]-D.I.D Government[/url]
+[url=http://www.nationstates.net/nation=flakaland/detail=factbook/id=165237]-D.I.D Government[/url]
 
 [color=blue]Defcon Level[/color]: 5   [color=black]Troops Sleeping[/color]
 

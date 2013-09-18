@@ -4,6 +4,7 @@ ISLAMIC UNION [color=gray](The Regional of Islamic Union)[/color]
 
 [u][b]REGION HEAD COUNCIL[/b][/u]
 [nation]Khalifa[/nation]
+[nation]Caliphates[/nation]
 [hr]
 
 [u][b]REGION REQUIREMENTS[/b][/u]

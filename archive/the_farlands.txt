@@ -1,6 +1,6 @@
 The Caucus:
 
-President: Jaredania
+Emperor: Jaredania
 
 Minister of Defence: StateofWalrus
 
@@ -11,3 +11,11 @@ Minister of Foreign Affairs: Actualisaria
 Minister of Social Policy: Jaredania
 
 Minister of Coal Distribution: Rovensburg
+
+Minister of Health: Actualisaria
+
+Minister of Immigration and Border Protection: Actualisaria
+
+Minister of Regional Issues:  StateofWalrus
+
+Treasurer: Majodania

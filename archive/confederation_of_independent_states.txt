@@ -2,10 +2,14 @@
 [b]Prime Minister[/b] - [nation]Ankh Morporka[/nation]
 [b]Minister of Internal Affairs[/b] - [nation]Hylasia[/nation]
 [b]Minister of Foreign Affairs[/b] - [nation]Jaxandria[/nation]
-[b]Minister of Justice[/b] - [nation]Syrillia[/nation]
+[b]Minister of Justice and Lord High Steward[/b] - [nation]Syrillia[/nation]
 [b]Minister of Recruitment and Reconciliation[/b] - [nation]Kittiwake[/nation]
-[b]Minister of Minorities[/b] - [nation]Vargaslavia[/nation]
+[b]Minister of Minorities and Executive Advisor[/b] - [nation]Vargaslavia[/nation]
 
 [i]Currently in Compliance Workshops[/i]
 [b]Chief Conspirator[/b] - [nation]Torder[/nation]
 [b]Voice of the Opposition[/b] - [nation]The Foco[/nation]
+
+[i]Eternal Presidents[/i]
+[nation]Hylasia[/nation]
+[nation]Tilsitin[/nation]

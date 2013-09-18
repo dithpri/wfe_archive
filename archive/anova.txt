@@ -1,21 +1,21 @@
 Anova is a democratic region that strives to be fair and just to all. Any nation is welcome to join Anova as long as they agree to the rules of the constitution. 
 
 [hr][B][u]Executive Government[/u][/b]
-Secretary General: [nation]Windport[/nation]
-WA Representative: [nation]Arcadonisia[/nation]
-Speaker of Congress: VACANT
+Secretary General: [nation=short]Windport[/nation]
+WA Representative: [nation=short]Arcadonisia[/nation]
+Speaker of Congress: [nation=short]Next Washington[/nation]
 
 [hr][b][u]Cabinet[/u][/b]
-Secretary of Domestic Affairs: [nation]New Anoka[/nation]
-Secretary of Foreign Affairs: [nation]Next Washington[/nation]
-Secretary of Immigration: VACANT
+Secretary of Domestic Affairs: [nation=short]New Anoka[/nation]
+Secretary of Justice: VACANT
+Secretary of Immigration: [nation=short]Connectimello[/nation]
 
 
 [hr][B][u]Important Links[/u][/b]
 Join our [url=http://nightingale.freeforums.org/]Forum[/url]
 Read &amp;amp; Improve our [url=http://nightingale.freeforums.org/first-draft-of-the-constitution-of-anova-t6.html]Constitution[/url]
 Chat on our [url=http://webchat.freenode.net/?channels=Anova&amp;amp;uio=OT10cnVlJjExPTIzNg6b]IRC[/url]
-Participate in our [url=http://nightingale.freeforums.org/election-centre-f27.html]Elections[/url]
+Participate in our [url=http://nightingale.freeforums.org/the-history-of-anova-t27.html]Regional Roleplay[/url]
 
-[hr][b]Nation of the Week:[/b] [nation]Next Washington[/nation]
+[hr][b]Nation of the Week:[/b] [nation]Aruvar[/nation]
 [b]Population Goal:[/b] 15 Nations

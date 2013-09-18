@@ -11,7 +11,7 @@
    [b]WA delegate:[/b] [nation]supreme leader kim jong un[/nation]
    [b]Vice WA delegate:[/b] [nation]pacific oklahoma[/nation]
    [b]Secretary of Defence:[/b] [nation=yoteg]
-   [b]Secretary of Economics and Trade:[/b]   [nation=anterina]                           
+   [b]Secretary of Economics and Trade:[/b] Open                      
  [b]RNAF Commander:[/b] [nation]everlyn[/nation]
    [b]Ambassador:[/b] [nation=The Hibernian Insula]
    [b]RN Recruiter:[/b] [nation=Starkiller101]
@@ -19,4 +19,4 @@
 
 [Color=red][b]This Region was founded on Febuary 2nd 2013[/b][/color]
 
-[B]Safety: code [color=green]Green[/color][/b] Troops alert.
+[B]Safety: code [color=gold]Yellow[/color][/b] Near War. WA nations Prepare.

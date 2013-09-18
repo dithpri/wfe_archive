@@ -2,7 +2,7 @@
 
 [b][u]UWA Government:[/u][/b]
 [b][color=blue]Founder-[nation]MAZG[/nation][/b][/color]
-[b][color=blue]President-[nation]Germantic[/nation][/b][/color]
+[b][color=blue]President-[nation]Germantic[/nation] (WA Delegate)[/b][/color]
 [b][color=blue]Vice President-[/b][/color]
 
 [u][color=purple][b]Minister of Foreign Affairs-[/b][/color][/u]
@@ -10,7 +10,7 @@
 [b][u]Security Consul:[/u][/b]
 
 [color=red][b]Head Chairmen-[nation]LtKeetle[/nation][/b]
-[i]Consul Members:[/i][/color]
+[i]Consul Members:[/i][b][nation]The Due Sicilie[/nation][/b][/color]
 
 [b][u]International Court of Justice:[/b][/u]
 [color=blue][b]Chief Justice-[/b]
@@ -18,4 +18,4 @@ Justices-[/color]
 
 [url=http://uwans.boards.net/] UWA Forum [/url]
 
-[i][color=brown]This region is exclusively for WA members only[/color][/i]
+[i][color=brown]WA members only[/color][/i]
