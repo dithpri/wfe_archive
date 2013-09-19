@@ -5,10 +5,10 @@
 
 [b][color=orange]REGIONAL STOCK MARKET:[/color]
 
-[color=green]OPEN: 14,302.15[/color]
-[color=red]HIGH: 15,522.67[/color]
-[color=blue]CLOSE: 15,701.24[/color]
-[color=bronze]INDEX: +1.09 (UP)[/color][/b]
+[color=green]OPEN:15,701.24[/color]
+[color=red]HIGH: 16,501.10[/color]
+[color=blue]CLOSE: 16,701.00[/color]
+[color=bronze]INDEX: +0.94 (UP)[/color][/b]
 
 [b]Regional Commissioner: Gregorio de Batanes ([nation=short]Kara-Yuktobania[/nation]) 
 Consul-General: [nation=short]Arimaxistad[/nation][/b]
