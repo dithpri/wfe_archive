@@ -1,7 +1,7 @@
 Greatest countries to enter Tristonia:
 prime time had __14__ nations.
 [nation=short]Tristonia II[/nation]
-[color=cyan]Tristonia III[/color]
+[nation=short]Tristonia III[/nation]
 [color=red]Golaga[/color]
 [color=brown]Amburria[/color]
 [color=green]Gormullga[/color]
@@ -10,6 +10,7 @@ prime time had __14__ nations.
 [color=green]Elewye[/color]
 [color=gray]Slonismal[/color]
 [color=cyan]Galapo[/color]
+[nation=short]Rolanddust[/nation]
 [color=yellow]Windowsland[/color]
 [color=blue]Strongbow[/color]
 [color=green]Tristonia IV[/color]

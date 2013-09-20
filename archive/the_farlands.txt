@@ -2,9 +2,9 @@ The Caucus:
 
 Emperor: Jaredania
 
-Co-Emperor StateOfWalrus 
+Vice-Emperor: StateofWalrus
 
-Head of Defense: StateofWalrus
+Minister of Defense: StateofWalrus
 
 Minister of Foreign Affairs: Actualisaria
 
@@ -14,8 +14,4 @@ Minister of Resources: Rovensburg
 
 Minister of Immigration and Border Protection: Actualisaria
 
-Minister of Regional Co-operation:  StateofWalrus
-
 Treasurer: Majodania 
-
-Head of Pirates: The United Pirate Nation

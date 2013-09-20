@@ -1,10 +1,10 @@
-Minister of Trade:[nation]Lukevania[/nation] 
-Minister of Treasury:[nation]Dubstepistan[/nation]
-Minister of War: [nation]The Father Son and Holy Ghost[/nation]
-Minister of Domestic Affairs:[nation]Infinite Democracy[/nation]
-Minister of Health:[nation]Dikiewikie[/nation]
-Minister of International Affairs: [nation]Bensalvainia[/nation]
-Minister of Defense:[nation]Urgania[/nation]
-Minister of Education: [nation]Wrecksauce[/nation]
-Minister of Intelligence:[nation]Excentracy[/nation]
-Minister of Agriculture: [nation]Dikiewikie[/nation] 
+Minister of Trade: 
+Minister of Treasury:
+Minister of War: [nation]BODYARMOUR[/nation]
+Minister of Domestic Affairs:
+Minister of Health:
+Minister of International Affairs (Delegate): [nation]Bensalvainia[/nation]
+Minister of Defense:
+Minister of Education: [nation]Thefathersonandholyghost[/nation]
+Minister of Intelligence:
+Minister of Agriculture: 
