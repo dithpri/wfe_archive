@@ -32,5 +32,3 @@
 [region]Blackreach[/region]
 [region]The Kingdom[/region]
 [region]Libertopia[/region]
-[region]Pangea[/region]
-[region]The Holy Christian Union[/region]

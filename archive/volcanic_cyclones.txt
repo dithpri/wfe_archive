@@ -9,11 +9,11 @@ If you have any questions, comments, or concerns please feel free to contact any
 [color=blue]Chief Executive/Founder:[/color]
 - [nation=short]Josh Beaty[/nation]
 
-[color=green]Executive Delegate:[/color]
+[color=red]Executive Delegate:[/color]
 - [nation=short]Saint Gorski[/nation]
 
 Advisors:
-[color=purple]WA Members:[/color]
+[color=bronze]WA Members:[/color]
 - [nation=short]Uber Awesomeness[/nation]
 - [nation=short]DeSuenos[/nation]
 - [nation=short]Cody Roberson[/nation]
@@ -21,3 +21,11 @@ Advisors:
 Non-Advisors:
 [color=purple]WA Member:[/color]
 - [nation=short]The ubermenschen[/nation]
+
+[color=orange]Non-WA Members:[/color]
+- [nation=short]Celeb Du[/nation]
+- [nation=short]Intellectually Superior Donkeys[/nation]
+- [nation=short]Jellybean Sandwich[/nation]
+- [nation=short]Justin Roberson[/nation]
+- [nation=short]Paradoxican[/nation]
+- [nation=short]Tyler Roberson[/nation]

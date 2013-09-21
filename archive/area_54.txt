@@ -1,19 +1,19 @@
 [color=blue][B][I]&amp;quot;LIBERTATIS, JUSTICIAE, ET PROSPERITATEM&amp;quot;[/B][/I][/color]---[B]THE RISING [color=blue]CAPITALIST POWERHOUSE[/color] IN [color=blue]NATIONSTATES[/color], [I][U]COMMITTED IN PRESERVING UNITY AND ORDER![/U][/I][/B]
 
 [b][color=red]UPDATE: [/color]
- [*]Nationwide Famine Rages Southern Osea[/b]
+ [*]Regional Unemployment Rate marks 7.87% [/b]
 
 [b][color=orange]REGIONAL STOCK MARKET:[/color]
 
-[color=green]OPEN:15,701.24[/color]
-[color=red]HIGH: 16,501.10[/color]
-[color=blue]CLOSE: 16,701.00[/color]
-[color=bronze]INDEX: +0.94 (UP)[/color][/b]
+[color=green]OPEN:16,701.00[/color]
+[color=red]HIGH: 15.291.01[/color]
+[color=blue]CLOSE: 15.264.19[/color]
+[color=bronze]INDEX: -0.91 (DOWN)[/color][/b]
 
 [b]Regional Commissioner: Gregorio de Batanes ([nation=short]Kara-Yuktobania[/nation]) 
 Consul-General: [nation=short]Arimaxistad[/nation][/b]
 
-[b] POPULATION:[/b] 7,447,000,000 (source: A54CRP)
+[b] POPULATION:[/b] 7,144,000,000 (source: A54CRP)
 
 [b]DEFENSE STATUS:[/b] LEVEL [color=gold][B]3[/B][/color]
 
@@ -24,6 +24,6 @@ Consul-General: [nation=short]Arimaxistad[/nation][/b]
 []            A54DEF 5	PEACE (WHITE)
 
 [B]REGION&amp;#39;S ACTIVE AND RESERVED MILITARY PERSONNEL (AS of SEPTEMBER 2013):
-[/B] [color=red][B]810,754,463[/B][/color]
+[/B] [color=red][B]812,928,800[/B][/color]
 
 [b] SOLDIER-TO-CIVILIAN RATIO: [color=red]1:8[/b][/color]
