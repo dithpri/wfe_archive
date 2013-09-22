@@ -1,13 +1,15 @@
 [b]I welcome all nations to [region]The Seven Kingdoms of Westeros[/region][/b]
 
 Ruled by Queen Daenerys of [nation]Targaryen Blood[/nation]
-Hand of the Queen: [nation]Winterfell of House Stark[/nation]
 
-Current titles of nobility:
-Lord Protector of The Iron Islands to [nation]House Greyjoy of Pyke[/nation]
-Lord Protector of The Vale to [nation]Arryn of The Vale[/nation]
-Lord Protector of The North to [nation]Winterfell of House Stark[/nation]
-Lord Protector of The Reach to [nation]House Hightower[/nation]
-Lord Protector of The Rock to [nation]Lannister of the Rock[/nation]
-Lord Protector of The Stormlands to[nation]Targaryen Blood[/nation]
-Lord Protector of Dorne to [nation]Yronwood of Dorne[/nation]
+The Small Council: 
+Hand of the Queen - [nation]Winterfell Of House Stark[/nation]
+Grand Maester - [nation]Cracklaw Point[/nation]
+Lord Commander of the Queensguard - [nation]North Winterfell[/nation]
+Master of Whisperers - [nation]Lannister of the Rock[/nation]
+Master of Coin - [nation]The Twins[/nation]
+Master of Ships - [nation]House Greyjoy of Pyke[/nation]
+Master of Laws - [nation]Valyrian Isles[/nation]
+Advisor - [nation]Lord Baelish of Harrenhal[/nation]
+Advisor - [nation]NymeriaLand[/nation]
+

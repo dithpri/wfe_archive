@@ -7,7 +7,7 @@ WA Delegate: [nation=short]Corwell[/nation]
 Vice Delegate: [nation=short]Mullock[/nation]
 Justice Committee: [nation=short]Hoskia[/nation], [nation=short]Myrtle Isles[/nation], [nation=short]Svenelheim[/nation]
 Official Chairman:
-Secretary of Recruitment: 
+Secretary of Recruitment: [nation=short]Rachariaa[/nation] 
 Adviser:
 Intelligence Group: 
 Foreign Regions Ambassador: 

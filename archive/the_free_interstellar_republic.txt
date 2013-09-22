@@ -1,20 +1,15 @@
-[b]States:[/b]
-#1 - [i]Aerinoth[/i] ([nation=short]The Fifth Dominion[/nation])
-#2 - [i]Inquells[/i] ([nation=short]Inquells[/nation])
-#3 - [i]Hoppity Jump[/i] ([nation=short]Hoppity Jump[/nation])
-#4 - [i]Alfalshi[/i] ([nation]Nationalist Alfalshi[/nation]
-#5 - [i]Fourth Dominion[/i] ([nation=short]The Grand Fourth Dominion[/nation])
-#6 - [i]Old North Fish[/i] ([nation=short]Old North Fish[/nation])
-#7 - [i]Adi Rajen[/i] ([nation=short]Adi Rajen[/nation])
-#8 - [i]Fal shia[/i] ([nation=short]Fal shia[/nation])
-#9 - [i]Davatria[/i] ([nation=short]Davatria[/nation])
-#10 - [i]Vojne[/i] ([nation=short]Vojne[/nation])
-#11 - [i]Southern Zone[/i] ([nation=short]Ashbringer[/nation]/[nation=short]The Southern Zones[/nation])
+[b][color=pink]This region has been ransacked and attacked by [region]The Black Hawks[/region]! 
 
-[b]FEDERAL ZONES[/b]
-#1 - Varnathox Capital Zone (location: [i]Inquells[/i])
-#2 - Free Fire Zone (location: [i]Alfalshi[/i])
-#3 - Iievian Ruins Historical Site (location: [i]Former Iievian Isles[/i])
+Fear the skies![/color]
 
-[b]RP[/b] - [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=208382]A Divided Future[/url]
-[b]News[/b] - [url=http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=208832]Regional News[/url]
+Hawks Flying the Colors:
+
+[nation]Mallorea[/nation]
+[nation]Kothic Hawk[/nation]
+[nation]Venico[/nation]
+[nation]Gestahliam[/nation]
+[nation]Suchasmallthing[/nation]
+[nation]Socialist Ecuador[/nation]
+
+[color=blue]Ban the Natives! Kick the Fendas! Grief the Region![/color]
+[/b]

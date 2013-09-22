@@ -13,9 +13,11 @@ If you have any questions, comments, or concerns please feel free to contact any
 - [nation=short]Saint Gorski[/nation]
 
 Advisors:
-[color=bronze]WA Members:[/color]
+[color=crimson]WA Members:[/color]
 - [nation=short]Uber Awesomeness[/nation]
 - [nation=short]DeSuenos[/nation]
+
+[color=brown]Non-WA Members:[/color]
 - [nation=short]Cody Roberson[/nation]
 
 Non-Advisors:

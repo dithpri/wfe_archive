@@ -7,12 +7,12 @@
 
 [color=red][b]6th Kennan Secretary Council[/b][/color]
 [b]Administration:[/b] [nation=short]Samukan[/nation]
-[b]Commerce:[/b] [nation=short]Wilder Ancestors[/nation]
-[b]Defense:[/b] [nation=short]Ethan Foley[/nation] 
+[b]Defense:[/b] [nation=short]The Azerian Empire[/nation] 
 [b]Education:[/b] [nation=short]Frache[/nation]
 [b]Environment:[/b] [nation=short]United Solcialist States of Jakeopia[/nation]
 [b]Foreign Affairs:[/b] [nation=short]Sandwich Territories[/nation]
-[b]Human Rights:[/b] [nation=short]Roytonburg[/nation]
+[b]Human Rights:[/b] [nation=short]Wilder Ancestors[/nation]
+[b]Law Enforcement:[/b] [nation=short]Ethan Foley[/nation]
 
 [color=red][b]Chairmen[/b][/color]
 [b]Kennan Regional Council:[/b] [nation=short]Sandwich Territories[/nation]
