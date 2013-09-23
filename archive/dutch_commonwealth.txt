@@ -1,15 +1,15 @@
 Founder country: Holanda
 
-Political Centre: Amsterhague
+Political Centre: Luxembourgo
 
-Member States: 2
+Member States: 3
 
-Largest city: Amsterhague (5,543,452)
+Largest city: Brusselas (56,543,452)
 
 Demonym: Germanic
 
 Population:
-- 2013 Census : 12,000,000 + 
+- 2013 Census : 278,000,000 + 
 
 Area: 
 
@@ -18,15 +18,28 @@ Area:
 
 Ethnic Groups: 
 
- - 75% Holandan
- - 25% Belgian
+ - Notedamnbooman 61%
+ - Holandan             22%
+ - Vnited Kindoman   16%
 
-Government: Federal Republic
+Government: Democratic
+
+Branches:
+
+Notedamnboom: Centrist Democracy
+
+Holanda: Open Minded Educated State
+
+Vnited Kingdom: Corporate Bordello
+
 
 Leaders:
 
  - President of the Dutch      Von haggen Strunsky 
    Commonwealth Council      
+
+ - President of the Dutch      Bill Walgrigt
+   Commision 
 
 Legislature: 
 
@@ -34,10 +47,11 @@ Upper House: Council of the Dutch Commonwealth
 
 Lower House: Commonwealth Parliament 
 
-Currency: EEuro
+Currency: Euro -
+              Pound Sterlin -
+              Rockasion +
 
 Internet TLD: .dh
-
 
 
 

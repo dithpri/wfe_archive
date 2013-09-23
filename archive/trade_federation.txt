@@ -10,13 +10,13 @@ The Trade Federation is a union of independent nations that strives to promote [
 [color=darkblue]&#149;[/color] Viceroy (WA Delegate):
 
 [color=darkblue]&#149;[/color] [u]Board of Directors:[/u]
-- Chief Operating Officer: 
-- Chief Financial Officer: 
+- Chief Operating Officer: [nation=short]Tinshein[/nation]
+- Chief Financial Officer: [nation=short]Silecia[/nation]
 - Chief Communications Officer: 
 - Chief Information Officer: 
 - Secretary: [/b]
 
-[i]Positions not yet available. See [nation=short]Trade and Commerce[/nation] for more information.[/i]
+[i]Positions available. See [nation=short]Trade and Commerce[/nation] for more information.[/i]
 
 [hr]
 [b][color=darkblue]&#149; [/color]TF News:[color=darkblue] N/A[/color]

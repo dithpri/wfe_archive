@@ -7,7 +7,7 @@
 [color=purple]Reichsmarschall:[/b] [nation=short]CyberNazi[/nation]
 [b]Generaldirektor des milit&auml;rischen:[/b][/color] [nation=short]Vacant[/nation]
 [b][color=purple]Weltversammlung Delegat:[/b][/color] [nation=short]Vacant[/nation]
-[b][color=purple]Chef der Propaganda:[/b][/color] [nation=short]Vacant[/nation]
+[b][color=purple]Chef der Propaganda:[/b][/color] [nation=short]AryanPrideNationwide[/nation]
 
 -[i]Contact [nation=short]CyberNazi[/nation] to enlist for military service[/i]
 -[color=red]We only accept embassy&amp;#39;s with [u]true[/u] nazi/fascist regions[/color]

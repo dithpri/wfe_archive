@@ -1,8 +1,8 @@
-[b][color=pink]This region has been ransacked and attacked by [region]The Black Hawks[/region]! 
+[b][color=pink]This region has not been ransacked and attacked by [region]The Black Hawks[/region]! 
 
-Fear the skies![/color]
+No need to fear the skies![/color]
 
-Hawks Flying the Colors:
+Hawks failing to fly the Colors:
 
 [nation]Mallorea[/nation]
 [nation]Kothic Hawk[/nation]
@@ -11,5 +11,5 @@ Hawks Flying the Colors:
 [nation]Suchasmallthing[/nation]
 [nation]Socialist Ecuador[/nation]
 
-[color=blue]Ban the Natives! Kick the Fendas! Grief the Region![/color]
+[color=blue]Un-Ban the Natives! Help the Fendas! Support the Region![/color]
 [/b]

@@ -5,10 +5,10 @@ Regional Government
 Minister of Defense: [nation=noflag]SSO[/nation]
 Minister of Foreign Affairs: [nation=noflag]The Western States Of Osacracy[/nation]
 Minister of Law: [nation=noflag]West Czech[/nation]
-Minister of Intelligence: [nation=noflag]HaBbein[/nation]
+Minister of Intelligence: [nation=noflag]Malilir[/nation]
 Minister of Elections: [nation=noflag]The Zambola Federation[/nation]
 
-Colonies
-[region]United States of Isto[/region]
+Colonies &amp;amp; Governors 
+[region]United States of Isto[/region]    -    [nation]HaBbein[/nation]
 
 [url=http://osacristnations.forumotion.com]Visit and join our forum![/url]
