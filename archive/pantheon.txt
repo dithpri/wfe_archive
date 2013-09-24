@@ -9,8 +9,6 @@ We now have IRC [url=http://w11.zetaboards.com/The_Pantheon_NS/pages/chat/]chat[
 [b][u]Regional Government[/b][/u]
 [b]Prime Minister and Delegate:[/b] [nation=short]Malakh HaMavet[/nation]
 [b]Temporary Delegate:[/b] [nation=short]Volstead[/nation]
-[b]Minister of Foreign Affairs:[/b] [nation=short]Ket[/nation]
-[b]Minister of Internal Affairs:[/b] [nation=short]Justiar[/nation]
 [b]Chancellor:[/b] [i]Vacant[/i]
 
 [u][b]The Military[/b][/u]
@@ -19,16 +17,15 @@ We now have IRC [url=http://w11.zetaboards.com/The_Pantheon_NS/pages/chat/]chat[
 [b]Prefect:[/b] [nation=short]United Land of Advancement[/nation]
 [b]Alpha Centurion:[/b] [nation=short]Malakh HaMavet[/nation]
 [b]Beta Centurion:[/b] [nation=short]Ket[/nation]
-[b]Gamma Centurion:[/b] [i]Vacant[/i]
+[b]Gamma Centurion:[/b] [nation=short]Dirt Roads[/nation]
 
 [u][b]The Judiciary[/b][/u]
 [b]Chief Justice:[/b] [nation=short]New North[/nation]
 
 [u][b]News[/b][/u]
+[url=http://w11.zetaboards.com/The_Pantheon_NS/topic/9159979]Reich Refounded[/url]
 [url=http://w11.zetaboards.com/The_Pantheon_NS/topic/9055800]LDS Refounded[/url]
 [url=http://w11.zetaboards.com/The_Pantheon_NS/topic/9053285]Chief Justice and Chancellor Elected[/url]
-[url=http://w11.zetaboards.com/The_Pantheon_NS/topic/9051099]Centurion and Minister of Intelligence Dismissed[/url]
-
 
 [u][b]Current Orders[/b][/u]
-Move to [region]Pantheon[/region] &amp;amp; endorse [nation=short]Volstead[/nation].
+Message [nation]Guarda[/nation] for current orders.

@@ -26,7 +26,6 @@
 [region]Imperial League of Nations[/region]
 [region]Assembly of Sovereign Nations[/region]
 [region]Global Union[/region]
-[region]The Global Alliance[/region]
 [region]Grand Union[/region]
 [region]Draconian Alliance[/region]
 [region]Blackreach[/region]

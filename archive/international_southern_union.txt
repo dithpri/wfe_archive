@@ -8,7 +8,7 @@ Vice Delegate: [nation=short]Mullock[/nation]
 Justice Committee: [nation=short]Hoskia[/nation], [nation=short]Myrtle Isles[/nation], [nation=short]Svenelheim[/nation]
 Official Chairman:
 Secretary of Recruitment: [nation=short]Rachariaa[/nation] 
-Adviser:
+Adviser: [nation=short]Rhume[/nation]
 Intelligence Group: 
 Foreign Regions Ambassador: 
 Regional Message Board Topic Overseer:[/color]
