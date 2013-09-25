@@ -2,14 +2,14 @@ Founder country: Holanda
 
 Political Centre: Luxembourgo
 
-Member States: 3
+Member States: 2
 
 Largest city: Brusselas (56,543,452)
 
 Demonym: Germanic
 
 Population:
-- 2013 Census : 278,000,000 + 
+- 2013 Census : 108,000,000 + 
 
 Area: 
 
@@ -18,15 +18,13 @@ Area:
 
 Ethnic Groups: 
 
- - Notedamnbooman 61%
- - Holandan             22%
- - Vnited Kindoman   16%
+ - Holandan             57%
+ - Vnited Kindoman   43%
 
 Government: Democratic
 
 Branches:
 
-Notedamnboom: Centrist Democracy
 
 Holanda: Open Minded Educated State
 
@@ -47,9 +45,9 @@ Upper House: Council of the Dutch Commonwealth
 
 Lower House: Commonwealth Parliament 
 
-Currency: Euro -
-              Pound Sterlin -
-              Rockasion +
+Currency: Euro +
+
+*The Vnited Kingdom has recently adopted the Euro. This new membership has boosted currency by 2%
 
 Internet TLD: .dh
 

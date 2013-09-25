@@ -1,4 +1,4 @@
-[b]Current Status[/b]: [color=orange]ALERT[/color]
+[b]Current Status[/b]: [color=red]WAR[/color] (Civil: [nation=short]Batorvidek[/nation])
 
 [hr]
 
@@ -26,6 +26,7 @@
 [nation]Moshnia[/nation]
 [nation]Puipead[/nation]
 [nation]Dreispitz[/nation]
+[nation]Batorvidek[/nation]
 
 [hr]
 
@@ -35,4 +36,4 @@
 
 [hr]
 
-[url=http://www4.picturepush.com/photo/a/13696112/img/13696112.png]Map of the Union[/url]
+[url=http://www5.picturepush.com/photo/a/13723633/img/13723633.png]Map of the Union[/url]

@@ -17,6 +17,6 @@ Grand Punmaster: [nation=short]Red Briefcase[/nation]
 [u]Security Level[/u]
 Peacetime - no foreseeable threats.
 Guarded - minor threat.
-[color=yellow]Alert - clear threat.[/color]
-Danger - serious threat.
+Alert - clear threat.
+[color=red]Danger - serious threat.[/color]
 Emergency - invasion imminent.

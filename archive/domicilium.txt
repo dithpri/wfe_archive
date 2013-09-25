@@ -8,6 +8,5 @@ Click [url=http://www.nstracker.net/regions?region=domicilium]here[/url] to view
 
 [b][u]Staff[/u][/b]
 Administration: [nation=Consigahria]
-Security: [nation=Shal Maziek]
-WA and Embassy Affairs: [nation=Gewaltig]
+Security, WA and Embassy Affairs: [nation=Gewaltig]
 Outreach: [nation=West Consigahria]

@@ -11,11 +11,11 @@ Emperor: [nation=short]Desocia[/nation]
 
 Imperial Guardian: [nation=short]Trunava[/nation]
 
-Minister of Culture: [nation=short]The Holy Potato Empire[/nation]
-
 Minister of Information: [nation=short]Zambia-Rhodesia[/nation]
 
 Director of the Secret Police: [nation=short]Trunava[/nation]
+
+Minister of Culture: [nation=short]The Holy Potato Empire[/nation]
 [/b]
 
 
@@ -23,4 +23,4 @@ Director of the Secret Police: [nation=short]Trunava[/nation]
 
 [b][color=gold]Member[/color] of the [region]Right Wing Uprising[/region][/b]
 
-[b][url=http://www.nationstates.net/nation=desocia/detail=factbook/id=152924][u]Join The Imperial Imperial Army Today![/u][/url][/b]
+[b][url=http://www.nationstates.net/nation=desocia/detail=factbook/id=152924][u]Join The Imperial Army Today![/u][/url][/b]
