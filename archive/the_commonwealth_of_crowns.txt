@@ -13,7 +13,7 @@ Lord Commander: [nation=short]Noorderkwartier[/nation]
 [hr]
 [b]Cabinet:[/b]
 Minister of the Interior: [nation=short]Lunidia[/nation]
-Minister of Finance: 
+Minister of Finance: [nation=short]Nouvelle-Calais[/nation]
 Minister of Recruitment: [nation=short]Besate[/nation]
 Minister of Foreign Affairs: [nation=short]Oberseewald[/nation]
 Minister of Culture: [nation=short]Skako[/nation]

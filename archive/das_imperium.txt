@@ -1,12 +1,6 @@
-Welcome tof Das Imperium! Endorse the [b][color=Gold]Steward[/color].[/b]
+Welcome tof Das Imperium! Endorse the [b][color=Gold]Emperor![/color].[/b]
 
 [hr]
-[b][color=Gold]Steward[/color] = [nation]East Brandenburg[/nation][/b]
-
-[color=teal]Imperial Marshal [/color] = [nation]Vacant[/nation]
-[color=teal]Imperial Senator[/color] = [nation] NONE [/nation]
-[color=teal]Imperial Chancellor[/color] = [nation]NONE[/nation]
-[color=teal]Imperial Steward[/color]= [nation]NONE[/nation]
-[hr]
+[b][color=Gold]Emperor[/color] = [nation]East Brandenburg[/nation][/b]
 
 Join the [url=http://dasimperium.freeforums.org/index.php] forums! [/url]

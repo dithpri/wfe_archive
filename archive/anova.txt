@@ -1,11 +1,11 @@
-Welcome to Anova, a region dedicated to promoting the ideals of Democracy, Justice, and Freedom. All nations are welcome to join.
+[b]Welcome to Anova, a region dedicated to promoting the ideals of Democracy, Justice, and Freedom. All nations are welcome to join.[/b]
 [hr][u][b]All New Regional Government[/b][/u]
-Chairman: 
-Secretary General: 
-Secretary of Domestic Affairs:
+[color=lightgreen]Interim Chairman: [nation=short]Windport[/nation]
+Interim Secretary General: [nation=short]Connectimello[/nation]
+Interim Secretary of Domestic Affairs: [nation=short]Arcadonisia[/nation]
 Secretary of Foreign Affairs:
-Secretary of Justice:
+Secretary of Justice:[/color]
 [hr][u][b]Important Links[/b][/u]
-Visit Our [url=http://nightingale.freeforums.org/portal.php]Offsite Forum[/url]
+[color=blue]Visit Our [url=http://nightingale.freeforums.org/portal.php]Offsite Forum[/url]
 Read Our Constitution
-Join Our IRC
+Join Our [url=http://webchat.freenode.net/?channels=%23anova&amp;amp;uio=MT11bmRlZmluZWQb1]IRC[/url][/color]
