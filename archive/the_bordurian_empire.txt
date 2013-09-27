@@ -3,12 +3,13 @@ The Bordurian Empire consists of regions which have been annexed by the nation o
 [b]Imperial possessions of Borduriaa :-[/b]
 
 [color=blue]Dominions:[/color]
+[region]Defender Security Alliance[/region]
 [region]Alliance of Free Nations[/region]
 [region]Commonwealth of United Crowns[/region]
 [region]The Organization of Independent States[/region]
+[region]CommonWealth of Solaris[/region]
 
 [color=brown]Protectorates:-[/color]
-
 [region]The Free Republics[/region]
  [region]Pangea[/region]
 [region]The Holy Christian union[/region]
@@ -21,6 +22,6 @@ The Bordurian Empire consists of regions which have been annexed by the nation o
 [region]Slavland[/region]
 [region]Coalition of Sovereign States[/region]
 [region]The Gargantuan Empire[/region]
-
-
-If you are a committed Imperialist, join this region. Together, we can rule the NS world.
+[region]The United Coalition of Nations[/region]
+[region]Alliance of Liberty[/region]
+[region]Greater India[/region]

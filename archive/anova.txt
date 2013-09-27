@@ -3,7 +3,7 @@
 [color=lightgreen]Interim Chairman: [nation=short]Windport[/nation]
 Interim Secretary General: [nation=short]Connectimello[/nation]
 Interim Secretary of Domestic Affairs: [nation=short]Arcadonisia[/nation]
-Secretary of Foreign Affairs:
+Interim Secretary of Foreign Affairs: [nation=short]Capaldia[/nation]
 Secretary of Justice:[/color]
 [hr][u][b]Important Links[/b][/u]
 [color=blue]Visit Our [url=http://nightingale.freeforums.org/portal.php]Offsite Forum[/url]

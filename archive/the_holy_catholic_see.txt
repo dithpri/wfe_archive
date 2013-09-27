@@ -2,3 +2,14 @@
 
 [color=gold][b]His Holiness the Pope[/b][/color] Marco XV of [nation]Sanctus Marcus[/nation]
 [color=purple][b]His Eminence the Camerlengo[/b][/color] Andrea I of [nation]Lubecksburg[/nation]
+[color=red][b]Cardinals:[/b][/color]/
+  +[color=red][b]Cardinal Secretary of the Holy See:[/b][/color]/
+  +[color=red][b]Cardinals of Propaganda Fide:[/b][/color]/
+  +[color=red][b]Cardinals of Dottrina Fide:[/b][/color]/
+  +[color=red][b]Cardinals Mediator:[/b][/color]/
+[color=Green][b]Archibishops:[/b][/color]/
+[color=violaceous][b]Bishops:[/b][/color]/
+[color=mauvish][b]Monsignor:[/b][/color]Gabriel III von Kantafen of [nation]Ducatus Cantasaniae[/nation]
+
+
+
