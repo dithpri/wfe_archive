@@ -2,5 +2,5 @@
 Minister of Internal Affairs: [nation=short]new roman empire[/nation]
 Minister of Foreign Affairs: [nation=short]the holy[/nation]
 Minister of Justice: [nation=short]marginia[/nation]
-Minister of Defence: Vacant
+Minister of Defence: [nation=short]danish republics[/nation]
 Minister of Culture [nation=short]The islands of montecristo[/nation][/b]

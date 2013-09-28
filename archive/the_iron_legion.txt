@@ -2,7 +2,7 @@
 
 [color=#FF0000]&amp;quot;[i]The Legion Has Risen[/i]&amp;quot;[/color]
 
-[u]Military Operations Directorate[/u] of [region]The Fascist Union[/region].
+Military Operations Directorate of [region]The Fascist Union[/region].
 
 [hr]
 
@@ -10,33 +10,18 @@
 
 [hr]
 
-[u]Annexed Regions:[/u]
 
-[region]Union of Conservative Fascist Republics[/region]
+[u]Legioni Tribunus [Officer Corps][/u]
 
-[region]Imperial Germanic Empire[/region]
+[nation=short]Serpentura[/nation] - Imperator (Brigadier General of The Black Legion)
+[nation=short]The Imperial Prefectures of America[/nation] - Centurion (Captain)
 
-[region]Grand Soviet Empire[/region]
+[u]Dilectum Legionis [Enlisted Corps][/u]
 
-[region]Russland[/region]
-
-[region]United Kingdoms of Britain[/region]
-
-[region]The Alliance of Central Europe[/region]
-
-[region]Rejected Communists[/region]
-
-[region]United global socialist union[/region]
-
-[region]Soviet armed forces[/region]
-
-[region]Chernobyl union[/region]
-
-[region]The grand red union[/region]
-
-[region]Antifascist Alliance[/region]
-
-[region]The Antifascist One Man Army[/region]
+[nation=short]Ldddd[/nation] Evocati (Sergeant)
+[nation=short]Mense[/nation] Evocati (Sergeant)
+[nation=short]Chezek[/nation] Evocati (Sergeant)
+[nation=short]Kolreich[/nation] Evocati (Sergeant)
 
 [hr]
 

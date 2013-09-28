@@ -8,7 +8,7 @@ We encourage nations to join the WA and the forum ([b][u][i]! sign up with your 
 
 [b]Commission[/b]
 Premier: [nation=short]Angleter[/nation]
-Foreign Affairs: [nation=short]Rhine Ruhr[/nation]
+Foreign Affairs: [nation=short]Inimicus[/nation]
 Defence and Peacekeeping: [nation=short]Os Corelia[/nation]
 Economics: [nation=short]Northern Caesarea[/nation]
 Internal Affairs: [nation=short]Red Croatia[/nation]
@@ -18,7 +18,7 @@ Internal Affairs: [nation=short]Red Croatia[/nation]
 [b]Court[/b]
 Chief Justice: [nation=short]Gun-Toting Animals[/nation]
 Justice: [nation=short]North Europa[/nation]
-Justice: [nation=short]Kryuland[/nation]
+Justice: [nation=short]Davishire2[/nation]
 Justice: [nation=short]Pax Aurea[/nation]
 Justice: [nation=short]The Balkan Socialist Federation[/nation]
 

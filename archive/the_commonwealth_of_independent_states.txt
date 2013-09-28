@@ -1,6 +1,11 @@
-[b][region]Commonwealth of Independent States[/region][/b]
+[b][region]The Commonwealth of Independent States[/region][/b]
 
-[hr][b]The Commonwealth of Independent States (Sodruzhestvo Nezavisimykh Gosudarstv, SNG) is a regional organization whose participating states have entered a multilateral mutual assistance treaties with [nation]Russia-[/nation]. [/b][hr]
-The CIS is a loose association of states and in no way comparable to a federation, confederation or supranational union such as the European Union. It is more comparable to the mutual cooperative nature of the Commonwealth of Nations. Although the CIS has few supranational powers, it is aimed at being more than a purely symbolic organization, possessing coordinating powers in the realm of trade, finance, lawmaking, and security. 
+[hr][b]The Commonwealth of Independent States (Sodruzhestvo Nezavisimykh Gosudarstv, SNG) is a regional organization whose participating states have fostered a bilateral mutual relationship with [nation=short]Russia-[/nation]. Nations that have not ascertain membership are herein invited to accede to the pact-[i][region] All nations are welcome[/region]![/i][/b][hr][region]General Information[/region]
+Headquarters: Moscow, Helsinki
+Official Languages: Russian, Finnish, and English
+GDP per capita Growth Rate (As of 2013): &#128; 16,340
+Calling Code: +349
 
-[b][url=http://en.wikipedia.org/wiki/Commonwealth_of_Independent_States]For more information, please click here[/url][/b]
+[hr]
+[b][nation]Russia-[/nation]
+State-Responsible for Commonwealth Commissariat Generality[/b]
