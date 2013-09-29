@@ -1,6 +1,1 @@
-The Grand Northern Imperium has been rebuilt from its former glory, to stand as a Germanic Region. 
-
-[region]The Greater German Reich[/region] now controls this region.
-
-
-Capital City: Berlin
+[region]The Grand Northern Impeium[/region] is now a region of [region]Slavia[/region].

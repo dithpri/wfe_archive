@@ -16,8 +16,6 @@
 [nation]Peihan[/nation]
 [nation]Mongalan[/nation]
 [nation]Los Cartagenas[/nation]
-[nation]Pasty[/nation]
-[nation]Zeficia[/nation]
 [nation]Belakras[/nation]
 [nation]Algodon[/nation]
 [nation]Kavaii[/nation]

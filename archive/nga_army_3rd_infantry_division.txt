@@ -16,8 +16,7 @@
 -[nation]Barony of Blackmoor[/nation]
 -[nation]Gujiristan[/nation]
 
-[color=#0000BF]THE UCR (LV-1): [/color]
--[nation]Soviet land[/nation]
+[color=#0000BF]THE TCU (LV-1): [/color]
 -[nation]Soviet land[/nation]
 -[nation]LordWaverly[/nation]
 -[nation]The GDR[/nation]
