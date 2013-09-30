@@ -4,11 +4,11 @@
 
 [color=Red][b]Head of State: [nation=short]Americas Paradise Land[/nation][/b][/color]
 
-[color=Purple][b]Prime Minister: [nation=short]Segennea[/nation][/b][/color]
+[color=Purple][b]Prime Minister: Election in progress[/b][/color]
 
-[color=Purple][b]Deputy Prime Minister: [nation=short]United States Of Devonta[/nation][/b][/color]
+[color=Purple][b]Deputy Prime Minister: Election in progress[/b][/color]
 
-[color=Purple][b]Defence Minister: [nation=short]Allies States of America[/nation][/b][/color] 
+[color=Purple][b]Defence Minister: Election in progress[/b][/color] 
 
 [b]*PARLIAMENT*[/b]
 

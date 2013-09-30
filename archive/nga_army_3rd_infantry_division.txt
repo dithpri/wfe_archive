@@ -13,6 +13,7 @@
 
 [color=#0000BF]SOLDIERS (LV-3): [/color]
 -[nation]United Martains[/nation]
+-[nation]Ambibia[/nation]
 -[nation]Barony of Blackmoor[/nation]
 -[nation]Gujiristan[/nation]
 

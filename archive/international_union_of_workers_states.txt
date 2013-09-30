@@ -16,7 +16,6 @@
 [nation]Peihan[/nation]
 [nation]Mongalan[/nation]
 [nation]Los Cartagenas[/nation]
-[nation]Belakras[/nation]
 [nation]Algodon[/nation]
 [nation]Kavaii[/nation]
 [nation]Barbaracx[/nation]

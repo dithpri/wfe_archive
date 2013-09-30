@@ -16,10 +16,10 @@ Advisors:
 [color=crimson]WA Members:[/color]
 - [nation=short]DeSuenos[/nation]
 
-[color=brown]Non-WA Members:[/color]
+[color=brown]Non-WA Member:[/color]
 - [nation=short]Cody Roberson[/nation]
 
 Non-Advisors:
-[color=purple]WA Member:[/color]
+[color=purple]WA Members:[/color]
 - [nation=short]The ubermenschen[/nation]
 - [nation=short]Uber Awesomeness[/nation]

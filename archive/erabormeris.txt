@@ -1,16 +1,16 @@
 Population Rule: No more than 500,000. The higher the population, the more problems (Famines, crime, corruption, poverty, etc.). Same with military sizes. It is recommended to be at least 100,000 to compete with the other nations.
 
 Current RP Populations:
-Lupisviri: 125,000
-Moring: 100,000
-Falingrad: 250,000
-Hammerhold: 45,000
-Kilkreath: 145,000
-Kentbarton: 85,000
-Arritium: 125,000
-Asuras: 100,000
+[nation]Lupisviri[/nation]: 125,000
+[nation]Moring[/nation]: 100,000
+[nation]Falingard[/nation]: 250,000
+[nation]Hammerhold[/nation]: 45,000
+[nation]Kilkreath[/nation]: 145,000
+[nation]Kentbarton[/nation]: 85,000
+[nation]Arritium[/nation]: 125,000
+[nation]Asuras[/nation]: 100,000
 
-[url=http://i.imgur.com/cQjYUR0.png]Map[/url]
+[url=http://i.imgur.com/babfHXF.png]Map[/url]
 Key:
 Light Blue: Falingard
 Orangish-Goldish: Hammerhold
