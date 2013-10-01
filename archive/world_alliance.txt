@@ -8,11 +8,11 @@
  
 [b][color=gold]The SECURITY COUNCIL[/color][/b]
 
-[b][color=lightgray]President[/color][/b] : [nation]Holy Patrician States[/nation]
+[b][color=lightgray]President[/color][/b] : [nation=short]New-Zealand[/nation]
 
-[b][color=lightgray]Members[/color][/b] : [color=green][nation=short]The Catham Islands[/nation], [nation=short]Marquette of Pacific[/nation],
+[b][color=lightgray]Members[/color][/b] : [color=green] [nation=short]Aloia[/nation], [nation=short]Shirouma[/nation], [nation=short]Stati Uniti d Europa[/nation], 
 
-[nation]Aloia[/nation], [nation=short]Texania[/nation], [nation=short]New-Zealand[/nation]
+[nation=short]Marquette of Pacific[/nation], [nation=short]Holy Patrician States[/nation], 
 
 [/color]
 

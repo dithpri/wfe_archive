@@ -1,15 +1,15 @@
 [b][color=red]The Holy See[/color][/b]
 
-[color=gold][b]His Holiness the Pope[/b][/color] Marco XV of [nation]Sanctus Marcus[/nation]
-[color=purple][b]His Eminence the Camerlengo[/b][/color] Andrea I of [nation]Lubecksburg[/nation]
-[color=red][b]Cardinals:[/b][/color]/
-  +[color=red][b]Cardinal Secretary of the Holy See:[/b][/color][nation]The Son of Man[/nation]
-  +[color=red][b]Cardinals of Propaganda Fide:[/b][/color]/
-  +[color=red][b]Cardinals of Dottrina Fide:[/b][/color]/
-  +[color=red][b]Cardinals Mediator:[/b][/color]/
-[color=Green][b]Archibishops:[/b][/color][nation]Ducatus Cantasaniae[/nation]
-[color=violaceous][b]Bishops:[/b][/color]/
-[color=mauvish][b]Monsignor:[/b][/color]/
+[color=gold][b]His Holiness the Pope[/b][/color] Marcus XV of [nation]Sanctus Marcus[/nation]
+[color=purple][b]His Eminence the Camerlengo[/b][/color] Andreas I of [nation]Lubecksburg[/nation]
+[color=red][b]Cardinals[/b][/color] (0/4):/
+[color=red][b]Cardinal Secretary of the Holy See[/b][/color] [color=red](1/1)[/color]:[nation]The Son of Man[/nation]
+[color=red][b]Cardinals of Propaganda Fide[/b][/color] (0/1):/
+[color=red][b]Cardinals of Dottrina Fide[/b][/color] (0/1):/
+[color=red][b]Cardinals Mediator[/b][/color] (0/1):/
+[color=Green][b]Archibishops[/b][/color] (1/7):[nation]Ducatus Cantasaniae[/nation]
+[color=violaceous][b]Bishops[/b][/color] (0/13):
+[color=mauvish][b]Monsignor[/b][/color] (0/20):
 
-The WA decisions are chosen before voting; the results will determine the vote of the entire region.
-If the vote is equal between pro and against, all the members can vote without limitations
+The WA decisions are chosen before voting; the results will determine the vote of the entire region. If the vote is equal, all the members can vote without limitations
+Unless there are 10 members, every elected charge will be committed trough nomination by the Pope or by proposal by the player.

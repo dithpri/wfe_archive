@@ -8,7 +8,7 @@ Council of Trade: [nation=noflag]Slacktasia[/nation], [nation=noflag]Elesmera[/n
 Minister of Tourism and Environmental Affairs:[nation=noflag]Northern Sylvan States[/nation]
 Minister of Agriculture:[nation=noflag]humuhumunukunukuapuaa[/nation]
 Minister of Weapons:[nation=noflag]Fortitudo Vivos[/nation]
-Minister of Entertainment($wag): [nation=noflag]Youseemebabe youseemebabetopia[/nation]
+Minister of Entertainment: [nation=noflag]Youseemebabe youseemebabetopia[/nation]
 Minister of Technology: [nation=noflag]United Pastafarian Peoples[/nation]
 
 [b]Enemies:[/b] None

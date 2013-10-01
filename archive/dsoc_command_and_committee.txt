@@ -5,11 +5,18 @@ __________________________________________________________
 [B]MILITARY[/B]
 [Color=red][b]Chief Commander:[/b][/color] [nation=short+noflag]Vladovaskia[/nation]
 [Color=brown]Generals:[/color]
+1. [Nation=short+noflag]Wasatia[/nation]
+2.
 [Color=gold]Colonels:[/color] [nation=short+noflag]The Order of Chaos Chao[/nation]
 [Color=purple]Soldiers:[/color]
 __________________________________________________________
 [B]SENATE[/B]
 [Color=blue][b]Chief Executive:[/b][/color] [nation=short+noflag]Vladovaskia[/nation]
+[Color=silver]Head Councilman:[/color] [nation=short+noflag]Uniland[/nation]
 [Color=orange]Presidential Triumvirate:[/color]
+1.[nation=short+noflag]Uniland[/nation]
+2.
+3.
+[Color=tan]Council:[/color]
 __________________________________________________________
 [I]A proud subgroup of the NGA[/I]

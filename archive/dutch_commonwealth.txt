@@ -1,55 +1,8 @@
-Founder country: Holanda
+Founder Country: [nation]Holanda[/nation]
 
-Political Centre: Luxembourgo
+[color=blue][b]President of the Dutch Commonwealth:[/b][/color] Von haggen Strunsky  [nation]Holanda[/nation]
 
-Member States: 2
-
-Largest city: Brusselas (56,543,452)
-
-Demonym: Germanic
-
-Population:
-- 2013 Census : 108,000,000 + 
-
-Area: 
-
- - Total: 9,950,470 km2
- - Water (%): 44.2
-
-Ethnic Groups: 
-
- - Holandan             57%
- - Vnited Kindoman   43%
-
-Government: Democratic
-
-Branches:
-
-
-Holanda: Open Minded Educated State
-
-Vnited Kingdom: Corporate Bordello
-
-
-Leaders:
-
- - President of the Dutch      Von haggen Strunsky 
-   Commonwealth Council      
-
- - President of the Dutch      Bill Walgrigt
-   Commision 
-
-Legislature: 
-
-Upper House: Council of the Dutch Commonwealth
-
-Lower House: Commonwealth Parliament 
-
-Currency: Euro +
-
-*The Vnited Kingdom has recently adopted the Euro. This new membership has boosted currency by 2%
-
-Internet TLD: .dh
+[color=blue][b]President of the Commision:[/b][/color] Bill Walgrigt [nation]Vnited Kingdom[/nation]
 
 
 

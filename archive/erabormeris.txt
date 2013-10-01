@@ -1,16 +1,16 @@
-Population Rule: No more than 500,000. The higher the population, the more problems (Famines, crime, corruption, poverty, etc.). Same with military sizes. It is recommended to be at least 100,000 to compete with the other nations.
+Population Rule: No more than 500,000.
 
 Current RP Populations:
-[nation]Lupisviri[/nation]: 125,000
-[nation]Moring[/nation]: 100,000
-[nation]Falingard[/nation]: 250,000
-[nation]Hammerhold[/nation]: 45,000
-[nation]Kilkreath[/nation]: 145,000
-[nation]Kentbarton[/nation]: 85,000
-[nation]Arritium[/nation]: 125,000
-[nation]Asuras[/nation]: 100,000
+[nation]Lupisviri[/nation]: 125,000 Lupisviri
+[nation]Moring[/nation]: 100,000 Unknown
+[nation]Falingard[/nation]: 250,000 Humans
+[nation]Hammerhold[/nation]: 45,000 Dwarves
+[nation]Kilkreath[/nation]: 145,000 Dark Elves
+[nation]Kentbarton[/nation]: 85,000 Half men-Half elves
+[nation]Arritium[/nation]: 125,000 Aerots
+[nation]Asuras[/nation]: 100,000 Unknown
 
-[url=http://i.imgur.com/babfHXF.png]Map[/url]
+[url=http://i.imgur.com/mH1ubj5.png]Map[/url]
 Key:
 Light Blue: Falingard
 Orangish-Goldish: Hammerhold
@@ -22,5 +22,5 @@ Dark Blue: Asuras
 Brown: Moring
 
 [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=263359&amp;amp;sid=12d6c9f5ff4fa17b7b3e76ba3f5ad1c7]Roleplaying Thread[/url]
-
+[url=http://erabormeris.wikia.com/wiki/Region_Rules]Region Rules[/url]
 [url=http://erabormeris.wikia.com/wiki/Erabormeris_Wiki]Wiki Page[/url]
