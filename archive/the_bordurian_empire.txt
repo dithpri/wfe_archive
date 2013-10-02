@@ -1,5 +1,5 @@
-The Bordurian Empire consists of regions which have been annexed by the nation of [nation=short]Borduriaa[/nation] . These fall under the direct control and governed by the Imperial government of King Phillipe Aristotle of Borduriaa.
-
+The Bordurian Empire consists of regions which have been annexed and fall under the direct control of [nation=short]Borduriaa[/nation].
+ 
 [b]Imperial possessions of Borduriaa :-[/b]
 
 [color=blue]Dominions:[/color]
@@ -8,6 +8,7 @@ The Bordurian Empire consists of regions which have been annexed by the nation o
 [region]Commonwealth of United Crowns[/region]
 [region]The Organization of Independent States[/region]
 [region]CommonWealth of Solaris[/region]
+[region]Troy[/region]
 
 [color=brown]Protectorates:-[/color]
 [region]The Free Republics[/region]
@@ -25,3 +26,7 @@ The Bordurian Empire consists of regions which have been annexed by the nation o
 [region]The United Coalition of Nations[/region]
 [region]Alliance of Liberty[/region]
 [region]Greater India[/region]
+[region]The Kingdom[/region]
+[region]Blackreach[/region]
+[region]Heavens[/region]
+[region]The Fatherland[/region]

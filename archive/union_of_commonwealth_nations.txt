@@ -2,7 +2,7 @@
 [b][color=goldenrod]&amp;lt;&amp;lt; [/color][color=navy]Associate member of the [region]Trade Federation[/region][/color][color=goldenrod] &amp;gt;&amp;gt;[/color][/b]
 [i]Liberated by the combined forces of [nation=short]Belgieria[/nation] &amp;amp; [nation=short]Tinshein[/nation] from the hands of [region]the Ring of Fire[/region] on 9/17/13[/i]
 
-[hr][b][color=navy]The Union of Commonwealth Nations is an international organization that unites nations of different ideologies under one flag.[/color][/b][hr]
+[hr][b][color=maroon]The Union of Commonwealth Nations is an international organization that unites nations of different ideologies under one flag.[/color][/b][hr]
 
 [b][color=goldenrod]&#149; [/color][color=navy]Chairman:[/color] [nation=short]Belgieria[/nation]
 [color=goldenrod]&#149; [/color][color=navy]Secretary-General (WA Delegate):[/color]
@@ -10,4 +10,4 @@
 [color=goldenrod]&#149; [/color][color=navy]Minister of Foreign Affairs:[/color]
 [color=goldenrod]&#149; [/color][color=navy]Minister of Intelligence:[/color]
 
-[hr][color=goldenrod]&#149;[/color] [color=navy]UCN News: One week anniversary since the UCN&amp;#39;s independence.[/color][/b]
+[hr][color=goldenrod]&#149;[/color] [color=navy]UCN News:[/color] [color=maroon]One week anniversary since the UCN&amp;#39;s independence.[/color][/b]

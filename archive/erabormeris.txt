@@ -1,14 +1,14 @@
-Population Rule: No more than 500,000.
+Population Rule: No more than 250,000.
 
 Current RP Populations:
-[nation]Lupisviri[/nation]: 125,000 Lupisviri
-[nation]Moring[/nation]: 100,000 Unknown
+[nation]Lupisviri[/nation]: 180,000 Lupisviri
+[nation]Moring[/nation]: 100,000 Morians
 [nation]Falingard[/nation]: 250,000 Humans
-[nation]Hammerhold[/nation]: 45,000 Dwarves
+[nation]Hammerhold[/nation]: 150,000 Humans
 [nation]Kilkreath[/nation]: 145,000 Dark Elves
 [nation]Kentbarton[/nation]: 85,000 Half men-Half elves
 [nation]Arritium[/nation]: 125,000 Aerots
-[nation]Asuras[/nation]: 100,000 Unknown
+[nation]Asuras[/nation]: 100,000 Humans
 
 [url=http://i.imgur.com/mH1ubj5.png]Map[/url]
 Key:
@@ -22,5 +22,7 @@ Dark Blue: Asuras
 Brown: Moring
 
 [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=263359&amp;amp;sid=12d6c9f5ff4fa17b7b3e76ba3f5ad1c7]Roleplaying Thread[/url]
+
 [url=http://erabormeris.wikia.com/wiki/Region_Rules]Region Rules[/url]
+
 [url=http://erabormeris.wikia.com/wiki/Erabormeris_Wiki]Wiki Page[/url]

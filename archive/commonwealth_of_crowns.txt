@@ -34,4 +34,3 @@
 [region]Blackreach[/region]
 [region]Troy[/region]
 [region]Libertopia[/region]
-[region]Pangea[/region]

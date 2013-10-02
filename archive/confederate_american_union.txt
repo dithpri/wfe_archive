@@ -1,1 +1,13 @@
-REGION IS UNDER CINSTRUCTION
+[color=red][I][u]REGION CURRENTLY UNDER CONSTRUCTION[/U][/I][/COLOr]
+
+[Color=blue]Capital City:[/color][color=green][i] Richmond, Virginia[/i][/color]
+[color=blue]Government Type:[/color][color=green][i] Confederate Republic[/i][/color]
+[color=blue]Official Language:[/color][color=green][i] Southern English[/i][/color]
+[color=blue]Motto:[/color][color=green][i] Deo Vindice  (Latin), &amp;quot;Under God, our Vindicator&amp;quot;[/i][/color]
+[color=blue]Anthem:[/color][color=green][i] &amp;quot;God Save the South&amp;quot; (unofficial), &amp;quot;The Bonnie Blue Flag&amp;quot; (popular), &amp;quot;Dixie&amp;quot; (traditional)[/i][/color]
+[color=blue]Official Currency:[/color][color=green][i] Confederate Dollar (c$)[/i][/color]
+[color=blue]Religion:[/color][color=green][i] Christian (official), Agnostic (popular)[/i][/color]
+
+[color=blue]Dept. of Treasury:[/color][nation]the republic commonwealth of florida[/nation]
+[color=blue]Dept. of Defense:[/color][nation]the republic commonwealth of virginia[/nation]
+[color=blue]Dept. of Foreign Affairs:[/color][nation]the republic commonwealth of Alabama[/nation]
