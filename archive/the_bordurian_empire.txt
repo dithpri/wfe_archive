@@ -9,6 +9,7 @@ The Bordurian Empire consists of regions which have been annexed and fall under 
 [region]The Organization of Independent States[/region]
 [region]CommonWealth of Solaris[/region]
 [region]Troy[/region]
+[region]The Union of Sovereign States[/region]
 
 [color=brown]Protectorates:-[/color]
 [region]The Free Republics[/region]
