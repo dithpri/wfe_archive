@@ -4,11 +4,11 @@ Regional Animal - Romney
 
 Regional Currency - ROM
 
-[nation]Nihz[/nation] - Beautiful, Defender, Developing, Dictatorship, Eco-Friendly, Orderly, Safe, Tourism Spot, WA Member
+[nation]Nihz[/nation] - Beautiful, Defender, Developing, Dictatorship, Tourism Spot, WA Member
 
-[nation]Tredyffrin[/nation] - Developed, Liberal, Pacifist, Theocracy
+[nation]Tredyffrin[/nation] - Developed, Liberal, Low Unemployment, Pacifist, Theocracy
 
 [nation]New Anarchyia[/nation] - Drugs, Pacifist, Progressive
 
-[nation]Authoritaria[/nation] - Conservative, Corporate, Developed, Low Unemployment, Radical
+[nation]Authoritaria[/nation] - Conservative, Corporate, Developed, Radical
 

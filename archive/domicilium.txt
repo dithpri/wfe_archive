@@ -1,12 +1,16 @@
 The Domicilium Islands are a liberal archipelago of 20,500-odd distinct islands that display their beautiful, rich, green ecosystems. All nations are welcome to join our beautiful region and fraternity, so make Domicilium your home today by messaging our founder! Welcome home!
 
-[b][color=orange]Civil war is absolutely forbidden. Fraternity means nobody gets left behind.[/color]
-
-|| [color=blue]fraternitatem[/color] | [color=red]iustitiam[/color] | [color=blue]domicilium[/color] ||[/b]
+[b]|| [color=blue]fraternitatem[/color] | [color=red]iustitiam[/color] | [color=blue]domicilium[/color] ||[/b]
 
 Click [url=http://www.nstracker.net/regions?region=domicilium]here[/url] to view Domicilium&amp;#39;s regional statistics.
 
 [b][u]Staff[/u][/b]
-Administration: [nation=Consigahria]
-Security, WA and Embassy Affairs: [nation=Gewaltig]
-Outreach: [nation=West Consigahria]
+Administration: [nation=short+noflag]Consigahria[/nation]
+Security and Embassy Affairs: [nation=short+noflag]Gewaltig[/nation]
+WA Affairs and Outreach: [nation=short+noflag]West Consigahria[/nation]
+
+[b][u][color=red]News from the First Legislature[/color][/u][/b]
+10/3: Humble Domicilian greetings to [nation=the kanekaeri islands]! Welcome home!
+
+[b][u]Current Security Status[/b][/u] (underlined is in effect)
+[b][u][color=blue]Safe[/color][/u][/b] | [color=yellow]Cautioned[/color] | [color=red]In Danger[/color] | [color=black]Locked Down[/color]

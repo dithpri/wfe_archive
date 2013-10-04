@@ -5,7 +5,7 @@ President: [nation]Ronacria[/nation]
 Minister of Defense: [nation]Kanatistan[/nation]
 Minister of Foreign Affairs: [nation=short]Lawless Idealism[/nation]
 Minister of Internal Affairs: [nation]Omorov-Nier[/nation]
-Minister of Recruitment: [nation=short]Democratic Republic of Bohemia-Moravia[/nation]
+Minister of Recruitment: OPEN
 
 [u]News:[/u] Alliance made with Juche Union!
 __________________________________________________
