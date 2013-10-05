@@ -19,9 +19,3 @@
 [b]Kennan Union:[/b] [nation=short]Ethan Foley[/nation] 
 [b]Kennan Species Bureau:[/b] [nation=short]Samukan[/nation]
 [b]Kennan Space Command:[/b] [nation=short]The Azerian Empire[/nation]
-
-[color=blue][b]7th WA Delegate Election Candidates[/b][/color]
-[list]
-[*][nation=short]Sandwich Territories[/nation]
-[*][nation=short]Samukan[/nation]
-[/list]

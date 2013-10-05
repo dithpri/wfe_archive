@@ -7,4 +7,4 @@ Under joint Armenia and Nagorno Karabakh military control
 Most likely, the borders in the area will be adjusted, and Armenia will annex the region.
 
 ABOUT THIS REGION
-a [region=Galapagos] region
+a [nation=short]Elliston[/nation] region

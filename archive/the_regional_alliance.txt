@@ -1,4 +1,4 @@
-[b]TG founder to access boards &amp;amp; chat.
+[b]
 [url=http://regionalalliance.boardhost.com/index.php]Boards[/url]|[url=http://us11.chatzy.com/82671670940121]Chat [/url]|[url=http://www.nationstates.net/nation=sugarfootland/detail=factbook/id=159034]Constitution[/url][/b]
 [b][color=blue]CONSULS[/color][/b]
 Governor [nation]hewhocaresnot[/nation]
@@ -6,15 +6,17 @@ Senate
 Assembly
 [b][color=blue]MINISTERS[/color][/b]
 Governor [nation]Mollybear[/nation]
-Defense &amp;amp; Security [nation]domination6[/nation]
+Defense &amp;amp; Security [nation]domination6[/nation]*
 Communications
-Immigration
-World Affairs
-Justice
+Immigration [nation]blasif[/nation]* 
+World Affairs [nation]glaser[/nation]*
+Justice [nation]belicity[/nation]*
  [b][color=blue]LEGISLATIVE[/color][/b]
 Assembly President
 Senate President
 [b][color=blue]SUPREME COURT[/b][/color]
-Chief Justice
-Justice
-Justice
+Chief Justice[nation]kion[/nation]
+Justice[nation]elemental north[/nation]*
+Justice[nation]sofa[/nation]*
+
+*Temporary Appointments awaiting approvals
