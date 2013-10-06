@@ -1,0 +1,5 @@
+Population: 1 nation
+Delagate: [i]None[/i]
+Founder: [nation=long]Gonzalez Isle[/nation]
+
+[b]Welcome to the Torisakian Archipelago![/b]

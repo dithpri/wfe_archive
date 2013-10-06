@@ -4,7 +4,7 @@
 Regional Government: 
 President: [nation]Beta Test[/nation]
 Vice President: [nation]the republic rome[/nation]
-SecState: None
+SecState: [nation]Gipper[/nation]
 SecDef: [nation]The United Remnants of America[/nation]
 
 Senate:
@@ -16,13 +16,11 @@ Senate:
 Judges:
 [nation]Flattnerk[/nation][/color]
 
-[color=maroon]Message of the Day: Revised Constitution Under Construction. Coming October, 2013: New-New Republica![/color]
+[color=maroon]Message of the Day: Welcome to SecState, Gipper![/color]
 
 Record population:468
-Current Population:242
+Current Population:244
 Recruitment Goal:250
-
-[color=purple]Make sure to endorse your Delegate![/color]
 
  [url=http://newrepublica.createaforum.com/index.php]Our Forum[/url]
  [url=http://www.nationstates.net/nation=the_united_remnants_of_america/detail=factbook/id=161477]Citizen Application[/url]

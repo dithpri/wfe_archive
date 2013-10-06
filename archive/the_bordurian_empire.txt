@@ -31,3 +31,4 @@ The Bordurian Empire consists of regions which have been annexed and fall under 
 [region]Blackreach[/region]
 [region]Heavens[/region]
 [region]The Fatherland[/region]
+[region]The Artist Coalition[/region]

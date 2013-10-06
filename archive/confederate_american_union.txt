@@ -8,6 +8,6 @@
 [color=blue]Official Currency:[/color][color=green][i] Confederate Dollar (c$)[/i][/color]
 [color=blue]Religion:[/color][color=green][i] Christian (official), Agnostic (popular)[/i][/color]
 
-[color=blue]Dept. of Treasury:[/color][nation]the republic commonwealth of florida[/nation]
-[color=blue]Dept. of Defense:[/color][nation]the republic commonwealth of virginia[/nation]
-[color=blue]Dept. of Foreign Affairs:[/color][nation]the republic commonwealth of Alabama[/nation]
+
+[color=blue]President:[/color][color=green] Nathaniel Orion[/color] [nation]the republic confederation of america[/nation]
+[Color=blue]Vice President:[/COLOR][color=green] J. Williams Dunn III[/color] [nation]the republic confederation of america[/nation]

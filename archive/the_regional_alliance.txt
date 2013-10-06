@@ -1,22 +1,22 @@
 [b]
 [url=http://regionalalliance.boardhost.com/index.php]Boards[/url]|[url=http://us11.chatzy.com/82671670940121]Chat [/url]|[url=http://www.nationstates.net/nation=sugarfootland/detail=factbook/id=159034]Constitution[/url][/b]
 [b][color=blue]CONSULS[/color][/b]
-Governor [nation]hewhocaresnot[/nation]
-Senate
+Governor [nation=short+noflag]hewhocaresnot[/nation]
+Senate [nation=short+noflag]lebavon[/nation]
 Assembly
 [b][color=blue]MINISTERS[/color][/b]
-Governor [nation]Mollybear[/nation]
-Defense &amp;amp; Security [nation]domination6[/nation]*
-Communications
-Immigration [nation]blasif[/nation]* 
-World Affairs [nation]glaser[/nation]*
-Justice [nation]belicity[/nation]*
+Governor [nation=short+noflag]Mollybear[/nation]
+Defense &amp;amp; Security [nation=short+noflag]domination6[/nation]
+Communications [nation=short+noflag]World order of war[/nation]*
+Immigration [nation=short+noflag]blasif[/nation]
+World Affairs [nation=short+noflag]glaser[/nation]
+Justice [nation=short+noflag]belicity[/nation]*
  [b][color=blue]LEGISLATIVE[/color][/b]
 Assembly President
 Senate President
 [b][color=blue]SUPREME COURT[/b][/color]
-Chief Justice[nation]kion[/nation]
-Justice[nation]elemental north[/nation]*
-Justice[nation]sofa[/nation]*
+Chief Justice [nation=short+noflag]kion[/nation]
+Justice [nation=short+noflag]elemental north[/nation]*
+Justice [nation=short+noflag]sofa[/nation]
 
-*Temporary Appointments awaiting approvals
+*Awaiting Nation to fully register

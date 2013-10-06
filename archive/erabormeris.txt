@@ -1,16 +1,15 @@
 Population Rule: No more than 250,000.
 
 Current RP Populations:
-[nation]Lupisviri[/nation]: 180,000 Lupisviri
-[nation]Moring[/nation]: 100,000 Morians
-[nation]Hammerhold[/nation]: 100,000 Winter Elves
+[nation]Lupisviri[/nation]: [color=brown]180,000 Lupisviri[/color]
+[nation]Moring[/nation]: [color=red]100,000 Morians[/color]
+[nation]Hammerhold[/nation]: [color=grey]100,000 Winter Elves[/color]
 [nation]Kilkreath[/nation]: 145,000 Dark Elves
 [nation]Kentbarton[/nation]: 85,000 Half men-Half elves
-[nation]Arritium[/nation]: 125,000 Aerots
 [nation]Asuras[/nation]: 100,000 Humans
 [nation]Venxia[/nation]: 75,000 Venchen and Onyx
 
-[url=]Map[/url]
+[url=http://i.imgur.com/IxyoHip.png]Map[/url]
 
 [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=264408]Roleplaying Thread[/url]
 
