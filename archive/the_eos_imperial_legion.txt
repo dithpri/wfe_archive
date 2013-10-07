@@ -1,13 +1,23 @@
 The armed coalition tasked with defending, and carrying out the missions of [region]Eos[/region]. 
 
-[Color=blue]Liberated Regions:[/color]
+[b][Color=blue]Liberated Regions:[/color][/b]
 
-[Color=red]Enemy Regions Dismantled:[/color]
+[b][Color=red]Enemy Regions Dismantled:[/color][/b]
 [url=http://i40.tinypic.com/308fcsj.jpg]IRANIAN UNION OF ISLAMIC NATIONS[/url]
 
 
+[color=red][b]Commander-in-Chief:[/b][/color][nation=short]Commander-in-chief Justinine IV[/nation]
+
+[color=blue][b]High General:[/b][/color] [nation=short]Militaristic Utopian States of Xin Lou[/nation]
+[b](Infantry) [color=blue]Division Commander:[/b][/color]
+[b](Shock) [color=blue]Division Commander:[/b][/color]
+[b](Airborne) [color=blue]Division Commander:[/b][/color]
+[b](Special Operations) [color=blue]Division Commander:[/b][/color][nation=short]Jultopia[/nation]
+
+[b][color=green]Centurion:[/b][/color]
+[b][color=green]Lieutenant:[/b][/color]
+
+[b]Legionnaire[/b]:
 
 
 All Hail the Union. 
-
-

@@ -4,8 +4,5 @@ Behold, the Founders of this region:
 
 [nation=short]Zaklen[/nation], [nation=short]Amyrintha[/nation], [nation=short]Gotha[/nation], and [nation=short]Base1[/nation].
 
-Regional Tribunal:
-[nation=short]Amyrintha[/nation], ???, and ???.
-
 Delegate:
-[nation=short]Zaklen[/nation]
+[nation=short]Slevvania[/nation]

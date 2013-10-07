@@ -1,13 +1,16 @@
-UIA - United Imperial Alliance
-[u]The High Council[/u]
-[nation]Veliria[/nation]
-[nation]The Cadian Dominion[/nation]
+[b]SUBSIDIARY OF THE [region]TRADE FEDERATION[/region][/b][hr]
 
+Old WFE:
+[i]UIA - United Imperial Alliance
+[u]The High Council[/u]
+The Black Star Dominion of Veliria
+The Meritocratic Autocracy of The Cadian Dominion
 
 [u]The Council[/u]
-[u]Contains every nation (Including Anterrans, Machines and Rilthens)[/u]
+Contains every nation (Including Anterrans, Machines and Rilthens)
 
 [u]The Machine Union[/u]
-[nation]Ventraidi[/nation]
+Ventraidi
 
-[u]Anterran Supporters and Anterran Colony[/u]
+[u]Anterran Supporters and Anterran Colony[/u][/i]
+[hr][url=http://nsdossier.texasregion.net/history.aspx?region=the%20united%20imperial%20alliance&amp;amp;type=Exact&amp;amp;group=region&amp;amp;start=&amp;amp;end=] History [/url]

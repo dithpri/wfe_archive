@@ -4,6 +4,7 @@ Prime Minister: [nation=short]Arabella Strauss[/nation]
 Vice President: [nation=short]Lecoria[/nation]
 Finance Minister: [nation=short]The United Permanently Divided States[/nation]
 Kebab Superintendent: [nation=short]Allah See[/nation]
+Chief Rabbi: [nation=short]Jejonas[/nation]
 First Lady: [nation=short]Acoguay[/nation]
 
 [u]World Assembly[/u]: [b]GA[/b]: None. [b]SC[/b]: None. Our regional power is enhanced in the World Assembly by endorsing the current Delegate. Your endorsements are added to his votes (and nose size), allowing for democracy to be more easily brought.

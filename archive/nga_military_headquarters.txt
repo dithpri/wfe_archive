@@ -6,10 +6,10 @@
 
 [b][color=#BF0000]FIELD MARSHALS (LV-5): [/color] 
 -[nation]Controlled Interests[/nation]
--[nation]The Order of Chaos Chao[/nation] [/b]
+-[nation]The Order of Chaos Chao[/nation]
+-[nation]Wasatia[/nation][/b]
 
 [color=#0000BF][b]GENERALS (LV-5):[/color] 
--[nation]Wasatia[/nation]
 -[nation]Greater Fascism[/nation]
 -[nation]Hogwarts School of Cats[/nation]
 
