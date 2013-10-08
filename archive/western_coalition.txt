@@ -4,10 +4,11 @@ The Western Coalition is a safe haven for all the free, compassionate nations of
 Prime Minister and Founder:[nation]Gibberan[/nation]
 Co-Founder:[nation]Paketo[/nation]
 Minister of the Interior:[nation]The United Federations[/nation] 
-Minister of Defense:[nation]Paketo[/nation]
+Minister of Defense: Paketo
 Minister of Foreign affairs:
 Minister of Education:[nation]Veroxia[/nation]
 Specialized Titles
-Chief Cartographer:[nation]The United Federations[/nation]
+Chief Cartographer: The United Federations
+Chief of Coalition Private Security Force:[nation]Marsisian[/nation]
 Chief Recruiter:
-Chief of Technology and Research:[nation]Veroxia[/nation]
+Chief of Technology and Research: Veroxia

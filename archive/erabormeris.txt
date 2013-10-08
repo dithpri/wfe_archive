@@ -1,13 +1,13 @@
-Population Rule: No more than 150,000.
+Population Rule: No more than 250,000.
 
 Current RP Populations:
-[nation]Lupisviri[/nation]: [color=tan]125,000 Lupisviri[/color]
+[nation]Lupisviri[/nation]: [color=tan]180,000 Lupisviri[/color]
 [nation]Moring[/nation]: [color=maroon]100,000 Morians[/color]
-[nation]Hammerhold[/nation]: [color=grey]100,000 Winter Elves[/color]
+[nation]Hammerhold[/nation]: [color=grey]250,000 Winter Elves[/color]
 [nation]Kilkreath[/nation]: 145,000 Dark Elves
 [nation]Kentbarton[/nation]: 85,000 Kent-Barts
 [nation]Asuras[/nation]: [color=gold]100,000 Humans[/color]
-[nation]Venxia[/nation]: [color=purple]75,000 Venchen and Onyx[/color]
+[nation]Venxia[/nation]: [color=purple]250,000 Venchen and Onyx[/color]
 
 [url=http://i.imgur.com/F4fDjyU.png]Map[/url]
 

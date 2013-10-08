@@ -7,7 +7,7 @@
 [color=blue]CONSULS[/color]
 Governor [nation=short+noflag]hewhocaresnot[/nation]
 Senate [nation=short+noflag]lebavon[/nation]
-Assembly
+Assembly[nation=short+noflag]predominion[/nation]
 
 [color=blue]MINISTERS[/color]
 Governor [nation=short+noflag]Mollybear[/nation]

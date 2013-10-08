@@ -13,8 +13,6 @@ Imperial Guardian: [nation=short]Trunava[/nation]
 
 Minister of Information: [nation=short]Zambia-Rhodesia[/nation]
 
-Director of the Secret Police: [nation=short]Trunava[/nation]
-
 Minister of Culture: [nation=short]The Holy Potato Empire[/nation]
 [/b]
 
