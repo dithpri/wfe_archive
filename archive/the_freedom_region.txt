@@ -6,5 +6,9 @@ Government:
 
 Prime Minister: [nation]Sylven[/nation] 
 Deputy Prime Minister: [nation]Rutannia[/nation]
+Minister of Defence: ?
+Minister of Foreign Affairs: ?
 
 [b][color=red]Please endorse our WAD:[/color][/b] [nation]Rutannia[/nation]
+
+[b][color=green]RMB topic:[/b] What is your favorite animal?[/color]

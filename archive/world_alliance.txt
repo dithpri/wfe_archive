@@ -20,7 +20,7 @@
 
 [b][color=lightgray]Chief Justice[/color][/b] : [nation]The Republic of Chivalry[/nation]
 
-[b][color=lightgray]Associate Justices[/color][/b] : [color=green][nation=short]Europe and Asia[/nation], [/color] [color=red][b]VACANT[/b][/color]
+[b][color=lightgray]Associate Justices[/color][/b] : [color=green][nation=short]Europe and Asia[/nation], [nation]Ivania[/nation][/color]
 
 [hr]
 

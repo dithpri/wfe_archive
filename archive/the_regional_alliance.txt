@@ -26,4 +26,8 @@ Chief Justice [nation=short+noflag]kion[/nation]
 Justice 
 Justice [nation=short+noflag]sofa[/nation]
 
-[color=red]Endorsement Cap: Unlimited[/color][/b]
+[color=red]Endorsement Cap: Unlimited
+
+No Recruitment Allowed
+
+[/color][/b]

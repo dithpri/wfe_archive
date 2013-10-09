@@ -19,8 +19,6 @@ Justice Minister: [nation=short]Zonolia[/nation]
 Foreign Minister: [nation=short]Diol[/nation]
 Defense Minister: [nation=short]New Cinoth[/nation][/color]
 
-*****
-
 [color=maroon]Please endorse our WA Delegate [nation=short]finium[/nation]. 
 
 [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=249581]The Silver Isles Constitution[/url]
@@ -35,4 +33,10 @@ Defense Minister: [nation=short]New Cinoth[/nation][/color]
 
 [b][color=grey]Voting in Progress:[/b][/color]
 
-[b]None[/b]
+[b]
+Poll-Please Answer on RMB.
+I recognize the legitimacy of the Constitutional draft as law. 
+Y(4)A(1)N(0)
+
+I fully understand the scope of the Constitutional draft as law.
+Y(5)N(1)[/b]

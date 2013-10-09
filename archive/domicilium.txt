@@ -10,7 +10,7 @@ Security and Embassy Affairs: [nation=short+noflag]Gewaltig[/nation]
 WA Affairs and Outreach: [nation=short+noflag]West Consigahria[/nation]
 
 [b][u][color=red]News from the First Legislature[/color][/u][/b]
-10/3: Humble Domicilian greetings to [nation=the kanekaeri islands]! Welcome home!
+10/8: We are currently losing numbers. Two nations have been lost so far.
 
 [b][u]Current Security Status[/b][/u] (underlined is in effect)
-[b][u][color=blue]Safe[/color][/u][/b] | [color=yellow]Cautioned[/color] | [color=red]In Danger[/color] | [color=black]Locked Down[/color]
+[color=blue]Safe[/color] | [b][u][color=red]Cautioned[/color][/u][/b] | [color=purple]In Danger[/color] | [color=black]Locked Down[/color]

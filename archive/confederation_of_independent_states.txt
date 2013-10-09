@@ -1,11 +1,9 @@
-[i]Council of Truth and Liberty[/i]
+[i]The Cabinet[/i]
 [b]Prime Minister[/b] - [nation]Ankh Morporka[/nation]
-[b]Minister of Internal Affairs[/b] - [nation]Hylasia[/nation]
-[b]Minister of Foreign Affairs[/b] - [nation]Jaxandria[/nation]
-[b]Minister of Justice and Lord High Steward[/b] - [nation]Syrillia[/nation]
-[b]Minister of Recruitment and Reconciliation[/b] - [nation]Kittiwake[/nation]
-[b]Minister of Minorities and Executive Advisor[/b] - [nation]Vargaslavia[/nation]
-[b]Minister of Common Sense[/b] - [nation]The Foco[/nation]
+[b]Minister of Internal Affairs[/b] - vacant
+[b]Minister of Foreign Affairs[/b] - vacant
+[b]Regional Judge[/b] - vacant
+[b]Minister of Recruitment[/b] - [nation]Kittiwake[/nation]
 [color=white]Subliminal message of the day: there is no subliminal message[/color]
 
 [b]Honorary Mayor of Libertria[/b] - [nation]Torder[/nation]
@@ -13,5 +11,7 @@
 [i]Eternal Presidents[/i]
 [nation]Hylasia[/nation]
 [nation]Tilsitin[/nation]
+
+[b]Lord High Steward[/b] - [nation]Syrillia[/nation]
 
 [url=http://www.nswiki.net/index.php?title=Confederation_of_Independent_States]CIS Wiki[/url]
