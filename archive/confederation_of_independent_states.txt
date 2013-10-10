@@ -1,14 +1,14 @@
 [i]The Cabinet[/i]
 [b]Prime Minister[/b] - [nation]Ankh Morporka[/nation]
-[b]Minister of Internal Affairs[/b] - vacant
+[b]Minister of Internal Affairs[/b] - [nation]Hylasia[/nation]
 [b]Minister of Foreign Affairs[/b] - vacant
 [b]Regional Judge[/b] - vacant
 [b]Minister of Recruitment[/b] - [nation]Kittiwake[/nation]
-[color=white]Subliminal message of the day: there is no subliminal message[/color]
+[color=white]Subliminal message of the day: Bacon is good[/color]
 
 [b]Honorary Mayor of Libertria[/b] - [nation]Torder[/nation]
 
-[i]Eternal Presidents[/i]
+[b]Eternal Presidents[/b]
 [nation]Hylasia[/nation]
 [nation]Tilsitin[/nation]
 

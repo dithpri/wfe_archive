@@ -1,6 +1,6 @@
-[b]Welcome to [color=blue]The Genuan Rebirth[/color]![/b]
+[b]Welcome to [color=red]The Genuan Rebirth[/color]![/b]
 
-[b]~[color=blue]Gov[/color]ernm[color=blue]ent[/color]~[/b]
+[color=blue][b]~Government~[/b][/color]
 [b][color=purple][u]Prime-Minister[/u][/color]:[/b][nation=short]Kommunistica[/nation]
 [b][color=purple][u]Vice-Prime-Minister[/u][/color]:[/b][nation=short]ASEAN[/nation]
 [b][color=purple][u]Minister of Law &amp;amp; Justice[/u][/color]:[/b][nation=short]Southern Ageena[/nation]
@@ -11,14 +11,15 @@
 [b][color=purple][u]Minister of Education[/u][/color]: [/b][nation=short]Feranal[/nation]
 [b][color=purple][u]Minister of Unauthorised Affairs[/u][/color]: [/b][nation=short]Emperor Mok[/nation]
 
-[b]~News~[/b]
-[color=blue]Merger being discussed &amp;amp; overhaul of political system[/color]
+[color=blue][b]~News~[/b][/color]
+[color=blue]Political parties being established and recruitment drive[/color]
 
-[b]~RMB Topic~[/b]
-[color=blue]Apples or oranges?[/color]
+[color=blue][b]~RMB Topic~[/b][/color]
+[color=blue]USA government shutdown[/color]
 
 [hr]
-[b]Politics:[/b] [url=http://www.nationstates.net/nation=kommunistica/detail=factbook/id=153365]The Genuan Constitution[/url] [b]|[/b]
+[b]Politics:[/b] [url=http://www.nationstates.net/nation=kommunistica/detail=factbook/id=153365]The Genuan Constitution[/url] [b]|[/b] [url=http://www.nationstates.net/nation=jultopia/detail=factbook/id=172243]Political Parties[/url]
 [hr]
-[b]Defcon Level:[/b] [url=http://www.nationstates.net/nation=jultopia/detail=factbook/id=163154]DEFCON[/url] [b]|[/b] [url=http://weetman.co.za/NS/map.png]Map of GR[/url] [b]|[/b] [url=http://www.nationstates.net/nation=jultopia/detail=factbook/id=171723]Full Government List[/url] [b]|[/b]
+[b]Defcon Level:[/b] [b][color=blue]Defcon 1[/color][/b] [b]|[/b] [url=http://www.nationstates.net/nation=jultopia/detail=factbook/id=163154]DEFCON[/url] [b]|[/b] [url=http://weetman.co.za/NS/map.png]Map of GR[/url] [b]|[/b] [url=http://www.nationstates.net/nation=jultopia/detail=factbook/id=171723]Full Government List[/url] [b]|[/b] [url=http://www.nationstates.net/nation=jultopia/detail=factbook/id=172239]GR/NGA Treaty[/url]
 [hr]
+[color=blue][b]Member of the SAA | State of the NGA[/b][/color]

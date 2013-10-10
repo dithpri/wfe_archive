@@ -5,26 +5,26 @@
 [url=http://regionalalliance.boardhost.com/index.php]Government Boards[/url]|[url=http://us11.chatzy.com/82671670940121]Chat [/url]|[url=http://www.nationstates.net/nation=sugarfootland/detail=factbook/id=159034]Constitution[/url]
 
 [color=blue]CONSULS[/color]
-Governor [nation=short+noflag]hewhocaresnot[/nation]
-Senate [nation=short+noflag]lebavon[/nation]
+Governor [nation=short+noflag]sugarfootland[/nation]
+Senate
 Assembly[nation=short+noflag]predominion[/nation]
 
 [color=blue]MINISTERS[/color]
-Governor [nation=short+noflag]Mollybear[/nation]
+Governor
 Defense &amp;amp; Security [nation=short+noflag]domination6[/nation]
-Communications [nation=short+noflag]sugarfootland[/nation]
-Immigration [nation=short+noflag]sugarfootland[/nation] 
+Communications
+Immigration
 World Affairs [nation=short+noflag]glaser[/nation]
-Justice [nation=short+noflag]sugarfootland[/nation]
+Justice
  
 [color=blue]LEGISLATIVE[/color]
 Assembly President
 Senate President
 
 [color=blue]SUPREME COURT[/color]
-Chief Justice [nation=short+noflag]kion[/nation]
+Chief Justice [nation=short+noflag]sofa[/nation]
 Justice 
-Justice [nation=short+noflag]sofa[/nation]
+Justice
 
 [color=red]Endorsement Cap: Unlimited
 

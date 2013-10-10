@@ -12,8 +12,8 @@ Find out more information [url=http://www.nationstates.net/nation=eos_informatio
 
 [color=blue][b]High General:[/b][/color] [nation=short]Militaristic Utopian States of Xin Lou[/nation]
 [b](Infantry) [color=blue]Division Commander:[/b][/color]
-[b](Shock) [color=blue]Division Commander:[/b][/color]
-[b](Airborne) [color=blue]Division Commander:[/b][/color]
+[b](Shock) [color=blue]Division Commander:[/b][/color] [nation=short]Great Praetoria[/nation]
+[b](Airborne) [color=blue]Division Commander:[/b][/color] [nation=short]YangYu hi[/nation]
 [b](Special Operations) [color=blue]Division Commander:[/b][/color][nation=short]Jultopia[/nation]
 
 [b][color=green]Centurion:[/b][/color]

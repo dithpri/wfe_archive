@@ -7,7 +7,7 @@ Government:
 Prime Minister: [nation]Sylven[/nation] 
 Deputy Prime Minister: [nation]Rutannia[/nation]
 Minister of Defence: ?
-Minister of Foreign Affairs: ?
+Minister of Foreign Affairs: [nation]Zvootyerra[/nation]
 
 [b][color=red]Please endorse our WAD:[/color][/b] [nation]Rutannia[/nation]
 

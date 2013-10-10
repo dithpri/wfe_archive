@@ -4,7 +4,7 @@ See [nation]Flenzburg[/nation] Factbook.
 The positions will be appointed until the region grows
 
 Commissioner-[nation]Flenzburg[/nation]
-President of the Chamber-Vacant
+President of the Chamber-[nation]Northern Prussia[/nation]
 Deputy of Inter-Regional Affairs-[nation]New Queen Charlotte Island[/nation]
-Deputy of Regional Affairs- Vacant
-Deputy of Judicial Affairs- Vacant
+Deputy of Regional Affairs- [nation]Rotgeheim[/nation]
+Deputy of Judicial Affairs-[nation]Scheinfeld[/nation]

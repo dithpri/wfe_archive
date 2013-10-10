@@ -1,17 +1,4 @@
-This region consists of twenty islands. He has a cup of football IsleCup.
+Hello and welcome on [region]Twenty Islands[/region]
 
-[u]IsleCup[/u] :
-[color=red]Current winning[/color] :
-[color=orange]Winner in the last season[/color] :
-
-[u]Government[/u] :
-[color=blue]Founder[/color] : [nation]Bestnid[/nation]
-[color=green]WA Delegate[/color] : 
-Secretary of Region :
-Secretary of Justice : 
-Secretary of the Land forces :
-Secretary of Marine : [nation]Bestnid[/nation]
-Secretary of the Air Force : 
-Secretary of the Finances :
-Secretary of the Education and the Transport :
-Secretary of the Health and the Sport :
+Founder : [nation]Bestnid[/nation]
+WA Delegate :

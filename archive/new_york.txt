@@ -15,6 +15,7 @@ Foreign Minister: [/color]vacant
 [u][b][color=purple]Assembly:[/b][/color][color=orangered][/u]
 [nation=short]Crazy Gauls[/nation]
 [nation=short]Devil[/nation](F)
+[nation=short]The Continent of Wild Endeavor[/nation]
 [nation=short]UK721[/nation]
 [nation=short]Vanic Topia[/nation](S)
 [/color]

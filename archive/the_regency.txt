@@ -1,22 +1,21 @@
 [b][i][u]The Regency Political Structure[/u][/i][/b]
 
-[color=purple][b]Democratically Elected WA Delegate Nation[/b][/color]: 
+[color=purple][b]Regent[/b][/color]: [nation]Albicia[/nation]
 
-[color=red][b]All supreme Nation[/b][/color]: [nation]Alynor[/nation]
+[color=red][b]All Supreme Nation[/b][/color]: [nation]Alynor[/nation]
 
-[color=blue][b]Speaker of the House[/b][/color]: [nation]Albicia[/nation]
+[color=blue][b]Speaker of the House[/b][/color]: [nation]Havanah[/nation]
 
-[color=green][b]Nation for Anti-Corruption[/b][/color]: [nation]Anwyn[/nation]
+[color=green][b]Nation for Anti-Corruption and Human Rights[/b][/color]: [nation]Franknation[/nation]
 
-[color=grey][b]Nation for Foreign Affairs[/b][/color]: [nation]Havanah[/nation]
+[color=grey][b]Nation for Foreign Affairs[/b][/color]: [nation]Cotopia[/nation]
 
-[color=brown][b]Regency&amp;#39;s Treasury Nation[/b][/color]: [nation]Franknation[/nation]
+[color=pink][b]Nation for Dragon Rights[/b][/color]: [nation]Khaleesi[/nation]
 
-[color=pink][b]Nation for Human and Dragon Rights[/b][/color]: [nation]Khaleesi[/nation]
+[color=orange][b]Nation for Region Defence[/b][/color]: [nation]The Daggerfall Covenant[/nation]
 
-[color=orange][b]Nation for Region Defence[/b][/color]: [nation]Cotopia[/nation]
+[color=brown][b]Regency&amp;#39;s Treasury Nation[/b][/color]: [nation]Cotopia[/nation]
 
-[color=salmon][b]Nation for People&amp;#39;s Equality[/b][/color]: [nation]Grosse Deutschland[/nation]
+[color=navy][b]Nation for Environmental Protection[/b][/color]: [nation]The Daggerfall Covenant[/nation]
 
-[b][i][u]Regency General Assembly[/u][/i][/b]
-[b]All Nations have equal say and power[/b]
+Next Election: 11/11/13

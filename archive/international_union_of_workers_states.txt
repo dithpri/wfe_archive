@@ -15,12 +15,9 @@
 
 [nation]Peihan[/nation]
 [nation]Mongalan[/nation]
-[nation]Los Cartagenas[/nation]
-[nation]Algodon[/nation]
 [nation]Kavaii[/nation]
 [nation]Barbaracx[/nation]
 [nation]Yuzan[/nation]
-[nation]Puipead[/nation]
 [nation]Batorvidek[/nation]
 
 [hr]
@@ -31,4 +28,11 @@
 
 [hr]
 
-[url=http://www3.picturepush.com/photo/a/13755891/img/13755891.png]Map of the Union[/url]
+[b]Lunar Bases[/b]
+
+[nation=short]IUWS Lunar Base Moloko[/nation]
+[nation=short]IUWS Lunar Base Bratstvo Kosmosa[/nation]
+
+[hr]
+
+[url=http://www1.picturepush.com/photo/a/13762434/img/13762434.png]Map of the Union[/url]
