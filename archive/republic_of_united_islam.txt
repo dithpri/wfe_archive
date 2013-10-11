@@ -4,7 +4,7 @@
 [u][b]&amp;gt;&amp;gt;Government&amp;lt;&amp;lt;[/b][/u]
 [b][color=blue]Supreme Leader[/color][/b]: [nation=short]The Silver Bloods[/nation] 
 [b][color=blue]Caliphate[/color][/b]: [nation=short]Wacantia[/nation] 
-[b][color=blue]Imams[/color][/b]: None
+[b][color=blue]Imams[/color][/b]: [nation=short]Iskandar Malaysia[/nation]
 [b][color=blue]Ministers[/color][/b]: None
 
 [u][b]&amp;gt;&amp;gt;News&amp;lt;&amp;lt;[/b][/u]

@@ -20,5 +20,5 @@
 [hr]
 [color=black]Order of the Day[/color]
 
-[color=#8B0000]All troops are instructed to move to [region]K and J Alliance[/region] and endorse [nation]Bagaleb[/nation] 
+[color=#8B0000]All troops are instructed to move to [region]K and J Alliance[/region] and endorse [nation=short]Bagaleb[/nation] 
 [/color][/b]

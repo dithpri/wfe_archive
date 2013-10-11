@@ -2,11 +2,11 @@ Region Government
 
 King: [nation]qubec[/nation]
 
-Prime Minister: [nation]Trimectalon[/nation]      Serving time 10/1/2013 - 1/1/2014
+Prime Minister: Position is closed last Prime Minister was impeached
 
 Minister:  [nation]ChiChi Empire[/nation]           Serving Time 10/2/2013 - 1/2/2014
 
-Minister of Foreign Affairs: [nation]qubec[/nation]  Serving Time 10/3/2013 - 1/32014
+Minister of Foreign Affairs: [nation]ChiChi Empire[/nation]  Serving Time 10/10/2013 - 1/3/2014
 
 Minister of Defense:  [nation]Lobester hand[/nation]  Serving Time 10/3/2013 - 1/4/2014
 

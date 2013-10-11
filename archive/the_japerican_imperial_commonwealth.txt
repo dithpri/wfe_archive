@@ -1,7 +1,8 @@
-[b][color=navy]The Japerican Imperial Commonwealth is an association of regions under the jurisdiction of Japerica. The DFN Commonwealth is a major sub-division of The JIC, it currently holds juisdiction over six separate regions, all of which are also under the jurisdiction of Japerica. Consider relocating to [region]Japerica[/region] today! ^_^[/color]
+[b][color=navy]The Japerican Imperial Commonwealth is an association of regions under the jurisdiction of Japerica. The DFN Commonwealth is a sub-division of The JIC, which jointly holds jurisdiction over six other regions with Japerica. Consider relocating to [region]Japerica[/region] today! ^_^[/color]
 
 [color=red]Colonies:
 [region]The DFN Commonwealth[/region]
+[region]The League of Democratic Nations[/region]
 [region]Region[/region]
 [region]The Commonwealth of Allied Nations[/region]
 
@@ -9,6 +10,7 @@ Staff:
 [nation]Bartholomew[/nation]
 [nation]Lieselotte[/nation]
 [nation]Arubato[/nation]
+[nation]Mikanada III[/nation]
 [nation]Mikanada IV[/nation]
 [nation]Mikanada V[/nation][/color]
 

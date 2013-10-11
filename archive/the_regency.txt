@@ -2,20 +2,22 @@
 
 [color=purple][b]Regent[/b][/color]: [nation]Albicia[/nation]
 
-[color=red][b]All Supreme Nation[/b][/color]: [nation]Alynor[/nation]
+[color=silver][b]Vice-Regent[/b][/color]: [nation]Cotopia[/nation]
 
 [color=blue][b]Speaker of the House[/b][/color]: [nation]Havanah[/nation]
 
-[color=green][b]Nation for Anti-Corruption and Human Rights[/b][/color]: [nation]Franknation[/nation]
+[color=red][b]Minister for Culture[/b][/color]: [nation]The Daggerfall Covenant[/nation]
 
-[color=grey][b]Nation for Foreign Affairs[/b][/color]: [nation]Cotopia[/nation]
+[color=green][b]Minister for Anti-Corruption and Human Rights[/b][/color]: [nation]Franknation[/nation]
 
-[color=pink][b]Nation for Dragon Rights[/b][/color]: [nation]Khaleesi[/nation]
+[color=grey][b]Minister for Foreign Affairs[/b][/color]: [nation]Cotopia[/nation]
 
-[color=orange][b]Nation for Region Defence[/b][/color]: [nation]The Daggerfall Covenant[/nation]
+[color=pink][b]Minister for Dragon Rights[/b][/color]: [nation]Khaleesi[/nation]
 
-[color=brown][b]Regency&amp;#39;s Treasury Nation[/b][/color]: [nation]Cotopia[/nation]
+[color=orange][b]Minister for Defence[/b][/color]: [nation]The Daggerfall Covenant[/nation]
 
-[color=navy][b]Nation for Environmental Protection[/b][/color]: [nation]The Daggerfall Covenant[/nation]
+[color=brown][b]Minister of the Treasury[/b][/color]: [nation]Cotopia[/nation]
+
+[color=navy][b]Minister for the Environment[/b][/color]: [nation]Khaleesi[/nation]
 
 Next Election: 11/11/13

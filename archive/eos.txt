@@ -13,7 +13,7 @@ Read the [url=http://www.nationstates.net/nation=eos_information/detail=factbook
 
 [b] Department of Defense: [/b] [nation=short]Militaristic Utopian States of Xin Lou[/nation]
 
-[b] Department of Public Relations: [/b] [i] Happening now [/i]
+[b] Department of Public Relations: [/b][nation=short]Kingston-Atlantis[/nation]
 
 [b] Department of Justice: [/b] [i] [nation=short]Jultopia[/nation] [/i]
 

@@ -15,7 +15,7 @@ Defense &amp;amp; Security [nation=short+noflag]domination6[/nation]
 Communications
 Immigration
 World Affairs [nation=short+noflag]glaser[/nation]
-Justice
+Justice [nation=short+noflag]elemental north[/nation]
  
 [color=blue]LEGISLATIVE[/color]
 Assembly President

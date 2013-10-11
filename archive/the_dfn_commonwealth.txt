@@ -1,23 +1,18 @@
-[b][color=darkorange]The DFN Commonwealth is an association of regions under the jurisdiction of [region]The Democratic Federation of Nations[/region]. Several regions are also a part of The [region]TAR Commonwealth[/region], consider relocating to [region]The Allied Republics[/region]. ^_^
+[b][color=darkorange]The DFN Commonwealth is an association of regions under the jurisdiction of [region]The Japerican Imperial Commonwealth[/region], consider relocating to [region]Japerica[/region] today! ^_^
 
 Colonies:
 [region]The Democratic Federation of Nations[/region]
 [region]The Federation of Democratic Nations[/region]
 [region]The United Earth Federation[/region]
-[region]Anglia[/region]
-[region]The League of Democratic Nations[/region]
 [region]The United Mars Federation[/region]
+[region]The Confederate Nations of West Pacific[/region]
+[region]Anglia[/region]
 
 Staff:
-[nation]Bartholomew[/nation]
-[nation]Lieselotte[/nation]
+[nation]Pacertopia[/nation]
 [nation]Landgraabland[/nation]
 [nation]Plumbland[/nation]
 [nation]Richington[/nation]
-[nation]Wolfman[/nation]
-[nation]Pacertopia[/nation]
-[nation]South Lee[/nation]
 [nation]North Lee[/nation]
-
-[/color][/b]
-
+[nation]South Lee[/nation]
+[nation]Wolfman[/nation][/color][/b]

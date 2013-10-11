@@ -1,8 +1,8 @@
 [i]The Cabinet[/i]
 [b]Prime Minister[/b] - [nation]Ankh Morporka[/nation]
 [b]Minister of Internal Affairs[/b] - [nation]Hylasia[/nation]
-[b]Minister of Foreign Affairs[/b] - vacant
-[b]Regional Judge[/b] - vacant
+[b]Minister of Foreign Affairs[/b] - [nation]Syrillia[/nation]
+[b]Regional Judge[/b] - [nation]Jaxandria[/nation]
 [b]Minister of Recruitment[/b] - [nation]Kittiwake[/nation]
 [color=white]Subliminal message of the day: Bacon is good[/color]
 
@@ -13,5 +13,7 @@
 [nation]Tilsitin[/nation]
 
 [b]Lord High Steward[/b] - [nation]Syrillia[/nation]
+
+[url=http://www.bobulous.org.uk/udt/index.html]Regional Clock[/url]
 
 [url=http://www.nswiki.net/index.php?title=Confederation_of_Independent_States]CIS Wiki[/url]

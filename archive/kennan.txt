@@ -1,13 +1,12 @@
-[color=green][b]Important Links[/b][/color]
-[url=http://goo.gl/CUiya]Kennan Map[/url] | [url=http://goo.gl/rahj3]Kennan Offsite Forum[/url]
+[color=red][b]Important Links[/b][/color]
+[url=http://goo.gl/rahj3]Offsite Forums[/url] | [url=http://goo.gl/CUiya]Regional Map[/url]
 
-[color=blue][b]Kennan Regional Council[/b][/color]
+[color=orange][b]Regional Updates[/b][/color]
+[list]
+[*]10/10/2013 - Update to Regional Factbook!
+[/list]
 
-[b][color=blue]Kennan Union[/color][/b]
-
-[b][i][color=brown]HAPPY LEIF ERICSON DAY SUCKAS[/b][/i][/color] [url=]http://www.youtube.com/watch?v=9YqehGlg6m8[/url]
-
-[color=red][b]6th Kennan Secretary Council[/b][/color]
+[color=blue][b]7th Kennan Secretary Council[/b][/color]
 [b]Administration:[/b] [nation=short]Samukan[/nation]
 [b]Defense:[/b] [nation=short]Ethan Foley[/nation] 
 [b]Education:[/b] [nation=short]Frache[/nation]
@@ -16,7 +15,7 @@
 [b]Human Rights:[/b] [nation=short]Wilder Ancestors[/nation]
 [b]Law Enforcement:[/b] [nation=short]Hackleberry Islands[/nation]
 
-[color=red][b]Chairmen[/b][/color]
+[color=blue][b]Chairmen[/b][/color]
 [b]Kennan Regional Council:[/b] [nation=short]Sandwich Territories[/nation]
 [b]Kennan Union:[/b] [nation=short]Ethan Foley[/nation] 
 [b]Kennan Species Bureau:[/b] [nation=short]Samukan[/nation]
