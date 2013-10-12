@@ -2,9 +2,9 @@ Region Government
 
 King: [nation]qubec[/nation]
 
-Prime Minister: Position is closed last Prime Minister was impeached
+Prime Minister: [nation]ChiChi Empire[/nation] serving time 10/11/2013 - 1/1/2014
 
-Minister:  [nation]ChiChi Empire[/nation]           Serving Time 10/2/2013 - 1/2/2014
+Minister:Position Closed
 
 Minister of Foreign Affairs: [nation]ChiChi Empire[/nation]  Serving Time 10/10/2013 - 1/3/2014
 

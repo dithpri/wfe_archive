@@ -2,7 +2,10 @@
 
 [u][Color=blue]Government:[/color][/u]
 [Color=purple]WA Delegate:[/color][nation=short]Midland South States[/nation]
-[color=purple]Recruitment Officer:[/color][nation=short]Ambruss[/nation]
+[color=purple]President:[/color]
+[color=purple]Vice-President:[/color]
+[color=purple]Justices:[/color]
+[color=purple]Recruitment Officer:[/color]
 
 The IAU is a sister region to:
 [region]International Northern Union[/region],

@@ -1,4 +1,4 @@
-[color=red]TG Founder for Board &amp;amp; Chat Registration Issues[/color]
+[color=red]TG Founder for Board &amp;amp; Chat Registration Issues. You must use your short nation name as your user name. [/color]
 
 [b][url=http://regionalalliance.boardhost.com/viewtopic.php?id=7]Understanding How the Regional Government Works[/url]
 
@@ -8,14 +8,15 @@
 Governor [nation=short+noflag]sugarfootland[/nation]
 Senate
 Assembly[nation=short+noflag]predominion[/nation]
+WA Delegate
 
 [color=blue]MINISTERS[/color]
-Governor
+Governor (Asst.)
 Defense &amp;amp; Security [nation=short+noflag]domination6[/nation]
 Communications
 Immigration
 World Affairs [nation=short+noflag]glaser[/nation]
-Justice [nation=short+noflag]elemental north[/nation]
+Justice [nation=short+noflag]celino[/nation] 
  
 [color=blue]LEGISLATIVE[/color]
 Assembly President
@@ -23,7 +24,7 @@ Senate President
 
 [color=blue]SUPREME COURT[/color]
 Chief Justice [nation=short+noflag]sofa[/nation]
-Justice 
+Justice [nation=short+noflag]elemental north[/nation] 
 Justice
 
 [color=red]Endorsement Cap: Unlimited

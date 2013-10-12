@@ -1,0 +1,4 @@
+A group of Islands that will defend each other from attacks.
+ Capital: Kani Cove
+Embassy Location: Kani Cove
+Weather: Sunny, can be stormy.
