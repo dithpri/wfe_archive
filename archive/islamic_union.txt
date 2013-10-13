@@ -4,15 +4,17 @@ ISLAMIC UNION [color=gray](The Regional of Islamic Union)[/color]
 
 [u][b]REGION HEAD COUNCIL[/b][/u]
 [nation]Khalifa[/nation]
+[nation]Global Islamic Caliphate[/nation]
 [nation]Caliphates[/nation]
+
 [hr]
 
 [u][b]REGION REQUIREMENTS[/b][/u]
-[color=gray]National Population :[/color] Minimum 1 Billion
+[color=gray]National Population :[/color] Minimum 92 Million
 [color=gray]National Religion :[/color] Islam
-[color=gray]National Capital City :[/color] Already Built
-[color=gray]National Leader :[/color] Already Elected
-[color=gray]National Classification :[/color] Holy Empire
+[color=gray]National Capital City :[/color] No Requirements
+[color=gray]National Leader :[/color] No Requirements
+[color=gray]National Classification :[/color] No Requirements
 [hr]
 
 [u][b]REGION MOTTO[/b][/u]

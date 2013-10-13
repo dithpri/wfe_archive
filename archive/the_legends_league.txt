@@ -1,1 +1,11 @@
-The region will be set-up tmrw by the afternoon.
+[b]Regional Government[/b]:
+[b][color=blue]Chancellor[/b][/color]: [nation=short]Everlyn[/nation]
+[b][color=blue]Vice Chancellor[/b][/color]: [nation=short]Calostile[/nation]                                  
+[color=blue][b]Secretary of Defense[/b][/color]: [nation=short]Zachsland[/nation]
+[color=blue][b]General of the Cavalry[/b][/color]: [nation=short]Starkiller101[/nation]
+[b][color=blue]Chief of Intelligence[/b][/color]: [nation=short]Gameclipse[/nation]
+[b][color=blue]Secretary of Immigration[/b][/color]: [nation=short]Carblio[/nation]
+[b][color=blue]Supreme Judge[/b][/color]: [nation=short]Ancient Union[/nation]
+[b][color=blue]Chief Ambassador[/b][/color]: [nation=short]HABL0R[/nation]         
+
+[b][color=red]DEFCON[/b][/color]:5 troops stationed 

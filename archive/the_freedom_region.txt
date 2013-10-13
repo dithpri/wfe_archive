@@ -1,13 +1,15 @@
 Welcome to [b][color=blue]The Freedom Region[/color][/b]!
 
-[i]Lest we forget...[/i]
+[i]Lest we forget...[/i] [i]The government serves you, you do not serve the government[/i]
 
 Government:
 
 Prime Minister: [nation]Sylven[/nation] 
 Deputy Prime Minister: [nation]Rutannia[/nation]
+Minister of Law and Justice: ? 
 Minister of Defence: ?
 Minister of Foreign Affairs: [nation]Zvootyerra[/nation]
+Minister of Unauthorized Affairs: ?
 
 [b][color=red]Please endorse our WAD:[/color][/b] [nation]Rutannia[/nation]
 

@@ -4,13 +4,11 @@
 
 [hr]
 
-Duce of Fascism: [nation=short]Fascist Earth[/nation]
+[u]THE GRAND COUNCIL OF FASCISM[/u]
 
-Consul: [nation=short]Serpentura[/nation]
+Il Duce Supremo: [nation=short]Serpentura[/nation]
 
 Minister of Defense: [nation=short]The Imperial Prefectures of America[/nation]
-
-Minister of Foreign Affairs: [nation=short]United Misotheist[/nation]
 
 Minister of State Security: [nation=short]The Reichslaender[/nation] 
 

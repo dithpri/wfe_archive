@@ -5,18 +5,16 @@ Welcome to the Empire of the UIT!
 
 Council Positions:
 Emperor: [nation]Unified Imperial States[/nation]
-Grand Inquisitor N/A
-Executive of Intelligence - N/A
+Grand Inquisitor - [nation]Autocracy of Equestria[/nation]
+Director of Intelligence - [nation]Cadifor[/nation]
 Lord High Marshal - N/A
 Minister of Foreign Affairs - N/A
 Internal Defense Administrator - N/A
 World Assembly Delegate- N/A
 
-Royal Fagget - [nation]Autocracy of Equestria[/nation]
-
 Government Position Roster
 
-Imperial Inquisition: N/A
+Imperial Inquisition: 1
 
 Imperial Military: N/A
 
@@ -26,4 +24,4 @@ Internal Defense Administration: N/A
 
 World Assembly Offices: N/A
 
-Imperial Intelligence Agency: N/A
+Imperial Intelligence Agency: 1

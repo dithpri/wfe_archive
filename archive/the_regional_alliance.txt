@@ -8,8 +8,7 @@
 Governor [nation=short+noflag]sugarfootland[/nation]
 Senate
 Assembly[nation=short+noflag]predominion[/nation]
-WA Delegate
-
+WA Delegate [nation=short+noflag]olivee[/nation] 
 [color=blue]MINISTERS[/color]
 Governor (Asst.)
 Defense &amp;amp; Security [nation=short+noflag]domination6[/nation]
