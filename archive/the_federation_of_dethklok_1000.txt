@@ -1,9 +1,10 @@
 DEFCON Level: 5 
 
 Government:
-WA Delegate-
+Founder: [nation]Dethkloktopia[/nation]
+WA Delegate- [nation]Mopiona[/nation]
 Vice WA Delegate-
-Chancellor-
+Chancellor- [nation]Afrycir[/nation]
 Secretary of State-
 Secretary of Defense- 
 Secretary of Commerce-
@@ -14,6 +15,6 @@ Vice Ambassador-
 Head of Intelligence-
 Head of Special Operations- 
 Recruiter (Region)-
-Master Chief (Head of Military)- [nation]Mopiona[/nation]
+Master Chief (Head of Military)-
 General of The Army (2nd in Command)-
 Recruiter (Military)-

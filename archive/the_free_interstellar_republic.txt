@@ -1,13 +1,8 @@
-States:
-#1 - Aerinoth ([nation]The Fifth Dominion[/nation])
-#2 - Inquells ([nation]Inquells[/nation])
-#3 - Hoppity Jump (Hoppity jump)
-#4 - Alfalshi ([nation]The Incorporated States of Nationalist Alfalshi[/naiton])
-#5 - Fourth Dominion ([nation]The Grand Fourth Dominion[/nation])
-#6 - Old North Fish ([nation]Old North Fish[/nation])
-#7 - Adi Rajen ([nation]Adi Rajen[/nation])
-#8 - Fal shia ([nation]Fal shia[nation])
-#9 - Davatria ([nation]Davatria[/nation])
-#10 - Vojne ([nation]Vojne[/nation])
-#11 - Southern Zone ([nation]Ashbringer[/nation]/The southern zones)
+[b][color=#000061]Huzzah! Huzzah! Huzzah! This region proved no match for a charge by [region=The Black Riders]![/color]
 
+[color=black]Occupied by [url=http://www.youtube.com/watch?v=qB1kp9adYYE]The Black Riders[/url]! Our lair can be found [/color] [url=http://s4.zetaboards.com/The_Black_Riders/index/]here[/url]
+
+[color=#000061]Into the battle rode the following riders:[/color]
+[nation=short]General Halcones[/nation]
+[nation=short]Suchasmallthing[/nation]
+[nation=short]Coraxion[/nation][/b]

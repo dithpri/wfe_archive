@@ -4,7 +4,5 @@
 
 As a result, this is now an associated region of [region=United States of America].[/list]
 
-[color=800000][I]A new family of regions has been created to be associated with this region.[/I][/color]
-
-[color=006600][b]ROR Allied Regions are:[/b][list][hr][region=Irkutsk], [region=Karachay Circassia], [region=Kemerovo], [region=Khabarovsk], [region=Khakasiya], [region=Kirov], [region=Komn], [region=Krasnoyarsk], [region=Kurgan], [region=Mordvinia], [region=Rostov], [region=Tula], [region=Vologda]
+[color=800000][I]A new family of regions has been created to be associated with this region:[/I][/color][color=006600][b]ROR Allied Regions are:[/b][list][hr][region=Irkutsk], [region=Karachay Circassia], [region=Kemerovo], [region=Khabarovsk], [region=Khakasiya], [region=Kirov], [region=Komn], [region=Krasnoyarsk], [region=Kurgan], [region=Mordvinia], [region=Rostov], [region=Tula], [region=Vologda]
 (too many to list)[hr][/list][/color]

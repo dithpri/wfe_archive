@@ -1,14 +1,13 @@
 [b]Member regions;
 
-[region]First Nations[/region]
-
-[region]North Korea[/region]
-
 [region]The Communist Party of Nationstates[/region]
 
 [region]United Peoples Front for socialism[/region]
 
-[region]Eurasia[/region][/b][hr]
+[region]Eurasia[/region]
+
+[region]First Nations[/region][/b][hr]
+
 [b]Objective: Preemptive strikes on the fascist regions of Nationstates and the defense of the Nationstates Left.[/b][hr]
 [b][color=red]Anti-Imperialism!
 Anti-Colonialism!
