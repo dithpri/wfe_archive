@@ -1,2 +1,16 @@
-[b][region]Russian Empire[/region] est&aacute; sobre controle absoluto de [nation]Akatsuki Org[/nation]![/b]
-Regido pelas leis do [region]Brasil[/region].
+[b][color=silver]WELCOME[/color] [color=blue]TO THE[/color] [color=red]RUSSIAN EMPIRE[/color][hr]
+
+[color=navy]Stretching from the east of Europe to the northwestern coast of North America, the Russian Empire is one of the largest empires in human history. Ruled by tsars for centuries, it became a great power under Peter the Great, who paved the way for Russian dominance in Eurasia.[/color][hr]
+
+[u][color=red]Executive:[/color][/u]
+&#149; Tsar: [nation=short]Novgorad[/nation]
+&#149; Regent: 
+&#149; Crown Prince:
+
+[u][color=red]Council of Ministers:[/color][/u]
+&#149; Minister of Foreign Affairs:
+&#149; Minister of Finance:
+&#149; Minister of War:
+&#149; Minister of Internal Affairs:
+
+[hr][color=navy]Associate member of the [region]Trade Federation[/region][/color][/b]

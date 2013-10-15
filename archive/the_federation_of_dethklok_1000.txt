@@ -1,4 +1,4 @@
-DEFCON Level: 5 
+DEFCON Level: 5
 
 Government:
 Founder: [nation]Dethkloktopia[/nation]
@@ -9,7 +9,7 @@ Secretary of State-
 Secretary of Defense- 
 Secretary of Commerce-
 Secretary of Economics and Trade-
-Chief Ambassador-
+Chief Ambassador- [nation]Jamaxia[/nation]
 Ambassador-
 Vice Ambassador-
 Head of Intelligence-
@@ -18,3 +18,6 @@ Recruiter (Region)-
 Master Chief (Head of Military)-
 General of The Army (2nd in Command)-
 Recruiter (Military)-
+
+Join The WA!
+Endorse Our Regional Delegate!

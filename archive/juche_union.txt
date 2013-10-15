@@ -1,8 +1,6 @@
 Welcome to the Juche Union!
 
-[color=red]We are a mostly leftist region,[/color] but we&amp;#39;ll accept most nations for [color=yellow]pleasant conversation![/color]
-
-[b][u]NO FASCISTS.[/b][/u]
+[color=red]We are a mostly leftist region,[/color] but we&amp;#39;ll accept any nation for [color=yellow]pleasant conversation![/color]
 
 [color=blue]PROUD COMRADES-IN-ARMS OF [region]UCR[/region]![/color]
 
@@ -20,7 +18,7 @@ Grand Punmaster: [nation=short]Red Briefcase[/nation]
 
 [u]Security Level[/u]
 Peacetime - no foreseeable threats.
-Guarded - minor threat.
+[color=purple]Guarded - minor threat.[/color]
 Alert - clear threat.
-[color=red]Danger - serious threat.[/color]
+Danger - serious threat.
 Emergency - invasion imminent.
