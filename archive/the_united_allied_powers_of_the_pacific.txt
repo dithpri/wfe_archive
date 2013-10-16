@@ -1,18 +1,19 @@
-Executive: 
-President: [nation]Biron[/nation]
-Vice President: [nation]Zoropas[/nation]
-Foreign Policy Advisor: [nation]Aqua Royale[/nation]
-Foreign Policy Advisor: [nation]Emerald States[/nation]
-Foreign Policy Advisor: [nation]Hydropia[/nation]
-Internal Affairs: [nation]Shilton[/nation]
+[b][color=blue]Executive:[/color][/b]
+[b]Leader: [nation]Biron[/nation][/b]
+[b]WA Delegate:[/b]
 
-Legislative:
-Legislative Council President:[nation]Mondelera[/nation]
-Congress Party Member: [nation]United Republic of Putnam[/nation]
-Congress Party Member: [nation]Kwanville[/nation]
-Council Deputies:[nation]Roselake[/nation], [nation]Wavekiller[/nation], [nation]Kobej[/nation], [nation]Whatsitsname[/nation]
+[b][color=blue]Legislative:[/color][/b]
+[b]Legislative Council President: [nation]Mondelera[/nation][/b]
+[b]United Democratic Council President:[/b]
 
-Judicial:
-Supreme Court Justice: [nation]Earthbound Valhalla[/nation]
+[b][color=blue]Ministers:[/color][/b]
+[b]Foreign Policy: [nation]Emerald States[/nation][/b]
+[b]Defense and Regional Security: [nation]Wavekiller[/nation][/b]
+[b]Law:[/b]
+[b]Communications:[/b]
+[b]Recruiter:[/b]
 
-[url=http://unitedalliedpowersofthepacific.webs.com/apps/photos/album?albumid=15132559]Maps[/url] 
+[b][color=blue]Supreme Court:[/color][/b]
+[b]Chief Justice:[/b]
+[b]Justice:[/b]
+[b]Justice:[/b]

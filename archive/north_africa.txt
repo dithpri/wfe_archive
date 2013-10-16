@@ -13,7 +13,7 @@ Our glorious region welcomes peoples of all ideologies, religions, races, creeds
 
 Defense: [nation]Blumaria[/nation]
 
-Mediation: Vacant
+Mediation: [nation]Holus[/nation]
 
 Economic: [nation]Malavia[/nation]
 

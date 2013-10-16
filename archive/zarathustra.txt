@@ -15,7 +15,6 @@ Conquered Subjects:
 
 [region]Babylonian Empire[/region]
 [region]Imperial Persia[/region]
-[region]The Soviet Block[/region]
 [region]Dathomir[/region]
 [region]Kronas[/region]
 [region]Hexic[/region]
@@ -28,3 +27,4 @@ Conquered Subjects:
 [region]Ranejaval[/region]
 [region]Grand Europa[/region]
 [region]The Roman Catholic Church[/region]
+[region]The Region Of True Communists[/region]
