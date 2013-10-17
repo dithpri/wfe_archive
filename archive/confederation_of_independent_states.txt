@@ -1,19 +1,24 @@
-[i]The Cabinet[/i]
-[b]Prime Minister[/b] - [nation]Ankh Morporka[/nation]
-[b]Minister of Internal Affairs[/b] - [nation]Hylasia[/nation]
-[b]Minister of Foreign Affairs[/b] - [nation]Syrillia[/nation]
-[b]Regional Judge[/b] - [nation]Jaxandria[/nation]
-[b]Minister of Recruitment[/b] - [nation]Kittiwake[/nation]
-[color=white]Subliminal message of the day: Bacon is good[/color]
+[i]Union of Confederations[/i]
+[b]Member[/b] - [region]Confederation of Nations[/region]
+[b]Member[/b] - [region]Confederation of Independent States[/region]
+[b]President[/b] - [nation=short]Region 4[/nation]
+[b]Foreign Minister[/b] - [nation=short]United Confederation of states[/nation]
+[b]Union Judiciary[/b] - [nation=short]Jaxandria[/nation], Vacant, Vacant
 
-[b]Honorary Mayor of Libertria[/b] - [nation]Torder[/nation]
+[i]The Cabinet of the Confederation of Independent States[/i]
+[b]Prime Minister[/b] - [nation=short]Ankh Morporka[/nation]
+[b]Minister of Internal Affairs[/b] - [nation=short]Hylasia[/nation]
+[b]Minister of Foreign Affairs[/b] - [nation=short]Syrillia[/nation]
+[b]Regional Judge[/b] - [nation=short]Jaxandria[/nation]
+[b]Minister of Recruitment[/b] - [nation=short]Kittiwake[/nation]
+
+[b]Honorary Mayor of Libertria[/b] - [nation=short]Torder[/nation]
 
 [b]Eternal Presidents[/b]
-[nation]Hylasia[/nation]
-[nation]Tilsitin[/nation]
+[nation=short]Hylasia[/nation]
+[nation=short]Tilsitin[/nation]
 
-[b]Lord High Steward[/b] - [nation]Syrillia[/nation]
+[b]Lord High Steward[/b] - [nation=short]Syrillia[/nation]
 
 [url=http://www.bobulous.org.uk/udt/index.html]Regional Clock[/url]
-
 [url=http://www.nswiki.net/index.php?title=Confederation_of_Independent_States]CIS Wiki[/url]

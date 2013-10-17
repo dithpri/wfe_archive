@@ -6,7 +6,7 @@ Security and Embassy Affairs: [nation=short+noflag]Gewaltig[/nation]
 WA Affairs and Outreach: [nation=short+noflag]West Consigahria[/nation]
 
 [b][u][color=red]News from the First Legislature[/color][/u][/b]
-10/10: [nation=Gewaltig], [nation=Consigahria], and [nation=West Consigahria] are locked down; citizens are urged to stay inside except in cases of emergency. Those found in public with hidden faces, or found in public or private with any weapon without the sole intent of protecting their home and family, will be arrested by CS and/or Division, and/or will be shot.
+10/16: [nation=noflag+short]Praetors of Domicilium[/nation] has been founded.
 
 [b][u]Current Security Status[/b][/u] (underlined is in effect)
 [color=blue]Safe[/color] | [color=red]Cautioned[/color] | [color=purple]In Danger[/color] | [b][u][color=black]Locked Down[/color][/u][/b]

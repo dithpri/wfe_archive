@@ -13,7 +13,7 @@ Imperial Guardian: [nation=short]Trunava[/nation]
 
 Minister of Information: [nation=short]Zambia-Rhodesia[/nation]
 
-Minister of Culture: [nation=short]The Holy Potato Empire[/nation]
+Minister of Culture:
 [/b]
 
 
