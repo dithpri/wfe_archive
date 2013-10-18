@@ -1,10 +1,12 @@
 [b][color=blue]Executive:[/color][/b]
 [b]Leader: [nation]Biron[/nation][/b]
-[b]WA Delegate:[/b]
+[b]WA Delegate: [nation]Hydropia[/nation][/b]
 
 [b][color=blue]Legislative:[/color][/b]
 [b]Legislative Council President: [nation]Mondelera[/nation][/b]
+[b]Legislative Council Deputies: [nation]Roselake[/nation], [nation]Wavekiller[/nation], [nation]Kobej[/nation], [nation]Whatsitsname[/nation][/b]
 [b]United Democratic Council President:[/b]
+[b]United Democratic Council Deputies: [/b]
 
 [b][color=blue]Ministers:[/color][/b]
 [b]Foreign Policy: [nation]Emerald States[/nation][/b]

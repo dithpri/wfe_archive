@@ -1,24 +1,16 @@
 [b][i][u]The Regency Political Structure[/u][/i][/b]
 
-[color=purple][b]Regent[/b][/color]: [nation]Albicia[/nation]
+[nation]Albicia[/nation]: [color=purple][b]Regent[/b][/color]
 
-[color=silver][b]Vice-Regent[/b][/color]: [nation]Cotopia[/nation]
+[nation]Cotopia[/nation]: [color=silver][b]Vice-Regent[/b][/color], [color=grey][b]Minister for Foreign Affairs[/b][/color], [color=brown][b]Minister of the Treasury[/b][/color]
 
-[color=blue][b]Speaker of the House[/b][/color]: [nation]Havanah[/nation]
+[nation]The Daggerfall Covenant[/nation]: [color=orange][b]Minister for Defence[/b][/color], [color=red][b]Minister for Culture[/b][/color]
 
-[color=red][b]Minister for Culture[/b][/color]: [nation]The Daggerfall Covenant[/nation]
+ [nation]Franknation[/nation]: [color=green][b]Minister for Human Rights[/b][/color]
 
-[color=green][b]Minister for Anti-Corruption and Human Rights[/b][/color]: [nation]Franknation[/nation]
+[nation]Havanah[/nation]: [color=blue][b]Speaker of the House[/b][/color]
 
-[color=grey][b]Minister for Foreign Affairs[/b][/color]: [nation]Cotopia[/nation]
-
-[color=pink][b]Minister for Dragon Rights[/b][/color]: [nation]Khaleesi[/nation]
-
-[color=orange][b]Minister for Defence[/b][/color]: [nation]The Daggerfall Covenant[/nation]
-
-[color=brown][b]Minister of the Treasury[/b][/color]: [nation]Cotopia[/nation]
-
-[color=navy][b]Minister for the Environment[/b][/color]: [nation]Khaleesi[/nation]
+[nation]Khaleesi[/nation]: [color=pink][b]Minister for Freedom[/b][/color], [color=navy][b]Minister for the Environment[/b][/color]
 
 Next Election: 11/11/13
 

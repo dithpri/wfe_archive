@@ -16,9 +16,7 @@
 
 [b]Deputy Secretary-General[/b] : [i]vacant[/i]
 
-[b]Secretary for Diplomacy[/b] : [nation]Hanannara[/nation]
-
-[b]Secretary for Foreign Affairs[/b] : [i]open for election[/i]
+[b]Secretary for Diplomacy and Foreign Affairs[/b] : [nation]Hanannara[/nation]
 
 [b]Secretary for Defense[/b] : [nation]Graknopia[/nation]
 
@@ -26,4 +24,8 @@
 
 [b]Justice of The United League Security Council and Court of Justice[/b] : [nation]Durinmore[/nation]
 
-[b]Regional Secretary[/b] : [i]open for election[/i]
+[b]Regional Secretary[/b] : [i]open for election[/i] 
+
+[u]World Assembly Board[/u]
+
+[b]Senator of the World Assembly[/b] : [nation]Shaw State[/nation]

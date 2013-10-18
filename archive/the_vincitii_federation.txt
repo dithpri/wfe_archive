@@ -1,6 +1,5 @@
 [b]Welcome to the Vincitii Federation![/b]
 
-Our President:[Nation]West Dorian[/nation]
 Foreign Affairs Minister:[Nation]Raneia[/nation]
 Minster of War and Conquest:[Nation]Raneia[/nation]
 Recruitment Officer:[Nation]West Dorian[/nation]
@@ -18,4 +17,5 @@ Minister of Internal Affairs:[nation]Marshallian[/nation]
 -Civilian Rights
 
 [b]Regional Happenings:[/b]
-New office positions created!
+New Law!
+Only two political parties allowed until we get more then 10 people. Otherwise there is no-one to actually vote.

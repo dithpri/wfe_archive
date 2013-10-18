@@ -13,5 +13,5 @@ The Minister of Economy: [nation]Syngecku[/nation];
 
 The Minister of Law and Order: [nation]Cordon[/nation];
 
-The Minister of Intel: [nation]New Turkish[/nation],
-The Vice Minister of Intel: [nation]The Fluffy Pink Bunnies of Doom[/nation].
+The Minister of Intel: [nation]The Fluffy Pink Bunnies of Doom[/nation],
+- [nation]New Turkish[/nation].
