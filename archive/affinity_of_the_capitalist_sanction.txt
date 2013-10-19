@@ -1,1 +1,10 @@
 The Affinity of the Capitalist Sanction is a region dedicated to the rise of the free market and capitalism. It also supports liberty and small government. The Capitalist Sanction region is an extremely large island chain.
+
+Regional features:
+1. Harbitros Vote Override
+ -Allows the Confederacy of Harbitros to override the votes of a bill to either pass or veto it
+ -Needs three nations to agree with override before it takes motion
+2. Trade Security
+ -Allows nations to freely trade soldiers with one another
+ -Allows nations to freely trade military utilities and machinery
+ -Allows nations to buy/sell uranium and other radioactive minerals with one another
