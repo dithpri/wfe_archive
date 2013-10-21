@@ -7,7 +7,7 @@ __________________________________________________________
 [Color=brown]Generals:[/color]
 1. [Nation=short+noflag]Wasatia[/nation]
 2. [nation=short+noflag]The Russian Federations[/nation]
-[Color=gold]Colonels:[/color] [nation=short+noflag]The Order of Chaos Chao[/nation]
+[Color=gold]Colonels:[/color] [nation=short+noflag]The Order of Chaos Chao[/nation], [nation=short+noflag]Saja Tori[/nation]
 [Color=purple]Soldiers:[/color]
 __________________________________________________________
 [B]SENATE[/B]
@@ -17,7 +17,7 @@ __________________________________________________________
 1.[nation=short+noflag]Uniland[/nation]
 2.[nation=short+noflag]The Russian Federations[/nation]
 3.
-[Color=tan]Council:[/color]
+[Color=tan]Council:[/color] [nation=short+noflag]Saja Tori[/nation]
 __________________________________________________________
 [B]Elections take place every 18th of the month[/b]
 [I]A proud subgroup of the NGA[/I]

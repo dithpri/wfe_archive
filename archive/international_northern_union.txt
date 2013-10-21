@@ -6,7 +6,7 @@ WA Delegate: [nation=short]Xin Prussia[/nation]
 Adviser: [nation=short]Norskia[/nation]
 Chairman: [nation=short]Mundimundi[/nation]
 Secretary of Recruitment: [nation=short]Zwotstyg[/nation]
-Foreign Minister: UNDER CONTEST
+Foreign Minister: [nation=short]The Federation of Zera[/nation]
 Ambassador Committee: [nation=short]Raxia[/nation]
 
 [b][u]WA Members:[/u] Please endorse our current delegate.[/b]

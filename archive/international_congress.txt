@@ -1,14 +1,12 @@
-The Republic of the International Congress/Parliament 
 [b]Prime Minister[/b] [nation]The Seven Nations[/nation](L)
 Minister of Defense [nation]A United States Navy[/nation](D)
 Chief of Police [nation]The British Royal Empire[/nation](R)
 Minister of State [nation]Of the OMalley Clan[/nation](R)
-Minister of Foreign Affairs [nation]Central Georgia[/nation]
-WA Delegate none
-Vice WA Delegate none
+Minister of Foreign Affairs [nation]The Airforce[/nation]
+Minister of Internal Affairs [nation]The Irish Republican Empire[/nation]
 Vice Prime Minister [nation]Royal States of Stars[/nation](R)
 Speaker of High Council [nation]A Republican Ireland[/nation]
-Parliament: [nation]The Irish Republican Empire[/nation](R) [nation]Royal States of Stars[/nation](R) [nation]The Seven Nations[/nation](L) [nation]A United States Navy[/nation] (D)
+Parliament:  [nation]Royal States of Stars[/nation](R) [nation]The Seven Nations[/nation](L) [nation]A United States Navy[/nation] (D)
  
-[url=http://613585.xobor.com]
+[b]http://613585.xobor.com[/b]
 
