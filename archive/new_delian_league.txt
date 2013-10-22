@@ -1,7 +1,1 @@
-[color=000666][b]New Delian League[/b][/color]
-[color=006600]
-REGION[list]This region is associated with [region=Ionia] and [region=United States of America]
-Region No. 4
-PUPPET STORAGE REGION
-Allied Regions Includes:
-&amp;lt;&amp;lt; [region=Colorea] === [region=Weirdonia] &amp;gt;&amp;gt; [/list][/color]
+New Delian League

@@ -12,6 +12,8 @@
 
 [nation]Khaleesi[/nation]: [color=pink][b]Minister for Freedom[/b][/color], [color=navy][b]Minister for the Environment[/b][/color]
 
+[nation]New Morrowind[/nation]: [color=gold][b]Minster for Disaster Relief[/b][/color]
+
 Next Election: 11/11/13
 
 The Regional [url=http://w11.zetaboards.com/The_Regency/index/]Forums[/url]

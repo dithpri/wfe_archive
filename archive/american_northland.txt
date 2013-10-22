@@ -1,6 +1,3 @@
-[b]American Northland[/b]
+American northland
 
-REGION
-Phasing Out All non-alliance embassies *
-a [region=Galapagos] region[hr]* [i]this applies to all single nation regions[/i]
-All existing embassies will be maintained.
+[list]a RHW testing region[hr]A Passworded Region[/list]

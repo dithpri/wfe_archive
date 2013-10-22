@@ -6,11 +6,11 @@ The [b]GFN[/b] was founded February 1, 2012 by a merging of [region]Global Allia
 
 
 [b]Government[/b]
-Secretary-General:[nation=short]Bassifacation[/nation]
-Chairman of GFNC:[nation=short]Herlosk[/nation]
-Foreign Secretary: [nation=short]Mauriceania[/nation]
-Home Secretary: TBD
-High Commissioner of Justice:TBD
+Secretary-General:
+Chairman of GFNC:
+Foreign Secretary:
+Home Secretary: 
+High Commissioner of Justice:
 [hr]
 Regd. Political parties: GCA, CNECP, IFP, PRP 
 Regional Currency: [b]Opal[/b]
