@@ -6,14 +6,13 @@
 
 [b]Exchange Rates:[/b]
 1 Blerk = 1.86 Thomdollar
-1 Arrow = 1.30 Thomdollar
-1 Keko Coin = 0.69 Thomdollar
-1 Dopa = 0.47 Thomdollar
+1 Arrow = 1.62 Thomdollar
+1 Keko Coin = 1.10 Thomdollar
+1 Dopa = 0.46 Thomdollar
 [b]Governance Roles:[/b]
 Foreign Relations &amp;amp; Defence: [Nation=Thomradeopolis]
 Industry &amp;amp; Espionage: [Nation=Fersblerk]
 Finance &amp;amp; Culture: [nation=The Lost Tribe of Keko]
-Education &amp;amp; Internal Relations: [nation=Om3ga]
 Justice &amp;amp; Communications [nation=eagles army]
 
 [b]Nation of the Week:[/b] [nation=Eagles Army] being elected our new WA Delegate!

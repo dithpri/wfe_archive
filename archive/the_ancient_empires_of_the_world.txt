@@ -1,11 +1,9 @@
-[b]Welcome to [color=purple][i]The Ancient Empires of the World[/i][/color]! Join us as we liberate the conqured and [color=red]take down The Black Riders![/color][/b]
-
-        [u]General[/u]: [nation]Acitcratna[/nation]
-        [u]Minister of Internal Affairs[/u]: [nation]keenanstanople[/nation]
-        [u]Minister of External Affairs[/u]: [nation]Jericho Citadel[/nation]
-        [u]Ambassador(s)[/u]: [nation]Jerango[/nation]
-Several nations are needed for the [color=orange]Intellingence and Spy Network[/color] and the [color=blue]Defensive Forces[/color]! 
-
+[b]Welcome to [color=blue][i]The Ancient Empires of the World[/i][/color]! Join us as we [color=red]take down The Black Riders![/color][/b]
+[hr]   [b]General[/b]: [nation=short]Acitcratna[/nation]
+        [b]Minister of Internal Affairs[/b]: [nation=short]keenanstanople[/nation]
+        [b]Minister of External Affairs[/b]: [nation]Jericho Citadel[/nation]
+        [b]Ambassadors[/b]: [nation=short]Jerango[/nation]
+[hr] Several nations are needed for the [color=orange]Intellingence and Spy Network[/color] and the [color=blue]Defensive Forces[/color]!
 [color=purple]Current# deployed: [b]17[/b][/color]
 
-[b]All troops are ordered to standby for the liberation of [region]Sapphire[/region]![/b] This battle&amp;#39;s [url=www.youtube.com/?v=SAzofLc3DMk]Battle Anthem[/url] and [url=www.youtube.com/watch?v=VoaUYcwEpSw]War Song[/url]!
+[b]All troops are ordered to prepare for the liberation of [region]Sapphire[/region]![/b]

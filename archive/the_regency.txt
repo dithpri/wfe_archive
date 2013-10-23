@@ -1,6 +1,6 @@
 [b][i][u]The Regency Political Structure[/u][/i][/b]
 
-[nation]Albicia[/nation]: [color=purple][b]Regent[/b][/color]
+[nation]Albicia[/nation]: [color=purple][b]Regent[/b][/color], [color=cyan][b]Minster for Education[/b][/color]
 
 [nation]Cotopia[/nation]: [color=silver][b]Vice-Regent[/b][/color], [color=grey][b]Minister for Foreign Affairs[/b][/color], [color=brown][b]Minister of the Treasury[/b][/color]
 
