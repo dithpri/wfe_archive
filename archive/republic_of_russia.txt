@@ -1,8 +1,1 @@
-[b]Republic of Russia[/b]
-
-[list][i]This region was created as a gift to [nation=short]Commander Putin[/nation], but due to language difficulties or some other issue, it seems that we have broken off relations, as a result, this region will stay in the camp allied with [region=United States of America] and [region=Ionia]. Sad really. My guess, the friendship was likely to end eventually.[/i]
-
-As a result, this is now an associated region of [region=United States of America].[/list]
-
-[color=800000][I]A new family of regions has been created to be associated with this region:[/I][/color][color=006600][b]ROR Allied Regions are:[/b][list][hr][region=Irkutsk], [region=Karachay Circassia], [region=Kemerovo], [region=Khabarovsk], [region=Khakasiya], [region=Kirov], [region=Komn], [region=Krasnoyarsk], [region=Kurgan], [region=Mordvinia], [region=Rostov], [region=Tula], [region=Vologda]
-(too many to list)[hr][/list][/color]
+[b]Republic of Russia[/b] is now associated with [region=Russian Federation] and [region=St Petersburg].
