@@ -1,6 +1,6 @@
-[color=red][I][u]REGION CURRENTLY UNDER CONSTRUCTION[/U][/I][/COLOr]
+[color=red][I][u]REGION CURRENTLY UNDER CONSTRUCTION[/U][/I][/color]
 
-[Color=blue]Capital City:[/color][color=green][i] Richmond, Virginia[/i][/color]
+[color=blue]Capital City:[/color][color=green][i] Richmond, Virginia[/i][/color]
 [color=blue]Government Type:[/color][color=green][i] Confederate Republic[/i][/color]
 [color=blue]Official Language:[/color][color=green][i] Southern English[/i][/color]
 [color=blue]Motto:[/color][color=green][i] Deo Vindice  (Latin), &amp;quot;Under God, our Vindicator&amp;quot;[/i][/color]
@@ -9,5 +9,5 @@
 [color=blue]Religion:[/color][color=green][i] Christian (official), Agnostic (popular)[/i][/color]
 
 
-[color=blue]President:[/color][color=green] Nathaniel Orion[/color] [nation]the republic confederation of america[/nation]
-[Color=blue]Vice President:[/COLOR][color=green] J. Williams Dunn III[/color] [nation]the republic commonwealth of florida[/nation]
+[color=blue]President:[/color][color=green] Nathaniel Orion[/color] [nation]the Republic Confederation of America[/nation]
+[Color=blue]Vice President:[/COLOR][color=green] J. Williams Dunn III[/color] [nation]the Republic Commonwealth of Florida[/nation]

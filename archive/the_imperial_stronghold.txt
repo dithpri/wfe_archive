@@ -10,11 +10,11 @@
 
 [color=darkgold][i]The WA Delegate[/i][/color]: [nation]The Imperial Lands of Simpson[/nation]
 
-[color=darkgold][i]The Imperial Enforcer and Commander of the Grand Army of the Stronghold[/i][/color]: [nation=noflag]The Imperial Lands of Simpson[/nation]
+[color=darkgold][i]The Imperial Enforcer and Commander of the Grand Army of the Stronghold[/i][/color]:[nation]The Imperial Lands of Simpson[/nation] 
 
-[color=darkgold][i]The Chief of Propaganda[/i][/color]: [nation=noflag]Eurygia[/nation]
+[color=darkgold][i]The Chief of Propaganda[/i][/color]: [nation]Eurygia[/nation]
 
-[color=darkgold][i]The Imperial Governor of the Bank of the Stronghold[/i][/color]: [nation=noflag]avoni[/nation]
+[color=darkgold][i]The Imperial Governor of the Bank of the Stronghold[/i][/color]: [nation]avoni[/nation]
 
 [color=darkgold][i]The Most Aviation loving nation[/i][/color]: [nation]The Imperial Lands of Simpson[/nation]
 
