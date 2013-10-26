@@ -9,12 +9,11 @@ Region on lockdown to prevent fascist invasion. You failed, Nazi Europe. :)
 Regional Government:
 WA Delegate: [nation=short]Communist Skyrim[/nation]
 General of the People&amp;#39;s Red Liberation Army: [nation=short]Socialist Republics of Russia[/nation]
-Chief Justice of the People&amp;#39;s Court: [nation=short]Omensa[/nation]
 
-People&amp;#39;s Ambassador: [nation=short]Mongolian People[/nation]
+Chief Justice of the People&amp;#39;s Court: [nation=short]Omensa[/nation]
+People&amp;#39;s Ambassador: [nation=short]Red Briefcase[/nation]
 Minister of Culture: [nation=short]Torsiedelle[/nation]
 Chief Recruiter: [nation=short]Sween[/nation]
-Grand Punmaster: [nation=short]Red Briefcase[/nation]
 
 [u]Security Level[/u]
 Peacetime - no foreseeable threats.
@@ -22,3 +21,5 @@ Peacetime - no foreseeable threats.
 Alert - clear threat.
 Danger - serious threat.
 Emergency - invasion imminent.
+
+[url=http://jucheunion.createaforum.com/index.php]The Forum.[/url]

@@ -3,6 +3,8 @@
 [b]President:[nation=short]germanic delaware[/nation][/b]
 [b]Vice President:[nation=short]american confederacy of canada[/nation][/b]
 
+[b]Minister of Bananas:[nation=short]lactivan[/nation][/b]
+
 [b]Secretary of War:[nation=short]The Remnant States of the Apocalypse[/nation][/b]
 [b]Secretary of Defense:[nation=short]Republic of Distorters[/nation][/b]
 [b]Secretary of Intelligence:[nation=short]Aegis VII[/nation][/b]
@@ -14,7 +16,7 @@
 [b]Senator:[nation=short]MTGNation[/nation][/b]
 [b]Senator:[nation=short]The New Gaben Republic[/nation][/b]
 
-[b][color=blue]Elections will be held on the [u][i]First Day[/u][/i] of every month.[/color][/b]
+[b][color=blue]Elections will be held on the [u][i]First Day[/u][/i] of [u]OTHER[/u] month.[/color][/b]
 
 [b][color=blue]Next Election Date:[u][i]December 1st[/u][/i][/b][/color]
 

@@ -1,10 +1,16 @@
-Status: [color=red]WAR[/color] ([region]International Union of Workers States[/region])
+Status: [color=red]WAR[/color] ([nation=short]Krasniya[/nation], [nation=short]Hallorania[/nation], [nation=short]Czervenika[/nation], [nation=short]Peihan[/nation], [nation=short]Barbaracx[/nation], [nation=short]Batorvidek[/nation])
 
 [hr]
 
-[b]The Glorious Empire[/b]
+[b]The Glorious Fatherland[/b]
 
 [nation]Moshnia[/nation]
+
+[b]Imperial Provinces[/b]
+
 [nation]Dreispitz[/nation]
 [nation]Zeficia[/nation]
+
+[b]Infiltrated Territories[/b]
+
 [nation]Kunest[/nation]
