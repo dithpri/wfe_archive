@@ -4,12 +4,12 @@ This is the Neo Sith Empire. Telegram the Emperor for more information.
 
 [b]Spheres of the Dark Council:[/b]
 Ancient Knowledge
-Biotic Science
-Defence of the Empire
+Biotic Science - [nation]Diablonaka[/nation]
+Defence of the Empire - [nation]Cython[/nation]
 Expansion and Diplomacy - [nation]Imperial Tatine[/nation]
 Imperial Intelligence - [nation]Collins Eire[/nation]
-Laws and Justice
-Military Offense
+Laws and Justice - [nation]501st-Legion[/nation]
+Military Offence - [nation]Lord Naga Sadow[/nation]
 Military Strategy - [nation]Tarellia[/nation]
 Mysteries
 Production and Logistics

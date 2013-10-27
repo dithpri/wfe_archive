@@ -13,7 +13,7 @@ Imperial Guardian: [nation=short]Trunava[/nation]
 
 Minister of Information: [nation=short]Zambia-Rhodesia[/nation]
 
-Minister of Culture:
+Minister of Culture: [nation=short]Aristotskia[/nation]
 [/b]
 
 

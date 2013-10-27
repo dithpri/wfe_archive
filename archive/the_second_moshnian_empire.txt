@@ -1,4 +1,4 @@
-Status: [color=red]WAR[/color] ([nation=short]Krasniya[/nation], [nation=short]Hallorania[/nation], [nation=short]Czervenika[/nation], [nation=short]Peihan[/nation], [nation=short]Barbaracx[/nation], [nation=short]Batorvidek[/nation])
+Status: [color=red]WAR[/color] ([nation=short]Krasniya[/nation], [nation=short]Hallorania[/nation], [nation=short]Czervenika[/nation], [nation=short]Peihan[/nation], [nation=short]Barbaracx[/nation], [nation=short]Batorvidek[/nation], [nation=short]Kunest[/nation])
 
 [hr]
 
@@ -10,7 +10,3 @@ Status: [color=red]WAR[/color] ([nation=short]Krasniya[/nation], [nation=short]H
 
 [nation]Dreispitz[/nation]
 [nation]Zeficia[/nation]
-
-[b]Infiltrated Territories[/b]
-
-[nation]Kunest[/nation]

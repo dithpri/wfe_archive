@@ -23,7 +23,7 @@ Beverage: [color=orange][b]8th[/color][/b]
 Mining: 20th
 Agriculture: [color=orange][b]8th[/color][/b]
 Publishing: 23rd
-Auto: [color=orange][b]9th[/b][/color]
+Auto: [color=orange][b]5th[/b][/color]
 Insurance: 11th
 Cheese: [color=orange][b]7th[/b][/color]
 Gambling: 15th
