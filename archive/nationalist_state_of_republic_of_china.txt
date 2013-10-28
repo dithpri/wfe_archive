@@ -4,6 +4,8 @@ Capital: Nanking
 Population: 943 Million
 GDP per capita (2013): $ 38,749
 Calling Code: +886
+[hr][b]Special Administrative Prefectures:                                               
+[nation=short]Hong Kong-[/nation] | [nation=short]Macau-[/nation]
 
-[hr][b][url=http://www.mofa.gov.tw]Ministry of Foreign Affairs,
+[hr][url=http://www.mofa.gov.tw]Ministry of Foreign Affairs,
 Government of the Republic of China[/url][/b]

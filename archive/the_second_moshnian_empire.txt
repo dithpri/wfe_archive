@@ -8,5 +8,4 @@ Status: [color=red]WAR[/color] ([nation=short]Krasniya[/nation], [nation=short]H
 
 [b]Imperial Provinces[/b]
 
-[nation]Dreispitz[/nation]
 [nation]Zeficia[/nation]
