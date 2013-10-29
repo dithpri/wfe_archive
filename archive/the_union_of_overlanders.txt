@@ -5,7 +5,7 @@ Current threat level: [color=Gold]Yellow[/color]
 [u]Office of Internal Affairs:[/u]
 Investigator: [nation=short]Godhand Industries[/nation]
 Chief Justice: [nation=short]Querria[/nation]*
-[u]Recruiting Office[/u]
+[color=red][u]Recruiting Office[/u] [b]-Closed until further notice[/b][/color]
 Chief Officer: [nation=short]Magnificum Roma[/nation]*
 Recruiter: [nation=short]Allplace[/nation]
 Welcoming: [nation=short]Katertonia[/nation]

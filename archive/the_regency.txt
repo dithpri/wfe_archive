@@ -1,19 +1,19 @@
-[b][i][u]The Regency Political Structure[/u][/i][/b]
+[b][u]The Regency Political Structure[/u][/b]
 
-[nation]Albicia[/nation]: [color=purple][b]Regent[/b][/color], [color=cyan][b]Minster for Education[/b][/color]
+[nation]Albicia[/nation]: [color=purple]Regent and Minster for Education [/color]
 
-[nation]Cotopia[/nation]: [color=silver][b]Vice-Regent[/b][/color], [color=grey][b]Minister for Foreign Affairs[/b][/color], [color=brown][b]Minister of the Treasury[/b][/color]
+[nation]The Universal Imperium[/nation]: [color=silver]Vice Regent and Minster for Defense[/color]
 
-[nation]The Daggerfall Covenant[/nation]: [color=orange][b]Minister for Defence[/b][/color], [color=red][b]Minister for Culture[/b][/color]
+[nation]Havanah[/nation]: [color=magenta]Speaker of the House [/color]
 
- [nation]Franknation[/nation]: [color=green][b]Minister for Human Rights[/b][/color]
+[nation]New Morrowind[/nation]: [color=blue] Minster for Interregional Affairs, Culture and Spirituality[/color]
 
-[nation]Havanah[/nation]: [color=blue][b]Speaker of the House[/b][/color]
+[nation]Khaleesi[/nation]: [color=pink] Minster for Freedom and the Environment [/color]
 
-[nation]Khaleesi[/nation]: [color=pink][b]Minister for Freedom[/b][/color], [color=navy][b]Minister for the Environment[/b][/color]
+[nation]Populus Anglicus[/nation]: [color=gold]Minster for Science, Health, and Law[/color]
 
-[nation]New Morrowind[/nation]: [color=gold][b]Minster for Disaster Relief[/b][/color]
+[nation]the Defender of Faith[/nation]: [color=navy]Minister for Internal Affairs[/color]
 
-Next Election: 11/11/13
+[nation]Cotopia[/nation]: [color=red]Treasurer and Minister for Foreign Affairs[/color]
 
 The Regional [url=http://w11.zetaboards.com/The_Regency/index/]Forums[/url]

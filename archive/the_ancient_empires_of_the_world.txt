@@ -1,9 +1,7 @@
 [b]Welcome to [color=blue][i]The Ancient Empires of the World[/i][/color]! Join us as we [color=red]take down The Black Riders[/color][/b]! 
-[b]Regions can request aid in any form by telegramming both the founder AND the delegate[/b].
-[b](See a [url=http://www.nationstates.net/nation=acitcratna/detail=factbook/id=177095]list of liberated regions[/url])![/b]
-[hr]Commander: [nation=short]Acitcratna[/nation]
-Minister of Defense/Foreign Affairs: [nation=short]Jericho Citadel[/nation] ...please endorse!
-Ambassador: [i]Availiable![/i]
-[hr][i]Become a member of the [url=http://www.nationstates.net/nation=acitcratna/detail=factbook/id=177148]Invasion Forces[/url]![/i] Click for division information or to apply to join.
-[hr]Today&amp;#39;s Announcements: [i][region]Shivering Isless[/region] has been sucessfully captured![/i] [region]Blazing World[/region] has been returned to the natives!
-[hr][b]Atlantis Division: To [region]Middle Earth[/region], and endorse [nation=short+noflag]Geoslitzavaika[/nation]![/b]
+[b]Regions can request aid in any form by telegramming both the Founder AND the Delegate.
+(See a [url=http://www.nationstates.net/nation=acitcratna/detail=factbook/id=177095]list of liberated regions[/url])![/b]
+[hr][b][color=purple][i]Become a member of one of the [url=http://www.nationstates.net/nation=acitcratna/detail=factbook/id=177148]Ancient Empires[/url]![/i] Click for division information or to apply to join one![/b][/color]
+[hr][u]Today&amp;#39;s Announcements[/u]: [i][region]Shivering Isless[/region] has been sucessfully captured![/i] [region]Blazing World[/region] has been returned to the natives!
+[hr][b][color=red]Code red lockdown! We have received several threats of an imminent invasion! 
+All troops: Endorse [nation]Jericho Citadel[/nation].[/b][/color]

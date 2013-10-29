@@ -6,11 +6,14 @@ This region is now being run by The London Alliance!
 
 [color=red][b]THE NEW GOVERNMENT IS AS FOLLOWS:[/b][/color]
 
-President: [nation=wandia] [color=blue](ONLY TEMPORARY - ELECTIONS UPCOMING)[/color]
-Vice-President: [nation=greenlands] [color=blue](ONLY TEMPORARY - ELECTIONS UPCOMING)[/color]
-Diplomatic Relations: [nation=Benevolent Capitalism Ambassador]
-Security Consultant: [color=purple]&amp;lt;--[/color][color=blue]APPLY NOW[/color][color=purple]--&amp;gt;[/color]
-Recruiter: [color=purple]&amp;lt;--[/color][color=blue]APPLY NOW[/color][color=purple]--&amp;gt;[/color]
-Ambassador: [color=purple]&amp;lt;--[/color][color=blue]APPLY NOW[/color][color=purple]--&amp;gt;[/color]
+[b]President:[/b] [nation=wandia]
+[b]Vice-President:[/b] [nation=greenlands] [color=blue](ONLY TEMPORARY - ELECTIONS UPCOMING)[/color]
+[b]Diplomatic Relations:[/b] [nation=Benevolent Capitalism Ambassador]
+[b]Chief of Embassies:[/b] [color=purple]&amp;lt;--[/color][color=blue]APPLY NOW[/color][color=purple]--&amp;gt;[/color]
+[b]Justice Minister:[/b] [nation=soldistan]
+[b]Security Consultant:[/b] [color=purple]&amp;lt;--[/color][color=blue]APPLY NOW[/color][color=purple]--&amp;gt;[/color]
+[b]Ambassador:[/b] [color=purple]&amp;lt;--[/color][color=blue]APPLY NOW[/color][color=purple]--&amp;gt;[/color]
 
 To apply for a position, telegram [nation=wandia]
+
+SECURITY LEVEL: [color=gold][b]Medium[/b] (Potential threat of invasion)[/color]

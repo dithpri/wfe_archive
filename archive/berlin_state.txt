@@ -1,2 +1,1 @@
-[b][region]Berlin[/region] City is under opposition control by [nation]Schopes[/nation].
-[region]Berlin State[/region] consists of all surrounding areas and is controlled by [region]Castle Wewelsburg[/region]. We have laid siege and claim on the City.[/b][hr][b][region]Berlin State[/region] is one of 16 German States in the allied [region]The United Aryan Empire[/region] controlled [region]Territory of Germany[/region][/b]
+[b][color=blue][region]Berlin[/region] City in [region]Berlin State[/region], [region]Territory of Germany[/region], is protected by [region]Castle Wewelsburg[/region][/color][/b]

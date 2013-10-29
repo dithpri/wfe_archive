@@ -1,6 +1,13 @@
 [color=gold][b]Welcome to the Greater Allied Union (GAU)![/b][/color] 
-GAU REGION ALERT: All hope is lost
+GAU REGION ALERT: Zombie Pandemic rumored! The end for all life in the GAU?
 
 Status of GAU:
 
 [[b][color=red]ANARCHY[/color][/b]]
+
+Regional Zombie Protection Status:
+[[b][color=green]PROTECTED[/b][/color]]
+Percentage of GAU Citizens Infected/Dead(Undead):
+[[b][color=green]0[/b][/color]%]
+Percentage of GAU Citizens Healthy:
+[[b][color=green]100[/b][/color]%]
