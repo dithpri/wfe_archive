@@ -10,7 +10,7 @@ Ambassador to Other Regions: [nation]CONSTITUTIONAL MONARCHY OF FRANKLANDIA[/nat
 
 Regional Security Level:
 1 [Evacuation Underway]
-2 [Martial Law]
+[b]2 [Martial Law][/b]
 3 [Alert] 
 4 [Alert Standby]
-[b]5 [Watchful] [/b]
+5 [Watchful]

@@ -3,7 +3,7 @@ DEFCON Level: 5
 Government:
 Founder: [nation]Dethkloktopia[/nation]
 WA Delegate- [nation]Mopiona[/nation]
-Vice WA Delegate- [nation]The Two Castilles[/nation]
+Vice WA Delegate- [nation]Katakerio[/nation]
 Chief Advisor- [nation]Yulis[/nation]
 Supreme Chancellor- [nation]Afrycir[/nation]
 Chief Ambassador- [nation]Jamaxia[/nation]
@@ -23,3 +23,4 @@ Regional Capital: Thunderhorse
 [url=https://docs.google.com/forms/d/1Sind5VOcAZQ7gXZcK8MNUWUFM8kNL84GlzYd7RVjr7o]Citizenship Form[/url]
 [url=http://www.nstracker.net/region=the_federation_of_dethklok_1000]Region Statistics[/url]
 [url=https://docs.google.com/forms/d/1VJV98UQA2oESJF1xlKTyzxTwzMiC9u9H3BjNPwdBf7s/viewform]Complaints/Issues[/url]
+[url=http://ask.fm/Dethkloktopia]Ask Me Something[/url]

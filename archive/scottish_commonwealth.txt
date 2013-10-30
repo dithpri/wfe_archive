@@ -1,9 +1,9 @@
 [color=blue]Welcome to the Scottish Commonwealth![/color]
 
-Founder: Greater Edinburgh
+[color=green]Founder: Greater Edinburgh[/color]
 
-(Future) Delegate: New Prusland
+[color=white](Future) Delegate: New Prusland[/color]
 
-Governor: Polish Saxony
+[color=red]Governor: Polish Saxony[/color]
 
-News: The governor has changed from British Lappland to Polish Saxony.
+[color=orange]News: The governor has changed from British Lappland to Polish Saxony.[/color]

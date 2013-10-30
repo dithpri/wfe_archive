@@ -3,9 +3,10 @@ This is the Neo Sith Empire. Telegram the Emperor for more information.
 [color=red][b]Emperor:[/b][/color] [nation]Etonnia[/nation]
 
 [b]The Emperor&amp;#39;s Wrath:[/b]
+[b]The Emperor&amp;#39;s Hand:[/b]
 
 [b]Spheres of the Dark Council:[/b]
-Ancient Knowledge
+Ancient Knowledge - [nation]Tradeus[/nation]
 Biotic Science - [nation]Diablonaka[/nation]
 Defence of the Empire - [nation]Cython[/nation]
 Expansion and Diplomacy - [nation]Imperial Tatine[/nation]
@@ -13,7 +14,7 @@ Imperial Intelligence - [nation]Collins Eire[/nation]
 Laws and Justice - [nation]501st-Legion[/nation]
 Military Offence - [nation]Lord Naga Sadow[/nation]
 Military Strategy - [nation]Tarellia[/nation]
-Mysteries
+Mysteries - [nation]Jedi Master Revan[/nation]
 Production and Logistics
 Sith Philosophy - [nation]Darthsith[/nation]
 Technology - [nation]Earnathopia[/nation]

@@ -1,14 +1,9 @@
-[u][b]REGION NAME[/b][/u]
-ISLAMIC UNION [color=gray](The Regional of Islamic Union)[/color]
-[hr]
-
-[u][b]REGION HEAD COUNCIL[/b][/u]
-Secretary General : [nation]Khalifa[/nation]
-Embassies Council : [nation]Omniphasa[/nation]
-Sharia &amp;amp; Fiqh Law : [nation]Global Islamic Caliphate[/nation]
-Community Forum : [nation]Caliphates[/nation]
-Military Council : [nation]Wahabi Arabia[/nation]
-
+[u][b]REGION COUNCIL[/b][/u]
+Secretary General : [nation]Khalifa[/nation] (Regional Founder)
+Embassies Council : [nation]Omniphasa[/nation] (Foreign Diplomator)
+Military Council : [nation]Global Islamic Caliphate[/nation] (Regional Invasion Commander)
+Regional Council : [nation]Caliphates[/nation] (Internal Administrator)
+Community Forum : [nation]Wahabi Arabia[/nation] (Board Administrator)
 [hr]
 
 [u][b]REGION REQUIREMENTS[/b][/u]
@@ -21,8 +16,4 @@ Military Council : [nation]Wahabi Arabia[/nation]
 
 [u][b]REGION MOTTO[/b][/u]
 [color=gray]&amp;quot;There is no deity worthy of worship except Allah and prophet Muhammad (pbuh) is messenger of Allah&amp;quot;[/color]
-[hr]
-
-[u][b]REGION WARNING[/b][/u]
-[color=gray]&amp;quot;Region Border has been closed due the Zombie Apocalypse for one week&amp;quot;[/color]
 [hr]
