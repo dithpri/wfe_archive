@@ -10,11 +10,7 @@
 
 [u]Electoral Board[/u]
 
-[b]Governer-General[/b] : [i]vacant[/i]
-
 [b]Secretary-General[/b] : [nation]Iron Bay[/nation]
-
-[b]Deputy Secretary-General[/b] : [i]vacant[/i]
 
 [b]Secretary for Diplomacy and Foreign Affairs[/b] : [nation]Hanannara[/nation]
 
@@ -24,8 +20,8 @@
 
 [b]Justice of The United League Security Council and Court of Justice[/b] : [nation]Durinmore[/nation]
 
-[b]Regional Secretary[/b] : [i]open for election[/i] 
-
 [u]World Assembly Board[/u]
 
 [b]Senator of the World Assembly[/b] : [nation]Shaw State[/nation]
+
+[b]The United League Public Service Order of Merit[/b] : Folik, Durinmore, Iron Bay

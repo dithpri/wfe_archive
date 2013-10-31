@@ -1,9 +1,11 @@
+[u]I HAVE RETURNED[/u]
+
 Government positions
-Leader- [nation]pengwina[/nation]
+Leader- [nation]Loganian Nexus[/nation]
 Vice leader-[nation]nicholus[/nation]
-Military general (highest defense force) - [nation=short]pengwina[/nation]
+Military general (highest defense force) - [nation=short]Loganian Nexus[/nation]
 Recruiter (person who recruited the most)- [nation=short]mercalaran[/nation]
-Best armed citizens- [nation=short]death to all clear people[/nation]
+Best armed citizens- [nation=short]Loganian Nexus[/nation]
 Best industry- [nation=short]nicholus[/nation] 
 Most privatized- [nation=short]nicholus[/nation]
 Most cultured- [nation=short]pengwina[/nation]
@@ -11,6 +13,8 @@ Most cultured- [nation=short]pengwina[/nation]
 Veterans
 [nation]nicholus[/nation]
 [nation]pengwina[/nation]
+[nation]Loganian Nexus[/nation]
+
 
 [b]WARS[/b]
 [region]The Blood Legion[/region]

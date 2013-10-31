@@ -2,8 +2,8 @@
 [color=blue]Sister Region of: ~[region]International Western Union[/region] ~[region]International Northern Union[/region] ~[region]International Arctic Union[/region]~
 [hr]
 [u]Regional Government:[/u]
-WA Delegate: [nation=short]Corwell[/nation] 
-Vice Delegate: [nation=short]Mullock[/nation]
+WA Delegate: [nation=short]Myrtle Isles[/nation] 
+Vice Delegate:
 Justice Committee: [nation=short]Hoskia[/nation], [nation=short]Myrtle Isles[/nation], [nation=short]Svenelheim[/nation]
 Adviser: [nation=short]Rhume[/nation]
 Secretary of Recruitment: [nation=short]Rachariaa[/nation]

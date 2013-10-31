@@ -1,4 +1,4 @@
-[b][u][color=red]UNDER LOCKDOWN[/color][/u][/b]
+***[b][color=red]LOCKDOWN[/color][/b]*** ***[b][color=red]LOCKDOWN[/color][/b]*** ***[b][color=red]LOCKDOWN[/color][/b]***
 
 [b][u]Staff[/u][/b]
 Administration: [nation=short+noflag]Consigahria[/nation]
@@ -6,7 +6,7 @@ Security and Embassy Affairs: [nation=short+noflag]Gewaltig[/nation]
 WA Affairs and Outreach: [nation=short+noflag]West Consigahria[/nation]
 
 [b][u][color=red]News from the First Legislature[/color][/u][/b]
-10/28:  [b]All government biochemists are mandated to research for a cure to this zombie virus, except [nation=short+noflag]Gewaltig[/nation].[/b]
+10/30:  The virus is currently under control in Domicilium. Borders will remain locked down indefinitely.
 
 [b][u]Current Security Status[/b][/u] (underlined is in effect)
 [color=blue]Safe[/color] | [color=red]Cautioned[/color] | [color=purple]In Danger[/color] | [b][u][color=black]Locked Down[/color][/u][/b]

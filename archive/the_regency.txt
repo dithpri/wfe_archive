@@ -4,16 +4,14 @@
 
 [nation]The Universal Imperium[/nation]: [color=silver]Vice Regent and Minster for Defense[/color]
 
-[nation]Havanah[/nation]: [color=magenta]Speaker of the House [/color]
+[nation]Khaleesi[/nation]: [color=magenta]Speaker of the House [/color], [color=pink] Minster for Freedom and the Environment [/color] 
 
-[nation]New Morrowind[/nation]: [color=blue] Minster for Interregional Affairs, Culture and Spirituality[/color]
-
-[nation]Khaleesi[/nation]: [color=pink] Minster for Freedom and the Environment [/color]
+[nation]New Morrowind[/nation]: [color=blue] Minster for Interregional Affairs, Culture, Spirituality and Foreign Affairs[/color]
 
 [nation]Populus Anglicus[/nation]: [color=gold]Minster for Science, Health, and Law[/color]
 
 [nation]the Defender of Faith[/nation]: [color=navy]Minister for Internal Affairs[/color]
 
-[nation]Cotopia[/nation]: [color=red]Treasurer and Minister for Foreign Affairs[/color]
+[nation]Cotopia[/nation]: [color=red]Treasurer[/color]
 
 The Regional [url=http://w11.zetaboards.com/The_Regency/index/]Forums[/url]
