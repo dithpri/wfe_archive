@@ -7,15 +7,15 @@
 Read &amp;quot;Laws&amp;quot; for more info
 
 [b]President:[/b] [nation]Frezland[/nation] [b][[color=green]F[/color]][/b]
-[b]Vice President:[/b] [nation]Soldistan[/nation] [b][[color=purple]Z[/color]][/b]
+[b]Vice President:[/b] [nation]Theta[/nation] [b][[color=red]T[/color]][/b]
 [b]Head of Democracy:[/b] [nation]Archopialand[/nation] [b][[color=blue]A[/color]][/b]
 [b]Head of NSUN Management:[/b] [nation]Greenlands[/nation] [b][[color=green]F[/color]][/b]
 [b]Head of Embassies:[/b] [nation]Caspa[/nation] [b][[color=green]F[/color]][/b]
 [b]Head of Law Enforcement[/b]: [nation]Ernopia[/nation] [b][[color=blue]A[/color]][/b]
-[b]Ajudicator[/b]: [nation]Aspu[/nation] [b][[color=blue]A[/color]][/b]
+[b]Ajudicator[/b]: [nation]Aloa[/nation] [b][[color=red]T[/color]][/b]
 
 [color=red][b]Other Positions:[/b][/color]
-[b]Delegate:[/b] [nation]Soldistan[/nation]
+[b]Delegate:[/b] None
 [b]Ambassador:[/b]  [nation]Fredos[/nation]
 [b]Recruiter:[/b] [nation]Spanas[/nation]
 

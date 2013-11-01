@@ -1,4 +1,4 @@
-***[b][color=red]LOCKDOWN[/color][/b]*** ***[b][color=red]LOCKDOWN[/color][/b]*** ***[b][color=red]LOCKDOWN[/color][/b]***
+***[b][color=blue]SAFE[/color][/b]*** ***[b][color=blue]SAFE[/color][/b]*** ***[b][color=blue]SAFE[/color][/b]***
 
 [b][u]Staff[/u][/b]
 Administration: [nation=short+noflag]Consigahria[/nation]
@@ -6,7 +6,7 @@ Security and Embassy Affairs: [nation=short+noflag]Gewaltig[/nation]
 WA Affairs and Outreach: [nation=short+noflag]West Consigahria[/nation]
 
 [b][u][color=red]News from the First Legislature[/color][/u][/b]
-10/30:  The virus is currently under control in Domicilium. Borders will remain locked down indefinitely.
+10/31: Happy Halloween!
 
 [b][u]Current Security Status[/b][/u] (underlined is in effect)
-[color=blue]Safe[/color] | [color=red]Cautioned[/color] | [color=purple]In Danger[/color] | [b][u][color=black]Locked Down[/color][/u][/b]
+[b][u][color=blue]Safe[/color][/u][/b] | [color=red]Cautioned[/color] | [color=purple]In Danger[/color] | [color=black]Locked Down[/color]

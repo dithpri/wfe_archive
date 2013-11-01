@@ -11,5 +11,5 @@ Nothing much yet but there will be.
 [b]Minister of Foreign Affairs[/b]: [nation=short]Republika Vilska[/nation]
 [b]Minister of Regional Affairs[/b]: Pending
 [b]Minister of Intelligence[/b]: Pending
-[b]Minister of Defense[/b]: Pending
+[b]Minister of Defense[/b]: [nation=short]Voseges[/nation]
 [b]Minister of Fun, Crazy Stuff[/b]: Pending

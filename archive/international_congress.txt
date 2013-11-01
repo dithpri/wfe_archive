@@ -1,8 +1,9 @@
-[b]Prime Minister[/b] [nation]The Seven Nations[/nation](L)
-Minister of Defense [nation]A United States Navy[/nation](D)
-Minister of State [nation]Of the OMalley Clan[/nation](R)
+[b]Prime Minister[/b] [nation]The Seven Nations[/nation]
+Minister of Defense [nation]A United States Navy[/nation]
+Minister of State [nation]Of the OMalley Clan[/nation]
 Minister of Internal Affairs [nation]The Irish Republican Empire[/nation]
-Vice Prime Minister [nation]Royal States of Stars[/nation](R)
-Parliament:  [nation]Royal States of Stars[/nation](R) [nation]The Seven Nations[/nation](L) [nation]A United States Navy[/nation] (D)
+Vice Prime Minister [nation]Royal States of Stars[/nation]
+Parliament:  [nation]Royal States of Stars[/nation] [nation]The Seven Nations[/nation] [nation]A United States Navy[/nation] 
+King/Queen:[nation]A Republican Ireland[/nation]
 [url=http://613585.xobor.com]Forum[/url]
-[b] You will be asked if you want to exterminate the zombies cure them or join them. Please choose either cure or exterminate[/b]
+We are a member of [region]Right Wing Uprising[/region] a  communist fighting region.
