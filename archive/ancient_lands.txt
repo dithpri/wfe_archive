@@ -1,11 +1,10 @@
-[color=305070][b]Ancient Lands[/b]
+[color=004626][list][b]Ancient Lands[/b][hr]an RHW Region
+[I]A new home for my very old puppets[/I]
+Previous region was [region=Ionia].[/list][/color]
 
-[I]A new home for old puppets, previously from [region=Ionia].[/I]
+[color=800000]EMBASSIES ARE BEING ACCEPTED[/color]
 
-[list][b]an RHW Region[/b][hr]this is a puppet storage region[/list]
-[/color][color=FF6600][I]EMBASSIES ARE BEING ACCEPTED[/I][/color][color=307050]
-
-[b]EMPIRE:[list]LOCAL REGIONS:[/b]
+[color=006633][b]EMPIRE:[list]LOCAL REGIONS:[/b]
 &amp;#8249; [region=Xetegrad]
 &#135; [b]Ancient Lands[/b]
 &amp;#8250; [region=Pume]
