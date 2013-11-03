@@ -5,8 +5,8 @@
 Regional Government: 
 President: [nation]the republic rome[/nation]
 Vice President: [nation]cafla[/nation]
-SecState: Awaiting Approval
-SecDef: Awaiting Approval
+SecState: [nation]the united remnants of america[/nation]
+SecDef: [nation]flattnerk[/nation]
 
 Senate:
 [nation]The Anean Tribes[/nation]
@@ -17,10 +17,10 @@ Senate:
 High Court:
 Awaiting Vote[/color]
 
-[color=maroon]Message of the Day: Voting for Judges?[/color]
+[color=maroon]Message of the Day: Welcome, Secretaries![/color]
 
 Record population:468
-Current Population:229
+Current Population:234
 Recruitment Goal:250
 
  [url=http://newrepublica.createaforum.com/index.php]Our Forum[/url]
