@@ -1,9 +1,9 @@
 [color=red]All hail Our new Chancellor[/color]
 [color=blue][i]The Militarized Zone of Xedilian is a midsized region comprised mainly of militaristic and authoritarian nations. All are welcome, and refugees are accepted.[/i][/color]
 
-[color=gold]---The Counsel of The Supreme Justice---[/color]
+[color=grey]---The Counsel of The Supreme Justice---[/color]
 [color=gold]Grand Chancellor:[nation]Canadahawasia[/nation][/color]
-[color=yellow]Chancellor: [nation]Frhnkem[/nation][/color]
+[color=gold]Chancellor: [nation]Frhnkem[/nation][/color]
 [color=blue]Security General:[nation]Sufferaton[/nation]
 Social Justice:[nation]Mustelidae[/nation]
 Dept. of Science and Modern Warfare:[nation]First Enclave[/nation][/color]

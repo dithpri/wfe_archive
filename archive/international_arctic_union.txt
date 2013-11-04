@@ -1,19 +1,15 @@
-[b][u][color=blue]Welcome to the IAU[/color][/b][/u] 
-
-[color=purple]Words of Wisdom: Cabbage is just egotistical lettuce.[/color]
+[b][u][color=blue]Welcome to the one and only IAU[/color][/b][/u] 
 
 [u][Color=blue]Government:[/color][/u]
-[Color=purple]WA Delegate:[/color][nation=short]Midland South States[/nation]
-[color=purple]President:[/color]
-[color=purple]Vice-President:[/color]
-[color=purple]Justices:[/color]
-[color=purple]Recruitment Officer:[/color]
+[Color=grape]WA Delegate:[/color][nation=short]Midland South States[/nation]
+[color=grape]President:[/color]
+[color=grape]Vice-President:[/color]
+[color=grape]Justices:[/color]
+[color=grape]Recruitment Officer:[/color][nation=short]Ambruss[/nation]
 
-The IAU is a sister region to:
+[color=purple]The IAU is a sister region to:[/color]
 [region]International Northern Union[/region],
 [region]International Southern Union[/region],
-And our mother region, [region]International Western Union[/region].
+[color=purple]And our mother region,[/color] [region]International Western Union[/region].
 
-[b][color=red]The Rules:[/color][/b]
-[color=red]1.)Please refrain from posting mature content.[/color]
-[color=red]2.)Have fun[/color]
+[color=red]Please refrain from discussing mature content.[/color]

@@ -16,7 +16,7 @@
 [nation]Peihan[/nation]
 [nation]Mongalan[/nation]
 [nation=short]Kavaii[/nation]
-[nation=short]Barbaracx[/nation]
+[nation]Barbaracx[/nation]
 [nation]Yuzan[/nation]
 [nation=short]Batorvidek[/nation]
 [nation]Atallant[/nation]

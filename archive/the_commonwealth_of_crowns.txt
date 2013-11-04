@@ -4,7 +4,7 @@
 
 [b]13th REC[/b]
 Secretary-General: [nation=short]Besate[/nation]
-Chancellor:  [nation=short]Arkorrnia[/nation]
+Chancellor: [nation=short]Besate[/nation]
 Speaker: [nation=short]Evanicaland[/nation]
 Prosecutor General: [nation=short]Wyethalania[/nation]
 Lord Commander: [nation=short]The Antarctica Territories[/nation]
@@ -12,13 +12,13 @@ Lord Commander: [nation=short]The Antarctica Territories[/nation]
 [b]Cabinet:[/b]
 Minister of the Interior: [nation=short]BORDURIAA[/nation]
 Minister of Finance: [nation=short]Sayeram[/nation]
-Minister of Recruitment: [nation=short]Picts[/nation]
+Minister of Recruitment: 
 Minister of Foreign Affairs: [nation=short]Eastland Duchies[/nation]
-Minister of Culture: [nation=short]Skako[/nation]
+Minister of Culture: 
 
 
 [hr]
 [b]Crowns Court of Justice[/b]
- [nation=short]Aquenetta[/nation](CJ), [nation=short]San Monteriano[/nation](J), [nation=short]Churchilland[/nation](J)
+ 
 [hr]
  [url=http://www.nationstates.net/region=the_commonwealth_empire]Click here for [b]Our Colonies[/b][/url]
