@@ -1,2 +1,6 @@
 Regional Alert System:
-[green] Green: Everything is clear [color/]
+Zombie: Nothing to Worry about.
+Spider: Not much of a risk.
+Creeper: We&amp;#39;re screwed.
+
+Current Alert: Zombie

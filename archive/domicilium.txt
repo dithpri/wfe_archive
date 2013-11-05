@@ -1,15 +1,22 @@
 ***[b][color=blue]SAFE[/color][/b]*** ***[b][color=blue]SAFE[/color][/b]*** ***[b][color=blue]SAFE[/color][/b]***
 
+[b]||[/b] [color=blue]fraternitatem[/color] [b]|[/b] [color=red]iustitiam[/color] [b]|[/b] [color=blue]domicilium[/color] [b]||[/b]
+
 [b][u]Staff[/u][/b]
 Administration: [nation=short+noflag]Consigahria[/nation]
-World Assembly and Embassy Affairs: [nation=short+noflag]Gewaltig[/nation]
-Outreach: [nation=short+noflag]The Kanekaeri Islands[/nation]
+World Assembly and Embassy Affairs: [nation=short+noflag]The Kanekaeri Islands[/nation]
+Outreach: [nation=short+noflag]Gewaltig[/nation]
 Security: [nation=short+noflag]West Consigahria[/nation]
 
 [b][u][color=red]News from the First Legislature[/color][/u][/b]
-11/2:  Congratulations on your admission to the WA, [nation=short+noflag]The Kanekaeri Islands[/nation]!
+11/3:  Congratulations to [nation=short]the Kanekaeri Islands[/nation] on their fast excelling to WA delegate!
 
 [b][u]Current Security Status[/b][/u] (underlined is in effect)
 [b][u][color=blue]Safe[/color][/u][/b] | [color=red]Cautioned[/color] | [color=purple]In Danger[/color] | [color=black]Locked Down[/color]
 
-[b]||[/b] [color=blue]fraternitatem[/color] [b]|[/b] [color=red]iustitiam[/color] [b]|[/b] [color=blue]domicilium[/color] [b]||[/b]
+[b][u]November Statistics[/u][/b]
+[b]Population[/b]: 17.79 billion
+[b]Regional GDP[/b]: NS$685.34 trillion
+
+[b][u]Menu[/u][/b]
+[url=http://www.nstracker.net/region=domicilium]Regional Statistics[/url] | [url=http://www.nationstates.net/region=domicilium#rmb]Regional Message Board[/url]

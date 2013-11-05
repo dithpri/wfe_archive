@@ -1,5 +1,3 @@
-[u]I HAVE RETURNED[/u]
-
 Government positions
 Leader- [nation]Loganian Nexus[/nation]
 Vice leader-[nation]nicholus[/nation]
@@ -8,7 +6,6 @@ Recruiter (person who recruited the most)- [nation=short]mercalaran[/nation]
 Best armed citizens- [nation=short]Loganian Nexus[/nation]
 Best industry- [nation=short]nicholus[/nation] 
 Most privatized- [nation=short]nicholus[/nation]
-Most cultured- [nation=short]pengwina[/nation]
 
 Veterans
 [nation]nicholus[/nation]

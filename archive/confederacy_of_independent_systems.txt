@@ -2,9 +2,6 @@
 
 [color=navy]Head of State: [nation=short]Separatists[/nation][/color]
 [color=navy]Council Members:[/color]
-[color=maroon]&#149; [/color][nation=short]Trade and Commerce[/nation][color=navy] of the [/color][region]Trade Federation[/region]
-[color=maroon]&#149; [/color][nation=short]Chinggis Khan[/nation][color=navy] of [/color] [region]The Golden Horde[/region]
-[color=maroon]&#149; [/color][nation=short]LOG Founder[/nation][color=navy] of the[/color] [region]League of Governments[/region]
-[color=maroon]&#149; [/color][nation=short]Belgieria[/nation][color=navy] of the[/color] [region]Union of Commonwealth Nations[/region][hr]
+[color=maroon]&#149; [/color][nation=short]Trade and Commerce[/nation][color=navy] of the [/color][region]Trade Federation[/region][hr]
 
 [color=navy]Ruling Party:[/color][color=maroon] IGBC ([region]InterGalactic Banking Clan[/region])[/color][/b]

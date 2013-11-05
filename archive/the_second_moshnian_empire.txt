@@ -5,7 +5,3 @@ Status: [color=red]WAR[/color] ([nation=short]Krasniya[/nation], [nation=short]H
 [b]The Glorious Fatherland[/b]
 
 [nation]Moshnia[/nation]
-
-[b]Imperial Provinces[/b]
-
-[nation]Zeficia[/nation]

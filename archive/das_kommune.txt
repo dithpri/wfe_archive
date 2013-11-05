@@ -8,7 +8,7 @@
 Delegate: 
 Minister of Foreign Affairs: 
 Minister of Justice: 
-Minister of Intelligence:
+Minister of Intelligence: Soviet East Japan
 Minister of Defense:
 Minister of Immigration: [nation=shortname]The Irish[/nation][/b][/color]
 
