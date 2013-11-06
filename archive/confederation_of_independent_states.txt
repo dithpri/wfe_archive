@@ -1,6 +1,6 @@
-[i]Union of Confederations[/i]
+[url=http://www.nswiki.net/index.php?title=The_Union_of_the_Confederations][i]Union of Confederations[/i][/url]
 [b]Member[/b] - [region]Confederation of Nations[/region]
-[b]Member[/b] - [region]Confederation of Independent States[/region]
+[b]Member[/b] - [url=http://www.nswiki.net/index.php?title=Confederation_of_Independent_States]Confederation of Independent States[/url]
 [b]President[/b] - [nation=short]Region 4[/nation]
 [b]Foreign Minister[/b] - [nation=short]United Confederation of states[/nation]
 [b]Union Judiciary[/b] - [nation=short]Jaxandria[/nation], Vacant, Vacant
@@ -21,4 +21,3 @@
 [b]Lord High Steward[/b] - [nation=short]Syrillia[/nation]
 
 [url=http://tycho.usno.navy.mil/simpletime.html]Regional Clock[/url]
-[url=http://www.nswiki.net/index.php?title=Confederation_of_Independent_States]CIS Wiki[/url]

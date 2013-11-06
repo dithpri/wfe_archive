@@ -6,11 +6,10 @@
 [b]Legislative Council President: [nation]Mondelera[/nation][/b]
 [b]Legislative Council Deputies: [nation]Roselake[/nation], [nation]Wavekiller[/nation], [nation]Kobej[/nation], [nation]Whatsitsname[/nation][/b]
 
-
 [b][color=blue]Ministers:[/color][/b]
 [b]Foreign Policy Head Minister: [nation]Emerald States[/nation][/b]
-[b]Foreign Policy Deputies: [nation]Decrovinka[/nation][/b]
-[b]Defense and Regional Security: [nation]Wavekiller[/nation][/b]
+[b]Foreign Policy Deputies: [nation]Decrovinka[/nation], [nation]Osekago[/nation][/b]
+[b]Defense: [nation]Wavekiller[/nation][/b]
 [b]Law: [nation]Shilton[/nation][/b]
 [b]Communications: [nation]Parla[/nation][/b]
 [b]Recruiter:[/b]

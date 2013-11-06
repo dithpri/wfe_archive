@@ -26,7 +26,7 @@ Mining: 20th
 Agriculture: [color=orange][b]8th[/color][/b]
 Publishing: 19th
 Auto: [color=orange][b]5th[/b][/color]
-Insurance: 11th
+Insurance: [color=orange][b]6th[/b][/color]
 Cheese: [color=orange][b]5th[/b][/color]
 Gambling: 15th
 Manufacturing: [color=orange][b]9th[/b][/color]

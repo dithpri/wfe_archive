@@ -8,7 +8,7 @@ Manager of the State:  [nation=short]Lack there of[/nation] (LP)
 Chairman of the Board:  [nation=short]Humpheria[/nation] (RLP)
 Board Member:  [nation=short]Islands[/nation] (I)
 Board Member:  [nation=short]Muh roads[/nation] (RLP)
-Board Member:  [nation=short]Acranea[/nation]
+Board Member:  [nation=short]Acranea[/nation] (RLP)
 Board Member:  [nation=short]Abaretta[/nation] (LP)[/b]
 
 [b][url=http://www.nationstates.net/nation=the_law_of_libertatem/detail=factbook/dcategory=1]Laws of Libertatem[/url][/b]
@@ -16,6 +16,6 @@ Board Member:  [nation=short]Abaretta[/nation] (LP)[/b]
 [b][url=http://www.nationstates.net/nation=pevvania/detail=factbook/id=176348]Party System[/url][/b]
 
 [b]Legislation at Vote:[/b]
-AT VOTE - the House of Representatives Reform Act.
+PASSED - House of Representatives Reform Act.
 
 [b]NEWS:[/b] sign up to the Libertatem Lottery; (get the chance to) win Dead Space 1!

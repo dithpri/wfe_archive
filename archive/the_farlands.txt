@@ -1,3 +1,11 @@
 The Caucus:
 
-No Standing Government
+President: [nation=short]Jaredania[/nation]  [Trusted]
+
+Vice President: [nation=short]Rovensberg[/nation]  [Trusted]
+
+Head of Defence: [nation=short]GoldfishnSteig[/nation]  [Trusted]
+
+Head of Law Enforcement:[nation=short]Sloathenstan[/nation]  [Trusted]
+
+Head of Trade: [nation=short]Za Nivaris[/nation]  [Trusted]

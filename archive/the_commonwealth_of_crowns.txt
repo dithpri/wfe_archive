@@ -4,7 +4,7 @@
 
 [b]13th REC[/b]
 Secretary-General: [nation=short]Besate[/nation]
-Chancellor: [nation=short]Besate[/nation]
+Chancellor: 
 Speaker: [nation=short]Evanicaland[/nation]
 Prosecutor General: [nation=short]Wyethalania[/nation]
 Lord Commander: [nation=short]The Antarctica Territories[/nation]
