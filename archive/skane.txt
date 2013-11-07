@@ -1,11 +1,13 @@
 A region in southern Sweden, a great Place in our World.
 
 
-Here is a link with a map of the part of land that can be claimed in the region
-http://www.skane.se/kommuner
+Here is a link with a map of the part of land that can be claimed in the region:
+[link]www.skane.se/kommuner[/link]
 
 The land claims that have been made:
-Tomelilla: The Holy Empire of Tomelilla Kommun
+Kristiansad: [nation]Kristianstad Kommun[/nation]
+Tomelilla: [nation]Tomelilla Kommun[/nation]
+
 
 Available land claims:
 Bjuv
@@ -19,7 +21,6 @@ H&ouml;gan&auml;s
 H&ouml;rby
 H&ouml;&ouml;r
 Klippan
-Kristianstad
 K&auml;vlinge
 Landskrona
 Lomma

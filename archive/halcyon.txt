@@ -10,5 +10,6 @@ Regional Security Level:
 1 [Evacuation Underway]
 2 [Martial Law]
 3 [Alert]
-[b]4 [Alert Standby][/b]
-5 [Watchful]
+4 [Alert Standby]
+[b]5 [Watchful][/b]
+6 [No Problems Here]

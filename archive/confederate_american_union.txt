@@ -1,14 +1,8 @@
-[color=red][I][u]REGION CURRENTLY UNDER CONSTRUCTION[/U][/I][/color]
-
-[color=blue]Capital City:[/color][color=green][i] Richmond, Virginia[/i][/color]
-[color=blue]Government Type:[/color][color=green][i] Confederate Republic[/i][/color]
-[color=blue]Official Language:[/color][color=green][i] Southern English[/i][/color]
-[color=blue]Motto:[/color][color=green][i] Deo Vindice  (Latin), &amp;quot;Under God, our Vindicator&amp;quot;[/i][/color]
-[color=blue]Anthem:[/color][color=green][i] &amp;quot;God Save the South&amp;quot; (unofficial), &amp;quot;The Bonnie Blue Flag&amp;quot; (popular), &amp;quot;Dixie&amp;quot; (traditional)[/i][/color]
-[color=blue]Official Currency:[/color][color=green][i] Confederate Dollar (c$)[/i][/color]
-[color=blue]Religion:[/color][color=green][i] Christian (official), Agnostic (popular)[/i][/color]
-
-
-[color=blue]President:[/color][color=green] Nathaniel Orion[/color] [nation]the Republic Confederation of America[/nation]
+[color=blue]President:[/color][color=green] Nat Orion[/color] [nation]the Republic Confederation of America[/nation]
 [Color=blue]Vice President:[/COLOR][color=green] J. Williams Dunn III[/color] [nation]the Republic Commonwealth of Florida[/nation]
-[color=blue]Sec. of State:[/color][color=green] Henry Stevens[/color] [nation]the Republic Commonwealth of Hampshire[/nation]
+[color=blue]State Commonwealth Advisor:[/color][color=green] Henry Stevens[/color] [nation]the Republic Commonwealth of virginia[/nation]
+[color=blue]Chief Justice Advisor:[/color][color=green] Donovan Dole[/color] [nation]Confederate House of Commons[/nation]
+[color=blue]Regional Advisor:[/color][color=green] Von Penske[/color] [nation]the Republic commonwealth of missouri[/nation]
+[color=blue]Defense Advisor:[/color][color=green] Chet Grinke[/color] [nation]the republic commonwealth of texas[/nation]
+[color=blue]Economic Labor Advisor:[/color][color=green] Karen Jeffries[/color] [nation]the republic commonwealth of Arizona[/nation]
+[color=blue]Foriegn Advisor:[/color][color=green] Lexi LeClaire[/color] [nation]the republic commonwealth of alaska[/nation]

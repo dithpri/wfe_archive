@@ -1,1 +1,12 @@
-[list][color=navy][b]Amur[/b][/color][hr][color=ababab]a RHW region[/color][/list]
+[list][color=121666][b]Amur[hr]aka Amur Oblast[/b]
+&#149; An oblast of the [region=Russian Federation], located on the Amur River.
+&#149; Far Eastern Federal District of Russia.
+&#149; Established: Oct. 20, 1932
+&#149; Administrative Center: [nation=short]Blagoveshchensk Gorod[/nation]
+&#149; Area: 363,700 km sq.
+&#149; Population: 830,103 (2010 census)
+&#149; Time Zone: UTC +10:00 YAKT
+&#149; RU-AMU
+&#149; Bordered by:
+[region=Zabaykalsky Krai], [region=Sakha], [region=Khabarovsk Krai], [region=Yevrey] and China.
+[/color][hr][color=ababab]a RHW region[/color][/list]

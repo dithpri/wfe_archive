@@ -1,6 +1,4 @@
-        Since the Rebellion of the [region]The League of United Nations[/region] a New Republic was formed, where sincere government could be practiced and the free people could have their say in the utmost democracy. Herein we set ourselves up with true uncorrupted officials in leadership to serve the people of our free and ever expanding region. &amp;quot;Hope and Truth Forevermore!&amp;quot;
-
-[b]Governmental House:[/b]
+        [b]Governmental House:[/b]
 [color=purple][b]President:[/b][/color][nation=noflag]Resh[/nation]
 [color=purple][b]Vice President:[/b][/color] [nation=noflag]Castitas[/nation]
 
@@ -16,3 +14,10 @@
 [color=orange][i][b]Head:[/b][/i][/color] Vacant/Open For Election
 [color=orange]Member:[/color] Vacant/Open For Election
 [color=orange]Member:[/color] Vacant/Open For Election
+
+[b]Recruiting Board:[/b]
+[color=limegreen][b]Head:[/b][/color] [nation=noflag]Castitas[/nation]
+[color=limegreen]Member:[/color] Vacant
+[color=limegreen]Member:[/color] Vacant
+
+[b]Regional Links: [/b][url=http://www.broomdces.com/nseconomy/regions.php?region=New%20Free%20Republic%20of%20United%20Nations]Economic Info.[/url]

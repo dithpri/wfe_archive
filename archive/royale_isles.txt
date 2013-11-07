@@ -1,11 +1,11 @@
 The Royale Isles! Across the vast archipelago, you are free to make our own destiny! 
 
-Territories: [region]Royale Isles Territories[/region], [region]Royale Isles Colonies[/region] | Sister regions: [region]Willeon[/region]
+Territories: [region]Royale Isles Territories[/region] and [region]Royale Isles Colonies[/region] | Sister region of [region]Willeon[/region]
 
-[b]President:[/b] [nation=short]Philos Royale[/nation]
-[b]Prime Minister:[/b] [nation=short]Aegina Royale[/nation]
-[b]Minister of State:[/b] [nation=short]Brittania Royale[/nation]
-[b]Minister of Defense:[/b] [nation=short]Nero Royale[/nation]
-[b]Minister of Interior:[/b] [nation=short]Kyra Royale[/nation]
-[b]Minister of Finance:[/b] [nation=short]Skyros Royale[/nation]
-[b]Regional Council (3 seats):[/b] [nation=short]Coral Royale[/nation], [nation=short]Sealand Royale[/nation], [nation=short]French Willeon[/nation]
+[b]President:[/b] [nation]Philos Royale[/nation]
+[b]Prime Minister:[/b] [nation]Aegina Royale[/nation]
+[b]Minister of State:[/b] [nation]Brittania Royale[/nation]
+[b]Minister of Defense:[/b] [nation]Nero Royale[/nation]
+[b]Minister of Interior:[/b] [nation]Kyra Royale[/nation]
+[b]Minister of Finance:[/b] [nation]Skyros Royale[/nation]
+[b]Regional Council (3):[/b] [nation=short]Coral Royale[/nation] and [nation=short]Sealand Royale[/nation] and [nation=short]Sunrise Royale[/nation]
