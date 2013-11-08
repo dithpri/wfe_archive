@@ -1,7 +1,10 @@
 [b][i]PRESIDENTS[/b]
 --------------------------
 [nation]New AppleJaaJ[/nation]
+[nation]AppleJaaJ[/nation]
 
-[B][I]VICEPRESIDENTS[/I][/b]
+[b]VICEPRESIDENTS[/i][/b]
 --------------------------
-[Nation] neon honeybadger [/nation]
+[nation]Neon honeybagers[/nation]
+[nation]The United Pisces[/nation]
+[nation]Good-dudland[/nation]

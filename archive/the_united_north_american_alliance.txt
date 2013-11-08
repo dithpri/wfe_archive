@@ -1,5 +1,5 @@
-Government Prositions:
-Secretary-General: [color=orange][nation]Open[/nation][/color]
+[u][b]Government Prositions:[/b][/u]
+Secretary-General: [color=orange][nation]TheNewAgeWorld[/nation][/color]
 Security Council President: [color=blue][nation]Aznazia[/nation][/color]
 President of the General Assembly: [color=green]open[/color]
 Regional Justice: [color=#00FFFF][nation]Usinia[/nation][/color]
@@ -17,10 +17,10 @@ Now they lay at rest...
 but will never to be forgotten.         
                                                            
 Casualties:
--Armed Rep. of Oblaren: 279,943,577   
--Rep. Of Usinia: 3,300,958          
+-Oblaren: 279,943,577   
+-Usinia: 3,300,958          
 -Nasbonia: 1,917,353             
--New Soc. Rep. of Knatda:109,021,812  
+-Knatda:109,021,812  
 
 Total:
 UNAA: 394,183,700               

@@ -11,7 +11,7 @@ Delegate:
 Minister of Foreign Affairs: 
 Minister of Justice: 
 Minister of Intelligence: [nation=shortname]Soviet East Japan[/nation]
-Minister of Defense:
+Minister of Defense: [nation=shortname]Marxist Kommunists[/nation]
 Minister of Immigration: [nation=shortname]The Irish[/nation][/b][/color]
 
 [url=http://www.youtube.com/watch?v=kDIuApfVxBg][color=red][b]Regional Anthem[/b][/color][/url]

@@ -9,10 +9,10 @@ Minister of Foreign Affairs and WAD: [nation=short]Frankezia[/nation]
 Minister of Membership: [nation=short]Quebecc[/nation]
 Minister of Justice: [nation=short]Leftoveria[/nation]
 [color=gold][i]Realmic[/i][/color]
-Consul of the Vineyard: [nation=short]Kennedystan[/nation]
+Consul of the Vineyard: [nation=short]Quebecc[/nation]
 Consul of Libera Terras: [nation=short]Ceolciarog[/nation]
-Consul of Mormont: [nation=short]Frankezia[/nation]
-Consul of Rabocie Ray: [nation=short]Racao[/nation]
+Consul of Mormont: TBD
+Consul of Rabocie Ray: [nation=short]Halda-Vatn[/nation]
 [b]Please endorse all members of the government[/b]
 
 [hr][color=green][b]Regional Information[/b][/color]

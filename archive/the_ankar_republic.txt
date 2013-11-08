@@ -2,8 +2,6 @@
 
 The Ankar Republic  is a group of nations that are bonded together with loyalty an trust to maintain order and peace to all that are a part of it.
 
-[b]Region alert status:[/b] not functioning
-
 [b]The Regional Government:[/b]
 Emperor:[nation]Talorin[/nation]
 Region Army/Air Force General: none
@@ -11,4 +9,9 @@ Region Marine Corps General:[nation]noahmerica[/nation]
 Region Navy General: none
 Region WA Delegate: none
 
-[b]Have any suggestions?[/b] Send a telegram to [nation]Talorin[/nation] with your issue so that the Regional Government can discuss it.
+[b]Region alert status:[/b] [color=green]Green[/color]
+
+[color=green]Green[/color]=Normal
+[color=yellow]Yellow[/color]=Alert
+[color=orange]Orange[/color]=Caution
+[color=red]Red[/color]=War
