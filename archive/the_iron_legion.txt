@@ -18,12 +18,12 @@ Military Operations Directorate of [region]The Fascist Union[/region].
 
 [u]Dilectum Legionis [Enlisted Corps][/u]
 
-[nation=short]Ldddd[/nation] Evocati (Sergeant)
 [nation=short]Mense[/nation] Evocati (Sergeant)
 [nation=short]Chezek[/nation] Evocati (Sergeant)
 [nation=short]Schutztruppe Southeastasia[/nation] Munifex (Private)
 [nation=short]Iaeptus[/nation] Munifex (Private)
 [nation=short]Slarvenia[/nation] Munifex (Private)
+[nation=short]The Holy Western Imperium[/nation] Munifex (Private)
 
 
 [hr]

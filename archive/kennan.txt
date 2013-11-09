@@ -4,14 +4,13 @@
 [color=orange][b]Regional Updates[/b][/color]
 [list]
 [*]11/6/2013 - [url=http://goo.gl/3ySBqv]KRCR-61[/url] is up for voting.
-[*]11/7/2013 - R-DAS Level 3. WA nations to [region]The Man Cave[/region] and endorse [nation]Vinco[/nation].
 [/list]
 
 [color=blue][b]Kennan Secretary Council[/b][/color]
 [b]Administration:[/b] [nation]Samukan[/nation]
 [b]Defense:[/b] [nation]Ethan Foley[/nation]
-[b]Education:[/b]
-[b]Environment:[/b]
+[b]Education:[/b] [i]None[/i]
+[b]Environment:[/b] [nation]United Solcialist States of Jakeopia[/nation]
 [b]Foreign Affairs:[/b] [nation]Sandwich Territories[/nation]
 [b]Human Rights:[/b] [nation]Hackleberry Islands[/nation]
 [b]Law Enforcement:[/b] [nation]Pantorrum[/nation]
@@ -21,3 +20,6 @@
 [b]KU:[/b] [nation]Ethan Foley[/nation] 
 [b]KSB:[/b] [nation]Samukan[/nation]
 [b]KSC:[/b] [nation]The Azerian Empire[/nation]
+
+[color=red][b]R-DAS[/b][/color]
+[color=green]Level 0 - No Alert[/color]

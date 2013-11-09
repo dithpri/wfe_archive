@@ -2,14 +2,16 @@ DEFCON Level: 5
 
 Government:
 Founder: [nation]Dethkloktopia[/nation]
-WA Delegate- [nation]Mopiona[/nation]
-Vice WA Delegate- [nation]Katakerio[/nation]
-Chief Advisor- [nation]Yulis[/nation]
-Supreme Chancellor- [nation]Afrycir[/nation]
-Chief Ambassador- [nation]Jamaxia[/nation]
-Head of Intelligence- [nation]Hodade[/nation]
-Recruiter (Region and Military)- [nation]United Islands 101[/nation]
-Master Chief (Head of Military)- [nation]The Gryffindor Lions[/nation]
+WA Delegate: [nation]Mopiona[/nation]
+Vice WA Delegate: [nation]Katakerio[/nation]
+Chief Advisor: [nation]Yulis[/nation]
+Chief of TLC: 
+Supreme Chancellor: [nation]Afrycir[/nation]
+Head Justice (Supreme Judge):
+Chief Ambassador: [nation]Jamaxia[/nation]
+Head of Intelligence: [nation]Hodade[/nation]
+Recruiter (Region and Military): [nation]United Islands 101[/nation]
+Master Chief (Head of Military): [nation]The Gryffindor Lions[/nation]
 
 Join the WA!
 Endorse our regional WA Delegate!

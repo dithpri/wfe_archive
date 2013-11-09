@@ -11,7 +11,7 @@ Emperor: [nation=short]Desocia[/nation]
 
 Imperial Guardian: [nation=short]Trunava[/nation]
 
-Minister of Information: [nation=short]Zambia-Rhodesia[/nation]
+Minister of Information: 
 
 Minister of Culture: [nation=short]Aristotskia[/nation]
 [/b]
