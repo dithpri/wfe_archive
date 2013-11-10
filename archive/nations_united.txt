@@ -8,8 +8,8 @@
 
 Region Security:
 
-Region DEFCON system: Currently at [b]4[/b]
+Region DEFCON system: Currently at [b]5[/b]
 
-Security Threat: [b]HIGH[/b]
+Security Threat: [b]NORMAL[/b]
 
 Border Security:[b]Open[/b]

@@ -3,14 +3,14 @@
 [hr][color=000080][b]Imperial Government[/b][/color]
 
 [color=Black][b]Imperial Emperor:[/b] ......[nation=short]Budisel[/nation]
-[b]Prime Minister:[/b] ...........[nation=short]Varnya[/nation]
+[b]Prime Minister:[/b] ...........
 [b]Honorable Judge:[/b] .......[nation=short]Pannau[/nation][/color]
 
 Minister of Immigration and Customs: ....[nation=short]Taikoku[/nation]
-Minister of Defense and Intelligence: .......N/A
-Minister of Entertainment: ......................N/A
+Minister of Defense and Intelligence: .......[nation=short]Therinsford[/nation]
+Minister of Entertainment: ......................
 Minister of Public Safety: ........................[nation=short]Merriwhether[/nation]
 Minister of Environment: ........................[nation=short]Pultridus[/nation] [hr][color=000080][b]Imperial Information[/b][/color]
 
-[list][*]Got an idea for a bill? Propose it in the legislative forum![/list]
+[list][*]Got an idea for a bill? Propose it in the legislative forum![*]Please welcome Therinsford, our new Defense and Intelligence minister![/list]
 [hr]

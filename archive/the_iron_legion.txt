@@ -24,6 +24,7 @@ Military Operations Directorate of [region]The Fascist Union[/region].
 [nation=short]Iaeptus[/nation] Munifex (Private)
 [nation=short]Slarvenia[/nation] Munifex (Private)
 [nation=short]The Holy Western Imperium[/nation] Munifex (Private)
+[nation=short]Tiberium the Last Reich[/nation] Munifex (Private)
 
 
 [hr]

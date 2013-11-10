@@ -1,7 +1,11 @@
 The Union of Nations
 
-Mission Charter: The Union of Nations is a Regional Grouping of States committed to democratic government, sensible civil liberties and market economies which encourages and fosters international cooperation between governments to further humanity.  However it is noted that this goal is exercised in varying fashions between governments of different member states in the Union.
+Mission Charter: The Union of Nations is a Regional Grouping of States committed to democratic government, sensible civil liberties and market economies which encourages and fosters international cooperation between governments to further humanity.
+Note: This goal is exercised in varying fashions between governments of different member states in the Union.
 
-The Chief of the Union is the President of Ecclestia who resides over the executive branch of the Government of Ecclestia and the Union of Nations.
+The Chief of the Union is the President of Ecclestia who resides over the executive branch of the Government of the Union of Nations.
 
-If a nations rating for political freedoms does not exceed 65%, Civil Rights rating does not exceed 55% and Economic Strength not surpass 55%, their nation&amp;#39;s membership of the Union will be suspended.
+If a nations ratings do not equal or exceed the following, their membership will be suspended
+Civil Right: 50%
+Economy: 50%
+Political Freedoms: 55%
