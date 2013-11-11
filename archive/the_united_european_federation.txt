@@ -14,6 +14,7 @@
 Foreign Relations &amp;amp; Defence: [Nation=Thomradeopolis]
 Industry &amp;amp; Espionage: [Nation=Fersblerk]
 Finance &amp;amp; Culture: [nation=The Lost Tribe of Keko]
-Justice &amp;amp; Communications [nation=eagles army]
+Justice &amp;amp; Communications; [nation=eagles army]
+Agriculture: [nation=samford]
 
 [b]Nation of the Week:[/b] [nation=Ptolemaios-Kai] for 100% capitalism

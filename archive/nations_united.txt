@@ -1,15 +1,15 @@
 [b]Region Government[/b]
-[b]Head of State[/b]: [nation]Qubec[/nation]
-[b]Director[/b]: [nation]Ukraine Republic[/nation]
-[b]Secretary[/b]: [nation]new swisland[/nation]
-[b]Head of Security[/b]: [nation]Colitin[/nation]
-[b]Head of Treasury[/b]: [nation]Cressageland[/nation]
-[b]Head of Foreign Affairs[/b]: [nation]qubec[/nation]
+[b]King[/b]: [nation]Qubec[/nation]
+[b]President[/b]: [nation]Ukraine Republic[/nation]
+[b]Vice President[/b]: [nation]new swisland[/nation]
+[b]Secretary of Security[/b]: [nation]Colitin[/nation]
+[b]Secretary of Treasury[/b]: [nation]Cressageland[/nation]
+[b]Secretary of Foreign Affairs[/b]: [nation]qubec[/nation]
 
 Region Security:
 
 Region DEFCON system: Currently at [b]5[/b]
 
-Security Threat: [b]NORMAL[/b]
+Security Threat: [b]LOW[/b]
 
 Border Security:[b]Open[/b]

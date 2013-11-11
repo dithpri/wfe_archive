@@ -3,7 +3,7 @@
 
 [color=orange][b]Regional Updates[/b][/color]
 [list]
-[*]11/6/2013 - [url=http://goo.gl/3ySBqv]KRCR-61[/url] is up for voting.
+[*]11/10/2013 - [url=http://goo.gl/AsWkFr]KRCR-62[/url] is up for voting.
 [/list]
 
 [color=blue][b]Kennan Secretary Council[/b][/color]
@@ -22,4 +22,4 @@
 [b]KSC:[/b] [nation]The Azerian Empire[/nation]
 
 [color=red][b]R-DAS[/b][/color]
-[color=green]Level 0 - No Alert[/color]
+[color=blue]Level 1 - Minor Alert[/color]
