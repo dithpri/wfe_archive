@@ -7,9 +7,9 @@
 [b]Exchange Rates:[/b]
 1 Arrow = 1.90 Thomdollar
 1 Blerk = 1.84 Thomdollar
-1 Gold = 1.61 Thomdollar
+1 Gold = 1.63 Thomdollar
 1 Keko Coin = 1.16 Thomdollar
-1 Dopa = 0.94 Thomdollar
+1 Dopa = 0.93 Thomdollar
 [b]Governance Roles:[/b]
 Foreign Relations &amp;amp; Defence: [Nation=Thomradeopolis]
 Industry &amp;amp; Espionage: [Nation=Fersblerk]
@@ -17,4 +17,4 @@ Finance &amp;amp; Culture: [nation=The Lost Tribe of Keko]
 Justice &amp;amp; Communications; [nation=eagles army]
 Agriculture: [nation=samford]
 
-[b]Nation of the Week:[/b] [nation=Ptolemaios-Kai] for 100% capitalism
+[b]Nation of the Week:[/b] [nation=Fersblerk] Best Economy

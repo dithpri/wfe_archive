@@ -3,10 +3,14 @@
 [Hr]
 [Color=red]Emperor:[/color][nation]Yukastania[/nation]
 [Color=red]Chancellor:[/color][nation]Fjormark[/nation]
+[Color=red]Minister of Defense:[/color] [Color=green][POSITION VACANT][/color]
+[Color=red]Minister of Foreign Affairs:[/color][nation]Drakokon[/nation]
+[Color=red]Minister of Internal Affairs:[/color] [Color=green][POSITION VACANT][/color]
+[Color=red]Magister of Justice:[/color] [Color=green][POSITION VACANT][/color]
 [Hr]
 Emergency Government called for by Emperor Zechs
 [Hr]
-Repairment of Anzia has begun. Forum Reconstruction in Progress. Active citizens are asked to assist in Emergency Government
+Repairment of Anzia has begun. Active citizens are asked to assist in Emergency Government.
 [hr]
 [url=http://w11.zetaboards.com/United_Anzian_Empire/index/]Join Our Forum![/url] 
 

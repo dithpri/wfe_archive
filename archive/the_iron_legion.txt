@@ -14,7 +14,7 @@ Military Operations Directorate of [region]The Fascist Union[/region].
 [u]Legioni Tribunus [Officer Corps][/u]
 
 [nation=short]Serpentura[/nation] - Imperator (Brigadier General of The Black Legion)
-[nation=short]The Imperial Prefectures of America[/nation] - Centurion (Captain)
+[nation=short]The Imperial Prefectures of America[/nation] - Legati (Captain)
 
 [u]Dilectum Legionis [Enlisted Corps][/u]
 
@@ -25,6 +25,7 @@ Military Operations Directorate of [region]The Fascist Union[/region].
 [nation=short]Slarvenia[/nation] Munifex (Private)
 [nation=short]The Holy Western Imperium[/nation] Munifex (Private)
 [nation=short]Tiberium the Last Reich[/nation] Munifex (Private)
+[nation=short]NorthEast Alliance[/nation] Munifex (Private)
 
 
 [hr]

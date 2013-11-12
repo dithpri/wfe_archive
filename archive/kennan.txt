@@ -22,4 +22,4 @@
 [b]KSC:[/b] [nation]The Azerian Empire[/nation]
 
 [color=red][b]R-DAS[/b][/color]
-[color=blue]Level 1 - Minor Alert[/color]
+[color=orange]Level 3 - Moderate Alert[/color]

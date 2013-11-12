@@ -1,0 +1,7 @@
+Contains the Georgia State House of Representatives and the Georgia Senate. If you want to become a member let the founder know. Regions are also allowed to join.
+Member Nations
+[nation]The Seven Nations[/nation]
+[nation]A Republican Ireland[/nation]
+
+Member Regions
+[region]International Congress[/region]
