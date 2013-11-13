@@ -1,10 +1,7 @@
-A fun region for [color=red]Star Wars[/color] fans and [color=red]musicians[/color] alike!
-
 [color=blue]Come to the Jedi Order!!! We need more government!!!!![/color]
 
-Grand Jedi Master(1 spot):
-Jedi Council(12 spots, including Grand Master, must have been here 90 days):
-Jedi Master(Infinite spots, must have at least 500 million people, must have been here 60 days):
-Jedi Knight(Infinite spots, must have at least 100 million people, must have been here 30 days):
-Padawan Learner(Infinite spots):
-Temple Orchestra:
+Grand Jedi Master(1 spot):[nation]Jedi Clarinetists[/nation]
+Jedi Council(12 spots, must be Jedi Master): [nation]Jedi Clarinetists[/nation]
+Jedi Master(must have 500 million citizens):
+Jedi Knight(must have 100 million citizens):
+Padawan Learner(Infinite spots): Illena Xan-[nation]CT-7567[/nation]

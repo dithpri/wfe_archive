@@ -1,6 +1,6 @@
 [b][u]Welcome to the UEF: The United European Federation[/b][/u]
 
-[b]News:[/b] Good job guys! We did a great job defending against those zombies. Watch this space for more news.
+[b]News:[/b] John appears to have won the Delegacy. Congratulations.
 
 [b][u][url=http://s22.postimg.org/ilqjtefc1/map.png]Regional Map[/url][/u][/b]
 
@@ -16,5 +16,6 @@ Industry &amp;amp; Espionage: [Nation=Fersblerk]
 Finance &amp;amp; Culture: [nation=The Lost Tribe of Keko]
 Justice &amp;amp; Communications; [nation=eagles army]
 Agriculture: [nation=samford]
+Anti-Corruption: [nation=starling]
 
-[b]Nation of the Week:[/b] [nation=Fersblerk] Best Economy
+[b]Nation of the Week:[/b] [nation=Fersblerk] for most badges/achievements

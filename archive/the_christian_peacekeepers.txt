@@ -8,6 +8,7 @@
 [b]Minister of Foreign Affairs:[/b] [nation=short]Stomalia[/nation]
 [b]Minister of Role-Play:[/b] [nation=short]Stomalia[/nation]
 [b]Minister of Spirituality:[/b] [nation=short]The Monastic State of Mount Athos[/nation]
+[b]Minister Of Defense:[/b] [nation=short]Armed union[/nation]
 [hr]
 [u]Regional Security Level Key[/u]
 
@@ -22,5 +23,4 @@
 Current Level: [color=green]Green[/color]
 [hr]
 [color=purple]REGIONAL NEWS:[/color]
-[color=red]Welcome our new government officials![/color]
 [url=http://z13.invisionfree.com/C_Peacekeepers_NS/index.php?act=idx]Visit our new Forums![/url]

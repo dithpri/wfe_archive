@@ -1,6 +1,6 @@
 [hr]-------------------------------------------[color=yellow]The Shokpo Alliance[/color]-------------------------------------------[hr]
 International Exemplary:[nation=shortname]Dremaur[/nation]
-International Secondary-Exemplary:
+International Secondary-Exemplary:[nation=shortname]High Britannia[/nation]
 Directorate of Defense: [nation=shortname]Florys[/nation]
 Directorate of WA Affairs:
 Directorate of Denunciation:[nation=shortname]Nationalist Eminral Republic[/nation] 

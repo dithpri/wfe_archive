@@ -1,2 +1,21 @@
-[b][region]Castle Wewelsburg[/region] controls [region]North Rhine Westphalia[/region]; the most populous State in [region]The United Aryan Empire[/region] controlled [region]Territory of Germany[/region]. 
-North Rhine-Westphalia was formed in 1946 as a merger of the northern Rhineland and Westphalia, both formerly parts of Prussia. Its capital of [region]Dusseldorf[/region]; and largest city of [region]Cologne[/region] are under enemy control and under siege.[/b][hr][b][color=blue]We will advance; no retreat...no surrender![/color][/b]
+[b]Ruled by [nation]Aryan Shield Command[/nation] of [region]The Great National Socialist Empire[/region].
+Protected by [nation=short]North Rhine-Westphalia Government[/nation]
+Allied with [region]The United Aryan Empire[/region][hr]The State of [region]North Rhine Westphalia[/region] is in the [region]Territory of Germany[/region].
+[u]Capital City:[/u] 
+[region]Dusseldorf[/region] {*Enemy controlled}
+ 
+[u]*Cities:[/u]
+ [region]Cologne[/region] 
+[region]Dortmund[/region] 
+[region]Bonn[/region]
+[region]Bielefeld[/region]
+ 
+[u]Imperial Cities:[/u]
+[region]Essen[/region]
+ 
+[u]Allied Cities:[/u]
+[region]Duisburg[/region] 
+
+
+[color=red]Long live the F&uuml;hrer!
+Death to Antifascists and Marxists![/color][/b]
