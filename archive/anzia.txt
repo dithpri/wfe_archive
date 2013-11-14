@@ -6,7 +6,7 @@
 [Color=red]Chancellor:[/color][nation]Fjormark[/nation]
 [Color=red]Minister of Defense:[/color] [Color=green][POSITION VACANT][/color]
 [Color=red]Minister of Foreign Affairs:[/color][nation]Drakokon[/nation]
-[Color=red]Minister of Internal Affairs:[/color] [Color=green][POSITION VACANT][/color]
+[Color=red]Minister of Internal Affairs:[/color] [nation]Brittanican[/nation]
 [Color=red]Magister of Justice:[/color] [nation]Sylvaresta[/nation]
 [Hr]
 Emergency Government called for by Emperor Zechs

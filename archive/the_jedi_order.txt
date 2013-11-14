@@ -1,7 +1,7 @@
 [color=blue]Come to the Jedi Order!!! We need more government!!!!![/color]
 
-Grand Jedi Master(1 spot):[nation]Jedi Clarinetists[/nation]
-Jedi Council(12 spots, must be Jedi Master): [nation]Jedi Clarinetists[/nation]
+Grand Jedi Master(1 spot):[nation=short+noflag]Jedi Clarinetists[/nation]
+Jedi Council(12 spots, must be Jedi Master): [nation=short+noflag]Jedi Clarinetists[/nation]
 Jedi Master(must have 500 million citizens):
 Jedi Knight(must have 100 million citizens):
-Padawan Learner(Infinite spots): Illena Xan-[nation]CT-7567[/nation]
+Padawan Learner(Infinite spots): Illena Xan-[nation=short+noflag]CT-7567[/nation]

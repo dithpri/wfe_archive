@@ -1,15 +1,12 @@
-[b][i]PRESIDENTS[/b]
---------------------------
-[nation]New AppleJaaJ[/nation]
-[nation]AppleJaaJ[/nation]
+Welcome to the Northern Islands of JaaJei,
+Below is a list of people in power in The Northern Islands
 
-[b]VICEPRESIDENTS[/i][/b]
---------------------------
-[nation]Neon honeybagers[/nation]
-[nation]The United Pisces[/nation]
+---------------------[b][i]REGIONAL GOVERNMENT[/b]-------------------
+ ------------------------------------------------------------------------
+[nation]New AppleJaaJ[/nation]     [nation]AppleJaaJ[/nation]
+[nation]Neon honeybagers[/nation]     [nation]The United Pisces[/nation]
 [nation]Good-dudland[/nation]
 
-[b][i]MILITARY LEADERS[/i][/b]
---------------------------
-[nation]X-dudland[/nation]
-[nation]Legendary Links[/nation]
+---------------------[b]MILITARY LEADERS[/i][/b]--------------------
+ ------------------------------------------------------------------
+[nation]X-dudland[/nation][nation]Legendary Links[/nation]

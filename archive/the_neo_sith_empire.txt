@@ -1,11 +1,11 @@
 [color=red][b]Emperor:[/b][/color] [nation]Etonnia[/nation]
 
-[b]The Emperor&amp;#39;s Wrath:[/b] [nation]Diablonaka[/nation]
-[b]The Emperor&amp;#39;s Hand:[/b] [nation]Imperial Tatine[/nation]
+[b]Wrath:[/b] [nation]Diablonaka[/nation]
+[b]Hand:[/b] [nation]Imperial Tatine[/nation]
 
-[b]The Dark Council:[/b]
+[b]Dark Council:[/b]
 Ancient Knowledge - [nation]Tradeus[/nation]
-Biotic Science
+Biotic Science - [nation]Dark Lord Exar Kun[/nation]
 Defence of the Empire - [nation]Cython[/nation]
 Expansion and Diplomacy - [nation]The PureBlood Sith[/nation]
 Imperial Intelligence - [nation]Collins Eire[/nation]

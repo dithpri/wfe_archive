@@ -11,11 +11,13 @@ Please endorse the WA delegate[/b][color=Sliver]
 
 Speaker of the Parliament: to be elected by Parliament 
 
-Defense Minister: [nation=short]North Omaha[/nation]
+Minister of Defense: [nation=short]North Omaha[/nation]
 
-Legal Minister: [nation=short]The United Tribes[/nation]
+Minister of Legal Affairs: [nation=short]The United Tribes[/nation]
 
-Foreign Affairs Minister: [nation=short]Tritona[/nation]
+Minister of Foreign Affairs: [nation=short]Tritona[/nation]
+
+Minister of Internal Affairs: [nation=short]Paramountica[/nation]
 [u]----------------[/u]
 
 Regional Constitution:[/color] [url=http://www.nationstates.net/nation=libertyworks/detail=factbook/id=163620]Click Here![/url]
