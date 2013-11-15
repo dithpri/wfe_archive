@@ -1,19 +1,2 @@
-DEFCON Level: 5 
-Government:
-WA Delegate-
-Vice WA Delegate-
-Secretary of State-
-Secretary of Defense- 
-Secretary of Commerce-
-Secretary of Trade and Economics-
-Ambassador-
-Vice Ambassador-
-Head of Intelligence-
-Head of Special Operations- 
-Recruiter (Region)-
-Master Chief (Head of Military)-
-General of Army (2nd in Command)-
-Recruiter (Military)-
-
 Territory of:
 [region]The Republic Nations[/region]

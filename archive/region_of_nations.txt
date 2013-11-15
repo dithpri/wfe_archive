@@ -2,9 +2,9 @@ Welcome to the [b]Region of Nations[/b]! This is a region for nations that do no
 
 The region is a very loose union of nations and has - as of yet - no constitution of its own. The region has a commission in order to handle both internal and external affairs:
 
-II Commission of the Region of Nations:
-President: [nation]Civitaseptentria[/nation]
-Commissioner of Foreign Affairs: [nation]Pectopah[/nation]
-Commissioner of Internal Affairs: [nation]Pseudoalexia[/nation]
-Commissioner of Financial Affairs: [nation]Alekstan[/nation]
-Commissioner of Defence: [nation]Granlundia[/nation]
+III Commission of the Region of Nations:
+President: [nation]Pectopah[/nation]
+Commissioner of Foreign Affairs: [nation]Alekstan[/nation]
+Commissioner of Internal Affairs: [nation]Civitaseptentria[/nation]
+Commissioner of Financial Affairs: [nation]Granlundia[/nation]
+Commissioner of Defence: [nation]Pseudoalexia[/nation]

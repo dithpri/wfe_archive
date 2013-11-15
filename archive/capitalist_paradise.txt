@@ -2,7 +2,7 @@
 
 Use our [b][url=http://goo.gl/UFZP0z]NationStates++ Addon[/url][/b]
 Forums: [b][url=http://goo.gl/IqnLkt]CapitalistParadise.com[/url][/b]
-Chat: [b][url=http://goo.gl/YPDiF2]irc.esper.net #capitalistparadise[/url][/b]
+Chat: [b][url=http://goo.gl/YPDiF2]IRC #capitalistparadise[/url][/b]
 Motto: [b][i][color=green]From Liberty, Prosperity; From Prosperity, Freedom[/color][/i][/b]
 Constitution: [b][url=http://goo.gl/Ip1MfW]Magna Carta[/url][/b]
 
@@ -13,9 +13,9 @@ Minister of Interior: [nation=short+noflag]Shadow Afforess[/nation]
 President of the Legislature: [nation=short+noflag]LadyFasterKittens[/nation]
 
 Advocate/Arbiter General: [nation=short+noflag]Northern Borland[/nation]
-Supreme Court Chief Justice: [nation=short+noflag]Blau Stein[/nation]
-Justice Member: [nation=short+noflag]Roxie Hart[/nation]
+Supreme Court Chief Justice: [nation=short+noflag]Roxie Hart[/nation]
 Justice Member: [nation=short+noflag]Panageadom[/nation]
-Alt. Justice Member: [nation=short+noflag]repentant jihadi[/nation][/b]
+Justice Member: [nation=short+noflag]repentant jihadi[/nation]
+Alt. Justice Member: [nation=short+noflag]vacant[/nation][/b]
 
-[i]The POL is re-elected![/i]
+[i]Alt. Justice Member election![/i]

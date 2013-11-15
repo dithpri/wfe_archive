@@ -14,7 +14,6 @@ Minister of Foreign Affairs:[nation=short]Noorderkwartier[/nation]
 Minister of Culture:[nation=short]Eastland Duchies[/nation] 
 Minister of Finance: [nation=short]Sayeram[/nation]
 Minister of the Interior: 
-Minister of Recruitment: 
 [hr]
 [b]High Court[/b]
 [nation=short]Lentheric[/nation][CJ],[nation=short]Imperial Yamea[/nation], [nation=short]Churchilland[/nation]

@@ -1,10 +1,10 @@
 [b]Welcome to [color=red]The Genuan Rebirth[/color]![/b]
 
 [color=blue][b]~Government~[/b][/color]
-[b][color=purple][u]Prime-Minister[/u][/color]:[/b][nation=short]Kommunistica[/nation]
-[b][color=purple][u]Vice-Prime-Minister[/u][/color]:[/b][nation=short]ASEAN[/nation]
-[b][color=purple][u]Minister of Law &amp;amp; Justice[/u][/color]:[/b][nation=short]Southern Ageena[/nation]
-[b][color=purple][u]Minister of Defence[/u][/color]:[/b][nation=short]Hrathgar Glacier[/nation]
+[b][color=purple][u]Prime-Minister[/u][/color]: [/b][nation=short]Kommunistica[/nation]
+[b][color=purple][u]Vice-Prime-Minister[/u][/color]: [/b][nation=short]ASEAN[/nation]
+[b][color=purple][u]Minister of Law &amp;amp; Justice[/u][/color]: [/b][nation=short]Southern Ageena[/nation]
+[b][color=purple][u]Minister of Defence[/u][/color]: [/b][nation=short]Hrathgar Glacier[/nation]
 [b][color=purple][u]Minister of Foreign Affairs[/u][/color]: [/b][nation=short]Tirada[/nation]
 [b][color=purple][u]Minister of Recruitment &amp;amp; Tourism[/u][/color]: [/b][nation=short]Toogle[/nation]
 [b][color=purple][u]Minister of Economic Affairs[/u][/color]: [/b][nation=short]Peace and Progress[/nation]
@@ -12,7 +12,7 @@
 [b][color=purple][u]Minister of Unauthorised Affairs[/u][/color]: [/b][nation=short]Emperor Mok[/nation]
 
 [color=blue][b]~Activity~[/b][/color]
-[color=red]Zombie Act[/color][b] | [/b][color=red]Court-Martial [/color] [b] | [/b][color=red]Formation of a Senate [/color] [url=http://www.nationstates.net/nation=jultopia/detail=factbook/id=180523]Draft plan[/url] [b] | [/b] [url=http://www.nationstates.net/nation=jultopia/detail=factbook/id=182821]GRC[/url] [b] | [/b]
+[color=red]Elections [/color] [b] | [/b][color=red]Formation of a Senate [/color] [url=http://www.nationstates.net/nation=jultopia/detail=factbook/id=180523]Draft plan[/url] [b] | [/b] [url=http://www.nationstates.net/nation=jultopia/detail=factbook/id=182821]GRC[/url] [b] | [/b]
 
 [hr]
 [b]Politics:[/b] [url=http://www.nationstates.net/nation=kommunistica/detail=factbook/id=153365]The Genuan Constitution[/url] [b]|[/b] [url=http://www.nationstates.net/nation=jultopia/detail=factbook/id=171723]Full Government List[/url] [b]|[/b] [url=http://www.nationstates.net/nation=jultopia/detail=factbook/id=172243]Political Parties[/url] [b] | [/b] [url=http://www.nationstates.net/nation=jultopia/detail=factbook/id=182270]The Mechanisms of the Genuan Rebirth Senate[/url] [b]|[/b]
@@ -21,4 +21,4 @@
 [hr]
 [b]Regional Trackers:[/b] [url=http://www.nstracker.net/region=genuan_rebirth&amp;amp;page=influence]NSTracker[/url] [b]|[/b] [url=http://www.broomdces.com/nseconomy/exchange.php?region=Genuan%20rebirth&amp;amp;WA=7]NSEconomy[/url] [b] | [/b]
 [hr]
-[b][color=blue]Member of the SAA [/color]|[color=blue] NGA [/color][/b]
+[b][color=blue]Member of the SAA [/color]|[color=blue] Allied with the NGA [/color][/b]

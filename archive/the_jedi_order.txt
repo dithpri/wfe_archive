@@ -2,6 +2,6 @@
 
 Grand Jedi Master(1 spot):[nation=short+noflag]Jedi Clarinetists[/nation]
 Jedi Council(12 spots, must be Jedi Master): [nation=short+noflag]Jedi Clarinetists[/nation]
-Jedi Master(must have 500 million citizens):
-Jedi Knight(must have 100 million citizens):
-Padawan Learner(Infinite spots): Illena Xan-[nation=short+noflag]CT-7567[/nation]
+Jedi Master(must have 500 million citizens): None
+Jedi Knight(must have 100 million citizens): None
+Padawan Learner(Infinite spots): Illena Xan-[nation=short+noflag]CT-7567[/nation], Plo Koon-[nation=short+noflag]Jedi Republic[/nation]
