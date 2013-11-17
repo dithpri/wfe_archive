@@ -10,15 +10,15 @@
 
 [u]Electoral Board[/u]
 
-[b]Secretary-General[/b] : [nation]Iron Bay[/nation]
+[b]Secretary-General[/b] : [nation]Austritaria[/nation]
 
 [b]Secretary for Diplomacy and Foreign Affairs[/b] : [nation]Hanannara[/nation]
 
-[b]Secretary for Defense[/b] : [nation]Graknopia[/nation]
+[b]Secretary for Defense, Chairman of The United League Security Council[/b] : [nation]Graknopia[/nation]
 
 [b]Secretary for Culture[/b] : [nation]Ebium[/nation]
 
-[b]Justice of The United League Security Council and Court of Justice[/b] : [nation]Durinmore[/nation]
+[b]Justice of The United League Court of Justice[/b] : [nation]Durinmore[/nation]
 
 [u]World Assembly Board[/u]
 

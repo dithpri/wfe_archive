@@ -8,6 +8,9 @@ Advisor: [nation]Astro-Tech Corporation[/nation]
 Advisor: [nation]area 275[/nation]
 
 Currently voting on:
-Astro tech receives a point
 Ninjasko looses a point
+
+[i]Nations with a positive or negative number of points:[/i]
+
+[nation]astro-tech corporation[/nation] :: +1
 

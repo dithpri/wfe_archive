@@ -11,7 +11,7 @@ Minister of Justice: [nation=short]Quebecc[/nation]
 [color=gold][i]Realmic[/i][/color]
 Consul of the Vineyard: [nation=short]Quebecc[/nation]
 Consul of Libera Terras: [nation=short]Ceolciarog[/nation]
-Consul of Mormont: TBD
+Consul of Mormont: [nation=short]Etonia[/nation]
 Consul of Rabocie Ray: [nation=short]Halda-Vatn[/nation]
 [b]Please endorse all members of the government[/b]
 
