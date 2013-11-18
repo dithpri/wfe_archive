@@ -7,7 +7,7 @@ Investigator: [nation=short]Godhand Industries[/nation]
 Chief Justice: [nation=short]Querria[/nation]*
 [u]Recruiting Office[/u] 
 Chief Officer: [nation=short]Magnificum Roma[/nation]*
-Recruiter: [nation=short]Allplace[/nation]
+Recruiter: [I]Vacant[/i]
 Welcoming: [i]Vacant[/i]
 [b]Regions seeking embassies please telegram [nation=noflag+short]Magnificum Roma[/nation][/b]
 News: [i]If you would like to write an article for the Regional paper, submit it in a telegram to either [nation=short+noflag]Azgul[/nation] or [nation=short+noflag]Filadelfia[/nation][/i]

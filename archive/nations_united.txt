@@ -2,7 +2,7 @@
 [b]King[/b]: [nation]Qubec[/nation]
 [b]President[/b]: [nation]Ukraine Republic[/nation]
 [b]Vice President[/b]: [nation]new swisland[/nation]
-[b]Secretary of Security[/b]: [nation]Colitin[/nation]
+[b]Secretary of Security[/b]: [b]Closed for Security Reasons[/b]
 [b]Secretary of Treasury[/b]: [nation]Cressageland[/nation]
 [b]Secretary of Foreign Affairs[/b]: [nation]qubec[/nation]
 [b]Military General[/b]: [nation]a war lord[/nation]
@@ -10,6 +10,6 @@
 Region Security:
 Region DEFCON system: Currently at [b]3[/b]
 
-Security Threat: [b]Possible War [/b]
+Security Threat: [b] EXTREMELY HIGH MAJOR THREAT UNDER INVESTIGATION[/b]
 
 Border Security:[b]Open[/b]

@@ -7,10 +7,13 @@ Founder and leader: [nation]aranias[/nation]
 Advisor: [nation]Astro-Tech Corporation[/nation]
 Advisor: [nation]area 275[/nation]
 
+[b]WA Delegate accsess[/b]: Off
+
 Currently voting on:
-Ninjasko looses a point
+--none--
 
 [i]Nations with a positive or negative number of points:[/i]
 
 [nation]astro-tech corporation[/nation] :: +1
+[nation]Ninjasko[/nation] :: -1
 

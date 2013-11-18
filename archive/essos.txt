@@ -1,11 +1,1 @@
-   [list] [color=blue] King [/color]
--  [nation=Neuschottland]
 
- [color=blue] Imperial Delegate and Minister for Foreign Affairs [/color]
-- [nation=khalesi] 
-
-[color=blue] Imperial Minister for Internal Affairs [/color]
--[color=green]Voting in progress[/color]
-
-[color=blue] Imperial Minister for Defence [/color]
-- [nation=Schweigenstein]

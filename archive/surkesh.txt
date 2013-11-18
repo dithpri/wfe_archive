@@ -3,6 +3,7 @@
 [b][u][color=blue]Regional Government[/color][/u][/b]
 [b][color=green]Region Capital[/color][/b][nation]Nos Energy[/nation]
 [b][color=red]Commander of Military and Defense[/color][/b][nation]The Sol System[/nation]
+[b][color=orange]Internal Affairs[/color][/b][nation]I hope this freedom thing works[/nation]
 
 [b][u][i][color=purple]More Positions to Come![/color][/i][/u][/b]
 

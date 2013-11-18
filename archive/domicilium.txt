@@ -4,12 +4,12 @@
 
 [b][u]Staff[/u][/b]
 Administration: [nation=short+noflag]Consigahria[/nation]
-World Assembly and Embassy Affairs: [nation=short+noflag]The Kanekaeri Islands[/nation]
-Outreach: [nation=short+noflag]Gewaltig[/nation]
+World Assembly and Embassy Affairs: [nation=short+noflag]Gewaltig[/nation]
+Outreach: [nation=short+noflag]The Kanekaeri Islands[/nation]
 Security: [nation=short+noflag]West Consigahria[/nation]
 
 [b][u][color=red]News from the First Legislature[/color][/u][/b]
-11/3:  Congratulations to [nation=short]the Kanekaeri Islands[/nation] on their fast excelling to WA delegate!
+11/3:  Congratulations to [nation=short]Gewaltig[/nation] for reclaiming their spot as WA Regional Delegate.
 
 [b][u]Current Security Status[/b][/u] (underlined is in effect)
 [b][u][color=blue]Safe[/color][/u][/b] | [color=red]Cautioned[/color] | [color=purple]In Danger[/color] | [color=black]Locked Down[/color]

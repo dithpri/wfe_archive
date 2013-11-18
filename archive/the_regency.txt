@@ -2,13 +2,15 @@
 
 [nation]Albicia[/nation]: [color=purple]Regent and Minster for Education and Spirituality[/color]
 
-[nation]The Universal Imperium[/nation]: [color=silver]Vice Regent and Minster for Defense and Culture[/color]
+[nation]The Universal Imperium[/nation]: [color=silver]Vice Regent and Minster for Defence and Culture[/color]
 
 [nation]Khaleesi[/nation]: [color=pink] Minster for Freedom and the Environment [/color] 
 
 [nation]New Morrowind[/nation]: [color=blue] Minster for Interregional Affairs and Foreign Affairs[/color]
 
-[nation]Populus Anglicus[/nation]: [color=gold]Minster for Science, Health, and Law[/color]
+[nation]Populus Anglicus[/nation]: [color=gold]Minster for Science, Health[/color]
+
+[nation]Havanah[/nation]: [color=chartreuse]Chief Justice[/color]
 
 [nation]the Defender of Faith[/nation]: [color=navy]Minister for Internal Affairs[/color]
 

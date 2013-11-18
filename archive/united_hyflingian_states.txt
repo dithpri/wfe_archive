@@ -3,7 +3,7 @@ ______________________________________________________
 
 The UHS is an assembly established by Hyfling for its neighbors, here
 we strive to improve both internal and external relations, promoting 
-regional trade ,defense and stability. Our map is [url=http://i.imgur.com/2KvYOSO.png]here[/url], for 
+regional trade ,defense and stability. Our map is [url=http://i.imgur.com/E0c34hx.png]here[/url], for 
 more information on the UHS, go [url=http://www.nationstates.net/nation=hyfling/detail=factbook]here.[/url]
 
 Currently, only nations on the continent of Hyfling may join.
@@ -13,5 +13,3 @@ Premier: [nation]Hyfling[/nation]
 
 Internal Affairs: [nation]Bar Vista[/nation]
 Economy and Trade: [nation]Blackwater Harbor[/nation]
-Member: [nation]Afrum[/nation]
-Member: [nation]Orham and Arcul[/nation]
