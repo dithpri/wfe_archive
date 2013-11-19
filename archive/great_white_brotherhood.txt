@@ -1,3 +1,8 @@
 Greetings! This region has been taken by the VAW. 
 
-Those participating were Emrys Mercer and Galleria Marlon.
+Those participating were Emrys Mercer, Galleria Marlon, and Ashton Mercer.
+
+Raider puppets removed:
+[nation]ravarx_21[/nation]
+[nation]kalon_kakon[/nation]
+[nation]draupadi[/nation]

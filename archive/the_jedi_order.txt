@@ -1,7 +1,15 @@
-[color=blue]Come to the Jedi Order!!! We need more government!!!!![/color]
+[i][color=blue]Emotion, yet peace.
+Ignorance, yet knowledge.
+Passion, yet serenity.
+Chaos, yet harmony.
+Death, yet the Force.[/i][/color]
+
+[b][color=purple]A Jedi shall have neither hate... nor anger... nor love.[/color][/b]
+
+[color=red]Come to the Jedi Order!!! We need more government!!!!![/color]
 
 Grand Jedi Master(1 spot):[nation=short+noflag]Jedi Clarinetists[/nation]
 Jedi Council(12 spots, must be Jedi Master): [nation=short+noflag]Jedi Clarinetists[/nation]
 Jedi Master(must have 500 million citizens): None
 Jedi Knight(must have 100 million citizens): None
-Padawan Learner(Infinite spots): Illena Xan-[nation=short+noflag]CT-7567[/nation], Plo Koon-[nation=short+noflag]Jedi Republic[/nation]
+Padawan Learner(Infinite spots): Illena Xan-[nation=short+noflag]CT-7567[/nation]

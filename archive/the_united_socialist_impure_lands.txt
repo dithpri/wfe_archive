@@ -3,12 +3,12 @@
 [b]President of the High Council: [/b][nation]Rukiah[/nation]
 [b]Secretary of State:[/b] OPEN
 [b]Master of Intelligence:[/b] [nation]Phlegathon[/nation]
-[b]Master of Arms:[/b] OPEN
+[b]Master of Arms:[/b] [nation]The Noble Horrorterrors[/nation]
 [b]Treasurer:[/b] [nation]The Empty[/nation]
 
 [i]Cabinet of The Impure Lands:[/i]
 
-[b]Foreign Affairs Minister:[/b] [nation]The Noble Horrorterrors[/nation]
-[b]Internal Affairs Minister:[/b]  [nation]Greybels[/nation]
+[b]Foreign Affairs Minister:[/b] [nation]Nadie[/nation]
+[b]Internal Affairs Minister:[/b] [nation]Greybels[/nation]
 [b]Historical Analyst:[/b] [nation]Crucania[/nation]
 [b]Justice Minister (Chief Whip):[/b] [nation]Arvenarius[/nation]
