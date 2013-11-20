@@ -2,16 +2,15 @@ DEFCON Level: 5
 
 Government:
 Founder: [nation]Dethkloktopia[/nation]
-WA Delegate: [nation]Mopiona[/nation]
-Vice WA Delegate: [nation]Katakerio[/nation]
-Chief Advisor: [nation]Yulis[/nation]
-Chief of TLC: [nation]Calostilia[/nation]
+WA Delegate: [nation]Yulis[/nation]
+Vice WA Delegate: [nation]Potestasi[/nation]
+Chief Advisor: [nation]Dubemland[/nation]
+Chief of TLC: [nation]Jihad Raiders Grand Army[/nation]
 Supreme Chancellor: [nation]Afrycir[/nation]
 Head Justice: [nation]Assassins Creed Brotherhood[/nation]
 Chief Ambassador: [nation]Jamaxia[/nation]
 Head of Intelligence: [nation]Hodade[/nation]
-Recruiter (Region and Military): [nation][/nation]
-Chief of Military (Master Chief): [nation]The Gryffindor Lions[/nation]
+Chief of Military (Master Chief): [nation][/nation]
 
 National Anthem: [url=http://m.youtube.com/watch?v=DvKAr9qaI1I]Hudson Mohawke (Thunder Bay)[/url]
 Regional Capital: Thunderhorse

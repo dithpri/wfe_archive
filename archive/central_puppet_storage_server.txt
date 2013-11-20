@@ -1,0 +1,4 @@
+[color=blue]Server Online|Data Transfer Online|23.6 GB Remaining[/color]
+
+This is the Central Puppet Storage Server. Puppets are stored here and this server is used as a transfer point between regions for puppets.
+

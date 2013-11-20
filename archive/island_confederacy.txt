@@ -1,6 +1,7 @@
 Regional  holiday&amp;#39;s: National World wide pop parties every holiday
+[hr]
 
-Administration of defense: [nation]Arcadian stronghold[/nation]
+Administration of defense: [nation]Durkistan[/nation]
 
 Administration of propaganda: [nation]Victarion[/nation]
 
@@ -11,6 +12,8 @@ Administration of foreign affairs: [nation]Umbrella Beaches[/nation]
 Administration of education: [nation]Hulkdom[/nation]
 
 Administration of work: [nation]Drandora[/nation]
+
+Law appointee: [nation]Arcadian stronghold[/nation]
 
 Head judge: [nation]Copper Confederacy[/nation]
 

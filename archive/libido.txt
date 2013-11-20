@@ -1,9 +1,0 @@
-This is just a test region to see what can and cannot be done on the [i]World[/i] [b]Factbook[/b] Entry, the [u]Regional[/u] Message Board, and the like. The region will be abandoned shortly thereafter. (One has to learn somewhere, sometime...)
-
-[hr][hr]
-[list]
-[*]This is the [url=http://www.nationstates.net/page=rmb/postid=3950390]First Message[/url].[list]
-[*]First element of a nested list.[*]Second element of a nested list.[/list]
-[*]This is the [url=http://www.nationstates.net/page=rmb/postid=3950644]Second Message[/url].
-[*]This is the [url=http://www.nationstates.net/page=rmb/postid=3950615]Third Message[/url] and points to this [url=http://www.nationstates.net/nation=castrati/detail=factbook/id=163633]factbook entry[/url].[/list]
-[hr][hr]

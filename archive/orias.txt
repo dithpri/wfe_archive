@@ -6,12 +6,11 @@
 [color=#00BF40][b]The World Assembly Delegate is currently OPEN and elections will be occurring soon![/b][/color]
 
 [color=#8000BF][u][b]The Orias Royal Council[/b][/u][/color]
-[b]Lord Duke/Duchess and Protector of Orias: Vacant[/b]
-[b]Deputy Lord Duke/Duchess and Protector of Orias: Vacant[/b]
-Duke of Defense: Vacant
-Duke of the Earl: Vacant
-Duke of Foreign Affairs: Vacant
+[b]Lord Duke and Protector of Orias: [nation]Valorono[/nation][/b]
+[b]Deputy Lord Duke and Protector of Orias: [nation]Merodin[/nation][/b]
+Duke of Defense: [nation]Constaniana[/nation]
+Duke of the Earl: [nation]The Elven Imperium[/nation]
+Duke of Foreign Affairs: [nation]Demincia[/nation]
 Duke of Education: Vacant
-Duke of Sport, Games and Culture: Vacant
-
-[b]Other Members of the Royal Council:[/b]
+Duke of Sport, Games and Culture: [nation]Eridanus 3[/nation]
+The Orias Scribe and Map Keeper: [nation]Mesairien[/nation]

@@ -2,15 +2,15 @@
 [b]King[/b]: [nation]Qubec[/nation]
 [b]President[/b]: [nation]Ukraine Republic[/nation]
 [b]Vice President[/b]: [nation]new swisland[/nation]
-[b]Secretary of Security[/b]: [b]Closed for Security Reasons[/b]
+[b]Secretary of Security[/b]: [b]Currently taking applications[/b]
 [b]Secretary of Treasury[/b]: [nation]Cressageland[/nation]
 [b]Secretary of Foreign Affairs[/b]: [nation]qubec[/nation]
 [b]Military General[/b]: [nation]a war lord[/nation]
 [url=https://docs.google.com/forms/d/1KXHUPCitmKn61xJwwZWzd7JmXRYF1tzqeS_IB1FLhiY/closedform]Government Positions Application[/url] [url=https://docs.google.com/forms/d/18ObHsCHolyGIpNw2RlSjopBehxlRgjhbWnuIignEinw/closedform]Law Proposal Form[/url] [url=https://docs.google.com/forms/d/1T-0HVgOmmlQ0dZyU6Xe-6dayohIBY1zdv9A_Vt8FBpk/viewform]Apply for Citizenship[/url] [url=https://docs.google.com/document/d/1k9TCbxZx460pBSuJihsp9bWuD4WrYH0w6F6w3NBhujo/edit?usp=sharing]Region Law Book[/url]
 Region Security:
-Region DEFCON system: Currently at [b]3[/b]
+Region DEFCON system: Currently at [b]4[/b]
 
-Security Threat: [b]EXTREMELY HIGH MAJOR THREAT UNDER INVESTIGATION[/b]
+Security Threat: [b]NORMAL[/b]
 
 Border Security:[b]Open[/b]
 

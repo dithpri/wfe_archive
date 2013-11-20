@@ -1,0 +1,49 @@
+[i]Playground[/i]
+
+[hr]
+
+[i]WFE Design Notes[/i]
+
+Visit this [b][url=http://www.nationstates.net][color=#FF9900]shiny colourful link[/color][/url][/b]!
+
+[list]&#149; First on bullet point list
+&#149; Second
+&#149; Third 
+&#149; Fourth
+&#149; Fifth
+
+Text will stay indented
+until list tag is closed.[/list]
+
+[color=#F9F9F9]WWWWWWWWWWWWWWW[/color] Use invisible white text to indent.
+
+[color=#FFFFFF]WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW[/color] Use invisible white text to indent.
+
+[b]
+
+[color=#FFFF33]FFFF33[/color]
+[color=#FFFF00]FFFF00[/color]
+[color=#FFCC66]FFCC66[/color]
+[color=#FFCC33]FFCC33[/color]
+[color=#FFCC00]FFCC00[/color]
+[color=#FF9933]FF9933[/color]
+[color=#FF9900]FF9900[/color]
+[color=#FF6633]FF6633[/color]
+[color=#FF6600]FF6600[/color]
+[color=#FF3333]FF3333[/color]
+[color=#FF3300]FF3300[/color]
+[color=#FF0033]FF0033[/color]
+[color=#FF0000]FF0000[/color]
+[color=#CC0033]CC0033[/color]
+[color=#990033]990033[/color]
+[color=#990000]990000[/color]
+[color=#660033]660033[/color]
+[color=#660000]660000[/color]
+[color=#330033]330033[/color]
+[color=#000033]000033[/color]
+[color=#000000]000000[/color]
+[color=#666666]666666[/color]
+[color=#999999]999999[/color]
+
+[/b]
+
