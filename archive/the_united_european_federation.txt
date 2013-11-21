@@ -7,11 +7,11 @@
 [b]Featured[/b]
 Largest Military
 [list=1]
-[*][nation=Thomradeopolis] - 6,410,800 Men
-[*][nation=Fersblerk] - 1,454,000 Men
-[*][nation=FEGARO] - 1,356,000 Men
-[*][nation=Eagles Army] - 1,333,000 Men
-[*][nation=The lost tribe of Keko] - 966,000 Men
+[*][nation=Thomradeopolis] - 6,537,700 Men
+[*][nation=Fersblerk] - 1,515,800 Men
+[*][nation=FEGARO] - 1,433,600 Men
+[*][nation=Eagles Army] - 1,313,700 Men
+[*][nation=The lost tribe of Keko] - 972,400 Men
 [/list]
 
 [b]Governance Roles:[/b]

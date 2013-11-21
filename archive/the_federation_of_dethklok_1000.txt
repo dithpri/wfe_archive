@@ -2,7 +2,7 @@ DEFCON Level: 5
 
 Government:
 Founder: [nation]Dethkloktopia[/nation]
-WA Delegate: [nation]Yulis[/nation]
+WA Delegate: [nation]Yulis[/nation] [b]Please endorse![/b]
 Vice WA Delegate: [nation]Potestasi[/nation]
 Chief Advisor: [nation]Dubemland[/nation]
 Chief of TLC: [nation]Jihad Raiders Grand Army[/nation]

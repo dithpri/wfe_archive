@@ -1,12 +1,12 @@
-President
-Vice President
+President [color=red]Republican[/color] [nation=short]Reba McEntire[/nation]
+Vice President [color=red]Republican[/color] [nation=short]New Assassins[/nation]
 SOS
 SOD
 
 House Speaker [color=blue]Democrat[/color] [nation=short]Nancy Pelosi and Hillary Clinton[/nation]
-House Majority Leader [color=blue]Democrat[/color] [nation=short]great Houston[/nation]
-House Minority Leader [color=red]Republican[/color] [nation=short]Freedom and Independence[/nation]
-Representatives [color=red]Republican[/color] [nation=short]Reba McEntire[/nation] [color=blue]Democrat[/color]  [nation=short]Washingtons Pride[/nation] Independent[nation=short]Fighting Irishmen[/nation] 
+House Majority Leader [color=red]Republican[/color] [nation=short]Freedom and Independence[/nation]
+House Minority Leader [color=blue]Democrat[/color] [nation=short]great Houston[/nation]
+Representatives [color=blue]Democrat[/color]  [nation=short]Washingtons Pride[/nation] [color=red]Republican[/color][nation=short]Fighting Irishmen[/nation] 
 
 Chief Justice
 Justices

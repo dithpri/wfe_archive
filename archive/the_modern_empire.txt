@@ -6,5 +6,5 @@
 [list]
 [*][nation]Modern England[/nation][*][nation]Modern Italy[/nation]
 [*][nation]Modern France-Etrir[/nation]
-[*][nation]Steampunk England[/nation]
+[*][nation]Steampunk England[/nation][*][nation]Modern Panamagolia[/nation]
 [/list]
