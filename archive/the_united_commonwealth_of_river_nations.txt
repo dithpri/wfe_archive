@@ -1,11 +1,13 @@
 [region]The United Commonwealth of River Nations[/region] is a military, socioeconomic, and political alliance for nations on [color=blue]THE RIVER[/color]. The Commonwealth nations hold great pride in diversity of nations and governments and opportunity in regional politics. 
-[hr][color=red]Co-founders[/color]:
+[hr][color=crimson]Co-founders[/color]:
 -[nation]Dominant Individuals[/nation]
 -[nation]Adopted Darkness[/nation][hr][color=orange]WA Delegate[/color]:
-[nation]Cyanidium[/nation][hr][color=blue]Defense Department[/color]:
+[nation]Cyanidium[/nation][hr][color=indigo]Vice Delegate[/color]:
+[Nation]Dominant Individuals[/nation][hr][color=blue]Defense Department[/color]:
 -[nation]Rio de Lucas[/nation]
--[nation]Adopted Darkness[/nation][hr][color=indigo]Advisory Councilman[/color]:
-[Nation]Dominant Individuals[/nation][hr][color=maroon]Judicial Branch[/color]:
+-[nation]Adopted Darkness[/nation][hr][color=redviolet]Judicial Branch[/color]:
 [color=goldenrod]CJ[/color]:[nation]Freddy Mercury[/nation]
 [color=gray]Adv[/color]:[nation]Amadayo[/nation]
-[color=gray]Adv[/color]:[nation]Wumboria[/nation][hr]
+[color=gray]Adv[/color]:[nation]Wumboria[/nation][hr][color=teal]UPH Diplomats[/color]:
+-Vacant
+-Vacant[hr]
