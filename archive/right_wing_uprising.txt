@@ -14,6 +14,7 @@
 [region]NAZI EUROPE[/region]
 [region]The Fascist Union[/region]
 [region]Zarathustra[/region]
+[region]NBE[/region]
 [region]Hesse[/region]
 [region]Monoffian Militarized Zone[/region]
 [region]Apartheid South Africa[/region]
@@ -28,5 +29,4 @@
 [region]The New Pact[/region]
 [region]The Federal Islands[/region]
 [region]Alliance of Bearded Men[/region]
-[region]Elite Region of Global Command[/region]
 [region]Freedom Front[/region]

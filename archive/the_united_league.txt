@@ -2,9 +2,11 @@
 
 [u]Her Majesty&amp;#39;s Regional Council[/u]
 
-[b][u]Monarch[/u][/b] : [nation]Genivia[/nation]
+[b][u]Sovereign Monarch[/u][/b] : [nation]Genivia[/nation]
 
-[b]Viceroy[/b] : [nation]Predatorius[/nation]
+[b][u]Royal Consort[/u][/b]:
+
+[b]Regent[/b] : [nation]Predatorius[/nation]
 
 [b]Delegate[/b] : [nation]Shaw State[/nation]
 
@@ -22,6 +24,4 @@
 
 [u]World Assembly Board[/u]
 
-[b]Senator of the World Assembly[/b] : [nation]Shaw State[/nation]
-
-[b]The United League Public Service Order of Merit[/b] : Folik, Durinmore, Iron Bay
+[b]Ambassador to the World Assembly[/b] : [nation]Shaw State[/nation]

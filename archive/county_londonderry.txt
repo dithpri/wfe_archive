@@ -1,3 +1,5 @@
 [list][color=000066][b]County Londonderry[/b][/color][hr][color=006600]an [region=Ancient Lands] Allied Region
-a [region=Great Britain and Northern Ireland] Allied Region[/color]
+Allied with [region=Norlin Airlan] region
+a [region=Great Britain and Northern Ireland] associated region
+an [nation=short]RHW[/nation] region[/color]
 [color=660000][b]Please, No Recruiting[/b][/color][/list]

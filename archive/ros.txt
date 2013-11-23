@@ -1,18 +1,1 @@
-[b]The Realta of Sympathsia (ROS).[/b]
-
-The island continent of the Realta is divided into 4 territories; Northon, Easting, Wester, Southam.
-
-[u]Northon[/u]
-[nation]Woodlands Township[/nation]
-[nation]Semblwing[/nation]
-
-[u]Easting[/u]
-[nation]ARC-Holic[/nation]
-[nation]Ansmok[/nation]
-
-[u]Wester[/u]
-[nation]Jeuron Industrial Town Corporation[/nation]
-
-[u]Southam[/u]
-[nation]Establishment of the Capital[/nation]
-
+Realta of Sympathsia (RoS)

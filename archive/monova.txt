@@ -1,1 +1,9 @@
 A sole planet within the Alpha Centauri Galaxy. The Empire of Delatrax rules over the entire planet. Monova is a military planet with futuristic weapons, also has a space navy.
+
+[b]DEF-CONS[/b]
+
+- [b][color=green]DEF-CON 3: [/b]Lowest defensive condition. Peace times.[/color]
+- [b][color=yellow]DEF-CON 2: [/b]Medium defensive condition. Some restrictions.[/color]
+- [b][color=red]DEF-CON 1: [/b]Highest defensive condition. Major restrictions.[/color]
+------------------------
+[b]DEF-CON Status:[/b] [color=green]DEF-CON 3[/color]

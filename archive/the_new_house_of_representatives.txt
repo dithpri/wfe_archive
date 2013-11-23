@@ -1,14 +1,14 @@
-President [color=red]Republican[/color] [nation=short]Reba McEntire[/nation]
-Vice President [color=red]Republican[/color] [nation=short]New Assassins[/nation]
-SOS
+President African [color=green]National[/color] [color=gold]Congress[/color] [nation=short]Leader Nelson Mandela[/nation]
+Vice President 
 SOD
+SOS
 
 House Speaker [color=blue]Democrat[/color] [nation=short]Nancy Pelosi and Hillary Clinton[/nation]
 House Majority Leader [color=red]Republican[/color] [nation=short]Freedom and Independence[/nation]
 House Minority Leader [color=blue]Democrat[/color] [nation=short]great Houston[/nation]
 Representatives [color=blue]Democrat[/color]  [nation=short]Washingtons Pride[/nation] [color=red]Republican[/color][nation=short]Fighting Irishmen[/nation] 
 
-Chief Justice
+Chief Justice 
 Justices
 [b]A government of the people, by the people, for the people, shall not parish from the earth.[/b]
 [b]Our constitution is posted in Founders Factbook[/b]
