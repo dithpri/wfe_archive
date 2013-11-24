@@ -1,8 +1,8 @@
 Hello, and welcome to our region!
 
 [u]Government:[/u]
-President:
-Vice President:
+President:[nation=royal Iceland]
+Vice President:[nation=ubugu makassa]
 
 [u]Judiciary[/u]:
 Chief Justice: [nation=Eastern Fugazi]

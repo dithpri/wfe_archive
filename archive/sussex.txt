@@ -1,9 +1,5 @@
-[b][color=navy]The Kingdom of [/color][color=goldenrod]Sussex[/color][color=navy] is an Anglo-Saxon kingdom located on the south coast of England. It is currently a subsidiary of the [region]Trade Federation[/region].[/color][/b]
+[b]SUBSIDIARY OF THE [region]TRADE FEDERATION[/region][/b]
 
-[b][hr][url=http://nsdossier.texasregion.net/history.aspx?region=sussex&amp;amp;type=Exact&amp;amp;group=region&amp;amp;start=&amp;amp;end=] HISTORY [/url]|[url=http://wiki.alternatehistory.com/lib/exe/fetch.php/blank_map_directory/british_isles.png] REGIONAL MAP [/url]|[hr]
+[color=navy]The Kingdom of [/color][color=goldenrod]Sussex[/color][color=navy] is an Anglo-Saxon kingdom located on the south coast of England.[/color]
 
-[color=navy]&#149;[/color][color=goldenrod] HRH King of Sussex:[/color] [nation=short]The South-Saxons[/nation]
-[color=navy]&#149;[/color][color=goldenrod] HRH Heir Prince of Sussex (WA):[/color]
-[color=navy]&#149;[/color][color=goldenrod] Duke of Chichester:[/color]
-[color=navy]&#149;[/color][color=goldenrod] Duke of Lewes:[/color]
-[hr][color=navy]Sussex News:[/color][color=goldenrod] Welcome![/color][/b]
+[hr][url=http://nsdossier.texasregion.net/history.aspx?region=sussex&amp;amp;type=Exact&amp;amp;group=region&amp;amp;start=&amp;amp;end=] NSHistory [/url]
