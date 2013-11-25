@@ -1,20 +1,23 @@
 [b][u]Welcome to the UEF: The United European Federation[/b][/u]
 
-[b]News:[/b] New Featured Section! Check it out Below!
+[b]News:[/b] 
+[*] New Featured Section! Check it out Below!
+[*] Holidays coming up soon
+[*] Featured has been updated
 
 [u][url=http://s22.postimg.org/ilqjtefc1/map.png]Regional Map[/url][/u]
 
 [b]Featured[/b]
-Largest Military
+Largest GDP Per Capita
 [list=1]
-[*][nation=Thomradeopolis] - 6,537,700 Men
-[*][nation=Fersblerk] - 1,515,800 Men
-[*][nation=FEGARO] - 1,433,600 Men
-[*][nation=Eagles Army] - 1,313,700 Men
-[*][nation=The lost tribe of Keko] - 972,400 Men
+[*][nation=Fersblerk] - 66,390 ThomDollars
+[*][nation=Starling] - 54,370 ThomDollars
+[*][nation=Eagles Army] - 52,160 ThomDollars
+[*][nation=Dogemon] - 43,860 ThomDollars
+[*][nation=The lost tribe of Keko] - 34,190 ThomDollars
 [/list]
 
-[b]Governance Roles:[/b]
-Moved to make way for new section :-(
-
-[b]Nation of the Week:[/b] [nation=Fersblerk] for most badges/achievements
+[b]Nations of the Week:[/b] 
+[*] [nation=the dutiful empire of terrorcar]
+[*] [nation=seventh thomradeopolis] 
+                                                            for most colourful flags

@@ -12,7 +12,7 @@
 [nation=short]the coveanant[/nation]
 [nation=short]Parkanos[/nation]
 
-[color=#000061]Fendas sent to Fratt:[/color] 4
+[color=#000061]Fendas sent to Fratt:[/color] 6
 [color=#000061]Natives sent to Fratt:[/color] 27
 [color=#000061]Natives remaining:[/color] 0
 

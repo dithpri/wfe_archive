@@ -9,4 +9,4 @@
 &#149; RU-AMU
 &#149; Bordered by:
 [region=Zabaykalsky Krai], [region=Sakha], [region=Khabarovsk Krai], [region=Yevrey] and China.
-[/color][hr][color=ababab]a RHW region[/color][/list]
+[/color][hr][color=ababab]a [region=Russian Federation]/[region=Ancient Lands]/RHW region[/color][/list]
