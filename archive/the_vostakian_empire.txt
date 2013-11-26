@@ -4,6 +4,7 @@ ______________________________________________________________________
 [i]Supreme Ruler:[/i] 
 [nation]vostakia[/nation]
 [i]Field Marshal:[/i]
+[nation]kolostoff[/nation]
 
 ______________________________________________________________________
 
@@ -18,6 +19,5 @@ To join you [b]must[/b] prove yourself [b]loyal[/b] to [nation]vostakia[/nation]
 [b][i]HAIL [nation]vostakia[/nation][/i][/b] 
 ______________________________________________________________________
 
-[CONFLICTS]
-[nation]vostakia[/nation] Invasion of Region.
-[nation]vostakia[/nation] Starts WW1.
+[POLITICAL]
+[nation]vostakia[/nation] Takes control of [b]The Vostakian Empire[/b]

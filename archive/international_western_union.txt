@@ -1,6 +1,6 @@
 [b][color=red]IWU Regional Government:[/color][/b]
 President: [nation=short]Pharthan[/nation] (Will take office at the end of elections)
-Vice-President: 
+Vice-President: [nation=short]Vizindolf[/nation] (Will take office at the end of elections)
 Justices: 
 Secretary of Recruitment: 
 Regional Chairman: [nation=short]Kialga[/nation] via [nation=short]The IWU[/nation]

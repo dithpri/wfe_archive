@@ -4,6 +4,7 @@
 
 [b]Delegate: [nation=short]Mallanor[/nation]
 Vice Delegate: [nation=short]Shiny Charizard[/nation]
+Emergency Delegate: [nation=short]The Federal Republic of Simonia[/nation]
 General of Army: [nation=short]The Federal Republic of Simonia[/nation]
 MoFA: [nation=short]Siokania[/nation]
 Forum Mod: [nation=short]Pinatas[/nation]
@@ -11,5 +12,7 @@ RP Leader: [nation=short]Darwinish Brentsylvania[/nation][/b]
 
 Join the Forums at [url=http://w11.zetaboards.com/TDAR/index/]here![/url]
 [color=purple]NEWS: Regional Map Claims are starting right here: http://forum.nationstates.net/viewtopic.php?f=23&amp;amp;t=270872[/color]
-[color=orange]Endorsement limit is 5-6[/color]
+[color=orange]Endorsement limit is 7[/color]
 Our Capital City is [nation=short]Craigsport[/nation]
+
+FORUM OF THE DAY: THE KILLER BEAVER at http://forum.nationstates.net/viewtopic.php?f=25&amp;amp;t=267762

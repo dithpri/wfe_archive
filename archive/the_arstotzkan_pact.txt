@@ -1,12 +1,18 @@
-Welcome to The Arstotzkan Pact!
+[b][i]Welcome to The Arstotzkan Pact![/b][/i]
 
-You either have chosen or have been chosen to join the mighty Region of Arstotzka.
+You either have chosen or have been chosen to join the mighty Region of [region]The Arstotzkan Pact[/region].
 
-Security Levels:
-Pax Romana = Peace Time
-TS = Threat has been sent by Country/Region
-IW = Imminent War
-WD = War has been declared
-PT = Peace Treaty has been signed
+[b]Security Levels[/b]
 
-*Note: That if you want to place an Embassy your must ask founder.
+[color=orange]Pax Romana[/color] = Peace Time
+[color=orangeyellow]TS[/color] = Threat has been sent by Country/Region
+[color=orangered]IW[/color] = Imminent War
+[color=red]WD[/color] = War has been declared
+[color=blue]PT[/color] = Peace Treaty has been signed
+
+Ministry of Administration
+
+Chief of Administration: [nation]The Arstotzkan State[/nation]
+Secondary of Administration: N/A
+Secretary: N/A
+ 

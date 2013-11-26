@@ -13,11 +13,11 @@ Associate Justice: vacant
 
 Federation Council:
 
-Senator for Earth: Vacant
-Senator for Vulcan: [nation=short]Vulcan Supremacy[/nation]
-Senator for Andoria: Vacant
-Senator for Telos: Vacant
-Senator for Betazed: Vacant
+Earth Senator: [nation=short]Slushia[/nation]
+Vulcan Senator: [nation=short]Vulcan Supremacy[/nation]
+Andorian Senator: Vacant
+Tellarite Senator: Vacant
+Betazed Senator: Vacant
 
 
 Join our[url=http://w11.zetaboards.com/The_UF_of_Planets/index/]Forum[/url] today!

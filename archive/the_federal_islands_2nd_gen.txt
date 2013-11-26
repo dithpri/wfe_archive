@@ -1,10 +1,6 @@
 Welcome to The Federal Islands 2nd Gen!
 Proposals
-I. Presidents are elected on the 1st of every month.5=Y 1=N
-II. WA Delegates are elected in elections on the 1st of every month3=Y 3=N
-III. A Weekly regional status TG sent by WA delagate explains current regional Status.5=Y 1=N
-IV. Elected representatives/senators-2=Y 4=N
-V. WAD must vote whatever the majority of WA members in the region voted for in the resolution.3=Y 3=N
+VII. Voting system-.A nation must have a majority of votes to win; if not then the people who voted of the candidate with the least votes must vote for a different candidate or abstain. This process will be continued until a nation has a majority of the votes, who is then the winner. 1=Y 0=N
 President- [nation=short]Ronald Reagan and Rick Grimes[/nation]                       
 Vice President-[nation=short]xXGAMERZXx[/nation]
 Secretary of State-[nation=short]Shallowell[/nation]

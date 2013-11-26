@@ -3,7 +3,7 @@ Welcome the the Confederacy of Nations! In this region, we are entirely neutral 
 [color=blue]Directors[/color]
 
 [color=teal]Director of Democracy: [/color][nation=short+noflag]Helghan Republic[/nation]
-[color=teal]Director of Defense and Security:[/color]
+[color=teal]Director of Defense and Security:[/color] [nation=short+noflag]Sofa[/nation]
 [color=teal]Director of Foreign Affairs:[/color] [nation=short+noflag]Glaser[/nation]
 [color=teal]Director of Immigration and Recruitment:[/color]
 [color=teal]Director of Justice:[/color] [nation=short+noflag]Elemental North[/nation]

@@ -7,9 +7,9 @@ Vice - President:
 Department of Defense:
 Department of Finance:
 Department of Foreign Affairs: [nation]State of Abu Bakr[/nation]
-Department of Justice:
+Department of Justice: [nation]Aleksekica[/nation]
 Department of Intelligence: [nation]Fatimid Islamic Caliphate[/nation]
-Department of Immigration: 
+Department of Immigration: [nation]The Bosnian League[/nation]
 Department of WA Delegate: [nation]United-States-of-Islam[/nation]
 Department of Energy: [nation]Islamic State of Husay[/nation]
 
