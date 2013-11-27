@@ -1,6 +1,6 @@
 [b][color=black]NBE is a region led by Emperor [nation=short]Desocia[/nation] towards a future of Unity, honor, and loyalty.
-[region]NBE[/region] is a military state that is ran militarily for the perseverance and expansion of our Empire.
-We march in unison with Fascists, Nationalists, and Imperialists alongside each other for the common good.  [/color][/b]
+[region]NBE[/region] is a military state that is ran militarily for the perseverance and expansion of our Empire. 
+ [/color][/b]
 
 
 
@@ -13,6 +13,8 @@ Emperor: [nation=short]Desocia[/nation]
 
 Commissioner: [nation=short]The Imperial Reich[/nation]
 
+Minister of Security: [nation=short]Aristotskia[/nation]
+
 
 
 
@@ -20,9 +22,6 @@ Commissioner: [nation=short]The Imperial Reich[/nation]
 
 
 [/b]
-
-
-
 
 [color=grey]___________________________________________________________________________________________________________________________[/color]
 

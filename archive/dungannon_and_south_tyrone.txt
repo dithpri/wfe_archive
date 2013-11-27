@@ -1,12 +1,3 @@
-[list][color=000069][b]Dungannon and South Tyrone[/b][hr][/color][color=006900]an [region=Ancient Lands]/RHW region[/list]
-[/color][color=006969]
-About [b]Dungannon and South Tyrone:[/b] a Catholic Borough in Northern Ireland, administered from Dungannon and incorporating the southern part of county Tyrone with a population of 48,000.
+[list][color=000080][b]Dungannon and South Tyrone[/b][hr][/color][color=008000]an [region=Ancient Lands] region[/color]
 
-[b]REGION:
-Associated Region and Allies:[/b][list]&#149; [region=Ancient Lands]
-&#149; [region=United States of America] and associated regions;
-&#149; [region=Russian Federation] and associated regions;
-&#149; [region=Dominion of Canada] and associated regions;
-&#149; [region=Great Britain and Northern Ireland] and it&amp;#39;s extensive group of regions.
-&#149; [b]Our Group of Regions includes:[/b] [region=Ancient Lands], [region=Republic of South Sudan], [region=Maputo], [region=Austin] and [region=Fes]
-among a few others.[/list][/color]
+[color=008080]About [b]Dungannon and South Tyrone:[/b] a Catholic Borough in Northern Ireland, administered from Dungannon and incorporating the southern part of [region=county Tyrone] with a population of 48,000.[/color][/list]

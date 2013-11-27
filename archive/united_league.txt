@@ -2,13 +2,12 @@
 
 [b][color=blue]The United League Government[/color][/b]
 
-Executive Director:
-Director General: [nation=short]Sapien[/nation]
-Directorate Council
-Chairman of the Legislative Assembly:[nation=short]The Grand Republic of Hannover[/nation]
-Legislative Assembly
-Chairman of the Constitutional Court
-Justices: [nation=short]Sohanistan[/nation]
+Executive Director:[nation=short]Sapien[/nation]
+Director General: [nation=short]The Grand Republic of Hannover[/nation]
+Directorate Council:
+Chairman of the Legislative Assembly:
+Chairman of the Constitutional Court:
+Justices: 
 
 [b][color=blue]Regional Info:[/color][/b]
 

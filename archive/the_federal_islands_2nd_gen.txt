@@ -1,6 +1,6 @@
 Welcome to The Federal Islands 2nd Gen!
 Proposals
-VII. Voting system-.A nation must have a majority of votes to win; if not then the people who voted of the candidate with the least votes must vote for a different candidate or abstain. This process will be continued until a nation has a majority of the votes, who is then the winner. 1=Y 0=N
+VII. Voting system-.A nation must have a majority of votes to win; if not then the people who voted of the candidate with the least votes must vote for a different candidate or abstain. This process will be continued until a nation has a majority of the votes, who is then the winner. 3=Y 1=N
 President- [nation=short]Ronald Reagan and Rick Grimes[/nation]                       
 Vice President-[nation=short]xXGAMERZXx[/nation]
 Secretary of State-[nation=short]Shallowell[/nation]
