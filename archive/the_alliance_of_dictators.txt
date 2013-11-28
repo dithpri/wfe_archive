@@ -13,7 +13,7 @@ Foreign Affairs: [nation]Valcouria[/nation]
 Internal Affairs: [nation]The Mighty Hyena[/nation]
 
 REGIONS RAIDED
-32
+33
 
 OTHER
 [url=http://z7.invisionfree.com/AoD_/index.php?act=idx]The AoD Forum[/url]

@@ -2,7 +2,7 @@
 President: [nation=short]Pharthan[/nation] (Will take office at the end of elections)
 Vice-President: [nation=short]Vizindolf[/nation] (Will take office at the end of elections)
 Justices: 
-Secretary of Recruitment: 
+Secretary of Recruitment: [nation=short]GROSS Independency[/nation] (Will take office at the end of elections)
 Regional Chairman: [nation=short]Kialga[/nation] via [nation=short]The IWU[/nation]
 WA Delegate: [nation=short]Fenburg[/nation] Temporary
 

@@ -1,12 +1,12 @@
 [b][color=blue]Welcome to the FFS Libertatem IRU Cafe![/color][/b]
 
 [b]Corporate Officials[/b]
-Chairman, President &amp;amp; CEO: [nation=short]The Seafield Islands[/nation] (55%)
+Chairman, President &amp;amp; CEO: [nation=short]The Seafield Islands[/nation] (52%)
 Board of Directors:
+&#149; [nation=short]Conservative Idealism[/nation] (15%)
 &#149; [nation=short]Aedruvia[/nation] (3%)
 &#149; [nation=short]Blahbania[/nation] (3%)
 &#149; [nation=short]Confederate People of the United States[/nation] (3%)
-&#149; [nation=short]Conservative Idealism[/nation] (3%)
 &#149; [nation=short]Independent States of America[/nation] (3%)
 &#149; [nation=short]Lesbia[/nation] (3%)
 &#149; [nation=short]Liberosia[/nation] (3%)
@@ -14,7 +14,4 @@ Board of Directors:
 &#149; [nation=short]Pevvania[/nation] (3%)
 &#149; [nation=short]Republic of Wreptzle[/nation] (3%)
 &#149; [nation=short]Rotgeheim[/nation] (3%)
-&#149; [nation=short]The Gallant Old Republic[/nation] (3%)
-&#149; [nation=short]The Imperial Republic of the Balkans[/nation] (3%)
 &#149; [nation=short]The Sova Empire[/nation] (3%)
-&#149; [nation=short]Western Mars[/nation] (3%)
