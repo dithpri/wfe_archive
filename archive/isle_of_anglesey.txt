@@ -1,1 +1,4 @@
-[list][color=navy][b]Isle of Anglesey[/b][/color][hr][color=006400]an [region=Ancient Lands] region[/color][/list]
+[list][color=navy][b]Isle of Anglesey[/b][/color]
+[color=slategray]an Administrative County Borough of Wales[/color][hr][color=darkgreen]an [region=Ancient Lands] region
+Associated with [region=Wales Cymru] and
+[region=Great Britain and Northern Ireland][/color][/list]

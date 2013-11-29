@@ -5,7 +5,8 @@
 Military Commander: [nation=short]Acitcratna[/nation]
 Commander in Chief: [nation=short]Geoslitzavaika[/nation]
 Chief: [nation=short]Test1234[/nation]
-Minister of Defense: none
+Advisor: [nation=short]Levethian[/nation]
+
 [b]Join the WA and telegram [nation=short]Test1234[/nation] to sign up for the military forces.[/b]
 
 You must be active to participate in the regional government.

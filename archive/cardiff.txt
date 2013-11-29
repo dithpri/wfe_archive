@@ -1,7 +1,9 @@
-[color=3D2B1F][b]Capital City of Wales[/b][/color]
-
-[list][color=CD7F32]FACTS
+[list][color=navy][b]Cardiff[/b][/color]
+[color=slategray]Capital City of Wales[/color][hr][color=darkgreen]an [region=Ancient Lands] region
+Associated with [region=Wales Cymru] and
+[region=Great Britain and Northern Ireland][/color]
+[color=008080]FACTS[list]
 [b]City Status:[/b] 1905
 [b]Population:[/b] 346,100 (2011 census)
 [b]Metro:[/b] 1,097,000 (2011 census)
-[b]Demonym:[/b] Cardiffian[/color][/list]
+[b]Demonym:[/b] Cardiffian[/color][/list][/list]

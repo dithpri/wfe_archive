@@ -15,9 +15,8 @@ Head General: Belkinhelia
 Minister: Apercoriabajaia
 delegate: Ganadala
 High chancellor: Macelvernia
+
 Candidates for Delegate
 ___________________
-1.Ganadala
-2.Apercoriabajajaia
-3.Belkinhelia
+1.ganadala, 2.belkinhellia, 3.Apercoriabajaia ,4. antorias 
 Current Ruler: Bajebus

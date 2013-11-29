@@ -1,4 +1,7 @@
 [b]This region is The Regional Courthouse of [url=http://www.nationstates.net/nation=acitcratna/detail=factbook/id=188350]The Ancient Empires of The World[/url].[/b]
-[i]Not in session[/i]
-[hr]
+[i]In session[/i]
+[hr]Judge: [nation=short]Levethian[/nation]
+Prosecutor: [nation=short]Acitcratna[/nation]
+Jury:
+Defendants: [nation=short]Of the Omalley Clan[/nation] and [nation=short]A Republican Ireland[/nation]
 [hr]

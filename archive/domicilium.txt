@@ -3,8 +3,8 @@
 [b]||[/b] [color=blue]fraternitatem[/color] [b]|[/b] [color=red]iustitiam[/color] [b]|[/b] [color=blue]domicilium[/color] [b]||[/b]
 
 [b][u]Staff[/u][/b]
-Administration: [nation=short+noflag]Consigahria[/nation]
-World Assembly and Embassy Affairs: [nation=short+noflag]Gewaltig[/nation]
+Administration and Embassy Affairs: [nation=short+noflag]Consigahria[/nation]
+Regional World Assembly Affairs: [nation=short+noflag]Gewaltig[/nation]
 Outreach: [nation=short+noflag]The Kanekaeri Islands[/nation]
 Security: [nation=short+noflag]West Consigahria[/nation]
 
