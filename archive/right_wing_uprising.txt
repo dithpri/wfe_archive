@@ -15,6 +15,7 @@
 [region]The Fascist Union[/region]
 [region]NBE[/region]
 [region]Hesse[/region]
+[region]Nationalist Technate[/region]
 [region]The Great National Socialist Empire[/region]
 [region]Monoffian Militarized Zone[/region]
 [region]Apartheid South Africa[/region]
@@ -24,7 +25,6 @@
 
 [b][color=silver]Allies:[/color][/b]
 [region]The Red Wolf Rifle Korps[/region]
-[region]Nationalist Technate[/region]
 [region]Meritorious Imperium[/region]
 [region]The New Pact[/region]
 [region]The Federal Islands[/region]

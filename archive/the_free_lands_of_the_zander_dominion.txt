@@ -8,10 +8,10 @@ Duties by person:
 
 [nation]Great Slavyaniya[/nation]: Logistics, Agriculture, Human resources, Natural resources.
 
-[nation]UnshiftedStorm[/nation]: Air forces.
+[nation]UnshiftedStorm[/nation]: Air forces, Science
 
 [nation]Stahn[/nation]: Ground forces, Arts, Production.
 
-Duties, that are available: Science, Diplomacy, Special forces and espionage, Strategic warfare, Enviromental protection.
+Duties, that are available: Diplomacy, Special forces and espionage, Strategic warfare, Enviromental protection.
 
 Each person may have a maximum of four duties.

@@ -7,7 +7,7 @@ Adviser: [nation=short]Norskia[/nation]
 Chairman: [nation=short]Mundimundi[/nation]
 Secretary of Recruitment: [nation=short]Zwotstyg[/nation]
 Foreign Minister: [nation=short]The Federation of Zera[/nation]
-Ambassador Committee: [nation=short]Raxia[/nation]
+Ambassador Committee: Unoccupied
 
 [b][u]WA Members:[/u] Please endorse our current delegate, [nation=short]Xin Prussia[/nation].[/b]
 

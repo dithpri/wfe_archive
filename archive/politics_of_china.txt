@@ -11,7 +11,7 @@ _______________________________________________________________________
 [nation]National Peoples Congress of China[/nation]
 
 [b]Executive of China:[/b]
-[nation]State Council of China[/nation]
+[nation]-State Council of China-[/nation]
 
 [b]Military of China:[/b]
 [nation]Central Military Commission of China[/nation]

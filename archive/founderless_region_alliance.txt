@@ -7,13 +7,13 @@
 
 Arch Chancellor -- [nation=short]Flowering Staplers[/nation]
 
-Vice Chancellor -- [i]To be appointed[/i]
+Vice Chancellor -- [nation=short]Guy[/nation]
 
 Chief of Defence Force -- [nation=short]Karputsk[/nation]
 
 Intelligence Minister -- [nation=short]Guy[/nation]
 
-Regional Liaison Officer -- [nation=short]Azerzia[/nation]
+Regional Liaison Officer -- [nation=short]The Saturnian Republic[/nation]
 
 Speaker of the Assembly -- [nation=short]Ironicness[/nation]
 
