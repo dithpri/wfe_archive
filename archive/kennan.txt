@@ -1,25 +1,24 @@
 [color=red][b]Important Links[/b][/color]
-[url=http://goo.gl/rahj3]Offsite Forums[/url] | [url=http://oi44.tinypic.com/2vj77f9.jpg]Regional Map[/url] | [url=http://goo.gl/R5WY6a]Poll[/url]
+[url=http://goo.gl/rahj3]Offsite Forums[/url] | [url=http://oi44.tinypic.com/2vj77f9.jpg]Regional Map[/url] | [url=http://goo.gl/TbFOUa]Poll[/url] | [url=http://goo.gl/uvT6K9]NS++[/url]
 
 [color=orange][b]Regional Updates[/b][/color]
 [list]
 [*][url=http://goo.gl/ncqAFS]Resolution #67[/url].
 [*][url=http://goo.gl/sbsnv0]Resolution #68[/url].
-[*][url=http://goo.gl/E8Gnxr]Resolution #69[/url].
-[*]Telegram [nation=short]Ethan Foley[/nation] for consideration to be the Chairman of the KRC.
+[*][url=http://goo.gl/E8Gnxr]Resolution #69[/url]
 [/list]
 
 [color=blue][b]Kennan Secretary Council[/b][/color]
-[b]Administration:[/b] [nation]Samukan[/nation]
-[b]Defense:[/b] [nation]Ethan Foley[/nation]
+[b]Administration:[/b] [nation=short]Samukan[/nation]
+[b]Defense:[/b] [nation=short]Ethan Foley[/nation]
 [b]Education:[/b]
-[b]Environment:[/b] [nation]United Solcialist States of Jakeopia[/nation]
-[b]Foreign Affairs:[/b] [nation]Sandwich Territories[/nation]
-[b]Human Rights:[/b] [nation]Hackleberry Islands[/nation]
-[b]Law Enforcement:[/b] [nation]Militarized Helghan[/nation]
+[b]Environment:[/b] [nation=short]United Solcialist States of Jakeopia[/nation]
+[b]Foreign Affairs:[/b] [nation=short]Sandwich Territories[/nation]
+[b]Human Rights:[/b] [nation=short]Hackleberry Islands[/nation]
+[b]Law Enforcement:[/b] [nation=short]Militarized Helghan[/nation]
 
 [color=blue][b]Chairmen[/b][/color]
-[b]KRC:[/b]
-[b]KU:[/b] [nation]Ethan Foley[/nation] 
-[b]KRP:[/b] [nation]Sandwich Territories[/nation]
-[b]KSC:[/b] [nation]The Azerian Empire[/nation]
+[b]KRC:[/b] [nation=short]Hackleberry Islands[/nation]
+[b]KU:[/b] [nation=short]Ethan Foley[/nation] 
+[b]KRP:[/b] [nation=short]Sandwich Territories[/nation]
+[b]KSC:[/b] [nation=short]The Azerian Empire[/nation]

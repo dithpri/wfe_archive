@@ -1,1 +1,6 @@
-[b][color=blue]This region is a Puppet Storage of [region]The Ancient Empires of the World[/region]. Puppet flooding allowed here.[/color][/b]
+Puppet storage of [region]The Ancient Empires of the World[/region].
+
+Puppet flooding allowed here.
+
+
+RESTRICTED
