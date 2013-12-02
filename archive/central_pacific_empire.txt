@@ -4,11 +4,11 @@
 
 Prime Minister: [nation]Aanon Bay[/nation]
 
-Minister for Interior Affairs: [nation]Norton Island[/nation]
-Minister for Foreign Affairs: [nation]Ichaland[/nation]
-Minister for Justice: [nation]Tanga[/nation]
-Minister for Recruitment and Citizenship: [nation]Bankstown City[/nation]
-Minister for Defence: [nation]Faikliren[/nation]
+Minister for Interior Affairs: [nation]Forssaland[/nation]
+Minister for Foreign Affairs: [nation]Tanga[/nation]
+Minister for Justice: [nation]Faikliren[/nation]
+Minister for Recruitment and Citizenship: [nation]Ichaland[/nation]
+Minister for Defence: [nation]Norton Island[/nation]
 
 [b]JUDICIARY[/B]
 

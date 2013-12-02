@@ -3,4 +3,4 @@ Puppet storage of [region]The Ancient Empires of the World[/region].
 Puppet flooding allowed here.
 
 
-RESTRICTED
+[b][color=red]RESTRICTED[/color][/b]

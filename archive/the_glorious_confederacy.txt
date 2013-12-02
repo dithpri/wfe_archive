@@ -1,19 +1,14 @@
-Welcome to The Glorious Confederacy! A region formed in defence of aggressors!
+Welcome to the Glorious Confederacy
 
-[u]Danger Levels:[/u]
+[u]Danger Level:[/u]
 
-[color=green]Green[/color]= No danger
+[color=green] Green = No Danger[/color]
+[color=yellow]Yellow=Low[/color]
+[color=amber]Amber = Medium[/color]
+[color=orange]Orange =  High[/color]
+[color=red]Red=  Immediate Danger[/color]
+[color=purple]Purple = Region Wide Evacuation Necessary[/color] 
 
-[color=yellow]Yellow[/color]=Mild
+Current Danger Level: [color=red]Immediate Danger[/color]
 
-[color=amber]Amber[/color]=Moderate
-
-[color=orange]Orange[/color]=High 
-
-[color=red]Red[/color]= Immediate Danger
-
-Current Danger Level: [color=red] Immediate Danger [/color]
-
-[u]Reason:[/u]
-
-Our independence is currently being threatened by the expansionist nations of the FPPCIE and its allies  who call themselves &amp;quot;New Rome&amp;quot;. We welcome aid from any and all.
+Reason: The danger level has been raised due to threats from the FPPCIE.

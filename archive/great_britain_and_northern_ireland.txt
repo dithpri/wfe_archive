@@ -1,13 +1,17 @@
-[color=006600]Welcome to [b]Great Britain and Northern Ireland[/b]
-
+[list][color=000099]Welcome to [b]Great Britain and Northern Ireland[/b]
+[/color][color=003366]
 FACTS
-Capital: London
-Independence: 927 (union of English Kingdoms); 1284 (with Wales); 1707 (with Scotland); 1801 (with Ireland)
-Head of State: Queen Elizabeth II (1952 Feb 6)
-Head of Government: Prime Minister David Cameron (2010 May 11)
-Area: 243,610 sq km (excludes Overseas Territories)
-Population: 62,698,362 (2011 Jul est)
-
-GOD SAVE THE QUEEN
-
-Allied with [region=United States of America][/color]
+[b]Capital:[/b] [region=Greater London] ([region=Westminster])
+[b]Independence:[/b][list]927 (union of English Kingdoms);
+1284 (with Wales);
+1707 (with Scotland);
+1801 (with Ireland)[/list][b]Head of State:[/b] Queen Elizabeth II (1952 Feb 6)
+[b]Head of Government:[/b] Prime Minister David Cameron (2010 May 11)
+[b]Area:[/b] 243,610 sq km (excludes Overseas Territories)
+[b]Population:[/b] 62,698,362 (2011 Jul est)
+[/color][color=009900]
+[b]Allied with:[/b][list][hr][region=Ancient Lands]
+[region=United States of America][/list][b]Associated with:[/b][list][hr][region=Alba] (Scotland)
+[region=British Overseas Territories]
+[region=Norlin Airlan] (Northern Ireland)
+[region=Wales Cymru][/color][color=660000][/list][hr][b]GOD SAVE THE QUEEN[/b][/color][/list]

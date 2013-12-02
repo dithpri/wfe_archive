@@ -1,15 +1,6 @@
-[b][color=pink]This region has not been ransacked and attacked by [region]The Black Hawks[/region]! 
+[b]This region is now [color=blue]under the protection[/color] of [region]The Ancient Empires of The World[/region] from [color=red]The Black Hawks[/color].[/b]
+[i]The previous Factbook Entry and flag is not in our database. Therefore, we will use it to display a public message until someone who knows what it was speaks up. Before next update would be nice...[/i]
 
-No need to fear the skies![/color]
+[u]To The Black Hawks[/u]: This is simply a warning message. No doubt you&amp;#39;ll be back, once your officers finally decide to wake up and take to the skies again. Until then, I believe that this is ours. Correct me if I am mistaken.
 
-Hawks failing to fly the Colors:
-
-[nation]Mallorea[/nation]
-[nation]Kothic Hawk[/nation]
-[nation]Venico[/nation]
-[nation]Gestahliam[/nation]
-[nation]Suchasmallthing[/nation]
-[nation]Socialist Ecuador[/nation]
-
-[color=blue]Un-Ban the Natives! Help the Fendas! Support the Region![/color]
-[/b]
+This region will be restored after it is password-protected.

@@ -7,7 +7,7 @@
 [color=grape]Justices:[/color][nation=short]Vasuvius[/nation], [nation=short]Ambruss[/nation], [nation=short]Midland South States[/nation]
 [color=grape]Recruitment Officer:[/color][nation=short]Ambruss[/nation]
 
-[color=purple]The IAU is a sister region to:[/color]
+[color=purple]The IAU is a brother region to:[/color]
 [region]International Northern Union[/region],
 [region]International Southern Union[/region],
 [color=purple]And our mother region,[/color] [region]International Western Union[/region].
