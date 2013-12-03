@@ -1,10 +1,11 @@
-Government: 
 Emperor 
-Prime Minister
-WA delegate 
+Prime Minister 
+Minister of Sovereignty 
 Minister of Information 
-Minister of State Affairs 
-Minister of sovereignty Affairs 
+Minister of Defense
 
-Legislator 
-New Republican Council: all members have a seat on the NRC
+Grand Republican Council
+Chairmen of the GRC
+
+Supreme Court
+3 court justices one of whom is head of the Supreme Court 

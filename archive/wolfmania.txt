@@ -12,5 +12,5 @@ Minister of Foreign Affairs:
 Role-Playing Adviser:
 
 [b]&#149; Military:
-&#149; Allies:
+&#149; Allies:[region]HYDRA[/region]
 &#149; Regional Emergency Level:[/b] DEFCON 1

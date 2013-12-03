@@ -1,7 +1,5 @@
-[color=gold][i][b]Welcome to the New Roman Empire![/b][/i][/color]
+[B][color=gold][i]Welcome to the New Roman Empire![/i][/color]
 
-[color=purple][b]We bring the glory of Rome to wherever we march!
-We must expand civilization and culture as we become an empire in Nationstates![/b]
-[hr]
-[b]Emperor: [i][nation=shortname]Caivs Ivlivs Caesar[/nation][/i]
-[/color][/b]
+[color=purple]We bring the glory of Rome to wherever we march!
+We must expand civilization and culture as we become an empire in Nationstates!
+[hr]Emperor: [nation]Caivs Ivlivs Caesar[/nation][/color][/B]
