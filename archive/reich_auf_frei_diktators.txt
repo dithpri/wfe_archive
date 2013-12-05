@@ -10,10 +10,10 @@
 
 [nation]Mansoria[/nation] [Founding Nation]
 [nation]Ostkaltwald[/nation] [Founding Nation]
-[nation]Spookyvillage[/nation]
 
 [b]The RFD used to have the following members: [/b]
 
+[color=red]The Protectorate of Spookyvillage[/color]
 [color=red]The Colony of Ardendash[/color] 
 [color=red]The Colony of Waldkaltost[/color]
 [color=red]The Colony of Revadune[/color] 

@@ -3,8 +3,8 @@
 [b][color=red]Government:[/color][/b]
 [hr]
 [b][color=yellow]President:[/color][/b] [nation]Casselli[/nation][color=purple][I][/color]
-[b][color=brown]Vice President:[/color][/b] [nation]North Casselli[/nation][color=purple][I][/color]
-[b][color=maroon]Secretary of State:[/color][/b] [nation]South Casselli[/nation][color=blue][F][/color]
+[b][color=brown]Vice President:[/color][/b] OPEN
+[b][color=maroon]Secretary of State:[/color][/b] OPEN
 [b][color=pink]Minister of Defense:[/color][/b] OPEN
 [b][color=hotpink]Minister of Recruitment :[/color][/b] OPEN
 [b][color=seagreen]Speaker of the House:[/color][/b] OPEN

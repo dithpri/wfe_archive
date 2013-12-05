@@ -8,7 +8,7 @@ Grand Inquisitor - [nation]Autocracy of Equestria[/nation]
 Director of Intelligence - [nation]Cadifor[/nation]
 Lord High Marshal - N/A
 Minister of Foreign Affairs - N/A
-Internal Defense Administrator - N/A
+Internal Defense Administrator - [nation]Stalinist Imperial Union[/nation]
 World Assembly Delegate- N/A
 
 Government Position Roster
@@ -19,7 +19,7 @@ Imperial Military: N/A
 
 Ministry of Foreign affairs: N/A
 
-Internal Defense Administration: N/A
+Internal Defense Administration: 1
 
 World Assembly Offices: N/A
 

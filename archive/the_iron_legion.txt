@@ -19,6 +19,7 @@ Military Operations Directorate of [region]The Fascist Union[/region].
 [u]Dilectum Legionis [Enlisted Corps][/u]
 
 [nation=short]Mense[/nation] Evocati (Sergeant)
+[nation=short]Ldddd[/nation] Evocati (Sergeant)
 [nation=short]Chezek[/nation] Evocati (Sergeant)
 [nation=short]Kolreich[/nation] Evocati (Sergeant)
 [nation=short]Schutztruppe Southeastasia[/nation] Munifex (Private)
@@ -26,5 +27,6 @@ Military Operations Directorate of [region]The Fascist Union[/region].
 [nation=short]Slarvenia[/nation] Munifex (Private)
 [nation=short]NorthEast Alliance[/nation] Munifex (Private)
 [nation=short]Diacurth[/nation] Munifex (Private)
+[nation=short]Herenidge[/nation] Munifex (Private)
 
 [/b]
