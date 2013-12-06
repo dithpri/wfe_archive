@@ -1,16 +1,22 @@
-[b]DEFCON: 1[/b]
-Reason: WAR WITH PANEM
+[b]DEFCON: 5[/b]
+Reason: Peace
 
 [b]Leader:[/b] Mikhail Gusev (Eastern Black Mesa)
-[b]Advisor:[/b]
+[b]Advisor:[/b] Dimitri Zhegelov  (Western Black Mesa)
 [b]Treasurer:[/b] Arnold Rosen (The Whispering Isles)
-[b]Commander of the Armed Forces:[/b]
-[b]Chief of Law Enforcement:[/b]
-[b]Representative:[/b]
+[b]Commander of the Armed Forces:[/b] Mikhail Gusev (Eastern Black Mesa)
+[b]Chief of Law Enforcement:[/b] Josef Barsukov (Eastern Black Mesa)
+[b]Representative:[/b]  Sergei Ivchenko (Eastern Black Mesa)
 
 [b]GDP:[/b] 1,000,000,000,000 Xeniov
 
 [b]Regional Population:[/b] 31 Million
+
+[b]Most Populated Cities:[/b]
+
+1. Vulyk: 5 Million (Eastern Black Mesa)
+2. Vaskajov: 3.5 Million (Western Black Mesa)
+3. Orion: 2.9 Million (The Orion Star)
 
 [b]Nuclear Arsenal:[/b] 
 5,000 10 megaton ICBMs

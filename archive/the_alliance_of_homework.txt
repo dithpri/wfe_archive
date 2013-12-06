@@ -8,7 +8,9 @@ Current Secretary of the Treasury: [nation]NationD[/nation]
 
 [color=grey]Leader of Religion:[nation]Templars the Pope[/nation][/color]
 
-[color=black]Judge of the Supreme Court:[nation]Justness[/nation][/color]
+[color=black]Judge of the Supreme Court:[nation]Justness[/nation]
+
+Campaign Manager of WA Delegates:[nation]Gymnaustia[/nation][/color]
 
 
-[i][b][color=blue]Please Endorse: [nation]Nanashi Zombie[/nation][/color][/b][/i]
+[i][b][color=purple]Please Endorse: [nation]Nanashi Zombie[/nation][/color][/b][/i]

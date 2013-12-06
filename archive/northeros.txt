@@ -6,3 +6,5 @@ Northeros is one of the five known continents in the known world, the others bei
 [nation=New_Marseille]
 [b]Nation of the Treasury[/b]
 [nation=new_united_israel]
+
+[b]Region-wide currency[/b]: Tupismark?

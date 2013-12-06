@@ -1,8 +1,8 @@
-Government:
-WA Delegate: [nation]Lebvern[/nation
+Founder: [nation]Allies States of America[/nation] 
+WA Delegate: [nation]Lebvern[/nation] 
 President:
 Vice-President:
 Justices:
 Recruitment Officer
-Welcome to the International East Union!
-We are a very active region constantly looking for new nations to join. If you have an questions you may telegram our founder or WA Delegate and we will be sure to get back to you.
+Welcome to the [region]International East Union[/region]
+We are a very active region constantly looking for new nations to join. If you have an questions you may telegram our founder or WA Delegate and we will be sure to get back to you.  

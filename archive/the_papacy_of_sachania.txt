@@ -1,6 +1,7 @@
 Founder: [nation]sachania[/nation]
 Delegate:  [nation]imperial jensenia[/nation]
 Vice Delegate: [nation]new sachania[/nation]
+General: [nation]fultenia[/nation]
 
 Language: English, Mandirin
 Currency: Jensen, Empirius, Bux
