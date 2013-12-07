@@ -4,8 +4,8 @@
 
 Prime Minister: [nation]Aanon Bay[/nation]
 
-Minister for Interior Affairs: [nation]Forssaland[/nation]
-Minister for Foreign Affairs: [nation]Tanga[/nation]
+Minister for Interior Affairs: [nation]Tanga[/nation]
+Minister for Foreign Affairs: [nation]Forssaland[/nation]
 Minister for Justice: [nation]Faikliren[/nation]
 Minister for Recruitment and Citizenship: [nation]Ichaland[/nation]
 Minister for Defence: [nation]Norton Island[/nation]

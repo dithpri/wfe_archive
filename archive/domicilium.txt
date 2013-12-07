@@ -9,7 +9,8 @@ Outreach: [nation=short+noflag]The Kanekaeri Islands[/nation]
 Security: [nation=short+noflag]West Consigahria[/nation]
 
 [b][u][color=red]News from the First Legislature[/color][/u][/b]
-11/3:  Congratulations to [nation=short]Gewaltig[/nation] for reclaiming their spot as WA Regional Delegate.
+11/27:  Happy Hannukah!
+12/06:  Christmas plans, anyone?
 
 [b][u]Current Security Status[/b][/u] (underlined is in effect)
 [b][u][color=blue]Safe[/color][/u][/b] | [color=red]Cautioned[/color] | [color=purple]In Danger[/color] | [color=black]Locked Down[/color]

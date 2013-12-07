@@ -1,13 +1,12 @@
-[color=543210][b]St Kitts and Nevis[/b]
-
-[b]Sister Regions:[/b]
-&#149; [region=Saint Christopher]
+[list][color=543210][b]St Kitts and Nevis[/b][/color][hr][color=008080][b]Sister Regions:[/b][list]&#149; [region=Saint Christopher]
 &#149; [region=Saint Christopher and Nevis] 
 &#149; [region=Saint Kitts]
 &#149; [region=Saint Kitts and Nevis] 
+&#149; [region=St Christopher]
+&#149; [region=St Christopher and Nevis]
 &#149; [region=St Kitts]
-&#149; [b]St Kitts and Nevis[/b]
+&#149; [b]St Kitts and Nevis[/b][/list]
 
-REGION
-&#149; a [region=Royal Alliance] region
-&#149; [b]Created:[/b] October 28, 2010[/color]
+[b]ALLIANCE[/b][hr][list]&#149; an [region=Ancient Lands] region
+&#149; [b]Created:[/b] October 28, 2010
+&#149; [b]Caretaker:[/b] [nation=short]Royal House of Windsor[/nation][/color][/list][/list]

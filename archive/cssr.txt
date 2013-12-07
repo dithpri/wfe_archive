@@ -1,7 +1,7 @@
 [color=red][u].:[B]Commonwealth of Soviet Socialist Republics[/b]:.[/u][/color]
 
 [color=red][u]Government[/u]:
-WA Delegate: [nation]Britarvia[/nation]
+WA Delegate: $[nation]Britarvia[/nation]$
 Minister of Foreign Affairs: OPEN
 Minister of Defense: OPEN
 Minister of Intelligence: OPEN[/color]
