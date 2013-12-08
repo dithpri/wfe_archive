@@ -8,4 +8,6 @@ Top Political Freedom State: [nation]New Barvia[/nation]
 Top Civil Rights State: [nation]Bonadon[/nation]
 Top Economical State: [nation]New Barvia[/nation]
 
-Known Hostilities: [color=green]None[/color]
+Known Hostilities: [color=orange]Terrorist and Extremist Threats[/color]
+
+Currently in observed leadership by [nation]Single-Party Socialist State of China[/nation]

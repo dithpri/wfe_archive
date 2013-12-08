@@ -8,7 +8,7 @@ Minister of Defence: [nation=shortname]Ptolemaike Basileia[/nation], [color=purp
 Minister of Justice: [color=red]Vacant[/color]
 Minister of Foreign Affairs: [color=red]Vacant[/color]
 Minister of Immigration: [color=red]Vacant[/color]
-Minister of Communications: [nation=shortname]Sacae[/nation], [color=#0080FF][b]PCP[/b][/color] (officialization pending)
+Minister of Communications: [nation=shortname]Sacae[/nation], [color=#0080FF][b]PCP[/b][/color]
 
 [u][b][color=#0040BF]Supreme Court[/color][/b][/u]
 Lord Chief Justice: [nation=shortname]ShenGuo[/nation]

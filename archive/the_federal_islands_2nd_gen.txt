@@ -3,16 +3,16 @@
 [u]Positions[/u]:
 [i]President[/i]: [nation=short]Crumlark[/nation]
 [i]Vice President[/i]: [nation=short]Conservative Idealism in TFI[/nation]
-[i]General[/i]: [nation=short]Shallowell[/nation]
 [i]Secretary of State and WAD[/i]: [nation=short]Neutricland[/nation]
 [i]Vice WAD[/i]: [color=red][i]VACANT[/i][/color]
+[i]General[/i]: [nation=short]Shallowell[/nation]
 [i]Judge[/i]: [nation=short]Crumlark[/nation]
 [i]Cartographer[/i]: [nation=short]Neutricland[/nation]
 Recruitment Manager: [i][color=red]VACANT[/i][/color]
 [hr]
 [u]Political Party Leaders[/u]:
 [color=green]Liberal[/color]: [Nation=short]Coumba[/nation]
-[color=blue]Conservative[/color]: [color=red][i]VACANT[/i][/color]         
+[color=blue]Conservative[/color]: [nation=short]XxGAMERZxX[/nation]         
 [color=purple]Technocrat[/color]: [nation=short]United Furry Alliance[/nation]
 
 [u]Links[/u]:
