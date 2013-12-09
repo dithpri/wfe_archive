@@ -5,18 +5,19 @@
 [i]Vice President[/i]: [nation=short]Conservative Idealism in TFI[/nation]
 [i]Secretary of State and WAD[/i]: [nation=short]Neutricland[/nation]
 [i]Vice WAD[/i]: [color=red][i]VACANT[/i][/color]
-[i]General[/i]: [nation=short]Shallowell[/nation]
+[i]Marshall[/i]: [nation=short]Shallowell[/nation]
 [i]Judge[/i]: [nation=short]Crumlark[/nation]
 [i]Cartographer[/i]: [nation=short]Neutricland[/nation]
 Recruitment Manager: [i][color=red]VACANT[/i][/color]
 [hr]
 [u]Political Party Leaders[/u]:
-[color=green]Liberal[/color]: [Nation=short]Coumba[/nation]
+[color=green]Liberal[/color]: [nation=short]Coumba[/nation]
 [color=blue]Conservative[/color]: [nation=short]XxGAMERZxX[/nation]         
 [color=purple]Technocrat[/color]: [nation=short]United Furry Alliance[/nation]
 
 [u]Links[/u]:
-[Url=http://thefederalislands2ndgen.createaforum.com/index/php]Our Forum[/Url]
-[url=http://www.nationstates.net/nation=neutricland/detail=factbook/id=12512]Our Map[/Url]
+[url=http://www.nationstates.net/nation=neutricland/detail=factbook/id=12512]Our Map[/url]
+[url=http://www.nationstates.net/nation=neutricland/detail=factbook/id=194569]Our Laws[/url]
 [url=http://www.nationstates.net/nation=neutricland/detail=factbook/id=193682]Current Legislation[/url]
 [url=http://www.nationstates.net/nation=neutricland/detail=factbook/dsubcategory1=109]More About Us[/url]
+[Url=http://thefederalislands2ndgen.createaforum.com/index/php]Our Forum[/Url]

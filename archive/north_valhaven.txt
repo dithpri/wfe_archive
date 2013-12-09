@@ -1,21 +1,18 @@
-[color=red][b][u]North Valhaven[/color][/b][/u]
-[b][i]North Valhaven was founded on the Twenty-Ninth Day of September Two Thousand Thirteen.[/i][/b]
+[color=0000FF][b]Welcome to the region of North Valhaven! (est.: Sept. 29, 2013)[/color][/b]
+____________________________________________________________
+ [color=FFD700][b]The Executive[/color][/b]
+President: [nation=noflag+short]American United Federation[/nation]
+Vice President: [nation=noflag+short]Valyris[/nation]
+Secretary of State: [nation=noflag+short]United States Of Devonta[/nation]
+Secretary of Defense: [nation=noflag+short]Assarius[/nation]
 
-[color=purple][b][u]Regional Government[/b][/u][/color]
-[color=purple][b]Executive Branch[/b][/color]
-[b]President: [nation=noflag]American United Federation[/nation][/b]
-[b]Vice President: [nation=noflag]Valyris[/nation][/b]
-[b]Secretary of State: [nation=noflag]United States of Devonta[/nation][/b]
-[b]Secretary of Defense: [nation=noflag]Assarius[/nation][/b]
+[color=FFD700][b]The Legislature[/color][/b]
+Speaker of the Senate: [nation=noflag+short]Segennea[/nation]
+For a list of Senators, please click [url=http://www.nationstates.net/nation=segennea/detail=factbook/id=194805]here[/url]
 
-[color=purple][b]Legislative Branch[/b][/color]
-[b]Speaker: [nation=noflag]Segennea[/nation][/b]
-[b]Senators: [url=http://www.nationstates.net/nation=antyrica/detail=factbook/id=175972]Here[/url][/b]
-
-[color=purple][b]Judicial Branch[/b][/color]
-[b]Chief Justice: [nation=noflag]Antyrica[/nation][/b]
-[b]Associate Justices: [url=http://www.nationstates.net/nation=antyrica/detail=factbook/id=177438]Here[/url][/b]
-
-[color=green][b][u]Links[/b][/u][/color]
-[b][url=https://docs.google.com/document/d/1fKX_DXl7HSvzUExQWj94Bx7oJcpFkCVAI3WzwCeIB3I/edit]Regional Constitution[/url][/b] | [b][url=http://www.nstracker.net/regions?region=North+Valhaven]NSTracker[/url][/b] | [b][url=http://www.broomdces.com/nseconomy/regions.php?region=North+Valhaven]Regional Economy[/url][/b]
-[b][url=https://www.surveymonkey.com/s/PFR2FFB]Senate Business[/url][/b]
+[color=FFD700][b]The Judiciary[/color][/b]
+Chief Justice: [nation=noflag+short]Antyrica[/nation]
+Associate Justices: [nation=noflag+short]Dea Taurus[/nation], [nation=noflag+short]Neo-Libralis[/nation], [nation=noflag+short]Vatorica[/nation], and One Vacant Seat
+____________________________________________________________
+[color=808080][b]Regional Links[/b][/color]
+[url=https://docs.google.com/document/d/1fKX_DXl7HSvzUExQWj94Bx7oJcpFkCVAI3WzwCeIB3I/edit]Constitution[/url] | [url=northvalhaven.wix.com/northvalhaven]Website[/url] | [url=https://www.surveymonkey.com/s/PFR2FFB]Senate Business[/url]

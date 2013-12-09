@@ -18,7 +18,7 @@ The pristine land of Eos is tucked away in the corner of the Earth.
 
 [b] Department of International Affairs: [/b] [nation=short]YangYu hi[/nation]
 
-[b] Department of State: [/b] [i]Happening Now.[/i]
+[b] Department of State: [/b] [nation=short]The Argent Federation[/nation]
 
 [b] Department of Immigration: [/b] [i] Happening Now. [/i]
 

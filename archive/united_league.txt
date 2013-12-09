@@ -7,16 +7,15 @@ II. Director General:
 Directorate Council:
 III. Legislative Assembly
 Chairman :[nation=short]The Grand Republic of Hannover[/nation]
-Members:[nation=short]Nuverikstan[/nation], [nation=short]Alouite[/nation]
+Members:[nation=short]Nuverikstan[/nation], [nation=short]Alouite[/nation],[nation=short]Uberia[/nation],[nation=short]Grandlnd[/nation]
 IV.The Constitutional Court: 
 Chairman: 
-Justices: [/B]
+Justices: [nation=short]Tisotto[/nation][/B]
 
 [b][color=blue]Regional Info:[/color][/b]
 
-1. Founded: 26th Spetember&amp;#39;2012 as a merger between [region]Transcendence[/region] and [region]The Empire of United Nations[/region]
-2. Constituent regions are [region]Transcendence[/region] (Founded April 26, 2011, by The Imperial Federacy and Zhada) and [region]The Empire of United nations[/region] ( founded by Tisotto in July 24, 2011 ). 
-3. Regional Flag designed by: [nation]Sapien[/nation]
+1. Founded: 26th Spetember&amp;#39;2012 as a merger between [region]Transcendence[/region](Founded April 26, 2011, by The Imperial Federacy and Zhada) and [region]The Empire of United Nations[/region]( founded by Tisotto in July 24, 2011 )
+2. Regional Flag designed by: [nation]Sapien[/nation]
 
 
 

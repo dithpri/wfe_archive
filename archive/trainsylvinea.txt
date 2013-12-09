@@ -1,27 +1,15 @@
 A continent filled with train-countries and vine-countries. Join, the earlier you join, the better your country will be classified. 
 
-World Class Countries (A Grade Countries)
-Percvania (capital-country)
-Vinelands
-Percelands
+[b][u]World Class Countries[/u][/b] [i](A Grade Countries)[/i]
+[color=red][nation=percvania] (capital-country)[/color]
+[nation=vinelands]
+[nation=percelands]
 
-Middle-Class Countries (B Grade Countries)
-Gordvania
-Edwarnia
-Tobvania
-Henrolia
-Thomasgar
-Jamessia
-Emilon
-The Percians
+[b][u]Featured Nation for Trainsylvinea[/u][/b]
+[nation=Jamessia]
+[b]574 million people[/b]
+[b]Civil Rights[/b]: Good
+[b]Economy[/b]:Thriving
+[b]Political Freedoms[/b]:Very Good
 
-Randoms (C Grade Countries)
-Vinesheep
-Lin Jong
-Tony Abbott
-Bok Choy
-
-Enemies at Trainsylvinea Islands
-Clarabelus
-North Owenia
-South Owenia
+You will be put on the Trainsylvinea factbook if you are a good trainsperson. 

@@ -10,7 +10,7 @@ Tokyo released from communist subjugation by:
 [nation=short]Captain Woodhouse[/nation]
 [nation=short]Verborgenen Herrn[/nation]
 
-Additional support provided by troops from [region]The United Aryan Empire[/region], [region]Empire of Japan[/region], [region]Libero[/region], [region]Wewelsburg[/region], [region]The Fascist Union[/region], [region]NAZI EUROPE[/region], [region]The Greater German Reich[/region], [region]Union of Nationalists[/region], [region]The URAP[/region], [region]Nationalist Technate[/region], [region]NationalSozialisten Walkuren Konigreiche[/region], and [region]National Socialist League[/region].
+Additional support provided by troops from [region]The United Aryan Empire[/region], [region]Empire of Japan[/region], [region]Libero[/region], [region]Wewelsburg[/region], [region]The Fascist Union[/region], [region]NAZI EUROPE[/region], [region]The Greater German Reich[/region], [region]Union of Nationalists[/region], [region]The URAP[/region], [region]Nationalist Technate[/region], [region]NationalSozialisten Walkuren Konigreiche[/region], [region]National Socialist League[/region] and [region]NBE[/region].
 
 No tourists.
 All incoming nations: TG the WAD with your known identity.
