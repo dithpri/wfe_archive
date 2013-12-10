@@ -1,12 +1,10 @@
-[b][i]The United League Royal Regional Government[/i][/b]
+[b][i]The United League Regional Government[/i][/b]
 
-[u]His Majesty&amp;#39;s Regional Council[/u]
+[u]The Regional Council[/u]
 
-[b][u]Sovereign Monarch[/u][/b] : [nation]Genivia[/nation]
+[b][u]President[/u][/b] : [nation]Genivia[/nation]
 
-[b][u]Royal Consort[/u][/b]:
-
-[b]Regent[/b] : [nation]Predatorius[/nation]
+[b]Chairman[/b] : [nation]Predatorius[/nation]
 
 [b]Delegate[/b] : [nation]Shaw State[/nation]
 

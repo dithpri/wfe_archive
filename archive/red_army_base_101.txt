@@ -1,12 +1,7 @@
-[color=red][b]This is a training region of [region]the Common Army[/region], consider it as a military base.
+[b][color=#000061]Huzzah! Huzzah! Huzzah! This region proved no match for a charge by [region=The Black Riders]![/color]
 
-Here you will learn some skill needed in regional warfare.
+[color=black]Occupied by [url=http://www.youtube.com/watch?v=qB1kp9adYYE]The Black Riders[/url]! Our lair can be found [/color] [url=http://s4.zetaboards.com/The_Black_Riders/index/]here[/url]
 
-Current General: [nation=shortname]Red Army Nation 1[/nation]
-
-Next Lesson:[/color] [u]How to &amp;quot;Defend&amp;quot; Regions[/u]
-
-[url=http://forum.nationstates.net/viewtopic.php?f=12&amp;amp;t=99173]The Art of Region Warfare[/url]
-
-[i][url=http://www.youtube.com/watch?v=A8qakI4mDII]Let&amp;#39;s Go!!![/url][/i]
-[i][url=http://www.youtube.com/watch?v=NWIZ1XA8f2s]We are the strongest![/url][/i][/b]
+[color=#000061]Into the battle rode the following riders:[/color]
+[nation=short]Kknight[/nation]
+[nation=short]Feuer Ritter[/nation][/b]

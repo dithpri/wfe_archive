@@ -3,9 +3,9 @@
 [color=blue]Region Government[/color]
 Prime Minister: [nation]Qubec[/nation]
 Minister: Open
-Minister of Foreign Affairs: Open
+Minister of Foreign Affairs: [nation]Arendel[/nation]
 Minister of Defense: [nation]The penam republic[/nation]
-Treasurer: Open
+Treasurer: [nation]Lobester hand[/nation]
 WA Delegate: Open
 [url=https://docs.google.com/forms/d/1-JNf6TSgDShT1_uY7vKRuCH5ThF3NKOq0TeqW6eY2-E/viewform]Government Position Application[/url][url=https://docs.google.com/forms/d/17liXlk2kwU-sxQ8vNZEIxgWoXVZ6mIzcZJ_ucqetMl4/viewform]Citizenship Application[/url]
 

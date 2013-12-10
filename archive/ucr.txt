@@ -1,11 +1,7 @@
 [b][color=red][u].:\|/WELCOME TO THE UCR\|/:.[/u][/b]
 
 [u]Government:[/u]
-Master pimp: [nation]Ronacria[/nation]
-Minister of Defense: open
-Minister of Foreign Affairs: open
-Minister of Internal Affairs: open
-Minister of Recruitment: open
+President: [nation]Ronacria[/nation]
 _____________________________
 
 [/color][color=blue][u]News:[/u] Government shutdown ends![/color]

@@ -6,15 +6,13 @@
 [region=Asiana]
 [region=France] (not yet)
 [region=International Republican Union]
-[u]Observers[/u]:
-[region=Guinea Pig Islands]
 
 [u]Other Members[/u]:
-NONE
-
-[u]Membership Applications[/u]:
 [region=Guinea Pig Islands]
 [region=The Council of Free Nations]
+
+[u]Membership Applications[/u]:
+NONE
 
 [u]Member Territories[/u]:
 

@@ -9,8 +9,7 @@ Outreach: [nation=short+noflag]The Kanekaeri Islands[/nation]
 Security: [nation=short+noflag]West Consigahria[/nation]
 
 [b][u][color=red]News from the First Legislature[/color][/u][/b]
-11/27:  Happy Hannukah!
-12/06:  Christmas plans, anyone?
+12/09: All nations are advised to place their NSTracker information in their factbooks.  Nations found in noncompliance will be ejected by Wednesday, December 11th, 2013.
 
 [b][u]Current Security Status[/b][/u] (underlined is in effect)
 [b][u][color=blue]Safe[/color][/u][/b] | [color=red]Cautioned[/color] | [color=purple]In Danger[/color] | [color=black]Locked Down[/color]
