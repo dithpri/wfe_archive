@@ -3,14 +3,14 @@
 [b][u]Government:[/u]
 Founder: [nation]The Great Saints[/nation]
 WA Delegate: [nation]United States of Evison[/nation]
-Prime Minister:[nation]United States of Evison[/nation], EDRP
-Shadow Prime Minister: [nation]Iwata[/nation], DSSP[/b]
+Prime Minister: [nation]iwata[/nation]
+Shadow Prime Minister: N/A[/b]
 
 [color=#FFBF00][b][u]Events:[/u]
 We are currently holding a competition to make the regions flag more Christmassy. Send all entries to [nation=short+noflag]the great saints[/nation].[/b][/color] 
 
 [b]We recommend that for more info please read the following factbooks:
-Political parties:
-[url=nation=iwata/detail=factbook/dsubcategory1=104]The DSSP[/url] ~~ [url=nation=United States of Evison/detail=factbook/dsubcategory2=104]The EDRP[/url] 
+Political party:
+[url=nation=iwata/detail=factbook/dsubcategory1=104]The DSSP[/url]
 Other useful Factbooks:
 [url=nation=the_great_saints/detail=factbook/dsubcategory1=109]Region Guide[/url] ~~ [url=nation=bostonians/detail=factbook]The Market[/url][/b]

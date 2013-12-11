@@ -3,9 +3,9 @@
 [b][color=blue]The United League Government[/color][/b]
 
 [B]I. Executive Director: [nation=short]Sapien[/nation]
-II. Director General: 
-Directorate Council:
-III. Legislative Assembly
+II. Directorate Council:
+Director General:[nation=short]Audolf Hipler[/nation] 
+III. Legislative Assembly:
 Chairman :[nation=short]The Grand Republic of Hannover[/nation]
 Members:[nation=short]Nuverikstan[/nation], [nation=short]Alouite[/nation],[nation=short]Uberia[/nation],[nation=short]Grandlnd[/nation]
 IV.The Constitutional Court: 
