@@ -10,10 +10,12 @@ This is the [i]only[/i] rule in New Sheoth:
 
 Court of Madness:
 
-[b]Duke of Mania[/b]: [nation]Wuth Keizaal[/nation]
+[b]Duke of Mania[/b]: [nation=short]Wuth Keizaal[/nation]
 
-[b]Duchess of Dementia[/b]: [nation]Takeo Kokka[/nation]
+[b]Duchess of Dementia[/b]: [nation=short]Takeo Kokka[/nation]
 
-[b]Gatekeeper[/b]: [nation]Blood Letters[/nation] 
+[b]Gatekeeper[/b]: [nation=short]Blood Letters[/nation] 
+
+[b]Military Leader[/b]: [nation=short]Dragon Priest Miraak[/nation]
 
 Now come back soon, OR I&amp;#39;LL PLUCK OUT YOUR EYES!! 

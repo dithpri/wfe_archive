@@ -10,7 +10,7 @@ The pristine land of Eos is tucked away in the corner of the Earth.
 
 [b] Chief of Ministry [/b]:[nation=short]KungYo[/nation]
 
-[b] Department of Defense: [/b] [i]Happening now.[/i]
+[b] Department of Defense: [/b] [nation=short]Militcom[/nation]
 
 [b] Department of Public Relations: [/b][nation=short]Kingston-Atlantis[/nation]
 
@@ -20,7 +20,7 @@ The pristine land of Eos is tucked away in the corner of the Earth.
 
 [b] Department of State: [/b] [nation=short]The Argent Federation[/nation]
 
-[b] Department of Immigration: [/b] [i] Happening Now. [/i]
+[b] Department of Immigration: [/b] [nation=short]Laughing Peninsula[/nation]
 
 [hr]
 

@@ -1,6 +1,8 @@
-[b][color=red]Restricted Military Installation[/color][/b]
+[b][color=red]Restricted Area - Military Installation # 5[/color][/b]
 
 [b]Base Commander: [nation]Knights Errant[/nation][/b]
 [b]Military Commander: [nation]The Tribunic Empire[/nation][/b]
 
-[b][color=blue]Our Motto:  [/color]Mess with the best, die like the rest![/b]
+[b]Our Motto: [color=blue]Mess with the best, die like the rest![/color][/b]
+
+[b]Our Prime Directive: [color=red] Crush our enemies, see them driven before us, and hear the lamentations of their women![/color][/b]
