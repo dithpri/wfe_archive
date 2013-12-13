@@ -6,10 +6,10 @@ WA Delegate: [nation=short]Xin Prussia[/nation] (SUP)
 Adviser: [nation=short]Luso[/nation] (SUP)
 Chairman: [nation=short]Mundimundi[/nation]
 Secretary of Recruitment: [nation=short]Zwotstyg[/nation]
-Foreign Minister: [nation=short]The Federation of Zera[/nation]
+Foreign Minister: [nation=short]The Federation of Zera[/nation] (SUP)
 Ambassador Committee: --
 
-[b][u]WA Members:[/u] Please endorse our current delegate, [nation=short]Xin Prussia[/nation].[/b]
+[b][u]WA Members:[/u] Please endorse our WA delegate, [nation=short]Xin Prussia[/nation].[/b]
 
 
 [u]Sister regions of the INU:[/u]

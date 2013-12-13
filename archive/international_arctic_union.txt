@@ -4,8 +4,8 @@
 [Color=grape]WA Delegate:[/color][nation=short]Midland South States[/nation]
 [color=grape]President:[/color][nation=short]Vyrsar[/nation]
 [color=grape]Vice-President:[/color][nation=short]Sillyton[/nation]
-[color=grape]Justices:[/color][nation=short]Vasuvius[/nation], [nation=short]Ambruss[/nation], [nation=short]Midland South States[/nation]
-[color=grape]Recruitment Officer:[/color][nation=short]Ambruss[/nation]
+[color=grape]Justices:[/color][nation=short]Vasuvius[/nation], [nation=short]Midland South States[/nation]
+[color=grape]Recruitment Officer:[/color][nation=short]NOW HIRING[/nation]
 
 [color=purple]The IAU is a brother region to:[/color]
 [region]International Northern Union[/region],

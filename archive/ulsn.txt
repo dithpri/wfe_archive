@@ -10,9 +10,12 @@ The Six Great Nations are(In order of rank):
 [nation]Glazia[/nation]
 [nation]Goofle[/nation]
 
-The only Colony right now is:
+The Colonies right now are:
 [nation]Raikaze[/nation]
+[nation]Mizuleo[/nation]
 
-The only slave nation right now is:
+The slave nations right now are:
 [nation]Seifkaep[/nation]
+[nation]Snugg[/nation]
+[nation]Cherrolo[/nation]
 

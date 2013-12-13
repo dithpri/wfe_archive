@@ -10,4 +10,4 @@ TNI Division Commander: Major-General [nation=short+noflag]Joshannia[/nation]
 LKE Division Commander: Major-General [nation=short+noflag]Valfor[/nation]
 Albion Division Commander: Major-General [nation=short+noflag]Consular[/nation]
 
-Adjutant Commanders: Brigadier [nation=short+noflag]Cephal Talleyrand[/nation] &amp;amp; Brigadier [nation=short+noflag]Cerian Quilor[/nation]
+Adjutant Commanders: Brigadier [nation=short+noflag]Cephal Talleyrand[/nation]

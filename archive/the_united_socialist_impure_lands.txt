@@ -1,13 +1,12 @@
-[i]High Council of The Impure Lands:[/i]
+[i]Senior Officials of The Chowine Empire:[/i]
+[b]Supreme Leader:[/b] [nation]Crucania[/nation]
+[b]Chancellor:[/b] [nation]The Democratic Peoples Union[/nation]
+[b]Vice-Chancellor:[/b] [nation]Rukiah[/nation]
+[b]General of Military Operations:[/b] [nation]Phlegathon[/nation]
+[b]Minister for Propaganda:[/b] OPEN
+[b]Leader of the Regional Secret Police:[/b] [nation]The Empty[/nation]
 
-[b]President of the High Council: [/b][nation]Arvenarius[/nation]
-[b]Secretary of State:[/b] [nation]Rukiah[/nation]
-[b]Master of Intelligence:[/b] [nation]Phlegathon[/nation]
-[b]Master of Arms:[/b] OPEN
-[b]Treasurer:[/b] [nation]The Empty[/nation]
-
-[i]Cabinet of The Impure Lands:[/i]
+[i]Lower Officials of The Impure Lands:[/i]
 
 [b]Foreign Affairs Minister:[/b] [nation]Nadie[/nation]
 [b]Internal Affairs Minister:[/b] [nation]Greybels[/nation]
-[b]Historical Analyst:[/b] OPEN

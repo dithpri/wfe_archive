@@ -1,0 +1,17 @@
+Region Government
+
+President: [nation]Qubec[/nation]
+Vice President: Position Open
+Secretary of Defense: Position Open
+Secretary of Finance: Position Open
+Secretary of Foreign Affairs: [nation]Lobester hand[/nation]
+
+Region Security:
+
+Region DEFCON: 5 (full peacetime)
+
+Borders: Open
+
+Password: off
+
+RP of the week: Will be picked next week
