@@ -1,10 +1,4 @@
-The London Alliance was an alliance between three most noble regions:
-
-The New Pact
-The New Entente
-Benevolent Capitalism
-
-After the collapse of The New Entente, the alliance failed. Eventually, the remains of The New Entente merged with The New Pact, and the region was immediately plunged into danger when The Black Riders invaded The NSUN, and the region was forced to fight against these intruders most evil along with forces from the NGA and the GR.
+The London Alliance was an alliance between three most noble regions, and after the collapse of The New Entente, the alliance failed. Eventually, the remains of The New Entente merged with The New Pact, and the region was immediately plunged into danger when The Black Riders invaded The NSUN, and the region was forced to fight against these intruders most evil along with forces from the NGA and the GR.
 
 After the occupying forces were driven out, The NSUN was given, by the people of The NGA, to The London Alliance, and immediately, [nation=frezland] set to work re-founding the alliance.
 
@@ -12,3 +6,7 @@ The alliance now consists of:
 
 [region=The New Pact]
 [region=Benevolent Capitalism]
+
+[B][color=blue]The NLA Agents are:[/color][/B]
+
+[nation]Renolda[/nation]

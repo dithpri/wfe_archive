@@ -11,7 +11,7 @@ Council Leader-[nation]Hypora[/nation]
 Council-[nation]Luicia[/nation],[nation]Forsaken lands[/nation],[nation]Redtowel[/nation],[nation]Seceret[/nation],[nation]UDCA[/nation]
 
 Allies:
-[region]New Communist Region[/region]
+[region]Communist Region[/region]
 [region]a non fixed location in paradox space[/region]
 [region]Self Preservation Society[/region]
 

@@ -1,4 +1,5 @@
-[b][color=grey][u]Welcome to the IOTGF[/u][/color][/b]
-[hr]
-[b]The IOTGF[/b] is a region residing in the world called [b]Merun[/b]. 
+[b][color=grey]Welcome to the IOTGF[/color][/b]
 
+The IOTGF is a region residing on a world called [b]Merun[/b].
+
+[i]A puppet storage region.[/i]

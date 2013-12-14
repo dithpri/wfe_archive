@@ -1,20 +1,22 @@
-The ULSN, is a group made by six different nations.
-Here, you will see these six along with colonies or
-slave nations, or extra members.
+The ULSN, is a puppet storage region, owned by [nation=short+noflag]Appleo[/nation]
+as a place to keep its puppets, which they all seem
+to have no use whatsoever.
 
-The Six Great Nations are(In order of rank):
+Owner:
 [nation]Appleo[/nation]
+
+Five Great Nations:
 [nation]Sickistio[/nation]
 [nation]Bakushin[/nation]
 [nation]Feronite[/nation]
 [nation]Glazia[/nation]
 [nation]Goofle[/nation]
 
-The Colonies right now are:
+Colonies:
 [nation]Raikaze[/nation]
 [nation]Mizuleo[/nation]
 
-The slave nations right now are:
+Slave Nations:
 [nation]Seifkaep[/nation]
 [nation]Snugg[/nation]
 [nation]Cherrolo[/nation]

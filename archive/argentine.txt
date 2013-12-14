@@ -1,16 +1,1 @@
-[u][b]REPUBLICA ARGENTINA[/b][/u]
-
-[b][color=46c7c7]##############
-##############[/color]
-[color=ece7e6]######[/color][color=fa9b3c]##[/color][color=ece7e6]######[/color]
-[color=46c7c7]##############
-##############[/color][/b]
-
-[b]Undergoing revolutionary transformation.[/b]
-
-[b][u]Regiones aliadas:[/u][/b]
-[region]Republica de Colombia[/region] 
-[region]Bundesrepublik Deutschland[/region] 
-[region]Munchen[/region]
-[region]Sucre[/region]
-[region]Santiago de Chile[/region]
+Argentine
