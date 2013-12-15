@@ -1,6 +1,7 @@
 [b][color=black][u]Dreim&auml;chtepakt / Nichidokui Sangokudomei / Patto Tripartito / H&aacute;romhatalmi Egyezm&eacute;ny / Pactul Tripartit / Pakt Troch Vel&amp;#39;moc&iacute; / Tristranen pakt / Trojni Pakt[/color][/u][/b]
 
 [region]The Greater German Reich[/region]
+[region]The Great Japanese Empire[/region]
 [region]The Kingdom of Italy[/region]
 [region]The Kingdom of Hungary[/region]
 [region]The Kingdom of Romania[/region]
@@ -12,5 +13,7 @@
 [region]The URAP[/region]
 [region]NBE[/region]
 [region]Zarathustra[/region]
-[region]White Pride World Wide[/region]
+[url=http://www.nationstates.net/region=empire_of_japan]The Empire of Japan[/url]
+[region]SFSR[/region]
+[region]Williams Army[/region]
 [region]The Free Nations[/region]

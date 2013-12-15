@@ -7,8 +7,8 @@ FOUNDER :[nation=Rahulistan]
 GRAND CHANCELLOR: [nation=Great Britain and New Zealand]
 
 
-
-
-BLACK RIDERS,COHORTS AND SYMPATHISERS ARE BANNED
+Vassals Of The Great Region:
+[region=Kingdom Of Bahrain]
+[region=Sultanate Of Oman]
 
 
