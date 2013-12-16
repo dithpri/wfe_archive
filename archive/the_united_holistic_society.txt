@@ -12,6 +12,6 @@ Secretary of Commerce:N/A
 Secretary of Agriculture:[nation=noflag]The New Luna Empire[/nation]
 Secretary of Industry:N/A
 
-[b]Active Wars Between Nations in U.H.S.:[/b] None
+[b]Active Wars Between Nations in U.H.S.:[/b] [nation=noflag]Mondades[/nation] VS. [nation=noflag]The Squrtle Squad[/nation]
 [b]Enemies:[/b] None
 [b]Known Rivals:[/b] None

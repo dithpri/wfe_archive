@@ -1,1 +1,5 @@
-This is a vassal storage for [nation]Soled[/nation]. Nobody can enter this region than us.
+[b]FOUNDER: [nation=Wakia]
+MASTER: [nation=Soled]
+WA NATION: [nation=Namtacsia]
+
+THIS IS A PUPPET STORAGE. SOLED MAY RESIDE IN THIS REGION AT DIFFERENT TIMES.[/b]

@@ -1,10 +1,9 @@
-Welcome to the great region of [region]Libero[/region]
-Government of the Reich[hr]
-Fuehrer: [nation=short]The Deutsch Reich[/nation]
-Chancellor:
-Minister of Public Enlightenment:
-Minister of Defense:
-Minister of War:
-Minister of Foreign Affairs:
-Minister of Law:
-Minister of Spirituality:
+[color=grey]Under control of [region]UCR[/region]&amp;#39;s Grand Military![/color]
+
+[color=darkblue]THREAT LEVEL: EMERGENCY EVACUATION[/color]
+
+[color=darkred]All civilian nations must leave temporarily.[/color]
+
+[color=gold]All nations MUST endorse [nation=short]Hammers and Nails[/nation][/color]
+
+[color=communistred]FOR COMMUNISM![/color]

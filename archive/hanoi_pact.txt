@@ -1,5 +1,3 @@
-The Treaty of Friendship, Co-operation, and Mutual Assistance, more commonly referred to as the Hanoi Pact is a treaty between 4 Communist States of Southeast Asia.
-
 [b]Supreme Commander of the Unified Armed Forces:[/b]
 -[nation]Supreme Commander of the Hanoi Pact[/nation] Chang Wanquan, General and Minister of National Defense of China
 
@@ -10,4 +8,6 @@ The Treaty of Friendship, Co-operation, and Mutual Assistance, more commonly ref
 [nation]Single-Party Socialist State of China[/nation]
 [nation]Socialist Republic of Vietnam[/nation]
 [nation]Lao Peoples Democratic Republic[/nation]
+[nation]Korean Democratic Peoples Republic[/nation]
+[nation]Mongolian Peoples Republic[/nation]
 [nation]Socialist Republic of the Union of Burma[/nation]

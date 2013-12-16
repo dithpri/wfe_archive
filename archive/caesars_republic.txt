@@ -5,7 +5,7 @@ Welcome to [region]Caesars Republic[/region]! In this region, we strive to achie
 [color=red]Consul[/color](Military Executive): [nation]The Roman Eagle[/nation]
 [color=blue]Praetor[/color](Foreign Adviser):[nation]Order of Templars[/nation]
 [color=blue]Aedile[/color](Civic Adviser):[nation]House of Julii[/nation]
-[color=blue]Legatus[/color](Recruitment): Currently at vote! 
+[color=blue]Legatus[/color](Recruitment): [nation]Leanore[/nation]
 
 Protectorates: [region]British Central Forces[/region]
 Conquered: Please see Factbook of [nation]Tertius Roma[/nation]. 

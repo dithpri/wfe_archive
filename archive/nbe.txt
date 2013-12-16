@@ -14,16 +14,19 @@ Emperor: [nation=short]Desocia[/nation]
 Commissioner: [nation=short]The Imperial Reich[/nation]
 
 Minister of Security: [nation=short]Aristotskia[/nation]
+[color=grey]___________________________________________________________________________________________________________________________[/color]
 
-
-
-
-
-
-
+[color=teal]Immigration Policy: All new nations entering the empire must fill out [url=http://www.nationstates.net/nation=desocia/detail=factbook/id=150986]This Form.[/color][/url]
 [/b]
 
-[color=grey]___________________________________________________________________________________________________________________________[/color]
+
+
+
+
+
+
+
+
 
 [b][color=gold]Member[/color] of the [region]Right Wing Uprising[/region][/b]
 
