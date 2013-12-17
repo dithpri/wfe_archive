@@ -1,8 +1,7 @@
-[color=gold] [b]Welcome to the Citadel!!![/b] [/color]
----------------------------------
-[color=orange] The greatest haven west of the Mississippi River. A land of surprisingly diverse people(and creatures.....and robots) that have the liberty to do virtually anything. Politics and religion take a back seat here at the Citadel. Here bacon and pure randomness are priority. [/color]
----------------------------------
-
+[color=gold] [b]&iexcl;Welcome to the Citadel![/b] [/color]
+-------------------------------------------------------------
+[color=orange]  This is the greatest haven west of the Mississippi River. A land of surprisingly diverse People, Creatures, and Robots; that have the liberty to do virtually anything. [u] Politics and religion[/u] take a back seat here at the Citadel. Here bacon and pure randomness are [u]Priority[/u]. [/color]
+-------------------------------------------------------------
  [i] President/WAD[/i]:[color=red]Vacant[/color]
  [i] Sec. Def.[/i]:[nation]North Fastercat[/nation]
  [i]Sec. Foreign Affairs[/i]:[nation]Torchwood 49[/nation]

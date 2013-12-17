@@ -1,4 +1,4 @@
-Emperor: [nation]Socialist republic of Andrew[/nation]
+General Secretary: [nation]Socialist republic of Andrew[/nation]
 Enforcer: [nation]The Orson Empire[/nation]
 Prime Minister: [nation]Sovjetia[/nation]
 Secretary of Regional Trade and Finance:[nation]Timmy City[/nation] 

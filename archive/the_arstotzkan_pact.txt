@@ -1,18 +1,7 @@
-[b][i]Welcome to The Arstotzkan Pact![/b][/i]
+[b][color=#000061]Huzzah! Huzzah! Huzzah! This region proved no match for a charge by [region=The Black Riders]![/color]
 
-You either have chosen or have been chosen to join the mighty Region of [region]The Arstotzkan Pact[/region].
+[color=black]Occupied by [url=http://www.youtube.com/watch?v=qB1kp9adYYE]The Black Riders[/url]! Our lair can be found [/color] [url=http://s4.zetaboards.com/The_Black_Riders/index/]here[/url]
 
-[b]Security Levels[/b]
-
-[color=orange]Pax Romana[/color] = Peace Time
-[color=orangeyellow]TS[/color] = Threat has been sent by Country/Region
-[color=orangered]IW[/color] = Imminent War
-[color=red]WD[/color] = War has been declared
-[color=blue]PT[/color] = Peace Treaty has been signed
-
-Ministry of Administration
-
-Chief of Administration: [nation]The Arstotzkan State[/nation]
-Secondary of Administration: N/A
-Secretary: N/A
- 
+[color=#000061]Into the battle rode the following riders:[/color]
+[nation=short]General Halcones[/nation]
+[nation=short]Coraxion[/nation][/b]

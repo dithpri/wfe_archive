@@ -5,6 +5,7 @@
 [B]I. Executive Director: [nation=short]Sapien[/nation]
 II. Directorate Council:
 Director General:[nation=short]Audolf Hipler[/nation] 
+Director-Foreign Affairs:[nation=short]Ruhigeland[/nation]
 III. Legislative Assembly:
 Chairman :[nation=short]The Grand Republic of Hannover[/nation]
 Members:[nation=short]Nuverikstan[/nation], [nation=short]Alouite[/nation],[nation=short]Uberia[/nation],[nation=short]Grandlnd[/nation]
@@ -20,5 +21,4 @@ Justices: [nation=short]Tisotto[/nation][/B]
 [b][color=blue]RP:[/color][/b]
 
 1. [url=http://z13.invisionfree.com/United_League/index.php?showtopic=30]Global Recession[/url]
-
 
