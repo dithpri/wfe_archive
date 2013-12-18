@@ -1,10 +1,10 @@
 [i]Senior Officials of The Chowine Empire:[/i]
 [b]Supreme Leader:[/b] [nation]Crucania[/nation]
-[b]Chancellor:[/b] [nation]The Democratic Peoples Union[/nation]
+[b]Chancellor:[/b] [nation]Phlegathon[/nation]
 [b]Vice-Chancellor:[/b] [nation]Rukiah[/nation]
-[b]General of Military Operations:[/b] [nation]Phlegathon[/nation]
+[b]General of Military Operations:[/b] [nation]The Democratic Peoples Union[/nation]
 [b]Minister for Propaganda:[/b] OPEN
-[b]Leader of the Regional Secret Police:[/b] [nation]The Empty[/nation]
+[b]Leader of the Regional Secret Police:[/b] OPEN
 
 [i]Lower Officials of The Impure Lands:[/i]
 

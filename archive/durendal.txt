@@ -10,7 +10,6 @@
 
 [nation=short]Roland I[/nation]: [B][color=#000061]Division Commander[/color][/B]
 
-[nation=short]Defac[/nation]: [B][color=red]Private[/color][/B]
 [nation=short]Elenco[/nation]: [B][color=red]Private[/color][/B]
 [nation=short]Ozyria[/nation]: [B][color=red]Private[/color][/B]
 [nation=short]Middelheim[/nation]: [B][color=red]Private[/color][/B]
@@ -18,6 +17,7 @@
 [nation=short]SPQR123[/nation]: [B][color=red]Private[/color][/B]
 [nation=short]Qazwerty[/nation]: [B][color=red]Private[/color][/B]
 [nation=short]Bathoria[/nation]: [B][color=red]Private[/color][/B]
+[nation=short]Lacooka Merydia[/nation]: [B][color=red]Private[/color][/B]
 
 [B][u]Links to the main raiding region:[/u][/B] 
 

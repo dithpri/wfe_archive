@@ -4,12 +4,12 @@
 Supreme Council: [nation=short]Astrosis[/nation] [b](EXC.)[/b], [nation=short]Othelos[/nation], [nation=short]Ziptron[/nation] (SUP)
 WA Delegate: [nation=short]Xin Prussia[/nation] (SUP)
 Adviser: [nation=short]Luso[/nation] (SUP)
-Chairman: [nation=short]Mundimundi[/nation]
+Chairman: --
 Secretary of Recruitment: [nation=short]Zwotstyg[/nation]
 Foreign Minister: [nation=short]The Federation of Zera[/nation] (SUP)
-Ambassador Committee: --
+Ambassador Committee: [nation=short]Crumstain[/nation], [nation=short]Lolder[/nation]
 
-[b][u]WA Members:[/u] Please endorse our WA delegate, [nation=short]Xin Prussia[/nation].[/b]
+[b][u]WA Members:[/u] Please endorse our delegate, [nation=short]Xin Prussia[/nation].[/b]
 
 
 [u]Sister regions of the INU:[/u]
@@ -22,4 +22,3 @@ Interregional work with the IWU, IAU and ISU is in progress.
 To claim a spot on the map, telegram [nation=short]Zwotstyg[/nation] with a description of the location and a color. All gray areas are available.
 
 [b]Please refrain from posting inappropriate content.[/b]
-

@@ -3,10 +3,10 @@ WA Delegate: [nation]Roski[/nation] (endorse this guy pls)
 
 Senator: [nation]Imperial Republic of Zerinfriom[/nation]
 Ministry of War: [nation]Federationception[/nation]
-Ambassador: [nation]Instrinia[/nation]
+Ambassador: [nation]New Instrinia[/nation]
 Region Superpower: [nation]Roski[/nation]
 Political style: Democracy; Monarchy; Dictatorship
-Allies: [region]The United Nations of New Africa[/region], [region]The Pacific Island Alliance[/region], [region]The Grand Imperial Order[/region], [region]Commonwealth of Elite Nations[/region], and [region]The Northern Hemisphere[/region]
+Allies: [region]The United Nations of New Africa[/region], [region]The Pacific Island Alliance[/region], [region]The Grand Imperial Order[/region], and [region]The Northern Hemisphere[/region]
 Enemies: None
 
 Rules:

@@ -4,7 +4,7 @@
 [Color=red]Emperor:[/color][nation]Yukastania[/nation]
 [Color=gray] Party in Power:[/color] [color=red]Anzian Loyalist Party[/color]
 [Color=red]Chancellor:[/color][nation]Fjormark[/nation]
-[Color=red]Minister of Defense:[/color] [nation]Mallorica[/nation]
+[Color=red]Admiral of the Navy:[/color] [nation]Wutaco[/nation]
 [Color=red]Minister of Foreign Affairs:[/color][nation]Drakokon[/nation]
 [Color=red]Minister of Internal Affairs:[/color] [nation]Brittanican[/nation]
 [Color=red]Magister of Justice:[/color] [nation]Sylvaresta[/nation]

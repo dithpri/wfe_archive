@@ -2,7 +2,7 @@
 
 [u][I][b]Regional Government[/b][/I][/u]
 Vice-Delegate: [nation]Ism[/nation]
-Founder Assistant: N/A
+Founder Assistant: [nation]Kingslot[/nation]
 Ambassador: [nation]Prison Guard[/nation]
 General: [nation]Drangoniov[/nation]
 
