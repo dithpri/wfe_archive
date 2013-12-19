@@ -5,6 +5,6 @@
 
 [i][b]Ministers:[/b][/i]
 [b][color=green]Foreign Relations[/color][/b] -To Be Decided
-[b][color=blue]Defence[/color][/b] -To Be Decided
+[b][color=blue]Defence[/color][/b] [nation]Peoples Republic of Cesarland[/nation]
 [b][color=red]Intelligence[/color][/b] -To Be Decided
-[b][color=purple]Internal affairs and Security[/color][/b] -To Be Decided
+[b][color=purple]Internal affairs and Security[/color][/b] [nation]Xeldrakia[/nation]

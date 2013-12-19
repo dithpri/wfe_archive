@@ -10,4 +10,9 @@ Adviser: [nation=short]Levethian[/nation]
 
 [b][u]WA Members[/u]: Telegram [nation=short]Test1234[/nation] to sign up for the regional military forces, or endorse the current delegate.[/b]
 
+[color=blue][b][u]Shield Alliances[/u]:[/b][/color]
+[region]Green Shield Alliance[/region]
+[region]White Shield Alliance[/region]
+[region]Red Shield Alliance[/region]
+
 [b][u][url=http://w11.zetaboards.com/TAEOTW/index/]The Command Center (forum)[/url][/u] [u][url=http://www.timeanddate.com/worldclock/converter.html]Time Zone Converter[/url][/u][/b]

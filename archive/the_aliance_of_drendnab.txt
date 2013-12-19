@@ -8,7 +8,7 @@
 [b]Minister of Bananas:[nation=short]lactivan[/nation][/b]
 
 [b]Secretary of War:[nation=short]The Remnant States of the Apocalypse[/nation][/b]
-[b]Secretary of Defense:[nation=short]Republic of Distorters[/nation][/b]
+[b]Secretary of Defense:[nation=short]Fury-141[/nation][/b]
 [b]Secretary of Intelligence and Internal Affairs:[nation=short]Aegis VII[/nation][/b]
 
 [b]Supreme Court Head Judge:[nation=short]The Canadian Confederacy of America[/nation][/b]
@@ -20,6 +20,6 @@
 
 [b][color=purple]Elections will be held every [u]OTHER[/u] month.[/b]
 
-[b]Next Election :[u][i]December 1st[/u][/i][/b][/color]
+[b]Next Election :[u][i]February 1st[/u][/i][/b][/color]
 
 [b]Please Endorse WA Delegate [nation=short]The Empire of the Congo[/nation].[/b]

@@ -1,9 +1,5 @@
-The Military Headquarters of [region]Union of Free States[/region].[hr] 
-[b]UFS Territories[/b]: 
-[region]The Union of Democratic States[/region]
-[region]The Great Union of Free States[/region]
-[region]New Pacific Order[/region]
-[region]Greater India[/region]
+PROVINCE of [region]THE BORDURIAN EMPIRE[/region].[hr] 
+
 
 
 
