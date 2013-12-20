@@ -2,7 +2,7 @@
 Chancellor: [nation=short]Conservative Idealism[/nation]
 President: [nation=short]Jollt[/nation] (please endorse)
 Senators: [nation=short]Jay Peterman[/nation] | [nation=short]Northern Prussia[/nation] | [nation=short]The Inklings[/nation]
-Ministers: TBD
+Ministers: [nation=short]Jay Peterman[/nation] | [nation=short]Northern Prussia[/nation] | [nation=short]The Constitutional Land of Freedom[/nation]
 
 [i]Our Alliances
 The [region]REATO[/region] Organization | [url=http://www.chatzy.com/59454748796647]REAGAN Treaty Chat[/url] | [region]The Eternal Alliance[/region][/i]

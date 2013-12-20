@@ -1,9 +1,9 @@
 Welcome to [region]Caesars Republic[/region]! In this region, we strive to achieve those milestones that the Great Empire of Rome once did. 
 
-[color=purple]Censor[/color](WA Delegate):[nation]Tertius Roma[/nation]
+[color=purple]Censor[/color](WA Delegate):
 [color=purple]Emperor[/color](Founder): [nation]Order of the Ashaman[/nation]
 [color=red]Consul[/color](Military Executive): [nation]The Roman Eagle[/nation]
-[color=blue]Praetor[/color](Foreign Adviser):[nation]Order of Templars[/nation]
+[color=blue]Praetor[/color](Foreign Adviser):
 [color=blue]Aedile[/color](Civic Adviser):[nation]House of Julii[/nation]
 [color=blue]Legatus[/color](Recruitment): [nation]Leanore[/nation]
 
