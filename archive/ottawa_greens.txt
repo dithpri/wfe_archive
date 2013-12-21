@@ -18,7 +18,7 @@ You must have to had made your own flag to be the WA Delegate
 [b]Original six:[/b]
 [nation=short]Avarika[/nation]
 [nation=short]NarniaNeverWonderland[/nation]
-[i][B][nation=short]Emory Land[/nation][/B][/i]
+[nation=short]Emory Land[/nation]
 [i][B][nation=short]Bunich[/nation][/B][/i]
 [nation=short]Dagmaer[/nation]
 [nation=short]Gallenport[/nation]

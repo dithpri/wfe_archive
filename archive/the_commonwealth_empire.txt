@@ -22,7 +22,6 @@
 [region]Revolutionary Base[/region]
 [region]Independent Nations[/region]
 [region]Imperial League of Nations[/region]
-[region]Assembly of Sovereign Nations[/region]
 [region]Global Union[/region]
 [region]Grand Union[/region]
 [region]Draconian Alliance[/region]

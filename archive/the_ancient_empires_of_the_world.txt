@@ -10,7 +10,7 @@ Adviser: [nation=short]Levethian[/nation]
 
 [b][u]WA Members[/u]: Telegram [nation=short]Test1234[/nation] to sign up for the regional military forces, or endorse the current delegate.[/b]
 
-[color=blue][b][u]Shield Alliances[/u]:[/b][/color]
+[u]Shield Alliances[/u]:
 [region]Green Shield Alliance[/region]
 [region]White Shield Alliance[/region]
 [region]Red Shield Alliance[/region]
