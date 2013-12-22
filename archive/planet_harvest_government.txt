@@ -23,3 +23,4 @@ SOP Embassy on Planet Harvest Government
 
 
 *Outside the Region
+Planet Harvest Government cannot open an embassy with itself.

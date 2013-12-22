@@ -1,3 +1,5 @@
+[color=red][b]The server will be offline for some time due to corruption of network data. (Mangled commands crashed the system.) This can only be fixed by manually rebooting the server and that may not be possible in the coming days or even weeks.[/b][/color]
+
 [url=http://banaanvraag.nl/]Banaanvraag![/url]
 [url=http://labs.banaanvraag.nl/nationstates/]Analyse Banaanvraag[/url]
 [url=http://labs.banaanvraag.nl/nationstates/chat/]Real-time chat for heated discussions[/url]

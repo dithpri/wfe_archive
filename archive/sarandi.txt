@@ -17,5 +17,6 @@ Kingscross receives a point
 [i]Nations with a positive or negative number of points:[/i]
 
 [nation]astro-tech corporation[/nation] :: +1
+[nation]kingscross[/nation] :: + 1
 [nation]Ninjasko[/nation] :: -1
 

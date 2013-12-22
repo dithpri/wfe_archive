@@ -12,7 +12,7 @@ This is a Medieval time period reigon RULES-
 30 - 50 fail
 0 - 20 epic fail
 
-Regional map - http://u.cubeupload.com/Keloppsburg/be4Zohaan.png (Yes, its misspelled in the link :p)
+Regional map - http://u.cubeupload.com/Keloppsburg/f54Zohaan.png (Yes, its misspelled in the link :p)
 
 Die rollers (Rotate by turn)-
 Keloppsburg
@@ -20,10 +20,10 @@ Jagdalion
 Adronda
 
 Economy-
-76 - 100 +200
-51 - 75 +100
-26 - 50 -100
-1 -25 - 200
+76 - 100 +2000
+51 - 75 +1000
+26 - 50 -1000
+1 -25 - 2000
 multiply winnings by score in investment category
 
 changes to categorys-

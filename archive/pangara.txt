@@ -1,9 +1,1 @@
-[list][b]A RHW Home Region[hr][nation=short]Royal House of Windsor[/nation][/b][/list]
-
-[color=red]A puppet region - sorry, [b]this region is passworded[/b][/color]
-Associated with [region=United States of America] and [nation=short]New Falham[/nation]
-
-[color=orange]No new embassies will be accepted at this time.[/color]
-
-[b]Relocations:[/b]
-[region=Fes]; [region=Dungannon and South Tyrone]; [region=Republic of South Sudan]; [region=Austin] and [region=Maputo]. Not in that order.
+Pangara
