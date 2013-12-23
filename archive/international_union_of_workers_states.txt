@@ -15,9 +15,8 @@
 [nation]Hallorania[/nation]
 [nation]Barbaracx[/nation]
 [nation]Yuzan[/nation]
-[nation=short]Batorvidek[/nation]
+[nation]Batorvidek[/nation]
 [nation]Kavaii[/nation]
-[nation=short]Dontar[/nation]
 [nation]Slakia[/nation]
 
 [hr]

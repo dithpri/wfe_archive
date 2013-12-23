@@ -1,16 +1,18 @@
-[i][b]The Board of Directors[/b][/i]:
+[i][b]Privy Council[/b][/i]:
 
+[b]Delegate[/b]: [nation]Conwy-shire[/nation]
 [b]Secretary of State[/b]: [nation]Bryndonesia[/nation]
 [b]Master of Roleplay[/b]: [nation]Smiths Hill[/nation]
 [b]Chronicler[/b]: [nation]Edrapuria[/nation]
+[b]Auditor of the Exchequer[/b]: position open
+[b]Director of the Secret Police[/b]: [nation]Sussia[/nation]
 
 [b][i]The Cabinet[/i][/b]:
 
-[b]Warden for Internal Relations[/b]: [nation]Bleddynia[/nation]
+[b]Warden for Internal Relations[/b]: [nation]Marnin[/nation]
 [b]Warden for Relations with Knavish Foreigners [/b]: [nation]Quail-umbria[/nation]
-[b]Minister for Military[/b]: [nation]Markham[/nation]
-[b]Minister for Livestock and Woolen Issues[/b]: [nation]Rone5 Empire[/nation]
-[b]Head of Secret Police[/b]: [nation]Conwy-shire[/nation]
+[b]Warden for Militaristic Dispositions[/b]: [nation]Markham[/nation]
+[b]Warden for Agriculture, Horticulture, Livestock and Woolen Issues[/b]: [nation]Rone5 Empire[/nation]
 
 [b]Wiki[/b]:[url=http://dkoti.wikia.com/wiki/]The Democratic Kingdom of the Illawarra Wiki[/url]
 

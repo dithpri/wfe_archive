@@ -6,7 +6,7 @@ Military Capital State: [nation]Bonadon[/nation] [b]|[/b] http://www.nationstate
 Representative State: [nation]Bonadon[/nation]
 Top Political Freedom State: [nation]Bonadon[/nation]
 Top Civil Rights State: [nation]Bonadon[/nation]
-Top Economical State: [nation]New Barvia[/nation]
+Top Economical State: [nation]Bonadon[/nation]
 
 Known Hostilities: [color=orange]Terrorist and Extremist Threats[/color]
 

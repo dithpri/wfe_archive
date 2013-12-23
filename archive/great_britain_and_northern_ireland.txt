@@ -10,7 +10,7 @@ FACTS
 [b]Area:[/b] 243,610 sq km (excludes Overseas Territories)
 [b]Population:[/b] 62,698,362 (2011 Jul est)
 [/color][color=009900]
-[b]Allied with:[/b][list][hr][region=Ancient Lands]
+[b]Allied with:[/b][list][hr][region=Ancient Lands]/[region=Federation of Russia]/[region=the Americas]/[region=World]
 [region=United States of America][/list][b]Associated with:[/b][list][hr][region=Alba] (Scotland)
 [region=British Overseas Territories]
 [region=Norlin Airlan] (Northern Ireland)
