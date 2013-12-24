@@ -11,7 +11,7 @@
 
 Emperor: [nation=short]Desocia[/nation]
 
-Minister of Defense: [color=grey][i]Vacant[/i][/color]
+Minister of Defense: [nation=short]The Imperial Reich[/nation]
 
 Minister of Security: [nation=short]Aristotskia[/nation]
 [color=grey]___________________________________________________________________________________________________________________________[/color]

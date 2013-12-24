@@ -5,5 +5,5 @@
 [b]Lunar Bases[/b]
 
 [nation]The First Nuevo Meshikan Moon Base[/nation] | [i][nation=shortnoflag]Nuevo Meshiko[/nation][/i]
-[nation]IUWS Lunar Base Moloko[/nation] | [i][nation=shortnoflag]Krasniya[/nation]n administration; [nation=shortnoflag]Peihan[/nation], [nation=shortnoflag]Batorvidek[/nation], [nation=shortnoflag]Mongalan[/nation][/i]
+[nation]IUWS Lunar Base Moloko[/nation] | [i][nation=shortnoflag]Krasniya[/nation]n administration; [nation=shortnoflag]Kavaii[/nation], [nation=shortnoflag]Batorvidek[/nation][/i]
 [nation]IUWS Lunar Base Bratstvo Kosmosa[/nation] | [i][nation=shortnoflag]Hallorania[/nation][/i]
