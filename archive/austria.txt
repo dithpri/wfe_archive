@@ -4,5 +4,13 @@ Anyone entering region must only endorse the elected Government.[hr][u]Political
 [u]Government[/u]
 [nation=short]Austria United[/nation] President
 [nation=short]Bregenz[/nation] Chancellor
-[nation=short]Yakimon[/nation] Minister of Foreign Affairs	
-[nation=short]Strudelhund[/nation] Minister of Culture[/b]
+[nation=short]Yakimon[/nation] Minister of Foreign Affairs
+[nation=short]The Austrian State[/nation] Minister of the Interior	
+[nation=short]Strudelhund[/nation] Minister of Culture
+[nation=short]of United Silbania[/nation] Minister of Transportation
+[nation=short]Leoben[/nation] Minister of Finance
+[nation=short]Oesterreichisch-Ungarische Monarchie[/nation] Minister of Education
+
+
+
+[/b]

@@ -1,6 +1,10 @@
-[b][color=blue]This nation has been harvested by [region]Rapture[/region]![/color][/b] The Big Daddies that roam this ruined region invite you to [region]Rapture[/region].
-With the sweat of your brow, Rapture can become your region as well.
-[hr]
-Big Daddies that raided this region!
-[nation=short]Elite-Bouncer 1[/nation]
-[nation=short]Elite-Bouncer 2[/nation]
+[b][color=#000061]Huzzah! Huzzah! Huzzah! This region proved no match for a charge by [region=The Black Riders]![/color]
+
+[color=black]Occupied by [url=http://www.youtube.com/watch?v=qB1kp9adYYE]The Black Riders[/url]! Our lair can be found [/color] [url=http://s4.zetaboards.com/The_Black_Riders/index/]here[/url]
+
+[color=#000061]Into the battle rode the following riders:[/color]
+[nation=short]Feuer Ritter[/nation]
+[nation=short]Suchasmallthing[/nation]
+[nation=short]Coraxion[/nation]
+[nation=short]Doshtopia[/nation]
+[/b]
