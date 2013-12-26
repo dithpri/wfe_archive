@@ -1,10 +1,10 @@
-[b][i]The United League Regional Government[/i][/b]
+[b][i]The United League Royal Regional Government[/i][/b]
 
-[u]The Regional Council[/u]
+[u]The Royal Regional Council[/u]
 
-[b][u]President[/u][/b] : [nation]Genivia[/nation]
+[b][u]Monarch[/u][/b] : [nation]Genivia[/nation]
 
-[b]Chairman[/b] : [nation]Predatorius[/nation]
+[b]Regent[/b] : [nation]Predatorius[/nation]
 
 [b]Delegate[/b] : [nation]Shaw State[/nation]
 
@@ -20,6 +20,6 @@
 
 [b]Justice of The United League Court of Justice[/b] : [nation]Durinmore[/nation]
 
-[u]World Assembly Board[/u]
+[u]Hall of Honour[/u]
 
-[b]Ambassador to the World Assembly[/b] : [nation]Shaw State[/nation]
+[b]Honoured Nations[/b] : [nation]Shaw State[/nation] [nation]Durinmore[/nation] [nation]Star Isles[/nation]

@@ -9,7 +9,7 @@
 
 [u]The Imperial Directorate:[/u]
 
-Emperor: [nation=short]Desocia[/nation]
+Emperor: [nation=short]Rightist America[/nation]
 
 Minister of Defense: [nation=short]The Imperial Reich[/nation]
 
@@ -30,5 +30,5 @@ Minister of Security: [nation=short]Aristotskia[/nation]
 
 [b][url=http://www.nationstates.net/nation=desocia/detail=factbook/id=152924][u]ENLIST IN THE GRANDE ARM&Eacute;E[/u][/url][/b]
 
-[color=red]*Topic of Discussion: Cuban Relations with the U.S/Forum creation[/color]
+[color=red]*Topic of Discussion: Important speech from Desocia. [/color]
 
