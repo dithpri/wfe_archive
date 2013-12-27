@@ -6,4 +6,32 @@ FOUNDER : Alpha Korea
 
 
 Regional Security:
-Safe
+Invaded
+Dangerous
+Threatened
+Watchful
+Safe    &amp;lt;-----
+
+Regional Influence List(highest to lowest)
+
+Hermit
+Hegemony
+Dominator
+Superpower
+Power
+Powerbroker
+Eminence Grise
+Enforcer
+Dealmaker
+Instigator
+Contender
+Negotiator
+Auxiliary
+Ambassador
+Diplomat
+Envoy
+Duckspeaker
+Handshaker
+Truckler
+Vassal
+Minnow

@@ -1,1 +1,17 @@
-Where all Frederictons in NationStates meet. From the Neutral, the Capitalist, the Communist, and the Fascist, all united under Fredericton
+Where all Frederictons in NationStates meet. From the Neutral, the Capitalist, the Communist, and the Fascist, all united under [region]Fredericton[/region].
+
+[b]Neutral[/b]:-
+[nation=short]South Fredericton[/nation]
+[nation=short]The New Fredericton[/nation]
+
+[b]Capitalists[/b]:-
+[nation=short]Great Fredericton[/nation]
+[nation=short]The United Fredericton[/nation]
+
+[b]Communists[/b]:-
+[nation=short]Fredericton Union[/nation]
+[nation=short]Polish Fredericton[/nation]
+
+[b]Fascists[/b]:-
+[nation=short]Nazi Fredericton[/nation]
+[nation=short]Dutch Fredericton[/nation]
