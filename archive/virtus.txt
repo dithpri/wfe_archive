@@ -1,10 +1,7 @@
-[b][color=#000061]Huzzah! Huzzah! Huzzah! This region proved no match for a charge by [region=The Black Riders]![/color]
+[b][color=red]Huzzah! Huzzah! Huzzah! The Black Riders proved no match for a charge by [region=Virtus]![/color]
 
-[color=black]Occupied by [url=http://www.youtube.com/watch?v=qB1kp9adYYE]The Black Riders[/url]! Our lair can be found [/color] [url=http://s4.zetaboards.com/The_Black_Riders/index/]here[/url]
+[color=green]Liberated by [nation=short]Travasia[/nation]! Our lair can be found [/color] [url=http://w11.zetaboards.com/NorthPole/index/]here[/url]
 
-[color=#000061]Into the battle rode the following riders:[/color]
-[nation=short]Feuer Ritter[/nation]
-[nation=short]Suchasmallthing[/nation]
-[nation=short]Coraxion[/nation]
-[nation=short]Doshtopia[/nation]
+[color=red]Into the battle rode the following rider:[/color]
+[nation=short]Travasia[/nation]
 [/b]
