@@ -1,7 +1,8 @@
 World Region
-[b]&amp;quot;I have no idea what to put here.&amp;quot;[/b]
+[b][i]&amp;quot;Asked from what country he came, [Diogenes of Sinope] replied, &amp;#39;I am a citizen of the world.&amp;#39;&amp;quot;[/i][/b]
+- Diogenes La&euml;rtius, [i]The Cynics[/i]
 [hr]
-Regional Government (temporary interim administration during transitional period):
+Regional Governance:
 
 [i]President of the Region[/i]: [nation]The Vaktovian Empire[/nation]
 [i]Head of the Estates General[/i]: [nation]Unicario[/nation]

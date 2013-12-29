@@ -14,7 +14,9 @@
 [nation]Creedson[/nation]
 [nation]Communistic Republic of Ganja[/nation]
 [nation]The United Federation of Astra[/nation]
-[nation]The Union of Catamundo[/nation][/b]
+[/b]
 
-[b][color=darkred]Recently Conquered:[/color][/b]
-[b][region]South Eastern North West[/region][/b]
+[b][color=darkred]Occupied:[/color][/b]
+[b][region]Pear Island[/region]
+[region]Hopesia[/region]
+[region]Colonial Empires Alliance[/region][/b]

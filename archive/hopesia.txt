@@ -1,7 +1,9 @@
-[i][B][color=red]This region is now [region] apple island[/region] outpost.
-Don&amp;#39;t worry, we are here to help. This is Apple Island, and this region has just been turned into an outpost.
-If you wish to merge or join this region, please contact us through [region]Apple Island[/region][/color][/B][/i].
+[b][color=darkred]This land has been taken over by the Zork Riders![/color][/b]
+[b][color=darkred]This land was taken for [nation]Red Skull Prime[/nation][/color][/b]
 
-[i]This has been posted on Dec. 11, 2013[/i].
-[i]This region will be now password protected.[/i]
-ALL OTHER NATIONS UNDER BLACK RIDERS WILL BE BANNED AND EJECTED.
+[b]Our homestead: [region]Zorkians[/region][/b]
+
+[b][color=darkred]Into the battle rode the following riders:[/color][/b]
+[b][nation]The Dominion of Zork[/nation]
+[nation]Creedson[/nation][/b]
+

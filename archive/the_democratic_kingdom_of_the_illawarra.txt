@@ -1,10 +1,10 @@
-[i][b]Privy Council[/b][/i]:
+[i][b]Regency Council[/b][/i]:
 
 [b]Delegate[/b]: [nation]Conwy-shire[/nation]
-[b]Secretary of State[/b]: [nation]Bryndonesia[/nation]
+[b]Secretary of State[/b]: [b](Pending)[/b]
 [b]Master of Roleplay[/b]: [nation]Smiths Hill[/nation]
 [b]Chronicler[/b]: [nation]Edrapuria[/nation]
-[b]Auditor of the Exchequer[/b]: [b](Pending)[/b]
+[b]Auditor of the Exchequer[/b]: [nation]Marrow Wind[/nation]
 [b]Director of the Secret Police[/b]: [nation]Sussia[/nation]
 
 [b][i]The Cabinet[/i][/b]:
@@ -15,5 +15,3 @@
 [b]Warden for Agriculture, Horticulture, Livestock and Woolen Issues[/b]: [nation]Rone5 Empire[/nation]
 
 [b]Wiki[/b]:[url=http://dkoti.wikia.com/wiki/]The Democratic Kingdom of the Illawarra Wiki[/url]
-
-[color=red]Unknown Nations upon arrival will be ejected to the Rejected Realms[/color]

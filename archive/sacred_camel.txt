@@ -2,8 +2,8 @@ Sacred Camel is a safe haven for all the nations of the world. I invite everyone
 
 Regional Government: Democracy
 Prime Minister and Founder: [nation]sandwich island[/nation]
-Minister of the Interior: [color=yellow]Vacant[/color]
-Minister of Defense: [color=yellow]Vacant[/color]
+Minister of the Interior: [nation]ryochan[/nation]
+Minister of Defense: [nation]ryochan[/nation]
 Minister of Justice: [color=yellow]Vacant[/color]
 Minister of Foreign affairs: [color=yellow]Vacant[/color]
 Minister of Education: [color=yellow]Vacant[/color]
@@ -12,3 +12,5 @@ Minister of Cartography: [color=yellow]Vacant[/color]
 Minister of intelligence: [color=yellow]Vacant[/color]
 Minister of Recruitment: [color=yellow]Vacant[/color]
 Minister of Technology and Research: [color=yellow]Vacant[/color]
+WA Delegate: [color=yellow]Vacant[/color] 
+WA Security Council: [color=yellow]Vacant[/color]
