@@ -10,13 +10,15 @@ The pristine land of Eos is tucked away in the corner of the Earth.
 
 [b] Chief of Ministry [/b]:[nation=short]KungYo[/nation]
 
+[b] Vice-Chief of Ministry: [/b] [nation=short]YangYu hi[/nation]
+
 [b] Department of Defense: [/b] [nation=short]Militcom[/nation]
 
 [b] Department of Public Relations: [/b][nation=short]Kingston-Atlantis[/nation]
 
-[b] Department of Justice: [/b] [i] [nation=short]Jultopia[/nation] [/i]
+[b] Department of Justice: [/b][nation=short]Jultopia[/nation]
 
-[b] Department of International Affairs: [/b] [nation=short]YangYu hi[/nation]
+[b] Department of Foreign Relations: [/b] [i]Happening Now.[/i]
 
 [b] Department of State: [/b] [nation=short]The Argent Federation[/nation]
 

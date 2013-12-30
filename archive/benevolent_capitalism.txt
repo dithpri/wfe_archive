@@ -12,8 +12,8 @@
 [color=green]Judges:[nation]Tracodia[/nation][/color] [nation]Sardisca[/nation] [nation]West Florida[/nation]
 [color=green]Head of State:[/color][color=gold][nation]Contaples[/nation][/color]
 [color=green]Head of Foreign Affairs:[/color][nation]Oculus[/nation]
-[color=green]Diplomats:[/color][nation]Firatiya[/nation] [nation]Macosky[/nation] 
-[color=green]Recruiters:[/color][nation]Flaxxony[/nation] [nation]Britarvia[/nation]
+[color=green]Diplomats:[/color][nation]Firatiya[/nation]
+[color=green]Recruiters:[/color][nation]Britarvia[/nation]
 [color=green]Cartographer:[nation]Kapitalistiske[/nation] [/color]
 [color=green]News Editor:[nation]Firatiya[/nation] [/color]
 

@@ -1,1 +1,15 @@
-[b]ISLAMIC UNION[/b]
+[b][region]ISLAMIC UNION[region][/b]
+
+REQUIREMENTS:
+- Used Islamic Flag
+- Used Islamic Motto
+
+POLICIES:
+- All countries that do not meet the requirements will be given a warning in 7 days
+- After 7 days there is no change in the flag and motto, we will &amp;quot;Eject (No Ban)&amp;quot;
+- After they out and try to rejoin without the change, we will &amp;quot;Eject &amp;amp; Ban&amp;quot;
+
+THE COUNCIL:
+- Secretary General : [nation]Khalifa[/nation]
+- Interior Minister : [nation]Al Arabia[/nation]
+- Diplomatic Minister : [nation]Wahabi Arabia[/nation]

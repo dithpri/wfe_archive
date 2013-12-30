@@ -1,8 +1,1 @@
-[b][color=darkred]This land has been taken over by the Zork Riders![/color][/b]
-[b][color=darkred]This land was taken for [nation]Red Skull Prime[/nation][/color][/b]
-
-[b]Our homestead: [region]Zorkians[/region][/b]
-
-[b][color=darkred]Into the battle rode the following riders:[/color][/b]
-[b][nation]Hermestead[/nation]
-[nation]Zorkson[/nation][/b]
+region back to normal.
