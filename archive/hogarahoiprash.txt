@@ -4,5 +4,5 @@ Monarch: [nation]Xochi[/nation]
 President: [nation]Formerly Occupied America[/nation]
 Vice President: [nation]MirrorGate[/nation]
 Minister of Recruitment: [nation]grand_dukeopolis[/nation]
-Minister of foriegn affairs = [nation]Renstaff[/nation]
-Council members: [nation]Renstaff[/nation]
+Minister of foriegn affairs = 
+Council members: 

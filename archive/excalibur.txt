@@ -11,5 +11,5 @@ Acting Prime Minister/WA Delegate:[nation]The Nihilistic View[/nation]
 Foreign Secretary: TBD
 Lord High Constable: TBD
 Earl Marshal: TBD
-Immigration Secretary: TBD
+Immigration Secretary: [nation]-HumanSanity-[/nation]
 
