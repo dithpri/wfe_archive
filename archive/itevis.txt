@@ -7,9 +7,9 @@ Itevis is a Roleplay Oriented Constitutional Democracy with a Bicameral Parliame
 
 [color=green][b]Minister of Foreign Affairs:[/b][/color] [nation=short]woogie[/nation]
 
-[color=green][b]Minister of Defense:[/b][/color] [nation=short]placidi[/nation]
+[color=green][b]Minister of Defense:[/b][/color] 1st Midnight GMT to 4th Midnight GMT
 
-[color=green][b]Minister of Justice:[/b][/color] [nation=short]placidi[/nation]
+[color=green][b]Minister of Justice:[/b][/color] 5th Mid GMT to 7 Mid GMT
 
 [color=green][b]Minister of Coin:[/b][/color] [nation=short]kasterland[/nation]
 
@@ -19,9 +19,9 @@ Itevis is a Roleplay Oriented Constitutional Democracy with a Bicameral Parliame
 
 [color=green][b]Minister of Intelligence:[/b][/color] [nation=short]absolute power[/nation]
 
-[color=grey][b]Imperial Speaker to the Chamber of Delegates:[/b][/color] 27th at Midnight GMT-29th at Midnight GMT
+[color=blue][b]Imperial Speaker to the Chamber of Delegates:[/b][/color] [nation=short]Anglio[/nation]
 
-[color=grey][b]Imperial Speaker to the Chamber of the People:[/b][/color] ^^^
+[color=blue][b]Imperial Speaker to the Chamber of the People:[/b][/color] [nation=short]Thirioville[/nation]
 
 [hr][color=red][u][b]Information[/b][/u][/color]
 [url=http://w11.zetaboards.com/Itevis]Forums[/url]

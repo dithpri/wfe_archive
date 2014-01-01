@@ -12,6 +12,8 @@ A private region that you have no interest in.
 [nation]Ascarus-Edian[/nation]
 [nation]deRiscia[/nation]
 [nation]Ruscall Islands[/nation]
+[nation]The Humble and Glorious Will Nunn[/nation]
+[nation]The Moose That Rides[/nation]
 
 
 [u]Rules/Guidelines[/u]

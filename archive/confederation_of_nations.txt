@@ -2,14 +2,14 @@
 [hr][color=darkblue][b]Regional Leaders[/b][/color]
 
 
-44th Prime Minister Elect of the Confederation of Nations: [nation]Tacoma 2[/nation]
+45th Prime Minister Incumbent of the Confederation of Nations: [nation]Region 4[/nation]
 
-Founder of The Confederation of Nations [nation]Defero Populus[/nation]
+Founder of The Confederation of Nations: [nation]Defero Populus[/nation]
 
-The Minister of the Interior [nation]Vazdania[/nation]
-The Minister of Foreign Affairs [nation]United Confederation of states[/nation]
-The Minister of Law and Order [nation]Defero Populus[/nation]
-The Minister of Recruitment [nation]Bearlong[/nation]
+The Minister of the Interior: [nation]Bearlong[/nation]
+The Minister of Foreign Affairs: [nation]United Confederation of states[/nation]
+The Minister of Law and Order: [nation]Defero Populus[/nation]
+The Minister of Recruitment: (open) contact [nation]Region 4[/nation] to request position
 
 [hr]
 
