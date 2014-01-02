@@ -1,9 +1,10 @@
-The [b]Commonwealth of Ventoso[/b] is an organization that was created to collectively represent the interest of the island nations of the Ventoso Islands. The aim on the organization is to give a voice to the islands in the International Community.
-[hr][b][u]Commonwealth Executive[/u][/b]
-[b]Chairman:[/b] [nation]Jeriatha[/nation]
-[b]Vice Chairman:[/b] [nation]Winovia[/nation]
-[b]Secretary General:[/b] [nation]Adili[/nation]
-[b]WA Delegate:[/b] [nation]Ventoso[/nation]
+The [b]Commonwealth of Ventoso[/b] is an organization that was created to collectively represent the interest of the island nations of the Ventoso Islands, and their colonies and territories, and give them a place to cooperate through economics, defense, and diplomacy.
+[hr][b][u]Commonwealth Leadership[/u][/b]
+[b]Head:[/b] HM King Xavier of [nation=short]Winovia[/nation]
+[b]Chairman:[/b] Count Oliver Vector of [nation=short]Winovia[/nation]
+[b]Vice Chairman:[/b] Lady Ana Mandia of [nation=short]Zumunda[/nation]
+[b]Secretary General:[/b] Lord Charles Bell of [nation=short]Arendele[/nation]
+[b]Deputy Secretary General:[/b] James Madison of [nation=short]Welcher[/nation]
 [hr][b][u]International Relations[/u][/b]
 [b]World Assembly:[/b] The Commonwealth is collectively represented in the World Assembly, no nation has national representation.
 [b]Embassies:[/b] We are open to Regional Embassies

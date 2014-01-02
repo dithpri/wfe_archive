@@ -1,16 +1,20 @@
-[color=blue][b]Welcome to the Commonwealth of Kings! 
-The CoK is a Constitutional Monarchy with a Parliament, an Offsite Forum, and a Growing Community. Feel Free to Participate.[/b][/color]
+[color=blue][b]Welcome to the Commonwealth of Kings![/b][/color]
 [hr][u][b][color=blue]Monarchy[/color][/b][/u]
 King: [nation=shortname]Lalucia[/nation]
 
 [u][b][color=blue]His Majesty&amp;#39;s Government[/color][/b][/u]
-[b]Prime Minister:[/b] TBA
+[b]Prime Minister:[/b] [nation=shortname]ShenGuo[/nation]
 [b]Minister of Regional Affairs:[/b] TBA
 [b]Minister of Defence and Security:[/b] TBA
 [b]Minister of International Development:[/b] TBA
 [b]Minister of Media and Culture:[/b] TBA
 
-[hr]Regional Alert Level: [b][color=green]GREEN[/color][/b] / General Elections: [color=red][b]December 30th to 31st 2013[/b][/color]
+[u][b][color=blue]Supreme Court[/color][/b][/u]
+[b]Lord Chief Justice:[/b] TBA
+[b]Lord Justice:[/b] TBA
+[b]Lord Justice:[/b] TBA
+
+[hr]Regional Alert Level: [b][color=green]GREEN[/color][/b] / General Elections: [color=blue][b]Progressive-Conservative Party[/b][/color] / Please Endorse [nation=shortname]ShenGuo[/nation] as your Prime Minister
 [hr][b]Join our [url=http://commonwealthofkings.africamotion.net]Forum[/url]
 Read our [url=http://commonwealthofkings.africamotion.net/t11-the-constitution]Constitution[/url]
 View our [url=http://thomasalrich6.wix.com/commonwealth]Regional Map[/url]

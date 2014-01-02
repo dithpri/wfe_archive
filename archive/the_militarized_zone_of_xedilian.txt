@@ -6,10 +6,11 @@
 [color=lightblue]Chancellor:[nation]Kurtives[/nation][/color]
 [color=orange]Grand Aid: [nation]2262324292742[/nation][/color]
 [color=blue]Security Generals:[nation]Sufferaton[/nation]
-&amp;gt; [nation]Mustelidae[/nation]
-Dept. of Science and Modern Warfare:[nation]First Enclave[/nation][/color]
+&amp;gt; [nation]Mustelidae[/nation][/color]
 
-[color=black]Threat Indicator[/color]
+[color=lightgreen]Let us mourn the passing of our most prominent research facility - May They Live Forever[/color]
+
+[color=black][u]Threat Indicator[/u][/color]
 [color=green][u][i][b]Green[/u][/i][/b][/color]-Safe
 
 [color=green]We are open to Refugees. Please transfer to [region]The NonMilitarized Zone of Xedilian[/region]. You will get your transfer slip there.[/color]

@@ -8,6 +8,6 @@ Top Political Freedom State: [nation]Bonadon[/nation]
 Top Civil Rights State: [nation]Bonadon[/nation]
 Top Economical State: [nation]Bonadon[/nation]
 
-Known Hostilities: [color=orange]Terrorist and Extremist Threats[/color]
+Known Hostilities: [color=red]New Barvian War[/color]
 
-Currently in observed leadership by [nation]Single-Party Socialist State of China[/nation]
+No longer in observed leadership by [nation]Single-Party Socialist State of China[/nation]
