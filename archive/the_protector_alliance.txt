@@ -12,3 +12,5 @@ Things to do:
 -Create the FBI
 -Create the CIA
 -Create a diplomatic system
+-Create efficient democracy
+-Regional Time Zone

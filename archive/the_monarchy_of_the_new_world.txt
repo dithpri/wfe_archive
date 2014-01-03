@@ -12,4 +12,4 @@
 [u]Prime Minister[/u]: [nation=short]The Precise Land of Correctness[/nation]
 [u]Minister of Defence and Intelligence[/u]: Election Pending
 [u]Minister of Immigration and Foreign Relations[/u]: Election Pending
-[u]Supreme Court Justice[/u]: Election Pending
+[u]Supreme Court Justice[/u]: [nation=short]Ulaar[/nation]

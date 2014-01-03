@@ -1,0 +1,16 @@
+[B]--UNDER CONSTRUCTION--[/B]
+
+[B]REGION GOVERNMENT[/B]
+Prime Minister: [nation]The New swisland[/nation]
+Minister: Open
+Minister of Defense: Open
+Minister of Foreign Relations: Open
+Ambassador: Open
+Ambassador: Closed
+Ambassador: Closed
+
+[B]Region Security[/B]
+
+Region Security Threat Level: low
+
+Borders are: Open

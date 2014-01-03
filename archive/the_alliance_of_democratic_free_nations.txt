@@ -2,8 +2,8 @@ This is a Region for those who want to be part of something new. Those who want 
  A democracy that accepts anybody and that wants to mantain order and respect between its Nations. 
  Whether you are an Iron-fist dictatorship or a civil rights loving hippy, The Alliance of Democratic Nations has a place for you. This is the place where YOU can make a difference.
 
-Supreme Chancellor: [nation]The Colony of New Falonia[/nation] 
-Premier: None
+Supreme Chancellor: [nation]New Falonia[/nation] 
+Premier: [nation]Vashnal[/nation]
 Minister: None
  (Elections will be held when there is at least 7 people in the region)
 
