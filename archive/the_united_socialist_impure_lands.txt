@@ -1,14 +1,13 @@
-[b][i]Members of the Chowine Empire! Please relocate to [region]The Democratic Kingdom of the Illawarra[/region] and endorse either [nation]Crucania[/nation] or [nation]Bryndonesia[/nation]![/b][/i]
 
-[i]Senior Officials of The Chowine Empire:[/i]
-[b]Supreme Leader:[/b] [nation]Crucania[/nation]
+
+[i]Senior Officials of The United Socialist Impure Lands:[/i]
 [b]Chancellor:[/b] [nation]Phlegathon[/nation]
-[b]Vice-Chancellor:[/b] [nation]Rukiah[/nation]
-[b]General of Military Operations:[/b] [nation]The Democratic Peoples Union[/nation]
-[b]Minister for Propaganda:[/b] OPEN
-[b]Leader of the Regional Secret Police:[/b] OPEN
+[b]Spy Master:[/b] [nation]Rukiah[/nation]
+[b]General of Military Operations:[/b] OPEN
+[b]Minister for Human Rights:[/b] [nation]Arvenarius[/nation]
 
 [i]Lower Officials of The Impure Lands:[/i]
 
-[b]Foreign Affairs Minister:[/b] [nation]Nadie[/nation]
+[b]Foreign Affairs Minister:[/b] OPEN
 [b]Internal Affairs Minister:[/b] [nation]Greybels[/nation]
+[b]Minister for Technological Research[/b] OPEN

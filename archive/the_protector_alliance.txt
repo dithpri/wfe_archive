@@ -14,3 +14,4 @@ Things to do:
 -Create a diplomatic system
 -Create efficient democracy
 -Regional Time Zone
+-Defense Condition System

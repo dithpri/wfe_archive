@@ -10,7 +10,7 @@ King: [nation=shortname]Lalucia[/nation]
 [b]Minister of Media and Culture:[/b] TBA
 
 [u][b][color=blue]Supreme Court[/color][/b][/u]
-[b]Lord Chief Justice:[/b] TBA
+[b]Lord Chief Justice:[/b] [nation=shortname]Father motherland[/nation]
 [b]Lord Justice:[/b] TBA
 [b]Lord Justice:[/b] TBA
 

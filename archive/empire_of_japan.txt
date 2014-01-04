@@ -10,9 +10,10 @@ We follow the [i][url=http://en.wikipedia.org/wiki/Kokutai]Kokutai no hongi[/url
 
 [hr]
  
-[B]Prime Minister[/B]:  [nation=short]Tatenokai[/nation]
+[B]Prime Minister[/B]: [nation=short]Tatenokai[/nation]
 [B]Minister of Defense[/B]: 
-[B]Minister of Foreign Affairs[/B]:
+[B]Minister of Foreign Affairs[/B]: [nation=short]Afrikaneer[/nation]
+[B]Minister of Culture[/B]:
 
 
 Members of the Axis and like-minded nationalists are welcomed as foreign emissaries.

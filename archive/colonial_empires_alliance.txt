@@ -1,8 +1,1 @@
-[b][color=darkred]This land is now occupied by the Zork Riders![/color][/b]
-
-[b]Our Homestead: [region]Zorkians[/region][/b]
-
-[b][color=darkred]The following riders exercised extreme skill in taking this land:[/color]
-[nation]The Dominion of Zork[/nation]
-[nation]The United Federation of Astra[/nation]
-[nation]Zorkson[/nation][/b]
+Liberated from [nation]Zorkax[/nation]

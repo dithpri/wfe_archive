@@ -4,7 +4,7 @@
 
 [b]14th REC[/b]
 Secretary-General:[nation]eastland duchies[/nation]
-Chancellor:
+Chancellor: Elections in Process
 Speaker: [nation]Evanicaland[/nation]
 Prosecutor General: [nation]aquenetta[/nation]
 Lord Commander: 
@@ -12,11 +12,11 @@ Lord Commander:
 [b]Cabinet:[/b]
 Minister of Foreign Affairs: 
 Minister of Culture:
-Minister of Finance:
+Minister of Finance: [nation=short]Lentheric[/nation]
 Minister of the Interior:
 [hr]
 [b]High Court[/b]
-[nation=short]Lentheric[/nation][CJ],[nation=short]Imperial Yamea[/nation], [nation=short]Churchilland[/nation]
+To be elected by 14th REC [CJ],[nation=short]Imperial Yamea[/nation], [nation=short]Churchilland[/nation]
 [hr]
 [url=http://www.nationstates.net/region=the_commonwealth_empire]Click here for [b]Our Colonies[/b][/url]
 
