@@ -1,18 +1,24 @@
 The [region]United Republics[/region] is a political union of sovereign states that share a common preference for a particular form of government, a republic.
 
-[u][b]UR Council[/b][/u]
+[b]President of the United Republics:[/b] [nation=short]Petite Couronne[/nation]
+[i](merger of the dual-presidency when no government has been elected)[/i]
+
+[u][b]Dual-Presidency of the United Republics[/b][/u]
+*President of the Council: [nation=short]Petite Couronne[/nation]
+*President of the Government:
+
+[u][b]Regional Council[/b][/u]
 *President: [nation=short]Petite Couronne[/nation]
 
-[u][b]UR Authority[/b][/u]
+[u][b]Regional Government[/b][/u]
 *President:
-*Foreign Minister:
-~(WA Delegate):
+*High Representative:
 *Finance Minister:
 *Interior Minister:
 
-[u][b]UR Assembly[/b][/u]
-*Speaker:
+[u][b]Regional Assembly[/b][/u]
+*Rotating Presidency:
 
 [hr]
 
-[b][url=http://www.nationstates.net/nation=petite_couronne/detail=factbook/id=203555]Paris Treaty[/url] | [nation=short]UR Recruiting Office[/nation] | Forum | Regional Map | [url=http://www.nationstates.net/page=blank/?lookup_newspaper=542]Mail Online[/url] ([url=http://forum.nationstates.net/viewtopic.php?f=15&amp;amp;t=243404]NS++[/url])[/b]
+[b][url=http://www.nationstates.net/nation=petite_couronne/detail=factbook/id=203555]Paris Treaty[/url] | [nation=short]UR Recruiting Office[/nation] | [url=http://unitedrepublics.forumotion.com/]Forum[/url] | Regional Map | [url=http://www.nationstates.net/page=blank/?lookup_newspaper=542]Mail Online[/url] ([url=http://forum.nationstates.net/viewtopic.php?f=15&amp;amp;t=243404]NS++[/url])[/b]

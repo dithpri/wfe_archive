@@ -15,3 +15,4 @@ Things to do:
 -Create efficient democracy
 -Regional Time Zone
 -Defense Condition System
+-Voting Poll System
