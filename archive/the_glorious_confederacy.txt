@@ -9,6 +9,6 @@ Welcome to the Glorious Confederacy
 [color=red]Red=  Immediate Danger[/color]
 [color=purple]Purple = Region Wide Evacuation Necessary[/color] 
 
-Current Danger Level: [color=amber]Medium[/color]
+Current Danger Level: [color=green]No Danger[/color]
 
-Reason: Although peace has been made with FeruMavia, Canisiuso has recently issued a threat that is bound to disturb the peace.
+Reason: Canisiuso has made no further threats and has not executed GC POWS as they said they would, therefore there is no danger at present

@@ -2,7 +2,7 @@
 President: [nation=short]Pharthan[/nation]
 Vice-President: [nation=short]Vizindolf[/nation]
 Justices: [nation=short]Neo-Assyrian Empire[/nation] [nation=short]Iloistan[/nation] [nation=short]Gatito[/nation]
-Secretary of Recruitment: [nation=short]GROSS Independency[/nation]
+Secretary of Recruitment:
 Regional Chairman: [nation=short]Kialga[/nation]
 WA Delegate: [nation=short]The Foxfyre Islands[/nation]
 

@@ -1,3 +1,5 @@
+[b][color=blue]Going Strong Since 2011![/color][/b]
+
 [b][color=orange][u]The United Royal Alliance Party Is Currently In Power[/u][/color][/b]
 
 [b][color=grey][u]Executive[/u][/color]
@@ -8,7 +10,7 @@ ________________________________________________________________________________
 
 [color=grey][u]Opposition Leaders[/u][/color]
 [nation=short]Italia Venetiensis[/nation][color=purple] [PWP][/color]
-[nation=short]Buddyland[/nation][color=red] [RCP][/color] [color=blue]Minister for Foreign Affairs, Minister for Immigration and Border Protection[/color] 
+[nation=short]Buddyland[/nation][color=red] [RCP][/color] [color=blue]Minister for Foreign Affairs and Immigration and Border Protection[/color] 
 [nation=short]Republic of Independent States[/nation][color=copper] [RAFP][/color]
 
 [b][color=grey][u]Parliament[/u][/color]

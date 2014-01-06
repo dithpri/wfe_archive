@@ -4,9 +4,9 @@ Welcome to the [b]Region of States[/b]! This is a region for nations that do not
 
 The region has a commission in order to handle its affairs:
 
-X Commission of the Region of States:
-President: [nation]Pseudoalexia[/nation]
-Commissioner of Foreign Affairs: [nation]Piceastan[/nation]
-Commissioner of Internal Affairs: [nation]Alekstan[/nation]
-Commissioner of Financial Affairs: [nation]Civitaseptentria[/nation]
+XI Commission of the Region of States:
+President: [nation]Civitaseptentria[/nation]
+Commissioner of Foreign Affairs: [nation]Alekstan[/nation]
+Commissioner of Internal Affairs: [nation]Makaroonivelli[/nation]
+Commissioner of Financial Affairs: [nation]Pseudoalexia[/nation]
 Commissioner of Defence: [nation]Granlundia[/nation]
