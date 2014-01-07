@@ -11,7 +11,7 @@ We follow the [i][url=http://en.wikipedia.org/wiki/Kokutai]Kokutai no hongi[/url
 [hr]
  
 [B]Prime Minister[/B]: [nation=short]Tatenokai[/nation]
-[B]Minister of Defence[/B]: 
+[B]Minister of Defence[/B]: [nation=short]Spiritbw[/nation]
 [B]Minister of Foreign Affairs[/B]: [nation=short]Afrikaneer[/nation]
 [B]Minister of Culture[/B]: [nation=short]Great Korean Empire[/nation]
 

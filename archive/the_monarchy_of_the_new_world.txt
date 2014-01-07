@@ -12,6 +12,22 @@
 [u]Prime Minister[/u]: [nation=short]The Precise Land of Correctness[/nation]
 [u]Minister of Defence and Intelligence[/u]: [nation=short]Nation of Toby[/nation]
 [u]Minister of Immigration and Foreign Relations[/u]: [nation=short]Liberal Sweedish and French Unity[/nation]
+
+
+[B]Supreme Court[/B]:
+
 [u]Supreme Court Justice[/u]: [nation=short]Ulaar[/nation]
+[u]Convicts[/u]: [nation=short]Narty[/nation] has been sentenced to shunning until January 26th. No nations are to there for interact with them.
 
 [color=blue][u][B]End of current government term: April 15th 2014[/B][/u][/color]
+
+[u][B]Alert Level:[/B][/u] Code [B]A[/B]
+
+[u]Legend:[/u]
+
+Code A=No threats
+Code B=Possible Threats
+Code C=Threats Confirmed
+Code D=Possible Attack
+Code E=Attack Confirmed
+Code Z=Regional Disaster

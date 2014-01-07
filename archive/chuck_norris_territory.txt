@@ -1,1 +1,1 @@
-[b]This region is reserved for [nation=short]CHUCK NORRlS[/nation], his allies, and his sidekicks. [color=red]Intruders beware!!![/color][/b]
+[b]This region is reserved for [nation=short+noflag]CHUCK NORRlS[/nation]/[nation=short+noflag]CHUCK N0RRIS[/nation], his allies, and his sidekicks. [color=red]Intruders beware!!![/color][/b]

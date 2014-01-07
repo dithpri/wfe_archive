@@ -1,7 +1,7 @@
 [B]--UNDER CONSTRUCTION--[/B]
 
 [B]REGION GOVERNMENT[/B]
-Prime Minister: Open
+Prime Minister: [nation]Vienads[/nation]
 Minister: Open
 Minister of Defense: Open
 Minister of Foreign Relations: Open
@@ -11,7 +11,7 @@ Ambassador: Closed
  
 To apply for a government position please send a telegram to The Founding Nation
 [B]Region Security[/B]
-
+[url=http://forum.nationstates.net/viewtopic.php?f=15&amp;amp;t=243404]NS++ Download[/url]
 Region Security Threat Level: low
 
 Borders are: Open

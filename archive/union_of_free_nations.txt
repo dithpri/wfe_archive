@@ -9,7 +9,6 @@
 [nation=short]baleanor[/nation]
 [b][u]Intelligence Directorate[/b][/u] 
 [nation=short]the nightingale of the night[/nation] [b](Director) [/b]
-[nation=short]the_federal_telecommunications_bureau[/nation] 
 [nation=short]republicofhampstead[/nation]
 [b][u]Recruitment Bureau[/b][/u]
 [nation=short]the glorious shroomic republic[/nation][b](Chairman) [/b]

@@ -1,12 +1,10 @@
-[i]The [b]Region of States[/b] is a region for peaceful states. It is a successor to the [b]Region of Nations[/b].[/i]
-
 Welcome to the [b]Region of States[/b]! This is a region for nations that do not fit in anywhere else. Please feel free to join and to contribute to the future of this region!
 
 The region has a commission in order to handle its affairs:
 
-XI Commission of the Region of States:
-President: [nation]Civitaseptentria[/nation]
-Commissioner of Foreign Affairs: [nation]Alekstan[/nation]
-Commissioner of Internal Affairs: [nation]Makaroonivelli[/nation]
-Commissioner of Financial Affairs: [nation]Pseudoalexia[/nation]
-Commissioner of Defence: [nation]Granlundia[/nation]
+XIII Commission of the Region of States:
+President: [nation]Pseudoalexia[/nation]
+Commissioner of Foreign Affairs: [nation]Fronochmedland[/nation]
+Commissioner of Internal Affairs: [nation]Granlundia[/nation]
+Commissioner of Financial Affairs: [nation]Alekstan[/nation]
+Commissioner of Defence: [nation]Civitaseptentria[/nation]

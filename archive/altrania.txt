@@ -9,7 +9,7 @@ President of Capitalism: [nation]United weerribben[/nation]
 President of Commun/Socialism: [nation]Basilon[/nation]
 President of Dictatorship: *none*
 President of Monarchy: [nation]Ibo-Biafra[/nation]
-President of Anarchism: [nation]Yutaz[/nation]
+President of Anarchism: *none*
 President of Facism: *none*
 President of Rossism: [nation]Rossiyan union[/nation]
 
@@ -19,9 +19,4 @@ http://postimg.org/image/aagm0nlvx/
 
 Embassies:
 
-[region]The United Pacific States[/region]
-[region]Himalia[/region]
-[region]Korean Reunification[/region]
 [region]Nederland[/region]
-[region]The communist region[/region]
-[region]Australia[/region]
