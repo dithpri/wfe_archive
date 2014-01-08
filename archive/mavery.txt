@@ -9,8 +9,9 @@ Vice Delegate: Vacant
 President: [nation]Lyskeland[/nation]
 Vice President: Vacant
 Secretary of State: Vacant
-Recruiter: Vacant
+Recruiter: [nation]United States of Ryanland[/nation]
 Treasurer: Vacant
 Cartographer: [nation]Aegrus[/nation]
+Vexillologist: [nation]Remondo[/nation]
 
 If you would like to apply for one of these positions or propose a new one, feel free to send me a telegram!

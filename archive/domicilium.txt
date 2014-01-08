@@ -4,19 +4,18 @@
 
 [b][u]Staff[/u][/b]
 Administration and Embassy Affairs: [nation=short+noflag]Consigahria[/nation]
-Regional World Assembly Affairs: [nation=short+noflag]Gewaltig[/nation]
-Outreach: [nation=short+noflag]The Kanekaeri Islands[/nation]
 Security: [nation=short+noflag]West Consigahria[/nation]
 
 [b][u][color=red]News from the First Legislature[/color][/u][/b]
-12/09: All nations are advised to place their NSTracker information in their factbooks.  Nations found in noncompliance will be ejected by Wednesday, December 11th, 2013.
+1/07: None.
 
 [b][u]Current Security Status[/b][/u] (underlined is in effect)
 [b][u][color=blue]Safe[/color][/u][/b] | [color=red]Cautioned[/color] | [color=purple]In Danger[/color] | [color=black]Locked Down[/color]
 
-[b][u]November Statistics[/u][/b]
+[b][u]November 2013 Statistics[/u][/b]
 [b]Population[/b]: 17.79 billion
 [b]Regional GDP[/b]: NS$685.34 trillion
+Will update soon
 
 [b][u]Menu[/u][/b]
 [url=http://www.nstracker.net/region=domicilium]Regional Statistics[/url] | [url=http://www.nationstates.net/region=domicilium#rmb]Regional Message Board[/url]

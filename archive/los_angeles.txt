@@ -1,4 +1,4 @@
-[b][color=darkblue]Greetings and Welcome to Los Angeles![/color][/b]
+[b][color=navy]Greetings and Welcome to Los Angeles![/color][/b]
 
 [color=blue][i]The true freedom only exists 
 with [b]respect[/b] and [b]democracy[/b]
@@ -6,19 +6,19 @@ Welcome to a [b]free[/b] region.[/i]
 
 Los Angeles is once again free for all to join.[/color]
 
-[b][color=darkblue]FACTS[/color][/b]
+[b][color=navy]FACTS[/color][/b]
 
-[color=blue]Country: [region]United States of America[/region]
-State: [region]California[/region][/color]
+[color=blue]Country: [region=United States of America]
+State: [region=California][/color]
 
-[b][color=darkblue]ALLIED WITH[/color][/b]
+[b][color=navy]ALLIED AND ASSOCIATED WITH:[/color][/b]
 
-[color=blue][region]Latin America[/region], [region]Republica Federativa do Brasil[/region] and [region]Ancient Lands[/region].[/color]
+Associated with: [color=008000][region=United States of America], [region=Republica Federativa do Brasil]
+an [region=Ancient Lands] [region=World] [region=Freedom Front] [region=Latin America] region.[/color]
 
-[b][color=darkblue]WAS PROTECTED BY[/color][/b]
+[b][color=navy]PROTECTED BY[/color][/b]
 
-[color=blue][nation=short]Elliston[/nation] (Dec 23, 2013)
-[b]Now Independent[/b][/color]
+[color=blue][nation=short]New Falham[/nation]
+[/color]
 
-[color=blue]Founded Region: Dec 23, 2013.
-[b]Free Region[/b][/color]
+[color=blue]Founded Region: Dec 23, 2013.[/color]

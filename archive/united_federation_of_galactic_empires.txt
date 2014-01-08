@@ -2,11 +2,11 @@
 
 [color=gold] Supreme [/color] [color=gold] General [/color] [color=gold] of [/color] [color=gold] the [/color] [color=gold] Federation [/color]: [nation]The Eastern Arobithian Isles[/nation]
 
-[color=gray]Head[/color] [color=gray] of [/color] [color=gray] Industry [/color] [color=gray] for [/color] [color=gray] the [/color] [color=gray] Federation [/color]: [nation]Vorstus[/nation]
+[color=black]Head[/color] [color=black] of [/color] [color=black] Industry [/color] [color=black] for [/color] [color=black] the [/color] [color=black] Federation [/color]: [nation]Vorstus[/nation]
 
 There are branches you may choose to join as listed below.
 
-The [color=gray] INDUSTRIAL [/color] Branch, builds and produces weapons, ships, and food for the Federation.
+The [color=black] INDUSTRIAL [/color] Branch, builds and produces weapons, ships, and food for the Federation.
 
 The [color=gold] MILITARY [/color] Branch, main fighting force for the Federation, they conquer planets and systems in deep space. 
 
