@@ -1,13 +1,19 @@
-[color=blue]Welcome to The Democratic Union, a region dedicated to freedom, democracy, and peace. The region was founded July 30 2013.[/color]
-[hr]
-[color=green]Cabinet[/color]
+[b][color=green]Welcome to The Democratic Union.[/color] 
 
-[color=green]WA Delegate[/color]:Open until future elections
-[color=green]Chief of Immigration[/color]: Open until future elections
-[color=green]Chief of Regional Affairs[/color]: Open until future elections
-[color=green]Chief of Foreign Affairs[/color]: Open until future elections
-[hr]
-[color=red]Be active in the region by becoming a WA member, and joining the regional forums![/color]
-[hr]
-[url=http://w11.zetaboards.com/Democratic_Union/index/]Regional Forum[/url]
-[url=http://w11.zetaboards.com/Democratic_Union/forum/3815969/]Regional Congress[/url]
+[color=green]Please Endorse our Regional Leadership![/color]
+
+[color=blue][u]President:[/u][/color][nation]Blyskalia[/nation]
+[color=purple][u]Vice-President:[/u][/color][nation]Great Castilla[/nation]
+[color=Burgandy][u]Head of Military Operations[/u][/color]:[nation]Superwhopotterlock[/nation][/b]
+
+[b][u]Warning Codes[/u][/b]
+
+[u][b]Alert Level: Code A[/b][/u]
+
+[b]Code A=No threats
+ Code B=Possible Threats
+ Code C=Threats Confirmed
+ Code D=Possible Attack
+ Code E=Attack Confirmed
+ [color=red][I]Code Z=Regional Disaster[/I][/b][/color]
+

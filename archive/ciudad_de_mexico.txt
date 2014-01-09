@@ -6,3 +6,5 @@ Ciudad de M&eacute;xico es el Distrito Federal, la capital de los Estados Unidos
 
 Regiones Asociados son: [region=Guatemala], [region=Belize], [region=Costa Rica] y [region=Jamaica].
 Aliados incluye Regiones: [region=Baja California].
+
+an [region=Ancient Lands] and [region=Latin America] region
