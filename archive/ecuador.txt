@@ -10,4 +10,4 @@ Ecuador straddles the equator, from which it takes its name.
 
 PLEASE, DO NOT RECRUIT HERE
 ALL VISITOS ARE WELCOME HERE
-a [region=Ancient Lands] and [region=United States of America] region[/list]
+a [region=Ancient Lands], [region=Latin America] and [region=United States of America] region[/list]

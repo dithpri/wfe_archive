@@ -3,7 +3,7 @@
 [B]REGION GOVERNMENT[/B]
 Prime Minister: [nation]Vienads[/nation]
 Minister: Open
-Minister of Defense: Open
+Minister of Defense:[nation]Benlux[/nation]
 Minister of Foreign Relations: Open
 Ambassador: [nation]New Qubec[/nation]
 Ambassador: Open

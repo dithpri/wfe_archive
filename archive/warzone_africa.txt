@@ -1,5 +1,9 @@
-[color=#bada55]Welcome to [b]Warzone Africa![/b][/color]
+[color=#8c7853]Welcome to [b]Warzone Africa![/b][/color]
 
-[color=#a11e1e]This region is now a colony of [region]Khora[/region]. All nations in the World Assembly are required to endorse [nation=short]Khoran Africa Department[/nation]. Failure to do so will result in ejection.
+[color=#52678c]A new community is being established in the region; free, fair and (not really) safe from raiders. Hail Africa!
 
-Recruiter Policy: expect suppression.[/color]
+Recruiter policy: expect suppression.
+
+This region is a colony of [region]Khora[/region].
+
+Endorse the Delegate, [nation=short]Khoran Africa Department[/nation], for regional security reasons. Failure to do so will result in ejection.[/color]

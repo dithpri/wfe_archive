@@ -1,6 +1,6 @@
 The High Order of Potato (HOP), is an order of Nations under the President of HOP (who is elected at bi-monthly elections to represent the Order at the WA), below the President is the governments Senators.
 
 President:
-Senator of Defence:[nation=short]Techno[/nation]
+Senator of Defence:[nation=short]armed_city_state_of_techno[/nation]
 Senator of Economics and Financial Affairs: [nation=short]zariros[/nation]
 Senator of Internal and External Affaire: [nation=short]kodoterre[/nation]

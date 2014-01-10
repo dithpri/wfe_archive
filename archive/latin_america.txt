@@ -1,6 +1,6 @@
 [b][color=darkblue]Bienvenido a[/color] [color=blue]America Latina[/color] / [color=darkblue]Bem vindo &agrave;[/color] [color=blue]America Latina[/color] / [color=darkblue]Welcome to[/color] [color=blue]Latin America[/color][/b]
 
-[list][color=black][i]A new project is being built with the aim of strengthening relations and cooperation between the latin american countries. We will use our political influence to strengthen freedom, democracy, equality and justice for all our territory.[/i][/color]
+[list][color=black][i]A new project to strengthen relations and cooperation between the latin american countries. We will use our political influence to strengthen freedom, democracy, equality and justice for all our territory.[/i][/color]
 
 [color=black][i]If you are Latin, welcome. If you are not Latin, [b]welcome too[/b]![/i][/color]
 
@@ -8,7 +8,11 @@
 
 [color=black][i]It is strictly forbidden to disseminate political hatred, political extremism and dictatorship on any aspect. In a world with so many different countries, different languages, different cultures, [b]respect is key[/b].[/i][/color]
 
-[b][color=blue]Recommended regions[/color][/b]
+[b][color=blue]Allied with[/color][/b]
+
+[b][region]Ancient Lands[/region][/b]
+
+[b][color=blue]Recommended[/color][/b]
 
 [b][region]Argentina[/region][/b]
 [b][region]La Republica de Cuba[/region][/b]

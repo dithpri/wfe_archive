@@ -1,11 +1,13 @@
 Welcome to the New Enclave!! We are a [color=red]Communist Region[/color] that is ruled by one king. We will build up until we are more powerful than ever! Enjoy your stay here in the New Enclave!
 
+High King: [nation]The Enclave1[/nation]
 
-Prime Minister: VACANT
+Prime Minister: [nation]The Enclave1[/nation]
 
 Defense Minister: VACANT
 
 Foreign Relations Minister: VACANT
 
+WA Delegate of the Region: VACANT
 
 [color=red]Once this Region has ten Nations we will have elections for these three positions.[/color]

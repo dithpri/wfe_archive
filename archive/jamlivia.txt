@@ -2,4 +2,5 @@
 [color=teal]a [region=The Americas] Puppet Region[/color]
 [color=006600][b]Caretaker:[/b] [nation=short]Royal House of Windsor[/nation]
 
-Region Four[/color][hr][color=660000][b]PASSWORDED STORAGE REGION[/b][/color][/list]
+Region 11[/color][hr][color=660000][b]PASSWORDED STORAGE REGION[/b][/color]
+[color=gray]These nations will be moved to [region=Galapagos][/color][/list]
