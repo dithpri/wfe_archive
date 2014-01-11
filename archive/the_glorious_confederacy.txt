@@ -7,8 +7,8 @@ Welcome to the Glorious Confederacy
 [color=amber]Amber = Medium[/color]
 [color=orange]Orange =  High[/color]
 [color=red]Red=  Immediate Danger[/color]
-[color=purple]Purple = Region Wide Evacuation Necessary[/color] 
+[color=purple]Purple = Lockdown[/color] 
 
 Current Danger Level: [color=green]No Danger[/color]
 
-Reason: Canisiuso has made no further threats and has not executed GC POWS as they said they would, therefore there is no danger at present
+Reason: Canisiuso has made no further threats and has not executed GC POWS as they said they would, therefore there is no danger at present.

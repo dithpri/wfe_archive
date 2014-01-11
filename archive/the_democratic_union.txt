@@ -5,12 +5,13 @@
 [color=blue][u]President:[/u][/color][nation]Blyskalia[/nation]
 [color=blue][u]Vice-President:[/u][/color][nation]Santa Bernarda[/nation]
 [color=purple][u]Minister of Military Operations[/u][/color]:[nation]Superwhopotterlock[/nation]
-[color=purple][u]Minister of Immigration[/u][/color]:[nation]Krillian[/nation][/b]
-
+[color=purple][u]Minister of Immigration[/u][/color]:[nation]Vacant[/nation]
+[color=purple][u]Minister of Trade[/u][/color]:[nation]Vacant[/nation]
+[color=purple][u]Supreme Court Justice[/u][/color]:[nation]Vacant[/nation][/b]
 
 [b][u]Warning Codes[/u][/b]
 
-[u][b]Alert Level: Code A[/b][/u]
+[u][b]Alert Level: Code D[/b][/u]
 
 [b]Code A=No threats
  Code B=Possible Threats

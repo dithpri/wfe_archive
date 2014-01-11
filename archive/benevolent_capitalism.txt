@@ -1,7 +1,7 @@
 [b][color=black]Welcome to [/color] [color=red]Benevolent[/color] [color=blue]Capitalism[/color][/b]
 [color=yellow] &amp;quot;Behold the Power&amp;quot; [/color]
-[nation]Macosky[/nation], Founder
 [nation]ShadowDragons[/nation], WA Delegate
+ATTENTION RESIDENTS: DELEGATE ELECTION WILL BE HELD ON SATURDAY. NEED A WA MEMBER OPPONENT FOR THE INCUMBENT.
 [color=red](Please join the [url=http://www.nationstates.net/page=un]World Assembly[/url] and endorse your Delegate)[/color]
 We are a region that stands for free markets and free trade, economic prosperity, and inovation.
 
@@ -9,10 +9,13 @@ We are a region that stands for free markets and free trade, economic prosperity
 [color=navy]Vice Delegate:[nation=short]Kapitalistiske[/nation][/color]
 [color=navy]Judges:[nation=short]Tracodia[/nation], [nation=short]Sardisca[/nation], and [nation=short]West Florida[/nation][/color]
 [color=navy]Head of State:[/color][color=gold][nation=short]Contaples[/nation][/color]
+[color=navy]Head of Internal Affairs:[/color]
+[color=navy]Head of Defense:[/color]
 [color=navy]Head of Foreign Affairs:[/color][nation=short]Oculus[/nation]
-[color=navy]Diplomats:[/color][nation=short]Firatiya[/nation]
-Recruiters: Vacant
+[color=navy]Diplomat:[/color] [nation=short]Firatiya[/nation]
+[Color=navy]Recruiters: [nation=short]Firatiya[/nation] [nation=short]Regikistan[/nation]
 [color=navy]Cartographer:[nation=short]Kapitalistiske[/nation] [/color]
 [color=navy]News Editor:[nation=short]Firatiya[/nation] [/color]
+[color=navy]Head of Defense:[/color]
 
 [color=grey]Join our forum [url=http://w11.zetaboards.com/BenignusCapitalismus/register/] here![/url][/color] 
