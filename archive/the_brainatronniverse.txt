@@ -6,7 +6,7 @@ Prime Minister: [nation=short]Gentesummia[/nation]
 Cultural Leader: [nation=short]Woodevalladellus[/nation]
 Treasurer: [nation=short]Econopoly[/nation]
 Minister of Defense: [nation=short]Mechacercradonia[/nation]
-Minister of Corportations: [nation=short]Weresofd[/nation]
+
 
 Jobs available: Master of Secrets, Non Profit Corporal
 

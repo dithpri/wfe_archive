@@ -2,9 +2,8 @@ Welcome to the [b]Region of States[/b]! This is a region for nations that do not
 
 The region has a commission in order to handle its affairs:
 
-XV Commission of the Region of States:
-President: [nation]Makaroonivelli[/nation]
-Commissioner of Foreign Affairs: [nation]Piceastan[/nation]
-Commissioner of Internal Affairs: [nation]Alekstan[/nation]
-Commissioner of Financial Affairs: [nation]Fronochmedland[/nation]
-Commissioner of Defence: [nation]Civitaseptentria[/nation]
+XXI Commission of the Region of States:
+President: [nation]Piceastan[/nation]
+Commissioner of Foreign Affairs: [nation]Makaroonivelli[/nation]
+Commissioner of Internal Affairs: [nation]Granlundia[/nation]
+Commissioner of Defence: [nation]Fronochmedland[/nation]

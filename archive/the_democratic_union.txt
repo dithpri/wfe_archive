@@ -11,7 +11,7 @@
 
 [b][u]Warning Codes[/u][/b]
 
-[u][b]Alert Level: Code D[/b][/u]
+[u][b]Alert Level: Code A[/b][/u]
 
 [b]Code A=No threats
  Code B=Possible Threats

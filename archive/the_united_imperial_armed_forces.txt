@@ -8,6 +8,6 @@ Associate Commanders: Field Marshal [nation=short+noflag]OnderKelkia[/nation], F
 
 TNI Division Commander: Major-General [nation=short+noflag]Joshannia[/nation]
 LKE Division Commander: Major-General [nation=short+noflag]Valfor[/nation]
-Albion Division Commander: Major-General [nation=short+noflag]Consular[/nation]
+Albion Division Commander: Major-General [nation=short+noflag]Cassius Cerebella[/nation]
 
 Adjutant Commanders: Brigadier [nation=short+noflag]Cephal Talleyrand[/nation]

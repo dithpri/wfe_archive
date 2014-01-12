@@ -26,4 +26,4 @@ Endorse Delegate: [nation=short]the Russian communist federation[/nation]![/b][/
 
 [color=008DFF][b]Endorsement Cap: 0[/b]
 
-[B]CURRENT THREAT LEVEL:[/B][/color] [color=#10E017][B]NORMAL[/B][/color]
+[B]CURRENT THREAT LEVEL:[/B][/color] [color=#00FFFF][B]MODERATE[/B][/color]

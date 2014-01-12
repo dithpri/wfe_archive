@@ -1,7 +1,8 @@
-[b][color=#FF0000]State Information of [region]The Republic of Belarus[/region], 
-Sovereign Constituent Republic of [nation]Russia-[/nation][/color][/b]
+[b][color=#FF0000]Welcome to [region]The Republic of Belarus[/region][/color], 
+[color=#000061](Sovereign Constituent Republic of [nation]Russia-[/nation])[/color][/b]
 
-[hr]Capital: Minsk
+[hr][b][u][region]State Information[/region][/u][/b]
+Capital: Minsk
 State President: Roman Nikolayevich Konayev
 Government: Presidential Parliamentary Republic
 Official Language(s): Belarusian, Russian

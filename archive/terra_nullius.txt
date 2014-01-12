@@ -1,16 +1,19 @@
-[b]Regional Council:[/b]
+[b]The Terra Nullius Union:[/b]
 
-[b][i]Minister if Interregional Affairs: [nation]Ebium[/nation]
-Minister of Intelligence: [nation]Volskyge[/nation]
-Minister of Defense: [nation]Jacksistan[/nation]
-Minister of the Interior: [nation]Star Isles[/nation]
-Minister of Trade: [nation]Delhanara[/nation]
-Minister of Immigration and Citizenship: [nation]Light Isles[/nation]
-Minister of Justice: [nation]Elvendire[/nation][/b][/i]
+[b][i]General Assembly:[/b][/i]
+[i] &#149;The Queendom of Light Isles
+&#149; The Constitutional Monarchy of Anddoria: [b]Secretary-General[/b]
+&#149; The Kingdom of Elstar
+&#149; The Kingdom of Star Isles
+&#149; The Kingdom of Delhanara: [b]President of Security Council[/b]
+&#149; The Serene Principality of Elvendire
+&#149; The Constitutional Queendom of Andor
+&#149; The Greater Jacksistani Republic
+&#149; The Federation of the Americas[/i]
 
-[b][url=http://www.nationstates.net/nation=jacksistan/detail=factbook/id=204870]International Strategic Alliance[/url][/b]
-
-[i]Signatories:[/i]
-
-&#149; [b]Greater Jacksistani Republic[/b]
-&#149; [b]Federation of the Americas[/b]
+[b][i]Security Council:[/i][/b]
+[i]&#149; The Constitutional Queendom of Andor (P)
+&#149; The Constitutional Monarchy of Anddoria (P)
+&#149; The Kingdom of Delhanara (P): [b]President of the Security Council[/b]
+&#149; The Queendom of Light Isles (P)
+&#149; The Greater Jacksistani Republic (P)[/i]
