@@ -11,11 +11,10 @@ Welcome to [b][color=blue]The[/color] [color=red]Protector[/color] [color=blue]A
 Things to do:
 
 -Create the Circle of Trust
--Create the FBI
--Create the CIA
+-FBI and CIA
 -Create a diplomatic system
 -Create efficient democracy
 -Regional Time Zone
--Defense Condition System
 -Voting Poll System
 -Most wanted criminals
+-MI5 and MI6

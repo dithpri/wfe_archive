@@ -20,3 +20,5 @@ NONE
 [region=The NSRS]
 [region=The Federal Islands]
 [region=Realistic Places]
+[region=The Great Eastern Soviet Union]
+[region=Poke]

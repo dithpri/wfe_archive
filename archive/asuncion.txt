@@ -1,23 +1,5 @@
-[b][color=bronze]Greetings and Welcome to Asuncion![/color][/b]
+[color=800000][b]Asuncion[/b][/color][color=teal]
+Capital of [region=Paraguay]
 
-[color=red][i]The true freedom only exists 
-with [b]respect[/b] and [b]democracy[/b]
-Welcome to a [b]free[/b] region.[/i][/color]
-
-[color=bronze]Asuncion is once again free for all to join
-
-[b]FACTS[/b][/color]
-
-[color=red]Country: [region]Paraguay[/region]
-Continent: [region]Latin America[/region][/color]
-
-[color=bronze][b]ASSOCIATED WITH[/b][/color]
-
-[color=red][region]Paraguay[/region] and [region]Latin America[/region][/color]
-
-[color=bronze][b]WAS PROTECTED BY[/b][/color]
-
-[color=red][nation=short]Elliston[/nation] (Jan 07, 2014)[/color]
-
-[color=red]Founded Region: Unknow
-[b]Free Region[/b][/color]
+Allied with: [region=Paraguay] and [region=Latin America][/color]
+[color=800000][b]Greetings and Welcome[/b][/color]

@@ -1,24 +1,28 @@
-This land was built by a high-tech civilisation, then abandoned. Over many years, the lands disintergrated into many islands. They now hold a cluster of nations. [nation=short+noflag]Kori[/nation] was the first nation to call The Burning Utopia its home. Many more nations are following it into this new and diverse region. Everyone and anyone is welcome!
--------------------------------------------------------------------
+[color=#008080][b]This land was built by a high-tech civilisation, then abandoned. Over many years, the lands disintergrated into many islands. They now hold a cluster of nations. Help us rebuild this once forgotten and broken land![/b][/color]
+
+-Foreign Minister:
+-Immigration Minister: [nation=short]Kyuji[/nation]
+
 [color=#FF8000][b]Ignesia[/b][/color]
 Leader:
 Flag: [url=http://imgur.com/YsQP9Zy] Ignesia&amp;#39;s Flag [/url]
 Motto: [i]&amp;quot;Ignis et fortitudo&amp;quot;[/i]
-Members: 
+
 [color=#00BFBF][b]Aqui[/b][/color]
 Leader:
 Flag: [url=http://imgur.com/HknNND9] Aqui&amp;#39;s Flag [/url]
 Motto: [i]&amp;quot;Aqua et vita&amp;quot;[/i]
-Members: [nation=short+noflag]Kyuji[/nation]
+
 [color=#BFBF40][b]Terra[/b][/color]:
 Leader:
 Flag:  [url=http://imgur.com/JJ9oFHx] Terra&amp;#39;s Flag [/url]
 Motto: [i]&amp;quot;Tellus et pertinacia&amp;quot;[/i]
-Members: 
+
 [color=#0080BF][b]Ventus[/b][/color]
 Leader:
 Flag: [url=http://imgur.com/fHX0fyI] Ventus&amp;#39; Flag [/url]
 Motto: [i]&amp;quot;Ventus et victoria&amp;quot;[/i]
-Members: 
+
+*Note: Once you join a house you cannot swap to a different house
 
 All flags created and drawn by [url=http://crisvector.deviantart.com]Chris Vector[/url]
