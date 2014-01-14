@@ -2,14 +2,14 @@
 
 [b][i]The Administrative Board:[/i][/b]
 
-[b]Secretary of State:[/b]
-[b]Minister of the Interior:[/b]
+[b]Secretary of State:[/b] [nation]Quail-umbria[/nation]
+[b]Head of Secret Police:[/b] [nation]Sussia[/nation]
 [b]Warden of the Exterior:[/b]
 [b]Auditor of the Exchequer:[/b]
 
 [b][i]The Management Board[/i][/b]
 
-[b]Head of Secret Police:[/b]
+[b]Minister of the Interior:[/b]
 [b]Minister for Agriculture, Horticulture, and woolen issue:[/b]
 [b]Minister of Industry:[/b]
 [b]Minister of Foreign Policy:[/b]

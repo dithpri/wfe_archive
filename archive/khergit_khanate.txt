@@ -6,7 +6,7 @@ Diplomatic Administration-[nation]Luicia[/nation]
 Education Administration-[nation]Seceret[/nation]
 Health Administration-[nation]HugoGerhard[/nation]
 Interior Administration-[nation]Forsaken lands[/nation] 
-Commerce Admiistration-[nation]Arminarmstrong[/nation]
+Commerce Admiistration-[nation]Freedom Force[/nation]
 Council Leader-[nation]Hypora[/nation]
 Council-[nation]Luicia[/nation],[nation]Forsaken lands[/nation],[nation]Redtowel[/nation],[nation]Seceret[/nation],[nation]UDCA[/nation]
 

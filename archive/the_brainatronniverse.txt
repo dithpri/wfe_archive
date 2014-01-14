@@ -5,8 +5,6 @@ Supreme Leader: [nation=short]Brainatron[/nation]
 Prime Minister: [nation=short]Gentesummia[/nation]
 Cultural Leader: [nation=short]Woodevalladellus[/nation]
 Treasurer: [nation=short]Econopoly[/nation]
-Minister of Defense: [nation=short]Mechacercradonia[/nation]
-Minister of Commerce: [nation=short]Weresofd[/nation]
 
 
 

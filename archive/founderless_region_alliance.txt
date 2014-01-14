@@ -15,6 +15,6 @@ Intelligence Minister -- [nation=short]Milograd[/nation], [nation=short]SFBA wab
 
 Regional Liaison Officer -- [nation=short]The Saturnian Republic[/nation]
 
-Speaker of the Assembly -- Seneca
+Speaker of the Assembly -- [nation=short]Senecan Tribes[/nation]
 
 [i][color=red]Please do not contact the founder nation. For questions contact the Arch-Chancellor.[/color][/i]
