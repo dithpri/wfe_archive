@@ -13,7 +13,6 @@ Emperor: [nation=short]Desocia[/nation]
 
 Minister of Defense: [nation=short]The Imperial Reich[/nation]
 
-Minister of Security: 
 [color=grey]___________________________________________________________________________________________________________________________[/color]
 
 

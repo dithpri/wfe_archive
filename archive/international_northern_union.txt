@@ -4,7 +4,8 @@
 Supreme Council: [nation=short]Astrosis[/nation] [b](EXC.)[/b], [nation=short]Othelos[/nation], [nation=short]Ziptron[/nation] (SUP)
 WA Delegate: [nation=short]Xin Prussia[/nation] (SUP)
 Adviser: [nation=short]Luso[/nation] (SUP)
-Chairman: [nation=short]Crumstain[/nation] (Acting)
+Defense Minister: [nation=short]Hedfer II[/nation]
+Intelligence Minister: [pending]
 Secretary of Recruitment: [nation=short]Zwotstyg[/nation]
 Foreign Minister: [nation=short]The Federation of Zera[/nation] (SUP)
 Ambassador Committee: [nation=short]Crumstain[/nation], [nation=short]Lolder[/nation]

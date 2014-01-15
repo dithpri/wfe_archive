@@ -4,7 +4,7 @@ King: [nation=shortname]Lalucia[/nation]
 
 [u][b][color=blue]His Majesty&amp;#39;s Government[/color][/b][/u]
 [b]Prime Minister:[/b] [nation=shortname]ShenGuo[/nation] (PCP)
-[b]Minister of Defence and Security:[/b] [nation=shortname]The Arctic Wolves[/nation]
+[b]Minister of Defence and Security:[/b] [nation=shortname]The Arctic Wolves[/nation] (RIP)
 [b]Minister of International Development:[/b] [nation=shortname]The Royally United Provinces[/nation] (PCP)
 [b]Minister of Media and Culture:[/b] Vacant
 

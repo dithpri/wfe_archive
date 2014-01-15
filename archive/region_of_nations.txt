@@ -2,7 +2,8 @@ Welcome to the [b]Region of Nations[/b]! This is a region for nations that do no
 
 The region has a commission in order to handle its affairs:
 
-XXX Commission of the Region of Nations:
-President: [nation]Pectopah[/nation]
-Commissioner of Foreign Affairs: [nation]Silvaterra-Wasserland[/nation]
-Commissioner of Defence: [nation]Pseudoalexia[/nation]
+XXXI Commission of the Region of Nations:
+President: [nation]Pseudoalexia[/nation]
+Commissioner of Foreign Affairs: [nation]Pectopah[/nation]
+Commissioner of Internal Affairs: [nation]Piceastan[/nation]
+Commissioner of Defence: [nation]Silvaterra-Wasserland[/nation]

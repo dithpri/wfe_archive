@@ -17,7 +17,7 @@ Senate:
 High Court:
 Justice: [nation]the untied states[/nation][/color]
 
-[color=maroon]Message of the Day: Truce ends tomorrow![/color]
+[color=maroon]Message of the Day: &amp;quot;Where the beer is flat...&amp;quot;[/color]
 
 Record population:468
 Current Population:211
