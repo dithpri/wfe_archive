@@ -1,1 +1,2 @@
-[list][color=navy][b]0000[/b][/color][hr][color=cadetblue]an [region=Ancient Lands] region[/color][list]
+[list][color=navy][b]0000[/b][/color][hr][color=cadetblue]a [region=World] &#149; [region=Freedom Front] region
+allied with [region=Ancient Lands] &#149; [region=United States of America][/color][list]

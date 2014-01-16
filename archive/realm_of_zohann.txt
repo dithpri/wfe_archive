@@ -6,18 +6,14 @@ This is a Medieval time period reigon RULES-
 -Each nation can have a puppet nation (MAX 2)
 -Region travel tax 2 ducats per man
 
-
 -Roll Table
 51 - 100 pass
 26 - 50 fail
 0 - 25 epic fail
 
-Regional map - http://cubeupload.com/im/GpUn3i.png
+Regional map - http://cubeupload.com/im/sgSBgx.png
 
-Die rollers (Rotate by turn)-
-Keloppsburg
-Jagdalion
-Adronda
+Die rollers rotate by turn
 
 Economy-
 76 - 100 +2000
@@ -26,10 +22,10 @@ Economy-
 1 -25 - 2000
 multiply winnings by score in investment category
 
-changes to categorys-
+changes to category&amp;#39;s-
 auto - boats
 beverage - alcohol
-info tech - couriers
+info tech - Research (research add 5 to roll per point| 1-89 failure / 90-100 success)
 insurance - N/A
 pizza - agriculture
 retail - general store

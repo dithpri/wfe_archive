@@ -1,28 +1,27 @@
-[B]Welcome[/B] to the region of [region]The Monarchy of the New World[/region]
+Welcome to the region of The Monarchy of the New World
 
-[B][url=http://tmnw.tk/phpBB3/]Forum and Chat[/url][/B]
+[url=http://tmnw.tk/phpBB3/]Forum and Chat[/url]
 
 [url=http://tmnw.tk/legislation/index.html]Parliamentary Library[/url]
 
 [color=blue]WA nations please endorse the Prime Minister[/color]
 
-[B]Government[/B]:
+[u][B]Government[/B][/u]:
 
-[u]Monarch[/u]: [nation=short]Septentrione[/nation]
-[u]Prime Minister[/u]: [nation=short]The Precise Land of Correctness[/nation]
-[u]Minister of Defence and Intelligence[/u]: [nation=short]Nation of Toby[/nation]
-[u]Minister of Immigration and Foreign Relations[/u]: [nation=short]Morastria[/nation]
+Monarch: [nation=short]Septentrione[/nation]
+Prime Minister: [nation=short]The Precise Land of Correctness[/nation]
+Minister of Defence and Intelligence: [nation=short]Nation of Toby[/nation]
+Minister of Immigration and Foreign Relations: [nation=short]Morastria[/nation]
 
+[u][B]Supreme Court[/B][/u]:
 
-[B]Supreme Court[/B]:
+Supreme Court Justice: [nation=short]Ulaar[/nation]
+Convicts: [nation=short] Narty [/nation]has been sentenced to shunning until January 26th. No nations are to there for interact with them.
 
-[u]Supreme Court Justice[/u]: [nation=short]Ulaar[/nation]
-[u]Convicts[/u]: [nation=short]Narty[/nation] has been sentenced to shunning until January 26th. No nations are to there for interact with them.
+[B][color=blue]End of current government term: April 15th 2014[/color][/B]
+[u][B]Alert Level[/B][/u]: Code A
 
-[color=blue][u][B]End of current government term: April 15th 2014[/B][/u][/color]
-[u][B]Alert Level:[/B][/u] Code [B]C[/B]
-
-[u]Legend:[/u]
+[u]Legend[/u]:
 
 Code A=No threats
 Code B=Possible Threats

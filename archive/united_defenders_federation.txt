@@ -4,9 +4,10 @@
 [color=black]Founder:[/color] [nation=short]Battleship Fleet[/nation]
 [color=black]Delegate:[/color] [nation=short]Nepthalia[/nation]
 [color=grey]Vice Delegate: available![/color]
-[color=black]Minister of IF and Recruitment:[/color] [nation=short]Kortania[/nation] [color=black]Minister of Defense:[/color] [nation=short]Ursmington[/nation]
+[color=black]Minister of IF and Recruitment:[/color] [nation=short]Kortania[/nation] 
+[color=black]Minister of Defense:[/color] [nation=short]Ursmington[/nation]
 [color=grey]Advisory Council: available![/color]
-[color=grey]Ambassador Committee: available![/color]
+[color=black]Ambassador Committee:[/color] [nation=short]Hirizionburg[/nation]
 [color=grey]Map keeper: available![/color]
 
 [b][u]WA members[/u]: endorse our delegate, [nation=short]Nepthalia[/nation].[/b]

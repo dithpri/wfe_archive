@@ -4,12 +4,12 @@
 
 [b]Secretary of State:[/b] [nation]Quail-umbria[/nation]
 [b]Head of Secret Police:[/b] [nation]Sussia[/nation]
-[b]Warden of the Exterior:[/b]
-[b]Auditor of the Exchequer:[/b]
+[b]Warden of the Exterior:[/b] [nation]Crucania[/nation]
+[b]Auditor of the Exchequer:[/b] [nation]Marrow Wind[/nation]
 
 [b][i]The Management Board[/i][/b]
 
-[b]Minister of the Interior:[/b]
+[b]Minister of Interior Relations:[/b]
 [b]Minister for Agriculture, Horticulture, and woolen issue:[/b]
 [b]Minister of Industry:[/b]
 [b]Minister of Foreign Policy:[/b]

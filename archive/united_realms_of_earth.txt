@@ -1,6 +1,6 @@
 Welcome to the [b][region=United Realms of Earth][/b]
 [hr]
-[color=darkblue]Todays nation of the day is[/color] [nation=Elveston]
+[color=darkblue]The nation of the day is[/color] [nation=Shrek Land]
 
 [hr]
 
@@ -21,7 +21,10 @@ We will have elections to determine the Ministers of the region. Any nation may 
 [color=blue]Minister of Technology[/color]
 [nation=short]Supergoly[/nation] 
 
-[color=red]Minister of Defence[/color]
-
+[color=red]Minister of Defense[/color]
+[nation=short]Turos[/nation]
 [color=orange]Minister of Health and Safety[/color]
 [nation=short]Trensilore[/nation]
+
+[color=green]Minister of Environment [/color]
+[nation=short]Shrek Land[/nation]
