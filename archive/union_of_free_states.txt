@@ -5,12 +5,12 @@
 
 [B]EXECUTIVE BRANCH:[/B]
 Union Secretary:[nation=short]Canadia and The United Kingdom[/nation]
-Secretary-Defense and War:
-Secretary-Foreign Affairs/Embassies:[nation=short]Island of animals[/nation]
+Secretary-Defense :[nation=short]Buena Suerte[/nation]
+Secretary-Foreign Affairs:[nation=short]Island of animals[/nation]
 Secretary-Internal Affairs:[nation=short]Narnifrey[/nation]
 Secretary-Legal Affairs:[nation=short]North America and The Great Lakes[/nation]
 
 [B]JUDICIAL BRANCH/UNION OF FREE STATES JUSTICE TRIBUNAL[/B]
 Justice Tribunal Chief/Major Judge:[nation=short]North America and The Great Lakes[/nation]
-Justice Tribunal Minor Judge #1:
-Justice Tribunal Minor Judge #2:
+Justice Tribunal Minor Judge #1:[nation=short]House of Griffindor[/nation]
+Justice Tribunal Minor Judge #2:[nation=short]valacria[/nation]

@@ -8,7 +8,7 @@ Health Administration-[nation]HugoGerhard[/nation]
 Interior Administration-[nation]Forsaken lands[/nation] 
 Commerce Administration-[nation]Freedom Force[/nation]
 Council Leader-[nation]Hypora[/nation]
-Council-[nation]Luicia[/nation],[nation]Forsaken lands[/nation],[nation]Redtowel[/nation],[nation]Seceret[/nation],[nation]Freedom Force[/nation]
+Council-[nation]Luicia[/nation],[nation]Forsaken lands[/nation],[nation]Redtowel[/nation],[nation]Seceret[/nation],[nation]HugoGerhard[/nation]
 
 Allies:
 [region]Communist Region[/region]
