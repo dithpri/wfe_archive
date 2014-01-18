@@ -7,8 +7,7 @@
 [b][u]Ministry of Foreign Affairs[/b][/u]
 [nation=short]gileana[/nation] [b](Minister)[/b] 
 [nation=short]baleanor[/nation]
-[b][u]Intelligence Directorate[/b][/u] 
-[nation=short]the nightingale of the night[/nation] [b](Director) [/b]
+[b][u]Intelligence Directorate[/b][/u]
 [nation=short]republicofhampstead[/nation]
 [b][u]Recruitment Bureau[/b][/u]
 [nation=short]the glorious shroomic republic[/nation][b](Chairman) [/b]
@@ -17,7 +16,7 @@
 [nation=short]onocarcass[/nation]
 [b][u]Supreme Judicial Court[/b][/u]
 [nation=short]talkistan[/nation]
-[nation=short]kiyu suma[/nation]
+[nation=short]the nightingale of the night[/nation]
 [nation=short]rrzan[/nation]
 
 Our ambassadorial representative is currently located in [region]International Western Union[/region]

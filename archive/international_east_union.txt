@@ -3,13 +3,11 @@
 [u][Color=gold]IEU Regional Government:[/color][/u]
  Supreme Council:                                                               
 WA Delegate: [nation]Venta[/nation]                                                                        
- Advisor:
+ Advisor:[nation]Istiglal[/nation]
 Chairman:
 Secretary of Recruitment:
 Foreign Minister:[nation]DANIAL2[/nation]  
 Ambassador Committee:
 IEUCA Chairman: 
 
-[b][u]WA Members:[/u][/b] [b]Please endorse our our WA delegate[/b],[nation]venta[/nation][hr] [b]Please refrain from posting inappropriate content[/b] 
-
-
+ [b]Please refrain from posting inappropriate content[/b] 

@@ -5,11 +5,21 @@ TRADE PRICES:
 [nation]Kevin Isle[/nation]
 1 K-Dollar:
 
-[nation]Kalupan Dragon Borns[/nation] 0.55 Dragon Souls
+[nation]Kalupan Dragon Borns[/nation] 1.45 Dragon Souls
+[nation]Breadfishland[/nation] 1.15 Derps
 
 ---------------------------------------------------------------
 
 [nation]Kalupan Dragon Borns[/nation]
 1 Dragon Soul:
 
-[nation]Kevin Isle[/nation] 1.45 K-Dollars
+[nation]Kevin Isle[/nation] 0.55 K-Dollars
+[nation]Breadfishland[/nation] 99.95 Derps
+
+---------------------------------------------------------------
+
+[nation]Breadfishland[/nation]
+1 Derp:
+
+[nation]Kevin Isle[/nation] 0.85 K-Dollars
+[nation]Kalupan Dragon Borns[/nation] 0.01 Dragon Souls

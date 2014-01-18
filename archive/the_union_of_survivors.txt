@@ -1,1 +1,3 @@
-This region is holding area, later on in the region we will move on to more powerful regions such as&#133;? That information is only for nations of this region
+ [b]Governor:[/b] [nation]Area Governor 5[/nation]
+
+This area is part of [region]The Tiger Empire[/region]

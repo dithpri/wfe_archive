@@ -1,4 +1,3 @@
-[color=red]&amp;quot;Is a man not entitled to the sweat of his own brow?&amp;quot;[/color]
 [color=blue]Northern United Federal Alliance[/color]
 Leader(s): Andrew Ryan and Edward Tannenbaum
 [nation]Renegalis[/nation] In the region [region]Wintreath[/region]
@@ -12,7 +11,8 @@ Leader(s):Denth Rowan
 [nation]Zepate[/nation]
 [nation]Jeekwigges[/nation]
 [nation]Dawsinian[/nation]
+[nation]Communist Luxembourg[/nation]
 [color=orange]The Temeran Allegiances[/color]
-Leader(s): The High Lord Krel Moctin and Queen Rodalia(TEMERA) Kind and Queen Heratus(BULANDIA)
+Leader(s): The High Lord Krel Moctin and Queen Rodalia(TEMERA) King and Queen Heratus(BULANDIA)
 [nation]Temera Major[/nation]
 [nation]Bulandia Major[/nation]

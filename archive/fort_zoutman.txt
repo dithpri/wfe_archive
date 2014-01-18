@@ -1,11 +1,13 @@
 [b]You have entered the [color=blue]military outpost[/color] of beautiful Fort Zoutman![/b]
 
-Enjoy our blue skies, azure waters, palm trees, and sandy beaches! Pull up a chair, pour yourself some rum, and relax!! [b]Please do not disturb the iguanas.[/b]
+[b]Enjoy our blue skies, azure waters, palm trees, and sandy beaches! Pull up a chair, pour yourself some rum, and relax!! [u]Please do not disturb the iguanas[/u].[/b]
 
 [color=red][b]VISITORS:[/color] Foreign military and civilians who do not behave themselves will be subject to arrest and deportation![/b]
 
 [color=blue][b]GOVERNOR-GENERAL &amp;amp; BARONET OF THE BARONY:[/color] [nation=short]Sheldon Lee Cooper PhD[/nation][/b]
-[color=blue][b]AIDE-DE-CAMP:[/color] [nation=short]3e Korps Mariniers[/nation][/b]
+[color=blue][b]POST COMMANDER:[/color]  [nation=short]Dorsai Mercenaries[/nation][/b]
+[color=blue][b]ADJUTANT:[/color]   [nation=short]Aggressor Republic[/nation][/b]
+[color=blue][b]AIDE-DE-CAMP TO THE BARONET:[/color] [nation=short]3e Korps Mariniers[/nation][/b]
   
 [b]Fort Zoutman is a territory of the region [region]Horses and Bayonets[/region] and a member of the [color=red]Barony Dominion[/color]. 
 Long Live the Baron![/b]

@@ -7,10 +7,11 @@ Welcome to the [b][region=United Realms of Earth][/b]
 [color=darkgreen][b]United Realms Ogrelord[/b][/color]
 [nation=short]Shrek Land[/nation] 
 
-[color=purple][b]Prime Minister[/b][/color]
+[color=purple][b]Vice President[/b][/color]
 [nation=short]Elveston[/nation] 
 
-Slightly higher than the dirt on my boot [nation=short]New New Cageistan[/nation]
+Head Minister
+[nation=short]New New Cageistan[/nation]
 [color=red][b]Important[/b][/color]
 The role of Prime Minister may only be held by the [color=gold][b]WA Delegate[/b][/color]
 
