@@ -6,7 +6,7 @@ Our brother region and direct associate is [region]The Worst Region Ever[/region
 
 [u]Positions:[/u]
 
-Founder/Administrator: [nation]The Separated Kingdom of Whateverland[/nation]
+Founder/Administrator: [nation=short]The Separated Kingdom of Whateverland[/nation]
 Cartographer: OPEN
 Secretary: OPEN
-Moderator (Nation who solves any problems in the region): OPEN
+Moderator: OPEN

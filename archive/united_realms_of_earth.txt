@@ -10,10 +10,9 @@ Welcome to the [b][region=United Realms of Earth][/b]
 [color=purple][b]Vice President[/b][/color]
 [nation=short]Elveston[/nation] 
 
-Head Minister
+[b]Head Minister[/b]
 [nation=short]New New Cageistan[/nation]
-[color=red][b]Important[/b][/color]
-The role of Prime Minister may only be held by the [color=gold][b]WA Delegate[/b][/color]
+
 
 [hr]
 
@@ -25,6 +24,7 @@ We will have elections to determine the Ministers of the region. Any nation may 
 
 [color=red]Minister of Defense[/color]
 [nation=short]Turos[/nation]
+
 [color=orange]Minister of Health and Safety[/color]
 [nation=short]Trensilore[/nation]
 

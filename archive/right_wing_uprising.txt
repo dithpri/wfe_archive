@@ -22,6 +22,7 @@
 [region]National Socialist Revolution[/region]
 [region]Commonwealth of Freedom and Liberty[/region]
 [region]Alliance of Absolute Monarchs[/region]
+[region]The Western Empire[/region]
 
 [b][color=silver]Allies:[/color][/b]
 [region]The Red Wolf Rifle Korps[/region]

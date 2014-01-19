@@ -1,13 +1,16 @@
-The Federal Alliance is an alliance organization working to promote and facilitate cooperation in international law, international security, economic development, social progress, human rights, civil rights, civil liberties, political freedoms, and democracy.
+[list]
+Governor General: [nation]CaBaurn[/nation]
+Deputy Governor: [nation]Huguenot[/nation]
+Inspector General:
+[/list]
 
-Secretary General: CaBaurn
-Inspector General: NONE
+[list]
+Security Council:
+Chairman:
+Member 1:
+Member 2:
+Member 3:
+Member 4:
+Member 5:
 
-Chairman of the Security Council: NONE
-Chairman of the Economic Council: NONE
-Chairman of the Justice Council: NONE
-
-
-NEWS BOARD:
-
-No current news.
+[/list]

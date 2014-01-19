@@ -7,12 +7,12 @@
 [color=red]Welcome to our free, democratic region with a rich history. We welcome leftists of all kind and promote equality among all of our nations and humanity.[/i]
 
 [B][u]Regional Government[/u]
-Delegate: 
+Delegate: [nation=short]Communist Bloodia[/nation]
 Minister of Foreign Affairs: 
 Minister of Justice: 
-Minister of Intelligence: [nation]Soviet East Japan[/nation]
-Minister of Defense: [nation]Marxist Kommunists[/nation]
-Minister of Immigration: [nation]The Spetsnaz Guard Brigade[/nation][/color]
+Minister of Intelligence: [nation=short]Soviet East Japan[/nation]
+Minister of Defense: [nation=short]Marxist Kommunists[/nation]
+Minister of Immigration: [nation=short]The Spetsnaz Guard Brigade[/nation][/color]
 
 [url=http://www.youtube.com/watch?v=kDIuApfVxBg][color=red]Regional Anthem[/color][/url]
 [url=http://daskommune.boards.net/][color=red]Regional Forum[/color][/url]

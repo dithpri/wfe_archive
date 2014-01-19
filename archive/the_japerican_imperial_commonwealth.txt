@@ -5,6 +5,7 @@
 [region]The League of Democratic Nations[/region]
 [region]Region[/region]
 [region]The Commonwealth of Allied Nations[/region]
+[region]The United Federation of Nations[/region]
 
 Staff:
 [nation]Bartholomew[/nation]
@@ -12,8 +13,7 @@ Staff:
 [nation]Arubato[/nation]
 [nation]Mikanada III[/nation]
 [nation]Mikanada IV[/nation]
-[nation]Mikanada V[/nation][/color]
-
-[color=navy]Click here to learn more about the order of jurisdiction of The JIC.[/color]
+[nation]Mikanada V[/nation]
+[nation]Mikanada VI[/nation][/color]
 
 [color=red][i]&amp;quot;Never let the mighty Japerican Empire fall!&amp;quot;[/i][/color][/b]

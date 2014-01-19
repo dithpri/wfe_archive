@@ -15,14 +15,15 @@ Minister of Foreign Affairs:
 Minister of Defense:
 Minister of Education:
 Minister of History:
+Treasury:
+Secretary:
 
 Legislature President: [nation]Indian Milostream[/nation]
-Legislature Member:
-Legislature Member:
-Legislature Member:
-Legislature Member:
+Legislature Members (4):
+
 
 [nation]A turtle named Dan 50[/nation]
 [nation]The CAS Ambassador[/nation]
 
 These are representatives from other regions.
+Please endorse the current delegate.

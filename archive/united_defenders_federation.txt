@@ -6,7 +6,7 @@
 [color=grey]Vice Delegate: available![/color]
 [color=black]Minister of IF and Recruitment:[/color] [nation=short]Kortania[/nation] 
 [color=black]Minister of Defense:[/color] [nation=short]Ursmington[/nation]
-[color=grey]Advisory Council: available![/color]
+[color=black]Advisory Council:[/color] [nation=short]Nordem[/nation]
 [color=black]Ambassador Committee:[/color] [nation=short]Hirizionburg[/nation]
 [color=grey]Map keeper: available![/color]
 

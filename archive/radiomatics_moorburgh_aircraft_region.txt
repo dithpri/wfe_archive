@@ -1,3 +1,7 @@
 Radiomatics Moorburgh Aircraft will be cheaper in this region, Region members will entitle 17% discounts
 
-The Konglomerat Region Members also will entitle 17% discounts
+[region]The Konglomerat[/region] Region Members also will entitle 17% discounts
+------------------------------------------------------------------------------------------------
+-Chairmen of The Region: [nation]Moorburgh[/nation]
+- Region Prime Minister: [nation]Radiomatics Moorburgh[/nation]
+- Region Minister of Foreign &amp;amp; Trade: [nation]Springmont[/nation]
