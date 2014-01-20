@@ -21,9 +21,11 @@ Secretary:
 Legislature President: [nation]Indian Milostream[/nation]
 Legislature Members (4):
 
+Head Judge:
+Judge Members (4):
+
 
 [nation]A turtle named Dan 50[/nation]
-[nation]The CAS Ambassador[/nation]
-
 These are representatives from other regions.
+
 Please endorse the current delegate.

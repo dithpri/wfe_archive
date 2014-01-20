@@ -1,6 +1,6 @@
 Head of State: [nation]Everestopia[/nation]
 Prime Minister: [nation]The Sovereign State Of Panem[/nation]
-Deputy Prime Minister:
+Deputy Prime Minister: [nation]The Sylph Empire[/nation]
 Minister of Defence:
 Home Secretary:
 Foreign Secretary:

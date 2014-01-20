@@ -10,7 +10,7 @@
 Delegate: [nation=short]Communist Bloodia[/nation]
 Minister of Foreign Affairs: 
 Minister of Justice: 
-Minister of Intelligence: [nation=short]Soviet East Japan[/nation]
+Minister of Intelligence:
 Minister of Defense: [nation=short]Marxist Kommunists[/nation]
 Minister of Immigration: [nation=short]The Spetsnaz Guard Brigade[/nation][/color]
 

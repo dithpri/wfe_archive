@@ -7,7 +7,7 @@
 
 Arch Chancellor -- [nation=short]Karputsk[/nation]
 
-Vice Chancellor -- [i]To be appointed[/i]
+Vice Chancellor -- [nation=short]Dyr Nasad[/nation]
 
 Chief of Defence Force -- [i]vacant[/i]
 

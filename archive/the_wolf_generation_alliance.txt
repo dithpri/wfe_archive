@@ -7,10 +7,10 @@
 &#149; [color=skyblue][b]Government[/color][/b]
 [color=blue][b]President:[/color][/b] [nation=short]Ausira[/nation]
 [color=blue][b]Vice-President:[/color][/b]
-[color=blue][b]Minister of War:[/color][/b] [nation=short]the blood ravens[/nation]
+[color=blue][b]Minister of War:[/color][/b] 
 [color=blue][b]Minister of Peace:[/color][/b] [nation=short]Xanthius[/nation]
 [color=blue][b]Minister of Foreign Affairs:[/color][/b]
-[color=blue][b]Minister of Science:[/color][/b] [nation=short]The umbrella corperation[/nation]
+[color=blue][b]Minister of Science:[/color][/b] 
 [color=blue][b]Role-Playing Adviser:[/color][/b]
 
 &#149; [b]Military:[/b] [b]Under Construction.[/b]

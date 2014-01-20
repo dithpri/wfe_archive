@@ -9,6 +9,6 @@ Welcome to the Glorious Confederacy
 [color=red]Red=  Immediate Danger[/color]
 [color=purple]Purple = Lockdown[/color] 
 
-Current Danger Level: [color=orange]High[/color]
+Current Danger Level: [color=amber]Medium[/color]
 
-Reason: Canisiuso decided to execute GC POWS. Peace threatened greatly. FPPCIE has also sent Point Beam type weapons into space, breaking one of the terms of treaty
+Reason: Currently entering a detente with Canisiuso
