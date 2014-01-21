@@ -1,10 +1,12 @@
 [b]About[/b]
 
-Two nations united in an unknown place only known by its codename, Stratosphere.
-The alliance was founded so both empires could profit from the political and economic aid,
+Nations united in an unknown place known only by its codename, [region]Stratosphere[/region].
+The alliance was founded so these nations could profit from their political and economic aid,
 speeding up their process of ascending to their desired state and achieving their desired goal.
 
 [b]Nations[/b]
 
-[nation]Descending Sky[/nation] : &#147;One step in mind, two for the fight&#148; 
-[nation]Austral Cross[/nation] : &#147;With knowledge, you will conquer.&#148;
+[nation]Descending Sky[/nation] : &#147;One step in mind, two for the fight!&#148; 
+[nation]Austral Cross[/nation] : &#147;Peace is a lie, there is only passion.&#148;
+[nation]Primus II[/nation] : &#147;There is no Death, there is the Force&#148;
+[nation]Akatora[/nation] : &#147;Damn Bots&#148;

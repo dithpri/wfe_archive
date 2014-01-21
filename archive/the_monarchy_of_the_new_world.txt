@@ -1,8 +1,6 @@
 Welcome to the region of The Monarchy of the New World
 
-[url=http://tmnw.tk/phpBB3/]Forum and Chat[/url]
-
-[url=http://tmnw.tk/legislation/index.html]Parliamentary Library[/url]
+[url=http://tmnw.tk/phpBB3/]Forum[/url] | [url=http://tmnw.tk/phpBB3/mchat.php]Chat [/url]| [url=http://tmnw.tk/legislation/index.html]Parliamentary Library[/url]
 
 [color=blue]WA nations please endorse the Prime Minister[/color]
 
@@ -19,13 +17,5 @@ Supreme Court Justice: [nation=short]Ulaar[/nation]
 Convicts: [nation=short] Narty [/nation]has been sentenced to shunning until January 26th. No nations are to there for interact with them.
 
 [B][color=blue]End of current government term: April 15th 2014[/color][/B]
-[u][B]Alert Level[/B][/u]: Code A
 
-[u]Legend[/u]:
-
-Code A=No threats
-Code B=Possible Threats
-Code C=Threats Confirmed
-Code D=Possible Attack
-Code E=Attack Confirmed
-Code Z=Regional Disaster
+[u][B]Alert Level[/B][/u]: Code A ([url=http://www.nationstates.net/nation=data_collector/detail=factbook/id=209241]Legend[/url])

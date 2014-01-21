@@ -1,7 +1,1 @@
-[list][color=navy][b]Dominican Republic[/b][/color][hr][hr][list][color=teal]Guardi&aacute;n: [nation=short]Manitoulin[/nation]
-Esta regi&oacute;n est&aacute; asociada con: [list]- [region=Ancient Lands]
-- [region=Freedom Front]
-- [region=Latin America]
-- [region=The Americas]
-- [region=World][/color][/list][/list][color=654321]El departamento de turismo y la inmigraci&oacute;n siempre da la bienvenida a nuevos visitantes
-Nuestras playas est&aacute;n siempre abiertas[hr][hr][b]BIENVENIDOS[/b][/color]
+[hr][hr][list][list][color=navy][b]Dominican Republic[/b][/color][/list][/list][hr][hr]

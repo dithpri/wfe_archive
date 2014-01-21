@@ -1,8 +1,8 @@
-[list][color=009900][b]Denver[/b], [region=Colorado], [region=United States of America][/color][hr][b]WELCOME[/b][/list]
+[hr][hr][list][color=009900][b]Denver[/b], [region=Colorado], [region=United States of America][/color][/list][hr][hr][list][b]WELCOME[/b]
 [color=008080]
-About Denver[list][hr]Largest City and Capital of [region=Colorado]
+About Denver[list]Largest City and Capital of [region=Colorado]
 FACTS
 [b]Founded:[/b] 1858, Nov. 22
 [b]Area:[/b] 154.9 sq mi
 [b]Population:[/b] 634,265 (2012, July 1st Census)
-[b]Demonym:[/b] Denverite[/color][hr][/list]
+[b]Demonym:[/b] Denverite[/color][/list][/list][hr]

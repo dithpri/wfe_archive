@@ -5,10 +5,11 @@ Prime Minister and Founder:[nation]Gibberan[/nation]
 Co-Founder:[nation]Paketo[/nation]
 Minister of the Interior:[nation]The United Federations[/nation] 
 Minister of Defense: Paketo
-Minister of Foreign Affairs: :[nation]Corenea[/nation]
+Minister of Foreign Affairs:
 Minister of Education:[nation]Veroxia[/nation]
-Specialized Titles
-Chief Cartographer: The United Federations
+Minister of Technology and Research: Veroxia
 Chief of Coalition Private Security Force:[nation]Marsisian[/nation]
-Chief Recruiter:
-Chief of Technology and Research: Veroxia
+
+Ambassador from the IFA:[nation]Corenea[/nation]
+
+
