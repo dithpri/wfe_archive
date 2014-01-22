@@ -4,7 +4,7 @@
 [i]&#147;Ask not what your country can do for you; ask what you can do for your country.&#148;-JFK[/i]
 
 [hr][color=navy][b]:: [i]The Executive Cabinet[/i] ::[/b][/color]
-[b][color=purple]President[/color]: [/b][i][color=red]Election In Progress[/color][/i]
+[b][color=purple]President[/color]: [nation=short]Kommunistica[/nation][/b]
 [b][color=purple]Prime Minister[/color][color=grey] (On-Leave)[/color]: [nation=short]ASEAN[/nation][/b]
 [b][color=purple]Deputy Prime Minister[/color][color=grey] (Acting PM)[/color]: [nation=short]Alruniea[/nation][/b]
 

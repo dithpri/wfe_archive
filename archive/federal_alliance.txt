@@ -1,6 +1,6 @@
 [list]
 Governor General: [nation]CaBaurn[/nation]
-Deputy Governor: [nation]Huguenot[/nation]
+Deputy Governor:
 Inspector General:
 [/list]
 

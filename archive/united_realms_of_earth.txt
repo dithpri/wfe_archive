@@ -1,6 +1,6 @@
 Welcome to the [b][region=United Realms of Earth][/b]
 [hr]
-[color=darkblue]The nation of the day is[/color] [nation=Elveston]
+[color=darkblue]The nation of the day is[/color] [nation=short]Shrek Land[/nation]
 
 [hr]
 
@@ -9,10 +9,6 @@ Welcome to the [b][region=United Realms of Earth][/b]
 
 [color=purple][b]Vice President[/b][/color]
 [nation=short]Elveston[/nation] 
-
-[b]Shreks Hated Child [/b]
-[nation=short]New New Cageistan[/nation]
-
 
 [hr]
 

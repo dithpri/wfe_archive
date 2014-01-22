@@ -1,12 +1,1 @@
-[color=green]Welcome to land.[/color]
-
-[color=orange]Land is a tiny region that will not change in size.[/color]
-
-Please choose any of these positions:
-
-Recruiter:
-Head of Military:
-Head of Economy:
-Head of Resources:
-Senate:
-Congress:
+WELCOME TO LAND.

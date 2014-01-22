@@ -3,12 +3,12 @@
 [b][color=orange][u]The United Royal Alliance Party Is Currently In Power[/u][/color][/b]
 
 [b][color=grey][u]Executive[/u][/color]
-[color=blue]Prime Minister[/color] [nation=short]The Maynard Islands[/nation]
-[color=blue]Deputy Prime Minister[/color] [nation=short]Magna civilis[/nation][/b]
+[color=darkblue]Prime Minister[/color] [nation=short]The Maynard Islands[/nation]
+[color=darkblue]Deputy Prime Minister[/color] [nation=short]Magna civilis[/nation][/b]
 [b][url=http://www.nationstates.net/nation=the_maynard_islands/detail=factbook/id=146307]URAP Cabinet &amp;amp; Platform[/url][/b]
 
 
-[nation=short]Buddyland[/nation]: [color=blue]Minister for Foreign Affairs, Immigration &amp;amp; Border Protection[/color]
+[b][nation=short]Buddyland[/nation]: [color=darkblue]Minister for Foreign Affairs, Immigration &amp;amp; Border Protection[/color][/b]
 ___________________________________________________________________________________________
 
 [color=grey][u]Opposition Leaders[/u][/color]

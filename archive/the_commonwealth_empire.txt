@@ -26,3 +26,5 @@
 [region]Grand Union[/region]
 [region]Draconian Alliance[/region]
 [region]Libertopia[/region]
+
+[b]Current protectorate:[/b]  [region]The Arab League[/region] : 6 military nations deployed
