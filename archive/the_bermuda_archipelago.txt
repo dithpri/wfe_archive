@@ -2,9 +2,9 @@
 
 [hr]
 
-[b]Regional Animal:[/b] Giant Squid
+[b]Regional Animal:[/b] Humpback Whale
 
-[b]Regional Plant:[/b] Sargasso Seaweed
+[b]Regional Plant:[/b] Urkazonian Acacia
 
 [b]Anthem:[/b] Battle Cry of the Alliance
 
@@ -14,11 +14,11 @@
 [hr]
 [b]Region President: [nation]Intergalactic Federation of Systems[/nation][/b]
 
-[b]Region Founder: [nation]Urkazon[/nation][/b]
+[b]Head of Foreign Affairs: [nation]Urkazon[/nation][/b]
 
 [b][color=red]Cabinet[/color][/b]
 [hr]
-[b]Minister of Linguistics: [nation]Temesukah[/nation][/b]
+[b]Treasurer: [nation]Temesukah[/nation][/b]
 
 [b]Minister of Defense: [nation]Eu-dop3ia[/nation][/b]
 

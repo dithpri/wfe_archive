@@ -6,7 +6,7 @@
 [b]Regional Vice President: [/b][nation=short]Flynnerane[/nation]
 [b]Regional Premier: [/b][nation=short]Avantian Union[/nation]
 [b]Government I: [/b][nation=short]Independent Plaizh Avantia[/nation]
-[b]Government II: [/b][nation=short]Gaamorreja[/nation]
+[b]Government II: [/b][i]Voting[/i]
 [b]Regional Senator: [/b][nation=short]Unified Legoland[/nation]
 [b]Immigration Executive: [/b][nation=short]Imyahistan[/nation]
 [b]Foreign Affairs Executive: [/b][nation=short]Nakyrozia[/nation]

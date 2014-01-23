@@ -8,5 +8,7 @@ Regional Government:
 Leader: [nation]Inukastan[/nation]
 Co-Leader: [nation]FCPORTOROCKS[/nation]
 Minister of Defence: [nation]The Overpowered Nations[/nation]
+Minister of internal affairs: [nation]Ebar[/nation]
+
 
 
