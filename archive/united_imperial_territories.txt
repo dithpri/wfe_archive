@@ -4,23 +4,26 @@ Welcome to the Empire of the UIT!
 
 Council Positions:
 Emperor: Karl Friedmann of [nation]Unified Imperial States[/nation]
-Grand Inquisitor - [nation]Autocracy of Equestria[/nation]
+Grand Inquisitor - Vacant
 Director of Intelligence - [nation]Cadifor[/nation]
-Lord High Marshal - N/A
-Minister of Foreign Affairs - N/A
-Internal Defense Administrator - N/A
-World Assembly Delegate- N/A
+Lord High Marshal - Vacant
+Minister of Foreign Affairs - Vacant
+Internal Defense Administrator - [nation]Stalinist Imperial Union[/nation]
+World Assembly Delegate - Vacant
+Overwatch Authority Overseer - Vacant
 
 Government Position Roster
 
-Imperial Inquisition: 1
+Imperial Inquisition: 0
 
-Imperial Military: N/A
+Imperial Military: 0
 
-Ministry of Foreign affairs: N/A
+Ministry of Foreign affairs: 0
 
 Internal Defense Administration: 1
 
-World Assembly Offices: N/A
+World Assembly Offices: 0
 
 Imperial Intelligence Agency: 1
+
+Overwatch: 0

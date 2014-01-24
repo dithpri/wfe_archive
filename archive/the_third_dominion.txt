@@ -3,7 +3,7 @@
 President: [nation=short]Advelard[/nation]
 Vice President: [nation=short]Conceptina[/nation]
 =============================
-Secretary of Justice: [nation=short]Fairy-Tail[/nation]
+Secretary of Justice: [nation=short]Odnell[/nation]
 Secretary of War: [nation=short]The New Earth Coalition[/nation]
 Secretary of Internal Affairs: [nation=short]Republic of the North[/nation]
 Secretary of Foreign Affairs: [nation=short]Zaalbar[/nation]

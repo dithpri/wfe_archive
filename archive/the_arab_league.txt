@@ -14,4 +14,4 @@ Chief Hakim:[nation=short]Cernomia[/nation]
 Chairman: [nation=short]Salah Jadid[/nation]
 Members:[nation=short]Lentheric WA[/nation], [nation]Arab Assyria[/nation], [nation=short]The Gulden Vlies[/nation], [nation=short]Movrum[/nation]
 
-Protected by: [b][region]The Commonwealth of Crowns[/region][/b]
+[b]Protected by: [region]The Commonwealth of Crowns[/region][/b]

@@ -7,8 +7,8 @@
 
 [B][url=http://www.nationstates.net/nation=great_jergania_and_jonland/detail=factbook/id=209755]Political Parties[/url][/B]
 
-[B]Seat and Presiding Nation[/B]: [nation]Great Jergania and Jonland[/nation] [color=blue]Classical[/color]
-[B]Co-Seat and Chair of the Legislature[/B]: [nation]Great Robica[/nation] [color=red]Progressive[/color]
+[B]Seat and Presiding Nation (Endorse him and only him)[/B]: [nation]Great Jergania and Jonland[/nation] [color=blue]Classical[/color]
+[B]Chair of the Legislature[/B]: [nation]Great Robica[/nation] [color=red]Progressive[/color]
 [B]Judiciary[/B]: [nation]Grand Yotsuba[/nation] [color=blue]Classical[/color]
 
 [url=http://holyrome.createaforum.com/index.php]Forum (Under construction)[/url]

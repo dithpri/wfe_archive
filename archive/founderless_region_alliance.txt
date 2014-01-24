@@ -9,7 +9,7 @@ Arch Chancellor -- [nation=short]Karputsk[/nation]
 
 Vice Chancellor -- [nation=short]Dyr Nasad[/nation]
 
-Chief of Defence Force -- [i]vacant[/i]
+Chief of Defence Force -- [nation=short]Frattastan II[/nation], [nation=short]Guy[/nation]
 
 Intelligence Minister -- [nation=short]Milograd[/nation], [nation=short]SFBA wabbitslayah[/nation]
 

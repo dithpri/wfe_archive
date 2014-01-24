@@ -10,7 +10,6 @@
 [b][u]Intelligence Directorate[/b][/u]
 [nation=short]republicofhampstead[/nation]
 [b][u]Recruitment Bureau[/b][/u]
-[nation=short]the glorious shroomic republic[/nation][b](Chairman) [/b]
 [nation=short]haigford[/nation]
 [b][u]Chief Communications Officer[/b][/u] 
 [nation=short]onocarcass[/nation]
@@ -19,7 +18,7 @@
 [nation=short]the nightingale of the night[/nation]
 [nation=short]rrzan[/nation]
 
-Our ambassadorial representative is currently located in [region]International Western Union[/region]
+Our ambassadorial representatives are currently located in [region]International Western Union[/region] and [region]Kennan[/region]
 
 [url=http://i.imgur.com/wEIaQ4o.jpg]Regional Map[/url]
 [url=http://w11.zetaboards.com/UnionofFreeNations/index/]Regional Forum[/url]
