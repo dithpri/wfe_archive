@@ -12,10 +12,9 @@ Security: [nation=short+noflag]West Consigahria[/nation]
 [b][u]Current Security Status[/b][/u] (underlined is in effect)
 [b][u][color=blue]Safe[/color][/u][/b] | [color=red]Cautioned[/color] | [color=purple]In Danger[/color] | [color=black]Locked Down[/color]
 
-[b][u]November 2013 Statistics[/u][/b]
-[b]Population[/b]: 17.79 billion
-[b]Regional GDP[/b]: NS$685.34 trillion
-Will update soon
+[b][u]January 2014 Statistics[/u][/b]
+[b]Population[/b]: 18.571 billion
+[b]Regional GDP[/b]: NS$557,763,381,697,624.00
 
 [b][u]Menu[/u][/b]
 [url=http://www.nstracker.net/region=domicilium]Regional Statistics[/url] | [url=http://www.nationstates.net/region=domicilium#rmb]Regional Message Board[/url]

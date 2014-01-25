@@ -1,12 +1,13 @@
-Welcome to Congregationem Fortium! We are a region the strives on power and glory.
+Welcome to Congregationem Fortium! We are a region that strives on power and glory.
 
-Founder: [nation]Cathorn[/nation]
-WA Delegate: N/A
-Consul (Leader): [nation]Cathorn[/nation]
-Praetor (Judge): N/A
-Censor (Census Recorder): N/A
-Curule Aedile (Sports and Regional Events): N/A
-Quaestor (Finances): [nation]Consummatas[/nation]
+[b]Founder[/b]: [nation]Cathorn[/nation]
+[b]WA Delegate[/b]: N/A
+[b]Consul (Leader)[/b]: [nation]Cathorn[/nation]
+[b]Chief Advisor[/b]: [nation]Consummatas[/nation]
+[b]Praetor (Judge)[/b]: N/A
+[b]Censor (Census Recorder)[/b]: N/A
+[b]Curule Aedile (Sports and Regional Events)[/b]: N/A
+[b]Quaestor (Finances)[/b]: [nation]Consummatas[/nation]
 
 
 &amp;quot;Glory to the Supreme Ruler!&amp;quot;

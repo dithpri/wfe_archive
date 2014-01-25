@@ -1,6 +1,6 @@
 Welcome to the [b][region=United Realms of Earth][/b]
 [hr]
-[color=darkblue]The nation of the day is[/color] [nation=short]Trensilore[/nation]
+[color=darkblue]The nation of the day is[/color] [nation=short]Shrek Land[/nation]
 
 [hr]
 
@@ -16,13 +16,13 @@ Welcome to the [b][region=United Realms of Earth][/b]
 We will have elections to determine the Ministers of the region. Any nation may run for the role of a minister.
 
 [color=blue]Minister of Technology[/color]
-[nation=short]Supergoly[/nation] 
+[nation=short]Shrek Land[/nation] 
 
 [color=red]Minister of Defense[/color]
-[nation=short]Turos[/nation]
+[nation=short]Shrek Land[/nation]
 
 [color=orange]Minister of Health and Safety[/color]
-[nation=short]Trensilore[/nation]
+[nation=short]Shrek Land[/nation]
 
 [color=green]Minister of Environment [/color]
 [nation=short]Shrek Land[/nation]

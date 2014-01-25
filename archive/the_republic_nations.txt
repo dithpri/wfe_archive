@@ -13,8 +13,8 @@
    [b]Secretary of Defence:[/b] [nation]yoteg[/nation]
    [b]Secretary of the Press:[/b] [nation=united_planetary_defence]
  [b]RNAF Commander:[/b] [nation=Flakaland]
+[b]Liberation Commander:[/b] [nation=yoteg]
    [b]Ambassador:[/b] [nation=anterina]
-   [b]RN Recruiter:[/b] open
    [b]Head of Intelligence:[/b] [nation=the old Russian empire]
 
 [Color=red][b]This Region was founded on Febuary 2nd 2013[/b][/color]

@@ -1,23 +1,9 @@
-        [b]Governmental House:[/b]
-[color=purple][b]President:[/b][/color][nation=noflag]Resh[/nation]
-[color=purple][b]Vice President:[/b][/color] [nation=noflag]Castitas[/nation]
+[b][color=#000061]Huzzah! Huzzah! Huzzah! This region proved no match for a charge by [region=The Black Riders]![/color]
 
-[b]Security Council:[/b]
-[color=navy][i][b]Co-Cheif:[/b][/i][/color] [nation=noflag]Trem[/nation]
-[color=navy][i][b]Co-Cheif:[/b][/i][/color] Open For Election
-[color=darkblue]Member:[/color] [nation=noflag]Redimido[/nation]
-[color=darkblue]Member:[/color] Vacant
+[color=black]Occupied by [url=http://www.youtube.com/watch?v=qB1kp9adYYE]The Black Riders[/url]! Our lair can be found [/color] [url=http://s4.zetaboards.com/The_Black_Riders/index/]here[/url]
 
-[b]Minister of Intelligence:[/b] Vacant
-
-[b]Board Of Management and Ideas:[/b] 
-[color=orange][i][b]Head:[/b][/i][/color] Vacant/Open For Election
-[color=orange]Member:[/color] Vacant/Open For Election
-[color=orange]Member:[/color] Vacant/Open For Election
-
-[b]Recruiting Board:[/b]
-[color=limegreen][b]Head:[/b][/color] [nation=noflag]Castitas[/nation]
-[color=limegreen]Member:[/color] Vacant
-[color=limegreen]Member:[/color] Vacant
-
-[b]Regional Links: [/b][url=http://www.broomdces.com/nseconomy/regions.php?region=New%20Free%20Republic%20of%20United%20Nations]Economic Info.[/url]
+[color=#000061]Into the battle rode the following riders:[/color]
+[nation=short]Suchasmallthing[/nation]
+[nation=short]Ridersyl[/nation]
+[nation=short]WraithFIN[/nation]
+[/b]

@@ -10,10 +10,10 @@
 
 Emperor:[nation=short]Rightist America[/nation]
 President:
-Secretary of Defense: [nation=short]Rightist America[/nation]
-Senator: [nation=short]Aristotskia[/nation]
-Senator: [nation=short]Japam[/nation]
-Senator: [nation=short]Makeb[/nation][/b]
+Senator and Defense Secretary: [nation=short]Aristotskia[/nation]
+Senator and Foreign Minister: [nation=short]Japam[/nation]
+Senator and Recruitment Minister: [nation=short]Rightist America[/nation]
+Minister of Culture and Education:[/b]
 
 [b][color=gold] Member of [region]Right Wing Uprising[/region][/color] and [url=http://www.nationstates.net/region=the_tripartite_pact]the Tripartite Pact[/url][/b].
 

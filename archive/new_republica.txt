@@ -4,18 +4,20 @@
 
 Regional Government: 
 President: [nation]the republic rome[/nation]
-Vice President: [nation]cafla[/nation]
-SecState: [nation]the united remnants of america[/nation]
-SecDef: [nation]flattnerk[/nation]
+Vice President: TBA
+SecState: TBA
+SecDef: TBA
 
 Senate:
 [nation]The Anean Tribes[/nation]
-[nation]Dardoillyria[/nation]
-[nation]Habsburgg[/nation]
+[nation]the united remnants of america[/nation]
+TBA
 
 
 High Court:
-Justice: [nation]the untied states[/nation][/color]
+Justice: [nation]the untied states[/nation]
+TBA
+TBA[/color]
 
 [color=maroon]Message of the Day: &amp;quot;Where the beer is flat...&amp;quot;[/color]
 
