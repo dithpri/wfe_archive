@@ -4,7 +4,7 @@
 
 [b][color=red][u]Regional Positions[/u][/color][/b]
 
-[color=green]Founder of Orles[/color]: [nation]Teresland[/nation]
-[color=blue]Minister of The Interior[/color]: [nation]Osfrix[/nation]
+[color=red]Founder of Orles[/color]: [nation]Teresland[/nation]
+[color=red]Minister of The Interior[/color]: [nation]Osfrix[/nation]
 [color=red]Minister of The Exterior[/color]: [nation]Lupintia[/nation]
-[color=purple]Regional Recruiter[/color]: [nation]Jevriss[/nation]
+[color=red]Regional Recruiter[/color]: [nation]Jevriss[/nation]

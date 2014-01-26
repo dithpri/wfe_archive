@@ -9,7 +9,7 @@ Regional Officials:
 RP Master: [nation]New Babylonia[/nation]
 Minister for Finance and Trade: [nation]Bankampar[/nation]
 Minister for Recruitment: TBC
-Minister of the Interior: TBC
+Minister of the Interior: [nation]Kalarin[/nation]
 Foreign Ambassador: [nation]Lenehen[/nation]
 Regional Diplomats: [nation]New Babylonia[/nation] and [nation]Lenehen[/nation]
 

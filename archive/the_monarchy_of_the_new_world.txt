@@ -14,7 +14,7 @@ Minister of Immigration and Foreign Relations: [nation=short]Morastria[/nation]
 [u][B]Supreme Court[/B][/u]:
 
 Supreme Court Justice: [nation=short]Ulaar[/nation]
-Convicts: [nation=short] Narty [/nation]has been sentenced to shunning until January 26th. No nations are to there for interact with them.
+Convicts: N/A
 
 [B][color=blue]End of current government term: April 15th 2014[/color][/B]
 

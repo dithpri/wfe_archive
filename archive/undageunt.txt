@@ -1,9 +1,7 @@
 [i]Parties running for office;[/i]
 
-[b]Revolution[/b]: [nation]geths[/nation]
+Revolution: [nation]geths[/nation] votes 7
 
-Pony Republicans: [nation]Brony1and[/nation]
+Pony Republicans: [nation]brony1and[/nation] votes 7
 
-Communist Party: [nation]Hofe[/nation]
-
-German Workers Party: [nation]Hothaba[/nation]
+[b]Elections are over! No more votes will be taken![/b] 

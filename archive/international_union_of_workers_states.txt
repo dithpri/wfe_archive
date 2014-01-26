@@ -1,6 +1,6 @@
 [b]Current Status[/b]: [color=Green]PEACE[/color]
 
-[b]Latest News[/b]: [nation=short]Xaraian[/nation] joins the Workers&amp;#39; Union.
+[b]Latest News[/b]: [nation=short]Xaraian[/nation] and [nation=short]Ordorinia[/nation] join the Workers&amp;#39; Union
 
 [hr]
 
@@ -21,9 +21,15 @@
 [nation]Kavaii[/nation]
 [nation]Slakia[/nation]
 [nation]Peihan[/nation]
-[nation=short]Krajstali[/nation][color=green], Workers&amp;#39; State of[/color]
-[nation=short]Bamdada[/nation][color=green], Workers&amp;#39; State of[/color]
-[nation=short]Xaraian[/nation][color=green], Workers&amp;#39; State of[/color]
+
+[hr]
+
+[b]Developing Workers&amp;#39; States[/b] (&amp;lt;500m citizens)
+
+[nation=short]Krajstali[/nation]
+[nation=short]Bamdada[/nation]
+[nation=short]Xaraian[/nation]
+[nation=short]Ordorinia[/nation]
 
 [hr]
 
@@ -40,4 +46,4 @@
 
 [hr]
 
-[url=http://postimg.org/image/nus8q139n/full/]World Map[/url]
+[url=http://s8.postimg.org/q5ecuyqcj/Map.png]World Map[/url]

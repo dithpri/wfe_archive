@@ -1,8 +1,8 @@
-[u][b][color=black][url=http://www.nationstates.net/region=das_grossdeutsche_reich]Das Gro&szlig;deutsche Reich[/url] - [region]Greater German Reich[/region] (formerly known as the [region]German Reich[/region])
+[u][b][color=black][region]Greater German Reich[/region] (formerly known as the [region]German Reich[/region])
 Signatory of [region]the Tripartite Pact[/region][/color][/u]
 [color=gold]Member[/color] of the [region]Right Wing Uprising[/region]
 [color=black]Nationalhymne:[/color][/b] [color=red]&#132;Das Lied der Deutschen&#147;[/color]
-[b][color=black]Hauptstadt:[/color][/b] [color=red]Berlin - [nation]Welthauptstadt Germania[/nation][/color]
+[b][color=black]Hauptstadt:[/color][/b] [color=red]Berlin - [nation=short]Welthauptstadt Germania[/nation][/color]
 [b][color=black]Amtssprache:[/color][/b] [color=red]Deutsch[/color]
 [b][color=black]Fl&auml;che:[/color][/b] [color=red]696.265 km&sup2;[/color]
 [b][color=black]Bev&ouml;lkerung:[/color][/b] [color=red]90.030.775[/color]
@@ -13,9 +13,6 @@ Signatory of [region]the Tripartite Pact[/region][/color][/u]
 [url=http://www.nationstates.net/region=reich_commissariats]Reichskommissariate[/url]
 [region]Kolonien[/region]
 [region]The Greater German Reich Recruitment[/region]
-[u][url=http://z13.invisionfree.com/TGGR/index.php?s=b01e53285c5f84d5104bf21f668ee134&amp;amp;act=Reg&amp;amp;CODE=00][color=black]JOIN OUR DISCUSSION FORUM![/color][/url][/u]
-[u][url=http://z13.invisionfree.com/TGGR/index.php?showtopic=4][color=gray]APPLY FOR CITIZENSHIP HERE![/color][/url][/u]
-[u][url=http://z13.invisionfree.com/TGGR/index.php?showtopic=5][color=red]JOIN THE ARMED FORCES HERE![/color][/url][/u]
-JOIN THE [url=http://www.nationstates.net/page=un][color=red]WA[/color][/url]![/b]
 [url=http://z13.invisionfree.com/TGGR/index.php?showtopic=185&amp;amp;st=0&amp;amp;][color=black]The Greater German Reich Sentinel[/color][/url] ([url=http://forum.nationstates.net/viewtopic.php?f=12&amp;amp;t=209947][color=red]International Edition[/color][/url])
-[i][u][b]Endorse our Reichsdelegate and our Reichsdelegate only: [nation]Nordic Saxony[/nation][/b][/u][/i]
+
+[url=http://www.nationstates.net/nation=kalte_rache/detail=factbook/id=210951][color=red][u]Instructions for newly arrived Nations[/u][/color][/url][/b]
