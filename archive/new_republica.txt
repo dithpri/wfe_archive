@@ -3,7 +3,7 @@
 [b]Be sure you endorse your WA Delegate![/b]
 
 Regional Government: 
-President: [nation]the republic rome[/nation]
+President Pro Tempore: [nation]the republic rome[/nation]
 Vice President: TBA
 SecState: TBA
 SecDef: TBA
@@ -15,7 +15,7 @@ TBA
 
 
 High Court:
-Justice: [nation]the untied states[/nation]
+TBA
 TBA
 TBA[/color]
 

@@ -3,7 +3,7 @@ Delegate:  [nation]imperial jensenia[/nation]
 Vice Delegate: [nation]new sachania[/nation]
 General: [nation]fultenia[/nation]
 
-Language: English, Mandirin
+Language: English, Latin
 Currency: Jensen, Empirius, Bux
 Religion: Christianity
 

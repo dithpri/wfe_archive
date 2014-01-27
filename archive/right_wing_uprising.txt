@@ -1,13 +1,5 @@
 [b]We are a coalition of right-wing regions that have joined together to see communism and left-wing politics purged from NationStates.[/b]
 
-[b]We will NOT give up, we will fight communism:[/b]
-
-[b][color=red]...to the last drop of blood[/color][/b]
-[b][color=brown]...to the last foot of dirt[/color][/b]
-[b][color=blue]...to our last living breath[/color][/b]
-
-[b]...until our goal is achieved or every one of us is no more.[/b]
-
 [b][color=gold]Members: [/color][/b]
 [region]The Greater German Reich[/region]
 [region]Union of Nationalists[/region]
@@ -22,6 +14,8 @@
 [region]Commonwealth of Freedom and Liberty[/region]
 [region]Alliance of Absolute Monarchs[/region]
 [region]The Western Empire[/region]
+[region]United Fascist Republics[/region]
+[region]Crown Protectorate of Conservadom[/region]
 
 [b][color=silver]Allies:[/color][/b]
 [region]The Red Wolf Rifle Korps[/region]
