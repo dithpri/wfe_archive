@@ -4,7 +4,7 @@
 [color=maroon][b]Chancellor: [nation=short]The Ruhr[/nation][/b][/color]
 
 [b][u][color=maroon]The Senate[/color][/b][/u]
-President:
+President: [nation=short]Gararia[/nation]
 Senate:
 Senate:
 Senate:

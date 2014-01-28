@@ -12,7 +12,7 @@ We follow the [i][url=http://en.wikipedia.org/wiki/Kokutai]Kokutai[/url][/i] (na
  
 [B]Prime Minister[/B]: [nation=short]Tatenokai[/nation]
 [B]Minister of War[/B]: [nation=short]Spiritbw[/nation]
-[B]Minister of Foreign Affairs[/B]: [nation=short]Afrikaneer[/nation]
+[B]Minister of Foreign Affairs[/B]:
 [B]Minister of Culture[/B]: [nation=short]Great Korean Empire[/nation]
 
 [hr]

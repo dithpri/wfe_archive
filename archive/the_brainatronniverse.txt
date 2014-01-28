@@ -2,6 +2,7 @@ The Brainatronniverse is a union of organizations and subsidiaries under the the
 
 [b]Supreme Leader[/b]: [nation=short]Brainatron[/nation]
 [color=red]Cultural Leader[/color]: [nation=short]Woodevalladellus[/nation]
-[color=orange]Prime Minister[/color]: [nation=short]Gentesummia[/nation]
-[color=blue]Treasurer[/color]: [nation=short]Econopoly[/nation]
-[color=blue]Minister of the Trade Network[/color][nation=short]Netnuero Inc[/nation]
+[color=red]Prime Minister[/color]: [nation=short]Gentesummia[/nation]
+Supreme Admiral of the Armed Forces: [nation=short]Mechacercradonia[/nation]
+Treasurer: [nation=short]Econopoly[/nation]
+Minister of Resources and Commerce: [nation=short]Netnuero Inc[/nation]

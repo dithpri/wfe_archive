@@ -11,5 +11,7 @@ Death, yet the Force.[/i][/color]
 Grand Jedi Master(1 spot):[nation=short+noflag]Jedi Clarinetists[/nation]
 Jedi Council(12 spots, must be Jedi Master): [nation=short+noflag]Jedi Clarinetists[/nation]
 Jedi Master(must have 750 million citizens): None
-Jedi Knight(must have 100 million citizens): [nation=short+noflag]CT-7567[/nation], [nation=short+noflag]Awesome Wolves[/nation]
-Padawan Learner(Infinite spots): None
+Jedi Knight(must have 500 million citizens)
+   Jedi Guardian: None
+   Jedi Consular: None
+Padawan Learner(Infinite spots): [nation=short+noflag]CT-7567[/nation]
