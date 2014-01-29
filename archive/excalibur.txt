@@ -12,4 +12,4 @@ Foreign Secretary: TBD
 Lord High Constable: [nation]New Zepuha[/nation]
 Earl Marshal: [nation]Russica[/nation]
 Immigration Secretary: [nation]-HumanSanity-[/nation]
-
+Attorney-General: [nation]Avaraham[/nation]

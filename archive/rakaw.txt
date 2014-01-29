@@ -1,6 +1,12 @@
-[color=red][u][b]REGIONAL GOVERNMENT[/b][/u][/color]
+[color=darkred][u][b]REGIONAL[/color] [color=red]GOVERNMENT[/b][/u][/color]
 
-[b]Founder[/b]: [nation]Hofe[/nation]
+[color=darkOrange][b]Founder[/b][/color]: [u][b][nation]Hofe[/nation][/b][/u]
 
-[b]WA Delegate[/b]: [nation]Brony1and[/nation]
+[color=darkOrange][b]Co-Founder[/b][/color]: [u][b][nation]Brony1and[/nation][/b][/u]
+
+[color=gray][b]Chancellor[/b][/color]: [i][nation]Uskrisem[/nation][/i]
+
+[color=darkgray][b]Head of Staff[/b][/color]: ?
+
+
 

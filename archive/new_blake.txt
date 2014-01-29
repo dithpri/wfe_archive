@@ -1,11 +1,13 @@
 A region where all are invited! A society filled with great nations.
 Created January, 10th 2014
 [b]Government[/b]
-President:[nation]New Plack[/nation]
-Vice President:N/A (Elections)
-Ambassador: N/A
-Council:N/A
-Recruiter: N/A
+Secretary of State:[nation]New Plack[/nation]
+Vice Secretary of State:N/A (Elections)
+Secretary of Defense: N/A
+Secretary of Foreign Affairs: N/A
+Speaker of The Council: N/A
+Council: N/A
+Secretary of Immigration: N/A
 
 [color=yellow]RMB Topic[/color]: The Superbowl (Mostly Superbowl XLVIII)
 

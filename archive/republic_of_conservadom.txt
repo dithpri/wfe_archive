@@ -3,10 +3,10 @@
 
 [color=maroon][b]Chancellor: [nation=short]The Ruhr[/nation][/b][/color]
 
-[b][u][color=maroon]The Senate[/color][/b][/u]
+[b][u][color=navy]The Senate[/color][/b][/u]
 President: [nation=short]Gararia[/nation]
-Senate:
-Senate:
+Senate: [nation=short]Swannee[/nation]
+Senate: [nation=short]Tark Migneria[/nation]
 Senate:
 
 
@@ -14,4 +14,4 @@ Senate:
 
 [b][url=http://www.nationstates.net/nation=conservadom/detail=factbook/id=main]The Constitution[/url] | [url=http://www.nationstates.net/nation=conservadom/detail=factbook/dsubcategory1=105]Legislation[/url] | [url=http://i.imgur.com/m5RxFzs.png]Regional Map[/url] |
 
-[color=red]Government awaiting outcome of reform legislation.[/b][/color] 
+[color=purple]With the passing of major reforms, elections are underway to build the new government..[/b][/color] 

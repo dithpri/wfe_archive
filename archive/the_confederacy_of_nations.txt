@@ -2,7 +2,7 @@
 
 [B][color=blue]Directors[/color][/B]
 
-[B][color=teal]Director of Democracy: [/color][nation=short+noflag]Helghan Republic[/nation][/B]
+[B][color=teal]Director of Democracy:[/color][/B]
 [B][color=teal]Director of Defense and Security:[/color] [nation=short+noflag]Sofa[/nation][/B]
 [B][color=teal]Director of Foreign Affairs:[/color] [nation=short+noflag]Glaser[/nation][/B]
 [B][color=teal]Director of Immigration and Recruitment:[/color][/B]
