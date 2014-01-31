@@ -8,6 +8,6 @@
 [color=black]Minister of Defense:[/color] [nation=short]Ursmington[/nation]
 [color=black]Advisory Council:[/color] [nation=short]Nordem[/nation]
 [color=black]Ambassador Committee:[/color] [nation=short]Hirizionburg[/nation]
-[color=grey]Map keeper: available![/color]
+[color=black]Map Keeper:[/color] [nation=short]Multi-Culturalists[/nation]
 
-[b][u]WA members[/u]: endorse our delegate, [nation=short]Nepthalia[/nation].[/b]
+[b][u]WA Members[/u]: endorse our delegate, [nation=short]Nepthalia[/nation].[/b]

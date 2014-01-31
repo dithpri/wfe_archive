@@ -9,22 +9,21 @@ Welcome to the Glorious Confederacy
 [color=red]Red=  Immediate Danger[/color]
 [color=purple]Purple = Lockdown[/color] 
 
-Current Danger Level: [color=amber]Medium[/color]
-
-Reason: Currently entering a detente with Canisiuso
+Current Danger Level: [color=green]No Danger[/color]
 
 [u]Regional Government:[/u]
 
 [b]Premier:[/b] [nation]BFU[/nation]
-[b]Prime Minister:[/b]
-[b]Chancellor of the Treasury:[/b]
-[b]Head of Regional Defence: [/b]
-[b]Senators:[/b] Everyone Else
+[b]Prime Minister:[/b] [nation]Pindian Republic[/nation]
+[b]Chancellor of the Treasury:[/b] [nation]The Infinitus Imperio[/nation]
+[b]Head of Regional Defence: [/b] [nation]The vile league of evil[/nation]
+[b]Senators:[/b] Everyone else
 
-Regional Government elections are due to take place on the 1st of February, more details on these positions can be found [url=http://www.nationstates.net/nation=bfu/detail=factbook/id=212968]here[/url]
+More info on government positions will be found here:
+[url=http://www.nationstates.net/nation=bfu/detail=factbook/id=212968]here[/url]
 
 [u] Universal Currency:[/u]
 
-On the 1st of February, a universal currency will be introduced called the Divitiae, which will be paper money shall be introduced. More information can be found [url=http://www.nationstates.net/nation=bfu/detail=factbook/id=212964]here[/url]
+A universal currency has been introduced called the Divitiae, which is paper money. More information can be found [url=http://www.nationstates.net/nation=bfu/detail=factbook/id=212964]here[/url]
 
-[i]Divitiae Exchange Rate =  [b]d1 : $3.626[/b][/i]
+[i]Divitiae Exchange Rate =  [b]d1 : $3.947[/b][/i]

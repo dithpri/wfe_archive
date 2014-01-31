@@ -1,4 +1,5 @@
 Leader: Emperor Andrew VI (Emperor of St Lendir)
 Lookout: St Lendir
+Grand Duke: Ottero
 Must have a tax rate lower than 75%. 
 Punishment:Warning, then Ban

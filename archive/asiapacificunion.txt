@@ -1,6 +1,6 @@
 [b]AsiaPacificUnion[/b]
-[b]Founder:[/b] [b][nation]Pestan[/nation][/b]
-[b]Delegate:[/b]
+[b]Founder:[/b][b][nation]Pestan[/nation][/b]
+[b]Delegate:[/b][b][nation]Korea of the South[/nation][/b]
 _______________________________________________________________________________________
 The regional center is in the capital of [Nation=short]Pestan[/nation],[color=yellow][b]Bayan[/b][/color]
 
@@ -10,4 +10,9 @@ The regional center is in the capital of [Nation=short]Pestan[/nation],[color=ye
 [url=http://www.nationstates.net/nation=pestan/detail=factbook/id=210700][b]Land Claim[/b][/url]
 [b]Land Claim Cencus:[/b][color=red]Coming Soon[/color]
 _______________________________________________________________________________________
-[b]Regional Currency:[/b][color=gold]Pieces/Quarta[/color]
+[b]Regional Currency:[/b][color=gold]Asiana[/color]
+_______________________________________________________________________________________
+[b]Land Claim Schedule[/b]
+[b][color=red]Monday-Friday
+All Weekends[/color][/b]
+[b]No Tuesdays[/b]

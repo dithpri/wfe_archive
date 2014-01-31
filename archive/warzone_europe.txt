@@ -6,7 +6,9 @@
 [color=blue][u]Regional Government:[/b][/u][/color]
 [color=green][b]Governor:[/b] [nation]Apulita[/nation]
 [b]Imperial Representative:[/b] [nation]Hattersfeld[/nation]
-[b]Internal Ministry:[/b] To be elected!
+[b]Internal Ministry:[/b] [nation]Angorath[/nation]
+[nation]Ancian[/nation]
+[nation]Hungorous[/nation]
 [b]Recruitment Ministry:[/b] To be appointed
 [b]Defense Ministry:[/b] [nation]Frederick William II[/nation][/color]
 

@@ -1,17 +1,20 @@
-[color=gold][u][b]Welcome to The International Republic of Conservadom![/b][/u][/color] 
+[color=navy][u][b]Welcome to The International Republic of Conservadom![/b][/u][/color] 
 [i]Featured Region on October 27, 2013[/i]
 
-[color=maroon][b]Chancellor: [nation=short]The Ruhr[/nation][/b][/color]
+[color=bronze][b]Chancellor: [nation=short]The Ruhr[/nation][/b][/color]
 
-[b][u][color=navy]The Senate[/color][/b][/u]
-President: [nation=short]Gararia[/nation]
-Senate: [nation=short]Swannee[/nation]
-Senate: [nation=short]Tark Migneria[/nation]
-Senate:
+[b][u][color=maroon]The Senate[/b][/u]
+President: [nation=short]Gararia[/nation] (P)
+Senate: [nation=short]Swannee[/nation] (L)
+Senate: [nation=short]Tark Migneria[/nation] (Pr)
+Senate: [nation=short]Bauscland[/nation] (Pr) [/color]
 
 
-[color=silver]Endorse the [b][u]Chancellor:[/u][/b] [nation=long]The Ruhr[/nation][/color]
+[color=saphire]Endorse the [b][u]Chancellor:[/u][/b] [nation=long]The Ruhr[/nation][/color]
 
 [b][url=http://www.nationstates.net/nation=conservadom/detail=factbook/id=main]The Constitution[/url] | [url=http://www.nationstates.net/nation=conservadom/detail=factbook/dsubcategory1=105]Legislation[/url] | [url=http://i.imgur.com/m5RxFzs.png]Regional Map[/url] |
 
-[color=purple]With the passing of major reforms, elections are underway to build the new government..[/b][/color] 
+[color=purple][u]In the news:[/b][/color][/u]
+- The Government officially reopens.
+- Nations begin to petition to host the Winter Olympic Games.
+- New legislation suggested.

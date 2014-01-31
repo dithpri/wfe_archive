@@ -6,12 +6,11 @@ Death, yet the Force.[/i][/color]
 
 [b][color=purple]A Jedi shall have neither hate... nor anger... nor love.[/color][/b]
 
-[color=red]Come to the Jedi Order!!! We need more government!!!!![/color]
-
-Grand Jedi Master(1 spot):[nation=short+noflag]Jedi Clarinetists[/nation]
-Jedi Council(12 spots, must be Jedi Master): [nation=short+noflag]Jedi Clarinetists[/nation]
-Jedi Master(must have 750 million citizens): None
-Jedi Knight(must have 500 million citizens)
-   Jedi Guardian: None
-   Jedi Consular: None
-Padawan Learner(Infinite spots): [nation=short+noflag]CT-7567[/nation]
+Grand Jedi Master:[nation=short+noflag]Jedi Clarinetists[/nation]
+Jedi Council: [nation=short+noflag]Jedi Clarinetists[/nation], [nation=short+noflag]CT-7567[/nation], [nation=short+noflag]Huyang[/nation], [nation=short+noflag]NewJediOrder[/nation]
+Jedi Master(must have 750 million citizens): [nation=short+noflag]CT-7567[/nation], [nation=short+noflag]Huyang[/nation], [nation=short+noflag]NewJediOrder[/nation]
+Jedi Knight
+   Jedi Guardian: 
+   Jedi Consular: 
+Padawan Learner: 
+Jedi Initiate:

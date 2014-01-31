@@ -1,10 +1,11 @@
 [b]The Cabinet[/b]
 
-[b]The Lord of Liquor[/b] - [nation]Ankh Morporka[/nation]
-[b]The Sultan of Spirits[/b] - [nation]Hylasia[/nation]
-[b]The Baron of Booze[/b] - [nation]Syrillia[/nation]
-[b]The Count of Cocktails[/b] - [nation]Tilsitsin[/nation]
-[b]The Master of Moonshine[/b] - [nation]Jaxandria[/nation]
-[b]The Designated Driver[/b] - [nation]The Foco[/nation]
+[b]Lord of Liquor[/b] - [nation]Ankh Morporka[/nation]
+[b]Sultan of Spirits[/b] - [nation]Hylasia[/nation]
+[b]Baron of Booze[/b] - [nation]Syrillia[/nation]
+[b]Master of Moonshine[/b] - [nation]Jaxandria[/nation]
+[b]Whiner of Wine Coolers[/b] - [nation]Vazdania[/nation]
+
+[i]The Empty Bar Seats[/i] - IFurya, Tilsitsin, Vargaslavia, Samek, Kittiwake
 
 All located at Torder&amp;#39;s.

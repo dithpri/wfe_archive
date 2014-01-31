@@ -1,8 +1,8 @@
 The Brainatronniverse is a union of organizations and subsidiaries under the the rule of [nation]Brainatron[/nation]. We strive for dominance in the global market and becoming the world leader in culture.
 
 [b]Supreme Leader[/b]: [nation=short]Brainatron[/nation]
-[color=red]Cultural Leader[/color]: [nation=short]Woodevalladellus[/nation]
-[color=red]Prime Minister[/color]: [nation=short]Gentesummia[/nation]
-Supreme Admiral of the Armed Forces: [nation=short]Mechacercradonia[/nation]
+Cultural Leader: [nation=short]Woodevalladellus[/nation]
+Prime Minister: [nation=short]Gentesummia[/nation]
+Minister of Defense: [nation=short]Mechacercradonia[/nation]
 Treasurer: [nation=short]Econopoly[/nation]
 Minister of Resources and Commerce: [nation=short]Netnuero Inc[/nation]

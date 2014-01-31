@@ -1,7 +1,11 @@
-[b][color=red]Welcome to The Manhattan Project[/color][/b]
+[b][color=red]~Welcome to The Manhattan Project~[/color][/b]
 
-[i]What you see here,
-What you do here,
-What you hear here,
-When you leave here;
-[b]Let it stay here.[/b][/i]
+The Manhattan Project was one of the greatest and most massive projects in the history of mankind. While over 130,000 people from all over the United States worked on this top-secret mission, no more than a dozen knew the full implications of the project - implementation of functional nuclear fission-powered weaponry.
+
+Please enjoy your stay in The Manhattan Project. But remember:
+
+[i][b][color=000000]What you see here,[/color]
+[color=202020]What you do here,[/color]
+[color=404040]What you hear here,[/color]
+[color=585858]When you leave here;[/color]
+[color=707070]Let it stay here.[/color][/b][/i]

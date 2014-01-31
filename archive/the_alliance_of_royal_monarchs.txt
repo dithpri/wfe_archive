@@ -2,10 +2,10 @@
 
 [b]Stake your land claim [url=http://www.nationstates.net/nation=satriecoss/detail=factbook/id=main]here[/url]:[/b]  Inbox me which section you would like and I will get it done for you. [color=red](This is the [url=https://www.zeemaps.com/map?group=769877]map[/url] to help you out.)[/color]
 [hr][color=blue]Monarchy[/color]
-King: [nation]Lalucia[/nation]
+King: [nation=shortname]Lalucia[/nation]
 [color=blue]Government[/color]
-Lieutenant-General: [nation]Satriecoss[/nation]
-Secretary-General:
+Lieutenant-General: [nation=shortname]Satriecoss[/nation]
+Secretary-General: [nation=shortname]Merp Empire[/nation]
 Officer of Defence and Internal Security: Vacant
 Officer of International Development: Vacant
 Officer of Media and Culture: Vacant

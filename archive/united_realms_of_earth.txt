@@ -16,10 +16,10 @@ Welcome to the [b][region=United Realms of Earth][/b]
 We will have elections to determine the Ministers of the region. Any nation may run for the role of a minister.
 
 [color=blue]Minister of Technology[/color]
-[nation=short]Supergoly[/nation] 
+[nation=short]New New Cageistan[/nation] 
 
 [color=red]Minister of Defense[/color]
-[nation=short]Shrek Land[/nation]
+[nation=short]Turos[/nation]
 
 [color=orange]Minister of Health and Safety[/color]
 [nation=short]Shrek Land[/nation]
