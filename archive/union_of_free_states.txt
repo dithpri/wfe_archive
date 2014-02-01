@@ -3,7 +3,7 @@
 [hr]
 [B]EXECUTIVE BRANCH:[/B]
 Interim Union Secretary:[nation=short]Buena Suerte[/nation]
-Secretary-Defense :
+Secretary-Defense:[nation=short]Hercosk[/nation]
 Secretary-Foreign Affairs:[nation=short]Island of animals[/nation]
 Secretary-Internal Affairs:[nation=short]Narnifrey[/nation]
 Secretary-Legal Affairs:[nation=short]North America and The Great Lakes[/nation]

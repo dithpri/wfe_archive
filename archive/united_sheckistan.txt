@@ -1,6 +1,10 @@
+[region]United Sheckistan[/region] is Officially on [B]LOCKDOWN[/B] under order of [nation]Eastern Vermont[/nation] and [nation]Colonyguard[/nation]
+
 United as a colony of the Jeck empire
+
+WA Delegate: [nation]Eastern Vermont[/nation]
+Founder: [nation]Colonyguard[/nation]
 
 ask founder for password
 
-colony of the http://www.nationstates.net/region=the_jeck_empire
-
+colony of the [region]The Jeck Empire[/region]

@@ -4,7 +4,7 @@ Welcome to [region]The Righteous Crusaders[/region], where we fight against inva
 
 Chief: [nation]The Righteous Crusaders[/nation]
 
-Field General: Available
+Field General: [nation]Patientiam[/nation]
 
 Field General: Available
 

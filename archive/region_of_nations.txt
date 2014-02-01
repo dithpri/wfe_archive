@@ -2,9 +2,9 @@ Welcome to the [b]Region of Nations[/b]! This is a region for nations that do no
 
 The region has a commission in order to handle its affairs:
 
-XLII Commission of the Region of Nations:
-President: [nation]Makaroonivelli[/nation]
-Commissioner of Foreign Affairs: [nation]Piceastan[/nation]
-Commissioner of Internal Affairs: [nation]Fronochmedland[/nation]
-Commissioner of Financial Affairs: [nation]Granlundia[/nation]
-Commissioner of Defence: [nation]Civitaseptentria[/nation]
+LI Commission of the Region of Nations:
+President: [nation]Civitaseptentria[/nation]
+Commissioner of Foreign Affairs: [nation]Makaroonivelli[/nation]
+Commissioner of Internal Affairs: [nation]Extracontinent[/nation]
+Commissioner of Financial Affairs: [nation]Fronochmedland[/nation]
+Commissioner of Defence: [nation]Abiegnarcia[/nation]

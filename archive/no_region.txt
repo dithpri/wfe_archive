@@ -8,18 +8,18 @@ Hello, welcome to No Region, a region for those to do as they please, no require
 [color=orange]Orange[/color]=Ready drones for precision strikes
 [color=red]Red[/color]=Mobilize forces
 
-Current threat level: [color=yellow]Yellow[/color]
+Current threat level: [color=green]Green[/color]
 
 [b]Chairmen, advisors, etc.:[/b]
 
-[b]Joint-military advisor:[/b][nation]josuania[/nation]
+[b]Joint-military advisor: [/b][nation]josuania[/nation]
 
-[b]Cultural advisor[/b]: [nation]banzai and jihadist experts[/nation]
+[b]Cultural advisor:[/b] [nation]banzai and jihadist experts[/nation]
 
-[b]Regional Peacekeeper[/b]: [nation]The Empire of Dolmite[/nation]
+[b]Regional Peacekeeper:[/b] [nation]The Empire of Dolmite[/nation]
 
-[b]Treasurer[/b]: [nation]creepoc infinite[/nation]
+[b]Treasurer:[/b] [nation]creepoc infinite[/nation]
 
-[b]NRSC director of Technology:[/b][nation]talorin[/nation]
+[b]NRSC director of Technology: [/b][nation]talorin[/nation]
 
-[b]NRSC director of Space Marine program:[/b][nation]noahmerica[/nation]
+[b]NRSC director of Space Marine program: [/b][nation]noahmerica[/nation]

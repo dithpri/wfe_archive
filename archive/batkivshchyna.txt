@@ -11,7 +11,7 @@ Economy:
 Internal Affairs:
 Justice:
 [hr][b]Regional Parliament[/b]
-Speaker of Parliament:
+Speaker of Parliament: [nation=short]Kielce[/nation]
 National Representatives: [color=green]Any Leader of each Member State[/color]
 [hr][b]Regional Council of Justice[/b]
 Chairman:

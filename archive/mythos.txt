@@ -5,12 +5,16 @@ Mythos
 
 Welcome to Mythos! We are a planet-region with nations. All nations are welcome, if they abide by our rules.
 
-MAJOR FACTIONS:
+[b][i]MAJOR FACTIONS:[/b][/i]
 
-Drakkish Union-Communist
+[b][color=darkred]Drakkish Union (Avakchia, Nevmark, Desrokk, etc.)-Communist.[/color]
 
-Valscorian Imperium-Monarchist
+[color=red]Ravian Imperium (Raven, Kovia, Begalux, etc.)-Monarchist/Conservative.[/color]
 
-Vanguardian Union/Party-Socialist/Nationalist/Libertarian
+[color=blue]Vanguardian Union/Party (Vallanmoor, Westfolde, Evarchia, etc.)-Socialist Libertarians/Nationalist.[/color]
 
-Independent States-Various government types.
+[color=purple]United Valscorian Kingdoms (Galactonia, Peyron, Servia, etc.)-Monarchist/Democratic/Communist.[/color]
+
+[color=darkgreen]Nova Scorza (Scorian Rebirth) (Guwakiu, Kantas, Sethlonia, etc.)-Democratic/Imperialist.[/color]
+
+[/b]
