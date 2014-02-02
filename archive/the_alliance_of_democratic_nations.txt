@@ -5,7 +5,7 @@ Executive Branch:
 President-                        Open
 Vice President-                 Open
 Attorney General-             Open
-Secretary of State-           Open
+Secretary of State-          [nation]Defentry[/nation]
 Secretary of Defense-       Open
 Elections Commissioner- [nation]Witherstand[/nation]
 

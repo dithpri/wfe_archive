@@ -6,7 +6,7 @@ Ambassador: vacant
 Minister of Morale: [nation]Das Metro[/nation]
 Minister of Foreign Affairs: [nation]Polotsk[/nation]
 Minister of Recruitment: vacant
-Secretary of Defense: now vacant
+Secretary of Defense: [nation]The Flutterlands[/nation]
 Invader Respondent: [nation]Puppet to The Dawnguard[/nation]
 
 The Dawnguard is a defender region whose purpose is to aid it&amp;#39;s allies from invaders, and to have good time, we do have cookies after all.

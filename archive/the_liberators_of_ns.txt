@@ -4,5 +4,5 @@ If our region invades, a nation is not required to assist, however it can be pro
 At the current time the Founder and Delegate run the region.
 We are currently open to government suggestions.
 The following positions support the Founder and Delegate.
-Generals: (at vote)
-Ambassadors: Xeno Specialists
+Generals:[nation]Kalic States[/nation]
+Ambassadors: [nation]Xeno Specialists[/nation]
