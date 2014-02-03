@@ -5,9 +5,9 @@
 | We are the [color=skyblue][b]Power![/color][/b] | We are the [color=Skyblue][b]Strength![/color][/b] | We are the [color=Skyblue][b]Future![/color][/b] | We are [color=Skyblue][b]TGWA![/color][/b] |
 
 &#149; [color=skyblue][b]Government[/color][/b]
-[color=blue][b]President:[/color][/b] [nation=short]Ausira[/nation]
+[color=blue][b]President:[/color][/b]
 [color=blue][b]Vice-President:[/color][/b]
-[color=blue][b]Minister of War:[/color][/b] 
+[color=blue][b]Minister of War:[/color][/b] [nation=short]Setinel[/nation]
 [color=blue][b]Minister of Peace:[/color][/b] [nation=short]Xanthius[/nation]
 [color=blue][b]Minister of Foreign Affairs:[/color][/b]
 [color=blue][b]Minister of Science:[/color][/b] 

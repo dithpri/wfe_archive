@@ -8,8 +8,8 @@ Welcome to The United Kingdom of Nations (UKoN).This region is an elective monar
 
 [color=gold]Government:[/color]
 Foreign Adviser: 
-Home Office:
-Defense Adviser: [nation]DanishIII[/nation]
+Home Office:[nation]DanishIII[/nation]
+Defense Adviser: 
 
 [color=gold]High Court:[/color]
 President of High Court:

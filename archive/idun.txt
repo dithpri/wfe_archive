@@ -1,4 +1,6 @@
 [i][u][b][color=red]Inter-Dimensional United Nations[/color][/b][/u][/i]
+Welcome to [region=IDUN]!
+
 [color=green]Leader~&amp;gt; [nation=short]craziemon[/nation][/color]
 [color=blue]Vice-Leader~&amp;gt; [nation=short]zygon[/nation][/color]
 [color=orange]WA Delegate~&amp;gt; [nation=short]virutech[/nation][/color]
@@ -11,4 +13,4 @@
 [color=tan]Head IDC Advisor~&amp;gt; None[/color]
 [color=goldenrod]Head Military Tactics Advisor~&amp;gt; [nation=short]land of the lads[/nation][/color]
 [color=teal]Chief Justice~&amp;gt; None[/color]
-[color=capri]Chief of Police~&amp;gt; None[/color]
+[color=capri]Chief of Police~&amp;gt; [nation=short]Mossisly[/nation][/color]
