@@ -8,10 +8,10 @@
 
 [B][u]Regional Government[/u]
 Delegate: [nation=short]Communist Bloodia[/nation]
-Minister of Foreign Affairs: 
+Minister of Foreign Affairs: [nation=short]Aetanovum[/nation]
 Minister of Justice: 
-Minister of Intelligence:
-Minister of Defense: [nation=short]Marxist Kommunists[/nation]
+Minister of Intelligence:[nation=short]Godless Munky[/nation]
+Minister of Defense:
 Minister of Immigration: [nation=short]The Spetsnaz Guard Brigade[/nation][/color]
 
 [url=http://www.youtube.com/watch?v=kDIuApfVxBg][color=red]The Regional Anthem[/color][/url]

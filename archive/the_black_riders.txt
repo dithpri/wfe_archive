@@ -12,10 +12,9 @@
 [color=black]Chief: [nation=short]Kknight[/nation] [/color]
 [color=#8B0000]Marshal: [nation=short]Gest[/nation][/color]
 [color=black]Marshal: [nation=short]Nordic Arbor[/nation][/color]
-[color=#8B0000]General: [nation=short]Camo5768[/nation][/color]
-[color=black]General: [nation=short]Scooby-Doo[/nation][/color]
-
+[color=#8B0000]Marshal: [nation=short]Scooby-Doo[/nation][/color]
+[color=black]General: [nation=short]Camo5768[/nation][/color]
 [hr]
 [color=#8B0000]Order of the Day[/color]
 
-[color=black]Return to the region and await further instructions.[/b][/color]
+[color=black]Move to [region]Anarchy[/region] and endorse [nation]Duck-Boss[/nation][/b][/color]

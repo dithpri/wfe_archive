@@ -26,7 +26,6 @@ Military Operations Directorate of [region]The Fascist Union[/region].
 [nation=short]Iaeptus[/nation] Evocati (Sergeant)
 [nation=short]Slarvenia[/nation] Evocati (Sergeant)
 [nation=short]NorthEast Alliance[/nation] Evocati (Sergeant)
-[nation=short]Herenidge[/nation] Munifex (Private)
 [nation=short]Empire of Thayanalia[/nation] Munifex (Private)
 [nation=short]Freame[/nation] Munifex (Private)
 [/b]

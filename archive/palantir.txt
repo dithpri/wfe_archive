@@ -17,8 +17,6 @@ until list tag is closed.[/list]
 
 [color=#F9F9F9]WWWWWWWWWWWWWWW[/color] Use invisible white text to indent.
 
-[color=#FFFFFF]WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW[/color] Use invisible white text to indent.
-
 [b]
 
 [color=#FFFF33]FFFF33[/color]

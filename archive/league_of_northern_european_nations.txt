@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 [B]Minister of State Security -[/B] [nation]Bereaz[/nation]
 
-[B]Minister of Propaganda -[/B]
+[B]Minister of Propaganda -[/B] [nation]Hyrand[/nation]
 
 [B]Minister of International Relations -[/B] [nation]Vaktan[/nation]
 
@@ -23,4 +23,4 @@ ________________________________________________________________________________
 
 [/color]
 
-[B]ONLY ENDORSE THE MINISTER OF INTERNATIONAL RELATIONS (WA DELEGATE)[/B]
+[B]ONLY ENDORSE THE MINISTER OF INTERNATIONAL RELATIONS[/B]

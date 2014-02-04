@@ -8,7 +8,7 @@ Chaos, yet harmony.
 
 Grand Jedi Master:[nation=short+noflag]Jedi Clarinetists[/nation]
 Jedi Council: [nation=short+noflag]Jedi Clarinetists[/nation], [nation=short+noflag]CT-7567[/nation], [nation=short+noflag]Huyang[/nation], [nation=short+noflag]NewJediOrder[/nation]
-Jedi Master(must have 750 million citizens): [nation=short+noflag]CT-7567[/nation], [nation=short+noflag]Huyang[/nation], [nation=short+noflag]NewJediOrder[/nation]
+Jedi Master: 
 Jedi Knight:
 Padawan Learner: 
 Jedi Initiate:

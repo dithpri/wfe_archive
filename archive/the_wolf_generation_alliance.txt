@@ -10,8 +10,8 @@
 [color=blue][b]Minister of War:[/color][/b] [nation=short]Setinel[/nation]
 [color=blue][b]Minister of Peace:[/color][/b] [nation=short]Xanthius[/nation]
 [color=blue][b]Minister of Foreign Affairs:[/color][/b]
-[color=blue][b]Minister of Science:[/color][/b] 
-[color=blue][b]Role-Playing Adviser:[/color][/b]
+[color=blue][b]Minister of Science:[/color][/b] [Nation=short]Vasari[/Nation]
+[color=blue][b]Role-Playing Adviser:[/color][/b] [Nation=short]Urontona[/Nation]
 
 &#149; [b]Military:[/b] [b]Under Construction.[/b]
 [hr]
