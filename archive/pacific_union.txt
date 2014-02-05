@@ -11,7 +11,7 @@ CEO:
 Minister of Interior:
 Minister of Recruitment:
 Minister of Immigration:
-Minister of Foreign Affairs:
+Minister of Foreign Affairs: [nation]Ugoslovia[/nation]
 Minister of Defense:
 Minister of Education:
 Minister of History:

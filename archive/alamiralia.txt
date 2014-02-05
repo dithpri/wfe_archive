@@ -6,7 +6,7 @@ Telegram [nation]Haltioiden[/nation] or [nation]Merayal[/nation] for the regiona
 Regional Government:
 -President: [nation=short]Merayal[/nation]
 -Prime Minister: [nation=short]Haltioiden[/nation]
--Minister for Defense: [i]Vacant[/i]
+-Minister for Defense: [nation=short]Aresvin[/nation]
 -Minister for Foreign Affairs: [i]Vacant[/i]
 -Minister for Finance: [i]Vacant[/i]
 -Minister for Recruiting: [i]Vacant[/i]
