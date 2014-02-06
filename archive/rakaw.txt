@@ -6,6 +6,6 @@
 [color=gray][b]Chancellor[/b][/color]: [i][nation]Uskrisem[/nation][/i]
 [b]Minister of Foreign Affairs[/b]: (N/A)
 [b]Minister of Internal Affairs[/b]: (N/A)
-[b]Minister of Defense[/b]: (N/A)
+[b]Minister of Defense[/b]: [nation]Toodtor[/nation]
 [b]Minister of Law[/b]: (N/A)
-[b]Minister of Culture[/b]: (N/A)
+[b]Minister of Culture[/b]: [nation]Alejandra[/nation]

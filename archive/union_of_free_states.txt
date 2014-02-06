@@ -2,13 +2,13 @@
 [color=purple]The Happy, Great, Prestigious region of the [region]Union of Free States[/region] was first founded in 2005 and built on the highest qualities of the spirit of man: Friendship, Loyalty, and the desire for Freedom and Peace .[/color]
 [hr]
 [B]EXECUTIVE BRANCH:[/B]
-Interim Union Secretary:[nation=short]Buena Suerte[/nation]
-Secretary-Defense:[nation=short]Hercosk[/nation]
-Secretary-Foreign Affairs:[nation=short]Island of animals[/nation]
-Secretary-Internal Affairs:[nation=short]Narnifrey[/nation]
-Secretary-Legal Affairs:[nation=short]North America and The Great Lakes[/nation]
+Interim Union Secretary:[nation=short]North America and The Great lakes[/nation]
+Secretary-Defense:
+Secretary-Foreign Affairs:
+Secretary-Internal Affairs:
+Secretary-Legal Affairs:
 
 [B]JUDICIAL BRANCH/UNION OF FREE STATES JUSTICE TRIBUNAL[/B]
-Justice Tribunal Chief/Major Judge:[nation=short]North America and The Great Lakes[/nation]
+Justice Tribunal Chief/Major Judge:
 Justice Tribunal Minor Judge #1:[nation=short]House of Griffindor[/nation]
 Justice Tribunal Minor Judge #2:[nation=short]Valacria[/nation]

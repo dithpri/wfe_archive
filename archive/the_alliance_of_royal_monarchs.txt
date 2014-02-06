@@ -6,7 +6,7 @@ King: [nation=shortname]Lalucia[/nation]
 [color=blue]Government[/color]
 Lieutenant-General: [nation=shortname]Satriecoss[/nation]
 Secretary-General: [nation=shortname]Merp Empire[/nation]
-Officer of Defence and Internal Security: Vacant
+Officer of Defence and Internal Security:  [nation=shortname]Qwertywerty[/nation]
 Officer of International Development: Vacant
 Officer of Media and Culture: Vacant
 [hr]Regional Alert Level: [color=green]GREEN[/color]

@@ -18,7 +18,7 @@ Minister of Culture: [nation=short]Ethopolis[/nation]
 [b]The High Court[/b]
 Chief Justice: [nation=short]Wyethalania[/nation]
 Justice: [nation=short]Ionysia[/nation]
-Justice: TBA
+Justice: [nation=short]Torvalyn[/nation]
 [hr]
 [url=http://www.nationstates.net/region=the_commonwealth_empire]Click here for [b]Our Colonies[/b][/url]
 [url=http://www.nationstates.net/nation=borduriaa_wa_nation/detail=factbook/id=192402]Click here for [b]Our Foreign Treaties[/b][/url]

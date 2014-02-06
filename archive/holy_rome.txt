@@ -6,7 +6,7 @@
 [B]Regional Government:[/B]
 
 [B]Presiding Nation (Endorse him)[/B]: [nation]Great Jergania and Jonland[/nation] [color=blue]Classical[/color]
-[B]Speaker of the Legislature[/B]: [nation]Great Robica[/nation] [color=red]Progressive[/color]
+[B]Counciler of the Legislature[/B]: [nation]Great Robica[/nation] [color=red]Progressive[/color]
 [B]Judiciary[/B]: [nation]Grand Yotsuba[/nation] [color=blue]Classical[/color]
 [b]Spokesman of the Council of Young Nations:[/b][nation]Berkorien[/nation] [color=red]Progressive[/color]
 
