@@ -1,4 +1,5 @@
-As the name suggests, its a world simulator. Here we are gonna have only those nations who are a part of World Assembly. 
+As the name suggests, its a world simulator. 
+
 Basically the concept behind this is that we are going to have just 1 nation representing his/her country.
 
 For example, I am from India so i will be representing India and no other Indian country will be allowed to enter since we are here to represent the actual world. Likewise someone from USA will represent his country that is USA and no one from that country will be allowed to enter. 

@@ -18,8 +18,8 @@ Chief Recruiter: [nation=short]Sween[/nation]
 
 [u]Security Level[/u]
 Peacetime - no foreseeable threats.
-[color=purple]Guarded - minor threat.[/color]
-Alert - clear threat.
+Guarded - minor threat.
+[color=red]Alert - CLEAR THREAT[/color]
 Danger - serious threat.
 Emergency - invasion imminent.
 

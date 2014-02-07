@@ -2,6 +2,8 @@ Hampton is a city in Virginia. Founded July 9, 1607. Settlers landed on Hucklebe
 
 Please endorse our Delegate [nation]Kecoughtan Tribe[/nation]
 
-Mayor: [nation]Vaktavia[/nation] has been elected to be your mayor!
+Mayor: [nation+short]Vaktavia[/nation] has been elected to be your mayor!
+
+Council Members: [nation]Kalakovia[/nation] and [nation]Campbell Land[/nation]
 
 Current Population of Region (nationstates): 2.957 Billion people

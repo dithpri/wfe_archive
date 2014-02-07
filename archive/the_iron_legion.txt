@@ -28,4 +28,5 @@ Military Operations Directorate of [region]The Fascist Union[/region].
 [nation=short]NorthEast Alliance[/nation] Evocati (Sergeant)
 [nation=short]Empire of Thayanalia[/nation] Munifex (Private)
 [nation=short]Freame[/nation] Munifex (Private)
+[nation=short]Fjormark[/nation] Munifex (Private)
 [/b]

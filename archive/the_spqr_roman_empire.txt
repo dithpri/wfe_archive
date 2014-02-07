@@ -1,7 +1,7 @@
 [color=red][B]The SPQR Roman Empire[/B][/color]
 
 [color=red][B]Leaders:[/B][/color]
-[color=red][B]The Roman Empire:[/B][/color] [B][nation]The Roman-Gaul Empire[/nation][/B]
+[color=red][B]The Republic of Rome:[/B][/color] [B][nation]The Roman Connection[/nation][/B]
 [B][color=green]Gaul:[/color][/B] [B]None[/B]
 [color=grey][B]The Seleucid Empire:[/B][/color] [B]None[/B]
 [color=maroon][B]Germania:[/B][/color] [B]None[/B]
@@ -11,7 +11,3 @@
 
 [url=http://thespqrromanempire.freeforums.org/][B]Our Forum[/B][/url]
 
-[b]Diplomatic Puppet Nations:[/b]
-[nation]the Seleucid empire of diplomacy[/nation] 
-[nation]the gaulish tribes[/nation]
-[nation]the greek city of sparta[/nation]

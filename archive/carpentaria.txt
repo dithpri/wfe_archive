@@ -1,14 +1,22 @@
-The islands and continent of [region]Carpentaria[/region]. 
+The nations of the continent and areas around Carpentaria
 
-Current Time Period: Spring of Nations (1814-1864)
-Current Motif: Early-mid Victorian era, 19th C. Imperial era, Industrial Revolution, Steampunk
+Empires:
+[nation]Yalafath[/nation]
+[nation]Magnum Leonem[/nation]
+[nation]Infinitus Imperium[/nation]
+[nation]Maltorium[/nation]
 
-Political Entities
+Nations:
+[nation]Blackenese Land[/nation]
+[nation]San Frontiers[/nation]
 
-[nation]Yalafath[/nation]: Ongoro Archipelago, Yala Peninsula, Cape Fath, Seneca, Core, Agamand
-[nation]Magnum Leonem[/nation]: Leo Major, Leo Minor, Undasta Steppes, Rovanon
-[nation]Infinitus Imperium[/nation]: Novum, Central Plains, Tall Trees, Eastpoint, Karth
-[nation]Maltorium[/nation]: Maltor, Boyard, Crux, Arroyo
-[nation]Blackenese Land[/nation]: Nigesia, Rhoder Peninsula, Sotho, Askir
-[nation]San Frontiers[/nation]: Meriland, Candie, Hub, Madison
-[nation]Molestius[/nation]: Rapeia, Bidisem Archipelago, Nekkid 
+New Nations:
+[nation]Val Sharok[/nation]
+[nation]Tierra de Nadie[/nation]
+
+Questionable Sovereignty:
+[nation]Molestius[/nation]
+
+Time period-appropriate progression and telegram/dispatch-based roleplay.
+
+Regional details can be found in the pinned regional dispatches.

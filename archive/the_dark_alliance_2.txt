@@ -4,10 +4,11 @@ What&amp;#39;s up? [Color=red]Drafting of constitution &amp;amp; recruitment[/co
 
 Government:
 WAD: [nation=ageena]
-Vice-WAD: [nation]Lionville[/nation]
 President: vacant 
 Ambassador: [nation]Delano[/nation]
 Minister for espionage: vacant
 Minister for home affairs: vacant
 Supreme Court justice: vacant
-Minister of defense: vacant
+Minister of defense: [nation]Lionville[/nation]
+
+Constitution: http://www.nationstates.net/nation=ageena/detail=factbook/id=216503
