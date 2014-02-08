@@ -1,22 +1,19 @@
 Welcome to [region]The Righteous Crusaders[/region], where we fight against invader regions, on both the offense and defense, and help rebuild victims of invaders.
-
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+[hr]
 Chief: [nation]The Righteous Crusaders[/nation]
-
-Field General: [nation]Patientiam[/nation]
 
 Field General: Available
 
-Marshal: Available
+Field General: Available
+
+Marshal: [nation]Unisonus[/nation]
 
 Marshal: Available
 
 Marshal: Available
 
 Marshal: Available
-
------------------------------------------------------------------------------------------------------------------------------------------------------------
+[hr]
 
 Order(s) of the Day:
 

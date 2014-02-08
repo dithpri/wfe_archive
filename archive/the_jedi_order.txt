@@ -9,6 +9,6 @@ Chaos, yet harmony.
 Grand Jedi Master:[nation=short+noflag]Jedi Clarinetists[/nation]
 Jedi Council: [nation=short+noflag]Jedi Clarinetists[/nation], [nation=short+noflag]CT-7567[/nation], [nation=short+noflag]Huyang[/nation], [nation=short+noflag]NewJediOrder[/nation]
 Jedi Master: 
-Jedi Knight:
+Jedi Knight:[nation=short+noflag]Mace Windy[/nation], [nation=short+noflag]Caedus[/nation], [nation=short+noflag]Kryze-Tachi-Calwell[/nation]
 Padawan Learner: 
 Jedi Initiate:
