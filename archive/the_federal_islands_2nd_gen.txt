@@ -8,9 +8,11 @@
 [i]Cartographer[/i]: [nation=short]Neutricland[/nation] [color=lime](P)[/color]
 
 [i]Senate:[/i]
+[nation=short]Coumba[/nation]
+[nation=short]New Capitalistland[/nation]
 [nation=short]Zondaland[/nation]
+[nation=short]New Parsa[/nation]
  [i][color=red]VACANT[/i][/color]
-[i][color=red]VACANT[/i][/color]
 
 [hr]
 [u]Political Parties[/u]:
@@ -23,7 +25,4 @@
 [url=http://www.nationstates.net/nation=neutricland/detail=factbook/id=12512]Our Map[/url]
 [url=http://www.nationstates.net/nation=neutricland/detail=factbook/id=194569]Our Laws[/url]
 [url=http://www.nationstates.net/nation=neutricland/detail=factbook/id=193682]Resolutions[/url]
-[url=http://www.nationstates.net/nation=neutricland/detail=factbook/dsubcategory1=109]More About Us[/url]
-
-[hr]
-[color=gold][i]The primaries for the President and WA Delegate are on February 1st![/i][/color]
+[url=http://www.nationstates.net/nation=neutricland/detail=factbook/subcategory=109]More About Us[/url]

@@ -27,4 +27,6 @@
 [region]Draconian Alliance[/region]
 [region]Libertopia[/region]
 
-[b]Current protectorate:[/b]  [region]The Arab League[/region] : 6 military nations deployed
+[b]Current protectorates:[/b]
+[region]The Arab League[/region] : 6 military nations deployed
+[region]Genuan rebirth[/region]: Founder nation in control of CoC
