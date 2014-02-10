@@ -4,7 +4,7 @@
 [color=red]Ops Commander: [nation]Oschore[/nation][/color]
 [color=orange]Grand General:[nation]Onasheo[/nation][/color]
 [color=gold]Head of Strategic Battle: [nation]Kurtives[/nation][/color]
-[color=green]Head of Tactical Intelligence: Vacant[/color]
+[color=green]Head of Tactical Intelligence: [nation]capalista[/nation][/color]
 [color=blue]Head of Regional Affairs: [nation]Onateo[/nation][/color]
 [color=purple]Head of Foreign Intel: Vacant [/color]
 

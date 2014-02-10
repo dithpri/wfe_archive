@@ -1,6 +1,6 @@
 [b]Defense Status[/b]: [color=blue]DEFSTAT 5[/color]
 
-[b]Latest News[/b]: What is it, citizen?
+[b]Latest News[/b]: Marxist-Leninist Workers&amp;#39; Party of Nuevo Meshiko gains popularity at a rapid pace.
 
 [hr]
 
@@ -27,7 +27,6 @@
 [b]Developing Workers&amp;#39; States[/b] (&amp;lt;500m citizens)
 
 [nation=short]Krajstali[/nation]
-[nation=short]Bamdada[/nation]
 [nation=short]Xaraian[/nation]
 [nation=short]Ordorinia[/nation]
 
@@ -36,6 +35,7 @@
 [b]Autonomous Workers&amp;#39; States[/b]
 
 [nation]Zatraska[/nation]
+[nation=short]Bamdada[/nation]
 
 [hr]
 
