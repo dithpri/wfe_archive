@@ -1,1 +1,6 @@
-Civitaseptentria-Piceastan-Fronochmedland
+[nation]Civitaseptentria[/nation]
+[nation]Piceastan[/nation]
+[nation]Fronochmedland[/nation]
+[nation]Extracontinent[/nation]
+[nation]Pectopah[/nation]
+[nation]Pseudoalexia[/nation]

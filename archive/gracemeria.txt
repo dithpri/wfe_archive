@@ -9,19 +9,25 @@ Head of Gracemerian War Council and Foreign Affairs
 
 [u]Gracemerian War Council[/u]
 Commander of Regional Military Forces:  
- [nation]The Gracemerian Guard[/nation]
 
+ [nation]Oblitus bellatorum[/nation] 
 
 
 Strategic Advisors:
 
-[nation]Shiggity Diggity[/nation]
+ [nation]The Gracemerian Guard[/nation]
 
 
 
 Special Units:
 [nation]Gracemerian Alchemists[/nation]
 
+[nation]The Legion of the Dammed[/nation]
+
+[nation]The 101st Gracemerian Auxiliary Force[/nation]
+
+
+[nation]The 209th Gracemerian Auxiliary Force[/nation]
 
 
 

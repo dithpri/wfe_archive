@@ -10,7 +10,7 @@
 [color=navy]Head of Internal Affairs:[/color][nation=short]Regikistan[/nation]
 [color=navy]Head of Defense:[/color][color=red]&amp;gt;&amp;gt;[/color][color=navy][B]Apply Now[/B][/color][color=red]&amp;lt;&amp;lt;[/color]
 [color=navy]Head of Foreign Affairs:[/color] [nation=short]Shadowdragons[/nation]
-[color=navy]Diplomats:[/color] [color=red]&amp;gt;&amp;gt;[/color][color=navy][B]Apply Now[/B][/color][color=red]&amp;lt;&amp;lt;[/color]
+[color=navy]Diplomats:[/color] [nation=short]Eglan[/nation][color=red]&amp;gt;&amp;gt;[/color][color=navy][B]Apply Now[/B][/color][color=red]&amp;lt;&amp;lt;[/color]
 [color=navy]Recruiters:[nation=short]Firatiya[/nation] 
 Cartographer:[nation=short]Kapitalistiske[/nation][/color]
 [color=navy]News Editor:[/color] [nation=short]Racodia[/nation]

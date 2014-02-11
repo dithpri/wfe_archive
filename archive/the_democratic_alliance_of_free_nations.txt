@@ -1,7 +1,9 @@
 [i]Unity with Diversity![/i]
-[color=green][b]The Democratic Assembly is a democratic region where all member nations are Assembly members. The Count(ess) is the head of the Executive Branch, while the visCount assists them in all matters. Both positions are elected bimonthly. The Chancellor is the head of the Assembly, whose job is to call to order Assembly meetings. They also deliver decisions to the Count. Any member nation can propose a bill, and voting lasts four days.[/b][/color=green]
+[color=FF0000][b]The Democratic Assembly is a democratic region where all member nations are Assembly members. The Count(ess) is the head of the Executive Branch, while the visCount assists them in all matters. Both positions are elected bimonthly. The Chancellor is the head of the Assembly, whose job is to call to order Assembly meetings. They also deliver decisions to the Count. Any member nation can propose a bill, and voting lasts four days.[/b][/color]
 
-Count: [nation]Valloria[/nation]
-visCount: Not Elected Yet
-Chancellor: Not Elected Yet
-Assembly Members: [b]ALL MEMBER NATIONS[/b]
+[color=006600]Count(ess):[/color] [color=FF0000]Not Elected Yet[/color]
+[color=006600]visCount(ess):[/color] [color=FF0000]Not Elected Yet[/color]
+[color=006600]Chancellor:[/color] [color=FF0000]Not Elected Yet[/color]
+[color=006600]Assembly Members:[/color] [color=FF0000][b]ALL MEMBER NATIONS[/b][/color]
+
+[b][i][url=http://democraticalliance.boardhost.com/index.php]Forums![/url][/b][/i]
