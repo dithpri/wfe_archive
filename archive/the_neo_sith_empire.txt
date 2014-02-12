@@ -1,7 +1,7 @@
 [color=red][b]Emperor:[/b][/color] [nation]Etonnia[/nation]
 
-[b]Wrath:[/b] [nation]Diablonaka[/nation]
-[b]Hand:[/b]
+[b]Wrath:[/b] [nation]Darthsith[/nation]
+[b]Hand:[/b] [nation]Tarellia[/nation]
 
 [b]Dark Council:[/b]
 Ancient Knowledge - [nation]Tradeus[/nation]
@@ -11,7 +11,7 @@ Expansion and Diplomacy - [nation]The PureBlood Sith[/nation]
 Imperial Intelligence - [nation]Looke Skywalkiere[/nation]
 Laws and Justice - [nation]501st-Legion[/nation]
 Military Offence - [nation]Lord Naga Sadow[/nation]
-Military Strategy - [nation]Tarellia[/nation]
+Military Strategy -
 Mysteries - 
 Production and Logistics - [nation]Pacificus[/nation]
 Sith Philosophy - [nation]Darthsith[/nation]

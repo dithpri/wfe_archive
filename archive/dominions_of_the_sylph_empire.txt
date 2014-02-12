@@ -1,12 +1,11 @@
-Welcome to the Dominions of The Sylph Empire 
+[b][u]Welcome to the Dominions of The Sylph Empire[/b][/u] 
 
 Dominions of The Sylph Empire are realms and territories under the sovereignty of the Sylph Imperial Crown. And together make up the 34 realms and territories of the Imperial Sylph Empire
 
-Sylph Imperial Hierarchy
-De Facto Head of State:The Constitutional Monarchy of The Sylph Empire
-Prime Ministerial Dominion:
-Deputy Prime Ministerial Dominion:
-Defence ministerial Dominion:
-Home Secretarial Dominion:
-Foreign Secretarial Dominion:
-Justice Secretarial Dominion:
+[u]Sylph Imperial Hierarchy[/u]
+De Facto Head of State:[nation]The Sylph Empire[/nation]
+Prime Ministerial Dominion:[nation]Sylph Imperial Japan[/nation]
+Deputy Prime Ministerial Dominion:[nation]Sylph Imperial Australia[/nation]
+Defence ministerial Dominion:[nation]Sylph Imperial New Zealand[/nation]
+Home Secretarial Dominion:[nation]Sylph Imperial Polynesia[/nation]
+Foreign Secretarial Dominion:[nation]Sylph Imperial Papua New Guinea[/nation]

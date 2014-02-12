@@ -6,7 +6,7 @@
 King: [nation=short]Nephmir[/nation]
 Bishop: [nation=short]Valrifell[/nation]
 Lords:
-Knights: [nation=short]Unified Protectors[/nation], [nation=short]Akarnir in Space[/nation], [nation=short]Ever-Wandering Souls[/nation], [nation=short]The Sapientia[/nation], [nation=short]The Shadow Assassin[/nation], [nation=short]The Order of Hospitallers[/nation], [nation]NoStringsAttached[/nation]
+Knights: [nation=short]Unified Protectors[/nation], [nation=short]Ever-Wandering Souls[/nation], [nation=short]The Sapientia[/nation], [nation=short]The Order of Hospitallers[/nation], [nation]NoStringsAttached[/nation]
 
 [b][u]Links[/u][/b]
 [url=http://the-eternal-knights.forumotion.com]Forum[/url]
@@ -15,5 +15,6 @@ Knights: [nation=short]Unified Protectors[/nation], [nation=short]Akarnir in Spa
 [url=http://forum.nationstates.net/viewtopic.php?f=15&amp;amp;t=269464]NationStates++[/url]
 [url=http://www.nationstates.net/nation=nephmir/detail=factbook/id=203068]Foreign Policy[/url]
 
-[b][u]Current Orders[/u][/b]
-Train your divisions! Recruit! Fight!
+[b][u]Current Orders[/u][/b] [url=http://www.nationstates.net/page=dispatch/id=218480][?][/url]
+[b]Telegram [nation=short]Ever-Wandering Souls[/nation] for orders.[/b]
+

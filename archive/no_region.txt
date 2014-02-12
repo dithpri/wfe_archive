@@ -10,7 +10,7 @@ Hello, welcome to No Region, a region for those to do as they please, no require
 
 Current threat level: [color=green]Green[/color]
 
-[b]Chairmen, advisors, etc.:[/b]
+[b]Chairmen/Elders:[/b]
 
 [b]Joint-military advisor: [/b][nation]josuania[/nation]
 
@@ -18,8 +18,8 @@ Current threat level: [color=green]Green[/color]
 
 [b]Regional Peacekeeper:[/b] [nation]The Empire of Dolmite[/nation]
 
-[b]Regional Economic Commissioner:[/b] [nation]creepoc infinite[/nation]
+[b]Regional Economic Commissioner:[/b] [nation]creepoc infinite[/nation]-Delegate
 
-[b]NRSC director of Technology: [/b][nation]talorin[/nation]
+[b]NRSC director of Technology: N/A [/b]
 
-[b]NRSC director of Space Marine program: [/b][nation]noahmerica[/nation]
+[b]NRSC director of Space Marine program: [/b][nation]noahmerica[/nation]-Founder
