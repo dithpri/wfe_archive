@@ -1,14 +1,14 @@
 [color=blue]Welcome to New Republica! This region is a place to start over and begin anew. We are also democratic and are always looking for new members to join.
 Please endorse your WA Delegate![/color]
 [color=blue]
-President Pro Tempore: [nation]the anean tribes[/nation]
+President: [nation]The Republic rome[/nation]
 Vice President: TBA
 SecState: TBA
 SecDef: TBA
 
 Senate:
+[nation]the anean tribes[/nation]
 [nation]the united remnants of america[/nation]
-TBA
 TBA
 
 High Court

@@ -15,8 +15,12 @@ Commander of Regional Military Forces:
 
 Strategic Advisors:
 
- [nation]The Gracemerian Guard[/nation]
+[nation]Hooperville[/nation]
 
+[nation]The Gracemerian Guard[/nation]
+
+
+[nation]The Legion of the Dammed[/nation]
 
 
 Special Units:
@@ -24,8 +28,9 @@ Special Units:
 
 [nation]The Legion of the Dammed[/nation]
 
-[nation]The 101st Gracemerian Auxiliary Force[/nation]
+[nation]The Gracemerian Death Watch[/nation]
 
+[nation]The 101st Gracemerian Auxiliary Force[/nation]
 
 [nation]The 209th Gracemerian Auxiliary Force[/nation]
 

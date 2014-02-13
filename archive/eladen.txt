@@ -31,7 +31,8 @@ Cheese: [color=orange][b]5th[/b][/color]
 Gambling: 15th
 Manufacturing: [color=orange][b]9th[/b][/color]
 IT: 15th
-Basket Weaving: [b][color=orange]8th[/b][/color]
+Retail: [b][color=orange]6th[/b][/color]
+Basket: [b][color=orange]8th[/b][/color]
 Timber: [color=orange][b]9th[/b][/color]
 Employment: 80th
 
@@ -41,6 +42,6 @@ Employment: 80th
 
 [color=blue][b]Endorsements[/color][/b]: All WA nations must endorse [b][nation=short]Virulent Racism[/nation][/b] prior to endorsing other nations.
 
-[color=red]EDF Rating[/color]: 1619
+[color=red]EDF Rating[/color]: 1662
 
-[i]Updated: 16/12/13[/i]&nbsp;
+[i]Updated: 12/2/14[/i]&nbsp;

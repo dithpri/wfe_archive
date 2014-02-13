@@ -4,8 +4,8 @@ Created January, 10th 2014
 [b]Government[/b]
 Secretary of State:[nation]New Plack[/nation]
 Vice Secretary of State:[nation]The United Paragonals[/nation]
-Secretary of Defense:Elections
-Secretary of Foreign Affairs:Elections
+Secretary of Defense:[nation]Rubiks Cube[/nation]
+Secretary of Foreign Affairs:N/A
 Speaker of The Council:N/A
 Council: N/A
 Secretary of Immigration: N/A

@@ -1,1 +1,8 @@
-A bright new sun rises in the west. We are the Right Hand of Commander Keyin.
+A bright new sun rises in the west. We are the Right Hand of Commander Keyin.\
+
+Officials:
+
+Shogun: [nation]The Scorched Lands[/nation]
+Commander of Intelligence: [nation]The Alihen Mountains[/nation]
+Ambassador: [nation]Atomic Kingdom of China Royal Guard[/nation] to the region [region]Guard Alliance[/region]
+Ambassador:[nation]Mediteranean Syndicate Subsidaries[/nation] to the region [region]The liberators of NS[/region]
