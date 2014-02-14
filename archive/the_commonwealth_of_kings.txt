@@ -1,21 +1,21 @@
-[color=blue][b]Welcome to the Commonwealth of Kings![/b][/color]
-[hr][u][b][color=blue]Monarchy[/color][/b][/u]
-King: [nation=shortname]Lalucia[/nation]
+[color=lightblue][b]Welcome to the Commonwealth of Kings![/b][/color]
+[hr][u][b][color=lightblue]Monarchy[/color][/b][/u]
+[b]King:[/b] [nation=shortname]Lalucia[/nation]
 
-[u][b][color=blue]His Majesty&amp;#39;s Government[/color][/b][/u]
-[b]Prime Minister:[/b] [nation=shortname]ShenGuo[/nation] (PCP)
-[b]Minister of Defence and Security:[/b] [nation=shortname]The Arctic Wolves[/nation] (RIP)
-[b]Minister of International Development:[/b] [nation=shortname]The Royally United Provinces[/nation] (PCP)
+[u][b][color=lightblue]His Majesty&amp;#39;s Government[/color][/b][/u]
+[b]Prime Minister:[/b] [nation=shortname]The Royally United Provinces[/nation]
+[b]Minister of Defence and Security:[/b] [nation=shortname]The Arctic Wolves[/nation]
+[b]Minister of International Development:[/b]
 [b]Minister of Media and Culture:[/b] Vacant
 
-[u][b][color=blue]Supreme Court[/color][/b][/u]
+[u][b][color=lightblue]Supreme Court[/color][/b][/u]
 [b]Lord Chief Justice:[/b] [nation=shortname]Father motherland[/nation]
 
-[hr]Regional Alert Level: [b][color=green]GREEN[/color][/b] / Ruling Party: [color=blue][b]Progressive-Conservative Party[/b][/color] / Please Endorse [nation=shortname]ShenGuo[/nation] as your Prime Minister
+[hr]Regional Alert Level: [b][color=green]GREEN[/color][/b] / Please Endorse [nation=shortname]The Royally United Provinces[/nation] as your Prime Minister
 [hr][b]Join our [url=http://commonwealthofkings.africamotion.net]Forum[/url]
 Read our [url=http://commonwealthofkings.africamotion.net/t11-the-constitution]Constitution[/url]
 View our [url=http://thomasalrich6.wix.com/commonwealth]Regional Map[/url]
 Chat in the [url=http://client01.chat.mibbit.com/?channel=%23CoK&amp;amp;server=irc.esper.net]Chat Room[/url]
 Follow us on [url=https://twitter.com/CommonwealthK]Twitter[/url]
 Apply for an: [url=http://commonwealthofkings.africamotion.net/t1-embassy-request-application-form]Embassy[/url] or [url=http://commonwealthofkings.africamotion.net/t55-apply-for-a-commonwealth-citizenship=]Citizenship[/url]
-Our 1st Regional Anniversary was on [color=blue]October 19th 2013[/color][/b][hr][b][url=http://www.nationstates.net/nation=lalucia/detail=factbook/id=main]List of Crown Dependencies[/url][/b]
+Our 1st Regional Anniversary was on [color=lightblue]October 19th 2013[/color][/b][hr][b][url=http://www.nationstates.net/nation=lalucia/detail=factbook/id=main]List of Crown Dependencies[/url][/b]

@@ -6,12 +6,12 @@ Empires:
 [nation]Infinitus Imperium[/nation]
 [nation]Maltorium[/nation]
 
+Rising Power:
+[nation]Val Sharok[/nation]
+
 Nations:
 [nation]Blackenese Land[/nation]
 [nation]San Frontiers[/nation]
-
-New Nations:
-[nation]Val Sharok[/nation]
 [nation]Tierra de Nadie[/nation]
 
 Questionable Sovereignty:

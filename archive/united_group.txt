@@ -13,7 +13,7 @@
 
 [color=purple]President:[/color] [nation=short]Futhapolicia[/nation]
 [color=purple]Foreign Affairs:[/color] [nation=short]Tibbiville[/nation]
-[color=purple]Attorney General:[/color] [nation=short]Kinsarda[/nation]
+[color=purple]Attorney General:[/color] [nation=short]Weshnal[/nation]
 [color=purple]Secretary of Defense:[/color] [nation=short]The NAR[/nation]
 
 

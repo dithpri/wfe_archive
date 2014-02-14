@@ -7,13 +7,6 @@
 [i]Marshall[/i]: [nation=short]Shallowell[/nation] [color=yellow](L)[/color]
 [i]Cartographer[/i]: [nation=short]Neutricland[/nation] [color=lime](P)[/color]
 
-[i]Senate:[/i]
-[nation=short]Coumba[/nation]
-[nation=short]New Capitalistland[/nation]
-[nation=short]Zondaland[/nation]
-[nation=short]New Parsa[/nation]
- [i][color=red]VACANT[/i][/color]
-
 [hr]
 [u]Political Parties[/u]:
 [color=yellow]Libertarian[/color]: [nation=short]Conservative Idealism in TFI[/nation]     
