@@ -7,7 +7,7 @@
 [b]The King:[/b] [nation=short]Augustus Telcontar[/nation]
 
 [b][u]The Government of Ainur[/u][/b]
-[b]Tribune:[/b] To be Elected
+[b]Tribune:[/b] [nation=short]The Rising Voice[/nation]
 [b]Minister of Recruitment:[/b] [nation=short]Ponderosa[/nation]
 [b]Minister of Foreign Affairs:[/b] [nation=short]Ashton Mercer[/nation]
 [b]Minister of Culture:[/b] [nation=short]The Republic of Kentucky[/nation]

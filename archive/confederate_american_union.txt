@@ -1,2 +1,5 @@
-[color=blue]President:[/color][color=green] Nat Orion[/color] [nation]the Republic Confederation of America[/nation]
-[Color=blue]Vice President:[/COLOR][color=green] J. Williams Dunn III[/color] [nation]the Republic Confederation of America[/nation]
+[b]WELCOME[/b] to the [region]Confederate American Union[/region]
+
+
+[color=blue]President:[/color][color=orange] Nat Orion[/color] [nation]the Republic Confederation of America[/nation]
+[Color=blue]Vice President:[/COLOR][color=orange] J. Williams Dunn, III[/color] [nation]the Republic Confederation of America[/nation]

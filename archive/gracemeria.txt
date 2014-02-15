@@ -1,9 +1,7 @@
 A region devoted to maintaining peace through law &amp;amp; order and superior military might. 
 
-Head of Gracemerian War Council and Foreign Affairs
+Head of Gracemerian War Council &amp;amp; S.W.O.R.D.
  [nation]Oblitus bellatorum[/nation] 
-
-
 
 
 
@@ -23,7 +21,7 @@ Strategic Advisors:
 [nation]The Legion of the Dammed[/nation]
 
 
-Special Units:
+S.W.O.R.D. Units:
 [nation]Gracemerian Alchemists[/nation]
 
 [nation]The Legion of the Dammed[/nation]

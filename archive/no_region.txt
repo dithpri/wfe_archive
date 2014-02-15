@@ -1,7 +1,8 @@
-Welcome to No Region! Free to Join...
+Welcome to No Region! Free to Join.
+
 [b]Threat levels to No Regions way of life: [/b]
-[color=green]Green[/color]=No problems, carry on
-[color=blue]Blue[/color]=Something may or may not be wrong, stand by
+[color=green]Green[/color]=No problems
+[color=blue]Blue[/color]=Something may or may not be wrong
 [color=yellow]Yellow[/color]=Caution, borders may be closed
 [color=orange]Orange[/color]=Ready drones for precision strikes
 [color=red]Red[/color]=Mobilize forces
@@ -11,9 +12,15 @@ Current threat level: [color=green]Green[/color]
 [b]Chairmen/Elders:[/b]
 
 [b]Joint-military advisor: [/b][nation]josuania[/nation]
+
 [b]Cultural advisor:[/b] [nation]banzai and jihadist experts[/nation]
+
 [b]Regional Peacekeeper:[/b] [nation]The Empire of Dolmite[/nation]
-[b]Regional Economic Commissioner:[/b] [nation]creepoc infinite[/nation] -Delegate
+
+[b]Regional Economic Commissioner:[/b] [nation]creepoc infinite[/nation]
+
 [b]Economic Security Chief:[/b] [nation]chaunceys[/nation]
+
 [b]NRSC director of Technology: [/b][nation]evil chauncey[/nation]
-[b]NRSC director of Space Marine program: [/b][nation]noahmerica[/nation] -Founder
+
+[b]NRSC director of Space Marine program: [/b][nation]noahmerica[/nation]
