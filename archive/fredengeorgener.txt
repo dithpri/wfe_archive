@@ -1,8 +1,8 @@
-[nation]Georgenbild[/nation]: Troops return home as second tour group mobilizes.
+[nation]Georgenbild[/nation]: Georgenbild retains hegemony amidst regional arms race.
 [nation]Nordburgen[/nation]: Nordburgen troops assist Georgenbild in stabilization of Blackacre.
-[nation]Ouestlands[/nation]: Economy slips two points, but Ouestlands still in lead.
-[nation]Fredricksbild[/nation]: &amp;#39;We will come out of this stronger than ever&amp;#39; - Leader
-[nation]Hoffton[/nation]: Joins war in Blackacre against Fredricksbild&amp;#39;s orders.
-[nation]Fredengeorgener[/nation]: Capitol struggles to balance Empire&amp;#39;s demands, Acercia&amp;#39;s role in region
-[nation]Stromburgen[/nation]: Colony takes the lead in Auto Manufacturing.
-[nation]Acersia[/nation]: Acersia tops Georgenbild as top regional defense spender. 
+[nation]Ouestlands[/nation]: Colony expands; ties Stromburgen&amp;#39; auto industry.
+[nation]Fredricksbild[/nation]: Economy continues to improve.
+[nation]Hoffton[/nation]: Independence on the agenda?
+[nation]Fredengeorgener[/nation]: Capitol rated safest, nicest in region.
+[nation]Stromburgen[/nation]: Economy slumps, but still strong.
+[nation]Acersia[/nation]: Nation signals it will back Hoffton secession from Fredricksbild.

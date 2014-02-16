@@ -3,8 +3,5 @@
 [b]Monarch:[/b] [nation]Elsa the Snow Queen[/nation]
 [b]Prime Minister:[/b] vacant
 
-[b]Governor of [region]Fort Courage[/region][/b]: [nation]Sasoon[/nation]
-[b]Governor of [region]The Free Pacific[/region][/b]: [nation]Founder of the Free Pacific[/nation]
-
 [b]Royal Council:[/b]
 Vacant --
