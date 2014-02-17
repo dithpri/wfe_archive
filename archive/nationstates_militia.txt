@@ -2,13 +2,13 @@
 -This region is a casual mercenary region who&amp;#39;s main purpose is to provide support when needed to help out fellow raiders and defenders. 
 -When needed the nations of this region can be called upon in times of trouble and come to the aid of those that desperately need it.  
 
-[color=red][u]THE MILITIA:[/u][/b][/color]
+[color=red][u]REGIONAL ROLES:[/u][/b][/color]
 [b]-General/Founder:[/b] [b][nation=short]General Christian[/nation][/b] 
-[b]-N.S Armed Militia:[/b] [b][nation=short]inzektoria[/nation][/b], [b][nation=short]acht reich[/nation][/b], [b][nation=short]habloria[/nation][/b], [b][nation=short]logantopia[/nation][/b]
-
-[b][color=red][u]IMPORTANT MESSAGES:[/u][/color][/b]
-[b]-Telegram me if you have any concerns/questions/ideas.[/b]
-[b]-Please read my factbook on our security threat levels.[/b]
-________________________________________________________________________________________________________________________________
+[b]-Regional Delegate:[/b]
+[b]-Head of Defense:[/b]
+[b]-Head of Intelligence:[/b]
+[b]-Head of Recruitment:[/b]
+[b]-Armed Forces:[/b] [b][nation=short]Heileopolis[/nation][/b], [b][nation=short]inzektoria[/nation][/b], [b][nation=short]acht reich[/nation][/b], [b][nation=short]habloria[/nation][/b], [b][nation=short]logantopia[/nation][/b]
+_________________________________________________________________________________________________________________________________________
 
 [color=red][b][u]SECURITY LEVEL:[/u][/b][/color] [b]3 (Moderate)[/b]

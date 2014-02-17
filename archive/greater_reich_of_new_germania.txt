@@ -1,14 +1,14 @@
-Welcome to the Greater Reich of New Germania!
+[b]Welcome to the Greater Reich of New Germania![/b]
 
-Government: 
-Head of State: [nation=deutschermany]
-Prime Minister, Head of Government and Head of Ministerial Council (WA Delegate): [nation=gaussen]
-Ministerial Council: 
--Minister of Foreing Affairs: [nation=gaussen]
--Minister of Home Affairs: 
--Minister of Economy: 
--Minister of Justice: 
--Minister of Propaganda: 
--Minister of Defense and Security: 
--Minister of Armaments: 
--Minister of Culture and Education: 
+[b]Government[/b]: 
+[b]Head of State[/b]: [nation=deutschermany]
+[b]Prime Minister, Head of Government and Head of Ministerial Council (WA Delegate)[/b]: [nation=gaussen]
+[b]Ministerial Council[/b]: 
+-[b]Minister of Foreing Affairs[/b]: [nation=gaussen]
+-[b]Minister of Home Affairs[/b]: 
+-[b]Minister of Economy[/b]: 
+-[b]Minister of Justice[/b]: 
+-[b]Minister of Propaganda[/b]: 
+-[b]Minister of Defense and Security[/b]: 
+-[b]Minister of Armaments[/b]: 
+-[b]Minister of Culture and Education[/b]: 

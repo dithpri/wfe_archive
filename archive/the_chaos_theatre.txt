@@ -8,10 +8,11 @@ Your parliament:
 [nation]Applebania[/nation]
 [nation]Kaistania[/nation]
 [nation]Dementedland[/nation]
+[nation]End Isles[/nation]
 
 Endorsement cap for nations in Parliament is 5.
 Endorsement cap for nations not in Parliament is 3.
-There is no endorsement cap for the Delegate.
+[B]Comply or be ejectbanned.[/B]
 
-[u]World Assembly membership and use of NationStates++ is mandatory if you wish to join the Parliament.[/u]
+[u]World Assembly membership and use of NationStates++ is mandatory if you wish to join the Parliament and encouraged for everyone else.[/u]
 Get NationStates++ [url=http://forum.nationstates.net/viewtopic.php?f=15&amp;amp;t=269464]here[/url].

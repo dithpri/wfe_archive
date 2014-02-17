@@ -1,1 +1,8 @@
-[region]The Eastern Pacific Sovereign Army[/region]
+TEP is allied with:
+
+[region]The United Defenders League[/region]
+[region]Lazarus[/region]
+
+TEP is at war with:
+
+[region]Gatesville Inc[/region]
