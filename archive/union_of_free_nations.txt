@@ -8,6 +8,7 @@
 [nation=short]gileana[/nation] [b](Minister)[/b] 
 [nation=short]baleanor[/nation]
 [b][u]Intelligence Directorate[/b][/u]
+[b]VACANT[/b]
 [b][u]Recruitment Bureau[/b][/u]
 [nation=short]republicofhampstead[/nation] [b](Chairman)[/b]
 [nation=short]haigford[/nation]

@@ -5,3 +5,7 @@
 [hr]
 [nation=long+flag]CARTER-HATER[/nation]
 [nation=long+flag]The assasins[/nation]
+[nation=long+flag]Senor[/nation]
+[nation=long+flag]LOVERNATION[/nation]
+[hr]
+Region version 0.0.0.2

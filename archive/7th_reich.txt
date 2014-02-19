@@ -1,14 +1,15 @@
-[u][i][B]Government[/b][/i][/u]
-F&uuml;hrer-[nation]Imperial Rising Sun[/nation]
-Leiter der Kriegsf&uuml;hrung-
-Propagandaminister-[nation]Fontoria[/nation]
-Minister f&uuml;r Verteidigung-
-Leiter der Diplomatie-
-Senatoren-
-Senatoren-
------------------------------------------------------------------------------------------------------------------------
-This Region is a rebuild of the former region [color=darkgreen][b]IDE[/b][/color]
+[u][i][B]Regional Government[/b][/i][/u]
+
+[b]Chancellor-[nation=short]Imperial rising sun[/nation]
+Head of Warfare-
+Propaganda Minister-
+Minister for Defence-
+Minister of Communication-[nation=short]Fontoria[/nation]
+Head of Diplomacy-
+senators-
+senators-[/b]
 -----------------------------------------------------------------------------------------------------------------------
 Links coming soon...
+[url=http://7th.freeforums.net/]Our Forum[/url]
 -----------------------------------------------------------------------------------------------------------------------
 [color=Blue][b]Endorsement Cap: 1[/b][/color]

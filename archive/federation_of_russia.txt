@@ -1,7 +1,1 @@
-[color=800000][b]WELCOME[/color]
-[list][color=000080]Federation of Russia[/b][/color][hr][color=008000]an [region=Ancient Lands] region
-Allied with: [list]&#149; [region=Russian Federation]
-&#149; [region=Republic of Russia]
-&#149; [region=Saint Petersburg]
-&#149; [region=St Petersburg]
-&#149; and a few other regions, too.[/list][hr][/color][/list]
+[hr][list][color=teal][b]Federation of Russia[/b][/color][/list][hr]

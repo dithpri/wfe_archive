@@ -9,6 +9,7 @@
 [region]Fifth Empire[/region]
 [region]Grossdeutsches Reich[/region]
 [region]Hesse[/region]
+[region]League of Northern European Nations[/region]
 [region]Monoffian Militarized Zone[/region]
 [region]NBE[/region]
 [region]National Socialist Revolution[/region]
