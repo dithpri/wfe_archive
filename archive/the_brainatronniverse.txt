@@ -5,3 +5,4 @@ Minister of Defense: [nation=short]Mechacercradonia[/nation]
 Treasurer: [nation=short]Econopoly[/nation]
 Minister of Resources and Commerce: [nation=short]Netnuero Inc[/nation]
 Charity Organization CEO: [nation=short]Devout Deliveries[/nation]
+

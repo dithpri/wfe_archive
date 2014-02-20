@@ -2,10 +2,12 @@
 
 
 [color=green]Here is a list of the following nations in Duffs Beer[/color]
+[color=red]*listed by date of arrival[/color]
 [hr]
 [nation=long+flag]CARTER-HATER[/nation]
 [nation=long+flag]The assasins[/nation]
 [nation=long+flag]Senor[/nation]
 [nation=long+flag]LOVERNATION[/nation]
+[nation=long+flag]CARTER2015[/nation]
 [hr]
 Region version 0.0.0.2

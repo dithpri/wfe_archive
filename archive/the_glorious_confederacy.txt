@@ -3,13 +3,13 @@ Welcome to the Glorious Confederacy
 [u]Danger Level:[/u]
 
 [color=green] Green = No Danger[/color]
-[color=yellow]Yellow=Low[/color]
+[color=yellow]Yellow  =Low[/color]
 [color=amber]Amber = Medium[/color]
 [color=orange]Orange =  High[/color]
-[color=red]Red=  Immediate Danger[/color]
+[color=red]Red =  Immediate Danger[/color]
 [color=purple]Purple = Lockdown[/color] 
 
-Current Danger Level: [color=green]No Danger[/color]
+Current Danger Level: [color=amber]Medium[/color]
 
 [u]Regional Government:[/u]
 
@@ -26,4 +26,4 @@ More info on government positions will be found here:
 
 A universal currency has been introduced called the Divitiae, which is paper money. More information can be found [url=http://www.nationstates.net/nation=bfu/detail=factbook/id=212964]here[/url]
 
-[i]Divitiae Exchange Rate =  [b]d1 : $3.947[/b][/i]
+[i]Divitiae Exchange Rate =  [b]d1 : $2.212[/b][/i]

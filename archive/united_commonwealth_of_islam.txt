@@ -18,7 +18,7 @@ Ministry of Foreign Affairs:
 
 Ministry of Border Security: [nation]Iced Souls[/nation]
 
-[color=Orange]Alert Status:[/color] [color=green][b]Green[/b][/color]
+[color=Orange]Alert Status:[/color] [color=yellow][b]Alert[/b][/color]
 
 [color=blue][b]News:[/color][/b]
 
