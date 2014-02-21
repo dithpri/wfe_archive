@@ -5,7 +5,7 @@ Created January, 10th 2014
 Secretary of State:[nation]New Plack[/nation]
 Vice Secretary of State:[nation]The United Paragonals[/nation]
 Secretary of Defense:[nation]Rubiks Cube[/nation]
-Secretary of Foreign Affairs:N/A
+Secretary of Foreign Affairs:[nation]Wild Horses[/nation]
 Speaker of The Council:N/A
 Council: N/A
 Secretary of Immigration: N/A

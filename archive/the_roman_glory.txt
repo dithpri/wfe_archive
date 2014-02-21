@@ -1,10 +1,6 @@
-Censor(WA Delegate): 
+Censor(WA Delegate): [nation]Ej2431957[/nation]
 Emperor(Founder): [nation]Bryce54399[/nation]
-Consul(Military Executive): [nation]Ej2431957[/nation]
-Praetor(Foreign Adviser):
-Aedile(Civic Adviser):[nation]dechamp10[/nation]
-Legatus(Recruitment):
-
-
-For are fellow brothers in Caesars Republic
-
+Consul(Military Executive): [nation]dechamp10[/nation]
+Praetor(Foreign Adviser):[nation]Ej2431957[/nation]
+Aedile(Civic Adviser):[nation]claudia marcella[/nation]
+Legatus(Recruitment):[nation]oceania uk[/nation]

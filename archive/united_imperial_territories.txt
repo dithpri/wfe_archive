@@ -8,7 +8,7 @@ Grand Inquisitor - Vacant
 Director of Intelligence - Vacant
 Lord High Marshal - Vacant
 Minister of Foreign Affairs - Vacant
-Internal Defense Administrator - [nation]Stalinist Imperial Union[/nation]
+Internal Defense Administrator - Vacant
 World Assembly Delegate - Vacant
 Overwatch Authority Overseer - Vacant
 
@@ -20,10 +20,10 @@ Imperial Military: 0
 
 Ministry of Foreign affairs: 0
 
-Internal Defense Administration: 1
+Internal Defense Administration: 0
 
 World Assembly Offices: 0
 
-Imperial Intelligence Agency: 1
+Imperial Intelligence Agency: 0
 
 Overwatch: 0

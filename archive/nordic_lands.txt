@@ -9,10 +9,10 @@ The[b][color=green] Nordic Lands[/color][/b] is a region where [b][u][color=gree
 Ministries:
 Administration: [nation=short]Askerike[/nation]
 Foreign Affairs: [nation=short]Copenhagen Metropolis[/nation]
-Recruitment: seeking new recruiter
+Recruitment: [nation=short]The Baltic Alliance[/nation]
 
 [hr]
-[url=http://imageshack.com/a/img856/589/hlcj.png]Map[/url] - v32, updated: 23.01.14 (admin/contact: [nation=short+noflag]Copenhagen Metropolis[/nation])
+[url=http://imageshack.com/a/img703/1656/zcvk.png]Map[/url] - v33, updated: 21.02.14 (admin/contact: [nation=short+noflag]Copenhagen Metropolis[/nation])
 [url=http://thenordiclands.proboards.com/index.cgi?]Forum[/url][/b] (currently inactive)
 [b][url=http://nswiki.net/index.php?title=Nordic_Lands]NSwiki[/url]
 [url=http://forum.nationstates.net/viewtopic.php?f=23&amp;amp;t=268991]Nordic Lands news[/url][/b]

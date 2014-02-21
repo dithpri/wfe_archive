@@ -9,5 +9,6 @@
 [nation=long+flag]Senor[/nation]
 [nation=long+flag]LOVERNATION[/nation]
 [nation=long+flag]CARTER2015[/nation]
+[nation=long+flag]CharlestownIN[/nation]
 [hr]
 Region version 0.0.0.2

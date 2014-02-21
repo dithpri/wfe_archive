@@ -3,7 +3,7 @@ Welcome to the Glorious Confederacy
 [u]Danger Level:[/u]
 
 [color=green] Green = No Danger[/color]
-[color=yellow]Yellow  =Low[/color]
+[color=yellow]Yellow  = Low[/color]
 [color=amber]Amber = Medium[/color]
 [color=orange]Orange =  High[/color]
 [color=red]Red =  Immediate Danger[/color]

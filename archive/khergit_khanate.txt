@@ -12,7 +12,6 @@ Council-[nation]Luicia[/nation],[nation]Forsaken lands[/nation],[nation]Redtowel
 
 Allies:
 [region]Communist Region[/region]
-[region]a non fixed location in paradox space[/region]
-[region]Self Preservation Society[/region]
+[region]The Communist[/region]
 
 

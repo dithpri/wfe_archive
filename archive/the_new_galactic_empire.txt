@@ -6,7 +6,7 @@
 [b][u]Supreme Court[/u][/b] 
 [b]Supreme Judge[/b]: [nation=short]Gray Army[/nation][hr]
 [b][u]Moff Council[/u][/b]
-[b]Interim Moff of Foreign Affairs[/b]: [nation=short]The Arkanis Sector[/nation]
+[b]Moff of Foreign Affairs[/b]: [nation=short]The Chommell Sector[/nation]
 - [b]Vice Moff of Foreign Affairs[/b]: [nation=short]Vacant [/nation]
 [b]Interim Moff of War[/b]: [nation=short]Darth Tenebris[/nation]
 - [b]Vice Moff of War[/b]: [nation=short]Vacant [/nation]

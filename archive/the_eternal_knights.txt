@@ -7,7 +7,7 @@ King: [nation=short]Nephmir[/nation]
 Bishop: [nation=short]Valrifell[/nation]
 Lords:
 Knights: [nation=short]Unified Protectors[/nation], [nation=short]Ever-Wandering Souls[/nation], [nation=short]The Sapientia[/nation], 
-[nation=short]The Order of Hospitallers[/nation], [nation=short]NoStringsAttached[/nation], [nation=short]The Alkine Island[/nation]
+[nation=short]The Order of Hospitallers[/nation], [nation=short]NoStringsAttached[/nation], [nation=short]Ave Lanius[/nation], [nation=short]The Alkine Island[/nation]
 
 [b][u]Links[/u][/b]
 [url=http://the-eternal-knights.forumotion.com]Forum[/url]

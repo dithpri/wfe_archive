@@ -1,15 +1,15 @@
 [b]About[/b]
 
-Nations united in an unknown place known only by its codename, [region]Stratosphere[/region].
-The alliance was founded so these nations could profit from their political and economic aid,
-speeding up their process of ascending to their desired state and achieving their desired goal.
+Nations united in an unknown place known only by its codename, [region]Stratosphere[/region]. The alliance was founded so these nations could profit from their political and economic aid, speeding up their process of ascending to their desired state and achieving their desired goal.
 
 [b]Nations[/b]
 
-[nation]Descending Sky[/nation] : &#147;One step in mind, two for the fight!&#148; 
-[nation]Austral Cross[/nation] : &#147;Peace is a lie, there is only passion.&#148;
-[nation]Primus II[/nation] : &#147;There is no Death, there is the Force&#148;
-[nation]Akatora[/nation] : &#147;One must first know yourself&#148;
-[nation]Kronzel[/nation] : &#147;Doomshine&amp;#39;s a bit of an acquired taste.&#148;
-[nation]Falabravo[/nation] : &#147;Police State done right&#148;
-[nation]Locus Parus[/nation] : &#147;Renan solando top &eacute; GG&#148;
+[nation]Descending Sky[/nation]
+[nation]Austral Cross[/nation]
+[nation]Primus II[/nation]
+[nation]Akatora[/nation]
+[nation]Kronzel[/nation]
+[nation]Falabravo[/nation]
+[nation]Locus Parus[/nation]
+[nation]Rosarias[/nation]
+[nation]Sorieden[/nation]

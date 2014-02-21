@@ -1,5 +1,2 @@
-[color=800000][b]Asuncion[/b][/color][color=teal]
-Capital of [region=Paraguay]
-
-Allied with: [region=Paraguay] and [region=Latin America][/color]
-[color=800000][b]Greetings and Welcome[/b][/color]
+[color=bronze][b][region]Asuncion[/region]  is the capital and largest city of [region]Paraguay[/region].[/color]
+[list][color=blue]It is the home of the national government, principal port, and the chief industrial and cultural centre of the country.[/list][/b][/color]
