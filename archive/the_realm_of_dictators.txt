@@ -1,13 +1,11 @@
-[color=red] All people are to join the army at a young age, children are to be taken to be raised as super soldiers and all rebels are to be tortured to death if must!
-
-This fleet will rise above all and you must surrender to me or regret that you never did...
-For I have fleets and fleets of starships and an armed command stations ready to destroy all that ever existed... [/color] 
+[color=red][b]Join the armies of the dictators![/b][/color] 
 
 
       [nation]Good Dictator[/nation] [color=gold]1st Command[/color]
      
       [nation]Bad Dictator[/nation] [color=silver]2nd Command[/color]
 
-      [nation]Evil Dictator[/nation] [color=bronze]Technology Dept.
+      [nation]Evil Dictator[/nation] [color=bronze]Technology Dept.[/color]
 
-[/color]
+[color=red]Enlist and join us in our war against [region]The Black Riders[/region]!
+[/color] 

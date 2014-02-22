@@ -1,6 +1,6 @@
 [b]Defense Status[/b]: [color=blue]DEFSTAT 5[/color] [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=283107]Dar, y dar Gracias[/url]
 
-[b]Latest News[/b]: Premier Iosif Bramanov, General-Admiral Serj and General Secretary Jana Lebedeva get very drunk in Meshik, Nuevo Meshiko.
+[b]Latest News[/b]: Conference discussing Nuevo Meshikan IUWS membership to be held in Meshik.
 
 [hr]
 
@@ -30,6 +30,7 @@
 [nation=short]Xaraian[/nation]
 [nation=short]Ordorinia[/nation]
 [nation=short]Bamdada[/nation]
+[nation=short]Zainga[/nation]
 
 [hr]
 

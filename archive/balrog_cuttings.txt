@@ -1,0 +1,2 @@
+Exports: Gold, magic, hobbits
+Imports: Death, destruction, tyranny
