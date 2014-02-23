@@ -1,8 +1,8 @@
-[B][color=orange]QUARANTINE BEING LIFTED[/color][/B]
+[B][color=green]ALERT LEVEL GREEN[/color][/B]
 An expanse of cold temperate forests, mountains, and tundra.
 [region]Kolonien der Macht[/region] lies to the south, beyond a huge mountain range.
 Die Nord Reichweite was first settled by the Inquisition Syndicate when they left Kolonian der Macht due to the threat of war.
 [b]Region Overwatch[/b]: [nation]The Inquisition Syndicate[/nation]
-[b]Region Peacekeeper[/b]: [nation]Velburg[/nation] [b]!!ENDORSE!![/b]
+[b]Region Peacekeeper[/b]: [nation]Velburg[/nation]
 [b]Regional Research and Finance[/b]: [nation]Tri-Net[/nation] and [nation]UnityCorp[/nation] alliance
 [b]Political Advisers[/b]: [nation]Velburg[/nation], [nation]Tri-Net[/nation], [nation]Noilleber[/nation], [nation]Keymind[/nation], [nation]Acage[/nation], [nation]Chugo[/nation]

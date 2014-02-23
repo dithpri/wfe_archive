@@ -1,9 +1,9 @@
 [b]Region Government[/b]
-President:[nation]Qubec[/nation]
+President: Vacant
 Vice President:[nation]Republic of Vietnam[/nation]
-Prime Minister: Position Open
-Minister of Defense: Position Open
-Minister of External Affairs:[nation]Memoriabalia[/nation]
+Prime Minister: Vacant
+Minister of Defense: Vacant
+Minister of External Affairs: Vacant
 ___________________________________________________________________________________________________________________________________________________________
 [b][u]Region Security[/u][/b]
 Security Threat: [color=red]HIGH[/color]

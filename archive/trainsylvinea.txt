@@ -5,12 +5,13 @@ This region was founded in August 24, 2013.
 [nation=vinelands]
 [nation=percelands]
 
-[b][u]Featured Nation for Trainsylvinea[/u][/b]
-[nation=Percvania]
-[b]1.206 billion people[/b]
-[b]Civil Rights[/b]: Very Good
-[b]Economy[/b]:All-Consuming
-[b]Political Freedoms[/b]:Superb
+[b][u] Trainsylvinea&amp;#39;s Invaders[/u][/b]
+[nation=Pigone]
+[nation=Invaderone]
+[nation=Invadertwo]
+[nation=Invaderthree]
+[nation=Invaderfour]
+[nation=Invaderfive]
 
 Currently there are:
 [color=red]Eleven[/color] nations over 1 billion, [color=red]One[/color] nations over 900 million, [color=red]Two[/color] nations over 800 million

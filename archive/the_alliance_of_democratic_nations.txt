@@ -5,18 +5,18 @@ Executive Branch:
 President-                        Open
 Vice President-                 Open
 Attorney General-             Open
-Secretary of State-          [nation]Defentry[/nation]
+Secretary of State-          Open
 Secretary of Defense-       Open
 Elections Commissioner- [nation]Witherstand[/nation]
 
 Legislative Branch-
 
-Senator 1-                         [nation]Beruit[/nation]
+Senator 1-                         Open
 Senator 2-                         Open
 Senator 3- Open
 
 Judicial Branch:
 
-Chief Justice-                  [nation]Xaphagoulis[/nation]
+Chief Justice-                Open
 Justice-                          Open
 Justice-                          Open

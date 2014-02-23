@@ -5,9 +5,10 @@
 [b][u]The Eternal Knights[/u][/b]
 King: [nation=short]Nephmir[/nation]
 Bishop: [nation=short]Valrifell[/nation]
-Lords: [nation=short]The Black Angel Of Death[/nation]
-Knights: [nation=short]Unified Protectors[/nation], [nation=short]Ever-Wandering Souls[/nation], [nation=short]The Sapientia[/nation], 
-[nation=short]The Order of Hospitallers[/nation], [nation=short]NoStringsAttached[/nation], [nation=short]Ave Lanius[/nation], [nation=short]The Alkine Island[/nation]
+Lords:
+Knights: [nation=short]Unified Protectors[/nation], [nation=short]Ever-Wandering Souls[/nation], [nation=short]Faschist Deutsch Reich[/nation], 
+[nation=short]The Sapientia[/nation], [nation=short]The Order of Hospitallers[/nation], [nation=short]NoStringsAttached[/nation], [nation=short]Ave Lanius[/nation], 
+[nation=short]The Alkine Island[/nation], [nation=short]United Nationals[/nation]
 
 [b][u]Links[/u][/b]
 [url=http://the-eternal-knights.forumotion.com]Forum[/url]
@@ -15,6 +16,7 @@ Knights: [nation=short]Unified Protectors[/nation], [nation=short]Ever-Wandering
 [url=http://forum.nationstates.net/viewtopic.php?f=12&amp;amp;t=281241]News/membership thread[/url]
 [url=http://forum.nationstates.net/viewtopic.php?f=15&amp;amp;t=269464]NationStates++[/url]
 [url=http://www.nationstates.net/nation=nephmir/detail=factbook/id=203068]Foreign Policy[/url]
+[url=http://www.nationstates.net/page=dispatch/id=203195]Diplomacy[/url]
 
 [b][u]Current Orders[/u][/b] [url=http://www.nationstates.net/page=dispatch/id=218480][?][/url]
 None.

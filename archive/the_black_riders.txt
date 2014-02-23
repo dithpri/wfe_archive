@@ -11,9 +11,8 @@
 [color=#8B0000]Overlord: [nation=short]General Halcones[/nation][/color]
 [color=black]Chief: [nation=short]Kknight[/nation] [/color]
 [color=#8B0000]Marshal: [nation=short]Gest[/nation][/color]
-[color=black]Marshal: [nation=short]Nordic Arbor[/nation][/color]
-[color=#8B0000]Marshal: [nation=short]Scooby-Doo[/nation][/color]
-[color=black]General: [nation=short]Camo5768[/nation][/color]
+[color=black]Marshal: [nation=short]Scooby-Doo[/nation][/color]
+[color=#8B0000]General: [nation=short]Camo5768[/nation][/color]
 [hr]
 [color=#8B0000]Current Raid[/color]
 

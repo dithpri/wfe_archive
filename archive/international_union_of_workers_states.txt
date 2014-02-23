@@ -1,4 +1,4 @@
-[b]Defense Status[/b]: [color=blue]DEFSTAT 5[/color] [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=283107]Dar, y dar Gracias[/url]
+[b]Defense Status[/b]: [color=yellow]DEFSTAT 4[/color] [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=283107]Dar, y dar Gracias[/url]
 
 [b]Latest News[/b]: Conference discussing Nuevo Meshikan IUWS membership to be held in Meshik.
 
@@ -31,6 +31,7 @@
 [nation=short]Ordorinia[/nation]
 [nation=short]Bamdada[/nation]
 [nation=short]Zainga[/nation]
+[nation=short]Lockiee[/nation]
 
 [hr]
 
