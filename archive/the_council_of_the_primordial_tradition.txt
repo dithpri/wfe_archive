@@ -4,3 +4,9 @@ Union de coop&eacute;ration transnationale entre royaut&eacute;s traditionnalist
 R&eacute;gions sous le contr&ocirc;le du Conseil:
 [region]Soboland[/region]
 [region]Democratic military union[/region]
+
+Empereur primordial: [nation]Brakhistan[/nation]
+Grand Inquisiteur: [nation]Salernistan[/nation]
+Ministre des affaires &eacute;trang&egrave;res:  [nation]New Besancon[/nation]
+Ministre des serfs: [nation]Royaume de Fildacier[/nation]
+Porteur du sceau de merde: [nation]Sobolivstan[/nation]

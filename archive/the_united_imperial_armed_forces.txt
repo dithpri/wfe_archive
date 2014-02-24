@@ -6,7 +6,7 @@ Joint Commander: Field Marshal [nation=short+noflag]Christopher Bishop[/nation]
 Deputy Commander: Lieutenant-General [nation=short+noflag]MagentaFairy[/nation]
 Associate Commanders: Field Marshal [nation=short+noflag]OnderKelkia[/nation], Field Marshal [nation=short+noflag]Charles Cerebella[/nation] &amp;amp; General [nation=short+noflag]North East Somerset[/nation]
 
-TNI Division Commander: Major-General [nation=short+noflag]Joshannia[/nation]
+TNI Division Commander: Major-General [nation=short+noflag]Edward Leben[/nation]
 LKE Division Commander: Major-General [nation=short+noflag]Valfor[/nation]
 Albion Division Commander: Major-General [nation=short+noflag]Cassius Cerebella[/nation]
 

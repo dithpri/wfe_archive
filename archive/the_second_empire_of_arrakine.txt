@@ -3,4 +3,8 @@ In the begining, there was a region known as the United Empire of Arrakine. Arra
 The Empire has been remade. Long live Arrakine.
 
 Imperial Sovereign : [nation]Veliria[/nation]
+Chancellor : 
+WA Minister :
+Economic Minister : 
+Regional News Staff : [nation]Veliria[/nation]
 Arrakine Security Minister : [nation]The Copper Horde[/nation]

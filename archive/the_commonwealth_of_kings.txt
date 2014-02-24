@@ -5,8 +5,8 @@
 [u][b][color=lightblue]His Majesty&amp;#39;s Government[/color][/b][/u]
 [b]Prime Minister:[/b] [nation=shortname]The Royally United Provinces[/nation]
 [b]Minister of Defence and Security:[/b] [nation=shortname]Vaval[/nation]
-[b]Minister of International Development:[/b] [nation=shortname]Terravermelho[/nation]
-[b]Minister of Media and Culture:[/b]
+[b]Minister of International Development:[/b] Vacant
+[b]Minister of Media and Culture:[/b] Vacant
 [b]Minister of Immigration:[/b] [nation=shortname]The United England[/nation]
 
 [u][b][color=lightblue]Supreme Court[/color][/b][/u]

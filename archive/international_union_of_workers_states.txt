@@ -1,6 +1,6 @@
 [b]Defense Status[/b]: [color=yellow]DEFSTAT 4[/color] [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=283107]Dar, y dar Gracias[/url]
 
-[b]Latest News[/b]: Conference discussing Nuevo Meshikan IUWS membership to be held in Meshik.
+[b]Latest News[/b]: [nation=short]Nuevo Meshiko[/nation] joins the Workers&amp;#39; Union, 24th of February declared &amp;quot;Unity Day&amp;quot;.
 
 [hr]
 
@@ -15,6 +15,7 @@
 
 [nation]Czervenika[/nation]
 [nation]Hallorania[/nation]
+[nation]Nuevo Meshiko[/nation]
 [nation]Barbaracx[/nation]
 [nation]Yuzan[/nation]
 [nation]Batorvidek[/nation]
@@ -42,5 +43,5 @@
 
 [hr]
 
-[url=http://s8.postimg.org/q5ecuyqcj/Map.png]World Map[/url]
+[url=http://s9.postimg.org/w7q14llct/Map.png]World Map[/url]
 [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=50482]Categories Guide[/url]

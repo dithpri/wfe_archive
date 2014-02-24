@@ -3,13 +3,13 @@ Please endorse your WA Delegate![/color]
 [color=blue]
 President: [nation]The Republic rome[/nation]
 Vice President: TBA
-SecState: TBA
-SecDef: TBA
+SecState: [nation]silver port[/nation]
+SecDef: [nation]the untied states[/nation]
 
 Senate:
 [nation]the anean tribes[/nation]
 [nation]the united remnants of america[/nation]
-TBA
+[nation]kares[/nation]
 
 High Court
 [nation]Dardoillyria[/nation]
@@ -18,7 +18,7 @@ TBA
 
 
 Cartographer:
-[nation]Vanal[/nation][/color]
+TBA[/color]
 
 [color=maroon]Message of the Day: New Episodes Peanut Butter-Jelly time! Thursdays@9pm EST.[/color]
 [color=red]REGIONAL NEWS!!
