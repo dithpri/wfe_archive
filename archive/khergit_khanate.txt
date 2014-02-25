@@ -1,15 +1,5 @@
 [color=purple][u][b]Welcome to the Khergit Khanate![/b][/u][/color]
 
-Defense Administration-[nation]Hypora[/nation],[nation]HugoGerhard[/nation]
-Military Administration-[nation]Brouhahalia[/nation]
-Diplomatic Administration-[nation]Luicia[/nation]
-Education Administration-[nation]Seceret[/nation]
-Health Administration-[nation]HugoGerhard[/nation]
-Interior Administration-[nation]Forsaken lands[/nation] 
-Commerce Administration-[nation]Freedom Force[/nation]
-Council Leader-[nation]Hypora[/nation]
-Council-[nation]Luicia[/nation],[nation]Forsaken lands[/nation],[nation]Redtowel[/nation],[nation]Seceret[/nation],[nation]HugoGerhard[/nation]
-
 Allies:
 [region]Communist Region[/region]
 [region]The Communist[/region]

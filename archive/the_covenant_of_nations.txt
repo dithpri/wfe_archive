@@ -1,8 +1,7 @@
-Welcome to The Covenant of Nations, where everyone is equal.
+Welcome to The Covenant of Nations where all are equal.
 
-[b]Region Threat Level:[/b] [color=Green]Green[/color] 
-
-[color=Green]Green[/color]: Normal
+[b]Regional Threat Level:[/b] [color=green]Green[/color]
+[color=green]Green[/color]: All Clear
 [color=yellow]Yellow[/color]: Caution
 [color=orange]Orange[/color]: Minor Threat
 [color=red]Red[/color]: Major Threat

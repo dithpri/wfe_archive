@@ -7,6 +7,6 @@ The UCE PUPPETS stands for [b]P[/b]ersonal [b]U[/b]nremovable [b]P[/b]rotected [
 [b]SUPERVISOR:[/b][nation]Fondor[/nation]
 [b]PLENIPOTENTIARY:[/b][nation]Yeriga[/nation]
 [b]DIGNITARY:[/b][nation]Kanaria[/nation]
-[b]DIRECTOR:[/b]none
+[b]DIRECTOR:[/b][nation]Davorus[/nation]
 [b]MAGNATE:[/b][nation]Southern Coalition[/nation]
 [b]CEO:[/b][nation]The Cantainian Canonical Consortium[/nation]

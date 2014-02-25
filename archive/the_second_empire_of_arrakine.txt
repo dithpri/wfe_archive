@@ -5,6 +5,7 @@ The Empire has been remade. Long live Arrakine.
 Imperial Sovereign : [nation]Veliria[/nation]
 Chancellor : 
 WA Minister :
-Economic Minister : 
+Economic Minister : [nation]UTI Le Troll[/nation]
+Trade Minister : [nation]Economic trade of ukraine[/nation]
 Regional News Staff : [nation]Veliria[/nation]
 Arrakine Security Minister : [nation]The Copper Horde[/nation]

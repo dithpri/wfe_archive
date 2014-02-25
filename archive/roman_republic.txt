@@ -3,11 +3,27 @@
 
 [color=darkred]From its inauspicious beginnings as a small cluster of huts in the tenth century B.C., Rome developed into a city-state, first ruled by kings, then, from 509 B.C. onward, by a new form of government&#151;the Republic.[/color][hr]
 
-[color=darkred][b][u]Executive[/u][/b][/color]
-[color=goldenrod][b]Consul:[/b][/color] [nation]The Tiber[/nation]
-[color=goldenrod][b]Vice Consul:[/b][/color]
+[b][color=goldenrod]~[/color] [color=darkred]Executive[/color] [color=goldenrod]~[/color][/b]
+Imperator: [nation]The Tiber[/nation]
+Consul:
+Vice Consul:
 
-[hr][color=darkred][b]News:[/b][/color] [i][color=goldenrod]Formation of regional gov&amp;#39;t[/color][/i][hr]
+[hr]
+
+[b][color=goldenrod]~[/color] [color=darkred]The Cabinet[/color] [color=goldenrod]~[/color][/b]
+Minister of the Interior:
+Minister of Foreign Affairs:
+Minister of Defense:
+Minister of Justice:
+Minister of Culture:
+
+[hr]
+
+[b][color=goldenrod]~[/color] [color=darkred]The Senate[/color] [color=goldenrod]~[/color]
+[url=http://www.nationstates.net/nation=the_tiber/detail=factbook/id=223505]Roman Senate[/url][/b]
+
+[b][hr][color=goldenrod]~[/color] [color=darkred]News[/color] [color=goldenrod]~[/color][/b]
+[i]Formation of regional gov&amp;#39;t[/i][hr]
 
 
 [b][color=goldenrod]~[/color] [color=darkred]The Roman Republic is open for all to join[/color] [color=goldenrod]~[/color][/b]

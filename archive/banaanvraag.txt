@@ -2,11 +2,12 @@
 [hr]
 
 [b]Internal websites[/b]
-[i][color=red]The Banaanvraag website is currently offlline![/color][/i]
 [url=http://banaanvraag.nl/]Banaanvraag![/url]
 [url=http://labs.banaanvraag.nl/nationstates/]Analyse Banaanvraag[/url]
-[url=http://labs.banaanvraag.nl/nationstates/chat/]Real-time chat for heated discussions[/url]
 [url=http://labs.banaanvraag.nl/nationstates/delegate/]WA Delegate blog[/url]
 
 [b]External websites[/b]
 [url=http://nseconomy.thirdgeek.com/nseconomy.php?region=Banaanvraag]Banaanvraag economy[/url]
+
+[b]Current topic[/b]
+[i]The Second Dolantian War[/i]

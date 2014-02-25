@@ -1,7 +1,5 @@
 [b]Prime Minister : [nation]The New Perak[/nation][/b]
 
-[b]Regional Secretary : [nation]Mailam[/nation][/b]
-
 [b]Minister for Internal Affairs : [nation]Free Hmongs[/nation][/b]
 
 [b]Minister for Foreign Affairs : [nation]North Singapore[/nation][/b]
@@ -10,3 +8,6 @@
 
 Manpower :-
 Hyudasia vs Tristonia Ambassador
+
+Regional Secretary :-
+-Vacant-
