@@ -2,9 +2,9 @@
 
 Our Government:
 
-[color=Red]Prime Minister:[/color] [i][nation]Vacant[/nation][/i]
-[color=Blue]Minister of Defense:[/color] [i][nation]Vacant[/nation][/i]
-[color=Green]Minister of Intelligence:[/color] [i][nation]Vacant[/nation][/i]
-[color=Orange]Minister of Internal Affairs:[/color] [i][nation]Vacant[/nation][/i]
-[color=Purple]Minister of Foreign Affairs:[/color] [i][nation]Jantanu[/nation][/i]
+[color=Red]President:[/color] [i][nation]Controlled Interests[/nation][/i]
+[color=Blue]Secretary of Defense:[/color] [i][nation]Vacant[/nation][/i]
+[color=Green]Secretary of Intelligence:[/color] [i][nation]Vacant[/nation][/i]
+[color=Orange]Secretary of Internal Affairs:[/color] [i][nation]Vacant[/nation][/i]
+[color=Purple]Secretary of Foreign Affairs:[/color] [i][nation]Jantanu[/nation][/i]
 [/B]

@@ -3,9 +3,8 @@ Basic Description:
 
 High Members:
  The Marxeni Crown: Kengran
- The Marxeni Governor:
  The Marxeni Citizen: Kelazi
  The Marxeni Merchant: Emmeridge
- The Marxeni Politician:
- The Marxeni Sword:
- The Marxeni Shield:
+ The Marxeni Politician: [Voting...]
+ The Marxeni Sword: [---]
+ The Marxeni Shield: [---]

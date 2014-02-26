@@ -6,5 +6,5 @@ Lord:[nation]Eggos[/nation]
 Marshal: [nation]Belzia[/nation]
 Generals:
 Squad leaders:
-Squaddies:
-Cadets:[nation]Lyndon B Johnson[/nation]
+Squaddies:[nation]Lyndon B Johnson[/nation]
+Cadets:

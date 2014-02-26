@@ -28,4 +28,4 @@ Judge Members (4):
 
 [color=blue]Blue[/color] is now the official color of [region]Pacific Union[/region].
 
-[color=red]DEFCON 2[/color] - Threat Detected
+[color=yellow]DEFCON 4[/color] - Be Cautious

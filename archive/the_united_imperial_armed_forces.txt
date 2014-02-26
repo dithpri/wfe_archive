@@ -10,4 +10,4 @@ TNI Division Commander: Major-General [nation=short+noflag]Edward Leben[/nation]
 LKE Division Commander: Major-General [nation=short+noflag]Valfor[/nation]
 Albion Division Commander: Major-General [nation=short+noflag]Cassius Cerebella[/nation]
 
-Adjutant Commanders: Brigadier [nation=short+noflag]Cephal Talleyrand[/nation]
+Adjutant Commanders: Brigadier [nation=short+noflag]Cephal Talleyrand[/nation] &amp;amp; Brigadier [nation=short+noflag]Pitt the Even Younger[/nation]

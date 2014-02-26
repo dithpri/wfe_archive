@@ -1,16 +1,16 @@
-[color=lightblue][b]Welcome to the Commonwealth of Kings![/b][/color]
+[color=lightblue][b]Welcome to the Commonwealth of Kings![/b][/color] - [color=red][b]General Elections are currently taking place[/b][/color]
 [hr][u][b][color=lightblue]Monarchy[/color][/b][/u]
 [b]King:[/b] [nation=shortname]Lalucia[/nation]
 
 [u][b][color=lightblue]His Majesty&amp;#39;s Government[/color][/b][/u]
-[b]Prime Minister:[/b] [nation=shortname]The Royally United Provinces[/nation]
-[b]Minister of Defence and Security:[/b] [nation=shortname]Vaval[/nation]
+[b]Prime Minister:[/b] Vacant
+[b]Minister of Defence and Security:[/b]
 [b]Minister of International Development:[/b] Vacant
 [b]Minister of Media and Culture:[/b] Vacant
-[b]Minister of Immigration:[/b] [nation=shortname]The United England[/nation]
+[b]Minister of Immigration:[/b] Vacant
 
 [u][b][color=lightblue]Supreme Court[/color][/b][/u]
-[b]Lord Chief Justice:[/b] [nation=shortname]Father motherland[/nation]
+[b]Lord Chief Justice:[/b] Vacant
 
 [hr]Regional Alert Level: [b][color=green]GREEN[/color][/b] / Please Endorse X as your Prime Minister
 [hr][b]Join our [url=http://commonwealthofkings.africamotion.net]Forum[/url]
