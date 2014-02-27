@@ -9,7 +9,7 @@ Regional Government:
 -Minister of Defense: [nation=short]Aresvin[/nation]
 -Minister of Foreign Affairs: [nation=short]North America and Great Britain[/nation]
 -Minister of Finance: [nation=short]Belderous[/nation]
--Minister of Recruiting: [nation=short]The Enclave1[/nation]
+-Minister of Recruiting: [I]Vacant[/I]
 
 [color=blue]To join the Mark Convention, the standardised currency system for Alamiralia, 
 simply post your desire to join on the RMB and switch your nation&amp;#39;s currency to the Alamiralian Mark. 

@@ -5,7 +5,7 @@ Supreme Council: [nation=short]Astrosis[/nation] [b](EXC.)[/b], [nation=short]Th
 WA Delegate: [nation=short]Xin Prussia[/nation] (SUP)
 Adviser: [nation=short]Luso[/nation] (SUP)
 Defense Minister: [nation=short]Hedfer II[/nation]
-Intelligence Minister: [pending]
+Intelligence Minister: [nation=short]Adronda[/nation]
 Secretary of Recruitment: [nation=short]Zwotstyg[/nation]
 Ambassador Committee: [nation=short]Crumstain[/nation], [nation=short]Lolder[/nation]
 [url=http://internationalnorthernunion.weebly.com/inu-basic-info.html]INU Congressional Assembly[/url]

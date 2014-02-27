@@ -1,9 +1,9 @@
 [b]Regional Government[/b]
 President:[nation]Muzztopia[/nation]
-Vice President:
+Vice President:[nation]Adili[/nation]
 Foreign Minister:
 Defense Minister: 
-Domestic Minister:
+Domestic Minister:[nation]mega nom nom land[/nation]
 Secretary:[nation]Aravea[/nation]
 Intelligence Minister: 
 

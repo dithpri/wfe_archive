@@ -1,16 +1,14 @@
-Hi there, welcome to Pacific Union, The main headquarters of PUDS.
+Welcome to Pacific Union.
 
 Founder: [nation]Indian Empris Republic[/nation]
 President: [nation]Diconia[/nation]
 Vice President: [nation]Assassins Cove[/nation]
-Delegate:
+Delegate: [nation]Burdistan[/nation]
 Vice Delegate:
 Prime Minister:
-CEO:
 
 Minister of Interior:
-Minister of Recruitment:
-Minister of Immigration:
+Minister of Recruitment: [nation]Burdistan[/nation]
 Minister of Foreign Affairs: [nation]Ugoslovia[/nation]
 Minister of Defense:
 Minister of Education:
@@ -21,11 +19,8 @@ Secretary:
 Legislature President: [nation]Indian Milostream[/nation]
 Legislature Members (4):
 
-Head Judge:
-Judge Members (4):
+Judge Members (5):
 
-[url=http://w11.zetaboards.com/Pacific_Union/index/]our offsite forums[/url] /[url=http://forum.nationstates.net/viewtopic.php?f=15&amp;amp;t=269464&amp;amp;sid=0f2c69de9dda7742fcc96aadb608bc39]NS++ Add-on[/url]/
+[url=http://w11.zetaboards.com/Pacific_Union/index/]our offsite forums[/url] /[url=http://forum.nationstates.net/viewtopic.php?f=15&amp;amp;t=269464&amp;amp;sid=0f2c69de9dda7742fcc96aadb608bc39]NS++ Add-on[/url]/[url=http://widget01.mibbit.com/?settings=9faa7c9e91b2eff4ee1d42a7ef312425&amp;amp;server=irc.Mibbit.Net&amp;amp;channel=%23PacificUnion]Chat[/url]
 
-[color=blue]Blue[/color] is now the official color of [region]Pacific Union[/region].
-
-[color=yellow]DEFCON 4[/color] - Be Cautious
+Please endorse delegate,  [nation]Burdistan[/nation].
