@@ -1,6 +1,6 @@
 [b]Defense Status[/b]: [color=yellow]DEFSTAT 4[/color] [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=283107]Dar, y dar Gracias[/url]
 
-[b]Latest News[/b]: Sultana Esperanza I declared missing. 
+[b]Latest News[/b]: [nation]Peihan[/nation] launches manned shuttle to Lunar Base Moloko.
 
 [hr]
 
@@ -34,16 +34,8 @@
 [b]Developing Workers&amp;#39; States[/b] (&amp;lt;500m citizens)
 
 [nation=short]Krajstali[/nation]
-[nation=short]Xaraian[/nation]
 [nation=short]Ordorinia[/nation]
 [nation=short]Bamdada[/nation]
 [nation=short]Lockiee[/nation]
 [nation=short]Arubiana[/nation]
 [nation=short]Biel-Tan[/nation]
-
-[hr]
-
-[b]Lunar Bases[/b]
-
-[nation=short]IUWS Lunar Base Moloko[/nation]
-[nation=short]IUWS Lunar Base Bratstvo Kosmosa[/nation]

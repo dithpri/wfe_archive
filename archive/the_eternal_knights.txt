@@ -5,10 +5,8 @@
 [b][u]The Eternal Knights[/u][/b]
 King: [nation=short]Nephmir[/nation]
 Bishop: [nation=short]Valrifell[/nation]
-Lords:
-Knights: [nation=short]Unified Protectors[/nation], [nation=short]Ever-Wandering Souls[/nation], [nation=short]Faschist Deutsch Reich[/nation], 
-[nation=short]The Sapientia[/nation], [nation=short]The Order of Hospitallers[/nation], [nation=short]NoStringsAttached[/nation], [nation=short]Ave Lanius[/nation], 
-[nation=short]The Alkine Island[/nation], [nation=short]United Nationals[/nation]
+Lords: [nation=short]Unified Protectors[/nation], [nation=short]Ever-Wandering Souls[/nation]
+Knights:
 
 [b][u]Links[/u][/b]
 [url=http://the-eternal-knights.forumotion.com]Forum[/url]

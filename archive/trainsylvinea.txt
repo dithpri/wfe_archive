@@ -4,14 +4,12 @@ This region was founded in August 24, 2013.
 [color=red][nation=percvania] (capital-country)[/color]
 [nation=vinelands]
 [nation=percelands]
+[nation=jamessia]
 
-[b][u] Trainsylvinea&amp;#39;s Invaders[/u][/b]
-[nation=Pigone]
-[nation=Invaderone]
-[nation=Invadertwo]
-[nation=Invaderthree]
-[nation=Invaderfour]
-[nation=Invaderfive]
+[b][u] Trainsylvinea&amp;#39;s Mad Countries[/u][/b]
+[nation=Vinesheep]
+[nation=north_owenia]
+[nation=fat_pigs]
 
 Currently there are:
 [color=red]Twelve[/color] nations over 1 billion, [color=red]Two[/color] nations over 900 million, [color=red]One[/color] nations over 800 million

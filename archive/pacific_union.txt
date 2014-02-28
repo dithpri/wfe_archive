@@ -4,7 +4,7 @@ Founder: [nation]Indian Empris Republic[/nation]
 President: [nation]Diconia[/nation]
 Vice President: [nation]Assassins Cove[/nation]
 Delegate: [nation]Burdistan[/nation]
-Vice Delegate:
+Vice Delegate: [nation]Burda[/nation]
 Prime Minister:
 
 Minister of Interior:
