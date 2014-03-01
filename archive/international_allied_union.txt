@@ -1,4 +1,4 @@
-STATUS: [color=green]Code Green[/color]
+STATUS: [color=blue]Code Blue[/color]
 
 [b]Regional News[/b]
 Conference to be held soon on the by laws of the Union once there are at least 3 nations. The conference will be held in Veraquet, Antova. More info coming soon.
@@ -10,5 +10,6 @@ To request to be added to map, telegram me your capital city and at least 2 othe
 [hr]
 [b]Administrative Nations[/b]
 [nation]Islo Republique di Antova[/nation]
+[nation]Navedia[/nation]
 [b]Other nations[/b]
 None.

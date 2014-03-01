@@ -1,4 +1,14 @@
 Tristonia
+Sr. Consul: [nation]Tristonia II[/nation]
+Jr. Consul: [nation]Rolanddust[/nation]
+Praetor: [nation]Tristonia III[/nation]
+Censor:
+Pontifex Maximus:
+Quaestor:
+Aedile:
+Tribune:
+Senators:
+
 At its peak had 14 nations
 Tristonia
 Tristonia II
@@ -14,8 +24,7 @@ Omaron
 Macworld
 Windows land
 Rolanddust
-
 Slonismal
 Elewye
-Strongbox
+Strongbow
 Golaga II

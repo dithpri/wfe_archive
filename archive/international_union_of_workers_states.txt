@@ -1,6 +1,6 @@
 [b]Defense Status[/b]: [color=yellow]DEFSTAT 4[/color] [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=283107]Dar, y dar Gracias[/url]
 
-[b]Latest News[/b]: [nation]Peihan[/nation] launches manned shuttle to Lunar Base Moloko.
+[b]Latest News[/b]: Sultana Esperanza I found, alive.
 
 [hr]
 
@@ -14,7 +14,6 @@
 [b]Fully Integrated Workers&amp;#39; States[/b]
 
 [nation]Czervenika[/nation]
-[nation]Hallorania[/nation]
 [nation]Nuevo Meshiko[/nation]
 [nation]Yuzan[/nation]
 [nation]Batorvidek[/nation]
@@ -28,6 +27,7 @@
 [nation]Kavaii[/nation]
 [nation]Slakia[/nation]
 [nation]Zatraska[/nation]
+[nation]Hallorania[/nation]
 
 [hr]
 
@@ -39,3 +39,4 @@
 [nation=short]Lockiee[/nation]
 [nation=short]Arubiana[/nation]
 [nation=short]Biel-Tan[/nation]
+[nation=short]Puerto Cienfuegos[/nation]

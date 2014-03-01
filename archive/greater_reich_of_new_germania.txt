@@ -2,9 +2,9 @@
 
 [b]Government[/b]: 
 [b]Head of State[/b]: [nation=deutschermany]
-[b]Prime Minister, Head of Government and Head of Ministerial Council (WA Delegate)[/b]: [nation=gaussen]
+[b]Prime Minister, Head of Government and Head of Ministerial Council (WA Delegate)[/b]: 
 [b]Ministerial Council[/b]: 
--[b]Minister of Foreing Affairs[/b]: [nation=gaussen]
+-[b]Minister of Foreing Affairs[/b]: 
 -[b]Minister of Home Affairs[/b]: 
 -[b]Minister of Economy[/b]: 
 -[b]Minister of Justice[/b]: 

@@ -1,0 +1,13 @@
+Welcome to [B][color=red]Coruption[/color][/B]
+[B][I][color=blue]Founder: Whitsittopia[/color][/B][/I]
+[B][color=blue]Alert Levels
+----------------------------------------------------------------------------------------------------------[/color][/B]
+[List]
+[*][B][color=green]Green: No Threat at All[/color][/B]
+[*][B][color=yellow]Yellow: Slight Threat[/color][/B]
+[*][B][color=red]Red: Possibility of being Raided[/color][/B]
+[*][B][color=black]Black: We&amp;#39;re Being Raided[/color][/B]
+[/list]
+
+[B]Current Alert Level:[/B] [B][color=green]Green[/color][/B]
+

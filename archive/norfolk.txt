@@ -1,8 +1,4 @@
-[B][color=darkblue]Welcome to The Realm of Norfolk![/color][/b]
+[color=navy]Welcome to the Realm of Norfolk, the crown jewel of the [region]Empire of Knights[/region]![/color]
 
-[Color=teal][b]A military kingdom arose from the crown duchy, and the Realm was born! A society where gallantry, unity and culture are held in high esteem, and glory is always to the Nors![/b][/color]
-[hr][b][color=purple]King-Commander: [/color][/b] [nation=short]Linkin II[/nation]
-[b][color=crimson]Chancellor:[/color][/b] [i]Vacant[/i]
-[hr]
-[b][color=navy]Forum:[/color] [url=http://w11.zetaboards.com/Norfolk/index]Norfolk Community[/url] 
-[i]Under Construction[/b][/i]
+[b][color=purple]King:[/color][/b] [nation=short]Linkin II[/nation]
+[b][color=navy]Prince of Norfolk:[/color][/b]
