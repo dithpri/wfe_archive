@@ -1,6 +1,6 @@
-[b]Defense Status[/b]: [color=yellow]DEFSTAT 4[/color] [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=283107]Dar, y dar Gracias[/url]
+[b]Defense Status[/b]: [color=blue]DEFSTAT 5[/color] [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=283107]Dar, y dar Gracias[/url]
 
-[b]Latest News[/b]: Sultana Esperanza I found, alive.
+[b]Latest News[/b]: Premier Iosif Bramanov and General Secretary Jana Lebedeva sign [url=http://www.nationstates.net/nation=krasniya/detail=factbook/id=225444]Operation Rscue Socialism[/url]
 
 [hr]
 
@@ -14,10 +14,11 @@
 [b]Fully Integrated Workers&amp;#39; States[/b]
 
 [nation]Czervenika[/nation]
-[nation]Nuevo Meshiko[/nation]
+[nation]Hallorania[/nation]
 [nation]Yuzan[/nation]
 [nation]Batorvidek[/nation]
 [nation]Peihan[/nation]
+[nation]Nuevo Meshiko[/nation]
 
 [hr]
 
@@ -27,15 +28,14 @@
 [nation]Kavaii[/nation]
 [nation]Slakia[/nation]
 [nation]Zatraska[/nation]
-[nation]Hallorania[/nation]
 
 [hr]
 
 [b]Developing Workers&amp;#39; States[/b] (&amp;lt;500m citizens)
 
 [nation=short]Krajstali[/nation]
-[nation=short]Ordorinia[/nation]
 [nation=short]Bamdada[/nation]
+[nation=short]Ordorinia[/nation]
 [nation=short]Lockiee[/nation]
 [nation=short]Arubiana[/nation]
 [nation=short]Biel-Tan[/nation]

@@ -1,21 +1,3 @@
-[color=purple][b]WEBSITE[/b] [url=http://thenewpact.webs.com]HERE[/url]
-[b]LAWS[/b] [url=http://thenewpact.webs.com/laws-of-the-new-pact]HERE[/url]
-[b]ECONOMY[/b] [url=http://thenewpact.webs.com/laws-of-the-new-pact]HERE[/url]
-[b]POLITICAL PARTIES[/b][/color] [url=http://thenewpact.webs.com/political-parties]HERE[/url]
+[b]Governor:[/b] [nation]Area Governor 15[/nation]
 
-[color=red][b]THE HIGH COUNCIL:[/b][/color]
-Read &amp;quot;Laws&amp;quot; for more info
-
-[b]President:[/b] [nation]Frezland[/nation] [b][[color=green]F[/color]][/b]
-[b]Vice President:[/b] [nation]Drogos[/nation] [b][[color=red]T[/color]][/b]
-[b]Head of Democracy:[/b] [nation]Archopialand[/nation] [b][[color=blue]A[/color]][/b]
-[b]Head of London Alliance Management:[/b] [nation]Greenlands[/nation] [b][[color=green]F[/color]][/b]
-[b]Head of Embassies:[/b] [nation]Caspa[/nation] [b][[color=green]F[/color]][/b]
-[b]Head of Law Enforcement[/b]: [nation]Cardia[/nation] [b][[color=blue]A[/color]][/b]
-[b]Ajudicator[/b]: [nation]Regalda[/nation] [b][[color=green]F[/color]][/b]
-
-[color=red][b]Other Positions:[/b][/color]
-[b]Ambassador:[/b]  [nation]Fredos[/nation]
-[b]Newspaper Management:[/b] [nation]Caspa[/nation]
-
-[b][color=red]NEWS:[/color] Government changes in [region]The New Pact[/region]?.[/b] 
+This region is part of [region]The Tiger Empire[/region]
