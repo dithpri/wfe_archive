@@ -1,6 +1,6 @@
 [b][color=#000061]These desolate lands are the true abode of the Black Riders.  Fear are vast power and join us in our quest to reassert our authority over the Black Riders.[/color][/b]
 
-[b]Current Population:[/b][color=red]23[/color]
+[b]Current Population:[/b][color=red]77[/color]
 
 [color=red]Lands Taken from the False Riders:[/color]
 [region]The Domain of Mischief[/region]
@@ -8,3 +8,7 @@
 [region]The Dancing Sharks Region[/region]
 [region]Jawa Land[/region]
 [region]Prince Edward Islands[/region]
+[region]The Montopian Allied States[/region]
+[region]The Noble Alliance[/region]
+[region]Hollywoodland[/region]
+[region]Christmas[/region]

@@ -3,10 +3,10 @@
 [i][color=purple]A friendly, democratic region! Our values are democracy, a constructive WA, freedom with sovereignty, stability, cooperation and secular government.[/color][/i]
 __________________________________________________
 
-Vice-Delegate: [i](vacant)[/i]
-Foreign Minister: [i](vacant)[/i]
+Vice-Delegate: [i][nation=short]the dark star republic[/nation][/i]
+Foreign Minister: [i][nation=short]ascovis[/nation][/i]
 Immigration Minister: [i](vacant)[/i]
-Election Minister: [nation]Bears Armed[/nation]
+Election Minister: [nation=short]Bears Armed[/nation]
 
 [color=gray] (Next election for Delegate = early April)[/color]
 __________________________________________________

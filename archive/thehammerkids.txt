@@ -7,4 +7,4 @@ Delegate : [nation=short]Ima[/nation]
 Freedom Representative: [nation=short]FFAL[/nation]
 ____________________________________________________________________________________________________________________
 Regional Currency : Hammark : ` (1` 2` 3` etc)
-The Hammark-zone : [nation=short]Banana-Guay[/nation],  [nation=short]Rockwell Island[/nation],  [nation=short]Guay Island[/nation],  [nation=short]Beringdale[/nation],  [nation=short]Beluxar-Nuindez[/nation],  [nation=short]New Ankadra[/nation], [nation=short]Banana Isles[/nation], [nation=short]Ima[/nation], [nation=short]FFAL[/nation], [nation=short]West FFAL[/nation], [nation=short]East FFAL[/nation], [nation=short]Efnrkejg[/nation] and [nation=short]Ankadra Island[/nation]. (as of 3/1/14 10:00PM)
+The Hammark-zone : [nation=short]Banana-Guay[/nation],  [nation=short]Rockwell Island[/nation], [nation=short]New Ankadra[/nation], [nation=short]Ima[/nation], [nation=short]FFAL[/nation], [nation=short]West FFAL[/nation], [nation=short]East FFAL[/nation], [nation=short]Efnrkejg[/nation]. (as of 3/1/14 10:00PM)

@@ -1,6 +1,7 @@
-[b]Prime Minister : [nation]The New Perak[/nation][/b]
+[b]Prime Minister :
+[nation]The New Perak[/nation][/b]
 
-[b]Region Secretary
+[b]Region Secretary : 
 [nation]Ballirswag[/nation][/b]
 
 [b]Minister for Internal Affairs : [nation]Free Hmongs[/nation][/b]

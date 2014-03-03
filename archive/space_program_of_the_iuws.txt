@@ -12,3 +12,4 @@
 
 [nation=short]IUWS Lunar Base Moloko[/nation] - [i][nation=short+noflag]Krasniya[/nation]n Administration; [nation=short+noflag]Batorvidek[/nation], [nation=short+noflag]Peihan[/nation][/i]
 [nation=short]IUWS Lunar Base Bratstvo Kosmosa[/nation] - [i][nation=short+noflag]Hallorania[/nation]n Administration[/i]
+[nation=short]Peihanese Lunar Base Byako[/nation] - [i][nation=short]Peihan[/nation]ese Administration[/i]

@@ -3,7 +3,7 @@
 [b] YEAR [/b]: 5027
 
 [b] Political Parties [/b]
-[i] [color=silver]The Regional Federalist Party[/color] [/i]
+[i] [color=silver]The Cosmos Collective Party[/color] [/i]
 [i] [color=silver]The Conexus Alliance Party[/color] [/i]
 
 [b] DEFCON KEY [/b]
@@ -15,5 +15,5 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 [b] DEFCON STATUS [/b]
-[color=gold]3-Military Movement[/color]
+[color=green]5-Regional Peace[/color]
 

@@ -1,14 +1,9 @@
+[b]This region has been liberate by [region]The White Raiders[/region]. The [region]The Black Riders[/region] and its allies proved no match for the liberation army.
+
+
+Into the battle of honor is [nation]Terraferra[/nation] and [nation]The Fourth Great Jonathania[/nation]
+
 LIBERATED
 LIBERATED
 LIBERATED
-
-[b]THIS REGION HAS BEEN LIBERATED UNDER JUSTICE NAME!!!
-FALL BLACK RIDERS AND ITS ALLIES!!!
-
-[color=#000061]Hurrah! Hurrah! Hurrah! The invader[region=The Black Riders] proved no match for our army [region=The White Raiders]. Au Revoir![/color]
-
-[color=#000061]Into the battle of justice is our Freedom Fighter:[/color]
-[nation=short]Terraferra[/nation]
-[nation=short]Shogun Kazel[/nation]
-[nation=short]Royal Federer[/nation]
 [/b]

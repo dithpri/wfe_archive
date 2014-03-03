@@ -10,7 +10,7 @@ Prosecutor-General: [nation=short]Torvalyn[/nation] (Independent)
 High Commander: TBA
 [hr]
 [b]The Cabinet:[/b]
-Minister of the Interior: TBA
+Minister of the Interior: [nation=short]Evanicaland[/nation] (CPP)
 Minister of Finance: TBA
 Minister of Foreign Affairs: TBA
 Minister of Culture: TBA

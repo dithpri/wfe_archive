@@ -1,9 +1,13 @@
 [b]Government[/b]
 President: [nation]Qubec[/nation]
-Vice President:
-Secretary of Defense:
-Secretary of Affairs:
-WA Delegate:
+Vice President: Vacant
+Secretary of Defense: Vacant
+Secretary of Affairs: Vacant
+WA Delegate: Vacant
 
 [b]Region Security[/b]
-UNDER CONSTRCTION
+DEFCON: [color=green]5[/color]
+Borders: [color=green]Open[/color]
+Threat Level: [color=green]Low[/color]
+
+[b]Founded on 3/1/2014[/b]
