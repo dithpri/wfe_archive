@@ -2,11 +2,11 @@ This is a region for all Fascist nations. [b][u] Endorse the Reichsdelegate and 
 Member of [region]Right Wing Uprising[/region]
 [hr]
 F&uuml;hrer und Reichskanzler: [nation]greater_sveriege[/nation] 
-Reichsdelegate: OPEN
+Reichsdelegate: [nation]tylora[/nation]
 Unterf&uuml;hrer: [nation]hueynahuatl[/nation]
 Minister of Defence: OPEN (TG Greater Sveriege to Apply)
 Minister of Security: OPEN (TG Greater Sveriege to Apply)
-Minister of Foreign Affairs: OPEN (TG Greater Sveriege to Apply)
+Minister of Foreign Affairs: [nation]oman_under_dictation[/nation]
 Minister of Culture: OPEN (TG Greater Sveriege to Apply)
 [hr]
 [url=http://www.youtube.com/watch?v=u1sEt3NjHNA]Military Anthem[/url] [url=http://www.youtube.com/watch?v=2xx8Z2JFL44]State Anthem[/url]

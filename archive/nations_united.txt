@@ -1,7 +1,7 @@
 [b]Government[/b]
 President: [nation]Qubec[/nation]
 Vice President: Vacant
-Secretary of Defense: Vacant
+Secretary of Defense: [nation]Khalahar[/nation]
 Secretary of Affairs: Vacant
 WA Delegate: Vacant
 

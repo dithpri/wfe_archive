@@ -12,8 +12,8 @@ High Commander: TBA
 [b]The Cabinet:[/b]
 Minister of the Interior: [nation=short]Evanicaland[/nation] (CPP)
 Minister of Finance: TBA
-Minister of Foreign Affairs: TBA
-Minister of Culture: TBA
+Minister of Foreign Affairs: [nation=short]Nova Lydia[/nation] (NCC)
+Minister of Culture: [nation=short]Besate[/nation] (NCC)
 [hr]
 [b]The High Court[/b]
 Chief Justice: [nation=short]Ionysia[/nation]

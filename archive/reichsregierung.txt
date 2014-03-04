@@ -6,4 +6,4 @@
 [color=black][b]Reichsminister des Ausw&auml;rtigen:[/b][/color] [nation]Nordic Saxony[/nation]
 [color=black][b]Reichsminister des Innern:[/b][/color] [nation]Junjda[/nation]
 [color=black][b]Reichsminister f&uuml;r Volksaufkl&auml;rung und Propaganda:[/b][/color]
-[color=black][b]Chef der Geheimen Staatspolizei:[/b][/color]
+[color=black][b]Chef der Geheimen Staatspolizei:[/b][/color] [nation=Guina-Bissau]

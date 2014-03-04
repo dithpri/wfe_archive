@@ -7,9 +7,9 @@ Welcome to No Region! Free to Join.
 [color=orange]Orange[/color]=Ready drones for precision strikes
 [color=red]Red[/color]=Mobilize forces
 
-Current threat level: [color=blue]Blue[/color]
+Current threat level: [color=green]Green[/color]
 
-[b]Chairmen/Advisors:[/b]
+[b]Chairmen/Advisers:[/b]
 
 [b]Joint-military advisor: [/b][nation]josuania[/nation]
 

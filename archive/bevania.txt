@@ -1,9 +1,9 @@
-[color=blue][b]Welcome to Bevania, Crown Dependency of [region]The Commonwealth of Kings[/region][/b][/color]
+color=blue][b]Welcome to Bevania, Crown Dependency of [region]The Commonwealth of Kings[/region][/b][/color]
 [hr][u][b][color=blue]Monarchy[/color][/b][/u]
 King George William Lutheran I of [nation=shortname]Lalucia[/nation]
 
 [u][b][color=blue]Officers of The Crown[/color][/b][/u]
-[b]Lieutenant-Governor:[/b] [nation=shortname]Servant1[/nation]
+[b]Lord Protector:[/b] [nation=shortname]Servant1[/nation]
 [b]Secretary-General:[/b] Vacant
 [b]Officer of Internal Affairs:[/b] Vacant
 [b]Officer of International Development:[/b] Vacant
