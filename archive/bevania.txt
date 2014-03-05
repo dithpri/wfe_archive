@@ -1,4 +1,4 @@
-color=blue][b]Welcome to Bevania, Crown Dependency of [region]The Commonwealth of Kings[/region][/b][/color]
+[color=blue][b]Welcome to Bevania, Crown Dependency of [region]The Commonwealth of Kings[/region][/b][/color]
 [hr][u][b][color=blue]Monarchy[/color][/b][/u]
 King George William Lutheran I of [nation=shortname]Lalucia[/nation]
 

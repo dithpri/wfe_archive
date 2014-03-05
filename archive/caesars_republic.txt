@@ -1,10 +1,10 @@
-[b][color=green]Censor(WA Delegate)[/color][/b]: [b][nation][/nation][/b]
-[b][color=blue]Emperor(Founder)[/color][/b]: [b][nation]Tertius Roma II[/nation][/b]
-[b][color=purple]Consul(Military Executive)[/color][/b]: [b][nation][/nation][/b]
-[b][color=green]Praetor(Foreign Adviser)[/color][/b]:[b][nation][/nation][/b]
-[b][color=blue]Aedile(Civic Adviser)[/color][/b]:[b][nation][/nation][/b]
-[b][color=purple]Legatus(Recruitment)[/color][/b]:[b][nation][/nation][/b]
+[color=purple]Censor[/color](WA Delegate): 
+[color=purple]Emperor[/color](Founder): [nation]Tertius Roma II[/nation]
+[color=red]Consul[/color](Military Executive): 
+[color=blue]Praetor[/color](Foreign Adviser):[nation]House of Julii[/nation]
+[color=blue]Aedile[/color](Civic Adviser):[nation]House of Scipii[/nation]
+[color=blue]Legatus[/color](Recruitment):[nation]Spanish Confederation[/nation] 
 
 
-
-[color=red][b][i]Long live Caesars Republic[/i][/b][/color]
+[url=http://w11.zetaboards.com/Caesars_Republic/index/]Come see the forums[/url]
+[url=http://mibbit.com/?channel=%23caesars_republic&amp;amp;server=irc.esper.net]Want to join the chat room?[/url]
