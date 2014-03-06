@@ -10,7 +10,7 @@ Your parliament:
 [nation]End Isles[/nation]
 [nation]Dementedland[/nation]
 
-Endorsement cap for nations in Parliament is 4.
+Endorsement cap for nations in Parliament is 3.
 Endorsement cap for nations not in Parliament is 2.
 [b]Comply or be ejectbanned.[/b]
 

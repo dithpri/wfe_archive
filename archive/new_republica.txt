@@ -3,7 +3,7 @@ Please endorse your WA Delegate![/color]
 [color=blue]
 President: [nation]The Republic rome[/nation]
 Vice President: TBA
-SecState: [nation]silver port[/nation]
+SecState: TBA
 SecDef: [nation]the untied states[/nation]
 
 Senate:

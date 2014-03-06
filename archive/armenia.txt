@@ -1,4 +1,4 @@
-[b][color=red]Welcome[/color] [color=navy]to[/color] [color=orange]Armenia![/color][/b]
+[b][color=red]Welcome[/color] [color=navy]to[/color] [color=orange]Armenia![/color][color=navy] /[/color][color=red] Bari[/color] [color=navy]Galust[/color] [color=orange]Hayastan![/color][/b]
 
 [color=navy]Armenia is a unitary, multi-party, democratic nation-state with an ancient cultural heritage. The Kingdom of Armenia was established in the 6th century BC, after the fall of Urartu; it became the first state in the world to adopt Christianity as its religion. For this reason, Armenia is often called &amp;quot;the first Christian nation.&amp;quot; Despite periods of autonomy, over the centuries Armenia came under the sway of various empires. The modern Republic of Armenia became independent in 1991.[/color][hr]
 
@@ -6,5 +6,5 @@
 [b][color=navy]Land area:[/color][/b][color=navy] 29,743 km&sup2;[/color]
 [b][color=orange]Population:[/color][/b][color=navy] 3,018,854 (2011)[/color][hr]
 
-[i]&#147;All men have three ears, one on the left of his head, one on the right and one in his heart.&#148;
-[list]- Armenian proverb[/i]
+[b][i][color=navy]&#147;All men have three ears, one on the left of his head, one on the right and one in his heart.&#148;
+[list]- Armenian proverb[/i][/color][/b]

@@ -7,3 +7,5 @@ President: [nation]The Imperial Republic of the Balkans[/nation]
 Minister of Foreign Affairs: [nation]The Sova Empire[/nation]
 Minister of Security: [nation]Republic of Wreptzle[/nation]
 Foreign Ambassadors: 
+[nation]Cylthropia[/nation] (from [region]Federation of Free States[/region])
+[nation]North of South[/nation] (from [region]Central Pacific Empire[/region])
