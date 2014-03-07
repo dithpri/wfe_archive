@@ -1,13 +1,1 @@
-[color=0000FF]WELCOME TO [b]RUSSIAN FEDERATION[/b]
-[list]Russia, also officially known as the [b]Russian Federation[/b], is a country in northern Eurasia. It is a federal semi-presidential republic, comprising 83 federal subjects.[/color][/list]
-
-[color=red][b]HOME REGION FOR:[/b][list][region=St Petersburg] and group of regions[hr][/color][color=800000][b]Embassies are welcomed[/b]
-My privetstvuyem vashi posol&amp;#39;stvo[/color]
-[color=006486]Administratsiya izmenilos&amp;#39; 2012 10 23[/color][/list]
-
-[color=008080][b]Sestrinskiye Regiony:[/b]
-[b]Goroda:[/b] [region=Saint Petersburg]; [region=St Petersburg]
-[b]Natsiya:[/b] [region=Republic of Russia]; [region=Federation of Russia]
-[b]Dlya istoricheskoy tsennosti tol&amp;#39;ko:[/b] [region=Tsardom of Russia]
-[b]To pokazat&amp;#39; nashu druzhbu s Soyedinennymi Shtatami Ameriki:[/b] [region=Russian America]
-[b]Drug i soyuznik:[/b] [region=United States of America][/color][hr][color=800000][b]Dobro pozhalovat&amp;#39; v Federatsii Rossii[/b][/color]
+[b]Russian Federation[/b]

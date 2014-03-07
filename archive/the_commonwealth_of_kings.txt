@@ -6,7 +6,7 @@
 [b]Prime Minister:[/b] [nation=shortname]The Royally United Provinces[/nation]
 [b]Minister of Defence and Internal Security:[/b] [nation=shortname]Vaval[/nation]
 [b]Minister of International Development:[/b] [nation=shortname]SaudiPakistan[/nation]
-[b]Minister of Media and Culture:[/b] [nation=shortname]Usjekhipstahf[/nation]
+[b]Minister of Culture, Media and Sport:[/b] [nation=shortname]Usjekhipstahf[/nation]
 [b]Minister of Immigration:[/b] Vacant
 
 [u][b][color=lightblue]Supreme Court[/color][/b][/u]

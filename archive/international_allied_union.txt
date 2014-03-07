@@ -16,4 +16,5 @@ There are 3 administrative nations. Meeting to be held.
 [nation]Noviy Rossiya[/nation]
 [nation]Navedia[/nation]
 [nation]Cassifrassopia[/nation]
+[nation]Salphihia[/nation]
 [b]Ambassador nation: [nation]Noviy Rossiya[/nation][/b]

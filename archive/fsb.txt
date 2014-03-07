@@ -1,3 +1,2 @@
-[color=navy][b]FSB[/b][/color][color=006400]
-Federal Security Service of the Russian Federation[hr]a [region=Federation of Russia] region
-[b]Nadziratel&amp;#39;:[/b] [nation=short]Poccnnckar[/nation][/color]
+[color=navy][b]FSB[/b][/color][color=blue]
+Federal Security Service of the [region]Russian Federation[/region][/color]

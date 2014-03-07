@@ -11,5 +11,6 @@ This region was founded in August 24, 2013.
 [nation=north_owenia]
 [nation=fat_pigs]
 
-Currently there are:
-[color=red]Thirteen[/color] nations over 1 billion, [color=red]One[/color] nations over 900 million, [color=red]One[/color] nations over 800 million
+[b][u]WA Countries[/u][/b]
+[nation=percvania] 
+[nation=charlemagne_rome]
