@@ -7,7 +7,7 @@
 [u]The Imperial Government[/u]
 
 Emperor:[nation=short]Rightist America[/nation]
-President:[nation=short]Aristotskia[/nation]
+Interim Governor:[nation=short]Aristotskia[/nation]
 Senator and Defense Secretary: [nation=short]Aristotskia[/nation]
 Senator and Foreign Minister: [nation=short]Japam[/nation]
 Senator and Recruitment Minister: [nation=short]the great gatsby[/nation]
