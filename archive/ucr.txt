@@ -2,7 +2,8 @@
 
 [Color=red][U]Delegation:[/u]:
 Interim Delegate: [nation=Ankha] (Until New Elections)
-Vice-Delegate: 
+Vice-Delegate: [nation=the united slavic tsardom] (Until New Elections)
+Grand Aid (Adviser): [nation=Ronacria](Appointed as adviser to delegate, changes with new delegate)
 
 [B]As of now, everyone runs what they want. Everyone WORKS TOGETHER as a region to accomplish the acts and duties of the previous ministers![/B]
 

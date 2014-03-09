@@ -2,15 +2,15 @@
 
 [hr]
 
-[b][color=green]President (WE NEED ONE MORE TO ENDO): [nation=short+noflag]Siokania[/nation][/color] 
-[color=brown]Vice Presidents: [nation=short+noflag]The Federal Republic of Simonia[/nation] and [nation=short+noflag]Fishhawk[/nation][/color]
+[b][color=green]Former President (WE NEED ONE MORE TO ENDO): [nation=short+noflag]Siokania[/nation][/color] 
+[color=brown]FormerVice Presidents: [nation=short+noflag]The Federal Republic of Simonia[/nation] and [nation=short+noflag]Fishhawk[/nation][/color]
 
-[color=green]General of Army: [nation=short+noflag]The Phoenix King Army[/nation][/color]
-[color=brown]MoRA: [nation=short+noflag]Darwinish Brentsylvania[/nation][/color]
-[color=green]MoFA: [nation=short+noflag]The Federal Republic of Simonia[/nation][/color]
+[color=green]Former General of Army: [nation=short+noflag]The Phoenix King Army[/nation][/color]
+[color=brown]Former MoRA: [nation=short+noflag]Darwinish Brentsylvania[/nation][/color]
+[color=green]Former MoFA: [nation=short+noflag]The Federal Republic of Simonia[/nation][/color]
 [color=brown]Forum Mod: [nation=short+noflag]Pinatas[/nation][/color]
-[color=green]RP Mentor: [nation=short+noflag]Mallanor[/nation][/color]
-[color=brown]Senators: [nation=short+noflag]Darwinish Brentsylvania[/nation], [nation=short+noflag]Mallanor[/nation], [nation=short+noflag]Bluuurg[/nation], [nation=short+noflag]Fishhawk[/nation][/color]
+[color=green]Former RP Mentor: [nation=short+noflag]Mallanor[/nation][/color]
+[color=brown]Former Senators: [nation=short+noflag]Darwinish Brentsylvania[/nation], [nation=short+noflag]Mallanor[/nation], [nation=short+noflag]Bluuurg[/nation], [nation=short+noflag]Fishhawk[/nation][/color]
 
 [hr]
 

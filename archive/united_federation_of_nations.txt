@@ -6,7 +6,8 @@ Defense Minister:
 Domestic Minister:[nation]mega nom nom land[/nation]
 Secretary:[nation]Aravea[/nation]
 Intelligence Minister: 
-Map Maker: 
+Map Maker:
+Recruitment Officer: 
 
 Welcome to the United Federation of Nations, a military and economic alliance dedicated to the principles of freedom and democracy,as well as the pursuit of peace.
 .

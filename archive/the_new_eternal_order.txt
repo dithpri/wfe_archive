@@ -3,8 +3,8 @@ Sovereign: [nation=short]Nephmir[/nation]
 
 Grand Master: [nation=short]Festavo[/nation]
 
-Knight Commanders: [nation=short]Lemongrad Union[/nation]
+Knight Commanders: [nation=short]The Hawk Dominion[/nation], [nation=short]Lemongrad Union[/nation]
 
 Master-at-arms: Available
 
-Chancellor: Available[hr]Regions: [region]The Eternal Knights[/region], [region]The Lone Rangers[/region][hr]
+Chancellor: Available[hr]Regions: [region]The Eternal Knights[/region], [region]The Lone Rangers[/region], [region]The Roma Confederacy[/region][hr]

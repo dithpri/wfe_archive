@@ -1,6 +1,6 @@
 [b]Defense Status[/b]: [color=DarkOrange]DEFSTAT 3[/color]
 
-[b]Latest News[/b]: [nation=short]Batorvidek[/nation] once again engulfed in civil conflict. 
+[b]Latest News[/b]: New constitutional amendments make the IUWS more inclusive, while retaining strict dedication to socialism, and the goal of communism.
 
 [b]ALL NATIONS PLEASE ENDORSE [NATION=SHORT]CZERVENIKA[/NATION][/b]
 
@@ -28,3 +28,6 @@
 [nation=short]Arubiana[/nation]
 [nation=short]Lockiee[/nation]
 [nation=short]Nihon Kyowakoku[/nation]
+[nation=short]Kryganstad[/nation]
+[nation=short]Etax[/nation]
+[nation=short]Astzya[/nation]
