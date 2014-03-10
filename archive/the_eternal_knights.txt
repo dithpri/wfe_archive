@@ -7,7 +7,7 @@ King: [nation=short]Nephmir[/nation]
 Bishop: [nation=short]Valrifell[/nation]
 Lords: [nation=short]Unified Protectors[/nation], [nation=short]Ever-Wandering Souls[/nation]
 Knights: [nation=short]The Shadow Assassin[/nation], [nation=short]The Sapientia[/nation], [nation=short]Faschist Deutsch Reich[/nation], [nation=short]Assassin of the day[/nation], 
-[nation=short]NoStringsAttached[/nation], [nation=short]Ave Lanius[/nation], [nation=short]The alkine island[/nation], [nation=short]United Nationals[/nation], [nation=short]Festavo[/nation]
+[nation=short]NoStringsAttached[/nation], [nation=short]Ave Lanius[/nation], [nation=short]The alkine island[/nation], [nation=short]Destiny Warriors[/nation], [nation=short]Festavo[/nation]
 
 
 [b][u]Links[/u][/b]

@@ -1,5 +1,7 @@
 Regional Government:
 
-Prime Nation: Armed Republic of Squarovia
+Prime Nation: [nation]Squarovia[/nation]
 
-Vassal Nations: None
+Vassal Nations: 
+
+

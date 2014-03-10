@@ -1,19 +1,18 @@
 STATUS: [color=green]Code Green[/color]
 
 [b]Regional News[/b]
-There are 2 administrative nations. Meeting to be held. Map is currently being updated and will soon be posted.
-Noviy Rossiya leaves temporarily for a diplomatic trip to recruit more nations.
+Meeting between Administrative Republics to be held. Map is currently being updated and will soon be posted.
 [hr]
 [b]Administrative Nations[/b]
-[nation]Islo Republique di Antova[/nation]
+[nation]Islo Republique di Antova[/nation](in charge of maps and administration)
 [nation]Slakia[/nation]
-ONE MORE OPENING
+[nation]Ordorinia[/nation]
 [b]Allied Republics[/b]
 [nation]Kalkawan[/nation]
 [nation]Nacao Paraiso[/nation]
-[nation]Noviy Rossiya[/nation](temporarily gone)
+[nation]Noviy Rossiya[/nation]
 [nation]Navedia[/nation]
 [nation]Salphihia[/nation]
 [nation]Winter Park[/nation]
-[nation]Ordorinia[/nation]
-Ambassador: Alexei Kazerezov (who is on a diplomatic trip)
+[nation]Somstratzka[/nation]
+Ambassador: Alexei Kazerezov 

@@ -2,11 +2,11 @@ Welcome to[i][color=orange] The Federal Islands 2[/color][/i]! The Federal Islan
 
 [u]Positions[/u]:
 [i]President[/i]: [nation=short]XxGAMERZxX[/nation] [color=blue](C)[/color]
-[i]Vice President[/i]: TO BE APPOINTED
+[i]Vice President[/i]: [i][color=red]TO BE APPOINTED[/color][/i]
 [i]WA Delegate[/i]: [nation=short]Galbatorax[/nation] [color=Lime](P)[/color]
-[i]Vice WAD[/i]: TO BE APPOINTED
+[i]Vice WAD[/i]: [i][color=red]TO BE APPOINTED[/color][/i]
 [i]Marshal[/i]: [nation=short]Zondaland[/nation] [color=lime](P)[/color]
-[i]Judge[/i]: [i][color=red]VACANT[/color][/i]
+[i]Judge[/i]: [i][color=red]ELECTION ONGOING[/color][/i]
 [i]Cartographer[/i]: [nation=short]Neutricland[/nation] [color=lime](P)[/color]
 
 [hr]
@@ -16,9 +16,17 @@ Welcome to[i][color=orange] The Federal Islands 2[/color][/i]! The Federal Islan
 [color=orange]Liberal[/color]: [nation=short]Coumba[/nation]
 [url=http://www.nationstates.net/nation=neutricland/detail=factbook/id=194577]Others[/url]
 
+[u]Overseas Territories:[/u]
+- [region=The Northern Countries]
+- [region=The Great Eastern Soviet Union]
+- [region=The NSRS]
+- [region=The Eternal Alliance]
+- [region=Fedlands MI6]
+[hr]
 [u]Links:[/u]
 [url=http://www.nationstates.net/nation=neutricland/detail=factbook/id=12512]Our Map[/url]
 [url=http://www.nationstates.net/nation=neutricland/detail=factbook/id=194569]Our Laws[/url]
 [url=http://www.nationstates.net/nation=neutricland/detail=factbook/id=193682]Resolutions[/url]
 [url=http://www.nationstates.net/nation=neutricland/detail=factbook/subcategory=109]More About Us[/url]
+
 

@@ -11,4 +11,4 @@ Minister of Foreign Affairs: [nation=short]North America and Great Britain[/nati
 Minister of Finance: [nation=short]Belderous[/nation]
 Minister of Recruiting: [I]Vacant[/I]
 
-We are a proud supporter of [region]The Second Empire of Arrakine[/region]!! The Region is at threat level [color=blue]Blue: No threat detected[/color]
+We are a proud supporter of [region]The Second Empire of Arrakine[/region]!! The Region is at threat level [color=orange]Orange:Be on your guard[/color]

@@ -2,10 +2,10 @@ Greetings!
 
 This region is where matters of foreign affairs and foreign policy are discussed in the [region]Federation of Free States[/region].
 
-Chancellor: [nation]Aedruvia[/nation]
-President: [nation]The Imperial Republic of the Balkans[/nation]
-Minister of Foreign Affairs: [nation]The Sova Empire[/nation]
-Minister of Security: [nation]Republic of Wreptzle[/nation]
+Chancellor: [nation=short]Aedruvia[/nation] [B]l[/B] ([nation=shortnoflag]The Aedruvian Delegation[/nation])
+President: [nation=short]The Imperial Republic of the Balkans[/nation] [B]l[/B] ([nation=shortnoflag]Tau Kappa Epsilon[/nation])
+Minister of Foreign Affairs: [nation=short]The Sova Empire[/nation] [B]l[/B] ([nation=shortnoflag]The Sovan Meeting Room[/nation])
+Minister of Security: [nation=short]Republic of Wreptzle[/nation] [B]l[/B] ([nation=shortnoflag]FFS Minister of Security[/nation])
 Foreign Ambassadors: 
-[nation]Cylthropia[/nation] (from [region]Federation of Free States[/region])
-[nation]North of South[/nation] (from [region]Central Pacific Empire[/region])
+[nation=short]Cylthropia[/nation] (from [region]Federation of Free States[/region])
+[nation=short]North of South[/nation] [B]l[/B] ([nation=shortnoflag]CPE International Delegate 1[/nation]) (from [region]Central Pacific Empire[/region])
