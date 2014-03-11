@@ -10,6 +10,7 @@
 [nation]Ancian[/nation]
 [nation]Hattersfeld[/nation]
 [b]Recruitment Ministry:[/b] To be appointed
-[b]Defense Ministry:[/b] [nation]Frederick William II[/nation][/color]
+[b]Defense Ministry:[/b] [nation]Frederick William II[/nation]
+[b]Lord High Commissioner:[/b] [nation]Frederick William II[/nation][/color]
 
 [b]Regional forum:[/b] [url=http://w11.zetaboards.com/Astarialn_Empire/forum/3457381/]Link[/url].

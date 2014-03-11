@@ -1,6 +1,6 @@
-[color=purple]Censor[/color](WA Delegate): 
-[color=purple]Emperor[/color](Founder): [nation]Tertius Roma II[/nation]
-[color=red]Consul[/color](Military Executive): 
+[b][color=purple]Censor[/color][/b](WA Delegate): [nation]bryce54399[/nation]
+[b][color=purple]Emperor[/color][/b](Founder): [nation]Tertius Roma II[/nation]
+[color=red]Consul[/color](Military Executive): [nation]ej2431957[/nation]
 [color=blue]Praetor[/color](Foreign Adviser):[nation]House of Julii[/nation]
 [color=blue]Aedile[/color](Civic Adviser):[nation]House of Scipii[/nation]
 [color=blue]Legatus[/color](Recruitment):[nation]Spanish Confederation[/nation] 

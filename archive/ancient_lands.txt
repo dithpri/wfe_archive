@@ -1,8 +1,10 @@
 [color=000066][b]Ancient Lands[/b][/color][hr][hr][color=006600]Home for our ancient puppets
-[b]Caretaker:[/b] [nation=short]Royal House of Windsor[/nation]
-[/color][color=008888]
-[b]ALLIED &amp;amp; ASSOCIATED REGIONS:[/b]
-&#149; [region=Freedom Front] &#149; [region=Latin America] &#149; [region=The Americas] &#149; [region=United States of America] &#149; [region=World] &#149;
+[b]Caretaker:[/b] [nation=short]Royal House of Windsor[/nation][/color][color=008888]
+
+HEADQUARTERS REGION
+a [region=United States of America] associate region
+ALLIED REGIONS:
+&#149; [region=Freedom Front] &#149; [region=Latin America] &#149; [region=The Americas] &#149; [region=Great Britain and Northern Ireland] &#149; [region=Japvia] &#149;
 [/color][color=008000]
 [b]Links:[/b]
 &#149; [url=http://nsdossier.texasregion.net/]Dossier Tools[/url] (from [region=Texas]) &#149; [url=http://nseconomy.thirdgeek.com/nseconomy.php]NSEconomy[/url] &#149;
