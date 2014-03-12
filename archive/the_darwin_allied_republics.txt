@@ -2,9 +2,9 @@
 
 [hr]
 
-[b][color=green]Former President: [nation=short+noflag]Siokania[/nation][/color] 
-[color=brown]FormerVice Presidents: [nation=short+noflag]The Federal Republic of Simonia[/nation] and [nation=short+noflag]Fishhawk[/nation][/color]
+[b][color=green]ENDORSE NOW (President): [nation=short+noflag]Hespero-Belkia[/nation][/color] 
 
+[color=brown]Vice President: [nation=short+noflag]NeuPolska[/nation][/color]
 [color=green]Former General of Army: [nation=short+noflag]The Phoenix King Army[/nation][/color]
 [color=brown]Former MoRA: [nation=short+noflag]Darwinish Brentsylvania[/nation][/color]
 [color=green]Former MoFA: [nation=short+noflag]The Federal Republic of Simonia[/nation][/color]

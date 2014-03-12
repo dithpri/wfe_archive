@@ -1,13 +1,14 @@
 [b]Government[/b]
 President: [nation]Qubec[/nation]
-Vice President: Vacant
+Vice President: [nation]Empire of Numerio[/nation]
 Secretary of Defense: [nation]Khalahar[/nation]
-Secretary of Affairs: Vacant
+Secretary of Affairs: [nation]Ambassador of Memoriabalia[/nation]
 WA Delegate: Vacant
 
 [b]Region Security[/b]
 DEFCON: [color=green]5[/color]
 Borders: [color=green]Open[/color]
 Threat Level: [color=green]Low[/color]
+[url=http://w11.zetaboards.com/NationsUnited/index/]Offsite Forum[/url]
 
 [b]Founded on 3/1/2014[/b]

@@ -8,7 +8,7 @@ President/WA Delegate: [nation=short]Aresvin[/nation]
 Prime Minister: [nation=short]Haltioiden[/nation]
 Minister of Defense: [I]Vacant[/I]
 Minister of Foreign Affairs: [nation=short]North America and Great Britain[/nation]
-Minister of Finance: [nation=short]Belderous[/nation]
+Minister of Finance: 
 Minister of Recruiting: [I]Vacant[/I]
 
-We are a proud supporter of [region]The Second Empire of Arrakine[/region]!! The Region is at threat level [color=orange]Orange:Be on your guard[/color]
+We are a proud supporter of [region]The Second Empire of Arrakine[/region]!! The Region is at threat level [color=blue]Blue: No Threat Detected[/color]
