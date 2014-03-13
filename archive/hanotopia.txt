@@ -1,15 +1,1 @@
-[hr][hr][color=navy][list][list][b]Hanotopia[/b][/list][/list][hr][hr][/color][color=009900]
-------------------------------------------
-This is an [region=Ancient Lands] Allied Region
-&amp;lt;&amp;lt; [region=United Dictatorships of The North] ---
---- [region=Pineapples In a Can Dictatorship] &amp;gt;&amp;gt;
-------------------------------------------
-[/color][color=red]
-[b]NEW REGION POLICY:[/b]
-------------------------------------------
-[b]HOLDING REGION[/b]
-NO EMBASSIES ACCEPTED
-------------------------------------------
-[/color]
-[color=teal]
-This is a [nation=short]New Falham[/nation]/[region=United States of America] Puppet Storage Region[/color]
+[color=navy][b]Hanotopia[/b][hr][/color]

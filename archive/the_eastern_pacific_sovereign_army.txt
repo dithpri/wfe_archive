@@ -1,12 +1,12 @@
 [b]Field Marshal:[/b] [nation]Bachtendekuppen[/nation]
 
-[b]General:[/b] [nation=short]Babiana[/nation]
+[b]General:[/b] Lieutenants serving as a joint Interim General until further notice.
 
 [b]Colonel:[/b] [nation=short]A Mean Old Man[/nation]
 
 [b]Lieutenants:[/b] [nation=short]Xoriet[/nation] and [nation=short]Tano[/nation]
 
-[b]Newest Member:[/b] [nation=short]The Solid 85[/nation]
+[b]Newest Member:[/b] [nation=short]The Fourth Imperium[/nation]
 
 [u]Requirements for being a member:[/u][list][*]Must be a citizen of [region]The East Pacific[/region];[*]Must not be involved in any foreign military organizations; or, failing that, must have an endorsement from another EPSA member;[*]Must swear to uphold the traditions and honor of The East Pacific;[*]Must obey [url=http://ubuntuone.com/6a5DvayXSYvklxiwwfWd9P]The Laws of The East Pacific[/url];[/list]
 

@@ -1,11 +1,11 @@
 [i]Welcome to The Federal Islands 2nd Gen![/i]
 
 [b][i]Our Government[/i]
-President: [nation]Conservative Idealism in TFI[/nation] (LTN)
-Vice President: [nation]Shallowell[/nation] (LTN)
-Founder: [nation]United Furry Alliance[/nation] (TCH)
+President: [nation=short]Conservative Idealism in TFI[/nation] (LTN)
+Vice President: [nation=short]Shallowell[/nation] (LTN)
+Founder: [nation=short]United Furry Alliance[/nation] (TCH)
 Minister of Internal Affairs:
 Minister of Foreign Affairs:
-Minister of Military Affairs:
+Minister of Military Affairs: [nation=short]Brauistan[/nation] (STT)
 [/b]
 [b]News: The Ministry Elections are in process. In the meantime, be wary of the Neutricland rebellion - the pretenders, led by Zondaland, are targeting our allies and using our name in order to undermine our foreign relations.[/b]
