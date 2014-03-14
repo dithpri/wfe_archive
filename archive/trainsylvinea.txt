@@ -1,16 +1,12 @@
 This region was founded in August 24, 2013.
 
-[b][u]World Class Countries[/u][/b] [i](A Grade Countries)[/i]
-[color=red][nation=percvania] (capital-country)[/color]
-[nation=vinelands]
-[nation=percelands]
-[nation=jamessia]
-
-[b][u] Trainsylvinea&amp;#39;s Mad Countries[/u][/b]
-[nation=Vinesheep]
-[nation=north_owenia]
-[nation=fat_pigs]
-
-[b][u]WA Countries[/u][/b]
-[nation=percvania] 
-[nation=charlemagne_rome]
+God= [nation=alleniana]
+President= [nation=percvania]
+Vice President= [nation=percelands]
+Prime Minister= [nation=charlemagne_rome]
+Environment Minister= [nation=vinelands]
+Military Minister= [nation=north_owenia]
+Sport Minister= [nation=lin_jong]
+Foreign Minsiter= [nation=the_percians]
+Transport Minister= [nation=thomasgar]
+Culture Minister= [nation=chinese_new_year]

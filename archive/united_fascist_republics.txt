@@ -1,11 +1,11 @@
-This is a region for all Fascist nations. [b][u] Endorse [nation]tylora[/nation] and [nation]tylora[/nation] ONLY![/b][/u]
+This is a region for all Fascist nations. [b][u] Endorse [nation=short+noflag]tylora[/nation] and [nation=short+noflag]tylora[/nation] ONLY![/b][/u]
 Member of [region]Right Wing Uprising[/region]
 [hr]
 F&uuml;hrer und Reichskanzler: [nation]greater_sveriege[/nation] 
 Reichsdelegate: [nation]tylora[/nation]
 Unterf&uuml;hrer: [nation]hueynahuatl[/nation]
 Minister of Defence: OPEN (TG Greater Sveriege to Apply)
-Minister of Security: OPEN (TG Greater Sveriege to Apply)
+Minister of Security: [nation]the_ranponian[/nation]
 Minister of Foreign Affairs: [nation]oman_under_dictation[/nation]
 Minister of Culture: OPEN (TG Greater Sveriege to Apply)
 [hr]

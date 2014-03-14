@@ -5,7 +5,7 @@
 [u]Head of State:[/u] [nation]Galamence[/nation]
 
 [u]Executive President:[/u] [nation]Krazeria[/nation]
-[u]Executive Vice President:[/u] [nation]Lennox Island[/nation]
+[u]Executive Vice President:[/u] [nation]Padnak[/nation]
 [u]Executive Treasurer:[/u]  [nation]Elysium of Heroes[/nation]
 [u]President of the Ministry:[/u] [nation]O Leary[/nation]
 
@@ -13,8 +13,8 @@
 
 [u]Minister of War:[/u] [nation]Ellerslie-Bideford[/nation]
 [u]Minister of Foreign Affairs:[/u] [nation]New Fidalia[/nation]
-[u]Minister of Commerce:[/u] [nation]Tignish[/nation]
-[u]Minister of Transportation: [/u] [nation]PrinceEdwardIsland[/nation]
+[u]Minister of Commerce:[/u] [nation]ShadowVeiled[/nation]
+[u]Minister of Transportation: [/u] [nation]God King David[/nation]
 [u]Minister of Health &amp;amp; Environment: [/u] [nation]Albundica[/nation]
 [u]Minister of Law &amp;amp; Order: [/u] [nation]God King David[/nation]
 [u]Minister of Education: [/u][nation]Emeraldian[/nation]

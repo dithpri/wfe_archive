@@ -7,13 +7,13 @@
 
 Arch Chancellor -- [nation=short]Karputsk[/nation]
 
-Vice Chancellor -- [nation=short]Dyr Nasad[/nation]
+Vice Chancellor -- [i]To be appointed[/i]
 
-Chief of Defence Force -- [nation=short]Frattastan II[/nation], [nation=short]Guy[/nation]
+Chief of Defence Force -- [nation=short]New Libertarian States[/nation]
 
-Intelligence Minister -- [nation=short]Milograd[/nation]
+Intelligence Minister -- [nation=short]Dyr Nasad[/nation], [nation=short]Milograd[/nation]
 
-Regional Liaison Officer -- [nation=short]The Saturnian Republic[/nation]
+Regional Liaison Officer -- [nation=short]Tim-Opolis[/nation]
 
 Speaker of the Assembly -- [nation=short]Senecan Tribes[/nation]
 

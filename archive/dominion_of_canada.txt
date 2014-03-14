@@ -1,2 +1,4 @@
 [b]Dominion of Canada[/b]
-a [region=Great Britain and Northern Ireland] region
+a [region=Ancient Lands] region
+
+[color=red]See NOTE in [region=Freedom Front] about Embassies.[/color]

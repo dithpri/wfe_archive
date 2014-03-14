@@ -8,5 +8,9 @@ Laws:[url=http://www.nationstates.net/nation=arcadian_stronghold/detail=factbook
 [b]Administration of Logistics:[/b][nation=short]Victarion[/nation]
 [b]Administration of Foreign Affairs:[/b][nation=short]Copper confederacy[/nation]
 [hr]
-[color=blue]We welcome any and all types of governments. Please leave any trouble behind you.[/color]
-[color=blue]The Golden Confederacy is a safe haven for anyone who has been banned from their native regions.[/color]
+[b]Threat Levels[/b]
+[color=green]Green[/color]: everything is fine, gumdrops and ice cream!
+[color=blue]Blue[/color]: be careful, something&amp;#39;s wrong.
+[color=orange]Orange[/color]:borders are closed, no communications on RMB.
+[color=red]Red[/color]:Mobilize militia, suspected nations are kicked. 
+[b]Current threat level[/b]:[color=green]Green[/color].

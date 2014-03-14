@@ -17,8 +17,10 @@ Current threat level: [color=green]Green[/color]
 
 [b]Regional Economic Commissioner:[/b] [nation]creepoc infinite[/nation]
 
-[b]Economic Security Chief:[/b] [nation]chaunceys[/nation]
+[b]Economic Security Chief:[/b] [nation]grey earth[/nation]
 
-[b]NRSC director of Technology: [/b][nation]evil chauncey[/nation]
+[b]NRSC Director of Technology: [/b][nation]Talorin[/nation]
 
-[b]NRSC director of Space Marine program: [/b][nation]noahmerica[/nation]
+[b]NRSC Supply Director:[/b] [nation]Chaunceys[/nation]
+
+[b]NRSC Director of Space Marine program: [/b][nation]noahmerica[/nation]
