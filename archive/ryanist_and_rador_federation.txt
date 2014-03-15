@@ -1,18 +1,14 @@
 [color=blue]Northern United Federal Alliance[/color]
-Leader(s): Andrew Ryan and Edward Tannenbaum
+Leader(s): Andrew Ryan ([nation=short]Renegalis[/nation]) and Edward Tannenbaum ([nation=short]Fifth Republic[/nation])
 [nation]Renegalis[/nation] In the region [region]Wintreath[/region]
 [nation]Ourobus[/nation]
 [nation]Faulkerland[/nation]
 [nation]The Colonies of Renegalis[/nation]
-[nation]Munich-Cologne[/nation]
-[color=yellow]Rador and Protectorates[/color]
-Leader(s):Denth Rowan
+[nation]Fifth Republic[/nation]
+[hr][color=yellow]The Triple Entente[/color]
+Leader(s): James Attrium ([nation=short]Rador[/nation]), Aaron Bryant ([nation=short]Dawsinian[/nation]), and Ivitai I ([nation=short]Jeekwigges[/nation] and [nation=short]Josigges[/nation])
 [nation]Rador[/nation] In the region [region]Wintreath[/region]
-[nation]Zepate[/nation]
 [nation]Jeekwigges[/nation]
+[nation]Josigges[/nation]
 [nation]Dawsinian[/nation]
 [nation]Communist Luxembourg[/nation]
-[color=orange]The Temeran Allegiances[/color]
-Leader(s): The High Lord Krel Moctin and Queen Rodalia(TEMERA) King and Queen Heratus(BULANDIA)
-[nation]Temera Major[/nation]
-[nation]Bulandia Major[/nation]

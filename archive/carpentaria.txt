@@ -5,17 +5,15 @@ Empires:
 [nation]Magnum Leonem[/nation]
 [nation]Infinitus Imperium[/nation]
 [nation]Maltorium[/nation]
-
-Rising Power:
 [nation]Val Sharok[/nation]
 
 Nations:
-[nation]Blackenese Land[/nation]
 [nation]San Frontiers[/nation]
-[nation]Tierra de Nadie[/nation]
-
-Questionable Sovereignty:
 [nation]Molestius[/nation]
+
+Fallen nations:
+Blackenese Land (1847)
+Tierra de Nadie (1848)
 
 Time period-appropriate progression and telegram/dispatch-based roleplay.
 

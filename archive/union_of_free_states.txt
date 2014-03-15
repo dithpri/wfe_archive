@@ -9,7 +9,7 @@
 Interim Union Secretary:[nation=short]North America and The Great lakes[/nation]
 Secretary of Defense:[nation=short]Valacria[/nation]
 Secretary of Foreign Affairs: [nation=short]Narnifrey[/nation]
-Secretary of Internal Affairs:[nation=short]Anathema Armaments[/nation]
+Secretary of Internal Affairs:[nation=short]Light Music Club[/nation]
 Secretary of Legal Affairs:[nation=short]Alpacanzia[/nation]
 
 [B]UFS JUSTICE TRIBUNAL[/B]

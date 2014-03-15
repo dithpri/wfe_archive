@@ -1,7 +1,9 @@
+[url=http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=287424]The Regional Meeting Hall[/url]
+
 [b]Regional Government[/b]
 President:[nation]Muzztopia[/nation]
 Vice President:
-Foreign Minister:
+Foreign Minister:[nation]Palafox[/nation]
 Defense Minister: 
 Domestic Minister:[nation]mega nom nom land[/nation]
 Secretary:[nation]Aravea[/nation]
@@ -11,3 +13,4 @@ Recruitment Officer: [nation]Bozz-Antium[/nation]
 
 Welcome to the United Federation of Nations, a military and economic alliance dedicated to the principles of freedom and democracy,as well as the pursuit of peace.
 .
+Regional Currency: UFN Dollar (Opt out Available)
