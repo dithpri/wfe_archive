@@ -1,9 +1,9 @@
 [color=red]Welcome To The Military Commonwealth[/color]
 
 King: [nation]The Great European Commonwealth[/nation]
-[color=blue]WA delegate:[/color] [nation]Region 22[/nation]
+[color=blue]WA delegate:[/color] [nation]Marabelle[/nation]
 
-[color=red]Prime Minister:[/color] Vacant
+[color=red]Prime Minister:[/color] [nation]Marabelle[/nation]
 [color=red]Deputy Prime Minister:[/color] Vacant
 [color=red]General:[/color] Vacant
 [color=green]Officer 1:[/color] Vacant

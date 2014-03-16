@@ -4,12 +4,12 @@ To join either [b][color=blue]The Region of Panessos[/color][/b] or [b][color=bl
 
 [hr][b][color=blue]Executive:[/color][/b]
 
-[b][u]Prime Minister[/u]-[/b][nation=noname]Naybra[/nation] 
+[b][u]Prime Minister[/u]-[/b][nation=noname]Libraria and Ausitoria[/nation] 
 
-[b]Minister of Defence-[/b][nation=noname]Paddy O Fernature[/nation]
-[b]Minister of Internal Affairs-[/b][nation=noname]Nerod Empire[/nation] (acting)
-[b]Minister of Foreign Affairs-[/b][nation=noname]Mizrad[/nation] (nominal)
-[b]Minister of Economics and Trade-[/b][nation=noname]Treneria[/nation] (nominal)
+[b]Minister of Defence-[/b][nation=noname]Nerod Empire[/nation]
+[b]Minister of Internal Affairs-[/b][nation=noname]Nerod Empire[/nation]
+[b]Minister of Foreign Affairs-[/b][nation=noname]Nerod Empire[/nation]
+[b]Minister of Economics and Trade-[/b][nation=noname]Twisteria[/nation]
 
 [b][color=blue]Senate:[/color][/b]
 

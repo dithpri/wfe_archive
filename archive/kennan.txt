@@ -10,7 +10,7 @@
 [b]Environment:[/b] [nation=short]United Solcialist States of Jakeopia[/nation]
 [b]Foreign Affairs:[/b] [nation=short]Sandwich Territories[/nation]
 [b]Human Rights:[/b] [nation=short]Hackleberry Islands[/nation]
-[b]Law Enforcement:[/b] [i]Accepting Applications[/i]
+[b]Law Enforcement:[/b] [nation=short]Herodas[/nation]
 
 [color=blue][b]Chairmen[/b][/color]
 [b]KRC:[/b] [nation=short]Hackleberry Islands[/nation]

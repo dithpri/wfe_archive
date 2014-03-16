@@ -7,7 +7,8 @@ King: [nation=short]Nephmir[/nation]
 Queen: [nation=short]Norne[/nation]
 Bishop: [nation=short]Valrifell[/nation]
 Lords: [nation=short]Unified Protectors[/nation], [nation=short]Ever-Wandering Souls[/nation]
-Knights:
+Knights: [nation=short]Akarnir in space[/nation], [nation=short]Faschist Deutsch Reich[/nation], 
+[nation=short]Assassin of the day[/nation], [nation=short]United Nationals[/nation], [nation=short]Festavo[/nation], [nation=short]Crumlark[/nation]
 
 
 [b][u]Links[/u][/b]
