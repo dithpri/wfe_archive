@@ -4,11 +4,16 @@ Vice President: [nation]Empire of Numerio[/nation]
 Secretary of Defense: [nation]Khalahar[/nation]
 Secretary of Affairs: [nation]Ambassador of Memoriabalia[/nation]
 WA Delegate: Vacant
+______________________________________________________________________________________________________________________________________
 
 [b]Region Security[/b]
 DEFCON: [color=green]5[/color]
 Borders: [color=green]Open[/color]
 Threat Level: [color=green]Low[/color]
+
+[b]Regional Emergency Alert System:[/b]
+[I]no alerts[/i]
+______________________________________________________________________________________________________________________________________
 [url=http://w11.zetaboards.com/NationsUnited/index/]Offsite Forum[/url]
 [url=http://nationsunited.webs.com/]Region Website[/url]
 

@@ -8,7 +8,9 @@
 [b]Supreme Judge[/b]: [nation=short]Gray Army[/nation][hr]
 [b][u]Moff Council[/u][/b]
 [b]Moff of Foreign Affairs[/b]: [nation=short]The Chommell Sector[/nation]
+-[b]Vice Moff of Foreign Affairs[/b]: [nation=short]Ithorian Herdships[/nation]
 [b]Interim Moff of Imperial Affairs[/b]: [nation=short]Vaculatestar64[/nation]
+-[b]Vice Moff of Imperial Affairs[/b]: [nation=short]Alagaeia[/nation]
 [b]Interim Moff of War[/b]: [nation=short]Darth Tenebris[/nation]
 [b]Interim Moff of Culture[/b]: [nation=short]Palpatine1986 Reborn[/nation] [hr]
 
