@@ -6,7 +6,7 @@
 
 [b]Regent[/b] : [nation]Predatorius[/nation]
 
-[b]Delegate[/b] : [nation]Shaw State[/nation]
+[b]Delegate[/b] : [i]suspended until elected[/i]
 
 [u]Electoral Board[/u]
 
@@ -18,8 +18,8 @@
 
 [b]Secretary for Culture[/b] : [nation]Nagarrve[/nation]
 
-[b]Justice of The United League Court of Justice[/b] : [nation]Durinmore[/nation]
+[b]Justice of The United League Court of Justice[/b] : [i]suspended by Royal Prerogative[/i]
 
 [u]Hall of Honour[/u]
 
-[b]Honoured Nations[/b] : [nation]Shaw State[/nation] [nation]Durinmore[/nation] [nation]Star Isles[/nation]
+[b]Honoured Nations[/b] : [nation]Durinmore[/nation] [nation]Star Isles[/nation]

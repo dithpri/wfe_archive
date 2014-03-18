@@ -17,9 +17,9 @@ Minister of Culture: [nation=short]Torsiedelle[/nation]
 Chief Recruiter: [nation=short]Sween[/nation]
 
 [u]Security Level[/u]
-Peacetime - no foreseeable threats.
+[Color=green]Peacetime - no foreseeable threats.[/color]
 Guarded - minor threat.
-[color=red]Alert - CLEAR THREAT[/color]
+Alert - Clear threat
 Danger - serious threat.
 Emergency - invasion imminent.
 
