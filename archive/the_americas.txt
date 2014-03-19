@@ -1,7 +1,5 @@
 [color=navy][b]The Americas[hr][/color][color=teal][region=Japvia] will soon be merged to this region, as that region will be given special status within my empire.
 This is a [nation=short]Royal House of Windsor[/nation] and [nation=short]Dog Lake[/nation] passworded puppet storage region
-[/color][color=800000]
-NOTICE:[/b] [list][I]NEW EMBASSY POLICY[hr][list]This region will not be participating in the [b]Embassy Game[/b] that my other regions are playing. 
-This region will continue to accept new embassy offers.
-No embassy offer is refused 
-(the one exception is any region that bans any of my nations - and I do have a lot of them)[/I][/color][/list]
+[/color][color=006600]
+[nation=short]NOTICE[/nation]:[/b] [list][nation=short]EMBASSY POLICY[/nation][list]See [region=Japvia] for alliance embassy policy.
+This region will be accepting embassy offers.[/color][/list]

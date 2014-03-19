@@ -4,14 +4,24 @@ Our Government.
  
 President: ...
 
+Secretary of Defense ...
+
 WA delegate: [nation]Renato Nequam[/nation]
 
-Chief Of Staff: [nation]Rocknation10[/nation]
+Chief Of Staff: 
 
-Secretory of the Army: [nation]Turtles08[/nation]
+[nation]Rocknation10[/nation]
 
-Minister of the Interior: 
+Secretory of the Army:
 
-Minister of foreign relations: [nation]NewYorker17[/nation]
+ [nation]Turtles08[/nation]
+
+Minister of the Interior:
+
+ [nation]Candena[/nation]
+
+Minister of foreign relations:
+
+[nation]NewYorker17[/nation]
 
 minister of recruitment: ... 
