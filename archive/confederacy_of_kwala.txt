@@ -5,17 +5,12 @@ Prime Minister: [nation]Tiltoniationa[/nation] -Democratic Socialist Party
 Head of Secret Police:[nation]The Golden Eagle[/nation] -Democratic Socialist Party
 Head of Economics Department: [nation]United American Socialists Republic[/nation]
 Head of Intra-Confederate Diplomacy:[nation]Majestyman[/nation]
-Head of Recruitment:[nation]Leeson[/nation]
+Head of Recruitment:[nation]Leeson[/nation] -Union of Savvy Senatorial Republicans
 
+Political Parties: To join, Contact the leader of the Party
+-Democratic Socialist Party of Kwala: Led by [nation]The Golden Eagle[/nation]
+-Federalist party of Kwala: Led by [nation]Suebien[/nation]
+-Union of Savvy Senatorial Republicans: Led by [nation]Leeson[/nation]
 
-Political Parties:
--Democratic Socialist Party of Kwala:
---Founder: [nation]The Golden Eagle[/nation]
---Members: [nation]United American Socialists Republic[/nation]
-                 [nation]Tiltoniationa[/nation]
-
--Federalist party of Kwala:
---Founder: [nation]Suebien[/nation]
---Members:
 
 
