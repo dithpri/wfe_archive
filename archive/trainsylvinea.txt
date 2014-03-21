@@ -3,10 +3,10 @@ This region was founded in August 24, 2013.
 God= [nation=alleniana]
 President= [nation=percvania]
 Vice President= [nation=percelands]
-Prime Minister= [nation=charlemagne_rome]
 Environment Minister= [nation=vinelands]
 Military Minister= [nation=north_owenia]
 Sport Minister= [nation=lin_jong]
 Foreign Minsiter= [nation=the_percians]
 Transport Minister= [nation=thomasgar]
 Culture Minister= [nation=chinese_new_year]
+

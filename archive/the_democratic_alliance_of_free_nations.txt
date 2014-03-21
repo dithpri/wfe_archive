@@ -1,8 +1,19 @@
 [color=F10000][b][i]Welcome, citizen! We are a democratic region dedicated to catering to YOUR needs. Everyone votes, and everyone gets what they want. Click [url=democraticalliance.boardhost.com]here[/url] to get to our friendly forums! Enjoy our fun and vibrant region![/i][/b][/color]
 
-Count: [nation=short]Stellam[/nation]
+[color=123456]Count: [nation=short]Stellam[/nation]
 visCount: [nation=short]Severslavia[/nation]
 Chancellor: Not Elected Yet (NEY)
-Assembly Members: All Member Nations (AMN)
+Deputy Chancellor: Not Elected Yet (NEY)
+Assembly Members: All Member Nations (AMN)[/color]
 
-[color=006600][b][i]We were, at one time, at war with [region]The Black Riders[/region]. After a ruthless onslaught, our defense faltered for a single moment. This moment was taken advantage of by our enemy. However, we rallied forth under the command of [nation=shortnoflag]Stellam[/nation], and proceeded to decimate the Black Riders&amp;#39; forces. Thus, we are now and forever free of their oppressive rule.[/color][/b][/i]
+MAMNARR (Military, Airforce, Marines, and Navy Action Readiness Requirement) Level: 3 (1 being most ready, 5 the least).
+
+Funding:
+ - Education 42%
+ - Administration 11%
+ - Welfare 17%
+ - Public Transport 10%
+ - Healthcare 9%
+ - Industry 3%
+ - Environment 6%
+ - Social Policy 2%

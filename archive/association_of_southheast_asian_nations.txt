@@ -2,7 +2,7 @@
 
 [color=purple] Motto: &amp;quot;[i]One Vision, One Identity, One Community[/i]&amp;quot;[/color]
 
-[hr][color=red][[/color][url=http://aseanregionalforum.asean.org/about.html]About Us[/url][color=red]][/color][color=red][[/color][url=http://www.asean.org/]regional Web[/url][color=red]][/color][color=red][[/color][url=http://www.nationstates.net/nation=indonesya/detail=factbook/id=230084]Overview[/url][color=red]][/color][color=red][[/color][url=http://aseanregionalforum.asean.org/news.html]news[/url][color=red]][/color][color=red][[/color][region]ASPC[/region][color=red]][/color]
+[hr][color=red][[/color][url=http://aseanregionalforum.asean.org/about.html]About Us[/url][color=red]][/color][color=red][[/color][url=http://www.asean.org/]regional Web[/url][color=red]][/color][color=red][[/color][url=http://www.nationstates.net/nation=indonesya/detail=factbook/id=230084]Overview[/url][color=red]][/color][color=red][[/color][url=http://aseanregionalforum.asean.org/news.html]news[/url][color=red]][/color][color=red][[/color][region]APSC[/region][color=red]][/color]
 [hr]  
 
 
@@ -11,11 +11,11 @@ We are dedicated to the defense and protection of all founderless regions.[/b][/
 [hr]
 [color=orange][b]prime minister[/b] :[/color] [nation=short]Indonesya[/nation]
 
-[color=orange][b]secretary[/b] :[/color] [nation=short]Bobolon[/nation]
+[color=orange][b]secretary[/b] :[/color] [u][color=red]Vacant[/color][/u]
 
-[color=orange][b]Minister of Internal Affairs[/b] :[/color]  [u][color=red]Vacant[/color][/u]
+[color=orange][b]Minister of Internal Affairs[/b] :[/color]  [nation=short]urasyidin[/nation]
 
-[color=orange][b]Minister of Foreign Affairs[/b] :[/color] [u][color=red]Vacant[/color][/u]
+[color=orange][b]Minister of Foreign Affairs[/b] :[/color] [nation=short]bonggawi[/nation]
 
-[color=orange][b]Minister of security[/b] :[/color] [u][color=red]Vacant[/color][/u]
+[color=orange][b]Minister of security[/b] :[/color] [nation=short]Asean Army[/nation]
 

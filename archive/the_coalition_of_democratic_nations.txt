@@ -1,7 +1,7 @@
 [b][Color=red]Welcomes to the The Coalition of Democratic Nations, &amp;quot;The Lungs of Democracy&amp;quot;[/b] - [nation=short]The Greater States of Valyria[/nation][/color]
 Gov. security- [b][color=gold]Medium[/color][/b]
 [Color=Green][b]1st Cabinet of The Coalition of Democratic Nations[/b][/color]
-[Color=blue]Prime Minister-[/color]
+[Color=blue]Prime Minister-[/color][nation]Quevola[/nation]
 [Color=blue]Deputy Prime Minister-[/color]
 [Color=blue]Minister of Defense-[/color]
 [Color=blue]Minister of Intelligence-[/color]
