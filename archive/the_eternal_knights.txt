@@ -6,8 +6,6 @@ King: [nation=short]Nephmir[/nation]
 Queen: [nation=short]Norne[/nation]
 Bishop: [nation=short]Valrifell[/nation]
 Lords: [nation=short]Unified Protectors[/nation], [nation=short]Ever-Wandering Souls[/nation]
-Knights:
-
 
 [b][u]Links[/u][/b]
 [url=http://www.nationstates.net/page=dispatch/id=232914]About Us[/url]

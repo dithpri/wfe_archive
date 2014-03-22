@@ -14,5 +14,5 @@ Lord Magistrate -General:[nation=short]North Bobracha[/nation]
 Presidium of the Union Presidium:vacant
 [hr]
 
-[B]DEFCON[/B]: 1 | [B]CURRENCY[/B]: [color=orange]Medi[/color][hr]
-Protected by [b][region]The Bordurian Empire[/region][/b] 
+[B]DEFCON[/B]: 1 | [B]CURRENCY[/B]: [color=orange]Medi[/color] ( Currency conceived by [nation=short]Cypriot Territories[/nation])[hr]
+Protectorate of  [b][region]The Bordurian Empire[/region][/b] 

@@ -9,7 +9,7 @@ Secretary of Internal Affairs: [nation=short]Republic of the North[/nation]
 Secretary of Foreign Affairs: [nation=short]Zaalbar[/nation]
 ----------------------------------------------------
 Senators: [nation=short]Advelard[/nation], [nation=short]The New Earth Coalition[/nation]
-Representatives: [nation=short]Conceptina[/nation],[nation=short]Republic of the North[/nation], [nation=short]Zaalbar[/nation], [nation=short]Fairy-Tail[/nation]
+Representatives: [nation=short]Conceptina[/nation],[nation=short]Republic of the North[/nation], [nation=short]Zaalbar[/nation], [color=green][I]available[/I][/color]
 
 [url=http://thethirdominion.boardonly.com]Regional Forum[/url]
 
