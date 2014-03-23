@@ -10,6 +10,4 @@ FACTS
 &#149; Prime Minister: Denzil Douglas
 [/color][color=003153]
 ABOUT THIS REGION
-&#149; a [region=United States of America] region
-[/color][color=002486]
-[b]WELCOME[/b][/color]
+&#149; a [region=United States of America] region[/color]

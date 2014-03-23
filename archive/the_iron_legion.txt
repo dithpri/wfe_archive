@@ -21,12 +21,9 @@ Military Operations Directorate of [region]The Fascist Union[/region].
 [nation=short]Mense[/nation] Evocati (Sergeant)
 [nation=short]Ldddd[/nation] Evocati (Sergeant)
 [nation=short]Chezek[/nation] Evocati (Sergeant)
-[nation=short]Kolreich[/nation] Evocati (Sergeant)
-[nation=short]Schutztruppe Southeastasia[/nation] Evocati (Sergeant)
 [nation=short]Iaeptus[/nation] Evocati (Sergeant)
 [nation=short]Slarvenia[/nation] Evocati (Sergeant)
-[nation=short]NorthEast Alliance[/nation] Evocati (Sergeant)
 [nation=short]Empire of Thayanalia[/nation] Munifex (Private)
 [nation=short]Freame[/nation] Munifex (Private)
-[nation=short]Fjormark[/nation] Munifex (Private)
+
 [/b]

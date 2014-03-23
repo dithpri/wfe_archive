@@ -2,12 +2,12 @@
 Commander: [nation=short]General Probon[/nation]
 Marshal:
 General:
-Knights:
+Knights: [nation=short]TheValkyries[/nation]
 
 [b][u]The Horseman[/u][/b]
 General:
-Warriors:
+Horseman: [nation=short]Callis[/nation]
 
 [b][u]The Cavalry[/u][/b]
-General: 
-Cavaliers:
+General: [nation=short]Asilian[/nation]
+Cavaliers: [nation=short]Maluri[/nation], [nation=short]Bastage[/nation]

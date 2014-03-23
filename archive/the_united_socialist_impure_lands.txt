@@ -3,11 +3,12 @@
 [b][i]The Cabinet of The Impure Lands:[/b][/i]
 
 [b]Vice President:[/b] [nation]Crucania[/nation]
-[b]Chief of Staff:[/b] 
-[b]Secretary of State:[/b]
-[b]Secretary of Defence:[/b]
-[b]Secretary of the Treasury:[/b]
-[b]Director of Intelligence:[/b] 
+[b]Chief of Staff:[/b] OPEN
+[b]Secretary of State:[/b] [nation]Edrapuria[/nation]
+[b]Secretary of Defence:[/b] [nation]Castle Araluen[/nation]
+[b]Treasurer:[/b] [nation]Deadpool and Friends[/nation]
+[b]Director of Intelligence:[/b]  [nation]Midori no kasai[/nation]
+[b]Director of Recruitment:[/b] [nation]Inquisitorial Systems[/nation]
 
 [b][u]***REGIONAL NEWS BOARD***[/b][/u]
 
