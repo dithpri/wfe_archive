@@ -1,5 +1,5 @@
-[color=blue][b]This region is in control of the Bubble Buddies[/b][/color]
-[color=red][b]Raiders that helped:[/b][/color]
+[color=blue][B]This region is in control of the[/B][/color] [region]Bubble Buddies[/region]
+[color=red][B]Raiders that helped:[/B][/color]
 [nation]The Great Antarctic Penguins[/nation]
-[nation]Raidton Bravo[/nation]
+[nation]Raidton Alpha[/nation]
 [nation]Stillcloud[/nation]

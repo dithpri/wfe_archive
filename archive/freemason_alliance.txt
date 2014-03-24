@@ -11,7 +11,8 @@ Secretary of Defense
 WA delegate:
 [nation]Renato Nequam[/nation](DSP)
 
-Chief Of Staff: ...
+Chief Of Staff:
+[nation]polomosia[/nation]
 
 Secretory of the Army:
 [nation]Turtles08[/nation]
@@ -19,6 +20,7 @@ Secretory of the Army:
 Minister of the Interior:
 [nation]Candena[/nation]
 
-Minister of foreign relations: ...
+Minister of foreign relations:
+[nation]Scandanavianland[/nation]
 
 minister of recruitment: ... 

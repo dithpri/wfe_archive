@@ -14,7 +14,7 @@ Minister of the Interior: [nation=short]Evanicaland[/nation] (CPP)
 Minister of Recruitment: [nation=short]Arkorrnia[/nation] (CPP)
 Minister of Finance: [nation=short]Ethopolis[/nation] (CPP)
 Minister of Foreign Affairs: [nation=short]Nova Lydia[/nation] (NCC)
-Minister of Culture: TBA
+Minister of Culture: [nation=short]ImperialOverLord[/nation]
 [hr]
 [b]The High Court[/b]
 Chief Justice: [nation=short]Ionysia[/nation]

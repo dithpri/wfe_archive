@@ -13,6 +13,7 @@
 [color=#8B0000]Marshal: [nation=short]Gest[/nation][/color]
 [color=black]Marshal: [nation=short]Scooby-Doo[/nation][/color]
 [color=#8B0000]General: [nation=short]Camo5768[/nation][/color]
+[color=black]General: [nation=short]Bob Moran[/nation][/color]
 [hr]
 [color=#8B0000]Order of the Day[/color]
 

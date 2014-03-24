@@ -1,20 +1,7 @@
-[b][color=red]Hello and welcome to Austria![/color] - [color=black]Herzlich Willkomen in &Ouml;sterreich![/color][/b]
+[b][color=#000061]Huzzah! Huzzah! Huzzah! This region proved no match for a charge by [region=The Black Riders]![/color]
 
-Austria is a free and friendly region, neutral and independent, and warmly welcomes you!  
+[color=black]Occupied by [url=http://www.youtube.com/watch?v=qB1kp9adYYE]The Black Riders[/url]! Our lair can be found [/color] [url=http://s4.zetaboards.com/The_Black_Riders/index/]here[/url]
 
-[u]Government in Office:[/u] [b]SP&Ouml;[/b]
-
-[b]President[/b] - [nation=short]Austria United[/nation] 
-[b]Chancellor[/b] - [nation=short]Bregenz[/nation] 
-
-[b]Ministers:[/b]
-Foreign Affairs - [nation=short]Yakimon[/nation] 
-Defence - [nation=short]Reey[/nation] 
-Interior - [nation=short]The Austrian State[/nation]	
-Culture - [nation=short]Strudelhund[/nation] 
-Transportation - [nation=short]of United Silbania[/nation] 
-Finance - [nation=short]Leoben[/nation] 
-Education - [nation=short]Oesterreichisch-Ungarische Monarchie[/nation] 
-Forestry and Mining - [nation=short]Wien[/nation]
-
-We are eager to make new friends, and we hope you like Austria enough to stay!  Now how about a gl&uuml;hwein? 
+[color=#000061]Into the battle rode the following riders:[/color]
+[nation=short]Feuer Ritter[/nation]
+[nation=short]Coraxion[/nation][/b]

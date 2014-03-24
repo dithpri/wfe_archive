@@ -1,6 +1,6 @@
-[b]Defense Status[/b]: [color=Darkorange]DEFSTAT 3[/color] [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=288360]Operation Weedstomper[/url]
+[b]Defense Status[/b]: [color=Blue]DEFSTAT 4[/color] [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=288360]Operation Weedstomper[/url]
 
-[b]Latest News[/b]: Premier Iosif Bramanov sends General-Secretary Jana Lebedeva a bottle of the finest Krasniyan vodka for her birthday. :3
+[b]Latest News[/b]: [url=http://s2.postimg.org/t4h7ymnzt/examples.png]New IUWS Emblem and Flag proposed[/url] 
 
 [hr]
 
@@ -18,11 +18,13 @@
 
 [hr]
 
-[b]Developing Workers&amp;#39; States[/b] (&amp;lt;500 Million Citizens)
+[b]Developing Workers&amp;#39; States[/b]
 
 [nation=short]Biel-Tan[/nation]
 [nation=short]Puerto Cienfuegos[/nation]
 [nation=short]Krajstali[/nation]
 [nation=short]Arubiana[/nation]
 [nation=short]Lockiee[/nation]
-[nation=short]Nihon Kyowakoku[/nation]
+[nation]Slakia[/nation]
+[nation]Kavaii[/nation]
+[nation=short]Yuldouzistan[/nation]

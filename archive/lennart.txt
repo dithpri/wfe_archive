@@ -6,8 +6,6 @@ Main active Nations and Regions they reside in:
 
 [b][nation=short]Avalon[/nation][/b] in [i][region]The North Pacific[/region][/i].
 
-[b][nation=short]Free Canary Islands[/nation][/b] in [i][region]Democratic Socialist Assembly[/region][/i].
-
 [b][nation=short]Anglia[/nation][/b] in [i][region]United Kingdom[/region][/i].
 
 [hr][b]Peace[/b]
