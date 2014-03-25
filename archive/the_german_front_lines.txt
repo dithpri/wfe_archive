@@ -5,3 +5,4 @@ Army:
 
 Hans M&uuml;sser, Reichsmarschall und F&uuml;hrer [Nation=short]Germanian Nation[/nation]
 [nation=short]Adrian Einwelt[/nation], Der Generalfeldmarschall von Der Ost
+[name], Brigadef&uuml;hrer, [nation=WestPrussian Might]

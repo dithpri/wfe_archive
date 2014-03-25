@@ -4,11 +4,10 @@ Passion, yet serenity.
 Chaos, yet harmony.
 [b]Death, yet the Force.[/b][/i][/color]
 
-[b][color=purple]A Jedi shall have neither hate... nor anger... nor love.[/color][/b]
+[b][color=purple]A Jedi shall not know hate... nor anger... nor love.[/color][/b]
 
 Grand Jedi Master:[nation=short+noflag]Jedi Clarinetists[/nation]
-Jedi Council: [nation=short+noflag]Jedi Clarinetists[/nation], [nation=short+noflag]CT-7567[/nation], [nation=short+noflag]Huyang[/nation], [nation=short+noflag]NewJediOrder[/nation]
+Jedi Council: [nation=short+noflag]Jedi Clarinetists[/nation], [nation=short+noflag]CT-7567[/nation], [nation=short+noflag]NewJediOrder[/nation]
 Jedi Master: 
 Jedi Knight:[nation=short+noflag]Mace Windy[/nation], [nation=short+noflag]Caedus[/nation], [nation=short+noflag]Kryze-Tachi-Calwell[/nation]
-Padawan Learner: 
-Jedi Initiate:
+Padawan Learner: [nation=short+noflag]Temperscurant[/nation], [nation=short+noflag]The Independent Jedi Order[/nation]

@@ -5,8 +5,8 @@ General:
 Knights: [nation=short]TheValkyries[/nation]
 
 [b][u]The Horseman[/u][/b]
-General:
-Horseman: [nation=short]Callis[/nation]
+General: [nation=short]The Dorkliest Kingdom of Rah[/nation]
+Horseman:
 
 [b][u]The Cavalry[/u][/b]
 General: [nation=short]Asilian[/nation]

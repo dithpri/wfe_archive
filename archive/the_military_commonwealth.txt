@@ -4,7 +4,7 @@ King: [nation]The Great European Commonwealth[/nation]
 [color=blue]WA delegate:[/color] [nation]Marabelle[/nation]
 
 [color=red]Prime Minister:[/color] [nation]Marabelle[/nation]
-[color=red]Deputy Prime Minister:[/color] Vacant
+[color=red]Deputy Prime Minister:[/color] [nation]Drasolopia[/nation]
 [color=red]Minister of Defence:[/color] Vacant
 [color=green]Minister of Foreign Affairs:[/color] Vacant
 [color=green]Minister of Commonwealth Affairs:[/color] Vacant

@@ -5,6 +5,8 @@
 President:
 [nation]Rocknation10[/nation](DSP)
 
+Vice president:
+
 Secretary of Defense
 [nation]The superlative Empire[/nation](DSP)
 
@@ -23,4 +25,4 @@ Minister of the Interior:
 Minister of foreign relations:
 [nation]Scandanavianland[/nation]
 
-minister of recruitment: ... 
+Attorney general: ( vote )

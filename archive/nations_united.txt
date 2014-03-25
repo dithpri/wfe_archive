@@ -3,7 +3,7 @@ President: [nation]Qubec[/nation]
 Vice President: [nation]Empire of Numerio[/nation]
 Secretary of Defense: [nation]Khalahar[/nation]
 Secretary of Affairs: [nation]Ambassador of Memoriabalia[/nation]
-WA Delegate: Vacant
+WA Delegate: [I]Vacant[/I]
 ______________________________________________________________________________________________________________________________________
 
 [b]Region Security[/b]
