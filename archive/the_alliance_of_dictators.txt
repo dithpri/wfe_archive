@@ -7,7 +7,7 @@ ALLIES
 [region]The Axis of Evil[/region] 
 
 MINISTERS
-War: [nation]Tolstonia[/nation] 
+War: [nation]Chad Empire[/nation] 
 Totalitarian Spirit: [nation]Stojanistein[/nation]
 Foreign Affairs: [nation]Valcouria[/nation]
 Internal Affairs: [nation]The Mighty Hyena[/nation]

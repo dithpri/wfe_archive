@@ -1,12 +1,14 @@
 [color=F10000][b][i]Welcome, citizen! We are a democratic region dedicated to catering to YOUR needs. Everyone votes, and everyone gets what they want. Enjoy our fun and vibrant region![/i][/b][/color]
 
-[color=123456]Count: [nation=short]Stellam[/nation]
-visCount: [nation=short]Severslavia[/nation]
+RECOMMENDED: [url=http://forum.nationstates.net/viewtopic.php?f=15&amp;amp;t=243404]Click HERE[/url] to download NationStates++, a free browser extension that greatly improves your NationStates experience.
+
+[color=123456]Count: Not Elected Yet (NEY)
+visCount: Not Elected Yet (NEY)
 Chancellor: Not Elected Yet (NEY)
 Deputy Chancellor: Not Elected Yet (NEY)
-Assembly Members: All Member Nations (AMN)[/color]
+[b]Assembly Members: All Member Nations (AMN)[/b][/color]
 
-MAMNARR (Military, Airforce, Marines, and Navy Action Readiness Requirement) Level: 3 (1 being most ready, 5 the least).
+MAMNARR (Military, Airforce, Marines, and Navy Action Readiness Requirement) Level: 5 (1 being most ready, 5 the least).
 
 Funding:
  - Education 42%

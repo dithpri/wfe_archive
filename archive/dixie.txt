@@ -1,8 +1,11 @@
-[b][color=#000061]Huzzah! Huzzah! Huzzah! [region=The Black Riders] proved no match for a charge by our [url=http://www.youtube.com/watch?v=qB1kp9adYYE]Liberation Amry[/url]![/color]
+[b][color=#000061]Hurrah! Hurrah! Hurrah! This region has been liberated from [region=The Black Riders]![/color]
 
-[color=black]Liberated by [region=The White Raiders]![/color]
+[color=#000061]Into the battlefield is the following liberators [/color]
 
-[color=#000061]Into the battle rode the following raiders:[/color]
-[nation=short]The Fourth Great Jonathania[/nation]
-[nation=short]Arpi Gregi[/nation]
+[nation]KaiserAdolf[/nation]
+[nation]Talorin[/nation]
+
+LIBERATED
+LIBERATED
+LIBERATED
 [/b]
