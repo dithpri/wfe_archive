@@ -1,11 +1,11 @@
 WELCOME TO THE U.O.C
 
-Supreme Chancellor: Pentarora
-Prime Minister: D and OLP
-Vice Minister:
-U.O.C. Regional Congress:
+Supreme Chancellor:[nation=short]Pentarora[/nation]
+Prime Minister:[nation=short]D and OLP[/nation]
+Vice Minister:[nation=short]North Mystery[/nation]
+U.O.C. Regional Congress: All Nations in U.O.C.
 Puppet States:
-Embassy Master:
+Embassy Master:[nation=short]Northern Rysaysia[/nation]
 
 Confederation Forces:
 Commander In Chief:

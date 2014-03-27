@@ -1,6 +1,10 @@
-[b]Defense Status[/b]: [color=Blue]DEFSTAT 4[/color]
+[i]Welcome to the [color=cc0000]International Union of Workers&amp;#39; States[/color], also known as the IUWS, or the Workers&amp;#39; Union. We are a serious roleplaying region, dedicated to Marxism-Leninism, and opposed to capitalism, fascism and imperialism. Slava Soyuzu![/i]
 
-[b]Latest News[/b]: Economic crisis in [nation=short]Czervenika[/nation], capitalist sabotage suspected; [url=http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=289027]Vukovgrad Blues[/url]
+[hr]
+
+[b]Defense Status[/b]: [color=blue]DEFSTAT 4[/color]
+
+[b]Latest News[/b]: Iosif Bramanov and Joz&eacute;f Kranz arrive in [nation=short]Czervenika[/nation]; [url=http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=289027]Vukovgrad Blues[/url]
 
 [hr]
 
@@ -15,6 +19,8 @@
 
 [nation]Batorvidek[/nation]
 [nation]Peihan[/nation]
+[nation]Slakia[/nation]
+[nation]Kavaii[/nation]
 
 [hr]
 
@@ -25,10 +31,4 @@
 [nation=short]Krajstali[/nation]
 [nation=short]Arubiana[/nation]
 [nation=short]Lockiee[/nation]
-[nation]Slakia[/nation]
-[nation]Kavaii[/nation]
 [nation=short]Yuldouzistan[/nation]
-
-[hr]
-
-[i]This region has been free of Batorvideki Civil Wars for [/i][b][color=blue]16[/color] days[/b]

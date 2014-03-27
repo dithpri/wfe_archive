@@ -15,6 +15,6 @@ This is a region for all Christians to come together for a good, safe NationStat
 [*][color=orange]ORANGE[/color] - Threatened
 [*][color=red]RED[/color] - Invasion/Lockdown
 [/list]
-[b]Current Level:[/b] [color=orange]ORANGE[/color]
+[b]Current Level:[/b] [color=green]GREEN[/color]
 [hr][b][u][color=blue]News[/b][/u][/color]
 [b][color=red]TCP is now a CU Territory![/b][/color]

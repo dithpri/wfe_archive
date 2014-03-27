@@ -1,7 +1,6 @@
-[B]A Strong city of Trade in [region]Poland[/region], this is a wonderful city on the baltic sea near Gdansk.[/B]
+[color=red][B]A Strong city of Trade in [region]Poland[/region], this is a wonderful city on the Baltic sea near Gdansk.[/B]
+[/color]
 
 [hr]
-
-[B][color=red]Miasto handlu w Polsce, jest to cudowne miasto nad morzem baltyckim niedaleko Gdanska.[/color][/B]
 
 [color=gold]This region is being protected by [region]The Darwin Allied Republics[/region].[/color]
