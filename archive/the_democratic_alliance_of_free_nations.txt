@@ -2,13 +2,11 @@
 
 RECOMMENDED: [url=http://forum.nationstates.net/viewtopic.php?f=15&amp;amp;t=243404]Click HERE[/url] to download NationStates++, a free browser extension that greatly improves your NationStates experience.
 
-[color=123456]Count: Not Elected Yet (NEY)
-visCount: Not Elected Yet (NEY)
-Chancellor: Not Elected Yet (NEY)
-Deputy Chancellor: Not Elected Yet (NEY)
+[color=123456]Count: [nation=shortnoflag]Valloria[/nation]
+visCount: [nation=shortnoflag]South-branch[/nation]
+Chancellor: [nation=shortnoflag]Mecklenburg-stelitz[/nation]
+Deputy Chancellor: [nation=shortnoflag]Stellam[/nation]
 [b]Assembly Members: All Member Nations (AMN)[/b][/color]
-
-MAMNARR (Military, Airforce, Marines, and Navy Action Readiness Requirement) Level: 5 (1 being most ready, 5 the least).
 
 Funding:
  - Education 42%

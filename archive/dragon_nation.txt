@@ -1,6 +1,6 @@
 Leadership
 1.Leader [nation]God King David[/nation],[nation]ShadowVeiled[/nation],[nation]Elysium Of Heroes[/nation]
-2.Executive President [nation]Elysium Of Heroes[/nation]
+2.Executive President [nation]Lord Trenk[/nation]
 3.Executive Vice President [nation]Awesome Sauce Bro[/nation]
 4.Executive Treasurer [nation]Galamence[/nation]
 5.President of Ministry [nation]God King David[/nation]
@@ -10,8 +10,8 @@ Ministry
 3.Minister:Commerce:
 4.Minister:Transport
 5.Minister:Health/Environment 
-6.Minister:Law/Order [nation]God King David[/nation]
-7.Minister:Education/Science 
+6.Minister:Law/Order 
+7.Minister:Education/Science [nation]Awesome Sauce Bro[/nation]
 8.Minister:Agriculture
 9.Minister:Interstellar business:[nation]Elysium Of Heroes[/nation]
 10.Minister:Religions [nation]Elysium Of Heroes[/nation]

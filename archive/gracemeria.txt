@@ -2,9 +2,6 @@ A region devoted to maintaining peace through law &amp;amp; order and superior m
 
 [b]Those wishing to reside in Gracemeria must Telegram the Regional Delegate for the password.[/b]
 
-[u][color=blue]Requesting Military Intervention[/color][/u] 
-Any region that wishes to request military assistance from Gracemeria must first establish an embassy. Once established, contact the Commander of Regional Military Forces.
-
 [u]Gracemerian War Council[/u]
 Commander of Regional Military Forces &amp;amp; S.W.O.R.D.  
 [nation]Oblitus bellatorum[/nation] 
@@ -13,6 +10,10 @@ Strategic Advisors:
 [nation]Galactic Federation of Free Alliances[/nation]
 
 [nation]The Gracemerian Guard[/nation]
+
+Head of Regional Logistics:
+
+[nation]FierceTiger[/nation] 
 
 S.W.O.R.D. Units:
 [nation]The 101st Gracemerian Auxiliary Force[/nation]

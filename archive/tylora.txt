@@ -1,13 +1,13 @@
 [color=darkgreen][b]Welcome to [region]Tylora[/region] World Headquarters![/b][/color] 
 
-[i][color=darkred]The center of world trade.  We are a consumerist-fascist region[/i][/color]
+[i][color=darkred]The center of world trade.  We are a consumerist-fascist region![/i][/color]
 [hr]
 [b][color=blue]Executive Staff[/b][/color]
 [*][color=red]Chief Executive Officer: [nation=short]tylora[/nation]
 [*]Chief Operations Officer: Open
 [*]Chief Financial Officer: Open
 [*]Chief Technical Officer: Open
-[*]Chief Information Officer: Open
+[*]Chief Information Officer: [nation=short]Oman under Dictation[/nation]
 [*]Chief Recruitment Officer: Open[/color]
 
 [b][color=blue]Board Of Directors[/b][/color]

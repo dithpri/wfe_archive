@@ -1,16 +1,13 @@
-Welcome to The Republic of nations, a place of nations that are united under a republic.
-
-[b]Regional Alertness:[/b] [color=green]Green[/color]
-[Color=green]Green[/color]: All is Clear
-[Color=yellow]Yellow[/color]: There is some disturbance, Stay Alert
-[Color=orange]Orange[/color]: A minor Threat detected
-[Color=red]Red[/color]: A Major threat detected
+Welcome to The Republic of Nations, a place of nations that are united under a republic.
 
 [B]The Regional Senate:[/b]
 Emperor:[nation=short]Talorin[/nation]
 Councilman1:&amp;lt;vote starts soon&amp;gt;
 Councilman2:&amp;lt;vote start soon&amp;gt;
 Councilman3:&amp;lt;Vote start soon&amp;gt;
-Regional WA Representative:
 
-Work in progress...
+[b]Regional Alertness:[/b] [color=green]Green[/color]
+[Color=green]Green[/color]: All is Clear
+[Color=yellow]Yellow[/color]: There is some disturbance, Stay Alert
+[Color=orange]Orange[/color]: A minor Threat detected
+[Color=red]Red[/color]: A Major threat detected
