@@ -13,7 +13,6 @@
 [nation=short]the federal telecommunications bureau[/nation]
 [b][u]Recruitment Bureau[/b][/u]
 [nation=short]ruiru[/nation] [b](Chairman)[/b]
-[nation=short]haigford[/nation]
 [b][u]Chief Communications Officer[/b][/u] 
 [nation=short]Winovia[/nation]
 [b][u]Supreme Judicial Court[/b][/u]

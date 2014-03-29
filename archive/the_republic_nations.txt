@@ -10,10 +10,9 @@
    [B]Founder:[/b] [nation=vindex nation]
    [b]WA delegate:[/b] [nation]supreme leader Kim Jong un[/nation]
    [b]Delegate of the Assembly:[/b] [b]OPEN[/B]
-   [b]Secretary of Defence:[/b] [nation]yoteg[/nation]
+   [b]Secretary of Defence:[/b] [nation]open[/nation]
    [b]Secretary of the Press:[/b] [nation=united_planetary_defence]
- [b]RNAF Commander:[/b] [nation=Flakaland]
-[b]Liberation Commander:[/b] [nation=yoteg]
+ [b]RNAF Commander:[/b] [nation=Yoteg]
    [b]Ambassador:[/b] [nation=anterina]
    [b]Head of Intelligence:[/b] Open
 

@@ -3,7 +3,7 @@ President:[nation]Benconomy II[/nation]
 Prime Minister: [nation]Orbatorkis[/nation]
 Officer of Technology: TBA
 Minister of Defense: [nation]Gunstupia[/nation]
-Diplomat: TBA (please telegram Stormaway)
+Diplomat: [nation]Her Majesty The Queen of Pencils[/nation]
 Social Advisor: TBA
 Dictatoral Representative: [nation]Miles Visconti[/nation]
 Drama Director: [nation]Tevye[/nation]
@@ -11,3 +11,4 @@ Social Skills Officer: TBA
 Economy Supervisor: [nation]Economy Is Our Life[/nation]
 Animal Head: [nation]Moronic Cows[/nation]
 Head Torturer: [nation]Murderous Pencils[/nation]
+Navigator: [nation]Chloropleth[/nation]
