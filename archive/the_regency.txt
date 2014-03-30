@@ -1,19 +1,9 @@
 [b][u]The Regency Political Structure[/u][/b]
 
-[nation]Albicia[/nation]: [color=purple]Regent and Minster for Education and Spirituality[/color]
+[nation]Alynor[/nation]: [color=purple]Regent, Minster for Defence and Culture, Minster for Freedom and the Environment, Minster for Interregional Affairs and Foreign Affairs, Minister for Internal Affairs, Minster for Science and Health[/color]
 
-[nation]The Universal Imperium[/nation]: [color=silver]Vice Regent and Minster for Defence and Culture[/color]
+[nation]Albicia[/nation]: [color=silver]Vice Regent and Chief Justice[/color]
 
-[nation]Khaleesi[/nation]: [color=pink] Minster for Freedom and the Environment [/color] 
-
-[nation]New Morrowind[/nation]: [color=blue] Minster for Interregional Affairs and Foreign Affairs[/color]
-
-[nation]Populus Anglicus[/nation]: [color=gold]Minster for Science, Health[/color]
-
-[nation]Havanah[/nation]: [color=chartreuse]Chief Justice[/color]
-
-[nation]the Defender of Faith[/nation]: [color=navy]Minister for Internal Affairs[/color]
-
-[nation]Cotopia[/nation]: [color=red]Treasurer[/color], [color=magenta]Speaker of the House[/color]
+[nation]Cotopia[/nation]: [color=red]Treasurer[/color] and [color=magenta]Speaker of the House[/color]
 
 The Regional [url=http://w11.zetaboards.com/The_Regency/index/]Forums[/url]

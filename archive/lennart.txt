@@ -1,11 +1,9 @@
-[b]Welcome to the Palace of [nation=short+noflag]Lennart[/nation]: King of many lands, honourable citizen of a few regions.[/b]
+[b]Welcome to the Palace of [nation=short+noflag]Lennart[/nation].[/b]
 
 [hr]
 
-Main active Nations and Regions they reside in:
+Main Nation:
 
 [b][nation=short]Avalon[/nation][/b] in [i][region]The North Pacific[/region][/i].
-
-[b][nation=short]Anglia[/nation][/b] in [i][region]United Kingdom[/region][/i].
 
 [hr][b]Peace[/b]

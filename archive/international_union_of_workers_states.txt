@@ -2,9 +2,9 @@
 
 [hr]
 
-[b]Defense Status[/b]: [color=blue]DEFSTAT 4[/color]
+[b]Defense Status[/b]: [color=blue]DEFSTAT 4[/color] [url=http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=289027]Vukovgrad Blues[/url]
 
-[b]Latest News[/b]: Iosif Bramanov and Joz&eacute;f Kranz arrive in [nation=short]Czervenika[/nation]; [url=http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=289027]Vukovgrad Blues[/url]
+[b]Latest News[/b]: [i]Breaking Bad: Krasniya[/i] ends after one episode due to free healthcare.
 
 [hr]
 
@@ -30,5 +30,4 @@
 [nation=short]Puerto Cienfuegos[/nation]
 [nation=short]Krajstali[/nation]
 [nation=short]Arubiana[/nation]
-[nation=short]Lockiee[/nation]
 [nation=short]Yuldouzistan[/nation]

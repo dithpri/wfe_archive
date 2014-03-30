@@ -2,7 +2,7 @@
 Commander: [nation=short]General Probon[/nation]
 Marshal:
 General:
-Knights: [nation=short]TheValkyries[/nation]
+Knights: [nation=short]TheValkyries[/nation], [nation=short]Kaldona[/nation]
 
 [b][u]The Horseman[/u][/b]
 General: [nation=short]The Dorkliest Kingdom of Rah[/nation]

@@ -1,4 +1,4 @@
-[region]The blendi ahmetaj[/region]
+[nation]The blendi ahmetaj[/nation]
 
-Prime minister:[region] blendi ahmetaj[/region] 
- King:[region]Kosovo World[/region]
+Prime minister:[nation]blendi ahmetaj[/nation] 
+ King:[nation]Kosovo World[/nation]
