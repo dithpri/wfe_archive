@@ -8,8 +8,8 @@
 [b]Provisional Government:[/b]
 [color=red]Emperor: [nation=short]Shelk[/nation]
 Prime Minister: Vacant
-Minister of War: Vacant
+Minister of War: [nation]Soviets Republic[/nation]
 Minister of the Interior: Vacant
-Minister if Diplomacy: Vacant[/color]
+Minister of Diplomacy: [nation]Great State of Christopia[/nation][/color]
 
 [b][u][i]Enjoy your stay[/i][/b][/u]

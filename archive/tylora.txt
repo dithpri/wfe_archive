@@ -11,8 +11,12 @@
 [*]Chief Recruitment Officer: Open[/color]
 
 [b][color=blue]Board Of Directors[/b][/color]
+[*][nation=short]Tylora[/nation]
+[*][nation=short]Oman under Dictation[/nation]
+[*][nation=short]United Commonwealth of the Mountains[/nation]
 
 [b][color=blue]World Assembly, Inc Shareholders[/b][/color]
 [color=red]This is everyone in the World Assembly.[/color]
 
 [b][color=blue]Fascist Pasty Members[/b][/color]
+[color=red]This is everyone in the region![/color]

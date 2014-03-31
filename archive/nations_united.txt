@@ -9,7 +9,7 @@ ________________________________________________________________________________
 [b]Region Security[/b]
 DEFCON: [color=green]5[/color]
 Borders: [color=green]Open[/color]
-Threat Level: [color=green]Low[/color]
+Threat Level: [color=yellow]Elevated[/color]
 
 [b]Regional Emergency Alert System:[/b]
 [I]no alerts[/i]

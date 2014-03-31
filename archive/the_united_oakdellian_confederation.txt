@@ -9,7 +9,7 @@ Embassy Master:[nation=short]Northern Rysaysia[/nation]
 
 [b]Confederation Forces:[/b]
 Commander In Chief:
-Vice Commander:
+Vice Commander:[nation=short]Me No Happy-Ville[/nation]
 Forces:
 
 [hr]

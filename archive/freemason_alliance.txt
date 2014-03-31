@@ -5,7 +5,9 @@
 President:
 [nation]Rocknation10[/nation](DSP)
 
-Vice president:
+Vice president: 
+[nation]Afrite[/nation]&nbsp;
+
 
 Secretary of Defense
 [nation]The superlative Empire[/nation](DSP)
