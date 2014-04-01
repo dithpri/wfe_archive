@@ -1,36 +1,35 @@
 [b]Defense Status[/b]: [color=blue]DEFSTAT 4[/color] [url=http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=289027]Vukovgrad Blues[/url]
 
-[b]Latest News[/b]: Elections for Federative Workers&amp;#39; State (WA Delegate) begin tomorrow, 1st of April 2014.
+[b]Latest News[/b]: Elections for Federative Workers&amp;#39; State (WA Delegate) underway.
 
 [hr]
 
 [b]Federative Workers&amp;#39; States[/b]
 
-[nation]Krasniya[/nation]
-[nation]Czervenika[/nation]
+[nation=noflag]Krasniya[/nation]
+[nation=noflag]Czervenika[/nation]
 
 [hr]
 
 [b]Workers&amp;#39; States[/b]
 
-[nation]Batorvidek[/nation]
-[nation]Peihan[/nation]
-[nation]Slakia[/nation]
-[nation]Kavaii[/nation]
+[nation=noflag]Batorvidek[/nation]
+[nation=noflag]Peihan[/nation]
+[nation=noflag]Slakia[/nation]
+[nation=noflag]Kavaii[/nation]
 
 [hr]
 
 [b]Developing Workers&amp;#39; States[/b]
 
-[nation=short]Biel-Tan[/nation]
-[nation=short]Puerto Cienfuegos[/nation]
-[nation=short]Krajstali[/nation]
-[nation=short]Arubiana[/nation]
-[nation=short]Yuldouzistan[/nation]
+[nation=short+noflag]Biel-Tan[/nation]
+[nation=short+noflag]Puerto Cienfuegos[/nation]
+[nation=short+noflag]Krajstali[/nation]
+[nation=short+noflag]Arubiana[/nation]
+[nation=short+noflag]Yuldouzistan[/nation]
 
 [hr]
 
 [b]Autonomous Workers&amp;#39; States[/b]
 
-[nation=short]Lockiee[/nation] - [region]Lockiee and Xaraian[/region]
-[nation=short]Xaraian[/nation] - [region]Lockiee and Xaraian[/region]
+[url=/region=transcaucasian_aws]The Autonomous Workers&amp;#39; State of Transcaucasia[/url]

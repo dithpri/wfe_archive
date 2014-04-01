@@ -10,4 +10,4 @@ Grand Jedi Master:[nation=short+noflag]Jedi Clarinetists[/nation]
 Jedi Council: [nation=short+noflag]Jedi Clarinetists[/nation], [nation=short+noflag]CT-7567[/nation], [nation=short+noflag]NewJediOrder[/nation]
 Jedi Master: 
 Jedi Knight:[nation=short+noflag]Mace Windy[/nation], [nation=short+noflag]Caedus[/nation], [nation=short+noflag]Kryze-Tachi-Calwell[/nation]
-Padawan Learner: [nation=short+noflag]Temperscurant[/nation], [nation=short+noflag]The Independent Jedi Order[/nation]
+Padawan Learner: [nation=short+noflag]Temperscurant[/nation], [nation=short+noflag]The Independent Jedi Order[/nation], [nation=short+noflag]Youngling Jedi[/nation]
