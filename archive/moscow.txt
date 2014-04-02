@@ -2,5 +2,6 @@
 
 Moscow is an [url=http://www.nationstates.net/nation=eastern_european_nations/detail=factbook/id=35846]overseas territory[/url] of [region]Leninist Russia[/region]
 
-Ruler: [nation]eastern european nations[/nation]
-Regional Administrator: [nation=short]-rasputin-[/nation]
+[b]Imperatrix:[/b] [nation]eastern european nations[/nation]
+[b]Regional Administrator:[/b] [nation=short]leninist_russian_envoys[/nation]
+[b]Gatekeeper:[/b] [nation=short]-rasputin-[/nation]

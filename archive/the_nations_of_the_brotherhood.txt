@@ -1,6 +1,5 @@
-*[color=red]ALL WA Nations MUST endorse our WA Delegate, [nation]Northern Union of Lenton[/nation][/color]*
-[color=red]Endorsement cap for other nations[/color]: 1
-[color=red]Any nation that attempts to seize the spot of WA Delegate from [nation]Northern Union of Lenton[/nation] will be banned from the region[/color].
+*[color=blue]ALL WA Nations MUST endorse our WA Delegate, [nation]Northern Union of Lenton[/nation][/color]*
+[color=blue]Endorsement cap for other nations[/color]: 1
 
 [color=red]Government[/color]
 [color=blue]Founder: [nation]The Multiple Void[/nation][/color]
@@ -8,3 +7,5 @@
 
 
 The 2039 [region]Nations of the Brotherhood[/region] Annual Economic Meeting will be held in [nation]Northern Union of Lenton[/nation] on April 5. Attending nations are expected to state their top industry in their economy, how their economy is doing, and what products they have to trade with nations in the region.
+
+[color=blue]Start mining ByteCoins![/color]

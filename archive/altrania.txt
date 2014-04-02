@@ -7,10 +7,10 @@ Presidents:
 
 President of Capitalism: [nation]United weerribben[/nation]
 President of Commun/Socialism: *none*
-President of Dictatorship: *none*
+President of Dictatorship: [nation]Uzbitchistan[/nation]
 President of Monarchy: [nation]Ibo-Biafra[/nation]
-President of Anarchism: *none*
-President of Facism: *none*
+President of Anarchism: [nation]Yutaz[/nation]
+President of Fascism: [nation]Marshaf[/nation]
 
 Map:
 

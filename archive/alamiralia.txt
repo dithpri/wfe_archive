@@ -6,8 +6,8 @@ Telegram [nation]Haltioiden[/nation] with any questions about joining or any que
 Regional Government:
 President/WA Delegate: [nation=short]North America and Great Britain[/nation]
 Prime Minister: [nation=short]Haltioiden[/nation]
-Minister of Defense: [nation]Belderous[/nation]
-Minister of Foreign Affairs: [I]Vacant[/I]
+Minister of Defense: [nation=short]Belderous[/nation]
+Minister of Foreign Affairs: [nation=short]The Conez Imperium[/nation]
 Minister of Finance: [I]Vacant[/I]
 Minister of Recruiting: [I]Vacant[/I]
 

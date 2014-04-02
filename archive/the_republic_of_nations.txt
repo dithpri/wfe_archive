@@ -4,7 +4,7 @@ Welcome to The Republic of Nations, a place of nations that are united under a r
 Emperor:[nation=short]Talorin[/nation]
 Councilman1:&amp;lt;vote starts soon&amp;gt;
 Councilman2:&amp;lt;vote start soon&amp;gt;
-Councilman3:&amp;lt;Vote start soon&amp;gt;
+Councilman3:&amp;lt;vote start soon&amp;gt;
 
 [b]Regional Alertness:[/b] [color=green]Green[/color]
 [Color=green]Green[/color]: All is Clear

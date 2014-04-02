@@ -1,8 +1,8 @@
 The Zollverein or German Customs Union was a coalition of German and Nordic states formed to manage tariffs and economic policies within their territories. Organised by the 1833 Zollverein treaties, the Zollverein formally came into existence on 1 January 1834.
 
-Founder : [nation]Sweden-Scandinavia[/nation]
+Founder : [nation]Sweden-Scandinavia[/nation] , [nation]sachsen_zu_leipzig[/nation] 
 
-World Assembly Delegate : VACANT
+World Assembly Delegate : [nation]sachsen_zu_leipzig[/nation] 
 
 Members : [nation]Sweden-Scandinavia[/nation] , [nation]sachsen_zu_leipzig[/nation] 
 

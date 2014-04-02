@@ -9,9 +9,12 @@ SecDef: [nation]Gasyuu[/nation]
 Senate:
 [nation]the Anean Tribes[/nation]
 [nation]the united remnants of america[/nation]
+TBA
 
 High Court
 [nation]DardoIllyria[/nation]
+TBA
+TBA
 
 Cartographer:
 [nation]USOM[/nation][/color]
