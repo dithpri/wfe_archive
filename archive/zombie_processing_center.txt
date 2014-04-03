@@ -3,6 +3,6 @@ A Zombie-Apocalypse themed protectorate of [region]The Allied States of the Camp
 Founded preemptively for the next apocalypse, this region is to act as a clearing ground for nations before being allowed to move on,
 
 [b]Defense Condition:[/b]
-[color=green]DEFCON 3- No threat[/color] | [color=orange]DEFCON 2- Attack possible[/color] | [u][b][color=red]DEFCON 1- Apocalypse imminent[/color][/b][/u]
+[b][u][color=green]DEFCON 3- Minimal threat[/color][/u][/b] | [color=orange]DEFCON 2- Attack possible[/color] | [color=red]DEFCON 1- Apocalypse imminent[/color]
 
-[b]April fools is underway! Keep your bytecoins with [nation]Jenlom[/nation] for safekeeping. [/b]
+[b]Congratulations on another successful year. All residents are to resume normal duties[/b]

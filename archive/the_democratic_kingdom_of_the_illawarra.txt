@@ -1,15 +1,17 @@
-[b][i][color=teal]Knights of the Square Table:[/color][/i][/b]
+[b][i][color=teal]The United Union:[/color][/i][/b]
 
-[b]Vice-Regent:[/b] [nation=short]Crucania[/nation]
-[b]Secretary of Estate:[/b] [nation=short]Arvenarius[/nation]
-[b]Chief of Servants:[/b] [nation=short]Dabeni[/nation]
-[b]Governor of Texas:[/b] [nation=short]Edrapuria[/nation]
-[b]Governor of California:[/b] [nation=short]Bryndonesia[/nation]
-[b]President of Russia: [/b] [nation=short]Sussia[/nation]
-[b]Amir al-Mu&amp;#39;minin:[/b] [nation=short]YaAllah[/nation]
+[b]Prime President:[/b] [nation=short]Conwy-shire[/nation]
+[b][color=#CC0000]M[/color][color=#C00C00]i[/color][color=#B41800]n[/color][color=#A82400]i[/color][color=#9C3000]s[/color][color=#903C00]t[/color][color=#844800]e[/color][color=#785400]r[/color][color=#6C6000] [/color][color=#606C00]o[/color][color=#547800]f[/color][color=#488400] [/color][color=#3C9000]L[/color][color=#309C00]o[/color][color=#24A800]v[/color][color=#18B400]e[/color][color=#0CC000]:[/color][/b] [nation=short]Arvenarius[/nation]
+[b]Shadowy Treasurer:[/b] [nation=short]Marrow Wind[/nation]
+[b]Minister of 4Chan and Snapchat:[/b] [nation=short]Crucania[/nation]
+[b]Head of the ISU:[/b] [nation=short]Bryndonesia[/nation]
+[b]Head of Interior Affairs: [/b] [nation=short]Edrapuria[/nation]
+[b]Head of Foreign Affairs:[/b] [nation=short]YaAllah[/nation]
 [b]Founder of the Internet: [/b][nation=short]Googlism[/nation]
 
 [b][i][color=teal]Breaking News:[/color][/i][/b] 
+
+- [color=green][nation]Sussia[/nation] became Delegate, and there was much rejoicing[/color]
 
 - [color=green][nation]Markham[/nation] and [nation]Edrapuria[/nation] tie in the unofficial best speech of the week award[/color]
 

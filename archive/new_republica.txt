@@ -7,13 +7,13 @@ SecState: [nation]Flattnerk[/nation]
 SecDef: [nation]Gasyuu[/nation]
 
 Senate:
-[nation]the Anean Tribes[/nation]
 [nation]the united remnants of america[/nation]
+TBA
 TBA
 
 High Court
-[nation]DardoIllyria[/nation]
-TBA
+[nation]the anean tribes[/nation]
+[nation]Ius[/nation]
 TBA
 
 Cartographer:

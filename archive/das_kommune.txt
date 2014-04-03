@@ -6,8 +6,8 @@
 
 [u]Government[/u]
 Delegate: [nation=short]Communist Bloodia[/nation](LO)
-Commissar of Foreign Affairs: [nation=short]New Akkadian[/nation](LO)
-Commissar of Internal Affairs: [nation=short]Wurcafsia[/nation](I)
+Commissar of Foreign Affairs:
+Commissar of Internal Affairs: [nation=short]Soviet East Japan[/nation](GM)
 Commissar of Justice: [nation=short]K oyena[/nation](PARP)
 Commissar of Intelligence:[nation=short]Arctiscandia[/nation](LO)
 Commissar of Defense:[nation=short]Albul[/nation](LO)

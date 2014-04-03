@@ -10,7 +10,7 @@
 [color=green]MoFA: [nation=short+noflag]The Federal Republic of Simonia[/nation][/color]
 [color=brown]Forum Mod: [nation=short+noflag]Pinatas[/nation][/color]
 [color=green]RP Mentor: [nation=short+noflag]Darwinish Brentsylvania[/nation][/color]
-[color=brown]Senators: [nation=short+noflag]Darwinish Brentsylvania[/nation], [nation=short+noflag]Celestis Union[/nation], [nation=short+noflag]Bluuurg[/nation], [nation=short+noflag]Fishhawk[/nation], [nation=short+noflag]Fendon[/nation][/color]
+[color=brown]Senators: [nation=short+noflag]Darwinish Brentsylvania[/nation], [nation=short+noflag]Celestis Union[/nation], [nation=short+noflag]Bluuurg[/nation], [nation=short+noflag]Fendon[/nation][/color]
 
 [hr]
 

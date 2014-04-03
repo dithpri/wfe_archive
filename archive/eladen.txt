@@ -10,7 +10,7 @@ Population: 178th
 
 Smartest: 772nd
 Culture: 684th
-Public Transport: 143rd
+Public Transport: 134th
 
 Defense: 26th
 Armed: 153rd
@@ -22,7 +22,7 @@ Economy: 50th
 Fishing: [color=orange][b]5th[/b][/color]
 Arms: 12th
 Beverage: [color=orange][b]8th[/color][/b]
-Mining: 17th
+Mining: 14th
 Agriculture: [color=orange][b]7th[/color][/b]
 Publishing: 17th
 Auto: [color=orange][b]5th[/b][/color]
