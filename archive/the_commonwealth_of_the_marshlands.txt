@@ -1,6 +1,6 @@
-[color=green]Welcome to the Marshlands, home to the countries that now make up the former Marshlandian Empire.[/color]
+[color=blue]Welcome to the Marshlands, home to the countries that now make up the former Marshlandian Empire.[/color]
 
-[color=blue]If you are a member of the World Assembly, please endorse the current Prime Minister, [nation=Arendell].[/color]
+[color=green]If you are a member of the World Assembly, please endorse the current Prime Minister, [nation=Arendell].[/color]
 
 [color=red]Check out our Regional Map[/color] WIP
 
@@ -12,6 +12,7 @@
 [b]-The Minister of Defense:[/b] [nation]Deblantis[/nation]
 [b]-The Minister of Foreign Affairs:[/b] [nation]The homosexuals[/nation]
 [b]-The Minister of Finance:[/b] [nation]Santo Aquila[/nation]
+[b]-The Minister of Health:[/b] [nation]The Archipelago of Gai-Nymph[/nation]
 
 [hr]
 

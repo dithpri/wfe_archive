@@ -9,6 +9,7 @@ If you have questions, contact the treasurer, [nation]creepoc infinite[/nation]
 [color=yellow]Yellow[/color]=Caution, borders may be closed
 [color=orange]Orange[/color]=Ready drones for precision strikes
 [color=red]Red[/color]=Mobilize forces
+[color=purple]Purplegeddon[/color]=Regional threats abroad
 
 [b]Current threat level: [color=green]Green[/b][/color]
 

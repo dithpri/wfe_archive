@@ -8,11 +8,11 @@ MARCH GOVERNMENT:
 
 Prime Minister: [nation]Apple[/nation]
 
-Minister for Interior Affairs: [nation]Faikliren[/nation]
+Minister for Interior Affairs: [nation]Aanon Bay[/nation]
 Minister for Foreign Affairs: [nation]North of South[/nation]
-Minister for Justice: [nation]Latin and Central America[/nation]
-Minister for Recruitment and Citizenship: [nation]Aanon Bay[/nation]
-Minister for Defence: [nation]Burgundaholmr[/nation]
+Minister for Justice: [nation]Burgundaholmr[/nation]
+Minister for Recruitment and Citizenship: [nation]Norton Island[/nation]
+Minister for Defence: [nation]Migraton[/nation]
 
 [b]JUDICIARY[/B]
 

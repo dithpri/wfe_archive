@@ -1,11 +1,9 @@
 [b][i]High Council:[/b][/i]
 
-[b]Leader[/b]:[nation]Trevor Philips Inc[/nation]
+[b]Region Leader[/b]:[nation]Trevor Philips Inc[/nation]
 
 [b]Master of Power[/b]:[nation]Fulabalubalublublub[/nation]
-[b]Master of Internal Affairs[/b]:[nation]Woglife[/nation]
-[b]Master of External Affairs[/b]:
-[b]Master of Arms[/b]:
-[b]Master of Agriculture[/b]:
+[b]Master of Cultural Relations[/b]:[nation]Woglife[/nation]
 [b]Master of Industry[/b]:[nation]Trevor Philips Inc[/nation]
 [b]Master of Environmental Issues[/b]:[nation]Rettard[/nation]
+[b]Master of Infrastructure[/b]:[nation]ChinaLight Lecterns[/nation]

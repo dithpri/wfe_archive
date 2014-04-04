@@ -8,6 +8,8 @@ King: [nation]The Great European Commonwealth[/nation]
 [color=red]Minister of Defence:[/color] [nation]Liberated Democratic Puppets[/nation]
 [color=green]Minister of Foreign Affairs:[/color] Vacant
 [color=green]Minister of Commonwealth Affairs:[/color] Vacant
+[color=green]Minister of Cultural Affairs:[/color] Vacant
+[color=green]Minister of Urban Development:[/color] Vacant
 [color=green]Chief Justice:[/color] Vacant
 [color=purple]Diplomats:[/color]
 

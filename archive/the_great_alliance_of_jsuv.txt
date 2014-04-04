@@ -13,3 +13,5 @@ Regional anthem: Auferstanden Aus Ruinen
 Colonies
 http://www.nationstates.net/region=democratic_capitalist_alliance
 http://www.nationstates.net/region=the_supernatural_mountain_range
+http://www.nationstates.net/region=democratic_capitalist_alliance_hq
+http://www.nationstates.net/page=region_control/region=allied_imperial_states

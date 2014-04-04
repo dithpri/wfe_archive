@@ -1,6 +1,6 @@
 [b]Defense Status[/b]: [color=blue]DEFSTAT 4[/color] [url=http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=289027]Vukovgrad Blues[/url]
 
-[b]Latest News[/b]: Elections for Federative Workers&amp;#39; State (WA Delegate) underway.
+[b]Latest News[/b]: [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=290703]Kryganstadian Trade Centre gets blown up.[/url]
 
 [hr]
 
@@ -14,9 +14,8 @@
 [b]Workers&amp;#39; States[/b]
 
 [nation=noflag]Batorvidek[/nation]
-[nation=noflag]Peihan[/nation]
+[nation=noflag]Krajstali[/nation]
 [nation=noflag]Slakia[/nation]
-[nation=noflag]Kavaii[/nation]
 
 [hr]
 
@@ -24,12 +23,11 @@
 
 [nation=short+noflag]Biel-Tan[/nation]
 [nation=short+noflag]Puerto Cienfuegos[/nation]
-[nation=short+noflag]Krajstali[/nation]
 [nation=short+noflag]Arubiana[/nation]
-[nation=short+noflag]Yuldouzistan[/nation]
 
 [hr]
 
 [b]Autonomous Workers&amp;#39; States[/b]
 
+[nation=noflag]Kavaii[/nation]
 [url=/region=transcaucasian_aws]The Autonomous Workers&amp;#39; State of Transcaucasia[/url]
