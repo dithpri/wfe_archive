@@ -6,7 +6,7 @@
 
 [u]Government[/u]
 Delegate: [nation=short]Communist Bloodia[/nation](LO)
-Commissar of Foreign Affairs:
+Commissar of Foreign Affairs:[nation=short]Kanatistan[/nation](ACP)
 Commissar of Internal Affairs: [nation=short]Soviet East Japan[/nation](DKLF)
 Commissar of Justice: [nation=short]K oyena[/nation](DKLF)
 Commissar of Intelligence:[nation=short]Arctiscandia[/nation](LO)

@@ -1,29 +1,29 @@
-[b]Defense Status[/b]: [color=blue]DEFSTAT 4[/color] [url=http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=289027]Vukovgrad Blues[/url]
+[b]Defense Status:[/b] [color=red]DEFSTAT 2[/color] [b]REGION IN LOCKDOWN UNTIL FURTHER NOTICE.[/b]
 
-[b]Latest News[/b]: [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=290703]Kryganstadian Trade Centre gets blown up.[/url]
+[b]Latest News:[/b] [b][color=cc0000]GLORY TO THE UNION![/color] DEFEND IT AT ALL COSTS[/b]
 
 [hr]
 
 [b]Federative Workers&amp;#39; States[/b]
 
-[nation=noflag]Krasniya[/nation]
-[nation=noflag]Czervenika[/nation]
+[nation]Krasniya[/nation]
+[nation]Czervenika[/nation]
 
 [hr]
 
 [b]Workers&amp;#39; States[/b]
 
-[nation=noflag]Batorvidek[/nation]
-[nation=noflag]Krajstali[/nation]
-[nation=noflag]Slakia[/nation]
+[nation]Batorvidek[/nation]
+[nation]Krajstali[/nation]
+[nation]Slakia[/nation]
 
 [hr]
 
 [b]Developing Workers&amp;#39; States[/b]
 
-[nation=short+noflag]Biel-Tan[/nation]
-[nation=short+noflag]Puerto Cienfuegos[/nation]
-[nation=short+noflag]Arubiana[/nation]
+[nation=short]Biel-Tan[/nation]
+[nation=short]Puerto Cienfuegos[/nation]
+[nation=short]Arubiana[/nation]
 
 [hr]
 

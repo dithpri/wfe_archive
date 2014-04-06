@@ -6,7 +6,7 @@
 
 [b]Regent[/b] : [nation]Predatorius[/nation]
 
-[b]Delegate[/b] : [i]suspended until elected[/i]
+[b]Delegate[/b] : [nation]Graknopia[/nation]
 
 [u]Electoral Board[/u]
 
@@ -14,11 +14,11 @@
 
 [b]Secretary for Diplomacy and Foreign Affairs[/b] : [nation]Hanannara[/nation]
 
-[b]Secretary for Defense, Chairman of The United League Security Council[/b] : [nation]Graknopia[/nation]
+[b]Secretary for Defense, Chairman of The United League Security Council[/b] : [i]Vacant[/i]
 
-[b]Secretary for Culture[/b] : [nation]Nagarrve[/nation]
+[b]Secretary for Culture[/b] : [i]Vacant[/i]
 
-[b]Justice of The United League Court of Justice[/b] : [i]suspended by Royal Prerogative[/i]
+[b]Justice of The United League Court of Justice[/b] : [nation]Durinmore[/nation]
 
 [u]Grand Cross of Honourable Service[/u]
 

@@ -6,7 +6,7 @@
 [hr]
 [u]The Imperial Government[/u]
 
-Emperor:[nation=short]Verborgenen Herrn[/nation]
+Emperor:[nation=short]Rightist America[/nation]
 Interim Governor:[nation=short]Aristotskia[/nation]
 Senator and Defense Secretary: [nation=short]Zambia-Rhodesia[/nation]
 Senator and Foreign Minister: [nation=short]Japam[/nation]
