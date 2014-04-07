@@ -7,7 +7,7 @@ This is a region for all nations. There will be no dictators or wars.
 [u]Counsel[/u]
 
 Founder: [nation]Hyrule Rising[/nation]
-WA delegate: 
+WA delegate: [nation]Sovereign Normandy[/nation]
 Ambassador to the People: 
 Head of Intelligence: 
 Secretary of Defense: 

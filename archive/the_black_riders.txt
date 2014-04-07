@@ -18,4 +18,7 @@
 [hr]
 [color=#8B0000]Order of the Day[/color]
 
-[color=black]Move to [region]Anarchy[/region] and endorse [nation=short]Duck-Boss[/nation][/b][/color]
+[color=black]If [nation=short]Duck-boss[/nation] has more than 43 endorsements in [region]Anarchy[/region],[/color]
+
+[color=#8B0000]Then go to [region]The Silver Isles[/region] and endorse [nation=short]At Sea[/nation][/b][/color]
+

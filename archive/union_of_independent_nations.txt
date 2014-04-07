@@ -1,9 +1,6 @@
-[b]Defense Status:[/b] [color=darkorange]MEDIUM ALERT[/color]
+[b]Alert Level:[/b] [color=green]LOW[/color]
 
-[b]UIN Herald[/b]
--[url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=290703]Kuzbeckistan declares jihad against Kryganstad.[/url]
--Please report Astzya for harassing us and making this game less fun for us.
-
+[b]UIN Herald:[/b] [nation=short]Atallant[/nation] joins the UIN.
 
 [hr]
 
@@ -14,12 +11,12 @@
 
 [hr]
 
-[b]Member States[/b]
+[b]Member States | Top headlines from nation[/b]
 
-[nation]Kuzbeckistan[/nation]
 [nation]Ordorinia[/nation]
 [nation]Kryganstad[/nation]
+[nation]Atallant[/nation]
 
 [hr]
 
-[url=http://s15.postimg.org/9eifw2uux/Map.png]World Map[/url] (Last Update: 5/4/14)
+[url=http://s23.postimg.org/99hhi6tqh/Map.png]World Map[/url] (Last Update: 6/4/14)

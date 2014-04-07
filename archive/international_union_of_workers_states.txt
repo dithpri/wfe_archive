@@ -1,6 +1,6 @@
-[b]Defense Status:[/b] [color=red]DEFSTAT 2[/color] [b]REGION IN LOCKDOWN UNTIL FURTHER NOTICE.[/b]
+[b]Defense Status:[/b] [color=Blue]DEFSTAT 4[/color]
 
-[b]Latest News:[/b] [b][color=cc0000]GLORY TO THE UNION![/color] DEFEND IT AT ALL COSTS[/b]
+[b]Latest News:[/b] [url=/nation=xaraian/detail=factbook/id=240525]Trouble in Caucasia[/url]
 
 [hr]
 
@@ -16,6 +16,7 @@
 [nation]Batorvidek[/nation]
 [nation]Krajstali[/nation]
 [nation]Slakia[/nation]
+[nation]Kavaii[/nation]
 
 [hr]
 

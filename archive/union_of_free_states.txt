@@ -6,8 +6,8 @@
 
 [hr]
 [B]EXECUTIVE BRANCH:[/B]
-Interim Union Secretary:[nation=short]North America and The Great lakes[/nation]
-Secretary of Defense:[nation=short]Valacria[/nation]
+Interim Union Secretary:[nation=short]The Kingdom of Alleble[/nation]
+Secretary of Defense:TBD
 Secretary of Foreign Affairs: [nation=short]Narnifrey[/nation]
 Secretary of Internal Affairs:[nation=short]Light Music Club[/nation]
 Secretary of Legal Affairs:[nation=short]Alpacanzia[/nation]
