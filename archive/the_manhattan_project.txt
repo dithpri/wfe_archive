@@ -1,10 +1,10 @@
-Hurrah! Hurrah! Hurrah! This region has been liberated by The White Raiders!
+[Color=green]Hurrah! Hurrah! Hurrah! This region has been liberated by The White Raiders!
 
-Into the battlefield is the following liberators
+Into the battlefield is the following liberators[/color]
 
 [Nation]The Men in Black Suits[/nation]
 [Nation]KaiserAdolf[/nation]
 
+[color=green]LIBERATED
 LIBERATED
-LIBERATED
-LIBERATED
+LIBERATED[/color]

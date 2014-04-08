@@ -3,13 +3,13 @@ Please endorse your WA Delegate![/color]
 [color=blue]
 President: [nation]The Republic rome[/nation]
 Vice President: [nation]Cafla[/nation]
-SecState: [nation]Flattnerk[/nation]
+SecState: TBA
 SecDef: [nation]Gasyuu[/nation]
 
 Senate:
 [nation]the united remnants of america[/nation]
-TBA
-TBA
+[nation]Flattnerk[/nation]
+[nation]xaqaha[/nation]
 
 High Court
 [nation]the anean tribes[/nation]
@@ -22,4 +22,4 @@ Cartographer:
 [color=maroon]Message of the Day: Please submit your candidatures for senate and Judge. Elections are soon.
 
 Separation Day is March 28th 2014[/color]
-[color=red][i][b]RECRUIT ALREADY![/b] Dammit, Jim, I&amp;#39;m a Delegate, not a recruiter![/i][/color]
+[color=red][i][b]RECRUIT ALREADY![/b][/i][/color]

@@ -7,7 +7,7 @@ Secretary-General: [nation=short]eastland duchies[/nation] (CPP)
 Chancellor: [nation=short]Merovingea[/nation] (NCC)
 Speaker: [nation=short]Rarungan[/nation] (CPP)
 Prosecutor-General: [nation=short]Torvalyn[/nation]
-High Commander: TBA
+High Commander: [nation=short]Borduriaa[/nation] (CPP)
 [hr]
 [b]The Cabinet:[/b]
 Minister of the Interior: [nation=short]Evanicaland[/nation] (CPP)
