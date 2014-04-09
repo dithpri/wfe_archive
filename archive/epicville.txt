@@ -1,11 +1,18 @@
 [u][b][color=orange]Welcome to Epicville![/color][/b][/u]
-[b][color=red]Information[/color][/b]
+[u]
+[/u][b][color=red]Information:[/color][/b]
 Epicville is a freindly region.
 [i](We welcome any nation who isn&amp;#39;t trying to overthrow our government or plunge us into chaos! So if you wish to join, do it!)[/i]
 Epicville is located in some place between space and the beyond (A.K.A we don&amp;#39;t know exactly where).
-[b][color=red]Government[/color][/b]
+[u]
+[/u][b][color=red]Government:[/color][/b]
 [color=red]Please endorse our elected delegate.[/color]
-[b]WA Delegate:[/b] [nation]NevisKevin of Queeftopia[/nation]
+[b]WA Delegate:[/b] [nation]The Whaleshark[/nation]
 [b]Founder:[/b] [nation]Wichitopia[/nation]
-[b][color=red]War Status[/color][/b]
-[i]At peace[/i].
+
+[b][color=red]Current War Status:[/color][/b]
+[b][color=brown]Okay[/color][/b]
+[u]
+[/u][b][color=red]Other Statuses[/b] (For Later Use)[b]:[/color][/b]
+-[color=green]Peaceful[/color]
+-[color=red]At War[/color]

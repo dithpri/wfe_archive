@@ -1,8 +1,8 @@
-[color=blue]Welcome to the Marshlands, home to the countries that now make up the former Marshlandian Empire.[/color]
+[color=green]Welcome to the Marshlands![/color]
 
 [color=green]If you are a member of the World Assembly, please endorse the current Prime Minister, [nation=Arendell].[/color]
 
-[color=red]Check out our Regional Map[/color] WIP
+[color=green]Check out our[/color] [url=http://i.imgur.com/0kmi2Ea.png]Regional Map[/url]. [color=green]To be added, contact the Sovereign![/color] 
 
 [hr]
 
@@ -16,7 +16,4 @@
 
 [hr]
 
-
-
-
- 
+[color=green]We accept all embassy requests![/color]

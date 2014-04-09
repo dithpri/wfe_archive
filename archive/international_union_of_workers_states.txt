@@ -1,6 +1,6 @@
-[b]Defense Status:[/b] [color=Blue]DEFSTAT 4[/color]
+[b]Defense Status:[/b] [color=orange]DEFSTAT 3[/color] [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=291312]TAWS Civil War[/url]
 
-[b]Latest News:[/b] [url=/nation=xaraian/detail=factbook/id=240525]Trouble in Caucasia[/url]
+[b]Latest News:[/b] Civil war breaks out in Transcaucasian AWS.
 
 [hr]
 
@@ -25,10 +25,10 @@
 [nation=short]Biel-Tan[/nation]
 [nation=short]Puerto Cienfuegos[/nation]
 [nation=short]Arubiana[/nation]
+[nation=short]Krantzania[/nation]
 
 [hr]
 
 [b]Autonomous Workers&amp;#39; States[/b]
 
 [url=/region=transcaucasian_aws]The Autonomous Workers&amp;#39; State of Transcaucasia[/url]
-[nation]Moshnia[/nation]

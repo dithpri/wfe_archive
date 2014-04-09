@@ -11,8 +11,8 @@ Request a position and it will be given, lest thee be challenged
 
 Arch-Federator: [nation]Xanadocia[/nation]
 Lieutenant Governor: [nation]The Godfather State[/nation]
-Minister of the Machine:
-Minister of the Apocalypse:
-Minister of the Famine:
-Minister of the Speech:
+Minister of the Interior:
+Minister of War:
+Minister of Agriculture:
+Herald:
 

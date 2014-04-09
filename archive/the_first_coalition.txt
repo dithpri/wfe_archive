@@ -1,11 +1,7 @@
-[b][color=blue]The idea of raiding has spread like a terrible plague throughout nationstates.  Only through the hard work of those known as liberators can nationstates survive!  The Coalition will have victory! Down with the raiders![/color][/b]
+[b][color=blue]The idea of raiding has spread like a terrible plague throughout nationstates. Only through the hard work of those known as liberators can nationstates survive! The Coalition will have victory! Down with the raiders![/color][/b]
 
-[url=http://forum.nationstates.net/viewtopic.php?f=31&amp;amp;t=290794&amp;amp;p=19520409&amp;amp;hilit=1230#p19520409]Regional RP[/url]
-
-[color=red]Official ranks will be given to nations and medals will be awarded for outstanding dedication and service.[/color]
-
-[b]Knights:[/b]
-[nation]Mithrandier[/nation]
-[nation]The Armored Horse[/nation]
-[nation]Czechostan[/nation]
-[nation]lipitehsys[/nation]
+[b][u]Knights[/u][/b]
+[nation=The Armored Horse]
+[nation=Mithrandier]
+[nation=Czechostan]
+[nation=Lipitehsys]

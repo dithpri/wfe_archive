@@ -7,19 +7,21 @@ The UNSC Planet Harvest (Leader)
 --Gladsheim City
 --Harvests SOP Embassy Staff*
 
+(Planetary Military)
 -UNSC Planet Harvest Military (Planetary Military Leadership)
 --Planet Harvest Medical Corps
 --Naval Intelligence
 ---Planet Harvest Hell Jumpers
 
--Planet Harvest Department of Education
+(Civilian Offices)
+-Planet Harvest Department of Education 
 -Planet Harvest Security Bureau
 -Green Planet Harvest
 -Planet Harvest Commerce
 
 
 (Foreign Offices)
-SOP Embassy on Planet Harvest Government 
+SOP Embassy on Planet Harvest Government
 
 
 *Outside the Region

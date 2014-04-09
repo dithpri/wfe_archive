@@ -1,12 +1,12 @@
 [b]Alert Level:[/b] [color=green]LOW[/color]
 
-[b]UIN Herald:[/b] [nation=short]Atallant[/nation] joins the UIN.
+[b]UIN Herald:[/b] Civil War breaks out in the Transcaucasian AWS.
 
 [hr]
 
 [b]Administrative States[/b]
 
-[nation]Peihan[/nation] | We welcome Aleksandyr, the newborn son of Jozef Kranz of Krajstali and look forward to seeing him in our universities when he comes of age.
+[nation]Peihan[/nation] | Operation Deux Cotes is a go.
 [nation]Great Slatain[/nation] | PM John Sterling visits [nation=short]Moshnia[/nation] to discuss trade prospects.
 
 [hr]
@@ -14,9 +14,9 @@
 [b]Member States | Top headlines[/b]
 
 [nation]Ordorinia[/nation] | Plans for an Environmental Protection Organization to be discussed.
-[nation]Kryganstad[/nation] | War with [nation=short]Kuzbeckistan[/nation] ends.
+[nation]Krantzania[/nation] | Kryganstad gets renamed to Krantzania following implementation of bizarre new laws.
 [nation]Atallant[/nation] | Trade deal with [nation=short]Krasniya[/nation] being discussed.
 
 [hr]
 
-[url=http://s23.postimg.org/99hhi6tqh/Map.png]World Map[/url] (Last Update: 6/4/14)
+[url=http://s10.postimg.org/g83qrf8h3/Map.png]World Map[/url] (Last Update: 8/4/14)
