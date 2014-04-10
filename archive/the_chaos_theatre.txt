@@ -8,7 +8,7 @@ Delegate: [nation]Frontofthebus[/nation] [PLEASE ENDORSE! More endorsements mean
 Vice-Delegate: [nation]End Isles[/nation]
 Admin: [nation]Applebania[/nation]
 
-Endorsement cap for non-delegate nations is 3.
+Endorsement cap for non-delegate nations is 4.
 [b]Comply or be eject-banned. No exceptions.[/b]
 
 [u]WA membership and use of NationStates++ is encouraged.[/u]

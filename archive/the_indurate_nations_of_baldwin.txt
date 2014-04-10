@@ -8,6 +8,6 @@ ________________________________________________________________________________
 
 Military Adviser: [nation]The Cazilian Empire[/nation]
 Foreign Adviser: [nation]Puddingshire Island[/nation]
-Officer of Recruitment: none
+Officer of Recruitment: [nation]Stroopwaffles[/nation]
 Head of Intelligence: [nation]The Republic of Animal Slaughter[/nation]
 Newspaper Editors: [nation]The Cazilian Empire[/nation] 

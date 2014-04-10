@@ -2,10 +2,10 @@
 
 [b][i]Our Government[/i]
 President: [nation=short]Shallowell[/nation] (LTN)
-Vice President: TBD 
+Vice President: [nation]Comstock house[/nation] (?)
 Founder: [nation=short]United Furry Alliance[/nation] (TCH)
 Minister of Internal Affairs: [nation=short]Humpheria in TFI Gen 2[/nation] (LTN)
-Minister of Foreign Affairs: [nation=short]Slashbane[/nation] R.I.P (LBL)
+Minister of Foreign Affairs: [nation=short]Coumba[/nation] (?)
 Minister of Military Affairs: [nation=short]Brauistan[/nation] (STT)
 
 News: We will attempt to establish a peace treaty with the insurgency, provided they are willing.[/b]

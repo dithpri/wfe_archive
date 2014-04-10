@@ -1,7 +1,7 @@
 &amp;quot;From These Many Countries We Are One Democracy&amp;quot;
 
-Prime Minister-  [nation=short]Aflehnit[/nation]
-Deputy Ministers-  [nation=short]Nationalist Socalist Beliefs[/nation] [nation=short]the Scottish Monarchy[/nation]
+Prime Minister-  [nation=short]Costa Fuar[/nation]
+Deputy Ministers-  [nation=short]Ruthamir[/nation] [nation=short]the Scottish Monarchy[/nation]
 
 Chief Justice - [nation=short]Portereca[/nation]
 Justices - [nation=short]Amansworth[/nation], [nation=short]New Central Americas[/nation], [nation=short]the Scottish Monarchy[/nation], [nation=short]Dariaus[/nation]

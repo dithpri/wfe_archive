@@ -6,7 +6,7 @@ President: [nation=noflag+short]American United Federation[/nation]
 Vice President: [nation=noflag+short]United States Of Devonta[/nation]
 Secretary of State: [nation=noflag+short]Federation of Androbots[/nation]
 Secretary of Defense: Vacant
-Secretary of the Treasury: [nation=noflag+short]Antyrica[/nation]
+Secretary of the Treasury: Vacant
 Role-Play Moderator: Vacant
 
 [color=FFD700][b]The Legislature[/color][/b]

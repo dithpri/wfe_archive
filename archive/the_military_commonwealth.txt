@@ -7,12 +7,14 @@ King: [nation]The Great European Commonwealth[/nation]
 [color=red]Deputy Prime Minister:[/color] [nation]Drasolopia[/nation]
 [color=red]Minister of Defence:[/color] [nation]Liberated Democratic Puppets[/nation]
 [color=green]Minister of Foreign Affairs:[/color] Vacant
-[color=green]Minister of Commonwealth Affairs:[/color] Vacant
+[color=green]Minister of Commonwealth Affairs:[/color][nation]Theoniatium[/nation] 
 [color=orange]Chief Justice:[/color] [nation]The Free Regime[/nation]
-[color=orange] Judge:[/color] Vacant
-[color=orange] Judge:[/color] Vacant
-[color=purple]Diplomats:[/color] five vacant positions
+[color=orange] Judge:[/color] [nation]St nevis and kitts[/nation]
+[color=orange] Judge:[/color][nation]Celter[/nation]
+[color=purple]Chief Diplomats:[/color] vacant
+[color=purple]Diplomat [/color]five positions
 
+Our off-site forum
 [url=http://w11.zetaboards.com/MilitaryCommonwealth/index/]Military Commonwealth Communications net[/url]
 [color=blue]Rules[/color]
 1.Endorse Founder and Delegate

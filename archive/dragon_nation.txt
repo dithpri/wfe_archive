@@ -1,13 +1,13 @@
-Leadership
-1.Leaders [nation]God King David[/nation],[nation]ShadowVeiled[/nation],[nation]Elysium Of Heroes[/nation]
-2.Executive President [nation]Awesome Sauce Bro[/nation]
-3.Executive Vice President 
-4.Executive Treasurer [nation]Galamence[/nation]
-5.President of Ministry [nation]God King David[/nation]
+Lords
+Overlords: [nation]Elysium Of Heroes[/nation] [nation]God King David[/nation]
+Lord of Water: [nation]Awesome Sauce Bro[/nation]
+Lord of Fire: [nation]Emeraldian[/nation]
+Treasurer of the gods: [nation]Galamence[/nation]
+
 Ministry
-1.Minister:War [nation]ShadowVeiled[/nation]
+1.Minister:War 
 2.Minister:Foreign Affairs
-3.Minister:Commerce:
+3.Minister:Commerce: [nation]Galamence[/nation]
 4.Minister:Transport
 5.Minister:Health/Environment 
 6.Minister:Law/Order: 
