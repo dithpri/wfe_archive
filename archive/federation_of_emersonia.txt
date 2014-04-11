@@ -13,6 +13,6 @@ Arch-Federator: [nation]Xanadocia[/nation]
 Lieutenant Governor: [nation]The Godfather State[/nation]
 Minister of the Interior:
 Minister of War:[nation]Nosreme[/nation]
-Minister of Agriculture:
-Herald:
+Minister of Agriculture:[nation]Toasta Rica[/nation]
+Herald:[nation]Shadowhall Nation[/nation]
 

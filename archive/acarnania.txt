@@ -10,6 +10,6 @@ Founder: [nation]Hyrule Rising[/nation]
 WA delegate: [nation]Sovereign Normandy[/nation]
 Ambassador to the People: 
 Head of Recruitment: 
-Head of Intelligence: 
+Head of Intelligence: [nation]Suplexaria[/nation]
 Secretary of Defense: 
-Secretary of Economics &amp;amp; Trade: 
+Secretary of Economics &amp;amp; Trade: [nation]Nether Land[/nation]

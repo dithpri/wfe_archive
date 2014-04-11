@@ -2,6 +2,12 @@
 
 [color=firebrick]Welcome to China! We are a country standing from the great revolutions of China, and a vast history of 5000 years. Founded by Chairman Mao Zedong, we up hold the Maoist ideology of socialism, and wish for the coming of the communist world. We accept all Marxist-Leninists of all types, and hope that we can create a united front to defeat the Fascists, Capitalists, and Imperialists of this world.[/color][hr]
 
+[b][color=red]Chairman:[/color][/b] [nation=short]China and Taiwan[/nation]
+[b][color=red]President:[/color][/b] [i]vacant[/i]
+[b][color=red]Premier:[/color][/b] [i]vacant[/i]
+
+[hr]
+
 [b][color=red]Capital:[/color][/b] [region]Beijing[/region]
 [b][color=red]Land area:[/color][/b] [color=firebrick]9,596,961 km&sup2;[/color]
 [b][color=red]Population:[/color][/b] [color=firebrick]1,350,695,000 (2012)[/color]

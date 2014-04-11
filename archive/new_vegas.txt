@@ -1,11 +1,19 @@
-[color=blue][b]Welcome to New Vegas![/b][/color]
+[color=dodgerblue][b]Welcome to New Vegas![/b][/color]
+[color=lightskyblue]New Vegas is a region located in southern Nevada, a post-apocalyptic wasteland composed of multiple independent or allied nations.[/color]
 
-[color=red]New Vegas, originally known as Las Vegas in the Wasteland before Robert House revived its reconstruction, is a city built upon the remains of Las Vegas, located in southern Nevada.
+[b]Regional Delegate:[/b]
+[nation]UNNCR[/nation]
 
-Unlike the other major cities of the United States, Vegas emerged from the atomic fire of the Great War relatively unscathed, with most of the major damage caused by the downfall of society in general.[/color]
+[b]Regions to Endorse:[/b]
+[nation]UNNCR[/nation].
+[nation]New Saesnia[/nation]
+[nation]The True United States of America[/nation]
 
-Regions to Endorse:
-The regional WA-Delegate [nation]UNNCR[/nation].
+[b]Nations to Recognize (Subject to Change):[/b]
+[i][u][color=yellowgreen]Regional Command:[/u] [nation]UNNCR[/nation][/color]
+[u][color=blueviolet]General of Collective Armed Forces:[/u] [nation]New Saesnia[/nation][/color]
+[u][color=mediumturquoise]Regional Emissary:[/u] [nation]New Vegas Emissary[/nation][/color]
+[u][color=blue]Diplomatic Advisory Council:[/u] [nation]The True United States of America[/nation][/color][/i]
 
-Our website can be found here:
-www.swosgaming.enjin.com
+[b]Regional Website:[/b]
+[i]http://www.swosgaming.enjin.com/[/i]

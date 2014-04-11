@@ -5,12 +5,12 @@ Lord of Fire: [nation]Emeraldian[/nation]
 Treasurer of the gods: [nation]Galamence[/nation]
 
 Ministry
-1.Minister:War 
+1.Minister:War[nation]Lord Trenk[/nation]
 2.Minister:Foreign Affairs
 3.Minister:Commerce: [nation]Galamence[/nation]
 4.Minister:Transport
 5.Minister:Health/Environment 
-6.Minister:Law/Order: 
+6.Minister:Law/Order:[nation]Iclfal[/nation]
 7.Minister:Education/Science [nation]Awesome Sauce Bro[/nation]
 8.Minister:Agriculture
 9.Minister:Interstellar business:[nation]Elysium Of Heroes[/nation]
