@@ -1,9 +1,9 @@
 [color=Orange].:[b]Welcome to SeigMacht[/b]:.[/color]
 
 [color=gold]GOVERNMENT
-President: [nation=Panastan] (Maxim IV)
+President: [nation=Panastan]
 Vice President: [nation=Kulginastan]
-General of the Army: [nation=Panastan][/color]
+General of the Army: [nation=Kulginastan][/color] 
 
 [color=darkgrey]Everyone works on what they desire but cooperatively[/color]
 

@@ -17,4 +17,9 @@
 [nation=short]Hollowed Forest[/nation]
 [/b]
 
-[B]Endorse the Rightful Delegate [nation]At Sea[/nation] or face Ejection.[/B]
+[u][B]We are currently refounding, here is the proper procedure to follow:[/B][/u]
+
+[B][color=blue]Members of the World Assembly:[/color] Endorse the Delegate [nation]At Sea[/nation].
+[color=blue]Non Members:[/color] Move to [region]The Black Riders[/region] until the region is refounded.[/B]
+[B][color=blue]Black Riders:[/color] Remain in the region and endorse the delegate.[/B]
+

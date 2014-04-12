@@ -11,13 +11,11 @@ Population: 178th
 Smartest: 772nd
 Culture: 684th
 Advanced: 222nd
-Public Transport: 134th
 
 Defense: 26th
 Armed: 153rd
 Police: 545th
 Aggression: 48th
-Avoided: 340th
 
 Economy: 50th
 Fishing: [color=orange][b]5th[/b][/color]

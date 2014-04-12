@@ -3,5 +3,6 @@
 
 [b][color=purple]Emperor:[/color][/b] [b][nation=short]Kynnland[/nation][/b]
 [b][color=darkblue]Chancellor:[/color][/b] 
+[b][color=teal]Deputy Chancellor:[/color][/b]
 
-[u][B][region]Imperius[/region][/B][/u] [color=mahogany]is a democratic region with a constitutional monarchy system. The emperor (monarch) has little power, and the chancellor and senators &amp;quot;control&amp;quot; the government. Senators and the chancellor are elected once every 30 days.[/color]
+[u][B][region]Imperius[/region][/B][/u] [color=mahogany]is a democratic region with a constitutional monarchy system. The emperor (monarch) has little power, and the chancellor and senators &amp;quot;control&amp;quot; the government. Senators and the chancellor are elected once every 30 days; the deputy chancellor is appointed by the chancellor when elected.[/color]

@@ -2,7 +2,7 @@
 [color=purple]Website: [url=http://itevia.webs.com/]Itevia[/url]
 Constitution: [url=https://docs.google.com/document/d/1F18BNqnLhvO5fKzd_GFRrHNN-jBHxL6pExW8mwPpMew/edit?usp=sharing itevia constitution]The Great Constitution[/url][/color]
 [hr][b][u]Government:[/u][/b]
-[color=green]Prime Minister: [nation]Democratic Siberia[/nation]
+[color=green]Interim Prime Minister: [nation]Democratic Siberia[/nation]
 Lord Chief Justice:[/color] [color=brown][B]OPEN[/B][/color]
 [color=green]Chancellor of the Exchequer:[/color] [color=brown][B]OPEN[/B][/color]
 [color=green]Minister of Defense: [nation]Printergonia[/nation]
@@ -10,5 +10,5 @@ Minister of Intelligence: [nation]Indi49[/nation]
 Minister of Foreign Affairs: [nation]Woogie[/nation][/color]
 [hr][color=red][b][u]Regional Information[/u][/b]
 Elections for Lord Chief Justice have been postponed; Candidate debate to take place April 12th. 
-All candidates for Chancellor of the Exchequer please notify the government.
+All candidates for Chancellor of the Exchequer please notify [nation]Democratic Siberia[/nation].
 All voting to take place by regional poll.[/color]
