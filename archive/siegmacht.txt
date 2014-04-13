@@ -3,9 +3,10 @@
 [color=gold]GOVERNMENT
 President: [nation=Panastan]
 Vice President: [nation=Kulginastan]
-General of the Army: [nation=Kulginastan][/color] 
+General of the Army: [nation=kanatistan II][/color] 
+[color=gold]Ambassador: [nation=Kulginastan] 
 
-[color=darkgrey]Everyone works on what they desire but cooperatively[/color]
+Everyone works on what they desire but cooperatively[/color]
 
 [color=communistred]Be on high alert citizens we are on Defcon 4![/color]
 

@@ -1,16 +1,16 @@
 [color=red][b]Welcome To The Military Commonwealth[/b][/color]
 
 King: [nation]The Great European Commonwealth[/nation]
-[color=blue]WA delegate:[/color] [nation]Marabelle[/nation]
+[color=blue]WA delegate:[/color] vacant
 
-[color=red]Prime Minister:[/color] vacant
+[color=red]Prime Minister:[/color] [nation]Azdaria[/nation]
 [color=red]Deputy Prime Minister:[/color] [nation]Drasolopia[/nation]
 [color=red]Minister of Defence:[/color] [nation]Liberated Democratic Puppets[/nation]
-[color=green]Minister of Foreign Affairs:[/color] Vacant
+[color=green]Minister of Foreign Affairs:[/color] [nation]Celter[/nation]
 [color=green]Minister of Commonwealth Affairs:[/color][nation]Theoniatium[/nation] 
 [color=orange]Chief Justice:[/color] Vacant
 [color=orange] Judge:[/color] Vacant
-[color=orange] Judge:[/color][nation]Celter[/nation]
+[color=orange] Judge:[/color]Vacant
 [color=purple]Chief Diplomats:[/color] vacant
 [color=purple]Diplomat [/color]five positions
 

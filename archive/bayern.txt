@@ -1,1 +1,22 @@
-Bayern
+[color=black][b]Willkommen in Bayern[/b][/color]
+
+[list][color=silver]Einwohnerzahl: 12,563 Mio.
+Fl&auml;che: 70.551,57 km&sup2;
+Land: Deutschland
+Landeshauptstadt: M&uuml;nchen[/color][/list]
+
+[b][color=black]Home Region of [nation=short]Germano[/nation] (Factbook&amp;#39;s in portuguese)[/color][/b]
+
+[list][color=silver]Currency: Euro
+Leader: Adrios Kratz
+Regional Animal: Adler
+Regional Motto: &Uuml;ber alles in der Welt[/color][/list]
+
+[b][color=black]Associated Regions[/color][/b]
+
+[list][color=silver][region]Paraguay[/region], [region]Asuncion[/region], [region]Rio de Janeiro[/region], [region]Brasilia[/region] and [region]Sao Paulo[/region].[/color][/list]
+
+[b][color=black]Rules[/color][/b]
+
+[list][color=silver]Embassies only with associated or friendly regions
+Only authorized nations[/color][/list]

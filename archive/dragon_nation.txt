@@ -6,7 +6,7 @@ Treasurer of the gods: [nation]Galamence[/nation]
 
 Ministry
 1.Minister:War[nation]Lord Trenk[/nation]
-2.Minister:Foreign Affairs
+2.Minister:Foreign Affairs[nation]Awesome Sauce Bro[/nation]
 3.Minister:Commerce: [nation]Galamence[/nation]
 4.Minister:Transport
 5.Minister:Health/Environment 

@@ -7,6 +7,7 @@
 King: [nation=short]Nephmir[/nation]
 Bishop: [nation=short]Valrifell[/nation]
 Lords: [nation=short]Unified Protectors[/nation]
+Knights: [nation=short]NoblePhnx[/nation]
 
 [b][u]Current Orders[/u][/b] [url=http://www.nationstates.net/page=dispatch/id=218480][?][/url][url=http://www.nationstates.net/page=dispatch/id=218722][&raquo;][/url]
 None.

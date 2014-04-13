@@ -4,14 +4,14 @@
 President - [nation]Strag[/nation]
 Vice President - [nation]Ryrgistan[/nation]
 Foreign Minister - [nation]Ryrgistan[/nation]
-Secretary of the Senate - 
+Secretary of the Senate - [nation]Quota[/nation]
 Secretary of Defense - [nation]Valhallian[/nation]
 Secretary of State - [nation]Smitrea[/nation]
 Secretary of the Treasury - [nation]OBLAHK[/nation]
 
 [b]Legal Positions[/b]
 Chief Justice - [nation]Smitrea[/nation]
-Associate Justices - [nation]Island of Solitude[/nation] and [nation]Quota[/nation]
+Associate Justices - [nation]Island of Solitude[/nation] and [nation]Analla[/nation]
 [/color]
 [color=blue]A full list of the senetors can be found in [nation]Ryrgistan[/nation]&amp;#39;s Factbook[/color]
 
