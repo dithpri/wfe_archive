@@ -8,7 +8,7 @@ King: [nation]The Great European Commonwealth[/nation]
 [color=red]Minister of Defence:[/color] [nation]Liberated Democratic Puppets[/nation]
 [color=green]Minister of Foreign Affairs:[/color] [nation]Celter[/nation]
 [color=green]Minister of Commonwealth Affairs:[/color][nation]Theoniatium[/nation] 
-[color=orange]Chief Justice:[/color] Vacant
+[color=orange]Chief Justice:[/color] [nation]Silver Rainbow Fumes[/nation]
 [color=orange] Judge:[/color] Vacant
 [color=orange] Judge:[/color]Vacant
 [color=purple]Chief Diplomats:[/color] vacant

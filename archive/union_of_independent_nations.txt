@@ -1,12 +1,12 @@
 [b]Alert Level:[/b] [color=green]LOW[/color]
 
-[b]UIN Herald:[/b] Civil War breaks out in the Transcaucasian AWS. 
+[b]UIN Herald:[/b] Civil War near end in the Transcaucasian AWS, as Krajstali and Peihan descend on the capital of Lockiee.
 
 [hr]
 
 [b]Administrative States[/b]
 
-[nation]Peihan[/nation] | Eastern front of [nation=short]Lockiee[/nation] opened by allied [nation=short]Krajstali[/nation]an and [nation=short]Peihan[/nation]ese troops.
+[nation]Peihan[/nation] | Peihan can into Paiwan.
 [nation]Great Slatain[/nation] | King Paul VII visits former colonies of the Slatish Empire.
 
 [hr]
@@ -15,6 +15,7 @@
 
 [nation]Ordorinia[/nation] | Interregional Trade Programme founded with Ordorinia, Peihan, Salphihia, and Krantzania as member states.
 [nation]Atallant[/nation] | Trade deal with [nation=short]Krasniya[/nation] being discussed.
+[nation]Mukhtadesh[/nation] | The first female president and president of all time, Samaira Seth is elected to office.
 
 [hr]
 

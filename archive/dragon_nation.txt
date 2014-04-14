@@ -1,14 +1,13 @@
 Lords
 Overlords: [nation]Elysium Of Heroes[/nation] [nation]God King David[/nation]
 Lord of Water: [nation]Awesome Sauce Bro[/nation]
-Lord of Fire: 
 Treasurer of the gods: [nation]Galamence[/nation]
 
 Ministry
 1.Minister:War[nation]Lord Trenk[/nation]
 2.Minister:Foreign Affairs[nation]Awesome Sauce Bro[/nation]
 3.Minister:Commerce: [nation]Galamence[/nation]
-4.Minister:Transport
+4.Minister:Transport [nation]Krazeria[/nation]
 5.Minister:Health/Environment 
 6.Minister:Law/Order:[nation]Iclfal[/nation]
 7.Minister:Education/Science [nation]Awesome Sauce Bro[/nation]

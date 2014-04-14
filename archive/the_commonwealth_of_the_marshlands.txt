@@ -1,4 +1,4 @@
-[color=green]Welcome to the Marshlands![/color]
+[color=green]Welcome to the Commonwealth of the Marshlands![/color]
 
 [color=green]If you are a member of the World Assembly, please endorse the current Prime Minister, [nation=Arendell].[/color]
 
@@ -9,10 +9,9 @@
 [u][b]The Government[/b][/u]
 [b]-The Sovereign:[/b] [nation]The Kingdom of Glitter[/nation]
 [b]-The Prime Minister:[/b] [nation]Arendell[/nation]
-[b]-The Minister of Defense:[/B]
+[b]-The Minister of Defense:[/B] [nation]The Archipelago of Gai-Nymph[/nation]
 [b]-The Minister of Foreign Affairs:[/b] [nation]The homosexuals[/nation]
 [b]-The Minister of Finance:[/b] [nation]Santo Aquila[/nation]
-[b]-The Minister of Health:[/b] [nation]The Archipelago of Gai-Nymph[/nation]
 
 [hr]
 
