@@ -1,7 +1,7 @@
 [color=red][b]Welcome To The Military Commonwealth[/b][/color]
 
 King: [nation]The Great European Commonwealth[/nation]
-[color=blue]WA delegate:[/color] vacant
+[color=blue]WA delegate:[/color] [nation]Celter[/nation]
 
 [color=red]Prime Minister:[/color] [nation]Azdaria[/nation]
 [color=red]Deputy Prime Minister:[/color] [nation]Drasolopia[/nation]
@@ -11,12 +11,12 @@ King: [nation]The Great European Commonwealth[/nation]
 [color=orange]Chief Justice:[/color] [nation]Silver Rainbow Fumes[/nation]
 [color=orange] Judge:[/color] Vacant
 [color=orange] Judge:[/color]Vacant
-[color=purple]Chief Diplomats:[/color] vacant
+[color=purple]Recruiter:[/color] vacant
 [color=purple]Diplomat [/color]five positions
 
 Our off-site forum
 [url=http://w11.zetaboards.com/MilitaryCommonwealth/index/]Military Commonwealth Communications net[/url]
 [color=blue]Rules[/color]
-1.Endorse Founder and Delegate
+1.[b]Endorse Founder and Delegate[/b]
 2.Try and Recruit
 3.Play nice

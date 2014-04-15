@@ -1,11 +1,5 @@
-[nation]Alkoul[/nation]
 [b]Head of State[/b] King Andrew II
-[b]Prime Minister[/b] none
-[b]Population[/b] 45.8 million
+[b]Head of Government[/b] Chancellor Lydia Star
+Population: 43,269
+Land Area: 2.5 sq miles
 
-[u]The nine states[/u]
-[nation=short]United Fantasia[/nation]
-[nation=short]Tres Beau[/nation]
-[nation=short]State of Alkoul[/nation]
-[nation=short]Pirre la Rivera[/nation]
-[nation=short]Mer de Fleurs[/nation]

@@ -12,10 +12,6 @@ Leader: Adrios Kratz
 Regional Animal: Adler
 Regional Motto: &Uuml;ber alles in der Welt[/color][/list]
 
-[b][color=black]Associated Regions[/color][/b]
-
-[list][color=silver][region]Paraguay[/region], [region]Asuncion[/region], [region]Rio de Janeiro[/region], [region]Brasilia[/region] and [region]Sao Paulo[/region].[/color][/list]
-
 [b][color=black]Rules[/color][/b]
 
 [list][color=silver]Embassies only with associated or friendly regions

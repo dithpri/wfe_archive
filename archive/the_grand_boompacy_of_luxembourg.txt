@@ -4,10 +4,14 @@
 
 [Color=yellow]We will accept any embassy request.[/color]  
 
-[Color=green]The Constitution is in the process of being ratified.[/color]
+[Color=green]The Constitution has been ratified![/color]
 
-[Color=blue]If you have any questions, ask our Founder: [nation]Schiltzberg[/nation][/color]
+[Color=blue]If you have any questions, ask our Founder/Grand Boompa: [nation]Schiltzberg[/nation][/color]
 
 [Color=indigo]We encourage all members to join the WA![/color]
 
-[Color=purple]Political positions open soon![/color][/b]
+[Color=purple]Political positions open![/color]
+
+[Color=green]WA Delegate/Speaker: [Nation]Great Zurich[/nation]
+
+Chief Justice: [Nation]Boompa[/nation][/b][/color]
