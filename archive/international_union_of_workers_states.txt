@@ -1,6 +1,6 @@
-[b]Defense Status:[/b] [color=Blue]DEFSTAT 4[/color] [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=291312]TAWS Civil War[/url]
+[b]Defense Status:[/b] [color=Blue]DEFSTAT 4[/color] [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=291312]TAWS Civil War (Post-War)[/url]
 
-[b]Latest News:[/b] Transcaucasian AWS splits following bloody civil war. 
+[b]Latest News:[/b] [nation=short]Atallant[/nation] acts very aggressively against [nation=short]Krasniya[/nation], increases tensions. 
 
 [hr]
 
@@ -13,7 +13,6 @@
 
 [b]Workers&amp;#39; States[/b]
 
-[nation]Batorvidek[/nation]
 [nation]Krajstali[/nation]
 [nation]Slakia[/nation]
 [nation]Kavaii[/nation]
@@ -26,10 +25,11 @@
 [nation=short]Puerto Cienfuegos[/nation]
 [nation=short]Arubiana[/nation]
 [nation=short]Krantzania[/nation]
+[nation=short]Karrar[/nation]
 
 [hr]
 
 [b]Autonomous Workers&amp;#39; States[/b]
 
 [nation=short]Xaraian[/nation]
-[nation=short]Lockiee[/nation]
+[nation=short]Lockiee[/nation] (Occupied)

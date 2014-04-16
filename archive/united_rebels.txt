@@ -1,12 +1,19 @@
-Welcome to the United Rebels.
-Regional Motto    &amp;quot;Where the nations are strong and free from regional oppression.&amp;quot;
+[color=blue][b]Welcome to the United Rebels.[/b][/color]
+Regional Motto:&amp;quot;Where the nations are strong and free from oppression.&amp;quot;
 
-Regional Scribe: 
-Kingdom of Hendaria
+[color=blue][u]Regional Scribe:[/u][/color]
+[nation]Hendaria[/nation]
 
-Regional Council: 
-Republic of Remainders
-Kingdom of Hendaria
+[color=blue][u]Regional Council:[/u][/color]
+[nation]Gurnol[/nation]
+[nation]Potatoepolis[/nation]
+[nation]Land of Chase[/nation]
+[nation]Dorkfish[/nation]
+[nation]Verbrecherlund[/nation]
+[nation]High Nationss[/nation]
+[nation]Yankies[/nation]
+
+[url=https://sites.google.com/site/unitedrebels1/]Regional Website[/url]
 
 Thing-a-week RMB topic:
 Regional/National Anthem?

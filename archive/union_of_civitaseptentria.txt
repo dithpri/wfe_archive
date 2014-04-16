@@ -4,8 +4,8 @@ The union consists of:
 
 [nation]Civitaseptentria[/nation]
 ...[nation]Silvaterra-Wasserland[/nation]
-......[nation]Fimbria[/nation]
 ......[nation]South Fimbria[/nation]
+...[nation]Fimbria[/nation]
 
 [nation]Alekstan[/nation]
 ...[nation]Extracontinent[/nation]

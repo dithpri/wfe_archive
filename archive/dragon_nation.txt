@@ -4,13 +4,13 @@ Lord of Water: [nation]Awesome Sauce Bro[/nation]
 Treasurer of the gods: [nation]Galamence[/nation]
 
 Ministry
-1.Minister:War[nation]Lord Trenk[/nation]
-2.Minister:Foreign Affairs[nation]Awesome Sauce Bro[/nation]
+1.Minister:War:[nation]Lord Trenk[/nation]
+2.Minister:Foreign Affairs:[nation]Awesome Sauce Bro[/nation]
 3.Minister:Commerce: [nation]Galamence[/nation]
-4.Minister:Transport [nation]Krazeria[/nation]
-5.Minister:Health/Environment 
+4.Minister:Transport: 
+5.Minister:Health/Environment: 
 6.Minister:Law/Order:[nation]Iclfal[/nation]
-7.Minister:Education/Science [nation]Awesome Sauce Bro[/nation]
+7.Minister:Education/Science: [nation]Awesome Sauce Bro[/nation]
 8.Minister:Agriculture
 9.Minister:Interstellar business:[nation]Elysium Of Heroes[/nation]
 10.Minister:Religions [nation]Elysium Of Heroes[/nation]

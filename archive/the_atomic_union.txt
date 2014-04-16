@@ -1,5 +1,15 @@
 [b]Welcome to [color=red]the Atomic Union![/b][/color]
 
-[color=blue][b]Supreme Leader:[/b][/color] [url=http://www.nationstates.net/nation=dracvale][b][color=green]Dracvale[/color][/b][/url]
-
 [b]A regional constitution is currently being drafted.[/b]
+
+[color=blue][b]Supreme Leader:[/b][/color] [nation=short]Dracvale[/nation]
+
+[color=blue][b]Prime Minister:[/b][/color] Vacant
+
+[color=blue][b]Minister of Defense:[/b][/color] Vacant
+
+[color=blue][b]Minister of Diplomacy:[/b][/color] Vacant
+
+[color=blue][b]Minister of Internal Affairs:[/b][/color] Vacant
+
+[color=blue][b]High Magistrate:[/b][/color] Vacant
