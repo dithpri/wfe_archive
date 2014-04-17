@@ -1,18 +1,13 @@
-[color=000066][b]Ancient Lands[/b][/color][hr][list][color=006600]Home for our ancient puppets
+[color=000066][b]Ancient Lands[/b][/color][hr][color=006600]Home for our ancient puppets
 [b]Caretakers:[/b]
-&#149; [nation=short]Dog Lake[/nation]
-&#149; [nation=short]Royal House of Windsor[/nation]
-[/color][color=006400]
-HEADQUARTERS REGION
-ASSOCIATE REGION[list]&#149; [region=United States of America][/list]ALLIED REGIONS[list]&#149; [region=Great Britain and Northern Ireland]
-&#149; [region=Russian Federation][/list]PUPPET STORAGE REGIONS[list]&#149; [region=Japvia]
-&#149; [region=The Americas]
-&#149; [region=High Orion Alliance]
-&#149; [region=United Kingdom of Ireland]
-&#149; [region=The European and African Union][/list][/color][color=008000]
-[b]Links:[/b][list]&#149; [url=http://nsdossier.texasregion.net/]Dossier Tools[/url] (from [region=Texas])
-&#149; [url=http://nseconomy.thirdgeek.com/nseconomy.php]NSEconomy[/url]
-&#149; [url=http://forum.nationstates.net/viewtopic.php?f=16&amp;amp;t=74486]ONE STOP RULES[/url]
-&#149; http://www.nationstates.net/page=faq
-&#149; http://www.nationstates.net/page=boneyard[/list][/color][color=990000]
-[list][b]EMBASSIES ARE WELCOME[/b][/color]
+&#149; [nation=short]Dog Lake[/nation] &#149; [nation=short]Royal House of Windsor[/nation] &#149;[/color][color=006400]
+[b]HEADQUARTERS REGION[/b]
+ASSOCIATE REGION
+&#149; [region=United States of America] &#149;
+ALLIED REGIONS
+&#149; [region=Great Britain and Northern Ireland] &#149; [region=Russian Federation] &#149;
+PUPPET STORAGE REGIONS
+&#149; [region=Japvia] &#149; [region=The Americas] &#149; [region=High Orion Alliance] &#149; [region=United Kingdom of Ireland] &#149; [region=The European and African Union] &#149;[/color][color=008000]
+[b]Links:[/b]
+&#149; [url=http://nsdossier.texasregion.net/]Dossier Tools[/url] (from [region=Texas]) &#149; [url=http://nseconomy.thirdgeek.com/nseconomy.php]NSEconomy[/url] &#149; [url=http://forum.nationstates.net/viewtopic.php?f=16&amp;amp;t=74486]ONE STOP RULES[/url] &#149; http://www.nationstates.net/page=faq &#149; http://www.nationstates.net/page=boneyard[/color][color=990000]
+[b]EMBASSIES ARE WELCOME[/b][/color]

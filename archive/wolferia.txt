@@ -1,5 +1,10 @@
-[color=blue][b]This region is in control of the[/b][/color] [region]Bubble Buddies[/region]
-[color=red][b]Raiders that helped:[/b][/color]
-[nation]The Great Antarctic Penguins[/nation]
-[nation]Raidton Alpha[/nation]
-[nation]Stillcloud[/nation]
+    [b][color=#000061]Huzzah! Huzzah! Huzzah! This region proved no match for a charge by [region=The Black Riders]![/color]
+
+    [color=black]Occupied by [url=http://www.youtube.com/watch?v=qB1kp9adYYE]The Black Riders[/url]! Our lair can be found [/color] [url=http://s4.zetaboards.com/The_Black_Riders/index/]here[/url]
+
+    [color=#000061]Into the battle rode the following riders:[/color]
+    [nation=short]RiderSyl[/nation], the newest Trigger Man of TBR!!!
+    [nation=short]Kknight[/nation]
+    [nation=short]wetwork XIII[/nation]
+    [nation=short]Coraxion[/nation]
+    [/b]

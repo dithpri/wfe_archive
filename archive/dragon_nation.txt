@@ -1,6 +1,7 @@
 Lords
 Overlords: [nation]Elysium Of Heroes[/nation] [nation]God King David[/nation]
 Lord of Water: [nation]Awesome Sauce Bro[/nation]
+Lord of Poison: [nation]Lord Trenk[/nation]
 Treasurer of the gods: [nation]Galamence[/nation]
 
 Ministry
@@ -12,5 +13,4 @@ Ministry
 6.Minister:Law/Order:[nation]Iclfal[/nation]
 7.Minister:Education/Science: [nation]Awesome Sauce Bro[/nation]
 8.Minister:Agriculture
-9.Minister:Interstellar business:[nation]Elysium Of Heroes[/nation]
-10.Minister:Religions [nation]Elysium Of Heroes[/nation]
+9.Minister:Religions [nation]Elysium Of Heroes[/nation]

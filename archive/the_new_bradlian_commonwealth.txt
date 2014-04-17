@@ -1,8 +1,6 @@
 This region is for the commonwealths of Bradlia to reside in.
-
-Chief Nation: [nation]bradlia[/nation]
-
-Official Commonwealths:
+Commonwealths:
+[nation]bradlia[/nation]
 [nation]liceentiaa[/nation]
 [nation]demarcio[/nation]
 [nation]fiducia[/nation]

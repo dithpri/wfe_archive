@@ -12,6 +12,9 @@ Totalitarian Spirit: [nation]Stojanistein[/nation]
 Foreign Affairs: [nation]Valcouria[/nation]
 Internal Affairs: [nation]The Mighty Hyena[/nation]
 
+DICTATOR OF THE MONTH
+[nation]The Corgis[/nation]
+
 REGIONS RAIDED
 34
 
