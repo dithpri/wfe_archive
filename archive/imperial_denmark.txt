@@ -1,8 +1,9 @@
-[b][color=#f882b0]Welcome[/color] to [region]Imperial [/region] [color=red]Denmark [/color]![/b]
-[color=#5b163c][b]Monarch:[/color][/b][b][color=6699FF] Queen Allison I[/color]
+[color=#400000]Welcome to Imperial Denmark![/color]
 
-[hr]
+[color=#800000]Imperial Monarch:[/color] Queen Allison I of [nation]austria_and_germany[/nation]
+[color=#BF0000]Archduchess:[/color] Queen Jok Hekweda Vavaske of [nation]Iquasia[/nation]
 
-[u][i][color=#3FF439]PROUD VIKINGS[/color][/i][/u][/B] !
+[color=#BF0040]Grand Duke/Duchess:[/color] vacant (message [nation]austria_and_germany[/nation] in interested)
+[color=#FF0040]Duke/Duchess:[/color] vacant (message [nation]iquasia[/nation] if interested)
 
-[i][B]Embassy&amp;#39;s Welcome.[/B][/i]
+[color=#FF8000]Imperial Secretary:[/color] vacant (message [nation]iquasia[/nation] if interested)

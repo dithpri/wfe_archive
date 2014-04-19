@@ -8,17 +8,17 @@
 
 Speaker: [nation=short]istiglal[/nation]
 
-Justice Officer: [nation=short]Munray[/nation]
+Justice Officer: 
 
 Prime Minister:
 
 Minister of Foreign Affairs:
 
-Minister of Legal Affairs: [nation]Aeternabilis[/nation]
+Minister of Legal Affairs: [nation=short]Aeternabilis[/nation]
 
 Minister of Defense: [nation=short]gomlis44[/nation]
 
-Minister of Internal Affairs:[/color]
-[color=#0404B4][hr]Topic of the week: Who Will Be Minister of Internal Affairs?[/color]
-[hr][i]Please join the [b][url=http://www.nationstates.net/page=un]World Assemble[/url][/b] and endorse our delegate, [nation]Aeternabilis[/nation]. 
+Minister of Internal Affairs:[/color] [nation=short]the first Carthage[/nation]
+[color=#0404B4][hr]Topic of the week: Prime Minister, Justice Officer, And Foreign Affairs Minister Needed.[/color]
+[hr][i]Please join the [b][url=http://www.nationstates.net/page=un]World Assembly[/url][/b] and endorse our delegate, [nation]Aeternabilis[/nation]. 
 -Term ends June 16, 2014-[/i]

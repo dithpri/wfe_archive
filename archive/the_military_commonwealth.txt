@@ -1,21 +1,21 @@
 [color=red][b]Welcome To The Military Commonwealth[/b][/color]
 
 King: [nation]The Great European Commonwealth[/nation]
-[color=blue]WA delegate:[/color] [nation]Celter[/nation]
+[color=blue]WA delegate:[/color] [nation]Celter[/nation] ENDORSE
 
-[color=red]Prime Minister:[/color] [nation]Azdaria[/nation]
+[color=red]Prime Minister:[/color] [nation]Azdaria[/nation] 
 [color=red]Deputy Prime Minister:[/color] [nation]Drasolopia[/nation]
 [color=red]Minister of Defence:[/color] [nation]Liberated Democratic Puppets[/nation]
 [color=green]Minister of Foreign Affairs:[/color] [nation]Celter[/nation]
 [color=green]Minister of Commonwealth Affairs:[/color][nation]Theoniatium[/nation] 
 [color=orange]Chief Justice:[/color] [nation]Silver Rainbow Fumes[/nation]
 [color=orange] Judge:[/color] [nation]Peoples Templars[/nation]
-[color=orange] Judge:[/color]Vacant
+[color=grey] Special forces command:[/color] [nation]Coopanonva[/nation]
 [color=purple]Recruiter:[/color] vacant
-[color=purple]Diplomat [/color]five positions
+[color=purple]Diplomat: [/color]five positions
 
 
 [color=blue]Rules[/color]
-1.[b]Endorse Founder and Delegate[/b]
+1.[b]Endorse WA Delegate[/b]
 2.Try and Recruit
 3.Play nice

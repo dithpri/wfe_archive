@@ -1,6 +1,5 @@
 [color=black][u][b]Protektorate of [region]the Greater German Reich[/region][/b][/u][/color]
 [region]The Republic of Hatay[/region]
-[region]The Czechoslovak Republic[/region]
 [region]The Albanian Kingdom[/region]
 [region]The Mandate for Palestine[/region]
 [region]The British Mandate for Palestine[/region]
@@ -28,3 +27,4 @@
 [region]Socialist Liberal Union[/region]
 [region]The Black Army[/region]
 [region]The Islamic Republic of Iran[/region]
+[region=Censored Region]

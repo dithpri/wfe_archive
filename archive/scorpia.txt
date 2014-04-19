@@ -6,7 +6,7 @@ President:[nation]united nationals[/nation]
 (Delegate)General:
 (Vice Delegate)Lieutenant General:
 Colonel:
-Major:
+Major:[nation]Danial2[/nation]
 Captain:
 lieutenant:
 
@@ -17,7 +17,7 @@ Staff Sergeant
 Sergeant:
 
 -Other-
-Corporal:
+Corporal:[nation]Tower And Sword[/nation]
 Specialist:
 Private First class:
 Private:
