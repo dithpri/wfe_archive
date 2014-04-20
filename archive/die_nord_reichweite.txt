@@ -1,6 +1,6 @@
-[B][color=orange]THREAT LEVEL MODERATE[/color][/B]
+[B][color=red]THREAT LEVEL EXTREME[/color][/B]
 An expanse of industrial wasteland, cold temperate forests, mountains, and tundra.
-[region]Kolonien der Macht[/region] lies to the south, beyond a huge mountain range, and the [region]United Nations of Virtus[/region] lay somewhere over the ocean, presumably.
+[region]Kolonien der Macht[/region] lies to the south, beyond a huge mountain range, and [region]Sauvania[/region] sits somewhere to the southwest, presumably.
 [b]Regional Overwatch[/b]: [nation]The Inquisition Syndicate[/nation]
 [b]Regional Peacekeeper[/b]: [nation]Velburg[/nation]
 [b]Regional Market Powers[/b]: [nation]Tri-Net[/nation] and affiliated states

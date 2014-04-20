@@ -1,4 +1,4 @@
-[b][color=red]Welcome to the [region]Southern Region of Ontorion[/region]![/color][/b]
+[b][color=blue]Welcome to the [region]Southern Region of Ontorion[/region]![/color][/b]
 
 [b][color=red]This small and growing region is open to all ideas and forms of government.[/color][/b]
 [color=green]Feel free to do whatever you think would be best for the region. You can join if you want to, we&amp;#39;re always looking for new nations![/color]
@@ -7,7 +7,10 @@
 [b][color=red]King:[/color][/b] [nation=short]Rayiin[/nation]
 [b][color=purple]Queen:[/color][/b] [nation=short]Greene Anarchy[/nation]
 -
-[b]WA Delegate:[/b] [nation=short]Hosmerica[/nation]
--
-Superpower: [nation=short]Sergiotopia[/nation]
-Advisor: [nation=short]Balklands[/nation]
+[b]WA Delegate:[/b] [nation=long]Hosmerica[/nation]
+
+[b][color=red]Following Nations:[/color][/b]
+Powerbroker: [nation=short]Sergiotopia[/nation]
+Advisor/Eminence Grise: [nation=short]Balklands[/nation]
+Eminence Grise: [nation=short]WubWubWubistan[/nation]
+Eminence Grise: [nation=short]Nightwolfisland[/nation]

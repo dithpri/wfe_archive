@@ -1,11 +1,3 @@
-[b]This region fell to the forces of [region]The Eternal Knights[/region]!
+[color=darkgreen]We have gone to walk the paths of the dead. If we do not return, you know what the result was.[/color]
 
-In the midst of the night, The Eternal Knights infiltrated and attacked, leaving no survivors in the great purge:
-[nation=short]Nephmir[/nation]
-[nation=short]NoblePhnx[/nation]
-[nation=short]Unified Protectors[/nation][/b][hr][b]This region fell to the forces of [region]The Eternal Knights[/region]...again!
-
-In the midst of the night, The Eternal Knights infiltrated and attacked, leaving no survivors in the great purge:
-[nation=short]Nephmir[/nation]
-[nation=short]Unified Protectors[/nation]
-[nation=short]NoblePhnx[/nation][/b]
+[color=darkgold]Featured Region on May 7th, 2013.[/color]
