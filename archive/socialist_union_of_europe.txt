@@ -7,7 +7,7 @@ THESE NATIONS ARE IN THE WORLD ASSEMBLY
 [nation]Socialist Latvia[/nation] delegate
 [nation]Crimea and Sevastopol[/nation] vice delegate
 
-ELECTION CANDIDATES ARE FINAL. Voting begins in 3 days.
+ELECTION CANDIDATES ARE FINAL. Voting is in the process now. 9/10 nations have voted.
 Candidates
 [nation]Socialist Latvia[/nation]
 [nation]The Socialist Finnish Republic[/nation]
@@ -15,6 +15,6 @@ Candidates
 
 
 
-CURRENT UNION LEADER: [nation]Greater Kiev[/nation]
+CURRENT UNION LEADER: TBD
 
 TERM IS: 1 MONTH

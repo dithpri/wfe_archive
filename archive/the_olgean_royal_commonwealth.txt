@@ -5,10 +5,10 @@ Sovereign: H.I.R.H. Grand Prince Drake II of [nation]Olgea[/nation]
 
 [b]Commonwealth Government[/b]
 The First Lord of the Commonwealth:
-Lord High Chamberlain:
-Lord Earl Marshall:
+Lord Delegate: [nation=short]Greater Banitia[/nation]
+Lord Marshal of the Armies:
 Lord High Justice:
-Lord of Media Affairs:
-Lord of Foreign Affairs:
+Lord Officer of Media Affairs:
+Lord Officer of Foreign Affairs:
 
 [b][u]The first elections will begin when we have 20 active nations[/b][/u]

@@ -9,9 +9,9 @@
 
 [color=red][b][u]Allied States Congress[/u][/b][/color]
 
-[b]Senate Majority Leader:[/b] TBE
-[b]Senator: [/b] TBE
-[b]Senator: [/b] TBE
+[b]Senate Majority Leader:[/b] [nation]New Christland[/nation]
+[b]Senator: [/b] [nation]Southern Duncan[/nation]
+[b]Senator: [/b] [nation]United States of Hamburg[/nation]
 [b]Senator: [/b] TBE
 
 [b]Speaker of the House[/b]: TBE

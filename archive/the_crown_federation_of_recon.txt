@@ -8,13 +8,13 @@ Our 3 core values are [u]meritocracy, efficiency and hierarchy[/u]. [/b]
 
 [color=olive][b]Emperor: [/b][nation=short]The Recon Empire[/nation][/color]
 
-[color=maroon][b]High Chancellor: [/b][nation=short]Boraealum[/nation][/color]
+[color=maroon][b]High Chancellor: [/b][/color]
 [color=blue]
-[b]Lord Minister of Foreign Affairs: [/b]
-[b]Lord Minister of Interior Affairs: [/b][nation=short]Illaniosa[/nation]
+[b]Lord Minister of Foreign Affairs: [/b][nation=short]Bulchara[/nation]
+[b]Lord Minister of Interior Affairs: [/b]
 [b]Lord Minister of Media &amp;amp; Culture: [/b][nation=short]Poretos[/nation]
-[b]Lord Minister of Regional Security: [/b][nation=short]Stalinist Imperial Union[/nation]
-[b]Lord High Justice: [/b][nation=short]Sacheyenya[/nation][/color]
+[b]Lord Minister of Regional Security: [/b]
+[b]Lord High Justice: [/b][/color]
 [hr]Please endorse King Lee I of [nation=short]The Recon Empire[/nation].
 [b]Endorsement Cap: 3[/b][hr]
 Check out our [b][url=http://www.nationstates.net/nation=the_recon_empire/detail=factbook/id=245377]associated regions here![/url][/b]
