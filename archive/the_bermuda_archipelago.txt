@@ -4,32 +4,30 @@
 
 [b]Regional Animal:[/b] Humpback Whale
 
-[b]Regional Plant:[/b] Urkazonian Acacia
-
 [b]Anthem:[/b] Battle Cry of the Alliance
 
 [b]Regional Capitol:[/b] Sargasso City
 
-[b][color=blue]Administration[/color][/b]
+[b][color=darkred]Administration[/color][/b]
 [hr]
 [b]Region President: [nation]Intergalactic Federation of Systems[/nation][/b]
 
 [b]Head of Foreign Affairs: [nation]Urkazon[/nation][/b]
 
-[b][color=blue]Cabinet[/color][/b]
+[b][color=darkred]Ministry[/color][/b]
 [hr]
 [b]Treasurer: [nation]Temesukah[/nation][/b]
 
-[b]Minister of Defense: [nation]Eu-dop3ia[/nation][/b]
+[b]Minister of Defense: [nation]Sector 39[/nation][/b]
 
 [b]Minister of Communication: [nation]Polandora[/nation][/b]
 
-[b]Minister of Technology: [nation]Sector 39[/nation][/b]
+[b]Minister of Scientific Advancment: [nation]Emergency Research Coalition[/nation][/b]
 
 [b]website can be found[url=http://ebsouthworth5.wix.com/walden-nationstates-]here[/url][/b]
 [hr]
 
-[b][color=red]Recent News[/color][/b]
-Several nations have fallen, a moment of silence for the dead.
+[b][color=darkred]News[/color][/b]
+Sector 39 has been recaptured by the IFS and ERC.
 
 [hr]

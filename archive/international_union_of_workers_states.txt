@@ -16,6 +16,7 @@
 [nation]Krajstali[/nation]
 [nation]Slakia[/nation]
 [nation]Kavaii[/nation]
+[nation]Ahrana[/nation]
 
 [hr]
 
@@ -25,7 +26,7 @@
 [nation=short]Puerto Cienfuegos[/nation]
 [nation=short]Arubiana[/nation]
 [nation=short]Krantzania[/nation]
-[nation=short]Karrar[/nation]
+[nation=short]Batoristan[/nation]
 
 [hr]
 
