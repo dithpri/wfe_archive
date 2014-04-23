@@ -5,12 +5,12 @@
   [World Assembly Delegate]  [nation=The Reformed Knights Templar]
   [Secretary of Internal Affairs]  [nation=Aerafar]
   [Secretary of Interior Decorating]  [nation=Chloestotska]
-  [Secretary of Recruits]  [color=blue]OPEN[/color]
   [Secretary of Diplomacy]  [nation=Lessau]
+  [Secretary of Amendments and Poll Proposals]  [nation=hildenwitz]
   [Role Play Administrator]  [nation=Vadius]
+  
 [/b]
-[i]
-Want to get elected into the Regional Government? Telegram [nation=Slice of Bread] for more information![/i]
-
-
-
+[color=blue]
+[b]
+Read up on our Regional Rules and Regulations!  Telegram [nation=Slice of Bread] with feedback!
+[u][url=https://docs.google.com/document/d/1PvWFO0QlSaNwooV_7mxXC6p5b6C70pzzfmuRGp3NphI/edit?usp=sharing]Regional Constitution[/url][/u][/b][/color]

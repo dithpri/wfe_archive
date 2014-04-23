@@ -19,7 +19,6 @@ Military Operations Directorate of [region]The Fascist Union[/region].
 [u]Dilectum Legionis [Enlisted Corps][/u]
 
 [nation=short]Mense[/nation] Evocati (Sergeant)
-[nation=short]Ldddd[/nation] Evocati (Sergeant)
 [nation=short]Chezek[/nation] Evocati (Sergeant)
 [nation=short]Iaeptus[/nation] Evocati (Sergeant)
 [nation=short]Slarvenia[/nation] Evocati (Sergeant)

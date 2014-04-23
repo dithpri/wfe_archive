@@ -3,8 +3,6 @@ This is the Union of Civitaseptentria.
 The union consists of:
 
 [nation]Civitaseptentria[/nation]
-...[nation]Silvaterra-Wasserland[/nation]
-......[nation]South Fimbria[/nation]
 ...[nation]Fimbria[/nation]
 
 [nation]Alekstan[/nation]
@@ -15,3 +13,6 @@ The union consists of:
 
 [nation]Fronochmedland[/nation]
 ...[nation]Rebonutkaland[/nation] 
+
+[nation]Silvaterra-Wasserland[/nation]
+...[nation]South Fimbria[/nation]
