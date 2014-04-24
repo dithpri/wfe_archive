@@ -3,16 +3,14 @@ This is the Union of Civitaseptentria.
 The union consists of:
 
 [nation]Civitaseptentria[/nation]
-...[nation]Fimbria[/nation]
-
-[nation]Alekstan[/nation]
-...[nation]Extracontinent[/nation]
-
-[nation]Piceastan[/nation]
 ...[nation]Abiegnarcia[/nation]
-
-[nation]Fronochmedland[/nation]
+...[nation]Extracontinent[/nation]
+...[nation]Fimbria[/nation]
 ...[nation]Rebonutkaland[/nation] 
-
-[nation]Silvaterra-Wasserland[/nation]
 ...[nation]South Fimbria[/nation]
+[nation]Alekstan[/nation]
+[nation]Piceastan[/nation]
+[nation]Fronochmedland[/nation]
+[nation]Silvaterra-Wasserland[/nation]
+[nation]Makaroonivelli[/nation]
+[nation]Pectopah[/nation]

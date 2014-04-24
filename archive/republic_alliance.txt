@@ -5,8 +5,8 @@
 
 [b][u]Executive[/u][/b] 
 [color=Blue][b]Prime Minister: [nation=short]San Pasto[/nation][/b][/color]
-[color=Blue][b]Deputy Prime Minister: TBT[/b][/color]
-[color=Blue][b]Attorney General: TBT[/b][/color]
+[color=Blue][b]Deputy Prime Minister: [nation=short]UnitedProvinceOfRepublica[/nation][/b][/color]
+[color=Blue][b]Attorney General: [nation=short]Kingdom of Reynes[/nation][/b][/color]
 
 [hr][b][u]Parliament[/u][/b]
 [color=Green][b]All Member Nations[/b][/color]

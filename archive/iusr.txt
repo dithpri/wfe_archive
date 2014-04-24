@@ -1,0 +1,26 @@
+[b]Defense Status:[/b] [color=Green]DEFSTAT 5[/color]
+
+[b]Latest News:[/b] International Union of Workers&amp;#39; States becomes renamed as the International Union of Socialist Republics.
+
+[hr]
+
+[b]Federal Socialist Republics[/b]
+
+[nation]Krasniya[/nation]
+[nation]Czervenika[/nation]
+
+[hr]
+
+[b]Socialist Republics[/b]
+
+[nation]Kavaii[/nation]
+[nation]Slakia[/nation]
+[nation]Krajstali[/nation]
+
+[hr]
+
+[b]Workers&amp;#39; States[/b]
+
+[nation=short]San Navazques[/nation]
+[nation=short]Batoristan[/nation]
+[nation=short]Somstratzka[/nation]

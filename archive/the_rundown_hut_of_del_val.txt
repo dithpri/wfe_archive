@@ -6,11 +6,11 @@ Nations being ejected at the end of the month unless above requirements met:
 None
 [hr]
 Announcements:
-[color=turquoise]Some sad news: [b]The Republic of Democracy Suzy Q Style[/b] ceased to exist.[/color]
-[color=turquoise]some more sad news: [b]The Constitutional Democracy of Fitzburgh[/b] ceased to exist[/color]
+[color=clear][b]congratulations to [nation]Whittakria[/nation] on the Head of Military position![/color][/b]
 [color=navy]New positions available by regional poll![/color]  [color=gold]VOTE NOW!!![/color]
 [hr]
-Head of Military: [color=lime]OPEN[/color]
+Head of Military: [nation]whittakria[/nation]
 Head of Regional Affairs: [color=lime]OPEN[/color]
 Head of Commerce: [color=lime]OPEN[/color]
+Spiritual Leader: [color=lime]OPEN[/color]
 Others?: [color=lime]OPEN[/color]
