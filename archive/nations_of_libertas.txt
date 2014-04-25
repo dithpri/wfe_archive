@@ -6,7 +6,7 @@
   [Department of Amendments]  [nation=hildenwitz]
   [Department of Internal Affairs]  [nation=Aerafar]
   [Department of Interior Decorating]  [nation=Chloestotska]
-  [Department of Diplomacy]  [nation=Lessau]
+  [Department of Diplomacy]  OPEN
   [Role Play Administrator] [nation=Vadius]
 [/color]
 [/b]

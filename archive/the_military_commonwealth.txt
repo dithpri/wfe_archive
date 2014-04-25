@@ -7,7 +7,7 @@ King: [nation]The Great European Commonwealth[/nation]
 [color=red]Deputy Prime Minister:[/color] [nation]Drasolopia[/nation]
 [color=red]Minister of Defence:[/color] [nation]Liberated Democratic Puppets[/nation]
 [color=green]Minister of Foreign Affairs:[/color] [nation]Celter[/nation]
-[color=green]Minister of Commonwealth Affairs:[/color][nation]Theoniatium[/nation] 
+[color=green]Minister of Commonwealth Affairs:[/color] vacant
 [color=orange]Chief Justice:[/color] [nation]Silver Rainbow Fumes[/nation]
 [color=orange] Judge:[/color] [nation]Peoples Templars[/nation]
 [color=grey] Special forces command:[/color] [nation]Coopanonva[/nation]

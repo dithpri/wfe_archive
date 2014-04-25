@@ -5,12 +5,12 @@
 [hr] 
 [B][color=#000080]Your Regional Government![/color][/B]
 
-Founder: [nation]Valrifell[/nation]
+Founder: [nation=short]Valrifell[/nation]
 
-WA Delegate: MIA
+WA Delegate: [nation=short]United Nationals[/nation]
 
-Other people of significance (for some reason):
-
+Advisers: [nation=short]The Sapientia[/nation]
+[nation=short]The Shadow Assassin[/nation]
 [hr]
 [B][color=#000080]Roleplays:[/color][/B]
 We don&amp;#39;t have any, but we will! I swear it!

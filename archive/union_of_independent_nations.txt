@@ -1,22 +1,19 @@
 [b]Alert Level:[/b] [color=green]LOW[/color]
 
-[b]UIN Herald:[/b] The Union of Independent Nations adopts the Partio as a regional currency.
+[b]UIN Herald:[/b] 
+-The Union of Independent Nations adopts the Partio as a regional currency. 
+-Worldwide Media Administration created. 
+-Please endorse Atallant as WA delegate.
 [hr]
 
-[b]Administrative States[/b]
-
-[nation]Peihan[/nation]
-[nation]Great Slatain[/nation]
-
-[hr]
-
-[b]Member States[/b]
-
-[nation]Ordorinia[/nation]
+[b]Administrative Nations[/b]
 [nation]Atallant[/nation]
-[nation]Mukhtadesh[/nation]
+[nation]Peihan[/nation]
 
+[b]Member Nations[/b]
+[nation]Ordorinia[/nation]
+[nation]Mukhtadesh[/nation]
 [hr]
 
-[url=http://postimg.org/image/pcg4parhp/full/]Full World Map[/url] (Last Update: 21/4/14)
-[url=http://s22.postimg.org/sfhbc1ne7/Map_Regional.png]Regional World Map[/url] (Last Update: 21/4/14)
+[url=http://s24.postimg.org/sbfggnrhf/Map.png]Full World Map[/url] (Last Update: 25/4/14)
+[url=http://s21.postimg.org/omoh644gl/Map_Regional.png]Regional World Map[/url] (Last Update: 25/4/14)

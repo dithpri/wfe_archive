@@ -1,6 +1,6 @@
 [b]Defense Status:[/b] [color=Green]DEFSTAT 5[/color]
 
-[b]Latest News:[/b] International Union of Workers&amp;#39; States becomes renamed as the International Union of Socialist Republics.
+[b]Latest News:[/b] [url=/page=dispatch/id=245128]Vodka festival to be held in San Navazques[/url]
 
 [hr]
 
@@ -13,7 +13,6 @@
 
 [b]Socialist Republics[/b]
 
-[nation]Kavaii[/nation]
 [nation]Slakia[/nation]
 [nation]Krajstali[/nation]
 
@@ -21,6 +20,15 @@
 
 [b]Workers&amp;#39; States[/b]
 
-[nation=short]San Navazques[/nation]
-[nation=short]Batoristan[/nation]
-[nation=short]Somstratzka[/nation]
+[nation]San Navazques[/nation]
+[nation]Batoristan[/nation]
+[nation]Somstratzka[/nation]
+[nation]Ahrana[/nation]
+
+[hr]
+
+[b]Educational Links[/b]
+
+[b][url=http://www.marxists.org/archive/marx/works/download/pdf/Manifesto.pdf]The Communist Manifesto[/url][/b]
+[url=http://www.marxists.org/archive/lenin/works/index.htm]Works of Vladimir Lenin[/url]
+[url=http://www.marxists.org/reference/archive/stalin/index.htm]Works of Josef Stalin[/url]
