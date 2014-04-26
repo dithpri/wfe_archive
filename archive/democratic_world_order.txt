@@ -1,5 +1,5 @@
-We arelregions that are looking for peace. We may be a new region but we will grow strong. 
---------------------------------------------------
+We are regions that are looking for peace. We may be a new region but we will grow strong. 
+---------------------------------------------
 [color=red]President[/color]: [nation]The Deitschs New World[/nation]
 [color=blue]Vice President[/color]: [nation]Anfiva[/nation]
 Minister of Defence: Open
@@ -8,9 +8,9 @@ Minister of Foreign Affairs: Open
 Minister of Iinternal Affairs: Open
 [color=blue]WA Delegate[/color]: [nation]Anfiva[/nation]
 
---------------------------------------------------
+---------------------------------------------
 Parliment:
-Seat 1: Open
+Seat 1: [nation]Vangard of Anfiva[/nation]
 Seat 2: Open
 Seat 3:Open
 Seat 4:Open

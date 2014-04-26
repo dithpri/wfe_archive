@@ -3,7 +3,7 @@
 [color=gold]GOVERNMENT
 President: [nation=Panastan]
 Vice President: [nation=Kulginastan]
-General of the Army: [nation=kanatistan II][/color] 
+General of the Army: [nation=Panastan][/color] 
 [color=gold]Ambassador: [nation=Kulginastan] 
 
 Everyone works on what they desire but cooperatively[/color]

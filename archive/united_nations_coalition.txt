@@ -9,9 +9,9 @@ This [b]United Nations Coalition[/b] is a democratic region that believes that a
 [b]Secretary of Domestic Affairs:[/b] [nation=short]East Orania[/nation]
 [b]Secretary of Foreign Affairs:[/b] [nation=short]Kynnland[/nation]
 [b]Secretary of Defense:[/b] [nation=short]The Black Russian Terriers[/nation]
-[b]Secretary of Immigration:[/b] Vacant
+[b]Secretary of Immigration:[/b] [nation=short]The Republic of Pocrnich[/nation]
 
 [color=blue][b][u]Supreme Court[/u][/b][/color]
-[b]Chief Justice:[/b] [nation=short]The Republic of Pocrnich[/nation]
-[b]Associate Justice:[/b] [nation=short]Cenan[/nation]
+[b]Chief Justice:[/b] [nation=short]Cenan[/nation]
+[b]Associate Justice:[/b] Vacant
 [b]Associate Justice:[/b] Vacant

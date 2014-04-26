@@ -24,6 +24,8 @@
 [nation]Batoristan[/nation]
 [nation]Somstratzka[/nation]
 [nation]Ahrana[/nation]
+[nation]Puerto Cienfuegos[/nation]
+[nation]Biel-Tan[/nation]
 
 [hr]
 
@@ -32,3 +34,4 @@
 [b][url=http://www.marxists.org/archive/marx/works/download/pdf/Manifesto.pdf]The Communist Manifesto[/url][/b]
 [url=http://www.marxists.org/archive/lenin/works/index.htm]Works of Vladimir Lenin[/url]
 [url=http://www.marxists.org/reference/archive/stalin/index.htm]Works of Josef Stalin[/url]
+[url=http://www.marxists.org/reference/archive/stalin/works/1924/11_19.htm]Trotskyism or Leninism?[/url]

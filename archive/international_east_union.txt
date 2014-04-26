@@ -8,13 +8,13 @@
 
 Speaker: [nation=short]istiglal[/nation]
 
-Justice Officer: 
+Justice Officer: [nation=short]Shikah[/nation]
 
-Prime Minister:
+Prime Minister: [nation=short]Aeternabilis[/nation]
 
-Minister of Foreign Affairs: [nation=short]The Black Russian Kittens[/nation]
+Minister of Foreign Affairs: [nation=short]gomlis44[/nation]
 
-Minister of Legal Affairs: [nation=short]Aeternabilis[/nation]
+Minister of Legal Affairs: [nation=short]Costa Brilla[/nation]
 
 Minister of Defense: [nation=short]gomlis44[/nation]
 
