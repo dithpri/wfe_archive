@@ -4,9 +4,11 @@
 
 Founding nation: [nation]Dillah[/nation]
 
-Co-founding nation : [nation]Menukten[/nation]
+Co-founding nation: [nation]Menukten[/nation]
 
-Inter-regional delegate: pending
+World assembly delegate: pending
+
+Inter-regional delegate:[nation]Menukten[/nation]
 
 Secretary of security: pending
 
@@ -15,4 +17,3 @@ Secretary of security: pending
 [region]Ultimate Discworld[/region], our sports-themed region.
 [region]The Interfaith Ecumenical Council[/region]
 [region]The Sunflower Dojo[/region], our training camp for defenders.
-

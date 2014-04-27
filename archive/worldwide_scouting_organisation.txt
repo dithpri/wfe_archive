@@ -7,12 +7,12 @@ We would like to ask you a favour and endorse [nation=Angelsey] and [nation=Chri
 
 FOUNDER:[nation=Angelsey]
 
-CHIEF SCOUT:[nation=A-Eagle]
+CHIEF SCOUT:
 
-TREASURER:[nation=Oregon43]
+TREASURER:
 
 FOREIGN AFFAIRS OFFICER:
 
-INTERIOR OFFICER:[nation=Christopher500]
+INTERIOR OFFICER:
 
-TRANSLATOR (needed):
+TRANSLATORS(needed):[nation=Novaya Finlandia] Russian [nation=Ostratizanastan] French

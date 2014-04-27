@@ -1,2 +1,11 @@
-The Northern region is located on territories with an access to Northern and Baltic seas. 
-/ more will follow /
+[b]The Northern region is located on territories with an access to Northern and Baltic seas[/b]
+
+[b]The Authorities[/b]
+Government: [nation]Northern United[/nation]
+Security Council: [nation]Northern United[/nation], [nation]Sain-Petersburg[/nation]
+Legislative Assembly: [nation]Northern United[/nation]
+Internal &amp;amp; International Affairs: [nation]Northern United[/nation]
+
+[b]The Northern Baltic Alliance[/b] (The N.B.A.)
+Government Authority: [nation]The Baltia[/nation]
+Members: [region]The Northern[/region], [region]The Baltic States[/region]

@@ -6,8 +6,8 @@ Chat: [b][url=http://goo.gl/YPDiF2]IRC #capitalistparadise[/url][/b]
 Constitution: [b][url=http://goo.gl/ipMYM8]Magna Carta[/url][/b]
 
 [b]CEO: [color=green]WA Delegate[/color]
-Minister of Foreign Affairs: T.B.D.
-Minister of Interior: T.B.D.
+Minister of Foreign Affairs: [nation=short+noflag]New Cathedra[/nation]
+Minister of Interior: [nation=short+noflag]SucWAti[/nation]
 
 President of the Legislature: [nation=short+noflag]LadyFasterKittens[/nation]
 

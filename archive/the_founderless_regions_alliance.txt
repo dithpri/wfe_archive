@@ -7,14 +7,14 @@
 
 Arch Chancellor -- [nation=short]Karputsk[/nation]
 
-Vice Chancellor -- [nation=short]Dyr Nasad[/nation]
+Vice Chancellor -- [nation=short]Jonewest[/nation]
 
-Chief of Defence Force -- [nation=short]Frattastan II[/nation], [nation=short]Guy[/nation]
+Chief of Defence Force -- [nation=short]Horse[/nation], 
 
-Intelligence Minister -- [nation=short]Milograd[/nation], [nation=short]SFBA wabbitslayah[/nation]
+Intelligence Minister -- [nation=short]Milograd[/nation], [nation=short]Dyr Nasad[/nation]
 
-Regional Liaison Officer -- [nation=short]The Saturnian Republic[/nation]
+Regional Liaison Officer -- [nation=short]Joe Bobs[/nation]
 
-Speaker of the Assembly -- [nation=short]Senecan Tribes[/nation]
+Speaker of the Assembly -- [nation=short]Wibblefeet[/nation]
 
-[i][color=red]Please do not contact the founder nation. For questions contact the Arch-Chancellor.[/color][/i]
+[i][color=red]Please do not contact the founder nation. For questions contact the Regional Liaison Officer.[/color][/i]

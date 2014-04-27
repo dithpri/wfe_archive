@@ -1,24 +1,26 @@
 This is just a clan of friends hanging out!
 
 Current Parliament Holder:
-The Republic of Piong
+[nation]Piong[/nation]
 
 Parliament Members:
-The Republic of Piong
-The Democratic Republic of Estalias
-The Dictatorship of Norrge
-The Republic of Skimk
-The Free Land of North Piong
-The Republic of Socialist Syldavia
-The Constitutional Monarchy of Siracusae 
-The Republic of Circ Islands 
-The People&amp;#39;s Republic of Qiam
-The People&amp;#39;s Republic of The confederation of Socialist 
+[nation]Piong[/nation]
+[nation]Estalias[/nation]
+[nation]Norrge[/nation]
+[nation]Lianing[/nation]
+[nation]Skimk[/nation]
+[nation]North Piong[/nation]
+[nation]Socialist Syldavia[/nation]
+[nation]Siracusae[/nation]
+[nation]Circ Islands[/nation]
+[nation]Qiam[/nation]
+[nation]The confederation of Socialist Piong[/nation]
 
 Observer States:
-The Colony of Ionium Islands
-The United States of Kildoria Colony
-The Colony of New Tavsti
-The Colony of Nova Estalia
-The Principality of Eiiree
-The Federation of South Piong 
+[nation]Ionium Islands[/nation]
+[nation]Kildoria Colony[/nation]
+[nation]Nova Estalia[/nation]
+[nation]Eiiree[/nation]
+[nation]South Piong[/nation]
+[nation]New Tavsti[/nation]
+
