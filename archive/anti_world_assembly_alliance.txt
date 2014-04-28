@@ -2,7 +2,7 @@
 Representative: [nation=short]Anti-WA Alliance Representative[/nation]
 
 [b][u]Council of Domestic Affairs[/u][/b]
-To be updated.
+Vice Chancellor: [nation=short]Aeken[/nation]
 
 [b][u]Council of Foreign Affairs[/u][/b]
-To be updated.
+Representative: [nation=short]Nephmir[/nation]

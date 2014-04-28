@@ -3,8 +3,12 @@
 Liberal Party (2): Gabrijel Berislav (Maurace) and Luka Jasenko (Maurece)
 Democratic Party (2): Adjin Predojevic (Sopova) and Egil Andersen (Tordensted)
 Socialist Party (1): Finn Brunsvald (Tordensted)
+Communist Party (2): Faris Aleckovic (Sopova) and Nikolai Medvedev (Arkhipelag)
 
 [b]Republics of Estinia:[/b]
 [nation=short]Sopova[/nation]
 [nation=short]Maurace[/nation]
 [nation=short]Tordensted[/nation]
+[nation=short]Arkhipelag[/nation]
+
+Population: 69.76 million.

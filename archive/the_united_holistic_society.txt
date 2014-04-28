@@ -1,7 +1,10 @@
-[u][b]Password = school wi-fi password without the 1 on the end[/u][/b]
+[u][b]Password = school wi-fi password[/u][/b]
 
 [b]We are The United Holistic Society (U.H.S.)[/b]
 A small grouping a nations organized into a few large landmasses and islands.
+
+[b]Click here to see the [url=http://postimg.org/image/fvf7ahaq5/]Map of the Region[/url][/b]
+
 [b]Government:[/b]
 World Assembly Executive Delegate:[nation]the communist regime of wallabies[/nation]
 Founder: [nation]Yevan[/nation]
@@ -12,3 +15,4 @@ Secretary of Defense:[nation]Golgothia[/nation]
 Secretary of Commerce:[nation]The Magical Conch[/nation]
 Secretary of Agriculture:[nation]Tel[/nation]
 Secretary of Industry:[nation]Stanisten[/nation]
+Secretary of Foreign Affairs:[nation]Duck-Boss Sucks[/nation]

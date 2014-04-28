@@ -1,5 +1,7 @@
 Well... The Baltic States
 
-[b]The Northern Baltic Alliance[/b] (The N.B.A.)
-Government Authority: [nation]The Baltia[/nation]
-Members: [region]The Northern[/region], [region]The Baltic States[/region]
+The Region Authorities
+Government: [nation]The Baltia[/nation]
+Security &amp;amp; Defense: [nation]Sain-Petersburg[/nation]
+
+The Member of [b][region]The Northern Baltic Alliance[/region][/b] (The N.B.A.)

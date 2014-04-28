@@ -3,11 +3,11 @@ This is the Union of Civitaseptentria.
 The union consists of:
 
 [nation]Civitaseptentria[/nation]
-...[nation]Abiegnarcia[/nation]
 ...[nation]Extracontinent[/nation]
 ...[nation]Fimbria[/nation]
 ...[nation]Rebonutkaland[/nation] 
 ...[nation]South Fimbria[/nation]
+[nation]Abiegnarcia[/nation]
 [nation]Alekstan[/nation]
 [nation]Piceastan[/nation]
 [nation]Fronochmedland[/nation]

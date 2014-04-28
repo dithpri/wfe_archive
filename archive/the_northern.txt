@@ -6,6 +6,4 @@ Security Council: [nation]Northern United[/nation], [nation]Sain-Petersburg[/nat
 Legislative Assembly: [nation]Northern United[/nation]
 Internal &amp;amp; International Affairs: [nation]Northern United[/nation]
 
-[b]The Northern Baltic Alliance[/b] (The N.B.A.)
-Government Authority: [nation]The Baltia[/nation]
-Members: [region]The Northern[/region], [region]The Baltic States[/region]
+The Member of [b][region]The Northern Baltic Alliance[/region][/b] (The N.B.A.)
