@@ -2,8 +2,8 @@
 
 [color=blue]King[/color]: King Sawfist II of [nation]Eowyth[/nation]
 [color=red]Parliament Representative[/color]: President Sewell of the [nation=short]United Republic of Swellvania[/nation]
-[color=green]Military Commander[/color]: King Sawfist II of [nation]Eowyth[/nation] until appointed
-[color=purple]Minister of Foreign Affairs[/color]: King Sawfist II of [nation]Eowyth[/nation]
+[color=green]Military Commander[/color]: [nation]Stretchington[/nation]
+[color=purple]Minister of Foreign Affairs[/color]: [nation]Eowyth[/nation] and [nation]Hung Kung[/nation]
 [color=orange]Head Economic Advisor[/color]: None
 [color=navy]Minister of Administration[/color]: None
 [color=pink]Citizen Representative[/color]: None

@@ -1,4 +1,5 @@
-[color=blue][b]This region has been saved from damnation by Redversusblue! All hail the Golden age of Excelsius! Huzzah![/b][/color]
+[color=blue][b]This region is occupied by Blue Army! All hail the Golden age of Excelsius! Huzzah![/b][/color]
+[color=red][b]This region is occupied by Red Army! All hail the Golden age of Excelsius! Huzzah![/b][/color]
 
-This region is a colony of [region=New World Communists States].
+[b]This region is a colony of [region=New World Communists States].[/b]
 Governor: [nation=redversusblue]

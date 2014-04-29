@@ -12,6 +12,6 @@ For spot on map, TG [nation=short]Christian Guyana-Suriname[/nation].
                 [nation=short]naturist[/nation]
                 [nation=short]terra gymnos[/nation]
 Secretary of defense: [nation=short]Liberty Christians[/nation] 
-Secretary of state: None
+Secretary of state: [nation=short]Gosford[/nation]
 
 Bible verse:  Proverbs 3:5: With all your heart you must trust the Lord and not your own judgment.

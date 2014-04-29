@@ -1,9 +1,16 @@
 [b]The Northern Baltic Alliance[/b] (The N.B.A.)
 Established 27.04.2014
 
-Member Regions: [region]The Northern[/region] | [region]The Baltic States[/region]
+[b]The Authorities[/b]
+Governance: [b][nation]The Kronstadt[/nation][/b]
+Internal Affairs: [b][nation]Sain-Petersburg[/nation][/b]
+International Affairs: [b][nation]The Kronstadt[/nation][/b]
+Security &amp;amp; Defense: [b][nation]The Kronstadt Union[/nation][/b]
+Expeditionary Force: [b][nation]The Kronstadt Union North[/nation][/b]
 
-The Authorities
-Government: [nation]The Kronstadt[/nation]
-International Affairs: [nation]Northern United[/nation]
-Security Council: [nation]Northern United[/nation], [nation]The Baltia[/nation], [nation]Sain-Petersburg[/nation]
+[b]The Alliance[/b]
+Member Regions: [b][region]The Northern[/region][/b] | [b][region]The Baltic States[/region][/b]
+Alliance Counsil: [b][nation]Northern City[/nation][/b], [b][nation]The Baltia Island[/nation][/b]
+
+the region&amp;#39;s statistics for [url=http://nseconomy.thirdgeek.com/nseconomy.php?region=the+northern+baltic+alliance]The Northern Baltic Alliance[/url]
+and, the more extended statistics for [url=http://www.broomdces.com/nseconomy/regions.php?region=the+northern+baltic+alliance]The Northern Baltic Alliance[/url]

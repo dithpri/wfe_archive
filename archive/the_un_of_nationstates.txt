@@ -2,8 +2,8 @@
 [hr]
 [u][color=Blue]Regional Government:[/color][/u]
 UN Founder: [nation]Gang Nation[/nation]
-UN WA Delegate: [color=red]VACANT[/color]
-UN Security Minister: [color=red]VACANT[/color]
+UN WA Delegate: [nation]The Republic Confederation of America[/nation] [color=red](ACTING)[/color]
+UN Security Minister: [nation]Lionville[/nation]
 [hr]
 [u][color=Blue]&amp;lt;&amp;lt;&amp;lt; IMPORTANT NEWS &amp;gt;&amp;gt;&amp;gt;[/color][/u]
 ***Our Region Is Currently Looking For A WA Delegate! 
@@ -11,4 +11,4 @@ UN Security Minister: [color=red]VACANT[/color]
 ***If Your Nation Is Inactive For More Than 15 Days You Will Be [color=red]EJECTED[/color] From The Region!
 [hr]
 [u][color=Blue]Current Poll[/color][/u]
-How Are You?
+Should We Impose Economic Sanctions Against GDU? 
