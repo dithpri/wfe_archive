@@ -7,9 +7,9 @@ We would like to ask you a favour and endorse [nation=Angelsey] and [nation=Chri
 [u]RANKS[/u]
 [b]PRESIDENT[/b]:[nation=Angelsey]
 
-VICE PRESIDENT: [nation=Christopher500]
+[color=red]VICE PRESIDENT[/color]: [nation=Christopher500]
 
-Congress:[nation=Arbaria][nation=A-eagle][nation=bengene]
+[color=green]Congress[/color]:[nation=Arbaria][nation=A-eagle][nation=bengene]
 
 INTERIOR OFFICER: [nation=Alterac Valley]
 

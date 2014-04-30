@@ -11,4 +11,4 @@
 
 [color=red] Regional Delegate: [/color] Available
 
-Allies: [region]Tylora[/region]
+Allies: [region]Tylora[/region] , [nation]Groland[/nation]  , [nation]United Dictatorships[/nation]

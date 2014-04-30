@@ -2,9 +2,9 @@
 
 Military Wing of [region]Nations of Morrowind[/region].
 
-In service to the [nation=short]Lady Mephala[/nation], we infiltrate and destroy our enemies in true Dunmer fashion. Be warned - we don&amp;#39;t forgive or forget. Only [region]Nations of Morrowind[/region] may join our glory. If you wish to join us, then be sure to telegram the Grandmaster, and he shall let you enter.
+In service to the [nation=short+noflag]Lady Mephala[/nation], we infiltrate and destroy our enemies in true Dunmer fashion. Be warned - we don&amp;#39;t forgive or forget. Already we have taken down regions with ease. Join freely, friends, or you may find yourself to be next...
 
-[b][u]Members:[/u][/b]
+[b][u]Notable Members:[/u][/b]
 [nation=short]Lady Mephala[/nation] - Patron
 [nation=short]Oba Shembo[/nation] - Grandmaster
 [nation=short]Grozalnd[/nation] - Exalted Master

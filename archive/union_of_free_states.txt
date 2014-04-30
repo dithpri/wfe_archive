@@ -6,8 +6,8 @@
 
 [hr]
 [B]EXECUTIVE BRANCH:[/B]
-Interim Union Secretary:[nation=short]The Kingdom of Alleble[/nation]
-Secretary of Defense:TBD
+Union Secretary:[nation=short]The Kingdom of Alleble[/nation]
+High General:[nation=short]Borduriaa[/nation]
 Secretary of Foreign Affairs: [nation=short]Narnifrey[/nation]
 Secretary of Internal Affairs:[nation=short]Light Music Club[/nation]
 Secretary of Legal Affairs:[nation=short]Alpacanzia[/nation]
@@ -16,3 +16,5 @@ Secretary of Legal Affairs:[nation=short]Alpacanzia[/nation]
 Chief Justice:[nation=short]Alpacanzia[/nation]
 Minor Judge #1: [NATION=SHORT]Borduriaa[/nation]
 Minor Judge #2: [nation=short]Buena Suerte[/nation]
+
+[b]COLONIES[/b]: [region]Orion[/region],[region]The Union[/region]
