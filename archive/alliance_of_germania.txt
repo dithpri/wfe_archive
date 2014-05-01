@@ -5,7 +5,6 @@
 - Supreme Leader: [nation]Arnoria[/nation]
 - Secondary Leading Nation: [nation]GreaterGermany[/nation]
 - Prime Minister: [nation]Republicia de Rakunstein[/nation]
-- Minister of Uranium Industry: [nation]Falruvia[/nation]
 - Minister of Mining Industry: [nation]Vienesia[/nation]
 - Minister of Economy: [nation]Astoneia[/nation]
 - Minister of Drugs Control: [nation]Free Germany[/nation]

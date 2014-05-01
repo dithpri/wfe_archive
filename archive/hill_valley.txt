@@ -1,4 +1,8 @@
 [b]This region fell to the forces of [region]The Eternal Knights[/region]!
+
 In the midst of the night, The Eternal Knights infiltrated and attacked, leaving no survivors in the great purge:
-Knight [nation=short]NoblePhnx[/nation]
-General [nation=short]Festavo[/nation][/b]
+[nation=short]Noblephnx[/nation]
+[nation=short]Festavo[/nation]
+[nation=short]Nepthalia[/nation]
+[nation=short]Vom Leben[/nation]
+[/b]

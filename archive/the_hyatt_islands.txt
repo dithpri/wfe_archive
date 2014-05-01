@@ -5,11 +5,10 @@ Please endorse the President (Delegate) and Vice President (Alternate Delegate) 
 President: [nation]Schaesberg[/nation]
 Vice President and Speaker of the Assembly: [nation]Belmaria[/nation]
 
-Prime Minister Nominee: [nation]Netonia[/nation]
+Prime Minister: [nation]Netonia[/nation]
 Cabinet Ministers: TBA
 
-Opposition Leader: TBA
-Shadow Cabinet Ministers: TBA
+Opposition Leader: [nation]Love Valley[/nation]
 
 [url=https://docs.google.com/document/d/1TsHONura6RcKirBznXmg5Y-r-h0uqRPlLuArb1tqDhU]Our Constitution[/url]
 [url=http://w11.zetaboards.com/Hyatt_Islands_Forum/index/]Our Forum[/url] (Where the regional government stuff happens)

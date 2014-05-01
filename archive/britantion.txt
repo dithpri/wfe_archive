@@ -6,8 +6,8 @@ A country of allies all devoted to protecting each other no matter their leading
 
 [b][u][color=#003b6f]Brit Council[/color][/u][/b]
 
-[b][color=green]Delegate[/color][/b]: [nation=short]Maelion[/nation]
-[b][color=green]V. Delegate[/color][/b]: [nation=short]Firolla[/nation]
+[b][color=green]Delegate[/color][/b]: [nation]Maelion[/nation]
+[b][color=green]V. Delegate[/color][/b]: [nation]Firolla[/nation]
 [b][color=green]Defense Advisor[/color][/b]: [nation=short]The Armed Republic of Slavik[/nation]
-[b][color=green]Peace Advisor[/color][/b]: [nation=short]Harmoniona[/nation]
-[b][color=green]Intel Advisor[/color][/b]: [nation=short]People Beyond the Wall[/nation]
+[b][color=green]Peace Advisor[/color][/b]: [nation]Harmoniona[/nation]
+[b][color=green]Intel Advisor[/color][/b]: [nation]People Beyond the Wall[/nation]

@@ -8,6 +8,9 @@ Terrans under the Federation are nearly all extinct or under our control, Terran
 [region]The Terran Rebel Base[/region]
 [region]The Second Empire of Arrakine[/region]
 
+[b]Colonies:[/b]
+[nation]Luna Omega[/nation] in [region]The Second Empire of Arrakine[/region]
+
 [b]Controlled Planets:[/b]
 Hexenar
 Herrillus
