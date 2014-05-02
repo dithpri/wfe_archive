@@ -4,18 +4,18 @@
 
 
 
-[color=blue][b][u]Britarvia Administration[/u][/b][/color]
+[color=blue][b][u]CDland Administration[/u][/b][/color]
 
-[b]President:[/b] [nation]Britarvia[/nation] (Interim)
-[b]Vice President:[/b] [nation]CDland[/nation] (Interim)
+[b]President:[/b] [nation=short]CDland[/nation] 
+[b]Vice President:[/b] [nation=short]Britarvia[/nation] 
 
 [color=red][b][u]Allied States Congress[/u][/b][/color]
 
-[b]Speaker of the Senate:[/b] TBE
-[b]Senator: [/b] TBE
-[b]Senator: [/b] TBE
+[b]Senator:[/b] [nation=short]New Christland[/nation]
+[b]Senator: [/b] [nation=short]United States of Hamburg[/nation]
+[b]Senator: [/b] [nation=short]Free States of Cuba[/nation]
 
-[b]Speaker of the House[/b]: TBE
+[b]Speaker of the House[/b]: [nation=short]Britarvia[/nation]
 [color=blue][i][b]ALL[/b] Citizens are members of the House of Representatives[/i][/color]
 
 

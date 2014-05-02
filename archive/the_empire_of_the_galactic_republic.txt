@@ -9,6 +9,3 @@ Minister: [nation]Power1[/nation]
 Foreign
 Affairs
 Minister: [nation]Cybras[/nation]
-________________________________________________________________________________________________________________________________
-Elections:
-Vice-Chancellor is voted for every 15 days
