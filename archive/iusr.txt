@@ -1,6 +1,7 @@
-[b]Defense Status:[/b] [color=Green]DEFSTAT 5[/color]
+[b]Defense Status:[/b] [color=blue]DEFSTAT 4[/color]
 
-[b]Latest News:[/b] IUSR celebrates [b][color=cc0000]International Workers Day![/color][/b]
+[b]Latest News:[/b] [nation=short]Moshnia[/nation] declares itself to be an empire once again, IUSR remains wary.
+
 [hr]
 
 [b]Federal Socialist Republics[/b]
