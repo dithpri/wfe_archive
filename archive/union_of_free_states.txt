@@ -8,7 +8,7 @@ Secretary of Foreign Affairs[nation=short]Narnifrey[/nation]
 Secretary of Internal Affairs:[nation=short]Light Music Club[/nation]
 Secretary of Legal Affairs:[nation=short]Alpacanzia[/nation]
 [B]UFS JUSTICE TRIBUNAL[/B]
-Chief Justice:[nation=short]Alpacanzia[/nation]
+Chief Justice:TBA
 Minor Judge #1: [NATION=SHORT]Borduriaa[/nation], Minor Judge #2: [nation=short]Narnifrey[/nation]
 [b]COLONIES[/b]: 
 [region]Orion[/region],[region]The Union[/region], [region]The Pokemon league[/region]

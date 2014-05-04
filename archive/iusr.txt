@@ -1,6 +1,6 @@
 [b]Defense Status:[/b] [color=blue]DEFSTAT 4[/color]
 
-[b]Latest News:[/b] [nation=short]Moshnia[/nation] declares itself to be an empire once again, IUSR remains wary.
+[b]Latest News:[/b] Greatest purge of all time occurs in the IUSR.
 
 [hr]
 
@@ -13,17 +13,12 @@
 
 [b]Socialist Republics[/b]
 
-[nation]Slakia[/nation]
 [nation]Krajstali[/nation]
-[nation]Ahrana[/nation]
 
 [hr]
 
 [b]Workers&amp;#39; States[/b]
 
-[nation]San Navazques[/nation]
-[nation]Batoristan[/nation]
-[nation]Somstratzka[/nation]
 [nation]Puerto Cienfuegos[/nation]
 [nation]Biel-Tan[/nation]
 [nation]Pribaltika[/nation]
