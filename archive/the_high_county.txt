@@ -1,19 +1,16 @@
-[b]&amp;quot;Stoners of the world, unite! You have nothing to lose but your chains of prohibition&amp;quot;[/b]
+[b]&amp;quot;Stoners of the world, unite! You have nothing to lose but your chains of prohibition&amp;quot;[/b] - Founding nation: [nation]Dillah[/nation]
 
-[u]Regional Cabinet[/u]
+[u]THC Security council[/u]
 
-Founding nation: [nation]Dillah[/nation]
+Member nations:
+[nation]Dillah[/nation]
 
-Co-founding nation: [nation]Menukten[/nation]
+Secretary of regional security: pending
 
-World assembly delegate: pending
+[u]THC Single market[/u]
 
-Inter-regional delegate:[nation]Menukten[/nation]
+Member nations:
+[nation]Dillah[/nation]
 
-Secretary of security: pending
+Secretary of regional economics: pending
 
-[b][region]The High County[/region] is a bioregionalist association of many smaller regions.  Our list of associated regions includes:[/b]
-
-[region]Ultimate Discworld[/region], our sports-themed region.
-[region]The Interfaith Ecumenical Council[/region]
-[region]The Sunflower Dojo[/region], our training camp for defenders.

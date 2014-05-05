@@ -3,8 +3,6 @@
 [b]UIN Herald:[/b] 
 -After 2 weeks of being in Antarctica, contact was lost with explorer Robert Chen. [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=294731&amp;amp;p=19944495#p19944495]Roleplay is here[/url].
 -Joint Krasno-Pei space research programme founded, Radar arrays placed along Krasno-Pei border called BARA (Big-Ass Radar Array).
--The IUSR undergoes a purge, as the bloc looks to maintain a truly communistic image.
--Charter updated.
 [hr]
 
 [b]Administrative Nations[/b]
@@ -17,6 +15,7 @@
 [nation]Slakia[/nation]
 [nation]Somstratzka[/nation]
 [nation]Ahrana[/nation]
+[nation]San Navazques[/nation]
 
 [b]Allied Nations[/b]
 [region]Estinian Federation[/region]
