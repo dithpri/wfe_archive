@@ -1,7 +1,7 @@
 [b][u][color=red]Welcome to the INU![/color][/b][/u]
 
 [b][u][color=orange]INU Regional Government:[/color][/b][/u]
-Supreme Council: [nation=short]New Educandi[/nation], [nation=short]The Great Saints[/nation], [nation=short]Albiorix[/nation]
+Supreme Council: [nation=short]New Educandi[/nation] [b](EXC)[/b], [nation=short]The Great Saints[/nation], [nation=short]Albiorix[/nation]
 WA Delegate: [nation=short]Xin Prussia[/nation] (SUP)
 Adviser: [nation=short]Luso[/nation] (SUP)
 Defense Minister: [nation=short]Linarae[/nation]
@@ -9,7 +9,7 @@ Intelligence Minister: [nation=short]Ugandavitz[/nation]
 Secretary of Recruitment: [nation=short]Zwotstyg[/nation]
 Ambassador Committee: [nation=short]Crumstain[/nation], [nation=short]Lolder[/nation]
 [url=http://internationalnorthernunion.weebly.com/inu-basic-info.html]INU Congressional Assembly[/url]
-INUCA Chairman: [pending]
+INUCA Chairman: [nation=short]Astrosis[/nation]
 
 [b][u]WA Members:[/u] Please endorse our delegate, [nation=short]Xin Prussia[/nation].[/b]
 

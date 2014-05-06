@@ -9,6 +9,7 @@
 [nation]Great Korean Empire[/nation]
 
 [b]Alliances:[/b]
+Allied Command
 CCCP
 Corporate Union
 Wasteland Militia
