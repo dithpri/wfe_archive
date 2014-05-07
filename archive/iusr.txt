@@ -1,6 +1,6 @@
 [b]Defense Status:[/b] [color=blue]DEFSTAT 4[/color]
 
-[b]Latest News:[/b] [nation=short]Moshinka[/nation] resists attack by the [nation=short]Moshnia[/nation]n government.
+[b]Latest News:[/b] [nation=short]Belakras[/nation] becomes independent of [nation=short]Krajstali[/nation], ending the legacy of [nation]Krajstali-Belakras[/nation] once and for all.
 
 [hr]
 
@@ -21,7 +21,7 @@
 
 [nation]Puerto Cienfuegos[/nation]
 [nation]Biel-Tan[/nation]
-[nation]Pribaltika[/nation]
+[nation]Belakras[/nation]
 
 [hr]
 

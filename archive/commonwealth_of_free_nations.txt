@@ -5,19 +5,19 @@
 
 [u][B][color=navy]Fifth Cabinet of CFN[/color][/B][/u] 
 [list][b]Chancellor:[/b] 
-To Be Elected
+[nation=short]Orveleca[/nation] [b](F)[/b]
 
 [b]Deputy Chancellor:[/b] 
 [nation=short]The Dalek Paradigm[/nation] [b](F)[/b]
 
 [b]Minister of Defense:[/b] 
-To Be Elected
+[nation=short]Liberated Democratic Republics[/nation] [b]([color=red]C[/color])[/b]
 
 [b]Minister of Foreign Affairs:[/b] 
-To Be Elected
+[nation=short]Microsoft Corp[/nation] [b]([color=purple]I[/color])[/b]
 
 [b]Minister of Internal Affairs:[/b] 
-To Be Elected
+[nation=short]Vladovaskia[/nation] [b]([color=blue]DS[/color])[/b]
 
 [b]Minister of Justice:[/b] 
 [nation=short]Jaslandia[/nation] [b]([color=blue]DS[/color])[/b][/list]

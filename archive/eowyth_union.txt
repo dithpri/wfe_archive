@@ -6,7 +6,7 @@
 [color=purple]Minister of Foreign Affairs[/color]: [nation]Eowyth[/nation] and [nation]Hung Kung[/nation]
 [color=orange]Head Economic Advisor[/color]: None
 [color=navy]Citizen Authority[/color]: [nation]EUCA[/nation]
-[color=pink]Citizen Representative[/color]: None
+[color=pink]Citizen Representative[/color]: [nation]Corpsus[/nation]
 [color=pink]Citizen Representative[/color]: None
 [B]The [color=blue]Federal Crown Party[/color] is in office[/B]
 --------

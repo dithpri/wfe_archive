@@ -21,7 +21,7 @@
 
 [hr]
 
-[B]DEFCON Level:[/B] [B][color=blue]LEVEL 5[/color][/B] - Normal readiness.
+[B]DEFCON Level:[/B] [B][color=green]LEVEL 4[/color][/B] - Above normal readiness.
 
 [hr]
 

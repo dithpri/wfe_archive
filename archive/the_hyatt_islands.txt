@@ -6,7 +6,8 @@ President: [nation]Schaesberg[/nation]
 Vice President and Speaker of the Assembly: [nation]Belmaria[/nation]
 
 Prime Minister: [nation]Netonia[/nation]
-Cabinet Ministers: TBA
+Foreign Minister: [nation]WelshCowboy[/nation] 
+Treasurer: [nation]Anteridia[/nation]
 
 Opposition Leader: [nation]Love Valley[/nation]
 
