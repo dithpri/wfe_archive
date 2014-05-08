@@ -1,15 +1,17 @@
 A chain of islands off the coast of a continent. Islands that range in climate from desert to tundra. Political climates range from totalitarian dictatorships to freedom holes to anarchies. So welcome to all nations. Just don&amp;#39;t cause trouble.
 
-[color=blue]Members of Parliament:[/color]
-[nation=short]Beware Oblivion is at Hand[/nation]
-[nation=short]Hellcateous[/nation]
-[nation=short]Josephdalepi[/nation]
+Members of Parliament:
+[color=red]Beware Oblivion is at Hand[/color]
+[color=pink]Hellcateous[/color]  
+[color=purple]Josephdalepi[/color]
 
-[color=orange]President:[/color]
-[nation=short]Narisland[/nation]
+President:
+[color=pink]Narisland[/color]
 
-[color=red]Prime Minister:[/color]
-[nation=short]343 Guilty Sparks[/nation]
+Prime Minister:
+[color=red]343 Guilty Sparks[/color]
 
 Regional Political Parties:
 [color=pink]Apathy[/color] 
+[color=purple]Champions of Commerce[/color]
+[color=red]Totally Legit Communists[/color]

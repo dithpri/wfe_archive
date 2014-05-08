@@ -10,5 +10,4 @@
 
 [b]Lunar Bases[/b]
 
-[nation]Smirnov[/nation] - [i][nation=short+noflag]Krasniya[/nation]n Administration; [nation=short+noflag]Czervenika[/nation], [nation=short+noflag]Krajstali[/nation].[/i]
-[nation]Krystakovi[/nation] - [i][nation=short+noflag]Somstratzka[/nation]n Administration.[/i]
+[nation]Smirnov[/nation] - [i][nation=short+noflag]Krasniya[/nation]n Administration; [nation=short+noflag]Czervenika[/nation], [nation=short+noflag]Krajstali[/nation], [nation=shor+noflagt]Belakras[/nation].[/i]
