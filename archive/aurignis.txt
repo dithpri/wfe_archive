@@ -12,19 +12,20 @@ The Royal Council:
 
 [nation]Populus Anglicus[/nation]
 
-The Royal Army:
+[color=red]The Grand Army[/color]:
 
-Albicia
-Ice Walkers
-New Morrowind
-The Defender of Faith
-Nortal 
-Prygieltopia
-The Freedom fighters of the barron lands
+[nation]Albicia[/nation]
+[nation]Ice Walkers[/nation]
+[nation]New Morrowind[/nation]
+[nation]The Defender of Faith[/nation]
+[nation]Nortal[/nation]
+[nation]Prygieltopia[/nation]
+[nation]The Freedom fighters of the barron lands[/nation]
 
-The Royal Garrison:
+[color=blue]The Prince&amp;#39;s Guard[/color]:
 
-Cotopia
-The Draconic Domination
+[nation]Cotopia[/nation]
+[nation]The Draconic Domination[/nation]
+[nation]District 367[/nation]
 
 Men and Women of Aurignis, to arms!

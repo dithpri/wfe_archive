@@ -7,9 +7,7 @@
 [B]-[url=https://docs.google.com/file/d/0B2aUtbXuTm2JVnlLQmQ4ZGZiTFFKSF9zRkQ3a1VQNkRKRWxZ/edit]Regional Map v1[/url]
 -[url=https://drive.google.com/file/d/0B2aUtbXuTm2JNnNWcTFRNXVpVXM/edit?usp=sharing]Regional Map v2[/url][/B]
 
-[color=orange][u][B]Council of Five[/B][/u][/color]
- -[nation=short]EverywhereAndNowhere[/nation]
- -[nation=short]Placetopia[/nation]
- -[nation=short]Qwerty Kingdom[/nation]
- -[nation=short]The Midget Ninja[/nation]
- -[nation=short]WavyPaper[/nation]
+[color=orange][u][B]Council of Three[/B][/u][/color]
+ -[nation=short]Xalph[/nation]
+ -[nation=short]Swart Vlag[/nation]
+ -[nation=short]Communna[/nation]

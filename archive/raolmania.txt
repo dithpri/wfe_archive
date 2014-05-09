@@ -11,3 +11,5 @@ The continent is open to the use of magic, but requires certain ritualistic item
 Red Dot = Capitol
 Green Dot = Settlement
 Orange = Border
+
+Regional Currency: Fiamma

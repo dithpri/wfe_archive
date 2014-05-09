@@ -3,11 +3,11 @@
 
 [color=red] Minister of foreign affairs: [/color] Available
 
-[color=yellow] Minister of defense: [/color] Available
+[color=purple] Minister of defense: [/color] Available
 
 [color=red] Minister of recruiting: [/color] Available
 
-[color=yellow] Minister of internal affairs: [/color] Available 
+[color=purple] Minister of internal affairs: [/color] Available 
 
 [color=red] Regional Delegate: [/color] Available
 

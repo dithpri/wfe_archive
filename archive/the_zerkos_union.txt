@@ -1,12 +1,14 @@
-This is just a clan of friends hanging out!
+Current Parliament President:
+[nation]Estalias[/nation]
 
-Current Parliament Holder:
-[nation]Piong[/nation]
+Vice President:
+[nation]Socialist Syldavia[/nation]
 
 Parliament Members:
 [nation]Piong[/nation]
 [nation]Estalias[/nation]
 [nation]Norrge[/nation]
+[nation]Lithuias[/nation]
 [nation]Lianing[/nation]
 [nation]Skimk[/nation]
 [nation]North Piong[/nation]
@@ -23,4 +25,3 @@ Observer States:
 [nation]Eiiree[/nation]
 [nation]South Piong[/nation]
 [nation]New Tavsti[/nation]
-
