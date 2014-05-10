@@ -1,6 +1,8 @@
 [b]Defense Status:[/b] [color=blue]DEFSTAT 4[/color]
 
-[b]Latest News:[/b] [nation=short]Belakras[/nation] becomes independent of [nation=short]Krajstali[/nation], ending the legacy of [nation]Krajstali-Belakras[/nation] once and for all.
+[b]Latest News:[/b] 
+- [color=cc0000][b]HAPPY VICTORY DAY TO ALL COMRADES OF THE IUSR![/b][/color]
+- Third Moshnian Empire collapses as rebels take capitol building in Schmetterwitz.
 
 [hr]
 
@@ -14,6 +16,7 @@
 [b]Socialist Republics[/b]
 
 [nation]Krajstali[/nation]
+[nation]Isaciaria[/nation]
 
 [hr]
 
@@ -22,6 +25,7 @@
 [nation]Puerto Cienfuegos[/nation]
 [nation]Biel-Tan[/nation]
 [nation]Belakras[/nation]
+[nation]Bolugaria[/nation]
 
 [hr]
 

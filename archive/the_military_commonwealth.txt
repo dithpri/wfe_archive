@@ -5,7 +5,7 @@ King: [nation]The Great European Commonwealth[/nation]
 
 [color=red]Prime Minister:[/color] [nation]Azdaria[/nation] 
 [color=red]Deputy Prime Minister:[/color] [nation]Drasolopia[/nation]
-[color=red]Minister of Defence:[/color] vacant
+[color=red]Minister of Defence:[/color] [nation]New fox land[/nation]
 [color=green]Minister of Foreign Affairs:[/color] [nation]Celter[/nation]
 [color=green]Minister of Commonwealth Affairs:[/color] vacant
 [color=orange]Chief Justice:[/color] [nation]Silver Rainbow Fumes[/nation]

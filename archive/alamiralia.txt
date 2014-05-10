@@ -1,5 +1,4 @@
-[color=red]Welcome to Alamiralia, a place so fantastic you will never want to leave![/color]
-
+[color=red]Welcome to Alamiralia, a place so fantastic you will never want to leave![/colo
 [color=purple]Come and join us! All peaceful, friendly nations are welcome! 
 Telegram [nation]Haltioiden[/nation] or [nation]North America and Great Britain[/nation] 
 with any questions about joining or any questions in general.[/color]
@@ -9,7 +8,7 @@ President/WA Delegate: [nation=short]North America and Great Britain[/nation]
 Prime Minister: [nation=short]Haltioiden[/nation]
 Minister of Defense: [nation=short]Belderous[/nation]
 Minister of Foreign Affairs: [nation=short]The Conez Imperium[/nation]
-Minister of Finance: [I]Vacant[/I]
+Minister of Finance: [nation=short]Horicnir[/nation]
 Minister of Recruiting: [nation=short]Ruhigen[/nation]
 
 [color=blue][I]Remember ladies and gentlemen: [b]Join the WA![/b][/I][/color]

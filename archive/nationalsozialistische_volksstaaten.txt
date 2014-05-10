@@ -1,13 +1,11 @@
-[b][color=#a60000]Welcommen zu [region]Nationalsozialistische Volksstaaten[/region] | Welcome to [region]National Socialist Peoples States[/region][/color][/b][hr][b][u][color=blue]Government:[/u][/color]
+[b][color=#a60000]Welcommen zu [region]Nationalsozialistische Volksstaaten[/region] | Welcome to [region]National Socialist Peoples States[/region][/color][hr][i]...a human community is well organized only when it facilitates to the highest possible degree individual creative forces and utilizes their work for the benefit of the community.[/i] AH[hr][u][color=blue]Regierung/Government:[/u][/color]
 Volkskanzler/People&amp;#39;s Chancellor: [nation]Nationalsozialistische Volksstaaten[/nation]
 Volksvertreter/People&amp;#39;s Representative:
 [hr][color=blue][u]Volksvertretung/Parliment[/u][/color]
-Minister f&uuml;r ausw&auml;rtige Angelegenheiten/Foreign Affairs:
-Minister f&uuml;r Innere Angelegenheiten/Internal Affairs:
-Minister f&uuml;r Kriegsf&uuml;hrung/Warfare:
-Minister f&uuml;r Staatssicherheit/State Security:
-Minister f&uuml;r Nat&uuml;rliche Ressourcen/Natural Resources:
-Minister f&uuml;r Industrie und Technik/Minister for Industry and Technology:
-Minister f&uuml;r Wirtschaft und Arbeit/Economics and Labour:
+Ausw&auml;rtige und Kriegsf&uuml;hrung/Foreign Affairs and Warfare:
+Innere Angelegenheiten und Staatssicherheit /Internal Affairs and State Security:
+Nat&uuml;rliche Ressourcen/Natural Resources:
+Industrie und Arbeit/Minister for Industry and Labour:
+Wirtschaft und Finanzen/Economics and Finance:
 
 [/b]
