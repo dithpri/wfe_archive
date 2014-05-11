@@ -5,8 +5,12 @@
 [b][color=blue][u]Leadership:[/u]
 Executive Secretary: [nation=linkazonia]
 Overseer: [nation=Chermania]
-Internal Affairs: [nation=Apocolyptia Britania]
-Foreign Affairs:
-Immigration:
+Internal Affairs: [nation=Lawless Idealism]
+Foreign Affairs: [nation=Ankha]
+Immigration: [nation=Apocolyptia Britania]
 
-Next elections begin on May 31st[/color][/b]
+News: Elections for both Executive Secretary and Ministers have been completed.
+
+Next Delegate elections begin on May 31st.[/color]
+
+[color=green]Threat Level: Normal[/b][/color]

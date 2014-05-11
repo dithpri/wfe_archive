@@ -1,4 +1,4 @@
-[color=gold]Happy Europe Day![/color]
+[color=gold]Happy Constitution Day! (Micronesia)[/color]
 
 [b]Alert Level- [i][color=Blue]Blue[/color][/b][/i][color=green]
 
@@ -16,7 +16,7 @@ Prime Minister: [nation=short]Aeternabilis[/nation]
 
 Minister of Foreign Affairs: [nation=short]gomlis44[/nation]
 
-Minister of Legal Affairs (temporary): [nation=short]Romano-Germanic Empire[/nation]
+Minister of Legal Affairs: [nation=short]Romano-Germanic Empire[/nation]
 
 Minister of Defense: [nation=short]gomlis44[/nation]
 

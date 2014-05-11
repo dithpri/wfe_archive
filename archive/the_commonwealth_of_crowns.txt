@@ -7,7 +7,7 @@ Secretary-General: [nation=short]Besate[/nation]
 Chancellor: [nation=short]The Antarctica Territories[/nation]
 Speaker: [nation=short]Evanicaland[/nation]
 Prosecutor-General: [nation=short]San Monteriano[/nation]
-High Commander: TBA
+High Commander: [nation=short]Wyethalania[/nation]
 [hr]
 [b]The Cabinet:[/b]
 Minister of the Interior: [nation=short]Noorderkwartier[/nation]

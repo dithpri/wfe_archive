@@ -1,8 +1,8 @@
 [b]Defense Status:[/b] [color=blue]DEFSTAT 4[/color]
 
-[b]Latest News:[/b] 
-- [color=cc0000][b]HAPPY VICTORY DAY TO ALL COMRADES OF THE IUSR![/b][/color]
-- Third Moshnian Empire collapses as rebels take capitol building in Schmetterwitz.
+[b]Latest News:[/b]
+- [nation=short]Quanlinan[/nation] goes full imperialist.
+- [nation=short]Krajstali-Belakras[/nation] loyalists resurface for some reason; will be sent on a one-way trip on the [i]Gulag Express[/i]&#153;
 
 [hr]
 
