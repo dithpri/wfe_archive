@@ -2,13 +2,20 @@ The Cliffs of the Iron Isles is currently an empty, barren region. We are trying
 
 Members of the Small Council:
 
-WA Delegate: [color=green][Position Open][/color]
-Commissioner of Defense: [color=green][Position Open][/color]
-Commissioner of Regional Affairs: [color=green][Position Open][/color]
-Commissioner of Immigration: [color=green][Position Open][/color]
-Commissioner of Internal Affairs: [color=green][Position Open][/color]
+
+WA Delegate: [color=blue][Position Open][/color]
+
+Commissioner of Defense: [nation]Gaussig[/nation]
+
+Commissioner of Regional Affairs: [color=blue][Position Open][/color]
+
+Commissioner of Immigration: [color=blue][Position Open][/color]
+
+Commissioner of Internal Affairs: [color=blue][Position Open][/color]
+
 Auxiliary Commissioner:[nation]Mortenheim[/nation]
 
-The WA delegate will be elected and WILL be granted regional control once the Cliffs of the Iron Isles has surpassed twenty nations.
+
+The WA delegate WILL be granted regional control once the Cliffs of the Iron Isles has surpassed twenty nations.
 
 [b]Any nation interested in joining the Small Council should send a telegram to the Auxiliary Commissioner.[/b]

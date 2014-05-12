@@ -11,7 +11,7 @@ King: [nation]The Great European Commonwealth[/nation]
 [color=orange]Chief Justice:[/color] [nation]Silver Rainbow Fumes[/nation]
 [color=orange] Judge:[/color] [nation]Peoples Templars[/nation]
 [color=grey] Special forces command:[/color] [nation]Coopanonva[/nation]
-[color=purple]Recruiter:[/color] vacant
+[color=purple]Recruiter:[/color] [nation]ARYAN EMP[/nation]
 [color=purple]Diplomat: [/color]five positions
 
 

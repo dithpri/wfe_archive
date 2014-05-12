@@ -8,8 +8,8 @@
 
 Emperor:[nation=short]Rightist America[/nation]
 Interim Governor:[nation=short]Aristotskia[/nation]
-Senator and Defense Secretary: [nation=short]Zambia-Rhodesia[/nation]
-Senator and Foreign Minister: [nation=short]Japam[/nation]
+Senator and Defense Secretary: pending
+Senator and Foreign Minister: pending
 Senator and Recruitment Minister: [nation=short]the great gatsby[/nation]
 Minister of Culture and Education:[nation=short]Conservative Nationalist[/nation][/b]
 

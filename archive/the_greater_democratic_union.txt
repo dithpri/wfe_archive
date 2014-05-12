@@ -4,11 +4,11 @@
 [hr][color=00BFFF][b][u]Regional Government[/u][/b][/color]
 - [i]Founder[/i]: [nation]New Grestin[/nation]
 - [i]WA Delegate[/i]: [i]Unoccupied[/i]
-- [i]Prime Minister[/i]: [i]Unoccupied[/i]
+- [i]Prime Minister[/i]: [nation]Fargo Island Capital[/nation]
 [hr]
 
 [color=00BFFF][b][u]News and Regional Events[/u][/b][/color]
-- N/a
+- [i]Happy Mother&amp;#39;s Day![/i]
 
 
 

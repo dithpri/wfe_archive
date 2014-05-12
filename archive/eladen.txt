@@ -23,7 +23,7 @@ Arms: 12th
 Beverage: [color=orange][b]8th[/color][/b]
 Mining: 14th
 Agriculture: [color=orange][b]7th[/color][/b]
-Publishing: 17th
+Publishing: 15th
 Auto: [color=orange][b]5th[/b][/color]
 Insurance: [color=orange][b]5th[/b][/color]
 Cheese: [color=orange][b]5th[/b][/color]
