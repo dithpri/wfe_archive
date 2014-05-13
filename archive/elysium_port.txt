@@ -18,7 +18,7 @@
 -[Nation=short]The Other Das Metro[/Nation]
 -[Nation=short]Violazed[/Nation]
 [Hr]
-[Color=Violet]Liberations:&nbsp;12[/Color]
+[Color=Violet]Liberations:&nbsp;15[/Color]
 [Hr]
 
 [Color=Red]Military Base #1[/Color]
@@ -48,9 +48,9 @@ TG Gom for next &amp;quot;Assessment&amp;quot;
 -Elysium first and new military base, promises bright future.
 [hr]
 [B]Base security level:[/B] [color=yellow]LOW[/color]
+[B]IEU Alert Level: [Color=blue]Blue[/Color]
 
-
-[B]DO NOT POST SENSITIVE INFORMATION ON THE RMB[/B]
+DO NOT POST SENSITIVE INFORMATION ON THE RMB[/B]
 
 
 [I]&amp;quot;The Hounds of Justice&amp;quot;[/I]

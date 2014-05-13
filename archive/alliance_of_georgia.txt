@@ -1,12 +1,8 @@
 Welcome
 [b]WE HAVE DEFEATED THE LEGENDARY BLACK RIDERS IN BATTLE. ONWARD TO VICTORRRRYYYYYYYY[/b]
 
-Senator: [nation]Imperial Republic of Zerinfriom[/nation]
-Ministry of War: [nation]Soviet Arkham[/nation]
-Ambassador: [nation]The Broken Russian States[/nation]
-Ministry of Agriculture:
-Ministry of Safety:
-Ministry of Foreign Affairs
+Vice President: [nation]Soviet Arkham[/nation]
+Secretary of Foreign Affairs:
 Region Superpower: [nation]Roski[/nation]
 Political style: Democracy; Monarchy; Dictatorship
 Allies: [region]The Grand Imperial Order[/region], [region]The Revolutionary Council[/region] and [region]The Northern Hemisphere[/region]

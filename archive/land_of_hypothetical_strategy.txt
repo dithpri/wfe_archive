@@ -2,8 +2,8 @@ Official region of the Hypothetical Strategy Club.
 
 Rulers: [nation]Communist Republic of Daein[/nation], [nation]Drakonsland[/nation]
 
-Former nations: [nation]Saxaquine[/nation], [nation]the Wicked Damned[/nation]
+Former nations: [nation]Saxaquine[/nation], [nation]The Wicked Damned[/nation]
 
-Friends : [region]The Abyssinian Empire[/region]
+Friendly regions: [region]The Abyssinian Empire[/region], [region]The Clan of Invisible Animals[/region], [region]Illuminati[/region]
 
 Targets for annexation: [nation]Real Beef[/nation]

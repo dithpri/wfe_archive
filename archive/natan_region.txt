@@ -2,9 +2,9 @@ Welcome to the State of Natan Region, a State of the DRNR! In this State, we hav
 
 Incumbent Legislators: [i]legislature not elected yet[/i]
 
-Interim Governor: [nation]Ozzy[/nation]
-Lt. Interim Governor: [i]vacant[/i]
-interim chief justice: [i]position not established[/i]
+Governor: [nation]Ozzy[/nation]
+Lt. Governor: [i]vacant[/i]
+chief justice: [i]position not established[/i]
 
 Discussion of the week: was indiana jones irrelevant to the plotline of [i]Raiders of the Lost Ark[/i]?
 

@@ -9,8 +9,8 @@ Internal Affairs: [nation=Lawless Idealism]
 Foreign Affairs: [nation=Ankha]
 Immigration: [nation=Apocolyptia Britania]
 
-News: Elections for both Executive Secretary and Ministers have been completed.
+News: State of Emergency due to UCR Relations Crisis
 
 Next Delegate elections begin on May 31st.[/color]
 
-[color=green]Threat Level: Normal[/b][/color]
+[color=orange]Threat Level: Heightened[/b][/color]

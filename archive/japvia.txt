@@ -1,8 +1,20 @@
-[color=navy][b]Japvia[/b][/color][hr][color=800000][b][nation=short]Embassy Policy[/nation]:[/b][list][nation=short]Note[/nation]:[list]Currently I am trying to set my embassies to fit nsEmbassy Oracle game in mind, with the goal of having only two embassies per region, the region ahead and the region behind each region in question. To make this work, all other embassies will need to be ABORTED, as they interfere with the game. Our goal is to have a very long string of embassy regions.
+[color=navy][b]Japvia[/color][hr][nation=short]Embassy Policy[/nation]:[/b][list]
+[nation=short]Note[/nation]:[hr][b]Oracle Group of Regions[/b]
 
-Not all of my regions will participate in this game.
+This group is trying to set to fit nsEmbassy Oracle game, with the goal of having only two embassies per region, the region ahead and the region behind. 
 
-The shorter this takes, the sooner we will extend embassies again.[/list][nation=short]Attention[/nation]:[list]I have no interest in extending embassies to any region that bans my nations, so stop spamming embassy requests.
+The goal is to have a very long string of embassy regions.
 
-I am not accepting unsolicited embassy offers at this time.[/list][nation=short]Info[/nation]:  [url=http://nsdossier.texasregion.net/embassyOracle.aspx]nsEmbassy Oracle[/url]
-START REGION - - - - - -[/color][/list]
+[b]Matrix Group of Regions:[/b] These regions are accepting embassy offers.
+See [region=United States of America]
+
+[nation=short]Attention[/nation]:[hr]This region is also being used as a temporary embassy connection so that my new regions are fully integrated.
+
+[nation=short]Info[/nation]:[hr][url=http://nsdossier.texasregion.net/embassyOracle.aspx]nsEmbassy Oracle[/url]
+
+The only embassy this region accepts is with: [region=The Mars]
+
+[b]Currently:[/b]
+From [b]Japvia[/b] to [region=Palmerston]: 1103 degrees of separation
+From [region=The Capital] to Palmerston: 4 degrees
+[b]The Capital[/b] is the last Oracle region.[/list]

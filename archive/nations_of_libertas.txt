@@ -10,7 +10,7 @@ Department of Diplomacy [nation=Indycius]
 [color=black][b]
 [Head of the House] [nation=Hildenwitz]
 [Internal Supervisor] OPEN
-{Libertians}:
+{Libertians}:[nation=General King]
 
 
 

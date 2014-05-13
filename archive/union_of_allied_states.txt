@@ -1,5 +1,9 @@
-[b]This region fell to the forces of [region]The Eternal Knights[/region]!
+[color=purple][b]The old WFE was unattainable so we left what we could and removed the tags so that the natives could remain undisturbed from recruiters.[/b][/color]
 
-In the midst of the night, The Eternal Knights infiltrated and attacked, leaving no survivors in the great purge:
-[nation=short]Nephmir[/nation]
-[nation=short]Unified Protectors[/nation][/b]
+[color=red]This region was freed by [region]International East Union[/region]. Help us free others![/color]
+
+[color=green]Liberators:[/color]
+
+[nation=short]Gomlis44[/nation]
+
+[nation=short]Munray[/nation]
