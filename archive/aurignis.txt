@@ -1,31 +1,9 @@
-[nation]Albicia[/nation]: [color=purple]King[/color]
+High King: [nation]Albicia[/nation]
 
-[nation]Cotopia[/nation]: [color=silver]Crown Prince[/color] 
+Crown Prince: [nation]Cotopia[/nation]
 
-[nation]Khaleesi[/nation]: [color=pink]Queen Dowager[/color] 
+Queen Dowager: [nation]Khaleesi[/nation]
 
-The Royal Council:
-
-[nation]The Universal Imperium[/nation]
-
-[nation]New Morrowind[/nation]
-
-[nation]Populus Anglicus[/nation]
-
-[color=red]The Grand Army[/color]:
-
-[nation]Albicia[/nation]
-[nation]Ice Walkers[/nation]
-[nation]New Morrowind[/nation]
-[nation]The Defender of Faith[/nation]
-[nation]Nortal[/nation]
-[nation]Prygieltopia[/nation]
-[nation]The Freedom fighters of the barron lands[/nation]
-
-[color=blue]The Prince&amp;#39;s Guard[/color]:
-
-[nation]Cotopia[/nation]
-[nation]The Draconic Domination[/nation]
-[nation]District 367[/nation]
-
-Men and Women of Aurignis, to arms!
+Vassals:
+The Kingdom of [region]Warzone Australia[/region]
+The Duchy of [region]Warzone Airspace[/region]

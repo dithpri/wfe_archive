@@ -9,7 +9,7 @@
 [b]Internal Ministry:[/b] [nation]Angorath[/nation]
 [nation]Ancian[/nation]
 [nation]Hattersfeld[/nation]
-[b]Recruitment Ministry:[/b] [nation]The socialist republic of the island[/nation]
+[b]Recruitment Ministry:[/b] Empty!
 [b]Defense Ministry:[/b] [nation]Frederick William II[/nation]
 [b]Lord High Commissioner:[/b] [nation]Frederick William II[/nation][/color]
 

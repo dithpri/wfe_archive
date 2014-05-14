@@ -1,13 +1,23 @@
-
-[B]The Seven Nations[/b]
+[B]The 7 Nations[/b]
 [Nation]The Ugaya Aniyunwiya[/nation] 
 [Nation]The Qin Empire[/nation] 
 [Nation]The Oghuz Kaahnate of the Golden Horde[/nation] 
 [Nation]Manden Kurufaba[/nation] 
 [Nation]Egypt and Nubia[/nation] 
 [Nation]The Amazonica[/nation] 
-[Nation]The Monnlit Sakura[/nation] 
+[Nation]The Moonlit Sakura[/nation] 
 
-This region is for the seven nations, its military, the provinces and subdivisions within those nations, and closely allied nations
+[B] [u] [color=blue] leader of the seven nations: [/color] [/u] 
+[nation]the 7 nations[/nation] 
+[Color=gold][u] Peace chief: [/u] [/color] 
+
+[Color=red] [u] War chief: [/u] [/color] 
+
+[U][color=maroon] IAAF7N Military Command: [/u] 
+[nation]the imperial army and aerospace forces[/nation] [/b] [/color] 
+
+[Color=Purple][b][u] Treasurer: [/b][/u][/color] 
+
+
 
 if you wish to join or would like more info please contact [nation]the 7 nations[/nation] ,you may join as a subdivision of a nation, a military unit of the IAAF7N or as a protectorate, commonwealth, or ally of the 7 nations

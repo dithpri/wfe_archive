@@ -1,4 +1,5 @@
 
+
 [b]Boss:[/b] [nation]The Establishment of Worldwide Freedom[/nation]
 
 [b]Chief:[/b] [nation]Communism life[/nation]
@@ -9,11 +10,7 @@
 
 [color=darkgoldenrod]LUX E TENEBRIS[/color][color=lightslategray] - [url=http://nswiki.org/index.php?title=Region/The_Illuminati]We[/url] are [url=http://www.illuminatirex.com/nwo-world-map/]everywhere[/url].- [/color][color=darkgoldenrod]ACTA NON VERBA[/color]
 
-[color=royalblue]Be all that you can be in [region]The Illuminati[/region].[/color]
-
 [color=chocolate]All enlightened regions have embassies here.[/color]
-
-[color=mediumorchid]For more information, ask on the [url=http://www.nationstates.net/region=the_illuminati#rmb]RMB[/url].[/color]
 
 [color=darkgoldenrod]ORDO AB CHAO[/color][color=lightslategray] - Ends justify means.- [/color][color=darkgoldenrod]NOVUS ORDO SECLORUM[/color]
 
@@ -25,11 +22,11 @@
 
 [b]Timezone:[/b] [url=http://time.is/UTC]UTC[/url]
 
-[b]Newspaper:[/b] [url=https://nationstatesplusplus.net/newspaper?id=1220]The Illuminati Agenda[/url]
+[b]Newspaper:[/b] [url=https://nationstatesplusplus.net/newspaper?id=1220]The Illuminati Agenda[/url],  [b]Editor:[/b] [nation=noflag+short]The Illuminati Agenda[/nation]
 
 [b]Incidents:[/b] [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=287044]Actinide War[/url], [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=295291]Pimp War.[/url]
 
-[b]Border: [color=crimson]OPEN[/color][/b]
+[b]Border: [color=crimson]OPEN[/color][/b], [b]Recruiting:[/b] [nation=noflag+short]The Committee of Public Safety[/nation]
 
 [b]Regulations: [color=crimson]26 days[/color][/b] [url=http://www.nationstates.net/page=dispatch/id=239215]maximum inactivity[/url]
 
