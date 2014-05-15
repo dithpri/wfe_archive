@@ -1,10 +1,10 @@
 An experiment being conducted by the [region]Commonwealth of Free Nations[/region].
 
 Argentism will serve as a testing region in an attempt to construct a democratic theocracy within the NationStates ecosystem.
-[nation]Argentian States[/nation] - Baxten
+[nation]The Apostle Bax[/nation] - Baxten
 [nation]The Argentist Democratic Union[/nation] - Orveleca
 [nation]The Archangel Argentum[/nation] - Silver
-
+[nation]Apostle Jas the Bold[/nation] - Jaslandia
 Deity: Argentum
 
 Officer of Missionary Coordination: Micorosoft Corp
@@ -12,5 +12,7 @@ Officer of Missionary Coordination: Micorosoft Corp
 Officer Religious Ceremony: Baxten
 
 Officer of Religious Law: Orveleca
+
+Officer of Inquisition: Jaslandia
 
 Crusade Commandant: COLDR

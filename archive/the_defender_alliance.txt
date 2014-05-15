@@ -1,1 +1,1 @@
-part of [region]The Bordurian Empire[/region].
+TERRITORY of [region]The Bordurian Empire[/region].

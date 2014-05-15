@@ -1,7 +1,12 @@
-A peninsular extending into the West Ocean and connected to the vast expanse of the Hotan desert, the Tarusmic Peninsular is a politically diverse region with a rich history.  All the civilised nations are member states of the Second Empire, a political union with some elected offices.
+[color=green][b]The Tarusmic Peninsular, [i][nation=noflag]Tarusma[/nation][/b][/color][/i]
 
-Emperor: Hattini, King of [nation]Suvva[/nation]
-Chair: Borion Evryl, of [nation]Laans[/nation]
-First Commander on Land: Apalis Evryl, High King of [nation]Laans[/nation]
-First Commander at Sea: Helkis, Lord of the Seven Keeps of [nation]Varenthal[/nation]
-Commander of the Imperial Guard: Petyr, Dictator of [nation]Kavvos[/nation]
+A peninsular extending into the west ocean and connected to the vast expanse of the Hotan desert.  The Tarusmic Peninsular is a politically diverse region with a rich history, where civilized nations are member states of [nation=noflag]Tarusma[/nation]: a political union with some elected offices.
+
+[b][color=green]The Government of [i][nation=noflag]Tarusma[/nation][/i]:[/color][/b]
+[b]Emperor:[/b] Hattini, King of [nation=noflag]Suvva[/nation]
+[b]Chair:[/b] Borion Evryl, of [nation=noflag]Laans[/nation]
+[b]First Commander on Land:[/b] Apalis Evryl, High King of [nation=noflag]Laans[/nation]
+[b]First Commander at Sea:[/b] Helkis, Lord of the Seven Keeps of [nation=noflag]Varenthal[/nation]
+[b]Commander of the Imperial Guard:[/b] Petyr, Dictator of [nation=noflag]Kavvos[/nation]
+
+Find out more [i][u][url=http://www.nationstates.net/page=dispatch/id=256141]here[/url][/u][/i].

@@ -5,13 +5,15 @@ The following assassins entered battle:
 
 [nation=short]The Sapientia[/nation]
 [nation=short]The Shadow Assassin[/nation]
+[nation=short]Reath[/nation]
 [nation=short]PrinceHoldings[/nation]
 [nation=short]master_shin[/nation]
-[nation=short]Reath[/nation]
 
-Also marched into the battle: 
+Also joined the battle:
 
 [nation=short]Valrifell[/nation]
+[nation=short]Ever-Wandering Souls[/nation]
+
 [hr]
 [color=purple]Natives Expelled:[/color] 7
 [color=purple]Humiliated Spies:[/color] 1

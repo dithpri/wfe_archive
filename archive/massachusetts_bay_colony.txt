@@ -2,6 +2,10 @@ Welcome to the New World!
 
 [u][b]Royal Governor:[/b][/u] [nation]mother fatherland[/nation]
 
+[b][u]Ministers of State:[/b][/u]
+[b]Minister of Immigration:[/b]
+[b]Minister of Culture:[/b]
+
 [b][u]House of Lords:[/b][/u] [I]nations that are chosen for their outstanding devotion and loyalty to the region[/I]
 
 [b][u]House of Commons[/b][/u]
@@ -9,4 +13,3 @@ Welcome to the New World!
 [b]Deputy Speaker:[/b] 
 
 [b]Members:[/b]
-[nation]All like minded individuals[/nation]

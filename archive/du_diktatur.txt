@@ -1,6 +1,6 @@
-.:Welcome to Du Diktatur:.
-GOVERNMENT
-President:
+[color=blue].:Welcome to Du Diktatur:.[/color]
+[color=gold]GOVERNMENT
+President:[nation=Kulginastan]
 Vice President: 
-General of the Army:  
-Ambassador:
+General of the Army:[nation=Kulginastan]
+Ambassador:[/color]

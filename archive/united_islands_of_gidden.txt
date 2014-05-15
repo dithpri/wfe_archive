@@ -3,11 +3,11 @@ The small planet of Struam contains many islands, but no large continents. Gidde
 [b]Regional Anthem:[/b] &amp;quot;F&uuml;r Elise&amp;quot; composed by Ludwig van Beethoven
 http://www.youtube.com/watch?v=_mVW8tgGY_w 
 
-[b]Monarch[/b] : [nation]Giddenburg[/nation]
+[b]Monarch[/b] : [color=blue]King Tomas Gidden V[/color] of[nation]Giddenburg[/nation]
 
 [u]Royal Council[/u]
 
-[b] Prime Minister:[/b][nation]Boedwards[/nation]
+[b] Prime Minister: [color=green]Bo Edwards of [/color][/b][nation]Boedwards[/nation]
 [b] Minister of Economics:[/b] [color=red]None[/color]
 [b]Minister of Public and International Affairs:[/b] [color=red]None[/color]
 [b]Minister of War and Defense:[/b] [color=red]None[/color]

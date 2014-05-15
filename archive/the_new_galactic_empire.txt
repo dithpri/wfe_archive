@@ -4,7 +4,7 @@
 [b][u]Imperial Senate[/u][/b] 
 [b]Chancellor[/b]: [nation=short]Alagaeia[/nation] (Next Election June 2014)
 -[b]Vice Chancellor[/b]:  [nation=short]Mack Lochmere[/nation]
--[b]Representative[/b]:  [hr]
+-[b]Representative[/b]: [nation=short]The Republic of Gaben[/nation] [hr]
 [b][u]Supreme Court[/u][/b] 
 [b]Supreme Judge[/b]: [nation=short]Gray Army[/nation][hr]
 [b][u]Moff Council[/u][/b]
@@ -17,7 +17,7 @@
 [b]Moff of Finance[/b]: [nation=short]The Last Son of Gallifrey[/nation]  [hr]
 [url=http://tnge.kl-gaming.net/index.php]NGE Forum[/url]
 
-[b][color=gold]Nation of the Month[/color][/b]: [nation=short]Ithorian Herdships[/nation] 
+[b][color=gold]Nation of the Month[/color][/b]: [nation=short]Independent Javer[/nation] 
 
 [b]Empire founded by Imperial Patriarch [nation=short]Palpatine1986 Reborn[/nation]  in March 2010
 
