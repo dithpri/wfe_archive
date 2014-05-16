@@ -1,6 +1,7 @@
 Welcome to the Region of pure bitter coldness.
 
-[b]Commissioner[/b]:[nation=short]the Inuit nation[/nation]
-[b]Premier[/b]:[i]vaccant[/I]
+This region is part of [region]Smiley Faces[/region]
 
-Sister Region:[region]Smiley Faces[/region]
+[b]President of Smiley Faces[/b]:[nation=short]Gothopia[/nation]
+[b]Commissioner[/b]:[nation=short]the Inuit nation[/nation][i](no term limit yet)[/i]
+[b]Premier[/b]:[i]vaccant (no term limit yet)[/i]

@@ -1,10 +1,10 @@
-High King: [nation]Albicia[/nation]
+[B][u]One Region, One Ruler, One Will[/u][/B]
 
+Aurignis is an ancient and venerable region, with a long and storied history of war, invasion and defence. 
+
+King: [nation]Albicia[/nation]
 Crown Prince: [nation]Cotopia[/nation]
-
 Queen Dowager: [nation]Khaleesi[/nation]
 
-Vassals:
-The Kingdom of [region]Warzone Australia[/region]
-The Duchy of [region]The Confederacy[/region]
-The Duchy of [region]Warzone Airspace[/region]
+[B]News[/B]: We have been invaded by the filthy Reds [region]Warzone Asia[/region], and their atrocious Bourgeoisie allies, [region]Warzone Europe[/region]. Do not panic. 
+

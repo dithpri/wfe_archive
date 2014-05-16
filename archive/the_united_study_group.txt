@@ -11,7 +11,7 @@ Nations are encouraged to make wiki style factbooks, [url=http://forum.nationsta
 
 [color=blue]MINISTER FOR FOREIGN AFFAIRS:[/color] [nation]Dwyers[/nation]
 
-[color=red]REGION OF MORTAL ENEMIES:[/color] [region]Rebel HQ[/region]
+[color=red]REGIONS OF MORTAL ENEMIES:[/color] [region]Rebel HQ[/region], [region]Hydra HQ[/region]
 
 [color=orange]MINISTER FOR BATMAN:
 [/color] [nation]the republic of nick joy[/nation]

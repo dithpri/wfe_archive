@@ -8,7 +8,7 @@ Adviser: [nation=short]Braskovia[/nation]
 Minister:[nation=short]Yokota[/nation]
 Secretary of Recruitment:[b]OPEN[/b]
 Ambassador Committee:[b]OPEN[/b]
-Minister of Culture:[b]OPEN[/b]
+Minister of Culture:[nation=short]United Christian[/nation]
 [b][u]WA Members:[/u] Please endorse our delegate,[/b][nation=short]FreedomStates[/nation]
 [b][u]WA Delegate Message:[/u][/b] If you have a WA Proposal you wish for me to Sponsor Telegram me.
 [url=http://w11.zetaboards.com/The_IDU/index][b]IDU Regional Forum [/b][/url]

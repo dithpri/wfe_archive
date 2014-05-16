@@ -1,7 +1,7 @@
-[b][color=#000061]Huzzah! Huzzah! Huzzah! This region proved no match for a charge by [region=The Black Riders]![/color]
+[b]This region is now under the protection of the Akiirikan Empire. You may rejoice,for you are now free from the Black Riders wicked hold.[/b]
 
-[color=black]Occupied by [url=http://www.youtube.com/watch?v=qB1kp9adYYE]The Black Riders[/url]! Our lair can be found [/color] [url=http://s4.zetaboards.com/The_Black_Riders/index/]here[/url]
+[color=green]Our home[/color]:[region]Akiirik[/region]
 
-[color=#000061]Into the battle rode the following riders:[/color]
-[nation=short]Gladio III[/nation]
-[nation=short]Coraxion[/nation][/b]
+[color=gold]legionaries that marched into battle[/color]:
+[nation]Alliir[/nation]
+[nation]Athron[/nation]

@@ -15,7 +15,5 @@ Secretary of defense: [nation=short]Liberty Christians[/nation]
 Secretary of state: [nation=short]Gosford[/nation]
 Map maker: [nation=short]Christian Guyana-Suriname[/nation].
 
-Bible verse: Proverbs 3:5: Trust in the LORD with all thine heart; and lean not unto thine own understanding.
-
- 
+Bible verse: Psalms 62:1: Truly my soul waiteth upon God: from him cometh my salvation. He only is my rock and my salvation; he is my defense; I shall not be greatly moved.
 

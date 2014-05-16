@@ -1,6 +1,6 @@
 [b]Defense Status:[/b] [color=blue]DEFSTAT 4[/color]
 
-[b]Latest News:[/b] [nation=short]Moshnia[/nation]n rebels and government sign treaty ending empire and declaring future neutrality.
+[b]Latest News:[/b] [nation=short]Slakia[/nation] becomes elected Administrative Nation of the Union of Independent Nations.
 
 [hr]
 
@@ -15,6 +15,7 @@
 
 [nation]Krajstali[/nation]
 [nation]Isaciaria[/nation]
+[nation]Drogustan[/nation]
 
 [hr]
 

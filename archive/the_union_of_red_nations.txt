@@ -5,7 +5,7 @@ General Secretary: [nation]Free Terra[/nation]
 Premier: [nation]Dakran[/nation]
 Head of Armed Forces: [nation]Vyrsar[/nation]
 Head of Diplomacy: [nation]Barunia[/nation]
-Head of Internal Affairs: VACANT
+Head of Internal Affairs: [nation]Nova Populum[/nation]
 Head of Recruitment: VACANT
 
 [ELECTIONS TO COMMENCE AS SOON AS CANDIDATES PRESENT THEMSELVES]
