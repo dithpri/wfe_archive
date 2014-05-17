@@ -2,8 +2,8 @@
 [hr]
 [b][color=orange] The Bridge [/b][/color]
 [b]Captain:[/b] [b][nation=Captain Silversmith][/b]
-[b]First Mate:[/b] [nation=chief of the sea]
-[b]Second Officer:[/b] open
+[b]First Mate:[/b] [nation=first mate shane]
+[b]Second Officer:[/b] [nation=chief of the sea]
 [b][color=orange]The Deck[/color][/b]
 [b]Boatswain:[/b] open
 [b]Deck Cadet:[/b] open

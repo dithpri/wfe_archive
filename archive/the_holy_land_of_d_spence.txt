@@ -1,5 +1,5 @@
 -Prime Minister-                     [nation]Viviatopia[/nation]
--Minister of Defense-            
+-Minister of Defense-              [nation]Whitestone[/nation] 
 -Minister of Justice-               [nation]Dollarsigndom[/nation]
 -Minister of Foreign Affairs-    [nation]Augmentis[/nation]
 -Minister of Education-          [nation]The Grand Duchy of Orkney[/nation]  

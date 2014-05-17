@@ -15,6 +15,6 @@ See [region=United States of America]
 The only embassy this region accepts is with: [region=The Mars]
 
 [b]Currently:[/b]
-From [b]Japvia[/b] to [region=Palmerston]: 1103 degrees of separation
+From [b]Japvia[/b] to [region=Palmerston]: 1111 degrees of separation
 From [region=The Capital] to Palmerston: 4 degrees
 [b]The Capital[/b] is the last Oracle region.[/list]

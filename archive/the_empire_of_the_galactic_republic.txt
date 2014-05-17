@@ -5,7 +5,7 @@ Chancellor: [nation]Review[/nation]
 Vice
 Chancellor: [nation]Lindelt[/nation]
 Defense
-Minister: [nation]Power1[/nation]
+Minister: [nation]Maytirce[/nation]
 Foreign
 Affairs
-Minister: [nation]Cybras[/nation]
+Minister: [nation]WAAAAGGHH[/nation]

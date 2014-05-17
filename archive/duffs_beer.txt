@@ -1,5 +1,5 @@
 [b][color=blue]Hello Fellow Nations[/color][/b]
-
+[b][i][color=orange]-Welcome to Reality! Where all your dreams and hopes[/color][/i][/b] [b][color=red]don&amp;#39;t[/color][/b] [b][i][color=orange]come true[/color][/i][/b]
 
 [color=green]Here is a list of the following nations in Duffs Beer[/color]
 [color=red]*listed by date of arrival[/color]
@@ -11,4 +11,4 @@
 [nation=long+flag]CARTER2015[/nation]
 [nation=long+flag]CharlestownIN[/nation]
 [hr]
-Region version 0.0.0.2
+Region version 0.0.0.3

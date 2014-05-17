@@ -2,12 +2,12 @@
 
 [color=gold]GOVERNMENT
 President: [nation=Panastan]
-Vice President: [nation=Kulginastan]
+Vice President: 
 General of the Army: [nation=Panastan][/color] 
-[color=gold]Ambassador: [nation=Kulginastan] 
+[color=gold]Ambassador:
 
 Everyone works on what they desire but cooperatively[/color]
 
-[color=communistred]Be on high alert citizens we are on Defcon 4![/color]
+[color=communistred]Be on high alert citizens we are on Defcon 1![/color]
 
 [url=http://www.nationstates.net/page=dispatch/id=241529]Bill Of Rights[/url]
