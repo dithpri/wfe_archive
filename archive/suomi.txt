@@ -15,6 +15,7 @@ Raivaaja-Yli-Jumala: [nation=short]Ukko[/nation]
 Ukon Salarakas: [nation=short]Coraxion[/nation]
 Suomen Tasavallan Presidentti: Neiti [nation=short]Savoma[/nation] (Demokraattisesti Valittu)
 Presidentin Saunaseura: [nation=short]Free Amazons[/nation]
-Puolustusministeri, Hirve&auml; Kaukopartiomies: [nation=short]WraithFIN[/nation][hr]
+Puolustusministeri, Hirve&auml; Kaukopartiomies: [nation=short]WraithFIN[/nation]
+Puolikuollut Seniori ja Heimon Vanhin: [nation=short]Anusaukko[/nation][hr]
 
 [b]Tervetuloa![/b]

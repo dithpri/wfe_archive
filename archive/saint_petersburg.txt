@@ -1,3 +1,1 @@
-[b][color=darkblue]WELCOME TO[/color] [color=blue]SAINT PETERSBURG[/color][/b]
-[list][color=darkblue]City and a federal subject of [b][region]Russian Federation[/region][/b]
-A major European cultural center, and also an important Russian port on the Baltic Sea.[/color][/list]
+[color=navy][b]Saint Petersburg[/b][/color][hr][color=006400]a [region=Russian Federation] region[/color]

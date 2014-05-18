@@ -9,7 +9,7 @@ Executive Secretary: [nation=linkazonia]
 Overseer: [nation=Chermania]
 Internal Affairs: [nation=Lawless Idealism]
 Foreign Affairs: [nation=Ankha]
-Defense: Open
+Defense: [nation=Goenulosra]
 Immigration: [nation=Apocolyptia Britania]
 
 News: Currently helping the UCR restore Democracy

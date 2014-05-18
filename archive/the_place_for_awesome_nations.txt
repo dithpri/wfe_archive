@@ -2,12 +2,14 @@
 
 [color=red]We will ban you if you are not awesome[/color]
 
-[color=green]WE HAVE A MILITARY!!!![/color]
+[hr]
+
+[b]Founder:[/b][nation]Abust1[/nation]
+[b]WA Delegate:[/b][nation]Zengral[/nation]
 
 [hr]
 
-[b]Founder:[/b][nation=short+noflag]Abust1[/nation]
-[b]WA Delegate:[/b][nation=short+noflag]Zengral[/nation]
+[color=red]We have no alerts.[/color]
 
 [hr]
 

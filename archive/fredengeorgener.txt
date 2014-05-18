@@ -1,8 +1,8 @@
 [nation]Georgenbild[/nation]: Georgenbild retains hegemony amidst regional arms race.
-[nation]Nordburgen[/nation]: Nordburgen troops assist Georgenbild in stabilization of Blackacre.
-[nation]Ouestlands[/nation]: Colony expands; ties Stromburgen&amp;#39; auto industry.
-[nation]Fredricksbild[/nation]: Economy jumps fifteen points overnight; &amp;#39;We&amp;#39;re back!&amp;#39; claim ministers of the interior. 
-[nation]Hoffton[/nation]: Clashes between loyalists and separatists escalated today.
-[nation]Fredengeorgener[/nation]: Southern imperial district granted semi-autonomy.
-[nation]Stromburgen[/nation]: Economy slumps, but still strong.
-[nation]Acersia[/nation]: Nation signals it will back Hoffton secession from Fredricksbild.
+[nation]Nordburgen[/nation]: Nordburgen military second most powerful in region.
+[nation]Ouestlands[/nation]: Ouestlands moves to annex neighboring nation, expands military.
+[nation]Fredricksbild[/nation]: Officials from Nordburgen arrived this morning.
+[nation]Hoffton[/nation]: Hoffton eyes Acersia after secession from Fredricksbild.
+[nation]Fredengeorgener[/nation]: Capitols gloat over New defense treaty.
+[nation]Stromburgen[/nation]: New RDF installations bolster Stromburgen defense.
+[nation]Acersia[/nation]: Nation cites rising tensions with Hoffton over resources and land.

@@ -1,5 +1,4 @@
-     [Color=red]Welcome to the Great City of Attanea[/color] [hr]
-We serve only ourselves, our Emperor, and our Empire. Attanea serves as the capital of the newly founded Attanean Empire. 
+     [Color=red]Welcome to the Great City of Attanea[/color]  
 The City&amp;#39;s government:
 [b]Governor:[/b] [nation]High Aethem[/nation]
 [b]Garrison Commander:[/b] Vacant
@@ -9,3 +8,4 @@ The City&amp;#39;s government:
 -Attanea is a direct democracy. A issue is voted upon each day, and the Garrison Commander enforces it, as well as being the general in case of attack. 
 -The Governor&amp;#39;s duty is to make sure that the city is running properly, but does not make decisions as this is a direct democracy.
 [hr]
+To propose an issue, tg the founder.

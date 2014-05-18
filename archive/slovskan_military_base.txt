@@ -1,3 +1,3 @@
-[b][color=red]Attention! You are now entering a Military Base under control of [nation]Republic of Slovsko[/nation]. Maximum speed of 16 KM/H![/color] [color=blue][u]Present your papers to Base guards and await confirmation of entry - Failure to do so will result in arrest![/u][/color] [color=red]S.P.A officials can enter freely on inquiry.[/color][hr]
+[b][color=red]Attention! You are now entering a Military Base under control of [nation]Republic of Slovsko[/nation]. Maximum speed of 17 KM/H![/color] [color=blue][u]Present your papers to Base guards and await confirmation of entry - Failure to do so will result in arrest![/u][/color] [color=red]S.P.A officials can enter freely on inquiry.[/color][hr]
 
-[*]Alert Status: [color=orange]Medium[/color][/b] 
+[*]Alert Status: [color=blue]Low[/color][/b] 

@@ -7,7 +7,7 @@ Each department needs to be filled by a nation.
 Prime Minister : 
 Foreign Minister : 
 Interior Department : 
-Ministry of Defense : 
+Ministry of Defense : [nation]Fractured Minds[/nation]
 Ministry of Education : 
 Environment Department : 
 Ministry of Commerce : 

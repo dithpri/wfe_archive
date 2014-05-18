@@ -8,6 +8,6 @@ Director: [nation]SHIELD loyal[/nation]
 [B]Advisers[/B]
 Level 10 Agent:[nation]SHIELD HQ[/nation]
 Head of Operations: [nation]galactic clone army[/nation]
-Head of Diplomacy:
+Head of Diplomacy:[nation]the frost republic[/nation]
 Head of Imigration:
 WA Liaison:

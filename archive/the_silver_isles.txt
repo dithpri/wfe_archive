@@ -13,7 +13,6 @@
 [nation=short]Aurum Rider[/nation]
 [nation=short]Gladio III[/nation]
 [nation=short]Wetwork XIII[/nation]
-[nation=short]Deutschland150[/nation]
 [nation=short]Hollowed Forest[/nation]
 [/b]
 
