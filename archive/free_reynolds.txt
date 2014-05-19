@@ -13,11 +13,13 @@ The following assassins entered battle:
 Also joined the battle:
 
 [nation=short]Valrifell[/nation]
+[nation=short]United Nationals[/nation]
 [nation=short]Ever-Wandering Souls[/nation]
+[nation=short]house_ikdard[/nation]
 
 [hr]
 [color=purple]Natives Expelled:[/color] 7
 [color=purple]Humiliated Spies:[/color] 1
-[color=purple]Shamed Defenders:[/color] 7
-[color=purple]Repelled Liberations:[/color] 1
+[color=purple]Shamed Defenders:[/color] 16
+[color=purple]Repelled Liberations:[/color] [color=RED]2[/color]
 [/b]

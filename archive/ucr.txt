@@ -1,14 +1,15 @@
 [b][color=red][u].:\|/WELCOME TO THE UCR\|/:.[/u][/b][/color]
 
 [b][Color=red][U]Provisional Committee[/u]:[/color]
- Overseer: [nation]Communal Earth[/nation]
+ Delegate: [nation]Communal Earth[/nation]
 [color=red] Regional Adviser: [nation]Kazirstan[/nation][/color]
-Regional Adviser: open
+Regional Adviser: [nation]Red armed states[/nation]
 [color=red] Regional Adviser: open[/color]
 Regional Adviser: open
 
 
-News: Provisional government open for people that want to help rebuild and advise the region. Contact Communal Earth.
+News: A new provisional government has been created for people that want to help rebuild and advise the region, authoring new regional documents of government policy and ideas collectively as a group. The committee works together for the future of UCR, become the change today!
+
 [/b]
 
 
@@ -17,3 +18,6 @@ News: Provisional government open for people that want to help rebuild and advis
 [url=https://www.dropbox.com/s/ttl4as48wicjiav/UCR.jpg][color=red]Map[/color][/url]  |   [url=http://www.nationstates.net/nation=communal_earth/detail=factbook/id=248915][color=black]Citizenship[/color][/url]
 
 [color=red][u]DEFCON Level[/b][/u][/color]: [color=black]DEFCON 3 [/color]
+
+[color=red]*Borders are closed until further notice. All immigration is temporarily suspended.*[/color]
+

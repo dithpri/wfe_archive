@@ -5,12 +5,10 @@
 [B][color=grey]Regional Government:[/color][/B]
 
 [i]Speaker[/i] &#150; 
-[i]President[/i] &#150; 
-[i]M. Domestic Affairs[/i] &#150; 
-[i]M. Foreign Affairs[/i] &#150; 
-[i]M. Immigration[/i] &#150; 
-[i]M. Defense[/i] &#150;  
-
+[i]President[/i] &#150;
+[i]C. Member[/i] &#150;
+[i]C. Member[/i] &#150; 
+  
 [B]Next Elections Date:[/B] [i]May 17-21[/i] 
 [hr]
 [color=grey]TPF is a democratic region with monthly elections. We favor political freedoms and human + civil rights. We oppose the ideals of fascism, intolerance, and hate. [/color]
