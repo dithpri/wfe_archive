@@ -11,6 +11,11 @@ War equation:
 Defense forces + Economy + Arms Industry + Influence + Population + Manufacturing Sector=Total score
 
 Rules:
-Each person may only fight one nation in the war
-To destroy a nation, you must beat them more then they beat you in 10 days
-Allies of other people are aloud
+Each person may only fight one nation in the war.
+To destroy a nation, you must beat them more then they beat you in 10 days.
+Alliances are aloud but they must be of nations by other people. 
+Colonies may be established by nations under others.
+You are only aloud 2 nations per person.
+
+Known Alliances in the region:
+NOLA: United Heimat, Reeslavakia, and Hell2014

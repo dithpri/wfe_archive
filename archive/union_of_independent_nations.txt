@@ -15,9 +15,7 @@
 [nation]Ordorinia[/nation]
 [nation]Mukhtadesh[/nation]
 [nation]Somstratzka[/nation]
-[nation]Ahrana[/nation]
 [nation]San Navazques[/nation]
-[nation]Zantania[/nation]
 
 [b]Allied Nations[/b]
 [region]Estinian Federation[/region]

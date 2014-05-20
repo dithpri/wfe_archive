@@ -1,13 +1,16 @@
-[b]Regional Government[/b]
-Prime Minister: [nation]Qubec[/nation]
-Minister of Defense: [I]TBA[/I]
-Minister of Affairs: [I]TBA[/I]
-Minister of Communications: [I]TBA[/I]
-Minister of Trade: [I]TBA[/I]
-Ambassador: [I]TBA[/I]
+Welcome To Nations United.
+_________________________________________________________________________________________________________________________________________________
+[b]GOVERNMENT[/b]
+President:
+Vice President:
+Secretary of Defense:
+_________________________________________________________________________________________________________________________________________________
 
-[b]Region Security[/b]
-DEFCON: [color=green]5[/color]
-THREAT LEVEL: [color=green]Low[/color]
-BORDERS: [color=green]Open[/color]
-[b]Founded on 3/1/2014[/b]
+[b]REGIONAL SECURITY[/b]
+DEFCON: Currently at [color=green]5[/color]
+Border Status: OPEN
+Threat Level: [color=green]Low[/color]
+_________________________________________________________________________________________________________________________________________________
+
+[b]RP OF THE WEEK[/b]
+[i]none[/i]

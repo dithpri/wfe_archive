@@ -4,7 +4,7 @@
  Delegate: [nation]Communal Earth[/nation]
 [color=red] Regional Adviser: [nation]Kazirstan[/nation][/color]
 Regional Adviser: [nation]Red armed states[/nation]
-[color=red] Regional Adviser: open[/color]
+[color=red] Regional Adviser: [nation]Anderhoven[/nation][/color]
 Regional Adviser: open
 
 

@@ -15,5 +15,4 @@ Secretary of defense: [nation=short]Liberty Christians[/nation]
 Secretary of state: [nation=short]Gosford[/nation]
 Map maker: [nation=short]Christian Guyana-Suriname[/nation].
 
-Bible verse: Matthew 28:18: And Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth.
-
+Bible verse: Galatians 6:9: And let us not be weary in well doing: for in due season we shall reap, if we faint not.

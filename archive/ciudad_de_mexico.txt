@@ -1,10 +1,2 @@
-BIENVENIDOS a todos los que vienen a la ciudad de M&eacute;xico
-
-Ciudad de M&eacute;xico es el Distrito Federal, la capital de los Estados Unidos Mexicanos y es la sede de los poderes federales de la Rep&uacute;blica Mexicana, lo que constituye una de sus 32 entidades federativas.
-
-&Eacute;l Las tropas estadounidenses y de la Comunidad de la Regi&oacute;n han estado ocupados con la intenci&oacute;n para proteger la capital mexicana contra la dictadura de ellos capos de ellos. Aliado con ellos es Estados Unidos de Am&eacute;rica [region=United States of America].
-
-Regiones Asociados son: [region=Guatemala], [region=Belize], [region=Costa Rica] y [region=Jamaica].
-Aliados incluye Regiones: [region=Baja California].
-
-an [region=Ancient Lands] and [region=Latin America] region
+[color=800000][b]WELCOME[/color][list][color=navy]Ciudad de Mexico[/b][/color][list][color=006600]another [region=Ancient Lands] region
+in association with [region=Great Britain and Northern Ireland] and [region=United States of America][/color][/list][/list]

@@ -1,6 +1,6 @@
 [b]Defense Status:[/b] [color=blue]DEFSTAT 4[/color]
 
-[b]Latest News:[/b] [nation=short]Quanlinan[/nation] war ends anti-climatically.
+[b]Latest News:[/b] [nation=short]Ruapekapeka[/nation]n revolution progresses successfully.
 
 [hr]
 
@@ -15,7 +15,6 @@
 
 [nation]Krajstali[/nation]
 [nation]Isaciaria[/nation]
-[nation]Drogustan[/nation]
 
 [hr]
 
@@ -25,6 +24,7 @@
 [nation]Biel-Tan[/nation]
 [nation]Belakras[/nation]
 [nation]Bolugaria[/nation]
+[nation]Drogustan[/nation]
 [nation]Ruapekapeka[/nation]
 
 [hr]

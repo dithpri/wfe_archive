@@ -1,9 +1,8 @@
 Welcome to The Realm of Ethopolis!  Here, the Seven Kingdoms of Ethopolis are held, in order from largest to smallest:
-*[nation=long]Martongo[/nation], ruled by King Khamisi
+[nation=long]Martongo[/nation], ruled by King Khamisi
 [nation=long]Surzamor[/nation], ruled by King Mongkut
 [nation=long]Hectangia[/nation], ruled by King Ambrose
-*[nation=long]Liveston[/nation], ruled by King Radcliffe, Founder of [region]Reborn Genua[/region]
+[nation=long]Liveston[/nation], ruled by King Radcliffe, Founder of [region]Reborn Genua[/region]
 [nation=long]Ostapose[/nation], ruled by King Hanne, Imperial Chancellor of [region]Isaki[/region]
 [nation=long]Niadland[/nation], ruled by King Orpheus, Imperial Chancellor of [region]Alicorn Grove[/region]
 [nation=long]Dakenstand[/nation], ruled by King Nickolaus, Imperial Chancellor of [region]Sicheren Zufluchtsort[/region]
-*Currently deployed on missions in [region]Genuan Rebirth[/region] and [region]Reborn Genua[/region] to liberate the nations of the former from the rule of the founder.

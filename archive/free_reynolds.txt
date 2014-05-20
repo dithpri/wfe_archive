@@ -16,6 +16,7 @@ Also joined the battle:
 [nation=short]United Nationals[/nation]
 [nation=short]Ever-Wandering Souls[/nation]
 [nation=short]house_ikdard[/nation]
+[nation=short]Human evolution[/nation]
 
 [hr]
 [color=purple]Natives Expelled:[/color] 7
