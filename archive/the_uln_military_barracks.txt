@@ -18,7 +18,7 @@ This is where ULN military puppets reside.
 
 [u][color=orange]Intermediate and low Ranks[/color][/u]
 
-[b]Captains[/b]: Open
+[b]Captains[/b]: [nation]Liberorum[/nation]
 [b]Lieutenants[/b]: Open
 [b]Sergeants[/b]: Open
 [b]Privates[/b]: Open

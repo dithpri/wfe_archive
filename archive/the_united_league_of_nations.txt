@@ -7,13 +7,13 @@ Army Commander: [nation=short]Plotus[/nation] - [color=gold]PCP[/color]
 Minister of League Affairs: OPEN
 Minister of Justice: [nation=short]Verloren[/nation] - IND
 Chief of Police: [nation=short]Mantura Craminialand[/nation] - [color=red]LSP[/color]
-Dungeon Master: [nation=short]Bearon[/nation] - [color=green]IFP[/color]
+Dungeon Master: [nation=short]Bearon[/nation] - IND
 Chairman of the Recruitment Committee: OPEN
 Chief Justice: [nation=short]Ruclax[/nation] - [color=orange]PMP[/color]
 
-Nominations for Delegate/Vice-Delegate is open! Election starts May 19!
+The election for Delegate/Vice-Delegate has started!
 
-[color=red]League Socialist Party (2)[/color] [color=gold]Progressive Centralist Party (1)[/color] [color=green]International Federalist Party (2)[/color] [color=orange]Progressive Moderate Party (2)[/color] [color=blue]Conservative Party (0)[/color]
+[color=red]League Socialist Party (2)[/color] [color=gold]Progressive Centralist Party (1)[/color] [color=green]International Federalist Party (1)[/color] [color=orange]Progressive Moderate Party (2)[/color] [color=blue]Conservative Party (0)[/color]
 
 Flag Designer: [nation=short]Pridton[/nation]
 

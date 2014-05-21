@@ -21,7 +21,7 @@ Senate:
 3|[nation=short]Basseemia[/nation](T1)
 
 Justice: 
-[nation=short]Preritas[/nation]
+[nation=short]Lewayiin[/nation]
 
 Elder: 
 [nation=short]Kelvaros Prime[/nation][/list][hr]

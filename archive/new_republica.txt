@@ -3,13 +3,13 @@ Please endorse your WA Delegate![/color]
 [color=blue]
 President: [nation]the anean tribes[/nation]
 Vice President: [nation]Cafla[/nation]
-SecState: TBA
+SecState: [nation]Flattnerk[/nation]
 SecDef: [nation]Gasyuu[/nation]
 
 Senate:
 [nation]the united remnants of america[/nation]
-[nation]Flattnerk[/nation]
 [nation]xaqaha[/nation]
+TBA
 
 High Court
 [nation]Ius[/nation]

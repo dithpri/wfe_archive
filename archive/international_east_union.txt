@@ -1,4 +1,4 @@
-[color=gold]Happy Malcolm X Day![/color]
+[color=gold]Happy European Maritime Day![/color]
 
 [b]Alert Level- [i][color=Blue]Blue[/color][/b][/i][color=green]
 
@@ -8,7 +8,7 @@
 
 [color=#088A08]King: [nation=short]People Who Stand United[/nation]
 
-Speaker: 
+Speaker: [nation=short]Munray[/nation]
 
 Justice Officer: [nation=short]Shikah[/nation]
 

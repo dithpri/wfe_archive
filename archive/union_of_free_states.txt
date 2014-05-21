@@ -6,9 +6,9 @@ Union Secretary:[nation=short]The Kingdom of Alleble[/nation]
 High General [nation=short]Alpacanzia[/nation]
 Secretary of Foreign Affairs[nation=short]Narnifrey[/nation]
 Secretary of Internal Affairs:[nation=short]Light Music Club[/nation]
-Secretary of Legal Affairs:
+Secretary of Legal Affairs:[natio=short]Borduriaa[/nation][hr]
 [B]UFS JUSTICE TRIBUNAL[/B]
 Chief Justice:[nation=short]Borduriaa[/nation]
-Minor Judge #1:  Minor Judge #2: [nation=short]Narnifrey[/nation]
-[b]COLONIES[/b]: 
-[region]Orion[/region],[region]The Union[/region], [region]The Pokemon league[/region]
+Minor Judge #1:  Minor Judge #2:[hr]
+[b]MILITARY HQR[/b]:[region]The Union[/region]
+[b]COLONIES[/b]: [region]The Pokemon league[/region]
