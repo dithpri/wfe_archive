@@ -16,4 +16,4 @@ Laws:[url=http://www.nationstates.net/nation=arcadian_stronghold/detail=factbook
 [color=yellow]Yellow[/color]:Borders are closed.
 [color=orange]Orange[/color]:No communications on RMB.
 [color=red]Red[/color]:Mobilize militia, suspected nations are kicked. 
-[b]Current threat level[/b]:[color=green]Green[/color].
+[b]Current threat level[/b]:[color=Blue]Blue[/color].

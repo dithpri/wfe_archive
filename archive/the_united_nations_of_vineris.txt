@@ -1,4 +1,4 @@
-DEFCON: 5
+DEFCON: 5 - Diplomatic Tension
 
 United Council:
 
@@ -21,4 +21,4 @@ Right Advisor: [nation]Antavio[/nation]
 WA Delegate: [nation]Wulverne[/nation]
 
 If you wish to roleplay about the region you can do so here: http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=296062
-Link to all nations analysis for comparison: http://goo.gl/TJNJ47
+Link to all nations analysis for comparison: http://goo.gl/92xsU9

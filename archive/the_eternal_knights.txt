@@ -6,9 +6,8 @@ Regions Destroyed: 38[hr]| [url=http://www.nationstates.net/page=dispatch/id=245
 [b][u]The Eternal Knights[/u][/b]
 King: [nation=short]Nephmir[/nation]
 Bishop: [nation=short]Unified Protectors[/nation]
-Knights: [nation=short]NoblePhnx[/nation], [nation=short]Festavo[/nation]
+Lord: [nation=short]NoblePhnx[/nation]
+Knights: [nation=short]Nepthalia[/nation], [nation=short]Festavo[/nation]
 
 [b][u]Current Orders[/u][/b] [url=http://www.nationstates.net/page=dispatch/id=218480][?][/url]
-
-[b][color=red]&raquo;[/color] Move to [region]St Abbaddon[/region] and endorse [nation=short]The COF Ambassador[/nation].
-[color=red]&raquo;[/color] The Password is &amp;quot;Moose.4.all&amp;quot;.[/b]
+None.

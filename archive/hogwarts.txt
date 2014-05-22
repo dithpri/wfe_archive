@@ -1,20 +1,21 @@
 In the name of Lord Wolfiemort, the following wolves flew:
 
-Lone Wolves United
+[b][u][region]Lone Wolves United[/region][/u]
 [nation=short]Tabaqui[/nation]
 
-Brotherhood of Malice
+[u][region]The Brotherhood of Malice[/region][/u]
 [nation=short]Venico[/nation]
 [nation=short]Vaculatestar64[/nation]
 
-Kirkhall
+[u][region]Kirkhall[/region][/u]
 [nation=short]Christopher Bishop[/nation]
 
-Unknown
-[nation=short]Atlanticana[/nation]
+[u][region]Unknown[/region][/u]
+[nation=short]Atlanticana[/nation][/b]
 
 
-Thank you ;)
+Thanks also to our supporters from [b][region]The Imperial Sovereign Realms Army[/region][/b], [b][region]The New Galactic Empire[/region][/b], and [b][region]The United Imperial Armed Forces[/region][/b]!
 
 
-[b][color=red]TITO Knights Dispelled: 1[/color][/b]
+[b][color=red]TITO Knights Dispelled: 1[/color]
+[color=red]Friendly Fire: 1[/color][/b]

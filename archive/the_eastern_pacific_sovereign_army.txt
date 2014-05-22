@@ -1,10 +1,10 @@
 [b]Field Marshal:[/b] [nation]Bachtendekuppen[/nation]
 
-[b]General:[/b] Lieutenants serving as a joint Interim General until further notice.
+[b]General:[/b] [nation=short]Xoriet[/nation]
 
 [b]Colonel:[/b] [nation=short]A Mean Old Man[/nation]
 
-[b]Lieutenants:[/b] [nation=short]Xoriet[/nation] and [nation=short]Tano[/nation]
+[b]Lieutenants:[/b] [nation=short]Tano[/nation]
 
 [b]Newest Member:[/b] [nation=short]The Fourth Imperium[/nation]
 
