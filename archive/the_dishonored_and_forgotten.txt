@@ -1,6 +1,6 @@
 Prime Minister: [nation]Apercoriabajaia[/nation]
 Vice President: [nation]Tibet Septim[/nation]
-Minister of Defence: [nation]Dead Rome[/nation]
+Minister of Defence:
 Minister of Justice:
 Minister of Safety:
 Minister of Trade:

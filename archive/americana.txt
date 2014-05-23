@@ -1,7 +1,8 @@
-[b]This region fell to the forces of [region]The Eternal Knights[/region]!
+spotlight on:
+diemocednall
 
-In the midst of the night, The Eternal Knights infiltrated and attacked, leaving no survivors in the great purge:
-[nation=short]Noblephnx[/nation]
-[nation=short]Nepthalia[/nation]
-[nation=short]The Black Angel of Death[/nation]
-[/b]
+facts:
+-its the first country ever colonized here.
+-its known as the 2 most neutral in Americana.
+next time:
+Schwartz

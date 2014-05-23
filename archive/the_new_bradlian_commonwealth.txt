@@ -4,5 +4,5 @@ Commonwealths:
 [nation]liceentiaa[/nation]
 [nation]demarcio[/nation]
 [nation]fiducia[/nation]
-Enemies of the Commonwealth:
+Allies of the Commonwealth:
 [nation]Savaria[/nation]

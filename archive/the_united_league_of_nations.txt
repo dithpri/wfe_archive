@@ -3,7 +3,7 @@
 Vice-Delegate: [nation=short]Acronis[/nation] - IND
 Speaker of the Assembly: [nation=short]Basra[/nation] - [color=red]LSP[/color]
 Minister of Interregional Relations: [nation=short]Ghondra[/nation] - [color=orange]PMP[/color]
-Army Commander: [nation=short]Plotus[/nation] - [color=gold]PCP[/color]
+Ministry of Defense: [nation=short]Plotus[/nation] - [color=gold]PCP[/color]
 Minister of League Affairs: OPEN
 Minister of Justice: [nation=short]Verloren[/nation] - IND
 Chief of Police: [nation=short]Mantura Craminialand[/nation] - [color=red]LSP[/color]
