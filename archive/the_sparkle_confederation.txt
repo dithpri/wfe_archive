@@ -2,10 +2,9 @@ This confederation is an assembly for supporters of Twilight Sparkle, her teachi
 
 Steam group : [url=http://steamcommunity.com/groups/Twilight_ozveri_toplum]Twilight Dedication Society[/url]
 
-Each department needs to be filled by a nation.
 
 Prime Minister : [nation]Equestrian Mexico[/nation]
-Foreign Minister : 
+Foreign Minister : [nation]Novian States[/nation]
 Interior Department : 
 Ministry of Defense : [nation]Fractured Minds[/nation]
 Ministry of Education : 

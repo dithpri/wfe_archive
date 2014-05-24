@@ -7,18 +7,18 @@ This is where ULN military puppets reside.
 
 [b] Minister of Intelligence[/b]: [nation]Bearon[/nation]/Caerek
 
-[b]Commanding General[/b]: [nation]Plotus[/nation]/ploy
+[b] Minister of Defence[/b]:[nation]Plotus[/nation]/ploy
 
-[b]Chiefs of Staff/Field Marshals[/b]:[nation]Ghondra[/nation]/Lerosa
-   [nation]Deneclia[/nation]/Deneclian Armed Forces
-   
+[b]Commanding General[/b]: [nation]Ghondra[/nation]/Lerosa
 
-[b]Colonels[/b]: [nation]Basra[/nation]/Aotonnyaha
-                 [nation]The Robust land[/nation]/The Motto
+[b]Chiefs of Staff/Field Marshals[/b]:[nation]Basra[/nation]/Aotonnyaha
+     [nation]The Robust Land[/nation]/The Motto  
+
+[b]Colonels[/b]: [nation]Liberorum[/nation]
 
 [u][color=orange]Intermediate and low Ranks[/color][/u]
 
-[b]Captains[/b]: [nation]Liberorum[/nation]
+[b]Captains[/b]: Open
 [b]Lieutenants[/b]: Open
 [b]Sergeants[/b]: Open
 [b]Privates[/b]: Open

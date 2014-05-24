@@ -1,6 +1,11 @@
-[b]Defense Status:[/b] [color=blue]DEFSTAT 4[/color]
+[b][url=http://www.marxists.org/archive/marx/works/download/pdf/Manifesto.pdf]CLICK FOR FREE COOKIES![/url][/b]
 
-[b]Latest News:[/b] Drunk man rides bear into Zimograd; proclaimed a hero of the people.
+[b]Defense Status:[/b] [color=green]DEFSTAT 5[/color]
+
+[b]Latest News[/b]
+
+[nation=short]Zeledia[/nation] changes national flag.
+[nation=short]Novozlatniya[/nation] and [nation=short]Azenia-Kordovoski[/nation] join the IUSR.
 
 [hr]
 
@@ -26,12 +31,5 @@
 [nation]Bolugaria[/nation]
 [nation]Drogustan[/nation]
 [nation]Ruapekapeka[/nation]
-
-[hr]
-
-[b]Educational Links[/b]
-
-[b][url=http://www.marxists.org/archive/marx/works/download/pdf/Manifesto.pdf]The Communist Manifesto[/url][/b]
-[url=http://www.marxists.org/archive/lenin/works/index.htm]Works of Vladimir Lenin[/url]
-[url=http://www.marxists.org/reference/archive/stalin/index.htm]Works of Josef Stalin[/url]
-[url=http://www.marxists.org/reference/archive/stalin/works/1924/11_19.htm]Trotskyism or Leninism?[/url]
+[nation]Novozlatniya[/nation]
+[nation]Azenia-Kordovoski[/nation]

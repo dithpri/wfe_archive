@@ -1,4 +1,4 @@
-[color=navy][b]Japvia[/color][hr][nation=short]Embassy Policy[/nation]:[/b][list]
+[color=navy][b]Japvia[hr][nation=short]Embassy Policy[/nation]:[/b][list]
 [nation=short]Note[/nation]:[hr][b]Oracle Group of Regions[/b]
 
 This group is trying to set to fit nsEmbassy Oracle game, with the goal of having only two embassies per region, the region ahead and the region behind. 
@@ -14,7 +14,4 @@ See [region=United States of America]
 
 The only embassy this region accepts is with: [region=The Mars]
 
-[b]Currently:[/b]
-From [b]Japvia[/b] to [region=Palmerston]: 1111 degrees of separation
-From [region=The Capital] to Palmerston: 4 degrees
-[b]The Capital[/b] is the last Oracle region.[/list]
+Currently the Region of [region=Japvia] has[/color][color=red] 1129 [/color][color=navy]Degrees of Separation from the Region of [region=Palmerston]. [region=The Capital] is the final Oracle region.[/list][/color]

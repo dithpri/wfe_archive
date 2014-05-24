@@ -5,10 +5,8 @@
 
 
 [color=red]Emperor:[nation]Empire of Atmora[/nation][/color]
-[color=blue]Prime Minster:[nation]N/A[/nation]
+[color=blue]Prime Minster:[nation]Arcadian Commonwealth[/nation]
 [/color]
-
-Our Regional currency is The Aquile But you can use your Currency if you want.
 
 [color=aqua]Minster of Foreign affairs:[nation]Vylnx[/nation][/color]
 [color=lime]Minster of Defense:[nation]Etoren[/nation][/color]

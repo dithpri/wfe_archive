@@ -13,11 +13,11 @@ Our RMB is regularly active, and we regularly have elections for government posi
 [nation=short]Lyrasona[/nation]
 
 WA Delegate: 
-[nation=short]The Ancient World[/nation] (T1 - Endo. Cap: 10)
+[nation=short]The Ancient World[/nation] (T1 - Endo. Cap: 11)
 
 Senate: 
 1|[nation=short]Hayabusa[/nation](T3)
-2|[nation=short]Kobiolisk[/nation](T1)
+2|[nation=short]Jantanu[/nation](T1)
 3|[nation=short]Basseemia[/nation](T1)
 
 Justice: 
