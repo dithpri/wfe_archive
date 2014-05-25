@@ -16,8 +16,9 @@
 [nation]Mukhtadesh[/nation]
 [nation]Somstratzka[/nation]
 [nation]San Navazques[/nation]
+[nation]Davincia[/nation]
 
 [b]Allied Nations[/b]
 [region]Estinian Federation[/region]
 [hr]
-[url=http://s28.postimg.org/aavgjaiq3/Map.png]World Map[/url] (Last Update: 18/5/14)
+[url=http://s28.postimg.org/aavgjaiq3/Map.png]World Map[/url] (Last Update: 23/5/14)

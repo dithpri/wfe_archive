@@ -2,7 +2,8 @@ This region serves as storage for my puppet nations.
 
 [b][u]In Use[/u][/b]
 
-[Spot Reserved]
+[nation]Aurasia[/nation]
+[b]Role-Plays:[/b] Astewyn [Past-Tech]
 
 [b][u]Not In Use[/u][/b]
 
@@ -11,13 +12,13 @@ This region serves as storage for my puppet nations.
 
 [b][u]Abandoned[/u][/b]
 
-The Monolithian Syndicate
+[b][i]The Monolithian Syndicate[/i][/b]
 [b]Role-Plays:[/b] Arretaenia [Modern], Terestus [Post-Modern]
 [b]Reason of Abandonment:[/b] No longer relevant.
 [b]Time of Abandonment:[/b] March 8th, 2014 
 [b]Population at Abandonment:[/b] 2.039 Billion
 
-The Aurasian Collective
+[b][i]The Aurasian Collective[/i][/b]
 [b]Role-Plays:[/b] Alynthian Galaxy [Future], Terestus [Post-Modern]
 [b]Reason of Abandonment:[/b] No longer relevant.
 [b]Time of Abandonment:[/b] March 8th, 2014

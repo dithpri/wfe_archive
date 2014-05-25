@@ -9,4 +9,4 @@ Speaker of the House:[nation=The Confederation of American Neo-Nazis]
 Secretary of State:[nation=Ostratizanastan]
 Secretary of Immigration:[nation=Rapture Nova]
 Secretary of Domestic Affairs:[nation=Alterac Valley]
-Congress:
+Congress:[nation=Alterac Valley]

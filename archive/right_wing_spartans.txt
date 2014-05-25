@@ -4,20 +4,27 @@ Our glorious region welcomes all non-socialists and non-communists.
 
  [B][u]Directors[/u][/B]
 
-Overlord:[nation]Weishatopia[/nation]
+Treasury: [nation]Puritas[/nation]
 
-Swagmaster:[nation]Devilishly Delirious Dingle-balls[/nation]
+Justice: [nation]Weisreich[/nation]
 
-Defense:[nation]Weishatopia[/nation]
+Interior: [nation]Chickennuggetia[/nation]
 
-Mediation:[nation]The Land of the lightning kadoodles[/nation]
+Diplomacy: [nation]Nelison[/nation]
 
-Economic:[nation]Puritas[/nation]
+Commerce: [nation]Puritas[/nation]
 
-Foreign:[nation]Hoodem[/nation]
+Labor: [nation]Weisreich[/nation]
 
-Spiritual:[nation]He Who Walks Behind The Rows[/nation]
+Defense: [nation]Dont Look[/nation]
 
+Human Services: [nation]Awesome Adventurous Anteaters[/nation]
+
+Energy: [nation]Hoodem[/nation]
+
+Education: [nation]Chickennuggetia[/nation]
+
+War: [nation]Broken Fire Eja[/nation]
 
 [u][B]Quick Links[/B][/u]
 
