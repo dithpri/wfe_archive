@@ -8,7 +8,7 @@ Minister of League Affairs: OPEN
 Minister of Justice: [nation=short]Verloren[/nation] - IND
 Chief of Police: [nation=short]Mantura Craminialand[/nation] - [color=red]LSP[/color]
 Dungeon Master: [nation=short]Bearon[/nation] - IND
-Chairman of the Recruitment Committee: OPEN
+Chairman of the Recruitment Committee: [nation=short]The United England[/nation] - IND
 Chief Justice: [nation=short]Ruclax[/nation] - [color=orange]PMP[/color]
 
 The election for Delegate/Vice-Delegate has started!

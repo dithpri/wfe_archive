@@ -9,3 +9,15 @@ Resulotion:
 [i]//The alliance will be the only ruling international government in Europasia[/i]
 [B]STATUS[/B]: TBA
 [B]VOTES[/B]: TBA
+
+[B]Political parties of [region]The Europasian Alliance[/region]:[/B]
+[list]
+[*]The Communist party
+[list]
+[*][nation]The Europasian Union[/nation]
+[/list]
+[*]Killer Revolution Party
+[list]
+[*][nation]Donec Homicidum[/nation]
+[/list]
+[/list]

@@ -11,7 +11,6 @@ High Commander: [nation=short]Wyethalania[/nation]
 [hr]
 [b]The Cabinet:[/b]
 Minister of the Interior: [nation=short]Noorderkwartier[/nation]
-Minister of Recruitment: TBA
 Minister of Finance: [nation=short]Torvalyn[/nation]
 Minister of Foreign Affairs: [nation=short]Merovingea[/nation]
 Minister of Culture: [nation=short]Ethopolis[/nation]
