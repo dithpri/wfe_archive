@@ -1,5 +1,7 @@
 DEFCON: 5 - Diplomatic Tension
 
+Border Policy: Closed to Unknown nations and Puppet nations.
+
 United Council:
 
 Founder/United Council co-leader: [nation]True Christopia[/nation]

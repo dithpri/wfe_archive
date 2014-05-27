@@ -7,7 +7,7 @@ King: [nation]The Great European Commonwealth[/nation]
 [color=red]Deputy Prime Minister:[/color] Vacant*
 [color=red]Minister of Defence:[/color] [nation]New fox land[/nation]
 [color=green]Minister of Foreign Affairs:[/color] [nation]The Kingdom of Charleston[/nation]
-[color=green]Minister of Commonwealth Affairs:[/color] [nation]Holy France[/nation]
+[color=green]Minister of Commonwealth Affairs:[/color] Vacant*
 [color=orange]Chief Justice:[/color][nation]Peoples Templars[/nation]
 [color=orange] Judge:[/color] [nation]Theoniatium[/nation]
 [color=grey] Special forces command:[/color] [nation]Coopanonva[/nation]

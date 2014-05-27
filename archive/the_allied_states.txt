@@ -4,10 +4,12 @@
 
 [color=blue][b][u]Administration[/u][/b][/color]
 
-[b]Acting President:[/b] [nation=short]Britarvia[/nation] 
+[b]President:[/b] [nation=short]CDland[/nation]
+[b]VP:[/b] [nation=short]Britarvia[/nation] 
 [b]Secretary of State:[/b] [nation=short]CPSU[/nation]
 
-[b]Telegram [nation=short]Britarvia[/nation] for a spot on the Cabinet.[/b]
+[b]The President humbly requests the endorsement of all WA nations.
+Telegram [nation=short]CDland[/nation] for a spot on the Cabinet.[/b]
 
 [color=red][b][u]Congress[/u][/b][/color]
 

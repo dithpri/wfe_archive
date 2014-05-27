@@ -1,10 +1,10 @@
-This region is currently undergoing a reboot. If you would like to join the Alliance of Grand Powers, please move in at your earliest convenience.
+The Alliance of Grand Powers has returned! Strengthened and refined by the test of time, and armed with the knowledge of a thousand generations, this region will rise to prominence once again.
 
 Prime Minister: [nation=Alexiandran AoGP Holdings]
 Deputy Prime Minister: [nation=Harrisopia AoGP Holdings]
 Defence Minister: TBA
 Treasurer: TBA
 Foreign Affairs Minister: TBA
-Home Affairs Minister: TBA
+Home Affairs Minister: [nation=Bavaria-Saxony]
 Trade Minister: TBA
 Recruitment Minister: TBA

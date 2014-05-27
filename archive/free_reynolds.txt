@@ -1,8 +1,8 @@
 [b][i][color=purple]This region has been conquered by [url=/region=sicarius]Sicarius![/url][/color][/i]
 
-[color=990000]Join us[/color] [url=/region=sicarius]here[/url]!
+[color=990000]Join us[/color] [url=/region=sicarius]here[/url]! 
 [hr]
-The following assassins entered battle: 
+The following assassins entered battle:
 
 [nation=short]The Sapientia[/nation]
 [nation=short]The Shadow Assassin[/nation]
@@ -26,3 +26,5 @@ Also joined the battle:
 [color=purple]Shamed Defenders:[/color] 16
 [color=purple]Repelled Liberations:[/color] [color=RED]2[/color]
 [/b]
+[hr]
+[u]Optional Order:[/u] Vote [i]against[/i] the Security Council proposal, &amp;#39;Liberate Hogwarts&amp;#39;.
