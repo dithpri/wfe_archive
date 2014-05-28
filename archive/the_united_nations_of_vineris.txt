@@ -1,6 +1,6 @@
 DEFCON: 5 - Diplomatic Tension
 
-Border Policy: Closed to Unknown nations and Puppet nations.
+Border Policy: All entrants must be approved by the united council.
 
 United Council:
 

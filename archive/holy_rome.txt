@@ -8,6 +8,6 @@ DEFCON: [color=blue]5[/color]
 [B]Counciler of the Legislature[/B]:Vacant 
 [B]Secretariat[/B]: [nation]Confused Irishmen[/nation]; [nation]Firecam[/nation]
 [B]Headquartering State of the  SHIELD Initiative[/B]: [nation]Great Robica[/nation]
-
-
+   [color=orange] If there is any suspicious activity please report it immediately to [nation]The shield alliance[/nation] via telegram 
+[/color]
 [B]Download [url=http://forum.nationstates.net/viewtopic.php?f=15&amp;amp;t=269464]Nationstates++[/url] today! This tiny, light-weight addon allows you to organize your puppet states easily and improves the interface. IOS coming soon![/B]

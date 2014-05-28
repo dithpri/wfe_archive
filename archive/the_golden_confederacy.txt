@@ -7,7 +7,7 @@ Laws:[url=http://www.nationstates.net/nation=arcadian_stronghold/detail=factbook
 [hr]
 [b][u]Council members:[/b][/u]
 [b]Administration of Defense:[/b][nation=short]Ilieum[/nation]
-[b]Administration of Logistics:[/b]
+[b]Administration of Logistics:[/b][nation=short]Freedomsrus[/nation]
 [b]Administration of Foreign Affairs:[/b][nation=short]Copper confederacy[/nation]
 [hr]
 [b]Threat Levels[/b]

@@ -2,10 +2,7 @@ The Empire of the Galactic Republic is a peaceful region, and tries not to step 
 Anyone wishing to join the region, please contact the Chancellor, or the Assistant Chancellor.
 ________________________________________________________________________________________________________________________________
 Chancellor: [nation]Review[/nation]
-Vice
-Chancellor: [nation]Lindelt[/nation]
-Defense
-Minister: [nation]Maytirce[/nation]
-Foreign
-Affairs
-Minister: [nation]WAAAAGGHH[/nation]
+Vice Chancellor: [nation]Maytirce[/nation]
+Defense Minister: [nation]WAAAAGGHH[/nation]
+Foreign Affairs
+Minister: [nation]Law Is Law[/nation]

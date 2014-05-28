@@ -8,15 +8,14 @@ We have free speech. Participate in our polls.  We are a region that listens to 
 [hr]
 
 [b][color=red]We have a Military!  Please participate in our Raids!!!![/b]
-[b]Military Leader:[/b][nation=short]Jmisrael1[/nation]
+[b]Military Leader:[/b]
 
 [b]Knights:[/b]
 [nation=short]Zangral[/nation]
-[nation=short]Jmisrael1[/nation][/color]
 [nation=short]terra Atlantica[/nation]
 [nation=short]The Supreme Leader Aladeen[/nation]
 [nation=short]Up Yonder[/nation]
-[nation=short]Rydiau[/nation]
+[nation=short]Rydiau[/nation][/color]
 
 
 [hr]
@@ -25,7 +24,7 @@ We have free speech. Participate in our polls.  We are a region that listens to 
 [b]WA Delegate:[/b][nation=short]Zangral[/nation]
 [b]Minister of Defense:[/b][nation=short]The empire of tech[/nation]
 [b]Recruiter:[/b][nation=short]Starclimber[/nation]
-[b]Military Leader:[/b][nation=short]Jmisrael1[/nation]
+[b]Military Leader:[/b]
 
 [hr]
 

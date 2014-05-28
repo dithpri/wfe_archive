@@ -12,9 +12,9 @@ Minister of Interior: [nation=short+noflag]SucWAti[/nation]
 President of the Legislature: [nation=short+noflag]LadyFasterKittens[/nation]
 
 Advocate/Arbiter General: [nation=short+noflag]Northern Borland[/nation]
-Supreme Court Chief Justice: [nation=short+noflag]Roxie Hart[/nation]
-Justice Member: [nation=short+noflag]Panageadom[/nation]
+Supreme Court Chief Justice: [nation=short+noflag]Panageadom[/nation]
 Justice Member: [nation=short+noflag]Repentant Jihadi[/nation]
-Alt. Justice Member: [nation=short+noflag]Capitalist Producers[/nation][/b]
+Justice Member: [nation=short+noflag]Capitalist Producers[/nation]
+Alt. Justice Member: [i]Vacant[/i][/b]
 
 [i]Please endorse our elected WA Delegate![/i]
