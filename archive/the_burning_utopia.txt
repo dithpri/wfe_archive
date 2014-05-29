@@ -1,6 +1,5 @@
 [color=#008080][b]This land was built by a high-tech civilisation. Over many years, the lands disintergrated into many islands. Help us rebuild this once forgotten and broken land![/b][/color]
 
--[b]Cultural Minister:[/b] [nation=short]Drakezia[/nation]
 -[b]Immigration Minister:[/b] [nation=short]Kyuji[/nation]
 -[b]Intelligence Minister:[/b] [nation=short]Harkback Union[/nation]
 

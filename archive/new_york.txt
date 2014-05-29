@@ -13,9 +13,9 @@ Defense Sec: [nation=short]Layarteb[/nation]
 Foreign Minister: [nation=short]Commander Samir[/nation]  [/color]
 
 [u][b][color=purple]Assembly:[/b][/color][color=orangered][/u]
+[nation=short]Commander Samir[/nation]
 [nation=short]The Continent of Wild Endeavor[/nation]
 [nation=short]Devil[/nation](F)
-[nation=short]XCOM North America[/nation]
 [/color]
 
 -------------

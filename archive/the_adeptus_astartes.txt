@@ -2,9 +2,10 @@
 
 This is the home for all of the Adeptus Astartes. 
 
-Current Threat Level:None
+Current Threat Level:Zeta
 
-Alpha-The Universe has fallen to the Chaos
-Bravo-The Orks are invading
-Charlie-The Population is threatened
-Delta-Be on Guard
+Alpha-The Universe has fallen. 
+Bravo-The Orks are invading. 
+Charlie-The Population is threatened. 
+Delta-Be on Guard.
+Zeta-No Threat

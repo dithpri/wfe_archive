@@ -18,11 +18,10 @@ Also joined the battle:
 [nation=short]house_ikdard[/nation]
 [nation=short]Human evolution[/nation]
 [nation=short]dharn[/nation]
-[nation=short]Jern[/nation]
 
 [hr]
 [color=purple]Natives Expelled:[/color] 7
-[color=purple]Humiliated Spies:[/color] 1
+[color=purple]Humiliated Spies:[/color] 2
 [color=purple]Shamed Defenders:[/color] 16
 [color=purple]Repelled Liberations:[/color] [color=RED]2[/color]
 [/b]

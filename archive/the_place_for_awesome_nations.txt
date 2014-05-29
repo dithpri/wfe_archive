@@ -1,14 +1,13 @@
-[color=green]No bad language[/color]
-
-[hr]
+[b]This region is password protected.[/b]
+[color=green][b]We have a green alert.  This region is password protected.[/b][/color]
 
 Please join this wonderful region.
-We have free speech. Participate in our polls.  We are a region that listens to the nations that reside in it!
+Participate in our polls.  We are a region that listens to the nations that reside in it!
 
 [hr]
 
 [b][color=red]We have a Military!  Please participate in our Raids!!!![/b]
-[b]Military Leader:[/b]
+[b]Military Leader:[/b][nation]Zangral[/nation]
 
 [b]Knights:[/b]
 [nation=short]Zangral[/nation]
@@ -24,7 +23,7 @@ We have free speech. Participate in our polls.  We are a region that listens to 
 [b]WA Delegate:[/b][nation=short]Zangral[/nation]
 [b]Minister of Defense:[/b][nation=short]The empire of tech[/nation]
 [b]Recruiter:[/b][nation=short]Starclimber[/nation]
-[b]Military Leader:[/b]
+[b]Military Leader:[/b][nation=short]Zangral[/nation]
 
 [hr]
 
@@ -34,4 +33,6 @@ We have free speech. Participate in our polls.  We are a region that listens to 
 
 [color=blue][b]Our reigon welcomes you!  We are glad to have you![/b][/color]
 
+[hr]
+Check this out! http://www.nationstates.net/page=challenge
 

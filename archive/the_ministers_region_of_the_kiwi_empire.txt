@@ -9,5 +9,5 @@ Minister of the Environment: [nation]Kinkerland[/nation] and [nation]the red hoo
 Minister of Defense: [nation]IMAHOBO[/nation]
 Minister of industry: [nation]Ferox et Fidem[/nation]
 Minister of education: [nation]Ms Starkel[/nation]
-Minister of Culture: vacant
+Minister of Culture: [nation]trade shire[/nation]
 Diplomat: [nation]greater tions talker[/nation]
