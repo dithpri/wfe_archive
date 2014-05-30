@@ -1,11 +1,9 @@
-Emperor:[Nation]Glory and Pride[/Nation]
-Supreme General:
-Head of War:
-Head of Foreign Affairs:
-Head of Internal Affairs:
-Elected Officials:
-Overseer of Administration:
+[Color=Red]Emperor:[Nation]Glory and Pride[/Nation][/color]
+[Color=Red]Supreme General:[/Color] 
+[Color=NavyBlue]Head of Foreign Affairs:[/Color]
+[Color=NavyBlue]Head of Internal Affairs:[/Color]
+[Color=Green]Elected Official:[/Color]
+[Color=Green]Overseer:[/Color]
 
-Were states that are governed by [Nation]Glory and Pride[/Nation] and we have elected official&amp;#39;s who run the government body.
+Were states that are governed by [Nation]Glory and Pride[/Nation] and we have elected official&amp;#39;s who run the government body. The only position that will not change is the Emperor. Election&amp;#39;s will take place every few month&amp;#39;s. The first election for positions will be held at 10 nation&amp;#39;s in the region. To vote you have to endorse the Emperor. 
 
-We also have one regional army. Are ranks are Emperor, Supreme General, General, Senior Colonel, Colonel, Captain, Lieutenant, Sergeant, Corporal, Private First Class and Private. 

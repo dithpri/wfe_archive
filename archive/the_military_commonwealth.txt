@@ -3,8 +3,8 @@
 King: [nation]The Great European Commonwealth[/nation]
 [color=blue]WA delegate:[/color] [nation]Celter[/nation] ENDORSE
 
-Prime Minister:
-Deputy Prime Minister:
+Prime Minister: [nation]Theoniatium[/nation]
+Deputy Prime Minister: [nation]The Kingdom of Charleston[/nation]
 Minister of Defense:
 Minister of Commonwealth Affairs:
 Air Force Commmander:
@@ -12,7 +12,7 @@ Navy Commander:
 Army Commander:
 Recruiter:
 Diplomat&amp;#39;s:
-
+Head of Intelligence: [nation]Acrior[/nation]
 
 
 Nations are allowed only one minister seat apart from WA delegate.

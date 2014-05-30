@@ -1,4 +1,4 @@
-[b][url=http://www.marxists.org/archive/marx/works/download/pdf/Manifesto.pdf]ACTUALLY FREE COOKIES THIS TIME, HONEST![/url][/b]
+[b][url=http://www.marxists.org/archive/marx/works/download/pdf/Manifesto.pdf]FREE COOKIES! SPECIAL BONUS FOR ORDORINIANS![/url][/b]
 
 [b]Defense Status:[/b] [color=green]DEFSTAT 5[/color]
 
@@ -16,6 +16,7 @@
 [b]Socialist Republics[/b]
 
 [nation]Krajstali[/nation]
+[nation]Biel-Tan[/nation]
 [nation]Isaciaria[/nation]
 
 [hr]
@@ -23,7 +24,6 @@
 [b]Workers&amp;#39; States[/b]
 
 [nation]Puerto Cienfuegos[/nation]
-[nation]Biel-Tan[/nation]
 [nation]Belakras[/nation]
 [nation]Bolugaria[/nation]
 [nation]Drogustan[/nation]

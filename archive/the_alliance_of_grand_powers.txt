@@ -2,7 +2,7 @@ The Alliance of Grand Powers has returned! Strengthened and refined by the test 
 
 Prime Minister: [nation=Alexiandran AoGP Holdings]
 Deputy Prime Minister: [nation=Harrisopia AoGP Holdings]
-Defence Minister: TBA
+Defence Minister: [nation=Luxatarium]
 Treasurer: TBA
 Foreign Affairs Minister: TBA
 Home Affairs Minister: [nation=Bavaria-Saxony]
