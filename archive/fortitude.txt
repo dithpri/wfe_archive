@@ -10,5 +10,5 @@ General of the Army: [nation=short]Atticatia[/nation]
 Sergeant Major of the Army [nation=short]Oregon43[/nation]
 General of Foreign Affairs: [nation=short]The Big Brother[/nation]
 General of Internal Affairs:
-WA Delegate:
+WA Delegate: [nation=short]United Commonwealth of the Mountains[/nation]
 [/b]

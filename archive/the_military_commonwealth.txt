@@ -5,7 +5,7 @@ King: [nation]The Great European Commonwealth[/nation]
 
 Prime Minister: [nation]Theoniatium[/nation]
 Deputy Prime Minister: [nation]The Kingdom of Charleston[/nation]
-Minister of Defense:
+Minister of Defense: [nation]Marmero[/nation]
 Minister of Commonwealth Affairs:
 Air Force Commmander:
 Navy Commander:

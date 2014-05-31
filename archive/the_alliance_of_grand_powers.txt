@@ -1,21 +1,13 @@
-The Alliance of Grand Powers has returned! Strengthened and refined by the test of time, and armed with the knowledge of a thousand generations, this region will rise to prominence once again.
+Welcome to the Alliance of Grand Powers, an ancient region that has endured many wars and hardships. We hope you enjoy your stay. 
 
-Prime Minister: [nation=Alexiandran AoGP Holdings]
-Deputy Prime Minister: [nation=Harrisopia AoGP Holdings]
+Prime Minister: [nation=Alexiandra]
+Deputy Prime Minister: [nation=Harrisopia]
 Defence Minister: [nation=Luxatarium]
 Treasurer: TBA
 Foreign Affairs Minister: TBA
-Home Affairs Minister: [nation=Bavaria-Saxony]
-Trade Minister: TBA
 Recruitment Minister: [nation=Gerekistan]
+WA Delegate: TBA
+Home Affairs Minister: [nation=Bavaria-Saxony]
 
+Recently defeated The Eternal Knights in combat!
 
-
-[hr]
-
-
-
-[u][B]Important Links:[/B][/u]
-
-[url=http://i.imgur.com/1emFo0n.png]Map[/url]
-[url=http://forum.nationstates.net/viewtopic.php?f=12&amp;amp;t=297513]Recruitment Thread[/url]
