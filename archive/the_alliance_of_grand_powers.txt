@@ -4,8 +4,9 @@ Prime Minister: [nation=Alexiandra]
 Deputy Prime Minister: [nation=Harrisopia]
 Defence Minister: [nation=Luxatarium]
 Treasurer: TBA
-Foreign Affairs Minister: TBA
+Foreign Affairs Minister: [nation=Leni]
 Recruitment Minister: [nation=Gerekistan]
+   -Recruitment Officers: [nation=Leni]
 WA Delegate: TBA
 Home Affairs Minister: [nation=Bavaria-Saxony]
 

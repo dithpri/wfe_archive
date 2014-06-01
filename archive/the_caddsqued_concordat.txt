@@ -6,12 +6,19 @@
 
 [color=red]Five Fathers of the Concordat:[/color]
 
-[color=pink][u]Master Rank[/u][/color]
+[color=pink][u][b]Master Rank[/u][/b][/color]
 Admiral General: Jayk Parsons of [nation=Holtsenov]
 Prime Minister: Christian Helm of [nation=BURGLOR]
 
-[color=purple][u]Marquis Rank[/u][/color]
+[color=purple][u][b]Marquis Rank[/b][/u][/color]
 Commander-in-Chief: Kimmy Jong Un of [nation=The United Korean Socialist Republic]
 Co-Commander: Xavier Short of [nation=Estus Flask]
 Supreme Blazer: Noah Wright of [nation=Snow People]
+[hr]
+
+[color=red]Honorary Fathers (a.k.a. The Auxiliary):[/color]
+
+[color=cyan][u][b]Legion Rank[/b][/u][/color]
+Chief Infomercial Salesman: Micah Kurtz of [nation=SullyFields]
+
 

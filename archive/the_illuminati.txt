@@ -1,12 +1,8 @@
 
 
-[b]Boss:[/b] [nation]The Establishment of Worldwide Freedom[/nation]
+[color=darkgoldenrod]OPERIBUS ANTEIRE[/color][color=lightslategray] - Enter the Light.- [/color][color=darkgoldenrod]OBSCURIS VERA INVOLVENS[/color]
 
-[b]Chief:[/b] [nation]Communism life[/nation]
-
-[b]General:[/b] [nation]Oppressive oppressors[/nation]
-
-[hr]
+[color=chocolate]All nations are free to be what they may and go where they will.[/color]
 
 [color=darkgoldenrod]LUX E TENEBRIS[/color][color=lightslategray] - [url=http://nswiki.org/index.php?title=Region/The_Illuminati]We[/url] are [url=http://www.illuminatirex.com/nwo-world-map/]everywhere[/url].- [/color][color=darkgoldenrod]ACTA NON VERBA[/color]
 
@@ -18,7 +14,7 @@
 
 [b]Tools:[/b] [url=http://nsarchive.net/]Archives[/url], [url=http://www.broomdces.com/nseconomy/]Economy[/url], [url=http://nseconomy.thirdgeek.com/]NSEconomy[/url], [url=http://nsdossier.texasregion.net/]Suite[/url], [url=http://www.nstracker.net/]Tracker[/url]
 
-[b]Extension:[/b] [url=https://nationstatesplusplus.net/]NS++[/url]
+[b]Extensions:[/b] [url=https://chrome.google.com/webstore/detail/multilogin/nccllfnllopfpcbjdgjdlfmomnfgnnbk]MultiLogin[/url], [url=https://nationstatesplusplus.net/]NS++[/url]
 
 [b]Timezone:[/b] [url=http://time.is/UTC]UTC[/url]
 

@@ -1,8 +1,16 @@
-TEP is allied with:
+[u][color=darkgreen][B]The Eastern Pacific Sovereign Army[/B][/color][/u]
+[i][color=darkgreen]The Eastern Pacific Sovereign Army represents [region]The East Pacific[/region] militarily.[/color][/i]
 
+[color=green][B]Field Marshal:[/B] [nation]Bachtendekuppen[/nation]
+[B]General: [/B][nation]Xoriet[/nation]
+Lieutenant: [nation]Tano[/nation]
+Corporal: [nation]The Fourth Imperium[/nation]
+Corporal: [nation]Optios[/nation][/color]
+
+[i][color=green][B]Allied With:[/B][/color][/i]
 [region]The United Defenders League[/region]
 [region]Lazarus[/region]
+[region]The North Pacific[/region]
 
-TEP is at war with:
-
-[region]Gatesville Inc[/region]
+[i][color=green][B]At War With:[/B][/color][/i]
+[region]Gatesville[/region]

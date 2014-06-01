@@ -3,9 +3,9 @@ Et qu&aelig;rebat occidere. Vastabunt mundi exercitum parare, et vigilate ardebi
 
 [b] Motto: [/b] [color=green] &amp;quot;Mundus metuunt&amp;quot;[/color]  (Let the world fear us)
 [b] Regional Languages:[/b] [color=green]Latin, English[/color]
-[b] Summum Ducem:[/b] [nation]Poena[/nation]
-[b] Summum Princeps:[/b] [color=red]None[/color]
-[b] Summum Generalis:[/b] [color=red]None[/color]
+[b] Summus Ducem:[/b] [nation]Poena[/nation]
+[b] Summus Princeps:[/b] [color=red]None[/color]
+[b] Summus Imperator:[/b] [color=red]None[/color]
 [b] Summus Orator:[/b] [color=red]None[/color]
 
 
