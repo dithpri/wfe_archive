@@ -5,7 +5,7 @@ The Democratic Union of Free Nations (the DUFN) is a region dedicated to protect
 We here are a direct democracy. Our legislative body is the &amp;quot;Assembly,&amp;quot; made up of all World Assembly Nations.
 
 President: [nation]Oltrandy[/nation]
-Chancellor: Vacant
+Chancellor: [nation]Castrynium[/nation]; [b](World Assembly nations are required to endorse him)[/b]
 Secretary of State: Vacant
 Secretary of Defense: Vacant
 Secretary of Justice: Vacant

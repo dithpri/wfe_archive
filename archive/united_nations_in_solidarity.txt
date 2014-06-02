@@ -4,9 +4,9 @@ Welcome to the United Nations in Solidarity! United Nations in Solidarity is a p
 [url=https://www.youtube.com/watch?v=_Zk6eXvCiuo]Regional Anthem[/url]
 [hr]
 President:[nation]Republic of Vietnam[/nation]
-Vice President:[nation]Malhakhistan[/nation]
-Prime Minster: 
-Secretary of Defense: [nation]Zatak[/nation]
+Vice President: [nation]Zatak[/nation]
+Prime Minster:  [nation]ChiChi Empire[/nation]
+Secretary of Defense: [nation]A War Lord[/nation]
 
 
 ~[b][url=http://w11.zetaboards.com/The_UNIS_Forum/index/]Join our Regional Forum[/url][/b]~
@@ -16,6 +16,6 @@ Secretary of Defense: [nation]Zatak[/nation]
 
 [hr]
 [b]Bulletin Board[/b]
-[url=http://forum.nationstates.net/viewtopic.php?f=31&amp;amp;t=294676]Regional Roleplay[/url]
+
 [hr]
-Defcon:= 0
+Defcon:=5 

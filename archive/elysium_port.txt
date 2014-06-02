@@ -1,8 +1,7 @@
 [B]This is a IEU Military Base[/B]
 
-[Color=red]Overlord:[/Color] [Nation=short]Gomlis44[/Nation]
 
-[Color=blue]2nd in command:[/color][Nation=short]Munray[/Nation]
+[Color=blue]Chief of Army:[/color][Nation=short]Munray[/Nation]
 
 [Color=Green]General:[/Color]
 -[Nation=short]People Who Stand United[/Nation]
@@ -24,7 +23,7 @@
 [Color=Red]Military Base #1[/Color]
 
 [Color=Red]Chiefs of the Base:[/Color]
-[Nation=short]Gomlis44[/Nation]
+
 [Nation=short]Munray[/Nation]
 
 
@@ -33,7 +32,7 @@
 
 [Hr]
 [U]Teams:[/U]
--[b]Dragon[/b]
+-
 -[b]H-HOUNDS[/b]
 -
 [Hr]
@@ -41,8 +40,7 @@
 
 
 [Color=blue]Follow the next orders:[/color]
-TG Gom for next &amp;quot;Assessment&amp;quot; 
- If you have Suggestions on &amp;quot;Assessments&amp;quot; TG Gom.
+
 [Hr]
 [I]NEWS[/I]
 -Elysium first and new military base, promises bright future.

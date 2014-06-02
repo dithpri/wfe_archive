@@ -8,7 +8,8 @@ We are The [b][color=Blue]UNITED[/color] [color=gold]IDEALIST[/color] [color=red
 
 [b]Council[/b]:
 
-~ [I]Director[/I]- [nation=short+noflag]The United Sovereignty of Moyeria[/nation]
+~ Adviser of [i]Administration[/I]-
+[nation=short+noflag]The United Sovereignty of Moyeria[/nation]
 ~ Advisor of [I]Military Affairs[/I]- [nation=short+noflag]Benian Republic[/nation]
 ~ Adviser of [i]Forgien Affairs[/i]- In Waiting
 ~ Adviser of [i]Interior Affairs[/i]- In Waiting

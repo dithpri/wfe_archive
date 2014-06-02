@@ -1,6 +1,8 @@
-[b]This region fell to the forces of [region]The Eternal Knights[/region]![/b]
+[b]This region fell to the forces of [region]The North Pacific[/region]![/b]
 
-[b]In the midst of the night, The Eternal Knights infiltrated and attacked, leaving no survivors in the great purge:
-[nation=short]NoblePhnx[/nation]
-[nation=short]The Black Angel Of Death[/nation]
-[nation=short]Kuichi[/nation][/b]
+Using stealth, swiftness, and surprise, [b]The North Pacific Army[/b] infiltrated, attacked, and captured the region:
+[nation]Gladio[/nation]
+[nation]Aikkustan[/nation]
+[nation]Jagerton[/nation]
+
+[b]Hail TNP! hail NPA![/b]

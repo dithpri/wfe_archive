@@ -1,11 +1,6 @@
-Regional Government:
------------------------
-[b]Party In Power:[/b] Acudian Democratic Party
-[b]Party Leader:[/b] [nation]Makawaka[/nation]
-[b]Main Spokesman:[/b] [nation]Kazadure[/nation]
-________________________________________________
-Minister&amp;#39;s Of The Regional Government:
----------------------------------------
-[b]Minister Of World Affairs: [/b][Nation]The Northern Barbadian Republic[/nation]
-[b]Minister Of Education: [/b][nation]Andermor[/nation]
-[b]Minster Of Defense: [/b] [nation]The Barbadian Republic[/nation]
+[b]This region fell to the forces of [region]The Eternal Knights[/region]!
+In the midst of the night, The Eternal Knights infiltrated and attacked, leaving no survivors in the great purge:
+[nation=short]Festavo[/nation]
+[nation=short]NoblePhnx[/nation]
+[hr]Special Message from Knight Festavo:
+This is a warning shot. Do not interfere with TEK Operations again. You have been warned.[/b]

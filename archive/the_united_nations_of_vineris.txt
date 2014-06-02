@@ -1,4 +1,4 @@
-DEFCON: 5 - Diplomatic Tension
+DEFCON: 0 - All is well.
 
 Border Policy: All entrants must be approved by the united council.
 
@@ -6,21 +6,12 @@ United Council:
 
 Founder/United Council co-leader: [nation]True Christopia[/nation]
 
-United Council co-leader: [Nation]Wulverne[/nation]
+United Council co-leader: [Nation]Antavio[/nation]
 
 United Council Members (In order of importance): 
 [Nation]Ikkakujuu[/nation]
-[Nation]Antavio[/nation]
+[Nation]The peoples favourite communists[/nation]
 [nation]Uvitar[/nation]
-
-Coalition of Tropico:
-[nation]True Christopia[/nation]
-[nation]The peoples favourite communists[/nation]
-[nation]Uvitar[/nation]
-
-Vineris Facist Defenceforce:
-[nation]Wulverne[/nation]
-[nation]Antavio[/nation]
 
 If you wish to roleplay about the region you can do so here: http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=296062
 Link to all nations analysis for comparison: http://goo.gl/92xsU9
