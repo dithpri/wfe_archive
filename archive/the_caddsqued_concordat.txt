@@ -1,24 +1,15 @@
 [b]This region is comprised of nations in the Caddsqued Concordat, an alliance of nations with the same ideals of freedom from corruption.[/b]
 [hr]
 
-[i]Telegram [nation=short+noflag]Holtsenov[/nation] or [nation=short+noflag]BURGLOR[/nation] if you have any inquiries concerning the region.[/i]
+[i]Telegram [nation=short]Holtsenov[/nation] if you have any questions concerning the region.[/i]
 [hr]
 
-[color=red]Five Fathers of the Concordat:[/color]
+[color=red]Fathers of the Concordat:[/color]
+[nation=short]Holtsenov[/nation], [nation=short]BURGLOR[/nation], [nation=short]Estus Flask[/nation], [nation=short]Snow People[/nation], [nation=short]The United Korean Socialist Republic[/nation], [nation=short]SullyFields[/nation]
 
-[color=pink][u][b]Master Rank[/u][/b][/color]
+[color=cyan]PARLIAMENT OF THE CONCORDAT[/color]
 Admiral General: Jayk Parsons of [nation=Holtsenov]
-Prime Minister: Christian Helm of [nation=BURGLOR]
-
-[color=purple][u][b]Marquis Rank[/b][/u][/color]
-Commander-in-Chief: Kimmy Jong Un of [nation=The United Korean Socialist Republic]
-Co-Commander: Xavier Short of [nation=Estus Flask]
-Supreme Blazer: Noah Wright of [nation=Snow People]
-[hr]
-
-[color=red]Honorary Fathers (a.k.a. The Auxiliary):[/color]
-
-[color=cyan][u][b]Legion Rank[/b][/u][/color]
-Chief Infomercial Salesman: Micah Kurtz of [nation=SullyFields]
-
+Prime Minister: Christian Helm of [nation=Burglor]
+Lieutenant Colonel: (vacant)
+Secretary of Foreign Affairs: (vacant) 
 

@@ -1,6 +1,6 @@
 [u]Sovereign[/u]
-[color=Brown][b]Governor General:Johann of 21 Tribes ([nation]21 Tribes[/nation][/b][/color])
-[color=Brown][b]Assistant Governor: [nation]TBD[/nation][/b][/color]
+[color=Brown][b]Governor General:Johann of 21 Tribes ([nation]21 Tribes[/nation])[/b][/color]
+[color=Brown][b]Assistant Governor:John Strider ([nation]UnitedProvinceofRepublica[/nation])[/b][/color]
 
 [b][u]Executive[/u][/b]
 [color=Blue][b]Prime Minister: [nation=short]San Pasto[/nation][/b][/color]

@@ -1,0 +1,6 @@
+Presient: [nation]Roman Americas[/nation]
+V. President: [nation][/nation]
+Secretary of Defense: [nation][/nation]
+Secretary of Foreign affairs: [nation][/nation]
+Secretary of Internal Affairs: [nation][/nation] 
+Secretary of Technology: [nation][/nation]

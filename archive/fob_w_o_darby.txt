@@ -1,6 +1,9 @@
 [color=red][b]THIS REGION IS A RESTRICTED MILITARY OPERATIONAL AREA![/color][/b]
+[b][color=blue]FOB W O Darby[/color] is a [color=blue]Forward Operating Base (FOB)[/color] for reconnaissance and intelligence units of the [color=red]Barony Dominion[/color].[/b]
 
-[b][color=blue]FOB W O Darby[/color] is a [color=blue]Forward Operating Base (FOB)[/color] for reconnaissance and intelligence units of the [color=red]Barony Dominion[/color].[/b] 
+[b][color=blue]FOB Commander:[/color]  [nation=short]1st Armored Division[/nation][/b] 
+
+[b][color=blue]Current Military Tenant Unit(s):[/color]  [region]Nation States Raider Coalition[/region] Forces[/b]
 
 
  
