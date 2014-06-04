@@ -1,8 +1,6 @@
-[b]WELCOME TO THE CHERNOBYL TREATY ORGANIZATION[/b]
+[b][color=Blue]WELCOME TO THE CHERNOBYL TREATY ORGANIZATION[/color][/b]
 
-[b][color=red]Defense Status:[/color][/b] [b]Normal[/b] / Increased / Maximum
-
-Latest News: Region Formed on June 2nd.
+[b]This is the official headquarters for the CTO. We are an economic and political union built upon the foundation of peace, friendship, economic stability and democracy. Anyone residing in any region is welcome to join.[/b]
 
 List of Member Nations:
 [nation=Shermaniya]
@@ -13,4 +11,3 @@ List of Member Nations:
 List of Observer Nations:
 [nation=Jewphobia]
 [nation=Newphobia]
-[nation=Aswia]

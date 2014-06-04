@@ -10,7 +10,7 @@ Ministry of Defense : [nation]Fractured Minds[/nation]
 Ministry of Education : 
 Environment Department : 
 Ministry of Commerce : 
-Ministry of Agriculture : 
+Ministry of Agriculture : [nation]Orleanais[/nation]
 Ministry of Justice : [nation]Arcane Magics[/nation]
 Ministry of Labor :
 Ministry of Health &amp;amp; Safety :

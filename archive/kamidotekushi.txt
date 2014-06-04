@@ -2,4 +2,11 @@ Regional Government
 ---------------------------------
 [color=red]President:[/color] [nation]Kazadure[/nation]
 [color=orange]Deputy President:[/color][nation]The Barbradian Republic[/nation]
-------------------------------------------------------------
+
+[b]Minsters:[/b]
+
+[Color=blue]Minister of Defense-[/color]
+[Color=green]Minister of Intelligence-[/color]
+[Color=orange]Minister of Foreign Affairs-[/color]
+[Color=yellow]Minister of Culture-[/color]
+[Color=blue]Minister of Justice-[/color]

@@ -2,7 +2,7 @@
 
 [color=red][i]The Allied States champions free speech and government by the people!
 
-Elections are ongoing![/i][/color]
+[/i][b]Elections are ongoing![/b][/color]
 
 [color=blue][b][u]Administration[/u][/b][/color]
 
@@ -11,6 +11,7 @@ Elections are ongoing![/i][/color]
 [b]Secretary of State:[/b] [nation=short]CPSU[/nation]
 
 [b]The President requests the endorsement of all WA nations.
+
 Telegram [nation=short]CDland[/nation] for a Cabinet office.[/b]
 
 [color=red][b][u]Congress[/u][/b][/color]

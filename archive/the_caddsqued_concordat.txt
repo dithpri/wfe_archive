@@ -5,7 +5,11 @@
 [hr]
 
 [color=red]Fathers of the Concordat:[/color]
-[nation=short]Holtsenov[/nation], [nation=short]BURGLOR[/nation], [nation=short]Estus Flask[/nation], [nation=short]Snow People[/nation], [nation=short]The United Korean Socialist Republic[/nation], [nation=short]SullyFields[/nation]
+[nation=short]Holtsenov[/nation], [nation=short]BURGLOR[/nation], [nation=short]Estus Flask[/nation], [nation=short]Snow People[/nation], [nation=short]The United Korean Socialist Republic[/nation] 
+
+Honorary Fathers:
+
+[nation=short]SullyFields[/nation]
 
 [color=cyan]PARLIAMENT OF THE CONCORDAT[/color]
 Admiral General: Jayk Parsons of [nation=Holtsenov]
