@@ -11,6 +11,6 @@ Founder: Iarocav of [nation=Drawkland]
 Delegate: Mistyfang of [nation=Katrasen]
 
 [u]Lower Division[/u]
-Legislator: Paceman of [nation=Mushcap]
-Senator: Classan of [nation=YOLOvilla]
+Senator: Paceman of [nation=Mushcap]
+Judiciary: Classan of [nation=YOLOvilla]
 Archivist: Luna of [nation=Xhayparia]

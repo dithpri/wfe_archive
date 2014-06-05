@@ -6,12 +6,13 @@
 
 MAY 2014 GOVERNMENT:
 
-Prime Minister: [nation]Aanon Bay[/nation]
+Prime Minister: [nation]Apple[/nation]
 
 Minister for Interior Affairs: [nation]Faikliren[/nation]
-Minister for Foreign and Defensive Affairs: [nation]Bankstown City[/nation]
-Minister for Justice: [nation]Burgundaholmr[/nation]
-Ministers for Recruitment and Citizenship: [nation]Apple[/nation] and [nation]Tanga[/nation]
+Minister for Foreign Affairs: [nation]Centralton[/nation]
+Minister for Justice: [nation]Latin and Central America[/nation]
+Minister for Recruitment:[nation]Tanga[/nation]
+Minister for Defense: [nation]Aanon Bay[/nation] 
 
 [b]JUDICIARY[/B]
 

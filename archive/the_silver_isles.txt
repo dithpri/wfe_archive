@@ -16,9 +16,8 @@
 [nation=short]Hollowed Forest[/nation]
 [/b]
 
-[u][B]We are currently refounding, here is the proper procedure to follow:[/B][/u]
+[u][B]Current Orders:[/B][/u]
 
-[B][color=blue]Members of the World Assembly:[/color] Endorse the Delegate [nation]At Sea[/nation].
-[color=blue]Non Members:[/color] Move to [region]The Black Riders[/region] until the region is refounded.[/B]
-[B][color=blue]Black Riders:[/color] Remain in the region and endorse the delegate.[/B]
+[B][color=blue]Non Members:[/color] Move out to [region]The Black Riders[/region] or any other region[/B]
+[B][color=blue]Black Riders:[/color] Remain in the region and endorse the delegate [nation]At Sea[/nation].[/B]
 
