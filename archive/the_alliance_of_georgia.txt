@@ -8,7 +8,7 @@ Minister of War:
 Secretary of Defense: [nation]The Shu Empire[/nation]
 Chief Justice: [nation]Haichianga[/nation]
 Minister of Foreign Affairs: [nation]Mortifico[/nation]
-Minister of Internal Affairs: [nation]Hollowwyn[/nation]
+Minister of Internal Affairs: 
 
 Finally our constitutions courtesy of [nation]Bajebus Representative[/nation]
 http://www.nationstates.net/nation=bajebus_representative/detail=factbook/id=263931

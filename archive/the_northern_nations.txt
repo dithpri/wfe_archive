@@ -15,7 +15,6 @@ The region is also looking for some nations to join so TNN can be huge.
 
 [b][color=#008000]Great Powers[/color][/b]
 [nation=short]Allandium[/nation]
-[nation=short]Alonir[/nation]
 [nation=short]Sviberstan[/nation]
 
 [b][color=#0040FF]Secondary Powers[/color][/b]
@@ -23,3 +22,4 @@ The region is also looking for some nations to join so TNN can be huge.
 [nation=short]San Salvacion Union[/nation]
 [nation=short]Mabala[/nation]
 [nation=short]E C D W[/nation]
+[nation=short]Kiezal[/nation]

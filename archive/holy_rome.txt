@@ -9,7 +9,11 @@ DEFCON: [color=blue]5[/color]
 [B][url=http://goo.gl/AHzPia]Vote Here![/url][/B]
 
 [B]Presiding State (Endorse him)[/B]: [nation]Great Jergania and Jonland[/nation] [color=blue]Classical[/color]
-[B]Counciler of the Legislature[/B]:Vacant 
+
+[B]Counciler of the Legislature[/B]: [i]Vacant [/i]
+
+[B]Chief Justice[/B]: [nation]The Desevro Union[/nation]
+
 [B]Headquartering State of the  SHIELD Initiative[/B]: [nation]Great Robica[/nation]
    [color=orange] If there is any suspicious activity please report it immediately to [nation]The shield alliance[/nation] via telegram 
 [/color]

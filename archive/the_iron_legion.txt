@@ -24,5 +24,6 @@ Military Operations Directorate of [region]The Fascist Union[/region].
 [nation=short]Slarvenia[/nation] Evocati (Sergeant)
 [nation=short]Empire of Thayanalia[/nation] Munifex (Private)
 [nation=short]Bryzantia[/nation] Munifex (Private)
+[nation=short]Cantzig[/nation] Munifex (Private)
 
 [/b]
