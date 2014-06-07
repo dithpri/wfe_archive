@@ -6,7 +6,7 @@
  
 [u]Government[/u]
 Delegate:[nation=short]Soviet East Japan[/nation](DKLF)
-Commissar of Foreign Affairs:[nation=short]Communist Bloodia[/nation](DKLF)
+Commissar of Foreign Affairs:[nation=short]Communist Bloodia[/nation](I)
 Commissar of Internal Affairs: [nation=short]Astreapolis[/nation](LO)
 Commissar of Defense:[nation=short]Custadia[/nation](DKLF)
 Commissar of Immigration:[nation=short]Marxist Kommunists[/nation](LO)

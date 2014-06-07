@@ -1,1 +1,11 @@
 Territories under the dominion of Tudra Mar.
+
+Emperor/Pharaoh: [nation]Tudra Mar[/nation]
+Second in command: [nation]Marian Shipyards[/nation]
+Crown Prince: [nation]Marian Research Stations[/nation]
+Crown Princess: [nation]The Marian Bank Centers[/nation]
+Head of Science: [nation]Tudra Mar[/nation]
+Head of Economics: [nation]The Marian Bank Centers[/nation]
+Head of Military: [nation]Marian Shipyards[/nation]
+
+NOTE: If new nations join the region, then they can take a position of one of the heads. I may add new positions as well.

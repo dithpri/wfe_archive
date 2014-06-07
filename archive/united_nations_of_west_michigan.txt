@@ -15,5 +15,5 @@ ________________________________________________________________________________
 [color=red]ALL EMBASSY REQUESTS ACCEPTED[/color]
 _______________________________________________________________________________________
 Invader Threat Level:
-[color=green]LOW[/color]
-Password Activation on Standby
+[color=orange]MEDIUM[/color]
+Password Activated
