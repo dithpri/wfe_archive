@@ -14,5 +14,5 @@ Minor Judge:
 Minor Judge: 
 [hr]
 
-[b]HQ of the Union[/b]: [region]The Union[/region]
-[b]Colonies[/b]: [region]The Pokemon League[/region]
+[b]HQ of the Union[/b]: [region]Union Command[/region]
+[b]Colonies[/b]: [region]The Pokemon League[/region], [region]The Union[/region]

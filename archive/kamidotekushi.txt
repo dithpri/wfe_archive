@@ -5,10 +5,10 @@ Regional Government
 
 [b]Minsters:[/b]
 
-[Color=blue]Minister of Defense-[/color][nation]nukeland Randomness[/nation]
+[Color=blue]Minister of Defense-[/color][nation=short]nukeland Randomness[/nation]
 [Color=green]Minister of Intelligence-[/color]
 [Color=orange]Minister of Foreign Affairs-[/color]
-[Color=yellow]Minister of Culture-[/color]
+[Color=yellow]Minister of Culture-[/color][nation=short]Hyrei[/nation]
 [Color=blue]Minister of Justice-[/color]
 
 ---------------------------------------------------

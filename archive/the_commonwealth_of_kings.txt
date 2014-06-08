@@ -6,7 +6,7 @@
 [b]Prime Minister:[/b] [nation=shortname]The Royally United Provinces[/nation]
 [b]Minister of Defence:[/b] [nation=shortname]Vaval[/nation]
 [b]Minister of Foreign Affairs:[/b] [nation=shortname]SaudiPakistan[/nation]
-[b]Minister of Culture, Media and Sport:[/b] [nation=shortname]Usjekhipstahf[/nation]
+[b]Minister of Culture, Media and Sport:[/b] [nation=shortname]Suej[/nation]
 
 [u][b][color=lightblue]Supreme Court[/color][/b][/u]
 [b]Lord Chief Justice:[/b] [nation=shortname]Father motherland[/nation]

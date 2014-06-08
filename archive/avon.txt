@@ -1,14 +1,15 @@
- 12 planet system,
+ 13 planet system,
 Planets as follows in relation to distance from star
 Hadis
 Amden
-Alum
+Yanis
 Travelian
 Ix
 Gamma major
 Gamma minor
-Yanis
+Alum
 Kronos
 Merith
 Reiche
 Paladin
+Protus

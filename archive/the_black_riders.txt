@@ -17,7 +17,5 @@
 [hr]
 [color=#8B0000]Order of the Day[/color]
 
-[color=black]Keep the endorsement count of [nation=short]Duck-boss[/nation] at [u]42[/u] endorsements in [region]Anarchy[/region][/color]
-
-[color=#8B0000]Keep the endorsement count of [nation=short]At Sea[/nation] at [u]35[/u] endorsements[/color] in [region=The Silver Isles][/b]
+[color=black]Move to  [region]Anarchy[/region][/color] and endorse [nation=short]Duck-boss[/nation][/b]
 
