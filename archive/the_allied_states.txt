@@ -6,10 +6,11 @@
 
 [b]President:[/b] [nation=short]CDland[/nation]
 [b]VP:[/b] [nation=short]CPSU[/nation] 
+[b]Cabinet:[/b] [nation=short]United States of Hamburg[/nation] and [nation=short]Keventle[/nation]
 
 [b]The President requests the endorsement of all WA nations.
 
-Telegram [nation=short]CDland[/nation] for a spot on the Cabinet or Supreme Court.[/b]
+Telegram [nation=short]CDland[/nation] for a spot on the Cabinet.[/b]
 
 [color=red][b][u]Congress[/u][/b][/color]
 

@@ -5,6 +5,6 @@ This is a region for all the lands in Cor that are occupied by Peihan, and the n
 [nation]Peihanese Fiji[/nation]
 [nation]Peihanese Polynesia[/nation]
 [nation]Peihanese Transcaucasia[/nation]
-[nation]The Peihanese East Indies[/nation]
+[nation]Quanlinan[/nation]
 [nation]Navedia[/nation]
 [nation]Salphihia[/nation]

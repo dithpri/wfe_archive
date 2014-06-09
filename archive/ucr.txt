@@ -5,25 +5,31 @@
 
 [color=darkred][i]&amp;quot;Workers of the world Unite; you have nothing to lose but your chains![/i].&amp;quot; -Karl Marx[/color]
 
-[b][hr][url=http://www.nationstates.net/nation=communal_earth/detail=factbook/id=249224]Constitution[/url] | [url=http://www.nationstates.net/nation=communal_earth/detail=factbook/id=246127]Political Party[/url] | [url=http://www.nationstates.net/nation=communal_earth/detail=factbook/id=253282]Peoples&amp;#39; Council[/url] |[url=http://www.nationstates.net/nation=communal_earth/detail=factbook/id=248915]Citizenship[/url]|[url=http://youtu.be/suVB3YGIUk0]Anthem[/url] |[url=http://www.nationstates.net/nation=the_united_slavic_tsardom/detail=factbook/id=240105]Red Workers&amp;#39; Army[/url] |[url=https://www.dropbox.com/s/ttl4as48wicjiav/UCR.jpg]Map[/url] |[url=http://forum.nationstates.net/viewtopic.php?f=15&amp;amp;t=269464]NS++[/url][/b]
+[b][hr][url=http://www.nationstates.net/nation=communal_earth/detail=factbook/id=249224]Constitution[/url] | [url=http://www.nationstates.net/nation=communal_earth/detail=factbook/id=246127]Political Party[/url] | [url=http://www.nationstates.net/nation=communal_earth/detail=factbook/id=253282]Peoples&amp;#39; Council[/url] |[url=http://www.nationstates.net/nation=communal_earth/detail=factbook/id=248915]Citizenship[/url]|[url=http://youtu.be/suVB3YGIUk0]Anthem[/url] |[url=http://www.nationstates.net/nation=the_united_slavic_tsardom/detail=factbook/id=240105]Red Workers&amp;#39; Army[/url]| Upgrade to [url=http://forum.nationstates.net/viewtopic.php?f=15&amp;amp;t=269464]NS++[/url][/b]
 
 [hr][b][color=darkred]First Central Soviet of the UCR[/color][/b]
 
-[b]Secretary General:
+[b][list]Secretary General: 
+[nation=short]communal earth[/nation]
 
-Premier:
+Premier: 
+[nation=short]Kazirstan[/nation]
 
-Commissar of Defense:
+Commissar of Defense: 
+[nation=short]Soviet Land[/nation]
 
-Commissar of Foreign Affairs:
+Commissar of Foreign Affairs: 
+[nation=short]Ruskslavia[/nation]
 
-Commissar of Internal Affairs:
+Commissar of Internal Affairs: 
+[nation=short]The Balearic Archipelago[/nation]
 
-Commissar of Education:[/b]
+Commissar of Education: 
+[nation=short]Unending Revolution[/nation][/b][/list]
 [hr]
 [b][color=darkred]&amp;gt;&amp;gt;UCR News&amp;lt;&amp;lt;[/color]:[/b] 
-We&amp;#39;re organizing and rebuilding this region into a unified, Marxist workers&amp;#39; state. Your fellow comrades await.
-*Update: The Peoples&amp;#39; Council has been officially formed.
+We&amp;#39;re organizing and rebuilding this region into a unified, Marxist workers&amp;#39; state. 
+
 
 [hr]
 [b]DEFCON Level:[/b] [color=green]4- Readiness[/color]

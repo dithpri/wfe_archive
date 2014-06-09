@@ -7,8 +7,8 @@
 [color=olive][b][u]Monarchy[/b][/u][/color]
 
 [color=olive][b]Emperor: [/b][nation=short]The Recon Empire[/nation]
-Senior Monarchs: 5
-Noble Monarchs: 16[/color]
+Senior Monarchs: 6
+Noble Monarchs: 15[/color]
 
 [color=maroon][b][u]Imperial Government[/u][/b][/color]
 [color=blue][b]High Chancellor Delegate: [/b][nation=short]Poretos[/nation]
@@ -18,7 +18,7 @@ Noble Monarchs: 16[/color]
 [b]L.Minister of Regional Security: [/b]
 [/color]
 [hr]Please endorse [nation=short]Poretos[/nation], our High Chancellor!
-[b]Endorsement Cap: 3[/b][hr]
+[b]Endorsement Cap: 4[/b][hr]
 
 [b][color=blue]BREAKING NEWS:[/color] 
-The Kingdom of Poretos elected as the 3rd Chancellor of the Federation! Congratulations [/b]
+We&amp;#39;ve reached our 80-nation milestone today! 9/6/14 Congratulations! [/b]

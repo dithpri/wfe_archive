@@ -15,3 +15,5 @@ Chairman: [nation=short]The Grand Republic of Hannover[/nation]
 Members:[nation=short]Nuverikstan[/nation], [nation=short]Alouite[/nation]
 
 [u]Constitutional Court:[/u] VACANT
+
+Overseas Territories: [region]Space Jesus[/region]
