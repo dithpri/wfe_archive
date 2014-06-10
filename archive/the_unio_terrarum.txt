@@ -1,4 +1,6 @@
-[color=green]Welcome to the Unio Terrarum. This region, founded in 2014, stands for the basic principles man: Justice, Freedom, and Equality, and we fight for these ideals across NationStates. All nations of all stripes are welcome here. Welcome to the Unio Terrarum.[/color]
+[color=green]This region, founded in 2014, stands for the basic principles man: Justice, Freedom, and Equality, and we fight for these ideals across NationStates. All nations of all stripes are welcome here. Welcome to the Unio Terrarum.[/color]
+[hr]
+[color=green]You can find the new regional map at http://i.imgur.com/cF2A8jt.png[/color]
 [hr]
 [u][b]Our Government[/b][/u]
 [i]Executive[/i]
@@ -6,12 +8,11 @@ Union Secretary: [nation]The Kingdom of Alleble[/nation]
 High General: [nation]Alpacanzia[/nation]
 Secretary of Foreign Affairs: [nation]Narnifrey[/nation]
 Secretary of Internal Affairs: [nation]Light Music Club[/nation]
-Secretary of Legal Affairs: [nation]House of Griffindor[/nation]
+Secretary of Legal Affairs: [nation]Regnum XI[/nation]
 
 [i]Justice[/i]
-Chief Justice: [nation]House of Griffindor[/nation]
-Minor Judge: 
-Minor Judge: 
+Chief Justice: [nation]Regnum XI[/nation]
+Minor Judges:
 [hr]
 
 [b]HQ of the Union[/b]: [region]Union Command[/region]

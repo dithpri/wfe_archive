@@ -15,6 +15,6 @@ Advocate/Arbiter General: [nation=short+noflag]Northern Borland[/nation]
 Supreme Court Chief Justice: [nation=short+noflag]Panageadom[/nation]
 Justice Member: [nation=short+noflag]Repentant Jihadi[/nation]
 Justice Member: [nation=short+noflag]Capitalist Producers[/nation]
-Alt. Justice Member: [i]Vacant[/i][/b]
+Alt. Justice Member: [nation=short+noflag]Nation of Quebec[/nation][/b]
 
 [i]Please endorse our elected WA Delegate![/i]

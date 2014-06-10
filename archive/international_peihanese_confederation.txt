@@ -1,5 +1,7 @@
 This is a region for all the lands in Cor that are occupied by Peihan, and the nations in here are used as mere references for Cor activities. 
 
+[b]Regional notices:[/b] Please change your motto to &amp;quot;Aliquet eu mundi&amp;quot;, as this is the official motto of the Peihanese Confederation.
+
 [b]Nations[/b]
 [nation]Peihanese Tonga[/nation]
 [nation]Peihanese Fiji[/nation]
@@ -8,3 +10,5 @@ This is a region for all the lands in Cor that are occupied by Peihan, and the n
 [nation]Quanlinan[/nation]
 [nation]Navedia[/nation]
 [nation]Salphihia[/nation]
+[hr]
+[url=http://postimg.org/image/8n2brxyd5/full/]World Map[/url] (Last update: 9/6/2014)

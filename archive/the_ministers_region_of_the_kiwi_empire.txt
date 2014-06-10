@@ -10,4 +10,4 @@ Minister of the Environment: [nation]Kinkerland[/nation] and [nation]the red hoo
 Minister of Defense: [nation]IMAHOBO[/nation]
 Minister of Industry: [nation]Ferox et Fidem[/nation]
 Minister of Education: [nation]Ms Starkel[/nation]
-Minister of Internal Affairs: vacant
+Minister of Internal Affairs: [nation]wolf growl[/nation]
