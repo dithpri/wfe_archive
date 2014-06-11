@@ -3,10 +3,9 @@
 
 [color=Blue][b]Governor General: [nation=short]Boomtown Party Animals[/nation][/b][/color]
 
-[b][u]Executive[/u][/b]
-
-[color=Blue][b]Prime Minister:[/b][/color]
-[color=Blue][b]Deputy Prime Minister:[/b][/color]
+[b][u]Executive[/u] - [color=Red]Interm Government[/color][/b]
+[color=Blue][b]Prime Minister: [nation=short]Heartland Confederation[/nation][/b][/color]
+[color=Blue][b]Deputy Prime Minister: [nation=short]E-landia[/nation][/b][/color]
 
 [hr][b][u]Parliament[/u][/b]
 [color=Green][b]All Member Nations[/b][/color]

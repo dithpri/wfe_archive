@@ -35,13 +35,13 @@ Basket: [b][color=orange]8th[/b][/color]
 Timber: [color=orange][b]9th[/b][/color]
 Employment: 80th
 
-[I][b][color=green][u]#1 in NationStates[/u][/color][/b][/I]
+[I][b][color=red][u]#1 in NationStates[/u][/color][/b][/I]
 
 [B]Most Armed, Most Crime, Most Dangerous, Most Polluting[/b]: [b][nation]little flowers[/nation][/b]
 
 [B]Most Police[/b]:[b] [nation]Klesh[/nation][/b]
 
-[color=blue][b]Endorsements[/color][/b]: All WA nations must endorse [b][nation=short]Virulent Racism[/nation][/b] prior to endorsing other nations.
+[color=blue][b]Endorsement Cap[/color][/b]: 0
 
 [color=red]EDF Rating[/color]: 1700
 
