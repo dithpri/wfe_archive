@@ -1,6 +1,6 @@
 [color=green]This region, founded in 2014, stands for the basic principles man: Justice, Freedom, and Equality, and we fight for these ideals across NationStates. All nations of all stripes are welcome here. Welcome to the Unio Terrarum.[/color]
 [hr]
-[color=green]You can find the new regional map at http://i.imgur.com/cF2A8jt.png[/color]
+[b][color=green][url=http://i.imgur.com/cF2A8jt.png]Regional Map[/url][/color][/b]
 [hr]
 [u][b]Our Government[/b][/u]
 [i]Executive[/i]
@@ -16,4 +16,4 @@ Minor Judges:
 [hr]
 
 [b]HQ of the Union[/b]: [region]Union Command[/region]
-[b]Colonies[/b]: [region]The Pokemon League[/region], [region]The Union[/region]
+[b]Colonies[/b]: [region]The Pokemon League[/region], [region]The Union[/region], [region]Union of Free States[/region]

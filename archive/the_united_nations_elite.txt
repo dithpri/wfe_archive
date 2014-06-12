@@ -1,7 +1,7 @@
 &amp;quot;From These Many Countries We Are One Democracy&amp;quot;
 
-Prime Minister-  [nation=short]Costa Fuar[/nation]
-Deputy Ministers-  [nation=short]Ruthamir[/nation] [nation=short]the Scottish Monarchy[/nation]
+Prime Minister-  [nation=short]Elezmera[/nation]
+Deputy Ministers-  [nation=short]Yugosvakia[/nation] [nation=short]Costa Fuar[/nation]
 
 Chief Justice - [nation=short]Portereca[/nation]
 Justices - [nation=short]Amansworth[/nation], [nation=short]Czkauvek[/nation], [nation=short]the Scottish Monarchy[/nation], [nation=short]Dariaus[/nation], [nation=short]Unified Americas[/nation]
