@@ -2,7 +2,7 @@
 Regional Motto:&amp;quot;Where the nations are strong and free from oppression.&amp;quot;
 
 [color=blue][u]Regional Scribe:[/u][/color]
-[nation]Corte[/nation]
+[nation][/nation]
 
 [color=blue][u]Regional Council:[/u][/color]
 [nation]glassfall[/nation]
@@ -20,4 +20,4 @@ Regional Motto:&amp;quot;Where the nations are strong and free from oppression.&
 There&amp;#39;s a Political Compass to be found [url=http://www.politicalcompass.org/test]here[/url]
 
 Thing-a-week RMB topic:
-Communism
+Rebellion

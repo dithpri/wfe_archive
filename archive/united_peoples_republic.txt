@@ -7,7 +7,7 @@ Minister of Safety:
 Minister of Trade:
 Minister of Internal Affairs:
 Minister of Foreign Affairs:
-Minister of War:
+Minister of War:[nation]Insert cool name here[/nation]
 Military Leader:
 Political Leader:
 Regional Superpower:
@@ -19,5 +19,3 @@ Regional Superpower:
 4. NO PUPPETS
 5. Have fun.[/B][/u]
 [i][u][B]If you follow these rules everyone should get along just fine.[/B][/u][/i]
-
-[i][u][B]Coalition Leader: [/B][/u][/i] [nation]Dark Babylon[/nation]

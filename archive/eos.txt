@@ -20,7 +20,7 @@
 
 [b] Department of Foreign Relations: [/b] [i]Happening Now.[/i]
 
-[b] Department of State: [/b] [i]Happening Now.[/i]
+[b] Department of State: [/b] [nation=short]Kingston-Atlantis[/nation]
 
 [b] Department of Immigration: [/b] [i]Happening Now.[/i]
 

@@ -4,9 +4,9 @@ Whether you are a new nation out of the Pacific, looking for a place to call hom
 
 [B]Regional Administration:[/B]
 Union Secretary:[nation=short]Scananavia[/nation]
-Lord Protector General:TBA
-Lord Secretary of Justice:TBA
-Lord Secretary of State:TBA
+Lord Protector General:[nation=short]Alpacanzia[/nation]
+Lord Secretary of Justice:[nation=short]Borduriaa[/nation]
+Lord Secretary of State:[nation=short]Northern Wastelands[/nation]
 
 Our Colonies: [region]The Union[/region], [region]Pokemon League[/region], [region]The Unio Terrarum[/region]
 Military HQR: [region]Union Command[/region]

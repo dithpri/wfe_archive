@@ -1,8 +1,3 @@
-[b]HUZZAH! HUZZAH! HUZZAH! This region has been destroyed by the Pirates of Serjian Gulf!
+[b]Defence Status:[/b] [color=red]DEFSTAT 1[/color]
 
-Into the battle sailed the following ships:
-
-- The Black Pearl
-- The Tasty Burrito
-- The One-Eyed Snake
-- The Wizard&amp;#39;s Sleeve[/b]
+[b]Latest News:[/b] No lollygagging.
