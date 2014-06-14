@@ -1,8 +1,8 @@
 The northern lands of Esthar, which are guarded by a long range of mountains, is a safe haven for nations to thrive economically with its rich resources and independent population. 
 
-[b]Regional Overseer[/b] : [nation]Salikawood[/nation]
+[b]Regional Overseer[/b] : [nation]Salikawood[/nation]  - (Contact in regard to diplomacy, embassy request, etc)
 
-[b]Regional Commander[/b] : [nation]Silvanori[/nation]
+[b]Regional Commander[/b] : [nation]Silvanori[/nation] - (Contact in regard to military related matters)
 
 
 
@@ -10,3 +10,6 @@ The northern lands of Esthar, which are guarded by a long range of mountains, is
 
 [u][b]Region Info[/b][/u]
 [b]Currency[/b]: Gil
+[b]Borders[/b] : Closed
+[b]Government Type[/b] : Mixed. Mainly free lands.
+[b]Population[/b] : 47 Million+
