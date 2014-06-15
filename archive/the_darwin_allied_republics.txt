@@ -8,7 +8,7 @@
 [color=green]Former General of the Army: [nation=short+noflag]Matta[/nation][/color]
 [color=brown]MoRA: [nation=short+noflag]The Federal Republic of Simonia[/nation][/color]
 [color=green]MoFA: [nation=short+noflag]Fendon[/nation][/color]
-[color=brown]Former MoCaS: [nation=short++noflag]The Federal Republic of Simonia[/nation][/color]
+[color=brown]MoCaS: [nation=short+noflag]The Lightning Isles[/nation][/color]
 [color=green]Forum Mod: [nation=short+noflag]Pinatas[/nation][/color]
 [color=brown]RP Mentors: [nation=short+noflag]The United Beallian Republican States[/nation] and [nation=short+noflag]The Federal Republic of Simonia[/nation][/color]
 [color=green]Full Government List [url=http://www.nationstates.net/page=dispatch/id=175391]Here[/url][/color]

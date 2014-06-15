@@ -11,8 +11,8 @@ We follow the [i][url=http://en.wikipedia.org/wiki/Kokutai]Kokutai[/url][/i] (na
 [hr]
  
 [B]Prime Minister[/B]: [nation=short]Tatenokai[/nation]
-[B]Home Minister[/B]: [nation=short]Azumi[/nation]
-[B]Minister of Foreign Affairs[/B]: [nation=short]The Royal Sun[/nation]
+[B]Home Minister[/B]:
+[B]Minister of Foreign Affairs[/B]:
 [B]Minister of War[/B]:
 [B]Minister of Education[/B]: [nation=short]Great Korean Empire[/nation]
 

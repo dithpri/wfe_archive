@@ -22,7 +22,7 @@ Commissar of Foreign Affairs:
 [nation=short]Ruskslavia[/nation]
 
 Commissar of Internal Affairs: 
-[nation=short]The Balearic Archipelago[/nation]
+[i]Open[/i]
 
 Commissar of Education: 
 [nation=short]Unending Revolution[/nation][/b][/list]

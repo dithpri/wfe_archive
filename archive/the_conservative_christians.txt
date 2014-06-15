@@ -15,4 +15,5 @@ Secretary of defense: [nation=short]Liberty Christians[/nation]
 Secretary of state: [nation=short]Gosford[/nation]
 Map maker: [nation=short]Christian Guyana-Suriname[/nation].
 
-Bible verse: Proverbs 3:5-6: Trust in the LORD with all your heart and lean not on your own understanding;  in all your ways acknowledge him, and he will make your paths straight.
+Bible verse: Jeremiah 29:11
+For I know the plans I have for you,&#148; says the Lord. &#147;They are plans for good and not for disaster, to give you a future and a hope.
