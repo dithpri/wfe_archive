@@ -1,4 +1,4 @@
-Minister of Defense: [nation=shortname]The Land of Granola Popping[/nation]
+Minister of Defense: [nation=shortname]Gunstupia[/nation]
 Spiritual Advisor: [nation=shortname]KimJongJesus[/nation]
 Economy Supervisor: [nation=shortname]Economy Is Our Life[/nation]
 Navigator: [nation=shortname]Chloropleth[/nation]

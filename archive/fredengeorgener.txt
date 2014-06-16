@@ -1,8 +1,8 @@
-[nation]Georgenbild[/nation]: Georgenbild given command of Fredengeorgener forces in war on Maxtopia.
-[nation]Nordburgen[/nation]: Nordburgen patrol suffers heavy casualties, triggers increase in offensive raids.
+[nation]Georgenbild[/nation]: Georgenbild still top dog in region.
+[nation]Nordburgen[/nation]: Nordburgen holds strong second place to Georgenbild.
 [nation]Ouestlands[/nation]: Ouestlands boasts largest force in Maxtopia.
-[nation]Fredricksbild[/nation]: Fredricksbild launches New offensive campaign in hostile Maxtopian territory.
-[nation]Hoffton[/nation]: Hoffton soldiers train in Nordburgen.
-[nation]Fredengeorgener[/nation]: Capital defense expenditures surge.
+[nation]Fredricksbild[/nation]: Fredricksbild grabs third place for regional power.
+[nation]Hoffton[/nation]: Hoffton soldiers exchange fire with Maxtopian guard.
+[nation]Fredengeorgener[/nation]: Capital defense expenditures surge, earning fourth place.
 [nation]Stromburgen[/nation]: Stromburgen commits more resources to Maxtopian conflict.
 [nation]Acersia[/nation]: Acersia still reluctant to join war in Maxtopia, falls behind regionally.

@@ -3,12 +3,12 @@
 King: [nation]The Great European Commonwealth[/nation] 1st
 [color=blue]WA delegate:[/color] [nation]Celter[/nation] ENDORSE 2nd joint
 
-Prime Minister/WA Delegate Advisor: [nation]Theoniatium[/nation] 2nd joint Suspended
+Prime Minister/WA Delegate Advisor: [nation]Theoniatium[/nation] 2nd joint
 Deputy Prime Minister/ Deputy WA Delegate Advisor: [nation]The Kingdom of Charleston[/nation] 3rd
 Minister of Defense: [nation]Marmero[/nation]
 Minister of Commonwealth Affairs:
-Intelligence of the Commonwealth: [nation]Acrior[/nation]
-Chief Justice: [nation]Acrior[/nation]
+Intelligence of the Commonwealth: 
+Chief Justice: 
 
 Government seats http://www.nationstates.net/nation=the_great_european_commonwealth/detail=factbook/id=245383
 

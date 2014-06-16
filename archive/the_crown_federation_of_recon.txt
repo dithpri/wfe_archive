@@ -4,15 +4,15 @@
 [hr]
 
 [/b]
-[color=olive][b][u]Monarchy[/b][/u][/color]
+[color=olive][b][u]The Monarchy[/b][/u][/color]
 
 [color=olive][b]Emperor: [/b][nation=short]The Recon Empire[/nation]
 Senior Monarchs: 6
 Noble Monarchs: 15[/color]
 
-[color=maroon][b][u]Imperial Government[/u][/b][/color]
+[color=maroon][b][u]The Imperial Government[/u][/b][/color]
 [color=blue][b]High Chancellor Delegate: [/b][nation=short]Poretos[/nation]
-[b]L.Minister of Foreign Affairs: [/b]
+[b]L.Minister of Foreign Affairs: [/b][nation=short]Kainesia[/nation]
 [b]L.Minister of Interior Affairs: [/b][nation=short]Greater Banitia[/nation]
 [b]L.Minister of Media &amp;amp; Culture: [/b][nation=short]Poretos[/nation]
 [b]L.Minister of Regional Security: [/b][nation=short]Aemen[/nation]
@@ -21,4 +21,4 @@ Noble Monarchs: 15[/color]
 [b]Endorsement Cap: 4[/b][hr]
 
 [b][color=blue]BREAKING NEWS:[/color] 
-We&amp;#39;ve reached our 80-nation milestone today! 9/6/14 Congratulations! [/b]
+The first successful military campaign has been held! 15/06/14! [/b]

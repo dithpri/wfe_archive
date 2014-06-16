@@ -14,4 +14,6 @@ See [region=United States of America]
 
 The only embassy this region accepts is with: [region=The Mars]
 
-Currently the Region of [region=Japvia] has[/color][color=red] 1132 [/color][color=navy]Degrees of Separation from the Region of [region=Palmerston]. [region=The Capital] is the final Oracle region.[/list][/color]
+Currently [region=Japvia] has[/color][color=red] 1123 [/color][color=navy]Degrees of Separation from [region=Palmerston]. 
+[region=The Capital] is the final Oracle region.
+None of the Oracle Regions are accepting embassies.[/list][/color]

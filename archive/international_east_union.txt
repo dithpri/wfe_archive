@@ -6,18 +6,18 @@ Alert Level: [color=blue][i]Blue[/i][/color]
 
 [color=#088A08]King: [nation=short]People Who Stand United[/nation]
 
-Speaker: [nation=short]Munray[/nation]
+Speaker: [nation=short]POTA[/nation]
 
 Justice Officer: [nation=short]Shikah[/nation]
 
 Prime Minister: [nation=short]Aeternabilis[/nation]
 
-Minister of Foreign Affairs: 
+Minister of Foreign Affairs: [nation=short]Kobras XIV[/nation]
 
-Minister of Legal Affairs: [nation=short]Romano-Germanic Empire[/nation]
+Minister of Legal Affairs: 
 
-Minister of Defense:
+Minister of Defense: [nation=short]Romano-Germanic Empire[/nation]
 
-Minister of Internal Affairs:[/color] [nation=short]the first Carthage[/nation]
-[color=#0404B4][hr]RL Nation of The Week: Germany[/color]
+Minister of The Interior:[/color] [nation=short]the first Carthage[/nation]
+[color=#0404B4][hr]RL Nation of The Week: Poland[/color]
 [hr][i]Please join the [b][url=http://www.nationstates.net/page=un]WA[/url][/b] and endorse our delegate, [nation=short]Aeternabilis[/nation]. [/i] -Term ends June 16, 2014-
