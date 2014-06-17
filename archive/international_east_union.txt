@@ -14,8 +14,6 @@ Prime Minister: [nation=short]Aeternabilis[/nation]
 
 Minister of Foreign Affairs: [nation=short]Kobras XIV[/nation]
 
-Minister of Legal Affairs: 
-
 Minister of Defense: [nation=short]Romano-Germanic Empire[/nation]
 
 Minister of The Interior:[/color] [nation=short]the first Carthage[/nation]

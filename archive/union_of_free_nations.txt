@@ -8,7 +8,6 @@
 [nation=short]winovia[/nation] [b](Minister)[/b]
 [nation=short]baleanor[/nation]
 [b][u]Intelligence Directorate[/b][/u]
-[nation=short]cove island[/nation] [b](Director)[/b]
 [nation=short]tylannd[/nation]
 [b][u]Recruitment Bureau[/b][/u]
 [b]VACANT[/b]

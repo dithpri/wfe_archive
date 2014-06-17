@@ -1,0 +1,5 @@
+ [b][color=gold]This is [region]The Kingdom of France and Belgium[/region], a province of the [region]Principality of Valconesia[/region].[/color][/b]
+[hr]
+
+[b]King:[/b] Richard I ([nation=short]Prince Richard of Valconesia[/nation])
+[b]Queen (consort):[/b] Raven ([nation=short]The Raven Crown[/nation])

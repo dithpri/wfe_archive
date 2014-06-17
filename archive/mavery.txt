@@ -5,13 +5,13 @@ Greetings, fellow Maverians! This newly-founded region is based on the principal
 [u][b][color=red]Regional Positions:[/color][/b][/u]
 
 [color=orange]Founder[/color]: [nation]Caesland[/nation]
-[color=orange]WA Delegate[/color]: [nation]Bunkeranlage[/nation]
-[color=orange]President[/color]: [nation]Remondo[/nation]
+[color=orange]WA Delegate[/color]: [nation]Remondo[/nation]
+[color=orange]President[/color]: [nation]Bunkeranlage[/nation]
 [color=orange]Vice President[/color]: [nation]Lalaba[/nation]
 [color=orange]Recruiter[/color]: Open
-[color=orange]Cartographer[/color]: Open
+[color=orange]Cartographer[/color]: [nation]Remondo[/nation]
 [color=orange]Vexillologist[/color]: [nation]Remondo[/nation]
 
-[color=green]Please endorse Delegate [nation=short]Bunkeranlage[/nation] and officers [nation=short]Remondo[/nation] and [nation=short]Lalaba[/nation]
+[color=green]Please endorse Delegate [nation=short]Remondo[/nation] and officer [nation=short]Lalaba[/nation]
 [/color][url=http://www.scribblemaps.com/maps/view/eWhlXn8vT5/]Map[/url]
 [url=http://maveryregion.proboards.com]Our forum![/url]

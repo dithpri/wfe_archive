@@ -1,8 +1,14 @@
-[b]This region fell to the forces of [region]The North Pacific[/region]![/b]
+[b]This region fell to the forces of [region]The Eternal Knights[/region]!
 
-Using stealth, swiftness, and surprise, [b]The North Pacific Army[/b] infiltrated, attacked, and captured the region:
-[nation]Gladio[/nation]
-[nation]Aikkustan[/nation]
-[nation]Jagerton[/nation]
+In the midst of the night, The Eternal Knights infiltrated and attacked, leaving no survivors in the great purge:
+ 
+[nation=short]Sarthel[/nation]
+[nation=short]NoblePhnx[/nation][/b]
 
-[b]Hail TNP! hail NPA![/b]
+[b]While you&amp;#39;re at it, check these awesome regions!
+[region]Coalition of Freedom[/region]
+[region]Aura Hyperia[/region]
+[region]International East Union[/region]
+[region]Darwin Allied Republics[/region]
+[region]Sovereign Charter[/region]
+[region]United Nations Elite[/region][/b]

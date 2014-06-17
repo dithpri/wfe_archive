@@ -7,7 +7,7 @@
 [u]Government[/u]
 Delegate:[nation=short]Soviet East Japan[/nation](DKLF)
 Commissar of Foreign Affairs:[nation=short]4years[/nation](LO)
-Commissar of Internal Affairs: [nation=short]Parti Ouvrier[/nation](LO)
+Commissar of Internal Affairs: [nation=short]Parti Ouvrier[/nation](DKLF)
 Commissar of Defense:[nation=short]Custadia[/nation](DKLF)
 Commissar of Immigration:[nation=short]Marxist Kommunists[/nation](LO)
 Commissar of Education:[nation=short]Astreapolis[/nation](LO)

@@ -1,8 +1,14 @@
-[b][i]Our Government[/i][/b]
-Founder and Chancellor: [nation=short]Conservative Idealism[/nation]
-And Our President: [nation=short]Scheinfeld[/nation]
-Minister of Measure: [nation=short]The Seafield Islands IRU Senator[/nation]
-Minister of Mediation: [nation=short]The Inklings[/nation]
-Minister of Military: [nation=short]Bushterria[/nation]
+[b][i][u]Our Government[/u][/i][/b]
+[B]Executives:[/B]
+Chancellor [nation=short]Conservative Idealism[/nation]
+President [nation=short]Scheinfeld[/nation]
+[B]Ministers:[/B]
+[nation=short]The Seafield Islands IRU Senator[/nation] (Measure)
+[nation=short]The Inklings[/nation] (Mediation)
+[nation=short]Bushterria[/nation] (Military)
+[B]Senators:[/B]
+[nation=short]Humpheria in the IRU[/nation]
+[nation=short]New Hiederstan[/nation]
+[nation=short]The Seafield Islands IRU Senator[/nation]
 
 [b][i][url=http://www.nationstates.net/region=reato]Our Allies[/url] | [url=http://www.nationstates.net/page=dispatch/id=165961]Our Citizens[/url] | [url=http://www.nationstates.net/nation=international_republican_union/detail=factbook/id=164372]Our Constitution[/url] | [url=http://www.nationstates.net/nation=the_christian_society_of_engineers/detail=factbook]Our Museum[/url] | [url=http://www.nationstates.net/page=blank?lookup_newspaper=295]Our News[/url][/i][/b]

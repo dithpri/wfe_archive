@@ -3,9 +3,9 @@
 Whether you are a new nation out of the Pacific, looking for a place to call home, we welcome you. Welcome to the UFS!.[/color]
 
 [B]Regional Administration:[/B]
-Union Secretary:[nation=short]Scananavia[/nation]
-Lord Protector General:[nation=short]Alpacanzia[/nation]
-Lord Secretary of Justice:[nation=short]Borduriaa[/nation]
+Union Secretary:[nation=short]Narnifrey[/nation]
+Lord Protector General:[nation=short]Borduriaa[/nation]
+Lord Secretary of Justice:TBD
 Lord Secretary of State:[nation=short]Northern Wastelands[/nation]
 
 Our Colonies: [region]The Union[/region], [region]Pokemon League[/region], [region]The Unio Terrarum[/region]
