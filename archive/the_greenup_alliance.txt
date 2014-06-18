@@ -1,4 +1,9 @@
-[color=red]!huzzah![/color][color=blue]!huzzah![/color]
-[b]The Greenup Alliance thwarted the attempt of invasion from the black riders![/b]
-[color=green]The Greenup Alliance, founded by [b][u][nation]The holy empire of Alimprad[/nation][/u][/b], is a small region of fascist, right-wing nations that are proud of their anti-world assembly and anti-liberal views.
-Any nation wishing to join The Greenup Alliance must have there leader change there surname to Greenup.[/color]
+[b][color=gold]This region, [region]The Greenup alliance[/region], was successfully occupied by the Valconesian Navy![/color][/b]
+[hr]
+
+[b][color=gold]This region is now indivisible property of the [region]Principality of Valconesia[/region].[/color][/b]
+
+[b][color=gold]These seamen successfully fired their cannons:[/color][/b]
+[nation=short]Devonshire of the UK[/nation]
+[nation=short]United Geese[/nation]
+[nation=short]Westbury-on-Trym[/nation]
