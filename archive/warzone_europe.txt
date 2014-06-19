@@ -9,7 +9,7 @@
 [b]Internal Ministry:[/b] [nation]Angorath[/nation]
 [nation]Ancian[/nation]
 [nation]Hattersfeld[/nation]
-[b]Recruitment Ministry:[/b] Empty!
+[b]Recruitment Ministry:[/b] [nation]Khronion[/nation]
 [b]Defense Ministry:[/b] [nation]Ancian[/nation]
 [b]Lord High Commissioner:[/b] [nation]Frederick William II[/nation][/color]
 

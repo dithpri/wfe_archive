@@ -1,12 +1,14 @@
-[B]This is a IEU Military Base[/B]
+[B]This is an IEU Military Base[/B]
 
+[B][i]Chain of Command for the IEU Military:[/i][/B]
 
-[Color=blue]Chief of Army:[/color][Nation=short]Munray[/Nation]
+[Color=blue]King of the IEU:[/color][Nation=short]People Who Stand United[/Nation]
 
-[Color=Green]General:[/Color]
--[Nation=short]People Who Stand United[/Nation]
+[Color=Green]Prime Minister: [nation]Munray[/nation][/Color]
 
-[Color=gray]lieutenants:[/color]
+[Color=red]Minister of Defense: [Nation=short]Romano-Germanic Empire[/Nation][/color]
+
+[Color=gray]General:[/color]
 -[Nation=short]Aeternabilis[/Nation]
 
 [Color=red]Knights:[/color]
@@ -16,15 +18,17 @@
 -[Nation=short]Venta[/Nation]
 -[Nation=short]The Other Das Metro[/Nation]
 -[Nation=short]Violazed[/Nation]
+-[nation]The first Carthage[/nation]
+-[nation]Kobras XIV[/nation]
 [Hr]
 [Color=Violet]Liberations:&nbsp;15[/Color]
 [Hr]
 
 [Color=Red]Military Base #1[/Color]
 
-[Color=Red]Chiefs of the Base:[/Color]
+[Color=Red]Chief of the Base:[/Color]
 
-[Nation=short]Munray[/Nation]
+[Nation=short]Romano-Germanic Empire[/Nation]
 
 
 
@@ -39,11 +43,11 @@
 
 
 
-[Color=blue]Follow the next orders:[/color]
+[Color=blue]Standing Orders:[/color] 
 
 [Hr]
 [I]NEWS[/I]
--Elysium first and new military base, promises bright future.
+-Elysium is the IEU&amp;#39;s first military base, and was created to ensure the readiness of the IEU military in times of war.
 [hr]
 [B]Base security level:[/B] [color=yellow]LOW[/color]
 [B]IEU Alert Level: [Color=blue]Blue[/Color]
@@ -52,4 +56,3 @@ DO NOT POST SENSITIVE INFORMATION ON THE RMB[/B]
 
 
 [I]&amp;quot;The Hounds of Justice&amp;quot;[/I]
-

@@ -2,7 +2,7 @@
 
 We are a economic and military union of nations from across the globe, where the safety of your nation, is guaranteed by other member nations.
 
-[b][u]News flash:[/u] Regional market slump by 2%. Economists suggest higher consumer consumption of pie.[/b]
+[b][u]News flash:[/u] A new regional president and vice president election will be held soon.[/b]
 
 President: [nation]Rivendia[/nation]
 Vice President: [nation]Alfheimus[/nation]
@@ -11,4 +11,4 @@ Ministry of Internal Affairs: [nation]Brustin[/nation]
 Ministry of Immigration: [nation]Gerendayl[/nation]
 Ministry of Regional Defense: [nation]Inopus[/nation]
 
-Please telegram [nation]Retiva[/nation] if you wish to join.
+Our borders are currently closed off to outsiders due to a possible incursion from the Black Raiders, as it has already happened numerous times.
