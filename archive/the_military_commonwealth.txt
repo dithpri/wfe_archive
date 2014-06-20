@@ -8,7 +8,7 @@ Deputy Prime Minister/ Deputy WA Delegate Advisor: [nation]The Kingdom of Charle
 Minister of Defense: [nation]Marmero[/nation]
 Minister of Commonwealth Affairs:
 Intelligence of the Commonwealth: 
-Chief Justice: 
+Chief Justice: [nation]Thias[/nation]
 
 Government seats: http://www.nationstates.net/nation=the_great_european_commonwealth/detail=factbook/id=245383
 

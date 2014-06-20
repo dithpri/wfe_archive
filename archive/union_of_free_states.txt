@@ -8,5 +8,5 @@ Lord Protector General:[nation=short]Borduriaa[/nation]
 Lord Secretary of Justice:TBD
 Lord Secretary of State:[nation=short]Northern Wastelands[/nation]
 
-Our Colonies: [region]The Union[/region], [region]Pokemon League[/region], [region]The Unio Terrarum[/region]
+Our Colonies:  [region]Pokemon League[/region], [region]The Unio Terrarum[/region]
 Military HQR: [region]Union Command[/region]

@@ -2,7 +2,7 @@
 [b]Viceroy[/b]: [nation=short]The Chommell Sector[/nation]
 [b]Praetor[/b]: [nation=short]Vaculatestar64[/nation]  [b]Vizier[/b]:[nation=short]Darth Tenebris[/nation][hr]
 [b][u]Imperial Senate[/u][/b] 
-[b]Chancellor[/b]: [nation=short]The Arkanis Sector[/nation] (Next Election October 2014)
+[b]Interim Chancellor[/b]: [nation=short]Vaculatestar64[/nation] (Next Election TBA)
 -[b]Vice Chancellor[/b]:  [nation=short]Alagaeia[/nation]
 -[b]Representative[/b]: [nation=short]The Republic of Gaben[/nation] [hr]
 [b][u]Supreme Court[/u][/b] 

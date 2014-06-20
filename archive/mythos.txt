@@ -11,4 +11,4 @@
 
 [/b]
 
-Languages;[color=darkred]Drakkish[/color],[color=green]Spanish[/color], [color=indigo]Punjabi[/color].[/b]
+Languages;[b][color=darkred]Drakkish[/color],[color=green]Spanish[/color], [color=indigo]Punjabi[/color].[/b]

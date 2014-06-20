@@ -3,6 +3,9 @@
 
 [b][color=gold]This region is now indivisible property of the [region]Principality of Valconesia[/region].[/color][/b]
 
-[b][color=gold]These seamen successfully fired their cannons:[/color][/b]
+[b][color=gold]These seamen successfully fired their cannons upon the enemy:[/color][/b]
 [nation=short]Devonshire of the UK[/nation]
 [nation=short]United Geese[/nation]
+[nation=short]Ricardin[/nation]
+[nation=short]VuV Armee[/nation]
+[nation=short]Westbury-on-Trym[/nation]
