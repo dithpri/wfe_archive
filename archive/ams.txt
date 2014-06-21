@@ -1,10 +1,4 @@
-[b]This region fell to the forces of [region]The Eternal Knights[/region]!
+[color=red] [u]Advanced Mercenary Services[/u] [/color]
 
-In the midst of the night, The Eternal Knights infiltrated and attacked, leaving no survivors in the great purge:
-[nation=short]Noblephnx[/nation]
-[nation=short]Nepthalia[/nation]
-[nation=short]The Black Angel of Death[/nation]
-[nation=short]Vom Leben[/nation]
-[nation=short]Kuichi[/nation]
-[nation=short]Canopa[/nation]
-[/b]
+[Color=orange] [i]Currently not in war[/i] [/color]
+

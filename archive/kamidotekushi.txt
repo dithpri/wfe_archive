@@ -1,20 +1,17 @@
 Regional Government
 ---------------------------------
-[color=red]President:[/color]
-
-[color=orange]Chancellor:[/color]
+[b][color=orange]Party In Power (Presidential Elected Party):[/color][/b] The Barbradian National Socialist Party
+[color=red]President:[/color][nation=short]The Barbradian Republic[/nation]
+[color=orange]Chancellor:[/color][nation=short]Kazadure[/nation]
 
 [b]Minsters:[/b]
 
-[Color=blue]Minister of Defense-[/color]
-
+[Color=blue]Minister of Defense-[/color][nation=short]Makawaka[/nation]
 [Color=green]Minister of Intelligence-[/color]
-[Color=orange]Minister of Foreign Affairs-[/color]
-
-[Color=yellow]Minister of Culture-[/color]
-[Color=blue]Minister of Justice-[/color]
+[Color=orange]Minister of Foreign Affairs-[/color][nation=short]Community of Free peoples[/nation]
+[Color=red]Minister of Culture-[/color][nation=short]grandeterre[/nation]
+[Color=blue]Minister of Justice-[/color][nation=short]The south Japanese empire[/nation]
 
 ---------------------------------------------------
 Laws Recently Made:
-
 

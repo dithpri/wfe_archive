@@ -6,7 +6,7 @@
 
 [color=brown][i]It is an allegory telling of the journey of Dante through Hell, guided by the Roman poet Virgil. In the poem, Hell is depicted as nine circles of suffering located within the Earth. Allegorically, the Divine Comedy represents the journey of the soul towards God, with the Inferno describing the recognition and rejection of sin.[/i][/color]
 [hr]
-[b]Circles of Hell:[/b]
+[color=brown][b]Circles of Hell:[/b][/color]
 
 [b][region]The Dark Wood of Error[/region]
 [region]The Vestibule[/region]

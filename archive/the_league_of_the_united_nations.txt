@@ -4,8 +4,8 @@
 [b][color=gold]This region is now indivisible property of the [region]Principality of Valconesia[/region].[/color][/b]
 
 [b][color=gold]These seamen successfully fired their cannons upon the enemy:[/color][/b]
-[nation=short]Devonshire of the UK[/nation]
+HRM Richard Middleton ([nation=short]Devonshire of the UK[/nation])
 [nation=short]United Geese[/nation]
-[nation=short]Ricardin[/nation]
-[nation=short]VuV Armee[/nation]
-[nation=short]Westbury-on-Trym[/nation]
+HRH Richard M. Middleton ([nation=short]Ricardin[/nation])
+Armin von St.-Gallen ([nation=short]VuV Armee[/nation])
+Oscar Thompson ([nation=short]Westbury-on-Trym[/nation])
