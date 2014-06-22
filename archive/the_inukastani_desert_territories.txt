@@ -6,9 +6,9 @@ Independent nations of the inukastani desert territories, are passive if left un
 Regional Government:
 
 Leader: [nation]Inukastan[/nation]
-Co-Leader: [nation]FCPORTOROCKS[/nation]
-Minister of Defence: [nation]The Overpowered Nations[/nation]
+Co-Leader: [nation]The overpowered nations[/nation]
+Minister of Defence: [nation]Black Dagger Contractors[/nation]
 Minister of internal affairs: [nation]Ebar[/nation]
-Minister of Foreign affairs: [nation]Speharian Empire[/nation] 
+Minister of Foreign affairs: open
 
 

@@ -1,6 +1,6 @@
 -Prime Minister-                     [nation]Viviatopia[/nation]
 -Minister of Defense-              [nation]Whitestone[/nation] 
--Minister of Justice-               [nation]Dollarsigndom[/nation]
+-Minister of Justice-         
 -Minister of Foreign Affairs-    [nation]Augmentis[/nation]
 -Minister of Education-          [nation]The Grand Duchy of Orkney[/nation]  
 -Minister of Propoganda- 
@@ -8,5 +8,6 @@
  
 Anyone want to run for Minister of Finance? 
 Anyone want to run for Minister of Propoganda? 
+Anyone want to run for Minister of Justice?
 Good luck, and may the odds be ever in your favor. 
 

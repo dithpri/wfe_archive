@@ -2,9 +2,8 @@
 
 [color=blue]Join the[/color] [url=http://www.nationstates.net/page=un][color=orange][B]WORLD ASSEMBLY[/B][/color][/url]
 
-[color=blue]King[/color]: [nation]Eowyth[/nation]
 [color=red]Elector[/color]: [nation=short]United Republic of Swellvania[/nation]
-[color=green]Military Commander[/color]: [nation=short]Stretchington[/nation]
+[color=green]Military Commander[/color]: vacant
 [color=purple]Minister of Foreign Affairs[/color]: [nation=short]Eowyth[/nation] &amp;amp; [nation=short]Hung Kung[/nation]
 [color=orange]Economic Advisor[/color]: [nation=short]Eowyth Union Economic Ministry[/nation]
 [color=navy]Citizen Authority[/color]: [nation=short]EUCA[/nation]

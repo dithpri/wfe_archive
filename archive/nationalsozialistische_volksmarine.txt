@@ -1,6 +1,44 @@
 [b][color=#a60000][region]Nationalsozialistische Volksmarine[/region] are the proud National Socialist sailors of [region]Nationalsozialistische Volksstaaten[/region][/color][hr][u]Jurisdictional Dominance:[/u]
 
-Oceans:
-Seas:[/b]
+Oceans 
+[region]Southern Ocean[/region]
+[region]North Pacific Ocean[/region]
 
-information pending
+Seas 
+[region]Balearic Sea[/region]
+[region]Bering Sea[/region]
+[region]Chukchi Sea[/region]
+[region]Greenland Sea[/region]
+[region]East Siberian Sea[/region]
+[region]English Channel[/region]
+[region]Kara Sea[/region]
+[region]Persian Gulf[/region]
+[region]The Persian Gulf[/region]
+[region]Tyrrhenian Sea[/region]
+[region]Strait of Otranto[/region]
+[region]Suez Canal[/region]
+[region]Philippine Sea[/region]
+[region]Arabian Sea[/region]
+[region]Sea of Okhotsk[/region]
+[region]Argentine Sea[/region]
+[region]The Baltic Sea[/region]
+[region]Sea of Aland[/region]
+[region]White Sea[/region]
+[region]Sea of Japan[/region]
+
+Ports 
+[region]Wilhelmshaven[/region]
+[region]Bremerhaven[/region]
+[region]Gotenhafen[/region]
+[region]Sevastopol[/region]
+[region]Odessa[/region]
+[region]Neuschwabenland[/region]
+[region]Brest[/region]
+[region]Kiel[/region]
+[region]Freie und Hansestadt Hamburg[/region]
+[region]Stettin[/region]
+[region]Rostock[/region]
+
+Aircraft Carriers [nation=short]Marshal Petain R91[/nation]
+Missile Cruisers 
+U Boats [nation]U 122[/nation][/b]
