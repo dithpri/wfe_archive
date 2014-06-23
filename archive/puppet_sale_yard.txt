@@ -1,1 +1,3 @@
 We have currently merged with [region]puppet storage II[/region].
+
+This use to house 20 or so puppets.

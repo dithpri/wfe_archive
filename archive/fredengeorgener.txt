@@ -1,8 +1,8 @@
 [nation]Georgenbild[/nation]: Georgenbild still top dog in region.
-[nation]Nordburgen[/nation]: Nordburgen holds strong second place to Georgenbild.
-[nation]Ouestlands[/nation]: Ouestlands boasts largest force in Maxtopia.
-[nation]Fredricksbild[/nation]: Fredricksbild grabs third place for regional power.
-[nation]Hoffton[/nation]: Hoffton soldiers exchange fire with Maxtopian guard.
-[nation]Fredengeorgener[/nation]: Capital defense expenditures surge, earning fourth place.
+[nation]Nordburgen[/nation]: Nordburgen defense nearly matches Georgenbild; still no.2 for now.
+[nation]Ouestlands[/nation]: Ouestlands General Otto Briggs directs coalition forces.
+[nation]Fredricksbild[/nation]: Fredricksbild helps Georgenbild recover Embassy in Maxtopian capital.
+[nation]Hoffton[/nation]: Hoffton awed by Georgenbild forces in Maxtopia.
+[nation]Fredengeorgener[/nation]: Arms race escalates between [b]Fredengeorgener, Fredricksbild, and Hoffton; Georgenbild, Nordburgen[/b] still far in the lead.
 [nation]Stromburgen[/nation]: Stromburgen commits more resources to Maxtopian conflict.
-[nation]Acersia[/nation]: Acersia still reluctant to join war in Maxtopia, falls behind regionally.
+[nation]Acersia[/nation]: Acersia begins military expansion.
