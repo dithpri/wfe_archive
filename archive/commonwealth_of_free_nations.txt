@@ -13,7 +13,7 @@
 [nation=short]Liberated Democratic Republics[/nation] [b]([color=red]C[/color])[/b]
 
 [b]Minister of Foreign Affairs:[/b] 
-[nation=short]Microsoft Corp[/nation] [b]([color=purple]I[/color])[/b]
+[nation=short]Cervayorum[/nation] [b]([color=purple]I[/color])[/b]
 
 [b]Minister of Internal Affairs:[/b] 
 [nation=short]Vladovaskia[/nation] [b]([color=blue]DS[/color])[/b]

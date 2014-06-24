@@ -10,7 +10,7 @@ Commissar of Foreign Affairs:[nation=short]4years[/nation](LO)
 Commissar of Internal Affairs: [nation=short]Parti Ouvrier[/nation](DKLF)
 Commissar of Defense:[nation=short]Custadia[/nation](DKLF)
 Commissar of Immigration:[nation=short]Marxist Kommunists[/nation](LO)
-Commissar of Education:[nation=short]Astreapolis[/nation](LO)
+Commissar of Education:[nation=short]Astreapolis[/nation](DKLF)
 Editor in Chief: [nation=short]4years[/nation](LO)[/color]
 
 [hr][url=http://www.marxists.org/archive/][color=red]Marxists Internet Archive[/color][/url] &amp;lt;--- left-wing literature online

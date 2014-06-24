@@ -1,3 +1,3 @@
-Main nations can vote in any regional poll. Alts can not vote. Log with Border Control. False reporting equals kick and/or ban.
+Main nations can vote in any regional poll. Alts can not vote and must be logged with Border Control, [nation=desdoulas]. False reporting equals kick and/or ban.
 Laws can be proposed. Officials can be nominated and voted upon. 
-Founder and Delegate must agree to veto any legislation or appointment. A unanimous vote will pass and can be subject to editorial review but not be vetoed.
+Founder and Delegate must agree to veto any legislation or appointment. A unanimous vote will pass and can be subject to editorial review but not veto.
