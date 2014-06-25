@@ -7,7 +7,7 @@ Regional Government
 [b]Minsters:[/b]
 
 [Color=blue]Minister of Defense-[/color][nation=short]Makawaka[/nation]
-[Color=green]Minister of Intelligence-[/color]
+[Color=green]Minister of Intelligence-[/color][nation=small]hyrei[/nation]
 [Color=orange]Minister of Foreign Affairs-[/color][nation=short]Community of Free peoples[/nation]
 [Color=red]Minister of Culture-[/color][nation=short]grandeterre[/nation]
 [Color=blue]Minister of Justice-[/color][nation=short]The south Japanese empire[/nation]

@@ -12,7 +12,7 @@ Supreme Court: [nation]Empire of Venray[/nation]
 GOVRNMENT FUNCTIONS
 
 Minister of Justice: 
-Minister of Home Affairs:[nation]Orange-Bourgogne[/nation]
+Minister of Home Affairs:
 Minister of Foreign Affairs: [nation]Orange-Habsburg[/nation]
 Minister of Economy:
 

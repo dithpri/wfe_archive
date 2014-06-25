@@ -1,3 +1,10 @@
-Novaroskiya is a very diverse and very active region set in the post-apocalyptic year of 2114. We proudly host monthly elections, our very own International Incidents role playing game, and a world map featuring all of the nations of Novaroskiya.
+[u]Regional security[/u]
+The code below shows whether or not Novaroskiya&amp;#39;s borders are open to newcomers.
+[color=green][b]Green[/b][/color]-Novaroskiya&amp;#39;s borders are open to all nations
+[color=yellow][b]Yellow[/b][/color]-Novaroskiya&amp;#39;s borders are open, but newcomers are viewed with suspicion by the regional government
+[color=orange][b]Orange[/b][/color]-Novaroskiya&amp;#39;s borders are open, but nations that arrive within a short time frame of each other are suspected of being invaders and ejected
+[color=red][b]Red[/b][/color]-Novaroskiya is in lockdown following a recent invasion or threat
 
-Novaroskiya also has close ties to the region of [region]Sudansky[/region], a military region dedicated to removing invaders from Novaroskiya and her allies, and retaliating against invading regions.
+[b]Current status:[/b] [color=Yellow][b]Yellow[/b][/color]
+[hr]
+[b]Regional news:[/b] (June 24, 2014) The regional rules, as well as all dispatches regarding International Incidents and elections have been revitalized. A foreign policy has been implemented.

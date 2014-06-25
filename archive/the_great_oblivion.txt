@@ -1,11 +1,25 @@
-[b][color=#b31b1b]As the sun peaked over the horizon, [region]The Eternal Military Pact[/region] ventured forth, leaving no suvivors in the name of [u]peace[/u]:
+[b][color=#b31b1b]We are a region welcome to all who choose to join, [region]The Great Oblivion[/region] where we are equal and all value our strength and independence to create [u]peace[/u]:
+
+Founder: 
+[nation=short]Baad Koshia[/nation]
+
+WA Delegate:
 
 Nations:
-[nation=short]The Black Angel Of Death[/nation]
-[nation=short]NoblePhnx[/nation]
-[nation=short]General King[/nation]
+[nation=short]Fedorana[/nation]
+[nation=short]Khgana[/nation]
+[nation=short]FuryKnight28[/nation]
+[nation=short]General King IX[/nation]
+[nation=short]sanadiceuw[/nation]
 
-
-Regions:
+Regional Embassies:
 [region]The Dark Frontier[/region]
-[region]The Eternal Knights[/region][/b][/color]
+[region]The Eternal Knights[/region]
+[region]Trainsylvinea[/region]
+[region]The Alliance of Dictators[/region]
+[region]United Dictatorships[/region]
+[region]Imperium of the Wolf[/region]
+[region]Nations of Libertas[/region]
+[region]The Military Commonwealth[/region]
+[region]The Federation of the AMERICAS[/region]
+[region]The Illuminati[/region][/b][/color]
