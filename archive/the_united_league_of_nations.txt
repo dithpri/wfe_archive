@@ -4,7 +4,7 @@ Vice-Delegate: [nation=short]Liberorum[/nation] - [color=blue]CP[/color]
 Speaker of the Assembly: [nation=short]Basra[/nation] - [color=red]LSP[/color]
 Minister of Interregional Relations: [nation=short]Ghondra[/nation] - [color=orange]PMP[/color]
 Minister of Defense: [nation=short]Plotus[/nation] - [color=gold]PP[/color]
-Minister of League Affairs: OPEN
+Minister of League Affairs:[nation]tumbra[/nation]
 Minister of Justice: [nation=short]Verloren[/nation] - LSP
 Chief of Police: [nation=short]Mantura Craminialand[/nation] - [color=red]LSP[/color]
 Dungeon Master: OPEN

@@ -1,6 +1,6 @@
-[b]Defence Status:[/b] [color=blue]DEFSTAT 4[/color]
+[b]Defence Status:[/b] [color=Green]DEFSTAT 5[/color]
 
-[b]Latest News:[/b] IUSR no longer a Cor region. Or the only Cor region. Whatever. 
+[b]Latest News:[/b] -
 [hr]
 
 [b]Federal Socialist Republic[/b]
@@ -10,7 +10,4 @@
 
 [b]Socialist Republics[/b]
 
-[nation]Belakras[/nation]
-[nation]Kavaii[/nation]
-[nation]Pribaltika[/nation]
-[nation]Yenitsya[/nation]
+[nation]Czervenika[/nation]

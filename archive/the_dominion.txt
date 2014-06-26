@@ -1,5 +1,5 @@
-[b][color=fire]&laquo;[/color] The Dominion [color=fire]&raquo;[/color][/b]
-[i]Imperial Territory of Romindia[/i]
+[b][color=firebrick]&laquo;[/color] The Dominion [color=firebrick]&raquo;[/color][/b]
+[color=firebrick][i]Imperial Territory of Romindia[/i][/color]
 
 Welcome to The Dominion! Over the years, The Dominion has come and gone, going through many phases and incarnations. Currently, this region is the home region of [b][nation=shortnoflag]Romindia[/nation][/b], although nations that pass along are welcome to stay here. Once you have entered this region, you are entering Romindian territory.
 
@@ -8,4 +8,4 @@ Welcome to The Dominion! Over the years, The Dominion has come and gone, going t
 
 [b]Capitol:[/b] [nation=short]Muziris[/nation]
 
-[hr]&laquo; | [url=http://www.nstracker.net/regions?region=the+dominion]NSTracker[/url] | [url=http://www.broomdces.com/nseconomy/regions.php?region=the+dominion]NSEconomy[/url] | [url=http://nsdossier.texasregion.net/history.aspx?region=the%20dominion&amp;amp;type=Exact&amp;amp;group=region&amp;amp;start=&amp;amp;end=]NSHistory[/url] | [url=http://forum.nationstates.net/viewtopic.php?f=15&amp;amp;t=269464]NS++[/url] | &raquo;[hr]
+[hr][b]&laquo; | [url=http://www.nstracker.net/regions?region=the+dominion][color=firebrick]NSTracker[/color][/url] | [url=http://www.broomdces.com/nseconomy/regions.php?region=the+dominion][color=firebrick]NSEconomy[/color][/url] | [url=http://nsdossier.texasregion.net/history.aspx?region=the%20dominion&amp;amp;type=Exact&amp;amp;group=region&amp;amp;start=&amp;amp;end=][color=firebrick]NSHistory[/color][/url] | [url=http://forum.nationstates.net/viewtopic.php?f=15&amp;amp;t=269464][color=firebrick]NS++[/color][/url] | &raquo;[/b][hr]

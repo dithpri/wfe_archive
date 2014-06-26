@@ -4,8 +4,8 @@
 
 [hr][hr]
 
-Kaiser: [nation=short]Cerebella[/nation]
-Reich Chancellor: [nation=short]The New Inquisitors[/nation]
+K&ouml;nig: [nation=short]Cerebella[/nation]
+Minister-President: [nation=short]MagentaFairy[/nation]
 
 [hr][hr]
 
@@ -15,4 +15,4 @@ Embassies will only be accepted if your region has one on our forums
 
 [hr][hr]
 
-[color=red]Regional News: Former Kaiserin of TNI, Viktoria von Hohenzollern, elected Reich Chancellor. Current Kaiser, [nation=short+noflag]Cerebella[/nation], introduces legislation to Reichstag for theme change. [/b][/color]
+[color=red]Regional News: [nation=short]MagentaFairy[/nation] new Minister-President. Privy Council Amendment going through the Diet [/b][/color]

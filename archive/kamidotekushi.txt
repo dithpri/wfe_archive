@@ -2,7 +2,9 @@ Regional Government
 ---------------------------------
 [b][color=orange]Party In Power (Presidential Elected Party):[/color][/b] The Barbradian National Socialist Party
 [color=red]President:[/color][nation=short]The Barbradian Republic[/nation]
+[color=Blue]President Adviser:[/color][nation=small]Hyrei[/nation]
 [color=orange]Chancellor:[/color][nation=short]Kazadure[/nation]
+[color=green]Chancellor Adviser[/color]
 
 [b]Minsters:[/b]
 
@@ -12,6 +14,10 @@ Regional Government
 [Color=red]Minister of Culture-[/color][nation=short]grandeterre[/nation]
 [Color=blue]Minister of Justice-[/color][nation=short]The south Japanese empire[/nation]
 
+
+[b]Regional Monarchy[/b]
+
+[color=blue]Supreme Leader:[/color][nation=short]Hyeri[/nation]
+
 ---------------------------------------------------
 Laws Recently Made:
-
