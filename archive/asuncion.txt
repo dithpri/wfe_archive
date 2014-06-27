@@ -1,1 +1,3 @@
-[b][color=darkblue]Capital City of [region]Paraguay[/region][/color][/b]
+[b][color=darkblue]Capital de [region]Paraguay[/region][/color][/b].
+
+[B]This region is temporarily protected by [region]Republica Federativa Do Brasil[/region] and [region]Argentina[/region][/B]

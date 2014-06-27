@@ -5,13 +5,15 @@
 [b][color=gold]The Supreme Overlord-[/color] [nation=short]The Black Angel Of Death[/nation]
 [color=silver]Galactic General[/color]
 [color=bronze]Lord General[/color] 
-[color=bronze]Lord Genera[/color] 
-[color=purple]General[/color]
+[color=bronze]Lord General[/color] 
 [color=purple]General[/color]
 [color=purple]General[/color]
 [color=purple]General[/b][/color]
 
+[u][b][color=darkred]Non-Military Ranks[/color][/b][/u]
+
 [b][color=darkblue]Chief Recruitment Officer[/color]-Currently Vacant 
 [color=darkblue]Chief Military Adviser[/color]-Currently Vacant 
 [color=darkblue]Chief Diplomat[/color]-Currently Vacant
-[color=darkblue]Chief Press Officer[/color]-Currently Vacant[/b]
+[color=darkblue]Chief Press Officer[/color]-Currently Vacant
+[color=darkblue]Chief Fourm Officer[/color]-Currently Vacant[/b]

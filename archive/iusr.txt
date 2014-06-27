@@ -1,3 +1,5 @@
+[b][color=red]NOTICE[/color]: ALL NATIONS PLEASE JOIN THE WORLD ASSEMBLY. THIS IS COMPULSORY, AS TO PREVENT PUPPETRY.[/b] 
+
 [b]Defence Status:[/b] [color=Green]DEFSTAT 5[/color]
 
 [b]Latest News:[/b] -
@@ -10,4 +12,9 @@
 
 [b]Socialist Republics[/b]
 
+[nation]Biel-Tan[/nation]
 [nation]Czervenika[/nation]
+[nation]Krajstali[/nation]
+[hr]
+
+[url=http://s28.postimg.org/iniyh4unv/Map.png]World Map[/url] (26/6/14)

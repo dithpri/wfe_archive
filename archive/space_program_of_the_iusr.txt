@@ -1,4 +1,4 @@
-[i]The IUSR Space Program was established on October 9, 2013. Since then, a single Lunar Base administrated by nations of the [region]IUSR[/region] has been established and used for research into the Moon, various sciences, and observation of the planets [url=http://www.nationstates.net/nation=smirnov/detail=factbook/id=247428]Cor[/url] (home planet), [url=http://www.nationstates.net/nation=smirnov/detail=factbook/id=247431]Yarovit[/url], and [url=http://www.nationstates.net/nation=smirnov/detail=factbook/id=247429]Mokosh[/url].[/i]
+[i]The IUSR Space Program was established on October 9, 2013. Since then, a single Lunar Base administrated by nations of the [region]IUSR[/region] has been established and used for research into the Moon, various sciences, and observation of the planets [url=http://www.nationstates.net/nation=smirnov/detail=factbook/id=247428]Zemlya[/url] (home planet), [url=http://www.nationstates.net/nation=smirnov/detail=factbook/id=247431]Yarovit[/url], and [url=http://www.nationstates.net/nation=smirnov/detail=factbook/id=247429]Mokosh[/url].[/i]
 
 [hr]
 
@@ -10,4 +10,4 @@
 
 [b]Lunar Bases[/b]
 
-[nation]Smirnov[/nation] - [i][nation=short+noflag]Krasniya[/nation]n Administration; [nation=short+noflag]Czervenika[/nation], [nation=short+noflag]Krajstali[/nation], [nation=short+noflagt]Belakras[/nation].[/i]
+[nation]Smirnov[/nation] - [i][nation=short+noflag]Krasniya[/nation]n Administration; [nation=short+noflag]Krasniya[/nation]n and [nation=short+noflag]Czervenika[/nation]n Crew.[/i]

@@ -2,8 +2,8 @@
 1) [nation=short]The Peoples Federal Empire[/nation]
 2) [nation]The West Atlantic[/nation]
 3) [nation]IGI[/nation] 
-4) [nation]Annoying Nasal Drip[/nation]
-5) [nation]Dakergrad[/nation]
+4) [nation]Dakergrad[/nation]
+5) Vacant
 
 [b]Secretary of War:[/b] [nation]IGI[/nation]
 [b]Secretary of Recruitment:[/b] Vacant
