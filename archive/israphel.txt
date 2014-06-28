@@ -1,4 +1,4 @@
-[b]This region fell to the forces of [region]The Eternal Knights[/region]!
+[b]This region fell to the forces of [region]The Eternal Knights[/region] once again!
 
 In the midst of the night, The Eternal Knights infiltrated and attacked, leaving no survivors in the great purge:
 [nation=short]Noblephnx[/nation]
@@ -6,7 +6,8 @@ In the midst of the night, The Eternal Knights infiltrated and attacked, leaving
 [nation=short]Unified Protectors[/nation]
 [nation=short]Kuichi[/nation]
 [nation=short]Darkrati[/nation]
+[hr][nation=short]Unified Protectors[/nation]
+[nation=short]Riotopia[/nation]
 [/b]
-
 
 

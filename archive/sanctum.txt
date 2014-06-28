@@ -10,3 +10,12 @@ Sanctum is a complex of Catholic nations under the rule of His Imperial Majesty 
 [b]Supreme Adjudicator:[/b]
 
 [hr]
+
+[b]Defense Readiness Condition (DEFCON) Key[/b]
+
+[color=red][b]DEFCON 4[/b][/color] - War
+[color=orange][b]DEFCON 3[/b][/color] - Threatened (Lockdown)
+[color=yellow][b]DEFCON 2[/b][/color] - Watchful
+[color=green][b]DEFCON 1[/b][/color] - Safe
+
+[b]Current:[/b]  [color=red][b]DEFCON 4[/b][/color]

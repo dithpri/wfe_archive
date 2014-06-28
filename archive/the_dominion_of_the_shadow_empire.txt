@@ -1,7 +1,13 @@
-The Dominion of the Shadow Empire is a military- industrial region.
+[color=purple]The Dominion of the Shadow Empire[/color] is a military- industrial region.
 
-Leader: [nation]The Holy Shadow Empire[/nation]
+[color=purple]Leader and Master: [nation]The Holy Shadow Empire[/nation][/color]
 
-Secretary of Foreign Affairs: [nation]Imperium Romanum I[/nation]
+[color=purple]Secretary of Foreign Affairs (Delegate): [nation]Imperium Romanum I[/nation][/color]
 
-General of Defense: [nation]The Plains of Despair[/nation]
+[color=purple]General of Defense: [nation]The Plains of Despair[/nation][/color]
+
+[color=purple]Waste Management: [nation]Germandy 2[/nation][/color]
+
+[color=purple]Ministry of Health: [nation]Saignant Empire[/nation][/color]
+
+[color=red](Please consult the appropriate person with any issues you have)[/color]

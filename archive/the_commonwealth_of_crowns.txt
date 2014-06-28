@@ -6,7 +6,7 @@
 Secretary-General: [nation=short]The Folkelands[/nation]
 Chancellor: [nation=short]Torvalyn[/nation]
 Speaker: [nation=short]Ethopolis[/nation]
-Prosecutor-General: Elections in Progress
+Prosecutor-General: [nation=short]San Monteriano[/nation]
 High Commander: TBD
 [hr]
 [b]The Executive Cabinet[/b]
@@ -16,9 +16,9 @@ Minister of Foreign Affairs: TBD
 Minister of Culture: TBD
 [hr]
 [b]The VI High Court[/b]
-Chief Justice: TBD
-Justice: TBD
-Justice: TBD
+Chief Justice: [nation=short]Wyethalania[/nation]
+Justice: [nation=short]The Antarctica Territories[/nation]
+Justice: [nation=short]Sainte Bourgogne[/nation]
 [hr]
 [b]Regional Departments[/b]
 Cartographer: [nation=short]Herzangia[/nation]
