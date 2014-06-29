@@ -3,8 +3,8 @@
 Chancellor [nation=short]Conservative Idealism[/nation]
 President [nation=short]Bushterria[/nation]
 [B]Ministers:[/B]
-TBD (Measure)
-TBD (Mediation)
+[nation=short]Humpheria in the IRU[/nation] (Measure)
+[nation=short]Scheinfeld[/nation] (Mediation)
 TBD (Military)
 [B]Senators:[/B]
 [nation=short]Humpheria in the IRU[/nation]

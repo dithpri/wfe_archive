@@ -1,6 +1,8 @@
-[b]This region fell to the forces of [region]The Eternal Knights[/region]!
+[b][color=red]This region has been taken by the imperial army of [region]The Dark Frontier[/region][/color][/b]
 
-In the midst of the night, The Eternal Knights infiltrated and attacked, leaving no survivors in the great purge:
+[b][color=red]This region was reduced to a ocean of flames by the following imperial troops[/color]
+
 [nation=short]The Black Angel Of Death[/nation]
-[nation=short]Kuichi[/nation]
-[nation=short]Canopa[/nation][/b]
+[nation=short]Aror[/nation][/b]
+
+[b]Special thx goes to [nation=short]Vandoosa[/nation] of [region]The Glorious Nations of Iwaku[/region] for her  support[/b]

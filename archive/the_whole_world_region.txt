@@ -2,6 +2,5 @@
 [hr]
 [color=blue][u]Political Body[/u][/color]
 [color=green][b]Founder:[/b][/color] [nation]Blegutia[/nation]
-[color=green][b]WA Delegate:[/b][/color] None
-
+[color=green][b]WA Delegate:[/b][/color] [nation]Blegutia[/nation]
 [url=http://i.imgur.com/sUTUNw8.png]Map[/url]
