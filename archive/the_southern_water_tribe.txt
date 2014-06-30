@@ -15,7 +15,7 @@
 Cheiftain of Culture: [nation]Shui Wangguo[/nation]
 Cheiftain of Economy: n/a
 Cheiftain of Foreign Affairs: n/a
-Cheiftain of Law: n/a [/color]
+Cheiftain of Law: [nation]Woodsman816[/nation] [/color]
 [hr]
 
 [b][color=BF00FF]&#149;RMB Recuiters will be banned on sight
@@ -27,5 +27,5 @@ Cheiftain of Law: n/a [/color]
 
 [b][color=FF7F00]~News~[/color]
 
-[color=FF7F00]&#149;[nation]Shui Wangguo[/nation] has won the Elections for Chieftain of Culture![/color][/b]
+[color=FF7F00]&#149;[nation]Woodsman816[/nation] has won the Elections for Chieftain of Law![/color][/b]
 

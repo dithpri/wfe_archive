@@ -1,12 +1,13 @@
 [b][color=red]NO RECRUITING IN THE RMB!!![/color][/b]
 [hr]
 [u]Regional security[/u]
-The code below shows whether or not Novaroskiya&amp;#39;s borders are open to newcomers.
-[color=green][b]Green[/b][/color]-Novaroskiya&amp;#39;s borders are open to all nations
-[color=yellow][b]Yellow[/b][/color]-Novaroskiya&amp;#39;s borders are open, but newcomers are viewed with suspicion by the regional government
-[color=orange][b]Orange[/b][/color]-Novaroskiya&amp;#39;s borders are open, but nations that arrive within a short time frame of each other are suspected of being invaders and ejected
-[color=red][b]Red[/b][/color]-Novaroskiya is in lockdown following a recent invasion or threat
+The code below shows the Novaroskiya&amp;#39;s level of regional security.
+[color=green][b]Green[/b][/color]-At peace
+[color=yellow][b]Yellow[/b][/color]-Suspicious
+[color=orange][b]Orange[/b][/color]-Threatened
+[color=red][b]Red[/b][/color]-Lockdown
+[b]Black[/b]-War
 
-[b]Current status:[/b] [color=red][b]Red[/b][/color]
+[b]Current status:[/b] [color=yellow][b]Yellow[/b][/color]
 [hr]
 [b]Regional news:[/b] (June 28, 2014) [nation]Bannerman of Adahar[/nation] has attacked and instituted a dictatorial regime in our unofficial ally [region]Christians United[/region]. All Natives of Christians United are welcome.

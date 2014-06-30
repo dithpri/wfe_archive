@@ -1,7 +1,6 @@
-DEFCON: 0 - All is well.
+DEFCON: 5 - Normal Readiness.
 
-Border Policy: All entrants must be approved by the united council.
-
+Border Policy: Borders are open!
 United Council:
 
 Founder/United Council co-leader: [nation]True Christopia[/nation]
@@ -13,6 +12,5 @@ United Council Members (In order of importance):
 [Nation]The peoples favourite communists[/nation]
 [nation]Uvitar[/nation]
 
-If you wish to roleplay about the region you can do so here: http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=296062
 Link to all nations analysis for comparison: http://goo.gl/92xsU9
 This is a Roleplay region. All posts in the RMB are [b]in character[/b]
