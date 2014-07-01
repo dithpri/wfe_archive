@@ -1,0 +1,2 @@
+A simple training base for raiding password protected regions.
+The password is &amp;#39;trainingbase&amp;#39;

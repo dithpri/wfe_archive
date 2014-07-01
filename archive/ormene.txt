@@ -8,10 +8,12 @@
 Minister of foreign Affairs:Open
 Minister of Interior Affairs:Open
 Minister of Defense:Open
-Minister of Recruitment:[nation]The Oman[/nation]
+Minister of Recruitment:[nation=short+noflag]The Oman[/nation]
 Minister of Justice:Open
-Minister of Reports:Open[/color]
+Minister of Reports:[nation=short+noflag]Omnisius[/nation][/color]
 
-[color=purple]This week&amp;#39;s RMB topic:Communism[/color]
+[color=purple]This week&amp;#39;s RMB topic:How long do you think it will be till we hit 20 nations?[/color]
+
+Visit the Website, any regions wanting to become embassies/combine need to post it on the forums on our website at the [url=http://regionormene.webs.com/]Regional Website[/url]
 
 You should use the  [url=http://goo.gl/vBSUlL]NationStates++ Addon[/url]

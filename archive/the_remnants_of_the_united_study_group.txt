@@ -6,6 +6,8 @@ DEFCON: [color=blue]5[/color] [color=green]4[/color] [color=yellow][u]3[/u][/col
 [hr]
 [color=darkblue]Our inhabitants include:  Humans, Jaguars, Passerbys, Bystanders, Terrans, and Intelligent Penguins[/color]
 
-We salute [nation]The Pacifican Islands[/nation]  For creating the USG unit zone.[/b]
+We salute [nation]The Pacifican Islands[/nation]  For creating the USG unit zone.
+
+[color=maroon]A moment of silence for [region]The Archipelago of Independant Nations[/region] who were lost in a raid.[/color][/b]
 [hr]
 [i][u][b]&amp;quot;So say we all!&amp;quot;[/b][/u][/i]

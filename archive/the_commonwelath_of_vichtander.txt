@@ -1,4 +1,3 @@
-
 Commonwealth is a traditional English term for a political community founded for the common good.
 
 [b][color=red]Region Site[/color]: Under Construction
@@ -9,10 +8,12 @@ Regional Language: Polish [/color]
 I took it upon myself to translate from Polish to English.
 Kajzer: [nation]Vichtander[/nation]
 Kanclerz: [nation]Capt Pegleg Industries II[/nation]
-Chairs
+[color=red]Chairs[/color]
 Szef Przewodniczacy (Head):
-Przewodniczacy Wojny (War):
+Przewodniczacy Wojny (War): [nation]Heidenstaf[/nation]
 Przewodniczacy Obrony (Defence):
 Prezes Handlu (Trade):
 Przewodniczacy Stosunk&oacute;w Zagranicznych (Foreign Relations):
+[Color=red]Military[/color]
+Admiral Marynarki Wojennej: [nation]Capt Pegleg Industries II[/nation]
 [/b]
