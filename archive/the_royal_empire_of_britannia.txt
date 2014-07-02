@@ -1,0 +1,6 @@
+The Empire of Britannia consists of [nation]Britain and colonial Ireland[/nation] and her colonies. 
+
+To join one must fulfill the following requirements:
+1. Type of Nation [b][i]MUST[/i][/b] be set to [u]Colony[/u] (or have colony in the actual name).
+2. Flag must contain Union Flag
+3. [b]*OPTIONAL*[/b] Country name contains: British or Britannic  

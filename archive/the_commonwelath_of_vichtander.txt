@@ -2,18 +2,18 @@ Commonwealth is a traditional English term for a political community founded for
 
 [b][color=red]Region Site[/color]: Under Construction
 
-[color=blue]Regional Party: To Be Decided.
-Regional Language: Polish [/color]
+[color=green]Regional Party: To Be Decided.
+Regional Language: German [/color]
  
-I took it upon myself to translate from Polish to English.
-Kajzer: [nation]Vichtander[/nation]
-Kanclerz: [nation]Capt Pegleg Industries II[/nation]
+I took it upon myself to translate from German to English.
+Kaiser: [nation]Vichtander[/nation]
+Kanzler: [nation]Capt Pegleg Industries II[/nation]
 [color=red]Chairs[/color]
-Szef Przewodniczacy (Head):
-Przewodniczacy Wojny (War): [nation]Heidenstaf[/nation]
-Przewodniczacy Obrony (Defence):
-Prezes Handlu (Trade):
-Przewodniczacy Stosunk&oacute;w Zagranicznych (Foreign Relations):
+Leiter des Pr&auml;sidenten (Head):
+Pr&auml;sident Krieg (War): [nation]Heidenstaf[/nation]
+Vorsitzender des Defense (Defence):
+Pr&auml;sident der Fach (Trade):
+Vorsitzender des Foreign Relations (Foreign Relations):
 [Color=red]Military[/color]
-Admiral Marynarki Wojennej: [nation]Capt Pegleg Industries II[/nation]
+Admiral der Marine: [nation]Capt Pegleg Industries II[/nation]
 [/b]
