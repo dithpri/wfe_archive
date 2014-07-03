@@ -1,11 +1,10 @@
-*[color=blue]ALL WA Nations MUST endorse our WA Delegate, [nation]Northern Union of Lenton[/nation][/color]*
-[color=blue]Endorsement cap for other nations[/color]: 1
+*[color=blue]ALL WA Nations MUST endorse our WA Delegate, [nation]Northern Union of Lenton[/nation][/color].*
+[color=blue]Endorsement cap for other nations[/color]: 0 (will hopefully change soon)
 
 [color=red]Government[/color]
-[color=blue]Founder: [nation]The Multiple Void[/nation][/color]
+[color=lightgreen]Founder: [nation]The Multiple Void[/nation][/color]
 [color=blue]WA Delegate: [nation]Northern Union of Lenton[/nation][/color]
 
-[color=blue]Welcome to 2040, [region]The Nations of the Brotherhood[/region] (as of May 1)![/color]
+[color=blue]Welcome to 2041, [region]The Nations of the Brotherhood[/region] (as of July 1)[/color]!
 
-
-The 2040 [region]The Nations of the Brotherhood[/region] Annual Economic Meeting will be held in [nation]Northern Union of Lenton[/nation] on June 7. Attending nations are expected to state their top industry in their economy, how their economy is doing, and what products they have to trade with nations in the region.
+[color=red]ATTENTION: Pro-democracy protests have broken out and began causing chaos in tyrannical nations in [region]The Nations of the Brotherhood[/region], and [nation]Northern Union of Lenton[/nation] has declared war on [nation]Southerrn Union of Lenton[/nation][/color]. [color=red]Be sure to beef up security and/or choose a side in the war[/color].

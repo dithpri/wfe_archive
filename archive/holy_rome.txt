@@ -8,7 +8,7 @@ DEFCON: [color=blue]5[/color]
 
 [B]Counciler of the Legislature[/B]: [i]Vacant [/i]
 
-[B]Chief Justice[/B]: [nation]The Desevro Union[/nation]
+[B]Justices of the Supreme Court[/B]: [nation]The Desevro Union[/nation], [nation]Grand Yotsuba[/nation]
 
 [B]Headquartering State of the  SHIELD Initiative[/B]: [nation]Great Robica[/nation]
    [color=orange] If there is any suspicious activity please report it immediately to [nation]The shield alliance[/nation] via telegram 

@@ -10,10 +10,10 @@ Prosecutor-General: [nation=short]San Monteriano[/nation]
 High Commander: TBD
 [hr]
 [b]The Executive Cabinet[/b]
-Minister of the Interior: TBD
-Minister of Finance: TBD
-Minister of Foreign Affairs: TBD
-Minister of Culture: TBD
+Minister of the Interior: [nation=short]The French Kingdom[/nation]
+Minister of Finance: [nation=short]The Two Exalted Kingdoms[/nation]
+Minister of Foreign Affairs: [nation=short]Rarungan[/nation]
+Minister of Culture: [nation=short]Herzangia[/nation]
 [hr]
 [b]The VI High Court[/b]
 Chief Justice: [nation=short]Wyethalania[/nation]
