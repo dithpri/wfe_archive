@@ -19,8 +19,8 @@ This is where ULN military puppets reside.
 [u][color=orange]Intermediate and low Ranks[/color][/u]
 
 [b]Captains[/b]: [nation]Malastaar[/nation]
-[b]Sergeants[/b]: Open
-[b]Privates[/b]: Open
+[b]Sergeants[/b]: [nation]Tumbra[/nation]/Tonassa
+[b]Privates[/b]: [nation]Murray Land[/nation]
 
 [color=red][u]Our Three divisions include[/u][/color]: MP&amp;#39;s(Military Police), The Marines, National Gaurd
 

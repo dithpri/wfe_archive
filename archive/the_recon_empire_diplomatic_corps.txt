@@ -1,12 +1,15 @@
 The Recon Empire&amp;#39;s Imperial Office of Diplomatic Corps is located here.
 
-It sends out its diplomatic consuls to various nations of which have diplomatic bonds with [nation]The Recon Empire[/nation].
+It is the Foreign Affairs department of [nation]The Recon Empire[/nation].
 
-It is administered by [nation]Pollensky[/nation].
+[hr]
 
-Ambassadors include:
+[b]Ambassador-At-Large:[/b] [nation]Pollensky[/nation]
 
-[nation]Lord of the Crown Federation of Recon[/nation]
+[b]Chief Diplomatic Minister:[/b] [nation]Lord of the Crown Federation of Recon[/nation]
+
+[b]Ambassadors:[/b]
 [nation]Alvesco[/nation]
 [nation]Gambetta[/nation]
 [nation]Soracia[/nation]
+[nation]Turonth[/nation]

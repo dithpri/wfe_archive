@@ -1,13 +1,6 @@
-Karl has Kome
+[b][color=red]This region has been taken by the imperial army of [region]The Dark Frontier[/region][/b][/color]
 
-The Kult of Karl has killed those who opposed him.  Be afraid!
+[b][color=red]This region was reduced to a ocean of flames by the following imperial troops[/color]
+[nation=short]The Imperial Storm Trooper[/nation][/b]
 
-[nation]King Karl the Great[/nation]
-[nation]Ettins[/nation]
-[nation]The American High Nitrix Order[/nation]
-
-Endorse King Karl the Great as delegate!
-
-Special thanks to the Nitrix who aided our raid.
-
-Those of you living in the region will soon be ejected.
+[b]With Special Thx to [nation=short]Vandoosa[/nation] of the [region]Glorious Nations of Iwaku[/region] for her support[/b]

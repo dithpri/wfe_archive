@@ -1,17 +1,14 @@
-Regional Government
+Regional Government:
+------------------------------------
+[color=blue]President:[/color][nation=short]The Barbradian Republic[/nation]
+[color=red]President Advisor:[/color][nation=short]Alexanderois[/nation]
 
-[color=blue]President:[/color][nation]The Barbradian Republic[/nation]
-[color=red]Chancellor:[/color][nation]Kazadure[/nation]
+[color=orange]Chancellor:[/color][nation=short]Kazadure[/nation]
+[color=red]Chancellor Advisor:[/color][nation=short]North libya[/nation]
 
-[b]Minsters:[/b] 
-
-[Color=blue]Minister of Defense
-Minister of Intelligence-[/color][nation=small]hyrei[/nation]
-[Color=orange]Minister of Foreign Affairs-[/color][nation=short]Community of Free peoples[/nation]
-[Color=red]Minister of Culture
-Minister of Justice-[/color][nation=short]The south Japanese empire[/nation]
-
-
-
----------------------------------------------------
-Laws Recently Made:
+Ministers:
+---------------------
+[color=red]World Affairs Minster:[/color][nation=short]Community of Free peoples[/nation]
+[color=green]Minister Of Justice:[/color][nation=short]The South Japanese Empire[/nation]
+[color=purple]Minister Of Culture:[/color][nation=short]Left Fulange[/nation]
+[color=blue]Minister of intelligance[/color][nation=short]North Libya[/nation]
