@@ -12,8 +12,8 @@ Vice Delegate: [nation=short]Greater Gaelicland[/nation]
 General of the People&amp;#39;s Liberation Red Army: [nation=short]Omensa[/nation]
 
 Minister of Public Information: [nation=short]Sween[/nation]
-People&amp;#39;s Ambassador: [nation=short]Red Briefcase[/nation]
-Minister of Culture: [nation=short]Torsiedelle[/nation]
+People&amp;#39;s Ambassador: Vacant
+Minister of Culture: Vacant
 Chief Recruiter: [nation=short]Sween[/nation]
 
 [u]Security Level[/u]

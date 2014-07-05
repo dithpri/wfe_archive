@@ -1,7 +1,7 @@
 Regional Government:
 ------------------------------------
 [color=blue]President:[/color][nation=short]The Barbradian Republic[/nation]
-[color=red]President Advisor:[/color][nation=short]Alexanderois[/nation]
+[color=red]President Advisor:[/color][nation=short]Alexanderios[/nation]
 
 [color=orange]Chancellor:[/color][nation=short]Kazadure[/nation]
 [color=red]Chancellor Advisor:[/color][nation=short]North libya[/nation]

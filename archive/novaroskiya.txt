@@ -1,8 +1,8 @@
 [b]Administrator:[/b] [nation]United Western States of America[/nation]
-[b]Delegate:[/b]
-[b]Vice-delegate:[/b]
+[b]Delegate:[/b] [nation]The United Llama Republic[/nation]
+[b]Vice-delegate:[/b] [nation]Krawdadsky[/nation]
 [b]Ambassador:[/b]
-[b]Head of the Armed Forces:[/b]
+[b]Head of the Armed Forces:[/b] [nation]United Western States of America[/nation]
 [hr]
 [b]Regional news:[/b] (July 3, 2014) Regional government being reorganized into a democracy. Declaration of Independence and Constitution being drafted.
 [hr]
