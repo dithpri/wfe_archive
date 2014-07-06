@@ -12,7 +12,7 @@
 [b][color=red]Benevolent Dictator:[/color][/b] [nation=short]Shofercia[/nation]
 [b][color=blue]WA Delegate:[/color][/b] [nation=short]Sklavinia[/nation]
 [b][color=red]Regional Duchess:[/color][/b] [nation=short]Abasha[/nation]
-[b][color=blue]Minister of Internal Affairs:[/color][/b] [nation=short]States of Yugoslavia[/nation]
+[b][color=blue]Minister of Internal Affairs:[/color][/b] N/A
 [b][color=red]Minster of Foreign Affairs:[/color][/b] [nation=short]The imperial canadian dutchy[/nation]
 [b][color=blue]Minister of Defense:[/color][/b] [nation=short]Sklavinia[/nation]
 [hr]

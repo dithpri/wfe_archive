@@ -1,5 +1,5 @@
-[b][color=green]Welcome to [region]The Democratic Union[/region]![/color][/b]
+[b][color=brown]Welcome to The Democratic Union![/color][/b]
 
-[b]The Democratic Union is a conservative region that promotes monarchist and democratic values such as liberty, freedom and equality. All nations are encouraged to join us.[/b] 
-[hr]
-This region is [u]owned[/u] and [u]controlled[/u] by [nation]Chromania[/nation] 
+[i][b]The Democratic Union is a conservative region that promotes monarchist and democratic values such as liberty, freedom and equality. All nations are encouraged to join us.[/b][/i][hr][u][b][color=green]Regions of [region]The Democratic Union[/region]:[/color][/b][/u]
+[region]Globalis Politica[/region]
+[region]The French Fascist Union[/region][hr][b]This region is [u]owned[/u] and [u]controlled[/u] by [nation]Chromania[/nation][/b]

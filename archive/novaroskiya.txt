@@ -1,7 +1,7 @@
 [b]Administrator:[/b] [nation]United Western States of America[/nation]
 [b]Delegate:[/b] [nation]The United Llama Republic[/nation]
 [b]Vice-delegate:[/b] [nation]Krawdadsky[/nation]
-[b]Ambassador:[/b]
+[b]Ambassador:[/b] [nation]United Western States of America[/nation]
 [b]Head of the Armed Forces:[/b] [nation]United Western States of America[/nation]
 [hr]
 [b]Regional news:[/b] (July 3, 2014) Regional government being reorganized into a democracy. Declaration of Independence and Constitution being drafted.
@@ -13,4 +13,4 @@
 [color=red][b]Red[/b][/color]-Lockdown
 [b]Black[/b]-War
 
-[b]Current status:[/b] [color=yellow][b]Yellow[/b][/color]
+[b]Current status:[/b] [color=green][b]Green[/b][/color]
