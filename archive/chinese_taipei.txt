@@ -1,4 +1,5 @@
-[b][region]Chinese Taipei[/region] ([nation=short]China-_-[/nation])[/b]
+[b][region]Chinese Taipei[/region]
+[nation]China-_-[/nation] ([nation=short]Taiwan-[/nation])[/b]
 [hr][b]After centuries of subjugation under foreign extraterritoriality and internal reactionary oppression, the Republic of China has risen from the ashes of the unjust; As we look forth to the future and establish our presence on Nationstates, we hereby declare our wholehearted intent in cooperating proactively with our neighbours and friends-[region]All embassy requests shall be accepted[/region]!*[/b][hr][region]General Information[/region]
 [I]de jure[/I] National Capital: Nanking
 [I]de facto[/I] Seat of Central Government: Taipei

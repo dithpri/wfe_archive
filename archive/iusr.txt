@@ -2,7 +2,7 @@
 
 [b]Defence Status:[/b] [color=Green]DEFSTAT 5[/color]
 
-[b]Latest News:[/b] Premier Iosif Bramanov gives a speech in Union Square, Zimograd, Krasniya.
+[b]Latest News:[/b] [url=http://s28.postimg.org/aajipa9gd/1_Year.png]The IUSR celebrates 1 year since it was founded.[/url]
 [hr]
 
 [b]Federal Socialist Republics[/b]
@@ -13,6 +13,7 @@
 
 [b]Socialist Republics[/b]
 
+[nation]Belakras[/nation]
 [nation]Biel-Tan[/nation]
 [nation]Krajstali[/nation]
 [nation]Somstratzka[/nation]
@@ -23,5 +24,5 @@
 [nation]Canakhstan[/nation]
 [hr]
 
-[url=http://www.nationstates.net/page=compare/nations=Biel-Tan+Czervenika+Krajstali+Krasniya+Somstratzka]IUSR Nation Comparisons[/url]
-[url=http://s27.postimg.org/ms8x3jalt/Map.png]World Map[/url] (5/7/14)
+[url=http://www.nationstates.net/page=compare/nations=Belakras+Biel-Tan+Czervenika+Krajstali+Krasniya+Somstratzka]IUSR Nation Comparisons[/url]
+[url=http://s15.postimg.org/6bzg6cwkp/Map.png]World Map[/url] (7/7/14)

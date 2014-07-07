@@ -5,12 +5,9 @@
 [B]General: [/B][nation]Xoriet[/nation]
 Lieutenant: [nation]Tano[/nation]
 Corporal: [nation]The Fourth Imperium[/nation]
-Corporal: [nation]Optios[/nation][/color]
 
 [i][color=green][B]Allied With:[/B][/color][/i]
 [region]The United Defenders League[/region]
 [region]Lazarus[/region]
 [region]The North Pacific[/region]
-
-[i][color=green][B]At War With:[/B][/color][/i]
-[region]Gatesville[/region]
+[region]Osiris[/region]

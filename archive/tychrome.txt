@@ -18,8 +18,8 @@ Senate:
 1|[nation=short]Hayabusa[/nation](T3)
 2|[nation=short]Jantanu[/nation](T1)
 3|[nation=short]Basseemia[/nation](T1)
-Justice: 
 
+Justice: 
 [nation=short]Lewayiin[/nation](T1)
 
 Elder: 

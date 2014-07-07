@@ -4,6 +4,6 @@
 [color=black][b]Oberbefehlshaber der [region]Kriegsmarine[/region]:[/b][/color] [nation]Byrones[/nation]
 [color=black][b]Reichsluftfahrtminister und Oberbefehlshaber der Luftwaffe:[/b][/color] [nation]Grodon[/nation]
 [color=black][b]Reichsminister des Ausw&auml;rtigen:[/b][/color] [nation]REVOLUTION X[/nation]
-[color=black][b]Reichsminister des Innern:[/b][/color] [nation]Junjda[/nation]
-[color=black][b]Reichsminister f&uuml;r Volksaufkl&auml;rung und Propaganda:[/b][/color]
+[color=black][b]Reichsminister des Innern:[/b][/color]
+[color=black][b]Reichsministerin f&uuml;r Volksaufkl&auml;rung und Propaganda:[/b][/color] [nation=NessAmber]
 [color=black][b]Chef der Geheimen Staatspolizei:[/b][/color] [nation=Guina-Bissau]

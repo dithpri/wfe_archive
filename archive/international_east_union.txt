@@ -11,7 +11,10 @@ Alert:[color=blue]Blue[/color]
 
 [b]Founder: [nation=short]People Who Stand United[/nation]
 
-High King:..poll
+Royal House:
+[color=gold]King:
+Consort:[/color]
+
 
 Prime Minister: [nation=short]Munray[/nation]
 

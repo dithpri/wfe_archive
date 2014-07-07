@@ -7,5 +7,8 @@ Delegate:[nation]arvum-silva[/nation]
 Cartographer:
 Head of recruitment:
 Head of Intelligence: [nation]mussolitopia[/nation]
+Head of Military:
+Ambassador:
+Head of Foreign Affairs: 
  
 [B]Please endorse our delegate: [nation]arvum-silva[/nation][/b]
