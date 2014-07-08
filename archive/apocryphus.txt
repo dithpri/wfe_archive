@@ -11,7 +11,7 @@ Administrator: [nation=short]Stormwrathia[/nation]
 Secretary-General:
 Deputy Secretary General:
 Minister of Foreign Affairs:
-Minister of Internal Affairs:
+Minister of Internal Affairs: [nation=short]Kamuri[/nation]
 Minister of Intelligence:
 Minister of Defense:
 [hr]

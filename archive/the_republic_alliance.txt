@@ -4,10 +4,9 @@
 [color=Blue][b]Governor General: [nation=short]Boomtown Party Animals[/nation][/b][/color]
 
 [B][u]Royal Council[/u][/B]
-[color=Blue][b][nation=short]Jakutsk[/nation] 
+[color=Blue][b][nation=short]Lernerland[/nation] 
 [nation=short]Eden Oakmont[/nation]
 [nation=short]The United Covenant[/nation]
-Open
 [nation=short]Dotican[/nation][/b][/color]
 
 [hr][B][u]Parliament[/u][/B]

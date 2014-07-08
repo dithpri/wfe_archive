@@ -1,5 +1,3 @@
-A coalition of the liberated nations under a united monarchy.
-
 King Of The Coalition: [nation]Palonitr and Howland[/nation]
 
 [b]The Small Council[/b]
@@ -8,6 +6,7 @@ Master Of Laws:[nation]Luce Terram[/nation]
 Master Of Coin: [nation]Poppunxival[/nation]
 Master of Foreign Affairs:[nation]The Law Enforcers State[/nation] 
 Master of Forums:[nation]Briclyn[/nation]
+Master of Whispers:[nation]Amestrisz[/nation]
 Inquistor Of Internal Security: [nation]Wateryan[/nation]
 
 [b]General Staff Of the Coalition Armed Forces[/b]

@@ -1,10 +1,8 @@
-[b]Administrator:[/b] [nation]United Western States of America[/nation]
-[b]Delegate:[/b] [nation]The United Llama Republic[/nation]
+[b]Delegate:[/b] 
 [b]Vice-delegate:[/b]
-[b]Ambassador:[/b] [nation]The New State of Israel[/nation]
-[b]Head of the Armed Forces:[/b] [nation]United Western States of America[/nation]
-[hr]
-[b]Regional news:[/b] (July 3, 2014) Regional government being reorganized into a democracy. Declaration of Independence and Constitution being drafted.
+[b]Administrator:[/b] [nation]United Western States of America[/nation]
+[b]Head of the Armed Forces:[/b] 
+[b]Ambassador:[/b] 
 [hr]
 [u]Regional security[/u]
 [color=green][b]Green[/b][/color]-At peace
@@ -14,3 +12,6 @@
 [b]Black[/b]-War
 
 [b]Current status:[/b] [color=green][b]Green[/b][/color]
+[hr]
+[url=http://novaroskiyaforums.prophpbb.com/?sid=1cf85f427bc76179f1c2a805a3c6476d]Novaroskiya Forums[/url]
+[url=http://nsdossier.texasregion.net/main.aspx?region=Novaroskiya]Novaroskiya Economy[/url]

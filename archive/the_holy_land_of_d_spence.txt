@@ -1,4 +1,4 @@
--Prime Minister-                     [nation]Viviatopia[/nation]
+-Prime Minister-                 
 -Minister of Defense-              [nation]Whitestone[/nation] 
 -Minister of Justice-         
 -Minister of Foreign Affairs-    [nation]Augmentis[/nation]
@@ -9,5 +9,6 @@
 Anyone want to run for Minister of Finance? 
 Anyone want to run for Minister of Propoganda? 
 Anyone want to run for Minister of Justice?
+Anyone want to run for Prime Minister? 
 Good luck, and may the odds be ever in your favor. 
 
