@@ -7,7 +7,7 @@
 [nation=short]Orveleca[/nation] [b]([color=black]F[/color])[/b]
 
 [b]Deputy Chancellor:[/b] 
-[nation=short]The Dalek Paradigm[/nation] [b]([color=black]F[/color])[/b] [ Acting ]
+[nation=short]The Dalek Paradigm[/nation] [b]([color=black]F[/color])[/b]
 
 [b]Minister of Defense:[/b] 
 [nation=short]Liberated Democratic Republics[/nation] [b]([color=red]C[/color])[/b]

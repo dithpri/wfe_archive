@@ -3,7 +3,7 @@
 [list][Color=blue]Prime Minister-[/color][nation=short]Quevola[/nation]
 [Color=blue]Deputy Prime Minister-[/color][nation=short]Amerion[/nation]
 [Color=blue]Minister of Defense-[/color][nation=short]Runesland[/nation]
-[Color=blue]Minister of Intelligence-[/color][nation=short]Brechalht[/nation]
+[Color=blue]Minister of Information-[/color][nation=short]Brechalht[/nation]
 [Color=blue]Minister of Foreign Affairs-[/color][nation=short]China-_-[/nation]
 [Color=blue]Minister of Culture-[/color][nation=short]The United Workers Federation[/nation]
 [Color=blue]Minister of Justice-[/color][nation=short]Lisbane[/nation][/list]
@@ -11,7 +11,7 @@
 [hr][B][color=Orange]At Vote-[/color][/B]
 [i]Parliament:[/i][url=http://w11.zetaboards.com/TCDN/topic/10387892/1/]Financial System Reform Act[/url]
 [i]Cabinet[/i]:None
-[i]Region:[/i][url=http://w11.zetaboards.com/TCDN/topic/10384080/1/]WA Vote 1[/url], [url=http://w11.zetaboards.com/TCDN/topic/10386661/1/]Vote 2[/url]
+[i]Region:[/i]None
 [hr][B][color=orange]Debate-[/color][/B]
 [i]Parliament[/i]:[url=http://w11.zetaboards.com/TCDN/topic/10368310/2/#new]Securing Nations Rights Act[/url]; [url=http://w11.zetaboards.com/TCDN/topic/10385644/1/#new]RolePlay Act[/url]
 [i]Cabinet[/i]:None
@@ -19,4 +19,4 @@
 [hr][color=orange][B]Announcements-[/B][/color]
 [i]Parliament:[/i]None
 [i]Cabinet:[/i]None
-[i]Region:[/i][url=http://w11.zetaboards.com/TCDN/forum/4076713/]Register[/url] for Cabinet Elections
+[i]Region:[/i][b][color=maroon][url=http://w11.zetaboards.com/TCDN/forum/4076714/]Elections![/url][/b][/color]

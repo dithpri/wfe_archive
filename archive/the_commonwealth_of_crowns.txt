@@ -7,7 +7,7 @@ Secretary-General: [nation=short]The Folkelands[/nation]
 Chancellor: [nation=short]Torvalyn WA[/nation]
 Speaker: [nation=short]Ethopolis[/nation]
 Prosecutor-General: [nation=short]San Monteriano[/nation]
-High Commander: TBD
+High Commander: [nation=short]Borduriaa[/nation]
 [hr]
 [b]The Executive Cabinet[/b]
 Minister of the Interior: [nation=short]The French Kingdom[/nation]
