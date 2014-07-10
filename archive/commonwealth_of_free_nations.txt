@@ -13,7 +13,7 @@
 [nation=short]Liberated Democratic Republics[/nation] [b]([color=red]C[/color])[/b]
 
 [b]Minister of Foreign Affairs:[/b] 
-[nation=short]Cervayorum[/nation] [b]([color=blue]DS[/color])[/b] [ Acting ]
+[nation=short]Greater Fascism[/nation] [b]([color=red]C[/color])[/b]
 
 [b]Minister of Internal Affairs:[/b] 
 [nation=short]Vladovaskia[/nation] [b]([color=blue]DS[/color])[/b]

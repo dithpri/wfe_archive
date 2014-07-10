@@ -1,12 +1,16 @@
-[b]Field Marshal:[/b] [nation]Bachtendekuppen[/nation]
+[color=0099000][b]Field Marshal:[/b] [nation=short]Ramaeus[/nation]
 
 [b]General:[/b] [nation=short]Xoriet[/nation]
 
+[b]Brigadier Puffin:[/b] [nation=short]Bachtendekuppen[/nation]
+
 [b]Colonel:[/b] [nation=short]A Mean Old Man[/nation]
 
-[b]Lieutenants:[/b] [nation=short]Tano[/nation]
+[b]Lieutenant:[/b] [nation=short]Tano[/nation]
 
-[b]Newest Member:[/b] [nation=short]The Fourth Imperium[/nation]
+[b]Corporals:[/b] [nation=short]The Fourth Imperium[/nation] and [nation=short]Dasevenhorse[/nation]
+
+[b]Newest Member:[/b] [nation=short]Optios[/nation]
 
 [u]Requirements for being a member:[/u][list][*]Must be a citizen of [region]The East Pacific[/region];[*]Must not be involved in any foreign military organizations; or, failing that, must have an endorsement from another EPSA member;[*]Must swear to uphold the traditions and honor of The East Pacific;[*]Must obey [url=http://ubuntuone.com/6a5DvayXSYvklxiwwfWd9P]The Laws of The East Pacific[/url];[/list]
 
@@ -14,4 +18,4 @@
 
 Military Workroom is located at [url=http://theeastpacific.com/forum/1000746/]here[/url] (ask Todd for access)
 
-The Jump Point is located in Sector [region]YY4 Active X Delta[/region] (ask Babs for access)
+The Jump Point is located in Sector [region]YY4 Active X Delta[/region] (ask Xoriet for access)[/color]

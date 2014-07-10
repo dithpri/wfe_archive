@@ -11,5 +11,4 @@ Head of Military:
 Ambassador:
 Head of Foreign Affairs: 
  
-[B]Please endorse our delegate: [nation]zarystok[/nation]
-Please withdraw your endorsement from [nation]arvum-silva[/nation][/b]
+[B]Please endorse our delegate: [nation]zarystok[/nation][/b]
