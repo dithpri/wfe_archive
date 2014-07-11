@@ -1,6 +1,6 @@
 [b]Welcome to the Arstotzkan Union![/b]
 
-[url=https://www.youtube.com/watch?v=V4GWyd7vhj0/]Our national anthem![/url]
+[url=https://www.youtube.com/watch?v=V4GWyd7vhj0/]Our National Anthem![/url]
 
 [b]Currently in Office:[/b]
 Socialist Party (election taking place)
@@ -9,10 +9,10 @@ Socialist Party (election taking place)
 
 [b]The Arstotzkan Cabinet[/b]
 
-El Presidente: [nation]West Dorian[/nation]
-Minister of Foreign Affairs:
-Minister of Defense: [nation]Raneia[/nation]
-Minister of Recruitment: [nation]Old New Columbia[/nation]
-Minister of Health: [nation]The Diamond Dragon[/nation]
-Minister of Intelligence: [nation]Darius51717[/nation]
+[color=red]Current President[/color]: [nation]West Dorian[/nation]
+Minister of Foreign Affairs: [nation=short]Old New Columbia[/nation]
+Minister of Defense: [nation=short]Raneia[/nation]
+Minister of Recruitment: [nation=short]Ditinai[/nation]
+Minister of Health: [nation=short]The Diamond Dragon[/nation]
+Minister of Intelligence: [nation=short]Darius51717[/nation]
 
