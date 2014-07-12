@@ -2,14 +2,14 @@
 
 [b]Regional Government[/b]
 President:[nation]Muzztopia[/nation]
-Vice President:[nation]Waldreich[/nation]
+Vice President:
 Foreign Minister:[nation]Grenavia[/nation]
 Defense Minister: [nation]Antares Scorpi[/nation]
-Domestic Minister:[nation]mega nom nom land[/nation]
+Domestic Minister:
 Secretary:[nation]Aravea[/nation]
-Intelligence Minister: 
+Intelligence Minister: [nation]Holy Empire of Avalon[/nation]
 Map Maker:
-Recruitment Officer: [nation]Bozz-Antium[/nation]
+Recruitment Officer: [nation]New Rhodinia[/nation]
 
 Welcome to the United Federation of Nations, a military and economic alliance dedicated to the principles of freedom and democracy,as well as the pursuit of peace.
 .

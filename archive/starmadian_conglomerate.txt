@@ -4,20 +4,18 @@ A bunch of players from the voxel based space game, StarMade. Shoot @Zyrr or @Az
            #smnationstate[/b]
 
 [b]Chancellor:[/b] Vadim Kirov of the Federal Republic of Kyrev
-[b]Vice Chancellor:[/b] Wanda Simons of the Republic of Azertoria
-[b]Diplomat:[/b] Matheus de Alcantara of the People&amp;#39;s Republic of Northern Freenode
 
-[b]Current World Assembly Delegate: The Federal Republic of Kyrev[/b]
+
+[b]Current World Assembly Delegate: Azertoria[/b]
 
 
 [b]Members of the StarMadian Conglomerate:[/b]
-Zyrr
-Azereiah
-BearishMushroom
-Tatte
-CyberTao
-Jaaskinal
-DemHydraz
-Megacrafter127
-Claru
-katCrusader
+Kyrev (Zyrr)
+Azertoria (Azereiah)
+Bearish (BearishMushroom)
+Kadonia (Tatte)
+Ra Rosulh(CyberTao)
+Thryn (Jaaskinal)
+Synith (Megacrafter127)
+Void Templar (Claru)
+Asynjur (katCrusader)

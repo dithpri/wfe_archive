@@ -5,3 +5,10 @@ Regional Government:
 
 [color=orange]Prine Minister:[/color][nation=short]Community of free peoples[/nation]
 [color=blue]Chancellor advisor:[/color][nation=short]kazadure[/nation]
+
+Regional Government Officials:
+--------------------------------------
+[color=red]Military Commander:[/color]
+[color=blue]World Affairs Minister:[/color]
+[color=orange]Minister of Culture:[/color]
+[color=purple]Minister of Justice:[/color]

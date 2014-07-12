@@ -10,7 +10,7 @@ United under the Seal of the Royal Family of Hyrule, the six provinces work toge
 
 [b][color=blue]Steward of Wisdom: [/color][/b][nation=short]Sotherus[/nation]
 [b][color=green]Steward of Courage: [/color][/b][nation=short]Principality XIV[/nation]
-[b][color=purple]Steward of Power: [/color][/b][i]*open*[/i]
+[b][color=purple]Steward of Power: [/color][/b][nation=short]Greater Amestris[/nation]
 [hr][i][u][b]The Provinces and their Governors:[/b][/u][/i]
 
 [b][color=darkblue]Lanayru Province[/color][/b]: [i]*open*[/i]

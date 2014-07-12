@@ -13,9 +13,9 @@
 [/color]
 [color=green]
 [b]Embassies[/b]
-null
+[region]Empire Coalition[/region]
 [b]Pending[/b]
-Empire Coalition
+null
 [/color]
 
 [color=red][b]WE ARE NEUTRAL TO RAIDING/DEFENDING[/b][/color]

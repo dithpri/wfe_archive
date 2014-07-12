@@ -9,11 +9,11 @@ Members:
 -[region]Seafieldia[/region]
 -[region]The Commonwealth States[/region]
 -[region]The Federal Islands 2nd Gen[/region]
--[region]The Hyatt Islands[/region]
 -[region]Yerfilag[/region]
 
 Observers:
 -[region]The conservative christians[/region]
+-[region]The Hyatt Islands[/region]
 
 Pending:
 -[region]Benevolent Capitalism[/region]
