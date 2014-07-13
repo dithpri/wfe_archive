@@ -9,7 +9,7 @@ Minister of foreign Affairs:[nation=short+noflag]RiderSupport[/nation]
 Minister of Interior Affairs:Open
 Minister of Defense:Open
 Minister of Recruitment:[nation=short+noflag]The Oman[/nation]
-Minister of Justice:[nation=short+noflag]Oregon43 [/nation]
+Minister of Justice:[nation=short+noflag]Oregon43[/nation]
 Minister of Reports:[nation=short+noflag]Omnisius[/nation][/b]
 
 Visit the Website, any regions wanting to become embassies/combine need to post it on the forums on our website at the [url=http://regionormene.webs.com/]Regional Website[/url]

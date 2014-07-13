@@ -11,7 +11,7 @@ The Military Force is an alliance of nations with strong national defense. Natio
 [b]Air:[/b] [nation]the peoples federal empire[/nation]
 [b]Water:[/b] (v)
 [b]Space:[/b] [nation]the west atlantic[/nation]
-[b]Intelligence:[/b] [nation]peoples republic of disestablishment[/nation]
+[b]Intelligence:[/b] (v)
 [b]Propaganda:[/b] (v)
 [b]Recruitment:[/b] [nation]chordistan[/nation]
 

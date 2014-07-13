@@ -8,8 +8,6 @@ Treasury: [nation]Puritas[/nation]
 
 Justice: [nation]Weisreich[/nation]
 
-Interior: [nation]Chickennuggetia[/nation]
-
 Diplomacy: [nation]Nelison[/nation]
 
 Commerce: [nation]Puritas[/nation]
@@ -21,8 +19,6 @@ Defense: [nation]Dont Look[/nation]
 Human Services: [nation]Transulvania[/nation]
 
 Energy: [nation]Hoodem[/nation]
-
-Education: [nation]Chickennuggetia[/nation]
 
 War: [nation]Broken Fire Eja[/nation]
 

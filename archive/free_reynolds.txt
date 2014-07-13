@@ -1,4 +1,4 @@
-[b][i][color=purple]This region has been conquered by [url=/region=sicarius]Sicarius![/url][/color][/i]
+[b][i][color=purple]This region has been conquered by [url=/region=sicarius]Sicarius[/url] and refounded on July 11th, 2014.[/color][/i]
 
 [color=990000]Join us[/color] [url=/region=sicarius]here[/url]! 
 [hr]
@@ -7,6 +7,9 @@ The following assassins entered battle:
 [nation=short]The Sapientia[/nation]
 [nation=short]The Shadow Assassin[/nation]
 [nation=short]Reath[/nation]
+
+Along with:
+
 [nation=short]PrinceHoldings[/nation]
 [nation=short]master_shin[/nation]
 
@@ -17,7 +20,6 @@ Also joined the battle:
 [nation=short]Ever-Wandering Souls[/nation]
 [nation=short]house_ikdard[/nation]
 [nation=short]Human evolution[/nation]
-[nation=short]dharn[/nation]
 
 [hr]
 [color=purple]Natives Expelled:[/color] 7

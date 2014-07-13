@@ -10,8 +10,8 @@ First Regional Cabinet of [u][color=yellow]Greek Fire[/u][/color]
 Deputy Chancellor: 
 [color=blue]OPEN[/color]
 
-Minister of Defence:
-[color=red]OPEN[/color]
+Minister of Defense:
+[nation=short]simpsonica[/nation]
 
 Minister of Foreign Affairs:
 [color=purple]OPEN[/color]
@@ -20,7 +20,7 @@ Minister of Internal Affairs:
 [color=orange]OPEN[/color]
 
 Minister of Justice:
-[color=yellow]OPEN[/color][/b]
+[nation=short]The United Republic of Luke[/nation][/b]
 [/list]
 
 

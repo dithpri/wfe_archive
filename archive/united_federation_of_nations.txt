@@ -4,10 +4,10 @@
 President:[nation]Muzztopia[/nation]
 Vice President:
 Foreign Minister:[nation]Grenavia[/nation]
-Defense Minister: [nation]Antares Scorpi[/nation]
+Defense Minister: [nation]Holy Empire of Avalon[/nation]
 Domestic Minister:
 Secretary:[nation]Aravea[/nation]
-Intelligence Minister: [nation]Holy Empire of Avalon[/nation]
+Intelligence Minister: 
 Map Maker:
 Recruitment Officer: [nation]New Rhodinia[/nation]
 
