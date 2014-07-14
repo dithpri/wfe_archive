@@ -5,7 +5,7 @@ We are a economic and military union of nations from across the globe, where the
 [b][u]News flash:[/u] A newly elected regional president is now in office.[/b]
 
 President: [nation]Penentayl[/nation]
-Vice President: [nation]Alfheimus[/nation]
+Vice President: [b]Election in process[/b]
 Ministry of Foreign Affairs: [nation]Retiva[/nation]
 Ministry of Internal Affairs: [nation]Brustin[/nation]
 Ministry of Immigration: [nation]Gerendayl[/nation]

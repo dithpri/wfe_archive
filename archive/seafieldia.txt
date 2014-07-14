@@ -1,11 +1,10 @@
-[b]WELCOME TO SEAFIELDIA!
-BIENVENUE &Agrave; SEAFIELDIA!
-&iexcl;BIENVENIDO A SEAFIELDIA!
-MALIGAYANG PAGDATING SA SEAFIELDIA!
-&iexcl;OUILKEM TU ZEF&Eacute;LDJ&Eacute;![/b]
+[b]WELCOME TO SEAFIELDIA![/b]
+[i]&iexcl;OUILKEM TU ZEF&Eacute;LDJ&Eacute;![/i]
 
 [hr][b]Current Government[/b]
 Head of the Union: [nation=short]The Seafield Islands[/nation]
 Director of the Government: [i]none[/i]
 
 [hr]We are a member of [b][region]REATO[/region][/b]!
+
+[hr]WA Members, please [b]endorse [nation=short]The Seafield Islands[/nation][/b]!

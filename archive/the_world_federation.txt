@@ -8,15 +8,15 @@ Welcome to The WF! I hope you enjoy your stay here and would like to ask you to 
 
 [b]Speaker of the House[/b]: [nation]Plotus[/nation]
 
-[b]Minister of Defence[/b]: Open
+[b]Minister of Defence[/b]: [nation]Brickwall[/nation]
 
-[b]Minister of Internal Affairs[/b]: Open
+[b]Minister of Internal Affairs[/b]: [nation]Tonassa[/nation]
 
-[b]Minister of Foreign Affairs[/b]: Open
+[b]Minister of Foreign Affairs[/b]: [nation]Stockton Plantation[/nation]
 
-[b]Minister of Immigration[/b]: Open
+[b]Minister of Immigration[/b]: 
 
-[b]Minister of Justice[/b]: Open
+[b]Minister of Justice[/b]: [nation]New Hartshorne[/nation]
 
 [b]Chief of Police[/b]: Open
 
@@ -24,5 +24,5 @@ Welcome to The WF! I hope you enjoy your stay here and would like to ask you to 
 
 [url=http://w11.zetaboards.com/The_World_Federation/index/]Forums[/url]
 
-[color=purple]Every member of the WF automatically becomes a representative and may sit in the House of Representatives when in session.[/color]
+1st House Meeting 18th July
 

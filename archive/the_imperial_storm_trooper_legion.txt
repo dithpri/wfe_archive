@@ -4,22 +4,20 @@
 
 [b][u][color=darkred]Storm Trooper Command[/color][/u][/b]
 
-[b][color=gold]The Emperor [nation]The Imperial Storm Trooper[/nation][/color][/b]  
-[b][color=silver]Executor[/b][/color]
-[b][color=bronze]Lord General[/b][/color]
+[b][color=gold]The Emperor [nation=short]The Imperial Storm Trooper[/nation][/color][/b]  
+[b][color=silver]Executor[/color] [nation=short]Jolthig[/nation][/b]
+[b][color=bronze]Lord General[/b][/color]n
 [b][color=royalblue]Honorary Grand General[/color] [nation=short]The Sapientia[/nation][/b]
 [b][color=royalblue]Grand General[/color][/b] 
 [b][color=royalblue]Grand General[/color][/b]
 [b][color=crimson]General[/b][/color]
 [b][color=crimson]General[/b][/color]
 
-[color=blue][b]If you wish to raid please answer the welcome telegram upon your arrival[/b][/color]
-
 [b][color=darkred]Please note we only constrict embassies with regions we control or if you send me a    telegram me asking why you would like one[/color][/b]
 
 [b][U][color=green]Non-Military Ranks[/color][/U][/b]
 
 [b][color=green]Chief Diplomat[/color]
-[color=green]Chief Of The Forum[/color]
+[color=green]Chief Of The Forum[/color] [nation=short]Jolthig[/nation]
 [color=green]Chief Press Officer[/color][/b]
 

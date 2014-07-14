@@ -8,7 +8,6 @@ WA Delegate:
 Nations:
 [nation=short]Fedorana[/nation]
 [nation=short]Khgana[/nation]
-[nation=short]FuryKnight28[/nation]
 [nation=short]General King IX[/nation]
 [nation=short]sanadiceuw[/nation]
 

@@ -1,8 +1,8 @@
-[b]Welcome to the Democratic Socialist International Party![/b]
+[color=red][b]This region has been taken by the imperial army of [region]The Imperial Storm Trooper Legion[/region][/color][/b]
 
-[b]Chairmen and Founder:[/b] [nation]Dirtcrakia[/nation]
-[b]Vice Chairmen:[/b] [nation]Svobodazemli[/nation]
-[b]Secretary-General:[/b] [nation]Syron[/nation]
-[b]Secretary of Propaganda:[/b] [color=red]None[/color]
-[b]Secretary of Military Affairs:[/b] [nation]Russo-Ukraine[/nation] 
-[b]Secretary of Communications:[/b] [color=red]None[/color]
+[b][color=red]This region was reduced to a ocean of flames by the following imperial troops[/color][/b]
+
+[b][nation=short]The Imperial Storm Trooper[/nation][/b]
+[b][nation=short]Asian Confederation[/nation][/b]
+
+[b]With Special Thx to [nation=short]Vandoosa[/nation] of the [region]Glorious Nations of Iwaku[/region] for her support[/b]
