@@ -1,2 +1,11 @@
-Ooh, let me in or I&amp;#39;ll get physical with you
-I just gotta dance right now, it&amp;#39;s critical to do
+[b]King:[/b]
+[b]Prime Minister:[/b]
+[b]Members of Parliament:[/b]
+[hr]
+[u]Security Status[/u]
+[b][color=green]Green[/color][/b]-At peace
+[b][color=yellow]Yellow[/color][/b]-Threatened
+[b][color=orange]Orange[/color][/b]-Lockdown
+[b][color=red]Red[/color][/b]-War
+
+[b]Current Status:[/b] [b][color=green]Green[/color][/b]

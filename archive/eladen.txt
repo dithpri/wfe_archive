@@ -21,7 +21,7 @@ Economy: 46th
 Fishing: [color=orange][b]5th[/b][/color]
 Arms: 12th
 Beverage: [color=orange][b]8th[/color][/b]
-Mining: 14th
+Mining: 11th
 Agriculture: [color=orange][b]7th[/color][/b]
 Publishing: 15th
 Auto: [color=orange][b]5th[/b][/color]

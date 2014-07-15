@@ -5,7 +5,7 @@ The New World Military Treaty Organization is a collection of regional military 
 -[region]Novaroskiya[/region]-[region]Sudansky[/region]-[region]The Guardians of the void[/region]-[region]The Third Party[/region]-
 [hr]
 [b]Administrator:[/b] [nation]Injunndia[/nation]
-[b]Head of Military Operations:[/b]
+[b]Head of Military Operations:[/b] [nation]Iron Summit[/nation]
 [b]Chief Intelligence Officer:[/b] [nation]Far North Sudan[/nation]
 [b]Ambassador:[/b]
 [b]Head of the Security Council:[/b]

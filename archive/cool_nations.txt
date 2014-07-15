@@ -1,1 +1,11 @@
-Hello.
+[list]
+[region]Cool nations[/region] Executive Positions:
+
+Executive director:[nation]Star Wars Clan[/nation]
+
+Prime minister:[nation]Pokemon Clan[/nation]
+
+Minister of Defense:[nation]The Awesome Video Game Characters[/nation]
+[/list]
+
+

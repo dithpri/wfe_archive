@@ -5,16 +5,11 @@
 [hr]
 
 [b][color=darkgreen]The Monarchy:[/color][/b]
-[b]Grand Prince of Valconesia:[/b] HRM Richard I ([nation=short]Prince Richard of Valconesia[/nation])
-[b]Grand Princess of Valconesia (consort):[/b] HRM Raven ([nation=short]The Raven Crown[/nation])
-[b]Crown Prince of Valconesia:[/b] HRH Richard ([nation=short]Ricardin[/nation])
+[b]Grand Prince:[/b] HRM Richard I ([nation=short]Prince Richard of Valconesia[/nation])
+[b]Grand Princess-Consort:[/b] HRM Raven ([nation=short]The Raven Crown[/nation])
+[b]Crown Prince:[/b] HRH Richard ([nation=short]Ricardin[/nation])
 [hr]
 
 [b][color=red]The Government:[/color][/b]
 [b]Prime Minister:[/b] TBE
-[b]Deputy PM:[/b] TBD
-[b]Minister of Internal Affairs:[/b] TBA
-[b]Minister of Foreign Affairs:[/b] TBA
-[b]Minister of the Treasury:[/b] TBA
-[b]Minister of Defense:[/b] Armin von Sankt-Gallen ([nation=short]Higher Liechtenstein[/nation])
-[b]Minister of Culture:[/b] TBA
+[b]Deputy PM:[/b] TBA

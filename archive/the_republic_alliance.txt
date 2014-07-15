@@ -5,8 +5,8 @@
 [color=Blue][b]Governor General: [nation]Boomtown Party Animals[/nation][/b][/color]
 
 [B][u]Executive[/u][/B]
-[B][color=Blue]Prime Minister:[/color][/B]
-[B][color=Blue]Deputy Minister:[/color][/B]
+[B][color=Blue]Prime Minister: [nation]Jakutsk[/nation][/color][/B]
+[B][color=Blue]Deputy Minister:[/color] [nation]Dotican[/nation][/B]
 
 [hr][B][u]Royal Council[/u][/B]
 [B][color=Green]All member nations[/color][/B]

@@ -1,6 +1,6 @@
-[b]Defence Status:[/b] [color=Orange]DEFSTAT 3[/color]
+[b]Defence Status:[/b] [color=Blue]DEFSTAT 4[/color]
 
-[b]Latest News:[/b] Yuzan declares war on what is essentially the rest of the world.
+[b]Latest News:[/b] Krajstali loses it&amp;#39;s IUSR membership.
 [hr]
 
 [b]Federal Socialist Republics[/b]
@@ -13,7 +13,6 @@
 
 [nation]Belakras[/nation]
 [nation]Biel-Tan[/nation]
-[nation]Krajstali[/nation]
 [nation]Pribaltika[/nation]
 [nation]Somstratzka[/nation]
 [hr]
@@ -26,5 +25,5 @@
 [nation]Libhiriya[/nation]
 [hr]
 
-[url=http://www.nationstates.net/page=compare/nations=Belakras+Biel-Tan+Czervenika+Krajstali+Krasniya+Pribaltika+Somstratzka]IUSR Nation Comparisons[/url]
-[url=http://s27.postimg.org/lmrh5wqkx/Map.png]World Map[/url] (12/7/14)
+[url=http://www.nationstates.net/page=compare/nations=Belakras+Biel-Tan+Czervenika+Krasniya+Pribaltika+Somstratzka]IUSR Nation Comparisons[/url]
+[url=http://s29.postimg.org/b4z7q9d3p/Map.png]World Map[/url] (14/7/14)
