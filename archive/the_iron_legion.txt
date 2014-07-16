@@ -21,8 +21,8 @@ Military Operations Directorate of [region]The Fascist Union[/region].
 [nation=short]Mense[/nation] Evocati (Sergeant)
 [nation=short]Chezek[/nation] Evocati (Sergeant)
 [nation=short]Iaeptus[/nation] Evocati (Sergeant)
-[nation=short]Slarvenia[/nation] Evocati (Sergeant)
-[nation=short]Empire of Thayanalia[/nation] Munifex (Private)
+[nation=short]Slarvenia[/nation] Evocati (Sergeant) 
 [nation=short]Cantzig[/nation] Munifex (Private)
-
+[nation=short]Saber Maximus[/nation] Munifex (Private)
+[nation=short]Sataareth[/nation] Munifex (Private)
 [/b]

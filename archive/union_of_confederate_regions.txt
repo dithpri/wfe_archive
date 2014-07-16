@@ -1,12 +1,15 @@
 [b]UNION COUNCIL MEMBERS: 
-[nation=short]St nevis and kitts[/nation] - [nation=short]Langor Empire[/nation] - [nation=short]The Briarwood[/nation] 
+[nation=short]St nevis and kitts[/nation] - [nation=short]Langor Empire[/nation] - [nation=short]The Briarwood[/nation] - [nation=short]Iron Summit[/nation] - [nation=short]Great Zlin[/nation]
 
 President: [nation=short]St Nevis and Kitts[/nation]
 WA Delegate: [nation=short]Langor Empire[/nation]
-Minister of Defence:
-Minister of Economy:
-Minister of Foreign Affairs:[/b]
+Minister of Defence And War: [nation=short]iron summit[/nation]
+Minister of Economy and Finance: Vacant
+Minister of Internal Affairs: [nation=short]Post-apocalyptic Chicago[/nation]
+Minister of Foreign Affairs: [nation=short]Great Zlin[/nation]
+Minister of Geography: [nation=short]Astrim[/nation]
+Minister of Information: [nation=short]Sodexo[/nation]
+Minister of Justice:[nation=short]The Briarwood[/nation]
+Secretary Of State And Presidential Advisor: Vacant[/b]
 
 The Union of Confederate Regions is a confederacy created by the merger between Aerope, Regime of Ascendancy, Beastkin Imperial Conglomerate of Langor,  The Third Party and The British Republic . One representative from each region is given access to the Union Council.
-
-Citizens of all regions are equal, as are member regions of the Union. WA Membership is highly encouraged for all members (exluding the Union Council).

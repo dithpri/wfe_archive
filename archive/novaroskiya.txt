@@ -1,4 +1,4 @@
-[b]Delegate:[/b] 
+[b]Delegate:[/b] [nation]Nation state name[/nation] (awaiting election)
 [b]Vice-delegate:[/b]
 [b]Chief Justice:[/b]
 [b]Administrator:[/b] [nation]United Western States of America[/nation]
