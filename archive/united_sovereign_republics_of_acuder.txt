@@ -1,9 +1,9 @@
 Regional Government:
 -----------------------------
 [color=red]President:[/color][nation=short]The Barbradian Republic[/nation]
-[color=blue]President advisor:[/color][nation=short]North Libya[/nation]
+[color=blue]President advisor:[/color][nation=short]yuketobaniac[/nation]
 
-[color=orange]Prine Minister:[/color][nation=short]Community of free peoples[/nation]
+[color=orange]Prime Minister:[/color][nation=short]Community of free peoples[/nation]
 [color=blue]Chancellor advisor:[/color][nation=short]kazadure[/nation]
 
 Regional Government Officials:

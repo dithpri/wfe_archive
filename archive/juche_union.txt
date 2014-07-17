@@ -12,7 +12,7 @@ Vice Delegate: [nation=short]Greater Gaelicland[/nation]
 General of the People&amp;#39;s Liberation Red Army: [nation=short]Omensa[/nation]
 
 Minister of Public Information: [nation=short]Sween[/nation]
-People&amp;#39;s Ambassador: Vacant
+People&amp;#39;s Ambassador: [nation]Communist Skyrim[/nation]
 Minister of Culture: Vacant
 Chief Recruiter: [nation=short]Sween[/nation]
 

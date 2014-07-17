@@ -12,7 +12,7 @@ Secretary-General:
 Deputy Secretary General:
 Minister of Foreign Affairs:
 Minister of Internal Affairs: [nation=short]Kamuri[/nation]
-Minister of Intelligence:
+Minister of Intelligence: [nation=short]Aquion Islands[/nation]
 Minister of Defense:
 [hr]
 
