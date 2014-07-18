@@ -10,9 +10,8 @@
 [hr]
 [u]Regional security[/u]
 [color=green][b]Green[/b][/color]-At peace
-[color=yellow][b]Yellow[/b][/color]-Suspicious
-[color=orange][b]Orange[/b][/color]-Threatened
-[color=red][b]Red[/b][/color]-Lockdown
-[b]Black[/b]-War
+[color=yellow][b]Yellow[/b][/color]-Threatened
+[color=orange][b]Orange[/b][/color]-Lockdown
+[color=red][b]Red[/b][/color]-War
 
 [b]Current status:[/b] [color=green][b]Green[/b][/color]

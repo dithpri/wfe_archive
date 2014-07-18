@@ -1,17 +1,16 @@
 Regional Government:
 -----------------------------
-[color=red]President:[/color][nation=short]The Barbradian Republic[/nation]
-[color=blue]President advisor:[/color][nation=short]yuketobaniac[/nation]
+President: Barbradian republic
 
 [color=orange]Prime Minister:[/color][nation=short]Community of free peoples[/nation]
 [color=blue]Chancellor advisor:[/color][nation=short]kazadure[/nation]
 
 Regional Government Officials:
 --------------------------------------
-[color=red]Military Commander:[/color]
+[color=red]Military Commander:[/color][nation=short]Yuketobaniac[/nation]
 [color=blue]World Affairs Minister:[/color]
 [color=orange]Minister of Culture:[/color]
-[color=purple]Minister of Justice:[/color]
+[color=purple]Minister of Justice:[/color][nation=short]Stone Cuaron[/nation]
 
 
 Laws:
