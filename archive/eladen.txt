@@ -12,7 +12,7 @@ Smartest: 670th
 Culture: 684th
 Advanced: 222nd
 
-Defense: 26th
+Defense: 23rd
 Armed: 153rd
 Police: 545th
 Aggression: 48th
@@ -31,7 +31,7 @@ Gambling: 15th
 Manufacturing: [color=orange][b]9th[/b][/color]
 IT: 15th
 Retail: [b][color=orange]6th[/b][/color]
-Basket: [b][color=orange]8th[/b][/color]
+Basket: [b][color=orange]6th[/b][/color]
 Timber: [color=orange][b]9th[/b][/color]
 Employment: 80th
 

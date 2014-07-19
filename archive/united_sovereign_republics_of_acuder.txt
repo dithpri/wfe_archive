@@ -1,18 +1,17 @@
-Regional Government:
+West USRA (Capitalist,)
 -----------------------------
-President: Barbradian republic
+[color=red]President:[/color][Nation=short]The Barbradian Republic[/nation]
+[color=orange]Prime Minister[/color][nation=short]Stone Cuaron[/nation]
 
-[color=orange]Prime Minister:[/color][nation=short]Community of free peoples[/nation]
-[color=blue]Chancellor advisor:[/color][nation=short]kazadure[/nation]
+
 
 Regional Government Officials:
---------------------------------------
 [color=red]Military Commander:[/color][nation=short]Yuketobaniac[/nation]
 [color=blue]World Affairs Minister:[/color]
 [color=orange]Minister of Culture:[/color]
-[color=purple]Minister of Justice:[/color][nation=short]Stone Cuaron[/nation]
+[color=purple]Minister of Justice:[/color]Stone Cuaron
 
+East USRA ( communist)
 
-Laws:
----------------------
-Following the legalisation in Acuder is the President has established that freedom of speech is held dear, and every nation is entitiled to it.
+[color=red]President:[/color][nation=short]community of free peoples[/nation]
+[color=orange]Vice President:[/color][nation=short]Kazadure[/nation]

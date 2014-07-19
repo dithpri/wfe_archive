@@ -1,10 +1,9 @@
 [hr][b]House of Legislators:[/b]
 
 [b]Prime Minister[/b]: [nation=short]The Peoples Federal Empire[/nation]
-[b]Secretary of War and Role Playing:[/b] [nation]IGI[/nation]
+[b]Secretary of War:[/b] [nation]IGI[/nation]
 [b]Secretary of Law Enforcement:[/b]  [nation]Isla de militarias[/nation]
-[b]Secretary of Global Communications and Relations:[/b] [nation=short]The Peoples Federal Empire[/nation]
-[b][region]The Illuminati[/region] Ambassador:[/b] [nation]The Illuminati Agenda[/nation]
+[b]Secretary of Global Communications and Relations:[/b] Vacant
 [b]Secretary of Capitalism:[/b] Vacant
 [b]Secretary of Economics:[/b] [nation]Tyrinda[/nation]
 [hr][b]General Executives:[/b] Everyone except the Chief Justice and members of the House of Legislators.
