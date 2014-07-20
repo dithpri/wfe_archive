@@ -3,4 +3,6 @@
  &raquo; [nation=short]Riftend[/nation]
  &raquo; [nation=short]Stretchington[/nation]
  &raquo; [nation=short]Creideamh Siochanta[/nation]
- &raquo; [nation=short]The united national federation[/nation][/b][/color]
+ &raquo; [nation=short]The united national federation[/nation]
+
+Updates waited for a liberation:[list]II[/list][/b][/color]

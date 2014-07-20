@@ -5,11 +5,13 @@
 
 [color=gold][b]Prime Minister[/b][/color]: Lester Graff of  [nation]Greycliffe[/nation]
 
-[color=gold][b]Chancellor General[/b][/color]: Amery Fens of  [nation]Voshelmn[/nation]
+[color=gold][b]Chancellor General[/b][/color]: Gregory McNarren of [nation]Campbania[/nation]
 
 [hr]
 
-[color=purple]First Minister[/color]: Desmond Blake of [nation]The Farrenshire[/nation]
+[color=blue]First Minister[/color]: Desmond Blake of [nation]The Farrenshire[/nation]
+
+[color=blue]Governor of the Unified States[/color]: Amery Fens of [nation]Voshelmn[/nation]
 
 [hr]
 

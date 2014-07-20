@@ -6,11 +6,11 @@
  
 [u]Government[/u]
 Delegate:[nation=short]4years[/nation](LO)
-Commissar of Foreign Affairs:[nation=short]Aellas[/nation](DKLF)
+Commissar of Foreign Affairs:[nation=short]Communist Kelxo[/nation](I)
 Commissar of Internal Affairs: [nation=short]Communist Bloodia[/nation](RF)
 Commissar of Defense:[nation=short]Custadia[/nation](DKLF)
-Commissar of Immigration:[nation=short]Marxist Kommunists[/nation](LO)
-Commissar of Education:[nation=short]Astreapolis[/nation](DKLF)
+Commissar of Immigration:[nation=short]VACANT[/nation]
+Commissar of Education:[nation=short]Soviet East Japan[/nation](I)
 Editor in Chief: [nation=short]VACANT[/nation][/color]
 
 [hr][url=http://www.marxists.org/archive/][color=red]Marxists Internet Archive[/color][/url] &amp;lt;--- left-wing literature online
