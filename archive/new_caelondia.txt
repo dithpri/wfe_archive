@@ -1,1 +1,23 @@
 Welcome to New Caelondia.
+
+[u]Power Blocs[/u]
+
+[b]Alliance for Democracy[/b]
+[nation]Astoria[/nation]
+[nation]New Natalia[/nation]
+[nation]Felania[/nation]
+[nation]Voroniya[/nation]
+
+[b]Atlantic Pact[/b]
+[nation]Emporea[/nation]
+[nation]Congaree[/nation]
+
+[b]New Internationale[/b]
+[nation]Rusanyia[/nation]
+[nation]Comorostan[/nation]
+
+[u]Regional News[/u]
+
+-[nation]Comorostan[/nation] denies involvement in Gilani coup
+-Alliance for Democracy to host annual summit in [nation]New Natalia[/nation]
+-Major riots/demonstrations continue in [nation]Congaree[/nation]

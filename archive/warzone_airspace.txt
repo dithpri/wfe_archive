@@ -1,6 +1,12 @@
 [color=maroon][b]Welcome, weary traveler, to Warzone Airspace - a monument to Warzone Culture and Warzone Community Building everywhere[/b][/color]
 
 [b][color=goldenrod]Hail [nation=Warzone Codger]; savior of the Warzones!![/color][/b]
+Prime Minister: [nation]Crisisies[/nation]
+Minister of Military Operations: [nation]Vaaldyra[/nation]
+Minister of Domestic Affairs: [nation]Lyrasan[/nation]
+Regional Advisors: [nation]Warzone Codger[/nation]
+                           [nation]Ruzan[/nation]
+                           [nation]Tanou[/nation]
 
 [b]We are those who choose to reside above the chaos of the world below.[/b]
 

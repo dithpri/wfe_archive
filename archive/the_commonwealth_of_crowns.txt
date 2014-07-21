@@ -4,7 +4,7 @@
 
 [b]The XVII REC[/b]
 Secretary-General: [nation=short]The Folkelands[/nation]
-Vice-Chancellor: [nation=short]The Two Exalted Kingdoms[/nation]
+Chancellor: [nation=short]Torvalyn[/nation]
 Speaker: [nation=short]Ethopolis[/nation]
 Prosecutor-General: [nation=short]San Monteriano[/nation]
 High Commander: [nation=short]Borduriaa[/nation]
