@@ -11,18 +11,18 @@ WA Delegate:
 [nation=short]The Ancient World[/nation] (T1 - Endo. Cap: 13)
 
 Senate: 
-1|[nation=short]Hayabusa[/nation](T3)
+1|[nation=short]Lewayiin[/nation](T1)
 2|[nation=short]Jantanu[/nation](T1)
 3|[nation=short]Basseemia[/nation](T1)
 
 Ambassador:
-(Election in Process)
+---
 
 Secretary of Trade &amp;amp; Economics:
-(Election in Process)
+---
 
 Justice: 
-[nation=short]Lewayiin[/nation](T1)
+---
 
 Elder: 
 [nation=short]Kelvaros Prime[/nation][/list][/b][/color][hr]

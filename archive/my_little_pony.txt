@@ -6,6 +6,7 @@
 [nation=short]Feuer Ritter[/nation]
 [nation=short]Wetwork XIII[/nation]
 [nation=short]Gladio III[/nation]
+[nation=short]Coraxion[/nation]
 [/b]
 
 [b]Thanks to [nation=short]Ever-Wandering Souls[/nation] from [region]Sicarius[/region] for participating![/b]

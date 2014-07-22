@@ -1,3 +1,5 @@
 Kerbin is, well, Kerbin.
 
 This region is a Kerbal Space Program based region.
+
+Note: following update .24, you now must change your currency to the Fund

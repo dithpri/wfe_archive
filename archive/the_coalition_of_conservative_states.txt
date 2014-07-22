@@ -14,11 +14,11 @@
 [b][color=red]Red:[/b] Prep Nukes: War is here![/color]
 
 [b][color=darkcyan]Current Threat Level:[/color]
-[color=red]Red! We are at war! More details will arrive shortly from our spies.[/color][/b]
+[color=yellow]Yellow[/color][/b]
 
 [b][color=darkcyan]Regional Government:[/b]
 President: [nation=short]Capitalem[/nation]
-Vice President: [nation=short]Agriste[/nation]
-General: [nation=short]Pakstria[/nation]
+Vice President: [nation=short]Zaldania[/nation]
+General: [nation=short]Agriste[/nation]
 
 [b]For other government positions, apply on our [url=http://coalitionofconservativestates.weebly.com/apply-for-a-government-position.html]website[/url].[/color][/b]

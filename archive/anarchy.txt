@@ -7,7 +7,6 @@
 [nation=short]Kknight[/nation]
 [nation=short]Scooby-Doo[/nation]
 [nation=short]suchasmallthing[/nation]
-[nation=short]Koth II[/nation]
 [nation=short]Ridersyl[/nation]
 
 [color=#000061]Defenders banned:[/color] [color=black]Enough to block out the sun[/color]

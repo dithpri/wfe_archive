@@ -10,11 +10,12 @@
 
 [b][color=green]The Executive:[/b][/color]
 
-[b]TBD[/b]
+[b]President: [nation=short]Deuceland[/nation]
+Admiral of Starfleet: [nation=short]The Vulcan Science Academy[/nation][/b]
 
 [b][color=green]The Council:[/b][/color]
 
-[b]TBD[/b]
+[b]TBD|TBD|TBD|[nation=short]The Klingon High Council[/nation][/b]
 
 [b][color=green]The Supreme Court:[/b][/color]
 
