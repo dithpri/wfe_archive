@@ -9,7 +9,6 @@ Delegate:[nation=short]4years[/nation](LO)
 Commissar of Foreign Affairs:[nation=short]Communist Kelxo[/nation](I)
 Commissar of Internal Affairs: [nation=short]Communist Bloodia[/nation](RF)
 Commissar of Defense:[nation=short]Custadia[/nation](DKLF)
-Commissar of Immigration:[nation=short]VACANT[/nation]
 Commissar of Education:[nation=short]Soviet East Japan[/nation](I)
 Editor in Chief: [nation=short]VACANT[/nation][/color]
 
