@@ -12,7 +12,7 @@ WA Delegate:
 
 Senate: 
 1|[nation=short]Lewayiin[/nation](T1)
-2|[nation=short]Jantanu[/nation](T1)
+2|[nation=short]Cyaania[/nation](T1)
 3|[nation=short]Basseemia[/nation](T1)
 
 Ambassador:

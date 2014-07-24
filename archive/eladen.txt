@@ -18,22 +18,17 @@ Police: 545th
 Aggression: 48th
 
 Economy: 46th
-Fishing: [color=orange][b]5th[/b][/color]
-Arms: 12th
-Beverage: [color=orange][b]8th[/color][/b]
+Auto, Fishing, Insurance, Cheese: [b][color=orange]5th[/b][/color]
+Retail, Basket: [b][color=orange]6th[/b][/color]
+Agriculture: [b][color=orange]7th[/b][/color]
+Beverage: [b][color=orange]8th[/b][/color]
+Manufacturing, Timber: [b][color=orange]9th[/b][/color]
 Mining: 11th
-Agriculture: [color=orange][b]7th[/color][/b]
-Publishing: 15th
-Auto: [color=orange][b]5th[/b][/color]
-Insurance: [color=orange][b]5th[/b][/color]
-Cheese: [color=orange][b]5th[/b][/color]
-Gambling: 15th
-Manufacturing: [color=orange][b]9th[/b][/color]
-IT: 15th
-Retail: [b][color=orange]6th[/b][/color]
-Basket: [b][color=orange]6th[/b][/color]
-Timber: [color=orange][b]9th[/b][/color]
+Arms: 12th
+IT, Gambling, Publishing: 15th
 Employment: 80th
+
+
 
 [I][b][color=red][u]#1 in NationStates[/u][/color][/b][/I]
 
