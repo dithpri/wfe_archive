@@ -1,12 +1,6 @@
 
 [B][color=Purple]Welcome to The Allied Nations Republic![/color][/B]
 
-[B][u]Executive[/u][/B]
-[B][color=Blue]Prime Minister: [nation=short]The United Covenant[/nation][/color][/B]
-[B][color=Blue]Deputy Prime Minister: [nation=short]Lernerland[/nation][/color][/B]
+[B]Supreme Leader: [nation]21 Tribes[/nation][/B]
 
-[B][u]Parliament[/u][/B]
-[B][nation=short]Bursa Selimers[/nation], [nation=short]The United Covenant[/nation], [nation=short]Lernerland[/nation], [nation=short]Dotican[/nation][/B]
-
-
-
+Now a colony of [region]The Second Republic Alliance[/region]
