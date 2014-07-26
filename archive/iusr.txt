@@ -19,7 +19,6 @@
 
 [b]Allied Nations[/b]
 
-[nation]Anslavica[/nation]
 [nation]Canakhstan[/nation]
 [nation]Kuzbeckistan[/nation]
 [nation]Libhiriya[/nation]

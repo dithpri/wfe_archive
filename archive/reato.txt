@@ -10,13 +10,11 @@ Members:
 -[region]The Commonwealth States[/region]
 -[region]The conservative christians[/region]
 -[region]The Federal Islands 2nd Gen[/region]
+-[region]The United Front[/region]
 -[region]Yerfilag[/region]
 
 Observers:
 -[region]The Hyatt Islands[/region]
-
-In Voting:
--[region]The United Front[/region]
 
 Pending:
 -[region]Benevolent Capitalism[/region]

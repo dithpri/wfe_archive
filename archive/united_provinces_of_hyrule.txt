@@ -13,7 +13,7 @@ United under the Seal of the Royal Family of Hyrule, the six provinces work toge
 [b][color=purple]Steward of Power: [/color][/b][nation=short]Greater Amestris[/nation]
 [hr][i][u][b]The Provinces and their Governors:[/b][/u][/i]
 
-[b][color=darkblue]Lanayru[/color][/b]: [i]*open*[/i]
+[b][color=darkblue]Lanayru[/color][/b]: [nation=short]The Royal Protectorate of Kingdom Hearts[/nation]
 [b][color=gray]Peak[/color][/b]: [nation=short]Hyrulean_Drasnia[/nation]
 [b][color=orange]Desert[/color][/b]: [i]*open*[/i]
 [b][color=brown]Eldin[/color][/b]: [i]*open*[/i]
