@@ -1,9 +1,9 @@
-[color=red][b]This region has been taken by the imperial army of [region]The Imperial Storm Trooper Legion[/region][/color][/b]
-
-[b][color=red]This region was reduced to a ocean of flames by the following imperial troops[/color][/b]
-
-[b][nation=short]The Imperial Storm Trooper[/nation][/b]
-[b][nation=short]Jolthig[/nation][/b]
+[b][color=#571B7E]As the sun peaked over the horizon, The [region]Coalition of Freedom[/region] ventured forth, leaving no survivors in the name of [u]The Prophet[/b][/u]:
+[b][list][nation=short]Cosmic PowerLord[/nation]
+[nation=short]The Imperial Storm Trooper[/nation]
+[nation=short]The United National Federation[/nation]
+[nation=short]Bearon[/nation]
+[nation=short]Anthony Willman[/nation][/b][/list][/color]
 
 [b]With Special Thx to [nation=short]Vandoosa[/nation] of the [region]Glorious Nations of Iwaku[/region] for her and [nation=short]A Dark Shadow[/nation] of [region]Children of the Grave[/region] for there support[/b]
 

@@ -19,4 +19,4 @@ Ambassador: TBA
 [color=orange][b]Orange[/b][/color]-Lockdown
 [color=red][b]Red[/b][/color]-War
 
-[b]Current status:[/b] [color=green][b]Green[/b][/color]
+[b]Current status:[/b] [color=orange][b]Orange[/b][/color]

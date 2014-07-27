@@ -8,7 +8,7 @@ ALLIES
 
 MINISTERS
 War: [nation]Chad Empire[/nation] 
-Totalitarian Spirit: -
+Totalitarian Spirit: [nation]Koopaville[/nation]
 Foreign Affairs: [nation]Valcouria[/nation]
 Internal Affairs: [nation]The Mighty Hyena[/nation]
 

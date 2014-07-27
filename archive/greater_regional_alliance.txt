@@ -3,10 +3,8 @@ Welcome to the Greater Regional Alliance (aka GRA)! We are committed to the defe
 Signatories of the GRA Treaty
 
 Members:
--[region]The Germanei Sivanian Alliance[/region]
-
-Observers:
--[region]Markarth[/region]
+- [region]The Germanei Sivanian Alliance[/region]
+- [region]Markarth[/region]
 
 Pending:
 -Judean Alliance
