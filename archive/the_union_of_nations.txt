@@ -1,8 +1,8 @@
 [b]Regional Government[/b]
 Governor: [nation]Qubec[/nation]
-Lieutenant Governor: [nation]Israela[/nation] (President of the IU)
+Lieutenant Governor: [nation]Israela[/nation] (Suspended Until Further Notice)
 Minister of Regional Security: [i]Vacant[/i]
-Head of the Regional Council: [i]Vacant[/i]
+Head of the Regional Council: [nation]Valdiu[/nation]
 Regional Council: [i]Vacant[/i]
 Ambassador to the IU: [i]Vacant[/i]
 Minister of Affairs: [i]Vacant[/i]
