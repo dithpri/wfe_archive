@@ -1,3 +1,3 @@
 Fort Whitehorse was once an outpost of the international alliance of Otolia, a diverse community of nations that stuck to the traditional ways. This region was once operated by Supreme General Fodor Sr., his son Fodor Jr. rebuilt it and now operates it. Fort Whitehorse is the last remnant of Otolia. 
-Fort Operator: [nation]Fodor[/nation]
+Fort Operators: [nation]Fodor[/nation], [nation]Hericropolis[/nation]
 Outposts: [region]Green Fields[/region]

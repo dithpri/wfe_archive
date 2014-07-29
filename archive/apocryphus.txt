@@ -8,12 +8,12 @@
 [b][u]APOCRYPHUS COMMISSION OF NATIONS[/u][/b]
 
 Administrator: [nation=short]Stormwrathia[/nation]
-Secretary-General:
+Secretary-General: [nation=short]White Fauna[/nation]
 Deputy Secretary General:
 Minister of Foreign Affairs:
 Minister of Internal Affairs: [nation=short]Kamuri[/nation]
 Minister of Intelligence: [nation=short]Aquion Islands[/nation]
-Minister of Defense:
+Minister of Defense: [nation=short]Rykzia[/nation]
 [hr]
 
 [color=red]There&amp;#39;s no such thing as raiding here. It&amp;#39;s [b]impossible.[/b][/color]

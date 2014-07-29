@@ -4,10 +4,9 @@ Chancellor [nation=short]Conservative Idealism[/nation]
 President [nation=short]Bushterria[/nation]
 [B]Ministers:[/B]
 [nation=short]The Constitutional Land of Freedom[/nation] (Measure)
-[nation=short]Humpheria in the IRU[/nation] (Mediation)
+VACANT (Mediation)
 [nation=short]Scheinfeld[/nation] (Military)
 [B]Senators:[/B]
-[nation=short]Humpheria in the IRU[/nation]
 [nation=short]New Hiederstan[/nation]
 [nation=short]The Seafield Islands IRU Senator[/nation]
 

@@ -13,7 +13,7 @@ Our 3 core values are [u]meritocracy, hierarchy and respect[/u]. [/b]
 
 [color=maroon][b]Lord President of the Council:[/color] [/b][nation=short]Sacheyenya[/nation]
 
-[b]High Chancellor: [/b]Vacant
+[b]Acting High Chancellor: [/b][nation=short]Ludania[/nation]
 
 [hr]
 
@@ -24,4 +24,4 @@ Our 3 core values are [u]meritocracy, hierarchy and respect[/u]. [/b]
 [b]Endorsement Cap: 1[/b][hr]
 
 [b][color=blue]Regional News Headlines:[/color] 
-[color=lime]!!NEW!![/color] The Emperor apologizes for wrongful candidacy of [nation=short]Poretos[/nation] who has defected while serving as High Chancellor!! [/b]
+[color=tangerine]!!NEW!![/color]Our 1st Chancellor, [nation=short]Ludania[/nation] bravely stands in as acting Chancellor![/b]
