@@ -3,10 +3,10 @@ Novaroskiya is a region where all nations can come together in a safe, friendly 
 [color=red]Please register on the forums and read the constitution if you plan on staying.[/color]
 
 [b][url=http://novaroskiyaforums.prophpbb.com/?sid=a88064a6b3ca5289b0bfb9c05d1b920d]Forums[/url]
-[url=http://nsdossier.texasregion.net/main.aspx?region=Novaroskiya]Economy[/url][/b]
+[url=http://nsdossier.texasregion.net/main.aspx?region=Novaroskiya]Dossier[/url][/b]
 [hr]
 [b][u]Government[/u][/b]
-Delegate: TBA
+Delegate: [nation=short]Neptoon[/nation]
 Vice-delegate: TBA
 Chief Justice: TBA
 Administrator: [nation=short]United Western States of America[/nation]
@@ -19,4 +19,4 @@ Ambassador: TBA
 [color=orange][b]Orange[/b][/color]-Lockdown
 [color=red][b]Red[/b][/color]-War
 
-[b]Current status:[/b] [color=orange][b]Orange[/b][/color]
+[b]Current status:[/b] [color=green][b]Green[/b][/color]

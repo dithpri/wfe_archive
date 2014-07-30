@@ -5,11 +5,13 @@ The Democratic Union of Free Nations (commonly called the DUFN or simply &amp;qu
 We here are a direct democracy. Our legislative body is the &amp;quot;Assembly,&amp;quot; made up of all World Assembly Nations.
 
 President: [nation]Teachers[/nation]
-Chancellor: [nation]Speroland[/nation]-[b]All WA nations must endorse him[/b]
-Secretary of State: Vacant
-Secretary of Defense: Vacant
-Secretary of Justice: Vacant
+Chancellor: [nation]Speroland[/nation]-[b]All WA nations must endorse him[/b]*
+Secretary of State: Vacant*
+Secretary of Defense: Vacant*
+Secretary of Justice: Vacant*
 Chief Justice: Vacant
+
+[b]*UP FOR ELECTION ON AUGUST 31![/b]
 
 This nation of the president&amp;#39;s is the official keeper of the region&amp;#39;s archives and public records (look in its factbook):
 [nation]The DUFN Archives and Public Records[/nation]

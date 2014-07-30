@@ -16,13 +16,13 @@ Senate:
 3|[nation=short]Basseemia[/nation](T2)
 
 Ambassador:
----
+[nation=short]Aodan[/nation](T1)
 
 Secretary of Trade &amp;amp; Economics:
----
+[nation=short]Hayabusa[/nation](T1)
 
 Justice: 
----
+[nation=short]Zach America[/nation](T1)
 
 Elder: 
 [nation=short]Kelvaros Prime[/nation][/list][/b][/color][hr]
