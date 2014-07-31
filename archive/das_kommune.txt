@@ -6,7 +6,7 @@
  
 [u]Government[/u]
 Delegate:[nation=short]4years[/nation](RCP)
-Commissar of Foreign Affairs:[nation=short]Communist Kelxo[/nation](I)
+Commissar of Foreign Affairs:[nation=short]Ruskslavia[/nation](CPDK)
 Commissar of Internal Affairs: [nation=short]Communist Bloodia[/nation](CPDK)
 Commissar of Defense:[nation=short]Custadia[/nation](DKLF)
 Commissar of Education:[nation=short]Soviet East Japan[/nation](RCP)

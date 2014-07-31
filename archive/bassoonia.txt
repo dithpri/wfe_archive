@@ -1,8 +1,5 @@
-[color=red][b]This region has been taken by the imperial army of [region]The Imperial Storm Trooper Legion[/region][/color][/b]
+[color=blue][b]At the request of the native population, this region has been quietly liberated by the forces of [region]The Liberation Front[/region].[/b][/color]
 
-[b][color=red]This region was reduced to a ocean of flames by the following imperial troops[/color][/b]
+Control of this region will be returned to the natives as soon as appropriate arrangements can be made.
 
-[b][nation=short]The Imperial Storm Trooper[/nation][/b]
-[b][nation=short]Asian Confederation[/nation][/b]
-
-[b]With Special Thx to [nation=short]Vandoosa[/nation] of the [region]Glorious Nations of Iwaku[/region] for her support[/b]
+[color=red][b]May peace and freedom prevail![/b][/color]

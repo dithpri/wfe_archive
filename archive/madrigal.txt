@@ -4,7 +4,7 @@
 Prime Minister: [nation=short]Solvis[/nation]
 Minister of Defense: [nation=short]Shadoke[/nation]
 Minister of Intelligence: [nation=short]Vacant[/nation]
-Minister of Foreign Affairs: [nation=short]Vacant[/nation]
+Minister of Foreign Affairs: [nation=short]Izwayla[/nation]
 Minister of Internal Affairs: [nation=short]Vacant[/nation]
 Minister of Roleplay: [nation=short]Vacant[/nation]
 [hr][u]Weekly RMB Topic:[/u][/b]
