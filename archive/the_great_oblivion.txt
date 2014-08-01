@@ -8,7 +8,7 @@ WA Delegate:
 Nations:
 [nation=short]Fedorana[/nation]
 [nation=short]Khgana[/nation]
-[nation=short]General King IX[/nation]
+[nation=short]Qelic[/nation]
 [nation=short]sanadiceuw[/nation]
 
 Regional Embassies:

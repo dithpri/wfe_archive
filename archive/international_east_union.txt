@@ -1,4 +1,4 @@
-Alert:[color=Orange]Orange[/color] 
+Alert:[color=Orange]Orange[/color] [b]REFUNDING[/b]
 
 [b][color=red]*[/color][color=blue]*[/color][color=black]*[/color][color=gold]*[/color][color=red]*[/color][color=blue]*[/color] [url=http://ieastu.weebly.com/] [color=red]Welcome![/color][/url] [color=gold]*[/color][color=red]*[/color][color=blue]*[/color][color=black]*[/color][color=gold]*[/color][color=red]*[/color][/b]
 
@@ -10,7 +10,7 @@ Alert:[color=Orange]Orange[/color]
 
 [color=gold]Royal House:[/color]
 [b]Queen: Raisa I [nation=short]Kobras XIV[/nation]
-King Consort: 
+King Consort: [nation=short]Violazed[/nation]
 
 [color=red]Executive:[/color]
 Prime Minister: [nation=short]Munray[/nation]
@@ -35,4 +35,3 @@ Minister of The Interior: [nation=short]the first Carthage[/nation][/b]
 
 
 [hr][b]Please join the [url=http://www.nationstates.net/page=un]WA[/url][/b] [b]and endorse our delegate, [nation=short]Munray[/nation]. [/b] -[i]Term ends August 16, 2014-[/i]
-
