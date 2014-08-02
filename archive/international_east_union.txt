@@ -1,4 +1,4 @@
-Alert:[color=Orange]Orange[/color] [b]REFUNDING[/b]
+Alert:[color=Orange]Orange[/color]
 
 [b][color=red]*[/color][color=blue]*[/color][color=black]*[/color][color=gold]*[/color][color=red]*[/color][color=blue]*[/color] [url=http://ieastu.weebly.com/] [color=red]Welcome![/color][/url] [color=gold]*[/color][color=red]*[/color][color=blue]*[/color][color=black]*[/color][color=gold]*[/color][color=red]*[/color][/b]
 
@@ -10,7 +10,7 @@ Alert:[color=Orange]Orange[/color] [b]REFUNDING[/b]
 
 [color=gold]Royal House:[/color]
 [b]Queen: Raisa I [nation=short]Kobras XIV[/nation]
-King Consort: [nation=short]Violazed[/nation]
+King Consort: [nation=short]People Who stand United[/nation]
 
 [color=red]Executive:[/color]
 Prime Minister: [nation=short]Munray[/nation]

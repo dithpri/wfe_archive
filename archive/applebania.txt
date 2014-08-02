@@ -1,0 +1,1 @@
+This is a general purpose puppet storage owned and run by Applebania, though others can use it as well.
