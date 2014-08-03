@@ -1,10 +1,11 @@
 [color=0010BF][i][b][u]The Illawarran Empire[/u][/b][/i][/color]
 
 [hr][color=red][b]The Senate[/b][/color]
-[b]Vice Delegate:[/b] OPEN
-[b]Chief Of Staff:[/b] OPEN
-[b]Intelligence Services Commissioner:[/b] OPEN
-[b]Commissioner of the NBN:[/b] OPEN
+[b]Chief Of Staff:[/b] [nation]Markham[/nation]
+[b]Intelligence Services Commissar:[/b] [nation]Conwy-Shire[/nation]
+[b]Commissar of the NBN:[/b] [nation]Bryndonesia[/nation]
+[b]Commissar of Freedom and Propaganda:[/b] [nation]Phlegathon[/nation]
+[b]Minister for Shakespeare:[/b] [nation]Crucania[/nation]
 [hr][color=0010BF][i][b]Announcements:[/i][/b][/color]
 
 [b] [nation]Rukiah[/nation] is elected to the Delegacy! Rejoice! [/b]

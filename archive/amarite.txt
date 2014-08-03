@@ -1,6 +1,6 @@
 [b][u]Continents of Amarite[/u][/b]
 [B]Northern Island Chain:[/B] [I]Hellgondo[/i]
-[b]Nations:[/b] [i]Sanctus Custodia, Vulkanious, Negades[/i]
+[b]Nations:[/b] [i]Sanctus Custodia, Negades[/i]
 
 [b]Western Continent:[/b] [I]Tahrodiis [/i]
 [B]Nations:[/b] [i]Duim, Dlenendra, Elsitania, Alkinous[/i]
@@ -9,4 +9,4 @@
 [b]Nations:[/b] [i]Ageko, Laiona[/i]
 
 [b]Eastern Continent:[/b] Luarentia
-[b]Nations:[/b] [i] Velestasia, Rathalios, Ermonte[/i]
+[b]Nations:[/b] [i] Velestasia, Rathalios, Ermonte, Vulkanious[/i]
