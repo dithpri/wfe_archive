@@ -19,7 +19,7 @@ Speaker: [nation=short]POTA[/nation]
 
 Justice Officer:[nation=short]Shikah[/nation]
 
-Advisers: 
+Advisers: [nation=short]DANIAL2[/nation]
 
 [color=blue]Ministers:[/color]
 Minister of Foreign Affairs: [nation=short]Kobras XIV[/nation]

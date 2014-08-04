@@ -2,6 +2,7 @@
 
 All natives have been vanquished, by our Agents of Doom:
 
+[nation=short]doom squad commander[/nation]
 [nation=short]Doom machine[/nation]
 [nation=short]Andervia[/nation]
 [nation=short]Schiltzberg[/nation]

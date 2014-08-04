@@ -13,7 +13,7 @@ We have simple rules:
 President (For Life): [nation]Roski Emericans[/nation]
 Vice President: TBE
 Minister of Foreign Affairs: TBE
-Minister of Justice: TBE
+Minister of Justice: [nation]Tibet Septim[/nation]
 Minister of Internal Defence: TBE
 Minister of External Defence: TBE
 Secretary of State: TBE
