@@ -1,9 +1,11 @@
 Welcome to the United Freedom Congress!
 
-Chancellor: [nation]Ralonia[/nation]
-President: [nation]Great Tiropeon[/nation]
+President: [nation]Great Tiropeon[/nation] ([color=orange]Libertarian[/color])
+Chancellor: [nation]Ralonia[/nation] ([color=orange]Libertarian[/color])
+Minister of Regional Affairs: [nation]Tericio[/nation]
+Speaker of the Legislature: [nation]Canovia[/nation] ([color=red]Conservative[/color])
 
 Declaration of Independence from the corrupt [region]The Commonwealth States[/region] completed! Constitution soon to come.
 
-If you would like to join the region, please telegram [nation]Ralonia[/nation] for the password.
+[B][u][color=crimson]NEWS:[/color][/u][/B] [color=cyan]Constitutional Convention soon to come![/color]
  

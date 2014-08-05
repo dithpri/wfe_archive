@@ -1,1 +1,10 @@
-[color=blue]Welcome to the Galactic Imperium. A region devoted to the exploration and colonization of the Galaxy. Open to all species.[/color]
+[b][color=blue][u]WELCOME TO THE GALACTIC IMPERIUM!!![/u][/color][/b]
+A region devoted to the exploration and colonization of the Galaxy. This region is open to all species. 
+_________________________________________________________________________________________________________________________________________
+
+[color=green][b][u]Government:[/color][/u][/b]
+Secretary-General: [nation]Imperial Liberation Force[/nation]
+Deputy Secretary-General: [nation]Praxus 6[/nation]
+Social Council President: [nation]Cuj[/nation]
+Security Council President: [nation]Garget[/nation]
+Director of Pageantry: [nation]Liliana Vess[/nation]

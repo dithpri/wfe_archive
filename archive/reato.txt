@@ -7,7 +7,6 @@ Members:
 -[region]Libertatem[/region]
 -[region]Open Set[/region]
 -[region]Seafieldia[/region]
--[region]The Commonwealth States[/region]
 -[region]The conservative christians[/region]
 -[region]The Federal Islands 2nd Gen[/region]
 -[region]The United Front[/region]
@@ -17,6 +16,7 @@ Observers:
 -[region]The Hyatt Islands[/region]
 
 Pending:
+-[region]United Freedom Congress[/region]
 -[region]Benevolent Capitalism[/region]
 -[region]The Roman Empire SPQR[/region]
 

@@ -7,5 +7,7 @@
 [region]Dnepropetrovsk[/region]
 [region]Calidonia[/region]
 [region]Small Town Virginia[/region]
+[region]Etruria[/region]
+[region]The Republic of Northern Ireland[/region]
 
 [b]Proudly Allied with [region]Nabat[/region], our Ukrainian Anarchist comrades![/b]

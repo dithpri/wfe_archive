@@ -8,7 +8,7 @@ Novaroskiya is a region where all nations can come together in a safe, friendly 
 [b][u]Government[/u][/b]
 Delegate: [nation=short]Neptoon[/nation]
 Vice-delegate: [nation=short]The North American Federal Alliance[/nation]
-Chief Justice: TBA
+Chief Justice: [nation=short]The United Llama Republic[/nation]
 Administrator: [nation=short]United Western States of America[/nation]
 Secretary of Defense: TBA
 Ambassador: TBA

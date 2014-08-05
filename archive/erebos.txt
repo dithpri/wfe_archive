@@ -5,4 +5,4 @@
 
 [color=blue][b]Marching Orders:[/color][/b] [i]nil[/i] 
 
-[color=purple][b]Alert Level[/b][/color] 1 
+[color=purple][b]Alert Level[/b][/color] All Clear
