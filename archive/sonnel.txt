@@ -11,7 +11,7 @@ Founder: Iarocav of [nation=Drawkland]
 Delegate: Mistyfang of [nation=Katrasen]
 
 [u]Lower Division[/u]
-Senator: {Vote Pending}
+Senator: Paceman of [nation=Mushcap]
 Judiciary: {Vote Pending}
 Archivist: {Vote Pending}
 [hr]

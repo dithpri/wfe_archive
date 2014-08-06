@@ -10,5 +10,5 @@ Director: [nation]SHIELD Loyal[/nation]
 [B]Advisers[/B]
 Level 10 Agent/WA Liaison: [nation]The Frost Republic[/nation]
 Head of Operations: [nation]Galactic Clone Army[/nation]
-Head of Immigration:[nation]New Roma Republic[/nation]
+Head of Immigration:
 Head of Diplomacy:[nation]The GA of the United Nations[/nation]

@@ -3,9 +3,9 @@
 [u][I][b]Regional Government[/b][/I][/u]
 Vice-Delegate: [nation]Ism[/nation]
 Prime Minister: [nation]New-netherealm[/nation]
-Minister of the Interior: TBD
-Minister of Foreign Relations: TBD
-Minister of Defense: TBD
+Minister of the Interior: [nation]Alcatrazin[/nation]
+Minister of Foreign Relations: [nation]Brandonian[/nation]
+Minister of Defense: [nation]The Lost Souls[/nation]
 
 [u][I][b]Quick Links[/u][/I][/b]
 Hey! Go Fight for AOAN! Just Click. -&amp;gt; [region]Warzone AOAN[/region]

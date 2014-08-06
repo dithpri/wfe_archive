@@ -2,7 +2,7 @@ Welcome to The Union of Empires. We are striving to become a powerful region pol
 
 President: [nation]Verdovia[/nation]
 Prime Minister: Vacant
-WA Delegate: Vacant
+WA Delegate: [nation]Vardona[/nation]
 Minister of Foreign Affairs: Vacant
 Secretary of Defense: Vacant 
 
