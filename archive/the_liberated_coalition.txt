@@ -1,15 +1,20 @@
-King Of The Coalition: 
+King Of The Coalition:[nation]The Law Enforcers State[/nation]
 
-[b]The Small Council[/b]
-Hand Of The King:
-Master Of Laws:[nation]Luce Terram[/nation]
-Master Of Coin: [nation]Poppunxival[/nation]
-Master of Foreign Affairs:[nation]The Law Enforcers State[/nation] 
+[b]The League[/b]
+Hand Of The King[nation]Wateryan[/nation]
+Master Of Laws:[nation]Bryomen[/nation]
+Master of Foreign Affairs:[nation]Poppunxival[/nation]
 Master of Forums:[nation]Briclyn[/nation]
-Master of Whispers:[nation]Amestrisz[/nation]
-Inquistor Of Internal Security: [nation]Wateryan[/nation]
+Master of Whispers:[nation]Zilorn[/nation]
+Inquistor Of Internal Security:[nation]WarBeast Eastern Federation[/nation]
+Master of Coins:[nation]Luce Terram[/nation]
+
+
 
 [b]General Staff Of the Coalition Armed Forces[/b]
-High Commander Of The Royal Liberation Armed Forces: [nation]Andrale[/nation]
+High Commander Of The Royal Liberation Armed Forces: [nation]Piedepie[/nation]
 
-[i]Endorse [nation]Andrale[/nation] as WA delegate.[/i]
+
+
+
+

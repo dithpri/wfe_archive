@@ -1,8 +1,10 @@
 Welcome to The Union of Empires. We are striving to become a powerful region politcally, economically and militarily. 
 
-President: [nation]Verdovia[/nation]
+President: [nation]Verdovia[/nation] 
 Prime Minister: Vacant
-WA Delegate: [nation]Vardona[/nation]
+WA Delegate: [nation]Vardona[/nation] (LP)
 Minister of Foreign Affairs: Vacant
-Secretary of Defense: Vacant 
+Secretary of Defense: [nation]glory communist norway[/nation]
+Head of Security Service: Vacant 
 
+LP- Liberal Party  CP- Conservative Party  IP- Independent Party
