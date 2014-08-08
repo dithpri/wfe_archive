@@ -9,8 +9,8 @@ Delegate: [nation=short]Neptoon[/nation]
 Vice-delegate: 
 Chief Justice: [nation=short]The United Llama Republic[/nation]
 Administrator: [nation=short]United Western States of America[/nation]
-Secretary of Defense: TBA
-Ambassador: TBA
+Secretary of Defense: [nation=short]Rockford Falls[/nation]
+Ambassador: [nation=short]Nation state name[/nation]
 [hr]
 [b][u]Regional security[/u][/b]
 [color=green][b]Green[/b][/color]-At peace

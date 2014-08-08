@@ -1,10 +1,11 @@
 [color=red]Welcome to the Military Commonwealth![/color]
 
-[b][color=blue]Government of The Military Commonwealth[/color]
+[b][color=blue]Government of The Military Commonwealth[/color][/b]
 
-Prime Minister/WA Delegate: [nation]Theoniatium[/nation]
-Deputy Prime Minister: [nation]New Hunteria[/nation]
-Master of Consequence:[i][nation]New-ish Bulgaria[/nation][/i][/b]
+[b]KING[/b]: [i]HRH King Charles of [nation]The Kingdom of Charleston[/nation][/i]
+[b]Prime Minister/WA Delegate[/b]: [nation]Theoniatium[/nation]
+[b]Deputy Prime Minister[/b]: [nation]New Hunteria[/nation]
+[b]Master of Consequence[/b]:[nation]New-ish Bulgaria[/nation]
 
 
 [url=http://www.nationstates.net/nation=theoniatium/detail=factbook/id=276528]Regional Map[/url]

@@ -1,1 +1,5 @@
-[b][color=gold]The Black Order[/color][/b][hr]
+[b]Entrance to [region]The Black Order[/region] is exclusive to those who wish to serve the highest law of nature
+[color=gold]
+[nation=short]Black Order Commander[/nation]
+Serves as the leader of the Order, upholding the Faith and Laws[hr][nation=short]Acolyte Commander[/nation]
+Serves as the leader of the Holy Soldiers of the Order[hr]High Priest of the Sowilo, 12 Priests of the Sowilo, Acolytes, and Initiates to be named into service of the Creator under the Sign of the Sonnenrad[/color][/b][hr]

@@ -5,11 +5,12 @@
 [hr]
 
 [b][color=darkgreen]The Monarchy:[/color][/b]
-[b]Grand Prince:[/b] HRM Richard I ([nation=short]Prince Richard of Valconesia[/nation])
+[b]Grand Prince:[/b] HRM Casper I
 [b]Grand Princess-Consort:[/b] [i]Vacant[/i]
-[b]Crown Prince:[/b] HRH Richard II ([nation=short]Ricardin[/nation])
+[b]Crown Prince:[/b] [i]Vacant[/i]
+[b]The Lord Protector:[/b] HRH Richard I
 [hr]
 
 [b][color=red]The Government:[/color][/b]
-[b]Prime Minister:[/b] Edward Middleton-Solomon 
-[b]Deputy PM:[/b] Andrew Grey-Anumia
+[b]Prime Minister:[/b] Andrew Grey-Anumia
+[b]Deputy PM:[/b] Armin von Sankt-Gallen
