@@ -12,7 +12,7 @@ Delegate: Mistyfang of [nation=Katrasen]
 
 [u]Lower Division[/u]
 Senator: Paceman of [nation=Mushcap]
-Judiciary: {Vote Pending}
+Judiciary: Luna of [nation=Xhayparia]
 Archivist: {Vote Pending}
 [hr]
 
