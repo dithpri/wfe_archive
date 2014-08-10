@@ -7,7 +7,6 @@
 [color=red]Fathers of the Concordat:[/color]
 [nation=short]Holtsenov[/nation] 
 [nation=short]BURGLOR[/nation] 
-[nation=short]Estus Flask[/nation] 
 [nation=short]Snow People[/nation] 
 [nation=short]The United Korean Socialist Republic[/nation] 
 
@@ -21,6 +20,6 @@ Honorary Fathers:
 [color=red]Admiral General[/color]: Jayk Parsons of [nation=Holtsenov]
 [color=gold]Prime Minister[/color]: Christian Helm of [nation=Burglor]
 [color=bronze]Lieutenant Colonel[/color]: Noah Wright of [nation=snow people]
-[color=lavander]Secretary of Foreign Affairs (S.F.A. for short) [/color]: Wes Scherr of [nation=The United Korean Socialist Republic]
-[color=cobalt]Commander in Chief of Military Action (Chief for short)[/color]: Micah Kurtz of [nation=sullyfields]
+[color=lavander]Secretary of Foreign Affairs[/color]: Wes Scherr of [nation=The United Korean Socialist Republic]
+[color=cobalt]Commander in Chief of Military Action[/color]: Micah Kurtz of [nation=sullyfields]
 [hr]

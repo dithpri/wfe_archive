@@ -7,7 +7,7 @@
 [nation=short]Doom Machine[/nation]
 
 Natives banned: 3
-Defenders banned: 3
+Defenders banned: 8
 
 
 [color=red]The doom squad will doom the world![/color]

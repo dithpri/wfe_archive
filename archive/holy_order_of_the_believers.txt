@@ -6,12 +6,9 @@ aid, or military force.
 
 [color=white][u]Ministers[/u][/color]
 
-[color=purple]Minister of Defense:[/color] None
+[color=purple]Minister of Defense:[/color] [nation]Arbition[/nation]
 
-[color=cyan]Minister of Immigration[/color] None
-
-[color=Green][u]Regional Maps[/u][/color]
-
-[color=Green]Political Map[/color] http://imgur.com/Tgg8ZIv
+[color=cyan]Minister of Immigration[/color] [nation]Nimidi[/nation]
 
 [color=red]NOTE: New WA nations are required to Endorse:[nation]Free Lyberta[/nation][/color]
+ALSO: Nations are not required to, but are encouraged to change their currency to the Hayes

@@ -6,8 +6,6 @@
 
 [b]Regional Administration[/b]
 
-World Assembly Delegate: [nation]Neoconstantius[/nation]
-
 Prime Minister: [nation]Comnemnus[/nation]
 
 Regional Founder: [nation]01 ERE[/nation][hr]
