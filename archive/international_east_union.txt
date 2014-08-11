@@ -8,6 +8,8 @@ Alert:[color=Orange]Orange[/color]
 :.:[url=http://www.youtube.com/watch?v=F38e7z1bP70]Regional Anthem[/url][/i]
 [hr][color=#0404B4].: Leaders :.[/color]
 
+[b][i]IEastU United Council:[/b][/I]
+
 [color=gold]Royal House:[/color]
 [b]Queen: Raisa I [nation=short]Kobras XIV[/nation]
 King Consort: [nation=short]People Who stand United[/nation]
@@ -15,7 +17,7 @@ King Consort: [nation=short]People Who stand United[/nation]
 [color=red]Executive:[/color]
 Prime Minister: [nation=short]Munray[/nation]
 
-Speaker: [nation=short]POTA[/nation]
+Govermental Speaker: [nation=short]POTA[/nation]
 
 Justice Officer:[nation=short]Shikah[/nation]
 

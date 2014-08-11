@@ -1,17 +1,7 @@
 Head of State: [nation]Ann Arbour[/nation]
-Military Size: 7,000,000
-Tanks: 16,000
-Fighter Jets: 20,000
-Bombers: 2,000
-Cargo Planes: 1,000
-Infantry Vehicles: 2,500,000
-Anti-Aircraft: 20,000 per city of 200,000+ civilians
-Howitzers: 5,000 per city of 200,000+ civilians.
-Attack Helicopters: 12,000
-Transport Helicopters: 2,000
-Missiles: 60 in operation; 40 installed but non-operational; 200 being built
-Satellites: 12 un-armed; 3 armed with ballistic strikes
-Nuclear, chemical, conventional warheads
 
+Vice HoS: [nation]Nation of Betz[/nation]
 
-*Note: Most of these numbers are inventory. The 7,000,000 soldiers are due to the law requiring youth starting at age 16 to take 2 years of military service.
+Secretary of Defense: [nation]Alexandria Isles[/nation]
+
+Secretary of Health: [nation]Andreas Fault[/nation]

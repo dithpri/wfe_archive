@@ -11,7 +11,6 @@
 [nation=short]The United Korean Socialist Republic[/nation] 
 
 Honorary Fathers:
-
 [nation=short]SullyFields[/nation]
 [nation=short]Varexia[/nation]
 [nation=short]Jaboody[/nation]
@@ -19,7 +18,7 @@ Honorary Fathers:
 [color=cyan]PARLIAMENT OF THE CONCORDAT[/color]
 [color=red]Admiral General[/color]: Jayk Parsons of [nation=Holtsenov]
 [color=gold]Prime Minister[/color]: Christian Helm of [nation=Burglor]
-[color=bronze]Lieutenant Colonel[/color]: Noah Wright of [nation=snow people]
-[color=lavander]Secretary of Foreign Affairs[/color]: Wes Scherr of [nation=The United Korean Socialist Republic]
-[color=cobalt]Commander in Chief of Military Action[/color]: Micah Kurtz of [nation=sullyfields]
+[color=bronze]Lieutenant Colonel[/color]: {Vote Pending}
+[color=lavander]Secretary of Foreign Affairs[/color]: {Vote Pending}
+[color=cobalt]Commander in Chief of Military Action[/color]: {Vote Pending}
 [hr]

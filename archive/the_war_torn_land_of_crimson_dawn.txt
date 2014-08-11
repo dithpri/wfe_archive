@@ -1,7 +1,7 @@
 [color=lightteal]Welcome to The War Torn Land of Crimson Dawn. Here we share stories or have some fun role-playing all the while being courteous to each other. Heated Debates about sensitive topics are endorsed.[/color]
 [u]Leaders[/u]
 [color=lightblue]King: [nation]Siburria[/nation]
-Prime Minister: 
+Prime Minister: [nation]united east germany[/nation]
 Deputy Prime Minister:[/color] [nation]Soviet Space[/nation]
 
 [color=red]Cabinet:[/color]
@@ -9,5 +9,5 @@ Deputy Prime Minister:[/color] [nation]Soviet Space[/nation]
 [color=lightgreen]Minister of State for Foreign Affairs:[/color]Open (Appointed by the Prime Minister) 
 [color=purple]Minister of password:[/color] pendragon
 [color=teal]Minister of War:[/color] 
-[color=yellow]Minister of State for Health:[/color]Open (Appointed by the Prime Minister) 
+[color=yellow]Minister of Regional Health:[/color]Open (Appointed by the Prime Minister) 
 [color=orange]Minister of State for Justice:[/color] Open (Appointed by the Prime Minister)
