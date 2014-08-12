@@ -1,14 +1,14 @@
 [b][color=blue]Welcome aboard the Maersk Alabama!!![/b][/color]
 [hr]
 [b][color=orange] The Bridge [/b][/color]
-[b]Captain:[/b] [b][nation=Captain Silversmith][/b]
-[b]First Mate:[/b] [nation=first mate shane]
-[b]Second Officer:[/b] [nation=chief of the sea]
+[b]Captain:[/b] [b][nation=NS Raider Commander VI][/b]
+[b]First Mate:[/b] [nation=Captain Silversmith]
+[b]Second Officer:[/b] [nation=3rd Armored Cavalry Regiment]
 [b][color=orange]The Deck[/color][/b]
 [b]Boatswain:[/b] open
 [b]Deck Cadet:[/b] open
 [b][color=orange]Engineering Department[/color][/b] 
-[b]Chief Engineer:[/b] [nation=engineer mike]
+[b]Chief Engineer:[/b] open
 [b]second engineer:[/b] open
 [b][color=orange]Steward&amp;#39;s Department[/b][/color]
 [b]Chief Steward:[/b] open

@@ -1,7 +1,9 @@
-Head of State: [nation]Ann Arbour[/nation]
+Head(s) of State: [nation]Ann Arbour[/nation]; [nation]Betz 2[/nation]
 
 Vice HoS: [nation]Nation of Betz[/nation]
 
 Secretary of Defense: [nation]Alexandria Isles[/nation]
 
 Secretary of Health: [nation]Andreas Fault[/nation]
+
+Regional Capital: Berlin, Germany, [nation]Ann Arbour[/nation]

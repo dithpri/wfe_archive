@@ -1,2 +1,7 @@
-[b] a place for regions [/b]
-[hr]
+[color=brown][b]Hooray, Hooray, We did it, Hooray. This region was conquered by=[region]Sword And Shield[/region][/b][/color]
+
+[color=red][b]The blades that cut there way into battle=[/b][/color]
+
+[nation]critaly[/nation]
+[nation]pentslanda[/nation]
+[nation]romanov alaska[/nation]

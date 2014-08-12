@@ -7,20 +7,20 @@ We encourage nations to join the WA and the forum ([b][u][i]! sign up with your 
 [hr]
 
 [b]Commission[/b]
-Premier: [nation=short]Nouvelle Picardie[/nation]
-Foreign Affairs: [nation=short]Halsberg[/nation]
-Defence and Peacekeeping: [nation=short]Inimicus[/nation]
-Economics: [nation=short]Great Britain and Ireland-[/nation]
-Internal Affairs: [nation=short]Davishire2[/nation]
+Premier: [nation=short]Os Corelia[/nation]
+Foreign Affairs: [nation=short]Poland-Lythuania[/nation]
+Defence and Peacekeeping: [nation=short]Halsberg[/nation]
+Economics: [nation=short]Davishire2[/nation]
+Internal Affairs: [nation=short]Miraco[/nation]
 
 [hr]
 
 [b]Court[/b]
-Chief Justice: [nation=short]Gun-Toting Animals[/nation]
-Justice: [nation=short]Northern Caesarea[/nation]
-Justice: [nation=short]Angleter[/nation]
-Justice: [nation=short]Os Corelia[/nation]
-Justice: [nation=short]Marrakechia[/nation]
+Chief Justice: [nation=short]Angleter[/nation]
+Justice: [nation=short]Gun-Toting Animals[/nation]
+Justice: [nation=short]Inimicus[/nation]
+Justice: [nation=short]Imperial Prussian State[/nation]
+Justice: [nation=short]Icholasen[/nation]
 
 [hr]
 
