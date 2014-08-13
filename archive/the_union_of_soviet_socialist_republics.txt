@@ -7,7 +7,6 @@
 [region]The Russian SFSR[/region]
 [region]The Azerbaijan Soviet Socialist Republic[/region]
 [region]The Georgian Soviet Socialist Republic[/region]
-[region]The Armenian Soviet Socialist Republic[/region]
 [region]The Tajik Soviet Socialist Republic[/region]
 [region]The Kazakh Soviet Socialist Republic[/region]
 [region]The Kirghiz Soviet Socialist Republic[/region]

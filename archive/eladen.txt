@@ -21,8 +21,7 @@ Economy: 46th
 Auto, Fishing, Insurance, Cheese: [b][color=orange]5th[/b][/color]
 Retail, Basket: [b][color=orange]6th[/b][/color]
 Timber, Agriculture: [b][color=orange]7th[/b][/color]
-Beverage: [b][color=orange]8th[/b][/color]
-Manufacturing: [b][color=orange]9th[/b][/color]
+Manufacturing, Beverage: [b][color=orange]8th[/b][/color]
 Mining: 11th
 Arms: 12th
 IT, Gambling, Publishing: 15th

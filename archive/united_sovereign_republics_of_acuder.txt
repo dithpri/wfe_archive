@@ -1,8 +1,6 @@
 [color=red]President:[/color][nation=short]The Barbradian Republic[/nation]
 [color=blue]President Advisor:[/color][nation=short]Yuketobaniac[/nation]
 
-[color=red]Chancellor:[/color][nation=short]North Libya[/nation]
-[color=blue]Chancellor Advisor:[/color][nation=short]Kazadure[/nation]
+[color=red]Prime Minister:[/color][nation=short]community of free peoples[/nation]
+[color=blue]pm Advisor:[/color][nation=short]mungervill[/nation]
 
-[Color=red]Prime Minister:[/color][nation=short]Stone Cuaron[/nation]
-[Color=blue]Vice Prime Minister[/color][nation=short]LapuLapu01[/Nation]
