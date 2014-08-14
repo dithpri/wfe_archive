@@ -1,10 +1,16 @@
-[b]This region has been conquered by independent raiders with the assistance of [region]Madrigal[/region], [region]Sicarius[/region], and [region]The Black Riders[/region]. 
+[b][url=http://www.nationstates.net/page=dispatch/id=290858][color=red]Why you should NOT vote for our liberation! (click here)[/color][/url]
+
+This region has been conquered by independent raiders with the assistance of [region]Madrigal[/region], [region]Sicarius[/region], and [region]The Black Riders[/region]. 
+
+If you are a delegate that voted against the liberation, telegram our delegate because you get a free embassy with us!
+
+All World Assembly nations are to endorse [nation=short]Matthew Hargreaves[/nation] or face ejection.
 
 [color=purple]Into battle rode the following raiders from the following regions:[/color]
 
 Madrigal:
 [nation=short]Shadoke[/nation]
-[nation=short]New Aperonia[/nation]
+[nation=short]Neo Jolthig[/nation]
 [nation=short]The Imperial Storm Trooper[/nation]
 
 Sicarius:
@@ -22,7 +28,5 @@ The Black Riders:
 Other:
 [nation=short]New Nassrau[/nation] (Generalite)
 
-All World Assembly nations are to endorse [nation=short]Matthew Hargreaves[/nation] or face ejection.
-
-[color=red]Natives Kicked: 23[/color]
+[color=red]Natives Kicked: 25[/color]
 [color=red]Liberation Attempts: 1[/color][/b]

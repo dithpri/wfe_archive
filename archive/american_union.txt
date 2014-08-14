@@ -2,7 +2,7 @@ The [b]American Union[/b] (AU) is a political union of democratic member nations
 
 The AU capital is [b][region]the city of Milwaukee[/region][/b], within [b][nation]Tessen[/nation][/b]. (See [url=http://www.nationstates.net/nation=tessen/detail=factbook/id=main]Tessen Factbook[/url])
 
-[i](Established: Region = September 29, 2013 || In-Story = 1925)[/i]
+[i](Established: September 29, 2013 || In-Story = 1925)[/i]
 
 [hr]
 
@@ -14,14 +14,14 @@ The AU capital is [b][region]the city of Milwaukee[/region][/b], within [b][nati
 
 [hr]
 
-[b][color=red]Regional Links:[/color] | [url=http://www.nationstates.net/page=dispatch/id=269819]Claimed Land Census[/url] | [url=http://www.nationstates.net/page=dispatch/id=269817]Regional History[/url] | [url=http://www.nationstates.net/page=dispatch/id=280012]AU Most Developed Nations Report - 2017[/url][/b]
+[b][url=http://www.nationstates.net/page=dispatch/id=269819]Claimed Land Census[/url] | [url=http://www.nationstates.net/page=dispatch/id=269817]Regional History[/url] | [url=http://www.nationstates.net/page=dispatch/id=280012]AU Most Developed Nations Report - 2017[/url][/b]
 
 [hr]
 
-[b][color=red]Resource Links:[/color] | [url=http://s3.zetaboards.com/jonbaas/forum/3004829/]Forum[/url] | [url=http://www.nationstates.net/page=dispatch/id=273689]Role-play Calendar[/url] | [url=http://nstracker.web44.net/]NSTracker[/url] | [url=http://forum.nationstates.net/viewtopic.php?f=15&amp;amp;t=269464]NS++[/url] | [url=http://s4.zetaboards.com/UDL/pages/le/]Lifespan Calculator[/url] | [url=http://www.nationstates.net/page=dispatch/id=271949]Combat Resolution Chart[/url][/b]
+[b][url=http://s3.zetaboards.com/jonbaas/forum/3004829/]Forum[/url] | [url=http://www.nationstates.net/page=dispatch/id=273689]Role-play Calendar[/url] | [url=http://nstracker.web44.net/]NSTracker[/url] | [url=http://forum.nationstates.net/viewtopic.php?f=15&amp;amp;t=269464]NS++[/url] | [url=http://s4.zetaboards.com/UDL/pages/le/]Lifespan Calculator[/url] | [url=http://www.nationstates.net/page=dispatch/id=271949]Combat Resolution Chart[/url][/b]
 
 [hr]
 
-[b]Our &amp;quot;world story&amp;quot; regions: (7)[/b]
-- [b][region]The European Confederacy[/region][/b] (EC) // [b][region]Asian Greater Middle East[/region][/b] (AGME) // [b][region]African Nations[/region][/b] (AN)
--  [b][region]Russian Forum[/region][/b] (RF) // [b][region]The Union of Greater Asia[/region][/b] (UGA) // [b][region]Polynesian Union[/region][/b] (PNU)
+[b]Our &amp;quot;world story&amp;quot; regions: (9)[/b]
+- [b][region]The European Confederacy[/region][/b] (EC) // [b][region]Russian Forum[/region][/b] (RF) // [b][region]Asian Greater Middle East[/region][/b] (AGME)
+- [b](Atlantic region)[/b] // [b][region]African Nations[/region][/b] (AN) // [b][region]The Union of Greater Asia[/region][/b] (UGA) // [b][region]Polynesian Union[/region][/b] (PNU) // [b][region]Britanesia[/region][/b] (BRI)

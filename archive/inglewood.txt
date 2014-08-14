@@ -1,4 +1,4 @@
-Founder/President/Delegate/God: [nation]Aquaville[/nation]
+Founder/President/Delegate/God/Overlord: [nation]Aquaville[/nation]
 General: [nation]Proper Revolution[/nation]
 Announcements:
 

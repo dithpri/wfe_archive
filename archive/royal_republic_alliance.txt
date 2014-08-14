@@ -6,9 +6,9 @@
 [hr][b][u]Sovereign[/u][/b]
 [color=Blue][b]Governor General: [nation=short]The Republic Empires[/nation][/b][/color]
 
-[b][u]Executive[/u][/b]
-[color=Blue][b]Prime Minister:[/b][/color]
-[color=Blue][b]Deputy Prime Minister:[/b][/color]
+[b][u]Executive[/u][/b] -[B]Interim Goverment[/B]
+[color=Blue][b]Prime Minister: [nation=short]Defence man high[/nation][/b][/color]
+[color=Blue][b]Deputy Prime Minister: [nation=short]East Fadenland[/nation][/b][/color]
 
 [b][u]Parliament[/u][/b]
 [color=Green][b]All Member Nations[/b][/color]

@@ -2,11 +2,11 @@
 
 [u]President of the Regional Council:[/u] [nation=short]Illuminated Republic of the Illuminati[/nation]
 
-[u]Minister of Foreign Affairs:[/u] [nation=short]Joshtropalis[/nation]
+[u]Minister of Foreign Affairs:[/u] [nation=short]New Commieland[/nation]
 
 [u]Minister of Defence:[/u]  [nation=short]Illuminated Republic of the Illuminati[/nation]
 [i]Supreme Commander of the Regional Air Force:[/I] [nation=short]The Republic of New Avionation[/nation]
-[i]Supreme Commander of the Regional Armed Forces:[/i] No Currently Appointed Nation
-[i]Supreme Commander of the Regional Navy:[/i] No Currently Appointed Nation
+[i]Supreme Commander of the Regional Armed Forces:[/i] [nation=short]Joshtropalis[/nation]
+[i]Supreme Commander of the Regional Navy:[/i] [nation=short]Ladel Land[/nation]
 
 [u]Minister of Internal Affairs:[/u] [nation=short]Gigantopitheca[/nation]

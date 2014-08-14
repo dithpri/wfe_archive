@@ -6,7 +6,7 @@
 [hr] 
 [color=blue]WA nations must endorse the WA Delegate.[/color] 
 
-[b]Regional Diplomacy:[/b] [region=Kittens Sanctuary], [region=Philosophy 115], [region=Desert], [region=The Bad Place], [region=Animal House], [region=Green Day], [region=The Skeleton Army], [region=The Local Supermarket], [region=Yggdrasil], [region=The West Pacific], [region=Texas], [region=Haiku], [region=Professor Hells Bot World]
+[b]Regional Diplomacy:[/b] [region=Kittens Sanctuary], [region=Philosophy 115], [region=Desert], [region=The Bad Place], [region=Animal House], [region=Green Day], [region=The Skeleton Army], [region=The Local Supermarket], [region=Yggdrasil], [region=Texas], [region=Haiku], [region=Professor Hells Bot World]
 
 [b]National Diplomacy:[/b] [nation=Yy4u] 
 

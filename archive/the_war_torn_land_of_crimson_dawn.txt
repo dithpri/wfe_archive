@@ -8,6 +8,6 @@ Deputy Prime Minister:[/color] [nation]Soviet Space[/nation]
 [color=blue]Minister of State for Defense:[/color] [nation]Soviet Space[/nation]
 [color=lightgreen]Minister of State for Foreign Affairs:[/color]Open (Appointed by the Prime Minister) 
 [color=purple]Minister of password:[/color] pendragon
-[color=teal]Minister of War:[/color] 
+[color=teal]Minister of War:[/color] [nation]Imperial Prussian Kingdom[/nation]
 [color=yellow]Minister of Regional Health:[/color]Open (Appointed by the Prime Minister) 
 [color=orange]Minister of State for Justice:[/color] Open (Appointed by the Prime Minister)

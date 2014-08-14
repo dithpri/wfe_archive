@@ -3,11 +3,11 @@
 [color=990000]Raid Statistics:[/color]
 
 Number of update raids: [B]239[/B]
-Number of occupations and refounds: [B]3[/B]
+Number of occupations and refounds: [B]4[/B]
 Number of countered liberations: 3
 Number of countered refounds: 1
-Number of raid assists: 42
-[B]Total number of raids: 242[/B]
+Number of raid assists: 43
+[B]Total number of raids: 243[/B]
 
 [hr]
 
