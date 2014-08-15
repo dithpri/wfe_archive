@@ -11,7 +11,7 @@
 
 [color=darkred][b]Emperor: [nation=short]The Emperor of Tamriel[/nation]
 
-Potentate(WAD): 
+Potentate: [nation=short]Imperial-Empire[/nation]
 
 [/color][hr][color=red][u]The Adamantine Council[/u][/color][color=darkred]
 
@@ -22,16 +22,10 @@ Imperator:
 Office of Internal Affairs: 
 
 Office of Justice:[/b][/color]
-[hr]
-[color=red][b][u]Elder Council[/u][/color]
-
-[color=darkred]The Elders Council is the Imperial Legislature of the Empire and serve as a Senate that all Citizens are apart of.[/b][/color]
-
 
 [hr]
 [u][b][color=red]&amp;gt;&amp;gt;Imperial News&amp;lt;&amp;lt;[/color][/b]: 
-&#149; Were establishing a Great Empire!
-&#149; look at factbooks listed for information about the Empire[/u]
+&#149; Were establishing an Empire![/u]
 [hr]
 [b]DEFCON Level[/b]: [color=blue]5 - Peace Time[/color]
 [hr]

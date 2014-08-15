@@ -1,3 +1,6 @@
 [color=red][b]WAR[/b][/color]
-[b]Valyrica has declared war on Sabatonica[/b]
+[b][nation=short+noflag]Valyrica[/nation] has declared war on [nation=short+noflag]Sabatonica[/nation][/b]
 A recent dispute has developed between Valyrica and Sabatonica over unclaimed territory to the south-east of Molelands. Molands Council has convened and decided the war shall be allowed to run its course. No other nations are permitted to enter this conflict and will be punished severely for doing so. 
+
+Regional map
+[url=http://imgur.com/h7j5Jrc]Regional Map[/url]

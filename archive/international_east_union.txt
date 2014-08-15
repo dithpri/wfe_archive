@@ -13,6 +13,11 @@
 
 [u][I][Color=blue][b]Fourth Cabinet of the IEastU[/b][/color][/I][/U]
 [b]
+Queen:
+[nation=short]Kobras XIV[/nation]
+King consort:
+[nation=short]People Who Stand United[/nation]
+
 Prime Minister:
  [nation=short]Munray[/nation]
 

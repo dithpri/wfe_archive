@@ -6,4 +6,5 @@ Area 4: [nation]Area Four[/nation]
 Area 5: [nation]Area Five[/nation]
 
 
-Diplomatic Colony: [nation]Brittannian Diplomatic Land[/nation]
+Diplomatic Colonies: [nation]Brittannian Diplomatic Land[/nation]
+                           [nation]Representative Brittannian Land[/nation]
