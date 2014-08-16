@@ -17,3 +17,11 @@ Spymaster:
 
 
 If you want a position in our government, contact the founder.
+
+
+HOSTILE REGIONS LIST
+
+[region]Pengueen[/region]
+[region]Awesometopia[/region]
+[region]Democratic Social Union[/region]
+[region]The West Pacific[/region]

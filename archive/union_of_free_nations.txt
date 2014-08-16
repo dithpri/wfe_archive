@@ -6,7 +6,6 @@
 [nation=short]great franconia and verana[/nation]
 [b][u]Ministry of Foreign Affairs[/b][/u]
 [nation=short]Ruiru[/nation] [b](Minister)[/b]
-[nation=short]baleanor[/nation]
 [b][u]Intelligence Directorate[/b][/u]
 [nation=short]tylannd[/nation]
 [b][u]Recruitment Bureau[/b][/u]
