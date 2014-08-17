@@ -1,13 +1,11 @@
 [b][i][u]Our Government[/u][/i][/b]
 [B]Executives:[/B]
 Chancellor [nation=short]Conservative Idealism[/nation]
-President [nation=short]The United England[/nation] (Please endorse!)
 [B]Ministers:[/B]
-TBD (Measure)
-TBD (Mediation)
-[nation=short]The Army of the Republic[/nation] (Military)
+[nation=short]The Constitutional Land of Freedom[/nation] (Measure)
+[nation=short]Humpheria in the IRU[/nation] (Mediation)
+[nation=short]Minerva in IRU[/nation] (Military)
 [B]Senators:[/B]
-[nation=short]Correctional Facility[/nation]
 [nation=short]Humpheria in the IRU[/nation]
 [nation=short]New Hiederstan[/nation]
 

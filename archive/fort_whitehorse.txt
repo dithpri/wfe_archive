@@ -3,10 +3,11 @@ Outposts: [region]Green Fields[/region]
 [hr]
 Executive: [nation]Hericropolis[/nation]
 Founder: [nation]Fodor[/nation]
+[b]Please Endorse Your Delegate [nation]Hericropolis[/nation][/b]
 
 [b]Ministers:[/b]
-Financial: [I]Election Pending[/i] 
-Defense: [i]TBD[/i]
+Financial: [nation]Linch Pin[/nation]  
+Defense: [i]Election Pending[/i]
 Foreign Affairs: [I]TBD[/i]
 
 Sponsors:

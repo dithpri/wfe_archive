@@ -3,7 +3,7 @@ The United Imperial Armed Forces (UIAF) of [region]The New Inquisition[/region] 
 [b][u]The Imperial Military Council[/b][/u]
 
 [nation=short+noflag]OnderKelkia[/nation], Emperor of the LKE
-[nation=short+noflag]Charles Cerebella[/nation], King of Albion
+[nation=short+noflag]Joshannia[/nation], delegate representing the King of Albion
 [nation=short+noflag]North East Somerset[/nation], delegate representing the Commander of TNIAF
 
 [b][u]The Imperial Command[/u][/b]

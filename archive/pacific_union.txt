@@ -1,21 +1,19 @@
 Welcome to Pacific Union.
 
 Prime Minister: [nation]Indian Empris Republic[/nation]
-President: [nation]Eggos[/nation]
-Vice President: [nation]Assassins Cove[/nation]
-[color=orange]Delegate[/color]: [nation]Burdistan[/nation]
-[color=orange]Vice Delegate[/color]: [nation]Eggos[/nation]
-Minister of Recruitment: [nation]Burdistan[/nation]
-[color=red]Minister of Foreign Affairs[/color]: [nation]Ugoslovia[/nation]
-Minister of Defense: [nation]Kalinorod[/nation]
-Treasury: [nation]SaxySax[/nation]
-[color=red]Legislature President[/color]: [nation]Indian Milostream[/nation]
+President:
+Vice President: 
+[color=orange]Delegate[/color]: [nation]Eggos[/nation]
+[color=orange]Vice Delegate[/color]:
+Minister of Recruitment: [nation]Eggos[/nation]
+[color=red]Minister of Foreign Affairs[/color]:
+Minister of Defense: 
+Treasury: 
+[color=red]Legislature President[/color]: 
 
 For an embassy, please Telegram [nation=short]Indian Empris Republic[/nation]
 
 [url=http://w11.zetaboards.com/Pacific_Union/index/]our offsite forums[/url] /[url=http://widget01.mibbit.com/?settings=9faa7c9e91b2eff4ee1d42a7ef312425&amp;amp;server=irc.Mibbit.Net&amp;amp;channel=%23PacificUnion]Chat[/url]
 
-[color=blue]Elections for Legislature President 3/19/14
-Elections for MOFA 4/1/14[/color]
 
-Please endorse [nation]Burdistan[/nation] and [nation]Eggos[/nation].
+Please endorse the delegate, [nation]Eggos[/nation].
