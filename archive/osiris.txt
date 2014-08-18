@@ -14,8 +14,8 @@
 
 [hr]
 
-[b][color=darkslateblue]General Endorsement Limit: 5
-Endorsement Limit if Endorsing the Pharaoh: 20
+[b][color=darkslateblue]General Endorsement Limit: 10
+Endorsement Limit if Endorsing the Pharaoh: 25
 Guardian Endorsement Limit: 45[/color][/b]
 
 [hr]

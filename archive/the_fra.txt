@@ -13,7 +13,7 @@ Chief of Defence Force -- [nation=short]Dyr Nasad[/nation]
 
 Intelligence Minister -- [nation=short]Frattastan II[/nation]
 
-Regional Liaison Officer -- [i]vacant[/i]
+Regional Liaison Officers -- [nation=short]People United Together[/nation], [nation=short]Soverties[/nation]
 
 Speaker of the Assembly -- [nation=short]Wibblefeet[/nation]
 

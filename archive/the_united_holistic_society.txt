@@ -11,8 +11,8 @@ World Assembly Executive Delegate:[nation]the communist regime of wallabies[/nat
 Founder: [nation]Yevan[/nation]
 
 
-Secretary of State:[nation]Alterum[/nation]
-Secretary of Defense:[nation]Weaponry[/nation]
-Secretary of Commerce:[nation]The Magical Conch[/nation]
+Secretary of State:
+Secretary of Defense:
+Secretary of Commerce:[nation]Weedia[/nation]
 Secretary of Agriculture:[nation]Tel[/nation]
-Secretary of Industry:[nation]Stanisten[/nation]
+Secretary of Industry:
