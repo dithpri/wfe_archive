@@ -8,7 +8,7 @@
 
 [B][u]ADMINISTRATION[/u][/B]
 
-[u]Lord Regent:[/u] [nation]Venatorium[/nation]
+[u]Lord Regent:[/u] [B][nation=noflagshort]Venatorium[/nation][/B]
 
 [u]Vice Administrator:[/u] OPEN
 

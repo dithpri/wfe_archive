@@ -9,3 +9,5 @@ MAIN RAIDING STRATEGY: Take stuff
 COLONIES
 
 001-[region]The Central Pacific Islands and Atolls[/region]
+
+002-[region]Integrated Data Sentient Entity[/region]

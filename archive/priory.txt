@@ -3,7 +3,6 @@ The region collapsed later that year but a few nations remained and they success
 
 [b] [u] PRIORY REGIONAL PARLIAMENT [/b] [/u]
 Prime Minister (head of PRP): OPEN
-President (supervisor of the Chancellor and Ministers, second only to the PM): OPEN
 Chancellor (head of regional internal affairs): OPEN
-Minister of Defense (head of the Priory Armed Forces): OPEN
-Minister of Foreign Affairs (head diplomat of Priory): OPEN
+Minister of Defense (Commander of the Priory Armed Forces): OPEN
+Minister of Foreign Affairs (head diplomat of Priory): [nation]The States of the Kingdom[/nation]

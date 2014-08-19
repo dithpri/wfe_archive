@@ -3,8 +3,8 @@
 [color=blue]&amp;quot;Thors Hammered&amp;quot;[/color] is open 24/7 so come on in and join us for a free drink!
 
 [b]Government:[/b]
-Delegate: [nation]Azinar[/nation]
-Immigration Minister: [nation]Illustaria[/nation]
+Delegate: [nation]Illustaria[/nation]
+Immigration Minister: 
 Development Minister: [nation]QCAZZ[/nation]
 
 [hr][color=red][b]NEWS:[/b]

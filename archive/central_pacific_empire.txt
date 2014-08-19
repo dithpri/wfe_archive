@@ -16,9 +16,9 @@ Minister for Defense: [nation]north of south[/nation]
 
 [b]JUDICIARY[/B]
 
-[u]Supreme Judge[/u]: [nation]Cliffton[/nation] 
+[u]Supreme Judge[/u]: [nation]Allied Engineers[/nation]
 
-[u]Regional Judge[/u]: [nation]Allied Engineers[/nation] and [nation]Love Island[/nation]
+[u]Regional Judge[/u]: [nation]Love Island[/nation]. 1 x position vacant
 
 [b]CAPITAL CITY[/B]
 
