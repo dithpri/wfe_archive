@@ -4,11 +4,13 @@ We are a free democratic region where your voice is heard by our Regional Counci
 [b]Help form our government by running for office in our Regional Council![/b] 
 
 Here is our Council, and the leaders of the factions:
-Amity Recruiter:  [nation=short+noflag]The Amity Faction[/nation], CM
-Dauntless Solider: [nation=short+noflag]The Dauntless Allegiance[/nation], CM
-Abnegation Politician:
-Erudite Intelligence Officer:
-Candor Judiciary:
++Amity Recruiter:  [nation=short+noflag]The Amity Faction[/nation], RCM
++Dauntless Solider: [nation=short+noflag]The Dauntless Allegiance[/nation], RCM
++Abnegation Politician:
++Erudite Intelligence Officer: [nation=short+noflag]Mela Acqua[/nation], RCM
++Candor Judiciary:
 
 Check out our [URL=http://divergentregion.boardhost.com/index.php] Regional Forum[/uRL]
 [URL=http://divergentregion.boardhost.com/viewtopic_mobile.php?id=4]Citizenship Application [/URL]
+
+[b]Don&amp;#39;t forget to register with the World Assembly and endorse our soon to be elected Delegate [/b]
