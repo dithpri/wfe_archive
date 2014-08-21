@@ -6,11 +6,15 @@ Welcome to the [B]WAITING ROOM[/B] (All countries here are waiting to be deploye
 [region]The Airport[/region] 
 [region]The Persian Empire[/region]
 [region]United League of Nation States[/region]
+[region]The Powers Of The World[/region]
 [B][u]From the:[/u][/B]
 The Black Riders
 
-[color=red][u]We do not welcome stranger nations into our region [/u][/color]
-[color=blue]We will however, enter negotiations if you wish us to help you invade or defend a region, provided we think your cause is legitimate or we receive a sufficient reward.[/color]
-[color=maroon]We may also be willing to spy on other regions for you, provided we think your cause is legitimate or we receive a sufficient reward. [/color]
+[u][B]We have so far defended:[/B][/u]
+[region]Mavery[/region]
+[B][u]From the:[/u][/B]
+The Black Riders
+
+[color=blue]We will enter negotiations if you wish us to help you spy on, invade or defend a region, provided we think your cause is legitimate or we receive a sufficient reward.[/color]
 
 If you wish to contact the region, please telegram either:  [nation]Kerpolvic[/nation] or [nation]Louis Blackwell[/nation]
