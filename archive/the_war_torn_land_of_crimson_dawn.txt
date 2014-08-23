@@ -1,27 +1,16 @@
-El Presidente:[nation]Siburria[/nation]
-Prime Minister:[nation][/nation]
-GoodFriendofSiburria:Pendragon
-[i] [u]Congress[/u] [/i]
-[color=red]DEMOCRATIC PARTY[/color]
+[color=white]Welcome fellow player, are you here to make a name for yourself or meet some amazing individuals. Either way you will find something here that takes your fancy providing you play chess.
+King:[nation]Siburria[/nation]
+Arch_Bishop:[/color][nation][/nation]
+
+[color=red] [u]The Blitz Party[/u] [/color]
 [nation][/nation]
 [nation][/nation]
+[color=blue]The correspondence party[/color]
 [nation][/nation]
 [nation][/nation]
-[color=blue]FASCIST PARTY[/color]
+[color=orange]The Chess Player Union[/color]
 [nation][/nation]
 [nation][/nation]
-[nation][/nation]
-[nation][/nation]
-[color=green]COMMUNIST PARTY[/color]
-[nation][/nation]
-[nation][/nation]
-[nation][/nation]
-[nation][/nation]
-[i][u]Newspaper[/u][/i]
-Editor&amp;amp;Chief:[nation]Siburria[/nation]
-Editor:[nation][/nation]
-Editor:[nation][/nation]
-Editor:[nation][/nation]
-[u]Miscellaneous[/u]
-RP1:none
-RP2:none
+[color=white][u]Chess sites[/u][/color]
+Chess.com
+ChessFriends.com

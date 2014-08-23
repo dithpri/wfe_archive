@@ -1,12 +1,10 @@
 [color=lavender] [b]Welcome to the ever more grand region of [/color] [color=violet]Unie[/color] [color=lavender].[/b] [/color]
 
-[color=purple] [i] [b]Tout endurer. Se souvenir de tous.[/b] [/i] [/color]
-[hr] [color=gold] [b]~~~The region is ruled by a benevolent monarch &amp;amp; oligarchy. Votes are still held in Unie to keep general rights in order.~~~[/b] [/color]
-
-[color=purple] [b]{[u]The Benevolent, Puissant Duke of Unie, [nation=short+noflag]Manick[/nation], has given his leadership to the people of Unie![/u]}[/b] [/color]
+[color=gold] [i] [b]Tout endurer. Se souvenir de tous.[/b] [/i] [/color]
+[hr] [color=purple] [b]{[u]The Benevolent, Puissant Duke of Unie, [nation=short+noflag]Manick[/nation], has given his leadership to the people of Unie![/u]}[/b] [/color]
 [hr] [color=violet] [b] [u]The Grand Council of Unie[/u] [/color] 3-9[/b]
 [color=purple] [b]Speaker[/b] [/color]
-&#149;Popper Fend of [nation=short]Manick[/nation]
+&#149;[nation=short]Manick[/nation]
 [color=gold] [b]Members[/b] [/color]
 &#149;[nation=short]Werdan Federation[/nation]
 &#149;[nation=short]Ndaku[/nation]
