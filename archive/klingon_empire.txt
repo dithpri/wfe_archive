@@ -1,6 +1,6 @@
 [color=red][B][u]The Klingon Empire[/u][/B][/color]
 
-[B]Emperor[/B]: [nation=divine_kahless]
+[B]Emperor[/B]: Kharn [nation=divine_kahless]
 
 [u]The Imperial High Council[/u]
 Chancellor of the High Council: 

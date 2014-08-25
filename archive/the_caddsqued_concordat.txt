@@ -7,17 +7,6 @@
 [i]Telegram [nation=short]Holtsenov[/nation] if you have any questions![/i]
 [hr]
 
-[color=red]Fathers of the Concordat:[/color]
-[nation=short]Holtsenov[/nation] 
-[nation=short]BURGLOR[/nation] 
-[nation=short]Snow People[/nation] 
-[nation=short]The United Korean Socialist Republic[/nation] 
-
-Honorary Fathers:
-[nation=short]SullyFields[/nation]
-[nation=short]Varexia[/nation]
-[nation=short]Jaboody[/nation]
-[hr]
 [color=cyan]PARLIAMENT OF THE CONCORDAT[/color]
 [color=red]Admiral General[/color]: Jayk Parsons of [nation=Holtsenov]
 [color=gold]Prime Minister[/color]: Christian Helm of [nation=Burglor]

@@ -10,6 +10,7 @@ Foreign Minsiter= [nation=the_percians]
 Transport Minister= [nation=thomasgar]
 Culture Minister= [nation=chinese_new_year]
 Music Minister= [nation=let_it_go]
+How did you do it= [nation=howardios]
 
 [b][color=blue]Have a read of these great songs below[/color][/b]
 [b]PLEASE PROPOSE CONSTRUCTING EMBASSIES![/b]

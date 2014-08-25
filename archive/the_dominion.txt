@@ -7,13 +7,18 @@
 
 [b]The Dominion is an imperialist region that emphasizes unity and monarchist values.[/b]
 
-Welcome to The Dominion! Over the years, The Dominion has come and gone, going through many phases and incarnations. Currently, this region is the home region of [b][nation=shortnoflag]Romindia[/nation][/b] and its territories, although nations that pass along are welcome to stay here. In fact, we encourage you to join our region and take part in building an empire.
+Welcome to The Dominion! The central base of a great empire, this region is the home region of [b][nation=shortnoflag]Romindia[/nation][/b] and its territories, 
+although nations that pass along are welcome to stay here. In fact, we encourage you to join our region and take part in building an empire.
 
+[hr]
 
-[color=firebrick][b]Emperor:[/b][/color] Augustine VII of [nation]Romindia[/nation]
-[color=firebrick][b]Governor-General:[/b][/color] [nation]Romegrad[/nation]
+[b][u]Imperial Regency[/u][/b]
 
-[color=firebrick][b]Capitol:[/b][/color] [nation=short]Muziris[/nation]
+[list][b]&raquo; [color=firebrick]Emperor:[/b][/color] Augustine VII of [nation]Romindia[/nation]
+[b]&raquo; [color=firebrick]Lord Protector:[/b][/color] [nation]Romegrad[/nation]
+[b]&raquo; [color=firebrick]Governor-General:[/b][/color] [i]vacant[/i][/list]
+
+[b]Seat of the Capitol:[/b] [nation=short]Muziris[/nation]
 
 [hr][hr]
 

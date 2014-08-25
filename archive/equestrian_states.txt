@@ -1,12 +1,1 @@
-A private puppet storage region for the user behind [nation]Equestrian States[/nation].
-
-Embassies will be accepted depending on the user&amp;#39;s OOC relationship with the proposing region.
-
-[nation=short]Equestrian States[/nation] controls over [b]300[/b] puppets as of 4/6/2013
-
-[b]Other Regions:[/b]
-[region]Equestrian Graveyard[/region]
-[region]The Pink Riders[/region]
-[region]NS April Fools Day Jokes[/region]
-[region]Backyard Realm[/region]
-[region]Independent Systems[/region]
+A puppet storage region for the user behind [nation=short]Equestrian States[/nation].
