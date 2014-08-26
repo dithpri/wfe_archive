@@ -5,5 +5,5 @@ President:[nation=Lobh26]
 Vice President:
 Minister of Defense:
 Minister of Immigration:
-Minister of Foreign Affairs:
+Minister of Foreign Affairs:[nation=Liberal Seperatists]
 Minister of justice:   
