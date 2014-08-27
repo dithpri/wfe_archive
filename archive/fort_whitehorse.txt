@@ -1,7 +1,12 @@
-Provisional Government
-Executive: [nation]Fodor[/nation]
-Agents: [nation=short]Hericropolis[/nation], [nation=short]Safehouse[/nation], [nation=short]Linch Pin[/nation]
+The region was once ruled by Lorde Fodor of the Otolian Alliance, after the alliance was destroyed the region was rebuilt by the Lorde&amp;#39;s son, Fodor. Fort Whitehorse is the only remaining remnant of the alliance. Lifelong enemy of the alliance, Hericropolis of TAOEFN, after his region was destroyed at the hands of the Black Riders, made amends with the remnant and joined to create the region as we know it. 
+[hr]
+[b]Regional Government[/b] 
+Delegate: [nation]Hericropolis[/nation]
+Founder: [nation]Fodor[/nation]
+Financial Minister: [nation]Linch Pin[/nation]
+Defense Minister: [nation]Scansinia Reich[/nation]
+Foreign Affairs Minister: [nation]Safehouse[/nation]
 
-ALL NATIONS IN REGION IF YOU ARE A FOLLOWER OF THE TEACHER YOU WILL BE BANJECTED WITHOUT TRIAL.
+[b]Outposts[/b]
+[region]Green Fields[/region]
 
-Endorse [nation]Hericropolis[/nation] 

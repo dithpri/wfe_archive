@@ -16,6 +16,7 @@
 
 [nation]Belakras[/nation]
 [nation]Pribaltika[/nation]
+[nation]Slobozhanshchyna[/nation]
 [nation]Somstratzka[/nation]
 [hr]
 
@@ -31,5 +32,5 @@
 [nation]Nuevo Meshiko[/nation]
 [hr]
 
-World Nation Comparisons - [url=/page=compare/nations=Anslavica+Batoristan+Belakras+Biel-Tan+Canakhstan+Castilea+Chobenia+Czervenika+Eitusian+Estinia](A - E)[/url] [url=/page=compare/nations=Fadakchadash+Great_Slatain+Ionida+Isriketia+Kuki-Airani+Krasniya+Kuzbeckistan+Lebyahnon+Libhiriya+Maronia+New_Gentia+Nihon_Kyowakoku](F - N)[/url] [url=/page=compare/nations=Nuevo_Meshiko+Ordorinia+Padaliya+Pribaltika+Somstratzka+Terra-Pacifica+Trinland+Vassau+Yishrael+Yuzan](N - Y)[/url] - [url=http://www.nationstates.net/page=compare/nations=Belakras+Biel-Tan+Czervenika+Krasniya+Libhiriya+Pribaltika+Somstratzka]IUSR[/url]
-[url=http://s7.postimg.org/5le7ws57t/Map.png]World Map[/url] (24/8/14)
+World Nation Comparisons - [url=/page=compare/nations=Anslavica+Batoristan+Belakras+Biel-Tan+Canakhstan+Castilea+Chobenia+Czervenika+Eitusian+Estinia+Fadakchadash](A - F)[/url] [url=/page=compare/nations=Great_Slatain+Isriketia+Kuki-Airani+Krasniya+Kuzbeckistan+Libhiriya+Maronia+New_Gentia+Nihon_Kyowakoku+Nuevo_Meshiko](G - N)[/url] [url=/page=compare/nations=Ordorinia+Padaliya+Pribaltika+Slobozhanshchyna+Somstratzka+Terra-Pacifica+Trinland+Vassau+Yishrael+Yuzan](O - Y)[/url] - [url=http://www.nationstates.net/page=compare/nations=Belakras+Biel-Tan+Czervenika+Krasniya+Libhiriya+Pribaltika+Slobozhanshchyna+Somstratzka]IUSR[/url]
+[url=http://s3.postimg.org/mc1im7jg1/Map.png]World Map[/url] (26/8/14)

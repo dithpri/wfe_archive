@@ -1,4 +1,5 @@
 [B] [Color=red] Regional Government [/color] [/B]
+[b] [color=green] WA Delegate:[/b] [nation]The Bleeding Heart[/nation] [/color]
 [B] [color=slime] President Prime Minister Admiral General: [/Color] [/B] [nation]The Bleeding Heart[/nation]
 [b] [color=orange] Vice President:[/b] Vacant [/color] 
 [b] [color=orange] Chief of Staff: [/b] Vacant [/color]

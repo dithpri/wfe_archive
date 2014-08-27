@@ -4,7 +4,9 @@ This is Medieval Europe.[/color]
 
 [color=red]Europe c.476 AD - 1500 AD[/color]
 
-High King and Founder: [nation]Macbeth[/nation]
+High King and Founder: [b][nation]Macbeth[/nation][/b]
+Chief Justiciar: [nation]Belique[/nation]
+
 Capital: Dunsinane
 
 Cartography: [b]http://i.imgur.com/Ta7eFTz.png?1[/b]
