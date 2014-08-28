@@ -12,13 +12,13 @@ Along with:
 
 [nation=short]PrinceHoldings[/nation]
 [nation=short]master_shin[/nation]
+[nation=short]house_ikdard[/nation]
 
 Also joined the battle:
 
 [nation=short]Valrifell[/nation]
 [nation=short]United Nationals[/nation]
 [nation=short]Ever-Wandering Souls[/nation]
-[nation=short]house_ikdard[/nation]
 [nation=short]Human evolution[/nation]
 
 [hr]

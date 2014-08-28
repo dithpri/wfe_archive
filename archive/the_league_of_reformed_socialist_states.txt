@@ -7,7 +7,7 @@ ACTING Prime Minister: [nation]Athlae[/nation]
 Foreign Secretary: [nation]Arana[/nation]
 Intelligence and Defence Director: [nation]Open[/nation]
 Cartographer: [nation]Athlae[/nation]
-Secretary of Press and Journalism: OPEN
+Secretary of Press and Journalism: [nation]Soviet Socialist Republic of Sweden[/nation]
 Secretary of Migration and Border Security: [nation]Eurasica[/nation]
 Supreme Justice: [nation]Lockewood[/nation][/b]
 

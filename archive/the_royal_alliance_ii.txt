@@ -2,10 +2,11 @@
 
 
 [b][color=blue][u]The Council[/u][/color]
-[nation=short]River Falls[/nation]-Chair
+[nation=short]River Falls[/nation]
 [nation=short]The Maynard Islands[/nation]
-[nation=short]Darspazistan[/nation]
-[nation=short]Oshiwoshi[/nation][/b]
+[nation=short]Oshiwoshi[/nation]
+[nation=short]Republic of Independent States[/nation]
+[/b]
 
 [color=purple][u][b]RMB Topic[/b][/u][/color]
 

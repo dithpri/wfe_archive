@@ -7,8 +7,8 @@ Leader: [nation]Sai Birch[/nation]
 WA Delegate: [nation]The Reaper Harbinger[/nation]
 
 [B][color=mahogany]The Red Riders of War Chain of Command[/color][/b]
-[B]Commander-in-chief:[/]b] [b][color=maroon]Sai Birch[/color][/b]
+[B]Commander-in-chief: [color=maroon]Sai Birch[/color][/b]
 [B]General: [color=orange]The Reaper Harbinger[/color][/b]
-[B]General of Information: [color=lightblue]Cornia[/color][/b
+[B]General of Information: [color=lightblue]Cornia[/color][/b]
 
 Threat Level: Yellow

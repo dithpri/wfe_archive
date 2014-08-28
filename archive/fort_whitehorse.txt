@@ -10,3 +10,8 @@ Foreign Affairs Minister: [nation]Safehouse[/nation]
 [b]Outposts[/b]
 [region]Green Fields[/region]
 
+[b]Sponsors[/b]
+[region]Banking Clan[/region]
+[region]Anarcho-Capitalist Party[/region]
+
+
