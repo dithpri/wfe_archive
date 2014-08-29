@@ -1,6 +1,5 @@
-[b]This region fell to the forces of [region]The Eternal Knights[/region]!
-
-[hr]Nephmir: &amp;quot;Oh, so is that why we password protected ourselves? To keep him out?&amp;quot;
+[b][color=black]This region fell to the forces of [region]The Eternal Knights[/region]![/color]
+[hr]Eternal Knights: [nation=short]Nephmir[/nation], [nation=short]NoblePhnx[/nation][hr]Nephmir: &amp;quot;Oh, so is that why we password protected ourselves? To keep him out?&amp;quot;
 Raid Leader: &amp;quot;Kinda, but I don&amp;#39;t feel like it&amp;#39;s necessary anymore. After all, what harm could he do?&amp;quot;
 
 The password remained in place.
@@ -12,6 +11,6 @@ The region had every possible defense, an active executive founder, a non-execut
 This region was given three days to surrender. It fell exactly 190 days after the 3 day period had expired.
 
 The first Invader region has fallen.
-[hr]Previous Population: 30
-Previous Founder: [nation=short]Robotropolisia[/nation]
-Previous Raid History: [url=http://www.nationstates.net/page=dispatch/id=204274]here[/url][/b]
+[hr][color=red]Previous Population:[/color] 30
+[color=red]Previous Founder:[/color] [nation=short]Robotropolisia[/nation]
+[color=red]Previous Raid History:[/color] [url=http://www.nationstates.net/page=dispatch/id=204274]here[/url][/b]

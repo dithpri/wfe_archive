@@ -1,11 +1,9 @@
 [b]The Unified Triple Alliance Of Belgrade[/b]
 [hr]
 
-[color=red][b]Supreme Chancellor[/b][/color]: Johann Lark of  [nation]Daerell[/nation]
+[color=red][b]Imperial Chancellor[/b][/color]: [nation]Daerell[/nation]
 
-[color=gold][b]Prime Minister[/b][/color]: Tyrone Smith of  [nation]Cyphroun[/nation]
-
-[color=gold][b]Chancellor General[/b][/color]: Gregory McNarren of [nation]Campbania[/nation]
+[color=gold][b]Arch Chancellors[/b][/color]: [nation]Cyphroun[/nation], [nation]Campbania[/nation]
 
 [hr]
 

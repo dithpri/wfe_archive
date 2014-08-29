@@ -1,13 +1,16 @@
 [color=0010BF][i][b][u]The Illawarran Empire[/u][/b][/i][/color]
 
 [hr][color=red][b]The Senate[/b][/color]
-[b]Chief Of Staff:[/b] [nation]Markham[/nation]
-[b]Minister for Shakespeare:[/b] [nation]Crucania[/nation]
-[b]Intelligence Services Commissar:[/b] [nation]Woodys Roundup[/nation]
-[b]Commissar of Freedom and Propaganda:[/b] [nation]Phlegathon[/nation]
-[b]Commissar for Regional Activity[/b] [nation]Edrapuria[/nation]
+[b]Vice-Delegate:[/b]
+[b]Minister for Internal Relations:[/b]
+[b]Minister of Defense:[/b]
+[b]Minister of Diplomacy:[/b]
+[b]Minister for Intelligence:[/b]
+[b]Minister for Recruitment:[/b]
 [hr][color=0010BF][i][b]Announcements:[/i][/b][/color]
 
-[b]Rectal Colonoscopy/b]
+[b]Telegram the delegate to get your position on the board[/b]
 
-[hr][color=red][b]Upon entry, please endorse your delegate, [nation]Rukiah[/nation], and Chief of Staff [nation]Markham[/nation]. Enjoy your stay![/b][/color] 
+[b][nation=short]Markham[/nation] is somehow delegate[/b]
+
+[hr][color=red][b]Upon entry, please endorse your delegate, [nation=short]Markham[/nation]. Enjoy your stay![/b][/color] 

@@ -1,8 +1,8 @@
-[b]Defence Status:[/b] [color=Orange]DEFSTAT 3[/color]
+[b]Defence Status:[/b] [color=DarkOrange]DEFSTAT 2[/color]
 
 [b]Latest News[/b]
 
-- [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=305625]Libhiriya joins the IUSR. Castilea pushes south. Yuzan pushes into South-East Asia.[/url]
+- [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=305625]IUSR declares war on Yuzan, invades.[/url]
 - [url=http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=308752]First Conference of the International Union of Socialist Republics[/url]
 [hr]
 
@@ -15,6 +15,7 @@
 [b]Socialist Republics[/b]
 
 [nation]Belakras[/nation]
+[nation]Biel-Tan[/nation]
 [nation]Pribaltika[/nation]
 [nation]Slobozhanshchyna[/nation]
 [nation]Somstratzka[/nation]
@@ -22,7 +23,6 @@
 
 [b]Workers&amp;#39; States[/b]
 
-[nation]Biel-Tan[/nation]
 [nation]Libhiriya[/nation]
 [hr]
 

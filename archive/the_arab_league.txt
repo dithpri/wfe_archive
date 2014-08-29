@@ -11,5 +11,5 @@ Wazir(Culture):[nation=short]Bel-Shamiya[/nation]
 Chief Hakim:[nation=short]Cernomia[/nation]
 
 [b]SHURA LEAGUE COUNCIL( Legislature)[/b]:
-Chairman: [nation=short]vacant[/nation]
+Chairman: [nation=short]Falestine[/nation]
 Members:[nation=short]Al-Ghata[/nation], [nation=short]Paki Arabia[/nation]
