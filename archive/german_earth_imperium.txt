@@ -1,11 +1,12 @@
-[b][color=#000061]Huzzah! Huzzah! Huzzah! This region proved no match for a charge by [region=The Black Riders]![/color]
+[b][color=#000080]Service to the State! Glory to the Race! This region has been conquered from [region]The Black Riders[/region]![/color]
 
-[color=black]Occupied by [url=http://www.youtube.com/watch?v=qB1kp9adYYE]The Black Riders[/url]! Our lair can be found [/color] [url=http://s4.zetaboards.com/The_Black_Riders/index/]here[/url]
+[color=#BF0000]German Earth Imperium has been brought under the yoke of [region]The Domination of the Draka[/region][/color]
 
-[color=#000061]Into the battle rode the following riders:[/color]
-[nation=short]Feuer Ritter[/nation]
-[nation=short]Ridersyl[/nation]
-[nation=short]Aurum Rider[/nation]
-[nation=short]Upper Drizzilia[/nation]
-[nation=short]Vandoosa[/nation]
-[/b]
+[color=orange]All shall be enslaved by the Race![/color]
+
+Into the battle rode the following douchebags:
+[nation]Feuer Ritter[/nation]
+[nation]Ridersyl[/nation]
+[nation]Aurum Rider[/nation]
+[nation]Upper Drizzilia[/nation]
+[nation]Vandoosa[/nation][/b]

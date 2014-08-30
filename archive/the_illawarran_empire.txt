@@ -1,11 +1,11 @@
 [color=0010BF][i][b][u]The Illawarran Empire[/u][/b][/i][/color]
 
 [hr][color=red][b]The Senate[/b][/color]
-[b]Vice-Delegate:[/b]
+[b]Vice-Delegate:[/b] [nation=short]Crucania[/nation]
 [b]Minister for Internal Relations:[/b]
 [b]Minister of Defense:[/b]
 [b]Minister of Diplomacy:[/b]
-[b]Minister for Intelligence:[/b]
+[b]Minister for Intelligence:[/b] [nation=short]Rukiah[/nation]
 [b]Minister for Recruitment:[/b]
 [hr][color=0010BF][i][b]Announcements:[/i][/b][/color]
 

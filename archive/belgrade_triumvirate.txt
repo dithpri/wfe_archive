@@ -3,7 +3,9 @@
 
 [color=red][b]Imperial Chancellor[/b][/color]: [nation]Daerell[/nation]
 
-[color=gold][b]Arch Chancellors[/b][/color]: [nation]Cyphroun[/nation], [nation]Campbania[/nation]
+[color=gold][b]Arch-Chancellors[/b][/color]: [nation]Cyphroun[/nation], [nation]Campbania[/nation]
+
+[color=gold][b]Chancellor-General[/b][/color]: [nation]Greycliffe[/nation]
 
 [hr]
 

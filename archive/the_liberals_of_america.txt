@@ -6,17 +6,17 @@ Future Helpful links:
 
 Attorney General:
 
-Minister of Treasury:
+Minister of Treasury:[nation]Helor[/nation]
 
 Minister Foreign and Commonwealth Affairs: [nation]United Christian[/nation] 
 
 Minister of Justice, Defence, and Intel:[nation]United Christian[/nation]
 
-Minister of Trade, Work, and Pensions:
+Minister of Trade, Work, and Pensions:[nation]Mede[/nation]
 
-Minister of Health, Equalities and International Development:
+Minister of Health, Equalities and International Development:[nation]Helor[/nation]
 
-Minister of State:
+Minister of State:[nation]Mede[/nation]
 
 Minister of Military:
 
@@ -26,7 +26,7 @@ Minister of Housing, Urban Development, and Transportation:
 
 Minister of Energy:
 
-Minister of Office of Management and Budget
+Minister of Office of Management and Budget:
 
 EPA:
 
