@@ -7,7 +7,7 @@
 
 Arch Chancellor -- [nation=short]Joe Bobs[/nation]
 
-Vice Chancellor -- [i]vacant[/i]
+Vice Chancellor -- [nation=short]Tim-opolis[/nation]
 
 Chief of Defence Force -- [nation=short]Dyr Nasad[/nation]
 

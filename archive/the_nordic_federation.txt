@@ -9,12 +9,10 @@
 Endorsement Capacity: 1[/b][/color]
 
 [b][color=blue]President: [nation=short]Ejyafjallajokull[/nation]
-Foreign Minister: (Vacant)
-Defense Minister: (Vacant)
-Justice Minister: (Vacant)
-Domestic Minister: (Vacant)
-Role Play Minister: (Vacant)
-Promotion Minister: (Vacant)[/b][/color]
+Foreign Minister: [nation=short]Regalius[/nation]
+Defense Minister: [nation=short]Greyfell[/nation]
+Justice Minister: [nation=short]Bermivia[/nation]
+Promotion Minister: [nation=short]Farmora[/nation][/b][/color]
 
 [b][color=indigo]Regional Constitution - TBD[/b][/color]
 

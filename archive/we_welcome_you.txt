@@ -1,7 +1,4 @@
 Minister of Defense: [nation=shortname]Gunstupia[/nation]
-Spiritual Advisor: [nation=shortname]KimJongJesus[/nation]
 Economy Supervisor: [nation=shortname]Economy Is Our Life[/nation]
-Navigator: [nation=shortname]Chloropleth[/nation]
 Official Demigod Defense Forces: [nation=shortname]Camp Half-Blood13[/nation] and [nation=shortname]Camp Jupiter47[/nation]
 Traveler: [nation=shortname]The We Welcome You Ambassador[/nation]
-Sovereign Diplomat from CoK: [nation=shortname]The Commonwealth Ambassador 2[/nation]
