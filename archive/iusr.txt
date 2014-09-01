@@ -14,7 +14,6 @@
 
 [b]Socialist Republics[/b]
 
-[nation]Belakras[/nation]
 [nation]Biel-Tan[/nation]
 [nation]Pribaltika[/nation]
 [nation]Slobozhanshchyna[/nation]
@@ -23,6 +22,7 @@
 
 [b]Workers&amp;#39; States[/b]
 
+[nation]Belakras[/nation]
 [nation]Libhiriya[/nation]
 [hr]
 

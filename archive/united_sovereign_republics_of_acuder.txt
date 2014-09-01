@@ -1,10 +1,10 @@
 Regional Government:
 
 [color=red]President:[/color][nation=short]The Barbradian Republic[/nation]
-[color=blue]President Advisor:[/color][nation=short]Franklin and Jefferson[/nation]
+[color=blue]Vice President:[/color][nation=short]Stone Cuaron[/nation]
 
 [color=red]Prime Minister:[/color][nation=short]Yuketobaniac[/nation]
-[color=blue]Prime Minister Advisor:[/color][nation=short]United Rulers[/nation]
+[color=blue]Presidential Advisor:[/color][nation=short]West Lusterland[/nation]
 [b]___________________________[/b]
 
 

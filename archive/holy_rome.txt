@@ -6,7 +6,7 @@ DEFCON: [color=orange]3[/color]
 
 [B]Presiding State[/B]: [nation]Great Jergania and Jonland[/nation] [color=blue]Classical[/color] [B]Endorse Him[/B]
 
-[B]Counciler of the Legislature[/B]: [i]Vacant [/i]
+[B]Counciler of the Legislature[/B]: [nation]New Finnish Karelia[/nation]
 
 [B]Chief Justice(s)[/B]: [nation]The Desevro Union[/nation], [nation]Grand Yotsuba[/nation]
 
