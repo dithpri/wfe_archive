@@ -1,17 +1,17 @@
-[B]&amp;amp;#9812;Prime Minister:[nation]Free Macau[/nation]
-&amp;amp;#9812;Deputy Prime Minister: 
+[B]Prime Minister:[nation]Free Macau[/nation]
+Deputy Prime Minister: 
 
-&amp;amp;#9812;Chancellor: 
--Foreign Secretary: 
--Secretary of State 
+Chancellor: [nation]Chinese Administration[/nation]
+Foreign Secretary: 
+Secretary of State 
 
-&amp;amp;#9812;Secretary of the Exchequer: 
-&amp;amp;#9812;Minister of Defense: 
-&amp;amp;#9812;Minister of Justice: 
-&amp;amp;#9812;Minister of Colonies: 
-&amp;amp;#9812;Minister of Health: 
-&amp;amp;#9812;National Security Minister : 
-&amp;amp;#9812;Minister of Industry: 
-&amp;amp;#9812;Chief of the Department of Intelligence: 
-&amp;amp;#9812;Minister Admiral of the Imperial Fleets: 
-&amp;amp;#9812;Research Minister:[/B]
+Secretary of the Exchequer: 
+Minister of Defense: 
+Minister of Justice: 
+Minister of Colonies: 
+Minister of Health: 
+National Security Minister : 
+Minister of Industry: 
+Chief of the Department of Intelligence: 
+Minister Admiral of the Imperial Fleets: 
+Research Minister:[/B]

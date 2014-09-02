@@ -6,18 +6,15 @@
 [nation=the_bulgogian_nation]
 [B]Chancellor and Representative to the World Assembly[/B]:
 [nation=sacarap]
-[B]Vice-Chancellor and Forum Administrator[/B]:
+[B]Vice-Chancellor::[/B]:
 [nation=aguilar]
 [B]Roleplay Administrator and Interior Secretary[/B]:
-[nation=]
+Unknown
 [B]Regional Rapporteur[/B]:
-[nation=]
+Unknown
 [B]Secretary of Justice[/B]:
-[nation=]
+Unknown
 [B]Secretary of Recruitment and Membership[/b]:
-TBA
+Unknown
 [B]Regional Cartographer[/B]:
-[nation=masonomics]
-[/color][hr]
-[Color=red][b]Please endorse the Chancellor and the Chairman!
-Feel free to post anything.[/b][/color]
+[nation=masonomics][/color][hr][Color=red][b]Please endorse the Chancellor, [nation=sacara]![/b][/color]

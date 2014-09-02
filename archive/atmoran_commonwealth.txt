@@ -1,1 +1,7 @@
 We are the Commonwealth of the Mighty Atmoran Empire. We swear our loyalty to our Emperor. From Kaitheth to The Atoran Isles, we shall not fall again.
+
+Emperor:[nation]Empire of Atmora[/nation]
+
+Prime Minister:[nation]Artigat[/nation]
+
+Minister of Foreign Affairs:[nation]The Atoran Isle[/nation]

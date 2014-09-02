@@ -4,13 +4,14 @@ Mr.President: [nation]Qandaristan[/nation]
 Prime Minister: [nation]Ruskandar[/nation], 
 Secretary: [nation]Republic of Zakistan[/nation]
 Minister of Foreign Affairs and Politics: [nation]Sukhdan[/nation]
-Minister of Reqruitment: [nation]Lokhshan[/nation]
+Minister of Recruitment: [nation]Lokhshan[/nation]
 Chancellor: [nation]The Communist Soviet[/nation]
 Regional Rapporteur: [nation]Qandaristan Communist Media[/nation]
+Marshall of the Military: [nation]Jihad Caliphate[/nation]
 [color=Red]__________________________________________________________________________[/color]
 
-Long live the [COLOR=bLUE]AAD[/color] and the [color=Red]PFQ![/color]
-________________________________________
+Long live the [color=Red]PFQ![/color]
+
 
 
 

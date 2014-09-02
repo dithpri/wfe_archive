@@ -10,8 +10,8 @@
 [/list]
 
 [color=green][B][u][url=http://esamirforum.forumotion.net/f2-esamir-execuitve-branch]The Executive Branch:[/url][/u][/B][/color]
-[list][B]Chancellor:[/B] [nation]Talanzaar[/nation]
-[B]President:[/B] [nation]New-Zealand[/nation]
+[list][B][url=http://esamirforum.forumotion.net/t101-office-of-the-chancellor]Chancellor:[/url][/B] [nation]Talanzaar[/nation]
+[B][url=http://esamirforum.forumotion.net/t102-office-of-the-president]President:[/url][/B] [nation]New-Zealand[/nation]
 [/list]
 
 [color=green][B][u][url=http://esamirforum.forumotion.net/f3-esamir-court-of-justice]The Judiciary:[/url][/u][/B][/color]
