@@ -6,7 +6,7 @@ Minister of Military Operations: [nation]Vaaldyra[/nation]
 Minister of Domestic Affairs: [nation]Lyrasan[/nation]
 Regional Advisors: [nation]Warzone Codger[/nation]
                            [nation]Ruzan[/nation]
-                           
+   [color=blue]Endo Cap: 1[/color]
 
 [b]We are those who choose to reside above the chaos of the perilous world below.[/b]
 

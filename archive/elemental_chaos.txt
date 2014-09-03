@@ -5,7 +5,7 @@
 [B]Founder:[/B] [nation=short]Aetaris[/nation]
 [B]Delegate:[/B] [nation=short]Alossa[/nation]
 [B]Regional Affairs:[/B] [nation=short]Byteavero[/nation]
-[B]Foreign Relations:[/B] [i]Elections in progress[/i]
+[B]Foreign Relations:[/B] [nation=short]Tridekia[/nation]
 [B]ECDF Commander:[/B] [nation=short]Jaycarnia[/nation]
 [B]Senate:[/B] [nation=short]Byteavero[/nation], [nation=short]Arraqas[/nation], [nation=short]Nodr[/nation], [nation=short]Jaycarnia[/nation]
 [B]Assembly:[/B] [nation=short]Aetarism[/nation], [nation=short]Byteavero[/nation], [nation=short]Nodr[/nation], [nation=short]Oetoreipio[/nation]
@@ -14,4 +14,4 @@
 
 [color=brown]Questions about the region? Contact [nation=short]Aetarism[/nation], [nation=short]Alossa[/nation], or [nation=short]Byteavero[/nation].[/color]
 
-- [url=http://elementalchaos.boards.net/thread/52/discussion-constitution]Join the Constitutional Debate![/url]
+- [url=http://elementalchaos.boards.net/thread/52/discussion-constitution]Join the Constitutional Debate[/url]

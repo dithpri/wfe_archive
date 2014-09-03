@@ -6,7 +6,7 @@ United under the Seal of the Royal Family of Hyrule, the six provinces work toge
 [hr][b][i][u]The Royal Conclave:[/u][/i][/b]
 
 [b][color=red]King of Hyrule: [/color][/b][nation=short]Daphnes Nohansen Hyrule[/nation]
-[b][color=navy]Royal Viceroy: [/color][/b][i]* open *[/i]
+[b][color=navy]Royal Viceroy: [/color][/b][nation=short]Suffolk Island[/nation]
 
 [b][color=blue]Steward of Wisdom: [/color][/b][nation=short]Sotherus[/nation]
 [b][color=green]Steward of Courage: [/color][/b][nation=short]Principality XIV[/nation]
