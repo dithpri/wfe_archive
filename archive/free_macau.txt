@@ -4,7 +4,7 @@
 Deputy Prime Minister: 
 
 Chancellor: [nation]Chinese Administration[/nation]
-Foreign Secretary: 
+Foreign Secretary: [nation]Macau Colonial Ambassador[/nation]
 Secretary of State 
 
 Secretary of the Exchequer: 

@@ -1,20 +1,7 @@
-[Color=green][b]The League of Democracy[/b][/color]
-
-[color=gray][b]Founding Cabinet of the League:[/b][/color]
-[Color=blue]
-[B]Leader and Chairman[/B]:
-[nation=the_bulgogian_nation]
-[B]Chancellor and Representative to the World Assembly[/B]:
-[nation=sacarap]
-[B]Vice-Chancellor::[/B]:
-[nation=aguilar]
-[B]Roleplay Administrator and Interior Secretary[/B]:
-Unknown
-[B]Regional Rapporteur[/B]:
-Unknown
-[B]Secretary of Justice[/B]:
-Unknown
-[B]Secretary of Recruitment and Membership[/b]:
-Unknown
-[B]Regional Cartographer[/B]:
-[nation=masonomics][/color][hr][Color=red][b]Please endorse the Chancellor, [nation=sacarap]![/b][/color]
+[hr][list][Color=green][b]The League of Democracy - [i]Forever onward![/i][/b][/color][/list][hr][b][color=green]Forums[/color][/b] - [hr][color=gray][b]First Cabinet of the League:[/b][/color][Color=blue][list][B]Chairman[/B]: [nation=the_bulgogian_nation]
+[B]Chancellor[/B]: [nation=sacarap]
+[B]Vice-Chancellor::[/B]: [nation=aguilar]
+[B]Secretary of Interior[/B]: Vacant
+[B]Secretary of Justice[/B]: Vacant
+[B]Secretary of Foreign Affairs[/b]: Vacant
+[B]Regional Cartographer[/B]: [nation=masonomics][/list][/color][hr][Color=red][b]Please endorse the Chancellor, [nation=sacarap]![/b][/color]

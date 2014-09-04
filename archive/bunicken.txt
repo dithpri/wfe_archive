@@ -1,6 +1,6 @@
 The region of Bunicken is a large, militarily powerful region. The government is run by a Dictator. Military service is compulsory, although citizens can get out of it by bribing officials or if they have an important job that will affect the economy or the citizens. All forms of government are legal in Bunicken. Here is our list of current government positions and roles: 
 
-minister of propaganda: The Dalmatian Cities
-minister of external affairs: unappointed 
-minister of internal affairs: The Dalmatian Cities 
-commander in chief: Bunicken
+Minister of propaganda: [nation=short]The Dalmatian Cities[/nation]
+Minister of external affairs: unappointed 
+Minister of internal affairs: [nation=short]The Dalmatian Cities[/nation]
+Commander in chief: [nation=short]Bunicken[/nation]

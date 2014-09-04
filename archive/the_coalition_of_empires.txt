@@ -1,4 +1,8 @@
-The current controller : [nation=Drakloria]
-The current King : Corvus Ravenwing [nation=Drakloria]
-The current minister of international affairs : President Prime Minister Admiral General Haffaz Aladeen [nation=gary_busey]
-The current marshal of war : Nikola Tesla
+[b]The Current Controller[/b] : [nation=Drakloria]
+
+[b]The Current King[/b] : Corvus Ravenwing [nation=Drakloria]
+
+[b]The Current Minister of International Affairs[/b] : President Prime Minister Admiral General Haffaz Aladeen [nation=gary_busey]
+
+[b]The Current Marshal of War[/b] : Nikola Tesla [nation=filthy_frank_and_his_backyard]
+

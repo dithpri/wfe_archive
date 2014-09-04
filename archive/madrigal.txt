@@ -4,7 +4,7 @@
 [color=gray]Prime Minister[/color]: [nation=short]Solvis[/nation]
 Minister of Defense: [nation=short]Shadoke[/nation]
 Minister of Foreign Affairs: [nation=short]Machuti[/nation]
-Minister of Internal Affairs: [nation=short]American Aperonia[/nation]
+Minister of Internal Affairs: [nation=short]Aperonia[/nation]
 Minister of Roleplay: [nation=short]Darznia[/nation]
 [hr][u]Weekly RMB Topic:[/u][/b]
 Should we have a regional map?

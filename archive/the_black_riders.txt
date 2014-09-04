@@ -1,9 +1,4 @@
-[b][u][color=#8B0000]Order of the Day[/color][/u]
-
-[color=black]Await further instructions[/color]
-
-[hr]
-[color=black]Welcome to The Black Riders:[/color] [color=#8B0000]The Elite Cavalry of NationStates![/color]
+[b][color=black]Welcome to The Black Riders:[/color] [color=#8B0000]The Elite Cavalry of NationStates![/color]
 
 [color=#8B0000]Get started by:[/color]
 
@@ -18,6 +13,10 @@
 [color=#8B0000]Marshal: [nation=short]Gest[/nation][/color]
 [color=black]Marshal: [nation=short]Feuer Ritter[/nation][/color]
 [color=#8B0000]Marshal: [nation=short]Bob Moran[/nation][/color]
+
+[hr][u][color=black]Order of the Day[/color][/u]
+
+[color=#8B0000]Await further instructions[/color]
 
 [/b]
 

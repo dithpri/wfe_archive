@@ -1,12 +1,20 @@
 [b]Schimata League[/b]
 [i]Schemos Protathlima[/i]
+[i]Schimia Protalin[/i]
+[i]Liga Skimata[/i]
 
-*Region-based Nation*
-[hr][B]Head of State[/B]: Queen Hellenia II of Krythos
-[B]Head of Government[/B]: Prime Minister Lord Mikha Reddin
-[hr][B]Domus Synklitos (House of Senate/Upper House)[/B]: Councillor Lord Demitrius Scada
-[B]Domus Synedros (House of Council/Lower House)[/B]: Speaker Lady Rianna Horzen
-[hr][B]The Royal Supreme Court of Schimata[/B]: Head Judge Lord Julius Callia
-[hr][B]Capital City[/B]: Cephus
-[B]Largest City[/B]: Nykos Symorica
+*Region-based Nation in form of a Realm*
+[hr][B]Monarch[/B]: Queen Hellenia II of Krythos
+[B]Prime Minister of [nation]Schimata[/nation][/B]: Lord Mikha Reddin
+[B]Prime Minister of [nation]Vestalion[/nation][/B]: Lord Athanasos Tipsarigis
+[B]Prime Minister of [nation]Apsana[/nation][/B]: Lord Mahendra Rajapaksi
+[hr][B]Capital City[/B]: Tarneia
+[B]Largest City[/B]: Tarneia
+[hr][B]Area[/B]: km2
+[B]Population[/B]:
+[B]Density[/B]: 
+[hr][B]Establishment[/B]
+Personal Union with [nation]Vestalion[/nation]: 31 August 1901
+Home Rule of [nation]Apsana[/nation]: 17 April 1969
+Statute of The Legion: 2 November 1997
 
