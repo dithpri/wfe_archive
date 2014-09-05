@@ -1,14 +1,13 @@
-We are one of the oldest regions.  We have been here since the earliest days.  That is why we exist as a founderless region.  Despite the harm that has come about, we have survived and will continue to survive.
+We are one of the oldest regions.  We have been here since the earliest days, thus we exist as a founderless region.  Despite the harm that has come about, we have survived and will continue to survive.
 
-Your Senators:
-[nation=short]Ballurswag[/nation]
-[nation=short]Ezocog[/nation]
-[nation=short]Pseudocholinesterase[/nation]
-[nation=short]Higher Calling[/nation]
-[nation=short]Arcadian occupied Bigtopia[/nation]
+Ministers:
+Prime Minister: NONE
+Defense: [nation=short]Applebania[/nation]
+International Intelligence: NONE
+Internal Affairs: [nation=short]Ballurswag[/nation]
+Foreign Affairs: [nation=short]Come Orginal[/nation]
+Immigration: [nation=short]Supreme Oppressors[/nation]
 
-Constitution vote complete, new version passed.
-
-St. Abbaddon has joined the United Regions.  Our ambassador is the [nation=short]St Abbaddon Ambassador[/nation] . Other ambassadors to regions will be chosen as needed/requested.
-Our regional message board is now open to the members of the regions we have embassies with.  So, you&amp;#39;ll see some new faces.
+United Regions Ambassador: [nation=short]St Abbaddon Ambassador[/nation] . Other ambassadors to regions will be chosen as needed/requested.
+Our regional message board is open to the members of the regions we have embassies with.
 

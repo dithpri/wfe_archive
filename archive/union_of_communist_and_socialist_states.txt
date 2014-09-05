@@ -4,6 +4,11 @@ Members
 Territories of Bruissa
 [nation]Wendy Islands[/nation]
 [nation]Dinodo[/nation]
+[nation]Aojo Islands[/nation]
+
+Republics
+[nation]Jeriana[/nation]
+[nation]Ovanda[/nation]
 
 
 Embassies

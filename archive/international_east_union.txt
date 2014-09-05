@@ -13,16 +13,15 @@
 
 [u][I][Color=blue][b]Fifth Cabinet of the IEastU[/b][/color][/I][/U]
 [b]
-Queen:
-[nation=short]Kobras XIV[/nation]
-King consort:
-[nation=short]People Who Stand United[/nation]
+King:
+[nation=short]The First Carthage[/nation]
+Consort:
 
 Prime Minister:
-[Nation=short]Isakkophland[/nation]
+[Nation=short]Munray[/nation] temporal
 
 Deputy Prime Minister:
-[nation=short]POTA[/nation]
+[nation=short]Sillyton[/nation]
 
 Chief of Justice:
 [nation=short]Shikah[/nation]
@@ -31,8 +30,8 @@ Adviser:
 [nation=short]DANIAL2[/nation]
 
 
-Minister of Foreign Affairs:
- [nation=short]Kobras XIV[/nation]
+Minister of Foreign Affairs: TBA
+ 
 
 Minister of Defense:
  [nation=short]Romano-Germanic Empire[/nation]
@@ -42,5 +41,5 @@ Minister of Interior:
 [hr][hr]
 -[color=blue]Spotlight:[/color] [url=http://www.gg9cle.com]Gay Games 2014[/url]
 
-[color=red]-IEU Music:[/color] Purity Ring: Amenamy
-[I]Every Nation is encouraged to join [color=green]WA[/color] and endorse our delagate[nation=short]Isakkophland[/nation][/b][/I]
+[color=red]-IEU Music:[/color] Purity Ring: Amenamy[hr][hr]
+[I]Every Nation is encouraged to join [color=green]WA[/color] and endorse our delagate[nation=short]Munray[/nation][/b][/I]
