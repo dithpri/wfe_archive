@@ -5,7 +5,7 @@ WA delegate: [nation]Theoniatium[/nation]
 
 Prime Minister: vacant
 Deputy Prime Minister: vacant
-Minister of Foreign Affairs: vacant
+Minister of Foreign Affairs: [nation]Cianlandia[/nation]
 Minister of Commonwealth Affairs:vacant
 
 Minister of Defence: vacant

@@ -13,6 +13,8 @@
 [color=cyan]PARLIAMENT OF THE CONCORDAT[/color]
 [color=red]Admiral General[/color]: Jayk Parsons of [nation=Holtsenov]
 [color=gold]Prime Minister[/color]: Christian Helm of [nation=Burglor]
+
+
 [color=bronze]Lieutenant Colonel[/color]: Noah Wright of [nation=snow people]
 [color=lavander]Secretary of Foreign Affairs[/color]: Alex Brinkhorst of [nation=sovankia]
 [color=cobalt]Commander in Chief of Military Action[/color]: Micah Kurtz of [nation=SullyFields]

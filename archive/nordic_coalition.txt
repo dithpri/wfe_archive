@@ -1,7 +1,15 @@
 A region of Countries.
 
-Founder: KoNAI
+Founder: [nation=short]Kingdom of the Northern Atlantic Isles[/nation]
 
-WA Delegate: Oslwald Town
+WA Delegate: [nation=short]Oslwald Town[/nation]
+
+Head of Roleplay: [nation=short]Oslwald Town[/nation]
+
+Regional Minor Governor: [nation=short]Kingdom of the Northern Atlantic Isles[/nation] (for now)
 
 Regional Currency is the Liech. Please use it or you will be frowned upon.
+
+Boarder: Closed until everyone is accounted for
+
+Jake: KoNAI = [nation=short]Kingdom of the Northern Atlantic Isles[/nation], but its easier to say as an acronym. Ignore the dictatorship bit.
