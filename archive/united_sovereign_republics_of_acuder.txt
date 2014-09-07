@@ -7,13 +7,12 @@ Regional Government:
 [color=red]Vice President:[/color][nation=short]Stone Cuaron[/nation]
 [color=blue]Presidential Advisor:[/color][nation=short]West Lusterland[/nation]
 
-[color=red]Prime Minister:[/color][nation=short]Commonwealth of Hank the Cat[/nation]
+[color=red]Prime Minister:[/color][nation=short]franklin and jefferson[/nation]
 [color=blue]Vice Prime Minister:[/color]
 [color=red]Prime Minister Advisor:[/color]
 
 
 [color=red]Military Commander:[/color][nation=short]Franklin and Jefferson[/nation]
 [b]___________________________[/b]
-
 
 

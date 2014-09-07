@@ -1,9 +1,8 @@
 The commonwealth is back
 
 [b]King[/b]: [nation]The Great European Commonwealth[/nation]
-WA delegate: [nation]Theoniatium[/nation]
+WA delegate/Prime Minister: [nation]Theoniatium[/nation]
 
-Prime Minister: vacant
 Deputy Prime Minister: vacant
 Minister of Foreign Affairs: [nation]Cianlandia[/nation]
 Minister of Commonwealth Affairs:vacant
@@ -14,7 +13,7 @@ Home Defence Minister:vacant
 
 [b]NEEDED[/b]
 Recruiter&amp;#39;s: 
--Vacant
+-[nation]Cianlandia[/nation]
 -vacant
 -vacant
 
