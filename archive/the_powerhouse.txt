@@ -1,5 +1,5 @@
-[b][color=red]&amp;gt;&amp;gt;&amp;gt;Power level: 76%[/color][/b]
-[b][color=black]&amp;gt;&amp;gt;&amp;gt;Time till power down 15:00:00[/color][/b]
+[b][color=red]&amp;gt;&amp;gt;&amp;gt;Power level: 68%[/color][/b]
+[b][color=black]&amp;gt;&amp;gt;&amp;gt;Time till power down 13:00:00[/color][/b]
 [b][color=red]&amp;gt;&amp;gt;&amp;gt;Generator status: on[/color][/b]
 [b][color=black]&amp;gt;&amp;gt;&amp;gt;explosion qty:0[/color][/b]
 [b][color=teal]&amp;gt;&amp;gt;&amp;gt;Happiness level: happy, happy, happy, you are all happy![/color][/b]
@@ -11,7 +11,6 @@ pay no attention to the man operating the reactors, he doesn&amp;#39;t matter.
 [hr]
 job description: Welcome to the powerhouse! We hope you&amp;#39;ll enjoy your time here. Just make sure not to spill juice on your workstation.
 [hr]
-absorbed power from [region=the gamma world]!
+[b][I]&amp;quot;Power down today so that others can power up tomorrow!&amp;quot;[/b][/I]
 [hr]
-polls will take up an unnecessary amount of uranium
 [hr]
