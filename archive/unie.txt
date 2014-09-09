@@ -1,7 +1,7 @@
 [color=lavender] [b]Welcome to the ever more grand region of [/color] [color=violet]Unie[/color] [color=lavender].[/b] [/color]
 
 [color=gold] [i] [b]Tout endurer. Se souvenir de tous.[/b] [/i] [/color]
-[hr] [color=purple] [b]{[u]The Benevolent, Puissant Duke of Unie, [nation=short+noflag]Manick[/nation], has given his leadership to the people of Unie![/u]}[/b] [/color]
+[hr] [color=purple] [b]{[u]The Puissant Bene-Duke of Unie, [nation=short+noflag]Manick[/nation], has given his leadership to the people of Unie![/u]}[/b] [/color]
 [hr] [color=violet] [b] [u]The Grand Council of Unie[/u] [/color] 3-9[/b]
 [color=purple] [b]Endorse &#151;&amp;gt; The Speaker[/b] [/color]
 &#149;[nation=short]Kileogi[/nation]
@@ -17,4 +17,5 @@
 [hr] [color=red] [b]War has been closed.[/b] [/color]
 [hr] [color=violet]Please endorse The Speaker. Do not seek more then 2 endorsements.[/color]
 [hr] [color=pink] [b]Before talking to the founder, all foreigners are to consult with [nation=short+noflag]Ndaku[/nation].[/b] [/color]
+[hr] [color=violet] [b]News:[/b] [/color] We now have political parties!
 [hr] [color=blue]#ACE|Attitude. Criteria. Efficiency.[/color]

@@ -26,9 +26,6 @@ Deputy Prime Minister:
 Chief of Justice:
 [nation=short]Shikah[/nation]
 
-Adviser: 
-[nation=short]DANIAL2[/nation]
-
 
 Minister of Foreign Affairs: TBA
  

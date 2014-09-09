@@ -1,7 +1,7 @@
-[b][u]Entrance to [region]The Black Order[/region] is exclusive to those who wish to serve[/u]
+[b]Entrance to [region]The Black Order[/region] is exclusive to those who wish to serve
 [color=gold]
-[nation=short]Black Order Commander[/nation]
-Serves as High Priest of the Order, upholding the Faith and Laws[hr][nation=short]Acolyte Commander[/nation]
-Serves as the leader of the Holy Soldiers of the Order
+[u]High Priest of the Order[/u]: [nation=short]Black Order Commander[/nation][hr]
+[u]General[/u]: [nation=short]Acolyte Commander[/nation]
 
+[u]Court:[/u] Holy Office of the Inquisition
 Initiates are welcome to approach the Temple.[/color][/b]

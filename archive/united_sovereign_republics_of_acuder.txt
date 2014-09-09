@@ -9,7 +9,7 @@ Regional Government:
 
 [color=red]Prime Minister:[/color][nation=short]franklin and jefferson[/nation]
 [color=blue]Vice Prime Minister:[nation=short]Arcadia-Europa[/nation][/color]
-[color=red]Prime Minister Advisor:[nation=short]Yuketobaniac[/nation][/color]
+[color=red]Prime Minister Advisor:[nation=short]LapuLapu01[/nation][/color]
 
 
 [color=red]Military Commander:[/color][nation=short]Franklin and Jefferson[/nation]
@@ -20,4 +20,3 @@ Regional Government:
 [Color=blue]Minister Of War:[/Color][Nation=short]Commonwealth of Hank the Cat[/Nation]
 [Color=red]Minister of Foreign Affairs:[/color][Nation=short]The Barbradian Republic[/Nation]
 [Color=blue]Minister Of Trade:[/color][Nation=short]Stone Cuaron[/Nation]
-[Color=red]Security Officers:[/color][Nation=short]Commonwealth of Hank the Cat[/Nation],[Nation=short]The Barbradian Republic[/Nation],[Nation=short]Stone Cuaron[/Nation],[Nation=short]Franklin And Jefferson[/Nation],[Nation=short]Yuketobaniac[/Nation],and [Nation=short]LapuLapu01[/Nation]

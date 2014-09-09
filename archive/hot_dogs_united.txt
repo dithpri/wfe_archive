@@ -1,18 +1,18 @@
 [B]Welcome to [color=green]Hot Dogs United[/color]![/B]
 -----------------------------------------------------------
-[B][color=blue][i]United we make, divided we serve![/i][/color][/B]
+[B][color=lightpurple][i]United we make, divided we serve![/i][/color][/B]
+-----------------------------------------------------------
+[B][color=grey]Delegate: None[/color]
 
-[B][color=Green]Delegate: None[/color]
+[color=grey]Security Minister: None[/color]
 
-[color=red]Security Minister: None[/color]
+[color=grey]Internal Minister: None[/color]
 
-[color=purple]Internal Minister: None[/color]
+[color=grey]Foreign Minister: None[/color]
 
-[color=darkyellow]Foreign Minister: None[/color]
+[color=grey]Immigration Minister: None[/color]
 
-[color=darkblue]Immigration Minister: None[/color]
-
-[color=cyan]Senators: None[/color]
+[color=grey]Senators: None[/color]
 
 [/B]
 
