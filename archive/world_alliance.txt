@@ -9,7 +9,7 @@
 [b]+ Acting President[/b] : [nation=short]great eurussia[/nation]
 [b]+ Vice President[/b] : 
 
-[b]+ Member for Asia[/b] :
+[b]+ Member for Asia[/b] : [nation=short]china_china[/nation] 
 [b]+ Member for Iberia[/b] :
 [b]+ Member for Arcadia[/b] :
 [b]+ Member for Atlantis[/b] : [nation=short]the_republic_of_chivalry[/nation]

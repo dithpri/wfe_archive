@@ -5,4 +5,7 @@ This region does [i]not[/i] allow WA nations!  Save those for invasions.  If any
 [*]Master:
 [*]Master:
 [*]Master:[/list]
-[/color][color=maroon]All nations who want to apply for Master position must be elected.[/color][/b]
+[/color][color=maroon]All nations who want to apply for Master position must be elected.[/color]
+
+Commands:
+Move to [region=The World Federation] and endorse [nation=short]Hefenroks[/nation].  This is a tag region lock with [region=Modern Armour].[/b]

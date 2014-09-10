@@ -9,7 +9,7 @@ Regional Government:
 
 [color=red]Prime Minister:[/color][nation=short]franklin and jefferson[/nation]
 [color=blue]Vice Prime Minister:[nation=short]Arcadia-Europa[/nation][/color]
-[color=red]Prime Minister Advisor:[nation=short]LapuLapu01[/nation][/color]
+[color=red]Prime Minister Advisor:[nation=short]Yuketobaniac[/nation][/color]
 
 
 [color=red]Military Commander:[/color][nation=short]Franklin and Jefferson[/nation]
