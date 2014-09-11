@@ -7,9 +7,11 @@ Welcome to The Independent Nations of Myzrohburg!
 
 [color=orange]Minister of foreign affairs:[/color] [nation]New Dungarvan[/nation]
 
-[color=purple]Minister of recruitment:[/color] None
+[color=purple]Minister of recruitment:[/color] None 
 
 [color=green]Minister of defense:[/color] [nation]Camerapia[/nation]
+
+[color=Gray]Minister of intelligence:[/color] None
 
 [color=blue]Constable:[/color] None
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

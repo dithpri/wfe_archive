@@ -20,3 +20,4 @@ Regional Government:
 [Color=blue]Minister Of War:[/Color][Nation=short]Commonwealth of Hank the Cat[/Nation]
 [Color=red]Minister of Foreign Affairs:[/color][Nation=short]The Barbradian Republic[/Nation]
 [Color=blue]Minister Of Trade:[/color][Nation=short]Stone Cuaron[/Nation]
+[Color=red]Minister of Industry:[/color][Nation=short]Communist Ireland Republic[/Nation]

@@ -18,7 +18,7 @@ King:
 Consort:
 
 Prime Minister:
-[Nation=short]Munray[/nation] temporal
+[Nation=short]Munray[/nation]
 
 Deputy Prime Minister:
 [nation=short]Sillyton[/nation]
