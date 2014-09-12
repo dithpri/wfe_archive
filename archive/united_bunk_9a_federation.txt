@@ -1,9 +1,10 @@
 Welcome to the [region]United Bunk 9A Federation[/region]
 
-[b]Founder:[/b] The Kingdom of Boah
-[b]Current WA Delegate:[/b] The Holy Empire of Unified Imperial Empire
+[b]Founder:[/b][nation]Boah[/nation]
+[b]Current WA Delegate:[/b] [nation]Unified Imperial Empire[/nation]
 [B]Minister of Foreign Affairs:[/b] To Be Determined
 [b]Domestic General:[/b] To Be Determined
+[b]FAD General:[/b] [nation]Unified Imperial Empire[/nation]
 [b]Senator:[/b]: To Be Determined
 
 

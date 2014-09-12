@@ -1,0 +1,13 @@
+[region]European Territory Union[/region]
+[nation]german_region[/nation]
+[nation]Tan_Vietnam[/nation]
+[nation]United_Provinces_of_Asia[/nation]
+
+Majority Leader of European Territory Union: Heinrich Hellwege (CDU) [[Nation]German_region[/nation] Bundestag]
+Minority Leader of European Territory Union: Wilfrid Adam (SDP) [[nation]Tan_vietnam[/nation] Bundestag]
+
+Security Council: [nation]Tan_vietnam[/nation] 
+Union&amp;#39;s Legislative: [nation]german_region[/nation]
+Economic Policy and Planning: Federal Republic of German Region und [nation]United_Provinces_of_Asia[/nation]
+European Territory Union Representative for European Union: [nation]United_Provinces_of_Asia[/nation]
+

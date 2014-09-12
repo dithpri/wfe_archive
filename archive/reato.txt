@@ -15,7 +15,6 @@ Members:
 Observers:
 -[region]The Hyatt Islands[/region]
 -[region]Zionist Empire[/region]
--[region]The Chernobyl Union[/region]
 
 Pending:
 

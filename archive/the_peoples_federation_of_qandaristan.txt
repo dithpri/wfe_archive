@@ -5,7 +5,7 @@ Prime Minister: [nation]Ruskandar[/nation],
 Secretary: [nation]Republic of Zakistan[/nation]
 Minister of Foreign Affairs and Politics: [nation]Sukhdan[/nation]
 Minister of Recruitment: [nation]Lokhshan[/nation]
-Chancellor: [nation]The Communist Soviet[/nation]
+Chancellor and Councilman: [nation]The Communist Soviet[/nation]
 Regional Rapporteur: [nation]Qandaristan Communist Media[/nation]
 Marshall of the Military: [nation]Jihad Caliphate[/nation]
 [color=Red]__________________________________________________________________________[/color]

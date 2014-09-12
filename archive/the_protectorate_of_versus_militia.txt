@@ -4,12 +4,12 @@
 
 Prime-Minister: [nation]Versus Militia[/nation]
 Vice-President: [nation]H20myass[/nation]
-Minister of Defence: [nation]Miltren[/nation]
+Minister of Defence: n/a
 Minister of Military: [nation]Dharmaloka[/nation]
 Minister of Public Safety: n/a
 Minister of Social Welfare: n/a
 Minister of Health: n/a[/color][/b]
 
-[color=purple][b]Newest Nation: [nation]Miltren[/nation][/b][/color]
+[color=purple][b]Newest Nation: [nation]Dharmaloka[/nation][/b][/color]
 
 [color=red][i]To be a Minister you need to have a regional influence higher than &amp;#39;Minnow&amp;#39;. To be Vice-President your regional influence should be &amp;#39;Diplomat&amp;#39; or higher.[/i][/color]

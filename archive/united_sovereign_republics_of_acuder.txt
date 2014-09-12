@@ -14,10 +14,10 @@ Regional Government:
 
 [color=red]Military Commander:[/color][nation=short]Franklin and Jefferson[/nation]
 [color=blue]Sergeant:[/color][nation=short]Kazadure[/nation]
-[Color=red]General:[/color][Nation=short]Commonwealth of Hank the Cat[/Nation]
+[Color=red]Vacant[/color]
 
 [b]___________________________[/b]
-[Color=blue]Minister Of War:[/Color][Nation=short]Commonwealth of Hank the Cat[/Nation]
+[Color=blue]Vacant[/Color]
 [Color=red]Minister of Foreign Affairs:[/color][Nation=short]The Barbradian Republic[/Nation]
 [Color=blue]Minister Of Trade:[/color][Nation=short]Stone Cuaron[/Nation]
 [Color=red]Minister of Industry:[/color][Nation=short]Communist Ireland Republic[/Nation]
