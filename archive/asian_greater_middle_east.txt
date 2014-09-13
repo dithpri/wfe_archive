@@ -1,5 +1,14 @@
-Re-WIP
+Re-work in progress.
 
-[b]Check the land Claim for population stats.[/b]
+Alternate history!
 
-We use [url=http://www.nstracker.net/]NSTracker[/url] in this region to pull numbers such as exchange rates, budgets and military strength. Without NST, you nation will not have a military.
+Part of the AMERICAN UNION world story.
+[region]American Union[/region]
+[region]The European Confederacy[/region]
+[region]African Nations[/region]
+[region]Russian Forum[/region]
+[region]The Union of Greater Asia[/region]
+[region]Britanesia[/region]
+[region]The City of Milwaukee[/region]
+[region]The TransAtlantic Union[/region]
+The Polynesian Union

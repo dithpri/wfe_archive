@@ -1,4 +1,4 @@
-[i][color=red][b]Welcome to the International East Union[/color][/b][/I] [i]We welcome all who wish to join, regardless of political, social, or cultural beliefs.[/i]
+[i][color=red][b]Welcome to the United Kingdom of the International East Union[/color][/b][/I] [i]We welcome all who wish to join, regardless of political, social, or cultural beliefs.[/i]
 [hr][hr]
 [B][I][color=red]
 |  [Url=http://www.nationstates.net/nation=people_who_stand_united/detail=factbook/id=286004]Constitution[/url]|[url=http://www.nationstates.net/nation=the_first_carthage/detail=factbook/id=271067]RP Laws[/url]|[url=http://www.nationstates.net/nation=munray/detail=factbook/id=271653]Request Embassy[/url]|[url=http://www.nationstates.net/nation=munray/detail=factbook/id=272230]Bills[/url] |[url=http://www.nationstates.net/page=dispatch/id=276365]Kingdom of the IEastU[/url]|[url=https://www.nationstates.net/nation=the_ieu_puppet/detail=factbook/id=245029]Alerts[/url][/i]|[/color][/b]
@@ -27,7 +27,8 @@ Chief of Justice:
 [nation=short]Shikah[/nation]
 
 
-Minister of Foreign Affairs: TBA
+Minister of Foreign Affairs:
+[Nation=short]Venta[/nation]
  
 
 Minister of Defense:

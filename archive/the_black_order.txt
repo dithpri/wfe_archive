@@ -1,7 +1,8 @@
-[b]Entrance to [region]The Black Order[/region] is exclusive to those who wish to serve
-[color=gold]
-[u]High Priest of the Order[/u]: [nation=short]Black Order Commander[/nation][hr]
-[u]General[/u]: [nation=short]Acolyte Commander[/nation]
+[b][color=gold]Entrance is exclusive to those who wish to live in service to The Black Order and our Faith.[/color][hr]
+
+[u]High Priest[/u]: [nation=short]Black Order Commander[/nation]
+[nation=short]Acolyte Commander[/nation]
 
 [u]Court:[/u] Holy Office of the Inquisition
-Initiates are welcome to approach the Temple.[/color][/b]
+
+[color=gold]APPLICANTS[/color] need formal acceptance to become as a member as an [i]Initiate[/i], and may progress to [i]Acolyte[/i] and [i]Priest[/i] levels over time[/b]

@@ -1,17 +1,26 @@
 NEW OKATAMA!
 
-[B][color=orange]News:[/color][/B] Finally, we have a new region and a stable foundation. Hooray!
+[B][color=orange]News:[/color][/B] We&amp;#39;re ushering in a new government: make sure to sign up for the Okatama Senate!
 
 [B][color=green]Links List[/color][/B]--[url=http://okatama.createaforum.com/index.php]Forum[/url]--[url=http://www.broomdces.com/nseconomy/regions.php?region=new+okatama]New Okatama Economics[/url]
 
-[B][color=purple]Leadership:[/color][/B]
-Vice Delegate:
+[B][color=purple]Government:[/color][/B]
+
+Vice-Delegate: [nation=short]Dukats[/nation]
 
 [u]Ministers:[/u]
 
-Internal:
-External:
-Defense:
-Media:
+Internal: [nation=short]Kierland[/nation]
+External: [nation=short]Brahmins[/nation]
+Defense: [nation=short]Siseneg[/nation]
+Media: [nation=short]Enduvas[/nation]
+
+Old Guard:
+
+-[nation=short]Dukats[/nation]
+-[nation=short]Siseneg[/nation]
+-[nation=short]Enduvas[/nation]
+-[nation=short]Russcotia[/nation]
+-[nation=short]Sed26[/nation]
 
 (By Sed)
