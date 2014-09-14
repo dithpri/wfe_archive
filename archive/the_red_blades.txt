@@ -1,6 +1,7 @@
-[b][color=red]We are the Red Blades, more dangerous than the night![/color]
-This region does [i]not[/i] allow WA nations!  Save those for invasions.  If anyone is caught, they will be banjected on sight.  We recommend resigning the WA before joining.
-[color=maroon]The Elite Blades:[/color][list]
+[b][color=red]Welcome to the Red Blades; we are more dangerous than the night![/color]
+This region does [i]not[/i] allow WA nations!  Save those for invasions.  If you are in the WA, please resign before joining.
+[color=maroon]All puppets in the region are asked to move to [region=Influence Machines].[/color]
+The Elite Blades:[list]
 [*][color=red]Grandmaster: [nation=Inaga]
 [*]Master:
 [*]Master:
@@ -8,4 +9,4 @@ This region does [i]not[/i] allow WA nations!  Save those for invasions.  If any
 [/color][color=maroon]All nations who want to apply for Master position must be elected.[/color]
 
 Commands:
-Move to [region=The World Federation] and endorse [nation=short]Hefenroks[/nation].  This is a tag region lock with [region=Modern Armour].[/b]
+N/A[/b]

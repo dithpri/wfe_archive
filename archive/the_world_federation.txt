@@ -1,8 +1,8 @@
-HURRAH, HURRAH
+[B]Hurrah! Hurrah!
+This region has fallen to the forces of [region]Modern Armour[/region] and [region]The Red Blades[/region]!
+Thanks to:[/B]
 
-This region was no match for [region]Modern Armour[/region]!
-
-Raiders:
-
-[nation]Republic of Vietnam[/nation]
 [nation]Roski[/nation]
+[nation]Republic of Vietnam[/nation]
+[nation]Inaga[/nation]
+
