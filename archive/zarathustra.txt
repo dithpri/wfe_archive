@@ -13,6 +13,7 @@ Honored Vassals:
 [region]Spanish Empire[/region]
 [region]Global Enterprise[/region]
 [region]The Mossad[/region]
+[region]The First Reich[/region]
 
 Conquered Subjects:
 
@@ -29,3 +30,4 @@ Conquered Subjects:
 [region]The Region Of True Communists[/region]
 [region]Soviet Eastern Communist Europe[/region]
 [region]Canaan[/region]
+[region]United Islamic Empire[/region]
