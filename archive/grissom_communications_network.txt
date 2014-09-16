@@ -1,0 +1,1 @@
+A region that allows all Grissom regions to communicate in one unified RMB.

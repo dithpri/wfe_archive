@@ -4,4 +4,8 @@ Emperor:[nation]Empire of Atmora[/nation]
 
 Prime Minister:[nation]Artigat[/nation]
 
+Deputy Prime Minister:[nation]Etoren[/nation]
+
+Minister of Defense:[nation]Sirta[/nation]
+ 
 Minister of Foreign Affairs:[nation]The Atoran Isle[/nation]

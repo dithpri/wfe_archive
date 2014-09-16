@@ -9,7 +9,7 @@ Domestic Minister:
 Secretary:[nation]Aravea[/nation]
 Intelligence Minister: 
 Map Maker:
-Recruitment Officer: [nation]New Rhodinia[/nation]
+Recruitment Officer:
 
 Welcome to the United Federation of Nations, a military and economic alliance dedicated to the principles of freedom and democracy,as well as the pursuit of peace.
 .

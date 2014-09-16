@@ -1,4 +1,4 @@
-[B]OCCUPIED BY [region]MADRIGAL[/region][/B]
+[i][B]OCCUPIED BY [region]MADRIGAL[/region]
 
 The Following Had Helped:
 [nation=short]Shadoke[/nation]
@@ -11,4 +11,4 @@ A special thanks to our friends from TBR:
 [nation=short]Bendicion[/nation]
 [nation=short]Coraxion[/nation]
 
-Endorse [nation]Shadoke III[/nation] or get the boot
+Endorse [nation]Shadoke III[/nation] or get the boot[/B][/i]
