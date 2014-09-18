@@ -1,6 +1,7 @@
-[b][color=red]This region has been shot down by [region=Red Armor]!  Victory is ours once again![/color]
+[b][color=red]This region has been refounded by [region=Red Armor]!  Victory is ours once again![/color]
 
 [color=maroon]Marching through the region were the following soldiers:
-[nation]Inaga[/nation]
-[nation]Timriirr[/nation]
-[nation]Roski Americans[/nation][/color][/b]
+[nation=short]Roski Americans[/nation]
+[nation=short]Timriirr[/nation]
+[nation=short]Inaga[/nation]
+[/color][/b]

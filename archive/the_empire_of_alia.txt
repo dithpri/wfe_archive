@@ -1,5 +1,6 @@
-[b]Emperor:[/b] [nation=short]Templareroeras[/nation][b] ProConsul:[/b] [nation=short]Teutoniam[/nation]
-[b]First Citizen:[/b] [nation=short]Praise The Sun[/nation] [b]Wise Man[/b] [nation=short]Ukranas[/nation]
+[b]Emperor:[/b] [nation=short]Templareroeras[/nation][b] ProConsul:[/b] [nation=short]Teutoniam[/nation]        [b] Quaestor:[/b] [nation=short]Praise the Sun[/nation]
+
+(The Former Titles of Wise Man and First Citizen have been disabled for the time being by decree of the Emperor)
 
 A massive empire, dedicated to protecting the Alian idea, after growing from the ashes of The Federation of Alia, which crumbled.
 

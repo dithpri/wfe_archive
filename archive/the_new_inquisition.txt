@@ -7,7 +7,7 @@ A founder military force of [region]The United Imperial Armed Forces[/region].[/
 [hr][hr]
 
 K&ouml;nig: [nation=short]Cerebella[/nation]
-Minister-President: [nation=short]MagentaFairy[/nation]
+Minister-President: [nation=short]Romberg[/nation]
 
 [hr][hr]
 
@@ -15,4 +15,4 @@ Minister-President: [nation=short]MagentaFairy[/nation]
 
 [hr][hr]
 
-[color=red]Regional News: A General Election has been called.[/b][/color]
+[color=red]Regional News: General mobilisation for recruitment declared. Find more info [url=http://z11.invisionfree.com/The_New_Inquisition/index.php?showtopic=25178]here[/url].[/b][/color]

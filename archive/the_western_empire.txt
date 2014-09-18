@@ -12,7 +12,7 @@ President: [nation=short]Rightist America[/nation]
 Governor: [nation=short]Aristotskia[/nation]
 Recruitment Minister: [nation=short]The Great Gatsby[/nation]
 
-[b][color=gold]Member[/color] of [region]Right Wing Uprising[/region] and [url=http://www.nationstates.net/region=the_tripartite_pact]the Tripartite Pact[/url][/b].
+[b][color=gold]Member[/color] of [url=http://www.nationstates.net/region=the_tripartite_pact]the Tripartite Pact[/url][/b].
 
 [b]News:[/b]
 Region under reformation.
