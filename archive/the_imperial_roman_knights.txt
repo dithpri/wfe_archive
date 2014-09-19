@@ -1,7 +1,7 @@
 Welcome to the Imperial Roman Knights! A new raiding region that is intended to become one of the most destructive forces in the region![hr]
-Emperor: [nation]Tolu[/nation]
+Emperor: [nation]Rassen[/nation]
 Delegate: Vacant
-Field Marshal: Vacant
+Field Marshal: [nation]Shadoke[/nation]
 High Legate: Vacant
 Legate: Vacant
 Legate: Vacant

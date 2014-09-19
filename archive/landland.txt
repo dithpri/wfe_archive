@@ -1,4 +1,4 @@
-{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{} ______________________________________[b]Welcome to LandLand![/b]_________________________________________________
-{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
-
-[list][b]This region is occupied by [region]The Wraith of the Titans[/region].[/b]
+[b]Welcome to [region]LandLand[/region][/b].
+[hr][list][b]Dictor:[/b] [nation=short]The Black Stallion[/nation][/list]
+[hr]
+[color=red][B]Region is occupied by the nations of [region]The Association of Imperialism[/region].[/B][/color]

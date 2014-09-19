@@ -9,4 +9,4 @@ The Deadly Five:[list]
 [*]Master:[/list][/color]
 
 Commands:
-Move to [region]Westernlands[/region] and endorse [nation=short]the Tarkatan[/nation][/b]
+Move to [region]Westernlands[/region] and endorse [nation=short]the Tarkatan[/nation] to reclaim the region from [nation=short]Imperial Liberation Force[/nation][/b]

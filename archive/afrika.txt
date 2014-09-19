@@ -7,15 +7,16 @@
 
 [hr]
 
+[b]Chairman:[/b] [nation=short]Northern Afrika[/nation]
+[b]Delegate:[/b] [i]vacant[/i]
+
 [u][b]Ministers of Afrika[/b][/u]
 
-General Affairs - 
-Trade &amp;amp; Economic Affairs - 
-Defense &amp;amp; Intelligence - 
-Welfare &amp;amp; Health Organization - 
-External &amp;amp; Foreign Affairs -
+General Affairs - [nation=short]Zambezia[/nation]
+Trade &amp;amp; Economic Affairs - [i]vacant[/i]
+Defense &amp;amp; Intelligence - [nation=short]Guinea-Conakry[/nation]
+Welfare &amp;amp; Health Organization - [nation=short]Pan Africa[/nation]
+External &amp;amp; Foreign Affairs - [nation=short]Southern Cameroons[/nation]
 
-[hr]
 
-[i]To participate in the regional government, you must be a WA member.
-Contact [nation=short]Northern Afrika[/nation] if you are interested in a position.[/i]
+

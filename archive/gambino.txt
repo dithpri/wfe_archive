@@ -1,11 +1,10 @@
-[b][color=red]Welcome to the region of Gambino![/color][/b]
-
 [b][u]News:[/u][/b]
 
-[b]9/06/14[/b]:  [nation]Hoodlum[/nation] appointed as interim Vice-President
-[b]9/05/14[/b]:  [region]Gambino[/region] founded by [nation]Butterbourne[/nation]
+[b]9/18/14[/b]: [nation]Boda[/nation] appointed as Secretary of Defense
+[b]9/06/14[/b]: [nation]Hoodlum[/nation] appointed as Vice-President
+[b]9/05/14[/b]: [region]Gambino[/region] founded by [nation]Butterbourne[/nation]
 
-____________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________
 
 [b][u]Introduction:[/u][/b]
 
@@ -13,9 +12,8 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________________________________
 
-[b][u]Administration[/b][/u] 
+[b][u]Administration:[/b][/u] 
 
 President: [nation]Butterbourne[/nation]
 Vice-President: [nation]Hoodlum[/nation]
-Secretary of Defense: [b]Vacant[/b]
-Head of Recruiting: [b]Vacant[/b]
+Secretary of Defense: [nation]Boda[/nation]

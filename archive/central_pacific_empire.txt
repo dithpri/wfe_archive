@@ -1,33 +1,22 @@
 [b]Regional Info page[/b]: [b][url=http://z13.invisionfree.com/CPE/index.php?act=Attach&amp;amp;type=post&amp;amp;id=22388994]Click here[/url][/b]
-
 [B]Off-site Forum:[/B] [b][url=http://www.z13.invisionfree.com/CPE]Click here[/url][/b]
-
 [b]Regional Map[/b]: [b][url=http://z13.invisionfree.com/CPE/index.php?act=Attach&amp;amp;type=post&amp;amp;id=22147770]Click here[/url][/b]
+[hr][b][u][color=yellow]SEPTEMBER-OCTOBER GOVERNMENT:[/color][/u][/b]
 
-SEPTEMBER-OCTOBER GOVERNMENT:
+[b]Prime Minister:[/b] [nation]Lentheric[/nation]
+[b]Minister for Interior Affairs:[/b] [nation=shortname]Centralton[/nation]
+[b]Minister for Immigration:[/b] [nation=shortname]Aanon Bay[/nation] 
+[b]Minister for Defence:[/b] [nation=shortname]Raindrop Valley[/nation] 
+[b]Minister for Justice:[/b] [nation=shortname]Cliffton[/nation] 
+[b]Minister for Foreign Affairs:[/b] [nation=shortname]Faikliren[/nation]
+[hr][b]Next Election Period: [color=rainbow]25 October 2014[/color][/b]
 
-Prime Minister: [nation]Lentheric[/nation]
+[b]Security Category: [color=green]SC1. ordinary[/color][/b] 
+[hr][b][u][color=yellow]JUDICIARY[/color][/u][/b]
 
-[nation]Centralton[/nation] - Minister for Interior Affairs
+[b]Supreme Judge[/b]: [nation=shortname]Allied Engineers[/nation]
+[b]Regional Judge[/b]: [nation=shortname]Love Island[/nation]. 1 x position vacant
 
-[nation]Aanon Bay[/nation] - Minister for Immigration
+[b][u][color=yellow]CAPITAL CITY[/color][/u][/b]
 
-[nation]Raindrop Valley[/nation] - Minister for Defence
-
-[nation]Cliffton[/nation] - Minister for Justice
-
-[nation]Faikliren[/nation] - Minister for Foreign Affairs
-
-Next Election Period: 25 October 2014
-
-[b]JUDICIARY[/B]
-
-[u]Supreme Judge[/u]: [nation]Allied Engineers[/nation]
-
-[u]Regional Judge[/u]: [nation]Love Island[/nation]. 1 x position vacant
-
-[b]CAPITAL CITY[/B]
-
-[nation]Emperor Islands Capital City[/nation], Governor, [nation]Burgundaholmr[/nation]
-
-Security Category: SC1. ordinary 
+[nation=shortname]Emperor Islands Capital City[/nation], Governor, [nation=shortname]Burgundaholmr[/nation]

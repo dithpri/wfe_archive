@@ -1,5 +1,4 @@
-[b]Memorial to the CIS[/b]
-
+Memorial to the CIS
 May this region stand the test of time in honour of the achievements of its nations.
 
 A bastion of democracy and freedom with a rich history stretching back over three years, with a Charter that at one point achieved as true an egalitarian society as possible.
@@ -9,7 +8,7 @@ Below is a list of great contributors, lest we forget.
 [nation]Hylasia[/nation]
 [nation]Syrillia[/nation]
 [nation]Jaxandria[/nation]
-[nation]IFurya[/nation]
+[nation]Ifurya[/nation]
 [nation]Ankh Morporka[/nation]
 [nation]Tilsitsin[/nation]
 [nation]Vargaslavia[/nation]

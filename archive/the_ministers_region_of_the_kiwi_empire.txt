@@ -5,7 +5,7 @@ Minister of External Affairs: [nation]Serpentania[/nation]
 Minister of Internal Affairs: [nation]wolf growl[/nation]
 Minister of Finances: [nation]Penguinia-Tempor[/nation]
 Minister of Technology: [nation]Standinastan[/nation]
-Minister of Computers: [nation]lemmings love war[/nation]
+Minister of Computers: vacant
 Minister of Nature: [nation]Kinkerland[/nation]
 Minister of Defense: [nation]IMAHOBO[/nation]
 Minister of Industry: vacant
