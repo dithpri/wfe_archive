@@ -1,3 +1,1 @@
-A region that allows all Grissom regions to communicate in one unified RMB.
-
-While the region is made for Grissom regions, all embassy requests are accepted.
+A region allowing interregional communication between Grissom and Grissom-friendly regions.

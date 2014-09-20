@@ -8,5 +8,6 @@ The Deadly Five:[list]
 [*]Master:
 [*]Master:[/list][/color]
 
-Commands:
-Move to [region]Westernlands[/region] and endorse [nation=short]the Tarkatan[/nation] to reclaim the region from [nation=short]Imperial Liberation Force[/nation][/b]
+Commands:[list]
+[*]Move to [region=Da Banana Factowy] and endorse [nation=short]Influence Machine V[/nation]
+[*]Or move to [region=Westernlands] and endorse [nation=short]North Emerica[/nation] or [nation=short]Imperial China Unified[/nation] (they have no endorsements as of now)[/list][/b]
