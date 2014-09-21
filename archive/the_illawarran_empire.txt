@@ -3,7 +3,7 @@
 [hr][color=red][b]The Senate[/b][/color]
 [b]Vice-Delegate:[/b] [nation=short]Conwy-shire[/nation]
 [b]Minister for Internal Relations:[/b]
-[b]Minister of Defense:[/b][nation=short]Markham[/nation]
+[b]Minister of Defense:[/b][nation=short]Crucania[/nation]
 [b]Minister of Diplomacy:[/b]
 [b]Minister for Intelligence:[/b] [nation=short]Rukiah[/nation]
 [b]Minister for Recruitment:[/b]
@@ -11,6 +11,6 @@
 
 [b]Available positions to be restructured by the end of the day! Stay tuned...[/b]
 
-[b][nation=short]Crucania[/nation] is somehow delegate![/b]
+[b][nation=short]Markham[/nation] is delegate due to Conwy unnecessarily string pulling[/b]
 
-[hr][color=red][b]Upon entry, please endorse your delegate, [nation=short]Crucania[/nation]. Enjoy your stay![/b][/color] 
+[hr][color=red][b]Upon entry, please endorse your delegate, [nation=short]Markham[/nation]. Enjoy your stay![/b][/color] 

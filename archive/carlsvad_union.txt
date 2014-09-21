@@ -1,23 +1,23 @@
 *Region-Based Nation*
 
-Carlsvad Union(EN)/Karlswadunion(DE)/Uni Karlsvad(IND) 
+[b]Carlsvad Union(EN)/Karlswadunion(DE)/Uni Karlsvad(IND)[/b] 
 
 [b]Union Council[/b]:
+[nation]German Indonesia[/nation]
+-President Jokowi Widodo
+-Vice-President David Purnama
+-Speaker Ernst R&auml;der
 [nation]Klemantan-Borneo[/nation]
 -King Martin von Cartenberg-Utreck
 -Queen Erika Theresa von Cartenberg-Utreck
 -Minister-President Dreyfus Cleese
-German Indonesia[/nation]
--President Jokowi Widodo
--Vice-President David Purnama
--Speaker Ernst R&auml;der
 [nation]Rangoosia[/nation]
 -President Lisa Sch&ouml;der
--Prime Minister Julian Moore
+-Prime Minister Julia Moore
 -Deputy Prime Minister Thomas Willfrock
 
 [b]Factbook[/b]:
 [url=http://www.nationstates.net/nation=german_indonesia/detail=factbook/id=297814]German Indonesia[/url] | [url=http://www.nationstates.net/nation=klemantan-borneo/detail=factbook/id=297811]Klemantan-Borneo[/url] | [url=http://www.nationstates.net/nation=rangoosia/detail=factbook/id=main]Rangoosia[/url]
 
 [b]Ambassador[/b]:
-[url=http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=302503&amp;amp;sid=60d9bd584317bce297919bba4ba48980]UTA[/url]- Dr. Reinhard de Maiza-[nation]Klemantan-Borneo[/nation]
+[url=http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=302503&amp;amp;sid=60d9bd584317bce297919bba4ba48980]UTA[/url]- Dr. Reinhard Dietrich de Wizier-[nation]Klemantan-Borneo[/nation]

@@ -19,8 +19,8 @@
 [b]+ Member for Erythaea[/b] :
 [b]+ Member for Magnesia[/b] : [nation=short]muchos_estados_unidos[/nation]
 [b]+ Member for Polynesia[/b] :
-[b]+ Member for Phoenicia[/b] :
-[b]+ Member for Micronesia[/b] : [nation=short]snarfia[/nation]
+[b]+ Member for Phoenicia[/b] : [nation=short]north_korreaa[/nation][b]
++ Member for Micronesia[/b] : [nation=short]snarfia[/nation]
 [b]+ Member for Mnemosyne[/b] : [nation=short]serenarea[/nation]
 
 [/i][hr]

@@ -1,4 +1,4 @@
-Welcome to [color=blue][B]NEW OKATAMA![/B][/color]
+Welcome to [color=orange][B]NEW OKATAMA![/B][/color]
 
 [B][color=orange]News:[/color][/B] 
      ~ We&amp;#39;re ushering in a new government: make sure to sign up for the [color=blue]NEW OKATAMA SENATE[/color]! 
@@ -7,20 +7,25 @@ Welcome to [color=blue][B]NEW OKATAMA![/B][/color]
 [B][color=green]Links:[/color][/B]
      ~ [url=http://newokatama.createaforum.com/index.php]Forum[/url]
      ~ [url=http://www.broomdces.com/nseconomy/regions.php?region=new+okatama]New Okatama Economics[/url]
+     ~ [url=http://www.nationstates.net/page=dispatch/id=304907]The Communitarian Party[/url]
+     ~ [url=http://www.nationstates.net/page=dispatch/id=305146]The Utopian Peace Party[/url]
 
 [B][color=blue]The New Okatama Regional Government:[/color][/B]
-
-     ~ [B]W.A. Delegate:[/B] [nation=short]Russcotia[/nation]
-     ~ [B]Vice-Delegate:[/B] [nation=short]Dukats[/nation]
-     ~ [B]Minister of the Interior:[/B] [nation=short]Kierland[/nation]
-     ~ [B]Minister of the Exterior:[/B] [nation=short]Brahmins[/nation]
-     ~ [B]Minister of Defense:[/B] [nation=short]Siseneg[/nation]
-     ~ [B]Minister of Regional Media:[/B] [nation=short]Enduvas[/nation]
+     ~ [B]W.A. Delegate:[/B] [nation=short]Russcotia[/nation] [B][color=blue]UPP[/color][/B]
+     ~ [B]Vice-Delegate:[/B] [nation=short]Dukats[/nation] [B][color=darkgray]I[/color][/B]
+     ~ [B]Minister of the Interior:[/B] [nation=short]Kierland[/nation] [B][color=darkgray]I[/color][/B]
+     ~ [B]Minister of the Exterior:[/B] [nation=short]Brahmins[/nation] [B][color=darkgray]I[/color][/B]
+     ~ [B]Minister of Defense:[/B] [nation=short]Siseneg[/nation] [B][color=darkgray]I[/color][/B]
+     ~ [B]Minister of Regional Media:[/B] [nation=short]Enduvas[/nation] [B][color=darkgray]I[/color][/B]
 [B]
 [color=red]The New Okatama Old Guard:[/color][/B]
-
      ~ [nation=short]Dukats[/nation]
      ~ [nation=short]Siseneg[/nation]
      ~ [nation=short]Enduvas[/nation]
      ~ [nation=short]Russcotia[/nation]
      ~ [nation=short]Sed26[/nation]
+
+[B][color=purple]Political Parties:[/color][/B]
+     ~ [B][color=red]CP[/color][/B] = [color=red]The Communitarian Party[/color]
+     ~ [B][color=blue]UPP[/color][/B] = [color=blue]The Utopian Peace Party[/color]
+     ~ [B][color=darkgray]I[/color][/B] = [color=darkgray]Independant[/color] (This is default unless you join a party)

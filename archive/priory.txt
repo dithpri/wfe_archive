@@ -4,8 +4,8 @@ WA Delegate will be non-executive until the new Prime Minister is elected.
 
 [b] PRIORY REGIONAL PARLIAMENT [/b]
 Prime Minister (WA Delegate &amp;amp; head of PRP): ELECTIONS
-Chancellor (head of regional internal affairs): ELECTIONS
-Minister of Defense (Commander of the Priory Armed Forces): ELECTIONS
+Minister of the Interior (head of regional internal affairs): ELECTIONS
+Minister of Defense (Commander of the Priory Armed Forces): [nation]Fonzville[/nation]
 Minister of Foreign Affairs (head diplomat of Priory): ELECTIONS
 [b]DEFCON[/b]: 4
 [b]CIVCON[/b]: 4

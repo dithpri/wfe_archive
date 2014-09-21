@@ -7,7 +7,7 @@
 [u][b]The Cabinet of the International Liberation Front[/b][/u]
 Secretary of Domestic Intelligence: [nation]Xandovia[/nation]
 Secretary of Foreign Intelligence: [nation]Felixi[/nation]
-Secretary of Offensive Military Maneuvers: [nation]Slydavia[/nation]
+Secretary of Offensive Military Maneuvers: [i][color=gray]Vacant[/color][/i]
 Secretary of Defensive Military Maneuvers: [i][color=gray]Vacant[/color][/i]
 Secretary of Foreign Affairs: [i][color=gray]Vacant[/color][/i]
 Secretary of Press: [i][color=gray]Vacant[/color][/i]

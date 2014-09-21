@@ -12,11 +12,11 @@
 
 [b] Vice-Chief of Ministry: [/b] [nation=short]YangYu hi[/nation]
 
-[b] Department of Defense: [/b] [i]Purge Voting.[/i]
+[b] Department of Defense: [/b] [nation=short]Militaristic Utopian States of Xin Lou[/nation]
 
-[b] Department of Public Relations: [/b] [nation=short]Andersen Tribal States[/nation]
+[b] Department of Public Relations: [/b] [i]Purge voting.[/i]
 
-[b] Department of Justice: [/b][nation=short]Militaristic Utopian States of Xin Lou[/nation]
+[b] Department of Justice: [/b][i] Purge Voting.[/i]
 
 [b] Department of Foreign Relations: [/b] [i]Happening Now.[/i]
 

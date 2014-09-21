@@ -1,4 +1,5 @@
-We are the Commonwealth of the Mighty Atmoran Empire. We swear our loyalty to our Emperor. From Kaitheth to The Atoran Isles, we shall not fall again.
+&amp;quot;We are the Commonwealth of the Mighty Atmoran Empire. We swear our loyalty to our Emperor. From Kaitheth to The Atoran Isles, we shall not fall again.&amp;quot;
+This is the Second Atmoran Commonwealth. Ensure peace in the universe and protect those who can&amp;#39;t protect themselves 
 
 Emperor:[nation]Empire of Atmora[/nation]
 
@@ -9,3 +10,5 @@ Deputy Prime Minister:[nation]Etoren[/nation]
 Minister of Defense:[nation]Sirta[/nation]
  
 Minister of Foreign Affairs:[nation]The Atoran Isle[/nation]
+
+Minister of State:[nation]Arcadian Commonwealth[/nation]
