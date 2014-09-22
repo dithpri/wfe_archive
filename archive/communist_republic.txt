@@ -1,13 +1,15 @@
-[u]Welcome comrades, to the [region]Communist Republic[/region]![/u]
+[B][color=green]Welcome comrades, to the Communist Republic![/color][/B]
 
-We accept all nations and promote equality for all nations.
+[B][i][color=green]We accept all nations of the left and right and promote equality for all nations.[/color][/i][/B]
 
-Government:
-Delegate: [nation]Lucratoria[/nation]
-Director of Foreign Affairs: [nation]Birkutrus[/nation]
-Director of Internal Affairs:
+[color=blue][B]Government:[/B][/color]
+[color=blue][B]Delegate:[/B][/color] [nation]Lucratoria[/nation]
+[color=blue][B]Director of Foreign Affairs:[/B][/color] [nation]Birkutrus[/nation]
+[color=blue][B]Director of Internal Affairs:[/B][/color]
 
 
-[B]News:[/B] The Constitution is Ratified.
+[B]News:[/B] REATO Relations... undecided. Also, any nation who wants to be the Director of Internal Affairs, contact [nation]Jewphobia[/nation].
 
-The Region is now password protected. For now there will be no more invasions.
+[color=purple][B]Next Elections:[/B] October 20th, 2014
+
+[B]Founded:[/B] September 20th, 2014[/color]

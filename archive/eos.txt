@@ -14,13 +14,13 @@
 
 [b] Department of Defense: [/b] [nation=short]Militaristic Utopian States of Xin Lou[/nation]
 
-[b] Department of Public Relations: [/b] [i]Purge voting.[/i]
+[b] Department of Public Relations: [/b] [nation=short]Kingston-Atlantis[/nation]
 
 [b] Department of Justice: [/b][i] Purge Voting.[/i]
 
 [b] Department of Foreign Relations: [/b] [i]Happening Now.[/i]
 
-[b] Department of State: [/b] [nation=short]Kingston-Atlantis[/nation]
+[b] Department of State: [/b] [i]Purge voting.[/i]
 
 [b] Department of Immigration: [/b] [i]Happening Now.[/i]
 

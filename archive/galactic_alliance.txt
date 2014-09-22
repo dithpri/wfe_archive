@@ -10,7 +10,7 @@ This region is not a democracy but it is safe from invaders.
 [color=red]POSITIONS[/color]
 Dictator : [nation]Green Dragons[/nation]
 Co-Dictator : [nation]DEATHDEATHDEATH[/nation]
-Minister of Foreign Affairs : OPEN
+Minister of Foreign Affairs : [nation]FROZENFROSTBLADES[/nation]
 Minister of Law and Order : [nation]Red Dovah Dragons[/nation]
 Minister of Armed Forces : [nation]Dark dragons of death[/nation]
 
