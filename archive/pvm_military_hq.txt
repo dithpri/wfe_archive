@@ -1,10 +1,13 @@
-[b][color=blue]
-XXX---XXX---XXX---XXX---XXX---XXX---XXX---XXX---XXX---XXX
-[/color][color=purple]                                                                 X
-X ONLY FOR [region]The Protectorate of Versus Militia[/region].
-[/color][color=darkorange]                                                         X
-XXX---XXX---XXX---XXX---XXX---XXX---XXX---XXX---XXX---XXX
-[/color][color=purple]                                                                 X
-X DISCUSSING MILITARY MATTERS.
-[/color][color=red]                                                                      X
-XXX---XXX---XXX---XXX---XXX---XXX---XXX---XXX---XXX---XXX[/color][/b]
+[b][color=purple]Head of Invasion: n/a
+
+If you want to become Head of Invasion:
+- Resident of [region]The Protectorate of Versus Militia[/region] or [region]Archipelagos of Kiribati[/region]
+- Telegram [nation=noflag]Versus Militia[/nation][/color]
+
+[color=red]Wars:
+- Versutian Civil War[/color]
+
+[color=darkorange]PVM Land:
+[region]The Protectorate of Versus Militia[/region] - Main Land
+[region]Archipelagos of Kiribati[/region] - Paradise
+[region]PVM Military HQ[/region] - Military Camp[/color][/b]

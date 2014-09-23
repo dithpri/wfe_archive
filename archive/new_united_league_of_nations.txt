@@ -1,11 +1,12 @@
+
 [B][color=teal]Welcome to the [region]New United League of Nations[/region][/color][/B]
 
 This is the new home of [region]The United League of Nations[/region] region!
 
-[color=red]Please join the WA and endorse Delegate/President:[/color]
+[color=red]Please join the WA and endorse Delegate/President: [nation=short]Correctional Facility[/nation][/color]
 
-[B][u]Government[/u][/B]
-[B][color=blue]President:
+[B][u]Government[/u][/B] - [B]Interim Government![/B]
+[B][color=blue]President: [nation=short]Correctional Facility[/nation]
 Vice-President:
 Speaker of the Assembly: 
 Minister of Interregional Relations:
@@ -15,4 +16,4 @@ Chairlady of the Recruitment Committee:[/color][/B]
 
 [B][url=http://w11.zetaboards.com/TULON/index/]Regional forum[/url] l  [url=http://forum.nationstates.net/viewtopic.php?f=15&amp;amp;t=243404]Check out NS++[/url][/B]
 
-[B]Endorsement Cap:[/B]
+[B]Endorsement Cap: [color=red]1[/color][/B]

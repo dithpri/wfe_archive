@@ -7,12 +7,12 @@
 Ancient Knowledge - [nation]Tradeus[/nation]
 Biotic Science - 
 Defence of the Empire - 
-Expansion and Diplomacy - 
-Imperial Intelligence
+Expansion and Diplomacy - [nation]The Sith Race[/nation]
+Imperial Intelligence -
 Laws and Justice - 
 Military Offence - 
-Military Strategy -
+Military Strategy - [nation]Pacificus[/nation]
 Mysteries - 
-Production and Logistics - [nation]Pacificus[/nation]
-Sith Philosophy - 
+Production and Logistics - 
+Sith Philosophy - [nation]Medriaas[/nation]
 Technology - [nation]Kyp[/nation]

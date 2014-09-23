@@ -1,10 +1,10 @@
-[b]Bienvenidos a Orientopia -- Bem-vindo &agrave; Orientopia -- Bienvenue &agrave; l&amp;#39;Orientopie[/b]
+[b]&iexcl;Bienvenidos a Orientopia![/b]
 
 La Orientopia es una uni&oacute;n de rep&uacute;blicas comunistas. Tambi&eacute;n es un bloque de libre comercio y una uni&oacute;n aduanera, donde las personas y las mercanc&iacute;as puedan circular libremente entre los pa&iacute;ses miembros.
 
 Idiomas oficiales: espa&ntilde;ol, ruso, portugu&eacute;s, franc&eacute;s
 
-Miembros: [nation]Nueva Uruguay[/nation], [nation]New Brasilia[/nation], [nation]French Cannabis[/nation], [nation]Isla Gazebo[/nation], [nation]Sao Marino[/nation]
+Miembros: [nation=short]Nueva Uruguay[/nation], [nation=short]New Brasilia[/nation], [nation=short]French Cannabis[/nation], [nation=short]Isla Gazebo[/nation], [nation=short]Sao Marino[/nation]
 
 Pa&iacute;ses observadores: Brasil, China, Cuba, Corea del Norte, Finlandia, Rusia, Suecia
 

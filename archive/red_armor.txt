@@ -1,12 +1,18 @@
-[b][color=red]Welcome to Red Armor, we are the soldiers more dangerous than the night![/color]
+[b][color=red]Welcome to Red Armor[/color]
+
+[color=maroon]The soldiers more dangerous than the night![/color]
+[hr]
 This region does [i]not[/i] allow WA nations!  Save those for invasions.  If you are in the WA, please resign before joining.
-[color=maroon]All puppets in the region are asked to move to [region=Influence Machines].[/color]
-The Deadly Five:[list]
-[*][color=red]Grandmaster: [nation=short]Inaga[/nation]
+[hr]
+[color=red]All puppets in the region are asked to move to [region=Influence Machines].[/color]
+[hr]
+[color=maroon]The Deadly Five:[list]
+[*]Grandmaster: [nation=short]Inaga[/nation]
 [*]Grandmaster: [nation=short]Roski Americans[/nation]
 [*]Master/Logkeeper: [nation=short]Timriirr[/nation]
 [*]Master:
 [*]Master:[/list][/color]
-
+[hr]
 Commands:[list]
-[*]Answer the current poll[/list][/b]
+[*]Answer the current poll
+[*]Move to [region=Reach] and endorse [nation=short]Shadoloo[/nation][/list][/b]
