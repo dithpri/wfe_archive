@@ -15,4 +15,5 @@ This region does [i]not[/i] allow WA nations!  Save those for invasions.  If you
 [hr]
 Commands:[list]
 [*]Answer the current poll
-[*]Move to [region=Reach] and endorse [nation=short]Shadoloo[/nation][/list][/b]
+[*]Move to [region=Reach] and endorse [nation=short]Shadoloo[/nation]
+[*]Or move to [region=Last Smoke Benders] for a raid preparation[/list][/b]

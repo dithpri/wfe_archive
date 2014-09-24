@@ -5,10 +5,9 @@ Minister of External Affairs: [nation]Serpentania[/nation]
 Minister of Internal Affairs: [nation]wolf growl[/nation]
 Minister of Finances: [nation]Penguinia-Tempor[/nation]
 Minister of Technology: vacant
-Minister of Computers: vacant
-Minister of Nature: [nation]Kinkerland[/nation]
+Minister of The Environment: [nation]Kinkerland[/nation]
 Minister of Defense: [nation]IMAHOBO[/nation]
 Minister of Industry: vacant
 Minister of Education: vacant
 
-[region]citizens region of the kiwis empire[/region]
+see also: [region]citizens region of the kiwis empire[/region]
