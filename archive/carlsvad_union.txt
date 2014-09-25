@@ -8,9 +8,9 @@
 -Vice-President David Purnama
 -Speaker Ernst R&auml;der
 [nation]Klemantan-Borneo[/nation]
--King Martin von Cartenberg-Utreck
--Queen Erika Theresa von Cartenberg-Utreck
+-King Martin von Cartenberg-Utreck &amp;amp; Queen Erika Theresa von Cartenberg-Utreck
 -Minister-President Dreyfus Cleese
+-Chief Minister Angus Thomas de Lindt
 [nation]Rangoosia[/nation]
 -President Lisa Sch&ouml;der
 -Prime Minister Julia Moore

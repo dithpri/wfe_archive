@@ -11,7 +11,7 @@
 [b]Minister for Foreign Affairs:[/b] [nation=shortname]Faikliren[/nation]
 [hr][b]Next Election Period: 25 October 2014[/b]
 
-[b]Security Category: [color=green]SC1. ordinary[/color][/b] 
+[b]Security Category: [color=green]SC2. Heightened Security[/color][/b] 
 [hr][b][u]JUDICIARY[/u][/b]
 
 [b]Supreme Judge[/b]: [nation=shortname]Allied Engineers[/nation]

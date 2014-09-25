@@ -5,7 +5,6 @@
 [url=http://www.nationstates.net/nation=eos_information/detail=factbook/id=171635][b]-About Eos-[/b][/url] [b]((Heavy RP and defender region))[/b]
 [b][url=http://www.nationstates.net/nation=eos_information/detail=factbook/id=180283]-Eos Map-[/url][/b]
 [hr]
-
 [b]====[color=red]Regional Parliament of Eos[/color]====[/b]
 
 [b] Chief of Ministry [/b]:[nation=short]KungYo[/nation]
@@ -16,7 +15,7 @@
 
 [b] Department of Public Relations: [/b] [nation=short]Kingston-Atlantis[/nation]
 
-[b] Department of Justice: [/b][i] Purge Voting.[/i]
+[b] Department of Justice: [/b] [nation=short]Asyir[/nation]
 
 [b] Department of Foreign Relations: [/b] [i]Happening Now.[/i]
 
@@ -24,6 +23,7 @@
 
 [b] Department of Immigration: [/b] [i]Happening Now.[/i]
 
+[b] Director of Intelligence: [/b] [i]Happening Now.[/i]
 [hr]
 
 [color=purple][b] OOC INFO:
@@ -32,3 +32,4 @@
 
 [color=blue] Our Legion Stands Strong::[region]The Eos Imperial Legion[/region]::Enlist Today![/b][/color]
 [hr]
+[b][color=red]Happy Birthday Eos![/color][/b]

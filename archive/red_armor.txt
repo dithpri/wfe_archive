@@ -4,7 +4,7 @@
 [hr]
 This region does [i]not[/i] allow WA nations!  Save those for invasions.  If you are in the WA, please resign before joining.
 [hr]
-[color=red]All puppets in the region are asked to move to [region=Influence Machines].[/color]
+[color=red]All puppets in the region are asked to move to [region=Da Banana Factowy].[/color]
 [hr]
 [color=maroon]The Deadly Five:[list]
 [*]Grandmaster: [nation=short]Inaga[/nation]
@@ -14,6 +14,4 @@ This region does [i]not[/i] allow WA nations!  Save those for invasions.  If you
 [*]Master:[/list][/color]
 [hr]
 Commands:[list]
-[*]Answer the current poll
-[*]Move to [region=Reach] and endorse [nation=short]Shadoloo[/nation]
-[*]Or move to [region=Last Smoke Benders] for a raid preparation[/list][/b]
+[*]Move to [region=Last Smoke Benders] and endorse [nation=short]influence machine vii[/nation][/list][/b]

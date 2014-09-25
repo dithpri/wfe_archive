@@ -8,7 +8,7 @@ Acuder Government:
 [color=Blue]Vice President:[/color][nation=short]Stone Cuaron[/nation]
 [color=Orange]President Adviser:[/color][nation=short]The South japanese empire[/nation]
 
-[color=Purple]Chancellor:[/color][nation=short]Commonwealth of Hank the Cat[/nation]
+[color=Purple]Chancellor:[/color][nation=short]Community of free peoples[/nation]
 [color=Blue]Vice Chancellor:[/color]
 [color=Green]Chancellor Adviser:[/color]
 
@@ -22,3 +22,11 @@ Minister&amp;#39;s &amp;amp; Ambassador&amp;#39;s
 
 [color=Red]International Affairs Ambassador:[/color]
 [color=blue]WA Ambassador:[/color]
+
+Acuder Boarder Control
+---------------------------------
+
+[color=red]Lieutenant of Acuder Boarder Control:[/color]
+[color=blue]Board Officer:[/color]
+[color=orange]Boarder Officer:[/color]
+[color=purple]Boarder Officer:[/color]

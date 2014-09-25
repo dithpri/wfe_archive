@@ -4,7 +4,7 @@
 [nation]The Estovakian Union[/nation], [nation]Soviet Socialist Republic[/nation], [nation]Kedor[/nation], [nation]Bandoleros[/nation]
 
 [i][B]HASsian Concord (HASC)[/B][/i]
-[nation]Stjerne[/nation], [nation]Novogorske[/nation], [nation]Tharkad[/nation], [nation]Philanthropic Deseret[/nation], [nation]Terradore[/nation], [nation]Kingdom of Alvia[/nation]
+[nation]Novogorske[/nation], [nation]Tharkad[/nation], [nation]Philanthropic Deseret[/nation]
 
 [i][B]Orophine Neutrality Pact (ONP)[/B][/i]
 [nation]Sar-Fenway[/nation], [nation]Grustan[/nation], [nation]Englore[/nation], [nation]Mondoctali[/nation], [nation]New Greyden[/nation]
