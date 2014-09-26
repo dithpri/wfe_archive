@@ -5,7 +5,7 @@ This is Medieval Europe.[/color]
 [color=red]Europe c.476 AD - 1500 AD[/color]
 
 [b]High King and Founder[/b]: [nation]Macbeth[/nation], Sovereign of the Most Ancient and Most Noble Order of the Thistle
-Royal Capital: Dunsinane
+[b]Royal Capital[/b]: Dunsinane
 
 [color=blue]Chief Justiciar[/color]: Vacant
 [color=purple]Lord High Constable[/color]: Vacant
@@ -14,4 +14,4 @@ Royal Capital: Dunsinane
 Royal Cartographer: [nation]Alto Mantovano[/nation], KT (Knight of the Order of the Thistle)
 
 
-Cartography: [b]http://i.imgur.com/HP0phWb.png?1[/b]
+Cartography: http://i.imgur.com/zFptaqw.png?1

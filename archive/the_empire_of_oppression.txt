@@ -13,7 +13,7 @@
 [nation]Zacharandex[/nation] =[color=red] emperial[/color] [color=red]general[/color]
 [vacant]= [color=green]minister[/color] [color=green]of[/color] [color=green]diplomatic[/color] [color=green]affairs[/color]
 [vacant]= [color=yellow]new[/color]-[color=yellow]commer&amp;#39;s[/color] [color=yellow]aid[/color] [color=yellow]and[/color] [color=yellow]guide[/color]
-[vacant]= keeper of the peace
+[nation]communism_is_great_land[/nation] = keeper of the peace
 
 STILL MORE TO COME :D
 

@@ -11,8 +11,9 @@
 [B][u]Executive Branch[/u][/B]
 [b][url=http://esamirforum.forumotion.net/t102-office-of-the-president]President:[/url][/b] [nation=short]New-Zealand[/nation]
 [b][url=http://esamirforum.forumotion.net/t101-office-of-the-chancellor]Chancellor:[/url][/b] [nation=short]Talanzaar[/nation]
-[b]Minister of Foreign Affairs:[/b] [nation=short]Planita[/nation]
 [b]Minister of Internal Affairs:[/b] [nation=short]Kaevi[/nation]
+[b]Minister of Recruitment:[/b] [nation=short]Europe and Asia[/nation]
+[b]Minister of Foreign Affairs:[/b] [nation=short]Planita[/nation]
 
 [B][u][url=http://esamirforum.forumotion.net/f3-esamir-court-of-justice]Court of Justice[/url][/u][/B]
 [B]Chief Justice:[/B] [nation=shortname]Europe and Asia[/nation]

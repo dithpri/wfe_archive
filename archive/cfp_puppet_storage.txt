@@ -1,1 +1,1 @@
-Puppets storage for cfp
+Puppet storage for the cfp

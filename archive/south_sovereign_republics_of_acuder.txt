@@ -12,4 +12,4 @@
 [Color=Pink]Prime Minister:Vacancy[/Color]
 [Color=Yellow]Vice Prime Minister:Vacancy[/Color]
 
-[Color=Red]Minister of War:[/Color][Nation]Tyrelias[/Nation]
+[Color=Red]Minister of War: Vacant[/Color]

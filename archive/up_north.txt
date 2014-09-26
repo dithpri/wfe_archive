@@ -1,1 +1,15 @@
-Hello
+This is our government.
+
+Chancellor:
+[nation]Maddenhat[/nation]
+
+Internal Affairs:
+Open Position
+
+Foreign Affairs:
+[nation]Happylandia[/nation]
+
+Immigration Officer:
+Open Position
+
+If you want a position in our government, contact the Chancellor.

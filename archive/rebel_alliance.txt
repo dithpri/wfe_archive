@@ -1,14 +1,14 @@
-This is the Rebel Alliance, a region that was recently founded. Here are the admin(s):
+This is the Rebel Alliance, a region that was recently founded. Here are the leaders of the government:
 
-[color=gray]Leader of the Imperial Party: [nation]Swedhen[/nation][/color]
-[color=gray]Imperial Party Senate Delegates:
- - [nation]Kothlis[/nation]
+[color=gray]Leader of the Imperials: [nation]Kothlis[/nation][/color]
+[color=gray]Imperial Senate Delegates:
+ - [nation]Swedhen[/nation]
+ - [nation]UrsaWithBears[/nation]
  - OPEN
  - OPEN
  - OPEN
- - OPEN
-[/color][color=red]Leader of the Rebel Party: [nation]Yavin 3[/nation][/color]
-[color=red]Rebel Party Delegates:
+[/color][color=red]Leader of the Rebels: [nation]Yavin 3[/nation][/color]
+[color=red]Rebel Delegates:
  - OPEN
  - OPEN
  - OPEN

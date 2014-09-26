@@ -1,11 +1,3 @@
 Head(s) of State: [nation]Ann Arbour[/nation]; [nation]Garnox[/nation]
 
-Head of Nuclear Arms: [nation]Betz 2[/nation]
-
-Vice HoS: [nation]Nation of Betz[/nation]
-
-Secretary of Defense: [nation]Alexandria Isles[/nation]
-
-Secretary of Health: [nation]Andreas Fault[/nation]
-
-Regional Capital: Berlin, Germany, [nation]Ann Arbour[/nation]
+Regional Capital: Betz, Germany, [nation]Ann Arbour[/nation]
