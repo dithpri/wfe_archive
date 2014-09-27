@@ -1,5 +1,5 @@
-[b]Huzzah! Huzzah! Huzzah![/b]  [region=The Black Riders] could not stand the might of [region=Britantion] and have been [b]expelled[/b] and [b]banned[/b]!
-
-[hr][b]Into the battle rode the following Brits:[/b]
-[nation]Maelion[/nation]
-[nation]Firolla[/nation][hr]
+[b][color=#003b6f]Huzzah! Huzzah! Huzzah! We have again defended ourselves from the Fools of the Black Riders![/b]
+[hr]Into the battle rode the following riders:[/color]
+[nation=short]Maelion[/nation]
+[nation=short]Firolla[/nation]
+[hr]We shall continue to prevail!

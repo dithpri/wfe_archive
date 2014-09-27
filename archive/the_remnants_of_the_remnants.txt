@@ -1,6 +1,6 @@
 [b]The swan song, [region]The Remnants of The Remnants[/region] was born as a refuge for the defenceless and the helpless.  The inhabitants of these lands are bonded out of a common interest: to bring light where there is darkness, and to restore the balance...
 
-[color=red][u]DE[/u][/color][color=#FE642E][u]AF[/u][/color][color=orange][u]CON:[/u][/color] [color=gold]5[/color] [color=yellow]4[/color] [color=#9AFE2E]3[/color] [color=#2E9AFE]2[/color] [color=indigo]1[/color] [color=purple][u]0[/u][/color]
+[color=red][u]DE[/u][/color][color=#FE642E][u]AF[/u][/color][color=orange][u]CON:[/u][/color] [color=gold]5[/color] [color=yellow]4[/color] [color=#9AFE2E][u]3[/u][/color] [color=#2E9AFE]2[/color] [color=indigo]1[/color] [color=purple]0[/color] [color=violet]DOOM[/color]
 
 [u]CITIZENS:[/u]
 Dwarves
@@ -8,6 +8,7 @@ Jaguars
 Humans
 Night Furies
 Penguins
+Mandalorians
 
 [u]NEWS FLASH:[/u]
 

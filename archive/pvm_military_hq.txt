@@ -1,11 +1,10 @@
-[b][color=purple]Head of Invasion: n/a
-
-If you want to become Head of Invasion:
+[b][color=purple]Head of Invasion: [nation]Versus Militia[/nation]
+Invasion Adviser: [nation]Dogs of War[/nation]
+Invasion Supervisor: [nation]H20myass[/nation]
+[/color][color=red]
+If you want to become Invasioneer:
 - Resident of [region]The Protectorate of Versus Militia[/region] or [region]Archipelagos of Kiribati[/region]
 - Telegram [nation=noflag]Versus Militia[/nation][/color]
-
-[color=red]Wars:
-- Versutian Civil War[/color]
 
 [color=darkorange]PVM Land:
 [region]The Protectorate of Versus Militia[/region] - Main Land

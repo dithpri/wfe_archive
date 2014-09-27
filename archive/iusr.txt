@@ -12,13 +12,18 @@
 [b]Socialist Republics[/b]
 
 [nation]Biel-Tan[/nation]
+[nation]Zeledia[/nation]
 [hr]
 
 [b]Workers&amp;#39; States[/b]
 
 [nation]Belokrasniya[/nation]
-[nation]Zeledia[/nation]
 [nation]Zakavkazye[/nation]
+[hr]
+
+[b]Allied Nations[/b]
+
+[nation]Titovka[/nation]
 [hr]
 
 Zemlyan Nation Comparisons - [url=/page=compare/nations=Belokrasniya+Biel-Tan+Czervenika+Eitusian+Estinia+Great_Slatain+Hinsa+Krasniya+Lebyahnon+Maronia]A to M[/url] - [url=/page=compare/nations=New_Gentia+New_Slatain+Ordorinia+Padaliya+Quamunsia+Titovka+Trinland+Vassau+Yuzan+Zakavkazye+Zeledia]N to Z[/url] - [url=/page=compare/nations=Belokrasniya+Biel-Tan+Czervenika+Krasniya+Zakavkazye+Zeledia]IUSR[/url]

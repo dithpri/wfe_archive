@@ -1,9 +1,9 @@
-[b][color=#000061]Huzzah! Huzzah! Huzzah! This region proved no match for a charge by [region=The Black Riders]![/color]
+[b][color=darkorange]PVM Land:
+[region]The Protectorate of Versus Militia[/region] - Main land
+[region]Archipelagos of Kiribati[/region] - Paradise
+[region]PVM Military HQ[/region] - Military Camp
 
-[color=black]Occupied by [url=http://www.youtube.com/watch?v=qB1kp9adYYE]The Black Riders[/url]! Our lair can be found [/color] [url=http://s4.zetaboards.com/The_Black_Riders/index/]here[/url]
-
-[color=#000061]Into the battle rode the following riders:[/color]
-[nation=short]Aurum Rider[/nation]
-[nation=Short]Coraxion[/nation]
-[nation=short]Ridus[/nation]
-[nation=short]Vandoosa[/nation][/b]
+The following riders rode into battle:
+[nation]Versus Militia[/nation]
+[nation]Himbernia[/nation]
+[nation]Kartine[/nation][/color][/b]

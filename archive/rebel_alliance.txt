@@ -7,11 +7,11 @@ This is the Rebel Alliance, a region that was recently founded. Here are the lea
  - OPEN
  - OPEN
  - OPEN
-[/color][color=red]Leader of the Rebels: [nation]Yavin 3[/nation][/color]
+[/color][color=red]Leader of the Rebels: [nation]Alicandre[/nation][/color]
 [color=red]Rebel Delegates:
- - OPEN
- - OPEN
- - OPEN
+ - [nation]Yavin 3[/nation]
+ - [nation]North Thuggington[/nation]
+ - [nation]Grey Lotuses[/nation]
 [/color]
 
 We would love for you to come join the Rebel Alliance. I hope to make this a great experience for any new members.

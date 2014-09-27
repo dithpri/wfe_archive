@@ -13,7 +13,7 @@
 
 Potentate: 
 
-Imperial Vizier: 
+Imperial Vizier:[nation=short]Zanzibarya[/nation]
 
 Imperator:
 
