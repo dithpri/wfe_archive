@@ -1,10 +1,13 @@
-[b][color=red]Virrin laiket![/color] This region has been liberated by [region]The One Army[/region] Treaty Organization and the Iron Front. Join our noble Army!
-
-Liberators:
-
--[nation=short]Wild Horde[/nation] from [region]Union of Confederate Regions[/region]
--[nation=short]Isla Teresa[/nation] from [region]Union of Confederate Regions[/region]
-
-Special thanks to our [color=red]Iron Front[/color] allies:
-
--[nation=short]Madesu[/nation] from [region]League of Democracy[/region][/b]
+[b][color=darkorange]
+PVM Land:
+[region]The Protectorate of Versus Militia[/region] - Main Land
+[region]Archipelagos of Kiribati[/region] - Paradise
+[region]PVM Military HQ[/region] - Military Camp
+[/color]
+[color=#0080BF]Gentlemen, this region has been plundered, pillaged and set ablaze by the proud: [/color]
+[color=#00FFFF]Pirates of: [nation]Versus Militia[/nation][/color]
+[color=#00FFFF]Pirates of: [nation]Dogs of War[/nation][/color]
+[color=#00FFFF]Pirates of: [nation]H20myass[/nation][/color]
+[color=#00FFFF]Pirates of: [nation]Defending bears[/nation][/color]
+[color=#00FFFF]Pirates of: [nation]Jerusalius[/nation][/color]
+[/b]

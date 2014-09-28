@@ -13,9 +13,9 @@
 
 Potentate: 
 
-Imperial Vizier:[nation=short]Zanzibarya[/nation]
+Imperial Vizier: [nation=short]Zanzibarya[/nation]
 
-Imperator:
+Imperator: [nation=short]-S k y r i m-[/nation]
 
 Adamantine Council:[/b]
 

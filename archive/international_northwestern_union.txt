@@ -7,12 +7,12 @@ Please endorse our WAD, [nation=short]El Fiji Grande[/nation]
 [b]Director of Recruitment: [nation=short]GROSS Independency[/nation][/b]
 [b]Chancellor: [nation=short]Xin Prussia[/nation][/b]
 [b]Justices:
- [nation=short]Albiorix[/nation] (pending approval)
- [nation=short]Luso[/nation] (pending approval)
- [nation=short]Astrosis[/nation] (pending approval)[/b]
-[b]Head of NFA: [nation=short]Othelos[/nation][/b]
+ [nation=short]Albiorix[/nation]
+ [nation=short]Luso[/nation]
+ Vacant[/b]
+[b]Head of NFA: [nation=short]Topsail Empire[/nation][/b]
 [b]NFA:
- [nation=short]Topsail Empire[/nation]
+ [nation=short]Othelos[/nation]
  [nation=short]Hockesin[/nation]
  [nation=short]Estradia[/nation] 
 [nation=short]Atlantica[/nation][/b]

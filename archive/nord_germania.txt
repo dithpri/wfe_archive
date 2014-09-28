@@ -1,5 +1,14 @@
-De Nord-Germania isd en insal mis 5 landen. Alle spraken en germanisk zal.
-De Noord-Germani&euml; is een eiland met 5 landen. Alle van hen spreken een Germaanse taal.
-Die Nord Germanien ist eine insel mit 5 nationen. Alle von ihnen sprechen eine germanische sprache.
-De Noort-Germaani isd eem ilaam mis 5 laandem. Aale spraagem eem germaanisg spraag.
-North Germania is an island with 5 nations. All of them speak a Germanic language.
+[color=#00afff][b]Zfelkom be Nord-Germania[/b][/color]
+
+[b]Landen:[/b] 
+[nation]Numoland[/nation]
+[nation]Kroppe Shtomp[/nation]
+[nation]Sankt Jorgen[/nation]
+[nation]Chuppa Gluppa[/nation]
+[nation]Gluppa Chuppa[/nation].
+
+[b]Zalen:[/b] 
+Numolandzal, Hollandzal, Dutslandzal, Danemarkzal, un Skvedlandzal.
+
+[b]Devise:[/b] 
+[i]U bisd ald, u bisd vre[/i]

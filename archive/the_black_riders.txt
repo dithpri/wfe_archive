@@ -14,10 +14,10 @@
 [color=black]Marshal: [nation=short]Feuer Ritter[/nation][/color]
 [color=#8B0000]Marshal: [nation=short]Bob Moran[/nation][/color]
 
-[hr][u][color=black]Order of the Day[/color][/u]
+[hr][u][color=#8B0000]Order of the Day[/color][/u]
 
-[color=#8B0000]Sign-in/register to the forum![/color]
+[color=black]Sign-in to the forum and read the dispatches [/color][/b]
 
-[/b]
+
 
 

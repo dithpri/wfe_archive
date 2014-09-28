@@ -6,13 +6,13 @@
 [b]Dark Council:[/b]
 Ancient Knowledge - [nation]Tradeus[/nation]
 Biotic Science - 
-Defence of the Empire - 
+Defence of the Empire - [nation]Beastriders[/nation]
 Expansion and Diplomacy - [nation]The Sith Race[/nation]
-Imperial Intelligence -
+Imperial Intelligence - [nation]Etonnia[/nation]
 Laws and Justice - [nation]The True Sith Lords[/nation]
 Military Offence - 
 Military Strategy - [nation]Pacificus[/nation]
-Mysteries - 
+Mysteries - [nation]Bazinland[/nation]
 Production and Logistics - [nation]Zioist[/nation]
 Sith Philosophy - [nation]Medriaas[/nation]
 Technology - [nation]Kyp[/nation]
