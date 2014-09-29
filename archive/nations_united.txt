@@ -1,1 +1,16 @@
--This Region is for Puppet Storage Only-
+[B]Welcome to Nations United[/B]
+
+[color=blue]: Regional Government :[/color]
+
+[color=purple][B]Monarch:[/B][/color] [nation]Qubec[/nation]
+[B]Prime Minister:[/B] TBE
+[B]Deputy Prime Minister:[/B] TBE
+[B]Minister of Regional Security:[/B] TBE
+[B]Minister of Internal Affairs:[/B] TBE
+[hr]
+
+[color=Purple]: Regional Security :[/color]
+
+[B]Boarder Status:[/B] [color=green]OPEN[/color]
+[B]Alert Level:[/B][color=green] Low[/color]
+[B]Regional Emergency Alert:[/B] Inactive

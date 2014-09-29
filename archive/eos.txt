@@ -17,7 +17,7 @@
 
 [b] Department of Justice: [/b] [nation=short]Asyir[/nation]
 
-[b] Department of Foreign Relations: [/b] [i]Happening Now.[/i]
+[b] Department of Foreign Relations:[/b] [nation=short]Militcom[/nation]
 
 [b] Department of State: [/b] [i]Purge voting.[/i]
 

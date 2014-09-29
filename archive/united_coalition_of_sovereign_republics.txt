@@ -1,4 +1,4 @@
-[b]Threat Level:[/b] [color=blue][b]Level 5[/b][/color]
+[b]Threat Level:[/b] [color=red][b]5[/b][/color]
 [hr]
 [I]&amp;quot;Sovereignty over submission.&amp;quot;[/I]
 [b]-Nagol Belhakes, first Tsar of Davincia[/b]
@@ -11,9 +11,8 @@ Military Force: [nation]Decenada[/nation]
 Geographer: [nation]Nasili[/nation]
 Regional Affairs Manager: [nation]Northern Davincia[/nation]
 
-[color=teal][b]Regional Status:[/b][/color] [color=red][b]WA Delegate Elections![/b][/color]
+[color=teal][b]Regional Status:[/b][/color] [color=red][b]State of Emergency![/b][/color]
 
-[color=orange][b]Civilian Nations, look to the Central Administration[/b][/color]
 [hr]
 [url=http://s27.postimg.org/ibi4j2e2q/Newmaps.jpg] Orbis Map (Constant)[/url]
 [hr]

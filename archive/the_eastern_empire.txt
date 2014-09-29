@@ -8,5 +8,5 @@ Make yourself at home in the Eastern Empire! Become a Praetor today, recruit and
 [u]Imperator:[/u] [nation]Opiachus[/nation]
 [u]Consul:[/u] Appointed
 [u]Consul:[/u] Appointed
-[u]Praetors:[/u] 6 positions open
+[u]Praetors:[/u] [nation=short+noflag]The Greco Emirates[/nation], 5 positions open
 [color=blue]All citizens of this region receive the honorary title of &amp;quot;Senator&amp;quot; and may vote in regional elections.[/color]
