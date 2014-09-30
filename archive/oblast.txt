@@ -1,8 +1,8 @@
 Territ&oacute;rio da Oblast da Geopol&iacute;tica do facebook
 
 Conselho de seguran&ccedil;a:
-Posto 1 - Quadro vago;
-Posto 2 - Quadro vago;
-Posto 3 - Quadro vago;
-Posto 4 - Quadro vago;
-Posto 5 - Quadro vago
+Posto 1 - [region]Polesania[/region];
+Posto 2 - [region]Imperio de Mayo[/region];
+Posto 3 - [region]Lorien[/region];
+Posto 4 - [region]Triangulo[/region];
+Posto 5 - Quadro SUSPENSO.

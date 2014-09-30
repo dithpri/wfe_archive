@@ -1,6 +1,13 @@
-[b][color=red]Virrin laiket![/color] This region has been liberated by [region]The One Army[/region] Treaty Organization. Join our noble Army!
-
-Liberators:
-
-[nation=short]Wild Horde[/nation] from [region]Union of Confederate Regions[/region]
-[nation=short]New Kherson[/nation] from [region]Union of Confederate Regions[/region][/b]
+[b][color=darkorange]
+PVM Land:
+[region]The Protectorate of Versus Militia[/region] - Main Land
+[region]Archipelagos of Kiribati[/region] - Paradise
+[region]PVM Military HQ[/region] - Military Camp
+[/color]
+[color=#0080BF]Gentlemen, this region has been plundered, pillaged and set ablaze by the proud: [/color]
+[color=#00FFFF]Pirates of: [nation]Versus Militia[/nation][/color]
+[color=#00FFFF]Pirates of: [nation]Dogs of War[/nation][/color]
+[color=#00FFFF]Pirates of: [nation]H20myass[/nation][/color]
+[color=#00FFFF]Pirates of: [nation]Sequenitys[/nation][/color]
+[color=#00FFFF]Pirates of: [nation]Nadonio[/nation][/color]
+[/b]

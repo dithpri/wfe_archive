@@ -1,13 +1,11 @@
 The United Imperial Armed Forces (UIAF) of [region]The New Inquisition[/region] (TNI), [region]The Land of Kings and Emperors[/region] (LKE) and [region]Albion[/region].
 
 [b][u]The Imperial Military Council[/b][/u]
-
-[nation=short+noflag]OnderKelkia[/nation], Emperor of the LKE
-[nation=short+noflag]Joshannia[/nation], delegate representing the King of Albion
-[nation=short+noflag]North East Somerset[/nation], delegate representing the Commander of TNIAF
+[nation=short+noflag]OnderKelkia[/nation], LKE Emperor 
+[nation=short+noflag]Joshannia[/nation], Albion Representative
+[nation=short+noflag]North East Somerset[/nation], TNIAF Representative 
 
 [b][u]The Imperial Command[/u][/b]
-
 Joint Commander: Field Marshal [nation=short+noflag]Christopher Bishop[/nation]
 Deputy Commander: Lieutenant-General [nation=short+noflag]MagentaFairy[/nation]
 Associate Commanders: Field Marshal [nation=short+noflag]OnderKelkia[/nation], Field Marshal [nation=short+noflag]Charles Cerebella[/nation] &amp;amp; General [nation=short+noflag]North East Somerset[/nation]
@@ -16,4 +14,4 @@ TNI Division Commander: Major-General [nation=short+noflag]Ugnar[/nation]
 LKE Division Commander: Major-General [nation=short+noflag]Josh Sebastian[/nation]
 Albion Division Commander: Major-General [nation=short+noflag]Cassius Cerebella[/nation]
 
-Adjutant Commander: Brigadier [nation=short+noflag]Cephal Talleyrand[/nation]
+Adjutant Commanders: Brigadier [nation=short+noflag]Cephal Talleyrand[/nation] &amp;amp; Brigadier [nation=short+noflag]Wakazoona[/nation] (Fleur de Mal)
