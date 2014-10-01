@@ -1,16 +1,16 @@
-[color=red][b]Emperor:[/b][/color] [nation]Etonnia[/nation]
+[color=red][b]Emperor: [/color] [nation]Etonnia[/nation][/b]
 
-[b]Wrath:[/b] 
-[b]Hand:[/b] 
+[b]Wrath:[/b] [nation]Tradeus[/nation]
+[b]Hand:[/b] [nation]Kyp[/nation]
 
 [b]Dark Council:[/b]
 Ancient Knowledge - [nation]Tradeus[/nation]
 Biotic Science - [nation]Onikatzu[/nation]
 Defence of the Empire - [nation]Beastriders[/nation]
 Expansion and Diplomacy - [nation]The Sith Race[/nation]
-Imperial Intelligence - 
+Imperial Intelligence - [nation]Khas-Delbr[/nation]
 Laws and Justice - [nation]The True Sith Lords[/nation]
-Military Offence - 
+Military Offence - [nation]West Moldavia[/nation]
 Military Strategy - [nation]Pacificus[/nation]
 Mysteries - [nation]Bazinland[/nation]
 Production and Logistics - [nation]Zioist[/nation]

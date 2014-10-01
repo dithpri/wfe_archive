@@ -11,7 +11,8 @@ This is the Rebel Alliance, a region that was recently founded. Here are the lea
  - [nation]North Thuggington[/nation]
  - [nation]Grey Lotuses[/nation]
 [/color]
-[color=blue]Leader of the Centralists: [nation]Zymph[/nation]
-Centralist Supporters:
- - OPEN
+[color=blue]Centralist Chief: [nation]Zymph[/nation]
+ - Overseer: OPEN
+ - Treasurer: OPEN
+ - Relations Adviser: OPEN
 [/color]

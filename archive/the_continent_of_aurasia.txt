@@ -2,13 +2,16 @@ This region serves as storage for my puppet nations.
 
 [b][u]In Use[/u][/b]
 
-[nation]Aurasia[/nation]
-[b]Role-Plays:[/b] Astewyn [Past-Tech]
+N/A
 
 [b][u]Not In Use[/u][/b]
 
 [nation]The Clovenian Syndicate[/nation]
 [b]Role-Plays:[/b] Goatia [Modern], Arretaenia [Modern], Terestus [Post-Modern]
+
+
+[nation]Aurasia[/nation]
+[b]Role-Plays:[/b] Astewyn [Past-Tech]
 
 [b][u]Abandoned[/u][/b]
 

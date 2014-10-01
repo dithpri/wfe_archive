@@ -1,15 +1,8 @@
-[b]This region was crushed by the combined might of [region]The North Pacific[/region] and [region]The East Pacific[/region][/b]
-
-
-[b]The following soldiers appeared:[/b]
-
-[b][nation=short]Severisen[/nation]
-[nation=short]Gladio[/nation]
-[nation=short]Xoriet[/nation]
-[nation=short]The Democratic Republic of Tomb[/nation]
-[nation=short]Aikkustan[/nation]
-[nation=short]Imperium Magna Graecia[/nation]
-[nation=short]Partambula[/nation]
-[nation=short]Applebania[/nation][/b]
-
-[b]All hail TNP and TEP![/b]
+[b][color=#571B7E]As the sun peaked over the horizon, [region]The Association of Imperialism[/region] ventured forth, leaving no survivors in the name of [u]The Prophet[/u]:
+[list][nation=short]Trick Shot[/nation]
+[nation=short]NoblePhnx[/nation]
+[nation=short]Communist Latrobe[/nation]
+[nation=short]Anthony Willman[/nation]
+[nation=short]Stretchington[/nation]
+[nation=short]Rifty[/nation]
+[nation=short]Lands of the Shadows[/nation][/list][/b][/color][hr][b][color=red]Long live the Great Festavo![/color][/b]
