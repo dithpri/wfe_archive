@@ -12,7 +12,7 @@ A small role-play region in a reality where things just went differently than ex
 [hr]
 [b][u]Government[/u][/b]
 President: 
-Chief Justice: 
+Chief Justice: [nation=short]Shalmon[/nation]
 Minister of Foreign Affairs:
 
 [b][u]Regional Officers[/u][/b]

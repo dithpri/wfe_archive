@@ -8,7 +8,7 @@ If you are just passing through that is fine as well
 [u][B]The Republic of Mysterium Government[/B][/u]
 [u][b]Executive[/B][/u]
 President:[nation]The Forsworn Knights[/nation]
-General:
+General:[nation]Spectovzka[/nation]
 Scribe: [nation]Naval monte[/nation]
 Map Maker:
 [u][b]Legeslative[/B][/u]

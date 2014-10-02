@@ -7,7 +7,7 @@ Deputy Prime Minister: [nation]Philipson 1[/nation]
 Minister of Foreign Affairs: [nation]Cianlandia[/nation]
 Minister of Commonwealth Affairs:vacant
 
-Minister of Defence: vacant
+Minister of Defence:[nation]Phay Kheyw[/nation]
 Special Forces Command: vacant
 Home Defence Minister:vacant
 

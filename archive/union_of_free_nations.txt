@@ -5,7 +5,7 @@
 [b][u]Prime Minister[/b][/u] 
 [nation=short]great franconia and verana[/nation]
 [b][u]Ministry of Foreign Affairs[/b][/u]
-[nation=short]ruiru[/nation]
+[b]VACANT[/b]
 [b][u]Intelligence Directorate[/b][/u]
 [nation=short]tylannd[/nation]
 [b][u]Recruitment Bureau[/b][/u]
@@ -13,7 +13,7 @@
 [b][u]Chief Communications Officer[/b][/u] 
 [nation=short]mamu[/nation]
 [b][u]Supreme Judicial Court[/b][/u]
-[b]VACANT[/b]
+[nation=short]linco[/nation]
 [nation=short]onocarcass[/nation]
 [nation=short]unitedd bourque[/nation]
 

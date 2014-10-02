@@ -1,10 +1,10 @@
-Welcome To the Intergalactic Corporate Empire! We are open to all nations who are non-invader and with high civil rights and booming economies and high political freedoms. We aim to be a paradise for all nations and we hope that you will encourage others to join our region.
-Regional Government:
-CEO: [nation=short]The Intergalactic Universe Corporation[/nation]
-Chairman: [nation=short]LE LOL[/nation]
-COO: [nation=short]The Massive Buy n Large Corporation[/nation]
-CFO: [nation=short]The Revolutionary Bicoin Megacorporation[/nation]
-CIO: [nation=short]Valiant Hills[/nation]
-Managing Director: [nation=short]Freedom Ship[/nation]
+[color=purple]Welcome To the Intergalactic Corporate Empire![/color] [color=green]We are open to all nations who are non-invader[/color] [color=orange]and with high civil rights and booming economies and high political freedoms.[/color] [color=blue]We aim to be a paradise for all nations and we hope that you will encourage others to join our region.[/color]
+[color=brown]Regional Government[/color] [color=black] (The Board of Directors):[/color]
+[color=gold]CEO:[/color] [nation=short]The Intergalactic Universe Corporation[/nation]
+[color=orange]Chairman:[/color] [nation=short]LE LOL[/nation]
+[color=blue]COO:[/color] [nation=short]The Massive Buy n Large Corporation[/nation]
+[color=brown]CFO:[/color] [nation=short]The Revolutionary Bicoin Megacorporation[/nation]
+[color=red]CIO:[/color] [nation=short]Valiant Hills[/nation]
+[color=green]Managing Director:[/color] [nation=short]Freedom Ship[/nation]
 Our Flag depicts the Grande Economic Freeway of our prosperous, world-famous, futuristic capital of Prosperitania.
-We hope that all WA nations endorse our elected WA Delegate and also would encourage all nations to give ideas on polls.
+[color=red]Please Endorse Our Elected WA Delegate![/color]

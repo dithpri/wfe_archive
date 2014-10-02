@@ -2,12 +2,12 @@
 
 [color=Red]All of those in the world that believe in equality and democracy are welcome. [i]Trolls and Fascists will not be tolerated![/i][/color]
 
-[color=Orange][i]Prime Minister:[/i]
+[color=Orange][i]Prime Minister:[/i][nation]the parkgarian empire[/nation]
 
-[i]Minister of Defence:[/i]
+[i]Minister of Defence:[/i] [nation]Tyrinthion[/nation]
 
-[i]Minister of Recruitment:[/i]
+[i]Minister of Recruitment:[/i] [nation]Mexican Communists[/nation]
 
-[i]Minister of Foreign Relations:[/i]
+[i]Minister of Foreign Relations:[/i] 
 
-[i]Minister of Education:[/i][/color]
+[i]Minister of Education:[/i] [nation]Radestan[/nation][/color]

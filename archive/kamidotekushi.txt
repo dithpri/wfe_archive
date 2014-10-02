@@ -1,14 +1,6 @@
-Regional Government:
-------------------------------------
-[color=blue]President:[/color][nation=short]The Barbradian Republic[/nation]
-[color=red]President Advisor:[/color][nation=short]Alexanderios[/nation]
+[b][color=red]This region has been refounded by [region=Red Armor], the soldiers more dangerous than the night!  Victory is ours once again![/color]
 
-[color=orange]Chancellor:[/color][nation=short]Kazadure[/nation]
-[color=red]Chancellor Advisor:[/color][nation=short]North libya[/nation]
+With the natives vanquished, we can celebrate!  Our barracks can be found [url=http://redarmor.webs.com]here.[/url]
 
-Ministers:
----------------------
-[color=red]World Affairs Minster:[/color][nation=short]Community of Free peoples[/nation]
-[color=green]Minister Of Justice:[/color][nation=short]The South Japanese Empire[/nation]
-[color=purple]Minister Of Culture:[/color][nation=short]Left Fulange[/nation]
-[color=blue]Minister of intelligance[/color][nation=short]North Libya[/nation]
+[color=maroon]Marching through the region were the following soldiers:
+[nation=short]Inaga[/nation][/b][/color]

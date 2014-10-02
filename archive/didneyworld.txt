@@ -2,14 +2,14 @@
 
 Head Ambassador for Foreign Affairs: [nation]Big Rusty[/nation]
 
-Head of Ministry of Good: 
+[color=yellow]Head of Ministry of Good[/color]: [nation]Feminist Rage[/nation]
 
-Head of Ministry of Evil: [nation]NoirEtoile[/nation]
+[color=red]Head of Ministry of Evil[/color]: [nation]NoirEtoile[/nation]
 
-Regional Landfill: Sum Juan
+[color=blue]Space Mountain Operators[/color]: [nation]Trekwars[/nation]
 
-Space Mountain Operators: [nation]Trekwars[/nation]
+[color=purple]Prime Witch Hunter of The Loyalty Inspectors[/color]: 
 
-Prime Witch Hunter of The Loyalty Inspectors: [nation]darrlantis[/nation]
+[color=green]Head of Complaint Department[/color]: [nation]The Fourth Socialist Reich of Germany[/nation] (this one is real, if you have a complaint, let them know)
 
-Head of Complaint Department: [nation]The Fourth Socialist Reich of Germany[/nation] (this one is real, if you have a complaint, let them know)
+[color=orange]Current Subject of Hate[/color]: Sum Juan

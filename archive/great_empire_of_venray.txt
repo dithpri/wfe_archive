@@ -5,14 +5,15 @@ ________________________________
 
 GENERAL FUNCTIONS
 
-President (Head of State): [nation]Empire of Venray[/nation]
+President (Head of State): OPEN
 Members of the Senate: All Members of the Region
 Supreme Court: [nation]Empire of Venray[/nation]
 
 GOVRNMENT FUNCTIONS
 
-Minister of Justice: 
-Minister of Home Affairs:
-Minister of Foreign Affairs: [nation]Orange-Habsburg[/nation]
-Minister of Economy:
+Prime Minister: OPEN
+Minister of Justice: OPEN
+Minister of Home Affairs: OPEN
+Minister of Foreign Affairs: OPEN
+Minister of Economy: OPEN
 
