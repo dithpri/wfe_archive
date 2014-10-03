@@ -16,7 +16,7 @@ Senate:
 3|[nation=short]Aodan[/nation](T1)
 
 Ambassador:
-[nation=short]Jantanu[/nation](T1)
+[nation=short]United States of Spain[/nation](T1)
 
 Justice: 
 [nation=short]Vorsteher[/nation](T1)

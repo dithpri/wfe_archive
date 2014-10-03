@@ -9,6 +9,8 @@ A region of [color=#FF0000]C[/color][color=#FF6600]o[/color][color=#FFFF00]u[/co
 [color=#FF7519]Regional Secretary[/color]: [nation=short]Quackville[/nation]
 
 [color=#FF33CC]Regional Governor[/color]: [nation=short]Panzkruppenvann[/nation]
+
+[color=#0000C2]Cartographer[/color]: [nation=short]Oslwald Town[/nation]
 [hr]
 Regional Currency is the Liech. Please use it or you will be [b][u][color=#FF0000]Frowned[/color][/u][/b] upon.
 
