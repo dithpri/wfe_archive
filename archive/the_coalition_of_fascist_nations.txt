@@ -4,9 +4,10 @@ The Coalition of Fascist Nations is a fascist region dedicated to eliminating co
 Il Duce: [nation]The new Polish Empire[/nation]
 Delegate: [nation]Vichtander[/nation]
 Head of Military: [nation]Greater Eire[/nation]
-Head of Intelligence: Open
+Head of Intelligence: [nation]Militarists[/nation]
 Head of Recruitment: Open
 Head of Foreign Affairs: Open
+Head of Propoganda: Open
 
 [url=http://coalitionoffascistnations.webs.com/]Regional Website[/url]
 [url=http://m.youtube.com/watch?v=s0DyZ-8Ca_U/]Regional Anthem[/url]

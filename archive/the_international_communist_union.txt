@@ -1,6 +1,4 @@
-[b]Property of the Fascist Front !
-
-Captured by:
+[color=333333][b]The International Communist Union routed by:[/b][/color]
 
 [nation=short]The Imperial Prefectures of America[/nation]
 [nation=short]Grodon[/nation]
@@ -11,4 +9,6 @@ Captured by:
 [nation=short]The Kuomintang[/nation]
 [nation=short]Schweinehund[/nation]
 [nation=short]P0RTVGAL[/nation]
-[nation=short]Verborgenen Herrn[/nation][/b]
+[nation=short]Verborgenen Herrn[/nation][hr]
+
+[u][b][color=333333]Support provided by[/u]: [region]The Black Order[/region], [region]The Fascist Union[/region], [region]Nazi Europa[/region], [region]The Greater German Reich[/region], [region]Fifth Empire[/region], [region]Zarathustra[/region], [region]Einherjar[/region] and [region]Union of Nationalists[/region][/b][/color]

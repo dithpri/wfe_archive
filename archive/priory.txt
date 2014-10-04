@@ -8,6 +8,6 @@ Minister of Defense: [nation]Phoenix11[/nation]
 Minister of Foreign Affairs: [nation]Confiteous[/nation]
 Minister of Justice:[nation]The Sharpettes[/nation]
 Special Advisor to the Iron Fists: [nation]Schakastan[/nation]
-Special Advisor to the Modern Liberation Party: CONTESTED
+Special Advisor to the Modern Libertarian Party:[nation]Tuvalu-Gazi of the Islands[/nation] 
 [b]DEFCON[/b]: 5
 [b]CIVCON[/b]: 5

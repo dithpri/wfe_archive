@@ -5,7 +5,7 @@ WA delegate/Prime Minister: [nation]Theoniatium[/nation]
 
 Deputy Prime Minister: [nation]Philipson 1[/nation]
 Minister of Foreign Affairs: [nation]Cianlandia[/nation]
-Minister of Commonwealth Affairs:vacant
+Minister of Commonwealth Affairs: [nation]Therman[/nation]
 
 Minister of Defence:[nation]Phay Kheyw[/nation]
 Special Forces Command: vacant

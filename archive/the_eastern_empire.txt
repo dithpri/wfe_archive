@@ -1,12 +1,24 @@
 [b]Welcome![/b]
-Make yourself at home in the Eastern Empire! Become a Praetor today, recruit and fight for the Empire to earn your consulship!
-[color=blue]World Assembly members: Please endorse [nation=short+noflag]Opiachus[/nation] as the lawful Imperator and Delegate.[/color]
-
+Make yourself at home in the Eastern Empire!
+[color=blue]World Assembly members must endorse [nation=short+noflag]Opiachus[/nation] as the lawful Imperator and Delegate.[/color]
 [hr]
 [b]Imperial Government[/b]
 
 [u]Imperator:[/u] [nation]Opiachus[/nation]
 [u]Consul:[/u] Appointed
 [u]Consul:[/u] Appointed
-[u]Praetors:[/u] [nation=short+noflag]The Greco Emirates[/nation], 5 positions open
-[color=blue]All citizens of this region receive the honorary title of &amp;quot;Senator&amp;quot; and may vote in regional elections.[/color]
+[u]Praetors:[/u] [nation=short+noflag]The Greco Emirates[/nation], [nation=short+noflag]Grelic Clan[/nation]
+
+[b]Imperial Laws in Effect[/b]
+
+[u]Constitution:[/u]
+[u]Endorsement Cap:[/u] [color=red]0[/color]
+[u]Policies and Legislation:[/u] None
+[hr]
+[b]Imperial Provinces[/b]
+
+None
+
+[b]Ongoing Campaigns[/b]
+
+None
