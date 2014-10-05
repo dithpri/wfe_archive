@@ -11,9 +11,9 @@
 
 [b]Emperor: [nation=short]The Emperor of Tamriel[/nation]
 
-Potentate: 
+Potentate: [nation=short]Zanzibarya[/nation]
 
-Imperial Vizier: [nation=short]Zanzibarya[/nation]
+Imperial Vizier:
 
 Imperator: [nation=short]-S k y r i m-[/nation]
 

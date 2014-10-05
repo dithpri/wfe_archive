@@ -1,1 +1,5 @@
-[B][color=blue]Welcome to Gdansk, Poland.  This major port city is Poland&amp;#39;s [/color][color=red]fourth largest city and is a great town to visit.[/color][/B]
+[b][region]Danzig[/region] annexed as part of [region]Germania[/region]. 
+
+Protected by [nation=short]Hamburg Acolytes[/nation] of [region]The Black Order[/region]
+
+[color=#C80000]From [region]Berlin Welthauptstadt Germania[/region] we march against the Marxist Bolshevik hordes![/color][/b]

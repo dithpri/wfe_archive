@@ -1,8 +1,6 @@
  Welcome to Babylatia. Enjoy yourself.
 [hr]
 [color=red][b]Allies[/b][/color]
-[nation]Tea Party Separation of America[/nation]
-[nation]Havenburgh[/nation]
 [hr]
 [color=green][b]Current Issues[/b][/color]
 Distress in [region]Renegade Islands Alliance[/region]
