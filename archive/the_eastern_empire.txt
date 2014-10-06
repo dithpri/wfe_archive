@@ -7,7 +7,7 @@ Make yourself at home in the Eastern Empire!
 [u]Imperator:[/u] [nation]Opiachus[/nation] (Currently leading the Imperial Legions in [region]Atlantic[/region].)
 [u]Consul:[/u] Appointed
 [u]Consul:[/u] Appointed
-[u]Praetors:[/u] [nation=short+noflag]The Greco Emirates[/nation], [nation=short+noflag]Grelic Clan[/nation]
+[u]Praetors:[/u] [nation=short+noflag]The Greco Emirates[/nation], [nation=short+noflag]Cayasia[/nation]
 
 [b]Imperial Laws in Effect[/b]
 
@@ -21,4 +21,4 @@ None
 
 [b]Ongoing Campaigns[/b]
 
-[list=1][*]Peacekeeping and Counter-Raiding Operation in [region]Atlantic[/region][/list]
+[list=1][*]Defense of [region]Atlantic[/region][/list]

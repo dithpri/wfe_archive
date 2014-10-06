@@ -1,14 +1,10 @@
-[color=navy][b]Japvia[hr][nation=short]Embassy Policy[/nation]:[/b][list]
+[color=navy][b]Japvia[hr]Puppet Storage Region[hr][nation=short]Embassy Policy[/nation]:[/b][list]
 [nation=short]Note[/nation]:[hr][b]Oracle Group of Regions[/b] This group is trying to set to fit nsEmbassy Oracle game, with the goal of having only two embassies per region, the region ahead and the region behind.
 
 [b]Matrix Group of Regions:[/b] These regions are accepting embassy offers.
 See [region=United States of America]
-
 [nation=short]Attention[/nation]:[hr]This region is also being used as a temporary embassy connection so that my new regions are fully integrated.
-
 [nation=short]Info[/nation]:[hr][url=http://nsdossier.texasregion.net/embassyOracle.aspx]nsEmbassy Oracle[/url]
-
-Only accepted embassy: [region=The Mars]
 
 Currently [region=Japvia] has[/color][color=red] 1171 [/color][color=navy]Degrees of Separation from [region=Palmerston].
 None of the Oracle Regions are accepting embassies.[/list]

@@ -4,7 +4,7 @@
 
 [b]WA Delegate: [nation=Lucratoria]
 Founder: [nation=Shermaniya]
-Internal Affairs: Vacant
+Internal Affairs: [nation=Volchekia]
 Foreign Affairs: [nation=Jewphobia][/b]
 
 [hr]

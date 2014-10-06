@@ -2,7 +2,7 @@
 
 [nation=short]The Imperial Prefectures of America[/nation]
 [nation=short]Grodon[/nation]
-[nation=short]Black Order Commander[/nation]
+[nation=short]Black Order Commander[/nation] [color=333333][[/color][color=990000]RIP[/color][color=333333]][/color]
 [nation=short]Captain Woodhouse[/nation]
 [nation=short]Valkalan[/nation]
 [nation=short]New Laikland[/nation]
@@ -11,4 +11,6 @@
 [nation=short]P0RTVGAL[/nation]
 [nation=short]Verborgenen Herrn[/nation][hr]
 
-[u][b][color=333333]Support provided by[/u]: [region]The Black Order[/region], [region]The Fascist Union[/region], [region]Nazi Europa[/region], [region]The Greater German Reich[/region], [region]Fifth Empire[/region], [region]Zarathustra[/region], [region]Einherjar[/region] and [region]Union of Nationalists[/region][/b][/color]
+[u][b][color=333333]Support provided by[/u]: [region]Berlin Welthauptstadt Germania[/region], [region]The Fascist Union[/region], [region]Nazi Europa[/region], [region]The Greater German Reich[/region], [region]Fifth Empire[/region], [region]Zarathustra[/region], [region]Einherjar[/region],[region]Union of Nationalists[/region], and [region]National Socialist Ministries[/region][/b][/color][hr]
+
+[b][color=333333]Commies deep-sixed:[/color] [color=990000]9[/color][/b]

@@ -4,6 +4,7 @@ Area 2: [nation]NickCagistan[/nation]
 Area 3: [nation]Area Three[/nation]
 Area 4: [nation]Area Four[/nation]
 Area 5: [nation]Area Five[/nation]
+Area 6: [nation]Area Six[/nation]
 
 
 Diplomatic Colonies: [nation]Brittannian Diplomatic Land[/nation]

@@ -12,11 +12,11 @@
 
 [color=grey][b]Vice Dominus[/b][/color]: [Nation=The Garden of Mesopotamia]
 
-[color=grey][b]Regional Secretary of Foreign Affairs:[/b][/color][Nation=Islamic Realm]
+[color=grey][b]Regional Secretary of Foreign Affairs:[/b][/color] [Nation=ISPL] 
 
 [color=grey][b]Diplomatic Envoy At Large: [/b][/color][Nation=The State of Pakistan]
 
-[color=grey][b]Regional Defence Minister : [/b][/color]  [Nation=Sagrie] 
+[color=grey][b]Regional Defence Minister : [/b][/color] [Nation=Sagrie] 
 
 [color=grey][b]Deputy Secretary of Defence:[/b][/color]  [Nation=Ereria]
 
@@ -26,4 +26,4 @@
 
 [color=grey][b]House Chair[/b][/color]: [Nation=Eastern Bashkortostan] 
 
-[color=grey][b]House of Ways and Means Chair[/b][/color]: [color=blue] Vacant[/color] 
+[color=grey][b]House of Ways and Means Chair[/b][/color]: [color=blue][b]Vacant[/b][/color]

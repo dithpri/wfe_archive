@@ -1,3 +1,3 @@
-Welcome to the [b]North American Free Trade Agreement[/b]! Like the members of its namesake, this region stands for the promotion of democracy, human rights, free trade and the market economy, as well as other Western values.
+Welcome to the [b][region]North American Free Trade Agreement[/region][/b]! Like the members of its namesake, this region stands for the promotion of democracy, human rights, free trade and the market economy.
 
-Founder: [nation=short]North Atlantic Treaty Organization[/nation] ([nation=short+noflag]Auralia[/nation])
+This region is maintained by [nation=short]North American Free Trade Agreement[/nation] ([nation=short+noflag]Auralia[/nation]).

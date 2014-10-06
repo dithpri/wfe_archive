@@ -1,24 +1,16 @@
 Regional Motto: &amp;quot;From These Many Countries We Are One Democracy&amp;quot;
 
-Prime Minister:- [nation]Cucuta[/nation]
+Prime Minister:- 
 
-Religion &amp;amp; Culture Minister- [nation]Akaidia[/nation]
+Religion &amp;amp; Culture Minister-
 
 Recruitment Minister- [nation]gunterstriech[/nation]
 
 Foreign Minister- (Occupied by the Council of Foreign affairs)
-Council of Foreign Affairs- [nation=short]Frei Sachsen[/nation], [nation=short]the Scottish Monarchy[/nation], [nation=short]Second Baden-Wurttemberg[/nation]
+Council of Foreign Affairs- [nation=short]the Scottish Monarchy[/nation], [nation=short]Second Baden-Wurttemberg[/nation]
 
 Minister of Internal Affairs- [nation]The zealots of mercy[/nation]
 
-Secretary- [nation]North East Germany[/nation]
+Secretary- 
 
-Supreme Court Judges- [nation=short]New Preatoria[/nation], [nation=short]Czkauvek[/nation], [nation=short]ruthamir[/nation]
-
-[b][u]Union/Alliance Homepages[/U][/b]
-
-[url=http://www.nationstates.net/nation=england_and_northern_ireland_and_wales/detail=factbook/id=294885]The Alliance of Civilizations[/url] (10-6)
-
-[url=http://www.nationstates.net/nation=cucuta/detail=factbook/id=303625]The Alliance of crowns[/url] (4-4)
-
-[url=http://www.nationstates.net/page=dispatch/id=296520]The Independent Nations Alliance[/url] (4-2)
+Supreme Court Judges- [nation=short]New Preatoria[/nation]
