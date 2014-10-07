@@ -1,1 +1,11 @@
 [b]Military Fortified Region of the [region]Anti Authoritarian Alliance[/region][/b]
+
+[color=red][u]Enemy Regions[/u][/color]
+
+[region]The Black Riders[/region]
+[region]The Greater German Reich[/region]
+[region]Das Kommune[/region]
+
+[color=orange][u]Liberated Regions[/u][/color]
+
+[region]One Nation Under God[/region]

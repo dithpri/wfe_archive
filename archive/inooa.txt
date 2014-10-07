@@ -1,1 +1,10 @@
 [color=green]The Inooa Free Trade Agreement is active.[/color] 
+
+[b][color=darkblue]Aliens sighted over [nation=noflag]Saburtier[/nation].[/color][/b]
+[b]Alien interaction currently = [color=blue]Code Blue[/color][/b]
+
+Code Blue = peaceful
+Code Yellow = tense
+Code Red = war/invasion
+
+Region is currently [color=blue]Code Blue[/color]

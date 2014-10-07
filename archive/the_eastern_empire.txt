@@ -1,10 +1,9 @@
 [b]Welcome![/b]
-Make yourself at home in the Eastern Empire!
-[color=blue]World Assembly members must endorse [nation=short+noflag]Opiachus[/nation] as the lawful Imperator and Delegate.[/color]
+World Assembly members must endorse [nation=short+noflag]Opiachus[/nation] as the lawful Imperator and Delegate.
 [hr]
 [b]Imperial Government[/b]
 
-[u]Imperator:[/u] [nation]Opiachus[/nation] (Currently leading the Imperial Legions in [region]Atlantic[/region].)
+[u]Imperator:[/u] [nation]Opiachus[/nation]
 [u]Consul:[/u] Appointed
 [u]Consul:[/u] Appointed
 [u]Praetors:[/u] [nation=short+noflag]The Greco Emirates[/nation], [nation=short+noflag]Cayasia[/nation]
@@ -12,13 +11,8 @@ Make yourself at home in the Eastern Empire!
 [b]Imperial Laws in Effect[/b]
 
 [u]Constitution:[/u] [url=http://www.nationstates.net/page=dispatch/id=310850]The Imperial Constitution of The Eastern Empire[/url]
-[u]Endorsement Cap:[/u] [color=red]0[/color]
+[u]Endorsement Cap:[/u] 2
 [u]Policies and Legislation:[/u] None
-[hr]
-[b]Imperial Provinces[/b]
-
-None
-
-[b]Ongoing Campaigns[/b]
-
-[list=1][*]Defense of [region]Atlantic[/region][/list]
+[Hr]
+[B]Imperial Provinces:[/b] None
+[B]Imperial Campaigns:[/b] None

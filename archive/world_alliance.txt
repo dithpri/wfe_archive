@@ -11,7 +11,7 @@
 
 [b]+ Member for Asia[/b] : [nation=short]china_china[/nation] 
 [b]+ Member for Iberia[/b] :
-[b]+ Member for Arcadia[/b] :
+[b]+ Member for Arcadia[/b] : [nation=short]new_rhodinia[/nation] 
 [b]+ Member for Atlantis[/b] : [nation=short]the_republic_of_chivalry[/nation]
 [b]+ Member for Oceania[/b] : 
 [b]+ Member for Olympia[/b] : [nation=short]articmainia[/nation]
