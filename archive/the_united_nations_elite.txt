@@ -1,16 +1,12 @@
 Regional Motto: &amp;quot;From These Many Countries We Are One Democracy&amp;quot;
 
-Prime Minister:- 
+[b]Secretary-Prime Minister:[/b] [nation]Ruthamir[/nation]
 
-Religion &amp;amp; Culture Minister-
+[b]Religion &amp;amp; Culture Minister-[/b] [nation]Amansworth[/nation]
 
-Recruitment Minister- [nation]gunterstriech[/nation]
+[b]Recruitment Comitee-[/b] [nation=short]New Preatoria[/nation], [nation=short]Uriah Heep[/nation], [nation=short]Portereca[/nation]
 
-Foreign Minister- (Occupied by the Council of Foreign affairs)
-Council of Foreign Affairs- [nation=short]the Scottish Monarchy[/nation]
+[b]Foreign Minister-[/b] [nation=short]the Scottish Monarchy[/nation]
+Council of Foreign Affairs- 
 
-Minister of Internal Affairs- [nation]The zealots of mercy[/nation]
-
-Secretary- 
-
-Supreme Court Judges- [nation=short]New Preatoria[/nation]
+[b]Minister of Internal Affairs-[/b] [nation]Jejetopia[/nation]

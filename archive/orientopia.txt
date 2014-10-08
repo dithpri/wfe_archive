@@ -1,11 +1,11 @@
-[b]&iexcl;Bienvenidos a Orientopia![/b]
+[b][color=#ff0000]LA LIGA DE REP&Uacute;BLICAS COMUNISTAS[/color][/b]
 
-La [i]Orientopia[/i], o m&aacute;s propiamente la [i]Liga de Rep&uacute;blicas Comunistas[/i], es una uni&oacute;n de rep&uacute;blicas comunistas. Es un bloque de libre comercio y una uni&oacute;n aduanera, donde las personas y las mercanc&iacute;as puedan circular libremente entre los pa&iacute;ses miembros. La Orientopia es tambi&eacute;n una alianza militar. Un ataque contra un miembro es considerado como un ataque contra todos los miembros.
+La [b]Liga de Rep&uacute;blicas Comunistas[/b] es una uni&oacute;n de rep&uacute;blicas socialistas y comunistas. Es un bloque de libre comercio y una uni&oacute;n aduanera, donde las personas y las mercanc&iacute;as puedan circular libremente entre los pa&iacute;ses miembros. La Orientopia es tambi&eacute;n una alianza militar. Un ataque contra un miembro es considerado como un ataque contra todos los miembros, y cada miembro tiene la obligaci&oacute;n de defender a sus compa&ntilde;eros.
 
 Idiomas oficiales: espa&ntilde;ol, ruso, portugu&eacute;s, franc&eacute;s
 
-Miembros: [nation=short]Nueva Uruguay[/nation], [nation=short]Soviet Paraguay[/nation], [nation=short]Oriente de la Uruguay[/nation], [nation=short]Occidente de la Uruguay[/nation], [nation=short]New Brasilia[/nation], [nation=short]French Cannabis[/nation], [nation=short]Isla Gazebo[/nation], [nation=short]Sao Marino[/nation]
+Miembros: [nation=short]Nueva Uruguay[/nation]*, [nation=short]Soviet Paraguay[/nation]*, [nation=short]Oriente de la Uruguay[/nation], [nation=short]Occidente de la Uruguay[/nation], [nation=short]New Brasilia[/nation], [nation=short]French Cannabis[/nation], [nation=short]Isla Gazebo[/nation]*, [nation=short]Sao Marino[/nation]
 
-Pa&iacute;ses observadores: Brasil, China, Cuba, Corea del Norte, Finlandia, Rusia, Suecia
+*miembro fundador
 
 Lema: &amp;quot;&iexcl;Trabajadores del mundo, un&iacute;os!&amp;quot;

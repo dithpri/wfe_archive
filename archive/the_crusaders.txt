@@ -1,5 +1,4 @@
-Hello welcome to the crusaders. We fight raider kind. Please join our military. We partnered with [region=U R N] And remember down with TBR.
+Welcome to THE CRUSADERS we liberate nations that have been conquered by Black Riders. Please join our army.
 
-Co General[nation]URN Military Commander[/nation]
-
-General[nation]Shinetzelberg[/nation]
+Co general [nation=URN Military Commander]
+General[nation=Shinetzelberg]

@@ -1,5 +1,15 @@
 Military giant; a collection of super-powers and large companies who constantly fund and grow the might; Arcadian armies (of the Imperium, the Union and the Confederacy) and their allies mighty armies at the same time!
 
+[b]Lord Commander[/b]: [nation=noflag]Arcadian Sovereignty[/nation]
+
+[u]Lords of Arcadia[/u]
+[b]Lord of Admiralty[/b]: [nation=noflag]Holy Terran Imperium[/nation]
+[b]Lord of the Army[/b]: [nation=noflag]Holy Terran Imperium[/nation]
+
+[b]Lord of the Inquisition[/b]: [nation=noflag]Boot Camp 101[/nation]
+[b]Lord of the Economy[/b]: [nation=noflag]KzadDuum[/nation]
+[b]Lord of the Mechanicus[/b]: [nation=noflag]Martian Priesthood[/nation]
+
 Mottos:
 &amp;quot;Big guns never tire&amp;quot;
 &amp;quot;Knowledge is power&amp;quot;

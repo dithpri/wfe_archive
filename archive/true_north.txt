@@ -15,7 +15,7 @@
 
 [b]All Embassies with [color=ff33ff]&reg;[/color][region]true north territory[/region][color=ff33ff]&reg;[/color] are Territories of True North[/b]
 
-[color=66ffff][b]New home region is now[region] asphodel meadows[/region][/b][/color]
+[color=66ffff][b]New home region is now [region]asphodel meadows[/region][/b][/color]
 
 This region will remain Locked       
       
