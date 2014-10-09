@@ -5,16 +5,16 @@
 
 [b]Federal Socialist Republics[/b]
 
-[nation]Czervenika[/nation]
 [nation]Krasniya[/nation]
+[nation]Ruapekapeka[/nation]
 [hr]
 
 [b]Socialist Republics[/b]
 
 [nation]Belakras[/nation]
 [nation]Biel-Tan[/nation]
+[nation]Czervenika[/nation]
 [nation]Pribaltika[/nation]
-[nation]Ruapekapeka[/nation]
 [nation]Somstratzka[/nation]
 [nation]Zeledia[/nation]
 [hr]

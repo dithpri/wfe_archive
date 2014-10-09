@@ -14,7 +14,7 @@
 [nation=short]The Russian Federations[/nation] [b]([color=blue]DS[/color])[/b]
 
 [b]Minister of Internal Affairs:[/b] 
-[nation=short]The Dalek Paradigm[/nation] [b]([color=black]F[/color])[/b]
+[nation=short]The Dalek Paradigm[/nation] [b]([color=purple]I[/color])[/b]
 
 [b]Minister of Justice:[/b] 
 [nation=short]Jaslandia[/nation] [b]([color=blue]DS[/color])[/b][/list]

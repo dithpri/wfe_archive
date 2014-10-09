@@ -1,5 +1,4 @@
 [b]Welcome![/b]
-World Assembly members must endorse [nation=short+noflag]Opiachus[/nation] as the lawful Imperator and Delegate.
 [hr]
 [b]Imperial Government[/b]
 
@@ -11,8 +10,8 @@ World Assembly members must endorse [nation=short+noflag]Opiachus[/nation] as th
 [b]Imperial Laws in Effect[/b]
 
 [u]Constitution:[/u] [url=http://www.nationstates.net/page=dispatch/id=310850]The Imperial Constitution of The Eastern Empire[/url]
-[u]Endorsement Cap:[/u] 2
-[u]Policies and Legislation:[/u] None
+[u]Endorsement Cap:[/u] Unlimited
+[u]Regional Policies:[/u] World Assembly members may endorse anyone. Foreign embassies or legions must declare their arrival on the Regional Message Board. 
 [Hr]
-[B]Imperial Provinces:[/b] None
+[B]Imperial Provinces:[/b] [region]German Front Lines[/region], [region]Catalyst[/region], [region]True Korea[/region], [region]The War Torn Southern Pacifc[/region]
 [B]Imperial Campaigns:[/b] None

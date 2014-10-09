@@ -16,4 +16,5 @@ Minister of Justice: OPEN
 Minister of Home Affairs: OPEN
 Minister of Foreign Affairs: OPEN
 Minister of Economy: OPEN
+Minister of Military Affairs: OPEN
 

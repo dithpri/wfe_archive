@@ -3,9 +3,15 @@
 
 [region]Warzone Vacation Resort[/region] welcomes all nations. The hotel was created as a place for Warzone exiles to gather before returning home. Special thanks to [nation]Khronion[/nation] for suggesting this.
 
-The Pan-Warzone Convention Center is near completion. Assuming you have not been banned, you may use the embassy posting feature to contact any Warzone from this region.
-
 Please bear with us. Work is in progress to make your stay more pleasant.
 
 [b][color=turquoise]The featured drink of the week:[/color] [color=pineapple]Pi&ntilde;a Colada[/color][/b]
-[hr][b][color=red]Disclaimer: WZV Resort may be closed at the discretion of the staff without prior warning. We sincerely apologize for any inconvenience.[/color][/b] [i]We update around :20[/i]
+[hr][b][u][color=pear]The Pan-Warzone Convention Center[/color][/u][/b]
+Now featuring embassy posting in:
+[region]Warzone Airspace[/region]
+[region]Warzone Asia[/region]
+[region]Warzone Australia[/region]
+[region]Warzone Europe[/region]
+[region]Warzone Sandbox[/region]
+Pending:
+[region]Warzone Africa[/region]
