@@ -2,10 +2,10 @@ We are one of the oldest regions.  We have been here since the earliest days, th
 
 Ministers:
 Prime Minister: NONE
-Defense: [nation=short]Applebania[/nation]
+Defense: NONE
 International Intelligence: NONE
 Internal Affairs: [nation=short]Ballurswag[/nation]
-Foreign Affairs:Come Original ** [B]REMOVED[/B] ** New election for this seat soon.
+Foreign Affairs:[nation=short]Come Original[/nation] 
 Justice: [nation]Kitsco[/nation]
 Immigration: [nation=short]Supreme Oppressors[/nation]
 
