@@ -3,9 +3,9 @@ Welcome to The Grand Alliance of Nations!
 [color=red][u]The Grand Council[/u][/color]
 
 [b]Chancellor[/b]: [nation]Plotus[/nation]
-[b]Vice-Chancellor[/b]: [nation]Viktorian[/nation]
-[b]Minister for Defence[/b]: Open
-[b]Minister for Foreign Affairs[/b]: [nation]Tulon admins[/nation]
+[b]Vice-Chancellor[/b]: [nation]Tulon admins[/nation]
+[b]Minister for Defence[/b]: [nation]Viktorian[/nation]
+[b]Minister for Foreign Affairs[/b]: Open
 [b]Minister for Entertainment[/b]: Open
 [b]Minister for Justice[/b]: Open
 [b]Minister for Immigration[/b]: Open

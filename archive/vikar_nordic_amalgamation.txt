@@ -5,11 +5,11 @@ The Union or Amalgamation of the Vikar States.
 [color=red]The Agitator Communist Party Countries[/color]
 @[nation]Terrortonia[/nation]
 @[nation]Razem[/nation]
-@[color=green]Terrortonian[/color] [nation=short]Euroistan[/nation]
 
 [color=blue]The Tolerant Freedom Party States[/color]
 ~[nation]Norscandager[/nation]
 ~[nation]Ghetjarland[/nation]
 
-[color=purple]The Neutral Country[/color]
+[color=purple]The Neutral Republics[/color]
 *[nation]Kreffen[/nation]
+*[nation]Euroistan[/nation]

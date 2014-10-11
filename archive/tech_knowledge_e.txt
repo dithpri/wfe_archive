@@ -2,4 +2,7 @@ This Region IS A FREE PLACE. We will not reject you because of your political or
 
 Prime Minister: [nation]llashramllor[/nation]
 Minister of Foreign Affairs: [nation]The Order of Balerion[/nation]
-[region]Boddhisatva[/region]
+Governor: [nation]Llashramlland[/nation]
+Governor: [nation]The Barbradian Republic[/nation]
+Governor: [nation]Bregan Daerthe [/nation]
+[region]Bodhisattva[/region]

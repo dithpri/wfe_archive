@@ -10,9 +10,11 @@
 [nation=short]P0RTVGAL[/nation]
 [nation=short]Verborgenen Herrn[/nation][hr]
 
-[u][b][color=333333]Support provided by[/u]: [region]Berlin Welthauptstadt Germania[/region], [region]The Fascist Union[/region], [region]Nazi Europa[/region], [region]The Greater German Reich[/region], [region]Fifth Empire[/region], [region]Zarathustra[/region], [region]Union of Nationalists[/region], [region]National Socialist Ministries[/region], and [region]League of Northern European Nations[/region].[/b][/color][hr]
+[u][b][color=333333]Support provided by[/u]: [region]The Fascist Union[/region], [region]Nazi Europa[/region], [region]The Greater German Reich[/region], [region]Fifth Empire[/region], [region]Zarathustra[/region], [region]Union of Nationalists[/region], [region]National Socialist Ministries[/region], and [region]League of Northern European Nations[/region].[/b][/color][hr]
 
-[b][color=333333]Commies deep-sixed:[/color] [color=990000]15[/color][/b]
-[b][color=333333]Commies fleeing in fear:[/color] [color=990000]3[/color][/b][hr]
+[b][color=333333]Commies deep-sixed:[/color] [color=990000]16[/color][/b]
+[b][color=333333]Commie infiltrator attempts thwarted:[/color] [color=990000]3[/color][/b]
+[b][color=333333]Commies fleeing in fear:[/color] [color=990000]3[/color][/b]
+[b][color=333333]Safsgw, Fdhged and other commiecal puppets jettisoned: [/color][color=990000]12[/color][/b][hr]
 
 [b][color=990000]All incoming soldiers must disclose their main nations and region affiliations to the WAD upon entry. Failure to comply will result in ejection.[/b][/color]

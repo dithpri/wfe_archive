@@ -5,3 +5,5 @@
 Main Nation:
 
 [b][nation=short]Avalon[/nation][/b] in [i][region]The North Pacific[/region][/i].
+
+[b][nation=short]Alexandria[/nation][/b] in [i][region]Kingdom of Alexandria[/region][/i].
