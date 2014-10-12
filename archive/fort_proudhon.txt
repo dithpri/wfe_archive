@@ -1,29 +1,12 @@
-[b]Military Fortified Region of the [region]Anti Authoritarian Alliance[/region][/b]
+[b]Military Fortified Region of the [region]Anti Authoritarian Alliance[/region]
 
-[color=red][u]Enemy Regions[/u][/color]
+[color=red][u]Enemy Regions[/u][/color][/b]
 
 [region]The Black Riders[/region]
 [region]The Greater German Reich[/region]
 [region]Das Kommune[/region]
 
-[color=orange][u]Liberated Regions (15)[/u][/color]
-
-[region]One Nation Under God[/region]
-[region]Radical Lesbian Feminists[/region]
-[region]Magix[/region]
-[region]The White Riders[/region]
-[region]Polish Lithuanian Commonwealth[/region]
-[region]Cellist Haven[/region]
-[region]Yu Zhai[/region]
-[region]Humanidades UNMDP[/region]
-[region]Foxtopia[/region]
-[region]Continent of Chaos[/region]
-[region]Allied NATO Forces[/region]
-[region]Great Britain and Eire[/region]
-[region]The Union of the Ideology of Liberty[/region]
-[region]The Settlement[/region]
-[region]The Council of the Primordial Tradition[/region]
-
-[color=blue][u]Protected Regions (1)[/u][/color]
-
-[region]The Free Territory of Ukraine[/region]
+[b][url=http://www.nationstates.net/nation=the_insurrectionary_army_of_ukraine/detail=factbook/id=313575][color=gold][u]&amp;gt;Liberated Regions (15)[/u][/color][/url]
+[url=http://www.nationstates.net/nation=the_insurrectionary_army_of_ukraine/detail=factbook/id=313576][color=blue][u]&amp;gt;Protected Regions (1)[/u][/color][/url]
+[url=http://www.nationstates.net/nation=the_insurrectionary_army_of_ukraine/detail=factbook/id=313574][color=orange][u]&amp;gt;Cooperatively Managed Regions (44)[/u][/color][/url]
+[/b]

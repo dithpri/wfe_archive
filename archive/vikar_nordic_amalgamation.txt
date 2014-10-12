@@ -1,15 +1,13 @@
 The Union or Amalgamation of the Vikar States.
 
-[color=green]The VNA is currently in a political standoff with itself.[/color]
+The Vikar Islands make up a continent whose origin is the former Island of Iceland. 
 
-[color=red]The Agitator Communist Party Countries[/color]
-@[nation]Terrortonia[/nation]
-@[nation]Razem[/nation]
+Subregions of the VNA:
 
-[color=blue]The Tolerant Freedom Party States[/color]
-~[nation]Norscandager[/nation]
-~[nation]Ghetjarland[/nation]
+Honzik Coast:
+Include [nation]Norscandager[/nation], [nation]Ghetjarland[/nation], and [nation]Ajtac[/nation].
 
-[color=purple]The Neutral Republics[/color]
-*[nation]Kreffen[/nation]
-*[nation]Euroistan[/nation]
+Nord Islands:
+Include [nation]Euroistan[/nation] and [nation]Razem[/nation]
+
+The Official Currency of the Amalgamation is the Vikar [b]Crooss[/b] (*Not all countries use the crooss).
