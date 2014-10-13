@@ -8,14 +8,18 @@
 
 [b][color=darkslateblue]WA nations are asked to endorse the[/color] [color=#6b055e]Pharaoh:[/color][/b] [nation=short]Ikand[/nation]
 
+
+[b][color=darkslateblue]Please also endorse our[/color] [color=#4169e1]Vizier:[/color][/b] [nation=short]the dourian embassy[/nation]
+
 [b][color=darkslateblue]Please also endorse:[/color][/b]
 
-[b][color=#7c6600]Guardians:[/color][/b] [nation=short]Dalter[/nation], [nation=short]Dmyu[/nation], [nation=short]The Dourian Embassy[/nation], [nation=short]Revert[/nation]
+[b][color=#7c6600]Guardians:[/color][/b] [nation=short]Dalter[/nation], [nation=short]Dmyu[/nation], [nation=short]Revert[/nation]
 
 [hr]
 
 [b][color=darkslateblue]General Endorsement Limit: 15
-Guardian Endorsement Limit: 55[/color][/b]
+Guardian Endorsement Limit: 55
+Vizier Endorsement Limit: 75[/color][/b]
 
 [hr]
 

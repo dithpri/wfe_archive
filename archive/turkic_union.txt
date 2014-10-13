@@ -2,18 +2,19 @@
 
 [B][COLOR=Turquoise]Leadership of [/COLOR][/B][region=Turkic Union][B][COLOR=Turquoise]:[/COLOR][/B]
 
-[B][COLOR=Turquoise]Secretary General - [/COLOR][/B][nation=Qazaq Eli]
-[B][COLOR=Turquoise]Secretary[/COLOR][/B] [B][COLOR=Yellow]of[/COLOR][/B] [B][COLOR=Turquoise]Industry - [/COLOR][/B][nation=Western Kazakstan]
-[B][COLOR=Turquoise]Secretary[/COLOR][/B] [B][COLOR=Yellow]of[/COLOR][/B] [B][COLOR=Turquoise]Foreign Affairs - [/COLOR][/B][nation=Kazak Kingdom]
+[B][COLOR=Turquoise]Secretary General - [/COLOR][/B][nation=Republic of Kazakstan]
+[B][COLOR=Turquoise]Secretary[/COLOR][/B] [B][COLOR=Yellow]of[/COLOR][/B] [B][COLOR=Turquoise]Interior Affairs- [/COLOR][/B][nation=Qazaq Eli]
+[B][COLOR=Turquoise]Secretary[/COLOR][/B] [B][COLOR=Yellow]of[/COLOR][/B] [B][COLOR=Turquoise]Foreign Affairs - [/COLOR][/B][nation=Western Kazakstan]
+[B][COLOR=Turquoise]Secretary[/COLOR][/B] [B][COLOR=Yellow]of[/COLOR][/B] [B][COLOR=Turquoise]Tourism- [/COLOR][/B][nation=Kazak Kingdom]
 [B][COLOR=Turquoise]Secretary[/COLOR][/B] [B][COLOR=Yellow]of[/COLOR][/B] [B][COLOR=Turquoise]Defence - [/COLOR][/B][nation=Turkestan Legion]
 [B][COLOR=Turquoise]Secretary[/COLOR][/B] [B][COLOR=Yellow]of[/COLOR][/B] [B][COLOR=Turquoise]Economy - [/COLOR][/B][nation=Kokand Autonomy]
 [B][COLOR=Turquoise]Secretary[/COLOR][/B] [B][COLOR=Yellow]of[/COLOR][/B] [B][COLOR=Turquoise]Resources - [/COLOR][/B][nation=Tveben]
 
-[B][COLOR=Turquoise]Cities of [/COLOR][/B][nation=Qazaq Eli][B][COLOR=Turquoise]:[/COLOR][/B]
+[B][COLOR=Turquoise]Cities of [/COLOR][/B][nation=Republic of Kazakstan][B][COLOR=Turquoise]:[/COLOR][/B]
 
 [nation=Aqtobe]
 [nation=Aqtau]
 [nation=Qyzylorda]
 [nation=Qaragandy]
 
-[B][COLOR=Red]Our Enemy number one: [/COLOR][/B][nation=-_Russia]
+[B][COLOR=Red]Our Enemy number one: [/COLOR][/B][nation=Federation de Russie]

@@ -1,10 +1,6 @@
-Zarathustra, Alaand dak Mjakt aast Majistaat.
-Zhen Vlijtig regjin aast djer Stjerk sejre.
-Vrijhyd afgezjakt av Verjeft.
-Ljat zhen Zaal ayf dak Wysett fjar virspryd.
-Zhen Aarbyet dak Aldirnaar.
+[b]Vjormakt aast Reijthum[/b]
 
-Honored Vassals:
+[b]Honored Vassals:[/b]
 
 [region]Hollenthon[/region]
 [region]Media[/region]
@@ -17,7 +13,7 @@ Honored Vassals:
 [region]Teutonic Union[/region]
 [region]Hyperborean Thule[/region]
 
-Conquered Subjects:
+[b]Conquered Subjects:[/b]
 
 [region]Babylonian Empire[/region]
 [region]Imperial Persia[/region]

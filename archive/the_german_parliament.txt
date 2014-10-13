@@ -1,1 +1,12 @@
-Welcome
+[B][color=teal]Welcome to [region]The German Parliament[/region][/color][/B]
+
+[hr][B]Motto:[/B] [B][color=brown]God bless The German Parliament![/color][/B]
+
+[hr][B][u]Sovereign[/u][/B]
+[B][color=Blue]Supreme Leader: [nation=short]South Zurich[/nation][/color][/B]
+
+
+[B][u]Executive[/u][/B] 
+[B][color=Blue]Prime Minister: [nation=short]The Ministry of Northern Germany[/nation][/color][/B]
+[B][color=Blue]Deputy Prime Minister: [nation=short]The Ministry of Northern Germany[/nation][/color][/B]
+[B][color=Blue]Justice Minister: [nation=short]South Zurich[/nation][/color][/B]

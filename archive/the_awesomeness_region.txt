@@ -1,0 +1,9 @@
+Region Dessert:Peach Cobbler
+Region Tree:Weeping Willow
+Region Bird:Hawk
+Region Currency:Smacker
+Region Reptile:Turtle
+Region Animal:Unicorn
+Region Gem:Aquamarine/Amethyst
+Region Capital:The Empire of Keatonshire
+

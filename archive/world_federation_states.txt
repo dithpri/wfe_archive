@@ -1,8 +1,8 @@
-
-______________________________________________________| [b][u][color=brown]The World Federation States[/color][/u] |___________________________________________
-_________________________________[color=orange]Capital city - [/color][color=blue]Bandar Seri Anggerik ([nation]TRANESIA[/nation])[/color]___________________________
-________________________________________[color=orange]Official Web Site - [/color] [url=http://federationoftranesia.weebly.com](The Federation of TRANESIA)[/url]____________________________________
-____________________________________________________[u][url=http://federationoftranesia.weebly.com]BECOME A CITIZEN[/url][/u]_________________________________________________
+[hr]
+[b][u][color=brown]The World Federation States[/color][/u] |[u][color=black]W[/color][color=purple]E[/color][color=blue]L[/color][color=brown]C[/color][color=green]O[/color][color=red]M[/color][color=orange]E[/color][/u]|
+[color=orange]Capital city - [/color][color=blue]Bandar Seri Anggerik ([nation]TRANESIA[/nation])[/color]
+[color=orange]Official Web Site - [/color] [url=http://federationoftranesia.weebly.com](The Federation of TRANESIA)[/url]
+[u][url=http://federationoftranesia.weebly.com]BECOME A CITIZEN[/url][/u]
 
 
 [hr]
@@ -19,3 +19,4 @@ ____________________________________________________[u][url=http://federationoft
 [b][u][color=brown]Embassies[/color][/u][/b]
  - [region]indonesia[/region]
  - [region]Indopacific[/region]
+ - [region]ministreyl union[/region]
