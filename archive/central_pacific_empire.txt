@@ -4,18 +4,18 @@
 [hr][b][u]SEPTEMBER-OCTOBER GOVERNMENT:[/u][/b]
 
 [b]Prime Minister:[/b] [nation]Lentheric[/nation]
-[b]Minister for Interior Affairs:[/b] [nation=shortname]Centralton[/nation]
-[b]Minister for Immigration:[/b] [nation=shortname]Aanon Bay[/nation] 
+[b]Minister for Interior Affairs:[/b] [nation=shortname]Aanon Bay[/nation] 
 [b]Minister for Defence:[/b] [nation=shortname]Raindrop Valley[/nation] 
 [b]Minister for Justice:[/b] [nation=shortname]Cliffton[/nation] 
-[b]Minister for Foreign Affairs:[/b] Vacant
+[b]Minister for Foreign Affairs:[/b] [nation=shortname]Centralton[/nation]
+[b]Minister for Immigration:[/b] TBA
 [hr][b]Next Election Period: 25 October 2014[/b]
 
 [b]Security Category: [color=yellow]SC2. Heightened Security[/color][/b] 
 [hr][b][u]JUDICIARY[/u][/b]
 
 [b]Supreme Judge[/b]: [nation=shortname]Allied Engineers[/nation]
-[b]Regional Judge[/b]: [nation=shortname]Love Island[/nation]. 1 x position vacant
+[b]Regional Judges[/b]: [nation=shortname]Love Island[/nation] and [nation=shortname]Cesare Monticello[/nation]
 
 [b][u]CAPITAL CITY[/u][/b]
 

@@ -3,15 +3,7 @@
 [b][color=purple]News:
 Matriarch Luna has birthed a new species, now being called Verrae. The new species is heavily protected and researched at the Hive, all public and foreign interaction is illegal. Violators will be executed on sight.[/b]
 
-[b]Embassies:[/b]
-[region]Gravida[/region]
-[region]The Terran Rebel Base[/region]
-[region]The Second Empire of Arrakine[/region]
-[region]The Illuminati[/region]
-
-[b]Colonies:[/b]
-[nation]Luna Omega[/nation] in [region]The Second Empire of Arrakine[/region]
-[nation]The Hexen Colony[/nation] in [region]The Coalition of Governments[/region]
+[B]With the recent disappearance of Zytzev and the Terran colonies, and the unusual hibernation of the Vespan clusters, the Hive has now gone into a solitary state; putting it&amp;#39;s prized members into stasis, waiting to be awoken by outside intrusion in Lunan space.[/B]
 
 [b]Controlled Planets:[/b]
 Hexenar
@@ -28,5 +20,4 @@ Terra Nullius
 Terra Verillius
 Terra Kerane
 Terra Operum
-Terra Bollarus
-Veezier[/color]
+Terra Bollarus[/color]

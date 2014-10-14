@@ -3,9 +3,9 @@
 [b]Imperial Government[/b]
 
 [u]Imperator:[/u] [nation]Opiachus[/nation]
+[u]Consul:[/u] [nation]Cayasia[/nation]
 [u]Consul:[/u] Appointed
-[u]Consul:[/u] Appointed
-[u]Praetors:[/u] [nation=short+noflag]The Greco Emirates[/nation], [nation=short+noflag]Cayasia[/nation]
+[u]Praetors:[/u] [nation=short+noflag]The Greco Emirates[/nation]
 
 [b]Imperial Laws in Effect[/b]
 

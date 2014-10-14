@@ -1,14 +1,19 @@
-A Region where Nations that revere Tamriel may join and debate.
+A Region where Nations that revere Tamriel may join and debate. With there being 8 Provinces, and only 8 Nations may be in the Council, the High King&amp;#39;s vote will be the tie breaker.
 
 Provinces:
 
-Skyrim
-Cyrodiil
-High Rock
-Hammerfell
-Valenwood
-Summerset Isles
-Black Marsh
-Elsweyr
+Skyrim-[nation]Grand Skyrim[/nation]
+Cyrodiil-
+High Rock-
+Hammerfell-
+Valenwood-
+Summerset Isles-
+Black Marsh-
+Elsweyr-
 
-Work In Progress
+High King-[nation]Grand Skyrim[/nation]
+High King&amp;#39;s Advisor-
+Council of War-
+Council of Diplomacy-
+Council of Economy-
+Council of Foreign Affairs-
