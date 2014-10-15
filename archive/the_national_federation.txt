@@ -4,6 +4,6 @@
 
 [b]PRESIDENT:[/b] [nation=short]Vista Minor[/nation]
 [b]CHANCELLOR:[/b] OPEN
-[b]PRIME MINISTER:[/b] OPEN
+[b]PRIME MINISTER:[/b] [nation=short]Lathenburg[/nation]
 [b]CHIEF JUSTICE:[/b] OPEN
 (Message Vista Minor to fill in a open position. Nations in an office have a term of 50 DAYS)

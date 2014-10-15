@@ -14,12 +14,13 @@ A region of [color=#FF0000]C[/color][color=#FF6600]o[/color][color=blue]u[/color
 [hr]
 Regional Currency is the Liech. Please use it or you will be [b][u][color=#FF0000]Frowned[/color][/u][/b] upon.
 
-[color=#000066]Border[/color]: [u]Closed[/u] until the map is done
+[color=#000066]Border[/color]: [u]Open[/u]
 [hr]
 Current Wars:
-[color=#FF3300]Triangle Island[/color] - [nation]The Unite[/nation] VS [nation=short]Kingdom of the Northern Atlantic Isles[/nation]
-                       [nation=short]Money Money Money Money Money[/nation] VS [nation]Aroga[/nation]
-                                                [nation]Algunkwa[/nation] VS [nation=short]Panzkruppenvann[/nation]
+[color=#FF3300]Triangle Island[/color] - 
+[nation]The Unite[/nation] VS [nation=short]Kingdom of the Northern Atlantic Isles[/nation]
+[nation=short]Money Money Money Money Money[/nation] VS [nation]Aroga[/nation]
+[nation]Algunkwa[/nation] VS [nation=short]Panzkruppenvann[/nation]
 [hr]
 [b][i]Old Guard[/i][/b]
 [nation=short]Coain[/nation]

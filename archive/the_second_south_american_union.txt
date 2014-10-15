@@ -1,4 +1,4 @@
-[color=turquoise] ~ Buenos Dias ~[/color]
+[b] [color=turquoise] ~ Buenos Dias ~[/color] [/b]
 
 Welcome to our region, The South American Union. We are a thriving community, who are regularly looking for members to join. If you join our union, you will have access to;
 
@@ -14,5 +14,5 @@ Welcome to our region, The South American Union. We are a thriving community, wh
 
 President of the Cabinet ~ [nation]The Boliviaric Republic[/nation]
 Minister of the Interior ~ {Soon to be elected}
-
-[color=turquoise]~ Yours sincerely, The United Allied States of The Boliviaric Republic ~ [/color]
+Minister of External Affair ~ {Soon to be elected}
+Minister of Foreign Affairs ~ {Soon to be elected}

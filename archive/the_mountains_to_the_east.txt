@@ -1,8 +1,8 @@
 Delegate: Rafargle (placeholder)
-Nominees: Rafargle, Pladitunisia
+Nominees: Rafargle(votes:1), Pladitunisia(votes:2)
 General:
-Nominees: Zacklafia
+Nominees: Zacklafia(only candidate)
 Loremaster:
-Nominees: Bastion of Weaselkind
+Nominees: Bastion of Weaselkind(only candidate)
 Advisers:
-Nominees: Areluind, Kratopolis
+Nominees: Areluind, Kratopolis(only candidates)

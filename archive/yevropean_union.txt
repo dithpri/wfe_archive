@@ -1,9 +1,9 @@
 [i]The Yevropean Union is an international organisation created for and by the nations in the continent of Yevropa. The YU promotes the policies of peace, human rights, and free trade.[/i]
 [hr]
 
-[b]YU Status:[/b] [color=green]Peace[/color]
+[b]Threat Level:[/b] [color=blue]Moderate[/color]
 
-[b]Latest News:[/b] Yevropean Party wins UK Elections; immediately begins process of creating the Yevropean Union.
+[b]Latest News:[/b] [url=http://forum.nationstates.net/viewtopic.php?f=6&amp;amp;t=315670]YU nations share information on their local businesses.[/url]
 [hr]
 
 [b]Member States[/b]
@@ -11,7 +11,10 @@
 [nation]Great Slatain[/nation]
 [nation]Litwaczka[/nation]
 [nation]Maronia[/nation]
+[nation]New Gentia[/nation]
+[nation]Padaliya[/nation]
 [nation]Sutalia[/nation]
+[nation]Vassau[/nation]
 [hr]
 
 [b]Allies[/b]

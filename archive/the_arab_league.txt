@@ -3,13 +3,13 @@ The Arab League is a congregation of Arab Nations, serving as a superstate to co
 
 [B]SUPREME PRESIDIUM(Executive):[/B]
 Rais (Secretary General): [nation=short]Hatay[/nation]
-Wazir-e-Watan: [nation=short]Vacant[/nation]
-Wazir (Foreign Affairs): [nation=short]Salah Jahid[/nation]
+Wazir-e-Watan: [nation=short]Ceremonia[/nation]
+Wazir (Foreign Affairs): [nation=short]Salah Jadid[/nation]
 Wazir (Culture): [nation=short]Ummat-al-Islamiyah[/nation]
 
 [b]BALAT (Judiciary):[/b]
 Chief Hakim: [nation=short]Vacant[/nation]
 
 [b]SHURA LEAGUE COUNCIL( Legislature)[/b]:
-Chairman: [nation=short]Vacant[/nation]
-Members: [nation=short]Al-Ghata[/nation], [nation=short]Paki Arabia[/nation], [nation=short]Cernomia[/nation], [nation=short]Salah Jadid[/nation], [nation=short]Dressara[/nation], [nation=short]Falestine[/nation]
+Chairman: [nation=short]Paki Arabia[/nation]
+Members: [nation=short]Al-Ghata[/nation], [nation=short]Cernomia[/nation], [nation=short]Salah Jadid[/nation], [nation=short]Dressara[/nation], [nation=short]Falestine[/nation]
