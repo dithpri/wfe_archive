@@ -1,12 +1,12 @@
 We are dedicated to interacting with out members, through trade, elections and politics.  We hold elections every week for various positions.
 We also try to get our members involved in international politics and the world assembly.
 
-President:  [Wooden Fort]
-Delegate: [New Francesco].
-               Please endorse our current Delegate, [New Francesco]
+[color=blue]President[/color]:  [nation]Wooden Fort[/nation]
+[color=blue]Delegate[/color]: [nation]New Francesco[/nation].
+               Please endorse our current Delegate, [nation]New Francesco[/nation]
 
-Treasurer:  [Chrisutopia] 
+[color=blue]Treasurer[/color]:  [nation]Chrisutopia[/nation] 
 
-Allies: 
+[color=green]Allies[/color]: 
 
 We believe that all regions are sovereign states and deserve to be protected from invaders.  We will fight for our allies, big or small, and defend liberty.

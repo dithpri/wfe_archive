@@ -1,10 +1,7 @@
 
-[B][color=teal]Welcome to [region]The Royal Alliance[/region][/color][/B]
+[B][color=teal]Welcome to [region]The Royal Alliance[/region] a monarchy region.[/color][/B]
 
 [hr][B]Motto:[/B] [B][color=brown]God bless The Royal Alliance![/color][/B]
-
-[hr][B][u]Sovereign[/u][/B]
-[B][color=Blue]Governor-General: [nation=short]Lagrangian[/nation][/color][/B]
 
 [B][u]Executive[/u][/B] 
 [B][color=Blue]Prime Minister: [nation=short]The Confederation of Northern Germany[/nation][/color][/B]

@@ -1,12 +1,12 @@
 The commonwealth is back
 
 [b]King[/b]: [nation]The Great European Commonwealth[/nation]
-WA delegate/Prime Minister: [nation]Philipson 1[/nation]
+WA delegate/Prime Minister: [nation]Vacant[/nation]
 
 Deputy Prime Minister: [nation]Vacant[/nation]
-Minister of Foreign Affairs: [nation]Cianlandia[/nation]
-Minister of Commonwealth Affairs: [nation]Philipson 1[/nation]
-
+Minister of Foreign Affairs: [nation]Vacant[/nation]
+Minister of Commonwealth Affairs: [nation]Vacant[/nation]
+Chief Justice:[nation]Imperial Technocracy[/nation]
 Minister of Defence:[nation]Phay Kheyw[/nation]
 Special Forces Command: vacant
 Home Defence Minister:vacant

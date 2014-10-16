@@ -19,7 +19,7 @@
 Consort:
 
 [Color=blue]Prime Minister:[/color]
-[Nation=short]Munray[/nation]
+[Nation=short]Romano-Germanic Empire[/nation]
 
 [Color=brown]Deputy PM:[/color]
 [nation=short]Sillyton[/nation]
@@ -41,4 +41,4 @@ Councilmen of Interior:
 -]Spotlight:
 
 [hr][hr]
-[I]Every Nation is encouraged to join [color=green]WA[/color] and endorse our delagate[nation=short]Munray[/nation][/b][/I]
+[I]Every Nation is encouraged to join [color=green]WA[/color] and endorse our delagate[nation=short]Romano-Germanic Empire[/nation][/b][/I]
