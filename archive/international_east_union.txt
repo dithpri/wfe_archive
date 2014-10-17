@@ -24,18 +24,18 @@ Consort:
 [Color=brown]Deputy PM:[/color]
 [nation=short]Sillyton[/nation]
 
-Chief of Justice:
+Minister of Justice:
 [nation=short]Shikah[/nation]
 
 
-Councilman Foreign Affairs:
+Minister of Foreign Affairs:
 [Nation=short]Venta[/nation]
  
 
-Councilman of Defense:
- [nation=short]Romano-Germanic Empire[/nation]
+Minister of Defense:
+TBA
 
-Councilmen of Interior:
+Minister of the Interior:
 [nation=short]The First Carthage[/nation]
 [hr][hr]
 -]Spotlight:

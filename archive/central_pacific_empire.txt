@@ -8,7 +8,7 @@
 [b]Minister for Defence:[/b] [nation=shortname]Raindrop Valley[/nation] 
 [b]Minister for Justice:[/b] [nation=shortname]Cliffton[/nation] 
 [b]Minister for Foreign Affairs:[/b] [nation=shortname]Centralton[/nation]
-[b]Minister for Immigration:[/b] TBA
+[b]Minister for Immigration:[/b] [nation=shortname]Norton Island[/nation]
 [hr][b]Next Election Period: 25 October 2014[/b]
 
 [b]Security Category: [color=yellow]SC2. Heightened Security[/color][/b] 

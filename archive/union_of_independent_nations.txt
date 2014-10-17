@@ -18,9 +18,9 @@
 
 [nation]Eitusian[/nation]
 [nation]New Slatain[/nation]
-[nation]Nihon Kyowakoku[/nation]
 [nation]Ordorinia[/nation]
 [nation]Palatena[/nation]
+[nation]Quamunsia[/nation]
 [nation]Yuzan[/nation]
 [hr]
 
@@ -29,4 +29,4 @@
 [region]Yevropean Union[/region]
 [hr]
 
-[url=http://postimg.org/image/koko3ez9h/full/]World Map[/url] (7.10.14)
+[url=http://s24.postimg.org/k3io43n8z/Map.png]World Map[/url] (16.10.14)

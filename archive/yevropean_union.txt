@@ -8,6 +8,7 @@
 
 [b]Member States[/b]
 
+[nation]Castilea[/nation]
 [nation]Great Slatain[/nation]
 [nation]Litwaczka[/nation]
 [nation]Maronia[/nation]
@@ -22,4 +23,5 @@
 [region]Union of Independent Nations[/region]
 [hr]
 
-[url=http://s10.postimg.org/c6b7z2sqv/Map.png]World Map[/url] (7/10/2014)
+[url=http://s14.postimg.org/iyb77j329/YUMap.png]Yevropean Union Map[/url] (16/10/2014)
+[url=http://s24.postimg.org/k3io43n8z/Map.png]World Map[/url] (16/10/2014)
