@@ -4,17 +4,17 @@
 
 [hr][u][b]**Government**[/b][/u]
 
-[color=red][b]Supreme leader:[Nation]Socialist Federative Republic of Sornia[/nation]
-Prime minister:[nation]esch[/nation]
-Supreme commissar:[Nation]Thirania[/Nation]
-Minister of justice:[Nation]Contrapiz[/Nation]
-General secretary of the party:[Nation]The high prison[/nation]
-Marshal of the red army:[Nation]Volgeristan[/nation]
-Minister of foreign affairs:[Nation]Bronstovia[/nation]
-Minister of economy:[nation]the United cymir states[/nation][/b][/color]
+[b]Supreme leader:[Nation=short]Socialist Federative Republic of Sornia[/nation]
+Prime minister:[nation=short]esch[/nation]
+Supreme commissar:[Nation=short]Thirania[/Nation]
+Minister of justice:[Nation=short]Contrapiz[/Nation]
+General secretary of the party:[Nation=short]The high prison[/nation]
+Marshal of the red army:[Nation=short]Volgeristan[/nation]
+Minister of foreign affairs:[Nation=short]Bronstovia[/nation]
+Minister of economy:[nation=short]the United cymir states[/nation]
 
 [hr][u][b]**Treaties**[/b][/u]
 
-[*][b][i][url=http://www.nationstates.net/page=dispatch/id=275897]Treaty of the socialist union[/url][/i][/b]
+[*][b][i][url=http://www.nationstates.net/page=dispatch/id=275897]Treaty of the socialist union-Comintern[/url][/i][/b]
 [*][b][i][url=http://www.nationstates.net/page=dispatch/id=274505]Constitution of the USSR[/url][/i][/b]
 [*][b][i][url=http://www.marxists.org/]Marxism[/url][/i][/b]

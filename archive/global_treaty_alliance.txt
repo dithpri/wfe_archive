@@ -1,17 +1,23 @@
-[b][I][color=red][U]GLOBAL[/U] GOVERNMENT @ [U]LOCAL[/U] LEVEL !![/color][/b][/I]
+[b][I][color=red][U]GLOBAL[/U] GOVERNMENT @ [U]LOCAL[/U] LEVEL ![/color][/I]
 
-The [b][region]Global Treaty Alliance[/region] ( G.T.A. )[/b] is a [b]Security and Economic Treaty Alliance ( S.E.T.A. )[/b];
-whereby, all of the member states are required to provide protection and trade within the alliance.
+[nation]Goltzborg[/nation] Founder
+[nation]The GTA Ambassador At-Large[/nation] Envoy
 
-[b][nation]Goltzborg[/nation][/b] is the [b]Founding Nation[/b].
-
-Send Official Communiques&amp;#39; to: [b]commonwealth.government.mail@gmail.com[/b]
-
-[b]Member of the Month: [nation]Shangolia[/nation]
+Communiques&amp;#39;:  commonwealth.government.mail@gmail.com
 
 War Command: WarCom
+
 [nation]Rocket-And-Missile Command-RamCom[/nation]
+Military Governor [region]Global Treaty Alliance Eastern Region[/region]
+
 [nation]Submarine Command-SubCom[/nation]
+Military Governor [region]Global Treaty Alliance Central Region[/region]
+
 [nation]Sky Force Command-SkyCom[/nation]
+Military Governor [region]Global Treaty Alliance Western Region[/region]
+
 [nation]Army Command-ArmCom[/nation]
-[nation]Navy Command-NavCom[/nation][/b]
+Military Governor [region]Global Treaty Alliance Northern Region[/region]
+
+[nation]Navy Command-NavCom[/nation]
+Military Governor [region]Global Treaty Alliance Southern Region[/region][/b]

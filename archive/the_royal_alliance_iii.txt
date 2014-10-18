@@ -1,1 +1,7 @@
-S
+[color=red] King [/color][Nation=short]The Greenland of Russia[/nation]
+[color=red] Vice King [/color]:
+[color=Blue]Captain of Army[/color]:[nation=short]The US forces[/nation]
+[Color=Green]Ambassador[/color]:
+[Color=Green] Vice Ambassador[/color]:
+[Color=black]Great Member[/color]:[nation=short]Retnomelrosii[/nation] and [nation=short]The US forces 2[/nation]
+ 

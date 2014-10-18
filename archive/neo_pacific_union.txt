@@ -3,19 +3,18 @@ Welcome to Neo Pacific Union. This region was recreated after my CTE, and has si
 Prime Minister: [nation]Indian Empris Republic[/nation]
 President: [nation]Eggos[/nation]
 Vice President:
-[color=orange]Delegate[/color]:
-[color=orange]Vice Delegate[/color]:
+Delegate:
+Vice Delegate:
 Minister of Recruitment:
-[color=red]Minister of Foreign Affairs[/color]:
+Minister of Foreign Affairs:
 Minister of Defense:
 Treasury:
-[color=red]Legislature President[/color]:
+Legislature President:
 
 For an embassy, please Telegram [nation=short]Indian Empris Republic[/nation]
 
 [url=http://w11.zetaboards.com/Pacific_Union/index/]our offsite forums[/url] /[url=http://widget01.mibbit.com/?settings=9faa7c9e91b2eff4ee1d42a7ef312425&amp;amp;server=irc.Mibbit.Net&amp;amp;channel=%23PacificUnion]Chat[/url]
 
-[color=blue]Elections for Legislature President 3/19/14
-Elections for MOFA 4/1/14[/color]
+Elections coming soon!
 
 Please endorse President [nation=short]Eggos[/nation]
