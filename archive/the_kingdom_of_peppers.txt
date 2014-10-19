@@ -18,7 +18,7 @@ President:
 Minister of Foreign Affairs: 
 Minister of Defense: [nation]Terra Atlantica[/nation]
 Minister of Justice: 
-Minister of Immigration: 
+Minister of Immigration: [nation]Aterna[/nation]
 Minister of Agriculture or Peppers: 
 [hr]
 [b][url=http://w11.zetaboards.com/Kingdom_of_Peppers/index/]Regional Forum[/url][/b] [b]|[/b] [b][url=http://w11.zetaboards.com/Kingdom_of_Peppers/forum/4101446/]Elections[/url][/b]

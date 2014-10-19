@@ -1,8 +1,4 @@
-Delegate: Rafargle (placeholder)
-Nominees: Rafargle(votes:1), Pladitunisia(votes:2)
-General:
-Nominees: Zacklafia(only candidate)
-Loremaster:
-Nominees: Bastion of Weaselkind(only candidate)
-Advisers:
-Nominees: Areluind, Kratopolis(only candidates)
+Delegate: Pladitunisia
+General: Zacklafia
+Loremaster: Bastion of Weaselkind
+Advisers: Areluind, Kratopolis

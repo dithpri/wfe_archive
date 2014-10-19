@@ -2,10 +2,9 @@
 
 [nation]Goltzborg[/nation] Founder
 [nation]The GTA Ambassador At-Large[/nation] Envoy
+[nation]East Jermany[/nation] WA Member
 
-Communiques&amp;#39;:  commonwealth.government.mail@gmail.com
-
-War Command: WarCom
+WarCom: commonwealth.government.mail@gmail.com
 
 [nation]Rocket-And-Missile Command-RamCom[/nation]
 Military Governor [region]Global Treaty Alliance Eastern Region[/region]
