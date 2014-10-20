@@ -8,3 +8,6 @@
 [region]Zionist Empire[/region]
 [region]Grand Revolutionary Army[/region]
 [region]Utopian Argentina[/region]
+
+[b][u]Protectorates[/b][/u]
+[region]Dux Milan[/region]
