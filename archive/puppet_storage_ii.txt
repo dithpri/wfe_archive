@@ -1,8 +1,7 @@
-[B][color=orange]Welcome to Puppet Storage II![/color][/B]
-[color=orange][B]This is the place for anybody to dump their old puppets, or simply to store them for backup use.[/B][/color]
+[color=red][b]This region is a satellite region of [region=The Remnants of the Remnants]. If you wish to enter said region, please come here for routine disinfection first. This is in preparation for the zombie apocalypse.[/b][/color]
 
-[u][B][color=red]Raider puppets, however, must be declared on entry. Send a telegram declaring your identity to [nation=short]Soundtrack from how to train your dragon[/nation][/color][/B][/u]
+[b]Hazmat Team:
 
-
-[color=red][B]Thank You! Danke! Spasibo! Xie Xie Ni! Arigato! Merci! iGracias![/B][/color]
-
+[nation=Soundtrack from How to Train Your Dragon]
+[nation=Gonad]
+[nation=Nugut][/b]

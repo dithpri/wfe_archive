@@ -5,7 +5,7 @@
 [b][region]The Commonwealth of Australia[/region][/b]
 [region]The Union of South Africa[/region]
 [region]The Kingdom of Norway[/region]
-[b][region]The Kingdom of the Netherlands[/region][/b]
+[region]The Kingdom of the Netherlands[/region]
 [region]The Kingdom of Yugoslavia[/region]
 [b][region]The Union of Soviet Socialist Republics[/region][/b]
 [b][region]Reichskommissariat Ostland[/region][/b]

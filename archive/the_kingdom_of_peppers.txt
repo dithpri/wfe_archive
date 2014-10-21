@@ -11,15 +11,13 @@
 [*][b]This is the kingdom where [i]peppers[/i] flourish in every backyard garden. All you see are peppers and more peppers. [/b]
 [*][b]The official colors of this region are [color=red]Red[/color], [color=black]Black[/color], and [color=green]Green[/color]
 [/list]
-
 [hr]
 [color=green][b]The Government[/b][/color]
-President: 
+President: [nation]Hensinika[/nation]
 Minister of Foreign Affairs: 
 Minister of Defense: [nation]Terra Atlantica[/nation]
 Minister of Justice: 
 Minister of Immigration: [nation]Aterna[/nation]
-Minister of Agriculture or Peppers: 
 [hr]
 [b][url=http://w11.zetaboards.com/Kingdom_of_Peppers/index/]Regional Forum[/url][/b] [b]|[/b] [b][url=http://w11.zetaboards.com/Kingdom_of_Peppers/forum/4101446/]Elections[/url][/b]
 [hr]
