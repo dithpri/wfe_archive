@@ -5,7 +5,7 @@ Prime Minister: NONE
 Defense: NONE
 International Intelligence: NONE
 Internal Affairs: [nation=short]Ballurswag[/nation]
-Foreign Affairs:NONE
+Foreign Affairs:[nation=short]Pseudocholinesterase[/nation]
 Justice: [nation]Kitsco[/nation]
 Immigration: [nation=short]Supreme Oppressors[/nation]
 

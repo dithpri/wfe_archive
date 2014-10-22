@@ -1,4 +1,5 @@
 Welcome to the [region]The Arab League[/region]! We take great pride in our great victory against the Black Riders! 
+[b]Regional Government[/b]
 [b]Executive Branch[/b]
 [b]Secretary General: [/b][nation]Hatay[/nation]
 [b]Wazir (Foreign Affairs):[/b] [nation]Salah Jadid[/nation]
@@ -6,7 +7,7 @@ Welcome to the [region]The Arab League[/region]! We take great pride in our grea
 [b]Wazir (Culture):[/b] [nation]Ummat al-Islamiyah[/nation]
 [b]Legislative Branch[/b]
 [b]Chairman of the Chamber of Representatives:[/b] [nation]Paki Arabia[/nation]
-[b]Members of Chamber: NONE[/b]
+[b]Members of Chamber:[/b] [nation]Al-Ghata[/nation], [nation]Kharamajistan[/nation]
 [b]Judicial Branch:
 Chief Hakim: VACANT
 Secondary Judges: NONE[/b]

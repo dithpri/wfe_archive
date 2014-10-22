@@ -9,7 +9,9 @@
 [color=red]__[/color] [color=green]ZOMCON 4[/color] [color=red]__[/color]
 [color=red]-&amp;gt;[/color] [color=blue]ZOMCON 5[/color] [color=red]&amp;lt;-[/color]
 [hr]
-[color=sepia]Extermination:[/color] [nation=short+noflag]craziemon[/nation]|
+[color=amber] [b]We will be founding some environment agencies to help us defend against the upcoming zombie attack. [/b] [/color]
+[hr]
+[color=sepia]Extermination:[/color] [nation=short+noflag]craziemon[/nation]|[nation=short+noflag]poland 123[/nation]|
 [color=Cyan]Cure:[/color] [nation=short+noflag]Virutech[/nation]|[nation=short+noflag]I11umin4ti[/nation]|
 [hr]
 [b] [color=blue]Long live The Oracle![/color] [/b]

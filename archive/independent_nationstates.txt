@@ -1,8 +1,6 @@
-[color=red][b]This region has been taken by the imperial army of [region]The Imperial Storm Trooper Legion[/region][/color][/b]
+[b][color=red]This region has been refounded by [region=Red Armor], the soldiers more dangerous than the night!  Victory is ours once again![/color]
 
-[b][color=red]This region was reduced to a ocean of flames by the following imperial troops[/color][/b]
+With the natives vanquished, we can celebrate!  Our barracks can be found [url=http://redarmor.webs.com]here.[/url]
 
-[b][nation=short]The Imperial Storm Trooper[/nation][/b]
-[b][nation=short]Asian Confederation[/nation][/b]
-
-[b]With Special Thx to [nation=short]Vandoosa[/nation] of the [region]Glorious Nations of Iwaku[/region] for her support[/b]
+[color=maroon]Marching through the region were the following soldiers:
+[nation=short]Inaga[/nation][/b][/color]

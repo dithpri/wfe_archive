@@ -10,8 +10,8 @@ Ambassadors:
 [hr]
 Embassies:
 [region]The Illuminati[/region] [color=orange]&amp;lt;In Progress&amp;gt;[/color]
+[region]The Communist Legion[/region] [color=orange]&amp;lt;In Progress&amp;gt;[/color]
 [color=grey]Awaiting Confirmation:[/color]
-[region]The Communist Legion[/region]
 [region]Desert[/region]
 [hr]
 Timezone:
