@@ -11,7 +11,7 @@
 [hr]
 [color=amber] [b]We will be founding some environment agencies to help us defend against the upcoming zombie attack. [/b] [/color]
 [hr]
-[color=sepia]Extermination:[/color] [nation=short+noflag]craziemon[/nation]|[nation=short+noflag]poland 123[/nation]|
-[color=Cyan]Cure:[/color] [nation=short+noflag]Virutech[/nation]|[nation=short+noflag]I11umin4ti[/nation]|
+[color=sepia]Extermination:[/color] [nation=short+noflag]craziemon[/nation]|[nation=short+noflag]poland 123[/nation]|[nation=short+noflag]area-77341[/nation]|
+[color=Cyan]Cure:[/color] [nation=short+noflag]Virutech[/nation]|[nation=short+noflag]I11umin4ti[/nation]|[nation=short+noflag]CDCP[/nation]|[nation=short+noflag]HERC[/nation]|
 [hr]
 [b] [color=blue]Long live The Oracle![/color] [/b]

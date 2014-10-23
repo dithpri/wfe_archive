@@ -1,1 +1,11 @@
-[b]Welcome to Nova Tero.[/b]
+Regional Government:
+------------------------------
+
+[color=red]President:[/color]
+[color=blue]President Advisor:[/color]
+[color=purple]Vice President:[/color]
+
+[color=orange]Prime Minister:[/color]
+[color=green]Prime Minister Advisor:[/color]
+[color=black]Vice Prime Minister:[/color]
+[b]_____________________________[/b]

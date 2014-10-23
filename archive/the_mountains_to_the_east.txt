@@ -1,4 +1,6 @@
-Delegate: Pladitunisia
-General: Zacklafia
-Loremaster: Bastion of Weaselkind
-Advisers: Areluind, Kratopolis
+Delegate: [nation]Pladitunisia[/nation]
+General: [nation]Zacklafia[/nation]
+Loremaster: [nation]the Bastion of Weasel kind[/nation]
+Advisers: [nation]Areluind[/nation], [nation]New Kratopolis[/nation]
+
+[url=http://mountainstotheeast.freeforums.net/]Link to Forum[/url]
