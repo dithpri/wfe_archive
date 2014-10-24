@@ -16,6 +16,7 @@
 [nation]Czervenika[/nation]
 [nation]Pribaltika[/nation]
 [nation]Somstratzka[/nation]
+[nation]Transnitia[/nation]
 [nation]Zeledia[/nation]
 [hr]
 
@@ -27,7 +28,6 @@
 
 [b]Allied Nations[/b]
 
-[nation]Ahrana[/nation]
 [nation]Canakhstan[/nation]
 [nation]Navedia[/nation]
 [nation]Titovka[/nation]

@@ -9,8 +9,9 @@ Ambassadors:
 [color=steel]Available[/color]
 [hr]
 Embassies:
-[region]The Illuminati[/region] [color=orange]&amp;lt;In Progress&amp;gt;[/color]
+[region]The Illuminati[/region]
 [region]The Communist Legion[/region] [color=orange]&amp;lt;In Progress&amp;gt;[/color]
+[region]Ivory Tower[/region] [color=orange]&amp;lt;In Progress&amp;gt;[/color]
 [color=grey]Awaiting Confirmation:[/color]
 None
 [hr]
@@ -24,7 +25,7 @@ Threat Level:
 [color=steel]No Threat[/color]
 [hr]
 Suspended Nations:
-[nation]The New Republic Of Gingers[/nation] for [color=Red]&amp;lt;24 Hours&amp;gt;[/color]
+None
 [hr]
 News:
 [color=blue]&amp;lt;Oct. 20, 2014&amp;gt;[/color]
@@ -33,4 +34,6 @@ News:
 ~Map production has been postponed until further notice.
 ~Threat Level Indicator introduced to region.
 ~Nation Suspension introduced to region.
+[color=blue]&amp;lt;Oct. 23, 2014&amp;gt;[/color]
+~Prepare yourselfs for the apocalypse! It&amp;#39;s only 7 days away!
 [hr][/b]

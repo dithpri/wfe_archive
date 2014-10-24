@@ -1,11 +1,1 @@
-[b][color=darkorange]PVM Land:
-[region]The Protectorate of Versus Militia[/region] - Main Land
-[region]Archipelagos of Kiribati[/region] - Paradise
-[region]PVM Military HQ[/region] - Military Camp
-
-In battle the following raiders rode:
-[nation]Versus Militia[/nation]
-[nation]H20myass[/nation]
-[nation]UN Sloths[/nation]
-[nation]Theudo[/nation]
-[/color][/b]
+[b][color=#0080bf]Refounded by [region]The Protectorate of Versus Militia[/region].[/color][/b]

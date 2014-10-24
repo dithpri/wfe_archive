@@ -4,4 +4,17 @@ The Commonwealth Police Department is run by the [region]Commonwealth of Free Na
 
 Established by [url=http://www.nationstates.net/nation=the_lord-chancellor/detail=factbook/id=309118#Cop]Parliament Law 18: CFN-State Police Department[/url].
 
-[b]Chief of Police:[/b] [nation=short]The Silver Bloods[/nation]
+[list][b]Chief of Police:[/b]
+[nation=short]The Silver Bloods[/nation]
+
+[b]Deputy Chief of Police:[/b]
+[nation=short]Jaslandia[/nation]
+
+[b]Associate Chief of Police:[/b]
+[nation=short]Ruclax[/nation]
+
+[b]Commander of Police:[/b]
+[nation=short]Liberated Democratic Republics[/nation]
+
+[b]Colonels:[/b]
+None[/list]

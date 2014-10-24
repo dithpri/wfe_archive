@@ -14,7 +14,7 @@
 [hr]
 [color=green][b]The Government[/b][/color]
 President: [nation]Hensinika[/nation]
-Minister of Foreign Affairs: 
+Minister of Foreign Affairs: [nation]Eilare[/nation] 
 Minister of Defense: [nation]Terra Atlantica[/nation]
 Minister of Justice: 
 Minister of Immigration: [nation]Aterna[/nation]

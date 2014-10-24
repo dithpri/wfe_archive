@@ -1,23 +1,20 @@
 Welcome to New Caelondia.
 
-[u]Power Blocs[/u]
-
-[b]Alliance for Democracy[/b]
+[b]Atlantic Pact[/b]
 [nation]Astoria[/nation]
 [nation]New Natalia[/nation]
 [nation]Felania[/nation]
-[nation]Voroniya[/nation]
 
-[b]Atlantic Pact[/b]
-[nation]Emporea[/nation]
+[b]Conservative Bloc[/b]
 [nation]Congaree[/nation]
+[nation]Emporea[/nation]
 
-[b]New Internationale[/b]
-[nation]Rusanyia[/nation]
+[b]The Rogues Gallery[/b]
 [nation]Comorostan[/nation]
+[nation]Revolutionary Proletarian Soviets[/nation]
 
 [u]Regional News[/u]
 
--Islamic People&amp;#39;s Army of Liberation claims responsibility for terror attack in [nation]New Natalia[/nation]
--Alliance for Democracy warns [nation]Rusanyia[/nation] against &amp;quot;non-democratic&amp;quot; annexation of Baltania
--Atlantic Pact forces from [nation]Emporea[/nation] and [nation]Congaree[/nation] to begin assisting Cuban military in fight against communist insurgency
+-Atlantic Pact begins intervention in Gilan to end government sponsorship of Islamist terrorism 
+-[nation]Comorostan[/nation] issues condemnation of Gilan intervention
+-Unconfirmed reports suggest riots in major cities in [nation]Emporea[/nation] over poor living standards
