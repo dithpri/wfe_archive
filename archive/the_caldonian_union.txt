@@ -10,7 +10,7 @@ Ambassadors:
 [hr]
 Embassies:
 [region]The Illuminati[/region]
-[region]The Communist Legion[/region] [color=orange]&amp;lt;In Progress&amp;gt;[/color]
+[region]The Communist Legion[/region]
 [region]Ivory Tower[/region] [color=orange]&amp;lt;In Progress&amp;gt;[/color]
 [color=grey]Awaiting Confirmation:[/color]
 None

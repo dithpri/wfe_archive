@@ -1,36 +1,37 @@
 [b]Alert Level:[/b] [color=blue]DEFSTAT 4[/color]
 
-[b]Latest News:[/b] [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=314850]Socialist security conference[/url] in Al-Kapija, [nation=short]Yorkopolis[/nation].
+[b]Latest News:[/b] [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=314850]Socialist security conference[/url] in Al-Kapija, [nation=short+noflag]Yorkopolis[/nation].
 [hr]
 
 [b]Federal Socialist Republics[/b]
 
-[nation]Krasniya[/nation]
-[nation]Ruapekapeka[/nation]
+[url=/nation=krasniya][color=cc0000]Krasniyan FSR[/color][/url]
+[url=/nation=ruapekapeka][color=cc0000]Ruapekapekan FSR[/color][/url]
 [hr]
 
 [b]Socialist Republics[/b]
 
-[nation]Belakras[/nation]
-[nation]Biel-Tan[/nation]
-[nation]Czervenika[/nation]
-[nation]Pribaltika[/nation]
-[nation]Somstratzka[/nation]
-[nation]Transnitia[/nation]
-[nation]Zeledia[/nation]
+[url=/nation=belakras][color=cc0000]Belokrasniyan SR[/color][/url]
+[url=/nation=czervenika][color=cc0000]Czervenikan SR[/color][/url]
+[url=/nation=pribaltika][color=cc0000]Pribaltikan SR[/color][/url]
+[url=/nation=somstratzka][color=cc0000]Somstratzkan SR[/color][/url]
+[url=/nation=biel-tan][color=cc0000]Tanian SR[/color][/url]
+[url=/nation=transnitia][color=cc0000]Transnitian SR[/color][/url]
+[url=/nation=zeledia][color=cc0000]Zeledian SR[/color][/url]
 [hr]
 
 [b]Workers&amp;#39; States[/b]
 
-[nation]Zakavkazye[/nation]
-[nation]Zinacantlan[/nation]
+[url=/nation=zakavkazye][color=cc0000]Zakavkaziyan WS[/color][/url]
+[url=/nation=zinacantlan][color=cc0000]Zinacantlani WS[/color][/url]
 [hr]
 
 [b]Allied Nations[/b]
 
-[nation]Canakhstan[/nation]
-[nation]Navedia[/nation]
-[nation]Titovka[/nation]
+[url=/nation=canakhstan][color=0000cc]Democratic Republic of Canakhstan[/color][/url]
+[url=/nation=navedia][color=0000cc]Holy State of Navedia[/color][/url]
+[url=/nation=titovka][color=0000cc]Federal Republic of Titovka[/color][/url]
+[url=/nation=chobenia][color=0000cc]Republic of Chobenia[/color][/url]
 [hr]
 
 [url=http://s24.postimg.org/k3io43n8z/Map.png]World Map[/url] (16/10/14)

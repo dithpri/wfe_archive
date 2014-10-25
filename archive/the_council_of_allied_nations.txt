@@ -5,4 +5,7 @@ General of Imperial Army of Allied Nations (IAAN): [nation]The Skandia Isles[/na
 General of Militia: [nation]SeattleNinja007[/nation]
 Recruiter: [nation]Spirit-Dove[/nation]
 Prime Minister:[nation]SovietSparta[/nation]
-President:[nation]The Skandia Isles[/nation][/color]
+President:[nation]The Skandia Isles[/nation]
+Minister of Defense: [nation]The Skandia Isles[/nation]
+Ambassador to [region]Tyrceria[/region]: [nation]SovietSparta[/nation]
+Ambassador to [region]Armed Forces Of All[/region]:[nation]Seattleninja007[/nation][/color]

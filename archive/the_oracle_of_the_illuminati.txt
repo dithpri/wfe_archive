@@ -9,9 +9,11 @@
 [color=red]__[/color] [color=green]ZOMCON 4[/color] [color=red]__[/color]
 [color=red]-&amp;gt;[/color] [color=blue]ZOMCON 5[/color] [color=red]&amp;lt;-[/color]
 [hr]
-[color=amber] [b]We will be founding some environment agencies to help us defend against the upcoming zombie attack. [/b] [/color]
+[color=teal]The Extermination Team will be sent out to struggling nations as soon as a cure has been developed and there are no more zombies left in the region.[/color]
 [hr]
-[color=sepia]Extermination:[/color] [nation=short+noflag]craziemon[/nation]|[nation=short+noflag]poland 123[/nation]|[nation=short+noflag]area-77341[/nation]|
+[color=amber]Extermination Team[/color][color=Firebrick] &amp;gt;Ready&amp;lt;[/color]
+[color=cyan]Cure Team[/color][color=Firebrick] &amp;gt;Cure Undeveloped&amp;lt;[/color]
+[color=sepia]Extermination Team:[/color] [nation=short+noflag]craziemon[/nation]|[nation=short+noflag]poland 123[/nation]|[nation=short+noflag]area-77341[/nation]|
 [color=Cyan]Cure:[/color] [nation=short+noflag]Virutech[/nation]|[nation=short+noflag]I11umin4ti[/nation]|[nation=short+noflag]CDCP[/nation]|[nation=short+noflag]HERC[/nation]|
 [hr]
 [b] [color=blue]Long live The Oracle![/color] [/b]

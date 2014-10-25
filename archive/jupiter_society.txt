@@ -13,7 +13,7 @@ Rules will be enforced brutally:
 [b]Senator of The Treasury:[/b]
 [b]Senator of Law:[/b]
 [b]Senator of Stocks:[/b]
-[b]Senator of Recruitment:[/b]
+[b]Senator of Recruitment:[/b][nation]Conor Finan[/nation]
 [b]Senator of Foreign Intelligence:[/b][nation]3 point[/nation]
 
 
