@@ -4,6 +4,8 @@ The Commonwealth Police Department is run by the [region]Commonwealth of Free Na
 
 Established by [url=http://www.nationstates.net/nation=the_lord-chancellor/detail=factbook/id=309118#Cop]Parliament Law 18: CFN-State Police Department[/url].
 
+[hr]
+
 [list][b]Chief of Police:[/b]
 [nation=short]The Silver Bloods[/nation]
 
@@ -17,4 +19,12 @@ Established by [url=http://www.nationstates.net/nation=the_lord-chancellor/detai
 [nation=short]Liberated Democratic Republics[/nation]
 
 [b]Colonels:[/b]
-None[/list]
+[nation=short]Republic City Police[/nation]
+[nation=short]Lavan Tiri[/nation]
+[nation=short]Vista Major[/nation][/list]
+
+[hr]
+
+[url=http://cfnforums.cf/home/techkids/public_html/discussion/95/legality-of-police-custody-and-power]Legality of Police Custody and Power Bill[/url]
+
+[url=http://cfnforums.cf/home/techkids/public_html/discussion/93/legal-solidification-of-the-cfn-detention-center-or-the-lsdc]Detention Center Bill[/url]

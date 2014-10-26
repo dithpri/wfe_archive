@@ -4,8 +4,17 @@ Regional Government:
 [color=red]President:[/color][nation=short]The Barbradian Republic[/nation]
 [color=blue]Vice President:[/color][nation=short]Ravon[/nation]
 
-[color=blue]Chancellor:[/color][nation=short]Community of Free peoples[/nation]
-[color=red]Vice Chancellor:[/color]
+[color=blue]Chancellor:[/color][nation=short]Yuketobaniac[/nation]
+[color=red]Vice Chancellor:[/color][nation=short]Stone Cuaron[/nation]
 
 -----------------------------------
-The House of Lords (upper house):
+The House of Lords (upper house): High Duchy: [nation=short]Commonwealth of Hank the Cat[/nation]
+Major Lord: [nation=short]Archeuland and Baughistan[/nation]
+Minor Lord:[nation=short]None[/nation]
+Lord-In-Training: [nation=short]Rusha 2[/nation]
+---------------------------------------------------------------------------------------------------------------------
+Others:
+Secretary: [nation=short]Franklin and Jefferson[/nation] 
+General of the Army: [nation=short]Commonwealth of Hank the Cat[/nation] Lieutenant of the Army:[nation=short]Franklin and Jefferson[/nation]
+Court Jester[nation=short]Community of free peoples[/nation] 
+

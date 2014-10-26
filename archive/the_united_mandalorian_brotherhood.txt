@@ -1,11 +1,13 @@
+[color=Red][FULL REGIONAL LOCKDOWN IN PROGRESS. MARTIAL LAW IS IN EFFECT. BORDERS ARE CLOSED TO ALL ARRIVALS UNLESS UNDER SPECIAL CIRCUMSTANCES.][/color]
+
 From the ashes of [region]The United Study Group[/region] and [region]The Remnants of The United Study Group[/region], [region]The United Mandalorian Brotherhood[/region] will rise! We give hope to the hopeless and a home to the homeless. Our goal is to bring light where there is darkness, and to restore the peace where there is chaos.
 
 [b]Current DEFCON level:[/b]
-[color=Maroon][b]1[/b] - Regional Lockdown[/color]
+[color=Maroon][b][1][/b] - Regional Lockdown[/color]
 [color=Red][b]2[/b] - Conflict[/color]
 [color=Yellow][b]3[/b] - Escalated[/color]
 [color=Blue][b]4[/b] - Guarded[/color]
-[color=Green][b][5][/b] - Peace[/color]
+[color=Green][B]5[/B] - Peace[/color]
 
 [b][u]CITIZENS:[/u] [color=red]
 Mandalorians

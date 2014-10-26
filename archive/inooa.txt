@@ -8,3 +8,10 @@ Code Yellow = tense
 Code Red = war/invasion
 
 Region is currently [color=blue]Code Blue[/color]
+
+[b][color=#CC0000]Warning to all nations! 
+[nation=noflag]Saburtier[/nation] has brought to our attention a possible zombie epidemic. 
+
+Nations [nation=noflag]Kaligra[/nation], [nation=noflag]Lasuerta[/nation], [nation=noflag]Weirdnessia[/nation] may remember a similar epidemic in 2012. 
+
+As always, good luck to all nations. We will keep you posted on the events of this epidemic.[/color][/b]

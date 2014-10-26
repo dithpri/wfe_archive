@@ -6,10 +6,10 @@
 Dont you just love being in peace?
 [hr][b]WA Delegate:[nation=short+noflag]Regica[/nation]
 Minister of foreign Affairs:Open
-Minister of Interior Affairs:Open
-Minister of Defense:Open
+Minister of Interior Affairs:[nation=short+noflag]Villeron[/nation]
+Minister of Defense:Election underway
 Minister of Recruitment:[nation=short+noflag]The Oman[/nation]
-Minister of Justice:Open
+Minister of Justice:[nation=short+noflag]Rapture novice[/nation]
 Minister of Reports:Open[/b][hr]We currently do not have any merged regions.
 [hr]Visit the Website[url=http://regionormene.webs.com/]Regional Website[/url][hr]Goal:20 nations
 [hr]You should use the  [url=http://goo.gl/vBSUlL]NationStates++ Addon[/url][hr]
