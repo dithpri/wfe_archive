@@ -7,14 +7,27 @@ Regional Government:
 [color=blue]Chancellor:[/color][nation=short]Yuketobaniac[/nation]
 [color=red]Vice Chancellor:[/color][nation=short]Stone Cuaron[/nation]
 
------------------------------------
-The House of Lords (upper house): High Duchy: [nation=short]Commonwealth of Hank the Cat[/nation]
-Major Lord: [nation=short]Archeuland and Baughistan[/nation]
-Minor Lord:[nation=short]None[/nation]
-Lord-In-Training: [nation=short]Rusha 2[/nation]
----------------------------------------------------------------------------------------------------------------------
-Others:
-Secretary: [nation=short]Franklin and Jefferson[/nation] 
-General of the Army: [nation=short]Commonwealth of Hank the Cat[/nation] Lieutenant of the Army:[nation=short]Franklin and Jefferson[/nation]
-Court Jester[nation=short]Community of free peoples[/nation] 
+
+The House of Lords (upper house): 
+-----------------------------------------
+
+[color=purple]High Duchy:[/color][nation=short]Commonwealth of Hank the Cat[/nation]
+[color=red]Major Lord:[/color] [nation=short]North Libya[/nation]
+[color=orange]Minor Lord:[/color][nation=short]New Vandoosa[/nation]
+[color=black]Court Jester:[/color][nation=short]Community of free peoples[/nation]
+The House of Commons (Lower House):
+---------------------------------------------
+
+[color=blue]High MP:[/color]
+[color=red]Major MP:[/color]
+[color=purple]Minor MP:[/color]
+[color=black]Brugh MP:[/color]
+
+Ministers (Jobs only for the Lords):
+----------------------------------------------
+
+[color=orange]Minister of Transport:[/color]
+[color=blue]Minister of Culture:[/color]
+[color=red]Minister of International Affairs:[/color]
+[color=purple]Minister of Science:[/color]
 

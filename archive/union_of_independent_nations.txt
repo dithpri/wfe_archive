@@ -17,7 +17,6 @@
 [b]Member Nations[/b]
 
 [nation]Eitusian[/nation]
-[nation]New Slatain[/nation]
 [nation]Ordorinia[/nation]
 [nation]Palatena[/nation]
 [nation]Quamunsia[/nation]
@@ -29,4 +28,4 @@
 [region]Yevropean Union[/region]
 [hr]
 
-[url=http://s24.postimg.org/k3io43n8z/Map.png]World Map[/url] (16.10.14)
+[url=http://s30.postimg.org/b66qk2i4f/Map.png]World Map[/url] (26.10.14)

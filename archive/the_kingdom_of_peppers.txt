@@ -1,6 +1,6 @@
 [b]WELCOME TO [color=green]THE[/color][color=red] KINGDOM[/color] [color=green]OF PEPPERS[/color][/b]
 
-[color=green][b]Endorsement Cap:[/b][/color][color=red][i] 4 [/color][/i]
+[color=green][b]Endorsement Cap:[/b][/color][color=red][i] 5 [/color][/i]
 [b][color=green]Endorse your WA Delegate:[/color][/b][color=black][nation]The Empire of the Demon Lords[/nation][/color]
 
 
@@ -18,5 +18,5 @@ Minister of Foreign Affairs: [nation]Eilare[/nation]
 Minister of Defense: [nation]Terra Atlantica[/nation]
 Minister of Justice: 
 Minister of Immigration: [nation]Aterna[/nation]
-Minister of Agriculture of Peppers: 
+Minister of Agriculture of Peppers: [nation]Rath Rhinoth[/nation] 
 

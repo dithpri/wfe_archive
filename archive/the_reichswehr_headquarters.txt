@@ -28,10 +28,8 @@
 
 [hr]
 
-[b]Reich Chancellor:[/b] [nation]Scansinia Reich[/nation]
+[b]Reich Chancellor:[/b] [nation]Scansinia[/nation]
 
-[b]Reich&amp;#39;s Deputy (CEO):[/b] [nation]Naswan[/nation]
+[B]Kommander of the Reichswehr:[/B] [nation]Ranil[/nation]
 
-[b]Kommander of the Reichswehr:
-
-Kommander of the Freikorps:[/B] [nation]The Tisatlan Clan[/nation]
+[B]Kommander of the Freikorps:[/B] [nation]Swartzwind[/nation]

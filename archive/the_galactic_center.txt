@@ -10,9 +10,11 @@ CoFounder - [nation=noflag]Coriban[/nation]
 
 [i]The Galactic Center, a region of systems, nations, and civilizations. The stars are our course.[/i]
 
+[hr]
+
 [B][i]&amp;quot;Brotherhood, strength, and fortitude...in the face of the angry night.&amp;quot;[/B][/i]
 
-[B]Four Days[/B] until virus outbreak.
+[B][u]Three Days[/B][/u] until virus outbreak.
 
 All nations are required to research a cure immediately when the outbreak occurs. 
 Be prepared, [nation]The Imperium Collectives[/nation] will be directing the management of the crisis.
