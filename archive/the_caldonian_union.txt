@@ -11,31 +11,28 @@ Ambassadors:
 Embassies:
 [region]The Illuminati[/region]
 [region]The Communist Legion[/region]
-[region]Ivory Tower[/region] [color=orange]&amp;lt;In Progress&amp;gt;[/color]
+[region]Ivory Tower[/region]
 [color=grey]Awaiting Confirmation:[/color]
-None
-[hr]
-Timezone:
-[color=stele]EDT (Eastern Daylight Time)[/color]
-[hr]
-Map:
-[color=red]&amp;lt;Prodution Postponed&amp;gt;[/color]
+[region]United Nations of North[/region]
 [hr]
 Threat Level:
-[color=steel]No Threat[/color]
+[color=red]DEFCON 1-Red Alert (Severe)[/color]
+[color=orange]DEFCON 2-Orange Alert (High)[/color]
+&amp;gt;[color=neonyellow]DEFCON 3- Yellow Alert (Elevated)[/color]&amp;lt;
+[color=blue]DEFCON 4-Blue Alert (Guarded)[/color]
+[color=green]DEFCON 5-Green Alert (Low)[/color]
 [hr]
 Suspended Nations:
 None
 [hr]
+Apocalyptic Status:
+[color=green]SAFE[/color]
+[hr]
 News:
-[color=blue]&amp;lt;Oct. 20, 2014&amp;gt;[/color]
-~Help create the Record Book by becoming a citizen!
-[color=blue]&amp;lt;Oct. 22, 2014&amp;gt;[/color]
-~Map production has been postponed until further notice.
-~Threat Level Indicator introduced to region.
-~Nation Suspension introduced to region.
-[color=blue]&amp;lt;Oct. 23, 2014&amp;gt;[/color]
-~Prepare yourselfs for the apocalypse! It&amp;#39;s only 7 days away!
-[color=blue]&amp;lt;Oct. 25, 2014&amp;gt;[/color]
-~Brace yourselfs! Apocalypse is less than 5 days away!
+[color=blue]&amp;lt;Oct. 27, 2014&amp;gt;[/color]
+~Anti-Zombie Walls and Defenses are being built to defend the region from the apocalypse.
+~Apocalypse is 3 days away!
+~Map production canceled. Not enough spare time to create.
+~Threat Level Indicator upgraded.
+~New Status Indicator introduced for apocalypse.
 [hr][/b]

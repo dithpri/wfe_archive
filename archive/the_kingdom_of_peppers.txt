@@ -19,4 +19,5 @@ Minister of Defense: [nation]Terra Atlantica[/nation]
 Minister of Justice: 
 Minister of Immigration: [nation]Aterna[/nation]
 Minister of Agriculture of Peppers: [nation]Rath Rhinoth[/nation] 
+Assistant to Ministers: 
 

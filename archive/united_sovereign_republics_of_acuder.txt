@@ -1,5 +1,5 @@
 Regional Government:
----------------------------
+[b]__________________[/b]
 
 [color=red]President:[/color][nation=short]The Barbradian Republic[/nation]
 [color=blue]Vice President:[/color][nation=short]Ravon[/nation]
@@ -9,14 +9,14 @@ Regional Government:
 
 
 The House of Lords (upper house): 
------------------------------------------
+[b]______________________________[/b]
 
 [color=purple]High Duchy:[/color][nation=short]Commonwealth of Hank the Cat[/nation]
 [color=red]Major Lord:[/color] [nation=short]North Libya[/nation]
 [color=orange]Minor Lord:[/color][nation=short]New Vandoosa[/nation]
-[color=black]Court Jester:[/color][nation=short]Community of free peoples[/nation]
+
 The House of Commons (Lower House):
----------------------------------------------
+[b]___________________________________[/b]
 
 [color=blue]High MP:[/color]
 [color=red]Major MP:[/color]
@@ -24,10 +24,15 @@ The House of Commons (Lower House):
 [color=black]Brugh MP:[/color]
 
 Ministers (Jobs only for the Lords):
-----------------------------------------------
+[b]________________________________[/b]
 
-[color=orange]Minister of Transport:[/color]
-[color=blue]Minister of Culture:[/color]
-[color=red]Minister of International Affairs:[/color]
-[color=purple]Minister of Science:[/color]
+[color=orange]Minister of Transport:[/color][nation=short]North Libya[/nation]
+[color=red]Minister of International Affairs:[/color][nation=short]Commonwealth of hank the cat[/nation]
+[color=purple]Minister of Science:[/color][nation=short]new vandoosa[/nation]
+
+Regional Disputes:
+[b]________________[/b]
+
+[url=http://forum.nationstates.net/viewtopic.php?ns=1&amp;amp;f=23&amp;amp;t=317645]Acuderian House of Lords Disputes[/url]
+[url=http://forum.nationstates.net/viewtopic.php?f=23&amp;amp;t=317646]Acuderian House of Commons Disputes[/url]
 

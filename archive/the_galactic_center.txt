@@ -1,7 +1,7 @@
 [i]Iunctus Stamus, Pugnamus , nos Vincere[/i]
 
-Founder - [nation=noflag]The Imperium Collectives[/nation]
-CoFounder - [nation=noflag]Coriban[/nation]
+Founder - [nation=short+noflag]The Imperium Collectives[/nation]
+CoFounder - [nation=short+noflag]Coriban[/nation]
 
 -Regional [url=https://www.nationstates.net/nation=the_imperium_collectives/detail=factbook/id=302706]Rules[/url]-
 -Regional [url=https://www.nationstates.net/page=dispatch/id=290887]Council[/url]-
@@ -14,7 +14,7 @@ CoFounder - [nation=noflag]Coriban[/nation]
 
 [B][i]&amp;quot;Brotherhood, strength, and fortitude...in the face of the angry night.&amp;quot;[/B][/i]
 
-[B][u]Three Days[/B][/u] until virus outbreak.
+[B][u]Three Days[/B][/u] until virus outbreak reaches global scale.
 
 All nations are required to research a cure immediately when the outbreak occurs. 
 Be prepared, [nation]The Imperium Collectives[/nation] will be directing the management of the crisis.
