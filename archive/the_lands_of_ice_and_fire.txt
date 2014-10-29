@@ -1,15 +1,15 @@
-[b][region]The Lands of Ice and Fire[/region][/b] are a [b][u][color=blue]SPOILER HEAVY WORLD[/color][/u][/b] composed of at least three continents ([b]Westeros, Essos,[/b] and [b]Sothoryos[/b]), a large landmass ([b]Ulthos[/b]), and a number of many smaller islands. None of the four major landmasses have been completely mapped.
+[b][region]The Lands of Ice and Fire[/region][/b] are a [b][u][color=blue]SPOILER HEAVY WORLD[/color][/u][/b] composed of at least three continents ([b][color=red]Westeros[/color], [color=red]Essos[/color],[/b] and [b][color=red]Sothoryos[/color][/b]), a large landmass ([b][color=red]Ulthos[/color][/b]), and a number of many smaller islands. None of the four major landmasses have been completely mapped.
 
-[b][region]The Lands of Ice and Fire[/region][/b] were founded by [b]George R.R. Martin[/b]: [b][nation=short]The Warden of the North[/nation][/b]
+[b][region]The Lands of Ice and Fire[/region][/b] were founded by: [b][nation=short]The Warden of the North[/nation][/b], [b][nation=short]Feather Drakes[/nation][/b] and [b][nation=short]Thanagor[/nation][/b].
 
-[b][region]The Lands of Ice and Fire[/region][/b] are currently ruled by the [b]King of the Andals and the First Men[/b]: N/A
+[b][region]The Lands of Ice and Fire[/region][/b] are currently ruled by the [b][color=red]King of the Andals, the Rhoynar and the First Men[/color], [color=blue]Lord of the Seven Kingdoms[/color] and [color=chartreuse]Protector of the Realm[/color][/b]: N/A
 
-[b]The King of the Andals and the First Men[/b] has the following [b]Small Council[/b]:
+The [b][color=crimson]Small Council[/color][/b] currently has the following members:
 
-[b]Hand of the King[/b]: N/A
-[b]Lord Commander of the Kingsguard[/b]: N/A
-[b]Master of coin[/b]: N/A
-[b]Master of laws[/b]: N/A
-[b]Master of whisperers[/b]: N/A
-[b]Master of ships[/b]: N/A
-[b]Grand Maester[/b]: N/A
+[b][color=brown]Hand of the King[/color][/b]: N/A
+[b][color=gold]Lord Commander of the Kingsguard[/color][/b]: N/A
+[b][color=darkgreen]Master of coin[/color][/b]: N/A
+[b][color=darkred]Master of laws[/color][/b]: N/A
+[b][color=gainsboro]Master of whisperers[/color][/b]: N/A
+[b][color=cyan]Master of ships[/color][/b]: N/A
+[b][color=purple]Grand Maester[/color][/b]: N/A

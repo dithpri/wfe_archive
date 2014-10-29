@@ -1,4 +1,4 @@
-[b]Threat Level:[/b] [color=red][b]1[/b][/color]
+[b]Threat Level:[/b] [color=green][b]3[/b][/color]
 [hr]
 [I]&amp;quot;Sovereignty over submission.&amp;quot;[/I]
 [b]-Nagol Belhakes, first Tsar of Davincia[/b]
@@ -7,10 +7,10 @@
 Current WA Delegate: [nation]Isaciaria[/nation]
 U.C.S.R. President: [nation]Venhalmuj[/nation]
 Military Force: [nation]Decenada[/nation]
-Geographer: [nation]Multiaria[/nation]
+Geographer: 
 Regional Affairs Manager: [nation]Northern Davincia[/nation]
 
-[color=teal][b]Regional Status:[/b][/color] [color=red][b]War[/b][/color]
+[color=teal][b]Regional Status:[/b][/color] [color=red][b]Repair[/b][/color]
 
 [hr]
 [url=http://oi61.tinypic.com/b4agzs.jpg] Orbis Map (Constant)[/url]

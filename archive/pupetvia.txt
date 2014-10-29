@@ -1,0 +1,1 @@
+Puppet Storage. Used to store puppets for Liberation forces.

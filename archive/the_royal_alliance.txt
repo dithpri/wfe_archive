@@ -5,11 +5,11 @@
 
 [B][u]Sovereign[/u][/B] 
 [B][color=Blue]Governor-General: [nation=short]Lagrangian[/nation][/color][/B]
-[B][color=Blue]Delegate/Assistant Governor: TBT[/color][/B]
+[B][color=Blue]Assistant Governor: [nation=short]The Confederation of Northern Germany[/nation][/color][/B]
 
 [B][u]Executive[/u][/B] 
-[B][color=Blue]Prime Minister: [nation=short]The Confederation of Northern Germany[/nation][/color][/B]
-[B][color=Blue]Deputy Prime Minister: [nation=short]New Hirizionburg[/nation][/color][/B]
+[B][color=Blue]Prime Minister: [nation=short]New Hirizionburg[/nation][/color][/B]
+[B][color=Blue]Deputy Prime Minister: Vacant Intel after elections![/color][/B]
 [B][color=Blue]Justice Minister: [nation=short]Wuzzburg[/nation][/color][/B]
 
 [B][u]Parliament[/u][/B]
@@ -19,4 +19,4 @@
 
 [hr][B][url=http://members.boardhost.com/theroyalalliance/]Regional Headquarters [/url] | [url=http://www.nationstates.net/nation=lagrangian/detail=factbook/id=316403]TRA Regional Map[/url] |[url=http://forum.nationstates.net/viewtopic.php?f=15&amp;amp;t=243404]Check out NS++[/url] | [url=http://nseconomy.thirdgeek.com/nseconomy.php?region=the+royal+alliance]NS Economy[/url] |   [url=http://members.boardhost.com/theroyalalliance/msg/1409832345.html]Constitution[/url] | [url=http://www.youtube.com/watch?v=uYeHEBAbwXs]Regional Anthem[/url][/B]
 
-[hr][B]Endorsement Cap:[/B] [B][color=Red]Unlimited![/color] [/B]
+[hr][B]Endorsement Cap:[/B] [B][color=Red]Unlimited![/color][/B] - [B]WA Members: [color=Red]41[/color][/B]

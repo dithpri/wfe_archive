@@ -1,15 +1,5 @@
 The UEG has three factions within it the UEG its self, which heads all administrative and governmental issues, And the UNSC who are in charge of all military issues. And then of course the infamous ONI.
-[color=brass]UEG MEMBERS[/color]
-[color=brass]President:[/color] 
-[color=brass]Head Councilor:[/color][nation=short]Alegeharia[/nation]
-[color=brass]Other Members:[/color][nation=short]Sarnak[/nation][nation=short]Milkolopilis[/nation]
-[color=gold]UNSC Members[/color]
-[color=gold]Head of HIGHCOM:[/color][nation=short]Falconmont[/nation]
-[color=gold]Head of FLEETCOM:
-Head of UNICOM:[/color][nation=short]Sith assassins[/nation]
-[color=gold]Other Members:[/color]
-[color=silver]Director of ONI:[/color][nation=short]Jereathiel of Jedmathia[/nation]
-[color=silver]Other Members:[/color]
-
-[url=http://chatwing.com/chatbox/e0c2c6b3-1cd1-4700-bf91-69a577c59684]UEG Council[/url]
-[url=http://chatwing.com/chatbox/44b7bc92-a713-4805-9977-06e0b607bc3f]UNSC Council[/url]
+[color=gold]UEG MEMBERS[/color]
+[color=silver]President:[/color] 
+[color=brass]Senate:[/color]
+[color=grey]Other Members:[/color][nation=short]Milkolopilis[/nation][nation=short]Falconmont[/nation][nation=short]Alegeharia[/nation][nation=short]Sith assassins[/nation][nation=short]Jereathiel of Jedmathia[/nation]
