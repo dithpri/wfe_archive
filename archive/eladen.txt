@@ -15,7 +15,7 @@ Armed: 153rd
 Police: 545th
 Aggression: 48th
 
-Economy: 46th
+Economy: 32nd
 Auto, Fishing, Insurance, Cheese: [b][color=orange]5th[/b][/color]
 Retail, Basket: [b][color=orange]6th[/b][/color]
 Timber, Agriculture: [b][color=orange]7th[/b][/color]
@@ -23,7 +23,8 @@ Manufacturing, Beverage: [b][color=orange]8th[/b][/color]
 Arms: [b][color=orange]9th[/b][/color]
 Furniture: [b][color=orange]10th[/color][/b]
 Mining: 11th
-IT, Gambling, Publishing: 15th
+IT: 14th
+Gambling, Publishing: 15th
 Employment: 80th
 
 [I][b][color=red][u]#1 in NationStates[/u][/color][/b][/I]

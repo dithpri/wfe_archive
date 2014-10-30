@@ -2,7 +2,7 @@ Welcome to the [region]The Arab League[/region]! We take great pride in our grea
 [b]Regional Government[/b]
 [b]Executive Branch[/b]
 [b]Secretary General: [/b][nation]Hatay[/nation]
-[b]Wazir (Foreign Affairs): VACANT[/b] 
+[b]Wazir (Foreign Affairs):[/b] [nation]The Levant of Zion[/nation]
 [b]Wazir-e-Watan:[/b] [nation]Cernomia[/nation]
 [b]Wazir (Culture):[/b] [nation]Ummat al-Islamiyah[/nation]
 [b]Legislative Branch[/b]
@@ -13,3 +13,4 @@ Chief Hakim: VACANT
 Secondary Judges: NONE[/b]
 [b]Military[/b]
 [b]Field Marshal:[/b] [nation]Salah Jadid[/nation]
+[b]Divisional Commanders:[/b] [nation]Paki Arabia[/nation]

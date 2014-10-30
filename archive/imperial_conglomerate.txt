@@ -1,4 +1,6 @@
 [b]Imperial Conglomerate Senate[/b]
+[b][color=red]WARNING: PANDEMIC ALERT LEVEL RAISED TO FOUR (Evidence of incoming pandemic)[/color][/b]
+[b][color=red]PANDEMIC RESPONSE DIVISION TEAMS DEPLOYED TO AFFECTED AREAS, INFECTION CONTAINED![/color][/b]
 
 [hr]
 
@@ -9,8 +11,7 @@ Councilman || Tomislav Bukovski, [nation=short]xacor[/nation]
 [b]General Assembly:[/b]
 President || (TO BE ELECTED)
 Senator of Foreign Affairs || (TO BE ELECTED)
-Senator of Security and Intelligence || (TO BE ELECTED)
-
+Senator of Security and Intelligence || Corax, [nation=short]ghrond[/nation]
 [hr]
 
 [b]Legislations:[/b]
