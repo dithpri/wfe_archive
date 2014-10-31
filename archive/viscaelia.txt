@@ -1,10 +1,26 @@
-[b][color=#000061]Huzzah! Huzzah! Huzzah! This region proved no match for a charge by [region=The Black Riders]![/color]
+[color=crimson][b][u]Bowshock Update[/u][/b][/color]
 
-[color=black]Occupied by [url=http://www.youtube.com/watch?v=qB1kp9adYYE]The Black Riders[/url]! Our lair can be found [/color] [url=http://s4.zetaboards.com/The_Black_Riders/index/]here[/url]
+[b][color=red]THREAT DETECTED[/color]
+Type: [color=red]Biological[/color]
+Subjects: [color=red]Infected[/color]
+Current Locations: [color=red][/b][/color]
 
-[color=#000061]Into the battle rode the following riders:[/color]
-[nation=short]General Halcones[/nation]
-[nation=short]Aurum Rider[/nation]
-[nation=short]Lord Nuke is so kewl[/nation]
-[nation=short]Great kleomentia[/nation]
-[/b]
+[color=yellow][!][/color][color=gray]:./error.[/color][color=red][b]BUFFER_OVERFLOW[/color][/b]
+[b]
+Status: [color=red]SPREADING[/color]
+Action Requested: [color=Green]Research Cure[/color]
+
+[color=crimson][u]Generated Predictions[/u][/b][/color]
+[color=red]Mass Casualty Event: 99.490%
+Overrun: 15.397%
+Collapse: 33.743%
+Cure: 70.562%
+Ravirus Collapse: 69.997%
+Originality Collapse: 79.987%[/color]
+[color=blue]Operational Relevance: 75.032%[/color]
+
+[b][Color=red]Estimated Casualties: 765,000,000[/b][/color]
+[hr]
+
+
+[i]threat ID no. - 3553257040801862645L;[/i]

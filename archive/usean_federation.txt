@@ -6,4 +6,4 @@ Interior Minister: [nation]Southern Acharastan[/nation]
 Foreign Minister:[nation]Acharastan[/nation]
 Defense Minister:[nation]Tsarist Chernigov[/nation]
 Economic Minister:[nation]Waldreich[/nation]
-President of the Senate:
+President of the Senate:[nation]Firewind[/nation]

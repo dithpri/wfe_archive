@@ -7,11 +7,15 @@ Code Blue = peaceful
 Code Yellow = tense
 Code Red = war/invasion
 
-Region is currently [color=blue]Code Blue[/color]
+Region is currently [color=red]Code Red[/color]
 
 [b][color=#CC0000]Warning to all nations! 
-[nation=noflag]Saburtier[/nation] has brought to our attention a possible zombie epidemic. 
+Zombie hordes have been seen around the world. While Inooa is already infected, regional borders have been closed to slow the spread.
+Here is each nation&amp;#39;s current action during this zombie attack:
 
-Nations [nation=noflag]Kaligra[/nation], [nation=noflag]Lasuerta[/nation], [nation=noflag]Weirdnessia[/nation] may remember a similar epidemic in 2012. 
+[nation=short]Saburtier[/nation] = Exterminate
+[nation=short]Lasuerta[/nation] = Cure
+[nation=short]Kaligra[/nation] = Cure
+[nation=short]Weirdnessia[/nation] = Exterminate
 
-As always, good luck to all nations. We will keep you posted on the events of this epidemic.[/color][/b]
+We will keep you updated as things progress.[/color][/b]

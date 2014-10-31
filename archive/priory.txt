@@ -9,3 +9,4 @@ Minister of Foreign Affairs: [nation]Confiteous[/nation]
 Minister of Justice: [nation]Tuvalu-Gazi of the Islands[/nation]
 Special Advisor to the Iron Fists: [nation]Schakastan[/nation]
 Radio: [nation]Priory Radio[/nation]
+Zombies: Zombies
