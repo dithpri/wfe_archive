@@ -32,7 +32,7 @@ Minister of Foreign Affairs:
  
 
 Minister of Defense:
-TBA
+[nation=short]Skoro[/nation]
 
 Minister of the Interior:
 [nation=short]The First Carthage[/nation]

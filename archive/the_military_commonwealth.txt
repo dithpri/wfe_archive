@@ -1,7 +1,7 @@
-[B][i]King: [nation]The Great European Commonwealth[/nation]
-WA Delegate/Prime Minister: [nation]Theoniatium[/nation]
+[B][i]King: [nation=short]The Great European Commonwealth[/nation]
+WA Delegate/Prime Minister: [nation=short]Theoniatium[/nation]
 
-Minister of Defence: Vacant
+Minister of Defence: [nation=short]Celter[/nation]
 Minister of Role Play: Vacant
 Minister of Justice: Vacant[/i][/b] 
 

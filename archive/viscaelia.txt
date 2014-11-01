@@ -3,24 +3,20 @@
 [b][color=red]THREAT DETECTED[/color]
 Type: [color=red]Biological[/color]
 Subjects: [color=red]Infected[/color]
-Current Locations: [color=red][/b][/color]
+Current Locations: [color=red][/b]
 
-[color=yellow][!][/color][color=gray]:./error.[/color][color=red][b]BUFFER_OVERFLOW[/color][/b]
+Facility 43[/color]
 [b]
-Status: [color=red]SPREADING[/color]
-Action Requested: [color=Green]Research Cure[/color]
+Status: [color=gray]Neutralized[/color]
+Action Requested: [color=Green]N/A[/color]
 
 [color=crimson][u]Generated Predictions[/u][/b][/color]
-[color=red]Mass Casualty Event: 99.490%
-Overrun: 15.397%
-Collapse: 33.743%
-Cure: 70.562%
-Ravirus Collapse: 69.997%
-Originality Collapse: 79.987%[/color]
-[color=blue]Operational Relevance: 75.032%[/color]
+[color=red]
+Cure: 100.000%[/color]
+[color=blue]Operational Relevance: 05.020%[/color]
 
-[b][Color=red]Estimated Casualties: 765,000,000[/b][/color]
+[b][Color=red]Estimated Casualties: 0[/b][/color]
 [hr]
 
 
-[i]threat ID no. - 3553257040801862645L;[/i]
+[i]threat ID no. - 3553257040801862645L; (2014, Cured)[/i]

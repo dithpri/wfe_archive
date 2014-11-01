@@ -1,13 +1,13 @@
 [color=green]The Inooa Free Trade Agreement is active.[/color] 
 
-[b][color=darkblue]Aliens sighted over [nation=noflag]Saburtier[/nation].[/color][/b]
+[b][color=darkblue]Aliens sighted over [nation=noflag]Saburtier[/nation] and [nation=noflag]Kaligra[/nation].[/color][/b]
 [b]Alien interaction currently = [color=blue]Code Blue[/color][/b]
 
 Code Blue = peaceful
 Code Yellow = tense
 Code Red = war/invasion
 
-Region is currently [color=red]Code Red[/color]
+Region is currently [color=yellow]Code Yellow[/color]
 
 [b][color=#CC0000]Warning to all nations! 
 Zombie hordes have been seen around the world. While Inooa is already infected, regional borders have been closed to slow the spread.
@@ -16,6 +16,7 @@ Here is each nation&amp;#39;s current action during this zombie attack:
 [nation=short]Saburtier[/nation] = Exterminate
 [nation=short]Lasuerta[/nation] = Cure
 [nation=short]Kaligra[/nation] = Cure
-[nation=short]Weirdnessia[/nation] = Exterminate
+[nation=short]Weirdnessia[/nation] = Exterminate[/color][/b]
 
-We will keep you updated as things progress.[/color][/b]
+
+[b][color=#CC9900]The Inooa region is currently zombie free, thanks to the cure efforts of Kaligra and Lasuerta, and the extermination efforts of Saburtier and Weirdnessia.[/color][/b]

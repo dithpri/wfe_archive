@@ -4,8 +4,8 @@ President:[nation=LOBH26]
 Vice-President:n/a
 Congress:n/a
 Chief Minister:n/a
-Minister of Information:n/a
+Minister of Information:[nation]Survivors of Arcadia[/nation]
 The Minister of Culture:n/a
 The Minister Of Communications:n/a
 Immigration Minister:n/a
-Minister of Defense:n/a
+Minister of Defense:[nation]Survivors of Arcadia[/nation]

@@ -19,11 +19,4 @@ Threat Level:
 [color=neonyellow]DEFCON 3- Yellow Alert (Elevated)[/color]
 [color=blue]DEFCON 4-Blue Alert (Guarded)[/color]
 [color=green]DEFCON 5-Green Alert (Low)[/color]
-[hr]
-Apocalyptic Status:
-[color=neonyellow]UNDER ATTACK[/color]
-[hr]
-News:
-[color=blue]&amp;lt;[/color][color=red]DATE UNKNOWN[/color][color=blue]&amp;gt;[/color]
-~[color=red]WARNING! ALL CITIZENS ARE URGED TO STAY WITHIN THE SAFETY OF THEIR HOMES. THIS REGION IS NOW LOCKED DOWN. THE C.D.C. HAS BEGUN RESEARCHING A CURE FOR THIS VIRUS.[/color]
 [hr][/b]
