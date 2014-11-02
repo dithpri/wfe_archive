@@ -6,7 +6,7 @@ A founder military force of [region]The United Imperial Armed Forces[/region].[/
 
 [hr][hr]
 
-K&ouml;nig: [nation=short]Cerebella[/nation]
+K&ouml;nig-Consort: [nation=short]Harshhaven[/nation]
 Minister-President: [nation=short]Romberg[/nation]
 
 [hr][hr]

@@ -1,4 +1,4 @@
-[b]Threat Level:[/b] [color=green][b]3[/b][/color]
+[b]Threat Level:[/b] [color=blue][b]5[/b][/color]
 [hr]
 [I]&amp;quot;Sovereignty over submission.&amp;quot;[/I]
 [b]-Nagol Belhakes, first Tsar of Davincia[/b]
@@ -7,7 +7,7 @@
 Current WA Delegate: [nation]Isaciaria[/nation]
 U.C.S.R. President: [nation]Venhalmuj[/nation]
 Military Force: [nation]Decenada[/nation]
-Geographer: 
+Geographer: [nation]Reserka[/nation]
 Regional Affairs Manager: [nation]Northern Davincia[/nation]
 
 [color=teal][b]Regional Status:[/b][/color] [color=red][b]Repair[/b][/color]

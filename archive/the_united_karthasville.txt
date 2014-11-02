@@ -1,7 +1,7 @@
-All new nations that are World Assembly members must endorse our regional delegate.
+[b]All new nations that are World Assembly members must endorse our regional delegate.[/b][nation]Zapharus Inc[/nation]
 
 
-                                 President: [The Kathisville overseas territories]
-Secretary of Finacial Affairs: [Zapharus Inc]
-      Secretary of Foreign Affairs: [Karthasville]
-      Secretary of Internal Affairs: [Free Saltonia]
+                                 [u]President:[/u] [nation]The Kathisville overseas territories[/nation]
+[u]Secretary of Defense:[/u] [nation]Zapharus Inc[/nation]
+      [u]Secretary of Foreign Affairs:[/u] [nation]Karthasville[/nation]
+      [u]Secretary of Internal Affairs:[/u] [nation]Free Saltonia[/nation]

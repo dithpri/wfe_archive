@@ -1,21 +1,20 @@
 [color=crimson][b][u]Bowshock Update[/u][/b][/color]
 
-[b][color=red]THREAT DETECTED[/color]
 Type: [color=red]Biological[/color]
 Subjects: [color=red]Infected[/color]
-Current Locations: [color=red][/b]
+Current Locations: [color=red]
 
 Facility 43[/color]
 [b]
 Status: [color=gray]Neutralized[/color]
 Action Requested: [color=Green]N/A[/color]
 
-[color=crimson][u]Generated Predictions[/u][/b][/color]
+[color=crimson][u]Outcome[/u][/b][/color]
 [color=red]
-Cure: 100.000%[/color]
-[color=blue]Operational Relevance: 05.020%[/color]
+Cured[/color]
+[color=blue]No Operational Relevance[/color]
 
-[b][Color=red]Estimated Casualties: 0[/b][/color]
+[b][Color=red]Casualties: 235,348[/b][/color]
 [hr]
 
 
