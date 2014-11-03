@@ -1,4 +1,2 @@
-[b][color=red]This region has been declared occupied territory of [region]The Communist Region[/region] after a successful practice raid conducted by:[/color]
-
-[color=black]General[/color] [nation]Lipno[/nation]
-[color=black]Private[/color] [nation]Urzistan[/nation][/b]
+[b][color=#00FFFF]This Region is an Inseparable Part of [/color][/b][region=Turkic Union]
+[b][color=#00FFFF]Governor General [/color][/b][nation=Republic of Kazakstan]

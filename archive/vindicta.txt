@@ -1,1 +1,5 @@
-a
+Vindicta is a secretive organization of people who wish to destroy their enemies through fear and terror. One day soon we will prevail!
+
+General: [nation=short]Vindicta General[/nation]
+Colonel:
+Lieutenants: [nation=short]The New United Britsh Empire[/nation]

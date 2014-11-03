@@ -1,5 +1,22 @@
-[u]Nintendo Subspace[/u]
+[color=scarlet][B]Nintendo Subspace[/B][/color]
 
-[B]Now you&amp;#39;re playing with power.[/B]
+[color=scarlet][i][B]Now you&amp;#39;re playing with power.[/B][/i][/color]
+
+[u]Federation Government[/u]
+King: [nation=short]Master Hand[/nation]
+Royal Steward: VACANT
+Chancellor: VACANT
+Chief Justice: VACANT
+
+[u]Constituent Regions[/u]
+[region]Bowsers Castle[/region] [color=red](Representing the Mario series)[/color]
+[region]Rogueport[/region] [color=crimson](Representing the Paper Mario series)[/color]
+[region]Kingdom of Hyrule[/region] [color=green](Representing the Legend of Zelda series)[/color]
+[region]Zebes[/region] [color=orange](Representing the Metroid Series)[/color]
+[region]Donkey Kong Island[/region] [color=brown](Representing the Donkey Kong series)[/color]
+[region]Lylat[/region] [color=blue](Representing the Star Fox series)[/color]
+[region]Pokemon League[/region] [color=red](Representing[/color] [color=blue]The[/color] [color=silver]Pok&eacute;mon[/color] [color=gold]Series)[/color]
+
+
 
 Under Construction. Questions? Contact [nation=short]Applebania[/nation]!

@@ -3,7 +3,6 @@
 [u][B][color=green]News[/color][/B][/u]
 
 -[B]Currently seeking new nations to join our ranks![/B]
--[B]First elections to be held: [color=red]November 2 to November 10![/color][/B]
 -[B]Borders Re-Opened![/B]
 
 [u][B][color=green]Regional Government[/color][/B][/u]
@@ -13,5 +12,5 @@
 [color=gold][b]Recruiters:[/b][/color] None yet
 [color=red][b]Supreme Court:[/b][/color] None yet
 [b]Defense Minister:[/b] Vacant
-[color=gold][b]Ambassador:[/b] [/color]Vacant
+[color=gold][b]Ambassador:[/b] [/color][nation]Narishanka[/nation]
 
