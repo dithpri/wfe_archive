@@ -3,8 +3,8 @@ WA Delegate/Prime Minister: [nation=short]Theoniatium[/nation]
 
 Minister of Defence: [nation=short]Celter[/nation]
 Minister of Role Play: Vacant
-Minister of Justice: Vacant[/i][/b] 
+Minister of Justice: [nation]SP Rebellion[/nation]
 
-[color=red][b]NEWS[/color]: [color=blue]New Constitution Adopted | Theoniatium Elected Prime Minister | Work on the Military Begins[/b][/color]
+[color=red][b]NEWS[/color]: [color=blue]New Constitution Adopted | OATO Membership | SP Rebellion declared Minister of Justice[/b][/color]
 
 

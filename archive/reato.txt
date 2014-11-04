@@ -8,6 +8,7 @@ Members:
 -[region]The Federal Islands[/region]
 -[region]Yerfilag[/region]
 -[region]Open Set[/region]
+-[region]Aeldorin[/region]
 
 Observers:
 -[region]The Hyatt Islands[/region]

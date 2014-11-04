@@ -16,9 +16,9 @@ Minister of Foreign Affairs: [nation=short]Torvalyn[/nation]
 Minister of Culture: [nation=short]Alpacanzia[/nation]
 [hr]
 [b]The VII High Court[/b]
-Chief Justice: [nation=short]San Monteriano[/nation]
-Justice: [nation=short]The Two Exalted Kingdoms[/nation]
-Justice: [nation=short]Macawi[/nation]
+Chief Justice: TBD
+Justice: TBD
+Justice: TBD
 [hr]
 [b]Regional Departments[/b]
 Cartographer: [nation=short]Herzangia[/nation]

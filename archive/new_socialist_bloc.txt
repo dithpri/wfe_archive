@@ -11,6 +11,5 @@
 [B]Premier: [/B]Vacant
 [color=gold][b]Recruiters:[/b][/color] None yet
 [color=red][b]Supreme Court:[/b][/color] None yet
-[b]Defense Minister:[/b] Vacant
+[b]Defense Minister:[/b] [nation]The West Sunderlands[/nation]
 [color=gold][b]Ambassador:[/b] [/color][nation]Narishanka[/nation]
-

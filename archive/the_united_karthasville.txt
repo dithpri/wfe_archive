@@ -1,7 +1,10 @@
 [b]All new nations that are World Assembly members must endorse our regional delegate.[/b][nation]Zapharus Inc[/nation]
+________________________________________________________________________________________________________________
 
-
-                                 [color=red][u][b]President:[/b][/u][/color] [nation]The Kathisville overseas territories[/nation]
-[color=blue][u][b]Vice President:[/b][/u][/color] [nation]Zapharus Inc[/nation]
+[color=grey][b]The United Karthasville Ruling Political Party Members[/b][/color]
+                                
+ [color=red][b]President:[/b][/color] [nation]The Kathisville overseas territories[/nation]
+[color=blue][b]Vice President:[/b][/color] [nation]Zapharus Inc[/nation]
       [u]Secretary of Foreign Affairs:[/u] [nation]Karthasville[/nation]
       [u]Secretary of Internal Affairs:[/u] [nation]Free Saltonia[/nation]
+[u]Secretary of Finance[/u] [nation]The Long Red Line[/nation]

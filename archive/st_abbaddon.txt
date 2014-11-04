@@ -2,7 +2,7 @@ We are one of the oldest regions.  We have been here since the earliest days, th
 
 Ministers:
 Prime Minister: NONE
-Defense: NONE
+Defense: [nation=short]Almoe[/nation]
 International Intelligence: NONE
 Internal Affairs: [nation=short]Ballurswag[/nation]
 Foreign Affairs:[nation=short]Pseudocholinesterase[/nation]
