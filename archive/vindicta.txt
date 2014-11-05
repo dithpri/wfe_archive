@@ -2,4 +2,4 @@ Vindicta is a secretive organization of people who wish to destroy their enemies
 
 General: [nation=short]Vindicta General[/nation]
 Colonel:
-Lieutenants: [nation=short]The New United Britsh Empire[/nation]
+Lieutenants: [nation=short]The New United Britsh Empire[/nation] [nation=short]Winld[/nation]

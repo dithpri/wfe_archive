@@ -21,7 +21,7 @@ The House of Commons (Lower House):
 [color=blue]High MP:[/color]
 [color=red]Major MP:[/color]
 [color=purple]Minor MP:[/color]
-[color=black]Brugh MP:[/color]
+[color=black]Brugh MP:[/color] [nation]new vandoosa[/nation]
 
 Ministers (Jobs only for the Lords):
 [b]________________________________[/b]

@@ -1,1 +1,8 @@
-A few neighboring countries
+[b][color=blue][u]The House of Winter[/u][/color][/b]
+          Mascot: [nation]Italiasa[/nation]
+          Members:[list][*][nation]Thoncania[/nation][*][nation]Italiasa[/nation][/list]
+[b][color=grey][u]The House of Wolves[/u][/color][/b]
+          Mascot:[nation]Wanden Reich[/nation]
+          Members:[list][*][nation]The Empire of Masyaf[/nation][*][nation]Awesamness[/nation][*][nation]Wanden Reich[/nation][/list]
+[b][color=green][u]The House of Exile[/u][/color][/b]
+          Mascot: [nation]Umbrella Beach[/nation]

@@ -1,13 +1,12 @@
 [b][color=blue]=[/color][color=red]=[/color][color=blue]=[/color][region]The Utopia of Supremacy[/region][color=blue]=[/color][color=red]=[/color][color=blue]=[/color][/b]
 
 [b][color=green]Recent Updates:[/color][/b]
-[color=red][i]11/3/2014:[/i] Embassies with [region]The Caldonian Union[/region] has begun![/color]
-[color=red][i]11/3/2014:[/i] New flag and factbook![/color]
+[color=red][i]11/4/2014:[/i] New region flag![/color]
 
 [b][color=green]Current Defense Readiness Condition:[/color][/b]
 [color=#0404B4]DEFCON: 5[/color] 
-[color=#04B404]DEFCON: 4[/color] &amp;lt;
-[color=#AEB404]DEFCON: 3[/color]
+[color=#04B404]DEFCON: 4[/color] 
+[color=#AEB404]DEFCON: 3[/color] &amp;lt;
 [color=#B40404]DEFCON: 2[/color]
 [color=#E6E6E6]DEFCON: 1[/color]
 
@@ -18,3 +17,7 @@
 [color=red][i]Current:[/i][/color]
 
 [color=red][i]Relinquished:[/i][/color]
+
+[b][color=green]Military:[/color][/b]
+[color=red][i]Nation with Nuclear Launch Codes:[/i][/color]
+- [nation]Swyndale[/nation]
