@@ -1,9 +1,9 @@
-[Color=Darkblue][b]==REQUESTING AID FROM ALL RESERVE FORCES==
-==PLEASE RESPOND IMMEDIATELY==[/b][/color]
-[hr]
 Founder:
 [nation]New Ridgewood[/nation]
 Founded in Oct. 2014
+[hr]
+Recent Activity:
+[color=blue]Successfully Defended [region]Colonies of Caraway[/region] From [region]The Black Riders[/region]![/color]
 [hr]
 Delegate:
 [color=steel]Available[/color]

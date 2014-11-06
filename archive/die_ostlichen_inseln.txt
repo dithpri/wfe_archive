@@ -1,7 +1,7 @@
-Current Situation: [color=blue]Defcon 5[/color]
+Current Situation: [color=lime]Defcon 3[/color]
 To the southeast of [region]Die Nord Reichweite[/region].
 Internal Affairs Minister: [nation]Gespenster Afrika Korps[/nation]
-External Affairs Minister: [nation]The Khaos Empier[/nation]
+External Affairs Minister: [position open]
 Admin: [nation]Hammond Industries[/nation]
 WA Delegate: [nation]Demiter[/nation]
 

@@ -1,10 +1,10 @@
-[B][i]King: [nation=short]The Great European Commonwealth[/nation]
+[B]King: [nation=short]The Great European Commonwealth[/nation]
 WA Delegate/Prime Minister: [nation=short]Theoniatium[/nation]
 
 Minister of Defence: [nation=short]Celter[/nation]
-Minister of Role Play: Vacant
-Minister of Justice: [nation]SP Rebellion[/nation]
+Minister of Role Play: [nation=short]Imperial Technocracy[/nation]
+Minister of Justice: [nation=short]SP Rebellion[/nation]
 
-[color=red][b]NEWS[/color]: [color=blue]New Constitution Adopted | OATO Membership | SP Rebellion declared Minister of Justice[/b][/color]
+[color=red]NEWS[/color]: [color=blue]Imperial Technocracy Elected Minister of RP | OATO Membership | SP Rebellion Elected Minister of Justice[/b][/color]
 
 

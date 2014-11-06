@@ -16,5 +16,7 @@ Kennan Union: [nation=short]Ethan Foley[/nation]
 Kennan Recruitment Program: [nation=short]Sandwich Territories[/nation]
 
 [color=blue][b]Announcements[/b][/color]
-[List][*]KRC Resolution #90: Voting Time, is currently being voted on.
-[*]If you are not on [url=http://goo.gl/CPDBUP]this list[/url], then you are not eligible to vote in the KRC. Please register to vote in the KRC [url=http://goo.gl/3rCOQs]here.[/url][/list]
+[list]
+[*][url=http://goo.gl/wl4etu]Resolution #91: Repeal Resolution #2[/url] is currently up for voting.
+[*]If you are not on [url=http://goo.gl/CPDBUP]this list[/url], then you may not be eligible to vote in the future. Sign up [url=http://goo.gl/3rCOQs]here.[/url]
+[/list]

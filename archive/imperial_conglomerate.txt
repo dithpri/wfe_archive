@@ -8,7 +8,7 @@ Councilman || Tomislav Bukovski, [nation=short]xacor[/nation]
 
 [b]General Assembly:[/b]
 President || (TO BE ELECTED)
-Senator of Foreign Affairs || (TO BE ELECTED)
+Senator of Foreign Affairs || [nation=short]ellens[/nation]
 Senator of Security and Intelligence || Corax, [nation=short]ghrond[/nation]
 [hr]
 

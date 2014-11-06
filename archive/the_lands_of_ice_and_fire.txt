@@ -2,7 +2,7 @@
 
 [b][region]The Lands of Ice and Fire[/region][/b] were co-founded by: [b][nation=short]The Warden of the North[/nation][/b], [b][nation=short]Feather Drakes[/nation][/b] and [b][nation=short]Thanagor[/nation][/b].
 
-[b][region]The Lands of Ice and Fire[/region][/b] are currently ruled by the [b][color=red]King of the Andals, the Rhoynar and the First Men[/color], [color=blue]Lord of the Seven Kingdoms[/color] and [color=gold]Protector of the Realm[/color][/b]: N/A with the following [b][color=crimson]Small Council[/color][/b] members:
+[b][region]The Lands of Ice and Fire[/region][/b] are currently ruled by the [b][color=red]King of the Andals, the Rhoynar and the First Men[/color], [color=blue]Lord of the Seven Kingdoms[/color] and [color=gold]Protector of the Realm[/color][/b]: [b][nation=short]Feather Dragons[/nation][/b] with the following [b][color=crimson]Small Council[/color][/b] members:
 
 [b][color=brown]Hand of the King[/color][/b]: N/A
 [b][color=gold]Lord Commander of the Kingsguard[/color][/b]: N/A
