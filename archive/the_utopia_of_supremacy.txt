@@ -4,15 +4,15 @@
 [color=red][i]11/4/2014:[/i] New region flag![/color]
 
 [b][color=green]Current Defense Readiness Condition:[/color][/b]
-[color=#0404B4]DEFCON: 5[/color] 
+[color=#0404B4]DEFCON: 5[/color] &amp;lt;
 [color=#04B404]DEFCON: 4[/color] 
-[color=#AEB404]DEFCON: 3[/color] &amp;lt;
+[color=#AEB404]DEFCON: 3[/color] 
 [color=#B40404]DEFCON: 2[/color]
 [color=#E6E6E6]DEFCON: 1[/color]
 
 [b][color=green]Embassies:[/color][/b]
 [color=red][i]Proposed:[/i][/color]
-- [region]The Caldonian Union[/region]
+- [region]Colonies of Caraway[/region]
 
 [color=red][i]Current:[/i][/color]
 

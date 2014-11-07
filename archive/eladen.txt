@@ -21,8 +21,7 @@ Retail, Basket: [b][color=orange]6th[/b][/color]
 Timber, Agriculture: [b][color=orange]7th[/b][/color]
 Beverage: [b][color=orange]8th[/b][/color]
 Arms: [b][color=orange]9th[/b][/color]
-Furniture: [b][color=orange]10th[/color][/b]
-Mining: 11th
+Mining, Furniture: [b][color=orange]10th[/color][/b]
 IT: 14th
 Gambling, Publishing: 15th
 Employment: 80th

@@ -6,13 +6,15 @@
 [region]The Black Riders[/region]
 [region]Slavija[/region]
 [region]Libertatem[/region]
-[region]Anti Authoritarian Alliance[/region][/B][/color]
+[region]Anti Authoritarian Alliance[/region]
+[region]The Crimson Empire[/region]
+[region]The Commonwealth of Democratic Nations[/region][/B][/color]
 
 [color=ff00ff]Have come to help spread wuv and cuteness! We will replace fascism with hugs and snuggles![/color]
 
 [color=violet]Nations involved in taking the region are:
-[b][nation=short]Vandoosa[/nation] of Iwaku
-[nation=short]Bendicion[/nation] of The Christian Nations
-[nation=short]Kadal[/nation] of The Rejected Realms[/b]
+[b][nation=short]Vandoosa[/nation] of [region]Glorious Nations of Iwaku[/region]
+[nation=short]Bendicion[/nation] of [region]The Christian Nations[/region]
+[nation=short]Duelist Academy[/nation] of [region]The Crimson Empire[/region][/b]
 
 And many more cute nations to come![/color]
