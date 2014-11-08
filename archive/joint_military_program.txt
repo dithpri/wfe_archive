@@ -1,10 +1,10 @@
 Founder/Emperor: Emperor James Andrews (TEA)
-High Command [JMPHC]: Defence Minster-Sultanate of Turan
-Head of Air Force [JMPHC]:General Jordan [TKE]
+High Command [JMPHC]: 
+Head of Air Force [JMPHC]:
 Head of Army [JMPHC]:General Paval (Redline)
 Head of Navy [JMPHC]:
 -Air Force
-Head of Air Force [JMPAF]: General Jordan [TKE]
+Head of Air Force [JMPAF]:
 Commanders [JMPAF]: 
 Air Group/Wing Leader [JMPAF]:
 Group/Wings [JMPAF]: 

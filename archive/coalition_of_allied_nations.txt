@@ -19,3 +19,5 @@ Members:
 [nation=short]That Island[/nation] - President Voelkers
 [nation=short]That State[/nation] - High King Kleppe
 [nation=short]Zaitra[/nation] - Lord Abels
+[nation=short]Buvania[/nation] - Queen Maddison
+[nation=short]Seracia[/nation] -President Wolf

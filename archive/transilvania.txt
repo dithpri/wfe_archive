@@ -1,2 +1,7 @@
-[B][COLOR=#00FFFF]This Region is an Inseparable part of [/COLOR][/B][region=Turkic Union]
-[B][COLOR=#00FFFF]Governor General [/COLOR][/B][nation=Republic of Kazakstan]
+[B][COLOR=red]This Region is now under the control of [/B][region=The Rebel Forces of Havenbrooke][b]![/b][/color]
+
+[B][COLOR=red]The following nations led the invasion:[/COLOR][/B]
+[nation=New Ridgewood]
+[nation=Fabulously Fabulous]
+[nation=Oakenfield]
+[nation=Chang Dang]

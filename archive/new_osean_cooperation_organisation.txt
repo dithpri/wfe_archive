@@ -7,10 +7,10 @@ NOCO SECRETARY-GENERAL [nation]Maisto[/nation]
 CHAIRMAN-IN-OFFICE [nation]Golaniva[/nation]
 FIRST SEAT [nation]Dunaree[/nation]
 SECOND SEAT [nation]East Congeria[/nation]
-THIRD SEAT [nation]Cartaya[/nation]
+THIRD SEAT [nation]Cartaya[/nation] (Interim)
 
 [b]PAN-OSEAN REGIONAL COUNTER-TERRORISM FORCE (RCTF)[/b]
-RCTF SUPREME COMMANDER [nation]East Calloway[/nation]
+RCTF SUPREME COMMANDER [b]VACANT[/b]
 
 [b]PAN-OSEAN INTERBANK &amp;amp; BUSINESS CONSORTIUM (IBC)[/b]
 IBC SECRETARY [nation]Nauratilovia[/nation]
