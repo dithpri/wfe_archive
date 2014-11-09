@@ -4,7 +4,7 @@ Regional Government:
 [color=red]President:[/color][nation=short]The Barbradian Republic[/nation]
 [color=blue]Vice President:[/color][nation=short]Ravon[/nation]
 
-[color=blue]Chancellor:[/color][nation=short]Vacant[/nation]
+[color=blue]Chancellor:[/color][nation=short]north libya[/nation]
 [color=red]Vice Chancellor:[/color][nation=short]Stone Cuaron[/nation]
 
 

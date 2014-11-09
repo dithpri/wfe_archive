@@ -11,7 +11,8 @@ Chancellor and Overseer of Peace:[nation]Vladovaskia[/nation][/b]
 [b][U]Participating Parties[/u]
 &#149;[region]Commonwealth of Free Nations[/region] Military
 &#149;[nation]Morndul[/nation]
-&#149;[nation]New Southern Netherlands[/nation][/b]
+&#149;[nation]New Southern Netherlands[/nation]
+&#149;[nation]Namayapata[/nation][/b]
 
 [I]We thank our allies for standing with us through peace and war alike[/i]
 

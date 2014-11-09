@@ -2,7 +2,7 @@ The United Imperial Armed Forces (UIAF) of [region]The New Inquisition[/region] 
 
 [b][u]The Imperial Military Council[/b][/u]
 [nation=short+noflag]OnderKelkia[/nation], LKE Representative
-[nation=short+noflag]Joshannia[/nation], Albion Representative
+[nation=short+noflag]Seven Deaths[/nation], Albion Representative
 [nation=short+noflag]North East Somerset[/nation], TNI Representative 
 
 [b][u]The Imperial Command[/u][/b]
