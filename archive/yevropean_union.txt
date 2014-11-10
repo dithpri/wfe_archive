@@ -12,7 +12,6 @@
 [nation]Litwaczka[/nation]
 [nation]Maronia[/nation]
 [nation]New Gentia[/nation]
-[nation]Padaliya[/nation]
 [nation]Slakia[/nation]
 [nation]Sutalia[/nation]
 [nation]Vassau[/nation]
@@ -24,4 +23,4 @@
 [hr]
 
 [url=http://s27.postimg.org/qhq520k0j/YUMap.png]Yevropean Union Map[/url] (26/10/2014)
-[url=http://s29.postimg.org/5z7ihb479/Map.png]World Map[/url] (05/11/14)
+[url=http://s28.postimg.org/7f79mbn3v/Map.png]World Map[/url] (09/11/14)

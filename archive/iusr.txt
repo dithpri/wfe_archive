@@ -1,6 +1,6 @@
-[b]Alert Level:[/b] [color=orange]DEFSTAT 3[/color]
+[b]Alert Level:[/b] [color=purple]DEFSTAT 2[/color]
 
-[b]Latest News:[/b] [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=314850]Socialist security conference[/url] in Al-Kapija, [nation=short+noflag]Yorkopolis[/nation].
+[b]Latest News:[/b] IUSR at war with Yarkonia in allied socialist campaign. 
 [hr]
 
 [b]Supreme Socialist Republics[/b]
@@ -30,9 +30,10 @@
 [b]Allied Nations[/b]
 
 [url=/nation=canakhstan][color=0000cc]Democratic Republic of Canakhstan[/color][/url]
-[url=/nation=navedia][color=0000cc]Holy State of Navedia[/color][/url]
-[url=/nation=titovka][color=0000cc]Federal Republic of Titovka[/color][/url]
 [url=/nation=chobenia][color=0000cc]Republic of Chobenia[/color][/url]
+[url=/nation=navedia][color=0000cc]Holy State of Navedia[/color][/url]
+[url=/nation=shokran][color=0000cc]People&amp;#39;s Republic of Shokran[/color][/url]
+[url=/nation=titovka][color=0000cc]Federal Republic of Titovka[/color][/url]
 [hr]
 
-[url=http://s29.postimg.org/5z7ihb479/Map.png]World Map[/url] (05/11/14)
+[url=http://s28.postimg.org/7f79mbn3v/Map.png]World Map[/url] (09/11/14)
