@@ -1,13 +1,13 @@
-[color=red]Welcome to The Revolutionary Council![/color]
+[b][i][color=gold]Welcome to The Revolutionary Council![/color][/i]
 
-[color=blue]Please endorse our delegate:[/color] Huntertopia
+[color=green]Please endorse our delegate [nation]Huntertopia[/nation] for security reasons.[/color]
 
-http://therevolutionarycouncil.yuku.com/ Join our Forum!
+[color=blue]Join our Forum!
+therevolutionarycouncil.yuku.com[/color]
 
 The Head Council:
 
-[color=red]Prime Minister:[/color] Franspaulia
-[color=red]Deputy Prime Minister:[/color] Rivenia
-[color=red]Commodore:[/color] Kernuskt
-[color=red]Secretary of State:[/color] Fenshamsland
-[color=blue]Please check out the pinned factbooks![/color]
+[color=red]Prime Minister:[/color] [nation]Franspaulia[/nation]
+[color=red]Deputy Prime Minister:[/color] [nation]Rivenia[/nation]
+[color=red]Commodore:[/color] [nation]Kernuskt[/nation]
+[color=red]Secretary of State:[/color] [nation]Fenshamsland[/nation][/b]

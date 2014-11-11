@@ -7,16 +7,4 @@ Code Blue = peaceful
 Code Yellow = tense
 Code Red = war/invasion
 
-Region is currently [color=yellow]Code Yellow[/color]
-
-[b][color=#CC0000]Warning to all nations! 
-Zombie hordes have been seen around the world. While Inooa is already infected, regional borders have been closed to slow the spread.
-Here is each nation&amp;#39;s current action during this zombie attack:
-
-[nation=short]Saburtier[/nation] = Exterminate
-[nation=short]Lasuerta[/nation] = Cure
-[nation=short]Kaligra[/nation] = Cure
-[nation=short]Weirdnessia[/nation] = Exterminate[/color][/b]
-
-
-[b][color=#CC9900]The Inooa region is currently zombie free, thanks to the cure efforts of Kaligra and Lasuerta, and the extermination efforts of Saburtier and Weirdnessia.[/color][/b]
+Region is currently [color=blue]Code Blue[/color]

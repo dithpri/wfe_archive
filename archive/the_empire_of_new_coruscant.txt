@@ -1,13 +1,14 @@
 The Physical Borders of New Coruscant include several conquered territories as well as colonies. Here you can find those territories as well as our military forces. Our Glorious Capitol is here: [nation]Fo-20[/nation], [region]The Empire of New Coruscant[/region] is a Sub-Region located within the [region]UFP United Federation of Planets[/region]
 
-In this Sub-Region these are the Conquests:
+Conquests:
 [nation]Viking Nor-way[/nation]
 [nation]Garble Garble[/nation]
 
-In this Sub-Region these are Colonies with minimal autonomy:
+Colonies with minimal autonomy:
 [nation]Studuo[/nation]
 [nation]HyporE[/nation]
 
-We have 1 Protectorate, these are nations that willingly assimilated into the Empire:
+2 Protectorates (nations that willingly assimilated into the Empire):
 [nation]Grenwix[/nation]
+[nation]Xavic Sol[/nation]
 &amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;This Sub-Region is patrolled by [nation]The FO-20 Imperial Navy[/nation]&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;

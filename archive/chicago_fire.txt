@@ -1,5 +1,7 @@
 Welcome to Chicago Fire This region is a King Of a football  well
 
-President: The Jingoistic States of Pilkenton
+President:[nation=short]Pilkenton[/nation]
 
-Vicepresident: The Allied states  Of Bertween
+Vicepresident:[nation=short]Bertween[/nation]
+
+Minister[nation=short]HMS Unicorn[/nation]

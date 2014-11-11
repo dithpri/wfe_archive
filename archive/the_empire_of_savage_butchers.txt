@@ -11,7 +11,7 @@ Founder: [nation=GalvinGalvin]
 Prime Minister: [nation=GalvinGalvin]
 Diplomat(s): [nation=Galvin Island]
 World Assembly Delegate: [nation=Stupid Noobs]
-Soldiers: [nation=GalvinGalvin], [nation=Stupid Noobs], [Nation=Greedy Grabbers], [Nation=Dumb Noobs], and [nation=Galvin Island]
+Senators: [nation=Galvin Island], [nation=Stupid Noobs], [nation=Greedy Grabbers]
 [/color]
 
 [color=Red][b]Region News[/b]
