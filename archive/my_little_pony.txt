@@ -1,1 +1,6 @@
-[color=pink][b]My Little Pony[/color][/b]
+[color=red][b]This region is now under the control of[/b][/color] [region=The Rebel Forces of Havenbrooke][color=red][b]![/b][/color]
+
+[color=red][b]The follow nations led the invasion:[/b][/color]
+[nation]Fabulously Fabulous[/nation]
+[nation]Oakenfield[/nation]
+[nation]Chang Dang[/nation]

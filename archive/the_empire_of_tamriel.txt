@@ -12,7 +12,7 @@
 
 Potentate: [nation=short]Zanzibarya[/nation]
 
-Imperial Vizier: Message Emperor for Interview
+Imperial Vizier: [nation=short]Thieves Guild of Tamriel[/nation]
 
 Imperator: [nation=short]-S k y r i m-[/nation]
 

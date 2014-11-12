@@ -1,27 +1,4 @@
-This is the government of Eastern Place:
-
-WA Delegate:
-[nation]Spotland[/nation]
-
-Foreign Affairs:
-[nation]Happylandia[/nation]
-
-Internal Affairs:
-[nation]Horse Nation[/nation]
-
-Raid Defense:
-Open Position
-
-Spymaster:
-[nation]Web Willia[/nation]
+This region is run by the AIS to manage colonies of the Republic of Autria.
 
 
-If you want a position in our government, contact the founder.
-
-
-HOSTILE REGIONS LIST
-
-[region]Pengueen[/region]
-[region]Awesometopia[/region]
-[region]Democratic Social Union[/region]
-[region]The West Pacific[/region]
+EFFECTIVE NOVEMBER 10, 2014, ALL COLONIES MUST COMPLY WITH THE [b]CENTRAL EUROPEAN RESOLUTION[/b] POSTED BELOW UNTIL FURTHER NOTICE.

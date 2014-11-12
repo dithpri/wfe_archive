@@ -1,12 +1,12 @@
 [u]Sovereign[/u]
 [color=Brown][b]Grand Viceroy:Albrecht of 21 Tribes ([nation]21 Tribes[/nation])[/b][/color]
-[color=Brown][b]Deputy Viceroy:Isaac Crawford ([nation]Republic of Manaan[/nation])[/b][/color]
+[color=Brown][b]Deputy Viceroy:Mark Martin ([nation]Teutionia[/nation])[/b][/color]
 
 [b][u]The Cabinet[/u][/b]
-[color=Blue][b]Minister of Defence: Mark Martin [nation=short]Teutionia[/nation][/b][/color]
-[color=Blue][b]Attorney General: President Argo [nation=short]Great Argonia[/nation][/b][/color]
+[color=Blue][b]Minister of Defence: John Strider [nation=short]UnitedProvinceofRepublica[/nation][/b][/color]
+[color=Blue][b]Attorney General: Alexander Pierce [nation=short]Pino Grand Fenwick[/nation][/b][/color]
 [color=Blue][b]Minister of the Interior: August Brodie [nation=short]Calicathia[/nation][/b][/color]
-[color=Blue][b]Minister of Foreign Affairs: Queen Spencer [nation=short]Hippylandiaville[/nation][/b][/color]
+[color=Blue][b]Minister of Foreign Affairs: Ivike [nation=short]Confederate Imperium[/nation][/b][/color]
 
 [hr][b][u]Parliament[/u][/b]
 [color=Green][b][url=http://www.nationstates.net/nation=sicilia_novum/detail=factbook/id=261577]Parliament Members[/url][/b][/color]

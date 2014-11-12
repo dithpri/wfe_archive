@@ -5,12 +5,10 @@
 [region]The Germanei Sivanian Alliance[/region]
 [region]Markarth[/region]
 [region]The Judean League[/region]
-[region]Zionist Empire[/region]
-[region]Grand Revolutionary Army[/region]
 [region]Aeldorin[/region]
 
-[b][u]Observers [/b][/u]
-[region]Utopian Argentina[/region]
+[b][u]Colonies[/b][/u]
+[region]Communist Region of Sovatia[/region]
 
 [b][u]Protectorates[/b][/u]
 [region]Dux Milan[/region]

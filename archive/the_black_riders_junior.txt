@@ -1,11 +1,11 @@
 Hellow this region was colony of the black riders
 
-President Rider[nation=short]Iriosis[/nation]
+President Rider[nation=Iriosis]
 
-Vicepresident Rider [nation=short]Socialista Rider[/nation]
+Vicepresident Rider [nation=Socialista Rider]
 
-Expulsed For The Black Riders Jrs[nation=short]Captain Bogden[/nation]
+Expulsed For The Black Riders Jrs[nation=Captain Bogden]
 
 Visitors[nation=short]
 
-Visitors 2 [nation=]
+Visitors 2 [nation=Saruman]

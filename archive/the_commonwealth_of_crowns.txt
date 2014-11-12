@@ -5,13 +5,13 @@
 [b]The XIX REC[/b]
 Prosecutor-General: [nation=short]Besate[/nation]
 Secretary-General: [nation=short]The French Kingdom[/nation]
-Chancellor: [nation=short]Torvalyn[/nation]
+Chancellor: [nation=short]Torvalyn WA[/nation]
 Speaker: TBD
 High Commander: TBD
 [hr]
 [b]The Executive Cabinet[/b]
-Minister of the Interior: 
-Minister of Finance: 
+Minister of the Interior: [nation=short]Argentarino[/nation]
+Minister of Finance: [nation=short]Onissia[/nation]
 Minister of Foreign Affairs:
 Minister of Culture: 
 [hr]
