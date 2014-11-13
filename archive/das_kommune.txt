@@ -3,7 +3,7 @@
 [i]We are comrade states, and we will gladly take in refugees. We are concerned with the spread of communism. Welcome to our free, democratic region. We welcome leftists of all kind and promote equality among all of our nations and humanity.[/i]
  
 [u]Government[/u]
-Premier: Vacant
+Premier: [nation=short]Soviet East Japan[/nation]
 Commissar of Foreign Affairs: [nation=short]Custadia[/nation](DKSSP)
 Commissar of Internal Affairs: [nation=short]Soviet East Japan[/nation](RCP)
 Commissar of Defense: [nation=short]Kazirstan[/nation](CPDK)

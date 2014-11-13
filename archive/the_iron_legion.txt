@@ -13,7 +13,7 @@ Military Operations Directorate of [region]The Fascist Union[/region].
 
 [u]Legioni Tribunus [Officer Corps][/u]
 
-[nation=short]Serpentura[/nation] - Imperator (Brigadier General of The Black Legion)
+[nation=short]Serpentura[/nation] - Imperator (Brigadier General of The Black Legion) and Princeps Fascisti of the Fascist Union
 [nation=short]The Imperial Prefectures of America[/nation] - Legati (Captain)
 
 [u]Dilectum Legionis [Enlisted Corps][/u]
@@ -21,7 +21,6 @@ Military Operations Directorate of [region]The Fascist Union[/region].
 [nation=short]Chezek[/nation] Evocati (Sergeant)
 [nation=short]Iaeptus[/nation] Evocati (Sergeant)
 [nation=short]Slarvenia[/nation] Evocati (Sergeant) 
-[nation=short]Saber Maximus[/nation] Munifex (Private)
-[nation=short]Sataareth[/nation] Munifex (Private)
 [nation=short]The New Age Empire[/nation] Munifex (Private)
+[nation=short]Pavalon[/nation] Munifex (Private)
 [/b]

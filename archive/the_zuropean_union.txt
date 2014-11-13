@@ -5,9 +5,9 @@
 [b]Regional President: [/b][nation=short]Zitru[/nation]
 [b]Regional Vice President: [/b][nation=short]Flynnerane[/nation]
 [b]Regional Premier: [/b][nation=short]Avantian Union[/nation]
-[b]Immigration Executive: [/b][i]AT VOTE[/i]
-[b]Foreign Affairs Executive: [/b][i]AT VOTE[/i]
+[b]Immigration Executive: [/b][nation=short]Nakyrozia[/nation]
+[b]Foreign Affairs Executive: [/b][nation=short]Rykuria[/nation]
 
 [b][color=blue]Announcements &amp;amp; News[/color][/b]
-- URFA Super Cup will begin on [b]Tuesday, July 29, 2014[/b]
-- URFA Golden Cup will begin on [b]Saturday, August 9, 2014[/b]
+- Zuropean Qualification is underway!
+- Regional Cup 2015 will begin on Friday, June 12, 2015

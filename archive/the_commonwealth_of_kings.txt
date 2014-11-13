@@ -5,10 +5,10 @@ The Commonwealth is a Constitutional Monarchy and is Federally United into One D
 [b]Head of State:[/b] [nation=shortname]Lalucia[/nation]
 
 [u][b][color=rainbow]His Majesty&amp;#39;s Government[/color][/b][/u]
-[b]Prime Ministers:[/b] [nation=shortname]Saxum Rex[/nation]
+[b]Prime Minister:[/b] [nation=shortname]Saxum Rex[/nation]
 [b]Minister of Interregional Development:[/b] [nation=shortname]The Royally United Provinces[/nation]
 [b]Minister of Recruitment:[/b] [nation=shortname]SaudiPakistan[/nation]
-[b]Minister of Media and Sport:[/b] [nation=shortname]Djeusland[/nation]
+[b]Minister of Media, Culture and Sport:[/b] [nation=shortname]Djeusland[/nation]
 
 [b]Lord Chief Justice:[/b] [nation=shortname]Father Motherland[/nation]
 
