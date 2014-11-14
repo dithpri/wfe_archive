@@ -5,10 +5,11 @@
 
 
  [color=blue]LONG LIVE THE RAIDERS[/color]                                                            
- [color=red]REGIONS RAIDED-3[/color]                                                                           [color=red]REGIONS OCCUPIED-3[/color]
+ [color=red]REGIONS RAIDED-3[/color]                                                                           [color=red]REGIONS OCCUPIED-4[/color]
  [region]Consortium of empires[/region] [color=camo]11-5-14[/color][/b] [b]OCCUPIED[/b]
  [region]Reborn into Power[/region] [color=camo][b]11-5-14[/color][/b] [b]OCCUPIED[/b]
  [region]Henrifree Oceania[/region] [color=camo][b]11-6-14[/color][/b] 
  [region]The United Grove[/region] [color=camo][b]11-10-14[/color][/b] [b]OCCUPIED[/b]
  [region]The Dumb Ducks[/region] [color=camo][b]11-10-14[/color][/b] 
- [region]Transgenders Women United[/region] [color=camo][b]11-12-14[/color][/b] 
+ [region]Transgenders Women United[/region] [color=camo][b]11-12-14[/color]OCCUPIED[/b] 
+ [region]Islamya[/region] [color=camo]11-13-14[/color]

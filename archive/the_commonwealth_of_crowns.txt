@@ -6,8 +6,8 @@
 Prosecutor-General: [nation=short]Besate[/nation]
 Secretary-General: [nation=short]The French Kingdom[/nation]
 Chancellor: [nation=short]Torvalyn WA[/nation]
-Speaker: TBD
-High Commander: TBD
+Speaker: [nation=short]The Two Exalted Kingdoms[/nation]
+High Commander: [nation=short]Vetega[/nation]
 [hr]
 [b]The Executive Cabinet[/b]
 Minister of the Interior: [nation=short]Argentarino[/nation]
@@ -15,10 +15,10 @@ Minister of Finance: [nation=short]Onissia[/nation]
 Minister of Foreign Affairs:
 Minister of Culture: 
 [hr]
-[b]The VII High Court[/b]
-Chief Justice: TBD
-Justice: TBD
-Justice: TBD
+[b]The VIII High Court[/b]
+Chief Justice: [nation]Alpacanzia[/nation]
+Justice: [nation=short]Evanicaland[/nation]
+Justice: [nation=short]Macawi[/nation]
 [hr]
 [b]Regional Departments[/b]
 Cartographer: [nation=short]Herzangia[/nation]

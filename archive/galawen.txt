@@ -2,24 +2,33 @@ The nations of Galawen, a huge continent spanning thousands of miles across the 
 
 [u][b]The League of Galawen[/b][/u]
 
-Chairman: Dr Arnold Bergwerk
-Marshal: For campaigns only
+League Code: [color=green]Green[/color] / [color=blue][b][u]Blue[/u][/b][/color] / [color=orange]Orange[/color] / [color=red]Red[/color]
+Chairman: Dr Arnold Bergwerk (Phariopian)
+Marshal: The Council (International)
 
-Security Council:
-Empire of Old Phario
-UK and Empire of Chreeeeeees
-United Empires of Jaubland
+[b][u]Security Council:[/b][/u]
+[nation]Phario[/nation]
+TBD
+TBD
 
-Regular Members:
-PR of The Isles of Rengard
-Sultanate of Jalkastan
-Federation of Serif-Periogi
-Priderodikan Empire
-Holy Empire of Caerhold
-Worksheetland
+[b][u]Regular Members:[/b][/u]
+[nation]isles of rengard[/nation]
+[nation]jalkastan[/nation]
+[nation]caerhold[/nation]
+[nation]worksheetland[/nation]
 Empire of Manlidav
 
-Pending Membership:
-Tribal Republic of Kharmaan
+[b][u]Pending Membership:[/b][/u]
+[nation]Kharmaan[/nation]
+
+- - -
+
+[b][u]The Confederacy of Independent Sovereign States[/b][/u]
+
+[b][u]Members:[/b][/u]
+[nation]jaubland[/nation]
+[nation]conwayland[/nation]
+[nation]chreeeeeees[/nation]
+[nation]the_priderodikan_empire[/nation]
 
 The Map: http://i.imgur.com/ycz9bAF.png

@@ -1,12 +1,13 @@
-[b][color=#DC143C]A dark red flag crests over this region.[/color][/b]
+[b][color=#DC143C]The imperial standard crests over this region.[/color][/b]
 [hr]
-[color=purple][B]This region has been taken by the Crimson Corps., The brave, courageous, and skilled soldiers of [region]The Crimson Empire[/region].[/B][/color]
+[color=crimson][B]This region has been retaken by the imperial forces of the Romindian Empire, the honorable, courageous, and elite infantries of [region]The Dominion[/region].[/B][/color]
 
-[b]There is but two paths: You either stand with us or stand against us. It is Raideron&#146;s way, the path we follow.[/b]
+[b]There is but two paths: You either stand with us or stand against us. It is our Emperor&#146;s way, the path we follow.[/b]
 [hr]
-[B][color=darkblue]The following legionnaires charged in, leaving chaos and destruction:[/color]
+[B][color=crimson]The following legionnaires charged in, and failed to claim this land:[/color]
 Councilor [nation=short]Trick Shot[/nation]
 Councilor [nation=short]Shadoke[/nation]
 Councilor [nation=short]Rassen[/nation]
+Hired Mercenary [nation=short]Cora II[/nation]
 
-With special assistance from Hired Mercenary [nation=short]Cora II[/nation] of [region]Cimmeria[/region]![/B]
+Their names show forever be engraved on the Wall of Shame[/B]
