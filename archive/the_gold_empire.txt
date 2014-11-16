@@ -1,11 +1,24 @@
 [u][b][color=Blue]The Gold Empire[/color][/b][/u]
-[color=#03C6FF]Welcome to the Gold Empire! This region was founded by [nation=Galvin Islands] on November 13, 2014 at 8:01 PM Central Time.
+[color=#03C6FF]Welcome to the Gold Empire! This region was founded by [nation=Galvin Islands] on November 13, 2014 at 8:01 PM Central Time.[/color]
 
+[color=#4099FF]
 [b]Regional Information[/b]
 Founder: [nation=Galvin Islands]
+Prime Minister: NONE
 WA Delegate: NONE
-Diplomat(s): [nation=The Carnivorous Trees]
+Secretary: NONE
+Diplomat: NONE
+[/color]
 
+[color=#1dc729]
+[b]Friendly Region[/b]
+Name: [region=The Looters]
+Founder: [nation=The Carnivorous Trees]
+WA Delegate: NONE
+[/color]
+
+[color=#29dbd2]
 [b]Websites to Visit[/b]
 [url=http://www.nseconomy.thirdgeek.com/]Economy[/url]
 [/color]
+

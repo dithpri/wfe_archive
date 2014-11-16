@@ -9,3 +9,5 @@ Presidente:[nation=coteland]
 Vicepresidente:[nation=tomasferaranland jrs]
 
 Ministro:[nation=Pilkenton]
+
+Segundo Ministro:[nation=HMS Unicorn]
