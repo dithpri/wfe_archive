@@ -5,20 +5,19 @@
 [b]Regional Information[/b]
 Founder: [nation=Galvin Islands]
 Prime Minister: NONE
-WA Delegate: NONE
-Secretary: NONE
+WA Delegate: [nation=The Carnivorous Trees]
 Diplomat: NONE
-[/color]
-
-[color=#1dc729]
-[b]Friendly Region[/b]
-Name: [region=The Looters]
-Founder: [nation=The Carnivorous Trees]
-WA Delegate: NONE
 [/color]
 
 [color=#29dbd2]
 [b]Websites to Visit[/b]
 [url=http://www.nseconomy.thirdgeek.com/]Economy[/url]
 [/color]
-
+[hr]
+[b]REGION SAFETY LEVEL: [color=#59db26]Good[/color][/b]
+The are 5 safety levels, each depending on other regions&amp;#39; interest to attack us, Zombie Apocalypse, or anything that affects the region. The safety levels are:
+[color=Green]Excellent[/color]
+[color=#59db26]Good[/color]
+[color=#b4d022]Fair[/color]
+[color=Orange]Warning[/color]
+[color=Red]Danger[/color]

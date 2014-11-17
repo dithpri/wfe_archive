@@ -4,7 +4,9 @@
 
 Main Nations:
 
-[b][nation=short]Avalon[/nation][/b], [b][nation=short]Ehlnar[/nation][/b] and [b][nation=short]Free Canary Islands[/nation][/b] in [i][region]The North Pacific[/region][/i].
+[b][nation=short]Avalon[/nation][/b] and [b][nation=short]Ehlnar[/nation][/b] in [i][region]The North Pacific[/region][/i].
+
+[b][nation=short]Free Canary Islands[/nation][/b] in the [i][region]Democratic Socialist Assembly[/region][/i].
 
 [b][nation=short]Alexandria[/nation][/b] and [b][nation=short]Raybrandt[/nation][/b] in [i][region]Kingdom of Alexandria[/region][/i].
 

@@ -6,9 +6,9 @@ Foreign Secretary: [nation]Eurasica[/nation] [color=orange]JP[/color]
 Intelligence and Defence Director: [nation]Xaecia[/nation] [color=orange]JP[/color]
 Cartographer and RP Manager: [nation]Athlae[/nation] [color=purple]IND[/color]
 Commissar of Media and Journalism: [nation]Soviet Socialist Republic of Sweden[/nation] [color=#22ff00]GSP[/color]
-Commissar of Recruitment and Border Security: [nation]The Don River[/nation] [color=purple]IND[/color]
+Commissar of Recruitment and Border Security: [nation]Arana[/nation] [color=red]CCP[/color]
 Commissar of Cultural Events: [nation]The New Mongol Khanate[/nation] [color=#22ff00]GSP[/color] 
-Commissar of Internal Affairs: [nation]OPEN[/nation] 
+Commissar of Internal Affairs: [nation]The Don River[/nation] [color=purple]IND[/color]
 
 Supreme Justice: [nation]Lockewood[/nation] [color=orange]JP[/color] [/b]
 
