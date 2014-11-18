@@ -11,8 +11,8 @@
 [B][color=purple]Assistant Governor: TBT[/color][/B]
 
 [B][u]Regional Council[/u][/B] 
-[B][color=purple]Head Minister: [nation=short]Mitchland Empire[/nation][/color][/B]
-[B][color=purple]Deputy Head Minister: [nation=short]New Hirizionburg[/nation][/color][/B]
+[B][color=purple]Prime Minister: [nation=short]Mitchland Empire[/nation][/color][/B]
+[B][color=purple]Deputy Prime Minister: [nation=short]New Hirizionburg[/nation][/color][/B]
 [B][color=purple]Justice Minister: [nation=short]Wuzzburg[/nation][/color][/B]
 
 [B][u]Parliament[/u][/B]

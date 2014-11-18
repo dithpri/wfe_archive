@@ -24,7 +24,7 @@ Consort:
 [nation=short]Aeternabilis[/nation]
 
 Minister of Justice:
-[nation=short]Shikah[/nation]
+[nation=short]TBA[/nation]
 
 
 Minister of Foreign Affairs:
@@ -35,7 +35,7 @@ Minister of Defense:
 [nation=short]Skoro[/nation]
 
 Minister of the Interior:
-[nation=short]The First Carthage[/nation]
+[nation=short]Shikah[/nation]
 [hr][hr]
 -]Spotlight:
 

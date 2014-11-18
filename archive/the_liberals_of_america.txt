@@ -3,7 +3,7 @@ Map: http://tinypic.com/r/fbgx7o/8
 Minister of Finance and Management: [nation]Mede[/nation]
 Minister Foreign and Commonwealth Affairs:  [nation]United Christian[/nation]
 Minister of Justice, Defence, and Intel: [nation]United Christian[/nation]
-Minister of Trade, Work, and Pensions:
+Minister of Trade, Work, and Pensions:[nation]Helor[/nation]
 Minister of Health, Equalities and International Development:
 Minister of State: [nation]Monos[/nation]
 Minister of Military:

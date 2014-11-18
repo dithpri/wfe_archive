@@ -18,7 +18,7 @@ The House of Lords (upper house):
 The House of Commons (Lower House):
 [b]___________________________________[/b]
 
-[color=blue]High MP:[/color]
+[color=blue]High MP:[/color] [nation]stone cuaron[/nation]
 [color=red]Major MP:[/color] [nation]rusha 2[/nation]
 [color=purple]Minor MP:[/color][nation]new vandoosa[/nation]
 
@@ -26,12 +26,11 @@ Ministers:
 [b]________________________________[/b]
 
 [color=orange]Minister of Transport:[/color][nation=short]North Libya[/nation]
-[color=red]Minister of International Affairs:[/color][nation=short]Commonwealth of hank the cat[/nation]
+[color=red]Minister of International Affairs:[/color][nation=short]North Libya[/nation]
 [color=purple]Minister of Science:[/color][nation=short]new vandoosa[/nation]
 
 Regional Disputes:
 [b]________________[/b]
 
-[url=http://forum.nationstates.net/viewtopic.php?ns=1&amp;amp;f=23&amp;amp;t=317645]Acuderian House of Lords Disputes[/url]
-[url=http://forum.nationstates.net/viewtopic.php?f=23&amp;amp;t=317646]Acuderian House of Commons Disputes[/url]
+
 

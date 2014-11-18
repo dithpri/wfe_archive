@@ -4,9 +4,17 @@
 [color=#4099FF]
 [b]Regional Information[/b]
 Founder: [nation=Galvin Islands]
+
+[u]Executive Branch[/u]
 Prime Minister: NONE
 WA Delegate: [nation=The Carnivorous Trees]
-Diplomat: NONE
+Minster of Foreign Affairs: NONE
+Minster of Internal Affairs: NONE
+Minister of Recruitment: NONE
+
+[u]Legislative Branch[/u]
+Senators: [nation=The Barbarian Hordes]
+Delegates: [nation=Galvin Land]
 [/color]
 
 [color=#29dbd2]
