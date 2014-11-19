@@ -1,6 +1,6 @@
 [b]WELCOME TO [color=green]THE[/color][color=red] KINGDOM[/color] [color=green]OF PEPPERS[/color][/b]
 
-[color=green][b]Endorsement Cap:[/b][/color][color=red][i] 2 [/color][/i]
+[color=green][b]Endorsement Cap:[/b][/color][color=red][i] 3 [/color][/i]
 [b][color=green]Endorse your WA Delegate:[/color][/b][color=black][nation]Rath Rhinoth[/nation][/color]
 
 
@@ -14,10 +14,9 @@
 [hr]
 [color=green][b]The Government[/b][/color]
 President: [nation]Hensinika[/nation]
-Minister of Foreign Affairs: [nation]Eilare[/nation] 
+Minister of Foreign Affairs:[color=red][b]RESIGNED [i]UNOFFICIALLY[/i][/b][/color] [nation]Eilare[/nation] 
 Minister of Defense: [nation]Terra Atlantica[/nation]
 Minister of Justice: 
 Minister of Immigration: [nation]Aterna[/nation]
 Minister of Agriculture of Peppers: [nation]Rath Rhinoth[/nation] 
 Assistant to Ministers: 
-

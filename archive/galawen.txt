@@ -2,21 +2,18 @@ The nations of Galawen, a huge continent spanning thousands of miles across the 
 
 [u][b]The League of Galawen[/b][/u]
 
-League Code: [color=green]Green[/color] / [color=blue][b][u]Blue[/u][/b][/color] / [color=orange]Orange[/color] / [color=red]Red[/color]
+League Code: [color=green]Green[/color] / [color=blue]Blue[/color] / [color=orange]Orange[/color] / [color=red][u][b]Red[/b][/u][/color]
 Chairman: Dr Arnold Bergwerk (Phariopian)
 Marshal: The Council (International)
 
 [b][u]Security Council:[/b][/u]
 [nation]Phario[/nation]
-TBD
+[nation]jalkastan[/nation]
 TBD
 
 [b][u]Regular Members:[/b][/u]
 [nation]isles of rengard[/nation]
-[nation]jalkastan[/nation]
-[nation]caerhold[/nation]
 [nation]worksheetland[/nation]
-[nation]chreeeeeees[/nation]
 [nation]xerad[/nation]
 [nation]kolsavia[/nation]
 Empire of Manlidav
@@ -27,5 +24,6 @@ Empire of Manlidav
 [nation]jaubland[/nation]
 [nation]conwayland[/nation]
 [nation]the_priderodikan_empire[/nation]
+[nation]caerhold[/nation]
 
 [url=http://i.imgur.com/3S64wmZ.png]The Map[/url]
