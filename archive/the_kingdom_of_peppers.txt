@@ -14,9 +14,9 @@
 [hr]
 [color=green][b]The Government[/b][/color]
 President: [nation]Hensinika[/nation]
-Minister of Foreign Affairs:[color=red][b]RESIGNED [i]UNOFFICIALLY[/i][/b][/color] [nation]Eilare[/nation] 
+Minister of Foreign Affairs:[color=blue][b]OPEN[/b][/color]
 Minister of Defense: [nation]Terra Atlantica[/nation]
-Minister of Justice: 
+Minister of Justice: [color=blue][b]OPEN[/b][/color]
 Minister of Immigration: [nation]Aterna[/nation]
 Minister of Agriculture of Peppers: [nation]Rath Rhinoth[/nation] 
-Assistant to Ministers: 
+Assistant to Ministers: [color=blue][b]OPEN[/b][/color]

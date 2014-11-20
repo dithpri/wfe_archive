@@ -5,7 +5,7 @@
 King: [nation=short]Nephmir[/nation]
 Lord: [nation=short]Anders Blakewood[/nation]
 Duke: [nation=short]Allied SHOCKWAVE Coalition[/nation]
-Marquess: (To be appointed!)
+Marquess: [nation=short]Handora[/nation]
 Countess: [nation=short]Heavenly Underlings[/nation]
 Baron: [nation=short]Elysium of Heroes[/nation]
 
@@ -16,16 +16,13 @@ Increase our influence in the World Assembly! Endorse the Duke, [b][url=http://w
 
 Featured Endorser: [nation=short]Aelex[/nation]
 
-[hr][b]RolePlays[/b]
-(To be updated)
-(More RP Madness)
-(Yet Another RP)
-(Etc.)
+[hr][b]Community[/b]
+[url=http://forum.nationstates.net/viewtopic.php?f=20&amp;amp;t=320196]The Eternal Thread[/url] (Let us conquer it with profound discussion!)
+[url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=320695]Eternal Military Pact[/url]
 
-[hr][b]Military[/b] ([u][url=http://w11.zetaboards.com/The_Eternal_Knights/]Forums[/url][/u])
-[url=http://w11.zetaboards.com/The_Eternal_Knights/forum/4192832/]Assembly Hall[/url]
-
+[hr][b]Military[/b] ([u][url=http://w11.zetaboards.com/The_Eternal_Knights/]Forums[/url][/u]) ([u][url=http://w11.zetaboards.com/The_Eternal_Knights/forum/4192832/]Assembly Hall[/url][/u])
 Successful Operations: 103
+
 [spoiler=Enlist!][b][url=http://www.nationstates.net/page=dispatch/id=282264]Click here...[/url][/b][/spoiler]
 
 [b][color=#ED1C38]Military Orders:[/color][/b] Move your registered WA Nation to [b][region]Helix[/region][/b] and endorse [b][nation=short]Helixical Orbit[/nation][/b].

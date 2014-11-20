@@ -1,7 +1,10 @@
-This is the place where [nation]Xarcan[/nation] keeps its puppets.
+[b]This is the place where [u][nation]Xarcan[/nation][/u] keeps its puppets.[/b]
+
 A total of four nations, all with close ties to the motherland, reside here.
-While [nation=short+noflag]Xarcan[/nation] is an Iron-Fist Consumerist state, here there are nations striving toward being:
--Psychotic Dictatorship
--Benevolent Dictatorship
--New York Times Democracy
--Anarchy
+While [nation=short+noflag]Xarcan[/nation] is an Iron-Fist Consumerist state, here there are nations with many political ideologies:
+
+[spoiler=[color=red]Nations[/color]]
+[color=orange][nation]Chaosistan[/nation] = Psychotic Dictatorship[/color]
+[color=green][nation]Scandinavio[/nation] = Left-Leaning College State[/color]
+[color=purple][nation]Great Prairie[/nation] = New York Times Democracy[/color]
+[color=blue][nation]Anarchsland[/nation] = Capitalist Paradise[/color][/spoiler]

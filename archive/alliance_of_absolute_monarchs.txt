@@ -1,20 +1,22 @@
 President:
 Belique (RL)
 
-Senators:
-Hess-Castle (RL)
-Gyuamno (RL)
-Louisburg (RL)
+Senate:
+[color=green]Hess-Castle (RL)[/color]
+(contested)
+[color=green]Gyuamno (RL)[/color]
+[color=green]Louisburg (RL)[/color]
 
 Chamber of Representatives:
 Woschia (IRP)
-Vilnia (IMP)
+[color=green]Vilnia (IMP)[/color]
 Swaneburgh (MA)
-Royal Georgia (RL)
+[color=green]Royal Georgia (RL)[/color]
 Novo Siberia (I)
 
 Grand Court:
-Slavajgrad (RL)
+[color=red]Slavajgrad (RL)[/color]
+(contested)
 
 Regional Discussion Thread
 http://forum.nationstates.net/viewtopic.php?ns=1&amp;amp;f=4&amp;amp;t=320392#p22465406

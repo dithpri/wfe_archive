@@ -1,7 +1,7 @@
 Emperor-[nation]St Nevis And Kitts[/nation]
 Prime minister-[nation]The Amuricas[/nation]
-Deputy prime minister-[nation]Vacant[/nation]
-Recruit minister-[nation]Vacant[/nation]
+Deputy prime minister/foreign affair-[nation]Vacant[/nation]
+Recruit minister-[nation]Brahmins[/nation]
 Defense minister-[nation]Vacant[/nation]
 
 we are also a member of PFQ network

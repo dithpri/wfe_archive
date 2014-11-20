@@ -1,0 +1,6 @@
+World Assembly Delegate: [nation]Attractiveness[/nation]
+Security Council Delegate: [nation]Orfinnlund[/nation]
+General Assembly: [nation]Novorgrod[/nation]
+Next Elections;
+Security Council Delegate: December 1
+General Assembly Delegate: December 4

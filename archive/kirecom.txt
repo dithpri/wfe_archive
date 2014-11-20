@@ -1,12 +1,8 @@
-[B]WELCOME TO KIRECOM[/B]
+Huzzah? Ha The Black Riders were no Match for the few members of KireCom!
 
-Founder:[nation]Kirecom[/nation]     
-Current Actuating President: [nation]kirecom[/nation]
+Founder: [nation]Kirecom[/nation]
+President: None
 
-President:
-
-Secretary of Foreign Affairs: [nation]Comnia[/nation]
-Secretary of Internal Affairs: [nation]quaditaz[/nation]
-Secretary of Press and Journalism: [nation]aroniaan[/nation]
-Secretary of Recruitment and Border Security: [nation]consoma[/nation]
-Intelligence and Defense Director: [nation]stasiana[/nation]
+Secretary of Recruitment and Border Security: [nation]Comnia[/nation]
+Secretary of Journalism and Media:
+Intelligence and Defense director:

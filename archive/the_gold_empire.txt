@@ -6,11 +6,11 @@
 Founder: [nation=Galvin Islands]
 
 [u]Executive Branch[/u]
-Prime Minister: NONE
+Prime Minister: [nation=The Carnivorous Trees]
 WA Delegate: [nation=The Carnivorous Trees]
-Minster of Foreign Affairs: NONE
-Minster of Internal Affairs: NONE
-Minister of Recruitment: NONE
+Minster of Foreign Affairs: [nation=Ugly Noobs]
+Minster of Internal Affairs: [nation=The Barbarian Hordes]
+Minister of Recruitment: [nation=The Dumb Peoples]
 
 [u]Legislative Branch[/u]
 [url=http://www.nationstates.net/page=dispatch/id=330314]Complete List of Members[/url]
@@ -23,7 +23,7 @@ Minister of Recruitment: NONE
 [/color]
 [hr]
 [b]REGION SAFETY LEVEL: [color=#59db26]Good[/color][/b]
-The are 5 safety levels, each depending on other regions&amp;#39; interest to attack us, Zombie Apocalypse, or anything that affects the region. The safety levels are:
+The are 5 safety levels. The safety levels are:
 [color=Green]Excellent[/color]
 [color=#59db26]Good[/color]
 [color=#b4d022]Fair[/color]

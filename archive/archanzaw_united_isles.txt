@@ -6,6 +6,7 @@ ArchanZaw was created after a bloody civil war that torn the empire apart, with 
 
 [b]Neighbouring Countries/Islands :[/b]
 [nation]Yorkfall[/nation]
+[nation]Harpton[/nation]
 
 [b]Foreign Allies :[/b]
 [nation]Empire of Brazil and Uruguay[/nation]
