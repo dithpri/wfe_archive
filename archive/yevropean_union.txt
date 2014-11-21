@@ -9,6 +9,7 @@
 [b]Member States[/b]
 
 [nation]Castilea[/nation]
+[nation]Danea[/nation]
 [nation]Litwaczka[/nation]
 [nation]Maronia[/nation]
 [nation]New Gentia[/nation]
@@ -22,5 +23,4 @@
 [region]Union of Independent Nations[/region]
 [hr]
 
-[url=http://s27.postimg.org/qhq520k0j/YUMap.png]Yevropean Union Map[/url] (26/10/2014)
-[url=http://s30.postimg.org/w4uhqr84f/Map.png]World Map[/url] (15/11/14)
+[url=http://s4.postimg.org/4qc6bgcmj/Map.png]World Map[/url] (20/11/14)

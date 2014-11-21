@@ -5,7 +5,7 @@
 [u]Imperator:[/u] [nation]Opiachus[/nation]
 [u]Consul:[/u] [nation]Cayasia[/nation]
 [u]Consul:[/u] Appointed
-[u]Praetors:[/u] None
+[u]Praetors:[/u] [nation]Heiliges Preussiches Reich[/nation]
 
 [b]Crown Laws[/b]
 

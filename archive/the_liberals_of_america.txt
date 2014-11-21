@@ -1,14 +1,11 @@
 Map: http://tinypic.com/r/fbgx7o/8
 
 Minister of Finance and Management: [nation]Mede[/nation]
-Minister Foreign and Commonwealth Affairs:  [nation]United Christian[/nation]
-Minister of Justice, Defence, and Intel: [nation]United Christian[/nation]
+Minister Foreign, International Development, and Commonwealth Affairs:  [nation]United Christian[/nation]
+Minister of Justice, Defense, Intel, and Military: [nation]United Christian[/nation]
 Minister of Trade, Work, and Pensions:[nation]Helor[/nation]
-Minister of Health, Equalities and International Development:
-Minister of State: [nation]Monos[/nation]
-Minister of Military:
-Minister of Housing, Urban Development, and Transportation:
-Minister of Energy:
+Minister of Health, Equities and International Development:
+Minister of Interior: [nation]Monos[/nation]
+Minister of Environment:
 
-Discussion Topic: State of Affairs
 

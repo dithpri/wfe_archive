@@ -5,9 +5,10 @@ Welcome to New Caelondia.
 [nation]New Natalia[/nation]
 [nation]Felania[/nation]
 
-[b]Conservative Bloc[/b]
+[b]Falangist Bloc[/b]
 [nation]Congaree[/nation]
 [nation]Emporea[/nation]
+[nation]Voroniya[/nation]
 
 [b]The Rogues Gallery[/b]
 [nation]Comorostan[/nation]
@@ -15,6 +16,4 @@ Welcome to New Caelondia.
 
 [u]Regional News[/u]
 
--Atlantic Pact begins intervention in Gilan to end government sponsorship of Islamist terrorism 
--[nation]Comorostan[/nation] issues condemnation of Gilan intervention
--Unconfirmed reports suggest riots in major cities in [nation]Emporea[/nation] over poor living standards
+-Falangist political parties take power in [nation]Emporea[/nation], [nation]Voroniya[/nation], and [nation]Congaree[/nation]
