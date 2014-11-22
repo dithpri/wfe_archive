@@ -7,8 +7,6 @@ Flag Master: [nation]Berdanvia[/nation]
 Brannack Ambassador: [nation]Community of free peoples[/nation]
 Secretary of Defense: [nation]Revitallia[/nation]
 Secretary of Foreign Affairs: [nation]Ameslap[/nation]
-Secretary of Commerce: [nation]Patropolism[/nation]
-Secretary of Agriculture and Wildlife: [nation]Berzikstans[/nation]
 Secretary of Domestic Affairs: [nation]Araluen and Eyreland[/nation]
 
 Awaiting legislation: [b]Senate of Brannack[/b]

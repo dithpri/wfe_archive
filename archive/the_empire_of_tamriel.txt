@@ -14,7 +14,7 @@ Potentate: [nation=short]Zanzibarya[/nation]
 
 Imperator: [nation=short]-S k y r i m-[/nation]
 
-Imperial Coutrmage: Coming soon
+Imperial Coutrmage: [nation=short]Great Alinor[/nation]
 
 Imperial Vizier: [nation=short]Thieves Guild of Tamriel[/nation][/b]
 
@@ -22,8 +22,6 @@ Imperial Vizier: [nation=short]Thieves Guild of Tamriel[/nation][/b]
 [hr]
 [u][b][color=darkred]&amp;gt;&amp;gt;Imperial News&amp;lt;&amp;lt;[/color][/u][/b]
 &#149; All citizens can message the Emperor for there nation to be in a provence on the Reginal Map
-
-&#149; A new position in Government the &amp;quot;Imperial Courtmage&amp;quot; maybe established
 
 [u][b][color=darkred]&amp;gt;&amp;gt;Imperial TV &amp;amp; Radio&amp;lt;&amp;lt;[/color][/b][/u]
 [url=http://youtu.be/54XwUi7Hc0k]Elder Scroll: V Angery Joe Review[/url]

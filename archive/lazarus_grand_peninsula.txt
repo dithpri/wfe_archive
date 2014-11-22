@@ -1,7 +1,5 @@
 [b]The Lazarus Grand Peninsula[/b] [LGP] is a Region being built up by its founder nation, [b]Indo-Malaysia[/b]. It will be a great once fully built up.
 
-Our regional currency is the [b]Lazarus Java[/b], commonly abbreviated to [b]Java[/b], please adopt them as your currency (Optional) so the Region has a universal currency to help with trade.
-
 [b] HIGH COUNCIL [/b]
 
 [nation=Indo-Malaysia] ([b]Head of Council[/b])
@@ -12,6 +10,7 @@ Our regional currency is the [b]Lazarus Java[/b], commonly abbreviated to [b]Jav
 
 [nation=Lazarus Grand Peninsula] 
 [nation=Apocalyptic Santiago Order]
+[nation=Oh my god is disgusting the scurvy]
 
 [b] REGIONAL AMBASSADORS[/b]
 

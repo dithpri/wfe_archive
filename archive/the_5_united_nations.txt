@@ -1,12 +1,9 @@
 Together we rule the world!
 
+Emperor: [nation]New-New-Gallifrey[/nation]
 
-Emperor: New-New-Gallifrey
+Prime Minister: [nation]Kaijutopia[/nation]
 
-Prime Minister: Kaijutopia
+Head of Defense: [nation]The Warring Nation Of Marauders[/nation]
 
-Head of Defense: The Warring Nation Of Marauders
-
-Head of Diplomatic Relations: The United States of Russiania
-
-Head of Agriculture: The War Plains
+Head of Agriculture: [nation]Jarim[/nation]

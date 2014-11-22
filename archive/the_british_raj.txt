@@ -1,1 +1,12 @@
-place holder
+[color=firebrick][b]The British Raj[/b][/color]
+
+[color=navy]The British Raj was the British rule in the Indian subcontinent between 1858 and 1947. The term can also refer to the period of dominion. The region under British control&#151;commonly called &amp;quot;India&amp;quot; in contemporary usage&#151;included areas directly administered by the United Kingdom as well as the princely states ruled by individual rulers under the paramountcy of the British Crown.[/color]
+
+[hr]
+
+[color=firebrick][b]Emperor:[/b][/color] [nation=short]Camulodunum[/nation]
+[color=firebrick][b]Governor-General:[/b][/color] [nation=short]British Raj[/nation]
+
+[hr]
+
+[b][color=green]Dominion of [/color][region]The British Commonwealth[/region][/b]

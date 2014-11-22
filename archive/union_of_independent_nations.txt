@@ -5,7 +5,9 @@
 [hr]
 
 [b]Latest News:[/b] 
-WA Delegate elections to take place, nations assumed to be in the running unless they state otherwise.
+-WA Delegate elections to take place.
+-First regional conference to be held at a location to be determined later.
+-World Cup postponed.
 [hr]
 
 [b]Head Nations[/b] 
@@ -15,7 +17,10 @@ WA Delegate elections to take place, nations assumed to be in the running unless
 
 [b]Member Nations[/b]
 
+[nation]Batoristan[/nation]
+[nation]Belierna[/nation]
 [nation]Eitusian[/nation]
+[nation]New Slatain[/nation]
 [nation]Ordorinia[/nation]
 [nation]Palatena[/nation]
 [nation]Quamunsia[/nation]

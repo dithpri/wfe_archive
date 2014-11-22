@@ -1,7 +1,7 @@
 [B]King: [nation=short]The Great European Commonwealth[/nation]
 WA Delegate/Prime Minister: [nation=short]Theoniatium[/nation]
 
-Minister of Defence: available
+Minister of Defence: [nation=short]Celter[/nation]
 Minister of Role Play: [nation=short]Imperial Technocracy[/nation]
  - Vice M. of Role Play: [nation=short]Marmero[/nation]
 Minister of Justice: [nation=short]SP Rebellion[/nation]

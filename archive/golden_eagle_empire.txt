@@ -1,11 +1,13 @@
-[b][color=#000061]Huzzah! Huzzah! Huzzah! This region proved no match for a charge by [region=The Black Riders]![/color]
+[b][color=#DC143C]The Crimson Omen hangs over the land[/color][/b]
+[hr]
+[color=purple][B]Natives should know they couldn&#146;t hide forever.We would always find you, know that you are never safe
+-[region]The Crimson Empire[/region][/B][/color]
 
-[color=black]Occupied by [url=http://www.youtube.com/watch?v=qB1kp9adYYE]The Black Riders[/url]! Our lair can be found [/color] [url=http://s4.zetaboards.com/The_Black_Riders/index/]here[/url]
-
-[color=#000061]Into the battle rode the following riders:[/color]
-[nation=short]Kknight[/nation]
-[nation=short]Gest[/nation]
-[nation=short]Aurum Rider[/nation]
-[nation=short]Lord Nuke[/nation]
-[nation=short]SilverSentinel[/nation]
-[/b]
+[b]There is but two paths: You either stand with us or stand against us. It is Raideron&#146;s way, the path we follow.[/b]
+[hr]
+[B][color=darkblue]The Legionnaires who have taken this region:[/color]
+Consul [nation=short]Shadoke[/nation]
+Consul [nation=short]Aperonia[/nation]
+Auxilary [nation=short]Dwarmencia[/nation]
+Mercenary [nation=short]Corvus Corax[/nation]
+And TBR Rider [nation=short]Great Kleomentia[/nation][/B][hr]
