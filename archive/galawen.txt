@@ -10,6 +10,7 @@ WORLDCODE: [color=green]Green[/color] / [color=blue][u][b]Blue[/b][/u][/color] /
 [nation]jalkastan[/nation]
 [nation]kolsavia[/nation]
 [nation]chreeeeeees[/nation]
+[nation]worksheetland[/nation]
 Empire of Manlidav
 
 [b][u]The Confederacy of Independent Sovereign States[/b][/u]
@@ -18,7 +19,6 @@ Empire of Manlidav
 [nation]jaubland[/nation]
 [nation]conwayland[/nation]
 [nation]the_priderodikan_empire[/nation]
-[nation]caerhold[/nation]
 [nation]united_arzopia[/nation]
 
-[url=http://i.imgur.com/frkNhxq.png]The Map[/url]
+[url=http://i.imgur.com/WwrMJ5P.png]The Map[/url]

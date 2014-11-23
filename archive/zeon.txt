@@ -1,10 +1,11 @@
-[b]SPACE COLONY, [color=red]SIDE 3[/color] -- [color=goldenrod]PRINCIPALITY OF ZEON[/color][/b]
+[b][color=grey]SPACE COLONY,[/color] [i][color=red]SIDE 3[/color][/i] [color=grey]--[/color] [u][color=goldenrod]PRINCIPALITY OF ZEON[/color][/u][/b]
 
-[color=green]&amp;quot;[b][i]The Side farthest away from Earth.[/i][/b]&amp;quot;[/color]
-[hr][hr][b]Welcome, [i]spacenoid[/i], to the [color=goldenrod]Principality of Zeon[/color]![/b]
+[color=green]&amp;quot;[i]The Side farthest away from Earth.[/i]&amp;quot;[/color]
+[hr][hr][color=grey][b]Welcome, [i]spacenoid[/i], to the[/color] [u][color=goldenrod]Principality of Zeon[/color][/u][color=grey]![/color][/b]
 
-[color=red][b][i]A community for fans of the [url=http://en.wikipedia.org/wiki/Gundam]Gundam Series[/url].[/i][/b][/color]
+[color=green][i]A community for fans of the [url=http://en.wikipedia.org/wiki/Gundam]Gundam Series[/url].[/i][/color]
 
-[hr][hr][b][color=goldenrod]Sovereign[/color]: [color=goldenrod][i]Prince Casval Deikun[/i][/color] -- [nation=short]The Red Komet[/nation][/b]
+[hr][hr][b][color=goldenrod]His Sovereign Lord[/color][color=grey]:[/color] [color=goldenrod][i]Prince Casval Deikun[/i][/color] [color=grey]([/color][nation=short]The Red Komet[/nation][color=grey])[/color][/b]
+[b][color=red]Newtype Aces[/color][color=grey]: Captain[/color] [nation=short]Oz Aries Commander[/nation][/b]
 [hr][hr]
 

@@ -1,11 +1,3 @@
-[u][b][color=Blue]Welcome To Our Region![/color][/b][/u]
-[hr]
-[u][b][color=Blue]Regional Government![/color][/b][/u]
-Founder: [nation]Gang Nation[/nation]
-WA Delegate: [color=Red]VACANT[/color]
-Prime Minister: [color=Red]VACANT[/color]
-[hr]
-[b][color=Blue]Regional News![/color][/b]
-- Under [b]MASSIVE[/b] Change In Government!
-- Elections Will Be Coming [b]SOON[/b]
-[hr]
+[B]This region is now under the control of [region]The Fascist Union[/region].
+
+Saluto Il Duce![/B]

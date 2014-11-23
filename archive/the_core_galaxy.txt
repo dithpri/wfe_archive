@@ -3,8 +3,10 @@
 [nation=short]Blue Dawn[/nation]
 [nation=short]Perfectness and Peace[/nation]
 [nation=short]New spacelandia[/nation]
-[nation=short]GNAF[/nation][hr][b][color=gold]Roleplay Era: 2204[/color][/b] (as of november 3, 2014)
-[b][color=gold]Roleplay Tech Level: Futuristic/Science Fiction[/color][/b]
+[nation=short]GNAF[/nation][hr][b]Roleplay Era: [color=grey]2205[/b][/color] (as of november 18, 2014)
+[b]Roleplay Tech Level: [color=grey]Futuristic/Science Fiction[/color][/b]
+[b]Regional Currency: [color=blue]Galactic Currency Unit[/color][/b]
+[b]Regional Precious Metal: [color=orange]Electrum[/color][/b]
 [hr]
 
-LAST UPDATED NOVEMBER 3, 2014
+LAST UPDATED NOVEMBER 18, 2014
