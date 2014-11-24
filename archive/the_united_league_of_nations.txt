@@ -8,12 +8,12 @@ Director of WA Affairs: [nation=short]Cardoness[/nation] ([color=orange]IFP[/col
 
 Dungeon Master: [nation=short]Ghondra[/nation] ([color=lightblue]PMP[/color])
 
-Defense Minister: [nation=short]Fragmentia[/nation] ([color=darkred]PWP[/color])
+Defense Minister: [nation=short]Fragmentia[/nation] ([color=darkred]PWP[/color]) / [nation=short]Eire United[/nation] (I)
 
-Foreign Minister: [nation=short]Andermor[/nation] (I)
+Foreign Minister: [nation=short]Andermor[/nation] (I) / [nation=short]Sai Chan[/nation] ([color=red]LSP[/color])
 Interior Minister: [nation=short]Plotus[/nation] ([color=pink]TPP[/color])[/B]
 
-Editor-in-Chief:
+Editor-in-Chief: [nation=short+noflag]Ghondra[/nation] (Interim, still looking for permanent) 
 Wiki Master:
 Flag Designer:
 Cartographer:

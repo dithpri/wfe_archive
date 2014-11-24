@@ -3,7 +3,7 @@
 
 [hr][b]Government[/b]
 King: [nation=short]Nephmir[/nation]
-Lord: [nation=short]Anders Blakewood[/nation]
+Bishop: [nation=short]Anders Blakewood[/nation]
 Duke: [nation=short]Allied SHOCKWAVE Coalition[/nation]
 Marquess: [nation=short]Handora[/nation]
 Countess: [nation=short]Heavenly Underlings[/nation]

@@ -4,9 +4,11 @@ _____________________________________________________
 Queen: [nation=short]Chichi Empire[/nation]
 Royal Adviser:[nation=short]Auri-El[/nation]
 Prime Minister: [nation=short]BARSUNA[/nation]
-_____________________________________________________
-Regional Announcements:
-[B]SEND MAP CLAIMS TO ROYAL ADVISER!!! [/B]
 
-_____________________________________________________
-Defcon Level - [B][color=orange]2[/color][/B]
+[spoiler=Regional Announcements]
+[B]SEND MAP CLAIMS TO ROYAL ADVISER!!! 
+Please take that Quiz!
+[color=red]Government Shutdown, will happen due to holidays[/color][/B][/spoiler]
+___________________
+
+[spoiler=Defcon]Defcon Level - [B][color=orange]2[/color][/B][/spoiler] 

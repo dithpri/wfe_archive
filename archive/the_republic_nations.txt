@@ -8,8 +8,8 @@
 
 [color=green][b]Government:[/b][/color]
    [B]Founder:[/b] [nation=vindex nation]
-   [b]WA delegate:[/b] [nation=the_mondas_federation]
-   [b]Vice delegate:[/b] [nation=recently freed states]
+   [b]WA delegate:[/b] [nation=recently freed states]
+   [b]Vice delegate:[/b] [nation=the mondas federation]
    [b]Speaker of the House:[/b] [nation=ennhist]
    [b]Secretary of Defense:[/b] [nation=The Cactus]
    [b]Secretary of Foreign Affairs :[/b] [nation=southren_states_of_manifest_destiny]

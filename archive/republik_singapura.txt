@@ -1,3 +1,7 @@
-[b]This region is a colony of the [region]Union of Confederate Regions[/region].
+[b]This region has been refounded as an outpost of [region]The Domination of the Draka[/region]
 
-This land belongs to the Colonial Governor of Republik Singapura, [nation=short]Langor Empire[/nation]![/b]
+Former Founder:
+[nation]Union Council[/nation]
+
+Former Former Founder:
+[nation]Die Rote Fahne[/nation][/b]
