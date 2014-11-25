@@ -1,13 +1,11 @@
 We are [region]The Isle of Arsonistical Infusment[/region]. We are a small region containing nations with many different ideals. Not everyone is necessarily welcome here.
 
-[url=http://force-of-lightning.webcomic.ws/files/regionmap.png]Region Map[/url]
+[b][url=http://force-of-lightning.webcomic.ws/files/regionmap.png]Region Map[/url][/b]
 
 Leadership:
 
-President(s): [nation=short+noflag]The United Libertarian State Of Britain[/nation]/[nation=short+noflag]Iklonia[/nation] (coalition)
+Ruler: [nation=short+noflag]Iklonia[/nation]
 
-Vice President: [nation=short+noflag]Dodongo[/nation]
+Minister Of Defence: [nation=short+noflag]Scottalot[/nation]
 
-Minister Of Defence: To Be Elected
-
-Minister Of Foreign Affairs: To Be Elected
+Minister Of Foreign Affairs:[nation=short+noflag]Banjopia[/nation]

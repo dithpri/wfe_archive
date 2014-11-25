@@ -2,21 +2,22 @@ President:
 Belique (RL)
 
 Senate:
-[color=red]Hess-Castle (RL)[/color]
+[color=black]Hess-Castle (RL)[/color]
 [color=black]Gyuamno (RL)[/color]
 [color=green]Louisburg (RL)[/color]
 
 Chamber of Representatives:
-[color=black]Woschia (I)[/color]
-[color=black]Vilnia (RL)[/color]
-[color=black]Swaneburgh (MA)[/color]
-[color=black]Royal Georgia (RL)[/color]
+[color=black]Woschia (IRU)[/color]
+[color=green]Vilnia (RL)[/color]
+[color=black]Swaneburgh (IRU)[/color]
+[color=green]Royal Georgia (RL)[/color]
 [color=black]Novo Siberia (I)[/color]
 [color=black]Hohezollern (I)[/color]
+[color=black]Pronunshaa (I)[/color]
 
-Grand Court:
+Social Court:
 [color=black]Slavajgrad (RL)[/color]
-(Pending)
-
-Regional Discussion Thread
-http://forum.nationstates.net/viewtopic.php?ns=1&amp;amp;f=4&amp;amp;t=320392#p22465406
+Economic Court:
+[i]vacant[/i]
+Political Court:
+[i]vacant[/i]

@@ -1,27 +1,35 @@
 [u][b][color=Blue]The Gold Empire[/color][/b][/u]
 [color=#03C6FF]Welcome to the Gold Empire! This region was founded by [nation=Galvin Islands] on November 13, 2014 at 8:01 PM Central Time.[/color]
 
+
 [color=#4099FF]
 [b]Regional Information[/b]
 Founder: [nation=Galvin Islands]
 
-[u]Executive Branch[/u]
+[u]Regional Government[/u]
 Prime Minister: [nation=The Carnivorous Trees]
-WA Delegate: [nation=The Carnivorous Trees]
-Minster of Foreign Affairs: [nation=Ugly Noobs]
-Minster of Internal Affairs: [nation=The Barbarian Hordes]
-Minister of Recruitment: [nation=The Dumb Peoples]
 
-[u]Legislative Branch[/u]
-[url=http://www.nationstates.net/page=dispatch/id=330314]Complete List of Members[/url]
+[i]Committee of War[/i]
+Minister of War: [nation=Ugir]
+Minister of Defense: NONE
+
+[i]Committee of Foreign Affairs[/i]
+Minister of Diplomacy: [nation=The Barbarian Hordes]
+Minister of Safety: NONE
+
+[i]Committee of Internal Affairs[/i]
+Minister of Recruitment: [nation=Galvin Land]
+Minister of Information: NONE
 [/color]
+
 
 [color=#29dbd2]
 [b]Websites to Visit[/b]
 [url=http://www.nseconomy.thirdgeek.com/]Economy[/url]
-[url=http://s15.zetaboards.com/The_Gold_Empire/index/]Forum[/url]
+[url=http://thegoldempire.freeforums.net/]Forum[/url]
 [/color]
-[hr]
+
+
 [b]REGION SAFETY LEVEL: [color=#59db26]Good[/color][/b]
 The are 5 safety levels. The safety levels are:
 [color=Green]Excellent[/color]
