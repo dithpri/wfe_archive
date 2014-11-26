@@ -10,16 +10,16 @@ Founder: [nation=Galvin Islands]
 Prime Minister: [nation=The Carnivorous Trees]
 
 [i]Committee of War[/i]
-Minister of War: [nation=Ugir]
-Minister of Defense: NONE
+Minister of War: NONE
+Minister of Defense: [nation=Ugir]
 
 [i]Committee of Foreign Affairs[/i]
 Minister of Diplomacy: [nation=The Barbarian Hordes]
-Minister of Safety: NONE
+Minister of Recruitment: [nation=Galvin Land]
 
 [i]Committee of Internal Affairs[/i]
-Minister of Recruitment: [nation=Galvin Land]
-Minister of Information: NONE
+Minister of Safety: NONE
+Minister of Information: [nation=The Dumb Peoples]
 [/color]
 
 
