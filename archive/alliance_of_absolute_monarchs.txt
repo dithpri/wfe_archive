@@ -2,12 +2,12 @@ President:
 [color=green]Belique (RL)[/color]
 
 Senate:
-[color=black]Hess-Castle (RL)[/color]
+[color=green]Hess-Castle (RL)[/color]
 [color=black]Gyuamno (RL)[/color]
 [color=green]Louisburg (RL)[/color]
 
 Chamber of Representatives:
-[color=black]Woschia (IRU)[/color]
+[color=green]Woschia (IRU)[/color]
 [color=green]Vilnia (RL)[/color]
 [color=black]Swaneburgh (IRU)[/color]
 [color=green]Royal Georgia (RL)[/color]
@@ -16,7 +16,7 @@ Chamber of Representatives:
 [color=black]Pronunshaa (I)[/color]
 
 Social Court:
-[color=black]Slavajgrad (RL)[/color]
+[color=green]Slavajgrad (RL)[/color]
 Economic Court:
 [i]vacant[/i]
 Political Court:

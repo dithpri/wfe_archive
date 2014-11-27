@@ -1,7 +1,7 @@
 Region Staff Members
 
 [nation]Merviengrad[/nation]
-Ex-Founder (Overthrown)
+Founder
 
 [nation]Ken-Shire[/nation]
 Co-Founder
@@ -12,8 +12,10 @@ Secretary of Defense
 [nation]Iamar[/nation]
 Secretary of Law
 
+[b]W.A. Delegate Needed[/b]
+
 [color=blue]Feel the Love?[/color]
-Endorse [nation=noflag]Merviengrad[/nation]
+Endorse [nation]Merviengrad[/nation]
 
 [color=red]Information[/color]
 Off-Site forums have a currency, the Great Marsh. You can use those to buy official forums membership and other cool stuff! Things you can buy:

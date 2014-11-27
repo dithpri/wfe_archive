@@ -13,6 +13,6 @@
 [color=Red]South Region[/color]:
 [Color=Blue]West Region[/Color]:
 [Color=Orange]East Region[/color]:
-.--_**Pesident**_--.
+.--_**President**_--.
 [Color=Tan]Leader[/color]:[nation]The us forces[/nation]
 [Color=Tan]Supreme Leader[/Color]: None

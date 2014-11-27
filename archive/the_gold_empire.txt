@@ -30,7 +30,7 @@ Minister of Information: [nation=The Dumb Peoples]
 [/color]
 
 
-[b]REGION SAFETY LEVEL: [color=#59db26]Good[/color][/b]
+[b]REGION SAFETY LEVEL: [color=green]Excellent[/color][/b]
 The are 5 safety levels. The safety levels are:
 [color=Green]Excellent[/color]
 [color=#59db26]Good[/color]
