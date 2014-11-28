@@ -11,10 +11,9 @@ Foreign Affairs: Gerwane
 Internal Affairs: Gerwane
 Land Management: Gerwane
 Justice: Skellitone
-Labour: Gerwane
+Labour: Skellitone
 Immigration: Skellitone
 Re-education: Skellitone
 Human Rights: Skellitone
 Nature Welfare: Skellitone
 Spirituality: Gerwane
-Ecosystem Welfare: Skellitone

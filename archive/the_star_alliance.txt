@@ -1,28 +1,26 @@
 Region Staff Members
 
-[nation]Merviengrad[/nation]
+[nation=short]Merviengrad[/nation]
 Founder
 
-[nation]Ken-Shire[/nation]
+[nation=short]Enderakir[/nation]
 Co-Founder
 
-[nation]Lesthar[/nation]
+[nation=short]Lesthar[/nation]
 Secretary of Defense
 
-[nation]Iamar[/nation]
-Secretary of Law
+[b][color=green]W.A. Delegate Needed[/color][/b]
 
-[b]W.A. Delegate Needed[/b]
+==========================
+[b]
+[url=http://www.nationstates.net/nation=merviengrad/detail=factbook/id=334016]Click To Apply For Citizenship![/url][/b]
+
+[b][url=http://www.nationstates.net/nation=merviengrad/detail=factbook/id=334176]Click To Apply For The Military![/url][/b]
+
+==========================
 
 [color=blue]Feel the Love?[/color]
-Endorse [nation]Merviengrad[/nation]
+Endorse [nation=short]Merviengrad[/nation]
 
-[color=red]Information[/color]
-Off-Site forums have a currency, the Great Marsh. You can use those to buy official forums membership and other cool stuff! Things you can buy:
-&#149; Membership
-&#149; Nation Sponsorship
-&#149; Forums Tags
-&#149; And MORE!
-
-[color=green]Current Debates[/color]
-[b]None.[/b]
+[color=purple]Want an embassy? Contact Me![/color]
+[nation=short]Merviengrad[/nation]

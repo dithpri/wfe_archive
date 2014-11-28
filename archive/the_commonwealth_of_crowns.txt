@@ -6,7 +6,7 @@
 Founder:[nation=short]Osberg-Thitania[/nation]
 Chancellor:
 Secretary General: 
-Speaker: [nation=short]The Two Exalted Kingdoms[/nation]
+Speaker: [nation=short]The Exalted Kingdoms[/nation]
 Prosecutor General: [nation=short]Besate[/nation]
 High Commander:[nation=short]Vetega[/nation]
 

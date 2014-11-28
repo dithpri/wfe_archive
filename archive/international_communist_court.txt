@@ -1,11 +1,11 @@
 This region is dedicated to prosecuting any region accused of crimes against communism.
 
-[B]Supreme Judge:[/B] [nation=short]Supreme Judge[/nation]
+[B]Supreme Judge:[/B] [B][nation=short]Supreme Judge[/nation][/B]
 [B]Representative Judge #1:[/B] [B]None yet, telegram [nation=short]Supreme Judge[/nation][/B]
 [B]Representative Judge #2:[/B] [B]None yet, telegram [nation=short]Supreme Judge[/nation][/B]
 [B]Representative Judge #3:[/B] [B]None yet, telegram [nation=short]Supreme Judge[/nation][/B]
 [B]WA Representative:[/B] [B]None yet, telegram [nation=short]Supreme Judge[/nation][/B]
-[B]Prosecutor:[/B] [B]None yet, telegram [nation=short]Supreme Judge[/nation][/B]
+[B]Prosecutor:[/B] [B][nation=short]Socialist North Italy[/nation][/B]
 
 [u][B]Links:[/B][/u]
 [B][url=http://www.nationstates.net/nation=supreme_judge/detail=factbook/id=333241]How the court works[/url][/B]

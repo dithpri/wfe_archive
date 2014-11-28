@@ -4,10 +4,10 @@
 [hr][b][u]November-December Government:[/u][/b]
 
 [b]Prime Minister:[/b] [nation]aanon bay[/nation]
-[b]Minister for Interior Affairs:[/b] [nation=shortname]Centralton[/nation] 
+[b]Minister for Interior Affairs and Immigration:[/b] [nation=shortname]Centralton[/nation] 
 [b]Minister for Defence:[/b] [nation=shortname]Forssaland[/nation] 
 [b]Minister for Justice:[/b] [nation=shortname]Cliffton[/nation] 
-[b]Minister for Foreign Affairs and Immigration:[/b] [nation=shortname]norton island[/nation]
+[b]Minister for Foreign Affairs:[/b] [nation=shortname]norton island[/nation]
 [b]Councillor:[/b] [nation=shortname]Raindrop Valley[/nation]
 [hr][b]Next Election Period: 28 December 2014[/b]
 

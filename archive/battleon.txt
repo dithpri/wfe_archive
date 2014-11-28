@@ -1,8 +1,12 @@
-[b][color=red]This region has been taken by the imperial army of [region]The Dark Frontier[/region][/color][/b]
+[B][color=purple]A silent dagger in the night, the assassins of [region]Sicarius[/region] swept in leaving not a single survivor, then returned from whence they came.[/color][/B]
 
-[b][color=red]This region was reduced to a ocean of flames by the following imperial troops[/color]
-
-[nation=short]The Black Angel Of Death[/nation]
-[nation=short]Aror[/nation][/b]
-
-[b]Special thx goes to [nation=short]Vandoosa[/nation] of [region]The Glorious Nations of Iwaku[/region] for her  support[/b]
+[B]The Sicarius Assassins[/B]
+[nation=short]The Sapientia[/nation]
+[nation=short]Trick Shot[/nation]
+[nation=short]NoblePhnx[/nation]
+[nation=short]Aurum Rider[/nation]
+[B]were joined by a berserker from [region]The Crimson Empire[/region] [/B]
+[nation=short]Aperonia[/nation]
+[B]and a rider from [region]The Black Riders[/region][/B]
+[nation=short]Vandoosa[/nation]
+[nation=short]Shuplau[/nation]
