@@ -5,7 +5,6 @@
 [hr]
 
 [b]Latest News:[/b] 
--WA Delegate elections to take place.
 -First regional conference to be held at a location to be determined later.
 -World Cup postponed.
 [hr]
@@ -13,6 +12,7 @@
 [b]Head Nations[/b] 
 
 [nation]Estinia[/nation]
+[nation]Yuzan[/nation]
 [hr]
 
 [b]Member Nations[/b]
@@ -24,7 +24,6 @@
 [nation]Ordorinia[/nation]
 [nation]Palatena[/nation]
 [nation]Quamunsia[/nation]
-[nation]Yuzan[/nation]
 [hr]
 
 [b]Allies[/b]

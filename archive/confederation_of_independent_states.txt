@@ -1,20 +1,15 @@
-Memorial to the CIS
-May this region stand the test of time in honour of the achievements of its nations.
+The Confederation of Independent States stood for liberty and democracy, and worked to achieve influence and respect around the world.
 
-A bastion of democracy and freedom with a rich history stretching back over three years, with a Charter that at one point achieved as true an egalitarian society as possible.
+Having achieved its goal, its members faded away. This region has been invaded once, and occupied twice, and yet it still stands free today. It has left its mark on the world, and will always be a place of refuge for those seeking peace and security.
 
-Below is a list of great contributors, lest we forget.
+Below are a list of important members in the history of the Confederation of Independent States:
+Tilsitsin* (original Founder)
+Hylasia (second Founder)
+Syrillia* (third Founder)
+Dragaslavia* (first Prime Minister)
+Ankh Morporka*
+Jaxandria
+Torder
+Kittiwake
 
-[nation]Hylasia[/nation]
-[nation]Syrillia[/nation]
-[nation]Jaxandria[/nation]
-[nation]Ifurya[/nation]
-[nation]Ankh Morporka[/nation]
-[nation]Tilsitsin[/nation]
-[nation]Vargaslavia[/nation]
-[nation]Samek[/nation]
-[nation]Kittiwake[/nation]
-[nation]Torder[/nation]
-[nation]Formerawesomeness[/nation]
-
-This region is now closed until such time as one of its former members sees fit to restore it to its former glory.
+* denotes founding member

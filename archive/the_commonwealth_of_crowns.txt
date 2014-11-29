@@ -5,8 +5,8 @@
 [b]XIX REC[/b]
 Founder:[nation=short]Osberg-Thitania[/nation]
 Chancellor:
-Secretary General: 
-Speaker: [nation=short]The Exalted Kingdoms[/nation]
+Secretary General:[nation=short]Noorderkwartier[/nation]
+Speaker: [nation=short]Narnifrey[/nation]
 Prosecutor General: [nation=short]Besate[/nation]
 High Commander:[nation=short]Vetega[/nation]
 

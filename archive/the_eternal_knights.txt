@@ -5,7 +5,7 @@
 King: [nation=short]Nephmir[/nation]
 Bishop: [nation=short]Anders Blakewood[/nation]
 Lord: [nation=short]Gharan[/nation]
-Duke: (To be appointed!)
+Duke: [nation=short]TEK Delegate[/nation]
 Marquess: [nation=short]Handora[/nation]
 Countess: [nation=short]Heavenly Underlings[/nation]
 Baron: [nation=short]Elysium of Heroes[/nation]
@@ -13,18 +13,15 @@ Baron: [nation=short]Elysium of Heroes[/nation]
 [hr][b]World Assembly[/b] ([u][url=http://www.nationstates.net/page=un]Join[/url][/u])
 Security Council: [url=http://www.nationstates.net/page=sc]Vote here![/url] | General Assembly: [url=http://www.nationstates.net/page=ga]Vote here![/url]
 
-Increase our influence in the World Assembly! Endorse the Duke, [b](To be announced!)[/b]
+Increase our influence in the World Assembly! Endorse the Duke, [b][nation=short+noflag]TEK Delegate[/nation][/b].
 
 Featured Endorser: N/A
 
-[hr][b]Community[/b] ([u][url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=320695]EMP[/url][/u])
-[url=http://forum.nationstates.net/viewtopic.php?f=20&amp;amp;t=320196]The Eternal Thread[/url]
+[hr][b]Community[/b]
+[url=http://w11.zetaboards.com/The_Eternal_Knights/]Forums[/url] (Role Play, games, and more!)
+[url=https://www.nationstates.net/page=dispatch/id=273064]The Eternal Tunes[/url]
 
-[hr][b]Military[/b] ([u][url=http://w11.zetaboards.com/The_Eternal_Knights/]Forums[/url][/u]) ([u][url=http://www.nationstates.net/region=nations_of_the_world]Jump Point[/url][/u])
-Operations: 103
-Liberated: 418
-Destroyed: 504
+[hr][b]Military[/b] ([u][url=http://w11.zetaboards.com/The_Eternal_Knights/]Forums[/url][/u]) ([u][url=http://www.nationstates.net/page=dispatch/id=282264]Enlist[/url][/u])
+Operations: 103 | Liberated: 418 | Destroyed: 504
 
-[spoiler=Enlist!][b][url=http://www.nationstates.net/page=dispatch/id=282264]Click here...[/url][/b][/spoiler]
-
-[b][color=#ED1C38]Military Orders:[/color][/b] Move your registered WA Nation to [b][region]Helix[/region][/b] and endorse [b][nation=short]Helixical Orbit[/nation][/b].
+[b][color=#ED1C38]Military Orders:[/color] Move your registered WA Nation to [region]Helix[/region] and endorse [nation=short]Helixical Orbit[/nation][/b].

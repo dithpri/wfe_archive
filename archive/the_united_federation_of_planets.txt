@@ -27,3 +27,8 @@ Admiral of Starfleet: [nation=short]The Vulcan Science Academy[/nation][/b]
 [b][color=green]The Supreme Court:[/b][/color]
 
 [b]Not In Session[/b]
+
+
+[b][color=green]Chief of Security:[/b][/color]
+
+[b][nation=short]Ancient Humans[/nation][/b]

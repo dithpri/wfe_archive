@@ -5,9 +5,10 @@
 [color=#4099FF]
 [b]Regional Information[/b]
 Founder: [nation=Galvin Islands]
-
-[u]Regional Government[/u]
 Prime Minister: [nation=The Carnivorous Trees]
+
+[u]Government[/u]
+Prime Minister: [nation=NONE]
 
 [i]Committee of War[/i]
 Minister of War: NONE
@@ -24,14 +25,14 @@ Minister of Information: [nation=The Dumb Peoples]
 
 
 [color=#29dbd2]
-[b]Websites to Visit[/b]
+[b]Websites[/b]
 [url=http://www.nseconomy.thirdgeek.com/]Economy[/url]
 [url=http://thegoldempire.freeforums.net/]Forum[/url]
 [/color]
 
 
 [b]REGION SAFETY LEVEL: [color=green]Excellent[/color][/b]
-The are 5 safety levels. The safety levels are:
+The safety levels are:
 [color=Green]Excellent[/color]
 [color=#59db26]Good[/color]
 [color=#b4d022]Fair[/color]
