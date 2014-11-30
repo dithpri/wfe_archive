@@ -6,14 +6,12 @@
 
 [i]Minister of Defence:[/i] [nation]Tyrinthion[/nation]
 
-[i]Minister of Recruitment:[/i] [nation]New Tuva SSR[/nation]
+[i]Minister of Foreign Relations:[/i] [nation][/nation]
 
-[i]Minister of Foreign Relations:[/i] [nation]Cedoria[/nation]
+[i]Minister of Education:[/i] [nation] [/nation][/color]
 
-[i]Minister of Education:[/i] [nation]Radestan[/nation][/color]
+[color=Yellow][B]De-Endorse Former Delegate:[/B][/color] [nation]Atealia[/nation]
 
-[color=red]DSU Regional exchange rate:[/color]
-
-http://nseconomy.thirdgeek.com/nseconomy.php?region=the_democratic_socialist_union&amp;amp;exchange=2
+[color=Yellow][B]Endorse Delegate:[/B][/color] [nation]Cedoria[/nation]
 
 [color=red]The National Anthem of DSU:[/color] https://www.youtube.com/watch?v=QxiZ0aXVJE8

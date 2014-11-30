@@ -5,7 +5,8 @@
 [color=#4099FF]
 [b]Regional Information[/b]
 Founder: [nation=Galvin Islands]
-Prime Minister: [nation=The Carnivorous Trees]
+WA Delegate: [nation=The Carnivorous Trees]
+Vice Delegate: [nation]NONE[/nation]
 
 [u]Government[/u]
 Prime Minister: [nation=NONE]

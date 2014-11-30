@@ -1,0 +1,14 @@
+Government:Elecorate Empire
+Emperor: http://www.nationstates.net/nation=the_grand_royal_empire_of_voltaria
+
+House of Counsel:
+Minister of Finance:http://www.nationstates.net/nation=dogelend
+Minister of War: http://www.nationstates.net/nation=atlesian_empire
+Miniser of Justice: http://www.nationstates.net/nation=bralincia
+------------------------------------------------------------------------------------------------
+Antiosiom Imperial Forces:
+General: http://www.nationstates.net/nation=kopiska
+Soldiers: http://www.nationstates.net/nation=atlesian_empire
+------------------------------------------------------------------------------------------------
+Regional Currency:Dogecoin
+Map of Antiosiom:http://www.nationstates.net/nation=atlesian_empire/detail=factbook/id=334920

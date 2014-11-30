@@ -4,7 +4,7 @@
 
 [b]XIX REC[/b]
 Founder:[nation=short]Osberg-Thitania[/nation]
-Chancellor:
+Chancellor:[nation=short]Borduriaa WA Nation[/nation]
 Secretary General:[nation=short]Noorderkwartier[/nation]
 Speaker: [nation=short]Narnifrey[/nation]
 Prosecutor General: [nation=short]Besate[/nation]
@@ -14,8 +14,8 @@ High Commander:[nation=short]Vetega[/nation]
 [b]Cabinet[/b]
 Minister(Foreign Affairs): 
 Minister(Culture):
-Minister(Interior):
-Minister(Finance):
+Minister(Interior):[nation=short]Lentheric[/nation]
+Minister(Finance):[nation=short]Sardonitia[/nation]
 
 [b]High Court:[/b]
 Chief Justice: [nation=short]Alpacanzia[/nation]
