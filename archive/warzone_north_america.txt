@@ -1,4 +1,12 @@
-[b][color=#000061]Huzzah! Huzzah! Huzzah! This region proved no match for a charge by [region=The Black Riders]![/color]
+[b][color=violet]The Dominion of [/color][url=region=warzone_europe][color=violet]Warzone Europe[/color][/url] [color=violet]extends its might over this region.[/color][/b]
+
+The following members of the Dominion Sovereign Forces led the charge:
+[nation=short]Ancian[/nation]
+[nation=short]Khronion[/nation]
+
+[i]Dedicated to Governor [nation=short+noflag]Apulita[/nation], upon the most auspicious day of his birth.[/i]
+
+[hr][b][color=#000061]Huzzah! Huzzah! Huzzah! This region proved no match for a charge by [region=The Black Riders]![/color]
 
 [color=black]Occupied by [url=http://www.youtube.com/watch?v=qB1kp9adYYE]The Black Riders[/url]! Our lair can be found [/color] [url=http://s4.zetaboards.com/The_Black_Riders/index/]here[/url]
 

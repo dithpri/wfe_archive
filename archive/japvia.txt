@@ -1,9 +1,11 @@
 [color=8B3324][b]Japvia[/b][hr][/color][color=2A52BE]This is a passworded puppet storage region.
 [/color][color=2F4F4F]
-[b][nation=short]Embassy Policy[/nation]:[/b][list]This region does not accept any embassy offer sent.
-[nation=short]Royal House of Windsor[/nation] uses this region to control new regions.[/list][b][nation=short]Info[/nation]:[/b][list]Most of my regions has only two embassies to play [url=http://nsdossier.texasregion.net/embassyOracle.aspx]nsEmbassy Oracle[/url].
-A few of my regions do accept embassy offers - see [region=United States of America].[/list][/color][color=177245]
-[b]Associated Regions:[/b][list][region=The Mars], [region=The Americas], [region=High Orion Alliance], [region=Pacific Union], [region=Ancient Lands], [region=United States of America].[/color][color=006666][/list]
+[b][nation=short]Embassy Policy[/nation]:[/b][list]This region is an Oracle Region.
+All of my Oracle Regions do not accept any embassy offer given. Oracle regions has at most two embassies to play [url=http://nsdossier.texasregion.net/embassyOracle.aspx]Oracle[/url].
+The goal of this form of the Oracle Game is to have as many regions to form a long string of regions connected by their embassies. The two embassies connect two different regions.
+
+My Matrix Regions, on the other hand, do accept embassies.[/list][/color][color=177245]
+[b]Associated Regions:[/b][list][region=The Mars], [region=The Americas], [region=High Orion Alliance], [region=Pacific Union], [region=Ancient Lands], [region=United States of America][/list]
 [/color][color=E34234][b]
 Caretakers:[/b][list][nation=Elliston] &amp;amp; [nation=Manitoulin][/list][/color]
 .|... ..... ..... ..... ..... ..... ..... .....

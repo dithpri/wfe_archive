@@ -5,7 +5,7 @@
 [b][u]Prime Minister[/b][/u] 
 [nation=short]great franconia and verana[/nation]
 [b][u]Ministry of Foreign Affairs[/b][/u]
-[b]VACANT[/b]
+[nation=short]free burgher[/nation] [b](Minister)[/b]
 [b][u]Intelligence Directorate[/b][/u]
 [nation=short]tylannd[/nation] [b](Director)[/b]
 [b][u]Recruitment Bureau[/b][/u]
@@ -15,7 +15,7 @@
 [b][u]Supreme Judicial Court[/b][/u]
 [nation=short]linco[/nation]
 [nation=short]rhorchzuke[/nation]
-[nation=short]averian[/nation]
+[nation=short]Unitedd Bourque[/nation]
 
 [url=http://i.imgur.com/LQdIXpa.png]Regional Map[/url]
 [url=http://w11.zetaboards.com/UnionofFreeNations/index/]Regional Forum[/url]

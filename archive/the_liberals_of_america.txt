@@ -4,8 +4,7 @@ Minister of Finance and Management: [nation]Mede[/nation]
 Minister Foreign, International Development, and Commonwealth Affairs:  [nation]United Christian[/nation]
 Minister of Justice, Defense, Intel, and Military: [nation]United Christian[/nation]
 Minister of Trade, Work, and Pensions:[nation]Helor[/nation]
-Minister of Health, Equities and International Development:
+Minister of Health, Equities:
 Minister of Interior: [nation]Monos[/nation]
-Minister of Environment:
-
+Minister of Environment:[nation]Tysoania[/nation]
 
