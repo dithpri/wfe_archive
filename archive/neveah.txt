@@ -5,7 +5,7 @@ Vice-President:[nation]Survivors of Arcadia[/nation]
 Congress:On the bulletin 
 Chief of Ministers:[nation]Sanabel[/nation]
 Minister of Information:
-The Minister of Foreign affairs:[nation]Farlandria[/nation]
+The Minister of Foreign affairs:
 Minister of Justice:[nation]Anarcaledonia[/nation]
 Immigration Minister:[nation]Anselmo[/nation]
 Minister of Defense:

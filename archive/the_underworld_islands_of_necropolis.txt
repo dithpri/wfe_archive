@@ -1,15 +1,9 @@
-[b]Welcome to Necropolis[/b]
-[color=blue]Our regional founder is:[/color] [nation=short]Necromancer Vince[/nation]
-[color=blue]Our lord high researcher: N/a[/color]
-[color=red]Minister of defense:[/color] [nation=short]Tiberius corperation[/nation]
+[b][color=#000061]Huzzah! Huzzah! Huzzah! This region proved no match for a charge by [region=The Black Riders]![/color]
 
-[color=green]Here all undead and other arcane beings are welcome. You can research the otherwise forbidden art of Necromancy here but at some restrictions. And also research another field of magic with considerable less restrictions than Necromancy[/color].
+[color=black]Occupied by [url=http://www.youtube.com/watch?v=qB1kp9adYYE]The Black Riders[/url]! Our lair can be found [/color] [url=http://s4.zetaboards.com/The_Black_Riders/index/]here[/url]
 
-Rules: There is now a dispatch on the subject below.
-
--------------------------------------
-This region is a conduit for [region]The skeleton army[/region]
-
--------------------------------------
-
-[color=red]Region news: [b]We&amp;#39;ve been featured Wooooow[/b][/color]
+[color=#000061]Into the battle rode the following riders:[/color]
+[nation=short]Lord Nuke[/nation]
+[nation=short]Upper Drizzilia[/nation]
+[nation=short]Vandoosa[/nation]
+[/b]

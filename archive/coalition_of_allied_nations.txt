@@ -9,7 +9,6 @@ Members:
 [nation=short]Fahhr[/nation] - Legate Issiah
 [nation=short]Faxucion[/nation] - Councilor Adam
 [nation=short]Fenderal[/nation] - King Reyna
-[nation=short]Freeballa[/nation] - Jake McNeff
 [nation=short]Glacuria[/nation] - Storm Master Michael
 [nation=short]Kantazakistan[/nation] - Emperor Whitlock
 [nation=short]Mistrial[/nation] - President Brooks 
@@ -21,3 +20,6 @@ Members:
 [nation=short]Zaitra[/nation] - Lord Abels
 [nation=short]Buvania[/nation] - Queen Maddison
 [nation=short]Seracia[/nation] -President Wolf
+[nation=short]Castianea[/nation] - (Gathering Intel)
+[nation=short]Cerealtopolis[/nation] - (Gathering Intel)
+[nation=short]Ferocestan[/nation] - (Gathering Intel)

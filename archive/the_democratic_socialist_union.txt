@@ -4,9 +4,9 @@
 
 [color=Orange][i]Prime Minister:[/i][nation]the parkgarian empire[/nation]
 
-[i]Minister of Defence:[/i] [nation]Tyrinthion[/nation]
+[i]Minister of Defence:[/i] [nation][/nation]
 
-[i]Minister of Foreign Relations:[/i] [nation][/nation]
+[i]Minister of Foreign Relations:[/i] [nation] [/nation]
 
 [i]Minister of Education:[/i] [nation] [/nation][/color]
 

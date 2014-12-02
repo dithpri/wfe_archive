@@ -9,19 +9,19 @@ WA Delegate: [nation=The Carnivorous Trees]
 Vice Delegate: [nation]Ugir[/nation]
 
 [u]Government[/u]
-Prime Minister: [nation=NONE]
+Prime Minister: [nation=Ugir]
 
 [i]Committee of War[/i]
-Minister of War: NONE
-Minister of Defense: [nation=Ugir]
+Minister of War: [nation=NONE]
+Minister of Defense: [nation=NONE]
 
 [i]Committee of Foreign Affairs[/i]
-Minister of Diplomacy: [nation=The Barbarian Hordes]
-Minister of Recruitment: [nation=Galvin Land]
+Minister of Diplomacy: [nation=NONE]
+Minister of Recruitment: [nation=NONE]
 
 [i]Committee of Internal Affairs[/i]
-Minister of Safety: NONE
-Minister of Information: [nation=The Dumb Peoples]
+Minister of Safety: [nation=NONE]
+Minister of Information: [nation=NONE]
 [/color]
 
 [b]REGION SAFETY LEVEL: [color=green]Excellent[/color][/b]
