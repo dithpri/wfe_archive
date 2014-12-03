@@ -12,7 +12,7 @@ High Commander:[nation=short]Vetega[/nation]
 
 [hr]
 [b]Cabinet[/b]
-Minister(Foreign Affairs): 
+Minister(Foreign Affairs):[nation=short]Alkoul[/nation]
 Minister(Culture):
 Minister(Interior):[nation=short]Lentheric[/nation]
 Minister(Finance):[nation=short]Sardonitia[/nation]

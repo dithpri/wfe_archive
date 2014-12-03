@@ -7,3 +7,5 @@ Minister of Trade, Work, and Pensions:[nation]Helor[/nation]
 Minister of Health, Equities:[nation]Peruvica[/nation]
 Minister of Interior: [nation]Monos[/nation]
 Minister of Environment:[nation]Tysoania[/nation]
+
+Endorse: [nation]United Christian[/nation]

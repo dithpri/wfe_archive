@@ -1,12 +1,12 @@
 Regional Government
-Il Duce of Region: The Kingdom Of Ukrainians ( Czar Mychajlo Koloda )
-Prime Minister of Region: The Queendom of Translyvani ( Queen Grace Francis )
-Head of Military: The Armed States of Barahama ( General Karson Boris )
-Head of Intelligence: The Dictatorship of Halitopia ( Dictator Dawn Rose )
-Head of Foreign Affairs: The Republic of Ukrainian Donbass ( Secretary Vitali Bulabchenky )
-Head of Propaganda: The Queendom of Ulyianovsk ( Empress Oryina Shevchenko ) 
-Head of Homeland Defense: The Holy Empire of Ar-Kansas ( Princess Julienn Emiliana )
-Head of Internal Security Affairs: The Kingdom Zaporizhia Oblast ( Fruher Dietrich Michael )
+Il Duce of Region: [nation]ukrainians[/nation] ( Czar Mychajlo Koloda )
+Prime Minister of Region: [nation]translyvani[/nation] ( Queen Grace Francis )
+Head of Military: [nation]barahma[/nation] ( General Karson Boris )
+Head of Intelligence: [nation]halotopia[/nation] ( Dictator Dawn Rose )
+Head of Foreign Affairs: [nation]ukrainian donbass[/nation] ( Secretary Vitali Bulabchenky )
+Head of Propaganda: [nation]ulyianovsk[/nation] ( Empress Oryina Shevchenko ) 
+Head of Homeland Defense: [nation]ar-kansas[/nation] ( Princess Julienn Emiliana )
+Head of Internal Security Affairs: [nation]zaporizhia oblast[/nation] ( Fruher Dietrich Michael )
 
 We Are Proudly Part of the PFQ
 
