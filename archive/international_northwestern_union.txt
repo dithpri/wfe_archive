@@ -1,8 +1,6 @@
 [color=blue][u]Welcome to the International Northwestern Union![/color][/u]
 Take a seat and grab yourself a nice warm cup of coffee, we&amp;#39;ll be here for a while.
-Please endorse our WAD, [nation=short]El Fiji Grande[/nation]. [B]Endorsement cap: 43[/B]
-
-[b]WA Delegate: [nation=short]El Fiji Grande[/nation][/b]
+Please endorse our [b]WA Delegate: [nation=short]El Fiji Grande[/nation][/b]; [B]Endorsement cap: 43[/B]
 [b]Minister of Foreign Affairs: [nation=short]Crumstain[/nation][/b]
 [b]Chancellor: [nation=short]Xin Prussia[/nation][/b]
 [b]Justices:
@@ -15,6 +13,8 @@ Please endorse our WAD, [nation=short]El Fiji Grande[/nation]. [B]Endorsement ca
  [nation=short]Hockesin[/nation]
  [nation=short]Estradia[/nation] 
 [nation=short]Atlantica[/nation][/b]
+[B]Comic Relief Team:[/B] 
+[B]The &Uuml;ntz of [nation=short]Crumstain[/nation] and The &Uuml;ntz of [nation=short]Gatito[/nation][/B]
 
 The International Northwestern Union was created on 19/08/2014 as a merger between The [region]International Northern Union[/region], The [region]International Western Union[/region] and The [region]International Southern Union[/region]. [region]Strategos Prime[/region] has joined as of 20/08/2014
 

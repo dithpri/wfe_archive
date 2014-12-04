@@ -1,7 +1,7 @@
-[b][color=#ED1C38]Welcome to The Eternal Knights: The Bringers of Peace and War.[/color] 
+[b][color=#ED1C38]Welcome to The Eternal Knights: The Bringers of Peace and War[/color] 
 [color=#ED991C][i]Established December 30th, 2013 - Celebrating 11 months![/i][/color][/b]
 
-[hr][b]Government[/b]
+[hr][b][color=black]Government[/color][/b]
 King: [nation=short]Nephmir[/nation]
 Bishop: [nation=short]Anders Blakewood[/nation]
 Lord: [nation=short]Gharan[/nation]
@@ -10,18 +10,20 @@ Marquess: [nation=short]Handora[/nation]
 Countess: [nation=short]Heavenly Underlings[/nation]
 Baron: [nation=short]Elysium of Heroes[/nation]
 
-[hr][b]World Assembly[/b] ([u][url=http://www.nationstates.net/page=un]Join[/url][/u])
+[hr][b][color=black]World Assembly[/color][/b] ([u][url=http://www.nationstates.net/page=un]Join[/url][/u])
 Security Council: [url=http://www.nationstates.net/page=sc]Vote here![/url] | General Assembly: [url=http://www.nationstates.net/page=ga]Vote here![/url]
 
 Increase our influence in the World Assembly! Endorse the Duke, [b][nation=short+noflag]TEK Delegate[/nation][/b].
 
 Featured Endorser: N/A
 
-[hr][b]Community[/b]
+[hr][b][color=black]Community[/color][/b]
 [url=http://w11.zetaboards.com/The_Eternal_Knights/]Forums[/url] (Role Play, games, and more!)
 [url=https://www.nationstates.net/page=dispatch/id=273064]The Eternal Tunes[/url]
 
-[hr][b]Military[/b] ([u][url=http://w11.zetaboards.com/The_Eternal_Knights/]Forums[/url][/u]) ([u][url=http://www.nationstates.net/page=dispatch/id=282264]Enlist[/url][/u])
+Coming Soon: Regional Map and Clans!
+
+[hr][b][color=black]Military[/color][/b] ([u][url=http://w11.zetaboards.com/The_Eternal_Knights/]Forums[/url][/u]) ([u][url=http://www.nationstates.net/page=dispatch/id=282264]Enlist[/url][/u])
 Operations: 103 | Liberated: 418 | Destroyed: 504
 
 [b][color=#ED1C38]Military Orders:[/color] Move your registered WA Nation to [region]Helix[/region] and endorse [nation=short]Helixical Orbit[/nation][/b].

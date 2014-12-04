@@ -5,7 +5,6 @@
 [Color=Blue]Prime Minister:[/Color][Nation=short]Light-Keepers[/Nation]
 [Color=Red]Vice Prime Minister:[/Color][Nation=short]LapuLapu01[/Nation]
 [Color=Blue]Chancellor:[/Color][Nation=short]Rusha 2[/Nation]
-[Color=Red]Vice Chancellor:[/Color][Nation=short]Yuketobaniac[/Nation]
 [Color=Blue]Minister Of Defence[/Color][Nation=short]Union of Europia[/Nation]
 [Color=Red]Minister Of Econmony[/Color][Nation=short]Ravon[/Nation]
 --------------------------------------

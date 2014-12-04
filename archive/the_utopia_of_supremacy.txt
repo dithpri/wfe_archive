@@ -15,6 +15,7 @@
 [b][color=green]Embassies:[/color][/b]
 [color=red][i]Proposed:[/i][/color]
 - [region]The Rebel Forces of Havenbrooke[/region]
+- [region]Dustbowl[/region]
 
 [color=red][i]Current:[/i][/color]
 - [region]Colonies of Caraway[/region]
