@@ -4,7 +4,7 @@ We are [region]The Isle of Arsonistical Infusment[/region]. We are a small regio
 
 Leadership:
 
-Ruler: [nation=short+noflag]Iklonia[/nation]
+Ruler(s): [nation=short+noflag]Iklonia[/nation] and [nation=short+noflag]The United Libertarian State Of Britain[/nation]
 
 Minister Of Defence: [nation=short+noflag]Scottalot[/nation]
 

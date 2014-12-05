@@ -12,7 +12,7 @@
 [vacant]=[color=blue]secretary[/color] [color=blue]of[/color] [color=blue]communications[/color]
 [nation]Independent Democratic Russia[/nation] =[color=red] General[/color] [color=red] Of [/color] [color=red] IMC [/color]
 [vacant]= [color=purple]minister[/color] [color=purple]of[/color] [color=purple]diplomatic[/color] [color=purple]affairs[/color]
-[vacant]= [color=yellow]new[/color]-[color=yellow]commer&amp;#39;s[/color] [color=yellow]aid[/color] [color=yellow]and[/color] [color=yellow]guide[/color]
+[nation]BaconBacon123[/nation]= [color=yellow]new[/color]-[color=yellow]commer&amp;#39;s[/color] [color=yellow]aid[/color] [color=yellow]and[/color] [color=yellow]guide[/color]
 [nation]communism_is_great_land[/nation] = keeper of the peace
 
 STILL MORE TO COME :D

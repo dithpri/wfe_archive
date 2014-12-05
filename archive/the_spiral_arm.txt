@@ -1,3 +1,22 @@
-[color=red]Welcome to the Spiral Arm, a region built en memorium to the great Saga of Seven Suns.[/color]
+[color=red]Welcome to the Spiral Arm, a region built [i]en memorium[/i] to the great Saga of Seven Suns.[/color]
 
-[color=yellow] If you would like to become involved in the region, then feel free to participate or get in touch with the Envoy.  If you&amp;#39;d just like to reside, and not participate, feel free![/color]
+[color=yellow][b]As it currently stands, the executive cabinet of The Spiral Arm will be as follows:[/b][/color]
+
+[color=silver][B][u]The Office of the Prime Signatory[/u][/B][/color]
+[region]The Prime Signatory of the United Federations of Planets[/region]
+
+[color=blue][B][u]The Office of The Ambassadorial Envoy[/u][/B][/color]
+[region]The Republic of Aekir[/region]
+
+[color=purple][B][u]The Elected Office of Regional Documentarian[/u][/B][/color]
+[region]The Constitutional Monarchy of Kurunis[/region]
+
+[color=orange][B][u]The Office of Inter-Regional Affairs[/u][/B][/color]
+[region]The Empire of Ubermenscha[/region]
+
+[color=red][B][u]Commander in Chief of the Regional Armed Forces[/u][/B][/color]
+[region]The Federation of Dumbledores Militia[/region]
+
+[color=teal][i][B][u]Foreign Affairs Officer[/u][/B][/i][/color]
+[region]The Republic of Aekir[/region]
+----------------------------------------------------------------------------------------------------------------------------------------

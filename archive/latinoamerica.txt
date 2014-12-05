@@ -13,6 +13,8 @@ Regi&oacute;n abierta a cualquier naci&oacute;n latinoamericana que respete los 
 [region]Belice[/region]
 [region]Trinidad y Tobago[/region]
 [region]Republica Dominicana[/region]
+[region]La Habana[/region]
+[region]MERCOSUR[/region]
 
 [i]&amp;quot;El buen juicio proviene de la experiencia, y la experiencia proviene del mal juicio.&amp;quot; - Sim&oacute;n Bol&iacute;var[/i]
 

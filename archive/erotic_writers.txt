@@ -1,7 +1,7 @@
-[b][region]The Black Riders[/region] can&amp;#39;t hold a region when I want it in my collection. This region has been captured, destroyed, and refounded by [region]The Puppetmaster[/region]. No telegrams will be accepted. All communication to be directed to [nation]Zealasia[/nation].[/b]
+[b]This region has been captured, destroyed, and refounded by [region]The Puppetmaster[/region]. No telegrams will be accepted. All communication to be directed to [nation]Zealasia[/nation].[/b]
 
 [hr]
-Original WFE (no longer valid):
+[spoiler=Original WFE (no longer valid)]
 
 [b][color=#000061]Huzzah! Huzzah! Huzzah! This region proved no match for a charge by [region=The Black Riders]![/color]
 
@@ -11,4 +11,4 @@ Original WFE (no longer valid):
 [nation=short]Aurum Rider[/nation]
 [nation=short]Gest[/nation]
 [nation=short]Lord Nuke is so Kewl[/nation]
-[nation=short]Cora II[/nation][/b]
+[nation=short]Cora II[/nation][/b][/spoiler]
