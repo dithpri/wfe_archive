@@ -11,7 +11,7 @@
 
 [b] Vice-Chief of Ministry: [/b] [nation=short]YangYu hi[/nation]
 
-[b] Department of Defense: [/b] [i]Happening Now[/i]
+[b] Department of Defense: [/b] [nation=short]Vancouvia[/nation]
 
 [b] Department of Public Relations: [/b] [nation=short]Kingston-Atlantis[/nation]
 

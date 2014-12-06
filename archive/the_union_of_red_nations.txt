@@ -1,12 +1,1 @@
-[b]This region has been bombed by [region]Fifth Empire[/region], [region]Nazi Europa[/region], [region]The Greater German Reich[/region], and [region]The Fascist Union[/region].
-
-Enemy Skies Stormed by:
-
-[nation=short]Havershad[/nation]
-[nation=short]Atsuria[/nation]
-[nation=short]Grodon[/nation]
-[nation=short]Schweinehund[/nation]
-[nation=short]The Imperial Prefectures of America[/nation]
-[nation=short]Verborgenen Herrn[/nation]
-
-commies shot: [color=red]1[/color][/b]
+Flag fixed, tags cleaned, embassies saved. Thanks for visiting.

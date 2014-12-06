@@ -7,7 +7,6 @@ Members:
 [nation=short]Egovya[/nation] - President Canyon
 [nation=short]Exodistan[/nation] - Emperor Noah
 [nation=short]Fahhr[/nation] - Legate Issiah
-[nation=short]Faxucion[/nation] - Councilor Adam
 [nation=short]Fenderal[/nation] - King Reyna
 [nation=short]Glacuria[/nation] - Storm Master Michael
 [nation=short]Kantazakistan[/nation] - Emperor Whitlock
@@ -15,7 +14,6 @@ Members:
 [nation=short]Octanguli[/nation] - Prince Chucktow
 [nation=short]Sunderia[/nation] - Commissioner Razgriz
 [nation=short]Tazbakistan[/nation] - Dictator Drake
-[nation=short]That Island[/nation] - President Voelkers
 [nation=short]That State[/nation] - High King Kleppe
 [nation=short]Zaitra[/nation] - Lord Abels
 [nation=short]Buvania[/nation] - Queen Maddison
