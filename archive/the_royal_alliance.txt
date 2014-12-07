@@ -8,12 +8,14 @@
 [B][u]Sovereign[/u][/B] 
 [B][color=brown]Head of State: [nation]Lagrangian[/nation][/color][/B]
 
+[B][u]Executive [/u][/B]
+[B][color=blue]Governor-General: [nation=short]The Confederation of Northern Germany[/nation][/color] - [color=red]Please Endorse![/color][/B]
+
 [B][u]Regional Council[/u][/B]
-[B][color=blue]Council/Governor: [nation=short]The Confederation of Northern Germany[/nation][/color] - [color=red]Please Endorse![/color][/B]
 [B][color=purple]Council Minister: [nation=short]Mitchland Empire[/nation][/color][/B]
 [B][color=purple]Council Minister: [nation=short]New Hirizionburg[/nation][/color][/B]
-[B][color=purple]Council Minister: [nation]Talvezout[/nation][/color][/B]- [B][color=blue]Up for re-election![/color][/B]
-[B][color=purple]Council Minister: [nation=short]Wuzzburg[/nation][/color][/B] - [B][color=blue]Up for re-election![/color][/B]
+[B][color=purple]Council Minister: [nation=short]Republic of Wales and Scotland[/nation][/color][/B]
+[B][color=purple]Council Minister: [nation]Irtoovia[/nation][/color][/B]
 
 [B][u]Parliament[/u][/B]
 [B][color=green]All nation members[/color][/B] / [B][url=http://www.nationstates.net/page=dispatch/id=306404]Royal Council[/url][/B]

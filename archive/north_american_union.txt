@@ -1,15 +1,3 @@
-[color=navy][b]North American Union[/b][/color]
+[color=navy][b]Welcome to the North American Union[/b][/color]
 
 The North American Union is an regional organization based on the economic and political union of Canada, Mexico, and the United States. Nations of all various ideals and beliefs are welcomed to join this region.
-
-[hr]
-
-[b][color=navy]Government[/color][/b]
-[list][b]Chairman:[/b] [nation=short]North American Commonwealth[/nation]
-[b]Secretariat:[/b] [i]vacant[/i]
-[/list]
-
-[hr]
-
-[b][color=navy]Currency:[/color][/b] [color=fire]Amero[/color]
-Please designate your currency as the [i]Amero[/i].

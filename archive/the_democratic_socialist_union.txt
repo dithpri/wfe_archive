@@ -6,12 +6,10 @@
 
 [i]Minister of Defence:[/i] [nation]United states of Unfreedom[/nation]
 
-[i]Minister of Foreign Relations:[/i] [nation] [/nation]
+[i]Minister of Foreign Relations:[/i] [nation]Brillnuck[/nation]
 
-[i]Minister of Education:[/i][nation]Auven[/nation] 
+[i]Minister of Education:[/i][nation]Auven[/nation][/color]
 
-[color=Yellow][B]De-Endorse Former Delegate:[/B][/color] [nation]Atealia[/nation]
+[color=yellow] [B]Endorse Delegate:[/B][/color] [nation]Cedoria[/nation]
 
-[color=Yellow][B]Endorse Delegate:[/B][/color] [nation]Cedoria[/nation]
-
-[color=red]The National Anthem of DSU:[/color] https://www.youtube.com/watch?v=QxiZ0aXVJE8
+[color=red]The National Anthem of the DSU:[/color] https://www.youtube.com/watch?v=QxiZ0aXVJE8

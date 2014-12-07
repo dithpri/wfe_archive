@@ -1,11 +1,9 @@
-[b]This region has been bombed by [region]Fifth Empire[/region], [region]Nazi Europa[/region], [region]The Greater German Reich[/region], and [region]The Fascist Union[/region].
+[region]The Union[/region] was liberated December 5th, 2014! 
 
-Enemy Skies Stormed by:
+Honored nations:
+[nation]Ducrotia[/nation]
+[nation]Yadacat[/nation]
 
-[nation=short]Atsuria[/nation]
-[nation=short]Grodon[/nation]
-[nation=short]Schweinehund[/nation]
-[nation=short]The Imperial Prefectures of America[/nation]
-[nation=short]Verborgenen Herrn[/nation]
+[spoiler=Hip Hip]hooray![/spoiler]
 
-enemy shot: [color=red]1[/color][/b]
+WA members please endorse [nation]Latouche[/nation]
