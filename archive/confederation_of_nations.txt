@@ -2,8 +2,8 @@
 
 [hr]
 
-[i]&amp;quot;When the President does it, that means that it&amp;#39;s not illegal.&amp;quot; 
-- [color=Red]Richard M. Nixon[/color][/i]
+[i]&amp;quot;Consensus: The process of abandoning all beliefs, principles, values, and policies in search of something in which no one believes, but to which no one objects; the process of avoiding the very issues that have to be solved, merely because you cannot get agreement on the way ahead. What great cause would have been fought and won under the banner: &#145;I stand for consensus?&amp;quot; 
+- [color=Red]Margaret Thatcher[/color][/i]
 
 [hr]
 
@@ -13,5 +13,8 @@ Our extension to make NationStates a better experience
 Our advanced country information system
 [url=http://nstracker.web44.net/]NSTracker[/url]
 
-Our constitution is available on
-[url=https://sites.google.com/site/confederationofnations/]Regional Website[/url]
+Some additional tools
+[url=http://tools.wmflabs.org/parliamentdiagram/parliamentinputform.html]Arch-Shaped Parliament Diagrams Maker[/url]
+[url=http://flag-designer.appspot.com/]Flag Designer[/url]
+[url=http://www.behindthename.com/random/]Random Name Generator[/url]
+

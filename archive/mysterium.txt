@@ -6,11 +6,10 @@
 [u][b]High Cabinet[/B][/u]
 President:[nation]the forsworn knights[/nation]
 Vice President:
-Spokesnation:
 Minister Of Roleplay:
 [u][b]Senate[/B][/u]
-Senator:
-Senator:
+Senator: [nation]Naval monte[/nation]
+Senator: [nation]Larrylykinsland[/nation]
 Senator:
 [u][B]Council[/B][/u]
 Council:

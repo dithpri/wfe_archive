@@ -1,10 +1,5 @@
-Welcome to Chicago Fire This region is a King Of a football  well
+Hello Welcome to chicago fire this region is king of the football right now
 
-President:[nation=short]Pilkenton[/nation]
+Founder:Pilkenton
 
-Vicepresident:[nation=short]Bertween[/nation]
-
-Minister[nation=short]HMS Unicorn[/nation]
-
-
-Please Endorse[nation=short]HMS Unicorn[/nation]
+Senator:Bertween
