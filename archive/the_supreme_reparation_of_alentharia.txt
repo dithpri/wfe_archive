@@ -3,7 +3,7 @@
 [b][color=#004080]WA Delegate:[/b][/color] [nation=short]Gurfaffleville[/nation]
 [b][color=#004080]Prime Minister:[/b][/color] VACANT
 [b][color=mahogany]Minister of Foreign Affairs:[/b][/color]VACANT
-[b][color=mahogany]Minister of Defense:[/b][/color] [nation]Hovzah[/nation]
+[b][color=mahogany]Minister of Defense:[/b][/color] [nation=short]Hovzah[/nation]
 [b][color=mahogany]Superintendent:[/b][/color] [nation=short]Talirius[/nation]
 [hr][u][b]Regional News[/b][/u]
 [color=orange]-Regional Sports League proposed[/color] 

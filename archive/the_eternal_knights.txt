@@ -5,7 +5,7 @@
 [list][b]King:[/b]
 [nation=short]Nephmir[/nation]
 
-[b]Bishop:[/b] 
+[b]Bishop:[/b]
 [nation=short]Anders Blakewood[/nation]
 
 [b]Lord:[/b]
@@ -22,6 +22,6 @@
 
 [b]Baron:[/b]
 [nation=short]Elysium of Heroes[/nation][/list]
-[hr][b]As a region, The Eternal Knights have seized [color=#ED1C38]922[/color] regions, [color=#ED1C38]418[/color] of which were liberated and [color=#ED1C38]504[/color] of which were destroyed.[/b][hr]
+[hr][b]The Eternal Knights have seized [color=#ED1C38]922[/color] regions, [color=#ED1C38]418[/color] of which were liberated and [color=#ED1C38]504[/color] of which were destroyed.[/b][hr]
 
-[b][color=#ED991C]Military Orders:[/color] Move your registered WA Nation to [region]Helix[/region] and endorse [nation=short]Helixical Orbit[/nation][/b].
+[b][color=#ED991C]Military Orders:[/color] Move your WA Nation to [region]Alliance of Protestant Nations[/region] and endorse [nation=short]The Union of the West[/nation] and [nation=short]Lord Gharan[/nation][/b].
