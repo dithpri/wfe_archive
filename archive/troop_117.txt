@@ -1,0 +1,23 @@
+[color=red][b][u]Youth Executive Branch[/u][/b][/color]
+[color=blue][b]Senior Patrol Leader:[/b][/color]
+[color=blue][b]1 Ass. Senior Patrol Leader:[/b][/color]
+[color=blue][b]2 Ass. Senior Patrol Leader:[/b][/color]
+[hr][color=red][b][u]Executive Cabinet[/u][/b][/color]
+[color=blue][b]Scribe:[/b][/color]
+[color=blue][b]Quarter Master:[/b][/color]
+[color=blue][b]Librarian:[/b][/color]
+[color=blue][b]Historian:[/b][/color]
+[color=blue][b]Webmaster:[/b][/color]
+[hr][color=red][b][u]Patrols[/u][/b][/color]
+
+[B]Alpha[/B]
+[color=green][b][i]Patrol Leader:[/i][/b][/color]
+[color=green][b][i]Ass. Patrol Leader:[/i][/b][/color]
+
+[B]Hazardous Coconuts[/B]
+[color=green][b][i]Patrol Leader:[/i][/b][/color]
+[color=green][b][i]Ass. Patrol Leader:[/i][/b][/color]
+
+[B]Night Owls[/B]
+[color=green][b][i]Patrol Leader:[/i][/b][/color]
+[color=green][b][i]Ass. Patrol Leader:[/i][/b][/color]

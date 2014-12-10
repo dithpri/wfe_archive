@@ -16,8 +16,8 @@ Police: 545th
 Aggression: 48th
 
 Economy: 32nd
-Manufacure, Auto, Fishing, Insurance, Cheese: [b][color=orange]5th[/b][/color]
-Retail, Basket: [b][color=orange]6th[/b][/color]
+Manufacture, Retail, Auto, Fishing, Insurance, Cheese: [b][color=orange]5th[/b][/color]
+Basket: [b][color=orange]6th[/b][/color]
 Timber, Agriculture: [b][color=orange]7th[/b][/color]
 Pizza, Beverage: [b][color=orange]8th[/b][/color]
 Arms: [b][color=orange]9th[/b][/color]

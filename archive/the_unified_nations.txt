@@ -1,9 +1,15 @@
-[b][color=#000061]All Hail our Overlords, [region=The Black Riders]![/color]
+[color=blue]Welcome to The Unified Nations[/color]
 
-[color=black]We are occupied by [url=http://www.youtube.com/watch?v=qB1kp9adYYE]The Black Riders[/url]! Their lair can be found [/color] [url=http://s4.zetaboards.com/The_Black_Riders/index/]here[/url]
+Government Head
+&raquo; Supreme Overlord: [nation=short]Kractero[/nation]
+&raquo; Secretary-General: None
 
-[color=#000061]Into the battle rode the following riders:[/color]
-[nation=short]General Halcones[/nation]
-[nation=short]Vandoosa[/nation]
-[nation=short]Blood Wine[/nation]
-[nation=short]Coraxion[/nation][/b]
+Ministers
+&raquo; Minister of Religion: [nation=short]Booslick[/nation]
+&raquo; Minister of Environment: [nation=short]Lorax[/nation]
+&raquo; Minister of Energy: [nation=short]Splosh[/nation]
+&raquo; Minister of Defense: [nation=short]Barbed[/nation]
+&raquo; Minister of Education: [nation=short]Numerical[/nation]
+
+Supreme Judge
+&raquo; Chief Judge: [nation=short]Bolt of Justice[/nation]

@@ -1,18 +1,16 @@
-[B][color=teal]Welcome to The Royal Alliance a Democratic monarchy region, we accept all political ideologies![/color][/B][hr]
+
+[B][color=teal][u]Welcome to The Royal Alliance[/u][/color][/B][hr]
 
 [B]Motto: [color=Orange]God Bless The Royal Alliance![/color][/B]
 
 [hr]
 
-[B][u]Sovereign[/u][/B] 
-[B][color=brown]Head of State: [nation]Lagrangian[/nation][/color][/B]
-
 [B][u]Executive [/u][/B]
 [B][color=blue]Governor-General: [nation=short]The Confederation of Northern Germany[/nation][/color] - [color=red]Please Endorse![/color][/B]
 
 [B][u]Regional Council[/u][/B]
-[B][color=purple]Council Minister: [nation=short]Mitchland Empire[/nation][/color][/B] - [B][color=blue]Up for re-election[/color][/B]
-[B][color=purple]Council Minister: [nation=short]New Hirizionburg[/nation][/color][/B] - [B][color=blue]Up for re-election[/color][/B]
+[B][color=purple]Council Minister: Up for re-election[/color][/B] 
+[B][color=purple]Council Minister: Up for re-election[/color][/B]
 [B][color=purple]Council Minister: [nation=short]Republic of Wales and Scotland[/nation][/color][/B]
 [B][color=purple]Council Minister: [nation]Irtoovia[/nation][/color][/B]
 

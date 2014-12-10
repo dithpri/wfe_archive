@@ -10,7 +10,6 @@
 [b]Emperor:[/b] [nation]British Fascist Empire[/nation]
 [b]Regional Governor:[/b] [nation]Arnoria[/nation]
 [b]Head of the Armed Forces:[/b] [nation]The United Kingdoms of Austinarya[/nation]
-[b]Minister for Diplomacy:[/b] [nation]Hyperboralia[/nation]
+[b]Minister for Diplomacy:[/b] [nation]Endriation[/nation]
 [b]Minister for Education:[/b] [nation]Hurgera[/nation]
 [b]Minister for Law:[/b] [nation]Australasian Restoration Cooperative[/nation]
-[b]Minister for Media and Communications:[/b] [nation]Endriation[/nation]
