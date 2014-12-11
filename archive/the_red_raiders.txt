@@ -6,3 +6,8 @@ HAIL RED RAIDERS
 Raid Commander:http: Romny
 Raiders:http: red_raider_1
 Raider Captain:http://www.nationstates.net/nation=archainia
+
+http://www.nationstates.net/region=new_greece,http://www.nationstates.net/region=new_folsom
+http://www.nationstates.net/page=region_admin/region=the_german_reich
+
+Funders:http://www.nationstates.net/nation=tyrinth

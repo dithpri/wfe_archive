@@ -1,10 +1,10 @@
 [color=navy][b]Oracle[/b][/color][hr][list][color=006400]This region is ORACLE PRIME
 
 Allied with:[list][region=United States of America] ([nation=short]New Falham[/nation]).
-[region=Ancient Lands] ([nation=short]Manitoulin[/nation]).[/list][/color][color=903000]
+[region=Ancient Lands] ([nation=short]Manitoulin[/nation]).[/list]
 
-[u][b]SORRY,  NO EMBASSY OFFERS ACCEPTED IN ANY ORACLE REGION.[/b][/u][/color][color=FF4500]
+[u][b]SORRY,  NO EMBASSY OFFERS ACCEPTED IN ANY ORACLE REGION.[/b][/u]
 
 [url=http://nsdossier.texasregion.net/embassyOracle.aspx]Oracle Game[/url]
 [I]Goal of this version of the game is to achieve as many regions linked together to form a chain as long as possible.
-Currently [region=The Icelandic Commonwealth] (soon to be [b]Oracle[/b]) has [b]1318[/b] Degrees of Separation from [region=Darwin].[/color][/I]
+Currently [region=Oracle] has [b]1339[/b] Degrees of Separation from [region=Darwin].[/color][/I]

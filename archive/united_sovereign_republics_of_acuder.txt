@@ -1,33 +1,3 @@
-Regional Government:
-[b]__________________[/b]
-
-[color=red]President:[/color][nation=short]The Barbradian Republic[/nation]
-[color=blue]Vice President:[/color][nation=short]Ravon[/nation]
-
-[color=blue]Chancellor:[/color][nation=short]north libya[/nation]
-[color=red]Vice Chancellor:[/color][nation=short]Stone Cuaron[/nation]
-
-
-The House of Lords (upper house): 
-[b]______________________________[/b]
-
-[color=purple]High Duchy:[/color][nation=short]Commonwealth of Hank the Cat[/nation]
-[color=red]Major Lord:[/color] [nation=short]North Libya[/nation]
-[color=orange]Minor Lord:[/color][nation=short]New Vandoosa[/nation]
-
-The House of Commons (Lower House):
-[b]___________________________________[/b]
-
-[color=blue]High MP:[/color] [nation]stone cuaron[/nation]
-[color=red]Major MP:[/color] [nation]rusha 2[/nation]
-[color=purple]Minor MP:[/color][nation]new vandoosa[/nation]
-
-Ministers:
-[b]________________________________[/b]
-
-[color=orange]Minister of Transport:[/color][nation=short]North Libya[/nation]
-[color=red]Minister of International Affairs:[/color][nation=short]North Libya[/nation]
-[color=purple]Minister of Science:[/color][nation=short]new vandoosa[/nation]
 
 
 

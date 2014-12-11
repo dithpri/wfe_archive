@@ -12,12 +12,12 @@
 
 [b][color=green]Embassies:[/color][/b]
 [color=red][i]Proposed:[/i][/color]
-- [region]The Illuminati[/region]
 
 [color=red][i]Current:[/i][/color]
 - [region]Colonies of Caraway[/region]
 - [region]The Rebel Forces of Havenbrooke[/region]
 - [region]Dustbowl[/region]
+- [region]The Illuminati[/region]
 
 [color=red][i]Relinquished:[/i][/color]
 

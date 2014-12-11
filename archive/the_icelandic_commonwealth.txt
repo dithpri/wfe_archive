@@ -1,8 +1,6 @@
 [color=00060][b]The Icelandic Commonwealth[/b][hr][/color][color=white]__________[/color][color=654321] Oracle Prime[/color][color=000090]
 
-[nation=short]Notice[/nation]:[list]Currently [region=The Icelandic Commonwealth] has [/color][color=red][b]1318[/b][/color] [color=000090]Degrees of Separation from [region=Darwin].
-Soon to be from [region=Oracle] to [region=Darwin].
-
+[nation=short]Notice[/nation]:[list]See [region=Oracle] for results of Oracle Game.
 [url=http://nsdossier.texasregion.net/embassyOracle.aspx]Oracle[/url][/list][/color][color=006000]
 
 [b]Associated Regions:[/b][list]This is an [region=Ancient Lands] puppet storage region.

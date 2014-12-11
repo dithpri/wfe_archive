@@ -4,9 +4,11 @@
 [hr]|[url=http://forum.nationstates.net/viewtopic.php?f=15&amp;amp;t=269464]N++[/url] [b]&amp;lt;-------Download NationStates++ for a better gameplay experience![/b]
 [hr]| [b][color=922323]The Imperial Government:[/color][/b]
 | [b][color=FFD700]His Imperial Majesty, Emperor Tiber Septim:[/color][/b] [nation]Septim Empire-[/nation]
-| [b][color=FFB026]High Chancellor:[/color][/b] Vacant
 | [b][color=EB5C6B]Imperial Battlemage:[/color][/b] Vacant
 | [b][color=C2FB46]Imperial Magistrate:[/color][/b] Vacant
+
+| [b][color=FFB026]High Chancellor:[/color][/b] Vacant
+| [b][color=yellow]The Elder Council:[/color][/b] Vacant x3
 
 [b][color=922323]Provinces, Colonies, Other Possesions:[/color]
 [region]Province of Morrowind[/region]

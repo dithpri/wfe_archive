@@ -7,6 +7,8 @@ Brigadier Puffin:[nation=short]Bachtendekuppen[/nation]
 Lieutenant: [nation=short]Tano[/nation]
 Lieutenant: [nation=short]PrussianEmpire[/nation]
 Sergeant: [nation=short]The Fourth Imperium[/nation]
+Sergeant: [nation=short]Alterran Republic[/nation]
+
 
 [B]Allied With:[/B][/color]
 [region]The United Defenders League[/region]
