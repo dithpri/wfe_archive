@@ -15,7 +15,7 @@
 [region]The Empire of Ubermenscha[/region]
 
 [color=red][B][u]Commander in Chief of the Regional Armed Forces[/u][/B][/color]
-[region]The Federation of Dumbledores Militia[/region]
+[region]The Kingdom of Dumbledores Militia[/region]
 
 [color=teal][i][B][u]Foreign Affairs Officer[/u][/B][/i][/color]
 [region]The Republic of Aekir[/region]

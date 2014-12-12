@@ -1,9 +1,8 @@
-The Usean Federation is a supranational union consisting of twenty one nations located on the Usean and Alansian continents. The Federation is the successor state to the Aravean Hegemony and unlike its predecessor every member nation(with the exception of associate members) pledges its allegiance to the central federal government located in the city of Oured located on Aravea&amp;#39;s southern coast.
 
-Emperor:[nation]Aravea[/nation]
-Chancellor: [nation]Deian salazar[/nation]
-Interior Minister: [nation]Southern Acharastan[/nation]
-Foreign Minister:[nation]Acharastan[/nation]
-Defense Minister:[nation]Tsarist Chernigov[/nation]
-Economic Minister:[nation]Waldreich[/nation]
-President of the Senate:[nation]Firewind[/nation]
+Interim Government:
+Prime Minister: [nation]Eddoren[/nation]
+Deputy Prime Minister: [nation]Deian salazar[/nation]
+
+&amp;quot;Due to recent unsavory actions on my part, I will be stepping down a head of the Usean Federation. Until such a time when elections can be held, Eddoren will act as the new head of the Usean Federation along with Deian salazar who will act as his assistant. Please obey them and pay them the same respect that you gave to me&amp;quot;.
+Regards,
+[nation]Aravea[/nation]

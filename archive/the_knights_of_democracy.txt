@@ -9,6 +9,7 @@
 [nation]Aldund[/nation]-Minister of Defense
 [nation]Aguilar[/nation]-Minister of Diplomacy
 [hr]
-[b]Announcements[/b]: Founding; Please endorse the Grand Conciliator!
+[b]Announcements[/b]: Please endorse the Grand Conciliator! 
+[b][color=red]Regional Concerns:[/color][/b] Should we hold a Christmas celebration?
 [hr]
 [b]Threads[/b]: None
