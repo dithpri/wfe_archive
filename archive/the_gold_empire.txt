@@ -24,7 +24,7 @@ Minister of Safety: [nation=Pajek]
 Minister of Information: [nation=the United Capitalist people]
 [/color]
 
-[b]REGION SAFETY LEVEL: [color=#59db26]Good[/color][/b]
+[b]REGION SAFETY LEVEL: [color=Orange]Warning[/color][/b]
 The safety levels are:
 [color=Green]Excellent[/color]
 [color=#59db26]Good[/color]

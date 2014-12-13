@@ -6,6 +6,7 @@ Minister of Justice, Defense, Intel, and Military: [nation]United Christian[/nat
 Minister of Trade, Work, and Pensions:[nation]Helor[/nation]
 Minister of Health, Equities:[nation]Peruvica[/nation]
 Minister of Interior:[nation]Helor[/nation] 
-Minister of Environment:[nation]Tysoania[/nation]
+Minister of Environment:Open
 
 Endorse: [nation]United Christian[/nation]
+Wars:[nation]Monos[/nation]
