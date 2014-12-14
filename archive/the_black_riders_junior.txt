@@ -4,7 +4,7 @@ President Rider[nation=Iriosis]
 
 Vicepresident Rider [nation=Socialista Rider]
 
-Expulsed For The Black Riders Jrs[nation=Captain Bogden]
+Expulsed For The Black Riders Jrs[nation=Captain Bogden] [nation=Gurebil]
 
 Visitors[nation=short]
 

@@ -2,5 +2,5 @@
 [list][nation=short]The Red Dragon Emperor[/nation]
 [nation=short]Radditz[/nation]
 [nation=short]Nobilis Argentum[/nation]
-[nation=short]Macabre Snowmen[/nation]
-[nation=short]Enclave Americas[/nation][/list][/b][/color]
+[nation=short]Enclave Americas[/nation]
+[nation=short]______[/nation][/list][/b][/color]
