@@ -11,12 +11,12 @@ Dungeon Master: [nation=short]Ghondra[/nation] ([color=lightblue]PMP[/color])
 Defense Minister: [nation=short]Eire United[/nation] ([color=pink]TPP[/color])
 
 [B]Foreign Minister: [nation=short]Andermor[/nation] (I)[/B] / [nation=short]Sai Chan[/nation] ([color=red]LSP[/color])
-[B]Interior Minister: [nation=short]Plotus[/nation] ([color=pink]TPP[/color])[/B] / [nation=short]Pyridian[/nation] (I)
+[B]Interior Minister: [nation=short]Pyridian[/nation] (I) [/B]
 
 Editor-in-Chief: [nation=short+noflag]Ghondra[/nation] (Interim, still looking for permanent) 
 Wiki Master:
 Flag Designer:
-Cartographer: [nation=short]Red MRex Land[/nation]
+Cartographer:
 
 [B][color=red]Please remember to endorse the Delegate and Vice-Delegate![/color][/B]
 

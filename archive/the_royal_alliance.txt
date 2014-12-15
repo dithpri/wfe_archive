@@ -5,10 +5,11 @@
 
 [hr]
 
-[B][u]Executive [/u][/B]
-[B][color=blue]Governor-General: [nation=short]The Confederation of Northern Germany[/nation][/color] - [color=red]Please Endorse![/color][/B]
+[B][u]Executive[/u][/B]
+[B][color=blue]Head of State: [nation]Lagrangian[/nation][/color][/B]
 
 [B][u]Regional Council[/u][/B]
+[B][color=purple]Council/Governor: [nation=short]The Confederation of Northern Germany[/nation][/color][/B]
 [B][color=purple]Council Minister: [nation]Trotter City[/nation][/color][/B] 
 [B][color=purple]Council Minister: [nation]Talvezout[/nation][/color][/B]
 [B][color=purple]Council Minister: [nation=short]Republic of Wales and Scotland[/nation][/color][/B]

@@ -1,10 +1,10 @@
-[b][color=blue]The Knights of Democracy, onward![/color][/b]
+[b][color=blue]The Knights of Democracy, onward! (and Happy Holidays!)[/color][/b]
 [hr]
-[b]Nations of the Presidium:[/b]
+[b][color=gold]Nations of the Presidium:[/color][/b]
 [nation]Northern Davincia[/nation]-Opulent Sentinel 
 [nation]Yorkistan[/nation]-Grand Conciliator
 
-[b]Nations of the Senate:[/b]
+[b][color=blue]Nations of the Senate:[/color][/b]
 [nation]Sacarap[/nation]-Minister of Justice
 [nation]Aldund[/nation]-Minister of Defense
 [nation]Aguilar[/nation]-Minister of Diplomacy
