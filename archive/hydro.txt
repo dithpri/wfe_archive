@@ -3,14 +3,14 @@
 [color=red] Current Def-con[/color][color=blue] 0 [/color] 
 
 Available Def-Cons [color=blue]0[/color] [color=pink] 1 [/color] [color=lightGreen] 2[/color] [color=red] 3[/color] [color=bloodred] 4[/color] [color=black] 5 [/color]
-*H.Y.D.R.O Status*[color=red] Recharging will be usable tomorrow[/color]
+*H.Y.D.R.O Status*[color=Green] Ready to fire at a target.[/color]
 
-Work Status
- Speech About H.D.Y.R.O at the weapon
+[b]Work Status[/b]
+Working on Projects
 
 Projects
-Cascade:12%
-Ultimate Soldiers:0%
+Cascade:14%
+Ultimate Soldiers:1%
 Weapon Steam Sale missile 0%
 life extender. 30%
 Cure to cancer: 3%
@@ -24,5 +24,5 @@ Guards: City18&amp;#39;s Marines
 Head Scientist: Dr. Kliener
 Assistant Head Scientist: Gordan Freeman
 Project leaders: Graymond Mann, Demoman, Professor Oak.
-
+Secret Project leaders: Soldier, Spy, Scout, Pyro
 Welcome to Hydro were you will never find if your an enemy. 

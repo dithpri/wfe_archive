@@ -7,4 +7,4 @@ King:[nation]Blendi ahmetaj[/nation]
 Duke:[nation]kosovo world[/nation]
 Marchese:[nation]great britain bl[/nation]
 Conte:[nation]lord ahmetaj[/nation]
-Bishop:
+Bishop:[nation]ahmetajs[/nation]

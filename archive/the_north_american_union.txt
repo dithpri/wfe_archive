@@ -12,6 +12,6 @@ Headquarters of [region]The North American Union[/region] Defense Forces.
 
 [i][B]Emperor/Commander-in-Chief:[/B][/i] [nation]United Federation of Canada[/nation]
 [i][B]Premier:[/B][/i] [nation]Chester Pearson[/nation]
-[i][B]Speaker of Congress: Vacant
+[i][B]Speaker of Congress: [nation]Ordine Sicariorum[/nation]
 Minister of The Union: Vacant
 Chief Justice: Vacant[/B][/i][hr]

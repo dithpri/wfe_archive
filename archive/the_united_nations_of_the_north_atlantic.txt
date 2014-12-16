@@ -6,18 +6,20 @@
 
 Chairman - [nation]Poldarias[/nation]
 Deputy Chairman - [nation]Loomynati[/nation]
-Foreign Office - [color=red]Vacant[/color]
-Home Office - [color=red]Vacant[/color]
+Foreign Office - [nation]stjamesdom[/nation]
+Home Office - [nation]Kharzziland[/nation]
 Regional Treasury - [color=red]Vacant[/color]
 Ministry of Defence - [color=red]Vacant[/color]
 Ministry of Justice - [color=red]Vacant[/color]
 
 [u][b][color=blue]Regional Parliament[/color][/u][/b]
 
-Chief Counciler - [color=red]Vacant[/color]
-Deputy Counciler - [color=red]Vacant[/color]
+Chief Councillor -  [nation]balias tor[/nation] 
+Deputy Councillor - [nation]borgon[/nation]
 Council Minister - [color=red]Vacant[/color]
 Council Minister - [color=red]Vacant[/color]
 Council Minister - [color=red]Vacant[/color]
 Council Minister - [color=red]Vacant[/color]
 Council Minister - [color=red]Vacant[/color]
+
+[color=orange]Regional Map [/color]- https://lh3.googleusercontent.com/4IO5rS7xxuKlQXYetSD2ycUEj_wOQNY08YKHLvu01g=w417-h207-p-no
