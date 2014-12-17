@@ -3,8 +3,9 @@
 This region is founded by [nation]Cadest[/nation].
 
 Prime Minister: [nation]Cadest[/nation]
-Foreign Minister: [none]
+Foreign Minister (Acting): [nation]Great Chinese Socialist[/nation]
 Defense Minister: [none]
+Interior Minister: [none]
 
 [hr]
 

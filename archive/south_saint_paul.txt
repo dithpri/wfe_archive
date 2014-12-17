@@ -1,6 +1,6 @@
 We are from the greatest region on Earth
 
-Dictator: Magic Police
-President (WA Delegate): Magic Police
-General: Punching People in the Face
-Judge: The Residents of South Saint Paul
+Dictator: [nation=short]Magic Police[/nation]
+President (WA Delegate): [color=magenta][i]Magic Police[/i][/color]
+General: 
+Judge: [color=orange][i]The Residents of South Saint Paul[/i][/color]

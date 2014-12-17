@@ -6,10 +6,10 @@ Available Def-Cons [color=blue]0[/color] [color=pink] 1 [/color] [color=lightGre
 *H.Y.D.R.O Status*[color=Green] Ready to fire at a target.[/color]
 
 [b]Work Status[/b]
-Working on Projects
+Getting Back to work
 
-Projects
-Cascade:14%
+[b][color=murkygreen]Projects[/color][/b]
+Cascade:100%
 Ultimate Soldiers:1%
 Weapon Steam Sale missile 0%
 life extender. 30%
@@ -17,7 +17,7 @@ Cure to cancer: 3%
 Cloaking devices: 100%
 Ballistic Mini Guns: 56%
 
-Majors on Staff
+[b][color=Blue]Majors on Staff[/color][/b]
 Head overseer:Redmond Mann
 Assistant Overseer: Blutach Mann
 Guards: City18&amp;#39;s Marines

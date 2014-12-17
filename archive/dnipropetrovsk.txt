@@ -1,13 +1,12 @@
-[b][u]Regional Government[/b][/u]
-Il Duce of Region: [nation]ukrainians[/nation] ( Czar Mychajlo Koloda )
-Prime Minister of Region: [nation]translyvani[/nation] ( Queen Grace Francis )
-Head of Military: [nation]barahma[/nation] ( General Karson Boris )
-Head of Intelligence: [nation]halotopia[/nation] ( Dictator Dawn Rose )
-Head of Foreign Affairs: [nation]ukrainian donbass[/nation] ( Secretary Vitali Bulabchenky )
-Head of Propaganda: [nation]Zugspitze[/nation] ( K&ouml;nig Kristof Bernard Reid ) 
-Head of Homeland Defense: [nation]ar-kansas[/nation] ( Princess Julienn Emiliana )
-Head of Internal Security Affairs: [nation]zaporizhia oblast[/nation] ( Fruher Dietrich Michael )
+[b][u][color=red]Regional Government[/b][/u][/color]
+[b]Leader of the Region[/b]: [nation]ukrainians[/nation] ( Czar Mychajlo Koloda )
+[b]Prime Minister of Region[/b]: [nation]translyvani[/nation] ( Queen Grace Francis )
+[b]Head of Military[/b]: [nation]barahma[/nation] ( General Karson Boris )
+[b]Head of Intelligence[/b]: [nation]halotopia[/nation] ( Dictator Dawn Rose )
+[b]Head of Foreign Affairs[/b]: [nation]ukrainian donbass[/nation] ( Secretary Vitali Bulabchenky )
+[b]Head of Propaganda[/b]: [nation]Zugspitze[/nation] ( K&ouml;nig Kristof Bernard Reid ) 
+[b]Head of Homeland Defense[/b]: [nation]ar-kansas[/nation] ( Princess Julienn Emiliana )
+[b]Head of Internal Security Affairs[/b]: [nation]zaporizhia oblast[/nation] ( Fruher Dietrich Michael )
 
 We are Proudly Part of the [region]The Peoples Federation of Qandaristan[/region]!
 
-[color=blue]Daily Joke[/color]: ( send in ideas )

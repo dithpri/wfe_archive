@@ -22,6 +22,7 @@
 [nation]Solum Sine Nefas[/nation]
 [i]- Protectorated States:[/i]
 [nation]Nevetnaci[/nation]
+[nation]ShiroKishi[/nation]
 [hr]
 
 [b]Legislature[/b]: 
@@ -29,7 +30,7 @@
 - Lower House: Regional Diet
 [hr]
 
-[b]Currencies: Empers, Lucres ,Brass Medals,Souls and Karms[/b]
+[b]Currencies: Empers, Lucres, Brass Medals ,Souls ,$K and Karms[/b]
 [hr]
 
 [b]Pinned Regional Dispatches:[/b]
