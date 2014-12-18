@@ -4,16 +4,15 @@ Welcome to [color=orange]Half-life 2[/color] a region of complete malice. We are
 3. Ryan is not good at political things so he will say random things
 4. Shrek is hate Shrek is death
 5. Wars have rules follow them or your war action is voided.
-We are the Original Half life 2 We had a run in with a person named deathland 300 (now banned from nation states)
+We are the Original Half life 2 We had a run in with a person named [color=Pink]deathland 300[/color] (now banned from nation states)
 
 [b][color=blue]MAPS[/color][/b]
 [url=https://www.nationstates.net/page=dispatch/id=331057/]Tamriel Map[/url]
 [url=https://www.nationstates.net/nation=terrorists_army_of_the_postal_dude/detail=factbook/id=323827/]Half Life 2 Map[/url]
 
 [b][color=darkgreen]MAJOR ALLIES[/color][/b]
-Land of Epic
-Hydro
-Gravel Pit
+[region=Land of Epic]
+[region=Gravel Pit]
 
 [b][color=green]Territories[/color][/b]
 [color=purple]Morrowind[/color]
@@ -21,3 +20,6 @@ Gravel Pit
 [color=lightgreen]Skyrim[/color]
 [color=Brown]HammerFall[/color]
 [color=red]Black marsh[/color]
+
+[color=green][b]Our Black Mesa[/b][/color]
+[region=Hydro]

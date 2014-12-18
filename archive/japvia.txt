@@ -1,11 +1,14 @@
 [color=8B3324][b]Japvia[/b][hr][/color][color=2A52BE]This is a passworded puppet storage region.
 [/color][color=2F4F4F]
-[b][nation=short]Embassy Policy[/nation]:[/b][list]This region is an Oracle Region.
-All of my Oracle Regions do not accept any embassy offer given. Oracle regions has at most two embassies to play [url=http://nsdossier.texasregion.net/embassyOracle.aspx]Oracle[/url].
-The goal of this form of the Oracle Game is to have as many regions to form a long string of regions connected by their embassies. The two embassies connect two different regions.
-
-My Matrix Regions, on the other hand, do accept embassies.[/list][/color][color=177245]
-[b]Associated Regions:[/b][list][region=The Mars], [region=The Americas], [region=High Orion Alliance], [region=Pacific Union], [region=Ancient Lands], [region=United States of America][/list]
-[/color][color=E34234][b]
-Caretakers:[/b][list][nation=Elliston] &amp;amp; [nation=Manitoulin][/list][/color]
-.|... ..... ..... ..... ..... ..... ..... .....
+[b][nation=short]Embassy Policy[/nation]:[/b][list]See [region=Oracle] for Embassy Policy.[/list][/color][color=177245]
+[b]Associated Regions:[/b][list][region=Ancient Lands]
+[region=High Orion Alliance]
+[region=Oracle]
+[region=Pacific Union]
+[region=The Americas]
+[region=The Icelandic Commonwealth]
+[region=The Mars]
+[region=United States of America][/list]
+[b]Caretakers:[/b][list][nation=Manitoulin] (aka [nation=Crazy Kitty])
+[nation=Royal House of Windsor] (aka [nation=Elliston])[/list]
+All named [b]Queen&amp;#39;s State[/b] in Rae&amp;#39;s name.[/color]

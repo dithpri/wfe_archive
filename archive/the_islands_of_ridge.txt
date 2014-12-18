@@ -1,19 +1,40 @@
-This is a list of ministers for The Islands of Ridge
-
-Contact any minister if you have a problem with their position.
+Rules:
+- Don&amp;#39;t be corrupt, a full week of being corrupt will get you banned.
+- Be a nice and appropriate person
+ 
+Ultimate Leader
+[nation]gerwane[/nation]
 
 MINISTERS
-Ultimate Leader: Gerwane
-Defence: Skellitone
-Propaganda and Public Enlightenment: Gerwane
-Finance: Gerwane
-Foreign Affairs: Sonic States
-Internal Affairs: Gerwane
-Land Management: Skellitone
-Justice: Skellitone
-Labour: Gerwane
-Immigration: Skellitone
-Re-education: gerwane
-Human Rights: Skellitone
-Nature Welfare: Skellitone
-Spirituality: Gerwane
+
+[nation]gerwane[/nation]
+-Propaganda and Public Enlightenment
+-Treasury
+-Internal Affairs
+-Labor
+-Religion
+-Science
+
+[nation]skellitone[/nation]
+-Defense
+-Land Management
+-Justice
+-Education
+-Human Rights
+-Nature Welfare
+-Tourism
+
+[nation]somic states[/nation]
+-Foreign Affairs
+-Immigration
+-Business
+
+Contact Gerwane if you have a problem with you minister positioning.
+
+Map of The Islands of Ridge
+http://www.nationstates.net/page=dispatch/id=342791
+
+How the Ministers are appointed
+http://www.nationstates.net/nation=gerwane/detail=factbook/id=342810
+
+(If the links doesn&amp;#39;t work you can find it in Gerwane&amp;#39;s factbook)

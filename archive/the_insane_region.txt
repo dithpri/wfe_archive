@@ -1,14 +1,13 @@
+[i]Founder - [nation]United German Regions[/nation][/i]
+Cabinet Members:
+[nation=noflag]Cloudistan[/nation]
+[nation=noflag]United German Regions[/nation]
+[nation=noflag]Halo allaince[/nation]
+[B]Chat Moderator - [nation=noflag]venedictov[/nation][/B]
+
 [color=orange][b][i]ENEMIES:
 [region]Bobs Burgers[/region]
-[region]The World Alliance[/region]
-[region]Free land of the grunts[/region][/i][/b][/color]
+[region]The World Alliance[/region][/i][/b][/color]
 
 [color=blue][B][i]ALLIES:
 [region]United Kush States[/region][/i][/B][/color]
-
-Highest Members:
-1)[nation=noflag]Cloudistan[/nation]
-2)[nation=noflag]United German Regions[/nation]
-3)[nation=noflag]TR3NZA1OR3[/nation]
-
-[B][color=red]CHAT MODERATOR - [nation]venedictov[/nation][/color][/B]

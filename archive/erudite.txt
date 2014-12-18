@@ -8,3 +8,4 @@ Commander: Andrei of Verayne
 Specialization: Military Technology, Economy, Intelligence
 Resources: Uranium, Gold, Silver, Iron, Water, Radon
 Borders: Open to newcomers
+Occupied Nations: [nation]Corderea[/nation], [nation]Nicolas Cage the Cage[/nation], [nation]Flygian[/nation]

@@ -1,6 +1,6 @@
 Map: http://tinypic.com/r/fbgx7o/8
 
-Minister of Finance and Management: [nation]Mede[/nation]
+Minister of Finance and Management: [nation]Middle East and Northern Africa Alliance[/nation]
 Minister Foreign, International Development, and Commonwealth Affairs:  [nation]United Christian[/nation]
 Minister of Justice, Defense, Intel, and Military: [nation]United Christian[/nation]
 Minister of Trade, Work, and Pensions:[nation]Helor[/nation]
@@ -9,4 +9,4 @@ Minister of Interior:[nation]Helor[/nation]
 Minister of Environment:Open
 
 Endorse: [nation]United Christian[/nation]
-Wars:[nation]Monos[/nation] *Ceasefire and Peace talks*
+Wars:
