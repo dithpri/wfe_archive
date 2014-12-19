@@ -5,6 +5,9 @@ Rules:
 Ultimate Leader
 [nation]gerwane[/nation]
 
+Adviser
+[nation]somic states[/nation] 
+
 MINISTERS
 
 [nation]gerwane[/nation]
@@ -14,12 +17,12 @@ MINISTERS
 -Labor
 -Religion
 -Science
+-Education
 
 [nation]skellitone[/nation]
 -Defense
 -Land Management
 -Justice
--Education
 -Human Rights
 -Nature Welfare
 -Tourism
@@ -37,4 +40,4 @@ http://www.nationstates.net/page=dispatch/id=342791
 How the Ministers are appointed
 http://www.nationstates.net/nation=gerwane/detail=factbook/id=342810
 
-(If the links doesn&amp;#39;t work you can find it in Gerwane&amp;#39;s factbook)
+(If the links doesn&amp;#39;t work you can find them in Gerwane&amp;#39;s factbook)

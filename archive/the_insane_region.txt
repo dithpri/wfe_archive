@@ -1,9 +1,10 @@
 [i]Founder - [nation]United German Regions[/nation][/i]
 Cabinet Members:
-[nation=noflag]Cloudistan[/nation]
-[nation=noflag]United German Regions[/nation]
-[nation=noflag]Halo allaince[/nation]
+1)[nation=noflag]United German Regions[/nation]
+2)[nation=noflag]Cloudistan[/nation]
+3)[nation=noflag]Halo allaince[/nation]
 [B]Chat Moderator - [nation=noflag]venedictov[/nation][/B]
+Religious Leader - [nation=noflag]The Mickey Mouse Club[/nation]
 
 [color=orange][b][i]ENEMIES:
 [region]Bobs Burgers[/region]

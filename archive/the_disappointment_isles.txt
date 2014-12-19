@@ -12,3 +12,9 @@ Recruitment Officer
 
 Overseer of Foreign Relations 
  [nation=suparadzia]
+
+Commander in Chief
+[Color=green]Under Vote[/color]
+
+Secretary of War
+[Color=green]Under Vote[/color]

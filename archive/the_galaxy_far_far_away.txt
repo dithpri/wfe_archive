@@ -2,9 +2,9 @@ The Galaxy of Star Wars for Fans, must have a name from the Official Galaxy of S
 
 ================================================================================================
 
-Head of the Region: [i][color=magenta]Planet Hoth[/color][/i]
-Delegate of the Region: [i][color=magenta] [/color][/i]
-Actual Head of the Galaxy: [i][color=magenta]Coruscant[/color][/i]
+Creator of the Galactic Senate: [i][color=magenta][nation=short]The Frozen Hoth System[/nation][/color][/i]
+Protectorate of the Galaxy: [i][color=magenta][nation=short]The Imperial Navy Fleet[/nation][/color][/i]
+Senate Chancellor of the Galaxy: [i][color=magenta]Coruscant[/color][/i]
 Board of the Galaxy: [i][color=magenta]Non-Elected Official Planets[/color][/i]
 
 ================================================================================================

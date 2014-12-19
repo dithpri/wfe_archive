@@ -7,7 +7,7 @@ NOCO SECRETARY-GENERAL [nation]Maisto[/nation]
 CHAIRMAN-IN-OFFICE [nation]Golaniva[/nation]
 FIRST SEAT [nation]Dunaree[/nation]
 SECOND SEAT [nation]East Congeria[/nation]
-THIRD SEAT [nation]Cartaya[/nation] (Interim)
+THIRD SEAT [nation]Mondoshawa[/nation]
 
 [b]PAN-OSEAN REGIONAL COUNTER-TERRORISM FORCE (RCTF)[/b]
 RCTF SUPREME COMMANDER [nation]Evertia[/nation]

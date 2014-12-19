@@ -12,6 +12,7 @@
 [region]The First Reich[/region]
 [region]Teutonic Union[/region]
 [region]Hyperborean Thule[/region]
+[region]Grossdeutschland Reich[/region]
 
 [b]Conquered Subjects:[/b]
 
