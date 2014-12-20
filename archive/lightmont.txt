@@ -2,7 +2,7 @@
 
 [b][u]The Senate[/b][/u]
 Delegate: 
-Senator:[nation]Bourda[/nation]
+Senator: [nation]Bourda[/nation]
 Senator:
 Senator:
 Senator:

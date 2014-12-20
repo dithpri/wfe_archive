@@ -14,7 +14,6 @@
 [nation]Maronia[/nation]
 [nation]New Gentia[/nation]
 [nation]Slakia[/nation]
-[nation]Sutalia[/nation]
 [nation]Vassau[/nation]
 [hr]
 
@@ -23,4 +22,4 @@
 [region]Union of Independent Nations[/region]
 [hr]
 
-[url=http://s4.postimg.org/4qc6bgcmj/Map.png]World Map[/url] (20/11/14)
+[url=http://s7.postimg.org/attutn92h/Map.png]World Map[/url] (19/12/14)

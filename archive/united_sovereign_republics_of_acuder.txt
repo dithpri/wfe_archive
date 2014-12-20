@@ -6,7 +6,6 @@ Regional Government:
 
 Lords:
 --------------------------------
-[COLOR=blue]High Lord:[/color][nation=short]krencia[/nation]
 [COLOR=Orange]High Elf:[/color][nation=short]Stone Cuaron[/nation]
 [color=red]Major Elf:[/color][nation=short]New Vandoosa[/nation]
 [color=purple]Minor Elf:[/color][nation=short]North Libya[/nation]
@@ -25,5 +24,5 @@ Ministers &amp;amp; Ambassador:
 [color=orange]Minister of Bad or Good list:[/color][nation=short]North Libya[/nation]
 
 [color=cyan]Grinch:[/color][nation=short]Yuketobaniac[/nation] 
-[color=red]Acuderian Ambassador:[/color]
+[color=red]Acuderian Ambassador:[/color] [nation]Krencia[/nation]
 
