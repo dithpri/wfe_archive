@@ -19,7 +19,7 @@
 Consort:
 
 [Color=blue]Prime Minister:[/color]
-[Nation=short]Romano-Germanic Empire[/nation]
+[Nation=short]Aeternabilis[/nation]
 
 [Color=brown]Deputy PM:[/color]
 [nation=short]Aeternabilis[/nation]

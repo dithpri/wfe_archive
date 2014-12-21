@@ -12,9 +12,7 @@
 [nation]Danea[/nation]
 [nation]Litwaczka[/nation]
 [nation]Maronia[/nation]
-[nation]New Gentia[/nation]
 [nation]Slakia[/nation]
-[nation]Vassau[/nation]
 [hr]
 
 [b]Allies[/b]

@@ -3,9 +3,9 @@
 [color=blue]
 Council:
 Head Councilor: [nation]Mashalgd[/nation]
-Councilor: [nation]the republic rome[/nation]
+Councilor: Francis Underwood, [nation]the republic rome[/nation]
 Councilor: [nation]Flattnerk[/nation]
-Councilor: [nation]Liverte[/nation]
+Councilor: Auguste L. Baptiste VI, [nation]Liverte[/nation]
 Councilor: [nation]the New Communist Order[/nation]
 
 [/color]

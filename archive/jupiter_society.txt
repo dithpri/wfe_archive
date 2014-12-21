@@ -9,10 +9,10 @@ Rules will be enforced brutally:
 
 [color=turquoise][b]The Governing Guild[/b][/color]
 [b]Chairman of the Senate[/b][nation]The 12th Roman Legion[/nation]
-[b]Senator of Internal Intelligence:[/b][b][nation]Duncanio[/nation][/b]
-[b]Senator of Security:[/b] [nation]Timmins Capital[/nation]
+[b]Senator of Internal Intelligence:[/b][b][nation]Timmins Capital[/nation][/b]
+[b]Senator of Security:[/b] [nation]Tom Mills[/nation]
 [b]Senator of The Treasury:[/b] [b][nation]Conor Finan[/nation][/b]
-[b]Senator of Law:[/b][nation]Tom Mills[/nation]
+[b]Senator of Law:[/b][nation]Duncanio[/nation]
 [b]Senator of Foreign Intelligence:[/b][nation]3 point[/nation]
 
 
