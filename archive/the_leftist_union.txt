@@ -12,7 +12,7 @@ Members-
 [nation=short]Stierlitzia[/nation](LP)
 [nation=short]Urzistan[/nation](I)
 [nation=short]Willie[/nation](I)
-[nation=short]Napania[/nation](I)
+[nation=short]Napania[/nation](DSP)
 [nation=short]Racoda[/nation](I)
 [hr]
 Endorse Delegate: [nation=short]Lipno[/nation]

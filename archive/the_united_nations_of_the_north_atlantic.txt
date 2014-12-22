@@ -1,19 +1,16 @@
 [u]Welcome to the [region]The United Nations Of The North Atlantic[/region]![/u]
-
 [u][b]Est. 12th December 2014[/b][/u]
 
 [b][u][color=blue]Regional Government[/color][/u][/b]
-
 Chairman - [nation]Poldarias[/nation]
 Deputy Chairman - [nation]Loomynati[/nation]
 Foreign Office - [nation]stjamesdom[/nation]
 Home Office - [nation]Kharzziland[/nation]
 Ministry of Defence - [nation]borgon[/nation]
-Ministry of Justice - [color=red]Vacant[/color]
+Ministry of Justice - [nation]swatzia[/nation]
 Regional Treasury - [color=red]Vacant[/color]
 
 [u][b][color=blue]Regional Parliament[/color][/u][/b]
-
 Chief Councillor -  [nation]balias tor[/nation] 
 Deputy Councillor - [nation]vaes dothraky[/nation]
 Council Minister - [color=red]Vacant[/color]
@@ -21,5 +18,3 @@ Council Minister - [color=red]Vacant[/color]
 Council Minister - [color=red]Vacant[/color]
 Council Minister - [color=red]Vacant[/color]
 Council Minister - [color=red]Vacant[/color]
-
-[color=orange]Regional Map [/color]- https://lh3.googleusercontent.com/4IO5rS7xxuKlQXYetSD2ycUEj_wOQNY08YKHLvu01g=w417-h207-p-no

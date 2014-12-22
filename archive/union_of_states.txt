@@ -5,7 +5,7 @@ All Positions are temporary to create a stable region, when population permits, 
 [color=green]Prime Minister-[/color]OPEN
 [color=gold]First Minister-[/color][nation]Orthonac[/nation]
 [color=green]Minister of the Interior-[/color]OPEN
-[color=gold]Minister of Justice-[/color]OPEN
+[color=gold]Minister of Justice-[/color][nation]Edinbuorgh[/nation]
 [color=green]Minister of Defense-[/color]OPEN
 [color=gold]Minister of Foreign Affairs-[/color][nation]Monos[/nation]
 [color=green]Minster of Recruitment-[/color][nation]Targaros[/nation]

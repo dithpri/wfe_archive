@@ -1,9 +1,8 @@
 [color=purple][B]Former Puppet Storage Region of [region]Sicarius[/region]
-All nations are advised to relocate to the new puppet storage region:[region]Valrifell Is Mean[/region][/B].[/color]
 
-[color=990000]Raid Statistics:[/color]
+Raid Statistics:[/color]
 
-Number of update raids: [B]239[/B]
+Number of update raids: 239[/B]
 Number of occupations and refounds: [B]4[/B]
 Number of countered liberations: 3
 Number of countered refounds: 1
