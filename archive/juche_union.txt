@@ -22,7 +22,7 @@ Minister of Defense:[nation]Communist Skyrim[/nation]
 
 [B][u]Time Zones:[/u][/B]
 
-Atlantic EST= UTC +5
+America/Canada EST= UTC +5
 
 UTC 0 (AKA GMT)
 

@@ -1,14 +1,14 @@
 Regional Government:
 ----------------------------------
 
-[color=red]Ms. Claus:[/color][nation=short]The Barbradian Republic[/nation]
-[color=blue]Santa Claus:[/color][nation=short]commonwealth of hank the cat[/nation]
+[color=red]King of Acuder:[/color][nation=short]The Barbradian Republic[/nation]
+[color=blue]Chancellor:[/color][nation=short]commonwealth of hank the cat[/nation]
 
 Lords:
 --------------------------------
-[COLOR=Orange]High Elf:[/color][nation=short]Stone Cuaron[/nation]
-[color=red]Major Elf:[/color][nation=short]New Vandoosa[/nation]
-[color=purple]Minor Elf:[/color][nation=short]North Libya[/nation]
+[COLOR=Orange]High Lord:[/color][nation=short]Stone Cuaron[/nation]
+[color=red]Major Lord:[/color][nation=short]New Vandoosa[/nation]
+[color=purple]Minor Lord:[/color][nation=short]North Libya[/nation]
 
 MPs:
 --------------------------------
@@ -19,10 +19,9 @@ MPs:
 
 Ministers &amp;amp; Ambassador:
 --------------------------------
-[color=purple]Minister of Present Buying:[/color][nation=short]Commonwealth of Hank the Cat[/nation]
-[color=blue]Minister of Deer Tending:[/color][nation=short]Stone Cuaron[/nation]
-[color=orange]Minister of Bad or Good list:[/color][nation=short]North Libya[/nation]
+[color=purple]Minister of Trade:[/color][nation=short]Commonwealth of Hank the Cat[/nation]
+[color=blue]Minister of Defense:[/color][nation=short]Stone Cuaron[/nation]
+[color=orange]Minister of Travel:[/color][nation=short]North Libya[/nation]
 
-[color=cyan]Grinch:[/color][nation=short]Yuketobaniac[/nation] 
 [color=red]Acuderian Ambassador:[/color] [nation]Krencia[/nation]
 
