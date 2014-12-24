@@ -1,6 +1,7 @@
-[color=#D7CE1F]Welcome to the new Madrigal[/color][hr][hr][i][color=#5116DA]Foundry[/color][/i]
-[B]Overseer: [nation=short]Shadoke[/nation] ([nation=short]Dremaur[/nation])
-Father: [nation=short]Giratina[/nation]
-Lord Speaker: [nation=short]Great Kleomentia[/nation][/B]
+[color=#FFDF00]Welcome to the new Madrigal[/color][hr][hr][i][color=#5116DA]Foundry[/color][/i]
+[list][B]
+-&amp;gt;  Overseer: [nation=short]Shadoke[/nation] ([nation=short]Dremaur[/nation])
+-&amp;gt;  Father: [nation=short]Giratina[/nation]
+-&amp;gt;  Lord Speaker: [nation=short]Great Kleomentia[/nation][/B][/list]
 [hr][hr]
 [B]NEWS[/B]: [i]The new Madrigal is a work in progress that will begin soon. Very soon...[/i]

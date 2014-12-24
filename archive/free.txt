@@ -2,21 +2,18 @@
 
 [color=green] Operational headquarters have been moved to [region=The Iron League][/color]
 [color=purple]This region tries to bring justice to the free peoples.[/color]
-[color=blue]Detags executed by Ravanian Justice-nations :[b] 550 [/b][/color]
+[color=blue]Detags executed by Ravanian Justice-nations :[b] 656 [/b][/color]
 
 [hr]
 [b][color=red][u]Justice-detag list:[/u][/color]
 
-May 11th: [region=Crimson Empire]
-May 11th: [region=Nacion Botin Rojo]
-May 11th: [region=League of Combined Nations]
-May 12th: [region=Hollywoodland]
-May 12th: [region=Equilibrium]
-May 12th: [region=Merry old England]
-May 13th: [region=Continental Union]
-May 13th: [region=Unrealistic RPers]
-May 13th: [region=GIGA Federation]
-May 13th: [region=Koprulu]
+Dec 21st: [region=Democratium]
+Dec 21st: [region=The Land of the Wolverines]
+Dec 21st: [region=Scythia]
+Dec 21st: [region=Umbara]
+Dec 21st: [region=Galilean]
+Dec 21st: [region=Mushroom Kingdom]
+
 [hr]
 [color=purple][u]Detag to-do-list:[/u][/color][/b]
 [color=blue] Unban banned defender nations
@@ -25,4 +22,5 @@ Check the WFE
 Check the flag
 Check the RMB
 Check the embassies
-Check the tags[/color]
+Check the tags
+[/color]

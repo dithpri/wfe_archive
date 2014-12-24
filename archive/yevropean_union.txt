@@ -10,7 +10,6 @@
 
 [nation]Castilea[/nation]
 [nation]Danea[/nation]
-[nation]Litwaczka[/nation]
 [nation]Maronia[/nation]
 [nation]Slakia[/nation]
 [hr]
