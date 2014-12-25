@@ -2,7 +2,7 @@
 
 [B][url=http://w11.zetaboards.com/TULON/index/]FORUM[/url][/B]
 
-[B]Vice-Delegate: [nation=short]Correctional Facility[/nation] ([color=blue]CP[/color])
+[B]Vice-Delegate:
 
 Director of WA Affairs: [nation=short]Cardoness[/nation] ([color=orange]IFP[/color])
 
@@ -10,8 +10,12 @@ Dungeon Master: [nation=short]Ghondra[/nation] ([color=lightblue]PMP[/color])
 
 Defense Minister:
 
+Speaker of the Assembly:
+
+Prime Minister:
+
 Foreign Minister: [nation=short]Andermor[/nation] (I)[/B] / [nation=short]Sai Chan[/nation] ([color=red]LSP[/color])
-[B]Interior Minister: [nation=short]Pyridian[/nation] (I) [/B]
+[B]Interior Minister:[/B]
 
 Editor-in-Chief: [nation=short+noflag]Ghondra[/nation] (Interim, still looking for permanent) 
 Wiki Master:

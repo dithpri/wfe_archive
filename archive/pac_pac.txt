@@ -1,11 +1,10 @@
 [u][b][color=yellow]Executive[/color][/b][/u]:
 [b]Supreme Chancellor:[/b] [nation=Lackatoo]Lackatoo[/nation]
-[b]Vice Chair:[/b] [nation=NUKES EVERYWHERE]
+[b]Vice Chancellor and Senate Chair:[/b] [nation=NUKES EVERYWHERE]
 [b]Aministrative Aid:[/b] [nation=Meoko]
 
 
 [u][b][color=green]Legislative[/color][/b][/u]:
-[b]Chair of the Senate:[/b] [nation=NUKES EVERYWHERE]
 Class I Senator of Pac Pac: [nation=Atticusland]
 Class II Senator of Pac Pac: [nation=Urinetowns]
 Class III Senator of Pac Pac: [nation=Samich]
@@ -19,4 +18,4 @@ Class IV Senator of Pac Pac: [nation=New Yawron]
 [b]Chancellor Nominees:[/b]
 [b][color=red]Federalist Party[/color]:[/b] [nation=Frantic Liars]
 [b][color=blue]Anit-Federalist Party[/color]:[/b] [nation=Kayserland]
-[b][color=gray]Whig Party[/color]:[/b]
+[b][color=gray]Whig Party[/color]:[/b] [nation=Schoop-Badoogan]

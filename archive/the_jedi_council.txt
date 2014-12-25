@@ -5,4 +5,5 @@
 [nation=short]Free Jedi Knights[/nation]
 [nation=short]Samurai Shogun[/nation]
 [nation=short]Samsalot[/nation]
+[nation=short]Yoda[/nation]
 [nation=short]The Jedi Mercs[/nation][/b]

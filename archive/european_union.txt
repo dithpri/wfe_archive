@@ -8,20 +8,20 @@ If you don&amp;#39;t receive a validation email when you sign up for the forum, 
 [hr]
 
 [b]Commission[/b]
-Premier: [nation=short]Os Corelia[/nation]
-Foreign Affairs: [nation=short]Poland-Lythuania[/nation]
-Defence and Peacekeeping: [nation=short]Halsberg[/nation]
-Economics: [nation=short]Davishire2[/nation]
-Internal Affairs: [nation=short]Miraco[/nation]
+Premier: [nation=short]Imperial Prussian State[/nation]
+Foreign Affairs: [nation=short]Angleter[/nation]
+Defence and Peacekeeping: [nation=short]Havvenskar[/nation]
+Economics: [nation=short]Poretos[/nation]
+Internal Affairs: [nation=short]Inimicus[/nation]
 
 [hr]
 
 [b]Court[/b]
-Chief Justice: [nation=short]Angleter[/nation]
-Justice: [nation=short]Gun-Toting Animals[/nation]
+Chief Justice: [nation=short]Poland-Lythuania[/nation]
+Justice: [nation=short]Os Corelia[/nation]
 Justice: [nation=short]Inimicus[/nation]
-Justice: [nation=short]Imperial Prussian State[/nation]
-Justice: [nation=short]Icholasen[/nation]
+Justice: [nation=short]Davishire2[/nation]
+Justice: [nation=short]Poretos[/nation]
 
 [hr]
 
