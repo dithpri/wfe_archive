@@ -4,8 +4,7 @@ President:
 Senate:
 [color=black]Gyuamno (RL)[/color]
 [color=black]Louisburg (RL)[/color]
-[color=black]Hess-Castle (RL)[/color]
-(contested)
+[color=black]Pautoquet (RD)[/color]
 
 Chamber of Representatives:
 [color=black]Woschia (IRU)[/color]
@@ -14,7 +13,7 @@ Chamber of Representatives:
 [color=black]Royal Georgia (RL)[/color]
 [color=black]Hohezollern (I)[/color]
 [color=black]Pronunshaa (IRU)[/color]
-[color=black]Pautoquet (RD)[/color]
+[color=black]Hess-Castle (RL)[/color]
 [color=black]Colonial Philadelphia (RD)[/color]
 
 Social Court:
