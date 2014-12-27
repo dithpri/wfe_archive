@@ -12,4 +12,5 @@
 [nation=short]Communistan[/nation]
 
 [hr][hr][b]Affiliated region[/b]
-[region]Inner Mongolia[/region][hr][hr]
+[region]Inner Mongolia[/region]
+[region]Eastern Asia[/region][hr][hr]

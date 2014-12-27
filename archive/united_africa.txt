@@ -16,5 +16,4 @@ Regional Adviser: [nation=short]Zambezia[/nation]
 [hr]
 
 [b]Currency: [color=fire]Afric[/color][/b]
-[b]Featured Region:[/b] 9/18/2013
-[b][color=red]1[/color][color=green]2[/color][color=red]/[/color][color=green]2[/color][color=red]5[/color][color=green]/[/color][color=red]2[/color][color=green]0[/color][color=red]1[/color][color=green]4[/color]   [color=red]M[/color][color=green]e[/color][color=red]r[/color][color=green]r[/color][color=red]y[/color] [color=green]C[/color][color=red]h[/color][color=green]r[/color][color=red]i[/color][color=green]s[/color][color=red]t[/color][color=green]m[/color][color=red]a[/color][color=green]s[/color][color=red]![/color][/b]
+[b]Featured Region:[/b] [color=green]9/18/2013, 12/25/2014[/color]
