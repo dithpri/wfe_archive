@@ -8,7 +8,7 @@ Lords:
 --------------------------------
 [COLOR=Orange]High Lord:[/color][nation=short]Stone Cuaron[/nation]
 [color=red]Major Lord:[/color][nation=short]New Vandoosa[/nation]
-[color=purple]Minor Lord:[/color][nation=short]North Libya[/nation]
+[color=purple]Minor Lord:[/color][nation=short]Vacant[/nation]
 
 MPs:
 --------------------------------
@@ -21,7 +21,7 @@ Ministers &amp;amp; Ambassador:
 --------------------------------
 [color=purple]Minister of Trade:[/color][nation=short]Commonwealth of Hank the Cat[/nation]
 [color=blue]Minister of Defense:[/color][nation=short]Stone Cuaron[/nation]
-[color=orange]Minister of Travel:[/color][nation=short]North Libya[/nation]
+[color=orange]Minister of Travel:[/color][nation=short]Vacant[/nation]
 
 [color=red]Acuderian Ambassador:[/color] [nation]Krencia[/nation]
 

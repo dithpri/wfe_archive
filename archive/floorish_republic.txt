@@ -1,8 +1,8 @@
 [color=blue]Welcome to Floorish Republic[/color]
-Multi-species being able to co-exist on one planet!
+Multi-species being able to co-exist!
 
 [color=red]Species:[/color]
-[url=http://www.nationstates.net/nation=gorthias/detail=factbook/id=337761#jhi]Jhi[/url]/ [url=http://www.nationstates.net/nation=gorthias/detail=factbook/id=337761#fetair]Fetair[/url]/ [url=http://www.nationstates.net/nation=gorthias/detail=factbook/id=337761#diter]Diter[/url]
+[url=http://www.nationstates.net/nation=gorthias/detail=factbook/id=337761#jhi]Jhi[/url]/[url=http://www.nationstates.net/nation=gorthias/detail=factbook/id=337761#fetair]Fetair[/url]/[url=http://www.nationstates.net/nation=gorthias/detail=factbook/id=337761#diter]Diter[/url]/[Url=http://www.nationstates.net/nation=gorthias/detail=factbook/id=337761#Nator]Nator[/Url]
 [hr]
 
 [color=blue][u]Government:[/color][/u]
@@ -20,19 +20,21 @@ Minister of Regional Defense: Vacant
 Jhi: [nation=short]seierus[/nation]
 Fetair: Vacant
 Diter: Vacant
+Nator: Vacant
 
 [U][color=red]High Council[/u][/color]
 High Judge: Vacant
 Judges: Out of Session
 [hr]
 
-[u][color=blue]Regional Projects[/u][/color]
-~ More Species
-~ Map
-~ Regional Specifics
+[u][color=blue]Regional Specfics[/u][/color]
+Map Update: Under Construction
+News: Region is growing
+Region Update: Dec 27, 2014
+DEFCON: [COLOR=GREEN]5 (NO DANGER)[/COLOR]
 
 Floorish Republic is a Democracy. All Residents are able to vote on policies and Regional laws.
-Two or more nations that are owned by the same person cannot vote. One vote per person.
+One vote per person.
 [hr]
 
 [i]Regional Forum is shared with the [region]the peoples federation of qandaristan[/region]

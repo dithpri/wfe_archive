@@ -8,7 +8,7 @@ The United Imperial Armed Forces (UIAF) of [region]The New Inquisition[/region] 
 [b][u]The Imperial Command[/u][/b]
 Joint Commander: Field Marshal [nation=short+noflag]Christopher Bishop[/nation]
 Deputy Commander: Lieutenant-General [nation=short+noflag]MagentaFairy[/nation]
-Associate Commanders: Field Marshal [nation=short+noflag]OnderKelkia[/nation], Field Marshal [nation=short+noflag]Charles Cerebella[/nation] &amp;amp; General [nation=short+noflag]North East Somerset[/nation]
+Associate Commanders: Field Marshal [nation=short+noflag]OnderKelkia[/nation] &amp;amp; General [nation=short+noflag]North East Somerset[/nation]
 
 TNI Division Commander: Major-General [nation=short+noflag]Ugnar[/nation]
 LKE Division Commander: Major-General [nation=short+noflag]Josh Sebastian[/nation]
