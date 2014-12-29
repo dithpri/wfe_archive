@@ -17,7 +17,7 @@
 [Nation=short]Aeternabilis[/nation]
 
 [Color=631db4]Deputy PM:[/color]
-[nation=short]Aeternabilis[/nation]
+[nation=short]The first Carthage[/nation]
 
 [color=0021cb]Minister of Justice:[/color]
 [nation=short]Bylot[/nation]

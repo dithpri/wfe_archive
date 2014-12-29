@@ -20,14 +20,15 @@
 [nation]Batoristan[/nation]
 [nation]Belierna[/nation]
 [nation]Eitusian[/nation]
-[nation]New Slatain[/nation]
 [nation]Ordorinia[/nation]
 [nation]Quamunsia[/nation]
+[nation]Vassau[/nation]
 [hr]
 
 [b]Allies[/b]
 
 [region]Yevropean Union[/region]
+Republic of [nation=short]Peihan[/nation]
 [hr]
 
 [url=http://s7.postimg.org/attutn92h/Map.png]World Map[/url] (19.12.14)
