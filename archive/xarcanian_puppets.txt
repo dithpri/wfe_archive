@@ -1,10 +1,10 @@
-[b]This is the place where [u][nation]Xarcan[/nation][/u] keeps its puppets.[/b]
-
+[B][color=BLUE]HAPPY NEW YEAR![/color][/B]
+[b]This is the region where [nation]Xarcan[/nation] keeps some of his puppets.[/b]
 A total of four nations, all with close ties to the motherland, reside here.
-While [nation=short+noflag]Xarcan[/nation] is an Iron-Fist Consumerist state, here there are nations with many political ideologies:
+While Xarcan is an Iron-Fist Consumerist state, here there are nations with many political ideologies:
 
-[spoiler=[color=red]Nations[/color]]
-[color=orange][nation]Chaosistan[/nation] = Psychotic Dictatorship[/color]
-[color=green][nation]Scandinavio[/nation] = Capitalist Paradise[/color]
-[color=purple][nation]Great Prairie[/nation] = New York Times Democracy[/color]
-[color=blue][nation]Anarchsland[/nation] = Capitalist Paradise[/color][/spoiler]
+[spoiler=[color=red][b]Nations of XP[/b][/color]]
+[color=orange][nation]Chaosistan[/nation][b] = Psychotic Dictatorship[/b][/color]
+[color=green][nation]Scandinavio[/nation][b] = Capitalist Paradise[/b][/color]
+[color=blue][nation]Anarchsland[/nation][b] = Capitalist Paradise[/b][/color]
+[color=purple][nation]Great Prairie[/nation][b] = New York Times Democracy[/b][/color][/spoiler]

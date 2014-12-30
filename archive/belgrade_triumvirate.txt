@@ -3,10 +3,18 @@
 
 [color=red][b]Imperial Chancellor[/b][/color]: [nation]Daerell[/nation]
 
-[color=gold][b]Arch-Chancellors[/b][/color]: [nation]Cyphroun[/nation], [nation]Campbania[/nation]
+[color=gold][b]Crown Marshall[/b][/color]: [nation]Greycliffe[/nation]
 
-[color=gold][b]Chancellor-General[/b][/color]: [nation]Greycliffe[/nation]
+[color=gold][b]Arch Chancellors[/b][/color]: [nation]Coronell[/nation], [nation]Old Amia[/nation], [nation]Farrenshire[/nation]
 
 [hr]
+
+[color=blue][b]REGIONAL PARLIAMENT IN SESSION[/b][/color]
+
+[color=red][b]SENATE: OPEN[/b][/color]
+ [color=gold]PRESIDING CHANCELLOR[/color]: [nation]Daerell[/nation]
+
+[color=blue][b]HOUSE OF COUNCIL: OPEN[/b]
+[/color] [color=gold]PRESIDING SPEAKER[/color]: [nation]North Amia[/nation]
 
 Join us for a great experience! Forums! Discussions! We got it all here. Send in an application or join us on our forums at http://belgrade.boards.net/
