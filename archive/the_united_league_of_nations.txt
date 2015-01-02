@@ -4,18 +4,20 @@
 
 [B]Vice-Delegate:
 
-Director of WA Affairs: [nation=short]Cardoness[/nation] ([color=orange]IFP[/color])
 
 Dungeon Master: [nation=short]Ghondra[/nation] ([color=lightblue]PMP[/color])
 
-Defense Minister:
+Field Marshal:
+
+High Commissioner: [nation=short]Cardoness[/nation] ([color=orange]IFP[/color])
 
 Speaker of the Assembly:
 
 Prime Minister:
 
+Interior Minister:
 Foreign Minister: [nation=short]Andermor[/nation] (I)[/B] / [nation=short]Sai Chan[/nation] ([color=red]LSP[/color])
-[B]Interior Minister:[/B]
+[B]Defense Minister:[/B]
 
 Editor-in-Chief: [nation=short+noflag]Ghondra[/nation] (Interim, still looking for permanent) 
 Wiki Master:

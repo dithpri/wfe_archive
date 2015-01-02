@@ -6,9 +6,9 @@ Motto:  &amp;quot;Wir sind die Zukunft!&amp;quot;
 
 [b]MINISTERS[/b]
 [i]Chancellor: [nation]New Allemandland[/nation][/i]
-[i]Minister of War: [nation]Haroshima[/nation][/i]
-[i]Foreign Affairs: [nation]Morvashn[/nation][/i]
-[i]Internal Affairs: [nation]Aegaloid[/nation][/i]
+[i]Lord-Secretary of War: [nation]Haroshima[/nation][/i]
+[i]Home Office Foreign Affairs: [nation]Morvashn[/nation][/i]
+[i]Home Office Internal Affairs: [nation]Aegaloid[/nation][/i]
 
 [b][i]Current Conflicts:[/b][/i]
 [nation]New Allemandland[/nation] versus [nation]Saint Juliane[/nation] - [b]WIN - Saint Juliane joined the Coalition[/b]

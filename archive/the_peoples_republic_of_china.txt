@@ -11,6 +11,6 @@
 [nation=short]Hong-Kong and Macau[/nation]
 [nation=short]Communistan[/nation]
 
-[hr][hr][b]Affiliated region[/b]
+[hr][hr][b]Affiliated regions[/b]
 [region]Inner Mongolia[/region]
 [region]Eastern Asia[/region][hr][hr]

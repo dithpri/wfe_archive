@@ -9,7 +9,9 @@ And [color=9b210c]get away[/color] with it!
 [color=9b210c]Please endorse our delegate,[/color] [nation=short]Malkir[/nation].
 [hr][b][u]The Government of Mordor[/u][/b] 
 [color=9b210c]The Witch King of Angmar:[/color] [nation=short]Malkir[/nation]
-[color=9b210c]The Lord of Cirith Ungol:[/color] [nation=short]The Cosmos[/nation]
+[color=9b210c]The Lord of Cirith Ungol:[/color] [nation=short]Melkor the Dark[/nation]
+[color=9b210c]The Mouth of Sauron:[/color] [nation=short]9003[/nation]
+[color=9b210c]Shelob:[/color] [nation=short]Nyyx[/nation]
 
 [u][b]The Nazgul[/b][/u]
 [nation=short]Flaming Cookie[/nation]
