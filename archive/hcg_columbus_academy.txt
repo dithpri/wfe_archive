@@ -1,9 +1,12 @@
-[b][color=#000061]Huzzah! Huzzah! Huzzah! This region proved no match for a charge by [region=The Black Riders]![/color]
+[b][color=red]*BEEP! BEEP! BEEP!* Tornado Emergency is coming! Tornado Emergency is now in effect for [region]HCG Columbus Academy[/region] and surrounding areas![/color]
 
-[color=black]Occupied by [url=http://www.youtube.com/watch?v=qB1kp9adYYE]The Black Riders[/url]! Our lair can be found [/color] [url=http://s4.zetaboards.com/The_Black_Riders/index/]here[/url]
+[color=red]Winds could be in excess of 250 MPH perhaps even higher! Beware of large hail and frequent lightning![/color]
 
-[color=#000061]Into the battle rode the following riders:[/color]
-[nation=short]General Halcones[/nation]
-[nation=short]Lord Nuke is so kewl[/nation]
-[nation=short]Great Kleomentia[/nation]
-[nation=short]Coraxion[/nation][/b]
+[color=red]You need to be below ground immediately! Regions in the path of this storm include:[/color]
+
+[region]The United Defenders League[/region]
+[region]Glorious Nations of Iwaku[/region]
+[region]The Black Hawks[/region]
+[region]10000 Islands[/region]
+[region]Texas[/region]
+[region]The Rejected Realms[/region][/b]
