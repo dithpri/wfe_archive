@@ -1,15 +1,36 @@
-Commonwealth of Azerian States (CAS) -
+[u][b]Un-Assigned Countries[/b][/u]
 
-New Palermo, North Kryvoria, Vizaria, Marcvoria, Kryvoria, Lexonia
+[nation]Euphisia[/nation]
 
-Azerian Security Treaty Organisation (ASTO) -
+[u][b]Azerian Security Council[/u][/b]
 
-New Palermo, North Kryvoria, Lexonia
+[nation]Kryvoria[/nation]
+[nation]Lexonia[/nation]
+[nation]New Palermo[/nation]
+[nation]Marcvoria[/nation]
+[nation]Vizaria[/nation]
+[nation]The New Rhineland[/nation]
 
-Pact for Regional Peace (PRP) -
+[u][b]National Development Pact[/u][/b]
 
-Vizaria, North Kryvoria
+[nation]The New Rhineland[/nation]
+[nation]Vizaria[/nation]
+[nation]North Kryvoria[/nation]
 
-Union for the Security of Azerian States (USAS) -
+[u][b]Red Star Treaty[/u][/b]
 
-Kryvoria, Marcvoria
+[nation]Lexonia[/nation]
+[nation]North Kryvoria[/nation]
+[nation]East Kryvoria[/nation]
+[nation]Gunsoa[/nation]
+
+[u][b]United Security Front[/b][/u]
+
+[nation]Kryvoria[/nation]
+[nation]New Palermo[/nation]
+[nation]Marcvoria[/nation]
+
+[u][b]Holy Azerian Council[/b][/u]
+
+[nation]The New Rhineland[/nation]
+[nation]Vizaria[/nation]

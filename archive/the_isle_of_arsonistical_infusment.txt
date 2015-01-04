@@ -2,10 +2,10 @@ We are [region]The Isle of Arsonistical Infusment[/region]. We are a small regio
 
 [b][url=http://force-of-lightning.webcomic.ws/files/regionmap.png]Region Map[/url][/b]
 
-Leadership:
+Leadership Roles:
 
-Ruler(s): [nation=short+noflag]Iklonia[/nation] and [nation=short+noflag]The United Libertarian State Of Britain[/nation]
+Ruler(s): [nation=short]Iklonia[/nation] and [nation=short]The United Libertarian State Of Britain[/nation]
 
-Minister Of Defence: [nation=short+noflag]Scottalot[/nation]
+Minister Of Defence: [nation=short]Scottalot[/nation]
 
-Minister Of Foreign Affairs:[nation=short+noflag]Banjopia[/nation]
+Minister Of International Affairs: [nation=short]Banjopia[/nation]
