@@ -15,10 +15,12 @@ Speaker of the Assembly:
 
 Prime Minister:
 
+[u]Cabinet:[/u]
 Interior Minister:
 Foreign Minister: [nation=short]Andermor[/nation] (I)[/B] / [nation=short]Sai Chan[/nation] ([color=red]LSP[/color])
 [B]Defense Minister:[/B]
 
+[u]Regional Support Staff:[/u]
 Editor-in-Chief: [nation=short+noflag]Ghondra[/nation] (Interim, still looking for permanent) 
 Wiki Master:
 Flag Designer: [nation=short+noflag]Pridton[/nation]

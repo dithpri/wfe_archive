@@ -4,11 +4,12 @@ Positions
 President: [nation]prandora[/nation]
 Vice President: [nation]Bulgalalala[/nation]
 Prime Minster: Election
-Minister of Immigration:Vacant
+Minister of Immigration &amp;amp; Recruitment Officer:[nation]prandora[/nation]
+Minister of Commerce:Vacant
 Minister of War: [nation]george Spain[/nation]
 Minister of Defense: Vacant
 Minister of Foreign Affairs: [nation]Bulgalalala[/nation]
-Recruitment Officer: [nation]prandora[/nation]
+: 
 
 Announcements
 

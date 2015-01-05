@@ -1,17 +1,17 @@
 [region=Turkic Union][B][COLOR=#00FFFF] Council[/COLOR][/B]
 
-[B][COLOR=#00FFFF]Premier - [/COLOR][/B][nation=Western Kazakstan]
+[B][COLOR=#00FFFF]Premier - [/COLOR][/B][nation=Takeda Dynasty]
 
-[B][COLOR=#00FFFF]Minister[/COLOR][/B] [B][COLOR=Yellow]of[/COLOR][/B] [B][COLOR=#00FFFF]Environment - [/COLOR][/B][nation=Takeda Dynasty]
+[B][COLOR=#00FFFF]Minister[/COLOR][/B] [B][COLOR=Yellow]of[/COLOR][/B] [B][COLOR=#00FFFF]Environment - [/COLOR][/B][nation=Western Kazakstan]
 [B][COLOR=#00FFFF]Minister[/COLOR][/B] [B][COLOR=Yellow]of[/COLOR][/B] [B][COLOR=#00FFFF]Energy - [/COLOR][/B][nation=Southwest Russia]
-[B][COLOR=#00FFFF]Minister[/COLOR][/B] [B][COLOR=Yellow]of[/COLOR][/B] [B][COLOR=#00FFFF]Education - [/COLOR][/B][nation=Turkestan Legion]
+[B][COLOR=#00FFFF]Minister[/COLOR][/B] [B][COLOR=Yellow]of[/COLOR][/B] [B][COLOR=#00FFFF]Education - [/COLOR][/B][nation=Republic of Alash Orda]
 [B][COLOR=#00FFFF]Minister[/COLOR][/B] [B][COLOR=Yellow]of[/COLOR][/B] [B][COLOR=#00FFFF]Defense - [/COLOR][/B][nation=Kazak Kingdom]
 [B][COLOR=#00FFFF]Minister[/COLOR][/B] [B][COLOR=Yellow]of[/COLOR][/B] [B][COLOR=#00FFFF]Resources - [/COLOR][/B][nation=Qazaqs]
 [B][COLOR=#00FFFF]Minister[/COLOR][/B] [B][COLOR=Yellow]of[/COLOR][/B] [B][COLOR=#00FFFF]Economy - [/COLOR][/B][nation=Kokand Autonomy]
-[B][COLOR=#00FFFF]Minister[/COLOR][/B] [B][COLOR=Yellow]of[/COLOR][/B] [B][COLOR=#00FFFF]Interior Affairs - [/COLOR][/B][nation=Republic of Alash Orda]
+[B][COLOR=#00FFFF]Minister[/COLOR][/B] [B][COLOR=Yellow]of[/COLOR][/B] [B][COLOR=#00FFFF]Interior Affairs - [/COLOR][/B][nation=Turkestan Legion]
 [B][COLOR=#00FFFF]Minister[/COLOR][/B] [B][COLOR=Yellow]of[/COLOR][/B] [B][COLOR=#00FFFF]Foreign Affairs - [/COLOR][/B][nation=Republic of Kazakstan]
 
-[B][COLOR=#00FFFF]Provinces and Regions of [/COLOR][/B][nation=Qazaq Eli]
+[B][COLOR=#00FFFF]Regions of [/COLOR][/B][nation=Qazaq Eli]
 
 [nation=Qaragandy]
 [nation=Qyzylorda]

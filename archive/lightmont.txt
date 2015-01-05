@@ -6,10 +6,8 @@
 Senator: [nation=shortname]The Holy Zirid Caliphate[/nation]
 Senator: [nation=shortname]Bourda[/nation]
 Senator: [nation=shortname]Anthalin[/nation]
-
-[color=blue][url=http://s15.zetaboards.com/Lightmont/forum/3054710/]Join the Lightmont Watch, free regions from the clutches of tyranny, protect Lightmont and have fun whilst doing it.[/url][/color]
-[url=http://s15.zetaboards.com/Lightmont/forum/3054707/]Engage in government: Every citizen can vote and propose legislation[/url]
-[color=blue][url=http://s15.zetaboards.com/Lightmont/forum/3054698/]Kick back and relax in the Lighthouse Bar[/url][/color]
+Remember to endorse the Chancellor [nation=shortname]The Holy Zirid Caliphate[/nation].
+Current code: [color=green]GREEN[/color]
 [color=red][url=http://s15.zetaboards.com/Lightmont/index/]Forums[/url][/color]
 [url=http://forum.nationstates.net/viewtopic.php?f=12&amp;amp;t=323785/]News thread[/url]
 [url=http://www.nationstates.net/page=blank/?lookup_newspaper=2630]The Sanford Herald[/url]

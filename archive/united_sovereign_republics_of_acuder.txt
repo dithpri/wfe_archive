@@ -1,27 +1,10 @@
 Regional Government:
 ----------------------------------
 
-[color=red]King of Acuder:[/color][nation=short]The Barbradian Republic[/nation]
-[color=blue]Chancellor:[/color][nation=short]commonwealth of hank the cat[/nation]
+[color=red]The King of Acuder:[/color][nation=short]The Barbradian Republic[/nation]
+[color=blue]Prime Minister:[/color][nation=short]commonwealth of hank the cat[/nation]
 
-Lords:
+Parliament(Senate):
 --------------------------------
-[COLOR=Orange]High Lord:[/color][nation=short]Stone Cuaron[/nation]
-[color=red]Major Lord:[/color][nation=short]New Vandoosa[/nation]
-[color=purple]Minor Lord:[/color][nation=short]Yuketobaniac[/nation]
-
-MPs:
---------------------------------
-
-[color=yellow]High MP:[/color]
-[color=red]Major MP:[/color]
-[color=black]Minor MP:[/color]
-
-Ministers &amp;amp; Ambassador:
---------------------------------
-[color=purple]Minister of Trade:[/color][nation=short]Commonwealth of Hank the Cat[/nation]
-[color=blue]Minister of Defense:[/color][nation=short]Stone Cuaron[/nation]
-[color=orange]Minister of Travel:[/color][nation=short]Vacant[/nation]
-
-[color=red]Acuderian Ambassador:[/color] [nation]Krencia[/nation]
+[color=purple]Head Speaker of Parliament:[/color][nation=short]archainia[/nation]
 

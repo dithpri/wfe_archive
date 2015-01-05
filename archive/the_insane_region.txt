@@ -13,3 +13,5 @@ General of all Regional Military Forces - [nation=noflag]United German Regions[/
 
 [color=blue][B][i]ALLIES:
 [region]United Kush States[/region][/i][/B][/color]
+
+If you leave the region and have a political position you will lose the position. If you come back you will have to run for the office again. No Acceptions.

@@ -1,36 +1,13 @@
-[u][b]Un-Assigned Countries[/b][/u]
+[b][u]Regional Updates[/b][/u]
 
-[nation]Euphisia[/nation]
+- New World Assembly Delegate: Lexonia is elected WA delegate for Azeria.
+- Insurgency in North Chernaruss: North American forces deployed to aid Chernarussian Military.
+- Unrest in Gunsoa: Due to the aftermath of the facist insurgency.
+- East Kryvorian Victory: East Kryvoria/Lexonia win the war against North Kryvoria.
+- Marcvoria Collapses: Marcvorian economy drops 36% reaching an all-time low.
+- Too Much Freedom: Reformed North America listed as an Authoritarian Democracy.
 
-[u][b]Azerian Security Council[/u][/b]
+[b][u]Nation of the Week[/b][/u]
 
-[nation]Kryvoria[/nation]
-[nation]Lexonia[/nation]
-[nation]New Palermo[/nation]
-[nation]Marcvoria[/nation]
-[nation]Vizaria[/nation]
-[nation]The New Rhineland[/nation]
-
-[u][b]National Development Pact[/u][/b]
-
-[nation]The New Rhineland[/nation]
-[nation]Vizaria[/nation]
-[nation]North Kryvoria[/nation]
-
-[u][b]Red Star Treaty[/u][/b]
-
-[nation]Lexonia[/nation]
-[nation]North Kryvoria[/nation]
-[nation]East Kryvoria[/nation]
-[nation]Gunsoa[/nation]
-
-[u][b]United Security Front[/b][/u]
-
-[nation]Kryvoria[/nation]
-[nation]New Palermo[/nation]
-[nation]Marcvoria[/nation]
-
-[u][b]Holy Azerian Council[/b][/u]
-
-[nation]The New Rhineland[/nation]
-[nation]Vizaria[/nation]
+The Winner: Lexonia.
+Runner Up: North Chernaruss.
