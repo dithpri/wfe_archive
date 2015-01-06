@@ -4,7 +4,7 @@
 
 [B]Cabinet[/B]:
 [nation]The Supreme World[/nation] External Affairs
-[nation]Blood1[/nation] Internal Affairs
+? Internal Affairs
 [nation]Nirupama[/nation] Adviser
 
 [b]Newspaper Editor(s)[/b]

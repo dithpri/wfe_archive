@@ -8,13 +8,13 @@
 
 [Color=red]Vice Chancellor:[/Color][Nation=short]Reserka[/Nation]
 ------------------------------------------------
-[Color=blue]Minister Of Defence:[/Color]
+[Color=blue]Minister Of Defence:[/Color][Nation]Union of Kiwi Socialists[/Nation]
 
-[Color=red]Minister of Foreign Affairs:[/Color]
+[Color=red]Minister of Foreign Affairs:[/Color][Nation]Light-Keepers[/Nation]
 
-[Color=blue]Minister of Culture:[/Color]
+[Color=blue]Minister of Culture:[/Color][Nation]Stone Cuaron[/Nation]
 
-[Color=red]Minister of Justice:[/Color]
+[Color=red]Minister of Justice:[/Color][Nation]New Vandoosa[/Nation]
 
 
 

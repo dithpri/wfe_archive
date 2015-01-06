@@ -1,13 +1,14 @@
 [b]&amp;#39;Spreading the light of liberty on all&amp;#39;. Welcome to Lightmont, a region which stands for the end of oppression and liberty for all.[/b]
 
-[b]The Grand Prince:[/b] [nation=shortname]Eskvor[/nation]
+[b]The Grand Prince and Magistratus Extraordinarius of the Ministry of Peace:[/b] [nation=shortname]Eskvor[/nation]
 
-[b][u]The Senate[/b][/u]
-Senator: [nation=shortname]The Holy Zirid Caliphate[/nation]
-Senator: [nation=shortname]Bourda[/nation]
-Senator: [nation=shortname]Anthalin[/nation]
+[b][u]The Senatorial Triumvirate[/b][/u]
+Senator and Triumvir of The Ministry of Love: [nation=shortname]The Holy Zirid Caliphate[/nation]
+Senator and Triumvir of The Ministry of Plenty: [nation=shortname]Bourda[/nation]
+Senator and Triumvir of The Ministry of Truth: [nation=shortname]Anthalin[/nation]
 Remember to endorse the Chancellor [nation=shortname]The Holy Zirid Caliphate[/nation].
-Current code: [color=green]GREEN[/color]
+Endorsement limit of 2 for all nations besides the Chancellor.
+Alert status: [color=green]GREEN[/color]
 [color=red][url=http://s15.zetaboards.com/Lightmont/index/]Forums[/url][/color]
 [url=http://forum.nationstates.net/viewtopic.php?f=12&amp;amp;t=323785/]News thread[/url]
 [url=http://www.nationstates.net/page=blank/?lookup_newspaper=2630]The Sanford Herald[/url]

@@ -1,6 +1,5 @@
-Rules:
-- Don&amp;#39;t be corrupt, a full week of being corrupt will get you banned.
-- Be a nice and appropriate person
+News:
+- If you want to have an edit made to the map please contact Gerwane.
  
 Ultimate Leader
 [nation]gerwane[/nation]
@@ -9,7 +8,6 @@ Adviser
 [nation]skellitone[/nation] 
 
 MINISTERS
-
 [nation]gerwane[/nation]
 -Propaganda and Public Enlightenment
 -Treasury
@@ -18,7 +16,6 @@ MINISTERS
 -Religion
 -Science
 -Education
-
 [nation]skellitone[/nation]
 -Defense
 -Land Management
@@ -26,7 +23,6 @@ MINISTERS
 -Human Rights
 -Nature Welfare
 -Tourism
-
 [nation]somic states[/nation]
 -Foreign Affairs
 -Immigration
