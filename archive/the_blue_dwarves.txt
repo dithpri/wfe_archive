@@ -3,7 +3,7 @@
 Government:
 -----------------------------------------------------------
 [color=red]Lord:[/color] [nation]Archainia[/nation]
-[color=yellow]Chancellor:[/color]
+[color=yellow]Chancellor:[/color] [nation]Reserka[/nation]
 
 [color=purple]Military Commander:[/color]
 [color=orange]Defense Commander:[/color]

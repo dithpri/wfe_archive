@@ -16,13 +16,14 @@
 
 [color=grey][b]Diplomatic Envoy At Large: [/b][/color] [Nation=Westerly Winds]
 
-[color=grey][b]Regional Defence Minister : [/b][/color] [Nation=The Republic Of Islam] 
+[color=grey][b]Regional Defence Minister : [/color][/b] [Nation=The State of Pakistan]
 
-[color=grey][b]Deputy Secretary of Defence:[/b][/color] [color=blue][b] Vacant[/b][/color]
+[color=grey][b]Deputy Secretary of Defence:[/b][/color] [Nation=The Republic Of Islam]
+
 [url=http://www.nationstates.net/nation=united_alab_emirates/detail=factbook/id=121389] Senate Pro Tempore[/url]
 
 [color=grey][b]Senate Chair[/b][/color]: [Nation=Eastern Bashkortostan]
 
 [color=grey][b]House Chair[/b][/color]: [Nation=General Gulag] 
 
-[color=grey][b]House of Ways and Means Chair[/b][/color]: [Nation=Whal]
+[color=grey][b]House of Ways and Means Chair[/b][/color]:  [color=blue][b] Vacant[/b][/color]

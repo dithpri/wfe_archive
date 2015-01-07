@@ -7,7 +7,7 @@ Allied with:[list][region=United States of America] ([nation=short]New Falham[/n
 
 ORACLE GAME[/b]
 [I]Goal of this version of the game is to achieve as many regions linked together to form a chain as long as possible.
-CURRENTLY: [region=Oracle] has [/color][color=900000][b]1390[/b][/color][color=008000] Degrees of Separation from [region=Kiribati Island] | [region=Council of Diplomats] | [region=European Alliance] has [/color][color=900000][b]58[/b][/color][color=008000] Degrees of Separation from [region=Darwin]. (Total is [/color][color=800000]1449[/color][color=008000])[/I]
+CURRENTLY: [region=Oracle] has [/color][color=900000][b]1470[/b][/color][color=008000] Degrees of Separation from [region=Darwin][/I]
 [spoiler=Oracle Game][url=http://nsdossier.texasregion.net/embassyOracle.aspx]Oracle[/url][/spoiler]
 
 See [region=United States of America] for Matrix Regions
