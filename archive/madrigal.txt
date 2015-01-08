@@ -1,7 +1,7 @@
-[color=#FFDF00]Welcome to the new Madrigal[/color][hr][hr][i][color=#5116DA]Foundry[/color][/i]
-[list][B]
--&amp;gt;  Overseer: [nation=short]Shadoke[/nation] ([nation=short]Dremaur[/nation])
+[color=#f9a31c]Welcome to the new Madrigal![/color][hr][hr][i][color=#080889]The Foundry[/color][/i][list][B]-&amp;gt;  Overseer: [nation=short]Shadoke[/nation] ([nation=short]Dremaur[/nation])
 -&amp;gt;  Father: [nation=short]Giratina[/nation]
 -&amp;gt;  Lord Speaker: [nation=short]Great Kleomentia[/nation][/B][/list]
 [hr][hr]
-[B]NEWS[/B]: [i]The new Madrigal is a work in progress that will begin soon. Very soon...[/i]
+[B]NEWS[/B]:
+~ [i]A new, second Minecraft server is coming! Speak to [nation=short]Isle of the Hidden Warrior[/nation] to help test it out![/i]
+~ [i]Embassies are now being built with [region]Ixion[/region], an upstart of one of Madrigal&amp;#39;s own![/i]

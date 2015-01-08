@@ -6,7 +6,7 @@ The Commonwealth is a Constitutional Monarchy and is Federally United into One D
 
 [u][b][color=rainbow]His Majesty&amp;#39;s Government[/color][/b][/u]
 [b]Prime Minister:[/b] [nation=shortname]Father Motherland[/nation]
-[b]Chancellor of the Exchequer:[/b] TBA
+[b]Chancellor of the Exchequer:[/b] [nation=shortname]Lux Lunae[/nation]
 [b]Minister of Foreign Affairs:[/b] [nation=shortname]The Royally United Provinces[/nation]
 [b]Minister of Recruitment:[/b] [nation=shortname]SaudiPakistan[/nation]
 [b]Minister of Media, Culture and Sport:[/b] [nation=shortname]Djeusland[/nation]

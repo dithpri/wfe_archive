@@ -4,7 +4,7 @@ Minister of Finance and Management: [nation]Middle East and Northern Africa Alli
 Minister Foreign, International Development, and Commonwealth Affairs:  [nation]United Christian[/nation]
 Minister of Justice, Defense, Intel, and Military: [nation]United Christian[/nation]
 Minister of Trade, Work, and Pensions:[nation]Helor[/nation]
-Minister of Health, Equities:[nation]Peruvica[/nation]
+Minister of Health, Equities:Open
 Minister of Interior:[nation]Helor[/nation] 
 Minister of Environment:Open
 

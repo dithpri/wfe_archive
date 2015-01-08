@@ -2,9 +2,7 @@
 
 [B][url=http://w11.zetaboards.com/TULON/index/]FORUM[/url][/B]
 
-[B][u][i][color=red]Special Election for Prime Minister ongoing! Please Vote![/color]
-
-[color=blue]Nomination and campaigning window open for Speaker of the Assembly. Election Starts on the 15th.[/color][/i][/u][/B]
+[B][u][i][color=blue]Nomination and campaigning window open for Speaker of the Assembly. Election Starts on the 15th.[/color][/i][/u][/B]
 
 [B]Vice-Delegate:
 
@@ -17,7 +15,7 @@ High Commissioner: [nation=short]Cardoness[/nation] ([color=orange]IFP[/color])
 
 Speaker of the Assembly:
 
-Prime Minister:
+Prime Minister: [nation=short]Deneclia[/nation] (I)
 
 [u]Cabinet:[/u]
 Interior Minister:

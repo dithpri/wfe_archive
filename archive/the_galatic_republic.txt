@@ -7,4 +7,4 @@ Chancellor: [nation]Review[/nation]
 Vice-Chancellor: [nation]CRAZY K[/nation]
 Defense Minister: [nation]Simsetia[/nation]
 Foreign Affairs Minister: [nation]Casio Islands[/nation]
-Interior Affairs Minister: Pending Legislative Action
+Interior Affairs Minister: [nation]Searchlight Airport[/nation]
