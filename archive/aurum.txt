@@ -7,4 +7,7 @@
 [b]Temporary Prime Minister:[/b] [nation=short]Wrelyra[/nation]
 
 [b]Once we have a suitable population, public elections will begin![/b][hr]
-[b][color=red]A state of emergency has been declared by President [nation=short]Dracvale[/nation][/color].[/b]
+
+[color=#FFD700][b]Current Events:[/b][/color]
+&#149; A state of war has been declared against [region]The Black Riders[/region]!
+&#149; [region]The Grand Pacific[/region] has been liberated by our Defense Forces and established as a client state![/hr]

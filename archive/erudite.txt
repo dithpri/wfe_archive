@@ -8,8 +8,8 @@ Borders: Open to newcomers
 
 Regional Specialization:
 Defense/Scientific Research/Intelligence/Technology: [nation]William Empire[/nation]
-Agriculture/Food Production: [nation]North Montana or Canada[/nation], [nation]The Holy Parth republic[/nation]
-Arms Production: [nation]Sriramicus[/nation]
+Agriculture/Food Production: [nation]North Montana or Canada[/nation]
+Arms Production: [nation]The Holy Parth republic[/nation]
 Automobile Manufacturing: [nation]Bourne Empire[/nation]
-Mining: [nation]Joshua States[/nation]
+Mining: [nation]Joshua States[/nation], [nation]Dorchen[/nation]
 Lumber: [nation]S1L3NT x MARINE[/nation]
