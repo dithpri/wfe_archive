@@ -1,4 +1,3 @@
-
 [b]The Dominion is an imperialist region that emphasizes unity and monarchist values.[/b]
 
 [color=firebrick]Welcome to The Dominion! The central base of a great empire, this region is the home region of [/color][b][url=http://www.nationstates.net/nation=romindia][color=firebrick]Romindia[/color][/url][/b][color=firebrick] and its territories, 
@@ -14,7 +13,7 @@ although nations that pass along are welcome to stay here. In fact, we encourage
 
 [hr][hr]
 
-[b]Ruling Dynasty:[/b] House of [nation=shortnoflag]Romefeller[/nation]
+[b]Ruling Dynasty:[/b] [nation]Romefeller[/nation]
 [b]Seat of the Empire:[/b] [nation=short]Muziris[/nation]
 
 [hr][hr]

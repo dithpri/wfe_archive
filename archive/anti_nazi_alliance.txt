@@ -5,7 +5,8 @@
 - [region]The North Pacific[/region] Army 
 - [region]South Pacific Special Forces[/region]
 - [region]Korean Peoples Army[/region]
-- [region]The Red Fleet[/region][/color]
+- [region]The Red Fleet[/region]
+- [region]Libcom[/region][/color]
 
 [color=red]Protected on behalf of the [region]Pacific Defenders[/region] (Originally known as the [region]Anti Nazi Alliance[/region]).[/color]
 

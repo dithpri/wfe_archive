@@ -1,14 +1,1 @@
-[color=8B3324][b]Japvia[/b][hr][/color][color=2A52BE]This is a passworded puppet storage region.
-[/color][color=2F4F4F]
-[b][nation=short]Embassy Policy[/nation]:[/b][list]See [region=Oracle] for Embassy Policy.[/list][/color][color=177245]
-[b]Associated Regions:[/b][list][region=Ancient Lands]
-[region=High Orion Alliance]
-[region=Oracle]
-[region=Pacific Union]
-[region=The Americas]
-[region=The Icelandic Commonwealth]
-[region=The Mars]
-[region=United States of America][/list]
-[b]Caretakers:[/b][list][nation=Manitoulin] (aka [nation=Crazy Kitty])
-[nation=Royal House of Windsor] (aka [nation=Elliston])[/list]
-All named [b]Queen&amp;#39;s State[/b] in Rae&amp;#39;s name.[/color]
+[color=navy][b]Japvia[/b][/color]

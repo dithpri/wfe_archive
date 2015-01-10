@@ -1,14 +1,1 @@
-[color=navy][b]Oracle[/b][/color][hr][list][color=008000]This region is ORACLE PRIME
-
-Allied with:[list][region=United States of America] ([nation=short]New Falham[/nation]).
-[region=Ancient Lands] ([nation=short]Manitoulin[/nation]).[/list]
-
-[u][b]SORRY,  NO EMBASSY OFFERS ACCEPTED IN ANY ORACLE REGION.[/u]
-
-ORACLE GAME[/b]
-[I]Goal of this version of the game is to achieve as many regions linked together to form a chain as long as possible.
-CURRENTLY: [region=Oracle] has [/color][color=900000][b]1470[/b][/color][color=008000] Degrees of Separation from [region=Darwin][/I]
-[spoiler=Oracle Game][url=http://nsdossier.texasregion.net/embassyOracle.aspx]Oracle[/url][/spoiler]
-
-See [region=United States of America] for Matrix Regions
-Only My Matrix Regions are accepting Embassy Offers[/color]
+[color=navy][b]Oracle[/b][/color]

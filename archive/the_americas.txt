@@ -1,3 +1,5 @@
 [color=navy][b]The Americas[/b][/color]
 
 [color=red]Puppet Storage Region -- will evacuate all others -- no exceptions[/color]
+
+[color=teal][b]Associate region:[/b] [region=Pacific Union][/color]
