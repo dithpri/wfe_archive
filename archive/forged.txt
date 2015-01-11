@@ -4,9 +4,9 @@ Our Constitution~[url=http://www.nationstates.net/page=dispatch/id=349846]Here[/
 
 [b]Leader: [color=green]World Assembly Delegate[/color]
 Minister of Foreign Affairs: Vacant
-Minister of Defense: Vacant
-Chief Supreme Court Justice: [nation]Novamatsonia[/nation]
-Supreme Court Justice: Vacant
+Minister of Defense: [nation=short]Western Borderland[/nation]
+Chief Supreme Court Justice: [nation=short]Novamatsonia[/nation]
+Supreme Court Justice: [nation=short]Vretzvan[/nation]
 Supreme Court Justice: Vacant[/b]
 
 [i]Please endorse our World Assembly Delegate[/i] [b][color=blue]Enjoy your stay here in Forged![/color][/b]

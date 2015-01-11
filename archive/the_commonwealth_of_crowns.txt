@@ -7,11 +7,10 @@ Lord Secretary General:[nation=short]Besate[/nation]
 Lord Chancellor:[nation=short]Alpacanzia[/nation]
 Lord Speaker: [nation=short]Ethopolis[/nation]
 Lord Prosecutor General: [nation=short]Picts[/nation]
-Lord High Commander:TBD
-
+Lord High Commander:[nation=short]La Libera[/nation]
 [hr]
 [b]XX Cabinet[/b]
-Minister(Foreign Affairs):TBD
+Minister(Foreign Affairs):[nation=short]Jackonia[/nation]
 Minister(Culture):TBD
 Minister(Interior):[nation=short]The Antarctica Territories[/nation]
 Minister(Finance):TBD

@@ -7,9 +7,10 @@
 
 Speaker of the Grand Council - 
 
-Military Consul - 
-Financial Consul - 
 Domestic Consul - [nation]Pain and Despair[/nation]
+Financial Consul - 
+Military Consul - 
+Foreign Affairs Consul - 
 [hr]
 
 

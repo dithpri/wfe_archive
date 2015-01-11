@@ -5,8 +5,8 @@ Council:
 Head Councilor: Lex Castillo, [nation]Flattnerk[/nation]
 Councilor: Francis Underwood, [nation]the republic rome[/nation]
 Councilor: Kim Sung Un, [nation]the New Communist Order[/nation]
-Councilor: [nation]the anean tribes[/nation]
-Councilor: [nation]kares[/nation]
+Councilor: Pyotr Shavik, [nation]the anean tribes[/nation]
+Councilor: Delegate, [nation]kares[/nation]
 
 [/color]
 [color=maroon]Message of the Day: What have I logged into?![/color]

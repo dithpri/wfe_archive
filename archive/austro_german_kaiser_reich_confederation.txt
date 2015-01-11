@@ -4,8 +4,8 @@
 
 [color=blue][b]Minister Positions[/b][/color]
 
-[b]Minister of Government: Available[/b]
-[b]Minister of Defence: [nation]Rambinia[/nation][/b]
+[b]Minister of Government: Rambinia[/b]
+[b]Minister of Defence: Available[/b]
 [b]Minister of Foreign Affairs: Available[/b]
 [b]Minister of Education: Available[/b]
 [b]Minister of Health: Available[/b]
