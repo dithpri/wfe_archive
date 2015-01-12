@@ -1,20 +1,10 @@
-[Color=red]King of DRP:[/color][nation=short]Franklin and Jefferson[/nation]
+[B][I]Featured December 4,2014 !!!!!!!!!![/I][/B]
 
-[Color=blue]Prime Minister:[/Color][Nation=short]North Libya[/Nation]
+[Color=Blue]Founder:[/Color]:[Nation]Franklin and Jefferson[/Nation]
 
-[Color=red]Vice Prime Minister:[/Color][Nation=short]New Vandoosa[/Nation]
+[Color=Green]WA Delegate:[/Color][Nation]Aurlias[/Nation]
 
-[Color=blue]Chancellor:[/Color][Nation=short]Stone Cuaron[/Nation]
-
-[Color=red]Vice Chancellor:[/Color][Nation=short]Reserka[/Nation]
-------------------------------------------------
-[Color=blue]Minister Of Defence:[/Color][Nation]Union of Kiwi Socialists[/Nation]
-
-[Color=red]Minister of Foreign Affairs:[/Color][Nation]Light-Keepers[/Nation]
-
-[Color=blue]Minister of Culture:[/Color][Nation]Stone Cuaron[/Nation]
-
-[Color=red]Minister of Justice:[/Color][Nation]New Vandoosa[/Nation]
+[Color=Blue]Vice Delegate:[/Color][Nation]North Libya[/Nation]
 
 
 

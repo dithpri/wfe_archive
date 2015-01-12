@@ -1,3 +1,7 @@
-[color=006400][b]Pacific Union[/b][/color]
-
-[color=teal][b]Associate Region:[/b] [region=the Americas][/color]
+[color=006400][b]Pacific Union[/b][/color][hr][hr][hr][color=teal][b]Associate Regions:[/b] [region=Ancient Lands], [region=the Americas], [region=United States of America][/color][hr][color=0080B0][b]Pattern for this sort:[/b]
+[list][region=Ancient Lands] (pop) = [region=The Americas] (pop)
+[region=The Americas] (# nations) = [region=Pacific Union] (# nations)[/list]
+[b]Demerged Regions:[/b][list][region=Japvia]
+[region=The Mars][/list][b]Merged Regions[/b] (by population)[b]:[/b][list=I][region=Ancient Lands] - &amp;gt;15B
+[region=The Americas] - 15B&amp;gt; to &amp;gt;5B
+[region=Pacific Union] - &amp;lt;5B[/list][b]Currently sorting my many puppets[hr][/color][color=800000]Sorry: This region is not accepting any embassy offer[/b][/color]

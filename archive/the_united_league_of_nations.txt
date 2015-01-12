@@ -11,7 +11,7 @@ Dungeon Master: [nation=short]Ghondra[/nation] ([color=lightblue]PMP[/color])
 
 Field Marshal:
 
-High Commissioner: [nation=short]Cardoness[/nation] ([color=orange]IFP[/color])
+High Commissioner: [nation=short]Aligned Planets[/nation] (I)
 
 Speaker of the Assembly:
 
@@ -19,13 +19,15 @@ Prime Minister: [nation=short]Deneclia[/nation] (I)
 
 [u]Cabinet:[/u]
 Interior Minister:
-Foreign Minister: [nation=short]Andermor[/nation] (I)[/B] / [nation=short]Sai Chan[/nation] ([color=red]LSP[/color])
-[B]Defense Minister:[/B]
+Foreign Minister: [nation=short]Andermor[/nation] (I)
+Justice Minister:
+
+[u]Court:[/u][/B]
 
 [u]Regional Support Staff:[/u]
-Editor-in-Chief: [nation=short+noflag]Ghondra[/nation] (Interim, still looking for permanent) 
+Editor-in-Chief: [nation=short+noflag]Ghondra[/nation] (Interim) 
 Wiki Master:
 Flag Designer: [nation=short+noflag]Pridton[/nation]
-Cartographer: [nation=short+noflag]Pridton[/nation] (Interim, still looking for permanent)
+Cartographer: [nation=short+noflag]Pridton[/nation] (Interim)
 
 [B][color=red]Please remember to endorse the Delegate and Vice-Delegate![/color][/B]

@@ -1,14 +1,17 @@
 Welcome to New Caelondia.
 
-[b]Atlantic Pact[/b]
+[b]Atlantic Alliance[/b]
 [nation]Astoria[/nation]
 [nation]New Natalia[/nation]
 [nation]Felania[/nation]
 
 [b]Falangist Bloc[/b]
 [nation]Congaree[/nation]
-[nation]Emporea[/nation]
 [nation]Voroniya[/nation]
+
+[b]Pact of Iron[/b]
+[nation]Emporea[/nation]
+[nation]Das Merkelreich[/nation]
 
 [b]The Rogues Gallery[/b]
 [nation]Gosen[/nation]
@@ -17,4 +20,6 @@ Welcome to New Caelondia.
 
 [u]Regional News[/u]
 
--Falangist political parties take power in [nation]Emporea[/nation], [nation]Voroniya[/nation], and [nation]Congaree[/nation]
+-Falangist political parties take power in [nation]Voroniya[/nation] and [nation]Congaree[/nation]
+-[nation]Emporea[/nation] and [nation]Das Merkelreich[/nation] sign treaty of alliance
+-International Relations experts: Caelondia now divided between three blocs, &amp;quot;final end&amp;quot; to the post-Great War order

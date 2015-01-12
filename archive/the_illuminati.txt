@@ -15,10 +15,11 @@ the wise remain.[/color]
 
 [hr]
 
-[b]News:[/b] [url=https://nationstatesplusplus.net/newspaper?id=1220]The Illuminati Agenda[/url] [color=mediumorchid](all resident WA nations may edit)[/color]
-[b]RMB: [color=crimson]OPEN[/color][/b] [color=mediumorchid](all nations in embassy regions)[/color]
+[b]News:[/b] [url=https://nationstatesplusplus.net/newspaper?id=1220]The Illuminati Agenda[/url] [color=mediumorchid](resident WA nations edit)[/color]
+[b]RMB: [color=crimson]OPEN[/color][/b] [color=mediumorchid](to all nations in embassy regions)[/color]
 [b]Border: [color=crimson]OPEN[/color] Banlist: [color=red]EMPTY[/color]
 Regulations: [color=crimson]NONE[/color] Recruiters: [color=crimson]WELCOME[/color]
+Endorsement Cap: [color=crimson]NONE[/color] Freedom: [color=crimson]FULL[/color]
 Z-Regions:[/b] [region]Quarantine[/region], [region]Z O R T[/region]
 [spoiler=Tools]
 [b]Apps:[/b] [url=https://github.com/auralia/nationstates-nation-manager/releases/tag/v0.2]Nation Manager[/url] [url=https://nationstatesplusplus.net/]NS++[/url]

@@ -2,4 +2,4 @@
 
 [color=red]Puppet Storage Region -- will evacuate all others -- no exceptions[/color]
 
-[color=teal][b]Associate region:[/b] [region=Pacific Union][/color]
+[color=teal][b]Associate regions:[/b] [region=Ancient Lands] &amp;amp; [region=Pacific Union][/color]
