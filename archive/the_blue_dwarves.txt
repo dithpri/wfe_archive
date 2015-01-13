@@ -11,7 +11,7 @@ Government:
 
 Council Of Elders:
 
-[color=red]High Elder:[/color]
+[color=red]High Elder:[/color] [nation]Fluffie[/nation]
 [color=yellow]Major Elder:[/color]
 [color=purple]Minor Elder:[/color]
 -----------------------------------------------------------

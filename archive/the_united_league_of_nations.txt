@@ -18,11 +18,13 @@ Speaker of the Assembly:
 Prime Minister: [nation=short]Deneclia[/nation] (I)
 
 [u]Cabinet:[/u]
-Interior Minister:
+Interior Minister: [nation=short]Correctional Facility[/nation] ([color=blue]CP[/color])
 Foreign Minister: [nation=short]Andermor[/nation] (I)
 Justice Minister:
 
-[u]Court:[/u][/B]
+[u]Court:[/u]
+[nation=short]Basra[/nation]
+[/B]
 
 [u]Regional Support Staff:[/u]
 Editor-in-Chief: [nation=short+noflag]Ghondra[/nation] (Interim) 

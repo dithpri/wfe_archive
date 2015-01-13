@@ -10,7 +10,7 @@ Proudly an INUit,
 [nation=short]Zwotstyg[/nation]
 
 [b][u][color=blue]Interim Government[/color][/b][/u]
-[b]Foreign Minister/WA Delegate: Vote in Progress[/b]
+[b]Foreign Minister/WA Delegate: [nation=short]Albiorix[/nation][/b]
 [b]Regional Chairman: [nation=short]Adronda[/nation][/b]
 [b]Head of Recruitment: [nation=short]Ichoria[/nation][/b]
 [b]Recruitment Team: [nation=short]Adronda[/nation], [nation=short]Albiorix[/nation], [nation=short]New Educandi[/nation], [nation=short]Nova Tracia[/nation][/b]

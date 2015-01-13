@@ -1,5 +1,3 @@
-I hate raiders... Pardon our mess.
-
 Map:
 http://i60.tinypic.com/bj154.png
 
@@ -10,7 +8,7 @@ IRA Chairman:
 [nation]Providence and Port Hope[/nation]
 
 Secretary-General
-[nation]Joseph III[/nation]
+[nation]Statsen[/nation]
 
 Attorney-General:
 [nation]Statsen[/nation]
