@@ -13,12 +13,12 @@ Lord High Commander:[nation=short]La Libera[/nation]
 Minister(Foreign Affairs):[nation=short]Jackonia[/nation]
 Minister(Culture):TBD
 Minister(Interior):[nation=short]The Antarctica Territories[/nation]
-Minister(Finance):TBD
+Minister(Finance):[nation=short]BORDURIAA[/nation]
 
 [b]XX High Court:[/b]
 Chief Justice: [nation=short]Wyethalania[/nation]
-Justice1: [nation=short]Evanicaland[/nation]
-Justice2:[nation=short]Narnifrey[/nation]
+Justice1: TBD
+Justice2: TBD
 
 [b]Regional Departments[/b]
 Cartographer: [nation=short]Herzangia[/nation]

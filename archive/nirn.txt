@@ -4,3 +4,5 @@
 [Color=iceblue]Embassodor[/color]: [nation]Voldoria[/nation]
 [Color=darkred]Historian[/color]: [nation]Fraternatis[/nation]
 [Color=red]General[/color]: [nation]Mitsuhide[/nation]
+[Color=teal]Secretary[/color]: [Nation]Everdream[/nation]
+[Color=gold]Treasurer[/color]: [Nation]Hom-sha-bom[/nation]

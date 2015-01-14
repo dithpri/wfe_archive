@@ -1,12 +1,12 @@
-[i]Welcome to the Union of Independent Nations, an alliance of capitalistic democracies! Please read the rules of Zemlya and our charter before joining.[/i]
+[i]Welcome to the UIN, an alliance of capitalistic democracies! Please read the rules of Zemlya and our charter before joining.[/i]
 [hr]
 
-[b]Threat level: [color=orange]Orange[/color][/b]
+[b]Threat level: [color=orange]Yellow[/color][/b]
 [hr]
 
 [b]Latest News:[/b] 
--First regional conference to be held at a location to be determined later.
--Tensions brought to new heights after the IUSR threatens force against US peacekeeping advisors in former Titovka.
+
+-Regional conference to be held.
 [hr]
 
 [b]Head Nations[/b] 
@@ -19,9 +19,14 @@
 
 [nation]Batoristan[/nation]
 [nation]Belierna[/nation]
+[nation]Beteunam[/nation]
+[nation]Castilea[/nation]
 [nation]Eitusian[/nation]
+[nation]Filipinass[/nation]
+[nation]Nahambia[/nation]
 [nation]Ordorinia[/nation]
 [nation]Quamunsia[/nation]
+[nation]Slakia[/nation]
 [nation]Vassau[/nation]
 [hr]
 

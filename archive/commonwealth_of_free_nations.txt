@@ -14,7 +14,7 @@
 [nation=short]Vista Major[/nation] [b]([color=lightblue]P[/color])[/b]
 
 [b]Minister of Internal Affairs:[/b] 
-[nation=short]The State of Deseret[/nation] [b]([color=gold]L[/color])[/b]
+[nation=short]Sulania[/nation] [b]([color=limegreen]F [/color])[/b]
 
 [b][i](Interim)[/i] Minister of Justice:[/b] 
 [nation=short]Alruniea[/nation] [b]([color=purple]I[/color])[/b][/list] 

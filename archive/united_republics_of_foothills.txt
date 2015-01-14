@@ -1,13 +1,21 @@
-[b][color=Orange]Welcome To The United Republics of Foothills[/color][/b]
-[i][color=Red]&amp;quot;We are strong and united&amp;quot;[/color][/i]
+[b][color=CherryRed]Welcome To The United Republics of Foothills[/color][/b]
+[i][color=Gray]&amp;quot;We are strong and united&amp;quot;[/color][/i]
 [hr]
 [b]Links:[/b] |
 [hr]
 [b]Executive Government:[/b]
-- Chancellor: [nation]Petravia[/nation]
-- Prime Minister : [nation]Ectarlars[/nation]
+- Mostly-Benevolent Region Leader: [nation]High Cyrodiil[/nation]
+- Financial Advisor [nation]Petistravia[/nation]
+- Environmental Beauty Adviser: [nation]Dawnstar Country of Nightmares[/nation]
+- Military Adviser: [nation]The Land Of The Pickle Eaters[/nation]
 [hr]
 [b]Regional Happenings:[/b]
-&amp;gt;&amp;gt; News: [u]WE ARE NOW GOING TO USE A DEFCON STYLE SYSTEM TO PROTECT OUR REGION AND BE AWARE OF THREATS (I saw it on [region]The Atlas Union[/region])[/u]!
+&amp;gt;&amp;gt; News: [u]WE ARE NOW GOING TO USE A DEFCON STYLE SYSTEM TO PROTECT OUR REGION AND BE AWARE OF THREATS[/u]!
 Also get Nationstates ++ on the chrome web store
-[B][u]We are [color=Purple]Category 1[/color], meaning we are currently at peace.[/u][/B]
+[B][u]We are [color=blue]Category 1[/color], meaning we are currently at peace.[/u][/B]
+This is a list of Categories 1-4
+-Category 1 = [color=blue]Peaceful[/color]
+-Category 2 = [color=Capri]Peace on the line[/color]
+-Category 3 = [color=Carnelian]Verge Of War[/color] 
+-Category 4 = [color=red] War![/color]
+
