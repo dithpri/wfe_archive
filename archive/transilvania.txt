@@ -1,7 +1,7 @@
-[b][color=red]This region is now under the control of [/b][region=The Rebel Forces of Havenbrooke][b]!
+[u][b][color=scarlet]This region has been liberated by [region=the Greater Ostreich]![/b][/u][hr]
 
-The following nations led the invasion:[/b]
-[nation=New Ridgewood]
-[nation=Swyndale]
-[nation=United States of Joshua]
-[nation=The New Republic Of Gingers][/color]
+[/color][color=red]The people cheered as the great army of the [url=https://m.youtube.com/watch?v=tKofBhr9oFM]&Ouml;streich[/url] triumphantly marched into this region, the gold spikes of our helmets reflecting the light of a bright sun. All enemies to this region were subsequently lined up and shot, their bodies left to rot in the ditches. When the surviving oppressors saw our the might of the Kaiser they ran for the hills![/color]
+
+[b][color=gold]Temporary Regent:[/color][/b] [nation=short]The Kaisers Whip[/nation]
+
+[color=orange][i]ANNOUNCEMENT:[/i][/color] Self government shall be given within the week.

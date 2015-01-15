@@ -2,9 +2,9 @@ Hello! Welcome to the [color=red][b]Empire of the Northern Imperium[/b][/color] 
 
 Currently our positions within the Empire is still temporary, as we continue to expand and have more nations under our banner. But here are the ones so far:
 
-[i]Chief minister of the Imperium[/i]: The United Diplomatic Free Countries 
-Minister of War: [u]The North Chow[/u]
-Minister of Foreign Affairs: [u]The States of Dureliean[/u]
-Minister of Education: [u]The Republic of New Virulence[/u]
+[i]Chief minister of the Imperium[/i]: [nation]The United Diplomatic Free Countries[/nation]
+Minister of War: [nation]North Chow[/nation]
+Minister of Foreign Affairs: [nation]The States of Dureliean[/nation]
+Minister of Education: [nation]New Virulence[/nation]
 
 

@@ -1,1 +1,17 @@
-The Commonwealth of Independent Nations
+REGIONAL GOVERNMENT
+
+Prime Minister: [nation]Monos[/nation]
+Minister of State:
+Minister of Foreign Affairs:
+Minister of Recruitment:
+Minister of Internal Affairs:
+Minister of Justice:
+Minister of Defence:
+
+PLANNED
+
+Newspaper
+Debate Hall
+Elections
+Constitution
+Political Parties

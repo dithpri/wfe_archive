@@ -1,9 +1,9 @@
 [color=red][B]Welcome To Icarus![/B][/color]
 
-Founder: [nation]Icarus Administration[/nation]
+Founder: [nation=short]Icarus Administration[/nation]
 
-Delegate: [nation]Basseemia[/nation]
+Delegate: [nation=short]Basseemia[/nation]
 
-[color=blue] Until the rest of the factbook is complete, please enjoy this picture of a [url=http://postimg.com/187000/download-2-186124.jpg]cat.[/url][/color]
+[b]Government is currently under construction. Telegram either [nation=short]Lyrasona[/nation] or [nation=short]Basseemia[/nation] for information.[/b]
 
 [i]Founded on: January 7, 2015[/i]
