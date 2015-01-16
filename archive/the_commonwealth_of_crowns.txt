@@ -11,7 +11,7 @@ Lord High Commander:[nation=short]La Libera[/nation]
 [hr]
 [b]XX Cabinet[/b]
 Minister(Foreign Affairs):[nation=short]Jackonia[/nation]
-Minister(Culture):TBD
+Minister(Culture): [nation=short]Kin Jidai[/nation]
 Minister(Interior):[nation=short]The Antarctica Territories[/nation]
 Minister(Finance):[nation=short]BORDURIAA[/nation]
 

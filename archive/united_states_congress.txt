@@ -1,0 +1,12 @@
+[b]Welcome to the [region=United States Congress], which consists of the House and Senate.
+
+Summary
+
+Senate:
+[color=red]Majority: Republican[/color] (54)
+[color=blue]Minority: Democratic[/color] (44) + Independent (2)
+
+House:
+[color=red]Majority: Republican[/color] (246)
+[color=blue]Minority: Democratic[/color] (188)
+Vacant: 1[/b]
