@@ -1,9 +1,2 @@
 [color=645342][b]Brixton[/b]
 an RHW region[/color]
-
-..[color=red]#[/color]..[color=004000]###########[/color]
-[color=navy]##[/color]..[color=red]#[/color]..[color=004000]#########[/color]
-[color=navy]####[/color]..[color=red]#[/color]..[color=004000]#######[/color]
-[color=navy]##[/color]..[color=red]#[/color]..[color=004000]#########[/color]
-..[color=red]#[/color]..[color=004000]###########[/color]
-

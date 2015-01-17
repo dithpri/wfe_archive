@@ -1,0 +1,14 @@
+King: [nation]Dwarmencia[/nation]
+Regent: N/A
+Viceroy/Vicereine: N/A
+Archduke/Archduchess: N/A
+Grand Duke/Grand Duchess: N/A
+Marquess/Marchioness: N/A
+Margrave/Margravine: N/A
+Count/Countess: N/A
+Viscount/Viscountess: N/A
+Baron/Barnoness: N/A
+Baronet/Baronetess: N/A
+Royal Knight: N/A
+
+[i][color=red]There can be more than one person in each rank, with the exception of King, Regent, and Royal Knight[/color][/i]

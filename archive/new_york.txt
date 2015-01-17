@@ -7,8 +7,8 @@ Founder: [nation=short]Gell-Mannhattan[/nation]
 W.A. Delegate: [nation=short]Vanic Topia[/nation]
 
 Speaker of the Assembly: [nation=short]Devil[/nation]
-Assemblyman: [nation=short]The Continent of Wild Endeavor[/nation]
-Assemblyman: [nation=short]Commander Samir[/nation]
+Assemblyman: [nation=short]Nova-Lox[/nation]
+Assemblyman: [nation=short]Supersloth[/nation]
 
 Defense Minister: [nation=short]Layarteb[/nation]
 Foreign Minister: [nation=short]Commander Samir[/nation][/b]
