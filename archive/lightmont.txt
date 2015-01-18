@@ -6,7 +6,7 @@
 Senator and Triumvir of The Ministry of Love: [nation=shortname]The Holy Zirid Caliphate[/nation]
 Senator and Triumvir of The Ministry of Plenty: [nation=shortname]Bourda[/nation]
 Senator and Triumvir of The Ministry of Truth: [nation=shortname]Anthalin[/nation]
-Remember to endorse the Chancellor [nation=shortname]The Holy Zirid Caliphate[/nation].
+Endorse the Chancellor [nation=shortname]The Holy Zirid Caliphate[/nation] or face ejection.
 Endorsement limit of 2 for all nations besides the Chancellor.
 Alert status: [color=green]GREEN[/color]
 [color=red][url=http://s15.zetaboards.com/Lightmont/index/]Forums[/url][/color]

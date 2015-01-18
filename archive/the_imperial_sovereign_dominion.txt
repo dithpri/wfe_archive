@@ -3,10 +3,10 @@
 [b][color=red]NOTE:[/b][/color] Borders are currently closed due to fear of attack. Borders will not be opened until further notice...
 
 [b][u][color=red]Regional Office Positions[/b][/u][/color]
-[b][color=blue]Minister of Recruitment:[/b][/color]
-[b][color=orange]Minister of RP:[/b][/color]
-[b][color=green]Minister of Security:[/b][/color]
-[b][color=purple]Minister of Diplomacy:[/b][/color]
+[b][color=blue]Minister of Recruitment:[/b][/color][nation]Thisledale[/nation]
+[b][color=orange]Minister of RP:[/b][/color][nation]Flanderson[/nation]
+[b][color=green]Minister of Security:[/b][/color][nation]Cylidia[/nation]
+[b][color=purple]Minister of Diplomacy:[/b][/color][nation]Camington[/nation]
 
 [B]Current [color=orange]RP[/color]:[/b] None
 

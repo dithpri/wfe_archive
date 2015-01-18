@@ -22,8 +22,6 @@
 [nation]Beteunam[/nation]
 [nation]Castilea[/nation]
 [nation]Eitusian[/nation]
-[nation]Filipinass[/nation]
-[nation]Nahambia[/nation]
 [nation]Ordorinia[/nation]
 [nation]Quamunsia[/nation]
 [nation]Slakia[/nation]

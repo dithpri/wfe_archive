@@ -1,5 +1,7 @@
-[b]Upper House of the [region=United States Congress].
+[b]Welcome to the [region=United States Senate], the Upper House of the [region=United States Congress].
 
 Summary
 
-TBA[/b]
+Senate:
+[color=red]Majority: Republican[/color] (54)
+[color=blue]Minority: Democratic[/color] (44) + Independent (2)[/b]

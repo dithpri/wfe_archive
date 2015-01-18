@@ -1,6 +1,8 @@
-[color=red][B]Please send all inquiries to [nation=short]Leveat[/nation]. I will not respond to (or even read) telegrams sent to a puppet.[/B][/color]
+[color=red][B]Please send all inquiries to my main, [nation=short]Leveat[/nation]. I will not respond to (or even read) telegrams sent to a puppet.[/B][/color]
 All embassy requests WILL be rejected unless requested by Leveat.
 
-[i]Home Region: [region]Confederacy of Allied States[/region]
-Vacation Home: [region]Lazarus Grand Peninsula[/region]
-Mobile Task Force [nation=short]Alsuna[/nation]: [region]The Great NS Expedition Headquarters[/region][/i]
+[i]Home Region: [region]Confederacy of Allied States[/region] ([nation=short]Leveat[/nation])
+Vacation Home: [region]Lazarus Grand Peninsula[/region] (no nation)
+MTF [nation=short]Alsuna[/nation]: [region]The Great NS Expedition Headquarters[/region] ([nation=short]Alsuna[/nation])[/i]
+
+This WFE last updated Sat 17 Jan 2015.

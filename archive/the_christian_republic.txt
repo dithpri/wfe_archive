@@ -1,4 +1,4 @@
-This is the Christian Republic, the strongest and only active Protestant region on Nationstates. We are run by a council of 12 Elders and will soon be choosing officials for military and such.
+This is the Christian Republic, the strongest and only active Protestant region on Nationstates. We are run by a council of 12 Elders and a delegate.
 List of Council Members:
 [nation]Jumalariik[/nation]
 [nation]Margno[/nation]
@@ -11,3 +11,4 @@ List of Council Members:
 [nation]Leila Malkal[/nation]
 [nation]Zombie Fodder[/nation]
 [nation]Stalwart Allies[/nation]
+[nation]Western-Ukraine[/nation]

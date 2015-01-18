@@ -1,0 +1,28 @@
+[u][b][color=Red]Kingdom of Mann[/color][/b][/u]
+
+[color=#4099FF]
+[b]Information[/b]
+Founder: [nation=Arztokia]
+WA Delegate: [nation]The United Capitalist People[/nation]
+Vice Delegate: [nation=]
+
+[u]Government[/u]
+Prime Minister: [nation=Ugir]
+[i]Committee of War[/i]
+Minister of War: [nation=]
+Minister of Defense: [nation=Pajek]
+[i]Committee of Foreign Affairs[/i]
+Minister of Diplomacy: [nation=Majek]
+Minister of Recruitment: [nation=Arztokia]
+[i]Committee of Internal Affairs[/i]
+Minister of Safety: [nation=Roachtopia]
+Minister of Information: [nation=the United Capitalist people]
+[/color]
+
+[b]REGION SAFETY LEVEL: [color=Green]Threat Level 1[/color][/b]
+The safety levels are:
+[color=Green]Threat Level 1[/color]
+[color=#59db26]Threat Level 2[/color]
+[color=#b4d022]Threat Level 3[/color]
+[color=Orange]Threat Level 4[/color]
+[color=Red]Threat Level 5[/color]

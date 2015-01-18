@@ -14,7 +14,7 @@
 [b]+ Member for Arcadia[/b] : [nation=short]new_rhodinia[/nation] 
 [b]+ Member for Atlantis[/b] : [nation=short]the_republic_of_chivalry[/nation]
 [b]+ Member for Oceania[/b] : 
-[b]+ Member for Olympia[/b] : [nation=short]articmainia[/nation]
+[b]+ Member for Olympia[/b] : 
 [b]+ Member for Anatolia[/b] : [nation=short]zanland[/nation]
 [b]+ Member for Erythraea[/b] : [nation=short]ebsotz[/nation]
 [b]+ Member for Magnesia[/b] : [nation=short]muchos_estados_unidos[/nation]
