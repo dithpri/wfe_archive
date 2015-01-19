@@ -12,9 +12,15 @@
 
 [i][b]&amp;quot;Choose a European Power to rule and serve, or finance your journey to the new world&amp;quot;[/b][/i]
 
-[b][color=#FFBF00]Spain[/color][/b] [b]-[/b] [b][nation=short]The Union of the Peoples Freedom[/nation][/b]
-[b][color=#0040FF]France[/color][/b] [b]-[/b] [b][nation=short]Nobel Guards[/nation][/b]
-[b][color=FF6F00]Netherlands[/color][/b] [b]-[/b] [b][nation=short]Greater Fascism[/nation][/b]
+[spoiler=Spain]
+[b][color=#FFBF00]Spain[/color] - [nation=short]The Union of the Peoples Freedom[/nation][/b][/spoiler]
+[spoiler=France]
+[b][color=#0000FF]France[/color] - [nation=short]Nobel Guards[/nation][/b][/spoiler]
+[spoiler=United Kingdom][/spoiler]
+[spoiler=Netherlands]
+[b][color=#FF8000]Netherlands[/color] - [nation=short]Greater Fascism[/nation][/b][/spoiler]
+[spoiler=Denmark][/spoiler]
+[spoiler=Sweden][/spoiler]
 
 [hr][hr]
 

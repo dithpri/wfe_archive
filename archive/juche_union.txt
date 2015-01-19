@@ -23,3 +23,5 @@ Minister of Internal Affairs: [nation=short]Omensa[/nation]
 [B][color=red]DEFCON 1: AT WAR[/color][/B]
 
 [url=http://www.nationstates.net/nation=communist_skyrim/detail=factbook/id=354914]Citizenship List[/url]
+
+Emergency Evac Zone: [region]New Juche Union[/region]

@@ -2,7 +2,7 @@
 Consul: 
 Prelate: [nation]Aravea[/nation]
 Foreign Affairs;
-Defense: [nation]Holy Empire of Avalon[/nation]
+Defense: 
 Interior: [nation]Allied Connurist States[/nation]
 RP:
 
