@@ -10,7 +10,7 @@ Multi-species being able to co-exist!
 Founder: [nation=short]Gorthias[/nation]
 President: [nation=short]Mattijana[/nation]
 Vice President: Vacant
-Regional Recruiter: Vacant
+Regional Recruiter:  [nation=short]Alponia[/nation]
 Minister of Foreign Affairs: Vacant
 Minister of Regional Defense: Vacant
 

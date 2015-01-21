@@ -9,7 +9,11 @@ Natherialism
 
 Remember, [region]South Fort Whitehorse[/region] and [region]Stronghold Fortress[/region] are hostiles, they are not allowed. 
 [hr]
-Operator:[nation]Fodor[/nation]
+Founder:[nation]Fodor[/nation]
 Current Seat of the Great Keeper:[nation]Hericropolis[/nation], Great Keeper Ackerley 
+Keeper of Exchequer: [b]Voting in Progress[/b]
+Supreme Justice: [b]Queued[/b]  
+Commandant: [b]Queued[/b]
+Consul: [b]Queued[/b]
 [hr]
 Protektorate of [region]THE REICHSWEHR HEADQUARTERS[/region]
