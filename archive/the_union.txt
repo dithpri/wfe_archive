@@ -1,5 +1,15 @@
-[color=red]This region has been conquered by [region]Republic of Channel Island[/region]![/color]
+[color=red]This region has been conquered by [region]The Rebel Forces of Havenbrooke[/region]![/color]
 
-[b]All natives from this region are invited to join [region]Republic of Channel Island[/region][/b]
-[b]The Republic of Channel Island owns the right to administrate this region as it sees fit
-Continue  on with your day today activities[/b]
+[u][color=Red]The Following regions aided the Invasion[/color][/u]
+[nation]Duskenvill[/nation]
+[nation]Oakenfield[/nation]
+[nation]The Dragons Domain[/nation]
+[nation]The Propane Gas Of The Propane Tank[/nation]
+[nation]The Propane Tank[/nation]
+[nation]Fabulously Fabulous[/nation]
+[nation]Photo Finish[/nation]
+[nation]Equestrians[/nation]
+
+[color=Blue]Check out our Region&amp;#39;s theme song![/color] http://m.youtube.com/watch?v=UFgdte8JKI0
+[b]All natives from this region are invited to join [region]The Rebel Forces of Havenbrooke[/region]
+Telegram [nation]Fabulously Fabulous[/nation]![/b]

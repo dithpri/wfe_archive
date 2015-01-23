@@ -2,7 +2,7 @@
 
 [B][url=http://w11.zetaboards.com/TULON/index/]FORUM[/url][/B]
 
-[B][u][i][color=red]Please vote for Speaker of the Assembly.[/color][/i][/u][/B]
+[B][u][i][color=red]Please vote for Field Marshal.[/color][/i][/u][/B]
 
 [B]Vice-Delegate: [nation=short]The United England[/nation] (I)
 
@@ -13,12 +13,12 @@ Field Marshal:
 
 High Commissioner: [nation=short]Aligned Planets[/nation] (I)
 
-Speaker of the Assembly:
+Speaker of the Assembly: [nation=short]Correctional Facility[/nation] ([color=blue]CP[/color])
 
 Prime Minister: [nation=short]Deneclia[/nation] (I)
 
 [u]Cabinet:[/u]
-Interior Minister: [nation=short]Correctional Facility[/nation] ([color=blue]CP[/color])
+Interior Minister:
 Foreign Minister: [nation=short]Andermor[/nation] (I)
 Justice Minister:
 

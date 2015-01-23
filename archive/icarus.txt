@@ -1,20 +1,23 @@
-[color=red][B]Welcome To Icarus![/B][/color]
+[B]Welcome To [color=purple]Icarus[/color]! 
 
-[B]Government of Icarus[/B]:
+[hr][i]Founded on [color=navy]January 7, 2015[/color][/i][/B]
+
+[hr]
+
+[color=purple][u][B]&amp;gt;&amp;gt; Government of Icarus &amp;lt;&amp;lt;[/B][/u][/color]
+
 [B]Founder:[/B] [nation=short]Icarus Administration[/nation]
 
-[B]President:[/B] [nation=short]Basseemia[/nation]
+[B]Delegate:[/B] [nation=short]Basseemia[/nation]
 
 [B]Legislature:[/B]
-Senator: ...
-Senator: ...
-Senator: ...
-Senator: ...
-Senator: ...
+[list]Senator: To Be Decided
+Senator: To Be Decided
+Senator: To Be Decided
+Senator: To Be Decided
+Senator: To Be Decided[/list]
 
 [B]Judicial Committee:[/B]
-1. ...
-2. ...
-3. ...
-
-[i]Founded on: January 7, 2015[/i]
+[list]1. To Be Decided
+2. To Be Decided
+3. To Be Decided[/list]

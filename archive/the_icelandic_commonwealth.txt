@@ -4,10 +4,12 @@
 
 ORACLE GAME[/b]
 [I]Goal of this version of the game is to achieve as many regions linked together to form a chain as long as possible.
-CURRENTLY: [region=the Icelandic Commonwealth] has [/color][color=800000][b]1530[/b][/color][color=navy] Degrees of Separation from [region=Darwin][/I]
-[spoiler=Oracle Game][url=http://nsdossier.texasregion.net/embassyOracle.aspx]Oracle[/url][/spoiler][/color][color=red]
-// Error at [region=Darude Sandstorm] -- break \\[/color][color=navy]
-
-Allied with:[list][region=United States of America] ([nation=short]New Falham[/nation]).
+CURRENTLY: [region=the Icelandic Commonwealth] has [/color][color=800000][b]1531[/b][/color][color=navy] Degrees of Separation from [region=Darwin][/I]
+[spoiler=Oracle Game][url=http://nsdossier.texasregion.net/embassyOracle.aspx]Oracle[/url][/spoiler]
+[/color][color=006400]
+[b]Note:[/b] [list]Changes
+Will be switching to [region=the Icelandic Commonwealth] thru to [region=B1 Kingdom]. 
+All Matrix regions have embassies with [region=United States of America][/list][/color][color=640000]
+[b]Allied with:[/b][list][region=United States of America] ([nation=short]New Falham[/nation]).
 [region=Ancient Lands] ([nation=short]Manitoulin[/nation]).
 [region=The Americas], [region=Pacific Union] and [region=B1 Kingdom].[/list][/color]
