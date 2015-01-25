@@ -10,6 +10,6 @@
 
 President Executive: [nation]The Rhinelands[/nation]
 Vice President: [nation]Uzbeckastan[/nation]
-Foreign Minister: OPEN
-Minister of the Interior: OPEN
+Foreign Minister: [nation]Nazi-Duitsland[/nation]
+Minister of the Interior: [nation]Gonngman City[/nation]
 Director of Security &amp;amp; Communications: [nation]Krokodil nest[/nation][/b]

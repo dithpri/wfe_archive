@@ -1,3 +1,4 @@
 [b][color=darkgreen]In memory of[/color] [color=d4af37]King [nation=short]Dom Joao VI[/nation][/color][/b]
-[list][color=silver]The [b]End[/b] of [b]Napoleon[/b] Bonaparte[/color][hr][hr][/list][color=d4af37]Invaded by[/color] [b][region]Imperio do Brasil[/region][/b]
-[color=d4af37]By order of Emperor[/color] [nation=short]Dom Pedro III[/nation]
+[list][color=silver]The [b]End[/b] of [b]Napoleon[/b] Bonaparte[/color][/list][hr][color=d4af37]Invaded by[/color] [b][region]Imperio do Brasil[/region][/b]
+[color=d4af37]By order of Emperor [nation=short]Dom Pedro III[/nation]
+Handed off to the DBA/RHW alliance[/color]

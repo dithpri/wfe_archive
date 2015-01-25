@@ -2,11 +2,11 @@
 
 Summary
 
-Senate:
-[color=red]Majority: Republican[/color] (54)
-[color=blue]Minority: Democratic[/color] (44) + Independent (2)
+Senate: Majority @ 50
+Majority: [color=red]Republican[/color] (54)
+Minority: [color=blue]Democratic[/color] (44) + Independent (2)
 
-House:
-[color=red]Majority: Republican[/color] (246)
-[color=blue]Minority: Democratic[/color] (188)
-Vacant: 1[/b]
+House: Majority @ 218
+Majority: [color=red]Republican[/color] (246)
+Minority: [color=blue]Democratic[/color] (188)
+Vacancies: 1[/b]

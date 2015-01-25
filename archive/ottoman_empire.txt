@@ -7,11 +7,11 @@ A new sun rises over Anatolia under the banner of Osman, whose dynasty is called
 [hr]
 
 [b][u][color=firebrick]Imperial Regency[/color][/u][/b]
-[list][b][color=firebrick]&raquo;[/color] Sultan:[/b] [nation]Ottoman-Empire[/nation]
+[b][color=firebrick]&raquo;[/color] Sultan:[/b] [nation]Ottoman-Empire[/nation]
 [b][color=firebrick]&raquo;[/color] Grand Vizier:[/b] [nation]Oghuzia[/nation]
-[/list]
 
-[hr][b][u][color=firebrick]Associated Regions[/color][/u][/b]
+
+[hr][b][u][color=firebrick]Sister Regions[/color][/u][/b]
 [region]The Ottoman Empire[/region]
 [region]The Caliphate[/region]
 [region]The Muslim Commonwealth[/region]

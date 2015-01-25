@@ -1,7 +1,7 @@
-[color=blue][b]Important Links[/b][/color]
-[url=http://goo.gl/rahj3]Offsite Forums[/url] | [url=http://i.imgur.com/N9ZwL6k.png]Regional Map[/url] | [url=http://goo.gl/JSM8cT]NSWiki Page[/url] | [url=http://goo.gl/E9hquz]NationStates++[/url]
+[color=green][b]LINKS[/b][/color]
+[url=http://kennanregion.proboards.com/]Forums[/url] | [url=http://i.imgur.com/N9ZwL6k.png]Map[/url]
 
-[color=blue][b]Kennan Secretary Council[/b][/color]
+[color=green][b]KENNAN SECRETARY COUNCIL[/b][/color]
 Administration: [nation=short]Samukan[/nation]
 Defense: [nation=short]Ethan Foley[/nation]
 Education: [nation=short]Republic of Guadalajara[/nation]
@@ -10,12 +10,7 @@ Foreign Affairs: [nation=short]Sandwich Territories[/nation]
 Human Rights: [nation=short]Hackleberry Islands[/nation]
 Law Enforcement: [nation=short]Herodas[/nation]
 
-[color=blue][b]Chairmen[/b][/color]
+[color=green][b]CHAIRMEN[/b][/color]
 Kennan Regional Council: [nation=short]Hackleberry Islands[/nation]
-Kennan Union: [nation=short]Ethan Foley[/nation] 
+Kennan Union: [nation=short]Ethan Foley[/nation]
 Kennan Recruitment Program: [nation=short]Sandwich Territories[/nation]
-
-[color=blue][b]Announcements[/b][/color]
-[list]
-[*][url=http://goo.gl/7mybyx]Resolution #93: Background Review for Secretary Candidates[/url] is up for voting!
-[/list]

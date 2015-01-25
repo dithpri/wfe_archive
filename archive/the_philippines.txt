@@ -1,7 +1,7 @@
 [color=005400][b]The Philippines[/b]
 
-FACTS[list][hr][b]Capital:[/b] Manila
-Largest City: Quezon City
+FACTS[list][hr][b]Capital:[/b] [region=Manila]
+Largest City: [region=Quezon City]
 Independence:[list]Established: Apr 27 1565
 Declared: Jun 12, 1898
 Self Governing: Mar 24, 1934
