@@ -12,8 +12,8 @@ Remember [region]Stronghold Fortress[/region] are hostiles, they are not allowed
 Founder:[nation]Fodor[/nation]
 Current Seat of the Great Keeper:[nation]Hericropolis[/nation], Great Keeper Ackerley 
 Keeper of the Exchequer: [nation]Shon[/nation]
-Supreme Justice: [b]Voting in Progress[/b]  
+Supreme Justice: [nation]Aqra[/nation]
 Commandant: [b]Queued[/b]
-Consul: [b]Queued[/b]
+Consul: [b]Voting in Progress[/b]
 [hr]
 Protektorate of [region]THE REICHSWEHR HEADQUARTERS[/region]

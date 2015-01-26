@@ -8,22 +8,22 @@ If you don&amp;#39;t receive a validation email when you sign up for the forum, 
 [hr]
 
 [b]Commission[/b]
-Premier: [nation=short]Imperial Prussian State[/nation]
+Premier: [nation=short]Inimicus[/nation]
 Foreign Affairs: [nation=short]Angleter[/nation]
 Defence and Peacekeeping: [nation=short]Havvenskar[/nation]
 Economics: [nation=short]Poretos[/nation]
-Internal Affairs: [nation=short]Inimicus[/nation]
+Internal Affairs: [nation=short]Poland-Lythuania[/nation]
 
 [hr]
 
 [b]Court[/b]
 Chief Justice: [nation=short]Poland-Lythuania[/nation]
 Justice: [nation=short]Os Corelia[/nation]
-Justice: [nation=short]Inimicus[/nation]
+Justice: [nation=short]Deutschia[/nation]
 Justice: [nation=short]Davishire2[/nation]
 Justice: [nation=short]Poretos[/nation]
 
 [hr]
 
 [b]Council[/b]
- Speaker: [nation=short]Duxburian Union[/nation]
+ Speaker: [nation=short]Halsberg[/nation]

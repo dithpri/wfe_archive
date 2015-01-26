@@ -1,4 +1,18 @@
-The Salmark Zone Region is the house of the Salmark Currency.
-The Salmark never falls. The Salmark neve fails. The Salmark only fulfils.
+[b]Agenda[/b]:
 
-To be accepted in the Salmark Zone use &amp;quot;Salmark&amp;quot; as your currency.
+The following nations need to address:
+1. [b]Economy[/b] aim: 40
+[nation=The_Kailands], Critical;
+[nation=Blupilotia], Very Severe;
+[nation=Salziland], Severe;
+[nation=New_Tribe_of_Naphtali], Severe;
+[nation=The_former_states_of_America], Marginal;
+2. [b]Political Freedoms[/b] aim: 60
+[nation=New_Tribe_of_Naphtali], Very Severe;
+[nation=The_Kailands], Marginal;
+3. [b]Environmental Beauty[/b] aim: 40
+[nation=The_former_states_of_America], Critical;
+[nation=New_Tribe_of_Naphtali], Severe;
+[nation=Blupilotia], Marginal;
+
+Thank you.
