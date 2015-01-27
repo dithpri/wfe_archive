@@ -2,7 +2,7 @@
 
 [color=red]Puppet Storage Region[/color]
 
-[color=teal][b]Associate regions:[/b] [region=Ancient Lands] &amp;amp; [region=Pacific Union][/color]
+[color=teal][b]Associate regions:[/b] [region=Ancient Lands], [region=Richard] &amp;amp; [region=Pacific Union][/color]
 
 [color=blue][b]Status:[/b] (Effective 2015 01 15)
 Total population: 8,917,009,000,000

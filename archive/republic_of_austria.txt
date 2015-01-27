@@ -1,11 +1,11 @@
-[b]Republic of Austria is [color=#0000CC]Parliamentary Representative Democracy[/color] comprising nine Federal States or Bundeslander. 
+[b][region]Republic of Austria[/region] is a [color=#0000CC]Parliamentary Representative Democracy[/color] comprised of nine Federal States.
 
-Vienna (Wien)
-Lower Austria (Niederosterreich)
-Upper Austria (Oberosterreich)
-Styria (Steiermark)
-Carinthia (Karnten)
-Tyrol (Tirol)
+Vienna/[region]Wien[/region]
+Lower Austria/Niederosterreich 
+Upper Austria/Oberosterreich
+Styria/Steiermark
+Carinthia/Karnten 
+Tirol/[region]Tyrol[/region] 
 Salzburg
 Vorarlberg
 Burgenland. 

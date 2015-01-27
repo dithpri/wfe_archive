@@ -1,20 +1,20 @@
-[b]The Imperial Dominion is an imperialist region that emphasizes unity and monarchist values.[/b]
+[b][color=navy]The Imperial Dominion is an imperialist region that emphasizes unity and monarchist values.[/color][/b]
 
-[color=firebrick]Welcome to the Imperial Dominion! The central base of a great empire, this region is the home region of [/color][b][url=http://www.nationstates.net/nation=romindia][color=firebrick]Romindia[/color][/url][/b][color=firebrick] and its territories, 
-although nations that pass along are welcome to stay here. In fact, we encourage you to join our region and take part in building an empire.[/color]
-
-[hr][hr]
-
-[b][u]Imperial Regency[/u][/b]
-
-[list][b]&raquo; [color=firebrick]Emperor:[/b][/color] Augustine VII of [nation]Romindia[/nation]
-[b]&raquo; [color=firebrick]Lord Protector:[/b][/color] [nation]Romegrad[/nation]
-[b]&raquo; [color=firebrick]Governor-General:[/b][/color] [i]vacant[/i][/list]
+Welcome to [b][color=firebrick]the Imperial Dominion[/color][/b]! The central base of a great empire, this region is the home region of [b][url=http://www.nationstates.net/nation=romindia][color=firebrick]Poltonia[/color][/url][/b] and its territories, 
+although nations that pass along are welcome to stay here. In fact, we encourage you to join our region and take part in building an empire.
 
 [hr][hr]
 
-[b]Ruling Dynasty:[/b] [nation]Romefeller[/nation]
-[b]Seat of the Empire:[/b] [nation=short]Muziris[/nation]
+[b][u][color=navy]Imperial Regency[/color][/u][/b]
+
+[list][b][color=firebrick]&raquo;[/color] Emperor:[/b] Augustine VII of [nation=short]Poltonia[/nation]
+[b][color=firebrick]&raquo;[/color] Lord Protector:[/b] [nation=short]Romegrad[/nation]
+[b][color=firebrick]&raquo;[/color] Governor-General:[/b] [i]vacant[/i][/list]
+
+[hr][hr]
+
+[b][color=navy]Ruling Dynasty:[/color][/b] [nation]Romefeller[/nation]
+[b][color=firebrick]Seat of the Empire:[/color][/b] [nation=short]New Acheon[/nation]
 
 [hr][hr]
 

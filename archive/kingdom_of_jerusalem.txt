@@ -10,7 +10,7 @@ The region of the Kingdom of Jerusalem is an Imperial Realm of [b][region]The Im
 
 [b][color=orange]The Royal Regency[/color][/b]
 
-[list][b][color=orange]&raquo;[/color] Emperor of The Imperial Dominion:[/b] Augustine VII of [nation=short]Romindia[/nation]
+[list][b][color=orange]&raquo;[/color] Emperor of The Imperial Dominion:[/b] Augustine VII of [nation=short]Poltonia[/nation]
 [b][color=orange]&raquo;[/color] King of Jerusalem:[/b] Baldwin VI of [nation=short]The Kingdom of Jerusalem[/nation]
 [b][color=orange]&raquo;[/color] Chancellor of the State:[/b] [i]vacant[/i][/list]
 
