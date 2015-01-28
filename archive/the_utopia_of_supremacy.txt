@@ -3,7 +3,7 @@
 [color=green][b][i]WA Section:[/i][/b][/color]
 ~[b]Please endorse the current delegate [nation=short]North Korea is Gonna bomb the US[/nation][/b][hr]
 [b][i]Region Status:[/i]
-[color=RED]UNSAFE [/color]- [color=red]ATTACKED BY ENEMY[/color]
+[color=Orange]AT RISK[/color] - [color=red]ATTACKED BY ENEMY[/color]
 
 [i]Border Status:[/i]
 [color=red]CLOSED[/color][/b]

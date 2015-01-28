@@ -1,14 +1,14 @@
 Constitutional Convention:
 
-President: Eastern Pandora
+President: [nation]Eastern Pandora[/nation]
 
 Delegates: 
 
-The New Freedom Movement
-The East Australian Current
-Continental Divide
-Groovy Yzma
-Weyland-Yutani Company
-C.S. Lewis
-The Land of Berk
-The O-Z
+[nation]The New Freedom Movement[/nation]
+[nation]The East Australian Current[/nation]
+[nation]Continental Divide[/nation]
+[nation]New Groovy Yzma[/nation]
+[nation]Weyland-Yutani Company[/nation]
+[nation]CS Lewis[/nation]
+[nation]The Land of Berk[/nation]
+[nation]The O-Z[/nation]

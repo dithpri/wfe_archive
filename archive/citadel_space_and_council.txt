@@ -1,0 +1,20 @@
+[b]COUNCIL RACES:[/b]
+
+[b][nation=short]The Systems Alliance of Humanity[/nation]
+[nation=short]Lexonia[/nation]
+[nation=short]Rockvoria[/nation]
+[nation=short]The Vizarian Union[/nation][/b]
+
+[b]NON COUNCIL RACES:[/b]
+
+[b][nation=short]The New Holy Roman Imperium[/nation]
+[nation=short]Vaktovia-The Vaktovian Empire[/nation]
+[nation=short]Arcadia-The Grand Imperium[/nation][/b]
+
+[b]STRUCTURE:[/b]
+
+[color=#008000][b]Chancellor:[/b][/color] [color=#0000BF][b]Steven Hackett - Human[/b][/color]
+[color=#008000][b]Vice Chancellor:[/b][/color] [color=#FF0000][b]Zen Flanx - Lexonian[/b][/color]
+[color=#008000][b]War Director:[/b][/color] [color=#800080][b]Alikia Xangro - Vizarian[/b][/color]
+[color=#008000][b]Trade Director:[/b][/color] [color=#000000][b]John Alexson - Rockvorian[/b][/color]
+[color=#008000][b]C-SEC Chief:[/b][/color] [color=#FFFF00][b]OPEN[/b][/color]

@@ -4,12 +4,15 @@
 
 ORACLE GAME[/b]
 [I]Goal of this version of the game is to achieve as many regions linked together to form a chain as long as possible.
-CURRENTLY: [region=the Icelandic Commonwealth] has [/color][color=800000][b]1531[/b][/color][color=navy] Degrees of Separation from [region=Darwin][/I]
+CURRENTLY: [region=the Icelandic Commonwealth] has [/color][color=800000][b]1536[/b]*[/color][color=navy] Degrees of Separation from [region=B1 Kingdom][/I]
 [spoiler=Oracle Game][url=http://nsdossier.texasregion.net/embassyOracle.aspx]Oracle[/url][/spoiler]
-[/color][color=006400]
-[b]Note:[/b] [list]Changes
-Will be switching to [region=the Icelandic Commonwealth] thru to [region=B1 Kingdom]. 
-All Matrix regions have embassies with [region=United States of America][/list][/color][color=640000]
-[b]Allied with:[/b][list][region=United States of America] ([nation=short]New Falham[/nation]).
+[spoiler=*Broken Segments][region=the Icelandic Commonwealth] to [region=MI6]: 698
+[region=The Archives] NEW
+[region=State of South Dakota] to [region=Evil Corporation]: 9
+[region=The Nordic Union] and [region=Grand Banks] NEW
+[region=Republic of Belarus] to [region=DaliMark Territorys]: 769
+[region=Funkhouser Traverse] NEW
+[region=Death Smiles] to [region=B1 Kingdom]: 56[/spoiler][/color][color=640000]
+[spoiler=Allied Regions][region=United States of America] ([nation=short]New Falham[/nation]).
 [region=Ancient Lands] ([nation=short]Manitoulin[/nation]).
-[region=The Americas], [region=Pacific Union] and [region=B1 Kingdom].[/list][/color]
+[region=Richard], [region=The Americas], [region=Pacific Union] and [region=B1 Kingdom].[/spoiler][/color]

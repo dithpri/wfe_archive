@@ -3,10 +3,11 @@
 [b]The Grand Prince and Magistratus Extraordinarius of the Ministry of Peace:[/b] [nation=shortname]Eskvor[/nation]
 
 [b][u]The Senatorial Triumvirate[/b][/u]
-Senator and Triumvir of The Ministry of Love: Vacant
+Chancellor, Senator and Triumvir of The Ministry of Love: [nation=shortname]Anthalin[/nation]
 Senator and Triumvir of The Ministry of Plenty: Vacant
 Senator and Triumvir of The Ministry of Truth: Vacant
 
+Endorse the Chancellor [nation=shortname]Anthalin[/nation] or face expulsion
 Endorsement limit of 2 for all nations besides the Chancellor.
 Alert status: [color=green]GREEN[/color]
 [color=red][url=http://s15.zetaboards.com/Lightmont/index/]Forums[/url][/color]
