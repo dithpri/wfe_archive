@@ -1,5 +1,12 @@
-[b]The city of Duisburg is in North Rhine-Westphalia, Federal Republic of Germany.
+[b][u]Alliance:[/u] [region]Greater European Federation[/region]
+[u]Politics:[/u] [color=#0000CC]Federal Parliamentary and Constitutional Republics[/color][hr][u]Country:[/u] Federal Republic of Germany
+[u]State:[/u] [region]North Rhine Westphalia[/region]/Nordrhein Westfalen
+[u]City:[/u] [region]Duisburg[/region][hr][u]Region History:[/u] 
+Duisburg was briefly held by [color=red]Communist[/color] [nation=short]Die Rote Fahne[/nation] from [region]The Red Fleet[/region] in an act of red aggression against the German people. 
+[nation=short]GEF Expeditionary Force 3[/nation] was dispatched to Duisburg to defend the city of the [color=#0000CC]Federal Parliamentary Republic[/color] against all threats.
 
-Formerly founded by [nation=short]Die Rote Fahne[/nation] of [region]The Red Fleet[/region].
+[u]Combating:[/u] 
+Right Wing [color=#996600]Fascist[/color], and [color=#996600]Totalitarian[/color] regions
+Left Wing [color=#1F1F0F]Anarchist[/color], [color=#FF3300]Socialist[/color], [color=#FF3300]Anti-Fascist[/color] and [color=red]Communist[/color] regions
 
-[nation=short]GEF Expeditionary Force 3[/nation] of the [region]Greater European Federation[/region] has the watch to prevent the spread of rampant [color=red]Socialism[/color] and [color=red]Communism[/color][/b]
+[/b]

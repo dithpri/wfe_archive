@@ -1,3 +1,8 @@
-General Secretary: [Nation]Soviet Ruk-Tsan[/Nation]
-Premier: [Nation]Dakran[/Nation]
-Head of Diplomacy: [Nation]Barunia[/Nation]
+[color=red][B]The Union of Red Nations[/B][/color]
+
+[B]General Secretary: [/B][Nation]Soviet Ruk-Tsan[/Nation]
+[B]Premier: [/B][Nation]Dakran[/Nation]
+[B]Head of Internal Affairs: [/B][nation]Nova Populum[/nation]
+[B]Head of Diplomacy: [/B][Nation]Barunia[/Nation]
+[B]Head of Armed Forces: [/B] -
+[B]Head of Recruitment: [/B] -

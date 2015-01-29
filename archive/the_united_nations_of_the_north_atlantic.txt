@@ -3,7 +3,7 @@
 
 [b][u][color=blue]Regional Government[/color][/u][/b]
 Chairman - [nation]Poldarias[/nation]
-Deputy Chairman - [nation]Loomynati[/nation]
+Deputy Chairman - [color=red]Vacant[/color]
 Foreign Office - [nation]stjamesdom[/nation]
 Home Office - [nation]Kharzziland[/nation]
 Ministry of Defence - [color=red]Vacant[/color]
@@ -12,7 +12,7 @@ Regional Treasury - [nation]Vervillia[/nation]
 
 [u][b][color=blue]Regional Parliament[/color][/u][/b]
 Chief Councillor -  [nation]balias tor[/nation] 
-Deputy Councillor - [nation]vaes dothraky[/nation]
+Deputy Councillor - [color=red]Vacant[/color]
 Council Minister - [color=red]Vacant[/color]
 Council Minister - [color=red]Vacant[/color]
 Council Minister - [color=red]Vacant[/color]

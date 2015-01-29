@@ -1,9 +1,7 @@
 [color=navy][b]The Americas[/b][/color]
 
-[color=red]Puppet Storage Region[/color]
-
-[color=teal][b]Associate regions:[/b] [region=Ancient Lands], [region=Richard] &amp;amp; [region=Pacific Union][/color]
-
-[color=blue][b]Status:[/b] (Effective 2015 01 15)
-Total population: 8,917,009,000,000
-Total Nations: 926 (11th largest region)[/color]
+[color=red]Puppet Storage Region[/color][color=teal]
+[spoiler=Alliance]Associate regions: [region=Ancient Lands], [region=Richard] The Americas &amp;amp; [region=Pacific Union][/spoiler][/color][color=blue][spoiler=Status]Status: (Effective 20150128)
+Total Nations: 886 (Ranked 11th)
+Total population: 8,333,271,000,000
+Average Population: 9,405,497,740[/spoiler][/color]

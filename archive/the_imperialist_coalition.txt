@@ -2,9 +2,9 @@
 [i]Founded: January 4, 2015[/i]
 
 [b][u]Imperial Council[/b][/u]
-[color=red][B]Lord Imperator[/color] -- [nation=short]Licstinburg[/nation]
-[color=yellow]Lord Sovereign[/color] -- [nation=short]The World Worker[/nation]
-[color=blue]Lord Chancellor of Internal Affairs[/color] -- [nation=short]Arstotzka Grand[/nation][/B]
+[B]Lord Imperator -- [nation=short]Licstinburg[/nation]
+Lord Sovereign-- [nation=short]The World Worker[/nation]
+Lord Chancellor of Internal Affairs -- [nation=short]Arstotzka Grand[/nation][/B]
 
 [u]Council Advisory Board[/u]
 [b]Erus Humanitas[/b] -- [nation=short]Greater Karthos Empire[/nation]
@@ -18,4 +18,4 @@
 [hr]
 [*]All WA nations are required to endorse our WA Delegate [nation=short]The World Worker[/nation] and our Vice WA Delegate [nation=short]Ocaeania[/nation][/B]
 
-[b]Security Status:[/b] [color=red][b]3 -- HIGH[/color][/b] -- Impending invasion from [region]The Atlas Union[/region]
+[b]Security Status:[/b] [color=purple][b]VERY HIGH (4)[/color][/b] -- Draft is in effect against [region]The Atlas Union[/region]

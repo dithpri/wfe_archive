@@ -1,5 +1,12 @@
-[b]Villach is the second-largest City in the State of Carinthia in the [region]Republic of Austria[/region].
+[b][u]Alliance:[/u] [region]Greater European Federation[/region]
+[u]Politics:[/u] [color=#0000CC]Federal Parliamentary and Constitutional Republics[/color][hr][u]Country:[/u] [region]Republic of Austria[/region]
+[u]State:[/u] Carinthia/Karnten
+[u]City:[/u] [region]Villach[/region][hr][u]Region History:[/u] 
+Villach was briefly held by [nation=short]Die Rote Fahne[/nation] of [region]The Red Fleet[/region] in an act of red terror against the Austrian people.
+[nation=short]GEF Expeditionary Force 5[/nation] was dispatched to Villach to defend the city of the [color=#0000CC]Federal Parliamentary Republic[/color] against all threats.
 
-Previously controlled by [nation=short]Die Rote Fahne[/nation] of [region]The Red Fleet[/region] in an act of red terror against the Austrians.
+[u]Combating:[/u] 
+Right Wing [color=#996600]Fascist[/color], and [color=#996600]Totalitarian[/color] regions
+Left Wing [color=#1F1F0F]Anarchist[/color], [color=#FF3300]Socialist[/color], [color=#FF3300]Anti-Fascist[/color] and [color=red]Communist[/color] regions
 
-[nation=short]GEF Expeditionary Force 5[/nation] of the [region]Greater European Federation[/region] has the watch to prevent the spread of rampant [color=red]Socialism[/color] and [color=red]Communism[/color], and defend the [color=#0000CC]Parliamentary Representative Democracy[/color] against all threats.[/b]
+[/b]

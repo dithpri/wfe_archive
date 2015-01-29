@@ -4,15 +4,14 @@
 
 ORACLE GAME[/b]
 [I]Goal of this version of the game is to achieve as many regions linked together to form a chain as long as possible.
-CURRENTLY: [region=the Icelandic Commonwealth] has [/color][color=800000][b]1536[/b]*[/color][color=navy] Degrees of Separation from [region=B1 Kingdom][/I]
+CURRENTLY: [region=the Icelandic Commonwealth] has [/color][color=800000][b]1539[/b]*[/color][color=navy] Degrees of Separation from [region=B1 Kingdom][/I]
 [spoiler=Oracle Game][url=http://nsdossier.texasregion.net/embassyOracle.aspx]Oracle[/url][/spoiler]
-[spoiler=*Broken Segments][region=the Icelandic Commonwealth] to [region=MI6]: 698
-[region=The Archives] NEW
-[region=State of South Dakota] to [region=Evil Corporation]: 9
-[region=The Nordic Union] and [region=Grand Banks] NEW
-[region=Republic of Belarus] to [region=DaliMark Territorys]: 769
-[region=Funkhouser Traverse] NEW
-[region=Death Smiles] to [region=B1 Kingdom]: 56[/spoiler][/color][color=640000]
+[spoiler=*Broken Segments][region=the Icelandic Commonwealth] to [region=Ryazan]: 395
+[region=Durham] to [region=South Atlantic Islands]: 211
+[region=Norge] to [region=Honduras]: 264
+[region=Primorsky Krai] to [region=Micronesia]: 50
+[region=Volgograd] to [region=Kursk Oblast]: 325
+[region=Bologna] to [region=B1 Kingdom]: 289[/spoiler][/color][color=640000]
 [spoiler=Allied Regions][region=United States of America] ([nation=short]New Falham[/nation]).
 [region=Ancient Lands] ([nation=short]Manitoulin[/nation]).
 [region=Richard], [region=The Americas], [region=Pacific Union] and [region=B1 Kingdom].[/spoiler][/color]

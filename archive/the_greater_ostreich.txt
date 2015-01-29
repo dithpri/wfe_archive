@@ -1,5 +1,12 @@
 [color=scarlet]&amp;quot;In the wake of recent events the Reich has been declared in a state of emergency and martial law is in effect. All civil liberties and powers have been declare void until further notice in all territories of the Fatherland! SEIG HEIL!&amp;quot;
 
-~ Kaiser Wilhelm I of [nation=short]The Deutsch Reich[/nation][/color]
+~ Kaiser Wilhelm I of [nation=short]The Deutsch Reich[/nation][/color][hr]
+[color=scarlet]Kaiser: [nation=short]The Deutsch Reich[/nation]
+Archduke: [nation=short]Kanakaestain[/nation][/color] 
+
+[color=gold]Chancellor: [nation=short]Kulginastan[/nation]
+Minister of Foreign Affairs: [nation=short]Adrian Einwelt[/nation]
+Minister of Domestic Affairs: [nation=short]Southeastern Germany[/nation]
+Minister of War:[/color]
 
 [color=orange]News: Our glorious forces have repelled and attack from [region=the Black Riders][/color]
