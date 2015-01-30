@@ -1,5 +1,11 @@
-[b]Voitsberg is a city in the State of Styria; [region]Republic of Austria[/region].
+[b][u]Alliance:[/u] [region]Greater European Federation[/region]
+[u]Politics:[/u] [color=#0000CC]Federal Parliamentary and Constitutional Republics[/color][hr][u]Country:[/u] [region]Republic of Austria[/region]
+[u]State:[/u] Styria/Steiermark
+[u]City:[/u] [region]Voitsberg[/region][hr][u]Region History:[/u] 
+Voitsberg was briefly held by [color=#996600]Fascist[/color] Nationalsozialistische Volksstaaten in an act of aggression against the Austrian people. 
+[nation=short]GEF Expeditionary Force 21[/nation] was dispatched to Voitsberg to defend the city of the [color=#0000CC]Federal Parliamentary Republic[/color] against all threats.
 
-Previously controlled by [color=#996600]Nazi[/color] Nationalsozialistische Volksstaaten.
-
-The [region]Greater European Federation[/region] deployed [nation=short]GEF Expeditionary Force 21[/nation] to defend the [color=#0000CC]Parliamentary Representative Democracy[/color] against all threats.[/b]
+[u]Combating:[/u] 
+Right Wing [color=#996600]Fascist[/color], and [color=#996600]Totalitarian[/color] regions
+Left Wing [color=#1F1F0F]Anarchist[/color], [color=red]Socialist[/color], [color=red]Anti-Fascist[/color] and [color=red]Communist[/color] regions
+[/b]

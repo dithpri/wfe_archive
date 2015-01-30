@@ -1,5 +1,11 @@
-[b]Leoben is a Styrian city in central [region]Republic of Austria[/region], located by the Mur river. With a population of about 25,000 it is a local industrial center and hosts the University of Leoben which specialises in mining. 
+[b][u]Alliance:[/u] [region]Greater European Federation[/region]
+[u]Politics:[/u] [color=#0000CC]Federal Parliamentary and Constitutional Republics[/color][hr][u]Country:[/u] [region]Republic of Austria[/region]
+[u]State:[/u] Styria/Steiermark
+[u]City:[/u] [region]Leoben[/region][hr][u]Region History:[/u] 
+Leoben was previously uncontrolled 
+[nation=short]GEF Expeditionary Force 19[/nation] was dispatched to Leoben to defend the city of the [color=#0000CC]Federal Parliamentary Republic[/color] against all threats.
 
-Leoben was previously uncontrolled
-
-The [region]Greater European Federation[/region] dispatched [nation=short]GEF Expeditionary Force 19[/nation] to Leoben to defend the [color=#0000CC]Parliamentary Representative Democracy[/color] against all threats.[/b]
+[u]Combating:[/u] 
+Right Wing [color=#996600]Fascist[/color], and [color=#996600]Totalitarian[/color] regions
+Left Wing [color=#1F1F0F]Anarchist[/color], [color=red]Socialist[/color], [color=red]Anti-Fascist[/color] and [color=red]Communist[/color] regions
+[/b]

@@ -1,5 +1,12 @@
-[b]The city of Eisenstadt is the Capital of the State of Burgenland in the [color=#0000CC]Republic of Austria[/color]
+[b][u]Alliance:[/u] [region]Greater European Federation[/region]
+[u]Politics:[/u] [color=#0000CC]Federal Parliamentary and Constitutional Republics[/color][hr][u]Country:[/u] [region]Republic of Austria[/region]
+[u]State:[/u] Burgenland
+[u]City:[/u] [region]Eisenstadt[/region][hr][u]Region History:[/u] 
+Eisenstadt was briefly held by [color=red]Communist[/color] [nation=short]Die Rote Fahne[/nation] from [region]The Red Fleet[/region] in an act of red aggression against the Austrian people. 
+[nation=short]GEF Expeditionary Force 13[/nation] was dispatched to Eisenstadt to defend the city of the [color=#0000CC]Federal Parliamentary Republic[/color] against all threats.
 
-Eisenstadt was previously controlled by [color=red]Communist[/color] [nation=short]Die Rote Fahne[/nation] of [region]The Red Fleet[/region] in an act of [color=red]Red Terror[/color] against the Austrians.
+[u]Combating:[/u] 
+Right Wing [color=#996600]Fascist[/color], and [color=#996600]Totalitarian[/color] regions
+Left Wing [color=#1F1F0F]Anarchist[/color], [color=#FF3300]Socialist[/color], [color=#FF3300]Anti-Fascist[/color] and [color=red]Communist[/color] regions
 
-The [region]Greater European Federation[/region] dispatched [nation=short]GEF Expeditionary Force 13[/nation] to Eisenstadt to prevent the spread of rampant [color=red]Socialism[/color] and [color=red]Communism[/color], and defend the [color=#0000CC]Parliamentary Representative Democracy[/color] against all threats.[/b]
+[/b]

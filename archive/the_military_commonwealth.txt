@@ -1,4 +1,6 @@
-[B]King: [nation=short]The Great European Commonwealth[/nation]
+[B][color=red]PLEASE MOVE YOUR NATION TO [region]Union of Confederate Regions[/region], WE ARE MERGING WITH THEM.[/color]
+
+King: [nation=short]The Great European Commonwealth[/nation]
 WA Delegate/Prime Minister: [nation=short]Theoniatium[/nation]
 
 Minister of Defence: 
