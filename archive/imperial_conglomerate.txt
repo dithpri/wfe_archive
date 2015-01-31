@@ -5,12 +5,10 @@
 [b]High Council:[/b]
 High Councilman || Consul Davis Stryker, [nation=short]Noxium State[/nation]
 Councilman || Tomislav Bukovski, [nation=short]xacor[/nation]
-Councilman || Morathi, [nation=short]Ghrond[/nation]
 
-[b]General Assembly:[/b]
-President || (TO BE ELECTED)
-Senator of Foreign Affairs || [nation=short]ellens[/nation]
-Senator of Security and Intelligence || (TO BE ELECTED)
+[b]Departments/Divisions:[/b]
+Ministry of Internal Affairs || [nation=short]ellens[/nation]
+Department of Oversight || Lord Kr, [nation=small]kr-hai[/nation]
 [hr]
 
 [b]Legislations:[/b]

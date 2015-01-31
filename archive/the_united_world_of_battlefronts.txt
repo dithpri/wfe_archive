@@ -14,7 +14,7 @@ UWB Regional Council:
 [nation=short]Kheon[/nation]
 [nation=short]Brigli[/nation][/b]
 [hr]
-[b][color=red]Endorsement Cap = 2[/color][/b]
+[b][color=red]Endorsement Cap = 3[/color][/b]
 [hr]
 [b][color=darkblue]Quote of the Week: &amp;quot;Who controls the past controls the future. Who controls the present controls the past.&amp;quot; -George Orwell[/color][/b]
 [hr]

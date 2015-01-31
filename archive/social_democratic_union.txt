@@ -1,5 +1,10 @@
-[b]The [region]Greater European Federation[/region] dispatched [nation=short]Terror Containment Force 2[/nation] to destroy the Social Democratic Union, and prevent resurgence of [color=red]Red Aggression[/color]
+[b][u]Alliance:[/u] [region]Greater European Federation[/region]
+[u]Politics:[/u] [color=#0000CC]Federal Parliamentary and Constitutional Republics[/color][hr][u]Agency:[/u] Social Democratic Union
+[hr][u]Region History:[/u] 
+Social Democratic Union was briefly held by [color=red]Communist[/color] The Social Democratic Union and affiliated with Socialist International.
+[nation=short]Terror Containment Force 2[/nation] was dispatched to destroy the [color=red]Social Democratic Union[/color] and prevent a resurgence of terrorist activity.
 
-Formerly founded by [color=red]Communist[/color] The Social Democratic Union and affiliated with Socialist International.
-The Party of European Socialists (PES), a major European political party, is an associated organisation of the The Socialist International which was formed in Frankfurt in July 1951 as a successor to the Labour and Socialist International. Red Thought must be stopped at all costs.
+[u]Combating:[/u] 
+Right Wing [color=#996600]Fascist[/color], and [color=#996600]Totalitarian[/color] regions
+Left Wing [color=#1F1F0F]Anarchist[/color], [color=red]Socialist[/color], [color=red]Anti-Fascist[/color] and [color=red]Communist[/color] regions
 [/b]

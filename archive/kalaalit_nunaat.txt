@@ -1,9 +1,13 @@
-[color=red][b] This land is now under control by [/b][/color] [region]The rebel forces of Havenbrooke[/region]
+[b][color=#000061]Huzzah! Huzzah! Huzzah! This region proved no match for a charge by [region=The Black Riders]![/color]
 
-[color=red] Nations who assisted in the raid [/color]
-[nation] the spectacularly amazing [/nation]
-[nation] eragonian reborn [/nation]
+[color=black]Occupied by [url=http://www.youtube.com/watch?v=qB1kp9adYYE]The Black Riders[/url]! Our lair can be found [/color] [url=http://s4.zetaboards.com/The_Black_Riders/index/]here[/url]
 
-[color=red]Check out our Region&amp;#39;s theme song![/color]:http://m.youtube.com/watch?v=UFgdte8JKI0 
-
-[color=green] If you wish to assist in our raids please contact the current delegate of [/color] [region]The rebel forces of Havenbrooke[/region] [color=green] We welcome all! [/color]
+[color=#000061]Into the battle rode the following riders:[/color]
+[nation=short]Kknight[/nation]
+[nation=short]Bob Moran[/nation]
+[nation=short]Ridersyl[/nation]
+[nation=short]Vandoosa[/nation]
+[nation=short]Victor Savage[/nation]
+[nation=short]Hired Contractor[/nation]
+[nation=short]Corvus Corax[/nation]
+[/b]

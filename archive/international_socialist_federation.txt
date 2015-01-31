@@ -1,9 +1,10 @@
-[b]The [region]Greater European Federation[/region] dispatched [nation=short]Terror Containment Force 7[/nation] to destroy the International Socialist Federation, and prevent resurgence of Red Aggression
-
-Formerly founded by [color=red]Socialist[/color] Xaraian
+[b][u]Alliance:[/u] [region]Greater European Federation[/region]
+[u]Politics:[/u] [color=#0000CC]Federal Parliamentary and Constitutional Republics[/color][hr][u]Agency:[/u] International Socialist Federation
+[hr][u]Region History:[/u] 
+International Socialist Federation was briefly held by [color=red]Socialist[/color] Xaraian
+[nation=short]Terror Containment Force 7[/nation] was dispatched to destroy the [color=red]International Socialist Federation[/color] and prevent a resurgence of terrorist activity.
 
 [u]Combating:[/u] 
 Right Wing [color=#996600]Fascist[/color], and [color=#996600]Totalitarian[/color] regions
 Left Wing [color=#1F1F0F]Anarchist[/color], [color=red]Socialist[/color], [color=red]Anti-Fascist[/color] and [color=red]Communist[/color] regions
-
 [/b]

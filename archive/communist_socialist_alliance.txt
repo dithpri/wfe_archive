@@ -1,4 +1,10 @@
-[b]The [region]Greater European Federation[/region] dispatched [nation=short]Terror Containment Force 1[/nation] to destroy the Communist Socialist Alliance, and prevent resurgence of [color=red]Red Aggression[/color]
+[b][u]Alliance:[/u] [region]Greater European Federation[/region]
+[u]Politics:[/u] [color=#0000CC]Federal Parliamentary and Constitutional Republics[/color][hr][u]Agency:[/u] Communist Socialist Alliance
+[hr][u]Region History:[/u] 
+Communist Socialist Alliance was briefly held by  [color=red]Communist[/color] [nation]Top Marx Again[/nation] of [region]The Internationale[/region]
+[nation=short]Terror Containment Force 1[/nation] was dispatched to destroy the [color=red]Communist Socialist Alliance[/color] and prevent a resurgence of terrorist activity.
 
-Formerly founded by [color=red]Communist[/color] [nation]Top Marx Again[/nation] of [region]The Internationale[/region]
+[u]Combating:[/u] 
+Right Wing [color=#996600]Fascist[/color], and [color=#996600]Totalitarian[/color] regions
+Left Wing [color=#1F1F0F]Anarchist[/color], [color=red]Socialist[/color], [color=red]Anti-Fascist[/color] and [color=red]Communist[/color] regions
 [/b]

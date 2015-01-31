@@ -1,12 +1,16 @@
 [i]One Brotherhood Dedicated To Unity And Charity, With Honor[/i]
 
-[b]Government[/b]
-Imperial Senators:
+[u]Imperial Senate:[/u]
 * Speaker of the Senate - vacant, awaiting executive and/or legislative initiative
 * Senator
 * Senator
 * Senator
 * Senator
-
-Executive:
-* Acting Head of States - [nation]New Rappelberg[/nation]
+____________________________________________________________
+[u]Emperor (Executive Branch):[/u]
+* Acting Head of State - [nation]New Rappelberg[/nation]
+____________________________________________________________
+[u]Legislation:[/u]
+Senate Resolution 1 - Senate Reform Bill
+Status: [color=blue]PASSED BY UNANIMOUS VOTE[/color]
+In an effort to stabilize the Gaullian Empire, it is hereby proposed that the position of Speaker of the Senate, having been duly appointed by the executive, and confirmed by 3/5 majority in the Senate, shall maintain and regulate Senate procedure.

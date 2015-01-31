@@ -14,4 +14,4 @@ TNI Division Commander: Major-General [nation=short+noflag]Ugnar[/nation]
 LKE Division Commander: Major-General [nation=short+noflag]Akillian[/nation]
 Albion Division Commander: Major-General [nation=short+noflag]Consular[/nation]
 
-Adjutant Commanders: Brigadier Brigadier [nation=short+noflag]MagentaFairy[/nation], Brigadier [nation=short+noflag]Cephal Talleyrand[/nation] &amp;amp; Brigadier [nation=short+noflag]Pixie Noir[/nation]
+Adjutant Commanders: Brigadier [nation=short+noflag]MagentaFairy[/nation], Brigadier [nation=short+noflag]Cephal Talleyrand[/nation] &amp;amp; Brigadier [nation=short+noflag]Pixie Noir[/nation]

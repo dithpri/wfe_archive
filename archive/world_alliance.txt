@@ -7,10 +7,10 @@
 [Url=http://worldalliance.postalboard.com/t557-incumbent-tenth-wa-security-council#22066][color=gold][b]The SECURITY COUNCIL[/b][/color][/url]
 
 [b]+ President[/b] : [nation=short]great eurussia[/nation]
-[b]+ Vice President[/b] : 
+[b]+ Vice President[/b] : [nation=short]scouting[/nation] 
 
 [b]+ Member for Asia[/b] : [nation=short]china_china[/nation] 
-[b]+ Member for Iberia[/b] : [nation=short]scouting[/nation] 
+[b]+ Member for Iberia[/b] : 
 [b]+ Member for Arcadia[/b] : [nation=short]new_rhodinia[/nation] 
 [b]+ Member for Atlantis[/b] : [nation=short]the_great_empire_of_soviet_russia[/nation]
 [b]+ Member for Oceania[/b] : 

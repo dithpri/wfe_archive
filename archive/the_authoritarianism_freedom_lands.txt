@@ -1,19 +1,10 @@
-[b][color=red]Welcome to, United Sovereign Republics of Barbradoishetar![/color][/b]
+If you didn&amp;#39;t know, The Black Riders Raided our region. Due to this, I am making the delegate non-executive.
 
-[b]Regional Authoritarianist Government:[/b]
+Dictator:[nation]Hentar[/nation]
+Dictator Advisor:[Nation]Weapons and War[/nation]
 
-[color=blue]Dictator:[/color][nation]Hentar[/nation]
-[color=red]Dictatorial Adviser:[/color][nation]Weapons and War[/nation]
+Second in Command:[nation]The Barbradian Republic[/nation]
+Second in Command Advisor:
 
-[color=purple]Second in Command:[/color][nation]The Barbradian Republic[/nation]
-[color=orange]Second in Command Adviser:[/color]
-
-[b]Ambassadors and Ministers:[/b]
-[color=blue]Minister of Trade:[/color]
-[color=orange]Minister of Science:[/color]
-[color=red]Minister of War:[/color][nation]Khaz Modan Dwarves[/nation]
-[color=black]minister of Environment:[/color]
-
-[color=red]House of Lords:[/color]
-[nation]The Grand Kingdom of Gilneas[/nation]
+House of Lords:
 [nation]Commonwealth of Hank the Cat[/nation]
