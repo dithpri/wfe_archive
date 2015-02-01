@@ -6,7 +6,7 @@ Minister of Foreign Affairs:
 Minister of Recruitment: [nation]Tysoania[/nation]
 Minister of Internal Affairs:
 Minister of Justice:
-Minister of Defence: [nation]Geo chorus[/nation] SUSPENDED
+Minister of Defence: [nation]Geo chorus[/nation]
 
 PLANNED
 
