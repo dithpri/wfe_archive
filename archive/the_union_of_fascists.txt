@@ -4,10 +4,7 @@
 
 [b]{[url=https://www.youtube.com/watch?v=ClhwXLxP5kQ]Regional Anthem[/url]}[/b]
 
-[color=maroon][b]Bonum Commune Communitatis[/b][/color]
-
-
-[u][b]Regional Government:[/b][/u]
+[color=maroon][b]Regional Government:[/b][/color]
 
 [b]Emperor:[/b] [nation]British Fascist Empire[/nation]
 [b]Regional Governor:[/b] [nation]Arnoria[/nation]
@@ -15,3 +12,5 @@
 [b]Minister for Diplomacy:[/b] [nation]Great Britain and Oceania[/nation]
 [b]Minister for Education:[/b] [nation]Hurgera[/nation]
 [b]Minister for Law:[/b] [nation]Australasian Restoration Cooperative[/nation]
+
+[b]Defcon: [color=blue]1[/b][/color]

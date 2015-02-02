@@ -1,15 +1,16 @@
 The Mediterranean Union was first formed in 2004 and is an economic and political union between member states that are located primarily within the vicinity of the Mediterranean Basin. This region will operate through a system of supranational institutions and inter-governmental decisions by member states.
 
+[b][u]Provisional Government[/u][/b]
 [B]CABINET:[/B]
-Lord Chancellor-General (delegate): [i]vacant[/i]
-Lord Constable General: [i]vacant[/i]
-Lord War Master-General: [i]vacant[/i]
+Lord Chancellor-General: [nation=short]The Republic of Venice[/nation]
+Lord Constable General: [nation=short]Piedmont Sardinia[/nation]
+Lord War Master-General: [nation=short]Napoleonic Europe[/nation]
 
 [B]SUPREME COURT:[/B]
-Lord Magistrate-General: [i]vacant[/i]
+Lord Magistrate-General: [nation=short]European Council[/nation]
 
 [B]PRESIDIUM:[/B]
-Presidium of the Union Presidium: [i]vacant[/i]
+Presidium of the Union Presidium: [nation=short]The Catalan Republic[/nation]
 
 
 

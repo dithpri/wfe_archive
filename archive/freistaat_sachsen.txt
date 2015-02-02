@@ -1,5 +1,15 @@
-[b]Freistaat Sachsen is one of the sixteen States of the Federal Republic of Germany.
-
+[b][u]Alliance:[/u] [region]Greater European Federation[/region]
+[u]Politics:[/u] [color=#0000CC]Federal Parliamentary and Constitutional Republics[/color][hr][u]Country:[/u] Federal Republic of Germany
+[u]State:[/u] [region]Free State of Saxony[/region]/[region]Freistaat Sachsen[/region][hr][u]Region History:[/u] 
 Freistaat Sachsen was previously uncontrolled.
 
-The [region]Greater European Federation[/region] dispatched [nation=short]GEF Expeditionary Force 31[/nation] to Freistaat Sachsen to defend this State of the [color=#0000CC]Federal Parliamentary Republic[/color] against all threats.[/b]
+The [region]Greater European Federation[/region] dispatched [nation=short]GEF Expeditionary Force 31[/nation] to [region]Freistaat Sachsen[/region]
+
+Free State of Saxony was previously uncontrolled.
+
+The Greater European Federation dispatched [nation=short]GEF Expeditionary Force 34[/nation] to [region]Free State of Saxony[/region]
+
+[u]Combating:[/u] 
+Right Wing [color=#996600]Fascist[/color], and [color=#996600]Totalitarian[/color] regions
+Left Wing [color=#1F1F0F]Anarchist[/color], [color=red]Socialist[/color], [color=red]Anti-Fascist[/color] and [color=red]Communist[/color] regions
+[/b]

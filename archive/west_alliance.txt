@@ -1,11 +1,12 @@
 [color=darkblue][b]West Alliance[/b]
 
-Associated Region: [region]BND[/region]
+Associated Regions: [region=BND] and [region=United States of America]
 
-[i]I will be accepting embassy offers. If any sent, I will accept them.[/i][/color]
+[i]Embassies will not be accepted.[/i][/color]
 
 [color=blue]Puppet Storage Region[/color]
 
 [color=darkblue]Status: (Effective 2015 01 27)
 Total population: 43,039,000,000
 Total Nations: 19 (629th largest region)[/color]
+[color=grey]a BND/DBA/RHW alliance region[/color]

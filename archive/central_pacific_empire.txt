@@ -14,7 +14,7 @@
 
 [hr][b][u]JUDICIARY[/u][/b]
 [b]Supreme Judge[/b]: [nation=shortname]Allied Engineers[/nation]
-[b]Regional Judges[/b]: [nation=shortname]Love Island[/nation] and [nation=shortname]Cesare Monticello[/nation]
+[b]Regional Judges[/b]: [nation=shortname]Love Island[/nation] and [nation=shortname]Centralton[/nation]
 
 [hr][b][u]CAPITAL CITY[/u][/b]
 [nation=shortname]Emperor Islands Capital City[/nation], Governor, [nation=shortname]Cliffton[/nation]

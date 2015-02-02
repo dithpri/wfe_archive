@@ -1,12 +1,12 @@
-[color=green][b] WELCOME TO THE FREE REGION OF MINECRAFTIA[/b][/color]
+[color=green] WELCOME TO THE FREE REGION OF MINECRAFTIA[/b][/color]
 
-[b]President: [nation]Houstion[/nation]
+President: [nation]The_United_Cities_of_Minecraft[/nation]
 
-Monarch/Vice President: [nation]The_United_Cities_of_Minecraft[/nation][/b]
+Monarch/Vice President: Voting
 
-[color=red][i]Secretary of Presidents: Voting
+[color=red][i]Secretary of Presidents: [nation]Houstion[/nation]
 
-Secretary of War: Voting 
+Secretary of War: [Nation]Houstion[/nation]
  
 Secretary of Navy: Voting
 

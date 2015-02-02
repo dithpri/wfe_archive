@@ -1,10 +1,1 @@
-[Color=Red]You have been captured by [region]The Rebel Forces of Havenbrooke[/region]![/color]
-
-[B]The Following regions aided in this invasion[/b]
-[Nation]Oakenfield[/nation]
-[nation]The propane gas of the propane tank[/nation]
-[Nation]the binarian empire[/nation]
-[Nation]Pleutonia[/nation]
-
-
-[color=red] We welcome any natives of the region to ours! If you wish to join please contact the current delegate or founder of our region! [/color]
+[color=darkred]T[/color][color=red]h[/color][color=yellow]i[/color][color=orange]s[/color] [color=green]c[/color][color=blue]o[/color][color=darkblue]a[/color][color=purple]l[/color] [color=darkred]i[/color][color=red]s[/color] [color=yellow]o[/color][color=orange]n[/color] [color=green]f[/color][color=blue]i[/color][color=darkblue]r[/color][color=purple]e[/color]
