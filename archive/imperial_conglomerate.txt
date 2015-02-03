@@ -1,12 +1,11 @@
-[b]Imperial Conglomerate Senate[/b]
-
+In compliance with the Imperial Reformation Directive of 2015 all non-executive staff of the Imperial Conglomerate Senate are to be terminated.
+Refer to: [url=http://www.nationstates.net/page=dispatch/id=363008] Imperial Reformation Directive 2015[/url]
 [hr]
 
-[b]High Council:[/b]
-High Councilman || Consul Davis Stryker, [nation=short]Noxium State[/nation]
-Councilman || Tomislav Bukovski, [nation=short]xacor[/nation]
+[b]Administrative Board:[/b]
+High Administrator || Consul Davis Stryker, [nation=short]Noxium State[/nation]
+administrator || Tomislav Bukovski, [nation=short]xacor[/nation]
 
-[b]Departments/Divisions:[/b]
 Ministry of Internal Affairs || [nation=short]ellens[/nation]
 Department of Oversight || Lord Kr, [nation=small]kr-hai[/nation]
 [hr]
@@ -18,7 +17,3 @@ Department of Oversight || Lord Kr, [nation=small]kr-hai[/nation]
 
 [b]Procedures/Directives:[/b]
 [url=https://www.nationstates.net/page=dispatch/id=319187]Bio-Defence Directive[/url]
-
-[hr]
-
-[b]This region page makes full use of the [url=http://forum.nationstates.net/viewtopic.php?f=15&amp;amp;t=269464]NationStates++[/url] browser addon.[/b]

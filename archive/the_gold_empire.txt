@@ -1,33 +1,9 @@
-[u][b][color=Blue]The Gold Empire[/color][/b][/u]
-[color=#03C6FF]This region was founded November 13, 2014 at 8:01 PM CT.[/color]
+[b][color=#000061]Huzzah! Huzzah! Huzzah! This region proved no match for a charge by [region=The Black Riders]![/color]
 
+[color=black]Occupied by [url=http://www.youtube.com/watch?v=qB1kp9adYYE]The Black Riders[/url]! Our lair can be found [/color] [url=http://s4.zetaboards.com/The_Black_Riders/index/]here[/url]
 
-[color=#4099FF]
-[b]Information[/b]
-Founder: [nation=Galvin Islands]
-WA Delegate: [nation]Ugir[/nation]
-Vice Delegate: [nation=Goddodin]
-
-[u]Government[/u]
-Prime Minister: [nation=Arztokia]
-
-[i]Committee of War[/i]
-Minister of War: [nation=the Carnivorous Trees]
-Minister of Defense: [nation=Ugir]
-
-[i]Committee of Foreign Affairs[/i]
-Minister of Diplomacy: [nation=Goddodin]
-Minister of Recruitment: [nation=Galvin Land]
-
-[i]Committee of Internal Affairs[/i]
-Minister of Safety: [nation=Pajek]
-Minister of Information: [nation=the United Capitalist people]
-[/color]
-
-[b]REGION SAFETY LEVEL: [color=Orange]Warning[/color][/b]
-The safety levels are:
-[color=Green]Excellent[/color]
-[color=#59db26]Good[/color]
-[color=#b4d022]Fair[/color]
-[color=Orange]Warning[/color]
-[color=Red]Danger[/color]
+[color=#000061]Into the battle rode the following riders:[/color]
+[nation=short]KKnight[/nation][/b]
+[b][nation=short]Victor Savage[/nation][/b]
+[b][nation=short]Vandoosa[/nation][/b]
+[b][nation=short]Corvus Corax[/nation][/b]

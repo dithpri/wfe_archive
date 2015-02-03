@@ -11,4 +11,5 @@ AmbassadorIII:[nation][/nation][/color]
 
 [color=gray]Storage area-[region]Crimsonalliancepuppetstorage[/region]
 RP-[region]CrimsonAlliance[/region](talk through embassy)
-Debates-[region]CrimsonDawn[/region][/color]
+Debates-[region]CrimsonHallofDebate[/region]
+Military-[/color][region]Protector Military Command[/region]
