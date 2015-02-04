@@ -8,7 +8,7 @@ Education: [nation=short]Republic of Guadalajara[/nation]
 Environment: [nation=short]United Solcialist States of Jakeopia[/nation]
 Foreign Affairs: [nation=short]Sandwich Territories[/nation]
 Human Rights: [nation=short]Hackleberry Islands[/nation]
-Law Enforcement: [i]Unfilled position[/i]
+Law Enforcement: [i]Accepting Applications: Telegram [nation=short]Vinco[/nation][/i]
 
 [color=green][b]CHAIRMEN[/b][/color]
 Kennan Regional Council: [nation=short]Hackleberry Islands[/nation]
@@ -17,5 +17,8 @@ Kennan Recruitment Program: [nation=short]Sandwich Territories[/nation]
 
 [color=green][b]UPDATES[/b][/color]
 [list]
-[*][b][url=http://goo.gl/S5Nco2]Unity Island Diplomacy Roleplay[/url][/b] (1/29/15)
+[*][url=http://goo.gl/VWohtu]Resolution #98: Campaigning Scheduling[/url] is up for voting. (2/3/2015)
+[*][url=http://goo.gl/VVt3Lr]Resolution #97: Offsite Forum Elections[/url] is up for voting. (2/3/2015)
+[*][url=http://goo.gl/iHMDvz]Resolution #96: Kennan Secretary Council Reformation[/url] is up for voting. (2/3/2015)
+[*][url=http://goo.gl/S5Nco2]Unity Island Diplomacy Roleplay[/url] (1/29/15)
 [/list]

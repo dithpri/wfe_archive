@@ -3,10 +3,15 @@
 [color=blue]
 Council:
 Head Councilor: Lex Castillo, [nation]Flattnerk[/nation]
-Councilor: Francis Underwood, [nation]the republic rome[/nation]
+Councilor: Devon Miles, [nation]the united remnants of america[/nation]
 Councilor: Kim Sung Un, [nation]the New Communist Order[/nation]
 Councilor: Pyotr Shavik, [nation]the anean tribes[/nation]
 Councilor: Delegate, [nation]kares[/nation]
+
+Justice Court:
+Justice: Simon Jon Paterson, [nation]Woolwark[/nation]
+Justice: [nation]the republic rome[/nation]
+Justice: [nation]magania[/nation]
 
 [/color]
 [color=maroon]Message of the Day: What have I logged into?![/color]

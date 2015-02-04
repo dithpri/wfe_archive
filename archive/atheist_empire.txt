@@ -18,6 +18,6 @@
 [nation=short]Freya Crescent[/nation]
 [nation=short]Corvus Corax[/nation]
 
-We&amp;#39;d like to thank [region]The Black Hawks[/region], [region]The Association of Imperialism[/region], [region=The United Imperial Armed Forces] and [region]Ceirien[/region] for their support.
-
+[hr] Thanks to: [region]Ceirien[/region], [region]The Black Hawks[/region], [region]The Association of Imperialism[/region], [region=The United Imperial Armed Forces], [region=Madrigal], and [region=The North American Union][hr]
+ 
 [/b]

@@ -1,8 +1,8 @@
 [color=green] WELCOME TO THE FREE REGION OF MINECRAFTIA[/b][/color]
 
-President: [nation]The_United_Cities_of_Minecraft[/nation]
+[color=orange]President: [nation]The_United_Cities_of_Minecraft[/nation][/color]
 
-Monarch/Vice President: Voting
+[color=purple]Vice President: Voting[/color]
 
 [color=red][i]Secretary of Presidents: [nation]Houstion[/nation]
 

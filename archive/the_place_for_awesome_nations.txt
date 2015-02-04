@@ -4,12 +4,14 @@
 [hr]
 Check this out! http://www.nationstates.net/page=challenge
 [hr]
-[color=red]To apply for or create a position in the regional government telegram [/color][nation=short+noflag]Abust1[/nation].
+[b][color=green]Endorse [nation=short]Zangrol[/nation]![/b][/color]
+[hr]
+[color=red]To apply for or create a position in the regional government telegram [/color][nation=short]Abust1[/nation].
 
-[b]Founder:[nation=short+noflag]Abust1[/nation]
+[b]Founder:[nation=short]Abust1[/nation]
 Recruiter:
 Minister of Defense:
 WA Delegate:
 Raiding Commander:
-Knights:[/b][hr]
+Knights:[nation=short]Bokatoo[/nation],[/b][hr]
 [b][color=green]Read the The Place For Awesome Nations constitution![/b][/color] If you would like to add or change the constitution, telegram [nation=short+noflag]Abust1[/nation].

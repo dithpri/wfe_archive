@@ -4,7 +4,7 @@
 
 ORACLE GAME[/b]
 [I]Goal of this version of the game is to achieve as many regions linked together to form a chain as long as possible.
-CURRENTLY: [region=the Icelandic Commonwealth] has [/color][color=800000][b]1539[/b][/color][color=navy] Degrees of Separation from [region=B1 Kingdom][/I]
+CURRENTLY: [region=the Icelandic Commonwealth] has [/color][color=800000][b]1540[/b][/color][color=navy] Degrees of Separation from [region=B1 Kingdom][/I]
 [spoiler=Oracle Game][url=http://nsdossier.texasregion.net/embassyOracle.aspx]Oracle[/url][/spoiler]
 [spoiler=*Broken Segments]Embassy closures are now done after the connecting new embassies are accepted, requiring 7 days instead of just 3 days 12 hours when both closing and accepting could be done at one time.[/spoiler][spoiler=Allied Regions][region=United States of America] ([nation=short]New Falham[/nation]).
 [region=Ancient Lands] ([nation=short]Manitoulin[/nation]).
