@@ -7,10 +7,9 @@ Minister of Recruitment: [nation]Tysoania[/nation]
 Minister of Internal Affairs:
 Minister of Justice:
 Minister of Defence: [nation]Geo chorus[/nation]
-
+Editors of the Sentinel: [nation]Monos[/nation], [nation]Geo chorus[/nation]
 PLANNED
 
-Newspaper
 Regional Archives
 Elections
 Constitution

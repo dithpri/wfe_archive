@@ -1,16 +1,1 @@
-This is the Rebel Alliance, a region that was recently founded. Here are the leaders of the government:
-
-[color=gray]Leader of the Imperials: [nation]UrsaWithBears[/nation][/color]
-[color=gray]Imperial Senate:
- - [nation]Swedhen[/nation]
- - [nation]Kothlis[/nation]
-[/color][color=red]Leader of the Rebels: [nation]Yavin 3[/nation][/color]
-[color=red]Rebel Delegates:
- - [nation]Grey Lotuses[/nation]
- - [nation]North Thuggington[/nation]
-[/color]
-[color=blue]Centralist Chief: TBA
- - Overseer: TBA
- - Treasurer: TBA
- - Relations Adviser: TBA
-[/color]
+  

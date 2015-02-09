@@ -8,16 +8,18 @@
 
 [B]Founder:[/B] [nation=short]Icarus Administration[/nation]
 
-[B]Delegate:[/B] [nation=short]Basseemia[/nation]
+[B]President:[/B] [nation=short]Basseemia[/nation]
 
 [B]Legislature:[/B]
-[list]Senator: To Be Decided
-Senator: To Be Decided
-Senator: To Be Decided
-Senator: To Be Decided
+[list]Senator: [nation=short]Eleision[/nation]
+Senator: [nation=short]Lyrasona[/nation]
+Senator: [nation=short]Kelvaros Prime[/nation]
+Senator: [nation=short]Amareval[/nation]
 Senator: To Be Decided[/list]
 
 [B]Judicial Committee:[/B]
 [list]1. To Be Decided
 2. To Be Decided
 3. To Be Decided[/list]
+
+[B]*PSA: ICARUS IS A REGION OF FREE SPEECH BUT BE RESPECTFUL TOWARDS PEOPLE IF YOURE GOING TO MAKE A JOKE OF SOMETHING WHICH IS A SENSITIVE TOPIC. THANK YOU.[/B]

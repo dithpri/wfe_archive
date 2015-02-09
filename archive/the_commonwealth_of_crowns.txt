@@ -11,14 +11,12 @@ Lord High Commander:[nation=short]La Libera[/nation]
 [hr]
 [b]XX Cabinet[/b]
 Minister(Foreign Affairs):[nation=short]Jackonia[/nation]
-Minister(Culture): [nation=short]Kin Jidai[/nation]
+Minister(Culture): TBA
 Minister(Interior):[nation=short]The Antarctica Territories[/nation]
 Minister(Finance):[nation=short]BORDURIAA[/nation]
 
-[b]XX High Court:[/b]
-Chief Justice: [nation=short]Wyethalania[/nation]
-Justice1: TBD
-Justice2: TBD
+[b]High Court[/b]
+Please contact REC members for appointment
 
 [b]Regional Departments[/b]
 Cartographer: [nation=short]Herzangia[/nation]

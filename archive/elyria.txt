@@ -1,8 +1,19 @@
-[color=steelblue]Princep: [nation]Eddoren[/nation]
-Consul: 
-Prelate: [nation]Aravea[/nation]
-Foreign Affairs;
+Princep: [nation]Eddoren[/nation]
+Consul: [nation]Allied Connurist States[/nation]
+Prelate: [nation]Deian Salazar[/nation]
+Foreign Affairs: [nation]Aravea[/nation]
 Defense: 
-Interior: [nation]Allied Connurist States[/nation]
+Interior: 
 RP:
+
+High Justicar: [nation]Aravea[/nation]
+Arbiter: 
+Arbiter:
+Arbiter:
+Arbiter:
+
+Senator: [nation]Thronus[/nation]
+Senator: [nation]The Swarmind[/nation]
+Senator: [nation]Dawn Haven[/nation]
+Senator: [nation]Patrick OConner[/nation]
 

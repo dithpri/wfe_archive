@@ -1,9 +1,13 @@
 [b][u]The United Karthasville Ministry[/u][/b]
 
-[color=red][b]President:[/b][/color] [nation]The Kathisville overseas territories[/nation]
-[color=blue][b]Second in Command:[/b][/color] [nation]Zapharus Inc[/nation]
-[color=VeryDarkgreen]Minister of Commerce: [nation]Zapharus Inc[/nation][/color]
-[color=VeryDarkgreen]Minister of War: [nation]Black Blade Union[/nation][/color]
-[color=VeryDarkgreen]Minister of Culture: [nation]Yugobertia[/nation][/color]
-[color=VeryDarkgreen]Minister of Religion: [nation]The Third Atheist Reich[/nation][/color]
-[color=VeryDarkgreen]Minister of Sanitation:[nation]Detroit life[/nation][/color]
+(*= Position Grants Vote On Civil Council)
+(**= Position Grants Vote On War Council and Civil Council)
+
+**[color=red][b]President:[/b][/color] [nation]The Kathisville overseas territories[/nation]
+**[color=blue][b]Second in Command:[/b][/color] [nation]Zapharus Inc[/nation]
+*[color=VeryDarkgreen]Minister of Commerce:[/color] [nation]Zapharus Inc[/nation]
+**[color=VeryDarkgreen]Minister of War:[/color] [nation]Black Blade Union[/nation]
+*[color=VeryDarkgreen]Minister of Culture:[/color] [nation]Yugobertia[/nation]
+*[color=VeryDarkgreen]Minister of Religion:[/color] [nation]The Third Atheist Reich[/nation]
+*[color=VeryDarkgreen]Minister of Sanitation:[/color] [nation]Detroit life[/nation]
+[color=VeryDarkgreen]Minister of Sarcasm:[/color] [nation]Tevun[/nation]

@@ -18,4 +18,4 @@ Lord Chancellor of Internal Affairs -- [nation=short]Arstotzka Grand[/nation][/B
 [hr]
 [*]All WA nations are required to endorse our WA Delegate [nation=short]The World Worker[/nation] and our Vice WA Delegate [nation=short]Ocaeania[/nation][/B]
 
-[b]Security Status:[/b] [color=purple][b]VERY HIGH (4)[/color][/b] -- Draft is in effect against [region]The Atlas Union[/region]
+[b]DEFCON:[/b] [color=green][b]Low (1)[/color][/b] -- War against [region]The Atlas Union[/region] is over.

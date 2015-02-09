@@ -18,17 +18,12 @@
 
 [b]President: [nation=short]Altoma[/nation]
 Vice President: [nation=short]Fillash[/nation]
-Admiral of Starfleet: [nation=short]The Vulcan Science Academy[/nation][/b]
+The Cabinet: [url=http://www.nationstates.net/nation=the_vulcan_science_academy/detail=factbook/id=365872]Link[/url][/b]
 
 [b][color=green]The Council:[/b][/color]
 
-[b][nation=short]Dunmeria[/nation]|[nation=short]Queen Amidala[/nation]|[nation=short]Diyel Grandiose[/nation]|[nation=short]The Klingon High Council[/nation][/b]
+[b][nation=short]Dunmeria[/nation]|[nation=short]Queen Amidala[/nation]|[nation=short]Diyel Grandiose[/nation]|[nation=short]The Klingon High Council[/nation][/b]|[nation=short]Anonymous Proxy[/nation]|
 
 [b][color=green]The Supreme Court:[/b][/color]
 
 [b]Not In Session[/b]
-
-
-[b][color=green]Chief of Security:[/b][/color]
-
-[b][nation=short]Ancient Humans[/nation][/b]

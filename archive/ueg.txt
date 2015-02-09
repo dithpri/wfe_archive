@@ -1,4 +1,4 @@
-[color=gold]UEG MEMBERS[/color]
-[color=silver]President:[/color] 
-[color=brass]Senate:[/color]
-[color=grey]Other Members:[/color][nation=short]Milkolopilis[/nation][nation=short]Falconmont[/nation][nation=short]Alegeharia[/nation][nation=short]Sith assassins[/nation][nation=short]Jereathiel of Jedmathia[/nation]
+[colour=gold]UEG MEMBERS[/colour]
+[colour=silver]President:[/colour][nation=short]Falconmont[/nation]
+[colour=brass]Senate:[/colour][nation=short]Alegeharia[/nation][nation=short]Jereathiel of Jedmathia[/nation][nation=short]Scivonia[/nation]
+[colour=grey]Other Members:[/colour]

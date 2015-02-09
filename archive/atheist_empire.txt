@@ -17,7 +17,7 @@
 [nation=short]Dypiv[/nation]
 [nation=short]Freya Crescent[/nation]
 [nation=short]Corvus Corax[/nation]
-
-[hr] Thanks to: [region]Ceirien[/region], [region]The Black Hawks[/region], [region]The Association of Imperialism[/region], [region=The United Imperial Armed Forces], [region=Madrigal], and [region=The North American Union][hr]
+[nation=short]Talidania[/nation]
+[hr] Thanks to: [region]Ceirien[/region], [region]The Black Hawks[/region], [region=The United Imperial Armed Forces], [region=Madrigal], and [region=The North American Union][hr]
  
 [/b]

@@ -13,7 +13,6 @@
 
 [url=/nation=belakras][color=cc0000]Byelokrasniyan SR[/color][/url]
 [url=/nation=chobenia][color=cc0000]Choban SR[/color][/url]
-[url=/nation=hayasten][color=cc0000]Hayasteni SR[/color][/url]
 [url=/nation=navedia][color=cc0000]Navedian SR[/color][/url]
 [url=/nation=pribaltika][color=cc0000]Pribaltikan SR[/color][/url]
 [url=/nation=ruapekapeka][color=cc0000]Ruapekapekan SR[/color][/url]
@@ -25,10 +24,10 @@
 [hr]
 
 [spoiler=[color=blue][b]Nation Comparisons[/b][/color]][color=00cc00][b]Unaffiliated Nations[/b][/color]
-[url=/page=compare/nations=Absurrania+Azaniya+Brankiya+Canakhstan+Diquis+Egrizi+Filipinass+Grand_Arkadia+Holliestria+Kavaii+Moshnia]Page 1[/url]
-[url=/page=compare/nations=Nahambia+New_Gentia+Nihonam+Ooster+Padaliya+Peihan+Sapari+Shokran+Yarkonia+Yorkopolis]Page 2[/url]
+[url=/page=compare/nations=Absurrania+Azaniya+Brankiya+Canakhstan+Diquis+Egrizi+Filipinass+Grand_Arkadia+Hayasten+Holliestria+Kavaii]Page 1[/url]
+[url=/page=compare/nations=Moshnia+Nahambia+New_Gentia+Nihonam+Ooster+Padaliya+Peihan+Sapari+Shokran+Yarkonia+Yorkopolis]Page 2[/url]
 [b][color=cc0000]International Union of Socialist Republics[/color][/b]
-[url=/page=compare/nations=Belakras+Chobenia+Czervenika+Hayasten+Krasniya+Navedia+Novokrasniya+Pribaltika]Page 1[/url]
+[url=/page=compare/nations=Belakras+Chobenia+Czervenika+Krasniya+Navedia+Novokrasniya+Pribaltika]Page 1[/url]
 [url=/page=compare/nations=Ruapekapeka+Slobozhanshchyna+Somstratzka+Yukraina+Zakavkazye+Zeledia+Zinacantlan]Page 2[/url]
 [b][color=0000cc]Union of Independent Nations[/color][/b]
 [url=/page=compare/nations=Batoristan+Belierna+Beteunam+Castilea+Eitusian+Estinia+Great_Slatain]Page 1[/url]
