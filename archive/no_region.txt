@@ -9,4 +9,4 @@
 [color=orange]Orange[/color]= Ready Drones for Precision Strikes
 [color=red]Red[/color]= Mobilize Forces
 
-Current Threat Level=[color=yellow]Yellow[/color]
+Current Threat Level=[color=green]Green[/color]

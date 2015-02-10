@@ -1,11 +1,8 @@
-[color=Blue] Welcome to [region]Tsardom of NS[/region]! [/color]
-[hr]
-[color=purple] We are a friendly community tolerant of all viewpoints. 
-[hr] [/color]
+[region]The Black Riders[/region] failed at invading.
 
-[color=red]Tsar: Open [/color]
-[color=purple]Minister of Culture: Open[/color]
-[color=blue]Minister of Defense: Open[/color]
-[color=pink]Minister of Immigration: Open[/color]
-[color=yellow]Minister of regional affairs: Open[/color]
-[color=green]Founder: [nation]Khandyga[/nation][/color]
+We are a friendly region tolerant of all beliefs. 
+
+[color=red]Tsar: Open[/color]
+[color=blue]Minister of defense: Open[/color]
+[color=green]Minister of regional affairs: Open[/color]
+[color=yellow]Minister of culture: Open[/color]

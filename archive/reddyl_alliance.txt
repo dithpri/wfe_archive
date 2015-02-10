@@ -1,11 +1,16 @@
-DOCUMENT OF ALLIANCE
-Allied countries listed below:
-[nation]The Dylandian Empire[/nation]
-[nation]The Redillion Empire[/nation]
-[nation]Janadia[/nation]
-[nation]Zvodome[/nation]
-[nation]Shadowmon[/nation]
-[nation]Sarcadia[/nation]
-[b][region]RedDyl Alliance[/region][/b]
+[B][color=green]The RedDyl Alliance[/color][/B]
 
-The alliance includes the following agreements: No war shall take part between the allied nations, all citizens of these allied nations shall have free rights to travel to all other allied nations without necessity of a passport (Though all security measures are still in place)
+[B][u]Government:[/u][/B] Unitary Parliamentary Military Traditional Monarchy, Socialist Region
+
+[B][u]Governing Bodies:[/u][/B]
+[B]King:[/B] [nation]The Redillion Empire[/nation]
+[B]WA Delegate:[/B] [nation]The Dylandian Empire[/nation]
+[B]Grand Duke:[/B] Not Established
+[B]Arch Duke:[/B] [nation]Janadia[/nation]
+
+[B][u]Currency:[/u][/B] RE Redds
+
+[B][u]Other Names:[/u][/B] Soviet RedDyl Alliance, Democratic Socialists Soviet Alliance, DSSA, SRA, RA, The Kingdom of Nations
+
+[url=COMMING-SOON#CS]comming soon[/url]
+
