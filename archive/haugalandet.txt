@@ -8,10 +8,18 @@ this region.
 Haugalandet was founded by Arne of Vikjaa,
 Jonas den allmektige of Nedstrand and 
 Vikingen Heimdal of Jofurrhofn on the 12. September 2014
+[hr]
+[b][u]The Royal Council of Haugalandet:[/b][/u]
 
-[B]Lord Chancellor and F&oslash;rer:[/B][nation=short]Vikjaa[/nation]
-[B]Adviser and Spiritual leader:[/B][nation=short]democratic republic of nedstrand[/nation]
-[B]Adviser and Supreme-Counselor:[/B][nation=short]jofurrhofn[/nation]
+- [B][nation=short]Vikjaa[/nation], Lord Chancellor and F&oslash;rer[/B]
+- [B][nation=short]jofurrhofn[/nation], Foreign Minister and Supreme-Counselor[/B]
+[hr]
+
+[b][u]Members of The Senate:[/b][/u]
+
+- [b][nation=short]det femte riket[/nation], Chief of [i]Riksr&aring;dets Hemmelige Politi (RHP)[/i][/b]
+- [b][nation=short]united nations forces[/nation], General of [i]Haugalandets Milit&aelig;re Styrker (HMS)[/i][/b]
+[hr]
 
 [B]Colonies: [/B][region]UNK[/region]
 

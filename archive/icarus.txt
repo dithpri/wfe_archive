@@ -15,7 +15,7 @@
 Senator: [nation=short]Lyrasona[/nation]
 Senator: [nation=short]Kelvaros Prime[/nation]
 Senator: [nation=short]Amareval[/nation]
-Senator: To Be Decided[/list]
+Senator: [nation=short]New Raffica[/nation][/list]
 
 [B]Judicial Committee:[/B]
 [list]1. To Be Decided

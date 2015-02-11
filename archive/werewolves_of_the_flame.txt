@@ -3,15 +3,13 @@
 [color=darkred]Beloved King: [nation]alpha wolf[/nation][/color]
 [color=black]Checkered delegate: [nation]siburria[/nation][/color]
 [color=teal]Representative of vampiric relations:[nation]rk-4[/nation][/color]
-[color=gold]Head of RP:[/color]
-[color=purple]Voice of Debates:[/color]
+[color=purple]Voice of Debates:[nation]kyroshima[/nation][/color]
+[color=pink]Military general:[nation]Protector Military Command[/nation]
+[color=blue]Recruiter:
+Recruiter:[/color]
 
-[color=red]Recruiter:Recruiter:[/color]
-[color=blue]Recruiter:Recruiter:[/color]
-[color=green]Recruiter:Recruiter:[/color]
 
-[color=gray]Puppet storage: [region]Crimsonalliancepuppetstorage[/region]
-RP: [region]crimsonalliance[/region]
+[color=gold]Puppet storage: [region]Crimsonalliancepuppetstorage[/region]
 Debate: [region]crimsonhallofdebate[/region]
-Military: [region]protector military command[/region][/color]
+
 

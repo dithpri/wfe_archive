@@ -9,8 +9,8 @@ Head of recon:[nation=short]Purple Guy[/nation]
 Head of research:[region=Hydro]
 Head of Crime [nation=short]Terrorists Army of the Postal Dude[/nation]
 Head of Git Guding :[nation=short]procrastinationing[/nation] and [nation=short]XXx Pr0 Leg3nd Qwicksc0p3r xXx[/nation]
-Weather:Snowing
-Event Conditions: None
+Weather:Clear
+Event Conditions: Comm out.
 [b][color=blue]MAPS[/color][/b]
 [url=https://www.nationstates.net/page=dispatch/id=331057/]Tamriel Map[/url]
 [url=https://www.nationstates.net/nation=terrorists_army_of_the_postal_dude/detail=factbook/id=323827/]Half Life 2 Map[/url]

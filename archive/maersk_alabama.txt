@@ -1,10 +1,10 @@
 [b][color=blue]Welcome aboard the MV Maersk Alabama![/color][/b]
 
-[b]The MV Maersk Alabama (IMO Number 9164263) is a 14,120 gross ton container ship, length 155 meters, beam 25.3 meters, and capable of transporting 1,092 TEU. Her single turbodiesel engine propels her at speeds &amp;gt; 18 knots.[/b]
+[b]The MV Maersk Alabama (IMO Number 9164263) is a 14,120 gross ton container ship, length 155 meters, beam 25.3 meters, and capable of transporting 1,092 TEU. Recent engineering and anti-pirate upgrades are classified.[/b]
 
 [b][color=red]Owner:[/color] [nation=short]Maersk Line Commodore[/nation][/b]
 [b][color=red]Captain:[/color] [nation=short]Captain Silversmith[/nation][/b]
-[b][color=red]1st Officer:[/color]
+[b][color=red]1st Officer:[/color][nation=short]NS Raider Supreme Overlord[/nation][/b]
 
 The MV Maersk Alabama is a registered vessel of the Barony Dominion. Long Live the Baron![/b]
 [b]Home Port: [region]Baronetcy of Sanctuary Islands[/region][/b]

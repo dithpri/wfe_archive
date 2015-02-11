@@ -1,13 +1,13 @@
 REGIONAL GOVERNMENT
 
-Prime Minister: 
+Prime Minister:
 Minister of State:[nation]Monos[/nation]
-Minister of Foreign Affairs:
-Minister of Recruitment: [nation]Tysoania[/nation]
-Minister of Internal Affairs:
-Minister of Justice:
+Minister of Foreign Affairs:[nation]Tysoania[/nation]
+Minister of Recruitment:
+Minister of Internal Affairs:[nation]Riletopia[/nation]
+Minister of Justice:[nation]CONCORD[/nation]
 Minister of Defence: [nation]Geo chorus[/nation]
-Editors of the Sentinel: [nation]Monos[/nation], [nation]Geo chorus[/nation]
+
 PLANNED
 
 Regional Archives

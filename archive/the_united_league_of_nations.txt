@@ -4,8 +4,11 @@
 
 [B][u][i][color=blue]Campaigning open for Prime Minister![/color][/i][/u][/B]
 
-[B]Vice-Delegate: [nation=short]The United England[/nation] ([color=gold]NIP[/color])
 
+[B]Prime Minister: [nation=short]Deneclia[/nation] (I)
+
+
+Speaker of the Assembly: [nation=short]Correctional Facility[/nation] ([color=blue]CP[/color])
 
 Dungeon Master: [nation=short]Ghondra[/nation] ([color=lightblue]PMP[/color])
 
@@ -13,18 +16,16 @@ Field Marshal: [nation=short]Oblitus Terras[/nation] (I)
 
 High Commissioner: [nation=short]Aligned Planets[/nation] (I)
 
-Speaker of the Assembly: [nation=short]Correctional Facility[/nation] ([color=blue]CP[/color])
-
-Prime Minister: [nation=short]Deneclia[/nation] (I)
+Vice-Delegate: [nation=short]The United England[/nation] ([color=gold]NIP[/color])[/B]
 
 [u]Cabinet:[/u]
 Interior Minister:
-Foreign Minister: [nation=short]Andermor[/nation] (I)
+Foreign Minister:
 Justice Minister:
 
 [u]Court:[/u]
 [nation=short]Basra[/nation]
-[/B]
+
 
 [u]Regional Support Staff:[/u]
 Editor-in-Chief: [nation=short+noflag]Ghondra[/nation] (Interim) 

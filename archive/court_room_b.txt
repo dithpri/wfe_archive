@@ -3,9 +3,13 @@ Court Room of Libertatem
 Upcoming Trial:
 [i]People of Libertatem v. Ankha[/i]
 
-Judge:
-[nation=short]Muh Roads[/nations]
+Judge:[nation=short]Muh Roads[/nation]
 
 Prosecution: [nation=short]Humpheria[/nation] (Attorney General)
 
 Defense: [nation=short]Yrellian Confederacy[/nation] (People&amp;#39;s Attorney)
+
+Charges:
+  - One (1) count of Felony Espionage
+
+Status: Trial summoned, calling of the roll pending.
