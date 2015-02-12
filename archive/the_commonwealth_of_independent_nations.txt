@@ -1,9 +1,9 @@
-REGIONAL GOVERNMENT
+[b]REGIONAL GOVERNMENT[/b]
 
 Prime Minister:
 Minister of State:[nation]Monos[/nation]
 Minister of Foreign Affairs:[nation]Tysoania[/nation]
-Minister of Recruitment:
+Minister of Recruitment:[nation]ReligionTopia[/nation]
 Minister of Internal Affairs:[nation]Riletopia[/nation]
 Minister of Justice:[nation]CONCORD[/nation]
 Minister of Defence: [nation]Geo chorus[/nation]

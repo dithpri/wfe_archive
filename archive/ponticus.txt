@@ -4,16 +4,16 @@
 
 [color=orange][b]The First Republic of Old Conservadom[/color][/b]
 
-[b]|[url=http://www.nationstates.net/nation=conservadom/detail=factbook/id=175100]The Constitution[/url]|[url=http://i.imgur.com/L0DCZ6h.png]Regional Map[/url]|[url=http://www.broomdces.com/nseconomy/]NS Economy[/url][/b]
+[b]|[url=http://www.nationstates.net/nation=conservadom/detail=factbook/id=175100]The Constitution[/url]|[url=http://i.imgur.com/X7CjoIM.png]Regional Map[/url]|[url=http://www.broomdces.com/nseconomy/]NS Economy[/url][/b]
 
 [b]Vice Chancellor:[/b]
 [b]Senator:[/b] [nation=short]Ilfpida[/nation]
 [b]Senator:[/b] [nation=short]Valpraiso[/nation]
 [b]Senator:[/b] [nation=short]Virnall[/nation]
 [b]------------------------------------[/b]
-[b]Chief Justice:[/b]
-[b]Associate Justice:[/b]
-[b]Associate Justice:[/b]
+[b]Chief Justice:[/b] [nation=short]Gararia[/nation]
+[b]Associate Justice:[/b] [nation=short]Fondren[/nation]
+[b]Associate Justice:[/b] [nation=short]Crosstonia[/nation]
 [b]------------------------------------[/b]
 [b]News:[/b]
-Senate Elections scheduled for [i]February 11th[/i]
+[b][color=red]COLONIZATION OF NEW TERRITORY [u]HAS BEEN SUSPENDED[/u][/B][/COLOR]

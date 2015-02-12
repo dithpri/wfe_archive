@@ -19,9 +19,11 @@ Head States:
 
 Commissaries:
 Chairman: [nation=short]Marxestan[/nation]
-Deputy Chairman: [nation=short]Twosync[/nation]
+2nd in command: [nation=short]Twosync[/nation]
+High commissar:[nation=short]chinmiester[/nation]
 Commissar of defence: [nation=short]BT 2s[/nation]
 Commissar of foreign affairs: [nation=short]Marxestan[/nation]
 Commissar of current affairs: [nation=short]marxestan[/nation]
 Chancellor: [nation=short]Chinmiester[/nation]
 Peacekeeping commissar: [nation=short]Communito State[/nation]
+Commissar of interior: [nation=short]twosync[/nation]

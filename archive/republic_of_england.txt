@@ -3,11 +3,18 @@
 
 [color=#CF2900]English Parliament:[/color] 
 
-President: [nation=short]Republic of England President[/nation]
+President: [nation=short]Republic of England President[/nation] [color=#0033CC]CP[/color]
 Vice President: x
-Heritage Minister: [nation=short]The new English kingdom[/nation]
-[hr]
-[color=#CF2900]RoE Regional Flag:[/color] [url=http://fla.fg-a.com/flags/saint-george-flag.gif]Saint George[/url]
+Heritage: [nation=short]The new English kingdom[/nation]
+Treasury: [nation=short]Governor of the Bank of England[/nation]
+Home Office: x
+Foreign Office: x
+Education: x
+Defence: x
+Environment: x
+Trade: x
+Science: x
+[hr][color=#CF2900]RoE Regional Flag:[/color] [url=http://fla.fg-a.com/flags/saint-george-flag.gif]Saint George[/url]
 [color=#CF2900]RoE National Flag:[/color] [url=http://i.imgur.com/nmqN7BO.jpg]Anglo-Saxon Flag[/url]
 [color=#CF2900]RoE Anthem:[/color] [url=https://www.youtube.com/watch?v=-tW0QqiT2LU]Land of Hope and Glory[/url]
 [color=#CF2900]RoE Party Anthem:[/color] [url=https://www.youtube.com/watch?v=g5V-AG9KxcI]Rose of England[/url] + [url=http://www.nationstates.net/nation=republic_of_england_president/detail=factbook/id=367170]Lyrics[/url]

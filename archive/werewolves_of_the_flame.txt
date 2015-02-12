@@ -4,12 +4,12 @@
 [color=black]Checkered delegate: [nation]siburria[/nation][/color]
 [color=teal]Representative of vampiric relations:[nation]rk-4[/nation][/color]
 [color=purple]Voice of Debates:[nation]kyroshima[/nation][/color]
-[color=pink]Military general:[nation]Protector Military Command[/nation]
-[color=blue]Recruiter:
-Recruiter:[/color]
+[color=red]Military general:[nation]Protector Military Command[/nation][/color]
+[color=green]Recruiter:[/color]
 
 
 [color=gold]Puppet storage: [region]Crimsonalliancepuppetstorage[/region]
-Debate: [region]crimsonhallofdebate[/region]
+Debate: [region]crimsonhallofdebate[/region][/color]
 
 
+ Topic of the day: What historical figure do you most identify with? Is this person a hero to you?

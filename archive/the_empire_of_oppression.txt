@@ -13,5 +13,5 @@
 [nation]Independent Democratic Russia[/nation] =[color=red] General Of IMC [/color]
 [vacant] = [color=purple]minister of diplomatic affairs[/color]
 [nation]BaconBacon123[/nation]= [color=yellow]new-commer&amp;#39;s aid and guide[/color]
-[vacant]=keeper of the peace
+[nation]The United Dark Republic[/nation] =keeper of the peace
 [nation]As Na Oibrithe[/nation]=[color=green]Immigration office Administrator[/color]

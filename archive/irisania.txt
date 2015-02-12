@@ -1,13 +1,13 @@
 Regional motto:[b]Theos katanalisko pyr[/b]
 [b][color=blue][u]The House of Winter[/u][/color][/b]
-          Representative:[nation]Italiasa[/nation]
-          Mascot: [nation]Italiasa[/nation]
-          Members:[list][*][nation]Thoncania[/nation][*][nation]achonus[/nation][*][nation]palada[/nation][/list]
+   Representative:[nation]Italiasa[/nation]
+   Mascot:[nation]Italiasa[/nation]
+ 
 [b][color=grey][u]The House of Wolves[/u][/color][/b]
-          Representative:[nation]Wanden Reich[/nation]
-          Mascot:[nation]Wanden Reich[/nation]
-          Members:[list][*][nation]Awesamness[/nation][*][nation]jeinovia[/nation][*][nation]Vault 87[/nation][*][nation]GIJose[/nation][*][nation]mountaingoat[/nation][/list]
+   Representative:[nation]Wanden Reich[/nation]
+   Mascot:[nation]Wanden Reich[/nation]
+   
 [b][color=green][u]The House of Exile[/u][/color][/b]
-          Representative:[nation]Umbrella Beach[/nation]
-          Mascot: [nation]Umbrella Beach[/nation]
-          Members:[list][*][nation]Squirell[/nation][*][nation]windyanna[/nation][*][nation]the lost princess[/nation][*][nation]cory in them house[/nation][/list]
+   Representative:[nation]Umbrella Beach[/nation]
+   Mascot:[nation]Umbrella Beach[/nation]
+         

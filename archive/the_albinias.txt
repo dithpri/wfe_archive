@@ -1,8 +1,8 @@
 [b]Chain of Command:[/b]
 [nation=Ouhlahauhn], Founder
 [nation=The Pinnacle of Arcadia], Co-Founder
-[nation=Great Space Whales],  WA Delegate
-[nation=Ligernation], Vice Delegate
+[nation=Ligernation],  WA Delegate
+[nation=Great Space Whales], Vice Delegate
 
 [b]Regional Assembly:[/b]
 [nation=Ouhlahauhn], Speaker
@@ -10,5 +10,7 @@
 [nation=Great Space Whales]
 [nation=Ligernation]
 [nation=Roxxion]
+
+[url=http://albinias.boards.net/]Please take a look at the new and improved forum here![/url]
 
 

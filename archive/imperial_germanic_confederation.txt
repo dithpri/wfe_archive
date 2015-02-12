@@ -1,9 +1,19 @@
-[b][color=#571B7E]As the sun peaked over the horizon, [region]The Association of Imperialism[/region] ventured forth, leaving no survivors under the blessing of [u][url=nation=rifty]The Prophet Rifty[/url][/u]:
-[list][nation=short]Noblephnx[/nation]
- [/list][/color]
-[u]Riding Alongside:[/u]
+[B]info[/B]:
+This region has been liberated from anarchy and made a colony of [region]Haugalandet[/region]. Citizens of this region are now under the protection of [region]Haugalandet[/region] and made full fledged members of the kingdom. WA delegates of this region can also become members of the Senate as a representative of the colony and be granted titles of nobility if they prove their allegiance and loyalty towards The Council.
 
-[nation=short]Trick Shot[/nation] of [region]Ceirien[/region]
+Evig v&aelig;re Riksr&aring;det!
+[hr]
 
-[nation=short]Sector ZYX[/nation] of [region]Ainur[/region][/b]
+[b][u]The Royal Council of Haugalandet:[/b][/u]
+
+- [B][nation=short]Vikjaa[/nation], Lord Chancellor and F&oslash;rer[/B]
+- [B][nation=short]jofurrhofn[/nation], Foreign Minister and Supreme-Counselor[/B]
+[hr]
+
+[b][u]Members of The Senate:[/b][/u]
+
+- [b][nation=short]det femte riket[/nation], Chief of [i]Riksr&aring;dets Hemmelige Politi (RHP)[/i][/b]
+- [b][nation=short]united nations forces[/nation], General of [i]Haugalandets Milit&aelig;re Styrker (HMS)[/i][/b]
+[hr]
+
 
