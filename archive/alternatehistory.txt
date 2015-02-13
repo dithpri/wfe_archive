@@ -1,1 +1,11 @@
 We have new countries!
+
+[nation=las americas] 9 vs [nation=boliveru] 5
+[nation=boliveru] vs [nation=flamithio]
+
+Standings
+
+nation                        W                   L                        D                 GF            GA             PTS
+[nation=las americas]  1                  -  0      -                 0                  gf:9                GA:5            PTS:2
+[nation=flamithio]       0                 -       0   -                    0               gf:5              ga:9              Pts:0
+[nation=boliveru]         0               -         1   -                  0                 gf:0                  ga:0              pts:0 

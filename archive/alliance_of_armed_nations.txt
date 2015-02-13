@@ -4,8 +4,9 @@
 [u][I][b]Regional Government[/b][/I][/u]
 Vice-Delegate: TBD
 Prime Minister: [nation]Ism[/nation]
-Minister of the Interior: TBD
+Minister of the Interior: [nation]The Lost Souls[/nation]
 Minister of Foreign Relations: TBD
+Minister of Defense: [nation]Drangoniov[/nation]
 Minister of Intelligence: [nation]Alcatrazin[/nation]
 [hr]
 [color=#437C17][u][I][b]Quick Links[/u][/I][/b]

@@ -1,6 +1,6 @@
 Princep: [nation]Eddoren[/nation]
 Consul: [nation]Allied Connurist States[/nation]
-Prelate: [nation]Deian Salazar[/nation]
+Prelate: [nation]Patrick OConner[/nation]
 Foreign Affairs: [nation]Aravea[/nation]
 Defense: 
 Interior: 
@@ -15,6 +15,6 @@ Arbiter:
 Senator: [nation]Thronus[/nation]
 Senator: [nation]The Swarmind[/nation]
 Senator: [nation]Dawn Haven[/nation]
-Senator: [nation]Patrick OConner[/nation]
+Senator: [nation]Firewind[/nation]
 
 IC Senate Chamber: http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=330291&amp;amp;p=23459600#p23459600

@@ -1,11 +1,13 @@
 &amp;quot;Spreading the Light of Liberty to All&amp;quot;
 
-Minister of Peace and Magistratus Extraordinarius: [nation=shortname]Eskvor[/nation]
+The Dear Leader: [nation=shortname]Eskvor[/nation]
 
-[u]The Senatorial Triumvirate[/u]
-Senator, Chancellor, and Triumvir of Love: [nation=shortname]Anthalin[/nation]
-Senator and Triumvir of Truth: Vacant
-Senator and Triumvir of Plenty: Vacant
+[u]The Imperial Pentarchy[/u]
+Pentarch of Love: [nation=shortname]Anthalin[/nation]
+Pentarch of Truth: [nation=shortname]Malernor[/nation]
+Pentarch of Plenty: Vacant
+Pentarch of the Lightmontian Role-playing Committee: Vacant
+Pentarch of the People: Vacatn
 
 Endorse the Chancellor or be hung, drawn, and quartered!
 [url=http://s15.zetaboards.com/Lightmont/index/]Forums[/url]
