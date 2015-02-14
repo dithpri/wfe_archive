@@ -1,33 +1,34 @@
-[b]Welcome to The United Republic of the International East Union[/b] - We accept anyone, regardless of political, cultural, or religious beliefs.
+[b]Welcome to The United Republic of the International East Union[/b]
+[i]We accept anyone, regardless of political, cultural, or religious beliefs.[/i]
 
-[url=http://theieu.weebly.com/]Forum and Website[/url][hr][list][b][color=77003c]Co-Founder:[/color][/b] [nation]Aeternabilis[/nation]
+[url=http://theieu.weebly.com/]Forum and Website[/url][hr][list][b][color=77003c]Co-Founder:[/color][/b] [nation=short]Aeternabilis[/nation]
 
 [b][color=6a006a]Speaker:[/color][/b][/list]
 
 [b]Monarchs -[/b] Next Election on Wednesday, August 5, 2015[list]
 
 [b][color=631db4]Queen:[/color][/b] 
-[nation]Amy Kabra[/nation]
+[nation=short]Amy Kabra[/nation]
 
 [b][color=0021cb]Queen Consort:[/color][/b]
- [nation]The first Carthage[/nation][/list]
+[nation=short]The_first_Carthage[/nation][/list]
 
 [b]Ministry -[/b] Next Elections on Sunday, May 17, 2015:[list]
 
 [b][color=005682]Prime Minister:[/color][/b]
- [nation]Aeternabilis[/nation]
+[nation=short]Aeternabilis[/nation]
 
 [b][color=008282]Deputy Minister:[/color][/b]
- [nation]The first Carthage[/nation]
+[nation=short]The_first_Carthage[/nation]
 
 [b][color=008141]Minister of Defense:[/color][/b] 
-[nation]Romano-Germanic Empire[/nation]
+[nation=short]Romano-Germanic Empire[/nation]
 
 [b][color=416600]Minister of Justice:[/color][/b] 
 [nation]Skoro[/nation]
 
 [b][color=626262]Minister of Foreign Relations:[/color][/b] 
-[nation]Venta[/nation]
+[nation=short]Venta[/nation]
 
 [b][color=a1a100]Minister of Internal Affairs:[/color][/b]
- [nation]Shikah[/nation][/list]
+[nation=short]Shikah[/nation][/list]

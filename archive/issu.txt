@@ -1,6 +1,6 @@
 [b][color=red]Independent States of the Soviet Union[/color][/b]
 Government:
-WA Delegate:[nation]The Rebel Alliances[/nation]
+WA Delegate: [nation]Storalia[/nation]
 Minister of Foreign Affairs and Immigration: [nation]Union of Canadorian Socialists Republic[/nation]
 Minister of Defense and Security: [nation]Pandeeria[/nation]
 Regional Cartographer: [nation]Treko[/nation]

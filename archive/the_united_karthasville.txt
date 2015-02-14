@@ -5,8 +5,8 @@
 
 **[color=red][b]President:[/b][/color] [nation]The Kathisville overseas territories[/nation]
 **[color=blue][b]Second in Command:[/b][/color] [nation]Zapharus Inc[/nation]
-*[color=VeryDarkgreen]Minister of Commerce:[/color] [nation]Tevun[/nation]
 **[color=VeryDarkgreen]Minister of War:[/color] [nation]Black Blade Union[/nation]
+*[color=VeryDarkgreen]Minister of Commerce:[/color] [nation]Tevun[/nation]
 *[color=VeryDarkgreen]Minister of Culture:[/color] [nation]Yugobertia[/nation]
 *[color=VeryDarkgreen]Minister of Religion:[/color] [nation]halagar[/nation]
 *[color=VeryDarkgreen]Minister of Sanitation:[/color] [nation]Detroit life[/nation]
