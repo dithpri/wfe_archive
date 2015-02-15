@@ -1,13 +1,7 @@
-[b]WELCOME TO THE EMPIRE OF WILHELM[/b]
+[color=#008899]Huzzah! Huzzah! This region proved to much and decimated a charge by The Black Riders of Cock![/color]
 
-WA Delegate: [nation]Unbesiegbar Prussian Reich[/nation]
-
-Founder: [nation]Mannover[/nation]
-
-Commander of Armed Forces: [nation]Unbesiegbar Prussian Reich[/nation]
-
-Minister of Obscure Affairs: [nation]Grand Loreto[/nation]
-
-Minister of Exterior Affairs: [nation]wurttemberg insurgency[/nation]
+Military Marshal: [nation=unbesiegbar prussian reich]
+Foreign Affairs: [nation=wurttemberg insurgency]
+Obscure Affairs: [nation=grand loreto]
 
 Regional Map: https://www.dropbox.com/s/rqvyqbmumtyoq24/EoW%20War%20Map.jpg?dl=0

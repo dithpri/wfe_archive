@@ -1,9 +1,10 @@
 President: [nation=short]Maelion[/nation]
 Chief of Staff: [nation=short]franzworth[/nation]
-Department of Justice: n/a
-Department of Defense: n/a
-Department of Commerce: n/a
-Department of Public Relations: [nation=short]Free Frontier[/nation]
+
+Secretary of Defense: Voting will begin shortly
+Secretary of Public Relations: [nation=short]Free Frontier[/nation]
+Secretary of Justice: [nation=short]42 The Ultimate Answer[/nation]
+Secretary of Commerce: [nation=short]The Hatikvah of Yisrael[/nation]
 
 [hr]For Visiting nations: If you wish to contact the regional government please do so through the Department of Public Relations.
 Thanks- Deparment of Public Relations 

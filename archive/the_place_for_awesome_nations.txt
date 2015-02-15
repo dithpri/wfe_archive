@@ -14,7 +14,9 @@ Chancellor:[nation=short]imperialisea[/nation]
 Minister of Defense:[nation=short]imperialisea[/nation]
 WA Delegate:[nation=short]Metawon[/nation]
 Raiding Commander:
+Raiding Scout:[nation=short]Jmisrael1[/nation]
 Knights:
 [nation=short]Bokatoo[/nation]
-[nation=short]Zangrol[/nation],[/b][hr]
+[nation=short]Zangrol[/nation]
+[nation=short]Izzyreal1[/nation][/b][hr]
 [b][color=orange]Read the The Place For Awesome Nations constitution![/b][/color]

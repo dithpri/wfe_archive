@@ -1,0 +1,11 @@
+ Welcome to Isaleir!
+-------------------------------------------
+Regional Government
+
+President: [nation]Eslecristijrao[/nation]
+Vice President: [nation]Kentler[/nation]
+Cabinet: 
+    Minister of Peace: [color=red]Unfilled[/color]
+    Minister of Plenty: [color=red]Unfilled[/color]
+    Minister of Love: [color=red]Unfilled[/color]
+    Minister of Truth: [color=red]Unfilled[/color]

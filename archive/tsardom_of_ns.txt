@@ -1,8 +1,6 @@
-[region]The Black Riders[/region] failed at invading.
+We are a friendly region and tolerant towards of all beliefs. 
 
-We are a friendly region tolerant of all beliefs. 
-
-[color=red]Tsar: Open[/color]
-[color=blue]Minister of defense: [nation]Kyrgy[/nation] [/color]
-[color=green]Minister of regional affairs: Open[/color]
-[color=yellow]Minister of culture: Open[/color]
+[color=red]Tsar:[/color]
+[color=blue]Minister of Defense: [nation]Kyrgy[/nation][/color]
+[color=green]Minister of Culture:[/color]
+[color=yellow]Minster of regional affairs:[/color]

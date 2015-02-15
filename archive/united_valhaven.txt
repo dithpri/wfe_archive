@@ -5,7 +5,7 @@
 
 [b][color=blue][u]Parliament of United Valhaven[/color][/u][/b]
 
-[color=blue]Speaker of Parliament:[/color]
+[color=blue]Speaker of Parliament:[/color][nation]Ryrgistan[/nation]
 [color=blue]Vice Speaker:[/color]
 
 [color=orange][u][b]Legislative Offices of United Valhaven[/b][/u][/color]
