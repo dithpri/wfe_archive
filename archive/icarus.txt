@@ -18,6 +18,6 @@ Senator: [nation=short]Amareval[/nation]
 Senator: [nation=short]New Raffica[/nation][/list]
 
 [B]Judicial Committee:[/B]
-[list]1. To Be Announced
+[list]1. [nation=short]Arstozcah[/nation]
 2. [nation=short]Precusor[/nation]
 3. [nation=short]Lewayiin[/nation][/list]

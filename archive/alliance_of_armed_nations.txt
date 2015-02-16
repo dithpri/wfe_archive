@@ -5,7 +5,7 @@
 Vice-Delegate: TBD
 Prime Minister: [nation]Ism[/nation]
 Minister of the Interior: [nation]The Lost Souls[/nation]
-Minister of Foreign Relations: TBD
+Minister of Foreign Relations: [nation]New-Netherealm[/nation]
 Minister of Defense: [nation]Drangoniov[/nation]
 Minister of Intelligence: [nation]Alcatrazin[/nation]
 [hr]

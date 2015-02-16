@@ -28,7 +28,7 @@ Council:
 1. [nation=short]Archiedonas[/nation]
 2. [nation=short]Brigli[/nation]
 3. [nation=short]Mannington[/nation]
-4. TBA[/b]
+4. [nation=short]Prauss[/nation][/b]
 [/spoiler]
 [hr]
 [b][color=red]Endorsement Cap = 3[/color][/b]
