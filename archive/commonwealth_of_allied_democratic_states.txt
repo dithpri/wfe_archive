@@ -1,10 +1,2 @@
-[b][u]Alliance:[/u] [region]Greater European Federation[/region]
-[u]Politics:[/u] [color=#0000CC]Federal Parliamentary and Constitutional Republics[/color][hr][u]Agency:[/u] Commonwealth of Allied Democratic States
-[hr][u]Region History:[/u] 
-Commonwealth of Allied Democratic States was briefly held by [color=red]Communist[/color] United American Soviet Republics in an act of red aggression against the peoples of Europe. 
-[nation=short]GEF Expeditionary Force 22[/nation] was dispatched to guard the grounds of this red agency to prevent a resurgence of terrorist activity.
-
-[u]Combating:[/u] 
-Right Wing [color=#996600]Fascist[/color], and [color=#996600]Totalitarian[/color] regions
-Left Wing [color=#1F1F0F]Anarchist[/color], [color=red]Socialist[/color], [color=red]Anti-Fascist[/color] and [color=red]Communist[/color] regions
+[b]The [nation=short]Greater European Federation President[/nation] ordered the deployment of [nation=short]GEF Expeditionary Force 22[/nation] to quell this [color=red]Communist[/color] uprising and prevent a resurgence of Antifa terrorist activity in [region]Greater Europe[/region].
 [/b]

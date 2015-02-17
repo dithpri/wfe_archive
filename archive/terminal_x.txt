@@ -9,7 +9,7 @@
 [b][u]PUPPET NATIONS:[/u]
 [nation]Chocolate100[/nation][/b]
 
-[color=red][u]RULES:[/u]
+[color=red][b][u]RULES:[/u][/b]
 1. All puppet nations are forbidden from voting in the Regional Assembly
 2. Known raiders are banned from entrance
 3. Nations condemned by the World Assembly Security Council are banned from entrance

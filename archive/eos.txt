@@ -11,8 +11,6 @@
 
 [b] Chief of Ministry [/b]:[nation=short]KungYo[/nation]
 
-[b] Vice-Chief of Ministry: [/b] [nation=short]YangYu hi[/nation]
-
 [b] Department of Defense: [/b] [nation=short]Vancouvia[/nation]
 
 [b] Department of Public Relations: [/b] [nation=short]Kingston-Atlantis[/nation]
@@ -29,7 +27,7 @@
 [hr]
 
 [color=purple][b] OOC INFO:
-+ [url=http://www.eosunion.com/]Website[/url] + [url=http://eosregion.com]Forums[/url] + [url=http://eosregion.com/topic/9750585/1/]Map Request[/url] + [url=http://eosregion.com/topic/9723301/1/]Constitution[/url] + [url=http://eosregion.com/pages/citizenship/]Voting Member Status Application[/url] +[/color]
++ [url=http://www.eosregion.com/]Website[/url] +[url=http://eosregion.com/topic/9750585/1/]Map Request[/url] + [url=http://eosregion.com/topic/9723301/1/]Constitution[/url] + [url=http://eosregion.com/pages/citizenship/]Voting Member Status Application[/url] +[/color]
 [hr]
 
 [color=blue] Our Legion Stands Strong::[region]The Eos Imperial Legion[/region]::Enlist Today![/b][/color]

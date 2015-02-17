@@ -1,12 +1,8 @@
-[b][u]Alliance:[/u] [region]Greater European Federation[/region]
-[u]Politics:[/u] [color=#0000CC]Federal Parliamentary and Constitutional Republics[/color][hr][u]Country:[/u] [region]Republic of Austria[/region]
-[u]State:[/u] Burgenland
-[u]City:[/u] [region]Eisenstadt[/region][hr][u]Region History:[/u] 
-Eisenstadt was briefly held by [color=red]Communist[/color] [nation=short]Die Rote Fahne[/nation] from [region]The Red Fleet[/region] in an act of red aggression against the Austrian people. 
-[nation=short]GEF Expeditionary Force 13[/nation] was dispatched to Eisenstadt to defend the city of the [color=#0000CC]Federal Parliamentary Republic[/color] against all threats.
-
-[u]Combating:[/u] 
-Right Wing [color=#996600]Fascist[/color], and [color=#996600]Totalitarian[/color] regions
-Left Wing [color=#1F1F0F]Anarchist[/color], [color=#FF3300]Socialist[/color], [color=#FF3300]Anti-Fascist[/color] and [color=red]Communist[/color] regions
-
+[b][color=#0000CC]Geographical Location:[/color] [region]Greater Europe[/region]
+[color=#0000CC]Country:[/color] [region]Republic of Austria[/region]
+[color=#0000CC]State:[/color] Burgenland
+[color=#0000CC]City:[/color] [region]Eisenstadt[/region][hr][region]Republic of Austria[/region] is represented by the [region]Greater European Federation[/region] in the [url=http://www.nationstates.net/page=un]World Assembly[/url] and protected by [url=http://www.nationstates.net/nation=greater_european_federation_president/detail=factbook/id=362618]GEF Forces[/url].
+ 
+European Nationals from [region]Republic of Austria[/region], and their Austrian descendants, are welcome to participate in the Federation.
+Please support your Candidate for GEF World Delegate.
 [/b]

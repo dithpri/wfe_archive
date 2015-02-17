@@ -1,14 +1,8 @@
-[b][u]Alliance:[/u] [region]Greater European Federation[/region]
-[u]Politics:[/u] [color=#0000CC]Federal Parliamentary and Constitutional Republics[/color][hr][u]Country:[/u] Federal Republic of Germany
-[u]State:[/u] [region]Free Hanseatic City of Bremen[/region]/[region]Freie Hansestadt Bremen[/region]
-[hr][u]Region History:[/u]
-Free Hanseatic City of Bremen was previously uncontrolled
-[nation=short]GEF Expeditionary Force 67[/nation] was dispatched to secure the City-State of the [color=#0000CC]Federal Parliamentary Republic[/color] against all threats.
-
-Freie Hansestadt Bremen was previously uncontrolled
-[nation=short]GEF Expeditionary Force 25[/nation] was dispatched to secure the City-State of the [color=#0000CC]Federal Parliamentary Republic[/color] against all threats.
-
-[u]Combating:[/u] 
-Right Wing [color=#996600]Fascist[/color], and [color=#996600]Totalitarian[/color] regions
-Left Wing [color=#1F1F0F]Anarchist[/color], [color=red]Socialist[/color], [color=red]Anti-Fascist[/color] and [color=red]Communist[/color] regions
+[b][color=#0000CC]Geographical Location:[/color] [region]Greater Europe[/region]
+[color=#0000CC]Country:[/color] [region]Republic of Germany[/region]
+[color=#0000CC]State:[/color] [region]Freie Hansestadt Bremen[/region]
+[hr][region]Republic of Germany[/region] is represented by the [region]Greater European Federation[/region] in the [url=http://www.nationstates.net/page=un]World Assembly[/url] and protected by [url=http://www.nationstates.net/nation=greater_european_federation_president/detail=factbook/id=362618]GEF Forces[/url].
+ 
+European Nationals from [region]Republic of Germany[/region], and their [region]German[/region] descendants, are welcome to participate in the Federation.
+Please support your Candidate for GEF World Delegate.
 [/b]

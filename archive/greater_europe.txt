@@ -1,6 +1,7 @@
-[b][region]Greater Europe[/region] is a continent-wide Federation of Republics represented by the [region]Greater European Federation[/region]
+[b][region]Greater Europe[/region] is  represented by the [region]Greater European Federation[/region]
 
 Components:
+[region]European America[/region]
 [region]Nationalist Europe[/region]
 [hr]
 
@@ -10,10 +11,10 @@ Components:
 [region]Konungariket Sverige[/region]
 [region]Suomen Tasavalta[/region]
 [hr]
-[region]Baltic States Alliance[/region]
-Estonia
-Latvia
-Lithuania
+[region]Baltic States Alliance[/region] &amp;amp; [region]Baltic States[/region]
+[region]Parliamentary Republic of Estonia[/region]
+[region]Parliamentary Republic of Latvia[/region]
+[region]Parliamentary Republic of Lithuania[/region]
 [hr]
 [region]Republic of Slovenia[/region], [region]The Republic of Slovenia[/region], [region]Republika Slovenija[/region]
 [hr]
@@ -34,4 +35,6 @@ Lithuania
 [region]The Republic of Texas[/region]
 [hr]
 [region]Republic of Austria[/region], [region]Oesterreich[/region]
+[hr]
+[region]Republic of Italy[/region]
 [/b]
