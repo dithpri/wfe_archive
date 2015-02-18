@@ -8,8 +8,6 @@ Foreign Affairs: [nation=short]Sandwich Territories[/nation]
 Role-Playing: [i]Accepting Applications: Telegram [nation=short]Vinco[/nation][/i]
 Elections: [i]Accepting Applications: Telegram [nation=short]Vinco[/nation][/i]
 
-Note: Nations who were previously in the KSC have priority for selecting the two available positions.
-
 [color=green][b]CHAIRMEN[/b][/color]
 Kennan Regional Council: [nation=short]Hackleberry Islands[/nation]
 Kennan Union: [nation=short]Ethan Foley[/nation]
@@ -17,5 +15,7 @@ Kennan Recruitment Program: [nation=short]Sandwich Territories[/nation]
 
 [color=green][b]UPDATES[/b][/color]
 [list]
+[*]Executive Order #1 has been put into effect. (2/17/2015)
+[*][url=http://goo.gl/iFpah9]Resolution #102: If Secretary of Elections Is Not Present[/url] is up for voting. (2/17/2015)
 [*][url=http://goo.gl/vNOPh4]Resolution #101: Kennan Historical Committee[/url] is up for voting. (2/17/2015)
 [/list]

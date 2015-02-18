@@ -2,8 +2,8 @@
 
 [color=red]Nether Dragon:[/color] [nation=short]Isle of the Hidden Warrior[/nation]
 
-[color=#C6930A]Wither Skeleton:[/color] [color=green]To Be Elected[/color]
+[color=#C6930A]Wither Skeleton (WA Delegate):[/color] [color=green]To Be Elected[/color]
 
-[color=red]Magma Cube:[/color] [color=green]To Be Elected[/color]
-[color=#C6930A]Ghast:[/color] [color=green]To Be Elected[/color]
+[color=red]Magma Cube (Internal Affairs):[/color] [color=green]To Be Elected[/color]
+[color=#C6930A]Ghast (Communications):[/color] [color=green][nation=short]Progect 80789[/nation][/color]
 [color=red]Zombie Pigman:[/color] [color=green]To Be Elected[/color][/B]

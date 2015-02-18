@@ -20,7 +20,7 @@ UWB Regional Council:
 
 Minister of Foreign Affairs: [nation=short]Solar Coalition[/nation]
 
-Minister of Justice: TBA
+Minister of Justice: [nation=short]The National Covenant[/nation]
 
 Head Council Member: [nation=short]Olbearia[/nation]
 

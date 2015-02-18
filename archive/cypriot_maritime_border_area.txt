@@ -1,0 +1,10 @@
+[b][u]Cypriot Maritime Border Area[/u]:[/b]
+
+--
+
+[nation=short]Cypriot Border Force[/nation]
+[nation=short]Cypriot Defence Force[/nation]
+
+--
+
+ [i]Protecting the territorial waters of the [nation=short]Cypriot Territories[/nation][/i].

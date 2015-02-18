@@ -1,8 +1,10 @@
-Welcome to The United Coalition of Nation States, where our mission is to unite member nations under one, Regional Government while still retaining their sovereignty. 
+[b][color=purple]Welcome to[/color] [region]The United Coalition of Nation States[/region][color=purple], where our mission is to unite member nations under one, Regional Government while still retaining their sovereignty.[/color]
 
-Our Government:
-Prime Minister: The Federal Republic of Byzanthia
-Minister-President: The Grand Duchy of Partiana
-Minister of the Nations:  The Commonwealth of Bythilibus
+[color=yellow]Our Government:[/color]
+[color=blue]Prime Minister:[/color] [nation]Byzanthia[/nation]
+[color=red]Minister-President:[/color] [nation]Partiana[/nation]
+[color=orange]Minister of the Nations:[/color] [nation]Bythilibus[/nation]
 
-Thanks for choosing The United Coalition of Nation States as your region to be in. Have a nice day!
+[color=purple]Thanks for choosing[/color] [region]The United Coalition of Nation States[/region] [color=purple]as your region to be in. Have a nice day![/color]
+
+[color=blue]Merged with the [region]Peoples Federation of Qandaristan[/region] on 2/17/15[/color][/b]

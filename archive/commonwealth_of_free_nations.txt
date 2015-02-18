@@ -13,7 +13,7 @@
 [nation=short]Liberated Democratic Republics[/nation] [b]([color=gold]L[/color])[/b]
 
 [b]Minister of Foreign Affairs:[/b] 
-[nation=short]Vista Major[/nation] [b]([color=lightblue]P[/color])[/b]
+[nation=short]Vista Major[/nation] [b]([color=#006CA8]R[/color])[/b]
 
 [b]Minister of Internal Affairs:[/b] 
 [nation=short]Sulania[/nation] [b]([color=limegreen]F[/color])[/b]
