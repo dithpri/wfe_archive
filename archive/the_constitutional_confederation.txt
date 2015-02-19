@@ -4,9 +4,9 @@
 
 
 [u][B]Government[/B][/u]
-[color=green][B]Overhead: [nation]Vichtander[/nation]
-President: [nation]Heidenstaf[/nation]
-Vice President: [nation]Estovlaka[/nation]
-Head of Cabinet: [nation]New Musckovita[/nation]
-Head of Council: [nation]Scartianland[/nation]
-Speaker of Congress: [nation]Larend[/nation][/B][/color]
+[color=Black][B]Overhead: [nation=short]Vichtander[/nation]
+President: [nation=short]Estovlaka[/nation]
+Vice President: [nation=short]Heidenstaf[/nation]
+Head of Cabinet:
+Head of Council:
+Speaker of Congress:[/color][/b]

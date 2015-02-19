@@ -16,7 +16,7 @@ UWB Regional Council:
 [nation=short]Kheon[/nation]
 [nation=short]Brigli[/nation][/b]
 [hr]
-[spoiler=Election Results][b]WA Delegate: TBA
+[spoiler=Election Results][b]WA Delegate: [nation=short]Wariant[/nation]
 
 Minister of Foreign Affairs: [nation=short]Solar Coalition[/nation]
 
