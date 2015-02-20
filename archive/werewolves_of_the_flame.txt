@@ -4,10 +4,10 @@ Minister of resource:[nation]die wache reich[/nation]
 Minister of Foreign Affairs:[nation][/nation]
 Minister of Recruitment:[nation][/nation]
 Minister of Internal Affairs:[nation]Burkai[/nation]
-Minister of Justice:[nation]the Lycanthrope empire[/nation]
+Minister of Justice:[nation]the Lycanthrope empire[/nation][/u]
 
 
-[spoiler=Topic of the day][color=darkblue]Topic of the day: pros, cons, and ideas on political parties.[/color][/spoiler]
+[spoiler=Topic of the day][color=darkblue]Topic of the day: bacon/eggs vs cereal[/color][/spoiler]
 
 
 [spoiler=other][color=gold]Puppet storage: [region]Crimsonalliancepuppetstorage[/region][/color][/spoiler]

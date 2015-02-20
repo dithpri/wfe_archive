@@ -2,7 +2,7 @@
 
 Regi&oacute;n abierta a cualquier naci&oacute;n latinoamericana que respete los principios democr&aacute;ticos y rechace toda forma de dominaci&oacute;n. 
 
-Espa&ntilde;ol es el idioma oficial, pero ingl&eacute;s y portugu&eacute;s son aceptados tambi&eacute;n!
+Espa&ntilde;ol es el idioma oficial, pero ingl&eacute;s y portugu&eacute;s son tambi&eacute;n aceptados!
 [color=green]Espanhol &eacute; a l&iacute;ngua oficial, mas Ingl&ecirc;s e Portugu&ecirc;s tamb&eacute;m s&atilde;o aceitos![/color]
 [color=red]Spanish is the official language, but English and Portuguese are also accepted![/color]
 
@@ -11,3 +11,10 @@ Por favor endosar al Delegado: [nation]Laederean Union[/nation]
 Foro regional: http://nslatinoamerica.yuku.com/
 
 [b][color=blue]Si&eacute;ntanse libres de ayudarnos a construir una regi&oacute;n independiente, plural y democr&aacute;tica[/color][/b]
+
+[B]REGIONES BAJO TUTELA LATINOAMERICANA:[/B]
+[region]Belice[/region]
+[region]MERCOSUR[/region]
+[region]La Habana[/region]
+[region]Republica Dominicana[/region]
+[region]Trinidad y Tobago[/region]

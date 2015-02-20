@@ -4,6 +4,8 @@
         &raquo; King: Richard I of [nation=short]Gyuamno[/nation]
         &raquo; Regent: Prince Mathieu of [nation=short]Dragonyza[/nation][hr]
 [b][u]The Cabinet[/b][/u]
+        &raquo; Minister of the Interior: Albrecht I of [nation=short]Hess-Castle[/nation]
+        &raquo; Minister of Foreign Affairs: Davon Blackmore of [nation=short]Stowerling Hold[/nation]
 
 [b][u]Parliament[/b][/u]
 

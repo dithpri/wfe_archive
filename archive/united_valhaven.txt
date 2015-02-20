@@ -11,5 +11,5 @@
 [color=orange][u][b]Legislative Offices of United Valhaven[/b][/u][/color]
 
 [color=orange]Chief Justice:[/color][nation]Neo-Libralis[/nation]
-[color=orange]Associate Justices:[/color]
+[color=orange]Associate Justices:[/color][nation]Strag[/nation] [color=orange]and[/color] [nation]AlexanderVictor[/nation]
 

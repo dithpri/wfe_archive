@@ -1,6 +1,6 @@
 Court Room of Libertatem
 
-Upcoming Trial:
+Past Trial:
 [i]People of Libertatem v. Ankha[/i]
 
 Judge:[nation=short]Muh Roads[/nation]
@@ -11,5 +11,8 @@ Defense: [nation=short]Yrellian Confederacy[/nation] (People&amp;#39;s Attorney)
 
 Charges:
   - One (1) count of Felony Espionage
+
+Result:
+Due to the inability of the Jury to reach a near-unanimous decision, the trial was announced as a mistrial on February 19, 2015. The Prosecution chose not to retrial in the interest of time management.
 
 Status: Trial summoned, calling of the roll pending.

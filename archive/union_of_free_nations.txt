@@ -7,7 +7,7 @@
 [b][u]Ministry of Foreign Affairs[/b][/u]
 [nation=short]torvalyn[/nation] [b](Minister)[/b]
 [b][u]Intelligence Directorate[/b][/u]
-[b]VACANT[/b]
+[nation=short]tylannd[/nation] [b](Director)[/b]
 [b][u]Recruitment Bureau[/b][/u]
 [nation=short]rakaidia[/nation] [b](Chairman)[/b]
 [b][u]Chief Communications Officer[/b][/u] 
