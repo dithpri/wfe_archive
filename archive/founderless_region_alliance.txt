@@ -7,7 +7,7 @@
 
 Arch Chancellor -- [nation=short]Wibblefeet[/nation]
 
-Vice Chancellor -- 
+Vice Chancellor -- [nation=short]Wopruthien[/nation]
 
 Chief of Defence Force -- [nation=short]Dyr Nasad[/nation]
 

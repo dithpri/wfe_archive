@@ -12,7 +12,7 @@ Check this out! http://www.nationstates.net/page=challenge
 WA Delegate:[nation=short]Imperialisea[/nation]
 Recruiter:[nation=short]union of the democrats[/nation]
 Chancellor:[nation=short]imperialisea[/nation]
-Priceps Imperator:[nation=short]imperialisea[/nation]
+Minister of Defense:[nation=short]imperialisea[/nation]
 Raiding Commander:
 Knights:
 [nation=short]Bokatoo[/nation]

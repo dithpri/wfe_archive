@@ -1,9 +1,9 @@
 [color=scarlet]If not for the Black Rider scum that plague our reich, I your kaiser, would have granted elections. But due to recent events I have extended martial law until the end of March. I hereby declare total war against the [region=The Black Riders]![/color]
 
-[color=gold]Kaiser: [nation=The Deutsch Reich]
-Archduke: [nation=Kanakaestain]
+[color=gold]K&ouml;nig: [nation=The Deutsch Reich]
+Kronprinz: [nation=Kanakaestain]
 [hr]
-Chancellor: [nation=Wien]
-Minister of Foreign Affairs: [Nation=Adrian Einwelt]
-Minister of War:
-Minister of Domestic Affairs: [nation=Southeastern Germany][/color]
+Kanzler: [nation=Wien]
+Diplomatischer Vertreter: [Nation=Adrian Einwelt]
+Marschall: [nation=Kanakaestain]
+Generalstaatsanwalt:[/color]

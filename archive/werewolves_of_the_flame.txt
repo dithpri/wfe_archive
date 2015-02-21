@@ -1,13 +1,21 @@
 [u]Beloved King:[nation]alpha wolf[/nation]
+
 Checkered Delegate:[nation]siburria[/nation]
-Minister of resource:[nation]die wache reich[/nation]
-Minister of Foreign Affairs:[nation][/nation]
+
+Head of Defence:[nation]die wache reich[/nation]
+
+Minister of Foreign Affairs:[nation]gradea[/nation]
+
 Minister of Recruitment:[nation][/nation]
+
 Minister of Internal Affairs:[nation]Burkai[/nation]
-Minister of Justice:[nation]the Lycanthrope empire[/nation][/u]
+
+Judge:[nation]the Lycanthrope empire[/nation][/u]
 
 
 [spoiler=Topic of the day][color=darkblue]Topic of the day: bacon/eggs vs cereal[/color][/spoiler]
 
 
-[spoiler=other][color=gold]Puppet storage: [region]Crimsonalliancepuppetstorage[/region][/color][/spoiler]
+[spoiler=other][color=gold]Puppet storage: [region]Crimsonalliancepuppetstorage[/region][/color]
+[color=red]Regional court:[/color] ?
+[color=black][i]Regional Anthem:[/i]Queen- !!Bohemian Rhapsody!![/color][/spoiler]

@@ -1,6 +1,6 @@
 [b]REGIONAL GOVERNMENT[/b]
 
-Prime Minister:
+Prime Minister-elect: [nation]Monos[/nation]
 Minister of State:[nation]Monos[/nation]
 Minister of Foreign Affairs:[nation]Tysoania[/nation]
 Minister of Recruitment:[nation]ReligionTopia[/nation] [b]SUSPENDED[/b]

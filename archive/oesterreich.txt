@@ -1,10 +1,6 @@
-[b][u]Alliance:[/u] [region]Greater European Federation[/region]
-[u]Politics:[/u] [color=#0000CC]Federal Parliamentary and Constitutional Republics[/color][hr][u]Country:[/u] [region]Republic of Austria[/region]/[region]Oesterreich[/region]
-[hr][u]Region History:[/u] 
-Oesterreich was briefly held by [color=grey]Independent[/color] Maibach
-[nation=short]GEF Expeditionary Force 70[/nation] was dispatched to Oesterreich to defend the city of the [color=#0000CC]Federal Parliamentary Republic[/color] against all threats.
-
-[u]Combating:[/u] 
-Right Wing [color=#996600]Fascist[/color], and [color=#996600]Totalitarian[/color] regions
-Left Wing [color=#1F1F0F]Anarchist[/color], [color=red]Socialist[/color], [color=red]Anti-Fascist[/color] and [color=red]Communist[/color] regions
+[b][color=#0000CC]Geographical Location:[/color] [region]Greater Europe[/region]
+[color=#0000CC]Country:[/color] [region]Republic of Austria[/region] - [region]Oesterreich[/region][hr][region]Republic of Austria[/region] is represented by the [region]Greater European Federation[/region] in the [url=http://www.nationstates.net/page=un]World Assembly[/url] and protected by [url=http://www.nationstates.net/nation=greater_european_federation_president/detail=factbook/id=362618]GEF Forces[/url].
+ 
+European Nationals from [region]Republic of Austria[/region], and their Austrian descendants, are welcome to participate in the Federation.
+Please support your Candidate for GEF World Delegate.
 [/b]
