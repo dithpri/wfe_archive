@@ -1,11 +1,11 @@
 [b]REGIONAL GOVERNMENT[/b]
 
-Prime Minister-elect: [nation]Monos[/nation]
+Prime Minister: [nation]Monos[/nation]
 Minister of State:[nation]Monos[/nation]
-Minister of Foreign Affairs:[nation]Tysoania[/nation]
-Minister of Recruitment:[nation]ReligionTopia[/nation] [b]SUSPENDED[/b]
-Minister of Internal Affairs:[nation]Riletopia[/nation]
-Minister of Justice:[nation]CoIN CONCORD[/nation]
-Minister of Defence: [nation]Geo chorus[/nation]
+Minister of Foreign Affairs:[nation]Geo chorus[/nation]
+Minister of Recruitment:[nation]Riletopia[/nation]
+Minister of Internal Affairs:[nation]Tysoania[/nation]
+Minister of Justice:[nation]Muland[/nation]
+Minister of Defence: [nation]CoIN CONCORD[/nation]
 
-[url=http://geochorus.deviantart.com/art/Map-03-513363867?ga_submit_new=10%253A1423710303]Regional Map[/url]
+[url=http://geochorus.deviantart.com/art/Map-04-515624159]Regional Map[/url]

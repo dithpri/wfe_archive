@@ -1,17 +1,11 @@
 Welcome to [region]The Shrieking Shack[/region]! We hope you enjoy your stay!
 
 [hr]
-[color=blue]The flag is flying, announcing complete independence;
-the nation rises up because of the faith we have in this our Shack.
-Let us always have devotion to love our Great Islands.
-We Shriekers are of one blood.
-We Shriekers are of one world.
-On these Islands we were born; these Islands brought us up.
-May luck always help us;
-Let us always have the firm resolve to love our fatherland, love our religion and the world.
-The flag is flying.
-From the Thirteenth of February the Nation rises up.
-Our Islands are lined up: [nation=noflag+short]Piggetrea[/nation] and [nation=noflag+short]Nelusburg[/nation], [nation=noflag+short]Seijou[/nation] and [nation=noflag+short]Rosaya[/nation].
-Let us always have devotion to love our Great Islands.[/color]
 
-[hr]
+[color=orange][b]Queen of the Shriekers:[/b][/color] [nation]Nelusburg[/nation]
+
+[color=red][b]Head of Parliament:[/b][/color] Available
+[color=green][b]World Assembly Delegate:[/b][/color] [nation]Piggetrea[/nation]
+
+[color=purple][b][u]Knighted Officials:[/u][/b][/color]
+Ask for Recognition

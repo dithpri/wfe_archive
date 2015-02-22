@@ -19,7 +19,7 @@
 [nation=short]Sulania[/nation] [b]([color=limegreen]F[/color])[/b]
 
 [b]Minister of Justice:[/b] 
-[i]Election in progress[/i][/list] 
+[nation=short]Acro WA[/nation] [b]([color=#006CA8]R[/color])[/b][/list] 
 [hr][b][u][color=navy]Second Chief Justice of the CFN[/color][/b][/u]
 
 [list][b]Chief Justice:[/b]
