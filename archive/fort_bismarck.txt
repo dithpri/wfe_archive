@@ -1,7 +1,8 @@
 [b][color=scarlet].:\|/:.FORT BISMARCK.:\|/:.[/color][/b][hr]
-[b][color=gold]Kaiser:[/color][/b] Herr Wilhelm I of [nation=short+noflag]The Deutsch Reich[/nation]
-[b][color=gold]Archduke:[/color][/b] Herr Richthofen von Friedberg of [nation=short+noflag]Kanakaestain[/nation]
-[b][color=gold]Chancellor:[/color][/b] Herr Ethan Michaelson of [nation=short+noflag]Kulginastan[/nation][hr]
+[b][color=gold]K&ouml;nig:[/color][/b] [nation=short+noflag]The Deutsch Reich[/nation]
+[b][color=gold]Kronprinz:[/color][/b] [nation=short+noflag]Kanakaestain[/nation]
+[b][color=gold]Kanzler:[/color][/b] [nation=short+noflag]Wien[/nation]
+[b][color=gold]Marschal:[/color][/b] [nation=short+noflag]Kanakaestain[/nation][hr]
 
-[color=orange]This is a fort of [region=the Greater OstReich], all enemies to the Kaiser shall be shot![/color]
-[color=scarlet]HEIL KAISER DIR![/color]
+[color=orange]This is a fort of [region=the Greater OstReich], all enemies to the K&ouml;nig shall be shot![/color]
+[color=scarlet]GOTT MIT UNS![/color]

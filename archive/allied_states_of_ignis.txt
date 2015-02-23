@@ -8,4 +8,4 @@ LEADERS:
 
 [nation]New Noua[/nation] = [color=red]Founder[/color], [color=orange]WA Delegate[/color]
 
-[nation]Comoro[/nation] = [color=red]Founder[/color]
+[nation]Comoro[/nation] = [color=red]Founder[/color], [color=blue]Regional Economic Architect[/color], [color=blue]Regional Military Commander[/color]

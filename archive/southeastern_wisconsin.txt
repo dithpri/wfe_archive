@@ -13,6 +13,4 @@ Head of the Court: [nation=short]Austrombolia[/nation][/color]
 [hr][b]Threat Level[/b]
 [color=green]No threats detected[/color] ([color=green]Level 1[/color]/[color=red]5[/color])
 [hr][b]News and Bulletin:[/b]
-[color=green]&#149; Join the WA! The more WA nations, the stronger the region!
-&#149; Endorse your WA Delegate, [nation=short]Zaldania[/nation]!
-&#149; How should we run our regional government? Share your ideas in the message board![/color]
+[color=green]&#149; Elections will begin on the 1st. To run for a position, confirm your campaign by the 28th.[/color]

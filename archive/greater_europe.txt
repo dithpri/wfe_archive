@@ -1,4 +1,4 @@
-[b][region]Greater Europe[/region] is  represented by the [region]Greater European Federation[/region]
+[b][region]Greater Europe[/region] represented by the [region]Greater European Federation[/region]
 
 Components:
 [region]European America[/region]
@@ -6,27 +6,15 @@ Components:
 [region]Anglo Celtic Isles[/region]
 [region]THE NORDIC FEDERATION[/region]
 [region]Baltic States Alliance[/region] &amp;amp; [region]Baltic States[/region]
+Land Forces: Northern Anti-Terror Organization
+[region]Allied Maritime Command[/region]
 [hr]
-[region]Kongeriket Norge[/region]
-[region]Nordland[/region]
-[region]Konungariket Sverige[/region]
-[region]Suomen Tasavalta[/region]
-[region]Parliamentary Republic of Estonia[/region]
-[region]Parliamentary Republic of Latvia[/region]
-[region]Parliamentary Republic of Lithuania[/region]
-[region]Republic of Slovenia[/region], [region]The Republic of Slovenia[/region], [region]Republika Slovenija[/region]
-[region]Republica Moldova[/region]
-[region]Rzeczpospolita Polska[/region]
-[region]The Republic of Bulgaria[/region]
-[region]Koninkrijk Belgie[/region]
-[region]Federacija Bosne i Hercegovine[/region], [region]Republika Srpska[/region], [region]Brcko Distrikt[/region]
-[region]Republic of England[/region]
-[region]Republic of Germany[/region]
-[region]The Republic of Texas[/region]
-[region]Republic of Austria[/region], [region]Oesterreich[/region]
-[region]Republic of Italy[/region]
+Various Republics and Constitutional Monarchies
 
 Allies:
 [region]Children Of The Aesir[/region]
 [region]Anglo Saxon England[/region]
+
+Other:
+[region]Confederation of the Rhine[/region]
 [/b]
