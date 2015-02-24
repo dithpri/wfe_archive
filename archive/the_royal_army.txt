@@ -5,8 +5,8 @@ The ROYAL GOVERNMENT[/i]
 
 King: [nation=West Atlantic Federation]
 Crown Prince: [nation=The Millennium Star]
-Prince: [nation=Country of Kyrat]
-Prince: [nation=Islamic Federation]
+Minister of State: [nation=Country of Kyrat]
+Minister of State: [nation=Islamic Federation]
 ____________________________________________________________________________________________________________________________________________
 
 [i]ORDER OF THE DAY[/i]

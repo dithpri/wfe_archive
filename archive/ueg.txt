@@ -1,4 +1,4 @@
 [colour=gold]UEG MEMBERS[/colour]
-[colour=silver]President:[/colour][nation=short]Falconmont[/nation]
-[colour=brass]Senate:[/colour][nation=short]Alegeharia[/nation][nation=short]Jereathiel of Jedmathia[/nation][nation=short]Scivonia[/nation]
+[colour=silver]President:[/colour][nation=short]Alegeharia[/nation]
+[colour=brass]Senate:[/colour][nation=short]Jereathiel of Jedmathia[/nation][nation=short]Scivonia[/nation][nation=short]Falconmont[/nation]
 [colour=grey]Other Members:[/colour]

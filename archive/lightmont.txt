@@ -6,7 +6,7 @@ The Dear Leader: [nation=shortname]Eskvor[/nation]
 Pentarch of Love: [nation=shortname]Anthalin[/nation]
 Pentarch of Truth: [nation=shortname]Malernor[/nation]
 Pentarch of Plenty: Vacant
-Pentarch of the Lightmontian Role-playing Committee: Vacant
+Pentarch of the Lightmontian Role-playing Committee: [nation=shortname]Pricryst[/nation]
 Pentarch of the People: Vacant
 
 Endorse the Chancellor or be hung, drawn, and quartered!

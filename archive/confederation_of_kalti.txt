@@ -1,3 +1,4 @@
-Dominions of the Confederation of Kalti
-[Castelli di Summerland, Castelli di Tivat, Castelli di Kotor, Castelli di Berane, Castelli di Valais,
-Castelli di Taleham, Castelli di Illyrie, Castelli di Sandiel, Castelli di Capiona]
+This is a personal region for [nation]Kalti[/nation] and houses puppet nation&amp;#39;s that act as the constituent states (Castelli).
+
+{[region]Castelli di Summerland[/region] | [region]Castelli di Tivat[/region] | [region]Castelli di Kotor[/region] | [region]Castelli di Berane[/region] | [region]Castelli di Valais[/region] | [region]Castelli di Taleham[/region]
+[region]Castelli di Varik[/region] | [region]Castelli di Illyrie[/region] | [region]Castelli di Sandiel[/region] | [region]Castelli di Capiona[/region] | [region]Castelli di Renzia[/region] | [region]Castelli di Odivo[/region] | [region]Castelli di Montia[/region]}

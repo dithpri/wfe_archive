@@ -14,4 +14,4 @@ Founder: [nation=short]Orange-Habsburg[/nation]
 WA-Delegate: OPEN
 Administrator: 2x OPEN
 Coordinator: 4x OPEN
-Carthographer: 1x OPEN
+Carthographer: [nation=short]Belapole[/nation]

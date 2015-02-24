@@ -1,4 +1,6 @@
-[b]Location: [region]Greater Europe[/region]
-[region]Allied Maritime Command[/region]
+[b][color=#0000CC]Geographical Locations:[/color] 
+[region]Greater Europe[/region]
+[region]European America[/region]
+[region]European Oceania[/region]
 
-Under jurisdiction of the [region]Greater European Federation[/region] and mandate to protect European and colonial waters[/b]
+[region]Allied Maritime Command[/region] is under jurisdiction of the [region]Greater European Federation[/region] and mandated to protect European territorial waters, shipping lanes, conduct oceanographic research, and anti-terror operations[/b]
