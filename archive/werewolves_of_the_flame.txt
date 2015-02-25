@@ -4,9 +4,7 @@ Checkered Delegate:[nation]siburria[/nation]
 
 Head of Defence:[nation]die wache reich[/nation]
 
-Archiver:
-
-Minister of Foreign Affairs:[nation]gradea[/nation]
+Minister of Foreign Affairs:[nation][/nation]
 
 Minister of Recruitment:[nation][/nation]
 

@@ -1,14 +1,13 @@
-[b][i]WELCOME TO [region=The Royal Army]: NATIONSTATES&amp;#39; ELITE RAIDING FORCE!
+[b][i][region=The Royal Army]: NATIONSTATES&amp;#39; ELITE RAIDING FORCE![/i]
 ____________________________________________________________________________________________________________________________________________
 
-The ROYAL GOVERNMENT[/i]
+THE ROYAL GOVERNMENT
 
-King: [nation=West Atlantic Federation]
-Crown Prince: [nation=The Millennium Star]
-Minister of State: [nation=Country of Kyrat]
-Minister of State: [nation=Islamic Federation]
-____________________________________________________________________________________________________________________________________________
-
-[i]ORDER OF THE DAY[/i]
-
-Join the World Assembly, move to [region=The Royal Army], and endorse [nation=The Millennium Star] as WA delegate! [/b]
+King, Head of State: [nation=West Atlantic Federation]
+Crown Prince, Head of Government: [nation=The Millennium Star]
+Executive Minister of Public Affairs: [nation=The Palm Fran]
+Executive Minister of Defence: [nation=Zoveria]
+Executive Minister of Resources: [nation=New Cole]
+Minister of Foreign Affairs: [nation=Country of Kyrat]
+Minister of Industry: [nation=King Pagan Min]
+Minister of Finance: [nation=Islamic Federation][/b]
