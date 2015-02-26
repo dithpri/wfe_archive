@@ -7,7 +7,7 @@ Air-cooled, but never dry.
 
 High Council: A vote of 3 or more passes any legislation.
 [nation]The Benzopolis Empire[/nation] is chairman.
-[nation]Alagasagia[/nation] is advisor.
+[nation]Alagasagia[/natio] is advisor.
 [nation]Toxic Dead Lands[/nation] is Secretary of Defense/Mining
 [nation]Marviania[/nation] is Secretary of Welfare/Population.
 [nation]Bl4ck land[/nation] is Secretary of Agriculture.

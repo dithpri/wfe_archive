@@ -10,7 +10,7 @@ The [color=blue]Socialist Armed Forces[/color] will be established when we reach
 Prime Minister: [nation]Cadest[/nation]
 Foreign Minister: [nation]Isla de Rojo[/nation]
 Interior Minister: [nation]Union of Democratic states[/nation]
-Defense Minister: [none]
+Defense Minister (Acting): [nation]Cadest[/nation]
 
 [hr]
 [b][color=red]We stand united with small and medium sized regions. We stand against [region]The Black Riders[/region].[/color][/b]

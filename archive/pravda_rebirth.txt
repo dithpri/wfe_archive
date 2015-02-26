@@ -14,6 +14,6 @@
 
 [b][color=lime]Director of Plenty:[/color][/b]
 
-[b][color=pink]Director of Love:[nation]A Little Old Lady[/nation][/color][/b]
+[b][color=pink]Director of Love:[/color][/b]
 
-[b][color=violet]Director of Peace:[/color][/b]
+[b][color=violet]Director of Peace:[/color][nation]A Little Old Lady[/nation][/b]
