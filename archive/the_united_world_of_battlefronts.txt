@@ -11,7 +11,7 @@
 [color=purple]Minister of Justice - [nation=short]The National Covenant[/nation] [/color]
 
 UWB Regional Council:
-[color=red]Head Council Member[/color] - [nation=short]Lycanberg[/nation]
+[color=red]Head Council Member[/color] - [nation=short]Olbearia[/nation]
 [color=blue]Council Members:[/color]
 [nation=short]Archiedonas[/nation]
 [nation=short]Brigli[/nation]

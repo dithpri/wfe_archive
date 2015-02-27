@@ -4,6 +4,7 @@
 [nation]New Besancon[/nation]
 [nation]La Mercier[/nation]
 [nation]Libre Monde[/nation]
+[nation]Malson[/nation]
 
 [hr]
 
