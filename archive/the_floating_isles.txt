@@ -1,9 +1,6 @@
 Administration: The Holy Floating Isles of Thysa
 Foreign Relations: Helvet Miori Thysa
-Industry: Navaria Leonya Libertas
+Beauty and the Arts: Navaria Leonya Libertas
+Military: Terra Thysa
+Industry: Likha Thysa
 
-Military Commander: Terra Thysa
-Cavalry: Likha Thysa
-Air Force: Helvete Thysa
-Navy: Swihde Thysa
-Marines: Yadha Thysa

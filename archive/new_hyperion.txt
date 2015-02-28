@@ -5,11 +5,10 @@
 [hr][B]Imperial Council:[/B]
 Autarch: [nation]Genesis[/nation]
 Chancellor: [nation]Laurentus States[/nation]
+Praemonstrator: [nation]Frostmark[/nation]
 Lord Inquisitor: [nation]Colbentielle[/nation]
 Propaganda: [nation]Rationalist Science[/nation]
 Development: [nation]Miricano[/nation]
 Culture: [nation]Aragonn[/nation]
 
-[B][color=goldenrod]All WA nations are required to endorse the chancellor, [nation]Laurentus States[/nation].[/color][/B]
-
-[hr][hr][b][i]Member state of [url=page=dispatch/id=292443]The Purified Commonwealth[/url][/i][/b][hr][hr]
+[B][color=goldenrod]All WA nations are required to endorse the chancellor, [nation]Laurentus States[/nation], during peacetime.[/color][/B]

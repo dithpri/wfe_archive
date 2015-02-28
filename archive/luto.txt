@@ -4,6 +4,5 @@
 [region=The Peoples Union]
 [region=The Communist Legion]
 [region=Palestinian Freedom Fighters]
-[region=Union of Socialist Soviet Republics]
 [region=Federal Socialist Republics of Kelomar]
 [region=Freecomunism]

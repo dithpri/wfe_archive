@@ -9,4 +9,4 @@ HQ Located in our Best Nation - [nation=noflag+short]Die Verlorenen Soldaten[/na
 [spoiler=Allies][url=http://www.nationstates.net/region=southerners_paradise]Southerners Paradise[/url]
 [url=http://www.nationstates.net/region=bobs_burgers]Bobs Burgers[/url][/spoiler]
 
-[spoiler=Enemies][url=http://www.nationstates.net/region=greater_pontacium]Greater Pontacium[/url][/spoiler]
+[spoiler=Enemies][nation]Pontacium[/nation][/spoiler]

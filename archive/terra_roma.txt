@@ -1,7 +1,7 @@
 [color=red]Built on seven hills, bent by none! Gaze upon the might of Rome and be undone![/color]
 
-Consul:
-Consul:
+Consul:[nation=short]Augustine Octavian[/nation]
+Consul:[nation=short]Marcus Tulius Cicero[/nation]
 Praetor:
 Praetor:
 Praetor:

@@ -2,6 +2,7 @@
 
 Components:
 [region]European America[/region]
+[region]European Oceania[/region]
 [region]Nationalist Europe[/region]
 [region]Anglo Celtic Isles[/region]
 [region]THE NORDIC FEDERATION[/region]
@@ -18,4 +19,5 @@ Allies:
 History:
 [region]Confederation of the Rhine[/region]
 [region]Deutsches Kaiserreich[/region]
+[region]Preussen[/region]
 [/b]
