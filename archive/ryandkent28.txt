@@ -1,14 +1,26 @@
-[b][color=red]Welcome to RyanDKent28![/color]
+[b][u]Main Nation[/u][/b]
 
-[color=orange][u]Playing NationStates Since[/u]
-February 16, 2012[/color]
+[nation=short]RyanDKent28[/nation]
 
-[color=gold]Puppet Storage Region[/color]
+[b][u]World Assembly Nation[/u][/b]
 
-[color=green]Join the World Assembly![/color]
+[nation=short]RyanDKent28[/nation]
 
-[color=blue][u]Governor &amp;amp; WA Delegate[/u]
-[nation=short]RyanDKent28[/nation][/color]
+[b][u]Puppet Nations[/u][/b]
 
-[color=indigo][u]Links[/color][/u][/b]
-[url=https://nationstatesplusplus.net/install][color=indigo]NS++[/color][/url]
+[nation=short]The Union of Leftist Republics[/nation]
+[nation=short]The Russian American Colony[/nation]
+[nation=short]The Kingdom of the Kentish[/nation]
+[nation=short]The Socialist Republic of Romania[/nation]
+[nation=short]Midland Chemics[/nation]
+
+[b][u]Puppet Regions[/u][/b]
+
+[region=The Socialist Republic of Romania]
+[region=Kingdom of the Kentish]
+
+[b][u]Affiliate Regions[/u][/b]
+
+[region=Commonwealth of Liberty]
+[region=Historia Novorum]
+[region=Democratic Socoaist Assembly]

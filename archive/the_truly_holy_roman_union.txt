@@ -1,9 +1,4 @@
 
-
 [color=brown][region]The Black Riders[/region] must be stopped and eliminated for good. Help us in achieving this goal.[/color]
-[color=red][nation]new genesiscorp[/nation] has completed Project Diabound. [nation]the bruce[/nation] and his allies will crumble to our might.[/color]
-[color=purple][nation]Hydroponic Nation[/nation] has announced its unconditional surrendur. Huzza!!!!!!!!!!!!![/color]
-[color=green][nation]the grendels[/nation] has announced its unconditional surrendur under the might of [nation]kim jong david[/nation][/color]
+[color=red][nation=short]The Bruce[/nation] has surrendured. His allies [nation=short]Nak Nak[/nation], [nation=short]Hydroponic Nation[/nation], and [nation=short]The Grendels[/nation] are all being occupied by the [nation=short]United Sectors of Earth[/nation] and [nation=short]Adensine Triphosphate[/nation]. A peace treaty is being written up and more is yet to come.[/color]
 
-
-There is an endorsement cap of 2

@@ -12,4 +12,4 @@ Grand Jedi Master:[nation=short+noflag]Jedi Clarinetists[/nation]
 Jedi Council: [nation=short+noflag]Jedi Clarinetists[/nation], [nation=short+noflag]CT-7567[/nation], [nation=short+noflag]NewJediOrder[/nation]
 Jedi Master: 
 Jedi Knight:[nation=short+noflag]Noori[/nation], [nation=short+noflag]Rozhira[/nation], [nation=short+noflag]Jediism[/nation]
-Padawan Learner: 
+Padawan Learner: [nation=short+noflag]Graystaveann[/nation]

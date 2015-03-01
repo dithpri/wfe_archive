@@ -1,8 +1,8 @@
-[color=red]Built on seven hills, bent by none! Gaze upon the might of Rome and be undone![/color]
+[color=red]Roma est aeternum, est potens omnia[/color]
 
 Consul:[nation=short]Augustine Octavian[/nation]
 Consul:[nation=short]Marcus Tulius Cicero[/nation]
-Praetor:
+Praetor:[nation=short]GAIVS IVLIVS CAESAR[/nation]
 Praetor:
 Praetor:
 
