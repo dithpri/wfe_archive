@@ -8,7 +8,7 @@ Emergency storage region for Juche Union residents.
 WA Delegate: [nation=short]Socialist Republics of Russia[/nation]
 Vice WA Delegate: [nation=short]Greater Gaelicland[/nation]
 War Commissar: [nation=short]Communist Skyrim[/nation]
-General of the PRLA: [nation=short]Sween[/nation]
+General of the Red Army: [nation=short]Sween[/nation]
 
 [u]Security Level[/u]
 DEFCON 1 - AT WAR

@@ -4,8 +4,10 @@
 
 [B][u][i][color=blue]Special Election campaigning open for Force Commander![/color][/i][/u][/B]
 
+[B][u][i][color=blue]Campaigning for Delegate is open![/color][/i][/u][/B]
 
-[B]Prime Minister: [nation=short]Deneclia[/nation] (I)
+
+[B]Prime Minister: [nation=short]The United England[/nation] ([color=gold]NIP[/color])
 
 
 Speaker of the Assembly: [nation=short]Correctional Facility[/nation] ([color=blue]CP[/color])
@@ -16,10 +18,10 @@ Force Commander:
 
 High Commissioner: [nation=short]Aligned Planets[/nation] (I)
 
-Vice-Delegate: [nation=short]The United England[/nation] ([color=gold]NIP[/color])[/B]
+Vice-Delegate: [nation=short]Autumne[/nation] (I)[/B]
 
 [u]Cabinet:[/u]
-Interior Minister:
+Interior Minister: [nation=short]Zargomie[/nation]
 Foreign Minister:
 Justice Minister:
 
@@ -30,7 +32,7 @@ Justice Minister:
 [u]Regional Support Staff:[/u]
 Editor-in-Chief: [nation=short+noflag]Ghondra[/nation] (Interim) 
 Wiki Master:
-Flag Designer: [nation=short+noflag]Pridton[/nation]
-Cartographer: [nation=short+noflag]Pridton[/nation] (Interim)
+Flag Designer:
+Cartographer:
 
 [B][color=red]Please remember to endorse the Delegate and Vice-Delegate![/color][/B]

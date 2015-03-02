@@ -13,6 +13,7 @@
 [nation=short]The Kingdom of the Kentish[/nation]
 [nation=short]The Socialist Republic of Romania[/nation]
 [nation=short]Midland Chemics[/nation]
+[nation=short]Kentfirealarms[/nation]
 
 [b][u]Puppet Regions[/u][/b]
 
@@ -23,4 +24,4 @@
 
 [region=Commonwealth of Liberty]
 [region=Historia Novorum]
-[region=Democratic Socoaist Assembly]
+[region=Democratic Socialist Assembly]

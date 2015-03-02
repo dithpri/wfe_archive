@@ -8,6 +8,8 @@ Autarch- [nation]Zanzibarya[/nation]
 Ministry:
 Minister of Legislature- [nation]The soviet states of europe and asia[/nation]
 Minister of Propaganda-
-Minister of Intelligence-
-Minister of War- [nation]Thayn[/nation]
+Minister of Intelligence- [nation]orlai[/nation]
+Minister of War- [nation]legatus Lanius II[/nation]
 Minister of State Affairs-
+
+[b]Anthem:[/b] http://youtu.be/xPPXnU4vR2k
