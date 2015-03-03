@@ -1,4 +1,6 @@
-[b][i][region=The Royal Army]: NATIONSTATES&amp;#39; ELITE RAIDING FORCE![/i]
+[i][b][region=The Royal Army]: NATIONSTATES&amp;#39; ELITE RAIDING FORCE![/i]
+
+ORDER OF THE DAY: Join the World Assembly and await further instructions!
 ____________________________________________________________________________________________________________________________________________
 
 THE ROYAL GOVERNMENT
@@ -7,7 +9,4 @@ King, Head of State: [nation=West Atlantic Federation]
 Crown Prince, Head of Government: [nation=The Millennium Star]
 Executive Minister of Defence: [nation=QuZho]
 Executive Minister of Foreign Affairs: [nation=Antonlands]
-Executive Minister of Finance: [nation=Zoveria]
-Minister of Public Affairs: [nation=The Palm Fran]
-Minister of Industry: [nation=King Pagan Min]
-Minister of Resources: [nation=Country of Kyrat][/b]
+Executive Minister of Finance: [nation=Zoveria][/b]

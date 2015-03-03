@@ -1,32 +1,23 @@
 [b]Threat level: [color=orange]Orange[/color][/b]
 [hr]
 
-[b]Latest News:[/b] 
-
--UIN Amendment proposed.
--North Peihan invades South Peihan. 
--Peace treaty with the [region]IUSR[/region] awaits results. 
+[b]Latest News:[/b] UIN sees memberships decline rapidly.
 [hr]
 
 [b]Administrative Nations[/b] 
 
 [nation=short]Estinia[/nation]
-[nation=short]Great Slatain[/nation]
 [hr]
 
 [b]Member Nations[/b]
 
 [nation=short]Batoristan[/nation]
-[nation=short]Belierna[/nation]
 [nation=short]Beteunam[/nation]
 [nation=short]Castilea[/nation]
-[nation=short]Eitusian[/nation]
 [nation=short]Maronia[/nation]
 [nation=short]Ordorinia[/nation]
-[nation=short]Quamunsia[/nation]
 [nation=short]Slakia[/nation]
 [nation=short]Vassau[/nation]
-[nation=short]Vidisha[/nation]
 [nation=short]Yuzan[/nation]
 [hr]
 

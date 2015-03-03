@@ -6,8 +6,9 @@
 [b]Regions of Zemlya[/b]
 
 [url=/region=iusr][color=cc0000]International Union of Socialist Republics[/color][/url] - [i]The communist bloc of Zemlya, which adheres to Marxist-Leninist ideology.[/i]
-[url=/region=unaffiliated_nations][color=00cc00]Unaffiliated Nations[/color][/url] - [i]The place for nations in Zemlya which are not part of any specifically aligned region.[/i]
+[url=/region=unaffiliated_nations][color=Grey]Unaffiliated Nations[/color][/url] - [i]The place for nations in Zemlya which are not part of any specifically aligned region.[/i]
 [url=/region=union_of_independent_nations][color=0000cc]Union of Independent Nations[/color][/url] - [i]A military alliance of capitalist nations across the globe.[/i]
+[url=/region=omec][color=00cc00]Organisation of Military and Economic Co-operation[/color][/url] - [i]An organisation of nations co-operating militarily and economically.[/i]
 
 [spoiler=[color=blue][b]Nation Comparisons[/b][/color]][color=00cc00][b]Unaffiliated Nations[/b][/color]
 [url=/page=compare/nations=Absurrania+Azaniya+Diquis+Egrizi+Filipinass+Grand_Arkadia+Hayasten+Holliestria+Kavaii+Kuki-Airani+Lecheria]Page 1[/url]

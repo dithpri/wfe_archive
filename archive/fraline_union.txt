@@ -5,7 +5,8 @@ Anthem: [b]Unity Is Always Visionary[/b]
 Headquarter: [b]North Rostivalsia,[nation]Frosika[/nation][/b] 
 Working Language: [b]English[/b]
 Leader:
-- Founder: [b]Prime Minister of [nation]Frosika[/nation][/b] 
+- Founder &amp;amp; Secretary-General: [b][nation]Frosika[/nation][/b]
+- Current WA Delegate: [b][nation]Globana[/nation][/b]
 Establishment: 
 - [i]The Association of the Fraline Region (AFR)[/i]: [b]9 December 2014[/b] but defunct on [u]9 January 2015[/u]
 - [region]The Fraline Union[/region]: [b]10 January 2015[/b]

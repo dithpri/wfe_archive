@@ -1,9 +1,11 @@
-[b]Welcome to the CSC[/b]
+[color=blue][b]Welcome to the CSC[/b][/color]
 
-[b]Forever Strong, Forever Faithful[/b]
+[color=blue][i]Forever Strong, Forever Faithful[/i][/color]
 
-[b]Supreme Overlord of All Things Cool: [nation]Parthirium[/nation][/b]
+[color=gold][b]The Sovereign Council:[/b][/color]
 
-[b]Orange Banana Peel of the Supreme Soviet: [nation]Rimaea[/nation][/b]
+Chief Lord of the Sovereign Council: [nation=short]Parthirium[/nation]
+Lord Chancellor of the Crown Council: [color=red]Vacant[/color]
+Lord Speaker of the Crown Assembly: [nation=short]Rimaea[/nation]
+Lord Justice of the Crown Judiciary [nation=short]Noxxuss[/nation]
 
-[b]Grand Vizier of Things that Say Moo: [nation]Noxxuss[/nation][/b]
