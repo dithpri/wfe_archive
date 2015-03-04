@@ -22,4 +22,5 @@ Military Operations Directorate of [region]The Fascist Union[/region].
 [nation=short]Slarvenia[/nation] Evocati (Sergeant) 
 [nation=short]The New Age Empire[/nation] Munifex (Private)
 [nation=short]Belmora[/nation] Munifex (Private)
-[nation=short]Chalybea[/nation] Munifex (Private)[/b]
+[nation=short]Chalybea[/nation] Munifex (Private)
+[nation=short]Aztentao[/nation] Munifex (Private)[/b]

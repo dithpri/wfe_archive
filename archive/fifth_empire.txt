@@ -11,7 +11,7 @@ Those who serve under the Shield of the Fatherland are worthy of its protection.
 [b]Ministry of Economy:[/b] [nation]Xozanero[/nation]
 [b]Ministry of Agriculture:[/b] [nation]Sentar[/nation]
 [B]Ministry of Foreign Affairs:[/B] [nation]Fascist_iron_islands[/nation]
-[b]Ministry of Media and Communications:[/b] [nation]Valoron[/nation], [nation]Sentar[/nation]
+[b]Ministry of Media and Communications:[/b][nation]Sentar[/nation]
 [hr]
 
 

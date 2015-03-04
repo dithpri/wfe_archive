@@ -5,10 +5,10 @@ IF ANY OF OUR ALLIES IS TO BE ATTACKED, THEN THE ALLIANCE OF MAGHREB NATIONS WIL
 [hr]
 
 GOVERNMENT
-Head of State: [nation]Moroccan Netherlands[/nation]
-WA Delegate:
-Secretary-General: [nation]the New Rif[/nation]
-Minister of Economy: [nation]moroccan arabia[/nation]
+Head of State: [nation]Moroccan Arabia[/nation]
+Secretary-General: [nation]moroccan netherlands[/nation]
+Minister of Economy: [nation]moroccan netherlands[/nation]
+Minister of War and Regional Security: [nation]the new rif[/nation]
 [hr]
 
 INTERNATIONAL ORGANIZATIONS
