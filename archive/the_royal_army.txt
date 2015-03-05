@@ -5,9 +5,8 @@ ________________________________________________________________________________
 
 THE ROYAL GOVERNMENT
 
-King, Head of State: [nation=West Atlantic Federation]
 Crown Prince, Head of Government: [nation=The Millennium Star]
+King, Head of State: [nation=West Atlantic Federation]
 Executive Minister of Defence: [nation=QuZho]
 Executive Minister of Foreign Affairs: [nation=Antonlands]
-Executive Minister of Finance: [nation=Zoveria]
-Head of Ecological Extremism: [nation=New Cole][/b]
+Executive Minister of Finance: [nation=Zoveria][/b]

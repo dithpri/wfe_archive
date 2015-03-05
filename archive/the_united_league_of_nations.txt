@@ -22,8 +22,8 @@ Vice-Delegate: [nation=short]Autumne[/nation] (I)[/B]
 
 [u]Cabinet:[/u]
 Interior Minister: [nation=short]Zargomie[/nation]
-Foreign Minister:
-Justice Minister:
+Foreign Minister: [nation=short]Statland[/nation]
+Justice Minister: [nation=short]Saint Empire Occidental[/nation]
 
 [u]Court:[/u]
 [nation=short]Basra[/nation]

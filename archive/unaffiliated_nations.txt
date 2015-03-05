@@ -1,6 +1,4 @@
-[b]World Status:[/b] [color=orange]Medium Tensions[/color]
-
-[b]Latest News:[/b] North [nation=short]Peihan[/nation] invades South Peihan.
+[b]Latest News:[/b] OMEC founded.
 [hr]
 
 [b]Regions of Zemlya[/b]
@@ -10,14 +8,14 @@
 [url=/region=union_of_independent_nations][color=0000cc]Union of Independent Nations[/color][/url] - [i]A military alliance of capitalist nations across the globe.[/i]
 [url=/region=omec][color=00cc00]Organisation of Military and Economic Co-operation[/color][/url] - [i]An organisation of nations co-operating militarily and economically.[/i]
 
-[spoiler=[color=blue][b]Nation Comparisons[/b][/color]][color=00cc00][b]Unaffiliated Nations[/b][/color]
-[url=/page=compare/nations=Absurrania+Azaniya+Diquis+Egrizi+Filipinass+Grand_Arkadia+Hayasten+Holliestria+Kavaii+Kuki-Airani+Lecheria]Page 1[/url]
-[url=/page=compare/nations=Moshnia+Nahambia+New_Gentia+Nihonam+Padaliya+Peihan+Sapari+Shokran+Yarkonia+Yorkopolis]Page 2[/url]
+[spoiler=[color=blue][b]Nation Comparisons[/b][/color]][color=grey][b]Unaffiliated Nations[/b][/color]
+[url=/page=compare/nations=Absurrania+Azaniya+Diquis+Egrizi+Filipinass+Grand_Arkadia+Hayasten+Holliestria+Kavaii+Lecheria]Page 1[/url]
+[url=/page=compare/nations=Moshnia+Nahambia+New_Gentia+Nihonam+Padaliya+Peihan+Sapari+Yarkonia+Yokuts+Yorkopolis]Page 2[/url]
 [b][color=cc0000]International Union of Socialist Republics[/color][/b]
-[url=/page=compare/nations=Belakras+Canakhstan+Chobenia+Czervenika+Hallorania+Krasniya+Mongoliya+Navedia+Novokrasniya]Page 1[/url]
+[url=/page=compare/nations=Belakras+Canakhstan+Chobenia+Czervenika+Hallorania+Krasniya+Kuki-Airani+Mongoliya+Navedia]Page 1[/url]
 [url=/page=compare/nations=Pribaltika+Romaniya+Ruapekapeka+Slobozhanshchyna+Yukraina+Zakavkazye+Zeledia+Zinacantlan]Page 2[/url]
+[b][color=00cc00]Organisation of Military and Economic Co-operation[/color][/b]
+[url=/page=compare/nations=Belierna+Eitusian+Great_Slatain+Mormopia+Quamunsia+Shokran]Page 1[/url]
 [b][color=0000cc]Union of Independent Nations[/color][/b]
-[url=/page=compare/nations=Batoristan+Belierna+Beteunam+Castilea+Eitusian+Estinia+Great_Slatain]Page 1[/url]
-[url=/page=compare/nations=Maronia+Ordorinia+Quamunsia+Slakia+Vassau+Vidisha+Yuzan]Page 2[/url][/spoiler][spoiler=[b][color=red]Maps[/color][/b]][url=http://s16.postimg.org/3wxahcycz/Map.png]National Map[/url]
-[url=http://s18.postimg.org/y6t4zxxiv/Map_Inf.png]Influence Map[/url][/spoiler][spoiler=[b][color=green]Current RPs[/color][/b]]
-[url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=328163][color=blue]UIN Peace Conference[/color][/url][/spoiler]
+[url=/page=compare/nations=Batoristan+Beteunam+Castilea+Estinia+Maronia+Ordorinia+Slakia+Vassau+Vidisha+Yuzan]Page 1[/url][/spoiler][spoiler=[b][color=red]Maps[/color][/b]][url=http://s7.postimg.org/h37y3p7ah/Map.png]National Map[/url]
+[url=http://s11.postimg.org/8asq4ryzl/Map_Inf.png]Influence Map[/url][/spoiler][spoiler=[b][color=green]Current RPs[/color][/b]]No current RPs[/spoiler]
