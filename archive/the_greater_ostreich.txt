@@ -4,6 +4,6 @@
 Kronprinz: [nation=Kanakaestain]
 [hr]
 Kanzler: [nation=Wien]
-Diplomatischer Vertreter: [Nation=Adrian Einwelt]
+Diplomatischer Vertreter:
 Marschall: [nation=Kanakaestain]
 Generalstaatsanwalt:[/color]

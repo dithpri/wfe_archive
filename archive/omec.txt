@@ -6,11 +6,14 @@
 [b]Member Nations[/b]
 
 [nation=short]Belierna[/nation]
+[nation=short]Diquis[/nation]
 [nation=short]Eitusian[/nation]
 [nation=short]Great Slatain[/nation]
 [nation=short]Mormopia[/nation]
 [nation=short]Quamunsia[/nation]
 [nation=short]Shokran[/nation]
+[nation=short]Vidisha[/nation]
+[nation=short]Yuzan[/nation]
 [hr]
 
 [spoiler=[color=blue][b]Nation Comparisons[/b][/color]][color=grey][b]Unaffiliated Nations[/b][/color]

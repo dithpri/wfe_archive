@@ -4,9 +4,7 @@
 
 [color=#000061]Into the battle rode the following riders:[/color]
 
-[nation=short]Marelius[/nation][/b]
-[b][nation=short]Ridersyl[/nation][/b]
-[b][nation=short]Victor Savage[/nation][/b]
-[b][nation=short]Licstinburg[/nation][/b]
-[b][nation=short]Haafingar and Hjaalmarch[/nation][/b]
-[b][nation=short]Corvus Corax[/nation][/b]
+[nation=short]Victor Savage[/nation]
+[nation=short]Getti[/nation]
+[nation=short]Haafingar and Hjaalmarch[/nation]
+[/b]
