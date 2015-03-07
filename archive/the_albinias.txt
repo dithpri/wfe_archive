@@ -11,6 +11,9 @@
 [nation=Roxxion]
 [nation=Vokun]
 
-[url=http://albinias.boards.net/]Please take a look at the new and improved forum here![/url]
+[url=http://albinias.boards.net/][b]Please take a look at the new and improved forum here![/b][/url]
 
+[hr]
 
+[color=red]I[/color] [color=orange]found[/color] [color=yellow]out[/color] [color=green]how[/color] [color=blue]to[/color] [color=indigo]use[/color] [color=violet]colors![/color]
+[spoiler=Click if you dare...]That took a lot of work to do :([/spoiler]
