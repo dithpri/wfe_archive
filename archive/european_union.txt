@@ -11,7 +11,7 @@ If you don&amp;#39;t receive a validation email when you sign up for the forum, 
 Premier: [nation=short]Inimicus[/nation]
 Foreign Affairs: [nation=short]Angleter[/nation]
 Defence and Peacekeeping: [nation=short]Havvenskar[/nation]
-Economics: [nation=short]Poretos[/nation]
+Economics: VACANT
 Internal Affairs: [nation=short]Poland-Lythuania[/nation]
 
 [hr]
@@ -19,9 +19,9 @@ Internal Affairs: [nation=short]Poland-Lythuania[/nation]
 [b]Court[/b]
 Chief Justice: [nation=short]Poland-Lythuania[/nation]
 Justice: [nation=short]Os Corelia[/nation]
-Justice: [nation=short]Deutschia[/nation]
+Justice: VACANT
 Justice: [nation=short]Davishire2[/nation]
-Justice: [nation=short]Poretos[/nation]
+Justice: VACANT
 
 [hr]
 

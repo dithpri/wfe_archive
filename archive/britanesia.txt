@@ -14,7 +14,7 @@ The BRI capital is the city of [b]Sydney[/b], within [b][nation]New Britanna[/na
 
 [hr]
 
-[b]Our &amp;quot;world story&amp;quot; regions: (7)[/b]
-- [b][region]American Union[/region][/b] (AU) // [b][region]South American Union[/region][/b] (SAU)
-- [b][region]The European Confederacy[/region][/b] (EC) // [b][region]African Nations[/region][/b] (AN)
-- [b][region]Asia Russia Middle East[/region][/b] (ARME) // [b][region]The Union of Greater Asia[/region][/b] (UGA) // [b]Britanesia[/b] (BRI)
+[b]Our &amp;quot;world story&amp;quot; regions: (3)[/b]
+- [b][region]American Union[/region][/b]
+- [b][region]Asia Russia Middle East[/region][/b] (ARME)
+- [b]Britanesia[/b] (BRI)

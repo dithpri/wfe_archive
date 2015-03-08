@@ -18,7 +18,7 @@ The AU capital is the city of [b]Milwaukee[/b], within [b][nation]Tessen[/nation
 
 [hr]
 
-[b]Our &amp;quot;world story&amp;quot; regions: (7)[/b]
-- [b]American Union[/b] (AU) // [b][region]South American Union[/region][/b] (SAU)
-- [b][region]The European Confederacy[/region][/b] (EC) // [b][region]African Nations[/region][/b] (AN)
-- [b][region]Asia Russia Middle East[/region][/b] (ARME) // [b][region]The Union of Greater Asia[/region][/b] (UGA) // [b][region]Britanesia[/region][/b] (BRI)
+[b]Our &amp;quot;world story&amp;quot; regions: (3)[/b]
+- [b]American Union[/b] (AU)
+- [b][region]Asia Russia Middle East[/region][/b] (ARME)
+- [b][region]Britanesia[/region][/b] (BRI)
