@@ -11,3 +11,5 @@ Adviser:[nation]The Conglomerate of Provinces and States[/nation]
 [color=pink]Head of the Simulation department:[/color][nation]Bourne Empire[/nation]
 
 [color=red]Secretary of Defense:[/color][nation]Istates[/nation]
+
+[color=yellow]Delegate:[/color][nation]islamic republic of allah[/nation]

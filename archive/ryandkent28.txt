@@ -1,8 +1,4 @@
-[b][u]Main Nation[/u][/b]
-
-[nation=short]RyanDKent28[/nation]
-
-[b][u]World Assembly Nation[/u][/b]
+[b][u]Main Nation &amp;amp; World Assembly Nation[/u][/b]
 
 [nation=short]RyanDKent28[/nation]
 
@@ -11,11 +7,14 @@
 [nation=short]The Union of Leftist Republics[/nation]
 [nation=short]The Russian American Colony[/nation]
 [nation=short]The Kingdom of the Kentish[/nation]
+[nation=short]The Socialist Republic of Romania[/nation]
 [nation=short]Midland Chemics[/nation]
 [nation=short]Kentfirealarms[/nation]
+[nation=short]Baker Island-New Nantucket[/nation]
 
 [b][u]Puppet Regions[/u][/b]
 
+[region=The Socialist Republic of Romania]
 [region=Kingdom of the Kentish]
 
 [b][u]Affiliate Regions[/u][/b]

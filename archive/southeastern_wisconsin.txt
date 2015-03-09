@@ -12,8 +12,8 @@ Head of the Assembly: [nation=short]MuffinShredders[/nation]
 Head of the Court: [nation=short]Zaldania[/nation]
 Constitutioner: [nation=short]Sheograth[/nation]
 Recruitment Officer: [nation=short]Agolopolis[/nation]
-Moderator: [nation=short]Hopippolla[/nation]
+[i]Moderator:[/i] [nation=short]Hopippolla[/nation]
 [hr][b]Threat Level[/b]
-[color=gold]Regional Watch in Place[/color] ([color=gold]Level 2[/color]/[color=red]5[/color])
+[color=red]Declared State of War[/color] ([color=red]Level 5[/color]/[color=red]5[/color])
 [hr][b]News and Bulletin:[/b]
 &#149; [color=green]Endorse Austrombolia, your WA Delegate.[/color]
