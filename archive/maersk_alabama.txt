@@ -6,5 +6,5 @@
 [b][color=red]Captain:[/color] [nation=short]Captain Silversmith[/nation][/b]
 [b][color=red]1st Officer:[/color][nation=short]NS Raider Supreme Overlord[/nation][/b]
 
-The MV Maersk Alabama is a registered vessel of the Barony Dominion. Long Live the Baron![/b]
+[b]The MV Maersk Alabama is a registered vessel of the Barony Dominion. Long Live the Baron![/b]
 [b]Home Port: [region]Baronetcy of Sanctuary Islands[/region][/b]

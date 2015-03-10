@@ -1,9 +1,1 @@
-[b][color=#0000CC]Geographical Locations and Deployments:[/color] 
-
-[region]Greater Europe[/region] Fleet Admiral [nation=short]AMC Fleet 1[/nation]
-[region]European America[/region] Fleet Admiral [nation=short]AMC Fleet 2[/nation]
-[region]European Oceania[/region] Fleet Admiral [nation=short]AMC Fleet 3[/nation]
-[region]Anglo Celtic Isles[/region] Fleet Admiral [nation=short]AMC Fleet 4[/nation]
-
-[region]Allied Maritime Command[/region] is part of [region]N A T O[/region] and is under the jurisdiction of the [url=https://www.nationstates.net/nation=greater_european_federation_president/detail=factbook/id=356995]Federal Parliament[/url] of [region]Greater European Federation[/region]
-It is mandated to protect Federal territorial waters, shipping lanes, conduct oceanographic research, and anti-terror operations[/b]
+[b][nation=short]The Emperor of Iron Europe[/nation] has decreed in His Majesty&amp;#39;s benevolence the First Empire of the Europeans[hr][region]Iron Europe[/region] is the Imperial Homeland for all European Nations. This region has been destroyed.[/b]

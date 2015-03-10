@@ -1,10 +1,14 @@
-[color=scarlet][b].:\|/:.Welcome to the United States of Holland.:\|/:.[/b][/color]
+[color=scarlet][b].:\|/:.Willkommen in Holland.:\|/:.[/b][/color]
 
-[color=orange]United States Of Holland is region of Dutch, German and English speaking peoples.[/color]
+[color=orange]United States Of Holland is a region of German and English speaking people.[/color]
 [hr]
 [color=blue]K&ouml;nig: Wilhelm I [nation=The Deutsch Reich]
 Kanzler: Eduard Uhl [nation=Wien][/color]
 [hr]
 [color=scarlet]This region is a province of [region=The Greater OstReich][/color]
 
+[color=orange]Staatsreligion: R&ouml;misch-katholische Kirche[/color]
+
 Heil dem K&ouml;nig und dem Reich!
+
+
