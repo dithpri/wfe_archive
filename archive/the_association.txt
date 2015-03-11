@@ -1,4 +1,4 @@
-Population: 15 Nations
+Population: 22 nations
 Delegate: [nation]Orcish States[/nation]
 Founder: [nation]Orcish States[/nation]
 ______________________________________________________________________________________
@@ -9,3 +9,5 @@ Everyone is welcome.
 ______________________________________________________________________________________
 
 [color=red]General Association News[/color]
+
+Constructing an embassy with [region]The Illuminati[/region]
