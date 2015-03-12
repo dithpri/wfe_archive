@@ -1,10 +1,11 @@
 [b]DEFCON:[/b] [color=blue]Level Four[/color]
 
-[b]Latest News:[/b] [nation=short]Eitusian[/nation]-[nation=short]Holliestria[/nation] relations break down
+[b]Latest News:[/b][region]IUSR[/region]-[region]OMEC[/region] relations collapse
 [hr]
 
 [b]Member Nations[/b]
 
+[nation=short]Batoristan[/nation]
 [nation=short]Belierna[/nation]
 [nation=short]Beteunam[/nation]
 [nation=short]Castilea[/nation]

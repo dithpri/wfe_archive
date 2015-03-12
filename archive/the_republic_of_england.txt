@@ -1,1 +1,6 @@
-[b][nation=short]The Emperor of Iron Europe[/nation] has decreed in His Majesty&amp;#39;s benevolence the First Empire of the Europeans[hr][region]Iron Europe[/region] is the Imperial Homeland for all European Nations. This region has been destroyed.[/b]
+[b][i]In His Majesty&amp;#39;s benevolence[/i] [nation=short]The Emperor of Iron Europe[/nation] [i]has decreed the First Holy Empire of the Europeans[/i]
+[region]Iron Europe[/region] is the Imperial Homeland for all European Nations. [hr]
+
+[color=#CC0000]Imperial Country:[/color] [region]Republic of England[/region] is the home of the English Nation.
+
+[region]The Republic of England[/region] is Annexed by the [region]Iron Europe[/region][/b]

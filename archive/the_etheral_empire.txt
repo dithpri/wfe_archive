@@ -1,8 +1,9 @@
-[b][color=#000061]Huzzah! Huzzah! Huzzah! This region proved a match for the raiders known as [region=The Black Riders]![/color]
+[b][color=#000061]Huzzah! Huzzah! Huzzah! This region has once more repelled the [region=The Black Riders]![/color]
 
-[color=#000061]Here are the raiders whose victory has been reduced to nothing:[/color]
-[nation=short]Gest[/nation]
-[nation=short]Bob Moran[/nation]
-[nation=short]Ridersyl[/nation]
-[nation=short]Hired Contractor[/nation]
+
+[color=#000061]In the battle died the following riders:[/color]
 [nation=short]Corvus Corax[/nation][/b]
+[b][nation=short]Bob Moran[/nation][/b]
+[b][nation=short]Victor Savage[/nation][/b]
+
+Long live the Etheral Empire

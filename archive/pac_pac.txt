@@ -7,12 +7,10 @@
 
 [b][u][i][color=yellow] The Grand Council of Pac Pac[/b][/u][/i][/color]
 
-[color=blue] Chairperson of the People:[/color][nation]Atticusland[/nation]
+[color=periwinkle] Chairperson of the People:[/color][nation]Atticusland[/nation]
 
-[color=brown]Chairperson of the Military:[nation]Kayserland[/nation][/color]
+[color=brown]Chairperson of the Military:[nation]Bulmagon[/nation][/color]
 
 [color=cyan]Chairperson of the Environment:[/color] [nation]MURDEROUS GOATS[/nation]
 
-[color=periwinkle]Chairperson of Production:[/color] [nation]SCARY MIKE[/nation]
-
-[color=orange]Chairperson of Diplomacy:[/color] [nation]Bulmagon[/nation]
+[color=blue]Chairperson of Production:[/color] [nation]SCARY MIKE[/nation]

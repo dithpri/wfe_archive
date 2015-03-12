@@ -1,4 +1,4 @@
-the [region]united countries[/region] contains 6 nations
+the [region]united countries[/region] contains 7 nations
             the six nations are:
 [color=blue]urovan states[/color] [nation]urovan states[/nation]
 [color=purple]mycela[/color] [nation]mycela[/nation]
@@ -6,7 +6,7 @@ the [region]united countries[/region] contains 6 nations
 [color=orange]Ayden country[/color] [nation]Ayden country[/nation]
 [color=gray]mencya[/color] [nation]mencya[/nation]
 [color=green]nywren[/color] [nation]nywren[/nation]
- 
+[color=white]dywren[/color] [nation]dywren[/nation]
 [nation]mencya[/nation] is the WA delegate 
 
 [b]we try to make this the best region[/b]

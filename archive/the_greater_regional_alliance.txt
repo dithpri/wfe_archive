@@ -9,6 +9,7 @@
 [region]The Judean League[/region]
 [region]Camerania[/region]
 [region]The Greater Ostreich[/region]
+[region]Union of Armed Nations[/region]
 
 [b][u]Colonies[/b][/u]
 [region]Communist Region of Sovatia[/region]

@@ -1,7 +1,7 @@
 [color=blue]Coalition of Independent Nations[/color]
 [color=red]Founded : 3/10/15[/color]
 --------------------------------------------
-[color=blue]WA Delegate[/color] = N/A
-General Secretary = Vindiceo
+[color=blue]WA Delegate[/color] = [nation=Vindiceo] Vindiceo [/nation]
+General Secretary = [nation=Vindiceo] Vindiceo [/nation]
 Minister of the People = N/A
 Minister of Defense = N/A

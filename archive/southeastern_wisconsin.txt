@@ -13,6 +13,7 @@ Head of Congress: [nation=short]MuffinShredders[/nation]
 Head of the Court: [nation=short]Zaldania[/nation]
 Constitutioner: [nation=short]Sheograth[/nation]
 Recruitment Officer: [nation=short]Agolopolis[/nation]
+Chief of Sporting: Election being held
 [i]Moderator:[/i] [nation=short]Hopippolla[/nation]
 [hr][b]Threat Level[/b]
 [color=green]No Threat[/color] ([color=green]Level 1[/color]/[color=red]5[/color])
