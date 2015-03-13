@@ -1,7 +1,7 @@
-[b]Endorse Your Delegate: [nation]Nouvel Acadie[/nation][/b] [ELECTIONS COMING]
+[b]Endorse Your Delegate: [nation=short]Nouvel Acadie[/nation][/b]
 
-[Spoiler=Regional Officers][b]Chancellor (Regional Founder)[/b]: Sir Thomas Bascom [nation]Abidawe[/nation]
-[b]President [/b]: [ELECTIONS COMING]
+[Spoiler=Regional Officers][b]Chancellor (Regional Founder)[/b]: [nation=short]Abidawe[/nation]
+[b]President [/b]: [nation=short]Vichtander[/nation]
 [b]Vice President[/b]: [PRESIDENTIAL RUNNER-UP]
 [b]Minister of State[/b]: [ELECTIONS COMING]
 [b]Minister of Defense[/b]: [ELECTIONS COMING]

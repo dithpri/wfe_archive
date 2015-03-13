@@ -5,17 +5,18 @@ House of Lords
 -----------------------------------------------------------------------
 High Lord: [nation]Lordareon[/nation]
 Major Lord: Vacant
-Minor Lord: Vacant
+Minor Lord: [nation]Archainia[/nation]
+Baron: Vacant
 
 House of Common(ers) 
 ---------------------------------------------------------------------------
-Town Rep.: Vacant
+Town Rep.: [nation]North Libya[/nation]
 Breadmaker: Vacant
 Wheat Farmer: Vacant
 Lowborn Peasant: Vacant 
 
 House of Forgien
-Almost, nearly there,99%!..Citizens:
-Ambassador to Brannack: [nation]Yuketobaniac[/nation]
-Ambassador to (Undecided)
+Minister of Justice: Vacant
+Ambassador to: [region]New Brannack[/region]: [nation]Yuketobaniac[/nation] 
+Ambassador to: [region]People&amp;#39;s Federation of Qandaristan[/region]: Vacant
 Ambassador to: (Undecided)
