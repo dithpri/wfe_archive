@@ -4,9 +4,13 @@
 
 ORACLE GAME[/b]
 [I]Goal of this version of the game is to achieve as many regions linked together to form a chain as long as possible.
-CURRENTLY: [region=the Icelandic Commonwealth] has [/color][color=800000][b]1620[/b][/color][color=navy] Degrees of Separation from [region=B1 Kingdom][/I]
+CURRENTLY: [region=the Icelandic Commonwealth] has [/color][color=800000][b]1606[/b][/color][color=navy] Degrees of Separation from [region=B1 Kingdom][/I]
 [spoiler=Oracle Game][url=http://nsdossier.texasregion.net/embassyOracle.aspx]Oracle[/url][/spoiler][/color][color=640000]
-[spoiler=Segments][b]Segments:[/b] [region=The Icelandic Commonwealth] to [region=B1 Kingdom]: 1620.
-[b]Future Additions:[/b] These will be added in such a way as to not split the list.[/spoiler][/color][color=navy][spoiler=Allied Regions][region=United States of America] ([nation=short]New Falham[/nation]).
+[spoiler=Segments][b]Segments:[/b]
+[region=The Icelandic Commonwealth] to [region=Sarawak]: 377.
+[region=Bedfordshire] to [region=B1 Kingdom]: 1228.
+[b]Future Additions:[/b] These will be added in such a way as to not split the list.
+* Certain nations will be banned from now on as invaders.
+[b]SOON:[/b] final region will be [region=Country of God][/spoiler][/color][color=navy][spoiler=Allied Regions][region=United States of America] ([nation=short]New Falham[/nation]).
 [region=Ancient Lands] ([nation=short]Manitoulin[/nation]).
 [region=Richard], [region=The Americas], [region=Pacific Union] and [region=B1 Kingdom].[/spoiler][/color]
