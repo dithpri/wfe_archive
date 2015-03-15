@@ -15,6 +15,7 @@
 [nation=short]Chobenia[/nation]
 [nation=short]Hallorania[/nation]
 [nation=short]Navedia[/nation]
+[nation=short]Peihan[/nation]
 [nation=short]Pribaltika[/nation]
 [nation=short]Ruapekapeka[/nation]
 [nation=short]Slobozhanshchyna[/nation]

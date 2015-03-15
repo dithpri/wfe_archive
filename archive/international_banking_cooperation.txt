@@ -1,17 +1,21 @@
 The International Banking Cooperation is a cooperation of nations who help each other economically. 
 The IBC Security Council Includes:
-.Chinvania
-.Akberzajian
-.Leng Kong
-.Anastia
-.Hokahatsu
-.Barygzstan
+
+[nation=short]Chinvania[/nation]
+[nation=short]Akberzajian[/nation]
+[nation=short]Leng Kong[/nation]
+[nation=short]Anastia[/nation]
+[nation=short]Hokahatsu[/nation]
+[nation=short]Barygzstan[/nation]
+
 
 Observing nations of the IBC Security Council include:
-.Djidi
-.South Chinvania
-.Nouvelle Ivoire
-.Bayer Borussia
+[nation=short]Djidi[/nation]
+[nation=short]South Chinvania[/nation]
+[nation=short]Nouvelle Ivoire[/nation]
+[nation=short]Bayer Borussia[/nation]
+
+IBC General Assembly: Nguyen Duc Diem ([nation=short]British Indo-China[/nation])
 
 The IBC Monetary Authority include:
 .Chinvania
@@ -21,6 +25,11 @@ The IBC Monetary Authority include:
 .Anastia
 .Bayer Borussia
 
-The IBC Health Organisation is led by Ms Louise Fan (Chinvania)
-
-The IBC Environmental Protection Authority is led by Prince Ai Kogawa Duke of Fatsusawa (Hokahatsu).
+IBC Organisations
+.IBC Cultural Heritage Committee [nation=short]Chinvania[/nation]
+.IBC Health Organisation [nation=short]Anastia[/nation]
+.IBC Environmental Protection Authority [nation=short]Kapuk Nadek[/nation]
+.IBC Political Consultative Conference [nation=short]Hokahatsu[/nation]
+.IBC Football Federations [nation=short]Leng Kong[/nation]
+.IBC Human Rights Commission [nation=short]Akberzajian[/nation]
+.IBC Space Agency [nation=short]Chinvania[/nation]

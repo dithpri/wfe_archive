@@ -1,16 +1,16 @@
 [b][color=red]WELCOME[/color] TO [color=blue]CONFUCIUS![/color][/b]
 [i]We are a [color=red]calm[/color], [color=blue]tranquil[/color] region that follows the teachings of Master Kongfuzi (Confucius). We provide a [color=red]safe[/color] [color=blue]haven[/color] that you can call home.[/i]
 [hr]
-[b][color=red]Today&amp;#39;s Quote from the Analects:[/color][/b] [color=blue][i]&amp;quot;Hold faithfulness and sincerity as first principles.&amp;quot;[/i][/color]
+[b][color=red]Today&amp;#39;s Quote from the Analects:[/color][/b] [color=blue][i]&amp;quot;If everyone likes something, it should be examined. When everyone dislikes something, it should be examined.&amp;quot;[/i][/color]
 [hr]
 [b]Government:[/b]
 
 [color=red][i]~Executive~[/i][/color]
 Emperor: [nation=short]F0rm0sa[/nation]
-Grand Secretariat: n/a
+Grand Secretariat: [nation=short]Misterswaggalicious[/nation]
 
 [color=blue][i]~Council of Five~[/i][/color]
-Minister of Economics: n/a
+Minister of Economics: [nation=short]Kolekya[/nation]
 Minister of Agriculture: n/a
 Minister of Education: n/a
 Minister of the Interior: n/a
