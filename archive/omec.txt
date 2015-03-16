@@ -1,6 +1,6 @@
 [b]DEFCON:[/b] [color=blue]Level Four[/color]
 
-[b]Latest News:[/b]Civil war in [nation=short]Batoristan[/nation] intensifies
+[b]Latest News:[/b] [nation=short]Estinia[/nation] joins [region]OMEC[/region] plans to take the fight to the reds
 [hr]
 
 [b]Member Nations[/b]
@@ -11,6 +11,7 @@
 [nation=short]Castilea[/nation]
 [nation=short]Diquis[/nation]
 [nation=short]Eitusian[/nation]
+[nation=short]Estinia[/nation]
 [nation=short]Great Slatain[/nation]
 [nation=short]Maronia[/nation]
 [nation=short]Mormopia[/nation]
