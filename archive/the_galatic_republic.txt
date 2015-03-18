@@ -4,7 +4,7 @@ In this region you&amp;#39;ll be allowed to introduce proposals to the Regional 
 
 [color=blue]Regional Political Leaders[/color]
 Chancellor: [nation]Review[/nation]
-[i][u][b][color=red]Vice-Chancellor:[nation]K1K1K1[/nation][/color][/b][/u] [/i]
+Vice-Chancellor: [nation]K1K1K1[/nation]
 Defense Minister: [nation]Simsetia[/nation]
 Foreign Affairs Minister: [nation]Casio Islands[/nation]
-Interior Affairs Minister: [i][u][b][color=red][nation]K1K1K1[/nation][/color][/b][/u] [/i]
+Interior Affairs Minister: [nation]Searchlight Airport[/nation]

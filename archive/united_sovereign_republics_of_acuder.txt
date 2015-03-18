@@ -4,7 +4,7 @@ Chancellor: [nation]Commonwealth of Hank the Cat[/nation]
 House of Lords
 -----------------------------------------------------------------------
 High Lord: [nation]Lordareon[/nation]
-Major Lord: Vacant
+Major Lord: [nation]Yuketobaniac[/nation]
 Minor Lord: [nation]Archainia[/nation]
 Baron: Vacant
 
@@ -19,4 +19,4 @@ House of Forgien
 Minister of Justice: Vacant
 Ambassador to: [region]New Brannack[/region]: [nation]Yuketobaniac[/nation] 
 Ambassador to: [region]People&amp;#39;s Federation of Qandaristan[/region]: Vacant
-Ambassador to: (Undecided)
+

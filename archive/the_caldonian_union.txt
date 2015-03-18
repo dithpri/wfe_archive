@@ -1,6 +1,14 @@
-[b]Welcome to [region=The Caldonian Union]. We are in need of more nations to allow this region to grow. We especially need WA Members so that our voice is heard in the World Assembly.
+[b]Welcome to [region=The Caldonian Union]![hr] [color=navy]Executive Government:[/color]
+~Founder:[/b] [nation=New Ridgewood]
+[b]~WA Delegate:[/b] [nation=Ozzy]
 
-[color=navy]EMBASSY REQUESTS ACCEPTED![/color][hr] [i][color=blue]WA Members:[/color][/i] Endorse [nation=short]Ozzy[/nation]!
+[b][color=navy]Cabinet:[/color]
+~Prime Minister:[/b] [color=red]VACANT[/color]
+[b]~Minister of Foreign Affairs:[/b] [color=Red]VACANT[/color]
+[b]~Minister of Internal Affairs:[/b] [color=red]VACANT[/color]
+[b]~Minister of Culture:[/b] [color=red]VACANT[/color]
+[b]~Minister of Immigration:[/b] [color=red]VACANT[/color]
+[b]~Minister of Defense:[/b] [nation=new ridgewood] [hr][b][i][color=blue]WA Members:[/color][/i] Endorse [nation=short]Ozzy[/nation]!
 
 [color=navy]ENDORSEMENT CAP:[/color] [color=red]Pending[/color][/b][hr] [b][i]Region Status:[/i][/b] [color=green]SAFE[/color]
 [b][i]Border Status:[/i][/b] [color=green]OPEN[/color]

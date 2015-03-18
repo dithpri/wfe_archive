@@ -2,7 +2,7 @@
 
 [color=orange]President: [nation]The_United_Cities_of_Minecraft[/nation][/color]
 
-[color=purple]Vice President: N/A[/color]
+[color=purple]Vice President: VOTING [/color]
 
 [color=red][i]Secretary of Presidents: [nation]Houstion[/nation]
 
@@ -10,7 +10,7 @@ Secretary of War: [Nation]Houstion[/nation]
  
 Secretary of Navy: N/A
 
-Secretary of Welfare/People&amp;#39;s Goods: Voting
+Secretary of Welfare/People&amp;#39;s Goods: N/A
 
 Minister of Business: N/A
 

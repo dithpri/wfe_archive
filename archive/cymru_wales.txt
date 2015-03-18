@@ -9,7 +9,7 @@ Welcome to Nationstates most accurate Wales themed region. All nations are welco
 [B]Monarch:[/B] [nation]john_ii[/nation]
 [B]Prince of Wales:[/B] [nation]tottenhamspurs[/nation]
 [B]First Minister:[/B] [nation]Cymru Wales[/nation]
-[B]Viceroy:[/B] TBD
+[B]Viceroy:[/B] [nation]Governor General of Wales[/nation]
 
 The National Assembly for Wales (Cynulliad Cenedlaethol Cymru) is the devolved government of Wales. It acts as the legislative branch of the Welsh Government and is made up of 6 members, representing the regions of Wales.
 
