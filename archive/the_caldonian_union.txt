@@ -1,14 +1,16 @@
 [b]Welcome to [region=The Caldonian Union]![hr] [color=navy]Executive Government:[/color]
 ~Founder:[/b] [nation=New Ridgewood]
-[b]~WA Delegate:[/b] [nation=Ozzy]
+[b]~WA Delegate:[/b] [color=red]VACANT[/color]
 
 [b][color=navy]Cabinet:[/color]
 ~Prime Minister:[/b] [color=red]VACANT[/color]
-[b]~Minister of Foreign Affairs:[/b] [color=Red]VACANT[/color]
-[b]~Minister of Internal Affairs:[/b] [color=red]VACANT[/color]
+[b]~Minister of Foreign Affairs:[/b] [nation=The Saracens]
+[b]~Minister of Internal Affairs:[/b] [nation=The Saracens]
 [b]~Minister of Culture:[/b] [color=red]VACANT[/color]
-[b]~Minister of Immigration:[/b] [color=red]VACANT[/color]
-[b]~Minister of Defense:[/b] [nation=new ridgewood] [hr][b][i][color=blue]WA Members:[/color][/i] Endorse [nation=short]Ozzy[/nation]!
+[b]~Minister of Immigration:[/b] [nation=The Superwholock fandom]
+[b]~Minister of Defense:[/b] [nation=new ridgewood]
+
+[b]&amp;gt;Telegram [nation=short]New Ridgewood[/nation] to apply for Cabinet Positions&amp;lt;[/b][hr][b][i][color=blue]WA Members:[/color][/i] New Delegate Needed!
 
 [color=navy]ENDORSEMENT CAP:[/color] [color=red]Pending[/color][/b][hr] [b][i]Region Status:[/i][/b] [color=green]SAFE[/color]
 [b][i]Border Status:[/i][/b] [color=green]OPEN[/color]

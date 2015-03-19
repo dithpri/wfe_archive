@@ -11,10 +11,10 @@ Imagine a world where Stalingrad was taken. Imagine a world where the Revolution
 [b][color=red]Imperatore/Fondatore[/color][/b]
 [nation=Florentine Territories]
 
-[b][color=blue]Gonfaloniere (WA Delegate)[/color][/b]
+[b][color=blue]Cancelliere (WA Delegate)[/color][/b]
 {Pending}
 
-[b][color=green]Cancelliere[/color][/b]
+[b][color=green]Gonfaloniere[/color][/b]
 {Pending}
 
 [b]Feldmaresciallo[/b]

@@ -1,4 +1,4 @@
-Population: 26 nations
+Population: 27 nations
 Delegate: [nation]Orcish States[/nation]
 Founder: [nation]Orcish States[/nation]
 ______________________________________________________________________________________

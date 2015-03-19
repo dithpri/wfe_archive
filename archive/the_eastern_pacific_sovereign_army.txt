@@ -1,11 +1,12 @@
 [u][color=darkgreen][B]The Eastern Pacific Sovereign Army[/B][/color][/u]
 [i][color=darkgreen]The Eastern Pacific Sovereign Army represents [region]The East Pacific[/region] militarily.[/color][/i]
 
-[color=green][B]Field Marshal:[/B] [nation=short]Xoriet[/nation]
-[B]General: [/B][nation=short]Severisen[/nation]
+[color=green][B]Field Marshal:[/B] [nation=short]Ramaeus[/nation]
+[B]General: [/B][nation=short]Xoriet[/nation]
 Brigadier Puffin:[nation=short]Bachtendekuppen[/nation]
 Lieutenant: [nation=short]Tano[/nation]
 Lieutenant: [nation=short]PrussianEmpire[/nation]
+Lieutenant: [nation=short]Severisen[/nation]
 Sergeant: [nation=short]The Fourth Imperium[/nation]
 Sergeant: [nation=short]Alterran Republic[/nation]
 

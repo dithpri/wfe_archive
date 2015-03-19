@@ -3,7 +3,7 @@
 [hr]
 
 [color=darkblue]High House of Solstheim: [nation]Asterdan[/nation]
-House of Delegation:
+House of Delegation: [nation]Kamouraska[/nation]
 House of Defense:
 House of Recruitment:
 House of Culture and History:

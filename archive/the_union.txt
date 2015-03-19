@@ -1,15 +1,15 @@
-[color=red][b]Welcome to the Union![/b][/color]
+[color=B22234][b]Welcome to the Union![/b][/color]
 [hr]
-[color=0A4789][i]Under the protection of [region]The Atlas Union[/region]. All WA nations please endorse Delegate [nation=short]F0rm0sa[/nation].[/i][/color]
+[color=000080][i]Under the protection of [region]The Atlas Union[/region]. All WA nations please endorse Delegate [nation=short]F0rm0sa[/nation].[/i][/color]
 [hr]
-[b][color=red]~Government~[/b]
+[b][color=B22234]~Government~[/b]
 
 [i]-Executive-[/i]
 
 Delegate: [nation=short]F0rm0sa[/nation]
-Prime Minister: [nation=short]Ecuadorian Love[/nation] [/color]
+Prime Minister: n/a [/color]
 
-[color=0A4789][i]-The Cabinet-[/i]
+[color=000080][i]-The Cabinet-[/i]
 
 Minister of the Interior:
 Minister of Economics:
