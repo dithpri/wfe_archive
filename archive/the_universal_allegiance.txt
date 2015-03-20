@@ -6,9 +6,9 @@
 
 [u][B]The Government:[/B][/u]
 [B]Grand Chancellor:[/B] [nation]The Cloud Peoples[/nation]
-[B]World Assembly Delegate:[/B] [nation]Ninja Kittens[/nation] [B]PLEASE ENDORSE[/B]
-[B]Second Delegate:[/B] [nation]Flamels stone[/nation] TEMPORARY WA
-[B]Minister for the People:[/B] [nation]Flamels stone[/nation]
+[B]World Assembly Delegate:[/B] [nation]Flamels Stone[/nation] [B]PLEASE ENDORSE[/B]
+[B]Second Delegate:[/B] -
+[B]Minister for the People:[/B] [nation]Great Scourge[/nation]
 [B]Minister for the Armed Forces:[/B] ([nation=short]Lollerland[/nation]) [nation=short]Ninja Kittens[/nation] currently standing in.
 [B][color=red]ENDORSEMENT CAP FOR NON DELEGATE WA MEMBERS = 5.[/color][/B]
 

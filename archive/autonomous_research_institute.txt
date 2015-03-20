@@ -1,5 +1,1 @@
-[b]Designation:[/b] Autonomous Research Institute
-
-[b]Lead Analyst:[/b] [nation=short]ARI Researcher X[/nation]
-
-[b]Description:[/b] [i]A facility for research into the nature of the World.[/i]
+This is the Autonomous Research Institute.

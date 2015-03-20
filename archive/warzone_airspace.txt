@@ -5,7 +5,7 @@
 [B]Your Government:[/B]
 
 Delegate: [nation]Scarlet Harlot[/nation]
-Senator of the Dogfightia District: Digonville
+Senator of the Dogfightia District: [nation]Digonville[/nation]
 Senator of the Fabistan District: [nation]Mr Riket[/nation]
 Senator of the Southeastern District: [nation]Crisisies[/nation]
 

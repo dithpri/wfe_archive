@@ -10,3 +10,12 @@ The ACA is an [i]illustrious[/i] region, that serves as a model for representati
 [b][nation=short]Bakministan[/nation][/b]
 [b][nation=short]Dresdrin[/nation][/b]
 [b][nation=short]Kuiperis[/nation][/b]
+
+[b]DEFCON LEVEL[/b]
+[color=blue][b]Level 5: FADE OUT[/b][/color]
+[color=green][b]Level 4: DOUBLE TAKE[/b][/color]
+[color=yellow][b]Level 3: ROUND HOUSE[/b][/color]
+[color=red][b]Level 2: FAST PACE[/b][/color]
+[b]Level 1: COCKED PISTOL[/b]
+
+[b]Current Level: [color=blue]FADE OUT[/color][/b]
