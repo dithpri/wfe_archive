@@ -1,12 +1,9 @@
-[b][Color=009900]Yo!
-Welcome to Zealandia![/color][/b]
+[b][Color=003333]Hello, and Welcome to Zealandia!
+[/color][/b]
 
-[b]NZDA Outpost[/b]
+[hr]
 
-Better than [region]the silence[/region]:
-[region]the noise[/region]
-
-[spoiler=[Color=009900][b]Looking for?[/b][/color]]
+[spoiler=[Color=003333][b]Looking for?[/b][/color]]
 [region]new zealandia[/region]
 [region]new new zealandia[/region]
 [region]old zealandia[/region]
@@ -16,7 +13,7 @@ Better than [region]the silence[/region]:
 [region]new zealandia II[/region]
 [region]ye olde Zealandia[/region][/spoiler]
 
-[spoiler=[Color=009900][b]Or how about?[/b][/color]]
+[spoiler=[Color=003333][b]Or how about?[/b][/color]]
 The zealandia
 That zealandia
 The other zealandia

@@ -15,8 +15,8 @@
 [hr]
 
 [b][color=darkslateblue]General Endorsement Limit: 25
-Guardian Endorsement Limit: 75
-Vizier Endorsement Limit: 85[/color][/b]
+Guardian Endorsement Limit: 85
+Vizier Endorsement Limit: 95[/color][/b]
 
 [hr]
 

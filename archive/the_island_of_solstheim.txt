@@ -1,22 +1,10 @@
-[color=darkred]The Island of Solstheim is a desert island, where great nations work together to thrive in the hostile environment. The region is controlled by a council of ambassadors from each nation in Solstheim. These ambassadors form the Houses.[/color]
+[b][color=#000061]Huzzah! Huzzah! Huzzah! This region proved no match for a charge by [region=The Black Riders]![/color]
 
-[hr]
+[color=black]Occupied by [url=https://www.youtube.com/watch?v=4-hG-ACbuFY]The Black Riders[/url]! Our lair can be found [/color] [url=http://s4.zetaboards.com/The_Black_Riders/index/]here[/url]
 
-[color=darkblue]High House of Solstheim: [nation]Asterdan[/nation]
-House of Delegation: [nation]Kamouraska[/nation]
-House of Defense:
-House of Recruitment:
-House of Culture and History:
-[/color]
-
-[hr]
-
-[color=purple]This portion is dedicated to the RPs of Solstheim[/color]
-
-[hr]
-
-[url=http://oi61.tinypic.com/2nk495l.jpg]Map of Solstheim[/url]
-
-Please contact me to be included on the map.
-
-Long live Solstheim, long live the Houses
+[color=#000061]Into the battle rode the following riders:[/color]
+[nation=short]Corvus Corax[/nation]
+[nation=short]Kknight[/nation]
+[nation=short]Hired Contractor[/nation]
+[nation=short]Haafingar and Hjaalmarch[/nation]
+[/b]

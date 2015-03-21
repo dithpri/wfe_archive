@@ -1,24 +1,18 @@
 [b][color=orange] Guristia [/color][/b]
-[color=orange]The Guristas Pirate Collection.[/color] 
-
-[b] A region with a love for Piracy and utter silliness, while also being serious and aimed towards the Corruption of its neighbors.  [/b]
-
+[color=orange]The Guristas Pirates hideout. [/color] 
+[b] A region with a love for Piracy. [/b]
 [B]Captain:[/B][nation]New Tiidan[/nation]
-
 [B][u]Piracy Administrator.[/u][/B] [nation]Listening Post 001[/nation]
-
 [B]Minister of Foreign Affairs and Actions:[/B] [nation]Outer Globalcontrol[/nation]
-
 [B][u] The Council of Raiders.[/u][/B]
-
 [nation]Loyalist Vaygr[/nation]
 [nation]Furry Peoples Republic[/nation]
 [nation]Southern Baltic States[/nation]
-
 [u][B][i]Ministry of Corruption [/i][/B][/u]
-
 [nation]The Caldari Statehood[/nation]
 [nation]The U N S C[/nation]
 [nation]The New Freedom Conglomerate[/nation]
-
-[B][color=orange]If you wish to Send a Embassy request, please do. No need for formalities. [/color][/B]
+[B][u][color=orange]The True Guristas Pirates.[/color][/u][/B]
+[nation]New Austro-Hungarian Empire[/nation]
+[nation]The New Freedom Conglomerate[/nation]
+[nation]The Sleeper Enclaves[/nation]

@@ -13,7 +13,7 @@ Head of Congress: [nation=short]MuffinShredders[/nation]
 Head of the Court: [nation=short]Zaldania[/nation]
 Constitutioner: [nation=short]Sheograth[/nation]
 Recruitment Officer: [nation=short]Agolopolis[/nation]
-Chief of Sporting: ARUSS, Sports Authority, Pi-Land, LOCH IT UP
+Chief of Sporting: [nation=short]Sports Authority[/nation]
 [i]Moderator:[/i] [nation=short]Hopippolla[/nation]
 [hr][b]Threat Level[/b]
 [color=orange]Possible Threat of War[/color] ([color=orange]Level 3[/color]/[color=red]5[/color])

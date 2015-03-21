@@ -1,14 +1,21 @@
-[color=scarlet][b].:\|/:.Willkommen in Holland.:\|/:.[/b][/color]
+herzlich willkommen!
 
-[color=orange]United States Of Holland is a region of German and English speaking people.[/color]
 [hr]
-[color=blue]K&ouml;nig: Wilhelm I [nation=The Deutsch Reich]
-Kanzler: Eduard Uhl [nation=Wien][/color]
+
+The [region]UNITED STATES OF HOLLAND[/region] ist eine Provinz von [region]The Kingdom of Wurttemberg[/region]
+
 [hr]
-[color=scarlet]This region is a province of [region=The Greater OstReich][/color]
 
-[color=orange]Staatsreligion: R&ouml;misch-katholische Kirche[/color]
+K&ouml;nig (Wilhelm III): [nation]The Deutsch Reich[/nation]
 
-Heil dem K&ouml;nig und dem Reich!
+Kronprinz (Viktor I): [nation]Kanakaestain[/nation]
 
+Kanzler (Eduard Uhl): [nation]Wien[/nation]
+
+[hr]
+[b][color=red]Staatsreligion:[/color][/b] [color=gold]R&ouml;misch-katholische Kirche[/color]
+[b][color=red]Hauptstadt:[/color][/b]  [color=gold]Stuttgart[/color]
+[b][color=red]Regierung:[/color][/b]  [color=gold]Monarchie[/color]
+[b][color=red]Sprachen:[/color]  [/b][color=gold]Deutsch und Englisch[/color]
+[b][color=red]K&ouml;nigliche Familie:[/color][/b][color=gold] Von Friedburg[/color]
 

@@ -4,5 +4,16 @@
 
 [nation]Gaiaus[/nation]-Founder
 
-[nation]Falshun[/nation]-WA delegate
+[nation]Falshun[/nation]-WA Delegate
 
+[nation]Elefertia[/nation]-Substitute Executive
+
+
+Security Colors
+
+[color=red]Emergency Alert[/color]
+[color=orange]High Alert[/color]
+[color=yellow]Moderate Alert[/color]
+[color=green]No Alert[/color]
+
+The current security code is [color=red]Red[/color]
