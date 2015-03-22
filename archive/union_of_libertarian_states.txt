@@ -1,4 +1,5 @@
-President: [nation]Republic of Libertara[/nation]
-Vice President: [nation]Republic of Howelia[/nation]
-Diplomat: [nation]Barrila[/nation]
-Senate coming soon
+Host Nation: [nation]Republic of Libertara[/nation]
+Vice Host Nation: [nation]Republic of Howelia[/nation]
+Diplomatic Nation: [nation]Barrila[/nation]
+ 
+   &amp;gt;&amp;gt;Join The WA and endorse [nation]Republic of Libertara[/nation]

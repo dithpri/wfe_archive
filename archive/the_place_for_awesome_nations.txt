@@ -7,9 +7,11 @@
 
 [b][i][u]The Government[/b][/i][/u]
 [b][color=purple]Delegate[/color]:[nation=short]Imperialisea[/nation] 
-Minister of State and the Interior:[nation=short]Zangral[/nation]
-Minister of War and Security:[nation=short]Drahm[/nation] 
-
+Minister of Defense:
+Minister of Interior:
+Minister of Foreign Affairs:
+Minister of Recreation:
+[/b]
 [b][color=red]To apply for or create a position in the regional government telegram [/color]
  [nation=short]Abust1[/nation] or [nation=short]Imperialisea[/nation].[/b]
 
