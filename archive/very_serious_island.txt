@@ -10,3 +10,5 @@ Nations:
 [nation]tangerine_nation[/nation] - Beck
 [nation]robusting[/nation] - Will
 [nation]receptus_auxilium[/nation] - Julius
+[nation]gaiaus[/nation] - Connor
+[nation]falshun[/nation] - Andrew

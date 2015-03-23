@@ -1,1 +1,7 @@
-Move to [region=The Kingdom of Wurttemberg].
+King: [nation=the Deutsch Reich]
+Crown Prince: [nation=Kanakaestain]
+Chancellor: [nation=Wien]
+Minister of War:
+Minister of Foreign Affairs:
+Minister of Internal Affairs: [nation=Atlantis Rome][hr]
+News: rebels in United States of Holland have been wiped out and the region has been forced to submit to their king!

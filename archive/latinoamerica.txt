@@ -1,23 +1,18 @@
-[color=red]&iexcl;&iexcl;BIENVENIDO A LATINOAMERICA!![/color]
+[b][color=red]&iexcl;&iexcl;BIENVENIDO A LATINOAMERICA!![/color][/b]
 
-Regi&oacute;n abierta a cualquier naci&oacute;n latinoamericana que respete los principios democr&aacute;ticos y rechace toda forma de dominaci&oacute;n. 
+Regi&oacute;n abierta a cualquier naci&oacute;n latinoamericana que respete los principios democr&aacute;ticos y rechace toda forma de dominaci&oacute;n. Si&eacute;ntanse libres de ayudarnos a construir una regi&oacute;n independiente, plural y democr&aacute;tica.
 
-Espa&ntilde;ol es el idioma oficial, pero ingl&eacute;s y portugu&eacute;s son tambi&eacute;n aceptados!
-[color=green]Espanhol &eacute; a l&iacute;ngua oficial, mas Ingl&ecirc;s e Portugu&ecirc;s tamb&eacute;m s&atilde;o aceitos![/color]
-[color=red]Spanish is the official language, but English and Portuguese are also accepted![/color]
+[color=blue][b]Idiomas aceptados:[/b] Espa&ntilde;ol, Portugu&ecirc;s, English[/color]
 
-Por favor endosar al Delegado: [nation]Laederean Union[/nation]
+[b][u]AUTORIDADES REGIONALES[/u]:[/b]
+[b]Delegado:[/b] En proceso de elecci&oacute;n
+[b]Canciller:[/b] En proceso de elecci&oacute;n
+[b]Tribunal Regional de Justicia:[/b] [nation]Cayo Arcadio[/nation]
+[b]Administrador del Foro:[/b] En proceso de elecci&oacute;n.
 
 [b]Links de utilidad:[/b]
-[url=https://drive.google.com/file/d/0ByrKeIbYA2qANVcxd29UdnBKME0/view?usp=sharing/]Proyecto de Carta Constitucional[/url]
+[url=https://drive.google.com/file/d/0ByrKeIbYA2qANVcxd29UdnBKME0/view?usp=sharing/]Carta Constitucional[/url]
 [url=http://nslatinoamerica.yuku.com/]Foro regional[/url]
 [url=http://www.nationstates.net/page=dispatch/id=289024]Mapa de la regi&oacute;n[/url]
 
-[b][color=blue]Si&eacute;ntanse libres de ayudarnos a construir una regi&oacute;n independiente, plural y democr&aacute;tica[/color][/b]
-
-[B]REGIONES BAJO TUTELA LATINOAMERICANA:[/B]
-[region]Belice[/region]
-[region]MERCOSUR[/region]
-[region]La Habana[/region]
-[region]Republica Dominicana[/region]
-[region]Trinidad y Tobago[/region]
+[B]REGIONES BAJO TUTELA LATINOAMERICANA:[/B] [region]Belice[/region] - [region]MERCOSUR[/region] - [region]La Habana[/region] - [region]Republica Dominicana[/region] - [region]Trinidad y Tobago[/region]

@@ -4,5 +4,5 @@
 [b][color=gold]Kanzler:[/color][/b] [nation=short+noflag]Wien[/nation]
 [b][color=gold]Marschal:[/color][/b] [nation=short+noflag]Kanakaestain[/nation][hr]
 
-[color=orange]This is a fort of [region=the Greater OstReich], all enemies to the K&ouml;nig shall be shot![/color]
+[color=orange]This is a fort of [region=the Kingdom of Wurttemberg], all enemies to the K&ouml;nig shall be shot![/color]
 [color=scarlet]GOTT MIT UNS![/color]
