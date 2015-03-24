@@ -1,22 +1,16 @@
-Emperor of Acuder: [nation]The Barbradian Republic[/nation]
-Chancellor: [nation]Commonwealth of Hank the Cat[/nation]
-
-House of Lords
------------------------------------------------------------------------
-High Lord: [nation]Lordareon[/nation]
-Major Lord: [nation]Yuketobaniac[/nation]
-Minor Lord: [nation]Archainia[/nation]
-Baron: Vacant
-
-House of Common(ers) 
----------------------------------------------------------------------------
-Town Rep.: [nation]North Libya[/nation]
-Breadmaker: Vacant
-Wheat Farmer: Vacant
-Lowborn Peasant: Vacant 
-
-House of Forgien
-Minister of Justice: Vacant
-Ambassador to: [region]New Brannack[/region]: [nation]Yuketobaniac[/nation] 
-Ambassador to: [region]People&amp;#39;s Federation of Qandaristan[/region]: Vacant
+Emperor [nation]The Barbradian Republic[/nation]
+Pope: [nation]Commonwealth of Hank the Cat[/nation]
+--------------------------------------------------------------------------------------------------------------------------------------
+[b]House of Dicators[/b]
+High Lord: [nation]Archainia[/nation]
+Minor Lord: [nation]Lordareon[/nation]
+Butler:
+---------------------------------------------------------------------------------------------------------------------------------------
+[b]House of Common(ers)[/b]
+Mayor: [nation]North Libya[/nation]
+Town Rep.:
+Breadmaker:
+----------------------------------------------------------------------------------------------------------------------------------------
+[b]Other Positions[/b]
+Mafiaso (Serves Pope):
 

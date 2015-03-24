@@ -4,7 +4,7 @@
 [region]The International Commerce Guild[/region] Regional Court of Justice
 Permanent Judges: [nation]The Capitalist Consortium[/nation], [nation]The New India[/nation]
 Non-Permanent Judges: [i]to be voted upon[/i]
-Prosecutor:
-Nominee: [b] Send a telegram to the WA Delegate telling about a nation, whom you would like to prosecute [/b]
-Link to Debate: [i]sent via telegram[/i]
-
+Prosecutor: 
+Nominee: 
+Crime:
+Date of Trial:

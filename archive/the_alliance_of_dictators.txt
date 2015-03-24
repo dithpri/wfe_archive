@@ -7,13 +7,10 @@ ALLIES
 [region]The Axis of Evil[/region] 
 
 MINISTERS
-War: [nation]Chad Empire[/nation] 
+War: [nation]The Greater Lands of Albion[/nation] 
 Totalitarian Spirit: [nation]Koopaville[/nation]
 Foreign Affairs: [nation]Valcouria[/nation]
 Internal Affairs: [nation]The Mighty Hyena[/nation]
-
-DICTATOR OF THE MONTH
-[nation]Germanic Townsville[/nation]
 
 REGIONS RAIDED
 34

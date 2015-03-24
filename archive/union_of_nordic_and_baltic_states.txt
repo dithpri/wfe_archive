@@ -1,6 +1,5 @@
-The Union of Nordic and Baltic States (UNBS) is an intergovernmental organization of Nordic and Baltic states. There will be assemblies, summits, and polls held for member nations to partake in.
-
-Headquarters:
+The Union of Nordic and Baltic States (UNBS) is an intergovernmental organization of said regions.
+[hr][b]Headquarters[/b]
 Aalborg, [nation=short]Talshavn[/nation]
 Lule&aring;, [nation=short]Hamnmark[/nation]
 K&oslash;benhaven, [nation=short]Thorshavn[/nation]
@@ -11,19 +10,20 @@ P&auml;rnu, [nation=short]Latza[/nation]
 Kuresaare, [nation=short]Lemisele[/nation]
 Dawidkowo, [nation=short]Free City of Dawidkowo[/nation]
 Milosna, [nation=short]Free City of Milosna[/nation]
-
-Currency:
-undecided
-
-Official Languages:
+Longyearbyen, [nation=short]Svalbard-Jan Mayen[/nation]
+Sisimiut, [nation=short]Arktiskland[/nation]
+[hr][b]Currency[/b]
+the crod (C)
+[hr][b]Languages[/b]
 Danish [i]Talshavn; Thorshavn[/i]
-English [i]Faroe-Shetland[/i]
+English (Scots) [i]Faroe-Shetland[/i]
 Estonian [i]Latza[/i]
 Faroese [i]Faroe-Shetland[/i]
 Finnish [i]Hamnmark[/i]
+Greenlandic [i]Arktiskland[/i]
 Icelandic [i]Katholskur[/i]
 Latvian [i]Latza; Lemisele[/i]
 Lithuanian [i]Latza; Lemisele[/i]
-Norwegian [i]Fjordenlande; Talshavn[/i]
+Norwegian [i]Fjordenlande; Talshavn[/i]; [i]Svalbard-Jan Mayen[/i]
 Polish [i]Dawidkowo[/i]; [i]Milosna[/i]
 Swedish [i]Fjordenlande; Hamnmark; Talshavn; Thorshavn[/i]

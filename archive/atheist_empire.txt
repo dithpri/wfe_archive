@@ -14,7 +14,6 @@
 [nation=short]Hired Contractor[/nation]
 [nation=short]SilverSentinel[/nation]
 [nation=short]the stanley farm[/nation]
-[nation=short]Dypiv[/nation]
 [nation=short]Freya Crescent[/nation]
 [nation=short]Corvus Corax[/nation]
 [nation=short]Talidania[/nation]

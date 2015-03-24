@@ -7,8 +7,8 @@ THE ROYAL GOVERNMENT
 
 King, Head of State: [nation=West Atlantic Federation]
 Crown Prince, Head of Government: [nation=The Millennium Star]
+Exec. Minister of Resources, Head of RCTTF: [nation=New Cole]
 Executive Minister of Foreign Affairs: [nation=Antonlands]
-Executive Minister of Resources: [nation=New Cole]
 Executive Minister of Finance: [nation=Zoveria]
 
 [region=The Raiding Ground of The Royal Army] - Password: TRA[/b]

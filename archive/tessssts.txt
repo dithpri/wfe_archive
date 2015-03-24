@@ -4,4 +4,8 @@
 
 [color=#000061]Into the battle rode the following riders:[/color]
 [nation=short]Corvus Corax[/nation]
-[nation=short]Vandoosa[/nation][/b]
+[nation=short]Vandoosa[/nation]
+
+[color=#000061]Reinforced by:[/color]
+[nation=short]Corvus Corax[/nation]
+[nation=short]Getti[/nation][/b]
