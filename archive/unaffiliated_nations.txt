@@ -1,10 +1,11 @@
 [b]World Status:[/b] [color=orange]Medium Tensions[/color]
 
-[b]Latest News:[/b] IUSR-OMEC tensions rise.
+[b]Latest News:[/b] Codeco founded.
 [hr]
 
 [b]Regions of Zemlya[/b]
 
+[url=/region=codeco][color=orange]Council for Developmental Cooperation[/color][/url] - [i]A left-leaning international peace organisation.[/i]
 [url=/region=iusr][color=cc0000]International Union of Socialist Republics[/color][/url] - [i]The communist bloc of Zemlya, which adheres to Marxist-Leninist ideology.[/i]
 [url=/region=unaffiliated_nations][color=Grey]Unaffiliated Nations[/color][/url] - [i]The place for nations in Zemlya which are not part of any specifically aligned region.[/i]
 [url=/region=omec][color=0000cc]Organisation of Military and Economic Co-operation[/color][/url] - [i]An organisation of capitalist nations co-operating militarily and economically.[/i]

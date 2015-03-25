@@ -1,12 +1,11 @@
 [b]Chain of Command:[/b]
 [nation=short]Ouhlahauhn[/nation], Founder
 [nation=short]The Pinnacle of Arcadia[/nation],  WA Delegate
-[nation=short]Great Space Whales[/nation], Vice Delegate
+[nation=short]Great Space Whales[/nation][REMOVED], Vice Delegate
 
 [b]Regional Assembly:[/b]
 [nation=Ouhlahauhn], Speaker
 [nation=The Pinnacle of Arcadia]
-[nation=Great Space Whales]
 [nation=Ligernation]
 [nation=Roxxion]
 [nation=Vokun]
@@ -17,4 +16,4 @@
 
 [color=red]I[/color] [color=orange]found[/color] [color=yellow]out[/color] [color=green]how[/color] [color=blue]to[/color] [color=indigo]use[/color] [color=violet]colors![/color]
 
-[spoiler=Side Note]This is for Aaron. Nice corrupt dictatorship. Also Andy.[/spoiler]
+[spoiler=Side Note]Hi :D[/spoiler]

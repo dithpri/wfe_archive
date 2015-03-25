@@ -2,15 +2,15 @@
 
 [b][u][i][color=yellow]Head of the Pac Pac Council[/b][/u][/i][/color]
 [color=red]Supreme Chancellor:[/color] [nation]Lackatoo[/nation]
-[color=purple]President of Pac Pac:[/color] [nation]Meoko[/nation] 
-[color=green] Vice President of Pac Pac:[/color] [nation]Nukes Everywhere[/nation] 
+[color=a01340]President of Pac Pac:[/color] [nation]Meoko[/nation] 
+[color=7ff00] Vice President of Pac Pac:[/color] [nation]Nukes Everywhere[/nation] 
 
 [b][u][i][color=yellow] The Grand Council of Pac Pac[/b][/u][/i][/color]
 
-[color=periwinkle] Chairperson of the People:[/color][nation]Atticusland[/nation]
+[color=blue] Chairperson of the People:[/color][nation]Atticusland[/nation]
 
-[color=brown]Chairperson of the Military:[nation]Bulmagon[/nation][/color]
+[color=ff2400]Chairperson of the Military:[nation]Bulmagon[/nation][/color]
 
-[color=cyan]Chairperson of the Environment:[/color] [nation]MURDEROUS GOATS[/nation]
+[color=488214]Chairperson of the Environment:[/color] [nation]MURDEROUS GOATS[/nation]
 
-[color=blue]Chairperson of Production:[/color] [nation]SCARY MIKE[/nation]
+[color=8b4513]Chairperson of Production:[/color] [nation]SCARY MIKE[/nation]

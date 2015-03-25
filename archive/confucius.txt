@@ -7,7 +7,7 @@
 
 [color=red][i]~Executive~[/i][/color]
 Emperor: [nation=short]F0rm0sa[/nation]
-Grand Secretariat: [nation=short]Misterswaggalicious[/nation]
+Grand Secretariat: [nation=short]Kacita[/nation]
 
 [color=blue][i]~Council of Five~[/i][/color]
 Minister of Economics: [nation=short]Kolekya[/nation]
