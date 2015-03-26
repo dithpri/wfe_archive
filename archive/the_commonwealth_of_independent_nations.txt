@@ -1,6 +1,7 @@
 [b]REGIONAL GOVERNMENT[/b]
 
 Prime Minister: [nation]Monos[/nation]
+Deputy Prime Minister:[nation]Geo chorus[/nation]
 Minister of State:[nation]Monos[/nation]
 Minister of Foreign Affairs:[nation]Geo chorus[/nation]
 Minister of Recruitment: OPEN

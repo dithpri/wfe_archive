@@ -1,5 +1,5 @@
 [i]Welcome to[/i]
-[color=blue][b][i]The Place For Awesome Nations[/color][/b][/i]. [color=teal]This region was founded May 15, 2014.[/color]
+[color=red][b][i]The Place For Awesome Nations[/color][/b][/i]. [color=teal]This region was founded May 15, 2014.[/color]
 
 [b][u]ENDORSE [nation=short]union of the democrats[/nation][/b][/u]
 
@@ -8,15 +8,15 @@
 Minister of Defense:[nation=short]kortat[/nation]
 Minister of Interior: 
 Minister of Foreign Affairs: [nation=short]St Nevis and Kitts[/nation]
-Minister of Recreation:
+Minister of Recreation: [nation=short]statonville[/nation]
 [/b]
-[b][u][i]The Judge[/i][/u][/b]
-[nation=short]Kortat[/nation]
+[b][u][i]The Judge[/i][/u]
+[nation=short]Kortat[/nation][/b]
 
-[b][color=red]To apply for or create a position in the regional government telegram [/color]
+[b][color=Orange]To apply for or create a position in the regional government telegram [/color]
  [nation=short]Abust1[/nation] or [nation=short]union of the democrats[/nation][/b]
 
-[b][color=orange]Read the The Place For Awesome Nations constitution![/b][/color]
+[b][color=purple]Read the The Place For Awesome Nations constitution![/b][/color]
 
 [spoiler=RMB rules]No recruiting
 No arguing

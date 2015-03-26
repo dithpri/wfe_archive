@@ -1,6 +1,7 @@
 [nation]klein harksteden[/nation]
 [nation]communist groningen[/nation]
 [nation]harksteden[/nation]
+[nation]Guinea dago Italy[/nation]
 united socialist alliance 
 socialist region of the world 
 Location: europe/asia

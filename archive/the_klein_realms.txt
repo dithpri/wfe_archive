@@ -13,7 +13,7 @@
 [b]Government[/b][list]
 [*]Founder: [nation]The Swanney[/nation]
 [*]WA Delegate: [nation]Galangus[/nation]
-[*]Consultant: [nation]Schurkenstaat[/nation][/list]
+[*]Consulting Nation: [nation]Schurkenstaat[/nation][/list]
 [hr]
 
 [b]Legislature[/b]: Governed exclusively by those in power
