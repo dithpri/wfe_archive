@@ -1,7 +1,19 @@
-[b][color=#CC0000]By the grace of God, We, [/color][nation=short]The Emperor of Iron Europe[/nation] 
-Durch die Gnade Gottes, wir, Der Kaiser von Eisen Europa
+[b]By the grace of God;
+We, [nation=short]The Emperor of Iron Europe[/nation] command [region]Iron Europe[/region] to [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Crusade[/url]
+[hr]
 
-[color=#CC0000]Command[/color] [region]Iron Europe[/region] to [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Crusade[/url] and [color=#CC0000]Order[/color] the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] to march
-Befehl Eisen Europa zu Heiligen Kreuzzug und bestellen das Heilige Armee zu marsch[hr]
+[color=#CC0000]Forces:[/color]
 
-[color=#CC0000]Special Protectorate:[/color] [region]Allied Maritime Command[/region][/b]
+[region]White Sea[/region] - [nation]HMS Karelia[/nation]
+[region]The Barents Sea[/region] - [nation]HMS Barentsz[/nation]	
+[region]Kara Sea[/region] - [nation]HMS Nenets[/nation]
+[region]Arctic Ocean Fleet[/region] - [nation]HMS Arctic Ocean[/nation]
+[region]Southern Ocean[/region] - [nation]HMS Southern Cross[/nation]	
+[region]Bering Sea[/region] - [nation]HMS Vitus Bering[/nation]
+[region]Tyrrhenian Sea[/region]	 - [nation]HMS Tirreno[/nation]
+[region]The Baltic Sea[/region] - [nation]HMS Balticus[/nation]
+[region]North Pacific Ocean[/region] - [nation]HMS Voyager[/nation]
+
+[color=#CC0000]Bases:[/color]
+
+[region]Devonport[/region] - [nation=short]Iron Europe Force 27[/nation][/b]
