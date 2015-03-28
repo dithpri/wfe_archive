@@ -1,29 +1,34 @@
-[color=darkgreen]~WELCOME TO THE WESTERN ISLES~[/color]
-[i](slogan)[/i]
+[color=#05999c]~WELCOME TO THE WESTERN ISLES~[/color]
 
 
-[color=blue]All information on The Western Isles including the Constitution, the government, the rules, a FAQ, and other information can be found [url=http://www.nationstates.net/nation=vancouvia/detail=factbook/id=390998/]here[/url]![/color]
+[i]The Western Isles is a region welcoming of every nation, with a structured Constitution, a dedicated team of governmental officers, and a well-stocked supply of both diplomatic and war role-playing opportunities![/i]
+
+[color=#05999c]All information on The Western Isles can be found [url=http://www.nationstates.net/nation=vancouvia/detail=factbook/id=390998/]here[/url]![/color]
 
 [hr]
-[color=darkgreen]~The Western Isles Government~[/color]
+[color=#05999c]~The Western Isles Government~[/color]
 
 [b]Executive Branch[/b]
-President:
+President: [nation=short]Vancouvia[/nation]
 Vice President:
 Secretary of Defense:
 Secretary of the Interior:
 Secretary of the Exterior:
 
 [b]Judicial Branch[/b]
-Supreme Justice: 
-Supreme Justice:
-Supreme Justice:
-Supreme Justice:
-Supreme Justice:
+Justice: 
+Justice:
+Justice:
+Justice:
+Justice:
 
 [b]Legislative Branch[/b]
-All laws are proposed and voted on by all nations through direct popular vote
+All laws proposed and voted on by all nations through direct popular vote
 [hr]
 
-[color=darkgreen]~Quick Links~[/color]
-Map, Constitution, Regional Rules, FAQ
+[color=#05999c]~Quick Links~[/color]
+[url=http://www.nationstates.net/nation=vancouvia/detail=factbook/id=391007/]Map[/url], [url=http://www.nationstates.net/nation=vancouvia/detail=factbook/id=390968/]Constitution[/url], [url=http://www.nationstates.net/nation=vancouvia/detail=factbook/id=391006/]Regional Rules[/url], [url=http://www.nationstates.net/nation=vancouvia/detail=factbook/id=391005/]FAQ[/url]
+
+
+[color=#05999c]~Ongoing Events~[/color]
+Constitutional Convention, Government Elections

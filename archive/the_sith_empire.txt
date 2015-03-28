@@ -1,1 +1,9 @@
-[b][i]The Sith Empire shall be refounded by His Imperial Majesty, Emperor [nation=short]Darth Vitiate[/nation]![/i][/b]
+[hr][color=AE0E0E][b]The Sith Empire[/b][/color]
+[color=E81C1C][b][i]Est. 4980 BBY; 17 March 2015[/i][/b][/color]
+[hr][color=AE0E0E][b][u]The Executive Government[/u][/b][/color]
+[b]His Imperial Majesty Emperor [nation=short]Darth Vitiate[/nation][/b]
+[b]Grand Vizier[/b] [i]Vacant[/i]
+[hr][color=AE0E0E][b][u]Current Events[/u][/b][/color]
+&#149; Emperor [nation=short]Darth Vitiate[/nation] establishes the Sith Empire.
+&#149; The Emperor ratifies the Imperial Charter.
+[hr]

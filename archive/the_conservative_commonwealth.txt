@@ -3,8 +3,8 @@
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 [i][b]Gereral Assembly[/b][/i]
 - [b]Head of the Assembly and the Great Commonwealth:[/b] [nation]Hiddelborg[/nation]
-- [b]Prime Minister:[/b] to choose.
-- [b]Secretary of Defense:[/b] to choose.
-- [b]Secretary of Internal Affairs:[/b] to choose.
-- [b]Secretary of External Affairs:[/b] to choose.
-- [b]Secretary of Economy:[/b] to choose.
+- [b]Prime Minister:[/b] [nation]Bosna-srbija[/nation]
+- [b]Secretary of Defense:[/b] [nation]Darstien[/nation]
+- [b]Secretary of Internal Affairs:[/b] [nation]Epca[/nation]
+- [b]Secretary of External Affairs:[/b] [nation]Skyndem[/nation]
+- [b]Secretary of Economy:[/b] [nation]Hiddelborg[/nation] (temporary until choose one)

@@ -1,11 +1,13 @@
-[b][color=#000061]Regional News : The Black Rider is just a small thing! 
+[b][color=#0040BF]Regional News : Internal Security Act is now enforced[/color]
+
+Security Level :[color=#00BF00]Green[/color]
 
 
 
-Regional Cabinet[/color]
+Regional Cabinet
 
-Regional Governor: [nation]Tanjung Semberong[/nation]
-Defence Ministry:[nation]North Sabah[/nation]
-Internal Affairs Ministry:[nation]Pinang Island[/nation]
-Foreign Affairs Ministry:[nation]North Singapore[/nation]
+Governor : [nation=short]Tanjung Semberong[/nation]
+Minister of Defence : [nation=short]North Sabah[/nation]
+Minister of Interior : [nation=short]Pinang Island[/nation]
+Minister of Foreign Affairs :[nation=short]North Singapore[/nation]
 [/b]

@@ -1,11 +1,12 @@
-[b]The Imperial Home of His Majesty [nation=short]The Emperor of Iron Europe[/nation]
-
-[nation=short]The Emperor of Iron Europe[/nation] in [region]Windsor Castle[/region] commands the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] of [region]Iron Europe[/region] to Crusade!
+[b]&#134; [nation=short]The Emperor of Iron Europe[/nation] in [region]Windsor Castle[/region] commands the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] of [region]Iron Europe[/region] to Crusade!
 [hr]
 
-Country: [region]Republic of England[/region]
-Imperial Currency: Sterling &pound;
+Country: 
+&#134; [region]Republic of England[/region]
 
-State: [region]Royal County of Berkshire[/region]
+State: 
+&#134; [region]Royal County of Berkshire[/region]
 
-[hr][i]&#147;How on earth can it be racist to fly your own flag in your own country?&amp;quot;[/i][/b] Philip Davies
+Castle:
+&#134; [region]Windsor Castle[/region]
+[/b][hr]

@@ -1,14 +1,27 @@
-[b][nation=short]The Emperor of Iron Europe[/nation] in [region]Windsor Castle[/region] commands the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] of [region]Iron Europe[/region] to Crusade!
-[hr]
-
-[region]Republic of England[/region]
-Imperial Currency: &pound;
+[b]&#134; [nation=short]The Emperor of Iron Europe[/nation] in [region]Windsor Castle[/region] commands the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] of [region]Iron Europe[/region] to Crusade!
+[hr]Country: 
+&#134; [region]Republic of England[/region]
 
 States:
-[region]Norfolk[/region] - [region]Hertfordshire[/region] - [region]East Anglia[/region] - [region]Cambridgeshire[/region] - [region]Cumbria[/region] -  [region]Lincolnshire[/region] - [region]County Durham[/region] - [region]Tyne and Wear[/region] - [region]Gloucestershire[/region] - [region]Royal County of Berkshire[/region]
+&#134; [region]Norfolk[/region] 
+&#134; [region]Hertfordshire[/region] 
+&#134; [region]East Anglia[/region] 
+&#134; [region]Cambridgeshire[/region] 
+&#134; [region]Cumbria[/region] 
+&#134; [region]Lincolnshire[/region] 
+&#134; [region]County Durham[/region] 
+&#134; [region]Tyne and Wear[/region] 
+&#134; [region]Gloucestershire[/region] 
+&#134; [region]Royal County of Berkshire[/region]
 
 Cities:
-[region]City of Carlisle[/region]
+&#134; [region]City of Carlisle[/region]
 
-Castle: [region]Windsor Castle[/region]
-[hr][i]&#147;How on earth can it be racist to fly your own flag in your own country?&amp;quot;[/i][/b] Philip Davies
+Castle:
+&#134; [region]Windsor Castle[/region]
+
+Protectorates:
+&#134; [region]The Republic of England[/region]
+&#134; [region]English[/region]
+&#134; [region]Saxon Alliance[/region]
+[/b]

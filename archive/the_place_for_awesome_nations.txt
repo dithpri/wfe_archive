@@ -4,7 +4,7 @@
 [b][u]ENDORSE [nation=short]union of the democrats[/nation][/b][/u]
 
 [b][i][u]The Cabinet[/b][/i][/u]
-[b][color=blue]Delegate: [nation=short]union of the democrats[/nation][/color]
+[b]Delegate: [nation=short]union of the democrats[/nation]
 Minister of Defense:[nation=short]kortat[/nation]
 Minister of Interior: 
 Minister of Foreign Affairs: [nation=short]St Nevis and Kitts[/nation]
