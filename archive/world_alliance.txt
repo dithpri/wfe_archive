@@ -11,7 +11,7 @@
 
 [b]+ Member for Asia[/b] : 
 [b]+ Member for Iberia[/b] : 
-[b]+ Member for Arcadia[/b] : [nation=short]new_rhodinia[/nation] 
+[b]+ Member for Arcadia[/b] : [nation=short]new_rhodinia[/nation], [nation=short]apepistan[/nation]
 [b]+ Member for Atlantis[/b] : 
 [b]+ Member for Oceania[/b] : 
 [b]+ Member for Olympia[/b] : [nation=short]the_great_empire_of_soviet_russia[/nation]
@@ -19,7 +19,7 @@
 [b]+ Member for Erythraea[/b] : 
 [b]+ Member for Magnesia[/b] : [nation=short]muchos_estados_unidos[/nation], [nation=short]wirbanskia[/nation]
 [b]+ Member for Polynesia[/b] : [nation=short]scottlands[/nation]
-[b]+ Member for Phoenicia[/b] : [nation=short]new korrea[/nation]
+[b]+ Member for Phoenicia[/b] : [nation=short]new korrea[/nation], [nation=short]islamic states of islamic states[/nation]
 [b]+ Member for Micronesia[/b] : [nation=short]snarfia[/nation]
 [b]+ Member for Mnemosyne[/b] : [nation=short]serenarea[/nation]
 
