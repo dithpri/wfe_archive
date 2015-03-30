@@ -1,9 +1,7 @@
 [b][i][u]Territories controlled by [nation]Pontacium[/nation].[/u][/i][/b]
 Puppet nations created by Pontacium for the history factbook.
-[b][u]Arcius Territories:[/b][/u]
-[nation]Baranovo[/nation]
-[nation]Coal miners haven[/nation]
-[b][u]Soviet Union of Laikas (Toks VII):[/b][/u]
-[nation]Laikas[/nation]
-[nation]Laikopolis[/nation]
-[nation]Laikadrome[/nation]
+There are 4 factions here:[list]
+[*][u]Territories directly controlled by Pontacium[/u]: Self explanatory; areas in the Pontaci empire (cities, factories, bases, etc)
+[*][u]The &amp;quot;Tribal Laikas&amp;quot;[/u]: 1st Laika faction; operating traditionally, under Pontaci protection
+[*][u]The &amp;quot;Soviet Laikas&amp;quot;[/u]: 2nd Laika faction; leading a communist revolution and fighting Pontaci intervention
+[*][u]The &amp;quot;et cetera group&amp;quot;[/u]: These are really just weird nations that were made for whatever reason. Irrelevant to actual gameplay/lorestuffs.

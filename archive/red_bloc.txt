@@ -1,22 +1,22 @@
 A group of countries embracing Social Democracy.
 
-[color=darkred][b][u]Council[/u][/b][/color]
-&#149; Founder: [nation=short]Red Bloc[/nation]
-&#149; Secretary-General:
-&#149; Assembly-President:
-&#149; Supreme Allied Commander:
+[color=darkred][b][u]Supreme Council[/u][/b][/color]
+&#149; President: [nation=short]Red Bloc[/nation]
+&#149; Secretary-General: TBD
+&#149; Supreme Allied Commander: TBD
 
-[color=darkred][b][u]High Authority[/u][/b][/color]
-&#149; Secretary-General:
--Office:
--Office:
--Office:
+[color=darkred][b][u]People&amp;#39;s Secretariat[/u][/b][/color]
+&#149; Secretary-General: TBD
+- RA: TBD
+- FA: TBD
+- EA: TBD
 
-[color=darkred][b][u]Assembly[/u][/b][/color]
-&#149; President:
--Committee:
--Committee:
--Committee:
+[color=darkred][b][u]People&amp;#39;s Congress[/u][/b][/color]
+&#149; Chairman: TBD
 
-[color=darkred][b][u]Red Army[/u][/b][/color]
-&#149; Supreme Allied Commander (SAC): [nation=short]Red Bloc[/nation]
+[color=darkred][b][u]People&amp;#39;s Inspectorate[/u][/b][/color]
+&#149; Inspector-General: TBD
+
+[color=darkred][b][u]Oslo Pact[/u][/b][/color]
+&#149; Commander-in-Chief: [nation=short]Red Bloc[/nation]
+- Supreme Allied Commander: TBD

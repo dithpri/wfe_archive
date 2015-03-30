@@ -22,7 +22,7 @@ UWB Regional Council:
 [nation=short]Prauss[/nation][/b]
 [hr]
 
-[b][color=red]Endorsement Cap = 3[/color][/b]
+[b][color=red]Endorsement Cap = 2[/color][/b]
 [hr]
 [b][color=darkblue]Quote of the Week - It&amp;#39;s fun to do THE IMPOSSIBLE - Walt Disney[/color][/b]
 [hr]

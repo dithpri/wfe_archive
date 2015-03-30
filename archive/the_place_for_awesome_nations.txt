@@ -5,8 +5,8 @@
 
 [b][i][u]The Cabinet[/b][/i][/u]
 [b]Delegate: [nation=short]union of the democrats[/nation]
-Minister of Defense:[nation=short]kortat[/nation]
-Minister of Interior: 
+Minister of Defense:[nation=short]Jmisrael1[/nation]
+Minister of Interior: [nation=short]Buroc[/nation]
 Minister of Foreign Affairs: [nation=short]St Nevis and Kitts[/nation]
 Minister of Recreation: [nation=short]statonville[/nation]
 [/b]
