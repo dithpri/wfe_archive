@@ -1,8 +1,11 @@
-[b]Declaration of a [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Crusade[/url]
-His Majesty [nation=short]The Emperor of Iron Europe[/nation] has decreed that [region]Iron Europe[/region] will commit to holy war against political terrorists that threaten the sanctity of ordered civilization in Europe, Her colonies and the Holy Land.
+[b]&#134; [nation=short]The Emperor of Iron Europe[/nation] in [region]Windsor Castle[/region] commands the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] of [region]Iron Europe[/region] to Crusade!
+[hr]
 
-[i][color=#CC0000]There is no avoiding war; it can only be postponed to the advantage of others[/i][/color]
-Niccolo Machiavelli
+Country: 
+[region]Federal Republic of Scotland[/region]
+&#134; [nation=short]Republic of Scotland President[/nation]
 
-[region]Scottish Nationalists[/region] has been Annexed by [region]Iron Europe[/region] and Scots are welcome in the [color=#CC0000]Imperial Country:[/color] [region]Federal Republic of Scotland[/region]
+Protectorate:
+&#134; [region]Scottish Nationalists[/region]
+&#134; [nation=short]Scottish Nationalists[/nation]
 [/b]

@@ -1,18 +1,8 @@
-[color=green] Please endorse your delegate [nation]Seketan[/nation]![/color]
-
 [color=red][u][b]THE RICHARD ISLANDS[/b][/u][/color]
-[hr]
-[color=green][b]Leaders:[/b][/color]
-[hr]
-[Nation=seketan]
-[Nation=dominion of jacland]
-[hr]
-[color=green][b]Minsters:[/b][/color]
-[hr]WA delegate: [Nation=Seketan]
-Defense minister: [Nation=Malonald]
-Economic Minister: [nation=sicro]
-Head Minister: [nation=Dominion of Jacland]
-Recruitment Minister: [nation=seketan]
-Minister of Foreign Affairs:[Nation=Sicro]
-Minister of Regional Affairs:[nation=Alquiya]
+Founded by [nation]dominion of jacland[/nation].
+[hr]WA delegate: [Nation=Seketan] (Elected via endorsements, second to command)
+Defense minister: [Nation=Malonald] (Elected, gives military advice)
+Economic Minister: [nation=sicro] (Elected, gives economic advice)
+Recruitment Minister: [nation=seketan] (Recruits nations to RIA)
+Minister of Regional Affairs:[nation=Alquiya] (Elected, deals with countries within RIA)
 

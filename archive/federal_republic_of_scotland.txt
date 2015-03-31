@@ -1,5 +1,10 @@
-[b][i]In His Majesty&amp;#39;s benevolence[/i] [nation=short]The Emperor of Iron Europe[/nation] [i]has decreed the First Holy Empire of the Europeans[/i]
-[region]Iron Europe[/region] is the Imperial Homeland for all European Nations. [hr]
+[b]&#134; [nation=short]The Emperor of Iron Europe[/nation] in [region]Windsor Castle[/region] commands the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] of [region]Iron Europe[/region] to Crusade!
+[hr]
 
-[color=#CC0000]Imperial Country:[/color] [region]Federal Republic of Scotland[/region]
-[/b]
+Country: 
+&#134; [region]Federal Republic of Scotland[/region]
+&#134; [nation=short]Republic of Scotland President[/nation]
+
+Protectorate:
+&#134; [region]Scottish Nationalists[/region]
+&#134; [nation=short]Scottish Nationalists[/nation][/b]

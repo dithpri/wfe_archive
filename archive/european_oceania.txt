@@ -1,14 +1,19 @@
-[b][color=#CC0000]By the grace of God, We, [/color][nation=short]The Emperor of Iron Europe[/nation] 
-Durch die Gnade Gottes, wir, Der Kaiser von Eisen Europa
+[b]&#134; [nation=short]The Emperor of Iron Europe[/nation] in [region]Windsor Castle[/region] commands the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] of [region]Iron Europe[/region] to Crusade!
+[hr]&#134; [region]European Oceania[/region]
+&#134; [nation=short]European Oceania[/nation]
 
-[color=#CC0000]Command[/color] [region]Iron Europe[/region] to [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Crusade[/url] and [color=#CC0000]Order[/color] the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] to march
-Befehl Eisen Europa zu Heiligen Kreuzzug und bestellen das Heilige Armee zu marsch[hr]
+Country:
+&#134; [region]Republic of Australia[/region]
+&#134; [nation=short]Republic of Australia President[/nation]
 
-[color=#CC0000]Imperial Country:[/color] [region]Republic of Australia[/region]
-[color=#CC0000]Imperial Currency:[/color] IC
-[color=#CC0000]Local Currency:[/color] AUD
+Protectorate:
+&#134; [region]Tasmania Island State[/region]
+&#134; [nation=short]Tasmania Island State[/nation]
+[hr]Country:
+&#134; [region]Republic of New Zealand[/region]
+&#134; [nation=short]Republic of New Zealand President[/nation]
 
-[color=#CC0000]Imperial Country:[/color] [region]Republic of New Zealand[/region]
-[color=#CC0000]Imperial Currency:[/color] IC
-[color=#CC0000]Local Currency:[/color] NZD
+City:
+&#134; [region]Devonport[/region]
+&#134; [nation=short]Iron Europe Force 27[/nation]
 [/b]

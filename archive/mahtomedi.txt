@@ -8,9 +8,13 @@
 [nation]Cold Sassy Tree[/nation]
 [nation]Blue Lego Bricks[/nation]
 [nation]Flickster[/nation]
-[nation]Infonation[/nation]
 [nation]Andentine[/nation]
 [nation]Omaline[/nation]
 [nation]Yaynation[/nation]
+[nation]DeathYay[/nation]
+
+[color=navy][b]Graveyard:[/b][/color]
+
+[nation]Infonation[/nation]
 
 [color=gray][i]Need help? Check out NS Tutorial For New Mahtomedi Nations below or telegram [nation=short+noflag]Cold Sassy Tree[/nation][/i][/color]

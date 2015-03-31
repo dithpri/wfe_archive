@@ -4,4 +4,16 @@
 &#134; [url=https://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=386081]Law[/url]
 &#134; [url=https://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=389091]Shops[/url]
 
+Imperial Quarters:
+&#134; [region]Anglo Celtic Isles[/region]
+&#134; [nation=short]Anglo Celtic Isles[/nation]
+
+&#134; [region]Greater Europe[/region]
+&#134; [nation=short]Greater European Nations[/nation]
+
+&#134; [region]European America[/region]
+&#134; [nation=short]European American President[/nation]
+
+&#134; [region]European Oceania[/region]
+&#134; [nation=short]European Oceania[/nation]
 [hr][i]Embassies Forbidden[/i][/b]
