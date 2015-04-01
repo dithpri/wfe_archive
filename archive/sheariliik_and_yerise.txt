@@ -1,0 +1,12 @@
+[U][B]NATIONS[/u][/b]
+[nation=sheariliik]
+[nation=Yerise]
+
+[U][B]UNCLAIMED[/u][/b]
+[nation=Unclassified Territories]
+
+[url=http://img01.deviantart.net/5782/i/2015/090/f/7/an_by_viscaeleusthegreat-d8ntprl.png]MAP[/url]
+
+[color=green] Green = Sheariliik[/color]
+[color=lightgreen] Crimson = Yeris[/color]
+[color=grey]grey = Unclassified Territories[/color]

@@ -1,10 +1,20 @@
-[b][color=#CC0000]By the grace of God, We, [/color][nation=short]The Emperor of Iron Europe[/nation] 
-Durch die Gnade Gottes, wir, Der Kaiser von Eisen Europa
+[b]&#134; [nation=short]The Emperor of Iron Europe[/nation] in [region]Windsor Castle[/region] commands the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] of [region]Iron Europe[/region] to Crusade!
+[hr]Country:
+&#134; [region]Kingdom of Italy[/region]
+&#134; [nation=short]Iron Europe Force 6[/nation]
 
-[color=#CC0000]Command[/color] [region]Iron Europe[/region] to [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Crusade[/url] and [color=#CC0000]Order[/color] the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] to march
-Befehl Eisen Europa zu heiligen Kreuzzug und bestellen das Heilige Armee zu marsch[hr]
+State:
+&#134; [region]Lombardy[/region]
+&#134; [nation=short]Iron Europe Force 29[/nation]
 
-[color=#CC0000]Imperial Country:[/color] [region]Kingdom of Italy[/region]
-[color=#CC0000]Imperial Currency:[/color] IC
-[color=#CC0000]Local Currency:[/color] Euro
+Cities:
+&#134; [region]Milan[/region]
+&#134; [nation=short]Milan Italy[/nation]
+
+Protectorate:
+&#134; [region]Repubblica Veneta[/region]
+&#134; [nation=short]Iron Europe Force 29[/nation]
+
+&#134; [region]Verona[/region]
+&#134; [nation=short]Iron Europe Force 14[/nation]
 [/b]

@@ -1,5 +1,6 @@
 This is the War torn region of The Cosmo Land.
-Dictator:[nation]Socialist Black Hole Army of Sturm[/nation]
+Monarch:[nation]Elsa the Snow Queen[/nation]
+Governor:[nation]Socialist Black Hole Army of Sturm[/nation] (Contact [Nation]The Dragon Realms Empire[/nation])
 
 Central government in [region]The Frozen Pacific[/region]
 

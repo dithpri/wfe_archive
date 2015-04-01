@@ -1,4 +1,4 @@
- [B][color=darkred]Welcome to The Nether, [/color][color=#b78727][i]a home to all the Steves and Alexs in the world.[/i][/color][hr]
+ [B][color=darkred]Welcome to The Nether, [/color][color=#b78727]a home to all the Steves and Alexs in the world[/color][hr]
 
 [color=red]Nether Dragon:[/color] [nation=short]Isle of the Hidden Warrior[/nation]
 
@@ -7,3 +7,5 @@
 [color=red]Magma Cube (Internal Affairs):[/color] [color=green]To Be Elected[/color]
 [color=#C6930A]Ghast (Communications):[/color] [color=green][nation=short]Progect 80789[/nation][/color]
 [color=red]Zombie Pigman:[/color] [color=green]To Be Elected[/color][/B]
+
+[url=http://dynmap.d4rksideos.net][B][color=black]Interactive map of the server[/color][/b][/url] [color=blue]In Progress[/color]

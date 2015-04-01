@@ -1,17 +1,3 @@
 [nation=New Volkhov] is a codex that contains things about NPC factions and other essentials for the region.
 
 [https://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=333849]
-
-Nations Military Number
-[nation=New Norgeva]-25,075
-[nation=new Turin]-38,160
-[nation=sangdan]-43,470
-[nation=the united Hellenistic States]-52,965
-[nation=NSCC]-55,290
-[nation=the Goldwyn]-92,220
-[nation=gazeck]-124,092
-[nation=the steel legion unification force]-135,696
-The CSA-65,00
-[color=blue]Isreal[/color]-120,000
-[color=red]USSR[/color]-166,000
-[color=blue]No[/color][color=red]rth Korea[/color]-256,000

@@ -5,5 +5,6 @@
 [color=blue][b]Consul[/b][/color] [color=lightblue](Seat temporarily assumed by Dom)[/color]
 [color=darkgreen][b]Tribune[/b] --[/color]
 
-[color=red][b]Alert:[/b] [i]Operation Caesar[/color][/i] has [color=maroon][b]FAILED![/b][/color] Not enough [color=purple]IAF[/color] members moved there and endorsed [nation=tiaradom]. [color=red]Dom[/color] of [nation=Smaller government] has removed from his position as [color=red]Praetor[/color]
+[color=red][b]Alert:[/b] [i]Operation Caesar[/color][/i] has been [color=maroon][b]REACTIVATED![/b][/color]
+[color=lightblue]Dom[/color] of [nation=Smaller government] has removed from his position as [color=red]Praetor[/color]
 [color=purple][b]Notice:[/b][/color] [color=lightblue]Dom[/color] is not allowed to hold the position of [color=blue]Consul[/color] until he contacts [color=gold][b]Emperor Andrew[/b][/color] and receives instructions. If he fails to do so he will be not take the position.

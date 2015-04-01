@@ -3,9 +3,9 @@
 [hr]
 [u][color=blue][B][i]Regional Government[/i][/B][/color][/u]
  
-[b]High Prince:[/b] [i][nation=short]Anoir[/nation][/i]
+[b]High Prince:[/b] Prince Eren of  [i][nation=short]Anoir[/nation][/i]
  
-[B]General of Anoir:[/B] [i][nation=short]Tovenn[/nation][/i]
+[B]General of Anoir:[/B] [i]The Great Freck of [nation=short]Tovenn[/nation][/i]
  
 [B]Foreign Ambassador:[/B] [i][nation=short]NocturnalRebels[/nation][/i]
  

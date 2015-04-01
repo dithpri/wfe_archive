@@ -7,7 +7,7 @@ THE ROYAL GOVERNMENT
 
 Head of State, Founder: [nation=West Atlantic Federation]
 Crown Prince, Head of Internal Affairs: [nation=The Millennium Star]
-Head of Resources, Head of RCTTF, Head of Government (temporary): [nation=New Cole]
+Head of Resources, Head of RCTTF, Head of Government: [nation=New Cole]
 Executive Minister of Foreign Affairs: [nation=Antonlands]
 Official Head of Finance: [nation=zoveria]
 

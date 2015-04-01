@@ -1,10 +1,16 @@
-[b][color=#CC0000]By the grace of God, We, [/color][nation=short]The Emperor of Iron Europe[/nation] 
-Durch die Gnade Gottes, wir, Der Kaiser von Eisen Europa
+[b]&#134; [nation=short]The Emperor of Iron Europe[/nation] in [region]Windsor Castle[/region] commands the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] of [region]Iron Europe[/region] to Crusade!
+[hr]
+Imperial Protectorate:
+Y [region]Palestine[/region]
+&#134; [nation=short]Iron Europe Force 12[/nation]
 
-[color=#CC0000]Command[/color] [region]Iron Europe[/region] to [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Crusade[/url] and [color=#CC0000]Order[/color] the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] to march
-Befehl Eisen Europa zu heiligen Kreuzzug und bestellen das Heilige Armee zu marsch[hr]
+Country: 
+Y [region]Eretz Israel[/region]
+&#134; [nation=short]Iron Europe Force 4[/nation]
 
-[region]Eretz Israel[/region] is a Protectorate of the Empire for the Jewish Nation in [region]Palestine[/region]
+City:
+&#134; [region]Nazareth[/region]
+&#134; [nation=short]Iron Europe Force 28[/nation][hr]
 
 [i]&amp;quot;The nations will know that I am Adonai,&#146; says Adonai Elohim, &#145;when, before their eyes, I am set apart through you to be regarded as holy. For I will take you from among the nations, gather you from all the countries, and return you to your own soil.&amp;quot;[/i][/b]
 Ezekiel 36:23-24 Complete Jewish Bible (CJB)

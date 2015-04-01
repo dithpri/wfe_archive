@@ -9,8 +9,8 @@ ALLIES
 MINISTERS
 War: [nation]The Greater Lands of Albion[/nation] 
 Totalitarian Spirit: [nation]Koopaville[/nation]
-Foreign Affairs: [nation]Valcouria[/nation]
-Internal Affairs: [nation]The Mighty Hyena[/nation]
+Internal Affairs: [nation]Valcouria[/nation]
+Foreign Affairs: -
 
 REGIONS RAIDED
 34

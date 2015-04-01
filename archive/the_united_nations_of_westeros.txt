@@ -1,13 +1,13 @@
 Welcome to [region]The United Nations of Westeros[/region] where we are unbowed, unbent, and unbroken.
 
 [b][u][i]Regional Government[/i]:[/u][/b]
-[color=red]President:[/color] [nation]Riel[/nation]
-[color=blue]Vice President:[/color] [nation]Armed Republic of Walshistan[/nation]
-[color=crimson]Secretary of State:[/color] [nation]A Third Impractical Alliance of Dunces[/nation]
-[color=purple]Treasurer:[/color] [nation]Avarium[/nation]
-[color=orange]Minister of Defense:[/color] [nation]Communist Republic of Chapparal[/nation]
-[color=brown]Minister of Education and Information:[/color] [nation]Wublandia[/nation]
-[color=grey]Chief Justice:[/color] [nation]Aurbistral[/nation]
+[color=red]President:[/color] [nation=short]Riel[/nation]
+[color=blue]Vice President:[/color] [nation=short]Armed Republic of Walshistan[/nation]
+[color=crimson]Secretary of State:[/color] [nation=short]A Third Impractical Alliance of Dunces[/nation]
+[color=purple]Treasurer:[/color] [nation=short]Avarium[/nation]
+[color=orange]Minister of Defense:[/color] [nation=short]Communist Republic of Chapparal[/nation]
+[color=brown]Minister of Education and Information:[/color] [nation=short]Wublandia[/nation]
+[color=grey]Chief Justice:[/color] [nation=short]Aurbistral[/nation]
 
 [b][u][url=http://www.nationstates.net/page=un]Join the World Assembly![/url][/u][/b] | [b][u][color=orange][url=http://www.nationstates.net/nation=armed_republic_of_walshistan]Endorse the VP![/url][/b][/u][/color]
 Join [b][u][url=http://www.nationstates.net/nation=riel/detail=factbook/id=330365]The Night&amp;#39;s Watch![/url][/b][/u] ~ Telegram [nation]Riel[/nation]
