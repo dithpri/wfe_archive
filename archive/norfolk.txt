@@ -3,7 +3,9 @@
 
 Country: 
 &#134; [region]Republic of England[/region]
+&#134; [nation=short]Republic of England President[/nation]
 
 State: 
 &#134; [region]Norfolk[/region]
+&#134; [nation=short]North Folk[/nation]
 [/b][hr]

@@ -1,5 +1,7 @@
-[b]Welcome to [color=blue]KillEm[/color]
+[b]Welcome to [color=blue]KillEm[/color][/b]
 
 [i]We here at [color=blue]KillEm[/color] strive to do one thing and one thing only, play NationStates. We are a laid-back, social type region with brains we use to help us through tough times and a brother region with the military size big enough to defend themselves and us as well.[/i]
 
-Current Allies:[region]Team Warrior[/region]
+Current Warrior Assembly Delegate:[nation]Southern States of Nations[/nation]
+
+Current Allies:[region]Team Warrior[/region],[region]UMNC[/region],[region]Land of Rebels[/region]

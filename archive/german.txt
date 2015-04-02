@@ -1,10 +1,11 @@
-[b][color=#CC0000]Durch die gnade Gottes, wir, [/color][nation=short]Der Kaiser von Eisen Europa[/nation] 
-[color=#CC0000]Erstellt[/color]  Die Heiligen Imperium von [region]Eisen Europa[/region] f&uuml;r Europ&auml;ische Nachkommen
-[color=#CC0000]Erstellt[/color]  [url=https://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381224]Kaiserlichen L&auml;ndern und Staaten[/url]
-[color=#CC0000]Erstellt[/color]  [url=https://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=386081]Kaiserlich Gesetz[/url]
-[color=#CC0000]Erstellt[/color] [url=https://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=389091]Kaiserlich Gesch&auml;fte[/url]
-[color=#CC0000]Ernennen[/color] [nation=short]Baltic Christians[/nation] als Vizek&ouml;nig
-[color=#CC0000]Befehl[/color]  [region]Eisen Europa[/region] zu [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Heiligen Kreuzzug[/url] und das [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Heilige Armee[/url] zu marsch
+[b]&#134; [nation=short]The Emperor of Iron Europe[/nation] in [region]Windsor Castle[/region] commands the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] of [region]Iron Europe[/region] to Crusade!
 [hr]
-Deutsche B&uuml;rger wollten in der Kaiserlichen Land der [region]Republic of Germany[/region]
+
+Country:
+&#134; [region]Republic of Germany[/region]
+&#134; [nation=short]Republic of the Germans[/nation]
+
+Protectorate:
+&#134; [region]German[/region]
+&#134; [nation=short]German National[/nation]
 [/b]

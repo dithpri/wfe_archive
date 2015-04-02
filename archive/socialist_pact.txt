@@ -6,7 +6,7 @@ The [color=blue]Socialist Armed Forces[/color] will be established when we reach
 [color=blue][u][b]The Socialist Cabinet[/b][/u][/color]
 
 Prime Minister: [nation]Cadest[/nation]
-Foreign Minister (Acting): [none]
+Foreign Minister (Acting): [nation]Great Chinese Socialist[/nation]
 Interior Minister: [nation]Union of Democratic states[/nation]
 Deputy Interior Minister: [nation]Czech Moravia[/nation]
 Defense Minister (Acting): [nation]Cadest[/nation]

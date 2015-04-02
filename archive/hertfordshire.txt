@@ -3,7 +3,9 @@
 
 Country: 
 &#134; [region]Republic of England[/region]
+&#134; [nation=short]Republic of England President[/nation]
 
 State: 
 &#134; [region]Hertfordshire[/region]
+&#134; [nation=short]Heort Ford[/nation]
 [/b][hr]

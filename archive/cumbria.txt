@@ -3,7 +3,9 @@
 
 Country: 
 &#134; [region]Republic of England[/region]
+&#134; [nation=short]Republic of England President[/nation]
 
 State: 
 &#134; [region]Cumbria[/region]
+&#134; [nation=short]Cumbria Kinsmen[/nation]
 [/b][hr]

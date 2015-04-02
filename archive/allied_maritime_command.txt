@@ -1,19 +1,39 @@
 [b]By the grace of God;
 We, [nation=short]The Emperor of Iron Europe[/nation] command [region]Iron Europe[/region] to [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Crusade[/url]
 [hr]
+NAVY:
 
-[color=#CC0000]Forces:[/color]
+[region]White Sea[/region] 
+&#134; [nation=short]HMS Karelia[/nation]
 
-[region]White Sea[/region] - [nation]HMS Karelia[/nation]
-[region]The Barents Sea[/region] - [nation]HMS Barentsz[/nation]	
-[region]Kara Sea[/region] - [nation]HMS Nenets[/nation]
-[region]Arctic Ocean Fleet[/region] - [nation]HMS Arctic Ocean[/nation]
-[region]Southern Ocean[/region] - [nation]HMS Southern Cross[/nation]	
-[region]Bering Sea[/region] - [nation]HMS Vitus Bering[/nation]
-[region]Tyrrhenian Sea[/region]	 - [nation]HMS Tirreno[/nation]
-[region]The Baltic Sea[/region] - [nation]HMS Balticus[/nation]
-[region]North Pacific Ocean[/region] - [nation]HMS Voyager[/nation]
+[region]The Barents Sea[/region] 
+&#134; [nation=short]HMS Barentsz[/nation]
+	
+[region]Kara Sea[/region] 
+&#134; [nation=short]HMS Nenets[/nation]
 
-[color=#CC0000]Bases:[/color]
+[region]Arctic Ocean Fleet[/region] 
+&#134; [nation=short]HMS Arctic Ocean[/nation]
 
-[region]Devonport[/region] - [nation=short]Iron Europe Force 27[/nation][/b]
+[region]Southern Ocean[/region] 
+&#134; [nation=short]HMS Southern Cross[/nation]
+	
+[region]Bering Sea[/region] 
+&#134; [nation=short]HMS Vitus Bering[/nation]
+
+[region]Tyrrhenian Sea[/region]	 
+&#134; [nation=short]HMS Tirreno[/nation]
+
+[region]The Baltic Sea[/region] 
+&#134; [nation=short]HMS Balticus[/nation]
+
+[region]North Pacific Ocean[/region] 
+&#134; [nation=short]HMS Voyager[/nation]
+
+[region]Balearic Sea[/region] 
+&#134; [nation=short]HMS Valencia[/nation]
+
+BASES:
+
+&#134; [region]Devonport[/region]
+&#134; [nation=short]Iron Europe Force 27[/nation][/b]

@@ -3,7 +3,9 @@
 
 Country: 
 &#134; [region]Republic of England[/region]
+&#134; [nation=short]Republic of England President[/nation]
 
 State: 
 &#134; [region]Tyne and Wear[/region]
+&#134; [nation=short]Tyne and Wear Kinfolk[/nation]
 [/b][hr]

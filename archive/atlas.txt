@@ -6,3 +6,4 @@ Executive President: [nation=short]New Kvenland[/nation]
 Minister of Defense: [nation=short]Mirevia[/nation]
 Minister of Recruitment: [nation=short]Globus[/nation]
 Minister of Information: [nation=short]The High Lords[/nation]
+

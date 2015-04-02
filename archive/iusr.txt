@@ -1,6 +1,6 @@
-[b]Alert Level:[/b] [color=red]DEFSTAT 2[/color]
+[b]Alert Level:[/b] [color=orange]DEFSTAT 3[/color]
 
-[b]Latest News:[/b] [region]Codeco[/region] founded.
+[b]Latest News:[/b] Second round of IUSR SSR elections begins. 
 [hr]
 
 [b]Supreme Socialist Republics[/b]
@@ -15,6 +15,7 @@
 [nation=short]Chobenia[/nation]
 [nation=short]Hallorania[/nation]
 [nation=short]Navedia[/nation]
+[nation=short]Nihonam[/nation]
 [nation=short]Peihan[/nation]
 [nation=short]Pribaltika[/nation]
 [nation=short]Ruapekapeka[/nation]
