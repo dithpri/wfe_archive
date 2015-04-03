@@ -1,10 +1,15 @@
 [color=maroon]Welcome to [b]The New Roman Nations![/b][/color]
-[color=purple]The New Roman Nations was founded by the Empire of Drewlantis and is currently setting up it&amp;#39;s regional government.[/color]
-[color=gold][b]Emperor[/b] Andrew Lake[/color] of [nation=Drewlantis]
-[color=red][b]Praetor[/b] Tia[/color] of [nation=Tiaradom]
-[color=blue][b]Consul[/b][/color] [color=lightblue](Seat temporarily assumed by Dom)[/color]
-[color=darkgreen][b]Tribune[/b] --[/color]
+[color=purple]The New Roman Nations was founded by the Empire of Drewlantis and is the capital of The New Roman Empire, a super regional alliance of protectorates and territories.[/color]
+
+[color=red][b][i]Imperial Positions[/b][/i][/color]
+[color=gold][b]Emperor:[/b] Andrew Lake[/color] of [nation=Drewlantis]
+[color=purple][b]Executor:[/b] Tia[/color] of [nation=Tiaradom]
+[color=blue][b]Consul:[/b][/color] [nation=Smaller government]
+[color=darkgreen][b]Judicator:[/b][/color] [nation=Vicienna]
+
+[color=purple][b][i]Regional Positions[/b][/i][/color]
+[color=red]Praetor: --[/color]
+[color=blue]Senator: --[/color]
+[color=green]Tribune: --[/color]
 
 [color=red][b]Alert:[/b] [i]Operation Caesar[/color][/i] has been [color=maroon][b]REACTIVATED![/b][/color]
-[color=lightblue]Dom[/color] of [nation=Smaller government] has removed from his position as [color=red]Praetor[/color]
-[color=purple][b]Notice:[/b][/color] [color=lightblue]Dom[/color] is not allowed to hold the position of [color=blue]Consul[/color] until he contacts [color=gold][b]Emperor Andrew[/b][/color] and receives instructions. If he fails to do so he will be not take the position.

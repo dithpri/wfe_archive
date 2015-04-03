@@ -6,5 +6,7 @@ Country:
 &#134; [nation=short]Republic of England President[/nation]
 
 Official Bank of the Holy Empire of [region]Iron Europe[/region]
+&#134; [url=https://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=392226]Currency[/url]
+
 &#134; [region]Bank of England[/region]
 &#134; [nation=short]Governor of the Bank of England[/nation][/b]

@@ -2,3 +2,5 @@ We are a Democratic Region, trying to make a reasonable home for everyone. Curre
 
 Our Medieval Region
 [Region]Fahl[/region]
+Our Modern Region
+[Region]Earth Omega[/region]
