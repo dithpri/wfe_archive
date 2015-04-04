@@ -2,5 +2,6 @@
 [hr]
 
 Imperial Protectorate: 
-[region]Nationalist Europe[/region]
+&#134; [region]Nationalist Europe[/region]
+&#134; [nation=short]GEF Expeditionary Force 2[/nation]
 [/b]

@@ -1,7 +1,9 @@
 [b]&#134; [nation=short]The Emperor of Iron Europe[/nation] in [region]Windsor Castle[/region] commands the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] of [region]Iron Europe[/region] to Crusade!
 [hr]
+Country: 
+&#134; [region]Republic of England[/region]
+&#134; [nation=short]Republic of England President[/nation]
 
-Imperial Protectorate: 
-
+Imperial Protectorate:
 &#134; [region]Anglo Saxon England[/region]
 &#134; [nation]1st Royal English Dragons[/nation][/b]

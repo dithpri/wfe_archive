@@ -8,4 +8,8 @@ Country:
 States:
 &#134; [region]The Republic of Texas[/region]
 &#134; [nation=short]The Republic of Texas President[/nation]
+
+Cities:
+&#134; [region]Tampa[/region]
+&#134; [nation=short]Iron Europe Force 33[/nation]
 [/b]

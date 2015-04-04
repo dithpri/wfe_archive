@@ -8,4 +8,9 @@ Country:
 State: 
 &#134; [region]Cumbria[/region]
 &#134; [nation=short]Cumbria Kinsmen[/nation]
+
+City:
+&#134; [region]City of Carlisle[/region]
+&#134; [nation=short]City of Carlisle Kinfolk[/nation]
+
 [/b][hr]

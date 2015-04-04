@@ -1,4 +1,5 @@
 [b]&#134; [nation=short]The Emperor of Iron Europe[/nation] in [region]Windsor Castle[/region] commands the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] of [region]Iron Europe[/region] to Crusade!
+[i]Aligned with the Templars of [region]Elite Region Of Global Command[/region][/i]
 [hr]&#134; [url=https://www.youtube.com/watch?v=b11-37Me_a4]Anthem[/url]
 &#134; [url=https://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381224]Empire[/url] 
 &#134; [url=https://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=392226]Currency[/url]
@@ -6,7 +7,7 @@
 &#134; [url=https://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=389091]Shops[/url]
 &#134; [region]Bank of England[/region]
 
-Imperial Quarters:
+IMPERIAL QUARTERS:
 &#134; [region]Anglo Celtic Isles[/region]
 &#134; [nation=short]Anglo Celtic Isles[/nation]
 
@@ -18,4 +19,22 @@ Imperial Quarters:
 
 &#134; [region]European Oceania[/region]
 &#134; [nation=short]European Oceania[/nation]
-[hr][i]Embassies Forbidden[/i][/b]
+[hr]
+
+CRUSADE:
+Y [region]Palestine[/region]
+&#134; [nation=short]Iron Europe Force 12[/nation]
+
+Country: 
+Y [region]Eretz Israel[/region]
+&#134; [nation=short]Iron Europe Force 4[/nation]
+
+City:
+&#134; [region]Nazareth[/region]
+&#134; [nation=short]Iron Europe Force 28[/nation][hr]
+
+City: 
+&#134; [region]Baghdad[/region]
+&#134; [nation=short]Iron Europe Force 1[/nation][hr]
+
+[i]Embassies Forbidden[/i][/b]
