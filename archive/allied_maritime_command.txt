@@ -36,4 +36,8 @@ NAVY:
 BASES:
 
 &#134; [region]Devonport[/region]
-&#134; [nation=short]Iron Europe Force 27[/nation][/b]
+&#134; [nation=short]Iron Europe Force 27[/nation]
+
+&#134; [region]Stadt Kiel[/region]
+&#134; [nation=short]Iron Europe Force 35[/nation]
+[/b]

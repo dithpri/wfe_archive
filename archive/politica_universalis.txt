@@ -1,6 +1,6 @@
 [color=blue]Welcome to Politica Universalis. We are a Roleplaying Region[/color]
 ____________________________________________________________________________________________________________________________________
-[color=green]Founder: Manchukuo-Japan[/color]
+[color=green]Founder:[nation]Manchukuo-Japan[/nation][/color]
 
 [color=green]WA Delegate:[/color]
 [color=green]Role-Play Minister:[/color]
@@ -10,3 +10,4 @@ ________________________________________________________________________________
 [color=green]Council Member:[/color]
 
 [color=green]War and Justice Minister:[/color]
+____________________________________________________________________________________________________________________________________

@@ -11,3 +11,8 @@
 [nation=short]Talidania[/nation]
 [nation=short]Albioney[/nation]
 [/b]
+
+[b][color=#000061]Huggled again by following riders:[/color]
+[nation=short]Shogun[/nation]
+[nation=short]Kemintiri of Kemet[/nation]
+[/b]
