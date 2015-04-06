@@ -24,6 +24,7 @@ Homeland Treasury - [color=#FF0000]Vacant[/color]
 - [nation=short]Nova Sacrum Britannia[/nation]
 - [nation=short]Calldonia[/nation]
 - [nation=short]Zucalia[/nation]
+- [nation=short]New Scythia[/nation]
 
 [color=#0000BF][u][b]Security Council[/b][/u][/color]
 
@@ -35,3 +36,4 @@ Homeland Treasury - [color=#FF0000]Vacant[/color]
 - [nation=short]Nova Sacrum Britannia[/nation]
 - [nation=short]Calldonia[/nation]
 - [nation=short]Zucalia[/nation]
+- [nation=short]New Scythia[/nation]

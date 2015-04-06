@@ -1,14 +1,11 @@
-[color=blue]New New Capitol is a region constructed after the collapse of New Capitol. Still referred to as &amp;quot;New Capitol&amp;quot; the region hosts nations of all types.[/color]
+[color=blue]The New Capitol has been reborn![/color]
 
-[color=green]Executive Council[/color]
-Executive President:
-Minister of Recruitment/Embassy:
+[color=green]Fellowship of Nations[/color]
+[nation]Envotaesha[/nation]
+[nation]Kanadrin[/nation]
+[nation]Auzric[/nation]
+[nation]Xetronuvia[/nation]
 
-Minister of Defence: Auzric have announced plans to run for this office.
-Minister of Imformation: Kanadrin have announced plans to run for this office.
+[url=Map]http://imgur.com/rZAbh9K[/url]
 
-[color=red]Elections will be held soon! Be sure to telegram the Founder for the positions you wish to run for.[/color]
-
-Voting will be handled with polls.
-
-News:
+[color=red]The Fellowship of Nations has been established![/color]

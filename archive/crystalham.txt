@@ -1,14 +1,23 @@
-[spoiler=Government]
+[b]Welcome to Crystalham![/b]
+
+[color=blue][b]: REGIONAL GOVERNMENT :[/b][/color]
+
 [B]President[/B] - [nation=short]Chichi Empire[/nation]
 [B]Vice President[/B] - TBD
-[B]Secretary of State[/B] - TBA
-[/spoiler]
-_________________________________________
+[B]Secretary of State[/B] -  [nation=short]NumberPi[/nation]
 
-[spoiler=[color=red]Announcement[/color]][B]Announcement of the day[/B]: [url=https://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=335999&amp;amp;sid=b7d45b8c62f4df3c41b50cbf2116c45b]RSVP[/url] for the Chichian gala by Saturday! Please check the list of nations that may not attend the gala on the CEIA homepage.[/spoiler]
-_________________________________________
+[hr]
 
-[spoiler=Defcon Level]
-[color=red]1[/color][color=orange]2[/color][color=yellow]3[/color][color=green]4[/color][color=blue]5[/color]
-Defcon: Blue
-[/spoiler]
+[color=red][b]: ANNOUNCEMENTS :[/b][/color] 
+
+[url=https://docs.google.com/forms/d/1FtYIcJBJzvKka5JDRI_oYsCcdi1h9l_W5oC3OmQ2KOk/viewform?usp=send_form]Vice-President Election Sheet[/url]
+[color=red]Day One 4/5/15 People announcing their run
+Day Two-Three 4/6/15-4/7/15 Speeches
+Day Four 4/8/15 Election day   [/color]          
+[url=https://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=335999&amp;amp;sid=b7d45b8c62f4df3c41b50cbf2116c45b]RSVP[/url] for the Chichian gala by Saturday! Please check the list of nations that may not attend the gala on the CEIA homepage.
+[hr]
+
+[color=purple][b]: REGIONAL SECURITY :[/b][/color]
+
+
+[spoiler=Threat Level][color=red]1[/color][color=orange]2[/color][color=yellow]3[/color][color=green]4[/color][[color=blue]5[/color]][/spoiler]

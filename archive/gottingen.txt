@@ -1,10 +1,16 @@
-[b][i][color=#CC0000]In His Majesty&amp;#39;s benevolence[/i][/color] [nation=short]The Emperor of Iron Europe[/nation] [i]has provided[/i] [url=https://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381224]Imperial Lands[/url] [i]for every European Nation in the Holy Empire of [/i][region]Iron Europe[/region]
-[i][color=#CC0000]By His Majesty&amp;#39;s Decree[/i][/color] [region]Iron Europe[/region] will commit to [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Crusade[/url] against political terrorists threatening the Church of Christ; and Protect [region]Eretz Israel[/region]
+[b]&#134; [nation=short]The Emperor of Iron Europe[/nation] in [region]Windsor Castle[/region] commands the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] of [region]Iron Europe[/region] to Crusade!
+[hr]
+Country:
+&#134; [region]Republic of Germany[/region]
+&#134; [nation=short]Republic of the Germans[/nation]
 
-VICEROY: [nation=short]Baltic Christians[/nation] 
-Contact for access to any [color=#CC0000]Imperial Country or State[/color]
+State:
+&#134; [region]Niedersachsen[/region]
+&#134; [nation=short]GEF Expeditionary Force 27[/nation]
 
-[color=#CC0000]Imperial Country:[/color] [region]Republic of Germany[/region]
-[color=#CC0000]Imperial State:[/color] [region]Niedersachsen[/region]
-[color=#CC0000]Imperial City:[/color] [region]Gottingen[/region]
+City:
+&#134; [region]Gottingen[/region]
+&#134; [nation=short]GEF Expeditionary Force 88[/nation]
+
+
 [/b]
