@@ -10,6 +10,6 @@
 -Minister of Agriculture:
 -Minister of Foreign Affairs: [nation]Alloubama[/nation]
 -Minister of Media and Communications:
--Minister of Defense:
+-Minister of Defense: [nation]Unx[/nation]
 -Minister of Education and Culture: [nation]Mitslavia[/nation]
 -Minister of Labour:

@@ -3,7 +3,7 @@
 
 [color=red][b][i]Imperial Positions[/b][/i][/color]
 [color=gold][b]Emperor:[/b] Andrew Lake[/color] of [nation=Drewlantis]
-[color=purple][b]Executor:[/b] Tia[/color] of [nation=Tiaradom]
+[color=purple][b]Executor:[/b][/color] [nation=Tiaradom]
 [color=blue][b]Consul:[/b][/color] [nation=Smaller government]
 [color=darkgreen][b]Judicator:[/b][/color] [nation=Vicienna]
 

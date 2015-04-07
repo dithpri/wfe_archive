@@ -1,15 +1,13 @@
-[b]&#134; [nation=short]The Emperor of Iron Europe[/nation] in [region]Windsor Castle[/region] commands the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] of [region]Iron Europe[/region] to Crusade!
-[hr]
+[b]&#134; [nation=short]The Emperor of Iron Europe[/nation] commands the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] to Crusade!
+[hr][url=https://www.youtube.com/watch?v=b11-37Me_a4]Anthem[/url]
 
-Country:
-&#134; [region]Federal States of America[/region]
-&#134; [nation=short]Federal States of America President[/nation]
+Welcome to the Christian [region]Federal States of America[/region].
 
 States:
-&#134; [region]The Republic of Texas[/region]
-&#134; [nation=short]The Republic of Texas President[/nation]
+[region]The Republic of Texas[/region]
 
 Cities:
-&#134; [region]Tampa[/region]
-&#134; [nation=short]Iron Europe Force 33[/nation]
+[region]Tampa[/region]
+[region]Bridgeport[/region]
+[region]Redmond Washington[/region]
 [/b]

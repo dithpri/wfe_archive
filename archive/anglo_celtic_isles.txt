@@ -1,4 +1,4 @@
-[b]&#134; [nation=short]The Emperor of Iron Europe[/nation] in [region]Windsor Castle[/region] commands the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] of [region]Iron Europe[/region] to Crusade!
+[b]&#134; [nation=short]The Emperor of Iron Europe[/nation] commands the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] to Crusade!
 [hr]
 
 Imperial Protectorate:
@@ -17,4 +17,7 @@ Countries:
 
 &#134; [region]Welsh Republic[/region]
 &#134; [nation=short]Welsh Republic President[/nation]
+
+&#134; [region]Kernow[/region]
+&#134; [nation=short]Kernow Nation[/nation]
 [/b]

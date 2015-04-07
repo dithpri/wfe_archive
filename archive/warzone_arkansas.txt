@@ -1,12 +1,11 @@
-[b][color=darkred]After the fog of war clears, [region]The United World of Battlefronts[/region] stands tall.[/color]
+[b][color=#000061]Huzzah! Huzzah! Huzzah! This region proved no match for a charge by [region=The Black Riders]![/color]
 
-[color=black]These troops have lead us to victory:
-[/color]
-[nation=short]Orthinstone[/nation]
-[nation=short]Pavor[/nation]
-[nation=short]Maurlas[/nation]
+[color=black]Occupied by [url=https://www.youtube.com/watch?v=4-hG-ACbuFY]The Black Riders[/url]! Our lair can be found [/color] [url=http://s4.zetaboards.com/The_Black_Riders/index/]here[/url]
+
+[color=#000061]Into the battle rode the following riders:[/color]
+[nation=short]WraithFIN[/nation]
+[nation=short]Bob Moran[/nation]
+[nation=short]Victor Savage[/nation]
+[nation=short]Talidania[/nation]
+[nation=short]Kemintiri of Kemet[/nation]
 [/b]
-
- [color=#0099FF]We would like to acknowledge the presence of The South Pacific[/color]
-
-[color=violet]We would also like to acknowledge the presence of Warzone Europe[/color]

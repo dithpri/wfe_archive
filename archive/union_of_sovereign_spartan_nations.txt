@@ -1,0 +1,17 @@
+[Accessing The Union of Sovereign Spartan Nations Database]
+[[color=red]AUTHORIZED PERSONNEL ONLY[/color]]
+
+[Enter Password: *******]
+[[color=green]Access Granted[/color]]
+
+[Loading basic information...]
+[Welcome to The Union of Sovereign Spartan Nations! We are a union of nations with different ideologies, united to protect one another and advance our interests. Named after the fabled Spartan warriors, we strive to live and operate in the image of a modern Sparta: an image of strength, courage and unwavering resolve.]
+[Motto: &amp;quot;[i]Molon Labe[/i]: Come and Take It&amp;quot;]
+[Population: 248 million citizens]
+
+[Loading leadership...]
+[Chairman: [nation]Assassin the II[/nation]]
+
+[Loading Operations Playbook...]
+[[color=red]THREAT DETECTED: UNAUTHORIZED ACCESS ATTEMPTED[/color]]
+[[color=red]ACCESS DENIED[/color]]

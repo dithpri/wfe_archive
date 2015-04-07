@@ -1,4 +1,7 @@
-Enslaved Territory of [region]Pax Imperium[/region] .
+[B]Enslaved Territory of [color=blue][region]Pax Imperium[/region] [/color].
 Our military headquarters: [region]Elite Region of Global Command[/region]
+Qaiser-e-Bordurie: His Royal Highness Emperor Phillipe Aristotle
 
-Religion banned: Islam
+Religion banned: [color=red]Islam[/color][/B]
+
+We are allied to [region]Iron Europe[/region] in our quest to free NS of Radical Islam.

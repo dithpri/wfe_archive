@@ -3,8 +3,8 @@
 [hr]
 
 
-[u][B][url=http://www.nationstates.net/nation=everestopia/detail=factbook/id=371297][color=navy]Ninth Cabinet of the CFN[/color][/url][/B][/u] [list][b]Chancellor:[/b] 
-[nation=short]Everestopia[/nation] [b]([color=limegreen]F[/color])[/b]
+[u][B][url=http://www.nationstates.net/nation=everestopia/detail=factbook/id=371297][color=navy]Tenth Cabinet of the CFN[/color][/url][/B][/u] [list][b]Chancellor:[/b] 
+[nation=short]Everestopia[/nation] [b]([color=limegreen]F[/color])[/b] (New Chancellor to be elected)
 
 [b]Vice Chancellor:[/b] 
 [nation=short]Jaslandia[/nation] [b]([color=blue]D[/color])[/b]
@@ -13,10 +13,10 @@
 [nation=short]Liberated Democratic Republics[/nation] [b]([color=gold]L[/color])[/b]
 
 [b]Minister of Foreign Affairs:[/b] 
-[nation=short]Vista Major[/nation] [b]([color=#006CA8]R[/color])[/b]
+[nation=short]AOS[/nation] [b]([color=Black]TBA[/color])[/b]
 
 [b]Minister of Internal Affairs:[/b] 
-[nation=short]Sulania[/nation] [b]([color=#006CA8]R[/color])[/b]
+[nation=short]Markotovia[/nation] [b]([color=#006CA8]R[/color])[/b]
 
 [b]Minister of Justice:[/b] 
 [nation=short]Acro WA[/nation] [b]([color=#006CA8]R[/color])[/b][/list] 
