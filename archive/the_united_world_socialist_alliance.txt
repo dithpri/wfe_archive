@@ -2,15 +2,15 @@
 
 [color=green]Executive Branch:[/color]
 
-[color=blue]President:
+[color=blue]President: [nation]The United States of Soviet Britain[/nation]
 Vice-President:
 Secretary of Finance:
-Secretary of War:[/color]
+Secretary of War: [nation]National Socialist Rapture[/nation][/color]
 
 [color=green]Legislative Branch:[/color]
 
 [color=blue]Speaker of the Senate:
-Senator:
+Senator: [nation]Herakugan[/nation] 
 Senator:
 Senator:
 Senator:[/color]

@@ -1,25 +1,13 @@
-[b]&#134; [nation=short]The Emperor of Iron Europe[/nation] in [region]Windsor Castle[/region] commands the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] of [region]Iron Europe[/region] to Crusade!
+[b]&#134; [nation=short]The Emperor of Iron Europe[/nation] commands the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] to Crusade!
 [hr]
 
-Borders:&shy;
-&shy;[color=blue]N[/color] [region]Federal Republic of Scotland[/region]
-&shy;[color=blue]NW[/color] [region]Irish Republic[/region]
-&shy;&shy;[color=blue]W[/color] [region]Welsh Republic[/region]
-
-Capital:
-&#134; [region]Windsor Castle[/region]
-&#134; [nation=short]Iron Europe Force 7[/nation]
-&#134; [nation=short]The Emperor of Iron Europe[/nation]
-
-Country: 
-&#134; [region]Republic of England[/region]
-&#134; [nation=short]Republic of England President[/nation]
+[region]Republic of England[/region]
 
 Imperial Bank:
-&#134; [region]Bank of England[/region]
-&#134; [nation=short]Governor of the Bank of England[/nation]
+[region]Bank of England[/region]
 
 [url=https://www.nationstates.net/page=dispatch/id=394960]English Lands[/url]
 England is a Christian Country for the English Nation
-&amp;quot;[i]In His name the Nations will put their hope[/i]&amp;quot; Matthew 12:21 
+
+Embassies Forbidden and the WFE is getting a major overhaul
 [/b]

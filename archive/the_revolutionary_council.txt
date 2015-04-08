@@ -8,8 +8,9 @@
 
 [b]Prime Minister:[/b] [nation=short]Fenshamsland[/nation] (SJP)
 [b]Deputy Prime Minister:[/b] [nation=short]Rivenia[/nation] (SJP)
-[b]Secretary of Economy and Administration:[/b] [nation=short]The Levantx[/nation] (DRP)
-[b]Secretary of Law and Constitutional Affairs:[/b] [nation=short]Auxorii[/nation] (SJP)
+[b]Secretary of State:[/b] [nation=short]Auxorii[/nation] (SJP)
+[b]Secretary of Economy and Legal Affairs:[/b] [nation=short]The Levantx[/nation] (DRP)
+[b]Secretary of Administration:[/b] [nation=short]United Tool Federation[/nation] (Independent)
 [b]Secretary of Defense:[/b] [nation=short]Kernuskt[/nation] (DRP)
 
 [hr]

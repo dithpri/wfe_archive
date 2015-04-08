@@ -28,7 +28,7 @@
 
 [hr]
 
-[b]Reich Chancellor:[/b] [nation]Scansinia[/nation]
+[b]Reich Chancellor and F&uuml;hrer:[/b] [nation]Scansinia[/nation]
 
 [B]Kommander of the Reichswehr:[/B] [nation]Ranil[/nation]
 
