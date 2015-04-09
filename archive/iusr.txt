@@ -1,19 +1,19 @@
 [b]Alert Level:[/b] [color=orange]DEFSTAT 3[/color]
 
-[b]Latest News:[/b] Second round of IUSR SSR elections begins. 
+[b]Latest News:[/b] [nation=short]Hallorania[/nation] elected to Supreme Socialist Republic.
 [hr]
 
 [b]Supreme Socialist Republics[/b]
 
 [nation=short]Krasniya[/nation]
-[nation=short]Czervenika[/nation]
+[nation=short]Hallorania[/nation]
 [hr]
 
 [b]Socialist Republics[/b]
 
 [nation=short]Belakras[/nation]
+[nation=short]Czervenika[/nation]
 [nation=short]Chobenia[/nation]
-[nation=short]Hallorania[/nation]
 [nation=short]Navedia[/nation]
 [nation=short]Nihonam[/nation]
 [nation=short]Peihan[/nation]

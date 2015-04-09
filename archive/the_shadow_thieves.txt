@@ -1,11 +1,13 @@
 [i][B][color=blue]We are those who lurk in shadows to take regions for our own[/color][/B][/i]
 
-[B][region]The Shadow Thieves[/region] are a raiding region.[/B]
+[B][region]The Shadow Thieves[/region] is a raiding region.[/B]
 
-The Thieves are brand new, but will become bigger fast.
+The Thieves control an empire, the [b]Dominion of Shadows[/b].
 
-[u][nation]Captain Bogden[/nation] Grand Master. All nations under the Thieves&amp;#39; domain report to him.[/u]
+[u][nation]Captain Bogden[/nation] is the Grand Master. All nations in the Dominion of Shadows report to him.[/u]
 
-[B][u][color=red]Regions Captured; 1[/color][/u][/B]
+[B][u][color=red]Regions Captured; 2[/color][/u][/B]
 
 [B][u][color=red]Regions Tagged; 0[/color][/u][/B]
+
+[i][color=grey]We&amp;#39;re proud to boast control of the only WA-Liberated region in the world, [region]Democratia[/region]![/color][/i]

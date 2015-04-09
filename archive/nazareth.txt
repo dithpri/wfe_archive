@@ -1,16 +1,9 @@
-[b]&#134; [nation=short]The Emperor of Iron Europe[/nation] in [region]Windsor Castle[/region] commands the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] of [region]Iron Europe[/region] to Crusade!
-[hr]
-Imperial Protectorate:
-Y [region]Palestine[/region]
-&#134; [nation=short]Iron Europe Force 12[/nation]
+[b][nation=short]The Emperor of Iron Europe[/nation] commands the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] to Crusade!
+[hr][url=https://www.youtube.com/watch?v=b11-37Me_a4]Imperial Anthem[/url]
+[url=https://www.youtube.com/watch?v=7MG27BKwjaI]Citizenship Anthem[/url]
 
-Country: 
-Y [region]Eretz Israel[/region]
-&#134; [nation=short]Iron Europe Force 4[/nation]
+&#134; [region]Nazareth[/region], located in the Galilee region of [region]Eretz Israel[/region] in [region]Palestine[/region], is the cradle of Christianity. It is Crusader protected as the home of Jesus of Nazareth, and within the Holy Empire of [region]Iron Europe[/region]
 
-City:
-&#134; [region]Nazareth[/region]
-&#134; [nation=short]Iron Europe Force 28[/nation][hr]
+[i]&#147;It is not for your sake, people of Israel, that I am going to do these things, but for the sake of My Holy Name, which you have profaned among the Nations where you have gone. For I will take you out of the Nations; I will gather you from all the Countries and bring you back into your own land. Then you will live in the land I gave your ancestors; you will be My people, and I will be your God.&amp;quot;[/i]
 
-[i]&amp;quot;The nations will know that I am Adonai,&#146; says Adonai Elohim, &#145;when, before their eyes, I am set apart through you to be regarded as holy. For I will take you from among the nations, gather you from all the countries, and return you to your own soil.&amp;quot;[/i][/b]
-Ezekiel 36:23-24 Complete Jewish Bible (CJB)
+Ezekiel 36 excerpts[/b]

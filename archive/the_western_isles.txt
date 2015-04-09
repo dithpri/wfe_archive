@@ -10,7 +10,7 @@
 
 [b]Executive Branch[/b]
 President: [nation=short]Vancouvia[/nation]
-Vice President:
+Vice President: [nation=short]Agenn[/nation]
 Secretary of Defense:
 Secretary of the Interior:
 Secretary of the Exterior:

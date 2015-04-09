@@ -4,7 +4,7 @@
 [color=#0000BF][u][b]Atlantic Government[/b][/u][/color]
 
 Chairman - [nation=short]Delvosity[/nation]
-Deputy Chairman - [color=#FF0000]Vacant[/color]
+Deputy Chairman - [nation=short]Altis-Stratis[/nation]
 Foreign Affairs - [color=#FF0000]Vacant[/color]
 Homeland Affairs - [color=#FF0000]Vacant[/color]
 Defense Minister - [color=#FF0000]Vacant[/color]

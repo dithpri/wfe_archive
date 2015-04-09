@@ -1,8 +1,8 @@
-[b]Endorse Your Chancellor: [nation=short]Atacomia[/nation] (Conservative)[/b]
+[b]Endorse Your Chancellor: [nation=short]Atacomia[/nation][/b]
 
-[Spoiler=Regional Officers][b]Il Duce (Regional Founder): [nation=short]Abidawe[/nation] (Democrat)[/b]
-[b]President : [nation=short]Vichtander[/nation] (Liberty)[/b]
-[b]Vice President: [nation=short]Atacomia[/nation] (Conservative)[/b]
+[Spoiler=Regional Officers][b]Il Duce (Regional Founder): [nation=short]Abidawe[/nation][/b]
+[b]President : [nation=short]Vichtander[/nation][/b]
+[b]Vice President: [nation=short]Atacomia[/nation][/b]
 [b]Minister of State: [/b][ELECTIONS COMING]
 [b]Minister of Defense: [/b][ELECTIONS COMING]
 [b]Minister of Foreign Affairs: [/b][ELECTIONS COMING]
