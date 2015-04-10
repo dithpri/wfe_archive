@@ -13,6 +13,6 @@ An anti-revisionist Marxist-Leninist region, the vanguard of the NationStates wo
 [B]The Central Committee[/b]
 
 [B]General Secretary[/B] :: [nation=short]Novsvacro[/nation] 
-[B]Commissar of Theoretical Affairs[/B]: TBA
-[B]Commissar of Defense[/B]: Temporarily down
-[B]Commissar of Interregional Affiars[/B]: TBA
+[B]Deputy of Agitation[/B]: [nation=short]United Marxist Nations[/nation]
+[B]Deputy of Defense[/B]: Temporarily down
+[B]Deputy of Interregional Affairs[/B]: [nation=short]Kernan[/nation]

@@ -13,7 +13,7 @@
 [nation=short]Liberated Democratic Republics[/nation] [b]([color=gold]L[/color])[/b]
 
 [b]Minister of Foreign Affairs:[/b] 
-[nation=short]AOS[/nation] [b]([color=#111232]L[/color])[/b]
+[nation=short]AOS[/nation] [b]([color=#1C00A6]L[/color])[/b]
 
 [b]Minister of Internal Affairs:[/b] 
 [nation=short]Markotovia[/nation] [b]([color=#006CA8]R[/color])[/b]

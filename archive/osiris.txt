@@ -1,4 +1,4 @@
-[color=darkslateblue][b]Welcome to the Osiris Fraternal Order! [/b]Back to normal [i]for now[/i][/color]
+[color=darkslateblue][b]Welcome to the Osiris Fraternal Order! [/b][/color]
 
 [hr]
 
@@ -6,7 +6,7 @@
 
 [hr]
 
-[b][color=darkslateblue]WA nations are required to endorse the[/color] [color=#6b055e]Pharaoh:[/color][/b] [nation=short]Tim Stark[/nation][b] [color=darkslateblue]and the Vizier:[/b] [nation=short]Zaolat[/nation][/color]
+[b][color=darkslateblue]WA nations are required to endorse the[/color][color=#6b055e]Pharaoh:[/color][/b] [nation=short]Tim Stark[/nation][b] [color=darkslateblue]and the Vizier:[/b] [nation=short]Zaolat[/nation][/color]
 
 [b][color=darkslateblue]Please also endorse:[/color][/b]
 
@@ -20,7 +20,7 @@ Vizier Endorsement Limit: 95[/color][/b]
 
 [hr]
 
-[i][color=#962b32][b]Exceeding your designated endorsement limit may result in being sent down the Duat..[/b]
+[i][color=#962b32][b]Exceeding the endorsement limit may result in being sent down the Duat..[/b]
 
 No advertisements on the RMB. No exceptions. Violators are thrown to the cobras. Survivors are thrown to the crocodiles.
 
@@ -28,4 +28,4 @@ In-game embassies are granted only to regions with forum embassies or consulates
 
 [hr]
 
-[b][color=navy]Featured Region of the Week[/color]: [region]Lazarus[/region][/b]
+[b][color=navy]Curious what&amp;#39;s going on in Lazarus?[/color]: The [url=http://forum.nationstates.net/viewtopic.php?p=24152042#p24152042]Miniluv Messenger[/url] has you covered.[/b]
