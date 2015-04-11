@@ -5,3 +5,4 @@ Minister of Foreign Affairs: [nation]Beth Adam[/nation]
 Minister of Finance:  [nation]JetFuelCantMeltSteelBeams[/nation]
 Minister of Defense: [nation]New Riders of Rohan[/nation]
 Minister of Science and Education: [nation]The Rogue Sherpas[/nation]
+Minister of Justice: none

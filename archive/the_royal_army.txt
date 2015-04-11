@@ -2,6 +2,6 @@
 
 [b]King, Head Of State: [nation=West Atlantic Federation]
 Crown Prince, Minister of the Environment: [nation=New Cole]
-Minister of Defence: Spot not yet assigned, see me for details
+Minister of Defence: [nation=Wimpy]
 Minister of Economics: Spot not yet assigned, see me for details [/b]
 
