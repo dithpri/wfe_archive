@@ -11,9 +11,9 @@
 [b]Executive Branch[/b]
 President: [nation=short]Vancouvia[/nation]
 Vice President: [nation=short]Agenn[/nation]
-Secretary of Defense:
-Secretary of the Interior:
-Secretary of the Exterior:
+Sec. of Defense: [nation=short]Great-Imperialonia[/nation]
+Sec. of the Interior:
+Sec. of the Exterior:
 
 [b]Judicial Branch[/b]
 Justice: 
@@ -31,4 +31,4 @@ All laws proposed and voted on by all nations through direct popular vote
 
 
 [color=#05999c]~Ongoing Events~[/color]
-[url=http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=335322]Constitutional Convention[/url], Government Elections
+ Government Elections

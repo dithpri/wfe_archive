@@ -12,7 +12,7 @@
 [color=blue]Chairman:[/color] [nation=short]Shofercia[/nation]
 [color=blue]Commissar:[/color] [nation=short]Central Slavia[/nation]
 [color=blue]Commissar:[/color] Vacant
-[color=blue]Commissar:[/color] [nation=short]Sklavinia[/nation]
+[color=blue]Commissar:[/color] Vacant
 [color=blue]Commissar:[/color] [nation=short]Vandoosa[/nation]
 
 [hr]

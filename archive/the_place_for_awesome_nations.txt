@@ -1,11 +1,10 @@
 [i]Welcome to[/i]
 [color=red][b][i]The Place For Awesome Nations[/color][/b][/i]. [color=teal]This region was founded May 15, 2014.[/color]
 
-[b][u]ENDORSE [nation=short]statonville[/nation][/b][/u]
+[b][u]ENDORSE [/b][/u][nation=short]Jmisrael1[/nation]
 
 [b][i][u]The Cabinet[/b][/i][/u]
-[b]Delegate: [nation=short]statonville[/nation]
-Vice Delegate:[nation=short]jmisrael1[/nation]
+[b]Delegate: 
 Minister of Defense: [nation=short]Jmisrael1[/nation]
 Minister of Interior: [nation=short]Zangral[/nation]
 Minister of Foreign Affairs: 

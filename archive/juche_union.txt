@@ -4,7 +4,7 @@ Welcome to the [region]Juche Union[/region]!
 
 Regional Government
 WA Delegate: [nation=short]Socialist Republics of Russia[/nation]
-Vice WA Delegate: vacant
+Vice WA Delegate: [nation=short]Omensa[/nation]
 War Commissar: [nation=short]Communist Skyrim[/nation]
 General of the Red Army: [nation=short]Sween[/nation]
 
