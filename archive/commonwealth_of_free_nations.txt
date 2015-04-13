@@ -4,7 +4,7 @@
 
 
 [u][B][url=http://www.nationstates.net/nation=everestopia/detail=factbook/id=371297][color=navy]Tenth Cabinet of the CFN[/color][/url][/B][/u] [list][b]Chancellor:[/b] 
-[nation=short]Everestopia[/nation] [b]([color=limegreen]F[/color])[/b] (New Chancellor to be elected)
+[nation=short]Everestopia[/nation] [b]([color=limegreen]F[/color])[/b]
 
 [b]Vice Chancellor:[/b] 
 [nation=short]Jaslandia[/nation] [b]([color=blue]D[/color])[/b]
@@ -19,7 +19,7 @@
 [nation=short]Markotovia[/nation] [b]([color=#006CA8]R[/color])[/b]
 
 [b]Minister of Justice:[/b] 
-[nation=short]Acro WA[/nation] [b]([color=#006CA8]R[/color])[/b][/list] 
+[nation=short]Acro WA[/nation] [b]([color=#1C00A6]L[/color])[/b][/list] 
 [hr][b][u][color=navy]Chief Justice of the CFN[/color][/b][/u]
 
 [list][b]Chief Justice:[/b]

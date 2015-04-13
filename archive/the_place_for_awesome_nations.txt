@@ -4,8 +4,8 @@
 [b][u]ENDORSE [/b][/u][nation=short]Jmisrael1[/nation]
 
 [b][i][u]The Cabinet[/b][/i][/u]
-[b]Delegate: 
-Minister of Defense: [nation=short]Jmisrael1[/nation]
+[b]Delegate:[nation=short]Jmisrael1[/nation] 
+Minister of Defense: 
 Minister of Interior: [nation=short]Zangral[/nation]
 Minister of Foreign Affairs: 
 Minister of Recreation: [nation=short]statonville[/nation]

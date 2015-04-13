@@ -5,7 +5,7 @@
         &raquo; Regent: Prince Mathieu of [nation=short]Dragonyza[/nation][hr]
 [b][u]The Cabinet[/b][/u]
         &raquo; Minister of the Interior: Albrecht I of [nation=short]Hess-Castle[/nation]
-        &raquo; Minister of Foreign Affairs: Tru Dabney of [nation=short]The republic of Metropolitania[/nation]
+        &raquo; Minister of Foreign Affairs: King Tru of [nation=short]Metropolitania[/nation]
 
 [b][u]Parliament[/b][/u]
         &raquo; Prince Edward of [nation=short]Avorra[/nation]

@@ -9,7 +9,7 @@ Foreign Affairs - [color=#FF0000]Vacant[/color]
 Homeland Affairs - [color=#FF0000]Vacant[/color]
 Defense Minister - [color=#FF0000]Vacant[/color]
 Chief Justice - [nation=short]AlexanderVictor[/nation]
-Homeland Treasury - [color=#FF0000]Vacant[/color]
+Homeland Treasury - [nation=short]The Nee German Republic[/nation]
 
 [color=#0000BF][u][b]General Assembly[/b][/u][/color]
 

@@ -6,17 +6,17 @@
 
 [hr]
 
-[b][color=darkslateblue]WA nations are required to endorse the [/color][color=#6b055e]Pharaoh:[/color][/b] [nation=short]Tim Stark[/nation][b] [color=darkslateblue]and the Vizier:[/b] [nation=short]Zaolat[/nation][/color]
+[b][color=darkslateblue]WA nations are required to endorse the [/color][color=#6b055e]Pharaoh:[/color][/b] [nation=short]Tim Stark[/nation][b] [color=darkslateblue]and the Vizier:[/b] [nation=short]Ainocra[/nation][/color]
 
 [b][color=darkslateblue]Please also endorse:[/color][/b]
 
-[b][color=#7c6600]Guardians:[/color][/b] [nation=short]Ikand[/nation], [nation=short]Revert[/nation], [nation=short]Ainocra[/nation], and [nation=short]torshavn[/nation]
+[b][color=#7c6600]Guardians:[/color][/b] [nation=short]Ikand[/nation], [nation=short]Revert[/nation], [nation=short]Zaolat[/nation], and [nation=short]Torshavn[/nation]
 
 [hr]
 
-[b][color=darkslateblue]General Endorsement Limit: 25
-Guardian Endorsement Limit: 85
-Vizier Endorsement Limit: 95[/color][/b]
+[b][color=darkslateblue]General Endorsement Limit: 35
+Guardian Endorsement Limit: 95
+Vizier Endorsement Limit: 110[/color][/b]
 
 [hr]
 

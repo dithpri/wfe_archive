@@ -12,6 +12,6 @@ Lord Magistrate-General: [nation=short]European Council[/nation]
 [B]PRESIDIUM:[/B]
 Presidium of the Union Presidium: [nation=short]The Catalan Republic[/nation]
 
-
+[b]Sister regions: [region]Mediterranean[/region], [region]Mediterrania[/region][/b]
 
 [hr][b]DEFCON:[/b] 1 | [b]CURRENCY:[/b] [color=orange]Medi[/color] (Conceived by [nation=short]Cypriot Territories[/nation]) | [b][url=http://mediterraneanunion.forumotion.net/]Forums[/url][/b] | [b][url=http://nsdossier.texasregion.net/history.aspx?region=Mediterranean%20Union&amp;amp;type=Exact&amp;amp;group=region&amp;amp;start=&amp;amp;end=]NSHistory[/url][/b]

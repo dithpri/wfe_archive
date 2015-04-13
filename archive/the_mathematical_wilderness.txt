@@ -2,20 +2,18 @@ Central Government:
 Cabinet:
 
 President: [nation]Ygenovia[/nation]
-Prime Minister:
+Prime Minister:[nation]Inrius[/nation]
+Lord President of the Council:[nation]British Somalia[/nation]
+Lord Chancellor:
 
 
-Ministry of the Economy:
-Minister for the Civil Service:
-First Lord of the Treasury:
-Lord President of the Council:
+First Lord of the Treasury:[nation]Krakau[/nation]
 
 Ministers of Parliament:
-First Secretary of State:
+First Secretary of State:[nation]Mijobe[/nation]
 Leader of the House of Commons:
 Chancellor of the Exchequer:
 Secretary of State for Defence:
-Lord Chancellor:
 
 Secretariat for the administration of Civil Service:
 Secretary of State for Justice:
@@ -26,8 +24,6 @@ President of the Board of Trade:
 Judicial Branch:
 Attorney General:
 
-Lords of the Royalty:
-Leader of the House of Lords:
 Lord Privy Seal:
 
 Generals of the Wilderness Army:

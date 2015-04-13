@@ -6,10 +6,10 @@
 [color=purple]Head of State: [nation]Lagrangian[/nation][/color]
 
 [u]The Royal Council[/u][/b]
-[b][color=red]Head Council Member: [nation=short]The Confederation of Northern Germany[/nation][/color] [url=http://www.nationstates.net/nation=the_confederation_of_northern_germany/detail=factbook/id=364665][color=black](S)[/color][/url][/b]
+[b][color=red]Head Council Member: [nation=short]The Canadian Republic of North America[/nation][/color] [url=http://www.nationstates.net/nation=the_confederation_of_northern_germany/detail=factbook/id=364665][color=black](S)[/color][/url][/b]
 [b]Council Member: [nation=short]New Hirizionburg[/nation] [url=http://www.nationstates.net/page=dispatch/id=393993][color=blue](N)[/color][/url][/b]
-[b]Council Member: [nation=short]Paseo[/nation] [url=http://www.nationstates.net/nation=paseo/detail=factbook/id=356542][color=purple](D)[/color][/url][/b]
-[b]Council Member: TBE[/b]
+[b]Council Member: [nation]Paseo[/nation] [url=http://www.nationstates.net/nation=paseo/detail=factbook/id=356542][color=purple](D)[/color][/url][/b]
+[b]Council Member: [nation=short]The Confederation of Northern Germany[/nation][/b]
 
 [b][color=black]War &amp;amp; Justice Minister: [nation=short]Vetbar-Utrade[/nation][/color] [url=http://www.nationstates.net/nation=the_confederation_of_northern_germany/detail=factbook/id=364665][color=black](S)[/color][/url][/b]
 
