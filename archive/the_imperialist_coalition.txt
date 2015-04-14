@@ -2,13 +2,13 @@
 [i]Founded: January 4, 2015[/i]
 
 [b][u]Imperial Council[/b][/u]
-[B]Lord Imperator -- [nation=short]Licstinburg[/nation]
+[B]Lord Imperator -- [nation=short]Tobeck[/nation]
 Lord Sovereign-- [nation=short]The World Worker[/nation]
 Lord Chancellor of Internal Affairs -- [nation=short]Arstotzka Grand[/nation][/B]
 
 [u]Council Advisory Board[/u]
 [b]Erus Humanitas[/b] -- [nation=short]Greater Karthos Empire[/nation]
-[b]Nota Praesidio[/b] -- [nation=short]Elihow[/nation]
+[b]Nota Praesidio[/b] -- [nation=short]Empty[/nation]
 [b]Head Diplomat[/b] -- [nation=short]Ocaeania[/nation]
    
 [b]Important Links[/b]

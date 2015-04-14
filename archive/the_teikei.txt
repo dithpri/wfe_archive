@@ -17,6 +17,8 @@
 [nation]Hariko[/nation]
 -Representative: [nation]the Initohsine[/nation]
 
-[nation]Little Sealand[/nation] [b]&laquo;No representative present yet[/b]
+[nation]Little Sealand[/nation]
+-Representative: [nation]Litt Saerfit[/nation]
+
 [nation]Ilegaki[/nation] [b]&laquo;No representative present yet[/b]
 [hr]

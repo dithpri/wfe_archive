@@ -1,3 +1,10 @@
-[color=darkblue][b]This Region is now a protectorate of the [region]Federation of Humanity[/region]!
-All nations, move to the F.O.H.[/color][/b]
-[hr][b][color=lightblue][i]An agreement settled by [nation=short]Novare Sparta[/nation] and [nation=short]F0rm0sa[/nation][/i][/color][/b]
+[b][color=darkblue]Huzzah! Huzzah! Huzzah! This region has been liberated by [region=Federation of Humanity]![/color]
+
+[color=#000061]Into the battle rode the filthy puppets:[/color]
+[nation=short]Hired Contractor[/nation]
+[nation=short]Vandoosa[/nation]
+[nation=short]Talidania[/nation]
+[nation=short]Shogun[/nation]
+[/b]
+
+[i]Let this be a reminder that the Federation of Humanity will not tolerate what has occured in the region.[/i]

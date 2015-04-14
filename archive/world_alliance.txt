@@ -8,7 +8,6 @@
 
 [b]+ President[/b] : [nation=short]great eurussia[/nation]
 [b]+ Vice President[/b] : [nation=short]scouting[/nation] 
-[b]+ Acting Vice President[/b] : [nation=short]ebsotz[/nation]
 
 [b]+ Member for Asia[/b] : 
 [b]+ Member for Iberia[/b] : 
@@ -18,7 +17,7 @@
 [b]+ Member for Olympia[/b] : [nation=short]great empire of ireland[/nation]
 [b]+ Member for Anatolia[/b] : [nation=short]ebsotz[/nation]
 [b]+ Member for Erythraea[/b] : 
-[b]+ Member for Magnesia[/b] : [nation=short]muchos_estados_unidos[/nation], [nation=short]lockdownn[/nation]
+[b]+ Member for Magnesia[/b] : [nation=short]muchos_estados_unidos[/nation]
 [b]+ Member for Polynesia[/b] : [nation=short]scottlands[/nation]
 [b]+ Member for Phoenicia[/b] : [nation=short]new korrea[/nation], [nation=short]islamic states of islamic states[/nation]
 [b]+ Member for Micronesia[/b] : [nation=short]snarfia[/nation]
@@ -26,6 +25,6 @@
 
 [/i][hr]
 
-| [url=http://worldalliance.postalboard.com/t1-registration#10199]Forum ![/url] | [url=http://worldalliance.postalboard.com/f9-regional-archives]Laws ![/url] | [url=http://worldalliance.postalboard.com/t820p30-map-claims#28333] Map ![/url] | [url=http://www.broomdces.com/nseconomy/regions.php?region=world+alliance]Tracker ![/url] |  [url=http://worldalliance.postalboard.com/t295-world-alliance-national-news-network#8645]Local News ![/url] | [url=http://worldalliance.postalboard.com/t520-world-alliance-international-news-network#19224]Global News ![/url] | [url=http://worldalliance.postalboard.com/f13-world-assembly-affairs]World Assembly ![/url] |
+| [url=http://worldalliance.postalboard.com/t1-registration#10199]Forum ![/url] | [url=http://worldalliance.postalboard.com/f9-regional-archives]Laws ![/url] | [url=http://worldalliance.postalboard.com/t820p240-map-claims#29508] Map ![/url] | [url=http://www.broomdces.com/nseconomy/regions.php?region=world+alliance]Tracker ![/url] |  [url=http://worldalliance.postalboard.com/t295-world-alliance-national-news-network#8645]Local News ![/url] | [url=http://worldalliance.postalboard.com/t520-world-alliance-international-news-network#19224]Global News ![/url] | [url=http://worldalliance.postalboard.com/f13-world-assembly-affairs]World Assembly ![/url] |
 
 [hr]
