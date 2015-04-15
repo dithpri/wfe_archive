@@ -10,6 +10,6 @@
 
 [b]Chamberlain:[/b] [nation=short]Astarial[/nation]
 
-[b]Warden-Commanders:[/b] [nation=short]Kogvuron[/nation], [nation=short]Cormac Stark[/nation]
+[b]Warden-Commanders:[/b] [nation=short]Kogvuron[/nation]
 
-[b]Warden-Constables:[/b] VACANT
+[b]Warden-Constables:[/b] [nation=short]Ivo Stark[/nation]

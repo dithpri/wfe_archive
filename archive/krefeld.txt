@@ -1,18 +1,7 @@
-[b]&#134; [nation=short]The Emperor of Iron Europe[/nation] in [region]Windsor Castle[/region] commands the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] of [region]Iron Europe[/region] to Crusade!
+[b]&#134; [nation=short]The Emperor of Iron Europe[/nation] commands the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] to Crusade!
 [hr]
 
-Country: 
-&#134; [region]Republic of Germany[/region]
-&#134; [nation=short]Republic of the Germans[/nation]
+Protectorate of [region]Iron Europe[/region]
 
-State:
-&#134; [region]North Rhine Westphalia[/region]
-&#134; [nation=short]GEF Expeditionary Force 29[/nation]
-
-City:
-&#134; [region]Krefeld[/region]
-&#134; [nation=short]GEF Expeditionary Force 12[/nation]
-
-
-
+Germans relocated to [region]Deutsches Kaiserreich[/region]
 [/b]

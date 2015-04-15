@@ -9,10 +9,10 @@
 [color=#05999c]~The Western Isles Government~[/color]
 
 [b]Executive Branch[/b]
-President: [nation=short]Vancouvia[/nation]
+President:     [nation=short]Vancouvia[/nation]
 Vice President: [nation=short]Agenn[/nation]
 Sec. of Defense: [nation=short]Great-Imperialonia[/nation]
-Sec. of the Interior:
+Sec. of the Interior:  [nation=short]Polar Svalbard[/nation] [url=http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=337931]~[/url]
 Sec. of the Exterior:
 
 [b]Judicial Branch[/b]

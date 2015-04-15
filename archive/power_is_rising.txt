@@ -20,17 +20,19 @@
 [B]empty[/b]
 
 [Color=blue]Overseer of Foreign Affairs[/color]
-[B]empty[/b]
+[nation]the consulting union[/nation]
 
 [Color=red]Regional Map Maker[/color]
-[B]empty[/b]
+[nation]tannarabian silver[/nation]
 
 [Color=blue]Overseer of internal Affairs[/color]
 [B]empty[/b]
 
-[Color=red]Regional Commander of the Military[/color]
-[B]empty
+[color=red]Regional Commander of The Military[/color]
+[b]empty[/b]
 
------------------------------------------------------
-NEWS[/B] [color=purple]We are looking to fill positions! TG [nation]swag boys[/nation] for Spots in the regional government.[/color]
+
+[b]NEWS[/b] [color=purple] We are looking to fill positions,TG [nation]swag boys[/nation] for placement!![/color]  
+
+
 
