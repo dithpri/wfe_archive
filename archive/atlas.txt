@@ -4,6 +4,6 @@ Welcome to the Atlas Region. Here, we accept all nations, regardless of politica
 Founder: [nation=short]Bratislav[/nation]
 Executive President: [nation=short]The High Lords[/nation]
 Minister of Defense: [nation=short]Valaran[/nation]
-Minister of Recruitment: [nation=short]Globus[/nation]
+Minister of Recruitment: [b][color=red]Vacant[/color][/b]
 Minister of Information: [nation=short]New Carloso[/nation]
 

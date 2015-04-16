@@ -1,0 +1,24 @@
+Government:
+-President: Cumoran
+-Vice President: Samatiaville
+-Defense Secretary: Teotancan
+-External Affairs Secretary: South Borean
+-Law and Order Secretary: Bentaria
+
+ALERT:
+Requirement: Civil Rights AND Political Freedoms must be above 35 to live in this region! You will be ejected until you bring those numbers up, then you can come back.
+
+CITIZENS:
+Bentaria
+Teotancan
+Cumoran
+Nicatia
+Samatiaville
+South Borean
+
+LIMITED-RIGHTS IMMIGRANTS:
+North Borean
+Valleyville
+
+LAWS:
+All laws must be followed from this point forward. We will add more laws. They are available in the dispatch.

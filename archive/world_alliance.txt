@@ -11,11 +11,9 @@
 
 [b]+ Member for Asia[/b] : 
 [b]+ Member for Iberia[/b] : 
-[b]+ Member for Arcadia[/b] : [nation=short]new_rhodinia[/nation], [nation=short]apepistan[/nation]
-[b]+ Member for Atlantis[/b] : [nation=short]chackle[/nation]
+[b]+ Member for Arcadia[/b] : [nation=short]new_rhodinia[/nation]
 [b]+ Member for Oceania[/b] : 
 [b]+ Member for Olympia[/b] : [nation=short]great empire of ireland[/nation]
-[b]+ Member for Anatolia[/b] : [nation=short]ebsotz[/nation]
 [b]+ Member for Erythraea[/b] : 
 [b]+ Member for Magnesia[/b] : [nation=short]muchos_estados_unidos[/nation]
 [b]+ Member for Polynesia[/b] : [nation=short]scottlands[/nation]
