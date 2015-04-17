@@ -1,6 +1,6 @@
 [b]DEFCON:[/b] [color=blue]Level Four[/color]
 
-[b]Latest News:[/b] Non-Aggression Pact signed between [region]Codeco[/region] and [region]OMEC[/region].[hr]
+[b]Latest News:[/b] No news to report.[hr]
 
 [b]Member Nations[/b]
 
@@ -12,14 +12,12 @@
 [nation=short]Eitusian[/nation]
 [nation=short]Estinia[/nation]
 [nation=short]Great Slatain[/nation]
-[nation=short]Maronia[/nation]
 [nation=short]Mormopia[/nation]
 [nation=short]Nihon Kyowakoku[/nation]
 [nation=short]Quamunsia[/nation]
 [nation=short]Shokran[/nation]
 [nation=short]Slakia[/nation]
 [nation=short]Vassau[/nation]
-[nation=short]Vidisha[/nation]
 [nation=short]Yuzan[/nation]
 [hr]
 

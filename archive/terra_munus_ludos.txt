@@ -15,5 +15,5 @@ Regional Staff Positions:
 Founder: [nation=short]Orange-Habsburg[/nation]
 WA-Delegate: OPEN
 Administrator: 2x OPEN
-Coordinator: [nation=short]New Hellenia[/nation]; 3x OPEN
+Coordinator: [nation=short]New Hellenia[/nation]; [nation=short]Tronderlag[/nation]; 2x OPEN
 Carthographer: [nation=short]Belapole[/nation]

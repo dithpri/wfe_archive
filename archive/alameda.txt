@@ -17,4 +17,4 @@ Government
 President: [nation]Alameda High School[/nation]
 Vice President: [nation]West Alameda[/nation]
 Congress: [nation]East Alameda[/nation], [nation]North Alameda[/nation], [nation]Otherside[/nation]
-Supreme Court: [nation]St Valentines[/nation], [nation]Woodevalladellus1[/nation], [nation]Nevfornia[/nation]
+Supreme Court: [nation]St Valentines[/nation], [nation]Woodevalladellus1[/nation], [nation]Nevfornia[/nation], [nation]Earhart[/nation]
