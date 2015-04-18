@@ -5,7 +5,7 @@ Delegate: [nation=short]Gradea[/nation]
 Minister of Home Affairs: [nation=short]Malvacka[/nation]
 Minister of Foreign Affairs: [nation=short]United East Germany[/nation]
 Minister of War: [nation=short]Die Wache Reich[/nation]
-Minister of Culture: 
+Minister of Culture: [nation=short]Optiplex 790[/nation]
 
 [b]Topic of the day: Should we have offsite forums?[/b].
 
@@ -13,6 +13,8 @@ Minister of Culture:
 [color=blue][b]ENDORSEMENT CAP: 2[/b][/color] 
 
 [i]Regions must have a minimum of ten nations for us to construct embassies with them.[/i]
+
+ [url=http://the-flame.boards.net/]Offsite forums[/url] (Trial only, still under construction)
 
  [url=https://www.nationstates.net/page=dispatch/id=401843]CONSTITUTION[/url] 
  [url=https://www.nationstates.net/page=dispatch/id=403728]LAWS[/url] 

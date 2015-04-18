@@ -4,18 +4,18 @@ Est. 12th of April 2015
 [color=blue][u]World Government[/color][/u]
 
 Chairman - [nation=short]The Great Free States[/nation]
-Deputy Chairman -
-Foreign Affairs - Vacant
+Deputy Chairman - [nation=short]The Nee German Republic[/nation]
+Foreign Affairs - [nation=short]The 2nd French Empire[/nation]
 Homeland Affairs - 
 Defense Minister - Vacant
 Chief Justice -
-Homeland Treasury Minister- [nation]The Nee German Republic[/nation]
+Homeland Treasury Minister- 
 
-General Assembly
+[color=blue][u]General Assembly[/color][/u]
 
 - [nation=short]The Great Free States[/nation]
 
-Security Council
+[color=blue][u]Security Council[/color][/u]
 
 - [nation=short]The Great Free States[/nation]
 

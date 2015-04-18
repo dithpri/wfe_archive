@@ -16,7 +16,7 @@ Minister of Foreign Affairs:[nation=short]Ragno[/nation]
 Minister of Culture: [nation=short]Risara[/nation]
 [hr]
 [b]The High Court[/b]
-Chief Justice: TBA
+Chief Justice: [nation=short]New Saxumus[/nation]
 Justice: TBA
 Justice: TBA
 [hr]
