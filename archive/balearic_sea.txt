@@ -1,5 +1,6 @@
-[b]&#134; [nation=short]The Emperor of Iron Europe[/nation] in [region]Windsor Castle[/region] commands the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] of [region]Iron Europe[/region] to Crusade!
+[b][nation=short]The Emperor of Iron Europe[/nation] commands the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] to Crusade!
 [hr]
 
-&#134; [region]Balearic Sea[/region] 
-&#134; [nation=short]HMS Valencia[/nation][/b]
+The Imperial Fleet of The Holy Empire of [region]Iron Europe[/region] is stationed at [color=blue]Naval Base[/color] [region]Portsmouth England[/region]
+[nation=short]HMS Valencia[/nation] patrols the [region]Balearic Sea[/region] 
+[/b]

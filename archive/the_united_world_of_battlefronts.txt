@@ -8,23 +8,25 @@
 
 [url=http://www.nationstates.net/nation=coretettor/detail=factbook/id=399483][color=red] Recruitment Template[/color][/url]
 
-[color=blue]Region count goal: 39/50[/color]
+[color=blue]Region count goal: 38/50[/color]
 
 [color=red][url=https://docs.google.com/forms/d/18r5mSMORfKUWHLXaijFQdFDOz3jFvW3UErQYprtDQ28/viewform?usp=send_form]Mentor Application Form[/url][/color]
 
 [hr]
+[color=blue]Head Mentor - [/color][nation=short]Lycanberg[/nation]
 
 [color=brown]Minister of Foreign Affairs - [/color][nation=short]Solar Coalition[/nation] ([color=grey]I[/color])
 
-[color=purple]Minister of Justice - [/color][nation=short]The National Covenant[/nation] ([color=green]C[/color])
+[color=purple]Minister of Justice - [/color][nation=short]The National Covenant[/nation] ([color=green]C[/color])[color=blue](Mentor)[/color]
 
 UWB Regional Council:
-[color=red]Head Council Member[/color] - [nation=short]Olbearia[/nation] ([color=green]C[/color])
-[color=blue]Council Members:[/color]
+[color=red]Head Council Member[/color] - [nation=short]Olbearia[/nation] ([color=green]C[/color])[color=blue](Mentor)[/color]
+
+[color=darkblue]Council Members:[/color]
 [nation=short]Archiedonas[/nation] ([color=green]C[/color])
 [nation=short]Brigli[/nation] ([color=green]C[/color])
 [nation=short]Mannington[/nation] ([color=darkblue]O[/color])
-[nation=short]Prauss[/nation] ([color=darkblue]O[/color])[/b]
+[nation=short]Prauss[/nation] ([color=darkblue]O[/color])[color=blue](Mentor)[/color][/b]
 [hr]
 
 [b][color=red]Endorsement Cap = 3[/color][/b]
@@ -33,4 +35,4 @@ UWB Regional Council:
 [hr]
 [b][color=red]Daily Tune: [/color][url=https://www.youtube.com/watch?v=MrLnOfYFVvQ][color=gray]Reptilia - The Strokes[/color][/url][/b]
 [hr]
-[b]Announcements:[/b]
+[b][color=blue]Current Mentors:[/color][color=green]  [nation=short]Lycanberg[/nation], [nation=short]The National Covenant[/nation], [nation=short]Tolvaria[/nation],  [nation=short]Olbearia[/nation], and [nation=short]Prauss[/nation][/color][/b]

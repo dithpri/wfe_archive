@@ -1,12 +1,20 @@
 Slogan: [b]Unification, An Inspiration To The World[/b]
 Anthem: [b]A United Region, Forever![/b]
 Headquarter: [b][nation]Rosidalsia[/nation][/b]
+Royal City: [b]Sintasinasia City, [nation]Sintasinasia[/nation][/b]
 Working Language: [b]English[/b]
 Leader:
 - Founder &amp;amp; Secretary-General: [b][nation]Rosidalsia[/nation][/b]
 Establishment: 
 - Association: [b]22 March 2015[/b]
 - Political: [b]3 April 2023[/b]
+Veto Power Nations:
+[b][nation]Rosidalsia[/nation][/b]
+[b][nation]Frosika[/nation][/b]
+[b][nation]Reshtania[/nation][/b]
+[b][nation]Grusinasia[/nation][/b]
+[b][nation]Kitametam Island[/nation][/b]
+[b][nation]Sintasinasia[/nation][/b]
 
 [hr]
 
