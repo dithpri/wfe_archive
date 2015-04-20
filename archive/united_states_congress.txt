@@ -7,6 +7,6 @@ Majority: [color=red]Republican[/color] (54)
 Minority: [color=blue]Democratic[/color] (44) + Independent (2)
 
 House: Majority @ 218
-Majority: [color=red]Republican[/color] (245)
+Majority: [color=red]Republican[/color] (244)
 Minority: [color=blue]Democratic[/color] (188)
-Vacancies: 2 (New York 11th, Mississippi 1st)[/b]
+Vacancies: 3 (Illinois 18th, New York 11th, Mississippi 1st)[/b]

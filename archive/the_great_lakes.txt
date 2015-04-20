@@ -1,6 +1,6 @@
 [color=blue]Welcome to The Great Lakes![/color]
 
-Founded by [nation]Terrad[/nation], we are a small region of friendly nations.
+Founded by [nation]Terrad[/nation], we are a small region of friendly nations. Also, democracy!
 
 [color=red]NEWS:[/color]
 
@@ -8,8 +8,8 @@ No news.
 
 [color=green]PASSWORD STATUS[/color]
 
-Password protection enabled.
+Password protection [color=green]disabled[/color].
 
 [color=orange]Non-important notice:[/color]
 
-[nation]Terrad[/nation] is creating [url=http://www.nationstates.net/page=dispatches/category=5/nation=terrad]War dispatches[/url] that are sometimes but not always funny! If you want, you can read them. It will pass the time.
+There is no non imporant notice.

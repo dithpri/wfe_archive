@@ -7,9 +7,9 @@ Imperial Grand Master: [nation=short]Miaore[/nation]
 
 High Chancellor: [nation=short]Fugienia[/nation] 
 
-Lesser Emperor: [nation=short]Namestate[/nation]
+High Senator: [nation=short]Namestate[/nation]
  
-Chief Lieutenant: [nation=short]Tacktherivilla[/nation] 
+High Counselor: [nation=short]Tacktherivilla[/nation] 
 ________________________________________________
 
 Current objectives:
