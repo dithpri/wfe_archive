@@ -3,7 +3,7 @@
 [b][u]The Cabinet:[/u][/b]
 Delegate: [nation=short]Gradea[/nation]
 Minister of Home Affairs: [nation=short]Malvacka[/nation]
-Minister of Foreign Affairs: [nation=short]United East Germany[/nation]
+Minister of Foreign Affairs: 
 Minister of War: [nation=short]Die Wache Reich[/nation]
 Minister of Culture: [nation=short]Optiplex 790[/nation]
 

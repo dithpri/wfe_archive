@@ -7,11 +7,11 @@
 [hr]
 ---OFFICE HOLDERS---
 [hr]
-[nation]The Binary Evil Dictatorship[/nation]=[color=blue]secretary of communications[/color]
-[nation]Trade Federations[/nation] =[color=red] General Of Imperial Armed Forces [/color]
+[Vacant]=[color=blue]secretary of communications[/color]
+[Vacant] =[color=red] General Of Imperial Armed Forces [/color]
 [vacant] = [color=purple]minister of diplomatic affairs[/color]
 [Vacant]= [color=yellow]new-commer&amp;#39;s aid and guide[/color]
 [nation]The United Dark Republic[/nation] =keeper of the peace
-[nation]Shotguns are us[/nation]=[color=green]Immigration office Administrator[/color]
+[Vacant]=[color=green]Immigration office Administrator[/color]
 [nation]The Brotherhood of Kyro[/nation]=[color=purple]Roleplay[/color] [color=red]Coordinator[/color]
 --if a nation does not hold the approval of the public they may be impeached through a ballot--

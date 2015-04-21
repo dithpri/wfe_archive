@@ -1,9 +1,19 @@
-[b][color=#000061]Huzzah! Huzzah! Huzzah! This region proved no match for a charge by [region=The Black Riders]![/color]
+    
+[i][color=white]Westeros is one of the four known continents in the known world, the others being Essos, Sothoryos, and Ulthos. Most of the area of Westeros is covered by a political entity known as the Seven Kingdoms, while the far north beyond the Wall includes the free folk. The closest foreign nations to Westeros are the Free Cities, a collection of independent city-states across the narrow sea in western Essos. To the south of Westeros lie the Summer Islands.[/i][/color]
 
-[color=black]Occupied by [url=https://www.youtube.com/watch?v=4-hG-ACbuFY]The Black Riders[/url]! Our lair can be found [/color] [url=http://s4.zetaboards.com/The_Black_Riders/index/]here[/url]
 
-[color=#000061]Into the battle rode the following riders:[/color]
-[nation=short]Hired Contractor[/nation]
-[nation=short]Talidania[/nation]
-[nation=short]In Gentem Et De Libris Scientiam[/nation]
-[/b]
+[color=darkred][u]Hand of the King and Lord of Casterly Rock:[/u] [nation=short]Ser Tywin Lannister[/nation][/color]
+
+[u][color=grey]Lord of Winterfell:[/u][/color] Vacant
+
+[u][color=orange]Lord of Sunspear:[/u][/color] Vacant
+
+[u][color=green]Lord of Highgarden:[/u][/color] Vacant
+
+[u][color=lightblue]Lord of the Vale:[/u][/color] Vacant
+
+[u][color=yellow]Lord of Storm&amp;#39;s End:[/u][/color] Vacant
+
+[u][color=darkred]Lord of[/color][color=orange] Dragonstone:[/u][/color] [nation=short]Lord Stannis Baratheon[/nation]
+
+[color=blue][u]Lord of Riverrun:[/u][/color] Vacant
