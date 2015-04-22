@@ -6,7 +6,7 @@ Hello and welcome to Estercrest!
 [u]Lord-Chancellor[/u]: [nation]Westerlyn[/nation]
 
 [B]Cabinet[/B]
-[u]Chancellor[/u]:
+[u]Chancellor[/u]: [nation]Nicholascagia[/nation]
 [u]Deputy Chancellor[/u]:
 [u]Minister for Defence[/u]:
 [u]Minister for Foreign Affairs[/u]:
@@ -16,6 +16,6 @@ Hello and welcome to Estercrest!
 [i]If you wish to apply for one of the above positions, please inquire with the [url=http://www.nationstates.net/nation=westerlyn]Lord-Chancellor[/url].[/i]
 
 [color=blue][B]Map[/B][/color]
-[url=http://i.imgur.com/fif855M.png]Region of Estercrest[/url]
+[url=http://i.imgur.com/a9ALC0K.png]Region of Estercrest[/url]
 
 [i]If you wish to stake a claim on the map, please consult the [url=http://www.nationstates.net/nation=westerlyn]Lord-Chancellor[/url].[/i]

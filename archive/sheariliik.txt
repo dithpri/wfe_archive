@@ -1,8 +1,11 @@
 [B]NATION[/b]
 [nation=sheariliik]
 
-[B]LEVEL 0 COLONIES[/b]
-[nation=sheariliik-Brasilistan]
+[B]HIGH LEVEL COLONIES[/b]
+[nation=sheariliik-Malloc]
+
+[B]LOW LEVEL COLONIES[/b]
 [nation=sheariliik-Marche Noir]
+[nation=sheariliik-Brasilistan]
 
 [i]Founded: 04-16-15[/i]

@@ -7,7 +7,7 @@
 [b]Delegate: 
 Minister of Defense: [nation=short]chadsburg[/nation]
 Minister of Interior: [nation=short]Zangral[/nation]
-Minister of Foreign Affairs: 
+Minister of Foreign Affairs: [nation=short]strategy is key[/nation]
 Minister of Recreation: 
 [/b]
 

@@ -12,18 +12,18 @@
 President:     [nation=short]Vancouvia[/nation]
 Vice President: [nation=short]Agenn[/nation]
 Sec. of Defense: [nation=short]Great-Imperialonia[/nation]
-Sec. of the Interior:  [nation=short]Polar Svalbard[/nation] [url=http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=337931]~[/url]
+Sec. of the Interior:  [nation=short]Polar Svalbard[/nation] [url=http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=337931]+[/url]
 Sec. of the Exterior:  [nation=short]New Dragleic[/nation]
 
-[b]Judicial Branch[/b]
-Justice: 
-Justice:
-Justice:
-Justice:
-Justice:
+[b]Judicial Branch[/b] [url=http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=338672]+[/url]
+Justice: [nation=short]Linaviar[/nation]
+Justice: [nation=short]Bhumidol[/nation]
+Justice: [nation=short]Dansawae[/nation]
+Justice: [nation=short]Dezaloth[/nation]
+Justice: [nation=short]Dibeg[/nation]
 
 [b]Legislative Branch[/b]
-All laws proposed and voted on by all nations through direct popular vote
+All nations may propose laws
 [hr]
 
 [color=#05999c]~Quick Links~[/color]
@@ -31,4 +31,4 @@ All laws proposed and voted on by all nations through direct popular vote
 
 
 [color=#05999c]~Ongoing Events~[/color]
-[url=http://www.nationstates.net/page=dispatch/id=401675]News[/url], Government Elections, [url=http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=338274]Conference[/url]
+ Governmental Elections, [url=http://www.nationstates.net/page=dispatch/id=401675]News[/url], [url=http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=338274]Conference[/url]

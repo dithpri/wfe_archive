@@ -1,5 +1,6 @@
 Allied States of Ignis
 
+It is compulsory to endorse [nation]New Noua[/nation]
 -------
 
 LEADERS:
@@ -8,4 +9,4 @@ LEADERS:
 
 [nation]New Noua[/nation] = [color=red]Founder[/color], [color=orange]WA Delegate[/color]
 
-[nation]Comoro[/nation] = [color=red]Founder[/color], [color=blue]Regional Economic Architect[/color], [color=blue]Regional Military Commander[/color]
+[nation]Comoro[/nation] = [color=red]Founder[/color], [color=blue]Regional Economic Architect[/color], [blue]Regional Military Commander[/color]

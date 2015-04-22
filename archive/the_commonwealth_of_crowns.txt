@@ -17,7 +17,7 @@ Minister of Culture: [nation=short]Risara[/nation]
 [hr]
 [b]The High Court[/b]
 Chief Justice: [nation=short]New Saxumus[/nation]
-Justice: TBA
+Justice: [nation=short]Vetega[/nation]
 Justice: TBA
 [hr]
 

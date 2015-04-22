@@ -1,8 +1,7 @@
-[b][color=#000061]Huzzah! Huzzah! Huzzah! This region proved no match for a charge by [region=The Black Riders]![/color]
+Huzzah! Huzzah! Huzzah! This region proved no match for a charge by [region]Fury Of The Storm[/region]!
 
-[color=black]Occupied by [url=http://www.youtube.com/watch?v=qB1kp9adYYE]The Black Riders[/url]! Our lair can be found [/color] [url=http://s4.zetaboards.com/The_Black_Riders/index/]here[/url]
+Occupied by [region]Fury Of The Storm[/region]
 
-[color=#000061]Into the battle rode the following riders:[/color]
-[nation=short]Corvus Corax[/nation]
-[nation=short]Getti[/nation]
-[/b]
+Into the battle rode the following Raiders:
+[nation]Kolaghan Storm[/nation]
+[nation]Fury Of The Storm Commander[/nation]
