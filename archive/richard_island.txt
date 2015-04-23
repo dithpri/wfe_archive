@@ -5,7 +5,7 @@
 [b]MINSTERS[/b]
 [b]Chairman:[/b][nation=lormotia]
 [b]Defence Minister: [/b] Undecided
-[b]Economic Minister:[/b] Temporary Witheld from [nation=lucar]
+[b]Economic Minister:[/b][nation=lucar]
 [b]Regional Ministers: [/b] Undecided
 [b]Recruitment Minister: [/b] [nation=seketan]
 [hr]

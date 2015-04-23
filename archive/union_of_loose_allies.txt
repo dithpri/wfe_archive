@@ -9,7 +9,7 @@ High Chancellor: [nation=short]Fugienia[/nation]
 
 High Senator: [nation=short]Namestate[/nation]
  
-High Counselor: [nation=short]Ye Old illuminati[/nation] 
+High Counselor: [nation=short]Terraglov[/nation] 
 ________________________________________________
 
 Current objectives:

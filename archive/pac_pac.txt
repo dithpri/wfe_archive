@@ -7,10 +7,10 @@
 
 [b][u][i][color=yellow] The Grand Council of Pac Pac[/b][/u][/i][/color]
 
-[color=blue] Chairperson of the People:[/color][nation]Atticusland[/nation] 
+[color=blue] Chairperson of the People (District I):[/color][nation]Atticusland[/nation] 
 
-[color=darkred]Chairperson of the Military:[nation]Bulmagon[/nation][/color] 
+[color=darkred]Chairperson of the Military (District II):[nation]Bulmagon[/nation][/color] 
 
-[color=488214]Chairperson of the Environment:[/color] [nation]MURDEROUS GOATS[/nation] 
+[color=488214]Chairperson of the Environment (District III):[/color] [nation]MURDEROUS GOATS[/nation] 
 
-[color=8b4513]Chairperson of Production:[/color] [nation]Scary Mike[/nation] 
+[color=8b4513]Chairperson of Production (District IV):[/color] [nation]Scary Mike[/nation] 

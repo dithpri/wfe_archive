@@ -5,10 +5,10 @@
 
 **[color=red][b]President:[/b][/color] [nation]The Kathisville overseas territories[/nation]
 **[color=blue][b]Second in Command:[/b][/color] [nation]Zapharus Inc[/nation]
-**[color=VeryDarkgreen]Minister of War:[/color] [nation]Black Blade Union[/nation]
-*[color=VeryDarkgreen]Minister of Commerce:[/color] [nation]Tevun[/nation]
-*[color=VeryDarkgreen]Minister of Culture:[/color] [nation]Yugobertia[/nation]
-*[color=VeryDarkgreen]Minister of Religion:[/color] [nation]halagar[/nation]
+**[color=VeryDarkgreen]Minister of War:[/color] [nation]The Republic of Advanced Civilization[/nation]
+*[color=VeryDarkgreen]Minister of Commerce:[/color] Open
+*[color=VeryDarkgreen]Minister of Culture:[/color] Open
+*[color=VeryDarkgreen]Minister of Religion:[/color] Open
 *[color=VeryDarkgreen]Minister of Foreign Affairs:[/color] [nation]Detroit life[/nation]
 
 We have no Nuclear weapon capabilities. Chemical weapons are ok, and weapons and vehicles are ok if made before 1955, and no space travel
