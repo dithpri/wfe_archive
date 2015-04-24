@@ -6,7 +6,6 @@
 [nation=short]Gest[/nation]
 [nation=short]Wulfenite[/nation]
 [nation=short]Kknight[/nation]
-[nation=short]Bob Moran[/nation]
 [nation=short]Ridersyl[/nation]
 [nation=short]Vandoosa[/nation]
 [nation=short]Severania[/nation]

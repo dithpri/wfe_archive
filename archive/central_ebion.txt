@@ -9,5 +9,4 @@ ___________________________
 [color=red][b]Regional Government[/b][/color]
      
 [b]Founder:[/b] [nation]Trizt[/nation]
-[b]WA Delegate:[/b] [nation]Huntarius[/nation]
-[b]WA Delegate Elect:[/b] [nation]Gellusia[/nation]
+[b]WA Delegate:[/b] [nation]Gellusia[/nation]

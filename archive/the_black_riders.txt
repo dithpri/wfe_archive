@@ -5,10 +5,10 @@
 [hr]
 [i][color=black]The GENERAL STAFF[/color][/i]
 
-[color=#8B0000]Overlord: [nation=short]General Halcones[/nation][/color]
-[color=#8B0000]Chief: [nation=short]Kknight[/nation] [/color]
-[color=#8B0000]Marshal: [nation=short]Gest[/nation][/color]
-[color=#8B0000]Marshal: [nation=short]Bob Moran[/nation][/color]
+[color=#8B0000]Overlord: [nation=short]General Halcones[/nation]
+Chief: [nation=short]Kknight[/nation]
+Marshal: [nation=short]Gest[/nation][/color]
+
 
 
 

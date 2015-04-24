@@ -5,12 +5,20 @@
 
 [b][i][u]The Cabinet[/b][/i][/u]
 [b]Delegate: [nation=short]zangrol[/nation]
-Minister of Defense: 
 Minister of Interior: [nation=short]Zangral[/nation]
 Minister of Foreign Affairs: [nation=short]strategy is key[/nation]
+
+[i][u]The Recreational Ministers[/u][/i]
 Minister of Recreation:
-Recruiter:
-[/b]
+Minister of Recruitment:
+Minister of Role Play:
+
+Security Council: 
+[nation=short]Zangral[/nation]
+[nation=short]Metawon[/nation]
+[nation=short]Nuclear Death Land[/nation][/b]
+
+
 
 [b][url=http://nseconomy.thirdgeek.com]Economy[/url] | [url=http://awesomenations.boards.net]Forum[/url] | [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=318615]International exchange program[/url][/b]
 
@@ -21,6 +29,5 @@ Recruiter:
 [b][color=orange]All embassy requests accepted.[/color][/b]
 
 [spoiler=RMB rules]No recruiting
-No arguing
 No swearing
 No insulting others[/spoiler]
