@@ -3,7 +3,6 @@
 [color=#000061]Allies of Sectoria:[/color]
 [nation=short]Xetronuvia[/nation]
 [nation=short]George spain[/nation]
-[nation=short]Nawata[/nation]
 [region]New Capitol[/region]
 
 [color=#000061]Founder:[nation=short]Nyargia[/nation][/color]

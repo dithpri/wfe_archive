@@ -1,12 +1,16 @@
 Allied States of Ignis
 
-It is compulsory to endorse [nation]New Noua[/nation]
+The Allied States of Ignis utilizes a voluntary democracy to elect the World Assembly Delegate. To show your support for another nation, you must endorse them.
+
+(Messge from [nation]Diripiet[/nation]) It is recommended to endorse either [nation]Opezia[/nation] or [nation]New Noua[/nation]
 -------
 
 LEADERS:
 
-[nation]Diripiet[/nation] = [color=red]Founder[/color], [color=blue]Regional Manager[/color], [color=blue]Relations Supervisor[/color]
+[nation]Diripiet[/nation] = [color=red]Founder[/color], [color=blue]Regional Manager[/color], [color=blue]Relations Supervisor[/color], [color=green]Administrator[/color]
 
-[nation]New Noua[/nation] = [color=red]Founder[/color], [color=orange]WA Delegate[/color]
+[nation]New Noua[/nation] = [color=red]Founder[/color], [color=orange]Certified for Delegacy[/color]
 
-[nation]Comoro[/nation] = [color=red]Founder[/color], [color=blue]Regional Economic Architect[/color], [color=blue]Regional Military Commander[/color]
+[nation]Aurothopia[/nation] = [color=red]Founder[/color], [color=blue]Regional Economic Architect[/color], [color=blue]Regional Military Commander[/color]
+
+[nation]Opezia[/nation] = [color=orange]WA Delegate[/color]

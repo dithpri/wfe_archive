@@ -1,4 +1,3 @@
-[b][u]The election for Department of Health/Agriculture and Department of Defense is currently going.[/u][/b] 
 [hr][b][u]Welcome to Really Not Feeling It![/u][/b]
 In 1860, a man with a goal founded RNFI in hopes of creating the perfect region. 
 [hr][b][u]Statistics[/u][/b]
@@ -12,8 +11,8 @@ Internet TLD: .rnfi
 Founder: [nation=short+noflag]Shulk[/nation]
 Owner: The [nation=short+noflag]Goji Empire[/nation]
 Department of Cartography: The [nation=short+noflag]Goji Empire[/nation]
-Department of Defense: Available for Election
-Department of Health/Agriculture: Available for Election
+Department of Defense: [nation=short+noflag]Mr Carlton Banks[/nation]
+Department of Health/Agriculture: [nation=short+noflag]Mr Carlton Banks[/nation]
 Archivist: The [nation=short+noflag]Goji Empire[/nation]
 [hr][b][u]RSS State:[/u][/b]
 [color=blue]Alpha[/color]

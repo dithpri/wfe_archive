@@ -1,12 +1,1 @@
-[b]&#134; [nation=short]The Emperor of Iron Europe[/nation] in [region]Windsor Castle[/region] commands the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] of [region]Iron Europe[/region] to Crusade!
-[hr]Country:
-&#134; [region]Kingdom of Italy[/region]
-&#134; [nation=short]Iron Europe Force 6[/nation]
-
-State:
-&#134; [region]Lombardy[/region]
-&#134; [nation=short]Iron Europe Force 29[/nation]
-
-Cities:
-&#134; [region]Milan[/region]
-&#134; [nation=short]Milan Italy[/nation][/b]
+[b][region]Kingdom of Italy[/region] is within the Holy Empire of [region]Iron Europe[/region][/b]

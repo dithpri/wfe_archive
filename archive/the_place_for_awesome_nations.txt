@@ -3,31 +3,28 @@
 
 [b][u]ENDORSE [nation=short]zangrol[/nation][/b][/u]
 
-[b][i][u]The Cabinet[/b][/i][/u]
-[b]Delegate: [nation=short]zangrol[/nation]
-Minister of Interior: [nation=short]Zangral[/nation]
+[spoiler=Regional Government]
+[b]The Cabinet:[/b]
+Delegate: [nation=short]zangrol[/nation]
+Minister of the Interior:
 Minister of Foreign Affairs: [nation=short]strategy is key[/nation]
-
-[i][u]The Recreational Ministers[/u][/i]
+[b]The Recreational Ministers:[/b]
 Minister of Recreation:
 Minister of Recruitment:
 Minister of Role Play:
-
-Security Council: 
+[b]Security Council:[/b]
 [nation=short]Zangral[/nation]
 [nation=short]Metawon[/nation]
-[nation=short]Nuclear Death Land[/nation][/b]
+[nation=short]Nuclear Death Land[/nation]
+[nation=short]Thaydor[/nation][/spoiler]
+[b]Status: [color=yellow]Yellow[/color][/b]
 
-
-
+[spoiler=not sure what this means?]
+[b][color=yellow]Yellow:[/color] No danger.
+[color=orange]Orange:[/color] Little danger, but threats have been received.
+[color=red] Red: [/color]Danger. A raid on us is being planned.
+[color=purple]Purple:[/color] Great danger. The region is in lockdown.
+Black: Extreme danger. We have been raided and are recovering.[/b][/spoiler]
 [b][url=http://nseconomy.thirdgeek.com]Economy[/url] | [url=http://awesomenations.boards.net]Forum[/url] | [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=318615]International exchange program[/url][/b]
 
 [b][color=purple]Read the The Place For Awesome Nations constitution![/b][/color]
-
-[b]If you would like to write for the regional newspaper, please telegram your article to the Founder. Or the WA delegate[/b]
-
-[b][color=orange]All embassy requests accepted.[/color][/b]
-
-[spoiler=RMB rules]No recruiting
-No swearing
-No insulting others[/spoiler]
