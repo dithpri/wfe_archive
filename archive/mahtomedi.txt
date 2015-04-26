@@ -15,16 +15,13 @@
 [nation]Carparons[/nation]
 [nation]Beken land[/nation]
 [nation]Tree Worshipers[/nation]
+[nation]Junior Nation[/nation]
 
 [color=navy][b]Graveyard:[/b][/color]
 
 [nation]Infonation[/nation]
-
-[color=gold][b]Regional Government:[/b][/color]
-[color=teal]
-WA Delegate: [i]Position Currently Needs to be Filled[/i]
-
-Additional administrative positions coming soon. Telegram [nation=short+noflag]Cold Sassy Tree[/nation] or post on the RMB to apply for a position in the government of Mahtomedi.
+[color=blue]
+Additional administrative positions coming soon. Telegram [nation=short+noflag]Cold Sassy Tree[/nation] or post on the RMB to apply for a position in the government of Mahtomedi. Be sure to look at the Regional Government dispatch!
 [/color]
 
 [color=gray][i]Need help? Check out NS Tutorial For New Mahtomedi Nations below or telegram [nation=short+noflag]Cold Sassy Tree[/nation][/i][/color]

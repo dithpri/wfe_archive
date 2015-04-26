@@ -4,7 +4,7 @@ Deputy: [nation=short]Mars Factor[/nation]
 
 Commander: [nation=short]Ivon 7[/nation] 
 
-Minister of Embassies: [nation=short]VenomRain[/nation] 
+Minister of foreign intelligence [nation=short]VenomRain[/nation] 
 
 
 [color=blue] Current Mission: Send mass TGs to other nations and regions to spread the word about us. [/color]

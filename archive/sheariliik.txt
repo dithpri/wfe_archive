@@ -3,7 +3,9 @@
 
 [B]HIGH LEVEL COLONIES[/b]
 [nation=sheariliik-Malloc]
-[nation=Sheariliik-East Shararquea]
+
+[B]INTERMEDIATE LEVEL COLONIES[/b]
+[nation=Sheariliik-West Shararquea]
 
 [B]LOW LEVEL COLONIES[/b]
 [nation=sheariliik-Marche Noir]

@@ -7,7 +7,7 @@ Hello and welcome to Estercrest!
 
 [B]Cabinet[/B]
 [u]Chancellor[/u]: [nation]Nicholascagia[/nation]
-[u]Deputy Chancellor[/u]:
+[u]Deputy Chancellor[/u]: [nation]Acage[/nation]
 [u]Minister for Defence[/u]:
 [u]Minister for Foreign Affairs[/u]:
 [u]Minister for Internal Affairs[/u]:
