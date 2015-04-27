@@ -1,15 +1,19 @@
 [b]King Of The Region: [nation]Zeopold[/nation]              
 Queen Of The Region: [nation]Charlia[/nation]
 
-The Justical Branch[/b]
+The Judicial Branch[/b]
 
 Major Judges: [nation]Charlia[/nation] and [nation]Zeopold[/nation]
 Vice-Judge: [nation]Egalitia[/nation]
-Court Security Manager: 
+Court Security Manager: [nation]Nazi Empire 2[/nation]
 
 [b]The Cabinet[/b]
-Minister Of Defense: [nation]New Protestant Ulster[/nation]
+Minster of  the Monarchy: [nation]New Protestant Ulster[/nation]
+Home Secretary: [nation]New Protestant Ulster[/nation]
+Minister Of Defense: [nation]SeanBeania[/nation]
 Minister Of Equality: [nation]Skarholmen[/nation]
-Minster Of Peace: [nation]SeanBeania[/nation]
+Minster Of Peace:
 Minister Of Health: [nation]Cuprum[/nation]
 Minister Of Foreign Affairs: [nation]Antardini[/nation]
+
+Please endorse [nation]Egalitia[/nation] for WA delegate

@@ -1,17 +1,15 @@
 We shall invade and colonize the entire world! 
 May God bless our probes! 
 
-However, if you oppose us, prepare to be vaporized. 
-We shall not tolerate undue insolence! 
-May our wisdom prevail over the stupidity of the rest of the world! 
+Our general is currently [nation]Spravedlnost[/nation], so please endorse him.
 
 In the event of a victorious liberation, be sure to add the following message:
 
-Hail Alien! Join The Alien Colony or waste your time picking up the pieces!
+[color=green]Hail Alien! We come in peace, but join [region]The Alien Colony[/region] or waste your time picking up the pieces of our wreckage![/color]
 
-This region was conquered by [region:The Alien Colony]!
+[color=green]This region was conquered by [region]The Alien Colony[/region]![/color]
 
-The invading Aliens were:
+[color=green]The invading Aliens were:[/color]
 (List whoever invaded)
 
 However, there is some room for change if anyone has something special in mind for a region. Also, be sure to share our wonderful flag and tag the region accurately.

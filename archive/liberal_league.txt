@@ -9,7 +9,8 @@
 -Secretary of Defense: [nation]Unx[/nation] 
 -Secretary of Foreign Relations: [nation]Alloubama[/nation] 
 -Secretary of Education: [nation]Mitslavia[/nation]
+-Secretary of Justice: [nation]Red Petals[/nation]
+-Secretary of Comunications: [nation]2nd Empire of Brasil[/nation]
 -Secretary of Finances: 
--Secretary of Comunications: 
 -Secretary of Infraestructure: 
--Secretary of Justice:
+

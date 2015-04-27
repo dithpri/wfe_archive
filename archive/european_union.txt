@@ -9,19 +9,19 @@ If you don&amp;#39;t receive a validation email when you sign up for the forum, 
 
 [b]Commission[/b]
 Premier: [nation=short]Inimicus[/nation]
-Foreign Affairs: [nation=short]Angleter[/nation]
-Defence and Peacekeeping: [nation=short]Havvenskar[/nation]
-Economics: VACANT
-Internal Affairs: [nation=short]Poland-Lythuania[/nation]
+Foreign Affairs: [nation=short]Chilterns[/nation]
+Defence and Peacekeeping: [nation=short]Inquista[/nation]
+Economics: [nation=short]--the United Kingdom[/nation]
+Internal Affairs: [nation=short]Pacifist Cowards[/nation]
 
 [hr]
 
 [b]Court[/b]
-Chief Justice: [nation=short]Poland-Lythuania[/nation]
+Chief Justice: [nation=short]Duxburian Union[/nation]
 Justice: [nation=short]Os Corelia[/nation]
-Justice: VACANT
-Justice: [nation=short]Davishire2[/nation]
-Justice: VACANT
+Justice: [nation=short]Framptonia[/nation]
+Justice: [nation=short]Havvenskar[/nation]
+Justice: [nation=short]Halsberg[/nation]
 
 [hr]
 

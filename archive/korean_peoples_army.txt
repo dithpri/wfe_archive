@@ -9,11 +9,10 @@ The &amp;quot;KPA&amp;quot; defends inter-regional democratic and socialist forc
 
 Commissar; [nation=short]V Ming[/nation]
 
-Captain;
+Captain; [nation=short]Communal Earth[/nation]
 
-Sergeant;
+Sergeant;[nation=short]Godless Munky[/nation]
 
-Reg Forces: 9
+Reg Forces: 10
 
-Reserves: 12[/b][hr][hr]
-[b][color=olive]Undergoing restructuring and regimentation[/color][/b]
+Reserves: 13[/b][hr][hr]
