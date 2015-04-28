@@ -9,6 +9,6 @@ War Commissar: [nation=short]Communist Skyrim[/nation]
 General of the Red Army: [nation=short]Sween[/nation]
 
 Security Level
-DEFCON 2 - MAXIMUM READINESS
+DEFCON 3 - HIGH READINESS
 
-NEWS: the Battle for Juche Union has been won and the region is refounded!
+NEWS: what kind of political system should we have?

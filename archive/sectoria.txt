@@ -3,7 +3,15 @@
 [color=#000061]Allies of Sectoria:[/color]
 [nation=short]Xetronuvia[/nation]
 [nation=short]George spain[/nation]
-[region]New Capitol[/region]
+[region]New New Capitol[/region]
+
+[color=#000061]Nations of Sectoria:[/color]
+[nation=short]Nyargia[/nation]
+[nation=short]Kylopia[/nation]
+[nation=short]Bozotine[/nation]
+[nation=short]Indiansopia[/nation]
+[nation=short]Egg Man[/nation]
+[nation=short]Naturopia[/nation]
 
 [color=#000061]Founder:[nation=short]Nyargia[/nation][/color]
 [/b]

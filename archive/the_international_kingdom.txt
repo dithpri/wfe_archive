@@ -8,11 +8,11 @@ Vice-Judge: [nation]Egalitia[/nation]
 Court Security Manager: [nation]Nazi Empire 2[/nation]
 
 [b]The Cabinet[/b]
-Minster of  the Monarchy: [nation]New Protestant Ulster[/nation]
-Home Secretary: [nation]New Protestant Ulster[/nation]
+Minster of  the Monarchy: [nation]Colonial Rhodesia[/nation]
+Home Secretary: [nation]Colonial Rhodesia[/nation]
 Minister Of Defense: [nation]SeanBeania[/nation]
 Minister Of Equality: [nation]Skarholmen[/nation]
-Minster Of Peace:
+Minster Of Peace: [nation]Natiofortis[/nation]
 Minister Of Health: [nation]Cuprum[/nation]
 Minister Of Foreign Affairs: [nation]Antardini[/nation]
 

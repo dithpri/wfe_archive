@@ -3,8 +3,8 @@
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 [i][b]Gereral Assembly[/b][/i]
 - [b]Head of the Assembly and the Great Commonwealth:[/b] [nation]Hiddelborg[/nation]
-- [b]Prime Minister:[/b] [nation]Hiddelborg[/nation] (interim)
-- [b]Secretary of Defense:[/b] Vacancy
-- [b]Secretary of Internal Affairs:[/b] Vacancy
-- [b]Secretary of External Affairs:[/b] Vacancy
-- [b]Secretary of Economy:[/b] Vacancy
+- [b]Prime Minister:[/b] [nation]Vallita[/nation]
+- [b]Secretary of Defense:[/b] [nation]Yugagar[/nation]
+- [b]Secretary of Internal Affairs:[/b] [nation]Vacancy[/nation]
+- [b]Secretary of External Affairs:[/b] [nation]Skyndem[/nation]
+- [b]Secretary of Economy:[/b] [nation]Scancostinan[/nation]

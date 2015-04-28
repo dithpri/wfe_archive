@@ -1,9 +1,15 @@
-[B][color=red]No longer occupied by AAA.[/b][/color]
-[B][color=darkgreen]
-[U]Temporary Council[/u]
+[B][color=crimson]Welcome to the [region=UCR]
 
-Minister of Foreign Affairs: [nation=short]Chernaras[/nation]
-Minister of Defense: [nation=short]The united Slavic tsardom[/nation]
-Minister of Internal Affairs: [nation=short]Lawless Idealism[/nation]
-Minister of Recruitment:
+[U]Central Committee[/u]
+Chairman: [nation=short]Shermaniya II[/nation]
+Seat Two: Vacant
+Seat Three: [nation=short]Kanatistan[/nation]
+Seat Four: Vacant
+Seat Five: [nation=short]The United Slavic Tsardom[/nation]
 [/b][/color]
+ 
+[hr]
+
+[color=crimson][b]Article of the Day: [url=http://en.wikipedia.org/wiki/Goulash_Communism]Goulash Communism[/url]
+[url=http://www.marxists.org/archive/]Marxists Internet Archive[/url]
+[url=https://www.youtube.com/watch?v=YxZb8LybWQU]Anthem[/color][/url][/b]
