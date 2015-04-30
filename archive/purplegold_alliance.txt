@@ -1,4 +1,4 @@
 [B]Chancellor[/B]: [nation]Mezzanera[/nation]
-[B]Minister of Internal Affairs[/B]: Vacant
-[B]Minister of Foreign Affairs[/B]: Vacant
+[B]Minister of Internal Affairs[/B]: [nation]Bythateos[/nation]
+[B]Minister of Foreign Affairs[/B]: [nation]Vooshneckia[/nation]
 [B]Treasurer[/B]: [nation]Vardoxia[/nation]

@@ -1,6 +1,6 @@
 [color=blue][b]Welcome to the ACA. A region [i]completely dedicated[/i] to liberty and justice for [i]all[/i][/b][/color]
 
-[b]Chancellor:[nation=short]Sense makers[/nation][/b]
+[b]President:[nation=short]Sense makers[/nation][/b]
 
 [b]The Senate:
 [nation=short]Klaineland[/nation]
@@ -8,9 +8,9 @@
 [nation=short]Bakministan[/nation]
 [nation=short]-UNSC[/nation][/b]
 
-[b]DEFCON:[color=red]COCKED PISTOL[/color]
+[b]DEFCON:[color=blue]FADE OUT[/color]
 5:[color=blue]FADE OUT[/color]
 4:[color=green]DOUBLE TAKE[/color]
 3:[color=yellow]ROUND HOUSE[/color]
 2:[color=red]F[/color]A[color=red]S[/color]T [color=red]P[/color]A[color=red]C[/color]E
-1:[color=yellow]ROUND HOUSE[/color][/b]
+1:[color=red]ROUND HOUSE[/color][/b]

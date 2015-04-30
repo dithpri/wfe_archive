@@ -1,15 +1,12 @@
 [color=grey][b]Welcome to the Homeland[/b][/color]
 [b]_____________________________________________________[/b]
-Politite is a small region where I attempt to run several nations with specific goals in mind for each nation.
-[b]_____________________________________________________[/b]
-[b]GOALS:[/b]
+[b]RESIDENT NATIONS:[/b]
 
-[color=red][b]1pol[/b][/color] is to be a Communist state with good rights in mind, sans governmental ones.
-[color=brown][b]4pol[/b][/color] is to funnel all funds into defense just to see what happens. At the very least, it&amp;#39;ll make for good defense.
-[color=yellow][b]5pol[/b][/color] should make itself desirable for immigrants. This means good environment, education, etc.
-[color=green][b]6pol[/b][/color] brings in the money. Economy is king here.
+[nation]1pol[/nation] - A Communist state with good rights in mind, sans governmental ones.
+[nation]2pol[/nation] - A heavily militant and religious state. That&amp;#39;s gonna end well.
+[nation]4pol[/nation] - A dictated state that will ultimately be entirely military.
+[nation]5pol[/nation] - Another dictated state, but one with more focus on making the place look nice.
+[nation]6pol[/nation] - A nation so capitalistic and hands-off it might as well be the middle ages.
 [b]_____________________________________________________[/b]
-[b]EMBASSIES:[/b]
-
-[color=green][b]5pol[/b][/color] is to handle all regional embassies between the following regions:
-- [b]Rebel nation[/b]
+[b]NEARBY REGIONS:[/b]
+[region]Rebel nation[/region] - Our sister nation.

@@ -3,7 +3,7 @@
 [url=http://isk-gov.tk]State Website[/url] | [url=http://isk-gov.tk/forum]Regional Forums (Under Construction)[/url]
 [hr]
 [b][u]Ministries[/u][/b]
-[url=http://isk-gov.tk/interior]Ministry of the Interior[/url] 
+[url=http://isk-gov.tk/interior.php]Ministry of the Interior[/url] 
 [url=http://isk-gov.tk/mod.php]Ministry of Defense[/url] 
 [url=http://isk-gov.tk/foreign.php]Ministry of Foreign Affairs[/url] 
 [url=http://isk-gov.tk/mss.php]Ministry of State Security[/url] 

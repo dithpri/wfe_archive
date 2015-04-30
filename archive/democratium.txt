@@ -4,7 +4,7 @@
 [b]-The State-[/b]
 [b]Interim First Marshal:[/b] [nation=short]British Accia[/nation]
 [b]Chief of the DPF:[/b] [nation=short]Snowbird[/nation]
-[b]Chief of Regional Industry:[/b] [i]Vacant[/i]
+[b]Chief of Regional Industry:[/b] [nation=short]Juraka[/nation]
 [b]Judge of DRT:[/b] [nation=short]The Black Guard Overseer[/nation]
 [b]Heroic Founder:[/b] [nation=short]Kolekya[/nation]
 [/color]
