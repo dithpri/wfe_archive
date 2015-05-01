@@ -1,8 +1,6 @@
-[b]&#134; [nation=short]The Emperor of Iron Europe[/nation] in [region]Windsor Castle[/region] commands the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] of [region]Iron Europe[/region] to Crusade!
-[hr]Country:
-&#134; [region]Federal States of America[/region]
-&#134; [nation=short]Federal States of America President[/nation]
+[b]&#134; [nation=short]The Emperor of Iron Europe[/nation] brings the Crusade to America
 
-City:
-&#134; [region]Bridgeport[/region]
-&#134; [nation=short]Iron Europe Force 38[/nation][/b]
+[region]Bridgeport[/region], the most populous city in the state of Connecticut, USA now belongs within the [region]Greater Britain[/region] colony of [region]British America[/region] under the Crown of [nation=short]King William Arthur[/nation][/b]
+
+
+

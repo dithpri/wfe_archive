@@ -1,16 +1,17 @@
-Allied States of Ignis
+[b]The Allied States of Ignis[/b]
 
-The Allied States of Ignis utilizes a voluntary democracy to elect the World Assembly Delegate. To show your support for another nation, you must endorse them.
+Running for Delagate position:
+[nation]New Noua[/nation]
 
-(Messge from [nation]Diripiet[/nation]) It is recommended to endorse either [nation]Opezia[/nation] or [nation]New Noua[/nation]
--------
+Electeted WA Delegate receives [color=orange]Administrator Priveliges[/color] of the region.
 
-LEADERS:
+[b]Laws of the Land[/b]
+[color=red]-[/color] The region&amp;#39;s password is not to be disclosed to other nations / regions not in the region. Permission to
+   distribute the password can be provided by [nation=short]Diripiet[/nation] or the elected delegate.
+[color=red]-[/color] It is required to [b]Vote[/b] for a Delagate. Endorsements must be applied within 7 days of joining the
+   region. Nations who do not comply with this will be ejected.
+[color=red]-[/color] Nations are recommended to change their currency to [i]the Arc[/i].
 
-[nation]Diripiet[/nation] = [color=red]Founder[/color], [color=blue]Regional Manager[/color], [color=blue]Relations Supervisor[/color], [color=green]Administrator[/color]
-
-[nation]New Noua[/nation] = [color=red]Founder[/color], [color=orange]Certified for Delegacy[/color]
-
-[nation]Aurothopia[/nation] = [color=red]Founder[/color], [color=blue]Regional Economic Architect[/color], [color=blue]Regional Military Commander[/color]
-
-[nation]Opezia[/nation] = [color=orange]WA Delegate[/color]
+Positions in current standing:
+[nation]Diripiet[/nation] - [color=red]Founder[/color], [color=orange]Administrator[/color]
+[nation]New Noua[/nation] - [color=red]Founder[/color], [color=orange]WA Delegate[/color]

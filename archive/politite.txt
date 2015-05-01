@@ -9,4 +9,4 @@
 [nation]6pol[/nation] - A nation so capitalistic and hands-off it might as well be the middle ages.
 [b]_____________________________________________________[/b]
 [b]NEARBY REGIONS:[/b]
-[region]Rebel nation[/region] - Our sister nation.
+[b](EMBASSY)[/b] [region]Rebel nation[/region] - Our sister nation.

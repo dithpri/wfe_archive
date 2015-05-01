@@ -5,11 +5,11 @@ Chain of Command
 
 Imperial Grand Master: [nation=short]Miaore[/nation]
 
-High Chancellor: [nation=short]Fugienia[/nation] 
+High Chancellor:  [nation=short]Terraglov[/nation] 
 
-High Senator: [nation=short]Namestate[/nation]
+High Senator: [nation=short]Fugienia[/nation] 
  
-Royal Counselor: [nation=short]Terraglov[/nation] 
+Royal Counselor: [nation=short]Namestate[/nation]
 ________________________________________________
 
 Current objectives:

@@ -4,7 +4,7 @@ The Council
 
 [color=purple]Glorious Leader:[/color][nation]Republic of Lukasz[/nation]
 
-[color=orange]Main adviser:[/color]empty
+[color=orange]Main adviser:[/color][nation]Legion of Hacking and Slashing[/nation]
 
 [color=brown]Outside Adviser:[/color][nation]Siburria[/nation]
 
@@ -16,4 +16,4 @@ Adviser:[nation]The Conglomerate of Provinces and States[/nation]
 
 [color=yellow]Delegate:[/color][nation]Bourne Empire[/nation]
 
-[color=bronze]Recruiter:[/color]empty
+[color=bronze]Recruiter:[/color][nation]Tanks and Kittens[/nation]
