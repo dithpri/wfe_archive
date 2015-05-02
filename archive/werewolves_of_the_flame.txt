@@ -2,7 +2,7 @@
 
 [b][u]The Cabinet:[/u][/b]
 Delegate:[nation=short]Stealth Force admin[/nation]
-Minister of Home Affairs: [nation=short]Malvacka[/nation]
+Minister of Home Affairs: [nation=short][/nation]
 Minister of Foreign Affairs: 
 Minister of War: [nation=short]Die Wache Reich[/nation]
 Minister of Culture: [nation=short]Optiplex 790[/nation]

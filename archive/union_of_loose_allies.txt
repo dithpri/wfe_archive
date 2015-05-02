@@ -3,18 +3,14 @@ ________________________________________________
 
 Chain of Command
 
-Imperial Grand Master: [nation=short]Miaore[/nation]
+&Eacute;minence grise: [nation=short]Miaore[/nation]
 
-High Chancellor:  [nation=short]Terraglov[/nation] 
+Imperial Grand Master:  [nation=short]Terraglov[/nation] 
 
 High Senator: [nation=short]Fugienia[/nation] 
  
-Royal Counselor: [nation=short]Namestate[/nation]
 ________________________________________________
 
 Current objectives:
 
-[color=red]Conquer the many small regions previously occupied by The Black Riders[/color]
-(Message [nation=short+noflag]Miaore[/nation] for more info)
-
- If anyone sees a vulnerable region, post it on the message boards. 
+[color=blue]Re-organize[/color]

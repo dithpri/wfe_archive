@@ -6,11 +6,11 @@ Running for Delagate position:
 Electeted WA Delegate receives [color=orange]Administrator Priveliges[/color] of the region.
 
 [b]Laws of the Land[/b]
-[color=red]-[/color] The region&amp;#39;s password is not to be disclosed to other nations / regions not in the region. Permission to
-   distribute the password can be provided by [nation=short]Diripiet[/nation] or the elected delegate.
-[color=red]-[/color] It is required to [b]Vote[/b] for a Delagate. Endorsements must be applied within 7 days of joining the
-   region. Nations who do not comply with this will be ejected.
-[color=red]-[/color] Nations are recommended to change their currency to [i]the Arc[/i].
+[color=red]-[/color] The region&amp;#39;s password is not to be disclosed to other nations / regions not in the region. Permission to distribute / receive the password can be provided by [nation=short]Diripiet[/nation] or the elected delegate ([nation=short]New Noua[/nation]).
+
+[color=red]-[/color] It is required to [b]Vote[/b] for a Delagate. Endorsements must be applied within 7 days of joining the region. Nations who do not comply with this will be ejected.
+
+[color=red]-[/color] Nations are recommended to change their currency to the [color=blue][b][i]Arc[/i][/b][/color].
 
 Positions in current standing:
 [nation]Diripiet[/nation] - [color=red]Founder[/color], [color=orange]Administrator[/color]

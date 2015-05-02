@@ -9,4 +9,5 @@
 [nation]6pol[/nation] - A nation so capitalistic and hands-off it might as well be the middle ages.
 [b]_____________________________________________________[/b]
 [b]NEARBY REGIONS:[/b]
+[b](HERE)[/b] [region]Politite[/region] - This region.
 [b](EMBASSY)[/b] [region]Rebel nation[/region] - Our sister nation.
