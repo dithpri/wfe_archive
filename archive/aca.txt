@@ -3,7 +3,7 @@
 [b]President:[nation=short]Sense makers[/nation][/b]
 
 [b]The Senate:
-[nation=short]Klaineland[/nation]
+[nation=short]-Arstotzka[/nation]
 [nation=short]Betashock[/nation]
 [nation=short]Bakministan[/nation]
 [nation=short]-UNSC[/nation][/b]
