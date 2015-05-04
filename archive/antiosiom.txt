@@ -1,13 +1,2 @@
-Government:Elecorate Monarchy
-Emperor: [nation=dogelend]
-
-House of Counsel:
-Minister of Finance: [nation=the_grand_royal_empire_of_voltaria]
-Minister of War: [nation=atlesian_empire]
-Miniser of Justice: [nation=zillium]
-=========================================================================
-Antiosiom Official Currency: The Dogecoin
-Major Currencies-  The Atlas,The Radon, The Franc, and The Kap
-Minor Currencies- The Yen, The Zilliad, The Vence, The Pound, The Pablon, The Dullar, and the Polish Sausages
-=========================================================================
-
+The [nation=atlesian_empire] will take control and reorganize this region.
+The Constitution is hereby dissolved.
