@@ -3,9 +3,9 @@ ________________________________________________
 
 Chain of Command
 
-&Eacute;minence grise: [nation=short]Miaore[/nation]
+Imperial Grand Master: [nation=short]Miaore[/nation]
 
-Imperial Grand Master:  [nation=short]Terraglov[/nation] 
+High Chancellor:  [nation=short]Terraglov[/nation] 
 
 High Senator: [nation=short]Fugienia[/nation] 
  
