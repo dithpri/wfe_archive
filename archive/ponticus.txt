@@ -6,9 +6,9 @@
 
 [b]|[url=http://www.nationstates.net/nation=conservadom/detail=factbook/id=175100]The Constitution[/url]|[url=http://i.imgur.com/X7CjoIM.png]Regional Map[/url]|[url=http://www.broomdces.com/nseconomy/]NS Economy[/url][/b]
 
-[b]Vice Chancellor:[/b]
+[b]Vice Chancellor:[/b][nation=short]Tark Migneria[/nation]
 [b]Senator:[/b] [nation=short]Ilfpida[/nation]
-[b]Senator:[/b] [nation=short]Valpraiso[/nation]
+[b]Senator:[/b] [nation=short]Aarhustan[/nation]
 [b]Senator:[/b] [nation=short]Virnall[/nation]
 [b]------------------------------------[/b]
 [b]Chief Justice:[/b] [nation=short]Gararia[/nation]
