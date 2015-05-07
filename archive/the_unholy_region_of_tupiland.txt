@@ -1,12 +1,12 @@
-The Holy Empire of Mi Nabo, The Federation of Quirantia, The Federal Republic of Islanda and Alagon, The Republic of Barbuda y Peluda, The Protectorate of Over-humans and The Free Land of Miaulandia are provinces of The Great Empire of Servinia Septemtrionis.
+[nation=Mi Nabo], [nation=Quirantia], [nation=Islanda and Alagon], [nation=Barbuda y Peluda], [nation=To Wapa To Flama], [nation=Romolandia], [nation=Over-humans] [color=#000061]and[/color] [nation=Miaulandia] [color=#000061]are provinces of[/color] [nation=Servinia Septemtrionis].
 
-[color=green]Minister of Propaganda: The Sultanate of Romolandia[/color]
+[color=#000061]Minister of Propaganda: [nation=Romolandia][/color]
 
-[color=green]General: The Free Land of Miaulandia[/color]
+[color=#000061]General: [nation=Miaulandia][/color]
 
 [color=#000061]Huzzah! Huzzah! Huzzah! This region has beaten [region=The Black Riders]![/color]
 
-[color=#990990]&amp;quot;Tupi is Great&amp;quot;[/color]
+[color=#000061]&amp;quot;Tupi is Great&amp;quot;[/color]
 
 [color=#CC0000]Regional Days[/color]
 
