@@ -1,6 +1,6 @@
 [i]Welcome to the [b]UTC![/b]
 
-&amp;quot;Generic Minecraft-style message!&amp;quot;[/i]
+&amp;quot;Nautical nonsense (and puns)!&amp;quot;[/i]
 
 [hr]
 
@@ -11,7 +11,7 @@ It&amp;#39;s clear you&amp;#39;ve stumbled upon us somehow, so let me show you a
 
 [b][u]REGIONAL GOVERNMENT:[/u][/b]
 
-[B]Supreme Autocrat:[/B] [nation=short]the United Terran Republics[/nation]
+[B]Supreme Dinghy Captain:[/B] [nation=short]the United Terran Republics[/nation]
 [B]Prime Minister:[/B] [nation=short]The Conez Imperium[/nation]
 [B]Minister of Foreign Affairs:[/B] [nation=short]Buggy Republic[/nation]
 [b]Minister of Defense:[/b] [nation=short]The God-Emperors Terran Empire[/nation]

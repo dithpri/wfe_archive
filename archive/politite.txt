@@ -1,13 +1,7 @@
-[color=grey][b]Welcome to the Homeland[/b][/color]
-[b]_____________________________________________________[/b]
-[b]RESIDENT NATIONS:[/b]
+[color=cyan][b]_____________________________________________________
+EMBASSIES:[/b][/color]
+[region]Rebel nation[/region] ([nation]Cubebanots[/nation])
 
-[nation]1pol[/nation] - A Communist state with good rights in mind, sans governmental ones.
-[nation]2pol[/nation] - A heavily militant and religious state. That&amp;#39;s gonna end well.
-[nation]4pol[/nation] - A dictated state that will ultimately be entirely military.
-[nation]5pol[/nation] - Another dictated state, but one with more focus on making the place look nice.
-[nation]6pol[/nation] - A nation so capitalistic and hands-off it might as well be the middle ages.
-[b]_____________________________________________________[/b]
-[b]NEARBY REGIONS:[/b]
-[b](HERE)[/b] [region]Politite[/region] - This region.
-[b](EMBASSY)[/b] [region]Rebel nation[/region] - Our sister nation.
+[color=red][b]_____________________________________________________
+WARS:[/b][/color]
+[region]Katsaros Romana[/region] ([nation]PalloMonges[/nation])

@@ -6,12 +6,10 @@ Government: Regional Congress
 Election Status: Monthly Elections
 
 Congress:
-The Cero Party: 33.4% (Thornico)
-The Piner Party: 0% (The Cass Confederation)
-The Nomadic Party: 0% (Big Boss&amp;#39;s Wasteland)
-The Crusader Party: 0% (Bigtimewood)
-The Solar Party: 66.6% (Mist Veil)
-
-
+The Cero Party: 33.4% [nation=short]Thornico[/nation]
+The Piner Party: 0% [nation=short]The Cass Confederation[/nation]
+The Human-Error Party: 0% [nation=short]Big Bosss Wasteland[/nation]
+The Crusader Party: 0% [nation=short]Bigtimewood[/nation]
+The Solar Party: 66.6% [nation=short]Mist Veil[/nation]
 
 

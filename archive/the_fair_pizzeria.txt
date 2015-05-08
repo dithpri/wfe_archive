@@ -6,5 +6,5 @@ Second In Command: [nation=Yeetonia]
 Chairman of All Boards:
 Chairman of Civil Rights: [nation]Napoleon Borntoparty[/nation]
 Chairman of Inter-Regional Affairs:
-Chairman of Military Offense: 
+Chairman of Military Offense: [nation=the awesome sloths]
 Chairman of Military Defense: [nation=nicholas pfister]
