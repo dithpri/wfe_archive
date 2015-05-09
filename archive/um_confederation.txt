@@ -8,5 +8,3 @@ Signed Regions:
 
 [region]UM Army[/region] 
  Ambassador: N/A                                  
-[region]The United States For Civil Rights[/region]    
-Ambassador: [nation]Coolzcatz[/nation]

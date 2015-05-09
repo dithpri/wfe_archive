@@ -3,13 +3,11 @@ Anthem: [b]Peace and Prosperity[/b]
 Headquarters: [b]Trislerton Building, North Rostivalsia, [nation]Frosika[/nation][/b]
 Official Language: [b]English and Malay[/b]
 Leaders:
-- [i]Monarch[/i]: [b]King Fathurrahman III [nation]Frosika[/nation][/b]
-- [i]Head[/i]: [b]Jaafar Aziz (Prime Minister of [nation]Frosika[/nation])[/b]
-- [i]Secretary-General[/i]: [b]Fauzan Hamizan[/b]
-- [i]Speaker of the Parliament[/i]: [b]Rosliani Zaiton of [color=blue]Democratic Party of the Commonwealth[/color][/b]
-- [i]Representative of FROC to the World Assembly[/i]: [b]Zainab Rosman of [nation]Rosidalsia[/nation][/b] 
+- [color=red][i]Monarch[/i][/color]: [b]King Fathurrahman III of [nation]Frosika[/nation][/b]
+- [color=brown][i]His Majesty&amp;#39;s Loyal Head of the Frosikan Commonwealth[/i][/color]: [b]Jaafar Aziz[/b]
+- [color=blue][i]His Majesty&amp;#39;s Loyal Secretary-General of the Frosikan Commonwealth[/i][/color]: [b]Fauzan Hamizan[/b]
+
 Establishment:
-- The ASSUR-FC Agreement: [i]17 January 2025[/i]
 - North Rostivalsia Declaration: [b]25 May 2029[/b]
 
 [hr]
@@ -17,3 +15,6 @@ Establishment:
 Here are some information about Frosikan Commonwealth
 
 - [b][url=http://www.nationstates.net/nation=frosika/detail=factbook/id=413525]The History of FROC[/url][/b]
+- [b][url=http://www.nationstates.net/page=dispatch/id=389405]List of Principal Organs, Ministries and Specialized Agencies[/url][/b]
+- [b][url=http://www.nationstates.net/nation=rosidalsia/detail=factbook/id=393830]Political Parties of Frosikan Commonwealth[/url][/b]
+- [b][url=http://www.nationstates.net/nation=rosidalsia/detail=factbook/id=393788]Frosikan Commonwealth Parliament[/url][/b]

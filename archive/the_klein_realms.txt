@@ -1,7 +1,7 @@
 [b][region=The Klein Realms][/b]
 [hr]
 
-[b]Public Description: [/b]&amp;quot;A region for all those who wish to revel in Klein&amp;#39;s glory&amp;quot;
+[b]Public Description: [/b][color=red]&amp;quot;A region for those in Klein who see the foolishness of freedom&amp;quot;[/color]
 [hr]
 
 [b]Capitol Building: [/b]Swanney Hall
@@ -11,12 +11,11 @@
 [hr]
 
 [b]Government[/b][list]
-[*]Founder: [nation]The Swanney[/nation]
-[*]WA Delegate: [nation]Galangus[/nation]
-[*]Consulting Nation: [nation]Schurkenstaat[/nation][/list]
+[*][u][b][color=red]Absolute Overlord: [nation]The Swanney[/nation][/color][/b][/u]
+[*]Designated Figurehead: [nation]Wadelandia[/nation][/list]
 [hr]
 
-[b]Style of Government[/b]: Oligarchy
+[b]Style of Government[/b]: Dictatorship
 [hr]
 
 [b]Year of Establishment: [/b]2015

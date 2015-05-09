@@ -1,8 +1,8 @@
 [B][color=yellow]Welcome to Pac Pac. Please endorse our Supreme Chancellor:[/color][/B][nation]Meoko[/nation][color=yellow]
 
-[b][u][i][color=yellow]Head of the Pac Pac Council[/b][/u][/i][/color]
-[color=red]Supreme Chancellor (The Capitol):[/color] [nation]Lackatoo[/nation] [color=blue](retiring)[/color]
-[color=a01340]President of Pac Pac (The Capitol):[/color] [nation]Meoko[/nation] 
+[b][u][i]Head of the Pac Pac Council[/b][/u][/i][/color]
+[color=red]Supreme Chancellor (The Capitol):[/color] [nation]Meoko[/nation] 
+[color=a01340]President of Pac Pac (The Capitol):[/color] [color=blue]TBD[/color]
 [color=7ff00] Vice President of Pac Pac (The Capitol):[/color] [nation]Bulmagon[/nation]
 
 [b][u][i][color=yellow] The Grand Council of Pac Pac[/b][/u][/i][/color]
@@ -14,3 +14,7 @@
 [color=488214]Chairperson of the Environment (District III):[/color] [nation]MURDEROUS GOATS[/nation] 
 
 [color=8b4513]Chairperson of Production (District IV):[/color] [nation]Scary Mike[/nation] 
+
+
+
+[color=darkgreen]pingas[/color]

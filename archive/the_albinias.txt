@@ -1,14 +1,8 @@
-[b]Chain of Command:[/b]
-[nation=short]Ouhlahauhn[/nation], Founder
-[nation=short]The Pinnacle of Arcadia[/nation],  WA Delegate
-[nation=short]Vokun[/nation], Vice Delegate
+[b]Welcome to our humble abode![/b]
 
-[b]Regional Assembly:[/b]
-[nation=Ouhlahauhn], Speaker
-[nation=The Pinnacle of Arcadia]
-[nation=Ligernation]
-[nation=Roxxion]
-[nation=Vokun]
+Enjoy your stay!
+
+Questions? Message [nation=short]Ouhlahauhn[/nation].
 
 [url=http://albinias.boards.net/][b]Please take a look at the new and improved forum here![/b][/url]
 
