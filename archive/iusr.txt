@@ -1,6 +1,6 @@
 [b]Alert Level:[/b] [color=orange]DEFSTAT 3[/color]
 
-[b]Latest News:[/b] [nation=short]Hallorania[/nation] elected to Supreme Socialist Republic.
+[b]Latest News:[/b] Following two months of world peace, several nations collapse into anarchy.
 [hr]
 
 [b]Supreme Socialist Republics[/b]
@@ -20,9 +20,7 @@
 [nation=short]Pribaltika[/nation]
 [nation=short]Ruapekapeka[/nation]
 [nation=short]Slobozhanshchyna[/nation]
-[nation=short]Zakavkazye[/nation]
 [nation=short]Zeledia[/nation]
-[nation=short]Zinacantlan[/nation]
 [hr]
 
 [spoiler=[color=blue][b]Nation Comparisons[/b][/color]][color=grey][b]Unaffiliated Nations[/b][/color]

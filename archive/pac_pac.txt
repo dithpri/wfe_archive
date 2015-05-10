@@ -1,15 +1,15 @@
-[B][color=yellow]Welcome to Pac Pac. Please endorse our Supreme Chancellor:[/color][/B][nation]Meoko[/nation][color=yellow]
+[B][color=yellow]Welcome to Pac Pac. Please endorse our President:[/color][/B][nation]Meoko[/nation][color=yellow]
 
 [b][u][i]Head of the Pac Pac Council[/b][/u][/i][/color]
-[color=red]Supreme Chancellor (The Capitol):[/color] [nation]Meoko[/nation] 
-[color=a01340]President of Pac Pac (The Capitol):[/color] [color=blue]TBD[/color]
+[color=red]Supreme Chancellor (The Capitol):[/color] [nation]Lackatoo[/nation] 
+[color=a01340]President of Pac Pac (The Capitol):[/color] [nation=Meoko]
 [color=7ff00] Vice President of Pac Pac (The Capitol):[/color] [nation]Bulmagon[/nation]
 
 [b][u][i][color=yellow] The Grand Council of Pac Pac[/b][/u][/i][/color]
 
-[color=blue] Chairperson of the People (District I):[/color][nation]Atticusland[/nation] 
+[color=darkblue] Chairperson of the People (District I):[/color][nation]Atticusland[/nation] 
 
-[color=darkred]Chairperson of the Military (District II): [nation]Maple Radio[/nation][/color] 
+[color=darkred]Chairperson of the Military (District II): [nation]Maple Radio[/nation][/color] [color=darkred]Suspended[/color]
 
 [color=488214]Chairperson of the Environment (District III):[/color] [nation]MURDEROUS GOATS[/nation] 
 
@@ -18,3 +18,4 @@
 
 
 [color=darkgreen]pingas[/color]
+[color=darkyellow]so many pingas[/color]

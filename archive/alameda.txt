@@ -10,11 +10,10 @@ Alameda, [nation]North Alameda[/nation]
 Alameda, [nation]East Alameda[/nation]
 Dead City, [nation]Otherside[/nation]
 Heart City, [nation]St Valentines[/nation]
-Woodevalladellus, [nation]Woodevalladellus1[/nation]
 
 Government 
 
 President: [nation]Alameda High School[/nation]
 Vice President: [nation]West Alameda[/nation]
 Congress: [nation]East Alameda[/nation], [nation]North Alameda[/nation], [nation]Otherside[/nation], [nation]St Valentines[/nation]
-Supreme Court: [nation]Woodevalladellus1[/nation], [nation]Nevfornia[/nation], [nation]Earhart[/nation], [nation]South Alameda[/nation]
+Supreme Court: [nation]Nevfornia[/nation], [nation]Earhart[/nation], [nation]South Alameda[/nation]

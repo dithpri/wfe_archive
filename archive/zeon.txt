@@ -5,8 +5,6 @@
 
 [color=green][i]A region for all fans of mecha and the [url=http://en.wikipedia.org/wiki/Gundam]Gundam Series[/url].[/i][/color]
 
-[hr][hr][b][color=goldenrod]His Sovereign[/color][color=grey]:[/color] [color=goldenrod][i]Prince Casval Deikun[/i][/color] [color=grey]([/color][nation=short]The Red Komet[/nation][color=grey])[/color][/b]
-[b][color=red]Prime Minister[/color][color=grey]:[/color][/b]
-[hr][hr]Regional Military: [region]Zeon Space Attack Force[/region]
-
-[url=http://sdgo.ogplanet.com/en/main.og]SDGO[/url] Clan: [url=http://clan.sdgo.ogplanet.com/clan/ZSAF/info]ZSAF[/url]
+[hr][hr][b][color=goldenrod]His Sovereign[/color][color=grey]:[/color]
+[color=red]Prime Minister[/color][color=grey]:[/color][/b]
+[hr][hr][B][color=green]Regional Military[/color][color=grey]:[/color][/b] [region]Zeon Space Attack Force[/region]

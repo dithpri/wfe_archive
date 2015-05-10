@@ -6,11 +6,11 @@ Constitutional Monarchy to be put in place ASAP
 [b]HM The Queen[/b] Vacant 
 [b]HRH The Prince[/b] Vacant 
 
-[u]Great Northmont Aristocracy, House of Bourbon[/u]
+[u] Aristocracy in the line of kin of The House of Bourbon[/u]
 [b]Dukes[/b] Lord Vacant 
 [b]Duchesses[/b] Lady Vacant
 
-[u]Great Northmont Government[/u]
+[u]Government[/u]
 [b]Prime Minister[/b] [nation]Correctional Facility[/nation]
 [b]Minister of Internal Affairs[/b] V
 [b]Minister of Foreign Affairs[/b] V
@@ -18,7 +18,7 @@ Constitutional Monarchy to be put in place ASAP
 [b]Minister of Justice[/b] V
 [b]Parliament consisting of the entire populous[/b]
 
-[u]Great Northmont Judiciary[/u]
+[u]Judiciary[/u]
 [b]Lord Chief Justice[/b] V
 [b]Lord Justice[/b] V
 [b]Lord Justice[/b] V
