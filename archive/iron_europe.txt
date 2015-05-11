@@ -5,7 +5,7 @@
 [color=#CC0000]Motto:[/color] Una Sancta Ecclesia; Multarum Gentium
 [color=#CC0000]Allies:[/color] [region]The Alliance of Protestant States[/region], [region]Elite Region Of Global Command[/region]
 [color=#CC0000]Viceroy:[/color] [nation=short]Baltic Christians[/nation]
-[color=#CC0000]Council of Kings:[/color] [nation=short]King William Arthur[/nation]
+[color=#CC0000]Council of Kings:[/color] [nation=short]King William Arthur[/nation], [nation=short]King Siegfried Albrecht[/nation]
 
 [color=#CC0000]Council of Bishops:[/color] [nation=short]Angelcynn Bishop of Westminster[/nation]
 [color=#CC0000]Missionaries:[/color] 
