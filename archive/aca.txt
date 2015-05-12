@@ -1,9 +1,8 @@
-[color=red][b]Welcome to the ACA. A region [i]completely dedicated[/i] to liberty and justice for [i]all[/i][/b][/color]
+[color=blue][b]Welcome to the ACA. A region [i]completely dedicated[/i] to liberty and justice for [i]all[/i][/b][/color]
 
-[b]Chancellor:[nation=short]Sense makers[/nation][/b]
+[b]President:[nation=short]Sense makers[/nation][/b]
 
-[b]Board of Advisors:
-[nation=short]-Arstotzka[/nation]
+[b]Congressmen:
 [nation=short]Betashock[/nation]
 [nation=short]Bakministan[/nation]
 [nation=short]-UNSC[/nation][/b]

@@ -9,12 +9,15 @@
 
 [b]Roles:[/b][list]
 [*][b][color=red]Founder:[/color][/b] [nation=short]Galangus[/nation]
-[*][b][color=green]WA Delegate:[/color][/b] [nation=short]Kechville[/nation]
+[*][b][color=green]WA Delegate:[/color][/b] [nation=short]Ah Ya Know[/nation]
 [*][b][color=#CC7A00]Consulting Nation:[/color][/b] [nation=short]Schurkenstaat[/nation]
 [/list]
 [hr]
 
 [b]Establishment:[/b] from [region]The Klein Realms[/region]
 Independence: 2015
+[hr]
+
+Embassies: [region=The Klein Realms]
 [hr]
 [b]Newspaper (shared with The Klein Realms):[/b] [url=https://www.nationstates.net/page=blank?lookup_newspaper=3319]The Klein Courier[/url]

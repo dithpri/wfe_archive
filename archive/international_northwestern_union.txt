@@ -1,13 +1,17 @@
 [B][color=blue][u]Welcome to the International Northwestern Union![/u][/color][/B]
 
 [i]Please endorse our[/i] [b]WA Delegate: [nation=short]El Fiji Grande[/nation][/b]; 
-[i]Also endorse our[/i] [b]Delegate-Elect: [nation=short]Topsail Empire[/nation][/b]; 
+[i]Also endorse our[/i] [b]Delegate-Elect: [nation=short]Topsail Empire[/nation][/b];
+[i]Also endorse our[/i] [b]Chancellor-Elect: [nation=short]New Educandi[/nation][/b]; 
 [B]Endorsement cap: 40[/B]
 
-[color=purple][B]Chancellor Elections[/B][/color]
+[color=purple][B]Minister of RP Elections[/B][/color]
 [list]
-[*][B][nation]Atlantica[/nation][/B]
-[*][B][nation]New Educandi[/nation][/B][/list]
+[*][nation=short]Askium[/nation]
+[*][nation=short]Celibrae[/nation]
+[*][nation=short]Falling Stars[/nation]
+[*][nation=short]Perpetually Bored[/nation]
+[/list]
 
 [B][color=red]Winner of the 2nd Delegate&amp;#39;s Medal:[/color] [nation=short]Greater New Poland[/nation][/B]
 

@@ -1,10 +1,10 @@
 [b]Like sand through an hourglass , these are , the days of our lives
 
-Raider [nation=short]Kknight[/nation]
-Raider [nation=short]Koth II[/nation]
-Raider [nation=short]Victor Savage[/nation]
-Raider [nation=short]Hired Contractor[/nation]
-Raider [nation=short]United Armed Republic[/nation]
-Raider [nation=short]Shogun[/nation]
+Fool 1[nation=short]Kknight[/nation] 
+Fool 2 [nation=short]Koth II[/nation]
+Fool 3 [nation=short]Victor Savage[/nation]
+Fool 4[nation=short]Hired Contractor[/nation]
+Fool 5[nation=short]United Armed Republic[/nation]
+Fool 6 [nation=short]Shogun[/nation]
 
 [url=https://www.youtube.com/watch?v=moSFlvxnbgk]Revolution![/url][/b]

@@ -2,9 +2,17 @@ The Region is made for the UM Confederation.
 
 We are a group of regions that have sent ambassadors to together fight threats to our existence.
 
-[url=http://goo.gl/LZZs6n]Articles Of Confederation[/url]
 
 Signed Regions:
 
 [region]UM Army[/region] 
- Ambassador: N/A                                  
+ Ambassador: N/A    
+                              
+[region]UM United Nations[/region] 
+ Ambassador: N/A         
+
+[region]UM Free Region[/region] 
+ Ambassador: N/A   
+
+[region]UM Congregation[/region] 
+ Ambassador: N/A   

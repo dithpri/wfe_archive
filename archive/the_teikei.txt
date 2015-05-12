@@ -1,9 +1,9 @@
-[color=blue][b]&raquo;Welcome to the [/color][i][color=green]Teikei Headquarters![/color][/i] [color=blue]Watch out for the drunken sailors and the vicious pandas! [/b][/color]
-[hr][b]&raquo;Important Links:[/b]
+[color=2E8B57][b]&raquo;Welcome to the [/color][i][color=808000]Teikei Headquarters![/color][/i] [color=2E8B57]Watch out for the drunken sailors and the vicious pandas! [/b][/color]
+[hr][color=808000][b]&raquo;Important Links:[/b][/color]
 [b]
 
 [url=https://www.nationstates.net/nation=harikene_takyando/detail=factbook/id=382278]The Teikei Charter[/url][/b]
-[b][region]The West Pacific[/region], Our Home Region[/b]
+[b][region]The West Pacific[/region], [color=2E8B57]Our Home Region[/b]
 [b]The Song of the Week:[url=https://www.youtube.com/playlist?list=PLm_szragqRNl7IGnxS2FjbbXZx0tbHaDF]Order your favorite songs in this list, 1-14![/url][/b]
 [hr][b]&raquo;Our members are:[/b]
 
@@ -19,5 +19,5 @@
 [nation]Ilegaki[/nation] [b]&laquo;No representative present yet[/b]
 
 [nation]Recuecn[/nation]
--Representative: [nation]Recuecn Contest[/nation]
+-Representative: [nation]Recuecn Contest[/nation][/color]
 [hr]
