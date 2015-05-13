@@ -4,7 +4,7 @@
 &amp;quot;Workers of the world, unite!&amp;quot;[hr]
 [U]Central Committee[/u]
 Chairman: [nation=short]Kanatistan[/nation]
-Seat Two: [nation=short]Shermaniya II[/nation]
+Seat Two: 
 Seat Three: [nation=short]Ruskslavia[/nation]
 Seat Four: [nation=short]Leftist Unity[/nation]
 Seat Five: [nation=short]Anarcomistan[/nation]

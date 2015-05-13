@@ -1,21 +1,21 @@
 [color=purple]Williams Family Region is the best![/color] 
 
-[color=orange]WE HAVE A NEW MINISTER OF TRADE!!![/color] 
+[color=orange]WE HAVE A NEW VICE PRESIDENT![/color] 
                                                                                                                         
 [color=turquoise]Executive:[/color].                                                                    
 [color=HotPink]Founder:[/color] [nation=short]Kiantopia[/nation]                         
-[color=HotPink]WA Delegate:[/color] [nation=short]Brandeford[/nation].               
-[color=HotPink]Vice-President:[/color] [nation=short]New Cealand[/nation].          
+[color=HotPink]WA Delegate:[/color] [nation=short]New Cealand[/nation].               
+[color=HotPink]Vice-President:[/color] [nation=short]brandeford[/nation]
                                                                                                                         
 [color=turquoise]Cabinet:[/color].                                                                       
 [color=red]Minister of Law:[/color] [nation=short]New Cealand[/nation].               
-[color=red]Minister of Court:[/color] [nation=short]Brandeford[/nation].                
+[color=red]Minister of Court:[/color] [nation=short]Warallies[/nation].                
 [color=red]Minister of War:[/color] [nation=short]Kiantopia[/nation].                     
 [color=red]Minister of Trade:[/color] [nation=short]bumstickle[/nation] 
 [color=red]Minister of Nation Recruitment:[/color] [nation=short]Timtopia03[/nation]
 
 [color=turquoise]Senate:[/color]
-[nation=short]Warallies[/nation]
+[color=turquoise]Senate Leader:[/color] [nation=short]warallies[/nation]
 [nation=short]Timtopia03[/nation]
 [nation=short]Bumstickle[/nation]
 [nation=short]Kiantopia2[/nation]

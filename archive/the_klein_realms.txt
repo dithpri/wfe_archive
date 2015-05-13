@@ -11,7 +11,7 @@
 [hr]
 
 [b]Government[/b][list]
-[*][u][b][color=red]Absolute Overlord: [nation]The Swanney[/nation][/color][/b][/u]
+[*][u][b]Absolute Overlord: [nation]The Swanney[/nation][/b][/u]
 [*]Designated Figurehead: Voting in affect[/list]
 [hr]
 
@@ -20,6 +20,11 @@
 
 [b]Date of Establishment: [/b]February 24, 2015
 [hr]
+
+[b]Requirements: [/b][list]
+[*]Civil and Political Rights of 50 or less
+[*]Must be a student at Klein
+[/list][hr]
 
 [b]Official Sub-Region[/b]: [region]The Meritocratic Assembly of Klein[/region][list]
 [*](For all Klein nations who have the weakness of freedom)[/list]
