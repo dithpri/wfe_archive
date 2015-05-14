@@ -1,8 +1,8 @@
-[b]Welcome to the [region=Grand Pegasus Enclave]![hr] [color=#000061]Executive Government:[/color]
+[b]Welcome to the [region=Grand Pegasus Enclave]![hr] [color=#000061]Executive Command:[/color]
 ~Founder:[/b] [nation=Fluttershy-]
 [b]~WA Delegate:[/b] ???
 
-[b][color=#000061]Cabinet:[/color]
+[b][color=#000061]High Command Positions:[/color]
 ~Co-Delegate: ???[/b] 
 [b]~Minister of Foreign Affairs: [nation=short]Zanzibarya[/nation][/b] 
 [b]~Minister of Internal Affairs: ???[/b]
@@ -14,3 +14,5 @@
 
 [color=#000061][i]Region Status:[/i][/b][/color][color=green]SAFE[/color]
 [b][i][color=#000061]Border Status:[/i][/b][/color][color=green]OPEN[/color][hr]
+
+[b][color=Red]The [/color][color=white]Yang[/color][color=red] to our [/color][color=#000061]Yin[/color][color=red], the [region=Legacien Satiri]!![/b][/color]

@@ -12,3 +12,4 @@ Minister of the Crown: [nation]Robin Federation[/nation]
 Minister of External Intelligence Services: [nation]Mangey[/nation]
 Minister of Finance: [nation]Reztopia[/nation]
 
+Honorary Minister: [nation]AdamHallistan[/nation]

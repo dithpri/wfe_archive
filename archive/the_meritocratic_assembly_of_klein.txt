@@ -7,6 +7,7 @@
 
 [b]Legislature[/b]: Joint legislation shared with the Klein Realms
 
+
 [b]Roles:[/b][list]
 [*][b][color=red]Founder:[/color][/b] [nation=short]Galangus[/nation]
 [*][b][color=green]WA Delegate:[/color][/b] [nation=short]Ah Ya Know[/nation]
@@ -14,6 +15,13 @@
 [/list]
 [hr]
 
+[b]Rules:[/b]
+
+Maintain a minimum civil rights rating of good and a minimum
+political freedoms rating of some unless civil rights are superb.
+If civil rights are superb, political freedoms are irrelevant and 
+a benevolent dictatorship may be established.
+[hr]
 [b]Establishment:[/b] from [region]The Klein Realms[/region]
 Independence: 2015
 [hr]

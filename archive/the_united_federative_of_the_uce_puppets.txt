@@ -2,11 +2,10 @@ The UCE PUPPETS stands for [b]P[/b]ersonal [b]U[/b]nremovable [b]P[/b]rotected [
 
 [u]The U.C.E. Council:[/u]
 
-[b]HEAD OF STATE:[/b][nation]Setgavarius[/nation]
-[b]CHAIRMAN:[/b][nation]The United Colonies of Earth[/nation]
-[b]SUPERVISOR:[/b][nation]Fondor[/nation]
+[b]PROLOCUTOR:[/b][nation]The United Colonies of Earth[/nation]
+[b]VICEROY:[/b][nation]Fondor[/nation]
+[b]SUPERVISOR:[/b][nation]The Astral Ascendancy of Skyzion and Fec[/nation]
 [b]PLENIPOTENTIARY:[/b][nation]Yeriga[/nation]
 [b]DIGNITARY:[/b][nation]Kanaria[/nation]
-[b]DIRECTOR:[/b][nation]Davorus[/nation]
+[b]DIRECTOR:[/b][nation]The Cantainian Canonical Consortium[/nation]
 [b]MAGNATE:[/b][nation]Southern Coalition[/nation]
-[b]CEO:[/b][nation]The Cantainian Canonical Consortium[/nation]

@@ -1,4 +1,5 @@
-Emperor: Stekesia VI &amp;quot;the Young&amp;quot; [nation=short]Stekesia[/nation]
+Emperor: Stekesia VI &amp;quot;the Young&amp;quot; &amp;quot;the Paranoid&amp;quot; [nation=short]Stekesia[/nation]
+-Steward, Emperor-Consort Symon Ducusia &amp;quot;the Kind&amp;quot;
 
 Chancellor: King Kres XVI &amp;quot;the Protector&amp;quot; [nation=short]Krensia[/nation]
 
@@ -7,3 +8,5 @@ Spymaster: Queen Tersia II &amp;quot;the Cruel&amp;quot; [nation=short]Henesia[/
 Arch-General: King Fusin III &amp;quot;the Shy&amp;quot; [nation=short]Dreasia[/nation]
 
 High Shaman: Queen Julia I &amp;quot;the Bold&amp;quot; [nation=short]Docusia[/nation]
+
+Other government positions will be made as necessary, should newcomers want one.

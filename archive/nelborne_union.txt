@@ -3,8 +3,8 @@
 [spoiler=Ministers]
 [b]Chairman:[/b][nation=Lormotia]
 [b]Defence Minister:[/b][nation=Ratnia]
-[b]Economic Minster:[/b]Undecided
-[b]Regional Minister:[/b]Undecided
-[b]Recruiment Minister:[/b]Undecided
+[b]Economic Minster:[/b][nation=Lucar]
+[b]Regional Minister:[/b][nation=Lucar]
+[b]Recruiment Minister:[/b][nation=Seketan]
 
 [/spoiler]
