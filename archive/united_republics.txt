@@ -1,7 +1,10 @@
-Only Republics/Democratic Republics/Federal Republics ... can enter in this Union !
-
-Welcome to the Republics !
+Only Republics--Democratic Republics--Federal Republics--People&amp;#39;s Republics--Most Serene Republic can enter in this Union !
 
 The WA Delegate is voted each 2 months. (1st January, 1st March, 1st May ...)
 
-WA Delegate : Angretia
+
+WA Delegate : [nation]Angretia[/nation]
+
+Prime Minister : [nation]Lathermiony[/nation]
+
+Next Project : Political Parties

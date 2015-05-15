@@ -13,7 +13,7 @@ High Commander: TBA
 Minister of the Interior: [nation=short]Picts[/nation]
 Minister of Finance: [nation=short]Sudweca[/nation]
 Minister of Foreign Affairs:[nation=short]Ragno[/nation]
-Minister of Culture: [nation=short]Risara[/nation]
+Minister of Culture: TBA
 [hr]
 [b]The High Court[/b]
 Chief Justice: [nation=short]New Saxumus[/nation]

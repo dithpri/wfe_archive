@@ -14,3 +14,12 @@ All nations
 [u]Veto Nations[/u]
 [nation]Albicia[/nation]
 [nation]Cotopia[/nation]
+[nation]Danforth[/nation]
+
+[b]Region Budget:[/b]
+[i]100 billion[/i]
+
+[u]Contributions[/u]
+[nation]Albicia[/nation]: [i]43.65 billion[/i]
+[nation]Cotopia[/nation]: [i]31.36 billion[/i]
+[nation]Danforth[/nation]: [i]24.98 billion[/i]

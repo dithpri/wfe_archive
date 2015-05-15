@@ -5,7 +5,7 @@
 [b][color=orange]Co-Delegate:[/color][/b] [nation=short]Requestionaria Protector[/nation]
 [b][color=blue]Consul #1:[/color][/b]TBD
 [b][color=green]Consul #2:[/color][/b] TBD
-[b]Emergency Dictator:[/b] TBD
+[b]Emergency Dictator:[/b] [nation=short]Aaronian_Fleet[/nation]
 [b][color=orange]Secretary of State:[/color][/b] TBD
 [b][color=violet]Minister of Defense:[/color][/b]TBD
 [b][color=green]Minister of Economics:[/color][/b]TBD

@@ -11,19 +11,24 @@
 [b]MODERATE POWER[/b]
 [NATION]Heritagea[/nation]
 [NATION]Vesquire[/nation]
+[NATION]MightyByzantium[/NATION]
 
 [b]POWER[/b]
 [NATION]Haglio[/NATION]
+[NATION]Accel[/nation]
 
 [b]TRIBES[/b]
 
 [b][u]CONTINENTS[/b][/u]
 
 [b]Boscualia:[/b] 
+[NATION]Accel[/nation]
+[NATION]MightyByzantium[/NATION]
 
 [b]Eastia:[/b]
 
 [b]Mono:[/b]
 [nation]Heritagea[/nation]
 [NATION]Vesquire[/nation]
+[NATION]MightyByzantium[/NATION]
 [NATION]Haglio[/nation]
