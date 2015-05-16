@@ -9,9 +9,9 @@ Vice -President: [nation=short]Aiakos[/nation][/color]
 
 [color=#00308F][B][u]The Presidium[/u][/B]
 [nation=short]Regnum XII[/nation]
-Foreign Minister: [nation=short]Aiakos[/nation]
-Inland Security: [nation=short]Ecuadorian Love[/nation]
-Justice: [nation=short]Glorious Days[/nation]
+Minister of Foreign Affairs: [nation=short]Aiakos[/nation]
+Minister for Inland Security: [nation=short]Ecuadorian Love[/nation]
+Minister of Justice: [nation=short]Glorious Days[/nation]
 
 [/color]
 

@@ -5,7 +5,7 @@
 [U]Central Committee[/u]
 Chairman: [nation=short]Kanatistan[/nation] (Provisional)
 Commissar of Customs: 
-Commissar of Defense:
+Commissar of Defense: [nation=short]Ruskslavia[/nation]
 Commissar of Foreign Affairs: [nation=short]Leftist Unity[/nation]
 Commissar of Justice:
 [/b][/color]

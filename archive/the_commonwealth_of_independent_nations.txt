@@ -1,9 +1,9 @@
 [b]REGIONAL GOVERNMENT[/b]
 
 Prime Minister: [nation]Monos[/nation]
-Deputy Prime Minister:[nation]Geo chorus[/nation] [b](Suspended Pending Investigation)[/b]
+Deputy Prime Minister:[nation]Geo chorus[/nation]
 Minister of State:[nation]Monos[/nation]
-Minister of Foreign Affairs:[nation]Geo chorus[/nation] [b](Suspended Pending Investigation)[/b]
+Minister of Foreign Affairs:[nation]Geo chorus[/nation]
 Minister of Internal Affairs:[nation]Tysoania[/nation]
 Minister of Justice:[nation]Riletopia[/nation] [b](Suspended Pending Investigation)[/b]
 Minister of Interregional Affairs: 

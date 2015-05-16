@@ -12,10 +12,11 @@
 [NATION]Heritagea[/nation]
 [NATION]Vesquire[/nation]
 [NATION]MightyByzantium[/NATION]
+[NATION]Accel[/nation]
 
 [b]POWER[/b]
 [NATION]Haglio[/NATION]
-[NATION]Accel[/nation]
+
 
 [b]TRIBES[/b]
 
@@ -26,9 +27,11 @@
 [NATION]MightyByzantium[/NATION]
 
 [b]Eastia:[/b]
+[NATION]Heritagea[/NATION]
 
 [b]Mono:[/b]
 [nation]Heritagea[/nation]
 [NATION]Vesquire[/nation]
-[NATION]MightyByzantium[/NATION]
 [NATION]Haglio[/nation]
+[NATION]Accel[/nation]
+[NATION]MightyByzantium[/NATION]

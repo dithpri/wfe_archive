@@ -9,7 +9,7 @@ Head Councilor: [nation]Flattnerk[/nation]
 Councilor: [nation]DardoIllyria[/nation]
 Councilor: [nation]The Anean Tribes[/nation]
 Councilor: [nation]Kares[/nation]
-Councilor:[nation]Nascon[/nation] 
+Councillor:
 
 [b][i]Justice Court:[/i][/b]
 Chief Justice: [nation]the republic rome[/nation]

@@ -2,3 +2,16 @@
 [color=blue]We are the Prussian Military order dedicated to [b]destroying[/b] the evil in this world![/color]
 We fight with [color=red][b][u]honour[/u][/b][/color], [color=orange][b][u]dignity[/u][/b][/color] and [color=blue][u][b]bravery[/b][/u][/color]!
 [b]Join the fight against the followers of the Black Riders![/b]
+
+[color=red]Military Ranks:[/color]
+Grandmaster: [nation=short]Preusenland[/nation]
+Raidmaster General: 
+Scout:
+Recruitment Officer:
+Training Officer:
+
+[color=blue]Political Positions:[/color]
+King: [nation=short]King of Preusenland[/nation]
+Ambassador: 
+Propoganda Minister:
+Minister of Justice:
