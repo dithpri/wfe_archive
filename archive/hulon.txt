@@ -7,31 +7,17 @@
 [b][u]POWER LIST[/b][/u]
 
 [b]SUPERPOWER[/b]
+[NATION]MightyByzantium[/NATION]
 
 [b]MODERATE POWER[/b]
 [NATION]Heritagea[/nation]
 [NATION]Vesquire[/nation]
-[NATION]MightyByzantium[/NATION]
 [NATION]Accel[/nation]
 
 [b]POWER[/b]
 [NATION]Haglio[/NATION]
+[NATION]Augustine-Marquez[/NATION]
 
 
 [b]TRIBES[/b]
 
-[b][u]CONTINENTS[/b][/u]
-
-[b]Boscualia:[/b] 
-[NATION]Accel[/nation]
-[NATION]MightyByzantium[/NATION]
-
-[b]Eastia:[/b]
-[NATION]Heritagea[/NATION]
-
-[b]Mono:[/b]
-[nation]Heritagea[/nation]
-[NATION]Vesquire[/nation]
-[NATION]Haglio[/nation]
-[NATION]Accel[/nation]
-[NATION]MightyByzantium[/NATION]

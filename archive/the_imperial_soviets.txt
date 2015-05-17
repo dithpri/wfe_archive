@@ -1,4 +1,4 @@
-Overlord: [nation=short]Infesto[/nation] 
+F&uuml;hrer: [nation=short]Infesto[/nation] 
 
 Deputy: [nation=short]Mars Factor[/nation] 
 
