@@ -1,4 +1,4 @@
-The NS Infrastructure Investment Bank is a region focused on the investment of mass infrastructure ranging from skyscrapers to public transport. It provides financial aid and advice for member nations.
+The NS Infrastructure Investment Bank is a region focused on the investment of mass infrastructure.It provides financial aid and advice for member nations.
 
 President: [nation]Chinvania[/nation]
 General Secretary: [nation]Cascadeterre[/nation]
@@ -16,4 +16,4 @@ NS Infrastructure Development Board:
 [nation]Changuria[/nation]
 [nation]Gueveria[/nation]
 [nation]Tubmoni[/nation]
-
+[nation]Koxembourg[/nation]

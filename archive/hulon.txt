@@ -8,11 +8,11 @@
 
 [b]SUPERPOWER[/b]
 [NATION]MightyByzantium[/NATION]
+[NATION]Accel[/nation]
 
 [b]MODERATE POWER[/b]
 [NATION]Heritagea[/nation]
 [NATION]Vesquire[/nation]
-[NATION]Accel[/nation]
 
 [b]POWER[/b]
 [NATION]Haglio[/NATION]

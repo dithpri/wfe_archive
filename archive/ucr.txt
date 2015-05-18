@@ -7,7 +7,7 @@ Chairman: [nation=short]Kanatistan[/nation] (Provisional)
 Commissar of Customs: 
 Commissar of Defense: [nation=short]Ruskslavia[/nation]
 Commissar of Foreign Affairs: [nation=short]Leftist Unity[/nation]
-Commissar of Justice:
+Commissar of Justice: [nation=short]Anarcomistan[/nation]
 [/b][/color]
 
 [hr]

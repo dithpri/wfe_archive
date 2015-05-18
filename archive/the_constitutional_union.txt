@@ -3,7 +3,7 @@ Delegate : [nation=short]Russcotia[/nation]
 Co-Delegate :[nation]Faragon[/nation]
 Minister of Defense: [nation]Passion Islands[/nation]
 Minister of Interior: Vacant
-Minister of Foreign Affairs: Vacant
+Minister of Foreign Affairs:[nation]Kiribata[/nation]
 Minister of Legislation: Vacant
 Minister of Recreation: Vacant
 

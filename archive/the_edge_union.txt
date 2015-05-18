@@ -10,6 +10,7 @@ Allies:
 [region]Dominion of Rattlehead[/region] 
 [region]The Resistance of Tyranasgaard[/region]
 [region]The Edgy Union[/region]
+[region]Bayside Church[/region]
 
 Enemy: 
 [region]Pure Sac Metropolitan Area[/region]

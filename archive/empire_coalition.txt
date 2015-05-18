@@ -3,7 +3,7 @@
 [color=red][i]We hold ministerial votes every month on the third, Delegate votes are held every four months on the fourth[/i][/color]
 [b][color=green]
 Ministers[/b]
-Minister of Foreign Affairs:
+Minister of Foreign Affairs:[nation]Casubo[/nation]
 Minister of Internal Affairs:
 Minister of Homeland Security:
 Minister of Education:

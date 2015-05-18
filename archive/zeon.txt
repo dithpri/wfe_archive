@@ -1,10 +1,10 @@
-[b][color=grey]SPACE COLONY,[/color] [i][color=red]SIDE 3[/color][/i] [color=grey]--[/color] [u][color=goldenrod]PRINCIPALITY OF ZEON[/color][/u][/b]
+[b][color=2d4551]SPACE COLONY,[/color] [i][color=962e4f]SIDE 3[/color][/i] [color=2d4551]--[/color] [u][color=cfb654]PRINCIPALITY OF ZEON[/color][/u][/b]
 
-[color=green]&amp;quot;[i]The Side farthest away from Earth.[/i]&amp;quot;[/color]
-[hr][hr][color=grey][b]Welcome, [i]spacenoid[/i], to the[/color] [u][color=goldenrod]Principality of Zeon[/color][/u][color=grey]![/color][/b]
+[color=4e8c5b]&amp;quot;[i]The Side farthest away from Earth.[/i]&amp;quot;[/color]
+[hr][hr][color=2d4551][b]Welcome, [i]spacenoid[/i], to the[/color] [u][color=cfb654]Principality of Zeon[/color][/u][color=2d4551]![/color][/b]
 
-[color=green][i]A region for all fans of mecha and the [url=http://en.wikipedia.org/wiki/Gundam]Gundam Series[/url].[/i][/color]
+[color=4e8c5b][i]A region for all fans of mecha and the [url=http://en.wikipedia.org/wiki/Gundam]Gundam Series[/url].[/i][/color]
 
-[hr][hr][b][color=goldenrod]His Sovereign[/color][color=grey]:[/color]
-[color=red]Prime Minister[/color][color=grey]:[/color][/b]
-[hr][hr][B][color=green]Regional Military[/color][color=grey]:[/color][/b] [region]Zeon Space Attack Force[/region]
+[hr][hr][b][color=cfb654]His Sovereign[/color][color=2d4551]:[/color]
+[color=c8234b]Prime Minister[/color][color=2d4551]:[/color][/b]
+[hr][hr][B][color=2e5747]Regional Military[/color][color=2d4551]:[/color][/b] [region]Zeon Space Attack Force[/region]
