@@ -5,7 +5,7 @@
 [b]Congressmen:
 [nation=short]Betashock[/nation]
 [nation=short]Bakministan[/nation]
-TBD[/b]
+[nation=short]Klaineland[/nation][/b]
 
 [b]DEFCON:[color=blue]FADE OUT[/color]
 5:[color=blue]FADE OUT[/color]

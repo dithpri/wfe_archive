@@ -12,8 +12,12 @@
 -President Deborah von Specjk(Head of State)
 -Prime Minister Julie Moore(Head of Gov)
 
+[b]Colonial Territories[/b]:
+[nation]Carlsvad Uloi[/nation]
+-High Commissioner Field Marshal David Peterson Marks(Government Representative)
+
 [b]Factbook[/b]:
-[url=http://www.nationstates.net/nation=german_indonesia/detail=factbook/id=297814]German Indonesia[/url] | [url=http://www.nationstates.net/nation=klemantan-borneo/detail=factbook/id=297811]Klemantan-Borneo[/url] | [url=http://www.nationstates.net/nation=rangoosia/detail=factbook/id=main]Rangoosia[/url]
+[url=http://www.nationstates.net/nation=german_indonesia/detail=factbook/id=297814]German Indonesia[/url] | [url=http://www.nationstates.net/nation=klemantan-borneo/detail=factbook/id=297811]Klemantan-Borneo[/url] | [url=http://www.nationstates.net/nation=rangoosia/detail=factbook/id=main]Rangoosia[/url] |  [url=http://www.nationstates.net/page=dispatch/id=423024]Carlsvad Uloi[/url]
 
 [b]Ambassador[/b]:
 [url=http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=302503&amp;amp;sid=60d9bd584317bce297919bba4ba48980]UTA[/url]- Dr. Reinhard Dietrich de Wizier-[nation]Klemantan-Borneo[/nation]

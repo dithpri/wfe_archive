@@ -18,10 +18,9 @@
 
 [b]Rules:[/b]
 
-Maintain a minimum civil rights rating of good and a minimum
-political freedoms rating of some unless civil rights are superb.
-If civil rights are superb, political freedoms are irrelevant and 
-a benevolent dictatorship may be established.
+Maintain a minimum civil rights rating of good and a minimum political freedoms
+rating of [b]some[/b], unless civil rights are [b]superb[/b]. If civil rights are [b]superb[/b], political
+freedoms are [b]irrelevant[/b] and a benevolent dictatorship may be established.
 [hr]
 [b]Establishment:[/b] from [region]The Klein Realms[/region]
 Independence: 2015

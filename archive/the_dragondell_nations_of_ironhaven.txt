@@ -6,18 +6,19 @@
 
 We protect Ironhaven, for we are Dragondell Nations!
 
-Days until Next Election: 8 days
+Days until Next Election: 7 days
 
 [color=green]Regional Government:[/color]
 Government: [nation]Kandivia[/nation]
 
 [color=Red]Regional Council:[/color]
 Minister of State: [nation]Wong-Dom[/nation] 
+Vice-Minister of State: [nation]Ashdania[/nation]
 Secretary of Defense: [nation]Le Nouveau France[/nation]
 
 [color=Purple]Iron Guard:[/color]
 General: [nation]Bryganland[/nation]
 
-Council Applicant(s): [nation]Ashdania[/nation], [nation]Soviet Muscovite Republic[/nation], [nation]Perim[/nation]
+Council Applicant(s): 
 
 Regional Hero of the Week: 

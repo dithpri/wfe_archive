@@ -1,7 +1,10 @@
+[b]Ranks[/b]
 Monarch: [nation]Raymonaea[/nation]
-
-Heir Apparent: [nation]FELumesticus[/nation]
-Prince Imperial: [nation]Raginmundia[/nation]
-Lord Protector: [nation]Raginmundia[/nation]
-
+Dominator:[nation]Raginmundia[/nation]
+Superpower:[nation]FELumesticus[/nation]
+Power:
+Powerbroker:
+Hermit:
+Minnow:
 Prime Minister: [nation]Raginmundia[/nation]
+Heir Apparent: [nation]FELumesticus[/nation]

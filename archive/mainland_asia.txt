@@ -4,11 +4,15 @@
 [i]Languages[/i] WIP
 [hr][b]Ministerial Positions[/b]
 
-&#149;Minister of Internal Affairs: [i]OPEN[/i]
+&#149;Minister of Internal Affairs
+[nation]Kampong Glam[/nation]
 &#149;Minister of External Affairs: [i]OPEN[/i]
 &#149;Minister of Defense: [i]OPEN[/i]
-&#149;Minister of Culture: [i]OPEN[/i]
+&#149;Minister of Culture
+[nation]Choina[/nation]
 &#149;Minister of Commerce: [i]OPEN[/i]
-&#149;Minister of the Environment: [i]OPEN[/i]
+&#149;Minister of the Environment
+[nation]South Singapore[/nation]
 &#149;Minister of Technology: [i]OPEN[/i]
-&#149;Minister of Intelligence: [i]OPEN[/i]
+&#149;Minister of Intelligence:
+[nation]The Slavic Race[/nation]
