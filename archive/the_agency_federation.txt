@@ -1,7 +1,13 @@
-[b][i]&amp;quot;All nations shall be treated fairly&amp;quot;[/b][/i]
-[region]The Agency Federation[/region] was founded by [nation]The Agency[/nation] and [nation]Rossiania[/nation].
-[b][color=blue]NEWS[/b][/color]
-
-[b][color=red]NOTICE![/color][/b]
-Nothing to see here...
-[color=blue][i]Last updated by:[nation]The Agency[/nation] on 4/20/2015 @ 10:24 AM EST[/color][/i]
+[b]Motto:[i]&amp;quot;All nations shall be treated fairly&amp;quot;[/b][/i]
+[hr[
+[region]The Agency Federation[/region] was founded by [nation]The Agency[/nation] and [nation]Tektronix[/nation].
+[hr]
+Leader:[nation]The Agency[/nation]
+Co-Leader:[nation]tektronix[/nation]
+[hr]
+[color=blue]News[/color]
+None
+[hr]
+[color=red]Notices[/color]
+None
+[hr]

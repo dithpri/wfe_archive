@@ -13,6 +13,7 @@
 [b]MODERATE POWER[/b]
 [NATION]Heritagea[/nation]
 [NATION]Vesquire[/nation]
+[NATION]GreaterAthens[/NATION]
 
 [b]POWER[/b]
 [NATION]Haglio[/NATION]

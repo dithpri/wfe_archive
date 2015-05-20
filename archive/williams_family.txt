@@ -8,7 +8,7 @@
 [color=HotPink]Vice-President:[/color] [nation=short]brandeford[/nation]
                                                                                                                         
 [color=turquoise]Cabinet:[/color].                                                                       
-[color=red]Minister of Law:[/color] [nation=short]New Cealand[/nation].               
+[color=red]Minister of Law:[Nation=short]The land of the grand wizard[/nation]               
 [color=red]Minister of Court:[/color] [nation=short]Warallies[/nation].                
 [color=red]Minister of War:[/color] [nation=short]Kiantopia[/nation].                     
 [color=red]Minister of Trade:[/color] [nation=short]bumstickle[/nation] 
@@ -18,6 +18,5 @@
 [color=turquoise]Senate Leader:[/color] [nation=short]warallies[/nation]
 [nation=short]Timtopia03[/nation]
 [nation=short]Bumstickle[/nation]
-[Nation=short]The land of the grand wizard[/nation]
 [Nation=short]evantopia12[/nation]
 [nation=short]Kiantopia2[/nation]

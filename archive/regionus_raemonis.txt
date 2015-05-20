@@ -1,7 +1,7 @@
 [b]Ranks[/b]
 Monarch: [nation]Raymonaea[/nation]
-Dominator:[nation]Raginmundia[/nation]
-Superpower:[nation]FELumesticus[/nation]
+Dominator:
+Superpower:[nation]FELumesticus[/nation] &amp;amp; [nation]Raginmundia[/nation]
 Power:
 Powerbroker:
 Hermit:

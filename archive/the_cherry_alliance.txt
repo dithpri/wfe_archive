@@ -6,7 +6,9 @@
 
 [color=red]Minister of Finance[/color]: Admiral [nation]The Quadratic Formula[/nation]
 
-[color=red]Minister of Foreign Affairs and Minister of Recruitment[/color]: Admiral [nation]Joseville[/nation]
+[color=red]Minister of Recruitment[/color]: Captain [nation]Yolobears[/nation]
+
+[color=red]Minister of Foreign Affairs[/color]: Admiral [nation]Joseville[/nation]
 
 [color=blue]Regional Currency[/color]: The Dustin
 
