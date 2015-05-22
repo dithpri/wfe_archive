@@ -1,4 +1,4 @@
-[color=blue]Welcome to Mainland Asia! If your nation is located in Asia, then this is the region for you! On an island, on the continent, all are welcome![/color]
+[b][color=blue]Welcome to Mainland Asia! If your nation is located in Asia, then this is the region for you! On an island, on the continent, all are welcome![/color][/b]
 [hr][i]Map[/i] WIP
 [i]Guidelines[/i] WIP
 [i]Languages[/i] WIP
@@ -14,5 +14,6 @@
 [b]&#149;Minister of the Environment:[/b]
 [nation]South Singapore[/nation]
 [b]&#149;Minister of Technology:[/b] [i]Vacant[/i]
+[b]&#149;Minister of Science:[/b] [i]Vacant[/i]
 [b]&#149;Minister of Intelligence:[/b]
 [nation]The Slavic Race[/nation]

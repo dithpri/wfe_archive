@@ -10,5 +10,7 @@ Assisting Members:
 Cephalopolis 
 Zactannia
 
+
+
 *NOTICE* 
-Accounts created during an active election MAY NOT vote in the election.
+Accounts created during an active election MAY NOT vote in that election.
