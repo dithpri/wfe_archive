@@ -5,11 +5,11 @@
 [color=turquoise]Executive:[/color].                                                                    
 [color=HotPink]Founder:[/color] [nation=short]Kiantopia[/nation]                         
 [color=HotPink]WA Delegate:[/color] [nation=short]New Cealand[/nation].               
-[color=HotPink]Vice-President:[/color] [nation=short]brandeford[/nation]
+[color=HotPink]Vice-President:[/color] [nation=short]the land of the grand wizard[/nation]
                                                                                                                         
 [color=turquoise]Cabinet:[/color].                                                                       
-[color=red]Minister of Law:[Nation=short]The land of the grand wizard[/nation]               
-[color=red]Minister of Court:[/color] [nation=short]Warallies[/nation].                
+[color=red]Minister of Law:[Nation=short]Kiantopia2[/nation]               
+Minister of Court:[/color] [nation=short]Warallies[/nation].                
 [color=red]Minister of War:[/color] [nation=short]Kiantopia[/nation].                     
 [color=red]Minister of Trade:[/color] [nation=short]bumstickle[/nation] 
 [color=red]Minister of Nation Recruitment:[/color] [nation=short]Timtopia03[/nation]
@@ -19,4 +19,4 @@
 [nation=short]Timtopia03[/nation]
 [nation=short]Bumstickle[/nation]
 [Nation=short]evantopia12[/nation]
-[nation=short]Kiantopia2[/nation]
+[nation=short]Brandeford[/nation]

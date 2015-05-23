@@ -7,7 +7,7 @@ We protect Ironhaven!
 
 [color=Blue]Please endorse all members of the regional government[/color]
 
-Days until Next Election: 5 days
+Days until Next Election: 4 days
 
 [color=green]Regional Government:[/color]
 
@@ -16,6 +16,7 @@ Regional Director: [nation]Kandivia[/nation]
 [color=Red]Regional Council:[/color]
 
 Minister of State: [nation]Wong-Dom[/nation] 
-Chancellor of Recruitment: [nation]Ashdania[/nation]
+Chancellor of Internal Affairs: [nation]Ashdania[/nation]
 High Officer of Defense: [nation]Le Nouveau France[/nation]
 Head Archivist: [nation]Soviet Muscovite Republic[/nation]
+Representative of the People: TBD (election in progress)

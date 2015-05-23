@@ -1,12 +1,14 @@
-Supreme Emperor: [nation]Bakura-Xwhee[/nation] - Lord Betoneva
+[color=red][b]Supreme Emperor: [nation]Bakura-Xwhee[/nation] - Lord Betoneva[/color]
 
 Bakuran Senate
 
 Prime Minister: Vacant
 
-Grand Admiral: [nation]Hell Risers[/nation] - Cazier Simiks
+[color=purple]Grand Admiral: [nation]Hell Risers[/nation] - Cazier Simiks[/color]
 
-Minister of Finance: Vacant
+Arch-General: Vacant
+
+[color=blue]Minister of Finance and Business: [nation]Bakur RepulsorCorp[/nation] - G&aacute;l Bogd&aacute;n[/color]
 
 Minister of Environment: Vacant
 
@@ -16,5 +18,4 @@ Minister of Embassies: Vacant
 
 Minister of Welfare: Vacant
 
-Minister of Torture: Vacant
-
+Minister of Torture: Vacant[/b]

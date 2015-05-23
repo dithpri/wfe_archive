@@ -5,10 +5,13 @@
 [color=maroon][b]Regional Government:[/b][/color]
 
 [b]Emperor:[/b] [nation]British Fascist Empire[/nation]
-[b]Regional Governor:[/b] [nation]The United Kingdoms of Austinarya[/nation]
-[b]Head of the Armed Forces:[/b] [nation]Arnoria[/nation]
-[b]Minister for Diplomacy:[/b] [nation]Great Britain and Oceania[/nation]
-[b]Minister for Education:[/b] [nation]Social Republic of Bellona[/nation]
-[b]Minister for Law:[/b] [nation]Australasian Restoration Cooperative[/nation]
 
+[b]Regional Governor:[/b] [nation]The United Kingdoms of Austinarya[/nation]
+
+[b]Head of the Armed Forces:[/b] [nation]Arnoria[/nation]
+
+[b]Minister for Diplomacy:[/b] [nation]Great Britain and Oceania[/nation]
+
+[b]Minister for Education:[/b] [nation]Social Republic of Bellona[/nation]
+__________
 [b]Defcon: [color=orange]2: High Level Threat[/b][/color]
