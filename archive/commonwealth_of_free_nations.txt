@@ -19,7 +19,7 @@
 [nation=short]Markotovia[/nation] [b]([color=red]L[/color])[/b]
 
 [b]Minister of Justice:[/b] 
-[nation=short]Bearlong[/nation] [b]([color=Green]R[/color])[/b][/list] 
+ [i]Vacant[/i][/list] 
 [hr][b][u][color=navy]Chief Justice of the CFN[/color][/b][/u]
 
 [list][b]Chief Justice:[/b]

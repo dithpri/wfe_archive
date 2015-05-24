@@ -14,6 +14,7 @@
 [NATION]Heritagea[/nation]
 [NATION]Vesquire[/nation]
 [NATION]GreaterAthens[/NATION]
+[nation]Plataeae[/nation]
 
 [b]POWER[/b]
 [NATION]Haglio[/NATION]

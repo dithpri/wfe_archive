@@ -1,11 +1,11 @@
-King Of The Region: [nation]Zeopold[/nation]              
-Queen Of The Region: [nation]Charlia[/nation]
+[color=orange]King Of The Region:[/color] [nation]Zeopold[/nation]              
+[color=violet]Queen Of The Region:[/color] [nation]Charlia[/nation]
 
-Our Regional Prime Minister is [nation]Penguindia[/nation]
+[color=gold]Our Regional Prime Minister is[/color] [nation]Penguindia[/nation]
 
-Please endorse [nation]Egalitia[/nation] for WA delegate
+Please endorse [nation]Egalitia[/nation] for WA delegate and the Regional King [nation]Zeopold[/nation]
 
-[b]WE NEED NATIONS TO FILL TWO POSITIONS, MINISTER OF MONARCHY AND HOME OFFICE. MESSAGE THE WA DELEGATE TO ANNOUNCE YOUR NOMINATION FOR EITHER JOB[/b]
+[color=red]WE NEED NATIONS TO FILL TWO POSITIONS, MINISTER OF MONARCHY AND RECRUITMENT MINISTER. MESSAGE THE WA DELEGATE TO ANNOUNCE YOUR NOMINATION FOR EITHER JOB[/color]
 
-Minister of Monarchy Nominations: [nation]Eceengee[/nation]
-Secretary of State for the Home Department Nominations: [nation]Alectrona[/nation],[nation]pepedanka[/nation]
+[color=chrome]Minister of Monarchy Nominations:[/color] [nation]Eceengee[/nation], [nation]Alectrona[/nation]
+[color=crimson]Minister of Recruitment:[/color] [nation]Spindora[/nation]

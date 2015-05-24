@@ -20,17 +20,17 @@ All nations
 [nation]Rahachennan[/nation]
 
 [b]Region Budget:[/b]
-[i] $9,097,915,375,406.89 
+[i] $9,112,413,333,447.64 
 [/i]
 
 [u]Contributions[/u]
-[nation]Albicia[/nation]: [i] $4,327,067,494,005.50 
+[nation]Albicia[/nation]: [i] $4,336,502,274,450.71
 [/i]
-[nation]Cotopia[/nation]: [i] $3,303,568,449,723.22 
+[nation]Cotopia[/nation]: [i] $3,306,807,666,666.56 
 [/i]
-[nation]Danforth[/nation]: [i] $1,323,743,078,368.11 
+[nation]Danforth[/nation]: [i] $1,325,089,752,330.48
 [/i]
-[nation]Ehrenberg[/nation]: [i] $142,635,806,937.22 
+[nation]Ehrenberg[/nation]: [i] $143,108,997,046.23
 [/i]
-[nation]Rahachennan[/nation]: [i] $900,546,372.85 
+[nation]Rahachennan[/nation]: [i] $904,642,953.66 
 [/i]
