@@ -2,6 +2,9 @@
 [color=red]PREMIER:[/color]
 [nation]Hai Jin Lao[/nation] [color=#22ff00]GSP[/color]
 
+[color=red]CHANCELLOR:[/color]
+[nation]The Don River[/nation] [color=#22ff00]GSP[/color]
+
 [color=red]CENTRAL COMMITTEE:[/color]
 [nation]Lockewood[/nation] [color=purple]IND[/color]
 [nation]The Don River[/nation] [color=#22ff00]GSP[/color]

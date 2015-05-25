@@ -16,4 +16,4 @@
 
 [b]Minister for Law:[/b]: [nation]Australasian Restoration Cooperative[/nation]
 __________
-[b]Defcon: [color=orange]2: High Level Threat[/b][/color]
+[b]Defcon: [color=red]1: Extreme Threat[/b][/color]

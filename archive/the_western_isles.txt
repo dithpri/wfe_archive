@@ -19,7 +19,7 @@ Justice: [nation=short]Linaviar[/nation]
 Justice: [nation=short]Bhumidol[/nation]
 Justice: [nation=short]Dibeg[/nation]
 Justice: [nation=short]Cottoria[/nation]
-Justice: 
+Justice: [nation=short]Vickersburgh[/nation]
 
 [b]Legislative Branch[/b]
 All nations may propose laws

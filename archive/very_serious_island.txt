@@ -8,3 +8,5 @@ Nations:
 [nation]robusting[/nation] - Will
 [nation]gaiaus[/nation] - Connor
 [nation]falshun[/nation] - Andrew
+[nation]receptus_auxilium[/nation] - Julius
+[nation]devolution[/nation] - Will
