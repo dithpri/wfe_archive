@@ -3,9 +3,9 @@
 [b][color=red]Regional Government:[/color][/b]
 Delegate : [nation=short]Russcotia[/nation]
 Co-Delegate :[nation]Faragon[/nation]
-Minister of Defense: [nation]Passion Islands[/nation]
+Minister of Defense: Vacant
 Minister of Interior: Vacant
-Minister of Foreign Affairs:[nation]Kiribata[/nation]
+Minister of Foreign Affairs:Vacant
 Minister of Legislation: Vacant
 Minister of Recreation: Vacant
 

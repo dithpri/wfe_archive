@@ -12,11 +12,11 @@ Accounts created during an active election MAY NOT vote in that election.
 
 ------------------------------------------------------------------------------------
 
-http://www.politicalcompass.org/crowdchart?PCA+Green=-9.5%2C-10.0&amp;amp;PCA+Socialist=-4.63%2C-0.87&amp;amp;name=Anti+Fascist&amp;amp;ec=9.5&amp;amp;soc=-9.5
+http://www.politicalcompass.org/crowdchart?Anti+Fascist=9.5%2C-9.5&amp;amp;PCA+Green=-9.5%2C-10.0&amp;amp;PCA+Socialist=-4.63%2C-0.87&amp;amp;name=PCA+Democratic&amp;amp;ec=-4.63&amp;amp;soc=-4.46
 
 [b]Party leaders:[/b]
 PCA Green- Caussia
 Anti-Fascist- ChinRussNam
 Socialist- The5
+Democratic- Zactannia
 
-Don&amp;#39;t like any of these parties? Talk to Caussia about forming your own!

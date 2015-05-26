@@ -17,7 +17,7 @@ Delegate:[nation=short]Statonville[/nation]
 Minister of recruitment:
 Minister of Role play:[nation=short]vektrav[/nation]
 Minister of foreign affairs:
-Minister of government efficiency:
+Minister of government efficiency:[nation=short]Jmisrael[/nation]
 
   [b]THE MILITARY OF GZ[/b]                            
 Minister of raids:[nation=short]kortat[/nation]
