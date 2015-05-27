@@ -6,8 +6,6 @@ Minister of Defense: [b]23-D[/b], [nation=short]Robotic Despotism[/nation]
 
 Minister of Intelligence: [b]Saroneth[/b], [nation=short]Saroneth[/nation]
 
-Minister of Diplomacy: [b]Crow Hyperion[/b], [nation=short]Clan Hyperion[/nation]
-
 Minister of Embassies: [b]Kyle Bear[/b], [nation=short]Bear City[/nation]
 
 Minister of Religion: [b]Jeff Connor[/b], [nation=short]Cathordain[/nation]

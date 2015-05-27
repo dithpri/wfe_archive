@@ -4,9 +4,9 @@
 
 [b][u][color=#0000BF]Regional Government[/color][/u][/b]
 
-[b]Ruling Party:[/b] [color=#FFBF00]ELECTIONS 2K15[/color]
-[b]The President[/b]: [color=#FFBF00]ELECTIONS 2K15[/color]
-[b]Vice President:[/b] [color=#FFBF00]ELECTIONS 2K15[/color]
+[b]Ruling Party:[/b] [color=#008000]Atlantic Independence Party[/color]
+[b]The President[/b]: [nation]Altis-Stratis[/nation]
+[b]Vice President:[/b] [nation]Delvosity[/nation]
 
 [b][u][color=#0000BF]General Assembly[/color][/u][/b]
 

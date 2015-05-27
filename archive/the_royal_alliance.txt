@@ -8,7 +8,7 @@
 [color=brown]Governor-General[/color]: [nation=short]Lagrangian[/nation]
 
 [u]Executive[/u]
-[color=purple]Prime Minister[/color]: TBD
+[color=purple]Prime Minister[/color]: [nation=short]Paseo[/nation]
 [color=purple]Deputy Prime Minister[/color]: TBD
 
 Parliament: [color=green]All WA Member Nations[/color]

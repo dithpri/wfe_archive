@@ -7,6 +7,8 @@ WA Delegate: [nation=short]Socialist Republics of Russia[/nation]
 Vice WA Delegate: [nation=short]Omensa[/nation]
 War Commissar: [nation=short]Communist Skyrim[/nation]
 General of the Red Army: [nation=short]Sween[/nation]
+Chief of the Regional Security Agency: [nation=short]Zipneta[/nation]
+Minister of Internal Affairs: [nation=short]Communal North[/nation]
 
 Security Level
 DEFCON 3 - HIGH READINESS
