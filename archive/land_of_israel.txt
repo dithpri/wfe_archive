@@ -1,11 +1,11 @@
-[b][color=#000061]This nation has been liberated by the esteemed [region=Judean League]![/color][/b]
+[b][color=#000080]This nation has been liberated by the esteemed [region]Judean League[/region]! [/b][/color]
 
 [i][color=blue]Into enemy territory rode the valiant defenders:[/color][/i]
 
 [nation]Asqelon[/nation]
 [nation]The Khazar[/nation]
 [nation]Yehud-Medinata[/nation]
-[nation]Yerushaliam[/nation]
+[nation]The Reborn Superpower Republic of Yerushaliam[/nation]
 [nation]Tel-Gath[/nation]
 [nation]Timnah[/nation]
 [nation]Phoeniciea[/nation]

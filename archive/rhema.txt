@@ -1,2 +1,11 @@
-Rhema is a small continent located somewhere in the Western side of the globe, away from all other land.
-It is home to the 4 nations as follows: Mecha-Germany, Ardekreig, Laviette, &amp;amp; Pritis.
+[region]Rhema[/region] is a small continent located somewhere in the Western side of the globe, away from all other land.
+It is home to the 6 nations as follows: Laviette, Mecha-Germany, Ardekreig, Pritis, Pudiland, &amp;amp; Voynasen.
+
+The map of Rhema can be found [url=http://i.imgur.com/QYtVZei.png]here[/url].
+
+[color=brown]Brown[/color] = [nation]Mecha-Germany[/nation]
+[color=purple]Purple[/color] = [nation]Pritis[/nation]
+[color=orange]Orange[/color] = [nation]Ardekreig[/nation]
+[color=green]Green[/color] = [nation]Laviette[/nation]
+[color=red]Red[/color] = [nation]Pudiland[/nation]
+[color=yellow]Yellow[/color] = [nation]Voynasen[/nation]

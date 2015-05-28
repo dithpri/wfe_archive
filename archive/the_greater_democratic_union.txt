@@ -1,8 +1,8 @@
 [b][color=midnightblue]The Greater Democratic Union[/color][/b]
 
-[hr][b][u][color=midnightblue]1st Regional Consulate[/b][/u][/color]
-[color=midnightblue]First Consul:[/color] [nation]Earth and the Moon[/nation]
-[color=midnightblue]Second Consul:[/color] [nation]Khasnia[/nation]
 [hr]
+
+[b][u][color=midnightblue]Regional Administration[/b][/u][/color]
+[color=midnightblue]Founder :[/color] [nation]Earth and the Moon[/nation]
 
 Part of [b][region]The Democratic Union[/region][/b]

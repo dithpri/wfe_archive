@@ -1,15 +1,1 @@
-Founder:
-[nation]Caraway[/nation]
-Founded in Oct. 2014
-[hr]
-[color=blue]This region has been successfully defended from [region]The Black Riders[/region]![/color]
-
-[color=neonred]The follow regions supported the defense:[/color]
-[region]The Caldonian Union[/region]
-[region]The Utopia of Supremacy[/region]
-
-[color=neonred]The following nations were key players in the defense:[/color]
-[nation]New Ridgewood[/nation]
-[nation]Oakenfield[/nation]
-[nation]The spectacularly amazing[/nation]
-[nation]Fabulously Fabulous[/nation]
+This is the Colonies of Caraway.
