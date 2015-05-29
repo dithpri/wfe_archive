@@ -5,7 +5,7 @@ Welcome to the [color=red]Slavic[/color] [color=blue]Union[/color]. The second [
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 PRIME MINISTER: [nation]Of Herbshire[/nation]
-DEPUTY PRIME MINISTER: [i]Vacant[/i]
+DEPUTY PRIME MINISTER: [i][nation]Far East and Siberia[/nation][/i]
 SECRETARY-GENERAL: [i]Vacant[/i]
 MINISTER OF INTERNAL AFFAIRS: [i]Vacant[/i]
 MINISTER OF FOREIGN AFFAIRS: [i]Vacant[/i]

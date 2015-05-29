@@ -1,10 +1,10 @@
-[region]Olsonia[/region] is a burgeoning region. We welcome you to join us!
-
 [b]Founder:[/b] [nation]Thaddeus Olson[/nation]
 [b]Grand Leader:[/b] [nation]Thaddeus Olson[/nation]
 [b]Chancellor:[/b] [nation]Allura[/nation]
 
-Apply to join the Council now! Contact [nation]Allura[/nation].
+[u]Applications to:[/u]
+Council: [nation]A Colony[/nation]
+Impervious Guard: [nation]Alilham[/nation]
 
 [u][color=red]COUNCIL[/color][/u]
 
@@ -14,12 +14,10 @@ Apply to join the Council now! Contact [nation]Allura[/nation].
 [b]Chief Justice:[/b] [nation]Francomania[/nation]
 [b]Foreign Affairs:[/b] [nation]Paradisica[/nation]
 
+[b][u][color=blue]IMPERVIOUS GUARD[/color][/u][/b]
 
-[u]Deputies:[/u]
+[b]Supreme Commander-in-Chief:[/b] [nation]Allura[/nation]
+[b]First General:[/b] [nation]Alilham[/nation]
 
-[b]Defence:[/b] [nation]Medinatomachi[/nation]
-[b]Speaker:[/b] [nation]Konga Tribe[/nation]
-[b]Manpower:[/b] [nation]Coniferous[/nation]
-[b]Justice:[/b] [nation]Shelve Dance[/nation]
 
 [b][color=green]HAVE A GREAT TIME!![/color][/b]

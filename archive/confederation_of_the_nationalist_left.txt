@@ -11,15 +11,11 @@
 [b]Supreme Leader:    [/b][nation=short]Auxorii[/nation] [color=red] (C&amp;amp;WP)[/color]
 [b]Chancellor: [/b][nation=short]Pheeblan[/nation] [color=red] (C&amp;amp;WP)[/color]
 [b]Commander: [/b][nation=short]Taragui[/nation] [color=red](C&amp;amp;WP)[/color]
-[b]Overseer: [/b] [i]Vacant[/i]
-[b]Minister of Law: [/b] [i]Vacant[/i]
-[b]Cheif of Armed Forces:[/b] [i]Vacant[/i]
-[b]Deputy:[/b] [i]Vacant[/i][hr]
-
+[b]Overseer: [/b] [nation=short]Monzarista[/nation] [color=red](C&amp;amp;WP)[/color]
 
 [b][color=gold]WA nations, please endorse the new Chancellor,                  [nation=short]Pheeblan[/nation], those who do not face ejection. [/color] [color=red]Join the Communist &amp;amp; Workers Party![/color][/b] [b][color=gold]Glory to the Beloved Supreme Leader, [nation]Auxorii[/nation]![/color][/b]
 
 
-[b]DEFCON:[/b] [color=lime]4[/color]
+[b]DEFCON:[/b] [color=blue]5[/color]
 
-[b][color=red]ENDORSEMENT CAP: [/color]1[/b]
+[b][color=red]ENDORSEMENT CAP: [/color]0[/b]
