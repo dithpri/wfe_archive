@@ -9,10 +9,11 @@
 Delegate: [nation=short]metawon[/nation]
 Vice Delegate: 
 Minister of the Interior: 
-Minister of Foreign Affairs:
-Minister of Defense: 
+Minister of Foreign Affairs: [nation=short]zangral[/nation]
+Minister of Defense: [nation=short]Purple guy[/nation]
 Minister of Recreation:
-[color=blue]If you would like a position in government, please telegram [nation=short]abust1[/nation] or [nation=short]metawon[/nation].[/color]
+
+[b][color=blue]If you would like a position in government, please telegram [nation=short]abust1[/nation] or [nation=short]metawon[/nation].[/color][/b]
 [hr]
 [b][color=red]We helped defeat the black riders![/color][/b]
 

@@ -4,14 +4,13 @@
 
 [hr]
 [b][color=green]The Imperial Council:[/b][/color]
-[b]Emperor:[/b] [b][nation=short]Gradea[/nation][/b]
+[b]Emperor:[/b] [b][nation=short]Gradea[/nation][/b] 
 [b]Regent:[/b] [b][nation=short]Avendonia[/nation][/b]
 [b]Chancellor:[/b] [b][nation=short]Matthewmania[/nation][/b]
+[hr]
+[b][i]Regional news:[/b][/i] The Imperial Council founded, constitution scrapped. 
 
-[hr][i][b][u]Information for residents:[/b][/u][/i]
-[b]ENDORSEMENTS:[/b] Please endorse Chancellor [nation=short]Matthewmania[/nation]. Current endorsement cap is [b][u]0[/b][/u]
-[b]FEATURED ROLEPLAY:[/b]  
-[b]MAP:[/b] [url=https://www.nationstates.net/page=dispatch/id=428282]Regional map[/url]
-[b]PUPPET REGISTRY:[/b] Register your puppets [url=http://www.nationstates.net/page=dispatch/id=428285][b]HERE[/b][/url]
-[b]PUPPET STORAGE:[/b] [b][region]Archmont Puppet Dump[/region][/b]
-[b]MILITARY:[/b] Archmont is a member of the Anchor Network. Anchor Network Special Forces headquarters is [region]Camp Rabbit[/region].
+[hr][i][b][u][color=red]Information for residents:[/b][/u][/i][/color]
+[b][color=blue]ENDORSEMENTS:[/b] Please endorse Chancellor [nation=short]Matthewmania[/nation]. Current endorsement cap is [b][u]1[/b][/u][/color]
+[color=green][b]FEATURED ROLEPLAY:[/b][/color]
+[color=red][b]MAP:[/b] [url=https://www.nationstates.net/page=dispatch/id=428282]Regional roleplay map[/url][/color]

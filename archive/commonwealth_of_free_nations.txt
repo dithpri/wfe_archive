@@ -19,7 +19,7 @@
 [nation=short]Markotovia[/nation] [b]([color=red]L[/color])[/b]
 
 [b]Minister of Justice:[/b] 
- [i]Election in progress[/i][/list] 
+ [nation=short]Sulania[/nation] [b]([color=red]L[/color])[/b] 
 [hr][b][u][color=navy]Chief Justice of the CFN[/color][/b][/u]
 
 [list][b]Chief Justice:[/b]

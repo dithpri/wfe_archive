@@ -3,7 +3,7 @@
 [b][color=red]Regional Government:[/color][/b]
 Delegate : [nation=short]Russcotia[/nation]
 Co-Delegate :[nation]Faragon[/nation]
-Minister of Defense: Vacant
+Minister of Defense: [nation]IGI[/nation]
 Minister of Interior: Vacant
 Minister of Foreign Affairs:Vacant
 Minister of Legislation: Vacant

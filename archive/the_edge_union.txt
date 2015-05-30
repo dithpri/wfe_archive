@@ -18,6 +18,8 @@ Head of Industry and Trade:
 [nation=short]Vernarnia[/nation]
 Head of Militarized Aid:
 [nation=short]Alextrailia[/nation]
+Regional Beverage Control:
+[nation]The Dr Pepper Snapple Group[/nation]
 
 Allies: 
 [region]Dominion of Rattlehead[/region] 
@@ -27,6 +29,3 @@ Allies:
 
 Enemy: 
 [region]Pure Sac Metropolitan Area[/region]
-
-Regional Beverage Control:
-[nation]The Dr Pepper Snapple Group[/nation]
