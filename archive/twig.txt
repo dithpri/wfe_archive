@@ -6,6 +6,6 @@ Editor: [nation=short]Tuernia[/nation]
 Reporter for Roleplay Affairs: [nation=short]Shancion[/nation]
 Reporter for Regional Politics: [nation=short]Stoizzle[/nation]
 Reporter for Community Activities: [nation=short]Mubaru[/nation]
-Opinion Writer: [nation=short]Randmar[/nation]
+Writer: [nation=short]New Aapelistan[/nation]
 
 New publications and archived editions located at [nation=short]TWIG Headquarters[/nation]

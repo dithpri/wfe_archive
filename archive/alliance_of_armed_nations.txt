@@ -5,9 +5,10 @@
 Vice-Delegate: [nation]Asimostan[/nation]
 Prime Minister: [nation]New-Netherealm[/nation]
 Minister of the Interior: [nation]Prison Guard[/nation]
-Minister of Foreign Relations: [nation]Australian Antarctica[/nation]
+Minister of Foreign Relations: [nation]The republic of Metropolitania[/nation]
 Minister of Intelligence: [nation]Alcatrazin[/nation]
-Minister of Defense: [nation]Drangoniov[/nation]
+Minister of Defense: [nation]the Lost Souls[/nation]
+Ambassador: [nation]Australian Antarctica[/nation]
 [hr]
 [color=#437C17][u][I][b]Quick Links[/u][/I][/b]
 &amp;gt;&amp;gt;&amp;gt;[region]Warzone AOAN[/region]&amp;lt;&amp;lt;&amp;lt;

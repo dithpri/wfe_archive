@@ -10,7 +10,8 @@
 [color=emerald]Princess of the Athenians:[nation=short]The isle of deblue[/nation] [/color]
 [color=fucsia]Imperial Guardian:[/color] [nation=short]Guardian of Wisdom[/nation]
 [color=cyan]Imperial Counselor of the Athenians:[/color]
-[color=cyan]Great Stratagos:[/color][/b][/i]
+[color=cyan]Great Stratagos:[/color]
+[color=oxide]Recruiter:[/color] [nation=short]Messenger of the Empire[/nation][/b][/i]
 [hr]
 
 [color=cyan]Map:[url=http://i.imgur.com/mQkmPtw.png]http://i.imgur.com/mQkmPtw.png[/url][/color]

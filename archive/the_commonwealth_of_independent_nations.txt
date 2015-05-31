@@ -1,15 +1,13 @@
 [b]REGIONAL GOVERNMENT[/b]
 
+President: [nation]Geo chorus[/nation]
 Prime Minister: [nation]Monos[/nation]
-Deputy Prime Minister:[nation]Geo chorus[/nation]
-Minister of State:[nation]Monos[/nation]
-Minister of Foreign Affairs:[nation]Geo chorus[/nation]
-Minister of Internal Affairs:[nation]Tysoania[/nation]
-Minister of Justice:[nation]Riletopia[/nation] [b](Suspended Pending Investigation)[/b]
-Minister of Interregional Affairs: 
-Minister of Defence: [nation]Arur[/nation]
-Forum Commissioner: [nation]Republica est Magna[/nation]
+
+Minister of Justice: [nation]Tysoania[/nation] 
+Minister of Defence: [nation]Monos[/nation]
+Minister of Foreign Affairs:  [nation]Orthonac[/nation]
+Minister of Internal Affairs:  [nation]Riletopia[/nation]
+Minister of Commerce and Trade:  [nation]Arur[/nation]
+Forum Commissioner: [nation]Republica est Magna[/nation] 
 
 [url=http://pre12.deviantart.net/cf42/th/pre/i/2015/121/7/3/001_by_geochorus-d8l7moq.png]Regional Map[/url]
-[url=http://commonwealth.boards.net/]Regional Forum[/url]
-[url=https://www.youtube.com/watch?v=WIXGUzRo3H0]This Week&amp;#39;s Endorsed Link[/url]

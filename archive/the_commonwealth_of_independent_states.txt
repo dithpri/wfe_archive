@@ -3,9 +3,7 @@
 [hr]The CIS is a regional intergovernmental organization, whose the main purpose is a cooperation in political, economic, environmental, humanitarian, cultural and other fields among its members.
 [hr][u][b][color=royalblue]Regional Administration:[/color][/b][/u]
 Chairman: [nation=short]The Eurasian Federation[/nation]
-Executive Secretary: [i]vacant[/i]
-[hr][b][color=royalblue]Affiliated regions:[/b][/color]
-[region]Abkhazia[/region]
-[region]Ossetia[/region]
-[region]Transnistria[/region]
-[hr]
+Executive Secretary: [nation=short]Ruscia[/nation]
+[hr][b][color=royalblue]Member regions:[/b][/color]
+[region]Abkhazia[/region], [region]Ossetia[/region], [region]Transnistria[/region]
+[hr][b][url=http://www.nationstates.net/region=the_eurasian_union]| Founding Member of the Eurasian Union |[/url][/b][hr]
