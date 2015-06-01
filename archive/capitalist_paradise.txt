@@ -5,7 +5,7 @@
 
 [b]CEO: [color=green]WA Delegate[/color]
 Minister of Foreign Affairs: [nation=short+noflag]The United Oman[/nation]
-Minister of Interior: [nation=short+noflag]Armus Republic[/nation]
+Minister of Interior: [nation=short+noflag]Derivative[/nation]
 
 President of the Legislature: [nation=short+noflag]LadyFasterKittens[/nation]
 

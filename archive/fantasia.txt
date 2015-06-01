@@ -3,8 +3,12 @@
 
 [color=red][b]Regent and Founder:[/b][/color] King [nation=short]Oshtraya[/nation]III
 [color=blue][b]Fantasia&amp;#39;s Map Master:[/b][/color][nation=short]Great Karma[/nation] 
-
+[b]Grand Council of Fantasia[/b] 
 [color=green][b]Minister of Medicine of Technology:[/b][/color] Kyzar of [nation=short]Zenerra[/nation] 
-[color=orange][b]Minister of Millitary Affairs:[/b][/color]
+[color=orange][b]Ministry of Military Affairs:[/b][/color]
+[color=purple][b]Ministry of Diplomatic Affairs:[/b][/color]
+[color=yellow][b]Ministry of Internal Affairs:[/b][/color]
+
+
 
 
