@@ -6,6 +6,7 @@
 
 [hr][u]Sovereign[/u]
 [color=brown]Governor-General[/color]: [nation=short]Lagrangian[/nation]
+[color=brown]Delegate/Assistant Governor[/color]: Elections taking place!
 
 [u]Executive[/u]
 [color=purple]Prime Minister[/color]: [nation=short]Paseo[/nation]
@@ -17,4 +18,4 @@ Parliament: [color=green]All WA Member Nations[/color]
 
 [hr][B]Role-Play Calendar:[/B] [B][color=red]2008[/color][/B]
 
-[hr][b]Endorsement Cap:[/B] [B][color=red]TBT[/color][/B]
+[hr][b]Endorsement Cap:[/B] [B][color=red]58[/color][/B]
