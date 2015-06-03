@@ -1,8 +1,8 @@
 [color=blue]Welcome to Jervos![/color]
 [url=http://nseconomy.thirdgeek.com/?region=Jervos]Regional Economy[/url] 
 
-Government
-World Assembly Delegate: [nation]Beelzebub Confederacy[/nation]
+[b]Government[/b]
+[color=gold]World Assembly Delegate: [b][nation]Beelzebub Confederacy[/nation][/b][/color]
 Minister of Internal Affairs:[nation]Valens Concilium[/nation]
 Minister of External Affairs: [nation]Vektrav[/nation]
 Minister of the Economy: [nation]Auriok[/nation]

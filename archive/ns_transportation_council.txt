@@ -4,8 +4,11 @@ Provides plans to improve transportation within a nation and across regions. Env
 
 President: [nation]Providence City[/nation]
 
-World Assembly Delegate: [nation]Providence City[/nation] May 28, 2015-Present
+World Assembly Delegate: Vacant
 
 Members:
 [nation]FIFA USA[/nation]
 [nation]Boston County[/nation]
+
+Past World Assembly Delegates:
+[nation]Providence City[/nation] May 28, 2015-May 29, 2015

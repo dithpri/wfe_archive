@@ -8,10 +8,9 @@
 Vice -President: [nation=short]Aiakos[/nation][/color]
 
 [color=#00308F][B][u]The Presidium[/u][/B]
-[nation=short]Regnum XII[/nation]
+President: [nation=short]Regnum XII[/nation]
 Minister of Foreign Affairs: [nation=short]Aiakos[/nation]
 Minister for Inland Security: [nation=short]Ecuadorian Love[/nation]
-Minister of Justice: [nation=short]Yoyong[/nation]
 
 [/color]
 
@@ -20,9 +19,10 @@ Minister of Justice: [nation=short]Yoyong[/nation]
 [color=blue]Endorsement Cap for non-Presidium nations : 1
 
 [/color]
-
+[hr]
 
 [b][u]ANNOUNCEMENTS[/u][/b]:
-All WA nations to endorse the President-WA delegate.
+
+We are grateful to [B][region]International Republican Union[/region][/B] for defending us from  terrorists.
 
 
