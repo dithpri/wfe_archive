@@ -7,7 +7,7 @@
 [Url=http://worldalliance.postalboard.com/t857-incumbent-eleventh-wa-security-council][color=gold][b]The 11th SECURITY COUNCIL[/b][/color][/url]
 
 [b]+ President[/b] : [nation]scouting[/nation]
-[b]+ Vice President[/b] : To be appointed by the President ...
+[b]+ Vice President[/b] : [nation]trinity_sector[/nation]
 
 [b]+ Member[/b] : [nation]scottlands[/nation]
 [b]+ Member[/b] : [nation]muchos_estados_unidos[/nation]
@@ -16,7 +16,7 @@
 [b]+ Member[/b] : [nation]serenarea[/nation]
 [b]+ Member[/b] : [nation]islamic states of islamic states[/nation]
 [b]+ Member[/b] : [nation]great eurussia[/nation]
-[b]+ Member[/b] : 1 vacant seat for the new WA Delegate ...
+[b]+ Member[/b] : [nation]unitarian_land[/nation]
 [b]+ Member[/b] : 5 vacant seats for future elected Members ...
 
 [/i][hr]

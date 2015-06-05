@@ -6,12 +6,14 @@
 
 [b][u]POWER LIST[/b][/u]
 
+[b]HYPERPOWER[/b]
+
 [b]SUPERPOWER[/b]
 [NATION]MightyByzantium[/NATION]
 [NATION]Accel[/nation]
+[NATION]Heritagea[/nation]
 
 [b]MODERATE POWER[/b]
-[NATION]Heritagea[/nation]
 [NATION]Vesquire[/nation]
 [NATION]GreaterAthens[/NATION]
 [nation]Plataeae[/nation]
@@ -19,7 +21,4 @@
 [b]POWER[/b]
 [NATION]Haglio[/NATION]
 [NATION]Augustine-Marquez[/NATION]
-
-
-[b]TRIBES[/b]
 

@@ -26,8 +26,8 @@
 [color=red]Head Council Member - [nation=short]Prauss[/nation][/color]
 [color=blue]Council Seat 1 - [nation=short]Brigli[/nation]
 Council Seat 2 - [nation=short]Mannington[/nation]
-Council Seat 3 - TBA
-Council Seat 4 - TBA[/color][/b]
+Council Seat 3 - [nation=short]Kheon[/nation]
+Council Seat 4 - [nation=short]Gannonheim[/nation][/color][/b]
 [hr]
 
 [b][color=red]Endorsement Cap = 5[/color][/b]

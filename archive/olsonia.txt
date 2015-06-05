@@ -1,10 +1,7 @@
 [b]Grand Leader:[/b] [nation]Thaddeus Olson[/nation]
 [b]Chancellor:[/b] [nation]Allura[/nation]
 
-All applications to Impervious Guard to [nation]Alilham[/nation].
-
 [u][color=red]COUNCIL[/color][/u]
-[b]Defence Minister:[/b] [nation]Alilham[/nation]
 [b]Speaker of the House:[/b] [nation]Bremsen[/nation]
 [b]Manpower Minister:[/b] [nation]A Colony[/nation]
 [b]Chief Justice:[/b] [nation]Francomania[/nation]
@@ -12,6 +9,7 @@ All applications to Impervious Guard to [nation]Alilham[/nation].
 
 [u][color=blue]IMPERVIOUS GUARD[/color][/u]
 [b]Supreme Commander-in-Chief:[/b] [nation]Allura[/nation]
-[b]Field Marshal:[/b] [nation]Alilham[/nation]
 [b]Commander of Border Operations:[/b] [nation]Royalisia[/nation]
 [b]Senior Rear Admiral:[/b] [nation]Konga Tribe[/nation]
+
+[color=green]ALL ACTIVITIES SUSPENDED UNTIL COUP ATTEMPTS ARE DEFUSED.[/color]
