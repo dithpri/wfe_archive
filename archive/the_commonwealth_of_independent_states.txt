@@ -5,5 +5,5 @@
 Chairman: [nation=short]The Eurasian Federation[/nation]
 Executive Secretary: [nation=short]Ruscia[/nation]
 [hr][b][color=royalblue]Member regions:[/b][/color]
-[region]Abkhazia[/region], [region]Ossetia[/region], [region]Transnistria[/region]
+[region]Abkhazia[/region], [region]Caucasia[/region], [region]Ossetia[/region], [region]Transnistria[/region]
 [hr][b][url=http://www.nationstates.net/region=the_eurasian_union]| Founding Member of the Eurasian Union |[/url][/b][hr]

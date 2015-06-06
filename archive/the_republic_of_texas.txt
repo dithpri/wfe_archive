@@ -1,11 +1,1 @@
-[b]&#134; [nation=short]The Emperor of Iron Europe[/nation] in [region]Windsor Castle[/region] commands the [url=http://www.nationstates.net/nation=the_emperor_of_iron_europe/detail=factbook/id=381133]Holy Army[/url] of [region]Iron Europe[/region] to Crusade!
-[hr]
-
-Country:
-&#134; [region]Federal States of America[/region]
-&#134; [nation=short]Federal States of America President[/nation]
-
-State:
-&#134; [region]The Republic of Texas[/region]
-&#134; [nation=short]The Republic of Texas President[/nation]
-[/b]
+Welcome!

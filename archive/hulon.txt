@@ -9,14 +9,14 @@
 [b]HYPERPOWER[/b]
 
 [b]SUPERPOWER[/b]
-[NATION]MightyByzantium[/NATION]
 [NATION]Accel[/nation]
 [NATION]Heritagea[/nation]
+[NATION]GreaterAthens[/NATION]
 
 [b]MODERATE POWER[/b]
 [NATION]Vesquire[/nation]
-[NATION]GreaterAthens[/NATION]
 [nation]Plataeae[/nation]
+[NATION]MightyByzantium[/NATION]
 
 [b]POWER[/b]
 [NATION]Haglio[/NATION]
