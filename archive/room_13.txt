@@ -1,1 +1,6 @@
-Welcome to [region]Room 13[/region]!
+[color=blue]Welcome to Room 13![/color]
+
+[color=red][b]Legislation[/b][/color]
+
+[color=red]President of Legislation - [nation]Oriania[/nation][/color]
+[color=red]Vice President of Legislation - [nation]Education Central[/nation][/color]

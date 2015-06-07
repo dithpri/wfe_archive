@@ -4,7 +4,7 @@
 
 [hr]
 [b][color=green]The Imperial Council:[/b][/color]
-[b]Emperor:[/b] [b][nation=short]Gradea[/nation][/b] 
+[b]Emperor:[/b] 
 [b]Regent:[/b] [b][nation=short]Avendonia[/nation][/b]
 [b]Chancellor:[/b] [b][nation=short]Matthewmania[/nation][/b]
 [hr]

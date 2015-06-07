@@ -12,7 +12,7 @@
 [color=red][b][u]Regional Government[/u][/b][/color]
 
 [b][i][color=darkred]President[/i][/color]:
-[nation=short]Latznavia[/nation]
+[nation=short]Krigi[/nation]
 
 [color=darkred][i]Economic Coordinators:[/i][/color][/b]
 [nation=short]The Greater Shogunate[/nation]
@@ -20,7 +20,7 @@
 
 [color=darkred][b][i]Roleplay Coordinators[/i][/color][/b]
 [nation=short]The Northern Mediterranean[/nation]
-[nation=short]Krigi[/nation]
+[nation=short]Latznavia[/nation]
 
 [color=darkgreen][b](All WA Nations Must Endorse the President)[/b][/color] 
 [hr]

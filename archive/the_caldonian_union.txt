@@ -7,7 +7,7 @@
 [b]~Minister of Foreign Affairs:[/b] [nation=The Saracens]
 [b]~Minister of Internal Affairs:[/b] [nation=The Saracens]
 [b]~Minister of Culture:[/b] [nation=Narrow Straights]
-[b]~Minister of Immigration:[/b] [i][color=green]AVAILABLE[/color][/i]
+[b]~Minister of Immigration:[/b] [nation=Engelion]
 [b]~Minister of Defense:[/b] [i][color=green]AVAILABLE[/color][/i]
 
 [b]&amp;gt;Telegram [nation=short]New Ridgewood[/nation] to apply for Cabinet Positions&amp;lt;[/b][hr][b][i][color=blue]WA Members:[/color][/i] Endorse [nation=short]Skytecnia[/nation]
