@@ -7,7 +7,7 @@
 [color=#000034]DEN High Command:[/color][color=#9a6601]
 
 Field Marshal: [nation=short]Gest[/nation]
-Generals: [nation=short]Kknight[/nation], [nation=short]Norselandur[/nation], [nation=short]Nordic Arbor[/nation], [nation=short]Camo5768[/nation]
+Generals: [nation=short]Kknight[/nation], [nation=short]Nordic Arbor[/nation], [nation=short]Camo5768[/nation]
 Brigadiers: [nation=short]Koth II[/nation], [nation=short]Scooby-doo[/nation], [nation=short]A Million Voices[/nation]
 [/color] 
 
@@ -15,5 +15,5 @@ Brigadiers: [nation=short]Koth II[/nation], [nation=short]Scooby-doo[/nation], [
 
 [color=#000034]Order of the Day:[/color] 
 
-[color=#9a6601]Return to [region=DEN][/color]
+[color=#9a6601]Glorify Gest[/color]
 [/b]

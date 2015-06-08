@@ -1,16 +1,14 @@
-[u][b]Honour through duty[/u][/b]
-[color=blue][b]The Island Empire of Archmont:[/b] [i]Established 20/04/2015[/i][/color]
-[b]Founding region of [url=https://www.nationstates.net/page=dispatch/id=427715]the Anchor Network[/url]. [url=http://anchor-network.boards.net/]Anchor Network forums[/url][/b] 
+[b][i]Honour through duty[/i][/b]
+[b][u][color=purple]The Island Empire of Archmont[/b][/color][/u] [color=purple][i]Founded on the 20th of April, 2015[/i][/color]
 
-[hr]
-[b][color=green]The Imperial Council:[/b][/color]
-[b]Emperor:[/b] 
+[b][color=blue]The Imperial Council:[/b][/color]
+[b]Emperor:[/b] [b][nation=short]New Athene[/nation][/b]
 [b]Regent:[/b] [b][nation=short]Avendonia[/nation][/b]
-[b]Chancellor:[/b] [b][nation=short]Matthewmania[/nation][/b]
-[hr]
-[b][i]Regional news:[/b][/i] The Imperial Council founded, constitution scrapped. 
 
-[hr][i][b][u][color=red]Information for residents:[/b][/u][/i][/color]
-[b][color=blue]ENDORSEMENTS:[/b] Please endorse Chancellor [nation=short]Matthewmania[/nation]. Current endorsement cap is [b][u]1[/b][/u][/color]
-[color=green][b]FEATURED ROLEPLAY:[/b][/color]
-[color=red][b]MAP:[/b] [url=https://www.nationstates.net/page=dispatch/id=428282]Regional roleplay map[/url][/color]
+[b][color=red]The Cabinet:[/b][/color]
+[b]Chancellor:[/b] [b][nation=short]Matthewmania[/nation][/b]
+[b]Warden:[/b] [i]Elections to be held[/i]
+[b]Envoy General:[/b] [i]Elections to be held[/i]
+
+[b][u]NEWS:[/b][/u]
+Elections are to be held for the positions of Envoy General (Minister of Foreign Affairs) and Warden (regional security officer and Minister of Defence). To run in the election, please TG Emperor [nation=short]New Athene[/nation] declaring your intention to run.

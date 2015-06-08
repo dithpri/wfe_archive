@@ -1,18 +1,21 @@
-[nation=Mi Nabo], [nation=Quirantia], [nation=Islanda and Alagon], [nation=Barbuda y Peluda], [nation=To Wapa To Flama], [nation=Romolandia], [nation=Over-humans] [color=#000061]and[/color] [nation=Miaulandia] [color=#000061]are provinces of[/color] [nation=Servinia Septemtrionis].
+[nation=Mi Nabo], [nation=Quirantia], [nation=Islanda and Alagon], [nation=To Wapa To Flama], [nation=Romolandia], [nation=Over-humans] [color=#000061]and[/color] [nation=Miaulandia] [color=#000061]are provinces of[/color] [nation=Servinia Septemtrionis].
 
 [color=#000061]Minister of Propaganda: [nation=Romolandia][/color]
 
 [color=#000061]General: [nation=Miaulandia][/color]
 
+[color=#000061]Minister of Time and Space: [nation=Mi Nabo][/color]
+
+[color=#000061]Minister of nuclear arsenal: [nation=To Wapa To Flama][/color]
+
 [color=#000061]Huzzah! Huzzah! Huzzah! This region has beaten [region=The Black Riders]![/color]
 
 [color=#000061]&amp;quot;Tupi is Great&amp;quot;[/color]
 
-[color=#CC0000]Regional Days[/color]
+[color=#990000]Regional Days[/color]
 
-[color=#CC0000]Friday 13th, February - Foundation Day[/color]
+[color=#990000]Friday 13th, February - Foundation Day[/color]
 
-[color=#CC0000]Tuesday 17th, February - First Victory Day[/color]
+[color=#990000]Tuesday 17th, February - First Victory Day[/color]
 
-[color=#CC0000]Friday 20th, March - Second Victory Day[/color]
-
+[color=#990000]Friday 20th, March - Second Victory Day[/color]

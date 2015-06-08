@@ -1,7 +1,9 @@
 [i]HQ for the General Staff of the joint Wehrmacht, Sturm-Abteilung &amp;amp; Waffen-SS forces {[u]Einsatz Kommando[/u]}
 
-Lowest deployment grade, mobile artillery units:
+Hitlerjugend(recruits):
+[nation]Nordic Saxony[/nation]
 
+Lowest deployment grade, mobile artillery units:
 [nation]SSDirlewanger[/nation]
 [nation]ReichfuhrerSS[/nation]
 [nation]SSDasReich[/nation]
@@ -12,8 +14,6 @@ Basic deployment grade, infantry recruits:
 Medium deployment grade, panzerkorps:
 [nation]Schweinehund[/nation]
 Fast deployment grade, jagdpanzer:
---
-Ultra-fast deployment grade, paratrooper units of the Fallschirmjager:
 --
 Reserves (not WA for special training purposes):
 [nation]Neuschwabenland SS[/nation]

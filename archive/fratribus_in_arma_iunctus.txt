@@ -4,7 +4,7 @@
 
 Chancellor: [nation]Lattakkia[/nation]
 
-Supreme Court: [nation=short]Cucuta[/nation], [nation=short]Phnum Penh[/nation], [nation=short]Ortegal[/nation]
+Supreme Court: [nation=short]Phnum Penh[/nation], [nation=short]Ortegal[/nation]
 
 Secretary of Foreign Affairs: [nation]Shanewolverines[/nation]
 
