@@ -1,8 +1,7 @@
-[i]HQ for the General Staff of the joint Wehrmacht, Sturm-Abteilung &amp;amp; Waffen-SS forces {[u]Einsatz Kommando[/u]}
+[i]HQ for the General Staff of the joint Wehrmacht, Sturm-Abteilung &amp;amp; Waffen-SS forces {[u]::Einsatz Kommando::[/u]}
 
 Hitlerjugend(recruits):
-[nation]Nordic Saxony[/nation]
-
+[nation]New Nazi Sweden[/nation]
 Lowest deployment grade, mobile artillery units:
 [nation]SSDirlewanger[/nation]
 [nation]ReichfuhrerSS[/nation]
@@ -10,14 +9,14 @@ Lowest deployment grade, mobile artillery units:
 [nation]Zufluchtsort[/nation]
 [nation]Reichenburg[/nation]
 Basic deployment grade, infantry recruits:
---
+[nation]New Esamir[/nation]
 Medium deployment grade, panzerkorps:
 [nation]Schweinehund[/nation]
-Fast deployment grade, jagdpanzer:
---
-Reserves (not WA for special training purposes):
+[nation]Sinica[/nation]
+Reserves:
 [nation]Neuschwabenland SS[/nation]
+Operation Kommandeur (available for only one invasion):
 [nation]32th SS Schwere Panzerdivision[/nation]
+Funker:
 [nation]Funker Bunker[/nation]
-
 [/i]
