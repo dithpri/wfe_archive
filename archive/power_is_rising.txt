@@ -6,7 +6,7 @@
 
 Field Marshal [nation=short]Gest[/nation]
 Major [nation=short]Vandoosa[/nation]
-Private First Class [nation=short]Shaderette[/nation]
+Private First Class [nation=short]Shaderette[/nation][/color]
+[color=crimson]Supported by our brethren of [region]The Black Hawks[/region].[/color]
 
-
-[hr][/color][url=http://w11.zetaboards.com/DEN/index/][color=#000034]Join DEN in the the conquest of [/color][color=#9a6601]NationStates![/color][/url][/b]
+[hr][url=http://w11.zetaboards.com/DEN/index/][color=#000034]Join DEN in the the conquest of [/color][color=#9a6601]NationStates![/color][/url][/b]

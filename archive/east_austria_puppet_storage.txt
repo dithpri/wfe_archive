@@ -3,15 +3,9 @@
 [nation]East Austria[/nation] ~A
 [nation]Susslavia[/nation]
 [nation]Cortansport[/nation] ~A
-[nation]Great Saxonia[/nation]
-[nation]Heilig Deutschland[/nation]
-[nation]Falmeria[/nation]
-[nation]Black Harbor[/nation]
-[nation]Sharnhelm[/nation]
 [nation]Eastern Dixie[/nation]
 [nation]Dovahsanaak[/nation]
-[nation]East Balkania[/nation] ~A
-[nation]The Northern Mediterranean[/nation]
+[nation]The Northern Mediterranean[/nation] ~A
 [nation]Great Western Africa[/nation] ~A
 [nation]United Benelux[/nation] ~A
 [nation]Lorrania[/nation] ~A

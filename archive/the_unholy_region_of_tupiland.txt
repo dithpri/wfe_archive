@@ -1,4 +1,4 @@
-[nation=Mi Nabo], [nation=Quirantia], [nation=Islanda and Alagon], [nation=To Wapa To Flama], [nation=Romolandia], [nation=Over-humans] [color=#000061]and[/color] [nation=Miaulandia] [color=#000061]are provinces of[/color] [nation=Servinia Septemtrionis].
+[nation=Mi Nabo], [nation=Islanda and Alagon], [nation=To Wapa To Flama], [nation=Romolandia], [nation=Over-humans] [color=#000061]and[/color] [nation=Miaulandia] [color=#000061]are provinces of[/color] [nation=Servinia Septemtrionis].
 
 [color=#000061]Minister of Propaganda: [nation=Romolandia][/color]
 
@@ -6,7 +6,7 @@
 
 [color=#000061]Minister of Time and Space: [nation=Mi Nabo][/color]
 
-[color=#000061]Minister of nuclear arsenal: [nation=To Wapa To Flama][/color]
+[color=#000061]Minister of Nuclear Arsenal: [nation=To Wapa To Flama][/color]
 
 [color=#000061]Huzzah! Huzzah! Huzzah! This region has beaten [region=The Black Riders]![/color]
 

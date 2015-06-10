@@ -3,12 +3,12 @@
 
 [b][color=blue]The Imperial Council:[/b][/color]
 [b]Emperor:[/b] [b][nation=short]New Athene[/nation][/b]
-[b]Regent:[/b] [b][nation=short]Avendonia[/nation][/b]
+[b]Regent:[/b] [b][nation=short]Avendonia[/nation][/b] 
 
 [b][color=red]The Cabinet:[/b][/color]
 [b]Chancellor:[/b] [b][nation=short]Matthewmania[/nation][/b]
-[b]Warden:[/b] [i]Elections to be held[/i]
+[b]Chamberlain:[/b] [i]Elections to be held[/i]
 [b]Envoy General:[/b] [i]Elections to be held[/i]
 
 [b][u]NEWS:[/b][/u]
-Elections are to be held for the positions of Envoy General (Minister of Foreign Affairs) and Warden (regional security officer and Minister of Defence). To run in the election, please TG Emperor [nation=short]New Athene[/nation] declaring your intention to run.
+Elections are to be held for the positions of Envoy General (Minister of Foreign Affairs) and Chamberlain (Minister of Internal Affairs). To run in the election, please TG Emperor [nation=short]New Athene[/nation] declaring your intention to run.
