@@ -1,7 +1,7 @@
 Welcome to the Mare Nostrum, home to many nations who defend their ancestral sea. 
 A defender-friendly region, we have the hope that someday all regions will be free and democratic.
 [b]Government:[/b]
-Founder:[nation]The League of Eastern Orthodox Knights
+Founder: [nation]The League of Eastern Orthodox Knights[/nation]
 WA Delegate:[nation]The League of Eastern Orthodox Knights[/nation]
 Minister of Defense: TBD
 Minister of Economics: TBD

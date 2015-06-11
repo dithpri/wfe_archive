@@ -5,20 +5,15 @@ The most serious island in the world
 [nation]mango_nation[/nation] - Roman
 [nation]tangerine_nation[/nation] - Beck
 [nation]robusting[/nation] - Will
-[nation]gaiaus[/nation] - Connor
+[nation]dryadius[/nation] - Connor
 [nation]falshun[/nation] - Andrew
 [nation]devolution[/nation] - Will
+[nation]dewiswchland[/nation] - Michael
 
 [b]Current Positions:[/b]
 WA Delegate - [nation]mango_nation[/nation]
 Founder - [nation]servitium[/nation]
-Head of Foreign Affairs - [b]N/A[/b]
-Head of Defense - [b]N/A[/b]
-Head of Health and Environment - [b]N/A[/b]
-
-[b]Voting:[/b]
-[url=http://www.poll-maker.com/poll331080x14cf41BF-12]For position of WA Delegate...[/url]
-[url=http://www.poll-maker.com/poll331088x6Cce4C9b-12]For position of Head of Foreign Affairs...[/url]
-[url=http://www.poll-maker.com/poll331090xeFDDC282-12]For position of Head of Defense...[/url]
-[url=http://www.poll-maker.com/poll331091x93f44de5-12]For position of Head of Health and Environment...[/url]
-Please self-vote only once.
+Head of Foreign Affairs - [nation]falshun[/nation] 
+Head of Defense - [nation]servitium[/nation]
+Head of Health and Environment - 
+[nation]dryadius[/nation]
