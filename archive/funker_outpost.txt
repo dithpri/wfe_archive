@@ -3,20 +3,18 @@
 Hitlerjugend(recruits):
 [nation]New Nazi Sweden[/nation]
 Lowest deployment grade, mobile artillery units:
-[nation]SSDirlewanger[/nation]
-[nation]ReichfuhrerSS[/nation]
-[nation]SSDasReich[/nation]
 [nation]Zufluchtsort[/nation]
 [nation]Reichenburg[/nation]
 Basic deployment grade, infantry recruits:
 [nation]New Esamir[/nation]
+[nation]SSDirlewanger[/nation]
+[nation]ReichfuhrerSS[/nation]
 Medium deployment grade, panzerkorps:
 [nation]Schweinehund[/nation]
 [nation]Sinica[/nation]
 Reserves:
-[nation]Neuschwabenland SS[/nation]
 Operation Kommandeur (available for only one invasion):
-[nation]32th SS Schwere Panzerdivision[/nation]
-Funker:
+[nation]SSDasReich[/nation]
+Funker (permanent):
 [nation]Funker Bunker[/nation]
 [/i]

@@ -1,6 +1,17 @@
-BOE COAST = Alternate Earth 
-[b]North/South America[/b] - The Americas is united under [nation]Izbulia[/nation] with [nation]The Izbull Confederacy[/nation]  the autonomous region is North America.
-[b]Oceania[/b] - resembling the old Japanese empire of the early 20th century [nation]Pyun[/nation] is the dominant power in East Asia. 
-[b]Europe[/b]- split between [nation]North Domsland[/nation] and [nation]South Domsland[/nation] who are locked in a cold war.
-[b]Africa[/b] - South Africa is united by [nation]Deburgh[/nation] while the north is loosely organized by [nation]Hagopolis[/nation].
-[b]Asia[/b] - split between [nation]Jaggeleland[/nation] and [nation]Merrittdom[/nation]
+An alternate Earth
+[nation]Izbulia[/nation]-North&amp;amp;South America 
+[nation]The Undivided States of America[/nation]-West USA 
+[nation]The United-States-of America[/nation]-North USA 
+[nation]The Izbull Confederacy[/nation]- South USA 
+[nation]North Domsland[/nation]-Germany&amp;amp;Poland
+[nation]South Domsland[/nation]-Austria&amp;amp;Hungary
+[nation]Jaggleland[/nation]-Spain&amp;amp;Portugal
+[nation]Hagopolis[/nation]-Cuba&amp;amp;Hispaniola
+[nation]Deburgh[/nation]-Ireland
+[nation]Merrittdom[/nation]-England&amp;amp;Scotland 
+[nation]Delorath[/nation]- Italy&amp;amp;Croatia
+[nation]Pyun[/nation]-Korea
+[nation]Izbukastan[/nation]- Middle-East
+
+[nation]Chombashie[/nation]- Americas, Middle East, Asia
+

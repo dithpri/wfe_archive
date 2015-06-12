@@ -1,15 +1,14 @@
 [b][i]Honour through duty[/i][/b]
-[b][u][color=purple]The Island Empire of Archmont[/b][/color][/u] [color=purple][i]Founded on the 20th of April, 2015[/i][/color]
-[hr][b]Useful links:[/b]
-[url=https://www.nationstates.net/page=dispatch/id=435197] l [b]Regional map[/b][/url] l [b][url=http://nseconomy.thirdgeek.com/nseconomy.php]NS Economy[/url][/b] l [b][url=https://nsindex.net/wiki/Home]NSindex[/url][/b] l [hr]
-[b][color=blue]The Imperial Council:[/b][/color]
+[b][u][color=purple]The Island Empire of Archmont[/b][/color][/u] [color=purple][i][b]Founded: 20/04/2015[/b][/i][/color]
+[hr][b][color=blue]The Imperial Council:[/b][/color]
 [b]Emperor:[/b] [b][nation=short]New Athene[/nation][/b]
-[b]Regent:[/b] [b][nation=short]Avendonia[/nation][/b] 
+[b]Regent:[/b] [b][nation=short]Avendonia[/nation][/b]
 [b]Chancellor:[/b] [b][nation=short]Matthewmania[/nation][/b]
-[b]Chamberlain:[/b] [i]Elections to be held[/i]
-[b]Envoy General:[/b] [i]Elections to be held[/i]
+[b]Chamberlain:[/b] [b][nation=short]Crazy Fun[/nation][/b]
+[hr][b][u]CURRENT ROLEPLAYS:[/b][/u]
 
-[b][u]NEWS:[/b][/u]
-Elections are to be held for the positions of Envoy General (Minister of Foreign Affairs) and Chamberlain (Minister of Internal Affairs). To run in the election, please TG Emperor [nation=short]New Athene[/nation] declaring your intention to run.
-[b][i]Candidates:[/b][/i]
-[nation=short]Crazy Fun[/nation] (Running for Chamberlain)
+[hr]
+[b][i]News:[/b][/i]
+Due to lack of interest and candidates, [nation=short]Crazy Fun[/nation] has been automatically elected to the position of Chamberlain. Congratulations! 
+[hr]
+[i][b]Please endorse your Chancellor, [nation=short]Matthewmania[/nation]. Endorsement cap is [u]1.[/b][/u][/i]
