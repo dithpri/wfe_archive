@@ -15,5 +15,5 @@ WA Delegate - [nation]mango_nation[/nation]
 Founder - [nation]servitium[/nation]
 Head of Foreign Affairs - [nation]falshun[/nation] 
 Head of Defense - [nation]servitium[/nation]
-Head of Health and Environment - 
+Head of Domestic Affairs - 
 [nation]dryadius[/nation]

@@ -2,4 +2,8 @@ The president: The Island of the Cat
 Minister of Foreign Affairs and Embassy: Canarin (confirmed)
 Minister of Interior: Isola Roya
 
+Federal Councillors:
+- Borgo San Dalmazzo
+- Ardoton
+
 The delegate WA is automatically elected Minister of embassies. If the country in question loses a confidence vote by a poll, the Ministry will pass under the President.

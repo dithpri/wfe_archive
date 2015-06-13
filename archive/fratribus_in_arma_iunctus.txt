@@ -4,8 +4,6 @@ The First and Official successor to the United Nations Elite. Not affiliated wit
 
 Chancellor: [nation]Lattakkia[/nation]
 
-Supreme Court: [nation=short]Phnum Penh[/nation], [nation=short]Ortegal[/nation]
+Supreme Court: [nation=short]Phnum Penh[/nation], [nation=short]Ortegal[/nation], [nation=short]Empire Cove[/nation]
 
 Secretary of Foreign Affairs: [nation]Shanewolverines[/nation]
-
-Secretary of Domestic Affairs: [nation]Empire Cove[/nation]
