@@ -6,7 +6,7 @@
 
 [url=http://www.nationstates.net/nation=united_alab_emirates/detail=factbook/id=121389] Senate Pro Tempore[/url]
 
-[b][color=Purple]Regional Governmental Posts[/b][/color]  
+[b][color=Purple] Government [/b][/color]  
 
 [b]Vice Dominus:[/b] [nation=The State of Pakistan]
 
@@ -19,4 +19,4 @@
 [b]Deputy Secretary of Defence:[/b]  [nation=hezbollah]
 
 [b]Senate Chair:[/b]  [nation=The Garden of Mesopotamia] 
-[b]House Chair:[/b] [color=blue]Vacant[/color]
+[b]House Chair:[/b] [Nation=anta majnoon]

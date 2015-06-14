@@ -1,20 +1,17 @@
-[i]HQ for the General Staff of the joint Wehrmacht, Sturm-Abteilung &amp;amp; Waffen-SS forces {[u]::Einsatz Kommando::[/u]}
+[i][b]The training mission was great success! Alles kameraden may return to [region]the Greater German Reich[/region][/b]
 
-Hitlerjugend(recruits):
-[nation]New Nazi Sweden[/nation]
-Lowest deployment grade, mobile artillery units:
+Hitlerjugend:
 [nation]Zufluchtsort[/nation]
+Lowest deployment grade, mobile artillery units:
 [nation]Reichenburg[/nation]
+[nation]New Nazi Sweden[/nation]
+[nation]Sinica[/nation]
 Basic deployment grade, infantry recruits:
 [nation]New Esamir[/nation]
 [nation]SSDirlewanger[/nation]
 [nation]ReichfuhrerSS[/nation]
-Medium deployment grade, panzerkorps:
-[nation]Schweinehund[/nation]
-[nation]Sinica[/nation]
-Reserves:
-Operation Kommandeur (available for only one invasion):
+Operation Kommandeur:
 [nation]SSDasReich[/nation]
-Funker (permanent):
+Funker:
 [nation]Funker Bunker[/nation]
 [/i]
