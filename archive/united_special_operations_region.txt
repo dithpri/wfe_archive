@@ -3,9 +3,9 @@ A defender-friendly region, we have the hope that someday all regions will be fr
 Government:In vote
 Founder: [nation]TF1 TASK FORCE 1[/nation]
 WA Delegate: [nation]Affinity of Tiffany[/nation] 
-Minister of Defence: [nation]The peopl3s land of straya[/nation]
-Minister of economics: [nation]Dopeotopia[/nation]
-Minister of the Military: [nation]PC GAMING[/nation]
+[color=red]Minister of Defence[/color]: [nation]The peopl3s land of straya[/nation]
+[color=purple]Minister of economics[/color]: [nation]nikaku[/nation]
+[color=green]Minister of the Military[/color]: [nation]PC GAMING[/nation]
 Fun Facts:Oxford university is older than the Aztecs  
 Regional Animal: Undecided 
-Regional Symbol: 88th regiment of foot flag
+Regional Symbol: 88th regiment of foot,

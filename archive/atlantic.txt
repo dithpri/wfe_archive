@@ -6,10 +6,10 @@ Visit our website at [u]www.atlanticregion.webs.com[/u] to read our constitution
 
 Delegate: [nation=short+noflag]The Reagan Regime[/nation]
 
-President: [color=red]Vacant[/color]
-Vice President: [color=red]Vacant[/color]
+President: [nation=short+noflag]The Reagan Regime[/nation]
+Vice President: [nation=short+noflag]Vikinstan[/nation]
 
-Speaker: [color=red]Vacant[/color]
+Speaker: [nation=short+noflag]Vanderbilt Estate[/nation]
 Representative: [color=red]Vacant[/color]
 Representative: [color=red]Vacant[/color]
 Representative: [color=red]Vacant[/color]

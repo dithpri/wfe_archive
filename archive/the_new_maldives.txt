@@ -2,10 +2,18 @@ Welcome to the New Maldives.
 
 Currently, we are setting up a regional organization. 
 
-The interim council consists of representatives from the following nations
-
-Chair: [nation]maltnesia[/nation]
-Member: [nation]the dstrgf[/nation]
+Government of [region]the New Maldives[/region]
+Elected Leader: [nation]maltnesia[/nation]
+Vice: [nation]the dstrgf[/nation]
 Member: [nation]cantaloupe island[/nation]
-Member: [nation]Trasao[/nation]
+Member: [nation]Hasic[/nation]
 Member: [nation]Pretzelburg[/nation]
+Member: [nation]guayva[/nation]
+
+Loyal Opposition-&amp;quot;The Confederacy&amp;quot;
+Leader: [nation]The Fascist Republicans[/nation]
+Member: [nation]Christian Fox News[/nation]
+Member: [nation]Trasao[/nation]
+Member: [nation]The republican national convention[/nation]
+Member: [nation]naboznia[/nation]
+Member: [nation]Nessnia[/nation]
