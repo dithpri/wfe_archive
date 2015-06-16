@@ -10,7 +10,7 @@ President: [nation=short+noflag]The Reagan Regime[/nation]
 Vice President: [nation=short+noflag]Vikinstan[/nation]
 
 Speaker: [nation=short+noflag]Vanderbilt Estate[/nation]
-Representative: [color=red]Vacant[/color]
+Representative: [nation=short+noflag]The Sylvenian Puppeteer[/nation]
 Representative: [color=red]Vacant[/color]
 Representative: [color=red]Vacant[/color]
 Representative: [color=red]Vacant[/color]

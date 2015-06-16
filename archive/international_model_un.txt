@@ -15,22 +15,6 @@ All nations
 [nation]Albicia[/nation]
 [nation]Cotopia[/nation]
 [nation]Danforth[/nation]
+[nation]Harfordia[/nation]
 [u]Non-Veto Nations[/u]
-[nation]Ehrenberg[/nation]
 [nation]Rahachennan[/nation]
-
-[b]Region Budget:[/b]
-[i] $9,112,413,333,447.64 
-[/i]
-
-[u]Contributions[/u]
-[nation]Albicia[/nation]: [i] $4,336,502,274,450.71
-[/i]
-[nation]Cotopia[/nation]: [i] $3,306,807,666,666.56 
-[/i]
-[nation]Danforth[/nation]: [i] $1,325,089,752,330.48
-[/i]
-[nation]Ehrenberg[/nation]: [i] $143,108,997,046.23
-[/i]
-[nation]Rahachennan[/nation]: [i] $904,642,953.66 
-[/i]

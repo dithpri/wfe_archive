@@ -27,4 +27,4 @@ Allies:
 [region]Bayside Church[/region]
 
 Enemy: 
-[region]Pure Sac Metropolitan Area[/region]
+[region]DEN[/region]

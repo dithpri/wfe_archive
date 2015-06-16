@@ -1,23 +1,20 @@
 The Reffensburgan Empires is a quickly expanding region with a diverse variety of inhabitants. This region is not open to those who attempt to join without permission from a current member. 
 
 WA Members:
-Reffensburg
-Skolengrad
-Calebsburgia
-
+[nation]Reffensburg[/nation]
+[nation]Skolengrad[/nation]
+[nation]Calebsburgia[/nation]
 Admin:
-Reffensburg
-Skolengrad
-
+[nation]Reffensburg[/nation]
+[nation]Skolengrad[/nation]
 Founder:
-Reffensburg
-
+[nation]Reffensburg[/nation]
 Founded:
 Sunday March 29, 2015
 
 Translators:
-Reffensburg
-Skolengrad
+[nation]Reffensburg[/nation]
+[nation]Skolengrad[/nation]
 
 Banned:
 Bobingtonish
