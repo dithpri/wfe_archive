@@ -1,11 +1,10 @@
 Leader of the region: [nation]Zagrabria[/nation]
 WA delegate: [nation]Western Balkans[/nation]
-Regional Parliament president: [nation]Federazione Franco-Elvetica[/nation]
-_________________________________________________________________________________________________________________________________
-
+ _________________________________________________________________________________________________________________________________
 This is an [b][u]anti-communist[/u][/b] and [b][u]anti-fascist[/u][/b] region were the main topics are [b]politics,wars and border issues.[/b]
 _________________________________________________________________________________________________________________________________
+President: [nation]Federazione Franco-Elvetica[/nation]
+Prime minister: [nation]Croats and Bosniaks[/nation]
+Minister of financy: [nation]Western balkans[/nation]
+Minister of the military: [nation]zagrabria[/nation]
 
--[b][u]It&amp;#39;s not required[/u][/b] to be a WA member,but you can be it!
-
--[b]git&amp;#39;s forbidden to spam or to swear![/b] All the rule-breakers will be [b]BANNED[/b]!
