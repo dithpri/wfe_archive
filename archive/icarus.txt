@@ -18,7 +18,7 @@
 [B]Legislature:[/B]
 [list]Senator: [nation=short]Aodan[/nation]
 Senator: [nation=short]Lyrasona[/nation]
-Senator: [nation=short]Lewayiin[/nation]
+Senator: N/A
 Senator: [nation=short]United States of Spain[/nation]
 Senator: [nation=short]New Raffica[/nation][/list]
 

@@ -3,9 +3,12 @@
 [color=green]FOR NATIONS PURSUING FREEDOM AND DEMOCRACY, WE ARE A SAFE HAVEN![/color]
 
 [b][color=blue]HISTORY[/color][/b]
-[color=blue]We were created during an insurgency in the dictatorial region of [region]Flapjacks[/region]. As a group escaping persecution for being democratic in a land of otherwise dictators, our people have come together to create a strong union in the pursuit of a freer world.[/color]
+[color=blue]We were created during an insurgency in the dictatorial region of [region]Flapjacks[/region] (Now [region]Wings of Thought[/region]). As a group escaping persecution for being democratic in a land of otherwise dictators, our people have come together to create a strong union in the pursuit of a freer world.[/color]
 
 [b][color=orange]The Council[/color][/b]
 President: [nation]William Empire[/nation]
 Vice-President: [nation]Joshua States[/nation]
 Adviser: [nation]Misterswaggalicious[/nation]
+Chief Recruiter: [color=blue]Debated[/color]
+Secretary of Defense: [color=red]Region Size: 15[/color]
+Historian: [color=red]Region Size: 20[/color]
