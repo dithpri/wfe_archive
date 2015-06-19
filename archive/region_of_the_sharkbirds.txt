@@ -1,4 +1,4 @@
-[color=lime]Welcome lonely traveller, are you here because of:
+[color=lime]Welcome lonely traveller, are you here because of:h
 1. Looking for a new region
 2. Just searching around
 3. Etc.[/color]
@@ -6,8 +6,8 @@
 I want to invite you to my region. [color=purple]Praise Yalung if you have come to stay...[/color]
 
 Achievement: 100 nations
-Monthly meal: Pancakes
+Monthly meal: Pancakes  Next: Meatballs
 News: [nation=short]Great Zambambiah[/nation] has arrived
-DEFCON: 5 (at peace)
+DEFCON: at peace (5)
 
-[color=red]P.S We welcome all nations,[/color][color=blue] both Dictatorships and Democracies.[/color]
+[color=red]P.S We welcome all nations,[/color][color=blue] both Dictatorships and Democracies.[/color] All WA nations please endorse [nation=short]Beniama[/nation]

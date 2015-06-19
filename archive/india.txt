@@ -2,10 +2,10 @@
 Welcome to India, a Region dedicated to a nation that boasts a 6000 years of history. Today, the biggest democracy and the fastest developing country in the world. 
 
 [b][i]Regional Government[/i][/b]
-[i]The Elected Council[/i] Elected Council, has all executive powers, functions in the Govrnment
+[i]The Elected Council[/i] 
 The Elected Head of the Government - [nation]Kikrosta[/nation]
 The Ministry of Internal Affairs - --EMPTY--
-The Ministry of External Affairs - --EMPTY-- 
+The Ministry of External Affairs -[nation]indian arsenal[/nation]
 The Ministry of Defense - [nation]Kumbhalgarh[/nation]
 
 

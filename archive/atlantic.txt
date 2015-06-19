@@ -6,11 +6,11 @@ Visit our website at [u]www.atlanticregion.webs.com[/u] to read our constitution
 
 Delegate: [nation=short+noflag]The Reagan Regime[/nation]
 
-President: [nation=short+noflag]The Reagan Regime[/nation]
-Vice President: [nation=short+noflag]Vikinstan[/nation]
+President: [nation=short+noflag]The Reagan Regime[/nation] (R)
+Vice President: [nation=short+noflag]Vikinstan[/nation] (R)
 
-Speaker: [nation=short+noflag]Vanderbilt Estate[/nation]
-Representative: [nation=short+noflag]The Sylvenian Puppeteer[/nation]
+Speaker: [nation=short+noflag]Vanderbilt Estate[/nation] (R)
+Minority Leader: [nation=short+noflag]The Sylvenian Puppeteer[/nation] (B)
 Representative: [color=red]Vacant[/color]
 Representative: [color=red]Vacant[/color]
 Representative: [color=red]Vacant[/color]

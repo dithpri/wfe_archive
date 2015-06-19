@@ -1,3 +1,6 @@
-[b]His Royal Majesty, [nation=short]King William Arthur[/nation], by the Grace of God, King of [region]Greater Britain[/region], the [region]English[/region] and the British Dominions beyond the Seas, Defender of the Faith and Lord Protector of the Commonwealth, welcomes you on behalf of the people of the Realm.
+[b]His Royal Majesty, [nation=short]King William Arthur[/nation], by the Grace of God, King of [region]Greater Britain[/region] and the British Dominions beyond the Seas, Defender of the Faith and Lord Protector of the Commonwealth, welcomes you on behalf of the people of the Realm.
 
-[region]Palace of Westminster[/region] in [region]London England[/region] is home to Parliament[/b]
+The Palace lies on the Middlesex bank of the River Thames in the [region]City of Westminster[/region], in central [region]London England[/region]
+It is home to the [url=http://www.parliament.uk]Parliament[/url] of [region]Greater Britain[/region]
+
+Tour the [url=https://en.wikipedia.org/wiki/Palace_of_Westminster]Palace of Westminster[/url][/b]
