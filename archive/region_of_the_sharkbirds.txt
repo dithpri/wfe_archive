@@ -9,5 +9,6 @@ Achievement: 100 nations
 Monthly meal: Pancakes  Next: Meatballs
 News: [nation=short]Great Zambambiah[/nation] has arrived
 DEFCON: at peace (5)
+If raided the founder will send either an resistance telegram or evacuated telegram, and move to [region]Peoples Federation of Beniama[/region]
 
 [color=red]P.S We welcome all nations,[/color][color=blue] both Dictatorships and Democracies.[/color] All WA nations please endorse [nation=short]Beniama[/nation]

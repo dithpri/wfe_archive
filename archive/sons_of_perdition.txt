@@ -7,7 +7,4 @@ We only accept embassy requests with regions that fill out a [url=http://s15.zet
 
 Command Corps
 
-[color=#C02000]Master General:[/color] [nation=short]Abaddon Rising[/nation]
-[hr]
-
-[color=#C02000]Orders:[/color] None at this time.[/b]
+[color=#C02000]Master General:[/color] [nation=short]Abaddon Rising[/nation][/b]

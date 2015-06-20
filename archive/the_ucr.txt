@@ -7,7 +7,4 @@ The UCR is the jump point of the [region]Sons of Perdition[/region] and does not
 
 Command Corps
 
-[color=#C02000]Master General:[/color] [nation=short]Abaddon Rising[/nation]
-[hr]
-
-[color=#C02000]Orders:[/color] None at this time.[/b]
+[color=#C02000]Master General:[/color] [nation=short]Abaddon Rising[/nation][/b]
