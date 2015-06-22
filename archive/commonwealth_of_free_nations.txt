@@ -4,13 +4,13 @@
 
 
 [u][B][url=http://www.nationstates.net/nation=the_cfn_archives/detail=factbook/id=438115][color=navy]Eleventh Cabinet of the CFN[/color][/url][/B][/u] [list][b]Chancellor:[/b] 
-[nation=short]Everestopia[/nation] [b]([color=limegreen]F[/color])[/b]
+[nation=short]Everestopia[/nation] [b]([color=#002E4F]U[/color])[/b]
 
 [b]Vice Chancellor:[/b] 
 [nation=short]Sulania[/nation] [b]([color=Red]L[/color])[/b]
 
 [b]Minister of Defense:[/b] 
-[nation=short]Liberated Democratic Republics[/nation] [b]([color=gold]L[/color])[/b]
+[nation=short]Liberated Democratic Republics[/nation] [b]([color=#002E4F]U[/color])[/b]
 
 [b]Minister of Foreign Affairs:[/b] 
 [nation=short]Fibertas[/nation] [b]([color=orange]R[/color])[/b]
@@ -19,7 +19,7 @@
 [nation=short]Lavan Tiri[/nation] [b]([color=Purple]I[/color])[/b]
 
 [b]Minister of Justice:[/b] 
-[nation=short]Jaslandia[/nation] [b]([color=Blue]D[/color])[/b] 
+[nation=short]Jaslandia[/nation] [b]([color=#002E4F]U[/color])[/b] 
 [hr][b][u][color=navy]Chief Justice of the CFN[/color][/b][/u]
 
 [list][b]Chief Justice:[/b]

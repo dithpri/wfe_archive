@@ -1,6 +1,4 @@
-[b]&#134; [nation=short]The Emperor of Iron Europe[/nation] brings the Crusade to America
-
-[region]Bridgeport[/region], the most populous city in the state of Connecticut, USA now belongs within the [region]Greater Britain[/region] colony of [region]British America[/region] under the Crown of [nation=short]King William Arthur[/nation][/b]
+[b][region]Bridgeport[/region], the most populous city in the state of Connecticut, is a colony of [region]British America[/region] under the Crown of [nation=short]King William Arthur[/nation][/b]
 
 
 

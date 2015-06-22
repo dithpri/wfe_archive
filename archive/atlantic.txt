@@ -4,17 +4,28 @@ Visit our website at [u]www.atlanticregion.webs.com[/u] to read our constitution
 
 [b]REGIONAL GOVERNMENT[/b]
 
-Delegate: [nation=short+noflag]The Reagan Regime[/nation]
+[u]Delegate[/u]
+[nation=short+noflag]The Reagan Regime[/nation]
 
-President: [nation=short+noflag]The Reagan Regime[/nation] (R)
-Vice President: [nation=short+noflag]Vikinstan[/nation] (R)
+[u]President[/u]
+[nation=short+noflag]The Reagan Regime[/nation] (R)
+[u]Vice President[/u]
+[nation=short+noflag]Vikinstan[/nation] (R)
 
-Speaker: [nation=short+noflag]Vanderbilt Estate[/nation] (R)
-Minority Leader: [nation=short+noflag]The Sylvenian Puppeteer[/nation] (B)
-Representative: [color=red]Vacant[/color]
-Representative: [color=red]Vacant[/color]
-Representative: [color=red]Vacant[/color]
+[u]Speaker[/u]
+[nation=short+noflag]Vanderbilt Estate[/nation] (R)
+[u]Minority Leader[/u]
+[nation=short+noflag]The Sylvenian Puppeteer[/nation] (B)
+[u]Representative[/u]
+[color=red]Vacant[/color]
+[u]Representative[/u]
+[color=red]Vacant[/color]
+[u]Representative[/u]
+[color=red]Vacant[/color]
 
-Chief Justice: [color=red]Vacant[/color]
-Justice: [color=red]Vacant[/color]
-Justice: [color=red]Vacant[/color]
+[u]Chief Justice[/u]
+[nation=short+noflag]Alpha-Idly[/nation]
+[u]Justice[/u]
+[color=red]Vacant[/color]
+[u]Justice[/u]
+[color=red]Vacant[/color]

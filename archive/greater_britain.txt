@@ -1,9 +1,11 @@
-[b]His Majesty [nation=short]King William Arthur[/nation], by the Grace of God, King of [region]Greater Britain[/region], and the British Dominions beyond the Seas, Defender of the Faith and Lord Protector of the Realm rules the Crown Lands from [region]Westminster Palace[/region]
+[b]His Royal Majesty, [nation=short]King William Arthur[/nation], by the Grace of God, King of [region]Greater Britain[/region], the British Dominions beyond the Seas, Defender of The Faith and Lord Protector of the Commonwealth, welcomes you on behalf of the [region]English[/region] Nation.[hr] The Crown Lands of [region]Greater Britain[/region] are ruled from [region]Westminster Palace[/region]
 
-[region]English Kingdom[/region] | [region]Kinrick o Scotland[/region] | [region]Dominion of Wales[/region] | [region]Dominion of Australia[/region] | [region]Tasmania Island State[/region] | [region]Dominion of New Zealand[/region] | [region]British Dominion of Canada[/region] | [region]British America[/region] | [region]City of Edinburgh[/region] | [region]Stornoway[/region]
-[hr][url=https://www.youtube.com/watch?v=AprzF5_6hGs]God Save the King[/url]
+[url=https://www.youtube.com/watch?v=AprzF5_6hGs]God Save the King[/url]
 [url=https://www.youtube.com/watch?v=7MG27BKwjaI]English Anthem[/url]
 [region]Church of England[/region]
 [region]Bank of England[/region]
 
-British Citizens must swear allegiance to the Crown. Foreign Nationals may not be permanent residents and are restricted from public service[/b]
+[color=gold]Britannia:[/color] | [region]English Kingdom[/region] | [region]Kinrick o Scotland[/region]  | [region]Dominion of Wales[/region] |
+[color=gold]Dominions:[/color] | [region]Dominion of Australia[/region] | [region]Dominion of New Zealand[/region] | [region]British Dominion of Canada[/region] | [region]British America[/region] |
+[color=gold]Allies:[/color] | [region]Deutsches Kaiserreich[/region] | [region]Kingdom of Italy[/region] | [region]Konungariket Sverige[/region] | [region]Kongeriket Norge[/region] | [region]Koninkrijk Belgie[/region] |
+[/b]

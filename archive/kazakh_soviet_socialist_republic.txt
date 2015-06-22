@@ -1,0 +1,20 @@
+[color=red][B]Welcome to the Kazakh Soviet Socialist Republic![/B][/color]
+
+We are the second largest republic within the Soviet Union.
+
+[color=blue][u][B]Administration[/B][/u][/color]
+[B]Head Administrator: [nation]Central Asian Republics[/nation]
+Capital City: [nation=short+noflag]Alma-Ata[/nation][/B]
+
+[color=red][B][u]Regional Cabinet[/u][/B][/color]
+[B]Head Minister: None
+Minister of Foreign Affairs: None
+Minister of Internal Affairs: None
+Minister of Defence: None
+Minister of Media: None[/B]
+
+[color=orange][B][u]Regional Justice Court[/u][/B][/color]
+[B]Supreme Judge: None
+Minor Judge #1: None
+Minor Judge #2: None
+Minor Judge #3: None[/B]

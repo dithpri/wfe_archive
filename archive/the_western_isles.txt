@@ -17,9 +17,9 @@ Sec. of the Exterior:   [nation=short]Mubaru[/nation] [url=http://www.nationstat
 [b]Judicial Branch[/b] [url=http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=338672]+[/url]
 Justice: [nation=short]Linaviar[/nation]
 Justice: [nation=short]Bhumidol[/nation]
-Justice: [nation=short]Dibeg[/nation]
 Justice: [nation=short]Cottoria[/nation]
 Justice: [nation=short]The Pacific Peace Union[/nation]
+Justice: 
 
 [b]Legislative Branch[/b]
 All nations may propose laws
