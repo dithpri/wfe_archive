@@ -1,4 +1,4 @@
-The president: The Island of the Cat (His power is currently limited)
+The president:  [nation]Island of the Cat[/nation] (His power is currently limited)
 Minister of Foreign Affairs and Embassy: VACANT
 Minister of Interior: VACANT
 Federal Councillors:
@@ -6,6 +6,5 @@ Federal Councillors:
 - VACANT
 
 WA Delegate:
--United German Principality
+- VACANT
 
-[color=red]/The Interim Regional Map is the flag of the region!
