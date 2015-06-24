@@ -7,17 +7,17 @@ Secretary General:[nation=short]Jackonia[/nation]
 Chancellor:[nation=short]Picts[/nation]
 Speaker: [nation=short]Goustice[/nation]
 Prosecutor General:[nation=short]Narnifrey[/nation]
-High Commander: TBA
+High Commander: TBD
 [hr]
 [b]The Executive Cabinet[/b]
-Minister of the Interior: TBA
+Minister of the Interior: [nation=short]Neru[/nation]
 Minister of Finance: [nation=short]Sudweca[/nation]
-Minister of Foreign Affairs:TBA
+Minister of Foreign Affairs: [nation=short]Ragno[/nation]
 Minister of Culture: [nation=short]Marscida[/nation]
 [hr]
 [b]The High Court[/b]
-Chief Justice: [nation=short]New Saxumus[/nation]
-Justice: [nation=short]Vetega[/nation]
+Chief Justice: TBD
+Justice: TBD
 [hr]
 [color=orange][B]ACTIVE ROLEPLAY[/B][/color]:  [url=http://w11.zetaboards.com/CommonwealthOfCrowns/topic/10922061/5/#new]The Fall of the Aristotles [/url]
 

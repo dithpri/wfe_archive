@@ -1,11 +1,13 @@
-Welcome to the The Empire of the Rhine or The Rhineland Empire (Founded 17/05/2015)
-__________________________________________________________________________________________________________________________
+[i] Welcome to the The Empire of the Rhine or The Rhineland Empire (Founded 17/05/2015) [/i]
+[b]__________________________________________________________________________________________________________________________[/b]
 Information:
 Capital: Aachen 
 Government:Federal Monarchy 
-Emperor: Samogitias
-Chancellor: Angaria
+Emperor: [nation]samogitias[/nation]
+Crown Prince: [nation]eimlandia[/nation]
+Chancellor: [nation]angaria[/nation]
 Anthem: Die Wacht am Rhein
 Area: Most Member states in the Rhineland, some in the Baltics
 Era: 1830-1871 New Imperialism (Victorian)
-__________________________________________________________________________________________________________________________
+Map: https://www.nationstates.net/page=dispatch/id=442198
+[b]__________________________________________________________________________________________________________________________[/b]

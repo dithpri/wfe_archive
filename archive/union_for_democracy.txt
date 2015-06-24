@@ -1,10 +1,11 @@
-The president:  [nation]Island of the Cat[/nation] (His power is currently limited)
+The president:  [nation]Island of the Cat[/nation] 
 Minister of Foreign Affairs and Embassy: VACANT
-Minister of Interior: VACANT
+Minister of Interior: [nation]Old Great Italy[/nation]
 Federal Councillors:
 - VACANT
 - VACANT
 
 WA Delegate:
-- VACANT
+-  [nation]Old Great Italy[/nation]
+Join the World Assembl and endorse our delegate 
 

@@ -1,8 +1,8 @@
 [color=blue] First letter of first and second name: [/color]
 [color=red][b]
 
-[nation]Daniarchia[/nation] &amp;amp; [nation]New Daniarchia[/nation] = D A
-[nation]Mozilia[/nation] &amp;amp; [NATION] = T M
+[nation]Daniarchia[/nation] &amp;amp; [nation]New Daniarchia[/nation] &amp;amp; [nation]Danielsvote[/nation]= D A
+[nation]Mozilia[/nation] &amp;amp; [nation]mobroadan[/nation] = T M
 [nation]Kilidad and Tobago[/nation] = K M
 [nation]Morriseria[/nation] &amp;amp; [nation]Ewan[/nation] = E M
 [nation]New Tomupia[/nation] = T W
@@ -12,6 +12,7 @@
 [/color][/b]
 [i] Rules:
 &amp;gt; Members can have two nations - IF their first was kicked out of the WA
+&amp;gt; Members may [b] NOT [/b] have [b] MORE [/b] than two nations
 &amp;gt; Members with two nations [b] CAN NOT [/b] vote in regional polls twice
 &amp;gt; Members with two nations can only prioritize and use ONE NATION for figures [/i]
 

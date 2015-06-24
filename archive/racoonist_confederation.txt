@@ -2,6 +2,7 @@
 [nation]Racoon Republic of Racoonia[/nation]
 [nation]Mormainia[/nation]
 [nation]Nicky Union[/nation]
+[nation]The Greater States of Racoonia[/nation]
 
 [b]Minor Powers[/b]
 [nation]Spartan Confederation[/nation]
