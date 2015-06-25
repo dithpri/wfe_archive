@@ -6,7 +6,7 @@
 [color=Brown]Governor-General[/color]: [nation]Lagrangian[/nation]
 
 [url=http://www.nationstates.net/nation=the_royal_alliance_government_archive/detail=factbook/id=436521][color=black][u]The First Cabinet[/u][/color][/url]
-[color=purple]Delegate/Prime Minister[/color]: [nation=short]Veritious[/nation] - [color=red]Please Endorse![/color]
+[color=purple]Delegate/Prime Minister[/color]: [nation=short]Veritious[/nation] / [nation=short]Unfallious[/nation] - [color=red]Please Endorse![/color]
 [color=purple]Deputy Prime Minister[/color]: [nation=short]Paseo[/nation]
 [color=navy]Minister of Internal Affairs:[/color] [nation=short]The Ebony Republic[/nation]
 [color=navy]Minister of Foreign Affairs:[/color] [nation=short]Le Rochelle[/nation]
@@ -19,4 +19,4 @@
 
 [hr][B]Role-Play Calendar:[/B] [B][color=red]2010[/color][/B]
 
-[hr][b]Endorsement Cap:[/B] [B][color=red]TBD[/color][/B]
+[hr][b]Endorsement Cap:[/B] [B][color=red]53[/color][/B]
