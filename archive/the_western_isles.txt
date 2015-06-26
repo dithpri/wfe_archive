@@ -19,7 +19,7 @@ Justice: [nation=short]Linaviar[/nation]
 Justice: [nation=short]Bhumidol[/nation]
 Justice: [nation=short]Cottoria[/nation]
 Justice: [nation=short]The Pacific Peace Union[/nation]
-Justice: 
+Justice: [nation=short]Landinium[/nation]
 
 [b]Legislative Branch[/b]
 All nations may propose laws

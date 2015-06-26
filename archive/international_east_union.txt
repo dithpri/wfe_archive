@@ -3,11 +3,13 @@
 
 [b]Although we encourage all WA members to exchange endorsement freely, you may not receive more endorsements than that of the Delegate.[/b]
 
-[hr][list][b][color=77003c]Co-Founder:[/color][/b] [nation=short]Aeternabilis[/nation]
+[hr][list][b][color=77003c]Founder:[/color][/b] [nation=short]People Who Stand United[/nation]
 
-[b][color=6a006a]Speaker:[/color][/b][/list]
+[b][color=77003c]Co-Founder:[/color][/b] [nation=short]Aeternabilis[/nation]
 
-[b]Monarchs -[/b] Next Election on Wednesday, August 5, 2015[list]
+[b][color=6a006a]Speaker:[/color][/b] Vacant[/list]
+
+[b]Monarchs -[/b][list]
 
 [b][color=631db4]Queen:[/color][/b] 
 [nation=short]Amy Kabra[/nation]
@@ -15,12 +17,12 @@
 [b][color=0021cb]Queen Consort:[/color][/b]
 [nation=short]The_first_Carthage[/nation][/list]
 
-[b]Ministry -[/b] Next Elections on Sunday, May 17, 2015:[list]
+[b]Ministry -[/b][list]
 
 [b][color=005682]Prime Minister:[/color][/b]
 [nation=short]Aeternabilis[/nation]
 
-[b][color=008282]Deputy Minister:[/color][/b]
+[b][color=008282]Deputy Prime Minister:[/color][/b]
 [nation=short]The_first_Carthage[/nation]
 
 [b][color=008141]Minister of Defense:[/color][/b] 

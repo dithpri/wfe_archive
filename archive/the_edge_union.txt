@@ -25,6 +25,3 @@ Allies:
 [region]Dominion of Rattlehead[/region] 
 [region]The Resistance of Tyranasgaard[/region]
 [region]Bayside Church[/region]
-
-Enemy: 
-[region]DEN[/region]

@@ -3,17 +3,17 @@ Welcome to India, a Region dedicated to a nation that boasts a 6000 years of his
 
 [b][i]Regional Government[/i][/b]
 [i]The Elected Council[/i] 
-The Elected Head of the Government - [nation]Kikrosta[/nation]
-The Ministry of Internal Affairs - --EMPTY--
+[i]The Elected Head of the Government[/i] - [nation]Kikrosta[/nation]
+The Ministry of Internal Affairs - [nation]The Supreme World[/nation]
 The Ministry of External Affairs -[nation]indian arsenal[/nation]
 The Ministry of Defense - [nation]Kumbhalgarh[/nation]
 
 
-[i]Selected Council[/i]
+[b][i]Selected Council[/i][/b]
 The House of Wise Word for the Delegate:
-[nation]nirupama[/nation]
-[nation]Vishnupura[/nation]
-[nation]The tigers of satvahannahs[/nation]
+[i]Advisory Department Head[/i]: [nation]The tigers of satvahannahs[/nation]
+General Adviser: [nation]nirupama[/nation]
+General Adviser: [nation]Vishnupura[/nation]
 
-Current Events: General Elections Phase
-Security Level : Moderate
+Current Events: Post - General Elections Phase. 
+Security Level : [color=green]Relaxed[/color]
