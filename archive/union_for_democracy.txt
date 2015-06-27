@@ -1,11 +1,11 @@
-The president:  [nation]Island of the Cat[/nation] 
-Minister of Foreign Affairs and Embassy: VACANT
-Minister of Interior: [nation]Old Great Italy[/nation]
-Federal Councillors:
+[color=blue]The president[/color]:  [nation]Island of the Cat[/nation] 
+[color=orange]Minister of Foreign Affairs and Embassy[/color]: VACANT
+[color=red]Minister of Interior[/color]: [nation]Old Great Italy[/nation]
+[color=green]Federal Councillors[/color]:
 - VACANT
 - VACANT
 
-WA Delegate:
+[color=grey]WA Delegate[/color]:
 -  [nation]Old Great Italy[/nation]
 Join the World Assembly and endorse our delegate 
 

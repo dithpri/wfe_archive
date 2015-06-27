@@ -3,8 +3,10 @@ Made of a pseudounknown material and found in the southwest of the eastwestern s
 Iron (Fe)
 Bismuth (Bi)
 Molebdynum (Mb)
+Copper (Cu)
 and Tellurium (Te)
 
-The Randomly Misplaced Artificial Isles&amp;#39; Cabinet has two nations currently,
-[nation]Quasiphage[/nation]; the Supreme Administrator and Founder, and
-[nation]Flurgg[/nation]; the Grand Adviser-Staffbearer
+The Randomly Misplaced Artificial Isles&amp;#39; Cabinet has three nations currently,
+[nation]Quasiphage[/nation]; the Supreme Administrator and Founder,
+[nation]Flurgg[/nation]; the Grand Adviser-Staffbearer, and
+[nation]Anglica Isle[/nation]; the Grammar Inquisitor-Enforcer

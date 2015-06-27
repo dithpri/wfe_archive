@@ -4,11 +4,11 @@
 
 [hr][u]Sovereign[/u] 
 [color=Brown]Governor-General[/color]: [nation]Lagrangian[/nation]
-[color=Brown]Delegate/Assistant Governor[/color]: Interim: [nation=short]Talvezout[/nation] - [color=red]Please Endorse![/color]
+[color=Brown]Delegate/Assistant Governor[/color]:
 
-[url=http://www.nationstates.net/nation=the_royal_alliance_government_archive/detail=factbook/id=436521][color=black][u]The First Cabinet[/u][/color][/url]
-[color=purple]Prime Minister:[/color]
-[color=purple]Deputy Prime Minister[/color] 
+[url=http://www.nationstates.net/nation=the_royal_alliance_government_archive/detail=factbook/id=436521][color=black][u]Executive[/u][/color][/url]
+[color=navy]Prime Minister:[/color]
+[color=navy]Deputy Prime Minister:[/color] 
 [color=navy]Minister of Internal Affairs:[/color] 
 [color=navy]Minister of Foreign Affairs:[/color]
 [color=navy]Minister of Defence:[/color]  
@@ -17,4 +17,4 @@
 
 [hr][B]Role-Play Calendar:[/B] [B][color=red]2010[/color][/B]
 
-[hr][b]Endorsement Cap:[/B] [B][color=red]unlimited![/color][/B]
+[hr][b]Endorsement Cap:[/B] [B][color=red]TBD[/color][/B]

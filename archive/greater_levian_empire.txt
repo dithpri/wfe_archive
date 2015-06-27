@@ -2,7 +2,6 @@
 All embassy requests WILL be rejected unless requested by Leveat.
 
 [i]Home Region: [region]Confederacy of Allied States[/region] ([nation=short]Leveat[/nation])
-Vacation Home: [region]Lazarus Grand Peninsula[/region] (no nation)
-MTF [nation=short]Alsuna[/nation]: [region]The Great NS Expedition Headquarters[/region] ([nation=short]Alsuna[/nation])[/i]
+Vacation Home: [region]Lazarus Grand Peninsula[/region] (no nation)[/i]
 
-This WFE last updated 2015-04-01.
+This WFE last updated 2015-05-26.
