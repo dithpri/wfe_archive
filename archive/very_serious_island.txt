@@ -7,7 +7,6 @@ The most serious island in the world
 [nation]robusting[/nation] - Will
 [nation]dryadius[/nation] - Connor
 [nation]falshun[/nation] - Andrew
-[nation]devolution[/nation] - Will
 [nation]dewiswchland[/nation] - Michael
 
 [b]Current Positions:[/b]
@@ -15,5 +14,4 @@ WA Delegate - [nation]mango_nation[/nation]
 Founder - [nation]servitium[/nation]
 Head of Foreign Affairs - [nation]falshun[/nation] 
 Head of Defense - [nation]servitium[/nation]
-Head of Domestic Affairs - 
-[nation]dryadius[/nation]
+Head of Domestic Affairs - [nation]dryadius[/nation]

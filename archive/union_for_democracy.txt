@@ -1,7 +1,9 @@
 [color=blue]The president[/color]:  [nation]Island of the Cat[/nation] 
-[color=orange]Minister of Foreign Affairs and Embassy[/color]: VACANT
+[color=orange]Minister of Foreign Affairs and Embassies[/color]: [nation]Isola Roja[/nation]
 [color=red]Minister of Interior[/color]: [nation]Old Great Italy[/nation]
-[color=green]Federal Councillors[/color]:
+[color=red]Vice-Minister of the Interior[/color]: Not Appointed
+[color=orange]Vice-Minister of Foreign Affairs and Embassies[/color]:Not Appointed
+[color=black]Federal Councillors[/color]:
 - VACANT
 - VACANT
 
