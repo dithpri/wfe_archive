@@ -1,8 +1,8 @@
 The NS Infrastructure Investment Bank is a region focused on the investment of mass infrastructure.It provides financial aid and advice for member nations.
 
 President: [nation]Chinvania[/nation]
-General Secretary: [nation]Cascadeterre[/nation]
-Chief Financial Officer: [nation]Lishwah[/nation] 
+General Secretary: [nation]Changuria[/nation]
+Chief Financial Officer: [nation]Junta Islands[/nation] 
 
 NS Infrastructure Security Council
 [nation]Chinvania[/nation]
@@ -10,9 +10,8 @@ NS Infrastructure Security Council
 [nation]Akberzajian[/nation]
 [nation]Anastia[/nation]
 [nation]Hokahatsu[/nation]
-[nation]Cascadeterre[/nation]
 [nation]Kapuk Nadek[/nation]
-[nation]Changuria[/nation]
+[nation]Cascadeterre[/nation]
 [nation]Tubmoni[/nation]
 [nation]Koxembourg[/nation]
 [nation]Plaek Chiang[/nation]

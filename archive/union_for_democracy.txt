@@ -1,13 +1,16 @@
 [color=blue]The president[/color]:  [nation]Island of the Cat[/nation] 
-[color=orange]Minister of Foreign Affairs and Embassies[/color]: [nation]Isola Roja[/nation]
+[color=blue] Vice-president[/color]: [nation]Oldest France[/nation]
+[color=orange]Minister of Foreign Affairs and Embassies[/color]: [nation]Isola Roja[/nation]                   
 [color=red]Minister of Interior[/color]: [nation]Old Great Italy[/nation]
-[color=red]Vice-Minister of the Interior[/color]: Not Appointed
 [color=orange]Vice-Minister of Foreign Affairs and Embassies[/color]:Not Appointed
-[color=black]Federal Councillors[/color]:
-- VACANT
-- VACANT
-
+[color=red]Vice-Minister of the Interior[/color]: Not Appointed
+[color=violet]Federal Councillors[/color]:
+- [nation]Aquanexus[/nation]
+- [nation]Great Old Russia[/nation]
 [color=grey]WA Delegate[/color]:
 -  [nation]Old Great Italy[/nation]
-Join the World Assembly and endorse our delegate 
+
+Join the [color=blue]World Assembly[/color] and endorse our delegate 
+
+[url=http://us19.chatzy.com/88826074655830]Federal Council[/url] The Official Chat of the Federal Council
 

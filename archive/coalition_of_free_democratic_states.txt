@@ -8,6 +8,6 @@
 [b][color=orange]The Council[/color][/b]
 President: [nation]William Empire[/nation]
 Chief Recruiter: [nation]Joshua States[/nation]
-Adviser: [color=blue]Open[/color]
+Adviser: [nation]Hlaalu[/nation]
 Secretary of Defense: [color=red]Region Size: 15[/color]
 Historian: [color=red]Region Size: 20[/color]

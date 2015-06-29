@@ -1,14 +1,12 @@
-[color=purple][i]Emotion, yet peace.
+[b][color=skyblue][i]Emotion, yet peace.
 Ignorance, yet knowledge.
 Passion, yet serenity.
 Chaos, yet harmony.
-Death, yet the Force.[/i][/color]
+Death, yet the Force.[/i][/color][/b]
 
-[b][color=red]We can take anything you can throw at us and more. Give it your best shot.[/b][/color]
+[color=limegreen]A Jedi shall not know hate, nor anger, nor[/color]
 
-[color=fuchsia]A Jedi shall not know hate, nor anger, nor[/color]
-
-Grand Jedi Master: [nation=short]Jedi Clarinetists[/nation]
-Jedi Council: [nation=shortnoflag]Ct-7567[/nation], [nation=shortnoflag]NewJediOrder[/nation]
+Grand Jedi Master: [nation]Jedi Clarinetists[/nation]
+Jedi Council: [nation=shortnoflag]Ct-7567[/nation], [nation=shortnoflag]NewJediOrder[/nation], [nation=shortnoflag]CC-2224[/nation], [nation=shortnoflag]Han solo burger[/nation]
 Jedi Knight:
 Padawan Learner: [nation=shortnoflag]Graystaveann[/nation]
