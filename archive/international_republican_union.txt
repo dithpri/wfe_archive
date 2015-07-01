@@ -4,7 +4,6 @@
 [nation=short]Poptropia[/nation], Delegate and President
 
 [nation=short]Jadentopia[/nation], Minister of Measure and Senator Seat Five
-[nation=short]Avengers World[/nation], Minister of Military and Senator Seat Four
 [nation=short]Correctional Facility[/nation], District Court Judge and Senator Seat Three
 [nation=short]Vichtander in IRU[/nation], Supreme Court Justice and Senator Seat Two
 

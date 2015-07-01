@@ -18,6 +18,6 @@ EMPEROR[/b]: [nation]Sensimillastan[/nation]
 
 [b]SENATE[/b]:
 [b]SEAT 1[/b]: [nation]Tobylatvia[/nation]
-[b]SEAT 2[/b]: [nation]Arnesby Rebulic[/nation]
+[b]SEAT 2[/b]: ---
 [b]SEAT 3[/b]: [nation]Drakorvanyia[/nation]
 [b]SEAT 4[/b]: [nation]Yaotzin[/nation]

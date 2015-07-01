@@ -4,8 +4,9 @@
 
 [color=#000034]Troops:[/color][color=#9a6601]
 Field Marshal: [nation=short]Gest[/nation]: 
-Sergeant: [nation=short]Knot II[/nation]
 Black Hawk: [nation=short]Coraxion[/nation]
+
+
 
 [hr]
 

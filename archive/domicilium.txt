@@ -1,16 +1,16 @@
-[b][color=darkred]Welcome to Domicilium![/color] [color=darkcrimson]We dare to defend our rights![/color][hr][color=darkred][url=http://bit.ly/1GJ8HRe]Welcome[/url] &middot; [url=http://bit.ly/1JlHEPU]Constitution[/url] &middot; [url=http://bit.ly/1R0DdkH]Laws[/url][hr][u]First Government[/color][/u]
+[b][color=darkred]Welcome to Domicilium![/color] [color=darkcrimson]We dare to defend our rights![/color][hr][color=darkred][url=http://bit.ly/1GJ8HRe]Welcome[/url] &middot; [url=http://bit.ly/1JlHEPU]Constitution[/url] &middot; [url=http://bit.ly/1R0DdkH]Laws[/url][hr][u]Interim Government[/color][/u]
 
 Consul:[/b]
-N/A
+[nation=unfallious]
 
 [b]Magistrate for Foreign Affairs:[/b]
-N/A
+[nation=Illithia]
 
 [b]Magistrate for Defence:[/b]
-N/A
+[nation=orvellia]
 
 [b]Magistrate for Justice:[/b]
-N/A
+[nation=jaslandia_in_domicilium]
 
 [b]Magistrate for the Interior:[/b]
 N/A
