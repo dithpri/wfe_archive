@@ -6,13 +6,13 @@ ___________________________________________
 
 [i][b]Council:[/b][/i]
 Head Councilor: [nation]Flattnerk[/nation]
-Councilor: [nation]DardoIllyria[/nation]
-Councilor: [nation]The Anean Tribes[/nation]
-Councilor: [nation]Kares[/nation]
-Councillor:
+Councilor:
+Councilor:
+Councilor
+Councilor:
 
 [b][i]Justice Court:[/i][/b]
-Chief Justice: [nation]the republic rome[/nation]
+Chief Justice: 
 Justice: [nation]Farnest[/nation]
 Justice: [nation]Bradfield[/nation]
 

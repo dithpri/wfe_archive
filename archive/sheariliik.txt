@@ -11,4 +11,7 @@
 [nation=sheariliik-Marche Noir]
 [nation=sheariliik-Brasilistan]
 
+[B]ALLIES[/b]
+[nation=theropods]
+
 [i]Founded: 04-16-15[/i]
