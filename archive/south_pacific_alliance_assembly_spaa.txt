@@ -1,11 +1,9 @@
 [u]Welcome to the South Pacific Alliance Assemble! Or, SPAA for short. We are completely democratic and below are positions that are currently active![/u]
 
-[b]President:[/b] [color=red]United States of Wastelandsia[/color]
+[b]President:[/b] United States of [nation=short]Wastelandsia[/nation]
 
-[b]Vice-President:[/b] [color=red]The Federal Republic of the Byzantines and Turks[/color]
+[b]Vice-President:[/b] the Federal Republic of [nation=short]The Byzantines and Turks[/nation]
 
-[b]Secretary of Defense:[/b] [color=blue]the Republic of Lightstone[/color]
+[b]Secretary of Defense:[/b] the Republic of [nation=short]Lightstone[/nation]
 
-[b]Secretary of Immigration:[/b] Acting Secretary: [color=blue]The Constitutional Monarchy of Oelesa[/color]
-
-If you are interested in joining our region, contact the President or Secretary of Immigration.
+[b]Secretary of Immigration:[/b] Acting Secretary:The Constitutional Monarchy of [nation=short]Oelesa[/nation]

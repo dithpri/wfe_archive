@@ -6,6 +6,7 @@
 Field Marshal: [nation=short]Snowy Peninsula Minister[/nation]
 Major: [nation=short]Halivaara[/nation]
 Lieutenant: [nation=short]Callumikstan[/nation]
+Eternal President:  [nation=short]Kanaraq[/nation]
 
 
 [hr]

@@ -4,11 +4,11 @@
 
 [color=red]WA Delegate[/color]: Admiral [nation]Corporation of Aka[/nation]
 
-[color=red]WA Whip and Minister of Foreign Affairs[/color]: [nation]Sheikhia[/nation]
+[color=red]WA Whip and Minister of Foreign Affairs[/color]: Fleet Admiral [nation]Sheikhia[/nation]
 
-[color=red]Minister of Defense[/color]:[nation]Joseville[/nation]
+[color=red]Minister of Defense[/color]: Fleet Admiral [nation]Joseville[/nation]
 
-[color=red]Minister of Justice[/color]:[nation]Statevia[/nation]
+[color=red]Minister of Justice[/color]: Admiral [nation]Statevia[/nation]
 
 [color=red]Director of Intelligence[/color]: Admiral [nation]The Quadratic Formula[/nation]
 

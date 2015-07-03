@@ -17,6 +17,7 @@ Minister of Culture: [nation=short]Marscida[/nation]
 [hr]
 [b]The High Court[/b]
 Chief Justice: [nation=short]The Langobardi[/nation]
-Justice: TBD
+Justice: [nation=short]Sao Paulo e Prata[/nation] (pending approval)
+Justice: [nation=short]Ethopolis[/nation] (pending approval)
 [hr]
 [color=orange][B]ACTIVE ROLEPLAY[/B][/color]:  [url=http://w11.zetaboards.com/CommonwealthOfCrowns/topic/10922061/5/#new]The Fall of the Aristotles [/url]
