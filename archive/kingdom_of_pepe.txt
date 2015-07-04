@@ -13,8 +13,8 @@
 
 [b][color=red]President:[/b][/color][nation=short]seyenogard7[/nation]
 [b][color=blue]Vice President:[/b][/color][nation=short]Das-Batmania[/nation]
-[b][color=orange]Foreign Minister:[/b][/color][nation=short]Oldcrest[/nation]
-[b][color=yellow]Internal Affairs Minister:[/b][/color][nation=short]Corleyland[/nation]
+[b][color=orange]Minister of Foreign Affairs :[/b][/color][nation=short]Oldcrest[/nation]
+[b][color=yellow]Minister of Internal Affairs:[/b][/color][nation=short]Corleyland[/nation]
 [b][color=pink]Recruiter:[/b][/color] [nation=short]United States of Everyone[/nation]
 [color=rainbow]_______________________________[/color]
 

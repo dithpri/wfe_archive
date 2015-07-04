@@ -13,16 +13,9 @@
 
 [B]Founder:[/B] [nation=short]Icarus Administration[/nation]
 
-[B]President:[/B] [nation=short]Basseemia[/nation]
+[B]President:[/B] [nation=short]Solocon[/nation]
 
 [B]Legislature:[/B]
-[list]Senator: [nation=short]Aodan[/nation]
-Senator: [nation=short]Lyrasona[/nation]
-Senator: N/A
-Senator: [nation=short]United States of Spain[/nation]
-Senator: [nation=short]New Raffica[/nation][/list]
-
-[B]Judicial Committee:[/B]
-[list]1. [nation=short]Arstozcah[/nation]
-2. [nation=short]Precusor[/nation]
-3. [nation=short]TBD[/nation][/list]
+[list]Senator: [nation=short]Precusor[/nation]
+Senator: [nation=short]Basseemia[/nation]
+Senator: [nation=short]Lyrasona[/nation][/list]

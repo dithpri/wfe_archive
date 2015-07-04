@@ -5,7 +5,7 @@
 [color=crimson][b]Crown:[/color] Queen [nation=short]Charlotte Ryberg[/nation][/b]
 [color=crimson][b]Sovereign:[/color] Duke [nation=short]Dieterus[/nation][/b]
 [color=crimson][i]Interim[/i] [b]Viceroy:[/b][/color] [nation=short]Viking Sopo[/nation]
-[color=crimson][b]Jarl of Foreign Affairs:[/b][/color] TBD
+[color=crimson][b]Jarl of Foreign Affairs:[/b][/color] [nation=short]Founder Thoth ra[/nation]
 [color=crimson][b]Jarl of Domestic Affairs:[/b][/color] TBD
 [color=crimson][b]Jarl of Culture:[/b][/color] [nation=short]Erigia[/nation]
 [color=crimson][b]Grand Marshal:[/b][/color] [nation=short]Dieterus[/nation]
@@ -16,5 +16,5 @@
 [url=http://www.nationstates.net/page=sc]Security Council[/url]
 
 [b][color=crimson]Elections begin next month![/color][/b]
-[i]Don&amp;#39;t forget to endorse [nation=short]Viking Sopo[/nation], our interim Viceroy![/i]
+[i]Don&amp;#39;t forget to endorse [nation=short]Viking Sopo[/nation]![/i]
 [i]The regional roleplay, [u]NScandinavia[/u], is starting soon! Contact [nation=short]Erigia[/nation] to claim land on our [url=http://upload.vstanced.com/images/2015/06/29/update3.png]map[/url]![/i]

@@ -1,9 +1,11 @@
-Welcome to NationGrumps. Where we battle massive turds and praise HEP.
+Welcome to [region]NationGrumps[/region]. Where we battle massive turds and praise [color=purple]HEP[/color].
 
 Government: 
 
-Lord Protector: [nation]The Socialist Provinces of Newgardia[/nation]
+Lord Protector: [nation]Newgardia[/nation]
 
-Prime Minister: [nation]Holy Empire of Steel[/nation]
+Prime Minister: [nation]The Holy Empire of Steel[/nation]
 
-Minister of Social Affairs: [nation]The Dominion of Skrie-yun[/nation]
+Minister of Social Affairs: [nation]Skrie-yun[/nation]
+
+Official religion: [color=purple]Hepiscopal[/color]

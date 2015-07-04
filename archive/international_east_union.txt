@@ -4,10 +4,11 @@
 
 [hr][list][b]Founder:[/b] [nation=short]People Who Stand United[/nation]
 
-[b]Co-Founder:[/b] 
+[b]Co-Founder:[/b] [nation=short]Munray[/nation]
 
 [b][color=gold]Royal House:[/color]
-Queen: [nation=short]Amy Kabra[/nation]
+King: 
+
 Consort:
 
 [color=red]Executive:[/color]
@@ -15,7 +16,7 @@ Prime Minister: [nation=short]Munray[/nation]
 
 Deputy Minister: [nation=short]The first Carthage[/nation]
 
-Speaker:
+Speaker: [nation=short]Morytane[/nation]
 
 Justice Officer:
 

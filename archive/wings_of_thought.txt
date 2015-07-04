@@ -5,7 +5,7 @@
 [color=#FE2E2E]Minister of inner affairs,[/color]
 [color=#FF0000]Minister of external affairs,[/color]
 [color=#DF0101]Inspector,[/color]
-[color=#B40404]Judge,[/color]
+[color=#B40404]Judge,[/color][nation]william empire[/nation]
 
 [color=#81F781]Delegate,[nation]upbringers[/nation][/color]
 [color=#58FA58]RP Master,[nation]malvacka[/nation][/color]
@@ -13,6 +13,6 @@
 [color=#00FF00]Chief of newspaper,[/color]
 [color=#01DF01]Scout,[nation]onemansland[/nation][/color][hr]
 
-[b]Death toll:[/b][color=red][u]26[/u][/color] | [b]Be sure to join the[/b] [url=http://www.nationstates.net/page=un]WA[/url] [b]and endorse our delegate![/b] | [color=purple]Regional News:[/color][i]Updated the world factbook entry ^_^[/i]
+[b]Death toll:[/b][color=red][u]26[/u][/color] | [b]Be sure to join the[/b] [url=http://www.nationstates.net/page=un]WA[/url] [b]and endorse our delegate![/b]
 
 

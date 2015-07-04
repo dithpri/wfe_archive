@@ -1,1 +1,13 @@
 This region is for the governments of the Plembobrian provinces.
+
+[nation=short]The City of Rethel[/nation] Nonpartisan ultra-conformist organized state.
+[nation=short]Pyrandia[/nation] PNP dominated state
+[nation=short]Flithendale[/nation] PNP-PLP Libertarian business state.
+[nation=short]Crilalia[/nation] Autonomous RDP-PSF state.
+[nation=short]East Plinkenshire[/nation] Centrist state (RDP-PLP)
+[nation=short]West Plinkenshire[/nation] Centrist state (RDP)
+[nation=short]Clethelbend[/nation] Potentially autonomous Trading RDP state.
+[nation=short]Halbonia[/nation] Industrious RDP state.
+[nation=short]Cherpis[/nation] FEP-dominated hippy state
+[nation=short]Mediglorn[/nation] PSF-RDP-FEP
+[nation=short]Northelfrith[/nation] PSF-FEP
