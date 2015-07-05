@@ -4,10 +4,10 @@
 
 The realm is at peace once again, by Allah&amp;#39;s guiding hand. -Mohommad, Divine Suzerain of Face Capture
 
-Warden of the North: [nation=Beyond-The-Wall]
+[color=Grey]Warden of the North:[/color] [nation=Beyond-The-Wall]
 
-King in the South: [nation=Chirichella]
+[color=e6b800]King in the South:[/color] [nation=Chirichella]
 
-Warden of the East: [nation=Nyanlania]
+[color=00b8e6]Warden of the East:[/color] [nation=Nyanlania]
 
-Warden of the West: [nation=Allahngrad]
+[color=red]Warden of the West:[/color] [nation=Allahngrad]

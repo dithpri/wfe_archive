@@ -13,11 +13,11 @@ Lord High Commander: [nation=short]Vetega[/nation]
 Minister of the Interior: [nation=short]Neru[/nation]
 Minister of Finance: [nation=short]Sudweca[/nation]
 Minister of Foreign Affairs: [nation=short]Ragno[/nation]
-Minister of Culture: [nation=short]Marscida[/nation]
+Minister of Culture: TBD
 [hr]
 [b]The High Court[/b]
 Chief Justice: [nation=short]The Langobardi[/nation]
-Justice: [nation=short]Sao Paulo e Prata[/nation] (pending approval)
-Justice: [nation=short]Ethopolis[/nation] (pending approval)
+Justice: [nation=short]Sao Paulo e Prata[/nation]
+Justice: TBD
 [hr]
 [color=orange][B]ACTIVE ROLEPLAY[/B][/color]:  [url=http://w11.zetaboards.com/CommonwealthOfCrowns/topic/10922061/5/#new]The Fall of the Aristotles [/url]

@@ -18,7 +18,7 @@ Deputy Minister: [nation=short]The first Carthage[/nation]
 
 Speaker: [nation=short]Morytane[/nation]
 
-Justice Officer:
+Justice Officer:[nation=short]indhir[/nation]
 
 [color=blue]Ministers:[/color]
 Minister of Foreign Relations: [nation=short]venta[/nation]

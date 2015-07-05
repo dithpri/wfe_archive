@@ -13,7 +13,7 @@
 [nation=short]Liberated Democratic Republics[/nation] [b]([color=#002E4F]U[/color])[/b]
 
 [b]Minister of Foreign Affairs:[/b] 
-[nation=short]Fibertas[/nation] [b]([color=Purple]I[/color])[/b]
+[nation=short]Fibertas[/nation] [b]([color=Red]L[/color])[/b]
 
 [b]Minister of Internal Affairs:[/b] 
 [nation=short]Lavan Tiri[/nation] [b]([color=Purple]I[/color])[/b]
