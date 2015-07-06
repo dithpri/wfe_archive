@@ -4,6 +4,6 @@ Government:
 
 Federal President: [nation]New Quorland[/nation]
 
-Recruitment Councilor: To be appointed
+Recruitment Councilor: [nation]Radonistan[/nation]
 
 WA Delegate: To be endorsed 

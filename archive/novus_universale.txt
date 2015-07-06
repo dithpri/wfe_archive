@@ -1,10 +1,18 @@
 [color=blue]Welcome to Nova Universale, risen from the ashes of Universalis on June 24 of 2015![/color]
 [hr]
 [color=blue][u]The Government[/u]
-Minister of Culture: [nation]Greater Valdosta[/nation]
-Minister of Defense: [nation]Helensted[/nation]
-Minister of Intelligence: [nation]Mythnulland[/nation]
-Chief Justice of the Supreme Court: [nation]Segentaea[/nation] [spoiler=Supreme Court Members]1. [nation]Segentaea[/nation]
+
+Minister of Culture: 
+[nation]Greater Valdosta[/nation]
+
+Minister of Defense: 
+[nation]Helensted[/nation]
+
+Minister of Intelligence: 
+[nation]Mythnulland[/nation]
+
+Chief Justice of the Supreme Court: 
+[nation]Segentaea[/nation] [spoiler=Supreme Court Members]1. [nation]Segentaea[/nation]
 2. [nation]Spereta[/nation]
 3. [nation]Vacant[/nation]
 4. [nation]Vacant[/nation]

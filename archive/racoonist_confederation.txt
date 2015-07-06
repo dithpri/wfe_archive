@@ -1,10 +1,12 @@
-[b]Major Powers[/b]
+[b]Super Powers[/b]
 [nation]Racoon Republic of Racoonia[/nation]
+[nation]The Greater States of Racoonia[/nation]
+
+[b]Major Powers[/b]
 [nation]Racoonia the colony of Racoon Republic[/nation]
 [nation]Mormainia[/nation]
 [nation]Nicky Union[/nation]
 [nation]Spartan Confederation[/nation]
-[nation]The Greater States of Racoonia[/nation]
 [nation]Racoonian East Territory[/nation]
 
 [b]Minor Powers[/b]

@@ -3,8 +3,10 @@ Republican Action Against Despotism - [i]If you&amp;#39;re not fighting for free
 [hr][B]RAAD is a collective of regions and individuals dedicated to the eradication of all forms of authoritarianism and the militant left. The defense of freedom and democracy is paramount and is fought for by all those who associate themselves with RAAD.[/B]
 [hr][B]Administration[/B][hr]
 [list][B]Commissioner[/B]: [B][nation=short]Vichtander[/nation][/B]
-[B]Coordinator[/B]: [B][nation=short]Conservative Idealism[/nation][/B]
+[B]Coordinator[/B]: 
 [B]Operations Manager[/B]:
-[B]Defense Officer[/B]:
-[B]Intelligence Officer[/B]:
+[B]Defense Officer[/B]: [B][nation=short]Capt Pegleg Industries[/nation][/B]
+[B]Intelligence Officer[/B]: [B][nation=short]Conservative Idealism[/nation][/B]
 [B]Communications Officer[/B]:
+[hr][B]Immediate News[/B][hr]
+[list][B]Move a puppet to [region]The Hyatt Islands[/region] and endorse [nation=short]Netonia[/nation][/B]
