@@ -1,6 +1,6 @@
 THis is the headquarters of all my nationstating.  
-RP nation: [nation=short]dibeg[/nation], in [region]The Western Isles[/region]  
-WA nation: [nation=short]terravermelho[/nation] in [region]The Western Isles[/region]
+RP nation: [nation=short]dibeg[/nation], in [region]The Western Isles[/region]    working on it...
+WA nation: [nation=short]terravermelho[/nation] in [region]The Western Isles[/region]  working on it...
 Regional Leader: [nation=short]chasmity[/nation] in [region]Whirlpool Hall[/region]
 Big leaguer: [nation=short]the 71st yos[/nation], in [region]Europeia[/region]
 Others: [nation=short]the Stephen harper government adcampaign[/nation]
