@@ -6,6 +6,7 @@
 [u]Red Fleet Admiralty[/u]
 [nation=short]Misley[/nation]
 [nation=short]Timchiland[/nation]
+[nation=short]Esch[/nation] and [nation=short]Vetelo[/nation] (co-admirals)
 
 [u]Central Committee[/u]
 [color=red][b][i]&amp;quot;FOR KING, KOUNTRY, AND KOMINTERN!&amp;quot;[/i][/b][/color]

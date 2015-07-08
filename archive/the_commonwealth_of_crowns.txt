@@ -7,7 +7,7 @@ The Show must go on.
 [b]The XXII REC[/b]
 
 Lord Secretary General:[nation=short]Jackonia[/nation]
-Lord Chancellor:Vacant
+Interim Lord Chancellor:[nation=short]Vetega[/nation]
 Lord Speaker:[nation=short]Goustice[/nation]
 Lord Prosecutor General:[nation=short]Narnifrey[/nation]
 Lord High Commander:[nation=short]Vetega[/nation]
