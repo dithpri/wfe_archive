@@ -4,9 +4,11 @@
 [url=https://www.nationstates.net/page=dispatch/id=446888][color=black][b]MUSIC[/b][/color][/url] l [url=http://i.imgur.com/gWniJTv.png?1][color=black][b]MAP[/b][/color][/url] l [url=https://www.nationstates.net/page=dispatch/id=413499][color=black][b]CONSTITUTION[/b][/color][/url] l [url=https://www.nationstates.net/page=dispatch/id=413707][color=black][b]RANKS[/b][/color][/url] l [url=https://www.nationstates.net/page=dispatch/id=414777][color=black][b]HISTORY[/b][/color][/url] l [url=http://www.broomdces.com/nseconomy/regions.php?region=USSD&amp;amp;gdp=7][color=black][b]NSECONOMY[/b][/color][/url] l [url=http://www.nationstates.net/page=dispatch/id=429421][color=black][b]MILITARY[/b][/color][/url] l [url=http://www.nationstates.net/page=dispatch/id=427005][color=black][b]WAR[/b][/color][/url] l [url=http://www.nationstates.net/page=dispatch/id=427107][color=black][b]DIPLOMACY[/b][/color][/url] l [url=https://www.nationstates.net/region=the_red_fleet][color=red][b]RED FLEET[/b][/color][/url]
 
 [u]Red Fleet Admiralty[/u]
-[nation=short]Misley[/nation]
-[nation=short]Timchiland[/nation]
-[nation=short]Esch[/nation] and [nation=short]Vetelo[/nation] (co-admirals)
+[color=red][b][i]&amp;quot;BASH THE FASH!&amp;quot;[/i][/b][/color]
+[nation]Misley[/nation]
+[nation]Timchiland[/nation]
+[nation]Esch[/nation]
+[nation]Vetelo[/nation]
 
 [u]Central Committee[/u]
 [color=red][b][i]&amp;quot;FOR KING, KOUNTRY, AND KOMINTERN!&amp;quot;[/i][/b][/color]

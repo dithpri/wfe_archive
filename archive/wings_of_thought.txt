@@ -7,8 +7,8 @@
 [color=#DF0101]Inspector,[/color][nation]optiplex 790[/nation]
 [color=#B40404]Judge,[/color][nation]sumelia[/nation]
 
-[color=#81F781]Delegate,[nation]upbringers[/nation][/color]
-[color=#58FA58]RP Master,[nation]malvacka[/nation][/color]
+[color=#81F781]Delegate,[nation]malvacka[/nation][/color]
+[color=#58FA58]RP Master,[nation]karatekorp[/nation][/color]
 [color=#2EFE2E]Philosopher,[/color][nation]legion of hacking and slashing[/nation]
 [color=#00FF00]Chief of newspaper,[/color]
 [color=#01DF01]Scout,[nation]onemansland[/nation][/color][hr]
