@@ -5,10 +5,12 @@ Government: Regional Congress
 
 Election Status: Monthly Elections
 
+Representative:
+
 Congress:
-The Devious Party: 28.6% [nation=short]Thornico[/nation]
-The Piner Party: 28.6% [nation=short]The Cass Confederation[/nation]
-The Human-Error Party: 28.6% [nation=short]Big Bosss Wasteland[/nation]
-The Solar Party: 14.2% [nation=short]Mist Veil[/nation]
+The Devious Party: 20.0% [nation=short]Thornico[/nation]
+The Piner Party: 20.0% [nation=short]The Cass Confederation[/nation]
+The Human-Error Party: 20.0% [nation=short]Big Bosss Wasteland[/nation]
+The Solar Party: 40.0% [nation=short]Mist Veil[/nation]
 
 
