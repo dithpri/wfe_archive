@@ -10,11 +10,11 @@ President of the Military:
 
 Sec. of Defense:
 
-Sec. of the Interior: 
+Sec. of the Interior:[nation=short]Panama Island[/nation] 
 
 Sec. of the Exterior:
 
-Ambassador:
+Ambassador:[nation=short]chardonnay[/nation]
 
 JUDICIAL BRANCH
 
