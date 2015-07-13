@@ -5,7 +5,7 @@
 [b][u]Prime Minister[/b][/u] 
 [nation=short]the federal telecommunications bureau[/nation]
 [b][u]Ministry of Foreign Affairs[/b][/u]
-[b]VACANT[/b]
+[nation=short]russonesia[/nation] [b](Minister)[/b]
 [b][u]Intelligence Directorate[/b][/u]
 [nation=short]kaskadistan[/nation] [b](Director)[/b]
 [b][u]Recruitment Bureau[/b][/u]

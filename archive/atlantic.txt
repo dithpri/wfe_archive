@@ -8,14 +8,14 @@ Visit our website at [u]www.atlanticregion.webs.com[/u] to read our constitution
 [nation=short+noflag]The Reagan Regime[/nation]
 
 [u]President[/u]
-[nation=short+noflag]Vanderbilt Estate[/nation] (R)
+[nation=short+noflag]Vanderbilt Estate[/nation]
 [u]Vice President[/u]
-[nation=short+noflag]The Reagan Regime[/nation] (R)
+[nation=short+noflag]The Reagan Regime[/nation]
 
 [u]Speaker[/u]
-[color=green]President[/color] [nation=short+noflag]Vanderbilt Estate[/nation] (R)
-[u]Minority Leader[/u]
-[nation=short+noflag]The Sylvenian Puppeteer[/nation] (B)
+[color=red]Vacant[/color]
+[u]Representative[/u]
+[color=red]Vacant[/color]
 [u]Representative[/u]
 [color=red]Vacant[/color]
 [u]Representative[/u]

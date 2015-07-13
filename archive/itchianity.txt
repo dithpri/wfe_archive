@@ -2,9 +2,9 @@
 Pure Priest: [nation]Itchistan[/nation]
 Great Crusader: [nation]NatGeore[/nation]
 
-Vassal Regions: [region]Droosalem[/region]
+Vassal Regions: [region]Droosalem[/region] and  [region]The Greater Khrosdian Empire[/region]
 
-The [/color][color=brown]First Crusade[/color][color=purple] is raging on! Our war continues against [region]Wings of Thought[/region], [region]The Greater Khrosdian Empire[/region],[region]The Great Holy Qthilic Empire[/region] and [region]The Worldwide Union[/region]. Join the crusade![/color]
+The [/color][color=brown]First Crusade[/color][color=purple] is raging on! Our war continues against [region]Wings of Thought[/region], [region]The Great Holy Qthilic Empire[/region] and [region]The Worldwide Union[/region]. Join the crusade![/color]
 
 [color=blue]The Laws of Itchi -[/b]
 
