@@ -6,7 +6,7 @@
 
 [b][color=grey]Citizen-Delegate -[/color][/b] [nation]Jutensa[/nation]
 [b]Citizen-Initiator -[/b] [nation]Eluvatar[/nation]
-[b][color=grey]Citizen-Diplomat -[/color][/b] To be announced
+[b][color=grey]Citizen-Diplomat -[/color][/b] [nation]Myroria[/nation]
 [b]Citizen-Sergeant -[/b] [nation]Gullivania[/nation]
 [b][color=grey]Citizen-Liaison -[/color][/b] [nation]The True Democracy of America[/nation]
 

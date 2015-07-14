@@ -1,9 +1,11 @@
 President:Colonial Rhodesia
-First Lady:Great Vaeland
-Prime Minister:Vacant 
-Minister of Defense:Old South China
-Minister of Foreign Affairs:South East Rhodesia
-Minister of Interior:South Eastern Africa
+First lady:Great Vaeland
+Foreign Minister:South East Rhodesia
+Defense Minister:South Eastern Africa
+Interior Minister:F.M.C. corporations
+
+
+
 
 History:a British Colony from 1890 to 1965 that declared its Unilateral Independence from Great Britain on November 11th,1965 as a result of Britain&amp;#39;s inability to grant Rhodesia her Independence and since 1970 the former African Colony has been known as the Republic of Rhodesia.
 

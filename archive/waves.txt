@@ -4,4 +4,4 @@
 
 [b]Citizen-Sergeant -[/b] [nation=short]Gullivania[/nation]
 [b][color=grey]Corporal -[/color][/b] [nation=short]Eluvatar[/nation]
-[b]Lancepesades -[/b] [nation=short]Pauline Bonaparte[/nation], [nation=short]The First Garrison[/nation], [nation=short]Mjollnira[/nation]
+[b]Lancepesades -[/b] [nation=short]Pauline Bonaparte[/nation], [nation=short]The First Garrison[/nation]
