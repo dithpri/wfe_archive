@@ -7,14 +7,14 @@
 [b]Co-Founder:[/b] [nation=short]Munray[/nation]
 
 [b][color=gold]Royal House:[/color]
-King: 
+King: [nation=short]Astrosis[/nation]
 
 Consort:
 
 [color=red]Executive:[/color]
-Prime Minister: [nation=short]Munray[/nation]
+Prime Chancellor: [nation=short]Munray[/nation]
 
-Deputy Minister: [nation=short]Astrosis[/nation]
+Deputy Chancellor: [nation=short]Astrosis[/nation]
 
 Speaker: [nation=short]Morytane[/nation]
 

@@ -10,7 +10,7 @@ President: [nation=short]Nedea[/nation]
 Vice President: [nation=short]Onza[/nation] 
 Minister of Role Play: [nation=short]Airatania[/nation] 
 Minister of Cartography: [nation=short]Promethius Prime[/nation] 
-Minister of Foreign Affairs: [nation=short]St Saratoga[/nation] 
+Minister of Foreign Affairs: TBA
 Minister of Engagement &amp;amp; Interior: [nation=short]New Wolfeinstein[/nation] 
 
 [color=darkblue][b][u]Question of the Day[/u][/b][/color]

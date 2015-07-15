@@ -6,17 +6,21 @@
 
 [Url=http://worldalliance.postalboard.com/t857-incumbent-eleventh-wa-security-council][color=gold][b]The 11th SECURITY COUNCIL[/b][/color][/url]
 
-[b]+ President[/b] : [nation]trinity_sector[/nation]
+[b]+ President[/b] : to be elected by the WASC or the WA
+[B]+ Acting President[/b] : [nation]trinity_sector[/nation]
 [b]+ Vice President[/b] : to be appointed by the President
 
 [b]+ Member[/b] : [nation]scottlands[/nation]
-[b]+ Member[/b] : [nation]muchos_estados_unidos[/nation]
-[b]+ Member[/b] : [nation]omega atlantica[/nation]
+[b]+ Member[/b] : [nation=short]muchos_estados_unidos[/nation]
+[b]+ Member[/b] : [nation=short]omega atlantica[/nation]
 [b]+ Member[/b] : [nation]serenarea[/nation]
-[b]+ Member[/b] : [nation]islamic states of islamic states[/nation]
-[b]+ Member[/b] : [nation]great eurussia[/nation]
-[b]+ Member[/b] : [nation]unitarian_land[/nation]
-[b]+ Member[/b] : 6 vacant seats for future elected Members ...
+[b]+ Member[/b] : [nation=short]islamic states of islamic states[/nation]
+[b]+ Member[/b] : [nation=short]great eurussia[/nation]
+[b]+ Member[/b] : [nation=short]unitarian_land[/nation]
+[b]+ Member[/b] : [nation=short]great_empire_of_ireland[/nation]
+[b]+ Member[/b] : [nation]snarfia[/nation]
+[b]+ Member[/b] : [nation]corralejo[/nation]
+[b]+ Member[/b] : 3 vacant seats for future elected Members ...
 
 [/i][hr]
 
