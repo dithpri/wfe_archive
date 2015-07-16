@@ -13,7 +13,7 @@ Visit our website at [u]www.atlanticregion.webs.com[/u] to read our constitution
 [nation=short+noflag]The Reagan Regime[/nation]
 
 [u]Speaker[/u]
-[color=red]Vacant[/color]
+[color=green]President[/color] [nation=short+noflag]Vanderbilt Estate[/nation]
 [u]Representative[/u]
 [color=red]Vacant[/color]
 [u]Representative[/u]
@@ -24,7 +24,7 @@ Visit our website at [u]www.atlanticregion.webs.com[/u] to read our constitution
 [color=red]Vacant[/color]
 
 [u]Chief Justice[/u]
-[nation=short+noflag]Alpha-Idly[/nation]
+[color=red]Vacant[/color]
 [u]Justice[/u]
 [color=red]Vacant[/color]
 [u]Justice[/u]

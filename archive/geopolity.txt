@@ -9,7 +9,9 @@ Regional Cartographer: [nation]Falonia[/nation]
 
 Regional Historian: [nation]Tursiops[/nation]
 
-Economic Advisor: [nation]Navoih[/nation][hr]
+Economic Advisor:
+
+All nations are asked to endorse [nation]Imperial Eagle[/nation].
 
 Current News: Business as usual.[/b] 
 

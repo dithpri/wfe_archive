@@ -6,10 +6,10 @@
 [hr][u]Sovereign[/u]
 [color=brown]Governor-General:[/color] [nation=short]The Kingdom Lagrangian[/nation]
 
-[u]Executive[/u]
-[color=purple]Prime Minister:[/color] 
-[color=purple]Deputy Prime Minister:[/color] 
-[color=purple]Chief Justice:[/color]
+[u]Executive[/u] - Interim Government
+[color=purple]Prime Minister:[/color] [nation=short]Bordeaux association[/nation]
+[color=purple]Deputy Prime Minister:[/color] [nation=short]Delioria[/nation] 
+[color=purple]Chief Justice:[/color] [nation=short]Muffwaders[/nation]
 
 [u]Parliament[/u]
 [color=green]All WA Members[/color]
