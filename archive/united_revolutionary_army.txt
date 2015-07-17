@@ -1,10 +1,8 @@
-[color=red][b]Welcome to the United Revolutionary Army, a democratic and anti-establishment vassal state of the [region]Socialist Pact[/region].[/b][/color]
+[color=red][b]Welcome to the United Revolutionary Army, a democratic and anti-establishment sovereign region.
+This Army was previously a vassal region for the [region]Socialist Pact[/region].[/b][/color]
 
-[u][b][color=purple]Join the [region]Socialist Pact[/region]![/color][/b][/u]
+[color=blue]This region is currently inactive.
+The Constitution will be published by Dec 31, 2015.
+Elections will be held on Jan 20, 2016.[/color]
 
-[color=blue]The Constitution will be published by June 1, 2015.
-Elections will be held on June 20, 2015.[/color]
-
-Governor: [nation]The Leftland[/nation]
-
-[b][i][color=purple]Colonies of the Socialist Empire: [/i][/color][/b]
+Region Head: [nation]The Leftland[/nation]

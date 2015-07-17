@@ -9,7 +9,7 @@
 [b][color=gold]Royal House:[/color]
 King: [nation=short]Astrosis[/nation]
 
-Consort:
+Consort King: [nation=short]Indhir[/nation]
 
 [color=red]Executive:[/color]
 Prime Chancellor: [nation=short]Munray[/nation]
