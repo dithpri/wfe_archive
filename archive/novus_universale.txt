@@ -1,25 +1,37 @@
-[color=blue]Welcome to Nova Universale, risen from the ashes of Universalis on June 24 of 2015![/color]
+[color=blue][b]Welcome to Nova Universale, risen from the ashes of Universalis on June 24 of 2015![/b][/color]
 [hr]
-[color=blue][u]The Government[/u]
+[color=teal][b][u]The Government[/u][/b][/color] 
 
-Minister of Culture: 
-[nation]Greater Valdosta[/nation]
+[color=blue]Regional Delegate:[/color] 
 
-Minister of Defense: 
 [nation]Helensted[/nation]
 
-Minister of Intelligence: 
-[nation]Mythnulland[/nation]
+[color=blue]Minister of Culture:[/color]  
 
-Chief Justice of the Supreme Court: 
-[nation]Segentaea[/nation] [spoiler=Supreme Court Members]1. [nation]Segentaea[/nation]
-2. [nation]Spereta[/nation]
-3. [nation]Vacant[/nation]
-4. [nation]Vacant[/nation]
-5. [nation]Vacant [/nation]
-[/spoiler][/color]
+[nation]Greater Valdosta[/nation]
+
+[color=blue]Minister of Defense:[/color] 
+
+[nation]Helensted[/nation]
+
+[color=blue]Minister of Intelligence:
+
+[/color] [nation]Mythnulland[/nation]
+
+[color=blue]Chief Justice:[/color] 
+
+[nation]Segentaea[/nation]
+[spoiler=Supreme Court Members][nation]Segentaea[/nation]
+[nation]Spereta[/nation]
+[color=red]Vacant[/color]
+[color=red]Vacant[/color]
+[color=red]Vacant[/color]
+[/spoiler]
 [hr]
-[color=blue]Links[/color]
+[b][u][color=teal]Quick Links[/color][/u][/b]
+
 [url=https://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=346917]Novus Universale Regional Roleplay[/url]
+
 [url=http://nsdossier.texasregion.net/default.aspx#]Analysis Tool[/url] 
+
 [url=http://nationstatesplusplus.net/]NS++[/url]

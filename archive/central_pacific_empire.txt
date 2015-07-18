@@ -8,7 +8,7 @@
 [b]Minister of Defence[/b] - [nation=shortname]New Nationale Einheit[/nation]
 [b]Minister for Foreign Affairs[/b] - [nation=shortname]Forssaland[/nation]
 [b]Minister for Recruitment[/b] - [nation=shortname]Perlamo State[/nation]
-[b]Deputy Prime Minister and Minister of Interior, Cultural and Citizenship Affairs[/b] - [nation=shortname]Norton Island[/nation] 
+[b]Deputy Prime Minister, Government Chief Whip and Minister of Interior, Cultural and Citizenship Affairs[/b] - [nation=shortname]Norton Island[/nation] 
 
 [hr][b]Next Election Period: September 2015[/b]
 [b]Security Category: [color=red]SC2. Heightened Security[/color][/b]

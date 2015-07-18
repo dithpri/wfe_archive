@@ -1,10 +1,12 @@
 [color=Crimson][B][u]Regional Government of [region]Christians United[/region][/u][/B][/color]
-[B]President, Head of Intelligence and Regional Cartographer[/B]: [nation]The New Great Britian[/nation]
-[B]Vice President, Secretary of State and Recruitment Officer[/B]: [nation]Conlatz[/nation]
-[B]Duty Vice President[/B]: [color=red]TBA[/color]
-[B]Secretary of Defense[/B]: [nation]Ben Union[/nation]
-[B]Secretary of Communications[/B]: [nation]Christian Promised Land[/nation]
-[B]Chaplain[/B]: [nation]American Christian States[/nation]
+[B]Head of State[/B]: [Nation]Christian Promised Land[/nation], King
+[B]Governor General[/B]: TBA
+[B]Head of Government, Head of Intelligence and Regional Cartographer[/B]: [nation]The New Great Britian[/nation], PM
+[B]Duty Head of Government, and Recruitment Officer[/B]: [nation]Conlatz[/nation], VPM
+[B]Minister of State[/B]: TBA
+[B]Minister of Defense[/B]: [nation]Ben Union[/nation]
+[B]Minister of Communications[/B]: Abolished
+[B]Regional Chaplain[/B]: TBA
 [hr]
 [color=Blue][u][B]Verse for the Month of July[/B][/u][/color]
 &amp;quot;Trust in the Lord with all your heart And do not lean on your own understanding. In all your ways acknowledge Him, And He will make your paths straight.&amp;quot; -Pro. 3.5-6 in New American Standard Bible
