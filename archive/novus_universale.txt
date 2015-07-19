@@ -2,35 +2,41 @@
 [hr]
 [color=teal][b][u]The Government[/u][/b][/color] 
 
-[color=blue]Regional Delegate:[/color] 
+[color=teal]Regional Delegate:[/color] 
 
 [nation]Helensted[/nation]
 
-[color=blue]Minister of Culture:[/color]  
+[color=teal]Minister of Culture:[/color]  
 
 [nation]Greater Valdosta[/nation]
 
-[color=blue]Minister of Defense:[/color] 
+[color=teal]Minister of Defense:[/color] 
 
 [nation]Helensted[/nation]
 
-[color=blue]Minister of Intelligence:
+[color=teal]Minister of Intelligence:
 
 [/color] [nation]Mythnulland[/nation]
 
-[color=blue]Chief Justice:[/color] 
+[color=teal]Chief Justice:[/color] 
 
 [nation]Segentaea[/nation]
-[spoiler=Supreme Court Members][nation]Segentaea[/nation]
+[spoiler=[color=teal]Supreme Court Members[/color]][nation]Segentaea[/nation]
+
 [nation]Spereta[/nation]
-[color=red]Vacant[/color]
-[color=red]Vacant[/color]
-[color=red]Vacant[/color]
+
+[color=teal]Vacant[/color]
+
+[color=teal]Vacant[/color]
+
+[color=teal]Vacant[/color]
 [/spoiler]
 [hr]
 [b][u][color=teal]Quick Links[/color][/u][/b]
 
-[url=https://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=346917]Novus Universale Regional Roleplay[/url]
+[url=https://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=346917]Regional Roleplay[/url]
+
+[url=http://us23.chatzy.com/43363560904165]Regional IRC[/url]
 
 [url=http://nsdossier.texasregion.net/default.aspx#]Analysis Tool[/url] 
 
