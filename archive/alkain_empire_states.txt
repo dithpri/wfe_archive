@@ -16,13 +16,13 @@
 [i]- Vestigial Capital State: [/i]
 [nation]Magma8520[/nation]
 [i]- Vice Governing State:[/i] 
-[nation]Le Cratere de Laiton[/nation]
-[i]- Major Power States:[/i] 
 [nation]Elsa de Sica[/nation] 
+[i]- Major Power States:[/i] 
 [nation]Solum Sine Nefas[/nation]
 [i]- Protectorated States:[/i]
 [nation]Nevetnaci[/nation]
 [nation]ShiroKishi[/nation]
+[nation]Le Cratere de Laiton[/nation]
 [hr]
 
 [b]Legislature[/b]: 

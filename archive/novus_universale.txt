@@ -25,7 +25,7 @@
 
 [nation]Spereta[/nation]
 
-[color=teal]Vacant[/color]
+[nation]Plutocharon[/nation]
 
 [color=teal]Vacant[/color]
 
@@ -39,5 +39,3 @@
 [url=http://us23.chatzy.com/43363560904165]Regional IRC[/url]
 
 [url=http://nsdossier.texasregion.net/default.aspx#]Analysis Tool[/url] 
-
-[url=http://nationstatesplusplus.net/]NS++[/url]

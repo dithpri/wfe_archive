@@ -3,9 +3,9 @@ ________________________________________________________________________________
 [b][u]Information[/u][/b]:
 [b]Capital[/b]: Aachen. 
 [b]Government[/b]: Federal Monarchy. 
-[b]The Kaiser[/b]: [nation=noflag]samogitias[/nation].
+[b]The Kaiser[/b]: [nation=noflag]samogitias[/nation][DELEGATE].
 [b]The Crown Prince[/b]: [nation=noflag]eimlandia[/nation].
-[b]The Chancellor[/b]: [nation=noflag]angaria[/nation].
+[b]The Chancellor[/b]: [nation=noflag]angaria[/nation][VICE DELEGATE].
 [b]Anthem[/b]:[url=https://www.youtube.com/watch?v=g8fmG-p-DlQ/] Die Wacht am Rhein. [/url]
 [b]Area[/b]: Most Member states in the Rhineland, some in the Baltics.
 [b]Era[/b]: 1830-1871 New Imperialism (Victorian).
