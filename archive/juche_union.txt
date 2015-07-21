@@ -3,16 +3,16 @@ Welcome to the [region]Juche Union[/region]!
 [i]Freedom, Brotherhood and Self-Reliance[/i]
 
 Regional Government
-WA Delegate: [nation=short]Socialist Republics of Russia[/nation]
-Vice WA Delegate: [nation=short]Omensa[/nation]
-War Commissar: [nation=short]Communist Skyrim[/nation]
-General of the Red Army: [nation=short]Sween[/nation]
-Chief of the Regional Security Agency: [nation=short]Zipneta[/nation]
-Minister of Internal Affairs: [nation=short]Communal North[/nation]
+Premier: [nation=short]Communal North[/nation]
+Prime Minister:
+War Commissar: 
+General of the Red Army:
+Chief of the Regional Security Agency: 
+Minister of Internal Affairs:
 
 Security Level
 DEFCON 3 - HIGH READINESS
 
 [url=http://www.nationstates.net/nation=communist_skyrim/detail=factbook/id=354914]Patriots of the Union[/url]
 
-NEWS: 
+NEWS: Communal North has been elected Premier! [b]All WA nations please endorse Communal North.[/b]

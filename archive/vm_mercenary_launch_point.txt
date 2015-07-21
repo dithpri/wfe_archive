@@ -1,13 +1,15 @@
 [b][color=#0080BF]
 ---------------------------
-Raid [region]An Escape[/region]:
-- Endorse [nation=short]VM Private 01[/nation].
-- After Update return to this region.
-- While dormant puppets can be Non-WA.
+Raid [region]SPACE[/region]:
+- Endorse [nation=short]VM Private 01[/nation]
+- Remain in region until instructed.
 ---------------------------
-Raid [region]Yellow Mountain[/region]:
+Raid [region]Christmas[/region]:
 - Endorse [nation=short]VM Private 03[/nation]
-- After Update return to this region.
-- While dormant puppets can be Non-WA.
+- Remain in region until instructed.
+---------------------------
+Raid [region]Aeden[/region]:
+- Endorse [nation=short]VM Private 05[/nation]
+-Remain in region until instructed.
 ---------------------------
 [/color][/b]

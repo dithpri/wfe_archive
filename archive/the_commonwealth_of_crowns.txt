@@ -7,8 +7,8 @@ Welcome to a resurgent CoC!
 
 [b]The XXII REC[/b]
 
+ Lord Chancellor:[nation=short]Lentheric[/nation]
 Lord Secretary General:[nation=short]Jackonia[/nation]
-Interim Lord Chancellor:[nation=short]Vetega[/nation]
 Lord Speaker:[nation=short]Goustice[/nation]
 Lord Prosecutor General:[nation=short]Narnifrey[/nation]
 Lord High Commander:[nation=short]Vetega[/nation]
@@ -19,7 +19,7 @@ Lord High Commander:[nation=short]Vetega[/nation]
 Minister of the Interior:[nation=short]Neru[/nation]
 Minister of Finance:[nation=short]Sudweca[/nation]
 Minister of Foreign Affairs:[nation=short]Ragno[/nation]
-Minister of Culture:[nation=short]Marscida[/nation]
+Minister of Culture:Vacant
 
 [hr]
 

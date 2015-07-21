@@ -6,12 +6,17 @@ This newly established region is intended for mature individuals looking for a s
 
 Pending the establishment of a sufficient enough number of active member nations, this region will be democratically operated with a fluid, amendable constitution.[hr]
 
-|[nation=short]The President-in-Council[/nation]| - [nation=short]Saint Jonas[/nation]
+|[nation=short]The President-in-Council[/nation]|
+[nation=short]Saint Jonas[/nation]
 
-|The Prime Minister| - Interim Pending
+|[nation=short]The First Minister[/nation]|
+Interim Pending
 
-|Minister of State| - Interim Pending
+|[nation=short]The Minister of State[/nation]|
+Interim Pending
 
-|Minister of Defence| - Interim Pending
+|[nation=short]The Minister of Defence[/nation]|
+Interim Pending
 
-|Minister of Justice| - Interim Pending
+|[nation=short]The Minister of Justice[/nation]|
+Interim Pending

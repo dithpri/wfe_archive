@@ -7,7 +7,7 @@ First Princess: [nation=short]Darkitopia[/nation]
 Second Princess: [nation=short]Xiashu[/nation]
 Master of War: [nation=short]Grarrgtopia[/nation]
 - Lord Admiral: [nation=short]Fresas[/nation]
-- Lord Commander: [nation=short]Fraloza[/nation]
+- Lord Commander: 
 Master of Laws: [nation=short]Dragonpitopia[/nation]
 Master of Shadows: [nation=short]Aevenfall[/nation]
 Master of Foreign Affairs: [nation=short]Dunceland[/nation]
