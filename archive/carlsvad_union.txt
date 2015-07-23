@@ -1,5 +1,3 @@
-*Region-Based Nation*
-
 [b]Carlsvad Union(EN)/Karlswadunion(DE)/Uni Karlsvad(IND)[/b] 
 
 [b]Union Council[/b]:
@@ -14,10 +12,7 @@
 
 [b]Other Territories[/b]:
 [nation]Carlsvad Uloi[/nation]
--High Commissioner Dr. Christopher Paterson(Government Representative)
+-High Commissioner Air Marshal Konstantin Rokossovsky(Government Representative)
 
-[b]Factbook[/b]:
+[b]Factbook(s)[/b]:
 [url=http://www.nationstates.net/nation=german_indonesia/detail=factbook/id=297814]German Indonesia[/url] | [url=http://www.nationstates.net/nation=klemantan-borneo/detail=factbook/id=297811]Klemantan-Borneo[/url] | [url=http://www.nationstates.net/nation=rangoosia/detail=factbook/id=main]Rangoosia[/url] |  [url=http://www.nationstates.net/page=dispatch/id=423024]Carlsvad Uloi[/url]
-
-[b]Ambassador[/b]:
-[url=http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=302503&amp;amp;sid=60d9bd584317bce297919bba4ba48980]UTA[/url]- Dr. Reinhard Dietrich de Wizier-[nation]Klemantan-Borneo[/nation]
