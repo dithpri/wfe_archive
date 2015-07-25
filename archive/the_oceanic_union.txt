@@ -4,6 +4,6 @@ Government:
 
 Federal President: [nation]New Quorland[/nation]
 
-Recruitment Councilor: [nation]Radonistan[/nation]
+ Chief Advisor: [nation]Radonistan[/nation]
 
 WA Delegate: To be endorsed 

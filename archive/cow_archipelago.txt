@@ -1,0 +1,11 @@
+The government positions of Cow Archipelago are as follows*:
+Prime Minister:[nation]cowlands[/nation]
+Minister of agriculture:[nation][/nation]
+Minister of commerce:[nation][/nation]
+Minister of defense:[nation][/nation]
+Minister of education:[nation][/nation]
+Minister of energy:[nation][/nation]
+Minister of state:[nation][/nation]
+Minister of the treasury:[nation][/nation]
+*countries can have more than one position except for the prime minister
+more in next entry

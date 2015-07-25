@@ -15,7 +15,9 @@
 
 [color=#153E7E][b]Head of Customs/Immigration:[/b][/color] [nation]British Accia[/nation]
 
-[color=green][b]Internal Affairs:[/b][/color] [nation]USSRs[/nation]
+[color=green][b]Minister of Internal Affairs:[/b][/color] [nation]USSRs[/nation]
+
+[color=8B008B][b]Minister of Foreign Affairs:[/b][/color] [nation]Marxist Aequalitatem II[/nation]
 
 [hr]
 
