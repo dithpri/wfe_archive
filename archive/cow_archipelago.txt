@@ -1,11 +1,9 @@
-The government positions of Cow Archipelago are as follows*:
-Prime Minister:[nation]cowlands[/nation]
-Minister of agriculture:[nation][/nation]
-Minister of commerce:[nation][/nation]
-Minister of defense:[nation][/nation]
-Minister of education:[nation][/nation]
-Minister of energy:[nation][/nation]
-Minister of state:[nation][/nation]
-Minister of the treasury:[nation][/nation]
-*countries can have more than one position except for the prime minister
-more in next entry
+Cow Archipelago government officials:
+Prime Minister:[nation]cowlands[/nation](conservative)
+Minister of the military:[nation]the cow empire[/nation](conservative)
+Minister of security:[nation]cowtopia and mootopia[/nation](libertarian)
+Minister of services:[nation]the liberal cows[/nation](liberal)
+Minister of the economy:[nation]the coservative cows[/nation](conservative)
+Minister of foreign relations:[nation]the cow farmers[/nation](anarchist)
+Minister of the interior:[nation]furby islands[/nation](conservative)
+Minister of trade:[nation]michal is awsome[/nation](communist)

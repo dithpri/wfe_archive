@@ -15,8 +15,7 @@
 [hr]
 
 [b][color=darkslateblue]General Endorsement Limit: 30
-Guardian Endorsement Limit: 80
-Vizier Endorsement Limit: 90[/color][/b]
+Guardian Endorsement Limit: 80[/color][/b]
 
 [hr]
 
@@ -28,4 +27,4 @@ In-game embassies are granted only to regions with forum embassies or consulates
 
 [hr]
 
-[b][color=navy]BREAKING NEWS: KOTH IS FINALLY IN THE SEAT![/color][/b]
+[b][color=navy]Breaking News: The Sekhmet Legion takes over [region]Founderless[/region]![/color][/b]

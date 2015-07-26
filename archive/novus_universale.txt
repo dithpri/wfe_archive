@@ -1,41 +1,23 @@
-[color=blue][b]Welcome to Nova Universale, risen from the ashes of Universalis on June 24 of 2015![/b][/color]
+[color=teal][i]Welcome to Novus Universale, risen from the ashes of Universalis on June 24 of 2015! 
+
+If you want to apply as a candidate please vote on the poll. The government structure was also drastically changed for the soon to come August elections, so please check the new dispatch called Government Structure![/i][/color]
 [hr]
-[color=teal][b][u]The Government[/u][/b][/color] 
-
-[color=teal]Regional Delegate:[/color] 
-
-[nation]Helensted[/nation]
-
-[color=teal]Minister of Culture:[/color]  
-
-[nation]Greater Valdosta[/nation]
-
-[color=teal]Minister of Defense:[/color] 
-
-[nation]Helensted[/nation]
-
-[color=teal]Minister of Intelligence:
-
-[/color] [nation]Mythnulland[/nation]
-
-[color=teal]Chief Justice:[/color] 
-
-[nation]Segentaea[/nation]
-[spoiler=[color=teal]Supreme Court Members[/color]][nation]Segentaea[/nation]
-
-[nation]Spereta[/nation]
-
-[nation]Plutocharon[/nation]
-
-[color=teal]Vacant[/color]
-
-[color=teal]Vacant[/color]
-[/spoiler]
+[color=teal][i]The Government[/i]
+[list][*]Regional Delegate
+[list][*][nation]Helensted[/nation][/list]
+[*]Minister of Culture 
+[list][*][nation]Greater Valdosta[/nation][/list]
+[*]Minister of Defense
+[list][*][nation]Helensted[/nation][/list]
+[*]Minister of Intelligence
+[list][*][nation]Mythnulland[/nation][/list]
+[*]Supreme Court
+[list][*][nation]Segentaea[/nation]
+[*][nation]Spereta[/nation]
+[*][nation]Plutocharon[/nation][/list][/list][/color]
 [hr]
-[b][u][color=teal]Quick Links[/color][/u][/b]
-
-[url=https://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=346917]Regional Roleplay[/url]
-
-[url=http://us23.chatzy.com/43363560904165]Regional IRC[/url]
-
-[url=http://nsdossier.texasregion.net/default.aspx#]Analysis Tool[/url] 
+[color=teal][i]Quick Links[/i]
+[list][*][url=https://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=346917]Regional Roleplay[/url]
+[*][url=http://us23.chatzy.com/43363560904165]Regional IRC[/url]
+[*][url=http://nsdossier.texasregion.net/default.aspx#]Analysis Tool[/url][/list][/color] 
+ 
