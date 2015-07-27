@@ -6,7 +6,7 @@
 ~Prime Minister:[/b] [nation=Skytecnia]
 [b]~Minister of Foreign Affairs:[/b] [nation=The Saracens]
 [b]~Minister of Internal Affairs:[/b] [nation=The Saracens]
-[b]~Minister of Culture:[color=green]OPEN[/b][/color] 
+[b]~Minister of Culture:[/b][nation=Tabariz]
 [b]~Minister of Immigration:[/b] [nation=Tabariz]
 [b]~Minister of Defense:[/b] [nation=Moon rocks]
 [b]~Minister of Cartography:[/b][nation=The Saracens]
