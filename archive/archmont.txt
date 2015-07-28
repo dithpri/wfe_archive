@@ -1,6 +1,6 @@
 [color=blue][b]Welcome to[/color] [color=black]Archmont![/color][/b] [color=blue][i]Honour through duty[/i][/color]
 Archmont is a planet with many different environments and government types. Nations of all tech levels are accepted here.
-[hr][b][u][color=purple]Regional government:[/u][/b][/color]
+[hr][b][u][color=darkgreen]Regional government:[/b][/u][/color]
 [b]Chancellor:[/b] [b][nation=short]Luxdonia[/nation][/b]
 [b]Delegate:[/b] [b][nation=short]Avendonia[/nation][/b]
 [b]Premier:[/b] [b][nation=short]Grasnia[/nation][/b]

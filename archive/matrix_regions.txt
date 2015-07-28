@@ -1,8 +1,9 @@
-[color=534231][b]Matrix Regions[/b][/color][hr][color=teal]the group of [region=Ancient Lands]&amp;#39; regions that are open to embassy offers
-This is a buffer region for the Oracle Regions, through here will connect to the Matrix Regions.
-
-[region=The Dominion of Northern Ireland] is the last official Oracle Region.
-[region=Fort Meade] is the connecting Matrix Region. 
-Fort Mead will only accept Matrix Embassy Offers.
-
-This region will not be accepting embassy offers.[/color]
+[color=navy][b]Ancient Lands Alliance[/b] aka DBA or RHW Alliances are divided into two groups of regions.
+[list][b]Oracle Group[/b][list]This group of regions has at most only two embassies.
+These regions are not accepting Embassy Offers.
+See [region=The Icelandic Commonwealth] for more details about the Oracle Game (Texas).
+Last Oracle Region is [region=Country of God].[/list]
+[b]Matrix Group[/b][list]This group of regions accept embassy offers.
+My Matrix Regions include: [region=United States of America] and several of it&amp;#39;s states of the union.
+[/list][/list]
+This region is an Oracle Region, and will not be accepting embassy offers.[/color]

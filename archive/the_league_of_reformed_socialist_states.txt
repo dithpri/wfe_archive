@@ -1,8 +1,8 @@
-[color=red][B]Chancellor: OPEN
-Secretary of Foreign Affairs: OPEN
+[color=red][B]Chancellor: [nation]Kavamkao[/nation]
+Secretary of Foreign Affairs: [nation]Eurasica[/nation]
 Secretary of Internal Affairs: OPEN
-Secretary of Defence: OPEN
-Secretary of Culture, Education and Media: OPEN
-Secretary of Justice: OPEN[/color]
+Secretary of Defence: [nation]Central Asian Republics[/nation]
+Secretary of Culture, Education and Media: [nation]The Don River[/nation]
+Secretary of Justice:[/color] [nation]Lockewood[/nation]
 
 [url=http://www.nationstates.net/nation=hai_jin_lao/detail=factbook/id=257870] Regional Links[/url] [/b]
