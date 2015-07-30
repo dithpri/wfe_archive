@@ -4,32 +4,32 @@ Colors: [color=gold]Gold[/color], [color=gray]Gray[/color], [color=white]White[/
 [hr]
 
 [color=gold]Talkable Topic[/color]
-None
+What does your architect look like in your culture?
 
+Telegram [nation=short+noflag]Gorthias[/nation] for the next topic.
 [hr]
 
 [color=Gold][u]Government[/color][/u]
 
 [u][color=Gray]Executive[/color][/u]
 
-President: Vacant
-Vice President: Vacant
-Minister of Cabinet: Vacant
+[color=gold]President[/color]: Vacant
+[color=gold]Vice President[/color]: Vacant
+[color=gold]Minister of Cabinet[/Color]: Vacant
 (Cabinet positions: Open)
 
 [u][color=gray]Council[/color][/u]
 
-[color=White][b]Federation Representatives[/color][/b]:
+[color=White][b][i]Federation Representatives[/color][/b][/I]
 
-Not in session
+Vacant | Vacant | Vacant | Vacant
 
 [u][color=gray]Regional Court[/color][/u]
 
-High Judge: Vacant
-Court Judges:
-Vacant
-Vacant
-Vacant
+[color=gold]High Judge[/color]: Vacant
+[color=gold]Court Judges[/color]:
+
+Vacant | Vacant | Vacant
 
 [hr][color=gold]Links:[/color] Forums | Map | RP History | Government History | [url=http://www.nationstates.net/nation=gorthias/detail=factbook/id=459151]Federations[/url]
 [hr]

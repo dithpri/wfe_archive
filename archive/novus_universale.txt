@@ -4,17 +4,17 @@ If you want to apply as a candidate please vote on the poll. The government stru
 [hr]
 [color=teal][i]The Government[/i]
 [list][*]Regional Delegate
-[list][*][nation]Helensted[/nation][/list]
+[list][*][nation=short]Helensted[/nation][/list]
 [*]Minister of Culture 
-[list][*][nation]Greater Valdosta[/nation][/list]
+[list][*][nation=short]Greater Valdosta[/nation][/list]
 [*]Minister of Defense
-[list][*][nation]Helensted[/nation][/list]
+[list][*][nation=short]Helensted[/nation][/list]
 [*]Minister of Intelligence
-[list][*][nation]Mythnulland[/nation][/list]
+[list][*][nation=short]Mythnulland[/nation][/list]
 [*]Supreme Court
-[list][*][nation]Segentaea[/nation]
-[*][nation]Spereta[/nation]
-[*][nation]Plutocharon[/nation][/list][/list][/color]
+[list][*][nation=short]Segentaea[/nation]
+[*][nation=short]Spereta[/nation]
+[*][nation=short]Plutocharon[/nation][/list][/list][/color]
 [hr]
 [color=teal][i]Puppet States[/i]
 [list][*]Protectorate of [region]Indigo[/region][/list][/color]
@@ -22,5 +22,6 @@ If you want to apply as a candidate please vote on the poll. The government stru
 [color=teal][i]Quick Links[/i]
 [list][*][url=https://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=346917]Regional Roleplay[/url]
 [*][url=http://us23.chatzy.com/43363560904165]Regional IRC[/url]
+[*][url=https://nationstatesplusplus.net/]NationStates++[/url]
 [*][url=http://nsdossier.texasregion.net/default.aspx#]Analysis Tool[/url][/list][/color] 
  

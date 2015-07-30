@@ -21,7 +21,7 @@ Lord High Commander:[nation=short]Vetega[/nation]
 
 Minister of the Interior:[nation=short]Neru[/nation]
 Minister of Finance:[nation=short]Sudweca[/nation]
-Minister of Foreign Affairs:Vacant
+Minister of Foreign Affairs:[nation=short]Folms[/nation]
 Minister of Culture:Vacant
 
 [hr]
