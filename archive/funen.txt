@@ -4,9 +4,9 @@
 [hr][b][u]High Council[/u][/b]
 [color=crimson][b]Crown:[/color] Queen [nation=short]Charlotte Ryberg[/nation][/b]
 [color=crimson][b]Sovereign:[/color] Duke [nation=short]Dieterus[/nation][/b]
-[color=crimson][i]Interim[/i] [b]Viceroy:[/b][/color] [nation=short]Viking Sopo[/nation]
-[color=crimson][b]Jarl of Foreign Affairs:[/b][/color] [nation=short]Founder Thoth ra[/nation]
-[color=crimson][b]Jarl of Domestic Affairs:[/b][/color] TBD
+[color=crimson][b]Viceroy:[/b][/color] [nation=short]Founder Thoth ra[/nation]
+[color=crimson][b]Jarl of Foreign Affairs:[/b][/color] [nation=short]Natalia Alianovna Romanova[/nation]
+[color=crimson][b]Jarl of Domestic Affairs:[/b][/color] [nation=short]Brysonia[/nation]
 [color=crimson][b]Jarl of Culture:[/b][/color] [nation=short]Erigia[/nation]
 [color=crimson][b]Grand Marshal:[/b][/color] [nation=short]Dieterus[/nation]
 [color=crimson][b]High Thane:[/b][/color] TBD
@@ -15,6 +15,6 @@
 
 [i][url=http://forum.nationstates.net/viewtopic.php?f=31&amp;amp;t=347472]Roleplay: Angels and Demons[/url][/i]
 
-[b][color=crimson]Royal Elections: July 19th[/color][/b]
+[b][color=crimson]Elections have concluded.[/color][/b]
 [i]Don&amp;#39;t forget to endorse [nation=short]Blood1[/nation]![/i]
 [i]The regional roleplay, [u]NScandinavia[/u], is starting soon! Contact [nation=short]Erigia[/nation] to claim land on our [url=https://upload.vstanced.com/images/2015/07/29/update8.png]map[/url]![/i]

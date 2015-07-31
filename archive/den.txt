@@ -8,7 +8,7 @@
 
 Field Marshal: [nation=short]Gest[/nation]
 Generals: [nation=short]Kknight[/nation], [nation=short]Nordic Arbor[/nation], [nation=short]Camo5768[/nation]
-Brigadiers: [nation=short]Koth II[/nation], [nation=short]Scooby-doo[/nation], [nation=short]A Million Voices[/nation]
+Brigadiers: [nation=short]Koth II[/nation], [nation=short]knot ii[/nation]
 [/color] 
 
 [hr]

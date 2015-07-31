@@ -8,7 +8,7 @@
 [b][color=purple]Minister of Defense:[/color][/b] [nation=short]karvoco[/nation]
 [b][color=purple]Minister of Immigration:[/color][/b] [nation=short]Western Kurdistan[/nation]
 [b][color=purple]Minister of Culture:[/color][/b] [nation=short]Wolf Havens[/nation]
-[b][color=purple]Minister of Information:[/color][/b] [color=red]OPEN![/color]
+[b][color=purple]Minister of Information:[/color][/b] [nation=short]Serbatijan Empire[/nation]
 [b][color=purple]Minister of Education:[/color][/b] [nation=short]Earthecnia[/nation]
 [b][color=purple]Minister of Finance:[/color][/b] [nation=short]Tanzeratti[/nation]
 

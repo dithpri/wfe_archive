@@ -3,12 +3,13 @@
 
 [u][color=blue][b]Governo da Arapuca[/u][/color][/b]
 [b]Fundador:[/b] [nation=short]Segunda Gran Colombia[/nation]
-[b]Presidente:[/b] [nation=short]Hipona[/nation]
-[B]Primeiro Ministro:
+[b]Presidente:[/b][nation=short]Hipona[/nation]
+[b]Primeiro Ministro:
+Ministro da economia:[/b][nation=short]Glorkania[/nation]
 [b]Ministro de Leis:
-[B]Ministro de Defesa:
-[b]Ministro de Assuntos Exteriores:
-[B]Ministro de Esportes:
+Ministro de Defesa:
+Ministro de Assuntos Exteriores:
+Ministro de Esportes:
 
 As regras seguem as do grupo:
 https://www.facebook.com/groups/975432072481190/

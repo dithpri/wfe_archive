@@ -2,7 +2,7 @@
 
 -[nation=short]Roman Senator[/nation][hr][spoiler=Senate of the Republic:]
 Senate President: [nation=short]Land of Equality[/nation]
-Vice President: 
+Vice President: [nation=short]Land of Saia[/nation]
 Senator: [nation=short]Roman Senator[/nation]
 Senator: [nation=short]Kories[/nation]
 Senator: [nation=short]Karrjinowa[/nation]
