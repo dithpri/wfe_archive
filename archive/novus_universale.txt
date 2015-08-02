@@ -1,27 +1,29 @@
-[color=teal][i]Welcome to Novus Universale, risen from the ashes of Universalis on est June 24 of 2015![/color]
+[color=teal][i]Welcome to Novus Universale, risen from the ashes of Universalis on est June 24 of 2015![/i]
 
-[b][u]Vote for the Elections Days (Phase 1) [url=http://www.nationstates.net/page=poll/p=30081]here[/url]![/u][/b][/i]
 [hr]
-[color=teal][i]The Government[/i]
-[list][*]Regional Delegate
+[i]Announcements[/i]
+[list][*]Please participate in the second phase of the elections, [url=http://www.nationstates.net/page=poll/p=30156]here[/url]
+[*]All WA members, please endorse your current delegate [nation=short]Helensted[/nation][/list]
+[hr]
+[i]Regional Government[/i]
+[list][*]Regional Founder
+[list][*][nation=short]Nova Auraluxia[/nation][/list]
+[*]Regional Delegate
 [list][*][nation=short]Helensted[/nation][/list]
 [*]Minister of Culture 
 [list][*][nation=short]Greater Valdosta[/nation][/list]
-[*]Minister of Defense
-[list][*][nation=short]Helensted[/nation][/list]
-[*]Minister of Intelligence
-[list][*][nation=short]Mythnulland[/nation][/list]
-[*]Supreme Court
-[list][*][nation=short]Segentaea[/nation]
-[*][nation=short]Spereta[/nation]
-[*][nation=short]Plutocharon[/nation][/list][/list][/color]
+[*]Minister of Game Play
+[list][*]Under election[/list]
+[*]Minister of Role Play
+[list][*]Under election[/list][/list]
+
 [hr]
-[color=teal][i]Puppet States[/i]
-[list][*]Protectorate of [region]Indigo[/region][/list][/color]
+[i]Puppet Regions[/i]
+[list][*]Protectorate of [region]Indigo[/region][/list]
+
 [hr]
-[color=teal][i]Quick Links[/i]
+[i]Quick Links[/i]
 [list][*][url=https://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=346917]Regional Roleplay[/url]
 [*][url=http://us23.chatzy.com/43363560904165]Regional IRC[/url]
 [*][url=https://nationstatesplusplus.net/]NationStates++[/url]
-[*][url=http://nsdossier.texasregion.net/default.aspx#]Analysis Tool[/url][/list][/color] 
- 
+[*][url=http://nsdossier.texasregion.net/default.aspx#]Analysis Tool[/url][/list][/color]

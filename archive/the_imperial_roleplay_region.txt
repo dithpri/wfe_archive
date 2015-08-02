@@ -4,10 +4,10 @@
 
 [spoiler=[b]REGIONAL COUNCIL[/b]]
 [b][color=#8A0808]Emperor:[/color] [nation=short]The Eastern Union of Holt[/nation]
-[color=#FF8000]Delegate:
+[color=#FF8000]Delegate: [nation=short]Changesi[/nation]
 Chancellor:[/color]
-[color=#08088A]Councilor:[/color][nation=short]Changesi[/nation]
-Foriegn Affairs: [nation=short]Statevia[/nation][/b][/spoiler]
+[color=#08088A]Councilor:[/color]
+Foriegn Affairs: [/b][/spoiler]
 [spoiler=[b]ROLEPLAY SQUAD[/b]][b]Head Coordinator: [nation=short]The Eastern Union of Holt[/nation]
 Coordinator 1:
 Coordinator 2:

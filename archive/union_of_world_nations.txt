@@ -1,8 +1,14 @@
-Welcome to the Union of World Nations!
-Est. July 9, 2015
-Regional Government:
-President-[nation]Nichmerica[/nation]
-Upper Council-All places are vacant...elections are taking place!
-Court Judges-All places are vacant...elections are taking place!
-Lower Council-All places are vacant...elections are taking place!
-Come and join the UWN today!
+[color=teal][i]Welcome to the Union of World Nations, founded on July 9 of 2015![/i]
+[hr]
+[i]Regional Government[/i]
+[list][*]President
+[list][*][nation=short]Nichmerica[/nation][/list]
+[*]Upper Council
+[list][*][nation]The New Hindu Indian States[/nation]
+[nation]The 5th German Reich[/nation][/list]
+[*]Court Judges
+[list][*]All places are vacant...elections are taking place![/list]
+[*]Lower Council
+[list][*]All places are vacant...elections are taking place![/list][/list][/list]
+[hr]
+Come and join the UWN today![/color]

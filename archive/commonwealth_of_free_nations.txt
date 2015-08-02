@@ -3,11 +3,10 @@
 [hr]
 
 [u][B][url=http://www.nationstates.net/nation=the_cfn_archives/detail=factbook/id=438115][color=navy]Eleventh Cabinet[/color][/url][/B][/u] [list][b]Chancellor:[/b] 
-[nation=short]Everestopia[/nation] [b]([color=#002E4F]U[/color])[/b]
+[nation=short]Sulania[/nation] [b]([color=Red]L[/color])[/b]
 
 [b]Vice Chancellor:[/b] 
-[nation=short]Sulania[/nation] [i](Acting Chancellor)[/i] [b]([color=Red]L[/color])[/b]
-[nation=short]Au Minbo[/nation] [i](Acting Vice-Chancellor)[/i] [b]([color=Red]L[/color])[/b]
+[nation=short]Au Minbo[/nation] [b]([color=Red]L[/color])[/b]
 
 [b]Minister of Defense:[/b] 
 [nation=short]Liberated Democratic Republics[/nation] [b]([color=#002E4F]U[/color])[/b]
@@ -27,7 +26,7 @@
 
 [hr][b][u][color=navy]&amp;gt;&amp;gt;News&amp;lt;&amp;lt;[/color][/u][/b]
 
-[i]Everyone is advised to endorse [nation=short]Sulania[/nation] [/i]
+[i]CFN World Cup hosting bids are up, [url=http://cfnworldcup.weebly.com/feedback.html]be sure to vote![/url][/i]
 
 [hr][B][url=http://www.nationstates.net/nation=cfn_radio/detail=factbook/id=main][u][color=navy]&amp;gt;&amp;gt;CFN Radio&amp;lt;&amp;lt;[/color][/u][/url]
 [color=black]Now Playing:[/color][/B] [i][url=https://www.youtube.com/watch?v=f0EQlIzPowM]Black Veil Brides - In the End (2012)[/i][/url]
