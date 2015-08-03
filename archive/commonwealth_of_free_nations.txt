@@ -6,7 +6,8 @@
 [nation=short]Sulania[/nation] [b]([color=Red]L[/color])[/b]
 
 [b]Vice Chancellor:[/b] 
-[nation=short]Au Minbo[/nation] [b]([color=Red]L[/color])[/b]
+Vacancy
+[nation=short]Au Minbo[/nation] (Acting Vice Chancellor)
 
 [b]Minister of Defense:[/b] 
 [nation=short]Liberated Democratic Republics[/nation] [b]([color=#002E4F]U[/color])[/b]

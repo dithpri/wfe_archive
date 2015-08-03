@@ -4,8 +4,9 @@
 [list][*]President
 [list][*][nation=short]Nichmerica[/nation][/list]
 [*]Upper Council
-[list][*][nation]The New Hindu Indian States[/nation]
-[nation]The 5th German Reich[/nation][/list]
+[list][*][nation=short]The New Hindu Indian States[/nation]
+[*][nation]The 5th German Reich[/nation]
+[*]Vacant[/list]
 [*]Court Judges
 [list][*]All places are vacant...elections are taking place![/list]
 [*]Lower Council

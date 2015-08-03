@@ -12,13 +12,13 @@ President:     [nation=short]Vancouvia[/nation] [url=http://www.nationstates.net
 Vice President: [nation=short]Wildelyn[/nation]  [url=http://www.nationstates.net/page=dispatch/id=448415]+[/url]
 Sec. of the Interior:   [nation=short]Polar Svalbard[/nation]
 Sec. of the Exterior:   [nation=short]Mubaru[/nation] [url=http://www.nationstates.net/nation=mubaru/detail=factbook/id=430563]+[/url]
+Sec. of Information: [nation=short]Vancouvia[/nation] 
 
 [b]Judicial Branch[/b] [url=http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=338672]+[/url]
 Justice: [nation=short]Linaviar[/nation]
 Justice: [nation=short]Cottoria[/nation]
-Justice: [nation=short]The Pacific Peace Union[/nation]
-Justice: [nation=short]Landinium[/nation]
 Justice: [nation=short]Covonant[/nation]
+
 
 [b]Legislative Branch[/b]  [url=http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=347783]+[/url]
 [url=http://www.nationstates.net/page=dispatch/id=449155]Senators[/url]
@@ -30,7 +30,7 @@ Justice: [nation=short]Covonant[/nation]
 
 [color=#05999c]~Ongoing Events~[/color]
 
- Governmental Elections, [url=http://www.nationstates.net/page=dispatch/id=401675]News[/url], [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=340947]Backstories[/url], [url=http://forum.nationstates.net/viewtopic.php?f=6&amp;amp;t=341583]Trade[/url], [url=http://twiweatherchannel.weebly.com]Weather[/url], [url=http://forum.nationstates.net/viewtopic.php?f=31&amp;amp;t=348135]States[/url], [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=347148]Ball[/url], [url=http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=347916]Duke[/url], [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=343508]League[/url], [url=http://forum.nationstates.net/viewtopic.php?f=7&amp;amp;t=348106]Olympics[/url], [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=349112]Agent[/url], [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=349120]Merrihill[/url]
+ Governmental Elections, [url=http://www.nationstates.net/page=dispatch/id=401675]News[/url], [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=340947]Backstories[/url], [url=http://forum.nationstates.net/viewtopic.php?f=6&amp;amp;t=341583]Trade[/url], [url=http://twiweatherchannel.weebly.com]Weather[/url], [url=http://forum.nationstates.net/viewtopic.php?f=31&amp;amp;t=348135]States[/url], \[url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=343508]League[/url], [url=http://forum.nationstates.net/viewtopic.php?f=7&amp;amp;t=348106]Olympics[/url], [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=349112]Agent[/url], [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=349120]Merrihill[/url], [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=349659]Trial[/url]
 
 
 

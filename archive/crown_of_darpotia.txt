@@ -6,6 +6,8 @@ The king : Hi&eacute;nijkhus IV
 [Region]crown of darpotia[/region]
 The king&amp;#39;s heir : Hi&eacute;nijkhus V
 [Nation]darpotia[/nation]
+The khan of Darpath : &ouml;g&ouml;dei khan
+[Nation]darpath[/nation]
 The prime minister : &aacute;hm&euml;t s&uuml;kbl&atilde;rki
 [Nation]darpotia[/nation]
 The minister of economy : g&uuml;zyuk cry&iuml;l&iuml;us

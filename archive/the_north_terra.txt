@@ -1,8 +1,14 @@
-[color=white][b]Founded:[/b][/color] [color=green][I]August 1, 2015[/i][/color]
+[color=white][b]Founded:[/b][/color] [color=blue][I]August 1, 2015[/i][/color]
 
-[color=white][b]President:[/b][/color] [nation]Hydrica[/nation]
+[hr][color=white][b]President:[/b][/color] [nation]Hydrica[/nation][hr]
 
-[color=white][b]First Lady:[/b][/color] [nation]Zotoria[/nation]
+[hr][color=white][b]First Lady:[/b][/color] [nation]Zotoria[/nation][hr]
 
+[color=orange][hr]Cabinet positions currently up for grabs:[/color]
 
-[b][color=red]All nation members endorse[/color] [nation]Hydrica[/nation][/b]
+[color=teal]Vice President
+Attorney General
+Secretary of State
+Secretary of the Treasury
+
+[b][color=red]All nation members endorse[/color][/b] [nation]Hydrica[/nation]

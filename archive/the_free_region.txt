@@ -6,7 +6,7 @@
 [color=purple]Prime Minister:[/color][/b] [nation=short]Baccalieu[/nation]
 [b][color=purple]Minister of Internal Affairs:[/color][/b] [nation=short]Engelion[/nation]
 [b][color=purple]Minister of Foreign Affairs:[/color][/b] [nation=short]The Dictatorship Of Nixon[/nation]
-[b][color=purple]Minister of Defense:[/color][/b] [color=red]OPEN![/color]
+[b][color=purple]Minister of Defense:[/color][/b] [nation=short]karvoco[/nation]
 [b][color=purple]Minister of Immigration:[/color][/b] [nation=short]Western Kurdistan[/nation]
 [b][color=purple]Minister of Culture:[/color][/b] [nation=short]Wolf Havens[/nation]
 [b][color=purple]Minister of Information:[/color][/b] [nation=short]Tanzeratti[/nation]
@@ -26,4 +26,4 @@
 
 [hr]
 
-[b][url=http://thefreeregion.freeforums.net/]The Forums[/url] | [url=http://goo.gl/forms/kIWyoehs9F]TFR&amp;#39;s Regional Assembly[/url] | [color=green]Topic of the Day:[/color] If a rich relative died and said you could have their estate if you lived there, would you?[/b]
+[b][url=http://thefreeregion.freeforums.net/]The Forums[/url] | [url=http://goo.gl/forms/kIWyoehs9F]TFR&amp;#39;s Regional Assembly[/url] | [color=green]Topic of the Day:[/color] What&amp;#39;s your favorite cold drink?[/b]
