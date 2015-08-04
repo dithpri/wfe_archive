@@ -2,8 +2,8 @@ The First and Official successor to the United Nations Elite.
  
 [b]Motto[/b]: We Shall Push Through Adversity and Survive.
 
-Chancellor: [nation]Lattakkia[/nation]
+Chancellor: [nation]Cucuta[/nation]
 
-Supreme Court: [nation=short]Phnum Penh[/nation], [nation=short]Kusailia[/nation], [nation=short]Empire Cove[/nation]
+Supreme Court: [nation=short]Kusailia[/nation], [nation=short]Empire Cove[/nation], [nation=short]The Western Australian Republic[/nation]
 
-Secretary of Foreign Affairs: [nation]Shanewolverines[/nation]
+Secretary of Foreign Affairs: [nation]Impero del Brasile[/nation]

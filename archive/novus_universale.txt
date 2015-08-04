@@ -2,8 +2,8 @@
 
 [hr]
 [i]Announcements[/i]
-[list][*]Please participate in the second phase of the elections, [url=http://www.nationstates.net/page=poll/p=30156]here[/url]
-[*]All WA members, please endorse your current delegate [nation=short]Helensted[/nation][/list]
+[list][*]All WA members, please endorse your current delegate [nation=short]Helensted[/nation]
+[*]We are talking about a regional newspaper, please vote [url=http://www.nationstates.net/page=poll/p=30238]here[/url][/list]
 [hr]
 [i]Regional Government[/i]
 [list][*]Regional Founder
@@ -13,9 +13,9 @@
 [*]Minister of Culture 
 [list][*][nation=short]Greater Valdosta[/nation][/list]
 [*]Minister of Game Play
-[list][*]Under election[/list]
+[list][*][nation=short]Emprus Vyblium[/nation][/list]
 [*]Minister of Role Play
-[list][*]Under election[/list][/list]
+[list][*][nation=short]Nova Vermontia[/nation][/list][/list]
 
 [hr]
 [i]Puppet Regions[/i]
