@@ -1,14 +1,28 @@
-[color=white][b]Founded:[/b][/color] [color=blue][I]August 1, 2015[/i][/color]
+[color=white][b]Founded:[/b][/color] [color=red][I]August 1, 2015[/i][/color]
 
 [hr][color=white][b]President:[/b][/color] [nation]Hydrica[/nation][hr]
 
 [hr][color=white][b]First Lady:[/b][/color] [nation]Zotoria[/nation][hr]
 
-[color=orange][hr]Cabinet positions currently up for grabs:[/color]
+[hr][color=white][b]Secretary of Agriculture: [/b][/color][nation]Luspor[/nation][hr]
+
+
+[color=orange]Cabinet positions currently up for grabs:[/color]
 
 [color=teal]Vice President
 Attorney General
 Secretary of State
 Secretary of the Treasury
+Secretary of Defense
+Secretary of the Interior
+Secretary of Commerce
+Secretary of Labor
+Secretary of Health and Human Services
+Secretary of Housing and Urban Development
+Secretary of Transportation
+Secretary of Energy
+Secretary of Education
+Secretary of Veterans Affairs
+Secretary of Homeland Security[/color]
 
-[b][color=red]All nation members endorse[/color][/b] [nation]Hydrica[/nation]
+[b][hr][color=red]All nation members endorse[/color][/b] [nation]Hydrica[/nation][hr]

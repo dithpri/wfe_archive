@@ -4,9 +4,9 @@ This region is for every nation that&amp;#39;s intrested in conquering other reg
 
 [color=gold][b]Executive Branch[/b][/color]
 
-Emperor: [nation=shortflag]Blofrostonia[/nation]
-High general:
-Minister of defence:
-Minister of Interior:
-Minister of Exterior:
-Minister of information:
+High Emperor: [nation=shortflag]Blofrostonia[/nation]
+King:
+Prince:
+Duke:
+Baron:
+Count:
