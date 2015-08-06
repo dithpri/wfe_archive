@@ -8,7 +8,7 @@ Please try not to make this region your nations final resting place. We don&amp;
     [nation=short+noflag]armed Union[/nation]
                 [nation=short+noflag]ameriutopia[/nation]
                 [nation=short+noflag]greater carib[/nation]
-                [nation=short+noflag]naturist[/nation]
+                
                 [nation=short+noflag]liberty christians[/nation] 
 
 Bible verse: Titus 2:2
