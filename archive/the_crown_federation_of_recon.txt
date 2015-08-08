@@ -5,13 +5,13 @@ The Crown Federation of Recon is an absolute [u][url=http://en.wikipedia.org/wik
 [b][u][url=http://www.nationstates.net/page=dispatch/id=269290]Royal Atlas[/url][/u][/b] | [b][u][url=http://www.nationstates.net/nation=crown_federal_reserves_of_recon/detail=factbook/id=main]Crown Reserves[/url][/b][/u] | [b][u][url=http://www.nationstates.net/page=dispatch/id=418542]House Registry[/url][/b][/u] | [b][u][url=http://www.nationstates.net/page=dispatch/id=418543]Factbook[/url][/b][/u] | [b][u][url=http://www.nationstates.net/page=dispatch/id=445495]Lawbook[/url][/b][/u] | [b][u][url=http://www.nationstates.net/page=dispatch/id=421770]Constitution[/url][/b][/u] | [b][u][url=http://www.nationstates.net/page=dispatch/id=358900]Honours[/url][/b][/u]
 
 [hr][hr]
-[color=olive][b]Emperor:[/b] [nation=short]The Recon Empire[/nation]
+[color=olive][b]Emperor:[/b] [nation=short]The Recon Empire[/nation][/color]
 
-[b][u]HIM Superior Council[/u][/b][/color]
+[color=maroon][b][u]HIM Superior Council[/u][/b][/color]
 [b]Lord Overseer[/b] [nation=short]Grantine[/nation]
 [b]Lord Overseer[/b] [nation=short]Imperial Royal Union[/nation]
 
-[b][color=maroon][u]HIM Executive Council[/u][/color][/b]
+[b][color=orange][u]HIM Executive Council[/u][/color][/b]
 [b]WAD:[/b] [nation=short]Korosov[/nation]
 [b]Treasurer:[/b] [nation=short]Geara[/nation]
 [b][region]Phoenixus[/region] Gov.[/b]: [nation=short]Ashyaria[/nation]
@@ -26,7 +26,9 @@ The Crown Federation of Recon is an absolute [u][url=http://en.wikipedia.org/wik
 [b]MinEco:[/b] [nation=short]Tangshan[/nation]
 [hr][hr]
 
-[TBA: Assembly]
+[b][color=green][u]The Imperial Diet[/color][/u][/b]
+[b]Lord Speaker:[/b] [Vacant]
+[b]Lord Sergeant:[/b] [Vacant]
 [hr]
 
 [b][u][color=lime]NEWSFLASH:[/color][/u] [nation=short]Korosov[/nation] elected as new WA Delegate![/b]

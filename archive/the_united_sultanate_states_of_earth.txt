@@ -1,0 +1,1 @@
+System.out.print(&amp;quot;This sh*t is placeholder text&amp;quot;);

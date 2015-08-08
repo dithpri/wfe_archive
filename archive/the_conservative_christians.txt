@@ -7,9 +7,9 @@ Please try not to make this region your nations final resting place. We don&amp;
   Founders Council:
     [nation=short+noflag]armed Union[/nation]
                 [nation=short+noflag]ameriutopia[/nation]
-                [nation=short+noflag]greater carib[/nation]
-                
-                [nation=short+noflag]liberty christians[/nation] 
+                [nation=short+noflag]greater carib[/nation]   
+[nation=short+noflag]liberty christians[/nation]
+[nation=short+noflag]ruth[/nation]
 
 Bible verse: Titus 2:2
 Teach the older men to be temperate, worthy of respect, self-controlled, and sound in faith, in love and in endurance.

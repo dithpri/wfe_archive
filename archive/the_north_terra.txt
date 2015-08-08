@@ -4,6 +4,8 @@
 
 [hr][color=white][b]First Lady:[/b][/color] [nation]Zotoria[/nation][hr]
 
+[hr][color=white][b]Secretary of Defense:[/b][/color][nation]Tsan-Chan[/nation][hr]
+
 [hr][color=white][b]Secretary of Agriculture: [/b][/color][nation]Luspor[/nation][hr]
 
 
@@ -13,7 +15,6 @@
 Attorney General
 Secretary of State
 Secretary of the Treasury
-Secretary of Defense
 Secretary of the Interior
 Secretary of Commerce
 Secretary of Labor

@@ -5,8 +5,8 @@
 [list][color=#bab516]Sovereign:[/color] [nation=short]King Nephmir II[/nation]
 --&amp;gt;Regent: (To Be Appointed)
 
-[color=#bab516]Guardian:[/color] [nation=short]The Mid East Federation[/nation] (Endorse!)
---&amp;gt;Sage: [nation=short]Aramythia[/nation] - EndoCap: 35
+[color=#bab516]Guardian:[/color] [nation=short]Aramythia[/nation] (Interim) (Endorse!)
+--&amp;gt;Sage: [i]vacant[/i] - EndoCap: 35
 
 [color=#bab516]Promagistrate:[/color] [nation=short]Willyberg[/nation]
 --&amp;gt;Scribe: [nation=short]Chanlantica[/nation][/list]
