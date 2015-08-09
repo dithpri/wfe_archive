@@ -8,7 +8,9 @@
 [*][nation]The 5th German Reich[/nation]
 [*]Vacant[/list]
 [*]Court Judges
-[list][*]All places are vacant...elections are taking place![/list]
+[list][*][nation]Auralux[/nation]
+[*][nation]Nova Freedomland[/nation]
+[*][nation]The 2nd Japanese Empire[/nation][/list]
 [*]Lower Council
 [list][*]All places are vacant...elections are taking place![/list][/list][/list]
 [hr]
