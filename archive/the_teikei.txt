@@ -5,7 +5,6 @@
 [region]The West Pacific[/region], [color=2E8B57]Our Home Region[/b]
 [hr]&raquo;Our members are:
 [nation]United RussoAsia[/nation]
--Representative: [nation]the United Korean Lands[/nation]
 
 [nation]Hariko[/nation]
 -Representative: [nation]the Initohsine[/nation]
@@ -13,7 +12,7 @@
 [nation]Little Sealand[/nation]
 -Representative: [nation]Litt Saerfit[/nation]
 
-[nation]Ilegaki[/nation] [b]&laquo;No representative present yet[/b]
+[nation]Ilegaki[/nation]
 
 [nation]Recuecn[/nation]
 -Representative: [nation]Recuecn Contest[/nation][/color]

@@ -2,23 +2,23 @@
 
 [hr]
 
-[color=blue] [b] [u] Regional Government: [/u] [/b] [/color]
+[color=blue] [b] [u] Government: [/u] [/b] [/color]
 
 [b] [color=dodgerblue] [url=https://www.nationstates.net/page=un]We highly recommend that you join the World Assembly[/url]  [url=https://chrome.google.com/webstore/detail/nationstates%20%20/gcgdpgjockahmkhjgcfidmlahiicmagj]and also install the Nationstates++ plugin.[/url] [/b] [/color]
 
 [b] [color=darkviolet] Please endorse our WA delegate: [nation]Karsopolis[/nation]
 
-Founder: [nation]Chernordad[/nation]
 Minister of Communications: [nation]Allijian Empire[/nation]
 Minister of Internal Affairs: [nation]New Strausberg[/nation] 
-Minister of Citizenship: [nation]Albino Land[/nation]  
+Minister of Citizenship: [nation]Albino Land[/nation] 
+Minister of Architecture: [nation]Trinitatis Domain[/nation] 
 [/color] [/b]
 
 [hr]
 
 [color=blue] [b] [u] Regional Updates: [/u] [/b] [/color]
 [b] [color=DodgerBlue] 
-Regional Newspaper: [url=https://www.nationstates.net/page=blank?lookup_newspaper=3500]The New Alteran Sentinel (Nationstates++ required)[/url]
+[url=https://www.nationstates.net/page=blank?lookup_newspaper=3500]Regional Newspaper: The New Alteran Sentinel (Nationstates++ required)[/url]
 [/color]  [/b]
 
 [hr]

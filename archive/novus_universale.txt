@@ -2,8 +2,7 @@
 
 [hr]
 [i]Announcements[/i]
-[list][*]All WA members, please endorse your current delegate [nation=short]Helensted[/nation]
-[*]We are talking about a regional newspaper, please vote [url=http://www.nationstates.net/page=poll/p=30238]here[/url][/list]
+[list][*]All WA members, please endorse your current delegate [nation=short]Helensted[/nation][/list]
 [hr]
 [i]Regional Government[/i]
 [list][*]Regional Founder
@@ -11,11 +10,11 @@
 [*]Regional Delegate
 [list][*][nation=short]Helensted[/nation][/list]
 [*]Minister of Culture 
-[list][*][nation=short]Greater Valdosta[/nation][/list]
+[list][*][nation=short]Greater Valdosta[/nation][spoiler=Map Makers][list][*][nation=short]Greater Valdosta[/nation][*][nation=short]Nova Auraluxia[/nation][*][nation=short]Helensted[/nation][/list][/spoiler][/list]
 [*]Minister of Game Play
 [list][*][nation=short]Emprus Vyblium[/nation][/list]
 [*]Minister of Role Play
-[list][*][nation=short]Nova Vermontia[/nation][/list][/list]
+[list][*][nation=short]Nova Vermontia[/nation][/list][/list][/list]
 
 [hr]
 [i]Puppet Regions[/i]
