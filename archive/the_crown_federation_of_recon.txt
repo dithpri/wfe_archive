@@ -1,34 +1,28 @@
-[color=catalina][b][u]Welcome to the Crown Federation of Recon![/b][/u][/color]
-The Crown Federation of Recon is an absolute [u][url=http://en.wikipedia.org/wiki/Federal_monarchy]federal monarchist [/url][/u]region, believing in [b][u]meritocracy, hierarchy and imperialism[/b][/u], with [color=olive]Emperor Lee of [nation=short]The Recon Empire[/nation][/color] at the helm.
+[color=catalina]The Crown Federation of Recon is an absolute [u][url=http://en.wikipedia.org/wiki/Federal_monarchy]federal monarchist [/url][/u]region, believing in [b][u]meritocracy, hierarchy and imperialism[/b][/u]![/color]
 [hr][hr]
 
 [b][u][url=http://www.nationstates.net/page=dispatch/id=269290]Royal Atlas[/url][/u][/b] | [b][u][url=http://www.nationstates.net/nation=crown_federal_reserves_of_recon/detail=factbook/id=main]Crown Reserves[/url][/b][/u] | [b][u][url=http://www.nationstates.net/page=dispatch/id=418542]House Registry[/url][/b][/u] | [b][u][url=http://www.nationstates.net/page=dispatch/id=418543]Factbook[/url][/b][/u] | [b][u][url=http://www.nationstates.net/page=dispatch/id=445495]Lawbook[/url][/b][/u] | [b][u][url=http://www.nationstates.net/page=dispatch/id=421770]Constitution[/url][/b][/u] | [b][u][url=http://www.nationstates.net/page=dispatch/id=358900]Honours[/url][/b][/u] | [b][u][url=http://www.nationstates.net/page=dispatch/id=463615]Peerage[/url][/b][/u]
 
 [hr][hr]
-[color=olive][b]Emperor:[/b] [nation=short]The Recon Empire[/nation][/color]
+[color=olive][b]HIM Emperor:[/b] [nation=short]The Recon Empire[/nation][/color]
 
 [color=maroon][b][u]HIM Superior Council[/u][/b][/color]
+
 [b]Lord Overseer[/b] [nation=short]Grantine[/nation]
 [b]Lord Overseer[/b] [nation=short]Imperial Royal Union[/nation]
 
-[b][color=orange][u]HIM Executive Council[/u][/color][/b]
-[b]WAD:[/b] [nation=short]Korosov[/nation]
-[b]Treasurer:[/b] [nation=short]Geara[/nation]
-[b][region]Phoenixus[/region] Gov.[/b]: [nation=short]Ashyaria[/nation]
-[b][region]Kronesian Empire[/region] Gov.[/b]: [nation=short]Denathor[/nation]
+[hr][hr][b][color=navy][u]The Imperial Cabinet[/u][/color][/b]
 
-[hr][hr][b][url=http://www.nationstates.net/page=dispatch/id=215055#cabinet][color=navy][u]Cabinet[/u][/color][/url][/b]
 [b]1st Min:[/b] [nation=short]Lyovia[/nation]
 [b]2nd Min:[/b] [nation=short]Tyranniod overlords[/nation]
 [b]AttGen:[/b] [nation=short]Kr-Hai[/nation]
 [b]MinSoc:[/b] [nation=short]Sacheyenya[/nation]
 [b]MinInfo:[/b] [nation=short]Prothetassa[/nation]
 [b]MinEco:[/b] [nation=short]Tangshan[/nation]
-[hr][hr]
 
 [b][color=green][u]The Imperial Diet[/color][/u][/b]
-[b]Lord Speaker:[/b] [Vacant]
+[b]Lord Speaker:[/b] [nation=short]The Recon Empire[/nation]
 [b]Lord Sergeant:[/b] [Vacant]
 [hr]
 
-[b][u][color=lime]NEWSFLASH:[/color][/u] [nation=short]Korosov[/nation] elected as new WA Delegate![/b]
+[b][u][color=lime]NEWSFLASH:[/color][/u] Join the Imperial Diet by TGing the interim Lord Speaker, [nation=short]The Recon Empire[/nation]![/b]

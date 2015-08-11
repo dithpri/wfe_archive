@@ -1,6 +1,6 @@
 [B][color=yellow]Welcome to Pac Pac. Please endorse our President: [nation]Atticusland[/nation]
 
-[b][u][i]Head of the Pac Pac Council[/b][/u][/i][/color]
+[b/][u][i]Head of the Pac Pac Council[/b][/u][/i][/color]
 [color=red]Supreme Chancellor (The Capitol):[/color] [nation]Lackatoo[/nation] 
 [color=a01340]President of Pac Pac (The Capitol):[/color] [nation=Atticusland]
 [color=7ff00] Vice President of Pac Pac (The Capitol):[/color] [nation]Murderous Goats[/nation]
@@ -9,6 +9,6 @@
 
 [color=darkblue] Chairperson of the People (District I):[/color] [nation]Alaskan Tundra[/nation]
 
-[color=488214]Chairperson of the Environment (District III):[/color] [nation]Ibicir[/nation]
+[color=488214]Chairperson of the Environment (District III)
 
 [color=8b4513]Chairperson of Production (District IV):[/color] [nation]Bazookistan[/nation]
