@@ -1,7 +1,5 @@
 [hr][color=grey][b]THE SILENT STATES:[/b] [i]Founded August 9th, 2015 AD[/i][/color][hr][color=darkred][i]Welcome to The Silent States, an autonomous colony of the [region]Commonwealth of Free Nations[/region]. We are a community of nations dedicated to peace, justice and cooperation, in a world of violence, anarchy, and hate.[/color][/I]
-[Hr][b]Map coming soon![/b]
-[hr]
-[color=grey][b]THE SILENT GOVERNMENT[/b][/color][hr][list][b][u][FOUNDERS][/b][/u]
+[Hr][url=http://the-silent-states.proboards.com/]Forum![/url][url=http://the-silent-states.proboards.com/board/3/map]Map![/url][url=http://the-silent-states.proboards.com/board/4/first-court]Court![/url][hr][color=grey][b]THE SILENT GOVERNMENT[/b][/color][hr][list][b][u][FOUNDERS][/b][/u]
 [nation=short]Awesomeness1122[/nation], [nation=short]Vista Silence[/nation]
 
 [b][u][HERALD/PREMIER][/b][/u]
@@ -14,6 +12,7 @@ VACANT
 VACANT
 [/list]
 [hr][color=#838996][b]**SILENT STATE NEWS**[/b][/color]
+               [color=green][I]Forum created!![/I][/color]
 [hr][color=darkred]~[i]Region Under Construction--Please Stand By[/i][/color]
 [hr]
 [I][U]Current Defcon level:[/u] [color=blue]5[/color]

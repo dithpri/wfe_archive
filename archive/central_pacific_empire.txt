@@ -5,8 +5,8 @@
 [hr][b][u]July and August Government:[/u][/b]
 [b]Prime Minister:[/b] [nation=shortname]Latin and Central America[/nation]
 [b]Minister for Justice and Attorney General[/b] - [nation=shortname]Cliffton[/nation]
-[b]Minister of Defence[/b] - [nation=shortname]New Nationale Einheit[/nation]
-[b]Minister for Foreign Affairs[/b] - [nation=shortname]Forssaland[/nation]
+[b]Minister of Defence[/b] - [nation=shortname]Forssaland[/nation]
+[b]Minister for Foreign Affairs[/b] - [nation=shortname]New Nationale Einheit[/nation]
 [b]Minister for Recruitment[/b] - [nation=shortname]Perlamo State[/nation]
 [b]Deputy Prime Minister, Government Chief Whip and Minister of Interior, Cultural and Citizenship Affairs[/b] - [nation=shortname]Norton Island[/nation] 
 

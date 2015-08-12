@@ -1,0 +1,12 @@
+An region for [nation=short]New Republika Srpska[/nation]&amp;#39;s puppet nations.
+
+Amount of puppets: 5 (including founder)
+-[nation=short]The Serb[/nation]
+-[nation=short]Ujundi[/nation]
+-[nation=short]Greater Islamica[/nation]
+-[nation=short]Verdantine Sovereignty[/nation]
+-[nation=short]Austratt and Holy Rome[/nation]
+
+Puppets not in the region:
+-[nation=short]Ujundi[/nation] - [region]Westmere[/region]
+-[nation=short]Greater Islamica[/nation] - [region]Peoples Federation of Qandaristan[/region]

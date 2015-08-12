@@ -1,14 +1,15 @@
 [color=teal]Welcome to Nova Automata, this is the official role-play nation storage for [region]Novus Universale[/region].[/color]
 
 Basic Troop numbers(NOT INCLUDING AGRICULTURAL IMPORTS):
-[list][*][nation]La Royaume de Francais[/nation]: 300,000
-[*][nation]Sanctum Imperium Populi Romani[/nation]: 250,000
-[*][nation]Verdmontia[/nation]: 250,000
-[*][nation]GreatAthens[/nation]: 208,000
-[*][nation]Nalvograad[/nation]: 167,000
-[*][nation]Terra Equestor[/nation]: 125,000
-[*][nation]The Duchy of Prussia[/nation]: 84,000
-[*][nation]Tyr-Basiliscus[/nation]: 42,000[/list]
+[list][*][nation]La Royaume de Francais[/nation]: 525,000
+[*][nation]Nalvograad[/nation]: 300,000
+[*][nation]Sanctum Imperium Populi Romani[/nation]: 300,000
+[*][nation]Verdmontia[/nation]: 292,000
+[*][nation]GreatAthens[/nation]: 250,000
+[*][nation]Terra Equestor[/nation]: 100,000
+[*][nation]The Duchy of Prussia[/nation]: 100,000
+[*][nation]Tyr-Basiliscus[/nation]: 50,000[/list]
+Basic Troop Numbers will be updated once every day.
 
 This is used for troop calculation: https://www.nationstates.net/page=dispatch/id=464539
 

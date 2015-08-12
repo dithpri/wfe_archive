@@ -1,4 +1,4 @@
-[color=teal][i]Welcome to the Union of World Nations, founded on July 9 of 2015![/i]
+[color=blue][i][b]Welcome to the Union of World Nations, founded on July 9 of 2015![/b][/i]
 [hr]
 [i]Regional Government[/i]
 [list][*]President
@@ -12,6 +12,8 @@
 [*][nation]Nova Freedomland[/nation]
 [*][nation]The 2nd Japanese Empire[/nation][/list]
 [*]Lower Council
-[list][*]All places are vacant...elections are taking place![/list][/list][/list]
+[list][*]Vacant
+[*]Vacant
+[*]Vacant[/list][/list][/list]
 [hr]
 Come and join the UWN today![/color]
