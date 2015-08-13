@@ -15,7 +15,7 @@
 [*]Minister of Game Play
 [list][*][nation=short]Emprus Vyblium[/nation][/list]
 [*]Minister of Role Play
-[list][*][nation=short]Nova Vermontia[/nation][/list][/list][/list]
+[list][*][nation=short]PatrioticAmerica[/nation][/list][/list][/list]
 
 [hr]
 [i]Puppet Regions[/i]
@@ -24,7 +24,8 @@
 
 [hr]
 [i]Quick Links[/i]
-[list][*][URL=https://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=350493]Puppet Role Play[/URL]
+[list][*][url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=350611]Main Nation Role Play[/url]
+[*][url=https://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=350493]Puppet Nation Role Play[/url]
 [*][url=http://us23.chatzy.com/48608780341571]Regional IRC[/url]
 [*][url=https://nationstatesplusplus.net/]NationStates++[/url]
 [*][url=http://nsdossier.texasregion.net/default.aspx#]Analysis Tool[/url][/list][/color]

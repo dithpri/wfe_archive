@@ -4,6 +4,6 @@
 [hr]Regional Government:[/b]
 Emperor: [nation=short]Dragolina[/nation] 
 Governor: [nation=short]AzureWind[/nation]
-Senator: [position open]
+Senator: [nation=short]Mohailian Arhipelago[/nation]
 [i][hr][color=gray]*Embassy policies- to be added*[/color][/i]
 [color=black][b][hr]Sponsored by the [url=http://www.nationstates.net/page=dispatch/id=461221]New World Region Builder[/url][/b][/color]
