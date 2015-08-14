@@ -1,7 +1,9 @@
 UPFS historical project in the works by [nation=short]Marxist-Feminists[/nation][hr]
 [spoiler][url=http://newspaper.jordefamn.se/article.php?art=64]Article from DSA&amp;#39;s &amp;quot;Solidarity&amp;quot; about the UPFS[/url]
 
-[url=https://github.com/Limewood/webnewspaper/blob/master/header.php]Code for newspaper[/url]
+[url=http://newspaper.jordefamn.se/article.php?art=72]Article from DSA&amp;#39;s &amp;quot;Solidarity&amp;quot; about embassy closure[/url]
+
+[url=https://github.com/Limewood/webnewspaper/blob/master/header.php]Code for newspaper (I&amp;#39;m not sure)[/url]
 
 [url=https://forum.nationstates.net/viewtopic.php?f=23&amp;amp;t=154946]Former Constitution[/url]
 

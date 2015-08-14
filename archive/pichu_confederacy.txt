@@ -4,7 +4,7 @@ A pokemon theme region where people from raided regions can live in peace, and a
 
 Map: WIP
 Metals: WIP.
-Ranks:
+Ranks:10
 Follower
 Talker
 Handshaker

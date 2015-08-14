@@ -1,8 +1,10 @@
 [color=blue][i][b]Welcome to the Union of World Nations, founded on July 9 of 2015![/b][/i]
 [hr]
-[i]Regional Government[/i]
+[i][b]Regional Government[/b][/i]
 [list][*]President
-[list][*][nation=short]Nichmerica[/nation][/list]
+[list][*][nation=short]Nichmerica[/nation]
+[*]Map Maker:
+[*][nation]Auralux[/nation][/list]
 [*]Upper Council
 [list][*][nation=short]The New Hindu Indian States[/nation]
 [*][nation]The 5th German Reich[/nation]

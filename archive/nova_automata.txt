@@ -1,17 +1,31 @@
-[color=teal]Welcome to Nova Automata, this is the official role-play nation storage for [region]Novus Universale[/region].[/color]
-
-Basic Troop numbers(NOT INCLUDING AGRICULTURAL IMPORTS):
-[list][*][nation]La Royaume de Francais[/nation]: 400,000
-[*][nation]Verdmontia[/nation]: 400,000
-[*][nation]Nalvograad[/nation]: 350,000
-[*][nation]Sanctum Imperium Populi Romani[/nation]: 350,000
-[*][nation]GreatAthens[/nation]: 292,000
-[*][nation]Terra Equestor[/nation]: 100,000
-[*][nation]The Duchy of Prussia[/nation]: 117,000
-[*][nation]Auraluxia[/nation]: 117,000
-[*][nation]Tyr-Basiliscus[/nation]: 58,300[/list]
-Basic Troop Numbers will be updated once every day.
-
-This is used for troop calculation: https://www.nationstates.net/page=dispatch/id=464539
-
-Role-play here: https://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=350493
+[color=teal]Welcome to Nova Automata, this is the official role-play nation storage for [region]Novus Universale[/region].
+[hr]
+Roleplay Year: 1072
+[hr]
+Role Play Stats
+[spoiler=Basic Troop numbers]
+[list][*]Basic troops numbers don&amp;#39;t include agriculture imports
+[*]Updated once a day[/list]
+[list][*][nation=short]La Royaume de Francais[/nation]
+[list][*]450,000[/list]
+[*][nation=short]Nalvograad[/nation]
+[list][*]400,000[/list]
+[*][nation=short]Sanctum Imperium Populi Romani[/nation]
+[list][*]400,000[/list]
+[*][nation=short]Verdmontia[/nation]
+[list][*]375,000[/list]
+[*][nation=short]GreatAthens[/nation]
+[list][*]334,000[/list]
+[*][nation=short]Auraluxia[/nation]
+[list][*]150,000[/list]
+[*][nation=short]The Duchy of Prussia[/nation]
+[list][*]67,000[/list]
+[*][nation=short]Tyr-Basiliscus[/nation]
+[list][*]67,000[/list]
+[*][nation=short]Terra Equestor[/nation]
+[list][*]0[/list][/list][/spoiler]
+[hr]
+Quick Links
+[list][*][url=https://www.nationstates.net/page=dispatch/id=464539]Logic Formula[/url]
+[*][url=https://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=350493]Puppet Nation Role Play[/url]
+[*][url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=350611]Main Nation Role Play[/url][/list][/color]
