@@ -17,7 +17,7 @@
 
 [Color=red]Minister of Law:[/color] [i]Vacant[/i]
 
-[Color=red]Revolutionary Guard:[/color] [i]Vacant[/i][hr]
+[Color=red]Revolutionary Guard:[/color] [nation]Pruji[/nation][hr]
 
 [U]SUPREME COURT[/U]
 

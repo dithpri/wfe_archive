@@ -8,7 +8,7 @@
 [*]Upper Council
 [list][*][nation=short]The New Hindu Indian States[/nation]
 [*][nation]The 5th German Reich[/nation]
-[*]Vacant[/list]
+[*][nation]The Kingdom of North America[/nation][/list]
 [*]Court Judges
 [list][*][nation]Auralux[/nation]
 [*][nation]Nova Freedomland[/nation]
