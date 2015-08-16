@@ -6,13 +6,14 @@
 ~ Polemarch (Commander-in-Chief): [nation=short]Servius[/nation]
 ~ Proedros (Vice-Delegate):[nation=short]Pastheseus[/nation]
 ~ Archons (High Council):
-[nation=short]Elsweyr III[/nation]
-[nation=short]Adrianuntry[/nation]
-[nation=short]Aralunya[/nation]
-[nation=short]The Holy Republic of Bulgaria[/nation]
-[nation=short]Tauren[/nation], (PPT, Acting)
-[nation=short]Kaiseland[/nation]
-[nation=short]Akarov[/nation]
+1-[nation=short]Elsweyr III[/nation]
+2-[nation=short]Adrianuntry[/nation]
+3-[nation=short]Aralunya[/nation]
+4-[nation=short]The Holy Republic of Bulgaria[/nation]
+5-[nation=short]Tauren[/nation], (PPT, Acting)
+6-[nation=short]Kaiseland[/nation]
+7-[nation=short]Akarov[/nation]
+8-
 ~ Hypatos (Speaker of the Assembly):[/color]
 
 [color=#848482][i]All WA Members are asked to endorse Antiprosopos [nation=short]Ten Cities[/nation], and Proedros [nation=short]Pastheseus[/nation][/i][/color]

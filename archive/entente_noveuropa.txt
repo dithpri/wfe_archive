@@ -9,17 +9,30 @@ Venezia, Illuccia
 [nation]Ebolaistan[/nation]
 [nation]Ekliis[/nation]
 [nation]South Invidia[/nation]
+[nation]Zethenedyssa[/nation]
+[nation]Ath Khambriki[/nation]
 [b]Major Cities:[/b]
-Abraia, RI
-Venezia, RI
-Rijeka, RI
-Rima, RI
+
+Abraia, RI (Abaraja)
+Venezia, RI (Venezja)
+Rijeka, RI (Rjeka)
+
 Monrovia, EB
-Freetown, EB (?)
-Conakry, EB (?)
-Nova, EK (?)
-Reykjavik, EK (???)
+Freetown, EB
+Conakry, EB
+
+Nova, EK
+Reykjavik, EK
+Akureyri
+
 Akipja, SV
 Astiaab, SV
-Assarios, SV
 Aliariac, SV
+
+Thyss, ZE
+?, ZE
+?, ZE
+
+Nessalop, AK (&amp;amp;#1053;&amp;amp;#955;&amp;amp;#1100;&amp;amp;#1072;&amp;amp;#958;&amp;amp;#958;&amp;amp;#1086;&amp;amp;#960;&amp;amp;#1072;)
+Apo Khambriki, AK (&amp;amp;#1040;&amp;amp;#1087;&amp;amp;#1086;&amp;amp;#1078;&amp;amp;#969;&amp;amp;#1072;&amp;amp;#956;&amp;amp;#946;&amp;amp;#1094;&amp;amp;#1080;&amp;amp;#1078;&amp;amp;#1080;)
+Apo Zhiss, AK (&amp;amp;#1040;&amp;amp;#1087;&amp;amp;#1086;&amp;amp;#1102;&amp;amp;#1080;&amp;amp;#1100;)

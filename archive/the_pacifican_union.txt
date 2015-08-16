@@ -2,10 +2,10 @@
 President: [nation=short]Auricium[/nation]
 Vice President: [nation=short]Rhetlan[/nation]
 Protector: [nation=short]Third Untergang Republic[/nation] 
-Ministers: Vacant
+Ministers: TBD
 [u][b][color=#A9A9A9]Senate[/color][/b][/u]
-Speaker:[nation=short]Third untergang republic[/nation]
-Senators:Abolished
+Speaker:[nation=short]Razari[/nation]
+Senators: [nation=short]Free States of Cuba[/nation], [nation=short]Suomilan[/nation], [nation=short]Itington[/nation]
 [u][b][color=#A9A9A9]House of Representatives[/color][/b][/u]
 Speaker: [nation=short]Razari[/nation]
 [b]Everybody is a member of the house[/b]

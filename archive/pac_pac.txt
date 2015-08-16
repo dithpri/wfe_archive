@@ -1,14 +1,14 @@
-[B][color=yellow]Welcome to Pac Pac. Please endorse our President: [nation]Atticusland[/nation]
+[B][color=yellow]Welcome to Pac Pac. Please endorse our Governor: [nation]Atticusland[/nation]
 
-[u][i]Head of the Pac Pac Council[/b][/u][/i][/color]
-[color=red]Supreme Chancellor:[/color] [nation]Lackatoo[/nation] 
-[color=a01340]President of Pac Pac:[/color] [nation=Atticusland]
-[color=7ff00] Vice President of Pac Pac:[/color] [nation]Murderous Goats[/nation]
+[u][i]Executive Branch[/b][/u][/i][/color]
+[color=lightBlue]President of Pax:[/color] [nation]Lackatoo[/nation] 
+[color=pink]Governor of Pac Pac:[/color] [nation=Atticusland]
+[color=red] Lt. Governor of Pac Pac:[/color] [nation]Murderous Goats[/nation]
 
-[b][u][i][color=yellow] The Grand Council of Pac Pac[/b][/u][/i][/color]
+[b][u][i][color=yellow]Legislative Branch[/b][/u][/i][/color]
 
-[color=darkblue] Chairperson of the People:[/color] [nation]Alaskan Tundra[/nation]
+[color=purple] Senator:[/color] [nation]Alaskan Tundra[/nation]
 
-[color=purple]Chairperson of the Environment:[/color] [nation=Bulmagon]
+[color=lightgreen]Senator:[/color] [nation=Bulmagon]
 
-[color=green]Chairperson of Production :[/color] [nation]Bazookistan[/nation]
+[color=brown]Representative:[/color] [nation]Bazookistan[/nation]
