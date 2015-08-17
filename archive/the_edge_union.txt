@@ -22,5 +22,4 @@ Regional Beverage Control:
 [nation]The Dr Pepper Snapple Group[/nation]
 
 Allies: 
-[region]Dominion of Rattlehead[/region] 
-[region]The Resistance of Tyranasgaard[/region]
+[region]Dominion of Rattlehead[/region]

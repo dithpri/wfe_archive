@@ -5,7 +5,7 @@
 
 [b][i]1st REGIONAL GOVERNMENT OF THE LEAGUE OF SOVEREIGN NATIONS[/i][/b]
 
-[b][color=green]Cabinet[/b][/color]
+[u][b][color=green]Cabinet[/b][/color][/u]
 Prime Minister:
 Deputy Prime Minister:
 Minister for Defence:
@@ -13,9 +13,9 @@ Minister for Foreign Affairs:
 Minister for Internal Affairs:
 Minister for Justice:
 
-[i]The Prime Minister advises all World Assembly Members to endorse [nation][/i]
+[i]The Prime Minister advises all World Assembly Members to endorse [nation] for World Assembly Deleage[/i]
 
-[b][color=red]Senate[/b][/color]
+[u][b][color=red]Senate[/b][/color][/u]
 Chancellor:
 Vice-Chancellor:
 

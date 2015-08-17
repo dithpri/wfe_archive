@@ -8,17 +8,17 @@
 
 [hr]
 
-[color=#800000]Minister of Justice - [nation=short]The National Covenant[/nation][/color] ([color=green]C[/color])
+[color=#800000]Minister of Justice - [nation=short]The National Covenant[/nation][/color]
 
-[color=#800000]Minister of Foreign Affairs - [nation=short]Burntwood Lions Club[/nation][/color] ([color=green]C[/color])
+[color=#800000]Minister of Foreign Affairs - [nation=short]Burntwood Lions Club[/nation][/color]
 
-[color=#800000]Minister of Defense - [nation=short]Lycanberg[/nation][/color] ([color=green]C[/color])
+[color=#800000]Minister of Defense - [nation=short]Lycanberg[/nation][/color]
 
-[color=#800000]Head Council Member - [nation=short]Prauss[/nation][/color] ([color=darkblue]O[/color])
-Council Seat 1 - [nation=short]Brigli[/nation] ([color=green]C[/color])
-Council Seat 2 - [nation=short]Mannington[/nation] ([color=darkblue]O[/color])
-Council Seat 3 - [nation=short]Kheon[/nation] ([color=darkblue]O[/color])
-Council Seat 4 - [nation=short]Gannonheim[/nation] ([color=red]S[/color])[/b] 
+[color=#800000]Head Council Member - [nation=short]Prauss[/nation][/color]
+Council Seat 1 - [nation=short]Brigli[/nation]
+Council Seat 2 - [nation=short]Mannington[/nation]
+Council Seat 3 - [nation=short]Kheon[/nation]
+Council Seat 4 - [nation=short]Gannonheim[/nation][/b] 
 [hr]
 [b]
 [color=#800000]Endorsement Cap = 2[/color][/b]

@@ -7,6 +7,7 @@ War and Defense: [nation]The Balangay of Camputhaw[/nation]
 Foreign Policy: [nation]Baby Bois[/nation]
 Internal Affairs: [nation]Gordunstat II[/nation]
 
-Political and Cultural Advisor: [nation]Pablo Neruda[/nation]
-Economic Advisor: [nation]Hot Rebel Greek Otters[/nation]
-Science and  Environmental Protection Advisor: [nation]Crazy Cebuano Caffeine Addicts[/nation]
+Cultural Affairs: [nation]Pablo Neruda[/nation]
+Economic Affairs: [nation]Hot Rebel Greek Otters[/nation]
+Science and Environmental Affairs: [nation]Crazy Cebuano Caffeine Addicts[/nation]
+Political and Education Affairs: 
