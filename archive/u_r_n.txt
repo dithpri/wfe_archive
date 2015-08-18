@@ -10,6 +10,8 @@ OT= Occupied territory [/spoiler]
 
 [b]PRIME MINISTER:[/b] [nation=short]Shinetzelberg[/nation] 
 
+[b]VICE DELEGATE:[/b] [nation=short]Kortat[/nation]
+
 [b]MINISTER OF FORIEGN AFFAIRS:[/b] [nation=short]Paledonn[/nation] 
 
 [b]MINISTER OF DEFENSE:[/b] [nation=short]I P A S[/nation] 

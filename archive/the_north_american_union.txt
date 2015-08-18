@@ -7,7 +7,7 @@
 
 Emperor: [nation=short]United Federation of Canada[/nation]
 Premier: 
-Speaker of Congress: [nation=short]Wayneactia[/nation]
+Speaker of Congress: 
 Minister of The Union: 
-Chief Justice: [nation=short]Tommylund[/nation][/B][/color]
+Chief Justice: 
 [hr][B]This region is now in lock down and will not be reopened. Natives to the region are permitted to remain, but no other nations will be granted access. Long live the Union![/B]

@@ -9,27 +9,27 @@ Welcome to a resurgent CoC!
 
 [b]The XXII REC[/b]
 
- Lord Chancellor:[nation=short]Lentheric[/nation]
-Lord Secretary General:[nation=short]Jackonia[/nation]
+ Lord Chancellor:[nation=short]Ethopolis[/nation]
+Lord Secretary General:[nation=short]Sudweca[/nation]
 Lord Speaker:Vacant
-Lord Prosecutor General:[nation=short]Narnifrey[/nation]
+Lord Prosecutor General:Vacant
 Lord High Commander:[nation=short]Vetega[/nation]
 [hr]
 
 [b]The Executive Cabinet[/b]
 
-Minister of the Interior:[nation=short]Neru[/nation]
-Minister of Finance:[nation=short]Sudweca[/nation]
-Minister of Foreign Affairs:[nation=short]Folms[/nation]
+Minister of the Interior:Vacant
+Minister of Finance:[nation=short]Lentheric[/nation]
+Minister of Foreign Affairs:Vacant
 Minister of Culture:Vacant
 
 [hr]
 
 [b]The High Court[/b]
 
-Chief Justice:[nation=short]The Langobardi[/nation]
-Justice:[nation=short]Sao Paulo e Prata[/nation]
-Justice:[nation=short]Ethopolis[/nation]
+Chief Justice:Vacant
+Justice:Vacant
+Justice:Vacant
 
 [hr]
 

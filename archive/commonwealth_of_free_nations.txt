@@ -3,7 +3,7 @@
 [hr]
 
 [u][B][url=http://www.nationstates.net/nation=the_cfn_archives/detail=factbook/id=438115][color=navy]Twelfth Cabinet[/color][/url][/B][/u] [list][b]Chancellor:[/b] 
-[i]Pending[/i]
+[nation=short]Markotovia[/nation] [B]([color=red]L[/color])[/B]
 
 [b]Vice Chancellor:[/b] 
 [nation=short]Continental Commonwealths[/nation] [b]([color=#002E4F]U[/color])[/b]
@@ -30,7 +30,7 @@
 
 [hr][b][u][color=navy]&amp;gt;&amp;gt;News&amp;lt;&amp;lt;[/color][/u][/b]
 
-[i]Cabinet elections begin on the 10th![/i]
+[i]Everyone is to Endorse [nation=short]Markotovia[/nation] immediately[/i]
 
 [hr][B][url=http://www.nationstates.net/page=dispatch/id=264699][color=black]DEFCON[/color][/url]:[/B] [B][color=blue]5[/color][/B]
 [b][url=http://www.nationstates.net/page=dispatch/id=264699][color=black]CIVCON[/color][/url]:[/b] [b][color=Blue]5[/color][/b]

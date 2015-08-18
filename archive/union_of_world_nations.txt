@@ -2,8 +2,8 @@
 [hr]
 [i][b]Regional Government[/b][/i]
 [list][*]President
-[list][*][nation=short]Nichmerica[/nation]
-[*]Map Maker:
+[list][*][nation=short]Nichmerica[/nation][/list]
+[list][*]Map Maker:
 [*][nation]Auralux[/nation][/list]
 [*]Upper Council
 [list][*][nation=short]The New Hindu Indian States[/nation]

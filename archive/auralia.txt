@@ -3,7 +3,7 @@
 
 [hr][hr]The Tribunal
 [list][color=#bab516]Sovereign:[/color] [nation=short]King Nephmir II[/nation]
---&amp;gt;Regent: (To Be Appointed)
+--&amp;gt;Regent: [nation=short]Bayard Smythe[/nation]
 
 [color=#bab516]Guardian:[/color] [nation=short]Aramythia[/nation] (Endorse!)
 --&amp;gt;Sage: [nation=short]Waldreichsten[/nation] - EndoCap: 35

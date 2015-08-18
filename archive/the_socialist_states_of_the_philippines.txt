@@ -10,4 +10,4 @@ Internal Affairs: [nation]Gordunstat II[/nation]
 Cultural Affairs: [nation]Pablo Neruda[/nation]
 Economic Affairs: [nation]Hot Rebel Greek Otters[/nation]
 Science and Environmental Affairs: [nation]Crazy Cebuano Caffeine Addicts[/nation]
-Political and Education Affairs: 
+Political and Education Affairs: [nation]Filipino Students[/nation]
