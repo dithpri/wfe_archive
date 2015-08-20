@@ -1,9 +1,13 @@
-[nation]The Tenth legion Equestris of Rome[/nation] Co Emperor
+[nation]The Tenth legion Equestris of Rome[/nation] [color=purple][b]Co Emperor commander of the Tenth legion (Senator and Citizen)[/b][/color]
 
-[nation]New Elwick[/nation] Co Emperor
+[nation]Elwick[/nation] [color=purple][b]Co Emperor (Senator and citizen)[/b][/color]
 
-[nation]The twelth leigon of rome[/nation] Pro Consul of Spain
+[nation]The twelth leigon of rome[/nation] [color=red][b]Pro Consul of Spain commander of the twelth legion (Senator and citizen)[/b][/color]
 
-[nation]Legion of Banter[/nation] Citizen and Keeper of the National zoo
+[nation]Legion of Banter[/nation] Keeper of the National zoo ( Plebeian non citizen)
 
-[nation]Neprium[/nation] Gladiator of the tenth legion
+[nation]Neprium[/nation] Legate of Auxilaries of the tenth legion (non citizen)
+
+[nation]The Deagle Societey[/nation] (non citizen) Captain of Auxilaries of the tenth legion
+
+[nation]Shrekyopia[/nation] First centurion of the Evocarti of the 10th Legion (non Citizen)

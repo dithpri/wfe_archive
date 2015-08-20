@@ -13,8 +13,7 @@
 
 [hr][hr][b][color=navy][u]The Imperial Cabinet[/u][/color][/b]
 
-[b]1st Min:[/b] [nation=short]Lyovia[/nation]
-[b]2nd Min:[/b] [nation=short]Tyranniod overlords[/nation]
+[b]1st Min:[/b] [nation=short]Tyranniod overlords[/nation]
 [b]AttGen:[/b] [nation=short]Kr-Hai[/nation]
 [b]MinSoc:[/b] [nation=short]Sacheyenya[/nation]
 [b]MinInfo:[/b] [nation=short]Prothetassa[/nation]

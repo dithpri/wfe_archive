@@ -12,7 +12,6 @@
 [nation=short]Isle of Great-Britain[/nation]
 
 [color=darkred][b][i][u]Economic Coordinators[/i][/u][/color][/b]
-[nation=short]Disbelieve[/nation]
 [nation=short]People Named Harold[/nation]
 
 [color=darkred][b][i][u]Cartographer[/i][/u][/b][/color]
