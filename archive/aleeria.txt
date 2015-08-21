@@ -3,11 +3,11 @@
 [b][color=green]Members on the map MUST be in the World Assembly and endorse the current president[/b][/color]
 
 [color=orange][u][b]Current Government[/b][/u]
-President: None
+President: [nation]Corlais[/nation]
 Minister of Foreign Affairs: None
-Minister of Recruitment: None
+Minister of Recruitment: [nation]Ricoslavia[/nation] (Temp)
 Minister of Regional Affairs: None
-Minister of Geography: Ricoslavia
-Grand Minister of News: None[/color]
+Minister of Geography: [nation=short]Ricoslavia[/nation]
+Grand Minister of News: [nation]Ricoslavia[/nation] (Temp)[/color]
 
-[color=purple][b]Next Elections:[/b] [i]30th of August, 2015[/i][/color]
+[color=purple][b]Next Elections:[/b] [i]20th of September, 2015[/i][/color]

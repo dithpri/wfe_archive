@@ -7,8 +7,8 @@
 
 [b][u][i][color=yellow]Legislative Branch[/b][/u][/i][/color]
 
-[color=purple] Senator:[/color] [nation]Alaskan Tundra[/nation]
+[color=purple] Senator of Pac Pac:[/color] [nation]Alaskan Tundra[/nation]
 
-[color=lightgreen]Senator:[/color] [nation=Bulmagon]
+[color=lightgreen]Representative of District 1:[/color] [nation=Bulmagon]
 
-[color=brown]Representative:[/color] [nation]Bazookistan[/nation]
+[color=brown]Representative of District 2:[/color] [nation]Bazookistan[/nation]

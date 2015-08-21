@@ -23,7 +23,9 @@ Minister of Culture:[nation=short]Emelka[/nation]
 
 [b]The High Court[/b]
 
-The High Court is currently being appointed.  
+Chief Justice: TBA
+Justice: [nation]Wesmorland[/nation] 
+Justice: TBA
 
 [hr]
 
