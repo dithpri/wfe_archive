@@ -1,11 +1,10 @@
 Founder: [nation]Shiylantis[/nation]
-WA Delegate: [nation]Educated Idlers[/nation]
+WA Delegate: 
 
-Chancellor: [nation]Miekles[/nation]
-Vice Chancellor: [nation]Kenzbukistan[/nation]
-Chair of the Economic Advisory Committee: [nation]Shiylantis[/nation]
-Chair of the UKS Tribunal:[nation]Shiylantis[/nation]
-Head of Internal and International Relations: [nation]The Roswell Islands[/nation]
+Chancellor: 
+Vice Chancellor:
+Chair of the Economic Advisory Committee:
+Chair of the UKS Tribunal:
+Head of Internal and International Relations: 
 
-
-Featured Nation of the Week: [nation]Keeg[/nation]
+Featured Nation of the Week: 

@@ -20,6 +20,3 @@ Head of Militarized Aid:
 [nation=short]Alextrailia[/nation]
 Regional Beverage Control:
 [nation]The Dr Pepper Snapple Group[/nation]
-
-Allies: 
-[region]Dominion of Rattlehead[/region]

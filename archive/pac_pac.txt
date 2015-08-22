@@ -12,3 +12,8 @@
 [color=lightgreen]Representative of District 1:[/color] [nation=Bulmagon]
 
 [color=brown]Representative of District 2:[/color] [nation]Bazookistan[/nation]
+
+[b][color=green]Bill(s) in the House: 2[/color]
+[color=green]Bill(s) in the Senate: 0[/color]
+[color=yellow]Bill(s) on the Governor&amp;#39;s Desk: 0[/color]
+[Color=red]After a bill has passed in a certain area, contact the president so legislation can be moved[/b][/color]

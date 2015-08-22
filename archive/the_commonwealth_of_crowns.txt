@@ -5,27 +5,27 @@ The Commonwealth of Crowns, a region of monarchies of all hues, is dedicated to 
 
 [b]The XXII REC[/b]
 
- Lord Chancellor:[nation=short]Ethopolis[/nation]
-Lord Secretary General:[nation=short]Sudweca[/nation]
+ Lord Chancellor:[nation=short]Ethopolis[/nation](TCP)
+Lord Secretary General:[nation=short]Sudweca[/nation](SDP)
 Lord Speaker:[nation=short]Apocryphi[/nation]
 Lord Prosecutor General:Vacant
-Lord High Commander:[nation=short]Vetega[/nation]
+Lord High Commander:[nation=short]Vetega[/nation](SDP)
 [hr]
 
 [b]The Executive Cabinet[/b]
 
 Minister of the Interior:[nation=short]Neru[/nation]
 Minister of Finance:[nation=short]Lentheric[/nation]
-Minister of Foreign Affairs:[nation=short]Jackonia[/nation]
-Minister of Culture:[nation=short]Emelka[/nation]
+Minister of Foreign Affairs:[nation=short]Jackonia[/nation](DFP)
+Minister of Culture:[nation=short]Emelka[/nation](PSP)
 
 [hr]
 
 [b]The High Court[/b]
 
-Chief Justice: TBA
-Justice: [nation]Wesmorland[/nation] 
-Justice: TBA
+Chief Justice: [nation]Folms[/nation]
+Justice: [nation]Wesmorland[/nation]
+Justice: Pending
 
 [hr]
 

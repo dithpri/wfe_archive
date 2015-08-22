@@ -8,7 +8,7 @@
 [color=red][i]Regional Positions[/i][/color]
 [list][*]Regional Founder - [nation=short]Vohenstrauss[/nation]
 [*]Regional Delegate - [nation=short]The Sovereign States of Megnan[/nation]
-[*]Regional Scribe - [nation=short]Fellsskogar[/nation]
+[*]Regional Scribe - [nation=short]Fellsskogar[/nation], [nation=short]Slavik Botarskal[/nation]
 [/list]
 [hr]
 [color=red][i]Quick Links[/i][/color]
