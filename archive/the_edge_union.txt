@@ -7,7 +7,7 @@ The Original Four:
 [nation=short]Utgaart[/nation]
 
 Peaceful Diplomat(Peacekeeper):
-[nation=short]The New Hylian Republic[/nation]
+[nation=short]Teletubland[/nation]
 Agressive Diplomat(Rule Enforcer):
 [nation=short]Tyranasgaard[/nation]
 Head of International Affairs:

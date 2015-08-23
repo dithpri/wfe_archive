@@ -18,25 +18,19 @@
 
 [b]Minister of Justice:[/b] 
 [nation=short]Jaslandia[/nation] [b]([color=#002E4F]U[/color])[/b] 
-[hr][b][u][color=#CC9966]Chief Justice of the CFN[/color][/b][/u]
+[hr][b][u][url=http://www.nationstates.net/nation=the_cfn_archives/detail=factbook/id=471112][color=#CC9966]Chief Justice of the CFN[/color][/url][/b][/u]
 
 [list][b]Chief Justice:[/b]
 [nation=short]Ruclax[/nation][/list]
 
-[b][u][color=navy]Justices, Judges, and Magistrate Judges[/color][/u][/b]
-
-[list][b]Judges:[/b]
-[nation=short]Ehrereich[/nation][/list]
-
-[list][b]Magistrate Judges:[/b]
-[nation=short]Tezava[/nation][/list]
-
-[hr][b][u][color=#CC9966]Speaker of Parliament of the CFN[/color][/u][/b]
+[hr][b][u][color=navy]Speaker of Parliament of the CFN[/color][/u][/b]
 
 [list][b]Speaker of Parliament:[/b]
 [nation=short]Bearlong[/nation][/list]
 
-[hr][b][u][color=navy]&amp;gt;&amp;gt;News&amp;lt;&amp;lt;[/color][/u][/b]
+[hr][b][u][color=#CC9966]&amp;gt;&amp;gt;News&amp;lt;&amp;lt;[/color][/u][/b]
+
+[i]Special Minister of Internal Affairs Elections ends tomorrow![/i]
 
 [hr][B][url=http://www.nationstates.net/page=dispatch/id=264699][color=black]DEFCON[/color][/url]:[/B] [B][color=blue]5[/color][/B]
 [b][url=http://www.nationstates.net/page=dispatch/id=264699][color=black]CIVCON[/color][/url]:[/b] [b][color=Blue]5[/color][/b]
