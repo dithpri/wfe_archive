@@ -1,10 +1,9 @@
-[nation]The Tenth legion Equestris of Rome[/nation] [color=purple][b]Co Emperor commander of the Tenth legion (Senator and Citizen)[/b][/color]
+[nation]The Tenth legion Equestris of Rome[/nation] [color=purple][b]Co Emperor, commander of the Tenth legion, ProConsul of North Africa, Greece , Bactria and Byzantium  (Senator and Citizen)[/b][/color]
 
-[nation]Elwick[/nation] [color=purple][b]Co Emperor (Senator and citizen)[/b][/color]
+[nation]Elwick[/nation] [color=purple][b]Co Emperor ProConsul Of Asia  Praetor  (Senator and citizen)[/b][/color]
 
-[nation]The twelth leigon of rome[/nation] [color=red][b]Pro Consul of Spain commander of the twelth legion (Senator and citizen)[/b][/color]
-
-[nation]Legion of Banter[/nation] Keeper of the National zoo ( Plebeian non citizen)
+[nation]The twelth leigon of rome[/nation] [color=red][b]Pro Consul of Spain, Britain and  commander of the twelth legion Quaestor (Senator and citizen)[/b][/color]
+[nation]Legion of Banter[/nation][b] Keeper of the National zoo ( Citizen)[/b]
 
 [nation]Neprium[/nation] Legate of Auxilaries of the tenth legion (non citizen)
 

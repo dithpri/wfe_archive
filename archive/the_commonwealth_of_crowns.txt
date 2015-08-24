@@ -8,7 +8,7 @@ The Commonwealth of Crowns, a region of monarchies of all hues, is dedicated to 
  Lord Chancellor:[nation=short]Ethopolis[/nation](TCP)
 Lord Secretary General:[nation=short]Sudweca[/nation](SDP)
 Lord Speaker:[nation=short]Apocryphi[/nation]
-Lord Prosecutor General:Vacant
+Lord Prosecutor General:
 Lord High Commander:[nation=short]Vetega[/nation](SDP)
 [hr]
 
@@ -25,8 +25,8 @@ Minister of Culture:[nation=short]Emelka[/nation](PSP)
 
 Chief Justice: [nation]Folms[/nation]
 Justice: [nation]Wesmorland[/nation]
-Justice: Pending
+Justice: [nation]The Langobardi[/nation]
 
 [hr]
 
-[b][color=orange]Breaking News[/color][/b]:  The XXIII REC has begun!  Please contact [nation]Neru[/nation] if you would like to become Prosecutor-General
+[b][color=orange]Breaking News[/color][/b]:  [url]http://www.theonion.com/article/area-dad-informs-busboy-hes-ready-order-51130[/url]
