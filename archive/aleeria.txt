@@ -5,9 +5,9 @@
 [color=orange][u][b]Current Government[/b][/u]
 President: [nation]Corlais[/nation]
 Minister of Foreign Affairs: None
-Minister of Recruitment: [nation]Ricoslavia[/nation] (Temp)
+Minister of Recruitment: None
 Minister of Regional Affairs: None
 Minister of Geography: [nation=short]Ricoslavia[/nation]
-Grand Minister of News: [nation]Ricoslavia[/nation] (Temp)[/color]
+Grand Minister of News: None[/color]
 
-[color=purple][b]Next Elections:[/b] [i]20th of September, 2015[/i][/color]
+[color=red][b]Next Elections:[/b] [i]Presidential Election: 20th of September, 2015[/i] | [i]Presidential Election: 28th of August, 2015[/i][/color]

@@ -1,8 +1,8 @@
 [b][color=darkred]Hiel Das Reich![/color][/b]
 
-[b][u]The German Chancellory:[/u][/b]
+[b][u]The German Government:[/u][/b]
 
-[b][color=grey]Grand Chancellor:[/color] [nation]The Confederation of Northern Germany[/nation][/b]
+[b][color=grey]F&uuml;rher:[/color] [nation]The Confederation of Northern Germany[/nation][/b]
 
 [b][color=grey]Chancellor:[/color] [nation]The Confederation of Northern Germany[/nation][/b]
 
@@ -13,5 +13,7 @@
 [b][color=grey]Minister of Finance:[/color] [nation]The Confederation of Northern Germany[/nation][/b]
 
 [b][color=grey]Minister of Propaganda:[/color] [nation]The Confederation of Northern Germany[/nation][/b]
+
+[b][color=grey]Minister of Cartography:[/color] [nation]The Confederation of Northern Germany[/nation][/b]
 
 [url=http://www.broomdces.com/nseconomy/regions.php?region=The%20German%20Reichstag]NS ECONOMY[/url]

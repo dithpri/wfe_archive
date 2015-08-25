@@ -7,9 +7,9 @@ The Original Four:
 [nation=short]Utgaart[/nation]
 
 Peaceful Diplomat(Peacekeeper):
-[nation=short]Teletubland[/nation]
+[nation=short]Utgaart[/nation]
 Agressive Diplomat(Rule Enforcer):
-[nation=short]Tyranasgaard[/nation]
+[nation=short]Teletubland[/nation]
 Head of International Affairs:
 [nation=short]UTC Ottawa[/nation]
 Head of Foreign Intelligence:

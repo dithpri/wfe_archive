@@ -1,8 +1,8 @@
 [b][color=darkblue]Welcome to [i]The Dark Fleet[/i]: The Most Powerful Intergalactic Battle Fleet in NationStates.[/color][hr][u]Fleet Commanders[/u]
-Admiral:
-Vice Admiral:
+Admiral: [nation=short]Eorus[/nation]
 Captain:
-Marshal:
+Captain:
+Captain:
 [hr]Our mission: (To be updated)
 
 [color=purple]Military Orders:[/color] Stand by.[hr]How to get started:

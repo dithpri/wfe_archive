@@ -5,9 +5,9 @@ TRC is an active Role-Play Community, where every nation can find its place. We 
 
 [b]Regional Management[/b]
 Prime Minister: [nation=short]Hayasten[/nation]
-Deputy Prime Minister: [nation=short]Auxorii[/nation]
+Deputy Prime Minister: [nation=short]Yauni Kyran[/nation]
 Minister of State (Internal): [nation=short]Jeune France[/nation]
-Minister of Foreign Relations (External):
+Minister of Foreign Relations (External): [nation=short]La Caribe[/nation]
 Minister of Justice: [nation=short]Miarie[/nation]
 Minister of Economics: [nation=short]Levantx[/nation]
 Minister of Map Claims: [nation=short]Nancahuazu[/nation]
