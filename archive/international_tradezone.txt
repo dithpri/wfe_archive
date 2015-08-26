@@ -1,0 +1,10 @@
+[b]BEFORE YOU TRADE:[/b]
+Here&amp;#39;s an example of the [b][color=blue]Trade Format[/color][/b]. Words in [color=#FF0000]red[/color] are not format.
+&amp;gt;&amp;gt; Lazarus [color=#FF0000]&amp;lt;-- Region name[/color]
+&amp;gt;&amp;gt;&amp;gt; The Stalinist Republic of Stalin [color=#FF0000]&amp;lt;--Nation name[/color]
+
+// Raisinettes [color=#FF0000]&amp;lt;--Trade good[/color]
+/// 340 packs [color=#FF0000]&amp;lt;--Quantity[/color]
+
+{Trade Confirmed} [color=#FF0000]or[/color] {Trade Unconfirmed until...[color=#FF0000]Reason[/color]} 
+
