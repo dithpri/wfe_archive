@@ -1,7 +1,7 @@
-Government 
+Government
 
-[color=red]Vice-Delegate[/color] :
-[color=Blue]Speaker of the GA[/color] : [nation]Shotguns are us[/nation] (C) [i][color=maroon]term ends 1/7/15[/color][/i]
+[color=red]Vice-Delegate[/color] : [nation]The Brotherhood of Kyro[/nation] (C)
+[color=Blue]GA Speaker[/color] : [nation]Shotguns are us[/nation] (C) [i][color=maroon]term ends 1/7/15[/color][/i]
 [color=purple]Minister of Diplomacy[/color] : [nation]King thunder 2[/nation] (C) [i][color=maroon]term ends 10/14/15[/color][/i]
 [color=purple]Minister of Information[/color] : [nation]The Lost time[/nation] (A) [i][color=maroon]term ends 10/21/15[/color][/i]
 [color=purple]Minister of Immigration[/color] : [nation]west Atlantic bacon[/nation] (C) [i][color=maroon]term ends 11/7/15[/color][/i]
@@ -9,12 +9,10 @@ Government
 [color=purple]Minister of Justice[/color] : [nation]Rheta[/nation] (L) [i][color=maroon]term ends 11/14/15[/color][/i]
 ___________________________________________________________________________________________________________________________________
 
-Political Affiliation Poll : 8/24/2015
+Affiliation Poll : 8/24
 
 [color=blue]Activist[/color] - 34%
 [color=red]Constructive[/color] - 32%
 [color=purple]Nationalist[/color] - 17%
 [color=orange]Lib-Dem[/color] - 11%
 [color=green]Green[/color] - 4%
-
-+/- 4.5

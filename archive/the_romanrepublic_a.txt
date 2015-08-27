@@ -6,8 +6,8 @@
 
 [nation]Legion of Banter[/nation][b] Keeper of the National zoo ( Citizen)[/b]
 
-[nation]Neprium[/nation] Legate of Auxilaries of the tenth legion (non citizen)
+[nation]Neprium[/nation] Legate of Auxilaries of the tenth legion (Plebian)
 
 [nation]The Deagle Society[/nation] (non citizen) Captain of Auxilaries of the tenth legion
 
-[nation]Shrekyopia[/nation] First centurion of the Evocati of the 10th Legion (Plebian)
+[nation]Shrekyopia[/nation][color=red][b] First centurion of the Evocati of the 10th Legion (Citizen and Senator)[/color][/b]

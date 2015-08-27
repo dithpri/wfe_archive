@@ -7,16 +7,16 @@
 
 [/color]The Black Hawks [color=#4F4E8B]only constructs Embassies with regions we control. 
 
-No World Assembly (WA) Nations allowed into the region, nations found carrying WA membership will be ejected on sight. [nation=short+noflag]Sorenity2[/nation] exempted[/color][/b]
+No World Assembly (WA) Nations allowed into the region, nations found carrying WA membership will be ejected on sight. [nation=short]Sorenity2[/nation] exempted[/color][/b]
 [hr]
 [b][color=red]Council of the Hawks:[/color]
-Commander in Chief:[/b]  [nation=short+noflag]Red Back[/nation]
-[b]Council Chairman:[/b] [nation=short+noflag]Jakker[/nation]
-[b]Field Marshal:[/b]  [nation=short+noflag]Ever-Wandering Souls[/nation]
-[b]Field Marshal:[/b]  [nation=short+noflag]Marselesk[/nation]
-[b]Intelligence Director:[/b]  [nation=short+noflag]SevHawk[/nation]
-[b]Head of Training:[/b]  [nation=short+noflag]The Will of Kane[/nation]
+Commander in Chief:[/b]  [nation=short]Red Back[/nation]
+[b]Council Chairman:[/b] [nation=short]Jakker[/nation]
+[b]Field Marshal:[/b]  [nation=short]Ever-Wandering Souls[/nation]
+[b]Field Marshal:[/b]  [nation=short]Marselesk[/nation]
+[b]Intelligence Director:[/b]  [nation=short]SevHawk[/nation]
+[b]Head of Training:[/b]  [nation=short]The Will of Kane[/nation]
 
 [b] [color=red]Council Advisory Board: [/color]
-Military Adviser:[/b]  [nation=short+noflag]Crushing Our Enemies[/nation]
-[b]Military Adviser:[/b]  [nation=short+noflag]Tramiar[/nation]
+Military Adviser:[/b]  [nation=short]Crushing Our Enemies[/nation]
+[b]Military Adviser:[/b]  [color=green][nation=short]Tramiar[/nation][/color]
