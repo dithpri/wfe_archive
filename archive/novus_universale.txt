@@ -14,7 +14,7 @@
 [*]Minister of Game Play
 [list][*][nation=short]Emprus Vyblium[/nation][/list]
 [*]Minister of Role Play
-[list][*][nation=short]PatrioticAmerica[/nation][/list][/list][/list]
+[list][*][nation=short]GreatestBanks[/nation][/list][/list][/list]
 [hr]
 [i]Puppet Regions[/i]
 [list][*]Puppet Storage of [region]Nova Automata[/region]

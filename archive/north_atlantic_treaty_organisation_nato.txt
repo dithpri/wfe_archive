@@ -1,8 +1,8 @@
-[b]Hello and Bonjour this is a new region that i hope to someday become a massive and diverse nation 
+[b]Hello and Bonjour this is a new region that i hope to someday become a massive and diverse region
 ==================================================
 [b][color=orange]Minister of International Affairs[/color][/b]-[nation]TF1 TASK FORCE 1[/nation]    
 [b][color=lightred]Minister of econimics[/color][/b]-[nation]syndicate mlg pro[/nation]
-[b][color=red]LtGenLieutenantGenral[/color][/b]
+[b][color=red]LtGen LieutenantGenral[/color][/b]
 [b][color=green]Civil Rights Minister[/color][/b]-offer standing by 
 ==================================================
 [b][color=blue]CURRENT REGIONAL MILITARY[/color][/b]
@@ -14,4 +14,4 @@ $100,000,000per year (365 days)
 ==================================================
 [color=blue]Current Super Powers[/color]
 -[nation]syndicate mlg pro[/nation]
--
+-[nation]The peopl3s land of straya[/nation]

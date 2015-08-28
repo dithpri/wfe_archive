@@ -10,11 +10,11 @@
 ~ Minister of Foreign Affairs: [nation=short]The Democratic Nation of Unovia[/nation]
 ~ Minister of Internal &amp;amp; Financial Affairs: [nation=short]The Glorious Peoples Republic of Avroka[/nation]
 ~ Minister of Defense: [nation=short]Edaxia[/nation]
-~ Minister of Justice: [nation=short]Justin States[/nation]
+~ Minister of Justice: [nation=short]Justin States 3[/nation]
 ~ Minister of Immigration &amp;amp; Recruitment: [nation=short]Olstea[/nation]
 SUPREME COURT:
 ~Chief Justice: [nation=short]The Kingdom Historia[/nation]
-~Associate Justices:[nation=short]Justin States[/nation], [nation=short]United Christian[/nation][/spoiler]
+~Associate Justices:[nation=short]Justin States 3[/nation], [nation=short]United Christian[/nation][/spoiler]
 
 [i][b]NEWS:[/i][/b]
 [u]The Cleanliness Act has passed with all new regulations.[/u]
