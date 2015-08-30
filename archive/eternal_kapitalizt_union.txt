@@ -1,1 +1,5 @@
-[color=red][region]The Greater Empire[/region] has conquered this region! And [nation]Greater Khina[/nation] has defended it from the mindless and unsuccessful onslaught of the [region]Das Kommune[/region] idiocy.[/color]
+[b][color=red][region]The Greater Empire[/region] has cleverly secured this conquest by refounding it so that its original founder ([nation=shortname]Greater Khina[/nation]) can no longer access its administration and use the outpost for fascist propaganda.
+
+[/color][color=orange][u]Therefore this region is now just a capitalist fortification owned by [region]GANGIP[/region][/u].
+[/color]
+[color=boldorange]Long live [region]The Greater Empire[/region]![/color][/b]

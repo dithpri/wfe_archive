@@ -6,14 +6,13 @@
 [color=red] Lt. Governor of Pac Pac:[/color] [nation]Murderous Goats[/nation]
 
 [b][u][i][color=yellow]Legislative Branch[/b][/u][/i][/color]
-
-[color=purple] Senator of Pac Pac:[/color] [nation]Alaskan Tundra[/nation]
+[color=purple] Senior Senator of Pac Pac:[/color] [nation]Alaskan Tundra[/nation]
+[color=tan] Junior Senator of Pac Pac: [Nation=Scary Mike] [/color]
 
 [color=lightgreen]Representative of District 1:[/color] [nation=Bulmagon]
-
 [color=brown]Representative of District 2:[/color] [nation]Bazookistan[/nation]
 
-[b][color=green]Bill(s) in the House: 1[/color]
-[color=green]Bill(s) in the Senate: 2[/color]
+[b][color=green]Bill(s) in the House: 0[/color]
+[color=green]Bill(s) in the Senate: 4[/color]
 [color=yellow]Bill(s) on the Governor&amp;#39;s Desk: 0[/color]
 [Color=red]After a bill has passed in a certain area, contact the president so legislation can be moved[/b][/color]

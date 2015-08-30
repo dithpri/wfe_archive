@@ -7,12 +7,12 @@ Founded:July 25, 2015
 Central Committee:
 
 Founder and Chief Minister: 
-[nation]Freehold of Jeub[/nation]
+[nation=short]Freehold of Jeub[/nation]
 WA Delegate &amp;amp; Foreign Affairs Minister:
-[nation]The Brave Barili Cebu[/nation]
-Defense and Security Minister: 
-[nation]The Balangay of Camputhaw[/nation]
+[nation=short]The Brave Barili Cebu[/nation]
+Defense and Security Minister:
+[nation=short]The Balangay of Camputhaw[/nation]
 Internal and Economic Affairs: 
-[nation]Gordunstat II[/nation]
+[nation=short]Gordunstat II[/nation]
 Cultural and Political Affairs: 
-[nation]Pablo Neruda[/nation]
+[nation=short]Pablo Neruda[/nation]
