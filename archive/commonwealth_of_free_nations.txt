@@ -5,7 +5,7 @@
 [nation=short]Markotovia[/nation] [B]([color=red]L[/color])[/B]
 
 [b]Vice Chancellor:[/b] 
-[b]VACANT[/b]
+[nation=short]Baxten[/nation] [b]([color=Red]L[/color])[/b]
 
 [b]Minister of Defense:[/b] 
 [nation=short]Au Minbo[/nation] [b]([color=Red]L[/color])[/b]
@@ -31,7 +31,7 @@
 
 [hr][b][u][color=#CC9966]&amp;gt;&amp;gt;News&amp;lt;&amp;lt;[/color][/u][/b]
 
-[i]Vice-Chancellor by-elections end tomorrow![/i]
+[i][nation=short]Baxten[/nation] has been elected as Vice-Chancellor![/i]
 
 [hr][B][url=http://www.nationstates.net/page=dispatch/id=264699][color=black]DEFCON[/color][/url]:[/B] [B][color=blue]5[/color][/B]
 [b][url=http://www.nationstates.net/page=dispatch/id=264699][color=black]CIVCON[/color][/url]:[/b] [b][color=Blue]5[/color][/b]

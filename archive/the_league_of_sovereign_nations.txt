@@ -28,12 +28,13 @@
 [B][u][color=red]First Senate[/color][/u][/B]
 [list][*][B]Chancellor:[/B] 
 [nation=noname]The Servants of Allah[/nation] [b]([color=blue]NT[/color])[/b]
-[*][b]Vice-Chancellor:[/b][/list]
+[*][b]Vice-Chancellor:[/b]
+[nation=noname]Lowell Indiana[/nation] [b]([color=gray]I[/color])[/b][/list]
 [hr]
 
-[b][color=gray]LSN Regional Court[/color][/b]
+[b][color=gray]LSN Judiciary[/color][/b]
 [list][*][b]Chief Justice:[/b]
-[nation]Acage[/nation][/list]
+[nation=noname]Acage[/nation][/list]
 [hr]
 
 [color=orange][b]Miscellaneous[/b][/color]

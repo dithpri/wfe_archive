@@ -4,11 +4,11 @@ The Commonwealth of Crowns, a region of monarchies of all hues, is dedicated to 
 
 [b][u]Sudwecan Administration[/u][/b]
 &#149; Secretary-General: [nation=short]Sudweca[/nation] (SDP)
-&#149; Minister of Regional Affairs: [nation=short]Emelka[/nation] (PSP)
-&#149; Minister of External Affairs: [nation=short]Jackonia[/nation]
-&#149; Minister of Defence: [nation=short]Vetega[/nation] (SDP)
-&#149; Minister of Finance: [nation=short]Lentheric[/nation] (SDP)
-&#149; Minister of Justice: [nation=short]Folms[/nation] (SDP)
+&#149; Minister for Regional Affairs: [nation=short]Folms[/nation] (SDP)
+&#149; Minister for External Affairs: [nation=short]Jackonia[/nation]
+&#149; Minister for Culture: [nation=short]Emelka[/nation] (PSP)
+&#149; Minister for Defence: [nation=short]Vetega[/nation] (SDP)
+&#149; Minister for Finance: [nation=short]Lentheric[/nation] (SDP)
 
 [b][u]Commonwealth Assembly[/u][/b]
 &#149; Speaker: TBD
