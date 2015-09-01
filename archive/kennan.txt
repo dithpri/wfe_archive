@@ -3,10 +3,10 @@
 
 [color=green][b]KENNAN SECRETARY COUNCIL[/b][/color]
 Administration: [nation=short]Samukan[/nation]
-Cartography: [i]unfilled[/i]
+Cartography: [nation=short]Hackleberry Islands[/nation]
 Elections: [nation=short]Republic of Guadalajara[/nation]
 Foreign Affairs: [nation=short]Ryzzle[/nation]
-Role-Playing: [nation=short]Hackleberry Islands[/nation]
+Role-Playing: [nation=short]Saphlua[/nation]
 Security: [nation=short]Ethan Foley[/nation]
 
 [color=green][b]CHAIRMEN[/b][/color]
@@ -16,6 +16,7 @@ Kennan Historical Committee: [nation=short]Hackleberry Islands[/nation]
 
 [color=green][b]UPDATES[/b][/color]
 [list]
-[*]The September/October WA Delegate election is coming soon! (8/25)
-[*][url=http://goo.gl/X552uW]Resolution #113: Secretary of Cartography 2.0[/url] has passed 5-0! (8/30)
+[*][nation=short]Saphlua[/nation] has been appointed to the position of Secretary of Role Playing! (8/31)
+[*][nation=short]Hackleberry Islands[/nation] has been appointed to the position of Secretary of Cartography! (8/31)
+[*][nation=short]Ethan Foley[/nation] (aka [nation=short]Vinco[/nation]) has won the September/October 2015 delegacy (by default)! WA members are required to endorse Vinco. (8/31)
 [/list]

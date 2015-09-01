@@ -5,8 +5,10 @@ We are a small region (as of right now) that is trying to find connections to ot
 [b]Leadership:[/b]
 Chancellor - [nation=Lyepestok]Lyepestok[/nation]
 Minister of Defense - [nation=Solnichnzy]Solnichnzy[/nation]
-Minister of Foreign Affairs - [nation=Kranostav]Kranostav[/nation]
-Minister of Internal Affairs - [nation=Pogorevka]Pogorevka[/nation] 
+Minister of Foreign Affairs/Internal Affairs - [nation=Kranostav]Kranostav[/nation]
+Minister of Internal Affairs/International Ambassador - [nation=Pogorevka]Pogorevka[/nation] 
+
+Ambassador is currently a resident of - [url=http://www.nationstates.net/region=the_league_of_sovereign_nations]The League of Sovereign Nations[/url]
 
 [b]Current Embassies:[/b]
 [url=http://www.nationstates.net/region=united_moeller_federation]United Moeller Federation[/url]

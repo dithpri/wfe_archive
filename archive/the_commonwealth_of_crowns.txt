@@ -11,7 +11,7 @@ The Commonwealth of Crowns, a region of monarchies of all hues, is dedicated to 
 &#149; Minister for Finance: [nation=short]Lentheric[/nation] (SDP)
 
 [b][u]Commonwealth Assembly[/u][/b]
-&#149; Speaker: TBD
+&#149; Speaker: [nation=short]Apocryphi[/nation]
 
 [b][u]Crowns Court[/u][/b]
 &#149; Chief Justice: [nation=short]Ethopolis[/nation]
@@ -20,4 +20,4 @@ The Commonwealth of Crowns, a region of monarchies of all hues, is dedicated to 
 
 [b][u]Regional Security Services[/u][/b]
 &#149; Commander-in-Chief: [nation=short]Sudweca[/nation]
-&#149; Minister of Defence: [nation=short]Vetega[/nation]
+&#149; Minister for Defence: [nation=short]Vetega[/nation]

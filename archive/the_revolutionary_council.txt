@@ -9,10 +9,10 @@ Deputy Prime Minister: [nation=short]Yauni Kyran[/nation]
 Minister of State (Internal): [nation=short]Jeune France[/nation]
 Minister of Foreign Relations (External): [nation=short]La Caribe[/nation]
 Minister of Justice: [nation=short]Kernuskt[/nation]
-Minister of Economics: [nation=short0]Levantx[/nation]
+Attorney General: TBA 
 Minister of Map Claims: [nation=short]Nancahuazu[/nation]
 
 [b]Supreme Court[/b]
 Chief Justice (Co-op)- [nation=short]Europe Liberty[/nation]
-Minority Justice- [I]Vacant[/I]
-Mjority Justice-[I]Vacant[/I]
+Majority Justice- [nation=short]Fenshamsland[/nation]
+Minority Justice-[nation=short]Levantx[/nation]

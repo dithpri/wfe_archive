@@ -1,5 +1,6 @@
 [color=green][b]Welcome to Warzone Airspace! Home to the highest denizens in all of the Warzones.[/b][/color]
-[hr]
+[hr][color=483D8B]We are those who have risen above the Chaos and now currently watch with popcorn at the ready at those who live in the perilous land below.[/color]
+
 [color=green]Come along and join us for a time, we have drinks, planes, the occasional raider, but sadly no cookies.
 [/color][hr]
 [color=red][b]Our Government:[/b][/color]
@@ -9,4 +10,4 @@
 [*][color=red]Senator: [nation=short]Crisisies[/nation][/color]
 [*][color=red]Senator: [nation=short]Digonville[/nation][/color]
 [/list]
-[color=green]Next Senate election: August 26th[/color]
+[color=green]Next Senate election: November 26th[/color]
