@@ -1,8 +1,8 @@
 [B][color=yellow]Welcome to Pac Pac. Please endorse our Governor: [nation]Atticusland[/nation]
 
 [u][i]Executive Branch[/b][/u][/i][/color]
-[color=pink]Governor of Pac Pac:[/color] [nation=Atticusland]
-[color=red] Lt. Governor of Pac Pac:[/color] [nation]Murderous Goats[/nation]
+[color=pink]Governor of Pac Pac: Incumbent[/color][nation=Atticusland]
+[color=red] Lt. Governor of Pac Pac: Incumbent[/color][nation]Murderous Goats[/nation]
 
 [b][u][i][color=green]Legislative Branch[/b][/u][/i][/color]
 [color=purple] Senior Senator of Pac Pac:[/color] [nation]Alaskan Tundra[/nation]
@@ -11,10 +11,9 @@
 [color=brown]Representative of District 2:[/color] [nation]Bazookistan[/nation]
 
 [b][u][i][color=red]Judicial Branch[/b][/u][/i][/color]
-[color=gold]Chief Justice: TBD[/color]
+[color=gold]Chief Justice: [nation=trumpican][/color]
 [color=darkgrey]Associate Justice: TBD[/color]
 
 [b][color=green]Bill(s) in the House: 0[/color]
 [color=green]Bill(s) in the Senate: 4[/color]
 [color=yellow]Bill(s) on the Governor&amp;#39;s Desk: 0[/color]
-[Color=red]After a bill has passed in a certain area, contact the president so legislation can be moved[/b][/color]

@@ -17,7 +17,10 @@ The Commonwealth of Crowns, a region of monarchies of all hues, is dedicated to 
 &#149; Chief Justice: [nation=short]Ethopolis[/nation]
 &#149; Justice: [nation=short]Wesmorland[/nation]
 &#149; Justice: [nation=short]Neru[/nation]
+&#149; Public Protector: [nation=short]Belhorizon[/nation]
 
 [b][u]Regional Security Services[/u][/b]
 &#149; Commander-in-Chief: [nation=short]Sudweca[/nation]
-&#149; Minister for Defence: [nation=short]Vetega[/nation]
+
+[color=ff7a000][b][u]Next Election[/u][/b][/color]
+&#149; October 1, 2015 (potentially)

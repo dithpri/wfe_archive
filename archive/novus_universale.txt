@@ -10,11 +10,11 @@
 [*]Regional Delegate
 [list][*][nation=short]Helensted[/nation][/list]
 [*]Minister of Culture 
-[list][*][nation=short]Greater Valdosta[/nation][spoiler=Map Makers][list][*][nation=short]Greater Valdosta[/nation][*][nation=short]Nova Auraluxia[/nation][*][nation=short]Helensted[/nation][/list][/spoiler][/list]
+[list][*][nation=short]Greater Valdosta[/nation][spoiler=Map Makers][list][*][nation=short]Greater Valdosta[/nation][*][nation=short]Nova Auraluxia[/nation][*][nation=short]Helensted[/nation][*][nation=short]Seventh Oblivion[/nation][/list][/spoiler][/list]
 [*]Minister of Game Play
 [list][*][nation=short]Emprus Vyblium[/nation][/list]
 [*]Minister of Role Play
-[list][*][nation=short]GreatestBanks[/nation][/list][/list][/list]
+[list][*][nation=short]AgrarianAmerica[/nation][/list][/list][/list]
 [hr]
 [i]Puppet Regions[/i]
 [list][*]Puppet Storage of [region]Nova Automata[/region]

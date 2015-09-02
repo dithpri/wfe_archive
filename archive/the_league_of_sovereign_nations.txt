@@ -13,7 +13,7 @@
 [nation=noname]Grande Arizona[/nation] [b]([color=blue]NT[/color])[/b]
 
 [*][B]Minister for Defence:[/B] 
-[nation=noname]NicholasCagia[/nation] [b]([color=gray]I[/color])[/b]
+[nation=noname]NicholasCagia[/nation] [b]([color=#580057]C[/color])[/b]
 
 [*][B]Minister for Foreign Affairs:[/B] 
 [nation=noname]Hessendorf[/nation] [b]([color=gray]I[/color])[/b]
@@ -29,7 +29,7 @@
 [list][*][B]Chancellor:[/B] 
 [nation=noname]The Servants of Allah[/nation] [b]([color=blue]NT[/color])[/b]
 [*][b]Vice-Chancellor:[/b]
-[nation=noname]Lowell Indiana[/nation] [b]([color=gray]I[/color])[/b][/list]
+[nation=noname]Lowell Indiana[/nation] [b]([color=#580057]C[/color])[/b][/list]
 [hr]
 
 [b][color=gray]LSN Judiciary[/color][/b]

@@ -3,9 +3,10 @@ For our Honor and our Empire, we fight for the Kaiser!
 [b][u]The Kaiser[/u][/b] [nation=shortname]The Weimar Republik[/nation]
 
 [b][u]The Imperial Pentarchy[/u][/b]
-The Imperial Pentarchy is awaiting those who would rise to the challenge and strive to make this region great!
-[b]The Pentarch of Truth:[/b] Vacant
+[b]The Pentarch of Truth:[/b] [nation=shortname]Father Prussia[/nation]
 [b]The Pentarch of Love:[/b] [nation=shortname]Terran Consortium[/nation]
-[b]The Pentarch of the People:[/b] Vacant
+[b]The Pentarch of the People:[/b] [nation=shortname]The Nationalist Republic of Ireland[/nation]
 [b]The Pentarch of the Roleplaying Committee:[/b] [nation=shortname]Ralancesa[/nation] 
-[b]The Pentarch of Plenty:[/b] Vacant
+[b]The Pentarch of Plenty:[/b] [nation=shortname]Modern Europa[/nation]
+
+[b]It is imperative that as many nations as possible join the WA and endorse the Chancellor, that his say may carry weight in the WA, and his position be secure![/b]
