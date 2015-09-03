@@ -3,9 +3,6 @@
 [U][B][COLOR=Black] Overview [/COLOR][/B][/U]
 [region=The Grand Assembly of Providencia] is a loose Confederation of allied states. It&amp;#39;s capitol is Columbus, [nation=the Chattahooche]e. 
 
-[U][B][COLOR=Black] World Assembly Delegate [/COLOR][/B][/U]
--Jefferson Davis Lee III, [nation=the chattahooche]e
-
 [U][B][COLOR=Black] Constituent States [/COLOR][/B][/U]
 -[nation=the Chattahooche]e
 -[nation=hendricia]
@@ -16,3 +13,7 @@
 -[nation=the affiliated separatist union]
 -[nation=the united militia of the northern ups]
 -[nation=the states of the new deep south]
+-[nation=ASAP Pagan]
+-[nation=the southern province]
+-[nation=the grand tempest]
+-[nation=the tristain confederacy]

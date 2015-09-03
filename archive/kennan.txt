@@ -5,7 +5,7 @@
 Administration: [nation=short]Samukan[/nation]
 Cartography: [nation=short]Hackleberry Islands[/nation]
 Elections: [nation=short]Republic of Guadalajara[/nation]
-Foreign Affairs: [i]Accepting Applications; telegram [nation=short]Vinco[/nation][/i]
+Foreign Affairs: [nation=short]Saphlua[/nation]
 Role-Playing: [i]Accepting Applications; telegram [nation=short]Vinco[/nation][/i]
 Security: [nation=short]Ethan Foley[/nation]
 

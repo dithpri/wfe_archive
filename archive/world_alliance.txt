@@ -6,9 +6,8 @@
 
 [Url=http://worldalliance.postalboard.com/t857-incumbent-eleventh-wa-security-council][color=gold][b]The 11th SECURITY COUNCIL[/b][/color][/url]
 
-[b]+ President[/b] : to be elected by the WASC or the WA
-[B]+ Acting President[/b] : [nation]trinity_sector[/nation]
-[b]+ Vice President[/b] : to be appointed by the President
+[b]+ President[/b] : [nation=short]great_empire_of_ireland[/nation]
+[b]+ Vice President[/b] : [nation]trinity_sector[/nation]
 
 [b]+ Member[/b] : [nation]scottlands[/nation]
 [b]+ Member[/b] : [nation=short]muchos_estados_unidos[/nation]
