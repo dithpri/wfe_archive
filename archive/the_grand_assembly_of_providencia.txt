@@ -1,7 +1,5 @@
-[U][B][COLOR=Black] The Grand Assembly of Providencia Factbook [/COLOR][/B][/U]
-
 [U][B][COLOR=Black] Overview [/COLOR][/B][/U]
-[region=The Grand Assembly of Providencia] is a loose Confederation of allied states. It&amp;#39;s capitol is Columbus, [nation=the Chattahooche]e. 
+[region=The Grand Assembly of Providencia] is a loose Confederation of allied states.
 
 [U][B][COLOR=Black] Constituent States [/COLOR][/B][/U]
 -[nation=the Chattahooche]e
@@ -17,3 +15,5 @@
 -[nation=the southern province]
 -[nation=the grand tempest]
 -[nation=the tristain confederacy]
+-[nation=valenshire]
+-[nation=Andrewstan ]

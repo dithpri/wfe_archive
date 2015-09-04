@@ -4,10 +4,8 @@
 
 [nation]The twelth leigon of rome[/nation] [color=red][b]Pro Consul of North America ,commander of the twelth legion and Quaestor (Senator and citizen)[/b][/color]
 
-[nation]Legion of Banter[/nation][b] Keeper of the national zoo ( Citizen)[/b]
-
-[nation]Neprium[/nation] Legate of Auxilaries of the tenth legion (Plebian)
+[nation]Neprium[/nation][b] Legate of Auxilaries of the tenth legion (Ctizen)[/b]
 
 [nation]The Deagle Society[/nation] (non citizen) Captain of Auxilaries of the tenth legion
 
-[nation]Shrekyopia[/nation][color=red][b] First centurion of the Evocati of the 10th Legion (Citizen and Senator)[/color][/b]
+[nation]Shrekyopia[/nation][color=red][b] First centurion of the Evocati of the 10th Legion, proconsul of south America and Censor (Citizen and Senator)[/color][/b]
