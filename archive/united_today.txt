@@ -4,7 +4,7 @@ EXECUTIVE BRANCH
 President:
 Vice President:
 Sec of Interior:
-Sec of Defense:[nation=short]New_Burkstand[/nation]
+Sec of Defense:
 Ambassador:
 President of the Military:
 

@@ -11,17 +11,11 @@
 [b]Lord Overseer[/b] [nation=short]Grantine[/nation]
 [b]Lord Overseer[/b] [nation=short]Imperial Royal Union[/nation]
 
-[hr][hr][b][color=navy][u]The Imperial Cabinet[/u][/color][/b]
-
-[b]1st Min:[/b] [nation=short]Tyranniod overlords[/nation]
-[b]AttGen:[/b] [nation=short]Kr-Hai[/nation]
-[b]MinSoc:[/b] [nation=short]Sacheyenya[/nation]
-[b]MinInfo:[/b] [nation=short]Prothetassa[/nation]
-[b]MinEco:[/b] [nation=short]Tangshan[/nation]
+[hr][hr]
 
 [b][color=green][u]The Imperial Diet[/color][/u][/b]
 [b]Lord Speaker:[/b] [nation=short]The Recon Empire[/nation]
-[b]Lord Sergeant:[/b] [Vacant]
+[b]Lord Sergeant:[/b] [nation=short]Gonngman City[/nation]
 [hr]
 
-[b][u][color=lime]NEWSFLASH:[/color][/u] Join the Imperial Diet by TGing the interim Lord Speaker, [nation=short]The Recon Empire[/nation]![/b]
+[b][u][color=lime]NEWSFLASH:[/color][/u] Imperial Decree pauses Cabinet Runnings! Focus shifts to cross-region war RP![/b]

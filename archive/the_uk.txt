@@ -1,8 +1,6 @@
-[b][region]The UK[/region]
-[color=blue]MONARCHIST
-CHRISTIAN
-CONSERVATIVE
-TRADITIONAL[/color][hr]SOVEREIGN : [nation=short]King William Arthur[/nation]
+[b][region]The UK[/region]: REAL PLACES, REAL PEOPLE, REAL ISSUES
+
+[color=blue]We are MONARCHIST, CHRISTIAN, CONSERVATIVE, and TRADITIONAL[/color][hr]SOVEREIGN : [nation=short]King William Arthur[/nation]
 ANTHEM: [url=https://www.youtube.com/watch?v=AprzF5_6hGs]&amp;quot;GOD SAVE THE KING!&amp;quot;[/url]
 PARLIAMENT: [region]PALACE OF WESTMINSTER[/region]
 CHURCH: [region]CHURCH OF ENGLAND[/region]
@@ -12,4 +10,5 @@ MILITARY:
 [region]BRITISH ROYAL NAVY[/region]
 [region]BRITISH ARMY[/region]
 
+Permanent state of war exists against [region]The Internationale[/region] and the Left Wing
 [/b]

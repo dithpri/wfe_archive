@@ -1,6 +1,3 @@
-[U][B][COLOR=Black] Overview [/COLOR][/B][/U]
-[region=The Grand Assembly of Providencia] is a loose Confederation of allied states.
-
 [U][B][COLOR=Black] Constituent States [/COLOR][/B][/U]
 -[nation=the Chattahooche]e
 -[nation=hendricia]
@@ -16,4 +13,8 @@
 -[nation=the grand tempest]
 -[nation=the tristain confederacy]
 -[nation=valenshire]
--[nation=Andrewstan ]
+-[nation=the tennessee]
+-[nation=the blue ridge mountains]
+-[nation=hippienirvana]
+-[nation=andrewstan]
+-[nation=Christofelstan]
