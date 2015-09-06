@@ -8,9 +8,9 @@ Election Status: Monthly Elections
 Representative: Bugs Bunny (The Devious Party)
 
 Congress:
-The Devious Party: 50.0% [nation=short]Thornico[/nation]
+The Devious Party: 25.0% [nation=short]Thornico[/nation]
 The Piner Party: 25.0% [nation=short]The Cass Confederation[/nation]
 The Human-Error Party: 0.0% [nation=short]Big Bosss Wasteland[/nation]
-The Solar Party: 25.0% [nation=short]Mist Veil[/nation]
+The Solar Party: 50.0% [nation=short]Mist Veil[/nation]
 
 

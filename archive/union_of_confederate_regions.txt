@@ -1,7 +1,7 @@
 [color=Mediumslateblue][B]Hello! Bonjour! [/color]Welcome to the Union of Confederate Regions![/B]
 [hr]
 [B][i]Minister of Immigration:[/i][/B] [nation=short]Serbatijan_Empire[/nation]
-[B][i]Minister of Information:[/i][/B] Vacant
+[B][i]Minister of Information:[/i][/B] [nation=short]Tanzeratti[/nation]
 [B][i]Minister of Foreign Affairs:[/i][/b] [nation=short]Mozilla_Federation[/nation]
 [B][i]Minister of Security:[/i][/b] Pied Piper of Hamelin
 [hr]

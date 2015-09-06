@@ -1,8 +1,3 @@
-This region has been liberated by the Confederate forces of Mid Atlantic Offshore! 
-
-National Support: [nation=short]Gurifon[/nation]
-Primary militia of Southern Seceders: [nation=short]Narcoossee Braves[/nation]
-Contributing militia: [nation=short]Davis City Militia[/nation]
-Contributing militia: [nation=short]New Atlanta Militia[/nation]
+hello
 
 
