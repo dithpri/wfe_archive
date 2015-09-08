@@ -1,0 +1,17 @@
+&nbsp; &nbsp; [box][b]Organization Name:[/b]
+&nbsp; &nbsp; &nbsp; &nbsp; [b]Areas of Operation:[/b] (Must be actual nation(s))
+
+&nbsp; &nbsp; &nbsp; &nbsp; [u][b]Governmental Information[/b][/u]
+&nbsp; &nbsp; &nbsp; &nbsp; [b]Group Ideology:[/b]
+&nbsp; &nbsp; &nbsp; &nbsp; [b]Leader:[/b] (If multiple leaders then please list all)
+
+&nbsp; &nbsp; &nbsp; &nbsp; [b][u]Group Information[/u][/b]&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; [b]Membership Size:[/b] (How many members do you have?)
+&nbsp; &nbsp; &nbsp; &nbsp; [b]Nationality:[/b]
+&nbsp; &nbsp; &nbsp; &nbsp; [b]Resources:[/b] (Does your group have access to any equipment and training?)
+&nbsp; &nbsp; &nbsp; &nbsp; [b]Militia:[/b] (If multiple militia forces, please separate into different groups)
+&nbsp; &nbsp; &nbsp; &nbsp; [b]Small history:[/b]&nbsp;
+
+&nbsp; &nbsp; &nbsp; &nbsp; [b]Other information:[/b][/box]
+
+&nbsp; &nbsp; 429 - DO NOT REMOVE

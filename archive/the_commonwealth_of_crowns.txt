@@ -4,11 +4,11 @@ The Commonwealth of Crowns, a region of monarchies of all hues, is dedicated to 
 
 [b][u]Sudwecan Administration[/u][/b]
 &#149; Secretary-General: [nation=short]Sudweca[/nation] (SDP)
-&#149; Minister for Regional Affairs: [nation=short]Folms[/nation] (SDP)
+&#149; Minister for Regional Affairs: TBD
 &#149; Minister for External Affairs: [nation=short]Jackonia[/nation]
 &#149; Minister for Culture: [nation=short]Emelka[/nation] (PSP)
 &#149; Minister for Defence: [nation=short]Vetega[/nation] (SDP)
-&#149; Minister for Finance: [nation=short]Lentheric[/nation] (PA)
+&#149; Minister for Finance: [nation=short]Lentheric[/nation]
 
 [b][u]Commonwealth Assembly[/u][/b]
 &#149; Speaker: [nation=short]Apocryphi[/nation]
@@ -22,5 +22,6 @@ The Commonwealth of Crowns, a region of monarchies of all hues, is dedicated to 
 [b][u]Regional Security Services[/u][/b]
 &#149; Commander-in-Chief: [nation=short]Sudweca[/nation]
 
-[color=ff7a000][b][u]Next Electoral Period[/u][/b][/color]
-&#149; 1st-8th November (pending resolution)
+[color=ff7a000][b][u]Information[/b][/u][/color]
+&#149; Endorsement Cap: 13 (subject to change)
+&#149; Next Election: 1st-8th November

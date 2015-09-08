@@ -1,6 +1,6 @@
 [b]REGIONAL GOVERNMENT[/b]
 
-President: 
+President: [nation]Geo chorus[/nation]
 Prime Minister: [nation]Monos[/nation]
 
 Minister of Justice: [nation]Tysoania[/nation] 

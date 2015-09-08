@@ -5,14 +5,14 @@ Check out our forums at ulpns.boards.net
 Government
 EMPEROR[/b]: [nation]Sensimillastan[/nation]
 [b]WA Ambassador[/b]: [nation]Hydra-Russian Empire[/nation]
-[b]Minister of Defence[/b]: ---
+[b]Minister of Defence[/b]: [nation]United Britons[/nation]
 
 [b]Cabinet of Defence:
 EMPEROR[/b]: [nation]Sensimillastan[/nation]
 [b]Ambassador[/b]: [nation]Hydra-Russian Empire[/nation]
-[b]Minister of Defence[/b]: ---
-[b]SEAT 1[/b]: [nation]Agartti[/nation]
-[b]SEAT 2[/b]: [nation]Notralgia[/nation]
+[b]Minister of Defence[/b]: [nation]United Britons[/nation]
+[b]SEAT 1[/b]: [nation]The Machines[/nation]
+[b]SEAT 2[/b]: [nation]The Destroyer of Darkness[/nation]
 
 [b]Minister of Finance[/b]: [nation]Drakorvanyia[/nation]
 
@@ -20,4 +20,3 @@ EMPEROR[/b]: [nation]Sensimillastan[/nation]
 [b]SEAT 1[/b]: ---
 [b]SEAT 2[/b]: ---
 [b]SEAT 3[/b]: [nation]Drakorvanyia[/nation]
-[b]SEAT 4[/b]: ---
