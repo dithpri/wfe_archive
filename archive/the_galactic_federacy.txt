@@ -8,9 +8,9 @@ One year = one week)
 
 [color=gold]Talkable Topic[/color]
 [nation=short]Gorthias[/nation] asks: How many active personal does your military have?
-[nation=short]Diyel Grandiose[/nation] asks: What are notable features of your species?
+[nation=short]Diyel Grandiose[/nation] asks: What are your preferred weapons for your individual military units?
 
-Telegram [nation=short+noflag]Gorthias[/nation] for the next topic.
+Telegram [nation=short+noflag]Gorthias[/nation] or [nation=short+noflag]Diyel Grandiose[/nation] for the next topic.
 
 [color=gray]Major Roleplay Event[/color]
 Current RP: Aftermath Reaper invasion

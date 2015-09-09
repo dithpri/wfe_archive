@@ -7,10 +7,10 @@
 
 [b][color=green][u]First Cabinet[/u][/color][/b]
 [list][*][B]Prime Minister:[/B] 
-[nation=noname]The English Conservative Party[/nation] [b]([color=blue]NT[/color])[/b]
+[nation=noname]Grande Arizona[/nation] [b]([color=gray]I[/color])[/b]
 
 [*][B]Deputy Prime Minister:[/B] 
-[nation=noname]Grande Arizona[/nation] [b]([color=blue]NT[/color])[/b]
+[i]Vacant[/i]
 
 [*][B]Minister for Defence:[/B] 
 [nation=noname]NicholasCagia[/nation] [b]([color=#580057]C[/color])[/b]
@@ -19,15 +19,15 @@
 [nation=noname]Hessendorf[/nation] [b]([color=gray]I[/color])[/b]
 
 [*][B]Minister for Internal Affairs:[/B] 
-[nation=noname]The Nationalist States of America[/nation] [b]([color=blue]NT[/color])[/b]
+[i]Vacant[/i]
 
 [*][B]Minister for Justice:[/B] 
-[nation=noname]The Federation of Planet Earth[/nation] [b]([color=blue]NT[/color])[/b]
+[i]Vacant[/i]
 [/list]
 
 [B][u][color=red]First Senate[/color][/u][/B]
 [list][*][B]Chancellor:[/B] 
-[nation=noname]The Servants of Allah[/nation] [b]([color=blue]NT[/color])[/b]
+[nation=noname]The Servants of Allah[/nation] [b]([color=gray]I[/color])[/b]
 [*][b]Vice-Chancellor:[/b]
 [nation=noname]Lowell Indiana[/nation] [b]([color=#580057]C[/color])[/b][/list]
 [hr]
