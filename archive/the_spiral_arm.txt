@@ -1,13 +1,22 @@
-&#149;[B]This region has been hijacked by The [region]Mafia[/region] &#149;
+[color=red]Welcome to the Spiral Arm, a region built [i]en memorium[/i] to the great Saga of Seven Suns.[/color]
 
-[/b][B]|Nothing personal, it&#146;s just business Capiche|[/B]
-_____________________________________________________________________________________________________________________________
+[b]As it currently stands, the executive cabinet of The Spiral Arm will be as follows:[/b]
 
+[color=silver][B][u]The Office of the Prime Signatory[/u][/B][/color]
+[region]The Prime Signatory of the United Federations of Planets[/region]
 
-[B]Famiglia:
-The Godfather [nation=short]Asy[/nation]
-Underboss [nation=short]Cora II[/nation][/B]
+[color=blue][B][u]The Office of The Ambassadorial Envoy[/u][/B][/color]
+[region]The Republic of Aekir[/region]
 
+[color=purple][B][u]The Elected Office of Regional Documentarian[/u][/B][/color]
+[region]The Constitutional Monarchy of Kurunis[/region]
 
-[B][url=http://s4.zetaboards.com/EquinoxNS/topic/10284271/1/]Join the Famiglia today [/url][/B]
-[B][u]We&amp;#39;ll make you an offer you can&amp;#39;t refuse![/u][/B]
+[color=orange][B][u]The Office of Inter-Regional Affairs[/u][/B][/color]
+[region]The Empire of Ubermenscha[/region]
+
+[color=red][B][u]Commander in Chief of the Regional Armed Forces[/u][/B][/color]
+[region]The Kingdom of Dumbledores Militia[/region]
+
+[color=teal][i][B][u]Foreign Affairs Officer[/u][/B][/i][/color]
+[region]The Republic of Aekir[/region]
+----------------------------------------------------------------------------------------------------------------------------------------

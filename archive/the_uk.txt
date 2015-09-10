@@ -1,12 +1,17 @@
-[b][color=blue]National-Socialist Government[/color][hr]SOVEREIGN : [nation=short]King William Arthur[/nation]
+[b][region]The UK[/region] is now a modern 
+[color=blue]National-Socialist Government[/color] and will be run accordingly[hr]Our German allies: [region]Nationalsozialistischen Deutschen Reich[/region]
+[hr]SOVEREIGN : [nation=short]King William Arthur[/nation]
 ANTHEM: [url=https://www.youtube.com/watch?v=AprzF5_6hGs]&amp;quot;GOD SAVE THE KING!&amp;quot;[/url]
-PARLIAMENT: [region]PALACE OF WESTMINSTER[/region]
-CHURCH: [region]CHURCH OF ENGLAND[/region]
-BANK: [region]BANK OF ENGLAND[/region]
+[region]PALACE OF WESTMINSTER[/region]
+[region]CHURCH OF ENGLAND[/region]
+[region]BANK OF ENGLAND[/region]
+
 MILITARY:
 [region]ROYAL AIR FORCE[/region]
 [region]ROYAL BRITISH NAVY[/region]
 [region]BRITISH ARMY[/region]
 
-Permanent state of war exists against [region]The Internationale[/region] and the Left Wing
+GERMAN MILITARY: [region]Grossdeutschland[/region] Division
+
+Permanent state of war exists against the Left Wing
 [/b]
