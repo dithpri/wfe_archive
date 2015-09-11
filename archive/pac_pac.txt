@@ -1,6 +1,6 @@
 [color=yellow][b][u][i]Executive Branch[/b][/u][/i][/color]
-[color=pink]Governor of Pac Pac (Transfer of Power): Incumbent[/color][nation=Atticusland]
-[color=red] Acting Governor of Pac Pac: Incumbent[/color][nation]Murderous Goats[/nation]
+[color=pink]Governor of Pac Pac *Transfer of Power*: Incumbent[/color][nation=Atticusland]
+[color=lightblue] Acting Governor of Pac Pac: Incumbent[/color][nation]Murderous Goats[/nation]
 
 [b][u][i][color=green]Legislative Branch[/b][/u][/i][/color]
 [color=blue] Speaker of the Congress: [nation=Lackatoo][/color]
