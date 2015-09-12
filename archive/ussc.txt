@@ -4,11 +4,11 @@ Positions:
 
 Premier: [nation]New Slavik Empire[/nation]
 Prime Minister: [nation]Soviet Bosnia[/nation]
-S.O.D.:
+S.O.D.:[nation]Volkiara[/nation]
 Recruiter:
 Minister of Nutrition:
 Chief of Econ:
-Red Army General:[nation]Volkiara[/nation]
+Red Army General:[nation]Soviet Catalonia[/nation]
 KGB Commissar:
 
 Official Forum:
