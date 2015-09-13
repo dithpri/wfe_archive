@@ -1,4 +1,5 @@
 The United Communist League is a revival of the former Federation of Socialist Republics.
+[B]Motto:[/B] [i]&amp;quot;United Under One League&amp;quot;[/i]
 
 [B][u]Regional Government:[/u][/B]
 
@@ -7,3 +8,5 @@ The United Communist League is a revival of the former Federation of Socialist R
 [color=purple][B]Minister of Domestic Affairs:[/B][/color] [nation]Stenia[/nation]
 [color=brown][B]Minister of Defence:[/B][/color] [nation]Alma-Ata[/nation]
 [color=orange][B]Minister of Propaganda:[/B][/color] -
+
+[color=red][B]Regional Justice:[/B][/color] -

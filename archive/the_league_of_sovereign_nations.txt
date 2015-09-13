@@ -10,7 +10,7 @@
 [nation=noname]Grande Arizona[/nation] [b]([color=gray]I[/color])[/b]
 
 [*][B]Deputy Prime Minister:[/B] 
-[i]Vacant[/i]
+[nation=noname]Aurea Adamas[/nation] [b]([color=gray]I[/color])[/b]
 
 [*][B]Minister for Defence:[/B] 
 [nation=noname]NicholasCagia[/nation] [b]([color=#580057]C[/color])[/b]

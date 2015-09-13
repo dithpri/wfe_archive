@@ -1,27 +1,29 @@
 Welcome to Markion,
 
-Please join the World Assembly so we can have a Delegate.
-`Cause it&amp;#39;s cool.
+Endorse your Founder [nation=short]wilinisian sweden[/nation] and Delegate [nation=short]dumb potatoe land[/nation]
+
+If you want to be on the Regional Map send a telegram with the European country you want to be, and the colour you want to be.
+Be sure to check the regional map to make sure the country/colour is available. 
+
 [hr]
-[b]Great Nations:[/b]
-
-Challenger: [nation]Wilinisian Sweden[/nation]
-Influencer: [nation]Wilinisian Sweden[/nation]
-Do Gooder: [nation]Dumb Potatoe Land[/nation]
-Evil Master: [nation]The Acquired States[/nation]
-Richmem: [nation]RostarII[/nation]
-Robber: [nation]Wilinisian Nedews[/nation]
-
 [b]Links:[/b]
 [url=http://www.thirdgeek.com/nseconomy/nseconomy.php?region=markion]Economic Statistics[/url]
 [url=http://markionmap.webs.com/ ]Regional Map[/url]
 
-[b]Maped Nations:[/b]
-[nation=short]Wilinisian Sweden[/nation]
-[nation=short]Wilinisian Nedews[/nation]
-[nation=short]The Acquired States[/nation]
-[nation=short]rostar[/nation]
-[nation=short]rostarii[/nation]
-[nation=short]Dumb Potatoe Land[/nation]
  
 -- [nation=noflag]Wilinisian Sweden[/nation]
+
+[hr]
+[b]Military Stats[/b]
+
+Number of troops is equal to anything lower then your population minus casualties.
+
+Military training is based on how much money the government spends on defence.
+
+Derp = Less then 1 Billion
+Poor Militia = 10 Billion
+Militia = 20 Billion
+Elite Militia = 50 Billion
+Poor Troops = 100 Billion
+Troops = 200 Billion
+Elite Troops = 500 Billion

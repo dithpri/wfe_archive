@@ -1,10 +1,6 @@
-[b][region]The UK[/region]
-[color=#E6C200]Modern National-Socialist Government[/color][hr]
-
+[b][color=#990000]Modern National-Socialist Government[/color] of [region]The UK[/region][hr]
 SOVEREIGN : [nation=short]King William Arthur[/nation]
 ANTHEM: [url=https://www.youtube.com/watch?v=AprzF5_6hGs]&amp;quot;GOD SAVE THE KING!&amp;quot;[/url]
-MOTTO: Una Sancta Ecclesia; Multarum Gentium
-FLAG: National
 GOVERNMENT:  [region]Palace of Westminster[/region]
 ROYAL RESIDENCE: [region]Windsor Castle[/region]
 CHURCH: [region]Church of England[/region]

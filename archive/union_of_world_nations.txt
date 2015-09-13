@@ -6,7 +6,7 @@
 [list][*]Map Maker:
 [*][nation]Auralux[/nation][/list]
 [*]Upper Council
-[list][*]Vacant
+[list][*][nation]SN Ambassador[/nation]
 [*][nation]The 5th German Reich[/nation]
 [*][nation]The Kingdom of North America[/nation][/list]
 [*]Court Judges
