@@ -3,8 +3,6 @@
 [i][b]Regional Government[/b][/i]
 [list][*]President
 [list][*][nation=short]Nichmerica[/nation][/list]
-[list][*]Map Maker:
-[*][nation]Auralux[/nation][/list]
 [*]Upper Council
 [list][*][nation]SN Ambassador[/nation]
 [*][nation]The 5th German Reich[/nation]
@@ -17,5 +15,7 @@
 [list][*]Vacant
 [*]Vacant
 [*]Vacant[/list][/list][/list]
+[spoiler=Map Maker]
+[nation]Auralux[/nation][/spoiler]
 [hr]
 Come and join the UWN today![/color]
