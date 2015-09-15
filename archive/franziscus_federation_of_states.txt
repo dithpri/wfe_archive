@@ -1,15 +1,14 @@
 [b]Welcome to the Franziscus Federation[/b]
 Founded quite recently by a group of nations who felt it was necessary to create their own region to make decisions themselves.
 
-[b]Council of the Federation[/b]
-Chairman: [nation]Seriya[/nation]
-Vice Chairman: [nation]The Necessary Evil[/nation]
-Councilor for Recruitment: [nation]This Country Does Not Exist[/nation]
-Councilor for International Affairs: [nation]Nitro Express[/nation]
-Councilor for Trade : [nation]Gruberlandia[/nation]
+[b]Federation Government[/b]
+Federation President: [nation]Nitro Express[/nation]
+Federation Vice President: [nation]The Necessary Evil[/nation]
+Speaker of the Federation Assembly: 
+Minister of Intelligence: [nation]This Country Does Not Exist[/nation]
+Minister of International Affairs: [nation]Seriya[/nation]
+Minister of Trade: [nation]Gruberlandia[/nation]
 Commander of Federation Security Forces: [nation]Impossible Mission Force[/nation]
-Councilor for Regional Affairs: [nation]The Camel Republic[/nation]
+Minister for Regional Affairs: [nation]The Camel Republic[/nation]
 
-[b]Other Important Positions[/b]
-Founder: [nation]Seriya[/nation]
-WA Delagate: [nation]Nitro Express[/nation]
+Charter Coming Soon
