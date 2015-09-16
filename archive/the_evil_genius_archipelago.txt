@@ -5,7 +5,7 @@ Government: Regional Congress
 
 Representative: Bugs Bunny (The Devious Party: [nation=short]Thornico[/nation])
 
-Regional Judge: [nation=short]Kimal[/nation]
+Regional Judge: NONE
 
 Congress:
 The Devious Party: 25.0% [nation=short]Thornico[/nation]

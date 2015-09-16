@@ -4,7 +4,7 @@ Welcome to Atlas! Here, we accept all nations, and provide them with a suitable 
 [b]Founder[/b]: [nation=short]Bratislav[/nation]
 [b]Glorious Leader (EP)[/b]: Vacant
 [b]Minister for Defence[/b]: [nation=short]Brytene[/nation]
-[b]Minister for Recruitment[/b]: Vacant
+[b]Minister for Recruitment[/b]: [nation=short]Coraspia[/nation]
 [b]Minister for Information[/b]: [nation=short]Unified Free Lands[/nation]
 [b]Head of Cartography[/b]: Vacant
 [b]Head Lo&iuml;cer[/b]:  [nation=short]Socialist Mercanda[/nation]

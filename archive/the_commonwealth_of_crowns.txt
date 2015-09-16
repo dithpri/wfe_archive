@@ -17,7 +17,7 @@ The Commonwealth of Crowns, a region of monarchies of all hues, is dedicated to 
 
 [b][u]Crowns Court[/u][/b]
 &#149; Chief Justice: [nation=short]Wesmorland[/nation]
-&#149; Justice: TBD
+&#149; Justice: [nation=short]The Langobardi[/nation]
 &#149; Justice: [nation=short]Neru[/nation]
 &#149; Public Protector: [nation=short]Belhorizon[/nation]
 

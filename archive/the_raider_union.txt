@@ -3,7 +3,7 @@
 
 [color=blue][b]The TRU High Command:[/color][/b]
 [b]Commander:[/b] [nation=short]The Eastern Commonwealth[/nation]
-[b]Raider General:[/b]
+[b]Raider General:[/b][nation=short]Western Aligistan[/nation]
 [b]General:[/b]
 [b]Colonel:[/b]
 [B]Captain:[/b]
