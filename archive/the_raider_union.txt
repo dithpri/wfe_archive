@@ -2,12 +2,13 @@
 [b]Do you want to raid with the best? You have found your region! We may be new, but we are full of raider knowledge.[/b]
 
 [color=blue][b]The TRU High Command:[/color][/b]
-[b]Commander:[/b] [nation=short]The Eastern Commonwealth[/nation]
-[b]Raider General:[/b][nation=short]Western Aligistan[/nation]
+[b]Field Marshall:[/b] [nation=short]The Eastern Commonwealth[/nation]
+[b]Brigadier General:[/b] [nation=short]Western Aligistan[/nation]
 [b]General:[/b]
 [b]Colonel:[/b]
-[B]Captain:[/b]
-[b]Lieutenant:[/b]
+[B]Captain:[/b] [nation=short]KortatWAColony[/nation]
+[b]Captain:[/b] [nation=short]True Socialist Britain[/nation]
+[b]Lieutenant:[/b] [nation=short]Atlantis Undersea[/nation]
 
 [B][color=blue]Be the best of your ability, and work hard, and you may just see your nation&amp;#39;s name on that list above![/b][/color]
 
@@ -15,3 +16,5 @@
 
 [b][color=red]Order of the Day:[/B][/color]
 [b]Always show your best ability in this region, and praise The Eastern Commonwealth&amp;#39;s Leadership![/b]
+
+[B]Join today, and recieve an automatic promotion![/b]

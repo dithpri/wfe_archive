@@ -1,28 +1,6 @@
-[b]4 liveable countries and over 100 Modern National-Socialist regions of [region]The UK[/region] brought to you by [region]Nationalsozialistischen Deutschen Reich[/region]
-[i]Saving Germany and the western world from Socialism since February 24, 1920[/i][hr]
-SOVEREIGN : [nation=short]King William Arthur[/nation]
-ANTHEM: [url=https://www.youtube.com/watch?v=AprzF5_6hGs]&amp;quot;GOD SAVE THE KING!&amp;quot;[/url]
-GOVERNMENT:  [region]Palace of Westminster[/region]
-ROYAL RESIDENCE: [region]Windsor Castle[/region]
-CHURCH: [region]Church of England[/region]
--[region]Westminster Abbey[/region]
-BANK: [region]Bank of England[/region]
-MILITARY:
+[b][region]The UK[/region] and constituent countries of [region]Englaland[/region], [region]Kinrick o Scotland[/region], [region]Dominion of Wales[/region], [region]Dominion of Ireland[/region], and the annexed south of [region]The Republic of Ireland[/region] have become National-Socialist and are part of [region]National Socialist World[/region]
 
-AIR: 
-[region]ROYAL AIR FORCE[/region], [region]ROYAL CANADIAN AIR FORCE[/region]
 
-LAND: 
-[region]BRITISH ARMY[/region], [region]CANADIAN ARMY[/region]
 
-SEA:
-[region]ALLIED MARITIME COMMAND[/region]
--[region]ROYAL CANADIAN NAVY[/region] 
--[region]ROYAL BRITISH NAVY[/region]
--[region]ROYAL AUSTRALIAN NAVY[/region]
--[region]ROYAL NEW ZEALAND NAVY[/region]
 
-[region]Nationalsozialistischen Deutschen Reich[/region] MILITARY: [region]Grossdeutschland[/region] Division
-
-Permanent state of war exists against all other factions
 [/b]

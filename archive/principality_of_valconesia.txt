@@ -5,12 +5,17 @@
 [hr]
 
 [b][color=darkgreen]The Monarchy:[/color][/b]
-[b]Grand Prince:[/b] HRM Casper I
+[b]Grand Prince:[/b] HRM Richard I ([nation=short]Valconesia[/nation])
 [b]Grand Princess-Consort:[/b] [i]Vacant[/i]
 [b]Crown Prince:[/b] [i]Vacant[/i]
-[b]The Lord Protector:[/b] HRH Richard I
+[b]The Lord Protector:[/b] [i]Vacant[/i]
 [hr]
 
 [b][color=red]The Government:[/color][/b]
-[b]Prime Minister:[/b] Andrew Grey-Anumia
-[b]Deputy PM:[/b] Armin von Sankt-Gallen
+[b]Prime Minister:[/b] [i]TBD[/i]
+[b]Deputy PM:[/b] [i]TBD[/i]
+[b]Minister of Internal Affairs:[/b] [i]TBD[/i]
+[b]Minister of Foreign Affairs:[/b] [i]TBD[/i]
+[b]Minister of the Treasury:[/b] [i]TBD[/i]
+[b]Minister of Defense:[/b] [i]TBD[/i]
+[b]Minister of Culture:[/b] [i]TBD[/i]
