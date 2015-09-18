@@ -7,8 +7,8 @@ Regional Anthem:
 Regional Song:
 Regional Motto:
 [/color] 
-
+[color=red]D[/color][color=orange]I[/color][color=yellow]M[/color][color=green]P[/color][color=blue]L[/color][color=purple]E[/color]
 [color=green]Regional Scout/Recruiter:
-[/color][/b]
+[/color]
 
-Warning=
+Warning=0/10[/b]
