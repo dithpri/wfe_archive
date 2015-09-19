@@ -1,16 +1,24 @@
-[b]IN THE MODERN [region]NATIONAL SOCIALIST WORLD[/region]; ALL NATIONALITIES ARE WELCOME
-[region]Nationalsozialistischen[/region]: [i][color=red]Saving the world from Marxism and socialist globalization since February 1920[/color][/i][hr]
+[b]IN THE MODERN [region]NATIONAL SOCIALIST WORLD[/region]; ALL NATIONALITIES ARE WELCOME[hr]World Capital: [region]Gross Berlin[/region]
+Politics: [region]Nationalsozialistischen[/region]
+Colonies: [region]Kolonien[/region]
+[hr]
 
-[region]Nationalsozialistischen Deutschen Reich[/region]
-[region]The UK[/region]
+[i]Multi-National Military of[/i] [region]Nationalsozialistische Volksarmee[/region]
+[color=red]General Officers[/color]
+Generalfeldmarschall: [nation=short]White Dragon Militia[/nation]
+Generaloberst:
+General der Infanterie:
+Generalleutnant:
+Generalmajor:
 
-Pre-Christian Heritage
-[region]Children Of The Aesir[/region]
-[region]Englaland[/region]
+[color=red]Officers[/color]
+Oberst:
+Oberstleutnant:
+Major:
+Hauptmann:
+Oberleutnant:
+Leutnant:
 
-German Stores
-[region]Nationalsozialistische Deutsche Arbeiter[/region]
+NCO&amp;#39;s not listed
 
-Multi-National Military
-[region]Nationalsozialistische Volksarmee[/region]
-[/b]
+[color=red][i]At perpetual war with Anti-Fascist, Communist, Anarchist, Socialist, and Libertarian regions[/color][/i][/b]

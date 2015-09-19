@@ -1,4 +1,4 @@
-Region Name in Malay: [b]Kesatuan Republik Komunis Fraline[/b]
+[color=red]Region Name in Malay: [b]Kesatuan Republik Komunis Fraline[/b]
 Motto: [b]Pekerja Bersatu, KRKF Menjadi Makmur (Workers Unite, UFCR Prosper)[/b]
 Anthem: [b]Marilah Bersatu! (Let&amp;#39;s Unite!)[/b]
 Capital: [b]North Rostivalsia, [nation]Frosika[/nation][/b]
@@ -10,5 +10,6 @@ Head of Government: [b]Fathurrahman IV[/b]
 Legislature:
 - Upper House: [b]Majlis Persekutuan Fraline (Fraline Federal Council)[/b]
 - Lower House: [b]Dewan Perwakilan Fraline (Fraline House of Representatives)[/b]
+- National House: [b]Dewan Undangan Negeri (National Legislative Assembly)[/b]
 Established: [b]Treaty on Creation of the UCFR[/b] ([b]6 September 2015[/b])
-Currency: [b]Fralin[/b]
+Currency: [b]Fralin[/b][/color]
