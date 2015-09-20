@@ -8,7 +8,7 @@ Emperor:[/b] Wulfcyon Quingrius - [nation=short]Imperial Province of Cyrodiil[/n
 
 [b]Steward:[/b] Queen Vonenea Thirto - [nation=short]Morrowind-Resdayn[/nation]
 
-[b]Spymaster:[/b] High Queen Ja&amp;#39;hinda Sarabiri - [nation=short]Elsweyr-Anequina-Pellitine[/nation]
+[b]Spymaster:[/b] Lord Jo&amp;#39;zhara-do - [nation=short]Elsweyr-Kieran Isles[/nation]
 
 [b]Arch-Mage:[/b] King Muril Elsinifeth - [nation=short]Summerset-Alinor[/nation]
 
@@ -19,6 +19,8 @@ Emperor:[/b] Wulfcyon Quingrius - [nation=short]Imperial Province of Cyrodiil[/n
 King Verathus - [nation=short]Black Marsh-Argonia[/nation]
 
 High King Borri Razorwind - [nation=short]Skyrim-Keizaal[/nation]
+
+High Queen Ja&amp;#39;hinda Sarabiri - [nation=short]Elsweyr-Anequina-Pellitine[/nation]
 
 Welcome to the Quingrius Empire!
 

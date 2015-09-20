@@ -5,10 +5,10 @@
 [b]Field Marshall:[/b] [nation=short]The Eastern Commonwealth[/nation]
 [b]Brigadier General:[/b] [nation=short]Western Aligistan[/nation]
 [b]General:[/b]
-[b]Colonel:[/b]
-[B]Captain:[/b] [nation=short]KortatWAColony[/nation]
-[b]Captain:[/b] [nation=short]True Socialist Britain[/nation]
-[b]Lieutenant:[/b] [nation=short]Atlantis Undersea[/nation]
+[b]Colonel:[/b] [nation=short]Atlantis Undersea[/nation]
+[B]Captain:[/b]
+[b]Captain:[/b]
+[b]Lieutenant:[/b]
 
 [B][color=blue]Be the best of your ability, and work hard, and you may just see your nation&amp;#39;s name on that list above![/b][/color]
 

@@ -1,15 +1,9 @@
-[color=red]Region Name in Malay: [b]Kesatuan Republik Komunis Fraline[/b]
-Motto: [b]Pekerja Bersatu, KRKF Menjadi Makmur (Workers Unite, UFCR Prosper)[/b]
-Anthem: [b]Marilah Bersatu! (Let&amp;#39;s Unite!)[/b]
-Capital: [b]North Rostivalsia, [nation]Frosika[/nation][/b]
-Language: [b]Malay and English[/b]
-Government: [b]Single-Party State[/b]
-General-Secretary: [b]Faiz Saqqaf[/b]
-Head of State: [b]Imtiyaz Abdullah[/b]
-Head of Government: [b]Fathurrahman IV[/b]
-Legislature:
-- Upper House: [b]Majlis Persekutuan Fraline (Fraline Federal Council)[/b]
-- Lower House: [b]Dewan Perwakilan Fraline (Fraline House of Representatives)[/b]
-- National House: [b]Dewan Undangan Negeri (National Legislative Assembly)[/b]
-Established: [b]Treaty on Creation of the UCFR[/b] ([b]6 September 2015[/b])
-Currency: [b]Fralin[/b][/color]
+[color=darkgreen][b]Kesatuan Republik Komunis Fraline[/b][/color]
+
+[color=red][i][b]Pekerja Bersatu, KRKF Menjadi Makmur (Workers Unite, UFCR Prosper)[/b][/i]
+
+A communist region with a sigle-party government. The regional anthem is [b]Marilah Bersatu! (Let&amp;#39;s Unite!)[/b]. The capital of UFCR is [b]North Rostivalsia, [nation]Frosika[/nation][/b]. The official languages of UFCR is [b]Malay and English[/b]. Established after the [b]Treaty on Creation of the UCFR[/b] on [b]6 September 2015[/b]. The regional currency is [b]Fralin[/b][/color]
+
+[hr]
+
+[url=http://i.imgur.com/KW7nzYg.png]Regional Map[/url]
