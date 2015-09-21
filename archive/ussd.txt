@@ -11,6 +11,8 @@
 [nation=short]Neu-Ulm[/nation]
 [nation=short]The Liberal Socialist State Of Mannheim[/nation]
 [nation=short]Island of Radland[/nation]
+[nation=short]Neu Terra[/nation]
+[nation=short]Noladea[/nation]
 
 [u]Red Fleet Admiralty[/u]
 [color=red][b][i]&amp;quot;BASH THE FASH!&amp;quot;[/i][/b][/color]
