@@ -14,7 +14,7 @@ Sec. of the Interior:   [nation=short]Polar Svalbard[/nation]
 Sec. of the Exterior:   [nation=short]Mubaru[/nation] [url=http://www.nationstates.net/nation=mubaru/detail=factbook/id=430563]+[/url]
 Sec. of Information: [nation=short]The Pacific Peace Union[/nation] 
 
-[b]Judicial Branch[/b] [url=http://forum.nationstates.net/viewtopic.php?f=4&amp;amp;t=338672]+[/url]
+[b]Judicial Branch[/b] [url=http://www.nationstates.net/region=twi_supreme_court]+[/url]
 Justice: [nation=short]Linaviar[/nation]
 Justice: [nation=short]Cottoria[/nation]
 Justice: [nation=short]Covonant[/nation]

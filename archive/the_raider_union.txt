@@ -6,7 +6,7 @@
 [b]Brigadier General:[/b] [nation=short]Western Aligistan[/nation]
 [b]General:[/b]
 [b]Colonel:[/b] [nation=short]Atlantis Undersea[/nation]
-[B]Captain:[/b]
+[B]Captain:[/b] [nation=short]Sufergia[/nation]
 [b]Captain:[/b]
 [b]Lieutenant:[/b]
 
