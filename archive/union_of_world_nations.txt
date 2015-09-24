@@ -12,9 +12,9 @@
 [*][nation]Nova Freedomland[/nation]
 [*][nation]The 2nd Japanese Empire[/nation][/list]
 [*]Lower Council
-[list][*]Vacant
-[*]Vacant
-[*]Vacant[/list][/list][/list]
+[list][*][nation]Raeine[/nation]
+[*][nation]The Nee German Republic[/nation]
+[*][nation]The 2nd Greek Empire[/nation][/list][/list][/list]
 [spoiler=Map Maker]
 [nation]Auralux[/nation][/spoiler]
 [hr]

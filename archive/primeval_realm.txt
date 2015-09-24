@@ -3,7 +3,7 @@
 
 Triangle:
 [color=Gold]Emperor: [Nation=Kaniros][/color]
-[color=Purple]Magic: [Nation=Morrisland][/color]
+[color=Purple]Unspecified: None[/color]
 [color=Grey]Unspecified: None[/color]
 
 Maps:

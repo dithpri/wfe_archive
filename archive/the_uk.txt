@@ -1,11 +1,13 @@
-[b][region]National Socialist World[/region]
-
-Welcome to [region]The UK[/region]
-A proud National-Socialist country of four Nationalities. Each with unique cultural histories and NationStates
+[b][region]National Socialist World[/region] 
 
 World Capital: [region]Gross Berlin[/region]
 Politics: [region]Nationalsozialistischen[/region]
 King and Chancellor: [nation=short]King William Arthur[/nation]
+Regional Capital: [region]London England[/region]
+Parliament: [region]Palace of Westminster[/region][hr]
+
+Welcome to [region]The UK[/region]
+A proud National-Socialist country of four Nationalities. Each with unique cultural histories and NationStates
 
 The English: [region]English Kingdom[/region]
 The Scots: [region]Kinrick o Scotland[/region]
