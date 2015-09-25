@@ -1,7 +1,13 @@
 
 [u][b][color=blue][region]The United Alliance of Sovereign Nations[/region][/color][/u]
 
-[hr][u]Regional Council[/u]
+[color=purple]Welcome home [nation]Lagrangian[/nation][/color]
+
+[hr]
+[u]Sovereign[/u]
+[color=brown]Governor-General:[/color] Elections happening soon! 
+
+[u]Regional Council[/u]
 [color=purple]Council Member:[/color] [nation=short]Meerdeform[/nation]
 [color=purple]Council Member:[/color] [nation=short]Enchanted Kingdom of Oasis[/nation]
 [color=purple]Council Member:[/color] [nation=short]Tocquevilla[/nation]

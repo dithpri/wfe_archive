@@ -5,7 +5,7 @@ Welcome to the [region]The Blood Pact of Lysithea[/region], founded by, [nation]
 [color=3FD100]Economy Advisor[/color]= [nation]Patriotism At its finest[/nation]
 [color=magneta]Cultural Advisor[/color]= [nation]Kylnasia[/nation]
 [color=#FF00BC]Spiritual Advisor[/color]= [nation]a Non-Holy guy[/nation]
-[color=red]Defense Advisor[/color]= [nation]Patriotism at its finest[/nation]
+[color=red]Defense Advisor[/color]= [nation]Saeurus[/nation]
 [color=orange]Drug Advisor[/color]= [nation]a Non-Holy guy[/nation]
 [color=purple]Political Advisor[/color]= [nation]Southern Anacostia[/nation]
 [color=1200D3]Tech Advisor[/color]= [nation]We Got Baking Soda[/nation]
@@ -15,4 +15,4 @@ Rules:
 [color=green]Be Friendly[/color],[color=red]except to commies[/color].
 [color=blue]Be Blunt[/color] Don&amp;#39;t be a [b]Liberal[/b]
 Keep the chat [u]at least[/u] [color=green]PG 13[/color] however this isn&amp;#39;t [color=red]Strictly[/color] enforced.
-You can not have more WA endorsements than the current President.
+

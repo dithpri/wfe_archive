@@ -13,7 +13,7 @@ South America Representative: [i]Vacant[/i]
 Africa Representative: [i]Vacant[/i]
 
 Font Union Representative: [nation=short]Levantx[/nation]
-Socialist United Alliance Representative: [i]Vacant[/i]
+Socialist United Alliance Representative: [nation=short]Hayasten[/nation]
 
 Map Administrator: [nation=short]Nancahuazu[/nation]
 Economic Administrator: [nation=short]Levantx[/nation]

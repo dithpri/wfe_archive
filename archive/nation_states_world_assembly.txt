@@ -17,6 +17,7 @@
 [nation=short]Iveco Trucks[/nation]
 [nation=short]Scania Trucks[/nation]
 [nation=short]Freightliner M2 112[/nation]
+[nation=short]International CXT[/nation]
 [nation=short]Wild Side[/nation]
 [region]United States of Humor and Comedy[/region]
 

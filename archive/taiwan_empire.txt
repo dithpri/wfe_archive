@@ -1,12 +1,16 @@
-The Taiwan Empire is a strong empire consisted of nations dedicated to strengthening the community as a whole.
+[color=black]The [i]Taiwan Empire[/i] is a strong empire consisted of nations dedicated to strengthening the community as a whole.[/color]
 
-WA Delegate: [nation]Huvekia[/nation]
+[color=blue]WA Delegate[/color]: [nation]Huvekia[/nation]
 
-Vice Delegate:[nation]Xyrma[/nation]
+[color=blue]Vice Delegate[/color]:[nation]Xyrma[/nation]
 
-Secretary of Inter-Regional Affairs: 
+[color=blue]Secretary of Regional Affairs[/color]: [color=orange]PENDING[/color]
+
+[color=blue]Secretary of Inter-Regional Affairs[/color]: 
 [nation]Dz Ntz[/nation]
 
+[color=blue]Deputy Secretary of Regional Affairs[/color]: [color=orange]PENDING[/color]
 
-Regional Animal: The Swift Bird
+
+[color=green]Regional Animal[/color]: [color=gray][b]The Swift Bird[/color][/b]
 

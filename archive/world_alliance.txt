@@ -11,7 +11,7 @@
 
 [b]+ Member[/b] : [nation]scottlands[/nation]
 [b]+ Member[/b] : [nation=short]muchos_estados_unidos[/nation]
-[b]+ Member[/b] : [nation=short]omega atlantica[/nation]
+[b]+ Member[/b] : [nation=short]the commonwealth of england and wales[/nation]
 [b]+ Member[/b] : [nation]serenarea[/nation]
 [b]+ Member[/b] : [nation=short]islamic states of islamic states[/nation]
 [b]+ Member[/b] : [nation=short]great eurussia[/nation]
