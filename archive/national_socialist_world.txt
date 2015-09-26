@@ -7,6 +7,7 @@ Bank: [region]Bank of England[/region]
 Colonies: [region]Kolonien[/region]
 [hr]
 
-[i]Multi-National Military of[/i] [region]Nationalsozialistische Volksarmee[/region]
+Multi-National Military: [region]Nationalsozialistische Volksarmee[/region]
+[i]At perpetual war with Anti-Fascist, Communist, Anarchist, Socialist, and Libertarian regions[/i]
 
-[color=red][i]At perpetual war with Anti-Fascist, Communist, Anarchist, Socialist, and Libertarian regions[/color][/i][/b]
+[color=red]SEND WA FORCES TO [REGION]THE GREATER GERMAN REICH[/REGION] UNDER COMMUNIST CONTROL[/color][/b]
