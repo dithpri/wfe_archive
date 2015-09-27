@@ -1,9 +1,5 @@
-[B]HAIL [region]PAX IMPERIUM[/region][/B]
+[b]This region is held by the Knights of the [region]Teutonic Order[/region][/b]
 
-This ancient militant Christian Monastic order has been annexed by Bordurian Forces and is now territory of [B][region]Pax Imperium[/region][/B].
+[hr]
 
-Our Military Headquarters: [B][region]Elite Region of Global Command[/region][/B]  
-
-We are allied with the crusaders of [B][region]Iron Europe[/region] [/B].
-
-[url=https://www.youtube.com/watch?v=b11-37Me_a4]Templar Anthem of [B][/url][region]Iron Europe[/region][/B]
+[b]Landmeister:[/b] [nation=short]Christian Templars[/nation]

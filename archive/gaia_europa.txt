@@ -11,7 +11,7 @@
 
          [color=0080FF][b]Emperor:[/b][/color] [nation=Laanelik]
 
-         [color=0080FF][b]Chancellor:[/b][/color]
+         [color=0080FF][b]Chancellor:[/b][/color] [nation=anuars]
 
          [color=0080FF][b]Vice Chancellor:[/b][/color]
 [hr]

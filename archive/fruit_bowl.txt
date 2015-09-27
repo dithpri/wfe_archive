@@ -5,5 +5,7 @@ Chairman - [nation=short]The republic of Banana ice cream[/nation]
 
 Vice Chairman - [nation=short]Mango-State[/nation]
 
-Secretario - [nation=short]The republic of Bannana[/nation] 
+Secretary - [nation=short]The republic of Bannana[/nation]
+
+Vice Secretary - [nation=short]New Tomatoes Country[/nation] 
 

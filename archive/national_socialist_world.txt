@@ -1,13 +1,30 @@
-[b]IN THE MODERN [region]NATIONAL SOCIALIST WORLD[/region]; ALL NATIONALITIES ARE WELCOME[hr]World Capital: [region]Gross Berlin[/region]
+[b]F&uuml;hrer der Reiches und Volkes: [nation=short]NS World Leader[/nation]
+Reichspr&auml;sident: [nation=short]Deutschenlander[/nation]
+Reichskanzler: [nation=short]King William Arthur[/nation]
+
+[color=red]Ministers[/color]
+Foreign Affairs:
+Ecclesiastical Affairs:	
+Public Affairs:
+The Interior:	
+Justice:	
+Finance: [nation=short]Governor of the Bank of England[/nation]
+Economics:	
+Food and Agriculture:	
+Labour:	
+Defence: [nation=short]White Dragon Militia[/nation]
+Transportation:
+Communications and Technology:
+Armaments and War Production:
+Science and Education: [nation=short]Angelcynn Westland[/nation]
+Forestry and Mining:
+Environment:[hr]
+
+World Capital: [region]Gross Berlin[/region]
 Politics: [region]Nationalsozialistischen[/region]
-Reichspr&auml;sident: [nation=short]NS World Leader[/nation]
-Reichskanzler: [nation=short]Angelcynn Westland[/nation]
-Religion: [region]National Socialist Ministries[/region] | [region]Church of England[/region]
 Bank: [region]Bank of England[/region]
+Religion: [region]National Socialist Ministries[/region] | [region]Church of England[/region]
 Colonies: [region]Kolonien[/region]
-[hr]
+Military: [region]Nationalsozialistische Volksarmee[/region][hr]
 
-Multi-National Military: [region]Nationalsozialistische Volksarmee[/region]
-[i]At perpetual war with Anti-Fascist, Communist, Anarchist, Socialist, and Libertarian regions[/i]
-
-[color=red]SEND WA FORCES TO [REGION]THE GREATER GERMAN REICH[/REGION] UNDER COMMUNIST CONTROL[/color][/b]
+[color=red]SUPPORT [REGION]THE GREATER GERMAN REICH[/REGION][/color][/b]
