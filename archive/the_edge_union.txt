@@ -1,4 +1,4 @@
-The Edge Union is a coalition of nations that support the Edge Currency, although all types of nations are welcome.
+[b]The Edge Union is a coalition of nations that support the Edge Currency, although all types of nations are welcome.[/b]
 The Original Four: 
 [nation=Long]United Territories of Canada[/nation]
 [nation=Long]Tyranasgaard[/nation]
@@ -10,8 +10,8 @@ Head of Regional Affairs:
 Head of Industry and Trade:
 [nation=long]Vernarnia[/nation]
 Head of Military Aid:
-[nation=long]Teletubland[/nation]
+[nation=long]Teletubland[/nation][At War]
 Head of Regional Aid:
 [nation=long]Alextrailia[/nation]
 Corruption Watchdog:
-[nation=long]Twelve Bridges[/nation] 
+[nation=long]Twelve Bridges[/nation][At War] 

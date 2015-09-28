@@ -2,9 +2,11 @@
 [hr]
 Government
 [b]President[/b]:[nation]Colonial Rhodesia[/nation]
-[b]Prime Minister[/b]:[nation]Clydonia[/nation]
-[b]Minister of Defense and Interior[/b]:[nation]Old South China[/nation]
-[b]Minister of Fine arts and Culture[/b]:[nation]Trixiopsica[/nation]
+[b]Prime Minister[/b]:[nation]South East Rhodesia[/nation]
+[b]Minister of the Interior [/b]:[nation]Old South China[/nation]
+[b]Minister of Defense:[/b][nation]the Cossack Legion[/nation]
+[b]Minister of Fine Arts and Culture[/b]:[nation]Trixiopsica[/nation]
+[b]Minister of Foreign Affairs[/b]:[nation]De Unie Van Zuid-Afrika[/nation]
 [hr]
 Public Holidays
-[Color=green]March 2:Republic day, July 5:Rhodes and Founders day, September 12:Pioneer Column day, November 11:Independence day, December 17:Shangani patrol day[/color].
+[Color=red]March 2:Republic day, July 5:Rhodes and Founders day, September 12:Pioneer Column day, November 11:Independence day, December 17:Shangani patrol day[/color].

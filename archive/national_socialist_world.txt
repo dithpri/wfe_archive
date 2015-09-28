@@ -1,4 +1,5 @@
-[b]F&uuml;hrer der Reiches und Volkes: [nation=short]NS World Leader[/nation]
+[b][region]NATIONAL SOCIALIST WORLD[/region]
+[color=red][i]Saving the nations of the world through National-Socialism[/i][/color][hr]F&uuml;hrer der Reiches und Volkes: [nation=short]NS World Leader[/nation]
 Reichspr&auml;sident: [nation=short]Deutschenlander[/nation]
 Reichskanzler: [nation=short]King William Arthur[/nation]
 
@@ -27,4 +28,4 @@ Religion: [region]National Socialist Ministries[/region] | [region]Church of Eng
 Colonies: [region]Kolonien[/region]
 Military: [region]Nationalsozialistische Volksarmee[/region][hr]
 
-[color=red]SUPPORT [REGION]THE GREATER GERMAN REICH[/REGION][/color][/b]
+[/b]

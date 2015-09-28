@@ -4,9 +4,9 @@ EXECUTIVE BRANCH
 President:
 Vice President:
 Sec of Interior:
-Sec of Defense:[nation=short]The_Federation_of_Soldiers[/nation]
+Sec of Defense:
 Ambassador:
-President of the Military:
+President of the Military:[nation=short]makana_isles[/nation]
 
 JUDICIAL BRANCH
 Justice:

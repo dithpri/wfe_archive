@@ -1,12 +1,11 @@
 Welcome to the [region]The Blood Pact of Lysithea[/region], founded by, [nation]Ozryn[/nation]
 
 [color=6A00D3]President[/color] [nation]Uplor[/nation]
-
 [color=3FD100]Economy Advisor[/color]= [nation]Patriotism At its finest[/nation]
 [color=magneta]Cultural Advisor[/color]= [nation]Kylnasia[/nation]
 [color=#FF00BC]Spiritual Advisor[/color]= [nation]a Non-Holy guy[/nation]
-[color=red]Defense Advisor[/color]= [nation]Saeurus[/nation]
-[color=orange]Drug Advisor[/color]= [nation]a Non-Holy guy[/nation]
+[color=red]Defense Advisor[/color]= [nation]Patriotism At its finest[/nation]
+[color=orange]Drug Advisor[/color]= [nation]North Saeurus[/nation]
 [color=purple]Political Advisor[/color]= [nation]Southern Anacostia[/nation]
 [color=1200D3]Tech Advisor[/color]= [nation]We Got Baking Soda[/nation]
 [color=D38200]Educational Advisor[/color]= [nation]Invalid names[/nation]
