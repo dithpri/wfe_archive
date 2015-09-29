@@ -6,7 +6,7 @@
 [hr][url=https://nationstatesplusplus.net/newspaper?id=3634][color=#96fa82]RNN&#153;[/color][/url] [b]|[/b] [url=http://mapmaker.education.nationalgeographic.com/g5UwGdmQijt9sRodxgHu7P/][color=#96fa82]Map[/color][/url] [b]|[/b] [url=http://www.nationstates.net/nation=the_united_dark_republic/detail=factbook/id=487715][color=#96fa82]Election Dates[/color][/url] [b] | [/b][url=http://www.nationstates.net/page=dispatch/id=473650][color=#96fa82]Constitution[/color][/url] [b] | [/b][url=http://www.nationstates.net/page=dispatch/id=480338][color=#96fa82]Tech Chart[/color][/url][hr][b]Government[/b]
 
 [b][color=red]Vice-Delegate[/color]:[/b]
-[nation]Heisenbee[/nation] ([b][color=red]C[/color][/b]) 
+[nation]Heisenbee[/nation] ([b][color=white]I[/color][/b]) 
 
 [b][color=Blue]GA Speaker[/color]:[/b]
 [nation]Baconbacon123[/nation] ([b][color=red]C[/color][/b])
@@ -29,13 +29,15 @@
 [b][color=purple]Minister of Justice[/color]:[/b]
 [nation]Rheta[/nation] ([b][color=orange]L[/color][/b])
 
-[spoiler=Party Affiliation Poll] 9/26/2015
+[spoiler=Party Affiliation Poll] 9/29/2015
 
-[color=Blue]ACT[/color] - 34%
 [color=red]CON[/color] - 34%
+[color=Blue]ACT[/color] - 32%
 [color=purple]RNP[/color] - 15%
-[color=orange]LIB[/color] - 14%
-[color=green]GRN[/color] - 4%
+[color=orange]LIB[/color] - 13%
+[color=green]GRN[/color] - 3%
+[color=pink]PRG[/color] - 3%
+
 +/- 4.5[/spoiler] [b]|[/b] 
 [spoiler=NS++ Download][url=https://nationstatesplusplus.net/]NS++ Download[/url][/spoiler] [b]|[/b] 
 [spoiler=RNN Editor][url=http://www.nationstates.net/page=blank/?lookup_newspaper=3634]RNN Editor[/url][/spoiler]

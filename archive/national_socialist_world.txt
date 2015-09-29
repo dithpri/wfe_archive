@@ -1,31 +1,30 @@
-[b][region]NATIONAL SOCIALIST WORLD[/region]
-[color=red][i]Saving the nations of the world through National-Socialism[/i][/color][hr]F&uuml;hrer der Reiches und Volkes: [nation=short]NS World Leader[/nation]
+[b][color=red][i]Saving the nations of the world through National-Socialism[/i][/color][hr]F&uuml;hrer: [nation=short]NS World Leader[/nation]
 Reichspr&auml;sident: [nation=short]Deutschenlander[/nation]
 Reichskanzler: [nation=short]King William Arthur[/nation]
 
 [color=red]Ministers[/color]
-Foreign Affairs:
-Ecclesiastical Affairs:	
-Public Affairs:
-The Interior:	
+Foreign:
+Ecclesiastical:	
+Interior:	
 Justice:	
 Finance: [nation=short]Governor of the Bank of England[/nation]
-Economics:	
-Food and Agriculture:	
+Food:	
 Labour:	
 Defence: [nation=short]White Dragon Militia[/nation]
 Transportation:
-Communications and Technology:
-Armaments and War Production:
-Science and Education: [nation=short]Angelcynn Westland[/nation]
-Forestry and Mining:
-Environment:[hr]
+Communications:
+Technology:
+Armaments:
+Science:
+Education: [nation=short]Angelcynn Westland[/nation]
+Resources:
+Environment:
 
 World Capital: [region]Gross Berlin[/region]
-Politics: [region]Nationalsozialistischen[/region]
+Anthem: [url=https://www.youtube.com/watch?v=0pEsSn58Ph4]Deutschlandlied[/url]
+Party: [region]Nationalsozialistischen[/region]
 Bank: [region]Bank of England[/region]
 Religion: [region]National Socialist Ministries[/region] | [region]Church of England[/region]
 Colonies: [region]Kolonien[/region]
-Military: [region]Nationalsozialistische Volksarmee[/region][hr]
-
+Military: [region]Nationalsozialistische Volksarmee[/region]
 [/b]

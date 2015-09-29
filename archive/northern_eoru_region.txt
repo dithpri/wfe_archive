@@ -1,0 +1,14 @@
+Eoru is a vast landmass in the northern hemisphere of the world. In the Northern Eoru region, there are 7 sovereign nations:
+-[nation]Samnoreg[/nation]
+-[nation]Kelnjorvik[/nation]
+-[nation]Eikhammar[/nation]
+-&AElig;dnmark
+-Svejg&aring;rd
+-&Ouml;ssmi
+-&Uuml;osmi
+
+...and 4 semi-sovereign nations:
+-Saexhelm
+-J&uuml;temarch (Vestlich, Midlich, &Ouml;stlich)
+-B&auml;ltmark
+-Mi&eth;rim
