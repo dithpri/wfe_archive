@@ -1,6 +1,6 @@
 The Social Democratic Union is a region for nations that strive to uphold Social Democratic and Democratic Socialist values thus establishing a welfare society for the people.
 
-Executive Council:
+[b]Executive Council:[/b]
 [nation]Chinvania[/nation]
 [nation]Haihi[/nation]
 [nation]Hokahatsu[/nation]
@@ -9,3 +9,7 @@ Executive Council:
 [nation]Leng Kong[/nation]
 [nation]Lishwah[/nation]
 [nation]Plaek Chiang[/nation]
+
+[b]Observer&amp;#39;s Association of the Social Democratic Union:[/b]
+[nation]Djidi[/nation]
+[nation]New Saigon[/nation]

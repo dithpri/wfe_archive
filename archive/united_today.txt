@@ -1,10 +1,10 @@
 We are a new region looking for helping you grow as a nation and a player
 
 EXECUTIVE BRANCH
-President:
+President:[nation=short]united_nations_of_the_far_west[/nation]
 Vice President:
 Sec of Interior:
-Sec of Defense:
+Sec of Defense:[nation=short]the_federation_of_soldiers[/nation]
 Ambassador:
 President of the Military:[nation=short]makana_isles[/nation]
 

@@ -18,11 +18,11 @@
 [*][B]Minister for Foreign Affairs:[/B] 
 [nation=noname]Hessendorf[/nation] [b]([color=gray]I[/color])[/b]
 
-[*][B]Minister for Internal Affairs:[/B] 
-[i]Vacant[/i]
+[*][B]Minister for Internal Affairs:[/B]
+[nation=noname]Pogorevka[/nation] [b]([color=red]O[/color])[/b]
 
 [*][B]Minister for Justice:[/B] 
-[nation=noname]Pogorevka[/nation] [b]([color=red]O[/color])[/b]
+[i]Vacant[/i]
 [/list]
 
 [B][u][color=red]First Senate[/color][/u][/B]

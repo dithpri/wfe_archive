@@ -1,8 +1,8 @@
 [color=blue][i][b]Welcome to the Union of World Nations, founded on July 9 of 2015![/b][/i]
 [hr]
 [i][b]Regional Government[/b][/i]
-[list][*]President
-[list][*][nation=short]Nichmerica[/nation][/list]
+[list][*]World Assembly Delegate 
+[list][*]Vacant...elections taking place[/list]
 [*]Upper Council
 [list][*][nation]SN Ambassador[/nation]
 [*][nation]The 5th German Reich[/nation]

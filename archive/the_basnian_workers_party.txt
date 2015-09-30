@@ -1,1 +1,18 @@
-The Alliance of Basnian nations and their subsidiaries. All swearing fealty to the Eternal Chairman of the The People&amp;#39;s Republic of Basnia
+[nation]Basnia[/nation] [nation]Basnicsa[/nation] [nation]The Regime for Communism[/nation]
+Faction Nations Loyal to the Eternal Chairman:
+Leader: [nation]Basnia[/nation]
+Subsidiary Colony: [nation]Basnicsa[/nation]
+Cooperative Ally: [nation]The Regime for Communism[/nation]
+Treaties Signed:
+[u]Cooperative Military Efforts[/u]
+[u]Cooperative Labor Efforts[/u]
+[u]Joint Diplomatic Embassies Treaty[/u]
+[u]Joint Science-Medical-Educational Pact[/u]
+[u]Nuclear Arming and Development Decree[/u]
+[u]Defense of Government Efforts[/u]
+
+Seats in the Basnian Central Committee: 
+[nation]Basnia[/nation]: [color=red]94[/color]
+[nation]Basnicsa[/nation]: [color=blue]3[/color]
+[nation]The Regime for Communism[/nation]:[color=orange]2[/color]
+[b]Enemies of State[/b]:[color=red]Ethnic Sarbian Seat[/color]: [u]1[/u]

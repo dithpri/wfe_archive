@@ -3,6 +3,6 @@ Welcome to the [color=blue] Global Confederation of Nations. [/color]
 
 The President: [nation=States of Vineland] 
 The Founder: [nation=States of Vineland]
-The Vice-President: -None-
+The Vice-President: [nation=The Eurofederation]
 Union Security: -None-
 Ministers: -None-

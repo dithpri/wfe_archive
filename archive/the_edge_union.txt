@@ -6,12 +6,12 @@ The Original Four:
 [nation=Long]Utgaart[/nation]
 
 Head of Regional Affairs:
-[nation=long]United Territories of Canada[/nation][At War]
+[nation=long]United Territories of Canada[/nation]
 Head of Industry and Trade:
-[nation=long]Vernarnia[/nation][At War]
+[nation=long]Vernarnia[/nation]
 Head of Military Aid:
-[nation=long]Teletubland[/nation][At War]
+[nation=long]Teletubland[/nation]
 Head of Regional Aid:
-[nation=long]Alextrailia[/nation][At War]
+[nation=long]Alextrailia[/nation]
 Corruption Watchdog:
-[nation=long]Twelve Bridges[/nation][At War] 
+[nation=long]Twelve Bridges[/nation]
