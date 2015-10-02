@@ -8,8 +8,8 @@ TRC is an active Role-Play Community, where every nation can find its place. We 
 Secretary General: [nation=short]Yauni Kyran[/nation]
 
 Europe Representative: [nation=short]Jeune France[/nation]
-North America Representative: [i]Vacant[/i]
-South America Representative: [i]Vacant[/i]
+North America Representative: [nation=short]Kernuskt[/nation]
+South America Representative: [nation=short]Fenshamsland[/nation]
 Africa Representative: [i]Vacant[/i]
 
 Font Union Representative: [nation=short]Levantx[/nation]
@@ -17,10 +17,10 @@ Socialist United Alliance Representative: [nation=short]Hayasten[/nation]
 
 Map Administrator: [nation=short]Nancahuazu[/nation]
 Economic Administrator: [nation=short]Levantx[/nation]
+Military Administrator: [nation=short]Kajstan[/nation] 
 
 
 [b]International Court of Justice:[/b]
 
-Chief Justice: [nation=short]Europe Liberty[/nation]
 Majority Justice: [nation=short]Fenshamsland[/nation]
 Minority Justice: [nation=short]Levantx[/nation]

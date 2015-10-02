@@ -1,8 +1,11 @@
 REGIONAL GOVERNMENT
 
-President: Geo Chorus
-Prime Minister: Monos
+President: [nation]Geo chorus[/nation]
+Prime Minister: [nation]Monos[/nation]
 
+Minister of Foreign Affairs:
+Minister of Defense:
+Minister of Internal Afairs:
 STATE OF EMERGENCY IS IN EFFECT. 
 
 MARTIAL LAW IS IN EFFECT. ALL LEGISLATIVE AND ADMINISTRATIVE PROCEDURES ARE SUSPENDED UNTIL FURTHER NOTICE.

@@ -7,16 +7,17 @@ STATISTICS:
 
 Head of region: Empire of the Carthaginian Mediterranean
 
-Current number of countries in region: 1
+Current number of countries in region: 2
 
 Aliases/Abbreviations: NRS, Nova Roma
 
-Collective worth per year: 1,740,000,000,000 denarii*
-[i]*Denarii(singular denarius) is the name used to refer to all types of currency inside the New Roman States[/i]
+Collective worth per year: 2.32 trillion denarii*
+[i]*Denarii(singular: denarius) is the name used to refer to all types of currency inside the New Roman States[/i]
 
-Average income: 34,737 denarii
+Average income: 32,015 denarii
 
-Total population: 50 million
+Total population: 67 million
 
 Country list:
 -Carthaginian Mediterranean
+-New Peloponnesian Peninsula

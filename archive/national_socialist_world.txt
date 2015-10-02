@@ -20,11 +20,12 @@ Education: [nation=short]Angelcynn Westland[/nation]
 Resources:
 Environment:
 
+Deutsche Sprache: [region]Nationalsozialistischen Welt[/region]
 World Capital: [region]Gross Berlin[/region]
 Anthem: [url=https://www.youtube.com/watch?v=0pEsSn58Ph4]Deutschlandlied[/url]
 Party: [region]Nationalsozialistischen[/region]
 Bank: [region]Bank of England[/region]
-Religion: [region]National Socialist Ministries[/region] | [region]Church of England[/region]
+Religion: [region]Church of England[/region]
 Colonies: [region]Kolonien[/region]
 Military: [region]Nationalsozialistische Volksarmee[/region]
 [/b]
