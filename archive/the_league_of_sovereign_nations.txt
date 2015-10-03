@@ -22,7 +22,7 @@
 [nation=noname]Pogorevka[/nation] [b]([color=red]O[/color])[/b]
 
 [*][B]Minister for Justice:[/B] 
-[i]Vacant[/i]
+[nation=noname]Percutiat[/nation] [b]([color=gray]I[/color])[/b]
 [/list]
 
 [B][u][color=red]First Senate[/color][/u][/B]
