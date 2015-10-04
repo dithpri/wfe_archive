@@ -1,27 +1,10 @@
-[b][color=red][i]Saving the nations of the world through National-Socialism[/i][/color][hr]F&uuml;hrer: [nation=short]NS World Leader[/nation]
+[b][color=#C00000][i]SAVING THE NATIONS OF THE WORLD THROUGH NATIONAL-SOCIALISM[/i][/color][hr]F&uuml;hrer: [nation=short]NS World Leader[/nation]
 Reichspr&auml;sident: [nation=short]Deutschenlander[/nation]
 Reichskanzler: [nation=short]King William Arthur[/nation]
+[url=http://www.nationstates.net/nation=ns_world_leader/detail=factbook/id=492322]National-Socialist Countries[/url]
+[url=http://www.nationstates.net/nation=ns_world_leader/detail=factbook/id=492297]Reich Ministers[/url]
 
-[color=red]Ministers[/color]
-Foreign:
-Ecclesiastical:	
-Interior:	
-Justice:	
-Finance: [nation=short]Governor of the Bank of England[/nation]
-Food:	
-Labour:	
-Defence: [nation=short]White Dragon Militia[/nation]
-Transportation:
-Communications:
-Technology:
-Armaments:
-Science:
-Education: [nation=short]Angelcynn Westland[/nation]
-Resources:
-Environment:
-
-Deutsche Sprache: [region]Nationalsozialistischen Welt[/region]
-World Capital: [region]Gross Berlin[/region]
+World Capital: [region]Gross Berlin[/region], [region]Nazi Deutschland[/region]
 Anthem: [url=https://www.youtube.com/watch?v=0pEsSn58Ph4]Deutschlandlied[/url]
 Party: [region]Nationalsozialistischen[/region]
 Bank: [region]Bank of England[/region]

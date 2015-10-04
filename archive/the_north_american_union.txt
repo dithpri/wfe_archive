@@ -9,5 +9,4 @@ Emperor: [nation=short]United Federation of Canada[/nation]
 Premier: [nation=short]John Turner[/nation]
 Speaker of Congress: 
 Minister of The Union: [nation=short]Wayneactia[/nation]
-Chief Justice: [nation=short]American Pie Eaters[/nation][/color]
-[hr]This region is now in lock down and will not be reopened. Natives to the region are permitted to remain, but no other nations will be granted access. Long live the Union![/B]
+Chief Justice: [nation=short]American Pie Eaters[/nation][/color][/b]
