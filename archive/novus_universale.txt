@@ -13,11 +13,11 @@
 [*]Regional Vice Delegate
 [list][*][nation=short]The Independent Hazerls[/nation][/list]
 [*]Minister of Culture 
-[list][*][nation=short]Greater Valdosta[/nation][/list]
+[list][*][nation=short]Seventh Oblivion[/nation][/list]
 [*]Minister of Game Play
-[list][*][nation=short]Emprus Vyblium[/nation][/list]
+[list][*]*Elections in Progress*[/list]
 [*]Minister of Role Play
-[list][*][nation=short]GreatestBanks[/nation][/list][/list][/list]
+[list][*]*Elections in Progress*[/list][/list][/list]
 [hr]
 [i]Puppet Regions[/i]
 [list][*]Puppet Storage of [region]Novus Reponus[/region]

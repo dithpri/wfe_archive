@@ -5,13 +5,23 @@
 [color=Forestgreen]
 [url=http://www.nationstates.net/nation=the_doomed_lands/detail=factbook/id=431448]The Shaderan Map[/url][/color]
 
-[b][color=green]Regional Ministers[/b][/color]
-[B]Minister of Recruitment:[/b]
-[b]Minister of Security:[/b] [nation=short]The Eastern Commonwealth[/nation]
+[b]Shaderan Cabinet[/b]
+President:
+Vice President:
+Prime Minister:
+Minister of Foriegn Affairs:
+Minister of Internal Affairs:
+Minister of Treasury:
+Minister of Culture:
+Minister of Information:
+Minister of Defence:
 
+Cartographer: [nation=short]Tanzeratti[/nation]
 [color=Cornflowerblue]Regional Updates and News Bulletin;[/color]
 [B][list]
 [color=Darkmagenta]
+[*]Apply for government positions, by TGing the Founder.
+[*]Send map claims to the cartographer.
 [*]The region is expecting a steady growth, with hopefully a lot of Roleplaying.
 [*][region]The Shaderan Place[/region] is a place to chill out, RP and genuinely have fun. This is the place to be![/color]
 [/list][/B]

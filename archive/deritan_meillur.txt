@@ -2,7 +2,7 @@ Welcome to Meillur, a beautiful region founded by Derita, that, as the name Meil
 
 Monarch:[nation]Kingdom of Derita[/nation]
 Consul:
-Supreme Judge:
+Supreme Judge:[nation]Russlande[/nation]
 Speaker of the Region:[nation]United States of Conner[/nation]
 
 

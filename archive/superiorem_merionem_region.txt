@@ -3,10 +3,10 @@
 
 [color=gold] Leader: [/color]  [nation]The CheeseBurgian State[/nation] 
 [color=gold] Current Delegate: [/color] [nation]Ding Dong States[/nation]
-[color=gold] Secretary Of Defense:[/color]
-[Color=gold]Regional Moderator:[/color] 
-[color=gold] Judge: [/color] [color=green][Nation]Your Fam[/nation][/color]
-[color=gold] Ambassador: [/color]
+[color=gold] Secretary Of Defense:[nation]Your Fam[/nation][/color]
+[Color=gold]Regional Moderator:[/color][nation]Godly Archangels[/nation]
+[color=gold] Judge: [/color] [color=green][Nation]The United States of Kalenia[/nation][/color]
+[color=gold] Ambassador: [/color][nation]macropus[/nation]
 
 [url=http://www.nationstates.net/page=dispatch/id=330837]List of NS Commands[/url]
 

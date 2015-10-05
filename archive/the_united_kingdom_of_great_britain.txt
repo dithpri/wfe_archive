@@ -1,7 +1,3 @@
-[b][region]National Socialist World[/region]
-
-Welcome to [region]The United Kingdom of Great Britain[/region], now known as [region]The UK[/region]. 
-This is an uninhabitable region; please go to [region]The UK[/region] and contact [nation=short]King William Arthur[/nation] for admittance to Crown Lands
-
+[b]For  [region]The United Kingdom of Great Britain[/region] go to [region]The UK[/region]
 
 [/b]

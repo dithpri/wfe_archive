@@ -8,7 +8,7 @@ ALLIES
 
 MINISTERS
 War: [nation]The Greater Lands of Albion[/nation] 
-Totalitarian Spirit: [nation]Koopaville[/nation]
+Totalitarian Spirit: [nation]America-Shuruppak Xul[/nation]
 Internal Affairs: [nation]Valcouria[/nation]
 Foreign Affairs: -
 
@@ -17,4 +17,4 @@ REGIONS RAIDED
 
 OTHER
 [url=http://z7.invisionfree.com/AoD_/index.php?act=idx]The AoD Forum[/url]
-[url=http://i.imgur.com/qTdvCFR.png]Map[/url]
+[url=http://i.imgur.com/Gb067HX.png]Map[/url]

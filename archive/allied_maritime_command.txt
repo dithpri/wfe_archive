@@ -1,13 +1,18 @@
-[b][region]National Socialist World[/region]
+[b] [nation=short]Northwood Headquarters[/nation] of [region]The UK[/region] is located in [region]Hertfordshire[/region], [region]English Kingdom[/region] and houses [region]Allied Maritime Command[/region]. 
 
-[region]The UK[/region] [color=red]DEFENCE FORCES[/color]:
+[region]Allied Maritime Command[/region] (MARCOM) is the central command of all maritime forces of [region]The UK[/region] 
+Naval forces are situated in the following regions:
 
-[region]Allied Maritime Command[/region] is directly in charge of the following naval assets:
-[region]Royal British Navy[/region], [region]Royal Australian Navy[/region], [region]Royal New Zealand Navy[/region], [region]Royal Canadian Navy[/region]
+[region]Royal British Navy[/region]
+[region]Royal Australian Navy[/region]
+[region]Royal New Zealand Navy[/region]
+[region]Royal Canadian Navy[/region]
 
-Other Assets of [region]The UK[/region]
-
+The Navy operates in conjunction with combined forces of [region]Nationalsozialistische Volksarmee[/region] of [region]National Socialist World[/region] including;
 [region]Royal Air Force[/region]
 [region]Royal Canadian Air Force[/region]
 [region]British Army[/region]
-[region]Canadian Army[/region][/b]
+[region]Canadian Army[/region]
+
+and other National-Socialist allied forces
+[/b]
