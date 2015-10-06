@@ -10,8 +10,8 @@ This is a password protected region so all potential members must send a telegra
 1 aircraft carrier=63173 points
 1 submarine= 5657 points
 1 tank=18 points
-1 attack jet=363 points
-1 jet bomber=1296 points
-1 attack helicopter=54 points
+1 attack jet=100 points
+1 jet bomber=596 points
+1 attack helicopter=12 points
 1 stealth fighter=4714 points
 1 howitzer/ artillery piece= 3 points

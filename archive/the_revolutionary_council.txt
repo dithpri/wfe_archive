@@ -10,7 +10,7 @@ Secretary General: [nation=short]Yauni Kyran[/nation]
 Europe Representative: [nation=short]Jeune France[/nation]
 North America Representative: [nation=short]Kernuskt[/nation]
 South America Representative: [nation=short]Fenshamsland[/nation]
-Africa Representative: [i]Vacant[/i]
+Africa Representative: [nation=short]Mormopia[/nation]
 
 Font Union Representative: [nation=short]Levantx[/nation]
 
