@@ -4,8 +4,7 @@
 [hr]
 [color=Red]Name:the German Democratic Republic[/color]
 [color=Red]Capital:East Berlin[/color]
-[color=Red]Head of State:Erich Honecker[/color]
-[color=Red]National Anthem:Auferstanden Aus Ruinen[/color]
+[color=Red]Older Brother of [region]GDR[/region][/color]
 [hr]
 [color=Red]National holidays-May 1st: International Workers day, October 7th: Republic day, October 31st: Reformation day, November 1st: Revolution day[/color].
 

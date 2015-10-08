@@ -13,11 +13,11 @@
 [*]Regional Vice Delegate
 [list][*][nation=short]The Independent Hazerls[/nation][/list]
 [*]Minister of Culture 
-[list][*][nation=short]Seventh Oblivion[/nation][/list]
+[list][*][nation=short]Greater Valdosta[/nation][/list]
 [*]Minister of Game Play
 [list][*][nation=short]GreatestBanks[/nation][/list]
 [*]Minister of Role Play
-[list][*]*Elections in Progress*[/list][/list][/list]
+[list][*][nation=short]The Duchy of Prussia[/nation][/list][/list][/list]
 [hr]
 [i]Puppet Regions[/i]
 [list][*]Puppet Storage of [region]Novus Reponus[/region]
@@ -26,7 +26,7 @@
 [hr]
 [i]Quick Links[/i]
 [list][*][url=https://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=353035]Novus Universale Regional Roleplay[/url] 
-[list][*]Current Year: 1910[/list]
+[list][*]Current Year: 1911[/list]
 [*][url=http://us23.chatzy.com/48608780341571]Regional IRC[/url]
 [*][url=https://nationstatesplusplus.net/]NationStates++[/url]
 [*][url=http://nsdossier.texasregion.net/default.aspx#]Analysis Tool[/url][/list][/color]

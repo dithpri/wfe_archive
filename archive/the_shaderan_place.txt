@@ -7,14 +7,10 @@
 
 [b]Shaderan Cabinet[/b]
 President:
-Vice President:
-Prime Minister:
+Prime Minister
+Minister of Defence:
 Minister of Foriegn Affairs:
 Minister of Internal Affairs:
-Minister of Treasury:
-Minister of Culture:
-Minister of Information:
-Minister of Defence:
 
 Cartographer: [nation=short]Tanzeratti[/nation]
 [color=Cornflowerblue]Regional Updates and News Bulletin;[/color]
@@ -22,7 +18,7 @@ Cartographer: [nation=short]Tanzeratti[/nation]
 [color=Darkmagenta]
 [*]Apply for government positions, by TGing the Founder.
 [*]Send map claims to the cartographer.
-[*]The region is expecting a steady growth, with hopefully a lot of Roleplaying.
+[*]Get RolePlaying on that RMB!
 [*][region]The Shaderan Place[/region] is a place to chill out, RP and genuinely have fun. This is the place to be![/color]
 [/list][/B]
 [B]I hope you enjoy this region, as we will succeed. Want to help your region? Send [nation=short]The Shaderan Migration Office[/nation] recruitment Stamps![/B]
