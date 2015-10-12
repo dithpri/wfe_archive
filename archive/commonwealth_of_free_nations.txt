@@ -14,7 +14,7 @@
 [nation=short]Fibertas[/nation] [b]([color=Red]L[/color])[/b]
 
 [b]Minister of Internal Affairs:[/b]
-[nation=short]Vista Major[/nation]
+[nation=short]Vista Major[/nation] [b]([color=lightblue]P[/color])[/b]
 
 [b]Minister of Justice:[/b] 
 [nation=short]Jaslandia[/nation] [b]([color=#002E4F]U[/color])[/b] 
@@ -31,11 +31,11 @@
 
 [hr][b][u][color=#CC9966]&amp;gt;&amp;gt;News&amp;lt;&amp;lt;[/color][/u][/b]
 
-[i]The Libertatem and CFN State Visits have begun![/i]
+[i]Elections have begun. Go out and vote![/i]
 
 [hr][b][u][url=http://www.nationstates.net/nation=commonwealth_entertainment/detail=factbook/id=473661][color=navy]CFN Radio[/color][/url][/u][/b] 
 
-[i]Now Playing: [url=https://www.youtube.com/watch?v=Dn8-4tjPxD8]Edge of Seventeen - Stevie Nicks[/url][/i]
+[i]Now Playing: [url=http://www.youtube.com/watch?v=RXks5M56aTI]Devil&amp;#39;s Night - Motionless In White (2012)[/url][/i]
 
 [hr][B][url=http://www.nationstates.net/page=dispatch/id=264699][color=black]DEFCON[/color][/url]:[/B] [B][color=blue]5[/color][/B]
 [b][url=http://www.nationstates.net/page=dispatch/id=264699][color=black]CIVCON[/color][/url]:[/b] [b][color=Blue]5[/color][/b]

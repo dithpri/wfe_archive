@@ -4,8 +4,8 @@
 
 We [i][u][B]highly[/B][/u][/i] recommend that you join the [url=http://www.nationstates.net/page=un]World Assembly[/url] and also install the[url=https://chrome.google.com/webstore/search/Nationstates?utm_source=chrome-app-launcher]Nationstates ++[/url] plugin.
 
-Chairman:[nation=short]Tsipimr[/nation]
-Chancellor of Immigration: None
+Chairman: [nation=short]Tsipimr[/nation]
+Chancellor of Immigration: [nation=short]Darthania[/nation]
 Chancellor of Internal Afairs: None
 Chancellor of Cartography: None
 [hr]

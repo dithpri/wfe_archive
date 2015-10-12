@@ -4,11 +4,6 @@
 
 [hr]
 
-[color=firebrick][b]Emperor:[/b][/color] [nation=short]Camulodunum[/nation]
-[color=firebrick][b]Governor-General:[/b][/color] [nation=short]British Raj[/nation]
-
-[hr]
-
 [b][color=green]Dominion of [/color][region]The British Commonwealth[/region][/b]
 
 

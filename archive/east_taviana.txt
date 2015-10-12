@@ -1,16 +1,15 @@
 [b][color=blue]Welcome to East Taviana![/color][/b]
 
-We are a small region (as of right now) that is trying to find connections to other regions and make friends with other regions!
-
 [b]Leadership:[/b]
-Chancellor - [nation=Lyepestok]Lyepestok[/nation]
-Minister of Defense - [nation=Solnichnzy]Solnichnzy[/nation]
-Minister of Foreign Affairs/Internal Affairs - [nation=Kranostav]Kranostav[/nation]
-Minister of Internal Affairs/International Ambassador - [nation=Pogorevka]Pogorevka[/nation] 
+Chancellor - [nation=Lyepestok]
+Minister of Defense - [nation=Solnichnzy]
+Minister of Foreign Affairs/Internal Affairs - [nation=Kranostav]
+Minister of Internal Affairs/International Ambassador - [nation=Pogorevka]
 
-Ambassador is currently a resident of - [url=http://www.nationstates.net/region=the_league_of_sovereign_nations]The League of Sovereign Nations[/url]
+Ambassador is currently a resident of - [region=The League of Sovereign Nations]
+Minister of Foreign Affairs is currently a resident of - [region=WACP]
 
 [b]Current Embassies:[/b]
-[url=http://www.nationstates.net/region=united_moeller_federation]United Moeller Federation[/url]
-[url=http://www.nationstates.net/region=the_league_of_sovereign_nations]The League of Sovereign Nations[/url]
-[url=http://www.nationstates.net/region=the_new_roman_empire]The New Roman Empire[/url]
+[region=United Moeller Federation]
+[region=The League of Sovereign Nations]
+[region=The New Roman Empire]

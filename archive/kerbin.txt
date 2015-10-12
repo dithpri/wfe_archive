@@ -4,10 +4,11 @@ Map:
 http://i.imgur.com/DBXcK3a.png
 Lodge a message if you want a place on the map!
 Govournment Seats:
-[B][u][i]Elections have commenced![/i][/u][/b] We need candidates! Post in the RMB if you want to be one.
-Delegate: [nation]Blorbs[/nation]
-Vice Delegate: 10-15 members
-Head of Legislature: 20
-Lgsltre Member 1: 20
-Lgsltre Member 2: 30
-Lgsltre Member 3: 30
+[B][u][i]Post in the RMB if you want any of these seats, including Delegate![/i][/u][/B]
+Endorse Delegate [nation]Blorbs[/nation]!
+Vice Delegate:
+Homeland Officer:
+Security Officer:
+Communications Officer:
+Diplomacy Officer:
+Research Officer:
