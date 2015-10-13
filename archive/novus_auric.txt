@@ -9,17 +9,23 @@ Regional Government:
 Regional Founder
 [nation]CardinalCorp[/nation]
 
-Minister of Culture
+Officer of Culture
 [nation]Verilus[/nation]
 
-Minister of Stability
-[nation]New Eclipse[/nation]
-
-Minister of Game Play
+Officer of Research
 [nation]Unity University[/nation]
 
-Minister of Role Play
-[nation]CardinalCorp[/nation]
+Officer of Stability
+[nation]New Eclipse[/nation]
+
+Officer of Game Play
+[nation][/nation] Open
+
+Officer of Role Play
+[nation][/nation] Open
+
+Officer of Diplomacy
+[nation][/nation] Open
 
 [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=356229&amp;amp;p=26237284&amp;amp;hilit=Novus+Auric#p26237284]Novus Auric Role Play[/url]
      Current Year: 1900

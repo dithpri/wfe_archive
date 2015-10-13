@@ -24,4 +24,5 @@ Minority Justice: [nation=short]Levantx[/nation]
 
 Map Administrator: [nation=short]Nancahuazu[/nation]
 Economic Administrator: [nation=short]Levantx[/nation]
+[nation=short]Hayasten[/nation]
 Military Administrator: [nation=short]Kajstan[/nation] 
