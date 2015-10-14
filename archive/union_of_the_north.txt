@@ -13,7 +13,7 @@ Economic Minister:
 Foreign Affairs:
 Head of Justice:
 Head of Armed Forces:
-Head of the Electoral Commission:[nation]Nyakiva[/nation]
+Electoral Officer:[nation]Nyakiva[/nation]
 
 In an effort to make our region more democratic, people can suggest a change that will be put to a vote.
 

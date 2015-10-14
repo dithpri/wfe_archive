@@ -2,8 +2,10 @@ To view Map input ( http://i.imgur.com/gaYWlvY.png?1 ) into your search bar.
 
 For war you must have higher number altogether.
 
-- Nation Name
-- Nation Population / by half
-- Nation Defense Forces
-- Nation Defense Budget Percentage
-- Nation Health Budget
+a- Nation Name
+b- Number of Soldiers in Military and Reserves
+c- Nation Defense Budget Percentage
+d- Nation Health Budget
+
+b x c / d = #
+

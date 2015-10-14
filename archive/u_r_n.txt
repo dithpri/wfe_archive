@@ -6,11 +6,11 @@ The [color=red][u][b]United Republic of Nations[/b][/u][/color] is dedicated to 
 
 [b]KING:[/b] [nation=short]Xovland[/nation]
 
-[b]PRIME MINISTER:[/b] [nation=short]Shinetzelberg[/nation] 
+[b]PRIME MINISTER:[/b] [nation=short]Kortat[/nation] 
 
 [b]MINISTER OF FORIEGN AFFAIRS:[/b] [nation=short]I p a s[/nation] 
 
 [b]MINISTER OF DEFENSE:[/b] [nation=short]Paledonn[/nation] 
 
-[b]MINISTER OF ARTS:[/b]  [nation=short]Zarintca[/nation]
+[b]MINISTER OF ARTS:[/b]  [nation=short]zarintca[/nation]
 
