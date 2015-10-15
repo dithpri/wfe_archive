@@ -7,14 +7,14 @@ _______________
 
 [b]- Emperor:[/b] [nation]British Fascist Empire[/nation]
 
-[b]- Regional Governor:[/b] [nation]Arnoria[/nation]
+[b]- High Chancellor:[/b] [nation]Endriation[/nation]
 
 [b]- Head of the Armed Forces:[/b] [nation]Vormania[/nation]
 
-[b]- Minister for Diplomacy:[/b] [nation]Endriation[/nation]
+[b]- Minister for Diplomacy:[/b] [nation]Greater Rhodesia and Nyasaland[/nation]
 
-[b]- Minister for Education:[/b] [nation]Social Republic of Bellona[/nation]
+[b]- Minister for Information:[/b] [nation]Social Republic of Bellona[/nation]
 
 [b]- Minister for Law:[/b]: [nation]Great Britain and Oceania[/nation]
 _______________
-[b]DEFCON: [color=yellow]3: High Security State[/b][/color]
+[b]DEFCON: [color=yellow]4: Ready for Total War[/b][/color]

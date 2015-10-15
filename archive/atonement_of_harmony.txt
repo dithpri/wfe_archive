@@ -1,7 +1,11 @@
-[u]This region is a private region.[/u]
+[i][u]NOTE: This is a [b]private[/b] region, and we are [b]not[/b] accepting new nations.[/u][/i]
 
-[b][i]Message From the Delegate:[/i][/b] :?
+Welcome to the [color=purple]Atonement of Harmony[/color]! We are a rather isolated region that prefers to keep the peace within our own region than mess with the dealings of The World Assembly or other regions.
 
-[b][i]Message From Harbitros:[/i][/b] Welcome to the year 2048!
+[u]Nations you should know:[/u]
+[nation]Harbitros[/nation] ~ The Founder ~ [color=purple]&amp;quot;Welcome to the year 2048!&amp;quot;[/color]
+[nation]San Locura[/nation] ~ The WA Delegate ~ [color=gray]&amp;quot;:?&amp;quot;[/color]
+[nation]Domi Concordia[/nation] ~ The Consul of War ~ [color=tan]&amp;quot;War is peace.&amp;quot;[/color]
+[nation]Eulumia[/nation] ~ The Emissary of Peace ~ [color=blue]&amp;quot;War is not peace.&amp;quot;[/color]
 
-http://nstracker.web44.net/region=atonement_of_harmony currently not working again
+[b][u]Links:[/u][/b] [url=http://www.nationstates.net/page=dispatch/id=498500]Regional Rules[/url] | [url=http://www.nationstates.net/page=dispatch/id=498515]Legislation[/url]
