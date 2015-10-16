@@ -1,6 +1,6 @@
 Grand Confederated Council of Nations
--[color=purple]Grand Secretary[/color]: [nation]Hexshade[/nation]
--[color=blue]Secretary of Foreign Affairs[/color]:[nation]Fraseia[/nation]
+-[color=purple]Grand Secretary[/color]: [nation=noflag]Hexshade[/nation]
+-[color=blue]Executive Officer[/color]:[nation=noflag]The Bourbon Parishes[/nation]
 
 -Notice: [color=Red]We have been Raided yet again. Please Standby.[/color] 
 -Regional Concerns: [color=green]Rebuilding, Recruitment[/color]

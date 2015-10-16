@@ -1,8 +1,8 @@
 REGIONAL GOVERNMENT
 
-President: [nation]Geo chorus[/nation]
-Prime Minister: [nation]Monos[/nation]
+President: [nation=short]Geo chorus[/nation].
+Prime Minister: [nation=short]Monos[/nation].
 
-Minister of Foreign Affairs:
-Minister of Defense:
-Minister of Internal Afairs:
+Minister of Foreign Affairs: [nation=short]Geo Chorus[/nation].
+Minister of Defense:[nation=short]Tysoania[/nation].
+Minister of Internal Affairs: [nation=short]Monos[/nation].

@@ -19,25 +19,21 @@ Regional Government:
 Regional Founder
 [nation]CardinalCorp[/nation]
 
-Officer of Culture
-[nation]Verilus[/nation]
-
 Officer of Game Play
 [nation][/nation] Open
 
 Officer of Role Play
 [nation][/nation] Open
 
-Officer of Diplomacy
+Officer of Diplomatic Relations
 [nation]Unity University[/nation]
 
-Officer of Security
-[nation]Terran Equestria[/nation]
+Director of NAPA
+[nation]The Prestigious Forces[/nation]
 
 Border Patrol:
-[nation]The Prestigious Forces[/nation]
 [nation]Utopia Beach[/nation]
-[nation][/nation]
+[nation]Verilus[/nation]
 
 [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;amp;t=356229&amp;amp;p=26237284&amp;amp;hilit=Novus+Auric#p26237284]Novus Auric Role Play[/url]
-     Current Year: 1900
+     Current Year: 1901

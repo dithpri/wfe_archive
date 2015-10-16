@@ -6,12 +6,6 @@ ALLIES
 [region]United Dictatorships[/region]
 [region]The Axis of Evil[/region] 
 
-MINISTERS
-War: [nation]The Greater Lands of Albion[/nation] 
-Totalitarian Spirit: [nation]America-Shuruppak Xul[/nation]
-Internal Affairs: [nation]Valcouria[/nation]
-Foreign Affairs: -
-
 REGIONS RAIDED
 34
 

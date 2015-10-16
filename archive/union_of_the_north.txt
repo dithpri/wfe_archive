@@ -12,10 +12,10 @@ RPs: N/A
 
 Kaiser: [nation]The dragon Realms empire[/nation]
 Chancellor: [nation]Sanabel[/nation] 
-Economic Minister:
-Foreign Affairs:
-Head of Justice:
-Head of Armed Forces:
+Economic Minister: [nation]Republiqum[/nation]
+Foreign Affairs: [nation]Franco-Iberie[/nation]
+Head of Justice: [nation]The Leftist Draconia[/nation]
+Head of Armed Forces: [nation]The Peoples East Africa[/nation]
 Electoral Officer: [nation]Nyakiva[/nation]
 [hr]
 In an effort to make our region more democratic, people can suggest a change that will be put to a vote.
