@@ -2,9 +2,9 @@ An ancient alliance is reborn, rising from the ashes of civil war. The Confedera
 
 Prime Minister: [nation=Harrisopia]
 Deputy Prime Minister: VACANT
-Defence Minister: VACANT
-Foreign Minister: [nation=Alexiandra]
+Secretary of Defence: VACANT
+Foreign Secretary: [nation=Alexiandra]
 Treasurer: VACANT
-Home Secretary: VACANT
-Recruitment Minister: VACANT
-WA Delegate:
+Home Secretary: [nation=Tebekistan]
+Recruitment Secretary: VACANT
+World Assembly Delegate:

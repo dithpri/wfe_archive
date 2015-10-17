@@ -6,7 +6,7 @@ The Union of Totalitarian States (UTS) only welcomes states subscribing to natio
 
 [b]Vice President[/b] - [nation]Alleronia[/nation]
 
-[b]Minister of External Affairs[/b] - World Assembly Delegate
+[b]Minister of External Affairs[/b] - [nation]Anaret Directory[/nation]
 
 [b]Minister of War[/b] - [nation]Gragoria[/nation]
 
@@ -15,7 +15,3 @@ The Union of Totalitarian States (UTS) only welcomes states subscribing to natio
 [b]Minister of Propaganda[/b] - [nation]Hoswea[/nation]
 
 [b]Minister of Research[/b] - [nation]Gragoria[/nation]
-
-[b]Minister of the Totalitarian Assembly Military Force[/b] - [nation]Gragoria[/nation]
-
-[b]Minister of the Totalitarian Assembly Security Force[/b] - [nation]Alleronia[/nation]
