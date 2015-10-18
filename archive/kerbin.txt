@@ -9,6 +9,6 @@ Endorse Prime Minister (Delegate) [nation]Blorbs[/nation]!
 Deputy Prime Minister (Vice-Delegate):
 Homeland Officer:
 Security Officer:
-Communications Officer:
-Diplomacy Officer: [nation]Soten[/nation]
-Research Officer:
+Communications Offcr:
+Diplomacy Offcr: [nation]Soten[/nation]
+Research Offcr:

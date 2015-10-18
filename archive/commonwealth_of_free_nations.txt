@@ -8,7 +8,7 @@
 [nation=short]Au Minbo[/nation] [b]([color=Red]L[/color])[/b]
 
 [b]Minister of Defense:[/b] 
-[nation=short]Baxten[/nation] [b]([color=Red]L[/color])[/b]
+[nation=short]Baxten[/nation] 
 
 [b]Minister of Foreign Affairs:[/b] 
 [nation=short]Oelesa[/nation] [b]([color=lightblue]P[/color])[/b]

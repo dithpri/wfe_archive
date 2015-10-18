@@ -1,5 +1,3 @@
-The INWU Centers for Disease Control and Prevention (INWUCDC) is the leading international public health institute of the INWU. The CDC is an agency under the Department of Health and Human Services and is headquartered in Idris, Hijjma, the Capital of [nation]Hijjma[/nation]
-
 Head Director: [nation]Hijjma[/nation]
 
 Director of Cure Distribution: [nation]New Educandi[/nation]
@@ -11,3 +9,5 @@ Director of Extermination: [nation]Grothbord[/nation]
 Assistant Directors: [nation]Mallaska[/nation]
 
 Policy:
+[hr]
+Progress: [color=teal]Awaiting Infestation[/color]
