@@ -8,7 +8,7 @@
 [nation=short]Au Minbo[/nation] [b]([color=Red]L[/color])[/b]
 
 [b]Minister of Defense:[/b] 
-[nation=short]Baxten[/nation] 
+[nation=short]Baxten[/nation] [b]([color=black]PR[/color])[/b]
 
 [b]Minister of Foreign Affairs:[/b] 
 [nation=short]Oelesa[/nation] [b]([color=lightblue]P[/color])[/b]
@@ -22,7 +22,7 @@
 [hr][b][u][url=http://www.nationstates.net/nation=the_cfn_archives/detail=factbook/id=471112][color=#CC9966]Judiciary of the CFN[/color][/url][/b][/u]
 
 [list][b]Chief Justice:[/b]
-[nation=short]Ruclax[/nation][/list]
+[nation=short]Ruclax[/nation] [b]([color=Red]L[/color])[/b][/list]
 
 [hr][b][u][color=navy]Speaker of the CFN Parliament[/color][/u][/b]
 

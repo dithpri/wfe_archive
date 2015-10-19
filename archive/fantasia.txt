@@ -21,7 +21,13 @@ Underboss [nation=short]Cora II[/nation][/B]
 
 Merc [nation=short]Shadoke[/nation]
 Merc [nation=short]Cora II[/nation]
-Merc [nation=short]Vandoosa[/nation][/b]
+Merc [nation=short]Vandoosa[/nation]
+
++
+
+Merc [nation=short]Shadoke[/nation]
+Merc [nation=short]Cora II[/nation]
+Merc [nation=short]Ridus[/nation][/b]
 
 
 

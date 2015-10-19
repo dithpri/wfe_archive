@@ -14,15 +14,15 @@
 [b][url=https://www.nationstates.net/page=dispatch/id=462454]Foreign Affairs[/url]:[/b] 
 [nation=short]Nation 17345[/nation] 
 
-[b][url=x]Internal Affairs[/url]:[/b]
-[nation=short]Vacant[/nation]
+[b][url=http://www.nationstates.net/page=dispatch/id=500967]Internal Affairs[/url]:[/b]
+[nation=short]Aragon and Occitania[/nation]
 
 [b][url=https://www.nationstates.net/nation=christian_democratic_republic/detail=factbook/id=470501]Justice[/url]:[/b] 
 [nation=short]Christian Democratic Republic[/nation]
 
 [hr][b][u][url=https://www.nationstates.net/nation=christian_democratic_republic/detail=factbook/id=470501][color=darkred]Judiciary[/color][/url][/b][/u]
 
-[list][b]Chief Justice:[/b]
+[list][b]Civil Judge:[/b]
 [nation=short]Feudland[/nation][/list]
 
 [hr][b][u][color=navy]Speaker of the CL Legislature[/color][/u][/b]
