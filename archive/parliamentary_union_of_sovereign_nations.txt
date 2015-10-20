@@ -7,7 +7,7 @@ Welcome to the [region]Parliamentary Union of Sovereign Nations[/region]! We off
 
 [color=red]Founder:[/color][nation]Aralunya[/nation]
 [color=red]President:[/color]
-[color=red]Prime Minister:[/color]
+[color=red]Prime Minister:[/color][nation]The Pie Mines[/nation]
 
 [color=orange]Minister of Development:[/color]
 [color=orange]Minister of Jurisprudence:[/color]

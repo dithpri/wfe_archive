@@ -1,1 +1,7 @@
-[color=990000][b]Welcome to [region]SPQR[/region]![/b][/color]
+[hr][b][color=990000] SENATVS POPVLVSQVE ROMANVS[/color][/b][hr]
+
+[b]Imperator:[/b] [nation=short]parum cervorum[/nation]
+
+[b]Legate Legionis Secretorum:[/b] [i]vacuus[/i]
+[B]Legate Legionis Equestris:[/B] [i]vacuus[/i]
+[B]Legate Legionis Auxilia:[/B] [i]vacuus[/i]

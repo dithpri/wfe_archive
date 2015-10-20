@@ -7,6 +7,7 @@
 [nation=short]Teskistan[/nation]
 [nation=short]Paseo[/nation]
 [nation=short]Le Rochelle[/nation]
+[nation=short]Paragos[/nation]
 [nation=short]The Royal Writers[/nation]
 [nation=short]The Deutsche Saxony[/nation]
 [nation=short]The Union of Prussia[/nation][/b]

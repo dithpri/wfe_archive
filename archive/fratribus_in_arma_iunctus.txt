@@ -4,6 +4,6 @@ The First and Official successor to the United Nations Elite.
 
 Chancellor: [nation]Cucuta[/nation]
 
-Supreme Court: [nation=short]Kusailia[/nation], [nation=short]Empire Cove[/nation], [nation=short]The Western Australian Republic[/nation]
+Supreme Court: [nation=short]Lattakkia[/nation], [nation=short]South Hastorf[/nation], [nation=short]Phnum Penh[/nation]
 
-Secretary of Foreign Affairs: [nation]Impero del Brasile[/nation]
+Secretary of Foreign Affairs: [nation=short]Empire Cove[/nation]

@@ -7,17 +7,19 @@
 
 [color=#E8A317][b]Endorse our WA Delegate:[/b] [nation]British Accia[/nation][/color]
 
-[color=#6698FF][b]Minister of Justice:[/b] ELECTION IN PROGRESS[/color]
+[color=#6698FF][b]Minister of Justice:[/b] [nation]Celera[/nation][/color]
 
-[b]Minister of Education:[/b] ELECTION IN PROGRESS
+[b]Minister of Education:[/b] Vacant
 
-[color=red][b]Commander of the Army:[/b] ELECTION IN PROGRESS[/color]
+[color=red][b]Commander of the Army:[/b] Vacant[/color]
 
-[color=#153E7E][b]Head of Customs/Immigration:[/b][/color] ELECTION IN PROGRESS
+[color=#153E7E][b]Head of Customs/Immigration:[/b][/color] [nation]Branezia[/nation]
 
-[color=green][b]Minister of Internal Affairs:[/b][/color] ELECTION IN PROGRESS
+[color=green][b]Minister of Internal Affairs:[/b][/color] [nation]Lightmine[/nation]
 
-[color=8B008B][b]Minister of Foreign Affairs:[/b] ELECTION IN PROGRESS[/color]
+[color=8B008B][b]Minister of Foreign Affairs:[/b] [nation]New Celle[/nation][/color]
+
+[b]Vice Delegate:[/b] [nation]United Socialist Republics of LAN[/nation]
 
 [hr]
 

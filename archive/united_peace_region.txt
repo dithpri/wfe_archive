@@ -1,10 +1,11 @@
-[b]National Currency:[/b] The UPR Dollar
+[spoiler=Regional Information]
+[b]National Currency:[/b] The $Dollar
 [b]Capitol City:[/b] Undesignated
-
 [b]Current Threat Level:[/b] Peaceful
-
-AVAILABLE GOVERNMENT JOBS:
-
+[b]Regional Worth:[/b] $212 Trillion Dollars
+[b]Regional Population:[/b] 1.89 Billion Citizens
+[/spoiler]
+[spoiler=Government Jobs]
 [b]President:[/b] James L. Smith
 [b]Vice President: Available![/b]
 [b]Secretary Of Defense: Available![/b]
@@ -14,4 +15,7 @@ AVAILABLE GOVERNMENT JOBS:
 [b]Secretary Of Health and Human Services: Available![/b]
 [b]Secretary Of Education: Available![/b]
 [b]Secretary Of Commerce: Available![/b]
-
+[b]Secretary Of Trade: Available[/b]
+[b]Secretary Of Health: Available[/b]
+[b]Regional Speaker: Available[/b]
+[/spoiler]
