@@ -2,6 +2,12 @@
 
 [b]Imperator:[/b] [nation=short]parum cervorum[/nation]
 
-[b]Legate Legionis Secretorum:[/b] [i]vacuus[/i]
-[B]Legate Legionis Equestris:[/B] [i]vacuus[/i]
-[B]Legate Legionis Auxilia:[/B] [i]vacuus[/i]
+[b]Legatus Legionis Secretorum:[/b] [i]vacuus[/i]
+[B]Legatus Legionis Equestris:[/B] [i]vacuus[/i]
+[B]Legatus Legionis Auxilia:[/B] [i]vacuus[/i]
+
+[hr]
+
+[b][color=990000]Ordo Diurnus[/color]:[/b]
+
+[i]Carpe diem![/i]

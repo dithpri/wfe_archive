@@ -1,7 +1,13 @@
-[region]Eeireenee Valley[/region]:
+[region]Eeireenee Valley[/region]
 [i] Our goal is balance, peace, and harmony. [/i]
 
-[b]REGIONAL LEADERS[/b] 
-Tamar Johnson ~ [nation]Palioxixis[/nation]
-Branwen V. Arendonk-Palomer ~ [nation]Baguette0[/nation]
-Tryphena Amity ~ [nation]Mythoi[/nation]
+[b][url=https://eeireeneevalley.wordpress.com/]Official Site[/url][/b] | [url=https://eeireeneevalley.files.wordpress.com/2015/10/mapawesomeyo.png]Map[/url]
+
+[nation]Palioxixis[/nation]
+[b]President:[/b] Tamar Johnson | [b]Capital:[/b] Eeireenee | [b]Currency:[/b] Libra
+
+[nation]Baguette0[/nation]
+[b]President:[/b] Branwen V. Arendonk-Palomer | [b]Capital:[/b] Myrkashisha | [b]Currency:[/b] Moocsheshicooh
+
+[nation]Mythoi[/nation]
+[b]Sovereign:[/b] King Eliphalet | [b]Prime Minister:[/b] Tryphena Amity | [b]Capital:[/b] Luteria | [b]Currency:[/b] Trezz
