@@ -1,12 +1,9 @@
 [color=Red]The Thirteen Colonies, as of 1775, were British colonies on the east coast of North America which had been founded between 1607 (Virginia) and 1732 (Georgia), stretching from New England to the northern border of the Floridas (British East and West Florida). They had very similar political, constitutional and legal systems, and were dominated by Protestant English-speakers.[/color]
 [hr]
-[color=blue]Monarch:George III
-Governor:James Wolfe
-Capital:London
-Seat of Government:Boston
-Language:English
-Religion:Protestantism[/color]
+[region]Virgina[/region],[region]Massachusetts[/region],[region]New Hampshire[/region],[region]Delaware[/region],[region] Pennsylvania[/region],[region]South Carolina[/region],[region]Rhode Island[/region],[region]Georgia[/region],[region]North Carolina[/region],[region]Connecticut[/region],[region]New York[/region],[region]Maryland[/region]
 [hr]
+Seat of Government:Boston
+Capital City:London
 
 
  

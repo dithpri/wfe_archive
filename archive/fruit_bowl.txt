@@ -5,4 +5,5 @@ Chairman - [nation=short]The republic of Banana ice cream[/nation]
 Vice Chairman - [nation=short]Mango-State[/nation]
 Secretary - [nation=short]The republic of Bannana[/nation]
 Vice Secretary - [nation=short]New Tomatoes Country[/nation] 
+Voter #1 - [nation=short]Little Pineapple[/nation] 
 

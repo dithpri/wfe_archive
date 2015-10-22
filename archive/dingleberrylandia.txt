@@ -1,4 +1,10 @@
 Global Map
 http://s16.postimg.org/p2ru4ec0j/Dingleberrylandia.png
 
-Rules of Diplomacy and Engagement
+1. Time Frames for attack
+  a. Border-to-border land-based attacks &#150; 4 hours
+  b. Land-based attacks through &#147;friendly&#148; territory &#150; 5 hours
+  c. Land-based attacks through &#147;neutral&#148; territory &#150; 6 hours
+  d. Land-based attacks through &#147;hostile&#148; territory &#150; 7 hours
+  e. Sea-based attacks &#150; 3 hours
+  f. Transoceanic sea-based attacks &#150; 6 hours
