@@ -11,7 +11,7 @@ RPs: N/A
 [b][u]Government[/u][/b]
 
 Kaiser: [nation]The dragon Realms empire[/nation]
-Chancellor: [nation]Sanabel[/nation] 
+Chancellor: [nation]Sanabel[/nation] (Interim)
 Economic Minister: [nation]Republiqum[/nation]
 Foreign Affairs: [nation]Franco-Iberie[/nation]
 Head of Justice: [nation]The Leftist Draconia[/nation]

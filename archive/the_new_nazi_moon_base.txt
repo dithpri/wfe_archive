@@ -1,2 +1,6 @@
-[B][COLOR=#00FFFF]This Region is an Inseparable Part of [/COLOR][/B][region=Turkic Union]
-[B][COLOR=#00FFFF]Governor General [/COLOR][/B][nation=Qazaq Eli]
+[color=lightblue][B]~*~ Kingdom of Alexandria ~*~[/B][/color]
+[color=blue][i]This region has been taken for research and training by the Royal Alexandrian Battlemage Legion.[/i]
+[/color]
+[color=purple][B][u]Troops[/u][/B]
+[B]Archon [nation=short]Shadoke[/nation]
+Initiate [nation=short]Typhlo[/nation][/B][/color]

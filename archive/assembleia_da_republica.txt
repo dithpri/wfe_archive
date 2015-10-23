@@ -1,0 +1,6 @@
+[b]Regras:[/b]
+
+1 - Cada vota&ccedil;&atilde;o dura 2 dias. Todas as Na&ccedil;&otilde;es WA em Portugal podem votar. N&atilde;o ser&aacute; calculado nenhum voto fora de Portugal.
+2 - Os eleitores podem influenciar o calend&aacute;rio legislativo, que se encontra aqui: [url]https://www.nationstates.net/page=dispatches/nation=portugal_digital[/url]
+3 - A issue que esteja no topo do calend&aacute;rio legislativo, ser&aacute; colocada a vota&ccedil;&atilde;o.
+4 - Vence a op&ccedil;&atilde;o com mais votos. Em caso de empate, o voto de desempate ser&aacute; a do Delegado da Regi&atilde;o Portugal. Caso o Delegado se recuse a desempatar, a issue ser&aacute; enviada para o fim da agenda legislativa. Quando voltar ao topo, ser&aacute; feita uma segunda vota&ccedil;&atilde;o de 1 dia apenas com as op&ccedil;&otilde;es empatadas. Se ap&oacute;s a segunda volta houver outro empate, ent&atilde;o a op&ccedil;&atilde;o ser&aacute; &amp;quot;dismiss&amp;quot;.
