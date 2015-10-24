@@ -1,7 +1,7 @@
 Welcome to the [region]Parliamentary Union of Sovereign Nations[/region]! We offer you a safe haven in NS and hope that you will become a lively member of our Region.
 [hr]
 
-[color=purple]Our Government:[/color]
+[color=purple]Our Government:[/color] [url=http://parliamentaryunion.forumotion.org/]Forum[/url]
 
 [color=red]Executive[/color]
 
@@ -14,19 +14,15 @@ Welcome to the [region]Parliamentary Union of Sovereign Nations[/region]! We off
 [color=orange]Minister of War:[/color]
 [color=orange]Minister of Communications:[/color]
 [hr]
-[color=blue]Parliament[/color]
-
-[color=blue]Senators:[/color]
-[color=blue]Seat 1:[/color]
-[color=blue]Seat 2:[/color]
-[color=blue]Seat 3:[/color]
-[color=blue]Seat 4:[/color]
-[color=blue]Seat 5:[/color]
-[color=blue]Seat 6:[/color]
-[color=blue]Seat 7:[/color]
-[color=blue]Seat 8:[/color]
-[color=blue]Seat 9:[/color]
+[color=blue]Parliament:[/color]
+[nation]Abdoa[/nation]
+[nation]Stornland[/nation]
+[nation]Worlds of the First Quadrant[/nation]
+[nation]Mansalad[/nation]
+[nation]Murakami Clan[/nation]
+[nation]Mareut[/nation]
+[nation]Libertarian Democracy[/nation]
+[nation]YiDaQing[/nation]
+[nation]Tziganyeli[/nation]
 [hr]
 WA Members, please endorse our [color=red]Prime Minister[/color]!
-[hr]
-[url=http://parliamentaryunion.forumotion.org/]Forum[/url]

@@ -4,14 +4,12 @@ WA Delegate: [nation]zeronito[/nation]
 Regional Officers: 
 [nation]bananas2000[/nation]
                         [nation]bid luck[/nation]
-                        [nation]booby69[/nation]
- [nation]mubsyjay[/nation]
-                        [nation]ballanderserm[/nation]
-                        [nation]revir[/nation]
-                        [nation]piddi land[/nation]
-                        [nation]fira[/nation]
-                        [nation]bollad[/nation]
-                       
+                    [nation]mubsyjay[/nation]
+               [nation]revir[/nation]
+ [nation]piddi land[/nation]
+                   [nation]bollad[/nation]
+                        [nation]sudhanshu[/nation]
+                        [nation]emonation[/nation]
 
 
     
