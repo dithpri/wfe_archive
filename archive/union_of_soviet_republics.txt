@@ -21,6 +21,7 @@
 
 [nation=short]Belakras[/nation]
 [nation=short]Canakhstan[/nation]
+[nation=short]Hayasten[/nation]
 [nation=short]Mongoliya[/nation]
 [nation=short]Novokrasniya[/nation]
 [nation=short]Slobozhanshchyna[/nation]

@@ -1,8 +1,5 @@
-[b][color=orange]Welcome to the Imperial Kingdom of the Vast Reef[/b][/color]
-[i][b]The Vast Reef is the personal domain and puppet storage region of [nation=short]Luxdonia[/nation][/b][/i]
+[b]Welcome to the Vast Reef![/b]
 
-[b][u][color=red]The Imperial Council:[/b][/u][/color]
-[b]Emperor: [nation=short]Luxdonia[/nation][/b]
-[b]Crown Prince: [nation=short]Servius[/nation][/b]
-[b]Lord Chancellor: [nation=short]Nick Highbury[/nation][/b]
-[b]Field Marshal of the VRAF: [nation=short]Jules Argus[/nation][/b]
+An picturesque archipelago located on a gigantic reef, the Vast Reef is ruled by Emperor Gradea with a tough but fair hand.
+
+[b]Emperor: [nation=short]Gradea_Sanguine[/nation][/b]
