@@ -1,4 +1,2 @@
-[u][B][region]International Western Union[/region][/B][/u]
-
-
-No relation to the [i][region]International East Union[/region][/i].
+[b]Puppet Holding Region for [nation]Kialga-Lourti[/nation][/b]
+[region]International Western Union[/region] | [region]The North Pacific[/region] | [region]Kingdom of Alexandria[/region]

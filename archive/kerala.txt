@@ -6,7 +6,7 @@
 
 [color=blue]WA Delegate: [nation]Vardian Empire[/nation][/color]
 [color=cyan]Magistrate of Swellness[/color]: [nation]The House of Zyy[/nation]
-[color=Nice]Region Councillor[/color]: [nation]Entropija[/nation]
+[color=darkviolet]Region Councillor[/color]: [nation]Entropija[/nation]
 [color=silver]Chief Justice[/color]: [nation]Sattersburg[/nation]
 [color=evil]Felon: [nation=Sucksalotus][/color]
 

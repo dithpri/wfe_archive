@@ -1,18 +1,18 @@
 Welcome to the Antarctic Union (AU)!
 
 [b]President:[/b]
-([nation]Sonstraal[/nation])
+[nation]Sonstraal[/nation]
 [b]Vice President:[/b]
-([nation]America-Libertaria[/nation])
+[nation]America-Libertaria[/nation]
 [b]Minister of Internal Affairs:[/b]
-([nation]Nouvelle-Charente[/nation])
+[nation]Nouvelle-Charente[/nation]
 [b]Minister of Defence:[/b]
-([nation]Castlemaine[/nation])
+[nation]Castlemaine[/nation]
 [b]Minister of Foreign Relations:[/b]
-([nation]New Patvarus[/nation])
+[nation]New Patvarus[/nation]
 [b]Representative of the People:[/b]
-([nation]Ehreberg[/nation])
+[nation]Ehreberg[/nation]
 [b]Minister of Religion:[/b]
-([nation]Sainte Neige[/nation])
+[nation]Sainte Neige[/nation]
 
 [b]NEWS:[/b] Military tensions between the AU and [nation]Afghanalandia[/nation] are escalating. The AU suggests all member troops immediately activate military in case of invasion.

@@ -7,8 +7,8 @@
 
 [b][colour=navy][u]The Government[/u][/colour][/b] 
 Founder: [nation]entenius[/nation]
-High Councillor: [nation]collindor[/nation]
-WA Delegate: [nation]entenius[/nation]
+High Councillor:  [colour=grey][i]To be elected[/colour][/i]
+WA Delegate:  [colour=grey][i]To be elected[/colour][/i]
 Councillor for External Affairs: [colour=grey][i]To be elected[/colour][/i]
 Administration Officer: [nation]chenerus[/nation]
 
@@ -23,4 +23,3 @@ Administration Officer: [nation]chenerus[/nation]
 [colour=green][u][i] - Constitution - IN PROGRESS[/colour][/u][/i]
 [colour=red][u][i] - Welcome Telegram - TBA[/colour][/u][/i]
 [colour=red][u][i] - Regional Map - TBA [/colour][/u][/i]
-
