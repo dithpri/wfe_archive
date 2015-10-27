@@ -5,7 +5,5 @@
 [color=purple]The Government:[/color]
 
 [color=navy]President:[/color] [region]The Imperial European Balkan Alliance[/region]
-
-[color=turquoise]Members of the Inter-Regional Council:[/color][/b][/i]
-[nation]Byzanthia[/nation]
-[nation]DivitIarum[/nation]
+[color=gold]Premier of the Inter-Regional Council: [nation]Divitiarum[/nation][/color]
+[color=brass]Chancellor of the Assembly of Nations: [nation]Byzanthia[/nation][/color][/i][/b]

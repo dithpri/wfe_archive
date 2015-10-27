@@ -8,5 +8,7 @@ This Region was founded for Deutschland and it will remain for Deutschland! We w
 [nation]Deutsche_Frankreich[/nation]
 [b][u]Foreign Affairs[/u][/b]
 [nation]Deutsche_Polen[/nation]
+[b][u]Minister of the Interior[/u][/b]
+[nation]Grof[/nation]
 [b][u]Homeland Security[/u][/b]
 [nation]Deutsche_Niederlanden[/nation]
