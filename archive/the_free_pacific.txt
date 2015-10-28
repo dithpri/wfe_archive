@@ -1,10 +1,11 @@
 [b][colour=red]IMPORTANT:[/colour] Apocalypse [colour=red]Roles[/colour] (Current, [colour=red]May[/colour] Change)[/b]
-[hr][b][colour=red]Infectors[/colour][/b] -- KILLING ZOMBIES IS [i][u]FORBIDDEN[/u][/i]
+[hr][b][colour=red]Infectors[/colour][/b] -- KILLING ZOMBIES IS [i][u]FORBIDDEN[/u][/i], unless none else to kill
 
 [nation=short]Malanasia[/nation]
 [nation=short]Whitebird[/nation]
 [nation=short]Shirapp[/nation]
 [nation=short]Paologreva[/nation]
+[nation=short]Albanian Union of Socialist Republic[/nation]
 
 [b][colour=red]Exterminators[/colour][/b] -- Kill lots of zombies!
 

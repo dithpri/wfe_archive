@@ -7,13 +7,17 @@
 [hr][b]Government[/b]
 
 [b][color=red]Vice-Delegate[/color]:[/b]
-[nation]Heisenbee[/nation] ([b][color=white]I[/color][/b]) 
+[nation]Heisenbee[/nation] ([b][color=gray]I[/color][/b]) 
 
 [b][color=Blue]GA Speaker[/color]:[/b]
 [nation]Baconbacon123[/nation] ([b][color=red]C[/color][/b])
 
 [b][color=purple]Minister of Affairs[/color]:[/b]
 [nation]hevern[/nation] ([b][color=blue]A[/color][/b])
+
+[b][color=purple]Minister of Commerce[/color]:[/b]
+Vacant ([b][color=gray]I[/color][/b])
+
 
 [b][color=purple]Minister of Defense[/color]:[/b]
 [nation]Zachotopia[/nation] ([b][color=red]C[/color][/b])
@@ -29,6 +33,8 @@
 
 [b][color=purple]Minister of Justice[/color]:[/b]
 [nation]Rheta[/nation] ([b][color=orange]L[/color][/b])
+
+
 
 [spoiler=Party Affiliation Poll] 10/17/2015
 

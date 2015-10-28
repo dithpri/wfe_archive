@@ -12,13 +12,11 @@ Kaiser: [nation]The Dragon Realms Empire[/nation]
 Chancellor: [nation]Franco-Iberie[/nation]
 Minister of Homeland: [nation]Nyakiva[/nation]
 Minister of Diplomacy: [nation]Sanabel[/nation]
-Minister of Communications: OPEN
+Minister of Communications: [nation]Republiqum[/nation]
 Minister of Security: [nation]Cloyqastan[/nation]
 Minister of Research: [nation]The Peoples East Africa[/nation]
 Electoral Officer: OPEN
 
 The next electoral cycle will commence between November 9th and 16th (inclusive).
 [hr]
-In an effort to make our region more democratic, people can suggest a change that will be put to a vote.
-
 Suggestions for the WFE and government jobs are open.

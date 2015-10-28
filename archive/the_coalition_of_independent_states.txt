@@ -1,3 +1,7 @@
-[spoiler=The Court] Supreme Judge= {To be Elected}, Judge= {To be Elected}, Judge= {To be Elected}, Judge= {To be Appointed}, Judge= {To be Appointed}   [i]Subject to Change[/i] [/spoiler]
+[spoiler=The Court] Supreme Judge= {To be Elected} 3 votes
+Judge= {To be Appointed} 2 votes
+Judge= {To be Appointed} 2 votes
+Judge= {To be Appointed} 1 votes
+Judge= {To be Appointed} 1 votes               [i]Subject to Change[/i] [/spoiler]
 
 [spoiler=The Regional Forum!] [url=http://www.nationstates.net/page=dispatch/id=504686]I will show thee liberty[/url] [/spoiler]
