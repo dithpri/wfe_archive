@@ -13,7 +13,8 @@ Regional Treasury - [color=red]Vacant[/color]
 
 [color=blue][b]Regional Assembly[/color][/b]
 
-~ [color=red]Vacant[/color]
+~ [nation=short]Isen Island[/nation]
+~ [nation=short]Vervillia[/nation]
 ~ [color=red]Vacant[/color]
 ~ [color=red]Vacant[/color]
 ~ [color=red]Vacant[/color]

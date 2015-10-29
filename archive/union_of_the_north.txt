@@ -15,7 +15,7 @@ Minister of Diplomacy: [nation]Sanabel[/nation]
 Minister of Communications: [nation]Republiqum[/nation]
 Minister of Security: [nation]Cloyqastan[/nation]
 Minister of Research: [nation]The Peoples East Africa[/nation]
-Electoral Officer: OPEN
+Electoral Officer: [nation]Republiqum[/nation]
 
 The next electoral cycle will commence between November 9th and 16th (inclusive).
 [hr]
