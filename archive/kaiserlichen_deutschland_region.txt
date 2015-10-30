@@ -2,13 +2,25 @@ This Region was founded for Deutschland and it will remain for Deutschland! We w
 
 [url=https://www.scribblemaps.com/maps/view/Deutschland_Region/ESlLetxjsc][b][color=red]Map[/color][/b][/url]|[url=https://www.nationstates.net/nation=neue_kaiserliche_deutschland/detail=factbook/id=504140][b][color=Blue]Constitution[/color][/b][/url]
 
-[b][u]President[/u][/b]
-[nation]Neue_Kaiserliche_Deutschland[/nation]
-[b][u]Vice-President[/u][/b]
-[nation]Deutsche_Frankreich[/nation]
-[b][u]Foreign Affairs[/u][/b]
-[nation]Deutsche_Polen[/nation]
-[b][u]Minister of the Interior[/u][/b]
-[nation]Grof[/nation]
-[b][u]Homeland Security[/u][/b]
-[nation]Deutsche_Niederlanden[/nation]
+[b][u][color=red]Executive[/color][/u][/b]
+
+     [b][u]President[/u][/b]
+     [nation]Neue_Kaiserliche_Deutschland[/nation]
+     [b][u]Vice-President[/u][/b]
+     [nation]Deutsche_Frankreich[/nation]
+     [b][u]Minister of the Interior[/u][/b]
+     [nation]Grof[/nation]
+     [b][u]Minister of the Exterior[/u][/b]
+     [nation]Deutsche_Polen[/nation]
+     [b][u]Homeland Security[/u][/b]
+     [nation]Deutsche_Niederlanden[/nation]
+
+[b][u][color=blue]Legislature[/color][/u][/b]
+
+     [b][u]Speaker of the House[/u][/b]
+     [nation]Kittymerica[/nation]
+
+[b][u][color=red]Judicial[/color][/u][/b]
+
+     [b][u]Supreme Court[/u][/b]
+     [nation]Densidovia[/nation]

@@ -1,8 +1,8 @@
 [b][u]| SAFE - HAVEN[/u] for all Nations within [region]The Union of Fascists[/region] that have effectively dealt with the Zombie Hordes |[/b]
 
-[b]~Current Infection Status: [color=lime]0%[/color] | &amp;quot;No threat&amp;quot;
+[b]Current Infection Status: [color=green]0.1[/color] | &amp;quot;Insignificant Threat&amp;quot;
 
-~DEFCON:   [color=orange](4)[/color]
+DEFCON:   [color=red](5)[/color]
 
 Commander-in-Chief: [nation]British Fascist Empire[/nation]
 Military Commander: [nation]Vormania[/nation]
@@ -13,7 +13,6 @@ Diplomatic Commander: [nation]Greater Rhodesia and Nyasaland[/nation]
 [color=maroon]~Military Officers~[/color]
 
 - [nation]Social Republic of Bellona[/nation]
-- [nation]Kaledia[/nation]
 - [nation]Kortantus[/nation]
 - [nation]Greater Hohenstaufen[/nation]
 - [nation]Endriation[/nation][/b]

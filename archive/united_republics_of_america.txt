@@ -5,8 +5,8 @@ Capital Republic: Michigan
 Demonym: American
 
 DEFCON: Exercise term: Description: 
-[X] DEFCON 5: FADE OUT |Lowest state of readiness
+[ ] DEFCON 5: FADE OUT |Lowest state of readiness
 [ ] DEFCON 4: DOUBLE TAKE |Increased intelligence watch and strengthened security measures
-[ ] DEFCON 3: ROUND HOUSE |Increase in force readiness above that required for normal readiness
+[X] DEFCON 3: ROUND HOUSE |Increase in force readiness above that required for normal readiness
 [ ] DEFCON 2: FAST PACE |Next step to nuclear war
 [ ] DEFCON 1: COCKED PISTOL |Nuclear war is imminent

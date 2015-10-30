@@ -3,12 +3,13 @@ Regional Anthem:Liberation of Gracemeria
 Victories over The Black Riders,DEN,The Black Hawks:
 March 2,April 12,,May 21,July 30 2015
 [color=green]Regional Defence Status REDEFCON 5- Peacetime[/color]
-[color=red]Regional Defence Status (Event):REDEFCON 1Z-  //EMERGENCY//[/color]
+[color=orange]Regional Defence Status (Event):REDEFCON 2Z- /LOCKDOWN/[/color]
 [color=red]Evacuation Stage 5: HUMAN MILITARY PERSONALE[/color]
 [color=orange]Martial Law 0730h-1930h (7:30 AM-7:30 PM)[/color]
 [color=red]ALL POPULATION CENTERS under Military Lockdown.[/color]
 [color=red]OCC HIGH ALERT[/color]
-[color=red]CHICXULUB ACTIVATED[/color]
-[color=red]OAF/DF MK X PROTOTYPES DEPLOYED[/color]
+[color=blue]CHICXULUB ACTIVATED[/color]
+[color=blue]OAF/DF MK X PROTOTYPES DEPLOYED[/color]
 [color=green]ODMC STAGE 1-Z DISASTER DECLARED[/color]
 [color=red]NEW VIRAL STRAIN DISCOVERED[/color]
+[color=blue]PROJECT HERCULANEUM ACTIVATED [/color]

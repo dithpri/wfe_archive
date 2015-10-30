@@ -10,4 +10,4 @@ Assistant Directors: [nation]Mallaska[/nation]
 
 Policy:
 [hr]
-Progress: [color=teal]Awaiting Infestation[/color]
+Progress: [color=lime]Researching Cure[/color]
