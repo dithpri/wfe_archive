@@ -25,3 +25,6 @@ Font Union Representative: [nation=short]Levantx[/nation]
 Supreme Justice: [i]vacante[/i]
 Majority Justice: [nation=short]Fenshamsland[/nation]
 Minority Justice: [nation=short]Levantx[/nation]
+
+[b][color=darkgreen]DISINFECTED REGION[/color] 
+- Request border control keycode to Military Administrator -[/b]

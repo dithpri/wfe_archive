@@ -1,6 +1,6 @@
 [b]Alert Level:[/b] [color=green]DEFSTAT 5[/color]
 
-[b]Latest News:[/b] Hana Bramanova wins Krasniyan elections.
+[b]Latest News:[/b] Z15 eradicated with zero casualties
 [hr]
 
 [b]Supreme Soviet Republics[/b]
@@ -12,7 +12,7 @@
 
 [b]Federal Soviet Republics[/b]
 
-[nation=short]Pribaltika[/nation]
+[nation=short]Belobaltika[/nation]
 [nation=short]Ruapekapeka[/nation]
 [nation=short]Skandinaviya[/nation]
 [nation=short]Slobozhanshchyna[/nation]
@@ -21,7 +21,6 @@
 
 [b]Soviet Republics[/b]
 
-[nation=short]Belakras[/nation]
 [nation=short]Canakhstan[/nation]
 [nation=short]Hayasten[/nation]
 [nation=short]Mongoliya[/nation]

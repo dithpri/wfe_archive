@@ -11,5 +11,4 @@ For a better NationStates experience, and the ability to read our newspaper, ple
 
 [hr]
 
-[b][color=red]President[/color]: [nation]Mallandia[/nation][/b]
-[b][color=blue]Secretary of State[/color]: [nation]Nultsia[/nation][/b]
+[b][color=red]President[/color]: [nation=short]Mallandia[/nation][/b].     [b][color=blue]Secretary of State[/color]: [nation=short]Nultsia[/nation][/b].     [b][color=Black]Secretary of Defense[/color]: [nation=short]The Chiss Descendancy[/nation][/b]

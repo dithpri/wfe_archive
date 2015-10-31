@@ -1,4 +1,4 @@
 [colour=Gold]Grand Minister:[/colour]
-[colour=silver]Minister of Defense: Minister of Education:Minister of Foreign Affairs/Intelligence: Minister of Internal Affairs/Intelligence:[/colour]
-[colour=brass]Senate:[/colour][nation=short]Jereathiel of Jedmathia[/nation][nation=short]Falconmont[/nation][nation=short]kitfox[/nation]
-[colour=grey]Other Members:[/colour][nation=short]Grand Imperium of Terra[/nation][nation=short]Sarnak[/nation]
+[colour=silver]Minister of Defense: Minister of Education:Minister of Foreign Affairs/Intelligence:[nation=short]Jereathiel of Jedmathia[/nation] Minister of Internal Affairs/Intelligence:[/colour]
+[colour=brass]Senate:[/colour][nation=short]Falconmont[/nation][nation=short]kitfox[/nation][nation=short]Grand Imperium of Terra[/nation][nation=short]Sarnak[/nation]
+[colour=grey]Other Members:[/colour]
