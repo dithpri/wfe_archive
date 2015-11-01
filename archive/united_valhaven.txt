@@ -5,10 +5,10 @@
 
 [u][B][color=blue]Parliament of United Valhaven[/color][/B][/u]
 
-[i][color=blue]Speaker of Parliament:[/color][nation]Ryrgistan[/nation]
-[color=blue]Vice Speaker:[/color][nation]United States Of Devonta[/nation][/i]
+[i][color=blue]Speaker of Parliament:[/color][nation]United States Of Devonta[/nation]
+[color=blue]Vice Speaker: (Position Vacant)[/color][/i]
 
 [u][B][color=orange]Legislative Offices of United Valhaven[/color][/B][/u]
 
-[i][color=orange]Chief Justice:[/color][nation]Neo-Libralis[/nation]
+[i][color=orange]Chief Justice: (Position Vacant)[/color]
 [color=orange]Associate Justices: [nation]Timothyopolis[/nation] and [nation]Strag[/nation][/i][/color]

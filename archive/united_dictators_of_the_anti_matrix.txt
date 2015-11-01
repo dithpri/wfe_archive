@@ -13,7 +13,7 @@ Welcome to the [region]United Dictators of the Anti Matrix[/region]! This region
 [u]Minister of Internal Affairs:[/u] [nation]Finlonia[/nation]
 ----------
 [u][b]DEFCON:[/b][/u]
-[b][color=red][u]{1}[/u][/color] [color=orange]2[/color] [color=gold]3[/color] [color=blue]4[/color] [color=green]5[/color][/b]
+[b][color=red]1[/color] [color=orange]2[/color] [color=gold][u]{3}[/u][/color] [color=blue]4[/color] [color=green]5[/color][/b]
 ----------
 [b][color=orange]Important Links:[/color][/b]
 [url=https://forum.nationstates.net/viewtopic.php?f=15&amp;amp;t=269464]NS++[/url]
