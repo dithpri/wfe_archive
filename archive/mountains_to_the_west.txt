@@ -1,7 +1,7 @@
 [b]The Mountains to the West, a home that is peaceful (Like the Holy Roman Empire&amp;#39;s son, Switzerland), like [region=The Mountains to the East].[/b]
 
 [color=ff0000][b]ORDER OF THE DAY[/b]
-Endorse [nation=the_mountains_to_the_east][/color]
+Endorse [nation=the_mountains_to_the_west][/color]
 
 [b]COUNTRY INFORMATION[/b]
 Motto: &amp;quot; When there&amp;#39;s a east, there&amp;#39;s a west. &amp;quot;
@@ -9,4 +9,8 @@ Money: The Western Coin
 National Animal: The Wild Horse
 Government Type: Capitalist, Free-Mind Thinking Federal Republic
 
+[b]GOVERNMENT[/b]
+[b]Federal Congress[/b]
+[i]House One - Federal Council[/i]
+[i]House Two - Federal House of Reps[/i]
 

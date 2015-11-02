@@ -14,3 +14,6 @@
 
 [nation]Mythoi[/nation] | Hard-working
 [b]Sovereign:[/b] King Eliphalet | [b]Prime Minister:[/b] Tryphena Amity | [b]Capital:[/b] Luteria | [b]Currency:[/b] Trezz
+
+[nation]Peace Village[/nation]
+[b]President:[/b] Lesedi Leyla | [b]Capital:[/b] Sama | [b]Currency:[/b] Galleons

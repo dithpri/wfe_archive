@@ -8,6 +8,7 @@ RPs: N/A
 [hr]
 [b][u]Government[/u][/b]
 
+God: [Nation]Gregoryisgodistan[/nation]
 Governor: [nation]The Dragon Realms Empire[/nation]
 President of the Continental Congress: [nation]Franco-Iberie[/nation]
 Minister of Homeland: [nation]Nyakiva[/nation]
@@ -19,4 +20,3 @@ Electoral Officer: [nation]Republiqum[/nation]
 
 The next electoral cycle will commence between November 9th and 16th (inclusive).
 [hr]
-Suggestions for the WFE and government jobs are open.

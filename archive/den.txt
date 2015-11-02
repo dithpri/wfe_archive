@@ -10,7 +10,7 @@
 
 Field Marshal: [nation=short]Gest[/nation]
 General: [nation=short]Kknight[/nation]
-Brigadier: [nation=short]knot ii[/nation]
+Brigadier: [nation=short]Knot ii[/nation]
 [/color]
 
 [hr] 
@@ -19,6 +19,8 @@ Brigadier: [nation=short]knot ii[/nation]
 
 [color=#9a6601]
 
-Spread the Zombie Plague[/color]
+Move to [region]California[/region] and endorse [nation=short]Stroessner[/nation]
+
+Pin the [url=http://i.imgur.com/ENVHgj5.png]campaign ribbon[/url] to a factbook for your participation[/color]
 
 [/b]
