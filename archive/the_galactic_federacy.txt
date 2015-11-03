@@ -15,7 +15,7 @@ TG [nation=short+noflag]Gorthias[/nation] or [nation=short+noflag]Diyel Grandios
 
 [color=white]Internal Affairs Administrator[/color]: [nation=short]Chrymerion Imperius[/nation]
 
-[color=gray]Admins[/color]: [nation=short]Nuzeikurga[/nation] | [nation=short]Drayxaso[/nation]
+[color=gray]Admins[/color]: [nation=short]Nuzeikurga[/nation] | 
 
 [color=white]External Affairs Administrator[/Color]
 

@@ -2,7 +2,7 @@
 
 Welcome to the Grand Assembly of Providencia!
 
-Map: https://a.tiles.mapbox.com/v4/hendricksja.o17hm93p/page.html?access_token=pk.eyJ1IjoiaGVuZHJpY2tzamEiLCJhIjoiY2lmNWl4dWE4MGEyZnN5a3VweDRrNXAyaCJ9._RhAEpSh_aN_WflYnmK-_Q#8/33.470/-86.232
+Map: https://api.mapbox.com/v4/royalasgard.o0fka0nk/page.html?access_token=pk.eyJ1Ijoicm95YWxhc2dhcmQiLCJhIjoiY2lnOHJoMnp4MHEwanVvbHp0azVucmxjNCJ9.T6kKMGKrpKkqH6NeKieq1w#4/44.06/-106.88
 
 This is a password protected region so all potential members must send a telegram to either [nation=the chattahooche]e or the current WA Delegate ([nation=The grand tempest]).
 

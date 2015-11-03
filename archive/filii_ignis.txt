@@ -1,1 +1,7 @@
-[color=ececec]/[/color]
+[colour=ffff00]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[/colour]
+[colour=dddd00]
+[b]WELCOME to Filii Ignis[/b]
+[/colour]
+This is under construction, more will be added soon.
