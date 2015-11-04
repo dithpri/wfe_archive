@@ -4,16 +4,17 @@ Welcome to the Grand Assembly of Providencia!
 
 Map: https://api.mapbox.com/v4/royalasgard.o0fka0nk/page.html?access_token=pk.eyJ1Ijoicm95YWxhc2dhcmQiLCJhIjoiY2lnOHJoMnp4MHEwanVvbHp0azVucmxjNCJ9.T6kKMGKrpKkqH6NeKieq1w#4/44.06/-106.88
 
-This is a password protected region so all potential members must send a telegram to either [nation=the chattahooche]e or the current WA Delegate ([nation=The grand tempest]).
-
-4000 soldiers=653 points
-650 marines=127 points
-1 destroyer=5893 points
-1 aircraft carrier=63173 points
-1 submarine= 5657 points
-1 tank=18 points
+4000 soldiers=650 points
+650 marines=125 points
+1 battleship=11000 points
+1 dreadnought=7500 points
+1 destroyer=5500 points
+1 aircraft carrier=65000 points
+1 gunboat=1000 points
+1 submarine= 5500 points
+1 tank=20 points
 1 attack jet=100 points
-1 jet bomber=596 points
-1 attack helicopter=12 points
-1 stealth fighter=4714 points
+1 jet bomber=500 points
+1 attack helicopter=10 points
+1 stealth fighter=4750 points
 1 howitzer/ artillery piece= 3 points

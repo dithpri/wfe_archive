@@ -1,9 +1,13 @@
 [region]Interestrium[/region] is a new, small region, branching off from [region]Minecraftia[/region]. Although new, it is expected to grow quickly.
 
-[b]Ranks:[/b]
+[b]Congress is now under effect! Contact [nation]Civilton[/nation] for more information.[/b]
 
-[nation]Civilton[/nation] - Founder
-No WA delegate has been elected yet.
-[nation]Weird Numbers[/nation] - Vice-Delegate
-[nation]Berthenvire[/nation] - Ambassador
-[nation]Budernuvz[/nation] - Ambassador
+[b]Influential Nations:[/b]
+
+[nation]Civilton[/nation] - [b]Founder[/b]
+[nation]Weird Numbers[/nation] - [b]Delegate[/b]
+
+[b]Congress:[/b]
+
+[nation]Berthenvire[/nation]
+[nation]Foofuslund[/nation]

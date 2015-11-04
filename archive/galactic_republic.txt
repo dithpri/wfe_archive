@@ -4,7 +4,8 @@
 No need to note where it was or whence it came, only to know that&#133; it was the Republic.&amp;quot;[/list][/i]
 
 [hr][u][b]Regional Administration[/b][/u]
-Founder: [nation=short]New Coruscant[/nation] / [nation=short]Galactic-Empire[/nation]
+Founder: [nation=short]New Coruscant[/nation]
+Regional Affairs Officer: [nation=short]Neo-Coruscant[/nation]
 [hr][u][b]Associated Regions[/b][/u]
 [region]Coruscant[/region] - [i]Capital[/i]
 [region]Galactic Empire[/region]
