@@ -5,9 +5,9 @@
 
 [b][u][color=red]The Soothsayer Army:[/color][/u][/b]
 [u]Commander in Chief of the Armed Forces:[/u] [nation]The Saysoother[/nation]
-[u]Field Marshal:[/u] 
-[u]General:[/u]
-[u]General:[/u]
-[u]Field Commander:[/u]
-[u]Field Commander:[/u]
+[u]Field Marshal:[/u] [nation]The Saysoother[/nation]
+[u]General:[/u] [nation]The Saysoother[/nation]
+[u]General:[/u] [nation]The Saysoother[/nation]
+[u]Field Commander:[/u] [nation]The Saysoother[/nation]
+[u]Field Commander:[/u] [nation]The Saysoother[/nation]
 
