@@ -1,8 +1,15 @@
-[color=red]R[/color][color=Orange]a[/color][color=Yellow]i[/color][color=green]n[/color][color=blue]b[/color][color=indigo]o[/color][color=violet]w[/color]
+Inter-Regional Diplomats Per Nation
+[nation]Tri-Sovereign Socialist Republic[/nation] Sergei Akhromeyev
+[nation]Otaku Hikomor[/nation] Kazudo Takahashi
+[nation]Xedinous[/nation] Dezi Oliver
+[nation]Zykyn[/nation] PLACEHOLDER
+[nation]New Sino-Japan[/nation] PLACEHOLDER
+Others PLACEHOLDERS
 
+Inter-Regional Organizations
+[color=blue]Yenimarus[/color] Lemoine Wright
+[color=green]United Free Market[/color] Sasuke Kahlil
+[color=red]National Socialist Workers Union[/color] Zakoriav Grigori
+[color=Orange]United Earth Council[/color] Philip Charon
 
-No context but [color=pink]Homogay[/color] [color=darkgreen]Cactus[/color]
-
-GNE Origin
-After the Great war, many countries were left destroyed, irradiated, or crumbling. So many countries left the original Earth in search of a new home.
-A coalition found said home, those involved being the Tri-Sovereign Empire, and New Sino-Japan. Others arrived and Revolutions were staged. Thus creating the New Earth. 
+Current date 11/7/2775

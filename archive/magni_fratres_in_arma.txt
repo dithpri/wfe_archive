@@ -3,6 +3,6 @@ Successor of The United Nations Elite &amp;amp; Fratribus in Arma Iunctus
 [hr]
 [b]Regional Government[/b]
 Delegate-[nation=short]The Spanish Commonwealth[/nation]
-Defense Minister-
-Foreign Affairs Minister-
-Supreme Court-
+Defense Minister-[nation=short]Lattakkia[/nation]
+Foreign Affairs Minister-[nation=short]Carraway Island[/nation]
+Supreme Court-[nation=short]Shanewolverines[/nation], [nation=short]Phnum Penh[/nation], [nation=short]Cape Kruger[/nation], [nation=short]Empire Cove[/nation]
