@@ -6,7 +6,6 @@ This is our [url=http://i.imgur.com/EKlQRXP.jpg]Regional Map.[/url] Claimed land
 _________________________________________________________
 [color=blue][i][b]The CEN Government:[/b][/i][/color]
 Executive Office: [nation=long]European_Nation[/nation]
-WA Delegate: [i]Vacant[/i]
+WA Delegate:  [nation=long]morsfolde[/nation]
 Secretariat General: [nation=long]Kronblomst[/nation]
-Chairman General: [nation=long]morsfolde[/nation]
 Premier General: [i]Vacant[/i]

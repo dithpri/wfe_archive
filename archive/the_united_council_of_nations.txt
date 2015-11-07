@@ -4,9 +4,15 @@
 
 [u][B][color=#FF0000]Executive Council[/color][/B][/u]
 
-[B]-General Secretary:[/B]
-[B]-Vice-Secretary:[/B]
+[B]-General Secretary:[/B] [nation]The Democratic Soviet Union[/nation]
+[B]-Vice-Secretary:[/B] [color=red]Vacant[/color]
 
 [u][b][color=#40BF00]The General Assembly[/color][/b][/u]
 
 [u][B][color=#FFBF00]Security Council[/color][/B][/u]
+
+[B]-[/B]
+[B]-[/B]
+[B]-[/B]
+[B]-[/B]
+[B]-[/B]

@@ -1,1 +1,16 @@
-[color=8B4513][b]Istohaa Sarilanleur[/b][/color]
+[color=8B4513][b]Istohaa Sarilanleur[/b][/color][color=ED9121][hr][hr][b]How the Oracle Game Works[/b]
+
+Several regions have embassies in a specific pattern to create a link from one end of the update to the other.
+
+[b]Regions[/b][list][region=The Icelandic Commonwealth]
+- [region=Istohaa Sarilanleur]
+- [region=Japvia]
+- [region=Crowmethia]
+- [region=the Mars]
+- [region=the Americas]
+- [region=High Orion Alliance]
+- [region=United Kingdom of Ireland]
+- [region=The European and African Union]
+- [region=God Save the Queen]
+- and so on[/list]
+These regions are linked by their embassies creating a line of regions. They only have an embassy with the region before and after them on the list.[/color][hr][hr]

@@ -6,11 +6,12 @@
 [B][url=http://www.docdroid.net/t3t4/constituendum-novus-romanifinal.docx.html]Constitution[/url][/B]
 [B][url=https://forum.nationstates.net/viewtopic.php?ns=1&amp;amp;f=4&amp;amp;t=321671]Propose Laws[/url][/B]
 
-[B][color=red]Magistratus Extraordinarius until elections have taken place[/color][/B]:
+[B][color=blue]Presiding State[/color][/B]:
 [nation]Boergandina[/nation]
-[B][color=blue]Presiding State[/color][/B]: 
-[nation]Great Jergania and Jonland[/nation] [color=orange][Inactive.][/color]
 [i]For security purposes, please endorse him.[/i]
+
+[B][color=blue]Prime Minister State[/color][/B]:
+[nation]New Finnish Karelia[/nation]
 
 [B]Capital of the Legislature[/B]: 
 [nation]Independent Contingent[/nation][color=red] [CTE&amp;#39;d][/color] Elections [color=red]ASAP[/color]
@@ -18,9 +19,9 @@
 [B]Judiciary States[/B]: 
 [nation]Grand Yotsuba[/nation] [color=orange][Inactive][/color] (Chief Justice), 
 [nation]The Shrek Republic[/nation], 
-[i]Vacant[/i]
+[nation]Great Robica II[/nation]
 [i]Vacant[/i]
 [hr][B]Military[/B]
 [B][url=https://www.nationstates.net/page=dispatch/id=297161]Enlist Today![/url][/B]
-[b]HQ:[/b] [nation]Boergandina[/nation] [color=orange][Retired][/color] Elections [color=red]ASAP[/color]
-DEFCON: [color=orange]2[/color]
+[b]HQ:[/b] [nation]Boergandina[/nation] [color=orange][De Facto][/color] Elections [color=red]ASAP[/color]
+DEFCON: [color=blue]4[/color]

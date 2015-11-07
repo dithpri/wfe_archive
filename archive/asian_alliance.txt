@@ -1,12 +1,12 @@
 [b]Welcome to the Asian Alliance.[hr]Government of the Asian Alliance:[/b]
-Prime Minister: [nation]Asiania[/nation]
-Secretary of State: Vacant
-President: [nation]Israel-Japan[/nation]
-Vice President: [nation]Judean Alaska[/nation]
+Prime Minister: [nation=short]Asiania[/nation]
+Secretary of State: [nation=short]Nymjao[/nation]
+President: Vacant
+Vice President: Vacant
 Speaker of the House: Vacant
 Minister of Foreign affairs: Vacant
 Minister of Recruitment and Immigration: Vacant
 Minister of Domestic affairs: Vacant
-Commander of the Armed forces: [nation]Imperial Defender 19[/nation]
+Commander of the Armed forces: Vacant
 Chief Justice: Vacant	
 Chief Ambassador: Vacant
