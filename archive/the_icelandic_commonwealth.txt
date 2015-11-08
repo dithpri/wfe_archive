@@ -1,17 +1,20 @@
-[color=navy][b]The Icelandic Commonwealth[/b]
+[color=4b3d82][b]The Icelandic Commonwealth[hr]FIRST ORACLE REGION[/b]
 
-ORACLE GAME
-[I]Goal of this version of the game is to achieve as many regions linked together to form a chain as long as possible.
-CURRENTLY: [region=the Icelandic Commonwealth] has [/color][color=800000][b]1713[/b][/color][color=navy] Degrees of Separation to [region=Country of God][/I]
-[spoiler=Oracle Game][url=http://nsdossier.texasregion.net/embassyOracle.aspx]Oracle[/url][/spoiler][/color][color=640000]
-[spoiler=Segments][b]Segment:[/b] Currently being reconfigured.
-[region=The Icelandic Commonwealth] - 1020 - [region=Charlie].
-[region=Jutland] - 689 - [region=Country of God].
-* Additions to be added so as to not split the list.[/spoiler][/color][color=navy][spoiler=Allied Regions][region=United States of America], [region=Ancient Lands], and over 1700 other regions.[/spoiler]
+ORACLE GAME[hr]Goal of this game is to achieve as many regions linked together to form a chain as long as possible with no short circuits.
 
-FIRST ORACLE REGION
-[/color][color=saddlebrown]
-I use this region to keep track of my new regions by way of embassy offers.[/color][color=000064]
-This region does not accept any embassy offer (except for [region=Istohaa Sarilanleur]).[/color]
+CURRENTLY:[list][region=the Icelandic Commonwealth] has [b]1713[/b] degrees of separation to [region=Ancient Lands]
+Currently broken at two spots[/list]
+[spoiler=Oracle Link][url=http://nsdossier.texasregion.net/embassyOracle.aspx]Oracle[/url][/spoiler]
 
-[color=blue][b]ALL MY PUPPETS WILL BE MOVED TO [region=Ancient Lands][/b][/color]
+[b]Segments:[/b]
+[list][region=The Icelandic Commonwealth] - 1020 - [region=Charlie].
+[region=Jutland] - 689 - [region=Country of God]
+[region=United States of America] - 1 - [region=Ancient Lands].[/list]
+See [region=Istohaa Sarilanleur] for more details
+
+[b]Allied Regions:[/b]
+[list][region=United States of America]
+[region=Ancient Lands]
+over 1700 other regions.[/list]
+[/color][color=7b3f00]
+[b]NOT ACCEPTING ANY EMBASSY OFFERS[/b][/color][hr]

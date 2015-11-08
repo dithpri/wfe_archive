@@ -2,7 +2,7 @@
 [hr]
 [color=#FF0000]Announcements[/color]
 [list]
-[*]None, yet.
+[*]The current year is 1900, the year will change on NULL.
 [/list]
 [hr]
 [color=#FF0000]Quick Links[/color]

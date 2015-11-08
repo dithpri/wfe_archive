@@ -19,6 +19,5 @@ Commander in Chief:[/b]  [nation=short]Red Back[/nation]
 Military Adviser:[/b]  [nation=short]Crushing Our Enemies[/nation]
 [b]Military Adviser:[/b]  [color=green][nation=short]Tramiar[/nation][/color] 
 [hr]
-[b][color=red]Deployment Orders[/color]
+[b][color=red]Deployment Orders[/color][/b]
 
-Move to [region]The United Federation of Planets[/region] and endorse [nation]Space InRaiders and AstaRaids[/nation]. Telegram your identity upon arrival.[/b]
