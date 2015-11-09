@@ -6,9 +6,10 @@
 
 [nation]Civilton[/nation] - [b]Founder[/b]
 [nation]Weird Numbers[/nation] - [b]Delegate[/b]
+[nation]Wings of Fire[/nation] - [b]Secretary of Dragons[/b]
 
 [b]Congress:[/b]
 
 [nation]Berthenvire[/nation]
 [nation]Foofuslund[/nation]
-[nation]Wings of Fire[/nation]
+[nation]Alexatian[/nation]
