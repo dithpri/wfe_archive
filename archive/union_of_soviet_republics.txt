@@ -1,9 +1,7 @@
 [b]Alert Level:[/b] [color=blue]DEFSTAT 4[/color] - Tensions with [nation=short]Yuzan[/nation]
 
-[b]Latest News:[/b]
+[b]Latest News:[/b] &amp;#64;Vaela joins the USR.
 
-- Federalisation of several USR nations completed.
-- [nation=short]Great Slatain[/nation] back under Communist Control
 [hr]
 
 [b]Supreme Soviet Republics[/b]
@@ -31,6 +29,7 @@
 
 [nation=short]Osteyburg[/nation]
 [nation=short]Slobozhanshchyna[/nation]
+[nation=short]Vaela[/nation]
 [hr]
 
 [spoiler=[color=blue][b]Nation Comparisons[/b][/color]][b]All of Zemlya[/b]

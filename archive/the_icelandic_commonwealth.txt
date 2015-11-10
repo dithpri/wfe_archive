@@ -2,13 +2,12 @@
 
 ORACLE GAME[hr]Goal of this game is to achieve as many regions linked together to form a chain as long as possible with no short circuits.
 
-CURRENTLY:[list][region=the Icelandic Commonwealth] has [b]1713[/b] degrees of separation to [region=Ancient Lands]
-Currently broken at two spots[/list]
+CURRENTLY:[list][region=the Icelandic Commonwealth] has [b]1712[/b] degrees of separation to [region=Ancient Lands]
+Currently broken at one spot[/list]
 [spoiler=Oracle Link][url=http://nsdossier.texasregion.net/embassyOracle.aspx]Oracle[/url][/spoiler]
 
 [b]Segments:[/b]
-[list][region=The Icelandic Commonwealth] - 1020 - [region=Charlie].
-[region=Jutland] - 689 - [region=Country of God]
+[list][region=The Icelandic Commonwealth] - 1710 - [region=Country of God]
 [region=United States of America] - 1 - [region=Ancient Lands].[/list]
 See [region=Istohaa Sarilanleur] for more details
 

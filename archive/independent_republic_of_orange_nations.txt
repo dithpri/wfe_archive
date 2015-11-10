@@ -8,7 +8,6 @@ Vice-President/Vice-Delegate: [nation=noflag]united_emberler[/nation]
 Minister of Internal Affairs: Vacant
 Minister of Foreign Affairs: Vacant
 Minister of Defence: Vacant
-Grand Chancellor: Vacant
-Chancellors: Vacant
+Chancellor: Vacant
 
 Please endorse President [nation=noflag]Hong_kong_island_and_kowloon[/nation] and Vice-President  [nation=noflag]united_emberler[/nation].

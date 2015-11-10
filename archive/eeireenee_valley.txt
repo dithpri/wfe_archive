@@ -1,10 +1,10 @@
 [region]Eeireenee Valley[/region]
 [i] Our goal is balance, peace, and harmony. [/i]
 
-[b]The Three E&amp;#39;s[/b]
+[b]The Three E&#39;s[/b]
 [b]E[/b]mpathy | [b]E[/b]loquence | [b]E[/b]ducation
 [hr]
-[nation]Palioxixis[/nation] | Kind | Founder
+[nation]Palioxixis[/nation] | Compassionate | Founder | Queen of Civil Rights
 
 [spoiler=More Info][b]President:[/b] Tamar Johnson | [b]Capital:[/b] Eeireenee | [b]Currency:[/b] Libra[/spoiler]
 [hr]
@@ -16,7 +16,7 @@
 
 [spoiler=More Info][b]Sovereign:[/b] King Eliphalet | [b]Prime Minister:[/b] Tryphena Amity | [b]Capital:[/b] Luteria | [b]Currency:[/b] Trezz[/spoiler]
 [hr]
-[nation]Peace Village[/nation] | Fledgling | Officer
+[nation]Peace Village[/nation] | Devout | Officer
 
 [spoiler=More Info][b]President:[/b] Lesedi Leyla | [b]Capital:[/b] Samada | [b]Currency:[/b] Galleons[/spoiler]
 [hr]

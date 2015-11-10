@@ -8,18 +8,18 @@ We encourage nations to join the WA and, most of all, [b]the forum (sign up with
 
 [b]Commission[/b]
 Premier: [nation=short]Icholasen[/nation]
-TBD: [nation=short]Davishire2[/nation]
-TBD: [nation=short]Framptonia[/nation]
-TBD: [nation=short]--the United Kingdom[/nation]
-TBD: [nation=short]Tuetonic Crusaders[/nation]
+Internal Affairs: [nation=short]--the United Kingdom[/nation]
+Foreign Affairs: [nation=short]Tuetonic Crusaders[/nation]
+Defence: [nation=short]Davishire2[/nation]
+Economics: [nation=short]Framptonia[/nation]
 
 [hr]
 
 [b]Court[/b]
 Chief Justice: [nation=short]Angleter[/nation]
-Justice: [nation=short]Framptonia[/nation]
+Justice: [nation=short]The Sahrawi Union[/nation]
 Justice: [nation=short]Inimicus[/nation]
-Justice: [nation=short]Inquista[/nation]
+Justice: [nation=short]Framptonia[/nation]
 Justice: [nation=short]Poretos[/nation]
 
 [hr]

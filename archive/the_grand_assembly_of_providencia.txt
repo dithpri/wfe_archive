@@ -2,7 +2,8 @@
 
 Welcome to the Grand Assembly of Providencia!
 
-Map: https://api.mapbox.com/v4/royalasgard.o0fka0nk/page.html?access_token=pk.eyJ1Ijoicm95YWxhc2dhcmQiLCJhIjoiY2lnOHJoMnp4MHEwanVvbHp0azVucmxjNCJ9.T6kKMGKrpKkqH6NeKieq1w#4/44.06/-106.88
+Map: 
+http://tinyurl.com/przn39g
 
 4000 soldiers=650 points
 650 marines=125 points

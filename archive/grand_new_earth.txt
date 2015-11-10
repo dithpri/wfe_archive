@@ -3,7 +3,7 @@ Inter-Regional Diplomats Per Nation
 [nation]Otaku Hikomor[/nation] Kazudo Takahashi
 [nation]Xedinous[/nation] Dezi Oliver
 [nation]Zykyn[/nation] PLACEHOLDER
-[nation]New Sino-Japan[/nation] PLACEHOLDER
+[nation]New Sino-Japan[/nation] Marusashi Takafumi
 Others PLACEHOLDERS
 
 Inter-Regional Organizations
@@ -12,4 +12,4 @@ Inter-Regional Organizations
 [color=red]National Socialist Workers Union[/color] Zakoriav Grigori
 [color=Orange]United Earth Council[/color] Philip Charon
 
-Current date 11/9/2775
+Current date 11/10/2775

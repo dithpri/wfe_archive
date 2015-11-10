@@ -1,4 +1,4 @@
-[region]Technologica[/region]----a great region where the metal is shiny and the robots are friendly (or rampant, whatever you choose)!
+[b][region]Technologica[/region]----a great region where the metal is shiny and the robots are friendly (or rampant, whatever you choose)![/b]
 
 [b]Founder[/b]: [nation]Radole[/nation]
 
@@ -16,4 +16,4 @@ P.S. Break one of them and you get 1 Violation. If you reach 2, you will be diss
 ===[nation]Ratalinia[/nation] (the &#39;worst&#39; nation) declares war over Delegate===
 
 
-DEFCON: [color=green]10[/color]
+DEFCON: [color=cyan]10[/color]
