@@ -1,8 +1,10 @@
-[color=blue]Nether Realm[/color]
-----------------
-[b]Founder: Urmen[/b]
-[b]Current WA Delegate: East Romulus[/b]
-[b]Vice-Delegate: East Romulus[/b]
-[b]Research Officer: Hazedominus[/b]
-[b]Security Officer: Marleyia[/b]
-[b]Communications Officer: Land of Endor[/b]
+[b][region]Nether Realm[/region]
+----------------------------------------------------
+Founder: [url=http://www.nationstates.net/nation=urmen][color=blue]Urmen[/url][/color]
+Current WA Delegate: [url=http://www.nationstates.net/nation=east_romulus][color=#8470FF]East Romulus[/url][/color]
+Vice-Delegate: TBA
+Research Officer: [url=http://www.nationstates.net/nation=hazedominus][color=#ff83fa]Hazedominus[/color][/url]
+Security Officer: [url=http://www.nationstates.net/nation=marleyia][color=FE5B35]Marleyia[/color][/url]
+Communications Officer: [url=http://www.nationstates.net/nation=land_of_endor]Land of Endor[/url][/b]
+
+

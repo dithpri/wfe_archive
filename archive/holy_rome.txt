@@ -14,8 +14,7 @@
 [nation=short]New_Finnish_Karelia[/nation]
 
 [B]Capital of the Legislature[/B]: 
-[I]Vacant[/I] [color=red]Elections 11/11/2015-11/15/2015
-Accepting nominations! Nominate any nation that is not currently holding an office in the RMB.[/color]
+[I]Vacant[/I] [color=red]Elections currently in progress.[/color]
 
 [B]Judiciary States[/B]: 
 [nation=short]Grand_Yotsuba[/nation] [color=orange][Inactive][/color] (Chief Justice), 
@@ -27,4 +26,4 @@ Accepting nominations! Nominate any nation that is not currently holding an offi
 [B]Military[/B]
 [B][url=https://www.nationstates.net/page=dispatch/id=297161]Enlist Today![/url][/B]
 [B]General:[/B] [nation]Boergandina[/nation] [color=orange][De Facto][/color]
-DEFCON: [color=blue]4[/color]
+DEFCON: [color=Green]4[/color]

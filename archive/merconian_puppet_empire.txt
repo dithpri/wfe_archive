@@ -3,4 +3,5 @@ I am but a simple puppet farmer.
 My main nations:
 [nation=short]Merconitonitopia[/nation] in [region=the North Pacific]
 [nation=short]Malanasia[/nation]  in [region=the Free Pacific]
+[nation=short]McCatsonia[/nation] in [region=Anarchy]
 [nation=short]Masilova[/nation]  in [region=Balder]

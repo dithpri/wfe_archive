@@ -10,4 +10,7 @@ Ask [nation=short]Lipnitia[/nation] for a place on the map!
 [hr][u]GOVERNMENT[/u]
 [color=red]Founder: [nation=short]Lipnitia[/nation]
 Delegate:[/color] [nation=short]Lerrenia[/nation]
-[color=red]Chancellor:[/color] [i]Vacant[/i][/b]
+[color=red]Chancellor:[/color] [nation=short]Sugoslavia[/nation]
+[hr][u]MISCELLANEOUS[/u]
+[url=http://www.nationstates.net/page=dispatch/id=515257]SlavaniaVision[/url]
+[url=tba]SlavaniaBall[/url][/b]
