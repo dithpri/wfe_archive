@@ -1,1 +1,15 @@
 For Freedom
+
+CURRENT EXCHANGE RATE:
+
+[nation]Bakagaijin[/nation]= 8.33 Reichsmarks (BRM) per Casing (NWC)
+
+[nation]Tellaen[/nation]= 16.67 Adroxes (TAD) per Casing (NWC)
+
+[nation]Slaney[/nation]= 1.16 Proletarians (SPT) per Casing (NWC)
+
+[nation]Martial[/nation]= 6.67 Grails (MGR) per Casing (NWC)
+
+[nation]Aimhirghin[/nation]= 333.33 Airgeads (AAG) per Casing (NWC)
+
+[nation]Ohgodwhyistan[/nation]= 2.63 Cornflakes (OCF) per Casing (NWC)
