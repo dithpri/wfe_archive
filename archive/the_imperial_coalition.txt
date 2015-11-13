@@ -4,5 +4,5 @@ The Imperial Coalition or as shall be further known as T.I.C. is a new region pr
 
 Founder and Lord-Emperor: [nation]Pietracupa[/nation] 
 High-General: [nation]Norlond[/nation]
-Lord-Judicar:
-Lord-Ambassador: 
+Lord-Judicar: [nation]The Valar[/nation]
+Lord-Ambassador: [nation]Nelysia[/nation] 

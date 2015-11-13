@@ -1,13 +1,11 @@
-[region=The Northwest Pacific][colour=white]---------------[/colour][region=The North Pacific][colour=white]----------------[/colour][region=The Northeast Pacific]
+[b][color=grey]CROM! [/color][color=#9F1F1F]This region proved no match for a charge by [region=Cimmeria]ns![/color]
 
-[colour=white]-
--
--[/colour]
+[color=black]Occupied by [url=https://www.youtube.com/watch?v=w2gcpFU-78k]The Cimmerian Raider Mercenaries[/url]! Our lair can be found [/color] [url=http://forum.nationstates.net/viewtopic.php?f=12&amp;t=339493]here[/url]
 
-[region=The West Pacific][colour=white]-----------------------[/colour][region=The Pacific][colour=white]---------------------------[/colour][region=The East Pacific]
+[color=#9F1F1F]Into the battle marched the following mercs:[/color]
 
-[colour=white]-
--
--[/colour]
-
-[region=The Southwest Pacific][colour=white]---------------[/colour][region=The South Pacific][colour=white]----------------[/colour][region=The Southeast Pacific]
+Merc [nation=short]Cora II[/nation]
+Merc [nation=short]Vandoosa[/nation]
+Merc [nation=short]The Type 49 TARDIS[/nation]
+Merc [nation=short]Demzelka[/nation]
+Merc [nation=short]SirZane[/nation][/b]

@@ -4,8 +4,8 @@ Colors: [color=gold]Gold[/color], [color=gray]Gray[/color], [color=white]White[/
 [hr]
 
 [color=orange]Talkable Topic[/color]
-[nation=short]Gorthias[/nation] asks: What got you interested into space?
-[nation=short]Diyel Grandiose[/nation] asks: What is your nation&amp;#39;s exact government classification?
+[nation=short]Gorthias[/nation] asks: do your nations employ robotics? If so, at what level? For example, advanced humanoid androids or big clunky robots?
+[nation=short]Diyel Grandiose[/nation] asks: What is your preferred alignment with the Force?
 TG [nation=short+noflag]Gorthias[/nation] or [nation=short+noflag]Diyel Grandiose[/nation] for the next topic.
 [hr]
 
