@@ -1,11 +1,10 @@
-Welcome to the United Empire!
-We are a small region but pride ourselves on co-operation and diplomacy.
+[b][color=darkred]Welcome to [region]The United Empire[/region][/b]
+We are a small region but pride ourselves on diplomacy.[/color]
 
-Any question about the United Empire send a message to Astro Germinasia.
-Any questions on current border control send a message to Infernum Terra.
-Any questions about the future send a message to Pyravia.
+[color=lightblue]For any questions about the security of our region please send a telegram to:   [nation]Infernum Terra[/nation]
 
-If you wish to create an embassy in our region please send a message to Pyravia. 
-
-
+For any questions about the region itself please send a telegram to:   [nation]Astro Germinasia[/nation]
  
+For any questions about embassies and future developments please send a telegram to: [nation]Pyravia[/nation][/color]
+
+[color=darkblue]For any questions about general administration please contact [nation]Astro Germinasia[/nation] for foreign affairs and [nation]Pyravia[/nation] for internal affairs.[/color]
