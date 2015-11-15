@@ -14,12 +14,12 @@
 [nation=short]New_Finnish_Karelia[/nation]
 
 [B]Capital of the Legislature[/B]: 
-[I]Vacant[/I] [color=red]Elections currently in progress.[/color]
+[nation=short]Great_Robica_II[/nation]
 
 [B]Judiciary States[/B]: 
 [nation=short]Grand_Yotsuba[/nation] [color=orange][Inactive][/color] (Chief Justice), 
 [nation=short]The_Shrek_Republic[/nation], 
-[nation=short]Great_Robica_II[/nation],
+[I]Vacant[/I],
 [I]Vacant[/I]
 
 [hr]

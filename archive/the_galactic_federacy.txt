@@ -5,7 +5,7 @@ Colors: [color=gold]Gold[/color], [color=gray]Gray[/color], [color=white]White[/
 
 [color=orange]Talkable Topic[/color]
 [nation=short]Gorthias[/nation] asks: do your nations employ robotics? If so, at what level? For example, advanced humanoid androids or big clunky robots?
-[nation=short]Diyel Grandiose[/nation] asks: What is your preferred alignment with the Force?
+[nation=short]Diyel Grandiose[/nation] asks: What is your grand father tech?
 TG [nation=short+noflag]Gorthias[/nation] or [nation=short+noflag]Diyel Grandiose[/nation] for the next topic.
 [hr]
 

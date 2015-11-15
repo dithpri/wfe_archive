@@ -14,14 +14,15 @@ Security Council[/b]
 
 Secretary General: [nation=short]Yauni Kyran[/nation]
 
-Europe Representative: [nation=short]Jeune France[/nation]
-North America Representative: [nation=short]Kernuskt[/nation]
-South America Representative: [nation=short]Fenshamsland[/nation]
-Africa Representative: [nation=short]Mormopia[/nation]
+Europe: [nation=short]Jeune France[/nation]
+North America: [nation=short]Kernuskt[/nation]
+South America: [nation=short]Fenshamsland[/nation]
+Africa: [nation=short]Mormopia[/nation]
 
-Font Union Representative: [nation=short]Levantx[/nation]
-Arlem Union Representative: [nation=short]Europe Liberty[/nation]
-M.A.T.O. Representative: [i]IN QEUE[/i]
+G7 : [url=http://s15.zetaboards.com/Rev_Council/forum/3197411/]Strongest Economy[/url]
+Font Union: [nation=short]Levantx[/nation]
+Arlem Union: [nation=short]Europe Liberty[/nation]
+M.A.T.O. : [nation=short]Kajstan[/nation]
 
 [b]International Court of Justice[/b]
 Supreme Justice: [i]vacante[/i]

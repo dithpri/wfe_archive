@@ -2,11 +2,16 @@
 [hr]
 [color=#FF0000]Announcements[/color]
 [list]
-[*]The current year is 1900, the year will change on NULL.
+[*]The current year is 1900, the year will change on GMT midnight of November 18.
+[*]RP has begun!
 [/list]
 [hr]
 [color=#FF0000]Quick Links[/color]
 [list]
 [*][url=https://nationstatesplusplus.net/]NationStates++[/url]
 [*][url=http://www.chatzy.com/27890081314951]Region IRC Chat[/url]
+[*][url=http://forum.nationstates.net/viewtopic.php?f=5&amp;t=360939]Roleplay Thread[/url]
+[*][url=https://www.nationstates.net/page=dispatch/id=517718]Rules[/url]
+[*][url=https://www.nationstates.net/page=dispatch/id=513557]Military Calculations[/url]
+[*][url=https://www.nationstates.net/page=dispatch/id=517717]Scientific Calculations[/url]
 [/list]
