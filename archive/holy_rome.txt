@@ -26,4 +26,4 @@
 [B]Military[/B]
 [B][url=https://www.nationstates.net/page=dispatch/id=297161]Enlist Today![/url][/B]
 [B]General:[/B] [nation]Boergandina[/nation] [color=orange][De Facto][/color]
-DEFCON: [color=red]2[/color]
+DEFCON: [color=goldenrod]3[/color]
