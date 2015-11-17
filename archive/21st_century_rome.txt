@@ -3,7 +3,7 @@ Tribune: (none)
 Censor: [nation=short]Varhime[/nation]
 Legatus: [nation=short]WEBBISTAHN[/nation]
 Aedile: [nation=short]21st Century Rome[/nation]
-Propraetor: [nation=short]Wind Walker[/nation]
+Propraetor: [nation=short]21st Century Rome[/nation]
 Superuisorem: [nation=short]21st Century Rome[/nation]
 Consuls: [nation=short]WEBBISTAHN[/nation] and [nation=short]Holy Lord[/nation]
 (powers of officials are listed under Lex)

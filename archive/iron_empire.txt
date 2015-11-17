@@ -17,7 +17,8 @@ Knight:
 Knight:
 duke control of polls, communications, embassies, 
 Earl control of polls, communications 
-knight polls, border control 
+knight polls, communications 
 grand duke can do everything but executive 
 duel: is when a person of lower rank callges person of higher rank for their rank decided by poll. king can devote it but this is not common  
 appointing: is when the king appoints person to higher rank for their actions.    
+Embassy requests are welcome 

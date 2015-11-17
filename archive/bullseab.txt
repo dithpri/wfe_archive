@@ -3,7 +3,7 @@ Welcome to Bullseab, a region for students at the American School of Brasilia.
 [hr]
 
 [u]Government[/u]
-King: [nation]Cadalyn[/nation]
+King: [nation]Cadalyn[/nation]/[nation]Cloyqastan[/nation]
 Prime Minister: [nation]Belgiantis[/nation]
 
 Next PM elections will be on November 20
