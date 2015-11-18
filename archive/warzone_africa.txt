@@ -1,4 +1,4 @@
-[b][color=blue]Welcome to the Banana Republic of Warzone Africa!
+[b][color=green]Welcome to the Banana Republic of Warzone Africa!
 
 President-in-Exile: [nation=short+noflag]New Perotasoa[/nation]
 Governor-Caretaker: [nation=short+noflag]Khronion[/nation][/color]
@@ -6,4 +6,4 @@ Governor-Caretaker: [nation=short+noflag]Khronion[/nation][/color]
 [url=region=the_west_pacific][color=red]West Pacific Armed Forces Representative[/color][/url]: [nation=short+noflag]Malviet[/nation]
 [url=region=wintreath][color=blue]Hvitt Riddaral Representatives[/color][/url]: [nation=short+noflag]Wintermoot[/nation], [nation=short+noflag]Govindia[/nation][/b]
 
-[color=blue][b][u]All WA nations must endorse [nation=short+noflag]Keineros[/nation] or face immediate banjection.[/b][/u][/color]
+[b][u]All WA nations must endorse [nation=short+noflag]Keineros[/nation] or face immediate banjection.[/b][/u]
