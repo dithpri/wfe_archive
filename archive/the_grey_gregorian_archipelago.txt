@@ -2,14 +2,18 @@ For Freedom
 
 CURRENT EXCHANGE RATE:
 
-[nation]Bakagaijin[/nation]= 8.33 Reichsmarks (BRM) per Casing (NWC)
+[nation]Bakagaijin[/nation]= 6.54 Reichsmarks (BRM) per Casing (NWC) +27.3%
 
-[nation]Tellaen[/nation]= 16.67 Adroxes (TAD) per Casing (NWC)
+[nation]Tellaen[/nation]= 15.63 Adroxes (TAD) per Casing (NWC) +6.7%
 
-[nation]Slaney[/nation]= 1.16 Proletarians (SPT) per Casing (NWC)
+[nation]Slaney[/nation]= 1.44 Proletarians (SPT) per Casing (NWC) -19.4%
 
-[nation]Martial[/nation]= 6.67 Grails (MGR) per Casing (NWC)
+[nation]Martial[/nation]= 6.67 Grails (MGR) per Casing (NWC) -17.2%
 
-[nation]Aimhirghin[/nation]= 333.33 Airgeads (AAG) per Casing (NWC)
+[nation]Aimhirghin[/nation]= 83.33 Airgeads (AAG) per Casing (NWC) +300% 
 
-[nation]Ohgodwhyistan[/nation]= 2.63 Cornflakes (OCF) per Casing (NWC)
+[nation]Ohgodwhyistan[/nation]= 2.61 Cornflakes (OCF) per Casing (NWC) +.8%
+
+[nation]The Winperium[/nation]= 4.07 Stackss (TWS) per Casing (NWC)
+
+[nation]Gooplandia[/nation]= 52.63 Dirhams (GDH) per Casing (NWC)

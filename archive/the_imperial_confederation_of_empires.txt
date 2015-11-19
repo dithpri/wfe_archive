@@ -3,7 +3,7 @@
 [b][color=red][i]Established: November 6th, 2015[/i][/color][/b]
 
 [color=green][b][i]We stand [u]AGAINST[/u] the World Assembly.[/b][/i][/color]
-[hr][u][b][color=blue]Our Government:[/color][/b][/u]
+[hr][u][b][color=darkred]Our Government:[/color][/b][/u]
 
 [b]Founder and Supreme Magistrate:[/b] [nation=short]The Imperial Papal States[/nation]
 
@@ -12,6 +12,6 @@
 [b]Grand Chairman of the Federation Council:[/b] [nation=short]Angry Australians[/nation]
 
 [b]Director of Anti-Peacekeeper Affairs:[/b] [nation=short]The Coolaid Republic[/nation]
-[hr] [color=red][u][b]Anti-Peacekeeper Orders:[/b][/u]
-[b]We are raiding [region]The Sith Empire[/region]! Please send a World Assembly puppet and endorse The Novgorod Armed Forces.
+[hr] [color=darkred][u][b]Anti-Peacekeeper Orders:[/b][/u]
+[b]Victory! Our forces have pillaged and razed [region]The Sith Empire[/region] to the ground. Withdraw from the region and return home the celebrate our success.
 [/color][/b]

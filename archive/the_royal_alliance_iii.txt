@@ -1,9 +1,2 @@
-[color=red] King [/color][Nation=short]The Greenland of Russia[/nation]
-[color=red] Vice King [/color]:Vacant
-[Color=Green]Ambassador[/color]:[nation=short]The us forces[/nation]
-[Color=Green] Vice Ambassador[/color]:Vacant
-[Color=black]Great Member 1st Class[/color]:[nation=short]The US forces 2[/nation]
-[Color=black]Great Member 2nd Class[/color]:Vacant
-[Color=black]Great Member 3rd Class[/color]:Vacant
 
-[color=blue]WA delegate[/color]:Vacant
+[B][color=blue]The Royal Alliance III[/color][/B] 

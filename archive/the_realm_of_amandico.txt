@@ -1,16 +1,19 @@
-Welcome to The Realm Of Amandico! 
-All are welcome to join. 
+[color=red]Welcome[/color] to [B][color=red]The Realm Of Amandico![/color] [/B]
+All are welcome to join.
+[hr]
+Each Nation is a planet in The Galactic Empire of Amandico. The Realm&#39;s goals are to spread across the universe in order to secure its control. 
 
-Supreme Ruler: Emperor Marroc
+[hr]
+Roles of the Factions
+[nation=short]Xacruse[/nation]: Military power
+[nation=short]Esurcax[/nation]: Military research and technological advances
+[nation=short]Palarinth[/nation]: Technological advances
+[nation=short]Cleanser[/nation]: Medical advances
 
-This region is an empire set on spreading across the universe, at any cost.
-
-Maps are your responsibility
-Each Nation is a planet in The Galactic Empire of Amandico
-
+[hr]
 Map Maker
 https://donjon.bin.sh/scifi/world/
 
-
+[hr]
 Overview of The Realm
 http://nswiki.org/index.php?title=Region/The_Realm_of_Amandico
