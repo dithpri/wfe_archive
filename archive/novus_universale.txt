@@ -1,21 +1,13 @@
-[i]Welcome to Novus Universale, risen from the ashes of Universalis on est June 24 of 2015.[/i]
+[i]Welcome to Novus Universale, risen from the ashes of Universalis on est June 24 of 2015![/i]
+[list][*][url=https://forum.nationstates.net/viewtopic.php?f=5&amp;t=361028]1961 RP[/url]
+[*][url=http://www.broomdces.com/nseconomy/]NSEcon[/url][/list]
 [hr]
-[i]Announcements[/i]
-[list][*]Please endorse your current president [nation=short]Helensted[/nation] 
-[*]For map updates telegram [nation=short]Greater Valdosta[/nation] 
-[*]Our puppet storage is [region]Novus Reponus[/region][/list]
-[hr]
-[i]Quicklinks[/i]
-[list][*][url=http://forum.nationstates.net/viewtopic.php?f=5&amp;t=361028]Role Play 1960 (Year Changes Every Four Days)[/url] 
-[*][url=http://forum.nationstates.net/viewtopic.php?f=5&amp;t=359062]Napoleonic Wars RP- Year 1802[/url]
-[*][url=http://us20.chatzy.com/18897840005927]Regional Chat Room[/url] 
-[*][url=https://nationstatesplusplus.net/]NationStates++[/url] 
-[*][url=http://nsdossier.texasregion.net/default.aspx#]Texas Region Analysis[/url] 
-[*][url=http://www.broomdces.com/nseconomy/]NSEconomy[/url] 
-[*][url=http://forum.nationstates.net/viewtopic.php?f=15&amp;t=333152]Battle Simulator[/url][/list]
-[hr]
-Rules:
-
-No creation of technologies beyond the tech range of individual nations or their respective tech alliances is permitted under any circumstance.
-
-Meta-Gaming (Using knowledge of things learned in RMB or outside the roleplay) for your own benefit in RP. *Note: This excludes technologies within the tech range*
+[i]Tech Formula[/i]
+[list][*]&amp;lt;50 SA
+[list][*]RP Year minus 15[/list]
+[*]50-99 SA
+[list][*]RP Year minus 5[/list]
+[*]100-199 SA 
+[list][*]RP Year[/list]
+[*]200+ SA
+[list][*]RP Year plus 1[/list][/list]

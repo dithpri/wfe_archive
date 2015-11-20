@@ -1,14 +1,9 @@
-[hr][color=000064][b]United States of America[/b][hr]
-[/color][color=646400]A peaceful region, where Freedom and Liberty are a way of Life, not just a saying.
-Security without liberty, is not Freedom.
-[/color][color=006400]
-FACTS
-[b]INDEPENDENCE[/b]
-declared 4 Jul 1776, recognized 3 Sep 1783, constitution 21 Jun 1788
-[/color][color=008000]
+[hr][hr][list][color=000064][b]United States of America[/b][/list][hr][hr][/color][color=646400]A peaceful region, where Freedom and Liberty are a way of Life, not just a saying. Security without liberty, is not Freedom.[/color][color=006400]
+
+FACTS[list][b]INDEPENDENCE:[/b]
+[list]declared 4 Jul 1776, recognized 3 Sep 1783, constitution 21 Jun 1788[/list][/color][color=008000]
 [b]ORIGINAL 13 COLONIES:[/b]
-[region=Connecticut], [region=Delaware], [region=Georgia], [region=Maryland], [region=Massachusetts], [region=New Hampshire], [region=New Jersey], [region=New York], [region=North Carolina], [region=Pennsylvania], [region=Rhode Island], [region=South Carolina] and [region=Virginia].
-[/color][color=654321]
+[list][region=Connecticut], [region=Delaware], [region=Georgia], [region=Maryland], [region=Massachusetts], [region=New Hampshire], [region=New Jersey], [region=New York], [region=North Carolina], [region=Pennsylvania], [region=Rhode Island], [region=South Carolina] and [region=Virginia].[/list][/color][color=654321]
 [b]Featured:[/b] Dec. 27, 2006
 [b]Founded:[/b] May 2nd, 2003[/list]
 [/color]

@@ -1,13 +1,10 @@
-[color=082567][b]Saint Kitts and Nevis[/b]
-[/color][color=116062]
-FACTS
-&#149; capital: Basseterre
-&#149; independence: 19 Sep 1983 (UK)
-&#149; area: 261 sq km - 104 sq mi
-&#149; population: 51,300 (2005 est)
-&#149; head of state: Elizabeth II
-&#149; Governor General: Cuthbert Sebastian
-&#149; Prime Minister: Denzil Douglas
-[/color][color=003153]
+[color=082567][b]Saint Kitts and Nevis[/b][/color][hr][color=116062]FACTS
+[list][*]capital: Basseterre
+[*]independence: 19 Sep 1983 (UK)
+[*]area: 261 sq km - 104 sq mi
+[*]population: 51,300 (2005 est.)
+[*]head of state: Elizabeth II
+[*]Governor General: Cuthbert Sebastian
+[*]Prime Minister: Denzil Douglas[/list][/color][color=003153]
 ABOUT THIS REGION
-&#149; a [region=United States of America] region[/color]
+[list][*]a [region=Ancient lands] region[/color][/list]

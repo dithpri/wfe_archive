@@ -20,9 +20,6 @@ Nominees-
 Nominees-
 [nation=northern_india]
 [nation=devstan]
-[b][i]COMMUNICATIONS:[/i][/b]
-Nominees-
-[nation=northern_india]
 [b][i]DIPLOMACY:[/i][/b]
 Nominees-
 [nation=atlanria]
