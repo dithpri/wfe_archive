@@ -5,7 +5,7 @@
 [b][u]Prime Minister[/b][/u] 
 [nation=short]yaklia[/nation]
 [b][u]Foreign Office[/b][/u]
-[b]VACANT[/b]
+[nation=short]etna[/nation]
 [b][u]Ministry of Domestic Affairs[/b][/u]
 [nation=short]Terrelis[/nation] [b](Minister)[/b]
 [b][u]Supreme Judicial Court[/b][/u]
