@@ -5,7 +5,7 @@ ORACLE GAME[hr]Goal of this game is to achieve as many regions linked together t
 CURRENTLY:[list][region=the Icelandic Commonwealth] has [b]1715[/b] degrees of separation to [region=Ancient Lands]
 [url=http://nsdossier.texasregion.net/embassyOracle.aspx]Oracle[/url][/list]
 
-[spoiler=Segments][b]Segments:[/b] [region=The Icelandic Commonwealth] - 1715 - [region=Ancient Lands].
+[spoiler=Segments][b]Segments:[/b] Error at [region=Northwest] - not sure why this region did not register.
 Goal is to add regions without breaking the link.[/spoiler]
 See [region=Istohaa Sarilanleur] for more details
 
