@@ -4,5 +4,5 @@
 
 [b][color=darkred]Join our cause brothers and sisters! We live and die for Rome and Caesar![/color][/b]
 [hr][b][u]Imperial Command[/u][/b]
-[b]Caesar[/b]: Demetrius Xos of [nation=short]the Tiber[/nation]
-[b]Legatus[/b]: [nation=short]the Legionnaires[/nation]
+[b]Caesar[/b]:[nation=short]the Tiber[/nation]
+[b]Magistratus[/b]: [nation=short]the Legionnaires[/nation]

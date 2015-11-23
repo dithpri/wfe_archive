@@ -5,7 +5,7 @@ Cabinet:
 Assembly:
 Administrator: New Zorandria
 Vice Administrator: Armenyu
-WA Delegate: open
+WA Delegate: Norketchen
 Vice Delegate: open
 High Scholar: Norketchen
 
