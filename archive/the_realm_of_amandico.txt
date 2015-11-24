@@ -11,9 +11,9 @@ Roles of the Factions
 [nation=short]Cleanser[/nation]: Medical advances
 
 [hr]
-Map Maker
+[color=red]Map Maker[/color]
 https://donjon.bin.sh/scifi/world/
 
 [hr]
-Overview of The Realm
+[color=red]Overview of The Realm[/color]
 http://nswiki.org/index.php?title=Region/The_Realm_of_Amandico
