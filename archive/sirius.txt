@@ -3,7 +3,7 @@ The administrative center of the [b][i]United Empire of Sirius, its Colonies, an
 [hr]
 
 [b]Sirius High Triumvirate[/b][list]
-[*][nation=venaleria]
+[*](vacant)
 [*][nation=silvaenia]
 [*][nation=ancalador][/list]
 
