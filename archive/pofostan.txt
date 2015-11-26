@@ -10,7 +10,7 @@ The [region]PoFostan[/region] network consists of various regions united under t
 [u]PoFostan Provisional Regional Council[/u]:
 
 [b]
-Commander of Joint Military Operations:  [i]Vacant[/i]
+Commander of Joint Military Operations:  [nation=short]Mikemapolis[/nation]
 First Minister of Regional Affairs:             [nation=short]Yamatai-koku[/nation]
 Minister of Love:                                   [i]Vacant[/i][/b]
 

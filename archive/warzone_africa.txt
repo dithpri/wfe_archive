@@ -1,9 +1,5 @@
-[b][color=green]Welcome to the Warzone Africa!
+[b][color=brown]You are now entering the Restricted Zone of Warzone Africa.[/color][/b]
 
-President-in-Exile: [nation=short+noflag]New Perotasoa[/nation]
-Governor-Caretaker: [nation=short+noflag]Khronion[/nation][/color]
-[url=region=warzone_europe][color=purple]Dominion Sovereign Forces Representatives[/color][/url]: [nation=short+noflag]Ancian[/nation], [nation=short+noflag]Celestial Vanguard of Vesuvia[/nation], [nation=short+noflag]dothejakartashake[/nation]
-[url=region=the_west_pacific][color=red]West Pacific Armed Forces Representative[/color][/url]: [nation=short+noflag]Malviet[/nation]
-[url=region=wintreath][color=blue]Hvitt Riddaral Representatives[/color][/url]: [nation=short+noflag]Wintermoot[/nation], [nation=short+noflag]Govindia[/nation][/b]
+This region is monitored [url=region=warzone_europe][color=purple]The Dominion Sovereign Forces[/color][/url], [url=region=the_west_pacific][color=red]The West Pacific Armed Forces[/color][/url], and [url=region=wintreath][color=blue]The Wintreath Hvitt Riddaral[/color][/url].
 
-[b][u]All WA nations must endorse [nation=short+noflag]Keineros[/nation] or face immediate banjection.[/b][/u]
+[b][u]All potential threats will be ejected on sight.[/b][/u]

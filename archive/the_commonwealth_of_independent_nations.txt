@@ -1,8 +1,3 @@
-REGIONAL GOVERNMENT
+The Commonwealth of Independent Nations (CoIN) is an organization that is founded on the principles of self-determination and intellectual integrity. We welcomes all nations who wish to become involved in a union of other Independent Nations. 
 
-President: [nation=short]Geo chorus[/nation].
-Prime Minister: [nation=short]Monos[/nation].
-
-Minister of Foreign Affairs: [nation=short]Geo Chorus[/nation].
-Minister of Defense:[nation=short]Tysoania[/nation].
-Minister of Internal Affairs: [nation=short]Monos[/nation].
+Featured region: 21 February 2015

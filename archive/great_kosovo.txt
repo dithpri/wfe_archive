@@ -6,5 +6,9 @@
 
 [hr]
 [b][u]THE PARLIAMENT[/b][/u]
-Chairman:[nation]Blauranti[/nation]
+Chairman:
 Vice-Chairman:
+
+[hr]
+[b][color=orange]News:[/color][/b]
+
