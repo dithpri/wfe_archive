@@ -1,12 +1,21 @@
-[color=DarkRed][b][u]Space[/b][/u][/color]
+
+
+[color=DarkRed][b][u]Welcome to Yaxlei[/b][/u][/color]
 [hr]
 
-[b]welcome to one of the greatest region[/b]
+[b]This region belongs to [region]Yaxlei[/region][/b]
 
 [hr]
 [b][u]THE PARLIAMENT[/b][/u]
-Chairman:
+Chairman:[nation]Blendi[/nation]
 Vice-Chairman:
+
+[hr]
+[Color=Brown][b][u]Army of Yaxlei[/b][/u]
+General: [nation]Blendi[/nation]
+Brigadier: [nation]queen teuta[/nation]
+
+
 
 [hr]
 
@@ -15,5 +24,7 @@ Vice-Chairman:
 [hr]
 
 
-[b][color=orange]News:[/color][/b]
-[*] Endorese Wa Delegate [nation]kosovo world[/nation]
+[hr]
+
+News: [/color]
+[*] Endorese Wa Delegate [nation]blendis[/nation]

@@ -1,18 +1,15 @@
-Peace and Prosperity Union (PAPU) is based around democratic, socialist views. PAPU is political, economic, military and international aid union. PAPU is obligated to help-develop and protect its allied states as well as it is responsible for growth and equality between its allied states. [url=https://www.nationstates.net/nation=peace_and_prosperity_union/detail=factbook/]Read more.[/url]
-
-
-[color=black][b]Commission[/b][/color]
-Premier: [nation]Peace and Prosperity Union[/nation]
-Foreign Affairs: [nation]Yorkinanian[/nation]
-Defence and Peacekeeping: Vacant
-Economics: Vacant
+[b]Commission[/b]
+Premier: [nation=short]Peace and Prosperity Union[/nation]
 Internal Affairs: Vacant
+Foreign Affairs: Vacant
+Defence: Vacant
+Economics: Vacant
 
-[color=black][b]Court[/b][/color]
+[b]Court[/b]
 Chief Justice: Vacant
 Supreme Justice: Vacant
 Majority Justice: Vacant
 Minority Justice: Vacant
 
-[color=black][b]Council[/b][/color]
+[b]Council[/b]
 Speaker: Vacant

@@ -1,8 +1,8 @@
 [b]Welcome to the Asian Alliance.[hr]Government of the Asian Alliance:[/b]
 Prime Minister: [nation=short]Asiania[/nation]
-Secretary of State: [nation=short]Nymjao[/nation]
+Secretary of State: Vacant
 President: Vacant
-Vice President: Vacant
+Vice President: [nation=short]Nymjao[/nation]
 Speaker of the House: Vacant
 Minister of Foreign affairs: Vacant
 Minister of Recruitment and Immigration: Vacant
