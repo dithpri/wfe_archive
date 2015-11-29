@@ -2,7 +2,7 @@
 
 Founder: [nation=short+noflag]United German Regions[/nation]
 President: [nation=short+noflag]Vancouvia[/nation]
-Vice President: [nation=short+noflag]None[/nation]
+Vice President: [nation=short+noflag]Venatora[/nation]
 
 Elections are held in polls at this location!
 
