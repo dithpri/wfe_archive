@@ -1,7 +1,10 @@
 [b][color=red]WELCOME[/color][/b]
 
 [color=green] [url=https://www.nationstates.net/page=cards] Cards Against NationStates (mini game)[/url][/color]
-
+[hr]
 [b]STATISTICS[/b]
-[url=http://nseconomy.thirdgeek.com/]NSEconomy[/url]
-[url=http://nsdossier.texasregion.net/default.aspx#]NSSuite[/url]
+[list][*][url=http://nseconomy.thirdgeek.com/]NSEconomy[/url]
+[*][url=http://nsdossier.texasregion.net/default.aspx#]NSSuite[/url][/list]
+[hr]
+[b]EMBASSIES[/b]
+[list][*][region]Potatonion[/region][/list]

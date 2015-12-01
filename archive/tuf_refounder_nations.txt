@@ -1,0 +1,3 @@
+We steal regions from NS states before the owner states can refound them.  We never return them.
+
+For questions about this, please telegram Relcano located in &quot;The Utopian freesocialists&quot; region.
