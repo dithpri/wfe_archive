@@ -7,7 +7,7 @@
 [b][u][i][color=yellow]Secretaries of the Governor[/b][/u][/i][/color]
 [color=blue]Secretary of Peace and Diplomacy: [nation=Bazookistan][/color]
 [color=red]Secretary of War: [nation]Scary Mike[/nation][/color]
-[color=silver] Secretary of Voting: TBD[/color]
+[color=silver] Secretary of Voting: [nation]KingHellscythe[/nation][/color] 
 [color=orange]Secretary of Creativity: [/color] [nation]Atticusland[/nation]
 [hr]
 [b][color=green]Bill(s) with the Secretaries:0[/color]
