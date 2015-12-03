@@ -6,7 +6,8 @@
 
 [b]Currently:[/b] [region=the Icelandic Commonwealth] has [b]1741[/b] degrees of separation to [region=Ancient Lands]
 
-[spoiler=Segments][b]Segments:[/b] [region=the Icelandic Commonwealth] has [b]1741[/b] degrees of separation to [region=Ancient Lands].
+[spoiler=Segments][b]Segments:[/b] No Breaks
+[region=the Icelandic Commonwealth] has [b]1741[/b] degrees of separation to [region=Ancient Lands].
 Goal is to add regions without breaking the link.[/spoiler]
 See [region=Istohaa Sarilanleur] for more details
 

@@ -11,9 +11,9 @@ Agent 47 ([nation=short]Big Bosss Wasteland[/nation])
 [color=brown][b]Regional Judge:[/b][/color] Dr. Frogg ([nation=short]Big Bosss Wasteland[/nation])
 
 [color=brown][b]Congress[/b][/color]
-The Devious Party: 33.3% [nation=short]Thornico[/nation]
-The Piner Party: 33.3% [nation=short]The Cass Confederation[/nation]
-The Human-Error Party: 0.1% [nation=short]Big Bosss Wasteland[/nation]
-The Solar Party: 33.3% [nation=short]Mist Veil[/nation]
+The Devious Party: 40.0% [nation=short]Thornico[/nation]
+The Piner Party: 20.0% [nation=short]The Cass Confederation[/nation]
+The Human-Error Party: 20.0% [nation=short]Big Bosss Wasteland[/nation]
+The Solar Party: 20.0% [nation=short]Mist Veil[/nation]
 
 
