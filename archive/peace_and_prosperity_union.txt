@@ -6,10 +6,10 @@ Defence: Vacant
 Economics: Vacant
 
 [b]Court[/b]
-Chief Justice: Vacant
+Chief Justice: [nation=short]Freeia[/nation]
 Supreme Justice: Vacant
 Majority Justice: Vacant
 Minority Justice: Vacant
 
 [b]Council[/b]
-Speaker: Vacant
+Speaker: [nation=short]Under the Dome[/nation]
