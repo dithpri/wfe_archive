@@ -7,7 +7,7 @@ Welcome to the [region]Parliamentary Union of Sovereign Nations[/region]! We off
 
 [color=red]Founder:[/color][nation]Aralunya[/nation]
 [color=red]President:[/color][nation]Lugudunum[/nation]
-[color=red]Prime Minister:[/color][nation]The Pie Mines[/nation]
+[color=red]Prime Minister:[/color][nation]Abdoa[/nation]
 
 [color=orange]Minister of Development:[/color]
 [color=orange]Minister of Jurisprudence:[/color]
@@ -15,11 +15,11 @@ Welcome to the [region]Parliamentary Union of Sovereign Nations[/region]! We off
 [color=orange]Minister of Communications:[/color]
 [hr]
 [color=blue]Parliament:[/color]
-[nation]Abdoa[/nation]
+Open Seat
 [nation]Stornland[/nation]
 [nation]Novum Urbem[/nation]
 [nation]Mansalad[/nation]
-Vacant Seat
+[nation]Merish Isles[/nation]
 [nation]Mareut[/nation]
 [nation]Libertarian Democracy[/nation]
 [nation]YiDaQing[/nation]

@@ -2,7 +2,7 @@
 [hr]
 [b][u]Founding Date: April 8th 2015[/b][/u]
 [hr]
-King:[nation=short]St nevis and kitts[/nation]
+King-Emperor:[nation=short]St nevis and kitts[/nation]
 Acting Prime-Minister:[nation=short]Royale Republic[/nation]
 Deputy Prime-Minister:[nation=short]Vacant[/nation]
 Delegate : [nation=short]IGI[/nation]
