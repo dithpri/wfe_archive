@@ -22,6 +22,6 @@
 [I]Vacant[/I]
 
 [hr][B]Military[/B]
-[B][url=https://www.nationstates.net/page=dispatch/id=297161]Enlist Today![/url][/B]
-[B]General:[/B] [nation]Boergandina[/nation] [color=orange][De Facto][/color]
+[color=green]Telegram the Minister of Defense to [B]Enlist Today![/B][/color]
+[B]Minister of Defense:[/B] [nation=short]Ulster-Cornwall[/nation]
 DEFCON: [color=goldenrod]3[/color]

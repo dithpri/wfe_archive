@@ -9,11 +9,11 @@
 [*][nation]The Kingdom of North America[/nation][/list]
 [*]Court Judges
 [list][*][nation]Auralux[/nation]
-[*][nation]Nova Freedomland[/nation]
+[*]Vacant
 [*][nation]The 2nd Japanese Empire[/nation][/list]
 [*]Lower Council
 [list][*][nation]Raeine[/nation]
-[*][nation]The Nee German Republic[/nation]
+[*]Vacant
 [*][nation]The 2nd Greek Empire[/nation][/list][/list][/list]
 [spoiler=Map Maker]
 [nation]Auralux[/nation][/spoiler]
