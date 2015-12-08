@@ -14,14 +14,19 @@
 
 [B]Minister of Legislation[/B]: 
 [nation=short]Great_Robica_II[/nation]
+Elections 24/2/16-27/2/16
 
-[B]Judiciary States[/B]: 
-[nation=short]Grand_Yotsuba[/nation] [color=orange][Inactive][/color] (Chief Justice), 
-[nation=short]The_Shrek_Republic[/nation], 
-[I]Vacant[/I],
-[I]Vacant[/I]
+[b]Minister of Foreign Affairs[/b]:
+Elections 9/12/15-12/12/15
+
+[b]Minister of Law[/b]:
+Elections 16/12/15-19/12/15
+
+[b]Minister of Intelligence[/b]:
+Elections 23/12/15-26/12/15
 
 [hr][B]Military[/B]
 [color=green]Telegram the Minister of Defense to [B]Enlist Today![/B][/color]
 [B]Minister of Defense:[/B] [nation=short]Ulster-Cornwall[/nation]
-DEFCON: [color=goldenrod]3[/color]
+Elections 2/3/16-5/3/16
+DEFCON: [color=Blue]5[/color]

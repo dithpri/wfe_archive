@@ -4,7 +4,10 @@
 [b][color=black][i]The GENERAL STAFF[/i][/color][/b]
 
 [b][color=darkred]Commander in Chief:[/color] [nation=short]Feuer Ritter[/nation]
-[color=darkred]Mercenary General:[/color] [nation=short]Cora II[/nation][/b][hr]
+[color=darkred]Mercenary General:[/color] [nation=short]Cora II[/nation]
+[color=darkred]Black Ops. General:[/color] [nation=short]WraithFIN[/nation]
+[color=darkred]Colonel:[/color] [nation=short]Vandoosa[/nation][/b]
+[hr]
 
 [b][i][color=black]ORDER OF THE DAY[/color][/i][/b]
 
