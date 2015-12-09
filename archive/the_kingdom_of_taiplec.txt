@@ -1,5 +1,7 @@
-[color=0404B4]The Kingdom of Taiplec, a pacific kingdom founded by the Democratic Republic of Nizzek.[/color]
+[color=0404B4][b]The Kingdom of Taiplec[/b], a pacific kingdom founded by [nation=nizzek][/color]
 
 [color=1C1C1C]Countries:[/color]
 [nation=nizzek]
 [nation=nuubland]
+[nation=north_ausent]
+[nation=aldoustan]

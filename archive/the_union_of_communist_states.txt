@@ -6,10 +6,10 @@ Chairman: [nation]Tahkiristan[/nation]
 
 High Commissar: Vacant
 
-Commissar of the interior
+Commissar of the interior: vacant
 
-Commissar of defence: Vacant
+Commissar of defence: [nation]Tahkiristan[/nation]
 
-Commissar of foreign affairs: [nation]Tahkiristan[/nation]
+Commissar of foreign affairs: Vacant
 
 Security: [color=orange]Orange[/color]: State of war with the Comintern

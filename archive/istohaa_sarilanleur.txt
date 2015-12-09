@@ -13,4 +13,4 @@ Several regions have embassies in a specific pattern to create a link from one e
 - [region=The European and African Union]
 - [region=God Save the Queen]
 - and so on[/list]
-These regions are linked by their embassies creating a line of regions. They only have an embassy with the region before and after them on the list.[/color][hr][hr]
+These regions are linked by their embassies creating a line of regions. They only have an embassy with the region before and after them on the list.[/color][hr]

@@ -1,7 +1,1 @@
-[color=navy][b]The European and African Union[/b][/color][hr]An Oracle Region
-Sorry, not accepting embassy offers at this time
-
-[spoiler=Info]How to tell which regions are an Oracle Region
-The region has only two embassies.
-This is to create a string from [region=The Icelandic Commonwealth] to [region=Country of God].
-See [region=The Icelandic Commonwealth] for more details.[/spoiler]
+[color=navy][b]The European and African Union[/b][/color][hr]

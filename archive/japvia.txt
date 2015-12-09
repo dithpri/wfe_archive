@@ -1,4 +1,4 @@
-[color=000060][b]Japvia[/b][/color][hr][hr][color=2A52BE][b]Limitations for the Oracle Game[/b]
+[color=000060][b]Japvia[/b][/color][hr][color=2A52BE][b]Limitations for the Oracle Game[/b]
 
-Oracle regions can only have two embassies, the region listed before and the region listed after that region.
-Any other embassy can short circuit the Oracle List, thus these regions cannot accept any other embassy offer.[/color][hr][hr]
+[i]Oracle regions can only have two embassies, the region listed before and the region listed after that region.
+Any other embassy can short circuit the Oracle List, thus these regions cannot accept any other embassy offer.[/i][/color][hr]
