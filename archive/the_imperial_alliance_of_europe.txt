@@ -1,3 +1,22 @@
 Welcome to the Imperial Alliance of Europe
 [hr]
 We are currently in the process of rebuilding
+[hr]
+Emperor: [nation]Imperial Puppet Master[/nation]
+
+Grand Duke: [nation]DivantPuppetNation[/nation]
+ [hr]
+Minister of Defense:
+
+Minister of Finances:
+
+Minister of Education:
+
+Minister of Welfare:
+
+Minister of Diplomacy:
+
+Minister of Homeland:
+
+[hr]
+Parliament:

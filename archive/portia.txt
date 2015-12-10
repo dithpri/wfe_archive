@@ -1,12 +1,16 @@
-Dedicated to the Ports of Justice. 
-
 First Battalion:
-COMMANDER The Kingdom of Port 46802
-The Republic of the Mekong Delta
-The Republic of Tsukushi 
-The Kingdom of Port 56780
-The Kingdom of Port 67895
+COMMANDER [nation]Port 46802[/nation]
+[nation]Port 56780[/nation]
+[nation]Port 67895[/nation]
+[color=orange]Confidential: Agent Orange[/color]
+[color=orange]Confidential: Agent Bekka[/color]
+[color=orange]Confidential: Agent Ghoul[/color]
 
 Home Guard:
-COMMANDER The Kingdom of Port 3345
-SECRETARY The Borderlands of Portia Herald
+COMMANDER [nation]Port 3345[/nation]
+[nation]Portia Herald[/nation]
+[nation]Lexicus[/nation]
+[nation]Rpeulornienia[/nation]
+[color=orange]Confidential: Agent Kingdom[/color]
+
+CONQUERED REGIONS:
