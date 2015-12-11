@@ -12,7 +12,7 @@
 [nation=short]Isle of Great-Britain[/nation]
 
 [color=darkred][b][i][u]Economic Coordinators[/i][/u][/color][/b]
-[nation=short]Greater New Luxembourg[/nation]
+[nation=short]Baltic-Livonia[/nation]
 [nation=short]Webus[/nation]
 
 [color=darkred][b][i][u]Cartographer[/i][/u][/b][/color]

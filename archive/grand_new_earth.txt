@@ -2,7 +2,7 @@ Inter-Regional Diplomats Per Nation
 [nation]Tri-Sovereign Socialist Republic[/nation] Sergei Akhromeyev
 [nation]Otaku Hikomor[/nation] Kazudo Takahashi
 [nation]Xedinous[/nation] Dezi Oliver
-[nation]Zykyn[/nation] PLACEHOLDER
+[nation]Zykyn[/nation] James Riken
 [nation]New Sino-Japan[/nation] Marusashi Takafumi
 [nation]Shrektoberfest[/nation] Sean Mcloughlin
 Others PLACEHOLDERS
@@ -13,4 +13,4 @@ Inter-Regional Organizations
 [color=red]National Socialist Workers Union[/color] Zakoriav Grigori
 [color=Orange]United Earth Council[/color] Philip Charon
 
-Current date 12/8/2775
+Current date 12/11/2775

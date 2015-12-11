@@ -9,10 +9,10 @@ Welcome to the [region]Parliamentary Union of Sovereign Nations[/region]! We off
 [color=red]President:[/color][nation]The Pie Mines[/nation]
 [color=red]Prime Minister:[/color][nation]Abdoa[/nation]
 
-[color=orange]Minister of Development:[/color]
-[color=orange]Minister of Jurisprudence:[/color]
-[color=orange]Minister of War:[/color]
-[color=orange]Minister of Communications:[/color]
+[color=orange]MoD:[/color]
+[color=orange]MoJ:[/color][nation]mareut[/nation]
+[color=orange]MoW:[/color][nation]The North Region of Westeros[/nation]
+[color=orange]MoC:[/color][nation]Libertarian Democracy[/nation]
 [hr]
 [color=blue]Parliament:[/color]
 Open Seat

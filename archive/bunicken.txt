@@ -1,9 +1,4 @@
- [nation]Bunicken[/nation]
-
-A civil war has broken out in the Fatherland! 
-Loyalists: Fourth Reich of Bunicken, Amercas, People of the Hive, Selven
-Revolutionaries: Zeta, Britannia
-Neutral: Newer Britannia
+F&uuml;hrer : [nation]Bunicken[/nation]
 Council Chairman: [color=red]Republic of Kelvinsi[/color]
 Reich Protektorate Kommandant/Governor #1: [color=red]Bingellia[/color]
 
