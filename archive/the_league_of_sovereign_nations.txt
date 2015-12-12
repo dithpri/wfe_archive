@@ -12,16 +12,16 @@ The League of Sovereign Nations is a proud member of the following organisations
 
 [b][color=red][u]High Council[/u][/color][/b]
 [list][*][B]Premier:[/B] 
-[i]Position Vacant[/i]
+[nation=noname]Lowell Indiana[/nation]
 
 [*][B]Deputy:[/B] 
-[i]Position Vacant[/i]
+[nation=noname]The Servants OF Allah[/nation]
 
 [*][B]Secretary of Foreign Affairs:[/B] 
-[i]Position Vacant[/i]
+[nation=noname]Aurea Adamas[/nation]
 
 [*][B]Secretary of Internal Affairs[/B] 
-[i]Position Vacant[/i]
+[nation=noname]Pogorevka[/nation]
 [/list]
 [hr]
 
