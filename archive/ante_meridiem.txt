@@ -1,17 +1,16 @@
 [color=green][b]Ante Meridiem[/b][/color]
 
-[color=blue][b]Endorse Vivianation :)[/b][/color] 
-[color=blue][b]^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[/b][/color]
+[color=blue][b]Endorse your Delegate:[/b][/color]
+[nation]Vivianation[/nation]
 
 [color=red][b]If you have a problem with the government, contact the Founder:[/b][/color]
 [nation]Konstantinus[/nation]
 
 [color=orange][B]Other Government Positions:[/B]
 [list]
-[*][nation]Vivianation[/nation]
 [*][nation]Dingalingia[/nation]
 [*][nation]Zunigaland[/nation]
-[*][nation]Mateusz Kingdom[/nation][/list]
+[*][nation]Thomopolis[/nation][/list]
 [B]If you would like to run for a position go to this link:[/B]
 [url=https://docs.google.com/forms/d/12ZO5Pc85AwjZnfJODtwDGjXl5y5SUIEIa9v4KzUxaZY/viewform]Government Application Form[/url]
 [/color]
@@ -26,7 +25,3 @@ Welcome to [region]Ante Meridiem[/region]!
 
 [color=green][b]Ante Meridiem Map[/b][/color]
 [url=http://www.hinchgraphics.com/wp-content/uploads/2015/12/MapPSD-1.png]Map[/url]
-
-[color=green][B]If you need to do research on your nation&#39;s populations and military sizes, refer to the links below.[/B][/color]
-[url=https://en.wikipedia.org/wiki/List_of_countries_by_number_of_military_and_paramilitary_personnel#The_list]Military Sizes w/ Reserves[/url]
-[url=https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population#Countries_and_dependencies_by_population]Population Sizes[/url]

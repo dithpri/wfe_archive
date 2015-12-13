@@ -5,7 +5,7 @@
 [color=black]King-Emperor[/color]:[nation=short]St nevis and kitts[/nation]
 [color=black]Prime-Minister[/color]:[nation=short]Royale Republic[/nation]
 [color=black]Deputy Prime-Minister[/color]:[nation=short]Ya Boi Tyrone[/nation]
-[color=black]Delegate[/color] : [nation=short]IGI[/nation]
+[color=black]Interim-Delegate[/color] : [nation=short]Royale Republic[/nation]
 [color=black]Vice-Delegate[/color]: [nation=short]Luna Absentia[/nation]
 [color=black]Head of Role Play[/color]: [nation=short]Luna Absentia[/nation]
 

@@ -4,7 +4,7 @@
 [hr][color=red][u]Regional Cabinet:[/u][/color]
 [color=darkblue]Speaker of the House: [nation=short]Libermerica[/nation]
 President: [to be democratically elected]
- Vice President [to be selected by the president]
+ Vice President: [to be selected by the president]
 Secretary of State: [vacant]
 Attorney General: [vacant]
 Secretary of Defence: [nation=short]Libermerica[/nation]
