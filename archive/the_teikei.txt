@@ -11,4 +11,7 @@
 -Representative: [nation]Recuecn Contest[/nation]
 
 [nation]Zogradia[/nation]
--Representative: [nation]Najma[/nation][/color]
+-Representative: [nation]Najma[/nation]
+
+[nation]Malviet[/nation]
+-Representative: [nation]Malviet-Comms[/nation][/color]
