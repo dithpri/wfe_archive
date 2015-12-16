@@ -1,8 +1,8 @@
-Want to raid a region?
-Well here you can!
+Determining Region&#133;
+
 Join [region=DEN],who will help supply us with men.
 I am creating powerful seats for this Region:
-Targeter-targets the region suitable for us
+Targeter-[nation=The Jedi Squad]
 Enforcer-enforces the rules and other qualities needed
 General-leads the raiders chosen
 Sender-Sends a message to who goes where.

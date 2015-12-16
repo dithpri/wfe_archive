@@ -3,8 +3,8 @@
 
 Triangle:
 [color=Gold]Emperor: [Nation=Kaniros][/color]
-[color=Purple]Unspecified: [Nation=Morrisland][/color]
-[color=Grey]Unspecified: [Nation=Goodnamesarealltakenvania1][/color]
+[color=Purple]Rules and Regulations: [Nation=Morrisland][/color]
+[color=Grey]Technology: [Nation=Goodnamesarealltakenvania1][/color]
 
 Maps:
 [url=http://i.imgur.com/U5Wg39d.png]Infinita Puteulanus[/url]
