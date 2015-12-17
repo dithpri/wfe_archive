@@ -15,10 +15,13 @@
 [nation]The winter supremacy[/nation]
 [nation]homeland of Tyrone[/nation]
 
-[b]Grand General of Unitys Alliance[/b] = [nation]the consulting union[/nation]
+[nation]the consulting union[/nation] = [b]Grand General of Unitys Alliance[/b]
 [hr]
+[b]News[/b]
+     A new set of laws has been enacted.
 
-[b]ALERTS[/b] A REVOLUTION IS UNDERWAY!
+
+[b]ALERTS[/b] none
 [hr]
 [color=green][i]This is just a little bit that we have to offer look below for other gov positions![/color][/i] 
 [b][i]Be the best you can be.[/b][/i]

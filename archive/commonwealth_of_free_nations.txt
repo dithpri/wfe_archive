@@ -5,7 +5,7 @@
 [nation=short]Ruclax[/nation] 
 
 [b]Vice Chancellor:[/b] 
-[nation=short]Bearlong[/nation] 
+[nation=short]Bearlong[/nation] ( Acting Chancellor )
 
 [b]Minister of Defense:[/b] 
 [nation=short]Unfallious[/nation] 
@@ -31,11 +31,11 @@
 
 [hr][b][u][color=#CC9966]&amp;gt;&amp;gt;News&amp;lt;&amp;lt;[/color][/u][/b]
 
-[i]The Fourteenth Government officially takes office![/i]
+[i]Please endorse our Acting-Chancellor [nation=short]Bearlong[/nation].[/i]
 
 [hr][b][u][url=http://www.nationstates.net/nation=commonwealth_entertainment/detail=factbook/id=473661][color=navy]CFN Radio[/color][/url][/u][/b] 
 
 [i]Now Playing: [url=https://www.youtube.com/watch?v=PIQSEq6tEVs]La Marseillaise[/url][/i]
 
-[hr][B][url=http://www.nationstates.net/page=dispatch/id=264699][color=black]DEFCON[/color][/url]:[/B] [B][color=blue]5[/color][/B]
-[b][url=http://www.nationstates.net/page=dispatch/id=264699][color=black]CIVCON[/color][/url]:[/b] [b][color=Blue]5[/color][/b]
+[hr][B][url=http://www.nationstates.net/page=dispatch/id=264699][color=black]DEFCON[/color][/url]:[/B] [B][color=gold]3[/color][/B]
+[b][url=http://www.nationstates.net/page=dispatch/id=264699][color=black]CIVCON[/color][/url]:[/b] [b][color=gold]3[/color][/b]

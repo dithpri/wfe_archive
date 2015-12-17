@@ -3,7 +3,7 @@ Determining Region&#133;
 Join [region=DEN],who will help supply us with men.
 I am creating powerful seats for this Region:
 Targeter-[nation=The Jedi Squad]
-Enforcer-enforces the rules and other qualities needed
+Enforcer-enforces the rules and other qualities needed.([region=Raider King of NS])[b]TEMPORARY[/b]
 General-leads the raiders chosen
 Sender-Sends a message to who goes where.
 Captain (5)-There will be 5 quadrants of 5 soldiers to help endorse their general

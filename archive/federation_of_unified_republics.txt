@@ -1,4 +1,5 @@
+[color=purple]Ideology:[/color]
 Established on age-old principles, the Federation of Unified Republics was created after Winston&#39;s Rebellion and the collapse of the Party in late 1984. Following bloody revolution, FoUR gave up its Pacific territories and focused on main-land Europe. Today it enforces traditional society, that for over 20 years was brutally oppressed.
-
-Republican Principles:
-If you seek to apply for a position or propose legislation, say so in chat and the Legislative branches (Assembly and Senate) will create a poll. The Executive powers (Founder and Consul) will have final say in all legislative decisions.
+[hr]
+[color=purple]Republican Principles:[/color]
+If you seek to apply for a position or propose legislation, say so in chat and the [color=blue]Legislative branches (Assembly and Senate) [/color]will create a poll. The [color=red]Executive powers (Founder and Consul)[/color]will have final say in all legislative decisions. The [color=red] Executive Branch[/color] can also initiate legislative polls.

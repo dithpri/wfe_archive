@@ -4,17 +4,17 @@
 
 [color=#000034]Troops:[/color][color=#9a6601]
 
-Brigadier General: [nation=short]Knot II[/nation]
-Field Marshal: [nation=short]Gest[/nation]
-Colonel: [nation=short]94 block[/nation]
-Major: [nation=short]Vandoosa[/nation]
-Captain: [nation=short]Gladio III[/nation]
-Sergeant: [nation=short]North Pacific Spy[/nation]
-Sergeant: [nation=short]The Type 49 Tardis[/nation]
-Private First Class: [nation=short]Demzelka[/nation]
-Private First Class: [nation=short]SunGoddess[/nation]
-Private First Class: [nation=short]ChingisOtchigin[/nation]
-Private: [nation=short]Heksennacht[/nation][/color]
+Brigadier General [nation=short]Knot II[/nation]
+Field Marshal [nation=short]Gest[/nation]
+Colonel [nation=short]94 block[/nation]
+Major [nation=short]Vandoosa[/nation]
+Captain [nation=short]Gladio III[/nation]
+Sergeant [nation=short]North Pacific Spy[/nation]
+Sergeant [nation=short]The Type 49 Tardis[/nation]
+Private First Class [nation=short]Demzelka[/nation]
+Private First Class [nation=short]SunGoddess[/nation]
+Private First Class [nation=short]ChingisOtchigin[/nation]
+Private [nation=short]Heksennacht[/nation][/color]
 
 [color=#000034]Special thanks to our friends from [region]The Kingdom of Great Britain[/region] and [region]Cimmeria[/region][/color]
 
