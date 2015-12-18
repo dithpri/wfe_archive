@@ -3,8 +3,8 @@
 [hr]
 [u][I][b]Regional Government[/b][/I][/u]
 Vice-Delegate: [nation]Ism[/nation]
-Prime Minister: [nation]Isle Mikumo[/nation]
-Minister of the Interior: [nation]Prison Guard[/nation]
+Prime Minister: TBD
+Minister of the Interior: TBD
 Minister of Foreign Relations: [nation]Brandonian[/nation]
 Minister of Intelligence: [nation]Alcatrazin[/nation]
 Minister of Defense: [nation]New Joshinia[/nation]

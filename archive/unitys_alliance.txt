@@ -14,7 +14,6 @@
 
 [nation]The winter supremacy[/nation]
 [nation]homeland of Tyrone[/nation]
-
 [nation]the consulting union[/nation] = [b]Grand General of Unitys Alliance[/b]
 [hr]
 [b]News[/b]
