@@ -10,6 +10,7 @@
 
 Field Marshal [nation=short]Gest[/nation]
 General [nation=short]Kknight[/nation]
+General [nation=short]Nordic Arbor[/nation]
 Brigadier [nation=short]Knot ii[/nation]
 [/color]
 

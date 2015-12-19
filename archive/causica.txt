@@ -1,15 +1,19 @@
 Causica is a large continent filled with sovereign nations.
 
 NATIONS:
-- Anacardi
-- Bubblopa
-- Fuchsianna
-- Mortar and Pestle
-- New Romana
-- Zappa Zappa
+- [nation=short]Anacardi[/nation]
+- [nation=short]Bubblopa[/nation]
+- [nation=short]Fuchsianna[/nation]
+- [nation=short]Mortar and Pestle[/nation]
+- [nation=short]New Romana[/nation]
+- [nation=short]Zappa Zappa[/nation]
 
 Causica hosts:
 - Continental Olympics
 - Continental Airline &amp; Public Transport
 - Miss Causica Beauty Pageant
 - Continental Census
+
+CAUSICA COUNTRIES:
+- Please answer the Weekly Poll.
+- Miss Causica will be hosted by [nation=short]Fuchsianna[/nation].
