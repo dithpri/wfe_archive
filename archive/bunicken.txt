@@ -1,5 +1,6 @@
-F&uuml;hrer : [nation]Bunicken[/nation]
-Advisor to F&uuml;hrer: Dalmatian Cities
+F&uuml;hrer : [nation]Bunicken[/nation] 
+Minister Internal/External Affairs: Dalmatian Cities
+Minister of War: Tenro
 Council Chairman: [color=red]Republic of Kelvinsi[/color]
 Reich Protektorate Kommandant/Governor #1: [color=red]Bingellia[/color]
 

@@ -6,10 +6,10 @@
 
 [b]Government[/b]
 President: [nation]Asigna[/nation]
--[color=red][b]*Council of ministers*[/b][/color]-
+
 -[b]Ministry of Internal Affairs:[/b] [nation]Arkoshia[/nation]
 -[b]Ministry of Foreign Affairs:[/b] [nation]Kauthar[/nation]
--[b]Ministry of Defense and War:[/b] Vacant
+-[b]Ministry of Defense and War:[/b] [nation]Eastern Peoples Alliance[/nation]
 
 [hr]
 [b]Access Links:[/b]
@@ -19,13 +19,8 @@ President: [nation]Asigna[/nation]
 [url=http://www.nationstates.net/page=dispatch/id=486921]Roleplays[/url]
 [url=http://forum.nationstates.net/viewtopic.php?f=4&amp;t=359229]How to get involved in the Roleplay[/url]
 
-[b]Forum[/b]
-[url=http://ioraqus.com/index/]Index[/url]
-[b]Worldbuilding your Nation Links[/b]
-[url=https://www.nationstates.net/page=dispatch/id=503773]All[/url]
-[b]Non-Roleplay Links[/b]
-[url=http://www.nationstates.net/page=dispatch/id=486923]All[/url]
-[b]OOC Roleplay Links[/b]
-[url=http://www.nationstates.net/page=dispatch/id=486922]All[/url]
-[b]IC Roleplay Links[/b]
-[url=http://www.nationstates.net/page=dispatch/id=486921]All[/url]
+[url=http://ioraqus.com/index/]Ioraqus Forum[/url]
+[url=https://www.nationstates.net/page=dispatch/id=503773]Nation Building Links[/url]
+[url=http://www.nationstates.net/page=dispatch/id=486923]Non Roleplay Links[/url]
+[url=http://www.nationstates.net/page=dispatch/id=486922]OOC Roleplay Links[/url]
+[url=http://www.nationstates.net/page=dispatch/id=486921]IC Roleplay Links[/url]

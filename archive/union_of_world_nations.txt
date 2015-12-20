@@ -2,7 +2,7 @@
 [hr]
 [i][b]Regional Government[/b][/i]
 [list][*]World Assembly Delegate 
-[list][*]Vacant...elections taking place[/list]
+[list][*][nation]Toby VanHaften[/nation][/list]
 [*]Upper Council
 [list][*]Vacant
 [*][nation]The 5th German Reich[/nation]
