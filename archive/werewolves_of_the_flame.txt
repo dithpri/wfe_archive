@@ -4,7 +4,8 @@
 
 Delegate:
 
-Defense:
+Defense:[nation]Sanmibo[/nation]
+
 
 Foreign Negotiations:
  [/spoiler] | [spoiler=Parliament]President: Not Elected
