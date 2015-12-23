@@ -15,13 +15,13 @@ Welcome to the [region]Parliamentary Union of Sovereign Nations[/region]! We off
 [color=orange]MoC:[/color][nation=short]Libertarian Democracy[/nation]
 [hr]
 [color=blue]Parliament:[/color] (currently dissolved)
-Open Seat
-[nation=short]Stornland[/nation]
-[nation=short]Novum Urbem[/nation]
-[nation=short]Mansalad[/nation]
-[nation=short]Merish Isles[/nation]
-[nation=short]Mareut[/nation]
 [nation=short]Libertarian Democracy[/nation]
+[nation=short]Lomias[/nation]
+[nation=short]Mareut[/nation]
+[nation=short]Merish Isles[/nation]
+Open Seat
+Open Seat
+Open Seat
 Open Seat
 Open Seat
 [hr]
