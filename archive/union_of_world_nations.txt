@@ -4,7 +4,7 @@
 [list][*]World Assembly Delegate 
 [list][*][nation]Toby VanHaften[/nation][/list]
 [*]Upper Council
-[list][*]Vacant
+[list][*][nation]The Nee German Republic[/nation]
 [*][nation]The 5th German Reich[/nation]
 [*][nation]The Kingdom of North America[/nation][/list]
 [*]Court Judges
