@@ -1,3 +1,4 @@
+[b]
 [hr]
 [color=aqua]Founded December 7, 2015[/color]
 [hr]
@@ -19,3 +20,4 @@ Princess: None
 Knight: None
 Sir: None
 [hr]
+[/b]

@@ -4,10 +4,14 @@
 
 [b]Goal:[/b] to create a chain of regions as long as possible, with no short circuits.
 
-As of Dec. 17th, [region=the Icelandic Commonwealth] has [b]1738[/b] degrees of separation to [region=Ancient Lands].
+As of Dec. 17th, [region=the Icelandic Commonwealth] has [b]1750[/b] degrees of separation to [region=Ancient Lands].
 
-[spoiler=Segments][b]Segments:[/b] Temp breaks are being repaired.
-[region=the Icelandic Commonwealth] to [region=Ancient Lands] are currently 1738 degrees of separation.
+[spoiler=Segments][b]Segments:[/b]
+1. [region=the Icelandic Commonwealth] - [region=London] 132
+2. [region=Sibulon] - [region=Republic of Korea] 1023
+3. [region=Cabo Verde] - [region=Ancient Lands] 593
+
+Breaks are being repaired.
 Goal is to add regions without breaking the link.[/spoiler]
 See [region=Istohaa Sarilanleur] for more details
 

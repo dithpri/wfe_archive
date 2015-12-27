@@ -7,19 +7,27 @@ The [b][region]Korean Peoples Army[/region][/b] was founded August 20 2012 as th
 The &quot;KPA&quot; defends inter-regional democratic and socialist forces and is always in a state of war with oppressor regions, imperialist satellites, fascist and reactionary hellholes.[hr][hr][/color]
 [b][i]KPA officers[/i]
 
-[u]General[/u]; [nation=short]Godless Munky[/nation]
+[u]General[/u]: [nation=short]Godless Munky[/nation]
 
-Captain; [nation=short]Communal Militia[/nation]
+Captain: [nation=short]Communal Militia[/nation]
 
-Sergeant: [nation=short]Zulanka[/nation]
+Lieutenant: [nation=short]Zulanka[/nation]
+
+Sergeant: [nation=short]Custadia[/nation]
+
+Corporal: [nation=short]Irish Peoples Liberation Force[/nation]
+
+Corporal: [nation=short]Kazirstan[/nation]
+
+Corporal: [nation=short]Kim Yong Il[/nation]
 
 ---
 
 [i]Regional Administration[/i]
 
-Field Marshal; [nation=short]Comradeland[/nation]
+Field Marshal: [nation=short]Comradeland[/nation]
 
-Political Commissar; [nation=short]V Ming[/nation]
+Political Commissar: [nation=short]V Ming[/nation]
 
 Reg Forces: 12
 
