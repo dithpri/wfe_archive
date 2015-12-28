@@ -4,7 +4,7 @@ Lord Regent: [nation=short]Frostorn[/nation]
 Crown Prince: [nation=short]Fraloza[/nation]
 Crown Princess: [nation=short]Sammonium[/nation]
 First Princess: [nation=short]Darkitopia[/nation]
-Second Princess: [nation=short]Xiashu[/nation]
+Second Princess: 
 Master of War: [nation=short]Grarrgtopia[/nation]
 - Lord Admiral: [nation=short]Fresas[/nation]
 - Lord Commander: [nation=short]Farwood[/nation]

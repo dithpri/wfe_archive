@@ -1,12 +1,27 @@
-[b][color=darkblue]Welcome to[/color] [color=darkred]British Territories[/color][/b] 
-[i][b][color=darkyellow]United We Stand, Together We Stay![/color][/b][/i]
-[i][b][color=darkgreen]Founded December, 26 2015[/color][/b][/i]
+[b][color=darkblue]Welcome to British Territories ![/color][/b]
+[color=darkyellow]United We Stand , Together We Stay ![/color]
+[i][color=darkgreen]Founded 26 December 2015[/color][/i]
+
 [hr]
+
+[i][url=http://www.mediafire.com/download/hji4i91ekvwi3kg/FlagMaker+1.7.zip]Flag Maker[/url] | [url=http://www.nationstates.net/page=dispatch/id=330837]NS Codes[/url] | [url=https://nsissues.wordpress.com/]NS Issues Helper[/url] | [url=http://www.nationstates.net/page=dispatch/id=542591]Roleplay Map[/url] (TG [nation=short+noflag]British Oceania Islands[/nation] To Claim Land)[/i]
+
+[hr]
+
 [b][color=darkblue]Goverment[/color][/b]
-[b][color=darkred]Monarch        : [nation=short]Commonwealth Realm[/nation][/color][/b]
-[b][color=darkred]Prime Minister : [nation=short]British Oceania Islands[/nation][/color][/b]
-[b][color=darkred]Goverment     : [/color]unfilled[/b]
-[b][color=darkred]Goverment     : [/color]unfilled[/b]
+
+[list]
+
+[*][i][color=darkred]Monarch          : [nation=short]Commonwealth Realm[/nation][/color][/i]
+
+[*][i][color=darkred]Prime Minister    : [nation=short]British Oceania Islands[/nation][/color][/i]
+
+[*][i][color=darkred]Chief Justice     : [nation=short]British North American Territory[/nation][/color][/i]
+
+[*][i][color=darkred]Communications Officer   : [nation=short]Stindia[/nation][/color][/i]
+
+[/list]
 
 
-[hr]
+
+

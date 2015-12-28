@@ -3,7 +3,7 @@ Check out our [url=http://www.ulpns.boards.net]Forums[/url]
 
 [b]Government
 Chancellor[/b]: [nation]Hydra-Russian Empire[/nation]
-[b]Vice-Chancellor[/b]: [nation]Drakorvanyia[/nation]
+[b]Vice-Chancellor[/b]: [nation]United Britons[/nation]
 [b]Minister of Defence[/b]: [nation]United Britons[/nation]
 
 [b]Cabinet of Defence:[/b]
@@ -16,7 +16,7 @@ Chancellor[/b]: [nation]Hydra-Russian Empire[/nation]
 [b]Spokesman[/b]: [nation]Ladangin[/nation]
 [b]SEAT 1[/b]: [nation]United Britons[/nation]
 [b]SEAT 2[/b]: [nation]Ladangin[/nation]
-[b]SEAT 3[/b]: [nation]Drakorvanyia[/nation]
+[b]SEAT 3[/b]: none
 
 
 [color=gold][i][B]Gloriam Lunctus Legio de Pax[/B][/i][/color]

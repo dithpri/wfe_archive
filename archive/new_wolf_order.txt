@@ -7,7 +7,9 @@ Delegate: [nation]Wolfdon[/nation]
 Defense: [nation]Sanmibo[/nation]
 
 
-Foreign Negotiations: [/spoiler] | [spoiler=Parliament]President: Not Elected
+Foreign Negotiations:
+
+Head of Intelligence: [nation]Die Wache Reich[/nation] [/spoiler] | [spoiler=Parliament]President: Not Elected
 
 RP Master:
 
@@ -21,8 +23,6 @@ Religion:
 Foreign Campus: [nation]Lihon[/nation]
 
 Games:[/spoiler] | [spoiler=Extras]Order of the day: Determine if carrots can be used for anything other than eating.
-
-Song of the day: Pentakill - Lightbringer
 
 Regional News: GET A POSITION!
 
