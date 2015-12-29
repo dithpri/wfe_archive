@@ -1,12 +1,8 @@
-[Color=Steelblue][B]Welcome to the Independent Kingdom of Taren[/B]
-[i]Home to those who would brave a new path, who would build a new world, who would begin again[/COLOR]
-Est. June 15, 2015[/i], [b]ReEst. December 27th, 2015[/b]
-[hr]
-[b]*** Federal Government ***[/b]
-[b][color=darkblue]Royal Chancellor: [nation=AzureWind]
-Lord Protector: [nation=Mint Tea][/color]
-[color=darkred]High Chairman: [nation=Arco-Nevahik]
-Field Marshall: [nation=Mohailian Arhipelago] [/color][/b]
-[hr]
-[B][COLOR=blue]Public Announcements:[/color][/b] [b][color=gold]New Taren Confederacy founded... The War Hawk Faction now extinct... The Monarchy Established... The new home of the Celestial Riders![/color][/b]
-[b]Population Goal:[/b] 30
+[b][color=#000061]Huzzah! Huzzah! Huzzah! This region proved no match for a charge by the [region]Black Riders[/region]![/color]
+
+[color=black]Occupied by [url=https://www.youtube.com/watch?v=4-hG-ACbuFY]The Black Riders[/url]! [/color] 
+
+[color=#000061]Into the battle rode the following riders:[/color]
+
+[nation=short]WraithFIN[/nation]
+[nation=short]Cora II[/nation][/b]

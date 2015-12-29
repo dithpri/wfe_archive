@@ -2,22 +2,15 @@
 [B][color=lightblue]It&#39;s time to FEEL THE BERN[/b][/color]
 [color=yellow][b]Government Type:[/b][/color] [color=purple]Authoritarian Democracy[/color]
 
-[b][color=darkred]Peace is a lie, there is only passion.
-Through passion, I gain strength.
-Through strength, I gain power.
-Through power, I gain victory.
-Through victory, my chains are broken.
-The Force shall free me.[/color][/b]
-
-[color=yellow][b][u][i]Order of the Sith[/b][/u][/i][/color]
-[color=silver]Master of the Sith:[/color][nation=Bulmagon]
-[color=darkgreen]Sith Apprentice:[/color][nation]The Chitin Hive[/nation]
+[color=yellow][b][u][i]Executive Branch[/b][/u][/i][/color]
+[color=silver]Governor of Pac Pac:[/color][nation=Bulmagon]
+[color=darkgreen]Lt. Governor of Pac Pac:[/color][nation]The Chitin Hive[/nation]
 [hr]
-[b][u][i][color=yellow]Galatic Empire[/b][/u][/i][/color]
-[color=blue]Grand Moff: [nation=Bazookistan][/color]
-[color=red]Grand Inquisitor: [nation]Scary Mike[/nation][/color]
-[color=silver]Grand Chancellor: [nation]KingHellscythe[/nation][/color] 
-[color=orange]Grand Admiral: [/color] [nation]Atticusland[/nation]
+[b][u][i][color=yellow]Legislative Branch[/b][/u][/i][/color]
+[color=blue]Senator and Chairman of Embassies: [nation=Bazookistan][/color]
+[color=red]Senator and Chairman of Borders: [nation]Scary Mike[/nation][/color]
+[color=silver]Senator and Chairman of Voting: [nation]KingHellscythe[/nation][/color] 
+[color=orange]Senator and Chairman of Appearance : [/color] [nation]Atticusland[/nation]
 [hr]
-[b][color=green]Bill(s) with the Secretaries:0[/color]
+[b][color=green]Bill(s) in the Senate: 2[/color]
 [color=yellow]Bill(s) on the Governor&#39;s Desk: 0[/color][/b]
