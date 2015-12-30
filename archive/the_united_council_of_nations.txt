@@ -9,6 +9,15 @@
 
 [u][b][color=#40BF00]The General Assembly[/color][/b][/u]
 
+[nation]Partola[/nation]
+[nation]NewLeinster[/nation]
+[nation]Facinorusus[/nation]
+[nation]SnowKeep[/nation]
+[nation]Gamer World[/nation]
+[nation]Armed Nation of Apocalypse Believers[/nation]
+[nation]Antarcteca[/nation]
+[nation]The Democratic Soviet Union[/nation]
+
 [u][B][color=#FFBF00]Security Council[/color][/B][/u]
 
 [B]-[/B]

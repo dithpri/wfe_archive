@@ -16,9 +16,9 @@
 
 [*][i][color=darkred]Prime Minister    : [nation=short]British Oceania Islands[/nation][/color][/i]
 
-[*][i][color=darkred]Chief Justice     : [nation=short]British North American Territory[/nation][/color][/i]
+[*][i][color=darkred]Foreign Affairs Minister : [nation=short]British North American Territory[/nation][/color][/i]
 
-[*][i][color=darkred]Communications Officer   : [nation=short]Stindia[/nation][/color][/i]
+[*][i][color=darkred]Communications Minister : [nation=short]Stindia[/nation][/color][/i]
 
 [/list]
 

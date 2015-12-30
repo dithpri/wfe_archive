@@ -1,18 +1,23 @@
 [b]Carlsvad Union(EN)/Karlswadunion(DE)/Uni Karlsvad(IND)[/b] 
 
 [b]Union Council[/b]:
-[nation]German Indonesia[/nation]
--President Field Marshal David Peterson Marks(Head of State &amp;amp; Gov)
-[nation]Klemantan-Borneo[/nation]
--King Martin &amp;amp; Queen Erika Theresa von Cartenberg-Utreck(Head of State)
--Minister-President Irene Madson(Head of Gov)
-[nation]Rangoosia[/nation]
--President Deborah von Specjk(Head of State)
--Prime Minister Julie Moore(Head of Gov)
+-[nation]German Indonesia[/nation]
+-[nation]Klemantan-Borneo[/nation]
+-[nation]Rangoosia[/nation]
 
 [b]Other Territories[/b]:
-[nation]Carlsvad Uloi[/nation]
--High Commissioner Air Marshal Konstantin Rokossovsky(Government Representative)
+-[nation]Carlsvad Uloi[/nation]
+
+[b]Colonies and Overseas Dependencies[/b]:
+
+[i]Colonies[/i]
+-[nation]Carlsvad St Martin[/nation]
+-[nation]Carlsvad Armagh[/nation]
+-[nation]Carlsvad Stracci[/nation]
+
+[i]Overseas Dependencies[/i]
+-[nation]Markenstadt[/nation]
+-[nation]Themosticles[/nation]
 
 [b]Factbook(s)[/b]:
 [url=http://www.nationstates.net/nation=german_indonesia/detail=factbook/id=297814]German Indonesia[/url] | [url=http://www.nationstates.net/nation=klemantan-borneo/detail=factbook/id=297811]Klemantan-Borneo[/url] | [url=http://www.nationstates.net/nation=rangoosia/detail=factbook/id=main]Rangoosia[/url] |  [url=http://www.nationstates.net/page=dispatch/id=423024]Carlsvad Uloi[/url]

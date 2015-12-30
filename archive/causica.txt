@@ -5,7 +5,6 @@ NATIONS:
 - [nation=short]Bubblopa[/nation]
 - [nation=short]Fuchsianna[/nation]
 - [nation=short]Mortar and Pestle[/nation]
-- [nation=short]New Romana[/nation]
 - [nation=short]Zappa Zappa[/nation]
 
 Causica hosts:
