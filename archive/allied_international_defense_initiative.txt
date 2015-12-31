@@ -7,8 +7,7 @@ Secretary of Allied Ground Forces: Vacant
 Secretary of Allied Naval Forces: Vacant
 Secretary of Allied Aerial Forces: Vacant
 Secretary of Allied Special Forces: Vacant
-Secretary of Intelligence: Vacant
+Secretary of Intelligence: [nation]Maltta[/nation]
 Secretary of Public Affairs: [nation]Barrasso[/nation]
--Public Affairs Consultant: [nation]NEO Rome Republic[/nation]
 
 [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;t=363600]Allied International Defense Initiative Joint Special Operations Command[/url]

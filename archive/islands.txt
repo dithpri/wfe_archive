@@ -6,5 +6,7 @@ OUR LEADER:
 OUR WA DELEGATE:
 [nation=None]
 Please join US.We will help you grow and prosper along with US!
+Please endorse our WA Delegate:
+[nation=None]
 NATIONS BANNED FROM ISLANDS:
 [nation=hitler hitler stalin]
