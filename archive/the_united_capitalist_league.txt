@@ -1,18 +1,7 @@
-[b][color=darkblue]Hello, and welcome to[/color] [color=red]The United Capitalist League[/color][color=darkblue].
-[hr]Here we follow and practice the mighty ideas of[/color] [color=red]libertarianism[/color] [color=darkblue]and[/color] [color=red]capitalism[/color][color=darkblue]![/color]
-[hr][url=https://www.nationstates.net/page=dispatch/id=529280]Apply for citizenship here[/url].
-[hr][color=red][u]Regional Cabinet:[/u][/color]
-[color=darkblue]Speaker of the House: [nation=short]Libermerica[/nation]
-President: [to be democratically elected]
- Vice President: [to be selected by the president]
-Secretary of State: [vacant]
-Attorney General: [vacant]
-Secretary of Defence: [nation=short]Libermerica[/nation]
-Secretary of Foreign Affairs: [vacant]
-Secretary of the Interior: [nation=short]Kingdoms of Lawsonton and Birkdale[/nation]
-Secretary of Homeland Security: [vacant]
-Secretary of Commerce: [vacant][/color]
-[color=red][i]
-
-To apply for a regional position, or if you have a suggestion for another type of secretary, please contact [nation=short]Libermerica[/nation][/i][/color].
-[hr][color=red]More coming soon![/color][/b]
+[color=red][i]This region was taken over by [region]The United Socialist League[/region] &amp; [region]Novus Universale[/region] on the January 1st, 2016, at the dawn of the new year![/i]
+[hr][b][u]Raiders:[/u][/b]
+[list][*][b][u]Leader:[/u][/b]
+[list][*][nation=short]The United Socialist League[/nation] ([nation=short]The Ancient Greek City-State of Athens[/nation])[/list]
+[*][b][u]Trigger:[/u][/b]
+[list][*][nation=short]Penasal[/nation] ([nation=short]Nova Auraluxia[/nation])[/list][/list]
+[hr][b]NO GOOD CAN COME FROM CAPITALISM. NO GOOD CAN COME FROM FASCISM.[/b][/color]

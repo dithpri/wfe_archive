@@ -17,6 +17,8 @@
 [nation]Armed Nation of Apocalypse Believers[/nation]
 [nation]Antarcteca[/nation]
 [nation]The Democratic Soviet Union[/nation]
+[nation]Mars13[/nation]
+[nation]Greater Ossetia[/nation]
 
 [u][B][color=#FFBF00]Security Council[/color][/B][/u]
 
