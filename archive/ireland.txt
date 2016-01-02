@@ -1,22 +1,23 @@
-[color=Green][b][u]Welcome to [/color][color=LightGray]The Republic of [/color][color=DarkOrange]Ireland[/b][/u][/color]
+[u][B][color=DarkGreen]Welcome to [/color][color=DarkGrey]The Free Republic[/color][color=DarkOrange] of Ireland[/u][/color]
+
+[color=DarkGreen]A founder and member of An C&oacute;naidhm &Eacute;ireannach, The Irish Federation[/color]
 [hr]
 
-[b][color=green]&Eacute;ire Beo Fada Agus Poblacht! 
-Please Join the World Assembly and Endorse Prime Minister [nation=short]Vichtander[/nation][/color][/b]
-
-
-[hr]
-[color=green][B]Greetings from the land of &Eacute;ire! Feel free to stay for a while, in the meantime, you can help us set up the new government, recently liberated.[/B][/color]
-
-
-[hr]
-[url=https://www.youtube.com/watch?v=5ljW15seSAI]Regional Anthem[/url]
-[b][color=DarkGreen][u]Aireacht na h&Eacute;ireann[/u][/color]
-[color=DarkOrange]Taoiseach (Prime Minister):[nation=short]Vichtander[/nation]
-T&aacute;naiste (Deputy Prime Minister):[nation=short]Halfinshap[/nation]
-[/color]
-
+[color=darkgreen]Oh, come out you black and tans, 
+Come out and fight me like a man 
+Show your wives how you won medals down in Flanders 
+Tell them how the IRA made you run like hell away, 
+From the green and lovely lanes in Killashandra[/color]
 [hr]
 
-[color=DarkOrange]General News: [/color]
-[color=green][*]Contact Prime Minister Vichtander for More Information on Joining the Aireacht (Ministry)[/color][/b]
+[color=DarkOrange]Greetings from the land of &Eacute;ire! Feel free to stay and have the craic![/color]
+[color=Darkgreen]Please Join the World Assembly and Endorse IRA Chief of Staff and Prime Minister [nation=short]Vichtander[/nation]
+[hr]
+[url=https://www.youtube.com/watch?v=OT0yoo9B2Bc]Regional Anthem[/url]
+
+[u]Aireacht na h&Eacute;ireann[/u][/b][/color]
+[b][color=DarkOrange]Taoiseach (Prime Minister):[/color] [nation=short]Vichtander[/nation]
+[color=DarkOrange]T&aacute;naiste (Deputy Prime Minister)[/color]: [nation=short]Halfinshap[/nation]
+[hr]
+[/B]
+ 

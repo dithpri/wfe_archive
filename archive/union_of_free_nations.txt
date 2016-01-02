@@ -7,7 +7,7 @@
 [b][u]Foreign Office[/b][/u]
 [nation=short]etna[/nation]
 [b][u]Ministry of Domestic Affairs[/b][/u]
-[b]VACANT[/b]
+[nation=short]wileyburg[/nation]
 [b][u]Supreme Judicial Court[/b][/u]
 [nation=short]Talkistan[/nation]
 [nation=short]ashkera[/nation]

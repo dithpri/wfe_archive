@@ -11,8 +11,7 @@
 [hr]
 
 [b]High Command of BoSS[/b]
-[b][nation=short]In Gentem Et De Libris Scientiam[/nation]
-[nation=short]The Type 49 TARDIS[/nation]
+[b][nation=short]The Type 49 TARDIS[/nation]
 [nation=short]Vandoosa[/nation][/b]
 
 [b]Support officers:

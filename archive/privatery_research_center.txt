@@ -1,0 +1,12 @@
+[color=red]This Research Center is under the influence of the region of [region]Privatery[/region][/color]
+
+[color=Blue]The Research Center is Mainly used for Researching but it involves 
+Mining,Transportation,Building too.[/color]
+ 
+[color=green]Leading of the corporation[/color]
+[color=Blue]CEO[/color]:[nation]PRC Corporation[/nation]
+[color=Blue]Chief Researcher[/color]:[nation]Finnugoria[/nation]
+[color=Blue]Chief Miner[/color]:[nation]Guatek[/nation]
+[color=Blue]Chief Architect[/color]:[nation]Pokatek[/nation]
+
+[color=green]The EOTP Protocol is Active[/color]

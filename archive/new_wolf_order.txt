@@ -10,9 +10,9 @@ Defense: [nation]Sinful Wolf[/nation]
 Foreign Negotiations: [nation]K C O Headquarters[/nation]
 
 
-Head of Intelligence: [nation]Die Wache Reich[/nation] [/spoiler] | [spoiler=Parliament]President: Not Elected
+Head of Intelligence: [nation]Die Wache Reich[/nation] [/spoiler] | [spoiler=Parliament]President: [nation=short]AgroFox[/nation]
 
-RP Master:[nation]Australian Antarctica[/nation]
+RP Master: [nation]Australian Antarctica[/nation]
 
 Treasurer: [nation]Lihon[/nation]
 
@@ -26,4 +26,4 @@ Games:[/spoiler] | [spoiler=Extras]Order of the day: Determine if carrots can be
 
 Regional News: GET A POSITION!
 
-Debate: What is your favorite/least favorite thing about Christmas?[/spoiler] |[/b] 
+Debate: What are you planning to do in this new young year?[/spoiler] |[/b] 
