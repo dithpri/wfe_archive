@@ -12,7 +12,7 @@
 [color=darkred][b][i]Minister of Europe:[/b][/color][/i]
 [nation=short]Cinnabarra[/nation]
 [color=darkred][b][i]Minister of the Pacific:[/b][/color][/i]
-[i]Elections in Progress[/i]
+[nation=short]Castilian Iberia[/nation]
 
 [color=darkred][b][i][u]Cartographer[/i][/u][/b][/color]
 [nation=short]Szechijchalugyzstanuslavia[/nation]

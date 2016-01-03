@@ -1,15 +1,22 @@
-[b][color=33EEFF]CROM! [/color][color=33BBDD]This region proved no match for a charge by [region=Cimmeria]ns![/color]
+[color=33BBDD]There is no emotion, there is peace.
+There is no ignorance, there is knowledge.
+There is no passion, there is serenity.
+There is no chaos, there is harmony.
+There is no death, there is the Force.[/color]
 
-[color=6644EE]Occupied by [url=https://www.youtube.com/watch?v=w2gcpFU-78k]The Cimmerian Raider Mercenaries[/url]! Our lair can be found [/color] [url=http://forum.nationstates.net/viewtopic.php?f=12&amp;t=339493]here[/url]
+[color=6644EE] This is the code we live by. The code on which our order was built. Long ago, on the home planet of the Jedi, Tython, an entire civilization of Jedi lived together in peace and harmony, following this code.[/color]
 
-[color=#00BBEE]Into the battle marched the following mercs:[/color]
+[color=#00BBEE]We are the defenders of all that is good, the righteous peacekeepers of the light side.[/color]
 
-Merc [nation=short]Cora II[/nation]
-Merc [nation=short]Vandoosa[/nation]
-Merc [nation=short]The Type 49 TARDIS[/nation]
-Merc [nation=short]Demzelka[/nation]
-Merc [nation=short]SirZane[/nation]
+[color=#6644EE]The Jedi Council:[/color]
+[color=#800080]Grand Master:[/color] 
+[nation=short]Jedi Clarinetists[/nation]
 
-[color=#00BBEE]And they were promptly KICKED out and banned by the proper authorities.[/color]
+[color=#00FF00]Jedi Masters:[/color] 
+[nation=short]NewJediOrder[/nation]
+[nation=short]CC-2224[/nation]
+[nation=short]Ct-7567[/nation]
 
-The Jedi Order is now officially back in control of the Region, and once we hear back from everyone, we can put the factbook entry back to the way it should be.
+[color=#0000FF]Jedi Knights:[/color]  
+[nation=short]The Osean nation[/nation]
+                   [nation=short]Velinsk[/nation]

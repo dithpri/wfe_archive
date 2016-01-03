@@ -15,8 +15,11 @@
 [nation=short]Vandoosa[/nation][/b]
 
 [b]Support officers:
-[nation=short]Greyghost[/nation]
 [nation=short]Stalker Queen[/nation]
 [nation=short]BoSS-Oberstgruppenfuehrer Tom Vasentius[/nation]
 [nation=short]Rabidsaw[/nation][/b]
 [nation=short]Cora II[/nation] Honorary Officer Merc
+
+[b]With help, from friends:
+[nation=short]In Gentem Et De Libris Scientiam[/nation]
+[nation=short]Greyghost[/nation][/b]

@@ -8,12 +8,7 @@
 
 [color=maroon][b][u]HIM Superior Council[/u][/b][/color]
 [b]Lord Overseer[/b] [nation=short]Grantine[/nation]
-[b]Lord Overseer[/b] [nation=short]Imperial Royal Union[/nation]
-
-[hr]
-
-[b][color=green][u]The Imperial Diet[/color][/u][/b]
-[b]Lord Speaker:[/b] [nation=short]Keralia[/nation]
+[b]Lord Overseer[/b] [nation=short]Keralia[/nation]
 [hr]
 
 [spoiler=Regional Storefronts]

@@ -1,5 +1,5 @@
-[b][color=darkred]Welcome to [region]The United Empire[/region][/color]
-[color=darkred]M[/color][color=darkgreen]e[/color][color=darkred]r[/color][color=darkgreen]r[/color][color=darkred]y[/color] [color=darkgreen]C[/color][color=darkred]h[/color][color=darkgreen]r[/color][color=darkred]i[/color][color=darkgreen]s[/color][color=darkred]t[/color][color=darkgreen]m[/color][color=darkred]a[/color][color=darkgreen]s[/color][/b]
+[b][color=darkred]Welcome to [region]The United Empire[/region][/color][/b]
+
 
 
 The stars on our flag represent each member nation, with the eagle representing [nation]astro germinasia[/nation] and the burning rose representing [nation]pyravia[/nation]

@@ -1,1 +1,24 @@
-a
+[b]The Coalition[/b]
+Created as a Coalition of united nations to promote a united defense and improve prosperity.
+
+[b]Coalition&#39;s Standing Defense Force[/b]
+A force dedicated to the protection of it&#39;s member nations. 
+
+Troops: 150,000 total
+Contributed by-
+[nation]New Espen[/nation]
+[nation]Latriva[/nation]
+[nation]New Fortania[/nation]
+
+Air: 150
+Contributed by-
+[nation]New Espen[/nation]
+[nation]Latriva[/nation]
+[nation]New Fortania[/nation]
+
+Sea: 24
+Contributed by-
+[nation]New Espen[/nation]
+[nation]Latriva[/nation]
+[nation]New Fortania[/nation]
+
