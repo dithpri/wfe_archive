@@ -4,11 +4,21 @@ WA delegate: Position open to any nation
 
 Intelligence Officer: Position open to any nation
 
-General: Position open to any nation
+General:[nation]African Arabian states of democracy[/nation]
+
+Recruitment Officer: Position open to any nation
 
 Ambassador: Open to any nation
 
+Moderator 1: Open to any nation
+
+Moderator 2: Open to any nation
+
+Moderator 3: Open to any nation
+
 To apply for an officer position please telegram [nation]The united states of kalenia[/nation]
+
+Alert level:[color=green]DEFCON 5[/color]
 
 [hr]
 [b]The Left Wing Army is a region dedicated to the destruction of far right wing movements such as fascism.[/b]
