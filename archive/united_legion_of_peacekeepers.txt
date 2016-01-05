@@ -13,9 +13,9 @@ Chancellor[/b]: [nation]Hydra-Russian Empire[/nation]
 [b]SEAT 2[/b]: [nation]The Destroyer of Darkness[/nation]
 
 [b]SENATE[/b]:
-[b]Spokesman[/b]: [nation]Ladangin[/nation]
+[b]Spokesman[/b]: none
 [b]SEAT 1[/b]: [nation]United Britons[/nation]
-[b]SEAT 2[/b]: [nation]Ladangin[/nation]
+[b]SEAT 2[/b]: none
 [b]SEAT 3[/b]: none
 
 
