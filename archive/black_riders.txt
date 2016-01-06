@@ -4,8 +4,7 @@
 [b][color=black][i]The GENERAL STAFF[/i][/color][/b]
 
 [b][color=darkred]Commander in Chief:[/color] [nation=short]Feuer Ritter[/nation]
-[color=darkred]Field Marshal[/color] [nation=short]Nordic Arbor[/nation]
-[color=darkred]Black Ops. General:[/color] [nation=short]WraithFIN[/nation]
+[color=darkred]General:[/color] [nation=short]WraithFIN[/nation]
 [color=darkred]Colonel:[/color] [nation=short]Vandoosa[/nation]
 [color=darkred]Mercenary Reserve Backup:[/color] [nation=short]Cora II[/nation][/b]
 [hr]

@@ -4,20 +4,20 @@ WA delegate: Position open to any nation
 
 Intelligence Officer: Position open to any nation
 
-General:[nation]African Arabian states of democracy[/nation]
+General:[nation]The pakistani army[/nation]
 
 Recruitment Officer: Position open to any nation
 
-Ambassador: Open to any nation
+Ambassador:[nation]Beaglemound[/nation]
 
-Moderator 1: Open to any nation
+Moderator 1: [nation]Of Experimental Aidanania[/nation]
 
 Moderator 2: Open to any nation
 
 Moderator 3: Open to any nation
 
 To apply for an officer position please telegram [nation]The united states of kalenia[/nation]
-
+[hr]
 Alert level:[color=green]DEFCON 5[/color]
 
 [hr]

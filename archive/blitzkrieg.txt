@@ -7,6 +7,7 @@
 [color=333333]Head of Government: [nation=short]German Dragons[/nation]
 Information and Intelligence: [nation=short]Captain Woodhouse[/nation]
 Military Commander: Generalfeldmarshall [nation=short]GreatNazis[/nation]/[nation=short]NE OKW[/nation]
+Military Lieutenant Commander: [nation=short]Verborgenen Herrn[/nation]
 Head of Foreign Relations: [nation=short]Scarsaw[/nation]
 Minister of Propaganda: [nation=short]The Gregorach[/nation]
 Polls Officer: [nation=short]Of Leben[/nation]
