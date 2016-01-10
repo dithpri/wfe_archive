@@ -4,12 +4,9 @@
 
 [color=#000034]Troops:[/color][color=#9a6601]
 
-Sergeant [nation=short]The Type 49 TARDIS[/nation]
-Sergeant [nation=short]In Gentem Et De Libris Scientiam[/nation]
-Private [nation=short]Greyghost[/nation]
-Private [nation=short]Lacos[/nation]
-Private [nation=short]The Eniritium[/nation]
-Horseman [nation=short]The Tomanian Reich[/nation] from [region]Auralia[/region]
+Lieutenant [nation=short]The Type 49 TARDIS[/nation]
+Corporal [nation=short]Liddell Hart[/nation]
+Private First Class [nation=short]Socker-bit[/nation]
 [hr]
 
 [/color][url=http://w11.zetaboards.com/DEN/index/][color=#000034]Join DEN in the [/color][color=#9a6601] conquest of NationStates![/color][/url][/b]

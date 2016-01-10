@@ -1,2 +1,1 @@
-Region description at
 nation=dmd_founder/detail=factbook/id=main

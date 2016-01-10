@@ -2,9 +2,6 @@
 
 [b][color=red]We are[/color] [color=#B0B0B0]an official[/color] [color=blue]democracy![/color][/b]
 
-[color=blue][b]Endorse your Delegate:[/b][/color]
-[nation]Vivianation[/nation]
-
 [color=red][b]If you have a problem with the government, contact the Founder:[/b][/color]
 [nation]Konstantinus[/nation]
 
@@ -12,7 +9,8 @@
 [list]
 [*][nation]Dingalingia[/nation]
 [*][nation]Sydnaeus[/nation]
-[*][nation]Thomopolis[/nation][/list]
+[*][nation]Inquestnia[/nation][/list]
+
 [B]If you would like to run for a position go to this link:[/B]
 [url=https://docs.google.com/forms/d/12ZO5Pc85AwjZnfJODtwDGjXl5y5SUIEIa9v4KzUxaZY/viewform]Government Application Form[/url]
 [/color]

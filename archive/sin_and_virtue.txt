@@ -1,1 +1,35 @@
-N/A
+Sins
+
+Sin - [nation=short]Sin Astarte[/nation]
+
+1. Lust - [nation=short]Luxuria Astarte[/nation]
+
+2. Gluttony - [nation=short]Gula Astarte[/nation]
+
+3. Greed - [nation=short]Avaritia Astarte[/nation]
+
+4. Sloth - [nation=short]Acedia Astarte[/nation]
+
+5. Wrath - [nation=short]Ira Astarte[/nation]
+
+6. Envy - [nation=short]Invidia Astarte[/nation]
+
+7. Pride - [nation=short]Superbia Astarte[/nation]
+
+Virtues
+
+Virtue - [nation=short]Virtue Artemisia[/nation]
+
+1. Chastity - [nation=short]Castitas Artemisia[/nation]
+
+2. Temperance - [nation=short]Temperantia Artemisia[/nation]
+
+3. Charity - [nation=short]Caritas Artemisia[/nation]
+
+4. Diligence - [nation=short]Industria Artemisia[/nation]
+
+5. Patience - [nation=short]Patientia Artemisia[/nation]
+
+6. Kindness - [nation=short]Benevolentia Artemisia[/nation]
+
+7. Humility - [nation=short]Humilitas Artemisia[/nation]

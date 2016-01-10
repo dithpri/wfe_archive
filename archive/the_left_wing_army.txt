@@ -2,7 +2,7 @@ Head of State:[nation]The United States of Kalenia[/nation]
 
 WA delegate: Position open to any nation
 
-Intelligence Officer: Position open to any nation
+Intelligence Officer: [nation]Names are too mainstream[/nation]
 
 General:[nation]The pakistani army[/nation]
 
@@ -12,15 +12,13 @@ Ambassador:[nation]Beaglemound[/nation]
 
 Moderator 1: [nation]Of Experimental Aidanania[/nation]
 
-Moderator 2: Open to any nation
+Moderator 2:[nation]PFQ Recruiting Office[/nation]
 
-Moderator 3: Open to any nation
+Moderator 3:[nation]The Republic Of Falaria[/nation]
 
 To apply for an officer position please telegram [nation]The united states of kalenia[/nation]
 [hr]
-Alert level:[color=green]DEFCON 5[/color]
+Alert level:[color=orange]DEFCON 3[/color]
 
 [hr]
 [b]The Left Wing Army is a region dedicated to the destruction of far right wing movements such as fascism.[/b]
-
-

@@ -1,9 +1,9 @@
 Board Game Nations is a region meant for the players of Board Game Online. Neutralistic.
 [hr][b][u]High Council[/u][/b]
 Lord Regent: [nation=short]Frostorn[/nation]
-Crown Prince: [nation=short]Fraloza[/nation]
-Crown Princess:
-First Princess: [nation=short]Darkitopia[/nation]
+Crown Prince: 
+Crown Princess: [nation=short]Darkitopia[/nation]
+First Princess: [nation=short]Clanktopolis[/nation]
 Second Princess: 
 Master of War: [nation=short]Grarrgtopia[/nation]
 - Lord Admiral: [nation=short]Fresas[/nation]

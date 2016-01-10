@@ -5,8 +5,7 @@
 
 [b][color=darkred]Commander in Chief:[/color] [nation=short]Feuer Ritter[/nation]
 [color=darkred]General:[/color] [nation=short]WraithFIN[/nation]
-[color=darkred]Colonel:[/color] [nation=short]Vandoosa[/nation]
-[color=darkred]Mercenary Reserve Backup:[/color] [nation=short]Cora II[/nation][/b]
+[color=darkred]General:[/color] [nation=short]Vandoosa[/nation]
 [hr]
 
 [b][i][color=black]ORDER OF THE DAY[/color][/i][/b]
