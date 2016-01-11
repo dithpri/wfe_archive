@@ -1,7 +1,7 @@
 Regional motto:[u][b]Theos katanalisko pyr[/b][/u]
-[url=http://www.nationstates.net/page=dispatch/id=367962][b][color=blue][u]The House of Winter[/u][/color][/b][/url]
-   Representative:[nation]Italiasa[/nation]
-   Barron:[nation]Italiasa[/nation]
+[url=http://www.nationstates.net/nation=thoncania/detail=factbook/id=main][b][color=blue][u]The House of Winter[/u][/color][/b][/url]
+   Representative:[nation]Thoncania[/nation]
+   Barron:[nation]Thoncania[/nation]
  
 [url=http://www.nationstates.net/page=dispatch/id=368684][b][color=grey][u]The House of Wolves[/u][/color][/b][/url]
    Representative:[nation]Awesamness[/nation]

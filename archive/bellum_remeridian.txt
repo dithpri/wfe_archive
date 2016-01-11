@@ -1,4 +1,5 @@
 [color=2e49a2][B]Bellum Remeridian[/B][/color]
+[hr]
 [B]
 [color=red]We are[/color] [color=#B0B0B0]an official[/color] [color=blue]democracy![/color]
 [/B]
@@ -6,13 +7,15 @@
 [B][color=2e49a2]If you have a problem with the government, contact the Founder:[/color][/B]
 [nation]Vivianation[/nation]
 
-[color=2e49a2][B]Our Government:[/B][/color]
-[list]
-[*][nation]Thomopolis[/nation]
-[*][nation]Supercommunism[/nation]
-[*][nation]Bogterria[/nation]
-[/list]
+[B][color=2e49a2]Endorse our WA Delegate:[/color][/B]
+[nation]Bogterria[/nation]
 
+[color=2e49a2][B]Other government positions:[/B][/color]
+[list]
+[*][nation=short]Thomopolis[/nation]
+[*][nation=short]Supercommunism[/nation]
+[/list]
+[hr]
 [color=2e49a2][B]Important Links:[/B][/color]
 [list]
 [*]Rules/RP forum (coming)
@@ -21,3 +24,4 @@
 [*][url=http://goo.gl/forms/ly2P3i1UNX]Map/Military Signup[/url]
 [*][url=http://www.hinchgraphics.com/wp-content/uploads/2016/01/MapPSD.png]Custom Map[/url]
 [/list]
+[hr]

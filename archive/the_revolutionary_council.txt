@@ -9,7 +9,7 @@
 [b]LEAGUE OF NATIONS
 Security Council[/b]
 
-Secretary General: [nation=short]Yauni Kyran[/nation]
+Secretary General: [nation=short]Yauni Kyran[/nation] [i](in current affairs)[/i] - [color=green][b]ELECTIONS[/b][/color]
 
 Europe: [nation=short]Jeune France[/nation]
 North America: [nation=short]Kernuskt[/nation]

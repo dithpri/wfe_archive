@@ -1,17 +1,17 @@
-The Central Collective Conglomerate consists of:
+[region]The Central Collective Conglomerate[/region] consists of:
 
-Torbj&oslash;rn:
-AKoM Federation
-New-Murica
-Grey Rock Road
-Subsea
-The Sectoid Empire
+[b]Torbj&oslash;rn:[/b]
+[nation]AKoM Federation[/nation]
+[nation]New-Murica[/nation]
+[nation]Grey Rock Road[/nation]
+[nation]Subsea[/nation]
+[nation]The Sectoid Empire[/nation]
 
-Trond:
-Elite Collective
+[b]Trond:[/b]
+[nation]Elite Collective[/nation]
 
-Rune:
-Order of Reason
-Runarian
-The Postapocalyptic Wasteland
-United Viking Tribes
+[b]Rune:[/b]
+[nation]Order of Reason[/nation]
+[nation]Runarian[/nation]
+[nation]The Postapocalyptic Wasteland[/nation]
+[nation]United Viking Tribes[/nation]
