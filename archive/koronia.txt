@@ -1,12 +1,9 @@
 [B][U][Color=Purple]Welcome to [Region]Koronia[/Region]! We are a dynamic and friendly Region. We encourage any nation from the political spectrum to come join us.[/Color][/U][/B]
-[Color=Blue][B][U]Founder &amp; Delegate of [Region]Koronia[/Region][/U][/B]:
-[Nation]Federate Empire[/Nation]-Founder and Regional Chairman
-[Nation]Hangdaou[/Nation]-WA Delegate
 
-[B][U]Government:[/U][/B][/Color]
+[Color=Blue][B][U]Government:[/U][/B][/Color]
 [Color=Purple]His Majesty, King of Koronia:
 Prime Minister:
-Speakers:
+Speakers: [nation=Rapture novice]
 Chief Justices:
 Prosecutor-General:[/Color]
 [hr]
