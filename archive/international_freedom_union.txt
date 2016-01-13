@@ -11,9 +11,9 @@ WA Delegate: [nation=short]Alexander Hermann[/nation] (UM)
 
 Speaker:
 
-Recruitment Team: [nation=short]Great Carlistan[/nation] (Y)
+Chief Recruiter: [nation=short]Great Carlistan[/nation] (Y)
 
-Roleplay Commission:
+Roleplay Commissioner: [nation=short]Mstislav[/nation] (T)
 
 Minister of Foreign Affairs: [nation=short]Savalen[/nation] (Y)
 

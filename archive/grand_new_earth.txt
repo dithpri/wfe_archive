@@ -1,4 +1,4 @@
-Inter-Regional Diplomats Per Nation
+[color=green][b][i][u]Inter-Regional Diplomats Per Nation[/u][/i][/b][/color]
 [nation]Tri-Sovereign Socialist Republic[/nation] Sergei Akhromeyev
 [nation]Otaku Hikomor[/nation] Kazudo Takahashi
 [nation]Xedinous[/nation] Dezi Oliver
@@ -13,4 +13,4 @@ Inter-Regional Organizations
 [color=red]National Socialist Workers Union[/color] Zakoriav Grigori
 [color=Orange]United Earth Council[/color] Philip Charon
 
-Current date 1/8/2776
+Current date 1/13/2776
