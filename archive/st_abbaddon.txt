@@ -12,7 +12,6 @@ Captain [nation=short]Gladio III[/nation]
 Sergeant [nation=short]North Pacific Spy[/nation]
 Sergeant [nation=short]The Type 49 Tardis[/nation]
 Private First Class [nation=short]Demzelka[/nation]
-Private First Class [nation=short]SunGoddess[/nation]
 Private First Class [nation=short]ChingisOtchigin[/nation]
 Private [nation=short]Heksennacht[/nation][/color]
 

@@ -12,8 +12,9 @@
 
 [color=2e49a2][B]Other government positions:[/B][/color]
 [list]
-[*][nation=short]Thomopolis[/nation]
-[*][nation=short]Supercommunism[/nation]
+[*][nation]Thomopolis[/nation]
+[*][nation]Supercommunism[/nation]
+[*][nation]Cicera[/nation]
 [/list]
 [hr]
 [color=2e49a2][B]Important Links:[/B][/color]
