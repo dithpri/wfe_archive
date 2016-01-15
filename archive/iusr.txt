@@ -1,31 +1,36 @@
-[b]Alert Level:[/b] [color=green]DEFSTAT 5[/color]
+[b]Alert Level:[/b] [color=blue]DEFSTAT 4[/color] - Tensions with [nation=short]Yuzan[/nation]
 
-[b]Latest News:[/b] President Bramanov gets insanely drunk, wakes up to different universe.
+[b]Latest News:[/b] Iosif Bramanov escapes from Yuzanese labour camp - not dead, apparently.
+
 [hr]
 
 [b]Supreme Socialist Republics[/b]
 
-[nation=short]Krasniya[/nation]
+[nation=short+noflag]Krasniya[/nation]
+[nation=short+noflag]Czervenika[/nation]
+[nation=short+noflag]Hallorania[/nation]
 [hr]
 
 [b]Socialist Republics[/b]
 
-[nation=short]Belakras[/nation]
-[nation=short]Czervenika[/nation]
+[nation=short+noflag]Belakras[/nation]
+[nation=short+noflag]Canakhstan[/nation]
+[nation=short+noflag]Hayasten[/nation]
+[nation=short+noflag]Mongoliya[/nation]
+[nation=short+noflag]Pribaltika[/nation]
+[nation=short+noflag]Yukraina[/nation]
 [hr]
 
-[spoiler=[color=blue][b]Nation Comparisons[/b][/color]][color=grey][b]Unaffiliated Nations[/b][/color]
-[url=/page=compare/nations=Absurrania+Azaniya+Egrizi+Hayasten+Holliestria+Lecheria+Moshnia+Ordorinia]Page 1[/url]
-[url=/page=compare/nations=Nahambia+New_Gentia+Padaliya+Sapari+Taqali+Yarkonia+Yokuts+Yorkopolis]Page 2[/url]
-[b][color=f97d00]Council for Developmental Cooperation[/color][/b]
-[url=/page=compare/nations=Kalgeron+Kavaii+Los_Cartagenas+Nuevo_Meshiko]Page 1[/url]
-[b][color=cc0000]International Union of Socialist Republics[/color][/b]
-[url=/page=compare/nations=Belakras+Canakhstan+Chobenia+Czervenika+Filipinass+Hallorania+Krasniya+Kuki-Airani+Mongoliya]Page 1[/url]
-[url=/page=compare/nations=Navedia+Peihan+Pribaltika+Ruapekapeka+Slobozhanshchyna+Yukraina+Zakavkazye+Zeledia+Zinacantlan]Page 2[/url]
-[b][color=0000cc]Organisation of Military and Economic Co-operation[/color][/b]
-[url=/page=compare/nations=Batoristan+Belierna+Beteunam+Castilea+Diquis+Eitusian+Estinia+Great_Slatain+Maronia]Page 1[/url]
-[url=/page=compare/nations=Mormopia+Nihon_Kyowakoku+Quamunsia+Shokran+Slakia+Vassau+Vidisha+Yuzan]Page 2[/url][/spoiler][spoiler=[b][color=red]Maps[/color][/b]][url=http://s12.postimg.org/qp2qvu8d7/Map.png]National Map[/url]
-[url=http://s16.postimg.org/gdcr232sz/Map_Inf.png]Influence Map[/url][/spoiler][spoiler=[b][color=green]Current RPs[/color][/b]]No current RPs[/spoiler][spoiler=[b][color=cc0000]Ideological Works[/color][/b]][url=http://www.marxists.org/archive/marx/works/1848/communist-manifesto/index.htm][color=cc0000]The Communist Manifesto - Karl Marx[/color][/url]
+[spoiler=[b][color=red]Maps[/color][/b]]
+[url=http://s23.postimg.org/jks2b1zuh/Map.png][color=0000cc][b]Zemlya World Atlas[/b][/color][/url] - [color=red]Out-of-date[/color]
+[url=http://s23.postimg.org/jks2b1zuh/Map.png][color=cc0000][b]Union of Soviet Republics[/b][/color][/url][/spoiler]
+[spoiler=[b][color=green]RP Threads[/color][/b]]
+[b]Forum[/b]
+No active threads
+
+[b]Regional Message Board[/b]
+No active threads[/spoiler]
+[spoiler=[b][color=cc0000]Ideological Works[/color][/b]][url=http://www.marxists.org/archive/marx/works/1848/communist-manifesto/index.htm][color=cc0000]The Communist Manifesto - Karl Marx[/color][/url]
 [url=http://www.marxists.org/archive/lenin/works/1917/staterev/index.htm][color=cc0000]The State and Revolution - Vladimir Lenin[/color][/url]
 [url=http://www.marxists.org/reference/archive/stalin/works/1924/11_19.htm][color=cc0000]Trotskyism or Leninism - Joseph Stalin[/color][/url]
 [url=https://www.marxists.org/archive/lenin/works/1905/dec/03.htm][color=cc0000]Socialism and Religion - Vladimir Lenin[/color][/url][/spoiler]
