@@ -8,6 +8,6 @@ Entrance is not locked and no state of Emergency has been declared.
 Protectorate states: 
 [region]The Many Assorted Lands of Maljaratas[/region].
 [region]Guristia[/region].
-[region]Imperial Democratica[/region].
 [region]Difay[/region].
-[region]The Nexus[/region].
+[region]The Nexus[/region]
+[region]Gallente Federation[/region].

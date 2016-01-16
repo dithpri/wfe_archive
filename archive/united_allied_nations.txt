@@ -1,17 +1,14 @@
-[b]Streaming out from the forests, over the fields, and through the great lakes, the [region]The Black Hawks[/region] swoops down on this unsuspecting region.
+[b]This region has been invaded by the most feared military organization in existence, [region]The Black Hawks[/region]. The sky is dark with destruction and despair, and the streets are echoe the silence after the slaughter which has painted everything in red.
 
-Flying in today:
+[u]Those who flew in[/u]
+Private [nation=short]ChingisHawk[/nation]
+Private First Class [nation=short]DreadHawk[/nation]
+Private First Class [nation=short]Raionitu[/nation]
+Private [nation=short]Kyorgia[/nation]
 
-Private ([color=magenta]Flamboyant Trigger[/color]) - [nation=short]ChingisOtchigin[/nation]
-Major - [nation=short]Marselesk[/nation]
-Private FC ([color=magenta]Princess[/color]) - [nation=short]Solassas[/nation]
-Private FC - [nation=short]Raionitu[/nation]
-Private - [nation=short]Kyorgia[/nation]
+[u]Those who crawled in[/u]
+Auralian Horseman [nation=short]The_Tomanian_Reich[/nation]
+BoSS Private [nation=short]FlyingOnToast[/nation]
 
-With land support from:
-
-[region]DEN[/region] - [color=#9a6601]Lieutenant[/color] - [nation=short]The Type 49 TARDIS[/nation]
-[region]Auralia[/region]  - [color=#bab516]Horseman[/color] - [nation=short]The Tomanian Reich[/nation]
-[color=scarlet][region]Auralia[/region][/color] - [color=#bab516]Swordsmen[/color] - [nation=short]Alnorud[/nation]
-
-[color=red][i]&quot;I got a fever and the only prescription is more visiting regions with ill-intent.&quot; - Katy Perry.[/i][/color][/b]
+[color=scarlet][i]&quot;Asta La Raider Baby&quot;[/i]
+-The Hawkinator[/color][/b]
