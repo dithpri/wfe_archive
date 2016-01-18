@@ -1,0 +1,16 @@
+[b]Composition of the Supreme Court of the United States
+
+[color=red]Chief Justice John Roberts[/color]
+[hr]In the order of Appointment to Court:
+
+[color=red]Associate Justice Antonin Scalia
+Associate Justice Anthony Kennedy
+Associate Justice Clarence Thomas[/color]
+[color=blue]Associate Justice Ruth Bader Ginsburg
+Associate Justice Stephen Breyer[/color]
+[color=red]Associate Justice Samuel Alito[/color]
+[color=blue]Associate Justice Sonia Sotomayor
+Associate Justice Elena Kagan[/color]
+
+Appointed by [color=red]Republican[/color]: 5
+Appointed by [color=blue]Democrat[/color]: 4[/b]

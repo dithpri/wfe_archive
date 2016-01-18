@@ -1,29 +1,31 @@
 [b]Alert Level:[/b] [color=blue]DEFSTAT 4[/color] - Tensions with [nation=short]Yuzan[/nation]
 
-[b]Latest News:[/b] Iosif Bramanov escapes from Yuzanese labour camp - not dead, apparently.
-
+[b]Latest News:[/b] Civil unrest in Solstranya
 [hr]
 
 [b]Supreme Socialist Republics[/b]
 
-[nation=short+noflag]Krasniya[/nation]
-[nation=short+noflag]Czervenika[/nation]
-[nation=short+noflag]Hallorania[/nation]
+Krasniya
+Czervenika
+Hallorania
 [hr]
 
 [b]Socialist Republics[/b]
 
-[nation=short+noflag]Belakras[/nation]
-[nation=short+noflag]Canakhstan[/nation]
-[nation=short+noflag]Hayasten[/nation]
-[nation=short+noflag]Mongoliya[/nation]
-[nation=short+noflag]Pribaltika[/nation]
-[nation=short+noflag]Yukraina[/nation]
+Angloslavia
+Belakras
+Canakhstan
+Hayasten
+Osteyburg
+Pribaltika
+Ruapekapeka
+Skandinaviya
+Turgeshstan
 [hr]
 
 [spoiler=[b][color=red]Maps[/color][/b]]
-[url=http://s23.postimg.org/jks2b1zuh/Map.png][color=0000cc][b]Zemlya World Atlas[/b][/color][/url] - [color=red]Out-of-date[/color]
-[url=http://s23.postimg.org/jks2b1zuh/Map.png][color=cc0000][b]Union of Soviet Republics[/b][/color][/url][/spoiler]
+[url=http://s12.postimg.org/7wvwjnvnf/Zemlya_World_Atlas.png][color=0000cc][b]Zemlya World Atlas[/b][/color][/url] - [color=orange]Up-to-date - minor errors pending update[/color]
+[url=http://s18.postimg.org/7a70j4o6v/IUSRRelations_Map.png][color=cc0000][b]IUSR Relations Map[/b][/color][/url][/spoiler]
 [spoiler=[b][color=green]RP Threads[/color][/b]]
 [b]Forum[/b]
 No active threads

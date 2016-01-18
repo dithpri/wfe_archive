@@ -1,8 +1,10 @@
 [b][color=red]Welcome to the Russian Empire[/color][/b]
+[b][i][color=navy]The premier Imperial Russian-themed region in NationStates[/color][/i][/b]
 
-[hr][color=navy][b]Stretching from the east of Europe to the northwestern coast of North America, the Russian Empire is one of the largest empires in human history. Ruled by tsars for centuries, it became a great power under Peter the Great, who paved the way for Russian dominance in Eurasia. [/b][hr]With 125.6 million subjects registered by the 1897 census, it had the third largest population in the world at the time, after Qing China and the British Empire. Like all empires, it represented a large disparity in terms of economics, ethnicity, and religion.[/color][hr]
-
-[b][color=navy]Territories:[/color][/b]
+[hr][color=navy][b]Stretching from the east of Europe to the northwestern coast of North America, the Russian Empire is one of the largest empires in human history. Ruled by tsars for centuries, it became a great power under Peter the Great, who paved the way for Russian dominance in Eurasia. [/b] [/color]
+[hr][u][b]The Imperial Regency[/b][/u]
+[b][color=navy]The Monarch:[/color] Emperor Nicholas III[/b] 
+[hr][u][b]Territories:[/b][/u]
 [region]Muscovy[/region]
 [region]Grand Principality of Muscovy[/region]
 [region]The Tsardom of Russia[/region]

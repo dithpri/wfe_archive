@@ -1,8 +1,1 @@
-[b][u][color=darkblue]The Darkness has taken this region into its grasp for [region]The Brotherhood of Shadows[/region]![/b][/u][/color]
-
-[b][u][color=darkblue]These Shadow Warriors fought without competition!:[/u][/color]
-
-[nation]The Brotherhood of Shadows Commander[/nation]
-[nation]Temnyy[/nation]
-[nation]The Holy Land of Fulch[/nation]
-[nation]Shadow Assassin 1[/nation][/b]
+[b][region=Brotherhood of Shadows][/b]
