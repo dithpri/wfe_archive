@@ -1,10 +1,13 @@
-[color=blue]We are a democracy![/color]
+[color=blue][b]Welcome to the Alliance of the Federated States[/b][/color]
+[color=red]We are[/color][color=gray] a [/color][color=blue]democracy![/color]
 
 If you have any problems, contact the founder:
 [color=blue][nation]United Democratic Peoples islands[/nation][/color]
 
+Other government positions:[list]
+[*][nation]the department of crazt shrimps[/nation]
+[*][nation]Union of the democratic american states[/nation][/list]
+
 [color=red]Vassal of:
 [region]Ante Meridiem[/region][/color]
 [color=green]Long live the Empire![/color]
-
-

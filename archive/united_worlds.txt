@@ -8,7 +8,6 @@
 
 [color=black]MAP: http://www.nationstates.net/nation=freny/detail=factbook/id=546899[/color]
 
-[color=gold] Regional Currency: Leny (Optional) [/color]
 
 [color=balck]=========================================================================[/color]
 
@@ -16,10 +15,10 @@
 
 Every [color=red]24[/color] hours in real life, is [color=red]a year[/color] in the Region
 
-Current year: [color=blue]2025[/color]
+Current year: [color=blue]2027[/color]
 
 [color=balck]=========================================================================[/color]
 
 [color=orange] NEWS [/color]
 
-[color=blue] - Nothing -[/color]
+[color=blue] - Removed Reginal curency -[/color]
