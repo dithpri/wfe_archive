@@ -3,17 +3,18 @@
 
 [b]Torbj&oslash;rn:[/b]
 [nation]AKoM Federation[/nation]
-[nation]New-Murica[/nation]
+[nation]Flaland[/nation]
 [nation]Grey Rock Road[/nation]
-[nation]Subsea[/nation]
+[nation]New-Murica[/nation]
 [nation]The Sectoid Empire[/nation]
+[nation]Subsea[/nation]
 
 [b]Trond:[/b]
 [nation]Elite Collective[/nation]
 
 [b]Rune:[/b]
+[nation]The Postapocalyptic Wasteland[/nation]
 [nation]Order of Reason[/nation]
 [nation]Runarian[/nation]
-[nation]The Postapocalyptic Wasteland[/nation]
-[nation]United Viking Tribes[/nation]
 [nation]True Believers[/nation]
+[nation]United Viking Tribes[/nation]

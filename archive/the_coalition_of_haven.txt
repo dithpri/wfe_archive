@@ -6,11 +6,9 @@
 
 [color=blue][b][i]Requiem Aeternam[/i][/b][/color]
 
-World Assembly Delegate: [nation]Rubyna[/nation]
+World Assembly Delegate: [nation]Anfarctica[/nation]
 
 Permanent Council Member: [nation]I am haileys bae[/nation]
-
-The Prime Minister: [nation]Anfarctica[/nation]
 
 Permanent Council Member: [nation]Hefera[/nation]
 
@@ -19,4 +17,4 @@ Permanent Council Member: [nation]Jayport[/nation]
 [color=blue][b][i]Al Andalus[/i][/b][/color]
 
 
-Endorse World Assembly Delegate [nation]rubyna[/nation] for regional stability.
+Endorse World Assembly Delegate [nation]Anfarctica[/nation] for regional stability.
