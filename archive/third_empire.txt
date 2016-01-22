@@ -1,6 +1,4 @@
-[b]Third Empire[/b]
-Welcome to Third Empire, the land of pine trees and brown beavers!
+[B][u]Third Empire[/u][/b]
+Welcome to Third Empire, the land of pine trees and brown beavers. It is currently a protectorate of [region]The Imperial States of Maseida[/region]
 
-[u][b]Government:[/b][/u]
-[b]WA Delegate:[/b] [nation=short]The_Royal_Eatrellan_Army[/nation]
-[B]Security Officer:[/B] [nation=short]New_Topotan_Expeditionary_Force[/nation]
+We hope you enjoy your visit

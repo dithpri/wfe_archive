@@ -18,16 +18,9 @@ Roleplay Commissioner: [nation=short]Mstislav[/nation] (T)
 Minister of Foreign Affairs: [nation=short]Savalen[/nation] (Y)
 
 [hr]Parliament:
-&#149; [nation=short]Kortat[/nation]
-&#149; [nation=short]Traders Row[/nation]
-
-[hr]Justices:
-[hr] 
-
-[color=orange][u]&amp;gt;&amp;gt;News&amp;lt;&amp;lt;[/u][/b][/color]
-[i]Elections , Elections , and Elections . Please vote for your fellow Nations .[/i]
-
-[hr]
-
-[u][b][color=darkred]IFU Radio[/b][/color][/u]
+&#149; [nation=short]Kortat[/nation] (T)
+&#149; [nation=short]Traders Row[/nation] (Y)
+&#149; [Nation=short]The Arian Nation[/Nation] (UM)
+[hr]Justices:[hr]
+[u][color=darkred]IFU Radio[/b][/color][/u]
 [i]Now Playing:[url=https://m.youtube.com/watch?v=XdAvX0Mvm4c]Stromae - Formidable[/url][/i]

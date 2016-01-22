@@ -11,7 +11,7 @@ As of Jan. 17, [region=the Icelandic Commonwealth] has [b]1634[/b] degrees of se
 [spoiler=Segments][b]Segments:[/b] A Break Occurred. Oops.
 
 1. [region=the Icelandic Commonwealth] to [region=Mongolia]: 115
-2. [region=Malawi] to [region=Ancient Lands]: 1507
+2. [region=Malawi] to [region=Ancient Lands]: 1485
 
 Goal is to add regions without breaking the chain.[/spoiler]
 

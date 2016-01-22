@@ -1,13 +1,9 @@
-[b][color=darkred]WELCOME TO MONOPOLY[/color][/b]
+[b][color=Blue]Welcome to Monopoly[/color][/b]
 
-[color=gold]Bank[/color]: Vacant
+[b]Bank:[/b] Vacant
 
-[color=pink]Community Chest[/color]: Vacant
+[b]Community Chest:[/b] Vacant
 
-[color=orange]Chance[/color]: Vacant
+[b]Chance:[/b] [nation=short]LPLTUKM[/nation]
 
-[color=darkblue]Officer[/color]: Vacant
-
-[spoiler=Latest news of Monopoly]Boo!! - there are now some free positions in Monopoly![/spoiler]
-
-[url=https://www.youtube.com/watch?v=RqpjQoqQe8c/]I&#39;m feeling lucky[/url]
+[b]Officer:[/b] [nation=short]Peace and Prosperity Union[/nation]

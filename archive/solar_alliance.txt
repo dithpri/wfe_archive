@@ -3,10 +3,11 @@
 Positions within the Region
 
 [color=red]President: [nation]Solar Administrator[/nation][/color]
-[color=blue]Prime Minister: Vacant[/color]
-[color=blue]Minister of Internal Affairs: Vacant[/color]
-[color=blue]Minister of Foreign Affairs: Vacant[/color]
-[color=blue]Minister of Justice: Vacant[/color]
+[color=blue]Deputy President: Vacant[/color]
+[color=blue]Security Council (Defence): Vacant[/color]
+[color=blue]Security Council (Foreign Affairs): Vacant[/color]
+[color=blue]Security Council (Justice): Vacant[/color]
+[color=green]World Assembly Memeber: Vacant[/color]
 
 [color=red]&#149; [/color][B][url=http://i.imgur.com/TGUgxIK.png]The World Map[/url][/B]. Install [url=https://forum.nationstates.net/viewtopic.php?f=15&amp;t=269464]NS++[/url] for native integration of the map and a better overall NationStates experience. Submit your requests to the regional president for lands on the map.
 [hr]

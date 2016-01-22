@@ -1,13 +1,13 @@
 Regional motto:[u][b]Theos katanalisko pyr[/b][/u]
-[url=http://www.nationstates.net/nation=thoncania/detail=factbook/id=main][b][color=blue][u]The House of Winter[/u][/color][/b][/url]
+[url=http://www.nationstates.net/nation=thoncania/detail=factbook/id=main][b][color=white][u]The House of Winter[/u][/color][/b][/url]
    Representative:[nation]Thoncania[/nation]
    Barron:[nation]Thoncania[/nation]
  
-[url=http://www.nationstates.net/page=dispatch/id=368684][b][color=grey][u]The House of Wolves[/u][/color][/b][/url]
+[url=http://www.nationstates.net/page=dispatch/id=368684][b][color=blue][u]The House of Wolves[/u][/color][/b][/url]
    Representative:[nation]Awesamness[/nation]
    Barron:[nation]Wanden Reich[/nation]
    
-[url=http://www.nationstates.net/page=dispatch/id=367939][b][color=green][u]The House of Exile[/u][/color][/b][/url]
+[url=http://www.nationstates.net/page=dispatch/id=367939][b][color=pink][u]The House of Exile[/u][/color][/b][/url]
    Representative:[nation]Umbrella Beach[/nation]
    Barron:[nation]Umbrella Beach[/nation]
 
