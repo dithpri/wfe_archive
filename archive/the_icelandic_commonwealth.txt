@@ -6,14 +6,13 @@ My Oracle Regions are playing my version of the Oracle Game.
 
 Goal of this version of the Oracle Game is to create a chain of links connecting as many regions as long as possible, with no short circuits.
 
-As of Jan. 17, [region=the Icelandic Commonwealth] has [b]1634[/b] degrees of separation to [region=Ancient Lands].
+As of Jan. 17, [region=the Icelandic Commonwealth] has [b]1501[/b] degrees of separation to [region=Ancient Lands].
 
-[spoiler=Segments][b]Segments:[/b] A Break Occurred. Oops.
+[spoiler=Segments][b]Segments:[/b] No Breaks Currently.
 
-1. [region=the Icelandic Commonwealth] to [region=Mongolia]: 115
-2. [region=Malawi] to [region=Ancient Lands]: 1485
+Closing of Oracle regions continues.
 
-Goal is to add regions without breaking the chain.[/spoiler]
+Goal is to add or remove regions without breaking the chain.[/spoiler]
 
 See [region=Istohaa Sarilanleur] for more details
 [/color][color=800000]
