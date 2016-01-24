@@ -5,7 +5,7 @@
 -Secretary of Justice: [nation]Tulon[/nation]
 -Secretary of Foreign Affairs: [nation]Spretale[/nation]
 -Secretary of Extreme Measures: [i][b]Vacant[/i][/b]
--INDEFO Defense Force Commander-in-Chief: [i][b]Vacant[/i][/b]
+-INDEFO Defense Force Commander-in-Chief: [nation]Tysoania[/nation]
 -World Assembly Representative: [i][b]Vacant[/b][/i]
 
 

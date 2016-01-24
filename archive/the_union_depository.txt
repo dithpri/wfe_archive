@@ -6,7 +6,7 @@ The Union Depository is our temporary stay as our home region, [B][region]The Un
 [color=0033FF]
 President of The Union: [nation=short]Ecuadorian Love[/nation]
 Minister of Defense: [i]Vacant[/i]
-Minister of Internal Affairs: [nation=short]Parakka[/nation]
+Minister of Internal Affairs: [i]Vacant[/i]
 Minister of Foreign Affairs: [i]Vacant[/i]
 Minister of Justice: [i]Vacant[/i]
 Minister of Immigration: [i]Vacant[/i]
