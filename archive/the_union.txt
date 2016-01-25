@@ -1,7 +1,18 @@
-[B]Welcome to [color=0000FF]T[/color][color=3333FF]h[/color][color=6633FF]e[/color] [color=9933FF]U[/color][color=CC66FF]n[/color][color=CC33FF]i[/color][color=CC66FF]o[/color][color=9933FF]n[/color], where our strength is in our unity. 
+[b]Welcome to [color=0000FF]T[/color][color=3333FF]h[/color][color=6633FF]e[/color] [color=9933FF]U[/color][color=CC66FF]n[/color][color=CC33FF]i[/color][color=CC66FF]o[/color][color=9933FF]n[/color], where our strength is in our unity. 
 
-[hr][hr]
+Join us today and be part of the fun!
+[hr]
 
-[color=CC1800][u]Regional Announcements[/u]:[/color]
+[color=1034A6]The Union Government[/color][/b]:
+[color=0033FF]
+President of The Union:
+Minister of Defense: [i]Vacant[/i]
+Minister of Internal Affairs:
+Minister of Foreign Affairs: [i]Vacant[/i]
+Minister of Justice: [i]Vacant[/i]
+Minister of Immigration: [i]Vacant[/i]
+[/color][hr]
 
-[color=red]&#149; Interested in joining our region? We are temporarily closed now. You can join us in our home away from home at [u][region]The Union Depository[/region][/u].[/color][/B]
+[color=CC1800][B][u]Regional Announcements[/u]:[/B][/color]
+
+[color=red]&#149; [/color][B][url=http://i.imgur.com/93VyGV7.png]The Global Regional Map[/url][/B]. Install [url=https://forum.nationstates.net/viewtopic.php?f=15&amp;t=269464]NS++[/url] for native integration of the map and a better overall NationStates experience. Submit your requests to the regional president for lands on the map.
