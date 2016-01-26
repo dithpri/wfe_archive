@@ -1,12 +1,1 @@
-[hr][hr][list][list][color=navy][b]ROYAL ALLIANCE[/b][/color][/list][/list][hr][hr]
-
-[color=876543][list]About our current alliance flag[list]Two vertical golden weaves on a dark blue field.
-Top right corner an eight pointed star.[/color][color=teal]
-[/list][/list][hr][list][b]Allied Regions:[/b][list]&#149; [region=0000]:
-&#149; [region=Ancient Lands]:
-&#149; [region=Federation of Russia]:
-&#149; [region=Freedom Front]:
-&#149; [region=Great Britain and Northern Ireland]:
-&#149; [region=Latin America]:
-&#149; [region=The Americas]:
-&#149; [region=United States of America]:[/color][/list][color=FF3060]This region is not associated with [region=The Royal Alliance][/list][hr][/color][list][color=006400]This is a [region=Freedom Front] - [region=World] region[/color]
+Royal Alliance

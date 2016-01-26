@@ -1,22 +1,4 @@
-[b][color=navy]Welcome to British Caribbean Sea[/color][/b]
+[b]We are part of the growing British Commonwealth.[/b]
 
-British Caribbean Sea consists of English-speaking countries and territories in the Caribbean region.
-
-[hr][color=red][b]Commonwealth Caribbean[/b][/color]
-[region]Antigua and Barbuda[/region]
-[region]The Bahamas[/region]
-[region]Barbados[/region]
-[region]Dominica[/region]
-[region]Grenada[/region]
-[region]Jamaica[/region]
-[region]Saint Kitts and Nevis[/region]
-[region]Saint Lucia[/region]
-[region]Saint Vincent and the Grenadines[/region]
-[region]Trinidad and Tobago[/region]
-
-[hr][color=green][b]British Overseas Territories[/b][/color]
-[region]Anguilla[/region]
-[region]British Virgin Islands[/region]
-[region]Cayman Islands[/region]
-[region]Montserrat[/region]
-[region]Turks and Caicos Islands[/region]
+[b]Prime Minister[/b] [nation=short]British Caribbean Islands[/nation]
+[b]Allied with[/b] [region]The British Commonwealth[/region]

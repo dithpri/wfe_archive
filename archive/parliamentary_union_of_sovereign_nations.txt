@@ -6,13 +6,13 @@ Welcome to the [region]Parliamentary Union of Sovereign Nations[/region]! We off
 [color=red]Executive[/color]
 
 [color=red]Founder:[/color][nation=short]Aralunya[/nation]
-[color=red]President:[/color][nation=short]The Pie Mines[/nation]
+[color=red]President:[/color][nation=short]Libertarian Democracy[/nation]
 [color=red]Prime Minister:[/color][nation=short]Abdoa[/nation]
 
 [color=orange]MoD:[/color][nation=short]Merish isles[/nation]
 [color=orange]MoJ:[/color][nation=short]mareut[/nation]
 [color=orange]MoW:[/color][nation=short]The North Region of Westeros[/nation]
-[color=orange]MoC:[/color][nation=short]Libertarian Democracy[/nation]
+[color=orange]MoC:[/color]
 [hr]
 [color=blue]Parliament:[/color]
 [nation=short]Libertarian Democracy[/nation]

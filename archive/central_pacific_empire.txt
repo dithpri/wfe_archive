@@ -4,8 +4,6 @@
 
 [hr][b][u]THE GOVERNMENT[/u][/b] [Jan-Feb]
 
-Government Awaiting Emperor Approval
-
 [b]Prime Minister:[/b] [nation=shortname]New Nationale Einheit[/nation]
 [b]Deputy Prime Minister, Minister of the Interior, Cultural and Citizenship Affairs[/b] - [nation=shortname]Ichaland[/nation] 
 [b]Minister of Foreign Affairs[/b] - [nation=shortname]Aanon Bay[/nation]
@@ -17,8 +15,10 @@ Government Awaiting Emperor Approval
 [b]Security Category: [color=red]SC2. Heightened Security[/color][/b]
 
 [hr][b][u]THE JUDICIARY[/u][/b]
+
 [b]Supreme Judge[/b]: [nation=shortname]Burgundaholmr[/nation]
 [b]Regional Judges[/b]: [nation=shortname]Burgundaholmr[/nation] and [nation=shortname]Centralton[/nation]
 
 [hr][b][u]CAPITAL CITY[/u][/b]
+
 [nation=shortname]Emperor Islands Capital City[/nation], Governor, [nation=shortname]The Intergalactic Universe Corporation[/nation]
