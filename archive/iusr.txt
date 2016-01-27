@@ -1,4 +1,4 @@
-[b]Alert Level:[/b] [color=blue]DEFSTAT 4[/color] - Mild tensions with [nation=short]Yuzan[/nation]
+[b]Alert Level:[/b] [color=orange]DEFSTAT 3[/color] - Escalations with [nation=short]Yuzan[/nation]: Situation defusing slowly.
 
 [b]Latest News[/b]
 

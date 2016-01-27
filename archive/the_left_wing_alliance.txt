@@ -4,9 +4,7 @@ WA delegate:  [nation]The Republic Of Falaria[/nation]
 
 General of Warfare/Defense: [nation]Adamberg[/nation]
 
-Recruitment Officer: Vacant 
-
-Ambassador: [nation]Adamberg[/nation]
+Negotiator: [nation]Adamberg[/nation]
 
 Intelligence Officer: [nation]Aajjss[/nation]
 

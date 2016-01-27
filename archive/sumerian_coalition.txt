@@ -1,10 +1,10 @@
-[B]Welcome to the Sumerian Coalition!
-A colony of [region]United Alliances[/region]. 
+[b]
+Welcome to the [region]Sumerian Coalition[/region]!
+[color=palevioletred]A region of free nations.[/color]
 [hr]
-
-Founded on November 9, 2014
-
+[color=#1D74AD]Founded on November 9, 2014[/color]
+[color=#1E7DBD]Government suspended in June 2015[/color] 
+[color=#188CD9]Refounded on January 27, 2016[/color]
 [hr]
-
-[color=#DB3700]Established under the authority of the  Federal Assembly of [region]United Alliances[/region].[/color]
-[/B]
+[color=#DE7226]A colony of [region]United Alliances[/region]. Re-established under recess authority of [nation]Zocra[/nation].[/color]
+[/b]
