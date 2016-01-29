@@ -1,11 +1,12 @@
-[b][region]69 percent lowfat milk[/region][/b]
+[b][color=green][region]69 percent lowfat milk[/region][/color][/b]
 
-[b]Motto[/b]: &quot;We add fat to have less fat in our milk&quot;.
+[b]Motto[/b]: 
+[i]&quot;We add fat to have less fat in our milk&quot;.[/i]
 
 [i]&quot;There is one star for every nation that is with us, and none for whom are against us&quot;[/i]
 
-Embassy relations are approved by [nation]Republic of Sapilis[/nation], [nation]Betrug[/nation], or [nation]Transvestite Town[/nation]
-
-Disputes are settled by [nation]Betrug[/nation], Chancellor of the Court.
-
-
+[b] GOVERNMENT [/b]
+[b][color=blue]Prime Minister[/color][/b]: [nation=short]Land of the Pewp[/nation]
+[b][color=green]Chairman (WA Delegate)[/color][/b]: [nation=short]Republic of Sapilis[/nation]
+[b][color=red]Chancellor of the Court[/color][/b]: [nation=short]Betrug[/nation]
+[b]---[/b][i]LOOK AT DISPATCH ENTRY FOR COMPLETE DOCUMENT[/i][b]---[/b]
