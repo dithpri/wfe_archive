@@ -5,16 +5,16 @@
 [list][*][nation]Toby VanHaften[/nation][/list]
 [*]Upper Council
 [list][*][nation]The Nee German Republic[/nation]
-[*][nation]The 5th German Reich[/nation]
-[*][nation]The Kingdom of North America[/nation][/list]
+[*]Vacant
+[*]Vacant[/list]
 [*]Court Judges
 [list][*][nation]Auralux[/nation]
 [*]Vacant
-[*][nation]The 2nd Japanese Empire[/nation][/list]
+[*]Vacant[/list]
 [*]Lower Council
 [list][*][nation]Raeine[/nation]
 [*]Vacant
-[*][nation]The 2nd Greek Empire[/nation][/list][/list][/list]
+[*]Vacant[/list][/list][/list]
 [spoiler=Map Maker]
 [nation]Auralux[/nation][/spoiler]
 [hr]

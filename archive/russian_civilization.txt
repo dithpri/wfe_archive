@@ -4,10 +4,11 @@
 
 [color=#000034]Troops:[/color][color=#9a6601]
 
-Sergeant:[nation=short]Demzelka[/nation]
-Corporal: [nation=short]Liddell Hart[/nation]
-Corporal: [nation=short]vaculatestar[/nation]
-Private First-Class: [nation=short]true darwinism[/nation]
-Private First-Class: [nation=short]rom g biv[/nation][hr]
+Corporal [nation=short]ChingisOtchigin[/nation]
+Lieutenant [nation=short]Demzelka[/nation]
+Private First Class [nation=short]Sentinel Optik[/nation]
+Private First Class [nation=short]Raionitu[/nation] from [region]The Black Hawks[/region]
+Merc [nation=short]Cora III[/nation]
+Merc [nation=short]Kyorgia[/nation][hr]
 
 [/color][url=http://w11.zetaboards.com/DEN/index/][color=#000034]Join DEN in the [/color][color=#9a6601] conquest of NationStates![/color][/url][/b]

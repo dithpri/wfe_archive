@@ -4,10 +4,11 @@
 
 [color=#000034]Troops:[/color][color=#9a6601]
 
-Lieutenant: [nation=short]Demzelka[/nation]
-Sergeant: [nation=short]Liddell Hart[/nation]
-Private First-Class: [nation=short]sentinel optik[/nation]
-Private First-Class: [nation=short]new ceuta[/nation]
-Shadow Merc: [nation=short]cora iii[/nation]
+Corporal [nation=short]ChingisOtchigin[/nation]
+Lieutenant [nation=short]Demzelka[/nation]
+Private First Class [nation=short]Sentinel Optik[/nation]
+Private First Class [nation=short]Raionitu[/nation] from [region]The Black Hawks[/region]
+Merc [nation=short]Cora III[/nation]
+Merc [nation=short]Kyorgia[/nation][hr]
 
 [/color][url=http://w11.zetaboards.com/DEN/index/][color=#000034]Join DEN in the [/color][color=#9a6601] conquest of NationStates![/color][/url][/b]
