@@ -1,18 +1,18 @@
-[nation]Basnia[/nation] [nation]Basnicsa[/nation] [nation]The Regime for Communism[/nation]
+
 Faction Nations Loyal to the Eternal Chairman:
-Leader: [nation]Basnia[/nation]
-Subsidiary Colony: [nation]Basnicsa[/nation]
-Cooperative Ally: [nation]The Regime for Communism[/nation]
-Treaties Signed:
-[u]Cooperative Military Efforts[/u]
-[u]Cooperative Labor Efforts[/u]
-[u]Joint Diplomatic Embassies Treaty[/u]
-[u]Joint Science-Medical-Educational Pact[/u]
-[u]Nuclear Arming and Development Decree[/u]
-[u]Defense of Government Efforts[/u]
+Leader: 
+[nation]Basnia[/nation]
+Subsidiary Colony: 
+[nation]Basnicsa[/nation]
+Cooperative Allies: 
+[nation]The Regime for Communism[/nation]
+[nation]Dominus Eire[/nation]
+[nation]Karlingonia[/nation]
 
 Seats in the Basnian Central Committee: 
-[nation]Basnia[/nation]: [color=red]94[/color]
-[nation]Basnicsa[/nation]: [color=blue]3[/color]
-[nation]The Regime for Communism[/nation]:[color=orange]2[/color]
+[nation]Basnia[/nation]: [color=red]59[/color]
+[nation]Basnicsa[/nation]: [color=blue]10[/color]
+[nation]The Regime for Communism[/nation]:[color=orange]10[/color]
+[nation]Dominus Eire[/nation]:[color=green]10[/color]
+[nation]Karlingonia[/nation]:[color=purple]10[/color]
 [b]Enemies of State[/b]:[color=red]Ethnic Sarbian Seat[/color]: [u]1[/u]
