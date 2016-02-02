@@ -1,2 +1,2 @@
-[b]Puppet Holding Region for [nation]Kialga-Lourti[/nation][/b]
-[region]International Western Union[/region] | [region]The North Pacific[/region] | [region]Kingdom of Alexandria[/region]
+[b]Puppet Holding Region for official [region]International Western Union[/region] puppets and [nation=short]Kialga[/nation] puppets.[/b]
+[region]International Western Union[/region]

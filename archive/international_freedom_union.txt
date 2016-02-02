@@ -20,6 +20,7 @@ Minister of Foreign Affairs: [nation=short]Savalen[/nation] (Y)
 [hr]Parliament:
 &#149; [nation=short]Kortat[/nation] (T)
 &#149; [nation=short]Gooutofhere[/nation] (T)
+&#149; [nation=short]Mstislav[/nation] (T)
 &#149; [nation=short]Traders Row[/nation] (Y)
 &#149; [Nation=short]The Arian Nation[/Nation] (UM)
 [hr]Justices:[hr]
