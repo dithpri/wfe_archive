@@ -1,10 +1,10 @@
-[spoiler=Res Publica(Government)]We are currently in Term 3 of 6
+[spoiler=Res Publica(Government)]We are currently in Term 4 of 6
 Imperator: [nation=short]21st Century Rome[/nation]
 Tribune: (none)
-Censor: [nation=short]Okos[/nation]
-Legatus: [nation=short]WEBBISTAHN[/nation]
+Censor: [nation=short]Holy Lord[/nation]
+Legatus: [nation=short]Holy Lord[/nation]
 Aedile: [nation=short]21st Century Rome[/nation]
-Propraetor: [nation=short]Okos[/nation]
+Propraetor: [nation=short]Holy Lord[/nation]
 Superuisorem: [nation=short]Islapraits[/nation]
 Consuls: [nation=short]21st Century Rome[/nation] and [nation=short]21st Century Rome[/nation]
 (powers of officials are listed under Lex)
