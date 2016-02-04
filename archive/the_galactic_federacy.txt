@@ -5,7 +5,7 @@ Colors: [color=gold]Gold[/color], [color=gray]Gray[/color], [color=white]White[/
 
 [color=orange]Talkable Topic[/color]
 [nation=short]Gorthias[/nation] asks:If you had full power over creating your flag, would it look the same as of now? (Using tools such as Gimp, paint, etc.)
-[nation=short]Diyel Grandiose[/nation] asks: What is your nationality?
+[nation=short]Diyel Grandiose[/nation] asks: If you&#39;re nation is represented by an actual country, what would it be?
 TG [nation=short+noflag]Gorthias[/nation] or [nation=short+noflag]Diyel Grandiose[/nation] for the next topic.
 [hr]
 

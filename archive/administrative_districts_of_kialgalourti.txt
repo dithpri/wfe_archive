@@ -1,1 +1,3 @@
-[null]
+[u][b]Puppets Representing the Administrative Districts of [nation=short]Kialga-Lourti[/nation][/b][/u]
+
+[b][nation=short]Cetus_Administrative_District[/nation]:[/b] exclave in [region]The North Pacific[/region]

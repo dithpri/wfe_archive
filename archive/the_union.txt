@@ -9,7 +9,7 @@ President of The Union: [nation=short]Ecuadorian Love[/nation]
 Minister of Defense: [i]Vacant[/i]
 Minister of Internal Affairs:[i]vacant[/i]
 Minister of Foreign Affairs: [i]vacant[/i]
-Minister of Justice: [i]Vacant[/i]
+Minister of Justice: [nation=short]Regnum XII[/nation]
 Minister of Immigration: [i]Vacant[/i]
 [/color][hr]
 
