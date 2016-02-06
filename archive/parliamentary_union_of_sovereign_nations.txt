@@ -15,12 +15,12 @@ Welcome to the [region]Parliamentary Union of Sovereign Nations[/region]! We off
 [hr]
 [color=blue]Parliament:[/color]
 [nation=short]Libertarian Democracy[/nation]
-[nation=short]Lomias[/nation]
 [nation=short]Mareut[/nation]
 [nation=short]Merish Isles[/nation]
 [nation=short]Stornland[/nation]
 [nation=short]Thrishca[/nation]
 [nation=short]Zodiacs[/nation]
+Open Seat
 Open Seat
 Open Seat
 [hr]

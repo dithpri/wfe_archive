@@ -2,7 +2,7 @@
 
 [Color=Blue][B][U]Government:[/U][/B][/Color]
 [Color=Purple]His Majesty, King of Koronia: [nation=Federate Empire]
-Prime Minister:
+Prime Minister:[nation=The Weeks Clan]
 Speakers: [nation=Rapture novice]
 Chief Justices:
 Prosecutor-General:[/Color]
