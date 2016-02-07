@@ -7,17 +7,16 @@
 [hr][b]Government[/b]
 
 [b][color=red]Vice-Delegate[/color]:[/b]
-[nation]Heisenbee[/nation] ([b][color=gray]I[/color][/b]) 
+[nation]Cheesecakeastan[/nation] ([b][color=red]C[/color][/b])
+
+[b][color=red]Head of Roleplay[/color]:[/b]
+[nation]Formerland[/nation] ([b][color=white]I[/color][/b])
 
 [b][color=Blue]GA Speaker[/color]:[/b]
 [nation]Vinic[/nation] ([b][color=blue]A[/color][/b])
 
 [b][color=purple]Minister of Affairs[/color]:[/b]
 [nation]hevern[/nation] ([b][color=blue]A[/color][/b])
-
-[b][color=purple]Minister of Commerce[/color]:[/b]
-[nation]Formerland[/nation] ([b][color=white]I[/color][/b])
-
 
 [b][color=purple]Minister of Defense[/color]:[/b]
 [nation]Zachotopia[/nation] ([b][color=red]C[/color][/b])

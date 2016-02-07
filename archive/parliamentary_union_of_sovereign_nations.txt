@@ -11,7 +11,7 @@ Welcome to the [region]Parliamentary Union of Sovereign Nations[/region]! We off
 [color=orange]MoD:[/color][nation=short]Merish isles[/nation]
 [color=orange]MoJ:[/color][nation=short]mareut[/nation]
 [color=orange]MoW:[/color][nation=short]The North Region of Westeros[/nation]
-[color=orange]MoC:[/color]vacant
+[color=orange]MoC:[/color]Vacant
 [hr]
 [color=blue]Parliament:[/color]
 [nation=short]Libertarian Democracy[/nation]
@@ -20,7 +20,7 @@ Welcome to the [region]Parliamentary Union of Sovereign Nations[/region]! We off
 [nation=short]Stornland[/nation]
 [nation=short]Thrishca[/nation]
 [nation=short]Zodiacs[/nation]
-Open Seat
+[nation=short]Abdoa[/nation]
 Open Seat
 Open Seat
 [hr]

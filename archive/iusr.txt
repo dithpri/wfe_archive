@@ -1,9 +1,9 @@
-[b]Alert Level:[/b] [color=orange]DEFSTAT 3[/color] - Escalations with [nation=short]Yuzan[/nation]: Situation defusing slowly.
+[b]Alert Level:[/b] [color=Green]DEFSTAT 4[/color]
 
 [b]Latest News[/b]
 
-- Civil unrest in Solstranya
-- IUSR-Yuzanese tensions escalate over false alarm
+- Hana Bramanova announces plans for Socialist Confederation
+- Yorkopolis establishes new lunar research colony and missile defence programme
 [hr]
 
 [b]Supreme Socialist Republics[/b]

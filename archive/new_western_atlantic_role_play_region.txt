@@ -8,7 +8,7 @@
 [hr][b]Government[/b]
 
 [b][color=red]Vice-Delegate[/color]:[/b]
-[nation]Heisenbee[/nation] ([b][color=gray]I[/color][/b]) 
+
 
 [b][color=Blue]GA Speaker[/color]:[/b]
 [nation]Vinic[/nation] ([b][color=blue]A[/color][/b])
@@ -24,7 +24,7 @@
 [nation]Zachotopia[/nation] ([b][color=red]C[/color][/b])
 
 [b][color=purple]Minister of Diplomacy[/color]:[/b]
-[nation]Broncos fast nation[/nation] ([b][color=blue]A[/color][/b])
+
 
 [b][color=purple]Minister of Immigration[/color]:[/b]
 [nation]Norrizi[/nation] ([b][color=blue]A[/color][/b])
