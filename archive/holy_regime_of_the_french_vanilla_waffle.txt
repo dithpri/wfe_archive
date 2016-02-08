@@ -7,6 +7,12 @@
 Corporal [nation=short]Vaculatestar[/nation]
 Major [nation=short]Miss Hungary[/nation]
 Lieutenant [nation=short]Demzelka[/nation]
+Merc [nation=short]Cora III[/nation]
+
++
+
+Corporal [nation=short]Vaculatestar[/nation]
+Private First Class [nation=short]Kolbaser I[/nation]
 Merc [nation=short]Cora III[/nation][hr]
 
 [/color][url=http://w11.zetaboards.com/DEN/index/][color=#000034]Join DEN in the [/color][color=#9a6601] conquest of NationStates![/color][/url]

@@ -1,0 +1,12 @@
+&amp;lt;html&amp;gt;
+&amp;lt;head&amp;gt;
+&amp;lt;title&amp;gt;Southern Fabularis&amp;lt;/title&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+&amp;lt;div Id=&quot;Opening&quot;&amp;gt;
+&amp;lt;H1&amp;gt;Hello!&amp;lt;/h1&amp;gt;
+&amp;lt;p&amp;gt;Southern Fabularis is a good place.
+ That&#39;s all I&#39;ve got.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;

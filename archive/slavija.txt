@@ -1,4 +1,4 @@
-[b][color=red]Welcome[/color] [color=blue]to[/color] [color=red]Slavija[/color], [color=blue]the[/color] [color=red]original[/color] [color=blue]Pan-Slavic[/color] [color=red]region[/color]!
+[b][color=#D93B3B]Welcome[/color] [color=#503ED7]to[/color] [color=#D93B3B]Slavija[/color], [color=#503ED7]the[/color] [color=#D93B3B]original[/color] [color=#503ED7]Pan-Slavic[/color] [color=#D93B3B]region[/color]!
 
 [hr]
 
@@ -6,16 +6,18 @@
 
 [hr]
 
-[color=red]Central Administrative Body:[/color]
-[color=blue]Chairman:[/color] [nation=short]Shofercia[/nation]
-[color=blue]Commissar:[/color] [nation=short]Central Slavia[/nation]
-[color=blue]Commissar:[/color] [nation=short]Great Kleomentia[/nation]
-[color=blue]Commissar:[/color] [nation=short]Eesti love[/nation]
-[color=blue]Commissar:[/color] [nation=short]Luksusowa[/nation]
+[color=#D93B3B]Central Administrative Body:[/color]
+[*][color=#503ED7]Chairman:[/color] [nation=short]Shofercia[/nation]
+[*][color=#503ED7]Vice-Chairman:[/color] [nation=short]Great Kleomentia[/nation]
+[*][color=#503ED7]Commissar:[/color] [nation=short]Central Slavia[/nation]
+[*][color=#503ED7]Commissar:[/color] [nation=short]Eesti love[/nation]
+[*][color=#503ED7]Commissar:[/color] [nation=short]Luksusowa[/nation]
 
 [hr]
 
 [url=http://client01.chat.mibbit.com/?server=irc.esper.net&amp;channel=%23slavija/]Chat[/url] | [url=http://s15.zetaboards.com/Slavija/index]Regional Forum(in the making)[/url] | [url=https://www.youtube.com/watch?v=drn6JVqkSN8]Weekly Song[/url] | [color=darkblue]Weekly Topic: Can the world be united under one flag?[/color]
+
+[hr]
 
 [color=orange]Roleplays:[/color]
 [url=http://forum.nationstates.net/viewtopic.php?f=5&amp;t=360671]Libyan Companies (with Osiris!) - paused[/url][/b]
