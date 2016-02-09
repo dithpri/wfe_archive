@@ -1,0 +1,40 @@
+[b]BEM VINDO A COSTA VERDE[/b]
+
+[b]Regras de Entrada[/b]
+
+-Ser lus&oacute;fono
+-Ter uma bandeira pr&oacute;pria caso seja um local fict&iacute;cio
+-Escolher um dos 20 condados para se estabelecer
+-N&atilde;o ser uma ditadura
+
+[b]Condados[/b]
+
+[i]Ilha de Campos[/i]
+
+Clementino
+Fragoso
+Corais
+Palmeiras
+
+[i]Ilha de Itatiaia[/i]
+
+Afonso Pena
+Quipap&aacute;
+Turia&ccedil;u
+Cavunge
+Guaraci
+Timboteua
+Sert&atilde;o Santana
+Relvado
+Anacleto
+Carona
+Sucur&eacute;
+Alianca
+Paquevira
+Arati
+Lavandeira
+Almeriana
+Piquizeiro
+Curinopolis
+Cott&atilde;o
+Barros Filho

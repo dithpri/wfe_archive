@@ -14,3 +14,5 @@ High Council Member 1: N/a
 High Council Member 2: N/a
 
 High Council Member 3: N/a
+
+Emergency Declaration: False
