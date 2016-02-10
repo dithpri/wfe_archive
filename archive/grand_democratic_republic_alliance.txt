@@ -1,6 +1,7 @@
 Prime Minister:[nation]New Frankish Gaul[/nation]
+Home of WASP, White Anglo-Saxon People
 
-Regional Holidays:
+Regional Holidays
 January 1st - New Year&#39;s Day
 February 14th - St. Valentine&#39;s Day
 March 21st - Vernal Equinox
@@ -11,4 +12,3 @@ October 31st - Hallow&#39;s Eve
 November 11th - Armistice Day
 December 21st - Winter Solstice
 December 24th-January 1st - Winter Fellowship Observance (Days of Feast)
-^Because instead of a bunch of winter holidays, we just call it one holiday
