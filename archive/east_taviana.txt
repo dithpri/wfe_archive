@@ -3,14 +3,14 @@
 [b]Leadership:[/b]
 Chancellor - [nation=Lyepestok]
 Minister of Defense - [nation=Solnichnzy]
-Minister of Foreign Affairs/Internal Affairs - [nation=Kranostav]
 Minister of Internal Affairs/International Ambassador - [nation=Pogorevka]
 
-Ambassador is currently a resident of - [region=The League of Sovereign Nations]
-Minister of Foreign Affairs is currently a resident of - [region=WACP]
+[b]Mission Statement:[/b]
+We are a small scale, private defense force region who&#39;s goal is to liberate regions who
+require small amounts of endorsements to liberate them from oppressive regimes.
 
-[b]Current Embassies:[/b]
-[region=United Moeller Federation]
-[region=The League of Sovereign Nations]
-[region=The New Roman Empire]
-[region=The Central Pacific Ocean]
+[b]Missions In-Progress[/b]
+-[I]Operation: Liberate [region=Kings of Epire][/I] // Progress = Early Stages
+
+[b]Completed Missions[/b]
+-

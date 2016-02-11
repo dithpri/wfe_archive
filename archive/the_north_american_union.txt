@@ -10,4 +10,5 @@ Emperor: [nation=short]United Federation of Canada[/nation]
 Premier: [nation=short]John Turner[/nation]
 Speaker of Congress: 
 Minister of The Union: [nation=short]Wayneactia[/nation]
-Chief Justice: [nation=short]American Pie Eaters[/nation][/color][/b]
+Chief Justice: [nation=short]American Pie Eaters[/nation]
+Secretary of The Interior: [nation=short]Regents[/nation][/color][/b]
