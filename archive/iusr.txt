@@ -1,19 +1,21 @@
-[b]Alert Level:[/b] [color=Green]DEFSTAT 4[/color]
+[u][b]Alert Level:[/b][/u] [color=Green]DEFSTAT 4[/color]
 
-[b]Latest News[/b]
+[u][b]Latest News[/b][/u]
 
-- Hana Bramanova announces plans for Socialist Confederation
-- Yorkopolis establishes new lunar research colony and missile defence programme
+[b][i]Gazeta[/i][/b] - Hana Bramanova announces plans for Socialist Confederation
+[b][i]Krasniya Today[/i][/b] - Diplomatic talks between Krasniya and Nuevo Meshiko to take place
+[b][i]Pravda[/i][/b] - Jana Lebedeva rocks new titovka, starts trend
+[b][i]Slobodan News (working title)[/i][/b] - Sloboda regains independence following IUSR state of emergency
 [hr]
 
-[b]Supreme Socialist Republics[/b]
+[u][b]Supreme Socialist Republics[/b][/u]
 
 Krasniya
 Czervenika
 Hallorania
 [hr]
 
-[b]Socialist Republics[/b]
+[u][b]Socialist Republics[/b][/u]
 
 Angloslavia
 Belakras
@@ -23,18 +25,15 @@ Osteyburg
 Pribaltika
 Ruapekapeka
 Turgeshstan
+Slobozhanshchyna
 [hr]
 
 [spoiler=[b][color=red]Maps[/color][/b]]
-[url=http://s15.postimg.org/vgpk4nfft/Zemlya_World_Atlas.png][color=0000cc][b]Zemlya World Atlas[/b][/color][/url] - [color=green]Up-to-date[/color]
-[url=http://s12.postimg.org/vt9f2rt0b/IUSRRelations_Map.png][color=cc0000][b]IUSR Relations Map[/b][/color][/url][/spoiler]
+[url=http://s13.postimg.org/v59e96ydh/Zemlya_World_Atlas.png][color=0000cc][b]Zemlya World Atlas[/b][/color][/url] - [color=green]Up-to-date[/color]
+[url=http://s9.postimg.org/y00hrpc0d/IUSRRelations_Map.png][color=cc0000][b]IUSR Relations Map[/b][/color][/url][/spoiler]
 [spoiler=[b][color=green]RP Threads[/color][/b]]
 [b]Forum[/b]
 No active threads
 
 [b]Regional Message Board[/b]
 The Confederation Proclamation[/spoiler]
-[spoiler=[b][color=cc0000]Ideological Works[/color][/b]][url=http://www.marxists.org/archive/marx/works/1848/communist-manifesto/index.htm][color=cc0000]The Communist Manifesto - Karl Marx[/color][/url]
-[url=http://www.marxists.org/archive/lenin/works/1917/staterev/index.htm][color=cc0000]The State and Revolution - Vladimir Lenin[/color][/url]
-[url=http://www.marxists.org/reference/archive/stalin/works/1924/11_19.htm][color=cc0000]Trotskyism or Leninism - Joseph Stalin[/color][/url]
-[url=https://www.marxists.org/archive/lenin/works/1905/dec/03.htm][color=cc0000]Socialism and Religion - Vladimir Lenin[/color][/url][/spoiler]

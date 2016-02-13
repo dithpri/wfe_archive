@@ -1,9 +1,9 @@
-[b]000&deg; 27&amp;#39; 16.5&amp;quot; N 158&deg; 39&amp;#39; 17.6&amp;quot; E
-024&deg; 14&amp;#39; 33.0&amp;quot; S 172&deg; 15&amp;#39; 17.5&amp;quot; E
-023&deg; 17&amp;#39; 36.5&amp;quot; S 163&deg; 04&amp;#39; 03.7&amp;quot; W
-028&deg; 15&amp;#39; 59.2&amp;quot; S 135&deg; 21&amp;#39; 49.3&amp;quot; W
-015&deg; 42&amp;#39; 45.0&amp;quot; S 145&deg; 57&amp;#39; 27.1&amp;quot; W
-029&deg; 43&amp;#39; 31.3&amp;quot; S 174&deg; 17&amp;#39; 32.5&amp;quot; W
+[b]000&deg; 27&#39; 16.5&quot; N 158&deg; 39&#39; 17.6&quot; E
+024&deg; 14&#39; 33.0&quot; S 172&deg; 15&#39; 17.5&quot; E
+023&deg; 17&#39; 36.5&quot; S 163&deg; 04&#39; 03.7&quot; W
+028&deg; 15&#39; 59.2&quot; S 135&deg; 21&#39; 49.3&quot; W
+015&deg; 42&#39; 45.0&quot; S 145&deg; 57&#39; 27.1&quot; W
+029&deg; 43&#39; 31.3&quot; S 174&deg; 17&#39; 32.5&quot; W
 
 Well, this fellow presumed, and correctly, as it turned out, that the Island was always moving. Now while the movements of the Island seem random, this man and his team created a series of equations which tell us, with a high degree of probability, where it is going to be at a certain point... in time. Windows, as it were, that while open, provide a route back.
 
