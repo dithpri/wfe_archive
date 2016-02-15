@@ -22,12 +22,17 @@ Al Bhed is spoken in:
 [u][b][color=orange]Currency Standard[/color][/b][/u]
 The Credit (&cent;)
 [i]-Lantea
--Tyara[/i]
+-Tyara
+-Alterus[/i]
 
 The Hel (HL)
-[i]-Saligia
--Celestia
--Megalis[/i]
+[i]-Xylvania
+-Voxai
+-Eaggra
+-Cybran[/i]
+
+The Ciel (&amp;#8353;L)
+[i]-Celestia[/i]
 
 The Norah (N)
 [I]-Salka[/I]

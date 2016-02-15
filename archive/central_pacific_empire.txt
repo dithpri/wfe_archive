@@ -17,8 +17,8 @@
 [hr][b][u]THE JUDICIARY[/u][/b]
 
 [b]Supreme Judge[/b]: [nation=shortname]Burgundaholmr[/nation]
-[b]Regional Judges[/b]: [nation=shortname]Burgundaholmr[/nation] and [nation=shortname]Centralton[/nation]
+[b]Regional Judges[/b]: [nation=shortname]VACANT[/nation] and [nation=shortname]Georgiaville[/nation]
 
 [hr][b][u]CAPITAL CITY[/u][/b]
 
-[nation=shortname]Emperor Islands Capital City[/nation], Governor, [nation=shortname]The Intergalactic Universe Corporation[/nation]
+[nation=shortname]Emperor Islands Capital City[/nation], Governor, [nation=shortname]New Nationale Einheit[/nation]
