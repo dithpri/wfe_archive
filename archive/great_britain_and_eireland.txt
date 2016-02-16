@@ -1,0 +1,25 @@
+Head of State: WIP
+
+Government: WIP
+- Prime Minister:
+- Chancellor of the Exchequer:
+- Home Secretary:
+- Foreign Secretary:
+
+Parliament: WIP
+- House of Commons:
+-- Government:
+-- Opposition:
+
+- House of Lords:
+-- Government:
+-- Opposition:
+
+Supreme Court: WIP
+- Chief Justice:
+- Associate Justice:
+- Associate Justice:
+- Associate Justice:
+- Associate Justice:
+- Associate Justice:
+- Associate Justice:
