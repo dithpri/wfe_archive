@@ -14,3 +14,4 @@
 NATIONS BANNED FROM ISLANDS:
 [nation=None]
 [hr]
+[b]Regionwide Currency: Islandic Yevanas[/b]
