@@ -10,9 +10,9 @@
 [nation]Ordoron[/nation]
 
 [i][color=FF0000]Other Government Positions:[/i][/color]
-[*][nation]Konstantinus[/nation]
+[*][color=orange]Not Available ATM[/color] 
 [hr]
-[b][color=red]Rules and Forums:[/color][/b]
+[color=red]Rules and Forums:[/color]
 [url=https://forum.nationstates.net/viewtopic.php?f=23&amp;t=365949]Regional Laws[/url]
 [url=https://forum.nationstates.net/viewtopic.php?f=31&amp;t=366460]Regional Military Ranks[/url]
 [url=https://kiwiirc.com/client]Offsite Fun Forum; KiwiIRC; Gamesurge[/url]

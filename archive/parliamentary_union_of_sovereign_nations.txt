@@ -8,7 +8,7 @@ Welcome to the [region]Parliamentary Union of Sovereign Nations[/region]! We off
 [color=red]President:[/color][nation=short]Libertarian Democracy[/nation]
 [color=red]Prime Minister:[/color][nation=short]Abdoa[/nation]
 
-[color=orange]MoD:[/color][nation=short]Merish isles[/nation]
+[color=orange]MoD:[/color]awaiting appointment
 [color=orange]MoJ:[/color][nation=short]mareut[/nation]
 [color=orange]MoW:[/color][nation=short]The North Region of Westeros[/nation]
 [color=orange]MoC:[/color]awaiting appointment
@@ -16,12 +16,12 @@ Welcome to the [region]Parliamentary Union of Sovereign Nations[/region]! We off
 [color=blue]Parliament:[/color]
 [nation=short]Libertarian Democracy[/nation]
 [nation=short]Mareut[/nation]
-[nation=short]Merish Isles[/nation]
 [nation=short]Stornland[/nation]
 [nation=short]Thrishca[/nation]
 [nation=short]Zodiacs[/nation]
 [nation=short]Abdoa[/nation]
 [nation=short]Jackova[/nation]
+[nation=short]terrakova[/nation]
 Open Seat
 [hr]
 WA Members, please endorse our [color=red]Prime Minister[/color]!
