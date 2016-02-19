@@ -1,8 +1,5 @@
-[b]
-[region]NatSo Party[/region]
-National-Socialist Political and Social Union representing member nations
-
-A [region]Stormlands[/region] Alliance Region
+[b][region]NatSo Party[/region]
+Official Political Party region of the [region]Stormlands[/region] Alliance of Nations
 
 
 [/b]
