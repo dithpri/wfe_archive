@@ -1,7 +1,1 @@
-[color=red][i]This region was taken over by [region]The United Socialist League[/region] &amp; [region]Novus Universale[/region] on the January 1st, 2016, at the dawn of the new year![/i]
-[hr][b][u]Raiders:[/u][/b]
-[list][*][b][u]Leader:[/u][/b]
-[list][*][nation=short]The United Socialist League[/nation] ([nation=short]The Ancient Greek City-State of Athens[/nation])[/list]
-[*][b][u]Trigger:[/u][/b]
-[list][*][nation=short]Penasal[/nation] ([nation=short]Nova Auraluxia[/nation])[/list][/list]
-[hr][b]NO GOOD CAN COME FROM CAPITALISM. NO GOOD CAN COME FROM FASCISM.[/b][/color]
+This region is now property of [region]The Fascist Military Powers[/region]

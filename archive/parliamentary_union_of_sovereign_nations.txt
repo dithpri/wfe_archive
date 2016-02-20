@@ -22,7 +22,7 @@ Welcome to the [region]Parliamentary Union of Sovereign Nations[/region]! We off
 [nation=short]Abdoa[/nation]
 [nation=short]Jackova[/nation]
 [nation=short]terrakova[/nation]
-Open Seat
+[nation=short]junastria[/nation]
 [hr]
 WA Members, please endorse our [color=red]Prime Minister[/color]!
 [hr]
