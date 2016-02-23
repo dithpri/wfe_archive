@@ -4,11 +4,11 @@
 
 [color=#000034]Troops:[/color][color=#9a6601]
 
-Sergeant [nation=short]chingisotchigin[/nation]
-Corporal [nation=short]Queen Yuno[/nation]
-Private First Class [nation=short]Panzer Vier[/nation]
+Corporal [nation=short]Tom Vasentius[/nation]
+Corporal [nation=short]Sentinel Optik[/nation]
 Private First Class [nation=short]New Wintony[/nation]
-Merc [nation=short]Cora III[/nation]
-Merc [nation=short]Kyorgia[/nation][hr]
+Private [nation=short]Clearer[/nation]
+Merc [nation=short]Cora iii[/nation]
+[hr]
 
 [/color][url=http://w11.zetaboards.com/DEN/index/][color=#000034]Join DEN in the [/color][color=#9a6601] conquest of NationStates![/color][/url][/b]

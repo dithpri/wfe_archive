@@ -1,5 +1,5 @@
 International Embassy of [nation]United Federation of Canada[/nation].
-[hr][B]Imperial Dominions:[/B]
+[hr][spoiler=[B]Imperial Dominions:[/B]]
 
 [region]Gargantuan[/region]
 [region]Verdania[/region]
@@ -14,3 +14,5 @@ International Embassy of [nation]United Federation of Canada[/nation].
 [region]Zionist Empire[/region]
 [region]United Regions Alliance Security Council[/region]
 [region]United Allied Confederacy[/region]
+[region]My CIA[/region]
+[region]The New Age Union[/region][/spoiler]

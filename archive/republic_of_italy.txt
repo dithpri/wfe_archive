@@ -1,8 +1,12 @@
 [b]Republic of Italy is a democratic regions that guarantees the respect of national sovereignty of each member nations. 
 
-Regional Administration
-Founder: [nation]Scandiano[/nation]
-Speaker and Advisor for Foreign Politics: [nation]Andrea90[/nation]
+[u]Regional Administration:[/u]
+[color=#FF0000]Founder[/color]: [nation]Scandiano[/nation]
+[color=#40BF40]Speaker and Advisor for Foreign Affairs[/color]: [nation]Andrea90[/nation]
+[hr]
 
-[u]Before asking for an embassy, please contact one of our Representatives[/u]
-[/b]
+[color=#4080FF]Official languages: Italian and English[/color]
+[hr]
+
+[color=#FF00BF][u]Before asking for an embassy, please contact one of our Representatives[/u]
+[/color][/b]
