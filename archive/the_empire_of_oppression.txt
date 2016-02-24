@@ -7,7 +7,7 @@
 [hr][b]Regional Government[/b]
 
 [url=https://www.nationstates.net/page=dispatch/id=570348][b][color=red]Vice-Delegate[/color]:[/b][/url]
-[nation]The Southern United Regions[/nation]
+[nation]The Southern United Regions[/nation] [b]([color=red]CP[/color])[/b]
 
 [url=https://www.nationstates.net/page=dispatch/id=566383][b][color=blue]GA Speaker[/color]:[/b][/url]
 [b]Open[/b]
@@ -16,7 +16,7 @@
 [b]Open[/b]
 
 [url=https://www.nationstates.net/page=dispatch/id=566388][b][color=blue]Minister of Defense[/color]:[/b][/url]
-[b]Open[/b]
+[nation]True North America[/nation] [b]([color=blue]AP[/color])[/b]
 
 [url=https://www.nationstates.net/page=dispatch/id=566391][b][color=red]Minister of Immigration[/color]:[/b][/url]
 [b]Open[/b]

@@ -7,3 +7,4 @@ REDWHITE ORDER RAIDERS:
 [nation=short]WHITE-STAR[/nation]
 [nation=short]DEAD-MOON[/nation]
 [nation=short]BLACK-HORSE[/nation]
+[nation=short]RED-STARS[/nation]

@@ -2,8 +2,6 @@
 
 [b]Leadership:[/b]
 Chancellor - [nation=Lyepestok]
-Minister of Defense - [nation=Solnichnzy]
-Minister of Internal Affairs/International Ambassador - [nation=Pogorevka]
 
 [b]Mission Statement:[/b]
 We are a small scale, private defense force region who&#39;s goal is to liberate regions who
@@ -13,7 +11,8 @@ require small amounts of endorsements to liberate them from oppressive regimes.
 -
 
 [b]Completed Missions[/b]
--[I]Operation: Liberate [region=Kings of Epire][/I] // Tavianan Order Implemented - 2/16/2016
+-[I]Operation: Capture [region=Kings of Epire][/I] // Tavianan Order Implemented - 2/16/2016
+-[I]Operation Liberate [region=CORRUPTICA][/i] // Home Region Order Restored - 2/24/16
 
 [b]Current Colonies[/b] 
 -[i][region=Kings of Epire][/i] // Tavianan Order Since 2/23/2016

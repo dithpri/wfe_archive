@@ -1,2 +1,4 @@
 [color=navy][b]Country of God[/b][hr][b]ORACLE ORDER:
-&amp;lt;&amp;lt; [/color][color=green]B1 Kingdom[/color][color=navy] | Country of God | [/color][color=green]United States of America[/color][color=navy] &amp;gt;&amp;gt;[/b][/color]
+&amp;lt;&amp;lt; [region]B1 Kingdom[/region] | Country of God | [region]United States of America[/region] &amp;gt;&amp;gt;[/b]
+
+[region=United States of America] accepts embassy offers.[/color]

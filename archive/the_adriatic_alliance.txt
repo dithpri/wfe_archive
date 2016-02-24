@@ -10,6 +10,6 @@ ________________________________________________________________________________
 
 [B][u][color=#610B0B]Regional News:[/color][/u][/B]
 [list]
-[*][color=#DF0101]We are withdrawing embassies with [region]Neverland of the Brave[/region][/color].
-[*][color=#DF0101]We are opening embassies with [region]The Embassy[/region][/color].
+[*][color=#DF0101]We are opening embassies with [region]The Embassy[/region][/color]
+[*][color=#DF0101]The Regional Games are under way![/color]
 [/list]
