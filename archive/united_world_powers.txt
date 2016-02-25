@@ -4,13 +4,11 @@
 
 [color=#000034]Troops:[/color][color=#9a6601]
 
-Sergeant [nation=short]ChingisOtchigin[/nation]
-Lieutenant [nation=short]Demzelka[/nation]
-Corporal [nation=short]Kolbaser I[/nation]
-Corporal [nation=short]John Kasich[/nation]
-Private First Class [nation=short]New Wintony[/nation]
-Private First Class [nation=short]Tyrinth[/nation]
-Raider Wolf [nation=short]Elysium Station[/nation] from [region]Lone Wolves United[/region]
-Private First Class [nation=short]Kajstan[/nation] from the [region]The Black Hawks[/region][hr]
+Sergeant [nation=short]Vaculatestar[/nation]
+Corporal [nation=short]Tom Vasentius[/nation]
+Corporal [nation=short]Sentinel Optik[/nation]
+Private First Class [nation=short]Crossplains[/nation]
+Private First Class [nation=short]Socio polor[/nation]
+[hr]
 
 [/color][url=http://w11.zetaboards.com/DEN/index/][color=#000034]Join DEN in the [/color][color=#9a6601] conquest of NationStates![/color][/url][/b]
