@@ -4,6 +4,7 @@ Despite or name we allow all forms and government and will help all new NS playe
 [url=http://www.broomdces.com/nseconomy/] In Depth Economy &amp; Stats[/url]
 [url=https://nationstatesplusplus.net/install] NS++[/url] 
 [url=http://www.diffen.com/difference/Left_Wing_vs_Right_Wing]Difference between left and right wing[/url]
+[url=https://forum.nationstates.net/viewtopic.php?f=5&amp;t=369448]News[/url]
 
 
 
@@ -16,8 +17,8 @@ Ambassador:
 
 
 LEGISLATIVE BRANCH
-Bill Creator:
-Bill Creator:
+Bill Creator: [nation=short]Jeraco[/nation]
+Bill Creator: [nation=short]Vanionia[/nation]
 Bill Creator:
 Senator:
 Senator:
@@ -40,8 +41,8 @@ Justice:
 Justice:
 
 INVESTIGATIVE:
-Government investigator:
+Government investigator: [nation=short]SchnitzelWurstV2[/nation] 
 Government investigator:
 Government investigator:
 
-OPEN GOVERNMENT POSITIONS:26
+OPEN GOVERNMENT POSITIONS:23
