@@ -11,7 +11,7 @@ Welcome to the [region]Parliamentary Union of Sovereign Nations[/region]! We off
 [color=orange]MoD:[/color]awaiting appointment
 [color=orange]MoJ:[/color][nation=short]mareut[/nation]
 [color=orange]MoW:[/color][nation=short]The North Region of Westeros[/nation]
-[color=orange]MoC:[/color]awaiting appointment
+[color=orange]MoC:[/color][nation=short]junastria[/nation]
 [hr]
 [color=blue]Parliament:[/color]
 [nation=short]Libertarian Democracy[/nation]

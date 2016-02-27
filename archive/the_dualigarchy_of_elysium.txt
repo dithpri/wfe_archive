@@ -1,13 +1,14 @@
-Supreme Overlord: [nation]United True Korea[/nation]
+[color=blue][u][b]Supreme Overlord:[/b][/u][/color] [nation]United True Korea[/nation]
 
-Vice Overlord: [nation]Toscana e Firenze[/nation]
+[color=burgundy][b]Vice Overlord:[/b][/color] [nation]Toscana e Firenze[/nation]
 
-Chief of Defense: [nation]Staleningradsky[/nation]
+[color=red][b]Chief of Defense:[/b][/color] [nation]Staleningradsky[/nation]
 
-Chief of Information: N/A
+[b]Chief of Information:[/b] [nation]Neu Deutsches Empire[/nation]
 
-Rules:
-1. Obey Korea and Toscana
+[u]Rules:[/u]
+[u][b]1. Obey Korea and Toscana[/b][/u]
 2. Be nice to fellow region members
 3. Keep conversations civil
-4. Have an open mind 
+4. Have an open mind
+5. [color=gold]HAVE FUN![/color]

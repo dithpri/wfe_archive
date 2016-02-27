@@ -9,8 +9,8 @@
 [color=#000034]DEN High Command[/color][color=#9a6601]
 
 Field Marshal: [nation=short]Gest[/nation]
-Generals: [nation=short]Kknight[/nation]
-Brigadiers: [nation=short]Knot II[/nation], [nation=short]94 block[/nation][/color]
+Generals: [nation=short]Kknight[/nation], [nation=short]Knot II[/nation]
+Brigadiers: [nation=short]94 block[/nation][/color]
 
 [hr]
 

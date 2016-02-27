@@ -1,0 +1,12 @@
+A defender group dedicated to the protection of the regions of [region]the United Federation of Planets[/region] and [region]the Galactic Federacy[/region].
+
+Commanding Admiral: [nation=short]Starfleet Admiral[/nation]
+First Officer: [Vacant]
+Lieutenant Commander-Chief Tactical Officer: [Vacant]
+Lieutenant Commander-Chief Engineer: [Vacant]
+
+Current status: [color=#FF0000][B]RED ALERT[/B][/color]
+At war with: [region]DEN[/region]
+Current missions: [B]Patrol[/B]: [region]the United Federation of Planets[/region], [region]the Galactic Federacy[/region].
+
+EST timer: http://www.timeanddate.com/time/zones/est

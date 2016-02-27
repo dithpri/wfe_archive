@@ -13,7 +13,7 @@ EXECUTIVE BRANCH
 President:[nation=short]United_nations_of_the_Far_West[/nation]
 Vice President:
 Sec. of Interior:
-Ambassador:
+Ambassador:[nation=short]The_Federation_of_Soldiers[/nation]
 
 
 LEGISLATIVE BRANCH
@@ -45,4 +45,4 @@ Government investigator: [nation=short]SchnitzelWurstV2[/nation]
 Government investigator:
 Government investigator:
 
-OPEN GOVERNMENT POSITIONS:23
+OPEN GOVERNMENT POSITIONS:22
