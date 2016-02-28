@@ -6,10 +6,9 @@
 
 [color=#B22222]General: [nation=short]BoSS-Oberstgruppenfuehrer Tom Vasentius[/nation]
 Spearwoman: [nation=short]Quilian[/nation]
+Recruit: [nation=short]Kolbaser II[/nation]
+LWU Raider Wolf: [nation=short]Elysium Station[/nation]
 
-
-Corporal: [nation=short]Raionitu[/nation]
-Merc: [nation=short]Cora III[/nation]
 [hr]
 
 [/color][url=http://s15.zetaboards.com/BoSS/index/][color=#B22222]Join the Brotherhood of Shadows today![/color][/url][/b]
