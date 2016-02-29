@@ -8,8 +8,8 @@ Welcome to [region]Kamidotekushi[/region], an old and contested region recently 
 [color=green][B]~Delegate~[/B][/color]
 [nation]Delini[/nation]
 
-[color=green][B]~Ministry~ [Closed][/B][/color] 
-[nation]Port Crane[/nation] 
+[color=green][B]~Ministry~ [/B][/color] 
+Empty
 [nation]Commonwealth of Hank the Cat[/nation] 
 [nation]North Libya[/nation] 
 [nation]Franklin And Jefferson[/nation] 
@@ -20,4 +20,5 @@ Empty
 
 
 [B][color=blue]Announcements:[/color][/B]
-[B]none[/B]
+Delegate elections
+Upcoming Communication Officer election

@@ -10,23 +10,21 @@
 [hr]
 
 [spoiler=News]
-[color=Red][b]News[/b][/color] [i]2/23/2016[/i]
+[color=Red][b]News[/b][/color] [i]2/29/2016[/i]
 [list]
- [*] Embassy established with [region=INWU Centers for Disease Control]
-[/list]
-[color=Red][b]News[/b][/color] [i]2/17/2016[/i]
-[list]
- [*] The DEN recently attempted another invasion... and failed thanks to your endorsements.
- [*] [nation=Ulrich von Liechtenstein] reinstated as [color=green][b]Secretary of Regional Defense[/b][/color]
+ [*]New embassies
+ [list]
+ [*][region=Holy Rome]
+ [*][region=THE ROMAN COALITION]
+ [*][region=BENEVOLENT EMPIRE]
+ [/list]
 [/list][/spoiler]
-
 
 [spoiler=Challenges]
 [color=Blue][b]Participate in friendly sport![/b][/color]
 [list]
 [*][url=https://www.nationstates.net/page=challenge?entity_name=ulrich_von_liechtenstein]Secretary of Regional Defense [/url]
 [*][url=https://www.nationstates.net/page=challenge?entity_name=kiladuhwales]WA Delegate[/url]
-[*][url=https://www.nationstates.net/page=challenge?entity_name=PAOKLANDIA]Guest Challenger[/url]
+[*][url=https://www.nationstates.net/page=challenge?entity_name=benevolent_1]Guest Challenger[/url]
 [/list]
 [/spoiler]
-

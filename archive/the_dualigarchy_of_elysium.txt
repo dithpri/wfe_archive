@@ -1,4 +1,4 @@
-[color=blue][u][b]Supreme Overlord:[/b][/u][/color] [nation]United True Korea[/nation]
+[color=lightblue][u][b]Supreme Overlord:[/b][/u][/color] [nation]United True Korea[/nation]
 
 [color=maroon][b]Vice Overlord:[/b][/color] [nation]Toscana e Firenze[/nation]
 
@@ -6,8 +6,10 @@
 
 [b]Chief of Defense:[/b] [nation]Neu Deutsches Empire[/nation]
 
+[color=blue][b]Adviser of Chiefs:[/b][/color] [nation]United_Southernours[/nation]
+
 [u]Rules:[/u]
-[u][b]1. Obey Korea and Toscana[/b][/u]
+1. [color=orange][u][b]NEVER[/b][/u][/color] avoid the monthly human rights inspections.
 2. Be nice to fellow region members
 3. Keep conversations civil
 4. Have an open mind

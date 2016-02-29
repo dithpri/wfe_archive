@@ -11,7 +11,9 @@ High Council Member 1: [nation=short]MacLeod Industries[/nation]
 
 High Council Member 2: [nation=short]Infinitise[/nation]
 
-High Council Member 3: Election Upcoming
+High Council Member 3: [nation=short]Naoarn[/nation]
+
+High Council Member 4: [nation=short]Law23man[/nation]
 
 Sole Dictator Act: False
 

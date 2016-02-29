@@ -3,7 +3,8 @@
 
 [color=#e60000]SENATE[/color]
 [i]President[/i]: [nation=short]Stormlands Foundation[/nation]
-[i]Vice President[/i]: Being elected
+[i]Vice President[/i]: *[nation=short]Diploklania[/nation]
+[color=red]* until March 15th, General Election[/color]
 
 [I]Political Chamber[/I]: [nation=short]Nazis Are Here[/nation]
 [i]Corporate Chamber[/I]: [nation=short]Grand Don Army[/nation]
