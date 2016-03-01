@@ -1,17 +1,29 @@
-[b][region]Nazi NationStates[/region]: A [region]Stormlands[/region] Alliance member
+[b]A Federation of [region]Nazi NationStates[/region] for the 21st Century 
+[url=http://www.nationstates.net/nation=der_stahlhelm/detail=factbook/id=570875]Political Platform[/url] - [url=http://www.nationstates.net/nation=der_stahlhelm/detail=factbook/id=553013]Regional Flag[/url]
 
+[color=#e60000]President[/color]: [nation=short]Der Stahlhelm[/nation]
+[color=#e60000]Vice President[/color]: [nation=short]Nazi Supremacy[/nation]
 
-[i][color=#e60000] &#147;The Lord will bring a nation against you from far away, from the end of the earth, swooping down like the eagle, a nation whose language you do not understand&#148; [/color][/i] (Duet 28:49)
+Ministers
+[color=#e60000]Agriculture[/color]:
+[color=#e60000]Aryan Immigration[/color]: [nation=short]The Nazi Dominion[/nation]
+[color=#e60000]Commerce[/color]:
+[color=#e60000]Defense[/color]:
+[color=#e60000]Education[/color]:
+[color=#e60000]Energy[/color]:
+[color=#e60000]Environment[/color]:
+[color=#e60000]Faith[/color]:
+[color=#e60000]Health[/color]:
+[color=#e60000]Infrastructure[/color]:
+[color=#e60000]Justice[/color]:
+[color=#e60000]Labor[/color]:
+[color=#e60000]Reclamation[/color]:
+[color=#e60000]Science and Technology[/color]:
+[color=#e60000]Security[/color]: [nation=short]The Aryan Deutschland[/nation]
+[color=#e60000]Space[/color]:
+[color=#e60000]State[/color]:
+[color=#e60000]Natural Resources[/color]:
+[color=#e60000]Transportation[/color]:
+[color=#e60000]Treasury[/color]:
 
-This modern and unique region features confederated NationStates of European and colonial ancestry that subscribe to and embrace the tenants of [url=http://www.nationstates.net/nation=der_stahlhelm/detail=factbook/id=570875]21st century National Socialism[/url]
-
-States within are encouraged to maintain their nations frequently, join [region]Stormlands[/region] with a war nation, promote European cooperation and expand the embassies of alliance membership
-[nation=short]Der Stahlhelm[/nation]
-
-[color=#e60000]Essential Links[/color] 
-[url=http://www.nationstates.net/page=un]WA Registration[/url]
-[URL=http://www.nationstates.net/nation=der_stahlhelm/detail=factbook/id=553634]Stormlands Forum Registration[/url]
-[url=http://forum.nationstates.net/viewtopic.php?f=15&amp;t=269464]NS++[/url]
-[url=https://translate.google.com/]Translator[/url]
-[url=http://www.nationstates.net/pages/api.html]Recruiting API[/url]
-[/b]
+[i]A [region]Stormlands[/region] Alliance Region[/i][/b]
