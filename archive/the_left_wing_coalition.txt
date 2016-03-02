@@ -18,7 +18,7 @@ Ambassador:[nation=short]The_Federation_of_Soldiers[/nation]
 
 LEGISLATIVE BRANCH
 Bill Creator: [nation=short]Jeraco[/nation]
-Bill Creator: [nation=short]Vanionia[/nation]
+Bill Creator:
 Bill Creator:
 Senator:
 Senator:
@@ -45,4 +45,4 @@ Government investigator: [nation=short]SchnitzelWurstV2[/nation]
 Government investigator:
 Government investigator:
 
-OPEN GOVERNMENT POSITIONS:22
+OPEN GOVERNMENT POSITIONS:23

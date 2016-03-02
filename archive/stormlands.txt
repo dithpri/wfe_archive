@@ -1,29 +1,30 @@
-[b]&amp;#9889; [region]STORMLANDS[/region] &amp;#9889; 
-[i][color=#c60000]Join the Alliance of Ethnonational Socialist Nations[/i][/color]
+[b] [color=gold]&amp;#9889;[/color] [region]STORMLANDS[/region] [color=gold]&amp;#9889;[/color]
+[i][color=#c60000]We are an Ethnonational Socialist Federation of Regions[/i][/color]
+[url=http://www.nationstates.net/nation=der_stahlhelm/detail=factbook/id=570875]Political Platform[/url] - [url=http://www.nationstates.net/nation=stormlands_foundation/detail=factbook/id=581411]Regional Flag[/url]
 
-[color=#e60000]SENATE[/color]
-[i]President[/i]: [nation=short]Stormlands Foundation[/nation]
-[i]Vice President[/i]: *[nation=short]Diploklania[/nation]
-[color=red]* until March 15th, General Election[/color]
+[color=#c60000]EXECUTIVE[/color]
+[color=gold]&amp;#9889;[/color] [i]Federal State Authority[/i]: [nation=short]Stormlands Foundation[/nation]
+[color=gold]&amp;#9889;[/color] [i]President[/i]: [color=green]Open[/color]
+[color=gold]&amp;#9889;[/color] [i]Vice President[/i]: [color=green]Open[/color]
 
-[I]Political Chamber[/I]: [nation=short]Nazis Are Here[/nation]
-[i]Corporate Chamber[/I]: [nation=short]Grand Don Army[/nation]
-[i]Senator for[/I] [region]Nazi NationStates[/region]: [nation=short]NAZIS Are Here[/nation]
-[i]Senator for[/I] [region]The Great Russian Union[/region]: [nation=short]Grand Don Army[/nation]
-[i]Senator for[/I] [region]NatSo Party[/region]: [nation=short]National Sozialists[/nation]
-[i]Senator for[/I] [region]National Socialist Ministries[/region]: [nation=short]Drittes Deutsches Reich[/nation] 
-[i]Senator for[/I] [region]The Klan[/region]: [nation=short]Diploklania[/nation]
-[i]Senator for[/I] [region]Nazi Romania[/region]: [nation=short]Vladisylvaniar[/nation]
+[color=#c60000]SENATE[/color]
+[color=gold]&amp;#9889;[/color] [i]Senator for[/I] [region]Nazi NationStates[/region]
+Political Chamber: [nation=short]Nazi Utopia[/nation]
 
-&amp;#9889; [color=#e60000]COLONIES[/color] &amp;#9889; 
-[i]Guardian[/I] [region]Slavic Europa[/region]: [nation=short]Slavyanskiy Svoboda[/nation]
-[i]Guardian[/I] [region]Rossiya[/region]: [nation=short]Rossiya dlya Russkikh[/nation]
+[color=gold]&amp;#9889;[/color] [i]Senator for[/I] [region]The Great Russian Union[/region]
+Corporate Chamber: [nation=short]Grand Don Army[/nation]
 
-&amp;#9889; [color=#e60000]ESSENTIAL LINKS[/color] &amp;#9889; 
-[url=http://www.nationstates.net/page=dispatch/id=579254]Party Platform[/url]
-[url=http://www.nationstates.net/nation=stormlands_foundation/detail=factbook/id=579427]Party Forum[/url]
-[url=http://www.nationstates.net/page=un]WA[/url]
-[url=http://forum.nationstates.net/viewtopic.php?f=15&amp;t=269464]NS++[/url]
-[url=http://forum.nationstates.net/viewtopic.php?f=12&amp;t=307728#31]Military Guide[/url]
-[url=http://www.nationstates.net/pages/api.html]Recruitment API[/url]
-[/b]
+[color=gold]&amp;#9889;[/color] [i]Senator for[/I] [region]National Socialist Ministries[/region]: [nation=short]Gothic Empire[/nation]
+
+[color=gold]&amp;#9889;[/color] [i]Senator for[/I] [region]Nazi Romania[/region]: [nation=short]Vladisylvaniar[/nation]
+
+[color=#c60000]MINISTERS[/color]
+[color=gold]&amp;#9889;[/color] Ministry positions [color=green]Open[/color]
+
+[color=#c60000]DIPLOMATS[/color]
+[color=gold]&amp;#9889;[/color] [i]Diplomat for[/I] [region]Slavic Europa[/region]: [nation=short]Yugogorov[/nation]
+[color=gold]&amp;#9889;[/color] [i]Diplomat for[/I] [region]Rossiya[/region]: [nation=short]Rusvolga[/nation]
+[color=gold]&amp;#9889;[/color] [i]Diplomat for[/I] [region]The Klan[/region]: [nation]Diploklania[/nation]
+
+[color=black]Ethnonational Socialists Only[/color]
+[color=red]Multiculturalism and Internationalism is illegal[/color][/b]

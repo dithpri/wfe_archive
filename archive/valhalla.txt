@@ -3,12 +3,12 @@
 [color=blue]&quot;Thors Hammered&quot;[/color] is open 24/7 so come on in and join us for a free drink!
 
 [b]Government:[/b]
-Delegate: [nation]The Germanic European Empire[/nation]
-Immigration Minister: Vacant
+Delegate: [nation=short]The Germanic European Empire[/nation]
+Immigration Minister: [nation=short]Illustaria[/nation]
 Development Minister: Vacant
 
 [hr][color=red][b]NEWS:
-&raquo;[/color] Applications for Development and Immigration Ministers - [url=http://www.nationstates.net/page=dispatch/id=576820]More Information[/url][/b]
+&raquo;[/color] Applications for Development Minister - [url=http://www.nationstates.net/page=dispatch/id=576820]More Information[/url][/b]
 [hr]
 [b]Sister Region: [region]YGGDRASIL[/region][/b]
 Regional Diplomacy: See list of embassies below
