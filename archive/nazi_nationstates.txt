@@ -1,5 +1,4 @@
 [b]21st Century [region]Nazi NationStates[/region] 
-[i]A Region of the [region]Stormlands[/region] Federation[/i]
 
 [url=http://www.nationstates.net/nation=der_stahlhelm/detail=factbook/id=570875]Political Platform[/url] - [url=http://www.nationstates.net/nation=der_stahlhelm/detail=factbook/id=553013]Regional Flag[/url]
 
@@ -25,6 +24,7 @@ Ministers
 [color=#e60000]Space[/color]:
 [color=#e60000]Sport[/color]:
 [color=#e60000]State[/color]:
+[color=#e60000]Media[/color]:
 [color=#e60000]Natural Resources[/color]:
 [color=#e60000]Technology[/color]:
 [color=#e60000]Tourism[/color]:

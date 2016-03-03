@@ -1,14 +1,1 @@
-[color=green][b]Welcome to [region]the Middle of Nowhere[/region]. If you don&#39;t like it, there&#39;s always [region]Somewhere[/region] else, [region]Anywhere[/region] really.[/color][/b]
-[color=green]If you are WA, please endorse [nation=short]South of Nowhere[/nation]. Also consider adopting our optional regional currency, the nothing.[/color]
-
-[color=purple][b]President/WA Delegate:[/b][/color] [nation=short]South of Nowhere[/nation]
-
-[color=purple][b]Vice President:[/b][/color] [nation=short]West of Nowhere[/nation]
-
-[color=purple][b]Foreign Affairs:[/b][/color] [nation=short]Craptown of Nowhere[/nation]
-
-[color=purple][b]Defence:[/b][/color] [nation=short]The Depths of Nowhere[/nation]
-
-[color=purple][b]Regional Banker:[/b][/color] [nation=short]The Heights of Nowhere[/nation]
-
-[color=purple][b]Law and Order:[/b][/color] [nation=short]Far North of Nowhere[/nation]
+[b][color=#000034]Invaded by the crappy forces of [region=DEN], who have nothing better to do!
