@@ -1,14 +1,14 @@
 [b]BOLD[/b]
 [i]ITALICS[/i]
 [u]UNDERLINE[/u]
-[color=#CC1100]GREEN[/color]
+[color=#de3163]GREEN[/color]
 
 
 This was made by [nation]The Alleged[/nation]
 
 Hello residents of new naltaria, and welcome! I hope you are enjoying our nation, and please contribute in any way
 
-[b]FEDERAL LAW[/b]:
+[color=#8E35EF][u][b]FEDERAL LAW[/b][/u][/color]:
 
 NO PUPPET NATIONS
 

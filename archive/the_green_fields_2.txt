@@ -4,13 +4,13 @@
 
 [color=#000034]Troops:[/color][color=#9a6601]
 
-Corporal [nation=short]Vaculatestar[/nation]
-Private First Class [nation=short]Sentinel Optik[/nation]
-Private First Class [nation=short]Socker-bit[/nation]
-Private First Class [nation=short]Islands of Kerguelen[/nation]
-Private [nation=short]New Wintony[/nation]
-Private [nation=short]Panzer Vier[/nation]
-Private [nation=short]Vukmire[/nation]
+Sergeant [nation=short]ChingisOtchigin[/nation]
+Corporal [nation=short]Sentinel Optik[/nation]
+Corporal [nation=short]New Wintony[/nation]
+Corporal [nation=short]Pz4[/nation]
+LWU Raider Wolf [nation=short]Elysium Station[/nation]
+Merc [nation=short]Crazy Cora[/nation]
+Merc [nation=short]Kyorgia[/nation]
 [hr]
 
 [/color][url=http://w11.zetaboards.com/DEN/index/][color=#000034]Join DEN in the [/color][color=#9a6601] conquest of NationStates![/color][/url][/b]

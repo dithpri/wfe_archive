@@ -18,13 +18,14 @@ Sole Dictator Act: False
 Emergency Declaration: False
 [hr] 
 [b]Citizens:[/b]
-[nation=short]MacLeod Industries[/nation] - Stuart MacLeod 
-[nation=short]Naoarn[/nation] - Cody Clifford
-[nation=short]Infinitise[/nation] - Lucy Garberg
-[nation=short]Law23man[/nation] - Lawrence Scola
-[nation=short]Skodadia[/nation] - Ryan Collins
-[nation=short]LanlersKnights[/nation] - Cyrus Baumgaertel
-[nation=short]Herobrine69999[/nation]  - Jake Messier
-[nation=short]Jaredworld[/nation] - Jared Mercado
-[nation=short]0B3Y[/nation] - Damion Ortiz
-[nation=shoty]Sherlocke[/nation] - Owen Sherlock
+[nation=short]MacLeod Industries[/nation] - Stuart 
+[nation=short]Naoarn[/nation] - Cody
+[nation=short]Infinitise[/nation] - Lucy 
+[nation=short]Law23man[/nation] - Lawrence
+[nation=short]Skodadia[/nation] - Ryan
+[nation=short]LanlersKnights[/nation] - Cyrus
+[nation=short]Herobrine69999[/nation]  - Jake
+[nation=short]Jaredworld[/nation] - Jared
+[nation=short]0B3Y[/nation] - Damion
+[nation=short]Sherlocke[/nation] - Owen
+[nation=short]JakeEnos[/nation]- Jake

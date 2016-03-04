@@ -23,6 +23,6 @@ Minister of Foreign Affairs: [nation=short]Gooutofhere[/nation] (T)
 &#149; Vacant 
 &#149; [nation=short]Traders Row[/nation] (Y)
 &#149; [Nation=short]The Arian Nation[/Nation] (UM)
-[hr]Justices: &#149; [nation=short]Correctional Facility[/nation] (UM)[hr]
+[hr]Justices: &#149; [nation=short]Correctional Facility[/nation] (Y)[hr]
 [u][color=darkred]IFU Radio[/b][/color][/u]
 [i]Now Playing:[url=https://www.youtube.com/watch?v=9jhDjfrbfHI]Hraach - Yaman Dle[/url][/i]

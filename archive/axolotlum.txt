@@ -12,7 +12,8 @@ Delegate: [nation=boss Landia] [/color]
 
 
 If you are new, or just have to ask anyone anything, talk to these people:
-[spoiler][nation]yorono[/nation]
-[nation]boss landia[/nation]
+[spoiler]
+[nation]the sineth[/nation]
 [nation]jowowwo[/nation]
-[nation]the sineth[/nation][/spoiler]
+[nation]yorono[/nation]
+[nation]boss landia[/nation][/spoiler]

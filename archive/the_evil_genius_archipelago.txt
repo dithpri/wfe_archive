@@ -11,8 +11,8 @@ Napoleon Bonaparte [nation=short]Thornico[/nation]
 [color=brown][b]Regional Judge:[/b][/color] James Bond [nation=short]Mist veil[/nation]
 
 [color=brown][b]Congress[/b][/color]
-The Devious Party: 60.0% [nation=short]Thornico[/nation]
-The Piner Party: 20.0% [nation=short]The Cass Confederation[/nation]
+The Devious Party: 50.0% [nation=short]Thornico[/nation]
+The Piner Party: 0.0% [nation=short]The Cass Confederation[/nation]
 The Human-Error Party: 0.0% [nation=short]Big Bosss Wasteland[/nation]
-The Solar Party: 20.0% [nation=short]Mist Veil[/nation]
+The Solar Party: 50.0% [nation=short]Mist Veil[/nation]
 
