@@ -4,5 +4,7 @@
 
 [b][color=darkred]Join our cause brothers and sisters! We live and die for Rome and Caesar![/color][/b]
 [hr][b][u]Imperial Command[/u][/b]
-[b]Caesar[/b]:[nation=short]the Tiber[/nation]
-[b]Magistratus[/b]: [nation=short]the Legionnaires[/nation]
+[b]Caesar[/b]: [nation]the Tiber[/nation]
+[hr][b][u]Sister Regions:[/u][/b]
+[b]| [region]Rome[/region] | [region]Ancient Rome[/region] | [region]Imperial Rome[/region] | [region]Roman Republic[/region] | [region]Mediterranean[/region] | [region]Christendom[/region] | [region]Eastern Roman Empire[/region] | 
+[/b][hr]

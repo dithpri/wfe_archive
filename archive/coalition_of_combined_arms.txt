@@ -4,12 +4,12 @@
 
 [color=#000034]Troops:[/color][color=#9a6601]
 
-Lieutenant [nation=short]Demzelka[/nation]
-Corporal [nation=short]Sentinel Optik[/nation]
-Corporal [nation=short]Tom Vasentius[/nation]
-Private [nation=short]Crossplains[/nation]
-Private [nation=short]Socio Polor[/nation]
-Raider Wolf [nation=short]Elysium Station[/nation] of Lone Wolves United
+Sergeant [nation=short]Tom Vasentius[/nation]
+Captain [nation=short]Demzelka[/nation]
+Corporal [nation=short]New Wintony[/nation]
+Corporal [nation=short]Tyrinth[/nation]
+Private First Class[nation=short]Clearer[/nation]
+Private First Class[nation=short]Socio polor[/nation]
 [hr]
 
 [/color][url=http://w11.zetaboards.com/DEN/index/][color=#000034]Join DEN in the [/color][color=#9a6601] conquest of NationStates![/color][/url][/b]
