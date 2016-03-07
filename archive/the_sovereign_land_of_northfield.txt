@@ -1,9 +1,11 @@
-[i]Welcome to the Sovereign Land of Northfield![/i] A land of lush fields and tall oaks. One in which nations of all kinds reside in peace and harmony. 
+[i]Welcome to the [b][color=green]Sovereign Land of Northfield![/i][/color][/b] A land of lush fields and tall oaks. One in which nations of all kinds reside in peace and harmony. 
 
 [b]*This region is a replacement of &quot;The Sovereign Land of Northbank&quot;.[/b]
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[u]Founder:[/u] [color=red][b]New Outlandia[/b][/color] (http://www.nationstates.net/nation=new_outlandia)
+[u]Founder:[/u] [color=red][b][nation]New Outlandia[/nation][/b][/color] 
 
-[u]Current WA Delegate:[/u] [color=blue][b]Das Bundesrepublik Deutschland[/b][/color] (http://www.nationstates.net/nation=das_bundesrepublik_deutschland)
+[u]Current WA Delegate:[/u] [color=blue][b][nation]Das Bundesrepublik Deutschland[/nation][/b][/color]
+
+[u]Current Vice Delegate:[/u] [color=orange][b][nation]The New Marxist Peoples[/nation][/b][/color] 

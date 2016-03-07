@@ -5,9 +5,13 @@ Region Tech Cold War&amp;gt;Modern&amp;gt;Advanced Modern&amp;gt;Futuristic
 Main Enemy Force: Grurk
 Minor Force:Irie
 
-Grurk -Forces:5 Armies, 5 Xeno-slave Armies, 15 Human Slave Armies(Intel Pending on how many Human Nations there are)
-Irie -Forces: 2 Armies, 3 Human-Slave Armies
+One Army = 10K Troops
+Threat level: Low (Higher threat more Armies deployed)
+Grurk-Irie: At war(More Armies being Deployed)
 
-Grurk Region Control:96%
-Irie Region Control:3%
-Human Region Control:1%
+Grurk -Forces:12 Armies, 12 Xeno-slave Armies, 18 Human Slave Armies(Intel Pending on how many Human Nations there are)
+Irie -Forces: 4 Armies, 3 Human-Slave Armies
+
+Grurk Region Control:94% :1,475 Millon Grurk Colonists +6%
+Irie Region Control:5% : 200 Millon Grurk colonists +2%
+Human Region Control:1% 

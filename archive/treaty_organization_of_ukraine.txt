@@ -1,1 +1,31 @@
 [B]This is a region of slavs, vikings and cossack brothers![/B]
+
+[B]TOOU Armed Forces:[/B]
+The Armed Forces are divided in to 4 groups: TOOU Navy, TOOU Air Force, TOOU Army and TOOU National Guard.
+
+[B]Supreme Commander Of TOOU Armed Forces:[/B]
+[nation]Svoboda Party[/nation]
+
+[B]TOOU Navy:[/B]
+Admiral: -
+Vice Admiral: None
+Rear Admiral: None
+Squadron-Admiral: None
+
+[B]TOOU Air Force[/B]
+General: None 
+General Lieutenant: None
+General Major: None
+Brigadier General: None
+
+[B]TOOU Army[/B]
+General: [nation]Ukrainian Insergent Army[/nation]  
+General Lieutenant: None
+General Major: None
+Brigadier General: None
+
+[B]TOOU National Guard[/B]
+General: None 
+General Lieutenant: None
+General Major: None
+Brigadier General: None

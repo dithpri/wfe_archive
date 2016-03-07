@@ -1,15 +1,13 @@
 Congressional building for The Insane Region.
 
-[spoiler=Senators]Republican Party:
-The Freedom Party:
-The Socialist, Communist, and Totalitarian Party:
-TIR Fascist Division:
-The Dovahkiin Mercenaries:[/spoiler][spoiler=Representatives]Republican Party:
-The Freedom Party:
-The Socialist, Communist, and Totalitarian Party:
-TIR Fascist Division:
-The Dovahkiin Mercenaries:[/spoiler]
+[spoiler=Senators]Republican Party: [nation=short+noflag]Cresenthia[/nation]
+The Freedom Party: [nation=short+noflag]Dark Creeper[/nation]
+The Socialist, Communist, and Totalitarian Party: [nation=short+noflag]The Mickey Mouse Club[/nation]
+TIR Fascist Division: [nation=short+noflag]The True Force[/nation]
+The Dovahkiin Mercenaries: [nation=short+noflag]MentalReRe19[/nation][/spoiler][spoiler=Representatives]Republican Party: [nation=short+noflag]The Great Britannian Republic[/nation], [nation=short+noflag]The South African National Congress[/nation]
+The Freedom Party: [nation=short+noflag]The United States Military[/nation]
+The Socialist, Communist, and Totalitarian Party: [nation=short+noflag]Vuirden[/nation], [nation=short+noflag]Call of Duty Advanced Warfare[/nation]
+TIR Fascist Division: [nation=short+noflag]TING TANG WALLAWALLA BING BANG[/nation], [nation=short+noflag]The Fascist League[/nation]
+The Dovahkiin Mercenaries: [nation=short+noflag]MentalReRe19[/nation][/spoiler]
 
 Only Congressional members are authorized to post here (and administrative officers)
-
-Suggesting a law: To suggest a law (Congressmen) you post the law in the format shown in &quot;Proposing Regional Legislation&quot; for NON-Congressmen you need to contact your party&#39;s senator/representative (show above) and send them the law in proper format. If you have no party contact a senator/representative of the Republican Party.
