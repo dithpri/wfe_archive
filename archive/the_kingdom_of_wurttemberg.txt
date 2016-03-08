@@ -1,6 +1,5 @@
 [i][color=gold]&quot;Furchtlos und treu!&quot;[/color][/i]
-[hr]
-[b]King (Wilhelm IV):[/b] [nation=short]Stuttgart_Castle[/nation]
+[hr][b]King (Wilhelm IV):[/b] [nation=short]Stuttgart_Castle[/nation]
 [b]Crown Prince (Rudolf von Friedburg):[/b] [nation=short]The_Third_German_Empire[/nation]
 [b]Chancellor (Kreszenz Aeschelman):[/b] [nation=short]Yhursehsia[/nation]
 [b]Minister of Foreign Relations (Aldric Eberhard):[/b] [nation=short]TrumpTowa[/nation]

@@ -9,7 +9,7 @@
 [hr]
 [b][u][i][color=yellow]Legislative Branch[/b][/u][/i][/color]
 [color=blue]Senator and Chairman of Embassies: [nation=Bazookistan][/color]
-[color=red]Senator and Chairman of Borders:[/color] TBD
+[color=red]Senator and Chairman of Borders:[/color] [nation]Zexez[/nation]
 [color=silver]Senator and Chairman of Voting: [nation=The Chitin Hive][/color] 
 [hr]
 [b][u][i][color=yellow]Judicial Branch[/b][/u][/i][/color]

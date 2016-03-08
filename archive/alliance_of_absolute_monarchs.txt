@@ -1,6 +1,7 @@
 New Government Positions now open!
 
-King: [nation]The Kingship of Glemica[/nation]
+Sovereign: [nation]The Kingship of Glemica[/nation]
+Regent:
 
 Judiciary Board
 Chief Justice:

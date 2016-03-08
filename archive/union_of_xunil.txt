@@ -12,4 +12,5 @@ Sub-Nations (cannot vote):
      [nation]Fawdaa[/nation]
      [nation]Hobbism[/nation] 
      [nation]Annulirovany[/nation] 
+     [nation]Ditatura[/nation]
 
