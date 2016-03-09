@@ -4,12 +4,12 @@
 
 [color=#000034]Troops:[/color][color=#9a6601]
 
-Sergeant [nation=short]ChingisOtchigin[/nation]
-Corporal [nation=short]Sentinel Optik[/nation]
-Corporal [nation=short]New Wintony[/nation]
-Corporal [nation=short]Pz4[/nation]
-LWU Raider Wolf [nation=short]Elysium Station[/nation]
-Merc [nation=short]Crazy Cora[/nation]
+Sergeant [nation=short]Chingisotchigin[/nation]
+Lieutenant [nation=short]We_are_not_the_NSA[/nation]
+Corporal [nation=short]Tyrinth[/nation]
+Private First Class [nation=short]Newfeg[/nation]
+
+Merc [nation=short]Cora_III[/nation]
 Merc [nation=short]Kyorgia[/nation]
 [hr]
 

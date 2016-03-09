@@ -1,4 +1,4 @@
-[color=navy][b]The Icelandic Commonwealth[/color][hr][color=004500]MY FIRST ORACLE REGION[/b]
+[color=002868][b]The Icelandic Commonwealth[/color][hr][color=006828]MY FIRST ORACLE REGION[/b]
 My Oracle Regions are playing my version of the Oracle Game.
 
 [spoiler=ORACLE GAME]Link to Embassy Oracle:
@@ -6,14 +6,11 @@ My Oracle Regions are playing my version of the Oracle Game.
 
 Goal of this version of the Oracle Game is to create a chain of links connecting as many regions as long as possible, with no short circuits.
 
-Mar 8: [region=the Icelandic Commonwealth] has [b]855[/b] degrees of separation to [region=Ancient Lands]
+Mar 9: [region=the Icelandic Commonwealth] has [b]857[/b] degrees of separation to [region=Ancient Lands]
 
 [spoiler=Segments][b]Segments:[/b] No Breaks.
 
 Goal is to add or remove regions without breaking the chain.[/spoiler]
-[/color][color=800000]
-[b]SORRY - NOT ACCEPTING ANY EMBASSY OFFERS[/b]
-This is an [region=Ancient Lands]/[region=United States of America] Region
-Partner Regions: [region=Guayaquil]/[region=Ecuador]/[region=Brazzaville][/color]
-
-[color=red]Need to block delegate controls in my other regions[/color]
+[/color][color=BF0A30]This is an [region=Ancient Lands]/[region=United States of America] Region[hr]
+[b]Alliance Puppet Storage Regions:[/b] [region=Ancient Lands]/[region=Brazzaville]
+[b]Sorry, No Embassies Accepted[/b][/color]

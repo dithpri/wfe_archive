@@ -14,7 +14,7 @@
 
 [hr]
 
-[b][color=black]General Midichlorian Count Limit: 40
+[b][color=black]General Midichlorian Count Limit: 50
 Guardian Midichlorian Count Limit: 90[/color][/b]
 
 [hr]
