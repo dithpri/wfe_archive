@@ -1,11 +1,12 @@
 [color=green][b][i][u]Inter-Regional Diplomats Per Nation[/u][/i][/b][/color]
 [nation]Tri-Sovereign Socialist Republic[/nation] [color=red]Sergei Akhromeyev[/color]
-[nation]Otaku Hikomor[/nation] [color=red]Kazudo Takahashi[/color]
+[nation]Otaku Hikomor[/nation] [color=red]Kazuto Takahashi[/color]
 [nation]Xedinous[/nation] [color=red]Dezi Oliver[/color]
 [nation]Zykyn[/nation] [color=red]James Riken[/color]
 [nation]New Sino-Japan[/nation] [color=red]Marusashi Takafumi[/color]
 [nation]Shrektoberfest[/nation] [color=red]Sean McLoughlin[/color]
 [nation]The Black Claw[/nation] [color=red]Dulcibella Wembley[/color]
+[nation]Islamic State of Africa[/nation] [color=red]Mustafa Al-Buardi[/color]
 [color=grey]Others PLACEHOLDERS[/color]
 
 [color=green][b][i][u]Inter-Regional Organizations[/u][/i][/b][/color]

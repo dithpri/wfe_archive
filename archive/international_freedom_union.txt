@@ -18,11 +18,11 @@ Roleplay Commissioner: Vacant
 Minister of Foreign Affairs: [nation=short]Gooutofhere[/nation] (T)
 
 [hr]Parliament:
-&#149; Vacant 
-&#149; Vacant
-&#149; Vacant 
 &#149; [nation=short]Traders Row[/nation] (Y)
 &#149; [Nation=short]The Arian Nation[/Nation] (UM)
+&#149; [Nation=short]Sangheilios II[/nation]
+&#149; [nation=short]United States of Farmers[/nation]
+&#149; [nation=short]Sprechline[/nation]
 [hr]Justices: &#149; [nation=short]Correctional Facility[/nation] (Y)[hr]
 [u][color=darkred]IFU Radio[/b][/color][/u]
 [i]Now Playing:[url=https://www.youtube.com/watch?v=9jhDjfrbfHI]Hraach - Yaman Dle[/url][/i]

@@ -1,6 +1,8 @@
-[color=blue]The Belgrade Pact is a coalition of nations that embrace and enforce the ideals of democracy, free speech, and economic and religious freedom across the world. [/color]
+[u][b][color=purple]The Belgrade Pact[/color][/b][/u]
+--
+[color=blue]The Belgrade Pact is a coalition of nations that embrace and enforce the ideals of democracy, free speech, and economic and religious freedom across the world. Our purpose and duty is to militarily defend territories under invasion from foreign powers. [/color]
 
-DEFCON: [color=yellow]4[/color]
+DEFCON: [color=reen]5[/color]
 
 For Security Purposes, please endorse the Preliminary Presiding State, [nation]Great Jergania and Jonland[/nation].
 
