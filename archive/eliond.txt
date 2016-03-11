@@ -6,4 +6,5 @@ Current Government:
 Founder [nation]The Colovian Highlands[/nation]
 World Assembly Delegate [nation]Fyrith[/nation]
 Minister of Communication [nation]Bourbonya[/nation]
-Minister of Information Gathering [nation]Swindon metropolitan area[/nation]
+Minister of Information [nation]Swindon metropolitan area[/nation]
+Minister of Homeland Security [nation]The Bunga bunga[/nation]

@@ -9,10 +9,13 @@ Vice President:
 Minister of the Interior: [Nation=short]Zangral[/nation]
 Minister of Foreign Affairs:
 Minister of Defense: 
-Security Council Members: [Nation=short]Zangral[/nation], 
-
+Security Council Members: [Nation=short]Zangral[/nation], [nation=short]Angry Midget[/nation],
 
 [b][color=blue]If you would like a position in government, please telegram [nation=short]abust1[/nation].[/color][/b]
+[hr]
+
+[b][URL=http://www.nationstates.net/page=challenge]Fun Challenge Game![/URL][/b]
+
 [hr]
 [b][color=red]We helped defeat the black riders![/color][/b]
 
