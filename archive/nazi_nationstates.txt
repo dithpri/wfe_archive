@@ -1,18 +1,17 @@
-[b]Main Region: [color=gold]&amp;#9889; [/color][region]Nazi NationStates[/region]  [color=gold]&amp;#9889;[/color] 
-Parteichef: [nation=short]Eaglerise[/nation]
+[b]Main Region of [color=gold]&amp;#9889; [/color][region]Nazi NationStates[/region]  [color=gold]&amp;#9889;[/color] led by Parteichef, [nation=short]Eaglerise[/nation]
+[i]Permanent group of Citizens[/i]
 
-[color=gold]&amp;#9889; [region]The Klan[/region]  &amp;#9889;[/color] 
-Imperial Wizard: [nation=short]The Klan of WhitePride[/nation] 
+[color=gold]&amp;#9889; [region]The Klan[/region]  &amp;#9889;[/color] led by Imperial Wizard, [nation=short]The Klan of WhitePride[/nation] 
 
-[color=gold]&amp;#9889; [region]Nazi Romania[/region]  &amp;#9889;[/color]
-Maresal: [nation=short]Wallachia and Transylvania[/nation]
+[color=gold]&amp;#9889; [region]Nazi Romania[/region]  &amp;#9889;[/color] led by Maresal, [nation=short]Wallachia and Transylvania[/nation]
 
-Military Camp: [color=gold]&amp;#9889; [region]Stormlands[/region]  &amp;#9889;[/color] 
-Sturmf&uuml;hrer: [nation=short]Stormeagle[/nation]
+Military Camp of [color=gold]&amp;#9889; [region]Stormlands[/region]  &amp;#9889;[/color] led by Sturmf&uuml;hrer, [nation=short]Stormeagle[/nation]
 
-Training Camp: [color=gold]&amp;#9889; [region]Rossiya[/region]  &amp;#9889;[/color] 
-Lagerkommandant: [nation=short]Rusvolga[/nation]
-[color=#c60000][i]Recruiting fighters for &quot;White Eagle Order&quot; - &quot;Wei&szlig;er Adlerorden&quot; - &quot;&amp;#1041;&amp;#1077;&amp;#1083;&amp;#1099;&amp;#1081; &amp;#1054;&amp;#1088;&amp;#1077;&amp;#1083; &amp;#1047;&amp;#1072;&amp;#1082;&amp;#1072;&amp;#1079;&amp;#1072;&amp;#1090;&amp;#1100;&quot;[/i][/color]
+[i]Permanent group of Fighters[/i]
+[color=gold]&amp;#9889;[/color] Order of the White Eagle
+[color=gold]&amp;#9889;[/color] Order of the Fiery Cross
+
+Training Camp of [color=gold]&amp;#9889; [region]Rossiya[/region]  &amp;#9889;[/color] led by Lagerkommandant, [nation=short]Rusvolga[/nation][hr]
 
 [url=http://www.nationstates.net/nation=eaglerise/detail=factbook/id=585102]Join the Party[/url]
 [url=http://www.nationstates.net/nation=eaglerise/detail=factbook/id=584461]Fly our flag[/url]
