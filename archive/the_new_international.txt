@@ -1,8 +1,12 @@
-Welcome to the most glorious region of [region]The New International[/region]
-In this region we find [u][b]HARMONY[/u][/b], although not too much, [u][b]PROSPERITY[/b][/u], too a point, and [u][b]FREEDOM[/u][/b], every thirty days.
- 
 [color=red][b]STATE OF EMERGENCY[/b][/color]
 [nation=short]Normaria[/nation]&#39;s collapse into anarchy has triggered a state of emergency within [region]The New International[/region].
-The Administrative Council has engaged &#39;Security Protocol&#39;, restricted the Ministerial powers of [nation]Normaria[/nation] and is now contemplating further action.
 
-May we maintain security and order during these turbulent times!
+[b]Order 1:[/b] The Administrative Council has enacted security protocol and formed a &#39;Security Council&#39;. The Security Council consists of [nation=short]Jovantus[/nation], [nation=short]Kamakaze[/nation] and [nation=short]States of York[/nation].
+  The Security Council shall act as the sentinels of order during these troubled times.
+
+[b]Order 2:[/b] The ever faithful state of [nation=short]Morasser[/nation] has been appointed as the Officer of Defense by the Security Council due to the current state of [nation=short]Normaria[/nation].
+
+[b]Order 3:[/b] The Administration is sending in peacekeepers so as to observe the new Normarian government and keep the peace.
+
+
+May we maintain [b]security[/b] and [b]order[/b] during these turbulent times!

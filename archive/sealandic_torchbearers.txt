@@ -1,14 +1,16 @@
-Ever dreamed of starting a country like Sealand? We continue the free-spirit nation-founding of Old Sealand! Continue the dream!
+Ever dreamed of starting a country like Sealand? We continue the free-spirit nation-founding of Old Sealand! Continue the dream! Also please endorse our WA Delegate!
 
-PLEASE recruit as many people as possible! We can only get things started once we have like 20 nations! If you recruit a nation, and that nation verifies that you recruited them, you gain a seat on the Sealandic Council! We start making decisions at 10 seats. Current seat count:
+WA Delegate:
+[nation]Lazurania[/nation]
 
-Nuevo Sealandia: 2
-Sasnan: 1
-Dantharu: 1
-Lazurania: 1
-South Lazurania: 1
-New Helghast Union: 1
-Austrostan: 1
-Giviori: 1
-Rheinlande: 1
-Republika Arstotzka: 1
+Judicial Branch Members:
+None
+
+Senate:
+[nation]United States of Doge[/nation] 1 Seat
+[nation]Sasnan[/nation] 1 Seat
+[nation]Austrostan[/nation] 1 Seat
+[nation]The Islands of Versilia[/nation] 1 Seat
+[nation]Cernetopia[/nation] 1 Seat
+
+The maximum judges is set to 3 for the time being. 

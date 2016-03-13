@@ -17,8 +17,8 @@
 [hr][b][u]THE JUDICIARY[/u][/b]
 
 [b]Supreme Judge[/b]: [nation=shortname]Burgundaholmr[/nation]
-[b]Regional Judges[/b]: [nation=shortname]VACANT[/nation] and [nation=shortname]Georgiaville[/nation]
+[b]Regional Judges[/b]: [nation=shortname]Jagala[/nation] and [nation=shortname]Georgiaville[/nation]
 
 [hr][b][u]CAPITAL CITY[/u][/b]
 
-[nation=shortname]Emperor Islands Capital City[/nation], Governor, [nation=shortname]New Nationale Einheit[/nation]
+[nation=shortname]Emperor Islands Capital City[/nation], Governor, [nation=shortname]Aanon Bay[/nation]
