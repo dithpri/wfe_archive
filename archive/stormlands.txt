@@ -1,9 +1,5 @@
-[b] [color=gold]&amp;#9889;[/color] [region]STORMLANDS[/region] [color=gold]&amp;#9889;[/color] is a [region]Nazi NationStates[/region] military base. 
-Access is restricted to fighters
-
-Sturmf&uuml;hrer: [nation=short]Stormeagle[/nation]
-Field Marshal: [nation=short]Stahlhelm Germania[/nation]
-Lagerkommandant: [nation=short]Rusvolga[/nation]
+[b] [color=gold]&amp;#9889;[/color] [region]STORMLANDS[/region] [color=gold]&amp;#9889;[/color]
+[region]Nazi NationStates[/region] Military Archive.
 
 [i]Stop the spread of internationalism. Wear a Stahlhelm[/I]
 

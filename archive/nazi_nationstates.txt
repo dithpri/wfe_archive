@@ -1,20 +1,29 @@
-[b]Main Region of [color=gold]&amp;#9889; [/color][region]Nazi NationStates[/region]  [color=gold]&amp;#9889;[/color] led by Parteichef, [nation=short]Eaglerise[/nation]
-[i]Permanent group of Citizens[/i]
+[b][color=gold]&amp;#9889; [/color][region]Nazi NationStates[/region]  [color=gold]&amp;#9889;[/color]
 
-[color=gold]&amp;#9889; [region]The Klan[/region]  &amp;#9889;[/color] led by Imperial Wizard, [nation=short]The Klan of WhitePride[/nation] 
+[color=gold]&amp;#9889;[/color] [u]F&uuml;hrer[/u] [nation=short]Der Stahlhelm[/nation] 
+[color=gold]&amp;#9889;[/color] [u]Chancellor[/u] [nation=short]Nazi Supremacy[/nation]
+[color=gold]&amp;#9889;[/color] [u]Parteichef[/u] [nation=short]Eaglerise[/nation]
+[color=gold]&amp;#9889;[/color] [u]Imperial Wizard[/u] [nation=short]The Klan of WhitePride[/nation] 
+[color=gold]&amp;#9889;[/color] [u]Officer[/u] [nation=short]The Nazi Dominion[/nation]
+[color=gold]&amp;#9889;[/color] [u]Officer[/u] [nation=short]The Aryan Deutschland[/nation]
+[color=gold]&amp;#9889;[/color] [u]Maresal[/u] [nation=short]Wallachia and Transylvania[/nation]
 
-[color=gold]&amp;#9889; [region]Nazi Romania[/region]  &amp;#9889;[/color] led by Maresal, [nation=short]Wallachia and Transylvania[/nation]
+Military Archive [color=gold]&amp;#9889; [region]Stormlands[/region]  &amp;#9889;[/color]
 
-[color=gold]&amp;#9889; [region]Novorossiya[/region]  &amp;#9889;[/color] led by [nation=short]Natsional Sotsialisticheskaya Rossiya[/nation]
+Forces in America
+[color=gold]&amp;#9889; [region]The Klan[/region]  &amp;#9889;[/color]
 
-Military Camp of [color=gold]&amp;#9889; [region]Stormlands[/region]  &amp;#9889;[/color] led by Sturmf&uuml;hrer, [nation=short]Stormeagle[/nation]
+Forces in Romania
+[color=gold]&amp;#9889; [region]Nazi Romania[/region]  &amp;#9889;[/color]
 
-[i]Permanent group of Fighters[/i]
-[color=gold]&amp;#9889;[/color] Order of the White Eagle
-[color=gold]&amp;#9889;[/color] Order of the Fiery Cross
+Forces in Russia
+[color=gold]&amp;#9889; [region]Novorossiya[/region]  &amp;#9889;[/color]
+[color=gold]&amp;#9889; [region]Rossiya[/region]  &amp;#9889;[/color][hr]
 
-Training Camp of [color=gold]&amp;#9889; [region]Rossiya[/region]  &amp;#9889;[/color] led by Lagerkommandant, [nation=short]Rusvolga[/nation]
-Field Marshal, [nation=short]Stahlhelm Germania[/nation][hr]
+[u]Foreign Allies[/u]
+[region]National Socialist Ministries[/region]
+[region]The Great Russian Union[/region]
+[region]NatSo Party[/region][hr]
 
 [url=http://www.nationstates.net/nation=eaglerise/detail=factbook/id=585102]Join the Party[/url]
 [url=http://www.nationstates.net/nation=eaglerise/detail=factbook/id=584461]Fly our flag[/url]

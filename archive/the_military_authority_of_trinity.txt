@@ -5,8 +5,8 @@ The Military Authority of Trinity region built on military order and the belief 
 [b] Trinity High Command [/b]
 
 [b][color=blue]First General: [/color][nation=short]Spaatz[/nation][/b]
-[b][color=blue]Second General: [/color][/b]
-[b][color=blue]Third General: [/color][/b]
+[b][color=blue]Second General: [/color][nation=short]Brickopolis[/nation][/b]
+[b][color=blue]Third General:[/color][nation=short]Bossawesome[/nation] [/b]
 [hr]
 [b] Order of the Week [/b]
 
