@@ -1,12 +1,11 @@
-[color=red][b]STATE OF EMERGENCY[/b][/color]
-[nation=short]Normaria[/nation]&#39;s collapse into anarchy has triggered a state of emergency within [region]The New International[/region].
-
-[b]Order 1:[/b] The Administrative Council has enacted security protocol and formed a &#39;Security Council&#39;. The Security Council consists of [nation=short]Jovantus[/nation], [nation=short]Kamakaze[/nation] and [nation=short]States of York[/nation].
-  The Security Council shall act as the sentinels of order during these troubled times.
-
-[b]Order 2:[/b] The ever faithful state of [nation=short]Morasser[/nation] has been appointed as the Officer of Defense by the Security Council due to the current state of [nation=short]Normaria[/nation].
-
-[b]Order 3:[/b] The Administration is sending in peacekeepers so as to observe the new Normarian government and keep the peace.
+[color=orange][b]STATE OF CONCERN[/b][/color]
 
 
-May we maintain [b]security[/b] and [b]order[/b] during these turbulent times!
+[b]Issue 1:[/b] [nation=short]Normaria[/nation] appears to have stabilized thus the state of emergency has been &#39;relaxed&#39;, the Security Council shall remain in effect for the time being.
+
+[b]Issue 2:[/b] After peacekeepers returned from [nation=short]Normaria[/nation] with promising reports of Nuclear Arms development the state of question has regained full ministerial powers. as Minister of Defense.
+
+[b]Issue 3:[/b] The faithful state of [nation=short]Morasser[/nation] has been dismissed as Officer of Defense due to the Minister of Defense returning to full power.
+
+
+May we maintain order under the watchful eye of the Security Council.

@@ -1,9 +1,16 @@
-Welcome to the [b][color=green]Union of Democratic States[/b][/color]!
+[b]Welcome to[region] The Union of Democratic States[/region]![/b]
 
-[u]Leadership[/u]
-[b]Prime Minister:[/b] The Noble Thatcherites
-[b]WA Delegate:[/b] [i]Unfilled[/i]
-[b]Leader of the Congress:[/b] The Noble Thatcherites
+[color=blue][u][b]Leadership[/b][/u][/color]
+[b]Prime Minister:[/b] [nation]The Noble Thatcherites[/nation]
+[b]Vice Minister:[/b] [i]Unfilled[/i]
+[b]WA Delegate:[/b] [nation]Scot-Ireland[/nation]
+[b]Attorney General:[/b] [i]Unfilled[/i]
+[b]Vice Attorney:[/b] [i]Unfilled[/i]
 
-[u] Members of the Congress[/u]
-&#149;The Noble Thatcherites
+[color=green][u][b]Status[/b][/u][/color]
+[b]Neutral[/b]
+
+[color=red][u][b]News[/b][/u][/color]
+&#149;All nations are automatically members of the Congress, thus each nation will have a vote. If you have any questions telegram the [nation]The Noble Thatcherites[/nation].
+&#149;Elections will take place soon. Make sure you answer the poll, so I know who is running for office.
+
