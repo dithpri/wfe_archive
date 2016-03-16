@@ -1,10 +1,14 @@
 [color=blue]Hello, welcome[/color]
 
 [b]These are our delegate&#39;s main at the top.[/b]
+[nation]Greatwarman[/nation]
 [nation]San Fursisco Califurnia[/nation]
+[nation]The Peaceful wizards of the moutains[/nation]
 
 [b]Embasies[/b]
 [region]The Parthian Capital Hierarchy Society[/region]
+[region]The Embassy[/region]
+[region]The Illuminati[/region]
 
 We are excepting embassies invites by most regions.
 

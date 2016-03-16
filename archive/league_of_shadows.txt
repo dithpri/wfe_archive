@@ -2,5 +2,5 @@
 [hr]
 High Command
 General:[/color][color=green][nation=short]Jopty[/nation][/color]
-[color=black]Lieutenant General:[/color][color=green]Void[/color]
-[color=black]Brigidier General:[/color][color=green]Void[/color]
+[color=black]Lieutenant General:[/color]
+[color=black]Brigidier General:[/color]
