@@ -1,3 +1,5 @@
-[b]United Regions[/b]
-Personal region of [nation=short]Committee of Public Safety[/nation]
+[b][u]United Regions[/u][/b] | [color=navy][b][i]United in Diversity[/i][/b][/color]
+
+[b]Founder:[/b] [nation=short]United-Regions[/nation]
+[b]Executive Director:[/b] [nation=short]Committee of Public Safety[/nation]
 [hr][b]Embassy policy:[/b] Embassy requests will be subject to evaluation.

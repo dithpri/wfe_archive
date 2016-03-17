@@ -4,10 +4,10 @@
 
 [u][B]REGIONAL GOVERNMENT:[/B][/u]
 
-[b]Ministry of Truth:[/b] [nation]Atsuria[/nation]
-[b]Ministry of Law:[/b] [nation]DarkKiller[/nation]
-[b]Ministry of Economy:[/b] [nation]Brasir[/nation]
-[b]Ministry of Potatoes: [/b] [nation]Sentar[/nation]
+[b]Minister of Truth:[/b] [nation]Atsuria[/nation]
+[b]Minister of Law:[/b] [nation]DarkKiller[/nation]
+[b]Minister of Economy:[/b] [nation]Brasir[/nation]
+[b]Minister of Potatoes: [/b] [nation]Sentar[/nation]
 [hr]
 
 
