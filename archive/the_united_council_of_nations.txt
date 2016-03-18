@@ -11,6 +11,8 @@
 
 [b]Constitution Status:[/b] [color=green]Ratified[/color]
 
+[b]General Assembly Resolution up to vote:[/b] GA Resolution #1: Security Council Appointments
+
 [b]Current Legislation:[/b] 
 Regional Map Review
 Security Council Appointments
@@ -20,5 +22,6 @@ Security Council Appointments
 [color=orange]UCN Labour Party[/color]
 [color=Blue]UCN Radical Party[/color]
 [color=Red]UCN Socialist Party[/color]
+[color=green]The International Environmentally Progressive Party[/color] 
 
 [u][B][color=#FFBF00]Security Council[/color][/B][/u]

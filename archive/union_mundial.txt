@@ -1,8 +1,1 @@
-&quot;I&#39;m still here!&quot;
--[nation]Armed[/nation]
-
-&quot;ha ha ha ha!&quot;
--[nation]Armed[/nation]
-
-&quot;This is fun!&quot;
--[nation]Armed[/nation]
+CCCP!
