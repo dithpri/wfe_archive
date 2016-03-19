@@ -1,6 +1,1 @@
-[b]This region is the home of the [color=darkred]Castlemaine Armed Forces[/color][/b]
-[hr][i]The Castlemannic Military serves the nation of [nation=short]Castlemaine[/nation] with glory and honour, as well as assisting [nation=short]Castlemaine[/nation] in military alliances such as [region]ANTICOM[/region].[/i]
-
-[color=navy][b]Special Forces:[/color][/b]
-[region]South Carolina Militia[/region]
-[region]Texas Commandos[/region]
+TRF/KPA

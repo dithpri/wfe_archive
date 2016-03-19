@@ -3,25 +3,20 @@
 [color=#40BF00]An international assembly of nations that support global democratic values, universal human rights, national sovereignty, and the common defense of all nations.[/color]
 
 [u][B][color=#FF0000]Executive Council[/color][/B][/u]
-
 [B]-General Secretary:[/B] [nation]NewLeinster[/nation]
 [B]-Vice-General Secretary:[/B] [nation]Gamer World[/nation]
 
 [u][b][color=#40BF00]The General Assembly[/color][/b][/u]
-
-[b]Constitution Status:[/b] [color=green]Ratified[/color]
-
-[b]General Assembly Resolution up to vote:[/b] GA Resolution #1: Security Council Appointments
-
 [b]Current Legislation:[/b] 
 Regional Map Review
-Security Council Appointments
 
 [b]Political Parties:[/b]
-
 [color=orange]UCN Labour Party[/color]
 [color=Blue]UCN Radical Party[/color]
 [color=Red]UCN Socialist Party[/color]
 [color=green]The International Environmentally Progressive Party[/color] 
 
 [u][B][color=#FFBF00]Security Council[/color][/B][/u]
+[nation]Armed Nation of Apocalypse Believers[/nation]
+[nation]The Democratic Soviet Union[/nation]
+[nation]Vladislav Federation[/nation]

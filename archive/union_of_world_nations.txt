@@ -2,7 +2,7 @@
 [hr]
 [i][b]Regional Government[/b][/i]
 [list][*]World Assembly Delegate 
-[list][*][nation]Toby VanHaften[/nation][/list]
+[list][*]Vacant[/list]
 [*]Upper Council
 [list][*][nation]The Nee German Republic[/nation]
 [*]Vacant
@@ -12,7 +12,7 @@
 [*]Vacant
 [*]Vacant[/list]
 [*]Lower Council
-[list][*][nation]Raeine[/nation]
+[list][*]Vacant
 [*]Vacant
 [*]Vacant[/list][/list][/list]
 [spoiler=Map Maker]
