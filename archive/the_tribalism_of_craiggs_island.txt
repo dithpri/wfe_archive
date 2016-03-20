@@ -2,7 +2,7 @@
 [nation]Kutizali Gosa[/nation].
 [nation]National Dictators League[/nation].
 The [nation=short]Atlas Red[/nation] Corporation of [nation=short+noflag]National Dictators League[/nation].
-Village of [nation=short+noflag]Steered[/nation] of [nation=short+noflag]Kutizali Gosa[/nation].
+Village of [nation=short+noflag]Steered[/nation] of [nation=short]Kutizali Gosa[/nation].
 [nation]Ducktopia II[/nation].
 [nation]RarefiedKeys[/nation]. 
 Due to the human containment barrier around the region we could not leave the island and have to have our nations close together.[/b]

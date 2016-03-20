@@ -1,7 +1,7 @@
 [list][color=000099]Welcome to [b]Great Britain and Northern Ireland[/b]
 [/color][color=003366]
 FACTS
-[b]Capital:[/b] [region=Greater London] ([region=Westminster])
+[b]Capital:[/b] London
 [b]Independence:[/b][list]927 (union of English Kingdoms);
 1284 (with Wales);
 1707 (with Scotland);
@@ -10,8 +10,4 @@ FACTS
 [b]Area:[/b] 243,610 sq km (excludes Overseas Territories)
 [b]Population:[/b] 64,511,000 (2014 est.)
 [/color][color=009900]
-[b]Allied with:[/b][list][hr][region=Ancient Lands]/[region=United States of America][/list]
-[b]Associated with:[/b][list][hr][region=Alba] (Scotland)
-[region=British Overseas Territories]
-[region=Norlin Airlan] (Northern Ireland)
-[region=Wales Cymru][/color][color=660000][/list][hr][b]GOD SAVE THE QUEEN[/b][/color][/list]
+[b]Allied with:[/b][list][hr][region=Ancient Lands]/[region=United States of America][/list][hr][b]GOD SAVE THE QUEEN[/b][/color][/list]

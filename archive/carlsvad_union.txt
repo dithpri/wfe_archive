@@ -1,11 +1,16 @@
 [b]Carlsvad Union(EN)/Karlswadunion(DE)/Uni Karlsvad(IND)[/b] 
 
-[b]Union Council[/b]:
--[nation]German Indonesia[/nation]
--[nation]Klemantan-Borneo[/nation]
--[nation]Rangoosia[/nation]
+[b]Government[/b]:
+-Monarchs: Queen Erika and King Martin von Cartenberg-Utreck ([i]Head of State[/i])
+-Chancellor of the Union: Irene Madson ([i]Head of Government[/i])
 
-[b]Overseas Territory of Klemantan-Borneo[/b]:
+[b]Regional[/b]:
+-Minister-President of Klemantan-Borneo: Katarina von Kleist
+-Minister-President of German Indonesia: Field Marshal David Peterson Marks
+-Minister-President of Rangoosia: Julie Moore
+-Governor-General of Carlsvad Uloi: Eleanor de Foret 
+
+[b]Overseas Territory of Carlsvad Union[/b]:
 -[nation]Carlsvad Uloi[/nation]
 
 [b]Factbook(s)[/b]:

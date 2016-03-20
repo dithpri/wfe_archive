@@ -3,9 +3,9 @@
 [color=blue][u][b]Leadership[/b][/u][/color]
 [b]Acting Prime Minister:[/b] [nation]The Noble Thatcherites[/nation]
 [b]Vice Minister:[/b] [i]Unfilled[/i]
-[b]WA Delegate:[/b] [nation]Scot-Ireland[/nation]
-[b]Attorney General:[/b] [i]Unfilled[/i]
-[b]Vice Attorney:[/b] [i]Unfilled[/i]
+[b]WA Delegate:[/b]
+[b]Attorney General:[/b] [nation]Scot-Ireland[/nation]
+[b]Vice Attorney:[/b] [nation]phillipsburgopolis[/nation]
 
 [color=green][u][b]Status[/b][/u][/color]
 [b]Neutral[/b]
