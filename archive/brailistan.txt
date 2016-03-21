@@ -1,4 +1,4 @@
-[b] Welcome to [region]Brailistan[/region]! Where all are welcome, and we hand out free Subway sandwiches on Tuesdays! [/b] 
+[b][color=red] Welcome to [region]Brailistan[/region]! Where all are welcome, and we hand out free Subway sandwiches on Tuesdays! [/b] [/color]
 
 [i] Founded January 29th, 2016 [/i]
 
@@ -6,7 +6,7 @@
 
 [b][color=red]Have any ideas? Contact the vizier with any ideas for the forums, or the region as a whole![/color][/b]
 
-[b][color=green]Government-
+[b][color=red]Government-
 
 Chancellor- Waiting for more residents before vote
 
