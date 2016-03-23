@@ -14,7 +14,6 @@ Speaker: [nation=short]Uspua Republic[/nation] (T)
 Chief Recruiter: [nation=short]Great Carlistan[/nation](Y)
 
 Roleplay Commissioner: Vacant
-
 Minister of Foreign Affairs: [nation=short]Gooutofhere[/nation](T)
 [hr]Parliament:
 &#149; [nation=short]Traders Row[/nation](Y)
@@ -22,6 +21,5 @@ Minister of Foreign Affairs: [nation=short]Gooutofhere[/nation](T)
 &#149; [Nation=short]Sangheilios II[/nation] (P)
 &#149; [nation=short]United States of Farmers[/nation](Y)
 &#149; [nation=short]Sprechline[/nation](I)
-[hr]Justices: &#149; [nation=short]Correctional Facility[/nation](Y)[hr]
-[u][color=darkred]IFU Radio[/b][/color][/u]
-[i]Now Playing:[url=https://m.youtube.com/watch?v=FTQbiNvZqaY]Toto-Africa[/url][/i]
+[hr]Justices: &#149; [nation=short]Correctional Facility[/nation](Y)[/b]
+

@@ -1,2 +1,5 @@
 Welcome to the puppet store of [region]The Freedom Domain[/region]! This is where puppets will receive orders for freedom missions.
-Target:
+
+[b]Please state whose puppet you are.[/b]
+[hr]Target: [region]Chinese Republic[/region]
+endorse [nation]The Protectorate of Xiaxion[/nation]
