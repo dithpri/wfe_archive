@@ -1,23 +1,30 @@
-[b]The Delicious Lands of Lemonland[/b]
-=================================
-[b]Regional Staff[/b]
-[b]Founder;[/b][nation]nation 11[/nation]
+  [b]The Delicious Lands of Lemonland[/b]
 
-[b]Tech Curator(s);[/b]
+=============================================================================
+[b][u]Regional Staff[/b][/u]
+
+[b]Founder:
+[/b][nation]nation 11[/nation]
+
+[b]Moderator:[/b]
+[nation]The conservative empire of RIS[/nation]
+
+[b]Tech Curators:[/b]
 [nation]The Glorious Arstungry[/nation]
 [nation]Ausermany[/nation]
-=================================
+=============================================================================
 
-[b]Last Large Scale Event Heroes[/b]
+[Spoiler=Information on [i]&quot;The Bragonian War&quot;[/i]]
 
+[b][url=http://www.nationstates.net/nation=the_conservative_empire_of_ris/detail=factbook/id=597150]!CLICK HERE FOR FULL SUMMARY![/url][/b]
+
+[b]The United Forces[/b]
 [nation]wintermoor[/nation]
 [nation]The Trade Federation of RIS and Sathanus[/nation]
-
-[b]Supporter&#39;s[/b]
 [nation]Ausermany[/nation]
 
 [b]Main Agressor[/b]
 [nation]Pootinia[/nation]
 
-[b]At_least_you_tried medal[/b]
-[nation]The last Forge[/nation]
+[b]At Least You Tried medal[/b]
+[nation]The last Forge[/nation][/spoiler]
