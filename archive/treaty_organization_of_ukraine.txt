@@ -24,7 +24,7 @@ General Major: None
 Brigadier General: None
 
 [B]TOOU National Guard[/B]
-General: [nation]Left Wing Russia[/nation]
+General: None
 General Lieutenant: None
 General Major: None
 Brigadier General: None

@@ -1,6 +1,6 @@
 [b][u]| SAFE - HAVEN[/u] for all Nations within [region]The Union of Fascists[/region] that have effectively dealt with the Zombie Hordes |[/b]
 
-[b]Current Infection Status: [color=lime]0[/color] | &amp;quot;No Threat&amp;quot;
+[b]Current Infection Status: [color=lime]0[/color] | &quot;No Threat&quot;
 
 DEFCON:   [color=red](5)[/color]
 
@@ -14,5 +14,5 @@ Diplomatic Commander: [nation]Greater Rhodesia and Nyasaland[/nation]
 
 - [nation]Social Republic of Bellona[/nation]
 - [nation]Kortantus[/nation]
-- [nation]Greater Hohenstaufen[/nation]
+- [nation]Hohen Western Silesia[/nation]
 - [nation]Endriation[/nation][/b]
