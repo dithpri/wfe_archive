@@ -7,7 +7,8 @@ Crown Princess: [nation=short]Darkitopia[/nation]
 Crown Prince: [nation=short]Hazzardia[/nation]
 First Princess: [nation=short]Clanktopolis[/nation]
 Warmaster: [nation=short]Grarrgtopia[/nation]
-Master of Laws: [nation=short]Dragonpitopia[/nation][hr]Will need to check poll records for other roles. If you have a missing role that I have yet to write here, please inform me (Frostorn) or Grarrg as soon as possible.
+Master of Laws: [nation=short]Dragonpitopia[/nation]
+Master of Foreign Affairs: [nation=short]Dunceland[/nation][hr]Will need to check poll records for other roles. If you have a missing role that I have yet to write here, please inform me (Frostorn) or Grarrg as soon as possible.
 
 [b][color=blue]Remember DarkiUmbreon[/color][/b]
 
