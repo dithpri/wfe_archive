@@ -1,4 +1,4 @@
-Ever dreamed of starting a country like Sealand? We continue the free-spirit nation-founding of Old Sealand! Continue the dream! Also please endorse our WA Delegate!
+Continue the dream! Also please endorse our WA Delegate!
 
 WA Delegate:
 [nation]Lazurania[/nation]
@@ -6,14 +6,14 @@ WA Delegate:
 President of the Senate:
 None
 
-Judicial Branch Members:
+Judges:
 None
 
 Senate:
-[nation]United States of Doge[/nation] 1 Seat
-[nation]Sasnan[/nation] 1 Seat
-[nation]Austrostan[/nation] 1 Seat
-[nation]The Islands of Versilia[/nation] 1 Seat
-[nation]Cernetopia[/nation] 1 Seat
+[nation]Austrostan[/nation]
+[nation]United States of Doge[/nation]
+[nation]Sasnan[/nation]
+[nation]The Islands of Versilia[/nation]
+[nation]Cernetopia[/nation]
 
-The maximum judges is set to 3 for the time being. 
+[color=red]*Notice*[/color] Due to recent activities, if new nations do not endorse the WA Delegate and fail to within 8 hours, your nation will be ejected on the spot.

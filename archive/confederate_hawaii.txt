@@ -8,5 +8,7 @@ State flower: Yellow hibiscus
 Race: White 294,102	24.3% (2000)
 Race: Native Hawaiian  80,137 6.6% (2000)
 
-Under the control of [nation]The Klan of Whitepride[/nation]
+Visit [region]Pearl Harbor[/region]!
+
+Under the control of [nation=short]The Klan of Whitepride[/nation]
 A part of the [region]Nazi Nationstates[/region] Alliance[/b]
