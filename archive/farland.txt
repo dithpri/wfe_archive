@@ -5,7 +5,7 @@
 [nation=short]Farlander Socialist Republic[/nation]
 
 [color=blue]World Aseembly Delegate[/color] :
-[b]None ![/b]
+[nation=short]Farlander Socialist Republic[/nation]
 
 Minister of [color=#81DAF5]Diplomacy[/color] :
 [b]None ![/b]
@@ -22,7 +22,11 @@ The [color=orange]Farlander[/color] [color=red]Communist[/color] Party (FCP)
 Current active political parties :
 [list]
 [*]The [color=orange]Farlander[/color] [color=red]Communist[/color] Party (FCP)
+[*]The [color=#660000]Anarchist[/color] Party
 [/list]
+
+[b]Notes :[/b]
+I want everyone to know that i won&#39;t be responding instantly, so if you want a party to be added on the list, if i am busy, you&#39;ll have to wait some time; but never too long (generally a hour). ~[nation=farlander socialist republic]
 
 [b]Useful links :[/b]
 [list]

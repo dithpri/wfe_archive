@@ -13,4 +13,4 @@ FACTS
 
 [color=800000][b]Please, Do Not Recruit Here[/b][/color]
 Visitors are welcome.
-an [region=Ancient Lands], [region=Latin America] region
+an [region=Ancient Lands]/[region=Brazzaville] region
