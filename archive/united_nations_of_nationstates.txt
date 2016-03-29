@@ -1,10 +1,10 @@
-[b]Welcome to our region![/b]
+[color=blue][b]Welcome to our region![/b][/color]
 
 This region is in process of founding, please help us to do it.
 
 [u]TO DO LIST:[/u]
 
-[b]1.[/b] Reach the 5 members to start the with Constituent Assembly
+[color=green][b]1.[/b] Reach the 5 members to start the with Constituent Assembly[/color]
 
 [b]2.[/b] Choose by voting a leader of the Constituent Assembly
 
