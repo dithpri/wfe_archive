@@ -1,8 +1,14 @@
-[b][region]The Red Sea[/region] is a personal region for [nation=short]Zulanka[/nation], citizen of [region]North Korea[/region], Colonel of the [region]Korean Peoples Army[/region], comrade member of [region]The Internationale[/region], supporter of [region]The Red Fleet[/region] and [region]Antifa[/region].
+[b][region]The Red Sea[/region] is a [color=078930]personal[/color] [color=fcdd09]administrative[/color] [color=da121a]region[/color] for [nation=short]Zulanka[/nation].
 
 [hr][hr]
 
-Recommended Reading:
+[region]North Korea[/region] | [region]The Red and Black[/region]
+
+[region]Korean Peoples Army[/region] | [region]The Red Fleet[/region] | [region]Antifa[/region]
+
+[hr][hr]
+
+Recommended Reading
 
 [url=https://www.marxists.org/archive/marx/works/1845/german-ideology/]The German Ideology - Karl Marx[/url]
 
