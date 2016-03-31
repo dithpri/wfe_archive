@@ -1,6 +1,24 @@
  The three kings- Founded on February of 2015:
 
-Congress: use polling to make law and vote on it
-http://www.nationstates.net/nation=america_jnb
+:Founder/President-http://www.nationstates.net/nation=america_jb
+
+:Congress: use polling to make law and vote on it                 
 http://www.nationstates.net/nation=loudonians
-http://www.nationstates.net/nation=john_of_oats
+http://www.nationstates.net/nation=john_of_oats 
+
+:WA Delegate- http://www.nationstates.net/nation=america_jnb 
+
+Government order/balance of power:
+
+Executive
+: Founder/President
+
+Legislative
+: Vice-Delegate
+: Congress Members 
+
+Judicial
+: WA Delegate
+
+partner region, WA Delegate:
+1. http://www.nationstates.net/region=house_of_battenberg

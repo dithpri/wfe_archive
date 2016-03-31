@@ -3,35 +3,18 @@
 [b]The government :[/b]
 [color=orange]Founder[/color] :
 [nation=short]Farlander Socialist Republic[/nation]
-
 [color=blue]World Aseembly Delegate[/color] :
 [nation=short]Farlander Socialist Republic[/nation]
-
 Minister of [color=#81DAF5]Diplomacy[/color] :
 [b]None ![/b]
-
-Minister of [color=red]Interior[/color] :
+Minister of [color=red]Internal Affairs[/color] :
 [b]None ![/b]
-
 Minister of [color=orange]Communication[/color] :
 [b]None ![/b]
+[color=red]Prime[/color] Minister :
+[b]None ![/b]
 
-Current ruling political party :
-The [color=orange]Farlander[/color] [color=red]Communist[/color] Party (FCP)
-
-Current active political parties :
-[list]
-[*]The [color=orange]Farlander[/color] [color=red]Communist[/color] Party (FCP)
-[*]The [color=#660000]Anarchist[/color] Party
-[/list]
-
-[b]Notes :[/b]
-I want everyone to know that i won&#39;t be responding instantly, so if you want a party to be added on the list, if i am busy, you&#39;ll have to wait some time; but never too long (generally a hour). ~[nation=farlander socialist republic]
-
-[b]Useful links :[/b]
-[list]
-[*][url=http://www.nationstates.net/page=dispatch/id=598304]Rules of conduct[/url]
-[*][url=]How to participate in the government and how it works[/url]
 [/list]
 [b]News :[/b]
 27/03/2016 : Farland was founded !
+31/03/2016 : Removed the WA Deleguate Rank&#39;s access from members of political parties for security reasons, will replace it with a system using referendums (see the &quot;How to participate in the government and how it works&quot; dispatch.

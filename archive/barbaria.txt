@@ -1,14 +1,17 @@
-Supreme Emperor: Vostag
-Supreme Chancellor: Surica
-Vice Chancellor: Catalina
+[b][u]Chief Executive:[/u][/b]
+Supreme Emperor: [nation]Vostag[/nation]
 
-Barbarian Ministries
-Communications Minister: Roikstead
-Defense Minister: United Facism
-Foreign Affairs Minister: Exden
-Domestic Affairs Minister: Salecia
-Research Minister: Sedzis
+[b][u]Regional Delegate:[/u][/b]
+Supreme Chancellor: [nation]Catalina 11[/nation]
+Vice Chancellor: 
 
-There is an offsite regional forum at barbariaforum.proboards.com
+[b][u]Barbarian Ministries:[/u][/b]
+Communications Minister: [nation]Roikstead[/nation]
+Defense Minister: [nation]United Facism[/nation]
+Foreign Affairs Minister: [nation]Exden[/nation]
+Domestic Affairs Minister: [nation]Salecia[/nation]
+Research Minister: [nation]Sedzis[/nation]
+
+There is an offsite regional forum at [url=http://barbariaforum.proboards.com/]barbariaforum.proboards.com[/url]
 
 The regional anthem of Barbaria [url=https://www.youtube.com/watch?v=WEMMVHAINFM]Anvil Chorus[/url]

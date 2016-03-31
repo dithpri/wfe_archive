@@ -8,7 +8,7 @@
 [b]HIM Princess-Regent:[/b] [nation=short]Fiorya[/nation][/color]
 
 [color=maroon][b][u]Regional Executive Council[/u][/b][/color]
-[B]HRE Chairman: [/B][nation]Semolia[/nation]
+[B]HRE Chairman: [/B][nation=short]Semolia[/nation]
 
 [color=maroon][b][u]HIM Superior Council[/u][/b][/color]
 [b]Lord Overseer[/b] [nation=short]Grantine[/nation]

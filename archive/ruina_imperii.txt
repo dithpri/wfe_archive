@@ -2,14 +2,14 @@ Welcome to the Ruina Imperii, the place for all lands
 and countries to help each other, and stay safe.
 -------------------------------------------------------
 Our rank positions are as follows :
-The Principality of Collectives of Uxhal - President
-The Kingdom of Zukulu - Assistant Leader
-The Empire of Vhass - WA Delegate
-The Democratic Republic of Delta Lands - Minister of 
+[nation]Collectives of Uxhal[/nation] - President
+[nation]Zukulu[/nation] - Vice President
+[nation]Vhass[/nation] - WA Delegate / Joint Chief of Staff
+[nation]Delta Lands[/nation] - Secretary of 
 Foreign Affairs
-The Empire of Torve - Political Commisar
-The Empire of Kelebrium - Hand of The Founder
-The government of kuat - Homeland Security
+[nation]Torve[/nation] - Political Commissar
+[nation]Kelebrium[/nation] - Hand of The Founder
+[nation]The Oppersive goverment of kuat[/nation] - Director Homeland Security
 -------------------------------------------------------
 The Union is now accepting new members without any tryouts / applications.
 If you want to become an ally, send a request for an embassy.

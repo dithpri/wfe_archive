@@ -7,12 +7,11 @@
 [b][color=red]New beginnings and new stories await![/color] [color=darkred]Fill out your [url=http://www.nationstates.net/nation=historia_novorum/detail=factbook/id=513311]Entry Application[/url] to join us and create your [i]own[/i] history.[/color][/b]
 [hr]
 
-[color=darkred][b][i]Minister of the Americas:[/b][/color][/i]
-[nation=short]Eastern Dixie[/nation]
-[color=darkred][b][i]Minister of Europe:[/b][/color][/i]
-[nation=short]Cinnabarra[/nation]
-[color=darkred][b][i]Minister of the Pacific:[/b][/color][/i]
-[nation=short]Castilian Iberia[/nation]
+[color=darkred][b][i][u]Ministers[/u][/b][/color][/i]
+[nation=short]Deutschenreiche[/nation]
+[nation=short]Isle of Great-Britain[/nation]
+[nation=short]Sekowo[/nation]
+
 
 [color=darkred][b][i][u]Cartographer[/i][/u][/b][/color]
 [nation=short]North America and the Great Lakes[/nation]
