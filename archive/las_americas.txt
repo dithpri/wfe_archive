@@ -1,1 +1,4 @@
-[color=BLUE]&iexcl;&iexcl;&iexcl;Bienvenidos a Las Americas!!!![/color]
+[b][color=BLUE]&iexcl;Bienvenidos a Las Americas![/color][/b]
+
+[i][color=red][B]Nuestro idioma oficial es el Espa&ntilde;ol pero el Ingles tambien es permitido.[/B][/color][/i]
+[i][color=green][B]The oficcial language is Spanish but english is accepted.[/B][/color][/i]
