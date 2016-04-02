@@ -1,15 +1,12 @@
 [b]Vjormakt aast Reijthum[/b]
 
-[b]Honored Vassals:[/b]
+[b]Subsidiaries:[/b]
 
 [region]Hollenthon[/region]
 [region]Media[/region]
 [region]Spanish Empire[/region]
 [region]The Mossad[/region]
 [region]Hyperborean Thule[/region]
-
-[b]Conquered Subjects:[/b]
-
 [region]Babylonian Empire[/region]
 [region]Sinhala Lanka[/region]
 [region]United Islamic Empire[/region]

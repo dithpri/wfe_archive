@@ -1,0 +1,4 @@
+[nation=short]Fort-Washington[/nation]
+[nation=short]Fort-Jefferson[/nation]
+[nation=short]Fort-Reagan[/nation]
+[nation=short]Fort-Lincoln[/nation]
