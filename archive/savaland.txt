@@ -8,7 +8,7 @@ This is a great place to park your puppet nation or your main nation.
 
 [color=red]Notice:[/color] The scale below shows how likely it is for us to be raided or go to war. 1 is least, 10 is most. If the raid scale is above 5, We will be under lockdown.
 
-Raid scale: [color=red]7[/color]
+Raid scale: [color=brown]5[/color]
 
 War scale: [color=blue]1[/color]
 

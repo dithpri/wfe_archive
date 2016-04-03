@@ -5,8 +5,8 @@
 
 Arbiter General: [nation=short+noflag]Northern Borland[/nation]
 Supreme Court Chief Justice: [nation=short+noflag]Repentant Jihadi[/nation]
-Justice: [nation=short+noflag]Capitalist Producers[/nation]
 Justice: [nation=short+noflag]Nation of Quebec[/nation]
-Alt. Justice: [nation=short+noflag]Kaputer[/nation]
+Justice: [nation=short+noflag]Kaputer[/nation]
+Alt. Justice: OPEN
 
 [i]Please endorse our elected Delegate.[/i]

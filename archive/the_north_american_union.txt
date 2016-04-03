@@ -8,7 +8,7 @@
 
 Emperor: [nation=short]United Federation of Canada[/nation]
 Premier: [nation=short]John Turner[/nation]
-Speaker of The Union: 
+Speaker of The Union: [nation=short]The Former Confederacy[/nation]
 Minister of The Union: 
 Chief Justice: 
 Secretary of The Interior: [nation=short]Regents[/nation][/color][/b]
