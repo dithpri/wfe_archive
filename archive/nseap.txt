@@ -9,6 +9,13 @@ Official [url=http://www.nationstates.net/nation=eaglerise/detail=factbook/id=58
 [region]National Socialist Ministries[/region]
 [region]National Socialist Studies[/region]
 [Region]The Klan[/region]
+[region]Austro Hungarian Empire[/region]
+[Region]Nazi Romania[/region]
+[region]Rossiya[/region]
+[region]Moskva[/region]
+[region]New Russia[/region]
+[region]Novorossiya[/region]
+[region]Ukrayina[/region]
 
 [color=#e60000][i]Only signatories may have embassies[/i][/color]
 [/b]

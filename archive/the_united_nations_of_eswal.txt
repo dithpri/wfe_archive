@@ -1,3 +1,12 @@
 Leader, Military/Technology: Eswal
 Agriculture: Soulmeil
 Military: Steminia
+
+Voting rules:
+Everyone gets 5 voting point by default.
+
+Not Original flag: -1 voting point
+Currency isn&#39;t Eswalian-(currency name here): -.5 voting point
+Motto isn&#39;t in latin: -.5 voting points
+Job for the government: +1
+Founder: -2

@@ -1,7 +1,6 @@
-[b][color=red][region]Nazi Great Britain[/region] is a [region]NSEAP[/region] Signatory and [region]Nazi NationStates[/region] Region for White British[/color]
+[b][color=red][region]Nazi Great Britain[/region] is a [region]NSEAP[/region] Signatory[/color]
 
-Race: &quot;White British&quot;
-(English, Scottish, and Welsh Nations)
+[I][Color=#e60000]English, Scottish, and Welsh Nations Only[/color][/I]
 
 Area:	209,331 km2 (80,823 sq mi)
 Countries:	England, Scotland, Wales

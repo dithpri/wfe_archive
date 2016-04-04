@@ -1,3 +1,1 @@
-Charlotte
-
-the largest city in [region=North Carolina]
+[region]True North[/region]

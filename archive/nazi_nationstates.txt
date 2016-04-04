@@ -6,9 +6,15 @@
 [region]Belgien[/region]
 [region]Nazi Great Britain[/region]
 [region]National Socialist Ministries[/region]
-[region]Rossiya[/region] - [region]Moskva[/region] - [region]Novorossiya[/region]/[region]New Russia[/region]
+[region]National Socialist Studies[/region]
 [Region]The Klan[/region]
-
+[Region]Austro Hungarian Empire[/region]
+[Region]Nazi Romania[/region]
+[region]Rossiya[/region]
+[region]Moskva[/region]
+[region]New Russia[/region]
+[region]Novorossiya[/region]
+[region]Ukrayina[/region]
 [url=http://en.metapedia.org/wiki/White_people][i]Who are Europeans?[/i][/url]
 [url=http://www.tomatobubble.com/wonderfulrace1.html]True European History[/url]
 
