@@ -11,6 +11,7 @@
 [nation=short]Deutschenreiche[/nation]
 [nation=short]Isle of Great-Britain[/nation]
 [nation=short]Sekowo[/nation]
+[nation=short]Eastern Dixie[/nation] - [i]Temporary[/i]
 
 
 [color=darkred][b][i][u]Cartographer[/i][/u][/b][/color]
