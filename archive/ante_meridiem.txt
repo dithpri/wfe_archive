@@ -1,13 +1,16 @@
 [color=red]We are[/color] [color=gray]an official[/color] [color=blue]democracy![/color]
 [color=megenta]&quot;Ambition, regardless of ability, is key&quot;~[/color]
 
-[color=red][b]If you have a problem, contact the founder:[/color][/b]
+[color=blue][b]If you have a problem, contact the founder:[/color][/b]
 [nation]Konstantinus[/nation]
 
-[color=red][b]Be sure to endorse your Chancellor:[/color][/b]
+[color=blue][b]Be sure to endorse your Chancellor:[/color][/b]
 [nation]Cathernias[/nation]
 
-[color=purple][b]Other government positions:[/color][/b]
+[b]Current Majority Party in Congress:[/b]
+&amp;#9773;[color=red]Communist Party[/color]&amp;#9773;
+
+[color=blue][b]Other government positions:[/color][/b]
 [*][nation]The Executioner Murders[/nation]
 [*][nation]Reedian[/nation]
 [*][nation]United Democratic Peoples Islands[/nation]
