@@ -1,21 +1,21 @@
 ---[b]Founded[/b] 11/12/2015---
 
-[b]Founder/Kaiser:[/b] Imperial Germans
+[b]Founder/Kaiser:[/b] [nation=Imperial Germans]
 
-[b]Commissioner of Foreign Affairs:[/b] Kellonville
+[b] General of the Federal Army:[/b] [nation=The States of Bavaria]
 
-[b] Commander of the Federal Army:[/b] The States of Bavaria
+[b]Lieutenant General of the Federal Army/Commissioner of Foreign Affairs:[/b] [nation=Kellonville]
 
 [color=red][b]Federal Army Regiments[/b][/color]
 ________________________
 [b]1st Kaiser Guard [color=red]II[/color][/b]
-[b]Kaiser:[/b] Imperial Germans  
+[b]Kaiser:[/b] [nation=Imperial Germans]
 
 [b]Luftwaffe[/b]
-[b]General:[/b] ________________
+[b]Major:[/b] [nation=The United Fascist Republic]
 
 [b]80th Fusilier Guard [/b]
-[b]General:[/b] ________________
+[b]Major:[/b] _______________________
 ___________________________________________________
 [url=http://www.nationstates.net/page=dispatch/id=560642]Military[/url], [url=http://www.nationstates.net/page=dispatch/id=568868] Military Awards[/url], [url=http://www.nationstates.net/page=dispatch/id=590074=]Conquests[/url]
 ___________________________________________________

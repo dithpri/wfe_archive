@@ -1,14 +1,14 @@
-[color=blue]HOME OF THE NSCNR (Nation States Coalition of Nations and Regions)[/color]
+[b] [color=blue]HOME OF THE NSCNR (Nation States Coalition of Nations and Regions)[/color]
 
 [color=orange] Members: [/color]
-Bunicken, Christian Empire
-Kaiserreich, Liberty League
-Second European Empire, Maverick Hunters
-Sacred Order of Fire, The Mystical Council,
-United Commonwealth of Nations
+[region]Bunicken[/region], [region]Christian Empire[/region]
+[region]Kaiserreich[/region], [region]The Liberty League[/region]
+[region]The Second European Empire[/region],[region]Maverick Hunters[/region]
+[region]Sacred Order of Fire[/region], [region]The Mystical Council[/region],
+[region]United Commonwealth of Nations[/region]
 
 Join the [color=red]Parliament[/color] today!
 
-Minister of Internal Affairs: [color=green]Plebian Empire[/color]
+Minister of Internal Affairs: [color=green][nation]Plebian Empire[/nation][/color]
 Council Chairman: [color=purple]Kelvinsi[/color]
-Reich Protektorate Kommandant: [color=orange]Skyonder[/color]
+Reich Protektorate Kommandant: [color=orange][nation]Skyonder[/nation][/color] [/b]
