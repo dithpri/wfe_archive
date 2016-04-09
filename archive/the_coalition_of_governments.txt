@@ -7,6 +7,7 @@
 [nation=short]Vanhania[/nation]
 [nation=short]Khalite[/nation]
 [nation=short]The United Roman Reich[/nation]
+[nation=short]Felkesjud[/nation]
 [Hr]
 
 [b]Endorse [nation=short]Vanhania[/nation] to be our WA Delegate![/b]

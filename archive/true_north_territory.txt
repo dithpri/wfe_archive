@@ -1,1 +1,12 @@
-[region]True north[/region]
+[color=blue]Welcome to[/color] [b][color=0099ff]True North Territory[/b][/color]
+
+[color=red][b]Head of Regional Operations for [region]True North[/region][/b][/color][b]
+
+[color=00ccff]&yen;[/color][color=9900ff][i]This Region is the Control center for all of [region]true north[/region] Affairs[/i][/color][color=00ccff]&yen;[/color]
+
+All Embassies with [color=ff33ff]&reg;[/color][region]true north territory[/region][color=ff33ff]&reg;[/color] are Territories of True North[/b]
+
+[color=0000ff][b]New home region is now [region]asphodel meadows[/region][/b][/color]
+
+This region will remain Locked       
+      

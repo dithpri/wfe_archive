@@ -1,6 +1,4 @@
-[b][u]ENDORSE AND VOTE FOR [nation]CRESENTHIA[/nation]!![/u][/b]
-[hr]
-[b][u]Welcome to [region]The Second European Empire[/region], home of freedom, potatoes, Dank Memes (really, okay, I guess), and the Kaiserreich government-in-exile. 
+[b][u]Welcome to [region]The Second European Empire[/region], home of freedom, potatoes, Dank Memes (no room :(), and the Kaiserreich government-in-exile. 
 [hr]
 There is a new Constitution! Take some time to become acquainted with it.
 Executive Government:
@@ -9,7 +7,7 @@ Founder/Emperor: [nation]Cresenthia[/nation]
 
 Chief of Staff: [nation]Canton Empire[/nation]
 
-Minister of the Interior: None
+Minister of the Interior: [nation]Belgroth[/nation]/[nation]Belgroth Representative[/nation]
 
 Minister of Foreign Affairs: [nation]The Datlovian Holy Empire[/nation]
 
