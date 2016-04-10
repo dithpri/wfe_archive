@@ -11,6 +11,7 @@ Our Delegate - [nation=Republic Of Serbistan]
 [nation=short]Ssotab[/nation]
 [nation=short]Lalaela[/nation]
 [nation=short]Yatogami[/nation]
+[nation=short]The lady of cake[/nation] 
 [nation=short]Krose[/nation]
 
 [color=blue][b]NOTICES[/b][/color]
