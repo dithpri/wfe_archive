@@ -5,7 +5,7 @@
 
 [color=darkblue][b][u]Martial Officers[/u]
 Military Officer:[nation]Estoia[/nation]
-Estoian Advisor:[Vacant]
+Estoian Advisor:[Nation]Elbaron[/nation]
 Intelligence Officer:[nation]Vaulta Corpara[/nation]
 Vaultan Advisor:[nation]Kortza[/nation][/color][/b]
 
@@ -14,7 +14,7 @@ Vaultan Advisor:[nation]Kortza[/nation][/color][/b]
 [color=red][B]Chairman:[nation]Democratic peoples republic of siberia[/nation] [Inactive]
 WA Delegate:[Vacant]
 Seat Three:[nation]Kortza[/nation]
-Seat Four:[Vacant]
+Seat Four:[nation]Elbaron[/nation]
 Seat Five:[nation]Social leninar[/nation][/b]
 [hr]
 [B]Important News: [u]MARTIAL LAW HAS BEEN DECLARED[/u][/color][/B]

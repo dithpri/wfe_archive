@@ -2,4 +2,7 @@
 
 [u]FACTIONS:[/u]
 Matthenian Republic [REP]
-Mars Roman Empire [IMP]
+Mars Roman Empire [ROM]
+Kruxian Empire [KRX]
+
+Server Hosted by: [nation]Weinmund[/nation]
