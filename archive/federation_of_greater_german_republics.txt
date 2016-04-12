@@ -4,11 +4,11 @@
 
 [b] General of the Federal Army:[/b] [nation=The States of Bavaria]
 
-[b]Lieutenant General of the Federal Army/Commissioner of Foreign Affairs:[/b] [nation=Kellonville]
+[b]Lt. General of the Federal Army/Commissioner of Foreign Affairs:[/b] [nation=Kellonville]
 
 [color=red][b]Federal Army Regiments[/b][/color]
 ________________________
-[b][color=red]DEFCON 2[/color][/b]
+[color=green][b]DEFCON 4[/b][/color]
 [b]1st Kaiser Guard [color=red]II[/color][/b]
 [b]Kaiser:[/b] [nation=Imperial Germans]
 
@@ -16,7 +16,7 @@ ________________________
 [b]Major:[/b] [nation=The United Fascist Republic]
 
 [b]80th Fusilier Guard [/b]
-[b]Major:[/b] [nation=Secretly isis] (Temporary until further notice)
+[b]Major:[/b] [nation=Secretly isis]
 
 [b]Chief Warrant Officer[/b]
 [b]C.W.O.:[/b] [nation=Hakstead States]
