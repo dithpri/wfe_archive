@@ -1,7 +1,0 @@
-[color=lightblue][B]~*~ Kingdom of Alexandria ~*~[/B][/color]
-[color=blue][i]This region has been taken for research and training by the Royal Alexandrian Battlemage Legion.[/i]
-[/color]
-[color=purple][B][u]Troops[/u]
-Paladin [nation=short]Atagait Denral[/nation]
-Paladin [nation=short]Khronion[/nation]
-Initiate [nation=short]Luthadel[/nation][/B][/color]

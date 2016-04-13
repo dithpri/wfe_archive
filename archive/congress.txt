@@ -1,13 +1,13 @@
 Congressional building for The Insane Region.
 
-[spoiler=Senators]Republican Party: [nation=short+noflag]Cresenthia[/nation]
+[spoiler=Senators]Republican Party: [nation=short+noflag]The Reapers of the Night[/nation]
 The Freedom Party: [nation=short+noflag]Dark Creeper[/nation]
 The Socialist, Communist, and Totalitarian Party: [nation=short+noflag]The Mickey Mouse Club[/nation]
 TIR Fascist Division: [nation=short+noflag]The True Force[/nation]
-The Dovahkiin Mercenaries: [nation=short+noflag]MentalReRe19[/nation][/spoiler][spoiler=Representatives]Republican Party: [nation=short+noflag]The Great Britannian Republic[/nation], [nation=short+noflag]The South African National Congress[/nation]
-The Freedom Party: [nation=short+noflag]The United States Military[/nation]
+Unity Party: [nation=short+noflag]Halo allaince[/nation][/spoiler][spoiler=Representatives]Republican Party: [nation=short+noflag]The Great Britannian Republic[/nation], [nation=short+noflag]The South African National Congress[/nation]
+The Freedom Party: [nation=short+noflag]Cercinemia[/nation]
 The Socialist, Communist, and Totalitarian Party: [nation=short+noflag]Vuirden[/nation], [nation=short+noflag]Call of Duty Advanced Warfare[/nation]
 TIR Fascist Division: [nation=short+noflag]TING TANG WALLAWALLA BING BANG[/nation], [nation=short+noflag]The Fascist League[/nation]
-The Dovahkiin Mercenaries: [nation=short+noflag]MentalReRe19[/nation][/spoiler]
+Unity Party: [nation=short+noflag]The Romulan Star Remnant[/nation][/spoiler]
 
 Only Congressional members are authorized to post here (and administrative officers)
