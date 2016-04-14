@@ -8,11 +8,10 @@
 [b]Attorney General:[/b] [nation]Scot-Ireland[/nation]
 [b]Vice Attorney General:[/b] [nation]phillipsburgopolis[/nation]
 
-[color=green][u][b]Status[/b][/u][/color]
-[b]Neutral[/b]
-
-[color=purple][u][b]Regional Concerns[/b][/u][/color]
-[b]None[/b]
+[color=green][u][b]URL&#39;s[/b][/u][/color]
+[url=https://www.nationstates.net/page=dispatch/id=444406]Nation States Guide[/url]
+[url=https://www.nationstates.net/page=un]World Assembly[/url]
+[url=https://www.nationstates.net/page=dispatch/id=532140]Constitution[/url]
 
 [color=orange][u][b]Regional Agenda[/b][/u][/color]
 &#149;Adopt a Currency
@@ -20,3 +19,4 @@
 
 [color=red][u][b]News[/b][/u][/color]
 &#149;Next General Election: [b]Months Away[/b]
+&#149;We are building a coalition to help us build a more peaceful, prosperous world.

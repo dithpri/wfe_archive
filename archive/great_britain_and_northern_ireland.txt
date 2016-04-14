@@ -1,9 +1,9 @@
 [list][color=000099]Welcome to [b]Great Britain and Northern Ireland[/b]
 [/color][color=003366]
 FACTS
-[b]Capital:[/b] London
+[b]Capital:[/b] [region=London]
 [b]Independence:[/b][list]927 (union of English Kingdoms);
-1284 (with Wales);
+1284 (with [region=Wales]);
 1707 (with Scotland);
 1801 (with Ireland)[/list][b]Head of State:[/b] Queen Elizabeth II (1952 Feb 6)
 [b]Head of Government:[/b] Prime Minister David Cameron (2010 May 11)

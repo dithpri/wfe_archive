@@ -7,10 +7,13 @@
 
 [color=purple][u][b][*]Behold the Eight Kingdoms of the United Empire![/b][/u][/color]
 [nation=short]Dunstone[/nation]
-[nation=short]Tersottand[/nation]
+[nation=short]Scaterre[/nation]
 [nation=short]Kometra[/nation]
 [nation=short]Terrdasvalr[/nation]
 [nation=short]Terranique[/nation] 
 [nation=short]Giungel[/nation] 
 [nation=short]Maling-Bal[/nation]
-[nation=short]Ilemysteln[/nation]
+[nation=short]Oigheia[/nation]
+
+[b]Associated Territories[/b]
+[nation=short]Tersottand[/nation]
