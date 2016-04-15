@@ -5,12 +5,14 @@
 
 [color=blue][b]Prime Minister:[/b] [nation=short]Sylven II[/nation]
 [b]Deputy PM:[/b] [nation=short]Pizza_lover[/nation]
-[b]Chancellor:[/b]
-[b]Minister of Defense:[/b] [/color]
+[b]Chancellor:[/b] [nation=short]carefull_People[/nation]
+[b]Minister of Defense:[/b] 
+[b]Head of Recruitment:[/b][/color]
 
 [color=darkblue][b]News:[/b][/color] Get a position! 
 
 [b][color=red] Join our chat room and forum![/color][/b]
-[url=http://us120.chatzy.com/18210313570568]Chat Room[/url] [url=http://ascof.forumotion.com/]Forum[/url]
-
+[url=http://us120.chatzy.com/18210313570568]Chat Room[/url] 
+[b][color=darkblue]Apply for Citizenship![/color][/b]
+[url=http://ascof.forumotion.com/]Forum[/url]
 [b][color=red]Endorse our delegate [nation=short]pizza lover[/nation] [/color][/b]

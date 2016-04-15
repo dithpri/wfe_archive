@@ -1,8 +1,7 @@
-[color=#FFA500][b]Monarch: Queen Elizabeth II
-Imperial Leader: [nation]Dictatortots[/nation]
+[color=#FFA500][b] Imperial Leader: [nation]Dictatortots[/nation]
 Imperial Delegate: [nation]Troll hi[/nation]
-Imperial Adviser: [nation]North Yeneva[/nation][/b][/color]
-Imperial Secretary: [nation]Triremepolis[/nation]
+Imperial Adviser: [nation]North Yeneva[/nation]
+Imperial Secretary: [nation]Triremepolis[/nation][/b][/color]
 [color=#0101DF][b]
 We Run On Democratic Authority.
 Somewhat hostile: [nation]SquodeWardi[/nation]
