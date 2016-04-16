@@ -1,6 +1,18 @@
-Namibia
+[color=navy][b]Namibia[/b]
 
-Note
---- Playing NS Embassy Oracle ---
-Will be aborting all embassy offers
---- Sorry ---
+[b]Facts[/b]
+&#149; A sovereign nation located on the south west coast of [region=Africa], 
+&#149; East of the South Atlantic Ocean, 
+&#149; North of [region=South Africa], 
+&#149; South of [region=Angola] and [region=Zambia],
+&#149; West of [region=Botswana].
+&#149; Capital city is Windhoek
+&#149; Population: 2,113,077 citizens (2011 census)
+&#149; Area: 825,615 sq km (318,696 sq mi)
+&#149; Ranked 34th largest nation in area
+&#149; The port city of [region=Walvis Bay] was repatriated in 1994 from South Africa.
+&#149; Namibia is a republic within the British Commonwealth.
+[/color]
+[color=800030]
+This is an [region=Ancient Lands] region[/color]
+[color=008030][b]Embassy offers accepted[/b][/color]
