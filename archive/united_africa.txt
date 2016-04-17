@@ -8,10 +8,7 @@ Welcome to the first largest African region,[b][color=green] United Africa[/colo
 [b]The UA Commons[/b]
 [u]Founder:[/u] [nation=short]Zambezia[/nation]
 [u]Prime Consul:[/u] [nation=short]Congos[/nation]
-[u]Consuls:[/u]
-(1) [nation=short]Senegambia[/nation]
-(2) [nation=short]Southwestern Africa[/nation]
-(3) [nation=short]Tanganyika and Zanzibar[/nation]
+[u]Regional Advisor:[/u] [nation=short]Guinea-Conakry[/nation]
 
 [hr]
 

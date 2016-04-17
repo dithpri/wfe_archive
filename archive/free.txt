@@ -2,18 +2,16 @@
 
 [color=green] Operational headquarters have been moved to [region=The Iron League][/color]
 [color=purple]This region tries to bring justice to the free peoples.[/color]
-[color=blue]Detags executed by Ravanian Justice-nations :[b] 897 [/b][/color]
+[color=blue]Detags executed by Ravanian Justice-nations :[b] 935 [/b][/color]
 
 [hr]
 [b][color=red][u]Justice-detag list:[/u][/color]
 
-Dec 6th: [region=Politica Universalis]
-Dec 6th: [region=The Realm of the Mind Potatoes]
-Dec 6th: [region=The Environmental Protection Region]
-Dec 6th: [region=Brohalla]
-Dec 6th: [region=PHSwagger]
-Dec 6th: [region=Operation Blame Sopo]
-Dec 6th: [region=Null]
+Dec 18th: [region=Hesperiae]
+Dec 18th: [region=Ferelden]
+Dec 18th: [region=The Knights of the Bload Oath]
+Dec 18th: [region=An Escape]
+Dec 18th: [region=Laseria]
 
 [hr]
 [color=purple][u]Detag to-do-list:[/u][/color][/b]

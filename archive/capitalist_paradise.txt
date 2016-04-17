@@ -7,6 +7,6 @@ Arbiter General: [nation=short+noflag]Northern Borland[/nation]
 Supreme Court Chief Justice: [nation=short+noflag]Repentant Jihadi[/nation]
 Justice: [nation=short+noflag]Nation of Quebec[/nation]
 Justice: [nation=short+noflag]Kaputer[/nation]
-Alt. Justice: OPEN
+Alt. Justice: [nation=short+noflag]Armus Republic[/nation]
 
 [i]Please endorse our elected Delegate.[/i]
