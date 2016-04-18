@@ -6,13 +6,7 @@ Vlad The Impaler [nation=short]Mist Veil[/nation]
 George III [nation=short]Republic of Altos and Stratis[/nation]
 Napoleon Bonaparte [nation=short]Thornico[/nation]
 
-[color=brown][b]Representative:[/b][/color] The King (The Devious Party: [nation=short]Thornico[/nation])
+[color=brown][b]Representative:[/b][/color] James Bond (The Solar Party: [nation=short]Mist Veil[/nation])
 
-[color=brown][b]Regional Judge:[/b][/color] James Bond [nation=short]Mist veil[/nation]
-
-[color=brown][b]Congress[/b][/color]
-The Devious Party: 30.0% [nation=short]Thornico[/nation]
-The Piner Party: 20.0% [nation=short]The Cass Confederation[/nation]
-The Rationality Party: 30.0% [nation=short]Republic of Altos and Stratis[/nation]
-The Solar Party: 20.0% [nation=short]Mist Veil[/nation]
+[color=brown][b]Regional Judge:[/b][/color] [nation=short][/nation]
 

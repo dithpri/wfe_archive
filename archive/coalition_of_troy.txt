@@ -1,8 +1,9 @@
-[color=#FFA500][b] Imperial Leader: [nation]Dictatortots[/nation]
-Imperial Delegate: [nation]Troll hi[/nation]
-Imperial Adviser: [nation]North Yeneva[/nation]
+[color=#3498DB]Welcome to Coalition of Troy!
+
+[color=#FFA500][b] Imperial Leader/Delegate: [nation]Dictatortots[/nation]
 Imperial Secretary: [nation]Triremepolis[/nation][/b][/color]
-[color=#0101DF][b]
+[color=#FFA500][b]Imperial Scribe: [nation]Vatsaltopia[/nation][/b][/color]
+[color=#FFA500][b]
 We Run On Democratic Authority.
 Somewhat hostile: [nation]SquodeWardi[/nation]
 Allied Regions: [region]Commonwealth Realms of the Republic[/region][/b][/color]
