@@ -1,15 +1,21 @@
 [b][u]Current Wars[/b][/u]
 
 
-[b][u]Current Alliances[/b][/u]
--Britain and British Natives
--France and French Natives
--France and Spain
--British and Netherlands
+[b][u]Current Factions[/b][/u]
+[u]British[/u]
+-Britain
+-British Aligned Natives
+-The Netherlands
 
-[b][u]Current Trade Agreements[/b][/u]
+[u]French[/u]
+-France
+-French Aligned Natives
+-Spain
+
+[u]Pirates[/u]
+-New Tortuga
 
 
 -Map will be updated as ownerships change.
 
--Please Include an army detail in your factbook (refer to mine) as well as a naval detail (if applicable). I you need help please ask, as I would like it to have the exact same format as my own, Thanks!
+-Please Include an army detail in your factbook (refer to mine) as well as a naval detail (if applicable). If you need help please ask, as I would like it to have the exact same format as my own, Thanks! (This only applies to European nations)

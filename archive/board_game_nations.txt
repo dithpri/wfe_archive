@@ -5,7 +5,7 @@ Board Game Nations is a region meant for the players of Board Game Online. Neutr
 Founder: [nation=short]Frostorn[/nation]
 Crown Princess: [nation=short]Clanktopolis[/nation]
 Crown Prince: [nation=short]Hazzardia[/nation]
-First Princess: 
+First Princess: [nation=short]Sylvenea[/nation]
 Warmaster: [nation=short]Grarrgtopia[/nation]
 Master of Laws: [nation=short]Dragonpitopia[/nation]
 Master of Foreign Affairs: [nation=short]Dunceland[/nation][hr]Will need to check poll records for other roles. If you have a missing role that I have yet to write here, please inform me (Frostorn) or Grarrg as soon as possible.

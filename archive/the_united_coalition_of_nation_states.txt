@@ -4,13 +4,18 @@
 
 [b][color=purple]Welcome to [/color][region]The United Coalition of Nation States[/region][color=purple], where our mission is to unite member nations under one, Regional Government while still retaining their sovereignty.[/color]
 
-[color=gold]Our Government:[/color]
-[color=blue]Prime Minister:[/color] [nation]Gladius Imperator[/nation]
-[color=red]Minister-President:[/color] Vacant
-[color=orange]Minister of State:[/color] [nation]The Democratic Republic of India[/nation]
+[hr]
 
-[color=purple]Thanks for choosing [/color] [region]The United Coalition of Nation States[/region] [color=purple]as your region to be in. Have a nice day![/color][/b]
+[i][u][color=red]Our Government:[/color][/u][/i]
+
+[color=navy]Prime Minister:[/color] [nation]Gladius Liberator[/nation]
+[color=navy]Minister-President:[/color] Vacant
+[color=navy]Minister of State:[/color] Vacant
+
+[color=purple]Thanks for choosing [/color] [region]The United Coalition of Nation States[/region] [color=purple]as your region![/color][/b]
 
 [b][color=navy]If you want to learn more about our region, feel free to checkout some of our Factbooks and Dispatches shown below.[/color]
 
-[color=brass]Proud member of the [region]International Coalition of Regions[/region]![/color][/b]
+[color=brass]Proud member of the [region]International Coalition of Regions[/region]![/color]
+
+[color=navy]Chat with us live on [url=http://ucns.freeforums.net/page/irc]IRC[/url]! | Visit our [url=http://ucns.freeforums.net/]Forum[/url]![/color][/b]
