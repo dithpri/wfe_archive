@@ -6,7 +6,6 @@ SISTER REGION OF [region=GREAT BARRIER REEF]
 [b][i]Executive[/i][/b]
 Founder - [nation=Alpha Penguinz]
 Our Delegate - [nation=Republic Of Serbistan]
-Vice - [nation=Lalaela]
 [b][i]Elder Council[/b][/i]
 [nation=short]Lalaela[/nation]
 [nation=short]Yatogami[/nation]
@@ -15,5 +14,4 @@ Vice - [nation=Lalaela]
 [nation=short]Silver Magnolia[/nation]
 [nation=short]Obrenovstan[/nation]
 [color=blue][b]NOTICES[/b][/color]
-Pig goes quack
 Alpha- KAIOKEN times 4! 

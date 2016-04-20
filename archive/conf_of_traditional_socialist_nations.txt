@@ -4,8 +4,7 @@
 [hr]
 
 [color=darkblue][b][u]Martial Officers[/u]
-Military Officer:[nation]Estoia[/nation]
-Estoian Advisor:[Nation]Elbaron[/nation]
+Military Officer:[nation]Elbaron[/nation]
 Intelligence Officer:[nation]Vaulta Corpara[/nation]
 Vaultan Advisor:[nation]Kortza[/nation][/color][/b]
 

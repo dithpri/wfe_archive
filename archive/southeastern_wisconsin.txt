@@ -5,9 +5,10 @@
 Premier: Not elected yet
 General: Not appointed yet
 Judges: Not appointed yet
-Regional WA Delegate: [nation]Capitalem[/nation] 
+Regional Diplomat: [nation]Universalum[/nation] 
 
 [hr][b]Threat Level[/b]
 [color=gold]Alert, but No Specific Threat[/color] ([color=gold]Level 2[/color]/[color=red]5[/color])
 [hr][b]News and Bulletin:[/b]
-&#149; [color=green]We are finally having an election! Hooray, I guess![/color]
+&#149; [color=red]We are finally having an election! Hooray, I guess!
+&#149; Get NationStates++ at [url=]https://nationstatesplusplus.net/install[/url]![/color]

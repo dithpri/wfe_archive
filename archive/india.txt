@@ -3,7 +3,6 @@
 Welcome to India, a region dedicated to a nation that boasts 6000 years of history. 
 
 
-
 [b][u]Embassy Policy[/b][/u]: For us to approve your region&#39;s embassy request, your region must have at least 7-8 nations. 
 
 [b][u]Endorsement policy[/b][/u]: All incoming and current WA nations will receive a minimum of 1 endorsement as a thank you for their entrance here. 
@@ -14,5 +13,8 @@ Candidates:
 [nation]Kumbhalgarh[/nation]
 [nation]Kolkatta[/nation]
 [nation]Chalakudy[/nation]
+[nation]india_waale[/nation]
+
+Please vote with your endorsements
 
 Our regional currency is the Indian rupee (INR). Adoption is optional but recommended. 
