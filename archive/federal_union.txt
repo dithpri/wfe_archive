@@ -1,6 +1,7 @@
 [BASIC INFORMATION]
 Founded: April 17, 2016
 Description: The Federal Union is a collection of countries that fight for a unified cause. Many aspects of the region are still under development.
+Regional Currency: Federal Dollar
 
 [WARTIME INFORMATION]
 War Status: Peacetime

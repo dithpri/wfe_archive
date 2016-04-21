@@ -2,9 +2,10 @@
 [hr][b][url=http://southeasternwisconsin.weebly.com/]Website[/url][/b]
 [hr][b][url=https://docs.google.com/a/pewaukeeschools.org/drawings/d/1hsPdwRzTQ3C3HVJzTFFkHs7jK88yQLR52zwUlgwtn-A/edit]Regional Map[/url][/b]
 [hr][b]Regional Government by the Union of Regions:[/b]
-Premier: Not elected yet
-General: Not appointed yet
-Judges: Not appointed yet
+Premier: [nation]Capitalem[/nation]
+General: [nation]Viperon[/nation]
+Vice General: [nation]Pakstria[/nation]
+Judges: [nation]Constitutionation[/nation], [nation]Kiwanzinia[/nation], [nation]Polankamninospase[/nation]
 Regional Diplomat: [nation]Universalum[/nation] 
 
 [hr][b]Threat Level[/b]
