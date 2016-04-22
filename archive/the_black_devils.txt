@@ -10,4 +10,4 @@ Brigadier General: [nation=short]Professional Cat[/nation][/color]
 
 [hr]
 [color=black]Order of the Day:[/color]
-[color=brown]Await further orders.[/color][/b]
+[color=brown]Move to [region]Russia[/region] and endorse [nation=short]Tikor[/nation].[/color][/b]
