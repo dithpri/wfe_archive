@@ -1,0 +1,30 @@
+This is a test to see what nations &quot;spawn&quot; as with a different combination of Government Type and the answers in the Ideology Analysis.
+
+
+
+[color=green]King of the Tests[/color] [nation=short]CreateNationTest[/nation] Sensible, no answers
+[hr]
+
+SENSIBLE NATIONS
+[nation=short]SensibleTest1[/nation] Sensible, all Strongly Agree
+[hr]
+
+CONSERVATIVE NATIONS
+[nation=short]ConservativeTest1[/nation] Conservative, all Strongly Agree
+[hr]
+
+LIBERAL NATIONS
+[nation=short]LiberalTest1[/nation] Liberal, all Strongly Agree
+[hr]
+
+COMPASSIONATE NATIONS
+[nation=short]CompassionateTest1[/nation] Compassionate, all Strongly Agree
+[hr]
+
+OPPRESSIVE NATIONS
+[nation=short]OppressiveTest1[/nation] Oppressive, all Strongly Agree
+[hr]
+
+CORRUPT NATIONS
+[nation=short]CorruptTest1[/nation] Corrupt, all Strongly Agree
+[hr]
