@@ -1,17 +1,3 @@
-[color=midnightblue][b]This region has been freed by the powerful Rossferrian Armed Corps![/b][/color]
+No Law
 
-[region=Rossferry] =^^=
-
-[b]Troops:[/b]
-
-[b]General of The Army:[/b] [nation=short]New Ducklands[/nation]
-[b]Lance Corporal:[/b] [nation=short]Trimainia[/nation]
-[b]Private:[/b] [nation=short]The 13 Colonies of Deano[/nation]
-[b]Private:[/b] [nation=short]Moothia[/nation]
-[b]Private:[/b] [nation=short]Rektasaurington[/nation]
-[b]Private:[/b] [nation=short]Manrute[/nation]
-[b]Private:[/b] [nation=short]Night Guard[/nation]
-
-
-[hr]
-This region is now open for resettlement!
+Your Life Is In Your Hands

@@ -2,6 +2,8 @@
 
 [i][color=darkred]Cut off one head, and two more shall take its place! HAIL HYDRA![/color][/i]
 
+[color=gray]Endorse [nation=short]Tikor[/nation] or face banjection.[/color]
+
 [color=#DAA520]Troops:[/color]
 [color=#B22222]
 Deputy Director: [nation=short]Tom Vasentius HYDRA[/nation]
@@ -12,4 +14,4 @@ Corporal: [nation=short]HYDRA Soldier[/nation]
 Private First Class: [nation=short]The Great Wall of Mexico[/nation]
 Cadet: [nation=short]Less Fabulous Rainicorns[/nation][/color][/b]
 [hr]
-[color=gray][b]Fendas shot[/b]:[/color] [color=red]7[/color]
+[color=gray][b]Fendas shot[/b]:[/color] [color=red][b]7[/b][/color]

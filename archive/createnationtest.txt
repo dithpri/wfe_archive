@@ -9,13 +9,14 @@ SENSIBLE NATIONS
 [nation=short]SensibleTest1[/nation] Sensible, all Strongly Agree
 [hr]
 
+LIBERAL NATIONS
+[nation=short]LiberalTest1[/nation] Liberal, all Strongly Agree
+[hr]
+
 CONSERVATIVE NATIONS
 [nation=short]ConservativeTest1[/nation] Conservative, all Strongly Agree
 [hr]
 
-LIBERAL NATIONS
-[nation=short]LiberalTest1[/nation] Liberal, all Strongly Agree
-[hr]
 
 COMPASSIONATE NATIONS
 [nation=short]CompassionateTest1[/nation] Compassionate, all Strongly Agree
@@ -28,3 +29,6 @@ OPPRESSIVE NATIONS
 CORRUPT NATIONS
 [nation=short]CorruptTest1[/nation] Corrupt, all Strongly Agree
 [hr]
+
+LIBERTARIAN NATIONS
+[nation=short]LibertarianTest1[/nation] Libertarian, all Strongly Agree
