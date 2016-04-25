@@ -1,13 +1,22 @@
-[color=#00008B][b]Welcome To ASEAN REGION[/b]
+[color=Teal][b]Welcome To ASEAN REGION[/b]
 [i]&quot;Towards A New, Modern Developed Region&quot;[/i][/color][hr]
-[color=#00008B][b][u]Regional Government[/u][/b][/color]
+[color=Teal][b][u]Regional Government[/u][/b][/color]
 
-[list][i][b]| [nation=short]Jeevenaadu[/nation] | [url=http://www.nationstates.net/page=dispatch/id=592915][color=#00008B]Presidential Office[/color][/url] |
-| [nation=short]Acting Yulia Tymoshenko[/nation] | [url=http://www.nationstates.net/page=dispatch/id=591924][color=#00008B]State Counselor Office[/color][/url] |
-| [nation=short]Hindia Belanda[/nation] | [url=http://www.nationstates.net/page=dispatch/id=592985][color=#00008B]Caretaker Prime Minister[/color][/url] |[/b][/i][/list]
+[list][i][b]| [nation=short]Jeevenaadu[/nation] | [url=http://www.nationstates.net/page=dispatch/id=592915][color=Teal]Presidential Office[/color][/url] |
+| [nation=short]Acting Yulia Tymoshenko[/nation] | [url=http://www.nationstates.net/page=dispatch/id=591924][color=Teal]State Counselor Office[/color][/url] |
+| [nation=short]Hindia Belanda[/nation] | [url=http://www.nationstates.net/page=dispatch/id=592985][color=Teal]Office of the Caretaker Prime Minister[/color][/url] |
+[/b][/i][/list]
 
-[color=#00008B][b][u]Regional News[/u][/b][/color]
+[color=teal][b][u]Ministers[/b][/u][/color]
 
-[b]| [color=Red]Endorsement Cap Is [u]5[/u][/color] | [color=Red]Please Endorse Our Newly-Elected President, [nation=short]Jeevenaadu[/nation][/color] |[/b][hr]
+[list][i][b] | [color=Teal]International Affairs Office[/color] |
+| [color=Teal]Cultural Center[/color] |
+| [color=Teal]Internal Affairs Office[/color] |
+[/b][/i][/list][hr]
 
-[spoiler=LINKS]| [b][url=http://www.nationstates.net/page=dispatch/id=570109][color=#00008B]Guide To Lawmaking[/color][/url][/b] | [b][url=http://www.nationstates.net/page=challenge][color=#00008B]In-Game Challenge[/color][/url][/b] | [b][url=http://www.broomdces.com/nseconomy][color=#00008B]NSEconomy[/color][/url][/b] |[/spoiler]
+[color=Teal][b][u]Regional News[/u][/b][/color]
+
+[b]| [color=Red]Endorsement Cap Is [u]5[/u][/color] | [color=Red]Please Endorse Our Newly-Elected President, [nation=short]Jeevenaadu[/nation][/color] |
+| [color=teal]Minister elections are now in order. Ministers will be appointed on Friday [/color]|[/b][hr]
+
+[spoiler=LINKS]| [b][url=http://www.nationstates.net/page=dispatch/id=570109][color=Teal]Guide To Lawmaking[/color][/url][/b] | [b][url=http://www.nationstates.net/page=challenge][color=Teal]In-Game Challenge[/color][/url][/b] | [b][url=http://www.broomdces.com/nseconomy][color=Teal]NSEconomy[/color][/url][/b] |[/spoiler]

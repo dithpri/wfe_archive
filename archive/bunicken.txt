@@ -1,17 +1,22 @@
 [b] [color=red]Welcome to the Reich of Bunicken[/color]
 [hr]
 
-[color=blue]HOME OF THE NSCNR (Nation States Coalition of Nations and Regions)[/color]
+[color=blue] Home of the [url=http://www.nationstates.net/nation=fascism_vector/detail=factbook/id=619499]NSCNR[/url][/color]
 
-[color=orange] Members: [/color]
-[region]Bunicken[/region], [region]christian empire[/region]
-[region]Kaiserreich[/region], [region]The Liberty League[/region]
-[region]The Second European Empire[/region],[region]Maverick Hunters[/region]
-[region]Sacred Order of Fire[/region], [region]The Mystical Council[/region],
-[region]United Commonwealth of Nations[/region]
+Become a part of the [color=red][url=http://www.nationstates.net/nation=fascism_vector/detail=factbook/id=619520]Government[/url][/color] today!
 
-Join the [color=red]Parliament[/color] today!
-
-Minister of Internal Affairs: [color=green][nation]Plebian Empire[/nation][/color]
+[color=blue]Parliament[/color]:
+Minister of Internal Affairs: [nation]Plebian Empire[/nation]
 Council Chairman: [color=purple]Kelvinsi[/color]
-Reich Protektorate Kommandant: [color=orange][nation]Skyonder[/nation][/color] [/b]
+Internal Investigation Bureau:[nation]Gagala[/nation]
+Archbishop: [nation]Etruscan League[/nation]
+Polizei: [nation]Weavu[/nation]
+IRS Manager: [UN FILLED]
+
+[color=red]Armee Officias[/color]:
+**** Reich Protektorate Kommandant: [nation]Skyonder[/nation] 
+*** Armee Kommandant: [nation]Shadstan[/nation] 
+*** Armee Kommandant: [nation]The People Of The Night[/nation]
+** Armee Kommandant: [nation]Republic of Greater Cuba[/nation] 
+
+[/b]
