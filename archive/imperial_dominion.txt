@@ -1,10 +1,1 @@
-[b][i]Secondary Region of The Imperial Dominion[/i][/b]
-
-[color=black]Welcome to Imperial Dominion! The central base of a great empire, this region was the home region of Poltonia and its territories. 
-We encourage you to join our new region, [/color][b][url=http://www.nationstates.net/region=the_imperial_dominion][color=black][u]The Imperial Dominion[/u][/color][/url][/b][color=black], and take part in building an empire.[/color]
-
-[hr][hr]
-
-[b][u][color=black]Imperial Regency[/color][/u][/b]
-[b][color=goldenrod]&raquo;[/color] Emperor:[/b] Augustine VII of [nation=short]Poltonia[/nation]
-[b][color=goldenrod]&raquo;[/color] Lord Protector:[/b] [nation=short]Romegrad[/nation]
+[b]Secondary Region of [region]The Imperial Dominion[/region][/b][hr]

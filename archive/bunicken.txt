@@ -11,8 +11,8 @@ Council Chairman: [color=purple]Kelvinsi[/color]
 Scribe: [nation]Fascism Vector[/nation]
 Internal Investigation Bureau:[nation]Gagala[/nation]
 Archbishop: [nation]Etruscan League[/nation]
-Polizei: [nation]Weavu[/nation]
-IRS Manager: [UN FILLED]
+Hauptmann die Polizei: [nation]Weavu[/nation]
+IRS Manager: [nation]tears_of_the_sun[/nation]
 
 [color=red]Armee Officias[/color]:
 **** Reich Protektorate Kommandant: [nation]Skyonder[/nation] 

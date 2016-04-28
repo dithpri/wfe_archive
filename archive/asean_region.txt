@@ -9,9 +9,9 @@
 
 [color=teal][b][u]Ministers[/b][/u][/color]
 
-[list][i][b] | [color=Teal]International Affairs Office[/color] |
+[list][i][b] | [nation=short]Rocesia[/nation] | [color=Teal]International Affairs Office[/color] |
 | [color=Teal]Cultural Center[/color] |
-| [color=Teal]Internal Affairs Office[/color] |
+| [nation=short]DPRK Korea[/nation] | [color=Teal]Internal Affairs Office[/color] |
 [/b][/i][/list][hr]
 
 [color=Teal][b][u]Regional News[/u][/b][/color]
