@@ -9,7 +9,7 @@
 
 [color=teal][b][u]Ministers[/b][/u][/color]
 
-[list][i][b] | [nation=short]Rocesia[/nation] | [color=Teal]International Affairs Office[/color] |
+[list][i][b] | [nation=short]Rocesia[/nation] | [url=https://www.nationstates.net/page=dispatch/id=621570][color=Teal]International Affairs Office[/color][/url] |
 | [color=Teal]Cultural Center[/color] |
 | [nation=short]DPRK Korea[/nation] | [color=Teal]Internal Affairs Office[/color] |
 [/b][/i][/list][hr]

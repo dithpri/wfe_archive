@@ -1,5 +1,7 @@
 The Regional Government
 
+Founder: [nation=short]Trelande[/nation]
+
 Executive Branch:   
     Chancellor: [nation=short]DeLaos[/nation]
     WA Delegate: [nation=short]Aerial Curio[/nation]

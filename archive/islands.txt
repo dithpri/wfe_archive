@@ -9,12 +9,12 @@
 
 [hr][color=Red][b] 1st Islands Regional Government[/b][/color]
 PREMIER: [nation=short]Yekateria and Farlandia[/nation][/i]
-[i]PREMIER: [nation=short]Yekateria[/nation][/i]
+[i]VICE PREMIER: [nation=short]Yekateria[/nation][/i]
 [i]CHANCELLOR: [nation=short]Cynave[/nation][/i]
 [i]WA DELEGATE:[color=Red][b]RANK PROHIBITED[/b][/color][/i]
-[i]COMMUNISYKA:[nation=short]Arstotzka Communist[/nation][/i]
+[i]COMMUNISYKA:[nation=short]None[/nation][/i]
 
-[i]SPEAKER: [/i]
+[i]SPEAKER:[nation=short]Arstotzka Communist[/nation] [/i]
 [i]STATE DUMA: [nation=Kasnea],[nation=TheWorstNationInTheWorld]
 [/i]         
 [hr]
