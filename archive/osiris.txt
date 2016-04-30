@@ -1,4 +1,4 @@
-[color=darkslateblue][b]Welcome to Osiris, home of the Osiris Fraternal Order![/b] Walk like an Egyptian![/color]
+[color=#61317F][b]Welcome to Osiris, home of the Osiris Fraternal Order![/b] Walk like an Egyptian![/color]
 
 [hr]
 
@@ -6,12 +6,9 @@
 
 [hr]
 
-[b][color=darkslateblue]WA nations, please endorse the[/color] [color=#6b055e]Pharaoh:[/color][/b] [nation=short]Cormactopia II[/nation] [b][color=darkslateblue]for the security of Osiris.[/color][/b]
+[b][color=#61317F]WA nations, please endorse the[/color] [color=#7c6600]Pharaoh:[/color][/b] [nation=short]Cormactopia II[/nation] [b][color=#61317F]for the security of Osiris.[/color][/b]
 
-
-[hr]
-
-[b][color=darkslateblue]Resident Endorsement Limit: 50
+[b][color=#61317F]Resident Endorsement Limit: 50
 Guardian Endorsement Limit: 85[/color][/b]
 
 [hr]
