@@ -4,11 +4,9 @@
 
 Main Nations:
 
-[b][nation=short]Avalon[/nation][/b] in [i][region]The North Pacific[/region][/i].
+[b][nation=short]Avalon[/nation][/b] and [b][nation=short]Anglia[/nation][/b] in [i][region]The North Pacific[/region][/i].
 
 [b][nation=short]Alexandria[/nation][/b] in [i][region]Kingdom of Alexandria[/region][/i].
-
-[b][nation=short]Anglia[/nation][/b] in [i][region]Old World Union[/region][/i]
 
 [b][nation=short]Free Canary Islands[/nation][/b] and [b][nation=short]Lennart[/nation][/b] in [i][region]Lennart[/region][/i]
 

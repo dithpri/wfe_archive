@@ -1,10 +1,13 @@
 hi ( &amp;#865; &deg; &amp;#860;&amp;#662; &amp;#865; &deg; )
 
 [nation]Helvenia[/nation] = ThatGuy
-[nation]Anti-Subhuman[/nation] = Zy
+[nation]Anti-Subhuman[/nation] = itsZy
 [nation]Liorela[/nation] = Dalemacleod
 [nation]Quagmastan[/nation] = Quagma
 [nation]the_monarchic_empire_state_of_artica[/nation] = Junikev
-[nation]Contralio[/nation] = UNBAN
+[nation]Contralio[/nation] = UNBANhappyniceguy5
+[nation]Royal_Declonia[/nation] = Vibrantgreen
+[nation]masaledip[/nation] = Prospect123
+[nation]braton[/nation] = wackymarmol
 
-[i]Those who hold custom offices are the founding 5 members.[/i]
+[i]Those who hold custom offices are the founding 6 members.[/i]
