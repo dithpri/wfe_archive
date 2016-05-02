@@ -4,8 +4,9 @@
 [spoiler=Start A Campaign!]
 
 &#149; [url=https://www.nationstates.net/page=dispatch/id=622588]Become A Recruiter[/url]
-&#149; [url=nationstates.net]Recruit Using API[/url]
-&#149; [url=nationstates.net]Recruitment Telegrams[/url]
+&#149; [url=http://forum.nationstates.net/viewtopic.php?p=2221381#manual]Manually Recruit[/url]
+&#149; [url=http://forum.nationstates.net/viewtopic.php?p=2221381#api]Recruit Using API[/url]
+&#149; [url=http://forum.nationstates.net/viewtopic.php?p=2221381#stamps]Recruitment Telegrams[/url]
 [hr][/spoiler] [spoiler=Browse Campaigning Regions]
 
 
@@ -18,4 +19,4 @@ Today&#39;s Featured Regions
 [/spoiler]
 [hr]
 
-[url=https://www.nationstates.net/page=dispatches/nation=recruiter_center]View Dispatches[/url]
+[url=https://www.nationstates.net/page=dispatches/nation=recruiter_center]View Dispatches[/url] &nbsp;&nbsp;| &nbsp; [url=https://www.nationstates.net/page=tag_search/type=region]Tag Cloud[/url]

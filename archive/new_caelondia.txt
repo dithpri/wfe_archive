@@ -1,8 +1,23 @@
-Welcome to New Caelondia.
+It is a time of civil war.
 
-[b]Atlantic Alliance[/b]
-[nation]Astoria[/nation]
+The valiant ORDER OF PALADINS
+has been wiped out by
+the sinister SORCERER LORDS,
+and their powerful allies, the
+TIME PROPHETS.
 
-[b]The Rogues Gallery[/b]
-[nation]Comorostan[/nation]
-[nation]Revolutionary Proletarian Soviets[/nation]
+Starships of the REBELLION, 
+striking from a hidden base, 
+have won their first victory 
+over the evil empire 
+of CENTRALITY PRIME.
+
+As chaos envelops the galaxy, 
+amoral CRIME SYNDICATES
+prey on the weak and defenseless. 
+Dozens of worlds fall victim to
+cruel pirates and vile slavers.
+
+The Order of Paladins/The Rebellion: [nation]Astoria[/nation]
+The Empire/The Sorcerer-Lords/The Time Prophets: [nation]Centrality Prime[/nation]
+The Crime Syndicates/Pirates: [nation]Comorostan[/nation]

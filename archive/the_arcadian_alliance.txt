@@ -18,9 +18,9 @@ Sole Dictator Act: False
 Emergency Declaration: False
 [hr] 
 [b]Citizens:[/b]
-[nation=short]MacLeod Industries[/nation] - Stuart 
-[nation=short]Naoarn[/nation] - Cody
+[nation=short]MacLeod Industries[/nation] - Stuart
 [nation=short]Law23man[/nation] - Lawrence
+[nation=short]Naoarn[/nation] - Cody
 [nation=short]Infinitise[/nation] - Lucy 
 [nation=short]Skodadia[/nation] - Ryan
 [nation=short]DamnDanail[/nation] - Cyrus

@@ -1,5 +1,4 @@
-The Regional Government
-
+The Regional Government                                                           
 Founder: [nation=short]Trelande[/nation]
 
 Executive Branch:   
@@ -18,7 +17,12 @@ Cabinet:
      Secretary of War: [nation=short]Erijistan[/nation]
 
 [u]Rules of the Road[/u]
-[url=/page=dispatch/id=586306]The Constitution[/url]
+[url=/page=dispatch/id=586306][b]The Constitution[/b][/url]
 
-[url=/page=dispatch/id=586315]Laws of The Nations of Ridgeview[/url]
+[url=/page=dispatch/id=586315][b]Laws of The Nations of Ridgeview[/b][/url]
+
+[spoiler=Fun Facts]Random facts:
+Regional Capital: Janderson
+War Song: &quot;Hello&quot;- Adele
+Regional Anthem: &quot;Bohemian Rhapsody&quot;- Queen[/spoiler]
 
