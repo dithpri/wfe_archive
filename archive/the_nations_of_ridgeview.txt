@@ -16,7 +16,7 @@ Cabinet:
      Secretary of the Interior: [nation=short]Cyrussia[/nation]
      Secretary of War: [nation=short]Erijistan[/nation]
 
-[u]Rules of the Road[/u]
+[u]Laws of the Land[/u]
 [url=/page=dispatch/id=586306][b]The Constitution[/b][/url]
 
 [url=/page=dispatch/id=586315][b]Laws of The Nations of Ridgeview[/b][/url]
@@ -24,5 +24,6 @@ Cabinet:
 [spoiler=Fun Facts]Random facts:
 Regional Capital: Janderson
 War Song: &quot;Hello&quot;- Adele
-Regional Anthem: &quot;Bohemian Rhapsody&quot;- Queen[/spoiler]
+Regional Anthem: &quot;Bohemian Rhapsody&quot;- Queen
+Regional Motto: &quot;With Liberty, There is Prosperity.&quot;[/spoiler]
 

@@ -1,3 +1,6 @@
-[b]The United Regions[/b]
+[b]The United Regions | [i]Secondary holding region[/i][/b]
 
-Main region: [region]United Regions[/region]
+[hr][b]Notice:[/b] 
+&#149; Please redirect to the main region: [b][region]United Regions[/region][/b]
+
+&#149; This region will not accept any embassy requests.

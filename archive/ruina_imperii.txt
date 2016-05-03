@@ -2,12 +2,10 @@ Welcome to Ruina Imperii, here we strive for advancement,
 co-operation, and military prowess.
 -------------------------------------------------------
 [b]Imperial Throne[/b]: [nation]Collectives of Uxhal[/nation] | [nation]Vhass[/nation]
-[b]Adeptus Administratum[/b]: [nation]Kelebrium[/nation]
-[b]Astra Militarum[/b]: [nation]Kelebrium[/nation] | [nation]Delta Lands[/nation]
-[b]Adeptus Ministorum[/b]: [nation]Derac[/nation]
-[b]Adeptus Delegatum[/b]: [nation]Vhass[/nation] | [nation]Lasanfahr[/nation]
-
-[i]Notice above; Leadership, Administration, Military, Inquisition, &amp; Delegation.[/i]
+[b]High Council[/b]: [nation]Kelebrium[/nation]
+[b]Military Command[/b]: [nation]Kelebrium[/nation] | [nation]The Hellfire Assault Legion[/nation]
+[b]Inquisitorial Bastion[/b]: [nation]Derac[/nation]
+[b]Delegation[/b]: [nation]Vhass[/nation] | [nation]Lasanfahr[/nation]
 -------------------------------------------------------
 We are now accepting any members without tryouts or telegrams.
 Embassies between regions will be accepted, but first consult with the Delegate.

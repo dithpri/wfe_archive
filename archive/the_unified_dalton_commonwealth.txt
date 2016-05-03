@@ -1,10 +1,1 @@
-[b][region]The Unified Dalton Commonwealth[/region][/b] has been conquered by [b][u][color=navy]Port Royal[/b][/u][/color]. You are now officially under the authority of Port Royal. You may still have your own government, but you must comply with Port Royal&#39;s laws. This region is officially protected by Port Royal&#39;s Armed Forces Division (PRAFD). 
-_____________________________________________________________________________________________________________________________________________________________________
-
-[b][u][color=navy]Combatants:[/b][/u][/color]
--[nation=short]New Skovia[/nation]
--[nation=short]Bench Warmers[/nation]
--[nation=short]New Antonine[/nation]
-_____________________________________________________________________________________________________________________________________________________________________
-
-If you wish to join our unstoppable army, then come to [b][region]Port Royal[/region][/b].
+[color=navy]The Unified Dalton Alliance![/color]
