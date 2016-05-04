@@ -2,7 +2,7 @@
 [i]&quot;Those who serve under the Shield of the Fatherland are worthy of its protection&quot;.[/i]
 [hr]
 
-[u][B]REGIONAL GOVERNMENT:[/B][/u]
+[u][B][i]REGIONAL GOVERNMENT:[/B][/u][/i]
 
 [b]Minister of Truth:[/b] [nation]Atsuria[/nation]
 [b]Minister of Law:[/b] [nation]DarkKiller[/nation]
