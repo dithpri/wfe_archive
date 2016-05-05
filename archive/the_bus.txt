@@ -1,10 +1,9 @@
-This region is [b]awesome[/b]. Much more awesome than [region]World Awesome[/region]. World Awesome is NOT so awesome as THIS region. :)
 My other regions:
 [list]
 [*]The Space (dead)
 [*]Quack (dead)
 [*]Quacker Region (dead)
-[*]Europea (refounded by me, dead)
+[*][region]Europea[/region] (refounded by me)
 [*]State Awesome (refounded by me, dead)
 [*]Planet Awesome (dead)
 [*]Human Union (refounded by me, dead)

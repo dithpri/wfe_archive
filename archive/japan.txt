@@ -16,6 +16,9 @@ Corporal: [nation=short]Imperial Yugoslavia[/nation]
 Private First Class: [nation=short]The Great Wall of Mexico[/nation]
 Private: [nation=short]Schizoit Paranoia[/nation]
 Private: [nation=short]47 Central[/nation][/color][/b]
+
+[b]Thanks to [region]Grand Central[/region] for providing assistance![/b]
+
 [hr]
 [b][color=#708090]Endorse [nation=short]Great_Nippon_Territory[/nation] or face banjection.[/color][/b]
 

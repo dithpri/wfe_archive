@@ -1,0 +1,14 @@
+[b][i][u][region]The Xas Dominion[/region][/b][/i][/u]
+
+[b]Major Nations:[/b]
+   [nation]Xaslax[/nation]
+
+[b]Minor Nations:[/b]
+[nation]Nexramis[/nation]
+[nation]Muhalshtun[/nation]
+
+[b]Colonies:[/b]
+   Colonies of  [nation]Xaslax[/nation]:[nation=short]Xasvex[/nation],[nation=short]Xasrex[/nation]
+   Colonies of  [nation]Muhalshtun[/nation]:None
+   Colonies of  [nation]Nexramis[/nation]:None
+   
