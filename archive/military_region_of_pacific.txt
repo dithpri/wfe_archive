@@ -1,1 +1,3 @@
- This is the military base for the [region]Sacred Order of Fire[/region]
+[color=blue] This is the military base for the [/color][region]Sacred Order of Fire[/region]
+
+[color=blue] Contact [nation=short]alpha wolf[/nation] if you want to join the military[/color]

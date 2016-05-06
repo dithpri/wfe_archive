@@ -34,6 +34,6 @@ MEMBERS(spelling errors possible):
 30.HairyShaft=Oscar
 31.DontCare=Noah
 32.LandofTime=Nathan
-33.Something=Bob/Chris Jimenez
+33.Something=Bob
 34.Tyinite=tyler sims
 35.Jefe=Val

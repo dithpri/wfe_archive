@@ -1,17 +1,17 @@
 [I] &quot;We are the crystal gems and we&#39;ll always save the day&quot; [/I]
 
 So these are the levels of our region [region] The Crystal gems [/region]
-These are all vacant
 
 
-[Color=Turquoise]Diamond[/color]
 
-[color=pink]Quartz[/color]
+[Color=Turquoise]Diamond[/color] -Vacant
 
-[Color=Green]Peridot[/color]
+[color=pink]Quartz[/color] -Vacant
 
-[Color=Red]Garnet[/Color]
+[Color=Green]Peridot[/color] -Vacant
 
-[color=purple]Amythest[/color]
+[Color=Red]Garnet[/Color] -Vacant
 
-[Color=Blue]Sapphire[/color]
+[color=purple]Amythest[/color] -Vacant
+
+[Color=Blue]Sapphire[/color] -Roses gems
