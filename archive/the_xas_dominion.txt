@@ -2,6 +2,7 @@
 
 [b]Major Nations:[/b]
    [nation]Xaslax[/nation]
+   [nation]Bob42[/nation]
 
 [b]Minor Nations:[/b]
 [nation]Nexramis[/nation]
@@ -9,6 +10,7 @@
 
 [b]Colonies:[/b]
    Colonies of  [nation]Xaslax[/nation]:[nation=short]Xasvex[/nation],[nation=short]Xasrex[/nation]
+   Colonies of  [nation]Bob42[/nation]:None
    Colonies of  [nation]Muhalshtun[/nation]:None
    Colonies of  [nation]Nexramis[/nation]:None
    

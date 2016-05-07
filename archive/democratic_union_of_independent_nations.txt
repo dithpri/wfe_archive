@@ -1,6 +1,6 @@
-[b]Welcome to the[/b] [region]Democratic Union of Independent Nations[/region], or [b] DUIN! [/b]
-
-Our region was founded on May 1, 2016 by [nation=short]Pullum Island[/nation]. We were founded to &quot;promote peace and freedom throughout the globe.&quot; 
+[b]Welcome to the[/b] [region]Democratic Union of Independent Nations[/region], or [b] DUIN! [/b][b][hr][/b]
+Our region was founded on May 1, 2016 by [nation=short]Pullum Island[/nation]. We were founded to [color=blue]&quot;promote peace and freedom throughout the globe.&quot;[/color] 
+[hr]
 
 All of our nations are self-governing and are united here to promote the ideas we were founded on. 
 
@@ -13,6 +13,6 @@ Founder: [nation=short]Pullum Island[/nation]
 WA Delegate: [color=red]Vacant!*[/color]
 Communications Commissioner:[color=red]Vacant!*[/color]
 Diplomatic Commissioner: [color=red]Vacant!*[/color]
-Election and Polls Commissioner:[color=red]Vacant!*[/color]
+Election and Polls Commissioner: [nation=short]Zwazlik Xiquindo[/nation]
 
 *The powers of any vacant position are held by the Founding Nation 

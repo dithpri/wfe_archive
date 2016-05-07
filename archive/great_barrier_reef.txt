@@ -1,6 +1,6 @@
-[i][B][color=Blue]-------------------------------------
-* * * CONGRATULATIONS * * *
--------------------------------------[/color][/B][/i]
+[i][B][color=red]-------------------------------------[/color]
+[color=white]* * *[/color] [color=blue]CONGRATULATIONS[/color] [color=white]* * *[/color]
+[color=red]-------------------------------------[/color][/B][/i]
 
 [B]Your region has been occupied by [i][region]Lone Wolves United[/region][/i][/B].
 
