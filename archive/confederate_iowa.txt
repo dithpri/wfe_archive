@@ -1,9 +1,1 @@
-[b][region]NSEAP[/region] Alliance State of [region]Confederate Iowa[/region] is a Midwestern state. It sits between the Missouri and Mississippi rivers and is known for its landscape of rolling plains and cornfields.
-
-Area:
- - Total	56,272 sq mi 
- - Width	310 miles (500 km)
- - Length	199 miles (320 km)
- - % water	0.71
- - Latitude	40&deg;&amp;#8202;23&amp;#8242; N to 43&deg;&amp;#8202;30&amp;#8242; N
- - Longitude	90&deg;&amp;#8202;8&amp;#8242; W to 96&deg;&amp;#8202;38&amp;#8242; W[/b]
+WIP
