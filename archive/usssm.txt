@@ -7,3 +7,4 @@
 [nation=short]Neu-Ulm[/nation]
 [nation=short]Transemilia[/nation]
 [nation=short]Mansuetus[/nation]
+[nation=short]Zulanka[/nation]

@@ -1,6 +1,6 @@
 The Liberal Alliance of Socialist States is a region where the population have civil rights and political freedoms. We are against far-right regions.
 
-The LASS Council, the administrative body that commands the Liberal Alliance of Socialist States, currently has 75 council members. Each nation has 20 members, plus 5 if they are an officer nation.
+The LASS Council, the administrative body that commands the Liberal Alliance of Socialist States, currently has 100 council members. Each nation has 20 members, plus 5 if they are an officer nation.
 
 Nation-Tobiasia
 Seats-25
@@ -11,4 +11,7 @@ Seats-25
 Nation-Of Liberals United
 Seats-25
 
-All nations must pay towards upkeep of the LASS Army. Military strength currently stands at 25,000 troops.
+Nation-Zaxhae
+Seats-25
+
+All nations must pay towards upkeep of the LASS Army. Military strength currently stands at 50,000 troops.

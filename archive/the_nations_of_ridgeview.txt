@@ -1,29 +1,34 @@
-The Regional Government                                                           
+[color=purple][b]With Liberty There is Prosperity[/b][/color]
+
+[hr]
+
+[b][i]The Regional Government[/i][/b]                                               
 Founder: [nation=short]Trelande[/nation]
 
-Executive Branch:   
+[b]Executive Branch[/b]
     Chancellor: [nation=short]DeLaos[/nation]
     WA Delegate: [nation=short]Aerial Curio[/nation]
     Vice-Chancellor: [nation=short]Arulean[/nation]
 
-Judicial Branch:
-     Head Justice: [nation=short]The Karronian Empire[/nation]
-     Court Justice: [nation=short]Trelande[/nation]
-     Court Justice: [nation=short]Elephant Tortue[/nation]
-
-Cabinet:
+[b]Cabinet[/b]
      Secretary of the State: [nation=short]Transnolvania[/nation]
      Secretary of the Interior: [nation=short]Cyrussia[/nation]
      Secretary of War: [nation=short]Erijistan[/nation]
 
-[u]Laws of the Land[/u]
+[b]Judicial Branch[/b]
+     Head Justice: [nation=short]The Karronian Empire[/nation]
+     Court Justice: [nation=short]Trelande[/nation]
+     Court Justice: [nation=short]Elephant Tortue[/nation]
+
+[hr]
+
+[b]Laws of the Land[/b]
 [url=/page=dispatch/id=586306][b]The Constitution[/b][/url]
 
 [url=/page=dispatch/id=586315][b]Laws of The Nations of Ridgeview[/b][/url]
 
-[spoiler=Fun Facts]Random facts:
+[spoiler=Fun Facts]
 Regional Capital: Janderson
-War Song: &quot;Hello&quot;- Adele
-Regional Anthem: &quot;Bohemian Rhapsody&quot;- Queen
-Regional Motto: &quot;With Liberty, There is Prosperity.&quot;[/spoiler]
+War Song: [i]Hello[/i] - Adele
+Regional Anthem: [i]Bohemian Rhapsody[/i] - Queen[/spoiler]
 
