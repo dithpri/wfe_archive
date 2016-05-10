@@ -7,6 +7,7 @@
 [b]Minor Nations:[/b]
 [nation]Nexramis[/nation]
 [nation]Muhalshtun[/nation]
+[nation]The Islands of Zergstown[/nation]
 
 [b]Colonies:[/b]
    Colonies of  [nation]Xaslax[/nation]:[nation=short]Xasvex[/nation],[nation=short]Xasrex[/nation]
