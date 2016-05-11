@@ -1,5 +1,5 @@
 Do not have to have a religious based nation to join.
-Founder: [nation] The Holy Empire of Vatican United Front
+Founder: [nation] Vatican United Front
 WA Delegate: NA
-Regional President: NA
+Regional President: [nation] The Land of Emperor Trump
 Regional Vice President: NA
