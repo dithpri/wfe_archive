@@ -1,4 +1,4 @@
-Ottawa
+[color=blue][b]Ottawa[/color]
 
-This region is not accepting embassy offers
-Unsolicited embassy offers are being aborted
+[color=green]This region accepted embassy offers[/b]
+This is an [region=Ancient Lands] region[/color]
