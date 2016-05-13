@@ -3,7 +3,10 @@
 [b]Head of State[/b]: [nation=short]German Dragons[/nation]
 [b]Information and Intelligence[/b]: [nation=short]Captain Woodhouse[/nation]
 [b]Military Commander[/b]: [nation=short]GreatNazis[/nation]
-[b]NE Forum Administrator[/b]: [nation=short]The Gregorach[/nation][hr]
+[b]NE Forum Administrator[/b]: [nation=short]The Gregorach[/nation]
+[b]Propaganda Minister[/b]: [nation=short]Neues Nationalsozialistiches Reich[/nation]
+
+[hr]
 
 [b]Knights of [i]The Order of the Death&#39;s Head[/i][/b]: [nation=short]Svarttjern[/nation], [nation=short]Chicken Cutlet[/nation], [nation=short]Scarsaw[/nation], [nation=short]The Poed Metalhedz[/nation][hr]
 

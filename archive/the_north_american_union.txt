@@ -11,4 +11,4 @@ Regent: [nation=short]The Former Confederacy[/nation]
 Premier: 
 Speaker of The Union: [nation=short]The Former Confederacy[/nation]
 Minister of The Union: [nation=short]Regents[/nation]
-Chief Justice:  [/b][/color]
+Chief Justice: [nation=short]Elksland[/nation][/b][/color]

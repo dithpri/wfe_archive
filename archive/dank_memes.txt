@@ -1,10 +1,5 @@
-[b][color=#708090]This region has been assassinated by the champions of [region]HYDRA Command[/region]![/color]
+[color=blue][b]This region is now[/color] [color=green]protected[/color] by [region]Legion of Doom[/region]![/b]
 
-[i][color=darkred]Cut off one head, and two more shall take its place! HAIL HYDRA![/color][/i]
+[b][i][color=red]WE HAVE CAKE FOR ALL[/color][/i][/b]
 
-[color=#DAA520]Troops:[/color]
-[color=#B22222]
-Deputy Director: [nation=short]Tom Vasentius HYDRA[/nation]
-Sergeant: [nation=short]Ranko Kanzaki[/nation]
-Private First Class: [nation=short]The Great Wall of Mexico[/nation][/color][/b]
-[hr]
+
