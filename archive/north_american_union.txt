@@ -1,4 +1,5 @@
-[color=navy][b]Welcome to the North American Union![/b][/color]
-[b][color=crimson]The Home Region of the [nation=short]North American Commonwealth[/nation][/color][/b]
+[color=navy][b]Welcome to the North [/color][color=firebrick]American[/color][color=navy] Union![hr]
 
-The North American Union is an regional organization based on the economic and political union of Canada, Mexico, and the United States. Nations of all various ideals and beliefs are welcomed to join this region. Nations of all types are welcome to join this region.
+[list]&amp;#9734; The North American Union is an regional organization based on the economic and political union of Canada, Mexico, and the United States. [/color]
+
+[color=firebrick]&amp;#9734; Nations of all various ideals and beliefs are welcomed to join this region.[/b][/color][/list]
