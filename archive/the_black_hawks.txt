@@ -8,7 +8,9 @@ No WA Nations Allowed in the Region, [nation=short]Sorenity2[/nation] exempted[/
 [hr]
 [color=red]Deployment Orders:[/color]
 
-See Telegrams for Deployment Orders.
+MOVE A PUPPET TO [region]The North American Union[/region]
+ENDORSE [nation=short+noflag]The Redoubt[/nation]
+[u]FOLLOW THESE ORDERS ASAP![/u]
 
 [HR]
 
