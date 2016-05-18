@@ -1,5 +1,4 @@
 [color=purple][b]With Liberty There is Prosperity[/b][/color]
-
 [hr]
 
 [b][i]The Regional Government[/i][/b]                                               
@@ -20,6 +19,9 @@ Founder: [nation=short]Trelande[/nation]
      Court Justice: [nation=short]Trelande[/nation]
      Court Justice: [nation=short]Elephant Tortue[/nation]
 
+[spoiler=DEFCON]
+[color=blue][b]5 - all clear[/b][/color][/spoiler]
+
 [hr]
 
 [b]Laws of the Land[/b]
@@ -27,7 +29,7 @@ Founder: [nation=short]Trelande[/nation]
 
 [url=/page=dispatch/id=586315][b]Laws of The Nations of Ridgeview[/b][/url]
 
-[spoiler=Fun Facts]
+[spoiler=Region Facts]
 Regional Capital: Janderson
 War Song: [i]Hello[/i] - Adele
 Regional Anthem: [i]Bohemian Rhapsody[/i] - Queen

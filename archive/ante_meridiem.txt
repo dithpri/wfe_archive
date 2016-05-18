@@ -8,11 +8,10 @@
 [nation]Cathernias[/nation]
 
 [b]Current Leading Party:[/b]
-&amp;#9773;[color=red]Communism[/color]&amp;#9773;
+&amp;#9773;[color=red]Communist Party[/color]&amp;#9773;
 
 [color=blue][b]Other government positions:[/color][/b]
 [*][nation]Kreotopia[/nation]
-[*][nation]United Democratic Peoples Islands[/nation]
 [*][nation]Vivianation[/nation]
 
 [color=orange]LAST MAP UPDATE: [/color][i][color=cyan]4/24/16 at 9:58 PM[/color][/i]
