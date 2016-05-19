@@ -6,10 +6,11 @@
 [nation]New Sino-Japan[/nation] [color=red]Marusashi Takafumi[/color]
 [nation]Shrektoberfest[/nation] [color=red]Sean McLoughlin[/color]
 [nation]The Black Claw[/nation] [color=red]Dulcibella Wembley[/color]
+[nation]Islamic State of Africa[/nation] [color=red] Abu Bakir Al-Bagdadi III[/color]
 [color=grey]Others PLACEHOLDERS[/color]
 
 [color=green][b][i][u]Inter-Regional Organizations[/u][/i][/b][/color]
-[color=blue]The Scientific Party[/color] Wilson Hathoway
+[color=blue]The People&#39;s Coalition[/color] Wilson Hathoway
 [color=green]Soviet Labour Party[/color] Sasuke Kahlil
 [color=red]International Socialist Workers Union[/color] Aleksandr Brishnio
 [color=Orange]United Earth Council[/color] Philip Charon
