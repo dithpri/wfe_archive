@@ -1,3 +1,3 @@
-[nation=short+noflag]The United Galactic Empire[/nation] is currently controling more than 221 billion Star Systems an thus the entire Galaxy.
+[b][nation=short+noflag]The United Galactic Empire[/nation][/b] is a monolithic and technologically advanced civilization of a variety of carbon based lifeforms. Although the empire has extremely large defence forces - it is an open-minded civilization.
 
-There are some low profile contacts to the [region]SICON[/region].
+There are some sporadic contacts to the [region]ExoSphere[/region].
