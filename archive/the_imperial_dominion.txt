@@ -3,7 +3,7 @@
 [b][color=darkred]The Imperial Dominion is a monarchist state that is ran militarily for the perseverance and expansion of the Empire. [/color][/b]
 
 [hr][b][u][color=black]:: Imperial Regency ::[/color][/u][/b]
-[b]-| Emperor:[/b] [nation=short]Poltonia[/nation]
-[b]-| Lord Protector:[/b] [nation=short]Romegrad[/nation]
-[b]-| Grand Marshal:[/b] [nation=short]Holy Britannian Empire[/nation]
-[hr][b]&raquo; [color=darkred]Featured Region: March 27, 2015[/color] &laquo;[/b][hr]
+[b]-| [color=darkred]Emperor:[/color][/b] [nation=short]Poltonia[/nation]
+[b]-| [color=darkred]Lord Protector:[/color][/b] [nation=short]Romegrad[/nation]
+[b]-| [color=darkred]Grand Marshal:[/color][/b] [nation=short]Holy Britannian Empire[/nation]
+[hr][b]&raquo; Featured Region: March 27, 2015 &laquo;[/b][hr]
