@@ -1,4 +1,4 @@
-An region for [nation=short]New Republika Srpska[/nation]&amp;#39;s puppet nations.
+An region for [nation=short]New Republika Srpska[/nation]&#39;s puppet nations.
 
 Amount of puppets: 7 (including founder)
 -[nation=short]The Serb[/nation]
@@ -10,5 +10,4 @@ Amount of puppets: 7 (including founder)
 -[nation=short]Whitecrest Kingdom[/nation]
 
 Puppets not in the region:
--[nation=short]Ujundi[/nation] - [region]Westmere[/region]
 -[nation=short]Greater Islamica[/nation] - [region]Peoples Federation of Qandaristan[/region]
