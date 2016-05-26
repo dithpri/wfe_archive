@@ -1,12 +1,13 @@
-A region of nations bound together by a common law.
+[b]DESCRIPTION[/b]
+A region of nations bound together through the combined creation of law and order. Together we utilize diplomacy to solve our problems and we encourage new nations of the region to get involved in regional government and the drafting of legislation.
 
-Founder: [nation]Homo Evolutis[/nation]
+[b]REGIONAL GOVERNMENT[/b]
 
-World Assembly Delegate: Unfilled
+World Assembly Delegate: [nation]Homo Evolutis[/nation]
 
 Vice Delegate: [nation]South Cambodia[/nation]
 
-Secretary of State: [nation]Homo Evolutis[/nation]
+Secretary of State: Unfilled
 
 Secretary of Defense: Unfilled
 

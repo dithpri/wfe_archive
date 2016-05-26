@@ -1,8 +1,6 @@
 [b][u]Welcome to [region]The Second European Empire[/region], home of freedom, potatoes, Dank Memes, and the Kaiserreich government-in-exile. 
 [hr]
-We are currently in summer mode/lockdown due to a recent attack. Check back in soon.
-[hr]
-There is a new Constitution! Take some time to become acquainted with it.
+There is a Constitution! Take some time to become acquainted with it.
 Executive Government:
 
 Founder/Emperor: [nation]Cresenthia[/nation]
@@ -13,7 +11,9 @@ Minister of the Interior: [nation]Belgroth[/nation]/[nation]Belgroth Representat
 
 Minister of Foreign Affairs: [nation]The Datlovian Holy Empire[/nation]
 
-Ministry of Propaganda:[nation]Bismark German empire[/nation]
+Minister of Propaganda:[nation]Bismark German empire[/nation]
+
+Minister of the Army: [nation]Asaclar[/nation]
 [hr]
 [url=http://s15.zetaboards.com/TSEE_Forums/index/]Make an account here on our forums![/url]
 [hr]
