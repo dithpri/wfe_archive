@@ -5,14 +5,8 @@ Regional Anthem:
 
 Founder: [nation]Pocomokey[/nation]
 
-Parliament of Decatur 
-Prime Minister:  [nation]Pocomokey[/nation] [X]
-Minister of Interior &amp; Booty: [nation]the_bootylands[/nation] [X]
-Minister of Foreign Affairs &amp; Souls:[nation]the_lords_of_cinder[/nation] [X]
-Minister of Defense &amp; Unusual Punishment: [nation]trapahania[/nation] [X]
-
 [All Positions Up For Reelection On The First Of Every Month] 
-[Citizens can override the vote of parliament through referenda]
+[Citizens can override the vote of parliament through referendum.]
 
 Definitions: 
 

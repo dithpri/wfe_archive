@@ -1,7 +1,8 @@
-[b][color=red]Welcome to the Russian Empire![/color][/b]
-[b][i][color=navy]The [u]Premier Imperial Russian-themed region[/u] in NationStates![/color][/i][/b]
+[b][color=fire]WELCOME TO THE RUSSIAN EMPIRE![/color][/b]
+[hr][b][i][color=navy]The premier Imperial Russian-themed region in NationStates![/color][/i][/b]
 
-[hr][color=purple][b]Stretching from the east of Europe to the northwestern coast of North America, the Russian Empire is one of the largest empires in human history. Ruled by tsars for centuries, it became a great power under Peter the Great, who paved the way for Russian dominance in Eurasia. [/b] [/color]
+[color=darkred][b]Stretching from the east of Europe to the northwestern coast of North America, the Russian Empire was one of the largest empires in human history. Ruled by tsars for centuries, it became a great power under Peter the Great, who paved the way for Russian dominance in Eurasia. [/b] [/color]
 [hr][u][b]The Imperial Regency[/b][/u]
-[b][color=navy]The Monarch:[/color][/b] Tsar Nicholas III of [nation]Novgorad[/nation]
-[hr][u][b]Territories:[/b][/u] [region]Muscovy[/region] | [region]Grand Principality of Muscovy[/region] | [region]The Tsardom of Russia[/region] | [region]Imperial Russia[/region][hr]
+[list][b]&#149; [color=navy]Tsar of All Russia:[/color][/b] Nicholas III of [nation=short]Novgorad[/nation][/list]
+[hr][u][b]Territories:[/b][/u] 
+[list][b][region]Muscovy[/region] | [region]Grand Principality of Muscovy[/region] | [region]The Tsardom of Russia[/region] | [region]Imperial Russia[/region][/b][/list]

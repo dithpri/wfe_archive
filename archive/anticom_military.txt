@@ -4,6 +4,6 @@
 [list]Army General - [/b][nation=short]Patvarus[/nation]
 [b]Navy Admiral - [/b][nation=short]Pyrosky[/nation]
 [b]Navy Vice Admiral - [/b][nation=short]Order of Hospitallers[/nation]
-[b]Air Force General - [/b][nation=short]Nordrlond[/nation]
+[b]Air Force General - [/b][nation=short]Plugo[/nation]
 [b]Air Force Lieutenant General - [/b][nation=short]Forestavia[/nation]
 [/list]
