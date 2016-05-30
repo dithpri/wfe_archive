@@ -15,7 +15,7 @@ Founder: [nation=short]Trelande[/nation]
      Secretary of War: [nation=short]Erijistan[/nation]
 
 [b]Judicial Branch[/b]
-     Head Justice: [nation=short]The Karronian Empire[/nation]
+     Head Justice: [i]none[/i]
      Court Justice: [nation=short]Trelande[/nation]
      Court Justice: [nation=short]Elephant Tortue[/nation]
 

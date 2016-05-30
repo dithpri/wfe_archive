@@ -5,9 +5,9 @@ Welcome to [b]Sirius[/b], the administrative center of the [b][i]United Empire o
 [hr]
 
 [b]Sirius High Triumvirate[/b][list]
-[*][nation=archipelago of stuff]
 [*][nation=silvaenia]
-[*][nation=ancalador][/list]
+[*][nation=ancalador]
+[*][color=red]Open Position[/color] (previously archipelago of stuff)[/list]
 
 [hr]
 
