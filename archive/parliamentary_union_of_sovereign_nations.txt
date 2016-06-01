@@ -5,12 +5,12 @@ Welcome to the [region]Parliamentary Union of Sovereign Nations[/region]! We off
 
 [color=red]Executive[/color]
 
-[color=red]Founder:[/color]TBE
+[color=red]Founder:[/color][nation=short]Nassau-Windsor[/nation]
 [color=red]President:[/color][nation=short]Libertarian Democracy[/nation]
 [color=red]Prime Minister:[/color][nation=short]Abdoa[/nation]
 
-[color=orange]MoD:[/color][nation=short]nassau-windsor[/nation]
-[color=orange]MoJ:[/color][nation=short]mareut[/nation]
+[color=orange]MoD:[/color]TBA
+[color=orange]MoJ:[/color]TBA
 [color=orange]MoW:[/color][nation=short]The North Region of Westeros[/nation]
 [color=orange]MoC:[/color][nation=short]junastria[/nation]
 [hr]

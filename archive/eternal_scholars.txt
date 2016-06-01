@@ -12,6 +12,7 @@
 
 [nation=short]Wiking Nordland[/nation]
 
-[nation=short]Neues Nationalsozialistiches Reich[/nation]
+[nation=short]Neues Nationalsozialistiches Reich[/nation][hr]
 
+[b]Support provided by [region]The Union of National Socialists[/region] and [region]The New World Fascist Alliance[/region][/b]
 

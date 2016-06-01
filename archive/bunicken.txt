@@ -7,6 +7,6 @@
 [hr]
 [b]Military Orders:[/b]
 
-[i]All military officials move your nation to the Wehrmacht of the Bunicken Reich until further notice. 
+[i]All Military Personell move to [region]wehrmacht_of_the_bunicken_reich[/region]
 
-THIS IS NOT A DRILL!
+THIS IS NOT A DRILL![/i]
