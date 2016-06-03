@@ -1,7 +1,7 @@
-[color=blue]
+[color=crimson]
 [b]Welcome to the SAMOHI Union![/b][/color]
 
-[color=goldenrod][u]News[/u][/color]
+[color=crimson][u]News[/u][/color]
 
-[list][*][color=blue]Beloved Leader has taken his rightful place as leader! The peasants may call him Betutia, but Beloved Leader is true and righteous and will lead a New World Order! Long live Beloved Leader!
-[*]A new constitution will be added[/color]
+[color=gold][list][*]Beloved Leader has taken his rightful place as leader! The proles may call him [nation]Betiutia[/nation], but Beloved Leader is true and righteous and will lead a New World Order! Long live Beloved Leader!
+[*]The constitution is being written as we speak! Please join us as we write the greatest constitution NationStates has ever seen![/color]
