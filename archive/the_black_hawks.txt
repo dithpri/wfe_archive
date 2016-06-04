@@ -8,8 +8,9 @@ No WA Nations Allowed in the Region, [nation=short]Sorenity2[/nation] exempted[/
 [hr]
 [color=red]Deployment Orders:[/color]
 
-MOVE A PUPPET TO [region]The North American Union[/region]
-ENDORSE [nation=short+noflag]The Redoubt[/nation]
+MOVE A PUPPET TO [region]The United Federation of Planets[/region]
+ENDORSE [nation=short+noflag]Trosettimeenirraa[/nation]
+Inform the delegate via a telegram that you represent The Black Hawks.
 [u]FOLLOW THESE ORDERS ASAP![/u]
 
 [HR]
