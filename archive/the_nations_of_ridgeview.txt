@@ -5,9 +5,8 @@
 Founder: [nation=short]Trelande[/nation]
 
 [b]Executive Branch[/b]
-    Chancellor: [nation=short]DeLaos[/nation]
-    WA Delegate: [nation=short]Aerial Curio[/nation]
-    Vice-Chancellor: [nation=short]Arulean[/nation]
+    WA Delegate: [nation=short]New Sarskov[/nation]
+    Vice-Delegate: [i]none[/i]
 
 [b]Cabinet[/b]
      Secretary of the State: [nation=short]Transnolvania[/nation]

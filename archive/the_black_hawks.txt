@@ -8,10 +8,7 @@ No WA Nations Allowed in the Region, [nation=short]Sorenity2[/nation] exempted[/
 [hr]
 [color=red]Deployment Orders:[/color]
 
-MOVE A PUPPET TO [region]The United Federation of Planets[/region]
-ENDORSE [nation=short+noflag]Trosettimeenirraa[/nation]
-Inform the delegate via a telegram that you represent The Black Hawks.
-[u]FOLLOW THESE ORDERS ASAP![/u]
+Belay the last order, stand by for next orders.
 
 [HR]
 
