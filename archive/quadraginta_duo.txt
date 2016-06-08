@@ -1,6 +1,8 @@
 42
 XLII
 2*3*7
-101010
+0b101010
+0o52
+0h2A
 sqrt(1764)
 the answer to life, the universe and everything

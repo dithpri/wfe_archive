@@ -1,13 +1,1 @@
-[region=The Northwest Pacific][colour=white]---------------[/colour][region=The North Pacific][colour=white]----------------[/colour][region=The Northeast Pacific]
-
-[colour=white]-
--
--[/colour]
-
-[region=The West Pacific][colour=white]-----------------------[/colour][region=The Pacific][colour=white]---------------------------[/colour][region=The East Pacific]
-
-[colour=white]-
--
--[/colour]
-
-[region=The Southwest Pacific][colour=white]---------------[/colour][region=The South Pacific][colour=white]----------------[/colour][region=The Southeast Pacific]
+N/A

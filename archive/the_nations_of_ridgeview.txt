@@ -6,7 +6,7 @@ Founder: [nation=short]Trelande[/nation]
 
 [b]Executive Branch[/b]
     WA Delegate: [nation=short]New Sarskov[/nation]
-    Vice-Delegate: [i]none[/i]
+    Vice-Delegate: [nation=short]Scovanotia[/nation]
 
 [b]Cabinet[/b]
      Secretary of the State: [nation=short]Transnolvania[/nation]

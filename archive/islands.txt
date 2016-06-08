@@ -12,7 +12,7 @@
 PREMIER: [nation=short]Yekateria and Farlandia[/nation][/i]
 [i]VICE PREMIER: [nation=short]Yekateria[/nation][/i]
 [i]CHANCELLOR: [nation=short]Cynave[/nation][/i]
-[i]WA DELEGATE:[color=Red][b]RANK PROHIBITED[/b][/color][/i]
+[i]WA DELEGATE:[color=Red][b]ELECTION IN PROGRESS[/b][/color][/i]
 [i]COMMUNISYKA:[nation=short]None[/nation][/i]
 
 [i]SPEAKER:[nation=short]Arstotzka Communist[/nation] [/i]

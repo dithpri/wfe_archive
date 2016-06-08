@@ -14,5 +14,6 @@ General: [nation=short]Queen Yuno[/nation][/color]
 [hr]
  
 [color=Grey]Order of the Day:[/color] Support [region]HYDRA Command[/region]: Move to [region]The Place That Has No Big Banks[/region] and endorse [nation=short]Summer-Rose[/nation].
- 
-[hr][/b]
+[hr]
+[color=Grey]Alternate Order of the Day:[/color] Support [region]Lone Wolves United[/region]: Move to [region]Korovia[/region] and endorse [nation=short]Amyrtaeus[/nation].
+[/b][hr]
