@@ -1,12 +1,19 @@
 Welcome to the [b]Pacific Empire[/b]!
-Current Population: [b]70[/b]
+Current Population: [b]71[/b]
 
 [b] [i] Nations are encouraged to share their suggestions on regional affairs via RMB or by telegram.[/b] [/i]
 
 [u] EXECUTIVE CABINET[/u]
 [b]Office of Foreign Affairs[/b]
 [b]Office of Recruitment[/b]
-[b]Office of Homeland Security[/b] [nation]Wachoviana[/nation], [i]Acting Director[/i]
+[b]Department of Homeland Security[/b] [nation]Wachoviana[/nation], [i]Acting Director[/i]
 
-[i]Specific role-definitions for cabinet positions are posted under dispatches - &quot;Cabinet Positions&quot;[/i]
+[u]JUDICIAL DIVISION[/U]
+[b]Chief Justice[/b]
+[b]Associate Justices (3)[/b]
 
+[u]LEGISLATIVE DIVISION[/u]
+As it currently stands, all nations within the region may submit/propose legislation.
+Proposed legislation is voted upon by the general populace, and then signed into law or veto&#39;d by the executives.
+
+[b][i] Check out the dispatch (pinned to the region) focusing on the executive, judicial and legislative divisions of regional government [/b][/i]
