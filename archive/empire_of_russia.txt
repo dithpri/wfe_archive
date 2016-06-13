@@ -4,8 +4,6 @@
 [hr]
 [u]The [color=#BC9A43]Imperial[/color] Leadership:[/u]
 [list][*]Tsar of Russia: [nation=short]Petar I[/nation]
-[*]Tsesarevich: [nation=short]Aleksander Luchsinth[/nation]
-[*]Tsarevna Imperial: [nation=short]Professional_Cat[/nation]
 [*]Tsarevna of Greater Ukraine: [nation=short]Jerin_Vovk[/nation]
 [*]Prime Minister: [nation=short]Nuvugurud[/nation] [/list]
 [hr]
