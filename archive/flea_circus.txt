@@ -14,4 +14,4 @@ Paladin-Praeceptor [nation=short+noflag]Khronion Denral[/nation] (Point)[/color]
 Corporal [nation=short+noflag]Pracinha[/nation]
 Cadet [nation=short+noflag]Whovianis[/nation][/color]
 
-[b]FLEAS SQUASHED: 1[/b]
+[b]FLEAS SQUASHED: 9[/b]
