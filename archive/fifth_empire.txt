@@ -5,10 +5,14 @@
 
 [u][B][i]REGIONAL GOVERNMENT:[/B][/u][/i]
 
-[b]Minister of Truth:[/b] [nation]Atsuria[/nation]
+[b][i]Imperador de Quinto Imp&eacute;rio[/b][/i]:[nation]P0RTVGAL[/nation]
+[b]Minister of [i]Truth/Supreme Minister[/i]:[/b] [nation]Atsuria[/nation]
+[b]Minister of Ideological History/Manus Imperialis[/b] [nation]brekekk[/nation]
+[b]Minister of Foreign affairs[/b] [nation]Xozanero[/nation]
 [b]Minister of Law:[/b] [nation]DarkKiller[/nation]
 [b]Minister of Economy:[/b] [nation]Brasir[/nation]
-[b]Minister of Potatoes: [/b] [nation]Sentar[/nation]
+[b]Minister of Improvement[/b] *open*
+
 
 
 
