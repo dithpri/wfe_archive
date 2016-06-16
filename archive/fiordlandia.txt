@@ -1,1 +1,5 @@
 [b][color=darkblue]Welcome to[/color] [color=lightblue]Fiordlandia[/color][color=darkblue], land of 523.7 trillion fiords![/color][/b]
+[hr]
+[b][color=darkblue]Foreign Representation of [nation=short]Fiordlandia[/nation] currently stationed abroad:[/b]
+[nation=short]Fiordlandia II[/nation] in [region]Mystical Council[/region]
+[nation=short]Fiordlandia V[/nation] in [region]Gay[/region][/color]
