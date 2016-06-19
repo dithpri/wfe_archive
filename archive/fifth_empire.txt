@@ -5,12 +5,13 @@
 
 [u][B][i]REGIONAL GOVERNMENT:[/B][/u][/i]
 
-[b][i]Imperador de Quinto Imp&eacute;rio[/b][/i]:[nation]P0RTVGAL[/nation]
+[b][i]Imperador do Quinto Imp&eacute;rio[/b][/i]: [nation]P0RTVGAL[/nation]
 [b]Minister of [i]Truth/Supreme Minister[/i]:[/b] [nation]Atsuria[/nation]
-[b]Minister of Ideological History/Manus Imperialis[/b] [nation]brekekk[/nation]
-[b]Minister of Foreign affairs[/b] [nation]Xozanero[/nation]
+[b]Minister of Ideological History/Manus Imperialis:[/b] [nation]Brekekk[/nation]
+[b]Pontifex Maximus: [/b][nation]Haritopia[/nation]
 [b]Minister of Law:[/b] [nation]DarkKiller[/nation]
 [b]Minister of Economy:[/b] [nation]Brasir[/nation]
+[b]Minister of Foreign affairs:[/b] [nation]Xozanero[/nation]
 [b]Minister of Improvement[/b] *open*
 
 

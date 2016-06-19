@@ -1,0 +1,5 @@
+[color=orange][i]Welcome to [region]House Sanguine[/region], the regional headquarters of the Noble House of Sanguine. This region serves as a placeholder for the Sanguines.[/i][/color]
+
+[b]Lord Patriarch:[/b] The Rt. Hon. [nation=short+noflag]Syrixia[/nation] 
+[b]Heir Apparent:[/b] [nation=short+noflag]Gradea Sanguine[/nation]
+
