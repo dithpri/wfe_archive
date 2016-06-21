@@ -13,5 +13,5 @@ General: [nation=short]Queen Yuno[/nation][/color]
  
 [hr]
  
-[color=Grey]Order of the Day:[/color] Move to [region]Peuce Island[/region] and endorse [nation=short]Cheezkek[/nation].
+[b][color=Grey]Order of the Day:[/color][/b] [b]Support [region]The Kingdom Of Great Britain[/region]: Move to [region]Ireland[/region] and endorse [nation=short]Irish legionairre[/nation].[/b]
 [hr]
