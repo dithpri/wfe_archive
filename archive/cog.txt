@@ -8,3 +8,8 @@ Economy: Capitalism (allows all economy types)
 Government: Democracy 
 Religion: Secularism (all religions allowed!)
 Current Capital: Overcastia
+-------diplomacy-----------
+Allies: Sword
+Neutral: all embassy regions
+Enemies: none as of yet
+Rivals: none
