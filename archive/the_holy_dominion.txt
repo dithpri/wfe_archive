@@ -1,9 +1,10 @@
-[b][color=blue]Welcome to the Holy Dominion, all may join us.
+[b]Welcome to the Holy Dominion, all may join us.
 
-Emperor:[/b] [nation]Poltonia[/nation][/color]
-[color=purple][b]Lord Protector:[/b] [nation]The Holy Dominion Federation[/nation][/color]
+[u]:: The Holy Regency ::[/u]
+-| [color=darkred]Emperor:[/b] [nation]Poltonia[/nation][/color]
+[b]-| [color=darkred]Lord Protector:[/b] [nation=short]The Holy Dominion Federation[/nation][/color]
 
-[color=blue][b]Government:[/b] Constitutional Monarchy[/color]
+[b]Government:[/b] Constitutional Monarchy
 
 [b]Forum:[/b] [url=http://w11.zetaboards.com/The_Holy_Dominion/index/]http://w11.zetaboards.com/The_Holy_Dominion/index/[/url]
 

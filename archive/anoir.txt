@@ -1,6 +1,11 @@
 All for Anoir!
 
-High Prince: Prince Eren of Anoir
+High Prince: Prince Eren of [nation=Anoir]
 
+High Chancellor: The Great Freck of [nation=Tovenn]
+
+Office of Communications: The Senate of [nation=De Vaux]
+
+War Minister: ??? of [nation=Iron Province]
  
 

@@ -1,1 +1,8 @@
-[region]true north[/region]
+[color=blue]Welcome to blue[/color]
+
+[color=00ccff]&yen;[/color][color=red][u]Blue is the colour between violet and green on the optical spectrum of visible light. Human eyes perceive blue when observing light with a wavelength between 450 and 495 nanometres. Blues with a higher frequency and thus a shorter wavelength gradually look more violet, while those with a lower frequency and a longer wavelength gradually appear more green. Pure blue, in the middle, has a wavelength of 470 nanometres[/u][/color][color=00ccff]&yen;[/color] 
+
+[b]&#149;the colour of the Sky and Sea&#149;[/b]
+[b]&#149;No Recruiting Allowed&#149;[/b]
+
+[b]All Embassies with [color=ff33ff]&reg;[/color][region]true north territory[/region][color=ff33ff]&reg;[/color] are Territories of [region]True North[/region][/b]
