@@ -13,7 +13,7 @@
 [nation]Greater Slavic Union[/nation] ([b][color=red]M[/color][color=yellow]P[/color][/b])
 
 [url=https://www.nationstates.net/page=dispatch/id=566386][b][color=darkblue]Minister of Affairs[/color]:[/b][/url]
-[nation]AlenShire[/nation] ([b][color=green]IP[/color][/b])
+[b]Open[/b]
 
 [url=https://www.nationstates.net/page=dispatch/id=566388][b][color=red]Minister of Defense[/color]:[/b][/url]
 [nation]True North America[/nation] ([b][color=green]IP[/color][/b])
@@ -25,7 +25,7 @@
 [nation]Great Meridian Empire[/nation] ([b][color=green]IP[/color][/b])
 
 [url=https://www.nationstates.net/page=dispatch/id=566399][b][color=darkblue]Minister of Justice[/color]:[/b][/url]
-[nation]Boscon[/nation] ([b][color=purple]NP[/color][/b])
+[nation]AlenShire[/nation] ([b][color=green]IP[/color][/b])
 [hr][b]Please show your support by endorsing our WA Delegate, [nation]Lavochkin[/nation].[/b]
 
 [i]The current endorsement cap is[/i]: [u][b][color=red]1[/color][/b][/u]

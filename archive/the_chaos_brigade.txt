@@ -9,9 +9,9 @@
 [color=grey]The High Command:[/color]
 [color=darkgreen]Field Marshal: [nation=short]New Imperial Switzerland[/nation]
 General: [nation=short]Brihimia[/nation]
-General: [nation=short]Queen Yuno[/nation][/color]
+General: [nation=short]Chaotic Yuno[/nation][/color]
  
 [hr]
  
-[color=Grey]Order of the Day:[/color] Wait For Further Orders[/b]
+[color=Grey]Order of the Day:[/color] [color=darkgreen]Create 10 puppet nations[/color] and move them to [region]I Wish[/region].[/b]
 [hr]
