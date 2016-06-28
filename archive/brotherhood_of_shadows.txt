@@ -1,12 +1,14 @@
-[b][color=indigo]This region has been invaded by [/color][/b][i][b][color=green][region]Belaus[/region][/color][/b][/i][b][color=indigo], the planetary empire of Nationstates![/b][/color]
+[i][color=grey]The Wardens look across the battlefield as the wavering Darkspawn return to their holes beneath the surface.[/color][/i]
 
-[b][color=indigo]Join us in the conquest of Nationstates!!![/color][/b]
+The in-fighting of the Darkspawn horde has been interrupted by the steel of [region=The Order of the Grey Wardens]. As a result, all Darkspawn of this region have been slain.
 
-[b]Soilders in Battle:[/b]
-[nation]Yastland[/nation]
-[nation]Soten[/nation]
-[nation]Shadowdraconis[/nation]
-[nation]The Strangers[/nation]
-[nation]The Silver Knights of Aquaraiz[/nation]
 
-[b][i]It was a dark night in the caves of the brotherhood. Few loyal members remained. That night, Belaus military forces moved in. The caves were blown up and the remaining members executed. Justice has been done[/i][/b]
+The following brave souls have been coated with Darkspawn blood this day:
+
+
+[b]First Warden[/b] [nation=short]Benevolent Thomas[/nation]
+
+[b]Constable of the Grey[/b] [nation=short]Applebania[/nation]
+
+[b]Warden[/b] [nation=short]Olevsky[/nation]
+

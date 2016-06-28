@@ -1,8 +1,11 @@
-[b][color=indigo]This region has been taken over by [/color][/b][i][b][color=green][region]Belaus[/region][/color][/b][/i][b][color=indigo], the planetary empire of Nationstates![/b][/color]
+[b][color=#708090]This region has been assassinated by the champions of [region]HYDRA Command[/region]![/color]
 
-[b][color=indigo]Join us in the conquest of Nationstates![/color][/b]
+[i][color=darkred]Cut off one head, and two more shall take its place! HAIL HYDRA![/color][/i]
 
-[b]Soilders in Battle:[/b]
-[nation]Shadowdraconis[/nation]
-[nation]Yastland[/nation]
-[nation]Soten[/nation]
+[color=#DAA520]Troops:[/color]
+[color=#B22222]
+Lieutenant: [nation=short]Yuno HYDRA[/nation]
+Sergeant: [nation=short]Panzer Vier[/nation]
+Corporal: [nation=short]Thorn1000[/nation]
+TCB Private First Class: [nation=short]Bochka 1[/nation][/color][/b]
+[hr]

@@ -1,10 +1,14 @@
-[color=blue][b]Welcome to World History![/color][/b] [color=red][b](Est. June 27, 2016)[/b][/color] [hr]
+[color=blue][b]Welcome to World History![/color][/b] [b](Est. June 27, 2016)[/b] [hr]
 
-[b]Role-play:
+[color=green][b][u]Important Links[/u][/b][/color]
+
+[url=http://s15.zetaboards.com/World_History/index/][color=orange]Forum[/color][/url][hr]
+
+[color=red][b][u]Role-play[/u][/color]
 
 Year: ?[/b][hr]
 
-[b][color=purple]Regional Government:[/b][/color]
+[b][color=purple][u]Regional Government[/b][/color][/u]
 
 [color=blue][b]Prime Minister:[/color][/b]
 
@@ -16,17 +20,21 @@ Year: ?[/b][hr]
 
 [color=pink][b]Minister of Domestic Affairs:[/color][/b]
 
-[color=darkgreen][b]Minister of Immigration and Customs[/color][/b]
+[color=aqua][b]Minister of Immigration and Customs:[/color][/b]
 
-[color=yellow][b]Minister of Finance[/color][/b][hr]
+[color=yellow][b]Minister of Finance:[/color][/b][hr]
 
 
-[color=green][b]Coming Soon![/color][/b]
+[color=orange][b][u]Coming Soon![/color][/b][/u]
 
 
 [color=purple]Map
 
-Role-play
+Role-play[/color][hr]
 
-Forum[/color]
+[b][u]Emergency Level[/b][/u]
+
+[color=red]High[/color]
+[color=orange]Medium[/color]
+[color=green][b]Low[/color][/b]
 
