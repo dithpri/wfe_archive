@@ -1,3 +1,3 @@
-[b][color=navy]Welcome to the British Empire![/color] | [i][color=fire]Pax Britannica[/color][/i][/b]
-
-[hr][b]Sovereign: [nation=short]The Imperial British Empire[/nation][/b]
+[b][color=fire]Welcome to the British Empire![/color] | [i][color=navy]Pax Britannica[/color][/i][/b]
+[hr][b]Sovereign:[/b] Queen Elizabeth II of [b][nation=short]Great Britain and Northern Ireland[/nation][/b]
+[b]Lord Protector: [nation=short]The Imperial British Empire[/nation][/b]
