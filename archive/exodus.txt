@@ -15,3 +15,5 @@ Farlandiay - 500
 
 High Chancellor: [nation=short]Farlandiay[/nation]
 Vice Chancellor: [nation=short]Kawaii Village[/nation]
+Minister of Defense - [nation=short]TehShwinster[/nation]
+Minister of International Relations - [nation=short]Cyzzan[/nation]

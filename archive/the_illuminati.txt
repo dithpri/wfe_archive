@@ -22,7 +22,7 @@
 [color=chocolate]Do.[/color]
 [color=darkgoldenrod]MUNDUS VUIT DECIPI[/color][/list]
 
-[spoiler=Law]
+[spoiler=Law]LAW
 Border: [color=grey]FREE[/color]
 Banlist: [color=grey]EMPTY[/color]
 Regulations: [color=grey]NONE[/color]
@@ -31,7 +31,7 @@ Requests: [color=grey]ACCEPTED[/color]
 RMB: [color=grey]OPEN[/color] [color=mediumorchid](all nations in embassy regions)[/color]
 [/spoiler]
 
-[spoiler=Links]
+[spoiler=Links]LINKS
 Archives: [url=https://www.nationstates.net/page=archive]NSArchives[/url] [url=http://udl.taijitu.org/images/rflags/]Region Flags[/url] [url=http://udl.taijitu.org/wfe_index/]WFE Index[/url]
 Calculators: [url=http://nseconomy.thirdgeek.com/]NSEconomy[/url] [url=http://nsdossier.texasregion.net/]NSSuite[/url] [url=http://www.nstrackers.net/]NSTracker[/url]
 Generators: [url=http://www.seventhsanctum.com/generate.php?Genname=government]Class[/url] [url=http://www.allfamilycrests.com/makecoatofarms.htm]Coat of Arms[/url] [url=http://flag-designer.appspot.com/]Flag[/url] [url=http://www.inrebus.com/latinmottogenerator.php]Motto[/url] [url=http://www.fileformat.info/convert/image/svg2raster.htm]SVG Converter[/url]
