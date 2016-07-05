@@ -1,8 +1,14 @@
-[b] The Golden Covenant [/b] is a little region for peaceful nations.
-It is a private region and you must require a password to enter [b] The Golden Covenant [/b].
+[region]The Golden Covenant[/region] is a little region for peaceful nations.
+It is a [b]private region[/b] and you must require a [b][color=red]password[/color][/b] to enter.
                          
 [u] Founder nation of the region: [/u]
-- [i] The Most Serene Republic of Zoonland [/i]
+- [i] [color=green]The Most Serene Republic of Zoonland[/color] [/i]
 
 [u] Vice-Delegate nation : [/u]
-- [i] The Principalities of Scaligera [/i]
+- [i] [color=yellow]The Principalities of Scaligera[/color] [/i]
+
+[u] Homeland Officer nation : [/u]
+- [i] [color=blue]The Commonwealth of Arctic and Antarctica[/color] [/i]
+
+[u] Security Officer nation : [/u]
+- [i] [color=red]The Dictatorship of Diktaturstan[/color] [/i]

@@ -1,6 +1,10 @@
 Welcome to the region of [region]Southwest Schenectady[/region].
 
-Southwest Schenectady is currently accepting nations of all kinds. 
-Move your nation to Southwest Schenectady. 
+[region]Southwest Schenectady[/region] is currently accepting nations of all kinds. 
+Move your nation to [region]Southwest Schenectady[/region].
 
-Regional map can be found within the world factbook at [nation]Lotuslo[/nation].
+
+[region]Southwest Schenectady[/region] is currently holding a Presidential Election.
+Candidates are:
+-[nation]Arcturin[/nation]
+-[nation]The Floating Country of Aincrad[/nation]
