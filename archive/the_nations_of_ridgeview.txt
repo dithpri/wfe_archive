@@ -2,7 +2,7 @@
 [hr]
 
 [b][i]The Regional Government[/i][/b]                                               
-Founder: [nation=short]Trelande[/nation]
+Founder: [nation=short]Trelande[/nation] [b](EXPELLED)[/b]
 
 [b]Executive Branch[/b]
     WA Delegate: [nation=short]New Sarskov[/nation]

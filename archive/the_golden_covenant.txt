@@ -12,3 +12,6 @@ It is a [b]private region[/b] and you must require a [b][color=red]password[/col
 
 [u] Security Officer nation : [/u]
 - [i] [color=red]The Dictatorship of Diktaturstan[/color] [/i]
+
+[u] Communication Officer nation : [/u]
+- [i] [color=orange]The Kingdom of Canadafrica[/color] [/i]

@@ -1,1 +1,7 @@
-m
+Throdia is a democratic region where all officers are elected. When nations have a proposal they should hand it to the appropriate officer. The officer may then decide to enact or reject the proposal, they must publish this decision a week before enacting it. This decision can be challenged:
+
+1) You challenge a decision by giving one or more proposals of your own.
+2) Others can add their own proposals.
+3) After a week everyone votes (3 days), rejection of all proposals is also a valid vote. The winning proposal is enacted or all are rejected depending on the outcome.
+
+Each officer has a veto-right, which in turn can be vetoed by a number of officers greater than those who veto. Veto-rights can be stripped when used frivolously.
