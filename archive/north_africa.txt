@@ -8,7 +8,7 @@ Executive[/b][list]
 [*]Delegate: [nation]Yoh-en-Boeit[/nation][/list]
 
 [b]Parliamentary[/b][list]
-[*]Minister of Defence: Open
+[*]Minister of Defence: [nation]Swaithlying[/nation]
 [*]Minister of Mediation: Open
 [*]Minister of Foreign Affairs: Open
 [*]Minister of Economics: [nation]A New Liberia[/nation][/list]
