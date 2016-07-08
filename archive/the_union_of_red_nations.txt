@@ -1,8 +1,11 @@
-[color=red][B]The Union of Red Nations[/B][/color]
+[b]This region has been stormed by the armies of [region]Kaiserreich[/region] and [region]The Mystical Council[/region].
 
-[B]General Secretary: [/B][Nation]Soviet Ruk-Tsan[/Nation]
-[B]Premier: [/B][Nation]Dakran[/Nation]
-[B]Head of Internal Affairs: [/B][nation]Nova Populum[/nation]
-[B]Head of Diplomacy: [/B][Nation]Barunia[/Nation]
-[B]Head of Armed Forces: [/B] -
-[B]Head of Recruitment: [/B] -
+The following soldiers led the charge:[/b]
+
+[nation=short]Asteroid Colony GJ-042[/nation]
+[nation=short]Blutmark[/nation]
+[nation=short]Deth Mortuum[/nation]
+[nation=short]Exotic Lemon[/nation]
+[nation=short]Rrepaimziaraseh[/nation]
+[nation=short]The Holy Revolutionary Empire[/nation]
+[nation=short]Verborgenen Herrn[/nation]

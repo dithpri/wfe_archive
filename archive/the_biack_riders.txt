@@ -1,1 +1,15 @@
-huzzah, we gonna raid ur regions to death
+huzzah, we raided ur region to death
+
+[hr]
+
+[i][color=grey]The Wardens look across the battlefield as the wavering Darkspawn return to their holes beneath the surface.[/color][/i]
+
+[B][color=navy]This hive of Darkspawn has been cleansed by the steel of [region]The Order of the Grey Wardens[/region]. As a result, all Darkspawn of this region have been slain.
+
+The following brave souls have been coated with Darkspawn blood this day:[/color][/B]
+
+Warden-Commander: [nation=short]Tim-Opolis[/nation]
+
+Warden-Constable: [nation=short]Altmoras[/nation]
+
+Warden: [nation=short]Olevsky[/nation]
