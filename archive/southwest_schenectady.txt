@@ -4,7 +4,3 @@ Welcome to the region of [region]Southwest Schenectady[/region].
 Move your nation to [region]Southwest Schenectady[/region].
 
 
-[region]Southwest Schenectady[/region] is currently holding a Presidential Election.
-Candidates are:
--[nation]Arcturin[/nation]
--[nation]The Floating Country of Aincrad[/nation]

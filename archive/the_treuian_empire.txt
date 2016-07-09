@@ -1,4 +1,4 @@
-[b]This region has been stormed by the armies of [region]Kaiserreich[/region] and [region]The Mystical Council[/region].
+[b]This region was attacked by the armies of [region]Kaiserreich[/region] and [region]The Mystical Council[/region].
 
 The following soldiers led the charge:[/b]
 
@@ -9,3 +9,5 @@ The following soldiers led the charge:[/b]
 [nation=short]Rrepaimziaraseh[/nation]
 [nation=short]The Holy Revolutionary Empire[/nation]
 [nation=short]Verborgenen Herrn[/nation]
+
+These are on the Regional War Watch List.
