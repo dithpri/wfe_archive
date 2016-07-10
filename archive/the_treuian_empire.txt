@@ -1,6 +1,6 @@
-[b]This region was attacked by the armies of [region]Kaiserreich[/region] and [region]The Mystical Council[/region].
+[b]The Treuian Empire was attacked by [region]Kaiserreich[/region] and [region]The Mystical Council[/region].
 
-The following soldiers led the charge:[/b]
+The following nations are enemies of the region:[/b]
 
 [nation=short]Asteroid Colony GJ-042[/nation]
 [nation=short]Blutmark[/nation]

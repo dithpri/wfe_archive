@@ -5,6 +5,14 @@
 [b]Secretary-General:[/b] [nation=short]Kievan Ruthenia[/nation]
 [b]Deputy Secretary-General:[/b] [nation=short]Committee of Public Safety[/nation]
 
+[hr]
+
+&amp;#127760; [b][u]UR Advisement Committee:[/u][/b]
+[b]Security Advisor:[/b] [nation=short]Cyranae[/nation]
+[b]Social Advisor:[/b] [nation=short]Franco-Britannia[/nation]
+
+[hr]
+
 &amp;#127760; [b][u]United Regions Initiative[/u][/b]
 [b]- Current Objective: [color=green]Engage Diplomacy[/color][/b]
 [b]- Status: [color=green]Active[/color][/b]

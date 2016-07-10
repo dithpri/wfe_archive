@@ -1,3 +1,18 @@
-Medieval Scoria is set in the antiquity of [region]Scoria[/region]
+Medieval Scoria is set in the antiquity of [region]Scoria[/region].
 
-Time Period;[b]550-1000 AD[/b]
+ For those from Scoria wanting to create medieval nations, it must be from [b]550 CE[/b] to [b]1000 CE[/b]. It can be from any region in Scoria, so as long as there isn&#39;t already a nation from the region and time span you have chosen. 
+
+[b]VALSCORIA[/B]
+[nation]Archindras[/nation]
+[nation]Atzurjan[/nation]
+[nation]Despians[/nation]
+[nation]Dovari Lands[/nation]
+[nation]Drantomia[/nation]
+[nation]Krv Chaeroa[/nation]
+[nation]Valmersia[/nation]
+[nation]Ancient Yami[/nation]
+[b]FOLDERAAN[/B]
+[nation]Folderaan[/nation][i](Stromzieg)[/i]
+[nation]Norrasol[/nation]
+[b]NORRASOL[/b]
+[nation]Norrasol[/nation]
