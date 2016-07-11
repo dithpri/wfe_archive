@@ -1,13 +1,17 @@
 An region for [nation=short]New Republika Srpska[/nation]&#39;s puppet nations.
 
-Amount of puppets: 7 (including founder)
--[nation=short]The Serb[/nation]
--[nation=short]Ujundi[/nation]
--[nation=short]Greater Islamica[/nation]
--[nation=short]Verdantine Sovereignty[/nation]
--[nation=short]Austratt and Holy Rome[/nation]
--[nation=short]Inyolan Empire[/nation]
--[nation=short]Whitecrest Kingdom[/nation]
+Supreme Overseer and Lord of Kebab Removal:
+[nation=short]Radovan Karadzic[/nation]
+
+Amount of puppets: 8 (including founder)
+[nation=short]The Serb[/nation]
+[nation=short]Ujundi[/nation]
+[nation=short]Greater Islamica[/nation]
+[nation=short]Verdantine Sovereignty[/nation]
+[nation=short]Austratt and Holy Rome[/nation]
+[nation=short]Inyolan Empire[/nation]
+[nation=short]Whitecrest Kingdom[/nation]
+[nation=short]Aknembar[/nation]
 
 Puppets not in the region:
--[nation=short]Greater Islamica[/nation] - [region]Peoples Federation of Qandaristan[/region]
+[nation=short]Greater Islamica[/nation] - [region]Peoples Federation of Qandaristan[/region]

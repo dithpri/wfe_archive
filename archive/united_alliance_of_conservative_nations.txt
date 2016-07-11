@@ -9,4 +9,4 @@ In solidarity,
 [nation=short+noflag]Sanders Centre[/nation], President
 [nation=short+noflag]Petralaka[/nation], Vice President
 
-TERROR THREAT LEVEL: [b]BLACK[/b]
+TERROR THREAT LEVEL: [b][u][color=yellow]YELLOW[/color][/u][/b]

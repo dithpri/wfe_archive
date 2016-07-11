@@ -1,5 +1,12 @@
 [b][color=blue]Welcome to the United Federation of Planets![/color][/b]
 
+This region was invaded by [region]United Yugoslav Republics[/region]
+
+Lord of all regions: [nation=short]Vojvoserbia[/nation]
+Federal Governor: [nation=short]Nazi Serbija[/nation]
+Local Governor: [nation=short]Dominiica[/nation]
+Regent: [nation=short]xenathon[/nation]
+
 [b]All nation must endorse our lord [nation=short]Dominiica[/nation]
 
 [b][color=purple]RMB Topic:[/color][/b] [color=green]Are you interested in a position in our regional government?[/color]
