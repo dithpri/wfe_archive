@@ -1,11 +1,16 @@
-Board Game Nations is a region meant for the players of Board Game Online. Neutral.[hr][b][u]High Council[/b][/u]
+Board Game Nations is a region meant for the players of Board Game Online. Neutral.
+[hr][b][u]High Council[/b][/u]
 Founder: [nation=short]Frostorn[/nation]
-Frown Princess: [nation=short]Clanktopolis[/nation]
+Clown Princess: [nation=short]Clanktopolis[/nation]
 Crown Prince: [nation=short]Hazzardia[/nation]
 First Princess: [nation=short]Sylvenea[/nation]
 Warmaster: [nation=short]Grarrgtopia[/nation] [b](WA Delegate)[/b]
 Master of Laws: [nation=short]Dragonpitopia[/nation]
-Master of Foreign Affairs: [nation=short]Dunceland[/nation][hr]If you have a missing role that has yet to appear above, please inform Frostorn or Grarrg as soon as possible.
+Master of Foreign Affairs: [nation=short]Dunceland[/nation]
+
+[b][u]Other[/b][/u]
+Plumber: [nation]farwood[/nation]
+[hr]If you have a missing role that has yet to appear above, please inform Frostorn or Grarrg as soon as possible.
 
 Flag design by [nation=short]Grarrgtopia[/nation]
 

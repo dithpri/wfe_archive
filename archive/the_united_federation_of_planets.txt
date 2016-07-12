@@ -1,15 +1,11 @@
 [b][color=blue]Welcome to the United Federation of Planets![/color][/b]
 
-This region was invaded by [region]United Yugoslav Republics[/region]
+President: [nation=short]Xenathon[/nation]
+Vice President: [nation=short]Yelwey[/nation]
 
-Lord of all regions: [nation=short]Vojvoserbia[/nation]
-Federal Governor: [nation=short]Nazi Serbija[/nation]
-Local Governor: [nation=short]Dominiica[/nation]
-Regent: [nation=short]xenathon[/nation]
+[b]All nation should endorse [nation=short]Xenathon[/nation]
 
-[b]All nation must endorse our lord [nation=short]Dominiica[/nation]
-
-[b][color=purple]RMB Topic:[/color][/b] [color=green]Are you interested in a position in our regional government?[/color]
+[color=purple]RMB Topic:[/color] [color=green]Are you interested in a position in our regional government?[/color][/b]
 
 [color=green][i]To see your topic here Telegram [nation=short]The Vulcan Science Academy[/nation][/i][/color]
 
@@ -28,7 +24,6 @@ Regent: [nation=short]xenathon[/nation]
 
 [b]President: [nation=short]Xenathon[/nation]
 Vice President: [nation=short]Yelwey[/nation]
-Security Officer: [nation=short]Pigslam[/nation]
 The Cabinet: Under Recruiment[/b]
 
 [b][color=green]The Council:[/b][/color]
