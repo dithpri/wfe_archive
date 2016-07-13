@@ -3,9 +3,7 @@
 [i]We are a region that values a democratic government with equal representation for everyone. We strive to provide a realistic and engaging government and environment for all nations.[/i]
 [hr]
 
-[color=darkblue][b]Don&#39;t forget to vote in the presidential polls![/color][/b]
-[hr]
-[b][color=5D76E8]President:[/color]
+[b][color=5D76E8]President: [nation]Cattacoasta[/nation][/color]
 [color=5DC2FF]Vice President:[/color]
 [color=5D76E8]Speaker of the Senate:[/color]
 [color=5DC2FF]Sec. of State:[/color]

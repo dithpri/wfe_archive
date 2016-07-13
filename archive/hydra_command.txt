@@ -16,6 +16,6 @@ General: [nation=short]Xesperias[/nation]
 
 [color=#BF0000]Order of the Day:[/color]
 
-[i][color=grey]Troops deployed to [region]The Place that has No Big Banks[/region] should continue endorsing [nation=short]Summer-rose[/nation].
+[i][color=grey]Deploy to [region]The Place that has No Big Banks[/region] and endorse [nation=short]Summer-rose[/nation].[/color] 
 
-All other troops shall await further orders.[/color] [color=#BF0000]HAIL HYDRA![/color][/i][/b]
+[color=#BF0000]HAIL HYDRA![/color][/i][/b]

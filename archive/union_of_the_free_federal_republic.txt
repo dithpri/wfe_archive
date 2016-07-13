@@ -12,7 +12,7 @@ War Hymn:
 
 
 Operation:Box(InActive)
-Operation:Iron Claws(Active) Humanian-Terrarican War.
+Operation:Iron Claws(Ceasefire)
 Operation:Bronze Gauntle(InActive)
 
 Bills:
