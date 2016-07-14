@@ -6,11 +6,11 @@
 [hr]
 [u][b][color=lapis]Order of the Blackguard High Command[/u][/b][/color]
 
-[color=gray][i]Grand-Admiral of the Order:
-Fleet Admiral:
-Admiral:
-Vice Admiral:
-Rear Admiral:[/color][/i]
+[color=gray][i]Grand-Admiral of the Order: [nation=short]Dread Pirate Six[/nation]
+Fleet Admiral: [nation=short]Gentleman Pirate[/nation]
+Admiral: [nation=short]Enderfein[/nation], [nation=short]Galway Pirates[/nation]
+Vice Admiral: [nation=short]Samwahawn[/nation]
+Rear Admiral: [nation=short]Shadowbeard[/nation][/color][/i]
 
 
 [hr]

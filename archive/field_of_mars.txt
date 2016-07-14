@@ -1,1 +1,11 @@
-A region to train the Roman Legions
+A region to train the Roman Legions.
+
+Legionnaires who completed training:
+
+First Century:
+[nation]Teruko Goto[/nation]
+[nation]Magnisantia[/nation]
+
+Second Century:
+[nation]Kingdomous[/nation]
+[nation]Olivedrabia[/nation]

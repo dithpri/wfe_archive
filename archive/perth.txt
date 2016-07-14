@@ -1,1 +1,6 @@
-Perth
+[color=navy][B][region]Perth[/region] is the capital and largest city of [region]Western Australia[/region].
+[hr]Colony of [region]Esperlando[/region] ([nation=short]Esperlando[/nation])[/b][/color]
+
+[hr][hr][color=green][B][region]Perth[/region] estas la &amp;#265;efurbo kaj plej granda urbo de [region]Western Australia[/region].
+[hr]Kolonio de [region]Esperlando[/region] ([nation=short]Esperlando[/nation])[/b][/color]
+
