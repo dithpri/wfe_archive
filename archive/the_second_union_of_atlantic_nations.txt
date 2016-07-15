@@ -8,12 +8,16 @@ Founded 4 June, 2015.
 Old UAN Founded on 2 April, 2015.
 
 
-[u]Upper House:[/u]
-[nation]omega_america_ii[/nation]
-[nation]The_Central_Shadow_Nation[/nation]
-[nation]The_Socialist_Northern_Islands[/nation]
+[b][u]Regional Representatives[/u][/b]
 
-[u]Courts:[/u]
+[u]Asia &amp; Oceania: [/u][nation]omega_america_ii[/nation]
+[u]Africa: [/u][nation]Mutigland[/nation]
+[u]North America: [/u][nation]New Dionastan[/nation]
+[u]South America: [/u][nation]Grande Rojo[/nation]
+[u]Europe: [/u][nation]imperial Mars empire[/nation]
+
+[b][u]Court Justices[/u][/b]
+
 [nation]Vaikneland[/nation]
 [nation]The_Central_Shadow_Nation[/nation]
 [nation]The_Socialist_Northern_Islands[/nation]

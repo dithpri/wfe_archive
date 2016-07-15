@@ -1,15 +1,1 @@
-Congressional building for The Insane Region.
-
-[spoiler=Senators]Republican Party: [nation=short+noflag]Cresenthia[/nation]
-The Freedom Party: [nation=short+noflag]Cercinemia[/nation]
-The Socialist, Communist, and Totalitarian Party: [nation=short+noflag]Communistic Dominance[/nation]
-TIR Fascist Division: [nation=short+noflag]The Fascist Forces[/nation]
-Unity Party: [nation=short+noflag]Halo allaince[/nation]
-Democratic Party: [nation=short+noflag]The Reapers of the Night[/nation][/spoiler][spoiler=Representatives]Republican Party: [nation=short+noflag]The Russian Federation III[/nation]
-The Freedom Party: [nation=short+noflag]The United States Military[/nation]
-The Socialist, Communist, and Totalitarian Party: [nation=short+noflag]Vuirden[/nation], [nation=short+noflag]Call of Duty Advanced Warfare[/nation]
-TIR Fascist Division: [nation=short+noflag]TING TANG WALLAWALLA BING BANG[/nation], [nation=short+noflag]The Fascist League[/nation], [nation=short+noflag]Rufuss[/nation]
-Unity Party: [nation=short+noflag]The Romulan Star Remnant[/nation]
-Democratic Party: [nation=short+noflag]The South African National Congress[/nation][/spoiler]
-
-Only Congressional members are authorized to post here (and administrative officers)
+...

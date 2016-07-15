@@ -7,18 +7,14 @@
 
 [b]Executive Branch[/b]
     WA Delegate: [nation=short]New Sarskov[/nation]
-    Vice-Delegate: [nation=short]Scovanotia[/nation]
-
+   
 [b]Cabinet[/b]
      Secretary of the State: [nation=short]Transnolvania[/nation]
-     Secretary of the Interior: [nation=short]Cyrussia[/nation]
      Secretary of War: [nation=short]Erijistan[/nation]
 
 [b]Judicial Branch[/b]
-     Head Justice: [i]none[/i]
-     Court Justice: [nation=short]Trelande[/nation]
-     Court Justice: [nation=short]Elephant Tortue[/nation]
-
+(None)
+   
 [spoiler=DEFCON]
 [color=red][b]0 = IMPLOSION UNDERWAY; EVACUATE IMMEDIATELY[/b][/color][/spoiler]
 

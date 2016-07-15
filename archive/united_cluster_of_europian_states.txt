@@ -4,7 +4,7 @@
 
 [b][i]War divided our country. Now its time to take it back.[/b][/i]
 
-[b][color=#FF4500]Welcome to the [/color][region]United Cluster of Europian States[/region][color=#FF4500], where our mission is to grow and take back what was once taken away from us..[/color][/b
+[b][color=#FF4500]Welcome to the [/color][region]United Cluster of Europian States[/region][color=#FF4500], where our mission is to grow and take back what was once taken away from us..[/color]
 
 [hr]
 
@@ -17,4 +17,4 @@
 
 [hr]
 
-[b][color=navy]If you want to learn more about our region, feel free to checkout some of our Factbooks and Dispatches shown below.[/color][/b]
+[color=navy]If you want to learn more about our region, feel free to checkout some of our Factbooks and Dispatches shown below.[/color][/b]
