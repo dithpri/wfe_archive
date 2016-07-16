@@ -12,7 +12,7 @@ High Chancellor: [nation=short]Farlandiay[/nation]
 Vice Chancellor: [nation=short]Kawaii Village[/nation]
 Minister of Defense - [nation=short]TehShwinster[/nation]
 Minister of International Relations - [nation=short]Cyzzan[/nation]
-Minister of Public Relations - N/A
+Minister of Public Relations - [nation=short]Vintony[/nation]
 Minister of Education - [nation=short]South_Lenny[/nation]
 Chief Justice - [nation=short]Chronergstin[/nation]
 Speaker of Senate - [nation=short]Hacksville[/nation]

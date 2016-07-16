@@ -9,6 +9,7 @@ Primus Captain: [nation=short]NataliaPoklonskaya[/nation]
 Centurion: [nation=short]Vapid Vasentius[/nation]
 Terror Marine: [nation=short]Bulrosia[/nation]
 Terror Marine: [nation=short]Shiit State[/nation]
+Terror Marine: [nation=short]Gugmuwon The Conqueror[/nation]
 
 With the assistance of [region]The Invaders[/region][color=gold]![/color]
 

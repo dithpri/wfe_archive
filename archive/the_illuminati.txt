@@ -1,32 +1,30 @@
-&quot;Illuminate the opposition.&quot; - Adam Weishaupt.
-
 [spoiler=Latin]
-[color=darkgoldenrod]LUX E TENEBRIS[/color]
+[color=b8860b]LUX E TENEBRIS[/color]
 [color=chocolate]ORDO AB CHAO[/color]
 
-[color=darkgoldenrod]ACTA NON VERBA[/color]
+[color=b8860b]ACTA NON VERBA[/color]
 [color=chocolate]NULLIUS IN VERBA[/color]
 
-[color=darkgoldenrod]TEMPORA MUTANTUR[/color]
+[color=b8860b]TEMPORA MUTANTUR[/color]
 [color=chocolate]FINIS CORONAT OPUS[/color]
 
-[color=darkgoldenrod]IPSUM NOMEN RES IPSA[/color]
+[color=b8860b]IPSUM NOMEN RES IPSA[/color]
 [color=chocolate]A POSSE AD ESSE[/color]
 
-[color=darkgoldenrod]ALTISSIMA QUAEQUE FLUMINA[/color]
+[color=b8860b]ALTISSIMA QUAEQUE FLUMINA[/color]
 [color=chocolate]MINIMO SONO LABI[/color]
 
-[color=darkgoldenrod]ANIMUS FACIT NOBILEM[/color]
-[color=chocolate]MUNDUS VUIT DECIPI[/color][/list][/spoiler]
+[color=b8860b]ANIMUS FACIT NOBILEM[/color]
+[color=chocolate]MUNDUS VUIT DECIPI[/color][/list][/spoiler]&quot;None are so hopelessly enslaved as those who falsely believe they are free.&quot; [color=mediumorchid]Goethe[/color]
 
-[spoiler=Law]LAW
-Border: [color=grey]FREE[/color]
-Banlist: [color=grey]EMPTY[/color]
-Regulations: [color=grey]NONE[/color]
-Recruiters: [color=grey]WELCOME[/color]
-Requests: [color=grey]ACCEPTED[/color]
-RMB: [color=grey]OPEN[/color] [color=mediumorchid](all nations in embassy regions)[/color]
-[/spoiler]
+[spoiler=Law][color=b8860b]LAW[/color]
+[color=ff0000]Border[/color]: [color=0000ff]Open[/color]
+[color=ff0000]Banlist[/color]: [color=0000ff]Empty[/color]
+[color=ff0000]Regulations[/color]: [color=0000ff]None[/color]
+[color=ff0000]Recruiters[/color]: [color=0000ff]Welcome[/color]
+[color=ff0000]Requests[/color]: [color=0000ff]Accepted[/color]
+[color=ff0000]RMB[/color]: [color=0000ff]Open[/color] [color=808080](all nations in embassy regions)[/color]
+[/spoiler]&quot;Illuminate the opposition.&quot; [color=mediumorchid]Weishaupt[/color]
 
 [spoiler=Links]LINKS
 Archives: [url=https://www.nationstates.net/page=archive]NSArchives[/url] [url=http://udl.taijitu.org/images/rflags/]Region Flags[/url] [url=http://udl.taijitu.org/wfe_index/]WFE Index[/url]

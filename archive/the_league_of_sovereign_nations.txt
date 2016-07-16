@@ -12,10 +12,10 @@ The League of Sovereign Nations is a proud member of the following organisations
 
 [b][color=red][u]High Council[/u][/color][/b]
 [list][*][B]Premier:[/B] 
-[nation=noname]Lowell Indiana[/nation]
-
-[*][B]Deputy (Acting Premier):[/B] 
 [nation=noname]The Servants OF Allah[/nation]
+
+[*][B]Deputy:[/B] 
+[nation=noname][/nation]
 
 [*][B]Secretary of Foreign Affairs:[/B] 
 [nation=noname]Aurea Adamas[/nation]

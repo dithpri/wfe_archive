@@ -10,14 +10,17 @@ Old UAN Founded on 2 April, 2015.
 
 [b][u]Regional Representatives[/u][/b]
 
-[u]Asia &amp; Oceania: [/u][nation]omega_america_ii[/nation]
-[u]Africa: [/u][nation]Mutigland[/nation]
-[u]North America: [/u][nation]New Dionastan[/nation]
-[u]South America: [/u][nation]Grande Rojo[/nation]
-[u]Europe: [/u][nation]imperial Mars empire[/nation]
+[u]Asia:[/u] [nation]great republica[/nation]
+[u]Africa:[/u] [nation]Mutigland[/nation]
+[u]North America:[/u] [nation]New Dionastan[/nation]
+[u]South America:[/u] [nation]Grande Rojo[/nation]
+[u]Oceania:[/u] [nation]omega America II[/nation]
+[u]Europe:[/u] [nation]imperial Mars empire[/nation]
 
 [b][u]Court Justices[/u][/b]
 
-[nation]Vaikneland[/nation]
+[u]Chief of Courts:[/u] [nation]Vaikneland[/nation]
+
 [nation]The_Central_Shadow_Nation[/nation]
+
 [nation]The_Socialist_Northern_Islands[/nation]

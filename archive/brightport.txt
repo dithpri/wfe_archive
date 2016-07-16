@@ -8,10 +8,10 @@
 
 [color=red]Our Government:[/color]
 
-[color=red]Founder:[/color] The Qaz Colony of Clearhill
-[color=red](Acting) WA Delegate:[/color] The Lieutenant&#39;s Kingdom of Qaweritoyu
-[color=red]Prime Minister:[/color] The United republic of Segrated states of the north
-[color=red]Minister for Brightport Government:[/color] The Queendom of Horselandian Experiment on Clinton
+[color=red]Founder:[/color] [nation]Clearhill[/nation]
+[color=red](Acting) WA Delegate:[/color] [nation]Qaweritoyu[/nation]
+[color=red]Prime Minister:[/color] [nation]Segrated states of the north[/nation]
+[color=red]Minister for Brightport Government:[/color] [nation]Horselandian Experiment on Clinton[/nation]
 
 [hr]
 
