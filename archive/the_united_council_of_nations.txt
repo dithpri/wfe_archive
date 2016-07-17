@@ -1,8 +1,8 @@
 [u][b][color=#0000FF]Welcome to the United Council of Nations![/color][/b][/u]
 
 [u][B][color=#FF0000]Executive Council[/color][/B][/u]
-[B]-General Secretary:[/B] [nation]NewLeinster[/nation]
-[B]-Vice-General Secretary:[/B] [nation]Gamer World[/nation]
+[B]-General Secretary:[/B] [nation]Antarcteca[/nation]
+[B]-Vice-General Secretary:[/B] [nation]Armed Nation of Apocalypse Believers[/nation]
 
 [u][b][color=#40BF00]The General Assembly[/color][/b][/u]
 [b]Current Legislation:[/b] 
@@ -15,6 +15,6 @@
 The Party of The New World Order
 
 [u][B][color=#FFBF00]Security Council[/color][/B][/u]
-[nation]Armed Nation of Apocalypse Believers[/nation]
+[nation]Gamer World[/nation]
 [nation]The Democratic Soviet Union[/nation]
-[nation]Vladislav Federation[/nation]
+[nation]Max Empire[/nation]
