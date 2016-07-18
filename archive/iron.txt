@@ -1,10 +1,13 @@
-Welcome to the [b][colour=orange]Region of IRON[/colour][/b]!
+Welcome to [b][colour=orange]IRON[/colour][/b]!
 
-[b][colour=red]This region is currently under military occupation of the [region]Independent Republic of Orange Nations[/region].[/colour][/b]
+[b][colour=orange]This region is an Overseas Territory of the [region]Independent Republic of Orange Nations[/region]![/colour][/b]
 
-[b][u]Military Government of IRON[/u][/b]
-[b]Emperor:[/b] [i]His Imperial Majesty[/i] the Emperor of [nation=noflag]Neo Ancient Rome[/nation] Lord Aristotle the Great
-[b]Military Governor:[/b] [i](de facto)[/i] [nation]Neo Ancient Rome[/nation]
-[b]Secretary of State for Foreign and Commonwealth Affairs:[/b] [nation]Iraldia[/nation]
+[b][u]Government of IRON[/u][/b]
+[b]President:[/b] [nation]Neo Ancient Rome[/nation]
+[b]Governor:[/b] Vacant
+[b]Secretary of State:[/b] [nation]Iraldia[/nation]
+[b]Representative:[/b] Vacant
 
-Please contact [nation]Neo Ancient Rome[/nation] or [nation]Iraldia[/nation] for enquiries and embassy requests.
+[b][u]Regional News[/u][/b]
+[*] Please contact [nation]Iraldia[/nation] for embassy requests and enquiries!
+[*] Want to represent IRON in the Senate? Contact [nation]Iraldia[/nation]!

@@ -11,11 +11,10 @@
 [b][Nation]Aklaka[/Nation] to [region]India[/region][/b]
 
 [U][color=purple][b]Supreme Court Justices[/b][/color][/u]
-[B][nation]East Lordia[/nation]: Chief Justice[/b]
+
 
 
 [u][color=purple][b]Cabinet Secretaries[/b][/color][/u]
-[b][nation]Felix Culpa[/nation]: Secretary of Defense[/b]
 
 [U][color=red][b]Military Personnel[/b][/color][/u]
 [B][nation]The Frankisism Party[/nation]: General of the Army[/b]
