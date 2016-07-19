@@ -6,6 +6,6 @@ Associate puppet regions: [region=Ancient Lands] and [region=United States of Am
 
 Goal of this version of the Oracle Game is to create a chain of links connecting as many regions as long as possible, with no short circuits.
 
-[region=Double Funky 7] has [b]705[/b] degrees of separation to [region=Country of God][/color]
+[region=Double Funky 7] has [b]708[/b] degrees of separation to [region=Country of God][/color]
 
 [list][color=red][b]SORRY[/b], This region does not accept any embassy offers.[/color][/list]

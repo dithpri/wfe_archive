@@ -9,7 +9,7 @@ Master of Laws: [nation=short]Dragonpitopia[/nation]
 Master of Foreign Affairs: [nation=short]Dunceland[/nation]
 
 [b][u]Other[/b][/u]
-Plumber: [nation]farwood[/nation]
+Plumber: [nation=short]farwood[/nation]
 [hr]If you have a missing role that has yet to appear above, please inform Frostorn or Grarrg as soon as possible.
 
 Flag design by [nation=short]Grarrgtopia[/nation]
