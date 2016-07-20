@@ -1,5 +1,11 @@
 [b]Welcome to the Confederacy of the Nations of Scaaterra.[/b]
 
+[colour=green]Officers authorised to permit law exceptions[/colour]:
+[nation=short]Caeoslavia[/nation] (Founder) or [nation=short]Fellbjerg[/nation] (High Executive of the Ministry).
+
 [u][color=red]Laws of the Land[/u][/color] [WIP]
-[color=red]-[/color] The region&#39;s password [i]shall not[/i] be revealed, under any circumstances, to other nations or regions without permission from [nation=short]Caeoslavia[/nation] (Founder) or [nation=short]Fellbjerg[/nation] (High Executive of the Ministry).
-[color=red]-[/color] 
+[color=red]-[/color] The region&#39;s password [i]shall not[/i] be revealed, under any circumstances, to other nations or regions without permission from an authorised officer.
+
+[color=red][u]Acts[/u][/color]
+Acts represent the result of a poll. Nations are expected to respect enacted rules, no matter their disapproval. A list of acts can be found the relative dispatch.
+[i]Acts can be revoked in later polls. Please message an officer if you desire such an action.[/i]
