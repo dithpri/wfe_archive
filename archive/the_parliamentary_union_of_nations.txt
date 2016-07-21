@@ -9,7 +9,7 @@ Welcome to the [region]Parliamentary Union of Sovereign Nations[/region]! We off
 [color=red]President:[/color][nation=short]Libertarian Democracy[/nation]
 [color=red]Prime Minister:[/color][nation=short]Abdoa[/nation]
 
-[color=orange]MoD:[/color][nation=short]singie[/nation]
+[color=orange]MoD:[/color]TBA
 [color=orange]MoJ:[/color]TBA
 [color=orange]MoW:[/color][nation=short]The North Region of Westeros[/nation]
 [color=orange]MoC:[/color]TBA
@@ -21,9 +21,9 @@ Welcome to the [region]Parliamentary Union of Sovereign Nations[/region]! We off
 [nation=short]nassau-windsor[/nation]
 [nation=short]raeyser[/nation]
 [nation=short]bostler[/nation]
-[nation=short]singie[/nation]
 [nation=short]dem cows[/nation]
 [nation=short]junastria[/nation]
+[nation=short]Vacant Seat[/nation]
 [hr]
 WA Members, please endorse our [color=red]Prime Minister[/color]!
 [hr]

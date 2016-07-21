@@ -5,12 +5,12 @@ So enjoy and have fun![/color]
 
 [i][u][color=navy]Our Government:[/u][/i]
 Serving until Oct. 3rd[/color]
-President: [nation]Greater Byzanthia[/nation]
-Chancellor of the Assembly of Nations: [nation]Zazumo[/nation]
+President: [nation=short]Greater Byzanthia[/nation]
+Chancellor of the Assembly of Nations: [nation=short]Zazumo[/nation]
 [hr]
-The Assembly: Headed by League Chancellor: [nation]Zazumo[/nation]
+The Assembly: Headed by League Chancellor: [nation=short]Zazumo[/nation]
 Assembly Members:
-[nation]Pederal na Republika ng Pilipinas[/nation]
+[nation=short]Pederal na Republika ng Pilipinas[/nation]
 (Assembly positions available) [/b]
 
 

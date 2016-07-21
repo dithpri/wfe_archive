@@ -1,1 +1,8 @@
-[region]true north[/region]
+[color=blue]Welcome to Ravenclaw[/color]
+
+[color=00ccff]&yen;[/color][color=red][u]one of the four Houses of Hogwarts School of Witchcraft and Wizardry, founded by Rowena Ravenclaw. Members of this house are characterised by their wit, learning, and wisdom. Its house colours are blue and bronze, and its symbol is an eagle.[/u][/color][color=00ccff]&yen;[/color] 
+
+[b]&#149;House Ghost is the Grey Lady&#149;[/b]
+[b]&#149;No Recruiting Allowed&#149;[/b]
+
+[b]All Embassies with [color=ff33ff]&reg;[/color][region]true north territory[/region][color=ff33ff]&reg;[/color] are Territories of [region]True North[/region][/b]

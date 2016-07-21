@@ -1,1 +1,8 @@
-[region]true north[/region]
+[color=blue]Welcome to Okinawa[/color]
+
+[color=00ccff]&yen;[/color][color=red][u]Japan[/u][/color][color=00ccff]&yen;[/color] 
+
+[b]&#149;Okinawa Island&#149;[/b]
+[b]&#149;No Recruiting Allowed&#149;[/b]
+
+[b]All Embassies with [color=ff33ff]&reg;[/color][region]true north territory[/region][color=ff33ff]&reg;[/color] are Territories of [region]True North[/region][/b]
