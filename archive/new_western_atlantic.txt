@@ -7,24 +7,24 @@
 [hr][b][url=https://www.nationstates.net/nation=the_united_dark_republic/detail=factbook/id=597374][color=lightgray]Fifth Government[/color][/url][/b]
 
 [b][color=red]Vice-Delegate[/color]:[/b]
-[nation]Cheesecakeastan[/nation] ([b][color=red]C[/color][/b])
+[nation=short]Baconbacon123[/nation] ([b][color=yellow]L[/color][/b])
 
 [b][color=Blue]GA Speaker[/color]:[/b]
-[nation]Vinic[/nation] ([b][color=blue]A[/color][/b])
+[nation=short]Vinic[/nation] ([b][color=blue]A[/color][/b])
 
 [b][color=orange]Head of RP[/color]:[/b]
-[nation]Formerland[/nation] ([b][color=white] I [/color][/b])
+[nation=short]Federated states of kyro[/nation] ([b][color=blue] A [/color][/b])
 
 
 [b][color=Purple]Cabinet Majority Whip[/color]:[/b]
-[nation]hevern[/nation] ([b][color=blue]A[/color][/b])
+[nation=short]hevern[/nation] ([b][color=blue]A[/color][/b])
 
 [b][color=Purple]Cabinet Minority Whip[/color]:[/b]
-[nation]Zachotopia[/nation] ([b][color=red]C[/color][/b])
+[nation=short]Zachotopia[/nation] ([b][color=red]C[/color][/b])
 
 [hr]
 
-[b]Please show your support by endorsing the WA Delegate, [nation]heisenbee[/nation] and the Vice-Delegate, [nation]cheesecakeastan[/nation].[/b]
+[b]Please show your support by endorsing the WA Delegate, [nation=short]federated states of kyro[/nation] and the Vice-Delegate, [nation=short]baconbacon123[/nation].[/b]
 
 The current endorsement cap is: [color=red][u][b]15[/b][/u][/color]
 
