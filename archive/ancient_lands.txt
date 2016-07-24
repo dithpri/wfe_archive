@@ -2,7 +2,7 @@
 [/color][color=green]
 DBA/RHW Home Puppet Storage Region[/b]
 - [DBA] Rae - ([nation=short]Manitoulin[/nation])
-- [RHW] Doug - ([nation=short]Royal House of Windsor[/nation])
+- [RHW] Doug - ([nation=short]Royal House of Windsor[/nation]/[nation=short]New_Falham[/nation])
 [/color][color=800030]
 [b]Other Allied Regions:[/b] 
 [region=Libertaria], [region=Brazzaville], [region=Ecuador]
