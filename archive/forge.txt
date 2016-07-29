@@ -7,4 +7,4 @@ SK: [nation=short]I THE GREAT PAPYRUS[/nation], [nation=short]Tornado Condo[/nat
 LCRUA: [nation=short]Syadei[/nation], [nation=short]Condealism[/nation], [nation=short]New Hoshido[/nation]
 SMR: [nation=short]Demon Catz[/nation], [nation=short]The CheeseBurgian State[/nation], [nation=short]Godly Archangels[/nation]
 NM: [nation=short]Unpronouncability[/nation], [nation=short]Lisastia[/nation]
-UCN:
+UCN: [nation=short]United_Tip[/nation], [nation=short]Super_Soviet_Spooky_Spiders[/nation], [nation=short]Jiyole[/nation]
