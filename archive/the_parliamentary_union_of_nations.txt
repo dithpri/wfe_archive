@@ -14,14 +14,14 @@ Administrative Officials:[/color] TBA
 [color=orange]MoD:[/color]TBA
 [color=orange]MoJ:[/color]TBA
 [color=orange]MoW:[/color][nation=short]The North Region of Westeros[/nation]
-[color=orange]MoC:[/color]TBA
+[color=orange]MoC:[/color][nation=short]junastria[/nation]
 [hr]
-[color=blue][b]Parliament:[/b][/color](dissolved)
+[color=blue][b]Parliament:[/b][/color]
 [nation=short]abdoa[/nation]
 [nation=short]libertarian democracy[/nation]
 [nation=short]nassau-windsor[/nation]
-[nation=short]Vacant Seat[/nation]
-[nation=short]Vacant Seat[/nation]
+[nation=short]Bostler[/nation]
+[nation=short]Junastria[/nation]
 [nation=short]Vacant Seat[/nation]
 [nation=short]Vacant Seat[/nation]
 [nation=short]Vacant Seat[/nation]
