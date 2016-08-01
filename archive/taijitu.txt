@@ -8,7 +8,7 @@ Taijitu is an [color=maroon]egalitarian, revolutionary direct democracy and comm
 [b][color=grey]Citizen-Delegate -[/color][/b] [nation]Eluvatar[/nation]
 [b]Citizen-Initiator -[/b] [nation]Al Khem[/nation]
 [b][color=grey]Citizen-Sergeant -[/color][/b] [nation]The First Garrison[/nation]
-[b]Citizen-Liaison -[/b] [Vacancy]
+[b]Citizen-Steward -[/b] [Vacancy]
 
 [b]Please endorse Citizen-Delegate-elect [nation=short]Eluvatar[/nation]!
 
