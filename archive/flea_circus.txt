@@ -1,15 +1,14 @@
-[color=RED][i][u][b]Fumigation complete. Everyone is ordered to immediately exit the region.[/b][/u][/i][/color]
+[B][color=#2B65EC]~*~[/color][color=#EDB32B] [u][region]Kingdom of Alexandria[/region][/u][/color] [color=#2B65EC] ~*~[/color][/B]
+[b][i]This region was captured by the Royal Legion of Alexadria[/b][/i]
 
-Fumigation services provided by the [b][url=region=kingdom_of_alexandria][color=purple]Royal Legion of Alexandria[/color][/url][/b] and [b][url=region=HYDRA_COMMAND][color=#BF0000]HYDRA Command[/color][/url][/b]. [color=purple]Hail Alexandria![/color] [color=#BF0000]HAIL HYDRA![/color]
+The valliant Knights of the Kingdom:
+[nation=short]Atagait Denral[/nation] - Lord High Constable (Refounder)
+[nation=short]Typhlo[/nation] - Lord Master Paladin (Boomerang Point)
+[nation=short]Khronion Denral[/nation] - Lord Lieutenant Paladin (Point) 
 
-[color=purple][b][u]ROYAL ALEXANDRIAN PEST CONTROL SERVICES[/u]
-[/b]Lord High Constable [nation=short+noflag]Typhlo[/nation]
-Knight-Sentinel [nation=short+noflag]Atagait Denral[/nation]
-Paladin-Praeceptor [nation=short+noflag]Khronion Denral[/nation] (Point)[/color]
+The honorable Sellswords of [region]HYDRA Command[/region]
+[nation=short]Tom Vasentius HYDRA[/nation] (Trigger)
+[nation=short]Pracinha[/nation]
+[nation=short]Whovianis[/nation]
 
-[color=#BF0000][b][u]HYDRA FUMIGATION INC.[/u]
-[/b]Director [nation=short+noflag]Tom Vasentius HYDRA[/nation] (Trigger)
-Corporal [nation=short+noflag]Pracinha[/nation]
-Cadet [nation=short+noflag]Whovianis[/nation][/color]
-
-[b]FLEAS SQUASHED: Every last one[/b]
+With thanks to [region]The Order of the Grey Wardens[/region], [region]The Black Hawks[/region] for their support.
