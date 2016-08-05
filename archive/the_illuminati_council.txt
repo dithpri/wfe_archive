@@ -4,9 +4,9 @@ Welcome to [region=The Illuminati Council]. United we stand, together we fall.
 [hr][color=blue][u][b]The Grand Council[/b][/u][/color]
 [b]Chancellor:[/b] [nation=long]Kovichialand[/nation]
 [b]Vice Chancellor:[/b] [nation=long]The Central Communist Anarchy[/nation]
-[b]Speaker of the Senate:[/b] N/A
+[b]Speaker of the Senate:[/b] [nation=long]Destrano[/nation]
 [b]Secretary of States:[/b] [nation=long]The Moderator Country[/nation]
-[b]Secretary of Defense:[/b] [nation=long]Utopia Now[/nation]
+[b]Secretary of Defense:[/b] N/A
 [b]Secreatry of Education:[/b] N/A
 [b]Secretary of Public Relations:[/b] [nation=long]Tergaram England[/nation]
 [hr][color=red][u][b]Legal[/b][/u][/color]

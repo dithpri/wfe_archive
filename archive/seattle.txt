@@ -2,4 +2,4 @@
 [/color][color=darkgreen][b]
 Seattle[/b], [region=Washington], [region=United States of America][/color]
 
-[color=800000]Sorry, this region is not accepting embassy offers at this time[/color]
+[color=008000]Embassy offers accepted[/color]
