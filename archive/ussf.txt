@@ -1,10 +1,12 @@
 [color=black][b]Welcome partisans, to the [/color][url=http://www.nationstates.net/region=ussf][color=red]United Soviet Socialist Fleet[/url],[/color] [color=black]the fleet region of the [/color][url=http://www.nationstates.net/region=ussd][color=red]United Soviet Socialist Dictatorships[/url].[/color][/b]
-[color=black]This region is a division of the[/color] [url=http://www.nationstates.net/region=the_red_fleet][color=black]Red Fleet[/color][/url][color=black], commanded by[/color] [nation]Vetelo[/nation][color=black] and[/color] [nation]Neu-Ulm[/nation][color=black]. Keep in mind, the[/color] [url=http://www.nationstates.net/region=ussf][color=black]USSF[/color][/url][color=black] only establishes embassies with regions that it has participated in invading (and [/color][url=http://www.nationstates.net/region=the_red_fleet][color=black]TRF[/url]). Nations from any region can serve in the [/color][url=http://www.nationstates.net/region=ussf][color=black]USSF[/color][/url][color=black], providing they contact[/color] [nation=short+noflag]Vetelo[/nation] [color=black]first. The [/color][url=http://www.nationstates.net/region=ussf][color=black]USSF[/color][/url][color=black] currently has 22 warships in commission.[/color]
+[color=black]This region is a division of the[/color] [url=http://www.nationstates.net/region=the_red_fleet][color=black]Red Fleet[/color][/url][color=black], commanded by[/color] [nation=short]Vetelo[/nation][color=black] and[/color] [nation=short]Neu-Ulm[/nation][color=black]. Keep in mind, the[/color] [url=http://www.nationstates.net/region=ussf][color=black]USSF[/color][/url][color=black] only establishes embassies with regions that it has participated in invading (and [/color][url=http://www.nationstates.net/region=the_red_fleet][color=black]TRF[/url]). Nations from any region can serve in the [/color][url=http://www.nationstates.net/region=ussf][color=black]USSF[/color][/url][color=black], providing they contact[/color] [nation=short+noflag]Vetelo[/nation] [color=black]first. The [/color][url=http://www.nationstates.net/region=ussf][color=black]USSF[/color][/url][color=black] currently has 22 warships in commission.[/color]
+
+[url=https://discord.gg/zX8xmrm][b][u][color=black]USSF DISCORD[/u][/b][/url][/color]
 
 [color=black][u]USSF Admirals[/u][/color]
 [color=red][b][i]&quot;REDS NEVER SAY DIE!&quot;[/i][/b][/color]
-[nation]Vetelo[/nation]
-[nation]Neu-Ulm[/nation]
+[nation=short]Vetelo[/nation]
+[nation=short]Neu-Ulm[/nation]
 
 [u][url=http://www.nationstates.net/region=the_red_fleet][color=black]RF[/url][/color] [url=http://www.nationstates.net/nation=Vetelo][color=black]Admi[/url][/color][url=http://www.nationstates.net/nation=timchiland][color=black]ralty[/url][/color][/u]
 [color=red][b][i]&quot;[/color][url=http://www.nationstates.net/nation=blackistandia/detail=factbook/id=572950][color=red]BASH THE FASH[/color][/url][color=red]!&quot;[/color][/i][/b]

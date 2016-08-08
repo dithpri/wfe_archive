@@ -1,12 +1,20 @@
-[b]Secretary-General: [nation]Vos Istra[/nation]
+[b][u]Secretary-General[/u]
+[nation]Vos Istra[/nation]
 
-Attorney-General: [nation]Providence and Port Hope[/nation]
+[u]Attorney-General[/u]
+Vacant
 
-Secretary of State: Open
+[u]Secretary of State[/u]
+Vacant
 
-Security Council:
-Permanent-[nation]Union of Christian States[/nation], [nation]Providence and Port Hope[/nation]
-Annual-[nation]Brusia[/nation], [nation]The Cascadian State[/nation], and [nation]Vos Istra[/nation][/b]
+[u]Security Council[/u]
+Permanent:
+[nation]Union of Christian States[/nation]
+[nation]Providence and Port Hope[/nation]
+Annual:
+[nation]Brusia[/nation]
+[nation]The Cascadian State[/nation]
+[nation]Vos Istra[/nation][/b]
 
 [url=http://forum.nationstates.net/viewtopic.php?f=23&amp;t=341992&amp;sid=bcf9c50fd83f3efb95f1dc3b0cf6bb2d]ICLE[/url]
 

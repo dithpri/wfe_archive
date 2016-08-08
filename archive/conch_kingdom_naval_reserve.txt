@@ -2,7 +2,7 @@ Military base for the region of [region]Conch Kingdom[/region].
 
 [i]Conch Kingdom Naval Reserve: The Non-Update Armed Forces of Conch Kingdom[/i]
 [b]Commanding Officer, CKNR:[/b] [nation=short]conch kingdom[/nation] (Acting)
-[b]Executive Officer, CKNR:[/b] [color=gray][i][position vacant][/i][/color]
+[b]Executive Officer, CKNR:[/b] [nation=short]supero omnia[/nation]
 
 [b]Orders:[/b] Move to [region=Cape of Good Hope] and endorse all possible residents.
 
