@@ -1,0 +1,8 @@
+This region is designed to unite nations that are city states.
+
+[nation=sheffield_city] shall hold executive authority, but shall not use the power. The region shall actually be controlled by:
+Foreign Secretary: The World Assembly Delegate. Has control over embassies.
+Home Secretary: Has control over polls and appearance.
+Immigration Secretary: Has control over borders.
+
+These shall be elected by the people on a monthly basis and must conduct polls before exercising power.

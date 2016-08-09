@@ -8,7 +8,7 @@
 [b][i][u][color=Silver]The High Chaotic Command:[/color][/u][/i][/b]
 [b][color=Gold]The Field Marshal:[/color] [nation=short]New Imperial Switzerland[/nation][/b]
 [b][color=Red]General:[/color] [nation=short]Queen Yuno[/nation][/b]
-[b][color=Red]General:[/color] VACANT[/b]
+[b][color=Red]General:[/color] [nation=short]PracinhaTCB[/nation][/b]
 
 [hr]
 
