@@ -1,50 +1,38 @@
-Lithuanians	80,7
-Finnish_D	78,4
-FIN30	77,9
-Lithuanian_D	76,6
-Belorussian	71,6
-Russian_D	70,5
-Russian_B	69,3
-Mixed_Slav_D	69,1
-Russian	68,5
-Polish_D	68,4
-Mordovians_Y	67,3
-Swedish_D	66,4
-Ukranians_Y	65,5
-Norwegian_D	65,2
-Ukrainian_D	62,9
-Orkney_1KG	59,8
-German_D	59,2
-Irish_D	59,1
-Orcadian	58,8
-Argyll_1KG	58,4
-British_Isles_D	58,2
-British_D	57,8
-Kent_1KG	57
-English_D	56,8
-CEU30	56,7
-Mixed_Germanic_D	56
-Dutch_D	56
-Cornwall_1KG	55,8
-Hungarians	54,9
-Chuvashs	54,9
-Austrian_D	54,1
-Aleut	51,2
-French	47,6
-French_D	47,1
-Serb_D	44,4
-Pais_Vasco_1KG	41
-Romanians	40,4
-Cataluna_1KG	39,9
-French_Basque	39
-Bulgarian_D	38,8
-Bulgarians_Y	38,5
-Spaniards	37,1
-Cantabria_1KG	37
-AthabaskHD4	37
-Spanish_D	36,8
-Valencia_1KG	36,7
-Aragon_1KG	36,4
-Galicia_1KG	36,2
-Castilla_La_Mancha_1KG	35,8
-Brazilian_D	35,6
+[b]Norway[/b]
+Australia
+[b]Denmark
+Switzerland[/b]
+Canada
+[b]Sweden[/b]
+New Zealand
+[b]Finland[/b]
+United States
+[b]Iceland
+Netherlands
+Germany
+Luxembourg
+Belgium
+Austria
+United Kingdom
+Ireland
+France
+Spain
+Slovenia
+Czech Republic
+Estonia[/b]
+Japan
+[b]Slovak Republic
+Italy[/b]
+Israel
+[b]Poland[/b]
+Korea
+[b]Portugal
+Latvia
+Greece
+Hungary[/b]
+[i]Russian Federation[/i]
+Chile
+Brazil
+[u]Turkey[/u]
+Mexico
+[i]South Africa[/i]

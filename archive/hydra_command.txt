@@ -14,6 +14,6 @@ General: [nation=short]Xesperias[/nation]
 
 [color=#BF0000]Order of the Day:[/color]
 
-[i][color=grey]Await further orders.[/color] 
+[i][color=grey]Move to [region]Brotherhood of Shadows[/region] and endorse [nation=short]Omiliter Obre Islands[/nation].[/color] 
 
 [color=#BF0000]HAIL HYDRA![/color][/i][/b]
