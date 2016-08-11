@@ -1,7 +1,5 @@
 [u][b][color=#0000FF]Welcome to the United Council of Nations![/color][/b][/u]
 
-Region under Founder&#39;s control until new Constitution is adopted.
-
 [u][B][color=#FF0000]Executive Council[/color][/B][/u]
 [B]-General Secretary:[/B]
 [B]-Vice-General Secretary:[/B]
@@ -11,6 +9,7 @@ Region under Founder&#39;s control until new Constitution is adopted.
 
 [b]Political Parties:[/b]
 [color=Red]The Worker&#39;s Party[/color]
+[color=blue]The Freedom Party[/color]
 
 [u][B][color=#FFBF00]Security Council[/color][/B][/u]
 [nation]Gamer World[/nation]
