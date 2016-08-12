@@ -5,10 +5,8 @@ MEMBERS(spelling errors possible):
 1.[color=purple][b]LazerRaptorville=Jacob Mackenzie[/b][/color]
 2.Peoriph=Sebrina
 3.Cuba=Alex
-4.Memeohpolis=Lance
-5.RoboSam=Sam
-6.Ciroc=Angel
-7.Banana Cakes=Miranda
-8.Anoose=Reinhold
-9.Dildocracy69=Jacob MacPhearson
-10.DontCare=Noah
+4.RoboSam=Sam
+5.Ciroc=Angel
+6.Anoose=Reinhold
+7.Dildocracy69=Jacob MacPhearson
+8.DontCare=Noah
