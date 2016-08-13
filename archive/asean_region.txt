@@ -11,9 +11,9 @@
 [list][b]| [nation=short]The Democratic Peoples Republic of Laos[/nation] | [color=teal]Permanent Member[/color] |
 | [nation=short]Hindia Belanda[/nation] | [color=teal]Permanent Member[/color] |
 | [nation=short]National Committee of Elections[/nation] | [color=teal]Revolving Member[/color] |
-| [nation=short]Bulanesia[/nation] | [color=teal]Revolving Member[/color] |
+| [nation=short]Spot Open[/nation] | [color=teal]Revolving Member[/color] |
 | [nation=short]Melayu Jaya[/nation] | [color=teal]Revolving Member[/color] | 
-| [nation=short]Irian Barat[/nation] | [color=teal]Revolving Member[/color] |[/list][/b][hr]
+| [nation=short]Spot Open[/nation] | [color=teal]Revolving Member[/color] |[/list][/b][hr]
 
 [color=Teal][b][u]Regional News[/u][/b][/color]
 
@@ -26,4 +26,4 @@
 
 [color=teal][b][u]Regional Links[/b][/u][/color]
 
-[b]| [url=https://ahtpxa-ch3302.files.1drv.com/y3mEHM4pAQdJw8H13tWzwL7wI6qcFpzZYy8Dpy2dHjtjQ_05KriWkXmVQ3c8yJjcOz5DCMOY5e67QIKuqCRrWHCt2lEpvOKYwCgJJsOZtiHruA4xaPuxTUTNaf9ZQ7Poz-7SwUOxlbmk4EPTl5Fe4yqqxOZ7SALJR5JAE-msmZlCqI/Map%20ASEAN.png?psid=1][color=teal]Regional Map[/url][/color] |[/b] [b][url=https://www.nationstates.net/page=dispatch/id=619495][color=teal]Constitution[/color][/url] | [url=https://www.nationstates.net/page=dispatch/id=636716][color=teal]Political Parties[/url][/color] | [url=https://www.nationstates.net/page=dispatch/id=653494][color=teal]Regional Agenda[/color][/url] | [url=http://www.nationstates.net/page=dispatch/id=661046][color=teal]The National Legislative Assembly[/color][/url] |[/b]
+[b]| [url=][color=teal]Regional Map[/url][/color] |[/b] [b][url=https://www.nationstates.net/page=dispatch/id=619495][color=teal]Constitution[/color][/url] | [url=https://www.nationstates.net/page=dispatch/id=636716][color=teal]Political Parties[/url][/color] | [url=https://www.nationstates.net/page=dispatch/id=653494][color=teal]Regional Agenda[/color][/url] | [url=http://www.nationstates.net/page=dispatch/id=661046][color=teal]The National Legislative Assembly[/color][/url] |[/b]
