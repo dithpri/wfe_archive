@@ -5,4 +5,4 @@
 [hr][u][b]The Imperial Regency[/b][/u]
 [list][b]&#149; [color=navy]Tsar of All Russia:[/color][/b] Nicholas III of [nation=short]Novgorad[/nation][/list]
 [hr][u][b]Territories:[/b][/u] 
-[list][b][region]Muscovy[/region] | [region]Grand Principality of Muscovy[/region] | [region]The Tsardom of Russia[/region] | [region]Imperial Russia[/region][/b][/list]
+[list][b][region]Muscovy[/region] | [region]Grand Principality of Muscovy[/region] | [region]The Tsardom of Russia[/region] | [region]Tsarist Russia[/region] | [region]Imperial Russia[/region] [/b][/list]

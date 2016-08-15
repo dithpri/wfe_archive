@@ -8,7 +8,10 @@ No WA Nations Allowed in the Region, [nation=short]Sorenity2[/nation] exempted[/
 [hr]
 [color=red]Deployment Orders:[/color]
 
-stand by
+&amp;gt;Active a WA Puppet
+&amp;gt;Move to [region]Heroes Rise[/region]
+&amp;gt;Endorse [nation=short]Harenhime[/nation]
+&amp;gt;Telegram the Field Marshal after following these orders
 
 [HR]
 
