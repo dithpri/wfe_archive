@@ -1,13 +1,13 @@
 |[url=http://www.nationstates.net/page=dispatch/id=667040]Regional Map[/url]|[url=https://www.nationstates.net/page=dispatch/id=677261]DUR Wiki[/url]|[url=https://www.nationstates.net/page=dispatch/id=671956]Constitution[/url]| [url=https://www.nationstates.net/page=dispatch/id=670603]Full Regional Government[/url]|[url=https://www.nationstates.net/page=dispatch/id=677173]Nationalist Party[/url]|[url=https://www.nationstates.net/page=dispatch/id=677168]United Monarchist Party[/url]|[url=https://www.nationstates.net/page=dispatch/id=677196]Socialist Party[/url]|
 [hr][color=blue]Welcome[/color] [color=Viridian]to[/color] [color=Thistle]The[/color] [color=Orchid]Democratic[/color] [color=Heliotrope]Union[/color] [color=Eminence]of[/color] [color=purple]Republics![/color]
 [hr][b]Executive Government[/b] 
-[color=red]Founder:[/color] [nation=short]North Libya[/nation]
-[color=orange]WA Delegate:[/color] [nation=short]The Peoples Republic of Pacifica[/nation]
-[color=yellow]Vice-Delegate:[/color] TBA
+[color=red]Founder:[/color] [nation=short]North Libya[/nation] ([color=red]UMP[/color])
+[color=orange]WA Delegate:[/color] [nation=short]The Peoples Republic of Pacifica[/nation] (N/A)
+[color=yellow]Vice-Delegate:[/color] [nation=short]Revitallia[/nation] ([color=grey]I[/color])
 [hr][b]Cabinet[/b]
-[color=Harlequin]Minister of Law and Justice:[/color] TBA
+[color=Harlequin]Minister of Law and Justice:[/color] [nation=short]Belvederan Allied Peninsula[/nation] ([color=teal]DLP[/color])
 [color=Jade]Deputy Minister of Justice:[/color] TBA
-[color=leaf]Deputy Minister of Law:[/color] TBA
+[color=leaf]Deputy Minister of Law:[/color] [nation=short]New Jarwel[/nation] ([color=green]NP[/color])
 
 [color=Lightblue]Minister of War and Roleplay:[/color] TBA
 [color=PowderBlue]Minister of Foreign Affairs:[/color] TBA
@@ -16,4 +16,4 @@
 
 [color=Pink]Emergency Minister:[/color] TBA
 [hr]
-Deafcon: ([color=green]1[/color])|[color=lime]2[/color]|[color=yellow]3[/color]|[color=orange]4[/color]|[color=red]5[/color]|
+Defcon: [color=green]1[/color]|[color=lime]2[/color]|([color=yellow]3[/color])|[color=orange]4[/color]|[color=red]5[/color]|

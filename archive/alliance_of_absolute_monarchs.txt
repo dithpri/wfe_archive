@@ -1,17 +1,9 @@
-Government Positions still open!
-
-Sovereign: [nation]The Kingship of Glemica[/nation]
-Regent:
-
-Judiciary Board
-Chief Justice:
-
-Executive Council (Formerly Known as the Cabinet)
-Chief Executive (WA Delegate): [nation]The Kingship of Glemica[/nation]
-Executive Pro Tempore:
-
-Parliament
-House of Lords:
-[nation]Dragonyza[/nation]
-House of Commons:
-[nation]Catholic Democratic Union[/nation]
+[b]Regional Government:[/b]
+Imperial Council:
+Chief Executive: [nation]Belique[/nation]
+Members:
+Embassies: [nation]Catholic Democratic Union[/nation]
+Communication: [nation]Dragonyza[/nation]
+Appearance: [i]vacant[/i]
+Border Control: [i]vacant[/i]
+Polls: [i]vacant[/i]
