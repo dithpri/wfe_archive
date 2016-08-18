@@ -2,11 +2,11 @@
 [hr][color=blue]Welcome[/color] [color=Viridian]to[/color] [color=Thistle]The[/color] [color=Orchid]Democratic[/color] [color=Heliotrope]Union[/color] [color=Eminence]of[/color] [color=purple]Republics![/color]
 [hr][b]Executive Government[/b] 
 [color=red]Founder:[/color] [nation=short]North Libya[/nation] ([color=red]UMP[/color])
-[color=orange]WA Delegate:[/color] [nation=short]The Peoples Republic of Pacifica[/nation] (N/A)
+[color=orange]WA Delegate:[/color] [nation=short]The Peoples Republic of Pacifica[/nation] ([color=teal]DLP[/color])
 [color=yellow]Vice-Delegate:[/color] [nation=short]Revitallia[/nation] ([color=grey]I[/color])
 [hr][b]Cabinet[/b]
 [color=Harlequin]Minister of Law and Justice:[/color] [nation=short]Belvederan Allied Peninsula[/nation] ([color=teal]DLP[/color])
-[color=Jade]Deputy Minister of Justice:[/color] TBA
+[color=Jade]Deputy Minister of Justice:[/color] [nation=short]Boniza[/nation] ([color=green]NP[/color])
 [color=leaf]Deputy Minister of Law:[/color] [nation=short]New Jarwel[/nation] ([color=green]NP[/color])
 
 [color=Lightblue]Minister of War and Roleplay:[/color] TBA

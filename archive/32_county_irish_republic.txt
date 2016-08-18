@@ -17,4 +17,4 @@
 [hr]
 [color=red]*[i]A member region of [region]The Fenian Brotherhood[/region] Alliance[/i][/color]
 
-[color=lapis][b]*Current SEC-CON Threat Level:[/color] [color=red][RED][/color][/b]
+[color=lapis][b]*Current SEC-CON Threat Level:[/color] [color=yellow][YELLOW][/color][/b]
