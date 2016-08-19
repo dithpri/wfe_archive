@@ -2,26 +2,17 @@
 
 [b]Founder/Kaiser:[/b] [nation=Imperial Germans]
 
-[b] General of the Federal Army:[/b] [nation=The States of Bavaria]
+[b] General of the Federal Army:[/b] [nation=Imperial Germans]
 
-[b]Lt. General of the Federal Army/Commissioner of Foreign Affairs:[/b] [nation=Kellonville]
+[b]Commissioner of Foreign Affairs:[/b] [nation=Kellonville]
 
-[color=orange][b]DEFCON 2: Units Be On Stand By[/b][/color]
+[color=Green][b]DEFCON 5: Regular Stations[/b][/color]
 [hr]
-[color=red][b]Federal Army Regiments[/b][/color]
-[b]1st Kaiser Guard [color=red]II[/color][/b]
-[b]Kaiser:[/b] [nation=Imperial Germans]
-
-[b]Luftwaffe[/b]
-[b]Major:[/b] [nation=The United Fascist Republic]
-
-[b]80th Fusilier Guard [/b]
-[b]Major:[/b] [nation=Secretly isis]
-
-[b]The 21st Panzer Division[/b]
-[b]Major:[/b] [nation=PLEASENO] 
-[hr]
-[url=http://www.nationstates.net/page=dispatch/id=560642]Military[/url],[url=http://www.nationstates.net/page=dispatch/id=616587]21st Panzer,[/url] [url=http://www.nationstates.net/page=dispatch/id=568868] Military Awards[/url], [url=http://www.nationstates.net/page=dispatch/id=616481] Military Award Nominees (updated after a campaign),[/url] [url=http://www.nationstates.net/page=dispatch/id=590074=]Conquests[/url]
+[color=red][b]Federal Army [/b][/color]
+[b][color=red] THE FEDERAL ARMY IS NOW ONE UNIT DUE REORGANIZATION LEAD BY THE KAISER, HERE ARE THE NEW OFFICERS[/b][/color]
+[b]Komandat:[/b] [nation=Imperial Germans]
+[b]Feldwebelleutnant:[/b] [nation=New Hochenschwand]
+ 
 [hr]
 [b]---Around the Federation---[/b]
 
