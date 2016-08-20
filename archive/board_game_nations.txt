@@ -2,6 +2,7 @@ Board Game Nations is a region meant for the players of Board Game Online. Neutr
 [hr][b][u]High Council[/b][/u]
 
 Founder: [nation=short]Frostorn[/nation]
+Warmaster: [nation=short]Grarrgtopia[/nation]
 
 Crown Princess: [nation=short]Sammonium[/nation]
 First Princess: [nation=short]Sylvenea[/nation]
@@ -9,11 +10,11 @@ Second Princess: [nation=short]Clanktopolis[/nation]
 Crown Prince: [nation=short]Hazzardia[/nation]
 First Prince: [nation=short]Gilmores Glorious Empire[/nation]
 
-Warmaster: [nation=short]Grarrgtopia[/nation] 
-Tower Warden: [nation=short]Habroo the Mighty and Brave[/nation] 
 Master of Laws: [nation=short]Dragonpitopia[/nation]
 Master of Foreign Affairs: [nation=short]Dunceland[/nation]
+Tower Warden: [nation=short]Habroo the Mighty and Brave[/nation] 
 Royal Estate Plumber: [nation=short]Farwood[/nation]
+Royal Escort Vehicle: [nation=short]Hollicopter[/nation]
 [hr]If you have a missing role that has yet to appear above, please inform Frostorn or Grarrg as soon as possible.
 
 Flag design by [nation=short]Grarrgtopia[/nation]

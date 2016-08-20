@@ -16,7 +16,7 @@ PREMIER: [nation=short]Yekateria and Farlandia[/nation][/i]
 [i]WA DELEGATE:[color=Red][b]ELECTION IN PROGRESS[/b][/color][/i]
 [i]COMMUNISYKA:[nation=short]None[/nation][/i]
 
-[i]SPEAKER:[nation=short]Arstotzka Communist[/nation] [/i]
+[i]SPEAKER:[nation=short]Communist British[/nation] [/i]
 [i]STATE DUMA: [nation=Kasnea],[nation=TheWorstNationInTheWorld]
 [/i]         
 [hr]
