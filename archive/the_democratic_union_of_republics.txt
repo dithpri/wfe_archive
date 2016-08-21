@@ -6,12 +6,12 @@
 [color=yellow]Vice-Delegate:[/color] [nation=short]Revitallia[/nation] ([color=grey]I[/color])
 [hr][b]Cabinet[/b]
 [color=Harlequin]Minister of Law and Justice:[/color] [nation=short]Belvederan Allied Peninsula[/nation] ([color=teal]DLP[/color])
-[color=Jade]Deputy Minister of Justice:[/color] [nation=short]Boniza[/nation] ([color=green]NP[/color])
-[color=leaf]Deputy Minister of Law:[/color] [nation=short]New Jarwel[/nation] ([color=green]NP[/color])
+[color=Jade]Deputy Minister of Justice:[/color] [nation=short]United East Germany[/nation] ([color=red]UMP[/color])
+[color=leaf]Deputy Minister of Law:[/color] [nation=short]New Jarwel[/nation] ([color=teal]DLP[/color])
 
 [color=Lightblue]Minister of War and Roleplay:[/color] [nation=short]Jashfania[/nation] ([color=grey]I[/color])
 [color=PowderBlue]Minister of Foreign Affairs:[/color] [nation=short]Davincia[/nation] ([color=green]NP[/color])
-[color=MediumBlue]Minister of Education:[/color] TBA
+[color=MediumBlue]Minister of Education:[/color] [nation=short]Ravon[/nation] ([color=grey]I[/color])
 [color=Purple]Minister of Labor:[/color] TBA
 
 [color=Pink]Emergency Minister:[/color] TBA

@@ -12,6 +12,8 @@ In Death, Sacrifice
 
 [b]High Constable:[/b] [nation]Tim[/nation]
 
-[b]Warden Commanders:[/b] [nation=short]Deadeye Jack[/nation]
+[b]Chamberlain:[/b] [nation=short]Olevsky[/nation]
 
-[b]Warden-Constables:[/b] [nation=short]Applebania[/nation], [nation=short]Olevsky[/nation], and [nation]Altmoras[/nation]
+[b]Warden Commanders:[/b] [nation=short]Deadeye Jack[/nation] and [nation=short]Altmoras[/nation]
+
+[b]Warden-Constables:[/b] [nation=short]Applebania[/nation]

@@ -1,6 +1,6 @@
 [color=Blue][b]Welcome to Islands![/b][/color]
 [color=Red][b]Liberty,Unity,Solidarity[/b][/color]
-[color=Green][b]RIP Islands (2015-2016)[/b][/color]
+[color=Green][b]RIP [nation=Islands] (2015-2016)[/b][/color]
 [b]Founded on 16th December 2015[/b]
 
 [i]Regional Anthem:[url=https://youtu.be/OM9LxikKCyM]Regional Anthem of Islands[/url][/i]
@@ -17,7 +17,7 @@ PREMIER: [nation=short]Yekateria and Farlandia[/nation][/i]
 [i]COMMUNISYKA:[nation=short]None[/nation][/i]
 
 [i]SPEAKER:[nation=short]Communist British[/nation] [/i]
-[i]STATE DUMA: [nation=Kasnea],[nation=TheWorstNationInTheWorld]
+[i]STATE DUMA: [nation=Kasnea],[nation=TheWorstNationInTheWorld],[nation=Nikoian]
 [/i]         
 [hr]
 [quote=yekateria_and_farlandia;18777988][b][color=Aquablue]Hello! Welcome to Islands!We are open![/color][/b][/quote]
