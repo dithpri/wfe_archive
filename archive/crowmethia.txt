@@ -1,1 +1,11 @@
-[color=navy][b]Crowmethia[/b][/color][hr]
+[hr][list][color=navy][b]Crowmethia[/color][/list][hr][list][color=006400]Empire Region Policy -- Flags[/b]
+[list]
+[*][nation=short]Flag 100[/nation][list]
+- New Regions have this flag. 
+- Rarely do they accept embassy offers.[/list]
+[*][nation=short]Flag 101[/nation][list]
+- Oracle Regions have this flag.
+- These regions do not accept outside embassy offers.[/list]
+[*][nation=short]Flag 102[/nation][list]
+- Matrix Regions have either this flag or have a unique flag of their own.
+- These regions accept all embassy offers.[/list][/list][/list][hr][list][b]NOTE:[/b] Not all region comply with this list at this time.[/list][/color][hr][color=red][b]This region is a DBA Oracle Region -- This Region does not accept embassy offers[/b][/color][hr]

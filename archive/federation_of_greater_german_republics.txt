@@ -1,10 +1,12 @@
 ---[b]Founded 11/12/2015[/b]---
 
-[b]Founder/Kaiser:[/b] [nation=Imperial Germans]
+[b]Founder/Kaiser: [nation=Imperial Germans][/b] 
 
-[b] General of the Federal Army:[/b] [nation=Imperial Germans]
+[b] General of the Federal Army: [nation=Imperial Germans][/b]
 
-[b]Commissioner of Foreign Affairs:[/b] [nation=Kellonville]
+[b]Commissioner of Foreign Affairs: [nation=Kellonville][/b]
+
+[b]Minister of the Interior: [nation=The States of Bavaria][/b]
 
 [color=Green][b]DEFCON 5: Regular Stations[/b][/color]
 [hr]
