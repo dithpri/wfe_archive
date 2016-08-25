@@ -1,7 +1,7 @@
-[b]This region is a territory of [region]The Kingdom of Westminster[/region][/b]
+[b]This region is a territory of [region]The Mystical Council[/region].[/b]
 [hr]
-It welcomes all nations that wish to enter, and is loyal to the Monarch of Westminster.
+It welcomes all nations that wish to enter, and is loyal to the Council of TMC.
 [hr]
 Anyone wishing to join the government contact [nation=short]lampar[/nation].
 [hr]
-[nation=short]New Nagarno[/nation] is the regional officer of this region.
+[nation=short]Exotic Lemon[/nation] is the regional officer of this region.

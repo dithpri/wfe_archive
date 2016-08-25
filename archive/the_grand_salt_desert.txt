@@ -5,6 +5,7 @@ Two nations, one barren warzone between them: The Grand Salt Desert. Soon, other
 [color=orange][u]CHUNGOLIAN[/u][/color]
 [list][*][nation=short]Chungolia[/nation]
 [*][nation=short]Butiblastia[/nation]
+[*][nation=short]Swampalia[/nation]
 [*]-[/list]
 
 [color=teal][u]HURK A DURK DURKIAN[/u][/color]
@@ -15,6 +16,11 @@ Two nations, one barren warzone between them: The Grand Salt Desert. Soon, other
 [color=grey][u]DESERT DWELLER[/u][/color]
 [list][*]ARE U FUKKIN NUTS
 [*]WHO COULD POSSIBLY LIVE THERE
+[*][nation]The Salt Desert Tribes[/nation][/list]
+
+[color=olive][u]UNKNOWN[/u][/color]
+[list][*][nation]The Jimtown[/nation]
+[*]-
 [*]-[/list]
 
-[b][url=http://i.imgur.com/zURaHvh.jpg]CURRENT MAP OF THE GRAND SALT DESERT AND SURROUNDING REGIONS[/url][/b]
+[b][url=http://i.imgur.com/G6JNUMA.jpg]CURRENT MAP OF THE GRAND SALT DESERT AND SURROUNDING REGIONS[/url][/b]

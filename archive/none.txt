@@ -1,12 +1,15 @@
-NNN.N.........NN_____OO____NNN.N........NN___EEEEEEEEE____
-NNN..N........NN____O__O___NNN..N.......NN___EEEEEEEEE____
-NNN....N......NN___O____O__NNN...N......NN___EE___________
-NNN.....N.....NN__O______O_NNN....N.....NN___EEEEEE_______
-NNN.......N...NN__O______O_NNN.....N....NN___EEEEEE_______
-NNN........N..NN___O____O__NNN......N...NN___EE___________
-NNN.........N.NN____O__O___NNN.......N..NN___EEEEEEEEE____
-NNN..........NNN_____OO____NNN........N.NN___EEEEEEEEE____
+[hr][hr]
+Welcome to...
+[color=red]NNN[/color].[color=red]N.........NN[/color]_____[color=orange]OO[/color]____[color=gold]NNN.N........NN[/color]___[color=green]EEEEEEEEE[/color]____[color=blue]!!!!!!!![/color]
+[color=red]NNN[/color]..[color=red]N[/color]........[color=red]NN[/color]____[color=orange]O[/color]__[color=orange]O[/color]___[color=gold]NNN[/color]..[color=gold]N[/color].......[color=gold]NN[/color]___[color=green]EEEEEEEEE[/color]____[color=blue]!!!!!!!![/color]
+[color=red]NNN[/color]....[color=red]N[/color]......[color=red]NN[/color]___[color=orange]O[/color]____[color=orange]O[/color]__[color=gold]NNN[/color]...[color=gold]N[/color]......[color=gold]NN[/color]___[color=green]EE[/color]_______._____[color=blue]!!!!!!!![/color]
+[color=red]NNN[/color].....[color=red]N[/color].....[color=red]NN[/color]__[color=orange]O[/color]______[color=orange]O[/color]_[color=gold]NNN[/color]....[color=gold]N[/color].....[color=gold]NN[/color]___[color=green]EEEEEE[/color]____.___[color=blue]!!!!!!!![/color]
+[color=red]NNN[/color].......[color=red]N[/color]...[color=red]NN[/color]__[color=orange]O[/color]______[color=orange]O[/color]_[color=gold]NNN[/color].....[color=gold]N[/color]....[color=gold]NN[/color]___[color=green]EEEEEE[/color]_______.[color=blue]!!!!!!!![/color]
+[color=red]NNN[/color]........[color=red]N[/color]..[color=red]NN[/color]___[color=orange]O[/color]____[color=orange]O[/color]__[color=gold]NNN[/color]......[color=gold]N[/color]...[color=gold]NN[/color]___[color=green]EE[/color]________________
+[color=red]NNN[/color].........[color=red]N[/color].[color=red]NN[/color]____[color=orange]O[/color]__[color=orange]O[/color]___[color=gold]NNN[/color].......[color=gold]N[/color]..[color=gold]NN[/color]___[color=green]EEEEEEEEE[/color]____[color=blue]!!!!!!!![/color]
+[color=red]NNN[/color]..........[color=red]NNN[/color]_____[color=orange]O[/color][color=orange]O[/color]____[color=gold]NNN[/color]........[color=gold]N[/color].[color=gold]NN[/color]___[color=green]EEEEEEEEE[/color]____[color=blue]!!!!!!!![/color]
 
-We are open to embassies!
+Where there&#39;s absolutely nothing at all! Wow, what a wonderful and unique feature!
 
-Temporarily closed.
+We are open to ALL embassies!
+[hr][hr]
