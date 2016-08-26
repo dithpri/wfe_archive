@@ -2,6 +2,7 @@ Welcome to The Royal Conservative Empire!
 
 Provinces:
 [region]United Alliance of Conservative Nations[/region]
+[region]Royal Alliance of Conservative Nations[/region]
 [Region]Esterton[/region]
 [region]The Mabuhay Region[/region]
 
