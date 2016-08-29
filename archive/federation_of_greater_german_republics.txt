@@ -10,14 +10,15 @@
 
 [color=Green][b]DEFCON 5: Regular Stations[/b][/color]
 [hr]
-[color=red][b]Federal Army [/b][/color]
-[b][color=red] THE FEDERAL ARMY IS NOW ONE UNIT DUE REORGANIZATION LEAD BY THE KAISER, HERE ARE THE NEW OFFICERS[/b][/color]
+[color=red][b]The Federal Army [/b][/color]
 [b][color=red]1st[/color] Federal Army[/b]
 [b]Komandat:[/b] [nation=Imperial Germans]
 [b]Feldwebelleutnant:[/b] [nation=New Hochenschwand]
-[b]-1st Luftfl&uuml;gel Komandat:[/b] [nation=Imperial Germans] [Tier I| He-51]
-[b]-1st Panzer Korp Komandat[/b] [nation=Imperial Germans] [Tier I| Pz.II]
+[b]-1st Luftfl&uuml;gel Komandat:[/b] [nation=Imperial Germans] [Tier I| Ju-87]
+[b]-1st Panzer Korp Komandat[/b] [nation=Imperial Germans] [Tier I| Pz.III C]
  
+[hr]
+If you have a steam account telegram it to [b][nation=Imperial Germans][/b]
 [hr]
 [b]---Bavaria&#39;s Film Central---[/b]
 
