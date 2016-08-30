@@ -2,24 +2,28 @@
 
 [b]Founder/Kaiser: [nation=Imperial Germans][/b] 
 
+[b]Kurf&uuml;rst: [nation=Aederlyrn][/b]
+
 [b] General of the Federal Army: [nation=Imperial Germans][/b]
 
 [b]Commissioner of Foreign Affairs: [nation=Kellonville][/b]
 
 [b]Minister of the Interior: [nation=The States of Bavaria][/b]
 
-[color=Green][b]DEFCON 5: Regular Stations[/b][/color]
 [hr]
 [color=red][b]The Federal Army [/b][/color]
 [b][color=red]1st[/color] Federal Army[/b]
 [b]Komandat:[/b] [nation=Imperial Germans]
 [b]Feldwebelleutnant:[/b] [nation=New Hochenschwand]
-[b]-1st Luftfl&uuml;gel Komandat:[/b] [nation=Imperial Germans] [Tier I| Ju-87]
-[b]-1st Panzer Korp Komandat[/b] [nation=Imperial Germans] [Tier I| Pz.III C]
+[b]-1st Luftfl&uuml;gel Komandat:[/b] [nation=Imperial Germans] 
+[b]-1st Panzer Korp Komandat[/b] [nation=Imperial Germans] 
+
+[color=red][b]Order of Reichsitter[/b][/color]
+[b]Lord of the Reichsitter:[/b] Herr [nation=short]Flerfy Lergs[/nation]
  
 [hr]
 If you have a steam account telegram it to [b][nation=Imperial Germans][/b]
 [hr]
-[b]---Bavaria&#39;s Film Central---[/b]
+[b]---Bavaria&#39;s Lil Fun Corner ---[/b]
 
 [b][url=http://www.nationstates.net/page=dispatch/id=623791]2016 Film Reviews[/url][/b]
