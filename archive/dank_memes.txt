@@ -1,13 +1,24 @@
-[color=gray][b]EVACUATE[/b][/color]
+[b]This Region Has Been Assassinated by the Forces of [region]HYDRA Command[/region]! [u]Endorse your [nation=short]Shock Division 21[/nation], or face ejection.[/u]
 
-[hr]
+[color=#FF8000]Hydra Troops:[/color]
+[color=#BF0000]
+Director [nation=short]Tom Vasentius HYDRA[/nation]
+Deputy Director [nation=short]We Are Not The NSA[/nation]
+General [nation=short]Xesperias[/nation]
+Colonel [nation=short]Haley Ramen[/nation]
+Lieutenant [nation=short]HYDRA Soldier III[/nation]
+Sergeant [nation=short]Vapid Vasentius[/nation]
+Corporal [nation=short]Stretchington[/nation]
+Private [nation=short]Ikania[/nation]
 
-[color=red][b]EVACUATE[/b][/color]
+[region]Firehelm[/region] Troops:
+Lord General [nation=short]Nyx Vasentius[/nation]
+Terror Marine [nation=short]Maun Stegeda[/nation]
 
-[hr]
+[region]Kingdom of Alexandria[/region] Troops:
+Lord Lieutenant Paladin [nation=short]Khronion Denral[/nation]
+Soldier [nation=short]Derexsola[/nation][/color]
 
-[color=orange][b]We are currently refounding. Please evacuate to [region]the Rejected Realms[/region] ASAP. [/b][/color]
 
-[hr]
-
-[color=red][b]EVACUATE[/b][/color]
+Additional support provided by [region]The West Pacific[/region] Armed Forces.
+[hr][color=#FF8000]&quot;Cut off one head, two more will take its place. HAIL HYDRA!&quot;[/color][/b]
