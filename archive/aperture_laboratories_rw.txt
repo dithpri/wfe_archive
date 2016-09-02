@@ -1,8 +1,5 @@
 This is the Portal themed RP hub for [region]Renegade Wolves[/region]!
-Current Event: None
-[color=blue]Time until start of [b]The Courtesy Call[/b]: 1 day
-Please name your test subjects.[/color]
+Current Event: [b]The Courtesy Call[/b]
 ###
 
-ANNOUNCER: &quot;We are currently experiencing technical difficulties due to circumstances of potentially apocalyptic significance beyond our control.
-If you are a non-employee who has discoved this facillity amid the ruins of civilization, welcome! And remember; The future starts with [i]you[/i].&quot;
+ANNOUNCER: &quot;Good morning. You have been in suspension for 999999...&quot;
