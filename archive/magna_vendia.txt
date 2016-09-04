@@ -4,11 +4,10 @@
 
 Vice-Delegate: [nation]Gwelination[/nation]
 Security Officer: [nation]The Belial[/nation]
-Diplomacy Officer:
+Diplomacy Officer: [nation]Fallyr[/nation]
 Communications Officer:
 Research Officer: [nation]The Northern Winter Isles[/nation]
 
-[b]WA Delegate:[/b]
 
 
 [b]Commended members:[/b]

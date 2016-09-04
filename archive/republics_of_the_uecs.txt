@@ -1,0 +1,8 @@
+This is a puppet Region for the Socialist Federation of the UECS for all the various republics contained in the Federation
+Federation: [nation]The United English Communist States[/nation]
+Capital Republic: [nation]Oslonoz-Belgrade[/nation]
+Host of Armed Forces Command: [nation]The Neecray Islands[/nation]
+Host of Diplomatic Corps: [nation]East Requestria[/nation]
+Host of Federal Research Centre: [nation]Slavic Barvria[/nation] 
+
+We are a Federation of Socialist nations united by loyalty to the Federal capital of Belgrade. 
