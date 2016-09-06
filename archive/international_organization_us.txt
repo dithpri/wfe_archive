@@ -6,10 +6,12 @@
 
 [hr]
 
-[color=red]Representative of the Organization to the World Assembly[/color] [nation]ROQUES[/nation] 
+[color=red]Representative of the Organization to the World Assembly[/color] [nation]ROQUES[/nation] , [nation]galaico[/nation] , [nation]dosilica[/nation] 
 [hr]
 
 [b]News of the Organization[/b]
+[hr]
+
 [b]candidates for the post of Minister of Interior and control[/b]
 
 
@@ -17,14 +19,15 @@
 [nation]sofia II[/nation]
 [nation]Galaico[/nation]
 
-
+[hr]
 [b]candidates for the post of Minister of Communication[/b]
 [nation]urdaneta[/nation]
+[hr]
 
-[b]candidates to Vice President[/b]
+[b]Vice President[/b]
 [nation]esteller[/nation]
-[nation]Baralt[/nation]
 
+[hr]
 [b]candidates for the post of Minister of Participation[/b]
 [nation]costas unidas[/nation]
 

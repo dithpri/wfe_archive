@@ -1,17 +1,10 @@
 [i]&quot;Non despice radices arboris.&quot;[/i]
 
-[b]M.V. Positions:[/b]
 
-Vice-Delegate: [nation]Gwelination[/nation]
-Security Officer: [nation]The Belial[/nation]
-Diplomacy Officer: [nation]Fallyr[/nation]
-Communications Officer:
-Research Officer: [nation]The Northern Winter Isles[/nation]
 
 
 
 [b]Commended members:[/b]
-1. -
-2. -
-3. -
-
+-[nation]Gwelination[/nation]
+-[nation]Fallyr[/nation]
+-
