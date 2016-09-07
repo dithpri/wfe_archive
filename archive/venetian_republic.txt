@@ -1,7 +1,13 @@
-[b][color=red]Welcome to the [region]Venetian Republic[/region]![/b][/color] 
+[b][color=red]Welcome to [region]Venetian Republic[/region]![/b][/color] 
 [i]Based on the historic Republic of Venice, [region]Venetian Republic[/region] is a hyperactive, welcoming region with always something going on![/i]
-[hr][b]Doge: [nation=short+noflag]Ludovinco[/nation][/b]
-[b]Advocate:[/b] [i]Vacant[/i]
-[hr][b][color=purple][url=https://discord.gg/5JE7vXa]Regional Chatroom[/url][/b][/color]
+[hr][b][i][color=crimson]The Signoria[/color][/b][/i]
+
+[b][color=purple]Doge:[/color] [nation=short]Ludovinco[/nation][/b]
+[b][color=green]Grand Advocate:[/b][/color] [i]Vacant[/i]
+[b][color=darkorange]Minister Steward:[/b][/color] [i]Vacant[/i]
+[b][color=red]Minister Herald:[/b][/color] [i]Vacant[/i]
+
+
+[hr][b][url=https://discord.gg/5JE7vXa][color=purple]Regional Chatroom[/color][/url][/b]
 [hr][b]NOTICES:[/b][*][region]Venetian Republic[/region] founded, [nation=short]Ludovinco[/nation] declared as Doge.
 [*] Discord server established. Join it [b][url=https://discord.gg/5JE7vXa]here[/url][/b]
