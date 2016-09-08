@@ -1,9 +1,11 @@
-[b]V&auml;lkommen, Thank you for visiting Sweden![/b]
-[u]Welcome to Sweden, the home of meatballs, Zlatan and beautiful IKEA furniture!
+[color=green][b]V&auml;lkommen, Thank you for visiting Sweden![/color]
 
-Please, establish embassies, come and visit and visit and move here if you&#39;d like, you&#39;d be very welcome here.
+[color=blue]Welcome to Sweden, the home of meatballs, Zlatan and beautiful IKEA furniture![/color]
 
-Thanks for visiting Sweden![/u]
+[u][color=Magenta]Please, establish embassies, come and visit and visit and move here if you&#39;d like, you&#39;d be very welcome here.[/color]
+
+Thanks for visiting Sweden![/u][/b]
+
 
 [b][color=red] Due to some security concerns, this region is placed under high security alert. 
 So any nation who wants to enter this region please move to [region]Swedish Empire[/region] and wait there.[/b][/color] 

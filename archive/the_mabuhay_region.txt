@@ -1,8 +1,7 @@
-[color=blue]Good day! Thank you for visiting [region]The Mabuhay Region[/region]. We are a province of the [region]The Royal Conservative Empire[/region].[/color]
-[hr][color=red]Announcements
-- Cancellation of the Mabuhay International Film Festival because of the typhoon in the Mabuhay Metrodistrict
-- Elermerialic is now the Apperance and Communications Officer!
+[color=blue][b]Good day! Thank you for visiting [region]The Mabuhay Region[/region]. We are a province of the [region]The Royal Conservative Empire[/region].[/b][/color]
+[hr][color=red][b]Announcements[/b]
+- [b]DEFCON 5[/b]: Please evacuate to the capital, we will go back if the national security is restored.
 [/color]
-[hr][color=lightgreen]Useful Links
+[hr][color=lightgreen][b]Useful Links[/b]
 - [url=https://discordapp.com/channels/215842893934362624/215842893934362624]Discord Chat[/url][/color]
 

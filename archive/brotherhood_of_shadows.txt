@@ -1,7 +1,9 @@
-[b]This region has been secured and will be guarded by the forces of [region]Firehelm[/region] and [region]Hydra Command[/region] in the name of Raider Unity. All incoming foreign intruders will be used as material for the new raider temple that is being built here.
+[b]This former raider region now under the protection of [region]Hydra Command[/region] and [region]Firehelm[/region] in the name of raider unity.[/b]
 
-[u]Troops involved:[/u]
-Colonel [nation=short]Kyorgia_is_awesome[/nation]
-Terror Marine [nation=short]Hehope[/nation]
-Terror Marine [nation=short]Warbroken[/nation]
-Conscript [nation=short]Maun_Stegeda[/nation][/b]
+
+[color=#708090][b]Former High Command of BoSS[/b][/color]
+[color=#B22222][b]Grandmaster: [nation=short]Eliot Isaraider II[/nation]
+Generals: [nation=short]Tom Vasentius HYDRA[/nation]
+Knight of the Imperial Dragon: [nation=short]Sygian II[/nation][/color][/b]
+
+[b][color=#820202]Hail [nation=short]Kyorgia[/nation] Protector of the Region![/color][/b]
