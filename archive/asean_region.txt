@@ -11,7 +11,7 @@
 [list][b]| [nation=short]The Democratic Peoples Republic of Laos[/nation] | [color=teal]Permanent Member[/color] |
 | [nation=short]Hindia Belanda[/nation] | [color=teal]Permanent Member[/color] |
 | [nation=short]National Committee of Elections[/nation] | [color=teal]Revolving Member[/color] |
-| [nation=short]Spot Open[/nation] | [color=teal]Revolving Member[/color] | 
+| [nation=short]Open Spot[/nation] | [color=teal]Revolving Member[/color] | 
 | [nation=short]Open Spot[/nation] | [color=teal]Revolving Member[/color] | [/list][/b][hr]
 
 [color=Teal][b][u]Regional News[/u][/b][/color]
