@@ -5,7 +5,6 @@
 [Region]Velikiy Slaviya[/region]
 [Region]The Commonwealth of Kus[/region]
 [Region]United Yugoslav Republics[/region]
-[Region]The Balkan Empire[/region]
 
 [u]Observer regions:[/u]
 [/b]
