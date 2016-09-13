@@ -1,9 +1,9 @@
-Welcome to FORGE, or [u]F[/u]ederation of [u]O[/u]rganised [u]R[/u]egions for [u]G[/u]lobal [u]E[/u]nlightenment, an alliance of regions. This region serves as it&#39;s headquarters. Currently it&#39;s members are the [region=LCRUA], [region=Superiorem Merionem Region], [region=New Montreal] and [region=United Countries of NationStates].
+Welcome to FORGE, or [u]F[/u]ederation of [u]O[/u]rganised [u]R[/u]egions for [u]G[/u]lobal [u]E[/u]nlightenment, an alliance of regions. This region serves as it&#39;s headquarters.
 
-[hr]
+[b]Members: Representatives[/b]
+[region=LCRUA]: [nation=short]Syadei[/nation], [nation=short]Condealism[/nation], [nation=short]New Hoshido[/nation]
+[region=Superiorem Merionem Region]: [nation=short]Demon Catz[/nation], [nation=short]The CheeseBurgian State[/nation], [nation=short]Godly Archangels[/nation]
+[region=New Montreal]: [nation=short]Unpronouncability[/nation], [nation=short]Lisastia[/nation]
+[region=United Countries of NationStates]: [nation=short]United_Tip[/nation], [nation=short]Super_Soviet_Spooky_Spiders[/nation], [nation=short]Jiyole[/nation]
+[region=Dragon Clan]: [nation=short]KingDragon[/nation], [nation=short]Lower_Wales[/nation]
 
-[b]Representatives[/b]
-LCRUA: [nation=short]Syadei[/nation], [nation=short]Condealism[/nation], [nation=short]New Hoshido[/nation]
-Superiorem Meriorem Region: [nation=short]Demon Catz[/nation], [nation=short]The CheeseBurgian State[/nation], [nation=short]Godly Archangels[/nation]
-New Montreal: [nation=short]Unpronouncability[/nation], [nation=short]Lisastia[/nation], [nation=short]DollarddesOrmeaux[/nation]
-United Countries of NationStates: [nation=short]United_Tip[/nation], [nation=short]Super_Soviet_Spooky_Spiders[/nation], [nation=short]Jiyole[/nation]
