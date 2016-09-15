@@ -1,14 +1,9 @@
-[b][color=black]This region has been assassinated by the champions of [region]HYDRA Command[/region]![/color]
+[b][color=black]This region has been revived by the champions of [region]Ryville Isles[/region]![/color]
 
-[i][color=darkred]Cut off one head, and two more shall take its place! HAIL HYDRA![/color][/i]
 
 [color=#DAA520]Troops:[/color]
 [color=#B22222]
-Sergeant: [nation=short]Vapid Vasentius[/nation]
-Colonel: [nation=short]Haley Ramen[/nation]
-Lieutenant: [nation=short]Hydra Soldier III[/nation]
-Sergeant: [nation=short]Scieca[/nation][/color]
+Leader: [nation=short]Ryville Isles[/nation]
+[/color]
 
-[color=red]Boss robbed me of a days pay.. I will rob them of a days labor![/color]
-
-[url=https://www.youtube.com/watch?v=mjlVkWwhHbE]Workers of the world unite![/url][/b]
+[color=red]Equality for everyone![/color]
