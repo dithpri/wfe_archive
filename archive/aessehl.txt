@@ -1,11 +1,12 @@
 The [color=blue]Aessehlite Trade Union[/color] is headed by the [color=yellow]Hessian Empire[/color], which controls the Saestean, Phiagontithian, Dhelfurlainian, Sasnophrainian, Vairnialtaian, and Iostrepherean Star Systems.
 
 Its official members are:
-   [list][*][color=silver]The Candoi of Selcanna[/color]
-   [*][color=orange]The Chygunn of Kruehshyrc[/color]
-   [*][color=green]The Free Streonians[/color]
-   [*][color=purple]The Kryddiq Consortium[/color]
-   [*][color=gold]The Zaazixi Ninkos Empire[/color]
-   [*][color=indigo]Klaeh&#39;a of Uyk&#39;alk[/color]
-   [*][color=bronze]The Synthetics of Sheridan Prime[/color]
-   [*][color=magenta]The Flitsi of Hashepha[/color][/list]
+   [list][*][color=silver]The Candoi of Selcanna[/color] ([nation]Selcanna[/nation])
+   [*][color=orange]The Chygunn of Kruehshyrc[/color] ([nation]Caetrrt[/nation])
+   [*][color=blue]The Brastrimyx of Jalpih[/color] ([nation]Pelarc[/nation])
+   [*][color=green]The Royal Elyakaneans[/color] ([nation]Elyakane[/nation])
+   [*][color=purple]The Kryddiq Consortium[/color] ([nation]Kryddiq Consortium[/nation])
+   [*][color=gold]The Zaazixi Ninkos Empire[/color] ([nation]Inniloshi[/nation])
+   [*][color=indigo]Klaeh&#39;a of Uyk&#39;alk[/color] ([nation]Kutryr[/nation])
+   [*][color=bronze]The Synthetics of Sheridan Prime[/color] ([nation]Sheridan Prime[/nation])
+   [*][color=magenta]The Flitsi of Hashepha[/color] ([nation]Niesh[/nation])[/list]
