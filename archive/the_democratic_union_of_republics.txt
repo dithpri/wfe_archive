@@ -1,20 +1,21 @@
-|[url=http://www.nationstates.net/page=dispatch/id=667040]Regional Map[/url]|[url=https://www.nationstates.net/page=dispatch/id=671956]Constitution[/url]|[url=https://www.nationstates.net/page=dispatch/id=686207]Regional Government Factbook[/url]|[url=https://www.nationstates.net/nation=north_libya/detail=factbook/id=686589]Political Parties[/url]|
+|[url=http://www.nationstates.net/page=dispatch/id=667040]Regional Map[/url]|[url=https://www.nationstates.net/page=dispatch/id=671956]Constitution[/url]|[url=https://www.nationstates.net/nation=north_libya/detail=factbook/id=686589]Political Parties[/url]|
 [hr][color=blue]Welcome[/color] [color=Viridian]to[/color] [color=Thistle]The[/color] [color=Orchid]Democratic[/color] [color=Heliotrope]Union[/color] [color=Eminence]of[/color] [color=purple]Republics![/color]
 [hr][b]Executive Government[/b] 
-[color=red]Founder:[/color] [nation=short]North Libya[/nation] ([color=red]UMP[/color]) 
-[color=orange]WA Delegate:[/color] [nation=short]Vardaskaa[/nation] ([color=yellow]PP[/color])
-[color=yellow]Vice-Delegate:[/color] [nation=short]Davincia[/nation] ([color=green]NP[/color])
+[color=red]Founder:[/color] [nation=short]North Libya[/nation] 
+[color=orange]WA Delegate:[/color] [nation=short]Vardaskaa[/nation] 
+[color=yellow]Vice-Delegate:[/color] [nation=short]Davincia[/nation] 
 [hr][b]Cabinet[/b]
-[color=Harlequin]Minister of Law and Justice:[/color] [nation=short]Belvederan Allied Peninsula[/nation] ([color=teal]DLP[/color])
-[color=Jade]Deputy Minister of Justice:[/color]  [nation=short]New Boniza[/nation] ([color=green]NP[/color])
-[color=leaf]Deputy Minister of Law:[/color] [nation=short]The Peoples Republic of Pacifica[/nation] ([color=teal]DLP[/color])
+[color=Harlequin]Minister of Law and Justice:[/color] [nation=short]Belvederan Allied Peninsula[/nation] 
+[color=Jade]Deputy Minister of Justice:[/color]  [nation=short]New Boniza[/nation] 
+[color=leaf]Deputy Minister of Law:[/color] [nation=short]The Peoples Republic of Pacifica[/nation] 
 
-[color=Lightblue]Minister of War and Roleplay:[/color] [nation=short]Jashfania[/nation] ([color=grey]I[/color])
-[color=PowderBlue]Minister of Foreign Affairs:[/color] [nation=short]Revitallia[/nation] ([color=grey]I[/color])
-[color=MediumBlue]Minister of Education and Health:[/color] [nation=short]The-Sands[/nation] ([color=grey]I[/color])
-[color=Purple]Minister of Labor and Development:[/color] [nation=short]Ravon[/nation] ([color=grey]I[/color])
+[color=Lightblue]Minister of War and Roleplay:[/color] [nation=short]Jashfania[/nation] 
+[color=PowderBlue]Minister of Homeland Defense and Security:[/color] [nation=short]United East Germany[/nation] 
+[color=MediumBlue]Minister of Foreign Affairs:[/color] [nation=short]Revitallia[/nation] 
+[color=DarkBlue]Minister of Education and Health:[/color] [nation=short]The-Sands[/nation] 
+[color=Purple]Minister of Labor and Development:[/color] [nation=short]Ravon[/nation] 
 
-[color=Pink]Historian:[/color] [nation=short]Agregate[/nation] ([color=grey]I[/color])
+[color=Pink]Historian:[/color] [nation=short]Agregate[/nation] 
 [hr]
 Defcon: [color=green]1[/color]|[color=lime]2[/color]|[color=yellow]3[/color]|([color=orange]4[/color])|[color=red]5[/color]|
 [spoiler=Important Links][url=https://discordapp.com/channels/220678739690782720] Discord Channel[/url]

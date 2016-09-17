@@ -10,7 +10,7 @@ Old UAN Founded on 2 April, 2015.[/color]
 
 [b][u]Regional Representatives[/u][/b]
 
-[u]Asia:[/u] [nation]great republica[/nation]
+[u]Asia:[/u] (pending)
 [u]Africa:[/u] [nation]Mutigland[/nation]
 [u]North America:[/u] [nation]New Dionastan[/nation]
 [u]South America:[/u] [nation]Grande Rojo[/nation]
@@ -19,7 +19,9 @@ Old UAN Founded on 2 April, 2015.[/color]
 
 [b][u]Court Justices[/u][/b]
 
-[u]Chief of Courts:[/u] [nation]Vaikneland[/nation]
+[u]Chief of Courts:[/u] 
+
+[nation]Vaikneland[/nation]
 
 [nation]The_Central_Shadow_Nation[/nation]
 
