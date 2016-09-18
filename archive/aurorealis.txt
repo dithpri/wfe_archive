@@ -14,4 +14,4 @@
 
 [color=teal][i]Regional Notices[/i][/color]
 
-[list][*][color=teal]Please endorse the Prime Minister, [nation]Segentaea[/nation]![/color][/list]
+[list][*][color=teal]Please endorse the Prime Minister, [nation=short]Segentaea[/nation]![/color][/list]

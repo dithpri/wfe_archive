@@ -1,8 +1,15 @@
 [color=gold][b][u]welcome to the tilean quick start page[/b][/u][/color]
 
 welcome to the tilean quick start page your easy way to get around your region.
-[b][u]-[url=https://www.nationstates.net/page=dispatch/id=691202] try our full Factbook for a quick guide to all of our regional information[/url]
--[url=https://www.nationstates.net/page=display_region_rmb/region=tilea]try our reginal message board your quick way to communicate with your regional friends[/url]
--[url=https://www.nationstates.net/page=activity/view=region.tilea]see our activity board to find out what is going on in your region[/url][/b][/u]
--to find out more about warhammer try the [url=https://en.wikipedia.org/wiki/Warhammer_Fantasy]Wikipedia page(click on the first link)[/url]
+
+[b][u]-[url=https://www.nationstates.net/page=dispatch/id=691202][color=blue]try our full Factbook for a quick guide to all of our regional information[/color][/url]
+
+-[url=https://www.nationstates.net/page=display_region_rmb/region=tilea][color=blue]try our reginal message board your quick way to communicate with your regional friends[/color][/url]
+
+-[url=https://www.nationstates.net/page=activity/view=region.tilea][color=blue]see our activity board to find out what is going on in your region[/color][/url]
+
+-[url=https://www.nationstates.net/page=list_nations/region=tilea?censusid=0][color=blue]see the world census page for tilea to find out more about this region[/color][/url]
+
+also try[/b][/u]
+-[url=https://tilea-nation-state-resources.blogspot.co.uk/p/blog-page.html]a quick way to find out about warhammer (if you know nothing about it is the wikipedia page(click on the link)[/url] (to get their without javascript click the first page [url=https://en.wikipedia.org/wiki/Warhammer_Fantasy]here[/url])
 -a guide to waging wars in tilea will also be coming sometime soon
