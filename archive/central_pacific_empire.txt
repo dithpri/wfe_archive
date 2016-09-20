@@ -7,7 +7,7 @@
 [b]Prime Minister[/b] - [nation=shortname]New Nationale Einheit[/nation]
 [b]Deputy PM and Minister of Interior[/b] - [nation=shortname]Conta[/nation] 
 [b]Minister of Foreign Affairs[/b] - [nation=shortname]Kasinox[/nation]
-[b]Minister of Defense[/b] - [nation=shortname]Georgiaville[/nation]
+[b]Minister of Defense[/b] - [nation=shortname]Cylthropia[/nation]
 [b]Minister of Recruitment[/b] - [nation=shortname]The Intergalactic Universe Corporation[/nation]
 [b]Minister of Justice[/b] - [nation=shortname]Queerlone[/nation]
 
