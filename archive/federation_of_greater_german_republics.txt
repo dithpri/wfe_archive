@@ -4,15 +4,14 @@
 
 [b]Kurf&uuml;rst: [nation=short]Aederlyrn[/nation][/b]
 
-[b] General of the Federal Army: [nation=short]Imperial Germans[/nation][/b]
+[b]Lord Inquisitor: Herr [nation=short]The States of Bavaria[/nation][/b]
 
-[b]Commissioner of Foreign Affairs: [nation=short]Kellonville[/nation][/b]
+[b]General of the Federal Army: Herr [nation=short]New Hochenschwand[/nation]
 
-[b]Minister of the Interior: [nation=short]The States of Bavaria[/nation][/b]
-
+Commissioner of Foreign Affairs: [nation=short]Kellonville[/nation][/b]
 [hr]
 [b][color=red]1st[/color] Federal Army[/b]
-[b]Komandat:[/b] [nation=New Hochenschwand]
+[b]Komandat:[/b]  Herr [nation=short]New Hochenschwand[/nation]
 
 [color=red][b]Order of [url=https://www.nationstates.net/page=dispatch/id=684314]Reichsritter[/url][/b][/color]
 [b]Lord of the Reichsritter:[/b] Herr [nation=short]Flerfy Lergs[/nation]
