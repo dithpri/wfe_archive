@@ -1,25 +1,21 @@
-[floatright][box][center][b]Weimar Republic of Germany[/b]
-[hr]
-
-INSERT FLAG HERE
-[b][/b]
+Weimar Republic of Germany
 [hr]
 
 [b]Motto:&quot;Ein Volk, ein Reich, ein F&uuml;hrer&quot;[/b]
 [hr]
 
-Endorse /[nation=short]Humberistan[/nation] for WA Delegate
+Endorse [nation=short]Humberistan[/nation] for WA Delegate
 
 
-[b]Capital:Berlin[/b]
-[b]Largest City:Berlin[/b] 
+[b]Capital: Berlin[/b]
+[b]Largest City: Berlin[/b] 
 [hr]
 
-[b]Official Language:English[/b] 
+[b]Official Language: English[/b] 
 [hr]
-[b]National Language:German[/b] 
+[b]National Language: German[/b] 
 [hr]
-[b]Demonym:Germans[/b]
+[b]Demonym: Nazi[/b]
 [hr]
 
 [b]Government:[/b] 
