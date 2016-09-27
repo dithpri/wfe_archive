@@ -1,11 +1,21 @@
-Colony of the [region]Renegade Wolves[/region]
+[color=#00FF00]Colony of the[/color] [region]Renegade Wolves[/region]
 
-There is no emotion, there is peace.
-There is no ignorance, there is knowledge.
-There is no passion, there is serenity.
-There is no chaos, there is harmony.
-There is no death, there is the Force.
+[color=#00FFFF]There is no emotion, there is peace.[/color]
+[color=#00FFFF]There is no ignorance, there is knowledge.[/color]
+[color=#00FFFF]There is no passion, there is serenity.[/color]
+[color=#00FFFF]There is no chaos, there is harmony.[/color]
+[color=#00FFFF]There is no death, there is the Force.[/color]
 
-This is the code we live by. The code on which our order was built. Long ago, on the home planet of the Jedi, Tython, an entire civilization of Jedi lived together in peace and harmony, following this code.
+[color=#0000FF]This is the code we live by. The code on which our order was built. Long ago, on the home planet of the Jedi, Tython, an entire civilization of Jedi lived together in peace and harmony, following this code.[/color]
 
-We are the defenders of all that is good, the righteous peacekeepers of the light side.
+[color=#8000FF]We are the defenders of all that is good, the righteous peacekeepers of the light side.[/color]
+
+[u][color=#00FF00]Council Positions[/color][/u]
+
+[color=#00FFFF]Grand Master:[/color] [nation]NewJediOrder[/nation]
+
+[color=#00FFFF]Jedi Masters:[/color] [nation]Renegade Jedi[/nation]
+
+[color=#00FFFF]Jedi Knights:[/color]
+
+[color=#00FFFF]Padawans:[/color]
