@@ -12,7 +12,7 @@ Administrative Officials:[/color] TBA
 [color=red]Prime Minister:[/color][nation=short]Abdoa[/nation]
 
 [color=orange]MoD:[/color]TBA
-[color=orange]MoJ:[/color]TBA
+[color=orange]MoJ:[/color][nation=short]Hashkin[/nation]
 [color=orange]MoW:[/color][nation=short]The North Region of Westeros[/nation]
 [color=orange]MoC:[/color][nation=short]junastria[/nation]
 [hr]
