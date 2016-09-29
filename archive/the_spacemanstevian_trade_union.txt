@@ -1,7 +1,19 @@
 [b]Welcome members of the SpacemanStevian Trade Union, where Steve-Practicing nations such as yourself gather to discuss trade and politics. Enjoy your membership, for we offer protection and economic aid to those who request it. [/b]
 
-[b]Trade Union Founder-[/b]
-SpacemanSteveInc
+[b]Trade Union Founder and Director of Defense and Security-[/b]
+[nation]SpacemanSteveInc[/nation]
 
-[b]Trade Union President-[/b]
-SpacemanSteve
+[b]Trade Union President and Ambassador to the SRB-[/b]
+[nation]SpacemanSteve[/nation]
+
+[b]Trade Union Director Of Religion and Beliefs-[/b]
+[nation]HolySpacemanSteve[/nation]
+
+[b]Trade Union Director of Commerce and Trade[/b]
+[nation]SpacemanSteveOrigin[/nation]
+
+[b]Trade Union Director of Intelligence and Operations-[/b]
+[nation]Confederate SpacemanSteve[/nation]
+
+[b]Director of the Treasury-[/b]
+[nation]SpacemanSteve2[/nation]
