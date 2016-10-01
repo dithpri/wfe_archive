@@ -1,10 +1,12 @@
 [b][color=red]&middot; W E L C O M E &middot; T [/color][color=blue]O &middot; S L A V A N I A &middot;[/color]
-[hr][color=red]We are a Slavic region, but our doors are open to nations of all kinds. Feel free to introduce yourself![/color]
+[hr][color=red]We are a Slavic region, but our doors are open to nations of all kinds. Feel free to introduce yourself!
+Ask [nation=short]Carartia[/nation] for a place on the map![/color]
 [hr][color=blue][u]ANNOUNCEMENTS[/u][/color]
 [color=red]&#149; Slavania has been refounded after nearly a years&#39; time! We are currently recruiting former &amp; new members (ask [nation=short]Carartia[/nation] for details).
 &#149; As [nation=short]Lerrenia[/nation] is currently unable to serve as WA Delegate and has been appointed Prime Minister temporarily, please endorse [nation=short]Carartia[/nation] for regional stability.[/color]
 
 [u][color=blue]LINKS[/color][/u]
+[url=http://i.imgur.com/Caqsvxy.png]Map[/url]
 [url=http://slavania.boards.net]Forums[/url]
 [url=https://client01.chat.mibbit.com/?server=irc.esper.net&amp;channel=%23Slavania]Chatroom[/url]
 [url=http://www.timeanddate.com/worldclock/fullscreen.html?n=1440]Clock[/url]
@@ -15,7 +17,7 @@
 [color=red]Prime Minister &#150;[/color] [nation=short]Lerrenia[/nation]
 [color=blue]Minister of Foreign Affairs &#150;[/color] Vacant
 [color=red]Minister of the Army &#150;[/color] [nation=short]Vasilinople[/nation]
-[color=blue]Minister of Culture &#150;[/color] Vacant
+[color=blue]Minister of Culture &#150;[/color] [nation=short]Arctica-Aleutia[/nation]
 [color=red]Minister of Security &#150;[/color] Vacant
 
 [color=blue][u]ROLEPLAYS[/u][/color][/b]
