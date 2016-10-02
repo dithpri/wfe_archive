@@ -6,6 +6,7 @@
 [Region]The Commonwealth of Kus[/region]
 [Region]United Yugoslav Republics[/region]
 [region]Alliance of Neighboring Countries[/region]
+[region]Slavania[/region]
 
 [u]Observer regions:[/u]
 [/b]

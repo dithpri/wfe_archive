@@ -6,18 +6,10 @@
 [list][b]| [nation=short]Marked56[/nation] | [color=teal]King[/color] |
 | N/A | [color=teal]President[/color] |[/list][/b]
 
-[b][u][color=teal]National Legislative Assembly:[/b][/u][/color]
-
-[list][b]| [nation=short]The Democratic Peoples Republic of Laos[/nation] | [color=teal]Permanent Member[/color] |
-| [nation=short]Hindia Belanda[/nation] | [color=teal]Permanent Member[/color] |
-| [nation=short]National Committee of Elections[/nation] | [color=teal]Revolving Member[/color] |
-| [nation=short]Jeevenaadu[/nation] | [color=teal]Revolving Member[/color] | 
-| [nation=short]Chip Ross[/nation] | [color=teal]Revolving Member[/color] | [/list][/b][hr]
-
 [color=Teal][b][u]Regional News[/u][/b][/color]
 
 [b]| N/A |
-| [color=teal][url=https://forum.nationstates.net/viewtopic.php?f=7&amp;t=382981]Science Olympiad[/url] [/color]| [color=teal][url=https://forum.nationstates.net/viewtopic.php?p=29043314#p29043314]Olympics Results[/url][/color] | [url=https://forum.nationstates.net/viewtopic.php?f=4&amp;t=382079]NLA Forum[/url] |[/b][hr]
+| [color=teal][url=https://forum.nationstates.net/viewtopic.php?f=7&amp;t=382981]Science Olympiad[/url] [/color]| [color=teal][url=https://forum.nationstates.net/viewtopic.php?p=29043314#p29043314]Olympics Results[/url][/color] | [/b][hr]
 
 [color=teal][b][u]Quick Links[/u][/b][/color]
 
