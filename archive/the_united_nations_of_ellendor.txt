@@ -1,7 +1,6 @@
  Any nation can call an election for Head of Government to oppose the current party. [b]Every Month There Will Be An Election[/b] 
 [I][b]List of Political Parties[/b][/I]
--[i]The Conservative Party[/i] - [nation]Halling[/nation] - Rt. Hon. Francis Urquhart - Majority Government - Blue
--[i]The Popularis Party[/i] - [nation]The Isle of Eolas[/nation] - Hon. Richard Labrador - Official Opposition - Maroon
--[I]The Fascist Party[/I] - [nation]Foxxon[/nation] - Hon. High Preist Nightingale - Orange
--[I]The Femmi-Nazi Party[/I] - [nation]Frosca[/nation] - Hon. Rickelle Harrison - Pink
--[i]The Communist Party[/i] - [nation]The Mun[/nation] - Hon. Freddie Moho - Red
+-[i]The Conservative Party[/i] - [nation]Halling[/nation] - Rt. Hon. Francis Urquhart - Minority Government - Blue
+-[i]The Popularis Party[/i] - [nation]The Isle of Eolas[/nation] - Hon. Richard Labrador - Maroon
+-[I]The Femmi-Nazi Party[/I] - [nation]Frosca[/nation] - Hon. Rickelle Harrison - Official Opposition - Pink
+-[i]The Communist Party[/i] - [nation]The Mun[/nation] - Hon. Freddie Moho - Minority Government - Red

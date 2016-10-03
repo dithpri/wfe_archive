@@ -6,7 +6,7 @@
 [color=yellow]Vice-Delegate:[/color] [nation=short]Yorkistan[/nation] 
 [hr][b]Cabinet[/b]
 [color=Harlequin]Minister of Law and Justice:[/color] [nation=short]The Peoples Republic of Pacifica[/nation] 
-[color=Jade]Deputy Minister of Justice:[/color]  TBA
+[color=Jade]Deputy Minister of Justice:[/color]  [nation=short]Agregate[/nation]
 [color=leaf]Deputy Minister of Law:[/color] [nation=short]New Jarwel[/nation]
 
 [color=Lightblue]Minister of War and Roleplay:[/color] [nation=short]Jashfania[/nation] 
@@ -15,7 +15,7 @@
 [color=DarkBlue]Minister of Education and Health:[/color] [nation=short]The-Sands[/nation] 
 [color=Purple]Minister of Labor and Development:[/color] [nation=short]Ravon[/nation] 
 
-[color=Pink]Historian:[/color] [nation=short]Agregate[/nation] 
+[color=Pink]Historian:[/color] TBA
 [hr]
 Rp Year:[color=Blue] January 2017 [/color]
 This will change every month.
