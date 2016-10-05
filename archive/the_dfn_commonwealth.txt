@@ -1,18 +1,1 @@
-[b][color=darkorange]The DFN Commonwealth is an association of regions under the jurisdiction of [region]The Japerican Imperial Commonwealth[/region], consider relocating to [region]Japerica[/region] today! ^_^
-
-Colonies:
-[region]The Democratic Federation of Nations[/region]
-[region]The Federation of Democratic Nations[/region]
-[region]The United Earth Federation[/region]
-[region]The United Mars Federation[/region]
-[region]The Confederate Nations of West Pacific[/region]
-[region]Anglia[/region]
-
-Staff:
-[nation]Pacertopia[/nation]
-[nation]Landgraabland[/nation]
-[nation]Plumbland[/nation]
-[nation]Richington[/nation]
-[nation]North Lee[/nation]
-[nation]South Lee[/nation]
-[nation]Wolfman[/nation][/color][/b]
+TBD
