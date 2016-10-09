@@ -4,5 +4,7 @@
 [nation=short]Alpha_Wolf[/nation]
 [nation=short]Adesiem[/nation]
 [nation=short]Glacial_Freeze[/nation]
-
+[nation=short]Foxz[/nation]
+[nation=short]New_Sethtopia[/nation]
+[nation=short]Western_Forestavia[/nation]
 [/b][/color]

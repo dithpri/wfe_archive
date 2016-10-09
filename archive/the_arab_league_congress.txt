@@ -1,7 +1,9 @@
 We are [color=green]The Arab League Congress[/color]. A social, political, and economic union of Arab states. We are committed to the betterment of the lives of Arab and World peoples, and we are devoted to the cultivation of a healthy democracy in our beloved region. All voices are welcomed and will be heard, all faiths, all beliefs, are accepted here. Welcome to the ARAB LEAGUE!
 Please read our explicit and extensive constitution, and vote in our elections!
+[hr]
 
 [u][b]Government[/b][/u]
+[b]Executive[/b]
 President: [nation]Hatay[/nation]
 Secretary-General: [i]Pending Election[/i]
 [b]Shura Council[/b]
@@ -13,3 +15,4 @@ Secretary-General: [i]Pending Election[/i]
 [b]Judicary[/b]
 Chief Hakim:
 Junior Hakims:
+Grand Mufti:
