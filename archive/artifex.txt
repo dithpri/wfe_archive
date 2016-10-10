@@ -1,6 +1,9 @@
 [b]Welcome to Artifex![/b]
 
-The region of Artifex consists of three main islands: North: [nation=short]Vaskia[/nation] Centre: [nation=short]Vuo[/nation] And south: [nation=short]Aegiasea[/nation].
-These islands are surrounded by smaller islands such as: [nation=short]Vaskland[/nation] and [nation=short]Vuosia[/nation].
+The region of Artifex consists of three main islands: 
+North: [nation=short]Vaskia[/nation] 
+Centre: [nation=short]Vuo[/nation] 
+And south: [nation=short]Aegiasea[/nation].
+These islands are surrounded by smaller islands such as [nation=short]Vaskland[/nation] and [nation=short]Vuosia[/nation].
 
-Artifex is peaceful place where art, skill and creativity are respected.
+Artifex is a peaceful place where art, skill and creativity are respected.

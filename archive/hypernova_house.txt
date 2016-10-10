@@ -7,4 +7,7 @@
 [nation=short]Foxz[/nation]
 [nation=short]New_Sethtopia[/nation]
 [nation=short]Western_Forestavia[/nation]
-[/b][/color]
+[nation=short]Serbaun[/nation]
+
+Natives kicked: [/color]4
+[/b]

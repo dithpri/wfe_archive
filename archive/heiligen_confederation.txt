@@ -18,7 +18,6 @@ New people can choose two regions their first turn.
 [*][nation=shortnoflag]Swaggernia[/nation]
 [*][nation=shortnoflag]Dicton[/nation]
 [*][nation=shortnoflag]Starchizeordia[/nation]
-[*][nation=shortnoflag]Aryanandia[/nation]
 [/list]
 
 [i]Choose on the RBM[/i]
