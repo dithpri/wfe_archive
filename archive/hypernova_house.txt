@@ -9,5 +9,5 @@
 [nation=short]Western_Forestavia[/nation]
 [nation=short]Serbaun[/nation]
 
-Natives kicked: [/color]7
+Natives kicked: [/color]12
 [/b]
