@@ -7,4 +7,6 @@ Purple=
 Pink=
 Orange=BalorKingdom
 Brown=Ablankan
-Gray=Unclaimed Land
+Green=
+Light Blue=
+Gray= Unclaimed Land

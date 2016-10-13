@@ -1,6 +1,10 @@
-The regional military of the [region]Congres de Saint Imier[/region]
+The [b][color=red]Red and[/color] [color=black]Black Armies[/color][/b] is the regional army of the [region]Congres de Saint Imier[/region].
+
+To enter this region, please telegram Commander [nation=short]Galitania[/nation] on your main nation, and he will give you the password.
+
 [hr]
 
-[b]Officers[/b]:
+[i]Commanders[/i]
 
-Commander of the Red and Black Armies: [nation]Galitania[/nation]
+[b]Commander[/b]: [nation=short]Galitania[/nation]
+[b]Lieutenant-Commander[/b]: [nation=short]Peoples Republic of North Lintonia[/nation]

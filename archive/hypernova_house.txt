@@ -1,4 +1,4 @@
-[b][color=purple]This region now belongs to the [i][u]Kingdom[/i][/u] of [region]Renegade Wolves[/region]! We have been victorious in battle once again! Our brothers from the [region]Greater Reformed Soviet Union[/region] and the [region]KAISERREICH[/region] are here joining us in battle. Three great regions working together as one to achieve one goal.
+[b][color=purple]This region now belongs to the [i][u]Kingdom[/i][/u] of [region]Renegade Wolves[/region]! We have been victorious in battle once again! Our brothers from the [region]Greater Reformed Soviet Union[/region],[region]KAISERREICH[/region],and [region]Imperium of the Wolf[/region] are here joining us in battle. Three great regions working together as one to achieve one goal.
 
 [u]Troops[/u]
 [nation=short]Alpha_Wolf[/nation]
@@ -9,5 +9,5 @@
 [nation=short]Western_Forestavia[/nation]
 [nation=short]Serbaun[/nation]
 
-Natives kicked: [/color]12
+Natives kicked: [/color]15
 [/b]
