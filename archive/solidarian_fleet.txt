@@ -16,4 +16,6 @@ Always in solidarity
 Our sister region is [region]Solidarity with the Raided[/region].
 [hr]
 [b]General[/b] [nation=short]Somyrion[/nation]
-[b]Lieutenant General[/b] [nation=short]Force de Frappe[/nation][/color]
+[b]Lieutenant General[/b] [nation=short]Force de Frappe[/nation]
+[b]Lieutenant General[/b] [nation=short]Aziel Rex[/nation]
+[b]Captain[/b] [nation=short]Wrinkland[/nation][/color]

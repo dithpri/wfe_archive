@@ -3,22 +3,17 @@
 [hr]
 
 [b]ENDORSE THESE NATIONS![/b]
-[nation]Chianski[/nation]
+[nation]Spindra[/nation]
 [hr]
 
 [b]Regional Positions[/b] 
-- President: [nation]Chianski[/nation]
-- Vice President: RESERVED
-- Deputy of Exxodia: RESERVED
-- Foreign Affairs Minister: [nation]Crewland Islands[/nation]
-- Communications Minister: [nation]Queldaeron[/nation]
-- Defense Minister: [nation]Selkeat[/nation]
+- Leader: [color=red][nation]Spindra[/nation][/color]
 - Minister of the Interior: [nation]Tantaviam[/nation]
+- Defense Minister [nation]Selkeat[/nation]
+- Foriegn Affairs Minister [nation]Crewland Islands[/nation]
 [hr]
 
 [b]Advisory Panel[/b]
-- Foreign Affairs: HIRING!
-- Communications: HIRING!
-- Defense: [nation]Niegiaer[/nation]
-- Interior: [nation]Spindra[/nation]
+-Advisory Leader: [color=red][nation]Queldaeron[/nation][/color]
+-Defense Advisor: [nation]Niegiaer[/nation]
 [hr]
