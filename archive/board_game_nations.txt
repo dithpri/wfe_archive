@@ -4,9 +4,8 @@ Board Game Nations is a region meant for the players of Board Game Online. Neutr
 Founder: [nation=short]Frostorn[/nation]
 Warmaster: [nation=short]Grarrgtopia[/nation]
 
-Crown Princess: [nation=short]Sammonium[/nation]
-First Princess: [nation=short]Sylvenea[/nation]
-Second Princess: [nation=short]Clanktopolis[/nation]
+Crown Princess: [nation=short]Sylvenea[/nation]
+First Princess: [nation=short]Clanktopolis[/nation]
 Crown Prince: [nation=short]Hazzardia[/nation]
 First Prince: [nation=short]Gilmores Glorious Empire[/nation]
 

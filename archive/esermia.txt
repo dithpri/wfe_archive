@@ -6,17 +6,18 @@ Click [b][url=http://i.imgur.com/PZaLzAu.png]here[/url][/b] to view the map of E
 
 Esermia is comprised of two major power blocs:
 
-[b][color=blue]&middot; Esermian Strategic Treaty[/color][/b]
-[color=f4f5ee]__[/color][color=blue]&middot; Federation of Prokhogorsk[/color]
-[color=f4f5ee]__[/color][color=blue]&middot; Principality of Herastadt[/color]
-[b][color=orange]&middot; Socialist Initiative[/color][/b]
+[color=f4f5ee]_[/color][b][color=004a7f]Esermian Strategic Treaty[/color][/b]
+[color=f4f5ee]___[/color][color=004a7f]&middot; Federation of Prokhogorsk[/color]
+[color=f4f5ee]___[/color][color=004a7f]&middot; Principality of Herastadt[/color]
+[color=f4f5ee]_[/color][b][color=ec6607]Socialist Initiative[/color][/b]
 
-The continental region of Jastrun is comprised of one major power and its two puppets, and one neutral nation:
+The continental region of Jastrun is comprised of one major power and its two puppets, and one neutral nation, which forms the Jastrun Coalition:
 
-[color=red][b]&middot; Empire of Osterhelm[/b][/color]
-[color=f4f5ee]__[/color][color=red]&middot; Protectorate of Courdaland[/color]
-[color=f4f5ee]__[/color][color=red]&middot; Kingdom of Wilbrahen[/color]
-[b][color=grey]&middot; Republic of Burlany [/b][/color]
+[color=f4f5ee]_[/color][color=red][b]Jastrun Coalition[/b][/color]
+[color=f4f5ee]___[/color][color=red][b]&middot; Empire of Osterhelm[/b][/color]
+[color=f4f5ee]_____[/color][color=red]&middot; Protectorate of Courdaland[/color]
+[color=f4f5ee]_____[/color][color=red]&middot; Kingdom of Wilbrahen[/color]
+[color=f4f5ee]___[/color][b][color=grey]&middot; Republic of Burlany [/b][/color]
 
 [hr][b]Contact:[/b]
 
