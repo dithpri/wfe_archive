@@ -1,10 +1,7 @@
-[b][color=darkblue]Bem vindo a[/color] [color=blue]Madeira[/color][/b] / [color=darkblue]Welcome to[/color] [color=blue]Madeira[/color]
+[b][color=003000]Bem vindo a[/color] [color=blue]Madeira[/color] / [color=003000]Welcome to[/color] [color=blue]Madeira[/color][/b]
 
-[color=darkblue]A Regi&atilde;o Aut&oacute;noma da Madeira constitui uma das regi&otilde;es aut&oacute;nomas de Portugal, correspondendo territorialmente ao arquip&eacute;lago da Madeira situado ao largo de Marrocos, &Aacute;frica. A Regi&atilde;o &eacute; dotada de autonomia pol&iacute;tica e administrativa atrav&eacute;s do Estatuto Pol&iacute;tico Administrativo da Regi&atilde;o Aut&oacute;noma da Madeira, previsto na Constitui&ccedil;&atilde;o.[/color]
+[color=navy]A Regi&atilde;o Aut&oacute;noma da Madeira constitui uma das regi&otilde;es aut&oacute;nomas de Portugal, correspondendo territorialmente ao arquip&eacute;lago da Madeira situado ao largo de Marrocos, &Aacute;frica. A Regi&atilde;o &eacute; dotada de autonomia pol&iacute;tica e administrativa atrav&eacute;s do Estatuto Pol&iacute;tico Administrativo da Regi&atilde;o Aut&oacute;noma da Madeira, previsto na Constitui&ccedil;&atilde;o.[/color]
 
-[list][b][color=darkblue]Why come to Madeira?[/color][/b]
+[hr][list][b][color=navy]Why come to Madeira?[/color][/b]
 
-[url=http://www.youtube.com/watch?v=1wMBLcWPXRo][b][color=red]See here...[/color][/b][/url][hr][color=darkblue]A [nation=short]Elliston[/nation] region[/color][hr][/list]
-
-[color=darkblue]AUTONOMOUS REGION OF
-[b][region]REINO DE PORTUGAL[/region][/b][/color]
+[url=http://www.youtube.com/watch?v=1wMBLcWPXRo][b][color=red]See here...[/color][/b][/url][/list][hr][list][color=navy]this is an [nation=short]Elliston[/nation] region[/color][/list][hr]
