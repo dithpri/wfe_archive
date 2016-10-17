@@ -10,8 +10,10 @@ In Death, Sacrifice
 [hr]
 [b]First Warden:[/b] [nation=short]Benevolent Thomas[/nation]
 
-[b]High Constable:[/b] [nation]Tim[/nation]
+[b]High Constable:[/B] Vacant
 
 [b]Chamberlain:[/b] [nation=short]Olevsky[/nation]
 
-[b]Warden Commanders:[/b] [nation=short]Deadeye Jack[/nation] and [nation=short]Altmoras[/nation]
+[b]Warden Commanders:[/b] [nation=short]Deadeye Jack[/nation], [nation=short]Altmoras[/nation], and [nation=short]Tim[/nation].
+
+[B]Warden Constable:[/b] [nation=short]Dolen Tum En Coia[/nation].
