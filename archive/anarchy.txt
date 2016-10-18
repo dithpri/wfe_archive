@@ -1,14 +1,14 @@
-[color=grey][i]Freedom, remember, is not the same as liberty.[/i][/color]
+[color=#B5DC10]Freedom, remember, is not the same as liberty!
 
-[b][u]Libertas Supra Omnia - Freedom Above All[/u][/b]
+[/color][color=#F0A202][b][u]Libertas Supra Omnia - Freedom Above All[/u][/b]
 
-[i]&#39;Freedom, morality, and the human dignity of the individual consists precisely in this; that he does good not because he is forced to do so, but because he freely conceives it, wants it, and loves it.&#39;[/i] 
+[/color][color=#F75C03][i]&#39;Freedom, morality, and the human dignity of the individual consists precisely in this; that he does good not because he is forced to do so, but because he freely conceives it, wants it, and loves it.&#39;[/i] 
 - Mikhail Bakunin
 
-[i]&#39;If we do not do the impossible, we shall be faced with the unthinkable.&#39;[/i]
+[/color][color=#EF271B][i]&#39;If we do not do the impossible, we shall be faced with the unthinkable.&#39;[/i]
 - Murray Bookchin
 
-[b]Links:[/b]
+[/color][color=red][b]Links:[/b][/color]
 
 [color=red]Information[/color]
 [URL=http://en.wikipedia.org/wiki/Anarchist_schools_of_thought]Schools of Thought[/URL]
@@ -26,8 +26,4 @@
 [color=red]Anti-Consumerism[/color]
 [URL=http://makezine.com]Make it yourself[/URL]
 [URL=http://www.enough.org.uk]Never enough?[/URL]
-
-[color=red]Related to Nation States[/color]
-[URL=http://z9.invisionfree.com/NS_Anarchy]Old Regional Forum[/URL]
-[URL=http://nationstates-anarchy.proboards.com]Proposal for a new forum[/URL]
-[color=grey][i]* Please register to the Regional Forum *[/i][/color]
+[URL=http://adbusters.org/]Adbusters[/URL]
