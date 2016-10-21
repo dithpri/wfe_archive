@@ -2,29 +2,29 @@
 
 [color=red]Current Events:[/color][color=darkblue] Major Government Reorganization[/color]
 
-[hr][url=http://www.nationstates.net/page=dispatch/id=583273][color=darkblue]History[/color][/url] [b]|[/b] [url=https://www.nationstates.net/page=dispatch/id=667181][color=red]Map[/color][/url] [b]|[/b] [url=https://www.nationstates.net/page=dispatch/id=548950][color=darkblue]Elections[/color][/url] [b] | [/b][url=https://www.nationstates.net/page=dispatch/id=658501][color=red]Constitution[/color][/url] [b] | [/b][url=https://www.nationstates.net/page=dispatch/id=554077][color=darkblue]Calculator[/color][/url] [b] | [/b][url=https://www.nationstates.net/page=dispatch/id=583279][color=red]Library[/color][/url][b] | [/b][url=https://www.nationstates.net/page=dispatch/id=549097][color=darkblue]Radio[/color][/url] [b] | [/b][url=https://www.nationstates.net/region=the_empire_of_oppression_role_play][color=red]Role-Play[/color][/url] [b] | [/b][url=https://www.nationstates.net/page=dispatch/id=572303][color=darkblue]Travel Alerts[/color][/url][b] | [/b] [url=https://www.nationstates.net/page=dispatch/id=572981][color=red]Help[/color][/url]
-[hr][b]Regional Assembly[/b]
+[hr][url=http://www.nationstates.net/page=dispatch/id=583273][color=darkblue]History[/color][/url] [b]|[/b] [url=https://www.nationstates.net/page=dispatch/id=667181][color=red]Map[/color][/url] [b]|[/b] [url=https://www.nationstates.net/page=dispatch/id=548950][color=darkblue]Elections[/color][/url] [b] | [/b][url=https://www.nationstates.net/page=dispatch/id=658501][color=red]Constitution[/color][/url] [b] | [/b][url=https://www.nationstates.net/page=dispatch/id=583279][color=darkblue]Library[/color][/url][b] | [/b][url=https://www.nationstates.net/region=the_empire_of_oppression_role_play][color=red]Role-Play[/color][/url] [b] | [/b][url=https://www.nationstates.net/page=dispatch/id=572303][color=darkblue]Travel Alerts[/color][/url][b] | [/b] [url=https://www.nationstates.net/page=dispatch/id=572981][color=red]Help[/color][/url]
+[hr][b]Regional Government[/b]
 
 [url=https://www.nationstates.net/page=dispatch/id=570348][b][color=darkblue]President[/color]:[/b][/url]
-[nation=short]Lavochkin[/nation] ([b][color=purple]NP[/color][/b])
+[nation=short]Great Meridian Empire[/nation] ([b][color=green]IP[/color][/b])
 
 [url=https://www.nationstates.net/page=dispatch/id=566383][b][color=red]Prime Minister[/color]:[/b][/url]
 [nation=short]Greater Slavic Union[/nation] ([b][color=red]M[/color][color=yellow]P[/color][/b])
 
-[url=https://www.nationstates.net/page=dispatch/id=566386][b][color=darkblue]Assembly Minister #1[/color]:[/b][/url]
+[url=https://www.nationstates.net/page=dispatch/id=566386][b][color=darkblue]Minister of Affairs[/color]:[/b][/url]
 [b]Open[/b]
 
-[url=https://www.nationstates.net/page=dispatch/id=566388][b][color=red]Assembly Minister #2[/color]:[/b][/url]
+[url=https://www.nationstates.net/page=dispatch/id=566388][b][color=red]Minister of Defense[/color]:[/b][/url]
 [nation=short]True North America[/nation] ([b][color=green]IP[/color][/b])
 
-[url=https://www.nationstates.net/page=dispatch/id=566391][b][color=darkblue]Assembly Minister #3[/color]:[/b][/url]
+[url=https://www.nationstates.net/page=dispatch/id=566391][b][color=darkblue]Minister of Immigration[/color]:[/b][/url]
 [b]Open[/b]
 
-[url=https://www.nationstates.net/page=dispatch/id=566396][b][color=red]Assembly Minister #4[/color]:[/b][/url]
+[url=https://www.nationstates.net/page=dispatch/id=566396][b][color=red]Minister of Intelligence[/color]:[/b][/url]
 [b]Open[/b]
 
-[url=https://www.nationstates.net/page=dispatch/id=566399][b][color=darkblue]Assembly Minister #5[/color]:[/b][/url]
+[url=https://www.nationstates.net/page=dispatch/id=566399][b][color=darkblue]Minister of Justice[/color]:[/b][/url]
 [nation=short]AlenShire[/nation] ([b][color=green]IP[/color][/b])
-[hr][b]Please show your support by endorsing our WA Delegate, [nation=short]Great Meridian Empire[/nation][/b]
+[hr][b]Please show your support by endorsing our WA Delegate, [nation=short]Lavochkin[/nation][/b]
 
 [i]The current endorsement cap is[/i]: [u][b][color=red]1[/color][/b][/u]

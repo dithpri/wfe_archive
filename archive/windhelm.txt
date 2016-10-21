@@ -1,10 +1,11 @@
-[b][color=blue]Welcome to Windhelm![/color]
+[b][color=#708090]This region has been assassinated by the champions of [region]HYDRA Command[/region]![/color]
 
-[color=red][i]A cold city with frequent blizzards and charming guests. Come on in from the cold and warm yourself up. Argonians are always welcome![/color][/i][/b]
+[i][url=https://www.youtube.com/watch?v=izGwDsrQ1eQ][color=#FF8000]&quot;Cut off one head, two more will take its place. HAIL HYDRA!&quot;[/color][/url][/i]
 
-[hr][b][color=purple]The Jarl of Windhelm:[/color] [nation]Michael Augustine I[/nation]
+[color=#DAA520]Troops:[/color]
+[color=#B22222]
+Lieutenant: [nation=short]Vapid Vasentius[/nation]
+Major: [nation=short]Varax Omni[/nation]
+Lieutenant: [nation=short]HYDRA Soldier III[/nation]
+Sergeant: [nation=short]the Great Wall of Mexico[/nation][/color][/b]
 [hr]
-
-[color=green]A Protectorate of [region]Westphalia[/region].[/color]
-
-[/b]
