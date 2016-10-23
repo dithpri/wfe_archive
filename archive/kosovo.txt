@@ -1,10 +1,7 @@
-[hr][color=orange][i]&quot;Nji komb, nji shtet&quot;[/i]
-[i] &quot;Jedan narod, jedna drzava&quot;[/i]
-[i]&quot;One nation, one state&quot;[/i]
-[/color][hr][color=blue]
+[color=gold][b]This region has been conquered by the indomitable forces of the New Pacific Order based in [region]The Pacific[/region]! The following troops participated in this glorious conquest:[/color]
 
-Throughout the centuries, Kosovo has kept its identity intact. Whether it be the Turks, Macedons, Romans, Fascists, Americans, or other invaders, the culture and will of the people subsisted in the thickest of turmoil. Kosovo is independent![/color]
+[color=blue]Praetor: [nation=short]Karenus[/nation]
+Soldier(trigger): [nation=short]Gaius Valerius[/nation]
+Soldier: [nation=short]T-Ara[/nation][/color]/Roquentin
 
-
-
-[color=red]If you have any questions or concerns, speak with the WA Delegate (Prishtine).[/color]
+Valuable support was also provided by [region]HYDRA Command[/region] and a mercenary known as [nation=short]Mote av Kyllinger[/nation][/b]

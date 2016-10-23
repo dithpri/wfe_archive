@@ -15,6 +15,6 @@ Brigadier General: [nation=short]Eliot Isaraider II[/nation]
 
 [u][color=#BF0000]Order of the Day:[/color][/u][i]
 
-[color=#FF8000]Return to [region]HYDRA Command[/region] and await further orders.[/color]
+[color=#FF8000]Move to [region]Belgium[/region] and endorse [nation=short]Gravensteen Castle[/nation][/color]
 
 [color=#BF0000]HAIL HYDRA![/color][/i][/b]
