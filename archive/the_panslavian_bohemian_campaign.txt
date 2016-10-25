@@ -3,8 +3,8 @@
  
 [color=darkred]This campaign operates within the region of &amp;gt;&amp;gt;[region]Impericum Slavicum[/region]&amp;lt;&amp;lt;[/color]
 
-[b][color=darkgreen]Chancellor Candidate: [/color][color=white]____O_[/color][nation]The PanSlavian Union[/nation]
-[color=darkgreen]Vice-Chancellor Candidate: [/color][color=white]__[/color][nation]Northern Bohemia[/nation]
+[b][color=darkgreen]Chancellor Candidate: [/color][color=beige]____O_[/color][nation]The PanSlavian Union[/nation]
+[color=darkgreen]Vice-Chancellor Candidate: [/color][color=beige]__[/color][nation]Northern Bohemia[/nation]
 
 
 [hr]

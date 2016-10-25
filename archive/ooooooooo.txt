@@ -1,17 +1,7 @@
-According to all known laws
-of aviation,
-
-  
-there is no way a bee
-should be able to fly.
-
-  
-Its wings are too small to get
-its fat little body off the ground.
-
-  
-The bee, of course, flies anyway
-
-  
-because bees don&#39;t care
-what humans think is impossible.
+// Unexplained crashes? Try changing mat_queue_mode to `-1&#39;.
+// ----------------------------------------------------------------------------
+// Chris&#39; maxframes config, designed to get you a large performance boost
+// v2.016 | 25 January 2013 | fakkelbrigade.eu/chris/configs/
+// ----------------------------------------------------------------------------
+// Problems or questions? Contact me at #christf2 on QuakeNet.
+// ----------------------------------------------------------------------------
