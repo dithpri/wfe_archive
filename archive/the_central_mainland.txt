@@ -4,7 +4,10 @@
 [i]Join the WA (World Assembly) and then [color=red]Endorse:[/i][/color]
 [b]The Founder and President, [nation=short]Muerainia[/nation]
 Chief of Staff [nation=short]Matthiasopolis[/nation]
-Foreign Affairs Advisor 
+Foreign Affairs Advisor [nation=short]Kaitian[/nation]
+Federal Education Advisor [nation=short]Cann[/nation]
+Federal Tax Officer [nation=short]JustCoby[/nation]
+Secretary of Defense [nation=short]Babardas[/nation]
 National Economics Advisor [nation=short]Northen_Pepoles[/nation],
 National Security Advisor [nation=short]Lasari[/nation][/b]
 

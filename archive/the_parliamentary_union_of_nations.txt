@@ -13,7 +13,7 @@ Administrative Officials:[/color] TBA
 
 [color=orange]MoD:[/color]TBA
 [color=orange]MoJ:[/color][nation=short]Hashkin[/nation]
-[color=orange]MoW:[/color]TBA
+[color=orange]MoW:[/color][nation=short]Bostler[/nation]
 [color=orange]MoC:[/color]TBA
 [hr]
 [color=blue][b]Parliament:[/b][/color]
@@ -25,7 +25,7 @@ Administrative Officials:[/color] TBA
 [nation=short]Hashkin[/nation]
 [nation=short]Cesaru[/nation]
 [nation=short]Sirius Knight[/nation]
-[nation=short]Vacant Seat[/nation]
+[nation=short]Picolli[/nation]
 
 Nations marked with * do not have a confirmed account on our Forum.
 [hr]
