@@ -1,12 +1,12 @@
-[color=red][b][u]:::This region does not participate in the raiding game:::[/u][/b][/color]
+[color=red][b][u]:::red alert:::[/u][/b][/color]
 [color=blue][b]We recomend using the &quot;dark&quot; theme for optimal viewing experience[/b][/color]
 
-[color=gold][b]Welcome to our Glorious Alliance[/b][/color]
+[color=red][b][u]:::red alert:::[/u][/b][/color]
+[color=gold][b]:::News:::[/b][/color]
+The WA reports an increase in postmortem movement, as such this region is now in red alert
 
-[color=red][b]:::News:::[/b][/color]
-[color=gold][nation=short]the Babylon Order[/nation] has taken [nation=shortnoflag]The United States of Russell[/nation]&#39;s spot in a fourth Triumvirate[/color]
-
-[color=red][b]:::Politics:::[/b][/color]
+[color=red][b][u]:::red alert:::[/u][/b][/color]
+[color=gold][b]:::Politics:::[/b][/color]
 [color=cyan][b][u]Although not required[/u][/b] it is appreciated if member nations create Original Flags or modify existing Flag designs, rather then uses and exisitng world flag[/color]
 [color=green] Member Nations are [b]Highly[/b] encouraged to join the WA and endorse current Delegate [nation=short]zitvania[/nation] to Protect the region[/color]
 [color=red]See dispatch for Enacted Political policy[/color]
