@@ -6,7 +6,7 @@ Chief of Staff [nation=short]Matthiasopolis[/nation]
 Director of the Domestic Policy Council [nation=short]Kaitian[/nation]
 Director of the National Economic Council [nation=short]Cann[/nation]
 Cabinet Secretary [nation=short]JustCoby[/nation]
-Communications Director [nation=short]Babardas[/nation]
+Communications Director 
 Chief Digital Officer [nation=short]Northen_Pepoles[/nation],
 Director of Legislative Affairs [nation=short]Lasari[/nation][/b]
 
