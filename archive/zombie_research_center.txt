@@ -1,0 +1,8 @@
+Hidden in the deep woods stands an isolated facility.
+This facility is designed to research the cure for any zombie outbreak.
+
+The Zombie Research Facility is currently:
+[color=green]Open to the public[/color]
+
+DEFCON LEVEL:
+1 [color=red]2[/color] [color=yellow](3)[/color] [color=green]4[/color] [color=blue]5[/color]
