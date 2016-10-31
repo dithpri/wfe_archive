@@ -3,15 +3,16 @@ This facility is designed to research the cure for any zombie outbreak.
 
 The Zombie Research Facility is currently:
 [color=green]Open Access[/color]
-[color=yellow]Limited Access[/color]
-[color=red](Closed Access)[/color]
+[color=yellow](Limited Access)[/color]
+[color=red]Closed Access[/color]
 
 News:
 -Reports of the undead rising are surfacing around the world.
 -Our scientists believe a zombie apocalypse is imminent.
 -Brace for the horde, this is not a drill.
-[color=red]-DEFCON raised from DEFCON 3 (Increased force readiness) to DEFCON 2 (Next step to Zombie Outbreak) as of 10/30/16 9:00 AM EST[/color]
-[color=red]-DEFCON raised from DEFCON 2 (Next step to Zombie Outbreak) to DEFCON 1 (Zombie Outbreak Imminent) as of 10/30/16 11:00 AM EST[/color]
+[color=red]-DEFCON 2 as of 10/31/16 4:45 PM EST[/color]
+-Cure discovered and access is limited. Telegram for keycode.
+
 
 DEFCON LEVEL:
-(1) [color=red]2[/color] [color=yellow]3[/color] [color=green]4[/color] [color=blue]5[/color]
+1 [color=red](2)[/color] [color=yellow]3[/color] [color=green]4[/color] [color=blue]5[/color]

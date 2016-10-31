@@ -1,15 +1,17 @@
-[Founded 11/27/16]
+[b][Founded 11/27/16][/b]
 
-Founder/Leader: [The Empire Of Vinlandica]
+Founder/Leader: [nation]Vinlandica[/nation]
 
-WA Delegate: [The Empire of Fgtland]
+WA Delegate: [nation]Fgtland[/nation]
 
-Vice-Delegate: [The Empire of Pyriland]
+Vice-Delegate: [nation]Pyriland[/nation]
 
 
-{Alliances}
+[b][Alliances][/b]
 
-[The Empires of Vinlandica] - [Anti-Feminist Alliance]
+[region]The Empires of Vinlandica[/region] - [b]Anti-Feminist Alliance[/b] [nation]Gagala[/nation]
 
-[The Empires of Vinlandica] - [Federation of Greater German Republics]
+[region]The Empires of Vinlandica[/region] - [region]Federation of Greater German Republics[/region] [nation]Imperial Germans[/nation]
+
+[region]The Empires of Vinlandica[/region] - [region]The Iron Guard[/region] [nation]Corneliu Zelea Codreanu[/nation]
 
