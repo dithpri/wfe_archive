@@ -2,17 +2,15 @@ Hidden in the deep woods stands an isolated facility.
 This facility is designed to research the cure for any zombie outbreak.
 
 The Zombie Research Facility is currently:
-[color=green]Open Access[/color]
-[color=yellow](Limited Access)[/color]
+[color=green](Open Access)[/color]
+[color=yellow]Limited Access[/color]
 [color=red]Closed Access[/color]
 
 News:
--Reports of the undead rising are surfacing around the world.
--Our scientists believe a zombie apocalypse is imminent.
+-Resuming normal facility operations
 -Brace for the horde, this is not a drill.
-[color=red]-DEFCON 2 as of 10/31/16 4:45 PM EST[/color]
--Cure discovered and access is limited. Telegram for keycode.
+[color=red]-DEFCON 5 as of 11/01/16 9:00 AM EST[/color]
 
 
 DEFCON LEVEL:
-1 [color=red](2)[/color] [color=yellow]3[/color] [color=green]4[/color] [color=blue]5[/color]
+1 [color=red]2[/color] [color=yellow]3[/color] [color=green]4[/color] [color=blue](5)[/color]
