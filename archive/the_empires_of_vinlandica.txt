@@ -15,3 +15,5 @@ Vice-Delegate: [nation]Pyriland[/nation]
 
 [region]The Empires of Vinlandica[/region] - [region]The Iron Guard[/region] [nation]Corneliu Zelea Codreanu[/nation]
 
+[region]The Empires of Vinlandica[/region] - [region]The Higher Royal Empire of the Flood[/region] [nation]The OEUSGGR[/nation]
+

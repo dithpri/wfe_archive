@@ -1,5 +1,5 @@
-[b][color=purple]Leader(s) of the Refounded Capitalist Freedom Fighters ~ [nation=short]Kasnalan[/nation][/b][/color]
-[b][color=grey]Leader(s) of the United Neutral Interstellar Races ~ [i]None for democratic and neutrality reasons[/i][/color][/b]
+[b][color=purple]Leader(s) of the Protectors of Oni ~ [nation=short]Kasnalan[/nation][/b][/color]
+[b][color=grey]Leader(s) of the United Neutral Interstellar Races ~ [i]None for democratic and neutralist reasons[/i][/color][/b]
 [b][color=red]Leader(s) of the Socialist and Nationalist Alliance ~ [nation=short]Innoh[/nation] and [nation=short]Airubana[/nation][/color][/b]
 Only Factions that control different areas within sectors have leaders.
 
@@ -10,5 +10,7 @@ Only Factions that control different areas within sectors have leaders.
 [region]Oni[/region] Tension Scale: [color=red]78.64456%[/color]
 
 Current [region]Oni[/region] Era: [b]Red Rising Era[/b]
+
+[url=https://www.youtube.com/watch?v=UY-I3QTT8mY]Current Gangs in [region]Oni[/region][/url]
 
 [url=https://www.youtube.com/watch?v=UwccBSr9KS4][color=yellow]Our Regional Celebration of Winning Against the ZAMBIES[/url][/color]

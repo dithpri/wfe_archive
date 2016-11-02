@@ -1,5 +1,5 @@
-[color=Orange][b]Army Status: FEET TO STATIONS[/b][/color] 
-[b][color=red]ALL UNITS REPORT TO [nation=short]Imperial Germans[/nation] ASAP![/b][/color]  
+[color=red][b]Army Status: FULL MOBILIZATION[/b][/color] 
+[b][color=red]ALL UNITS REPORT TO [nation=short]Imperial Germans[/nation] EHRE ZUM KAISER![/b][/color]  
 [hr]
 --[b]Founded 11/12/2015[/b]--
 
@@ -11,7 +11,7 @@
 
 [b]Lord Inquisitor: Herr [nation=short]The States of Bavaria[/nation][/b]
 
-[b]General of the Federal Army: Herr [nation=short]New Hochenschwand[/nation]
+[b]Erzherzog: Herr [nation=short]New Hochenschwand[/nation]
 
 Commissioner of Foreign Affairs: [nation=short]Kellonville[/nation][/b]
 [hr]
