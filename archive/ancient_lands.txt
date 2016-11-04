@@ -1,6 +1,6 @@
-[color=navy][b]Ancient Lands
+[hr][list][color=navy][b]Ancient Lands[/list][hr]
 [/color][color=green]
-This is [region=United States of America]&#39;s Puppet Storage Region[/b] (RHW/DBA)
+[list]This is [region=United States of America]&#39;s Puppet Storage Region[/b] (RHW/DBA)
 - [DBA] Rae - ([nation=short]Manitoulin[/nation])
 - [RHW] Doug - ([nation=short]Royal House of Windsor[/nation]/[nation=short]New_Falham[/nation])
 [/color][color=800030]
@@ -8,12 +8,13 @@ This is [region=United States of America]&#39;s Puppet Storage Region[/b] (RHW/D
 [region=Libertaria], [region=Brazzaville], [region=Ecuador]
 [region=0000], [region=United States of America][/color]
 
-[color=green][b]Links:[/b]
-[url=http://nsdossier.texasregion.net/]nsdossier[/url]; [url=http://nseconomy.thirdgeek.com/nseconomy.php]NSeconomy[/url]; [url=http://forum.nationstates.net/viewtopic.php?f=16&amp;t=74486]ONE STOP RULES[/url]; [url=http://www.nationstates.net/page=faq]FAQ[/url]; [url=http://www.nationstates.net/page=boneyard]BONEYARD[/url]; [url=http://www.nationstates.net/page=dispatch/id=330837]TEXT HELP[/url][/color] 
-
-[color=blue][b]Region Status:[/b] (Oct 24, 2016 c.)
+[spoiler=Links:][color=004500][[url=http://nsdossier.texasregion.net/]nsdossier[/url]] [[url=http://nseconomy.thirdgeek.com/nseconomy.php]NSeconomy[/url]] 
+[[url=http://forum.nationstates.net/viewtopic.php?f=16&amp;t=74486]ONE STOP RULES[/url]] [[url=http://www.nationstates.net/page=faq]FAQ[/url]] 
+[[url=http://www.nationstates.net/page=boneyard]BONEYARD[/url]] 
+[[url=http://www.nationstates.net/page=dispatch/id=330837]TEXT HELP[/url]][/color][/spoiler][/list][color=navy]
+About This Region:[/color][list][color=blue][b]Region Status:[/b] (Oct 24, 2016 c.)
 Nation Count: [b]1,572[/b] (13th)
 Population: [b]23,865,215 M[/b] (1st)[/color]
 
 [color=green][b]ALL EMBASSY OFFERS ARE WELCOME[/b]
-No conditions or terms or meaning pending for any embassy, please.[/color]
+No conditions for any embassy, please.[/color]

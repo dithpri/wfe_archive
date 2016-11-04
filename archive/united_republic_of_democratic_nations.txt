@@ -1,4 +1,4 @@
 Welcome to the [region]United Republic of Democratic Nations[/region]!
 If your nation is fascist or communist, get out!
 __________________________________________________________________________________________________________________________________
-Members:[nation][nation=short]Arcanstotska[/nation][/nation]; [nation][nation=short]Glowrites[/nation][/nation]; [nation][nation=short]Ratishvan[/nation][/nation]; [nation][nation=short]Technicolor Frogs[/nation][/nation];
+Members:[nation=short]Arcanstotska[/nation]; [nation=short]Glowrites[/nation]; [nation=short]Ratishvan[/nation]; [nation=short]Technicolor Frogs[/nation];

@@ -8,12 +8,12 @@ In Peace, Vigilance
 In War, Victory
 In Death, Sacrifice
 [hr]
-[b]First Warden:[/b] [nation=short]Benevolent Thomas[/nation]
+[b]First Warden:[/b] [nation=short]Benevolent Thomas[/nation], [nation=short]Roavin[/nation]
 
-[b]High Constable:[/B] Vacant
+[b]High Constable:[/B] [nation=short]Altmoras[/nation]
 
-[b]Chamberlain:[/b] Vacant
+[b]Chamberlain:[/b] [nation=short]Deadeye Jack[/nation]
 
-[b]Warden Commanders:[/b] [nation=short]Deadeye Jack[/nation], [nation=short]Altmoras[/nation], and [nation=short]Tim[/nation].
+[b]Warden Commanders:[/b] [nation=short]Tim[/nation].
 
 [B]Warden Constable:[/b] [nation=short]Dolen Tum En Coia[/nation].
