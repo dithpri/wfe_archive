@@ -7,6 +7,7 @@
 [Region]United Yugoslav Republics[/region]
 [region]Alliance of Neighboring Countries[/region]
 [region]Slavania[/region]
+[region]The Confederacy of Narvolk[/region]
 
 [u]Observer regions:[/u]
 [/b]
