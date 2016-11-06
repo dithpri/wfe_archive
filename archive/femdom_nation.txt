@@ -3,22 +3,12 @@
 Join the World Assembly https://www.nationstates.net/page=un and [i][color=saddlebrown]endorse[/color][/i] the TWPAF delegate [nation=short]Yuno16[/nation], General [nation=short]Barry_Dylan[/nation] and Trooper [nation=short]Soviet_Superman[/nation]! Nations not endorsing me will get booted. [/b] 
 
 [hr]
-[b][i]Troops:[/i][/b]
+[b][i]Endorse:[/i][/b]
 
-Supreme Commander [nation=short]Yuno_owl[/nation]
-General [nation=short]The_Unknown_Army[/nation]
-Trooper [nation=short]Kawaii_Village[/nation]
-Trooper [nation=short]Blood_Teller[/nation]
+  [nation=short]yuno16[/nation]
+[nation=short]barry_dylan[/nation]
+ [nation=short]soviet superman[/nation]
 
-[region]USSD[/region]:
-[nation=short]Vetelo[/nation]
-
-[region]Penglai[/region]:
-[nation=short]Parhe[/nation]
-
-[region]Exodus[/region]:
-[nation=short]Altino[/nation]
-[nation=short]Freedharma[/nation]
 
 [hr]
 
