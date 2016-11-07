@@ -2,8 +2,7 @@ Welcome to the [i][b]Greater Allied Union[/b][/i]!
 
 [i]&quot;A Region Allied in Strength&quot;[/i]
 [hr]
-[color=red][u]Safety Status:[/color][/u] [b][color=red] 1[/b][/color]
+[color=red][u]Safety Status:[/color][/u] [b][color=Green] 10[/b][/color]
 [b]All GAU Activity is [color=green]NORMAL[/color].[/b]
-[color=red]Warning! Zombies detected within the GAU. All regional borders are now closed.
 [hr]
 Embassy requests? TG our Envoy at [nation=short]GAU_Envoy[/nation]!
