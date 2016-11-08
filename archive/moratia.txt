@@ -1,1 +1,3 @@
-Leader:Morat
+[b]Leader[/b]: [nation]Morat[/nation]
+[color=blue]Co-Leader[/color]: [nation]Coaziaia[/nation]
+[color=red]Security Officer[/color]: [nation]Comento[/nation]

@@ -7,12 +7,8 @@
 [hr]
 [color=scarlet]Current Orders:[/color]
 
-CREATE A WA PUPPET.
-
-MOVE TO: [region]St Abbaddon[/region]
-
-ENDORSE:
-[nation=short+noflag]Harenhime[/nation], [nation=short+noflag]Effervescent Otter[/nation], [nation=short+noflag]Sygian For The Win2[/nation], and [nation=short+noflag]Crazy Syb[/nation] IMMEDIATELY
+MOVE YOUR WA PUPPET TO: [region]Global Federation[/region] 
+ENDORSE: [nation=short]Harenhime[/nation] IMMEDIATELY
 
 [hr]
 

@@ -6,6 +6,7 @@ WA Delegate: [nation]Fgtland[/nation]
 
 Vice-Delegate: [nation]Pyriland[/nation]
 
+New Japanese Empire: [nation]Japanese Imperial Forces[/nation]
 
 [b][Alliances][/b]
 
@@ -16,4 +17,8 @@ Vice-Delegate: [nation]Pyriland[/nation]
 [region]The Empires of Vinlandica[/region] - [region]The Iron Guard[/region] [nation]Corneliu Zelea Codreanu[/nation]
 
 [region]The Empires of Vinlandica[/region] - [region]The Higher Royal Empire of the Flood[/region] [nation]The OEUSGGR[/nation]
+
+[region]The Empires of Vinlandica[/region] - [region]Axis Nations Alliance A X A[/region] [nation]Celtic Bavaria[/nation]
+
+
 
