@@ -1,13 +1,13 @@
-Territory of [region]Renegade Wolves[/region]. 
+[color=Darkblue]Territory of [region]Renegade Wolves[/region].[/color]
 
-Endorse [nation=short]red storm trooper[/nation] the native. 
+[color=darkblue]Endorse [nation=short]red storm trooper[/nation] the native.[/color]
 
 
-Also endorse the officers
+[color=darkblue]Also endorse the officers[/color]
 
 [nation=short]terran_rex[/nation]
 [nation=short]many_issues[/nation]
 [nation=short]serbaun[/nation]
 [nation=short]pantherparty[/nation]
 
-Please do not endorse anyone else.
+[color=darkred]Please do not endorse anyone else.[/color]

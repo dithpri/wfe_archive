@@ -2,9 +2,11 @@
 [color=red][b] this region does not participate in the raiding game[/b][/color]
 
 [color=gold][b][u]:::welcome to our glorious alliance:::[/u][/b][/color]
+[nation=short]robocon[/nation]
+[nation=short]memelordII[/nation]
 
 [color=red][b]:::News:::[/b][/color]
-once more the undead have been dealt with. red alert suspended.
+#RIPAmerica
 
 [color=red][b]:::Politics:::[/b][/color]
 [color=cyan][b][u]Although not required[/u][/b] it is appreciated if member nations create Original Flags or modify existing Flag designs, rather then uses and exisitng world flag[/color]
