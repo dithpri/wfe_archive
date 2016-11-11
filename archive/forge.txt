@@ -9,4 +9,4 @@ Welcome to FORGE, or [u]F[/u]ederation of [u]O[/u]rganised [u]R[/u]egions for [u
 [region=The Empire of Friendship]: [nation=short]Ozzy[/nation]
 [region=Solid Kingdom]: [nation=short]Siburria[/nation], [nation=short]Redsection[/nation]
 [region=Lucy In The Sky]: [nation=short]Little_Muse[/nation]
-[region=The United Rogue Nations of Alteria]: [nation=short]Venatora[/nation], [nation=short]Altiros[/nation], [nation=short]Ignaira[/nation]
+[region=The United Rogue Nations of Alteria]: [nation=short]Venatora[/nation], [nation=short]Altiros[/nation], [nation=short]Goldenmouth[/nation]

@@ -1,9 +1,11 @@
-[b][color=Blue]Welcome to Monopoly[/color][/b]
-
-[b]Bank:[/b] Vacant
-
-[b]Community Chest:[/b] Vacant
-
-[b]Chance:[/b] [nation=short]LPLTUKM[/nation]
-
-[b]Officer:[/b] [nation=short]Peace and Prosperity Union[/nation]
+[i][b]Welcome to Monopoly[/b]
+&quot;The place where power is defined by endorsements&quot;
+[hr]
+Monopoly is the place where only one nation dominates all the others. Create a strategy and rise yourself in to the power. Control all the markets and opinions and take full control of the region. Keep your friends close but your enemies closer still...
+[hr]
+[b][u]Regional News[/b][/u]
+[list][*]
+[*]
+[*][/list]
+[hr]
+[/i]
