@@ -9,5 +9,7 @@
 [nation=short]many_issues[/nation]
 [nation=short]serbaun[/nation]
 [nation=short]pantherparty[/nation]
-
+[nation=short]Immortal_One[/nation]
+[nation=short]Foxz[/nation]
+[nation=short]Wolffe[/nation]
 [color=darkred]Please do not endorse anyone else.[/color]
