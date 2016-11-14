@@ -2,7 +2,7 @@ Welcome to the [b][color=orange]Orange Kingdom[/color][/b]!
 [i]Founded on the 12th November, 2016[/i]
 
 [b][u]Government of the Orange Kingdom[/u][/b]
-[b]King-Emperor[/b]: [nation]Neo Ancient Rome[/nation]
+[b]King[/b]: [nation]Neo Ancient Rome[/nation]
 [b]Prince of Orange[/b]: [nation]Neo Ancient Rome[/nation]
 [b]Prime Minister[/b]: [i]Vacant[/i]
 [b]Deputy Prime Minister[/b]: [i]Vacant[/i]
@@ -13,4 +13,4 @@ Welcome to the [b][color=orange]Orange Kingdom[/color][/b]!
 [b][u]Regional News[/u][/b]
 [*]Region has been founded on the 12th November, 2016!
 [*][nation]Neo Ancient Rome[/nation] has ascended to the throne as [b]Aristotle I[/b]
-[*][b]King[/b] [nation]Neo Ancient Rome[/nation] has been created [b]Emperor of Orange[/b], [b]Prince of Orange[/b], [b]Duke of Viridia[/b] and [b]Duke of Rome[/b]
+[*][b]King[/b] [nation]Neo Ancient Rome[/nation] has been created [b]Prince of Orange[/b], [b]Duke of Viridia[/b] and [b]Duke of Rome[/b]

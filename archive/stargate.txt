@@ -6,7 +6,7 @@ Regional Government:
 Commanding Officer: [nation]Wrapper[/nation]
 Executive Officer: [nation]Casl[/nation]
 Secretary of State: [nation]NTO-08[/nation]
-Secretary of Defense: [nation]WaffenBrightonburg[/nation]
+Secretary of Defense: [nation]SouthEast Brightonburg[/nation]
 ROTC Recruiter: vacant
 
 [b]*All WA members must endorse our delegate, Wrapper.[/b]

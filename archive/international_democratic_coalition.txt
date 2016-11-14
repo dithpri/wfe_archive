@@ -12,11 +12,11 @@
 
 [b][color=blue][u]Leadership:[/u][/color][/b]
 
-[b][color=red]President: Da Qing Guo[/color][/b]
-[b][color=red]Premier: Motislia[/color][/b]
-[b][color=red]Vice Premier: Rusila[/color][/b]
-[b][color=red]Minister of RP and Internal Affairs: Warcille[/color][/b]
-[b][color=red]Minister of Foreign Affairs: Rusila[/color][/b]
+[b][color=red]President: [nation=short]Da_Qing_Guo[/nation][/color][/b]
+[b][color=red]Premier: [nation=short]Motislia[/nation][/color][/b]
+[b][color=red]Vice Premier: [nation=short]Rusila[/nation][/color][/b]
+[b][color=red]Minister of RP and Internal Affairs: [nation=short]Warcille[/nation][/color][/b]
+[b][color=red]Minister of Foreign Affairs: [nation=short]Rusila[/nation][/color][/b]
 [b][color=red]Minister of Defence: Vacant[/color][/b]
 [b][color=red]Minister of Elections: Vacant[/color][/b]
 [b][color=red]Minister of Cartography: Vacant[/color][/b]
@@ -40,4 +40,4 @@
 
 [b][color=blue][u]RP year:[/u][/color][/b]
 
-[b][color=red]AD 1644[/color][/b]
+[b][color=red]AD 1880[/color][/b]

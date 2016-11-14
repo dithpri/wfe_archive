@@ -13,7 +13,7 @@ Military Leader: [nation=Meowto]
 Captain of Warship: [nation=ZZ Nuclear Guns of Michael ZZ]
 Chief of Staff: [nation=Alkent]
 Secretary of Scientific and Natural Resources: [nation=Master Shifu]
-Regional Speaker: UNFILLED
+Regional Speaker: [nation=Philippine Republic Islands]
 Telegram Sender: [nation=Fire and Water Republic]
 Pollster: [nation=Xx 214La XX][/b]
 
