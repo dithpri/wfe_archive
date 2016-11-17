@@ -7,5 +7,5 @@
 [B]Pr&auml;sident:[/b] [nation=short]Rheneland[/NATION]
 [B]Sicherheitsminister:[/b] Vacant
 [B]Kulturminister:[/b] Vacant
-[B]Staatsminister:[/b] Vacant[Hr][hr][color=GOLD]The Kingdom of Wurttemberg is an imperial state of the Kaisereich, it borders Baden to the West, Bavaria to the East, Hesse to the North, and Austria to the South. It is ruled by a constitutional monarchy headed by a king and president that swear loyalty to the Kaiser.[/color][hr][hr]
+[B]Staatsminister:[/b] [nation=short]Yhursehsia[/nation][Hr][hr][color=GOLD]The Kingdom of Wurttemberg is an imperial state of the Kaisereich, it borders Baden to the West, Bavaria to the East, Hesse to the North, and Austria to the South. It is ruled by a constitutional monarchy headed by a king and president that swear loyalty to the Kaiser.[/color][hr][hr]
 [B]SUBJECT REGION OF [REGION=THE KAISERREICH][/B]
