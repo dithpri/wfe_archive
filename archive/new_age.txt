@@ -1,6 +1,24 @@
 Collection of New Countries
+---------------------------------
+Chancellor:[nation]the Deb Dawi[/nation]
+-----------------------------------------------
+[color=red]POLITICAL PARTIES[/color]
+-----------------------------------------------
+* [color=blue]International Fascist Association[/color]:
+     [u]* [nation]the Arain People[/nation][/u]
 
-Democratic Role Play Group
 
-Map coming soon.
+* [color=red]Conservative Constitution Party[/color]: 
+     [u]*[nation]Dressler[/nation][/u]
+     [u]* [nation]the Dressler Union[/nation][/u]
 
+* [color=blue]New Age Workers Union[/color]: : 
+     [u]*[nation]the Deb Dawi[/nation][/u]
+     [u]*[nation]Slavic Adidas[/nation][/u]
+
+* [color=red]Far Right Wing Party[/color]
+     [u]*[nation]Tonald J Drump[/nation][/u]
+
+[color=blue]Far Left Wing Party[/color]
+
+[color=red]Democratic Socialist Party of New Age[/color]

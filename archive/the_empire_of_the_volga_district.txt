@@ -3,5 +3,6 @@ The Empire is a large bureaucracy focused on territorial growth. The conquered p
 ------
 
 [b]Dictator:[/b] [nation]Dmitry II[/nation]
+[b]Regional Delegate:[/b] [nation][/nation]
 
 There is an endorsement cap of 20 endorsements. However, endorsing our regional delegate, [nation][/nation], will make the endorsement cap 65 endorsements. Failing to abide this rule will result in being ejected from the region.
