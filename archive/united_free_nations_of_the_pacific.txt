@@ -1,9 +1,15 @@
 if you get elected as the WA leader for the region please don&#39;t turn off the password lock. thanks!
 
-Largest GDP: [nation]new blo fer[/nation]
-Largest Military: [nation]Chaotic neutral-[/nation]
-Highest Valued Money: [nation]new blo fer[/nation]
-Healthiest People: [nation]the house soval[/nation]
+Largest GDP: [nation]soorvera[/nation]
+Highest Valued Money: [nation]soorvera[/nation]
+[nation]the house soval[/nation]: Constitutional Empire
+[nation]soorvera[/nation]: Corporate Slave State
+[nation]jimbawa[/nation]: Absolute Dictatorship
+[nation]hastur worship[/nation]: Theocratic-Democracy
+[nation]chaotic neutral-[/nation]: Anarcho-Democracy
+[nation]requeina[/nation]: Federation of States
+[nation]true freedoms[/nation]: Totally not a dictatorship (is totally a dictatorship)
+[nation]new blo fer[/nation]: Corporate Run Commonwealth
 
 Money in the Region is based on the [nation=short]requeina[/nation] standard.
 [url=http://nseconomy.thirdgeek.com/nseconomy.php?nation=requeina&amp;exchange=1]Shown here[/url]

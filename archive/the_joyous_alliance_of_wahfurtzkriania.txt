@@ -1,5 +1,4 @@
-All nations in this great alliance are treated equal by the upper founders.
-
+All nations in this great alliance are treated equally by the upper founders.
 
 Wahfurtzkriania
 (wah-fertz-cri-ainia)
@@ -13,33 +12,33 @@ JUDGE THIS ALLIANCE BY ITS FOUNDER NATION.
 
 FOUNDER
 
-&#149; Wat Blum
+&#149; [nation]Wat Blum[/nation]
 (w-at blum)
 
 
 
-CO FOUNDERS
+CO-FOUNDERS
 
-&#149; Erfurt 5-6345
+&#149; [nation]Erfurt 5-6345[/nation]
 (er-fert)
 
-&#149; The Arstotzkan People II
+&#149; [nation]The Arstotzkan People II[/nation]
 (are-stotz-can)
 
-&#149; Dogieria
+&#149; [nation]Dogieria[/nation]
 (do-geer-ria)
 
-&#149; New Criand
+&#149; [nation]New Criand[/nation]
 (cchhree-and)
 
 
 
 NOTED INDIVIDUALS
 
-&#149; Clerona Islands
+&#149; [nation]Clerona Islands[/nation]
 (cleh-rone-uh)
 
-&#149; Elementia Reshougan
+&#149; [nation]Elementia Reshougan[/nation]
 (element-ia reh-shoogan)
 
 
