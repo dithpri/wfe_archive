@@ -1,11 +1,6 @@
-Glorious [region]Turkestan[/region] is the greatest and most powerful region in the world.
-[b]The nations with ultimate authority in Turkestan are:[/b]
-[nation]Akhadakastan[/nation]
-[nation]Nampyong[/nation]
-[nation]Zekrovia[/nation]
-[nation]Prolavia[/nation]
-[nation]Kirandi[/nation]
+[hr][list][color=800000][b]Turkestan[/color][/list][hr][color=003300]Land of the Turks[/b]
 
-[nation]Fola-atolo[/nation] sorta just showed up.
-[hr]
-Turkestan is located within Central Asia, east of the Caspian Sea, yet also in Mainland Southeast Asia, Southern and Eastern Europe, as well as in East Africa and the South Pacific.
+An area of Central Asia that includes: [region=Turkmenistan], [region=Tajikistan], [region=Kazakhstan], [region=Uzbekistan], [region=Kyrgyzstan] and [region=Xinjiang] (aka East Turkestan or Chinese Turkestan).
+Often the region includes parts of [region=Tartarstan], [region=Siberia] and [region=Afghanistan].
+
+The Russians took the city of Turkestan (in present day Kazakhstan) in 1864, mistaking the name for the city for that of the entire region.[/color][hr]

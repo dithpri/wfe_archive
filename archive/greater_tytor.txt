@@ -1,1 +1,1 @@
-This is a puppet storage facility.  Those found interacting with it will be punishable by severe flogging.
+This is a puppet storage facility.  Don&#39;t bother interacting with it.
