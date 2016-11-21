@@ -13,6 +13,6 @@
 [nation=short]united_counties_of_maine[/nation] - Delegate (Prime Minister)
 Vacant- Immigration Minister
 Vacant- Securities Minister
-Vacant- Regional Affairs Minister 
+[nation=short]Icardi-rivero[/nation] - Regional Affairs Minister 
 Vacant- Culture Minister
 Vacant- Communications Minister
