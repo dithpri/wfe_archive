@@ -1,11 +1,12 @@
-[b][color=#0080FF]&amp;gt;file.introduction[/color][/b]
+[b][color=#004080]&amp;gt;file.introduction[/color][/b]
 
-[b]Naunet[/b], a diverse region, stunning with its extensive natural landscapes and geographical formations yet homicidal in its wars. Host and home to over four hundred languages and an equally diverse multitude of sovereign polities, both recognised and holding merely limited recognition, Naunet is the region of choice for any aspiring or established author, worldbuilder, conlinguist, or artist in the spheres of both roleplaying and worldbuilding - take in the stunning selection of IIWiki articles, or the works of authors and artists residing in Naunet comparable to those of professionals.
+[b][color=#004080]Naunet[/color][/b], a diverse region, stunning with its extensive natural landscapes and geographical formations yet homicidal in its wars. Host and home to over four hundred languages and an equally diverse multitude of sovereign polities, both recognised and holding merely limited recognition, Naunet is the region of choice for any aspiring or established author, worldbuilder, conlinguist, or artist in the spheres of both roleplaying and worldbuilding - take in the stunning selection of IIWiki articles, or the works of authors and artists residing in Naunet comparable to those of professionals.
 
-[b][color=#0080FF]&amp;gt;file.resources[/color][/b]
+[b][color=#004080]&amp;gt;file.resources[/color][/b]
 
+.[url=http://naunet.miraheze.org]wiki[/url]
 .map
-.discord
-.signups
+.irc
+.[url=https://forum.nationstates.net/viewtopic.php?f=4&amp;t=395497]signups[/url]
 .discussion
-.misc
+.anthology

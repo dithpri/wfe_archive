@@ -12,33 +12,33 @@ JUDGE THIS ALLIANCE BY ITS FOUNDER NATION.[/i][/color]
 
 FOUNDER
 
-&#149; [nation]Wat Blum[/nation]
+&#149; [nation=short]Wat Blum[/nation]
 (w-at blum)
 
 
 
 CO-FOUNDERS
 
-&#149; [nation]Erfurt 5-6345[/nation]
+&#149; [nation=short]Erfurt 5-6345[/nation]
 (er-fert)
 
-&#149; [nation]The Arstotzkan People II[/nation]
+&#149; [nation=short]The Arstotzkan People II[/nation]
 (are-stotz-can)
 
-&#149; [nation]Dogieria[/nation]
+&#149; [nation=short]Dogieria[/nation]
 (do-geer-ria)
 
-&#149; [nation]New Criand[/nation]
+&#149; [nation=short]New Criand[/nation]
 (cchhree-and)
 
 
 
 NOTED INDIVIDUALS
 
-&#149; [nation]Clerona Islands[/nation]
+&#149; [nation=short]Clerona Islands[/nation]
 (cleh-rone-uh)
 
-&#149; [nation]Elementia Reshougan[/nation]
+&#149; [nation=short]Elementia Reshougan[/nation]
 (element-ia reh-shoogan)
 
 
