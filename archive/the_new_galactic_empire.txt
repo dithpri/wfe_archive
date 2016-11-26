@@ -5,7 +5,7 @@
 [b]Grand Admiral[/b]:[nation=short] TBA [/nation]
 [b]Supreme Chancellor[/b]:[nation=short] TBA [/nation] 
 [b]Moff of Recruitment[/b]:[nation=short]Mutesetsa[/nation]
-[b]Moff of Foriegn Relations[/b]:[nation=short] TBA [/nation]
+[b]Moff of Foreign Relations[/b]:[nation=short]Goyaniyye[/nation]
 [b]Moff of Culture[/b]:[nation=short] TBA [/nation]
 [b]Supreme Judge[/b]: [nation=short]Independent Javer[/nation] [hr]
 

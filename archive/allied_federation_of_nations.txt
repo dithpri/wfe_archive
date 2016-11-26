@@ -5,5 +5,8 @@ Supreme Allied Commander - [nation]Bubbalania[/nation]
 Secretary-General - [nation]Abidawe[/nation]
 Commissioner of Internal Affairs - [nation]Gotesbourg[/nation]
 Without portfolio - [nation]Morrainea[/nation]
+
+The [region]Annex of Allied Federation of Nations[/region] is a client region of this alliance. 
+
 [hr]
 We highly recommend installing [url=https://nationstatesplusplus.net/install]Nationstates++[/url], a free extension that adds more features to the game.
