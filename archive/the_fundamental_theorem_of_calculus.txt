@@ -1,1 +1,5 @@
-Property of The Holy Flemingovian Empire of [region]The North Pacific[/region].
+The fundamental theorem of calculus is a theorem that links the concept of the derivative of a function with the concept of the function&#39;s integral.
+
+The first part of the theorem is that the indefinite integral of a function is related to its antiderivative, and can be reversed by differentiation. This part of the theorem guarantees the existence of antiderivatives for continuous functions.
+
+The second part of the theorem is that the definite integral of a function can be computed by using any one of its infinitely-many antiderivatives. This part of the theorem has key practical applications because it markedly simplifies the computation of definite integrals.

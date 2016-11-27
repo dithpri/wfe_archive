@@ -1,18 +1,15 @@
-[b]Welcome to the [color=red]Terran Command[/color], an [color=green]intelligent[/color], [color=blue]strong[/color], and [color=purple]powerful[/color] alliance of several nations.[/b]
+[b]Welcome to the [color=red]Terran Command[/color], an [color=green]intelligent[/color], [color=blue]strong[/color], and [color=purple]powerful[/color] alliance of several empires.[/b]
 
 
-The Terran Command is the official Terran Party Region. It consists of the following areas: [nation]The Terran Party[/nation], The Nivter Terran Island Republic, [nation]Vertlodet[/nation], The Occupied States of Nivelia, [nation]Alexionia[/nation], and The Terran Mars State.
+The Terran Command is the official Terran Party Region. It consists of the following areas: [nation]The Terran Party[/nation], [nation]GrantGustino[/nation], [nation]Vertlodet[/nation], The Occupied States of Nivelia, [nation]Alexionia[/nation], and The Terran Mars State.
 
+[u]Warning States (WS):[/u]
 
-[u]There are currently several offices available in the Terran Command:[/u]
-- WA Delegate
-- Vice-Delegate
-- Security Officer
-- Communications Officer
-- Research Officer
+[color=green]WS 1: Peace[/color]
+[color=orange]WS 2: Minor Warning[/color]
+[color=yellow]WS 3: Large Warning[/color]
+[color=red]WS 4: Region-Wide Evacuation[/color]
 
-
-Please telegram [nation]The Terran Party[/nation] if you wish to apply for one of these offices.
-
-
-Thanks!
+Current WS: [color=orange]WS 2[/color] - Small nations provoked
+---------------------------------------------------------------------------------------------------------------------------------------------
+Please telegram [nation]The Terran Party[/nation] if you wish to apply for an open spot/office in [region]The Terran Command[/region].
