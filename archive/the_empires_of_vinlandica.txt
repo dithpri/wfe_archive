@@ -10,17 +10,13 @@ Imperial Military: [nation]Pyriland[/nation]
 
 New Japanese Empire: [nation]Japanese Imperial Forces[/nation]
 
-[b][Alliances][/b]
+[b][Close Alliances][/b]
 
 [region]The Empires of Vinlandica[/region] - [url=https://www.nationstates.net/nation=gagala/detail=factbook/id=707259][b]Anti-Feminist Alliance[/b][/url] [nation]Gagala[/nation]
 
 [region]The Empires of Vinlandica[/region] - [region]Federation of Greater German Republics[/region] [nation]Imperial Germans[/nation]
 
-[region]The Empires of Vinlandica[/region] - [region]The Iron Guard[/region] [nation]Corneliu Zelea Codreanu[/nation]
 
-[region]The Empires of Vinlandica[/region] - [region]The Higher Royal Empire of the Flood[/region] [nation]The OEUSGGR[/nation]
-
-[region]The Empires of Vinlandica[/region] - [region]Axis Nations Alliance A X A[/region] [nation]Celtic Bavaria[/nation]
 
 
 

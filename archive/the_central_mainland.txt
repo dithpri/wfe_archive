@@ -5,7 +5,6 @@
 President [nation=short]Northen_Pepoles[/nation]
 Vice President [nation=short]Lasari[/nation]
 Chief of Staff [nation=short]Matthiasopolis[/nation]
-Director of the Domestic Policy Council [nation=short]Kaitian[/nation]
 Cabinet Secretary [nation=short]JustCoby[/nation][/b]
 
 
