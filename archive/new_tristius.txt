@@ -1,8 +1,12 @@
-[b][u]Government[/b][/u]
+[b][u]The Government of New Tristius[/b][/u]
 
-[b]Overlord:[/b] [region]New Blarius[/region]
+[b]Overlord:[/b] [nation]New Blarius[/nation]
 
-[b]Grand Memelord:[/b] [region]The Holy Land of Trump[/region]
+[b]Grand Memelord:[/b] [nation]The Holy Land of Trump[/nation]
+
+[b]Memeinator:[/b] [nation]Catrinaland[/nation]
+
+[b]Dictatorship Representative:[/b] [nation]Blarius[/nation]
 
 [b][u]Chronicle[/b][/u]
 
