@@ -6,6 +6,6 @@ Greater Prussian Authorities:
 
 [b]Emperor:[/b] [nation]Allanea[/nation]
 [b]Arch-Chancellor:[/b] POSITION VACANT.
-[b]Minister of Finance:[/b] POSITION VACANT
-[b]Chief Justice:[/b] POSITION VACANT
+[b]Minister of Finance:[/b] [nation]Menelmacar[/nation]
+[b]Chief Justice:[/b] [nation]Menelmacar[/nation]
 [b]VP of CAPINTERN:[/b] [nation]Urmanian[/nation]

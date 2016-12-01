@@ -1,0 +1,13 @@
+In the beginning, there was:
+
+push ebp
+mov	ebp, esp
+sub	esp, 8
+
+If you understand what this this means and wish to live however the hell you want, work together, or to just be left to your own devices, join and never look back.
+
+But in the end, we all will return. In the word of our fathers:
+
+mov	esp, ebp
+pop	ebp
+ret
