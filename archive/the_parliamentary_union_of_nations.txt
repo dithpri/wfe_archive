@@ -11,10 +11,10 @@ Administrative Officials:[/color] TBA
 [color=red]President:[/color][nation=short]Libertarian Democracy[/nation]
 [color=red]Prime Minister:[/color][nation=short]Abdoa[/nation]
 
-[color=orange]MoD:[/color]TBA
+[color=orange]MoD:[/color][nation=short]Sirius Knight[/nation]
 [color=orange]MoJ:[/color][nation=short]Hashkin[/nation]
 [color=orange]MoW:[/color][nation=short]Bostler[/nation]
-[color=orange]MoC:[/color]TBA
+[color=orange]MoC:[/color][nation=short]Sepharich[/nation]
 [hr]
 [color=blue][b]Parliament:[/b][/color]
 [nation=short]abdoa[/nation]
@@ -23,12 +23,12 @@ Administrative Officials:[/color] TBA
 [nation=short]nassau-windsor[/nation]
 [nation=short]unitedterran[/nation]
 [nation=short]Armenian States[/nation]
-[Vacant seat]
-[Vacant seat]
+[nation=short]Sepharich[/nation]
+[nation=short]Libertarian Republic of Freedom[/nation]
 [Vacant seat]
 
 Nations marked with * do not have a confirmed account on our Forum.
 [hr]
 WA Members, please endorse our [color=red]Prime Minister[/color]!
 [hr]
-The Newspaper will be brought back soon!
+The Newspaper will be brought back soon! The next edition is provisionally scheduled for release on January 10th.

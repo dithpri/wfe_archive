@@ -2,9 +2,9 @@
 
 [b][Founded 10/27/16][/b]
 
-Emperor: [nation]Vinlandica[/nation]
-
 Imperial Leader: [nation]Fgtland[/nation]
+
+Capital Nation: [nation]Vinlandica[/nation]
 
 Imperial Military: [nation]Pyriland[/nation]
 
