@@ -1,5 +1,1 @@
-[b][u][region]Black Marsh[/region][/b][/u]
-Is inhabited by Argonians, lizard people, who are commonly looked down upon as beastfolk. For this reason, the Argonians were formerly a popular slave race.
-This huge and mostly uncharted region of densely vegetated wetlands is at the southeastern tip of Tamriel.
-
-[b]This Region is an Imperial Province of [region]The Empire of Tamriel[/region][/b]
+Province of [region=The Empire of Tamriel]
