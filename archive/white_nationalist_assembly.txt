@@ -1,10 +1,9 @@
 [b][color=gold]1488[/color]
 
-Ready for white settlement:
 [region]Caucasus[/region]
-[region]Niederlande[/region]
-[region]Rumanien[/region]
-[region]Slowenien[/region]
-[region]Ungarn[/region]
-
+[region]Niederlande[/region] Dutch welcome!
+[region]Rumanien[/region] Romanians welcome!
+[region]Slowenien[/region] Slovenes welcome!
+[region]Ungarn[/region] Hungarians welcome!
+[region]Serbien[/region] Serbs welcome!
 [/b]

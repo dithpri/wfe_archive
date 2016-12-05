@@ -1,12 +1,20 @@
 [color=orange][B]Our first General Election will take place January 16th, 2017[/color][/B]
 
 Current Ballot:
-[u]President/VP[/u]
-[nation]leonardo dicaprioland[/nation]/[nation]lanakastan[/nation]
-[nation]Ogamingi[/nation]/undecided
+[u]President[/u]
+[nation]leonardo dicaprioland[/nation]
+[nation]Ogamingi[/nation]
 
 [u]Secretary of State[/u]
 [nation]wiesover[/nation]
+[nation]Lanakastan[/nation]
+
+[u]Supreme Justice[/u]
+[nation]vanderblitz[/nation]
+
+[hr]
+
+[color=#6d5eed]Regional Links:[/color] [[url=http://justicediscussions.freeforums.net/]Forum[/url]] [[url=http://justicediscussions.freeforums.net/board/22/office-secretary-state]SecState Office[/url]] [[url=http://justicediscussions.freeforums.net/board/44/office-minister-internal-affairs]Minister of IA Office[/url]] [[url=http://justicediscussions.freeforums.net/board/9/regional-congress]Congress[/url]] [[url=http://justicediscussions.freeforums.net/board/8/regional-supreme-court]Supreme Court[/url]]
 
 [hr]
 
@@ -14,10 +22,9 @@ Current Ballot:
 
 [hr] 
 
-[color=blue]Region Links: [list=i][/color]
-[*][B][url=http://justicediscussions.freeforums.net/]Forum[/url][/B]
+[color=#6d5eed]Region Reference: [list=i][/color]
 [*][url=https://www.nationstates.net/page=dispatch/id=721585]Constitution[/url]
 [*][url=https://www.nationstates.net/page=dispatch/id=721765]Government Framework[/url]
-[*][url=http://www.nationstates.net/page=dispatch/id=722072]Regional Congress[/url]
-[*][url=http://www.nationstates.net/page=dispatch/id=722076]Regional Supreme Court[/url]
+[*][url=http://www.nationstates.net/page=dispatch/id=722072]Congress Roster[/url]
+[*][url=http://www.nationstates.net/page=dispatch/id=722076]Supreme Court Roster[/url]
 [*][url=https://www.nationstates.net/page=dispatch/id=725136]Legislation Glossary[/url]

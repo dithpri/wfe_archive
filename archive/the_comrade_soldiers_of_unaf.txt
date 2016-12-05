@@ -1,15 +1,1 @@
-[b][color=black]
-[list]Generalissimo [nation=short]The Fascist-Free Lands[/nation]
-Sergeants [nation=short]Enderby[/nation]
-Corporal [nation=short]Dillitti[/nation]
-Private 1st Class [nation=short]Svalbar[/nation]
-
-Volunteers:
-[nation]The Revolutionary Proletarian Republic[/nation]
-[nation]Terra Libertas[/nation]
-[nation]Akitania Luberri[/nation]
-[nation]Central North America[/nation]
-
-Resignations: [nation=short]Communist Quinntopia[/nation][/list][/b][/color][hr]
-
-[b]The Comrade Soldiers of UNAF is owned by [region]Nazi Europa[/region].[/b]
+[b]The Comrade Soldiers of UNAF is owned by [region]BLITZKRIEG[/region].[/b]

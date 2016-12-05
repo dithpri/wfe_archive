@@ -12,5 +12,4 @@ Field Marshall: [nation=short]The Grey Wolf[/nation]
 Panzer Commander: [nation=short]The Fallen Jedi[/nation]
 Commander of Artillery: [nation=short]The United Republic of the Helghan Race[/nation][/color][hr]
 
-[b]The Red Wolf Rifle Korps is owned by[/b] [url=http://www.nationstates.net/region=BLITZKRIEG][i][u][b][color=cc0000]BLITZKRIEG[/i][/b][/color][/u][/url] and [url=http://www.nationstates.net/region=nazi_europa][b][color=cc00000]Nazi Europa[/b][/url][/color].
-[hr]
+[b]The Red Wolf Rifle Korps is owned by [url=http://www.nationstates.net/region=BLITZKRIEG][i][u][color=990000]BLITZKRIEG[/i][/b][/color][/u][/url].
