@@ -1,1 +1,8 @@
 A small group of nations, closely tied in geographical area, and together in arms.
+________________________________________________________________________________________________________________________________
+
+[nation]Grecoromeo[/nation]
+[b]WA Delegate[/b]                             
+
+[nation]Grelani[/nation]
+[b]Guy In Charge[/b]               

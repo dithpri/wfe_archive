@@ -2,8 +2,8 @@ This is a dependent region of the [region]Allied Federation of Nations[/region].
 
 
 [b]Government of the Annex of the Allied Federation of Nations[/b]
-[nation]West Drasnia[/nation] - Governor-General
-[nation]The west drasnian empire[/nation] - Chief Minister for the Occupied Territories
+[nation]Athonos[/nation] - Governor-General
+[nation]West Drasnia[/nation] - Lieutenant Governor
 [nation]Abidawe[/nation] - Secretary-General of the Allied Federation of Nations
 [nation]Bubbalania[/nation] - Supreme Allied Commander of the Allied Federation of Nations
-[nation]Athonos[/nation] - Commissioner for Foreign Affairs of the Allied Federation of Nations
+[nation]Gotesbourg[/nation] - Commissioner for External Affairs of the Allied Federation of Nations

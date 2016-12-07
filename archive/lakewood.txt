@@ -5,10 +5,6 @@ LPCS
 Constitution
 Elections
 
-[color=blue][b]Polls[/b]
-Participation in World Assembly
-Type of Regional Government[/color]
-
 [color=darkblue]Current Leader/Presidential Nominees:[/color]
 [nation]Wagdad[/nation]
 [nation]Ickk[/nation]
