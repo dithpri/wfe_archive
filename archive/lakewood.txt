@@ -5,6 +5,21 @@ LPCS
 Constitution
 Elections
 
-[color=darkblue]Current Leader/Presidential Nominees:[/color]
+------------------------
+
+[color=darkblue][b]Current Government Office Nominees[/b][/color] (Applications still being accepted.)
+
+[color=blue]President[/color]
 [nation]Wagdad[/nation]
+
+[color=orange]Chief Legislator[/color]
+[nation]Bretts Lovely Men[/nation]
 [nation]Ickk[/nation]
+[nation]Di D[/nation]
+
+[color=darkred]Chief Justice[/color]
+[nation]Thurbnation[/nation]
+[nation]Blainetonia[/nation]
+
+[color=violet]Secretary of State[/color] (deals with defense and foreign relations; basically vice president as well)
+[nation]Thurbnation[/nation]

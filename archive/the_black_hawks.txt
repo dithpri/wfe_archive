@@ -11,7 +11,7 @@ MOVE A WA PUPPET TO [region]Kingdom of Ireland[/region] AND ENDORSE [nation=shor
 
 [hr]
 
-TBH Delegate Mom: [nation=short]Tramiar[/nation]
+TBH Mom: [nation=short]Tramiar[/nation]
 Lawn Protection Officer: [nation=short]New South Arctica[/nation][/b]
 
 [hr]

@@ -1,5 +1,5 @@
-[b][color=black][region]The Order of the Grey Wardens[/region] now lays claim to this former darkspawn stronghold.[/color][/b]
+[b][color=navy][region]The Order of the Grey Wardens[/region] now lays claim to this former darkspawn stronghold.[/color][/b]
 
-[i]In War, Victory.
+[color=navy][i]In War, Victory.
 In Peace, Vigilance.
-In Death, Sacrifice.[/i]
+In Death, Sacrifice.[/i][/color]
