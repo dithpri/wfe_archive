@@ -1,19 +1,23 @@
 [b][color=gold]The Assembly will promote white nationalism, peaceful relations between regions, and provide defense against communist aggression[/color]
 
-[region]Caucasus[/region] and [region]Iberian Peninsula[/region] are claimed by the Assembly
-[region]Revolutionary Vanguard[/region] incinerated
+[region]GERMANIC CONFEDERATION[/region]
+([region]Deutsche Reich[/region], [region]Niederlande[/region], [region]Oesterreich[/region], [region]Right Wing Britannia[/region])		
 
-Regional Leaders:
-[nation=short]Caucasus Borderlands[/nation] Non-Political
-[nation=short]Eltranto[/nation] Non-Political
-[nation=short]Deutsche Reich Hauptstadt[/nation] Nazi Party
-[nation=short]Oester Reich[/nation] Nazi Party
-[nation=short]Niederlander[/nation] Nazi Party
-[nation=short]Rumanien Hauptstadt[/nation] No Party
-[nation=short]Ungarn Hauptstadt[/nation] No Party
-[nation=short]Serbien Hauptstadt[/nation] No Party
-[nation=short]The OEUSGGR[/nation] Fascist Party
-[nation=short]Corneliu Zelea Codreanu[/nation] Fascist Party
-[nation=short]United Sates of Merica[/nation] Fascist Party
+[region]SLAVIC CONFEDERATION[/region]
+([region]Slowenien[/region], [region]Rumanien[/region], [region]Ungarn[/region], [region]Serbien[/region])
+
+General
+[region]Iberian Peninsula[/region] &amp; [region]Caucasus[/region]
+
+Incinerated
+[region]Revolutionary Vanguard[/region]	
+
+Embassies:
+[region]Draco Imperialis[/region]	
+[region]Deus Vult[/region]	
+[region]The Higher Royal Empire of the Flood[/region]
+[region]The Iron Guard[/region]
+[region]Union of Nationalists[/region]
+[region]Knights of The Templar Order[/region]
 
 [/b]
