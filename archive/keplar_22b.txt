@@ -9,4 +9,4 @@ One puppet per nation is allowed.
 Thanks for joining!
 
 PUPPETS: [nation=short]Wangul[/nation], puppet of [nation=short]King_Scorm[/nation]
-[nation=short]The_Republic_Of_Chubby_Hippo[/nation], puppet of [nation=short]Fat_Cow_Landia[/nation],[nation=short]Birth_of_Perplexus[/nation], puppet of [nation=short]Maxwelltopia[/nation]
+[nation=short]The_Republic_Of_Chubby_Hippo[/nation], puppet of [nation=short]Fat_Cow_Landia[/nation],[nation=short]Maxwelltopia[/nation], puppet of [nation=short]Cute_Cat_Castle[/nation]

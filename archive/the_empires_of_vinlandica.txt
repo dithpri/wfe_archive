@@ -2,13 +2,11 @@
 
 [b][Founded 10/27/16][/b]
 
-Imperial Leader: [nation]Fgtland[/nation]
+Emperor: [nation]Pyriland[/nation]
 
-Capital Nation: [nation]Vinlandica[/nation]
+Empire Capital: [nation]Vinlandica[/nation]
 
-Imperial Military: [nation]Pyriland[/nation]
-
-New Japanese Empire: [nation]Japanese Imperial Forces[/nation]
+New Imperial Society: [nation]Japanese Imperial Forces[/nation]
 
 [b][Primary Alliances][/b]
 
