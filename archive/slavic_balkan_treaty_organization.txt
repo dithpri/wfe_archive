@@ -5,7 +5,6 @@
 [Region]Velikiy Slaviya[/region]
 [Region]The Commonwealth of Kus[/region]
 [Region]United Yugoslav Republics[/region]
-[region]Slavania[/region]
 [region]The Confederacy of Narvolk[/region]
 
 [u]Observer regions:[/u]

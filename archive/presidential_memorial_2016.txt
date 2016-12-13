@@ -1,1 +1,7 @@
 Nations based upon 2016 Presidential Candidates.
+
+Winner: [nation=short]Donald_Trump_for_President_2016[/nation]
+
+Others (a few not all):[nation=short]Ben_carson_for_president_2016[/nation]
+[nation=short]hillary_clinton_for_president_2016[/nation]
+[nation=short]lindsey_graham_for_president_2016[/nation]
