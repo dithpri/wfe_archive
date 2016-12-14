@@ -1,6 +1,2 @@
-[list][color=navy][b]White House[/b][hr]1600 Pennsylvania Ave. NW
-Washington DC
-built between 1792 and 1800[/list]
-[/color]
-[color=teal]
-This is a [nation=short]New Falham[/nation]/[region=United States of America] Region[/color]
+[color=darkblue]A [region]Russian Federation[/region] territory
+[list]Part of [region]Ancient Lands[/region][/list][/color]

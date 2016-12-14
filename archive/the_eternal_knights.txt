@@ -3,7 +3,7 @@
 
 King: [nation=short]King Nephmir II[/nation] | Bishop: [nation=short]Achllys[/nation][hr][hr][color=scarlet]Knight Commanders[/color]
 Lord: [nation=short]NoblePhnx[/nation]
-Lord: TBA
+Lord: [nation=short]Festavo the Enigma[/nation]
 Lord: TBA
 
 Begin your journey and become a legendary Knight! [url=http://www.nationstates.net/page=dispatch/id=733412]Click here[/url] to get started.[hr][hr][color=scarlet]Current Orders[/color]
