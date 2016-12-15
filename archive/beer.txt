@@ -1,5 +1,5 @@
 Welcome to Beer where the taps are shiny and the pipes are clean. Here, it really is all about the Brew. Those who share our love of beer are welcome. Would-be raiders will be beaten with 40oz. bottles. 
 
 Beer - Hall of Fame:
-Steenhuffel
-Fallentrousersland
+[nation]Steenhuffel[/nation]
+[nation]Fallentrousersland[/nation]

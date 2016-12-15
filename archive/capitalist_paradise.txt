@@ -6,7 +6,7 @@ Constitution: [url=http://goo.gl/ipMYM8]Magna Carta[/url] ~ Outside Forum: [url=
 Minister of Foreign Affairs: [nation=short+noflag]The United Oman[/nation]
 Minister of Interior: [nation=short+noflag]Derivative[/nation]
 
-President of the Legislature: Vacant
+President of the Legislature: [nation=short+noflag]Crooked Timber of Humanity[/nation]
 
 Advocate/Arbiter General: [nation=short+noflag]Northern Borland[/nation]
 Supreme Court Chief Justice: [nation=short+noflag]Nation of Quebec[/nation]
