@@ -1,14 +1,16 @@
 Real Good;
 
-A region that fights for righteousness 
+[color=red]A region that fights for righteousness[/color] 
 
-A region that believes in justice for all
+[color=orange]A region that believes in justice for all[/color] 
 
-A region that stands by it&#39;s name
+[color=green]A region that stands by it&#39;s name[/color] 
 
-A region with a strong community
+[color=blue]A region that welcomes all[/color]
 
-A region that never gives up
+[color=purple]A region with a strong community[/color]
+
+A region that [b]never[/b] gives up
 
 
 

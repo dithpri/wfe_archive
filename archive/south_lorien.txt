@@ -2,15 +2,24 @@ Home to people of all shapes and sizes!
 
 Our WA Delegate is [nation]Bak Wok[/nation]. If you join, please endorse our delegate!
 
-[color=green] Languages [/color]
+[color=red] Districts [/color]
 
-[nation]Duregar[/nation] - Dwarvish-English
-[nation]Gubakzuk[/nation] - English, with motto in Latin
-[nation]Itoville[/nation] - Itovillian
-[nation]Bak Wok[/nation] - English
-[nation]Arkannthil[/nation] - English
-[nation]Nazg[/nation] - English, with motto in Black Speech
-[nation]Barar Dur[/nation] - English
-[nation]Bzdugda[/nation] - Bzdagdiun
-[nation]Gwagud[/nation] - Gwagudian
-[nation]Bwagaduk[/nation] - English
+South Lorien is split into 3 districts.
+
+[b]District 1:[/b] The Senator here has 3 votes.
+[nation]Nazg[/nation] (Founder)
+[nation]Bak Wok[/nation] (WA-Delegate)
+[nation]Gubakzuk[/nation] (Senator)
+
+[b]District 2:[/b] The Senator here has 2 votes.
+[nation]Arkannthil[/nation] (President)
+[nation]Itoville[/nation] (Vice-President)
+[nation]Duregar[/nation] (Senator)
+
+
+[b]District 3:[/b] The Senator here has 4 votes.
+[nation]Emplestark[/nation] (Senator)
+[nation]Bwagaduk[/nation]
+[nation]Gwagud[/nation]
+[nation]Barar Dur[/nation]
+[nation]Bzdugda[/nation]
