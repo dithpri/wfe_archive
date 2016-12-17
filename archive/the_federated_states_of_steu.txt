@@ -2,3 +2,14 @@ Capital: [nation]Steuernland[/nation]
 Regional Currency: Steumark
 
 [b]Telegram [nation]Steuernland[/nation] to be added to the map.[/b]
+
+[b][i][u]LEADERSHIP[/u][/i][/b]
+
+[b]Senior Chancellors[/b]
+1. Oberkanzler: Supreme Chancellor
+2. Vizekanzler: Vice Chancellor
+3. Unterkanzler: Lower Chancellor
+
+[b]Junior Chancellors[/b]
+4. Juniorenkanzler: Junior Chancellor (One per Nation)
+5. Kanzler: Chancellor (There is one per province)

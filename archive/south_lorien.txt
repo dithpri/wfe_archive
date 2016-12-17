@@ -10,6 +10,7 @@ South Lorien is split into 3 districts.
 [nation]Nazg[/nation] (Founder)
 [nation]Bak Wok[/nation] (WA-Delegate)
 [nation]Gubakzuk[/nation] (Senator)
+[nation]Buhubazakp[/nation]
 
 [b]District 2:[/b] The Senator here has 2 votes.
 [nation]Arkannthil[/nation] (President)
