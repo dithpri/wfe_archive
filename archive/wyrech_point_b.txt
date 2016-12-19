@@ -1,0 +1,3 @@
+[color=orange]The backup region for the WCD of [region]Wyrech[/region]. Will not operate unless needed.[/color]
+
+[b][color=red]Status: CLOSED[/color][/b]
