@@ -6,6 +6,9 @@
 
 [color=Gold][b]Regional Government[/color][/b]
 
+[Color=#585858]Founder/Dictator/Cartographer
+[nation=short]jern-ulv[/nation][/color]
+
 [color=Blue]Head of Foreign Affairs
 [Nation=imperial_china-shou][/color]
 
@@ -14,15 +17,20 @@
 
 [color=#FF4500]Head of Internal Affairs / RP Moderator
 [Nation=Roma_Evna][/color]
+
+[Color=teal]WA Delegate 
+[nation=short]Anarhic_Empire_of_Byzantine[/nation] [/color]
 [hr]
 
 [color=gold][u]Laotis was created on the 27th of August 2016![/color][/u]
 
-[color=red]Time: January 1945
+[color=red]Time: March 1945
 1 day = 1 month RP
 12 days = 1 year RP[/color]
 
 [color=#1E90FF]New to roleplay? Please message [nation=short]Roma_Evna[/nation] or [nation=short]jern-ulv[/nation]!
+
+Telegram [nation=short]jern-ulv[/nation] for a spot on the map!
 [/color]
 
 [hr]
