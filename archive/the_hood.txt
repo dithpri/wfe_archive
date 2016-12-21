@@ -1,7 +1,1 @@
-[region]The Death[/region]
-
-[region]The Invaders[/region]
-
-[region]HYDRA Command[/region]
-
-[region]The Black Hawks[/region]
+[b]This region belongs to [region]The Black Hawks[/region]![/b]

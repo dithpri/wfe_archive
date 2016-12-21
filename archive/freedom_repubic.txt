@@ -12,14 +12,18 @@ and become fellow Citizens and Soldiers of the Lysandrian Empire.
 [hr]
 
 
--Consul/Commander -
+-Consul/Commander-
 [nation]Canaveran Empire[/nation]
 
 -Legionaries-
 [nation]Black Tigers[/nation]
 [nation]Pridios[/nation]
+[nation]The Byzantine Empire[/nation]
+
+-Allied Commander from [region]Draco Imperialis[/region]
+[nation]Regnat Populus[/nation]
 
 -Allied Soldiers from [region]Draco Imperialis[/region]-
 [nation]Sillvana[/nation]
-[nation]The Byzantine Empire[/nation]
+
 [/b]

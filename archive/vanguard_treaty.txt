@@ -5,8 +5,8 @@ The [b][url=http://www.nationstates.net/region=ussd][color=red]Vanguard Treaty[/
 [hr]
 
 [B]CURRENT MEMBER REGIONS:[/B]
-[region]USSD[/region]
-[region]Conf of Traditional Socialist Nations[/region]
-[region]League of Reformed Socialist States[/region]
-[region]CPN[/region]
-[region]Exodus[/region]
+[list][*][region]USSD[/region]
+[*][region]Conf of Traditional Socialist Nations[/region]
+[*][region]League of Reformed Socialist States[/region]
+[*][region]CPN[/region]
+[*][region]Exodus[/region][/list]
