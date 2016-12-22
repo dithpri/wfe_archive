@@ -10,11 +10,8 @@
 [b][u][i][color=silver]Legislative Branch[/b][/u][/i][/color]
 [color=Purple]Speaker of the Senate: [nation=notice me senpai][/color] 
 [color=blue]Senatorial Advisor on Foreign Affairs: [nation]Scary Mike[/nation][/color]
-[color=red]Senatorial Advisor on Internal Affairs: TBD[/color] 
+[color=red]Senatorial Advisor on Internal Affairs: [nation=Quenese][/color] 
 [hr]
-[b][u][i][color=silver]Judicial Branch[/b][/u][/i][/color]
-[color=darkred]Chief Justice: TBD[/color]
-[color=cyan]Associate Justice: TBD[/color]
-[hr]
+
 [b][color=lime]Bill(s) in the Senate: 0[/color]
 [color=yellow]Bill(s) on the President&#39;s Desk: 0[/color][/b]

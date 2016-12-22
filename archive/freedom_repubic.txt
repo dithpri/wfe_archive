@@ -20,10 +20,10 @@ and become fellow Citizens and Soldiers of the Lysandrian Empire.
 [nation]Pridios[/nation]
 [nation]The Byzantine Empire[/nation]
 
--Allied Commander from [region]Draco Imperialis[/region]
+-Allies from [region]Draco Imperialis[/region]-
 [nation]Regnat Populus[/nation]
 
--Allied Soldiers from [region]Draco Imperialis[/region]-
+-Allies from [region]The Order of the Sword[/region]-
 [nation]Sillvana[/nation]
 
 [/b]
