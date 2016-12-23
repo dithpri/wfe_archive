@@ -14,7 +14,7 @@ South Lorien is split into 3 districts.
 
 [b]District 2:[/b] The Senator here has 2 votes.
 [nation]Arkannthil[/nation] (President)
-[nation]Itoville[/nation] (Vice-President)
+[nation]Itoville[/nation]
 [nation]Duregar[/nation] (Senator)
 
 
@@ -22,5 +22,5 @@ South Lorien is split into 3 districts.
 [nation]Emplestark[/nation] (Senator)
 [nation]Bwagaduk[/nation]
 [nation]Gwagud[/nation]
-[nation]Barar Dur[/nation]
+[nation]Barar Dur[/nation] (Vice-President)
 [nation]Bzdugda[/nation]

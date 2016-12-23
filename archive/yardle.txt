@@ -24,4 +24,6 @@ Ross:
 Joel:
 - [nation]Chortleby[/nation]
 Kevin:
--[nation]The Schokuj[/nation]
+- [nation]The Schokuj[/nation]
+- Taya:
+- [nation]New Taspo[/nation]

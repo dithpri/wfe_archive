@@ -19,6 +19,7 @@ and become fellow Citizens and Soldiers of the Lysandrian Empire.
 [nation]Black Tigers[/nation]
 [nation]Pridios[/nation]
 [nation]The Byzantine Empire[/nation]
+[nation]Sicilian Imperial-Capitalist Empire[/nation]
 
 -Allies from [region]Draco Imperialis[/region]-
 [nation]Regnat Populus[/nation]
