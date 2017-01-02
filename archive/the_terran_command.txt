@@ -8,7 +8,7 @@
 [color=yellow]WS 3: War[/color]
 [color=red]WS 4: Region-Wide Evacuation[/color]
 
-Current WS: [color=green]WS 1[/color] - Peace
+Current WS: [color=green]WS 2[/color] - Minor Warning
 
 _______________________________________________________________________________________________________________________
 
@@ -16,6 +16,7 @@ ________________________________________________________________________________
 
 - [region]The Terran Command[/region]
 - [region]Pacific Militarized Zone[/region] (unincorporated)
+- [nation]The Occupied States of Nivelia[/nation]
 _______________________________________________________________________________________________________________________
 
 Please telegram [nation]The Terran Party[/nation] if you wish to apply for an open spot/office in [region]The Terran Command[/region].
