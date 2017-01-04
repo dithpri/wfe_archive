@@ -6,9 +6,14 @@
 
 [hr]
 
-[B]CURRENT MEMBER REGIONS:[/B]
+[B]CURRENT SIGNATORY REGIONS:[/B]
 [list][*][region]USSD[/region]
 [*][region]Conf of Traditional Socialist Nations[/region]
 [*][region]League of Reformed Socialist States[/region]
 [*][region]CPN[/region]
 [*][region]Exodus[/region][/list]
+
+[B]OBSERVER REGIONS:[/B]
+
+[list][*][region]The Communist Legion[/region]
+[*][region]Union of Proletarian States[/region][/list]

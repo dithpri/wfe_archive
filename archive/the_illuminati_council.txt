@@ -4,11 +4,11 @@ Welcome to [region=The Illuminati Council]. United we stand, together we fall.
 [hr][color=blue][u][b]The Grand Council[/b][/u][/color]
 [b]Chancellor:[/b] [nation=long]The Central Communist Anarchy[/nation]
 [b]Vice Chancellor:[/b] [nation=long]Kovichialand[/nation]
-[b]Speaker of the Senate:[/b] [nation=long]Destrano[/nation]
+[b]Speaker of the Senate:[/b] [nation=long]Potassium 1o4[/nation]
 [b]Secretary of States:[/b] [nation=long]Young Cash Money[/nation]
-[b]Secretary of Defense:[/b] N/A
-[b]Secreatry of Education:[/b] N/A
-[b]Secretary of Public Relations:[/b] N/A
+[b]Secretary of Defense:[/b] [nation=long]Marlanglass[/nation]
+[b]Secreatry of Education:[/b] [nation=long]Varanasia[/nation]
+[b]Secretary of Public Relations:[/b] [nation=long]Mendeleze[/nation]
 [hr][color=red][u][b]Legal[/b][/u][/color]
 [b]Chief Justice:[/b] [nation=long]Elkish[/nation]
 [b]Regional Attorney:[/b] [nation=long]Dubsui[/nation]
