@@ -19,3 +19,9 @@
 &amp;#128125;[color=lightgreen][b][i]Aliens are coming[/color][/b][/i]&amp;#128125;
 &amp;#128299;[color=black][b][i]Pew[/color][/b][/i]&amp;#128299;
 [color=darkorange][b][i]If you like all of this join [region=The Saviors]![/color][/b][/i]
+  O | O | X
+---+---+---
+ O | X | X
+---+---+---
+ X  | X | O
+[color=darkorange][b][i][region=Apobocolpyse]Wins!![/color][/b][/i]
