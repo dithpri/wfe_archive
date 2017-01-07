@@ -10,7 +10,7 @@
 
 NEWS: Endorse Steelia! 
 
-Premier: [nation=shortname]Populi Sclavi[/nation] ([nation=short]Velykyy Lviv[/nation](L&#39;wow))
+Premier: [nation=shortname]Populi Sclavi[/nation] ([nation=short]Velykyy Lviv[/nation])
 Chancellor: [nation=short]Slavic Bloodia[/nation]
 Vice-Chancellor: [nation=short]Northern Bohemia[/nation]
 Endorse the Chancellor!
