@@ -15,4 +15,7 @@ Yes: 2 No: 5 Abstain: 2
 Result: [color=red]Does not pass.[/color]
 [b]Regional Proposition #2: Expedition Deep Blue[/b]
 Yes: 7 No: 0 Abstain: 1
-Results: [color=green]Passed[/color]
+Results: [color=green]Passed.[/color]
+[b]Regional Proposition #3: Regional Defense Force (R.D.F)[/b]
+Yes:5 No: 2 Abstain: 1
+Results: [color=green]Passed.[/color]

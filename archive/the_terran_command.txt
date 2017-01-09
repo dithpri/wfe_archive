@@ -1,5 +1,6 @@
 [b]Welcome to [color=red]The Terran Command[/color], an [color=green]intelligent[/color], [color=blue]strong[/color], and [color=purple]powerful[/color] alliance of several empires.[/b]
 
+Territories: Pacific Militarized Zone, National Bank of Terran
 
 [b][u]Warning States (WS):[/u][/b]
 
@@ -8,15 +9,8 @@
 [color=yellow]WS 3: War[/color]
 [color=red]WS 4: Region-Wide Evacuation[/color]
 
-Current WS: [color=green]WS 2[/color] - Minor Warning
+Current WS: [color=green]WS 1[/color] - Peace
 
-_______________________________________________________________________________________________________________________
-
-[b][u]Territories[/b][/u]
-
-- [region]The Terran Command[/region]
-- [region]Pacific Militarized Zone[/region] (unincorporated)
-- [region]National Bank of Terran[/region]
 _______________________________________________________________________________________________________________________
 
 Please telegram [nation]The Terran Party[/nation] if you wish to apply for an open spot/office in [region]The Terran Command[/region].

@@ -7,3 +7,11 @@
 [nation]Knowbody[/nation]: [color=maroon] Lieutenant+point/trigger[/color]
 [nation]Blutbadia[/nation]: [color=maroon] Lieutenant[/color]
 [nation]Madam Mitsuko[/nation]:[color=blue] Centurion[/color]
+
+[b][color=Red]A Huge Thanks to these regions for providing pilers:[/color][/b]
+[region]The Invaders[/region]
+[region]TWPAF[/region]
+[region]HYDRA[/region]
+[region]The Black Hawks[/region]
+[region]21st Century Rome[/region]
+[region]HMS Warmaiden[/region]
