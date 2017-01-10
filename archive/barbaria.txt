@@ -2,12 +2,12 @@
 Supreme Emperor: Ishmael Kane of [nation]Vostag[/nation]
 
 [b][u]Regional Delegate:[/u][/b]
-Supreme Chancellor: Elect:Dec 30
-Vice Chancellor: Frank Whilhelm of [nation]Greater Hessia[/nation] Elect:Dec 30
+Supreme Chancellor: Elect:
+Vice Chancellor: Frank Whilhelm of [nation]Greater Hessia[/nation] Elect:Jan 30
 
 [b][u]Barbarian Ministries:[/u][/b]
-Communications Minister: Tak Oahu of [nation]The Berber states[/nation] Elect:Dec 30
-Defense Minister: Enoch Karrell of [nation]Lost Altrusia[/nation] Elect:Dec. 30
-Foreign Affairs Minister: Fedrick Collins of [nation]Sovern[/nation] Elect:Jan. 30
-Domestic Affairs Minister: Kenneth Atill of [nation]The Hunnic Khanate[/nation] Elect:Jan. 31
-Research Minister: Elect:Dec. 15
+Foreign Affairs Minister: Fedrick Collins of [nation]Sovern[/nation] Elect:Jan 30
+Domestic Affairs Minister: Kenneth Atill of [nation]The Hunnic Khanate[/nation] Elect:Jan 14
+Defense Minister: Wilhelm Phillips of [nation]Volohk[/nation] Elect:Feb 28
+Communications Minister: Tak Oahu of [nation]The Berber states[/nation] Elect:Jan 12
+Research Minister: Elect:Jan 16

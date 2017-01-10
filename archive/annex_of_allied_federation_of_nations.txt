@@ -1,7 +1,7 @@
-This is a dependent region of the [region]Allied Federation of Nations[/region]. The regional government is the responsibility of [nation]Athonos[/nation], whose responsible minister serves as acting Governor-General.
+This is a dependent region of the [region]Allied Federation of Nations[/region]. The regional government is the responsibility of [nation]Gotesbourg[/nation], Commissioner for External Affairs. This region is the territory of the AFN, is a signatory of its charter, and is subject to its laws.
 
 [b]Government of the Annex of the Allied Federation of Nations[/b]
 [nation]Abidawe[/nation] - Secretary-General of the Allied Federation of Nations
 [nation]Bubbalania[/nation] - Supreme Allied Commander of the Allied Federation of Nations
 [nation]Gotesbourg[/nation] - Commissioner for External Affairs of the Allied Federation of Nations
-[nation]Athonos[/nation] - Governor General of the Annex of the Allied Federation of Nations
+[nation]Athonos[/nation] - Governor-General of the Annex of the Allied Federation of Nations
