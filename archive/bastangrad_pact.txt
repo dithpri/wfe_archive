@@ -16,3 +16,7 @@ Made to contain the forces of the Bastangrad Pact.
 [nation]Dixie Boonslick[/nation](MT)
 [nation]Enclave of Columbia[/nation](MT)
 [nation]Old Wild West[/nation](MT)
+[nation]Communist Hellas[/nation](MT)
+[nation]Al-Hirah[/nation]
+
+While many members have been removed, they all still bare the symbolic relation to that of the Pact and that which they must follow.

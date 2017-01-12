@@ -1,7 +1,7 @@
 [color=DarkOrange]A diverse coalition of nations on the continent Bentonia, named after the historic explorer, educator, and leader of the continent.[/color]
 [hr]
-Regional Coordinator: Xantarian
-[color=gray]*Founder Etheriland will retain executive authority, but operations will mostly be in the hands of the RC.[/color]
+Regional Coordinator: [nation=short]Xantarian[/nation]
+[color=gray]*Founder [nation=shortnoflag]Etheriland[/nation] will retain executive authority, but operations will mostly be in the hands of the RC.[/color]
 
 [hr]
 Discord channel: 4TBD5
