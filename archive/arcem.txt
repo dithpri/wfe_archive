@@ -1,9 +1,9 @@
 [b][color=red]Welcome to[/color] [color=blue]A[/color][color=gray]R[/color][color=blue]C[/color][color=gray]E[/color][color=blue]M[/color][/b]
 
-[b][color=teal]REGIONAL GEOGRAPHY[/color][/b]
-[region]Arcem[/region] is located on a large island in the middle of a vast ocean. The island features all types of terrain (mountains, beaches, deserts, taiga, etc.)
+[b][color=teal]Overview[/color][/b]
+[region]Arcem[/region] is located on a terraformed Mars in an alternate dimension. Through technological advancement, we are able to communicate across the Multiverse with other nations. Contact [nation=short]Morriband[/nation] to apply for joining.
 
-[b][color=teal]NATIONS[/color][/b]
-[nation]Morriband[/nation] |[color=blue]Founder[/color]|[color=darkred]Superpower[/color]|
-[nation]Militvm[/nation] |[color=blue]Regional Security[/color]|[color=darkred]Military State[/color]|
-[nation]Somear[/nation] |[color=blue]Diplomatic Corps[/color]| [color=darkred]Libertarian Republic[/color]|
+[b][color=teal]News[/color][/b]
+[nation]Somear[/nation] was recently established as the head of the Arcem diplomatic efforts.
+[nation]Morriband[/nation] is currently leading operations to upgrade our research base on the moon.
+[nation]Militvm[/nation] is expanding it&#39;s inter-planetary fleet capabilities to carry out its role as the military epicenter of Arcem.

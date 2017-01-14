@@ -3,10 +3,10 @@
 | Full Bench of the CILJ | Chamber of Original Jurisdiction | Chamber of Regional Appeals | Chamber of Inter-Regional Affairs |
 [hr]
 [b][u]CILJ Board[/b][/u]
--[nation]Ecclestia[/nation]
--[nation]BearNation[/nation]
--[nation]The City-State of Vienna[/nation]
--[nation]The Rouge Christmas State[/nation]
+[B]-[/B] [nation]Ecclestia[/nation] - Delegate of [region]Christadelphia[/region]
+[B]-[/B] [nation]BearNation[/nation] - Delegate of [region]Gay[/region]
+[B]-[/B] [nation]The City-State of Vienna[/nation] - Foreign Secretary of [region]Europe[/region]
+[B]-[/B] [nation]The Rouge Christmas State[/nation] - Former Delegate of [region]Right To Life[/region]
 [hr]
 [b][u]Key Contacts[/b][/u]
 Chief Justice- TBD

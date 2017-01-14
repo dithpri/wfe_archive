@@ -11,6 +11,6 @@
 
 [color=lightgreen][b]Alert Level:[/color][/b]
 
-[color=aqua][b]*Normal*[/color][/b]
-[color=yellow]Heightened[/color]
+[color=aqua][b]Normal[/color][/b]
+[color=yellow]*Heightened*[/color]
 [color=maroon]Lock down[/color]
