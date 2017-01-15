@@ -1,27 +1,23 @@
-[B]Welcome to The Union Star, also known as TUS...[/B]
-[i]The region of success.[/i]
+[color=darkred][b][u][i]Welcome to The Union Star, also known as TUS.[/b][/u][/i][/color]
+[color=darkred][i]&quot;The region of success.&quot;[/i][/color]
+[u][color=darkred]Read the factbooks below, run for a Secretary position.[/color][/u]
+[color=darkblue]To get a spot on the regional map, telegram [nation=short]Les Ladaine[/nation] with your claims.[/color]
+[hr] [color=darkred]|[url=https://www.nationstates.net/nation=east_staten_island/detail=factbook/id=754894]Regional Map[/url]|[url=https://www.nationstates.net/nation=east_staten_island/detail=factbook/id=723375]Constitution[/url]|[url=https://discord.gg/CjhB5TF]Regional Discord[/url]|[/color]
 [hr]
-|[url=https://www.nationstates.net/nation=east_staten_island/detail=factbook/id=754894]Regional Map[/url]|[url=https://www.nationstates.net/nation=east_staten_island/detail=factbook/id=723375]Constitution[/url]||[url=https://discordapp.com/channels/269972363804803072/269972363804803072]Regional Discord[/url]|
-[hr]
-To get a spot on the regional map, telegram [nation=short]Les Ladaine[/nation] with your claims.
-[hr]
-[B]Founder:[/B] [nation=short]East Staten Island[/nation]
+[color=darkblue][B]Regional Leaders:[/B][/color]
+[color=darkred][B]Founder:[/B] [nation=short]East Staten Island[/nation]
 [B]President:[/B] [nation=short]Nova Yotteska[/nation]
-[B]Vice President:[/B] [nation=short]North Dajao[/nation]
+[B]Vice President:[/B] [nation=short]North Dajao[/nation][/color]
 [hr]
-[B]Regional Happenings:[/B]
-- The Pacific War
+[color=darkblue][B]Regional Happenings:[/B][/color]
+[color=darkred]- The Pacific War
 - The Staten Depression
-- The European Conflict
+- The European Conflict[/color]
 [hr]
-[B]Regional Codes:[/B]
+[color=darkblue][B]Regional Codes:[/B][/color]
 [color=Darkred]Code Red[/color]
 [color=grey]Code Grey[/color]
-[color=green]Code Green[/color]
+[color=darkgreen]Code Green[/color]
 [hr]
-[u]Read the factbooks below...
-Run for a Secretary position.[/u]
 
-[B]Thanks for joining[/B]
-
-
+[color=darkred][B][i]Thanks for joining![/B][/i][/color]
