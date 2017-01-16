@@ -1,2 +1,4 @@
- [nation]Culer Land[/nation]
-&quot;When the world gets you down, go loco.&quot;
+[B]You&#39;ve been raided, okay?
+[region]The Black Hawks[/region]
+[region]Hydra COMMAND[/region]
+[region]The Mafia[/region][/B]

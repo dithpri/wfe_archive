@@ -1,39 +1,11 @@
-Current Party Standing Census 
-Congress
+Vurldnieve was a great landmass discovered by the explorers of two joint operations from the countries of Uzkazistan and Taibeiwan.
 
-Each Nation has 71 standing members within the Vurldnieve Congress
-Format:
-[Party] - [# of dominant nations]
-* [Dominant Nation] (Seats held)
-- [Nation] (Seats held)
+Current Parties Representing the Congress
+-Liberone Party
+-Oceanian Nationalist Party
+-Gandhi Worker&#39;s Party
+-First Conservatory Party
+-London Economic Party
+-Shoe-Shu Workers&#39; Party
+-London Social Democratic Party
 
-Liberone Party - 3 Nations
-* Yielond (64)
-* Arifoland (62)
-* Treada (41)
-
-Oceanian Nationalist Party - 1 Nation
-* Oceania (71)
-
-Gandhi Workers&#39; Party - 1 Nation
-* Nukegandhi (70)
-
-First Conservatory Party
-- Yielond (5)
-- Treada (30)
-
-London Economic Party
-- Arifoland (9)
-- Yielond (2)
-
-London Social Democratic Party
-- Nukegandhi (1)
-
-Executive Leaders - Due for Executive Summit when called
-
-N. Taipei, Prime Minister of Yielond
-O. Caang, Rightly Elected President of Oceanija
-N. Taipei, Appointed Dictator of Nukegandhi
-
-Treada holding elections
-Arifoland holding elections
