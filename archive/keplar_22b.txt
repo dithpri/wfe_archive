@@ -8,7 +8,9 @@ Particapate in polls and remain active
 One puppet per nation is allowed.
 Banning those who have done nothing wrong is not permitted and is punishable by life banning.
 Thanks for joining!
-PUPPETS: [nation=short]Wangul[/nation], puppet of [nation=short]King_Scorm[/nation]
-[nation=short]The_Republic_Of_Chubby_Hippo[/nation], puppet of [nation=short]Fat_Cow_Landia[/nation],[nation=short]Cute_Cat_Castle[/nation], puppet of [nation=short]Maxwelltopia[/nation]
+PUPPETS:
+ [nation=short]Wangul[/nation], puppet of [nation=short]King_Scorm[/nation]
+[nation=short]The_Republic_Of_Chubby_Hippo[/nation], puppet of [nation=short]Fat_Cow_Landia[/nation],
+[nation=short]Cute_Cat_Castle[/nation], puppet of [nation=short]Maxwelltopia[/nation]
 
-P.S. [nation=short]King scorm[/nation] is the leader of Keplar 22b and can override any of these rules if he chooses. No one else can.
+P.S. [nation=short]King scorm[/nation] is the leader of Keplar 22b and can override any of these rules if he chooses. Without any sort of democratic vote. He is a God.
