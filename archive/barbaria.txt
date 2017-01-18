@@ -1,8 +1,8 @@
 [b][u]Chief Executive:[/u][/b]
-Supreme Emperor: Ishmael Kane of [nation]Vostag[/nation]
+Emperor: Ishmael Kane of [nation]Vostag[/nation]
 
 [b][u]Regional Delegate:[/u][/b]
-Supreme Chancellor: Elect: Jan 30
+Chancellor: Elect: Jan 30
 Vice Chancellor: Frank Whilhelm of [nation]Greater Hessia[/nation] Elect:Jan 30
 
 [b][u]Barbarian Ministries:[/u][/b]
@@ -10,4 +10,3 @@ Foreign Affairs Minister: Fedrick Collins of [nation]Sovern[/nation] Elect:Jan 3
 Domestic Affairs Minister: Kenneth Atill of [nation]The Hunnic Khanate[/nation] Elect:Jan 13
 Defense Minister: Wilhelm Phillips of [nation]Volohk[/nation] Elect:Mar. 10
 Communications Minister: Tak Oahu of [nation]The Berber states[/nation] Elect:Mar 12
-Research Minister: PENDING
