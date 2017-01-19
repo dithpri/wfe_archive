@@ -13,6 +13,6 @@ Welcome to [region]The New United Kingdom[/region] of [color=red]England[/color]
 [region]New London[/region], 
 [region]Commonwealth of Canada[/region], 
 [region]Australasia[/region],
+[region]Australian Commonwealth[/region],
 [region]Khanate of Inner Mongolia[/region].
-
-We accept new regions into the empire.
+[region]Commonwealth of India[/region]
