@@ -1,1 +1,4 @@
-The Commonwealth of Australia
+[color=navy][b]The Commonwealth of Australia[/b]
+this is a [nation=short]Juergen[/nation] region
+also a [nation=short]Royal House of Windsor[/nation] region
+also associated with [region=United States of America][/color]
