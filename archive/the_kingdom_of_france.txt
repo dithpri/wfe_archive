@@ -1,5 +1,6 @@
-[color=blue]Bonjour et Bienvenue au royaume de [/color]France. Cette Royaume a ete ici pour 300 [color=red]annees et sera ici pour 300 plus![/color]
+[b][color=navy]Bonjour et Bienvenue au Royaume de France. Cette Royaume a ete ici pour 300 annees et sera ici pour 300 plus![/color]
+[color=red]Hello and Welcome to the Kingdom of France. The Kingdom has been here for 300 years and will be here for 300 more![/color][/b]
 
-[hr]
+We are a region founded upon democratic and monarchist values; we highly value integrity, activeness, and prosperity. Join us and embark on whole new adventure!
 
-[color=blue]Hello and Welcome to the kingdom of[/color] France. The Kingdom has been here for 300[color=red] years and will be here for 300 more![/color]
+[b]Sister Regions:[/b] [region]Ancien Regime[/region], [region]Royaume de France[/region], [region]French Empire[/region], [region]The French Republic[/region], [region]Reunion Island[/region]
