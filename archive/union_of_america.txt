@@ -1,10 +1,13 @@
-[color=navy]And I would&#39;ve gotten away with it too, if it weren&#39;t for you meddling [B]Hawks[/B]!
-[/color]
-[B]Another region fallen to [region]The Black Hawks[/region]! Huzzah! Huzzah!
+[b]Welcome to The Union Of America[/b]
+[hr]
+[i]Regional Government[/i]
+[b]Founder[/b]: [nation=short]Baton Louisiana[/nation]
+[b]President[/b]: [nation=short]Swickia[/nation]
+[b]Vice President[/b]: [nation=short]New Sacramento Republic[/nation]
+[hr]
+Telegram [nation=short]Baton Louisiana[/nation] To Get On The Map
 
-Hawks Involved:
-Sergeant [nation=short]Sygian_TBH[/nation]
-Corporal [nation=short]Shadow_lance[/nation]
-PFC [nation=short]Vapid_ii[/nation]
-Private [nation=short]Fallaz[/nation]
-Private [nation=short]The_last_great_empire[/nation][/B]
+[b]Map Info[/b]
+- Choose a state, you can either choose to be a Senator, Governor, or Representative. 
+- One Governor to a state only, but two Senators and Representatives are allowed.
+[hr]Def Con: [color=darkgreen]1[/color]|[color=green]2[/color]|[color=grey]3[/color]|[color=orange]4[/color]|[color=red]5[/color]|
