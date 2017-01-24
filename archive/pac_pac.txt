@@ -4,13 +4,12 @@
 [b][color=lightblue]FIORN: [/b][/color][color=lightblue]6[/color]
 
 [color=silver][b][u][i]Executive Branch[/b][/u][/i][/color]
-[color=orange]President of Pac Pac:[/color] [nation=Bazookistan]
-[color=lime]Vice President of Pac Pac: [nation=notice me senpai][/color] 
+[color=orange]President of Pac Pac:[/color] [nation=Scary Mike]
+[color=lime]Vice President of Pac Pac: [nation=Quenese][/color] 
 [hr]
 [b][u][i][color=silver]Legislative Branch[/b][/u][/i][/color]
-[color=Purple]Speaker of the Senate: [nation=notice me senpai][/color] 
-[color=blue]Senatorial Advisor on Foreign Affairs: [nation]Scary Mike[/nation][/color]
-[color=red]Senatorial Advisor on Internal Affairs: [nation=Quenese][/color] 
+[color=Purple]Speaker of the Senate: [nation=Quenese][/color] 
+[color=blue]Senatorial Advisor on Government and Social Affairs: [nation]Lackatoo[/nation][/color]
 [hr]
 
 [b][color=lime]Bill(s) in the Senate: 0[/color]
