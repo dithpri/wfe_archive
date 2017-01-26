@@ -1,7 +1,1 @@
-**Military Building Build Times (MAX OF 3 BUILDINGS AT ANY ONE TIME, THIS MEANS RP AND MILITARY COMBINED)
-48hrs - (48hrs x EconomyScoreAsDecimal)
-This mean that if I had... 50 economy, the equation would be 48hrs - (48hrs x 0.50) = 24hrs; or 100 economy, the equation would be 48hrs - (48hrs x 1) = 6hrs (MINIMUM OF 6HRS)
-
-**RP Building Build Times
-24hrs - (24hrs x EconomyScoreAsDecimal)
-This mean that if I had... 50 economy, the equation would be 24hrs - (24hrs x 0.50) = 12hrs; or 100 economy, the equation would be 24hrs - (24hrs x 1) = 3hrs (MINIMUM OF 3HRS)
+https://docs.google.com/document/d/1lT2FxjBD2dRrkAwLKC72NYe_AcaZOdCeTXlqpklW7zA/

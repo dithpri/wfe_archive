@@ -6,7 +6,7 @@ Welcome to [region=The Illuminati Council]. United we stand, together we fall.
 [b]Vice Chancellor:[/b] [nation=long]Kovichialand[/nation]
 [b]Speaker of the Senate:[/b] [nation=long]Potassium 1o4[/nation]
 [b]Secretary of States:[/b] [nation=long]Young Cash Money[/nation]
-[b]Secretary of Defense:[/b] [nation=long]Marlanglass[/nation]
+[b]Secretary of Defense:[/b] [nation=long]Dp country2[/nation]
 [b]Secreatry of Education:[/b] [nation=long]Varanasia[/nation]
 [b]Secretary of Public Relations:[/b] [nation=long]Mendeleze[/nation]
 [hr][color=red][u][b]Legal[/b][/u][/color]
@@ -15,4 +15,4 @@ Welcome to [region=The Illuminati Council]. United we stand, together we fall.
 [hr][b][u][color=green]Status[/color][/u][/b]
 [b]DEFCON: [color=green]4[/color][/b]
 [b]Borders:[/b] Open
-[b]Next Chancellor Election:[/b] March 2nd, 2016
+[b]Next Chancellor Election:[/b] March 2nd, 2017

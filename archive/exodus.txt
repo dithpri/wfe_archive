@@ -30,3 +30,6 @@ Donors: [region]USSD[/region]
 [*][nation=short]alvoru[/nation] ([b][color=#21618C]Loyalist[/color][/b])
 [/list]
 [hr]
+
+[b]News[/b]: [list][*]Curia Elections are coming! Announce your candidacy on the RMB!
+[*][nation=short]Altino[/nation] is a traitor to the Holy Queen [nation=short]Kawaii_Village[/nation]! &amp;gt;:3[/list]

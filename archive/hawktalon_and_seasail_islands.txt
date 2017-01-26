@@ -3,12 +3,15 @@ Hawktalon and Seasail Islands
 Hawktalon has several &quot;unofficial regions&quot;: (from north to south)
 -Hawknorth
 -Flagstone
+[nation]Amber Port[/nation]
+[nation]Blindfold Peaks[/nation]
 -Eaglesong
 -Ruin Coast
 -Petersburg
 -Quartzcliffe
 -The Claws
 -Red Sail Coast
+[nation]Red Sail Coast[/nation]
 
 Seasail Islands has only three: (from west to east)
 -Lantern Isle

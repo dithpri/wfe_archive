@@ -1,2 +1,12 @@
-The holy alliance that defends the mothra religion...
-HAIL MOTHRA
+The Holy Moth Empire is a Theocratic Empire which is composed of several autonomous nations sharing a single goal. It is to promote international co-operation between nations in guiding nations outside of the empire to follow the One True Faith. The Holy Mothran Faith. Let Mothra cleanse us of our sins and guide us to salvation.
+
+Hail Mothra!
+
+
+Help us endorse these following nations:
+
+[nation]can_commonwealth[/nation]
+[nation]Aftokratoria[/nation]
+
+
+-Aftokratoria
