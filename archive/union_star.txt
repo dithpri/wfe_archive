@@ -10,7 +10,8 @@
 [B]Vice President:[/B] [nation=short]Elucidia[/nation][/color]
 [hr]
 [color=darkblue][B]Regional Happenings:[/B][/color]
-[color=darkred]- The embassy with DUR may be closed soon, the final verdict will be released after regional officials convene. The threats from [nation]New Boniza[/nation] are to be ignored.[/color]
+[color=orange]- The embassy with DUR may be closed soon, the final verdict will be released after regional officials convene[/color]
+[color=green]-Regional elections begin Febuary 3rd, stay tuned![/color]
 [hr]
 [color=darkblue][B]Regional Codes:[/B][/color]
 [color=red]Code Red[/color]: Region Is On Lockdown
@@ -20,4 +21,4 @@
 
 [color=darkred][B][i]Thanks for joining![/B][/i][/color]
 
-Current threat level: [color=gold]Code Yellow[/color], the region is on watch.
+Current threat level: [color=green]Code Green[/color], the region is safe.

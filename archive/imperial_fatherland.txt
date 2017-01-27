@@ -8,7 +8,7 @@ For a list of important assets that will be decided upon by the region&#39;s pop
 
 [b][color=DEA82A]Intern Consul[/b][/color]: [nation=short+noflag]The Catholic Federation of Great Britain[/nation]
 [b][color=2B60DE]Deputy Prime Minister[/b][/color]: [nation=short+noflag]Unified Belarus[/nation]
-[b][color=DEA82A]Home Secretary[/b][/color]: [b]Open[/b]
+[b][color=DEA82A]Intern Consul[/b][/color]: [b]Open[/b]
 [b][color=2B60DE]Minister of Foreign Affairs[/b][/color]: [nation=short+noflag]Imperialorder1[/nation]
 [b][color=DEA82A]Minister of Justice[/b][/color]: [b]Open[/b]
 [b][color=2B60DE]Minister of Intelligence[/b][/color]: [b]Open[/b]

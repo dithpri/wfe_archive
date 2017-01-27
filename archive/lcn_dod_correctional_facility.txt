@@ -1,6 +1,8 @@
-This is the Correctional Facility for the Department of Defense of [region]The League Of Conservative Nations[/region].
+This is the DoD Corrections Facility of The League of Conservative Nations.
+
+INMATES MAY NOT BE IN THE WA OR MORE CHARGES WILL BE ADDED TO THEIR TRIALS. BECOMING WA DELEGAE OF THIS REGION RESULTS IN AGRESSION AGAINST THE LCN CHARGES.
 
 Inmates:
 
--[nation=short]Musterfield[/nation]
--[nation=short]Gerryasomis[/nation]
+[nation=short]Gerryasomis[/nation]
+[nation=short]Musterfield[/nation]
