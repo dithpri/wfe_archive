@@ -1,4 +1,10 @@
-[color=red]A [/color][color=orange]rainbow [/color][color=yellow]territory [/color][color=green]of the [/color][color=blue]NeXo [/color] [color=purple]Empire![/color]
+[B][color=red]Hello! [/color][color=orange]Welcome [/color][color=gold]to [/color][color=green]Taste [/color][color=blue]The [/color][color=purple]Rainbow![/color]
+[color=red]A [/color][color=orange]rainbow [/color][color=gold]territory [/color][color=green]of the [/color][color=blue]NeXo [/color][color=purple]Empire![/color][/B]
+[hr]
 
-This region is a place for the people of [region]New Exodus[/region] to chill and relax during their conquests.
+[B][color=red]This region is [/color][color=orange]a place for [/color][color=gold]the people of [/color][color=green]New Exodus to [/color][color=blue]chill and relax [/color][color=purple]during their conquests.[/color][/B]
+[hr]
+[B][color=red]The [/color][color=orange]NeXo [/color][color=gold]Empire [/color][color=green]Base [/color][color=blue]Of [/color][color=purple]Operations: [/color][region]New Exodus[/region]
 
+[color=red]NeXo [/color][color=orange]Empire [/color][color=gold]Discord [/color][color=green]Chat [/color][color=blue]Of [/color][color=purple]Fun: [/color][url=https://discord.gg/SqQ3hzf]Discord[/url]
+[/B]

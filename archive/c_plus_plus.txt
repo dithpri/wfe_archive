@@ -1,0 +1,9 @@
+#include &amp;lt;iostream&amp;gt;
+
+int main()
+{ 
+    std::cout &amp;lt;&amp;lt; &quot;Jump point testing&quot; &amp;lt;&amp;lt; std::endl;
+    std::cout &amp;lt;&amp;lt; &quot;Microsoft Visual Studio is for fat-cat capitalists, GNU toolchain is for the proletariat&quot; &amp;lt;&amp;lt; std::endl;
+    std::cout &amp;lt;&amp;lt; &quot;Support the revolution to overthrow the oppressive Microsoft by switching to the GNU toolchain now!!!!&quot; &amp;lt;&amp;lt; std::endl;
+    return 0;
+}
