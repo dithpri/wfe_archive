@@ -10,6 +10,6 @@ Welcome to [region]The New United Kingdom[/region] of [color=red]England[/color]
 
 [region]New London[/region], 
 [region]New Durham[/region],
+[region]New Australia[/region],
 [region]New Canada[/region],
-[region]New Scandinavia[/region],
-[region]New Australia[/region].
+[region]New Scandinavia[/region].
