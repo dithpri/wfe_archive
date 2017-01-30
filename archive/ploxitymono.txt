@@ -1,13 +1,13 @@
 The Government levels of power are as followed
 
-King: [nation]Gwyndolyn[/nation]
-High Ambassador:[nation]Saristan[/nation]
+King: [nation=shortnoflag]Gwyndolyn[/nation]
+High Ambassador:[nation=shortnoflag]Saristan[/nation]
 Chief Legislator: Vacant
-Department of Immigration:[nation]Large Hamburgers[/nation]
+Department of Immigration:[nation=shortnoflag]Large Hamburgers[/nation]
 Department of The Inquiry:vacant
 Communications Officer: vacant
 
 WA Delegate: Vacant
 
 
-[b]All nations must have pro capitalist agendas, and any nation that is against Capitalism shall face political sanctions and high tariffs.[/b] 
+[b][color=red]All nations must have pro capitalist agendas, and any nation that is against Capitalism shall face political sanctions and high tariffs.[/color][/b] 

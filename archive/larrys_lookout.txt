@@ -3,8 +3,8 @@ ________________________________________________________________________________
 [b]This is a colony that has been founded in the name of the kaiser[/b]
 [b][color=red]Right hand: [nation=short]Mssa[/nation][/color][/b]
 [b][color=red]Border Patrol: [nation=short]Lanusia I[/nation][/color][/b]
-[b][color=blue]Pioneer sergeant: [nation=short]Gross-Rosen[/nation][/color][/b]
 [b][color=blue]Foreign Ambassador: [nation=short]Ni daoine england[/nation][/color][/b]
+[b][color=blue]Pioneer sergeant: [nation=short]Gross-Rosen[/nation][/color][/b]
 [b][color=blue]Communications Officer: [nation=short]Reshana[/nation][/color][/b]
 [b][color=orange]Commoner Representative: [nation=short]YES NO MAYBE[/nation][/color][/b]
 _______________________________________________________________________________________________________________________________________
