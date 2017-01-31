@@ -1,4 +1,4 @@
-[b][u][color=Green]Army Status: Units in Garrison[/color][/b][/u] 
+[b][u][color=Red]Army Status: Deployed to Front Lines![/color][/b][/u] 
 [hr]
 --[b]Founded 12/4/2015[/b]--
 
@@ -12,7 +12,7 @@
 
 [b]Erzherzog: [nation=short]New Hochenschwand[/nation]
 
-Chancellor of the Empire: [nation=short]Kellonville[/nation][/b]
+Reichskanzler: [nation=short]Ireland without Romanians[/nation][/b]
 [hr]
 [b][url=https://www.nationstates.net/page=dispatch/id=749277]1st Imperial Army[/url][/b]
 [b]Reich Marshal:[/b] [b][nation=short]Imperial Germans[/nation][/b]

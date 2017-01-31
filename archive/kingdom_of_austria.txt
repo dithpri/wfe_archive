@@ -1,8 +1,18 @@
-[b][color=#1B2D5C]His Majesty&#39;s Imperial Grenadier Guard of [region]The Britannian Kingdom[/region] has captured this region for the glory of the Kingdom!
+[b]From the remnants of the old
+we suffered, we endured
+no longer a rump state
+we are the remnants of
+the old days
+the days when the Eagle conquered Europe
 
-The following soldiers participated in this successful operation:[/color]
+Capital = Vienna
+Ruler: Kaiser Karl von Habsburg
+Anthem: Kaiserhymne[/b]
 
-[color=#998100]Lance Corporal [nation=short]Brihimia[/nation]
-Recruit [nation=short]The Second Wellington Barracks[/nation][/color]
+[b]Commander:[/b]  [nation=short]Teffin[/nation]
 
-[color=#B20000]Bow down to [nation=short]King Alexander IV[/nation]![/b][/color]
+[b]Commander:[/b] [nation=short]Bissel[/nation]
+
+[b]Private:[/b]  [nation=short]PRUSCIA[/nation]
+
+[u]Note:[/u] This region is now under the administration of [region]US Military[/region] and [region]The United States of America[/region]

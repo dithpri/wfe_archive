@@ -1,15 +1,14 @@
-[color=green][b]Army status= return to garrison[/b][/color]
+[color=red][b]Army status= reinforcing[/b][/color]
 _______________________________________________________________________________________________________________________________________
 [b]This is a colony that has been founded in the name of the kaiser[/b]
+[b][color=red]Reichsgraf: [nation=short]Troop 38[/nation][/color][/b]
 [b][color=red]Right hand: [nation=short]Mssa[/nation][/color][/b]
 [b][color=red]Border Patrol: [nation=short]Lanusia I[/nation][/color][/b]
 [b][color=blue]Foreign Ambassador: [nation=short]Ni daoine england[/nation][/color][/b]
 [b][color=blue]Pioneer sergeant: [nation=short]Gross-Rosen[/nation][/color][/b]
 [b][color=blue]Communications Officer: [nation=short]Reshana[/nation][/color][/b]
-[b][color=orange]Commoner Representative: [nation=short]YES NO MAYBE[/nation][/color][/b]
+[b][color=orange]Commoner Rep: [nation=short]YES NO MAYBE[/nation][/color][/b]
 _______________________________________________________________________________________________________________________________________
-
 [b]All read [url=https://www.nationstates.net/page=dispatch/id=749237] this[/url] if you plan to join the imperial military which all of you are compelled to do [color=red]EHRE ZUM KAISER[/color][/b]
-
 [b]The national religion is [url=https://www.nationstates.net/page=dispatch/id=754221]Lindellism[/url][/b]
-[b]Our mother land is the [color=red][region]Federation of Greater German Republics[/region][/color][/b]
+[b]Our Vaterland is the [color=red][region]Federation of Greater German Republics[/region][/color][/b]
