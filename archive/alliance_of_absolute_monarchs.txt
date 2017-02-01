@@ -1,9 +1,12 @@
-[b]Regional Government:[/b]
-Imperial Council:
-Chief Executive: [nation]Belique[/nation]
-Members:
-Embassies: [nation]Catholic Democratic Union[/nation]
-Communication: [nation]Dragonyza[/nation]
-Appearance: [i]vacant[/i]
-Border Control: [i]vacant[/i]
-Polls: [i]vacant[/i]
+[b]Welcome to the [region]Alliance of Absolute Monarchs[/region][/b]
+[hr]
+[b]Proposed government: 
+
+Holy Roman Emperor[/b]
+Elected by Prince-Electors (WA Delegate)
+
+[b]Imperial Diet
+Estates-General[/b]
+WA members
+[b]Chamber of Deputies[/b]
+Other states

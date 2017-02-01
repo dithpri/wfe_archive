@@ -12,6 +12,13 @@
 
 [b][Color=black]REGIONAL ASSEMBLY[/b][/color]
 
-[b][nation]karathamandhu[/nation][/b]
-[b][nation]paundilandia[/nation][/b]
-[b][nation]the mother elussa[/nation][/b]
+[b]senator[nation]karathamandhu[/nation][/b]
+[b]senator[nation]paundilandia[/nation][/b]
+[b]senator[nation]unoon[/nation][/b]
+
+[B[color]Cabinet 2016[/b][/color]
+
+[B]Minister of foreign affairs [nation]grand south east[/nation][/B]
+[B]Minister of regional development [nation]permata hijau[/nation][/B]
+[B]Minister of roleplay [nation]united sumatra-jawa states[/nation][/B]
+[B]Minister of community [nation]the eurasian front[/nation][/B]

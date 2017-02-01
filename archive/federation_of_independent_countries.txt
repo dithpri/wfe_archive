@@ -1,1 +1,6 @@
-SKkkkrrrrrrrrRrrrrt
+if (chekanIsWrong == true) {
+changeWFE();
+}
+else {
+keepWFE();
+}

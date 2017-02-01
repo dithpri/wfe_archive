@@ -1,7 +1,7 @@
 [color=red][b]Army status= reinforcing[/b][/color]
 _______________________________________________________________________________________________________________________________________
-[b]This is a colony that has been founded in the name of the kaiser[/b]
-[b][color=red]Reichsgraf: [nation=short]Troop 38[/nation][/color][/b]
+[b]This is a Protectorate of the [region=Federation of Greater German Republics][/b]
+[b][color=red]Herzog: [nation=short]Troop 38[/nation][/color][/b]
 [b][color=red]Right hand: [nation=short]Mssa[/nation][/color][/b]
 [b][color=red]Border Patrol: [nation=short]Lanusia I[/nation][/color][/b]
 [b][color=blue]Foreign Ambassador: [nation=short]Ni daoine england[/nation][/color][/b]

@@ -5,7 +5,7 @@ Imperial II-class Star Destroyer
 -Harbinger
 MC75 cruiser
 -Profundity
-MC80 star cruiser
+MC80 Home One class star cruiser
 -Home One (Flagship and most advanced capital ship in the fleet)
 -Nautilian
 -independence
@@ -15,3 +15,6 @@ MC80 Liberty type Star Cruiser
 -Restoration
 -devastation
 -lightstar
+MC80 Wingless
+-Alliance
+-Reliance

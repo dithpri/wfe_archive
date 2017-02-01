@@ -13,17 +13,29 @@ The League of Sovereign Nations is a proud member of the following organisations
 
 
 [b][color=red][u]High Council[/u][/color][/b]
-[list][*][B]Premier:[/B] 
-[nation=noname]The Servants OF Allah[/nation]
+[list][*][B]Governor:[/B] 
+[i]Vacant[/i]
 
 [*][B]Deputy:[/B] 
 [nation=noname]Hikachu[/nation]
 
-[*][B]Secretary of Foreign Affairs:[/B] 
+[*][B]Minister for Foreign Affairs:[/B] 
 [nation=noname]Aurea Adamas[/nation]
 
-[*][B]Secretary of Internal Affairs[/B] 
+[*][B]Minister for Internal Affairs[/B] 
 [nation=noname]Pogorevka[/nation]
+
+[*][B]Minister for Justice:[/B] 
+[i]Vacant[/i]
+
+[*][B]Minister for Recreation:[/B] 
+[i]Vacant[/i]
+
+[*][B]World Assembly Delegate:[/B] 
+[nation]The Servants OF Allah[/nation]
+
+[*][B]Council Speaker:[/B] 
+[i]Vacant[/i]
 [/list]
 [hr]
 
