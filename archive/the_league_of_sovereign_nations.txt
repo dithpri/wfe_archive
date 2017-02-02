@@ -14,7 +14,7 @@ The League of Sovereign Nations is a proud member of the following organisations
 
 [b][color=red][u]High Council[/u][/color][/b]
 [list][*][B]Governor:[/B] 
-[i]Vacant[/i]
+[nation]The Servants OF Allah[/nation]
 
 [*][B]Deputy:[/B] 
 [nation=noname]Hikachu[/nation]
@@ -30,9 +30,6 @@ The League of Sovereign Nations is a proud member of the following organisations
 
 [*][B]Minister for Recreation:[/B] 
 [i]Vacant[/i]
-
-[*][B]World Assembly Delegate:[/B] 
-[nation]The Servants OF Allah[/nation]
 
 [*][B]Council Speaker:[/B] 
 [i]Vacant[/i]
