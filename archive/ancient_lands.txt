@@ -4,9 +4,11 @@
 - [DBA] Rae - ([nation=short]Manitoulin[/nation])
 - [RHW] Doug - ([nation=short]Royal House of Windsor[/nation]/[nation=short]New_Falham[/nation])
 [/color][color=800030]
-[b]Other Allied Regions:[/b] 
-[region=Libertaria], [region=Brazzaville], [region=Ecuador]
-[region=0000], [region=United States of America][/color]
+[b]Other Allied Regions:[/b][list][region=United States of America]
+[region=Two Letter]
+[region=The Bandits]
+[region=The Assembly of Gentlemen]
++ plus many more[/color]
 
 [spoiler=Links:][color=004500][[url=http://nsdossier.texasregion.net/]nsdossier[/url]] [[url=http://nseconomy.thirdgeek.com/nseconomy.php]NSeconomy[/url]] 
 [[url=http://forum.nationstates.net/viewtopic.php?f=16&amp;t=74486]ONE STOP RULES[/url]] [[url=http://www.nationstates.net/page=faq]FAQ[/url]] 
