@@ -16,7 +16,7 @@
 [b]senator[nation]paundilandia[/nation][/b]
 [b]senator[nation]unoon[/nation][/b]
 
-[B[color]Cabinet 2016[/b][/color]
+[B][color=blue]Cabinet 2016[/b][/color]
 
 [B]Minister of foreign affairs [nation]grand south east[/nation][/B]
 [B]Minister of regional development [nation]permata hijau[/nation][/B]

@@ -1,1 +1,10 @@
-&quot;The Improvement of the Human Condition No Matter What the Cost&quot;
+[b][color=red]Your Region has been raided by the Mighty Militaries of [region]The Order of the Sword[/region] and [region]The Universal Allegiance[/region][/color]
+[hr]
+[color=blue]Troops:
+[region]The Order of the Sword[/region]:
+Tsar Tawks VerinGuard: [nation=short]yeleria_gilia[/nation]
+General Naj VerinGuardj:[nation=short]slangar[/nation]
+Private Keoteo:[nation=short]captain_keoteo[/nation]
+[region]The Universal Allegiance[/region]:
+Freedom: [nation=short]freedomism_land[/nation]
+[/color][/b]
