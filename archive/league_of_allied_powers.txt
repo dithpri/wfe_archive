@@ -1,1 +1,10 @@
-Welcome to the League of Allied Powers. It began with the uneasy truce between the Empire of Svetlanad and the Federation of Ronake, and has since spread to include several surrounding countries. Though their ideologies differ, they are all united in a common desire for peace. 
+The League of Allied Powers (LoAP) is a politico-military alliance founded in 1952. It seeks to defend its members from foreign aggression, furthering their interests and providing a stable home for nations of all stripes. If you are lost, consider yourself found; if you are weary, consider yourself rested; if you are threatened, consider yourself safe. This is your home now, and democracy will be your shield. 
+
+Chancellor: [nation=Alexiandra]
+Vice-Chancellor: [nation=Harrisopia]
+Chief Treasurer: Vacant
+Foreign Secretary: Vacant
+Defence Secretary: Vacant
+Home Secretary: Vacant
+Intelligence Chief: Vacant
+
