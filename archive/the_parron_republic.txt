@@ -7,3 +7,5 @@ Parliament:
 89 seats
 Speaker of Parliament 
 20 observers 
+
+Tech level: FFT
