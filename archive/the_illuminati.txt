@@ -1,12 +1,14 @@
-The order of the day is to put an end to the machinations of the purveyors of injustice&#133;
-[hr][color=ff0000]Border[/color]: [color=0000ff]Open[/color] [color=808080]to all nations.[/color]
 [color=ff0000]Board[/color]: [color=0000ff]Open[/color] [color=808080]to all nations in embassy regions.[/color]
+[color=ff0000]Border[/color]: [color=0000ff]Open[/color] [color=808080]to all nations.[/color]
 [color=ff0000]Off-site Forum[/color]: [color=0000ff]None[/color].
 [color=ff0000]Regulations[/color]: [color=0000ff]None[/color].
 [color=ff0000]Requests[/color]: [color=0000ff]Accepted[/color].
-[hr]Archives: [url=https://www.nationstates.net/page=archive]NSArchives[/url], [url=http://udl.taijitu.org/images/rflags/]Region Flags[/url], [url=http://udl.taijitu.org/wfe_index/]WFE Index[/url].
+[color=ff0000]Time Standard[/color]: [color=0000ff]UTC[/color].
+[color=ff0000]Time Zone[/color]: [color=0000ff]GMT[/color].
+[hr]The order of the day is to put an end to the machinations of the purveyors of injustice&#133;
+[spoiler=Means]Archives: [url=https://www.nationstates.net/page=archive]NSArchives[/url], [url=http://udl.taijitu.org/images/rflags/]Region Flags[/url], [url=http://udl.taijitu.org/wfe_index/]WFE Index[/url].
 Calculators: [url=http://nseconomy.thirdgeek.com/]NSEconomy[/url], [url=http://nsdossier.texasregion.net/]NSSuite[/url], [url=http://www.nstrackers.net/]NSTracker[/url].
 Generators: [url=http://www.seventhsanctum.com/generate.php?Genname=government]Class[/url], [url=http://www.allfamilycrests.com/makecoatofarms.htm]Coat of Arms[/url], [url=http://flag-designer.appspot.com/]Flag[/url], [url=http://www.inrebus.com/latinmottogenerator.php]Motto[/url], [url=http://www.fileformat.info/convert/image/svg2raster.htm]SVG Converter[/url].
 Names:[url=http://www.randomlists.com/random-animals]Animal[/url], [url=http://www.mf2fm.com/RaToNaGe/]City[/url], [url=http://nine.frenchboys.net/country.html]Country[/url], [url=http://www.seventhsanctum.com/generate.php?Genname=currency]Currency[/url], [url=http://character.namegeneratorfun.com/]Leader[/url].
 Tools: [url=http://www.mediafire.com/download/5rbizaw04xbyb94/nationstates_autotelegram_0.4.0_bin.zip]AutoTelegram[/url], [url=https://github.com/auralia/nationstates-nation-manager/releases/tag/v0.2]Nation Manager[/url], [url=https://nationstatesplusplus.net/]NS++[/url].
-Wikis: [url=http://iiwiki.com/]IIwiki[/url], [url=https://nsindex.net]NSIndex[/url], [url=http://nswiki.org/]NSWiki[/url], [url=http://nationstates.wikia.com/]WikiStates[/url].
+Wikis: [url=http://iiwiki.com/]IIwiki[/url], [url=https://nsindex.net]NSIndex[/url], [url=http://nswiki.org/]NSWiki[/url], [url=http://nationstates.wikia.com/]WikiStates[/url].[/spoiler]

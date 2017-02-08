@@ -15,4 +15,4 @@ We are working on a democratic voting system, but here are the temporary officia
 [nation=short]Rahul Raghuraman[/nation], founder
 [nation=short]Avlandia[/nation], WA Delegate
 [nation=short]Nazbeth[/nation], Vice-Delegate
-[nation]The Wastes[/nation], Vice-Delegate
+[nation=short]The Wastes[/nation], Vice-Delegate [color=red](A particularly dangerous nation.)[/color]
