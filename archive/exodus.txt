@@ -23,7 +23,7 @@ Donors: [region]USSD[/region]
 
 [b][color=#9A7D0A]Curia Members[/color][/b]:[list][*][nation=short]Populi-Terrae[/nation] ([b][color=#21618C]Loyalist[/color][/b])
 
-[*][nation=short]Decrovania[/nation] ([b][color=#21618C]Loyalist[/color][/b])
+[*][nation=short]Decrovania[/nation] ([b][color=#186A3B]Independent[/color][/b])
 [*][nation=short]Farlandiay[/nation] ([b][color=#21618C]Loyalist[/color][/b])
 [*][nation=short]Valaned[/nation] ([b][color=#D68910]Populist[/color][/b])
 [/list]

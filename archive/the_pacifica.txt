@@ -1,1 +1,9 @@
-[color=darkred] Bow down to your new leader, [nation=noflag]Sergun[/nation]![/color]
+This region is now dominion of [region]The Varian Empire[/REGION]!
+
+Bow down to Emperor Takagawa of [NATION=noflag]Aphex[/NATION]
+
+Division: The Black Dogs
+Leader: [NATION=noflag]Aphex[/NATION]
+Knights:
+[NATION=noflag+short]The Empire of Star Wars[/NATION] 
+[NATION=noflag]Callond[/NATION]
