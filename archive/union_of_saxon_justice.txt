@@ -1,4 +1,4 @@
-[color=purple]Please join the WA and endorse our current delegate, [nation]dourterk[/nation][/color]
+[color=purple]Please join the WA and endorse our current delegate, [nation][/nation][/color]
 
 [hr] 
 
@@ -6,10 +6,10 @@
 [Spoiler=Congress]
 [nation]new zacharianasville[/nation]
 [nation]theric[/nation]
-[nation]dourterk[/nation]
+Seat Unfilled
 [/spoiler][spoiler=Supreme Court]
 [i]Seat Unfilled[/i]
-[i]Seat Unfilled[/i]
+[nation]hellsinks[/nation]
 [nation]muazikistan[/nation]
 [/spoiler]
 

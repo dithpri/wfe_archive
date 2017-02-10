@@ -4,7 +4,7 @@
 [hr][hr][color=grey][b]The High Command[/b][/color] 
 
 [b]General of the Army:[/b] [nation=short]Konsiair[/nation]
-[b]Navy Admiral:[/b] [nation=short]Xitania[/nation]
+[b]Flagship:[/b] [nation=short]Xitania[/nation]
 [b]General:[/b] [nation=short]Eulaina[/nation]
 [b]Lieutenant General:[/b] [nation=short]Isabella Hime[/nation]
 [b]Brigadier General:[/b] [nation=short]Binksia[/nation]
