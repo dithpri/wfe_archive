@@ -1,15 +1,18 @@
-[b][color=purple]Welcome to the Exarchal Republic, come on in and stay a while![/b]
-[b]The current year is: 1 SF (Since Founding)/2017 A.D.[/color][/b]
-
+[b][color=blue]Welcome to the Exarchal Republic, come on in and stay a while![/b][/color]
+[b]The current year is: 1 SF (Since Founding)/2017 A.D.[/b]
 [hr]
+
 [b][u]About the Republic:[/u][/b]
-[b][color=gold]System of Government: Exarchal Republic, with biweekly elections[/color]
-[color=orange]Regional Currency: Exarchal Credit (X-Credit, credits, EXHC)[/color]
+[b][color=purple]System of Government: Exarchal Republic, with biweekly elections[/color]
+[color=darkred]Regional Currency: Exarchal Credit (X-Credit, credits, EXHC)[/color]
 
-[color=red]Emergency Level:[/color] [color=blue]EASA/[6][/color][/b]
+[color=red]Emergency Level:[/color] [color=blue]2[/color][/b] - All nations are at peace, regional founding is still happening
 
 [hr]
 
-[b][color=lightblue]Opportunities in the Republic:[/color][/b]
-[b][color=orange]Nation of the day: [nation]Terber[/nation][/color][/b]
-[b]Be sure to put in a request for land on the RMB![/b]
+[b][color=darkblue]Opportunities in the Republic:[/color][/b]
+
+[b]New Nations: Be sure to put in a request for land on the RMB![/b]
+[b]Elections for Exarch of State begin in 2 days[/b]
+
+[b][color=orange]Nation of the day: [nation]Voryan[/nation][/color][/b]

@@ -4,7 +4,8 @@ Chancellor: [nation=Alexiandra]
 Vice-Chancellor: [nation=Harrisopia]
 Chief Treasurer: Vacant
 Foreign Secretary: Vacant
-Defence Secretary: Vacant
+Defence Secretary: [nation=Greater Vakolicci Haven]
 Home Secretary: Vacant
 Intelligence Chief: Vacant
+
 
