@@ -7,8 +7,8 @@
 
 [color=gold][b]OFFICERS OF THE IMPERIAL SPANISH ARMY[/b][/color]
 [b]Emperador-[/b][nation=Hispanyo]
-[b]Lieutenant-General(of the Empire)-[/b][nation=Heinrich]/[nation=Supreme Tyranny]
-[b]Lieutenant(of the Empire)-[/b][nation=sonoto]
-[b]General-[/b][nation=skaven of the opheliac]
+[b]Teniente General(of the Empire)-[/b][nation=Heinrich]/[nation=Supreme Tyranny]
+[b]Teniente(of the Empire)-[/b][nation=sonoto]
+[b]General del Ej&eacute;rcito-[/b][nation=skaven of the opheliac]
 
 [*][color=DarkRed][i][b]The Laws of The Iron Order have been updated and some new laws have been added, check them out.[/b][/i][/color]

@@ -7,7 +7,7 @@
 [b]Prime Minister[/b] - [nation=shortname]Cylthropia[/nation]
 [b]Interior Minister[/b] - [nation=shortname]Kasinox[/nation]
 [b]Foreign Minister[/b] - [nation=shortname]Conta[/nation] [i]until confirmed[/i]
-[b]Defense Minister[/b] - [nation=shortname]Octuagesimo Octavo[/nation] [i]until confirmed[/i]
+[b]Defense Minister[/b] - [nation=shortname]Octuagesimo Octavo[/nation]
 [b]Justice Minister[/b] - [nation=shortname]Floydtopeu[/nation] [i]until confirmed[/i]
 
 [b]Supreme Judge[/b]: [vacant]

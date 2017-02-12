@@ -15,7 +15,7 @@
 
 [hr]
 
-[url=http://nseconomy.thirdgeek.com/nseconomy.php?region=Union+Mundial][color=#004EDF][b]Indicador Econ&oacute;mico de Union Mundial // Union Mundial Economic Indicator[/b][/color][/url]
+[url=http://nseconomy.thirdgeek.com/?region=Union%20Mundial&amp;exchange=2][color=#004EDF][b]Indicador Econ&oacute;mico de Union Mundial // Union Mundial Economic Indicator[/b][/color][/url]
 
 [url=http://www.nstrackers.net/regions?region=Union+Mundial][color=#0095DF][b]Informaci&oacute;n detallada de Union Mundial // Detailed information of Union Mundial[/b][/color][/url]
 
