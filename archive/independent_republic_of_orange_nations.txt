@@ -1,10 +1,16 @@
 Welcome to the [b][color=orange]Independent Republic of Orange Nations[/color][/b]!
-[i]Founded on the 18th December, 2016[/i]
+[i]Founded on the 13th February, 2017[/i]
 
-[b][u]The IRON Council[/u][/b]
+[u][b]Government of the Independent Republic of Orange Nations[/b][/u]
 [b]President[/b]: [nation]Neo Ancient Rome[/nation]
-[b]Vice President[/b]: [i]Vacant[/i]
+[b]Vice-President[/b]: [i]Vacant[/i]
 [b]Secretary of State[/b]: [i]Vacant[/i]
 [b]Secretary of the Interior[/b]: [i]Vacant[/i]
 [b]Attorney General[/b]: [i]Vacant[/i]
 [b]Secretary of Defence[/b]: [i]Vacant[/i]
+
+[u][b]Regional News[/b][/u]
+[list]
+[*]The Independent Republic of Orange Nations has been founded!
+[*][nation]Neo Ancient Rome[/nation] has become the President of the Independent Republic of Orange Nations
+[/list]

@@ -18,11 +18,13 @@
 [list][*][nation=short]Rutokia[/nation] (the Emperor)
 [*][nation=short]Pulau Itu[/nation] (the Delegate)
 [*][nation=short]Malfusland[/nation] (the Vice Delegate)
-[*][nation=short]Nordlichen europese confederatieen[/nation] (the Chairman)
+[*][nation=short]Caol Ila[/nation] (the Chairman)
 [*][nation=short]Frialenia[/nation] (Congressman)
 [*][nation=short]Newgardsland[/nation] (Congressman)
-[*][nation=short]Veniasufia[/nation] (Congressman)[/list][/color][/spoiler]
+[*][nation=short]Veniasufia[/nation] (Congressman)
+[*][nation=short]Nordlichen europese confederatieen[/nation] (Congressman)
+[*][nation=short]Democratic Kekistan[/nation] (Congressman)
+[*][nation=short]International Financial Army of Cobin[/nation] (Congressboi)
+[/list][/color][/spoiler]
 
 [color=yellow]Colonies: [region]Oyashima[/region][/color]
-
-[spoiler=rip this madman xd][nation=short]Veniasufia[/nation], he actually did it, the madman xd[/spoiler]

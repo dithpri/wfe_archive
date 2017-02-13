@@ -4,10 +4,11 @@
 - [DBA] Rae - ([nation=short]Manitoulin[/nation])
 - [RHW] Doug - ([nation=short]Royal House of Windsor[/nation]/[nation=short]New_Falham[/nation])
 [/color][color=800030]
-[b]Other Allied Regions:[/b][list][region=United States of America]
-[region=Two Letter]
-[region=The Bandits]
-[region=The Assembly of Gentlemen]
+[b]Allied Regions:[/b][list]
+[region=United States of America] . . . . [region=0000]
+[region=Two Letter] . . . . . . . . . . . . . . [region=The Bandits]
+[region=Commonwealth States] . . . . . .[region=The Assembly of Gentlemen]
+[region=The Awakening] . . . . . . . . . . . [region=Rhea]
 + plus many more[/color]
 
 [spoiler=Links:][color=004500][[url=http://nsdossier.texasregion.net/]nsdossier[/url]] [[url=http://nseconomy.thirdgeek.com/nseconomy.php]NSeconomy[/url]] 

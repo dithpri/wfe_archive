@@ -19,4 +19,4 @@
 
 [color=darkred][B][i]Thanks for joining![/B][/i][/color]
 
-Current threat level: [color=green]Code Green[/color], the region is safe.
+Current threat level: [color=gold]Code Yellow[/color], Region Is On Watch.
