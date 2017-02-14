@@ -2,7 +2,7 @@
 Head of State: King Alexei II
 Heir: Crown Prince Liam I
 Royal House: House Palivo 
-Head of government: Prime Minister Karl 
+Head of government: Prime Minister __________________
 Parliament:
 89 seats
 Speaker of Parliament 
@@ -14,5 +14,5 @@ Tech level: FFT
 2550, 51st Cycle
 
 
-[b]Recent News:[/b] General Election underway, fascist organisations against permanent residents voting. 
+[b]Recent News:[/b] General Election underway, Reform Party leading elections. 
  
