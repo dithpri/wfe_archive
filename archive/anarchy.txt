@@ -4,10 +4,10 @@
 
 [color=red][u]Troops [/u][/color]
 [color=darkred]Lieutenant[/color] [nation]Burning Thorn[/nation] Point and Trigger
-[color=red]Lord General[/color] [nation]gibraltarica[/nation] Trigger
+[color=red]Bannermaster[/color] [nation]gibraltarica[/nation] Trigger
 [color=darkred]Overlord[/color] [nation]general shady[/nation]
 [color=red]Blood Shrike[/color] [nation]knowbody[/nation] 
-[color=darkred]Centurion[/color] [nation]moneyness[/nation]
+[color=darkred]Lieutenant[/color] [nation]moneyness[/nation]
 [color=red]Centurion[/color] [nation]Alistia[/nation]
 [color=darkred]Chaos Guard[/color] [nation]Isalucii[/nation]
 

@@ -1,2 +1,3 @@
 [color=red][i]Welcome to the capital city of [region]Paraguay[/region],[/i]
 [b]ASUNCION[/b][/color]
+[color=navy]Allied with: [region=Paraguay][/color]

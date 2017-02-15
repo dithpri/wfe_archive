@@ -9,6 +9,9 @@
 [b]Lieutenant General:[/b] [nation=short]Isabella Hime[/nation]
 [b]Brigadier General:[/b] [nation=short]Xezen[/nation]
 [b]Brigadier General:[/b] [nation=short]Princess Terreis[/nation]
+[b]Director of Intelligence:[/b] [nation=short]United States of Huber[/nation]
 [hr][hr][color=indigo][b]Order of the Day:[/color][/b]
 
 [b]Join the World Assembly[/b]
+
+[hr][hr][b]DEFCON Level[/b]  [b][color=green]4[/color][/b]   
