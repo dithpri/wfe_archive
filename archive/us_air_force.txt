@@ -1,4 +1,6 @@
-.[color=green]Your little region has been raided by Project CAKE. There are some slices in the fridge![/color]
-Troops
-[nation=short]Scalestopia[/nation]
-[nation=short]North intua[/nation]
+This is the United States Air Force
+
+Branch of the [region]United States Military[/region]
+
+Commander in Chief - [nation=short]The United States Military[/nation]
+Chairman of Joint Chiefs of Staff - [Position Available]

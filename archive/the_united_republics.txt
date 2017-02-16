@@ -1,4 +1,4 @@
-[b]Welcome to the United Republics[/b], a region of democratic nations. 
+[color=red][b]Welcome to the United Republics[/b][/color], a region of democratic nations. 
 
 [b]Rules[/b]
 - All positions, with the exception of the Founder, will have elections every month.
@@ -9,4 +9,4 @@
 - Nations must require confirmation regarding issues in their country.
 - The password is &quot;password.&quot;
 
-[b][color=gold]Founded on February 13th, 2017![/color][/b]
+[b][color=red]Founded on February 13th, 2017 by [nation]New Freestand[/nation] and [nation]New Ria[/nation].[/color][/b]
