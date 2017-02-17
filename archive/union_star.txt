@@ -9,7 +9,6 @@
 [B]President:[/B] [nation=short]Skyefall[/nation]
 [B]Vice President:[/B] [nation=short]Thedivinenn[/nation][/color]
 [hr]
-[color=darkblue]Senate elections are happening soon! Three total will be selected. If you are interested telegram [nation]Skyefall[/nation] or [nation]East Staten Island[/nation][/color]
 [hr]
 [color=darkblue][B]Regional Codes:[/B][/color]
 [color=red]Code Red[/color]: Region Is On Lockdown
@@ -19,4 +18,4 @@
 
 [color=darkred][B][i]Thanks for joining![/B][/i][/color]
 
-Current threat level: [color=gold]Code Yellow[/color], Region Is On Watch.
+Current threat level: [color=green]Code Green[/color], Region Is Safe.

@@ -3,7 +3,6 @@
 
 King: [nation=short]King Nephmir II[/nation] | Bishop: [nation=short]Achllys[/nation][hr][hr][color=scarlet]Knight Commanders[/color]
 Lord: [nation=short]NoblePhnx[/nation]
-Lord: [nation=short]Festavo the Enigma[/nation]
 Lord: [nation=short]Brothers of Knighthood[/nation]
 
 [color=Scarlet]Military Orders:[/color] [color=#ED991C]Be sure your combat puppet is placed in [region]Yellow Mountain[/region] and await further orders.[/color]
