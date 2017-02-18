@@ -1,9 +1,8 @@
-The League of Allied Powers (LoAP) is a politico-military alliance founded in 1952. It seeks to defend its members from foreign aggression, furthering their interests and providing a stable home for nations of all stripes. If you are lost, consider yourself found; if you are weary, consider yourself rested; if you are threatened, consider yourself safe. This is your home now, and democracy will be your shield. 
+The League of Allied Powers (LoAP) is a politico-military alliance founded in 1952. It seeks to defend its members from foreign aggression, providing a stable home for nations of all stripes. If you are lost, consider yourself found; if you are weary, consider yourself rested; if you are threatened, consider yourself safe. This is your home now, and democracy will be your shield. 
 
 Chancellor: [nation=Alexiandra]
 Vice-Chancellor: [nation=Harrisopia]
-Chief Treasurer: Vacant
-Foreign Secretary: Vacant
+Foreign Secretary: [nation=Batlish Republic]
 Defence Secretary: [nation=Greater Vakolicci Haven]
 Home Secretary: Vacant
 Intelligence Chief: Vacant
@@ -14,3 +13,6 @@ Intelligence Chief: Vacant
 [url=https://forum.nationstates.net/viewtopic.php?ns=1&amp;f=5&amp;t=402221]Constitution[/url]
 [url=https://forum.nationstates.net/viewtopic.php?f=4&amp;t=402404]OOC Discussion Thread[/url]
 
+[b]Active RPs[/b]
+
+[url=https://forum.nationstates.net/viewtopic.php?f=5&amp;t=402921]Civil War in Harrisopia[/url]

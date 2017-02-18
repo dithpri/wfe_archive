@@ -8,8 +8,10 @@
 
 [b][color=maroon]Government:[/color][/b]
 
-[color=purple]Founder, Election Manager[/color] [nation]Rahul Raghuraman[/nation]
+[color=blue]Founder &amp; Election Manager:[/color]  [nation]Rahul Raghuraman[/nation]
 
-Democratically elected [color=blue]WA Delegate[/color]:  [nation]Nazbeth[/nation]!
+[color=red]WA Delegate:[/color]  Nazbeth
 
-Our two [color=orange]Vice-Delegates[/color] are [nation]Avlandia[/nation] and [nation]The Wastes[/nation].
+[color=green]Vice Delegates:[/color]  [nation=short]Avlandia[/nation] and [nation]The Wastes[/nation]
+
+And more!

@@ -6,7 +6,7 @@
 [Spoiler=Congress]
 [nation]new zacharianasville[/nation]
 [nation]theric[/nation]
-Seat Unfilled
+[nation]Alberts[/nation]
 [/spoiler][spoiler=Supreme Court]
 Seat Unfilled
 [nation]hellsinks[/nation]

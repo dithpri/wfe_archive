@@ -9,6 +9,14 @@
 [B]President:[/B] [nation=short]Skyefall[/nation]
 [B]Vice President:[/B] [nation=short]Thedivinenn[/nation][/color]
 [hr]
+[b]Elections are March 8[/b]
+[i]Announced Candidates[/i][list]- [nation]Euroslovia[/nation] 
+- [nation]Oculis Omnium[/nation] 
+- [nation]Elucidia[/nation]
+- [nation]Skyefall[/nation]
+
+
+[/list]
 [hr]
 [color=darkblue][B]Regional Codes:[/B][/color]
 [color=red]Code Red[/color]: Region Is On Lockdown
