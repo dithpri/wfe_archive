@@ -10,18 +10,18 @@ Population: 124th
 Defense: 22nd
 Economy: 32nd
 
-Manufacture, Retail, Auto, Fishing, Insurance, Cheese: [b][color=orange]5th[/b][/color]
+Manufacture-Retail-Auto-Trout-Insurance-Cheese: [b][color=orange]5th[/b][/color]
 Basket: [b][color=orange]6th[/b][/color]
-Timber, Agriculture: [b][color=orange]7th[/b][/color]
-Pizza, Beverage: [b][color=orange]8th[/b][/color]
+Timber-Agriculture: [b][color=orange]7th[/b][/color]
+Pizza-Beverage: [b][color=orange]8th[/b][/color]
 Arms: [b][color=orange]9th[/b][/color]
-Mining, Furniture: [b][color=orange]10th[/color][/b]
+Mining-Furniture: [b][color=orange]10th[/color][/b]
 
 [I][b][color=red][u]#1 in NS[/u][/color][/b][/I]
 
-[B]Most Armed, Crime, Dangerous, Polluting, Largest Beverage &amp; Gambling Sector[/b]: [b][nation]little flowers[/nation](2016) Most Armed, Crime, Dangerous, Polluting, Rudest, Highest Rich Incomes[/b]
+[B]Most Armed-Crime-Dangerous-Polluting-Largest Beverage-Gambling[/b]: [b][nation]little flowers[/nation](2016) Most Armed-Crime-Dangerous-Polluting-Pacifist-Rudest-Compliant-Highest Rich Incomes[/b]
 
-[B]Most Police, Least Cultured[/b]:[b] [nation]Klesh[/nation][/b]
+[B]Most Police-Least Cultured[/b]:[b] [nation]Klesh[/nation][/b]
 
-[b]Largest Fishing Sector[/b]: [b][nation]undivulged principles[/nation](2016) Largest Fishing, Cheese Sector, Highest Poor Incomes[/b]
+[b]Largest Fishing Sector[/b]: [b][nation]undivulged principles[/nation](2016) Largest Fishing-Cheese Sector-Highest Poor Incomes[/b]
 
