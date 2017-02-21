@@ -1,0 +1,6 @@
+[nation]Arcady[/nation] and surrounding dependencies:
+
+- [nation]East Arcady[/nation]: a self-governing region ruled by the Crown-Prince
+- [nation]Arcadyian Monasteries[/nation]: a self-governing region of monasteries that serves as Arcady&#39;s cultural and tourism zone
+- [nation]Brigands[/nation]: an independent state that swears limited loyalty to King of Arcady
+- [nation]Ululo[/nation]: a lawless region within Greater Arcady. Little is known of the peoples living there.

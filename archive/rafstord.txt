@@ -5,7 +5,6 @@
 [b]Join the right side of victory![/b]
 
 [b]Army:[/b]
- [b][nation=short]Hilaiule[/nation] General[/b]
-              [b] [nation=short]Rafstord[/nation] sergeant[/b]
+              [b] [nation=short]Rafstord[/nation] sergeant major 1[/b]
 
-[b]Want to join the US Military? Contact General [nation=short]Hilaiule[/nation][/b]
+[b]Want to join the US Military? Contact the head of the US army[nation=short]Konsiair[/nation][/b]
