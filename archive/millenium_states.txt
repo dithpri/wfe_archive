@@ -2,7 +2,7 @@
 [i]Est. Jan. 18, 2017[/i]
 
 [hr][color=red][b] News:[/b][/color]
-[list][*][b][*][color=red][/list][/color][hr] F*CK N*GGERS
+[list][*][b][*][color=red][/list][/color][hr]
 Join our [url=https://discord.gg/sdv8kXg]Discord[/url]
 [hr][color=red]Regional Anthem:[/color]
 
@@ -11,8 +11,8 @@ Join our [url=https://discord.gg/sdv8kXg]Discord[/url]
 [list][*][color=black]DEFCON 5[/color][/list][/b][hr][color=black]
 [b]ADMINISTRATIVE BRANCH:[/b]
 Founder/President: [nation]Quantumland[/nation]
-WA Delegate/Vice-President: [nation]Weehelm[/nation]
-Secretary of State:
+WA Delegate/Vice-President: 
+Secretary of State: [nation]Unovian Diplomatic Survey Bot[/nation]
 Secretary of Defense: [nation]Tersader[/nation]
 Director of the MSIA: [nation]Cadrania[/nation]
 Attorney General: 
@@ -25,12 +25,10 @@ Supreme Court Jury: [nation]Orokoves[/nation]
 
 [b]CONGRESS:[/b][/color]
 
-[color=blue]MAJORITY (DEMOCRATS/REPUBLICANS)[/color]
+[color=blue]MAJORITY: DEMOCRATS[/color]
 LEADER: 
-WHIP: 
 
-[color=blue]MINORITY (DEMOCRATS/REPUBLICANS)[/color]
+[color=red]MINORITY: REPUBLICANS[/color]
 LEADER:
-WHIP: 
 
 [hr] [url=https://www.nationstates.net/page=dispatch/id=444406][color=purple] Nation States Guide[/color][/url]

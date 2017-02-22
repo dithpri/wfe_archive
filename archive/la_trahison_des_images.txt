@@ -1,4 +1,4 @@
 [b][color=red]Ceci n&#39;est pas une pipe. The year is AT 2113 (HT 12113) (ET 3).[/color]
 [hr][color=blue]Emergency Level:[/color]
 [color=green]{0} 1 2 3 4 5 6 7 8 9 10[/color]
-[color=orange]Reason: This region does not exist.[/color][/b]
+[color=orange]Reason: This is not a region.[/color][/b]

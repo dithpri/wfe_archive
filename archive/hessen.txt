@@ -1,7 +1,4 @@
-[b][i][color=#990000]TERRAN GOVERNMENT[/color][/i]
-[color=blue]H[/color]omogeneous [color=blue]U[/color]nited [color=blue]N[/color]ations of [region]Terra[/region] &amp;#10014; [color=#990000]For God, Volksreich, and Glory[/color] &amp;#10014;[hr]
-
-[region]Hessen[/region] is a federal state of Germany
+[b][region]Hessen[/region] is a federal state of Germany
 Hessians are descended from the Frankish tribe of the Chatti
 
 [i]Area:[/i] Area 8,152 square miles
@@ -10,4 +7,4 @@ Hessians are descended from the Frankish tribe of the Chatti
 [i]Minerals:[/i] low-grade iron ores, salt, brown-coal, potash
 [i]Tourism:[/i] resorts, mineral springs, and beautiful beech and oak forests, Messel Pit Fossil Site
 
-Contact German Senator: [nation=short]Holaina[/nation] for more information[/b]
+Contact [nation=short]Terra Capital[/nation] for more information[/b]
