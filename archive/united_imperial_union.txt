@@ -1,12 +1,16 @@
-Regional Founder: Imperial States America
+[b]Regional Founder: [nation]Imperial States America[/nation][/b][hr][hr]
 
-Embassies: Trans Universal System Alliance, The Other Reality, The Dirt Alliance, The Embassy, 21st Century Rome, Eternal Silence, League of Christian Nations, The Union Of National Socialists, Cyberius Confederation, Union of Confederate Regions, KAISERREICH, Empire of the Trident, Union of Nationalists, The Fascist Military Powers, Chinese Republic, Asia, and 63 others.
+[b][color=red]Regional Leadership:[/color][/b] 
+[b][color=silver]Emperor/Founder-[/color][nation]Imperial States America[/nation][/b]
+[b][color=silver]High Chancellor/Diplomacy Officer-[/color][nation]Southern States America[/nation][/b]
+[b][color=silver]Low Chancellor/Security Officer-[/color][nation]EER OT[/nation][/b]
+[b][color=silver]Minister/Research Officer- [/color][nation]Palm Jumeirah[/nation][/b]
+[b][color=silver]Religous Affairs Officer-[/color] [nation]Indominous[/nation][/b][hr][hr]
 
-Regional Leadership: 
-Emperor/Founder- Imperial States America
-High Chancellor/Diplomacy Officer- Southern States America
-Low Chancellor/Security Officer- EER OT
-Minister/Research Officer- Palm Jumeirah 
-Religous Affairs Officer- Indominus 
+[b][color=silver]Regional Map:[/color][/b] [color=red]Postponed[/color][hr][hr]
 
-Regional Map: Postponed 
+[b][color=silver]DEFCON[/color][/b] [b][color=yellow]3[/color][/b] (see defcon levels for more info)[hr][hr]
+
+[b]Currently At War With-[region]Confederation of Corrupt Dictators[/region][/b]
+
+[b]United Imperial Union allies- [region]US Military[/region] and [region]Yorktown Aristocracy[/region][/b]

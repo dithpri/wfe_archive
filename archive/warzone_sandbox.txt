@@ -3,9 +3,9 @@
 [hr]
 Imperial Chancellor and Delegate: [nation]Etoarmaapitm[/nation]
 [hr][i][u]Interim Imperial Council[/u][/i]
-[i]Imperial Councilor: Empty[/i]
-[i]Imperial Councilor: Empty[/i]
-[i]Imperial Councilor: Empty[/i]
+[i]Imperial Commissioner: [nation]Brotherhood of Nodland[/nation][/i]
+[i]Imperial Commissioner: Empty[/i]
+[i]Imperial Commissioner: Empty[/i]
 All WA members are required to endorse the native delegate, [nation]Etoarmaapitm[/nation], or face a full-expenses paid trip to [region]The Rejected Realms[/region][/b][/color]
 
 [hr]

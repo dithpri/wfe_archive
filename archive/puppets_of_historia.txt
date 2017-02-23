@@ -10,11 +10,10 @@
 [nation=short]The Northern Mediterranean[/nation]
 
 [u][b][color=darkred]See our other puppet storage regions![/color][/b][/u]
-[b][i][color=red][region=Excalibur]
+[b][i][color=red]
 [region=The Great Yankee Warehouse]
 [region=The Grand Agrarian Warehouse]
 [region=Slava Ukraina]
-[region=Kristaline Mountains]
 [region=Land of Whispers][/b][/i][/color]
 [hr]
 

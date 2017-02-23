@@ -4,7 +4,7 @@ Basically, these are the nations/regions/continents that form each civilisation:
 
 Far East: China, Vietnam, North Korea
 
-Indian: India, Nepal, Sri Lanka
+Indian: India, Nepal
 
 Islamic: North Africa, Middle East, Bangladesh and Indonesia
 
@@ -12,3 +12,9 @@ Subsaharan: the Subsaharan Africa
 
 Western: America, Europe And Australia.
 
+Some countries dont fit so much in a single civilisation. Examples:
+
+Russia: culturally, is western, but rivalizes the west in geopolitical scenario.
+Japan and South Korea: Far East culture, but are democratic nations and politicaly aligned with Western.
+Mali, Niger, Sudan, Somalia: Muslim nations, but have all others characteristics of subsaharan nations.
+Myanmar, Thailand, Laos, Camboja: Indian and East Asian characteristcs.

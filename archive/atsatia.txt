@@ -1,1 +1,1 @@
-[region]Atsatia[/region], named after [nation]Atsatia[/nation].
+[region]Atsatia[/region], named after [nation=short+noflag]Atsatia[/nation], the absolute ruler of [color=purple]Atsatia[/color]. Did I mention [color=blue]Atsatia[/color]?
