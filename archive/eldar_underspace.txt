@@ -1,1 +1,5 @@
-The [b]Eldar Underspace[/b] is an extremely remote and inaccessible cluster of isolated, extra-dimensional subspace sanctuaries. The [b]Eldar Underspace[/b] is controled by [b][nation=short+noflag]the Eldar Empire[/nation][/b].
+The [i][b]Eldar Underspace[/b][/i] is a small, extremely inaccessible, extra-dimensional network of [i]subspace sanctuaries[/i]. It is completely isolated from our universe. The [i][b]Eldar Underspace[/b][/i] has its own isolated space-time-reality and is controled by [b][Nation=short+noflag]the Eldar Empire[/Nation][/b].
+
+[hr]
+
+[b][nation=short+noflag]The Eldar Empire[/nation][/b] is part of the multiversal [i][b][region]SICON[/region][/b]-Alliance[/i].
