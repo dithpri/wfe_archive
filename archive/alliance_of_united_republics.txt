@@ -10,5 +10,6 @@
 [color=red][b]LEADERSHIP[/color][/b]
 
 Chancellor: [nation]Region 4[/nation]
-Interim President: [i]vacant[/i]
-Interim Vice President: [i]vacant[/i]
+
+Interim President: [nation]The Progressive Socialist Utopia[/nation]
+Interim Vice President: [nation]Whestion[/nation]

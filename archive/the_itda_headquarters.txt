@@ -1,21 +1,14 @@
-[color=blue][b]Welcome to [u]The ITDA Headquarters[/u]![/b][/color]
-[color=3D3D3D][b]Headquarters of the International Trade and Defense Alliance[/b][/color][hr][b][color=blue]Iunctus Stamus[/color][/b] [b]-[/b] [color=3D3D3D]United We Stand[/color]
+[b][color=green]Welcome to[u][region]The ITDA Headquarters[/region][/u]
+Founded: March 10, 2016
+Iunctus stamus - United We Stand
+[/color]
+[hr]
+[color=blue]The International Trade and Defense Association is made up of a group of defender regions. They come together to protect regions from pesky raiders, and assist in rebuilding regions, who at the end, become like family! Need help! Contact Secretary General [nation=short]Crystalsummer[/nation] or the officers listed below![/color][/b]
 [hr]
 Visit us on [url=https://discord.gg/YNCNMhX]Discord![/url]
-[spoiler=Read the Charter][url=https://www.nationstates.net/page=dispatch/id=609407]Old Charter[/url]
-[url=https://www.nationstates.net/page=dispatch/id=666798]New Charter[/url][/spoiler]
-[spoiler=Alliance members][region]The Union of Democratic States[/region]
-[region]The Free Nations Region[/region]
-[region]The Illuminati Council[/region]
-[region]Allied Federation of Nations[/region]
-[region]Solidarian Fleet[/region]
-[region]The Thunder Territory[/region][/spoiler]
-[spoiler=Get to know Nations States][url=https://forum.nationstates.net/]Nation States Forum[/url]
-[url=https://www.nationstates.net/page=dispatch/id=444406]Nations States Guide[/url]
-[url=https://www.nationstates.net/page=un]World Assembly[/url]
-[url=https://www.nationstates.net/page=ga]General Assembly[/url]
-[url=https://www.nationstates.net/page=sc]Security Council[/url][/spoiler][hr]
-[list][*][color=3D3D3D][b]Secretary General:[/b][/color] [nation=short]Crystalsummer[/nation]
-[*][color=3D3D3D][b]ITDA Commander: [/b][/color] [nation=short]The Glorious Hypetrain[/nation][/list][hr]
+[hr]
 [color=blue][b][u]News[/u][/b][/color]
-[color=3D3D3D][list][*][b]The ITDA&#39;s new Secretary General [nation=short]Crystalsummer[/nation] has won the election.[/b][/list][/color]
+[list]
+[*]ITDA Meeting TBD
+[*]New ITDA Charter
+[*]New Cabinet 
