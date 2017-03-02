@@ -1,11 +1,11 @@
-The League of Allied Powers (LoAP) is a politico-military alliance founded in 1952. It seeks to defend its members from foreign aggression, providing a stable home for nations of all stripes. If you are lost, consider yourself found; if you are weary, consider yourself rested; if you are threatened, consider yourself safe. This is your home now, and democracy will be your shield. 
+The League of Allied Powers (LoAP) is a politico-military alliance founded in 1952. It seeks to defend its members from foreign aggression, providing a stable home for nations of all stripes. 
 
 Chancellor: [nation=Alexiandra]
 Vice-Chancellor: [nation=Harrisopia]
 Foreign Secretary: [nation=Batlish Republic]
-Defence Secretary: [nation=Greater Vakolicci Haven]
-Home Secretary: Vacant
-Intelligence Chief: Vacant
+Defence Secretary: Vacant
+Home Secretary: [nation=Drallian Grand Imperium]
+Intelligence Chief: [nation=The Megarid]
 
 
 [b]Important links[/b]
