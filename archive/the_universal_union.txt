@@ -1,14 +1,7 @@
-[color=green][b]Welcome to the Federation of the Universal Union.[/b][/color]
+[b]You were raided by... [region]The Black Hawks[/region]! 
 
-[hr]
-Embassies are always accepted. 
-Embassy Posting is permitted. 
-Entrance is not locked and no state of Emergency has been declared. 
-[hr]
-Protectorate states: 
-[region]The Many Assorted Lands of Maljaratas[/region].
-[region]Guristia[/region].
-[region]Difay[/region].
-[region]The Nexus[/region]
-[region]Gallente Federation[/region]
-[region]United Federation of richness[/region].
+Hawks involved:
+CPL [nation=short]Neop_III[/nation] (Trigger)
+CPL [nation=short]Heidur[/nation]
+PFC [nation=short]Brotherhood_of_Guns[/nation] 
+PVT &amp;#64;Alphaeus[/b]

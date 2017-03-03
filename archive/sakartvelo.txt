@@ -1,6 +1,6 @@
 [color=navy][b]Sakartvelo[/b][/color][hr][color=008080]
-Commonly known as the Republic of Georgia
-Capital City: Tbilisi (seat of government is in Kutaisi)
+Commonly known as the [region=Republic of Georgia]
+Capital City: [region=Tbilisi] (seat of government is in Kutaisi)
 Independence: April 9, 1991 (declared) Dec. 25, 1991 (finalized)
 Area:  69,420 sq km (120th)
 Population: 3,729,500 (2015 est.) (131st)
@@ -12,4 +12,4 @@ Bounded by:
 [color=008030]
 [b]EMBASSY OFFERS ARE ACCEPTED[/color][color=red]
 PLEASE -- NO RECRUITING[/b][/color][color=gray]
-This is an Ancient Lands region[/color]
+This is a [region=0000] region[/color]

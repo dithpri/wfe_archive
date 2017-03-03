@@ -1,2 +1,3 @@
 [b]Australia Commonwealth[/b]
-a [nation=short]Juergen[/nation]/[nation=short]New Falham[/nation] region
+a [nation=short]Juergen[/nation] controlled region
+a [region=Great Britain and Northern Ireland] region

@@ -2,7 +2,7 @@
 [color=blue][b]Timor Leste[/b] (aka [region=East Timor]) is a small nation within eastern Indonesia.
 The name &quot;Timor&quot; derives from timur, the word for &quot;east&quot; in Indonesian. 
 
-[list]Capital: [b]Dili[/b] 
+[list]Capital: [b][region=Dili][/b] 
 Independence: 
 - Declared [b]November 28, 1975[/b] [from Portugal] 
 - Recognized [b]May 20, 2002[/b] 

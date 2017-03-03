@@ -10,8 +10,8 @@ Rank of Nations:
 
 Primary Nation: [nation]Enchanted Oasis[/nation]
 
-Secondary Nation: [nation]Palerrea[/nation]
+Secondary Nation: [nation]Peaceful Oasis[/nation] - Puppet
 
-Third Nation: [nation]Northern Panem[/nation]
+Third Nation: [nation]Northern Panem[/nation] - Puppet
 
 Retired Nation: [nation]Enchanted Kingdom of Oasis[/nation][/color][/b]

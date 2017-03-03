@@ -3,11 +3,11 @@
 [b]Tanzania[/b] is a country in Central East Africa bordered by [region=Kenya], [region=Uganda], [region=Rwanda], [region=Burundi], [region=Congo Kinshasa], [region=Zambia], [region=Malawi], and [region=Mozambique] with the Indian Ocean on the East.
 
 FACTS
-[b]Capital:[/b] Dodoma
-[b]Largest City:[/b] Dar es Salem
+[b]Capital:[/b] [region=Dodoma]
+[b]Largest City:[/b] [region=Dar es Salem]
 [b]Independence:[/b] (UK)
-&amp;gt;&amp;gt; Tanganyika: 9th Dec 1961
-&amp;gt;&amp;gt; Zanzibar: 12th Jan 1964
+&amp;gt;&amp;gt; [region=Tanganyika]: 9th Dec 1961
+&amp;gt;&amp;gt; [region=Zanzibar]: 12th Jan 1964
 &amp;gt;&amp;gt; merger: 26th Apr 1964
 [b]Area:[/b] 945,203 km2
 [b]Population:[/b] 43,739,000 (2009 est)
