@@ -1,3 +1,2 @@
-[b]Eradicated by [region]TERRA[/region]
-
-[/b]
+[b]Sulawesi[/b]
+a [region=0000] region

@@ -14,3 +14,6 @@ Political Officer:
 
 Defense Officer: 
 [nation]Imakandy[/nation]
+
+Education Officer:
+[nation]Pokemons[/nation]

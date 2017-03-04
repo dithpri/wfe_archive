@@ -11,9 +11,9 @@
 [b]In Game Year: [i]2197[/i][/b]
 
 [b]Current War(s):[/b]
-[b][i]Anglo-Harrisonlandian War[/i][/b]
-Anglikan and Allies:
-[nation=short]The Anglikan State[/nation] [nation=short]Draconae[/nation] [nation=short]Sarofe[/nation]
+[b][i]War of the New Coalition[/i][/b]
+Coalition Forces:
+[nation=short]Draconae[/nation] [nation=short]Sarofe[/nation] [nation]Tall Guy Topia[/nation]
 Harrisonlandia and Allies:
 [nation=short]Harrisonlandia2[/nation] [nation=short]Kurdish-Arabian states[/nation]
 

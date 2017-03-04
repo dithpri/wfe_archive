@@ -1,13 +1,25 @@
-[b]Welcome to The Union Of America[/b]
-[hr]
-[i]Regional Government[/i]
-[b]Founder[/b]: [nation=short]Baton Louisiana[/nation]
-[b]President[/b]: [nation=short]Swickia[/nation]
-[b]Vice President[/b]: [nation=short]New Sacramento Republic[/nation]
-[hr]
-Telegram [nation=short]Baton Louisiana[/nation] To Get On The Map
+[color=orange][B]Y&#39;all have been burnt to a crisp by flying hawks on fire with help from spontaneously combusting troops![/color]
 
-[b]Map Info[/b]
-- Choose a state, you can either choose to be a Senator, Governor, or Representative. 
-- One Governor to a state only, but two Senators and Representatives are allowed.
-[hr]Def Con: [color=darkgreen]1[/color]|[color=green]2[/color]|[color=grey]3[/color]|[color=orange]4[/color]|[color=red]5[/color]|
+[color=red]Flying hawks on fire:
+[region]The Black Hawks[/region]
+Sergeant [nation]Vapid Vasentius[/nation] (Trigger)
+Corporal [nation]Greyed[/nation]
+Corporal [nation]Heidur[/nation]
+Corporal [nation]La Nausee[/nation]
+
+Spontaneously combusting troops:
+[region]The Kingdom of Great Britain[/region]:
+Executive Officer [nation]Elfine[/nation]
+Brigadier General Arthur K. Vasentius
+Lance Corporal [nation]Wackadodolo[/nation]
+Marine [nation]Arondyte[/nation]
+
+[region]The Universal Allegiance[/region]:
+Lance Corporal [nation]Fredomism Land[/nation]
+Corporal [nation]St Chron[/nation]
+
+[region]The Mafia[/region]:
+Caporegime [nation]New Syl[/nation]
+
+Huzzcaw!
+[/color][/b]

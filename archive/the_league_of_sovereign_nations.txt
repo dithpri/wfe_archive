@@ -8,14 +8,6 @@ The League of Sovereign Nations is a proud member of the following organisations
 - [b][url=http://www.nationstates.net/page=dispatch/id=505978]ORCA[/url][/b]
 - [b][url=https://www.nationstates.net/nation=the_noble_thatcherites/detail=factbook/id=666798]ITDA[/url][/b][hr]
 
-[b][color=blue][u]Executive Delegation[/u][/color][/b]
-[list][*][b]Head of State[/b]
-[nation=noname]The League of Sovereign Nations[/nation]
-[*][b]Supreme Judge[/b]
-[i]Vacant[/i]
-[*][B]Governor[/B] 
-[nation=noname]The Servants OF Allah[/nation][/list]
-
 [b][color=red][u]High Council[/u][/color][/b]
 [list][*][B]Governor[/B] 
 [nation]The Servants OF Allah[/nation]

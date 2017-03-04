@@ -1,3 +1,2 @@
 [color=navy][b]Turks and Caicos[/b]
-[/color][color=660000]
-a [region=Great Britain and Northern Ireland] region[/color]
+a [region=0000] region[/color]
