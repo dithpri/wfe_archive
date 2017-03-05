@@ -1,0 +1,5 @@
+if (artificial_intelligence &amp;gt; human_intelligence) {
+
+program.execute.destroy_humanity;
+
+}

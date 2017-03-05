@@ -1,12 +1,1 @@
-[b][color=#708090]This region has been assassinated by the champions of [region]HYDRA Command[/region]![/color]
-
-[i][color=darkred]Cut off one head, and two more shall take its place! HAIL HYDRA![/color][/i]
-
-[color=#DAA520]Troops:[/color]
-[color=#B22222]
-Sergeant: [nation=short]Panzer IV Ausfuehrung D[/nation]
-Director: [nation=short]Type 49 TARDIS HYDRA[/nation]
-Lieutenant: [nation=short]Yuno HYDRA[/nation]
-Corporal: [nation=short]Gershom Beach[/nation]
-Private: [nation=short]Scieca V[/nation][/color][/b]
-[hr]
+[b][i][color=#1b1b1b]We are all that remains. We are the [/color][url=www.nationstates.net/region=remnants][color=#960018]Remnants[/color][/url][color=#1b1b1b].[/color][/i][/b]

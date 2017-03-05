@@ -1,10 +1,3 @@
-[b]You&#39;ve been raided by [region]The Black Hawks[/region]
-Huzcaw!
+This region is governed by the successive rulers of the Tank nations.
 
-Hawks:
-CPL [nation]Neop III[/nation] (Trigger)
-CPL [nation]Greyed[/nation] 
-CPL [nation]Heidur[/nation]
-PFC [nation]Kurnugia[/nation]
-PFC [nation]Brotherhood of Guns[/nation]
-[/b]
+More to come soon.
