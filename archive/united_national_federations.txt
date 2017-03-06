@@ -1,1 +1,5 @@
-[b][nation=short]Roavin[/nation]&#39;s personal nation warehouse.[/b]
+[b]Nation warehouse for [nation=short]Roavin[/nation] and friends[/b]
+
+Currently used by:
+[nation=short]Roavin[/nation]
+[nation=short]Nakari[/nation]

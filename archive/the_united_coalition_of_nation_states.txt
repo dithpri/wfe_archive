@@ -10,7 +10,7 @@
 
 [color=navy]Founder:[/color] [nation]Byzanthia[/nation]
 [color=navy]Prime Minister:[/color] [nation]Gladius Liberator[/nation]
-[color=navy]Minister of Culture:[/color] [nation]Qeyt[/nation]
+[color=navy]Minister of Culture:[/color] [color=blue][nation]Qeyt[/nation][/color]
 
 [hr]
 

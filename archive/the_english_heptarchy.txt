@@ -1,1 +1,12 @@
-Modern states roughly corresponding to the locations of the ancient Heptarcy of Anglo-Saxon Kingdoms (and their surroundings):
+Modern states roughly corresponding to the locations of the ancient Heptarcy of [b]Anglo-Saxon Kingdoms[/b] (and their surroundings):
+
+[nation]Lindsey and Mercia[/nation]: the area of [b]Mercia[/b] (the English midlands) and vassal Lindsey (Lincolnshire); the de facto ruler of the Heptarchy.
+[nation]Cantish[/nation]: the area of [b]Kent[/b].
+[nation]Deira and Bernicia[/nation]: [b]Northumbria[/b].
+[nation]East Anglia and Saxony[/nation]: the two kingdoms of the [b]East Angles[/b] and [b]Essex[/b] (the former being a dependency of the former)
+[nation]Hastingas[/nation]: of &#39;Haestingas&#39;, an alternative name for [b]Sussex[/b]
+[nation]Western Seaxna[/nation]: [b]Wessex[/b]
+
+and
+
+[nation]Dumnonya[/nation]: the ancient Romano-British kingdom, corresponding with Cornwall and Devon. 
