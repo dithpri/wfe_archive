@@ -6,10 +6,10 @@
 [b]Emperor of the Central Pacific Empire[/b]: [nation]Latin and Central America[/nation]
 
 [b]Prime Minister[/b] - [nation=shortname]Cylthropia[/nation]
-[b]Interior Minister[/b] - [nation=shortname]Kasinox[/nation]
+[b]Interior Minister[/b] - [nation=shortname]Kasinox[/nation] [i]until confirmed[/i]
 [b]Foreign Minister[/b] - [nation=shortname]New Nationale Einheit[/nation]
-[b]Defense Minister[/b] - [nation=shortname]Octuagesimo Octavo[/nation]
-[b]Justice Minister[/b] - [nation=shortname]Floydtopeu[/nation] [i]until confirmed[/i]
+[b]Defense Minister[/b] - [nation=shortname]Octuagesimo Octavo[/nation] [i]until confirmed[/i]
+[b]Justice Minister[/b] - [nation=shortname]Lesbia[/nation] [i]until confirmed[/i]
 
 [b]Supreme Judge[/b]: [vacant]
 [b]Regional Judges[/b]: [vacant]
@@ -20,4 +20,4 @@
 - [b]Security Category: [color=red]SC2 - Heightened[/color][/b]
 - [b]Legislation on the Floor: [/b]
 
-[hr][b]Next Regional Election:[/b] February 25th
+[hr][b]Next Regional Election:[/b] March 25th

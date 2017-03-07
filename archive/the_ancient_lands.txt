@@ -1,21 +1,2 @@
-[b]Know traveller, you are now in a land so aged that time has forgotten its name.[/b] But here we know it as the Ancient Lands, a region where everyone and anyone is welcome, ruled by our mighty and noble Gods. 
-
-[hr]
-
-[b][color=black]All hail the revered Gods of [region]The Ancient Lands[/region][/color][/b] | [b][url=http://www.nationstates.net/page=dispatch/id=641708]Our Gods[/url][/b] | [b][url=http://www.nationstates.net/page=dispatch/id=643074]The Old Laws[/url][/b] | [b][url=https://www.nationstates.net/page=dispatch/id=643524]The New Laws[/url][/b]
-
-[hr]
-
-[b]VACANT POSITIONS:[/b]
-
-- The God/Goddess of Justice
-[I]Descr:[/I] The noble and wise administrator of Justice.
-
-- The God/Goddess of Beauty
-[I]Descr:[/I] The most graceful and beautiful of the Gods.
-
-- The God/Goddess of Wisdom
-         [I]Descr:[/I] The wise and revered keeper of knowledge.
-
-- Legate of the Gods
-[i]Descr:[/i] The Elected voice of the Gods
+[b]The Ancient Lands[/b]
+a [region=0000] region

@@ -17,3 +17,6 @@ Defense Officer:
 
 Education Officer:
 [nation]Pokemons[/nation]
+
+Bats &amp; Caves Officer
+[nation]Cowsome[/nation]
