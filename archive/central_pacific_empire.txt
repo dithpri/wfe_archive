@@ -9,7 +9,7 @@
 [b]Interior Minister[/b] - [nation=shortname]Kasinox[/nation] [i]until confirmed[/i]
 [b]Foreign Minister[/b] - [nation=shortname]New Nationale Einheit[/nation]
 [b]Defense Minister[/b] - [nation=shortname]Octuagesimo Octavo[/nation] [i]until confirmed[/i]
-[b]Justice Minister[/b] - [nation=shortname]Lesbia[/nation] [i]until confirmed[/i]
+[b]Justice Minister[/b] - [nation=shortname]Lesbia[/nation]
 
 [b]Supreme Judge[/b]: [vacant]
 [b]Regional Judges[/b]: [vacant]

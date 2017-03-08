@@ -5,7 +5,7 @@ Welcome to [region=The Illuminati Council]. United we stand, together we fall.
 [b]Chancellor:[/b] [nation=long]RacistTopia[/nation]
 [b]Vice Chancellor:[/b] [nation=long]Pacifist Unions[/nation]
 [b]Speaker of the Senate:[/b] [nation=long]Destrano[/nation]
-[b]Secretary of States:[/b] [nation=long]Kovichialand[/nation]
+[b]Secretary of States:[/b] [nation=long]Elkish[/nation]
 [b]Secretary of Defense:[/b] [nation=long]The Khymer States[/nation]
 [b]Director of FBS:[/b] [nation=long]Phyrabia[/nation]
 [b]Secretary of Public Relations:[/b] [nation=long]Union of Soviet Socialist-Republics[/nation]
@@ -14,6 +14,6 @@ Welcome to [region=The Illuminati Council]. United we stand, together we fall.
 [b]Circuit Justice:[/b] [nation=long]The Supreme Delegation[/nation]
 [b]Attorney General:[/b] Kaleb Boswinkle
 [hr][b][u][color=green]Status[/color][/u][/b]
-[b]CNF Alerts:[color=green]2/5[/color][/b]
+[b]CNF Alerts: [color=green]5[/color][/b]
 [b]Discord Chat:[/b] https://discord.gg/B2S8S
 [b]Next Chancellor Election:[/b] May 2nd, 2017
