@@ -1,12 +1,14 @@
 3.7.2017
 Please leave a message in the message board below leaving your name, just so we all know who is who. Thank you!
 
-Elisean Islands, The: Emerie
-Papal-anything: Ryan
-Sculling: Katelyn
-Schmekels: Trevor
-Vanswagenania: Jon
-Vesper : Sheaffer
-WellWhatDoWeDoNow: Brandon
+[nation]The Elisean Islands[/nation]nation: Emerie
+[nation]The Former Papal States[/nation]
+[nation]Nerdy Band Kids[/nation]
+[nation]Sculling[/nation]: Katelyn
+[nation]Schmekels[/nation]: Trevor
+[nation]Vanswagenania[/nation]: Jon
+[nation]Vesper[/nation]: Sheaffer
+[nation]THEWASTELANDS69[/nation]
+[nation]WellWhatDoWeDoNow[/nation]: Brandon
 (more coming later)
 
