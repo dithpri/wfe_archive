@@ -1,15 +1,15 @@
-[hr][list][color=navy][b]Ancient Lands[/list][hr]
-[/color][color=green]
-[list]This is [region=United States of America]&#39;s Puppet Storage Region[/b] (RHW/DBA)
-- [DBA] Rae - ([nation=short]Manitoulin[/nation])
-- [RHW] Doug - ([nation=short]Royal House of Windsor[/nation]/[nation=short]New_Falham[/nation])
-[/color][color=800030]
-[b]Allied Regions:[/b][list]
-[region=United States of America] - [region=Commonwealth States] - [region=0000] - [region=Two Letter]
-[region=The Bandits] - [region=The Assembly of Gentlemen] - [region=The Awakening] - [region=Rhea]
-[region=Galapagos] - [region=Ecuador] - [region=Paraguay] + plus many more[/color]
+[b]Ancient Lands[/b]
+this is a [region=0000] puppet storage region
+[color=darkgreen]
+[list]One of DBA &amp; RHW alliance home regions
+- DBA (Rae) - main nation is [nation=short]Manitoulin[/nation]
+- RHW (Doug) - main nation is [nation=short]Royal House of Windsor[/nation]
+Doug also plays [nation=short]Elliston[/nation] and [nation=short]New Falham[/nation]
+[/color][color=maroon]
+[b]Other Regions:[/b][list]
+[region=United States of America] - [region=Commonwealth States] - [region=0000] - [region=Two Letter] - [region=The Bandits] - [region=The Assembly of Gentlemen] - [region=The Awakening] - [region=Rhea] - [region=Galapagos] - [region=Ecuador] - [region=Paraguay] + plus many more (over 1200 regions)[/color]
 
-[spoiler=Links:][color=004500][[url=http://nsdossier.texasregion.net/]nsdossier[/url]] [[url=http://nseconomy.thirdgeek.com/nseconomy.php]NSeconomy[/url]] 
+[spoiler=Links:][color=004000][[url=http://nsdossier.texasregion.net/]nsdossier[/url]] [[url=http://nseconomy.thirdgeek.com/nseconomy.php]NSeconomy[/url]] 
 [[url=http://forum.nationstates.net/viewtopic.php?f=16&amp;t=74486]ONE STOP RULES[/url]] [[url=http://www.nationstates.net/page=faq]FAQ[/url]] 
 [[url=http://www.nationstates.net/page=boneyard]BONEYARD[/url]] 
 [[url=http://www.nationstates.net/page=dispatch/id=330837]TEXT HELP[/url]][/color][/spoiler][/list][color=navy]

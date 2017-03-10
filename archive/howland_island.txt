@@ -1,4 +1,5 @@
-Howland Island
+[b]Howland Island[/b]
+a [region=0000] region
 
 Located near [region=Baker Island].
 Occupied by [region=United States of America]

@@ -1,3 +1,8 @@
-[hr][hr][hr][hr][list][list][color=navy][b]Two Letter[/b][/color][/list][/list][hr][hr][hr][hr]
+[b]Two Letter[/b]
+a [region=0000] region
 
-[color=dadaff]In transition to matrix[/color]
+Only my two letter puppets will populate this region
+Yes, this is a puppet storage region
+
+[b]Embassy Offers are accepted[/b]
+Maintained by [nation=short]Elliston[/nation]

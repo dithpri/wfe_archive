@@ -1,6 +1,6 @@
-[color=blue][b]Malvinas[/b]
-To the whole world other than a few die hards in Argentina, known as [region=Falklands].
-
-a [region=British Overseas Territories][/color]
-
-[color=800000][b]God Save the Queen[/b][/color]
+[b]Malvinas[/b]
+a [region=0000] region
+[color=darkgreen]
+To the whole world, other than a few die-hards in Argentina, known as [region=Falklands], a [region=British Overseas Territories]
+[/color][color=800000]
+[b]God Save the Queen[/b][/color]

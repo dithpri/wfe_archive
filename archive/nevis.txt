@@ -1,6 +1,9 @@
-[color=800000][b]Nevis[/b][/color][hr][color=008000]In association with:[list][region=Saint Kitts]
+[color=800000][b]Nevis[/b]
+a [region=0000] region
+[/color][color=008000]
+See:[list][region=Saint Kitts]
 [region=Saint Kitts and Nevis]
 [region=St Kitts]
 [region=St Kitts and Nevis]
 
-Send embassy offers to [region=Saint Kitts and Nevis][/color][/list]
+Send embassy offers only to [region=Saint Kitts and Nevis][/color][/list]

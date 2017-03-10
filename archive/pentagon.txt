@@ -1,1 +1,2 @@
-Pentagon
+[b]Pentagon[/b]
+a [region=0000] region

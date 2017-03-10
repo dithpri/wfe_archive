@@ -1,1 +1,2 @@
-[hr][list][color=navy][b]Manchester[/b][/color][/list][hr]
+[b]Manchester[/b]
+a [region=0000] region

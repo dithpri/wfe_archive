@@ -1,6 +1,7 @@
 [nation]Ialdagorth[/nation] - Main country of B
 [nation]Griffini[/nation] - Main country of G
 [nation]Slender Act[/nation] - Main country of J
+[nation]Allie[/nation] - Main country of A
 
 [nation]Ipara[/nation] - B&#39;s old country
 [nation]Inpesca[/nation] - B&#39;s capitalist experiment

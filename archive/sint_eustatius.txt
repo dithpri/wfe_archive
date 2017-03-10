@@ -1,1 +1,2 @@
-[b][color=darkblue]Sint Eustatius[/color][/b]
+[b]Sint Eustatius[/b]
+a [region=0000] region
