@@ -1,4 +1,2 @@
-[hr][color=navy][b]American Pacific[hr]
-[/color]
-[color=red]
-[hr]UNSOLICITED EMBASSIES WILL BE IGNORED[/b][/color][hr]
+[b]American Pacific[/b]
+a [region=0000] region
