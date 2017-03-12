@@ -1,1 +1,8 @@
-Placeholder
+Regional Maps
+Geographical: [url] i.imgur.com/HAGGqij.png [/url]
+Political: [url] i.imgur.com/k3JLUH4.png [/url]
+Countries:
+  -  The Matthanian Islands (Red)
+  -  Ryaz (Blue)
+  -  Noremaccia (Pink)
+  -  Barettopia (Green)

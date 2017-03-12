@@ -1,8 +1,12 @@
 Emperor: Jakobi Nickleston I of [nation]The Kingship of Glemica[/nation]
-Grand Regent:
+
+Grand Regent: The Grand Regeant of [nation]The Imperial Seat of Glemica[/nation]
+
 Cheif Executive:
-Executive Pro Tempore
-Parliament
+
+Executive Pro Tempore:
+
+Parliament:
 House of Lords:
 
 
@@ -15,4 +19,4 @@ Associate Justices:
 
 
 
-Member of the GGO:
+

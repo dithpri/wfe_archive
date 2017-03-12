@@ -1,1 +1,4 @@
-[color=navy][b]St Kitts and Nevis[/b][/color][hr]
+[b]St Kitts and Nevis[/b]
+a [region=0000] region
+
+See [region=Saint Kitts and Nevis]

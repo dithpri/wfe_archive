@@ -1,6 +1,6 @@
-[b]We are a region of tolerant monarchist nations.[/b]
-[b]Endorse our loyal WA Delegate [nation]dothrraki[/nation][/b]
-[b]Endorse our Founder [nation]britcania[/nation][/b]
+[color=blue][b]We are a region of tolerant monarchist nations.[/b][/color]
+[b][u]Endorse our loyal WA Delegate:[/u] [nation]dothrraki[/nation][/b]
+[b][u]Endorse our Founder:[/u] [nation]britcania[/nation][/b]
 [hr]
 [color=gold][u][b]Regional Motto[/b][/u][/color]
 &quot;Forward, Upward, Onward Together, and glory to Dnipropetrovsk&quot;
@@ -8,7 +8,7 @@
 [color=red][u][b]The Governing Body:[/b][/u][/color]
 [b]Chieftain:[/b] [nation]Britcania[/nation] [b]( King Mychajlo I )[/b]
 [b]Chancellor:[/b] [nation]Dothrraki[/nation] [b]( Queen Arya I )[/b]
-[b]Security Officer:[/b] [nation]Eunuchia[/nation] [b]( King Asher )[/b]
+[b]Security Officer:[/b] [nation]Sokotia[/nation] [b]( King Soka )[/b]
 [b]Vice Chancellor:[/b] [nation]Brighten and Hove[/nation] [b]( Queen Bri )[/b]
 [b]Research Officer[/b] [nation]Dirachia[/nation] [b]( Mein Junge Pinochet )[/b]
 [b]Secretary of the Region:[/b] [nation]Norkitch[/nation] [b]( Queen Scarlette IV )[/b]
