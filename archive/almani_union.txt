@@ -1,8 +1,10 @@
-[I][b][color=skyblue]A Supreme Federation consisting of the Union of 3 Sovereign Republics.[/color][/b][/I]
+[I][b][color=crimson]A Supreme Federation consisting of the Union of 4 Sovereign Republics.[/color][/b][/I]
 
-[I][color=crimson]Member States:[/color][/I]
+[b][color=skyblue]Honorary Member[/b] [nation]Macari[/nation][/color]
+[b][color=skyblue]Founding Member[/b] [nation]Monavut[/nation][/color]
+[b][color=skyblue]Founding Member[/b] [nation]Lousha[/nation][/color]
+[b][color=skyblue]Current Member[/b] [nation]Monico[/nation][/color]
 
 
-[nation]Monico[/nation]
-[nation]Macari[/nation]
-[nation]Monavut[/nation]
+
+

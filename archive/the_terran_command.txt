@@ -11,6 +11,7 @@
 [region]Unified Etrionia[/region]
 [region]The Terran Colony Union[/region]
 [region]National Bank of Terran[/region]
+[region]Terran Command[/region]
 
 [b][u]Regional Map[/b][/u]
 
@@ -23,7 +24,7 @@
 [color=yellow]WS 3: War[/color]
 [color=red]WS 4: Region-Wide Evacuation[/color]
 
-Current WS: [color=orange]WS 2 - Minor Warning[/color]
+Current WS: [color=yellow]WS 3 - War[/color]
 _______________________________________________________________________________________________________________________
 
 Please telegram [nation]The Terran Party[/nation] if you wish to apply for an open spot/office in [region]The Terran Command[/region].

@@ -11,6 +11,6 @@ Founded on the 14th of January, 2017, the Imperial Fatherland strives to become 
 [b][color=2B60DE]Deputy Prime Minister[/b][/color]: [nation=short+noflag]Unified Belarus[/nation]
 [b][color=DEA82A]Home Secretary[/b][/color]: [b]Open[/b]
 [b][color=2B60DE]Minister of Intelligence[/b][/color]: [nation=short+noflag]Imperialorder1[/nation]
-[b][color=DEA82A]Minister of Justice[/b][/color]: [b]Open[/b]
+[b][color=DEA82A]Minister of Justice[/b][/color]: [nation=short+noflag]The Swedish Coast[/nation]
 [b][color=2B60DE]Minister of Foreign Affairs[/b][/color]: [b]Open[/b]
 [b][color=DEA82A]Minister of Immigration[/b][/color]: [b]Open[/b]

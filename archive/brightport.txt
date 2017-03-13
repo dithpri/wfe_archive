@@ -12,7 +12,7 @@
 [color=red]WA Delegate/Prime Minister:[/color] [nation]Quffuffull[/nation]
 [color=red]Vice-Delegate: [/color] [nation]Qaweritoyu[/nation]
 
-[color=blue]Security Alert Levels = Neutral, Yellow Alert, Orange Alert and Red Alert. Currently at[/color] [color=yellow]Yellow Alert.[/color]
+[color=blue]Security Alert Levels = Neutral, Yellow Alert, Orange Alert and Red Alert. Currently at[/color] [color=orange]Orange Alert.[/color]
 
 
 
