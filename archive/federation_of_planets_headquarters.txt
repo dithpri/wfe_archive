@@ -1,4 +1,4 @@
-Welcome to the Federation of Planets Headquarters. Our replicator is back online! All thanks goes to The Redshirt Union... Oh hey look another redshirt flew out of the airlock again. Bummer.
+Welcome to the Federation of Planets Headquarters.
 
 [u][b]MISSION STATEMENT:[/b][/u]
 
@@ -16,8 +16,13 @@ To live in peace. To seek out new nations and new civilizations. To go where no 
 
 [b]Council Members:[/b]
 
+[nation]stjerne[/nation]
+
 [b]Ambassadors:[/b] 
 
-[nation]stjerne[/nation]
 [nation]Fenure[/nation]
+
+[b]Zombie Control:[/b] 
+
+[nation]stjerne[/nation]
 
