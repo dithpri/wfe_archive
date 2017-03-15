@@ -1,3 +1,2 @@
 [b]The Assembly of Gentlemen[/b]
-
-An [region=Ancient Lands] associated region.
+A [region=0000] puppet storage region.

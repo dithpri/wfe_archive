@@ -1,3 +1,2 @@
 [b]Rhea[/b]
-
-an [region=Ancient Lands] allied region
+a [region=0000] puppet storage region

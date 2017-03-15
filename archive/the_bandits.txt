@@ -1,4 +1,2 @@
-[color=navy][b]The Bandits[/b][/color]
-
-[color=steelblue]a [region=Great Britain and Northern Ireland] associated region[/color]
-
+[b]The Bandits[/b]
+a [region=0000] puppet storage region

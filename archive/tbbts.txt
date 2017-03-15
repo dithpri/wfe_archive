@@ -1,0 +1,19 @@
+[b][color=#822433]%OPERATIONNAME%[/color][/b]
+[hr]
+
+[b][color=#002764]This was once %REGION%, but it is now a territory of the invincible forces of [region=The Blood Batallion]!
+
+&quot;Si potes, potes, ut omnes!&quot;[/color][hr]
+
+[color=#000034]The following soldiers charged into battle:[/color][color=#822433]
+
+%ORG% %RANK% [nation=short]NATION[/nation]
+%ORG% %RANK% [nation=short]NATION[/nation]
+%ORG% %RANK% [nation=short]NATION[/nation]
+%ORG% %RANK% [nation=short]NATION[/nation][/color]
+[hr]
+
+[url=https://goo.gl/forms/81KTrc9ECIv2Gtn72][color=#002764]Join TBB in the [/color][color=#822433] future of raiding![/color][/url][/b]
+[hr]
+
+[b][color=#822433]Endorse [nation=short]DELEGATE[/nation] upon entry or face immediate banjection![/color][/b]
