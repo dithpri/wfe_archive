@@ -4,12 +4,14 @@ The current region map can be found here: http://mapmaker.nationalgeographic.org
 
 The world map:
 
-Sozland: The United States Of America, Canada. Outposts: Bielefeld, Pyeongtaek, Guarulhos, Whenuapai
+Sozland: The United States Of America, Switzerland, North Island (NZ). Outposts: Pyeongtaek, Guarulhos
 Rendoven: Australia
-Zale: The United Kingdom, Ireland
-Armamentis: Japan, New Zealand
+Zale: Canada
+Armamentis: Japan, South Island (NZ)
 Calaghain: Brazil, Germany
-Falfosia: Russia, China
+Falfosia: China
 The Sentient Trees: North Korea, South Korea
+Ikomatye: Russia
+North Leicester Shirengton Pool: The United Kingdom, Ireland
 
-Anyone who thinks it&#39;s unfair, talk to [nation]Zale[/nation]
+Anyone who thinks it&#39;s unfair, talk to [nation]Zale[/nation] or [nation]Sozland[/nation]

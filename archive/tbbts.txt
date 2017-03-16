@@ -5,7 +5,7 @@
 
 &quot;Si potes, potes, ut omnes!&quot;[/color][hr]
 
-[color=#000034]The following soldiers charged into battle:[/color][color=#822433]
+[color=#002764]The following soldiers charged into battle:[/color][color=#822433]
 
 %ORG% %RANK% [nation=short]NATION[/nation]
 %ORG% %RANK% [nation=short]NATION[/nation]
