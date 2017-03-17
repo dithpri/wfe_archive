@@ -1,1 +1,2 @@
-[color=navy][b]00000000000[/b][/color][hr]
+[b]00000000000[/b]
+a [region=0000] region

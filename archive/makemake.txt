@@ -1,1 +1,2 @@
-[color=654321][b]Makemake[/b][/color][hr][hr][hr]
+[b]Makemake[/b]
+a [region=0000] region

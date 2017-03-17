@@ -1,5 +1,6 @@
-[color=navy][b]Kingdom of the Netherlands[/b][/color][hr][color=teal]Kingdom of the Netherlands includes the Netherlands (including the Caribbean Netherlands*), Aruba, Curacao and Sint Maarten.
+[b]Kingdom of the Netherlands[/b]
+a [region=0000] region
 
-*[I]Caribbean Netherlands includes Bonaire, Sint Eustatius and Saba[/I]
+[color=teal]Kingdom of the Netherlands includes the Netherlands (including the Caribbean Netherlands*), [region=Aruba], [region=Curacao] and [region=Sint Maarten].
 
-This is an [region=Ancient Lands] region[/color]
+*[I][region=Caribbean Netherlands] includes [region=Bonaire], [region=Sint Eustatius] and [region=Saba][/I][/color]

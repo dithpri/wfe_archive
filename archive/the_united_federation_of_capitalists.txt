@@ -2,8 +2,7 @@
 [b][i]Regional Legislature[/b][/i]; 
 [nation=shortname]Electrona[/nation], [nation=shortname]Smertonosnyy[/nation],
  [nation=shortname]Gentlemanly behaviours[/nation], [nation=shortname]Estashio[/nation],
-[nation=shortname]Lusignan in Solidum[/nation], [nation=shortname]Gutenstein[/nation],
-[nation=shortname]KluKlukKlania[/nation][hr]
+[nation=shortname]Lusignan in Solidum[/nation], [nation=shortname]Gutenstein[/nation][hr]
 [color=darkblue]Rule Number One:[/color] [color=red][b][i][u]NO COMMUNISTS!!![/u][/i][/b][/color]
 
 [color=darkblue]Rule Number Two:[/color] [color=red][i][u]You must be a member of the WA to be eligible to hold office.[/u][/i][/color]

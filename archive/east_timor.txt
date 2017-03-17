@@ -1,2 +1,4 @@
-[hr][hr][list][list][color=navy][b]East Timor[/b][/color][/list][/list][hr][hr]
-[color=teal]also known as [region=Timor Leste][/color]
+[b]East Timor[/b]
+a [region=0000] region
+
+See [region=Timor Leste]
