@@ -3,3 +3,5 @@
 Currently used by:
 [nation=short]Roavin[/nation]
 [nation=short]Nakari[/nation]
+
+([b][color=fuchsia]#GiveRoavinFendaPinkMask[/color][/b])

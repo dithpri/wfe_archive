@@ -16,4 +16,5 @@
 [B]OBSERVER REGIONS:[/B]
 
 [list][*][region]The Communist Legion[/region]
-[*][region]Union of Proletarian States[/region][/list]
+[*][region]Union of Proletarian States[/region]
+[*][region]Helvundia[/region][/list]
