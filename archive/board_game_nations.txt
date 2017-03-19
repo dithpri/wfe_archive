@@ -4,7 +4,7 @@ Board Game Nations is a region meant for the players of Board Game Online. Neutr
 Founder: [nation=short]Frostorn[/nation]
 Warmaster: [nation=short]Grarrgtopia[/nation]
 Master of Laws: [nation=short]Dragonpitopia[/nation]
-Master of Foreign Affairs: [nation=short]Dunceland[/nation]
+Master of Foreign Affairs: [nation=short]Raptures End[/nation]
 
 Crown Princess: [nation=short]Sylvenea[/nation]
 First Princess: [nation=short]Clanktopolis[/nation]
@@ -14,7 +14,7 @@ First Prince: [nation=short]Gilmores Glorious Empire[/nation]
 Tower Warden: [nation=short]Habroo the Mighty and Brave[/nation] 
 Royal Escort Vehicle: [nation=short]Hollicopter[/nation]
 Royal Estate Plumber: [nation=short]Farwood[/nation]
-Estate Plumber Assistant: [nation=short]Raptures End[/nation]
+Estate Plumber Assistant: 
 
 [hr]If you have a missing role that has yet to appear above, please inform Frostorn or Grarrg as soon as possible.
 

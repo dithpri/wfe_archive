@@ -1,1 +1,6 @@
-&curren; British Antarctic Territory &curren;
+[b]British Antarctic Territory[/b]
+a [region=0000] region
+associated with
+- [region=Great Britain and Northern Ireland]
+- [region=British Overseas Territories]
+- [region=Falkland Islands]

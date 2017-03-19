@@ -6,14 +6,16 @@
 
       [color=blue]~Electoral Council~[/color]
 
-[color=red]Premier[/color]:[b]VACANT[/b]
-[color=blue]Councillor of Security[/color]:[b]VACANT[/b]
-[color=red]Councillor of Domestic Affairs[/color]:[b]VACANT[/b]
-[color=blue]Attorney Councillor[/color]:[b]VACANT[/b]
-[color=red]Councillor of Court[/color]:[b]VACANT[/b]
+[color=red]Premier[/color]: [b]VACANT[/b]
+[url=https://www.nationstates.net/page=dispatch/id=789627][color=blue]Councillor of Security[/url][/color]: [b]VACANT[/b]
+[color=red]Councillor of Domestic Affairs[/color]: [b]VACANT[/b]
+[color=blue]Attorney Councillor[/color]: [b]VACANT[/b]
+[color=red]Councillor of Court[/color]: [b]VACANT[/b]
 [hr]
 
 [color=gold]~Royalty Cabinet~[/color]
 
-[color=brightgrey]Grand Chancellor:[nation=short]BlackWood Order[/nation][/color]
+[color=brightgrey]Grand Chancellor: [nation=short]BlackWood Order[/nation][/color]
+[color=gold]Grand Duke[/color]: [b]VACANT[/b]
+[color=brightgrey]Archduke[/color]: [b]VACANT[/b]
 [hr]
