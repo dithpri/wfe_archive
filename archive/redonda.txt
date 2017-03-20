@@ -1,2 +1,4 @@
 [b]Redonda[/b]
-Associated with [region=Antigua and Barbuda]
+a [region=0000] region
+
+See [region=Antigua and Barbuda]
