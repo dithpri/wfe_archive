@@ -1,2 +1,14 @@
 [b]The British Windward Islands[/b]
 a [region=0000] region
+
+a British Colony that existed between 1833 and 1960
+Consisted of:[list][region=Grenada]
+[region=Saint Lucia]
+[region=Saint Vincent and the Grenadines]
+[region=Barbados]
+[region=Tobago] (until 1889 - joined [region=Trinidad])
+[region=Dominica] (from 1940 - previously with [region=British Leeward Islands])[/list]
+The colony was known as the Federal Colony of the Windward Islands (1871 to 1956)
+Territory of the Windward Islands until 1960
+Capital was [region=Bridgetown] on [region=Barbados] from 1871 to 1885
+Thereafter [region=Saint Georges] on [region=Grenada].

@@ -1,0 +1,9 @@
+[b]West Indian Federation[/b]
+a [region=0000] region
+
+West Indies Federation, from 1958 to 1962, consisting of:
+[region=Trinidad and Tobago], [region=Barbados], [region=Jamaica], Leeward and Windward Islands
+Capital was [region=Port of Spain]
+The federation broke up to become:
+[region=Antigua and Barbuda], [region=Barbados], [region=Dominica], [region=Grenada], [region=Jamaica], [region=Saint Kitts and Nevis], [region=Saint Lucia], [region=Saint Vincent and the Grenadines], [region=Trinidad and Tobago], and the remaining [region=British Overseas Territories] of [region=Anguilla], [region=Montserrat], [region=Cayman Islands], [region=Turks and Caicos Islands].
+British Guiana and British Honduras were observer states. 

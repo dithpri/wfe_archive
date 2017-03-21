@@ -1,3 +1,11 @@
 (Private)
 
 Starside is a distant terrestial planet in the Andromeda galaxy. At first, it was governed directly by the Sol Republic. However, when the worm hole connecting Andromeda and the Milky Way, this colony became independant. The planet is currently under control by the newly reformed governmented known as Centralisa.
+
+
+
+MILITARY RULES
+
+In order to declare war, you need a valid Cassus Beli. A war&#39;s outcome is determined by the following.
+
+15% of the populaiton multiplied by (Defense Forces + Integrity + Weaponization + Economy - Pacifism - Primitiveness + Hwalth + Scientific Advancement + Agriculture + Intelligence + Law Enforcement - Youth Rebellion)

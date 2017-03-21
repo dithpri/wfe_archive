@@ -1,1 +1,2 @@
-[color=navy][b]Bouvet[/b][/color][hr]
+[b]Bouvet[/b]
+a [region=0000] region

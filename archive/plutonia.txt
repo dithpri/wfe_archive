@@ -1,18 +1,5 @@
-[color=#480][b]Cat Alliance:[/b][/color]
+[b][color=darkgreen]This region has been refounded by [region=The Guards]![/color][hr]
 
-[nation]winderia[/nation]
-[nation]balangadesh[/nation]
-[nation]derverot[/nation]
-[nation]new cat land[/nation]
+[color=darkred]Former and future natives are welcome to come here and start a community again.[/color][hr]
 
-Allied with the human Commerce League:
-[nation]strongtar[/nation]
-
-v.s.
-
-[color=brown][b]Dog Alliance:[/b][/color]
-
-[nation]khannia[/nation]
-
-Allied with the human Socialist People Union:
-[nation]hilexonia[/nation]
+[color=darkblue]For more info contact [nation=Guard 1][/color][/b]

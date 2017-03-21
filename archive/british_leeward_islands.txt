@@ -1,1 +1,12 @@
-British Leeward Islands
+[b]British Leeward Islands[/b]
+a [region=0000] region
+
+British Leeward Islands was a British Colony from 1671 to 1958
+1816 the colony was divided in two regions:
+[list][region=Antigua], [region=Barbuda], [region=Montserrat]
+[region=Saint Christopher], [region=Nevis], [region=Anguilla], [region=British Virgin Islands][/list]
+Reunited in 1833 until 1871
+Federal Colony of the Leeward Islands from 1871 to 1956
+[region=Dominica] joined 1871 but left in 1940.
+1958 the remaining absorbed by [region=West Indies Federation].
+

@@ -1,1 +1,2 @@
-https://www.nationstates.net/page=create_region
+[b]Bilbao[/b]
+a [region=0000] region
