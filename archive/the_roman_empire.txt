@@ -5,7 +5,7 @@
 [b][u]Tribuni Imperium:[/u]
 [color=#CB2727]Emperor: [nation=short]Plagentine[/nation]
 Consul: [nation=short]Knowbody[/nation]
-Praetor: [nation=short]Festavo_the_enigma[/nation]
+Praefect: [nation=short]Festavo_the_enigma[/nation]
 Praetor: [nation=short]Kyorgia[/nation]
 Pontifex Maximus: [nation=short]Chelvo[/nation][/color][/b]
 [hr]

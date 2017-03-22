@@ -1,1 +1,6 @@
-n/a
+
+[nation]The Elisean Islands[/nation]: Emerie
+[nation]Sculling[/nation]: Katelyn
+[nation]Schmekels[/nation]: Trevor
+[nation]Vanswagenania[/nation]: Jon
+[nation]Vesper[/nation]: Sheaffer

@@ -1,9 +1,20 @@
 Welcome to the New American Order.
 [hr]
 ELECTIONS
+------------------------
 Prime Executive: None
 Defense Order: None
 Raiding Order: None
 Embassy Order: None
+[hr]
+MILITARY
+------------------------
+Alert Level: 0 (No alert)
+Military Executives:
+Commander: None
+Assist Commander: None
+Military Planner: None
+
+
 
 
