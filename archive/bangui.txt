@@ -1,1 +1,7 @@
-[hr][list][color=navy][b]Bangui[/b][/color][/list][hr]
+[b]Bangui[/b]
+a [region=0000] region
+
+Capital and largest city in [region=Central African Republic]
+Established as a French outpost in 1889
+named after its location on the northern bank of the Ubangi River (Oubangui)
+End of the navigable river north of [region=Brazzaville]
