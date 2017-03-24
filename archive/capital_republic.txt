@@ -16,6 +16,6 @@
 [color=gold]~Royalty Cabinet~[/color]
 
 [color=brightgrey]Grand Chancellor: [nation=short]BlackWood Order[/nation][/color]
-[color=gold]Grand Duke[/color]: [b]VACANT[/b]
+[color=gold]Grand Duke[/color]: [nation=short]Cukstan[/nation]
 [color=brightgrey]Archduke[/color]: [b]VACANT[/b]
 [hr]

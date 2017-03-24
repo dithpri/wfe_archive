@@ -10,7 +10,7 @@
 
 NEWS: None
 
-Premier: [nation=shortname]Populi Sclavi[/nation] ([nation=short]Velykyy Lviv[/nation])
+Premier: [nation=shortname]Populi Sclavi[/nation] ([nation=short]Velykyy Lviv[/nation])(L&#39;wow)
 Chancellor: [nation=short]Slavic Bloodia[/nation]
 Vice-Chancellor: [nation=short]Northern Bohemia[/nation]
 Endorse the Chancellor!
