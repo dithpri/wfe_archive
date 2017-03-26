@@ -11,7 +11,8 @@
 &amp;gt;&amp;gt;President: [nation=short]Kilope[/nation]
 &amp;gt;&amp;gt;Vice President:[nation=short]Catakastan[/nation]
 &amp;gt;&amp;gt;Secretary of State: [nation=short]Joint Operational Force[/nation]
-&amp;gt;&amp;gt;Secretary of the Interior:VACANT
+&amp;gt;&amp;gt;Secretary of the Interior:
+[nation=short]Royal Bananas[/nation]
 &amp;gt;&amp;gt;Secretary of Defense:VACANT[/b][/color]
 [hr]
 [color=#00FF00][b]Order of the Day: [/b][/color]

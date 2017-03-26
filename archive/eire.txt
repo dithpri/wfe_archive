@@ -1,4 +1,6 @@
-[color=123456][b]Eire[/b]
+[b]Eire[/b]
+a [region=0000] region
+[color=654321]
 Partitioned 3 May 1921, creating the Northern Ireland portion of United Kingdom, and the Republic of Ireland.
 Irish Free State (est. 6 Dec 1922) became the Republic of Ireland 29 Dec 1937.
 
