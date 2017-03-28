@@ -11,8 +11,8 @@
 
 [color=alicegreen][B][u]Regional Assembly[/u][/B][/color]
 
-[color=brown]The Regional Assembly [nation]paundilandia[/nation]
-The Regional Assembly [nation]karathamandhu[/nation]
-The Regional Assembly [nation]unoon[/nation]
-The Regional Assembly [nation]united sumatra-jawa states[/nation][/color]
+[color=brown]The Regional Assembly Member [nation]grand south east[/nation]
+The Regional Assembly Member[nation]balakhostan[/nation]
+The Regional Assembly Member [nation]ensulia[/nation]
+The Regional Assembly Member[nation]zarithe and albono[/nation][/color]
 

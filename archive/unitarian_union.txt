@@ -12,11 +12,18 @@ Councilor for Administrative Affairs - [nation]Kassaran[/nation]
 
 [hr]
 
+[b]STATUS OF THE CENTRAL BANK[/b] - [b][i]funds levied vs. budget needed[/i][/b]
+
+[b]CURRENT FUNDS[/B]: [color=green][b]U828,736,500,000.00[/b][/color]
+[b]FUNDS NEEDED: [/b]: [color=red][b]U0.00[/b][/color]
+
+[hr]
+
 [b]REGIONAL COMMUNIQUES - [i]news and events[/i][/b]
 
-[i] - regional government re-founded under triumvirate council. 
+[i]- regional bank founded. 
 
-- recruiting efforts in full force.[/i]
+- regional development index to be created. [/i]
 
 
 
