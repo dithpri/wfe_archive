@@ -6,10 +6,6 @@
 
 [hr]
 
-[b]Current DEFCON Threat Level: [color=green]FIVE[/color].[/b]
-
-[hr]
-
 [b]Have a seat at the World Assembly!
 [url=https://www.nationstates.net/page=ga]General Assembly[/url]
 [url=https://www.nationstates.net/page=sc]Security Council[/url][/b]
@@ -17,5 +13,14 @@
 [hr]
 
 [b]See the [url=https://www.nationstates.net/page=dispatch/id=780072]Resolutions[/url] for the month of March.[/b]
+
+[hr]
+
+[spoiler=DEFCON Level]
+[b][color=red][1] ENGAGED IN WAR[/color][/b]
+[b][color=orange][2] TOTAL MOBILIZATION[/color][/b]
+[b][color=yellow][3] PARTIAL MOBILZATION[/color][/b]
+[b][color=green][4] HEIGHTEND READINESS[/color] &amp;lt;-- CURRENT LEVEL.[/b]
+[b][color=blue][5] PEACETIME READINESS[/color][/b][/spoiler]
 
 [hr]
