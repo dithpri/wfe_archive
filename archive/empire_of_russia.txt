@@ -5,5 +5,4 @@
 [u]The [color=#BC9A43]Imperial[/color] Leadership:[/u]
 [list][*]Tsar of Russia: [nation=short]Nuvugurud[/nation][/list][/b]
 [hr]
-Alert Level: 10 (Maximum Alert)
-
+Alert Level: 3
