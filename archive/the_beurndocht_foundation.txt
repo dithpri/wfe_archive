@@ -17,10 +17,10 @@
 [hr]
 
 [spoiler=DEFCON Level]
-[b][color=red][1] ENGAGED IN WAR[/color][/b]
+[b][color=red][1] ENGAGED IN WAR[/color]&amp;lt;-- CURRENT LEVEL.[/b]
 [b][color=orange][2] TOTAL MOBILIZATION[/color][/b]
 [b][color=yellow][3] PARTIAL MOBILZATION[/color][/b]
-[b][color=green][4] HEIGHTEND READINESS[/color] &amp;lt;-- CURRENT LEVEL.[/b]
+[b][color=green][4] HEIGHTEND READINESS[/color][/b]
 [b][color=blue][5] PEACETIME READINESS[/color][/b][/spoiler]
 
 [hr]
