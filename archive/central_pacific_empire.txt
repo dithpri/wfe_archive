@@ -6,10 +6,11 @@
 [b]Emperor of the Central Pacific Empire[/b]: [nation]Latin and Central America[/nation]
 
 [b]Prime Minister[/b] - [nation=shortname]Cylthropia[/nation]
-[b]Interior Minister[/b] - [nation=shortname]Kasinox[/nation] [i]until confirmed[/i]
+[b]Interior Minister[/b] - [nation=shortname]Kasinox[/nation]
 [b]Foreign Minister[/b] - [nation=shortname]New Nationale Einheit[/nation]
 [b]Defense Minister[/b] - [nation=shortname]Octuagesimo Octavo[/nation]
 [b]Justice Minister[/b] - [nation=shortname]Lesbia[/nation]
+[b]Recruitment Minister[/b] - [nation=shortname]Western Mars[/nation] [i]until confirmed[/i]
 
 [b]Supreme Judge[/b]: [vacant]
 [b]Regional Judges[/b]: [vacant]

@@ -3,7 +3,7 @@ Each of these planets contain a unique and entirely different nation with its ow
 
 [u]Each contains its own motto or national saying:[/u]
 [list]
-[*][nation=short]Val-Skealf[/nation] [b]&quot;We replaced democracy with war and got anarchy..&quot;[/b]
+[*][nation=short]Val-Skealf[/nation] [b]&quot;We replaced democracy with nuclear war and got anarchy..&quot;[/b]
 [*][nation=short]Kroznia[/nation] [b]&quot;We gain points for care but lose none for scars made.&quot;[/b]
 [*][nation=short]Wingstate[/nation] [b]&quot;Making Dough by the Minute!&quot;[/b]
 [*][nation=short]Resurected Hydroxia[/nation] [b]&quot;The future is a straight path, lined with uranium...&quot;[/b]
