@@ -10,7 +10,7 @@
 [b]Foreign Minister[/b] - [nation=shortname]New Nationale Einheit[/nation]
 [b]Defense Minister[/b] - [nation=shortname]Octuagesimo Octavo[/nation]
 [b]Justice Minister[/b] - [nation=shortname]Lesbia[/nation]
-[b]Recruitment Minister[/b] - [nation=shortname]Western Mars[/nation] [i]until confirmed[/i]
+[b]Recruitment Minister[/b] - [nation=shortname]Western Mars[/nation]
 
 [b]Supreme Judge[/b]: [vacant]
 [b]Regional Judges[/b]: [vacant]

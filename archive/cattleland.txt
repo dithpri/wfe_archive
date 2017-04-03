@@ -10,4 +10,4 @@ Marshall: [nation]Schweppesville[/nation]
 
 Sheriff:
 
-Chief Dignitary:
+Chief Dignitary: [nation]Gitine[/nation]
