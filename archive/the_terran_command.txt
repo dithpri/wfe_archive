@@ -12,8 +12,7 @@
 
 [region]Unified Etrionia[/region]
 [region]The Terran Colony Union[/region]
-[region]National Bank of Terran[/region]
-[region]Terran Command[/region]
+[region]The Terran General Council[/region]
 
 [b][u]Regional Map[/b][/u]
 

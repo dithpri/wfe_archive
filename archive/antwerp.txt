@@ -1,1 +1,2 @@
-[color=navy][b]Antwerp[/b][/color][hr]
+[color=navy][b]Antwerp[/b][/color]
+a [region=0000] region
