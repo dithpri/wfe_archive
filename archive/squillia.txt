@@ -7,9 +7,14 @@
 &amp;#127970; Regional Government by the Union of Regions &amp;#127983;:
 Premier: [nation=short]Sukanja[/nation]
 General: [nation=short]Northphalia[/nation]
-Vice General: [nation=short]Legionary-Romania[/nation]
+Vice General: ??
 Judge: [nation=short]Tyrish[/nation]
 Regional Diplomat: [nation=short]Kesao[/nation]
+RP Moderator: [nation=short]Kesao[/nation]
 
 News and Bulletin:
-&#149; LEAVE RECOMMENDATIONS FOR RP MODERATOR IN THE RMB (Propose someone who is not bias)
+[list]
+[*]Congratulations to [nation=short]Legionary-Romania[/nation] as the new WA Delegate!
+[*]Congratulations to [nation=short]Kesao[/nation] as the new RP Moderator!
+[*]If you have not claimed 17 provinces on the map, click on the link &quot;Squillia Regional Map&quot; above. Claim 17 provinces that are not marked with an &#39;X&#39;. When you have done so, state the 17 provinces that you want in the RMB and the color you want to be identified as.
+[/list]
