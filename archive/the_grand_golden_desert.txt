@@ -1,1 +1,5 @@
-The Grand Golden Desert (GGD) is home to multiple state coalitions.
+[Region]The Grand Golden Desert[/Region] is home to multiple state coalitions.
+
+Each coalition of states must all be under a president state. (E.g., [Nation]East Mateostan[/Nation] is the presiding state over the [b]Mateostani States[/b], which include [nation]East Mateostan[/nation] and [nation]West Mateostan[/nation].) If you have solely one state, you will not be granted a presidential position.
+
+If there are any questions or concerns relating administration of the region, please direct them to [nation]East Mateostan[/nation] or [nation]West Morganstan[/nation] via telegram.
