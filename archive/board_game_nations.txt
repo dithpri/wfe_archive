@@ -14,7 +14,7 @@ First Prince: [nation=short]Gilmores Glorious Empire[/nation]
 Tower Warden: [nation=short]Habroo the Mighty and Brave[/nation] 
 Royal Escort Vehicle: [nation=short]Hollicopter[/nation]
 Royal Estate Plumber: [nation=short]Farwood[/nation]
-Estate Plumber Assistant: 
+Estate Plumber Assistant: [nation=short]Star-Topia[/nation]
 
 [hr]If you have a missing role that has yet to appear above, please inform Frostorn or Grarrg as soon as possible.
 
