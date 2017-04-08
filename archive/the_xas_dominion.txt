@@ -1,12 +1,1 @@
-[b][i][u][region]The Xas Dominion[/region][/b][/i][/u]
-
-[b]Major Nations:[/b]
-   [nation]Xaslax[/nation]
-   [nation]The Islands of Zergstown[/nation]
-
-[b]Minor Nations:[/b]
-
-
-[b]Colonies:[/b]
-   Colonies of  [nation]Xaslax[/nation] are:[nation=short]Xasvex[/nation],[nation=short]Xasrex[/nation]
-   
+The Xas Dominion is the collection of all the Xas territories and their allies.

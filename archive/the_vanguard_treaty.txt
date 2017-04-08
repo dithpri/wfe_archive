@@ -10,8 +10,7 @@
 [list][*][region]USSD[/region]
 [*][region]Conf of Traditional Socialist Nations[/region]
 [*][region]Exodus[/region]
-[*][region]League of Reformed Socialist States[/region]
-[*][region]CPN[/region][/list]
+[/list]
 
 [B]OBSERVER REGIONS:[/B]
 
