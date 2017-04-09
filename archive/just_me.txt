@@ -1,1 +1,14 @@
-Me
+[b]There are some amazing combinations out in nature. Chocolate and peanut butter. French fries and ketchup. [region]The Kingdom of Great Britain[/region] and [region]Hellenic Empire[/region]. Guess which one you&#39;ve just encountered?
+
+From the [region]Hellenic Empire[/region]:
+Strategos Autokrator, [nation=short]Satya Romefeller[/nation]
+Strategos, [nation=short]Greyed[/nation] (trigger)
+Taxiarhos, [nation=short]Nyx-[/nation]
+Archlokhagos, [nation=short]Hellenic Dubya[/nation]
+Epilokhagos, [nation=short]Klaizar[/nation]
+Epilokhagos, [nation=short]Hysminae[/nation]
+
+From [region]The Kingdom of Great Britain[/region]:
+Commander-in-Chief, [nation=short]King Alexander[/nation]
+Gunnery Sergeant, [nation=short]Aquosene[/nation]
+Corporal, [nation=short]Arondyte[/nation][/b]

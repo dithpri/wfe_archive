@@ -10,11 +10,11 @@
 
 [hr]
 
-[b][u]Board of the CILJ[/u][/b]
-[nation]Ecclestia[/nation]
-[nation]BearNation[/nation]
-VACANT
-[nation]The Rouge Christmas State[/nation]
+[b][u]Board of the CILJ[/u][/b] - 
+[nation]Ecclestia[/nation] - [region]The Christadelphians[/region]
+[nation]BearNation[/nation] - [region]Gay[/region]
+[nation]United Christian[/nation] - [region]New World Union[/region]
+[nation]The Rouge Christmas State[/nation] - [region]Right to Life[/region]
 
 
 [hr]

@@ -1,8 +1,8 @@
- [b][u][color=red]Welcome to Ermor, Bastion of the New Faith[/color][/u][/b]
-[i][color=darkred]~Founded September 18th, 2015~[/color][/i]
-[hr][color=purple][B][u]Senatorial Magistrates[/u]
-Quaestor(s): [nation]Ostropolita[/nation][/B][/color]
-[hr][color=goldenrod][B][u]Plebeian Magistrates[/u]
-No serving governors.[/B][/color]
-[hr][B][url=https://groups.google.com/d/forum/ermorinvicta]Forum of the Republic[/url][/B]
-[hr][u][b][url=https://www.youtube.com/watch?v=2iiRrjiIuSU]Imperium Ermorianum[/url][/b][/u]
+[b]This region has been annihilated by the elite forces of [region]The Invaders[/region]!
+
+Troops:
+[color=red]General[/color] [nation=short]Gest II[/nation] (trigger)
+[color=red]Lieutenant Colonel[/color] [nation=short]Tombouctu[/nation] (point)
+[color=red]Lieutenant Colonel[/color] [nation=short]Saint Block[/nation]
+[color=red]Sergeant[/color] [nation=short]The Aprent[/nation]
+[color=red]Private[/color] [nation=short]The City-States of Kataria[/nation][/b]

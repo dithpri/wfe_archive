@@ -1,1 +1,8 @@
-Never forget the lung fic 
+[b]This region has been annihilated by the elite forces of [region]The Invaders[/region]!
+
+Troops:
+[color=red]General[/color] [nation=short]Gest II[/nation] (trigger)
+[color=red]Lieutenant Colonel[/color] [nation=short]Tombouctu[/nation] (point)
+[color=red]Lieutenant Colonel[/color] [nation=short]Saint Block[/nation]
+[color=red]Sergeant[/color] [nation=short]The Aprent[/nation]
+[color=red]Private[/color] [nation=short]The City-States of Kataria[/nation][/b]

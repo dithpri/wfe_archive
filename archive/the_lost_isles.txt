@@ -1,6 +1,14 @@
-After a series of mass technical difficulties with navigational systems and mild confusion by command, LEAF lead coalition along side of Mafia and TUA missed their intended destination and stumbled across these new lands. Though these organizations have since fled the isles, and the power of the region has shifted, the legacy of its founders rings through this small region of the world.
+[b]There are some amazing combinations out in nature. Chocolate and peanut butter. French fries and ketchup. [region]The Kingdom of Great Britain[/region] and [region]Hellenic Empire[/region]. Guess which one you&#39;ve just encountered?
 
-[b][nation]Awasha[/nation],Colonel,[region=The Lost Isles]
-[nation]An Obvious Hierarchical Stucture[/nation],High General,[region=The Lost lsles]
-[nation]Spuds MacKenzie[/nation],Regional Commander,[region=The Lost Isles]
-[nation][/nation],Corporal, [region][/region][/b]
+From the [region]Hellenic Empire[/region]:
+Strategos Autokrator, [nation=short]Satya Romefeller[/nation]
+Strategos, [nation=short]Greyed[/nation] (trigger)
+Taxiarhos, [nation=short]Nyx-[/nation]
+Archlokhagos, [nation=short]Hellenic Dubya[/nation]
+Epilokhagos, [nation=short]Klaizar[/nation]
+Epilokhagos, [nation=short]Hysminae[/nation]
+
+From [region]The Kingdom of Great Britain[/region]:
+Commander-in-Chief, [nation=short]King Alexander[/nation]
+Gunnery Sergeant, [nation=short]Aquosene[/nation]
+Corporal, [nation=short]Arondyte[/nation][/b]
