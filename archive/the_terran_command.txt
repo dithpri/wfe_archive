@@ -13,6 +13,7 @@
 [region]Unified Etrionia[/region]
 [region]The Terran Colony Union[/region]
 [region]The Terran General Council[/region]
+[region]Invaderia[/region]
 
 [b][u]Regional Map[/b][/u]
 
