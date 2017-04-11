@@ -1,0 +1,7 @@
+[b][region]Realm of Canada[/region][/b]
+[hr]The Realm of Canada is the constitutional framework serving to define the relationship between Canada Proper and other Canadian Polities. The Unified Realm assumes an important role in the Americas by acting as bridge between the diverse cultures of North America and the Caribbean.
+[hr]Realm Polities:
+[b][nation=short]Canada-[/nation][/b]
+[b][nation=short]Turks and Caicos-[/nation]
+[nation=short]Bermuda-[/nation]
+[nation=short]Cayman Islands-[/nation][/b]

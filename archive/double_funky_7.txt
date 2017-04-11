@@ -1,6 +1,6 @@
 [hr][list][color=004525][b]Double Funky 7[/b][/list][hr][list]The FIRST Official Region
-A [region=United States of America] region
-Associated with [region=Ancient Lands][/list][hr][list]
+A [region=0000] region
+Associated with [region=Ancient Lands]/[region=United States of America]/et al[/list][hr][list]
 [b]An Oracle Game Region[/b][list][spoiler=ORACLE][url=http://nsdossier.texasregion.net/embassyOracle.aspx]Oracle Game[/url][/spoiler][/list]
 Goal of this version of the Oracle Game is to create an embassy chain connecting as many regions as possible, with no short circuits caused by having embassies with other regions.
 
