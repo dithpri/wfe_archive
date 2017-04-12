@@ -6,13 +6,13 @@
 
 [hr]
 
-[color=red]Our Government:[/color]
+[color=red]Our Government under the King [nation]Qaweritoyu[/nation][/color]
 
-[color=red]Founder/Intelligence Minister:[/color] [nation]Clearhill[/nation]
+[color=red]Founder/Vice-Delegate[/color] [nation]Clearhill[/nation]
 [color=red]WA Delegate/Prime Minister:[/color] [nation]Quffuffull[/nation]
-[color=red]Vice-Delegate: [/color] [nation]Qaweritoyu[/nation]
 
-[color=blue]Security Alert Levels = Neutral, Yellow Alert, Orange Alert and Red Alert. Currently at[/color] [color=orange]Orange Alert.[/color]
+
+[color=blue]Security Alert Levels = Neutral, Yellow Alert, Orange Alert and Red Alert. Currently at[/color] [color=blue]Neutral[/color]
 
 
 

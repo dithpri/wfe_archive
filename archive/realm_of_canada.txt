@@ -4,4 +4,5 @@
 [b][nation=short]Canada-[/nation][/b]
 [b][nation=short]Turks and Caicos-[/nation]
 [nation=short]Bermuda-[/nation]
-[nation=short]Cayman Islands-[/nation][/b]
+[nation=short]Cayman Islands-[/nation]
+[nation=short]New Hebrides-[/nation][color=#009900] (Vanuatu)[/color][/b]
