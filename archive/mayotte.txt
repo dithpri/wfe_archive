@@ -1,1 +1,2 @@
-[list][color=maroon][b]Mayotte[/b][/color][hr][color=008000]an [region=Ancient Lands] region[/color][/list]
+[b]Mayotte[/b]
+a [region=0000] region

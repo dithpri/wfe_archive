@@ -4,7 +4,7 @@
 
 [u][B][color=#FF0000]Regional Government[/color][/B][/u]
 [B]- Chairman:[/B] [nation]Florinia[/nation] ([color=#999999][b]Ind.[/b][/color])
-[B]- Vice Chairman:[/B] [nation]Neue Rheinland[/nation] ([color=#999999][b]Ind.[/b][/color])
+[B]- Vice Chairman:[/B] [nation]Neue Rheinland[/nation] ([color=#FFCC00][b]Co.[/b][/color])
 
 
 [u][b][color=#40BF00]The General Assembly[/color][/b][/u]
@@ -12,6 +12,7 @@
 
 [b]Political Parties:[/b]
 [color=#B00404]The Workers&#39; Party[/color]   [url=http://www.nationstates.net/nation=tyrnica/detail=factbook/id=735507](i)[/url]
+[color=#FFCC00]The Coalition for Progress[/color] 
 
 
 [u][B][color=#FFBF00]Security Council[/color][/B][/u]

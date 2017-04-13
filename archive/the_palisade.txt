@@ -1,9 +1,9 @@
-[B][U]The Palisade[/B][/U]
+[b]This major, [region]The Black Hawks[/region] swooped down and destroyed your dainty little region! How tragic.
 
-[Color=red]Give me your tired, your poor,[/color]
-[Color=orange]Your huddled masses yearning to breathe free,[/color]
-[Color=green]The wretched refuse of your teeming shore.[/color]
-[Color=blue]Send these, the homeless, tempest-tost to me,[/color]
-[Color=Purple]I lift my lamp beside the golden door![/color]
+Swooping Hawks:
+Corporal [nation=short]Pz4[/nation] (Trigger)
+Sergeant [nation=short]Greyed[/nation]
+Corporal [nation=short]Moneyness[/nation]
+Corporal [nation=short]Atraire[/nation]
 
-Check out our forums: [url=http://palisade.proboards.com] Link[/url]
+Huzzcaw![/b]
