@@ -1,9 +1,6 @@
-[b]This major, [region]The Black Hawks[/region] swooped down and destroyed your dainty little region! How tragic.
+Warzone Africa Ministry:
+ [nation=short]INSERT NATION[/nation] (Trigger)
+POSITION  [nation=short]INSERT NATION[/nation]
+POSITION  [nation=short]INSERT NATION [/nation]
+POSITION [nation=short]INSERT NATION [/nation]
 
-Swooping Hawks:
-Corporal [nation=short]Pz4[/nation] (Trigger)
-Sergeant [nation=short]Greyed[/nation]
-Corporal [nation=short]Moneyness[/nation]
-Corporal [nation=short]Atraire[/nation]
-
-Huzzcaw![/b]

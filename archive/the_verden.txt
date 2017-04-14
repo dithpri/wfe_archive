@@ -3,7 +3,8 @@
 [i]Verden is the World - The World is Verden[/i]
 [hr]
 [b][u]Founder: [/b]
-[/u][nation=short]Norwegian_Nations[/nation]
+[/u][nation=short]greater_fosna[/nation]
+
 [b][u]Civil Servants: [/b][/u]
 
 [b][u]Regional Cartographer: [/b][/u]
