@@ -1,6 +1,9 @@
-Warzone Africa Ministry:
- [nation=short]INSERT NATION[/nation] (Trigger)
-POSITION  [nation=short]INSERT NATION[/nation]
-POSITION  [nation=short]INSERT NATION [/nation]
-POSITION [nation=short]INSERT NATION [/nation]
+[b]Welcome to the [i]Banana Republic of Warzone Africa[/i] (B.R.W.A.), the most vibrant, colorful and explosive of the Warzones![/b]
 
+[b]| [URL=http://www.nationstates.net/nation=new_perotasoa/detail=factbook/id=714746]Constitution[/url] | [url=https://www.nationstates.net/page=dispatch/id=760790]Most Recent News Entry[/url] | [url=https://www.nationstates.net/page=cards]Cards Against Nationstates[/url] | [url=https://forum.nationstates.net/viewtopic.php?f=5&amp;t=392360]Roleplaying[/url] | [url=http://imgur.com/CXpd9TK]Regional Map[/url] | [url=https://youtu.be/uwgskWlENQ8]Regional Anthem[/url] |[/b]
+
+[b][color=grey]Your nation must thrive in this cataclysmic safari. Look out for dangerous predators including, but not limited to, hippopotami.[/color][/b]
+
+[B][color=green]But you must also enjoy yourself in the thick of battle. For the glory of Warzone Africa![/color]
+[/B]
+[B][color=scarlet]For your own safety, and the safety of others, please endorse the current W.A. delegate; [nation=shortnoflag]Findistan[/nation].[/color][/B]

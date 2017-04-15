@@ -1,1 +1,8 @@
-[b][color=darkred]This region has been claimed by the Royal [region]Albion[/region] as its newest outpost.[/color][color=406651]All shall fear the strength of the Knights of [region]Albion[/region].[/color][/b]
+[b]Think you feel safe under your cozy bed? Guess what, theres always going to be an INVASION in the dead of night.  This is now [region]The Invaders[/region] territory.
+ 
+Troops:
+[color=red]General[/color] [nation=short]Gest II[/nation] (trigger)
+[color=red]Lieutenant Colonel[/color] [nation=short]Tombouctu[/nation]
+[color=red]Lieutenant Colonel[/color] [nation=short]Varax Zwei[/nation]
+[color=red]Staff Sergeant[/color] [nation=short]Hired Contractor II[/nation] 
+[color=red]Corporal[/color] [nation=short]Liberate[/nation] [/b]

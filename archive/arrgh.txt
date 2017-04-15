@@ -1,14 +1,8 @@
-[b]There are some amazing combinations out in nature. Chocolate and peanut butter. French fries and ketchup. [region]The Kingdom of Great Britain[/region] and [region]Hellenic Empire[/region]. Guess which one you&#39;ve just encountered?
+[b]Think you feel safe under your cozy bed? Guess what, theres always going to be an INVASION in the dead of night.  This is now [region]The Invaders[/region] territory. 
 
-From the [region]Hellenic Empire[/region]:
-Strategos Autokrator, [nation=short]Satya Romefeller[/nation]
-Strategos, [nation=short]Greyed[/nation] (trigger)
-Taxiarhos, [nation=short]Nyx-[/nation]
-Archlokhagos, [nation=short]Hellenic Dubya[/nation]
-Epilokhagos, [nation=short]Klaizar[/nation]
-Epilokhagos, [nation=short]Hysminae[/nation]
-
-From [region]The Kingdom of Great Britain[/region]:
-Commander-in-Chief, [nation=short]King Alexander[/nation]
-Gunnery Sergeant, [nation=short]Aquosene[/nation]
-Corporal, [nation=short]Arondyte[/nation][/b]
+Troops:
+[color=red]General[/color] [nation=short]Gest II[/nation] (trigger)
+[color=red]Lieutenant Colonel[/color] [nation=short]Tombouctu[/nation]
+[color=red]Lieutenant Colonel[/color] [nation=short]Varax Zwei[/nation]
+[color=red]Staff Sergeant[/color] [nation=short]Hired Contractor II[/nation] 
+[color=red]Corporal[/color] [nation=short]Liberate[/nation] [/b]

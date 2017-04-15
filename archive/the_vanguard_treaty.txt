@@ -10,10 +10,11 @@
 [list][*][region]USSD[/region]
 [*][region]Conf of Traditional Socialist Nations[/region]
 [*][region]Exodus[/region]
+[*][region]Helvundia[/region]
 [/list]
 
 [B]OBSERVER REGIONS:[/B]
 
 [list][*][region]The Communist Legion[/region]
 [*][region]Union of Proletarian States[/region]
-[*][region]Helvundia[/region][/list]
+[*][region]The Enclave Region of the USSD[/region][/list]
