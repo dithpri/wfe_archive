@@ -10,9 +10,9 @@ List of [color=red]Government Officials[/color]
 
 [color=red]Deputy F&uuml;hrer[/color]: [nation=short]Mackenzia[/nation]
 
-[color=blue]Delegate to the WA[/color]: [nation=short]The Eurofuhrer[/nation]
+&amp;#127760; [color=blue]Delegate to the WA[/color]: [nation=short]The Eurofuhrer[/nation]
 
-[color=blue]Vice Delegate to the WA[/color]: [nation=short]Transitria[/nation]
+&amp;#127760; [color=blue]Vice Delegate to the WA[/color]: [nation=short]Transitria[/nation]
 
 [color=red]Minister of Propaganda[/color]: [nation=short]Lic Patatus[/nation]
 

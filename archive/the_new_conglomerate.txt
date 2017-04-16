@@ -1,1 +1,8 @@
-[region]The New Conglomerate[/region] is an organization of progressive states built off the ideologies of free trade, capitalism, and social conservatism. Participating nations help protect the world&#39;s economy by providing a barrier against communist, socialist, and liberal nations.
+[b]This region has been annihilated by the elite forces of The Invaders!
+
+Troops:[color=#9B0C00]
+General: [nation=Gest II] (trigger)
+Lieutenant Colonel: [nation=Tombouctu] (point)
+Lieutenant Colonel: [nation=Saint Block]
+Sergeant: [nation=The Aprent]
+Staff Sergeant: [nation=Hired Contractor II][/b][/color]

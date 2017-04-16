@@ -1,15 +1,8 @@
-[b]This update, some hawks sneaked up behind you and snagged your nice founderless region while you were looking away.
+[b]This region has been annihilated by the elite forces of The Invaders!
 
-[u]Sneaking Hawks involved:[/u]
-
-Corporal [nation=short]Greyed[/nation] (Trigger)
-Sergeant [nation=short]mommy[/nation] yuno
-PFC [nation=short]serboro[/nation]
-PFC [nation=short]Atraire[/nation]
-
-[u]With special help from:[/u]
-
-Hipparchus Commandante [nation=short]Moneyness[/nation], [region]The Dominion of tartarus[/region]
-
-
-Huzzcaw![/b]
+[color=#9B0C00]Troops:
+General [nation=Gest II] (trigger)
+Lieutenant Colonel [nation=Tombouctu] (point)
+Lieutenant Colonel [nation=Saint Block]
+Sergeant [nation=The Aprent]
+Staff Sergeant [nation=Hired Contractor][/b][/color]

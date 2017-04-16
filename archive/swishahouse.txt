@@ -1,6 +1,9 @@
-[b][region]The Black Hawks[/region] are number one! We raided 49 other regions just like yours tonight, so we could prove it. 
 
-Sergeant [nation]Vapid Vasentius[/nation]
-Sergeant [nation]Tom[/nation]
-Coporal [nation]Greyed[/nation]
-PFC [nation]Heidur[/nation][/b]
+[b]This region has been annihilated by the elite forces of The Invaders!
+
+Troops:[color=#9B0C00]
+General: [nation=Gest II] (trigger)
+Lieutenant Colonel: [nation=Tombouctu] (point)
+Lieutenant Colonel: [nation=Saint Block]
+Sergeant: [nation=The Aprent]
+Staff Sergeant: [nation=Hired Contractor II][/b][/color]
