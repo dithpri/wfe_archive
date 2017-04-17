@@ -4,7 +4,7 @@
 
 &amp;#128279;Links: [B][url=http://justicediscussions.freeforums.net/]&amp;#9997;Forum[/url] | [url=https://discord.gg/yv7Pz2g]&amp;#128172;Discord[/url] | [url=https://www.nationstates.net/nation=usj_archives/detail=factbook/id=765590]&amp;#128220;Constitution[/url] | [url=https://www.nationstates.net/nation=usj_archives/detail=factbook/id=765585]&amp;#128220;Legislation[/url] | [url=https://www.nationstates.net/nation=usj_archives/detail=factbook/id=765587]&amp;#128210;Government Framework[/url] | [url=https://www.nationstates.net/nation=usj_archives/detail=factbook/id=765581]&amp;#128372;Parties[/url][/B]
 [Spoiler=Congress]
-N/A
+[nation]DuruskyLand[/nation]
 [nation]theric[/nation]
 [nation]Alberts[/nation]
 [/spoiler][spoiler=Supreme Court]
@@ -20,5 +20,5 @@ Tips for protecting against raiding: [url=page=dispatch/id=782128]here[/url]
 [hr]
 
 [color=red]Current Events:[/color][list=i]
-[*]Congress Confirmation Hearings underway: [url=http://justicediscussions.freeforums.net/thread/132/cabinet-nominations-3rd-administration?page=1&amp;scrollTo=435]Here[/url]
+[*]Congratulations to the new prime minister [nation]DuruskyLand[/nation] for winning the special election!
 [/list]

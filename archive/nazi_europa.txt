@@ -1,7 +1,7 @@
 [u][b]NE Chain of Command[/u][/b]
 
 [b]Head of State[/b]: [nation=short]German Dragons[/nation]
-[b]Military Commander[/b]: [nation=short]The Gregorach[/nation]
+[b]Kurf&uuml;rst[/b]: [nation=short]The Gregorach[/nation]
 [b]Executive Officer[/b]: [nation]Molostyev[/nation]
 [b]Foreign Minister[/b]: [nation]Lindenbrau[/nation]
 [hr]

@@ -11,7 +11,7 @@ Current Endorsement Cap: [i][b][u]1[/I][/b][/u]
 [color=red]Premier[/color]: [b]VACANT[/b]
 [url=https://www.nationstates.net/page=dispatch/id=789627][color=blue]Councillor of Security[/url][/color]: [b][nation=short]Pac[/nation][color=darkblue] (SOC)[/color][/b]
 [color=red]Councillor of External Affairs[/color]: [b]VACANT[/b]
-[color=blue]Attorney Councillor[/color]: [b]VACANT[/b]
+[color=blue]Attorney Councillor[/color]: [b][nation=short]The_Millidari_Democratic_Council[/nation] [color=blue](REF)[/color][/b]
 [color=red]Councillor of Court[/color]: [b]VACANT[/b]
 
 [hr][b] [color=Gold]|[/color][color=brightgrey]|[/color][color=gold]Royalty[/color][color=brightgrey] Cabinet[/color][color=brightgrey]|[/color][color=Gold]|[/color][/b]

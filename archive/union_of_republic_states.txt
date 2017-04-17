@@ -1,7 +1,7 @@
-[color=#FFBF00][B][i]&quot;Say it ain&#39;t so! We just got raided!&quot;
+[b]This region has been annihilated by the elite forces of [region]The Invaders[/region]!
 
-Don&#39;t underestimate the pain that a sharp blade brings.[/i][/B]
-
-This raid brought to you by:
-[B]General Naj ([nation=short]Slangar[/nation])
-Private Jax[/B] ([nation=short]The_empire_of_jax[/nation])[/color]
+Troops:[color=#9B0C00]
+General: [nation=short]Gest II[/nation] (trigger)
+Lieutenant Colonel: [nation=short]Tombouctu[/nation]
+Lieutenant Colonel: [nation=short]Saint Block[/nation]
+Corporal: [nation=short]Liberate[/nation][/color][/b]
