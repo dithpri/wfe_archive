@@ -1,17 +1,13 @@
-Welcome to the official page of the Supreme Court of the United States of Newlandia [hr]
-Justices
-Chief Justice:Vacant
-Associate Judge:Vacant
+Welcome to the Supreme Court of [region]United States of Newlandia[/region]
 [hr]
-If you want the Court to hear a case post it in the RMB in one of these formats:
-1.When challenging A laws constitutionality
-Challenged Law
-Amendment Violated
-
-2.When Challenging a penalty
-Penalty Challenging
-
-3.Filing A Complaint Against other citizen
-Plantif V. Defendant
-Wanted Penalty
-Grounds
+Members:
+Chief Justice:
+Associate Justice:
+Associate Justice:
+[hr]
+Filling a Case:
+In the RMB use this format
+Challenger V. Respondent
+Imposed Penalty
+Grounds.
+Note: When Challenging something as unconstituional the Respindent should be the region name. Also in ground state the part of the constitution that is violated.
