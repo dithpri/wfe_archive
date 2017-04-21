@@ -1,29 +1,22 @@
-[color=darkred][b]Welcome to Datolia[/color]
+[color=darkblue][b]Welcome to Datolia[/color]
 
 A region for people from all over the world, any nation, any race, any belief.[/b]
 
-[hr]
-[b][color=darkred]News[/color][/b]
-
+[hr][b][color=darkblue]News[/color][/b]
 [hr]
 
-[b]The election for the Secretary of State for Justice will be coming after the Consitution is written. Telegram [nation]Bants[/nation] if you want to run.[/b] 
+[b]The election for the new Government positions will be coming soon. Telegram [nation]Bants[/nation] if you want to run.[/b] 
  
-[hr]
-[b][color=darkred]Useful Links[/color][/b]
-
+[hr][b][color=darkblue]Useful Links[/color][/b]
 [hr]
 
-[url=https://muut.com/datoliarp/]Regional Roleplay Center[/url]
+[url=https://muut.com/datoliarp/]Roleplay[/url]
 
 [url=https://discord.gg/2TJvbMK]Discord chat[/url]
 
 [url=https://drive.google.com/open?id=1qX30nx9tfSs8hhrWTE6EJho1CUE&amp;usp=sharing]Map[/url] | [url=https://goo.gl/forms/wjjhePq2T6LCb3PA2]Get your map spot[/url]
 
-[hr]
-[b]Constitution:[/b] coming soon
-
-[b][url=https://www.nationstates.net/page=dispatch/id=781742]Regional Laws[/url][/b]
+[url=https://www.nationstates.net/page=dispatch/id=781742]Datolian Laws[/url]
 
 [hr]
 [spoiler=The Council of Datolia]
@@ -31,8 +24,9 @@ A region for people from all over the world, any nation, any race, any belief.[/
 
 [b]Directly elected:[/b]
 &#149; Chancellor: [nation]Bants[/nation]
-&#149; Deputy Chancellor: Unfilled
-&#149; Ambassador: [nation]Crimean Union[/nation]
+&#149; Secretary of State for Foreign Affairs: [nation]Crimean Union[/nation]
+&#149; Secretary of State for Home Department: [nation=short]Personian[/nation]
+&#149; Secretary of State for Justice: [nation=short]azukri[/nation]
 &#149; World Assembly Delegate: [nation]The Skeleton Kingdom[/nation]
 
 [b]Appointed by the Chancellor/Founder[/b]

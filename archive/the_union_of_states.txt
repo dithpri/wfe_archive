@@ -2,3 +2,10 @@
 a [region=0000] region
 
 in association with [region=United States of America]
+
+[color=deeppink][b]What is an Oracle Region?[/b]
+[i]It is a region that only has two embassies.
+These embassies create a chain of regions.
+The goal is to create a very long chain of regions.
+Any other embassy would break that chain.
+See [region=Double Funky 7] for more details.[/i][/color]
