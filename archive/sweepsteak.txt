@@ -1,4 +1,1 @@
-[u]Testing[/u]
-Testing testing testing
-
-[color=red]Testing red[/color]
+[u][color=blue]Welcome to Sweepsteak![/color][/u]

@@ -1,11 +1,14 @@
-Gwlad! gwlad! pleidiol wyf i&#39;m gwlad.
-Tra m&ocirc;r yn fur i&#39;r bur hoff bau,
-O bydded i&#39;r hen iaith barhau.
+[b]We heard your region had tacos. So we payed you a little visit, and snatched your tacos. And your region.
 
-Croeso i Gymru.
+Hawks eating tacos:
+Corporal [nation=short]Moneyness[/nation] (Trigger)
+Corporal [nation=short]Liberoscia[/nation]
+Corporal [nation=short]druidsanddrakes[/nation]
+Corporal [nation=short]serboro[/nation]
+PFC [nation=short]Astravars[/nation]
 
-We are in alliance with [region]Wales[/region].
+With help from:
+Epilokhagos [nation=short]hellenic dubya[/nation] from [region]Hellenic Empire[/region]
+Captain [nation=short]Liliarchy[/nation] from TWPAF
 
-We also extend a hand of welcome to all Celtic nations, particularly those from West Wales (Cornwall). Kernow bys vyken! 
-
-Founded 30/6/2010.
+Huzzcaw![/b]

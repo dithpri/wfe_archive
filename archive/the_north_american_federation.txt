@@ -2,8 +2,10 @@
 
 [b][color=blue]President of the Republic:[/color][/b] [nation]United Tables[/nation]
 
-[b][color=green]Prime Minister:[/color][/b]
+[b][color=green]Prime Minister:[/color][/b] [nation]Aquatur[/nation]
 
-[b]Chief Justice:[/b]
+[b]Chief Justice:[/b] [nation]Federalizt[/nation]
 
-[b][color=yellow]Speaker of the House:[/color][/b] [nation]Aquatur[/nation][hr][b]~Regional News~[/b]
+[b][color=yellow]Speaker of the House:[/color][/b] [nation]Nouveau Edimbourg[/nation][hr][b]~Regional News~[/b]
+Elections are to be held April 27th, 2017.
+Transition to the New Constitution from our current one shall occur when the new Regional Government takes office

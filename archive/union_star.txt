@@ -22,4 +22,4 @@
 
 [color=darkred][B][i]Thanks for joining![/B][/i][/color]
 
-Current threat level: [color=green]Code Green[/color], Region Is Safe.
+Current threat level: [color=Red]Code Red[/color], Region Is On Lockdown.

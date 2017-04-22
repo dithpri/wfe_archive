@@ -1,11 +1,8 @@
-Welcome to The Sentient Hub!
+[b]This region has been annihilated by the elite forces of [region]The Invaders[/region]!
 
-Our region was once home to over 150 nations! But then the AI went out (founder ceased to exist), and our numbers rapidly declined (founder&#39;s puppet nations ceased to exist).
-
-In the years since, The Sentient Hub has been ravaged by a vicious cycle of raids, rebuilding, and prolonged periods of inactivity.
-
-We had a Screaming Fireworm and Ghost Scorpion Defense Squad, a Minister of Artisan Breads and Epicurean Cheeses, and a Mobile Zombie Extermination Lab. Our MWMSDGJWEPP Course, or &#39;Make Workers More Smart for Doing Good Jobs Work Education Program Plan Course&#39; was then envy of governments, businesses, and scholars the world over.
-
- [color=green]5-0 against the Zombie Hoards! Or 6-0! I don&#39;t remember![/color]
-
-Times this has been posted: [color=red]1[/color]
+Troops:[color=#9B0C00]
+General: [nation=short]Gest II[/nation] (trigger)
+Lieutenant Colonel: [nation=short]Tombouctu[/nation]
+Lieutenant Colonel: [nation=short]Saint Block[/nation]
+Staff Sergeant: [nation=Hired Contractor II]
+Private First Class: [nation=short]Aarol[/nation][/color][/b]
