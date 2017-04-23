@@ -1,4 +1,8 @@
-Welcome to The Cornovii Commonwealth. We are a region of Nations that work together to create a political utopia. 
+[b]This region has been annihilated by the elite forces of [region]The Invaders[/region]!
 
-Please note that while most member nations offer widespread freedoms, strict penalties are imposed for the sale of items described as Cornish Pasties which do not meet the official criteria.
-
+Troops:[color=#9B0C00]
+General: [nation=short]Gest II[/nation] (trigger)
+Lieutenant Colonel: [nation=short]Saint Block[/nation]
+Staff Sergeant: [nation=Hired Contractor II]
+Corporal: [nation=short]Liberate[/nation]
+Corporal: [nation=short]Aarol[/nation][/color][/b]

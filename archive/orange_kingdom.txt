@@ -1,17 +1,14 @@
 Welcome to the [b][color=orange]Orange Kingdom[/color][/b]!
 [i]Founded on the 10th April, 2017[/i]
 
-[color=orange][b]King of Orange: Constantine I[/b][/color] | [color=orange][b]Prince of Orange: Constantine I[/b][/color] | [color=orange][b]Lord Protector: Constantine I[/b][/color]
+[u][b]Government of the Orange Kingdom[/b][/u]
+[b]Founder[/b]: [nation]Neo Ancient Rome[/nation]
+[b]WA Delegate[/b]: [i]Vacant[/i]
+[b]Vice-Delegate[/b]: [i]Vacant[/i]
+[b]Diplomacy Officer[/b]: [i]Vacant[/i]
+[b]Homeland Officer[/b]: [i]Vacant[/i]
+[b]Security Officer[/b]: [i]Vacant[/i]
 
-[b]His Majesty&#39;s Government[/b]
-[b]Prime Minister[/b]: [i]Vacant[/i]
-[b]Deputy Prime Minster[/b]: [i]Vacant[/i]
-[b]Minister of Foreign Affairs[/b]: [i]Vacant[/i]
-[b]Minister of Internal Affairs[/b]: [i]Vacant[/i]
-[b]Attorney General[/b]: [i]Vacant[/i]
-[b]Minister of Defence[/b]: [i]Vacant[/i]
-
-[b]Regional News[/b]
-[list][*] The [b][color=orange]Orange Kingdom[/color][/b] was founded on the 10th April, 2017!
+[u][b]Regional News[/b][/u][list]
 [*] Join us on Discord [url=https://discord.gg/8TXczrV]here[/url]!
 [/list]
