@@ -5,6 +5,4 @@ Benvenuti a tutti! Questa regione &egrave; stata fondata per radunare tutti gli 
  &quot;ARCHEOISTI ITALIANI!&quot;
 
 -[nation]Archeo Italia[/nation] Fondatore e Imperatore Formale della Nazione
--[nation]KAFFEEE[/nation] Ufficiale della Ricerca, della Scienza e del Progresso
--[nation]Girrasis[/nation] Capo Supremo delle Forze Armate
--[nation]US of Amestris[/nation] Ministro degli Interni
+-[nation]Granducato di Wolfia[/nation] Vice delegato

@@ -1,19 +1,6 @@
-[b][color=red][region]The West Pacific[/region] Armed Forces has taken this region while hunting for marsupials![/color]
+[b]This region has been annihilated by the elite forces of [region]The Invaders[/region]!
 
-We have come to take all of your [i][color=saddlebrown]chocolate[/color][/i] as tribute to the mighty [nation=short]darkesia[/nation]![/b]
-
-[hr]
-[b][i]Troops:[/i][/b]
-
-Field Commander [nation]Bedetopia[/nation]
-
-[b][i]Foreign Troops:[/i][/b]
-
-[nation]Th empire of wymondham[/nation] from [region]Osiris[/region]
-
-[hr]
-
-[b][region]The West Pacific[/region][/b]
-[b][color=red]&quot;Where the coffee is always fresh, the bar always open, and there is Karaoke every Friday!&quot;[/color][/b]
-
-[b][url=http://www.westpacific.org/forums/index.php?/topic/1994-twpaf-military-application/]Join us in the conquest of all the chocolate of NationStates![/url][/b]
+Troops:[color=#9B0C00]
+General: [nation=short]Gest II[/nation] (trigger)
+Lieutenant Colonel: [nation=short]Tombouctu[/nation]
+Corporal: [nation=short]Liberate[/nation][/color][/b]

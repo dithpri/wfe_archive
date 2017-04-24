@@ -1,7 +1,7 @@
      [color=blue][b]Greetings[/b][/color] and [color=red][b]Welcome[/b][/color] to [b][color=blue]T[/color]he [color=red]C[/color]apital [color=Blue]R[/color]epublic[/b]
 
 [color=red]Current Events:[/color] Regional Set-up
-[hr][hr]| [url=https://www.nationstates.net/region=capital_republic_role_play][b][color=red]ROLE PLAY[/b][/color][/url] | [url=https://www.nationstates.net/page=dispatch/id=795991][b][color=blue]ELECTIONS[/b][/color][/url] | [url=https://www.nationstates.net/page=dispatch/id=800069][color=red][b]MAP[/b][/color][/url] |
+[hr][hr]| [url=https://www.nationstates.net/region=capital_republic_role_play][b][color=red]ROLE PLAY[/b][/color][/url] | [url=https://www.nationstates.net/page=dispatch/id=811260][b][color=blue]CONSTITUTION[/b][/color][/url] | [url=https://www.nationstates.net/page=dispatch/id=800069][color=red][b]MAP[/b][/color][/url] |
 [hr][hr]
 
 Current Endorsement Cap: [i][b][u]1[/I][/b][/u]
@@ -26,3 +26,11 @@ Current Endorsement Cap: [i][b][u]1[/I][/b][/u]
 [color=purple]Grand Chancellor[/color]: [b][nation=short]BlackWood_Order[/nation][/b]
 [color=gold]Grand Duke[/color]: [b][nation=short]West_Collineasia[/nation][/b]
 [color=purple]Archduke[/color]: [b][nation=short]Marrum_Graecia[/nation][/b]
+
+[hr][hr][b]Political Party Majority:
+[color=BLUE]REF: [/color]40%
+[color=RED]REP: [/color]40%
+[color=DARKBLUE]SOC: [/color]0%
+[color=MAROON]LIB: [/color]0%
+[color=GREY]CEN: [/color]20%
+[color=GREEN]IND: [/color]0%[/b]

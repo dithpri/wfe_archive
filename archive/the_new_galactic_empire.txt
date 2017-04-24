@@ -1,17 +1,14 @@
-[b][u]Monarchy[/u][/b] 
-[b]Emperor[/b]:[nation=short]Gray Army[/nation][hr]
-[b][u]Imperial Council[/u] 
-Grand Moff:[nation=short]Mutesetsa[/nation]
-Moff of External Affairs:[nation=short]Goyanean_Andrenne[/nation]
-Moff of Internal Affairs:[nation=short]The Arkanis Sector[/nation]
-Moff of the Courts: [nation=short]confederate_states_of_austria[/nation][/b] [hr]
+[color=lightgray][b][u]Monarchy[/u][/b]
+[b]Emperor[/b]:Gray Army[hr]
+[b][u]Imperial Council[/u]
+Grand Moff:Mutesetsa
+Moff of External Affairs:Goyanean_Andrenne
+Moff of Internal Affairs:The Arkanis Sector
+Moff of the Courts: confederate_states_of_austria[/b] [hr]
 
-[color=red][b][i]ALL[/i] WA members are required to endorse [nation=short]Gray Army[/nation][/b]
-[b]All those in the WA may have up to [i]2[/i] endorsements ONLY[/b] [/color]
-
-[url=http://s15.zetaboards.com/TNGE/index/]TNGE Forum[/url]
-
-[url=https://discord.gg/aggDbyh]TNGE Discord[/url]
+[b][i]ALL[/i] WA members are required to endorse Gray Army[/b]
+[b]All those in the WA may have up to [i]2[/i] endorsements ONLY[/b] 
+[/color]
 [hr]
 [b]Empire founded by Imperial Patriarch[/b] [nation=short]Palpatine1986 Reborn[/nation] and [b]First Citizen[/b] [nation=short]Darth Radix II[/nation] in March 2010
-
+This region has been laid to rest by Emperor Scott, by request of Darth Radix. The New region shall be [region]The Galactic Order[/region]

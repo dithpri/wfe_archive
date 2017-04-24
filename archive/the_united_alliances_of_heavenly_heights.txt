@@ -1,7 +1,6 @@
-Welcome to the Alliance!
+[b]This region has been annihilated by the elite forces of [region]The Invaders[/region]!
 
- Have an issue about Issues? Just contact someone!
- Flailing over a failing Economy? Don&#39;t be shy!
- We are new too, so don&#39;t feel bad...
- We are all here to protect each other (Other regions are slightly mad...)
-
+Troops:[color=#9B0C00]
+General: [nation=short]Gest II[/nation] (trigger)
+Lieutenant Colonel: [nation=short]Tombouctu[/nation]
+Corporal: [nation=short]Liberate[/nation][/color][/b]

@@ -1,1 +1,11 @@
-Puppet storage for all nations under control of the player controlling [nation]Khingan[/nation].
+[b]THE KHINGALESE REALM &middot; &amp;#20852;&amp;#23433;&amp;#30340;&amp;#22659;&amp;#30028; &middot; &amp;#1061;&amp;#1103;&amp;#1085;&amp;#1075;&amp;#1072;&amp;#1085; &amp;#1053;&amp;#1086;&amp;#1105;&amp;#1088;&amp;#1093;&amp;#1086;&amp;#1083;&amp;#1076;[/b][hr]
+
+Puppet storage for all nations under control of the player controlling [nation]Khingan[/nation].[hr]
+
+([i][b]Key[/b]: Nation &#151; Based on[/i])
+
+[nation=short]Rhein-Erft[/nation] &#151; own personal political ideology
+[nation=short]Negeri_Pulau_Pinang[/nation] &#151; Islamic politics
+[nation=short]Al Etihad[/nation] &#151; Socialist politics
+[nation=short]Vintersborg[/nation] &#151; Absolute monarchy
+[nation=short]Mediaterra[/nation] &#151; Liberal politics

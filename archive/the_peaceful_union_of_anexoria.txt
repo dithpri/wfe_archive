@@ -1,10 +1,6 @@
-Wolfburger- 9.99
-Glitter Soufflet- 8.99
-Fox Soup- 7.99
+[b]This region has been annihilated by the elite forces of [region]The Invaders[/region]!
 
-These are today&#39;s specials at the Mafia cafe. Would you like a shot of espresso to start you off?
-
-[b]TEAM ESPRESSO[/b]
-[b][nation]New Syl[/nation], Sergente/Legionnaire,  [region]The Mafia[/region]/ [region]Arda en Estel[/region] 
-[nation]Imperial Legion 1[/nation]/ General/[region]Arda en Estel[/region] 
-[nation]St Chron[/nation], Marine, [region]The Universal Allegiance[/region] [/b]
+Troops:[color=#9B0C00]
+General: [nation=short]Gest II[/nation] (trigger)
+Lieutenant Colonel: [nation=short]Tombouctu[/nation]
+Corporal: [nation=short]Liberate[/nation][/color][/b]

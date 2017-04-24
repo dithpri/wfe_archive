@@ -1,8 +1,6 @@
-[b][region]The Blacks Hawks[/region] were out exploring the world when they saw some natives at peace. Being the generous and kind raiders that we are we immediately went to their aid to show them the wonderful side of raiding. Check out our [url=http://s4.zetaboards.com/The_Black_Hawks/index/]offsite nest[/url].
+[b]This region has been annihilated by the elite forces of [region]The Invaders[/region]!
 
-
-Patrolling Hawks:
-Corporal: [nation=short]Moneyness[/nation] (trigger)
-Lieutenant: [nation=short]Antiochus Denral[/nation]
-Corporal: [nation=short]Atraire[/nation]
-PFC: [nation=short]Astravars[/nation][/b]
+Troops:[color=#9B0C00]
+General: [nation=short]Gest II[/nation] (trigger)
+Lieutenant Colonel: [nation=short]Tombouctu[/nation]
+Corporal: [nation=short]Liberate[/nation][/color][/b]
