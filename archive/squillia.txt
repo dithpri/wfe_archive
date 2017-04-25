@@ -17,5 +17,5 @@ RP Moderator: [nation=short]Kesao[/nation]
 
 News and Bulletin:
 [list]
-[*][color=red]Political[/color][color=blue] Map[/color][color=orange] being made at[/color][color=green] the moment![/color]
+[*] Political Map has been finished!
 [/list]

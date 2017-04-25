@@ -1,3 +1,5 @@
-[hr][list][color=006000][b]Libertaria[/b][/color][/list][hr][list][color=008030]- Puppet Storage Region
-- This is a [region=United States of America] region. 
-- Caretaker: [nation=short]New Falham[/nation][/list][/color][hr]
+[b]Libertaria[/b]
+a [region=0000] region
+
+Puppet Storage Region
+Embassy offers accepted

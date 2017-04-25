@@ -2,10 +2,12 @@
 
 Puppet storage for all nations under control of the player controlling [nation]Khingan[/nation].[hr]
 
-([i][b]Key[/b]: Nation &#151; Based on[/i])
+([i][b]Key[/b]: Nation &#151; Politics &#150; Location[/i])
 
-[nation=short]Rhein-Erft[/nation] &#151; own personal political ideology
-[nation=short]Negeri_Pulau_Pinang[/nation] &#151; Islamic politics
-[nation=short]Al Etihad[/nation] &#151; Socialist politics
-[nation=short]Vintersborg[/nation] &#151; Absolute monarchy
-[nation=short]Mediaterra[/nation] &#151; Liberal politics
+[nation=short]Al Etihad[/nation] &#151; Socialism &#150; Western Sahara
+[nation=short]Khingan[/nation] &#151; Libertarian &#150; Central Asia
+[nation=short]Mediaterra[/nation] &#151; Liberal &#150; Mediterranean
+[nation=short]Negeri_Pulau_Pinang[/nation] &#151; Sharia &#150; Western Malaysia
+[nation=short]Rhein-Erft[/nation] &#151; Personal &#150; North Rhine-Westphalia
+[nation=short]The_Offshore[/nation] &#151; Benevolent dictatorship &#150; Cape Verdean Islands
+[nation=short]Vintersborg[/nation] &#151; Monarchy &#150; Svalbard

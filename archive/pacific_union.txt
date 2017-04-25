@@ -1,1 +1,3 @@
-[color=006000][b]Pacific Union[/b][hr][hr]This region is now accepting embassy offers[/color]
+[b]Pacific Union[/b]
+a [region=0000] region
+This region is now accepting embassy offers

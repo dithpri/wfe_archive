@@ -1,7 +1,12 @@
-[hr][hr][list][list][color=navy][b]Commonwealth States[/b][/color][/list][/list][hr][hr][list][color=006633][i]A voluntary association of 53 independent and sovereign states
-Most are former British Colonies or dependencies thereof.
-No member has power over any other member.[/i][/color][/list][hr][hr][list][color=SaddleBrown][b]REGION:[/b][list]Founded: 2016 August 26th (by [nation=short]English King[/nation])
-Featured Region: 2017 April 4th
-a [region=0000] region[/list]
+[b]Commonwealth States[/b]
+a [region=0000] region
 
-[b]Embassy Offers are Welcome[/b][/color][/list][hr][hr]
+[list][color=006633][i]A voluntary association of 53 independent and sovereign states
+Most are former British Colonies or dependencies thereof.
+No member has power over any other member.[/i][/color]
+
+[color=SaddleBrown][b]REGION:[/b]
+Founded: 2016 August 26th (by [nation=short]English King[/nation])
+Featured Region: 2017 April 4th
+[/color][color=maroon]
+[b]Embassy Offers are Welcome[/b][/color]

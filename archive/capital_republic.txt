@@ -1,36 +1,29 @@
-     [color=blue][b]Greetings[/b][/color] and [color=red][b]Welcome[/b][/color] to [b][color=blue]T[/color]he [color=red]C[/color]apital [color=Blue]R[/color]epublic[/b]
+     [color=blue][b]Greetings[/b][/color] and [color=red][b]Welcome[/b][/color] to [b][color=blue]T[/color]he [color=red]C[/color]apital [color=Blue]R[/color]epublic[/b][hr][hr]
 
-[color=red]Current Events:[/color] Regional Set-up
-[hr][hr]| [url=https://www.nationstates.net/region=capital_republic_role_play][b][color=red]ROLE PLAY[/b][/color][/url] | [url=https://www.nationstates.net/page=dispatch/id=811260][b][color=blue]CONSTITUTION[/b][/color][/url] | [url=https://www.nationstates.net/page=dispatch/id=800069][color=red][b]MAP[/b][/color][/url] |
+| [url=https://www.nationstates.net/region=capital_republic_role_play][b][color=red]ROLE PLAY[/b][/color][/url] | [url=https://www.nationstates.net/page=dispatch/id=811260][b][color=blue]CONSTITUTION[/b][/color][/url] | [url=https://www.nationstates.net/page=dispatch/id=800069][color=red][b]MAP[/b][/color][/url] |
 [hr][hr]
 
 Current Endorsement Cap: [i][b][u]1[/I][/b][/u]
-[b]All WA Nations MUST endorse [nation=short]West_Collineasia[/nation][/b]
-[hr][hr]     [b] [color=Red]|[/color][color=blue]|[/color][color=red]ELECTORAL COUNCIL[/color][color=blue]|[/color][color=Red]|[/color][/b]
+[b]All WA Nations MUST endorse [nation=short]West_Collineasia[/nation][/b][hr][hr]
 
-[color=red]Premier[/color]: [b]VACANT[/b]
-[url=https://www.nationstates.net/page=dispatch/id=789627][color=blue]Councillor of Security[/url][/color]: [b]VACANT[/b]
-[color=red]Councillor of External Affairs[/color]: [b]VACANT[/b]
-[color=blue]Attorney Councillor[/color]: [b]VACANT[/b]
-[color=red]Councillor of Court[/color]: [b][nation=short]Bobbiland[/nation] [color=red](REP)[/color][/b]
+[color=Grey][b]NEWS:[/b]
 
-[hr][hr][b][Color=Blue]|[/color][color=red]|[/color][color=blue]REGIONAL OFFICERS[/color][color=Red]|[/color][color=Blue]|[/color][/b]
+&#149; Regional Ministers, Court, and Senate are being established
 
-[color=Blue]Foreign Relations Officer[/color]: [b]VACANT[/b]
-[color=Red]Communications Officer[/color]: [b]VACANT[/b]
-[color=Blue]Border Control Officer[/color]: [b]VACANT[/b]
-[color=Red]Research Officer[/color]: [b]VACANT[/b]
+&#149; All Regional Embassies that have no purpose or reasoning will be destroyed
 
-[hr][hr][b][color=purple]|[/color][color=gold]|[/color][color=purple]HOUSE OF ROYALTY[/color][color=gold]|[/color][color=purple]|[/color][/b]
+&#149; The Minister of Border Control Election will start in 3 days[/color][hr][hr]
 
-[color=purple]Grand Chancellor[/color]: [b][nation=short]BlackWood_Order[/nation][/b]
-[color=gold]Grand Duke[/color]: [b][nation=short]West_Collineasia[/nation][/b]
-[color=purple]Archduke[/color]: [b][nation=short]Marrum_Graecia[/nation][/b]
+[b][Color=Blue]|[/color][color=red]|[/color][color=blue]REGIONAL OFFICERS[/color][color=Red]|[/color][color=Blue]|[/color][/b]
 
-[hr][hr][b]Political Party Majority:
-[color=BLUE]REF: [/color]40%
-[color=RED]REP: [/color]40%
-[color=DARKBLUE]SOC: [/color]0%
-[color=MAROON]LIB: [/color]0%
-[color=GREY]CEN: [/color]20%
-[color=GREEN]IND: [/color]0%[/b]
+[color=Red]Prime Minister[/color]: [b]VACANT[/b]
+[color=Blue]Minister of Foreign Relations[/color]: [b]VACANT[/b]
+[color=Red]Minister of Communications[/color]: [b]VACANT[/b]
+[color=Blue]Minister of Border Control[/color]: [b]VACANT[/b]
+[color=Red]Minister of Research[/color]: [b]VACANT[/b][hr][hr]
+
+[b][color=purple]|[/color][color=gold]|[/color][color=purple]HOUSE OF ROYALTY[/color][color=gold]|[/color][color=purple]|[/color][/b]
+
+[color=Gold]Grand Chancellor / Founder[/color]: [b][nation=short]BlackWood_Order[/nation][/b]
+[color=Purple]Grand Duke / WA Delegate[/color]: [b][nation=short]West_Collineasia[/nation][/b]
+[color=Gold]Archduke / Vice-Delegate[/color]: [b][nation=short]Marrum_Graecia[/nation][/b][hr][hr]

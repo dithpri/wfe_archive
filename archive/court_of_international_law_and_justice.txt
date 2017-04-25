@@ -11,7 +11,7 @@
 [hr]
 
 [b][u]Board of the CILJ[/u][/b] - 
-[nation]Ecclestia[/nation] - [region]The Christadelphians[/region]
+Chairman - [nation]Ecclestia[/nation] - [region]The Christadelphians[/region]
 [nation]BearNation[/nation] - [region]Gay[/region]
 [nation]United Christian[/nation] - [region]New World Union[/region]
 [nation]The Rouge Christmas State[/nation] - [region]Right to Life[/region]
@@ -21,3 +21,5 @@
 
 [b][u][color=red]News[/color][/b][/u]
 20th April - Preliminary Judicial Appointments Announced
+24th April - [nation]Baishita[/nation] Appointed Chief Registrar
+26th April - Now accepting Membership applications.
