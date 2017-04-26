@@ -1,7 +1,9 @@
 A region consisting of highly varied governments under names which reference Aztec/Mayan mythology. The nations and their policies are as follows:
 
-[nation]Ilhuicatl-Teteocan[/nation] - An (eventually) totally controlled dictatorship with high levels of spirituality; essentially a theocracy. They only thing more notorious than their compulsory, highly religious military service is the strong stance against heretics.
+[nation]Ilhuicatl-Teteocan[/nation] - A theocratic dictatorship, hates heretics more than the citizens hate the compulsory military service.
 
-[nation]Ilhuicatl-Teoiztac[/nation] - A flawlessly run nation which provides some of the highest economic freedoms in general. A pit full of hedonism and indulgence, which is being sought to be quickly ended. 
+[nation]Ilhuicatl-Teoiztac[/nation] - A small government with huge amounts of economic freedom.
 
-[nation]Ilhuicatl-Xoxoauhco[/nation] - A republic; actually functions.
+[nation]Ilhuicatl-Xoxoauhco[/nation] - Small government, actually representative of my ideology.
+
+[nation]Chiconahualoyan[/nation] - Literally hell.

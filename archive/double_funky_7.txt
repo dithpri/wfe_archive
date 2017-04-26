@@ -1,9 +1,14 @@
-[hr][list][color=004525][b]Double Funky 7[/b][/list][hr][list]The FIRST Official Region
-A [region=0000] region
-Associated with [region=Ancient Lands]/[region=United States of America]/et al
+[color=004080][b]Double Funky 7[/b]
+this is a [region=0000]/[region=Ancient Lands]/[region=United States of America] region
+
+[b]Oracle Alpha Region[/b]
+Goal of this version of the Oracle Game is to create an embassy chain or path connecting as many regions as possible, with no embassies that can short circuit this chain. [region=United States of America] and [region=Ancient Lands] are represented in the middle of the chain, are both part of my embassy matrix.
 
 [url=http://nsdossier.texasregion.net/nsdossier/embassyOracle.aspx]Oracle Game[/url]
 
-Goal of this version of the Oracle Game is to create an embassy chain connecting as many regions as possible, with no short circuits caused by having embassies with other regions.
+[b]Latest NSEmbassy Oracle Report:[/b] #010362
+The shortest path between [region=Double Funky 7] (* the first region in the game) and [region=Country of God] (* the last region in the game) has [b]1,097[/b] degrees of separation
+(* based upon the order of update)
+Thanks [region=Texas] for providing this game.[/color]
 
-[region=Double Funky 7] has [b]1,094[/b] degrees of separation to [region=Country of God] (The LAST Official Region)[/color][/list][hr][list][color=red][b]This region does not accept any embassy offers.[/b][/color][/list][hr]
+[color=red][b]Sorry, this region does not accept embassy offers.[/b][/color]

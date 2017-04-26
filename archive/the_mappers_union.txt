@@ -1,7 +1,2 @@
-[b]This region has been annihilated by the elite forces of [region]The Invaders[/region]!
+[color=#01DFD7][b]Invader scum will be shot on sight![/b][/color]
 
-Troops:[color=#9B0C00]
-General: [nation=short]Gest II[/nation] (trigger)
-Lieutenant Colonel: [nation=short]Tombouctu[/nation]
-Lieutenant Colonel: [nation=short]Saint Block[/nation]
-Corporal: [nation=short]Liberate[/nation][/color][/b]
