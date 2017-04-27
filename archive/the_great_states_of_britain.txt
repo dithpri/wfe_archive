@@ -14,7 +14,7 @@ Chancellor: [nation]Rat der kuhlen Kinder[/nation]
 
 Secretary of Diplomacy: [nation]Kapcan[/nation]
 
-Vice-Delegate: [nation]Ristoska[/nation]
+Seceratry of Recruitment: [nation]Ristoska[/nation]
 
 Secretary of Defence: [nation]Evolon[/nation]
 

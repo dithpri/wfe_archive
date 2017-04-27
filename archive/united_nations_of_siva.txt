@@ -1,9 +1,14 @@
 #SquadGoals
 
 [b][u][color=blue]Region Officials:[/color][/u][/b]
-[b]Prime Minister: [nation]Brandonland[/nation][/b]
-[b]Deputy Prime Minister: [nation]republic of South east asia[/nation][/b]
+[b]Chancellor: [nation]Brandonland[/nation][/b]
+[b]Secretary: [nation]republic of South east asia[/nation][/b]
 
 [b][u][color=blue]Parties:[/color][/u][/b]
 [b][color=black]Nationalist Party[/color][/b][url=https://www.nationstates.net/page=dispatch/id=812652](i)[/url]
-[b][color=orange]Centrist Party[/b][/color]
+[b][color=orange]Centrist Party[/b][/color][url=https://www.nationstates.net/page=dispatch/id=812668](i)[/url]
+
+[b][u][color=blue]Electorates:[/color][/u][/b]
+[b][nation]Star Death[/nation][/b]
+[b][nation]Crislavia[/nation][/b]
+[b][nation]The Peoples Work[/nation][/b]
