@@ -1,5 +1,5 @@
-[color=#DF7401][i]Welcome to Pluviostan, a region created by [nation]Larsland[/nation]
-[b]Viribus Unitis[/i][/b][/color]
+[color=Blue][i]Welcome to Pluviostan, a region created by [nation]Larsland[/nation]
+[b]Viribus Unitis[/i][/b][/color][Color=#ADD8E6]
 [hr][b][url=https://www.nationstates.net/nation=kingdom_of_union/detail=factbook/id=777519][i]Government[/i][/url]
 [i]News: Election for Ministers Complete![/i]
 
@@ -20,6 +20,7 @@
 
 [URL=https://gmtes.com/pluviostan/attachment.php?aid=291]FP Map[/URL]
 [I]News: Come claim some space in our Future Pluviostan Map![/I][/b]
+[/Color] 
 
-[hr][color=#DF7401][b]Quote of the Week:[/b][/color]
+[hr][color=Blue][b]Quote of the Week:[/b][/color]
 [color=green][quote=parlmone;24229726]I will organize a flag contest[/quote][/color]
