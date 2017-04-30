@@ -1,20 +1,23 @@
-[b]Welcome to the Beurndocht Foundation! The region was created by four students so they could assist each other when needed.[/b]
+[b]Welcome to the [u]Beurndocht Foundation[/u]![/b]
+A region founded on the ideals of democracy, equality, and political freedom!
+
+For information about the region, please refer to the [url=https://www.nationstates.net/page=dispatch/id=788164]Master Dispatch[/url].
 
 [hr]
 
-[b]Have a seat at the World Assembly and endorse our WA Delegate, [nation=short+noflag]Breezelandia[/nation]!
+See the [url=https://www.nationstates.net/nation=breezelandia/detail=factbook/id=814851]Regional Legislation[/url] for the month of May.
+
+[hr]
+
+Take a seat at the [url=https://www.nationstates.net/page=un]World Assembly[/url] and endorse our Delegate, [nation=short]Breezelandia[/nation].
 [url=https://www.nationstates.net/page=ga]General Assembly[/url]
-[url=https://www.nationstates.net/page=sc]Security Council[/url][/b]
+[url=https://www.nationstates.net/page=sc]Security Council[/url]
 
 [hr]
 
-[b]See the [url=https://www.nationstates.net/page=dispatch/id=798021]Resolutions[/url] for the month of April.[/b]
-
-[hr]
-
-[spoiler=DEFCON Level]
+[spoiler=DEFCON Level: 5]
 [b][color=red][1] ENGAGED IN WAR[/color][/b]
 [b][color=orange][2] TOTAL MOBILIZATION[/color][/b]
 [b][color=yellow][3] PARTIAL MOBILZATION[/color][/b]
 [b][color=green][4] HEIGHTEND READINESS[/color][/b]
-[b][color=blue][5] PEACETIME READINESS[/color] &amp;lt;-- CURRENT LEVEL.[/b][/spoiler]
+[b][color=blue][5] PEACETIME READINESS[/color] &amp;#129104; CURRENT LEVEL[/b][/spoiler]

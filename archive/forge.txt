@@ -6,24 +6,29 @@ Welcome to [color=#374DCB][b]FORGE[/b][/color], or [u]F[/u]ederation of [u]O[/u]
 
 [hr]
 
-[b]Chancellor Election: Current Votes (20:00 UTC)[/b]
+[b]Chancellor Election: Current Votes (21:00 UTC)[/b]
 [list]
-[nation=short]Baishita[/nation]: 5 votes
+[nation=short]Baishita[/nation]: 7 votes
 [nation=short]Yodle[/nation]: 2 votes
-[nation=short]Riost[/nation], [nation=short]Fresh_Prince_of_Bel-Air[/nation] and [nation=short]Adossi[/nation]: 1 vote
+[nation=short]Riost[/nation]: 1 vote
+[nation=short]Fresh_Prince_of_Bel-Air[/nation]: 1 vote
+[nation=short]Adossi[/nation]: 1 vote
 [/list]
 
-[b]Chancellor Election: Popular Vote (20:00 UTC)[/b]
+[b]Chancellor Election: Popular Vote (21:00 UTC)[/b]
 [list]
-[nation=short]Yodle[/nation]: 9 votes
-[nation=short]Baishita[/nation]: 9 votes
+[nation=short]Yodle[/nation]: 15 votes
+[nation=short]Baishita[/nation]: 11 votes
+[nation=short]Riost[/nation]: 4 votes
+[nation=short]Zaila[/nation]: 3 votes
 [nation=short]Fresh_Prince_of_Bel-Air[/nation]: 2 votes
-[nation=short]Zaila[/nation]: 2 votes
-[nation=short]Riost[/nation], [nation=short]Saturnae[/nation], [nation=short]Orchestralia[/nation], [nation=short]Upper_Colnaman_Came[/nation] and [nation=short]The_free_land_of_the_southern_border[/nation]: 1 vote
+[nation=short]the free land of the southern border[/nation]: 2 votes
 [/list]
 
-Candidates which are not mentioned have 0 votes.
+Candidates which are not mentioned have less than 2 votes.
 
 [hr]
+
+[b]Region of the week: [region=Imperial Fatherland][/b]
 
 [b]You can find our member regions [url=https://www.nationstates.net/page=dispatch/id=676750]here[/url].[/b]

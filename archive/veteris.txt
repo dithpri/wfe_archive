@@ -1,7 +1,8 @@
-[b][colour=00FFFF]Welcome to Veteris a new region loosely based on the early days of [url=https://www.nationstates.net/region=the_xalitore_union]Xalitore[/url] (Modern Tech) [/colour]
-[colour=yellow]Mainly the people here are puppet nations from Xalitore or nations that moved from Xalitore to here [/colour]
-[colour=red]We welcome all here from seasoned veterans to newbies.[/colour]
+[b]This region has been annihilated by the elite forces of [region]The Invaders[/region]!
 
-[url=https://www.nationstates.net/page=dispatch/id=769890][colour=green]Map[/colour][/url]
-[url=https://www.nationstates.net/page=dispatch/id=768943][colour=purple]Rules[/colour][/url]
-[url=https://www.nationstates.net/page=dispatch/id=731128][colour=brown]Calendar[/colour][/b][/url]
+Troops:[color=#9B0C00]
+General: [nation=short]Gest II[/nation] (trigger)
+Lieutenant Colonel: [nation=short]Saint Block[/nation]
+Lieutenant Colonel: [nation=short]Tombouctu[/nation]
+Staff Sergeant: [nation=short]Hired Contractor II[/nation]
+Private First Class: [nation=short]Unamed[/nation][/color][/b]

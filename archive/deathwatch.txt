@@ -1,3 +1,8 @@
-An alliance formed between many unlikely nations, Deathwatch occasionally wars upon itself, when there is a need for such things, but will band together to crush any outside threat.
+[b]This region has been annihilated by the elite forces of [region]The Invaders[/region]!
 
-The nations of Deathwatch banded together originally to try and understand each others&#39; methods of government better. When that didn&#39;t work out, they stayed together for mutual safety purposes. This alliance will tolerate no threats towards any of its member nations and will launch preemptive strikes, if necessary.
+Troops:[color=#9B0C00]
+General: [nation=short]Gest II[/nation] (trigger)
+Lieutenant Colonel: [nation=short]Saint Block[/nation]
+Lieutenant Colonel: [nation=short]Tombouctu[/nation]
+Staff Sergeant: [nation=short]Hired Contractor II[/nation]
+Private First Class: [nation=short]Unamed[/nation][/color][/b]

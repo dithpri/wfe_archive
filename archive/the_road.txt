@@ -1,8 +1,1 @@
-[b]This region has been annihilated by the elite forces of [region]The Invaders[/region]!
-
-Troops:
-[color=red]General[/color] [nation=short]Gest II[/nation] (trigger)
-[color=red]Lieutenant Colonel[/color] [nation=short]Tombouctu[/nation]
-[color=red]Lieutenant Colonel[/color] [nation=short]Varax Zwei[/nation]
-[color=red]Staff Sergeant[/color] [nation=short]Hired Contractor II[/nation] 
-[color=red]Corporal[/color] [nation=short]Liberate[/nation] [/b]
+The Road has been closed for repairs
