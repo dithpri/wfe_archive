@@ -1,9 +1,7 @@
-[b]This major, [region]The Black Hawks[/region] swooped down and destroyed your dainty little region! How tragic.
+[b]This region has been annihilated by the [i][u]DREAM TEAM[/i][/u] of [region]The Invaders[/region]!
 
-Swooping Hawks:
-Corporal [nation=short]Pz4[/nation] (Trigger)
-Sergeant [nation=short]Greyed[/nation]
-Corporal [nation=short]Moneyness[/nation]
-Corporal [nation=short]Atraire[/nation]
-
-Huzzcaw![/b]
+Troops:[color=#9B0C00]
+General: [nation=short]Gest II[/nation] (trigger)
+Lieutenant Colonel: [nation=short]Saint Block[/nation]
+Lieutenant Colonel: [nation=short]Tombouctu[/nation]
+Staff Sergeant: [nation=short]Hired Contractor II[/nation][/b][/color]

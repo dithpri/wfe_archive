@@ -1,6 +1,7 @@
-[color=purple]Welcome to The Division[/color]
+[b]This region has been annihilated by the [i][u]DREAM TEAM[/i][/u] of [region]The Invaders[/region]!
 
-Join Us and Be In The Division
-
-[color=purple]We Are The Division[/color]
-
+Troops:[color=#9B0C00]
+General: [nation=short]Gest II[/nation] (trigger)
+Lieutenant Colonel: [nation=short]Saint Block[/nation]
+Lieutenant Colonel: [nation=short]Tombouctu[/nation]
+Staff Sergeant: [nation=short]Hired Contractor II[/nation][/b][/color]
