@@ -1,1 +1,4 @@
-Male
+[b]Male[/b]
+a [region=0000] region
+
+Capital City of [region=Maldives]
