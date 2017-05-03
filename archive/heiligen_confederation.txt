@@ -1,8 +1,4 @@
-[color=darkred][b]This region is now a PROVINCE of the [region]Union of Confederate Regions[/region]. Bow to the Conventium.
-
-Operation leader: [nation=short]Congoville[/nation]
-
-Before its integration, the region used the following WFE:[/color][/b]
+Remember to always get NS++!
 [hr]
 [url=http://i.imgur.com/JYlYfku.png]Map of regions to choose from[/url]. 
 
@@ -15,7 +11,13 @@ People from the original region who [i]did not[/i] opt into risk can choose 3 re
 
 New people can choose two regions their first turn. 
 
-[i]Choose on the RBM[/i]
-[hr]
+[B]Order of choosing:[/B]
+[list][*][nation=shortnoflag]Willie[/nation]
+[*][nation=shortnoflag]Nordenfaust[/nation]
+[*][nation=shortnoflag]Allababastan[/nation]
+[*][nation=shortnoflag]Swaggernia[/nation]
+[*][nation=shortnoflag]Dicton[/nation]
+[*][nation=shortnoflag]Starchizeordia[/nation]
+[/list]
 
-[color=darkred][b]Move to the metropole, the [region]Union of Confederate Regions[/region], and join the [url=https://discord.gg/WWRBdgT]Conventian Discord Channel[/url]![/b][/color]
+[i]Choose on the RBM[/i]

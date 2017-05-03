@@ -1,10 +1,10 @@
 [color=004080][b]Double Funky 7[/b]
 this is a [region=0000]/[region=Ancient Lands]/[region=United States of America] region
 
-[b]Oracle Alpha Region[/b]
+[b]Oracle Alpha Region[/b][list]
 Goal of this version of the Oracle Game is to create an embassy chain or path connecting as many regions as possible, with no embassies that can short circuit this chain. [region=United States of America] and [region=Ancient Lands] are represented in the middle of the chain, are both part of my embassy matrix.
 
-[list][url=http://nsdossier.texasregion.net//embassyOracle.aspx]Oracle Game[/url]
+[url=http://nsdossier.texasregion.net//embassyOracle.aspx]Oracle Game[/url]
 
 [b]Latest NSEmbassy Oracle Report:[/b] #010391 (2017 May 1st)
 The shortest path between:
