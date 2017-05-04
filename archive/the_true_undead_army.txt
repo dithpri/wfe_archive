@@ -2,10 +2,10 @@
 [hr][color=red][b][i]NOTHING IS BEYOND OUR REACH![/i][/b][/color]
 [hr][color=green][b]This region has been succesfully invaded thanks to:[/b][/color]
 
-[nation]Fauxia[/nation] (Sergeant)
-[nation]Timwopo[/nation] (Sergeant)
-[nation=short]The United Philippine Empire[/nation] (Commander-in-Chief)
+[b]Captain/General of the Army[/b] [nation=short]The United Philippine Empire[/nation] 
+[b]First Lieutenant[/b] [nation=short]Fauxia[/nation] 
+[b]Second Lieutenant[/b] [nation=short]Timwopo[/nation] 
 
 [color=brown][b][i]We salute you on your victory![/i][/b][/color]
 [hr][color=Dandelion][b]Raided on 4/29/17 - 1:30 AM (EST)[/b][/color]
-[color=scarlet]All new nations must endorse the Delegate or face ejection![/color]
+[hr][color=scarlet]All new nations must endorse the Delegate or face ejection![/color]

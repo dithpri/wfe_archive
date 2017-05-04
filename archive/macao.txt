@@ -1,1 +1,4 @@
-[u][b][color= Green]Colonized by the Portuguese in 1557, Macao was the oldest European outpost in China. In 1987, Portugal and China reached an agreement to return Macao to Chinese rule on Dec. 20, 1999. They agreed on provisions that ensured the autonomy of Macao, including its right to elect local leaders, the right of its residents to travel freely, and the right to maintain its way of life for 50 years after the start of Chinese rule.[/u][/b][/color]
+[b]Macao[/b]
+a [region=0000] region
+
+Alternate spelling of [region=Macau]
