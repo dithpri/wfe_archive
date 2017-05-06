@@ -1,3 +1,7 @@
-[b]Southern Africa[/b] is the southernmost region of the African continent, variably defined by geography or geopolitics.
+[b]This region has been annihilated by the [i][u]elite forces[/i][/u] of [region]The Invaders[/region]!
 
-The region is distinct from the rest of [b]Africa[/b], with some of its main exports including platinum, diamonds, gold, and uranium. While colonialism has left its mark on the development over the course of history, today poverty, corruption, and HIV/AIDS are some of the biggest factors impeding economic growth. The pursuit of economic and political stability is an important part of the region&amp;#39;s goals. 
+Troops:[color=#9B0C00]
+General: [nation=short]Gest II[/nation] (trigger)
+Lieutenant Colonel: [nation=short]Tombouctu[/nation]
+Staff Sergeant: [nation=short]Hired Contractor II[/nation]
+PFC: [nation=short]Unamed[/nation][/b][/color]

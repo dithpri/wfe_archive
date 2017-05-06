@@ -1,10 +1,7 @@
-[b]Vanquished by the inexorable forces of The Black Hawks!
+[b]This region has been annihilated by the [i][u]elite forces[/i][/u] of [region]The Invaders[/region]!
 
-[i]Yes, we have cookies. No, you cannot have any.[/i]
-
-Hawks Involved:
-Corporal [nation]Vapid Vasentius[/nation]
-Sergeant [nation]Tom[/nation]
-Sergeant [nation]Yuno hawk[/nation]
-PFC [nation]Bendicion[/nation]
-PFC [nation]Greytex[/nation][/b]
+Troops:[color=#9B0C00]
+General: [nation=short]Gest II[/nation] (trigger)
+Lieutenant Colonel: [nation=short]Tombouctu[/nation]
+Staff Sergeant: [nation=short]Hired Contractor II[/nation]
+PFC: [nation=short]Unamed[/nation][/b][/color]

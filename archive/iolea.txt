@@ -1,1 +1,7 @@
-Iolea is a diverse and beautiful world full of tyrannies and dictators, democracies and republics, communists and fascists. The world temperate one with a large abundance of natural resources.
+[b]This region has been annihilated by the elite forces of [region]The Invaders[/region]!
+
+Troops:[color=#9B0C00]
+General: [nation=short]Gest II[/nation] (trigger)
+Lieutenant Colonel: [nation=short]Tombouctu[/nation]
+Staff Sergeant: [nation=short]Hired Contractor II[/nation]
+PFC: [nation=short]Unamed[/nation][/b][/color]

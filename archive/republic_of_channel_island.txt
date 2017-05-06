@@ -11,7 +11,7 @@
 &amp;gt;&amp;gt;President: [nation=short]Joint Operational Force[/nation]
 &amp;gt;&amp;gt;Vice President:   [nation=short]Chewion[/nation]
 &amp;gt;&amp;gt;Secretary of State: [nation]Evesham Villa[/nation]
-&amp;gt;&amp;gt;Secretary of the Interior: VACANT
+&amp;gt;&amp;gt;Secretary of the Interior: [nation=short]TillyBurg[/nation]
 &amp;gt;&amp;gt;Secretary of Defense:[nation]Videca[/nation][/b][/color]
 [hr]
 [color=#00FF00][b]Order of the Day: [/b][/color]
