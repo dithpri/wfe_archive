@@ -1,3 +1,6 @@
-[color=navy][b]British North America[/b][/color]
+[b]British North America[/b]
+a [region=Great Britain and Northern Ireland] region
 
-[region=British] once held territories in North America, including [region=Newfoundland], [region=Rupertsland], [region=Prince Edward Island], [region=Nova Scotia] (included [region=New Brunswick]), [region=Canada] (included both [region=Quebec] and [region=Ontario]), the 13 original colonies of the [region=United States of America] (included [region=Connecticut], [region=Delaware], [region=Georgia], [region=Maryland], [region=Massachusetts], [region=New Hampshire], [region=New Jersey], [region=New York], [region=North Carolina], [region=Pennsylvania], [region=Rhode Island], [region=South Carolina], [region=Virginia]) and [region=Florida].
+Former territories of the British Empire in mainland North America
+Term created 1783, and used in Durham Report (1839)
+Much of this territory is present day Canada

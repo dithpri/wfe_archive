@@ -1,5 +1,7 @@
-Hello!
-In this region we use a real world map and allow you to place your nation wherever you like on the globe!
+It&#39;s a bird! It&#39;s a plane! No! ......It&#39;s a bird! It&#39;s [region]The Black Hawks[/region] swooping down on you tonight! Check out our offsite [url=http://s4.zetaboards.com/The_Black_Hawks/index/]nest[/url]
 
-Helpful Links:
-Map: http://imgur.com/a/jjqYj
+Hawks swooping tonight:
+trigger-Corporal [nation]Serboro[/nation]
+General [nation]Jakker[/nation]
+CPL [nation]Moneyness[/nation]
+PFC [nation]Astravars[/nation]

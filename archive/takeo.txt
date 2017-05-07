@@ -1,5 +1,7 @@
-La langue officielle de cette r&eacute;gion est le fran&ccedil;ais.
-The official language of the region is the French.
+[b]This region has been annihilated by the [i][u]DREAM TEAM[/i][/u] of [region]The Invaders[/region]!
 
-R&eacute;gion fond&eacute;e le 14/04/2017.
-Region founded the 14/04/2017.
+Troops:[color=#9B0C00]
+General: [nation=short]Gest II[/nation] (trigger)
+Colonel: [nation=short]Tombouctu[/nation]
+Colonel: [nation=short]Saint Block[/nation]
+Lieutenant: [nation=short]Hired Contractor II[/nation][/color][/b]
