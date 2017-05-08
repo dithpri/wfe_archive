@@ -13,7 +13,7 @@
 [hr]
 
 
-[Color=purple]Time=June 1980
+[Color=purple]Time=August 1980
 1 Day=1 Month RP time
 12 Days=1 Year RP time[/color]
 

@@ -1,3 +1,10 @@
 [b][color=blue]Welcome to[/color] [color=red]Fredericksborg[/color][/b]
 
 &#149; [b][url=https://www.nationstates.net/nation=constantinopa/detail=factbook/id=main]Constitution[/url][/b]
+
+[color=red][u]CABINET OF MINISTERS[/u]
+[/color]
+[b][color=blue]WA Delegate: [nation=short]Fredericksborg[/nation]
+Prime Minister: [nation=short]Constantinopa[/nation]
+Deputy Prime Minister: [nation=short]Shredome[/nation]
+Foreign Minister: [nation=short]Lippie[/nation][/color][/b]

@@ -1,7 +1,7 @@
 [b][u]IMPERIAL CHAIN OF COMMAND[/u]
 
 Invictus [nation=short]Most Eternal Angvaria[/nation]
-Chancellor (OPEN)
+Chancellor [nation=short]Infernia[/nation]
 Lord Commander [nation=short]Des Frevia[/nation]
 Executive Officer [nation=short]Hypno Chinese Toad Dictator Jiang Zemin[/nation]
 Foreign Minister [nation=short]Infernia[/nation][hr]

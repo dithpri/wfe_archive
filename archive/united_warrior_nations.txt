@@ -1,10 +1,7 @@
-Welcome to United Warrior Nations
-&quot;Warriors are not born
-and they are not made...
+[b]This region has been annihilated by the [i][u]DREAM TEAM[/i][/u] of [region]The Invaders[/region]!
 
-Warriors create themselves
-through trial and error
-pain and suffering
-and their ability to conquer
-their own faults...&quot;
-The Holy Empire of Brother of Christ
+Troops:[color=#9B0C00]
+General: [nation=short]Gest II[/nation] (trigger)
+Colonel: [nation=short]Tombouctu[/nation]
+Colonel: [nation=short]Saint Block[/nation]
+Lieutenant: [nation=short]Hired Contractor II[/nation][/color][/b]

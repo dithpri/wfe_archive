@@ -3,3 +3,4 @@
 To do: 
 -Make better, hand-drawn flag
 -Write a better WFE
+-Write a welcome telegram 
