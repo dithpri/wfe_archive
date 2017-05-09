@@ -8,3 +8,5 @@
 Prime Minister: [nation=short]Constantinopa[/nation]
 Deputy Prime Minister: [nation=short]Shredome[/nation]
 Foreign Minister: [nation=short]Lippie[/nation][/color][/b]
+
+All further positions will be determined via an election

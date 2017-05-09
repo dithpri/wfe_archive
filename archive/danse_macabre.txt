@@ -2,5 +2,6 @@ A: [nation=short]Arvieux[/nation], secular authoritarianism
 B: [nation=short]Belvezet[/nation], book publishing
 C: [nation=short]Cirauqui[/nation], capitalism above all
 D: [nation=short]Drangsturm[/nation], defense only
+E: [nation=short]Esquire[/nation], Singapore
 R: [nation=short]Requiescer[/nation], scientific advancement
 V: [nation=short]Valborne[/nation], conservatism

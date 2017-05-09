@@ -1,5 +1,6 @@
-[color=gold][b]&quot;Organized to combat the common enemy.&quot;[/b][/color][hr][u][color=blue]Command Center[/color][/u]
+: [b]This region has been annihilated by the [i][u]elite forces[/i][/u] of [region]The Invaders[/region]!
 
-[color=red]Founder:[/color] [nation=short]The Nationwide Treaty Organization[/nation] - An organization made of multiple nations that have dissolved to form into one organization.
-[color=red]Delegate:[/color] Coming soon.[hr][u][color=blue]Order of the Day[/color][/u]
-[b]Join the World Assembly and endorse our delegate at the bottom of their page. Telegram our delegate your support and your allegiance to NTO.[/b]
+Troops:[color=#9B0C00]
+Lieutenant: [nation=short]Hired Contractor II[/nation] (trigger)
+Colonel: [nation=short]Tombouctu[/nation]
+Private First Class: [nation=short]Cossakastal[/nation][/color][/b]
