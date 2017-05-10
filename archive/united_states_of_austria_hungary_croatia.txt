@@ -1,9 +1,18 @@
 [color=blue]United States of Austria-Hungary-Croatia[/color]
-A Austrofascist, neutral nation.
-
+Classification:
+United States, Austrofascist, neutral
+-----------------------------------------------------------
 Leader:
-Michael [color=red]Ha[/color][color=grey]bsbu[/color][color=red]rg[/color]
-
+Michael Habsburg
+-----------------------------------------------------------
+Capital:
+New Vienna
+-----------------------------------------------------------
+Parts:
+ - American Austria
+ - American Hungary
+ - American Croatia
+-----------------------------------------------------------
 We won&#39;t allow any state to join me and Embassies are also not possible.
 
 Indivisibiliter ac Inseparabiliter!

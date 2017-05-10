@@ -4,7 +4,7 @@ Chancellor: [nation=Alexiandra]
 Vice-Chancellor: [nation=Harrisopia]
 Foreign Secretary: [nation=Batlish Republic]
 Defence Secretary: [nation=Neo-Modig Ny Verden]
-Home Secretary: Vacant
+Home Secretary: [nation=Mandagra]
 Intelligence Chief: [nation=The Megarid]
 
 

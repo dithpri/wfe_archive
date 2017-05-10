@@ -26,12 +26,8 @@ Donors: [region]USSD[/region]
 [*][nation=short]Altison[/nation] ([b][color=#F75D59]Independent[/color][/b])
 [*][nation=short]Advocate[/nation] ([b][color=#F75D59]Independent[/color][/b])
 [*][nation=short]Usea III[/nation] ([b][color=#D68910]Populist[/color][/b])
-[/list]
-[hr]
-
-[b]News[/b]: [list][*]Hail [nation=short]Chronergstin[/nation], Exodite Arch Imperator![/list]
-[hr]
+[/list][hr]
 [i][b]Quote of the day[/b][/i]:
 
-&quot;We may have had a slow down in activity but it seems most of the people who were ever really active anyway are still here. Now let&#39;s do something.&quot;
-- [i]BrazC[/i]
+&quot;I think I have only one word of advice, and it hails from my days as a member of the RT, pass some sort of law that will allow you to impeach governmental officials- particularly those who don&#39;t do anything for the region.&quot;
+- [i]Jinckus[/i]
