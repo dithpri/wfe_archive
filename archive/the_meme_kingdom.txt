@@ -1,5 +1,5 @@
-[b]This region has been liberated from the forces of [region]The Invaders[/region]!
+This region has been liberated from the forces of [region]The Invaders[/region]!
 
 Owners:
-[color=red]Owner[/color] [nation=short]The Doge Lord[/nation]
-[color=red]Co-Owner[/color] [nation=short]Martian explorers[/nation]
+[color=Blue]Owner[/color] [nation=short]The Doge Lord[/nation]
+[color=blue]Co-Owner[/color] [nation=short]Martian explorers[/nation]
