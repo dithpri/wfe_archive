@@ -1,8 +1,13 @@
-[color=red][b]WELCOME TO KOVISHKARSHNOV[/b][/color]
-If you are new to this region, please fill out an application form to be a part of the simulation.
-[url=https://www.nationstates.net/page=dispatch/id=639805][b]Region Application Template Link[/b][/url]
-[url=http://www.nationstates.net/page=dispatch/id=637584][b][color=magenta]Guidelines link (please read)[/color][/b][/url]
-[url=http://www.nationstates.net/page=dispatch/id=635712][b][color=pink]World Map Link[/b][/color][/url]
-[url=http://www.nationstates.net/page=dispatch/id=638622][b][color=red]Military Costs Link[/color][/b][/url]
-[url=http://www.nationstates.net/page=dispatch/id=638709][b][color=orange]Nuclear Weapon Production Costs Link[/color][/b][/url]
+[color=orange][b][u]Welcome to Kovishkarshnov[/b][/u][/color]
+[color=red][b][u]Note, the simulation is not currently in progress.[/u][/b][/color]
+[color=Green][b]Current SM[/b][/color]: [nation]Ivankia[/nation]
+[color=green][b]Years passed in current simulation[/color][/b]: [b][color=red]0[/b][/color]
+[color=green][b]Surviving nations[/b][/color]: [b][color=red]N/A[/color][/b]
+[color=green][b]Wars in progress[/b][/color]: [b][color=red]0[/color][/b]
+[b][url=https://www.nationstates.net/page=dispatch/id=637584][color=magenta]Rules and Guidelines[/color][/url][/b]
+[b][url=https://www.nationstates.net/page=dispatch/id=635712][color=magenta]Territory Map[/color][/url][/b]
+[b][url=https://www.nationstates.net/page=dispatch/id=638622][color=crimson](general) Military Costs[/color][/url][/b]
+[b][url=https://www.nationstates.net/page=dispatch/id=638709][color=crimson](general) Nuclear Weapon Costs[/color][/b][/url]
+
+
 
