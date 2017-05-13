@@ -1,9 +1,15 @@
-Supreme Chancellor: [Nation]Neu Deutsches Empire[/nation]
+[color=DC143C]Supreme Chancellor:[/color] [Nation]Neu Deutsches Empire[/nation]
 
-Deputy Chancellor: N/A
+[color=ffffff]Deputy Chancellor:[/color] N/A
 
-World Assembly Delegate: N/A
+[color=191970]Minister of Delegates:[/color] N/A
 
-Minister of Defense: N/A
+[color=CFB53B]Minister of Defense:[/color] [nation]Isekaetemett[/nation][color=CFB53B]*[/color]
 
-Minister of Communication: N/A
+[color=228B22]Minister of Communication:[/color] [nation]Ueksenn[/nation][color=CFB53B]*[/color]
+
+[color=8B008B]Minister of Operations:[/color] [nation]Kovalenkia[/nation][color=CFB53B]*[/color]
+
+[color=CFB53B]*Place Holder Nations*[/color]
+
+[color=FF0000]Region Map Is Currently Being Made[/color]

@@ -1,8 +1,10 @@
-[b]This region has been annihilated by the elite forces of [region]The Invaders[/region]!
+[b][color=red]The Galactic Navy Invades Another Region![/color]
 
-Troops:[color=#9B0C00]
-General: [nation=short]Gest II[/nation] (trigger)
-Lieutenant Colonel: [nation=short]Saint Block[/nation]
-Lieutenant Colonel: [nation=short]Tombouctu[/nation]
-Staff Sergeant: [nation=short]Hired Contractor II[/nation]
-Private First Class: [nation=short]Unamed[/nation][/color][/b]
+[color=lightpurple]Troops Involved:
+Emperor Scott: [nation=short]Mutesetsa[/nation]
+Captain Naj: [nation=short]likiyug[/nation]
+Ensign Krump: [nation=short]The_Neo-Barons[/nation]
+Ensign Eduardo: [nation=short]the_archipelago_of_pelotas[/nation][/color]
+
+[color=purple] FOR THE EMPEROR![/color]
+[/b]
