@@ -4,10 +4,10 @@
 
 [color=red][u]CABINET OF MINISTERS[/u]
 [/color]
-[b][color=blue]WA Delegate: [nation=short]Fredericksborg[/nation]
-Prime Minister: [nation=short]Constantinopa[/nation]
-Deputy Prime Minister: [nation=short]Shredome[/nation]
-Foreign Minister: [nation=short]Lippie[/nation]
-Judicial Minister:[/color] Open (Election 20th May)[/b]
+[b]WA Delegate: Open
+[color=blue]Prime Minister: [nation=short]Constantinopa[/nation][/color]   ([color=red]LS[/color])
+[color=blue]Deputy Prime Minister: [nation=short]Shredome[/nation][/color] ([color=gray]IP[/color])
+[color=blue]Foreign Minister: [nation=short]Lippie[/nation][/color] ([color=gray]IP[/color])
+Judicial Minister: Open (Election 20th May)[/b]
 
 Other Ministerial Positions will come into use soon. All positions are determined via a three day election. We will start role play once we have found a cartographer to handle the map.

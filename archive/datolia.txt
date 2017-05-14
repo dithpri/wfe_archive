@@ -1,14 +1,16 @@
 [color=darkblue][b]Welcome to Datolia[/color]
 
-Please move to the region [region]Des Meurons[/region].[/b]
+A region for everyone in the world.
 
-[hr][b][color=darkblue]News[/color][/b]
-[hr]
+[i]Founded on 04 March 2017[/i]
+
+[hr]Please endorse our WA delegate, [nation=short]the skeleton kingdom[/nation]
+DEFCON: 4
+[hr][color=darkblue]News[/color][/b]
 
 [b]The election for the new Government positions will be coming soon. Telegram [nation]Bants[/nation] if you want to run.[/b] 
  
 [hr][b][color=darkblue]Useful Links[/color][/b]
-[hr]
 
 [url=https://muut.com/datoliarp/]Roleplay[/url]
 
@@ -19,16 +21,3 @@ Please move to the region [region]Des Meurons[/region].[/b]
 [url=https://www.nationstates.net/page=dispatch/id=781742]Datolian Laws[/url]
 
 [hr]
-[spoiler=The Council of Datolia]
-&#149;Founder: [nation]Troiya[/nation]
-
-[b]Directly elected:[/b]
-&#149; Chancellor: [nation]Bants[/nation]
-&#149; Secretary of State for Foreign Affairs: [nation]Crimean Union[/nation]
-&#149; Secretary of State for Home Department: [nation=short]Personian[/nation]
-&#149; Secretary of State for Justice: [nation=short]azukri[/nation]
-&#149; World Assembly Delegate: [nation]The Skeleton Kingdom[/nation]
-
-[b]Appointed by the Chancellor/Founder[/b]
-&#149; Deputy Chancellor: [nation]Luxebuerg[/nation]
-[/spoiler]

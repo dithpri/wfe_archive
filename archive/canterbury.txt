@@ -3,9 +3,11 @@
 [list]
 [*][b][color=red] Please read the constitution.[/color][/b]
 
-[*][b][color=orange]Be sure to be a good citizen! The chat is under watch...[/b][/color]
+[*][b][color=orange]Be sure to be a good citizen! The chat is under watch.[/b][/color]
 
 [*][b][color=purple]Nation of the month: [/color][nation]KYSSERS[/nation][/b]
+
+[*][b][color=grey]Next election for Nation of the Month: June 1, 2017[/b][/color]
 
 [*][b][color=grey]Next election for World Assembly Delegate: June 1, 2017[/b][/color]
 

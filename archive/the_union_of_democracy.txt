@@ -17,4 +17,4 @@ Vice president:[nation=short]coltpower[/nation]
 [B]Elections Upcoming[/b]
 Announce if you wish to run. 
 Current Candidates 
-[nation=short]new_boniza[/nation]
+[nation=short]coltpower[/nation] 
