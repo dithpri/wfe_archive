@@ -1,8 +1,8 @@
 The Allied Federation of Nations is an intergovernmental treaty and collective defense organization. The AFN exists to encourage dialogue and cooperation on issues such as collective security, human rights, and trade. All member nations are voting members of the Regional Senate.
 
 [b]Regional Security Council[/b]
-[nation]Bubbalania[/nation] [Supreme Allied Commander]
-[nation]Souten Sheld[/nation] [President of the Senate]
+[nation]Bubbalania[/nation]
+[nation]Souten Sheld[/nation]
 [nation]Gotesbourg[/nation]
 
 The [region]Annex of Allied Federation of Nations[/region] is a client region of this alliance. The AFN is a signatory of the [url=https://www.nationstates.net/page=dispatch/id=666798]International Trade and Defense Association[/url].
