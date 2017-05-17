@@ -9,8 +9,8 @@ ____________________________________________________________
 
 [b]Tribunal Regional de Justicia:[/b] [nation=short]Csarkra[/nation]
 [b]Delegado y Cart&oacute;grafo Regional:[/b] [nation=short]Csarkra[/nation]
-[b]Prefecto (Vice-Delegado):[/b] [nation=short]Csarkra[/nation]
-[b]Canciller y Ministro de Deportes Regional:[/b] [nation=short]Csarkra[/nation]
-[b]Ministro del Desarrollo de la Regi&oacute;n:[/b] [nation=short]Csarkra[/nation]
-[b]Ministro de Asuntos Interiores:[/b] [nation=short]Csarkra[/nation]
-[b]Ministro de Cultura Regional:[/b] [nation=short]Csarkra[/nation]
+[b]Prefecto (Vice-Delegado):[/b] -------------------
+[b]Canciller y Ministro de Deportes Regional: -------------------
+[b]Ministro del Desarrollo de la Regi&oacute;n:[/b] -------------------
+[b]Ministro de Asuntos Interiores:[/b] -------------------
+[b]Ministro de Cultura Regional:[/b] -------------------

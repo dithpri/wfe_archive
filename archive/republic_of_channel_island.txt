@@ -9,8 +9,8 @@
 [hr]
 [color=blue][b]Executive Government:
 &amp;gt;&amp;gt;President: [nation=short]Joint Operational Force[/nation]
-&amp;gt;&amp;gt;Vice President:   [nation=short]Evesham Villa[/nation]
-&amp;gt;&amp;gt;Secretary of State: VACANT
+&amp;gt;&amp;gt;Vice President: [nation=short]VACANT[/nation]
+&amp;gt;&amp;gt;Secretary of State: [nation]VACANT[/nation]
 &amp;gt;&amp;gt;Secretary of the Interior: [nation=short]TillyBurg[/nation]
 &amp;gt;&amp;gt;Secretary of Defense:[nation]Videca[/nation][/b][/color]
 [hr]
