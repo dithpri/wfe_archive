@@ -1,9 +1,10 @@
 [b][color=green]Welcome to H.Q.[/color][/b]
+Join a political party!
 
-[b][color=pink]There isn&#39;t much to do yet, but be patient.[/color][/b]
-
-[b][color=purple]External Territories[/color][/b]: [region=Red Panda Land], [region=Axolotlum],
+[b][color=purple]External Territories[/color][/b]: [region=Red Panda Land], [region=Axolotlum], [region=The Second Ridge uf Badgers],
 [b][color=orange]Puppets[/color][/b]: [region=The Yorish Cultural Alliance],
+
+[i][color=pink]Absorbed Axolotlum[/color][/i]
 
 [u][b]Political Parties[/b][/u]
 [*][color=blue]Liberals United Party[/color] - Number of Nations: 1
@@ -12,6 +13,11 @@
 - Leader: [nation=The Soviett Union]
 [*][color=darkgreen]Reclaim Nature Party[/color] - Number of Nations: 1
 - Leader: [nation=The Frong Chiefdom]
+[*][color=purple]Succ Party[/color] - Number of Nations: 1
+- Leader: [nation=Boss Landia]
+
+First Election will be on June 1st...
+Start your campaigns.
 
 
 
