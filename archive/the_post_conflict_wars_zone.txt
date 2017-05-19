@@ -11,4 +11,6 @@ Supported Languages: English, French(Fran&ccedil;ais), German(Deutsche), Italian
 
 [color=red]Marching Orders[/color]
 Assaults: [region]Lone Wolves United[/region](Invaders)
-[color=black]Code Black:[/color] [region]The Athaeters[/region]
+Skirmishes: [region]Subreality[/region](Disfunctional)
+Invasions: ----None----
+[color=black]Code Red:[/color] [region]The Athaeters[/region]

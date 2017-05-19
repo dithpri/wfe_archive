@@ -1,11 +1,10 @@
-A semi-roleplay future region set on the fictional planet Kaiderwin, with regional politics, trade and future technology.
-
 [url=http://i.imgur.com/kxoSgEt.png]Map[/url]
 [url=http://i.imgur.com/rZL8ZNH.png]Map with names[/url]
-[b]A[/b]=Jolasko
-[b]B[/b]=Liberal Pandas
-[b]C[/b]=Fothergilland
-[b]D[/b]=Aurual
-[b]E[/b]=Newneuland
-[b]F[/b]=East Nordsken
-[b]G[/b]=Harvsland
+
+A=Jolasko
+B=Liberal Pandas
+C=Fothergilland
+D=Aurual
+E=Newneuland
+F=East Nordsken
+G=Harvsland

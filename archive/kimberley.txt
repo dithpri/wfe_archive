@@ -1,1 +1,4 @@
-Kimberley
+[b]Kimberley[/b]
+a [region=Jennifer] region
+Allied with: [region=George], [region=Jennifer], [region=Katherine], [region=Richard], [region=Victoria] and [region=William]
+[b]Founded:[/b] May 19, 2017
