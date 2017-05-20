@@ -6,11 +6,12 @@ Capitalist, Neutral
 Leader:
 Michael Habsburg I.
 -----------------------------------------------------------
-Timeline:
-20th Century (Nation began in 1937)
+Year:
+2207
 -----------------------------------------------------------
 Capital:
 New Vienna
+Washington D.C.
 -----------------------------------------------------------
 Parts:
  - American Austria
