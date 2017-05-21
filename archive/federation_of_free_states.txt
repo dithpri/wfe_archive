@@ -1,5 +1,6 @@
-[b]Suprise!
+[b]This region has been annihilated by the [i][u]elite forces[/i][/u] of [region]The Invaders[/region]!
 
-Oh Gosh, it looks like you once beautiful region was raided by some [color=red][i]RADICAL DUDES[/i][/color] over at The [region]Capital Republic[/region]. Well isn&#39;t that a shame? Make sure to go join that [color=red][i]AWESOME[/i][/color] region.[hr][hr][color=Black]Military Commander:[/color] [nation=short]Blackwood_Order[/nation]
-[color=red]Military General:[/color] [nation=short]West_Collineasia[/nation]
-[color=Black]Military Scouts:[/color] [nation=short]Marrum_Graecia[/nation] and [nation=short]the_military_of_south_asians_2[/nation][hr][hr][color=red]Raid brought to You by the Capital Republic[/color][/b]
+Troops:[color=#9B0C00]
+General: [nation=short]Gest II[/nation] (trigger)
+Colonel: [nation=short]Tombouctu[/nation]
+Colonel: [nation=short]Saint Block[/nation][/b][/color]

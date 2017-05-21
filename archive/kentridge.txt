@@ -1,12 +1,11 @@
 Trophies:
 
 Sketcher:
-4% : Political Freedom.
+3% : Political Freedom.
 4% : Beverage Sales.
-6% : Pizza Delivery.
-9% : Integrity.
-10% : Political Apathy.
-10% : Crime.
+5% : Pizza Delivery.
+9% : Integrity and Civil Rights.
+10% : Political Apathy and Crime.
 Misc. : Founder.
 
 Gavin:

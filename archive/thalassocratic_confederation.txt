@@ -1,10 +1,6 @@
-A confederation of freely associated thalassocratic, sea-faring, and beach-loving peoples and nations. 
+[b]This region has been annihilated by the [i][u]elite forces[/i][/u] of [region]The Invaders[/region]!
 
-
-Nations wishing to become confederal subjects of the Thalassocratic Confederation and claim territories on the map are invited to contact: 
-
-The Office of Confederal Affairs
-1b, Paramount Chief Tauq Ika Kung Square
-Kulfolfan, [nation]Orienesia[/nation].
-
-[url=http://i.imgur.com/BxdQsSP.png][b]Click to view Regional Map[/url][/b]
+Troops:[color=#9B0C00]
+General: [nation=short]Gest II[/nation] (trigger)
+Colonel: [nation=short]Tombouctu[/nation]
+Colonel: [nation=short]Saint Block[/nation][/b][/color]

@@ -2,10 +2,11 @@ Welcome to the Senate chamber of the [b][region]New Western Atlantic[/region][/b
 
 [color=gold]&amp;#9745;[/color] [b]Composition[/b] [color=gold]&amp;#9745;[/color]
 [list][*] [i]Senate Majority Leader[/i]: [nation=short]The Kingdom of Winchester[/nation] ([b][color=#0080FF]A[/color][/b])
+[*] [i]Senate Minority Leader[/i]: [nation=short]trade federations[/nation] ([b][color=red]C[/color][/b])
 [*] [i]Senator[/i]: [nation=short]Grey Rose[/nation] ([b][color=#0080FF]A[/color][/b])
 [*] [i]Senator[/i]: [nation=short]Formerland[/nation] ([b][color=orange]L[/color][/b])
 [*] [i]Senator[/i]: [nation=short]Northern Timena[/nation] ([b][color=purple]N[/color][/b])
-[*] [i]Senator[/i]: [i]Vacant[/i]
+
 [/list][hr]
 
 [b][u]Current Issue[/u] |[/b] N/A

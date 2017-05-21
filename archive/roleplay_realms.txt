@@ -7,8 +7,10 @@ Roleplay realms is a region meant to act as a world for all peoples and governme
 
 [color=purple]Chancellor[/color]:[nation]Highreign[/nation]
 
-[color=blue]Members Representative/WA Delegate[/color]: n/a
+[color=blue]Members Representative/WA Delegate[/color]:[nation]Varyit[/nation]
 
 [color=green]Defence Minister[/color]: n/a
 
 [color=brown]Minister of Internal Affairs[/color]: n/a
+
+[color=Tan]Minister of Foreign Affairs[/color]: n/a
