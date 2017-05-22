@@ -1,10 +1,9 @@
-[b]The [region]Hellenic Empire[/region] saw this distant regions and found they looked better with some good art, so we decided to repaint your walls with something better. Something classic.
-And there is nothing more classic than Hellenic people, so we thought that we should just splatter our classiness all over your grounds! No need to thank us, we do this for free!
+[b]This region has been annihilated by the [i][u]elite forces[/i][/u] of [region]The Invaders[/region]!
 
-
-[u]The charitable [region]Hellenic Empire[/region] raiders:[/u]
-Strategos Autokrator, [nation=short]Satya Romefeller[/nation]
-Strategos, [nation=short]Greytex[/nation] (trigger)
-Taxiarhos, [nation=short]Nyx-[/nation]
-Archlokhagos, [nation=short]Hellenic Dubya[/nation]
-Epilokhagos, [nation=short]Klaizar[/nation][/b]
+Troops:[color=#9B0C00]
+General: [nation=short]Gest II[/nation] (trigger)
+Colonel: [nation=short]Tombouctu[/nation]
+Colonel: [nation=short]Saint Block[/nation]
+Lieutenant: [nation=short]Hired Contractor II[/nation]
+Sergeant: [nation=short]Liberate[/nation]
+PFC: [nation=short]arbriska[/nation][/b][/color]

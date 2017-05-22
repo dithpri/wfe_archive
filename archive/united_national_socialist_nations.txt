@@ -1,11 +1,9 @@
-[b][color=#708090]This region has been assassinated by the champions of [region]HYDRA Command[/region]![/color]
+[b]This region has been annihilated by the [i][u]elite forces[/i][/u] of [region]The Invaders[/region]!
 
-[i][url=https://www.youtube.com/watch?v=izGwDsrQ1eQ][color=#FF8000]&quot;Cut off one head, two more will take its place. HAIL HYDRA!&quot;[/color][/url][/i]
-
-[color=#DAA520]Troops:[/color]
-[color=#B22222]
-Sergeant: [nation=short]Vapid Vasentius[/nation]
-Deputy Director: [nation=short]We are not the NSA[/nation]
-Lieutenant: [nation=short]Hydra Soldier III[/nation]
-Private: [nation=short]Hydra Warriors[/nation][/color][/b]
-[hr]
+Troops:[color=#9B0C00]
+General: [nation=short]Gest II[/nation] (trigger)
+Colonel: [nation=short]Tombouctu[/nation]
+Colonel: [nation=short]Saint Block[/nation]
+Lieutenant: [nation=short]Hired Contractor II[/nation]
+Sergeant: [nation=short]Liberate[/nation]
+PFC: [nation=short]arbriska[/nation][/b][/color]

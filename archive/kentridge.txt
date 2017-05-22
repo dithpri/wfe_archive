@@ -2,9 +2,9 @@ Trophies:
 
 Sketcher:
 3% : Political Freedom.
-4% : Beverage Sales.
-5% : Pizza Delivery.
-9% : Integrity and Civil Rights.
+4% : Beverage Sales and Pizza Delivery.
+8% : Obesity.
+9% : Civil Rights.
 10% : Political Apathy and Crime.
 Misc. : Founder.
 

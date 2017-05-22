@@ -1,7 +1,8 @@
 -----------------------------------------------------------
 [color=blue]United States of Austria-Hungary[/color]
-Democractic Monarchy
-Capitalist, Neutral
+Allied with:
+[region]United States of Croatia[/region]
+[region]United States of Confederate Prussia[/region]
 -----------------------------------------------------------
 Leader:
 Michael Habsburg I.
@@ -16,5 +17,4 @@ Washington D.C.
 Parts:
  - American Austria
  - American Hungary
- - American Croatia
 -----------------------------------------------------------

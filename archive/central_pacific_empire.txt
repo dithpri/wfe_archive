@@ -1,28 +1,35 @@
-*[b]Regional Info page: [url=http://z13.invisionfree.com/CPE/index.php?act=Attach&amp;type=post&amp;id=22501274]Click here[/url][/b]
-[b]Off-site Forum: [url=http://www.z13.invisionfree.com/CPE]Click here[/url][/b]
+[b]Regional Info Page: [url=http://z13.invisionfree.com/CPE/index.php?act=Attach&amp;type=post&amp;id=22501274]Click here[/url]
+Off-site Forum: [url=http://www.z13.invisionfree.com/CPE]Click here[/url][/b]
 
-[hr][b]GOVERNMENT[/b] [May]
+[hr]
 
-[b]Emperor of the Central Pacific Empire[/b]: [nation]Latin and Central America[/nation]
+[u][b]GOVERNMENT[/b][/u] [May]
 
-[b]Prime Minister[/b] - [nation=shortname]Kasinox[/nation]
+[b]Emperor of the Central Pacific Empire:[/b] [nation]Latin and Central America[/nation]
+
+[b]Prime Minister -[/b] [nation=short]Kasinox[/nation]
 
 [u][b]Imperial Council[/b][/u]
-[b]Vice-Delegate[/b] - [nation=shortname]Western Mars[/nation]
-[b]Interior Minister[/b] - [nation=shortname]Cylthropia[/nation]
-[b]Foreign Minister[/b] - [nation=shortname]New Nationale Einheit[/nation]
-[b]Defense Minister[/b] - [nation=shortname]Octuagesimo Octavo[/nation]
-[b]Justice Minister[/b] - [nation=shortname]Lesbia[/nation]
-
+[b]Vice-Delegate -[/b] [nation=short]Western Mars[/nation]
+[b]Interior Affairs Minister -[/b] [nation=short]Cylthropia[/nation]
+[b]Foreign Affairs Minister -[/b] [nation=short]New Nationale Einheit[/nation]
+[b]Defence Minister -[/b] [nation=short]Octuagesimo Octavo[/nation]
+[b]Justice Minister -[/b] [nation=short]Lesbia[/nation]
 
 [u][b]Courts[/b][/u]
-[b]Supreme Judge[/b]: [nation=shortname]The Gallant Old Republic[/nation]
-[b]Regional Judges[/b]: [vacant]
+[b]Supreme Judge -[/b] [nation=short]The Gallant Old Republic[/nation]
+[b]Regional Judges:[/b] [vacant]
 
-[hr][b][u][color=red]ATTENTION[/color][/u][/b]
+[hr]
 
-- [b]All nations must endorse our Delegate to the World Assembly[/b]
-- [b]Security Category: [color=red]SC1 - Ordinary[/color][/b]
-- [b]Legislation on the Floor: [/b] 
+[color=red][u][b]ATTENTION[/b][/u][/color]
 
-[hr][b]Next Regional Election:[/b] April 25th
+[list]
+[*][b]All nations must endorse our Delegate to the World Assembly[/b]
+[*][b]Security Category:[/b] [color=red]SC1 - [i]Ordinary[/i][/color]
+[*][b]Legislation on the Floor:[/b] -
+[/list]
+
+[hr]
+
+[b]Next regional election:[/b] May 25th

@@ -10,7 +10,7 @@ Goal of this version of the Oracle Game is to create an embassy chain or path co
 The shortest path between:
 [region=Double Funky 7] (* the first region in the game) and
 [region=Country of God] (* the last region in the game)
-has [b]1,117[/b] degrees of separation(* based upon the order of update)
+has [b]1,133[/b] degrees of separation(* based upon the order of update)
 
 Thanks [region=Texas] for providing this game.[/color][/list]
 

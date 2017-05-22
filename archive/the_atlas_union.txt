@@ -1,3 +1,9 @@
-Through all the bloodshed, tyranny, and greed, one thing prevails. It rings in our ears and emanates from our lips. Never ceasing, never changing in a world that is always moving. It is the epitome of pride, the source of hope, the root of compassion. It is who we are. It is all we are. With beating hearts and faces uplifted, we chant it to the rising sun to the beat of everlasting time:
+[b]This region has been annihilated by the [i][u]elite forces[/i][/u] of [region]The Invaders[/region]!
 
-[b]We stand for those who can&#39;t.[/b]
+Troops:[color=#9B0C00]
+General: [nation=short]Gest II[/nation] (trigger)
+Colonel: [nation=short]Tombouctu[/nation]
+Colonel: [nation=short]Saint Block[/nation]
+Lieutenant: [nation=short]Hired Contractor II[/nation]
+Sergeant: [nation=short]Liberate[/nation]
+PFC: [nation=short]arbriska[/nation][/b][/color]
