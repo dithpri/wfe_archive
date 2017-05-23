@@ -1,5 +1,5 @@
 Welcome to Velyra! A once proud region and splitter dominion of [region=Atrosia Isles].
 [hr]
 
-President: [nation=Viridian Isles]
-Vice President: [nation=East Troptopia]
+Consul: [nation=Viridian Isles]
+Vice Consul: [nation=East Troptopia]

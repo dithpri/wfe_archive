@@ -1,1 +1,2 @@
-[color=navy][b]Greater London[/b][/color][hr]
+[color=navy][b]Greater London[/b]
+a [region=Great Britain and Northern Ireland]/[region=London] region[/color]

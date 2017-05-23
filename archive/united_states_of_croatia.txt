@@ -1,11 +1,12 @@
 ----------United States of Croatia----------
 
 Democratic Monarchy
-Allied with [region]United States of Austria Hungary[/region]
+Allied with:
+[region]United States of Austria Hungary[/region]
 [region]United States of Confederate Prussia[/region]
 ----------------------------------------------------------
 Leader:
-Michael Habsburg I.
+Ivan Sykozy I.
 
 Capital: New Zagreb
 ----------------------------------------------------------
