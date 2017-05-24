@@ -1,8 +1,5 @@
-[b]This region has been annihilated by the elite forces of [region]The Invaders[/region]!
+[b][color=Red]This region has been occupied and secured by the Coalition of National Regions lead by the [region=The Holy Reich of Bunicken] and supported by [region=The Lycan region][/color][/b]
 
-Troops:[color=#9B0C00]
-General: [nation=short]Gest II[/nation] (trigger)
-Lieutenant Colonel: [nation=short]Tombouctu[/nation]
-Lieutenant Colonel: [nation=short]Saint Block[/nation]
-Staff Sergeant: [nation=Hired Contractor II]
-Private First Class: [nation=short]Aarol[/nation][/color][/b]
+[hr]
+
+[url=https://www.nationstates.net/page=dispatch/id=795800]Dedication to our Kaiser![/url]

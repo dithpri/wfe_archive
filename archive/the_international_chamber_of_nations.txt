@@ -6,10 +6,10 @@
 
 [b][u][color=#0040BF]Regional Government[/color][/u][/b]
 [b]- Chairman:[/b] [nation]Antarcteca[/nation]
-[b]- Vice Chairman:[/b]
+[b]- Vice Chairman:[/b] [nation]Mabuhay Land[/nation]
 
 [b][u][color=#0040BF]The Chamber of Nations[/color][/u][/b]
-[b]Speaker:[/b] [nation]Carpethia[/nation]
+[b]Speaker:[/b] [nation]Pac[/nation]
 [b]Current Legislation:[/b] None
 
 [b][u][color=#0040BF]Parties[/color][/u][/b]
@@ -17,5 +17,7 @@
 Centrist Party
 Nationalist Party
 
-[b][u][color=#0040BF]The International Court[/color][/u][/b]
-[b]- Chief Justice:[/b] [nation]Ariles[/nation]
+[b][u][color=#0040BF]The International Courts[/color][/u][/b]
+[b]- Chief Justice:[/b] [nation]Ariles[/nation] (International Court)
+[b]- 1st Secretary-Justice:[/b] [nation]Wiishu[/nation] (Court of Appeals)
+[b]- 2nd Secretary-Justice:[/b] [nation]Intarnot[/nation] (Superior Court)

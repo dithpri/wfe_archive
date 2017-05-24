@@ -6,8 +6,8 @@ Vice Consul: [nation]Pasificia[/nation]
 National Congress Leader: [nation]Taco Van[/nation]
 [u]Body of Ministers[/u]
 Security Minister: [nation]Titan Alpha[/nation]
-Communication Minister: Unfilled
+Communication Minister: [nation]titan beta[/nation]
 Forgiven Relations Minister: Unfilled
-Voting Minister: Unfilled
+Voting Minister: [nation]sn00p[/nation]
 [b]Info[/b]
 We are a peaceful group of scientifically advanced cosmic peoples and wish to bring peace and power to everyone. We are always looking for new members and would greatly value membership.

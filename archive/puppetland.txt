@@ -1,1 +1,8 @@
 Puppets are cool! Dauiland is cool! Yay!
+
+REQUIRED NAMING CONVENTION:
+
+[i]Puppetlandia [number][/i]
+
+[number] is the number after the highest number in use in Puppetland.
+

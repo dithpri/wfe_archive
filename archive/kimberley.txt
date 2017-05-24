@@ -1,4 +1,6 @@
 [b]Kimberley[/b]
 a [region=Jennifer] region
 Allied with: [region=George], [region=Jennifer], [region=Katherine], [region=Richard], [region=Victoria] and [region=William]
+an [region=0000]/[region=Ancient Lands]/[region=United States of America] associate region
+Controlled by: [nation=short]Royal House of Windsor[/nation]
 [b]Founded:[/b] May 19, 2017
