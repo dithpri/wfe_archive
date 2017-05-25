@@ -1,20 +1,15 @@
------------------------------------------------------------
-[color=blue]United States of Austria-Hungary[/color]
-Allied with:
+-----United States of Austria-Hungary-----
+
+3-Kaiserbund
+Allies: 
 [region]United States of Croatia[/region]
 [region]United States of Confederate Prussia[/region]
------------------------------------------------------------
-Leader:
-Michael Habsburg I.
------------------------------------------------------------
-Year:
-2207
------------------------------------------------------------
-Capital:
-New Vienna
-Washington D.C.
------------------------------------------------------------
-Parts:
- - American Austria
- - American Hungary
------------------------------------------------------------
+--------------------------------------------------------------
+Democratic Monarchy
+
+Year: 2276
+
+Kaiser: Michael Habsburg I.
+
+Capital: New Vienna
+--------------------------------------------------------------

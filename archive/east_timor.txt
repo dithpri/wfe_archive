@@ -1,4 +1,6 @@
 [b]East Timor[/b]
-a [region=0000] region
+a [region=0000]/DBA Alliance region
 
 See [region=Timor Leste]
+
+This region is in transition from an Oracle Region of the DBA Alliance to a Matrix Region of the RHW Alliance. Soon this region will be accepting embassy offers.

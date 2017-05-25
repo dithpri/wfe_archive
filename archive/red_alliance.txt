@@ -1,18 +1,21 @@
 Welcome to [region]Red Alliance[/region]!
-[hr]
-[color=purple]Parliament founded on 20 May 2017[/color]
-Comprised of 3 Political Parties so far:
 
-[i][color=red]The Socialist Party of RA[/color][/i] (Minority Party)
-[i][color=green]The Communist Party of RA[/color][/i] ( Super Minority)
-[i][color=blue]Jacobin Socialist Party[/color][/i] (Majority Party)
+[b]Founded 10 May 2017[/b]
 [hr]
 [color=red][i]Rubrum Aeterna[/i][/color]
 [hr]
-[b]Prime Minister[/b], [nation]Eastern Concordia[/nation]! Elected 21 May 2016
+[b][color=purple]PARLIAMENT:[/color][/b]
 
-[b]Opposition Leader:[/b] [nation]Courtian[/nation] (SPRA)
+[b]Prime Minister[/b], [nation]Eastern Concordia[/nation] [color=blue](JSP)[/color]
 
-[b]Super Minority Leader:[/b] [nation]Korslavia[/nation] (CPRA)
+[b]Opposition Leader:[/b] [nation]Courtian[/nation] [color=red](SPRA)[/color]
+
+[b]Super Minority Leader:[/b] [nation]Korslavia[/nation] [color=green](CPRA)[/color]
+
+[i][color=gold]All nations are members of Parliament and must therefore join a political party.[/color][/i]
+[hr]
+[color=red]Pround Founding Member of the [b]Marxist Union Treaty Organization (M.U.T.O.)[/b][/color]
+
+[i]To join MUTO, please telegram [nation]Provinci[/nation][/i]
 [hr]
 The [b]Executive Chairman[/b], [nation]Provinci[/nation], is the Supreme Leader of [region]Red Alliance[/region].
