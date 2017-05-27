@@ -1,2 +1,3 @@
 [b]The Awakening[/b]
-a [region=0000] puppet storage region
+a [region=Ancient Lands] puppet storage region
+associate region of [region=0000]

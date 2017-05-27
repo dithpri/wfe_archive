@@ -1,5 +1,6 @@
 [color=ff0000]Board[/color]: [color=0000ff]Open[/color] [color=808080]to all nations in embassy regions.[/color]
 [color=ff0000]Border[/color]: [color=0000ff]Open[/color] [color=808080]to all nations.[/color]
+[color=ff0000]Endorsement Cap[/color]: [color=0000ff]None[/color].
 [color=ff0000]Forum[/color]: [url=http://forum.nationstates.net/]Local[/url].
 [color=ff0000]Off-site Forum[/color]: [color=0000ff]None[/color].
 [color=ff0000]Regulations[/color]: [color=0000ff]None[/color].
