@@ -1,2 +1,5 @@
 [b]Manchester[/b]
-a [region=0000] region
+a [region=Great Britain and Northern Ireland] region
+Associated with [region=London]/[region=Greater London]
+
+Currently accepting embassy offers

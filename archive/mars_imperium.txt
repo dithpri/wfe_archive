@@ -3,11 +3,11 @@
 Consul: [nation]Arabia Terra[/nation]
 Vice Consul: [nation]Pasificia[/nation]
 [u]Body of Law[/u]
-National Congress Leader: [nation]Taco Van[/nation]
+National Congress Leader: [nation]Moskava[/nation]
 [u]Body of Ministers[/u]
 Security Minister: [nation]Titan Alpha[/nation]
 Communication Minister: [nation]titan beta[/nation]
-Forgiven Relations Minister: Unfilled
+Forgiven Relations Minister: [nation]Taco Van[/nation]
 Voting Minister: [nation]sn00p[/nation]
 [b]Info[/b]
 We are a peaceful group of scientifically advanced cosmic peoples and wish to bring peace and power to everyone. We are always looking for new members and would greatly value membership.

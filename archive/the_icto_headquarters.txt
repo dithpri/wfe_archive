@@ -7,9 +7,10 @@ The objective of this treaty is to further co-operation on political, social and
 
 [b]Members:[/b]
 
-&middot; [region]Central Pacific Empire[/region]
-&middot; [region]United Empire of Islam[/region]
-&middot; [region]The Commonwealth of Crowns[/region]
-&middot; [region]Radiant Republic[/region]
+&#149; [region]Central Pacific Empire[/region]
+&#149; [region]United Empire of Islam[/region]
+&#149; [region]The Commonwealth of Crowns[/region]
+&#149; [region]Radiant Republic[/region]
+&#149; [region]Libertatem[/region]
 
 [b]More information coming soon.[/b]

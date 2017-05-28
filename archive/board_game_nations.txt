@@ -6,10 +6,10 @@ Warmaster: [nation=short]Grarrgtopia[/nation]
 Master of Laws: [nation=short]Dragonpitopia[/nation]
 Master of Foreign Affairs: [nation=short]Raptures End[/nation]
 
-Crown Princess: [nation=short]Sylvenea[/nation]
-First Princess: [nation=short]Clanktopolis[/nation]
-Crown Prince: [nation=short]Hazzardia[/nation]
-First Prince: [nation=short]Gilmores Glorious Empire[/nation]
+Crown Princess: [nation=short]Clanktopolis[/nation]
+First Princess: 
+Crown Prince: [nation=short]Gilmores Glorious Empire[/nation]
+First Prince: 
 
 Tower Warden: [nation=short]Habroo the Mighty and Brave[/nation] 
 Royal Escort Vehicle: [nation=short]Hollicopter[/nation]
@@ -22,4 +22,4 @@ Flag design by [nation=short]Grarrgtopia[/nation]
 
 Featured on April 17th, 2015!
 
-[i][color=grey]Remember DarkiUmbreon[/color][/i]
+[i][color=grey]Rest in Peace DarkiUmbreon[/color][/i]

@@ -1,12 +1,14 @@
 -----United States of Austria-Hungary-----
 
-Patriotic, Catholic, Neutral
---------------------------------------------------------------
 Democratic Monarchy
+Dynasty: Habsburg
+Kaiser: Michael Habsburg I. 
 
-Year: 2276
-
-Kaiser: Michael Habsburg I.
-
+Democratic, Patriotic, Christian
+-----------------------------------------
 Capital: New Vienna
---------------------------------------------------------------
+
+Year: 2276 (Fallout Universe)
+
+Enemys:
+German Federation, Ceasar&acute;s Legion
