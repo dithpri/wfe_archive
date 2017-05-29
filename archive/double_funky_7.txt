@@ -12,7 +12,8 @@ The shortest path between: [region=Double Funky 7]*  and [region=Country of God]
 Notes:
 * the first region in the game
 ** the last region in the game
-*** based upon the order of update
+*** shortest path
+Regions based upon order of update
 
 Thanks [region=Texas] for providing this game.[/color][/list]
 

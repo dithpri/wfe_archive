@@ -15,8 +15,6 @@ Current Vote: None
 [color=crimson]Labour Party [/color] [url=https://www.nationstates.net/nation=storbrittannia/detail=factbook/id=main]Intel[/url]
 
 [b]Supreme Court[/b]
-Vacant Seat
-Vacant Seat
-Vacant Seat
-Vacant Seat
-Vacant Seat
+[Nation]West Ilmura[/nation]
+[Nation]Vegalias[/nation]
+[Nation]Storbrittannia[/nation]
