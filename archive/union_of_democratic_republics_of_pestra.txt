@@ -3,7 +3,7 @@
 [color=blue]Nations in the Union:
 
 Founder[nation]Petrolandia[/nation] (Trigger)
-Corporal [nation]Drussnia[/nation]
+Co-founder[nation]Drussnia[/nation]
 [color=green]Embassies:
 The Union of Democratic States
 

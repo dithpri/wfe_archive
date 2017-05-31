@@ -1,13 +1,15 @@
 [color=ff0000]Board[/color]: [color=0000ff]Open[/color] [color=808080]to all nations in embassy regions.[/color]
 [color=ff0000]Border[/color]: [color=0000ff]Open[/color] [color=808080]to all nations.[/color]
+[color=ff0000]Embassy Requests[/color]: [color=0000ff]Accepted[/color] [color=808080]when possible.[/color]
 [color=ff0000]Endorsement Cap[/color]: [color=0000ff]None[/color].
 [color=ff0000]Forum[/color]: [url=http://forum.nationstates.net/]Local[/url].
 [color=ff0000]Off-site Forum[/color]: [color=0000ff]None[/color].
+[color=ff0000]Offices[/color]: [color=0000ff]Available[/color] [color=808080]for [url=https://www.nationstates.net/page=un]World Assembly[/url] member nations.[/color]
 [color=ff0000]Regulations[/color]: [color=0000ff]None[/color].
-[color=ff0000]Requests[/color]: [color=0000ff]Accepted[/color].
 [color=ff0000]Time Standard[/color]: [color=0000ff]UTC[/color].
 [color=ff0000]Time Zone[/color]: [color=0000ff]GMT[/color].
-[hr]The order of the day is to put an end to the machinations of the purveyors of injustice&#133;
+[hr][i]The order of the day is to put an end to the machinations of the purveyors of injustice&#133;[/i]
+
 [spoiler=Means]Archives: [url=https://www.nationstates.net/page=archive]NSArchives[/url], [url=http://udl.taijitu.org/images/rflags/]Region Flags[/url], [url=http://udl.taijitu.org/wfe_index/]WFE Index[/url].
 Calculators: [url=http://nseconomy.thirdgeek.com/]NSEconomy[/url], [url=http://nsdossier.texasregion.net/]NSSuite[/url], [url=http://www.nstrackers.net/]NSTracker[/url].
 Generators: [url=http://www.seventhsanctum.com/generate.php?Genname=government]Class[/url], [url=http://www.allfamilycrests.com/makecoatofarms.htm]Coat of Arms[/url], [url=http://flag-designer.appspot.com/]Flag[/url], [url=http://www.inrebus.com/latinmottogenerator.php]Motto[/url], [url=http://www.fileformat.info/convert/image/svg2raster.htm]SVG Converter[/url].
