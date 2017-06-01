@@ -1,5 +1,7 @@
 [u][B]Eidynbuh Command[/B][/u]
 
-Eidynburh Command (ECOM) is the central combatant command of the Pictish Defence Force.
+[B]--[/B]: Eidynburh Command (ECOM) is the central combatant command of the [nation=short]Pictish Defence Force[/nation].
 
-This command is charged with the defence of [nation=short]Picts[/nation], [nation]Eidynburh[/nation], and allied [nation=short]Sudweca[/nation] (supported by [nation=short]Sudwecan Defence Force[/nation]).
+[B]--[/B]: This command is charged with defending the Pictish realm against all threats, foreign or domestic.
+
+[B]--[/B]: Allied support is provided by the [nation=short]Cypriot Defence Force[/nation] and [nation=short]Sudwecan Defence Force[/nation].
