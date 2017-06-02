@@ -1,11 +1,14 @@
 Trophies:
 
-Sketcher:
-3% : Political Freedom and Beverage Sales.
-4% : Pizza Delivery.
-5% : Civil Rights.
-6% : Obesity.
+Baka Burasutaa:
+2% : Beverage Sales.
+3% : Political Freedom and Pizza Delivery.
+5% : Civil Rights and Obesity.
+9% : Youth Rebelliousness.
+10% : Crime.
 Misc. : Founder.
 
-Gavin:
-...Nothing Here...
+Mick and Rorty:
+3% : Trout Fishing and Social Conservatism
+4% : Authoritarianism
+5% : Ignorance
