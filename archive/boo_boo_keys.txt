@@ -1,8 +1,22 @@
-Boo Boo Keys: We really have no idea what we&#39;re doing
+[b][u][color=green]Welcome to Boo Boo Keys: We really have no idea what we&#39;re doing![/b][/u][/color]
 
-[b][color=blue]North Thalassic Common Market (NOTCOM)[/color][/b]
+
+[u][b]Alliances and Trading Blocs (For Show)[/b][/u]
+
+[i][b][color=blue]North Thalassic Common Market (NOTCOM)[/color][/b][/i]
 
 [nation]Libertaea[/nation] 
+[nation]Crounwichland[/nation][i](Dominion of Libertaea)[/i]
 [nation]Unieshan[/nation] 
 [nation]Fanace[/nation] 
+[i]Observer:[/i] [nation]Sylonox[/nation]
+
+[i][b][color=red]Intonian Protection Sphere (IPS)[/i][/b][/color]
+[nation]Intonian[/nation]
+[nation]East_Rienstiedt[/nation]
+[nation]Seperuratum[/nation]
+[nation]Corava[/nation]
+[nation]Galiziae[/nation]
+
+[b][i]Wanna be a tyrant? You should probably join [color=red]IPS[/color] for that, and if you&#39;re basically anything else that holds &quot;elections&quot; and likes capitalism, join [color=blue]NOTCOM[/color][/b][/i]
 
