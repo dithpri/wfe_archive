@@ -1,14 +1,13 @@
 Welcome to the [b][color=orange]Orange Kingdom[/color][/b]!
 [i]Founded on the 10th April, 2017[/i]
 
-[u][b]Government of the Orange Kingdom[/b][/u]
-[b]Founder[/b]: [nation]Neo Ancient Rome[/nation]
-[b]WA Delegate[/b]: [i]Vacant[/i]
-[b]Vice-Delegate[/b]: [i]Vacant[/i]
-[b]Diplomacy Officer[/b]: [i]Vacant[/i]
-[b]Homeland Officer[/b]: [i]Vacant[/i]
-[b]Security Officer[/b]: [i]Vacant[/i]
+[b][color=orange]This region is a Territory of the [region]Independent Republic of Orange Nations[/region]![/color][/b]
 
-[u][b]Regional News[/b][/u][list]
-[*] Join us on Discord [url=https://discord.gg/8TXczrV]here[/url]!
-[/list]
+[u][b]Provisional Territorial Government of the Orange Kingdom[/b][/u]
+[b]President[/b]: [nation]Neo Ancient Rome[/nation]
+[b]Lord Protector[/b]: [nation]Neo Ancient Rome[/nation]
+[b]Administrator[/b]: [nation]The Republic of Bayview[/nation]
+
+[b]Territorial News[/b]
+[*] [nation]Neo Ancient Rome[/nation] has been appointed Provisional President of the Independent Republic of Orange Nations!
+[*] [nation]The Republic of Bayview[/nation] has been appointed Provisional Administrator of the Territory of the Orange Kingdom!

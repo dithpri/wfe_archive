@@ -15,6 +15,7 @@ July 23rd, 2007
 [u][b]Regions of the Empire[/b][/u]:
 
 [region]Walbard Union[/region]
+[region]New Walbard[/region]
 [region]Sammetradt[/region]
 [region]Eriksfjord[/region]
 [region]Yalumba[/region]

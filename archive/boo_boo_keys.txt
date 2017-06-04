@@ -6,7 +6,7 @@
 [i][b][color=blue]North Thalassic Common Market (NOTCOM)[/color][/b][/i]
 
 [nation]Libertaea[/nation] 
-[nation]Crounwichland[/nation][i](Dominion of Libertaea)[/i]
+[nation]Crounwichland[/nation] [i](Dominion of Libertaea)[/i]
 [nation]Unieshan[/nation] 
 [nation]Fanace[/nation] 
 [i]Observer:[/i] [nation]Sylonox[/nation]
