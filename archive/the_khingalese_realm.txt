@@ -1,4 +1,4 @@
-[b]THE KHINGALESE REALM &middot; &amp;#20852;&amp;#23433;&amp;#30340;&amp;#22659;&amp;#30028; &middot; &amp;#1061;&amp;#1103;&amp;#1085;&amp;#1075;&amp;#1072;&amp;#1085; &amp;#1053;&amp;#1086;&amp;#1105;&amp;#1088;&amp;#1093;&amp;#1086;&amp;#1083;&amp;#1076;[/b][hr]
+[b]THE KHINGALESE REALM[/b][hr]
 
 Puppet storage for all nations under control of the player controlling [nation]Khingan[/nation].[hr]
 
@@ -10,4 +10,5 @@ Puppet storage for all nations under control of the player controlling [nation]K
 [nation=short]Negeri_Pulau_Pinang[/nation] &#151; Sharia &#150; Western Malaysia
 [nation=short]Rhein-Erft[/nation] &#151; Personal &#150; North Rhine-Westphalia
 [nation=short]The_Offshore[/nation] &#151; Benevolent dictatorship &#150; Cape Verdean Islands
+[nation=short]Unua Lando[/nation] &#151; Humanitarian &#150; Poland
 [nation=short]Vintersborg[/nation] &#151; Monarchy &#150; Svalbard
