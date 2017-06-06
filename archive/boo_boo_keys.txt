@@ -9,7 +9,8 @@
 [nation]Crounwichland[/nation] [i](Dominion of Libertaea)[/i]
 [nation]Unieshan[/nation] 
 [nation]Fanace[/nation] 
-[i]Observer:[/i] [nation]Sylonox[/nation]
+[nation]Sylonox[/nation]
+[nation]Publicam_Liberam[/nation] 
 
 [i][b][color=red]Intonian Protection Sphere (IPS)[/i][/b][/color]
 [nation]Intonian[/nation]

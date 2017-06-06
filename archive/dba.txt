@@ -1,3 +1,4 @@
-[color=800000][b]DBA[/b][/color]
-
-[color=006400]a [nation=short]Dog Lake[/nation] region[/color]
+[color=maroon][b]DBA[/b][/color]
+[color=navy]Founded: 2017 June 6[/color]
+[color=darkgreen]This is a [region=0000] region[/color]
+[color=darkcyan][i]Embassy Offers will be Considered/Accepted[/i][/color]
