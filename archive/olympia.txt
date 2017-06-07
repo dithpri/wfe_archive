@@ -9,4 +9,10 @@
 [u][color=darkblue]Interim Regional Government[/color][/u]
 
 [color=red]Founder: [nation]MMS Nation[/nation][/color]
-[color=red]Executive Director: [nation]Holden Fatheration[/nation][/color]
+[color=red]President: [nation]MMS Nation[/nation][/color]
+
+[color=blue]Vice President: [nation]Arbor Mist[/nation][/color]
+[color=blue]Chief of Staff: [nation]Pychto[/nation][/color]
+
+[color=darkorange]Secretary of Domestic Affairs: [nation]Holden Fatheration[/nation][/color]
+[color=darkorange]Secretary of Foreign Affairs: [nation]Sawatchia[/nation][/color]

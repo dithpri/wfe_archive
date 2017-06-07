@@ -22,6 +22,7 @@
 [b] RP Director [nation=short]United_Soviet_States_of_Russian_Empire[/nation]
 Military Organizer [nation=short]Astanmark[/nation]
 Economic Advisor [nation=short]Xiulens[/nation]
-Social Monitor [nation=short]Knastrovia[/nation] [/b]
+Social Monitor [nation=short]Knastrovia[/nation]
+Cartographer [nation=short]Frenxistan[/nation] [/b]
 
 
