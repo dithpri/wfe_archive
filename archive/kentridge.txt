@@ -4,9 +4,11 @@ Baka Burasutaa:
 2% : Beverage Sales.
 3% : Political Freedom and Pizza Delivery.
 4% : Obesity and Civil Rights.
-8% : Rudeness.
-9% : Youth Rebelliousness, Charmlessness, and Retail.
-10% : Death Rate.
+5% : Retail.
+7% : Rudeness.
+8% : Youth Rebelliousness.
+9% : Crime and Charmlessness.
+10% : Death Rate and Political Apathy.
 Misc. : Founder.
 
 Mick and Rorty:
