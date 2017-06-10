@@ -2,11 +2,12 @@ Trophies:
 
 Baka Burasutaa:
 2% : Beverage Sales.
-3% : Political Freedom, Civil Rights, and Pizza Delivery.
+3% : Political Freedom, Crime, Civil Rights, and Pizza Delivery.
 4% : Obesity.
 5% : Retail.
-6% : Crime Rudeness.
-8% : Charmlessness and Youth Rebelliousness.
+6% : Rudeness.
+7% : Charmlessness.
+8% : Youth Rebelliousness.
 9% : Ideological Radicality.
 10% : Death Rate and Political Apathy.
 Misc. : Founder.
@@ -17,4 +18,4 @@ Mick and Rorty:
 10% : Secularism.
 
 Meme Dealer:
-10% : Furniture Restoration.
+8% : Mining and Furniture Restoration.
