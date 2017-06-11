@@ -1,1 +1,6 @@
-kill me now im done with this place
+[b]This region has been annihilated by the [i][u]elite forces[/i][/u] of [region]The Invaders[/region]!
+
+Troops:[color=#9B0C00]
+General: [nation=short]Gest II[/nation] (trigger)
+Colonel: [nation=short]Tombouctu[/nation]
+Captain: [nation=short]Hired Contractor II[/nation][/color][/b]

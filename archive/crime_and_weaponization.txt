@@ -1,8 +1,6 @@
-Hey guys its time to wake up with a shot of espresso!
+[b]This region has been annihilated by the [i][u]elite forces[/i][/u] of [region]The Invaders[/region]!
 
-[b]TEAM ESPRESSO[/b]
-[b][nation]New Syl[/nation], Sergente/Legionnaire,  [region]The Mafia[/region]/ [region]Arda en Estel[/region] 
-[nation]Imperial Legion 1[/nation]/ General/[region]Arda en Estel[/region] 
-[nation]St Chron[/nation], Marine, [region]The Universal Allegiance[/region] [/b]
-
-&quot;If you would please approach the window, enter all your weapons into the metal box, and proceed to the front door that would be great! We&#39;ll relocate these weapons to criminals who actually [i]know[/i] how to use them!&quot;
+Troops:[color=#9B0C00]
+General: [nation=short]Gest II[/nation] (trigger)
+Colonel: [nation=short]Tombouctu[/nation]
+Captain: [nation=short]Hired Contractor II[/nation][/color][/b]
