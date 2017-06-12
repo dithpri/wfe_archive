@@ -11,9 +11,9 @@
 
 Command Council
 
-[color=#9B0C00]Commander: [nation=short]Gest_II[/nation]
-Intelligence: [nation=short]Shadows_Song[/nation]
-Advisors:[/color] [nation=short]T_E_Lawrence[/nation], [nation=short]Rain_Delay[/nation]
+[color=#9B0C00]Dear Leader: [nation=short]Gest_II[/nation]
+Generals: [nation=short]Hired_Contractor_II[/nation], [nation=short]Tombouctu[/nation]
+Advisors:[/color] [nation=short]T_E_Lawrence[/nation], [nation=short]Rain_Delay[/nation], [nation=short]Shadows_Song[/nation]
 [hr]
 
 Order of the Day:

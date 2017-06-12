@@ -16,6 +16,8 @@
 
 [b]Foreign Affairs[/b]: [nation=short]Remnants of Exilvania[/nation]
 
+[b]Mercenary Captain[/b]: [nation=short]Pracinha[/nation]
+
 [hr]
 
-[b]Featured Acquisitions: [region]Pact of Steel[/region][/b] and [b][region]Axis[/region][/b]
+[b]Featured Acquisitions: [region]East Germany[/region][/b] and [b][region]Versailles[/region][/b]

@@ -3,5 +3,7 @@
 a non-recognized state
 a non-recognized possession of [region=Turkiye]
 
-This region will be used as a Matrix Puppet Region
+This region will be used as a Oracle Puppet Region
 a [region=0000] &amp; RHW Alliance region
+
+Takes too much effort to create a new Matrix Region

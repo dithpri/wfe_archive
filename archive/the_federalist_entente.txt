@@ -2,15 +2,8 @@
 
 [i]&quot;We don&#39;t form coalitions with joke parties.&quot;[/i][list]&amp;#8213;Martin Sonneborn, Leader of Die PARTEI, 2010[/list]
 
-[b]Delegate Candidates[/b][hr]
-Federalist Party[list]
-[nation]Sation Nate[/nation]
-[nation]BehDuse[/nation][/list]
-Opposition [i]PARTY[/i][list]
-[nation]Overgrown Olive Gardens[/nation][/list]
-[b]Regional Information[/b][hr][list]
-[*]The Federalist Entente is administered by the [b]The Federalist Party[/b] and [b]The Opposition [i]PARTY[/i][/b]. Polls held intermittently reorganises cabinet.
-[*]Parties may engage in rhyming debates to impress, object to, or humiliate each other.
-[*]Please join the WA and endorse the heads of both parties.
-[/list]
-Also, give regards to our sister region, [region]The Monarchist Entente[/region].
+[b]Delegate Candidates[/b][hr][list]
+[nation]Sation Nate[/nation] [i](Federalist)[/i]
+[nation]BehDuse[/nation] [i](Federalist)[/i]
+[nation]Overgrown Olive Gardens[/nation] [i](Opposition Party)[/i]
+[nation]The Union of Io and Callypso[/nation] [i](Independent)[/i][/list]
