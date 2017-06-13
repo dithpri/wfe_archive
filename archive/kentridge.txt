@@ -1,20 +1,29 @@
 Trophies:
 
 Baka Burasutaa:
-2% : Beverage Sales, Political Freedom, Crime, and Pizza Delivery.
+2% : Beverage Sales and Crime.
+3% : Political Freedom and Pizza Delivery.
 4% : Obesity and Retail.
-5% : Rudeness.
-6% : Civil Rights.
+5% : Civil Rights.
+6% : Rudeness.
 7% : Charmlessness.
-8% : Youth Rebelliousness.
-9% : Weaponization, Death Rate, Drug Use, and Ideological Radicality.
-10% : Political Apathy.
+9% : Youth Rebelliousness, Weaponization, and Drug Use.
+10% : Death Rate and Political Apathy.
 Misc. : Founder.
 
 Mick and Rorty:
-8% : Trout Fishing.
-9% : Political Apathy.
-10% : Law Enforcement.
+3% : Trout Fishing.
+8% : Foreign Aid.
+9% :  Political Apathy and Law Enforcement.
+
+Kek Kekastan:
+10% : Cheese Exports
 
 Meme Dealer:
-8% : Mining and Furniture Restoration.
+6% : Mining.
+9% : Furniture Restoration and Death Rate.
+10% : Secularism.
+
+Ming Li:
+7% : Gambling
+9% : Trout Fishing

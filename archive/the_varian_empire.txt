@@ -6,5 +6,7 @@ General of the Army: [nation=short]The_Grand_Ol_Nation[/nation]
 Lieutenant General: [nation=short]Curvatis[/nation]
 Grand Inquisitor: [nation=short]kriles[/nation]
 [/color]
+[region]H Y D R A[/region]:
+Malice
 
 [color=scarlet]For the Chaos Gods, let the galaxy burn![/color][/b]

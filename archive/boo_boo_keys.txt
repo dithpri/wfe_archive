@@ -11,15 +11,20 @@
 [nation]Fanace[/nation] 
 [nation]Publicam_Liberam[/nation] 
 [nation]Valucha[/nation] 
+[i]Affiliated:[/i] [nation]Koa_o[/nation]
 
 
-[i][b][color=red]Intonian Protection Sphere (IPS)[/i][/b][/color]
+[i][b][color=purple]Intonian Protection Sphere (IPS)[/i][/b][/color]
+
 [nation]Intonian[/nation]
-[nation]East_Rienstiedt[/nation]
 [nation]Seperuratum[/nation]
 [nation]Corava[/nation]
 [nation]Galiziae[/nation]
 [nation]Sylonox[/nation]
 
-[b][i]Wanna be a tyrant? You should probably join [color=red]IPS[/color] for that, and if you&#39;re basically anything else that holds &quot;elections&quot; and likes capitalism, join [color=blue]NOTCOM[/color][/b][/i]
+[i][b][color=crimson]The Asgard Pact (The First International)[/i][/b][/color]
+
+[nation]Rurikstead[/nation]
+[nation]East_Rienstiedt[/nation]
+
 
