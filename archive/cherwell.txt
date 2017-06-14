@@ -1,7 +1,9 @@
-[b][color=darkblue] A union of multiple countries established to support each other through difficult times.
+[b][color=#FF0000]Welco[/color][color=#FF7F00]me to[/color][color=#FFD12A] the [/color][color=#00FF00]Cherw[/color][color=#0000FF]ell R[/color][color=#9400D3]eigon[/color]
+
+[color=darkblue] A union of multiple countries established to support each other through difficult times.
 
 For polls, the scoring system is to do with Influence, and is as follows:[/color]
-[color=darkorange]Medium: 4 Points[/color]
-[color=orange]Low: 3 Points[/color]
+[color=orange]Medium: 4 Points[/color]
+[color=#FF4500]Low: 3 Points[/color]
 [color=red]Very Low: 2 Points[/color]
 [color=darkred]None: 1 Point [/color][/b]
