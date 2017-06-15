@@ -1,12 +1,14 @@
-The Allied Federation of Nations is an intergovernmental treaty and collective defense organization. The AFN exists to encourage dialogue and cooperation on issues such as collective security, human rights, and trade. All member nations are voting members of the Senate.
+The Allied Federation of Nations is an intergovernmental treaty and collective defense organization. The AFN exists to encourage dialogue and cooperation on issues such as collective security, human rights, and trade. 
 
-[b]Security Council (SecCon)[/b]
-[nation]Bubbalania[/nation]
-[nation]Souten Sheld[/nation]
-[nation]Gotesbourg[/nation]
-[nation]West Drasnia[/nation]
+[b]Security Council[/b]
+Supreme Allied Commander (SAC) - [nation]Bubbalania[/nation] 
+Director of Internal Operations - [nation]Souten Sheld[/nation]
+President of the Council - [nation]Gotesbourg[/nation]
 
-The [region]Annex of Allied Federation of Nations[/region] is a client region of this alliance. The AFN is a signatory of the [url=https://www.nationstates.net/page=dispatch/id=666798]International Trade and Defense Association[/url].
+The [region]Annex of Allied Federation of Nations[/region] is a client region of this alliance. Please join our regional party, [url=https://www.nationstates.net/page=dispatch/id=839518]The United Federation[/url].
+
+[hr]
+[b]State of Emergency declared: 15th June[/b]
 
 [hr]
 We highly recommend installing [url=https://nationstatesplusplus.net/install]Nationstates++[/url] or [url=https://forum.nationstates.net/viewtopic.php?f=15&amp;t=304199]LibreNS++[/url].
