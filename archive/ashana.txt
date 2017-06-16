@@ -1,11 +1,14 @@
-[b]The Region of [color=#6dceb6]Ashana[/color][/b][hr]
-Welcome to Ashana, a Land of prominent post-modern nations with the Assembly of Nations, consisting of nations that hold global Influence on Ashana; 
+[b]The Regional Board of [color=#6dceb6]Ashana[/color][/b][hr]Welcome to Ashana, a Land of prominent post-modern nations with the Assembly of Nations, consisting of nations that hold global Influence on Ashana; 
 with three nations holding permanent seats within the Assembly.
 
-[b]Assembly Officials[/b]
-&#149; Arbitrator - [nation=noflag]Chun nan[/nation] *Permanent Seat*
-&#149; Secretariat - [nation=noflag]Soleanna[/nation] *Permanent Seat*
-&#149; Secretariat - [nation=noflag]Cascun[/nation] *Permanent Seat*
+[hr]
 
-[color=#8b81ce][b]Regional Discord[/b][/color]
-https://discord.gg/UHxmvvw
+[color=#4dbd7c][b]Regional News[/b][/color]
+&#149; [nation=noflag]Cascun[/nation] has made territorial claims south of its nation
+[hr][b]Assembly Officials[/b]
+&#149; Arbitrator - [nation=noflag+short]Chun nan[/nation] *Elected Seat*
+&#149; Secretariat - [nation=noflag+short]Soleanna[/nation] *Permanent Seat*
+&#149; Secretariat - [nation=noflag+short]Cascun[/nation] *Permanent Seat*
+
+[hr][color=#8b81ce][b]Regional Discord[/b][/color]
+[url=https://discord.gg/UHxmvvw]Discord Link[/url]
