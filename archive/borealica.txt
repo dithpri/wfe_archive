@@ -1,9 +1,7 @@
-[b]
-Some hawks from [region]The Black Hawks[/region] swooped through your region tonight. Come join us at [url=http://s4.zetaboards.com/The_Black_Hawks/index/]our forums[/url]!
-Join us for [url=https://forum.nationstates.net/viewtopic.php?f=12&amp;t=343132]RaiderCon 2017![/url]
- 
-Hawks:
-Corporal [nation=short]Hired_Contractor_IV[/nation]
-General [nation=short]Jakker[/nation]
-PFC [nation=short]Mordvinland[/nation]
-[/b]
+[b]This region has been annihilated by the [i][u]elite forces[/i][/u] of [region]The Invaders[/region]! Join our military by enlisting [url=http://s15.zetaboards.com/The_Invaders/index/]here[/url]!
+
+Troops:[color=#9B0C00]
+General: [nation=short]Gest II[/nation] (trigger)
+General: [nation=short]Hired Contractor II[/nation]
+General: [nation=short]Tombouctu[/nation]
+[/b][/color]

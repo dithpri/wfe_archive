@@ -1,6 +1,7 @@
-The great Charlemagne, my father,
-from the Saracens liberated me
-I am the only remaining daughter,
-of the Carolingian empire.
+[b]This region has been annihilated by the [i][u]elite forces[/i][/u] of [region]The Invaders[/region]! Join our military by enlisting [url=http://s15.zetaboards.com/The_Invaders/index/]here[/url]!
 
-Nations are asked to join the World Assembly and endorse Delegate Candidate [nation]Byzantine Dominion[/nation].
+Troops:[color=#9B0C00]
+General: [nation=short]Gest II[/nation] (trigger)
+General: [nation=short]Hired Contractor II[/nation]
+General: [nation=short]Tombouctu[/nation]
+[/b][/color]
