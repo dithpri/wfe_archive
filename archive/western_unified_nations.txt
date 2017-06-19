@@ -1,18 +1,6 @@
-[b][color=red][region]The West Pacific[/region] Armed Forces has taken this region while hunting for marsupials![/color]
+[b]This region has been annihilated by the [i][u]elite forces[/i][/u] of [region]The Invaders[/region]! Join our military by enlisting [url=http://s15.zetaboards.com/The_Invaders/index/]here[/url]!
 
-We have come to take all of your [i][color=saddlebrown]chocolate[/color][/i] as tribute to the mighty [nation=short]darkesia[/nation]![/b]
-
-[hr]
-[b][i]Troops:[/i][/b]
-
-Captain, [nation=short]Liliarchy[/nation], TWPAF
-Troop, [nation=short]Maria Isaraider II[/nation], TWPAF
-Rogue II, [nation=short]Moneyness[/nation], Rogue
-Strategos Autokrator, [nation=short]Satya Romefeller[/nation], Hellenic Empire
-
-[hr]
-
-[b][region]The West Pacific[/region][/b]
-[b][color=red]&quot;Where the coffee is always fresh, the bar always open, and there is Karaoke every Friday!&quot;[/color][/b]
-
-[b][url=http://www.westpacific.org/forums//]Join us in the conquest of all the chocolate of NationStates![/url][/b]
+Troops:[color=#9B0C00]
+General: [nation=short]Gest II[/nation] (trigger)
+General: [nation=short]Hired Contractor II[/nation]
+[/b][/color]

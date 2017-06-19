@@ -5,8 +5,7 @@
 [color=ff0000]Forum[/color]: [url=http://forum.nationstates.net/]Local[/url] [color=808080](beware of impostors).[/color]
 [color=ff0000]Off-site Forum[/color]: [color=0000ff]None[/color] [color=808080](beware of impostors).[/color]
 [color=ff0000]Offices[/color]: [color=0000ff]Available[/color] [color=808080]for [url=https://www.nationstates.net/page=un]World Assembly[/url] nations.[/color]
-[color=ff0000]Titles[/color]: [color=0000ff]Available[/color] [color=808080]for resident nations.[/color][spoiler=&amp;#9760;&amp;#65039;]&amp;#9760;
-Apps: [url=http://www.mediafire.com/download/5rbizaw04xbyb94/nationstates_autotelegram_0.4.0_bin.zip]AutoTelegram[/url], [url=https://github.com/auralia/nationstates-nation-manager/releases/tag/v0.2]Nation Manager[/url].
+[color=ff0000]Titles[/color]: [color=0000ff]Available[/color] [color=808080]for resident nations.[/color][spoiler=&amp;#9760;&amp;#65039;]Apps: [url=http://www.mediafire.com/download/5rbizaw04xbyb94/nationstates_autotelegram_0.4.0_bin.zip]AutoTelegram[/url], [url=https://github.com/auralia/nationstates-nation-manager/releases/tag/v0.2]Nation Manager[/url].
 Archives: [url=https://www.nationstates.net/page=archive]NSArchives[/url], [url=http://udl.taijitu.org/images/rflags/]Region Flags[/url], [url=http://udl.taijitu.org/wfe_index/]WFE Index[/url].
 Calculators: [url=http://nseconomy.thirdgeek.com/]NSEconomy[/url], [url=http://nsdossier.texasregion.net/]NSSuite[/url], [url=http://www.nstrackers.net/]NSTracker[/url].
 Flags: [url=https://fakeflag.net/]Fake[/url], [url=http://rollforfantasy.com/tools/flag-creator.php]PNG[/url], [url=http://www168.lunapic.com/editor/?action=flag-generator]PNG Photo[/url],  [url=http://flag-designer.appspot.com/]SVG[/url],  [url=http://www.fileformat.info/convert/image/svg2raster.htm]SVG Converter[/url].
@@ -15,4 +14,5 @@ Names:[url=http://www.randomlists.com/random-animals]Animal[/url], [url=http://w
 Papers: [url=http://sebpearce.com/bullshit/]New Age[/url], [url=http://www.elsewhere.org/pomo/]Post-modern[/url], [url=https://pdos.csail.mit.edu/archive/scigen/]Scientific[/url], [url=http://snarxiv.org/]SnarXiv[/url].
 Propaganda: [url=http://www.atrixnet.com/bs-generator.html]Buzzphrase[/url], [url=https://www.onlinecandidate.com/campaign-platform-generator.html]Platform[/url], [url=https://phrasegenerator.com/politics]Rhetoric[/url].
 Speech: [url=http://www.oldmouse.com/articles/speech.html]Campaign[/url], [url=http://www.ministryoflorem.com/]Press Release[/url], [url=http://trump.frost.works/]Trump[/url].
-Wikis: [url=http://iiwiki.com/]IIwiki[/url], [url=https://nsindex.net]NSIndex[/url], [url=http://nswiki.org/]NSWiki[/url], [url=http://nationstates.wikia.com/]WikiStates[/url].[/spoiler]
+Wikis: [url=http://iiwiki.com/]IIwiki[/url], [url=https://nsindex.net]NSIndex[/url], [url=http://nswiki.org/]NSWiki[/url], [url=http://nationstates.wikia.com/]WikiStates[/url].
+&amp;#9760;[/spoiler]

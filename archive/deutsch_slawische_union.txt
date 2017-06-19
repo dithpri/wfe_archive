@@ -13,5 +13,7 @@ Unionsgerichthof:
 [nation]Confederate Prussia[/nation]
 Unionsparlament:
 [nation]Confederate Poland-Lithuania[/nation]
+Unionsverwaltung:
+[nation]Confederate Austria-Hungary[/nation]
 -------------------------------------
 [colour=blue]We need Nations with Slavic and German Names[/colour]

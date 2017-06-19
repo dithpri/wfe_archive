@@ -1,26 +1,25 @@
 Trophies:
 
 Baka Burasutaa:
-2% : Beverage Sales and Crime.
-3% : Pizza Delivery.
-4% : Obesity, Retail, and Weaponization.
-7% : Charmlessness.
-9% : Youth Rebelliousness, Political Apathy, and Civil Rights.
-10% : Drug Use and Death Rate.
+2% : Beverage Sales, Pizza Delivery, and Crime.
+3% : Obesity.
+4% : Retail and Weaponization.
+7% : Charmlessness and Drug Use.
+9% : Youth Rebelliousness, Political Apathy, Death Rate, and Civil Rights.
 Misc. : Founder.
 
 Mick and Rorty:
 7% : Insurance
 8% : Foreign Aid and Law Enforcement.
+9% : Political Apathy.
 
 Kek Kekastan:
-9% : Cheese Exports
+6% : Cheese Exports
 
 Meme Dealer:
-6% : Mining.
+7% : Mining.
 8% : Death Rate.
-9% : Furniture Restoration
-10% : Political Apathy.
+10% : Furniture Restoration and Political Apathy.
 
 Ming Li:
 7% : Gambling
