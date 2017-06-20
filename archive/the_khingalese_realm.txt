@@ -7,8 +7,5 @@ Puppet storage for all nations under control of the player controlling [nation]K
 [nation=short]Al Etihad[/nation] &#151; Socialism &#150; Western Sahara
 [nation=short]Khingan[/nation] &#151; Libertarian &#150; Central Asia
 [nation=short]Mediaterra[/nation] &#151; Liberal &#150; Mediterranean
-[nation=short]Negeri_Pulau_Pinang[/nation] &#151; Sharia &#150; Western Malaysia
 [nation=short]Rhein-Erft[/nation] &#151; Personal &#150; North Rhine-Westphalia
-[nation=short]The_Offshore[/nation] &#151; Benevolent dictatorship &#150; Cape Verdean Islands
 [nation=short]Unua Lando[/nation] &#151; Humanitarian &#150; Poland
-[nation=short]Vintersborg[/nation] &#151; Monarchy &#150; Svalbard
