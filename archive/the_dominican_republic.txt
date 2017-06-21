@@ -20,3 +20,5 @@ Vice President: [nation]Emirate Islands[/nation]
 Minister of the Presidency: [nation]Dracnicov[/nation]
 
 Minister of Foreign Affairs: EMPTY
+
+Minister of Defense: [nation]Aric[/nation]
