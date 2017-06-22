@@ -3,8 +3,8 @@
 [hr][color=blue][b]WA Members[/b][/color]: Please Endorse Our WA Delegate [nation]Tyrnica[/nation][hr]
 
 [u][B][color=#FF0000]Regional Government[/color][/B][/u]
-[B]- Chairman:[/B] [nation]Nickeria[/nation] ([color=#B00404][b]WP.[/b][/color])
-[B]- Vice Chairman:[/B] [nation]Blayk[/nation] ([color=#B00404][b]WP.[/b][/color])
+[B]- Chairman:[/B] [nation]The Democratic Soviet Union[/nation] ([color=gray][b]Ind.[/b][/color])
+[B]- Vice Chairman:[/B] [nation]New Deutschlandium[/nation] ([color=gray][b]Ind.[/b][/color])
 
 
 [u][b][color=#40BF00]The General Assembly[/color][/b][/u]
@@ -16,6 +16,6 @@
 
 
 [u][B][color=#FFBF00]Security Council[/color][/B][/u]
-[nation]New Deutschlandium[/nation]
 [nation]Booshdeedneeneelavarn[/nation]
 [nation]Poldarias[/nation]
+[nation]Nickeria[/nation]
