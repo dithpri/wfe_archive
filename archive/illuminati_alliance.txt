@@ -1,11 +1,11 @@
-[color=maroon][b]Welcome to the Illuminati Alliance[/b]
+[color=Red][b]Welcome to the Illuminati Alliance[/b]
 
 The Illuminati Alliance serves as a &#39;Hub&#39; region for all the realms within.  Nations seeking membership into the Illuminati Alliance should join one of the regions below.
 
 [b][u]Leadership:[/u][/b]
 [b]57th Grand Chancellor:[/b] [nation=short]Ezaro[/nation]
-[b]Ravana Monarch:[/b]
-[b]Elysia Monarch:[/b]
+[b]Ravana Monarch:[/b] [nation=short]Abraxim[/nation]
+[b]Elysia Monarch:[/b] [nation=short]Glaciosia[/nation]
 [b]Argonia Monarch:[/b]
 [b]Lavathia Monarch:[/b]
 [b]Machina Monarch:[/b]

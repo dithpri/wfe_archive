@@ -12,4 +12,7 @@ Unionskanzlei:
 Unionsparlament:
 [nation]Confederate Austria-Hungary[/nation]
 -------------------------------------
+Allies:
+[region]Slawische Union[/region]
+-------------------------------------
 We need Nations with German Names
