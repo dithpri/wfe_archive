@@ -6,9 +6,8 @@ Warmaster: [nation=short]Grarrgtopia[/nation]
 Master of Laws: [nation=short]Dragonpitopia[/nation]
 Master of Foreign Affairs: [nation=short]Raptures End[/nation]
 
-Crown Princess: [nation=short]Sylvenea[/nation]
-First Princess: [nation=short]Clanktopolis[/nation]
-Second Princess: [nation=short]Legendary Islands[/nation]
+Crown Princess: [nation=short]Clanktopolis[/nation]
+First Princess: [nation=short]Legendary Islands[/nation]
 Crown Prince: [nation=short]Gilmores Glorious Empire[/nation]
 First Prince: 
 
