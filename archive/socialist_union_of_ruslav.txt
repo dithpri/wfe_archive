@@ -1,12 +1,9 @@
-[b][color=#708090]This region has been assassinated by the champions of [region]HYDRA Command[/region]![/color]
+[b][color=#CB2727]This region has been seized by the unwavering legions of [region]The Roman Empire[/region], and now pays tribute to its people. If you wish to become part of the Roman war machine and explore new lands with your brothers in arms, then visit our [url=http://s15.zetaboards.com/Rome/index/]headquarters[/url].[/color]
 
-[i][url=https://www.youtube.com/watch?v=izGwDsrQ1eQ][color=#FF8000]&quot;Cut off one head, two more will take its place. HAIL HYDRA!&quot;[/color][/url][/i]
+[u]The invading troops:[/u]
+Emperor [nation=short]Plagentine[/nation] - trigger
+Legatus [nation=short]Kyorgia[/nation] - point
+General [nation=short]Hired_Contractor_II[/nation] - switcher, from [region]The Invaders[/region]
+General [nation=short]Tombouctu[/nation] - point, from [region]The Invaders[/region]
 
-[color=#DAA520]Troops:[/color]
-[color=#B22222]
-Lieutenant: [nation=short]Vapid Vasentius[/nation]
-Director: [nation=short]Tom Vasentius HYDRA[/nation]
-Major: [nation=short]Varax Omni[/nation]
-Lieutenant: [nation=short]Yuno Isaraider[/nation]
-Sergeant: [nation=short]The Great Wall of Mexico[/nation][/color][/b]
-[hr]
+[color=#CB2727]Long live the Roman Empire, long live the Emperor![/color][/b]

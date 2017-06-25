@@ -1,11 +1,9 @@
-This is the new Region formed by the Kingdom of the Noble New. 
+[b][color=#CB2727]This region has been seized by the unwavering legions of [region]The Roman Empire[/region], and now pays tribute to its people. If you wish to become part of the Roman war machine and explore new lands with your brothers in arms, then visit our [url=http://s15.zetaboards.com/Rome/index/]headquarters[/url].[/color]
 
-This kingdom is looking forward into creating a worldwide scale of a centralized and unopposed government that shall be known as &quot;El Primer Gobierno Mundial Uno&quot; that stands for &#39;The First World Government One.&#39;
+[u]The invading troops:[/u]
+Emperor [nation=short]Plagentine[/nation] - trigger
+Legatus [nation=short]Kyorgia[/nation] - point
+General [nation=short]Hired_Contractor_II[/nation] - switcher, from [region]The Invaders[/region]
+General [nation=short]Tombouctu[/nation] - point, from [region]The Invaders[/region]
 
-Our government enforces and promotes the monarchy of the upper-hand level of this region. 
-
-We are endorsing the competency over other nations and other regions in order for our kingdom to rise over the horizons of our world. 
-
-Join the Kingdom to our way to Victory!
-
-Victors are We!
+[color=#CB2727]Long live the Roman Empire, long live the Emperor![/color][/b]

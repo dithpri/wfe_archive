@@ -1,5 +1,9 @@
-The Phlarish Ocean, a prosperous region which is an economic and political union to unify the area. Inner trade between the region generates wealth, boosting the power of the coastal cities and capitals, enriching nations.
+[b][color=#CB2727]This region has been seized by the unwavering legions of [region]The Roman Empire[/region], and now pays tribute to its people. If you wish to become part of the Roman war machine and explore new lands with your brothers in arms, then visit our [url=http://s15.zetaboards.com/Rome/index/]headquarters[/url].[/color]
 
-[THE FLAG] The flag represents the ocean, the spirals between land and sea. The violet colour represents the importance of trade and prosperity brought by it. The Rose sky represents the sun in the sky, illuminating the ocean.
+[u]The invading troops:[/u]
+Emperor [nation=short]Plagentine[/nation] - trigger
+Legatus [nation=short]Kyorgia[/nation] - point
+General [nation=short]Hired_Contractor_II[/nation] - switcher, from [region]The Invaders[/region]
+General [nation=short]Tombouctu[/nation] - point, from [region]The Invaders[/region]
 
-[THE RULES OF THE SEA] The rules of the sea dictate that members must be respectful to one another and behave responsibly. 
+[color=#CB2727]Long live the Roman Empire, long live the Emperor![/color][/b]

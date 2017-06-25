@@ -1,36 +1,9 @@
-[b][region]The Black Hawks[/region] welcomes you to join [url=http://s4.zetaboards.com/The_Black_Hawks/index/] here [/url] if you wish to raid as well.
+[b][color=#CB2727]This region has been seized by the unwavering legions of [region]The Roman Empire[/region], and now pays tribute to its people. If you wish to become part of the Roman war machine and explore new lands with your brothers in arms, then visit our [url=http://s15.zetaboards.com/Rome/index/]headquarters[/url].[/color]
 
-[region]Rivet[/region]
-[region]Ace_space[/region]
-[region]International_demo_republican_pact[/region]
-[region]Dhoka[/region]
-[region]Ide[/region]
-[region]Neo_fascist_alliance[/region]
-&#39;
+[u]The invading troops:[/u]
+Emperor [nation=short]Plagentine[/nation] - trigger
+Legatus [nation=short]Kyorgia[/nation] - point
+General [nation=short]Hired_Contractor_II[/nation] - switcher, from [region]The Invaders[/region]
+General [nation=short]Tombouctu[/nation] - point, from [region]The Invaders[/region]
 
-[region]Right_is_right[/region]
-[region]Eastern_european_commonwealth[/region]
-[region]Gullin15_official_fan_club[/region]
-[region]Iron_mountains[/region]
-[region]Onomatopia[/region]
-[region]New_cshlandia[/region]
-[region]Secret_society_of_nations[/region]
-
-[region]Imgur[/region]
-[region]Sinlond[/region]
-
-[region]Lycea[/region]
-[region]Islands_of_atlantic_ocean[/region]
-[region]Free_nations[/region]
-[region]Evacia[/region]
-
-
-Raidin Hawks:
-[nation]Moneyness[/nation] Sergeant (trigger)
-[nation]Liberoscia[/nation] CPL
-[nation]Hired Contractor IV[/nation] PFC
-[nation]Jayraqia[/nation] PFC
-
-Raidin Friends:
-[nation]Stratarin[/nation] CPL from ESPA
-[nation]Vando0sa[/nation] of Kawaii[/b]
+[color=#CB2727]Long live the Roman Empire, long live the Emperor![/color][/b]

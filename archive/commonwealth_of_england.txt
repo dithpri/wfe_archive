@@ -1,8 +1,8 @@
 [hr][hr]
-[color=gold][region]Tradewinds[/region] was founded by [nation]Mento Pololand[/nation] in November of 2013.[/color]
+[b][color=gold][region]Tradewinds[/region] was founded by [nation]Mento Pololand[/nation] in November of 2013.[/color]
 
-[color=67bbk9]On February 17, 2017 the [b][region]Benevolent Empire[/region][/b] became the fourth founder of the region.[/color]
-[hr][hr]
+[color=67bbk9]On February 17, 2017 the [region=Benevolent Empire] became the fourth founder of the region.[/color]
+[hr][hr][/b]
 
 
 [u][b]From the Archives - December 2013[/u][/b]
