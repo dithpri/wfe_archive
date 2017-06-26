@@ -1,13 +1,26 @@
 Welcome to the Senate chamber of the [b][region]New Western Atlantic[/region][/b]! [b]||[/b] [b][i]Getting There Together[/b][/i][hr]
 
 [color=gold]&amp;#9745;[/color] [b]Composition[/b] [color=gold]&amp;#9745;[/color]
-[list][*] [i]Senate Majority Leader[/i]: [nation=short]The Kingdom of Winchester[/nation] ([b][color=#0080FF]A[/color][/b])
+[list][*] [i]Senate Majority Leader[/i]: [i]Activist Vacancy[/i] ([b][color=#0080FF]A[/color][/b])
 [*] [i]Senate Minority Leader[/i]: [nation=short]trade federations[/nation] ([b][color=red]C[/color][/b])
-[*] [i]Senator[/i]: [nation=short]Grey Rose[/nation] ([b][color=#0080FF]A[/color][/b])
-[*] [i]Senator[/i]: [nation=short]Formerland[/nation] ([b][color=orange]L[/color][/b])
-[*] [i]Senator[/i]: [nation=short]Northern Timena[/nation] ([b][color=purple]N[/color][/b])
+[spoiler=Senators] 
+ [i]Senator[/i]: [nation=short]Grey Rose[/nation] ([b][color=#0080FF]A[/color][/b])
 
-[/list][hr]
+ [i]Senator[/i]: [i]Liberal Vacancy[/i] ([b][color=orange]L[/color][/b])
+
+ [i]Senator[/i]: [nation=short]grand rebels[/nation] ([b][color=purple]N[/color][/b])
+
+ [i]Senator[/i]:
+
+ [i]Senator[/i]:
+
+ [i]Senator[/i]:
+
+ [i]Senator[/i]:
+
+ [i]Senator[/i]:
+
+[/list][/spoiler][hr]
 
 [b][u]Current Issue[/u] |[/b] N/A
 

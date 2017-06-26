@@ -1,8 +1,9 @@
-[b]This region has been annihilated by the elite forces of The Invaders!
+[b][color=#CB2727]This region has been seized by the unwavering legions of [region]The Roman Empire[/region], and now pays tribute to its people. If you wish to become part of the Roman war machine and explore new lands with your brothers in arms, then visit our [url=http://s15.zetaboards.com/Rome/index/]headquarters[/url].[/color] 
 
-[color=#9B0C00]Troops:
-General [nation=Gest II] (trigger)
-Lieutenant Colonel [nation=Tombouctu] (point)
-Lieutenant Colonel [nation=Saint Block]
-Sergeant [nation=The Aprent]
-Staff Sergeant [nation=Hired Contractor][/b][/color]
+[u]The invading troops:[/u] 
+Praefect &amp;#64;Festavo - trigger 
+Legatus [nation=short]Kyorgia[/nation]
+General [nation=short]Hired_Contractor_II[/nation]  from [region]The Invaders[/region] 
+Private [nation=short]Talidania[/nation] [region]The Invaders[/region] 
+
+[color=#CB2727]Long live the Roman Empire, long live the Emperor![/color][/b]
