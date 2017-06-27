@@ -1,9 +1,9 @@
-Welcome to [b]Technotopia[/b], a region based on [i]liberty, equality, fraternity, diversity and harmony[/i].
+[b]This region has been annihilated by the [i][u]elite forces[/i][/u] of [region]The Invaders[/region]! Join our military by enlisting [url=http://s15.zetaboards.com/The_Invaders/index/]here[/url]!
 
-[b]TECHNOTOPIA is an independent region. It will not stand for any invasion![/b]
-
-All nations welcome. Those intending to stay must however pledge alligence to the Technotopia Constitution.
-
-[b]Forum:[/b] www.technotopia.co.nr
-
-
+Troops:[color=#9B0C00]
+General: [nation=short]Tombouctu[/nation] (trigger)
+General: [nation=short]Hired Contractor II[/nation]
+Corporal: [nation=short]Ascendant Humanity[/nation]
+Private First Class: [nation=short]Talidania[/nation]
+Private: [nation=short]NusaLand[/nation]
+[/b][/color]
