@@ -1,1 +1,7 @@
-A beautiful spot jutting out into the sea like teeth into the air when they belong to someone with bad dental care.
+[b]This region has been annihilated by the [i][u]elite forces[/i][/u] of [region]The Invaders[/region]! Join our military by enlisting [url=http://s15.zetaboards.com/The_Invaders/index/]here[/url]!
+
+Troops:[color=#9B0C00]
+General: [nation=short]Tombouctu[/nation] (trigger)
+General: [nation=short]Hired_Contractor_II[/nation]
+Private First Class: [nation=short]NusaLand[/nation]
+[/b][/color]

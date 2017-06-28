@@ -1,5 +1,15 @@
-The fundamental theorem of calculus is a theorem that links the concept of the derivative of a function with the concept of the function&#39;s integral.
+The first fundamental theorem of calculus states that, if [i]f[/i] is continuous on the closed interval [b][a,b][/b] and [i]F[/i] is the indefinite integral of f on [a,b], then
+int_a^bf(x)dx=F(b)-F(a). 	
+(1)
 
-The first part of the theorem is that the indefinite integral of a function is related to its antiderivative, and can be reversed by differentiation. This part of the theorem guarantees the existence of antiderivatives for continuous functions.
+This result, while taught early in elementary calculus courses, is actually a very deep result connecting the purely algebraic indefinite integral and the purely analytic (or geometric) definite integral.
 
-The second part of the theorem is that the definite integral of a function can be computed by using any one of its infinitely-many antiderivatives. This part of the theorem has key practical applications because it markedly simplifies the computation of definite integrals.
+The second fundamental theorem of calculus holds for f a continuous function on an open interval I and a any point in I, and states that if F is defined by
+F(x)=int_a^xf(t)dt, 	
+(2)
+
+then
+F^&#39;(x)=f(x) 	
+(3)
+
+at each point in I. 

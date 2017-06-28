@@ -5,7 +5,7 @@
 [u][B][color=#FF0000]Regional Government[/color][/B][/u]
 [B]- Chairman:[/B] [nation]The Democratic Soviet Union[/nation] ([color=gray][b]Ind.[/b][/color])
 [B]- Vice Chairman:[/B] [nation]New Deutschlandium[/nation] ([color=gray][b]Ind.[/b][/color])
-
+[b]- Councilor of Public Affairs:[/b] [nation]Chavakia[/nation] ([color=gray][b]Ind.[/b][/color])
 
 [u][b][color=#40BF00]The General Assembly[/color][/b][/u]
 [b]Current Legislation:[/b] Executive Council Appointments

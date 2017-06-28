@@ -1,6 +1,6 @@
-Welcome to the [b][region]Alliance of Absolute Monarchs[/region][/b].
+[color=darkblue][b]Welcome to the [/color][color=red]Alliance of Absolute Monarchs[/color][color=darkblue]. We are an alliance committed to upholding the institution of [/color][color=red]monarchy[/color][color=darkblue], and seek to promote [/color][color=red]faith[/color][color=darkblue] and [/color][color=red]tradition[/color][color=darkblue] across NationStates. 
 
-[b]We claim legal continuity with the old Alliance of Absolute Monarchs.[/b]
+We claim legal continuity with the old [/color][color=red]Alliance of Absolute Monarchs[/color][color=darkblue].[/b]
 [hr]
 [b]Holy Roman Emperor[/b]
 Elected by Prince-Electors (WA Delegate)
@@ -14,4 +14,4 @@ By appointment.
 [b]Chancellor[/b]
 [nation]Gotesbourg[/nation]
 [b]Marshal of the Estates-General[/b]
-[nation]Hesseburg-Aschaffen[/nation]
+[nation]Hesseburg-Aschaffen[/nation][/color]
