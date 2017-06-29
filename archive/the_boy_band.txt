@@ -1,8 +1,1 @@
-[b]This region has been annihilated by the elite forces of [region]The Invaders[/region]!
-
-Troops:[color=#9B0C00]
-General: [nation=short]Gest II[/nation] (trigger)
-Lieutenant Colonel: [nation=short]Tombouctu[/nation]
-Lieutenant Colonel: [nation=short]Saint Block[/nation]
-Staff Sergeant: [nation=Hired Contractor II]
-Private First Class: [nation=short]Aarol[/nation][/color][/b]
+[b]Welcome to The Boy Band. Most regional officer roles have been filled but groupies are still in high demand.[/b]

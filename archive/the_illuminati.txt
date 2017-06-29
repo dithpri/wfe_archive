@@ -2,7 +2,7 @@
 [color=ff0000]Border[/color]: [color=0000ff]Open[/color] [color=808080] to all nations.[/color]
 [color=ff0000]Embassies[/color]: [color=0000ff]Accepted[/color] [color=808080]when possible.[/color]
 [color=ff0000]Endorsement Cap[/color]: [color=0000ff]None[/color] [color=808080](direct democracy).[/color]
-[color=ff0000]Forum[/color]: [url=http://forum.nationstates.net/]Local[/url] [color=808080](beware of impostors).[/color]
+[color=ff0000]Forum[/color]: [url=http://forum.nationstates.net/]Local[/url] [color=808080].[/color]
 [color=ff0000]Off-site Forum[/color]: [color=0000ff]None[/color] [color=808080](beware of impostors).[/color]
 [color=ff0000]Offices[/color]: [color=0000ff]Available[/color] [color=808080]for resident [url=https://www.nationstates.net/page=un]World Assembly[/url] nations.[/color]
 [color=ff0000]Titles[/color]: [color=0000ff]Available[/color] [color=808080]for resident nations.[/color][spoiler=&amp;#9760;&amp;#65039;]Apps: [url=http://www.mediafire.com/download/5rbizaw04xbyb94/nationstates_autotelegram_0.4.0_bin.zip]AutoTelegram[/url], [url=https://github.com/auralia/nationstates-nation-manager/releases/tag/v0.2]Nation Manager[/url].
@@ -12,7 +12,7 @@ Flags: [url=https://fakeflag.net/]Fake[/url], [url=http://rollforfantasy.com/too
 Generators: [url=http://www.seventhsanctum.com/generate.php?Genname=government]Class[/url], [url=http://www.allfamilycrests.com/makecoatofarms.htm]Coat of Arms[/url], [url=http://www.inrebus.com/latinmottogenerator.php]Motto[/url].
 Names:[url=http://www.randomlists.com/random-animals]Animal[/url], [url=http://www.mf2fm.com/RaToNaGe/]City[/url], [url=http://nine.frenchboys.net/country.html]Country[/url], [url=http://www.seventhsanctum.com/generate.php?Genname=currency]Currency[/url], [url=http://character.namegeneratorfun.com/]Leader[/url].
 Papers: [url=http://sebpearce.com/bullshit/]New Age[/url], [url=http://www.elsewhere.org/pomo/]Postmodern[/url], [url=https://pdos.csail.mit.edu/archive/scigen/]Scientific[/url], [url=http://snarxiv.org/]SnarXiv[/url].
-Propaganda: [url=http://www.atrixnet.com/bs-generator.html]Buzzphrase[/url], [url=https://www.onlinecandidate.com/campaign-platform-generator.html]Platform[/url], [url=https://phrasegenerator.com/politics]Rhetoric[/url].
+Propaganda: [url=http://www.atrixnet.com/bs-generator.html]Buzzphrase[/url], [url=http://inspirobot.me/]Inspiration[/url],  [url=https://www.onlinecandidate.com/campaign-platform-generator.html]Platform[/url], [url=https://phrasegenerator.com/politics]Rhetoric[/url].
 Speech: [url=http://www.oldmouse.com/articles/speech.html]Campaign[/url], [url=http://www.ministryoflorem.com/]Press Release[/url], [url=http://trump.frost.works/]Trump[/url].
 Wikis: [url=http://iiwiki.com/]IIwiki[/url], [url=https://nsindex.net]NSIndex[/url], [url=http://nswiki.org/]NSWiki[/url], [url=http://nationstates.wikia.com/]WikiStates[/url].
 &amp;#9760;[/spoiler]

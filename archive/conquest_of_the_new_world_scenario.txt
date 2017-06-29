@@ -2,14 +2,17 @@ A region used for the scenario &quot;Conquest of the New World&quot;.
 
 Check out our [url=https://drive.google.com/open?id=1EEilXZ2CvBcnDekoMzZ3woIRTmc&amp;usp=sharing]Regional Map[/url]
 
-Playable countries:
+Some of our great powers:
 -England ([nation]Great Britain and Lesser Isles[/nation])
 -Spain ([nation]Spain Inquisitors[/nation])
 -France ([nation]New World France[/nation])
--Netherlands
+-Portugal ([nation]Portugal and Her Overseas Colonies[/nation])
 -Sweden ([nation]The Stormaktstiden[/nation])
 -Italy ([nation]Italy and Her Overseas Holdings[/nation])
 -Germany ([nation]Deutschland and Colonies[/nation])
--Austria
--Russia
--Portugal
+-Austria ([nation]The Habsburg Realms[/nation])
+-Netherlands ([nation]The Dutch East India Companies[/nation])
+
+Some of our other empires:
+-Russia ([nation]The Russian House of Romanov[/nation])
+-Turkey ([nation]The Ottoman Turkish Empire[/nation])
