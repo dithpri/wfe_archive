@@ -1,11 +1,7 @@
-[color=darkblue][i][b][region]The United Federation of Capitalists[/region][/b][/i] is a coalition full of [/color][color=darkblue]like-minded democratic nations[/color][color=darkblue] who have the interests of their citizens and corporations at the fore-front of their agendas. We are mostly made up with real life friends, but are open to anyone. We are willing to negotiate the construction of embassies with other regions, providing they share similar beliefs with us.[/color][hr]
-[b][i][color=purple]Regional Legislature[/color][/b][/i]; 
-[nation=shortname]Electrona[/nation], [nation=shortname]Smertonosnyy[/nation], [nation=shortname]Estashio[/nation],
-[nation=shortname]Lusignan in Solidum[/nation], [nation=shortname]Selvera[/nation], [nation=shortname]Gentlemanly Behaviours[/nation][hr]
-[color=darkblue]Rule Number One:[/color] [color=red][b][i][u]NO COMMUNISTS!!![/u][/i][/b][/color]
+[color=darkblue][i][b][region]The United Federation of Capitalists[/region][/b][/i] is a coalition full of [/color][color=darkblue]like-minded democratic nations[/color][color=darkblue] who have the interests of their citizens and corporations at the fore-front of their agendas. We are willing to negotiate the construction of embassies with other regions, providing they share similar beliefs with us.[/color][hr][color=green][b][i][region]The United Federation of Capitalists[/region][/b][/i] is a member of [u][b][i]SCUT[/b][/u][/i]. See dispatch below for more information.[/color][hr][color=darkblue][b]Rule Number One:[/color][/b] [color=red][i][u]NO COMMUNISTS!!![/u][/i][/color]
 
-[color=darkblue]Rule Number Two:[/color] [color=red][i][u]You must be a member of the WA to be eligible to hold office.[/u][/i][/color]
+[color=darkblue][b]Rule Number Two:[/color][/b] [color=red][i][u]You must be a member of the WA to be eligible to hold office.[/u][/i][/color]
 
-[color=darkblue]Rule Number Three:[/color] [color=red][i][u]All WA Member Nations must endorse the Delegate.[/color][/i][/u]
+[b][color=darkblue]Rule Number Three:[/color][/b] [color=red][i][u]All WA Member Nations must endorse the Delegate.[/color][/i][/u]
 
-[i]Telegram the Delegate for any regional or international business.[/i]
+[color=purple][i]Telegram [b]Delegate [nation=shortname]Electrona[/nation][/b] regarding any regional or international business.[/i][/color]

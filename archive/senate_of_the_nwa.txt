@@ -1,36 +1,35 @@
 Welcome to the Senate chamber of the [b][region]New Western Atlantic[/region][/b]! [b]||[/b] [b][i]Getting There Together[/b][/i][hr]
 
-[color=gold]&amp;#9745;[/color] [b]Composition[/b] [color=gold]&amp;#9745;[/color]
-[list][*] [i]Senate Majority Leader[/i]: [i]Activist Vacancy[/i] ([b][color=#0080FF]A[/color][/b])
-[*] [i]Senate Minority Leader[/i]: [nation=short]trade federations[/nation] ([b][color=red]C[/color][/b])
-[spoiler=Senators] 
- [i]Senator[/i]: [nation=short]Grey Rose[/nation] ([b][color=#0080FF]A[/color][/b])
+[b]Composition[/b] [color=gold]&amp;#9745;[/color]
+[list] [b][i]Senate Majority Leader[/i]:  [nation=short]BillNyeLand[/nation][/b] ([b][color=#0080FF]A[/color][/b])
 
- [i]Senator[/i]: [i]Liberal Vacancy[/i] ([b][color=orange]L[/color][/b])
+ [i]Senator[/i]: [nation=short]Republic of Amercas[/nation] ([b][color=#0080FF]A[/color][/b])
+
+[i]Senator[/i]: [nation=short]Grey Rose[/nation] ([b][color=#0080FF]A[/color][/b])
+
+ [i]Senator[/i]: [nation=short]Trinina[/nation] ([b][color=#0080FF]A[/color][/b])
+
+ [i]Senator[/i]: [nation=short]micky the mouse[/nation] ([b][color=orange]L[/color][/b])
+
+[i]Senator[/i]: [nation=short]ebania[/nation] ([b][color=orange]L[/color][/b])
+
+[b][i]Senate Minority Leader[/i]: [nation=short]trade federations[/nation][/b] ([b][color=red]C[/color][/b])
+
+[i]Senator[/i]: [nation=short]Astanmark[/nation] ([b][color=red]C[/color][/b])
+
+[i]Senator[/i]: [nation=short]Ormantum[/nation] ([b][color=red]C[/color][/b])
 
  [i]Senator[/i]: [nation=short]grand rebels[/nation] ([b][color=purple]N[/color][/b])
 
- [i]Senator[/i]:
+[/list][hr]
 
- [i]Senator[/i]:
-
- [i]Senator[/i]:
-
- [i]Senator[/i]:
-
- [i]Senator[/i]:
-
-[/list][/spoiler][hr]
-
-[b][u]Current Issue[/u] |[/b] N/A
-
-[b][u]Previous Vote(s)[/u] |[/b] [i]Military Creation Act (3 yeas, 0 nays), FORGE Membership (2 yeas, 2 nays)[/i]
+[b][u]Previous Vote(s)[/u] |[/b] [i]Appointed Cabinet Posts (2 yeas, 2 nays), WA Citizenship Requirement (0 yeas, 3 nays)[/i]
 [hr]
 
-[b][color=gold]&amp;#9999;&amp;#65039;[/color] Propose a Bill [color=gold]&amp;#9999;&amp;#65039;[/color][/b]
+[b] Propose a Bill [color=gold]&amp;#9999;&amp;#65039;[/color][/b]
 
 [i]Use the format listed below in order for the NWA High Court to hear a case, and post it in the [region]Senate of the NWA[/region]&#39;s RMB.[/i]
 
-TITLE OF BILL
+[spoiler=Format]TITLE OF BILL
 SPONSOR OF BILL
-[u]THOROUGH[/u] DESCRIPTION OF BILL
+[u]THOROUGH[/u] DESCRIPTION OF BILL[/spoiler]
