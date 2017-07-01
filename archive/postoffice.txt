@@ -1,10 +1,9 @@
-[b]Riding on the coat tails of daylight savings time, [region]Arda en Estel[/region], [region]The Mafia[/region] and [region]The Black Hawks[/region] paid a visit just to make sure you set your clocks an hour ahead. 
+[b]This region has been annihilated by the [i][u]elite forces[/i][/u] of [region]The Invaders[/region]! Join our military by enlisting [url=http://s15.zetaboards.com/The_Invaders/index/]here[/url]!
 
-You&#39;re welcome! 
-
-[u]The Concerned Citizens[/u]
-[nation]The Glitter Queen Aynia[/nation], Warmaster, LEAF
-[nation]New Syl[/nation], Captain, LEAF
-[nation]Ninja Orcas[/nation], Soldato, [region]The Mafia[/region]
-[nation]Qonon[/nation], Soldato, [region]The Mafia[/region]
-[nation]Greyed[/nation], Corporal, [region]The Black Hawks[/region][/b]
+Troops:[color=#9B0C00]
+General: [nation=short]Gest II[/nation] (trigger)
+General: [nation=short]Tombouctu[/nation]
+General: [nation=short]Hired Contractor II[/nation]
+Colonel: [nation=short]Saint Block[/nation]
+Private First Class: [nation=short]NusaLand[/nation]
+[/b][/color]

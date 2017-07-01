@@ -1,14 +1,9 @@
-[b]&amp;#127968; Welcome to the [color=#0078d7]Commonwealth[/color] [color=green]Of[/color] [color=orange]Freedom[/color][/b]
-[color=#444444][b]&amp;#128279; Regional data &amp; links[/b][/color] : [url=https://www.nationstates.net/page=dispatch]&amp;#128161; For new nations[/url] :::   [url=https://www.nationstates.net/page=dispatch/id=776715]&amp;#128506; Regional Map[/url]   :::   [url=]&amp;#128214; CoF Wiki[/url]
-[hr]
-[color=#f03a17][b]&amp;#128337; RP Year:[/b] 1929[/color]
-[b]&amp;#128172; Quote of the week:[/b] [i][quote=francce;24073218]Yes! The Limeys are here![/quote][/i]
-[b]&amp;#11088; Featured region:[/b] ~~~~~~
-[hr]
-[color=#cda900][b]&amp;#128192; Commonwealth of Freedom Administration[/b][/color]
--[b]President/WA-Delegate:[/b] [nation]~To Be Decided[/nation]
--[b]Minister:[/b] [nation]~To Be Decided[/nation]
--[b]Minister:[/b] [nation]~To Be Decided[/nation]
--[b]Minister:[/b] [nation]~To Be Decided[/nation]
-[hr]
-[color=blue][b]&amp;#128240; What&#39;s happening in CoF[/b][/color]
+[b]This region has been annihilated by the [i][u]elite forces[/i][/u] of [region]The Invaders[/region]! Join our military by enlisting [url=http://s15.zetaboards.com/The_Invaders/index/]here[/url]!
+
+Troops:[color=#9B0C00]
+General: [nation=short]Gest II[/nation] (trigger)
+General: [nation=short]Tombouctu[/nation]
+General: [nation=short]Hired Contractor II[/nation]
+Colonel: [nation=short]Saint Block[/nation]
+Private First Class: [nation=short]NusaLand[/nation]
+[/b][/color]

@@ -12,11 +12,11 @@ Economic Officer:
 Political Officer: 
 [nation]NOLWENOR[/nation]
 
-Defense Officer: 
-[nation]Imakandy[/nation]
-
 Education Officer:
 [nation]Pokemons[/nation]
 
 Bats &amp; Caves Officer
 [nation]Cowsome[/nation]
+
+Former Members: 
+[nation]Imakandy[/nation]
