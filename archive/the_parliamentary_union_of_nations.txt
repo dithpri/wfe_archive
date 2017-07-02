@@ -9,7 +9,7 @@ Administrative Officials:[/color] TBA
 
 [color=red][b]The Executive Branch[/b][/color]
 [color=red]President:[/color] [nation=short]Nassau-Windsor[/nation]
-[color=red]Prime Minister:[/color] [nation=short]Sepharich[/nation]
+[color=red]Prime Minister:[/color] [nation=short]Abdoa[/nation]
 
 [color=orange]MoD:[/color][nation=short]Libertarian Democracy[/nation]
 [color=orange]MoJ:[/color][nation=short]Armenian States[/nation]
@@ -17,7 +17,7 @@ Administrative Officials:[/color] TBA
 [color=orange]MoC:[/color][nation=short]Islamic State of Malaya[/nation]
 [color=orange]MwP:[/color][nation=short]thomolia[/nation]
 [hr]
-[color=blue][b]Parliament:[/b][/color]
+[color=blue][b]Parliament: (now prorogued)[/b][/color]
 [nation=short]Abdoa[/nation] GSM LSM
 [nation=short]Aralunya[/nation] LSM
 [nation=short]Islamic_state_of_Malaya[/nation]

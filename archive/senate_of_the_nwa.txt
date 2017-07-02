@@ -30,6 +30,8 @@ Welcome to the Senate chamber of the [b][region]New Western Atlantic[/region][/b
 
 [i]Use the format listed below in order for the NWA High Court to hear a case, and post it in the [region]Senate of the NWA[/region]&#39;s RMB.[/i]
 
-[spoiler=Format]TITLE OF BILL
-SPONSOR OF BILL
-[u]THOROUGH[/u] DESCRIPTION OF BILL[/spoiler]
+[spoiler=Format][list]
+[*][b]Title[/b] of bill
+[*][b]Sponsor[/b] of bill
+[*]Thorough [b]description[/b] of bill
+[/list][/spoiler]
