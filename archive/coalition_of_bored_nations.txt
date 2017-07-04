@@ -1,8 +1,7 @@
-[b]This region has been annihilated by the elite forces of [region]The Invaders[/region]!
+[b][color=#CB2727]This region has been seized by the unwavering legions of [region]The Roman Empire[/region], and now pays tribute to its people. If you wish to become part of the Roman war machine and explore new lands with your brothers in arms, then visit our [url=http://s15.zetaboards.com/Rome/index/]headquarters[/url].[/color] 
 
-Troops:
-[color=red]General[/color] [nation=short]Gest II[/nation] (trigger)
-[color=red]Lieutenant Colonel[/color] [nation=short]Tombouctu[/nation] (point)
-[color=red]Lieutenant Colonel[/color] [nation=short]Saint Block[/nation]
-[color=red]Sergeant[/color] [nation=short]The Aprent[/nation]
-[color=red]Private[/color] [nation=short]The City-States of Kataria[/nation][/b]
+[u]The invading troops:[/u] 
+Decurion [nation=short]Legionnaire1[/nation] (trigger)
+General [nation=short]Hired_Contractor_II[/nation] from [region]The Invaders[/region] 
+
+[color=#CB2727]Long live the Roman Empire, long live the Emperor![/color][/b]

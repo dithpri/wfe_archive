@@ -7,11 +7,11 @@
 [nation]South Solus[/nation]
 Seat Unfilled
 [nation]Alberts[/nation]
-[nation]The 13th nation[/nation]
+Seat Unfilled
 [/spoiler][spoiler=Supreme Court]
 [nation]Wiesover[/nation]
 [nation]Spree Trus[/nation]
-[nation]New Osborn[/nation]
+Seat Unfilled
 [/spoiler]
 
 [hr]
