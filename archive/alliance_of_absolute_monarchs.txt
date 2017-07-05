@@ -5,12 +5,14 @@ We claim legal continuity with the old [/color][color=red]Alliance of Absolute M
 [b]Holy Roman Emperor[/b]
 Elected by Prince-Electors (WA Delegate)
 [b]Estates-General[/b]
-WA members
+First Estate: Prince-Electors (WA members) (1 vote)
+Second Estate: College of Cardinals (+1 vote)
+Third Estate: All subjects (+1 vote)
 [b]College of Cardinals[/b]
 By appointment.
 [hr]
 [b]Emperor[/b]
-[nation]Pronunshaa[/nation]
+[nation]Routcher[/nation]
 [b]Chancellor[/b]
 [nation]Gotesbourg[/nation]
 [b]Marshal of the Estates-General[/b]

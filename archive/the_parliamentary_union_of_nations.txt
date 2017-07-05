@@ -3,11 +3,8 @@ Welcome to the [region]Parliamentary Union of Sovereign Nations[/region]! We off
 [hr]
 [color=purple]Our Forum:[/color] [url=http://parliamentaryunion.forumotion.org/]Forum[/url]
 
-[color=purple][b]The Administrative Branch:[/b]
-The Founder:[nation=short]Nassau-Windsor[/nation]
-Administrative Officials:[/color] TBA
-
 [color=red][b]The Executive Branch[/b][/color]
+[color=red]Founder:[/color] [nation=short]Nassau-Windsor[/nation]
 [color=red]President:[/color] [nation=short]Nassau-Windsor[/nation]
 [color=red]Prime Minister:[/color] [nation=short]Abdoa[/nation]
 
@@ -17,16 +14,19 @@ Administrative Officials:[/color] TBA
 [color=orange]MoC:[/color][nation=short]Lhistonia[/nation]
 [color=orange]MwP:[/color][nation=short]thomolia[/nation]
 [hr]
-[color=blue][b]Parliament:[/b][/color] (dissolved)
-[nation=short]Abdoa[/nation] GSM LSM
-[nation=short]Aralunya[/nation] LSM
-[nation=short]Islamic_state_of_Malaya[/nation]
-[nation=short]Libertarian_Democracy[/nation] GSM LSM
-[nation=short]Nassau-Windsor[/nation] LSM
+[color=blue][b]Parliament:[/b][/color]
+[nation=short]Abdoa[/nation]
+[nation=short]Aralunya[/nation]
+[nation=short]Hashkin[/nation]
+[nation=short]Laguna-Rizal[/nation]
+[nation=short]Lhistonia[/nation]
+[nation=short]Libertarian Democracy[/nation]
+[nation=short]Netherking Land[/nation]
 [nation=short]Sepharich[/nation]
-[nation=short]Sirius_Knight[/nation] LSM
 [nation=short]Thomolia[/nation]
-[nation=short]Vacant[/nation]
 
 [hr]
 WA Members, please endorse our [color=red]Prime Minister[/color]!
+
+[hr]
+[color=brown]NOTICE:[/color] Residents actively participating in regional activities who control several resident nations must disclose to the Founder all those nations and any associated forum accounts, and those knowing other nations must disclose those contacts too (see Disclosures Act).
