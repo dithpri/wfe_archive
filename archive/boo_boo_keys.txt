@@ -9,7 +9,6 @@
 [nation]Crounwichland[/nation] [i](Dominion of Libertaea)[/i]
 [nation]Unieshan[/nation] 
 [nation]Fanace[/nation] 
-[nation]Publicam_Liberam[/nation] 
 [nation]Valucha[/nation] 
 [i]Affiliated:[/i] [nation]Koa_o[/nation]
 

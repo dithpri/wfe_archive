@@ -3,7 +3,12 @@ The Union for Democrats and Americans!
 
 ------------------------------------------------------------------
 Elected President:
-noone
+[nation]Confederate Cascadia[/nation]
 
 Union Parliament leader:
 [nation]Confederate Midwest[/nation]
+
+------------------------------------------------------------------
+Enemy:
+[region]Confederate State of America[/region]
+
