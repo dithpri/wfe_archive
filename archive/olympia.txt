@@ -11,8 +11,8 @@
 [color=red]Founder: [nation]MMS Nation[/nation][/color]
 [color=red]President: [nation]MMS Nation[/nation][/color]
 
-[color=blue]Vice President: Arbor Mist[/color]
 [color=blue]Chief of Staff: [nation]Pychto[/nation][/color]
 
-[color=darkorange]Secretary of Domestic Affairs: [nation]Holden Fatheration[/nation][/color]
+[color=darkorange]Secretary of Citizen Affairs: [nation]The American Empire[/nation][/color]
+[color=darkorange]Secretary of Domestic Affairs: [nation]Anteridia[/nation][/color]
 [color=darkorange]Secretary of Foreign Affairs: [nation]Sawatchia[/nation][/color]

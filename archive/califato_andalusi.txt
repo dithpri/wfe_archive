@@ -2,6 +2,7 @@
 
 Individuos-naciones:
 
-[i]Maegalodonus[/i]- Freedomistania Vera
-[i]Divo[/i]- The Constitutional Monarchy of BWK
-[i]Catlander[/i]- The Republic of Catlander
+[i]Maegalodonus[/i] : [nation]Freedomistania Vera[/nation]
+[i]Divo[/i] : [nation]Nation of BWK[/nation]
+[i]Catlander[/i] : [nation]Catlander[/nation]
+[i]Leogar[/i] : [nation]The Illustrated Horde[/nation]
