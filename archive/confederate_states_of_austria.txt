@@ -11,7 +11,9 @@ Founded: 7. July 2017
 Founders:
 [nation]Confederate Austria-Hungary[/nation]
 [nation]Confederate Texas-Florida[/nation]
-Capital: New Atlanta
+Capital: 
+[nation]Confederate New Vienna[/nation]
 [color=blue]-------------------------------------------------------------------------------[/color]
 Enemys:
 [region]Union State of America[/region]
+[region]Galactic Bavarian Empire[/region]

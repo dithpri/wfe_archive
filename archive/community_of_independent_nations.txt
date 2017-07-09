@@ -1,8 +1,11 @@
+[b]
+Hawks from [region]The Black Hawks[/region] and a friend flew into your region tonight. Who are the &quot;bigger&quot; raiders and where are the &#147;bigger&#148; raids? [region]The Black Hawks[/region] and wherever we choose. Visit our [url=http://s4.zetaboards.com/The_Black_Hawks/index/]nest[/url].
 
-[b]&quot;History is cyclical, and its prevailing current is downward, declining from a Golden Age through Silver and Bronze Ages to a Dark Age.
+Hawks:
+SGT [nation=short]Moneyness[/nation] (trigger)
+CPL [nation=short]Hired_Contractor_IV[/nation]
+PFC [nation=short]Elldie[/nation]
 
-We live in a Dark Age, in which decadence reigns and all natural and healthy values are inverted.
-
-Even in the depths of the Dark Age, there are hidden Golden Age counter-currents: survivals of the past Golden Age that sustain the world and serve as seeds of the Golden Age to come.
-
-It is not futile to think and live according to Golden Age principles in the depths of the Dark Age. Indeed, those who do so play an important role in the passage of the Ages.&quot;[/b]
+Friend:
+CPL [nation=short]The Atlae Isles[/nation] TWPAF
+[/b]

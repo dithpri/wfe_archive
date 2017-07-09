@@ -11,9 +11,9 @@ Welcome to the High Court for the [b][region]New Western Atlantic[/region][/b]! 
 
 [hr]
 
-[b][u]Current Case[/u] |[/b] [i][nation=short]Bergonnia[/nation] V. [nation=short]Norrizi[/nation][/i]
+[b][u]Current Case[/u] |[/b] [i]None[/i]
 
-[b][u]Recent Verdict[/u] |[/b] [i][region]New Western Atlantic[/region] V. [nation=short]Rahambia[/nation] ([b]Not Guilty[/b])[/i]
+[b][u]Recent Verdict[/u] |[/b] [i][nation=short]Bergonnia[/nation] V. [nation=short]Norrizi[/nation]([b]Guilty[/b])[/i]
 
 [b][u]Upcomimg Cases[/u] |[/b] [i][nation]Reviviana[/nation] v. [nation]Thornian[/nation][/i]
 [hr]
