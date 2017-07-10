@@ -6,3 +6,5 @@ Individuos-naciones:
 [i]Divo[/i] : [nation]Nation of BWK[/nation]
 [i]Catlander[/i] : [nation]Catlander[/nation]
 [i]Leogar[/i] : [nation]The Illustrated Horde[/nation]
+[i]warm[/i] : [nation]Mourinholand[/nation] 
+(naci&oacute;n bajo supervision de Divo, dado su cargo)

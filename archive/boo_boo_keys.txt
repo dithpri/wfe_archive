@@ -7,9 +7,7 @@
 
 [nation]Libertaea[/nation] 
 [nation]Crounwichland[/nation] [i](Dominion of Libertaea)[/i]
-[nation]Unieshan[/nation] 
 [nation]Valucha[/nation] 
-[nation]Koa_o[/nation]
 [i]General Association Status: [/i][nation]Sylonox[/nation]
 
 
@@ -20,12 +18,17 @@
 [nation]Corava[/nation]
 [nation]Galiziae[/nation]
 [nation]Neikslynd[/nation]
-Independence Guaranteed: [nation]Fanace[/nation]
+
+[i][b][color=teal]The Independence Union (TIU)[/i][/b][/color]
+
+[nation]Fanace[/nation]
+[nation]Unieshan[/nation]
+[nation]Koa_o[/nation]
 
 
-[i][b][color=crimson]The Asgard Pact (The First International)[/i][/b][/color]
+[i][b][color=black]Order of the Black Eagle[/i][/b][/color]
 
 [nation]Rurikstead[/nation]
-[nation]East_Rienstiedt[/nation]
+
 
 

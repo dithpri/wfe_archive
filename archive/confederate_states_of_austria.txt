@@ -14,6 +14,7 @@ Founders:
 Capital: 
 [nation]Confederate New Vienna[/nation]
 [color=blue]-------------------------------------------------------------------------------[/color]
+Allies:
+[region]Union State of America[/region] / Everyone else on Earth
 Enemys:
-[region]Union State of America[/region]
 [region]Galactic Bavarian Empire[/region]
