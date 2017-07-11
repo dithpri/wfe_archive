@@ -9,6 +9,8 @@ Union Parliament leader:
 [nation]Confederate Midwest[/nation]
 
 ------------------------------------------------------------------
-Enemy:
-[region]Confederate States of Austria[/region]
+Allies:
+[region]Confederate States of Austria[/region] / Everyone on Earth
+Enemys:
+[region]Galactic Bavarian Empire[/region]
 

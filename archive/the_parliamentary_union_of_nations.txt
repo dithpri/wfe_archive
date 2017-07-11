@@ -18,12 +18,12 @@ Welcome to the [region]Parliamentary Union of Sovereign Nations[/region]! We off
 [nation=short]Abdoa[/nation]
 [nation=short]Aralunya[/nation]
 [nation=short]Hashkin[/nation]
-[nation=short]Laguna-Rizal[/nation]
 [nation=short]Lhistonia[/nation]
 [nation=short]Libertarian Democracy[/nation]
 [nation=short]Netherking Land[/nation]
 [nation=short]Sepharich[/nation]
 [nation=short]Thomolia[/nation]
+[Vacant seat]
 
 [hr]
 WA Members, please endorse our [color=red]Prime Minister[/color]!

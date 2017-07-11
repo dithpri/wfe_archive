@@ -6,9 +6,9 @@
 
 ~ [i]In Memoriam[/i] ~
 
-[nation=Fred Flea]
+[nation=Fred Flea]/[nation=Froggy Flea]/[nation=Rat_Flea]
 [nation=Trukannarc]
-[nation=Felicia Flea]
+[nation=Felicia Flea]/[nation=Fannin_Flea]/[nation=Flag-Waver Flea]
 
 Rest in peace, lost Fleas.[/color]
 [hr]

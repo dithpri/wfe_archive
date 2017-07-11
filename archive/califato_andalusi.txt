@@ -1,10 +1,17 @@
 [b]Michel es Dios[/b]
 
-Individuos-naciones:
+[u]Individuos-naciones[/u]:
 
-[i]Maegalodonus[/i] : [nation]Freedomistania Vera[/nation]
-[i]Divo[/i] : [nation]Nation of BWK[/nation]
-[i]Catlander[/i] : [nation]Catlander[/nation]
-[i]Leogar[/i] : [nation]The Illustrated Horde[/nation]
-[i]warm[/i] : [nation]Mourinholand[/nation] 
-(naci&oacute;n bajo supervision de Divo, dado su cargo)
+
+Maegalodonus: [nation]Freedomistania Vera[/nation]
+
+Divo: [nation]Nation of BWK[/nation]
+
+Catlander: [nation]Catlander[/nation]
+
+Leogar: [nation]The Illustrated Horde[/nation]
+
+Warm: [nation]Mourinholand[/nation] 
+[i](naci&oacute;n bajo supervision de Divo, dado su cargo)[/i]
+
+Moreno: [nation]North Morenian[/nation]
