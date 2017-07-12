@@ -1,1 +1,8 @@
-Welcome to the Greek colony of Mashhad. 
+[color=navy][b]Mashhad[/b][/color]
+[color=darkgreen]Capital of [b]Razavi Khorasan Province[/b]
+Second largest city of [b]Iran[/b][/color]
+[color=906600]this is a [region=0000] region
+in association with:[list]* [region=Iranian Islamic Republic] 
+* [region=Republic of Iran]
+These are puppet storage regions
+Currently, Embassy offers not accepted[/list][/color]

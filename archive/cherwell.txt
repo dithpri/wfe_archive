@@ -6,4 +6,7 @@ For polls, the scoring system is to do with Influence, and is as follows:[/color
 [color=orange]Medium: 4 Points[/color]
 [color=#FF4500]Low: 3 Points[/color]
 [color=red]Very Low: 2 Points[/color]
-[color=darkred]None: 1 Point [/color][/b]
+[color=darkred]None: 1 Point [/color]
+
+[color=darkblue]DO NOT VOTE FOR YOURSELF[/color][/b]
+[hr]
