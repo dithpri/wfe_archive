@@ -2,12 +2,12 @@
 [hr]
 ENDORSE THE DELEGATE, [nation]Danish Germania[/nation]
 [hr]
-[color=purple]Founder: [nation]Moncop[/nation][/color]
-[color=darkblue]WA Delegate: [nation]Danish Germania[/nation][/color]
+[color=purple]Founder: [nation]Moncop[/nation][/color] 
+[color=darkblue]WA Delegate: [nation]Danish Germania[/nation][/color] 
 [color=violet]Prime Minister:[/color]
 [color=lime]Secretary of Defense:[/color]
 [color=orange]Secretary of Homeland Affairs:[/color]
-[color=pink]Secretary of Role-Play: [nation]The TDK Press[/nation][/color]
+[color=pink]Secretary General of U.N.: [nation]The TDK Press[/nation][/color] 
 [hr]
 [b]Build your nation!
 Declare war!
@@ -20,3 +20,9 @@ Defend![/b]
 [hr]
 New to NS?
 Telegram [nation]Moncop[/nation] or [nation]Danish Germania[/nation] for help or tips!
+[hr]
+[b][i][u]Permanent Security Council Members[/u][/i][/b]
+[nation=short]Moncop[/nation]
+[nation=short]Danish Germania[/nation]
+[nation=short]QueenKeana[/nation]
+[b][i][u]Temporary Security Council Members[/u][/i][/b]
