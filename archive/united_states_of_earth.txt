@@ -1,1 +1,10 @@
-A region.
+United States of Earth
+--------------------------------------------------------
+Presidsnt:
+Walter Steinhammer
+
+Allies:
+[region]Confederate States of Austria America[/region]
+
+Enemys:
+[region]Galactic Bavarian Empire[/region]
