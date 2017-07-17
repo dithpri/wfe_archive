@@ -1,1 +1,7 @@
-Montessori School Program
+[hr][hr][hr]
+[list][color=orange][b]Emma[/b][/color][/list]
+[hr][hr][hr]
+[list][color=green][b]Associate Regions:[/b]
+[list][region=Alexander]; [region=Bentley]; [region=Douglas]; [region=Elizabeth]; [region=Erin]; [region=George]; [region=Katherine]; [region=Kimberley]; [region=Patricia]; [region=Rachel]; [region=Rae]; [region=Rhonda]; [region=Richard]; [region=Stanley]; [region=Victoria];  [region=William]; [region=Xavier].[/list][/color][/list]
+[hr][hr][hr][list][color=blue]This is a [region=0000] puppet storage region[/color]
+[color=red]Embassy offers will not be accepted at this time[/color][/list]

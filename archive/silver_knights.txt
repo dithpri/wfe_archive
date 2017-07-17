@@ -1,9 +1,8 @@
-
-[b]Silver Knights[i] is the master-region of [/i]The Silver Knights[/b].
+[b]All diplomacy shall be addressed to [region]The Silver Knights[/region][/b].
 
 [hr]
 
-[b]All diplomacy shall be addressed to [region]The Silver Knights[/region][/b].
+[b]Silver Knights is the master-region of The Silver Knights[/b].
 
 [b][color=red]No entry[/color][/b].
 
@@ -11,8 +10,8 @@
 
 [b][color=red]No embassies[/color][/b].
 
-[b]Any nation-state attempting such may be banned at once[/b].
+[b][i]Any nation-state attempting such may be banned at once[/i][/b].
 
 [hr]
 
-[u]XXVIII-ii-MMXV [i]AD[/i][/u]
+[b]All messages shall be addressed to [nation=noflag+short]The Silver Knights Banner[/nation][/b]

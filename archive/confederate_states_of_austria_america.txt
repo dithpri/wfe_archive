@@ -3,6 +3,8 @@ President: Michael Schramm (Confederate Freedom Party)
 [color=blue]-------------------------------------------------------------------------------[/color]
 Founder:
 [nation]Confederate New Vienna[/nation] (Capital)
+Allies:
+[region]United States of Earth[/region]
 [color=blue]-------------------------------------------------------------------------------[/color]
 States (Capital also Included)
 [nation]Confederate Austria-Hungary[/nation]
