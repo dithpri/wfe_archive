@@ -6,10 +6,6 @@ Founder:
 Allies:
 [region]United States of Earth[/region]
 [color=blue]-------------------------------------------------------------------------------[/color]
-States (Capital also Included)
-[nation]Confederate Austria-Hungary[/nation]
-[nation]Confederate Cascadia[/nation]
-[nation]Confederate Midwest[/nation]
-[nation]Confederate New Vienna[/nation]
-[nation]Confederate Prussia[/nation]
-[nation]Confederate Texas-Florida[/nation]
+7 States:
+Austria-Hungary, Cascadia, Midwest, New Vienna (Capital),
+Prussia, South Germany, Texas-Florida

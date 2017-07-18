@@ -8,21 +8,15 @@
 [nation]Libertaea[/nation] 
 [nation]Crounwichland[/nation] [i](Dominion of Libertaea)[/i]
 [nation]Valucha[/nation] 
+[nation]Unieshan[/nation]
+[nation]Koa_o[/nation]
 [i]General Association Status: [/i][nation]Sylonox[/nation]
-
 
 [i][b][color=purple]Intonian Protection Sphere (IPS)[/i][/b][/color]
 
 [nation]Intonian[/nation]
 [nation]Corava[/nation]
 [nation]Galiziae[/nation]
-
-[i][b][color=teal]The Independence Union (TIU)[/i][/b][/color]
-
-[nation]Fanace[/nation]
-[nation]Unieshan[/nation]
-[nation]Koa_o[/nation]
-
 
 [i][b][color=black]Order of the Black Eagle[/i][/b][/color]
 
