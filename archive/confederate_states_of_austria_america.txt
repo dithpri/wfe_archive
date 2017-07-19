@@ -5,7 +5,8 @@ Founder:
 [nation]Confederate New Vienna[/nation] (Capital)
 Allies:
 [region]United States of Earth[/region]
+[region]United States of Yugoslavia[/region]
 [color=blue]-------------------------------------------------------------------------------[/color]
-7 States:
-Austria-Hungary, Cascadia, Midwest, New Vienna (Capital),
-Prussia, South Germany, Texas-Florida
+6 States:
+Austria-Hungary, Cascadia, Midwest,
+New Vienna (Capital), South Germany, Texas-Florida

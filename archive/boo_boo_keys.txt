@@ -10,7 +10,7 @@
 [nation]Valucha[/nation] 
 [nation]Unieshan[/nation]
 [nation]Koa_o[/nation]
-[i]General Association Status: [/i][nation]Sylonox[/nation]
+[nation]Sylonox[/nation]
 
 [i][b][color=purple]Intonian Protection Sphere (IPS)[/i][/b][/color]
 
