@@ -1,14 +1,13 @@
 [b]Welcome to the [color=darkfire]Austro-Hungarian Empire[/color][/b]
 [i][color=green]Indivisibiliter ac Inseparabiliter - Indivisibly and inseparably[/color][/i]
 
-[b]Personal administrative region of [nation=short]The Empire of Austria-Hungary[/nation][/b]
+[b]Personal administrative region of [nation=short]The Empire of Austria-Hungary[/nation] / [nation=short]Austro-Hungarian Empire[/nation][/b]
 [b][color=darkfire]Emperor-King:[/color][/b] Charles II &amp; V
 [b][color=darkfire]Royal House:[/color][/b] [nation=short]Habsburg Monarchy[/nation]
 
-[hr][b][color=green]The Empire consists of four constituent kingdoms:[/color][/b]
+[hr][b][color=green]The Empire consists of three constituent kingdoms:[/color][/b]
 [nation=short]The Empire of Austria[/nation]
 [nation=short]The Kingdom of Hungary[/nation]
 [nation]Croatia-Slavonia and Dalmatia[/nation]
-[nation=short]The Kingdom of Bohemia[/nation]
 [hr][b]Featured region on 06/06/2017[/b]
 Embassy policy: Most embassy requests will be accepted.
