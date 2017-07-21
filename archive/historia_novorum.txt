@@ -11,8 +11,9 @@
 
 [color=darkred][b][i][u]Ministers[/u][/b][/color][/i]
 [nation=short]Cobalt Chloride[/nation]
+[nation=short]Morevonia[/nation]
 [nation=short]Taakodo[/nation]
-[nation=short]Sekowo[/nation]
+
 
 
 [color=darkred][b][i][u]Cartographer[/i][/u][/b][/color]
