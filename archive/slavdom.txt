@@ -1,8 +1,1 @@
-[b]This region has been liberated from the raider menace!
-
-Liberators:
-[nation]Socialist Raska[/nation]
-[nation]Victores[/nation]
-[nation]Overseas Territories of Betonia[/nation]
-[nation]Oernland[/nation]
-[/b]
+Protectorate of [region]Imperium Slavicum[/region]

@@ -7,14 +7,10 @@ Goal of this version of the Oracle Game is to create an embassy chain or path co
 [url=http://nsdossier.texasregion.net//embassyOracle.aspx]Oracle Game[/url]
 
 [b]Latest NSEmbassy Oracle Report:[/b]
-The shortest path between: [list][region=Double Funky 7]*  and 
-[region=Country of God]** 
-has [b]1,241[/b] degrees of separation***[/list]
+The shortest path between: [list][region=Double Funky 7] (first region)  and 
+[region=Country of God] (last region) 
+has [b]1,243[/b] degrees of separation (shortest path)[/list]
 
-Notes:
-* the first region in the game
-** the last region in the game
-*** shortest path
 Regions based upon order of update
 
 Thanks [region=Texas] for providing this game.[/color][/list]

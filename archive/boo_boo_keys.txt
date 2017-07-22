@@ -3,7 +3,7 @@
 
 [u][b]Alliances and Trading Blocs (For Show)[/b][/u]
 
-[i][b][color=blue]North Thalassic Common Market (NOTCOM)[/color][/b][/i]
+[i][b][color=seagreen]Anti-Reactionary Forces[/color][/b][/i]
 
 [nation]Libertaea[/nation] 
 [nation]Crounwichland[/nation] [i](Dominion of Libertaea)[/i]
@@ -11,9 +11,6 @@
 [nation]Unieshan[/nation]
 [nation]Koa_o[/nation]
 [nation]Sylonox[/nation]
-
-[i][b][color=purple]Intonian Protection Sphere (IPS)[/i][/b][/color]
-
 [nation]Intonian[/nation]
 [nation]Corava[/nation]
 [nation]Galiziae[/nation]

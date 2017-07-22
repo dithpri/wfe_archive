@@ -1,20 +1,12 @@
 [color=blue]-----Confederate States of Austria-----[/color]
-A Conservative, Patriotic Nation for Dixies!
-The South has risen again!
+President: Michael Schramm (Confederate Freedom Party)
 [color=blue]-------------------------------------------------------------------------------[/color]
-[color=blue]The Confederate Congress[/color]
-All important desicions will be made there.
-Leader:
-[nation]Confederate Texas-Florida[/nation]
-[color=blue]-------------------------------------------------------------------------------[/color]
-Founded: 7. July 2017
-Founders:
-[nation]Confederate Austria-Hungary[/nation]
-[nation]Confederate Texas-Florida[/nation]
-Capital: 
-[nation]Confederate New Vienna[/nation]
-[color=blue]-------------------------------------------------------------------------------[/color]
+Founder:
+[nation]Confederate New Vienna[/nation] (Capital)
 Allies:
-[region]Union State of America[/region] / Everyone else on Earth
-Enemys:
-[region]Galactic Bavarian Empire[/region]
+[region]United States of Earth[/region]
+[region]United States of Yugoslavia[/region]
+[color=blue]-------------------------------------------------------------------------------[/color]
+6 States:
+Austria-Hungary, Cascadia, Midwest,
+New Vienna (Capital), South Germany, Texas-Florida
