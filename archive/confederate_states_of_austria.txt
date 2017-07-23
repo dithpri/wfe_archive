@@ -1,12 +1,12 @@
-[color=blue]-----Confederate States of Austria-----[/color]
+----------Confederate States of Austria (CSA)----------
 President: Michael Schramm (Confederate Freedom Party)
-[color=blue]-------------------------------------------------------------------------------[/color]
+---------------------------------------------------------------------
 Founder:
 [nation]Confederate New Vienna[/nation] (Capital)
-Allies:
+Our Puppet Region:
 [region]United States of Earth[/region]
-[region]United States of Yugoslavia[/region]
-[color=blue]-------------------------------------------------------------------------------[/color]
-6 States:
-Austria-Hungary, Cascadia, Midwest,
-New Vienna (Capital), South Germany, Texas-Florida
+---------------------------------------------------------------------
+8 States:
+Austria-Hungary, Cascadia, Midwest, New Vienna (Capital),
+Poland-Lithuania, South Germany, Texas-Florida, Yugoslavia
+(All States have to use the National flag of CSA)
