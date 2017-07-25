@@ -23,7 +23,7 @@ Welcome to the [region]Parliamentary Union of Sovereign Nations[/region]! We off
 [nation=short]Netherking Land[/nation]
 [nation=short]Sepharich[/nation]
 [nation=short]Thomolia[/nation]
-[Vacant seat]
+[nation=short]Nassau-Windsor[/nation]
 
 [hr]
 WA Members, please endorse our [color=red]Prime Minister[/color]!

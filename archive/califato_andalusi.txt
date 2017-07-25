@@ -19,3 +19,5 @@ Moreno: [nation]North Morenian[/nation]
 el minino: [nation]Felino[/nation]
 
 RubenFen: [nation]Fourbars[/nation]
+
+Vehestorio: [nation]Consejo Regional de Defensa de Aragon[/nation]

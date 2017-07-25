@@ -8,7 +8,7 @@ Master of Foreign Affairs: [nation=short]Raptures End[/nation]
 
 Crown Princess: [nation=short]Clanktopolis[/nation]
 First Princess: [nation=short]Legendary Islands[/nation]
-Crown Prince: [nation=short]Gilmores Glorious Empire[/nation]
+Crown Prince: [nation=short]Sylvenea[/nation]
 First Prince: 
 
 Tower Warden: [nation=short]Habroo the Mighty and Brave[/nation] 
