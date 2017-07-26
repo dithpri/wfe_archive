@@ -1,11 +1,3 @@
-[B]Welcome to the [region]Axis Powers of Italy[/region][/b]
 
-[Color=red][I]In questa regione tutte le nazioni fasciste siamo uniti per combattere la piaga comunista ed esaltare la nostra ideologia e credenze.
-Recentemente c&#39;&egrave; stato un colpo di stato per la nostra grande regione, ma non si arrende. In questo momento dobbiamo essere pi&ugrave; uniti che mai e attendere il ritorno del nostro duce.[/i]
-[B]Viva il Duce[/b][/color]
 
-[Nation]nazione fascista dellitalia[/nation]
-
-[U]Inno della settimana
-Anthem of the week[/u]
-[Url=https://youtu.be/vJO8xIySsEM]Giovienezza[/url]
+Protectorate of [nation]The Iron Wreath[/nation]
