@@ -1,0 +1,13 @@
+------------------------Holy Greater Roman Empire (HGRE)----------------------------
+Kaiser: Michael I.
+Chancellor: Viktor Horthy
+Nation Type: Constitutional Monarchy
+----------------------------------------------------------------------------------------------
+Founder:
+[nation]Confederate New Vienna[/nation] (Capital)
+----------------------------------------------------------------------------------------------
+12 States:
+Austria-Hungary-Croatia, Bavaria, Burgundy, Czechia, New Vienna (Capital),
+North Germany, Poland-Lithuania, Rhineland, Slovakia, South Germany,
+Texas-Florida, Yugoslavia
+(All States use the National flag of HGRE but their canton is different to each state)

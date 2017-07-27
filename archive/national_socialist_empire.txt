@@ -2,11 +2,10 @@
 Here we meet and pole of international agreements and economic and military cooperation. Together we will be strong.
 
 [b][i]Current Nations:[/b][/i]
-Head of Council Alliance:  [nation]Modern National Socialism[/nation]
-Head of International Market Relations: [nation]National Portucalia[/nation]
-Head of Navy Control: [nation]National Portucalia[/nation]
+Alliance F&uuml;hrer:  [nation]Modern National Socialism[/nation]
+Head of Regional Defense:  [nation]7th Lusitan Reich[/nation]
+Oberkommando of Wehrmacht: [nation]Rexossia[/nation]
+Head of Navy and International Market Relations: [nation]National Portucalia[/nation]
 
 [b][i]Current Free Spots:[/b][/i]
-Head of: [i]Armed Forces Strategy | Air Space Control l Foreign Relations | Economy | Industry | Public Affairs[/i]
-
-We accept the nations which fulfill at least 4 of these requirements: [i]Nationalist|Authoritarian|Autocratic|Socialist|Capitalist|Autocratic|Christian|Atheist|Expansionist[/i]
+Head of: [i]Air Space Control l Foreign Relations | Economy Ministery | Industry Affairs | Public Affairs[/i]

@@ -8,10 +8,13 @@ WA Delegate: EMPTY
 
 _____[i][u]The Council[/u][/i]_____
 [color=yellow]Head of Union:[/color] VACANT
-[color=red]Department of Justice and Defence:[/color] VACANT
+[color=red]Department of Justice and Defence:[/color] [nation=short]coltannia[/nation]
 [color=purple]Department of Foreign Affairs:[/color] VACANT
 [color=blue]Department of Finance and Economy:[/color] VACANT
 [color=green]Department of Health and Welfare:[/color] VACANT
 [color=orange]Department of Education, Science and Progress:[/color] VACANT
 
 [hr]
+[b][url=https://discord.gg/wZT3Kxp]Join our Discord![/url] || Council Roles (Coming soon!) [/b]
+
+[b][color=red]%%No RMB recruiting! Or a swift kick in the balls will happen.%%[/color][/b]
