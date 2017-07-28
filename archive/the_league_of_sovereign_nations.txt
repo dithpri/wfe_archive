@@ -1,7 +1,7 @@
-[b][color=blue]WELCOME TO THE LEAGUE OF SOVEREIGN NATIONS - LONG LIVE THE LEAGUE[/color][/b] - [i][B]Est. 8th June 2015[/B][/i]
+[b][color=green]WELCOME TO THE LEAGUE OF SOVEREIGN NATIONS - LONG LIVE THE LEAGUE[/color][/b] - [i][B]Est. 8th June 2015[/B][/i]
 [hr]
 
-[u][b][color=green]Inter-Regional Memberships[/color][/b][/u]
+[u][b][color=blue]Inter-Regional Memberships[/color][/b][/u]
 
 The League of Sovereign Nations is a proud member of the following organisations
 - [b][url=http://www.nationstates.net/nation=christadelphians/detail=factbook/id=485908]IRC[/url][/b]
@@ -9,7 +9,7 @@ The League of Sovereign Nations is a proud member of the following organisations
 - [b][url=https://www.nationstates.net/nation=the_noble_thatcherites/detail=factbook/id=666798]ITDA[/url][/b][hr]
 
 [b][color=red][u]High Council[/u][/color][/b]
-[list][*][B]Governor[/B] 
+[list][*][B]Governor/Administrator[/B] 
 [nation]The Servants OF Allah[/nation]
 [*][B]Deputy[/B] 
 [nation=noname]Hikachu[/nation]
@@ -18,7 +18,7 @@ The League of Sovereign Nations is a proud member of the following organisations
 [*][B]Minister for Internal Affairs[/B] 
 [nation=noname]Pogorevka[/nation]
 [*][B]Minister for Justice[/B] 
-[nation=noname]Gararia[/nation]
+[nation=noname]Arvug[/nation]
 [*][B]Minister for Recreation[/B] 
 [nation=noname]Dreamlanese[/nation]
 [*][B]Council Speaker[/B] 

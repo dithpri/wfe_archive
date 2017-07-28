@@ -28,7 +28,7 @@ War between MPA and SPU comes to a halt
 
 [b] RP Director : [nation=short]United_Soviet_States_of_Russian_Empire[/nation]
 Military Administrator : [nation=short]Astanmark[/nation]
-Economic Administrator : [nation=short]the brotherhood of the crimson isles[/nation]
-Cartographer : [nation=short]Frenxistan[/nation] [/b]
+Economic Administrator : [nation=short]the brotherhood of the crimson isles[/nation][/b]
+
 
 
