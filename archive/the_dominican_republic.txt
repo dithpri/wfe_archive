@@ -1,8 +1,8 @@
-[i][b]The Dominican Republic[/i][/b]
+	[i][b]The Dominican Republic[/i][/b]
 [i][b]Rep&uacute;blica Dominicana[/i][/b]
 [i][b]Dios, Patria, Libertad[/i][/b]
 
-[b][i]WA nations must endorse our President [nation=short]The Rafael Trujillo[/nation] as delegate. Suspected raiders will be banned.[/b][/i]
+[b][i]Please endorse our President [nation=short]-Dominican Republic-[/nation] for the World Assembly[/b][/i]
 
 [b]Founded 6/15/17[/b]
 [hr]
@@ -13,16 +13,18 @@ The Dominican Republic is a sovereign state occupying the eastern five-eighths o
 
 [u]Government[/u]
 
-President: [nation]The Rafael Trujillo[/nation]
+President: [nation]-Dominican Republic-[/nation]
 
-Soon Vice President: [nation]Dab Supremacy[/nation]
+Vice President: [nation]Emirate Islands[/nation]
 
-Minister of the Presidency: [nation]Vacant[/nation]
+Minister of the Presidency: [nation]Dracnicov[/nation]
 
-Minister of Foreign Affairs: [nation]Vacant[/nation]
+Minister of Foreign Affairs: EMPTY
 
-Minister of Defense: [nation]Vacant[/nation]
+Minister of Defense: [nation]Aric[/nation]
 
 [hr]
 
-[b][colour=darkblue]Under the protection of [region]Dawn[/region][/colour][/b].
+[b][u]Links[/b][/u]
+
+[url=http://s15.zetaboards.com/Dominican_Republic/index/]Regional Forum[/url]
