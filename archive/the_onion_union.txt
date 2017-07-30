@@ -1,10 +1,12 @@
-World Assembly Delegate decree:
+On the last of each month, a vote will determine the next WAD.
+The new WAD is put in office on the first of the next month.
 
-On the last day of each month, a vote is called to determine the next WAD.
-The elected WAD is placed into office on the first of the next month.
+The WAD can act however they wish upon election.
 
-The WAD is free to act however they wish in any context upon election.
+If the public is unhappy with the WAD, a vote is called for impeachment. If the vote passes, the member who got the second highest votes in the last election is chosen.
 
-If the public is displeased with how the WAD handles their office, a vote will be called for impeachment. If the vote succeeds, the member who garnered the second highest amount of votes in the last election is placed into office.
+The process has two rounds:
+     One: Any candidates can run for office, and cast their votes. Candidates cannot vote for themselves in Round One. If only two candidates run, skip to Two.
+     Two: The two candidates with the most votes are put into a poll. The winner of this round becomes the elected official.
 
-The consecutive term limit is two terms. After which, the member cannot run for office for a third consecutive term.
+Consecutive term limit is two terms. After which, the member cannot run for office for a third consecutive term.
