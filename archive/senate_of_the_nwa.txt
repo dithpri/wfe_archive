@@ -9,9 +9,9 @@ Welcome to the Senate chamber of the [b][region]New Western Atlantic[/region][/b
 
  [i]Senator[/i]: [nation=short]the society for black sheep[/nation] ([b][color=#0080FF]A[/color][/b])
 
- [i]Senator[/i]: [nation=short]micky the mouse[/nation] ([b][color=orange]L[/color][/b])
-
 [i]Senator[/i]: [nation=short]ebania[/nation] ([b][color=orange]L[/color][/b])
+
+ [i]Senator[/i]: [nation=short]Republic of Amercas[/nation] ([b][color=orange]L[/color][/b])
 
 [b][i]Senate Minority Leader[/i]: [nation=short]trade federations[/nation][/b] ([b][color=red]C[/color][/b])
 
@@ -23,7 +23,7 @@ Welcome to the Senate chamber of the [b][region]New Western Atlantic[/region][/b
 
 [/list][hr]
 
-[b][u]Previous Vote(s)[/u] |[/b] [i]Appointed Cabinet Posts (2 yeas, 2 nays), WA Citizenship Requirement (0 yeas, 3 nays)[/i]
+[b][u]Previous Vote(s)[/u] |[/b] [i]Impeachment of [nation=shortnoflag]Billnyeland[/nation] (2 yeas, 4 nays, 1 abstention), Appointed Cabinet Posts (2 yeas, 2 nays)[/i]
 [hr]
 
 [b] Propose a Bill [color=gold]&amp;#9999;&amp;#65039;[/color][/b]
