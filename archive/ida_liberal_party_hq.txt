@@ -17,5 +17,5 @@ Welcome to the HQ of the Liberal Party for the [region]International Debating Ar
 
 [b][i]Party Officials[/i][/b]
 Party President - [nation=short]YoungLiberal[/nation]
-Vice Chairman - [nation=short]LiberalArg[/nation]
-Communications Director - TBD
+Vice President - [nation=short]LiberalArg[/nation]
+Party Advisor - TBD

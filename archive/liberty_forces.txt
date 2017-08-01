@@ -1,23 +1,3 @@
-[B]EN:[/B]
-
-Our goverment:
-
-Founder - [nation]Libertia and Conaxia[/nation]
-
-WA Delegate - [nation]Eleburg[/nation]
-
-Vice-Delegate - N/A
-
-Ministry of Foreign Affairs - N/A
-
-Ministry of Border Control - N/A
-
-Ministry of Homeland - N/A
-
-Military General - [nation]Happyfries[/nation]
-
-[hr]
-
 [B]CZ:[/B]
 
 Na&#154;e Vl&aacute;da:
@@ -26,13 +6,13 @@ Zakladatel - [nation]Libertia and Conaxia[/nation]
 
 WA Deleg&aacute;t - [nation]Eleburg[/nation]
 
-Vice-Deleg&aacute;t - N/A
+Vice-Deleg&aacute;t - [nation]Libertia and Conaxia[/nation]
 
-Ministerstvo zahrani&amp;#269;n&iacute;ch v&amp;#283;c&iacute; - N/A
+Ministerstvo zahrani&amp;#269;n&iacute;ch v&amp;#283;c&iacute; - [nation]Libertia and Conaxia[/nation]
 
-Ministerstvo kontroly hranic - N/A
+Ministerstvo kontroly hranic - [nation]Xorox and Hyptana[/nation]
 
-Ministerstvo vnitra - N/A
+Ministerstvo vnitra - [nation]Xorox and Hyptana[/nation]
 
 Gener&aacute;l arm&aacute;dy - [nation]Happyfries[/nation]
 

@@ -1,4 +1,4 @@
-Welcome to the [region]Parliamentary Union of Sovereign Nations[/region]! We offer you a safe haven in NS and hope that you will become a lively member of our Region.
+Welcome to the [region]Parliamentary Union of Sovereign Nations[/region]! We offer you a safe haven in NS and hope you join our lively community.
 
 [hr]
 [color=purple]Our Forum:[/color] [url=http://parliamentaryunion.forumotion.org/]Forum[/url]
@@ -11,8 +11,9 @@ Welcome to the [region]Parliamentary Union of Sovereign Nations[/region]! We off
 [color=orange]MoD:[/color][nation=short]Hashkin[/nation]
 [color=orange]MoJ:[/color][nation=short]Libertarian Democracy[/nation]
 [color=orange]MoW:[/color][nation=short]Bostler[/nation]
-[color=orange]MoC:[/color][nation=short]Lhistonia[/nation]
+[color=orange]MoC:[/color] Pending
 [color=orange]MwP:[/color][nation=short]thomolia[/nation]
+[color=orange]LoP:[/color][nation=short]netherking land[/nation]
 [hr]
 [color=blue][b]Parliament:[/b][/color]
 [nation=short]Abdoa[/nation]

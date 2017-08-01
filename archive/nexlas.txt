@@ -7,4 +7,4 @@
 [color=darkblue]Regional Status:[/color] [color=teal]Under Construction[/color]
 [color=darkblue]Regional Alert Level:[/color] [color=E0B804]Moderate[/color]
 
-[color=FF8C8C]Nexlas endorses Lily[/color]
+[color=DD5950]Nexlas endorses [region]Lily[/region][/color]
