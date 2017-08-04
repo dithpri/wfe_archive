@@ -1,2 +1,1 @@
-This is a puppet storage for all.
-Store your puppets in case you need them!
+-

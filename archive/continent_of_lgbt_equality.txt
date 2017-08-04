@@ -1,9 +1,2 @@
-
-[b]This region has been annihilated by the elite forces of The Invaders!
-
-Troops:[color=#9B0C00]
-General: [nation=Gest II] (trigger)
-Lieutenant Colonel: [nation=Tombouctu] (point)
-Lieutenant Colonel: [nation=Saint Block]
-Sergeant: [nation=The Aprent]
-Staff Sergeant: [nation=Hired Contractor II][/b][/color]
+[b]Welcome to the &#39;Continent of [color=red]L[/color][color=yellow]G[/color][color=green]B[/color][color=purple]T[/color] [i]Equality![/i]&#39;[/b]
+Where all are free from any type of immoral discrimination, despite our Nations&#39; government powers.
