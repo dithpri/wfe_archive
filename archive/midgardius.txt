@@ -1,1 +1,13 @@
-Midgard is the name for Earth inhabited by and known to humans in early Germanic cosmology, and specifically one of the Nine Worlds in Norse mythology. The nine worlds are: Asgard, the home of the &AElig;sir ruled by the god Odin; &Aacute;lfheimr/Lj&oacute;s&aacute;lfheimr, the home of the Lj&oacute;s&aacute;lfar; Ni&eth;avellir/Svart&aacute;lfaheimr, the home of the Dwarves who are also synonymous with the D&ouml;kk&aacute;lfar and Svart&aacute;lfar; Midgard (Earth), the home of humans; J&ouml;tunheimr/&Uacute;tgar&eth;r, the home of the J&ouml;tnar (Giants); Vanaheimr, the home of the Vanir; Niflheim, a world of ice and snow; Muspelheim, a world of fire and lava and home of the J&ouml;tunn Surtr and Hel(heimr), the home of the dishonorable dead sometimes synonymous with or located within Niflheim and ruled by the goddess Hel.
+[b][i]Midgard[/i][/b] is the name for Earth inhabited by and known to humans in early Germanic cosmology, and [u]specifically one of the Nine Worlds in Norse mythology[/u]. 
+
+The nine worlds are: 
+[list]
+[*][b][color=grey]Asgard[/color][/b], the home of the &AElig;sir ruled by the god Odin; 
+[*][b][color=gold]&Aacute;lfheimr/Lj&oacute;s&aacute;lfheimr[/color][/b], the home of the Lj&oacute;s&aacute;lfar; 
+[*][b][color=#FF1493]Ni&eth;avellir/Svart&aacute;lfaheimr[/color][/b], the home of the Dwarves who are also synonymous with the D&ouml;kk&aacute;lfar and Svart&aacute;lfar; 
+[*][b][color=green]Midgard (Earth)[/color][/b], the home of humans; 
+[*][b][color=purple]J&ouml;tunheimr/&Uacute;tgar&eth;r[/color][/b], the home of the J&ouml;tnar (Giants); 
+[*][b][color=#FFA500]Vanaheimr[/color][/b], the home of the Vanir; 
+[*][b][color=blue]Niflheim[/color][/b], a world of ice and snow; 
+[*][b][color=red]Muspelheim[/color][/b], a world of fire and lava and home of the J&ouml;tunn Surtr and 
+[*][b][color=brown]Hel (Heimr)[/color][/b], the home of the dishonorable dead sometimes synonymous with or located within Niflheim and ruled by the goddess Hel.
