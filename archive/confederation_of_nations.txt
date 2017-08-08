@@ -5,7 +5,7 @@
 
 [color=red]&#149;[/color] [i]Executive Branch[/i]
 [color=blue]&#149;[/color] President/World Assembly Delegate: [nation]New Porto Rico[/nation]
-[color=blue]&#149;[/color] Minister of Interior: Vacant
+[color=blue]&#149;[/color] Minister of Interior: [nation]Handal Ands[/nation]
 [color=blue]&#149;[/color] Minister of Foreign Affairs: [nation]Teuvessia[/nation]
 [color=blue]&#149;[/color] Minster of Law and Order: [nation]Il Corvonero[/nation]
 
@@ -13,7 +13,7 @@
 
 [color=red]&#149;[/color] [i]Legislative Branch[/i]
 [color=blue]&#149;[/color] All World Assembly Nations are members of the Legislative Council.
-[color=blue]&#149;[/color] Speaker of the Legislative Council: Vacant
+[color=blue]&#149;[/color] Speaker: [nation]Handal Ands[/nation]
 
 [color=red]&#149;[/color] [i]Judicial Branch[/i], 
 [color=blue]&#149;[/color] Regional Judge: [nation]La Summa Malitia[/nation] [color=blue]&#149;[/color] Term: August 8, 2017-November 8, 2017.[/b]

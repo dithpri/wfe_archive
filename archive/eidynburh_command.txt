@@ -1,7 +1,10 @@
 [u][B]Eidynbuh Command[/B][/u]
 
 [B]--[/B]: Eidynburh Command (ECOM) is the central combatant command of the [nation=short]Pictish Defence Force[/nation].
-
 [B]--[/B]: This command is charged with defending the Pictish realm against all threats, foreign or domestic.
+[B]--[/B]: Allied support is provided by [nation=short]Akmola[/nation], the [nation=short]Cypriot Territories[/nation], [nation=short]Sudweca[/nation], and sleepers.
 
-[B]--[/B]: Allied support is provided by the [nation=short]Cypriot Defence Force[/nation] and [nation=short]Sudwecan Defence Force[/nation].
+[u][b]Mission[/b][/u]
+
+[b]--[/b]: Provoke and destroy [region]The Commonwealth of Crowns[/region] by any means necessary.
+[b]--[/b]: Espionage, internal sabotage, and puppetry infiltration have proven to be successful.
