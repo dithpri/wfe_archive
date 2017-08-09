@@ -5,7 +5,7 @@
 [B][u]CURRENT AIRLINES:[/u][/B]
 
 [B]AGIA AIRLINES[/B]
-Fleet: 0
+Fleet: 180
 Est. August 2, 2017
 
 [B]SCHEINEN AIRLINES[/B]
@@ -27,3 +27,7 @@ Est. March 29, 2017
 [B]AIR GALSKIA[/B]
 Fleet: 0
 Est. August 3, 2017
+
+[B]skyNavorse[/B]
+Fleet: 125
+Est. April 2, 2017

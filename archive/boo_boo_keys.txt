@@ -10,12 +10,15 @@
 
 [i][b][color=black]Cilisian Empires[/i][/b][/color]
 [nation]Sylonox[/nation]
-[nation]Valucha[/nation]
+[nation]NeopaSizil[/nation]
 [nation]Nova Qart Hadasht[/nation]
 
-[i][b][color=teal]Asian Union (non-alliance assembly)[/color][/b][/i]
-[nation]Fanace[/nation]
+[i][b][color=teal]Asian League (non-alliance assembly)[/color][/b][/i]
+[nation]Fanace[/nation] (Power Seat, reign ends in 4 years)
 [nation]Sylonox[/nation]
-[nation]Valucha[/nation]
-[nation]Numbeli[/nation]
+[nation]Numbeli[/nation] (Subpower Seat, reign ends in 2 years)
 [nation]Gulgaria Inonitus[/nation]
+
+[i][b][color=orange]Anticapitalist  League[/color][/b][/i]
+[nation]SilverZanzibarland[/nation]
+[nation]Salvastako[/nation]
