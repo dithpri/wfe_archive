@@ -1,29 +1,29 @@
 Welcome to the Senate chamber of the [b][region]New Western Atlantic[/region][/b]! [b]||[/b] [b][i]Getting There Together[/b][/i][hr]
 
 [b]Composition[/b] [color=gold]&amp;#9745;[/color]
-[list] [b][i]Senate Majority Leader[/i]:  [nation=short]BillNyeLand[/nation][/b] ([b][color=#0080FF]A[/color][/b])
+[list] [b][i]Senate Leader[/i]:  [i]Vacant[/i][/b]
 
-[i]Senator[/i]: [nation=short]Grey Rose[/nation] ([b][color=#0080FF]A[/color][/b])
+[i]Senator[/i]: [nation=short+noflag]Grey Rose[/nation] ([b][color=#0080FF]A[/color][/b])
 
- [i]Senator[/i]: [nation=short]Struberria[/nation] ([b][color=#0080FF]A[/color][/b])
+ [i]Senator[/i]: [nation=short+noflag]Struberria[/nation] ([b][color=#0080FF]A[/color][/b])
 
- [i]Senator[/i]: [nation=short]the society for black sheep[/nation] ([b][color=#0080FF]A[/color][/b])
+ [i]Senator[/i]: [nation=short+noflag]the society for black sheep[/nation] ([b][color=#0080FF]A[/color][/b])
 
-[i]Senator[/i]: [nation=short]ebania[/nation] ([b][color=orange]L[/color][/b])
+[i]Senator[/i]: [nation=short+noflag]ebania[/nation] ([b][color=orange]L[/color][/b])
 
- [i]Senator[/i]: [nation=short]Republic of Amercas[/nation] ([b][color=orange]L[/color][/b])
+ [i]Senator[/i]: [nation=short+noflag]Republic of Amercas[/nation] ([b][color=orange]L[/color][/b])
 
-[b][i]Senate Minority Leader[/i]: [nation=short]trade federations[/nation][/b] ([b][color=red]C[/color][/b])
+[b][i]Opposition Leader[/i]: [nation=short+noflag]trade federations[/nation][/b] ([b][color=red]C[/color][/b])
 
-[i]Senator[/i]: [nation=short]Astanmark[/nation] ([b][color=red]C[/color][/b])
+[i]Senator[/i]: [nation=short+noflag]Astanmark[/nation] ([b][color=red]C[/color][/b])
 
-[i]Senator[/i]: [nation=short]Ormantum[/nation] ([b][color=red]C[/color][/b])
+[i]Senator[/i]: [nation=short+noflag]Ormantum[/nation] ([b][color=red]C[/color][/b])
 
- [i]Senator[/i]: [nation=short]grand rebels[/nation] ([b][color=purple]N[/color][/b])
+ [i]Senator[/i]: [nation=short+noflag]grand rebels[/nation] ([b][color=purple]N[/color][/b])
 
 [/list][hr]
 
-[b][u]Previous Vote(s)[/u] |[/b] [i]Impeachment of [nation=shortnoflag]Billnyeland[/nation] (2 yeas, 4 nays, 1 abstention), Appointed Cabinet Posts (2 yeas, 2 nays)[/i]
+[b][u]Previous Vote(s)[/u] |[/b] [i]Term Limits for Embassy and Border Control (no yeas, 5 nays) [color=red]DEFEATED[/color], Nomination Requirement (no yeas, 6 nays) [color=red]DEFEATED[/color], Legal Team Act (3 yeas, 5 nays) [color=red]DEFEATED[/color][/i]
 [hr]
 
 [b] Propose a Bill [color=gold]&amp;#9999;&amp;#65039;[/color][/b]
@@ -33,5 +33,5 @@ Welcome to the Senate chamber of the [b][region]New Western Atlantic[/region][/b
 [spoiler=Format][list]
 [*][b]Title[/b] of bill
 [*][b]Sponsor[/b] of bill
-[*]Thorough [b]description[/b] of bill
+[*][b]Description[/b] of bill
 [/list][/spoiler]
