@@ -1,13 +1,13 @@
 Welcome to the Senate chamber of the [b][region]New Western Atlantic[/region][/b]! [b]||[/b] [b][i]Getting There Together[/b][/i][hr]
 
 [b]Composition[/b] [color=gold]&amp;#9745;[/color]
-[list] [b][i]Senate Leader[/i]:  [i]Vacant[/i][/b]
+[list] [b][i]Senate Leader[/i]:  [nation=short+noflag]the society for black sheep[/nation] ([color=#0080FF]A[/color][/b])
 
 [i]Senator[/i]: [nation=short+noflag]Grey Rose[/nation] ([b][color=#0080FF]A[/color][/b])
 
  [i]Senator[/i]: [nation=short+noflag]Struberria[/nation] ([b][color=#0080FF]A[/color][/b])
 
- [i]Senator[/i]: [nation=short+noflag]the society for black sheep[/nation] ([b][color=#0080FF]A[/color][/b])
+ [i]Senator[/i]: [nation=short+noflag]North-Oceania[/nation] ([b][color=#0080FF]A[/color][/b])
 
 [i]Senator[/i]: [nation=short+noflag]ebania[/nation] ([b][color=orange]L[/color][/b])
 

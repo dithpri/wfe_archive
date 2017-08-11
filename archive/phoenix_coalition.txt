@@ -6,8 +6,8 @@ Welcome! We&#39;re glad you decided to stop by [region=Phoenix Coalition].
 N/A
 
 [u]The Government:[/u]
-~President: [nation=short]Estarianaia[/nation] [LOA]
-~Minister of Regional Affairs [b][Acting President][/b]: [nation=short]Sation Nate[/nation]
+~President: [nation=short]Estarianaia[/nation] 
+~Minister of Regional Affairs: [nation=short]Sation Nate[/nation]
 ~Minister of Immigration: [nation=short]El Acantilado[/nation]
 ~Minister of Communications: [nation=short]Neue Rheinland[/nation]
 
