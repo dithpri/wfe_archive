@@ -1,1 +1,16 @@
-jump point test
+[b]Starbucks[/b]
+
+[u]Menu:[/u]
+[list][*]Coffee (Iced/Caffe) - $2.50
+[*]Mocha (Iced/Caffe) - $3.45[/list]
+[hr]
+[list][*]Vanilla Bean Frappuccino - $4.50
+[*]Cotton Candy Frapluccino - $4.50[/list]
+
+[u]Operating Hours[/u]
+Monday to Thursday
+7:30 AM - 8:45 AM / 3:30 AM - 6:00 AM
+Friday to Saturday
+4:30 PM - 9:00 PM
+Sunday
+7:30 AM - 6:030 PM
