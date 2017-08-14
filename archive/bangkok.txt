@@ -1,1 +1,3 @@
-Bangkok
+[b]Bangkok[/b]
+a [region=0000] Puppet Storage Region
+[b]Sister Region:[/b] [region=Siam]

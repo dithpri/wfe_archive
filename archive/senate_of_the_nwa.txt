@@ -7,7 +7,7 @@ Welcome to the Senate chamber of the [b][region]New Western Atlantic[/region][/b
 
  [i]Senator[/i]: [nation=short+noflag]Struberria[/nation] ([b][color=#0080FF]A[/color][/b])
 
- [i]Senator[/i]: [nation=short+noflag]North-Oceania[/nation] ([b][color=#0080FF]A[/color][/b])
+ [i]Senator[/i]: [i]Vacant[/i]
 
 [i]Senator[/i]: [nation=short+noflag]ebania[/nation] ([b][color=orange]L[/color][/b])
 

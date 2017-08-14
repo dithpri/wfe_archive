@@ -1,8 +1,13 @@
-[color=006633][b]Parkland[/b][/color]
-[color=silver]Puppet Storage Region
-Associated Regions Are:[list][region=0000]
-[region=Ancient Lands]
-[region=Kimberley]
-[region=United States of America][/list][/color][color=red]
-This region will accept most embassy offers[/color]
-[color=tan][b]Featured Region:[/b] 2017 Aug. 10[/color]
+[color=MediumSeaGreen][b]Parkland[/b][/color]
+
+[color=SaddleBrown][b]Associated Regions:[/b]
+.: [region=0000]
+.: [region=Ancient Lands]
+.: [region=Kimberley]
+.: [region=United States of America]
+
+[b]REGION:[/b]
+.: [b]Founded:[/b] 2017 Jun 24
+.: [b]Featured Region:[/b] 2017 Aug 10
+.: [b]Region Matrix:[/b] 2017 Aug 14 * accepts embassies *
+.: A [region=0000] Puppet Storage Region[/color]
