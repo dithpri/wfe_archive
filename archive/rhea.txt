@@ -1,3 +1,14 @@
-[b]Rhea[/b]
-an [region=Ancient Lands] puppet storage region
-associated with [region=0000] region
+[color=004500][b]Rhea[/b]
+&quot;the mother of gods&quot;
+
+[b]Greek Mythology:[/b]
+[list][i]a Titan daughter of earth goddess Gaia &amp; sky god Uranus.
+Sister and Wife to Cronus.
+Classical Greeks saw her as the mother of the Olympian gods[/i][/list][/color]
+
+[color=DarkCyan][b]REGION[list]
+Founded:[/b] 2017 Feb 04
+[b]Matrixed:[/b] 2017 Feb 20
+[b]Featured:[/b] 2017 Aug 15
+a [region=0000]/[region=Ancient Lands] puppet storage region[/color][color=OrangeRed]
+[b]Embassy Offers Welcomed[/b][/color][/list]

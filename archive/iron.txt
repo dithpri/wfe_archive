@@ -1,13 +1,8 @@
-Welcome to [b][color=orange]IRON[/color][/b]!
-[i]Founded on June 4, 2017[/i]
+Welcome to the [b][color=orange]Territory of IRON[/color][/b]!
 
-[b][color=red]This region is a Territory of the [region]Independent Republic of Orange Nations[/region]![/color][/b]
+[b]This Region is a Territory of the Independent Republic of Orange Nations![/b]
 
-[u][b]Provisional Territorial Government of the Independent Republic of Orange Nations[/b][/u]
-[b]President[/b]: [nation]Neo Ancient Rome[/nation]
-[b]Governor[/b]: [nation]Neo Ancient Greece[/nation]
-
-[b]Territorial News[/b]
-[*] [b][color=orange]IRON[/color][/b] was founded on June 4, 2017!
-[*] [nation]Neo Ancient Rome[/nation] has been appointed Provisional President of the Independent Republic of Orange Nations!
-[*] [nation]Neo Ancient Greece[/nation] has been appointed Provisional Governor of the Territory of IRON!
+[u][b]Government of the Territory of IRON[/b][/u]
+[b]Founder[/b]: [nation]Neo Ancient Rome[/nation]
+[b]WA Delegate[/b]: [nation]Neo Ancient Rome[/nation]
+[b]Homeland Officer[/b]: [i]Vacant[/i]

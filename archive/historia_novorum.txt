@@ -13,8 +13,6 @@
 [nation=short]Cobalt Chloride[/nation]
 [nation=short]Morevonia[/nation]
 [nation=short]Taakodo[/nation]
-[i]Temp[/i]: 
-[nation=short]Latvijas Otra Republika[/nation]
 
 [color=darkred][b][i][u]Archivist[/i][/u][/b][/color]
 [i]Open[/i]
