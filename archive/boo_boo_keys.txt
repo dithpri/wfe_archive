@@ -14,11 +14,14 @@
 [nation]Nova Qart Hadasht[/nation]
 
 [i][b][color=teal]Asian League (non-alliance assembly)[/color][/b][/i]
-[nation]Fanace[/nation] (Power Seat, reign ends in 2.75 years)
+[nation]Fanace[/nation] (Power Seat, reign ends in 2.5 years)
 [nation]Sylonox[/nation]
-[nation]Numbeli[/nation] (Subpower Seat, reign ends in 0.75 year)
+[nation]Numbeli[/nation] (Subpower Seat, reign ends in 0.5 year)
 [nation]Gulgaria Inonitus[/nation]
 
 [i][b][color=orange]Anticapitalist  League[/color][/b][/i]
 [nation]SilverZanzibarland[/nation]
 [nation]Salvastako[/nation]
+
+[b][i][color=yellow]Defcon: 4[/color][/i][/b] Ex:
+Defcon5:normal readiness Defcon one:1 nuclear war imminent

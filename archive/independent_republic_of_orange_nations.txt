@@ -8,7 +8,6 @@ Welcome to the [color=orange][b]Independent Republic of Orange Nations[/b][/colo
 [b]Speaker of the Regional Assembly[/b]: [nation]Neo Ancient Rome[/nation]
 [b]Chief Justice of the Regional Court[/b]: [i]Vacant[/i]
 
-[u][b]Regional News[/b][/u][list[
+[u][b]Regional News[/b][/u]
 [*]The Independent Republic of Orange Nations was founded on the 14th August, 2017
 [*][nation]Neo Ancient Rome[/nation] has been elected [b]WA Delegate[/b] and [b]Speaker of the Regional Assembly[/b]
-[/list]
