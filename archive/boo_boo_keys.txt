@@ -23,5 +23,4 @@
 [nation]SilverZanzibarland[/nation]
 [nation]Salvastako[/nation]
 
-[b][i][color=yellow]Defcon: 4[/color][/i][/b] Ex:
-Defcon5:normal readiness Defcon one:1 nuclear war imminent
+[b][i][color=yellow]Defcon:3[/color][/i][/b] Events: Salvastakoan Liberation War

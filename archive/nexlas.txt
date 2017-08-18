@@ -9,3 +9,9 @@
 
 [color=teal]All Embassy Requests will be Accepted[/color]
 
+[color=Darkblue]Join a Bloc: 
+[nation=short]Nexlas_Europa_Union[/nation]
+[nation=short]Nexlas_North_Atlantica_Commonwealth[/nation]
+[nation=short]Nexlas_Iron_Pact[/nation]
+[nation=short]Nexlas_Pacifica_Alliance[/nation]
+[nation=short]Nexlas_Community[/nation][/color]

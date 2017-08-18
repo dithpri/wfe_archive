@@ -8,11 +8,10 @@
 
 [u][color=darkblue]Olympian Regional Government[/color][/u]
 
-[color=red]Founder: [nation]MMS Nation[/nation][/color]
-[color=red]President: [nation]MMS Nation[/nation][/color]
+[color=darkblue]President: [nation]Ekenepolis[/nation][/color]
+[color=blue]Chief of Staff: [nation]The American Empire[/nation][/color]
 
-[color=blue]Chief of Staff: [nation]Pychto[/nation][/color]
-
-[color=darkorange]Secretary of Citizen Affairs: [nation]The American Empire[/nation][/color]
+[color=darkorange]Secretary of Citizen Affairs: [nation]Hyliath[/nation][/color]
+[color=darkorange]Secretary of Defense: [nation]Separated Vietussia[/nation][/color]
 [color=darkorange]Secretary of Domestic Affairs: [nation]Anteridia[/nation][/color]
-[color=darkorange]Secretary of Foreign Affairs: [nation]Sawatchia[/nation][/color]
+[color=darkorange]Secretary of Foreign Affairs: [nation]Pychto[/nation][/color]
