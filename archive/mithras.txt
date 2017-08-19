@@ -1,8 +1,16 @@
-[b]The region of Mithras has been in endless war for the last few centuries. The nations it contains are all but similar, and each have their own unique ways of dealing with each other in times of conflict.[/b]
-[hr]
-Executive: [nation]Greater Ebolia[/nation]
-Cartographer: [nation]Polishlith[/nation]
-Intelligence: [nation]Botrelia[/nation]
-[hr]
-[color=red][B][u]Map:[/u][/B][/color]
-[url=http://i.imgur.com/w2hkWvH.png]Regional map[/url]
+[b]You&#39;re sitting peacefully in your region, when you suddenly hear a whistling sound from above. You look up, and see a a squadron of [url=https://www.nationstates.net/region=the_black_hawks]Hawks[/url] dropping a load of bombs on you. Oh no! To avoid incineration, join us [url=http://s4.zetaboards.com/The_Black_Hawks/index/]in the nest![/url]
+Hawks flying in:
+Sergeant [nation=short]Greyed[/nation] (Trigger)
+
+Lieutenant [nation=short]antiochus denral[/nation]
+Sergeant [nation=short]serboro[/nation]
+Sergeant [nation=short]Hired Contractor IV[/nation]
+Corporal [nation=short]Siniarus XVII[/nation]
+Corporal [nation=short]Cheku[/nation]
+Corporal [nation=short]Trihydroxy[/nation]
+Corporal [nation=short]captain alexander[/nation]
+Corporal [nation=short]Maleficaerum[/nation]
+PFC [nation=short]New Talidania[/nation]
+PFC [nation=short]Red Party[/nation]
+
+Huzzcaw![/b]

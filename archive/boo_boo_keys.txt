@@ -14,9 +14,9 @@
 [nation]Nova Qart Hadasht[/nation]
 
 [i][b][color=teal]Asian League (non-alliance assembly)[/color][/b][/i]
-[nation]Fanace[/nation] (Power Seat, reign ends in 2.5 years)
+[nation]Fanace[/nation] (Power Seat, reign ends in 2 years)
 [nation]Sylonox[/nation]
-[nation]Numbeli[/nation] (Subpower Seat, reign ends in 0.5 year)
+[nation]Numbeli[/nation] (Subpower Seat, reign has ended)
 [nation]Gulgaria Inonitus[/nation]
 
 [i][b][color=orange]Anticapitalist  League[/color][/b][/i]
