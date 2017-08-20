@@ -1,0 +1,7 @@
+[b]Special region for all States or Countries who are relationed to the Plainlands Confederation[/b]
+
+President: Same as [nation]The Plainlands[/nation]&#39;s President
+
+States:
+[list][nation]The Plainlands[/nation][/list]
+[list][nation]Matico[/nation][/list]

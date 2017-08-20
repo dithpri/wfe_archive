@@ -15,14 +15,19 @@ Parliament:
 Judges:
 [nation]Flattnerk[/nation]
 [nation]The Republic Rome[/nation]
-[hr]
-[color=red]General Elections are taking place! Please announce candidacy for one of the following if interested:[/color]
-[color=black]- President
-- Parliament
-- Talk to one of the candidates about being appointed Judge[/color]
+
+[spoiler=Newly Elected Government]
+President: TBD
+Prime Minister: TBD
+Parliament:
+[nation]Zaldania[/nation]
+[nation]The Rising Waves[/nation]
+[nation]Lower Moolan Ger[/nation]
+Judges:
+TBD[/spoiler]
 [hr]
 [color=red]Endorsement Cap: 2
 RECRUIT![/color]
 [hr]
-[color=blue]NR Radio: [/color][url=https://www.youtube.com/watch?v=iXQUu5Dti4g][color=blue]Led Zeppelin - Stairway to Heaven[/color][/url]
+[color=blue]NR Radio: [/color][url=https://www.youtube.com/watch?v=V47wcq1E40U][color=blue]Outasight - Do Something Crazy ft. Cook Classics[/color][/url]
 [/b]
