@@ -8,8 +8,8 @@
 [color=blue]&#149;[/color] Minister of Foreign Affairs: [nation=short]Teuvessia[/nation]
 [color=blue]&#149;[/color] Minster of Law and Order: [nation=short]Il Corvonero[/nation]
 
-[color=red]&#149;[/color] All World Assembly Nations must [u]ENDORSE[/u] the President [nation=short]New Porto Rico[/nation] upon arriving.
-[color=red]&#149;[/color] Ten (10) World Assembly Nations currently reside inside the CON, Endorsement Cap is [u]SIX (6)[/u]
+[color=red]&#149;[/color] All World Assembly Nations must [u][color=red]ENDORSE[/color][/u] the President [nation=short]New Porto Rico[/nation] upon arriving.
+[color=red]&#149;[/color] Eleven (11) World Assembly Nations currently reside inside the CON, Endorsement Cap is [u][color=red]Seven (7)[/color][/u]
 
 [color=red]&#149;[/color] [i]Legislative Branch[/i]
 [color=blue]&#149;[/color] Speaker: [nation=short]Handal Ands[/nation]

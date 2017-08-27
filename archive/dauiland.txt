@@ -1,4 +1,4 @@
-Puppet Regions: [region]New Dauiland[/region], [region]Puppetland[/region]
+Backup Region: [region]New Dauiland[/region]
 
 [b][color=magenta]Our Beliefs:[/color][/b]
 
