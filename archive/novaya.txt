@@ -1,7 +1,9 @@
-[color=teal]Welcome to Novaya[/color]
+[color=B8C763]Welcome to Novaya[/color]
 
-[color=darkblue]We are a future-tech worldbuilding region[/color]
+[color=darkorange]We are an alternate history and worldbuilding region[/color]
 
-[color=purple]Check out our other regions:[/color]
+[url=][color=C7AD63]Map[/color][/url] [color=C7AD63]|[/color] [url=https://discord.gg/8sa26UR][color=C7AD63]Discord[/color][/url] 
+
+[color=ED9362]Check out our other regions:[/color]
 [region]Nexlas[/region]
 [region]Commonwealth of Exodu[/region]

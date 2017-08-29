@@ -1,1 +1,3 @@
-[color=800000][b]The Commonwealth of Free States[/b][/color][hr][color=8090a0]An Oracle Region: Unsolicited embassy offers are ignored[/color]
+[color=navy][b]The Commonwealth of Free States[/b]
+a [region=0000] puppet storage region[/color]
+[color=cdaa90][b]Founded:[/b] 2017 Aug 29[/color]
