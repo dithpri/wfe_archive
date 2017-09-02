@@ -4,14 +4,15 @@ Current Government:
 
 [i][b]President[/i][/b]
 
-UNFILLED 
+[nation]Vatreich[/nation]
 
 [b][i]Vice-President[/i][/b]
 
-UNFILLED 
+[nation]Crum Comere[/nation] 
 
 [b][i]Speaker of the House[/i][/b]
 
-UNFILLED 
+[nation]Hillopee[/nation]
 
-[b]NEXT ELECTION: Today - September 2, 2017[/b]
+
+[b]NEXT ELECTION: TBD[/b]

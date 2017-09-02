@@ -6,8 +6,8 @@
 [b]&amp;#11088; Featured region:[/b] 10/13/14, 1/16/15, 4/25/16
 [hr]
 [color=#cda900][b]International Court of Justice[/b][/color]
-- [b]Chief Justice:[/b] [nation]Agham[/nation]
-- [b]Associate Justices:[/b] [nation]United Christian[/nation], [nation]Ivesi[/nation], [nation]TheHelghast[/nation]
+- [b]Chief Justice:[/b] [nation=short]TheHelghast[/nation]
+- [b]Associate Justices:[/b] [nation=short]The Democratic Nation of Unovia[/nation], [nation=short]Razzgriz[/nation]
 [hr]
 [color=blue][b]&amp;#128240; What&#39;s happening in NWU?[/b][/color]
 - [B]We ask that you endorse [Nation]United Christian[/Nation], the elected Delegate.[/B]
