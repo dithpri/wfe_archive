@@ -8,9 +8,9 @@ Take a seat at the [url=https://www.nationstates.net/page=un]World Assembly[/url
 
 [hr]
 
-[spoiler=DEFCON Level = 1]
-[b][color=red][1] ENGAGED IN COMBAT[/color] &amp;#11013; CURRENT LEVEL[/b]
+[spoiler=DEFCON Level = 5]
+[b][color=red][1] ENGAGED IN COMBAT[/color][/b]
 [b][color=orange][2] TOTAL MOBILIZATION[/color][/b]
 [b][color=yellow][3] PARTIAL MOBILIZATION[/color][/b]
 [b][color=green][4] HEIGHTENED READINESS[/color][/b]
-[b][color=blue][5] PEACETIME READINESS[/color][/b][/spoiler]
+[b][color=blue][5] PEACETIME READINESS[/color] &amp;#11013; CURRENT LEVEL[/b][/spoiler]

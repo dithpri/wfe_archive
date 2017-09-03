@@ -1,4 +1,7 @@
 [b]REGION UNDER CONSTRUCTION[/b]
+Proud member of [region]FALTO[/region] and [region]FORGE[/region]
 Regional Currency: [b]Flira[/b]
-1.00  Standard Monetary Unit= .96 Flira
-Threat Level = [b][color=green]1 [u]NORMAL[/u] (LOW)[/color][/b]
+1.00  Standard Monetary Unit= .95 Flira
+Threat Level = [b][color=Blue]4 [u]ALERT[/u] (MEDIUM)[/color][/b]
+
+[region]FORGE[/region] discord can be found [url=https://discord.gg/mUHwWjx]Here[/url]
