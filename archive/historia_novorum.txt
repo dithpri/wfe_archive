@@ -10,9 +10,9 @@
 [hr]
 
 [color=darkred][b][i][u]Ministry[/u][/b][/color][/i]
-[nation=short]Cobalt Chloride[/nation]
+[nation=short]Latvijas Otra Republika[/nation]
 [nation=short]Morevonia[/nation]
-[nation=short]Taakodo[/nation]
+[nation=short]The Union of the Isles of BRitannia[/nation]
 
 [color=darkred][b][i][u]Archivist[/i][/u][/b][/color]
 [i]Open[/i]

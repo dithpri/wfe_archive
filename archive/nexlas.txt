@@ -8,10 +8,9 @@
 
 [color=darkblue]Regional Alert Level:[/color] [color=369343]1[/color]
 
-[color=purple]Current Roleplay Date:[/color] [color=teal]September 2017[/color] 
+[color=darkblue]Current Roleplay Date:[/color] [color=teal]September 2017[/color] 
 
-[color=BD6060]Check out our other regions: 
-[region]Commonwealth of Exodu[/region][/color]
+[color=BD6060]Check out our other regions[/color]
 [region]Novaya[/region]
-
-
+[region]The Stadte[/region]
+[region]Corperata[/region]
