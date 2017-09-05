@@ -1,7 +1,11 @@
-[b]This region has been annihilated by the [i][u]elite forces[/i][/u] of [region]The Invaders[/region]! Join our military by enlisting [url=http://s15.zetaboards.com/The_Invaders/index/]here[/url]!
+[b][region]The Black Hawks[/region] air patrol flapped their wings real hard and created a twister that hit the region!  Find us back at our [url=http://s4.zetaboards.com/The_Black_Hawks/index/]nest[/url]!
 
-Troops:[color=#9B0C00]
-General: [nation=short]Tombouctu[/nation] (trigger)
-General: [nation=short]Hired_Contractor_II[/nation]
-Private First Class: [nation=short]NusaLand[/nation]
-[/b][/color]
+Flapping Hawks:
+
+CPL [nation=short]Maleficaerum[/nation] (trigger)
+SGT [nation=short]Cheku[/nation]
+SGT [nation=short]MoneynessII[/nation]
+CPL [nation=short]Libertatem-[/nation]
+CPL [nation=short]Siniarus XVII[/nation]
+CPL [nation=short]Utsuho[/nation]
+PFC [nation=short]Razil States[/nation][/b]

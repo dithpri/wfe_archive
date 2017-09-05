@@ -1,8 +1,9 @@
-Uma regi&atilde;o para pa&iacute;ses da America do Sul e Portugal.
-------------------------------------------------------------
-A region for countries of South America and Portugal.
-
-L&iacute;ngua primaria:  Portugu&ecirc;s     ---Primary language:  Portuguese
-L&iacute;ngua segundaria:  Ingl&ecirc;s       ---Secondary language:  English
-
-EM DESENVOLVIMENTO-UNDER DEVELOPMENT.
+*Uma regi&atilde;o para na&ccedil;&otilde;es da America do Sul,Portugal e Espanha.
+**A region for nations of South America, Portugal and Spain.
+***Una regi&oacute;n para las naciones de Am&eacute;rica del Sur, Portugal y Espa&ntilde;a.
+-L&iacute;ngua primaria: Portugu&ecirc;s. --- Lingu&aacute;s segundarias: Ingles e Espanhol.
+--Primary language: Portuguese. --- Secondary languages: English and Spanish.
+---Lengua primaria: Portugu&eacute;s. --- Lenguas secundarias: Ingles y Espa&ntilde;ol.
++EM DESENVOLVIMENTO---UNDER DEVELOPMENT---EN DESARROLLO.
+Discord:
+https://discord.gg/pJSPFqF
