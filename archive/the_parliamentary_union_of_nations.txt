@@ -1,12 +1,12 @@
 Welcome to the [region]Parliamentary Union of Sovereign Nations[/region]! We offer a safe haven in NS and hope you join our lively community.
 
 [hr]
-[color=purple]Our Forum:[/color] [url=http://parliamentaryunion.forumotion.org/]Forum[/url]
+[color=purple]Our [url=http://parliamentaryunion.forumotion.org/]Forum[/url] and [url=https://discord.gg/tu9Mbev]Discord[/url][/color]
 
 [color=red][b]Executive Branch[/b][/color]
-[color=red]Founder:[/color] [nation=short]Nassau-Windsor[/nation]
-[color=red]President:[/color] [nation=short]Lhistonia[/nation]
-[color=red]Prime Minister:[/color] [nation=short]Abdoa[/nation]
+[color=red]Founder:[/color][nation=short]Nassau-Windsor[/nation]
+[color=red]President:[/color][nation=short]Lhistonia[/nation]
+[color=red]Prime Minister:[/color][nation=short]Abdoa[/nation]
 
 [color=orange]MoD:[/color][nation=short]Hashkin[/nation]
 [color=orange]MoJ:[/color][nation=short]Libertarian Democracy[/nation]
@@ -15,7 +15,7 @@ Welcome to the [region]Parliamentary Union of Sovereign Nations[/region]! We off
 [color=orange]MwP:[/color][nation=short]thomolia[/nation]
 [color=orange]LoP:[/color][nation=short]netherking land[/nation]
 [hr]
-[color=blue][b]Parliament:[/b][/color]
+[color=blue][b]Parliament[/b][/color]
 [nation=short]Abdoa[/nation]
 [nation=short]Aralunya[/nation]
 [nation=short]Hashkin[/nation]

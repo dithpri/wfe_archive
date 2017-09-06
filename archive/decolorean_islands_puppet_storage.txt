@@ -1,15 +1,15 @@
 [u][b]This region serves as a storage center for the puppets of [nation=decolorean islands] that are not being used.[/b][/u]
 
-[u][b]Active Puppets (as of 9/5/2017)[/b][/u]
+[u][b]Active Puppets (as of 9/6/2017)[/b][/u]
 
-[nation]Corladia[/nation]
-[nation]Caplain[/nation] (New)
-[nation]DI Dispatch Office[/nation]
-[nation]Decolorean Puppet Steward[/nation]
-[nation]Chenzian States[/nation]
-[nation]Gran Vistica[/nation]
-[nation]Oak Island[/nation]
-[nation]Opelucid[/nation]
-[nation]The Pokemon Company International[/nation]
-[nation]Philippine Islands[/nation]
-[nation]Iberian Nations[/nation] (New)
+[B][nation=short]Corladia[/nation]
+[nation=short]DI Dispatch Office[/nation]
+[nation=short]Decolorean Puppet Steward[/nation]
+[nation=short]Chenzian States[/nation]
+[nation=short]Gran Vistica[/nation]
+[nation=short]Oak Island[/nation]
+[nation=short]Opelucid[/nation]
+[nation=short]The Pokemon Company International[/nation]
+[nation=short]Philippine Islands[/nation]
+[nation=short]Iberian Nations[/nation] [color=red](New)[/color]
+[nation=short]Bulungi and Tassoukro[/nation][color=red](New)[/color][/B]
