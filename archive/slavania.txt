@@ -6,10 +6,11 @@ Ask [nation=short]Carartia[/nation] for a place on the map![/color][/b][hr][b][u
 [u][color=blue]LINKS[/color][/u]
 [color=red]&#149;[/color] [url=http://slavania.boards.net]Forums[/url]
 [color=red]&#149;[/color] [url=https://www.youtube.com/watch?v=YDQx60LrxiY]Anthem[/url]
+[color=red]&#149;[/color] [url=https://discord.gg/MuJyeMj]Discord[/url]
 
 [u][color=blue]GOVERNMENT[/color][/u]
 [color=red]&#149; Head of State - [nation=short]Carartia[/nation]
-&#149; Prime Minister - [i]vacant[/i]
+&#149; Prime Minister - [nation=short]Lerrenia[/nation]
 &#149; Minister of Foreign Affairs - [i]vacant[/i]
 &#149; Minister of Defense - [i]vacant[/i]
 &#149; Minister of Culture - [i]vacant[/i][/color]

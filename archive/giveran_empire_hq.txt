@@ -8,10 +8,11 @@
 [b][color=#00305b]Current Government:[/color][/b]
 Current President: [nation=short]Givera[/nation]
 Current Vice-President: [nation=short]Marrum Graecia[/nation]
-Minister of Internal Affairs: [TO ELECT SOON]
 Speaker: [nation=short]Rospia[/nation]
+Minister of Internal Affairs: [TO ELECT SOON]
 Minister of Foreign Affairs: [nation=short]Triple N[/nation]
 Minister of RP: [nation=short]Jestskia[/nation]
+Regional News Director: [nation=short]The Giveran Reporter[/nation]
 ------
 Governer of [region]Schon Republic[/region]: [TO ELECT SOON]
 ------
