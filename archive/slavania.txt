@@ -9,11 +9,11 @@ Ask [nation=short]Carartia[/nation] for a place on the map![/color][/b][hr][b][u
 [color=red]&#149;[/color] [url=https://discord.gg/MuJyeMj]Discord[/url]
 
 [u][color=blue]GOVERNMENT[/color][/u]
-[color=red]&#149; Head of State - [nation=short]Carartia[/nation]
-&#149; Prime Minister - [nation=short]Lerrenia[/nation]
-&#149; Minister of Foreign Affairs - [i]vacant[/i]
-&#149; Minister of Defense - [i]vacant[/i]
-&#149; Minister of Culture - [i]vacant[/i][/color]
+[color=red]&#149; Head of State &#150; [nation=short]Carartia[/nation]
+&#149; Prime Minister &#150; [nation=short]Victores[/nation]
+&#149; Minister of Foreign Affairs &#150; [nation=short]Ibarski Kolasin[/nation]
+&#149; Minister of Defense &#150; [i]vacant[/i]
+&#149; Minister of Culture &#150; [i]vacant[/i][/color]
 
 [u][color=blue]ROLEPLAYS[/color][/u]
 [color=red]&#149; [i]none[/i][/color][/b]
