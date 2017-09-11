@@ -1,23 +1,7 @@
 [b][color=green]Welcome to H.Q.[/color][/b]
-Join a political party!
+This region is dead and stupid. Join [region=United Regions of Greater Verona].
 
-[b]Current Ruling Party:[/b] [color=purple]Succ Party[/color].
-[nation=Boss Landia]
-
-[b][color=purple]External Territories[/color][/b]: [region=Red Panda Land], [region=Axolotlum], [region=The Second Ridge uf Badgers],
-[b][color=orange]Puppets[/color][/b]: [region=The Yorish Cultural Alliance],
-
-[i][color=pink]Absorbed Axolotlum[/color][/i]
-
-[b][color=darkred]Raid Threat Lockdown in place until further notice.[/color][/b]
-
-[u][b]Political Parties[/b][/u]
-[*][color=purple]Succ Party[/color] - Number of Nations: 2
-- Leader: [nation=Boss Landia]
-[*][color=darkred]High Quality Communism[/color] - Number of Nations: 1
-- Leader: [nation=The Soviett Union]
-[*][color=darkgreen]Reclaim Nature Party[/color] - Number of Nations: 1
-- Leader: [nation=The Frong Chiefdom]
+-Blobby
 
 
 

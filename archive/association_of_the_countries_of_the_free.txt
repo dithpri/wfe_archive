@@ -9,7 +9,7 @@
 [color=#086A87][b]Prime Minister:[/b] Elections soon
 [b]Deputy PM:[/b] Nyaaaa
 [b]Chancellor:[/b] [nation=short]Magic_cat_named_Hemuli[/nation]
-[b]Minister of Defense:[/b] Nyaaa
+[b]Minister of Defense:[/b] [nation=short]Xylosnow[/nation]
 [b]Minister of Recruitment: [/b]Vacant
 [b]Head Ambassador: [/b] [nation=short]The_Puzzle_Nation[/nation]
 [/color]
@@ -19,5 +19,5 @@
 
 [color=blue][b]Regional News[/b][/color]
 
-- [i]&quot;The ASCOF Times - Issue I is almost done&quot; says [nation]The ASCOF News[/nation][/i]
+- [i]The ASCOF Times - Issue I is PUBLISHED[/i]
 - [i]A new poll by [nation]Magic cat named Hemuli[/nation] ! Vote now below ![/i]
