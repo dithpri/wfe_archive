@@ -1,7 +1,5 @@
-[color=darkgreen]Welcome to The Blocklands![/color]
+[color=darkgreen]Welcome to The Blocklands[/color]
 
-[color=green]Check out our other regions: [/color]
-[region]Nexlas[/region]
-[region]The Stadte[/region]
-[region]Corperata[/region]
-[region]Novaya[/region]
+[color=green]We are a Minecraft Themed worldbuilding region[/color]
+
+[url=]Map[/url] | [url=]Discord[/url] | [url=]Minecraft Server[/url] | [url=]Wiki[/url]

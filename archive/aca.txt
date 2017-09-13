@@ -13,7 +13,8 @@
 
 [hr]
 [b][color=green]ACA Presidential Elections![/color][/b]
-[b]Election Date: September 15[/b]
+[b]Poll Starts: September 13[/b]
+[b]Poll Closes: September 16[/b]
 [b]Current Candidates:[/b]
 [list][nation=short+noflag]Minachia[/nation][/list]
 [b]Projected Winner:[/b] [nation=short+noflag]Minachia[/nation]
