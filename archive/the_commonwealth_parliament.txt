@@ -4,19 +4,40 @@
 
 [u]Seats:[/u]
 
-The United Kingdom: 150
-
-British America: 150
-
-Canada: 100
-
-Australia: 100
-
-New Zealand: 20
+[b]The United Kingdom: 150[/b]
+Liberal Party: 82
+Conservative Party: 55
+Nationalist Party: 9
+Liberal Democrats: 4
 
 
-[b]Total number of seats: 520[/b]
 
---------------------------------------------------------------------------------------
+[b]British America: 150[/b]
+Liberal Democratic Party: 79
+Conservative Party: 50
+National Party: 16
+Socialist Party: 5
 
-More information to be added.
+
+[b]Canada: 100[/b]
+Conservative Party: 52
+Liberal Party: 44
+Socialist Party: 4
+
+[b]Australia: 100[/b]
+Labour Party: 58
+Conservative Party: 36
+Socialist Party: 4
+Australian Nationalist Party: 2 
+
+[b]New Zealand: 25[/b]
+Liberal Party: 13
+Conservative Party: 8
+Socialist Party: 4
+
+
+[b]Total number of seats: 525[/b]
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+[b]Next Commonwealth general election: 5th May 2022[/b]

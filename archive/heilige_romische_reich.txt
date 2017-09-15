@@ -1,12 +1,11 @@
-Heilige R&ouml;msiche Reich:
+[color=red][b]Heilige R&ouml;msiche Reich:[/b][/color]
 
 Reichsf&uuml;hrer wird gew&auml;hlt (Flagge wird sich bei anderen Reichsf&uuml;hrer &auml;ndern)
 [hr]
-Reichsf&uuml;hrer:
-Heilige Osterreich-Ungarn
+[b]Reichsf&uuml;hrer:[/b]
+[nation]Heilige Osterreich-Ungarn[/nation]
 
-Reichsrat:
-Heilige Norditalien
+[b]Reichsrat:[/b]
+[nation]Heilige Norditalien[/nation]
 
 [hr]
-
