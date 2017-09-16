@@ -1,14 +1,14 @@
 [b]Parliament of the British Commonwealth[/b]
 
-[b]Current Commonwealth Prime Minister: Caleb Harrington (UK)[/b]
+[b]Current Commonwealth Prime Minister: Vince Cable (UK)[/b]
 
 [u]Seats:[/u]
 
 [b]The United Kingdom: 150[/b]
-Liberal Party: 82
-Conservative Party: 55
-Nationalist Party: 9
-Liberal Democrats: 4
+Liberal Democrats: 80
+Conservative Party: 39
+Labour Party: 24
+Nationalist Party: 7
 
 
 
@@ -38,6 +38,9 @@ Socialist Party: 4
 
 [b]Total number of seats: 525[/b]
 
------------------------------------------------------------------------------------------------------------------------------
 
 [b]Next Commonwealth general election: 5th May 2022[/b]
+
+---------------------------------------------------------
+
+[b]View factbook:[/b] https://www.nationstates.net/nation=the_united_kingdom_and_commonwealth/detail=factbook
