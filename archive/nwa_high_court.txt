@@ -11,7 +11,7 @@ Welcome to the High Court for the [b][region]New Western Atlantic[/region][/b]! 
 
 [hr]
 
-[b][u]Current Case[/u] | [/b][i]None[/i]
+[b][u]Current Case[/u] | [/b][i][nation]Greater Konstantinople[/nation] V. [nation]Thornian[/nation](Attorney: [nation]Bergonnia[/nation])[/i]
 
 [b][u]Recent Verdict[/u] |[/b] [i][nation=short]Bergonnia[/nation] V. [nation=short]Norrizi[/nation]([b]Guilty[/b])[/i]
 

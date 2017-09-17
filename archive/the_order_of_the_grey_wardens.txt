@@ -8,7 +8,7 @@
 [b]First Warden:[/b]  [nation=short]Roavin[/nation]
 [b]High Constable:[/B] [nation=short]Deadeye Jack[/nation]
 [b]Chamberlain:[/b] [nation=short]Vincent Drake[/nation]
-[b]Warden-Commanders:[/b] [nation=short]Tim[/nation], [nation=short]Benevolent_Thomas[/nation], and [nation]Altmoras[/nation]
+[b]Warden-Commanders:[/b] [nation=short]Tim[/nation], [nation=short]Benevolent_Thomas[/nation], and [nation=long]Altmoras[/nation]
 [B]Warden-Constables:[/b] [nation=short]Nakari[/nation], [nation=short]Witchcraft and Sorcery[/nation]
 [b]Guardian-Constables:[/b] [nation=short]Land filled with People[/nation]
 

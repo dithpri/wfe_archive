@@ -3,8 +3,9 @@ We are a small and new region.
 [region]United Micronations[/region] give voice to all those who want to participate.
 
 Government:
-- WA Delegate: [nation=long]Weymare[/nation].
-- General Governor: [nation=long]CASHLOUWNA[/nation]
+- President
+[nation=long]Aliski[/nation].
+- Vice President: [nation=long]Sibero[/nation]
 
 Legislation is pinned by despatches and is always democratically ratified and written.
 
