@@ -1,37 +1,24 @@
-Welcome to the Senate chamber of the [b][region]New Western Atlantic[/region][/b]! [b]||[/b] [b][i]Getting There Together[/b][/i][hr]
+Welcome to the Senate of the [b][region]New Western Atlantic[/region][/b]! [b]||[/b] [b][i]Getting There Together[/b][/i][hr][hr]
 
 [b]Composition[/b] [color=gold]&amp;#9745;[/color]
-[list] [b][i]Senate Leader[/i]:  [nation=short+noflag]the society for black sheep[/nation] ([color=#0080FF]A[/color][/b])
+[list] [b][i]Speaker of the Senate[/i]:  [i]Vacant[/i][/b]
 
-[i]Senator[/i]: [nation=short+noflag]Grey Rose[/nation] ([b][color=#0080FF]A[/color][/b])
+[b][i]Senate Leader[/i]:  [nation=short+noflag]the society for black sheep[/nation] ([color=#0080FF]ACT[/color][/b])
 
- [i]Senator[/i]: [nation=short+noflag]Struberria[/nation] ([b][color=#0080FF]A[/color][/b])
+[list][i]Deputy Senate Leader[/i]:  [i][nation=short+noflag]Ebania[/nation] ([color=orange]LBD[/color])[/i][/list]
 
- [i]Senator[/i]: [i]Vacant[/i]
+[b][i]Shadow Leader[/i]: [nation=short+noflag]trade federations[/nation][/b] ([b][color=red]CON[/color][/b])
 
-[i]Senator[/i]: [nation=short+noflag]ebania[/nation] ([b][color=orange]L[/color][/b])
+[list][i]Minor Party Shadow Leader: [nation=noflag]Grand Rebels[/nation] ([color=purple]RNP[/color])[/i]
 
- [i]Senator[/i]: [nation=short+noflag]Republic of Amercas[/nation] ([b][color=orange]L[/color][/b])
-
-[b][i]Opposition Leader[/i]: [nation=short+noflag]trade federations[/nation][/b] ([b][color=red]C[/color][/b])
-
-[i]Senator[/i]: [nation=short+noflag]Astanmark[/nation] ([b][color=red]C[/color][/b])
-
-[i]Senator[/i]: [nation=short+noflag]Ormantum[/nation] ([b][color=red]C[/color][/b])
-
- [i]Senator[/i]: [nation=short+noflag]grand rebels[/nation] ([b][color=purple]N[/color][/b])
-
-[/list][hr]
-
-[b][u]Previous Vote(s)[/u] |[/b] [i]Term Limits for Embassy and Border Control (no yeas, 5 nays) [color=red]DEFEATED[/color], Nomination Requirement (no yeas, 6 nays) [color=red]DEFEATED[/color], Legal Team Act (3 yeas, 5 nays) [color=red]DEFEATED[/color][/i]
-[hr]
+[/list][/list][hr][hr]
 
 [b] Propose a Bill [color=gold]&amp;#9999;&amp;#65039;[/color][/b]
 
-[i]Use the format listed below in order for the NWA High Court to hear a case, and post it in the [region]Senate of the NWA[/region]&#39;s RMB.[/i]
+[i]Use the format listed below in order to propose legislation, and post it in the [region]Senate of the NWA[/region]&#39;s RMB.[/i]
 
 [spoiler=Format][list]
-[*][b]Title[/b] of bill
+[*][b]Title[/b] of bill (including L.R.)
 [*][b]Sponsor[/b] of bill
 [*][b]Description[/b] of bill
 [/list][/spoiler]

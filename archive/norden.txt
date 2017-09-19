@@ -1,20 +1,22 @@
-[color=dodgerblue]Welcome to the [/color][color=#666][b]Region of Norden[/b],[/color]
+[color=dodgerblue][b]WELCOME TO NORDEN[/b],[/color]
 
-[color=dodgerblue]a Nordic-themed, democratic region welcome to nations of all kinds[/color]
+a Nordic-themed, democratic region welcome to nations of all kinds
+Founded 27 July 2017 by [nation=long]Solborg[/nation]
 
-[color=dodgerblue]Founded 27 July 2017 by the Realm of Solborg[/color]
-[hr]
-[b]POLLS FOR THE PRESIDENTIAL ELECTION ARE OPEN. CLICK [url=https://www.nationstates.net/page=dispatch/id=880769][color=dodgerblue]HERE[/color][/url] TO VOTE.[/b]
+[b][color=dodgerblue]LATEST NEWS[/color][/b]
 
-[hr]
-[color=#666] Useful links: [/color][url=https://discord.gg/WYdJRy9][color=dodgerblue]Discord Server[/color][/url] | [url=https://goo.gl/D2b1TD][color=dodgerblue]View Map[/color][/url] | [url=https://goo.gl/forms/ThnF9KOCLopL9Jz62][color=dodgerblue]Map Application[/color][/url]
-[hr][color=#666]
-[b]Information[/b]
-[list]
-[*]Solborg has scheduled an election for the first Storting for the end of September.
-[*]Polls have opened for the Presidential Election. They will close at 08:50 UTC on 19 September 2017.
-[*]The Map Directive has passed overwhelmingly by a margin of 16 to 0.
-[/list]
-[/color][hr]
+[nation]New Westion[/nation] has been elected President.
+You can view the results [url=https://www.nationstates.net/page=dispatch/id=880769]here[/url].
 
-[b][color=#666]All WA members are required to endorse the WA Delegate and Statsminister, [/color][url=nation=Solborg][color=dodgerblue]Solborg[/color][/url].[/b]
+The first Storting election has been scheduled for 30 September 2017.
+More information is available [url=https://www.nationstates.net/page=dispatch/id=886582]here[/url].
+
+[b][color=dodgerblue]USEFUL LINKS[/color][/b]
+
+[url=https://discord.gg/WYdJRy9]Discord Server[/url]
+[url=https://goo.gl/D2b1TD]View Map[/url]
+[url=https://goo.gl/forms/ThnF9KOCLopL9Jz62]Map Application[/url]
+
+
+Join the [url=page=un]World Assembly[/url] to become a citizen.
+Citizens are required to endorse the Statsminister, [nation]Solborg[/nation].

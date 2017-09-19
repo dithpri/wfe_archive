@@ -10,7 +10,9 @@ What could possibly go wrong?
 
 [b]The following nations hold regular membership status[/b]
 [color=orange]Regular members are able to vote on proposals.[/color]
-N/A
+[nation]The Rexism Guard[/nation]
+[nation]Vania Armal[/nation]
+[nation]The holy roman empire III[/nation]
 
 [b]The following nations hold associated non-member status[/b]
 [color=green]Associated non-members are not eligible to vote on proposals.[/color]
