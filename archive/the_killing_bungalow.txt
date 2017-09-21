@@ -1,7 +1,8 @@
 [color=orange]This isn&#39;t the killing house anymore, its [region]The Killing Bungalow[/region].
 
 These are those in power at the moment:[/color]
-[color=red][nation]Utilitarian Alliance[/nation] -- Founder and Dictator[/color]
+[color=red][nation=long]Utilitarian Alliance[/nation] -- Founder and Dictator
+[nation=long]Jehovias Witnesses[/nation] -- Information Collection, Review, And Distribution[/color]
 
 [color=orange]If you would like to apply for a position of power, refer to the appointment form posted below.
 
