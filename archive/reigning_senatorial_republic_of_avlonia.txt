@@ -6,8 +6,9 @@ REGIONAL LINKS: [url=https://discord.gg/f5yFbre]Discord[/url] , [url=https://www
 *The Reigning Senatorial Republic of Avlonia&#39;s Government*
 King: [nation=short]Marrum Graecia[/nation]
 WA Delegate: [Free]
-Prime Minister: TO BE ELECTED SOON
-Minister of Internal Affairs: TO BE ELECTED SOON
+Prime Minister: [nation=short]Cyrbia[/nation]
+Secretary Of State: [nation=short]Catakastan[/nation]
+Minister of Internal Affairs: [nation=short]New Hellenic State[/nation]
 Minister of Foreign Affairs: TO BE ELECTED SOON
 Minister of Defense: TO BE ELECTED SOON
 Minister of Communications: TO BE ELECTED SOON

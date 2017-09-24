@@ -1,0 +1,24 @@
+This region is the official Capitol of the [color=blue]Supreme Commonwealth of United Territories[/color]
+
+[u]Officers[/u]
+Emperor | [nation]Morriband[/nation]
+President | [nation]Renegalle[/nation]
+Prime Minister | [nation]Pokemanland[/nation]
+Congressional Speaker | [nation]Viscondy[/nation]
+
+[u]Territories[/u]
+[i]Dominions[/i]
+[region]Arcem[/region]
+[region]Homelands[/region]
+[region]Force[/region]
+
+[i]Provinces[/i]
+[region]Pigsty Steppes[/region]
+[region]The Commonwealth of Royals[/region]
+[region]New Apoloin[/region]
+[region]The United Federation of Capitalists[/region]
+[region]Intergalactic Spampire of Lord Jumbo Dog[/region]
+
+[i]Outposts[/i]
+[region]The Commonwealth Times[/region]
+[region]Societatem[/region]
