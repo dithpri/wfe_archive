@@ -8,15 +8,10 @@
 [nation]Corava[/nation]
 [nation]Galiziae[/nation]
 
-[i][b][color=black]Cilisian Empires[/i][/b][/color]
+[i][b][color=blue]Second Orcheet Empire[/i][/b][/color]
 [nation]Sylonox[/nation]
 [nation]NeopaSizil[/nation]
-[nation]Nova Qart Hadasht[/nation]
+[nation]Oxadan[/nation]
+[nation]Valucha[/nation]
 
-[i][b][color=teal]Asian League (non-alliance assembly)[/color][/b][/i]
-[nation]Fanace[/nation] (Power Seat, reign ends in 2 years)
-[nation]Sylonox[/nation]
-[nation]Numbeli[/nation] (Subpower Seat, reign has ended)
-[nation]Gulgaria Inonitus[/nation]
-
-[b][i][color=yellow]Defcon:3[/color][/i][/b] Events: Salvastakoan Liberation War
+[i][b][color=yellow] Year: 2074 [/color][/i][/b]

@@ -9,8 +9,8 @@ WA Delegate: [Free]
 Prime Minister: [nation=short]Cyrbia[/nation]
 Secretary Of State: [nation=short]Catakastan[/nation]
 Minister of Internal Affairs: [nation=short]New Hellenic State[/nation]
+Minister of Defense: 
 Minister of Foreign Affairs: TO BE ELECTED SOON
-Minister of Defense: TO BE ELECTED SOON
 Minister of Communications: TO BE ELECTED SOON
 Minister of RP/Electoral Manager: TO BE ELECTED SOON
 
