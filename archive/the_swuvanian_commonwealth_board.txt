@@ -1,3 +1,6 @@
+--- [b][i][u]Regional Motto: &quot;Envoyez-nous victorieux&quot;[/u][/i][/b] ---
+    --- [i][u]Regional Anthem: &quot;My Commonwealth&quot;[/u][/i] ---
+
 Independence from [region]United Kingdom[/region], [region]The Kingdom of Great Britain[/region]
 [u]Establishment of Government:[/u]
 
@@ -9,5 +12,5 @@ World Assembly Member
 Close Alliance: [region]The Alliance of The Golden Phoenix[/region]
 Classification: [b][u]Federal Royalty, Parliamentary, Constitutional Democratic-Republic[/u][/b]
 
-Predecessor: [nation]United Lands of Prumu[/nation]
+Predecessor: [nation]United Lands of Prumu[/nation], [region]Prumuan Continental Region[/region] ([b]No longer exist[/b])
 Independent Region for Nation-States of Swuvania: [region]Renegade Islands Alliance[/region]

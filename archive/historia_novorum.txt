@@ -15,7 +15,7 @@
 [nation=short]The Union of the Isles of BRitannia[/nation]
 
 [color=darkred][b][i][u]Moderator[/i][/u][/b][/color]
-[i]Vacant[/i]
+[nation]Italizio[/nation]
 
 [color=darkred][b][i][u]Archivist[/i][/u][/b][/color]
 [nation=short]Truuistan[/nation]
