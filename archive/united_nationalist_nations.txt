@@ -5,7 +5,7 @@
 
 [b]President:[/b] [nation=short]Elipium[/nation]
 [b]Vice President:[/b] [nation=short]Konsiair[/nation]
-[b]Minister of Internal Affairs:[/b] [nation]Nova Blarazia[/nation]
+[b]Minister of Internal Affairs:[/b] -vacant-
 [b]Minister of Foreign Affairs:[/b] -vacant-
 [b]Minister of Defense:[/b] -vacant-
 [b]Minister of War:[/b] [nation]Xitania[/nation]
@@ -15,6 +15,6 @@
 
 [hr][hr][color=black][b]Order of the Day:[/color][/b]
 
-[b][url=https://www.nationstates.net/page=un]Join the World Assembly[/url] 
+[b]Move to the [region]Reigning Senatorial Republic of Avlonia[/region]
 
 [hr][hr]DEFCON Level: [color=blue]5[/color][/b]

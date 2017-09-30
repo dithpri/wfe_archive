@@ -1,1 +1,4 @@
-[color=navy][b]British South Atlantic[/b][/color]
+[color=navy][b]British South Atlantic
+Sister Region:[/b] [region=British South Atlantic Territory]
+a [region=0000] holding region
+[b]Founded:[/b] 2017 Sep 30[/color]
