@@ -10,7 +10,7 @@ Prime Minister: [nation=short]Cyrbia[/nation]
 Secretary Of State: [nation=short]Catakastan[/nation]
 Minister of Internal Affairs: [nation=short]New Hellenic State[/nation]
 Minister of Defense: [nation=short]Mayo and Other Condiments Extra[/nation]
-Minister of Foreign Affairs: TO BE ELECTED SOON
+Minister of Foreign Affairs: [nation=short]Elipium[/nation]
 Minister of Communications: TO BE ELECTED SOON
 Minister of RP/Electoral Manager: TO BE ELECTED SOON
 

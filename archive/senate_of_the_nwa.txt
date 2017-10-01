@@ -3,11 +3,11 @@ Welcome to the Senate of the [b][region]New Western Atlantic[/region][/b]! [b]||
 [b]Composition[/b] [color=gold]&amp;#9745;[/color]
 [list] [b][i]Speaker of the Senate[/i]:  [i]Vacant[/i][/b]
 
-[b][i]Senate Leader[/i]:  [nation=short+noflag]the society for black sheep[/nation] ([color=#0080FF]ACT[/color][/b])
+[b][i]Senate Leader[/i]:  [nation=short+noflag]trade federations[/nation][/b] ([b][color=red]CON[/color][/b])
 
-[list][i]Deputy Senate Leader[/i]:  [i][nation=short+noflag]Ebania[/nation] ([color=orange]LBD[/color])[/i][/list]
+[list][i]Deputy Senate Leader[/i]:  [i][nation=short+noflag]Bergonnia[/nation] ([color=orange]LBD[/color])[/i][/list]
 
-[b][i]Shadow Leader[/i]: [nation=short+noflag]trade federations[/nation][/b] ([b][color=red]CON[/color][/b])
+[b][i]Shadow Leader[/i]: [nation=short+noflag]the society for black sheep[/nation] ([color=#0080FF]ACT[/color][/b])
 
 [list][i]Minor Party Shadow Leader: [nation=noflag]Grand Rebels[/nation] ([color=purple]RNP[/color])[/i]
 
