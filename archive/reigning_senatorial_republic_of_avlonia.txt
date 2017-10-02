@@ -4,14 +4,18 @@ Join our monarchic/democratic community today, and meet some new friends!
 REGIONAL LINKS: [url=https://discord.gg/f5yFbre]Discord[/url] , [url=https://www.youtube.com/watch?v=PIQSEq6tEVs]Regional Anthem[/url]
 
 *The Reigning Senatorial Republic of Avlonia&#39;s Government*
-King: [nation=short]Marrum Graecia[/nation]
-WA Delegate: [nation=short]Nova Blarazia[/nation]
-Prime Minister: [nation=short]Cyrbia[/nation]
-Secretary Of State: [nation=short]Catakastan[/nation]
-Minister of Internal Affairs: [nation=short]New Hellenic State[/nation]
-Minister of Defense: [nation=short]Mayo and Other Condiments Extra[/nation]
-Minister of Foreign Affairs: [nation=short]Elipium[/nation]
-Minister of Communications: TO BE ELECTED SOON
-Minister of RP/Electoral Manager: TO BE ELECTED SOON
+-------------------------
+King of Avlonia: [nation]Marrum Graecia[/nation]
+WA Delegate: [nation]Nova Blarazia[/nation]
+Acting Prime Minister: [nation]Elipium[/nation]
+Minister of Interior and Com.: [nation]Mayo and Other Condiments Extra[/nation]
+Deputy Prime Minister: [nation]Catakastan[/nation]
+Foreign Minister: [nation]Cyrbia[/nation]
+Royal General: [nation]Konsiair[/nation]
 
+Legislative Branch
+Speaker: To Be Elected
+Senator I: [nation]Normal Guy[/nation]
+Senator II: [nation]Adirondacks[/nation]
+-------------------------
 Enjoy your stay![/b]
