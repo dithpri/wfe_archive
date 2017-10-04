@@ -1,7 +1,6 @@
-[hr][color=navy][list][b]Iranian Islamic Republic[/b][/color][/list][hr]
-[color=006600]
-[list][b]Sister Regions:[/b]
+[hr][color=navy][list][b]Iranian Islamic Republic[/b][/color][/list][hr][color=006600][list][b]Sister Regions:[/b]
 [list=1][*] [region=Republic of Iran]
-[*] [region=Mashhad][/list]
-These are puppet storage regions
-Embassy offers are not accepted at this time[/list][/color]
+[*] [region=Mashhad][/list][b]Founded:[/b] 2017 Jul 11
+[b]Featured:[/b] 2017 Oct 04
+This region was created to house several Iranian flagged puppets.
+Visitors and guests are welcome.[/list][/color]
