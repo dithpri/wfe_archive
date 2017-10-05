@@ -9,13 +9,3 @@ Reichsf&uuml;hrer wird gew&auml;hlt (Flagge wird sich bei anderen Reichsf&uuml;h
 [nation]Heilige Norditalien[/nation]
 
 [hr]
-(Bundesstaaten werden in Ringe aufgeteilt, um sie besser zu verwalten 
-und Bundesstaaten werden durch Ringe in der Regierung vertreten.)
-Ringe:
-
-- Amerikanische: [nation]Heilige Osterreich-Ungarn[/nation],[nation]Vereinigten Staaten von Amerika[/nation],
-
-- Germanische: [nation]Heilige Deutschland[/nation],[nation]Heilige Preussen[/nation],[nation]Vereinigten Niederlande[/nation]
-
-- Romanische: [nation]Heilige Norditalien[/nation],[nation]Heilige Burgund[/nation],[nation]Kirchenstaat[/nation],
-[nation]Ungarn-Kroatien[/nation]
