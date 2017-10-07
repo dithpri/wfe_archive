@@ -8,7 +8,7 @@
 [nation]Corava[/nation]
 [nation]Galiziae[/nation]
 
-[i][b][color=blue]Second Orcheet Empire[/i][/b][/color]
+[i][b][color=blue]First Sylonoxian empire [/i][/b][/color]
 [nation]Sylonox[/nation]
 [nation]NeopaSizil[/nation]
 [nation]Oxadan[/nation]

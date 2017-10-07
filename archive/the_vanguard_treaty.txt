@@ -15,5 +15,4 @@
 [B]OBSERVER REGIONS:[/B]
 
 [list][*][region]The Communist Legion[/region]
-[*][region]Union of Proletarian States[/region]
-[*][region]The Enclave Region of the USSD[/region][/list]
+[*][region]Soviet Proletariat Republics[/region][/list]
