@@ -1,7 +1,8 @@
 Kingdom of Kalmar
 Constitutional Monarchy
-Current King: 
+Current King: [nation=short]New Iredale[/nation]
 Current Queen:
-Current Heir:
-Current Prime Minister:
+Current Heir: 
+Current Prime Minister: 
 Current Deputy Prime Minister:
+Provisional Democratic President: [nation]Hammish[/nation]
