@@ -1,2 +1,5 @@
 [b][u]Welcome to Amethystia![/u][/b]
 [region]The Kingdom of Amethystia[/region] is composed of [nation=short]East Amethystia[/nation] and [nation=short]West Amethystia[/nation], formed after a split imposed by a harsh treaty after [region=The Kingdom of Amethystia] suffered a defeat in war.
+
+
+[nation=short]East Amethystia[/nation] is an industrial, repressive, military-focusing regime while [nation=short]West Amethystia[/nation] is becoming a welfare state with an average economy.

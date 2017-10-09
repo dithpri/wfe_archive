@@ -10,7 +10,7 @@
   ----------------------------------------------------------------------------------------[b][color=purple]Hierarchy[/color][/b]----------------------------------------------------------------------------------------
 
 
-[nation]Nazi Redland[/nation]
+[center][nation]Nazi Redland[/nation]
 |
 [nation]Drosnia[/nation] + [nation]Vurtur[/nation]
 |
@@ -18,4 +18,4 @@
 |
 [nation]Dsco II Milo[/nation]
 |
-[nation=long]Worst[/nation]
+[nation=long]Worst[/nation][/center]
