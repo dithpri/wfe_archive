@@ -1,4 +1,14 @@
-[b][color=purple]Welcome to The Grand League![/b]
+[b][color=purple]Welcome to The Grand League![/b][/COLOR]
+______________________________________________________________________________________________________________________________________________
 
-King: His Majesty King Maricos I 
-Prime Minister: Rt. Hon. New Sental[/color]
+[color=purple][b]Government[/b][/COLOR]
+
+[color=red]Prime Minister:[/COLOR][nation]New Sental[/nation]
+[color=green]Home Secretary:[/COLOR] [i]vacant[/i]
+[color=green]Foreign Secretary: [/COLOR][i]vacant[/i]
+[color=green]Defence Secretary: [/COLOR][nation]Cubarb[/nation]
+
+______________________________________________________________________________________________________________________________________________
+
+[b][color=purple]Please endorse the Prime Minister [nation]New Sental[/nation][/b][/COLOR]
+______________________________________________________________________________________________________________________________________________
