@@ -1,14 +1,18 @@
 [b][color=purple]Welcome to The Grand League![/b][/COLOR]
-______________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________
+
+[color=red]King[/color][color=purple]:[/color] [color=orange]Field Marshal Lord Sir Liam Turner of [nation=noflag]maricos[/nation][/color]
 
 [color=purple][b]Government[/b][/COLOR]
 
-[color=red]Prime Minister:[/COLOR][nation]New Sental[/nation]
+[color=red]Prime Minister: [/COLOR][nation]New Sental[/nation]
 [color=green]Home Secretary:[/COLOR] [i]vacant[/i]
 [color=green]Foreign Secretary: [/COLOR][i]vacant[/i]
 [color=green]Defence Secretary: [/COLOR][nation]Cubarb[/nation]
 
-______________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________
 
 [b][color=purple]Please endorse the Prime Minister [nation]New Sental[/nation][/b][/COLOR]
-______________________________________________________________________________________________________________________________________________
+
+[b][color=darkred]ENDORSEMENT CAP: 0[/b][/color]
+________________________________________________________________________________________________________________________________

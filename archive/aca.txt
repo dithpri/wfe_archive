@@ -17,6 +17,6 @@
 [b]Poll Starts: N/A[/b]
 [b]Poll Closes: N/A[/b]
 [b]Current Candidates:[/b]
-[list][color=green][nation=short+noflag]Minachia[/nation] (Reelection)[/color][/list]
+[list][nation=short+noflag]Minachia[/nation] [color=green] (Reelection)[/color] [color=red]Republican[/color][/list]
 [b]Projected Winner:[/b] [nation=short+noflag]Minachia[/nation]
 [b]To run for office, contact the current President.[/b]
