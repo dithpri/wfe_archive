@@ -1,11 +1,1 @@
-[b]PUPPET STORAGE.[/b]
-
-[b]Puppets:[/b]
-[nation]RP Martigues[/nation].
-[nation]Martiguesian Papua[/nation].
-[nation]Spanish Low Countries[/nation].
-[nation]Filipin[/nation].
-[nation]Locoucka Citer[/nation].
-
-[b]Non-Puppets:[/b]
-[nation]Western Finlay[/nation].
+Welcome.

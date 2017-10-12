@@ -10,7 +10,8 @@ Prime Minister: [nation]Fivin Valistor[/nation]
 Minister of Internal Affairs: [nation]Saint Mirana of Marmoreal[/nation]
 Minister of Foreign Affairs: [nation]Adirondacks[/nation]
 Minister of Regional Security: [nation]Sikemet[/nation]
-Minister of Communications: [nation]Heypeople[/nation][/b]
+Minister of Communications: [nation]Heypeople[/nation]
+Minister of Propaganda: [nation]Electric Ave[/nation][/b]
 
 [hr][hr][color=black][b]All citizens must pledge allegiance to our Supreme Leader[/color][/b]
 
