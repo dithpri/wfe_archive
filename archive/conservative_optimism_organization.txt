@@ -4,10 +4,10 @@ Government of The COO:
 Founder: [nation]Zuthra[/nation]
 5th President of COO: [nation]Marrum Graecia[/nation]
 1st Vice President of COO: [nation]Nordic Traders[/nation]
-Minister of Domestic Affairs: [VACANT]
-Minister of Foreign Affairs: [nation]Invictean[/nation]
-Minister of Defense: [nation]Normal Guy[/nation]
-Minister of Communications: [VACANT]
+1st Minister of Domestic Affairs: [VACANT]
+1st Minister of Foreign Affairs: [nation]Invictean[/nation]
+1st Minister of Defense: [nation]Normal Guy[/nation]
+1st Minister of Communications: [VACANT]
 ---------------------------------------------
 REGIONAL MOTTO: [i]&quot;To anger a Conservative, lie to them. To anger a Liberal, tell them the truth.&quot;[/i]
 ---------------------------------------------
