@@ -8,10 +8,11 @@
 [nation]Corava[/nation]
 [nation]Galiziae[/nation]
 
-[i][b][color=blue]First Sylonoxian empire [/i][/b][/color]
+[i][b][color=blue]Cicilian Union [/i][/b][/color]
 [nation]Sylonox[/nation]
-[nation]NeopaSizil[/nation]
+[nation]Unieshan[/nation]
 [nation]Oxadan[/nation]
 [nation]Valucha[/nation]
+[nation]Cantana[/nation]
 
 [i][b][color=yellow] Year: 2074 [/color][/i][/b]

@@ -1,2 +1,5 @@
 [b]Kigali[/b]
-a [region=0000] region
+a [region=0000] puppet storage region
+[b]Founded:[/b] 2016 May 18
+
+Capital City of [region=Rwanda]

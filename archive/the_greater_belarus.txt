@@ -1,0 +1,7 @@
+[list]##################################
+#[color=F6F6F0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[/color] #
+#[color=F6F6F0]. . . . . . . . . .[/color] [color=maroon][b]The Greater Belarus[/b][/color] [color=F6F6F0]. . . . . . . . . . .[/color]#
+#[color=F6F6F0]. . . . . . . . . .[/color] [color=navy]a [region=0000] holding region[/color] [color=F6F6F0]. . . . . .. . . . . .[/color]#
+#[color=F6F6F0]. . . . . . . . . .[/color] [color=sienna][b]Founded:[/b] 2017 Oct 15[/color] [color=F6F6F0]. .. . . . . . . . .[/color]#
+#[color=F6F6F0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[/color] #
+##################################[/list]
