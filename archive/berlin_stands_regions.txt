@@ -8,6 +8,6 @@ Remember, Most Nations Here Are Puppets of nations in Berlin Stands.
 
 Democratic=1
 Dictatorship=1
-Socialist=0
+Socialist=1
 Conservative=0
 Other=1

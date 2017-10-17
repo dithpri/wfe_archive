@@ -9,3 +9,9 @@ Vangmar is a barren wasteland, isolated from Imperial civilisation. From 24th Au
 [color=green][b]Vangmar is a protectorate of the [region=Confederation of Corrupt Dictators].[/color][/b]
 
 [i]For questions, contact [nation=Jocospor].[/i]
+
+[hr]
+[color=darkorange][u][b]Inmate Register[/b][/u][/color] [i]- For a reference of offenses see the archive in [region]confederation of corrupt dictators[/region][/i]
+
+[list]
+[*][nation]lizc[/nation] - Discharged: offender has been discharged from their sentence and is no longer under the jurisdiction of Vangmar for that sentence. 

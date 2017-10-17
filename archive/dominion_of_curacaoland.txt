@@ -1,1 +1,8 @@
 The nation of Curacaoland and its protectorates/colonies. Includes occupied regions.
+
+MAIN NATION
+[nation]Curacaoland[/nation]
+OCCUPIED REGIONS
+[nation]Kyiviora[/nation]
+PROTECTORATES
+[nation]Bob Smith[/nation]
