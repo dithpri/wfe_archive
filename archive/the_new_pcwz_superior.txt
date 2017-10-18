@@ -9,13 +9,12 @@
 [color=silver][b][i][u]House of Congress Speaker: Unfilled[/u][/i][/b][/color]
 
 [color=turquoise][b][i][u]Offiicers:[/u][/i][/b][/color]
--Minister of Security: Unfilled
+-Minister of Security: [nation]Poland Ukraine[/nation]
 -Minister of Homeland: Unfilled
--Minister of Internal Affairs: Unfilled
--Minister of External Affairs: Unfilled
+-Minister of Internal Affairs: [nation]Valkoinen Tiikeri[/nation]
+-Minister of External Affairs: [nation]Dalumu3[/nation]
 -Minister of Information: Unfilled
--Minister of Commisions: Unfilled
--Minister of Advisory: Unfilled
+-Minister of Commisions: [nation]Joosh[/nation]
 
 [color=green][b][i][u]Thriving Economy[/u][/i][/b][/color]
 
