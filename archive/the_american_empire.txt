@@ -1,1 +1,7 @@
-WELCOME TO THE AMERICAN EMPIRE !!!
+[color=firebrick][b]Welcome to the American Empire[/b][/color]
+
+[b][color=navy][u]The Monarchy[/u][/color][/b]
+[b]Emperor:[/b] [nation]Merriwether[/nation]
+
+[b][color=purple][u]Constituent realm[/u][/color][/b]
+[region]Kingdom of America[/region]
