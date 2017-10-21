@@ -1,1 +1,15 @@
 (CROTCP, Perfect reigon name.)
+The [region]Corokian Reigon of the Corokian Peoples[/region] of Democracy, and others.
+
+COLONIES:
+
+[nation]French Coroki[/nation]
+[nation]Anarchic Coroki[/nation]
+
+NATIONS:
+
+[nation]Coroki[/nation]
+
+EMBASSIES:
+
+[nation]Monoterria[/nation]: owns reigon [region]Monoterria Republic[/region]

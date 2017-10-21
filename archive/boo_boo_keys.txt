@@ -13,5 +13,10 @@
 [nation]Unieshan[/nation]
 [nation]Valucha[/nation]
 [nation]Cantana[/nation]
+[nation]Sadum[/nation]
 
-[i][b][color=yellow] Year: 2074 [/color][/i][/b]
+[i][b][color=darkblue]Libertaean Empire[/i][/b][/color]
+[nation]Libertaea[/nation]
+[nation]New_Gascogne[/nation]
+
+[i][b][color=black] Year: 2078 [/color][/i][/b]
