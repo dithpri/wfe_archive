@@ -15,8 +15,10 @@
 [nation]Cantana[/nation]
 [nation]Sadum[/nation]
 
-[i][b][color=darkblue]Libertaean Empire[/i][/b][/color]
+[i][b][color=darkblue]Anglian Empire (The Commonwealth)[/i][/b][/color]
 [nation]Libertaea[/nation]
 [nation]New_Gascogne[/nation]
+[nation]Klaasterland[/nation]
+[nation]Southronland[/nation]
 
-[i][b][color=black] Year: 2078 [/color][/i][/b]
+[i][b][color=black] Year: 2081 [/color][/i][/b]

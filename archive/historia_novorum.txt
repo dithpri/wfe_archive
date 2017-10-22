@@ -18,7 +18,7 @@
 [nation]Italizio[/nation]
 
 [color=darkred][b][i][u]Archivist[/i][/u][/b][/color]
-[nation=short]Truuistan[/nation]
+Vacant
 
 [color=darkred][b][i][u]Cartographer[/i][/u][/b][/color]
 [nation=short]North America and the Great Lakes[/nation]
