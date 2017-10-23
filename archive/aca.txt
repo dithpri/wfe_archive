@@ -13,10 +13,15 @@
 
 [hr]
 [b][color=green]ACA Presidential Elections![/color][/b]
-[b]Poll Starts: N/A[/b]
-[b]Poll Closes: N/A[/b]
+[b]Poll Opens: December 15[/b]
+[b]Poll Closes: December 18[/b]
 [b]Current Candidates:[/b]
-[list][nation=short+noflag]Minachia[/nation] [color=green] (Reelection)[/color] [color=red]ACL[/color][/list]
+[list][nation=short+noflag]Minachia[/nation] [color=green] (Reelection)[/color] [color=red](ACL)[/color][/list]
 [b]Projected Winner:[/b] [nation=short+noflag]Minachia[/nation]
-[b]To run for office, contact the current President.[/b]
+[b]To run for office, announce it on the RMB.[/b]
 [b][color=blue]WA Membership is [u]required[/u] to vote.[/color][/b]
+[hr]
+[b][color=blue]The ACA Congress[/color][/b]
+[b]Senate:[/b] N/A
+[b]House of Representatives:[/b] [nation]Kepheus[/nation] [color=red](ACL)[/color], [nation]Tresley[/nation] [color=red](ACL)[/color]
+[b]At Vote:[/b] N/A

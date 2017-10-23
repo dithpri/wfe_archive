@@ -6,14 +6,14 @@
 
 [color=blue][b][i][u]Imperial Leader: Unfilled[/u][/i][/b][/color]
 
-[color=silver][b][i][u]House of Congress Speaker: Unfilled[/u][/i][/b][/color]
+[color=silver][b][i][u]House of Congress Speaker: [nation]Litala[/nation][/u][/i][/b][/color]
 
 [color=turquoise][b][i][u]Offiicers:[/u][/i][/b][/color]
 -Minister of Security: [nation]Poland Ukraine[/nation]
 -Minister of Homeland: [nation]Ithiopi[/nation]
 -Minister of Internal Affairs: [nation]Valkoinen Tiikeri[/nation]
 -Minister of External Affairs: [nation]Dalumu3[/nation]
--Minister of Information: Unfilled
+-Minister of Information: [nation]Dovia[/nation]
 -Minister of Commisions: [nation]Joosh[/nation]
 
 [color=green][b][i][u]Thriving Economy[/u][/i][/b][/color]
@@ -22,5 +22,5 @@
 
 [color=maroon][b][i][u]Active Military[/u][/i][/b][/color]
 
-
+[color=lime][b][i][u]Our Website-[url=https://sites.google.com/view/thenewpcwzsuperior/home]link[/url][/u][/i][/b][/color]
 

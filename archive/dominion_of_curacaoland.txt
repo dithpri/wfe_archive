@@ -6,3 +6,5 @@ OCCUPIED REGIONS
 [nation]Kyiviora[/nation]
 PROTECTORATES
 [nation]Bob Smith[/nation]
+[nation]Bread for Everyone[/nation]
+[nation]Regno Hominum[/nation]
