@@ -1,7 +1,12 @@
-[color=firebrick][b]Welcome to the American Empire[/b][/color]
+[color=firebrick][b][u]Welcome to The American Empire[/color] [color=navy](TAE)[/color][/u][/b]
+[color=navy]~ [i]For a United and Imperial America[/i] ~[/color]
+
+[hr]
 
 [b][color=navy][u]The Monarchy[/u][/color][/b]
 [b]Emperor:[/b] [nation]Merriwether[/nation]
+
+[hr]
 
 [b][color=purple][u]Constituent realm[/u][/color][/b]
 [region]Kingdom of America[/region]

@@ -8,7 +8,7 @@ Vangmar is a remote Penal Colony, isolated from Imperial civilization. Establish
 [i]For questions, contact [nation=Jocospor].[/i]
 
 [hr]
-[color=darkorange][u][b]Inmate Register[/b][/u][/color] [i]- For a reference of offenses see the archive in [region]confederation of corrupt dictators[/region][/i]
+[color=darkorange][u][b]Inmate Register[/b][/u][/color] [i]- For a reference of offenses see the archive in [region]Confederation of Corrupt Dictators[/region][/i]
 
 [list]
 [*][nation]lizc[/nation] - Discharged: offender has been discharged from their sentence and is no longer under the jurisdiction of Vangmar for that sentence. 
