@@ -4,6 +4,6 @@
 [/u][/i]
 
 
-[Color=blue]
-DEFCON: 5
+[Color=green]
+DEFCON: 4
 [/color][/b]

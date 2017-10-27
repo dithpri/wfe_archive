@@ -2,7 +2,7 @@
 [i][color=darkgrey]est. Oct. 22nd AD2017 in [nation=noflaglong]Leipzigton[/nation][/color][/i]
 
 [color=darkblue][i][B]Cooperation[/B], [b]Justice[/b], [b]Peace[/b], [b]Freedom[/b] and [B]Sovereignty[/B][/i][/color]
-[hr][color=darkred][B]/!\ This region is under construction /!\[/B][/color] [color=darkgrey](want to taking part in its fondation ? send a telegram to [nation=noflag]Leipzigton[/nation])[/color][hr]
+[hr][color=darkred][B]/!\ This region is under construction /!\[/B][/color] [color=darkgrey](want to take part in its fondation ? Send a telegram to [nation=noflag]Leipzigton[/nation])[/color][hr]
 [B]Regional News: [i]N/A[/i]
 Last Executive Order: [i]N/A[/i]
 Current Council Debate: [i]N/A[/i]
@@ -11,10 +11,8 @@ DEFCON:[/B] [color=lightgrey]1|2|3|4|[/color][b][color=darkcyan]5[/color]
 Borders statuts: [color=green]Open![/color]
 
 No embassy established so far.[/b][hr]
-[B][i][color=darkgrey]In the [/color][/i][color=darkblue]C[/color]S[color=darkred]N[/color][i][color=darkgrey], you can join a faction or create your own faction (in this case send a telegram to Leipzigton). 
-A faction can be a [u]political party[/u], a [u]trade organization[/u], a [u]military alliance[/u], or a [u]monarchical union[/u][/color][/i]
+[hr]
+[spoiler=Factions][B]Factions:[/B]
 
-Active factions:[/B]
-
-[list][*][B]The [color=blue]Democratic[/color] [color=red]Union[/color][/B] [i][color=darkgrey]led by[/color][/i] [b][nation]Two-Nations[/nation][/b]
-[*][B]The [color=maroon]Council of Non-Aligned Countries[/color][/B] [i][color=darkgrey]led by[/color][/i] [b][nation]Froce[/nation][/b]
+[list][*][B]The [color=blue]Democratic[/color] [color=red]Union[/color][/B] [i][color=darkgrey]led by[/color][/i] [b][nation=long]Two-Nations[/nation][/b]
+[*][B]The [color=maroon]Council of Non-Aligned Countries[/color][/B] [i][color=darkgrey]led by[/color][/i] [b][nation=long]Froce[/nation][/b][/spoiler]

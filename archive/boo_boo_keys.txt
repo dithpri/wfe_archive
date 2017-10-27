@@ -7,6 +7,7 @@
 [nation]Intonian[/nation]
 [nation]Corava[/nation]
 [nation]Galiziae[/nation]
+[nation]Dismaris[/nation]
 
 [i][b][color=blue]Sylonoxian empire [/i][/b][/color]
 [nation]Sylonox[/nation]
