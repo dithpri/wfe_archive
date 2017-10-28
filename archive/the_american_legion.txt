@@ -11,11 +11,11 @@
 [b]Flagship:[/b] [nation=short]Xitania[/nation]
 [b]Director of Intelligence:[/b] [nation=short]Invictean[/nation]
 [b]Lieutenant General:[/b] [nation=short][/nation]
-[b]Brigadier General:[/b] [nation=short]Hapocrid[/nation]
+[b]Brigadier General:[/b] [nation=short][/nation]
 [b]Brigadier General:[/b] [nation=short][/nation]
 
 [hr][hr][color=indigo][b]Order of the Day:[/color][/b]
 
 [b][url=https://www.nationstates.net/page=un]Join the World Assembly[/url]. 
 
-[hr][hr]DEFCON Level: [color=blue]5[/color][/b]
+[hr][hr]DEFCON Level: [color=red]1[/color][/b]

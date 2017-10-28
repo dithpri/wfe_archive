@@ -9,17 +9,19 @@
 [nation]Galiziae[/nation]
 [nation]Dismaris[/nation]
 
-[i][b][color=blue]Sylonoxian empire [/i][/b][/color]
+[color=steelblue][b][u]The Western Concordat[/u][/b][/color]
+
+[i][b][color=blue]Sylonoxian Empire [/i][/b][/color]
 [nation]Sylonox[/nation]
 [nation]Valucha[/nation]
 [nation]Sadum[/nation]
-
 
 [i][b][color=darkblue]Anglian Empire (The Commonwealth)[/i][/b][/color]
 [nation]Libertaea[/nation]
 [nation]New_Gascogne[/nation]
 [nation]Klaasterland[/nation]
 [nation]Southronland[/nation]
+[nation]Salvastako[/nation]
 
 [i][b][color=darkgreen]Western Mycenaean Defensive Alliance[/color][/b][/i]
 [nation]Unieshan[/nation]
