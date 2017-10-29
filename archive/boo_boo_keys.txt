@@ -9,15 +9,18 @@
 [nation]Galiziae[/nation]
 [nation]Dismaris[/nation]
 
+
 [color=steelblue][b][u]The Western Concordat[/u][/b][/color]
 
 [i][b][color=blue]Sylonoxian Empire [/i][/b][/color]
 [nation]Sylonox[/nation]
 [nation]Valucha[/nation]
 [nation]Sadum[/nation]
+[nation]Syntamir Nova[/nation]
 
 [i][b][color=darkblue]Anglian Empire (The Commonwealth)[/i][/b][/color]
 [nation]Libertaea[/nation]
+[nation]Crounwichland[/nation]
 [nation]New_Gascogne[/nation]
 [nation]Klaasterland[/nation]
 [nation]Southronland[/nation]
@@ -29,4 +32,4 @@
 [nation]Cantana[/nation]
 [nation]Koa o[/nation]
 
-[i][b][color=black] Year: 2082 [/color][/i][/b]
+[i][b][color=black] Year: 2083 [/color][/i][/b]

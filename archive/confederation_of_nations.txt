@@ -6,10 +6,11 @@
 [color=blue]&#149;[/color] Minister of Interior: [nation]Merlas[/nation]
 [color=blue]&#149;[/color] Minster of Law and Order: [nation=short]Il Corvonero[/nation]
 [color=blue]&#149;[/color] Minister of Foreign Affairs: [nation=short]Teuvessia[/nation]
-[color=blue]&#149;[/color] Minster of Recruitment: [nation=short]Birdland1987[/nation]
+[color=blue]&#149;[/color] Minster of Recruitment: [nation=short]Whestion[/nation]
 
 [color=red]&#149;[/color] [i]Legislative Branch[/i]
-[color=blue]&#149;[/color] Speaker:[nation]Merlas[/nation]
+[color=blue]&#149;[/color] Speaker:
+ [nation]Merlas[/nation]
 
 [color=red]&#149;[/color] [i]Judicial Branch[/i] 
 [color=blue]&#149;[/color] Regional Judge: [nation=short]La Summa Malitia[/nation] [color=blue]&#149;[/color] Term: 8/8/17-11/8/17.
