@@ -4,6 +4,7 @@ MAIN NATION
 [nation]Curacaoland[/nation]
 OCCUPIED REGIONS
 [nation]Kyiviora[/nation]
+[nation]Ellsmira[/nation]
 PROTECTORATES
 [nation]Bob Smith[/nation]
 [nation]Bread for Everyone[/nation]
@@ -12,6 +13,6 @@ PROTECTORATES
 [nation]Wuntuctrak[/nation]
 [nation]Ceunonia[/nation]
 [nation]Silthrima[/nation]
-[nation]Ellsmira[/nation]
 [nation]Osilonia[/nation]
 [nation]Kurola[/nation]
+[nation]Teirim[/nation]
