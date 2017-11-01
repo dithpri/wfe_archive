@@ -2,11 +2,11 @@
 
 [i]A region for all nations! Everyone is welcome![/i]
 
-[b]Want to join the Senate, or the National Assembly of the ULN. Just contact [nation]The Great French State[/nation] (Closed!).[/b]
+[b]Want to join the Senate, or the National Assembly of the ULN. Just contact [nation]The Great French State[/nation].[/b]
 
 [hr][spoiler=Senate of the ULN...][b]Speaker:[/b] TBD
 [b]Senators:[/b] N/A[/spoiler][hr][spoiler=National Assembly of the ULN...][b]President of the National Assembly:[/b] [nation]The Great French State[/nation]
-[b]Minister of State:[/b] TBD
+[b]Minister of State:[/b] [nation]Free Catalan State[/nation]
 [b]Minister of the Treasury:[/b] TBD
 [b]Minister of Defense:[/b] TBD
 [b]Minister of Justice:[/b] TBD
@@ -19,5 +19,5 @@
 [b]Minister of Transportation:[/b] TBD
 [b]Minister of Energy:[/b] TBD
 [b]Minister of Education:[/b] TBD
-[b]Minister of Peace:[/b] [nation]Free Catalan State[/nation]
+[b]Minister of Peace:[/b]
 [/spoiler]
