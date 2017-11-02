@@ -14,9 +14,11 @@
 
 [b][color=#4A235A]Grand Curiarch[/color][/b]: [nation]Decrovania[/nation] ([b][color=red]Independent[/color][/b])
 
-[b][color=#9A7D0A]Curia Members[/color][/b]:[list][*][nation=short]Hacksville[/nation] ([b][color=purple]Imperial[/color][/b])[*][nation=short]Freedharma[/nation] ([b][color=green]Gentimist[/color][/b])
+[b][color=#9A7D0A]Curia Members[/color][/b]:[list]
+[*][nation=short]Lanion Mon[/nation] ([b][color=purple]Imperial[/color][/b])
+[*][nation=short]New Nexon[/nation] ([b][color=purple]Imperial[/color][/b])
+[*][nation=short]Dominionaire[/nation] [b]([color=red]Independent[/color][/b])
 
-[*][nation=short]Wintony[/nation] ([b][color=green]Gentimist[/color][/b])
 
 [/list][hr]
 [i][b][color=gold]Quote of the day[/color][/b][/i]:
