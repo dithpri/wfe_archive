@@ -6,6 +6,8 @@ COLONIES
 OCCUPIED REGIONS 
 [nation]Kyiviora[/nation] 
 [nation]Ellsmira[/nation] 
+INSURGENTS
+[nation]South Curacaoland[/nation]
 PROTECTORATES 
 [nation]Bob Smith[/nation] 
 [nation]Bread for Everyone[/nation] 
