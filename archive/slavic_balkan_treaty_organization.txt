@@ -2,8 +2,6 @@
 
 [U]Member regions:[/U]
 [Region]Imperium Slavicum[/region]
-[Region]Velikiy Slaviya[/region]
-[region]Slavic Peoples Union[/region]
 [region]Slavija[/region]
 [region]Slavania[/region]
 

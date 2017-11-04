@@ -3,8 +3,6 @@ MAIN NATION
 [nation]Curacaoland[/nation]
 COLONIES
 [nation]Nedernas[/nation] 
-OCCUPIED REGIONS 
-[nation]Kyiviora[/nation] 
 [nation]Ellsmira[/nation] 
 INSURGENTS
 [nation]South Curacaoland[/nation]
@@ -20,3 +18,6 @@ PROTECTORATES
 [nation]Kurola[/nation] 
 [nation]Teirim[/nation]
 [nation]Landscape of Geometry[/nation]
+[nation]Toggy[/nation]
+FULLY INDEPENDENT AND ALLIED
+[nation]Kyiviora[/nation] 
