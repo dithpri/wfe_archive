@@ -1,29 +1,31 @@
-[B]
-&amp;#128073; &amp;#9874; &amp;#128104; [nation]NSA Administration[/nation], &amp;#8205;General Secretary of [region]National Socialist America[/region]
-[COLOR=BLACK]
+[B][COLOR=BLACK][u]ANTHEM[/u][LIST]
+&amp;#128073;  [url=https://www.youtube.com/watch?v=pfqlg0pYOd8]Battle Hymn of the Republic[/url][/LIST]
+
+[region]NATIONAL SOCIALIST AMERICA[/region] REGIONS
+[list]&amp;#128073; &amp;#128104; [nation]Northeast Administration[/nation]
+&amp;#128073; &amp;#128104; [nation]Midwest Administration[/nation]
+&amp;#128073; &amp;#128104; [nation]South Administration[/nation]
+&amp;#128073; &amp;#128104; [nation]West Administration[/nation][/LIST]
+
+[u]GENERAL SECRETARY[/u]
+[LIST]
+&amp;#128073; &amp;#9874; &amp;#128104; [nation]NSA Administration[/nation]
+[/LIST]
+
 [u] CENTRAL COMMITTEE[/u][list]
-&amp;#128073; &amp;#128104; tba
-&amp;#128073; &amp;#128104; tba
-&amp;#128073; &amp;#128104; tba
-&amp;#128073; &amp;#128104; tba
-&amp;#128073; &amp;#128104; tba
-[/list]
+&amp;#128073; &amp;#128104; tba - [region]American Northeast[/region]
+&amp;#128073; &amp;#128104; tba - [region]American Midwest[/region]
+&amp;#128073; &amp;#128104; tba - [region]American South[/region]
+&amp;#128073; &amp;#128104; tba - [region]American West[/region][/list]
 
 [u]&amp;#8205;NATIONAL PARLIAMENT[/u][list]
 &amp;#128073; &amp;#128104; tba
 [/list]
 
-[u]REGIONAL DIVISIONS
-[/u][list]
-&amp;#128073; &amp;#128104; [nation]Northeast Administration[/nation] - [region]American Northeast[/region]
-&amp;#128073; &amp;#128104; [nation]Midwest Administration[/nation] - [region]American Midwest[/region]
-&amp;#128073; &amp;#128104; [nation]South Administration[/nation] - [region]American South[/region]
-&amp;#128073; &amp;#128104; [nation]West Administration[/nation] - [region]American West[/region]
+&amp;#9878; [u]ADVOCACY[/u][list]
+&amp;#128073; &amp;#128104; [nation]American Wall-builders[/nation] - [region]American Wall[/region] 
 &amp;#128073; &amp;#128104; [nation]NSA Starfish Class[/nation] - [region]North Pacific Ocean[/region][/list]
 
-&amp;#9878; [u]ADVOCACY[/u][list]
-&amp;#128073; &amp;#128104; [nation]American Wall-builders[/nation] - [region]American Wall[/region] [/list]
-
-&amp;#128305; [u]DEFENSE[/u][list]
-&amp;#128073; tba[/list]
+  [u]DEFENSE[/u][list]
+&amp;#128073; &amp;#128104; tba[/list]
 [/COLOR][/b]

@@ -1,1 +1,5 @@
-[list][color=navy][b]Western America[/b][hr]Welcome[/color][/list]
+#############
+#[color=white]##### ######[/color]#
+# [color=blue]Western America[/color] #
+#[color=white]##### ######[/color]#
+#############
