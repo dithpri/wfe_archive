@@ -1,15 +1,6 @@
-The first fundamental theorem of calculus states that, if [i]f[/i] is continuous on the closed interval [b][a,b][/b] and [i]F[/i] is the indefinite integral of f on [a,b], then
+The first fundamental theorem of calculus states that, if [i]f[/i] is continuous on the closed interval [a,b] and [i]F[/i] is the indefinite integral of f on [a,b], then
 int_a^bf(x)dx=F(b)-F(a). 	
-(1)
 
 This result, while taught early in elementary calculus courses, is actually a very deep result connecting the purely algebraic indefinite integral and the purely analytic (or geometric) definite integral.
 
-The second fundamental theorem of calculus holds for f a continuous function on an open interval I and a any point in I, and states that if F is defined by
-F(x)=int_a^xf(t)dt, 	
-(2)
-
-then
-F^&#39;(x)=f(x) 	
-(3)
-
-at each point in I. 
+The second fundamental theorem of calculus holds for f a continuous function on an open interval I and a any point in I, and states that if F is defined by F(x)=int_a^xf(t)dt, then F^&#39;(x)=f(x) at each point in I. 

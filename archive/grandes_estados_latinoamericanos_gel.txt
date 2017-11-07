@@ -1,5 +1,18 @@
-.&iexcl;Bienvenido A GEL, Es Un Gusto Conocerte!
-.Welcome to GLS, Nice To Meet You!
+[color=red].&iexcl;Bienvenido A GEL, Es Un Gusto Conocerte!
+.Welcome to GLS, Nice To Meet You![/color]
 
-(PROHIBIDA LA VENTA DE TABACOS,ZOMBIES Y DROGAS)
-(PROHIBITED THE SALE OF TOBACCO, ZOMBIES AND DRUGS)
+[color=green](PROHIBIDA LA VENTA DE TABACOS,ZOMBIES Y DROGAS)
+(PROHIBITED THE SALE OF TOBACCO, ZOMBIES AND DRUGS)[/color]
+
+[color=blue]Esta Regi&oacute;n Esta Fundada Por:[nation]-Paraguay[/nation]
+This Region Is Founded By:[nation]-Paraguay[/nation][/color]
+
+[color=red]Join Us Now!
+Unete A Nosotros Ahora![/color]
+
+Help? Ayuda?
+
+[url=https://www.nationstates.net/page=display_region_rmb/region=grandes_estados_latinoamericanos_gel]Contact Us[/url]
+
+Write By:[nation]Werasonias[/nation]
+Escrito Por:[nation]Werasonias[/nation]
