@@ -1,1 +1,2 @@
 [b][i][u]Tests are done here.[/u][/i][/b]
+[color=blue]#TEST#TEST#[/color]

@@ -21,10 +21,13 @@
 &amp;#128073; &amp;#128104; tba - 
 [/list]
 
-[u]&amp;#8205;NATIONAL PARLIAMENT[/u]
+[u]&amp;#8205;PARLIAMENT OF THE STATES[/u]
 [list]
 &amp;#128073; &amp;#128104; tba
 [/list]
+
+[u]CULTURE[/u][list]
+&amp;#128073; [region]Americana[/region] &amp;#128104; [nation]Cultural Americana[/nation] [/LIST]
 
 &amp;#9878; [u]ADVOCACY[/u][list]
 &amp;#128073; [region]American Wall[/region] &amp;#128104; [nation]American Wall-builders[/nation] 

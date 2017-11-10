@@ -5,7 +5,7 @@
 [b][i]Government of Avlonia:
 Supreme Leader: [nation]Elipium[/nation]
 Prime Minister: [nation]Fivin Valistor[/nation]
-Minister of Internal Affairs: [nation]Saint Mirana of Marmoreal[/nation]
+Minister of Internal Affairs: [nation]Normal Guy[/nation]
 Minister of Foreign Affairs: [nation]adirondacks[/nation]
 Minister of Defense: [nation]sikemet[/nation]
 Minister of Communications: [nation]heypeople[/nation]
