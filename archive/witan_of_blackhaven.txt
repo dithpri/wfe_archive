@@ -2,14 +2,8 @@
 
 [hr]
 
-[url=https://www.nationstates.net/nation=kofutan/detail=factbook/id=913924][u][b][colour=Navy]Quick Links (Discord/Citizenship Form/Etc.)[/colour][/b][/u]
-[/url]
-
-
-[hr]
-
-[b]To those who can hear me, I say - do not despair. The misery that is now upon us is but the passing of greed - the bitterness of men who fear the way of human progress. The hate of men will pass, and dictators die, and the power they took from the people will return to the people. And so long as men die, liberty will never perish. [/b]
--From Prophet Erzal, Book of Light, 2:35
+[colour=Navy][u][b]Quick Links[/b][/u][/colour]
+[url=https://docs.google.com/forms/d/e/1FAIpQLScEPj6Gk97wxf45UKwi9eXfqTjtptPllbnpLi-nutd4FpaHaA/viewform?usp=sf_link][colour=Navy] Citizenship Form[/colour][/url] | [url=https://discord.gg/9jqEPbW][colour=Navy]Discord[/colour][/url] | [url=https://www.nationstates.net/nation=catakastan/detail=factbook/id=916358][colour=Navy]Map[/colour][/url] |
 
 [hr]
 
@@ -18,7 +12,7 @@
 Holy Overseer: [nation]catakastan[/nation]
 King: [nation]Wessenheim[/nation]
 Grand Archbishop: [nation]Kofutan[/nation]
-[hr]
+
 [u]Earls[/u]
 Earl: [nation]Maifleur[/nation]  
 Earl: [nation]Munstaria[/nation]
@@ -26,3 +20,6 @@ Earl: [nation]Northurriikith[/nation]
 [/colour]
 
 [hr]
+
+[colour=Darkolivegreen][u][b]Culture[/b][/u][/colour]
+[url=https://www.nationstates.net/page=dispatch/id=916238][colour=Darkolivegreen]Religion[/colour][/url]
