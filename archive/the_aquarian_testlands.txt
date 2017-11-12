@@ -1,0 +1,3 @@
+I use this region to test region options before I apply them somewhere else.
+
+Main nation = [nation]The Aquarian Islands[/nation]

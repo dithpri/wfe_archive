@@ -1,40 +1,40 @@
-[B][COLOR=BLACK][u]ANTHEM[/u][LIST]
-&amp;#128073;  [url=https://www.youtube.com/watch?v=pfqlg0pYOd8]Battle Hymn of the Republic[/url][/LIST]
+[B]&amp;#128073; [COLOR=BLACK][u]ANTHEM[/u][LIST]
+[url=https://www.youtube.com/watch?v=pfqlg0pYOd8]Battle Hymn of the Republic[/url][/LIST]
 
-[region]NATIONAL SOCIALIST AMERICA[/region] REGIONS
+&amp;#128073; [region]NATIONAL SOCIALIST AMERICA[/region] REGIONS
 [list]
-&amp;#128073; [region]American Northeast[/region] &amp;#128104; [nation]Northeast Administration[/nation]
-&amp;#128073; [region]American Midwest[/region] &amp;#128104; [nation]Midwest Administration[/nation]
-&amp;#128073; [region]American South[/region] &amp;#128104; [nation]South Administration[/nation]
-&amp;#128073; [region]American West[/region] &amp;#128104; [nation]West Administration[/nation]
+[region]American Northeast[/region] &amp;#128104; [nation]Northeast Administration[/nation]
+[region]American Midwest[/region] &amp;#128104; [nation]Midwest Administration[/nation]
+[region]American South[/region] &amp;#128104; [nation]South Administration[/nation]
+[region]American West[/region] &amp;#128104; [nation]West Administration[/nation]
 [/LIST]
 
-[u]GENERAL SECRETARY[/u]
+&amp;#128073; [u]GENERAL SECRETARY[/u]
 [LIST]
-&amp;#128073; &amp;#9874; &amp;#128104; [nation]NSA Administration[/nation]
+&amp;#9935; &amp;#128104; [nation]NSA Administration[/nation]
 [/LIST]
 
-[u] CENTRAL COMMITTEE[/u][list]
-&amp;#128073; &amp;#128104; tba - 
-&amp;#128073; &amp;#128104; tba -
-&amp;#128073; &amp;#128104; tba - 
-&amp;#128073; &amp;#128104; tba - 
+&amp;#128073; [u] CENTRAL COMMITTEE[/u][list]
+&amp;#128104; tba - 
+&amp;#128104; tba -
+&amp;#128104; tba - 
+&amp;#128104; tba - 
 [/list]
 
-[u]&amp;#8205;PARLIAMENT OF THE STATES[/u]
+&amp;#128073; [u]&amp;#8205;PARLIAMENT OF THE STATES[/u]
 [list]
-&amp;#128073; &amp;#128104; tba
+&amp;#128104; [nation]Ty-rex[/nation]
 [/list]
 
-[u]CULTURE[/u][list]
-&amp;#128073; [region]Americana[/region] &amp;#128104; [nation]Cultural Americana[/nation] [/LIST]
+&amp;#128073; [u]CULTURE[/u][list]
+[region]Americana[/region] &amp;#128104; [nation]Cultural Americana[/nation] [/LIST]
 
-&amp;#9878; [u]ADVOCACY[/u][list]
-&amp;#128073; [region]American Wall[/region] &amp;#128104; [nation]American Wall-builders[/nation] 
-&amp;#128073; [region]The League Of Anglo American Nations[/region] &amp;#128104; [nation]League Administration[/nation] 
+&amp;#128073; [u]ADVOCACY[/u][list]
+[region]American Wall[/region] &amp;#128104; [nation]American Wall-builders[/nation] 
+[region]The League Of Anglo American Nations[/region] &amp;#128104; [nation]League Administration[/nation] 
 [/list]
 
-  [u]DEFENSE[/u][list]
-&amp;#128073; [region]North Pacific Ocean[/region] &amp;#128104; [nation]NSA Starfish Class[/nation] 
+&amp;#128073; [u]DEFENSE[/u][list]
+[region]North Pacific Ocean[/region] &amp;#128104; [nation]NSA Starfish Class[/nation] 
 [/list]
 [/COLOR][/b]
