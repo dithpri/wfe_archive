@@ -1,1 +1,13 @@
-hello
+[color=navy]The [b][region]Fire Nation[/region][/b] stopped by to issue a new royal decree. Visit our [url=https://discord.gg/wRPpCbw]Palace[/url] to enlist in the Fire Nation and help spread our prosperity with the rest of the world.[/color]
+
+[hr]
+[b][color=maroon]Royal Decree I[/color][/b]
+
+[i][color=navy] &quot;&quot;We the royal family of Fire Nation do decree on this day that all regions hereby seized shall be purged by fire. All jewels remaining will be harvested for the wonderful charitable donation of adding to the Crown Princess&#39;s marvelous tiara. On behalf of the Crown, we do thank you for this humble and clearly voluntary act of charity.&quot;&quot;[/i][/color]
+
+[hr]
+
+[color=maroon][b]Fire Nation Troops
+[nation]Fire Lord Sozin[/nation], Supreme Leader (trigger)
+[nation]Pracinha[/nation], Infantryman
+[nation]Enclave for the world[/nation], Infantryman[/color][/b]

@@ -12,7 +12,7 @@ Welcome to the [region]Parliamentary Union of Sovereign Nations[/region]! We off
 [color=orange]MoJ:[/color][vacant]
 [color=orange]MoW:[/color][vacant]
 [color=orange]MoC:[/color][vacant]
-[color=orange]MwP:[/color][vacant]
+[color=orange]MwP:[/color][nation]Aralunya[/nation]
 [color=orange]LoP:[/color][vacant]
 [hr]
 [color=blue][b]Parliament[/b][/color]

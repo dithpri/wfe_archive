@@ -1,6 +1,6 @@
-[i][b]Risen From The Ashes..[/b][/i]
+[color=#C4BC21][i][b]Risen From The Ashes..[/b][/i][/color]
 
-[b]Welcome to Nouvelle Aube! Re-founded 7th October 2017[/b]
+[Color=#31C0FF][b]Welcome to Nouvelle Aube! Re-founded 7th October 2017[/b][/color]
 
 [HR]
 
@@ -8,6 +8,7 @@
 
 &#149;[URL=https://www.nationstates.net/page=dispatch/id=877017]Dawnian Constitution[/URL]
 &#149;[URL=https://www.nationstates.net/nation=dawn_office/detail=factbook/id=896518]Dawnian Government [/URL]
+&#149;[URL=https://www.nationstates.net/nation=dukna/detail=factbook/id=917910]The Territory Act[/URL]
 &#149;[URL=https://discord.gg/gcJqy4P]Discord[/URL]
 
 [HR]
@@ -18,15 +19,6 @@
 
 &#149; Nouvelle Aube legislation will be proposed to the Dawnian parliament soon.
 
-[HR]
+[hr]
 
-[b][u]Notes:[/u][/b]
-
-&#149; All WA nations are asked to endorse [nation]Rishton[/nation]
-
-&#149; For any extra information, please contact 
- [Nation]Ducus[/nation]
-
-[HR]
-
-[b]Proud colony of [region]Dawn[/region][/b]
+[b][colour=darkblue]Proud colony of [region]Dawn[/region][/colour][/b]

@@ -5,7 +5,7 @@ Religious Leader of Xuche: [nation=short]Imperial Xenon[/nation]
 Military Commander: [nation=short]Imperial Xenon[/nation]
 [u][b][color=#A9A9A9]Council[/color][/b][/u]
 Chairman:
-Internal Security:
+Internal Security: [nation]Solchia[/nation]
 [u][b][color=#A9A9A9]House of Internal Bodies[/color][/b][/u]
 Judicial Minister: [nation]Colbareia[/nation]
 Map Maker: [nation]Ex Animo[/nation]
