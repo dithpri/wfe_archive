@@ -3,7 +3,7 @@ The region is currently at war with itself.
 Independent Powers (aggressors): [nation]Bigtopia Metropolian[/nation], [nation]Amendslovia[/nation], [nation]Lostina[/nation]
 
 Freedom Powers: [nation]Quingston[/nation], [nation]Ospax[/nation], [nation]Franceisais[/nation], [nation]Zormington[/nation], [nation]Irishotopia[/nation]
-________
+_
 Battles:
 Amendsville - Winner: [nation]Bigtopia Metropolian[/nation]
 Northsville- Winner: [nation]Quingston[/nation]
@@ -13,12 +13,16 @@ Xran- Winner: [nation]Lostina[/nation]
 Chanceville- Winner: [nation]Quingston[/nation] and [nation]Ospax[/nation]
 Paxton- Winner: [nation]Lostina[/nation]
 Tannenstein- Winner: [nation]Zormington[/nation]
-Palmerstown- Winner: [nation]Irishotopia[/nation]
+Palmerstown Winner: [nation]Irishotopia[/nation]
 Primeboro- Winner: [nation]Amendslovia[/nation]
 Connortown- Winner: [nation]Amendslovia[/nation]
-_________
+Amendsville II- Winner: [nation]Quingston[/nation] and [nation]Ospax[/nation]
+Enormtown- Winner: [nation]Quingston[/nation]
+Metropolis- Winner: [nation]Quingston[/nation]
+_
 
 Controlled Territories:
-[nation]Franceisais[/nation] by [nation]Amendslovia[/nation]
-[nation]Ospax[/nation] by [nation]Lostina[/nation]
-[nation]Zormington[/nation] by [nation]Amendslovia[/nation]
+[nation]Franceisais[/nation]
+[nation]Ospax[/nation]
+[nation]Zormington[/nation]
+[nation]Bigtopia Metropolian[/nation]

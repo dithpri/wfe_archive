@@ -4,8 +4,8 @@
 [hr]
 [b][color=#0d5eaf]Imperial Goverment[/color][/b]
 
-[b][color=#09447f]Emperor-Commandant:[/color][/b] [color=#0d5eaf][i]Khanter W. Molchaniye[/i][/color]
-[b][color=#09447f]Inheritor:[/color][/b] [color=#0d5eaf][i]TBN[/i][/color]
+[b][color=#09447f]Emperor-Commandant:[/color][/b] [color=#0d5eaf][i]Khanter W. Molchaniye[/i][/color] [nation=short]Brotherhood of guns[/nation]
+[b][color=#09447f]Inheritor:[/color][/b] [color=#0d5eaf][i]Dwayne Molchaniye[/i][/color] [nation=short]Law 44[/nation]
 [hr]
 [b][color=#0d5eaf]Director of the Intelligence Service of the Empire - ISOTE:[/color][/b] [color=#0d5eaf][i][nation=short]Little Chip[/nation][/i][/color]
 

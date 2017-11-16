@@ -5,15 +5,15 @@ Welcome to the [region]Parliamentary Union of Sovereign Nations[/region]! We off
 
 [color=red][b]Executive Branch[/b][/color]
 [color=red]Founder:[/color][nation=short]Nassau-Windsor[/nation]
-[color=red]President:[/color][nation=short]Lhistonia[/nation]
+[color=red]President:[/color][strike][nation=short]Lhistonia[/nation][/strike]
 [color=red]Prime Minister:[/color][nation=short]Hashkin[/nation]
 
-[color=orange]MoD:[/color][vacant]
-[color=orange]MoJ:[/color][vacant]
-[color=orange]MoW:[/color][vacant]
-[color=orange]MoC:[/color][vacant]
+[color=orange]MoD:[/color][nation]Junastria[/nation]
+[color=orange]MoJ:[/color][nation]Libertarian Democracy[/nation]
+[color=orange]MoW:[/color][nation]Bostler[/nation]
+[color=orange]MoC:[/color][nation]Sepharich[/nation]
 [color=orange]MwP:[/color][nation]Aralunya[/nation]
-[color=orange]LoP:[/color][vacant]
+[color=orange]LoP:[/color][nation]Abdoa[/nation]
 [hr]
 [color=blue][b]Parliament[/b][/color]
 [nation]Abdoa[/nation]
@@ -25,9 +25,7 @@ Welcome to the [region]Parliamentary Union of Sovereign Nations[/region]! We off
 [nation]Saint Artica and the Nordic Kingdoms[/nation]
 [nation]Thomolia[/nation]
 [nation]UnitedTerran[/nation]
-
 [hr]
-WA Members, please endorse our [color=red]Prime Minister[/color]!
-
+WA Members, endorse our [color=red]Prime Minister[/color]!
 [hr]
 [color=brown]NOTICE:[/color] Residents actively participating in regional activities controlling 2+ resident nations must disclose to the Founder all such nations and any associated forum accounts, and those knowing other nations must disclose such contacts too (see Disclosures Act).

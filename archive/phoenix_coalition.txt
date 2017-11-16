@@ -10,7 +10,7 @@
 ~Minister of Regional Affairs: [nation]The Aquarian Islands[/nation]
 ~Minister of Foreign Affairs: [nation]Estarianaia[/nation]
 ~Minister of Immigration: [nation=short]Nick47274[/nation]
-~Minister of Communications: [nation=short]Vilsilvia[/nation]
+~Minister of Communications: 
 
 [u]The Constitutional Court:[/u]
 
