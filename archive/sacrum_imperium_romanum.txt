@@ -1,2 +1,4 @@
-[b]Welcome to [color=darkgoldenrod]Sacrum Imperium Romanum[/color] - [i]Holy Roman Empire[/i][/b]
-[hr][list][*][b]Holy Roman Emperor: [nation=short]Romisches Reich[/nation][/b][/list]
+[b]Welcome to [color=darkgoldenrod]Sacrum Imperium Romanum[/color] - [i][region]The Holy Roman Empire[/region][/i][/b]
+[hr][list][*][b]Founder: [nation]Romisches Reich[/nation][/b]
+[*][b]Holy Roman Emperor: [nation]Das Heilige Romische Reich[/nation][/b]
+[/list]
