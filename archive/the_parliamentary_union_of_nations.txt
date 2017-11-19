@@ -5,7 +5,7 @@ Welcome to the [region]Parliamentary Union of Sovereign Nations[/region]! We off
 
 [color=red][b]Executive Branch[/b][/color]
 [color=red]Founder:[/color][nation=short]Nassau-Windsor[/nation]
-[color=red]President:[/color][strike][nation=short]Nassau-Windsor[/nation][/strike]
+[color=red]President:[/color][nation=short]Nassau-Windsor[/nation]
 [color=red]Prime Minister:[/color][nation=short]Hashkin[/nation]
 
 [color=orange]MoD:[/color][nation]Junastria[/nation]

@@ -1,11 +1,13 @@
-Carthya is a region located in the mid-north Atlantic, and welcomes all nations to join.
+[color=orange]Carthya is a region located in the mid-north Atlantic, and welcomes all nations to join![/color]
 ---
-Elections/Endorsing nations for WA delegate is free and open, but may be suspended by the founder or the WA delegate may be ejected if the founder deems necessary.
+[color=purple]Elections/Endorsing nations for WA delegate is free and open, but may be suspended by the founder or the WA delegate may be ejected if the founder deems necessary.[/color]
+
+[color=green]All nations are allowed to freely take part in government sessions, which are held every other day![/color]
 ---
-Regional Discord: discord.gg/RFzhJPb
+[color=yellow]Regional Discord: discord.gg/RFzhJPb[/color]
 ---
-[nation]Isluiseon[/nation] ~ [b]WA Delegate[/b]
-[nation]Dokvotakrain[/nation] ~ [b]Security Officer[/b]
-[nation]Plebolia[/nation] ~ [b]Diplomacy Officer[/b]
+[nation]Berenia[/nation] ~ [color=blue]WA Delegate[/color]
+[nation]Dokvotakrain[/nation] ~ [color=blue]Security Officer[/color]
+[nation]Plebolia[/nation] ~ [color=blue]Diplomacy Officer[/color]
 ---
-Multiple Nation owning is forbidden in Carthya
+[color=red]Multiple Nation owning is forbidden in Carthya[/color]
