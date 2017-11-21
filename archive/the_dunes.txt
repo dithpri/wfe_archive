@@ -1,6 +1,6 @@
 [hr]
 
-[b]Welcome to [region=The Dunes] Casino! Come down and watch our weekly performances at the [i]Arabian Room[/i]! Need a place to sleep? Then come to our wonderful hotel, the [i]Diamond of the Dunes[/i]! Don&#39;t forget to enjoy our weekly casino games, such as Baccarat, Blackjack, Poker, and others! Just remember, [i]no cheating[/i]!
+[b]Welcome to [region=The Dunes] Casino! Come down and watch our weekly performances at the [i]Arabian Room[/i]! Need a place to sleep? Then come to our wonderful hotel, the [i]Diamond of the Dunes[/i]! Don&#39;t forget to enjoy our weekly casino games, such as Baccarat, Spanish 21, Poker, and others! Just remember, [i]no cheating[/i]!
 
 [hr]
 
@@ -10,7 +10,7 @@ Official Sponsor: [region]The Wolf Clan[/region]
 
 [hr]
 
-[color=navy]This Week&#39;s Game:[/color] [color=indianred]Baccarat[/color]
+[color=navy]This Week&#39;s Game:[/color] [color=indianred]Spanish 21[/color]
 
 [color=firebrick]Weekly Performer:[/color] [color=olive]Jayne Mansfield[/color]
 

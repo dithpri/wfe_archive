@@ -5,6 +5,8 @@
 [color=blue]Current Founder:[/color] [nation]Fjolmidlum[/nation]
 [color=green]Current Delegate:[/color] None
 [color=purple]Current Vice-Delegate:[/color] None
+[color=pink]Current High Chancellor:[/color][nation]Fjolmidlum[/nation]
+[color=yellow]Current Chancellors:[/color] None
 
 [color=red][b] Requirements [/color][/b]
 [list]
