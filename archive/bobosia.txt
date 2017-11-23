@@ -1,9 +1,9 @@
-[i][color=blue]Welcome to [/i][region]Bobosia[/region]![/color]
+[i][color=blue]Welcome to [/i][region]Bobosia[/region][i]![/i][/color]
 
 [b][color=red]Land of the free indeed![/color][/b]
 
 [u][color=purple]Bobosia currently contain 7 nations:[/u] [nation]Bobosville[/nation], [nation]The Dictatorlands[/nation], [nation]Extremely Old Jersey[/nation], [nation]Eastbourn County[/nation], 
-[nation]Wyneinclogphupbe[/nation], [nation]Jonatha[/nation], [u]and[/u] [nation]Garundgeia[/nation][/color].
+ [nation]Wyneinclogphupbe[/nation], [nation]Jonatha[/nation], [u]and[/u] [nation]Garundgeia[/nation][/color].
 
 [color=orange][i]All nations in [/i][region]Bobosia[/region] [i]are run by[/i] [nation]Bobosville[/nation] [i]except for[/i] [nation]Eastbourn County[/nation].[/color]
 
