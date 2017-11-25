@@ -1,8 +1,5 @@
-Welcome to [b]Windsor [color=navy]Scotland![/color][/b]
+[b]Welcome to [color=navy]Scotland[/color][/b]; [region]The United Kingdom[/region].
+[i]Accept zero substitutes for Imperial quality![/i][hr]
 
-Our Sovereign:
-[b]King George VIII[/b] of [region]The United Kingdom[/region].
-
-Our greatest weaknesses shall perpatually come to change by our own hands, and we shall shape them to reinforce our existing strengths, and our enemies shall be left no ground - and not because of justice..
-
-Simply, just because ;)
+[b]Sovereign[/b]: [nation]King George[/nation] the 8th.
+Prince of Wales: [nation]Prince George[/nation].
