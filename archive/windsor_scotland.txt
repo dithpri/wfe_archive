@@ -1,5 +1,5 @@
-[b]Welcome to [color=navy]Scotland[/color][/b]; [region]The United Kingdom[/region].
-[i]Accept zero substitutes for Imperial quality![/i][hr]
+[b]Welcome to [color=navy]Alba[/color][/b]; [region]The United Kingdom[/region].
+[i]Accept no substitute for Scottish quality![/i][hr]
 
 [b]Sovereign[/b]: [nation]King George[/nation] the 8th.
 Prince of Wales: [nation]Prince George[/nation].

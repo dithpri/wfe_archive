@@ -1,5 +1,6 @@
 [b][u] Join the Great Xuche State![/u] -Hail Xenon![/b]
-[B][color=darkblue]Hail the Supreme Leader![/color][/B] - [i]Founded on November 10th 2017 by former leader of TURA[/i][hr][b][color=orange]Regional Links:[/color][/b] [url=https://www.nationstates.net/page=dispatch/id=816132][B]Laws/RP Rules[/B][/url] | [url=https://www.nationstates.net/page=dispatch/id=748651][B]Constitution[/B][/url] | [url=https://www.nationstates.net/page=dispatch/id=916249][B]Regional Map[/B][/url] |[hr][u][b][color=#A9A9A9]Executive Government[/color][/b][/u]
+[B][color=darkblue]Hail the Supreme Leader![/color][/B] - [i]Founded on November 10th 2017 by former leader of TURA[/i][hr][b][color=orange]Regional Links:[/color][/b] [url=https://www.nationstates.net/page=dispatch/id=727647][B]RP Rules[/B][/url] | [url=https://www.nationstates.net/page=dispatch/id=748651][B]Constitution[/B][/url] | 
+[Url=https://www.nationstates.net/page=dispatch/id=816132][b]Tech Guideline[/b][/url]|[url=https://www.nationstates.net/page=dispatch/id=916249][B]Regional Map[/B][/url] |[hr][u][b][color=#A9A9A9]Executive Government[/color][/b][/u]
 Supreme Leader: [nation=short]Imperial Xenon[/nation]
 Religious Leader of Xuche: [nation=short]Imperial Xenon[/nation]
 Military Commander: [nation=short]Imperial Xenon[/nation]
@@ -9,7 +10,7 @@ Internal Security: [nation]Solchia[/nation]
 [u][b][color=#A9A9A9]House of Internal Bodies[/color][/b][/u]
 Judicial Minister: [nation]Colbareia[/nation]
 Map Maker: [nation]Ex Animo[/nation]
-Enforcer 1 (Fantasy Mod): [nation]Nightvvalle[/nation]
+Enforcer 1 (Economic Mod): [nation]Nightvvalle[/nation]
 Enforcer 2 (Mod):
 Foreign Affairs/Diplomacy Minister: [nation]Circe[/nation]
 Monument Builder: [nation]Weathashive[/nation]
