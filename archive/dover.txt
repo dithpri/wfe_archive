@@ -1,1 +1,17 @@
-aye
+[b]Welcome to Dover,[/b] [region]The United Kingdom[/region].
+
+[b]This region is an Earldom;[/b]
+Sworn to defend [nation]King George[/nation].
+Sworn to advance [nation]Prince George[/nation].
+Sworn to serve the Earl of Dover.
+
+Executive functions flow downwards.
+
+[b]The Earl of Dover is Governor of Dover.[/b]
+The Earl appoints Marquise House.
+Marquise House appoints the Chancellor.
+The Chancellor appoints the Secretaries.
+The Secretaries do the rest.
+
+[b]There are no Law Courts here;[/b]
+Trials are held before the Earl.
