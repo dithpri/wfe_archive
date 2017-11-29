@@ -1,8 +1,6 @@
 [color=DC143C]Supreme Chancellor:[/color] [Nation]Neu Deutsches Empire[/nation]
 
-[color=ffffff]Vice Chancellor:[/color] [nation]United True Korea[/nation]
-
-[color=191970]Minister of Delegates:[/color] N/A
+[color=ffffff]Vice Chancellor/Minister of Foreign Affairs:[/color] [nation]United True Korea[/nation]
 
 [color=CFB53B]Minister of Defense:[/color] [nation]Serezanbeattice[/nation][color=CFB53B]*[/color]
 
