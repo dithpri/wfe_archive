@@ -1,13 +1,14 @@
 [u]Chairman[/u] - [nation]Rundashia[/nation]
 
-[u]Prime Minister[/u] - [nation]The Florence Union[/nation]
+[u]Prime Minister[/u] - [nation]Imperial Technocracy[/nation]
+[u]Vice Prime Minister[/u] - [nation]Sipion[/nation]
 [u]The Cabinet[/u]
 
 
-Minister of RP:[nation]The Florence Union[/nation] 
+Minister of RP:[nation]Imperial Technocracy[/nation] 
 Minister of Justice: [nation]New-ish Bulgaria[/nation]
 Minister of Defence: TBA
-Minister of Community:TBA
+Minister of Community: [nation]The Union of Crown Kingdoms[/nation]
 
 
 [url=https://www.nationstates.net/page=blank/?regional_news=the_military_federation]Federation Newspaper[/url]

@@ -14,7 +14,6 @@ King: [nation]Wessenheim[/nation]
 Grand Archbishop: [nation]Kofutan[/nation]
 
 [u]Earls[/u]
-Earl: [nation]Maifleur[/nation]  
 Earl: [nation]Munstaria[/nation]
 Earl: [nation]Northurriikith[/nation]
 [/colour]
