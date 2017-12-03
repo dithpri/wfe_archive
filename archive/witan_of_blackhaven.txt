@@ -14,6 +14,8 @@ King: [nation]Wessenheim[/nation]
 Grand Archbishop: [nation]Kofutan[/nation]
 
 [u]Earls[/u]
+Earl: [nation]Ducus[/nation]
+Earl: [nation]Evesham Villa[/nation]
 Earl: [nation]Munstaria[/nation]
 Earl: [nation]Northurriikith[/nation]
 [/colour]

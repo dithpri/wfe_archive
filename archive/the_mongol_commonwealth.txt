@@ -1,1 +1,3 @@
-Puppet Storage for the nations of [nation]Khingan[/nation].
+Storage for the puppet nations controlled by [nation]Khingan[/nation] ([region]CISB[/region]).
+
+Albeit being quite useless, all embassy requests will be accepted.
