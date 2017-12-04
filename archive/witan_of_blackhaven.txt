@@ -10,11 +10,11 @@
 [colour=purple][u][b]Witan Members[/b][/u]
 [u]Upper[/u]
 Holy Overseer: [nation]catakastan[/nation]
-King: [nation]Wessenheim[/nation]
+King: [nation]Ducus[/nation]
 Grand Archbishop: [nation]Kofutan[/nation]
 
 [u]Earls[/u]
-Earl: [nation]Ducus[/nation]
+Earl: [nation]Wessenheim[/nation]
 Earl: [nation]Evesham Villa[/nation]
 Earl: [nation]Munstaria[/nation]
 Earl: [nation]Northurriikith[/nation]

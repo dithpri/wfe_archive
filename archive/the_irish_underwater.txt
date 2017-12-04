@@ -1,8 +1,8 @@
-[b]This region was
+[color=white][b]This filthy region was sterilized by:-
 
-Sterilized by [region]The Cleaners[/region]
+[region]The Cleaners[/region]
 
-[i]Hygiene Extreme[/i][/b]
+[i]The Hygiene Extreme Team[/i][/b]
 .
 .
 .
@@ -54,4 +54,4 @@ Sterilized by [region]The Cleaners[/region]
 .
 .
 .
-&amp;#128567;
+&amp;#128567;[/color]
