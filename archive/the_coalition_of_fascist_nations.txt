@@ -11,6 +11,5 @@
 [hr]
 
 Il Duce: [nation]the new Polish Empire[/nation]
-WA Delegate: [nation]Omega Rising[/nation]
-Minister of Foreign Affairs: [nation]Scaneland[/nation]
+WA Delegate: [nation]Scaneland[/nation]
 Minister of Intelligence: [nation]Hong Ming[/nation]

@@ -15,3 +15,6 @@
 [nation=short]Degia_Beal[/nation]
 [nation=short]South_Ill_Laurthe[/nation]
 [nation=short]Ignoratio_Elenchi[/nation]
+
+
+[color=pink]Altino was here![/color]

@@ -2,7 +2,7 @@
 
 [hr]
 
-[color=brown][b]Date: January 1950
+[color=brown][b]Date: February 1950
 
 [hr]
 
@@ -16,4 +16,5 @@ From Cape Town to Cairo, from Madrid to Tokyo,  a Curtain of Steel has descended
 
 Cartographer: [nation]Vulpinas II[/nation]
 Deputy Cartographer: [nation]Shogunate of New Japan[/nation]
+Deputy Cartographer: [nation]United Stanistan[/nation]
 Statistician: [nation]Greater Sweden[/nation][/b][/color]

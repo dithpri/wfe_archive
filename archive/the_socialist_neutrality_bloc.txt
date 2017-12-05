@@ -5,7 +5,7 @@ Political Parties:
 
 [color=red]Bloc Socialist Worker&#39;s Party[/color]
 
-Members: 2
+Members: 3
 
 [color=red]General Secretary:[/color] [nation=long]Empire of Asgadr[/nation]
 
@@ -13,7 +13,7 @@ Members: 2
 
 [color=yellow]Bloc Liberal Party[/color]
 
-Members: 0
+Members: 1
 
 
 [color=blue]Bloc Conservative Party[/color]
