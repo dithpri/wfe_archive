@@ -1,9 +1,11 @@
-[b]Incorporated States Government[/b]
+[color=blue][b]Incorporated States Government[/b][/color]
 ---------------------------------------------
 
-[b]President[/b]: [i]M&#39;hemmed Alcatraz[/i]
-[b]Vice-President[/b]: [i]Merlana J. Kessler[/i]
-[b]Secretary of State[/b]: [i]Anna Petersen[/i]
-[b]Secretary of Defence[/b]: [i]Gen. Walter L. Keen[/i]
-[b]Secretary of Internal Affairs[/b]: [i]Jennifer Sanders LL.M.[/i]
-[b]Secretary of Commerce and Welfare[/b]: [i]Muhammad Driouch[/i]
+[color=blue][b]President[/b][/color]: [i]M&#39;hemmed Alcatraz[/i]
+[color=blue][b]Vice-President[/b][/color]: [i]Merlana J. Kessler[/i]
+[color=red][b]Secretary of State[/b][/color]: [i]Anna Petersen[/i]
+[color=red][b]Secretary of Defence[/b][/color]: [i]Gen. Walter L. Keen[/i]
+[color=red][b]Secretary of Internal Affairs[/b][/color]: [i]Jennifer Sanders LL.M.[/i]
+[color=red][b]Secretary of Commerce and Welfare[/b][/color]: [i]Muhammad Driouch[/i]
+
+[url=https://www.nationstates.net/page=dispatch/id=797718]The Alcatraz administration[/url]
