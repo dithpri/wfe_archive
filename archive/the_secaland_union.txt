@@ -7,5 +7,6 @@
 
 [hr]
 
-[color=yellow] [b] The Secaland Union Leaders [/b] [/color]
+[color=yellow] [b] The Secaland Union Government [/b] [/color]
 [nation]Secaland[/nation], Communist Leader and Founder
+[nation]Aradain[/nation], Premier
