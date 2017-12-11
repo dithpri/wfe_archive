@@ -6,5 +6,5 @@
 
 Military Commander: [nation]The Great French State[/nation]
 [i]De jure[/i] President: [nation]Free Rhodesian State[/nation]
-[i]De facto[/i] President: [nation]Nationalist Chinese State[/nation]
-Vice-Delegate: [nation]Nationalist Chinese State[/nation]
+[i]De facto[/i] President: [nation]ULN Militia 02[/nation]
+Vice-Delegate: [nation]ULN Militia 02[/nation]

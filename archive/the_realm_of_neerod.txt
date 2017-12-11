@@ -1,10 +1,10 @@
-[B][Color=maroon][region]The Realm of Neerod[/region] ruled by King Adgrel IV[/b][/color]
-[Hr][U][B][I][Color=blue]The Sapphire Throne[/i][/b][/u]:
+[B][Color=maroon][region]The Realm of Neerod[/region] ruled by King Adgrel IV, Monarch of The Sapphire Crown[/b][/color]
+
+[Hr][color=gold][U][B][I]The Crown Council[/i][/b][/u]: 
+The Sapphire Crown, the royal throne of the King assisted by The Ruby Crown acting as Deputy King of the Realm.[/color]
+[Hr][U][B][I][Color=blue]The Sapphire Crown[/i][/b][/u]:
 The King accompanied by Royal entourage returned from neighbouring state of [region]Ebenezer[/region] after reigning 100 days as the Chancellor, Head of Government.
 [/color] 
 
-[Hr][U][B][I][Color=red]The Ruby Throne[/i][/b][/u]:
-With support of The Crown Council and The Sapphire Throne. King&#39;s decree the establisment of The Ruby Throne. [/color] 
-
-[Hr][color=gold][U][B][I]The Crown Council[/i][/b][/u]: 
-Crown Prince to be elected at the next Royal Assembly as advised by His Majesty King Adgrel IV[/color]
+[Hr][U][B][I][Color=red]The Ruby Crown[/i][/b][/u]:
+With advise of The Crown Council. His Majesty The King decree the establisment of The Ruby Crown to assist The Sapphire Crown. [/color] 

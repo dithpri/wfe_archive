@@ -1,1 +1,1 @@
-Puppet storage for [nation=alvero]
+Puppet storage for [nation=alvero].
