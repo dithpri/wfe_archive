@@ -3,7 +3,21 @@ Welcome to [b]United Coalition[/b]!
 [url=https://www.nationstates.net/page=dispatch/id=851227][color=purple]Constitution[/color][/url]
 
 [color=red][u]Government[/u][/color]
-[b]Interim Chancellor:[/b] [nation]Yuzkekistan[/nation] ([color=grey]Independent[/color])
+[b]Interim Chancellor:[/b]
+ [nation]Yuzkekistan[/nation]
+  ([color=grey]Independent[/color])
+
+[b]Interim Vice Chancellor:[/b]
+[nation]Alrobia[/nation]
+([color=grey]Independent[/color])
+
+[b]Head of Communications:[/b]
+[nation]Fort Mzenchand[/nation]
+([color=lightblue]Alliance Party[/color])
+
+[b]Head of Homeland Security:[/b]
+[nation]New Eidolonia[/nation]
+([color=grey]Independent[/color])
 
 
 [color=red][u]General Assembly[/u][/color]
