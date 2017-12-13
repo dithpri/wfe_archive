@@ -2,21 +2,25 @@
 States and Leaders:
 
 [list]
- &amp;#128073; Delaware &amp;#128104;
- &amp;#128073; Florida &amp;#128104;
- &amp;#128073; Georgia &amp;#128104;
- &amp;#128073; Maryland &amp;#128104;
- &amp;#128073; North Carolina &amp;#128104;
- &amp;#128073; South Carolina &amp;#128104;
- &amp;#128073; Virginia &amp;#128104;
- &amp;#128073; West Virginia &amp;#128104;
- &amp;#128073; Alabama &amp;#128104;
- &amp;#128073; Kentucky &amp;#128104;
- &amp;#128073; Mississippi &amp;#128104;
- &amp;#128073; Tennessee &amp;#128104;
- &amp;#128073; Arkansas &amp;#128104;
- &amp;#128073; Louisiana &amp;#128104;
- &amp;#128073; Oklahoma &amp;#128104;
-&amp;#128073; Sequoyah &amp;#128104; 
- &amp;#128073; Texas &amp;#128104;
-[/list][/b]
+Delaware-
+Florida-
+Georgia-
+Maryland-
+North Carolina-
+South Carolina-
+Virginia-
+West Virginia-
+Alabama-
+Kentucky-
+Mississippi-
+Tennessee-
+Arkansas-
+Louisiana-
+Oklahoma-
+[region]Sequoyah[/region] 
+Texas-
+[/list]
+
+Fighters are needed in [region]Europa Invictus[/region]
+
+[/b]
