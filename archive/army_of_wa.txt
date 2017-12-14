@@ -4,4 +4,7 @@ Military officer: [nation]King anonymous[/nation]
 National guard:[nation]Drekionis[/nation]
 Navy:open
 Air Force: open
+WA delegate:[nation]World topics[/nation]
 Council: open
+Recruiter:anyone
+
