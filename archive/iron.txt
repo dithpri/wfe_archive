@@ -1,8 +1,13 @@
-Welcome to the [b][color=orange]Territory of IRON[/color][/b]!
-
-[b]This Region is a Territory of the Independent Republic of Orange Nations![/b]
+Welcome to the [b][color=orange]Territory of IRON[/color][/b]
+[i]Territory of the [url=https://www.nationstates.net/region=orange_kingdom]Kingdom of Orange[/url][/i]
 
 [u][b]Government of the Territory of IRON[/b][/u]
-[b]Founder[/b]: [nation]Neo Ancient Rome[/nation]
-[b]WA Delegate[/b]: [nation]Neo Ancient Rome[/nation]
-[b]Homeland Officer[/b]: [i]Vacant[/i]
+[b]Prince of Orange[/b]: [nation]Neo Ancient Rome[/nation]
+[b]Governor[/b]: [nation]The Republic of Bayview[/nation]
+
+[u][b]Regional &amp; Territorial News[/b][/u]
+[list]
+[*] [b]IRON[/b] has been refounded!
+[*] [nation]Neo Ancient Rome[/nation] has been invested as [b]Prince of Orange[/b]
+[*] [nation]The Republic of Bayview[/nation] has been invested as [b]Governor of the Territory of IRON[/b]
+[/list]
