@@ -14,5 +14,4 @@
 
 [B]OBSERVER REGIONS:[/B]
 
-[list][*][region]The Communist Legion[/region]
-[*][region]Soviet Proletariat Republics[/region][/list]
+[list][*][region]The Communist Legion[/region][/list]

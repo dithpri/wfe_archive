@@ -11,7 +11,7 @@
 [b]Chancellor:[/b] [nation=short]Magic_cat_named_Hemuli[/nation]
 [b]Minister of Defense:[/b] [nation=short]Xylosnow[/nation]
 [b]Minister of Recruitment:[/b] [i]vacant[/i]
-[b]Head Ambassador: [/b] [i]vacant[/i]
+[b]Head Ambassador: [/b] [nation=short]Helpfull people[/nation]
 [/color]
 
 [color=lightblue][b]Please join the [url=https://www.nationstates.net/page=un]World Assembly[/url] and endorse our awesome delegate [nation]the new Portuguese throne[/nation]![/color][/b]
@@ -20,7 +20,8 @@
 [color=green][b]Regional News
 
  &#149; [nation]England united[/nation] has been given the title &quot;Honorary Governor&quot; [/b][/color]
-
+ 
+ &#149; [nation]Helpfull people[/nation] is the new Head ambassador of ASCOF!
 [hr]
 
 [color=blue][i]Regional News Status :[/color] [color=green]UPDATED[/color][/i]

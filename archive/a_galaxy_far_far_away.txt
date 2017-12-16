@@ -1,1 +1,4 @@
-In a Galaxy Far Far Away I am the boss man.
+[nation]The Grand Galactic Order[/nation] is located in the Core, Mid Rim, and Outer Rim;  [color=grey][b]Allegiance:[/b][/color] [color=maroon]The Galactic Order[/color]
+[nation]The First Order Remnant[/nation] is located in the Unknown Regions;  [color=grey][b]Allegiance:[/b][/color] [color=maroon]The Galactic Order[/color]
+[nation]Saarekratos Duwiau[/nation] is located in the [redacted];  [color=grey][b]Allegiance:[/b][/color] [color=maroon]The Galactic Order[/color]
+[nation]Planetary Alliances[/nation] is located in the Core, Colonies, Mid Rim;  [color=grey][b]Allegiance:[/b][/color] [color=darkblue]The Galactic Federation of Free Alliances[/color]
