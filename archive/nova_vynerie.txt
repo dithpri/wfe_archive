@@ -11,8 +11,7 @@ Communist: [nation]Tarce[/nation]
 Monarchist:
 Facist: [nation]Benokarta[/nation]
 Nationalist:[nation]Zandovia[/nation]
-Reactionary:[nation]King Scorm[/nation]
-Conservative: [nation]Firsthaf[/nation]
+Conservative: [nation]Firsthaf[/nation], [nation]King Scorm[/nation]
 Libertarian:
 [/b]
 https://forum.nationstates.net/viewtopic.php?f=12&amp;t=428584&amp;p=32897145#p32897145 Where we will discuss history creation
