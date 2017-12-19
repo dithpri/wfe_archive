@@ -1,12 +1,14 @@
-[b][color=black]Great Leader/Gro&szlig;e F&uuml;hrer: [nation]His Excellency of The Volkshalle[/nation]
-Residence/Residenz: [region]Volkshalle[/region] in the[region]Germanic State of the German Nation[/region]
+[b][color=black][u]Great Leader/Gro&szlig;e F&uuml;hrer[/u] [nation]His Excellency of The Volkshalle[/nation]
+Residence/Residenz: [region]Volkshalle[/region] in the [region]Germanic State of the German Nation[/region]
+
+[u]Date/Datum[/u] December 1962
 
 [u]Cabinet of Great Leader/ Kabinetts der Gro&szlig;e F&uuml;hrer[/u]
 [region]Volkshalle[/region]
 
-[u]Politics/Politico[/u]
+[u]Politics/Politico[/u][/color][color=red]
 folk-nationalism, nationalsocialist rule, anti-democratic, anti-communist
-v&ouml;lkisch-nationalistischen, nationalsozialistischen herrschaft, antidemokratische, antikommunistische  
+v&ouml;lkisch-nationalistischen, nationalsozialistischen herrschaft, antidemokratische, antikommunistische[/color][color=black]  
 
 Reich Ministry for/Reichsministerium f&uuml;r [region]National Socialist America[/region]: [nation]NSA Administration[/nation]
 [/color]
