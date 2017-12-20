@@ -9,6 +9,5 @@
 [nation=short]Opelucid[/nation]
 [nation=short]The Pokemon Company International[/nation]
 [nation=short]Philippine Islands[/nation]
-[nation=short]Iberian Nations[/nation] [color=red](New)[/color]
-[nation=short]Bulungi and Tassoukro[/nation] [color=red](New)[/color]
-[nation=short]Decolorean Protector I[/nation] [color=red](New)[/color][/B]
+[nation=short]Bulungi and Tassoukro[/nation]
+[/B]

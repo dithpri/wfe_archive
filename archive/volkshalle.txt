@@ -1,5 +1,7 @@
 [b][color=black][u]Great Leader/Gro&szlig;e F&uuml;hrer[/u] [nation]His Excellency of The Volkshalle[/nation]
-Residence/Residenz: [region]Volkshalle[/region] in the [region]Germanic State of the German Nation[/region]
+
+Residence/Residenz: [region]Volkshalle[/region], [region]Stadtstaat Berlin[/region] 
+[region]Germanic State of the German Nation[/region]
 
 [u]Date/Datum[/u] December 1962
 

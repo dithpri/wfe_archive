@@ -8,10 +8,10 @@ Military Commander: [nation=short]Imperial Xenon[/nation]
 Chairman:
 Internal Security: [nation]Solchia[/nation]
 [u][b][color=#A9A9A9]House of Internal Bodies[/color][/b][/u]
-Judicial Minister: [nation]Colbareia[/nation]
+Judicial Minister: 
 Map Maker: [nation]Ex Animo[/nation]
 Enforcer 1 (Economic Mod): [nation]Nightvvalle[/nation]
 Enforcer 2 (Mod):
 Foreign Affairs/Diplomacy Minister: [nation]Circe[/nation]
-Monument Builder: [nation]Weathashive[/nation]
+Monument Builder: 
 [hr][b][color=#A9A9A9]Other Links:[/color][/b] [url=http://anafax.byethost14.com/?i=1][b]NS Tracker[/b][/url] | [url=https://www.populationpyramid.net/world/2017/][b]Population Pyramid[/b][/url] | [url=http://www.broomdces.com/nseconomy/][b]NSEconomy[/b][/url]
