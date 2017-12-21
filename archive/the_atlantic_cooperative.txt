@@ -11,7 +11,7 @@
 [u]Government[/u]
 [b]The King[/b]: [nation]Mexiteco[/nation]
 ([color=Maroon]Cooperative First[/color])
-[b]Acting Prime Minister[/b]: [nation]New Dallas Trinity[/nation]
+[b]Prime Minister[/b]: [nation]New Dallas Trinity[/nation]
 ([color=Maroon]Cooperative First[/color])
 [b]Minister of Recruitment[/b]: [nation]Sfantul Imperiu Roman[/nation]
 ([color=gold]Sumarchist Party[/color])
@@ -22,7 +22,7 @@
 
 [hr]
 
-[color=maroon]Endorse The Acting Prime Minister: [nation]New Dallas Trinity[/nation]. Elections are being held![/color]
+[color=maroon]Endorse The Elected Prime Minister: [nation]New Dallas Trinity[/nation]. Elections are 6/19/18![/color]
 
 [hr]
 

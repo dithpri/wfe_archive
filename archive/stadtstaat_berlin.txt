@@ -1,16 +1,10 @@
-[b][color=red]Deutsche Einheit![/color]
+[b][Color=black]&amp;#10016; [region]Nationalsozialistischen Deutschen Reich[/region] &amp;#10016; 
+[i]Seine Exzellenz von der Volkshalle, befindet sich in der [region]Volkshalle[/region] befindet sich in [region]Stadtstaat Berlin[/region]. [Region]Volkshalle[/Region] ist, wo unser gro&szlig;er F&uuml;hrer von germanischer Staat deutscher Nation sein Kabinett trifft[/i]
 
-[region]Stadtstaat Berlin[/region]; Capital of [region]Germanic State of the German Nation[/region], is where the [region]Volkshalle[/region] and other Government buildings of the Reich are located.
+&amp;#10016; [region]National Socialist German Reich[/region] &amp;#10016; 
+[nation]His Excellency of The Volkshalle[/nation], resides in the [region]Volkshalle[/region] located in [region]Stadtstaat Berlin[/region]. [region]Volkshalle[/region] is where our Great Leader of [region]Germanic State of the German Nation[/region] meets his cabinet
 
-[u]Great Leader/Gro&szlig;e F&uuml;hrer[/u] [nation]His Excellency of The Volkshalle[/nation]
-Residence/Residenz: [region]Volkshalle[/region]
-
-[u]Date/Datum[/u] December 1962
-
-[u]Cabinet of Great Leader/ Kabinetts der Gro&szlig;e F&uuml;hrer[/u]
-[region]Volkshalle[/region]
-
-[u]Politics/Politico[/u]
-[color=red]folk-nationalism, nationalsocialist rule, anti-democratic, anti-communist, anti-capitalist
-v&ouml;lkisch-nationalistischen, nationalsozialistischen herrschaft, antidemokratische, antikommunistische, antikapitalistischen[/color]
+[u]Date/Datum:[/u] Dec 1962[/color]
+[u]Pacified/Befriedet:[/u] [region]Continent of Europa[/region] and [region]Northern America[/region]
+[u]Vassal State/Vasallenstaat:[/u] [region]National Socialist America[/region]
 [/b]
