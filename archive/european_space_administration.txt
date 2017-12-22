@@ -1,3 +1,4 @@
-[b][nation]Eurospace[/nation] is the Space Sciences Division of [region]The European Federation[/region]
+[b][nation]Eurospace[/nation] is the [i]Space Sciences Division[/i] of [region]The European Federation[/region]
+[color=blue]Scientists, Engineers and Astro-Cosmonauts wanted[/color]
 
-&amp;gt; [region]Rigel[/region][/b]
+&amp;#10153; [region]Rigel[/region][/b]
