@@ -1,7 +1,1 @@
-[b][color=darkred]The [region]TheFreeWorld[/region] is a small region that will welcome any nation regardless of political position[/b][/color]
-[i][hr][color=green]Founding Nations:
-&amp;#9900;[nation=long]The Land of Apples[/nation]
-&amp;#9900;[nation=long]The Land of Windows[/nation]
-&amp;#9900;[nation=long]The Land of Droids[/nation]
-&amp;#9900;[nation=long]The Land of Pingvin[/nation]
-[/color][/i]
+[b][color=darkred]The [region]TheFreeWorld[/region] is a small region that will welcome any nation regardless of political position[/color][/b]
