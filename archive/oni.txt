@@ -1,6 +1,6 @@
 [b][color=#000034]Welcome to ONI:[/color][color=#9a6601] The Invincible Calvary of Nationstates![/color]
 
-Join The Cavalry Today!
+[url=http://s15.zetaboards.com/ONI/index/]Join The Cavalry Today![/url]
 [spoiler=What is Raiding?]
 [i]Raiding is how battles are fought on NationStates! Raiding involves moving nations, called puppets, into an enemy region, called a target. Once in the target all the puppets endorse one nation, called the point. If the point has the most endorsements at update, the time the game makes changes to regions, then the point becomes delegate and the target is taken over.[/i][/spoiler]
 
@@ -8,7 +8,7 @@ Join The Cavalry Today!
 
 [color=#000034]ONI High Command[/color][color=#9a6601]
 
-Field Marshal: 
+Field Marshal: [nation]Commander Nonna[/nation]
 Generals:
 Brigadiers: [/color]
 
