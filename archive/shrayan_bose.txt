@@ -5,6 +5,5 @@ Currency: Shrayan Bose Pound
 National Motto:[i]All Hail Emperor Shrayan![/i]
 National Animal: Tyrannosaurus Rex
 Largest Nation in the Union:[nation]United Republics of Khapchara[/nation]
-Largest Rauilway: Great Northern Railway( [nation]Guti House[/nation])
-Invaded Colonies of the Union:
-[region]The Marxist Leninist Union[/region][/b]
+Largest Railway: Great Northern Railway( [nation]Guti House[/nation])
+Invaded Colonies of the Union: [region]The Marxist Leninist Union[/region],[region]Enemy of the Shrayan States[/region][/b].

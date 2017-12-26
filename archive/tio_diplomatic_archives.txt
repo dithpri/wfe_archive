@@ -1,4 +1,4 @@
-[b]Sterilized by [region]The Cleaners[/region][/b]
+[color=white][b]Sterilized by [region]The Cleaners[/region][/b]
 
 [i]Hygiene Extreme[/i][b][/b]
 .
@@ -52,4 +52,4 @@
 .
 .
 .
-&amp;#128567;
+&amp;#128567;[/color]
