@@ -14,7 +14,6 @@ King: [nation]Ducus[/nation]
 Grand Archbishop: [nation]Maifleur[/nation]
 
 [u]Earls[/u]
-Earl: [nation]Wessenheim[/nation]
 Earl: [nation]Evesham Villa[/nation]
 Earl: [nation]Munstaria[/nation]
 Earl: [nation]Northurriikith[/nation]

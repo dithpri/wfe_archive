@@ -1,13 +1,6 @@
 [b][i][color=red]Deutsche Einheit![/i][/color]
 
-[color=black]Great Leader/Gro&szlig;e F&uuml;hrer: [nation]His Excellency of The Volkshalle[/nation] rules [region]Continent of Europa[/region]
-
-Residence/Residenz: [region]Volkshalle[/region], [region]Stadtstaat Berlin[/region], [region]Germanic State of the German Nation[/region]
-
-[u]Date/Datum[/u] December 1962
-
-[u]Cabinet of Great Leader/ Kabinetts der Gro&szlig;e F&uuml;hrer[/u]
-[region]Volkshalle[/region]
+[color=black][nation]His Excellency of The Volkshalle[/nation] rules [region]Continent of Europa[/region]
 
 [u]Politics/Politico[/u]
 [region]Neo NatSo Party[/region][/color]
