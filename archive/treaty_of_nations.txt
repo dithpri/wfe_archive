@@ -9,9 +9,10 @@
 [color=lightblue][b]Agenda:[/b][/color]
 [list][*][color=lightgreen][b]Forum[/b][/color]
 [*][color=lightblue][b]Newsfeed[/b][/color]
-[*][color=lightgreen][b]Map[/b][/color][/list]
+[*][color=lightgreen][b]Map[/b][/color]
+[*][color=lightblue][b]RP[/b][/color][/list]
 [hr]
-[color=lightblue][b]Events:[/b][/color]
-[list][*][color=lightgreen][b]None[/b][/color]
+[color=lightgreen][b]Events:[/b][/color]
+[list][*][color=lightblue][b]None[/b][/color]
 
 
