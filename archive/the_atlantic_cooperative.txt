@@ -13,9 +13,9 @@
 ([color=Maroon]Cooperative First[/color])
 [b]Prime Minister[/b]: [nation]New Dallas Trinity[/nation]
 ([color=Maroon]Cooperative First[/color])
-[b]Minister of Recruitment[/b]: [nation]Sfantul Imperiu Roman[/nation]
-([color=gold]Sumarchist Party[/color])
-[b]Minister of Foreign Relations[/b]: [nation]The Trighbee[/nation]
+[b]Minister of Recruitment[/b]: N/A
+(N/A)
+[b]Minister of Foreign Relations[/b]: N/A
 (N/A)
 [b]Minister of The People[/b]: [nation]Harnica[/nation]
 (N/A)
@@ -23,11 +23,6 @@
 [hr]
 
 [color=maroon]Endorse The Elected Prime Minister: [nation]New Dallas Trinity[/nation]. Elections are 6/19/18![/color]
-
-[hr]
-
-[color=maroon]Weekly News:
-New newspapers come out every Tuesday! See what is going on in The Cooperative [url=https://www.nationstates.net/page=dispatch/id=927208]here [/url]![/color]
 
 [hr]
 

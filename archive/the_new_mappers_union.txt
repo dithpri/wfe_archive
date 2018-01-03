@@ -4,11 +4,12 @@
 [color=blue]We are at war with [region]Confederation of Corrupt Dictators[/region] ![/color][hr]
 Please endorse the Delegate [nation]Greater New Houston[/nation] and Founder [nation]Democratic Empire of Romania[/nation][/b][hr]
 
-[b][color=gold]Threat Level[/color][/b]
-[color=darkgreen]level 5[/color]
-[color=darkblue]Level 4[/color]
-[color=gold]Level 3[/color]
-[color=darkorange]level 2[/color]
+[b]Regional Threat Level[/b]
+
+[color=green]Level 5[/color]
+[color=blue]Level 4[/color]
+[color=violet]Level 3[/color]
+[color=qorange]Level 2[/color]
 [B][color=red]Level 1[/color] A failed coup plot took place ! Any info about the nation of [nation]Plagiuss[/nation] is demanded ![hr]
 
 [u][url=http://tnmuofficialforum.freeforums.net/]Regional Forum[/url][/b][/u]
