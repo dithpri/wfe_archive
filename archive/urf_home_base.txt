@@ -14,3 +14,5 @@ Member Regions:
 [region]Order Of The Black Eagle[/region]
 
 [region]The Union of the Axis Powers[/region]
+
+[region]Coalition of Fascist Nations[/region]

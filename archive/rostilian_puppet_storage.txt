@@ -1,4 +1,3 @@
 A storage region for puppets of Rostilian players, move your puppets here please so we don&#39;t clog up the main region!
 
-[region]New Rostil[/region] &amp;lt; Main
-[region]Rostil[/region] &amp;lt; Original and current Auxiliary region maintained by [nation]NeThrel[/nation].
+[region]Rostil[/region] &amp;lt; Main
