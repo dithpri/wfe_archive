@@ -1,8 +1,1 @@
-[b]Welcome to [color=red]England[/color][/b]; [region]The United Kingdom[/region].
-[i]Accept zero substitutes for Imperial quality![/i][hr]
-
-[b]Sovereign[/b]: [nation]King George[/nation] the 8th.
-Prince of Wales: [nation]Prince George[/nation].
-
-[b]Capital Region[/b]: [region]The City of London[/region].
-See Also: [region]The City of Westminster[/region].
+Welcome to England.
