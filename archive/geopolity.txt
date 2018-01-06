@@ -6,13 +6,13 @@
 [nation]Southwest China[/nation]
 [nation]Quzerastan[/nation]
 [nation]Eraus[/nation]
-[nation]Vektes[/nation]
+[nation]Southern Scandanavia[/nation]
 
 Regional Cartographer:
 [nation]Furstia[/nation]
 
 Regional Historian:
-[nation]Southern Scandanavia[/nation]
+Vacant
 
 All WA nations are required to endorse [nation]Imperial Eagle[/nation]. 
 Failure to do so will result in a warning and then ejection.[hr]

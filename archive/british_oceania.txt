@@ -4,6 +4,5 @@ Region of [region]The United Kingdom[/region].
 [b]Sovereign:[/b] [nation]King George[/nation] VIII.
 Crown Prince: [nation]Prince George[/nation].
 
-[b]Commonwealth Regions;[/b]
+[b]Claimed Regions;[/b]
 ~ [region]Australasia[/region].
-~ [region]Elizabeth Island[/region].
