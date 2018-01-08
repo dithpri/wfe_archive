@@ -1,17 +1,1 @@
-[b]Welcome to The Kingdom of Windsor.[/b]
-Client Region of [region]The United Kingdom[/region].
-
-Our Region was Established: [b]13 Nov 2017.[/b]
-Our Sovereign is [nation=short]King George[/nation][color=green] Windsor[/color].
-
-Our Commonwealth looks nice;
-
-[b][region]The United Kingdom[/region];[/b]
-[region]The City of London[/region].
-[region]Windsor England[/region].
-[region]Windsor Scotland[/region].
-[region]Windsor Ireland[/region].
-[region]Windsor Wales[/region]
-
-Idle Hands may be the devil&#39;s playthings,
-but Idle Minds are the devil&#39;s definition.
+Welcome :)
