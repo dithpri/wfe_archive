@@ -10,14 +10,26 @@
 
 [u]Government[/u]
 [b]The King[/b]: [nation]Mexiteco[/nation]
-([color=Maroon]Cooperative First[/color])
+([color=Maroon]Moderate Cooperative[/color])
 [b]Prime Minister[/b]: [nation]New Dallas Trinity[/nation]
-([color=Maroon]Cooperative First[/color])
+([color=Maroon]Moderate Cooperative[/color])
 [b]Minister of Recruitment[/b]: N/A
 (N/A)
 [b]Minister of Foreign Relations[/b]: N/A
 (N/A)
 [b]Minister of The People[/b]: [nation]Harnica[/nation]
+(N/A)
+
+[u]Judiciary[/u]
+[b]President:[/b] [nation]Nuevo Mortem[/nation]
+(N/A)
+[b]Vice-president:[/b] N/A
+(N/A)
+[b]Judge:[/b] N/A
+(N/A)
+[b]Judge:[/b] N/A
+(N/A)
+[b]Judge:[/b] N/A
 (N/A)
 
 [hr]
@@ -28,4 +40,4 @@
 
 [b][color=#B00000]To The Prosperity Of The Region!!
 
-Ad Conditor!![/color][/b]
+Ad Hominem!![/color][/b]

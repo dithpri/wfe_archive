@@ -1,6 +1,8 @@
-Motto: &quot;Deo Vindice&quot;
+[color=red]Contiguous Nation[/color]: [nation=short]Confederate National Republic[/nation]
+[color=blue]Protectorate Nation[/color]: [nation=short]The Unified American Republic[/nation]
+Motto:[i] &quot;Deo Vindice&quot;[/i]
 Anthem: Dixie
 Capital: Richmond, VA
 Largest City: New Orleans
-Government: Confederal Presidential Republic
+Government: [color=red]Confederal[/color] [color=gray]Presidential[/color] [color=blue]Republic[/color]
 Original States: South Carolina, Mississippi, Florida, Alabama, Georgia, Louisiana, Texas, Virginia, Arkansas, North Carolina

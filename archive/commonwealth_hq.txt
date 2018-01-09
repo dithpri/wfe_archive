@@ -1,12 +1,27 @@
 [b]Welcome to Commonwealth Headquarters.[/b]
-ONE PEOPLE, ONE PRIDE, ONE PURPOSE.
 
-This region belongs to:
-[region]The United Kingdom[/region].
+&quot;One Commonwealth. One Purpose.&quot;
+#[b][color=red]Original[/color][/b] #[color=blue][b]Best[/color][/b] #[color=orange][b]Beyond[/color][/b] #[color=green][b]Contest[/color][/b].
 
-All of our embassies are with Commonwealth realms.
+[hr][b]Diplomatic Hub of [region]The United Kingdom[/region].[/b][hr]
 
-We are password protected for your safety. 
+[b][color=purple]Important Information;[/color][/b]
 
-[b]#Original #Best #Beyond #Contest[/b].
-We&#39;ve been Setting the Pace since 2003.
+Our Sovereign is [nation]Emperor George[/nation].
+
+[b]We don&#39;t accept &quot;Embassies&quot;.[/b]
+We have High Commissions.
+
+[b][color=navy]We don&#39;t accept nations here.[/color][/b]
+Emmigration is by application only.
+
+[b]Diplomats cannot become citizens[/b].
+[color=red]Foreign Influence laws are strict.[/color]
+
+[b]You&#39;ll enjoy Commonwealth life.[/b]
+
+Our citizens are most loyal.
+Our staff are most professional.
+
+[b]Invest in yourself. 
+#InvestBritain.[/b]
