@@ -1,5 +1,5 @@
 [hr][hr]
-[color=gold][b]Have [region]FAITH[/region] in Me or embrace the darkness. [/b][/color]
+[color=gold][b]Have [region]FAITH[/region] in Me or embrace the [region]Darkness[/region]. [/b][/color]
 
 [hr][hr]
 
@@ -9,4 +9,3 @@
 
 [color=redred]&quot;Faith must be enforced by reason. When faith becomes blind it dies.&quot; ~Mahatma Gandhi [/color]
 [hr]
-

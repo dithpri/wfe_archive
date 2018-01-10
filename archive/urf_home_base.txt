@@ -16,3 +16,5 @@ Member Regions:
 [region]The Union of the Axis Powers[/region]
 
 [region]The Coalition of Fascist Nations[/region]
+
+[region]Angvar[/region]

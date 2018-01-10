@@ -4,7 +4,7 @@
 
 [hr]
 
-[b][url=https://discord.gg/yjsEZ3B]Discord[/url]||[url=https://www.nationstates.net/page=dispatch/id=910435]Map[/url]||[url=https://www.nationstates.net/page=dispatches/nation=cooperative_news]News Archive[/url]||[url=https://www.nationstates.net/page=dispatch/id=933677]Constitution [/url]||[url=https://www.nationstates.net/nation=mexiteco/detail=factbook/id=919195]Political Parties[/url]||[url=http://s15.zetaboards.com/Atlantic_Cooperative/index/]Super BETA Forums[/url]||[url=https://youtu.be/ghHCvkutOEg]Regional Anthem[/url][/b]
+[b][url=https://discord.gg/yjsEZ3B]Discord[/url]||[url=https://www.nationstates.net/page=dispatch/id=910435]Map[/url]||[url=https://www.nationstates.net/page=dispatches/nation=cooperative_news]News Archive[/url]||[url=https://www.nationstates.net/page=dispatch/id=933677]Constitution [/url]||[url=https://www.nationstates.net/nation=mexiteco/detail=factbook/id=919195]Political Parties[/url]||[url=https://youtu.be/ghHCvkutOEg]Regional Anthem[/url][/b]
 
 [hr]
 
@@ -17,27 +17,21 @@
 (N/A)
 [b]Minister of Foreign Relations[/b]: N/A
 (N/A)
-[b]Minister of The People[/b]: [nation]Harnica[/nation]
+[b]Minister of The People[/b]: [nation]Varnacle[/nation]
 (N/A)
 
 [u]Judiciary[/u]
 [b]President:[/b] [nation]Nuevo Mortem[/nation]
-(N/A)
-[b]Vice-president:[/b] N/A
-(N/A)
-[b]Judge:[/b] N/A
-(N/A)
-[b]Judge:[/b] N/A
-(N/A)
-[b]Judge:[/b] N/A
-(N/A)
+([color=Maroon]Moderate Cooperative[/color])
+[b]Vice-president:[/b] [nation]New Catalona[/nation]
+(Cooperative Fascists)
+[b]First Judge:[/b] [nation]Terra Simpertos[/nation]
+(Cooperative Fascists)
+[b]Second Judge:[/b] [nation]Malapatopia[/nation]
+(Cooperative Fascists)
+[b]Third Judge:[/b] [nation]Mons Terram[/nation]
+(Cooperative Fascists)
 
 [hr]
 
 [color=maroon]Endorse The Elected Prime Minister: [nation]New Dallas Trinity[/nation]. Elections are 6/19/18![/color]
-
-[hr]
-
-[b][color=#B00000]To The Prosperity Of The Region!!
-
-Ad Hominem!![/color][/b]
