@@ -14,3 +14,5 @@ Prime Minister- [nation=long]TotallynotAngola[/nation]
 Chancellor- [nation=long]Republic of Salvion[/nation]
 
 Communist aren&#39;t permitted to enter this region.
+
+This region has democratic elections for Prime Minister and Chancellor every month but the Emperor has Supreme power.

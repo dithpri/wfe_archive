@@ -12,6 +12,8 @@ Students:
 [nation]Dependants[/nation]
 [nation]BillNyeLand[/nation]
 [nation]Dukna[/nation]
+[nation]Harsona[/nation]
+[nation]South-East Antarctica[/nation]
 
 Graduates:
 N/A
