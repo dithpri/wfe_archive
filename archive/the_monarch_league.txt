@@ -6,13 +6,13 @@ We have a training club, [region]The Prince League[/region]. If you attack them,
 Government:
 
 Founder: [nation=noflag]The Wagonerian Empire[/nation]
-Emperor: empty (acting [nation=noflag]The Wagonerian Empire[/nation])
+King: empty (acting [nation=noflag]The Wagonerian Empire[/nation])
 WA delagate: empty
 Prime Minister: [nation=noflag]West Jamiaca[/nation]
-Minister of defense:empty
-Minister of economy: empty
-minister of IA: empty
-Minister of FA: empty
+Minister of defense:[nation=noflag]South-Central California[/nation]
+Minister of economy: [nation=noflag]Quebec Kingdom[/nation]
+minister of IA: [nation=noflag]The Hawaii Democracy[/nation]
+Minister of FA: [nation=noflag]Latangai and New Britain[/nation]
 Parliament members: all spots empty
 Soldiers: all spots empty
 

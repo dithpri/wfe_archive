@@ -1,8 +1,9 @@
-[colour=red]This region has been raided by Papa Stalin.
+[colour=red]This region is under the protection of [nation]Scarlet Montane[/nation].
 
 Allies:
 
 [region]The Supreme USSR[/region]
 [region]Greater Great Britain[/region]
 [region]USSR and Britannia[/region]
-[region]German Federation[/region][/colour]
+[region]The Second Kingdom of Germany[/region]
+[region]The South[/region][/colour]

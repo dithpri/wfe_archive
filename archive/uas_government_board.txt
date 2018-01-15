@@ -1,26 +1,30 @@
 [b]Union of Allied States
 Regional Government[/b]
 
-[b]State Council Officers[/b]
+[b]Executive[/b]
 
-[nation]Tarperian[/nation]
+[nation]Unified Waterford[/nation]
+Chairman
+
+[nation]Handal Ands[/nation]
 President 
 
 [nation]Darusia[/nation]
 Vice-President
 
-[b]Assembly of Nations Officers[/b]
-
-[nation]Silicon Land[/nation]
-Prime Minister 
-
-
-[b]Judiciary/Supreme Court[/b]
-
 [nation]The Free Mutant Republic of Genosha[/nation]
-Chief Justice 
+Prime Minister
 
-[nation]Handal Ands[/nation]
-Associate Justice 
+[nation]Roma Invictai[/nation]
+First Deputy Prime Minister
 
-The region is home to the Union of Allied States Regional Government.  No embassies will be accepted, all requests for embassy exchange must be received by the main region.
+[b]Judiciary[/b]
+
+[nation]Auxorii[/nation]
+Chief Justice
+
+[b]Legislature[/b]
+
+[url=https://www.nationstates.net/nation=the_free_mutant_republic_of_genosha/detail=factbook/id=942613]The Virtuous People&#39;s Congress[/url]
+
+This region is home to the [region]Union of Allied States[/region] government.  No embassies will be accepted, all requests for embassy exchange must be received by the main region.

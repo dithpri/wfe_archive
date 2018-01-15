@@ -1,1 +1,3 @@
-The Askarian Dominion, Lead Nation: Aritons
+This region has been seized by the unwanvering legions of the Roman Empire and now pays tribute to its own people.
+(Almost forgot) triggers:
+[nation]Pageko[/nation]
