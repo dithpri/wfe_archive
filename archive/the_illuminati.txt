@@ -1,12 +1,13 @@
-[color=ff0000]Banlist[/color]: [color=0000ff]Empty[/color][color=808080].[/color]
-[color=ff0000]Board[/color]: [color=0000ff]Open[/color] [color=808080] (all nations in embassy regions).[/color]
-[color=ff0000]Border[/color]: [color=0000ff]Open[/color] [color=808080] to all nations.[/color]
-[color=ff0000]Embassies[/color]: [color=0000ff]Accepted[/color][color=808080].[/color]
-[color=ff0000]Endorsement Cap[/color]: [color=0000ff]None[/color] [color=808080](direct democracy).[/color]
-[color=ff0000]Forum[/color]: [url=http://forum.nationstates.net/]Local[/url][color=808080].[/color]
-[color=ff0000]Off-site Forum[/color]: [color=0000ff]None[/color] [color=808080](beware of impostors).[/color]
-[color=ff0000]Offices[/color]: [color=0000ff]Available[/color] [color=808080]for resident [url=https://www.nationstates.net/page=un]World Assembly[/url] nations.[/color]
-[color=ff0000]Titles[/color]: [color=0000ff]Available[/color] [color=808080]for resident nations.[/color][spoiler=&amp;#9760;&amp;#65039;]Apps: [url=http://www.mediafire.com/download/5rbizaw04xbyb94/nationstates_autotelegram_0.4.0_bin.zip]AutoTelegram[/url], [url=https://github.com/auralia/nationstates-nation-manager/releases/tag/v0.2]Nation Manager[/url].
+[color=ff0000]Banlist[/color]: [color=0000ff]Empty[/color].
+[color=ff0000]Board[/color]: [url=https://www.nationstates.net/region=the_illuminati#rmb]Open[/url].
+[color=ff0000]Border[/color]: [color=0000ff]Open[/color].
+[color=ff0000]Embassies[/color]: [color=0000ff]Accepted[/color].
+[color=ff0000]Endorsement Cap[/color]: [color=0000ff]None[/color] (direct democracy).
+[color=ff0000]Forum[/color]: [url=http://forum.nationstates.net/]Local[/url].
+[color=ff0000]Off-site Forum[/color]: [color=0000ff]None[/color] (beware of impostors).
+[color=ff0000]Offices[/color]: [color=0000ff]Available[/color] for [url=https://www.nationstates.net/page=un]World Assembly[/url] nations.
+[color=ff0000]Polls[/color]: [url=https://www.nationstates.net/page=polls/v=all]All[/url], [url=https://www.nationstates.net/page=polls/v=eligible]Eligible[/url], [url=https://www.nationstates.net/page=polls/v=region:the_illuminati]Domestic[/url], [url=https://www.nationstates.net/region=the_illuminati#poll]Current[/url].
+[color=ff0000]Titles[/color]: [color=0000ff]Available[/color] for [url=https://www.nationstates.net/page=list_nations/region=the_illuminati?censusid=254]resident[/url] nations.[spoiler=&amp;#9760;&amp;#65039;]Apps: [url=http://www.mediafire.com/download/5rbizaw04xbyb94/nationstates_autotelegram_0.4.0_bin.zip]AutoTelegram[/url], [url=https://github.com/auralia/nationstates-nation-manager/releases/tag/v0.2]Nation Manager[/url].
 Archives: [url=https://www.nationstates.net/page=archive]NSArchives[/url], [url=http://udl.taijitu.org/images/rflags/]Region Flags[/url], [url=http://udl.taijitu.org/wfe_index/]WFE Index[/url].
 Calculators: [url=http://nseconomy.thirdgeek.com/]NSEconomy[/url], [url=http://nsdossier.texasregion.net/]NSSuite[/url], [url=http://www.nstrackers.net/]NSTracker[/url].
 Flags: [url=https://fakeflag.net/]Fake[/url], [url=http://rollforfantasy.com/tools/flag-creator.php]PNG[/url], [url=http://www168.lunapic.com/editor/?action=flag-generator]Photo[/url], [url=http://flag-designer.appspot.com/]SVG[/url], [url=http://www.fileformat.info/convert/image/svg2raster.htm]Converter[/url].

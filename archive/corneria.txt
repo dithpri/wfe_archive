@@ -1,8 +1,9 @@
-[B][color=#5373ec]Welcome to[/color] [color=#74aa38]Corneria![/color][/B]
-[i]&quot;This war ravaged world of ours may not be comfortable, but it&#39;s home.&quot;[/i]
+[b]Hail Emperor [nation]Plagentine[/nation]! This barbarian stronghold has been seized by the forces of [region]The Roman Empire[/region]!
 [hr]
-All Hail 20XX!
+[color=#CB2727]If you want to become part of the Roman warmachine and go on endless conquests throughout the world, or wish to rise to the top of the Empire and lead the unstoppable legions into victories, visit our [url=https://discord.gg/QaCn9aj]discord chat[/url].[/color]
 
-https://github.com/arke/ADR-20XX
-[hr]
-[color=#74aa38]News ~ Wowowow![/color]
+[u]The invading troops:[/u]
+Emperor [nation]Plagentine[/nation]
+Optio [nation]Hired Contractor II[/nation]
+
+[color=#CB2727]Long live the Roman Empire, long live the Emperor![/color][/b]
