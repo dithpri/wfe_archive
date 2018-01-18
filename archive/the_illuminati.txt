@@ -1,6 +1,7 @@
 [color=ff0000]Banlist[/color]: [color=0000ff]Empty[/color].
 [color=ff0000]Board[/color]: [url=https://www.nationstates.net/region=the_illuminati#rmb]Open[/url].
 [color=ff0000]Border[/color]: [color=0000ff]Open[/color].
+[color=ff0000]Discord[/color]: [color=0000ff]None[/color].
 [color=ff0000]Embassies[/color]: [color=0000ff]Accepted[/color].
 [color=ff0000]Endorsement Cap[/color]: [color=0000ff]None[/color] (direct democracy).
 [color=ff0000]Forum[/color]: [url=http://forum.nationstates.net/]Local[/url].
