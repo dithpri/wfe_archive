@@ -25,6 +25,5 @@ Please add some sort of identification of who you are in the Rust community to y
 .
 .
 .
-[b]Another region shines! 
-Courtesy of The Cleaners[/b][/color]
+
 

@@ -1,5 +1,4 @@
-Emperor/Founder: [nation]Oppux[/nation]
-Empress/W.A. Delegate: [nation]Comackia[/nation]
+Empress: [nation]Comackia[/nation]
 House Of Congress Speaker: [nation]Elchsohnia[/nation]
 Imperial Leader: [nation]Isladonia[/nation]
 Master of Arms: [nation]Anh Acharat[/nation]
