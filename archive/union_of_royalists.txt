@@ -6,8 +6,8 @@
 
 The [b]UoR[/b] accepts monarchist nations of all kinds, from authoritarian to constitutional.
 
-[hr][b]The [/color][color=red]Union of Royalists[/color][color=darkblue] is a self-governing dependency and protectorate of the [/color][color=red]Alliance of Absolute Monarchs[/color][color=darkblue].
-
+[hr][b]The [/color][color=red]Union of Royalists[/color][color=darkblue] is a self-governing dependency and protectorate of the [/color][color=red]Alliance of Absolute Monarchs[/color].
+[color=darkblue]
 Sovereign[/b]
 [nation]Routcher[/nation]
 [b]Viceroy[/b]
@@ -16,6 +16,4 @@ Sovereign[/b]
 [nation]Heffburg[/nation]
 
 [b]Est. MMXVII[/b]
-[hr]
-
-[/color][color=red][b]At war with The West Pacific. State of emergency declared.[/b][/color]
+[/color]

@@ -7,7 +7,6 @@ Parliament:
 [nation]Zaldania[/nation]
 [nation]Pakstria[/nation]
 [nation]Capitalem[/nation]
-[nation]Torpigna[/nation]
 [hr][b][color=purple]Threat Level:[/color][/b]
 [color=red]High Alert[/color] ([color=Red]Level 5[/color]/[color=RED]5[/color])
 Will remain on alert until government established.
