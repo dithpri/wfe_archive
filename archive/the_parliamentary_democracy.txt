@@ -14,6 +14,7 @@
 [b]President : [nation]Breten[/nation][/b]
 &#151;&#151;&#151;&#151;&#151;&#151;
 [b]Prime Minister : [nation]Nuevo Altara[/nation][/b]
+-------------- 
 [b]Minister of Economy and Budget : [nation]Kajman-eilanden[/nation][/b]
 [b]Minister of Justice, Army and Internal Affairs : [nation]Oprain[/nation][/b]
 [b]Minister of Foreign and Interregional Affairs : [nation]Cypriot Egyptians[/nation][/b]
