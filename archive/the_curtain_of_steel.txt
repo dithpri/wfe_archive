@@ -1,7 +1,7 @@
 [b]The successor of [region=A World Beyond] and [region=A Neoworld Beyond].[/b]
 
 [hr]
-[color=brown][b]Date: July 1st-14th, 1953
+[color=brown][b]Date: July 15-30th, 1953
 
 [hr]
 
@@ -24,4 +24,5 @@ From Cape Town to Cairo, from Madrid to Tokyo,  a Curtain of Steel has descended
 Cartographer: [nation]Vulpinas II[/nation]
 Deputy Cartographer: [nation]Republic of Unified Japan[/nation]
 Deputy Cartographer: [nation]United Stanistan[/nation]
-Statistician: [nation]Greater Sweden[/nation][/b][/color]
+Statistician: [nation]Greater Sweden[/nation]
+Deputy Statistician: [nation]New Western Oceania[/nation][/b][/color]

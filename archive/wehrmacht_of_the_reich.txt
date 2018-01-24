@@ -11,14 +11,14 @@ I&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&a
 [u]1. Kompanie[/u]
 Oberleutnant: [nation]Eaglemount[/nation]
 Leutnant: [nation]Lesser New Spongeia[/nation]
-Oberfeldwebel: [nation]Grandmasterrod IVland[/nation]
-Feldwebel: [nation]Syncline[/nation]
+Oberfeldwebel: [nation]Vilank Way[/nation]
+Feldwebel: [nation]Grandmasterrod IVland[/nation]
 Feldwebel: [nation]Hun Terrain[/nation]
 Feldwebel: [nation]King Roddler Land[/nation]
 
 [u]2. Kompanie[/u]
 Leutnant: [nation]Arecenus[/nation]
-Oberfeldwebel: [nation]Vilank Way[/nation]
+Oberfeldwebel: 
 Feldwebel: [nation]Helicopteroa[/nation]
 Feldwebel: [nation]Jeopar[/nation]
 Feldwebel: [nation]SS Reichssoldaten[/nation]

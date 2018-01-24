@@ -3,29 +3,27 @@ Welcome to the High Court for the [b][region]New Western Atlantic[/region][/b]! 
 [color=#FFD700]&amp;#9878;[/color][b] Composition [/b][color=#FFD700]&amp;#9878;[/color]
 
 [list][*][i]Chief Justice[/i] : [b][nation=short]New Danican[/nation][/b]
-
-[url=https://www.nationstates.net/nation=nwa_chief_justice/detail=factbook/id=913336][i]Associate Justices[/i][/url]
-[/list]
-
+[*][i]Associate Justices[/i]:
+[list][*][nation]Oakenfield[/nation]
+[*][nation]Engium[/nation]
+[*][nation]Dertas[/nation]
+[*]Vacant[/list][/list]
 [hr]
+[b][u]Current Case(s)[/u] |[/b] [i]
+[list][*]Courtroom 1: None
+[*]Courtroom 2: None
+[*]Courtroom 3: None
+[/list][/i]
 
-[b][u]Current Case[/u] | [/b][i][nation]Saint William the Horrid[/nation] v. [nation]New Academ[/nation][/i]
+[b][u]Recent Verdict(s)[/u] |[/b] [i][nation]Saint William the Horrid[/nation] v. [nation]New Academ[/nation]([b]Not Guilty[/b])[/i]
 
-[b][u]Recent Verdict[/u] |[/b] [i]HCC-14(Varrious.)[/i]
-
-[b][u]Upcoming Cases[/u] |[/b] [i]None[/i]
+[b][u]Upcoming Case(s)[/u] |[/b] [i]None[/i]
 [hr]
-
+[b]Courtrooms[/b]
+[list][*][region]NWA High Courtroom 1[/region]
+[*][region]NWA High Courtroom 2[/region]
+[*][region]NWA High Courtroom 3[/region][/list]
+[hr]
 [color=#FFD700] [/color] [b]File a Case[/b] [color=#FFD700] [/color]
 
-[i]Use the format listed below in order for the NWA High Court to hear a case, and post it in the [region]NWA High Court[/region]&#39;s RMB.[/i]
-
-PETITIONER v. RESPONDENT
-IMPOSED PENALTY
-GROUNDS
-
-[i]Use the format listed below in order for the NWA High Court to review a bill&#146;s legality, and post it in the [region]NWA High Court[/region]&#39;s RMB.[/i]
-
-LEGISLATION CHALLENGING
-AMENDMENT VIOLATING/ LAW CONTRADICTING
-REASONS(INCLUDE VIOLATING LINES OF LAW, IF ONLY PARTS ARE ILLEGAL)
+Formats for filling a case can be found [url=https://www.nationstates.net/nation=nwa_chief_justice/detail=factbook/id=959971]here[/url]
