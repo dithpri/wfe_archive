@@ -1,5 +1,5 @@
---- [b][i]Regional Motto: &quot;Envoyez-nous victorieux&quot;[/i][/b] (&quot;Send Us Victorious&quot;)
-    --- [i]Regional Anthem: &quot;My Commonwealth&quot;[/i] [u]https://www.youtube.com/watch?v=uZYISm3nIiM[/u]
+[b][i]Regional Motto: &quot;Envoyez-nous victorieux&quot;[/i][/b] (&quot;Send Us Victorious&quot;)
+[i]Regional Anthem: &quot;My Commonwealth&quot;[/i] [u]https://www.youtube.com/watch?v=uZYISm3nIiM[/u]
 
 [u]https://swuvgov.wixsite.com/swuvaniacommonwealth[/u]
 
@@ -14,7 +14,7 @@ WA Member
 [nation]Northeast Territories of Swuvania[/nation]
 
 Close Alliance: [region]The Alliance of The Golden Phoenix[/region]
-Classification: [b][u]Federal Royalty, Parliamentary, Democratic-Republic[/u][/b]
+Classification: [b][u]Unitary, Federal Presidential, Constitutional Royalty, Parliamentary Republic[/u][/b]
 
-Predecessor: [nation]United Lands of Prumu[/nation], [region]Prumuan Continental Region[/region] ([b]No longer exist[/b])
+Predecessor: [nation]United Lands of Prumu[/nation], [region]Prumuan Continental Region[/region]
 Independent Region for Swuvania: [region]International Democratic Union[/region]

@@ -11,5 +11,5 @@
 [nation]The Eyeball tribe[/nation]
 [/color]
 
-[color=green]Check out our official page:[/color] 
+[color=teal]Check out our official page:[/color] 
 [url=http://bit.do/DuckyAlliance]Our Website[/url]

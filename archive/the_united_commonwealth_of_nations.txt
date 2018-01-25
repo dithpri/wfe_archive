@@ -1,10 +1,20 @@
 [b]Welcome to the United Commonwealth of Nations, an intergovernmental organization tasked to promote international cooperation and to create and maintain global order.[/b]
-Bienvenue au les Commonwealth des Nations Unies, une organisation intergouvernementale charg&eacute;e de promouvoir la coop&eacute;ration internationale et de cr&eacute;er et maintenir un ordre mondial.
+Bienvenue au la Commonwealth des Nations Unies, une organisation intergouvernementale charg&eacute;e de promouvoir la coop&eacute;ration internationale et de cr&eacute;er et maintenir un ordre mondial.
 
-[b]Government[/b][list]- Minister of Foreign Affairs
+[b]Government[/b][list]
+- Prime Minister
+- Minister of Foreign Affairs
 - Minister of the Interior
+- Minister of Homeland Security
+- Minister of Justice
+- Minister of Archives
 [/list]
 
 [b]News[/b][list]
-- We are in need of candidates for the two government positions.
+- We are in need of candidates for government positions.
+- A regional map will soon be released.
 - The United Commonwealth was founded on the 23rd of January.[/list]
+
+[b]Events[/b][list]
+- January 26: UCN Cultural Forum
+- January 27: UCN Economic Forum[/list]
