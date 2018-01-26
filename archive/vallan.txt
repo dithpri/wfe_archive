@@ -1,1 +1,4 @@
 Vallan
+
+Puppet Storage Region
+a [region=0000] region
