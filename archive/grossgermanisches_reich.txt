@@ -1,8 +1,7 @@
-[b][color=black] &amp;#10009; [u][region]Grossgermanisches Reich[/region] - Greater Germanic Reich[/u] &amp;#10009; [/color]
+[b]&amp;#10009; [color=#BB0924][u] Gro&szlig;germanisches Reich - Greater Germanic Reich[/u][/color] &amp;#10009; [/b]
 
-[nation]Fuhrer der Germanischen Volker[/nation]
-[color=#BB0924][i]Das F&uuml;hrer der Germanischen V&ouml;lker - Leader of the Germanic peoples[/i][/color][/b]
-
+[color=black][b]Historie:[/b][/color] [url=http://www.self.gutenberg.org/articles/Grossgermanisches_Reich]Reich[/url]
+[color=black][b]Kommunikation:[/b][/color] [url=https://discord.gg/jPzYqVh]Discord[/url]
 [color=black][b]Datum:[/b][/color] [color=#BB0924]Herbst 1962[/color]
 [color=black][b]Unterzeichner:[/b][/color] [region]Berlin Pact[/region]
 [color=black][b]Nationalhymne:[/b][/color] [url=https://www.youtube.com/watch?v=mZ8zUcg_Lks]Deutschland &uuml;ber alles[/url]
@@ -16,7 +15,9 @@
 [color=black][b]Reichsregierung:[/b][/color] [region]Volkshalle[/region]
 [color=black][b]Protektorate:[/b][/color] [region]Greater National Socialist Reich[/region], [region]National Socialist America[/region]
 [color=black][b]Kolonien:[/b][/color]
-[color=black][b]Automobilproduktion:[/b][/color] [region]Volkswagen[/region][hr][color=black][b]Staatsb&uuml;rgerschaft:[/b][/color] 
+[color=black][b]Automobilproduktion:[/b][/color] [region]Volkswagen[/region]
+[color=black][b]Staatsb&uuml;rgerschaft:[/b][/color] 
 [color=black][b]Milit&auml;r:[/b][/color] [region]Wehrmacht of the Reich[/region]
+[color=black][b]Milit&auml;rbezirke:[/b][/color] 
 [color=black][b]Ausbildungslager:[/b][/color] [region]Trainingslager[/region]
 [color=black][b]Heimatschutz:[/b][/color] [region]Volkssturm[/region]

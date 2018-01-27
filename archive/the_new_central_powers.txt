@@ -1,4 +1,4 @@
-Hail Kaiser Wilhelm II! This barbarian stronghold has been seized by the forces of [region]The Roman Empire[/region]! And crushed by the central powers.
+Hail Kaiser Wilhelm II! This  &Uuml;bermensch stronghold had been seized by the forces of [region]The Roman Empire[/region]! And crushed by the central powers.
 
 
 [u]The  easily defeated invading troops:[/u]
@@ -8,3 +8,5 @@ Legatus [nation]Festavo the Enigma[/nation]
 
 
 [color=#CB2727]Long live the Central Powers long live the Kaiser![/color]
+
+[color=#CB2727] Weekly anthem/march:https://m.youtube.com/watch?v=f_6AQA4uzD0[/color]

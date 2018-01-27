@@ -5,7 +5,7 @@
 [b]Sovereign[/b]: [nation]Hospele[/nation]
 [b]Heir[/b]:
 
-[b]Minister of Foreign Affairs[/b]:
+[b]Minister of Foreign Affairs[/b]: [nation]Cetia[/nation]
 [b]WA Delegate[/b]:
 
 [b]Minister of the Interior[/b]:
