@@ -10,7 +10,7 @@ Welcome to Courtroom 1 of the High Court for the [b][region]New Western Atlantic
 [/list]
 
 [hr]
-[b][u]Current Case[/u] | [/b][i]None[/i]
+[b][u]Current Case[/u] | [/b][i][nation]Brachiosauraus[/nation] v. [nation]Thornian[/nation][/i]
 
 [b][u]Cases in other Courtrooms[/u] |[/b]
 [list]

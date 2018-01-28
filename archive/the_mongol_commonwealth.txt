@@ -1,3 +1,8 @@
 Storage for the puppet nations controlled by [nation]Khingan[/nation] ([region]CISB[/region]).
 
-Albeit being quite useless, all embassy requests will be accepted.
+Albeit being quite useless, all embassy requests will be accepted.[hr]
+
+Other puppet nations not located in [region]The Mongol Commonwealth[/region] are:
+
+[nation]The Greater Altai Republic[/nation] ([region]Greater Middle East[/region])
+[nation]Kalallisut Nunaat[/nation] ([region]CISB[/region])
