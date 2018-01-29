@@ -1,11 +1,1 @@
-[b] [color=red]The current Military might of [region] United Harripersad Kingdom[/region] Royal Military Services Unit (UHK-RMSU)[/color] [/b]
-
-[b] [color=purple]Royal Air Services Unit (UHK-RASU) [/color] - 700 million [/b]
-[b] [color=blue]Royal Naval Armada (UHK-RNA) [/color] - 800 million [/b]
-[b] [color=green]Royal Defence Force(UHK-RDF) [/color] - 1,800 million [/b]
-[b] [color=darkblue]Royal Guard and Emergency Branch (UHK-RGEB) [/color] - 400 million [/b]
-[b] [color=lightpink]Royal Medical Core(UHK-RMC) [/color] - 400 million [/b]
-[b] [color=gold]Garde Royale (Kingsguard Unit)(UHK-KGU) [/color] - 1 million [/b]
-[b] [color=darkyellow]Regional Presidential Guard (UHK-RPG) [/color] - 2 million [/b]
-[b] [color=lightblue]Senate and Congressional Protection Unit(UHK-SCPU) [/color] - 4 million [/b]
-[b] [color=darkgrey]Royal Intelligence and Special Operations Unit (UHK-RISOU) [/color] - 4 million [/b]
+Refounded as a colony of [region]Andarios[/region]. A large planet in the outter-cluster of the Andarian Galaxy. Famous for is gardens and a much appreciated holidays destination.
