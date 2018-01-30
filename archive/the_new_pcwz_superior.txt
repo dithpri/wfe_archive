@@ -1,8 +1,0 @@
-President: [nation]Paltio[/nation]
-W. A. Delegate: [nation]Kunz Lunz[/nation]
-Vice-Delegate: [nation]Joosh[/nation]
-Homeland Officer: [nation]LONUS[/nation]
-Security Officer: [nation]Ithiopi[/nation]
-Diplomacy Officer: [nation]Jetatopia[/nation]
-Communications Officer: [nation]Canface[/nation]
-Research Officer: [nation]Slazvalaz[/nation]
