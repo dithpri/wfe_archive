@@ -13,7 +13,7 @@
 [color=black][b]Currency:[/b][/color] [color=#BB0924]Reichsmark[/color]
 [color=black][b]Bank:[/b][/color] [region]Deutsche Reichsbank[/region]
 [color=black][b]National Holiday:[/b][/color] [color=#BB0924]May 1 - National Labor Day[/color]
-[color=black][b]State Doctrine:[/b][/color] [color=#BB0924]National Socialist, Leadership principle[/color]
+[color=black][b]State Doctrine:[/b][/color] [region]Nationalsozialismus[/region], [region]Fuhrerprinzip[/region]
 [color=black][b]Reich Government:[/b][/color] [region]Volkshalle[/region]
 [color=black][b]Colonies:[/b][/color] [region]Afrika[/region]
 [color=black][b]Labor:[/b][/color] [region]Deutsche Arbeitsfront[/region]

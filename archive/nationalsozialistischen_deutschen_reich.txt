@@ -1,18 +1,5 @@
-[b][Color=black]
-&amp;#10016; [region]Nationalsozialistischen Deutschen Reich[/region]
-&amp;#10016; [region]Germanischer Staat Deutscher Nation[/region]
-&amp;#10016; [region]Stadtstaat Berlin[/region]
-&amp;#10016; [region]Germania Welthauptstadt[/region]
-&amp;#10016; [region]Volkshalle[/region]
-&amp;#10016; [nation]Seine Exzellenz der Volkshalle[/nation]
+[b][Color=black]&amp;#10009; [region]Grossgermanisches Reich[/region] - Gro&szlig;germanisches Reich &amp;#10009;
 
-&amp;#10016; [region]National Socialist German Reich[/region] 
-&amp;#10016; [region]Germanic State of the German Nation[/region]
-&amp;#10016; [region]World Capital Germania[/region]
-&amp;#10016; [region]City State Berlin[/region]
-&amp;#10016; [region]Peoples Hall[/region]
-&amp;#10016; [nation]His Excellency of The Volkshalle[/nation]
 
- 
 
 [/color][/b]

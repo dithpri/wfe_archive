@@ -6,16 +6,17 @@ Two parties predominate:
 Eggrats- Pro Foreign trade and talk. Color: Green. 
 Tesques- Isolationist tendencies. Color: Blue. 
 
-Executive authority: Eggrat President ([nation]Tristonia II[/nation])
+Executive authority: Primeminister ([nation]Tristonia II[/nation])
 
-Senate (1 each state): Eggrat Majority Leader ([nation]Tristonia VI[/nation])
+Executive authority: Eggrat President ([nation]Tristonia IV[/nation])
+
+Senate (1 each state): Eggrat Majority Leader ([nation]Tristonia II[/nation])
 5 Eggrats 
-1 Moderate
+2 Tesques
 
 Representatives (arbitrary amount per state): Eggrat Speaker ([nation]Tristonia II[/nation])
-10 Eggrats
-6 Tesques
-2 Moderates
+11 Eggrats
+11 Tesques
 
 ----------
 
