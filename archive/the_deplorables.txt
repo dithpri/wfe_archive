@@ -3,4 +3,4 @@ Huzzah
 -[nation=noflag]Colonial[/nation]
 
 Missions:
-Liberate [region]Conservative[/region], [region]Capitalist[/region], and any other right-wing regions that have been captured.
+Liberate [region]Conservatism[/region], [region]Capitalist[/region], and any other right-wing regions that have been captured.

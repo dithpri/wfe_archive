@@ -8,11 +8,3 @@ Delegate: [nation=malfaria]
 [b]Capital: Domani, [nation=ringsaer][/b]
 [b]Largest City: West Bernardo, [nation=malfaria][/b]
 [hr]
-
-[b]Demonym: Leaguers[/b]
-[hr]
-
-[b]Legislature[/b]:
-- Upper House: Senatorial League
-- Lower House: Assembly of Cooperators
-[hr]
