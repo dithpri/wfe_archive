@@ -7,6 +7,8 @@
 [nation=short]The United Roman Reich[/nation]
 [nation=short]Vanhania[/nation]
 [nation=short]Ruzalka[/nation]
+[nation=short]Servoth[/nation]
+[nation=short]Aatelisia[/nation]
 [Hr]
 
 [b]Endorse [nation=short]Vanhania[/nation] to be our WA Delegate![/b]

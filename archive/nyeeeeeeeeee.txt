@@ -1,1 +1,14 @@
-The factbook is blank
+Languages:
+English
+French
+Hungarian
+
+Langues:
+Anglais
+Fran&ccedil;ais
+Hongrois
+
+Nyelvek:
+Angol
+Francia
+Magyar 

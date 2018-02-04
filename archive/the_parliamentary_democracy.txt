@@ -8,14 +8,16 @@
 [hr] 
 &amp;#128272; SECURITY LEVEL = [colour=darkgreen][b]GREEN[/b][/colour]
 
+[hr]
 
 
 [color=blue][b]REGIONAL GOVERNMENT[/b][/color]
+
 [b]President : [nation]Breten[/nation][/b]
 [b]_____________[/b]
 
 [b]Prime Minister : [nation]Nuevo Altara[/nation][/b]
--------------- 
+--------
 [b]Minister of Economy and Budget : [nation]Kajman-eilanden[/nation][/b]
 [b]Minister of Justice, Army and Internal Affairs : [nation]Oprain[/nation][/b]
 [b]Minister of Foreign and Interregional Affairs : [nation]Cypriot Egyptians[/nation][/b]

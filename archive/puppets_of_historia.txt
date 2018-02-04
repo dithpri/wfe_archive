@@ -6,8 +6,8 @@
 [hr]
 
 [b][u][color=darkred]Ministry[/color][/b][/u]
-[nation]Italizio[/nation]
-[nation]United Provincien[/nation]
+[nation]Latvijas Otra Republika[/nation]
+[nation]Pontous[/nation]
 [nation]Velykyy Ukraina[/nation]
 
 [b][u][color=darkred]Cartographer[/color][/b][/u]

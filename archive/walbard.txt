@@ -1,14 +1,27 @@
+[b]Welcome to the Kingdom of Walbard.[/b]
+[I]Strength Through Unity ~ We Prevail![/I]
+
 [color=darkred][b]Original[/color]. [color=darkorange]Best[/color].[/b]
 [color=darkblue]Accept nothing less.[/color]
 
-Welcome to[color=red] [b]The Eternal Empire of Walbard[/color].[/b]
-Founded in 2007. Hereditary Monarchy.
+[hr]
 
-Our Sovereign is [nation]King Carlisle[/nation] I.
+[nation]King George[/nation] of [nation]Walbard[/nation] rules.
+[nation]Prince Henry[/nation] is our heir apparent.
+
+[hr]
+
+Citizens are known as Walbardians.
+Our Capital City is [nation]Walbard City[/nation].
+
+We speak English and Portuguese.
+We trade (&pound;)Pounds and (p)Pence.
+
+Our Chancellor is Chief Executive.
+Our Peers and MP&#39;s make the laws.
+
+[hr]
 
 We control a &quot;Personal Union&quot; with;
 ~ [region]The United Kingdom[/region].
-~ [region]The Kingdom of Windsor[/region].
-
-Our motto has always been;
-[b]Strength Through Unity![/b]
++ [region]The Kingdom of Windsor[/region].
