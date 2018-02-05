@@ -2,16 +2,16 @@ Welcome to the High Court for the [b][region]New Western Atlantic[/region][/b]! 
 
 [color=#FFD700]&amp;#9878;[/color][b] Composition [/b][color=#FFD700]&amp;#9878;[/color]
 
-[list][*][i]Chief Justice[/i] : [b]Vacant[/b]
+[list][*][i]Chief Justice[/i] : [nation]The Brotherhood of Kyro[/nation]
 [*][i]Associate Justices[/i]:
-[list][*][nation]Oakenfield[/nation]
-[*][nation]Engium[/nation]
+[list][*][nation]Engium[/nation]
 [*][nation]Dertas[/nation]
+[*][nation]Katarial[/nation]
 [*]Vacant[/list][/list]
 [hr]
 [b][u]Current Case(s)[/u] |[/b] [i]
 [list][*]Courtroom 1: [nation]Brachiosauraus[/nation] v. [nation]Thornian[/nation]
-[*]Courtroom 2: None
+[*]Courtroom 2: [nation]Thornian[/nation] V Leon News
 [*]Courtroom 3: None
 [/list][/i]
 
