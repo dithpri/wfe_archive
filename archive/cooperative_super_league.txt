@@ -5,6 +5,6 @@
 Delegate: [nation=malfaria]
 [hr]
 
-[b]Capital: Domani, [nation=ringsaer][/b]
-[b]Largest City: West Bernardo, [nation=malfaria][/b]
+[b]Capital:[/b] Tazryh, [nation=baleiz]
+[b]Largest City:[/b] West Bernardo, [nation=malfaria]
 [hr]
