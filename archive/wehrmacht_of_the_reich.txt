@@ -12,5 +12,6 @@
 
 [color=black]Oberkommando des Heeres:[/color]
 [color=black]Oberkommando der Marine:[/color] [nation]Gothic Ripples[/nation]
+ - [region]Wolf Pack[/region] 
 [color=black]Oberkommando der Luftwaffe:[/color] [nation]Lesser New Spongeia[/nation]
 [/b]
