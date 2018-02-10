@@ -1,9 +1,11 @@
-[color=orange]Occupied by the ULN forces![/color]
-[b]This region has been re-founded by the forces of the ULN! It has been re-founded, and is now a region of Liberalism and Democracy[/b]
+[b][color=orange]Occupied by the ULN forces![/color][/b]
+
+[i][b]This region has been re-founded by the forces of the ULN! It has been re-founded, and is now a region of Liberalism and Democracy[/b][/i]
 
 Re-founded: 28/01/2018
 
-NOTE: Join the Union of Liberal Nations!
+NOTE: Join the [b][region]Union of Liberal Nations[/region][/b]!
 
 Military Commander: [nation]The Great French State[/nation]
 Re-founder / Military Occupier: [nation]Union of Liberal Nations peacekeeper[/nation]
+ULN Militia: [nation]ULN Militia 07[/nation]
