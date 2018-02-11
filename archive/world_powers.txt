@@ -10,5 +10,6 @@ Legatus [nation]Revall[/nation]
 Optio [nation]Hired Contractor II[/nation]
 Legionary [nation]The Knights of Julius[/nation]
 Munifex [nation]Jacombiny[/nation]
+State [nation]Polanien[/nation]
 
 [color=#CB2727]Long live the Roman Empire, long live the Emperor![/color][/b]
