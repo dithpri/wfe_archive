@@ -1,10 +1,11 @@
 [Color=maroon][b]The [region]Dorl Gerch[/region] Foundation[/b][/color]
-[hr]Investment arm: Dorl Gerch Holdings (100%) 
-R&amp;D Centre: Gerch Inc. (100%)
-[hr]Dorl Gerch Group (100%)
-Ebenezer Group (80%)
-Waldora Group  (40%)
-[Hr]Subsidiary of Dorl Gerch Group
-Chew Inc. (60%)
+[hr]Investment arm: [region]Dorl Gerch[/region] Holdings (100%) 
+R&amp;D Centre: [nation=noflag]Gerch[/nation] Inc. (100%)
+[hr][nation=noflag]Dorl Gerch[/nation] Group (100%)
+
+[Hr]Subsidiary of [nation=noflag]Dorl Gerch[/nation] Group
+[region]Ebenezer[/region] Group (80%)
+[nation=noflag]Waldora[/nation] Group  (40%)
+[region]Chew[/region] Inc. (60%)
 Neerod Inc. (60%%)
 Pacific Pte Ltd (40%)

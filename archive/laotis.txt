@@ -11,7 +11,7 @@
 [nation=short]jern-ulv[/nation][/color]
 
 [color=Blue]Head of Foreign Affairs / RP Moderator
-OPEN [/color]
+[nation]New-Order2[/nation] [/color]
 
 [color=#FF1493]Minister of Rules and Regulation / RP Moderator / RP Cartographer
 [nation=short]argent-america[/nation][/color]
@@ -24,7 +24,7 @@ OPEN [/color]
 
 [color=gold][u]Laotis was created on the 27th of August 2016![/color][/u]
 
-[color=red]Time: Winter 1454
+[color=red]Time: Spring 1455
 1 day = 1 season RP
 4 days = 1 year RP[/color]
 
