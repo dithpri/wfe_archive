@@ -4,16 +4,16 @@
 
 [hr]
 
-[b][url=https://discord.gg/YuPRBV2][color=red]Our Discord![/color][/url] | [url=http://s15.zetaboards.com/Dythinia/index/][color=orange]Our Forum![/color][/url] | [url=http://s15.zetaboards.com/Dythinia/forum/5170432/][color=purple]Citizen signup![/color][/url][/b]  
+[b][url=https://discord.gg/YuPRBV2][color=#FFE017]Our Discord![/color][/url] | [url=http://s15.zetaboards.com/Dythinia/index/][color=#14BADB]Our Forum![/color][/url] | [url=http://s15.zetaboards.com/Dythinia/forum/5170432/][color=#1779C4]Citizen signup![/color][/url][/b]  
 
 [hr]
 
-[color=Black][b][u]The Royal Family[/u][/b][/color]
+[u][b][color=#40ECFF]T[/color][color=#4BDFF7]h[/color][color=#57D3EF]e[/color] [color=#6FBAE0]R[/color][color=#7BAED8]o[/color][color=#87A1D0]y[/color][color=#9395C9]a[/color][color=#9F89C1]l[/color] [color=#B770B2]F[/color][color=#C363AA]a[/color][color=#CF57A2]m[/color][color=#DB4B9B]i[/color][color=#E73E93]l[/color][color=#F3328B]y[/color][/b][/u]
 [color=darkblue][b]The King:[/b][/color] [nation]Cogidubnus[/nation]
 [color=blue][b]The Queen Consort:[/b][/color] [nation]Belikov[/nation]
 [color=blue][b]The Crown Prince:[/b][/color] [nation]Bolotnaya[/nation]
 
-[b][u]The Government[/u][/b]
+[u][b][color=#40ECFF]T[/color][color=#4DDDF6]h[/color][color=#5BCFED]e[/color] [color=#76B3DB]G[/color][color=#84A5D3]o[/color][color=#9197CA]v[/color][color=#9F89C1]e[/color][color=#AD7AB8]r[/color][color=#BA6CAF]n[/color][color=#C85EA7]m[/color][color=#D6509E]e[/color][color=#E34295]n[/color][color=#F1348C]t[/color][/b][/u]
 [color=#00BA2C][b]The Prime Minister:[/b] [nation]Mediolaunum[/nation]
 [b]Minister for Home Affairs:[/b] [nation]Al Muhabil[/nation]
 [b]Minister for Foreign Affairs:[/b] [nation]Belikov[/nation]
@@ -23,9 +23,8 @@
 
 [hr]
 
-[color=darkgreen]
-[b]Song of the Week:[/b] [url=https://www.youtube.com/watch?v=_0soY3Dk6QI]Phil Collins - Something Happened On The Way To Heaven[/url]
-[b]Nation of the Week:[/b][/color] [color=Blue] [b]Congratulations to [nation]Al Muhabil[/nation]![/color][/b]
+[b][color=#FF0000]S[/color][color=#FF5A00]o[/color][color=#FFB400]n[/color][color=#EFFF00]g[/color] [color=#3BFF00]o[/color][color=#00FF1E]f[/color] [color=#00FFD2]t[/color][color=#00D1FF]h[/color][color=#0077FF]e[/color] [color=#3C00FF]W[/color][color=#9500FF]e[/color][color=#F000FF]e[/color][color=#FF00B3]k[/color][color=#FF0059]![/color][/b] [url=https://www.youtube.com/watch?v=2bhWOnplYc4]Toad The Wet Sprocket - The Moment[/url]
+[b][color=#FF0000]N[/color][color=#FF5000]a[/color][color=#FFA100]t[/color][color=#FFF100]i[/color][color=#BBFF00]o[/color][color=#6BFF00]n[/color] [color=#00FF35]o[/color][color=#00FF86]f[/color] [color=#00D6FF]t[/color][color=#0086FF]h[/color][color=#0035FF]e[/color] [color=#6B00FF]W[/color][color=#BB00FF]e[/color][color=#FF00F1]e[/color][color=#FF00A1]k[/color][color=#FF0050]![/color][/b] [color=Blue] [b]Congratulations to [nation]Al Muhabil[/nation]![/color][/b]
 [hr]
 
-[color=red][b]Please endorse our Delegate [nation]Cogidubnus[/nation]![/b][/color]
+[b][i][color=#40ECFF]E[/color][color=#49E2F8]n[/color][color=#53D8F2]d[/color][color=#5CCEEC]o[/color][color=#66C4E6]r[/color][color=#6FBAE0]s[/color][color=#79B0DA]e[/color] [color=#8C9CCD]t[/color][color=#9592C7]h[/color][color=#9F88C1]e[/color] [color=#B275B5]D[/color][color=#BC6BAF]e[/color][color=#C561A8]l[/color][color=#CF57A2]e[/color][color=#D84D9C]g[/color][color=#E24396]a[/color][color=#EB3990]t[/color][color=#F52F8A]e[/color][/i][/b] [b][nation]Cogidubnus[/nation]![/b]
