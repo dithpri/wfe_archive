@@ -1,4 +1,4 @@
-[Color=maroon][b]The [region]Dorl Gerch[/region] Foundation[/b][/color]
+[u][Color=maroon][b]The [region]Dorl Gerch[/region] Foundation[/b][/color][/u]
 Mission: [i]&quot;Creating a better everyday life for All.&quot;[/i]
 Vision: [i]&quot;Sustainability by Virtue!&quot;[/i]
 [hr]Investment arm: [nation=noflag]Dorl Gerch[/nation]
@@ -7,3 +7,6 @@ R&amp;D Centre: [nation=noflag]Gerch[/nation]
 [region]Chew[/region]
 [region]Ebenezer[/region]
 [region]The Realm of Neerod[/region]
+[hr]
+
+[b]Chairman:[/b] vacant (conventionally reserved for elected WA Delegate)

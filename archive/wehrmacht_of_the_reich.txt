@@ -1,5 +1,5 @@
-[b][color=black]&amp;#10009; [u][region]Grossgermanisches Reich[/region] - The Greater German Reich[/u] &amp;#10009;[/color]
-[color=red]Under the F&uuml;hrer&#39;s black leather gloved iron fist, [region]Wehrmacht of the Reich[/region] will dominate the world[/color]
+[b][u][region]Grossgermanisches Reich[/region] - The Greater German Reich[/u]
+[color=darkred] Under the F&uuml;hrer&#39;s black leather gloved iron fist and steely gaze, [/color][region]Wehrmacht of the Reich[/region][color=darkred] will goose step in shiny black boots and immaculately pressed uniforms into all enemy regions[/color]
 
 [color=black]F&uuml;hrer:[/color] [nation]Fuhrer der Germanischen Volker[/nation]
 [color=black]Reichsf&uuml;hrer:[/color] [nation]Aryanarchy[/nation]
@@ -14,4 +14,5 @@
  - [region]Wolf Pack[/region] 
 
 [region]Oberkommando der Luftwaffe[/region]: [nation]Lesser New Spongeia[/nation]
+ - [region]European Space Administration[/region]
 [/b]

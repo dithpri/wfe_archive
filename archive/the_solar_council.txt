@@ -3,6 +3,6 @@
 Take over one of the factions of Earth or one of the independent colonies in the solar system and lead your people through this difficult times in THE SOLAR COUNCIL![/b][/color]
 
 [hr][url=https://www.nationstates.net/nation=lunar_industries/detail=factbook/id=930083]Regional Rulebook[/url] | [url=https://www.nationstates.net/nation=lunar_industries/detail=factbook/id=930087]Regional Calendar[/url] | [url=https://www.nationstates.net/nation=lunar_industries/detail=factbook/id=929819]Regional Map[/url] | [color=green][url=https://www.nationstates.net/nation=lunar_industries]Endorse our WA Delegate[/url][/color]
-[hr][b][color=darkblue]Supreme Leader of the Council:[/color][/b] [color=green][nation]Human planets[/nation][/color]
-[b][color=darkblue]Eternal President of the Council:[/color][/b] [color=green][nation]Red Mars Republic[/nation][/color]
-[b][color=darkblue]President of the Council:[/color][/b] [color=green]Vacant[/color]
+[hr][b][color=darkblue]Supreme Leader of the Council:[/color][/b] [color=green][nation=noflag]Human planets[/nation][/color]
+[b][color=darkblue]Eternal President of the Council:[/color][/b] [color=green][nation=noflag]Red Mars Republic[/nation][/color]
+[b][color=darkblue]President of the Council:[/color][/b] [color=green][nation=noflag]Laurie Island[/nation][/color]
