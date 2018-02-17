@@ -12,7 +12,7 @@
 [color=darkred][b][i][u]Ministry[/u][/b][/color][/i]
 [nation=short]Velykyy Ukraina[/nation]
 [nation=short]Latvijas Otra Republika[/nation]
-[nation=short]Pontous[/nation]
+[nation=short]Czeskia[/nation]
 
 [color=darkred][b][i][u]Cartographer[/i][/u][/b][/color]
 [nation=short]North America and the Great Lakes[/nation]

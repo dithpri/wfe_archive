@@ -1,6 +1,6 @@
-[b]This region serves as a storage center for the puppets of [nation]decolorean islands[/nation] that are not being used.[/b]
+[b]This region serves as a storage center for the puppets of [nation]decolorean islands[/nation].[/b]
 
-[u][b]Active Puppets (as of 12/1/2017)[/b][/u]
+[u][b]Active Puppets (as of 2/17/2018)[/b][/u]
 
 [B][nation=short]Corladia[/nation]
 [nation=short]Decolorean Puppet Steward[/nation]

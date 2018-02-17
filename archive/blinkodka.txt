@@ -6,7 +6,7 @@ Hello, welcome to Blinkodka, a region led by the nation, Gopnikea. Gopnikea is l
 
 [url=https://discord.gg/9G4fKRC]Hey! Over here! This is the taxi to the Discord server![/url]
 
-[color=#990000][b][url=https://thevodkakea.createaforum.com]Hey! I&#146;m the forum, look at me![/url][/b][/color]
+[url=https://thevodkakea.createaforum.com]Hey! I&#146;m the forum, look at me![/url]
 
 [url=http://nseconomy.thirdgeek.com/?region=The+Free+Lands+of+Vodkakea]Yo! This is da economy! Click me to see the economy of da region![/url]
 
@@ -14,7 +14,9 @@ Hello, welcome to Blinkodka, a region led by the nation, Gopnikea. Gopnikea is l
 
 [b]This is Nikola speaking, I hope you have a good time![/b]
 
-[i]Boris: Is everything ready?[/i]
+[hr]
+
+[color=#990000][i]Boris: Is everything ready?[/i]
 
 [i]Anatoli: Its... done[/i]
 
@@ -22,4 +24,4 @@ Hello, welcome to Blinkodka, a region led by the nation, Gopnikea. Gopnikea is l
 
 [i]Anatoli: Tonight?[/i]
 
-[i]Boris: Yes, tonight![/i]
+[i]Boris: Yes, tonight![/i][/color]
