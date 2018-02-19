@@ -1,4 +1,10 @@
-/////LOADING/////
-Welcome to The New Empire
- Goals
-CREATE THE LARGEST EMPIRE 
+[i][b]The New Empire is empire that is ready to bring new order to the world and its people. The glorious Emperor Prideh founded this region and declared its rules. The Emperor will look out for the regions people and its nations. 
+
+HAIL THE EMPEROR![/b][/i]
+
+[b]The Emperor[/b]
+[nation]Prideh[/nation]
+
+[b]The Imperial Council[/b]
+[nation]Montarias[/nation]
+[nation]Syngress[/nation]

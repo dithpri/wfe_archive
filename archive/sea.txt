@@ -1,4 +1,4 @@
-[b][region]SEA[/region][/b] is a proud region which spans across the region of Southeast Asia.
+[b]The Empire of [region]SEA[/region][/b] is a proud region which spans across the region of Southeast Asia.
 
 We welcome [b]all nations[/b] to help play a pivotal role in building this region!
 
@@ -13,3 +13,5 @@ Sir Thomas Stamford Raffles, [nation=long]British Java[/nation]
 Sir Gerald Walter Robert Templer, [nation=long]Malayan Union[/nation]
 
 [b][i]In Hell we strive towards Heaven.[/i][/b]
+
+We trade with the [b]Asiatic Credit[/b]. No other currencies are accepted within the Empire.
