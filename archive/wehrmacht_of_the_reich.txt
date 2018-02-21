@@ -15,4 +15,9 @@
 
 [region]Oberkommando der Luftwaffe[/region]: [nation]Lesser New Spongeia[/nation]
  - [region]European Space Administration[/region]
+
+Allies: 
+[region]Dai Nippon Teikoku[/region] 
+[region]Kingdom of Hungary[/region]
+
 [/b]

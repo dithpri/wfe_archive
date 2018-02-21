@@ -1,1 +1,4 @@
-NRA
+[color=red][b]N[/color][color=silver]R[/color][color=blue]A[/b][/color]
+
+[color=maroon]a [region=0000] Oracle Puppet Region[/color]
+[color=red][i]This region will not accept Embassy Offers at this time[/i][/color]
