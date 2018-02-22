@@ -1,6 +1,6 @@
-[u][color=black][b]Reichsregierung of [region]Grossgermanisches Reich[/region] - [i]The Greater German Reich[/i][/b][/color][/u]
+[u][color=black][b]Reichsregierung of [region]The Greatest German Reich[/region][/b][/color][/u] - [i]The Greater German Reich[/i]
 
-[color=black][b]F&uuml;hrer und Reichskanzler:[/b][/color] [nation]Fuhrer der Germanischen Volker[/nation]
+[nation]Der Fuhrer und Reichskanzler[/nation]
 [color=black][b]Reichsf&uuml;hrer:[/b][/color] [nation]Aryanarchy[/nation]
 [color=black][b]Oberbefehlshaber des Heeres:[/b][/color] 
 [color=black][b]Oberbefehlshaber der Kriegsmarine:[/b][/color] [nation]Gothic Ripples[/nation]
