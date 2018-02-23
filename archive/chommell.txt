@@ -8,7 +8,7 @@ Straddling the Enarc Run, Chommell is notably home to the planet Naboo, homeworl
 
 [hr]
 
-[b]Sector capital:[/b] [nation=Naboo]
+[b]Sector capital:[/b] [nation]Naboo[/nation]
 [b]Notable affiliations:[/b]
 &#149; Galactic Republic
 &#149; Galactic Empire
