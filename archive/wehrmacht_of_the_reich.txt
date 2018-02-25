@@ -1,5 +1,6 @@
-[b][u][region]The Greatest German Reich[/region][/u]
-[color=darkred] Under [nation]Der Fuhrer und Reichskanzler[/nation]&#39;s black leather gloved raised fist and soul piercing steely gaze, [/color][region]Wehrmacht of the Reich[/region][color=darkred] goose stepped in massed formations of shiny black boots and immaculately pressed uniforms to proclaim [i]The Greatest German Reich[/i][/color]
+[b][region]The Greatest German Reich[/region] Spring 1942
+
+[color=darkred][i] Under [nation]Der Fuhrer und Reichskanzler[/nation] Wilhelm Frick&#39;s soul piercing steely gaze, the [/color][region]Wehrmacht of the Reich[/region][color=darkred] will march in immaculately pressed Prussian grey uniforms on all bolshevik holdings and grind them into dust[/i][/color]
 
 [url=https://www.youtube.com/watch?v=mZ8zUcg_Lks]Deutschland &Uuml;ber Alles[/url]
 
@@ -7,17 +8,13 @@
 [color=black]Hymnes:[/color] [url=https://www.youtube.com/watch?v=Bdl8pJ8RqTQ]Panzerlied[/url] &amp;#10009; [url=https://www.youtube.com/watch?v=0nh36Do2fSM]Im Wald, im gr&uuml;nen Walde[/url], [url=https://www.youtube.com/watch?v=94whESTgOhs]Mein Schlesierland[/url] [url=https://www.youtube.com/watch?v=gSuoviYxm-U]Panzer rollen in Afrika vor[/url]
 
 
-[region]Oberkommando des Heeres[/region]: [nation]Grandmasterrod IVland[/nation]
- - [region]Wehrwolves[/region]
+[color=darkred] Land Forces:[/color] [region]Oberkommando des Heeres[/region]
+Commander: [nation]Grandmasterrod IVland[/nation]
+Support region - [region]Wehrwolves[/region]
 
-[region]Oberkommando der Marine[/region]: [nation]Gothic Ripples[/nation]
- - [region]Wolf Pack[/region] 
+[color=darkred] Sea Forces:[/color] [region]Oberkommando der Marine[/region]
+Commander: [nation]Gothic Ripples[/nation]
+Support region - [region]Wolf Pack[/region] 
 
-[region]Oberkommando der Luftwaffe[/region]: [nation]Lesser New Spongeia[/nation]
- - [region]European Space Administration[/region]
-
-Allies: 
-[region]Dai Nippon Teikoku[/region] 
-[region]Kingdom of Hungary[/region]
-
-[/b]
+[color=darkred] Air Forces:[/color] [region]Oberkommando der Luftwaffe[/region]
+Commander: [nation]Lesser New Spongeia[/nation][/b]
