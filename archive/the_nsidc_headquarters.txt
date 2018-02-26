@@ -7,5 +7,5 @@
 [hr]
 [color=11ED86][b][u]NSIDC Command Staff[/u]
 Grand General: [nation]Crystalsummer[/nation]
-Deputy General: [nation]Kanglia[/nation]
-Chief of Staff: [nation]Democratic Republic of Denland[/nation][/color][/b]
+Deputy General:
+Executive Officer: [nation]Democratic Republic of Denland[/nation][/color][/b]

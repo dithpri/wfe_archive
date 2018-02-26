@@ -12,7 +12,7 @@ Secretary of Defense
 [nation]Sazag[/nation]
 
 Secretary of State
-Unassigned
+[nation]Cyrodelle[/nation]
 
 Director of Galactic Intelligence 
 Unassigned
