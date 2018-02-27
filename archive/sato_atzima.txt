@@ -2,6 +2,7 @@ Region for nations that are geographically part of the Sato Atzima peninsula. We
 
 [nation]Suo Antra[/nation] - Region Founder / Director
 [nation]Berraram[/nation] -  Director
-[nation]Kuwazia[/nation] - Director (Protectorate of Suo Antra but may act as a director.)
 [nation]Aristidor[/nation] - Chairman of the Board
 [nation]Kaedon[/nation] - Director
+
+We also have a regional ambassador account, [region]Sato Atzima[/region], of which the board of directors vote on issues. This nation shows the regional laws that all regions are (at least encouraged) to follow.
