@@ -1,10 +1,9 @@
 [b][color=maroon]Confederacy of Independent Systems[/color][/b]
 
-Welcome to the CIS, Nationstate&amp;#39;s only Separatist-Themed Region![hr]
+Welcome to the CIS, Nationstate&#39;s only Separatist-Themed Region![hr]
 
-[b][color=maroon]Regional Government[/color][/b]
-[color=navy]Head of State: [nation=short]Separatists[/nation][/color]
-[color=navy]Council Members:[/color]
-[color=maroon]&#149; [/color][nation=short]Trade and Commerce[/nation][color=navy] of the [/color][region]Trade Federation[/region][hr]
-
-[b][color=navy]Ruling Party:[/color][color=maroon] IGBC ([region]InterGalactic Banking Clan[/region])[/color][/b]
+[u][b][color=maroon]Regional Government[/color][/b][/u]
+Head of State: [nation=short]Separatists[/nation]
+[b][color=navy]Council Members:[/color][/b]
+Head of Production: [nation]TheTechnoUnion[/nation]
+Head of Defense: [nation]Independent Statez[/nation]
