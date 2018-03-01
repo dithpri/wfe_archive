@@ -1,10 +1,11 @@
-Welcome, citizen. You have entered the transitional zone of [b]Dawn[/b].
+[color=#0F364F]Welcome, citizen. You have entered the transitional zone of[/color] [b]Dawn[/b].
 
-[u]Provisional Government:[/u]
+[color=#0F364F][u]Provisional Government:[/u][/color]
 [list]Administrator [nation=noflag]september[/nation]
+Administrator [nation=noflag]norwegian wood[/nation]
 Governor [nation=noflag]captain cap[/nation]
 Prefect [nation=noflag]nosotopia[/nation][/list]
-All incoming nations are [b]required[/b] to endorse the Governor and the Prefect.
+[color=#0F364F]All incoming nations are [b]required[/b] to endorse the Governor and the Prefect.
 
-The regional Discord server is located [url=http://discord.gg/z7h2K79]here[/url].
+The regional Discord server is located [url=http://discord.gg/z7h2K79]here[/url].[/color]
 [hr][hr][b]Announcements:[/b] The merger has concluded. Construction of a new regional structure is in progress. We appreciate your patience as we prepare for reopening.

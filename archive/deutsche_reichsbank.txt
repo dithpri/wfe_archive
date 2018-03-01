@@ -1,13 +1,16 @@
-[b][color=black][region]Deutsche Reichsbank[/region]
+[b][color=black][region]The Greatest German Reich[/region]
 
-1, 2, 5, 10, 20, 50, 100, and 1000 Reichsmark [&amp;#8475;&amp;#8499;] banknotes are available
+On 30 August 1924, the Reichsbank began issuing the Republican paper currency; Reichsmark. The change from hard currency to paper money allowed the printing of money which through hyperinflation became useless.
 
-[u]Currency calculation for 1963 set by [region]Deutsche Reichsbank[/region] sets &amp;#8475;&amp;#8499; to Foreign ratios as follows:
-[/u]
-United Kingdom and territories: 1:10
-Italian Empire, Spain, Portugal 1:5
-[region]National Socialist America[/region] 1:5
-[region]Central Europa[/region] &amp;#8475;&amp;#8499; exclusive
+1937 Reich law re-established the Reich Government&#39;s control of the Reichsbank
+1939 Reichsbank renamed [region]Deutsche Reichsbank[/region] with Walther Funk as president 
+1942 The Reichsmark Paper currency, based on intangible values is replaced by the German Goldmark; on a gold standard with 2790 Mark equal to 1 kilogram of pure gold (1 Mark = 358 mg). 
 
-To set up a bank account or Sparkarte savings program contact your local [region]Deutsche Reichsbank[/region] manager[/color]
-[/b]
+1/100	Pfennig
+
+Symbol	&amp;#8499;
+Pfennig	&amp;#8368;
+Banknotes	5, 10, 20, 50, 100, 1000 Mark
+Coins	1, 2, 5, 10, 20, 25, 50 Pfennig and 1, 2, 3, 5, 10, 20 Mark
+
+[/color][/b]

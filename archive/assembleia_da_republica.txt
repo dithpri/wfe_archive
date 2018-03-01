@@ -2,7 +2,7 @@
 
 [b]Proposta do PNC:[/b] &quot;[u]Criminaliza&ccedil;&atilde;o do abandono dos idosos nos hospitais.[/u]&quot;
 (Sa&uacute;de +1, Seguran&ccedil;a P&uacute;blica -1)
-[b]Votos a favor:[/b] PNC, PLV
+[b]Votos a favor:[/b] PNC, PLV, PPP
 [b]Votos contra:[/b] CDE, PPD, PNUF e PMDP, PCAG
 [b] Absten&ccedil;&otilde;es:[/b] MPR
 Vota&ccedil;&atilde;o acaba dia 1/3
@@ -10,14 +10,14 @@ Vota&ccedil;&atilde;o acaba dia 1/3
 [b]Proposta do PMDP:[/b] &quot;[u]Constru&ccedil;&atilde;o de uma bomba de hidrog&ecirc;nio.[/u]&quot;
 (Defesa +1, Economia -1)
 [b]Votos a favor:[/b] PMDP
-[b]Votos contra:[/b] CDE, PPD, PNC, PCAG, MPR, PLV
+[b]Votos contra:[/b] CDE, PPD, PNC, PCAG, MPR, PLV, PPP
 [b] Absten&ccedil;&otilde;es:[/b] Nenhuma
 Vota&ccedil;&atilde;o acaba dia 1/3
 
 [b]Proposta do PNC:[/b] &quot;[u]Destrui&ccedil;&atilde;o do muro entre Portugal e Espanha.[/u]&quot;
 (Cultura +1, Seguran&ccedil;a -1)
-[b]Votos a favor:[/b] PNC, PPD
-[b]Votos contra:[/b] Nenhum
+[b]Votos a favor:[/b] PNC, PPD, PLV, PNUF
+[b]Votos contra:[/b] PPP
 [b] Absten&ccedil;&otilde;es:[/b] Nenhuma
 Vota&ccedil;&atilde;o acaba dia 5/3:
 
