@@ -1,8 +1,9 @@
-Region for nations that are geographically part of the Sato Atzima peninsula. We accept any members, but the board of directors is, for the most part, Sato Atziman nations. This includes the following:
+Region for nations that are geographically part of the (fictional) Sato Atzima peninsula. We accept any members, but the board of directors is, for the most part, Sato Atziman nations. This includes the following:
 
-[nation]Suo Antra[/nation] - Region Founder / Regional Director of Economic Growth
-[nation]Berraram[/nation] -  Regional Director of Justice
+[nation]Suo Antra[/nation] - Region Founder / Regional Director
+[nation]Berraram[/nation] -  Regional Director
 [nation]Aristidor[/nation] - Chairman of the Board
-[nation]Kaedon[/nation] - Regional Director of Armed Forces
+[nation]Kaedon[/nation] - Regional Director
+[nation]Vanmead[/nation] - Regional Director
 
 We also have a regional ambassador account, [region]Sato Atzima[/region], of which the board of directors vote on issues. This nation shows the regional laws that all regions are (at least encouraged) to follow.

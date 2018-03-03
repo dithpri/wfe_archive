@@ -1,17 +1,17 @@
 The Parties:
-[color=gray]CEN[/color]     26.1%
-[color=green]CON[/color]     21.3%
-[color=dandelion]LBTN[/color]     17%
-[color=orange]LIB[/color]     15.2%
-[color=red]STAT[/color]     6.7%
-[color=black]ANTF[/color]     6.1%
-[color=brown]NWU[/color]     5.5%
-[color=blue]JPP[/color]     1.2%
-[color=maroon]NAT[/color]     0.6%
-[color=lightgray]WID[/color]     0.3%
+[color=gray]CEN[/color]     13%
+[color=green]CON[/color]     26.4%
+[color=dandelion]LBTN[/color]     19%
+[color=orange]LIB[/color]     16.2%
+[color=red]STAT[/color]     7.7%
+[color=black]ANTF[/color]     7.1%
+[color=brown]NWU[/color]     6.5%
+[color=blue]JPP[/color]     2.2%
+[color=maroon]NAT[/color]     0.9%
+[color=lightgray]WID[/color]     1%
 
 Coalitions:
-[color=gray]CEN[/color] 26.1%:  [color=gray]CEN[/color]
-[color=black]PRO[/color] 22.2%:  [color=green]CON[/color], [color=maroon]NAT[/color], [color=lightgray]WID[/color]
-[color=dandelion]LBTN[/color] 17%: [color=dandelion]LBTN[/color]
-[color=orange]LIB[/color] 34.7%: [color=orange]LIB[/color], [color=red]STAT[/color], [color=black]ANTF[/color], [color=brown]NWU[/color], [color=blue]JPP[/color]
+[color=gray]CEN[/color] 13%:  [color=gray]CEN[/color]
+[color=black]PRO[/color] 28.3%:  [color=green]CON[/color], [color=maroon]NAT[/color], [color=lightgray]WID[/color]
+[color=dandelion]LBTN[/color] 19%: [color=dandelion]LBTN[/color]
+[color=orange]LIB[/color] 40.5%: [color=orange]LIB[/color], [color=red]STAT[/color], [color=black]ANTF[/color], [color=brown]NWU[/color], [color=blue]JPP[/color]
