@@ -1,14 +1,14 @@
 The Parties:
-[color=gray]CEN[/color]     13%
-[color=green]CON[/color]     26.4%
-[color=dandelion]LBTN[/color]     19%
-[color=orange]LIB[/color]     16.2%
-[color=red]STAT[/color]     7.7%
-[color=black]ANTF[/color]     7.1%
-[color=brown]NWU[/color]     6.5%
-[color=blue]JPP[/color]     2.2%
-[color=maroon]NAT[/color]     0.9%
-[color=lightgray]WID[/color]     1%
+[color=gray]CEN[/color]     130 seats
+[color=green]CON[/color]     264 seats
+[color=dandelion]LBTN[/color]     190 seats
+[color=orange]LIB[/color]     162 seats
+[color=red]STAT[/color]     77 seats
+[color=black]ANTF[/color]     71 seats
+[color=brown]NWU[/color]     65 seats
+[color=blue]JPP[/color]     22 seats
+[color=maroon]NAT[/color]     9 seats
+[color=lightgray]WID[/color]     10 seats
 
 Coalitions:
 [color=gray]CEN[/color] 13%:  [color=gray]CEN[/color]
