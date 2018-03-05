@@ -1,9 +1,16 @@
 Puppet storage for nations controlled by [nation=short]Mathorn[/nation] ([region]CISB[/region]). 
 
-In addition, [region]The Mathornian Commonwealth[/region] is a safe, isolationist region, one which is free from outside distractions and events. If you wish to reside under the regions protection telegram [nation=short]Mathorn[/nation] or [nation=short]New Mathorn[/nation] for the password.
+[region]The Mathornian Commonwealth[/region] is an isolationist region, one which is free from outside distractions and events.
 
 All embassy requests will be accepted.
 [hr]Other puppet nations that are not located in [region]The Mathornian Commonwealth[/region] are:
 
 [nation=long]Mithlin[/nation] ([region]CISB[/region])
-[nation=long]Glaigro[/nation] ([region]Gaudium Aeternum[/region])
+[hr]Please note that several nations in this region are fantasy nations. These nations are:
+
+[nation=long]Asaipho[/nation] (Orcish Kingdom)
+[nation=long]Belgrost[/nation] (Dwarvern Kingdom)
+[nation=long]Bogroth[/nation] (Human Kingdom)
+[nation=long]Pathorn[/nation] (Human Kingdom)
+[nation=long]The Four Farthings of the Shire[/nation] (Hobbit Realm)
+[nation=long]Wucia[/nation] (Elven Kingdom)
