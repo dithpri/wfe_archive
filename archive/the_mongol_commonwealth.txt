@@ -6,3 +6,5 @@ Other puppet nations not located in [region]The Mongol Commonwealth[/region] are
 
 [nation]The Greater Altai Republic[/nation] ([region]Greater Middle East[/region])
 [nation]Kalallisut Nunaat[/nation] ([region]CISB[/region])
+[nation]Achipel[/nation] ([region]New West Indies[/region])
+[nation]Rhein-Erft[/nation] ([region]RHINIA[/region])

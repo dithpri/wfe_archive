@@ -1,1 +1,11 @@
-This region is a commonwealth of Barbaria. It is under maintenance.
+This region is under the control of [region]Barbaria[/region]
+
+[u][b]EXECUTIVE[/b][/u]
+[i]Chief Executive[/i]: Thalik Beez IX. of [nation]Berukio Imperiuk[/nation]
+[i]Chancellor[/i] None.
+
+[u][b]VESVIN MINISTRIES[/b][/u]
+[i]Foreign Affairs Minister[/i]: None.
+[i]Domestic Affairs[/i]: None.
+[i]Defense Minister[/i]: None.
+[i]Communications Minister[/i]: None.
