@@ -10,9 +10,9 @@ President:
 Vice-President:
 Prime Minister:
 
-Ministry of Defence(MoD):
-Ministry of Education(MoE):
-Ministry of Communications(MoC):
-Ministry of Relations(MoR):
-Ministry of Finance(MoF):
-Ministry of Appearance(MoA):
+Minister of Defence(MoD):
+Minister of Education(MoE):
+Minister of Communications(MoC):[nation]Syngman[/nation]
+Minister of Relations(MoR):
+Minister of Finance(MoF):
+Minister of Appearance(MoA):
