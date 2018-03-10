@@ -1,1 +1,6 @@
-Located at the bottom of the world, this sleepy region is a reclusive hideaway for those seeking to not be disturned.
+[b]Southern Ocean[/b]
+
+Not exactly an ocean, parts of other oceans that have the same characteristics and being in the area around Antarctica.
+
+a [region=0000] region
+associated with [region=Ancient Lands]

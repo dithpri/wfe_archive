@@ -20,7 +20,7 @@ Neutral:
 [nation]Democratic Nymph[/nation]
 [nation]New Windchia[/nation]
 [nation]Stakonistan[/nation]
-[nation]The Whispitian Empire[/nation]
+[nation]The Whispitian Empire[/nation] (AKA Whispitia)
 
 World Dominator:
 
@@ -29,6 +29,7 @@ World Dominator:
 [nation]Kemala[/nation]
 [nation]Izkabatia[/nation]
 [nation]Blune[/nation]
+[nation]Home Alone and someone knoks on the door[/nation]
 
 NEWS:
 [region]Jeffery[/region] embassy completed
