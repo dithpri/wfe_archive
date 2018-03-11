@@ -15,13 +15,13 @@
 
 [b]Currency:[/b] Assorted between ReichsMark and Credits
 
-!FACTIONS!
-1.Europa 
+[color=red][b]FACTIONS[/color][/b]
+[colour=blue][b]Europa[/colour][/b]
 Kaiserreich
 Serbia
 English Empire
 German East Asian Company
-2. Federation
+[color=black][b]Federation[/color][/b]
 Galatic People 
 Red Salvidors
 

@@ -15,9 +15,9 @@ Welcome to the Senate of the [b][region]New Western Atlantic[/region][/b]! [b]||
 [LIST]
 [U][I][b]Current Vote[/b][/u]/N/A
 
-[U][B]Previous Vote[/b][/u]/Political Deceit Act (PDA) LR 061[color=Green]passed![/color]
+[U][B]Previous Vote[/b][/u]/Senate format act LR 062[color=Green]passed![/color]
 
-[U][b]Currently in Debate[/b][/u]/Senate Format Act LR 062[/i][/LIST]
+[U][b]Currently in Debate[/b][/u]/Free days act LR 064[/i][/LIST]
 [Hr][hr]
 [b] Propose a Bill [color=gold]&amp;#9999;&amp;#65039;[/color][/b]
 
@@ -26,5 +26,10 @@ Welcome to the Senate of the [b][region]New Western Atlantic[/region][/b]! [b]||
 [spoiler=Format][list]
 [*][b]Title[/b] of bill (including L.R.)
 [*][b]Sponsor[/b] of bill
-[*][b]Description[/b] of bill
+[*][b]Preamble[/b] of bill followed by
+
+[*][b]Article[/b] 1- to as many as you need
+
+[*][b]Section[/b] 1 - to as many as you need
+
 [/list][/spoiler]
