@@ -3,7 +3,7 @@
 [u]The invading troops:[/u] 
 Praefect &amp;#64;Festavo - trigger 
 Legatus [nation=short]Kyorgia[/nation]
-General [nation=short]Hired_Contractor_II[/nation]  from [region]The Invaders[/region] 
+General [nation=short]Hired_Contractor_II[/nation]  from [region]The Invaders[/region] &amp;lt;&amp;lt;This guy is cool :P
 Private [nation=short]Talidania[/nation] [region]The Invaders[/region] 
 
 [color=#CB2727]Long live the Roman Empire, long live the Emperor![/color][/b]

@@ -14,13 +14,15 @@
 [color=blue][b]REGIONAL GOVERNMENT[/b][/color]
 
 [b]President : [nation]Breten[/nation][/b]
-[b]_____________[/b]
 
 [b]Prime Minister : [nation]Nuevo Altara[/nation][/b]
---------
-[b]Minister of Economy and Budget : [nation]Kajman-eilanden[/nation][/b]
-[b]Minister of Justice, Army and Internal Affairs : [nation]Oprain[/nation][/b]
-[b]Minister of Foreign and Interregional Affairs : [nation]Cypriot Egyptians[/nation][/b]
+_____________________
+
+[color=FFB300] [b]SUPREME COURT COMPOSITION[/b][/color]
+
+[b]SC Judge [color=0D72BF] (Progressist)[/color] : [nation]Kajman-eilanden[/nation][/b]
+[b]SC Judge [color=C4C4C4] (Neutral)[/color] : [nation]Oprain[/nation][/b]
+[b]SC Judge [color=0D72BF] (CRRM)[/color]: [nation]Cypriot Egyptians[/nation][/b]
 
 [hr][color=red][b]IMPORTANT LINKS[/b][/color]
 [b] [url=https://docs.google.com/document/d/1xdTvH1BIBW1VpCywruhS5q3DLCcQyYbzbReHxOHWNtA/edit?usp=sharing]Constitution[/url][/b] 

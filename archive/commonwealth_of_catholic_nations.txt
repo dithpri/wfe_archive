@@ -1,8 +1,3 @@
-[b]Welcome to the Commonwealth of Catholic Nations.[/b]
+This region, formerly a den of papist claptrap, has been seized, destroyed, and refounded in the name of [nation]Zealasia[/nation].
 
-[color=darkblue]O God, Who settest straight what has gone astray, and gatherest together what is scattered, and keepest what Thou hast gathered together, we beseech Thee in Thy mercy to pour down on Christian people the grace of union with Thee, that putting aside disunion and attaching themselves to the true shepherd of Thy Church, they may be able to render Thee due service.
-
-Almighty, everlasting God, in Whose hand are the power and the government of every realm; look upon and help the Christian people, that the heathen nations who trust in the fierceness of their own might, may be crushed by the power of Thine Arm.
-
-Amen.[/color]
-
+Zealasian HQ: [region]Christadelphia[/region]

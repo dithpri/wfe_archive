@@ -1,4 +1,4 @@
-[color=red][u][b]We are a small but determined union of nations who all wish to spread peace and prosperity among ourselves. [/b][/u][/color]
+[color=red][u][b]We are a determined union of nations who all wish to spread peace and prosperity among ourselves. [/b][/u][/color]
 [color=blue]
 [hr]
 [b] Original 6 Regional Officers[/b]
@@ -11,11 +11,12 @@ Environmental Officer: [nation]Porg-ation[/nation]
 [hr]
 Please report all suspicious raider like activity to the Founder or Secretary of State
 [hr]
-WA nations, please endorse [nation]The Order of The Star[/nation] in order to secure our region.
+Current WA delegate: [nation]The Order of The Star[/nation]
 [hr]
 [b]Motto[/b]
  [i] &#147;Civitates libertatem robore coniuncta&#148;
- &#147;United for liberty, United in strength&#148;
+ &#147;United for liberty, United in strength&#148; [/i]
+[/color]
 [hr]
-
-[/i][/color]
+[color=white]Regional News: [nation]SabresLandia[/nation] elected as Domestic Relations Officer[/color]
+[hr]
