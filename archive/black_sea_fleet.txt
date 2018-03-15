@@ -1,12 +1,3 @@
-[b][color=black][region]Greater National Socialist Reich[/region]
-&amp;#10016; [i]F&uuml;hrer [/i]Himmler [nation]Seine Exzellenz der Volkshalle[/nation] commands the [region]Wehrmacht of the Reich[/region]
-&quot;[i]We have only one task, to stand firm and carry on the racial struggle without mercy[/i].&quot;
-
-The [region]Black Sea Fleet[/region] serves in the [region]Wehrmacht of the Reich[/region]
-
-[i]Deep Water Naval Base:[/i] Sevastopol
-
-[i]Naval Bases:[/i] Novorossiysk, and Feodossia 
-
-[i]Roles:[/i] Naval warfare, Amphibious warfare
+[b][color=black]
+[region]Black Sea Fleet[/region]
 [/color][/b]

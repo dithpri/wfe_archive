@@ -2,7 +2,7 @@
 
 [hr]
 
-Machtpolitik is an alternate history roleplaying region. Take control of a country and rule through the years, with a system endowed with unparalleled freedom, depth, and historical accuracy. Carve out an empire through the combination of soft-spoken diplomacy, cunning schemes, and military prowess. Carefully guide your nationstate through expansion and colonization to the position as a dominant global empire.
+Machtpolitik is an alternate history roleplaying region. Take control of a country and rule it with a system endowed with unparalleled freedom, depth, and historical accuracy. Carve out an empire through the combination of soft-spoken diplomacy, cunning schemes, and military prowess. Carefully guide your nationstate through expansion and colonization to the position as a dominant global empire.
 
 [b]Current Date: July, 1904[/b]
 
@@ -14,7 +14,7 @@ Machtpolitik is an alternate history roleplaying region. Take control of a count
 [b]Triumvirs[/b]
 [nation]Der DEutsches-Kaiserreich[/nation]
 [nation]These United American States[/nation]
-VACANT
+[nation]The Seljuk Ottoman Empire[/nation]
 
 [hr]
 
