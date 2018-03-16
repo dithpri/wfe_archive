@@ -8,3 +8,6 @@ Goal of this version of the Oracle Game is to create an embassy chain or path co
 [color=red][b]Sorry, this region does not accept embassy offers.[/b][/color][color=tan]
 As this region is to remain an oracle region, I will not need it to ever be featured, thus it is passworded.[/color][color=silver]
 a [region=0000] puppet region[/color]
+[color=FF4F00]
+[b]RULE #1:[/b] NEVER ALLOW DELEGATE ACCESS TO REGIONAL CONTROLS
+[b]RULE #2:[/b] FOUNDER MUST REMAIN IN HOME REGION AT ALL TIMES[/color]
