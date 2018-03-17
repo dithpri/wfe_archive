@@ -1,4 +1,4 @@
-[blue]Welcome to Dornish Realm.
+[b]Welcome_To_Dornish_Realm.[/b]
 .
 .
-The Commonwealth Nations Of The Dornish Realm is group of nations that is led by the [Head Of The Commonwealth]. It was founder by the [&amp;#64;Dominion Of Sourne] to bring together like minded nations in a regional level to discuss, debate, compete and evaluate, asses, compute, examining past and future policies and determine the value of this policies in such as in a annual personnel performance of each nation reviewing each particular situation basically.
+The Commonwealth Nations Of The Dornish Realm is group of nations that is led by the [b]Head_Of_The_Commonwealth[/b]. It was founder by the [nation]&amp;#64;Dominion_Of_Sourne[/nation] to bring together like minded nations in a regional level to discuss, debate, compete and evaluate, asses, compute, examining past and future policies and determine the value of this policies in such as in a annual personnel performance of each nation reviewing each particular situation basically.
