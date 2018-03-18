@@ -9,9 +9,8 @@
 ---------------------------------------------------------------------
 [u]Provisional Government of Telegos[/u]
 
-Premier: [nation]Telegos[/nation]
-Minister of Regional Affairs: Position Open
-Minister of Foreign Affairs: [nation]Lain Nor Nuin Qun[/nation]
+Overseer: [nation]Lain Nor Nuin Qun[/nation]
+
 
 
 
