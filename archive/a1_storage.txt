@@ -1,4 +1,6 @@
-[color=red] [b] This is a private storage facility[/b] [/color]
+[color=purple] [b] A1 Storage is open to all puppet Nations[/b] [/color]
+[Color=red][b] This is a secure storage facility[/b][/color]
+[Color=green][i] send message for passcode[/i][/color]
 
 
 

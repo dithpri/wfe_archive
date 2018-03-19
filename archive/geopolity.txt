@@ -6,7 +6,7 @@
 [nation]Southwest China[/nation]
 [nation]Quzerastan[/nation]
 [nation]Eraus[/nation]
-[nation]Southern Scandanavia[/nation]
+[nation]Tierra Braganza[/nation]
 
 Regional Cartographer:
 [nation]Furstia[/nation]
