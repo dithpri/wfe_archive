@@ -1,17 +1,14 @@
-Puppet storage for nations controlled by [nation=short]Mathorn[/nation] ([region]CISB[/region]). 
+[region]The Mathornian Commonwealth[/region] is a puppet storage for nations controlled by [nation=long]Mathorn[/nation] ([region]CISB[/region])
+[hr]Other puppet nations not located in [region]The Mathornian Commonwealth[/region] are:
 
-[region]The Mathornian Commonwealth[/region] is an isolationist region, one which is free from outside distractions and events.
+- [nation=long]Mithlin[/nation] ([region]CISB[/region])
+- [nation=long]Glaigro[/nation] ([region]Gaudium Aeternum[/region])
+- [nation=long]Abolsia[/nation] ([region]Estrad[/region])
+[hr]Please be aware that several nations in [region]The Mathornian Commonwealth[/region] are based of the LOTR trilogy. These nations are:
 
-All embassy requests will be accepted.
-[hr]Other puppet nations that are not located in [region]The Mathornian Commonwealth[/region] are:
-
-[nation=long]Mithlin[/nation] ([region]CISB[/region])
-[nation=long]Glaigro[/nation] ([region]Gaudium Aeternum[/region])
-[hr]Please note that several nations in this region are fantasy nations, based on the LOTR Trilogy. These nations are:
-
-[nation=long]Asaipho[/nation] (Orcish Kingdom)
-[nation=long]Belgrost[/nation] (Dwarvern Kingdom)
-[nation=long]Bogroth[/nation] (Human Kingdom)
-[nation=long]Pathorn[/nation] (Human Kingdom)
-[nation=long]The Four Farthings of the Shire[/nation] (Hobbit Realm)
-[nation=long]Wucia[/nation] (Elven Kingdom)
+- [nation=long]Asaipho[/nation] - Orcish Kingdom
+- [nation=long]Belgrost[/nation] - Dwarven Kingdom
+- [nation=long]Bogroth[/nation] - Human Kingdom
+- [nation=long]Pathorn[/nation] - Human Kingdom
+- [nation=long]The Four Farthings of the Shire[/nation] - Hobbit Realm
+- [nation=long]Wucia[/nation] - Elven Kingdom

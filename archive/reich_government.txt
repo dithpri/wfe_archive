@@ -1,9 +1,7 @@
-[b][region]Reich Government[/region] of [region]The Greatest German Reich[/region]
+[b][region]Reich Government[/region] of [region]The Germanic Reich[/region]
 
 The Leader and Reich Chancellor: [nation]Der Fuhrer und Reichskanzler[/nation]
-President of the Reich: [nation]Aryanarchy[/nation]
+World Assembly Delegate and Vice Delegate: [nation]Reikswald[/nation]
 Head of the Church: [nation]Father Rod[/nation]
-
-Commander of the Army: [nation]Grandmasterrod IVland[/nation]
-Commander of the Navy: [nation]Gothic Ripples[/nation]
-Reich Air Minister and Commander of the Air Force: [nation]New Spongeia[/nation][/b]
+Immigration and Repatriation Minister: [nation]Eukalyptus Bonbon[/nation]
+[/b]
