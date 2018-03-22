@@ -1,8 +1,6 @@
-[region]The Mathornian Commonwealth[/region] is a puppet storage for nations controlled by [nation=long]Mathorn[/nation] ([region]CISB[/region])
+[region]The Mathornian Commonwealth[/region] is a puppet storage for nations controlled by [nation=long]Mathorn[/nation] ([region]Gaudium Aeternum[/region]).
 [hr]Other puppet nations not located in [region]The Mathornian Commonwealth[/region] are:
 
-- [nation=long]Mithlin[/nation] ([region]CISB[/region])
-- [nation=long]Glaigro[/nation] ([region]Gaudium Aeternum[/region])
 - [nation=long]Abolsia[/nation] ([region]Estrad[/region])
 [hr]Please be aware that several nations in [region]The Mathornian Commonwealth[/region] are based of the LOTR trilogy. These nations are:
 
