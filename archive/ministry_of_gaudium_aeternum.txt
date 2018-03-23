@@ -5,10 +5,10 @@
 [list][*][b]Reigning Monarch[/b]
 [list][*][i]Emperor [nation]Anatrova[/nation][/i][/list]
 [*][b]Prime Minister of Gaudium Aeternum[/b]
-[list][*][i]Vacant | Election March 20th - 23rd[/i][/list]
+[list][*][i][nation]ElBaron[/nation][/i][/list]
 [*][b]Ministers of Gaudium Aeternum[/b]
-[list][*][i][nation]ElBaron[/nation][/i]
-[*][i][nation]Siannytar[/nation][/i]
+[list][*][i][nation]Malestedo[/nation][/i]
+[*][i][nation]Wanasnaswa[/nation][/i]
 [*][i][nation]New Camelot of Avalonia[/nation][/i][/list][/list][hr]
 
 [b]PROPOSE A LAWFUL RESOLUTION (A BILL)[/b]
