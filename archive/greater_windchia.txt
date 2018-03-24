@@ -15,6 +15,7 @@ Saviors:
 
 Neutral:
 
+[nation]Hedgehoglandian[/nation]
 [nation]New Haydistan or The Haydistani Rebels[/nation]
 [nation]Cypriot Military Order of Malta[/nation]
 [nation]Democratic Nymph[/nation]
@@ -30,5 +31,4 @@ World Dominator:
 [nation]Izkabatia[/nation]
 [nation]Blune[/nation]
 [nation]Home Alone and someone knoks on the door[/nation]
-[nation]Hedgehoglandian[/nation]
 [nation]Balthroe[/nation]

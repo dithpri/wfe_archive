@@ -1,7 +1,7 @@
 [region]The Mathornian Commonwealth[/region] is a puppet storage for nations controlled by [nation=long]Mathorn[/nation] ([region]Gaudium Aeternum[/region]).
 [hr]Other puppet nations not located in [region]The Mathornian Commonwealth[/region] are:
 
-This information is classified at this moment in time.
+- [nation=long]Abolsia[/nation] ([region]Estrad[/region])
 [hr]Please be aware that several nations in [region]The Mathornian Commonwealth[/region] are based of the LOTR trilogy. These nations are:
 
 - [nation=long]Asaipho[/nation] - Orcish Kingdom
