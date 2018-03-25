@@ -1,1 +1,8 @@
-We all a proud Region
+NATIONS                                   HEADS OF STATE
+[nation]Asceau[/nation]              King Gregory IV
+[nation]Censionary[/nation]        President Amber Freeman
+[nation]Calviat[/nation]              Grand Duke Phillip III
+[nation]Atlamasa[/nation]          Chairman of Executive Council Dr. Charlie P. Hirsch
+[nation]Tairie[/nation]                President Nathan Roberts
+[nation]Seriena[/nation]             Chancellor James Nichols
+[nation]Tusica[/nation]		Emperor Kussi
