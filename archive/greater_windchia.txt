@@ -17,7 +17,6 @@ Neutral:
 
 [nation]Hedgehoglandian[/nation]
 [nation]New Haydistan or The Haydistani Rebels[/nation]
-[nation]Cypriot Military Order of Malta[/nation]
 [nation]Democratic Nymph[/nation]
 [nation]New Windchia[/nation]
 [nation]Stakonistan[/nation]
