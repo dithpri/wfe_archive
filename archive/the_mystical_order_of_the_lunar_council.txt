@@ -1,10 +1,7 @@
 [b]
-[color=gold]Only Current and Former members of the Lunar Council from [region]The Mystical Council[/region] are permitted entry into this region.[/color]
+[u][color=red]Only current and former members of the Lunar Council are permitted entry into this region.[/color][/u]
+ 
+[color=gold]Welcome to The Mystical Order of the Lunar Council. Warm greetings to those who hold the keys to these hallowed halls. It is a distinct privilege and honor for one to enter these gates. We are an isolated order of mystics who once held an office on the Lunar Council. We are dedicated to creating peace, promoting harmony, and providing guidance to nations facing various concerns within the TMC regions.[/color]
 
-[color=red]The password will be changed regularly.[/color]
-
-[color=orange]Purpose and Mission: The Mystical Order holds the power of spiritual leadership, guidance, and direction over [region]The Mystical Council[/region] and over [region]Warzone TMC[/region]. They members of this Order may or may not step in during times of regional trouble, turmoil, and/or stagnation in these regions.[/color]
-
-More news coming soon!
-
+spiritual leadership, direction over [region]The Mystical Council[/region] and over [region]Warzone TMC[/region]. The members of this Order may or may not step in during times of regional trouble, turmoil, and/or stagnation in these regions.[/color]
 [/b]
