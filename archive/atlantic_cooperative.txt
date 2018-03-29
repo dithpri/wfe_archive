@@ -11,7 +11,7 @@
 [u]Government[/u]
 [b]The King[/b]: [nation]Mexiteco[/nation]
 ([color=Maroon]Moderate Cooperative[/color])
-[b]Prime Minister[/b]: N/A
+[b]Prime Minister[/b]: [nation]New Mexiteco[/nation]
 (N/A)
 [b]Minister of Recruitment[/b]: [nation]Cooperative Recruitment[/nation]
 ([color=Maroon]Moderate Cooperative[/color])

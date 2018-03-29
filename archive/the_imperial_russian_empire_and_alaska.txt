@@ -4,6 +4,6 @@ Capital: [nation]Alexei Nicholovich Romonov[/nation], St. Petersburg, Moscow, an
 
 Tsar: Tsar Alexei Nicholovich Romonov
 
-Countries Include- [nation]Alexei Nicholovich Romonov[/nation] (made of-Russia, Finland, Estonia, Latvia, Lithuania, Belarus, Kazakhstan, Azerbaijan, Armenia, Georgia, Bulgaria, Romania, Afghanistan, Czech Republic, Hungary, Austria, Slovakia, Turkey, Poland, Ukraine, Moldova, Kyrgyzstan, Uzbekistan, Turkmenistan, Tajikistan, Mongolia, North Korea, South Korea, and Alaska.)
+Countries Include- [nation]Alexei Nicholovich Romonov[/nation] (made of-Russia, Finland, Estonia, Latvia, Lithuania, Belarus, Kazakhstan, Azerbaijan, Armenia, Georgia, Bulgaria, Romania, Afghanistan, Czechoslovakia, Hungary, Austria, Yugoslavia, Turkey, Poland, Ukraine, Moldova, Kyrgyzstan, Uzbekistan, Turkmenistan, Tajikistan, Mongolia, North Korea, South Korea, and Alaska.)
 
 And it is a colony of [region]Shrayan Bose[/region][/b]
