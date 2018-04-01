@@ -1,3 +1,5 @@
-[b][nation]Der Fuhrer und Reichskanzler[/nation], His Excellency of the Volkshalle, Leader of the Germanic peoples, and his Government of [region]The Germanic Reich[/region] welcomes strong and proud nations to attend church on Sunday at [region]The Church of Jesus Christ[/region] 
+[b][nation]Der Fuhrer und Reichskanzler[/nation], His Excellency of the Volkshalle, Leader of the Germanic peoples, and the Government of [region]The Germanic Reich[/region] welcomes strong and proud nations to attend church on Sunday at [region]The Church of Jesus Christ[/region] 
 
-[region]The Church of Jesus Christ[/region] is headed by [nation]Father Rod[/nation] and attendees will read glorious sermons that stir the soul each week. Posting from embassy regions is also permitted should one be unable to attend here in person. ALL ARE WELCOME TO SHARE IN GOD&#39;S LIGHT[/b]
+[region]The Church of Jesus Christ[/region] is headed by [nation]Father Rod[/nation] and attendees will read glorious sermons that stir the soul each week. Posting from embassy regions is also permitted should one be unable to attend here in person. [region]Die Kirche Jesu Christi[/region] and [region]Church of Jesus Christ[/region] redirect here
+
+ALL ARE WELCOME TO SHARE IN GOD&#39;S LIGHT[/b]
