@@ -1,1 +1,13 @@
-This is only the Beginning.......
+[b][color=blue]Today the Armada was on patrol in their [url=http://s15.zetaboards.com/ragerian_imperium/index]cruiser[/url] when they happened across a rebel encampment. Surrounding it, the ships
+bombarded it with their lasers and missiles until it surrendered. Come join the armada today, and
+serve your emperor. [/color]
+
+[u][color=red]The Invading troops:[/u][/color]
+[color=black]
+Lieutenant: [nation]Aav Verinhall[/nation][trigger]
+Lieutenant: [nation]Xemt[/nation]
+
+And from TGO:
+Ensign: [nation]Republic of Amber[/nation][point]
+[/color]
+[/b]
