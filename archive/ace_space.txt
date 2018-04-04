@@ -1,9 +1,5 @@
-[b][u]Attention!
+color=19b5e5]This region has been conquered by the mighty armadas of [region]The Ragerian Imperium[/region]! Come [url=http://s15.zetaboards.com/Ragerian_Imperium/index/]join[/url] our impeccable fleet today!
+[hr][u]Raiding Fleet[/u]
+Rank Name [nation]Nation in TRI[/nation]
+[/b][/color]
 
-This region has fallen to the thundering hooves of the [url=https://www.nationstates.net/page=dispatch/id=792974]Kataphraktos[/url] of [region]The Imperium of Agia Germania[/region]!
-
-[nation=shortname]The Seventeenth Cataphract[/nation]: Imperator
-[nation=shortname]Xhakhaslovakia 1[/nation]: Kentarches
-[nation=shortname]Scheinen Kataphraktos Regiment I[/nation]: Dekarchos
-
-[i]Qui Audet Vincit![/i][/u][/b]

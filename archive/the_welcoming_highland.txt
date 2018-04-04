@@ -4,5 +4,5 @@
 
 Seat of the Presidency: [nation]Rezaliana[/nation]
 
-Diplomatic Affairs (elect): [nation]Jacobs Glen[/nation]
+Foreign Ministry: [nation]Jacobs Glen[/nation]
 

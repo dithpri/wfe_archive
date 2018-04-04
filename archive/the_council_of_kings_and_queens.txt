@@ -2,6 +2,8 @@
 
 [i]&quot;Wonder is the beginning of wisdom.&quot; -Socrates[/i]
 
+Standard currency: Syndicate Gold
+
 [i]Peace, Compassion, Intelligence, Democracy, Integrity, Fairness, Faith[/i]
 
 All are welcome.
@@ -23,9 +25,5 @@ All are welcome.
 
 [b][u]Vice-Delegate[/u][/b]
 [nation]Antoniuse[/nation]
-
-[b][u]Chief Assistant to the Founder[/u][/b]
-[nation]Lyra Lena[/nation]
-
 
 
