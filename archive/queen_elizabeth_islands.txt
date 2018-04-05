@@ -1,2 +1,13 @@
-[b]Queen Elizabeth Islands[/b]
-a [region=0000] region
+[color=green][b]Queen Elizabeth Islands[/b][/color][color=darkgreen]
+Formerly the Parry Islands of the Canadian Far North (British Arctic Islands)
+FACTS
+[b]Area:[/b] 419,061 sq km (161,800 sq mi)
+[b]Population:[/b] less than 400 (most of this region is uninhabited)
+[b]Largest Community:[/b] [region=Resolute] (229 population)
+Named after Elizabeth II on her coronation in 1953
+[/color][color=navy]
+REGION
+[b]Founded:[/b] 2015 May 01
+[b]Featured:[/b] 2018 Apr 05
+a [region=0000] puppet storage region[/color][color=orange]
+Embassy offers are accepted[/color]

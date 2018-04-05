@@ -9,8 +9,8 @@
 NEWS: If you would like to join the Slavian People&#39;s Army please contact [nation]Reismov[/nation] ASAP.
 
 Almighty and benevolent Tsar: [nation=shortname]Populi Sclavi[/nation] ([nation=short]Slavic Bloodia[/nation]/[nation=short]Reismov[/nation])
-Chancellor: [nation=short]Reismov[/nation]
-Vice-Chancellor: [nation=short]Kadolha[/nation]
+Chancellor: [nation=short]Kadolha[/nation]
+Vice-Chancellor: [nation=short]Slavic Bloodia[/nation]
 
 Endorse the benevolent World Assembly Overlord [nation=short]Kadolha[/nation]
 

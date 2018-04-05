@@ -1,3 +1,5 @@
-This region is primarily used for the storage of puppets for the nation of [nation=short]mathorn[/nation]. However, it will be used if [nation=short]mathorn[/nation] does not have a regional home, or is ejected from other regions, thus it could be described as a region of last resort for [nation=short]mathorn[/nation].
+[region]Puppet Storage for Mathorn[/region] is a puppet storage region, for nations controlled by [nation=long]Mathorn[/nation] ([region]The Central Regional Government[/region]).
 
+[region]Puppet Storage for Mathorn[/region] is a neutral, pacifist and an isolationist region. [region]Puppet Storage for Mathorn[/region] does not interfere in other regions affairs, nor is it disturbed by outside events or distractions.
+ 
 All embassy requests will be accepted.

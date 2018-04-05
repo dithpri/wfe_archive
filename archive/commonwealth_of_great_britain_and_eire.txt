@@ -12,8 +12,8 @@
 
 [color=darkblue][b]Ministry of Defence[/color][/b] - [b]Regional Security Status[/b]
 
-[color=grey][b]Security Level[/color][/b]: [color=green][b]GREEN[/color][/b]
-[b]UPDATED[/b]: [i]13/02/18 11:00 GMT[/i]
+[color=grey][b]Security Level[/color][/b]: [color=amber][b]AMBER[/color][/b]
+[b]UPDATED[/b]: [i]05/04/18 13:35 GMT[/i]
 [hr] [b][color=darkorange]Commonwealth News[/b][/color]
 
 [i]&#149; The Lord Protector seeks applicants for government positions.
