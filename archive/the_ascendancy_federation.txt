@@ -6,4 +6,3 @@ This region is a puppet storage for all regions in The Ascendancy Federation and
 [region]The United Nations of CASA[/region]
 [region]Assembly of Independent Nations[/region]
 [region]The United Countries of Carbon[/region]
-[region]Republic of Atorantisu[/region]

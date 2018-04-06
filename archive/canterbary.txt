@@ -1,2 +1,2 @@
-[color=blue]This region has been seized by [/color][color=yellow]The Canterbury Militia[/color][color=blue].[/color]
-[color=blue]Minister of Military:[/color] [nation]Tigslarlowducken[/nation]
+[i][color=blue]This region has been seized by [/color][color=#ffdb00]The Canterbury Militia[/color][color=blue].[/color]
+[color=blue]Minister of Military:[/color] [nation]Tigslarlowducken[/nation][/i]

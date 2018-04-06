@@ -2,12 +2,6 @@
 
 [hr]
 
-[B]Ranger-General: [nation=Soun Tzu][/B]
-[B]Lieutenant of the Five Armies: [Nation=Kractero][/b]
-[B]Propaganda Minister: [Nation=Sealands Little Brother][/b]
-
-[hr]
-
 [i]Tremble, mortals, and despair! Doom has come to this world!
 Let this scar signify the first blow against the mortal world.
 From this seal shall arise the doom of men,
@@ -17,3 +11,9 @@ Now they shall be consumed by the very flame they sought to control.
 Let the echoes of doom resound across this wretched world, that all who live may hear them and despair.[/i]
 
 Draeneis receive special benefits here, if you are not a draenei, begone.
+
+[hr]
+
+Contact [nation]Kractero[/nation] or [nation]Soun Tzu[/nation] for inquiries.
+
+015 &amp;gt; 002
