@@ -5,7 +5,7 @@
 Emperor: [nation=short]Vulturret[/nation]
 Prince: [nation=short]Xhakhaslovakia[/nation]
 Emperor Emeritus: [nation]Scottiesland[/nation][hr][/color][color=#38A3A5]Government:
-Councillor of Internal Affairs: [nation]Slithering Snakes[/nation]
+Councillor of Internal Affairs: [nation]Slitherin Snakes[/nation]
 [/color][hr][color=#2d7ab1]Judiciary: 
 Chief Justicar: [nation]Vanquisher Aav[/nation]
 [/color][hr][color=#EA443E]Imperial News:[/color] New [url=http://s15.zetaboards.com/Ragerian_Imperium/topic/10469968/1/]Constitution[/url] for the Imperium has been established.[color=#EA443E]

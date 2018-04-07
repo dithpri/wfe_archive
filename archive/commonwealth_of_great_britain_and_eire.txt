@@ -2,8 +2,8 @@
 &#149; &amp;#127988; &#149;&amp;#917607;&amp;#917602;&amp;#917619;&amp;#917603;&amp;#917620;&amp;#917631; [i][color=darkred]NationStates newest British Republican Region![/i][/color][/b]
 [hr] [b][color=darkblue]Council of State[/color][/b]
 
-[color=purple][b]The Lord Protector[/b][/color]: [b][nation]His Highness Cromwell[/nation][/b]
-[color=darkturquoise][b]Prime Minister[/b][/color]: [i]Position Available[/i]
+[color=purple][b]The Lord Protector[/b][/color]: [i][nation]His Highness Cromwell[/nation][/i]
+[color=darkturquoise][b]Prime Minister[/b][/color]: [i][nation]Colfax County[/nation][/i]
 [color=darkgreen][b]Home Secretary[/b][/color]: [i]Position Available[/i]
 [color=darkgreen][b]Foreign Secretary[/b][/color]: [i]Position Available[/i]
 [color=darkgreen][b]Defence Secretary[/b][/color]: [i]Position Available[/i]
@@ -16,6 +16,6 @@
 [b]UPDATED[/b]: [i]05/04/18 13:35 GMT[/i]
 [hr] [b][color=darkorange]Commonwealth News[/b][/color]
 
-[i]&#149; The Lord Protector seeks applicants for government positions.
+[i]&#149; [nation]Colfax County[/nation] is appointed Prime Minister by the Lord Protector.
 &#149; Government begins recruitment process to increase regional population.
 &#149; All embassy invitations from foreign regions will be considered.[/i]
