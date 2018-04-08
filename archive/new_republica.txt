@@ -9,9 +9,7 @@
 CURRENT GOVERNMENT:
 President: [nation]Greater Churchill[/nation]
 Councilors:
-[nation]Flattnerk[/nation]
-[nation]The Rising Waves[/nation]
-[hr]
+[nation]Flattnerk[/nation][hr]
 [color=red]Endorsement Cap: 1
 RECRUIT![/color]
 [hr]

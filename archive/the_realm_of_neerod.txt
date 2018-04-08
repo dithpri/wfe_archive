@@ -1,13 +1,11 @@
 [Color=maroon][b][region]The Realm of Neerod[/region] prosper under the reign of His Majesty High King with a heritage of elective monarchy system.[/color]
 
-Faith | Integrity | Sustainability | Innovation[/b][hr]
+[Color=red]Faith | Integrity | Sustainability | Innovation[/b][/color][hr]
 
 [Color=gold][i][b][u]Royal News:[/u][/b]
-[Spoiler]&quot;Any political parties who played the race and religious cards to instigate the people to hate each other will be persecuted by law. 
-[/spoiler]
-In a multiracial and multi-religious society, mutual respect, give and take, are incumbent upon all. Every citizen despite differences in opinions or political ideologies must play his or her part to maintain peace and harmony in our beloved Realm&#148; decreed HM High King[/color]
+&quot;In a multiracial and multi-religious society, mutual respect, give and take, are incumbent upon all. Every citizen despite differences in opinions or political ideologies must play his or her part to maintain peace and harmony in our beloved Realm&#148; decreed HM High King[/color]
 
-[Color=green]The Council hereby elect [nation]Segamat[/nation] as the High King
-[/color][/i][Hr]
+[Spoiler][Color=green]The Council hereby elect [nation]Sitiawan[/nation] as the Lord Chamberlain who oversee the Royal Household and as the Keeper of the Great Seal upon the retirement of [nation]Bukit Indah[/nation].
+[/color] [/spoiler][/i][Hr]
 
 [b][color=maroon]Long live [region]The Realm of Neerod[/region]! Long live the High King![/color][/b]

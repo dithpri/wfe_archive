@@ -12,4 +12,6 @@
 -
 [color=red]Dominant Language(s)[/color]: English (others per station)
 -
+[color=red]Dominant Religion(s):[/color] Agnosticism (others per station)
+-
 [color=red]Unit of Currency[/color]: C-bill (1 C-bill = 1 second of text-only HPG transmission time)[/b]

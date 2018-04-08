@@ -1,4 +1,2 @@
-St Louis, [region]Missouri[/region]
-
-
-Make sure to visit [region]Gwalethia[/region]!
+[b]St Louis[/b]
+a [region=Missouri] region
