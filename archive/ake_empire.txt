@@ -1,6 +1,4 @@
 [b]ALLEGIANCE TO A.K.E.
 REGIONS UNDER CONTROL:
 [region]Heck[/region]
-[/b]Overseer: [u][nation]AKE 63928[/nation][/u][b]
-[region]Anti Panda Brigade[/region]
-[/b]Overseer: [u][nation]AKE 93251[/nation][/u]
+[/b]Overseer: [u][nation]AKE 63928[/nation][/u]

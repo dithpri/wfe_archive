@@ -2,7 +2,7 @@
 the Gaspe Region or Peninsula of Quebec
 
 REGION
-this is a [region=0000] puppet storage region
+this is a [region=0000] puppet storage matrix region
 [b]Founded:[/b] 2017 Jun 10
 [b]Featured:[/b] 2018 Apr 01
-Embassy Offers are Accepted
+All Embassy Offers are Accepted

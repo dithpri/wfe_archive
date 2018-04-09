@@ -7,7 +7,7 @@ FACTS
 Named after Elizabeth II on her coronation in 1953
 [/color][color=navy]
 REGION
+a [region=0000] puppet storage matrix region
 [b]Founded:[/b] 2015 May 01
-[b]Featured:[/b] 2018 Apr 05
-a [region=0000] puppet storage region[/color][color=orange]
-Embassy offers are accepted[/color]
+[b]Featured:[/b] 2018 Apr 05[/color][color=CC8844]
+All embassy offers are accepted[/color]
