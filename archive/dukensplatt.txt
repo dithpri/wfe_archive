@@ -1,5 +1,6 @@
-[color=blue][u][b]The Congress of [region]Dukensplatt[/region].[/b][/u][/color]
+[color=gold][b]The Congress of [u][i][region]Dukensplatt[/region][/i][/u].[/b][/color]
 
-Please Endorse [nation]Rhunnland[/nation]
+[color=green][b]Please Endorse[/color] [i][u][nation]Rhunnland[/nation][/b][/i][/u]
 [hr]
+
 At vote: [url=https://www.nationstates.net/page=dispatch/id=1005039#CPA]Congressional Protection Act[/url]

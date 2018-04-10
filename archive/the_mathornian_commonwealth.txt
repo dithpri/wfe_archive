@@ -1,6 +1,11 @@
-[color=000FFF]The Directorate&#39;s Forces can be spotted here[/color]
-[hr]
-This Region has been Added to the Directorate of [region]Greater Balvris[/region]
-Glory to the Balvrik Military, and The Executive Director for this simple victory!
-Join the Balvrik Military by joining the [url=https://discord.gg/CvEApcp]Discord [/url], and Joining [region]Greater Balvris[/region]
-[hr]
+[region]The Mathornian Commonwealth[/region] is puppet storage for nations controlled by [nation=long]Mathorn[/nation] ([region]The Central Regional Government[/region]).
+
+[region]The Mathornian Commonwealth[/region] is a safe, isolationist, region. One which is free from distractions and outside events.
+[hr]Please be aware that seven nations in [region]The Mathornian Commonwealth[/region] are based of the LOTR trilogy. These nations are:
+
+- [nation=long]Asaipho[/nation] - Orcish Kingdom
+- [nation=long]Belgrost[/nation] - Dwarven Kingdom
+- [nation=long]Bogroth[/nation] - Human Kingdom
+- [nation=long]Pathorn[/nation] - Human Kingdom
+- [nation]The Four Farthings of the Shire[/nation] - Hobbit Realm
+- [nation=long]Wucia[/nation] - Elven Kingdom

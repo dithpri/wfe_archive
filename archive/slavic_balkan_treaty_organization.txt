@@ -1,7 +1,7 @@
 [B]Welcome to the Slavic-Balkan Treaty Organization(SBTO)
 
 [U]Member regions:[/U]
-[Region]Imperium Slavicum[/region]
+[Region]Velika Slavia[/region] ([region]Imperium Slavicum[/region])
 [region]Holy Byzantine Eurasian Confederacy[/region]
 [region]Confederacy of Independent Slavic States[/region]
 [region]Democratic Slav Nations[/region]
