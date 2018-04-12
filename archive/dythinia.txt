@@ -9,16 +9,14 @@
 [hr]
 
 [u][b][color=#B8DE70]T[/color][color=#ACDD75]h[/color][color=#A1DD7B]e[/color][color=#8ADC87] R[/color][color=#7EDB8D]o[/color][color=#73DB93]y[/color][color=#67DA99]a[/color][color=#5CDA9F]l[/color][color=#45D9AB] F[/color][color=#39D8B1]a[/color][color=#2ED8B7]m[/color][color=#22D7BD]i[/color][color=#17D7C3]l[/color][color=#0BD6C9]y[/color][/b][/u]
-[color=07b4c2][b]The King:[/b][/color] [nation]Cogidubnus[/nation]
-[color=009dbf][b]The Queen Consort:[/b][/color] [nation]Belikov[/nation]
+[color=07b4c2][b]The Emperor:[/b][/color] [nation]Cogidubnus[/nation]
+[color=009dbf][b]The Empress Consort:[/b][/color] [nation]Belikov[/nation]
 [color=009dbf][b]The Crown Prince:[/b][/color] [nation]Bolotnaya[/nation]
 
 [u][b][color=#B8DE70]T[/color][color=#AADD76]h[/color][color=#9DDC7D]e[/color][color=#83DB8B] G[/color][color=#76DB91]o[/color][color=#69DA98]v[/color][color=#5CD99F]e[/color][color=#4ED9A6]r[/color][color=#41D8AD]n[/color][color=#34D8B3]m[/color][color=#27D7BA]e[/color][color=#1AD7C1]n[/color][color=#0DD6C8]t[/color][/b][/u]
-[color=6bb700][b]The Prime Minister:[/b] [nation]Mediolaunum[/nation]
-[b]Minister for Home Affairs:[/b] [nation]Al Muhabil[/nation]
-[b]Minister for Foreign Affairs:[/b] [nation]Belikov[/nation]
-[b]Minister for Recruitment:[/b] [i]Vacant[/i]
-[b]Minister for Culture:[/b] [nation]The Arche Guards[/nation]
+[color=6bb700][b]The Prime Minister:[/b] [nation]MaddieMaddiebobaddie[/nation]
+[b]Minister of Defence:[/b] [i]Vacant[/i]
+[b]Minister for Foreign Affairs:[/b] [i]Vacant[/i]
 [/color]
 
 [hr]
