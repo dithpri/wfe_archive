@@ -4,9 +4,17 @@ Others never dare to dream that the impossible could exist.&quot;[/i]
 Here, in the [b][color=darkblue]Realm of Unrestricted Science[/color][/b], those with mad inventions, those who would willingly unravel the threads of their universe to seek out the unknown, those who seek to advance science in the name of progress, are welcome here.
 
 Everyone else, you are fine too.
-________________________________
+
+[hr]
 
 [b][color=darkblue]NSWiki: [/b][/color][url=http://nswiki.org/index.php?title=Region/Realm_of_Unrestricted_Science][b]ROUS[/b][/url]
-________________________________
 
-[b][color=darkblue]Status:[/color] [color=darkgreen]Conducting experimental research. Avoid any interruption.[/color][/b]
+[hr]
+
+[b][color=darkblue]Status:[/color] 
+
+[color=darkgreen][1]Everything seems normal. Continue research[/color]
+
+[color=darkorange][0]Some minor disturbances. Do not panic[/color]
+
+[color=darkred][0]Catastrophe is inevitable. Prepare for the worse[/color][/b]

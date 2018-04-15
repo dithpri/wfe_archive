@@ -11,4 +11,6 @@
 [region]Oberkommando des Heeres[/region]
 [region]Oberkommando der Luftwaffe[/region]
 [region]Oberkommando der Marine[/region]
-[/color][/b]
+[/color]
+
+[color=red]Mobilize to [region]Sereg Farkas[/region][/color][/b]
