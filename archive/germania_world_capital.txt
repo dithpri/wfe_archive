@@ -1,4 +1,4 @@
-[b][color=black][url=https://www.youtube.com/watch?v=mZ8zUcg_Lks]Anthem[/url]
+[b][color=#000000][url=https://www.youtube.com/watch?v=mZ8zUcg_Lks]Anthem[/url]
 [url=https://www.nationstates.net/nation=der_fuhrer_und_reichskanzler/detail=factbook/id=1009004]Preamble[/url]
 [url=https://www.nationstates.net/nation=der_fuhrer_und_reichskanzler/detail=factbook/id=1002167]Constitution[/url]
 
@@ -13,4 +13,5 @@
 [region]Oberkommando der Marine[/region]
 [/color]
 
-[color=red]Mobilize to [region]Sereg Farkas[/region][/color][/b]
+[color=#000000]Orders: [/color][color=#990000]Mobilize to [region]Farkasfalka[/region]
+No WA nations are permitted in this region effective 17 April[/color][/b]
