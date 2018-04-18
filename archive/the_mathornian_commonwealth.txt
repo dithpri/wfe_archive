@@ -1,10 +1,5 @@
 [region]The Mathornian Commonwealth[/region] is puppet storage for nations controlled by [nation=long]Mathorn[/nation] ([region]The Central Regional Government[/region]).
-
-[region]The Mathornian Commonwealth[/region] is a member of the Regional Peacekeeping Pact! Dispatch pinned bellow.
-[hr]Other puppets that are not located in [region]The Mathornian Commonwealth[/region] are:
-
-- [nation=long]Mithlin[/nation] ([region]The Central Regional Government[/region])
-[hr]Please be aware that seven nations in [region]The Mathornian Commonwealth[/region] are based of the LOTR trilogy. These nations are:
+[hr]Please be aware that seven nations in [region]The Mathornian Commonwealth[/region] are based on the Lord of the Rings trilogy. These nations are:
 
 - [nation=long]Asaipho[/nation] - Orcish Kingdom
 - [nation=long]Belgrost[/nation] - Dwarven Kingdom

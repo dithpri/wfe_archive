@@ -11,7 +11,7 @@ Welcome to the High Court for the [b][region]New Western Atlantic[/region][/b]! 
 [hr]
 [b][u]Current Case(s)[/u] |[/b] [i]
 [list][*]Courtroom 1: Constitutional Challenge to Party Regulations 
-[*]Courtroom 2: [region]New Western Atlantic[/region] V [nation]Saint William the Horrid[/nation]
+[*]Courtroom 2: Constitutional Challenge to UCR-NWA Dual Citizenship Ban Act - L.R. 66
 [*]Courtroom 3: None
 [/list][/i]
 
@@ -22,7 +22,7 @@ Welcome to the High Court for the [b][region]New Western Atlantic[/region][/b]! 
 [b]Courtrooms[/b]
 [list][*][region]NWA High Courtroom 1[/region]
 [*][region]NWA High Courtroom 2[/region]
-[*][region]NWA High Courtroom 3[/region][/list]
+[*][region]The NWA High Courtroom 3[/region][/list]
 [hr]
 [color=#FFD700] [/color] [b]File a Case[/b] [color=#FFD700] [/color]
 

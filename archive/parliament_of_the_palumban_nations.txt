@@ -2,3 +2,7 @@ This is the parliament of [region] The Palumban Nations[/region]. MPs shall deba
 
 [u]Next Parliamentary Elections are on the 31st of June 2018.[/u]
 
+[b][u]MPs[/u][/b]
+[nation]Virant[/nation]
+[nation]Anorba[/nation]
+[nation]Portamia[/nation]
