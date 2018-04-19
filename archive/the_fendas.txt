@@ -16,4 +16,6 @@ The following is a list of regions with active defender organizations. If you&#3
 
 [region=Enadia] (Enadian Union Forces)
 
-[region=The Union of Democratic States] (The Union of Democratic States Armed Forces)[/b]
+[region=The Union of Democratic States] (The Union of Democratic States Armed Forces)
+
+[region=Spiritus] (Spiritus Defense Force)[/b]

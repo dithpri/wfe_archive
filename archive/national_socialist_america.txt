@@ -1,10 +1,11 @@
-[b][region]The Germanic Reich[/region] represents Germanic Citizens throughout [region]Northern America[/region] and is committed to the establishment of [region]National Socialist America[/region], consisting of:
+[b][region]The Germanic Reich[/region] 
 
-[region]American Northeast[/region] (Maine, New York, New Jersey, Vermont, Massachusetts, Rhode Island, Connecticut, New Hampshire)
+[region]National Socialist America[/region] encompases all of [region]Northern America[/region] and consists of 6 regional zones.
 
-[region]American Midwest[/region]  (Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin)
+[region]American Northeast[/region]
+[region]American Midwest[/region]
+[region]American South[/region]  
+[region]American West[/region] 
 
-[region]American South[/region]  (Delaware, Florida, Georgia, Maryland, North Carolina, South Carolina, Virginia, West Virginia, Alabama, Kentucky, Mississippi, Tennessee, Arkansas, Louisiana, Oklahoma, Texas)
-
-[region]American West[/region] (Montana, Wyoming, Colorado, New Mexico, Idaho, Utah, Arizona, Nevada, Washington, Oregon, California, Alaska)
+2 pending
 [/b]
