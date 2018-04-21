@@ -1,3 +1,1 @@
 Insert world factbook here
-
-(Serves as puppet storage of [nation]Aweland[/nation])
