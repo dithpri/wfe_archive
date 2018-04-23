@@ -1,14 +1,2 @@
 
-[B][color=Purple]Welcome [region]United North America II[/region]![/color][/B]
-
-[color=Blue][b]Governor General: [nation]Varin Lands[/nation][/b][/color]
-
-[b][u]Executive[/u][/b]
-
-[color=Blue][b]Prime Minister:[/b][/color]
-[color=Blue][b]Deputy Prime Minister:[/b][/color]
-
-[hr][b][u]Parliament[/u][/b]
-[color=Green][b]All Member Nations[/b][/color]
-
-[hr][B]Endorsement Cap:[/B] [B][color=Red]Unlimited![/color][/B]
+[b]Welcome to [region]United North America II[/region][/b]

@@ -1,7 +1,5 @@
 Founder: [nation]qwerty2012[/nation] - Mr. Kibbe
 Delegate: [nation]royal_haven[/nation] - Stephen S.
-
-[nation]new_royal_haven[/nation] - First Colony of [nation]royal_haven[/nation]
 [nation]freindstopia[/nation] - Yara
 [nation]south_tamara[/nation] - Taylor M.
 [nation]billybobjoes[/nation] - Max U.
@@ -12,7 +10,4 @@ Delegate: [nation]royal_haven[/nation] - Stephen S.
 [nation]crynatia[/nation] - Larissa
 [nation]the_whole_state_of_vermont[/nation] - Alex V.
 [nation]magicmemeland[/nation] - Alaina G.
-[nation]crown_harbor[/nation] - ??
-[nation]newport_coast[/nation] - ??
-[nation]chillin_like_a_villian[/nation] - ???
-[nation]katu[/nation] - ???
+[nation]nation_of_annabella[/nation] - Kallista
