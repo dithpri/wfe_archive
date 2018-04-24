@@ -3,7 +3,7 @@ Moneda regional:
 Alianzas con otras regiones: 
 Regiones enemigas: [region]Latinoamerica[/region]
 Cantidad de soldados del ejercito regional de defensa:8004
-Tanques del ejercito de defensa:2099
+Tanques del ejercito de defensa:4024
 Paises de la Region.
 Viva [nation]Saralonia[/nation]! y Viva su colonia [nation]Saralonia africana[/nation]!
 Viva [nation]Pato Pascual[/nation]!
@@ -11,3 +11,4 @@ Viva [nation]Nuevo imperio maya de Mexico y Guatemala[/nation]!
 Viva [nation]Mexico supremo[/nation]!
 Viva [nation]Holdom[/nation]! (estara aqui temporalmente o talvez se quede aqui)
 Viva [nation]LatinoAmerica Unionista[/nation]!
+Viva [nation]Eslovia[/nation]!

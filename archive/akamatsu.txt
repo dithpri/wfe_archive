@@ -5,8 +5,11 @@
 [list]
 [b][color=#DBA901][*]Emperor: [nation]Kyushu Moretomo[/nation]
 [*]Prime Minister: [nation]Kaikoku[/nation]
-[*]Minister of Internal Affairs and Culture: [nation]Paradise Utopia[/nation][/color][/list][/b][hr][hr]
+[*]World Assembly Delegate: [nation]DebaucheryTeaParty[/nation]
+
+[/color][/list][/b][hr][hr]
 [b]IMPERIAL COLONIES / AUTONOMOUS REGIONS:[/b]
 [list]
 [*][b][region]Republic of Atorantisu[/region][/b]
 [*][b][region]Grand Duchy of Oudenburg[/region][/b]
+[*][b][region]Kingdom of Amstadt[/region][/b]
