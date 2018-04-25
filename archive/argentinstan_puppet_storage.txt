@@ -1,10 +1,18 @@
 Puppet storage for [nation]Argentinstan[/nation]
 
-Current assignments:
+[b]Current region assignments:[/b]
 [nation]Argentinistan[/nation]
 [nation]Medoynia[/nation]
 [nation]Infuriation[/nation]
 [nation]Andorranco[/nation]
+
+[b]Current associated UNOE puppets[/b]
+[nation]Florenza Island[/nation]
+[nation]Cayuga-Macami[/nation]
+[nation]Kingstown City[/nation]
+[nation]Argentine Spratly Islands[/nation]
+[nation]St Paul Islands[/nation]
+[nation]Argentine Occupied PyeMcgowan[/nation]
 
 [hr]
 

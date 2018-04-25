@@ -5,7 +5,7 @@ Regiones enemigas: [region]Latinoamerica[/region]
 Cantidad de soldados del ejercito regional de defensa:8004
 Tanques del ejercito de defensa:4024
 Paises de la Region.
-Viva [nation]Saralonia[/nation]! y Viva su colonia [nation]Saralonia africana[/nation]!
+Viva [nation]Saralonia[/nation]!
 Viva [nation]Pato Pascual[/nation]!
 Viva [nation]Nuevo imperio maya de Mexico y Guatemala[/nation]!
 Viva [nation]Mexico supremo[/nation]!

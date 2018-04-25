@@ -6,8 +6,8 @@
 
 [b]Foreign Diplomats:[/b] We are currently closed to foreign dignitaries. All embassy requests will be denied.
 [hr][b]Kaiserin - the Head of State:[/b] [nation]eretz_yisrael_hashlema[/nation]
-[b]Kronprinz - the Heir to the Throne:[/b] TBA
-[b]Reichskanzler - the Head of Government[/b]: TBA
+[b]Kronprinz - the Heir to the Throne:[/b] [nation]suur-harjumaa[/nation]
+[b]Reichskanzler - the Head of Government[/b]: [nation]lowsten[/nation]
 [b]Reichsminister of War[/b]: TBA
 [b]Reichsminister of Communications[/b]: TBA
 [b]Reichsminister of Foreign Affairs[/b]: TBA

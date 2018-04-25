@@ -1,2 +1,15 @@
-[b]Indianapolis[/b]
-a [region=0000] region
+[color=navy][b]Indianapolis[/b]
+Capital and most populous city of the state of Indiana
+
+Population: 855,164 (2016)
+Area: 368 sq mi
+Founded: 1821
+Best known as the host for Indianapolis 500
+Indiana Pacers (NBA) and Indianapolis Colts (NFL)
+Anthem Inc., Eli Lilly and Simon Property Group
+[/color][color=darkgreen]
+REGION
+a [region=0000] embassy matrix puppet holding region
+[b]Founded:[/b] 2016 Jun 19
+[b]Featured:[/b] 2018 Apr 25[/color][color=FF8800]
+Embassy Offers Will Be Accepted[/color]

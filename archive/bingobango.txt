@@ -13,6 +13,8 @@
 
 [i]The Far East and The Forsaken Lands[/i]
 [nation]Dainippon[/nation]
+[nation]Chonkoku[/nation]
+[nation]Aleumdaunttang[/nation]
 [nation]The Righteous Realm[/nation]
 
 [i]Thedas[/i]
