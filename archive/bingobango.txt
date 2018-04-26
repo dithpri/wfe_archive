@@ -2,9 +2,9 @@
 
 [b]Subcontinents[/b]
 [i]The Old World[/i]
-[nation]Al-Kanariya[/nation][nation]Sudalmenia[/nation] [nation]Al-Mishraq[/nation]
-[nation]Al-Massiya[/nation][nation]Al-Masken[/nation]
-[nation]Al-Bawaba[/nation][nation]Al-Shams[/nation][nation]Al-Mauj[/nation]
+[nation]Al-Kanariya[/nation] [nation]Sudalmenia[/nation] [nation]Al-Mishraq[/nation]
+[nation]Al-Massiya[/nation] [nation]Al-Masken[/nation]
+[nation]Al-Bawaba[/nation] [nation]Al-Shams[/nation] [nation]Al-Mauj[/nation]
 
 [i]Infi[/i]
 [nation]Himbaland[/nation]
@@ -15,6 +15,8 @@
 [nation]Dainippon[/nation]
 [nation]Chonkoku[/nation]
 [nation]Aleumdaunttang[/nation]
+[nation]Chankorokuni[/nation]
+[nation]Daimanshu[/nation]
 [nation]The Righteous Realm[/nation]
 
 [i]Thedas[/i]
@@ -24,3 +26,5 @@
 [nation]Nevarra and Eastern Orlais[/nation]
 [nation]Antivan Hegemony[/nation]
 [nation]Antivan Herecy[/nation]
+
+Officers are elected or chosen by national merit:
