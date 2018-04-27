@@ -6,3 +6,4 @@ Alliance Region Embassies
 [region]The Great Region[/region]
 [region]Non Aligned Movement[/region]
 [region]Global Alliance[/region]
+[region]Fascist and Centrism Union[/region]

@@ -17,8 +17,8 @@ Please endorse the Delegate [nation]Greater New Houston[/nation] and Founder [na
 
 [b]Regional Threat Level[/b]
 
-[B][color=green]Level 5[/color] We are in peace..[/b]
-[color=blue]Level 4[/color]
+[color=green]Level 5[/color]
+[B][color=blue]Level 4[/color] Possible threat may arrive[/b]
 [color=violet]Level 3[/color]
 [color=orange]Level 2[/color]
 [color=red]Level 1[/color][hr]
