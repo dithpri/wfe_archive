@@ -1,4 +1,4 @@
-&amp;#917607;&amp;#917602;[b][color=darkblue]Welcome to the Commonwealth of Great Britain and Eire![/color][/b]
+[i]&amp;#917607;&amp;#917602;[b][color=darkblue]Welcome to the Commonwealth of Great Britain and Eire![/color][/b][/i]
 
 [b][color=darkred]The Commonwealth is a republican region promoting the British values of liberty, democracy, mutual respect and rule of law. We welcome all peaceful, creative and engaging nations who wish to join us.[/color][/b]
 
@@ -7,7 +7,7 @@
 [color=purple][b]Lord Protector[/b][/color]: [i][nation]His Highness Cromwell[/nation][/i]
 [color=purple][b]Lord Deputy Protector[/b][/color]: [i][nation]United Provinces Emissary[/nation][/i]
 
-[color=darkturquoise][b]Prime Minister[/b][/color]: [i][nation]Colfax County[/nation][/i]
+[color=darkblue][b]Prime Minister[/b][/color]: [i][nation]Colfax County[/nation][/i]
 [color=darkgreen][b]Home Secretary[/b][/color]: [i]Position Available[/i]
 [color=darkgreen][b]Foreign Secretary[/b][/color]: [i]Position Available[/i]
 [color=darkgreen][b]Defence Secretary[/b][/color]: [i]Position Available[/i]

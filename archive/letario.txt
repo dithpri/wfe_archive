@@ -1,1 +1,9 @@
-letario
+[color=blue][b]On their trek through space, the battle-worn sailors from [region]The Ragerian Imperium[/region]&#39;s armada decided to collect eight regions in honor of their Emperor&#39;s birthday. The soldiers&#39; relentless pursuit could not be stopped by defenders, thanks to their endless will to give him this gift. Come and intimidate your opponents at the off-site [url=http://s15.zetaboards.com/ragerian_imperium]battle cruiser. [/url][/color]
+
+[color=red][u]The Relentless Sailors:[/u][/color]
+Admiral: [nation]Xhakhaslovakia[/nation] [Trigger]
+Captain: [nation]Lemmongrab[/nation]
+Lieutenant: [nation]Xemt[/nation]
+Lieutenant: [nation]Slitherin Snakes[/nation] [Trigger]
+
+[color=gold]Happy birthday, Vult![/color][/b]
