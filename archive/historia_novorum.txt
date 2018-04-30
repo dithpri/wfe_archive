@@ -10,8 +10,9 @@
 [hr]
 
 [color=darkred][b][i][u]Ministry[/u][/b][/color][/i]
-Election Ongoing
-
+[nation]Cobalt Chloride[/nation]
+[nation]Greater Antiochea[/nation]
+TBD
 [color=darkred][b][i][u]Cartographer[/i][/u][/b][/color]
 [nation=short]North America and the Great Lakes[/nation]
 [hr]

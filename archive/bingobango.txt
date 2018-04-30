@@ -7,24 +7,17 @@
 [nation]Al-Bawaba[/nation] [nation]Al-Shams[/nation] [nation]Al-Mauj[/nation]
 
 [i]Infi[/i]
-[nation]Himbaland[/nation]
-[nation]New Moloteva[/nation]
-[nation]Holististan[/nation]
+[nation]Himbaland[/nation] [nation]New Moloteva[/nation] [nation]Holististan[/nation] 
 
 [i]The Far East and The Forsaken Lands[/i]
-[nation]Dainippon[/nation]
-[nation]Chonkoku[/nation]
+[nation]Dainippon[/nation] and its colonies [nation]Chonkoku[/nation], [nation]Chankorokuni[/nation] and [nation]Daimanshu[/nation]
 [nation]Aleumdaunttang[/nation]
-[nation]Chankorokuni[/nation]
-[nation]Daimanshu[/nation]
 [nation]The Righteous Realm[/nation]
 
 [i]Thedas[/i]
-[nation]Orlais and Ferelden[/nation]
-[nation]Transorlesia[/nation]
-[nation]Cisorlesia[/nation]
-[nation]Nevarra and Eastern Orlais[/nation]
-[nation]Antivan Hegemony[/nation]
-[nation]Antivan Herecy[/nation]
+[nation]Orlais and Ferelden[/nation] [nation]Transorlesia[/nation] [nation]Cisorlesia[/nation] 
+[nation]Nevarra and Eastern Orlais[/nation] [nation]Antivan Hegemony[/nation] [nation]Antivan Herecy[/nation]
+
+[url=https://www.nationstates.net/nation=al-massiya/detail=factbook/id=1018443]List of political factions and members in Bingobango[/url]
 
 Officers are elected or chosen by national merit:
