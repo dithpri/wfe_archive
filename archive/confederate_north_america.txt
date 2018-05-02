@@ -1,5 +1,6 @@
 [color=red]Contiguous Nation[/color]: [nation=short]Confederate National Republic[/nation]
 [color=blue]Protectorate Nation[/color]: [nation=short]The Unified American Republic[/nation]
+[color=gray]Defenders:[/color] [nation=short]The Confederate Armed Forces[/nation]
 Motto:[i] &quot;Deo Vindice&quot;[/i]
 Anthem: Dixie
 Capital: Richmond, VA
