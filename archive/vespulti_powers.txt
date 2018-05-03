@@ -1,7 +1,7 @@
-[b]Welcome to the [color=red]Vespulti Powers[/b][/color]
+[color=maroon][b]Welcome to the Vespulti Powers[/b][/color]
 [i]We are a multi-government alliance with a collective focus on taking over the world. [/i]
-
-[b]Members[/b]
+___________________________________________________________________________
+[b]Noted Members[/b]
 [nation]Pastafarian Empire[/nation]
 [nation]Odamaman[/nation]
 [nation]Vespulti[/nation]
@@ -15,23 +15,12 @@
 [nation]Northern African Turtles[/nation]
 [nation]North Luand Tomesandopia[/nation]
 [nation]Lizulf Naga[/nation]
-
-[b]Allied Members[/b]
-[nation]Deutsches Loraine[/nation]
-[nation]Amalfi Federation[/nation]
-[nation]Iewicz[/nation]
-[nation]Chaulnes[/nation]
-[nation]Yugoslabia[/nation]
-[nation]Odomany[/nation]
-[nation]Lumiuouse[/nation]
-[nation]Schlangenland[/nation]
-[nation]Lebya[/nation]
-
+[nation]Dismal World[/nation] 
+___________________________________________________________________________
 [b]Embassies[/b]
 [region]The Unteilbar Protectorate[/region]
 [region]Lardyland[/region]
-
-[b]Noticeboard[/b]  
-&#149; Adding new policies and dispatches to the Vespulti Powers. 
-&#149; Creating embassy and armistice with The Unteilbar Protectorate.
-&#149; Creating Discord server. 
+[region]Gypsy Lands[/region]
+___________________________________________________________________________
+[b]Miscellaneous[/b]  
+[url=https://www.nationstates.net/page=display_region_rmb/region=vespulti_powers]Message Board[/url] &#149; [url=https://www.nationstates.net/page=compose_telegram?tgto=Vespulti]Telegram[/url] &#149; [url=https://www.nationstates.net/page=challenge]Challenge[/url]
