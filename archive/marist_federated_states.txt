@@ -20,6 +20,6 @@ Join Our [url=https://discord.gg/wWVCRwa]Discord[/url]
 Threat Level:
 [color=green]Level 1[/color]
 [color=blue]Level 2[/color]
-[color=yellow]Level 3[/color]
-[color=orange][b]Level 4 [/b]Possible threat may arrive[/color]
+[color=#f4cd2c] [b]Level 3[/b] Moderate to high threat[/color]
+[color=orange]Level 4[/color]
 [color=red]Level 5[/color]
