@@ -1,9 +1,9 @@
 WELCOME TO DE CELTIC ALLIANCE:
 
-Leader: Quantosia
+Leader: [nation]Quantosia[/nation]
 
 Scientific Branch:
-Military Branch:
+Military Branch: [nation]Deor[/nation] 
 Agricultural Branch:
 
 National Tree: Lemon

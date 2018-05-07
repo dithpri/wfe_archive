@@ -6,9 +6,10 @@
 [hr] [color=gold]&amp;#9819;[/color] [b][color=darkgreen]Her Majesty&#39;s Government[/color][/b] [color=gold]&amp;#9819;[/color]
 
 [color=purple][b]Monarch[/b][/color]: [i]Elizabeth II[/i] ([nation]HM The Queen Elizabeth II[/nation])
-[color=purple][b]Governor-General[/b][/color] [b]&amp;[/b] [color=darkgreen][b]Defence Secretary[/b][/color]: [i]Claire Gordon[/i] ([nation]Eastern Selousia[/nation])
+[color=purple][b]Governor-General[/b][/color] [b]: [i]Claire Gordon[/i] ([nation]Eastern Selousia[/nation])
 
-[color=darkburgundy][b]Prime Minister[/b][/color] [b]&amp;[/b] [color=darkgreen][b]Home Secretary[/b][/color]: [i]Margaret Thatcher[/i] ([nation]Margaret Thatcher UK[/nation]) 
+[color=darkburgundy][b]Prime Minister[/b][/color]
+[/color]: [i]Margaret Thatcher[/i] ([nation]Margaret Thatcher UK[/nation]) 
 [color=darkgreen][b]Deputy Prime Minister[/b][/color]: [i]Position Available[/i]
 [color=darkgreen][b]Foreign Secretary[/b][/color]: [i]Position Available
 [/i]
