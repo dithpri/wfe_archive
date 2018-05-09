@@ -1,5 +1,10 @@
-The Braxis Powers is an collection of independent states thown into a loose alliance. Alliance leaders will be elected via poll and anybody can run. If you wish to run for an office please put a message on the board and A poll will be created. If you want to join send a telegram to Society of Capitalists.
-Rules:
-One nation per person
-People can challenge you for your government position at any time (an election will be held)
-If you are a canidate in an election than you cannot vote for yourself
+The government will consist of a hierarchy of positions elected by the people to best represent their interests.
+
+Tertiary Positions (anyone can run)
+Homeland officer, Security officer, Communications officer, Diplomacy officer, Research officer
+
+Secondary Positions (only those holding tertiary positions may run)
+Head of Internal Affairs, Head of External Affairs, Captain of Security
+
+Primary Positions (only those holding secondary positions may run) *Now in effect*
+Vice Delegate, World Assembly Delegate, Founder
