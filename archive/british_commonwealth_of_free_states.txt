@@ -8,8 +8,7 @@
 [color=purple][b]Monarch[/b][/color]: [i]Elizabeth II[/i] ([nation]HM The Queen Elizabeth II[/nation])
 [color=purple][b]Governor-General[/b][/color] [b]: [i]Claire Gordon[/i] ([nation]Eastern Selousia[/nation])
 
-[color=darkburgundy][b]Prime Minister[/b][/color]
-[/color]: [i]Margaret Thatcher[/i] ([nation]Margaret Thatcher UK[/nation]) 
+[color=darkburgundy][b]Prime Minister[/b][/color]: [i]Margaret Thatcher[/i] ([nation]Margaret Thatcher UK[/nation]) 
 [color=darkgreen][b]Deputy Prime Minister[/b][/color]: [i]Position Available[/i]
 [color=darkgreen][b]Foreign Secretary[/b][/color]: [i]Position Available
 [/i]
