@@ -31,4 +31,4 @@
 [/color]
 [Hr]
 [B][color=Red]Current Alert Level:[/color][/b]
-[Color=brown][i][b]DEFCON: 5[/i][/b][/color]
+[Color=purple][i][b]DEFCON: 4[/i][/b][/color]
