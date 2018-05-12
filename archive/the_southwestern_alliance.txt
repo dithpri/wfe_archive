@@ -1,17 +1,15 @@
-This region is a Colony of the [region]Union of Allied States[/region].
+[b]This region is a Colony of the [region]Union of Allied States[/region].[/b]
 
-[b]Please endorse the Premier, [nation]The Civitas Islands[/nation].[/b]
+Newcomers, see dispatches for the Constitution and UAS Communist Party.
 
----[region]UAS Government Board[/region]---
+[b]Please endorse [nation]The Civitas Islands[/nation], Premier of the Southwestern Alliance and General Secretary of the UAS Communist Party.[/b]
 
 ---[region]UAS Regional Court[/region]---
 
-
 [u]Colonial Executive[/u]:
-UAS Representative: [nation]Punk Communists[/nation]
 Premier: [nation]The Civitas Islands[/nation]
-Prime Minister [nation]South Western Santonio[/nation]
-Colonial Judge: Vacant
+Deputy Premier: [nation]South western Santonio[/nation]
+Colonial Judge: vacant
 
 [u]Colonial Council:[/u]
 [nation]The Civitas Islands[/nation]
@@ -25,4 +23,4 @@ Colonial Judge: Vacant
 4)
 5)
 
-
+[b]Dont forget to join the UAS Communist Party![/b]
