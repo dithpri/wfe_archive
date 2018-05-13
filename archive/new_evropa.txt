@@ -2,3 +2,8 @@ This region presents an alternate history of Europe, as agreed by the member sta
 
 
 The map of nations in the region is displayed as the region&#39;s flag.
+Blue = Picentia,
+Dark Blue = Vlagain,
+Green = Merovea,
+Tourquoise = Olimpino,
+Red = Volinsk
