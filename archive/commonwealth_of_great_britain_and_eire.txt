@@ -10,7 +10,7 @@
 [color=darkblue][b]Prime Minister[/b][/color]: [i][nation]The Founding Father[/nation][/i]
 [color=darkgreen][b]Home Secretary[/b][/color]: [i][nation]Colfax County[/nation][/i]
 [color=darkgreen][b]Foreign Secretary[/b][/color]: [i]Position Available[/i]
-[color=darkgreen][b]Defence Secretary[/b][/color]: [i]Position Available[/i]
+[color=darkgreen][b]Defence Secretary[/b][/color]: [i][nation]StWinchester[/nation][/i]
 
 [hr] [b][color=darkorange]Commonwealth News[/b][/color]
 
