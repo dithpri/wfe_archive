@@ -1,8 +1,8 @@
 [u]John[/u]
-[nation]Jundoe[/nation]   [b]|[/b]   [nation]Ejundo[/nation]
+[nation]Jundoe[/nation]   [b]|[/b]   [nation]Ejundo[/nation]*
 
 [u]Taylor Williams[/u] 
-[nation]Williamsburg2[/nation]   [b]|[/b]   [nation]Badlands4[/nation]   [b]|[/b]   [nation]Johnfisherlandia[/nation]   [b]|[/b]   [nation]Dung27[/nation]
+[nation]Williamsburg2[/nation]*   [b]|[/b]   [nation]Badlands4[/nation]*   [b]|[/b]   [nation]Johnfisherlandia[/nation]   [b]|[/b]   [nation]Dung27[/nation]   [b]|[/b]   [nation]Money-Grabbers[/nation]
 
 [u]Emma Deets[/u]
 [nation]Missfit[/nation]
@@ -14,10 +14,10 @@
 [nation]La Gordo[/nation]
 
 [u]Jack[/u]
-[nation]Newcrestly[/nation]   [b]|[/b]   [nation]Northen Mani[/nation]
+[nation]Newcrestly[/nation]   [b]|[/b]   [nation]Northen Mani[/nation]   [b]|[/b]   [nation]Get out433[/nation]
 
 [u]Luke Ramsey[/u]
-[nation]Luke Ramsey[/nation]
+[nation]Luke Ramsey[/nation]*
 
 [u]Emma R[/u]
 [nation]Big Oof Big Oof[/nation]
@@ -30,3 +30,20 @@
 
 [u]Jessie[/u]
 [nation]Jessie Land[/nation]
+
+[u]Jada[/u]
+[nation]Dank Potatoes[/nation]
+
+[u]Carlee[/u]
+[nation]Carlees Trashcan[/nation]
+
+[u]Kaden Mason[/u]
+[nation]Fox Vile212[/nation]
+
+[u]Ariel[/u]
+[nation]Free Parara[/nation]
+
+[u]Jacob[/u]
+[nation]Dank432nation[/nation]
+
+*Not a part of this region

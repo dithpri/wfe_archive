@@ -1,19 +1,22 @@
 [b]This region is a Colony of the [region]Union of Allied States[/region].[/b]
 
+[u]Head-of-State:[/u] [nation]South Waterford[/nation], Chairman of the State Council of the Union of Allied States.
+
 Newcomers, see dispatches for the Constitution and UAS Communist Party.
 
 [b]Please endorse [nation]The Civitas Islands[/nation], Premier of the Southwestern Alliance and General Secretary of the UAS Communist Party.[/b]
 
----[region]UAS Regional Court[/region]---
-
-[u]Colonial Executive[/u]:
+[u]Colonial Officers[/u]:
 Premier: [nation]The Civitas Islands[/nation]
 Deputy Premier: [nation]South western Santonio[/nation]
-Colonial Judge: vacant
+Minister of Defense: vacant
+Minister of Recruitment: vacant
+Minister of Interregional Affairs: vacant
+Minister of Records: vacant
+Chief Justice of the Colonial Court: vacant
+Attorney General: vacant
 
-[u]Colonial Council:[/u]
-[nation]The Civitas Islands[/nation]
-[nation]South western Santonio[/nation]
+[region]UAS Regional Court[/region]
 
 [b][u]Legislation Queue[/u][/b]
 [i]At Vote:[/i]
