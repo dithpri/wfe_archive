@@ -2,7 +2,7 @@
 [nation]Jundoe[/nation]   [b]|[/b]   [nation]Ejundo[/nation]*
 
 [u]Taylor Williams[/u] 
-[nation]Williamsburg2[/nation]*   [b]|[/b]   [nation]Badlands4[/nation]*   [b]|[/b]   [nation]Johnfisherlandia[/nation]   [b]|[/b]   [nation]Dung27[/nation]   [b]|[/b]   [nation]Money-Grabbers[/nation]
+[nation]Badlands4[/nation]*   [b]|[/b]   [nation]Johnfisherlandia[/nation]   [b]|[/b]   [nation]Dung27[/nation]   [b]|[/b]   [nation]Money-Grabbers[/nation]
 
 [u]Emma Deets[/u]
 [nation]Missfit[/nation]
@@ -11,13 +11,13 @@
 [nation]TaterHater Landia[/nation]
 
 [u]Eli[/u]
-[nation]La Gordo[/nation]
+[nation]La Gordo[/nation]   [b]|[/b]   [nation]Goddin[/nation]
 
 [u]Jack[/u]
-[nation]Newcrestly[/nation]   [b]|[/b]   [nation]Northen Mani[/nation]   [b]|[/b]   [nation]Get out433[/nation]
+[nation]Newcrestly[/nation]   [b]|[/b]   [nation]Northen Mani[/nation]   [b]|[/b]   [nation]Get out433[/nation]   [b]|[/b]   [nation]South Mani[/nation]
 
 [u]Luke Ramsey[/u]
-[nation]Luke Ramsey[/nation]*
+[nation]Luke Ramsey[/nation]
 
 [u]Emma R[/u]
 [nation]Big Oof Big Oof[/nation]
@@ -41,9 +41,15 @@
 [nation]Fox Vile212[/nation]
 
 [u]Ariel[/u]
-[nation]Free Parara[/nation]
+[nation]Free Parara[/nation]   [b]|[/b]   [nation]Damiela[/nation]   [b]|[/b]   [nation]Pretty Useless[/nation]
 
 [u]Jacob[/u]
 [nation]Dank432nation[/nation]
+
+[u]Maddie Z[/u]
+[nation]LandofUndeadPirates[/nation]
+
+[u]Jessica T[/u]
+[nation]The Galactic Cake[/nation]
 
 *Not a part of this region
