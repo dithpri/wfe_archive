@@ -1,4 +1,4 @@
-Puppet storage for nations controlled by [nation=long]Mathorn[/nation] ([region]The Central Regional Government[/region]).
+[region]The Mathornian Commonwelath[/region] is puppet storage for nations controlled by [nation=long]Mathorn[/nation] ([region]The Central Regional Government[/region]).
 
 It is also a refuge for [nation]Mathorn[/nation], and shall only be used if [nation]Mathorn[/nation] is not welcome in any other region.
 
@@ -6,7 +6,7 @@ Most embassy requests accepted.
 [hr]Other puppets not located in [region]The Mathornian Commonwealth[/region] are:
 
 - None.
-[hr]Please be aware that several nations in [region]The Mathornian Commonwealth[/region] are based on the LOTR trilogy. These nations are:
+[hr]Please be aware that several nations in [region]The Mathornian Commonwealth[/region] are based on the Lord of the Rings trilogy. These nations are:
 
 - [nation=long]Asaipho[/nation] - Orcish Kingdom
 - [nation=long]Belgrost[/nation] - Dwarven Kingdom

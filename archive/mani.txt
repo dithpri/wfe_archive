@@ -1,8 +1,8 @@
 [u]John[/u]
-[nation]Jundoe[/nation]   [b]|[/b]   [nation]Ejundo[/nation]*
+[nation]Jundoe[/nation]   [b]|[/b]   [nation]Ejundo[/nation]*   [b]|[/b]   [nation]Roqee[/nation]
 
 [u]Taylor Williams[/u] 
-[nation]Badlands4[/nation]*   [b]|[/b]   [nation]Johnfisherlandia[/nation]   [b]|[/b]   [nation]Dung27[/nation]   [b]|[/b]   [nation]Money-Grabbers[/nation]
+[nation]Badlands4[/nation]   [b]|[/b]   [nation]Johnfisherlandia[/nation]   [b]|[/b]   [nation]Money-Grabbers[/nation]   [b]|[/b]   [nation]Mckennalandia[/nation]
 
 [u]Emma Deets[/u]
 [nation]Missfit[/nation]
@@ -11,13 +11,16 @@
 [nation]TaterHater Landia[/nation]
 
 [u]Eli[/u]
-[nation]La Gordo[/nation]   [b]|[/b]   [nation]Goddin[/nation]
+[nation]La Gordo[/nation]   [b]|[/b]   [nation]Goddin[/nation]   [b]|[/b]   [nation]The Galaxys[/nation]   [b]|[/b]   [nation]WUBABA[/nation]
 
 [u]Jack[/u]
 [nation]Newcrestly[/nation]   [b]|[/b]   [nation]Northen Mani[/nation]   [b]|[/b]   [nation]Get out433[/nation]   [b]|[/b]   [nation]South Mani[/nation]
 
 [u]Luke Ramsey[/u]
 [nation]Luke Ramsey[/nation]
+
+[u]Nolan Ramsey[/u]
+[nation]King Ramsey[/nation]
 
 [u]Emma R[/u]
 [nation]Big Oof Big Oof[/nation]
@@ -26,7 +29,7 @@
 [nation]Fat Wizards[/nation]
 
 [u]Daden[/u]
-[nation]Winelle Army[/nation]
+[nation]Winelle Army[/nation]   [b]|[/b]   [nation]Dies Waty[/nation]
 
 [u]Jessie[/u]
 [nation]Jessie Land[/nation]
@@ -50,6 +53,6 @@
 [nation]LandofUndeadPirates[/nation]
 
 [u]Jessica T[/u]
-[nation]The Galactic Cake[/nation]
+[nation]The Galactic Cake[/nation]   [b]|[/b]   [nation]527[/nation]
 
 *Not a part of this region
