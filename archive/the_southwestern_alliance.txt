@@ -2,17 +2,17 @@
 
 [i]Join the World Assembly![/i]
 
-[u]Head-of-State:[/u] [nation]South Waterford[/nation], Chairman of the State Council of the Union of Allied States.
-
 [b]Please endorse [nation]The Civitas Islands[/nation], Premier of the Southwestern Alliance and General Secretary of the UAS Communist Party.[/b]
+
+UAS Ambassador to the Colony: [nation]South Waterford Ambassador[/nation]
 
 [u]Colonial Officers[/u]:
 Premier: [nation]The Civitas Islands[/nation]
 Deputy Premier: [nation]South western Santonio[/nation]
-Minister of Defense: vacant
+Minister of Defense: [nation]Europea[/nation]
 Minister of Justice: vacant
-Minister of Recruitment: vacant
 Minister of Interregional Affairs: [nation]New Socialist Order[/nation]
+Minister of Recruitment: [nation]Free Polish People[/nation]
 Minister of Records: vacant
 Chief Justice of the Colonial Court: vacant
 

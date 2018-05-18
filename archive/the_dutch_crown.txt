@@ -1,10 +1,11 @@
-[nation]Dutch New sealand[/nation] is de leider van deze groep, omdat hij de oprichter is.
-[nation]Dutch Fromarnia[/nation] is lid van de groep
-[nation]German Newstralia[/nation] is lid van de groep
-[nation]South Kolossia[/nation] is lid van de groep
-[nation]Tessana[/nation] is lid van de groep
-[nation]Dutch Svenatie[/nation] is lid van de groep
-[nation]Dutch Didonia[/nation] is lid van de groep
+[nation]Dutch New sealand[/nation] is de LEIDER van deze groep, omdat hij de oprichter is.
+[nation]Hong kong Macau[/nation] is een VAZAL van Dutch New sealand
+[nation]Dutch Fromarnia[/nation] is LID van de groep
+[nation]German Newstralia[/nation] is LID van de groep
+[nation]South Kolossia[/nation] is LID van de groep
+[nation]Tessana[/nation] is LID van de groep
+[nation]Dutch Svenatie[/nation] is LIDvan de groep
+[nation]Dutch Didonia[/nation] is LID van de groep
 
 BELANGRIJK NIEUWS.
 IN JE NAAM HOEFT GEEN DUTCH MEER IN THE STAAN.
