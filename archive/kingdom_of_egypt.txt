@@ -1,9 +1,1 @@
-[i][b][color=maroon]Welcome to the Kingdom of Egypt, an ancient Egyptian-themed region ruled by the Pharaoh and the Royal Court.[/color][/b]
-Do you pledge to serve the Pharaoh? Will you fight for the honor of the gods? Join our humble kingdom, and you shall be rewarded in the afterlife.[/i]
-
-[hr][b][u][color=goldenrod]Egyptian Government[/color][/u][/b]
-[list][*][b][color=green]Pharaoh:[/color][/b] Ramesses XII of [nation]Egyptia[/nation]
-[*][b][color=maroon]Grand Vizier:[/color][/b] [i]TBD[/i][/list]
-[u][b][color=navy]The Royal Court:[/color][/b][/u]
-[i]TBD[/i]
-[hr][b][color=green]Regional News:[/color][/b] [i]Work in Progress[/i][hr]
+Welcome to the Kingdom of Egypt, an ancient Egyptian-themed region ruled by the Pharaoh and the Royal Court.
