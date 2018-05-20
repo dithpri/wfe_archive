@@ -1,8 +1,18 @@
---Constitution--
+[b]Welcome to North Conquest! A simple region for simple nations.
 
-Section I:
-   -All nations have freedom to govern themselves, any laws limiting nations abilities to govern themselves are unconstitutional.
+[u]Regional Government[/u][/b]
 
-Section II:
-   -Region founder cannot execute executive authority without being WA delegate, all executive authority is reserved for the WA delegate and the founder is purely a figurehead until voted. The founder many only take executive power if the delegate office is vacant.
+[b][color=blue]Executive:[/color][/b]
+  Delegate: [nation]AmericaPt2[/nation]
+  Vice Delegate: Unfilled!
+[b][color=green]Legislative:[/color][/b]
+  Regional Representitive: Unfilled!
+  Regional Senate: Unfilled!
+[b][color=red]Judicial:[/color][/b]
+  Chief Judge: Unfilled!
+  Judge: Unfilled!
+  Judge: Unfilled!
+
+
+[url=https://www.nationstates.net/page=dispatch/id=1030975]Constitution[/url]
  

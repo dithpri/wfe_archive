@@ -9,12 +9,13 @@ UAS Ambassador to the Colony: [nation]South Waterford Ambassador[/nation]
 [u]Colonial Officers[/u]:
 Premier: [nation]The Civitas Islands[/nation]
 Deputy Premier: [nation]South western Santonio[/nation]
-Minister of Defense: [nation]Europea[/nation]
-Minister of Justice: vacant
-Minister of Interregional Affairs: [nation]New Socialist Order[/nation]
-Minister of Recruitment: [nation]Free Polish People[/nation]
-Minister of Records: vacant
+Chairman of the Colonial Council: vacant
 Chief Justice of the Colonial Court: vacant
+Minister of Defense: vacant
+Minister of Justice: vacant
+Minister of Interregional Affairs: vacant
+Minister of Records: vacant
+Resident Commissioner to the UAS: vacant
 
 [region]UAS Regional Court[/region]
 

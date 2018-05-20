@@ -1,8 +1,8 @@
 Group A:
-[nation]The Hoenn Region[/nation]
-[nation]Cablon[/nation]
-[nation]Livilvolve[/nation]
-[nation]Southern Fentenia[/nation]
+[nation]The Hoenn Region[/nation]  1
+[nation]Livilvolve[/nation]               1
+[nation]Cablon[/nation]                 
+[nation]Southern Fentenia[/nation]  
 [nation]Ratherland[/nation]
 
 Group B:
