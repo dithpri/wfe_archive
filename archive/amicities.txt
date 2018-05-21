@@ -1,9 +1,9 @@
 Group A:
+[nation]Southern Fentenia[/nation]  3
 [nation]The Hoenn Region[/nation]  1
 [nation]Livilvolve[/nation]               1
-[nation]Cablon[/nation]                 
-[nation]Southern Fentenia[/nation]  
 [nation]Ratherland[/nation]
+[nation]Cablon[/nation]                  0
 
 Group B:
 [nation]Curtisopolis[/nation]

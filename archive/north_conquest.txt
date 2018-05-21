@@ -3,8 +3,8 @@
 [u]Regional Government[/u][/b]
 
 [b][color=blue]Executive:[/color][/b]
-  Delegate: [nation]AmericaPt2[/nation]
-  Vice Delegate: Unfilled!
+  Delegate: Unfilled! Acting executive:[nation]AmericaPt2[/nation] (2.2)
+  Vice Delegate: [nation]Heck britian[/nation]
 [b][color=green]Legislative:[/color][/b]
   Regional Representitive: Unfilled!
   Regional Senate: Unfilled!
