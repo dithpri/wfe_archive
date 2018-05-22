@@ -6,10 +6,9 @@ Group A:
 [nation]Cablon[/nation]                  0
 
 Group B:
-[nation]Curtisopolis[/nation]
+[nation]Tobleste[/nation] 3
 [nation]Kirindal[/nation]
-[nation]Tobleste[/nation]
 [nation]Gallmora[/nation]
-
+[nation]Curtisopolis[/nation] 0
 
 http://amicities.freeforums.net/

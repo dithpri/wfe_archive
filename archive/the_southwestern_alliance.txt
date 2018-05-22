@@ -8,16 +8,17 @@ UAS Ambassador to the Colony: [nation]South Waterford Ambassador[/nation]
 
 [u]Colonial Officers[/u]:
 Premier: [nation]The Civitas Islands[/nation]
-Deputy Premier: [nation]South western Santonio[/nation]
-Chairman of the Colonial Council: vacant
+Deputy Premier: vacant
 Chief Justice of the Colonial Court: vacant
 Minister of Defense: vacant
 Minister of Justice: vacant
 Minister of Interregional Affairs: vacant
-Minister of Records: vacant
-Resident Commissioner to the UAS: vacant
+Minister of Records: [nation]Europea[/nation]
+Resident Commissioner to the UAS: [nation]Peoples Nation of Africa[/nation]
 
 [region]UAS Regional Court[/region]
+
+[region]Role Players Hub[/region]
 
 [b]Colonial Council:[/b] [region]SWA Colonial Government Board[/region]
 

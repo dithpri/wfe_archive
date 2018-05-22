@@ -4,8 +4,8 @@
 [Spoiler=Congress]
 [nation]United Allied Forces[/nation]
 [nation]Parn[/nation]
-Seat Unfilled
-Seat Unfilled
+[nation]Yanke[/nation]
+[nation]Democratic Land of the Free[/nation]
 [/spoiler][spoiler=Supreme Court]
 [nation]Holly United[/nation]
 [nation]Spree Trus[/nation]
@@ -15,8 +15,7 @@ Seat Unfilled
 [hr]
 
 [color=Red]Regional News:[/color][list=i]
-[*]By-elections have officially started and will continue until 05/21/18 vote [url=https://goo.gl/forms/vH77RJPMPsu2uWUt2]here[/url]
-[*]By-eletion poll responses can be found [url=https://docs.google.com/forms/d/e/1FAIpQLSdldl4l0Sedd92VI3KypATtGvkU0-bbVd8dNnByi7s4E3dgXQ/viewanalytics]here[/url]
+[*]By-eletions are over and the results can be found [url=https://docs.google.com/forms/d/e/1FAIpQLSdldl4l0Sedd92VI3KypATtGvkU0-bbVd8dNnByi7s4E3dgXQ/viewanalytics]here[/url]
 [*][color=purple]Please Apply to Join the [url=https://www.nationstates.net/page=un]World Assembly[/color][/url]
 [*]The Conservative Party and Kappa Party membership soar
 [/list]

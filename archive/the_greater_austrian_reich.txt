@@ -5,7 +5,7 @@ Founded in 2012 as a NAZI region, the Imperial Germans shall see to it that this
 
 Heil Kaiser! Heil Kaiserreich!
 
-[i] Historical Entry
+[color=gray][i][u][b]Historical Entry[/b][/u]
 Gro&szlig;&ouml;sterreichische Reich (Greater Austrian Reich) 
 Kaiser und F&uuml;hrer: [b]Dolf Hilter[/b] 
 Motto: [i]&#132;f&uuml;nf Volk, vier Reich, ein F&uuml;hrer.&#147;[/i] 
@@ -13,6 +13,6 @@ Nationalhymne: &#132;[i][b]Preu&szlig;enlied[/b][/i]&#147;
 Hauptstadt: [b]Vienna[/b] 
 Amtssprache: [b]Deutsch[/b] 
 Fl&auml;che: 676,615 km&sup2; 
-W&auml;hrung: [i]Hitler[/i] 
+W&auml;hrung:
 
-[b]NO CITIZENS of [nation]Old North Fish[/nation] OR J&uuml;den allowed![/b][/i]
+[b]NO CITIZENS of [nation]Old North Fish[/nation] OR J&uuml;den allowed![/b][/i][/color]

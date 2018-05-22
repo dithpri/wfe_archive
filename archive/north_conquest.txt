@@ -1,15 +1,22 @@
 [b]Welcome to North Conquest! A simple region for simple nations.
 
+-Roleplay allowed, and encouraged!
+-Regional map coming soon!
+
 [u]Regional Government[/u][/b]
 
 [b][color=blue]Executive:[/color][/b]
-  Delegate: Unfilled! Acting executive:[nation]AmericaPt2[/nation] (2.2)
-  Vice Delegate: [nation]Heck britian[/nation]
+  Delegate: [nation]AmericaPt2[/nation]
+  Vice Delegate: [nation]Pagnaehia[/nation]
 [b][color=green]Legislative:[/color][/b]
-  Regional Representitive: Unfilled!
-  Regional Senate: Unfilled!
+  Representative: [nation]Baldsomland[/nation]
+  Representative: [nation]Remeny Salv[/nation]
+  Representative: Unfilled!
+  Senator: [nation]The West Sea[/nation]
+  Senator: [nation]Minosha[/nation]
+  Senator: Unfilled!
 [b][color=red]Judicial:[/color][/b]
-  Chief Judge: Unfilled!
+  Chief Judge: [nation]KorisLand[/nation]
   Judge: Unfilled!
   Judge: Unfilled!
 
