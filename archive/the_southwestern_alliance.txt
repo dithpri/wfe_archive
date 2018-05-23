@@ -1,8 +1,8 @@
-[b]This region is a Colony of the [region]Union of Allied States[/region].[/b]
+[u][b]This region is a Colony of the [region]Union of Allied States[/region].[/b][/u]
 
-[i]Join the World Assembly![/i]
+[b]R.I.P. King Athelstan[/b]. [i]The Flags of the UAS and SWA are to fly at half-mast for 5 days.[/i]
 
-[b]Please endorse [nation]The Civitas Islands[/nation], Premier of the Southwestern Alliance and General Secretary of the UAS Communist Party.[/b]
+[b]Please endorse [nation]The Civitas Islands[/nation]![/b]
 
 UAS Ambassador to the Colony: [nation]South Waterford Ambassador[/nation]
 
@@ -12,7 +12,7 @@ Deputy Premier: vacant
 Chief Justice of the Colonial Court: vacant
 Minister of Defense: vacant
 Minister of Justice: vacant
-Minister of Interregional Affairs: vacant
+Minister of Interregional Affairs: [nation]New Socialist Order[/nation]
 Minister of Records: [nation]Europea[/nation]
 Resident Commissioner to the UAS: [nation]Peoples Nation of Africa[/nation]
 

@@ -7,14 +7,14 @@
 
 [b][color=blue]Executive:[/color][/b]
   Delegate: [nation]AmericaPt2[/nation]
-  Vice Delegate: [nation]Pagnaehia[/nation]
+  Vice-Delegate: [nation]Pagnaehia[/nation]
 [b][color=green]Legislative:[/color][/b]
   Representative: [nation]Baldsomland[/nation]
   Representative: [nation]Remeny Salv[/nation]
   Representative: Unfilled!
+  Representative: Unfilled!
   Senator: [nation]The West Sea[/nation]
   Senator: [nation]Minosha[/nation]
-  Senator: Unfilled!
 [b][color=red]Judicial:[/color][/b]
   Chief Judge: [nation]KorisLand[/nation]
   Judge: Unfilled!
