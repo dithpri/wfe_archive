@@ -11,12 +11,14 @@
 [b][color=green]Legislative:[/color][/b]
   Representative: [nation]Baldsomland[/nation]
   Representative: [nation]Remeny Salv[/nation]
-  Representative: Unfilled!
+  Representative: [nation]TheemptytownofDavid[/nation]
   Representative: Unfilled!
   Senator: [nation]The West Sea[/nation]
   Senator: [nation]Minosha[/nation]
 [b][color=red]Judicial:[/color][/b]
   Chief Judge: [nation]KorisLand[/nation]
+  Judge: [nation]Gilmore 420[/nation]
+  Judge: Unfilled!
   Judge: Unfilled!
   Judge: Unfilled!
 

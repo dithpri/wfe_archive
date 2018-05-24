@@ -1,10 +1,17 @@
 [b]A votos:[/b]
 
-[b]Proposta:[/b] Criar um fundo agr&iacute;cola de emerg&ecirc;ncia (proposto pelo PNC)
+[b]Proposta:[/b] Melhoramento do ex&eacute;rcito, aumentando o grau de automatiza&ccedil;&atilde;o e mecaniza&ccedil;&atilde;o (proposto pelo PPD)
 [b]Efeitos:[/b]
-(Economia +1, Defesa -1)
-[b]A Favor:[/b] PNC, PPD
-[b]Contra:[/b] Nenhum
+(Defesa+1, Cultura -1)
+[b]A Favor:[/b] PPD, PLR, PNL
+[b]Contra:[/b] PNC
+[b]Absten&ccedil;&otilde;es:[/b] Nenhuma
+
+[b]Proposta:[/b] Substitui&ccedil;&atilde;o das G3 actualmente em servi&ccedil;o por espingardas de assalto mais modernas. (proposto pelo PLR)
+[b]Efeitos:[/b]
+(Defesa+1, Ajuda Humanit&aacute;ria -1)
+[b]A Favor:[/b] PPD, PLR, PNL
+[b]Contra:[/b] PNC
 [b]Absten&ccedil;&otilde;es:[/b] Nenhuma
 
 |[url=https://portugalvirtual.weebly.com/][b]Mapa Pol&iacute;tico de Portugal Virtual[/b][/url]|
