@@ -12,9 +12,8 @@ GDU Security Council:
 GDU Economic Council:
 [nation]Neo Quasar[/nation]
 [nation]South European Union[/nation]
+[nation]Finnish Order[/nation]
 GDU Atomic Council:
 [nation]Greater Landlocked State[/nation]
 [nation]Helium Union[/nation]
 [nation]Neo Vardos[/nation]
-
-

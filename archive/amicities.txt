@@ -7,8 +7,8 @@ Group A:
 
 Group B:
 [nation]Tobleste[/nation] 3
-[nation]Kirindal[/nation]
-[nation]Gallmora[/nation]
+[nation]Gallmora[/nation] 1
+[nation]Kirindal[/nation] 1
 [nation]Curtisopolis[/nation] 0
 
 http://amicities.freeforums.net/
