@@ -1,1 +1,3 @@
-123
+This is a puppet dump.
+
+It belongs to [nation]Salvarity[/nation]

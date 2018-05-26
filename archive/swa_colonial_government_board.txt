@@ -6,13 +6,13 @@ Head of State: [nation]South Waterford[/nation], Chairman of the State Council o
 Head of Government: [nation]The Civitas Islands[/nation], Premier of the Southwestern Alliance
 
 
-[i][b]Chairman of the Colonial Council:[/b][/i] vacant
+[i][b]Chairman of the Colonial Council:[/b][/i] [nation]United Nations Space-Command[/nation]
 
 
 [u][b]Legislation Queue:[/b][/u]
 
-At vote: [i]Colonial Activity Protection Act[/i]
-1) [i]Colonial Court Procedure[/i]
+At vote: [i]Colonial Court Procedure[/i]
+1) 
 2)
 3)
 4)
