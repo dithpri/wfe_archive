@@ -8,7 +8,7 @@ UAS Ambassador to the Colony: [nation]South Waterford Ambassador[/nation]
 
 [u]Colonial Officers[/u]:
 Premier: [nation]The Civitas Islands[/nation]
-Deputy Premier: [nation]Genovija[/nation]
+Deputy Premier: vacant
 Chairman of the Colonial Council: [nation]United Nations Space-Command[/nation]
 Chief Justice of the Colonial Court: vacant
 Minister of Defense: [nation]Free Polish People[/nation]

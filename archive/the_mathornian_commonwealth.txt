@@ -1,13 +1,13 @@
-[region]The Mathornian Commonwelath[/region] is puppet storage for nations controlled by [nation=long]Mathorn[/nation] ([region]The Central Regional Government[/region]).
+[region]The Mathornian Commonwealth[/region] is puppet storage for nations controlled by [nation=long]Mathorn[/nation] ([region]The Central Regional Government[/region]).
 
 In addition, [region]The Mathornian Commonwealth[/region] is a backup region for [nation=long]Mathorn[/nation].
 
-Most embassy requests will be accepted.
-[hr]Several nations in [region]The Mathornian Commonwealth[/region] are based on The Lord of the Rings trilogy. These nations are:
+Most embassy requests accepted.
+[hr]Several nations that are located in [region]The Mathornian Commonwealth[/region] are based on the Lord of the Rings triliogy. These nations are:
 
-- [nation=long]Asaipho[/nation] - Orcish Kingdom
+- [nation=long]Asaipho[/nation] - Orish Kingdom
 - [nation=long]Belgrost[/nation] - Dwarven Kingdom
 - [nation=long]Bogroth[/nation] - Human Kingdom
 - [nation=long]Pathorn[/nation] - Human Kingdom
-- [nation]The Four Farthings of the Shire[/nation] - Hobbit Realm
+- [nation=long]The Four Farthings of the Shire[/nation] - Hobbit Realm
 - [nation=long]Wucia[/nation] - Elven Kingdom
