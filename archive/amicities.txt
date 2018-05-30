@@ -1,14 +1,14 @@
 Group A:
-[nation]The Hoenn Region[/nation]  7
-[nation]Cablon[/nation] 6
-[nation]Livilvolve[/nation]               4
-[nation]Southern Fentenia[/nation]  3
-[nation]Ratherland[/nation]            0
+[nation]Livilvolve[/nation]               7 (+3)
+[nation]The Hoenn Region[/nation]  7 (+2)
+[nation]Cablon[/nation] 6 (+3)
+[nation]Southern Fentenia[/nation]  3 (-2)
+[nation]Ratherland[/nation]            0 (-6)
 
 Group B:
-[nation]Curtisopolis[/nation] 3
-[nation]Tobleste[/nation] 3
-[nation]Gallmora[/nation] 1
-[nation]Kirindal[/nation] 1
+[nation]Curtisopolis[/nation] 3 (0)
+[nation]Tobleste[/nation] 3 (+2)
+[nation]Gallmora[/nation] 1 (0)
+[nation]Kirindal[/nation] 1 (-2)
 
 http://amicities.freeforums.net/

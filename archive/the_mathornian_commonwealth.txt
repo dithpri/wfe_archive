@@ -2,12 +2,12 @@
 
 In addition, [region]The Mathornian Commonwealth[/region] is a backup region for [nation=long]Mathorn[/nation].
 
-Most embassy requests accepted.
-[hr]Several nations that are located in [region]The Mathornian Commonwealth[/region] are based on the Lord of the Rings triliogy. These nations are:
+Most embassy requests are accepted.
+[hr]Several nations that are located in [region]The Mathornian Commonwealth[/region] are based on The Lord of the Rings trilogy. These nations are:
 
-- [nation=long]Asaipho[/nation] - Orish Kingdom
+- [nation=long]Asaipho[/nation] - Orcish Kingdom
 - [nation=long]Belgrost[/nation] - Dwarven Kingdom
-- [nation=long]Bogroth[/nation] - Human Kingdom
+- [nation=long]Bogroth[/nation] - Human Kingdom 
 - [nation=long]Pathorn[/nation] - Human Kingdom
 - [nation=long]The Four Farthings of the Shire[/nation] - Hobbit Realm
 - [nation=long]Wucia[/nation] - Elven Kingdom
