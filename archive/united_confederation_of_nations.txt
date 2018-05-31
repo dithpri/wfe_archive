@@ -10,7 +10,7 @@ The People&#39;s Council:
 
 Founder: [nation]Notatnik[/nation]
 
-WA Delegate / The People&#39;s Minister of General Affairs: [nation]Notatnik[/nation]
+WA Delegate: [nation]The Terran Democratic Communes[/nation]
 
 The People&#39;s Minister of Defence: [nation]Nasim[/nation]
 
@@ -18,7 +18,7 @@ The People&#39;s Minister of Communication: --Vacant--
 
 The People&#39;s Minister of Foreign Affairs: [nation]The Terran Democratic Communes[/nation]
 
-The People&#146;s Minister of Public Opinion: --Vacant--
+The People&#146;s Minister of Public Opinion: [nation]Notatnik[/nation]
 &amp;#65279;
 
 Ministers are to be appointed by The People&#39;s Minister of General Affairs. 

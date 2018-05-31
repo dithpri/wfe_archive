@@ -1,5 +1,1 @@
-[b] [region]National Socialist America[/region] is a Client State of [region]The Germanic Reich[/region]
-
-The U.S. capital, [region]The District of Columbia[/region], is a compact city on the Potomac River, bordering the states of Maryland and Virginia in the [region]American Northeast[/region]. Congress established the federal district from land belonging to the states of Maryland and Virginia in 1790
-[/b]
-
+x-region

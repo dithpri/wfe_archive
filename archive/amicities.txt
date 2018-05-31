@@ -6,9 +6,9 @@ Group A:
 [nation]Ratherland[/nation]            0 (-6)
 
 Group B:
+[nation]Tobleste[/nation] 6 (+3)
 [nation]Curtisopolis[/nation] 3 (0)
-[nation]Tobleste[/nation] 3 (+2)
-[nation]Gallmora[/nation] 1 (0)
+[nation]Gallmora[/nation] 1 (-1)
 [nation]Kirindal[/nation] 1 (-2)
 
 http://amicities.freeforums.net/
