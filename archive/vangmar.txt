@@ -1,5 +1,5 @@
-[b]
-WELCOME TO VANGMAR !
+[b][color=blue]
+WELCOME TO VANGMAR ![/color]
 
 
-Held by [region]The New Mappers Union[/region][/b]
+[color=red]Held by [region]The New Mappers Union[/region][/b][/color]

@@ -8,14 +8,14 @@
 [color=purple][b]Lord Deputy Protector[/b][/color]: [i][nation]United Provinces Emissary[/nation][/i]
 
 [color=darkblue][b]Prime Minister[/b][/color]: [i][nation]The Founding Father[/nation][/i]
-[color=darkgreen][b]Home Secretary[/b][/color]: [i][nation]Colfax County[/nation][/i]
+[color=darkgreen][b]Home Secretary[/color] [color=darkblue]([i]DP[/i])[/color][/b]: [i][nation]Colfax County[/nation][/i]
 [color=darkgreen][b]Foreign Secretary[/b][/color]: [i]Position Available[/i]
 [color=darkgreen][b]Defence Secretary[/b][/color]: [i][nation]StWinchester[/nation][/i]
 
 [hr] [b][color=darkorange]Commonwealth News[/b][/color]
 
-[i]&#149; [nation]Colfax County[/nation] resigns as Prime Minister and assumes control of Home Office.
-&#149; The Lord Protector appoints [nation]The Founding Father[/nation] as Prime Minister.[/i]
+[i]&#149; [nation]The Founding Father[/nation] designates [nation]Colfax County[/nation] as Deputy PM.
+&#149; Embassy with liberated [b][region]Japan[/region][/b] restored.[/i]
 
 [hr][color=black][b]Security Level[/color][/b]: [color=green][b]GREEN[/color][/b]
 UPDATED: [i]28/05/18 11:47 GMT[/i]

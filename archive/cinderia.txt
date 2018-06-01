@@ -9,7 +9,7 @@ Upon arriving, please apply for a spot on the map and a power position in the fo
 [u]Position slots[/u]
 
 -Superpowers: [nation=roelandia]Roelandia[/nation], [color=#30499B]vacant[/color], [color=#30499B]vacant[/color] (2 available slots)
--Great powers: [nation=the prime eternal order], [color=#30499B]vacant[/color], [color=#30499B]vacant[/color], [color=#30499B]vacant[/color], [color=#30499B]vacant[/color] (4 available slots)
+-Great powers: [nation=the prime eternal order], [nation]Linathia[/nation], [color=#30499B]vacant[/color], [color=#30499B]vacant[/color], [color=#30499B]vacant[/color] (3 available slots)
 -Middle powers: [nation]cavendian states[/nation], [color=#30499B]vacant[/color], [color=#30499B]vacant[/color], [color=#30499B]vacant[/color], [color=#30499B]vacant[/color], [color=#30499B]vacant[/color], [color=#30499B]vacant[/color] (6 available slots)
 
 [i]*small powers are not listed here[/i]

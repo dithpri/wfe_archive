@@ -1,9 +1,9 @@
 Group A:
-[nation]Livilvolve[/nation]               7 (+3)
+[nation]Livilvolve[/nation]               10 (+4)
 [nation]The Hoenn Region[/nation]  7 (+2)
-[nation]Cablon[/nation] 6 (+3)
-[nation]Southern Fentenia[/nation]  3 (-2)
-[nation]Ratherland[/nation]            0 (-6)
+[nation]Cablon[/nation] 6 (+2)
+[nation]Southern Fentenia[/nation]  4 (-2)
+[nation]Ratherland[/nation]            1 (-6)
 
 Group B:
 [nation]Tobleste[/nation] 6 (+3)
