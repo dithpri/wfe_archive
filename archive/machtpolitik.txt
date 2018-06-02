@@ -9,12 +9,11 @@ Machtpolitik is an alternate history roleplaying region. Take control of a count
 [hr]
 
 [b]Secretary-General[/b]
-[nation]Great Britain and her Loyal Colonies[/nation]
-
-[b]Triumvirs[/b]
-[nation]Der DEutsches-Kaiserreich[/nation]
 [nation]These United American States[/nation]
+[b]Triumvirs[/b]
+[nation]Der Deutsches-Kaiserreich[/nation]
 [nation]The Seljuk Ottoman Empire[/nation]
+VACANT
 
 [hr]
 
