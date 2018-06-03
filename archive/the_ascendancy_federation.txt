@@ -6,3 +6,7 @@ This region is a puppet storage for all regions in The Ascendancy Federation and
 [region]The United Nations of CASA[/region]
 [region]Assembly of Independent Nations[/region]
 [region]The United Countries of Carbon[/region]
+[region]Uniterra[/region][hr]
+[b]Security Status:[/b] [color=yellow][b]Communist Threat[/b][/color]
+[b]Combat Commands:[/b] [color=yellow]Liberation - Discussed in Discord[/color]
+[b]Military Movement:[/b] [color=Orange]Prepare To Move[/color]

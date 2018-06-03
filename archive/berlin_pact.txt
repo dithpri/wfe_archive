@@ -4,6 +4,7 @@
 [region]Farkasfalka[/region]
 [region]Altmora[/region]
 [region]Garda De Fier[/region]
+[region]The Region Of Allied Nations[/region]
 [/color][color=black]
 
 Maintained by [nation]Eaglemount[/nation] of [region]Farkasfalka[/region][/color]
