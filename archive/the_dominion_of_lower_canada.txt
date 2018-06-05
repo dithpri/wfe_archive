@@ -8,6 +8,6 @@ to simulate real life politics.
 [hr]
 [u][b]National information[/b][/u]
 [b]Current parlement:[/b]Provisional Government lead by [nation]Lower Canada[/nation]
-[b]Number of Citizens:[/b]2
+[b]Number of Citizens:[/b]3
 [b]Provinces:[/b] [color=red]Quebec[/color],[color=#e26d00] Labrador[/color], [color=blue]Maritimes[/color],[color=green]Eluk[/color]
 [b]Official languages:[/b]Francais et english
