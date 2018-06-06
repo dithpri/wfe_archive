@@ -1,3 +1,7 @@
-[b][region]The Germanic Reich[/region]
+[b][nation]Holy Roman Empire of the German Nation[/nation][/b]
+[i]Heiliges R&ouml;misches Reich Deutscher Nation[/i]
 
-We are the final form of [region]The Holy German Empire[/region] otherwise known as [region]Holy Roman Empire of the German Nation[/region], made official after the 1512 Diet of Cologne[/b]
+[b]R&ouml;misch-deutscher Kaiser:[/b] 
+[nation]Das Heilige Romische Reich[/nation]
+
+[hr][b][region]The Holy Roman Empire[/region][/b]
