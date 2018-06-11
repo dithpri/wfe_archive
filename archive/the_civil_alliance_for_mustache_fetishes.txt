@@ -5,7 +5,7 @@ Welcome to the glorious region of the Mustache Republic. Founded on May 26th, 20
 [b][color=red]President[/color]/[/b][nation]Futamurastan[/nation]
 [b][color=orange]Deputy President[/color][/b]/[nation]New Falstafia[/nation]
 [b][color=gold]WA Delegate[/color][/b]/Open
-[b][color=green]Speaker of the Council[/color][/b]/Open
+[b][color=green]Speaker of the Council[/color][/b]/[nation]Futamura[/nation]
 [b][color=blue]Court Justice[/color][/b]/Open
 [b][color=purple]Secretary of State[/color][/b]/Open
 [hr]
