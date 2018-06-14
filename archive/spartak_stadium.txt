@@ -1,9 +1,9 @@
 [b]FIFA World Cup
-[color=red]RUSSIA 2018[/color][/b]
+[color=red]RUSSIA 2018[/color]
 
-[url=https://www.nationstates.net/region=spartak_stadium#poll]Place your bets for Group B[/url]
+Who will win? [url=https://www.nationstates.net/region=spartak_stadium#poll]&amp;#127477;&amp;#127481; Portugal vs &amp;#127466;&amp;#127480; Spain[/url][/b]
 
-We&#39;ve games at eight stadiums:
+We&#39;ve games at nine stadiums:
 [region]Luzhniki Stadium[/region]
 [region]Spartak Stadium[/region]
 [region]Mordovia Arena[/region]
@@ -12,5 +12,6 @@ We&#39;ve games at eight stadiums:
 [region]Kazan Arena[/region]
 [region]Kaliningrad Stadium[/region]
 [region]Ekaterinburg Arena[/region]
+[region]Saint Petersburg Stadium[/region]
 
 [sub]Brought to you by [region]Where the Wild Things Are[/region][/sub]

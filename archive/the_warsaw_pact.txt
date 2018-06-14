@@ -9,3 +9,4 @@ Liberators -
 [nation]New Waldensia[/nation]
 [nation]Trenado[/nation]
 [nation]Libervalley[/nation]
+[nation]Viridus[/nation]
