@@ -1,9 +1,9 @@
 [b]FIFA World Cup
 [color=red]RUSSIA 2018[/color][/b]
 
-[url=https://www.nationstates.net/region=nizhny_novgorod_stadium#poll]Place your bets for Group D[/url]
+[url=https://www.nationstates.net/region=nizhny_novgorod_stadium#poll]&amp;#127480;&amp;#127466; Sweden vs &amp;#127472;&amp;#127479; Korea Republic[/url]
 
-We&#39;ve games at eight stadiums:
+We&#39;ve games at nine stadiums:
 [region]Luzhniki Stadium[/region]
 [region]Spartak Stadium[/region]
 [region]Mordovia Arena[/region]
@@ -12,5 +12,6 @@ We&#39;ve games at eight stadiums:
 [region]Kazan Arena[/region]
 [region]Kaliningrad Stadium[/region]
 [region]Ekaterinburg Arena[/region]
+[region]Saint Petersburg Stadium[/region]
 
 [sub]Brought to you by [region]Where the Wild Things Are[/region][/sub]

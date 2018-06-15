@@ -1,3 +1,8 @@
 [b]Welcome to the [region]New Western Atlantic[/region] || Getting There Together[/b]
-[hr]The House of Atwen is the first noble house of New Western Atlantic, wishing to contribute to the creation of regional culture. This nibiliar house will unite all the good-faith people who carry in their souls care for their neighbors and the region.
-[hr][hr][b]Head of the House of Atwen:[/b][nation]Ghan[/nation]
+[hr][i]The House of Atwen is the first noble house of New Western Atlantic, wishing to contribute to the creation of regional culture. This nibiliar house will unite all the good-faith people who carry in their souls care for their neighbors and the region.[/i]
+[hr][colour=#2C75FF][b]Functions of the House of Atwen:[/b][/colour]
+[list]
+[*][b]Head of the House of Atwen:[/b] [i]Prince[/i] [nation]Ghan[/nation]
+[*][b]Vice Head of the House of Atwen:[/b] [i]Duke[/i] 
+[*][b]Secretary of the House of Atwen:[/b] [i]Lord[/i] [nation]Bennisia[/nation][/list]
+[hr]

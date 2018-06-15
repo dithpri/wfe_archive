@@ -1,9 +1,9 @@
 [b]FIFA World Cup
 [color=red]RUSSIA 2018[/color][/b]
 
-[url=https://www.nationstates.net/region=mordovia_arena#poll]Place your bets for Group C[/url]
+[url=https://www.nationstates.net/region=mordovia_arena#poll]&amp;#127477;&amp;#127466; Peru vs &amp;#127465;&amp;#127472; Denmark[/url]
 
-We&#39;ve games at eight stadiums:
+We&#39;ve games at nine stadiums:
 [region]Luzhniki Stadium[/region]
 [region]Spartak Stadium[/region]
 [region]Mordovia Arena[/region]
@@ -12,5 +12,6 @@ We&#39;ve games at eight stadiums:
 [region]Kazan Arena[/region]
 [region]Kaliningrad Stadium[/region]
 [region]Ekaterinburg Arena[/region]
+[region]Saint Petersburg Stadium[/region]
 
 [sub]Brought to you by [region]Where the Wild Things Are[/region][/sub]

@@ -3,7 +3,9 @@
 
 [url=https://www.nationstates.net/region=kaliningrad_stadium#poll]Place your bets for Group G[/url]
 
-We&#39;ve games at eight stadiums:
+[url=https://www.nationstates.net/page=dispatch/id=815296#WorldCup2018]Scores so far[/url]
+
+We&#39;ve games at nine stadiums:
 [region]Luzhniki Stadium[/region]
 [region]Spartak Stadium[/region]
 [region]Mordovia Arena[/region]
@@ -12,5 +14,6 @@ We&#39;ve games at eight stadiums:
 [region]Kazan Arena[/region]
 [region]Kaliningrad Stadium[/region]
 [region]Ekaterinburg Arena[/region]
+[region]Saint Petersburg Stadium[/region]
 
 [sub]Brought to you by [region]Where the Wild Things Are[/region][/sub]
