@@ -4,7 +4,6 @@
 [Region]Velika Slavia[/region] ([region]Imperium Slavicum[/region])
 [region]Holy Byzantine Eurasian Confederacy[/region]
 [region]Confederacy of Independent Slavic States[/region]
-[region]Democratic Slav Nations[/region]
 [region]The Imperial Russian Empire[/region]
 [region]Slavic Supremacy Pact[/region]
 [region]Manya[/region]

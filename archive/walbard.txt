@@ -4,17 +4,22 @@
 [color=darkred][b]Original[/color]. [color=darkorange]Best[/color].[/b]
 [color=darkblue]Accept nothing less.[/color]
 
+We trace our heritage back to 2007.
+
 [hr]
 
-[nation]King George[/nation] of [nation]Walbard[/nation] rules.
-[nation]Prince Henry[/nation] is our heir apparent.
+[nation]King Carlisle I[/nation] of [nation]Walbard[/nation] rules.
+[nation]Prince George[/nation] is our heir apparent.
 
 [hr]
 
 Citizens are known as Walbardians.
 Our Capital City is [nation]Walbard City[/nation].
 
-We speak English and Portuguese.
+Our primary language is English.
+
+Second languages of the Empire include German, Danish, Latin, and Spanish.
+
 We trade (&pound;)Pounds and (p)Pence.
 
 Our Chancellor is Chief Executive.
@@ -24,4 +29,5 @@ Our Peers and MP&#39;s make the laws.
 
 We control a &quot;Personal Union&quot; with;
 ~ [region]The United Kingdom[/region].
-+ [region]The Kingdom of Windsor[/region].
++ [region]The New United Kingdom[/region].
++ [region]The Tudor Empire[/region].
