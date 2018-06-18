@@ -9,4 +9,6 @@
 [hr]
 [b][color=grey]Allied Regions:[/color][/b]
 [color=navy][region]Other Earth[/region]
-[region]Popular Culture[/region][/color]
+[region]Popular Culture[/region]
+[region]Popular Culture II[/region]
+[region]Teacup Major[/region][/color]
