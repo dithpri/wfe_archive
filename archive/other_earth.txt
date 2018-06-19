@@ -11,4 +11,5 @@
 [color=navy][region]Vesperia[/region]
 [region]Popular Culture[/region]
 [region]Popular Culture II[/region]
-[region]Teacup Major[/region][/color]
+[region]Teacup Major[/region]
+[region]Teacup Minor[/region][/color]

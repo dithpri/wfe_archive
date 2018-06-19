@@ -13,4 +13,5 @@
 [color=navy][region]Other Earth[/region]
 [region]Vesperia[/region]
 [region]Popular Culture II[/region]
-[region]Teacup Major[/region][/color]
+[region]Teacup Major[/region]
+[region]Teacup Minor[/region][/color]
