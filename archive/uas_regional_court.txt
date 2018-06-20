@@ -1,27 +1,11 @@
-[b]Welcome to the 
+[b]Welcome to the Courtroom of the [region]Union of Allied States[/region][/b]
 
-[region]Union of Allied States[/region] 
-[region]The Southwestern Alliance[/region]
+Chairman of the UAS State Council: [nation]South Waterford[/nation]
 
-Regional Court System[/b]
+President of the UAS: [nation]Handal Ands[/nation]
 
-Administrating Justice in the UAS and it&#146;s colonial Regions.
-[HR]
+Chief Justice of the UAS Regional Court: [nation]United Sentinel States[/nation]
 
-[b]The Honorable [nation]United Sentinel States[/nation]
-Chief Justice of the Regional Court
+Attorney General of the UAS: [nation]Darusia[/nation]
 
-The Honorable [nation]East Anglian States[/nation]
-Attorney-General of the Union of Allied States
-
-His Excellency [nation]Zetox[/nation]
-Public Advocate of the Union of Allied States[/b]
-
-[HR]
-
-[b][u]No embassy requests will be accepted.  All requests should be sent to the regions:[/u]
-[region]Union of Allied States[/region]
-[region]The Southwestern Alliance[/region]
-[/b]
-
-
+Public Advocate of the UAS: [nation]Zetox[/nation]
