@@ -1,4 +1,4 @@
-[b]Welcome to The New United Kingdom.[/b]
+[b]Welcome to [color=red]The [/color][color=navy]New [/color][color=green]United [/color][color=orange]Kingdom[/color].[/b]
 Client Region of [region]The United Kingdom[/region].
 
 Officially known as;
@@ -6,7 +6,9 @@ Officially known as;
 The Imperial Commonwealth
 of The New United Kingdom.
 
-We mainly claim;
+[color=purple][i]Dieu Et Mon Droit ~ Rule, Britannia![/i][/color]
+
+[b]We claim the regions of;[/b]
 
 [region]New United Kingdom[/region].
 [region]Kingdom of Great Britain[/region].
@@ -14,4 +16,6 @@ We mainly claim;
 [region]The Kingdom of Denmark[/region].
 [region]Inner Mongolia[/region].
 
-All, on behalf of [region]The United Kingdom[/region].
+All on behalf of 
+[b][region]The United Kingdom[/region][/b]
+of Great Britain &amp; Ireland.
