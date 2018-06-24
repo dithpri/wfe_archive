@@ -1,24 +1,7 @@
-Puppet storage for [nation]Argentinstan[/nation]
-
-[b]Current region assignments:[/b]
-[nation]Argentinistan[/nation]
-[nation]Medoynia[/nation]
-[nation]Infuriation[/nation]
-[nation]Andorranco[/nation]
+Puppet storage for [nation]Argentinstan[/nation]&#39;s puppets within the [region]United Nations of Earthlings[/region].
 
 [b]Current associated UNOE puppets[/b]
 [nation]Florenza Island[/nation]
 [nation]Cayuga-Macami[/nation]
 [nation]Argentine Spratly Islands[/nation]
-[nation]St Paul Islands[/nation]
-
-[hr]
-
-My Puppets:
-[i]The ones I directly control[/i]
-All, except the below
-
-Temporary Puppets:
-[i]The ones I control for a period of time before they go back to CTE; originally not mine[/i]
-[nation]Suriname Republica[/nation]
-[nation]Singaporstates[/nation]
+[nation]Patmandu[/nation]
