@@ -1,15 +1,15 @@
 Formula 1 2018
 
-Points up to and including Canada
+Points up to and including France.
 
-121 [color=blue]Sebastian Vettel[/color] - [nation]F e r r a r i[/nation]
-120 [color=red]Lewis Hamilton[/color] - [nation]M e r c e d e s[/nation]
-086 Valtteri Bottas - [nation]M e r c e d e s[/nation]
-084 Daniel Ricciardo - [nation]R e d B u l l[/nation]
-068 [color=blue]Kimi Raikkonen[/color] - [nation]F e r r a r i[/nation]
-050 Max Verstappen - [nation]R e d B u l l[/nation]
+145 [color=red]Lewis Hamilton[/color] - [nation]M e r c e d e s[/nation]
+131 [color=blue]Sebastian Vettel[/color] - [nation]F e r r a r i[/nation]
+096 Daniel Ricciardo - [nation]R e d B u l l[/nation]
+092 Valtteri Bottas - [nation]M e r c e d e s[/nation]
+083 [color=blue]Kimi Raikkonen[/color] - [nation]F e r r a r i[/nation]
+068 Max Verstappen - [nation]R e d B u l l[/nation]
+034 Nico Hulkenberg - [nation]R e n a u l t[/nation]
 032 [color=blue]Fernando Alonso[/color] - [nation]M c L a r e n[/nation]
-032 Nico Hulkenberg - [nation]R e n a u l t[/nation]
-024 Carlos Sainz - [nation]R e n a u l t[/nation]
-019 Kevin Magnussen - [nation]H a a s[/nation]
+028 Carlos Sainz - [nation]R e n a u l t[/nation]
+027 Kevin Magnussen - [nation]H a a s[/nation]
  
