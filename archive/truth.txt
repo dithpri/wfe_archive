@@ -4,10 +4,12 @@
 
 *********
 [b][u]
-&quot;The presumption of being homo&quot;
-[/u][/b]Sunday, June 24, 2018.
+&quot;Two kinds of modus ponens&quot;
+[/u][/b]Monday, June 25, 2018.
 [b]
-&quot;If the moral statement is the conclusion of a logical argument involving a modus ponens structure, then it could be assessed as being either true or false. But, without the whole argument made explicit, the assertion of the conclusion by itself would imply that the &#39;speaker&#39; either knows or presumes correctly what the &#39;listener&#39; truly wants. For, unless you either knew or guessed correctly that I wanted to go to Larissa, you couldn&#39;t tell me that taking this road was the &quot;correct&quot; way for me....
+&quot;These two kinds of modus ponens are importantly different. One kind produces tautologies and &quot;safe&quot; (&quot;safe&quot; meaning absolute, guaranteed, certain, etc) conclusions. So let&#39;s call this the &quot;safe&quot; modus ponens.
+
+And the other kind of modus ponens is able to produce a paradox -- ie, a logical configuration which allows a logically false proposition to be ostensively true in the sense that the false proposition is said to &#39;exist&#39;. Let&#39;s call this the &quot;sensitive&quot; modus ponens.&quot;
 [/b]
 
 --[url=https://alethessophia.wordpress.com/journal/]Alethes Sophia on Wordpress[/url]

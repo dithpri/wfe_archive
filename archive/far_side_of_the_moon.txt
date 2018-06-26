@@ -1,7 +1,15 @@
 The [region]Far Side of the Moon[/region], also known as the &#39;Dark Graveyard&#39;, serves as the last stop for dying nation that will peacefully rest forever.
 
 List of nations that has returned peacefully:
-[spoiler]Peristron
-Messier 74
-18 Scorpii
-Archernar[/spoiler]
+[spoiler][nation]Exactly[/nation]
+[nation]Messier 74[/nation]
+[nation]Maxwell Montes[/nation]
+[nation]Kepler 442[/nation]
+[nation]Archernar[/nation]
+[nation]Kotak[/nation]
+[nation]Peristron[/nation]
+[nation]18 Scorpii[/nation]
+[nation]4 Vesta[/nation]
+[nation]50000 Quaoar[/nation]
+[nation]Halley Comet[/nation]
+[/spoiler]

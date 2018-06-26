@@ -2,14 +2,20 @@ Formula 1 2018
 
 Points up to and including France.
 
-145 [color=red]Lewis Hamilton[/color] - [nation]M e r c e d e s[/nation]
-131 [color=blue]Sebastian Vettel[/color] - [nation]F e r r a r i[/nation]
-096 Daniel Ricciardo - [nation]R e d B u l l[/nation]
-092 Valtteri Bottas - [nation]M e r c e d e s[/nation]
-083 [color=blue]Kimi Raikkonen[/color] - [nation]F e r r a r i[/nation]
-068 Max Verstappen - [nation]R e d B u l l[/nation]
+145 [color=red]Lewis Hamilton[/color] - [nation]M e r c e d e s[/nation] (3 Win, 6 Podium)
+131 [color=blue]Sebastian Vettel[/color] - [nation]F e r r a r i[/nation] (3 Win, 4 Podium)
+096 Daniel Ricciardo - [nation]R e d B u l l[/nation] (2 Win, 2 Podium)
+092 Valtteri Bottas - [nation]M e r c e d e s[/nation] (4 Podium)
+083 [color=blue]Kimi Raikkonen[/color] - [nation]F e r r a r i[/nation] (4 Podium)
+068 Max Verstappen - [nation]R e d B u l l[/nation] (3 Podium)
 034 Nico Hulkenberg - [nation]R e n a u l t[/nation]
 032 [color=blue]Fernando Alonso[/color] - [nation]M c L a r e n[/nation]
 028 Carlos Sainz - [nation]R e n a u l t[/nation]
 027 Kevin Magnussen - [nation]H a a s[/nation]
- 
+018 Pierre Gasly - [nation]T o r o R o s s o[/nation]
+017 Sergio Perez - [nation]F o r c e I n d i a[/nation] (1 Podium)
+011 Esteban Ocon - [nation]F o r c e I n d i a[/nation]
+011 Charles Leclerc - [nation]S a u b e r[/nation]
+008 Stoffel Vandoorne - [nation]M c L a r e n[/nation]
+004 Lance Stroll - [nation]W i l l i a m s[/nation]
+002 Marcus Ericsson - [nation]S a u b e r[/nation]
