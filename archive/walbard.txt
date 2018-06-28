@@ -5,7 +5,7 @@
 [color=darkblue]Accept nothing less.[/color]
 
 We trace our heritage back to 2007.
-
+We assumed the British Throne in 2017.
 [hr]
 
 [nation]King Carlisle I[/nation] of [nation]Walbard[/nation] rules.
@@ -31,3 +31,4 @@ We control a &quot;Personal Union&quot; with;
 ~ [region]The United Kingdom[/region].
 + [region]The New United Kingdom[/region].
 + [region]The Tudor Empire[/region].
++ [region]Tudor Britain[/region].
