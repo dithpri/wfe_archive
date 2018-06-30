@@ -1,6 +1,6 @@
 [b]All Hail his imperial majesty, Daniel Zelevas XVIII.[/b]
 
-The United Redanian Realm also contains the biggest state owned megacorporation, Magitek SC..
+The United Redanian Realm (short U.R.R.) also contains the biggest state owned megacorporation, Magitek SC..
 
 The Founder, who also controls the state owned company Magitek SC., has permanent executive authority. Please do not join this region if you love democracy or any right for political or economical freedom. Thanks for your understanding!
 
@@ -12,8 +12,10 @@ The Founder, who also controls the state owned company Magitek SC., has permanen
 [nation]Great Redanien[/nation]
 
 [b][u]Prime Minister[/u][/b]
-[nation]Great Nazarick[/nation]
+[nation]Lord Britannia[/nation]
 
+[b][u]General Secretary of the Socialist Party of U.R.R.[/u][/b]
+[nation]Redanian Union[/nation]
 
 [color=yellow]Magitek SC. Management[/color]
 
@@ -21,6 +23,5 @@ The Founder, who also controls the state owned company Magitek SC., has permanen
 [nation]Great Redanien[/nation]
 
 [b][u]Chief Executive Officer[/u][/b]
-[nation]Great Nazarick[/nation]
-
+[nation]Lord Britannia[/nation]
 
