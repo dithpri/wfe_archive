@@ -26,11 +26,9 @@ Regional Appeals -
 
 [b][u][color=navy]Board[/color][/u][/b]
 [nation]Ecclestia[/nation] - Chairman
+[nation]Imperium Anglorum[/nation] - Chief Justice
 [nation]United Christian[/nation]
 [nation]The Rouge Christmas State[/nation]
-
-[b][u][color=navy]Chief Justice[/color][/u][/b]
-[nation]Imperium Anglorum[/nation]
 
 [b][u][color=navy]Chief Registrar[/color][/u][/b]
 [nation]The CILJ Clerk[/nation]
