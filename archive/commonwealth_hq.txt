@@ -1,15 +1,16 @@
 [b]Welcome to Commonwealth Headquarters.[/b]
+[Nation]London City[/nation], [region]The United Kingdom[/region].
 
 &quot;One Commonwealth. One Purpose.&quot;
 #[b][color=red]Original[/color][/b] #[color=navy][b]Best[/color][/b] #[color=orange][b]Beyond[/color][/b] #[color=green][b]Contest[/color][/b].
 
-[hr][b]Official Hub of [region]The United Kingdom[/region].[/b][hr]
+[hr][b]Primary Hub of [region]The United Kingdom[/region].[/b][hr]
 
 [b][color=purple]Important Contact Info;[/color][/b]
 
-New Citizens: [nation]HMS Imperial[/nation].
-Foreign Leaders: [nation]Emperor George[/nation].
-Foreign Diplomats: [nation]King George[/nation].
+New Citizens: [nation]Lord Carlisle[/nation].
+Foreign Leaders: [nation]Brighton Pavilion[/nation].
+Foreign Diplomats: [nation]King Carlisle I[/nation].
 
 [b]We don&#39;t accept &quot;Embassies&quot;.[/b]
 We have High Commissions.

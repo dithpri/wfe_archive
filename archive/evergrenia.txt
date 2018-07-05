@@ -1,4 +1,4 @@
-[align=center][color=green][b]Welcome to Evergrenia[/b][/color][/align]
+[color=green][b]Welcome to Evergrenia[/b][/color]
 
-[align=center][color=green][b][u]Founder[/u][/b][/color][/align]
-[align=center][nation=long]Eulogisia[/nation][/align]
+[color=green][b][u]Founder[/u][/b][/color]
+[nation=long]Eulogisia[/nation]
