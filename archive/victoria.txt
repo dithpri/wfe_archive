@@ -1,2 +1,15 @@
-[color=navy][b]Victoria[/b][/color]
-this is a [nation=short]Juergen[/nation] region
+[color=navy][b]Victoria[/b]
+[I]The Garden State[/I]
+
+South-eastern state of Australia
+Creation of separate colony - 1851 July 1st (from New South Wales)
+[b]Capital:[/b] Melbourne (4,900,000 - 2018 est.)
+[b]Area:[/b] 237,659 km sq. (6th) 91,761 sq. mi
+[b]Population:[/b] 6,358,900 (2nd) (Sep 2017)
+Named after Queen Victoria
+[/color][color=darkgreen]
+REGION
+this is a [region=0000] region
+[b]Founded:[/b] 2011 May 1st
+[b]Featured:[/b] 2018 July 7th[/color][color=red]
+[b]Embassy Offers Accepted[/b][/color]
