@@ -3,15 +3,15 @@
 [hr][hr]
 
 [color=gold]&amp;#9812;[/color] [b]Leadership[/b] [color=gold]&amp;#9812;[/color]
-[list][b][i]Chancellor[/i]:  [nation=short+noflag]Nydaymos[/nation][/b] ([b][Color=#0080FF]ACT[/color][/b])
+[list][b][i]Chancellor[/i]:  [nation=short+noflag]Becklana[/nation][/b] ([b][Color=#0080FF]ACT[/color][/b])
 
-[list][i]Deputy Chancellor[/i]:  [i][nation=short+noflag]Calponia[/nation] ([color=#FE2E2E]CON[/color])[/i][/list]
+[list][i]Deputy Chancellor[/i]:  [i][nation=short+noflag]Josephtan[/nation] ([color=#FFBF00]LD[/color])[/i]
 
-[b][i]Shadow Chancellor[/i]: [nation=short+noflag]Bergonnia[/nation] ([color=#FFBF00]LD[/color])[/b]
+[i]Deputy Chancellor[/i]:  [i]TBD ([color=#E4287C]SBP[/color])[/i][/list]
+
+[b][i]Shadow Chancellor[/i]: [nation=short+noflag]Calponia[/nation] ([color=#FE2E2E]CON[/color])[/b]
 
 [list][i]Minor Party Shadow Leader: [nation=noflag]Grand Rebels[/nation] ([color=#642EFE]RF[/color])[/i]
-
-[i]Minor Party Shadow Leader: [nation=noflag]New Academ[/nation] ([color=#E4287C]DSP[/color])[/i]
 
 [/list][/list][hr][hr]
 [LIST]
