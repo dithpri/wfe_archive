@@ -18,4 +18,4 @@
 [B][color=Red]Current Alert Level:[/color][/b]
 [Color=green][i][b]DEFCON: 5[/i][/b][/color]
 
-[b][i][u][color=Green]ATTENTION EMBASSIES: MOST OF SMR IS ON VACATION.. WILL RESUME ACTIVITY IN SEPTEMBER.[/color][/b][/i][/u]
+[b][i][u][color=Red]-ATTENTION EMBASSIES-: MOST OF SMR IS ON VACATION.. WILL RESUME ACTIVITY IN SEPTEMBER.[/color][/b][/i][/u]

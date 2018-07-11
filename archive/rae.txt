@@ -1,4 +1,2 @@
-[hr][hr][hr][list][color=Orange][b]Rae[/b][/color][/list][hr][hr][hr]
-[list][color=green][b]Associate Regions:[/b][list][region=Alexander]; [region=Bentley]; [region=Douglas]; [region=Elizabeth]; [region=Emma]; [region=Erin]; [region=George]; [region=Katherine]; [region=Kimberley]; [region=Patricia]; [region=Rachel]; [region=Rae]; [region=Rhonda]; [region=Richard]; [region=Stanley]; [region=Victoria]; [region=William]; [region=Xavier].[/list][/list][/color][hr][hr][hr]
-[list][color=blue]This is a 0000 puppet storage region[/color]
+[hr][hr][hr][list][color=Orange][b]Rae[/b][/color][/list][hr][hr][hr][list][color=blue]This is a 0000 puppet storage region[/color]
 [color=red]Embassy offers will not be accepted at this time[/color][/list]

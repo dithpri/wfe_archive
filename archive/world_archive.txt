@@ -12,4 +12,4 @@ Region directed by [b]Jon[/b] / [nation=noflag]Tessen[/nation]. (See: [url=http:
 
 [hr]
 
-[b][u]REGIONS[/u]: - [region]TransPacific[/region] | [color=navy]American Union[/color] | [region]TransAtlantic[/region] | [region]Euroba[/region] | [region]Mithica[/region] | [region]Regina[/region] ||| [region]World Archive[/region][/b]
+[b][u]REGIONS[/u]: - [region]TransPacific[/region] | [region]American Union[/region] | [region]TransAtlantic[/region] | [region]Euroba[/region] | [region]Mithica[/region] | [region]Regina[/region] ||| [color=navy]World Archive[/color][/b]
