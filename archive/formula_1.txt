@@ -1,21 +1,21 @@
 Formula 1 2018
 
-Points up to and including France.
+Points up to and including Great Britain.
 
-146 [color=blue]Sebastian Vettel[/color] - [nation]F e r r a r i[/nation] (3 Win, 5 Podium)
-145 [color=red]Lewis Hamilton[/color] - [nation]M e r c e d e s[/nation] (3 Win, 6 Podium)
-101 [color=blue]Kimi Raikkonen[/color] - [nation]F e r r a r i[/nation] (5 Podium)
-096 Daniel Ricciardo - [nation]R e d B u l l[/nation] (2 Win, 2 Podium)
+171 [color=blue]Sebastian Vettel[/color] - [nation]F e r r a r i[/nation] (4 Win, 6 Podium)
+163 [color=red]Lewis Hamilton[/color] - [nation]M e r c e d e s[/nation] (3 Win, 7 Podium)
+116 [color=blue]Kimi Raikkonen[/color] - [nation]F e r r a r i[/nation] (6 Podium)
+106 Daniel Ricciardo - [nation]R e d B u l l[/nation] (2 Win, 2 Podium)
+104 Valtteri Bottas - [nation]M e r c e d e s[/nation] (4 Podium)
 093 Max Verstappen - [nation]R e d B u l l[/nation] (1 Win, 4 Podium)
-092 Valtteri Bottas - [nation]M e r c e d e s[/nation] (4 Podium)
-037 Kevin Magnussen - [nation]H a a s[/nation]
-036 [color=blue]Fernando Alonso[/color] - [nation]M c L a r e n[/nation]
-034 Nico Hulkenberg - [nation]R e n a u l t[/nation]
+042 Nico Hulkenberg - [nation]R e n a u l t[/nation]
+040 [color=blue]Fernando Alonso[/color] - [nation]M c L a r e n[/nation]
+039 Kevin Magnussen - [nation]H a a s[/nation]
 028 Carlos Sainz - [nation]R e n a u l t[/nation]
-023 Sergio Perez - [nation]F o r c e I n d i a[/nation] (1 Podium)
-019 Esteban Ocon - [nation]F o r c e I n d i a[/nation]
+025 Esteban Ocon - [nation]F o r c e I n d i a[/nation]
+024 Sergio Perez - [nation]F o r c e I n d i a[/nation] (1 Podium)
 018 Pierre Gasly - [nation]T o r o R o s s o[/nation]
-014 Charles Leclerc - [nation]S a u b e r[/nation]
+013 Charles Leclerc - [nation]S a u b e r[/nation]
 012 Roman Grosjean - [nation]H a a s[/nation]
 008 Stoffel Vandoorne - [nation]M c L a r e n[/nation]
 004 Lance Stroll - [nation]W i l l i a m s[/nation]
