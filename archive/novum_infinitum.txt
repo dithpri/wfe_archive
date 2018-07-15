@@ -10,8 +10,9 @@
 [nation]North America and the Great Lakes[/nation]
 
 [b][u]Assembly[/b][/u]
+[nation]Polnische Konigsreich[/nation] - [i]President[/i]
 [nation]Eternal France[/nation]
-[nation]Fennoskandie[/nation]
+[nation]North America and the Great Lakes[/nation]
 [nation]Provincien[/nation]
 [hr]
 
