@@ -4,10 +4,10 @@
 
 [hr] [color=gold]&amp;#9819;[/color] [b][color=darkgreen]Her Majesty&#39;s Government[/color][/b] [color=gold]&amp;#9819;[/color]
 
-[color=purple][b]Monarch[/b][/color] [b]: [i]Elizabeth II[/i] ([nation]HM The Queen Elizabeth II[/nation])
-[color=purple]Governor-General[/b][/color] [b]: [i]Claire Gordon[/i] ([nation]Eastern Selousia[/nation])
+[color=purple][b]Monarch[/b][/color]: [i]Elizabeth II[/i] ([nation]HM The Queen Elizabeth II[/nation])
+[color=purple][b]Governor-General[/b][/color]: [i]Claire Gordon[/i] ([nation]Eastern Selousia[/nation])
 
-[color=darkburgundy]Prime Minister[/b][/color]: [i].......[/i]([nation]Regal Windsor[/nation])
+[color=darkburgundy][b]Prime Minister[/b][/color]: [i].......[/i]([nation]Regal Windsor[/nation])
 [color=darkgreen][b]Home Secretary (DP)[/color][/b]: [i].......[/i]([nation]Turnerstan[/nation])
 [color=darkgreen][b]Foreign Secretary[/b][/color]: ....... ([nation]New South Ulster[/nation])
 [hr] [b][color=darkorange]Free States News[/b][/color]

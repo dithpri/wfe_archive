@@ -12,7 +12,7 @@
 [color=darkred][b][i][u]Ministry[/u][/b][/color][/i]
 [nation=short]Mosinuslavia[/nation]
 [nation=short]Italizio[/nation]
-THIRD MINISTER PENDING ELECTION
+[nation=short]Velykyy Ukraina[/nation]
 
 [color=darkred][b][i][u]Cartographer-Elect[/i][/u][/b][/color]
 [nation=short]Velykyy Ukraina[/nation]
