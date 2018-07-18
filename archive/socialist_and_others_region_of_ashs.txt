@@ -6,17 +6,35 @@ This [b][color=red]Communist[/b][/color] Region has been liberated by the [b][co
 [b][color=blue]Army of Freedom[/b][/color]
 
 [nation]Crimsonfield[/nation] (Op Leader)
+
 [nation]New Waldensia[/nation]
+
+[nation]Coastal English Districts[/nation]
+
 [nation]Louiberg[/nation]
+
 [nation]Trenado[/nation]
+
+[nation]Krich Aerd[/nation]
+
 [nation]Gagium[/nation]
+
 [nation]Krankriet[/nation]
+
 [nation]Ryera[/nation]
+
 [nation]Reichtenstiene[/nation]
+
+[nation]Tanner456[/nation]
 [hr]
 
 [b][color=gold]The Furby Army[/b][/color]
 
 [nation]Furbish Islands[/nation]
+[hr]
+
+[b]Other Forces[/b]
+
+[nation]Jaegan[/nation]
 [hr]
 [b][i]Death to Communism![/i][/b]
