@@ -1,9 +1,11 @@
-[b][region]The Black Hawks[/region] swooped into your region and devoured everything. We then spit out those pellets with the bones, fur, etc our meal and left them all over. Visit our [url=http://s4.zetaboards.com/The_Black_Hawks/index/]Off-site Nest[/url] to join our intestinally troubled ranks.
+Note: We are no longer Anti-Unithonian
+National Enemies:
+[nation]Qonon[/nation]
+[nation]Dieselvania[/nation]
+[nation]World Assembly Nation 665[/nation]
+[nation]Dyllonia[/nation]
+[nation]Devi Vytherin[/nation]
 
-Regurgitating Hawks:
-SGT [nation]Qonon[/nation] (Trigger)
-PFC [nation]Dieselvania[/nation]
-PFC [nation]World Assembly Nation 665[/nation]
-PFC [nation]Dyllonia[/nation]
-Sergeant [nation]Devi Vytherin[/nation]
-[/b]
+Regional Enemies:
+[region]The Black Hawks[/region]
+[region]Violet Irises[/region]
