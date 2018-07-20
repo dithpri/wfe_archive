@@ -1,11 +1,13 @@
-[b]Welcome to the Courtroom of the [region]Union of Allied States[/region][/b]
+[b]UAS REGIONAL COURT SYSTEM[/b]
 
-Chairman of the UAS State Council: [nation]South Waterford[/nation]
+[b]The Honorable [nation]United Sentinel States[/nation][/b]
+[i]Chief Justice[/i]
 
-President of the UAS: [nation]Handal Ands[/nation]
+[b]The Honorable [nation]Darusia[/nation][/b]
+[i]The Attorney General[/i]
 
-Chief Justice of the UAS Regional Court: [nation]United Sentinel States[/nation]
+[b]His Excellency The Great Gazoo of  [nation]Zetox[/nation][/b]
+[i]The Public Advocate[/i]
 
-Attorney General of the UAS: [nation]Darusia[/nation]
 
-Public Advocate of the UAS: [nation]Zetox[/nation]
+[b][/b]
