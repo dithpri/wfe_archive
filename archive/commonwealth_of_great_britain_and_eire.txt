@@ -17,5 +17,5 @@
 [i]&#149; [nation]The Founding Father[/nation] designates [nation]Colfax County[/nation] as Deputy PM.
 &#149; Two government commissions announced by PM.[/i]
 
-[hr][color=black][b]Security Level[/color][/b]: [color=green][b]GREEN[/color][/b]
-UPDATED: [i]28/05/18 11:47 GMT[/i]
+[hr][color=black][b]Security Level[/color][/b]: [color=amber][b]AMBER[/color][/b]
+UPDATED: [i]20/07/18 16:12 GMT[/i]
