@@ -7,7 +7,7 @@
 
 [list][i]Deputy Chancellor[/i]:  [i][nation=short+noflag]Josephtan[/nation] ([color=#FFBF00]LD[/color])[/i]
 
-[i]Deputy Chancellor[/i]:  [i]TBD ([color=#E4287C]SBP[/color])[/i][/list]
+[i]Deputy Chancellor[/i]:  [i][nation=short+noflag]South Cumbria[/nation] ([color=#E4287C]SOC[/color])[/i][/list]
 
 [b][i]Shadow Chancellor[/i]: [nation=short+noflag]Calponia[/nation] ([color=#FE2E2E]CON[/color])[/b]
 
