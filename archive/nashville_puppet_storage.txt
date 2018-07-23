@@ -1,13 +1,1 @@
-[b]This region serves as a storage center for the puppets of [nation]decolorean islands[/nation].[/b]
-
-[u][b]Active Puppets (as of 2/17/2018)[/b][/u]
-
-[B][nation=short]Corladia[/nation]
-[nation=short]Decolorean Puppet Steward[/nation]
-[nation=short]Chenzian States[/nation]
-[nation=short]Gran Vistica[/nation]
-[nation=short]Opelucid[/nation]
-[nation=short]The Pokemon Company International[/nation]
-[nation=short]Philippine Islands[/nation]
-[nation=short]Bulungi and Tassoukro[/nation]
-[/B]
+123
