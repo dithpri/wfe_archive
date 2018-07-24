@@ -1,2 +1,15 @@
-[b]Mars Colony[/b]
-a [region=0000] region
+[color=maroon]&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;
+&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;[/color][color=navy] [b]Mars Colony[/b] [/color][color=maroon]&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;
+&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;
+
+&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;[/color]
+[color=darkgreen]REGION
+a [region=0000] Region
+[b]Founded:[/b] 2016 Jul 28
+[b]Classification:[/b] Oracle Puppet Holding Region
+[b]Last Change:[/b] 2018 Jul 23
+[b]Previous Classification:[/b] Oracle Holding Region (&amp;#64; founding)
+[b]Future Classification:[/b] Matrix Region (&amp;#64; date of being Featured)*[/color]
+[color=darkorange]* only my Matrix Regions accept embassy offers; Sorry.[/color]
+[color=red]Sorry, No Embassy Offers Accepted, at this time[/color]
+[color=maroon]&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;[/color]

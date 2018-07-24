@@ -1,11 +1,13 @@
-This is the official region of the Empire of [nation]Great Edmundia[/nation]!  It is a mighty symbol of Imperial might and power!
+This is the official region of the Empire of [nation]Great Edmundia[/nation]!  It is a mighty symbol of Imperial might and power.
 
-Regional Animal: Sable Ferret
+[b]Regional Animal[/b]: Sable Ferret
 
-Regional Plant: Eucalyptus Tree
+[b]Regional Plant[/b]: Eucalyptus Tree
 
-Regional Capital City: Gladesopolis
+[b]Regional Capital City[/b]: Gladesopolis
 
-Regional Religion: Church of Edmundia
+[b]Regional Religion[/b]: Church of Edmundia
 
-Regional Anthem: Advance Edmundia Fair
+[b]Regional Anthem[/b]: Advance Edmundia Fair
+
+[b]Regional Currency[/b]: Great Edmundian Royal

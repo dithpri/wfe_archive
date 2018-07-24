@@ -2,4 +2,13 @@
 
 [hr]
 
-[i]Puppet storage of [nation=noflag]Samudera[/nation][/i]
+[i]Puppet storage of [nation]Seagull[/nation][/i]
+
+Other active nations:
+[nation]samudera[/nation]
+[nation]krakatau[/nation]
+[nation]selayar[/nation]
+[nation]awan[/nation]
+[nation]alligator[/nation]
+[nation]mojopahit[/nation]
+[nation]fatehaven[/nation]
