@@ -1,7 +1,7 @@
 Private
 
 Regional Currency is &#39;The Copper&#39;.
-Military Value is decided with Arms Manufacturing/Defence Forces, this may be temporary.
+Military Value and Strength is decided with Arms Manufacturing+Defence Forces*Scientific Advancement, this may be temporary.
 
 All currencies are equal to 1 US Dollar. Except from the Copper which is worth 1.15 US Dollars.
 
@@ -18,5 +18,7 @@ Brown- Lovely Hollow Ataraxia
 Black- Omnipotent Penguins
 Bright Red- Violent Yelling
 Bright Green- Bestilada
+Gray- Maiden Heaven
+Royal Purple- Habbodachi
 
-http://prntscr.com/k93f0q
+https://prnt.sc/kahk4n
