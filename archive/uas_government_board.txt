@@ -1,8 +1,6 @@
 [b]Union of Allied States
-Regional Government
+Central Regional Government[/b]
 
-The Southwestern Alliance
-Colonial Government[/b]
 
 [color=blue] Welcome to the UAS Congress Board. Home of the Assembly and the State Council.[/color][HR]
 [b]State Council Officials:[/b]
@@ -12,11 +10,7 @@ Colonial Government[/b]
 
 [b]Union of Allied States[/b]
 President: [nation]Handal Ands[/nation]   
-Vice President:[nation]Darusia[/nation]
-
-[b]The Southwestern Alliance[/b]
-UAS Resident Agent: [nation]Punk Communists[/nation]
-Premier: [nation]The Civitas Islands[/nation]
+Vice President:[nation]Punk Anarchy[/nation]
 
 [HR]
 
@@ -25,12 +19,11 @@ Premier: [nation]The Civitas Islands[/nation]
 [b]UAS REGIONAL COMMISSIONS[/b]
 
 [u]ELECTION[/u]
-[nation]Punk Anarchy[/nation], Chair
+
 
 [u]CONSITIUTION[/u]
 [nation]Zetox[/nation], Chair
-[nation]The Civitas Islands[/nation], SWA Premier
 
 [u]COLONIAL LAW[/u]
-[nation]Il Corvonero[/nation], Chair[HR]
+[HR]
 This region is home to the [region]Union of Allied States[/region] government.  No embassies will be accepted, all requests for embassy exchange must be received by the main region.

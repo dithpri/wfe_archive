@@ -1,24 +1,24 @@
-Private
+[u][i][b]Private[/b][/i][/u]
 
-Regional Currency is &#39;The Copper&#39;.
-Military Value and Strength is decided with Arms Manufacturing+Defence Forces*Scientific Advancement, this may be temporary.
+[b]Regional Currency is &#39;The Copper&#39;.
+Military Value and Strength is decided with Arms Manufacturing+Defence Forces*Scientific Advancement, this may be temporary.[/b]
 
-All currencies are equal to 1 US Dollar. Except from the Copper which is worth 1.15 US Dollars.
+[b]All currencies are equal to 1 US Dollar. Except from the Copper which is worth 1.15 US Dollars.[/b]
 
 Map Legend;
-Orange- Sourity Frow
-Red- Nine-Pentacles
-Blue- Eidvalia
-Green- Autism Socialists
-Purple- Snargarfen
-Dark Blue- Fratopiricpaxtoactor
-Pink- Evjuan
-Yellow- Hellannopolis
-Brown- Lovely Hollow Ataraxia
-Black- Omnipotent Penguins
-Bright Red- Violent Yelling
-Bright Green- Bestilada
-Gray- Maiden Heaven
-Royal Purple- Habbodachi
+Orange- [nation]Sourity Frow[/nation]
+Red- [nation]Nine-Pentacles[/nation]
+Blue- [nation]Eidvalia[/nation]
+Green- [nation]Autism Socialists[/nation]
+Purple- [nation]Snargarfen[/nation]
+Dark Blue- [nation]Fratopiricpaxtoactor[/nation]
+Pink- [nation]Evjuan[/nation]
+Yellow- [nation]Hellannopolis[/nation]
+Brown- [nation]Lovely Hollow Ataraxia[/nation]
+Black- [nation]Omnipotent Penguins[/nation]
+Bright Red- [nation]Violent Yelling[/nation]
+Bright Green- [nation]Bestilada[/nation]
+Gray- [nation]Maiden Heaven[/nation]
+Royal Purple- [nation]Habbodachi[/nation]
 
 https://prnt.sc/kahk4n
