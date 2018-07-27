@@ -9,4 +9,6 @@
 
 [b][color=navy]God Anubis: [nation]Anubisya[/nation]
 Pharaoh: [nation]Alpha Wolf[/nation]
-High Priestess: [nation]Sompandinn[/nation][/color][/b]
+Queen:
+High Priestess: [nation]Sompandinn[/nation]
+Prophets:[/color][/b]
