@@ -19,7 +19,7 @@ Queen: TBD
 Am Pr&igrave;omhaire: [nation=short]Nobles of Scotland[/nation]
 Foreign Minister: TBA
 Internal Minister: TBA
-Defense Minister: [nation]Novus Alexandra[/nation]
+Defense Minister: TBA
 Security Minister: TBA
 Culture Minister: TBA
 Justice Minister: [nation]Imperial Edinburgh[/nation]
