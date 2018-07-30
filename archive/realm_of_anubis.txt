@@ -11,4 +11,5 @@
 Pharaoh: [nation]Alpha Wolf[/nation]
 Queen:
 High Priestess: [nation]Sompandinn[/nation]
-Prophets:[/color][/b]
+Prophets: [nation]Nova Nohanua[/nation]
+ ([region]United Republic of Octavia[/region]) [/color][/b]
