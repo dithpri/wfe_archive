@@ -14,5 +14,4 @@
 
 [B]OBSERVER REGIONS:[/B]
 
-[list][*][region]The Communist Legion[/region]
-[*][region]Olgea[/region][/list]
+[list][*][region]The Communist Legion[/region][/list]

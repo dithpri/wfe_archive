@@ -1,21 +1,21 @@
 Formula 1 2018
 
-Points up to and including Germany.
+Points up to and including Hungary.
 
-188 [color=red]Lewis Hamilton[/color] - [nation]M e r c e d e s[/nation]
-171 [color=blue]Sebastian Vettel[/color] - [nation]F e r r a r i[/nation]
-131 [color=blue]Kimi Raikkonen[/color] - [nation]F e r r a r i[/nation]
-122 Valtteri Bottas - [nation]M e r c e d e s[/nation]
-106 Daniel Ricciardo - [nation]R e d B u l l[/nation]
+213 [color=red]Lewis Hamilton[/color] - [nation]M e r c e d e s[/nation]
+189 [color=blue]Sebastian Vettel[/color] - [nation]F e r r a r i[/nation]
+146 [color=blue]Kimi Raikkonen[/color] - [nation]F e r r a r i[/nation]
+132 Valtteri Bottas - [nation]M e r c e d e s[/nation]
+118 Daniel Ricciardo - [nation]R e d B u l l[/nation]
 105 Max Verstappen - [nation]R e d B u l l[/nation]
 052 Nico Hulkenberg - [nation]R e n a u l t[/nation]
-040 [color=blue]Fernando Alonso[/color] - [nation]M c L a r e n[/nation]
-039 Kevin Magnussen - [nation]H a a s[/nation]
+045 Kevin Magnussen - [nation]H a a s[/nation]
+044 [color=blue]Fernando Alonso[/color] - [nation]M c L a r e n[/nation]
 030 Sergio Perez - [nation]F o r c e I n d i a[/nation]
+030 Carlos Sainz - [nation]R e n a u l t[/nation]
 029 Esteban Ocon - [nation]F o r c e I n d i a[/nation]
-028 Carlos Sainz - [nation]R e n a u l t[/nation]
-020 Roman Grosjean - [nation]H a a s[/nation]
-018 Pierre Gasly - [nation]T o r o R o s s o[/nation]
+026 Pierre Gasly - [nation]T o r o R o s s o[/nation]
+021 Roman Grosjean - [nation]H a a s[/nation]
 013 Charles Leclerc - [nation]S a u b e r[/nation]
 008 Stoffel Vandoorne - [nation]M c L a r e n[/nation]
 005 Marcus Erricsson - [nation]S a u b e r[/nation]
