@@ -3,8 +3,7 @@
 [hr]
 
 [b][u]The Imperial Government[/u][/b]
-[b][color=darkred]Founder:[/color][/b] [nation]Kaiser Reich[/nation]
-[b][color=darkred]Holy Roman Emperor:[/color][/b] [nation]Das Heilige Romische Reich[/nation]
+[list][*][b][color=darkred]Founder:[/color][/b] [nation]Kaiser Reich[/nation]
+[*][b][color=darkred]Holy Roman Emperor:[/color][/b] [nation]Das Heilige Romische Reich[/nation][/list]
 
-[i]Featured Region on 5/26/2017 &amp; 1/30/2018[/i]
-[hr][b][color=black]Regional Links:[/color][/b] [url=http://nswiki.org/index.php?title=Region/The_Holy_Roman_Empire]NSwiki[/url] ~ [url=http://nsdossier.texasregion.net/history.aspx?region=the+holy+roman+empire&amp;type=Exact&amp;group=region&amp;start=&amp;end=]NSHistory[/url] ~ [url=http://forum.nationstates.net/viewtopic.php?f=15&amp;t=269464]NationStates ++[/url][hr]
+[hr][b]Featured Region on 5/26/2017 &amp; 1/30/2018[/b]

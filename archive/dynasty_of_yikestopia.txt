@@ -1,13 +1,11 @@
-[b]Hail Yikestopia! [/b]
+[color=gold][b]Hail Yikestopia! [/b][/color]
 
-This region is the homeplace for many Yikestopian nations and other nations that ally with the banner. 
-
-Enemies to the Dynasty are: [nation]New Ciceria[/nation] and nations in his empire
+[color=red]This region is the homeplace for many Yikestopian nations and other nations that ally with the banner. [/color]
 
 The nations in power:
-[b][u]Emperor:[/u][/b] [nation]The Yikestopian Region[/nation]
-[b][u]Legates:[/u][/b] [nation]Newbull[/nation], [nation]Shert[/nation], [nation]Great Edmundia[/nation],
-[b][u]Praetorian Officers:[/u][/b] (unfulfilled)
-[b][i]Legionnaires[/I][/b]: (unfulfilled)
+[color=gold][b][u]Emperor:[/u][/b][/color] [nation]The Yikestopian Region[/nation]
+[color=silver][b][u]Legates:[/u][/b][/color] [nation]Newbull[/nation], [nation]Shert[/nation], [nation]Great Edmundia[/nation],
+[color=bronze][b][u]Praetorian Officers:[/u][/b][/color] (unfulfilled)
+[b][u]Legionnaires[/u][/b]: (unfulfilled)
 
 For rules and guidelines, see the Law of the Dynasty listed on the dispatches.  The Dispatches are also where other documents are found such as historical accounts and the lyrics of the regional national anthem, [I]Yikestopia, the Beautiful[/I].

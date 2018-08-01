@@ -19,4 +19,8 @@ You can explore &amp;#64; [region]Commonwealth HQ[/region].
 
 Our [b]Central Regions[/b] are:
 &amp;#10004; [region]Walbard[/region].
+&amp;#10004; [region]Walbard Union[/region].
 &amp;#10004; [region]The United Kingdom[/region].
+&amp;#10004; [region]The New United Kingdom[/region].
+&amp;#10004; [region]The Tudor Empire[/region].
+&amp;#10004; [region]Tudor Britain[/region].
