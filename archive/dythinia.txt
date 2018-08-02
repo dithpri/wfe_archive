@@ -8,20 +8,18 @@
 
 [hr]
 
-[u][b][color=#B8DE70]T[/color][color=#ACDD75]h[/color][color=#A1DD7B]e[/color][color=#8ADC87] R[/color][color=#7EDB8D]o[/color][color=#73DB93]y[/color][color=#67DA99]a[/color][color=#5CDA9F]l[/color][color=#45D9AB] F[/color][color=#39D8B1]a[/color][color=#2ED8B7]m[/color][color=#22D7BD]i[/color][color=#17D7C3]l[/color][color=#0BD6C9]y[/color][/b][/u]
-[color=07b4c2][b]The Emperor:[/b][/color] [nation]Great Alemonia[/nation]
-[color=009dbf][b]The Crown Prince:[/b][/color] [nation]Bolotnaya[/nation]
-
 [u][b][color=#B8DE70]T[/color][color=#AADD76]h[/color][color=#9DDC7D]e[/color][color=#83DB8B] G[/color][color=#76DB91]o[/color][color=#69DA98]v[/color][color=#5CD99F]e[/color][color=#4ED9A6]r[/color][color=#41D8AD]n[/color][color=#34D8B3]m[/color][color=#27D7BA]e[/color][color=#1AD7C1]n[/color][color=#0DD6C8]t[/color][/b][/u]
-[color=6bb700][b]Archon:[/b] [nation]MaddieMaddiebobaddie[/nation]
-[b]Vestarches:[/b] [nation]Cicero the Creative[/nation]
-[b]Chancellors: [/b] [nation]Saschia II[/nation] and [nation]Cerulean Republic[/nation]
+[color=07b4c2][b]President:[/b][/color] [nation]Cogidubnus[/nation]
+[color=009dbf][b]Vice President:[/b][/color] [nation]Bolotnaya[/nation]
+[color=6bb700][b]Minister for Foreign Affairs:[/b] [nation]MaddieMaddiebobaddie[/nation]
+[b]Minister for Domestic Affairs:[/b] [nation]Saschia II[/nation]
+[b]Minister for Immigration:[/b] [i]Vacant[/i]
 [/color]
 
 [hr]
 
 [b][color=#FF0000]S[/color][color=#FF5A00]o[/color][color=#FFB400]n[/color][color=#EFFF00]g[/color] [color=#3BFF00]o[/color][color=#00FF1E]f[/color] [color=#00FFD2]t[/color][color=#00D1FF]h[/color][color=#0077FF]e[/color] [color=#3C00FF]W[/color][color=#9500FF]e[/color][color=#F000FF]e[/color][color=#FF00B3]k[/color][color=#FF0059]![/color][/b]  [url=https://www.youtube.com/watch?v=p3l7fgvrEKM][b][color=c4000d]Freed from Desire - GALA[/color][/b][/url]
-[b][color=#FF0000]N[/color][color=#FF5000]a[/color][color=#FFA100]t[/color][color=#FFF100]i[/color][color=#BBFF00]o[/color][color=#6BFF00]n[/color] [color=#00FF35]o[/color][color=#00FF86]f[/color] [color=#00D6FF]t[/color][color=#0086FF]h[/color][color=#0035FF]e[/color] [color=#6B00FF]W[/color][color=#BB00FF]e[/color][color=#FF00F1]e[/color][color=#FF00A1]k[/color][color=#FF0050]![/color][/b] [color=c4000d] [b]Congratulations to [nation]Bolotnaya[/nation]![/color][/b]
+[b][color=#FF0000]N[/color][color=#FF5000]a[/color][color=#FFA100]t[/color][color=#FFF100]i[/color][color=#BBFF00]o[/color][color=#6BFF00]n[/color] [color=#00FF35]o[/color][color=#00FF86]f[/color] [color=#00D6FF]t[/color][color=#0086FF]h[/color][color=#0035FF]e[/color] [color=#6B00FF]W[/color][color=#BB00FF]e[/color][color=#FF00F1]e[/color][color=#FF00A1]k[/color][color=#FF0050]![/color][/b] [color=c4000d] [b]Congratulations to [nation]Saschia II[/nation]![/color][/b]
 [hr]
 
-[b][i][color=#40ECFF]E[/color][color=#49E2F8]n[/color][color=#53D8F2]d[/color][color=#5CCEEC]o[/color][color=#66C4E6]r[/color][color=#6FBAE0]s[/color][color=#79B0DA]e[/color] [color=#8C9CCD]t[/color][color=#9592C7]h[/color][color=#9F88C1]e[/color] [color=#B275B5]D[/color][color=#BC6BAF]e[/color][color=#C561A8]l[/color][color=#CF57A2]e[/color][color=#D84D9C]g[/color][color=#E24396]a[/color][color=#EB3990]t[/color][color=#F52F8A]e[/color][/i][/b] [b][nation]Great Alemonia[/nation]![/b]
+[b][i][color=#40ECFF]E[/color][color=#49E2F8]n[/color][color=#53D8F2]d[/color][color=#5CCEEC]o[/color][color=#66C4E6]r[/color][color=#6FBAE0]s[/color][color=#79B0DA]e[/color] [color=#8C9CCD]t[/color][color=#9592C7]h[/color][color=#9F88C1]e[/color] [color=#B275B5]D[/color][color=#BC6BAF]e[/color][color=#C561A8]l[/color][color=#CF57A2]e[/color][color=#D84D9C]g[/color][color=#E24396]a[/color][color=#EB3990]t[/color][color=#F52F8A]e[/color][/i][/b] [b][nation]Bolotnaya[/nation]![/b]
