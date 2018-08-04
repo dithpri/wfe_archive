@@ -10,9 +10,9 @@
 [hr]
 
 
-All Hail Our New Revolutionary Leader: [nation]The Independent States of Allied Forces[/nation]
+All Hail Our New Revolutionary Leader : [nation]The Independent States of Allied Forces[/nation]
 
-All Hail Our Revolutionary Mother: [nation]Zenny[/nation]
+All Hail Our Revolutionary Mother : [nation]Zenny[/nation]
 
 Please Endorse Our WA Delegate: [B][nation]The Independent States of Allied Forces[/nation][/B]
 Please do not seek more than [B]70%[/B] of the Delegate&#39;s endorsements.
