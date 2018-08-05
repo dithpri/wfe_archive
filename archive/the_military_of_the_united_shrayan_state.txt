@@ -3,6 +3,6 @@
 [b]Headquarters: Sionova, [region]Shrayan Bose[/region]
 
 Major General: [nation]United Shrayan States[/nation]
-Air force general: [nation]General Shrayan[/nation]
+ 
 Naval General: [nation]Ritam[/nation]
-Army General: [nation]Saless Polin[/nation][/b]
+ [/b]
