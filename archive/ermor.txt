@@ -1,8 +1,6 @@
-[b][u][color=red]Welcome to Ermor, Bastion of the New Faith[/color][/u][/b]
-[i][color=darkred]~Founded September 18th, 2015~[/color][/i]
-[hr][color=purple][B][u]Senatorial Magistrates[/u]
-Quaestor(s): [nation]Ostropolita[/nation][/B][/color]
-[hr][color=goldenrod][B][u]Plebeian Magistrates[/u]
-No serving governors.[/B][/color]
-[hr][B][url=https://groups.google.com/d/forum/ermorinvicta]Forum of the Republic[/url][/B]
-[hr][u][b][url=https://www.youtube.com/watch?v=2iiRrjiIuSU]Imperium Ermorianum[/url][/b][/u]
+[b][color=19b5e5]This region has been conquered by the mighty armadas of [region]The Ragerian Imperium[/region]! Come [url=http://ragerianimperium.proboards.com/]join[/url] our impeccable fleet today!
+[/color][color=000000][hr][u]Raiding Fleet[/u]
+Emperor [nation]Vulturret[/nation] (Trigger)
+Admiral [nation]Samsonyte[/nation]
+Captain [nation]Slitherin Snakes[/nation]
+[/b][/color]

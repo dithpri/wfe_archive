@@ -13,7 +13,7 @@ Prime Minister: [nation]LiaBilia[/nation]
 Chief Justice: [nation]United Sentinel States[/nation]
 Secretary of State: [nation]Punk Anarchy[/nation]
 The Attorney General: [nation]Darusia[/nation]
-The Public Advocate: [nation]Zetox[/nation]
+
 
 [HR][b]Direct Ambassadors:[/b]
 [region]The League of States[/region]: [nation]Franqia[/nation]

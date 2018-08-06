@@ -8,7 +8,3 @@ Other active nations:
 [nation]seagull[/nation]
 [nation]krakatau[/nation]
 [nation]selayar[/nation]
-[nation]awan[/nation]
-[nation]alligator[/nation]
-[nation]mojopahit[/nation]
-[nation]fatehaven[/nation]
