@@ -1,7 +1,7 @@
  
 
 [color=gold][b]Welcome to the Imperium Flavo[/b][/color] 
-[i]Current Imperial Population: 88[/i] (507)
+[i]Current Imperial Population: 88[/i]
 
 [color=grey][hr][/color]
 
@@ -19,4 +19,4 @@
 
 [color=gold][B]Endorsement Policy:[/B][/color] Residents are free to endorse whomever they wish.
 
-[color=gold][B]Imperial News:[/B][/color] The [region]New Western Atlantic[/region] has just become a vassal. Honors to [nation]Suternia[/nation] on being a sleeper for all this time.
+[color=gold][B]Imperial News:[/B][/color]
