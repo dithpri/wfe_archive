@@ -17,6 +17,6 @@
 [color=orange]LEVEL 2 (Threat imminent)[/color]
 [color=yellow]LEVEL 3 (Threat likely)[/color]
 [color=green]LEVEL 4 (possible threat may arise)[/color]
-[color=blue][b]LEVEL 5 (no threat present)[/b][/color]
+[color=blue][b]CURRENT:LEVEL 5 (no threat present)[/b][/color]
 
 [color=red][b]WE ARE GONNA MAKE THE WORLD GREATER!!![/b][/color][/u]

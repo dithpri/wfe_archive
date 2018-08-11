@@ -13,7 +13,7 @@
 [color=009dbf][b]Vice President:[/b][/color] [nation]Bolotnaya[/nation]
 [color=6bb700][b]Minister for Foreign Affairs:[/b] [nation]MaddieMaddiebobaddie[/nation]
 [b]Minister for Domestic Affairs:[/b] [nation]Kingstonia II[/nation]
-[b]Minister for Immigration:[/b] [i]Vacant[/i]
+[b]Minister for Immigration:[/b] [i][nation]Sazjoni[/nation][/i]
 [/color]
 
 [hr]
