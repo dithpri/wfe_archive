@@ -7,5 +7,6 @@
 [b][i]Gott mit uns![/i][/b]
 
 [hr][color=goldenrod][u][b]K&ouml;nigliche Verwaltung[/b][/u][/color]
-[b]&amp;#10016; K&ouml;nig von Preu&szlig;en:[/b] [nation]Prussia Brandenburg[/nation]
-[b]&amp;#10016; Ministerpr&auml;sident:[/b] [nation]Iron Prussia[/nation]
+[list][*][b]K&ouml;nig von Preu&szlig;en:[/b] [nation]Prussia Brandenburg[/nation]
+[*][b]Ministerpr&auml;sident:[/b] [nation]Iron Prussia[/nation]
+[/list]

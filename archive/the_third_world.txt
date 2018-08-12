@@ -6,7 +6,7 @@
 [color=green]Every embassy request will be accepted.[/color]
 
 [color=black]The Union Alliance:[/color]
-[u][b][region]The Third World[/region],[region]The Greater Central Pacific[/region], [region]The Eastern Union[/region],[region]Intisar[/region] and [region]The Lower Ring[/region].[/b][/u]
+[u][b][region]The Third World[/region],[strike]The Greater Central Pacific[/strike], [region]The Eastern Union[/region],[region]Intisar[/region] and [region]The Lower Ring[/region].[/b][/u]
 
 [color=black]Economical Alliance:[/color]
 [color=red]The most Important in [region]The Third World[/region] (TTW) is Economical Alliance.This will focusing on such as Embassy Requesting.[/color]
