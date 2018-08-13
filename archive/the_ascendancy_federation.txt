@@ -1,13 +1,14 @@
 Welcome!
 
 If you&#39;re reading this, that means that your region is (hopefully) a member of [b]The Ascendancy Federation[/b].
-We hope you choose to stay a while![hr]
-This region is a puppet storage for all regions in The Ascendancy Federation and is also a base of operations for military exercises.[hr]
+Unfortunately, there won&#39;t be much activity here, so feel free to check out any of our [b]Member Regions[/b] below![hr]
+This region is a puppet storage for all regions in The Ascendancy Federation.[hr]
 [region]The United Nations of CASA[/region]
 [region]Assembly of Independent Nations[/region]
 [region]The United Countries of Carbon[/region]
 [region]Uniterra[/region]
-[region]The Democratika[/region][hr]
+[region]The Democratika[/region]
+[region]The Mediterranean Commonwealth[/region][hr]
 [b]Security Status:[/b] [color=Green][b]Borders Open[/b][/color]
 [b]Combat Commands:[/b] [color=green]Begin Training[/color]
 [b]Military Movement:[/b] [color=Green]Stand-by Position[/color]

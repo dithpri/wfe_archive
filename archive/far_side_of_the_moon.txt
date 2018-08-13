@@ -12,4 +12,7 @@ List of nations that has returned peacefully:
 [nation]4 Vesta[/nation]
 [nation]50000 Quaoar[/nation]
 [nation]Halley Comet[/nation]
+[nation]arneesh[/nation]
+[nation]amphithere[/nation]
+[nation]hiding hole[/nation]
 [/spoiler]
