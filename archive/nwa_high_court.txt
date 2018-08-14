@@ -1,29 +1,31 @@
-Welcome to the High Court for the [b][region]New Western Atlantic[/region][/b]! [b]||[/b] [b][i]Getting There Together[/b][/i][hr]
+[color=#FF4500][b]Welcome to the High Court for the[/color][/b] [b][region]New Western Atlantic[/region][/b]! [b]||[/b][color=#FFC011] [b][i]Getting There Together[/b][/i][/color][hr]
 
-[color=#FFD700]&amp;#9878;[/color][b] Composition [/b][color=#FFD700]&amp;#9878;[/color]
+[color=#FFD700]&amp;#9878;[/color][color=#FF4500][b] Composition [/b][/color][color=#FFD700]&amp;#9878;[/color]
 
 [list][*][i]Chief Justice[/i] : [nation]Katarial[/nation]
 [*][i]Associate Justices[/i]:
 [list][*][nation]Engium[/nation]
 [*][nation]Dertas[/nation]
 [*][nation]Sozland[/nation]
-[*][nation]Trump and Pence[/nation][/list][/list]
+[*][nation]Justice Trump and Pence[/nation]
 [hr]
-[b][u]Current Case(s)[/u] |[/b] [i]
+[color=#FF0000][b][u]Current Case(s)[/u] |[/b][/color] [i]
 [list][*]Courtroom 1: 
 [*]Courtroom 2: 
 [*]Courtroom 3: 
 [/list][/i]
 
-[b][u]Recent Verdict(s)[/u] |[/b] [i]Political Deceit Act LR-061 Constitutionality([b]Constitutional[/b])[/i]
+[color=#FF0000][b][u]Recent Verdict(s)[/u] |[/b][/color] [i][nation]Dependants[/nation] v [nation]Struberria[/nation]
+This Court has ruled to dismiss the case [/i]
 
-[b][u]Upcoming Case(s)[/u] |[/b] [i]None[/i]
+[color=#FF0000][b][u]Upcoming Case(s)[/u] |[/b][/color] [i]None[/i]
 [hr]
-[b]Courtrooms[/b]
-[list][*][region][/region]
-[*][region][/region]
-[*][region][/region][/list]
+[color=#FF4500][b]Courtrooms[/b][/color]
+UNDER CONSTRUCTION
+[list][*] [region]New Western Atlantic High Courtroom 1[/region]
+[*] [region]New Western Atlantic High Courtroom 2[/region]
+[*][/list]
 [hr]
 [color=#FFD700] [/color] [b]File a Case[/b] [color=#FFD700] [/color]
 
-Formats for filling a case can be found [url=https://www.nationstates.net/nation=nwa_chief_justice/detail=factbook/id=959971]here[/url]
+[color=#FF4500]Formats for filling a case can be found [url=https://www.nationstates.net/nation=nwa_chief_justice/detail=factbook/id=959971]here[/url][/color]

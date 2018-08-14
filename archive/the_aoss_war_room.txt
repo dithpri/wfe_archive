@@ -2,9 +2,16 @@ Welcome to the War Room of [region]The Assembly of Sovereign States[/region].
 
 Stand up, hook up, shuffle to the door, its time to have an all out war
 [hr]
-[spoiler=Current Conflicts][b]Current Conflicts: [/b]
-[i]Selskan Civil War[/i]
+[b]Current Conflicts: [/b]
+[spoiler=Selskian Civil War][i]Selskan Civil War[/i]
 - Location: [nation]Selska[/nation]
 - Date begun: August 28th, 2018
-- Government (Zionists) assisted by: N/A
+- Government (Zionists) assisted by: [nation]Selska[/nation]
 - Rebels (The Islamic Council) assisted by [nation]Grey Earth[/nation][/spoiler]
+[spoiler=Ludencroft Conflict][i]Ludencroft Conflict[/i]
+- Location: Central and northern Europe
+- Date begun: August 30th, 2018
+- Aggressors
+[list][*][nation]Ludencroft[/nation]
+[*][nation]Aressna[/nation]
+[*][nation]Grey Earth[/nation][/list][/spoiler]
