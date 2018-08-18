@@ -13,7 +13,6 @@
 [hr]
 
 [b]Send game orders to [nation]NaturalLaws[/nation][/b]
-[b]Send tech orders to the [url=https://goo.gl/forms/yiyQ8rRAaGaJEtDh2]Tech Request Form[/url][/b]
 
 [hr]
 
@@ -23,9 +22,3 @@
 [*] Cabal
 [*] Thermyronia war
 [/list][/i]
-
-[hr]
-
-[b]Other Useful Links[/b]
-[list]
-[*][url=https://docs.google.com/forms/d/e/1FAIpQLSeyn87BPcb6eZl1G50hhpAr6Tckk_G8tl-8czLNCzfFb_Siiw/viewform?usp=sf_link]Map Request Form[/url]
