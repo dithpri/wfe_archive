@@ -1,9 +1,7 @@
-[color=gray]----------------------------------------------------------------------------------------------------------------------------------------------------------------------------[/color]
-
 [region]Brookline[/region] is a suburb of Boston, Massachusetts, as well as a prominent region of world powers. Brookline ceased to exist in May of 2018, but was resurrected by [nation]Olliestan[/nation] in August 2018. 
 The founding members of [region]Brookline[/region] were:
-~[nation]Aurelien[/nation]
 ~[nation]Mah Coliny[/nation]
+~[nation]Aurelien[/nation]
 ~[nation]Linksma[/nation]
 ~[nation]Arbor Domus[/nation]
 Additions since [region]Brookline[/region]&#39;s founding:
@@ -13,5 +11,5 @@ Additions since [region]Brookline[/region]&#39;s founding:
 ~[nation]Cinnamon Toast[/nation]
 ~[nation]Corn Kingdom[/nation]
 ~[nation]ROSCOLUX 302[/nation]
-
-[color=gray]----------------------------------------------------------------------------------------------------------------------------------------------------------------------------[/color]
+~[nation]Jonesey[/nation]
+~[nation]West Earka Cotheight[/nation]
