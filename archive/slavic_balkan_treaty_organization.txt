@@ -2,14 +2,9 @@
 
 [U]Member regions:[/U]
 [Region]Velika Slavia[/region] ([region]Imperium Slavicum[/region])
-[region]Holy Byzantine Eurasian Confederacy[/region]
-[region]Confederacy of Independent Slavic States[/region]
-[region]Slavic Supremacy Pact[/region]
-[region]Manya[/region]
-[region]Central Eastern Europe[/region]
 [region]The Kaiserreich[/region]
 [region]Krasnaya[/region]
-[region]Balto Slavic unity[/region]
+
 
 ALL SLAVIC/BALKAN THEMED REGIONS WILL BE DEFENDED BY SBTO
 [/b]
