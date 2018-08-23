@@ -4,10 +4,10 @@
 
 [list][*][i]Chief Justice[/i] : [nation]Katarial[/nation]
 [*][i]Associate Justices[/i]:
-[list][*][nation]Engium[/nation]
+[*][nation]Engium[/nation]
 [*][nation]Dertas[/nation]
 [*][nation]Sozland[/nation]
-[*][nation]Justice Trump and Pence[/nation]
+[*][nation]Justice Trump and Pence[/nation][/list]
 [hr]
 [color=#FF0000][b][u]Current Case(s)[/u] |[/b][/color] [i]
 [list][*]Courtroom 1: 
@@ -27,4 +27,4 @@ This Court has ruled to dismiss the case [/i]
 [hr]
 [color=#FFD700] [/color] [b]File a Case[/b] [color=#FFD700] [/color]
 
-[color=#FF4500]Formats for filling a case can be found [url=https://www.nationstates.net/nation=nwa_chief_justice/detail=factbook/id=959971]here[/url][/color]
+[color=#FF4500]Formats for filling a case can be found [url=https://www.nationstates.net/nation=justice_trump_and_pence/detail=factbook/id=1074507]here[/url][/color]

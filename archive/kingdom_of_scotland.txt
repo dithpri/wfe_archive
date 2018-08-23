@@ -16,7 +16,7 @@ King [nation=short]Colinosis[/nation]
 
 Queen: TBD
 
-Am Pr&igrave;omhaire: [nation=short]Nobles of Scotland[/nation]
+Am Pr&igrave;omhaire:
 Foreign Minister: [nation=short]Punchwood[/nation]
 Internal Minister: TBA
 Defense Minister: TBA
