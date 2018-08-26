@@ -10,13 +10,13 @@
 [*][nation]Justice Trump and Pence[/nation][/list]
 [hr]
 [color=#FF0000][b][u]Current Case(s)[/u] |[/b][/color] [i]
-[list][*]Courtroom 1: [region]New Western Atlantic[/region] v [nation]Bennisia[/nation]
+[list][*]Courtroom 1: 
 [*]Courtroom 2: 
 [*]Courtroom 3: 
 [/list][/i]
 
-[color=#FF0000][b][u]Recent Verdict(s)[/u] |[/b][/color] [i][nation]Dependants[/nation] v [nation]Struberria[/nation]
-This Court has ruled to dismiss the case [/i]
+[color=#FF0000][b][u]Recent Verdict(s)[/u] |[/b][/color] [i][region]New Western Atlantic[/region] v [nation]Bennisia[/nation]
+The Plaintiff has withdrawn the case during Pre Trial Phase [/i]
 
 [color=#FF0000][b][u]Upcoming Case(s)[/u] |[/b][/color] [i]None[/i]
 [hr]

@@ -1,7 +1,8 @@
 [B][color=blue]We are now a protectorate of the NPO, and gladly work alongside them in their endeavors.[/color][/B]
 [hr]
 
-[b][color=red]Welcome to The Kingdom of Scotland[/color]
+[b][color=blue]Welcome to The Kingdom of Scotland[/color]
+[color=red]F&agrave;ilte gu R&igrave;oghachd na h-Alba[/color]
 [u]Est. 18 APR 2018[/u][/b]
 [hr]
 [b][i]&quot;GOD SAVE THE KING&quot;[/i][/b]
@@ -14,14 +15,12 @@
 
 King [nation=short]Colinosis[/nation]
 
-Queen: TBD
+Queen: TBA
 
-Am Pr&igrave;omhaire:
-Foreign Minister: [nation=short]Punchwood[/nation]
+Am Pr&igrave;omhaire: [nation=short]Punchwood[/nation]
+Foreign Minister: TBA
 Internal Minister: TBA
 Defense Minister: TBA
-Security Minister: TBA
-Culture Minister: TBA
 Justice Minister: [nation]Imperial Edinburgh[/nation]
 
 [hr]|[url=https://nationstatesplusplus.net/]NS++[/url]|[url=http://www.nstrackers.net/]NS:Tracker[/url]|[url=http://s15.zetaboards.com/Royal_Scotland/index/]Regional Forums [/url]|[url=https://discord.gg/ACqtX9k]Discord[/url]|
@@ -42,6 +41,3 @@ Justice Minister: [nation]Imperial Edinburgh[/nation]
 [b][u][color=darkred]&amp;gt;&amp;gt;RMB Topic&amp;lt;&amp;lt;[/color][/u][/b]
 
 Should Scotland Leave the United Kingdom?
-
-[hr][b]DEFCON Level: [color=blue]5[/color][/b]
-[hr]
