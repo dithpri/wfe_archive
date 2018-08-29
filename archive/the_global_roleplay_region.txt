@@ -13,7 +13,7 @@ Have fun!
 [nation]Grand Chinese Republic[/nation] - ???
 [nation]Firolandia[/nation] - de facto
 [color=#3CB371][b][u]Tech Consultant:[/b][/u][/color]
-XXX
+[nation]Terran Directorate[/nation]
 [color=#3CB371][b][u]Economics Consultant:[/b][/u][/color]
 XXX
 [hr]

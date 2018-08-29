@@ -1,12 +1,16 @@
 [color=blue] [b]Welcome to Dark Raven[/color]
 
-Home of the [region]Union of Allied States[/region] 
-Military Forces[/b]
-
-[nation]South Waterford[/nation]
-Chairman of the State Council 
-[region]Union of Allied States[/region]
+The Multi Regional Defense Military Forces[/b]
 
 [nation]Handal Ands[/nation]
-Commander in Chief of the Armed Forces
+Supreme Commander in Chief of the Armed Forces[HR]
+[b][u]Board of Directors[/u][/b]:
+
+[nation]Handal Ands[/nation]
+Chairman of the Board of Directors
+and Supreme Commander in Chief of [region]Dark Raven[/region] and Member of the [region]Union of Allied States[/region]
+
+[nation]South Waterford[/nation]
+Chief Recruitment Officer of [region]Dark Raven[/region] and
+Member of the [region]Union of Allied States[/region]
 

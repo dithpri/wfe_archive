@@ -9,4 +9,5 @@
 [b]REGIONAL GOVERNMENT: 
 [*][color=red]Commander of the Region : [nation]Mouth Natin[/nation][/color]
 [*][color=blue]Secondary Commander : [nation]The Central Shadow Nation[/nation][/color]
-[*][i]Emergency Commander[/i] (In case of raids or possible CTE of two main Commanders) : [nation]Omega America II[/nation][/b]
+[*][i]Emergency Commander[/i] (In case of raids or possible CTE of two main Commanders) : [nation]Omega America II[/nation]
+[*][i]Map Maker:[/i] [nation]Vaikneland[/nation][/b]
