@@ -6,7 +6,6 @@ This region is a puppet storage for all regions in The Ascendancy Federation.[hr
 [region]The United Nations of CASA[/region]
 [region]Assembly of Independent Nations[/region]
 [region]Uniterra[/region]
-[region]The Democratika[/region]
 [region]The Mediterranean Commonwealth[/region][hr]
 [b]Security Status:[/b] [color=Green][b]Borders Open[/b][/color]
 [b]Combat Commands:[/b] [color=green]Begin Training[/color]
