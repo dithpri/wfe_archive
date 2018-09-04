@@ -7,7 +7,7 @@
 
 [list][i]Deputy Chancellor[/i]:  [i][nation=short+noflag]Josephtan[/nation] ([color=#FFBF00]LD[/color])[/i]
 
-[i]Deputy Chancellor[/i]:  [i][nation=short+noflag]South Cumbria[/nation] ([color=#E4287C]SOC[/color])[/i][/list]
+[i]Coalition Party Leader[/i]:  [i][nation=short+noflag]New Academ[/nation] ([color=#E4287C]SOC[/color])[/i][/list]
 
 [b][i]Shadow Chancellor[/i]: [nation=short+noflag]Calponia[/nation] ([color=#FE2E2E]CON[/color])[/b]
 
@@ -15,10 +15,10 @@
 
 [/list][/list][hr][hr]
 [LIST]
-[U][I][b]Current Business:[/b][/u] The Justice Ministry Reform and Codification Act - L.R. 92
+[U][I][b]Current Business:[/b][/u] Candidacy Deadline Act - L.R. 93
 
-[U][B]Previous Business:[/b][/u] The High Court Checks &amp; Balances Act - L.R. 91 ([color=red]FAILED[/color])
+[U][B]Previous Business:[/b][/u] The Justice Ministry Reform and Codification Act - L.R. 92 ([color=green]PASSED[/color])
 
-[U][b]Next Scheduled Business:[/b][/u] Candidacy Deadline Act [/i][/LIST]
+[U][b]Next Scheduled Business:[/b][/u] TBC [/i][/LIST]
 
 [hr][hr]
