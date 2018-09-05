@@ -1,1 +1,8 @@
-Welcome to the Iron Empire, the world&#39;s number one exporter of iron, hence the name. We also have an elite military, [region]The Iron Legion[/region]!
+[b]Welcome to the Iron Empire[/b]
+#[i]1 in the World in Iron Mining[/i]
+
+[hr][list][*][b]Emperor:[/b] [nation]The Iron Emperor[/nation]
+
+[*][b]Motto:[/b] Strike while the iron is hot.
+
+[*][b]Military base: [region]The Iron Legion[/region][/b]

@@ -11,19 +11,19 @@
 [hr]
 [color=#FF0000][b][u]Current Case(s)[/u] |[/b][/color] [i]
 [list][*]Courtroom 1: [nation]The United Fura[/nation] v [nation]Marinne[/nation]
-[*]Courtroom 2: 
+[*]Courtroom 2: [region]New Western Atlantic[/region] &amp; [nation]The United Dark Republic[/nation] v [nation]Testimonium Sint Corruptionem[/nation]
 [*]Courtroom 3: 
 [/list][/i]
 
 [color=#FF0000][b][u]Recent Verdict(s)[/u] |[/b][/color] [i][region]New Western Atlantic[/region] v [nation]Bennisia[/nation]
 The Plaintiff has withdrawn the case during Pre Trial Phase [/i]
 
-[color=#FF0000][b][u]Upcoming Case(s)[/u] |[/b][/color] [i]None[/i]
+[color=#FF0000][b][u]Upcoming Case(s)[/u] |[/b][/color] [i]Constitutional challenge to L.R. 73 The Political Deceit Act[/i]
 [hr]
 [color=#FF4500][b]Courtrooms[/b][/color]
 [list][*] [region]New Western Atlantic High Courtroom 1[/region]
 [*] [region]New Western Atlantic High Courtroom 2[/region]
-[*][/list]
+[*][region]New Western Atlantic High Courtroom 3[/region][/list]
 [hr]
 [color=#FFD700] [/color] [b]File a Case[/b] [color=#FFD700] [/color]
 
