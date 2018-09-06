@@ -1,12 +1,18 @@
-The Eurasian Defense Pact ensures the safety of everyone in from foreign aggression,this pact also promises trade and cooperation of the productivity of nations.
+[region]THE EURASIAN DEFENSE PACT[/region] ensures the safety of everyone in from foreign aggression,this pact also promises trade and cooperation of the productivity of nations.The most powerful country here is [nation]The Fedaration of Russia[/nation].
 Nations in the Alliance:
--https://www.nationstates.net/nation=the_fedaration_of_russia
--https://www.nationstates.net/nation=the_polish_lithuania_empire
--https://www.nationstates.net/nation=jcjb
--https://www.nationstates.net/nation=mongolian_sr
--https://www.nationstates.net/nation=the_finnish_federal_republic
--https://www.nationstates.net/nation=the_bulgaria_republic
--https://www.nationstates.net/nation=rasisco
--https://www.nationstates.net/nation=the_yugoslav_republic
--https://www.nationstates.net/nation=marxist_austro-germany
--https://www.nationstates.net/nation=sakhalin_sdr
+[nation]The Fedaration of Russia[/nation] -Founders
+[nation]The Polish Lithuania Empire[/nation] -Founders
+[nation]The Yugoslav Republic[/nation] -Military Director
+[nation]Sakhalin SDR[/nation]
+[nation]JCJB[/nation] -Peacemaker
+[nation]Rasisco[/nation]
+[nation]The Bulgaria Republic[/nation]
+[nation]The Finnish Federal Republic[/nation]
+[nation]Mongolian SR[/nation]
+[nation]Himatokoro[/nation]
+Overseas Nations:
+[nation]The Russian Amerikan State[/nation]
+Diplomats from other countries:
+[nation]Marxist Austro-Germany[/nation]
+[nation]Artyoskin Ohio[/nation]
+

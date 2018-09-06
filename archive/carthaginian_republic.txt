@@ -1,8 +1,9 @@
 [b][color=darkred]Welcome to the Carthaginian Republic, home of the Carthaginian civilization[/color][/b]
 
-[b]King/Shophet:[/b] [nation]Carthege[/nation]
+[hr][u][b][color=purple]Government[/color][/b][/u]
+[list][*][b]King/Shophet:[/b] [nation]Carthege[/nation]
 
-[b][color=navy]Suffets&#39; Council:[/color][/b] [i]TBD[/i]
-[b][color=darkgreen]Supreme Council:[/color][/b] [i]TBD[/i]
+[*][b][color=navy]Suffets&#39; Council:[/color][/b] [i]TBD[/i]
+[*][b][color=darkgreen]Supreme Council:[/color][/b] [i]TBD[/i][/list]
 
-Work in progress. Stay tuned for further developments.
+[hr][b][color=purple]News:[/color][/b] Work in progress. Stay tuned for further developments.

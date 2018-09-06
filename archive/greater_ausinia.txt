@@ -17,9 +17,10 @@ Original Members:
 
 [b]Government:[/b]
 
-Prime Minister: [nation]Ausinia[/nation]
-Deputy Minister:[nation]Tongarlia[/nation]
-Minister for Defense: [nation]Finliving[/nation]
+Founder: [nation]Ausinia[/nation]
+Deputy:[nation]Tongarlia[/nation]
+Minister of Tourism:[nation]Spekandria[/nation]
+Minister for Agriculture: [nation]Finliving[/nation]
 Minister for Foreign Affairs:[nation]Qeresla[/nation]
 
 [i]      Elections occur every 4 IG Years[/i]
