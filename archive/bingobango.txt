@@ -7,13 +7,14 @@
 [nation]Al-Bawaba[/nation] [nation]Al-Shams[/nation] [nation]Al-Mauj[/nation]
 
 [i]Infi[/i]
-[nation]Himbaland[/nation] [nation]New Moloteva[/nation] [nation]Holististan[/nation] 
+[nation]Himbaland[/nation] [nation]Old Moloteva[/nation] [nation]New Moloteva[/nation] [nation]Holististan[/nation] 
 
 [i]The Far East and The Forsaken Lands[/i]
 [nation]Dainippon[/nation] and its colonies [nation]Chonkoku[/nation], [nation]Chankorokuni[/nation] and [nation]Daimanshu[/nation]
 [nation]Aleumdaunttang[/nation]
 [nation]Ching-Chong-Chu[/nation]
 [nation]The Righteous Realm[/nation]
+[Nation]Furusato[/nation]
 
 [i]Thedas[/i]
 [nation]Orlais and Ferelden[/nation] [nation]Transorlesia[/nation] [nation]Cisorlesia[/nation] 
