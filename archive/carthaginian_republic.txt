@@ -3,9 +3,8 @@
 We are Carthage! We are those who stroke fear into the greatest empire in the world! We are those who marched elephants where others fell with soldiers! We are the soldiers who marched to Rome, only to be defeated! To come so far and to achieve so less is no longer tolerated! [i]Carthage has risen again![/i]
 
 [hr][u][b][color=purple]Government[/color][/b][/u]
-[list][*][b]Shophet:[/b] [nation]Carthege[/nation]
+[list][*][b][color=teal]Shophet:[/b][/color] [nation]Carthege[/nation]
 
-[*][b][color=navy]Suffets&#39; Council:[/color][/b] [i]TBD[/i]
 [*][b][color=darkgreen]Supreme Council:[/color][/b] [i]TBD[/i][/list]
 
 [hr][b][color=purple]News:[/color][/b] Work in progress. Stay tuned for further developments.
