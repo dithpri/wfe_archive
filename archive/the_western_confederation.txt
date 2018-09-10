@@ -11,10 +11,19 @@ Constitution:
 
 [b]-Members of Government-[/b]
 
-Emperor: 
+Emperor: [nation]Great Jeb[/nation]
 
 Region President:
 
 Chief Minister:
 
 Minister of Foreign Affairs:
+
+Minister of Region Security:
+
+Minister of War and Defense:
+
+President of the Representatives: 
+
+Representatives:
+

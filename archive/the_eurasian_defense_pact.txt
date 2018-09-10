@@ -12,6 +12,7 @@ Nations in the Alliance:
 [nation]Himatokoro[/nation]
 Overseas Nations:
 [nation]The Russian Amerikan State[/nation]
+[nation]The African Unity[/nation]
 Diplomats from other countries:
 [nation]Marxist Austro-Germany[/nation]
 [nation]Artyoskin Ohio[/nation]
