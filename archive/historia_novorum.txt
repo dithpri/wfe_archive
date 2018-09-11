@@ -10,9 +10,9 @@
 [hr]
 
 [color=darkred][b][i][u]Ministry[/u][/b][/color][/i]
-[nation=short]Mosinuslavia[/nation]
-[nation=short]Italizio[/nation]
-[nation=short]Velykyy Ukraina[/nation]
+[nation=short]Old Glory America[/nation]
+[nation=short]Turkest[/nation]
+[nation=short]Pontous[/nation]
 
 [color=darkred][b][i][u]Cartographer[/i][/u][/b][/color]
 [nation=short]Velykyy Ukraina[/nation]
