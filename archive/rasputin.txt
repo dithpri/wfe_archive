@@ -1,7 +1,5 @@
 [i][b][color=red]Welcome to the Rasputin Region![/color][/b][/i]
 
-[color=orange]We welcome any and all regions, but the more leftist your nation is, the more it&#39;ll fit in![/color]
-
 [u][color=purple]About Rasputin[/color][/u]
 [color=purple]-Every two months on the 30th are elections for administrative positions. The next election is October 30th, any nation can run.[/color]
 
@@ -9,6 +7,7 @@
 
 [b][color=red]Our Administration[/color][/b]
 
+[b][color=orange]Founder / WA Delegate:[/color][/b] [nation]North Rasputin[/nation]
 [b][color=red]Chief Minister:[/color][/b] [nation]West Rasputin[/nation]
 [b][color=red]Deputy Chief Minister:[/color][/b] [nation]East Rasputin[/nation]
 [b][color=red]Minister of Internal Affairs:[/color][/b] [nation]South Rasputin[/nation]
