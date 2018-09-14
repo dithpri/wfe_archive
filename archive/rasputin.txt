@@ -10,5 +10,6 @@
 [b][color=orange]Founder / WA Delegate:[/color][/b] [nation]North Rasputin[/nation]
 [b][color=red]Chief Minister:[/color][/b] [nation]West Rasputin[/nation]
 [b][color=red]Deputy Chief Minister:[/color][/b] [nation]East Rasputin[/nation]
-[b][color=red]Minister of Internal Affairs:[/color][/b] [nation]South Rasputin[/nation]
+[b][color=red]Minister of Domestic Affairs:[/color][/b] [nation]South Rasputin[/nation]
+[b][color=red]Minister of Foreign Affairs[/color][/b] [nation]Slavic Greenland[/nation]
 [b][color=red]Vice Delegate:[/color][/b] [nation]Commie America[/nation]
