@@ -1,11 +1,13 @@
-[b]This is the official home of the Toast Club[/b]
+[color=red][b]This is th[/color][color=orange]e offi[/color][color=yellow]cial home o[/color][color=orange]f the T[/color][color=red]oast Club[/b][/color]
 
-Sorry for the interruption. Please all continue with your meals and if you need me, ring the bell!
+[i]*Sorry for the interruption. Please all continue with your meals and if you need me, ring the bell!*[/i]
 
-[color=blue]\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\/\\//\\//\\//\\//\\//\\//\\//\\/[/color]
+[b][color=blue]\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\/\\//\\//\\//\\//\\//\\//\\//\\//[/color][/b]
+[b]Head Chef[/b][color=white]---[/color][nation]The Peninsula of Prodacation[/nation] [b]Toast Club President[/b][color=white]---[/color] [nation]Legends of Kurea[/nation]
+[color=grey]_____________________________________________________________________________________________________________________________[/color]
 
 [b]Updated Menu[/b]    (9/10/18)
-[i][b]Food[/b][/i]
+[color=brown][i][b]Food[/b][/i][/color]
 [color=yellow]Grilled cheese[/color] ------- $5.68
 [color=green]Salad[/color]-----------$3.47 
 [b][i]Drinks[/i][/b]
