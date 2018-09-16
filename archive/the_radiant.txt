@@ -21,7 +21,7 @@ The Birthplace of D&aacute;xlam and Home to the [color=blue]Council of The Radia
 
 &amp;#128680; [b][color=red]Active Advisories &#151;[/color] [/b] 2
 
-[color=blue][b]Low Alert Advisory &#151;[/b] An Attack Is Unlikely[/color]
+[color=orange][b]Moderate Alert Advisory &#151;[/b] An Attack Is Possible[/color]
 
 [color=blue][b]Password protection is not in effect[/b][/color]
 
