@@ -15,6 +15,7 @@ Our Empire includes;
 ~ [region]The Kingdom of Hanover[/region]
 ~ [region]The Kingdom of Denmark[/region]
 ~ [region]The Kingdom of Sweden[/region]
+~ [region]The Duchy of Normandy[/region]
 
 We also directly govern;
 ~ [region]Tudor Britain[/region]*
