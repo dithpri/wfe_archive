@@ -11,6 +11,7 @@
 
 -[nation]Pekares[/nation] elected as President
 -Ministers appointed
+-You can tell [nation]Pekares[/nation] that you want to participate in the TGE Cup
 [/color]
 
 .*.*.*.*.*.*.*.*.*.*.
