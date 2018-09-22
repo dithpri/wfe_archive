@@ -3,19 +3,24 @@
 
 [b] [u] [color=brown] Officers: [/b] [/u] [/color]
 
-[color=red] [u][nation]Katz Kingdom 2[/nation][/u] Founder [/color]
-[color=orange][u][nation]Katz Kingdom 2[/nation][/u] WA Delegate [/color]
-[color=Gold][u][nation]Katz Kingdom 2[/nation][/u] Chief Officer*[/color]
-[color=green] [u][nation]George Patton[/nation][/u] Vice Chief Officer*[/color]
-[color=blue] [u][nation]1King1[/nation][/u] Head of Regional Design*[/color]
-[b] [color=grey] [Vacant] [/color] [color=purple] Vice Head of Regional Design [/b] [/color]
-[color=red] [u][nation]BlobbyBlobJr[/nation][/u] Head of Military Defense Forces*[/color]
-[color=orange] [u][nation]Whoogaboogaland[/nation][/u] Vice Head of Military Defense Forces[/color]
-[color=gold] [u][nation]Volscyian[/nation][/u] Head of Regional Alliances*[/color]
+[color=red] [u][nation]Katz Kingdom 2[/nation][/u] Founder
+[u][nation]Katz Kingdom 2[/nation][/u] WA Delegate
+[u][nation]Katz Kingdom 2[/nation][/u] Chief Officer*
+[u][nation]George Patton[/nation][/u] Vice Chief Officer*[/color]
+
+[color=orange] [u][nation]1King1[/nation][/u] Head of Regional Design* [/color]
+[b] [color=grey] [Vacant] [/color] [color=orange] Vice Head of Regional Design [/b][/color]
+
+[color=gold] [u][nation]BlobbyBlobJr[/nation][/u] Head of Military Defense Forces*
+[u][nation]Whoogaboogaland[/nation][/u] Vice Head of Military Defense Forces[/color]
+
+[color=green] [u][nation]Volscyian[/nation][/u] Head of Regional Alliances* [/color]
 [b] [color=grey] [Vacant] [/color] [color=green] Vice Head of Regional Alliances [/b] [/color]
-[b] [color=grey] [Vacant] [/color] [color=blue] Head of Regional Communications* [/b] [/color]
-[color=purple] [u][nation]PresidentLincoln[/nation][/u] Vice Head of Regional Communications[/color]
-[color=red] [u][nation]Otic Hun Feria[/nation][/u] Head of Research Development*[/color]
-[color=orange] [u][nation]Gayland1[/nation][/u] Vice Head of Research Development [/color]
+
+[b] [color=grey] [Vacant] [/color] [color=blue] Head of Regional Communications* [/b]
+[u][nation]PresidentLincoln[/nation][/u] Vice Head of Regional Communications[/color]
+
+[color=purple] [u][nation]Otic Hun Feria[/nation][/u] Head of Research Development*
+[u][nation]Gayland1[/nation][/u] Vice Head of Research Development [/color]
 
 [b] [color=brown] * Council Member [/color] [/b]

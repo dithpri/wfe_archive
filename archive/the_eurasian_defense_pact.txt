@@ -2,15 +2,11 @@
 
 Nations in the Alliance:
 [nation]The Fedaration of Russia[/nation],[nation]The Polish Lithuania Empire[/nation]
-[nation]The Yugoslav Republic[/nation], [nation]Sakhalin SDR[/nation]
-[nation]JCJB[/nation], [nation]Rasisco[/nation], [nation]The Bulgaria Republic[/nation]
-[nation]The Finnish Federal Republic[/nation], [nation]Mongolian SR[/nation]
-[nation]Himatokoro[/nation]
+[nation]The Yugoslav Republic[/nation], [nation]JCJB[/nation], [nation]Rasisco[/nation], [nation]The Bulgaria Republic[/nation], [nation]The Finnish Federal Republic[/nation], [nation]Mongolian SR[/nation], [nation]Himatokoro[/nation]
 [nation]The Estonian Independent Republic[/nation]
 [nation]The Latvian Republik[/nation]
 Overseas Nations:
 [nation]The Russian Amerikan State[/nation], [nation]The African Unity[/nation]
 Diplomats from other countries:
 [nation]Marxist Austro-Germany[/nation]
-[nation]Artyoskin Ohio[/nation]
 
