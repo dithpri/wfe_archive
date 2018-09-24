@@ -1,0 +1,3 @@
+This region is used as the hub of the Hollow World NationStates casual wargame, using the modified Faction Rules of Stars Without Number.
+
+The specific implementation of the rules of the game may be found in the HWDM Factbook, which contains comprehensive articles.

@@ -9,4 +9,6 @@ Head of State: [/color][color=green]Grand Viceroy [nation=noflag]Neerod[/nation]
 Head of Government: [/color][color=green]Chancellor (vacant) 
 [Hr]
 
+NSTracker: [region]Absolution[/region]
+
 [/color][color=red][i][b]Will you be able to lead this Kingdom to Greatness?[/b][/i][/color]
