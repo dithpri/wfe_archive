@@ -1,3 +1,9 @@
-[b]Welcome to Iberia![/b]
+[color=fire][b]Welcome to Iberia![/b][/color]
+[color=goldenrod][i]iBienvenidos a la regi&oacute;n de Iberia![/color]
+[color=navy]Bem-vindo para a regi&atilde;o de Iberia! [/i][/color]
 
-The [i]Iberian Peninsula[/i], also known as [i]Iberia[/i], is located in the southwest corner of Europe. The peninsula is principally divided between Portugal and Spain, comprising most of their territory. It also includes Andorra, and a small part of France along the peninsula&#39;s northeastern edge, as well as Gibraltar on its south coast. With an area of approximately 582,000 km2 (225,000 sq mi), it is the second largest European peninsula, after the Scandinavian.
+[hr]
+
+[color=green][u][b]Imperial Government[/b][/u][/color]
+[list][*][color=purple][b]Founder:[/b][/color] [nation]Union Iberica[/nation]
+[*][color=purple][b]King of the Iberians:[/b][/color] [nation]Portugal and Spain[/nation][/list]
