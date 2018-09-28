@@ -1,2 +1,3 @@
-[nation]Tyfan Union[/nation]
-PUPPET STORAGE
+[nation]Tyfa[/nation] puppet storage,
+
+[Nation=short]Tyfa[/nation] est. 2010

@@ -1,1 +1,6 @@
-Welcome to the ancient region of Babylonia, home of Hammurabi, Nebuchadnezzar II, and the Hanging Gardens.
+[color=goldenrod][i][b]&quot;Enter through the Ishtar Gate, for the great city of Babylon awaits.&quot;[/b][/i][/color]
+
+[color=midnightblue]Welcome to the ancient region of [b]Babylonia[/b], home of Hammurabi, Nebuchadnezzar II, and the Hanging Gardens.[/color]
+
+[hr][color=darkgoldenrod][u][b]Government[/b][/u][/color]
+[list][*][b]King of the [nation=noflag]Babylonians[/nation]:[/b] [nation]Babylonia[/nation][/list]
