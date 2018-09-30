@@ -1,6 +1,8 @@
  FIX
 
-picture it  Only+Animal,h
+picture it  Only+Animal,h  troop
 
   THANK-a
 Thank;
+
+Thanks;   Thanks   Thank   troop

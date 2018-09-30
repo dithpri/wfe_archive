@@ -2,12 +2,10 @@
 
 Nations in the Alliance:
 [region]The New USSR[/region]
-[nation]The Yugoslav Republic[/nation], [nation]JCJB[/nation], [nation]Rasisco[/nation], [nation]The Bulgaria Republic[/nation], 
-[nation]The Finnish Federal Republic[/nation], [nation]Himatokoro[/nation]
-[nation]The Estonian Independent Republic[/nation]
-[nation]The Latvian Republik[/nation]
+[nation=noflag]The Yugoslav Republic[/nation], [[nation=noflag]JCJB[/nation], [nation=noflag]Rasisco[/nation], [nation=noflag]The Bulgaria Republic[/nation], 
+[nation=noflag]The Finnish Federal Republic[/nation], [nation=noflag]Himatokoro[/nation]
+[nation=noflag]The Estonian Independent Republic[/nation]
+[nation=noflag]The Latvian Republik[/nation]
 Overseas Nations:
-[nation]The Russian Amerikan State[/nation], [nation]The African Unity[/nation]
-
-
+[nation=noflag]The Russian Amerikan State[/nation], [nation=noflag]African Unity[/nation]
 

@@ -1,4 +1,3 @@
-[color=453525][b]The Committee[/b]
-this is a [region=0000] puppet storage region
-no specific flagged nations are stored here[/color]
-[color=orange][b]No embassy offers accepted at this time[/b][/color]
+[color=maroon][b]the Committee[/b]
+a [region=0000] region
+[b]Founded:[/b] 2018 Sep 30[/color]

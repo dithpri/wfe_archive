@@ -1,4 +1,4 @@
-[b][color=b30000]The High Court of the region of [region]Frahuntzerland[/region].[/color][/b]
+[color=b30000][b]Welcome to the High Court of Frahuntzerland![/b][/color]
+[color=red]This region is a member of[/color] [color=b30000][b]The Adryvian Network.[/b][/color]
 [hr]
-
-[i]This is the High Court of Frahuntzerland, officially used for cases pertaining to the constitution. All justices on the court will have a puppet in this region.[/i]
+[i]This is the Constitutional High Court of Frahuntzerland. It shall also hear cases on major crimes and appeals pertainng to the laws of [region]Frahuntzerland[/region][/i]
