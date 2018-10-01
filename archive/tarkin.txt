@@ -4,14 +4,20 @@
 
 [b]|[url=https://www.nationstates.net/nation=tarkin/detail=factbook/id=main]Regional Constitution[/url]|[url=https://www.nationstates.net/nation=tark_migneria/detail=factbook/id=1099179]Regional Map[/url][/b]
 
-[b][color=red]Regional Elections on October 1st -[i] Declare Intentions to run[/i][/color][/b]
+ [b][u][color=black]Executive:[/color][/u][/b]
+[i]General Secretary[/i]:[nation=short]Mexidankistan[/nation]
+[i]Vice Secretary:[/i][nation=short]Caska[/nation]
 
- [b][u][color=black]Provisional Executive:[/color][/u][/b]
-[i]General Secretary[/i]:[nation=short]Theruhr[/nation]
-[i]Vice Secretary:[/i][nation=short]Flaxxony[/nation]
+[color=maroon][b]Senate[/b][/color]
+[Nation=short]Flaxxony[/nation]
+[Nation=short]The United States of Cole[/nation]
+[Nation=short]Gararia[/nation]
+[Nation=short]Gararia[/nation]
+[Nation=short]Abita Springs[/nation]
+[Nation=short]TheRuhr[/nation]
 
 
-[color=blue][b][u]Provisional Judiciary:[/color][/b][/u]
-[i]Chief Justice:[/i] [nation=short]Gararia[/nation]
+[color=blue][b][u]Judiciary:[/color][/b][/u]
+[i]Chief Justice:[/i] [nation=short]New Delgado[/nation]
+Justice:[nation=short]Gararia[/nation]
 Justice:[nation=short]Tark Migneria[/nation]
-Justice:[nation=short]TheRuhr[/nation]

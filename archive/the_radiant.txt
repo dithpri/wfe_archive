@@ -23,6 +23,6 @@ The Birthplace of D&aacute;xlam and Home to the [color=blue]Council of The Radia
 
 [color=orange][b]Moderate Alert Advisory &#151;[/b] An Attack Is Possible[/color]
 
-[color=blue][b]Password protection is not in effect[/b][/color]
+[color=red][b]Password protection in effect[/b][/color]
 
 [b]Protectorates of The Radiant:[/b] [region]Radiant Republic[/region]
