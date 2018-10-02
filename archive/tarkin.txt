@@ -12,7 +12,7 @@
 [Nation=short]Flaxxony[/nation]
 [Nation=short]The United States of Cole[/nation]
 [Nation=short]Gararia[/nation]
-[Nation=short]Gararia[/nation]
+[Nation=short]Marasaw[/nation]
 [Nation=short]Abita Springs[/nation]
 [Nation=short]TheRuhr[/nation]
 
