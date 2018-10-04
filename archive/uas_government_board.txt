@@ -8,6 +8,9 @@ Central Regional Government[/b]
 [nation]South Waterford[/nation]
 [i]Chairman of the State Council[/i]
 
+[nation]Juterium[/nation]
+[i]Secretary of the State Council[/i]
+
 [b]Union of Allied States[/b]
 President: [nation]Santonio[/nation]   
 Vice President:[nation]The British Imperial[/nation]
