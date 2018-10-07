@@ -1,11 +1,15 @@
-[region]THE EURASIAN DEFENSE PACT[/region] ensures the safety of everyone in from foreign aggression,this pact also promises trade and cooperation of the productivity of nations.The most powerful country here is [region]The New USSR[/region] and any nations who wishes to join feel free to do so but no dictatorships, we already got enough of em.
+[region]THE EURASIAN DEFENSE PACT[/region] ensures the safety of everyone in from foreign aggression,this pact also promises trade and cooperation of the productivity of nations.The most powerful country here is [nation]the Fedaration of Russia[/nation] and any nations who wishes to join feel free to do so but no extreme over the top dictatorships.
 
 Nations in the Alliance:
-[region]The New USSR[/region]
-[nation=noflag]The Yugoslav Republic[/nation], [[nation=noflag]JCJB[/nation], [nation=noflag]Rasisco[/nation], [nation=noflag]The Bulgaria Republic[/nation], 
-[nation=noflag]The Finnish Federal Republic[/nation], [nation=noflag]Himatokoro[/nation]
-[nation=noflag]The Estonian Independent Republic[/nation]
-[nation=noflag]The Latvian Republik[/nation]
-Overseas Nations:
-[nation=noflag]The Russian Amerikan State[/nation], [nation=noflag]African Unity[/nation]
+
+[nation]the Fedaration of Russia[/nation]
+[nation]The Polish Lithuania Empire[/nation]
+[nation]Mongolian SR[/nation]
+[nation]The African Unity[/nation]
+[nation]The Latvian Republik[/nation]
+[nation]The Russian Amerikan State[/nation]
+[nation]The Estonian Independent Republic[/nation]
+[nation]The Yugoslav Republic[/nation]
+[nation]The Bulgaria Republic[/nation]
+[nation]The Finnish Federal Republic[/nation]
 
