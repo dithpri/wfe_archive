@@ -7,6 +7,6 @@ This region is a puppet storage for all regions in The Ascendancy Federation.[hr
 [region]Assembly of Independent Nations[/region]
 [region]Uniterra[/region]
 [region]The Mediterranean Commonwealth[/region][hr]
-[b]Security Status:[/b] [color=Orange][b]Threat of War[/b][/color]
+[b]Security Status:[/b] [color=green]Safe[/color]
 [b]Combat Commands:[/b] [color=green]Begin Training[/color]
 [b]Military Movement:[/b] [color=Green]Stand-by Position[/color]
