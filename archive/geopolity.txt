@@ -6,7 +6,7 @@
 [nation]Southwest China[/nation]
 [nation]Eraus[/nation]
 [nation]Donau-Bundesreich[/nation]
-[nation]The Great Joseon[/nation] 
+[nation]The Enverli State[/nation] 
 
 Regional Cartographer:
 [nation]Grozdonskoya[/nation]
