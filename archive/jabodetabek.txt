@@ -2,9 +2,4 @@
 
 [hr]
 
-[i]Puppet storage of [nation]Samudera[/nation][/i]
-
-Other active nations:
-[nation]seagull[/nation]
-[nation]krakatau[/nation]
-[nation]selayar[/nation]
+[i]Puppet storage of [nation=noflag]Samudera[/nation][/i]

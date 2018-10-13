@@ -13,13 +13,13 @@
 
 [hr]
 
-[color=0D72BF][b]REGIONAL GOVERNMENT[/color]: [color=orange] PARTIALLY ACTIVE[/color] [/b]
+[color=0D72BF][b]REGIONAL GOVERNMENT[/color]: [color=green] ACTIVE[/color] [/b]
 
 [b]President : 
 [nation]Nuevo Altara[/nation][color=00818F] (DLD)[/color][/b]
 
 [b]Prime Minister : 
-[nation]The Soviets people[/nation][color=red] (DASE)[/color][/b]
+[nation]Cypriot Egyptians[/nation][color=00818F] (DLD)[/color][/b]
 _____________________
 
 [color=FFB300] [b]SUPREME COURT COMPOSITION[/b][/color]
