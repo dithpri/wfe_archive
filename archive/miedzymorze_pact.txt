@@ -7,4 +7,5 @@ The flag must have a simple design (No Words or Seals)
 
 [b]Political Parties:[/b]
 [b][color=red]Conservative[/color]: [nation]Srebbia[/nation][/b]
-[b][color=#28DEFF]Centrist[/color]: [nation]Goszar[/nation][/b]
+[b][color=#A9A9A9]Centrist[/color]: [nation]Goszar[/nation][/b]
+[b][color=#28DEFF]Liberal[/color]: [nation]Zusar[/nation][/b]

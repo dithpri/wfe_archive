@@ -1,11 +1,3 @@
-[region]The Mathornian Commonwealth[/region] is puppet storage for [nation=long]Mathorn[/nation] ([region]The Galactic Imperium[/region]).
+[region]The Mathornian Commonwealth[/region] is puppet storage for [nation=long]Mathorn[/nation].
 
-Most embassy requests accepted. 
-[hr]Please be aware that several nations located in [region]The Mathornian Commonwealth[/region] are based off the LOTR trilogy. These nations are:
-
-- [nation=long]Asaipho[/nation] - Orcish Kingdom
-- [nation=long]Belgrost[/nation] - Dwarven Kingdom
-- [nation=long]Bogroth[/nation] - Human Kingdom
-- [nation=long]Pathorn[/nation] - Human Kingdom
-- [nation=long]The Four Farthings of the Shire[/nation] - Hobbit Realm
-- [nation=long]Wucia[/nation] - Elven Kingdom
+All embassy requests accepted.
