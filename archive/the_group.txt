@@ -1,4 +1,4 @@
-[color=red] Welcome to The Group! [/color]
+[b][u][i][color=red] Welcome to The Group! [/color]
 
 [color=orange] I have played this game for a bit and thought it would be fun to create a[/color][url=https://www.nationstates.net/region=the_group] nation.[/url]
 
@@ -10,4 +10,4 @@
 
 [color=purple] If you have any questions, please do not hesitate to tell me on the[/color] [url=https://www.nationstates.net/page=display_region_rmb/region=the_group]message board[/url].
 
-[color=FF1493] Welcome again![/color]
+[color=FF1493] Welcome again![/color][/u][/b][/i]
