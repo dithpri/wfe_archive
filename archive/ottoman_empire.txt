@@ -6,5 +6,5 @@ A new sun rises over Anatolia under the banner of Osman, whose dynasty is called
 
 [hr][b][u][color=firebrick]Sublime Porte[/color][/u][/b]
 [list][*][b]Sultan: [nation=short]Ottoman-Empire[/nation][/b]
-[*][b]Grand Vizier: [nation=short]Grand Vizier[/nation][/b][/list]
+[*][b]Grand Vizier: [nation=short]Mehmed[/nation][/b][/list]
 [hr][b][u][color=firebrick]Vilayets:[/color][/u][/b] [region]The Ottoman Empire[/region] | [region]Anatolia[/region]

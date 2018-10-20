@@ -1,1 +1,20 @@
-Supreme Court Region for the Kingdom of Hykos
+[b]Welcome to [region]The Kingdom of Hykos Supreme Court[/region] - Long live the King![/b]
+
+[hr]
+
+[b]Composition:[/b]
+[list]
+Chief Justice: [nation]Jamadlenter[/nation]
+
+[i]Associate Justice:[/i] [nation]Ugrana[/nation]
+
+[i]Associate Justice:[/i] [nation]Bahamas2420[/nation]
+[/list]
+[hr]
+
+[b]Court Updates:[/b]
+[list]
+[i]Previous Case:[/i]
+[i]Current Case:[/i]
+[i]Next Case:[/i]
+[/list]
