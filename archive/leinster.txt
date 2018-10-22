@@ -11,5 +11,7 @@ REGION
 a [region=0000] puppet storage region
 [b]Founded:[/b] 2017 Mar 13
 [b]Featured:[/b] 2018 Oct 21
-[/color][color=orange]
+[b]Matrixed:[/b] 2017 Mar 17 *
+(* accepts embassy offers since)
+[/color][color=CC6600]
 [b]Embassy offers are accepted[/b][/color]
