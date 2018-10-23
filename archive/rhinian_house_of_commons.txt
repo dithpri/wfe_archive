@@ -6,7 +6,7 @@
 [*][i][b]MP[/b] [nation]Asperik[/nation][/i][/list][/list]
 [hr][hr]
 [b]Current Legislative Docket[/b]
-[list][*][i][b]H.R. 1[/b] | Hearing on Immigration[/i]
+[list][*][strike][i][b]H.R. 1[/b] | Hearing on Immigration[/i][/strike]
 [*][i][b]H.B. 1[/b] | Dual Citizenship Authorization Act[/i]
 [*][i][b]H.B. 2[/b] | Parliamentary Procedure Act[/i][/list]
 [hr][sup][i]*Will only have Embassies with [region]RHINIA[/region] and any other associated regions. Please [b]DO NOT[/b] request an Embassy.*[/i][/sup]
