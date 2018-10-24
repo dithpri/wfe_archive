@@ -11,6 +11,6 @@ First Prime Minister: [nation]Rhedia[/nation] (DA)
 Second Prime Minister: [nation]New Ciceria[/nation] (DA)
 Third Prime Minister: [nation]Yikestopia[/nation] (TSP)
 Fourth Prime Minister: [nation]New Ciceria[/nation] (DA)
-Fifth Prime Minister: Harry
+Fifth Prime Minister: [nation]New Ciceria[/nation]
 
 In the news:[/b] [i]Peace talks with the [region]Edmundian Empire[/region] have broken down.. [/i]

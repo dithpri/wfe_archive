@@ -2,6 +2,9 @@
 
 Nations in the Alliance:
 
+[nation]JCJB[/nation]
+[nation]Rasisco[/nation]
+[nation]Nicala[/nation]
 [nation]the Fedaration of Russia[/nation]
 [nation]The Polish Lithuania Empire[/nation]
 [nation]Mongolian SR[/nation]
