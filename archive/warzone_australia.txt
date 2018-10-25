@@ -3,8 +3,8 @@ Colony of [region]Extalia[/region]
 Most Embassies are Accepted
 [hr]
 Endorse [nation]Domais[/nation] or face ejection
-The Endorsement cap is 0
-If you endorse anyone else but [nation]Domais[/nation] you will be ejected
+The Endorsement cap is 0.1
+If you endorse anyone else but [nation]Domais[/nation] you will be banjected
 [hr]
 [color=red]Please join [url=https://discordapp.com/invite/wM39szc]Warzone AU&#39;s Discord[/url]
 Please join [url=https://discord.gg/XrYD29z]the Galean Discord[/url]
