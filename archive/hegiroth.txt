@@ -17,4 +17,15 @@ Councillor of Admissions: [nation]Ralioskener[/nation]
 Councillor of Defense and Warfare: [nation]Rughzhenhaide[/nation]
 President: Vacant
 Vice-President: Vacant
+HIDE: Vacant
+HCP: Vacant
 
+Current Alerts:
+[b][color=red]WARNING: Z-DAY CONFIRMED. PREPARE FOR ZOMBIE APOCALYPSE[/color][/b]
+
+DEFCON:
+1
+2
+3
+4
+[b]5[/b]

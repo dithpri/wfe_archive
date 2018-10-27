@@ -4,18 +4,16 @@
 [hr]
 
 [b]Composition:
-[list] [I]Liberal Democratic Party Majority - [/i][/b]
+[list] [I]Progressive Democratic Party Majority - [/i][/b]
 
-[list]Liberal Democratic Party - 3 seats
-Constructive Party - 1 seat
+[list]Progressive Democratic Party - 5 seats
 Independent - 1 seat[/list]
 [/list]
 [hr]
 
 [b]Leadership:
-[list] [i]Speaker of the Senate:[/i] [nation]Tir Vyrn Tok[/nation][/b] ([b][color=orange]LDP[/color][/b])
-
-[b][i]Shadow Speaker of the Senate:[/i] [nation]Altika[/nation][/b] ([b][color=red]CON[/color][/b])[/list]
+[list] [i]Speaker of the Senate:[/i] 
+[i]Shadow Speaker of the Senate:[/i] [/list][/b]
 
 [hr]
 
