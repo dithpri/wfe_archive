@@ -1,10 +1,12 @@
-[color=red]Contiguous Nation[/color]: [nation=short]Confederate National Republic[/nation]
-[color=blue]Protectorate Nation[/color]: [nation=short]The Unified American Republic[/nation]
-[color=gray]National Military:[/color] [nation=short]The Confederate Armed Forces[/nation]
-Western Allies:[nation=short]United Confederate American Empire[/nation],
-Motto:[i] &quot;Deo Vindice&quot;[/i]     [nation=short]The 63rd KATO Battalion[/nation]
-Anthem: Dixie
-Capital: Richmond, VA
-Largest City: New Orleans
-Government: [color=red]Confederal[/color] [color=gray]Presidential[/color] [color=blue]Republic[/color]
-Original States: South Carolina, Mississippi, Florida, Alabama, Georgia, Louisiana, Texas, Virginia, Arkansas, North Carolina
+[b]Knock knock!
+[/b][color=darkred]The[/color] [color=tan]Osiran Sekhmet Legion[/color] [color=darkred]has arrived. We&#39;re here to fix the sink. Take this time to hide in fearful corners as Legionnaires do a little redecorating. Here, have some totally not mind control cookies. It&#39;s fine.[b]
+
+Feeling raid-y? [url=https://www.osiris.valthost.com/viewtopic.php?f=394&amp;t=30313363]Come join us[/url] &amp; get a uniform and some 100% not mind control tacos for your trouble![/color]
+
+Troops:[/b]
+[nation]Benjabobaria[/nation], [b][color=#7f415c]&#39;Amid[/color][/b] - trigger
+[nation]Degador[/nation], [b][color=#8c9a49]&#39;Arif[/color][/b]
+[nation]State of Deprez[/nation], [b][color=#e55533]Jondi[/color][/b]
+
+[b]
+[hr][region]OSIRIS[/region][color=darkred].[/color] [color=orange]Where the desert&#39;s hot, water&#39;s cool, and there&#39;s totally, 100% no mind control going on. For sure.[/b][/color]

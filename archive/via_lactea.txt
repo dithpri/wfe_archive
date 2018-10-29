@@ -4,6 +4,7 @@ A unique sci-fi region based on the unique Via Lactea lore built by the region&#
 
 [B][color=B7B7B7]Administration[/color][/B]: 
 
-[B]Supreme Director:[/B] [nation]the galactic spires[/nation]
-[b]Subdirector:[/b] [nation]Federal Sol[/nation]
-[b]Interim Chairman:[/b] [nation]Solignis[/nation]
+[color=022D97][b]The Directorate[/b][/color]:
+
+[b]Chairman[/b]: [nation]Solignis[/nation]
+[b]Director[/b]: [nation]Federal Sol[/nation]
