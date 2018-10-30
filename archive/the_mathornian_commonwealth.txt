@@ -3,3 +3,11 @@
 [region]The Mathornian Commonwealth[/region] is a peaceful, isolationist region, one that is free from outside events and distractions.
 
 Most embassy requests will be accepted.
+[hr]Please be aware that some nations that are located in [region]The Mathornian Commonwealth[/region] are based on the LOTR trilogy. These nations are:
+
+- [nation=long]Asaipho[/nation] - Orcish Kingdom
+- [nation=long]Belgrost[/nation] - Dwarven Kingdom
+- [nation=long]Bogroth[/nation] - Human Kingdom
+- [nation=long]Pathorn[/nation] - Human Kingdom
+- [nation]The Four Farthings of the Shire[/nation] - Hobbit Realm
+- [nation=long]Wucia[/nation] - Elven Kingdom

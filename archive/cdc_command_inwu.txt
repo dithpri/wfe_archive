@@ -1,4 +1,4 @@
-Current Stage: [color=Lime]All Clear[/color]
+Current Stage: [color=Orange]Developing Cure[/color]
 
 [b]Advanced Directive:[/b]
 The Acting Director is charged with guiding the operations of the CDC. Citizens report to an Assistant Director, the Assistant Director report to the Acting Director.
@@ -6,7 +6,7 @@ The Acting Director is charged with guiding the operations of the CDC. Citizens 
 Do not attempt to cure those who embrace, you will only provide them with more ammo.
 
 -------Roster------
-[color=blue]Director/s:[/color]
-[color=teal]Assistant Director/s of Cure Development and Distribution:[/color]
-[color=maroon]Assistant Director/s of Disturbed Control and Elimination:[/color]
+[color=blue]Director/s: [nation]Hijjma[/nation][/color]
+[color=teal]Assistant Director/s of Cure Development and Distribution: [nation]Mammo[/nation][/color]
+[color=maroon]Assistant Director/s of Disturbed Control and Elimination: [nation]TimberWolves[/nation][/color]
 [color=teal]Notice: Personnel listed more than once are attributed their highest rank, unless someone higher on the roster is actively filling the position.[/color]
