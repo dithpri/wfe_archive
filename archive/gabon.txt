@@ -1,8 +1,14 @@
-[hr][list][color=navy][b]Gabon[/b][/color][/list][hr]
-
-[color=006400]In process of converting this region from an oracle region to a matrix region.
-
-Definitions:[list]
-[b]Oracle Regions[/b] have two embassies, the one before and the one after, thus creating a line of regions. See [region=Double Funky 7] for more details.
-[b]Matrix Regions[/b] do not play the Oracle Embassy Game. They are free to exchange embassies with any region. Currently I will have my regions named after real life nations, and certain other regions, become Matrix Regions. Called Matrix Regions because they all have embassies with each other and anyone that wants to exchange embassies with them.[/list][hr]
-[b]WILL EXCHANGE EMBASSY OFFERS[/b][/color]
+[hr][list][color=navy][b]Gabon[/b][/color][/list][hr][color=BB6900]
+FACTS
+A republic on the west coast of central Africa
+[b]Capital:[/b] Libreville
+[b]Area:[/b] 267,667 km 2 / 103,347 sq mi (76th)
+[b]Population:[/b] 1,979,786 (150th) 2016 est.
+[b]Independence:[/b] 1960 Aug 17 (from France)
+[b]Bordered by:[/b] Equatorial Guinea, Cameroon, Republic of Congo and the Atlantic Ocean (Gulf of Guinea).
+[/color][color=006400]
+REGION
+a [region=0000] region
+[b]Founded:[/b] 2012 Dec 19
+[b]Matrixed:[/b] 2016 Jul 09 (accepts embassy offers since)
+[b]Featured:[/b] 2018 Oct 31[/color][hr]

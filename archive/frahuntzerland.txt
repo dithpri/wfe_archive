@@ -1,11 +1,10 @@
-[color=930000][b][i]REGION CLOSING![/i][/b][/color]
+[color=930000][b][i]REGION CLOSED[/i][/b][/color]
+[color=red][i]This region is now a museum.[/i][/color]
 
 [hr]
 [i]Originally founded: 5 April, 2018
+Closed: 7 June, 2018
 Re-founded: 28 July, 2018
 Relaunched: 1 September, 2018
-Activity Suspended: 28 October, 2018[/i]
-[hr]
-[b][color=red]Announcements:[/color][/b]
-
-[b]REGION CLOSING[/b]
+Activity Suspended: 28 October, 2018
+Closed: 31 October, 2018[/i]
