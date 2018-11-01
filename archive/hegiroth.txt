@@ -21,11 +21,11 @@ HIDE: Vacant
 HCP: Vacant
 
 Current Alerts:
-[b][color=red]WARNING: Z-DAY CONFIRMED. PREPARE FOR ZOMBIE APOCALYPSE[/color][/b]
+[b][color=green]No Regional Warnings.[/color][/b]
 
 DEFCON:
-1
+[b]1[/b]
 2
 3
 4
-[b]5[/b]
+5

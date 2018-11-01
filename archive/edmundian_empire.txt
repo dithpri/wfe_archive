@@ -16,4 +16,6 @@ This is the official region of the [color=gold]Empire of [nation]Great Edmundia[
 
 [b]Regional Postal Service[/b]: Imperial Mail Service
 
-[b]Regional Dish[/b]: Shawarma
+[b]Regional Main Course[/b]: Shawarma
+
+[b]Regional Dessert[/b]: Lamington

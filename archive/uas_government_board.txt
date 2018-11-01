@@ -8,25 +8,13 @@ Central Regional Government[/b]
 [nation]South Waterford[/nation]
 [i]Chairman of the State Council[/i]
 
-[nation]Juterium[/nation]
+[nation]Santonio[/nation]
+[i]Vice-Chairman of the State Council [/i]
+
+[nation]Cappedore[/nation]
+[i]President[/i]
+
+[nation]Chokoku[/nation]
 [i]Secretary of the State Council[/i]
-
-[b]Union of Allied States[/b]
-President: [nation]Santonio[/nation]   
-Vice President:[nation]The British Imperial[/nation]
-
 [HR]
-
-[b]Legislature[/b]
-[color=red]Prime Minister: [nation]LiaBilia[/nation][/color][HR]
-[b]UAS REGIONAL COMMISSIONS[/b]
-
-[u]ELECTION[/u]
-
-
-[u]CONSITIUTION[/u]
-[nation]Zetox[/nation], Chair
-
-[u]COLONIAL LAW[/u]
-[HR]
-This region is home to the [region]Union of Allied States[/region] government.  No embassies will be accepted, all requests for embassy exchange must be received by the main region.
+[b]This region is home to the [region]Union of Allied States[/region] government.  No embassies will be accepted, all requests for embassy exchange must be received by the main region.[/b]
