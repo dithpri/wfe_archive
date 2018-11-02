@@ -1,1 +1,9 @@
-[color=navy][b]Northamptonshire[/b][/color][hr]
+[color=blue]Welcome to Northamptonshire! A county in the East Midlands![/color]
+
+[color=green]Fun Facts[/color]
+-It&#39;s known as the &#39;Rose of the shires&#39;
+-It is home to the Rugby team Northampton Saints
+-Southermost county in the East Midlands
+-It homes Naseby, famous for the battle of Naseby
+
+Part of [region]Vassal of Sweepland7[/region]
