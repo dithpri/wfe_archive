@@ -11,10 +11,29 @@ Chief Justice: [nation]Jamadlenter[/nation]
 [i]Associate Justice:[/i] [nation]Bahamas2420[/nation]
 [/list]
 [hr]
+[list]
+[color=Red]Current Case(s)[/color]
+Courtroom 1: 
 
+Courtroom 2: 
+
+Courtroom 3:
+[/list]
+[hr] 
 [b]Court Updates:[/b]
 [list]
 [i]Previous Case:[/i]
 [i]Current Case:[/i]
 [i]Next Case:[/i]
 [/list]
+
+[list]
+[color=red]Recent Verdict(s) |[/color]
+[/list]
+[hr]
+
+[list]
+File a Case.
+Formats for filling a case can be found [url=https://www.nationstates.net/nation=eastern_southern/detail=factbook/id=1119137]Here[/url]
+[/list]
+[hr]
