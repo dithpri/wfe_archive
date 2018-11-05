@@ -6,12 +6,12 @@
 [*][i]Associate Justices[/i]:
 [*][nation]Engium[/nation] [Acting Chief Justice]
 [*][nation]Dertas[/nation]
-[*][nation]Sozland[/nation]
-[*][nation]Justice Trump and Pence[/nation][/list]
+[*][nation]Justice Trump and Pence[/nation]
+[*]Vacant[/list]
 [hr]
 [color=#FF0000][b][u]Current Case(s)[/u] |[/b][/color] [i]
 [list][*]Courtroom 1: Constitutional Challenge L.R. 89
-[*]Courtroom 2: Constitutional challenge to L.R. 73 The Political Deceit Act
+[*]Courtroom 2: 
 [*]Courtroom 3: 
 [/list][/i]
 
