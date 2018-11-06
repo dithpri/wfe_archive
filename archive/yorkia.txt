@@ -1,8 +1,8 @@
 [color=Orange]Welcome to Yorkia, a region of culture and fun![/color]
 
-[hr]
+[b][hr][/b]
 [url=http://yorkia.boards.net/]Forum[/url]|[url=http://yorkia.boards.net/thread/3/citizenship-applications?page=1&amp;scrollTo=2]Citizenship[/url]|[url=https://www.nationstates.net/page=dispatch/id=1119598]Constitution[/url]
-[hr]
+[b][hr][/b]
 
 [color=orange]King/Founder:[/color] [nation]Jerseyia[/nation]
 [color=gray]Prime Minister:[/color] [i]Vacant[/i]
@@ -13,7 +13,7 @@
 [color=red]Senate President:[/color] [i]Vacant[/i]
 [color=lime]Regional Assembly Chair:[/color] [i]Vacant[/i]
 [color=pink]Attorney General:[/color] [i]Vacant[/i]
-[hr]
+[b][hr][/b]
 [b][u][color=orange]Regional News:[/u][/b]
 [list]
 [*]
