@@ -2,7 +2,7 @@ Important Nations &amp; allies:
 
 [Hr]
 
-South His Majestys Most Loyal kangaroos, The Nation of Pingu, Empire of Dogetopia, Great Emundia
+[nation]South His Majestys Most Loyal kangaroos[/nation], [nation]The Nation of Pingu[/nation],[nation]the empire of dogetopia[/nation],[nation] Great edmundia [/nation]
 
 [Hr]
 
@@ -10,7 +10,7 @@ Important &amp; allied regions
 
 [Hr]
 
-Chicken Overlords, The Galatic Empire of Brititain, The Interdimensional Community, Empire of British Embassies, Kingdom of Cats, Worldwide British Empire, Worldwide British Empire 2, Animal nations, 
+[region]Chicken Overlords[/region], [region]The Galatic Empire of Britain[/region], [region]The Interdimensional Community[/region], [region]Empire of British Embassies[/region], [region]Kingdom of Cats[/region], [region]Worldwide British Empire[/region], [region]Worldwide British Empire 2[/region], [region]Animal nations[/region], [region]The Domestic Roleplay Region[/region], [region]United Intergalactic Animal Community[/region], [region]The Backup Region[/region]
 
 [Hr] 
 

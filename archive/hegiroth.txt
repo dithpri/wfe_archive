@@ -21,11 +21,11 @@ HIDE: Vacant
 HCP: Vacant
 
 Current Alerts:
-[b][color=green]No Regional Warnings.[/color][/b]
+[b][color=blue]Eh... tension&#39;s a bit high.[/color][/b]
 
 DEFCON:
-[b]1[/b]
-2
+1
+[b]2[/b]
 3
 4
 5
