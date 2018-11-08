@@ -2,7 +2,8 @@ Important Nations &amp; allies:
 
 [Hr]
 
-[nation]South His Majestys Most Loyal kangaroos[/nation], [nation]The Nation of Pingu[/nation],[nation]the empire of dogetopia[/nation],[nation] Great edmundia [/nation]
+[nation]South His Majestys Most Loyal kangaroos[/nation], [nation]The Nation of Pingu[/nation][nation]empire of dogetopia[/nation] ,[nation]Great Edmundia[/nation]
+[nation]Wolves of the east[/nation], [nation]Rost Dreadnorramus[/nation],[nation]Baumpatal[/nation], [nation]Galea[/nation]
 
 [Hr]
 
@@ -10,7 +11,7 @@ Important &amp; allied regions
 
 [Hr]
 
-[region]Chicken Overlords[/region], [region]The Galatic Empire of Britain[/region], [region]The Interdimensional Community[/region], [region]Empire of British Embassies[/region], [region]Kingdom of Cats[/region], [region]Worldwide British Empire[/region], [region]Worldwide British Empire 2[/region], [region]Animal nations[/region], [region]The Domestic Roleplay Region[/region], [region]United Intergalactic Animal Community[/region], [region]The Backup Region[/region]
+[region]Chicken Overlords[/region], [region]The Galatic Empire of Britain[/region], [region]The Interdimensional Community[/region], [region]Empire of British Embassies[/region], [region]Kingdom of Cats[/region], [region]Worldwide British Empire[/region], [region]Worldwide British Empire 2[/region], [region]Animal nations[/region], [region]The Domestic Roleplay Region[/region], [region]United Intergalactic Animal Community[/region], [region]The Backup Region[/region], [region]The Interdimensional Military[/region], [region]Empire of Galea[/region], [region]South pacific gyre[/region], [region]flavo imperium[/region]/[region]imperium magnum[/region]
 
 [Hr] 
 
@@ -21,3 +22,11 @@ Upcoming events:
 Event in The Galatic Empire of britain (December 2018)
 
 The great migration (summer)
+
+[Hr]
+
+Chicken Overlords goals
+
+[Hr]
+
+[spoiler]Beat the Western Isles[/spoiler]
