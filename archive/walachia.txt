@@ -1,13 +1,1 @@
-[color=green].:\|/:.[b][u]Walachia[/u][/b].:.\|/:.[/color][hr]
-
-[i][color=green]&amp;quot;Nihil Sine Deo!&amp;quot;[/color][/i]
-
-[b]Regele (Wilhelm III):[/b] [nation=short]The Deutsch Reich[/nation]
-[b]Printul Mostenitor (Viktor I): [/b][nation=short]Kanakaestain[/nation]
-[b]Cancelarul (Eduard Uhl):[/b] [nation=short]Wien[/nation]
-[hr][b][color=green]Religia Oficiala:[/color][/b] [color=white]Biserica Romano-Catolica[/color]
-[b][color=green]Capitala:[/color][/b]  [color=white]T&acirc;rgoviste[/color]
-[b][color=green]Guvernul:[/color][/b]  [color=white]Monarhie[/color]
-[b][color=green]Limbi:[/color][/b]  [color=white]Rom&acirc;na, Germana si Engleza[/color]
-[b][color=green]Familia Regala:[/color][/b]  [color=white]Von Friedburg[/color]
-[hr][color=red][b][u]Occupied and protected by [region=the Kingdom of Wurttemberg] with permission of Prince Viktor I ([nation=short]Kanakaestain[/nation]), Lord of Wallachia and Moldavia.[/u][/b][/color]
+[b]Region owned by [region=German Realm].[/b]

@@ -6,7 +6,7 @@
 [i]Vice-President:[/i] -|-[b]VACANT[/b]-|-
 [color=#000000]-------------------------------------------------[/color]
 [i]Minister of the Interior:[/i] -|-[b]VACANT[/b]-|-
-[i]Minister of Foreign Affairs:[/i] -|-[b]VACANT[/b]-|-
+[i]Minister of Foreign Affairs:[/i] [nation=noflag]South Krimelski[/nation] temporary
 [i]Minister of Defense:[/i] -|-[b]VACANT[/b]-|-
 [i]Minister of Culture:[/i] -|-[b]VACANT[/b]-|-
 [color=#000000]-------------------------------------------------[/color]
