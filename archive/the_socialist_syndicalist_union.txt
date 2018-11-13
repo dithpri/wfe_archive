@@ -2,7 +2,8 @@
 [color=darkred]Syndicate Marshalls:[/color]
 [nation]North Ulera[/nation]
 [nation]Pridnestrovskaia Moldavskaia[/nation]
-[nation]European Anarchy[/nation][/b][hr]
+[nation]European Anarchy[/nation]
+[nation]Sugurania[/nation][/b][hr]
 [b][color=red]Union of Foreign Affairs:[/color]
 [i]Unappointed[/i]
 

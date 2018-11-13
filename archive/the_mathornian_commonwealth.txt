@@ -3,7 +3,9 @@
 [region]The Mathornian Commonwealth[/region] is a peaceful, isolationist region, one that is free from outside events and distractions.
 
 Most embassy requests will be accepted.
-[hr]Please be aware that some nations that are located in [region]The Mathornian Commonwealth[/region] are based on the LOTR trilogy. These nations are:
+[hr]Please be aware that several nations that are located in [region]The Mathornian Commonwealth[/region] are based on the different races that are found in the Lord of the Rings trilogy. 
+
+These nations are:
 
 - [nation=long]Asaipho[/nation] - Orcish Kingdom
 - [nation=long]Belgrost[/nation] - Dwarven Kingdom
