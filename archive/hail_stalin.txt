@@ -11,3 +11,7 @@ Non-Player army sizes can be view [url=https://www.globalfirepower.com/]Here[/ur
 
 [b]Founder and Officers[/b]
 [nation]The Old German Government[/nation] (Founder)
+[nation]Nordligfred[/nation] (Control Officer)
+[nation]Caligar[/nation] (Algorithmic Officer)
+NEEDED (Dispatch Officer)
+[nation]MiedoNada[/nation] (Recruitment Officer)
