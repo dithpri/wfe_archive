@@ -1,13 +1,1 @@
-[b]welcome to Warzone Parliament the official legislator of the Warzone Confederation.[/b]
-The current offices are as follows:
-[list]
-[*]  [b]Speaker:[/b] [nation]LunarCity[/nation]
-[*] [b]Foriegn minister:[/b] [nation]Domais[/nation]
-[*]  [b]General:[/b] [nation]Albert[/nation]
-[/list]
-The following warzones are members.
-[list]
-[*] [region]Warzone Europe[/region]
-[*] [region]Warzone Asia[/region]
-[*] [region]Warzone Australia[/region]
-[/list]
+This is region is now all but a memory.

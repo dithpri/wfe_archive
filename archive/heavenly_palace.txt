@@ -1,0 +1,10 @@
+[color=navy][b]Heavenly Palace[/b]
+[/color][color=olive]
+REGION
+a [region=0000] Puppet Storage Region
+a [region=Double Funky 7] Oracle Region
+associated with [region=Ancient Lands]
+allied with [region=United States of America]
+a DBA Alliance Region
+[/color][color=maroon]
+NO EMBASSY OFFERS PLEASE[/color]
