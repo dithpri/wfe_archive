@@ -1,14 +1,18 @@
-[color=004080][b]Double Funky 7[/b]
-this is a [region=0000]/[region=Ancient Lands]/[region=United States of America] region
-this region in conjunction with [region=Temple Hill] are used to control my empire
+[color=0000C8][b]Double Funky 7[/b][hr][/color][color=003153][b]Oracle Regions[/b]
 
-[b]Oracle Alpha Region[/b]
+Goal of this game is to create a chain connecting as many regions as possible by their embassy links
+No embassy offers can be accepted as they can short circuit this chain
+List is in the order of the update
 
-Goal of this version of the Oracle Game is to create an embassy chain or path connecting as many regions as possible, with no embassies that can short circuit this chain.
-[region=United States of America] and [region=Ancient Lands] are represented in the middle of the chain, are both part of my embassy matrix.[/color][list]
-[url=http://nsdossier.texasregion.net/]NationStates Dossier Tools[/url]
+My Matrix Regions are represented by:
+- [region=United States of America]
+- [region=Ancient Lands]
+[list][url=http://nsdossier.texasregion.net/]NationStates Dossier Tools[/url]
 [url=http://nsdossier.texasregion.net//embassyOracle.aspx]Oracle Game[/url][/list]
-[color=red][b]Sorry, this region does not accept embassy offers.[/b][/color][color=tan]
-As this region is to remain an oracle region, I will not need it to ever be featured, thus it is passworded.
-[/color][color=silver]
-a [region=0000] puppet region[/color]
+- Details continued on page: &amp;gt; [region=Ching Chong Coalition] &amp;lt;
+
+REGION
+this is a BDA Alliance [region=0000] oracle holding region
+allied with [region=United States of America][/color][color=FFA812]
+[b]PASSWORDED REGION[/b][/color][color=66023C]
+[b]Sorry, this region does not accept embassy offers.[/b][/color][hr]
