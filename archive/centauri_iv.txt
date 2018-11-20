@@ -6,3 +6,5 @@
 
 [b][color=purple]Regional Supervisor[/color][/b]:
 [nation]Cosmos III[/nation]
+[b][color=orange]Regional Director[/color][/b]:
+[nation]Old Western America[/nation]
