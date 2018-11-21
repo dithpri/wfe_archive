@@ -1,1 +1,4 @@
-WIP
+[b]Member Regions:
+[region]Velika Slavia[/region]
+[region]Olgienslavia[/region]
+[/b]

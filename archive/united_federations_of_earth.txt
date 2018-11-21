@@ -8,6 +8,6 @@ _______________________________
 Secretary-Governor: [nation]Qisten[/nation]
 President: [nation]Britain United Kingdom[/nation]
 _______________________________
-DEFCON: 3
+DEFCON: 5
 [i]DEFCON is updated every week[/i]
-Military Situations: Higher Military presence on the borders following a raid.
+Military Situations: Nothing has happened in the past 2 months

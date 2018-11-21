@@ -1,1 +1,4 @@
-Nomic
+[color=navy][b]Nomic[/b]
+[/color][color=olive]
+a [region=0000] holding region
+a DBA oracle region[/color]

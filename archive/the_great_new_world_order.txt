@@ -1,10 +1,9 @@
-[b][region]The Empire of Mare Nostrum[/region][/b] has come to your doorsteps. Fear not for we bring a most splendid message. 
 
 The Most High has heard your pleas, they have heard the oppression and torment which you have faced. They have dispatched us and we bring you salvation. Embrace the Most High and you too shall be saved. 
 
 [b][u]Messengers[/u][/b]
-[b]Legatus[/b]: [nation]Lanian Empire[/nation]
-[b]Legionary[/b]: [nation]Resurrect[/nation]
-[b]Strategos[/b]: [nation]Salvarity[/nation]
-[b]Centurion[/b]: [nation]Sancta Romana Ecclesia[/nation]
-[b]Legionary[/b]: [nation]Albian[/nation]
+[b]Legatus[/b]: [nation]Kepler-186 f[/nation]
+[b]Legionary[/b]: [nation]Nevaucroix[/nation]
+[b]Strategos[/b]: [nation]Kepler-186 f[/nation]
+[b]Centurion[/b]: [nation]Egg juice[/nation]
+[b]Legionary[/b]: [nation]Kepler-186 f[/nation]
