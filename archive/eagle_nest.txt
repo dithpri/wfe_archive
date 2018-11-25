@@ -1,13 +1,6 @@
-[b][color=red][i]Peace through Power! Power through Strength! Strength through Unity! Unity through Peace![/i][/color]
+[b][i][color=red]Fly High: Strike Fast[/i][/color]
 - [nation=long]Eaglemount[/nation][hr]
 
-[i]Regions of [region]The Brotherhood of the Exiled[/region][/i]
 
-[region]Eagle Nest[/region] - Air Defense
-[region]Ausbildungslager[/region] - German resistance
-[region]Paisos Catalans[/region] - Catalan resistance
-[region]City of Edinburgh[/region] - Scottish Resistance
-[region]Fortress America[/region] - American resistance
-[region]Greater Iran[/region] - Persian resistance
-[region]The Italian Peninsula[/region] - Italian resistance
-[region]European Space Administration[/region] - Space sciences[/b]
+
+[/b]
