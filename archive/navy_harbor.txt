@@ -1,3 +1,10 @@
 [b]This is the naval headquarters for the [region]United Republic of Micronesia[/region]. [/b]
 
 LONG LIVE THE [region]UNITED REPUBLIC OF MICRONESIA[/region]!
+
+All ships must:
+
+1. Set their classification to &quot;Jingoistic States&quot;
+2. Use one of the URM Naval flags. If not possible, use Tokelau flag.
+3. Your puppet/ ship must have the name URM _____.
+4. You must always jump/move to Navy Harbor before a military operation to signify that you&#39;re not an imposter.
