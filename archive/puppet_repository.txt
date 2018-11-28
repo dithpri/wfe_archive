@@ -1,0 +1,1 @@
+Puppet Repository for puppet storage, regardless of puppet use. 

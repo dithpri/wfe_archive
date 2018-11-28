@@ -1,31 +1,29 @@
 [b][color=blue]The Autonomous Confederacy of the New World[/color][/b]
 [hr]
 
-[b]Date of Establishment: [/b]
+[b][color=red]Date of Establishment: [/color][/b]
 6th of July 2018
 [hr]
 
-[b]Motto: [/b] [i]All Hail the Confederacy![/i]
+[b][color=red]Motto: [/color][/b] 
+[i]All Hail the Confederacy![/i]
 [hr]
 
-[b]National Anthem: [/b]
+[b][color=red]National Anthem: [/color][/b]
 Battle-Hymn of the Republic
 [hr]
 
-[b]Official Language:[/b] English
+[b][color=red]Official Language: [/color][/b] 
+English
 [hr]
 
-[b]Government:[/b] 
-- Leader: [nation]Bendostan[/nation]
-- Vice-Leader: [nation]Neo-Roman Empire[/nation]
-- WA-Delegate: [nation]Olympian Islands[/nation]
+[b][u][color=green]Regional Message: [/color][/u][/b]
+- If you want to join, message the leader. 
+- We&#39;re a generally casual region but can use some active Nations
+- Nations are preferred to be based in [b]Northern Virginia[/b], [i]although that is not a requirement[/i].
 [hr]
 
-[b]Regional Message: [/b]
-If you want to join, message the leader. We&#39;re a generally casual region but can use some active Nations that are preferred to be based in [b]Northern Virginia[/b], [i]although that is not a requirement[/i].
-[hr]
-
-[b]Regional Goals and accepted ideas: [/b]
+[b][color=red]Regional Goals and accepted ideas: [/color][/b]
 - Destruction of our enemies
 - Spread the Glory of our mighty region
 - Destruction of communism
@@ -33,5 +31,5 @@ If you want to join, message the leader. We&#39;re a generally casual region but
 [hr]
 
 [b][i][u][color=red]Enemies of the State: [/color][/u][/i][/b]
-- [region]Autonomous Confederacy of The New World[/region]
+- [region]The Autocratic Ruling Of Loudoun[/region]
 - [region]Dictatorial Ruling of Loudoun[/region]
