@@ -1,4 +1,4 @@
-[b]This region is a puppet storage facility of the Republic of [nation]Longhornia[/nation] and the [i]&quot;colony&quot;[/i] of the Reich&#39;s government of [region]KAISERREICH[/region][/b]
+[b][region]Longhornia[/region] is a puppet storage facility of the Great Crowned Republic of [nation]Nueva Longhornia[/nation] and also a [i]&quot;colony&quot;[/i] of the Reich&#39;s government of the Empire of [region]KAISERREICH[/region][/b]
 
 [b][i]HEIL KAISER! HEIL KAISERREICH![/i][/b]
-[b][i]&iexcl;VIVA LA REPUBLICA![/i][/b]
+[b][i]&iexcl;VIVA LA REPUBLICA! &iexcl;VIVA LONGHORNIA![/i][/b]
