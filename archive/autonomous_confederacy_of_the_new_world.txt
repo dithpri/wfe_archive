@@ -9,7 +9,7 @@
 [i]All Hail the Confederacy![/i]
 [hr]
 
-[b][color=red]Provisional National Anthem: [/color][/b]
+[b][color=red]National Anthem: [/color][/b]
 Battle-Hymn of the Republic
 [hr]
 
@@ -33,4 +33,6 @@ English
 [b][i][u][color=red]Enemies of the State: [/color][/u][/i][/b]
 - [region]The Autocratic Ruling Of Loudoun[/region]
 - [region]Dictatorial Ruling of Loudoun[/region]
+- [region]The dongle conferacy[/region]
+- [region]The Unification of the Golden Horde[/region]
 
