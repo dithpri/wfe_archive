@@ -1,1 +1,9 @@
-Yayed
+[color=green][b]Yayed[/b]
+[/color][color=olive]
+REGION
+a [region=0000] region
+[b]Founded:[/b] 2018 Jan 30
+[b]Puppets:[/b] 2018 Jul 16
+An Oracle Puppet Storage Region
+[/color][color=red]
+[b]Sorry - No embassy offers accepted here[/b][/color]
