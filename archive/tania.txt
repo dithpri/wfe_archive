@@ -1,3 +1,6 @@
 INFORMATION
 
 [nation]Ayanau[/nation]: A Kingdom located on an island in the Talnokho Ocean. The highest peak is 20,340 ft high.
+[nation]Bhodh[/nation]: A religious Kingdom that borders the Fanoro Island in Tropich. Bhodh is a major pilgrimage spot in Tania.
+[nation]Chimastojyc[/nation]: A country famous for it&#39;s rocky coasts. It borders Nesetrov from the south. Chimastojyc means &quot;Night&quot; in Native Amisan.
+[nation]Chooseau[/nation]: Chooseau is an archipelago in the Southern Area. It is famous for it&#39;s mangroves.

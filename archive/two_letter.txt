@@ -1,9 +1,19 @@
-[b]Two Letter[/b]
-an [region=Ancient Lands] puppet storage region
-associated with [region=0000] region
+[color=f6f6f0]# # # #[/color] [color=000065][b]Two Letter[/b]
+a puppet storage region for [region=0000] region
+[/color][color=f6f6f0]#
 
+#[/color][color=olive]
 Only my two letter puppets will populate this region
 Yes, this is a puppet storage region
+Region is open to others as well
+[/color][color=f6f6f0]#
 
+#[/color][color=olive]
 [b]Embassy Offers are accepted[/b]
-Maintained by [nation=short]Elliston[/nation]
+Maintained by [nation=short]Cuatro Ceros[/nation]
+[b]Founded:[/b] 2016 Sep 16
+[/color][color=f6f6f0]#
+
+#[/color][color=blue]
+WELCOME[/color][color=EE6600]
+EMBASSY OFFERS ACCEPTED[/color]
