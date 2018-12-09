@@ -5,5 +5,7 @@ Region of [region=Guyana]
 Includes: [region=Georgetown]
 [/color][color=olive]
 REGION
+an Embassy Oracle Region
 a [region=0000] Region
-[b]Founded:[/b] 2018 Dec 08[/color]
+[b]Founded:[/b] 2018 Dec 08[/color][color=red]
+[b]No Embassy Offers Please[/b][/color]
