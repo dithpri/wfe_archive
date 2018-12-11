@@ -10,6 +10,7 @@ The Royal Alliance Organization Region will serve as a direct way for Alliance M
 -[region]The Hallowed Isles[/region]
 -[region]Edmundian Empire[/region]
 -[region]United Imperial Union[/region]
+-[region]The Crown Federation of Recon[/region]
 
 [hr]
 
