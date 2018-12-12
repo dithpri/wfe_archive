@@ -4,7 +4,8 @@
 [hr][hr][color=red][b]The High Command[/b][/color] 
 
 [b]General of the Army:[/b] [nation=short]Konsair[/nation]
-[b]Flagship:[/b] 
+[b]Flagship:[/b] [nation=Xitania]
+
 [b]General/Director of Central Intelligence:[/b]
 [b]Lieutenant General:[/b] 
 [b]Brigadier General:[/b] 
