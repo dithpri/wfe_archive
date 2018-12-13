@@ -1,0 +1,11 @@
+[color=purple]Top line[/color]
+[color=gold]Next line[/color]
+[Color=red]Next line
+Next line[/color]
+[Color=gold]Middle line[/color]
+[Color=red]Next line
+Next line[/color]
+[Color=gold]second to last line[/color]
+[Color=purple]Last line[/color]
+
+[Url=https://discord.gg/C47DQBG]Discord[/url]

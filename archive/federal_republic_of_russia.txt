@@ -1,3 +1,17 @@
-[color=navy][b]Federal Republic of Russia[/b][/color][color=004500]
-a [region=0000]/[region=Ancient Lands]/[region=United States of America] region[/color]
-[color=800000][b]Embassy Offers Accepted[/b][/color]
+[color=navy][b]Federal Republic of Russia[/b]
+Officially Russian Federation (Rossiyskaya Federatsiya)
+[/color][color=002FA7]
+FACTS
+[b]Capital:[/b] Moscow (&amp;#1052;&amp;#1086;&amp;#1089;&amp;#1082;&amp;#1074;&amp;#1072;)
+[b]Ethnic:[/b] Russian (81.0%) (2010)
+[b]Area:[/b] 17,098,246 sq. km (6,601,670 sq. mi) (exc. Crimea) (1st)
+[b]Population:[/b] 144,526,636 (2018 est.) (6th)
+[/color][color=olive]
+REGION
+a [region=0000] region
+[b]Founded:[/b] 2017 Jun 26
+[b]Puppets:[/b] 2017 Jun 26
+[b]Featured:[/b] 2017 Nov 28; 2018 Dec 13
+[b]Matrixed:[/b] 2017 Dec 02
+A DBA Puppet Storage Region[/color][color=800000]
+[b]Embassy Offers Accepted[/b][/color]
