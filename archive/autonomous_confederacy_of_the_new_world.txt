@@ -15,6 +15,7 @@ Battle-Hymn of the Republic
 
 [b][color=red]Allied Regions: [/color][/b]
 - [region]the Dongle conferacy[/region]
+- [region]The Autocratic Ruling Of Loudoun[/region]
 [hr]
 
 [b][color=red]Official Language: [/color][/b] 
@@ -35,8 +36,9 @@ English
 [hr]
 
 [b][i][u][color=red]Enemies of the State: [/color][/u][/i][/b]
-- [region]The Autocratic Ruling Of Loudoun[/region]
+- [region]The New Socialist Union[/region]
 - [region]Dictatorial Ruling of Loudoun[/region]
+- [region]Communist[/region]
 [hr]
 
 [b][i][u][color=red]Rogue Nations (Enemies of the State): [/color][/u][/i][/b]

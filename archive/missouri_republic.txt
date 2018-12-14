@@ -20,4 +20,3 @@ Political Parties
 (I)=Independent
 (L)=Libertarian
 (G)=Green
-(C)=Communist
