@@ -1,3 +1,9 @@
-[b]Pacific Union[/b]
-a [region=0000] region
-This region is now accepting embassy offers
+[color=navy][b]Pacific Union[/b]
+[/color][color=olive]
+REGION
+:. a [region=0000] puppet storage region
+:. [b]Founded:[/b] 2015 Nov 05
+:. [b]Puppets:[/b] 2016 Apr 30
+:. [b]Matrixed:[/b] 2016 May 04
+[/color][color=B22222]
+[b]This region accepts embassy offers[/b][/color]
