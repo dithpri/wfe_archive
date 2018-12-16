@@ -12,7 +12,23 @@ If your nation is in the WA, please endorse either [nation]New Silvat[/nation] o
 
 [u]Current Year:[/u] 
 
-1754
+1755
+
+[u]Calendar[/u]
+
+[color=red]Monday - January, February[/color]
+
+[color=green]Tuesday - March, April[/color]
+
+[color=blue]Wednesday - May[/color]
+
+[color=green]Thursday - June, July[/color]
+
+[color=orange]Friday - August, September[/color]
+
+[color=red]Saturday - October, November[/color]
+
+[color=blue]Sunday - December[/color]
 
 [u]Tech Level:[/u] 
 
@@ -20,4 +36,4 @@ Early Industrial (1760 - 1780)
 
 [u]Maps/Important Links[/u]
 
-[url=https://imgur.com/XYhI7Ym]Regional Map[/url]
+[url=https://imgur.com/mZDb84e]Regional Map[/url]
