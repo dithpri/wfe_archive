@@ -1,1 +1,5 @@
-[hr][list][color=navy][b]Grand Free Nations[/b][/color][/list][hr]
+[color=navy][b]Grand Free Nations[/b]
+[/color][color=olive]
+REGION
+a [region=0000] region
+[b]Founded:[/b] 2016 Aug 26[/color]
