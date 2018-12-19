@@ -1,1 +1,6 @@
-[color=002646][b]The Union of Sibbonish Iswhandish Nation[/b][/color][hr]
+[color=navy][b]The Union of Sibbonish Iswhandish Nation[/b]
+[/color][color=olive]
+REGION
+[I]an Embassy Oracle Region[/I]
+a [region=0000] region
+[b]Founded:[/b] 2018 Dec 19[/color]

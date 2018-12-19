@@ -1,3 +1,6 @@
-[color=004545][b]Gironca Chiefdom States[/b][/color]
-[color=909090]This region is a [region=Double Funky 7] region[/color]
-[color=450000]This is an Oracle Region -- Not accepting Embassy Offers[/color]
+[color=navy][b]Gironca Chiefdom States[/b]
+[/color][color=olive]
+REGION
+[i]an Embassy Oracle Region[/i]
+a [region=0000] region
+[b]Founded:[/b] 2018 Dec 19[/color]

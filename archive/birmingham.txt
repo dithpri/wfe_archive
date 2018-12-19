@@ -1,10 +1,24 @@
-[hr][list][color=navy][b]Birmingham[/b][/color][/list][hr]
-[color=silver]
-[b]Founded:[/b] Aug 13, 2016
-This region will accept embassy offers
-[/color][color=navy]
+[color=navy][b]Birmingham[/b]
+[/color][color=green]
+FACTS
+[b]Founded:[/b] 
+- Settlement: 600 AD (est.)
+- City: 1889 Jan 14
+[b]Area:[/b] 
+- 103.4 sq mi (267.8 km sq) City
+- 231.2 sq mi (598.9 km sq) Urban
+[b]Population:[/b]
+- 1,137,100 (city - 1st)
+- 2,440,986 (urban - 3rd)
+- 4,332,629 (metro - 2nd)
+[b]Demonym:[/b] Brummie
+[/color][color=olive]
+REGION
 in association with:
 :&amp;#9786;: [region=Commonwealth States] :&amp;#9786;: [region=Edinburgh] :&amp;#9786;: 
 :&amp;#9786;: [region=Great Britain and Northern Ireland] :&amp;#9786;: [region=Greater London] :&amp;#9786;: 
 :&amp;#9786;: [region=London] :&amp;#9786;: [region=Manchester] :&amp;#9786;: [region=MI6] :&amp;#9786;: [region=Wales] :&amp;#9786;:
-This is an [region=Ancient Lands] region[/color]
+This is an [region=0000] region
+An Embassy Matrix Region
+[b]Founded:[/b] 2016 Aug 13[/color][color=FF4040]
+This region accepts embassy offers[/color]

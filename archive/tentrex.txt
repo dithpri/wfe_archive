@@ -1,1 +1,6 @@
-Tentrex
+[color=navy][b]Tentrex[/b]
+[/color][color=olive]
+REGION
+an Embassy Oracle Region
+a [region=0000] region
+[b]Founded:[/b] 2018 Dec 19[/color]

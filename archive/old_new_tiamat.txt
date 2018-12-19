@@ -1,18 +1,17 @@
-[region]The Yeet Army[/region] is assisting a friend in her personal regional restoration. 
+[color=Limegreen][region]The Yeet Army[/region] is assisting a friend in her personal regional restoration.[/color]
 
-All pilers are expected to endorse
-[b]The Delegate:[/b][nation]New Coraline City[/nation] 
+[color=cerulean]All pilers are expected to endorse[/color]
+[b]The Delegate:[/b]
+[nation]New Coraline City[/nation] 
 And the [b]Points:[/b]
 [nation]Chesistian Russia[/nation]
 [nation]The Dark Pixie Queendom[/nation]
-[nation]Alpha Force[/nation]
 
 [region]The Yeet Army[/region] 
-[b][u]Extends gratitude to the following regions for lending aid:[/u][/b]
+[color=0276FD][b][u]Extends gratitude to the following regions for lending aid:[/u][/b][/color]
 [region]The Black Hawks[/region]
 [region]THE NORTH Heart[/region]
 [region]New Yellow Empire[/region]
 [region]Chicken overlords[/region]
 [region]Kingdom Of Rome[/region]
 [region]True Land[/region]
-[region]The Wolf Clan[/region]
