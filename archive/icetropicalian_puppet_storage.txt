@@ -1,0 +1,3 @@
+[b]Puppet Storage[/b]
+
+This puppet storage stores the puppets owned and used by [nation]Icetropical[/nation].
