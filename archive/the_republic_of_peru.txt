@@ -1,3 +1,6 @@
-This region, once occupied by fascists has been liberated by [region]North Korea[/region] and The [region]Korean Peoples Army[/region]
-
-Previous holder: Greater German Reich - Generalbezirk peru
+[color=004500][b]The Republic of Peru[/b]
+[/color][color=olive]
+a [region=0000] region
+a DBA Alliance region
+an embassy-oracle region
+[b]Founded:[/b] 2018 Dec 21[/color]
