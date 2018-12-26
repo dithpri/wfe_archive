@@ -5,10 +5,10 @@ Welcome to the Superior Court of [region]RHINIA[/region]!
 
 _____________________________________________________________________________________________________________
 
-[b]Current State of the Court:[/b] Adjourned
+[b]Current State of the Court:[/b] Convened
 _____________________________________________________________________________________________________________
 [b]News:[/b]
-The Court has entered the [b]Yule Term[/b] as of Dec. 20th and will be open until March 20th
+Hearing the case [nation]Tetros[/nation] V.S. [region]RHINIA[/region] on January 3rd.
 _____________________________________________________________________________________________________________
 [b]Lord Justice of Rhinia:[/b]
 
@@ -16,11 +16,11 @@ ________________________________________________________________________________
 
 [b]Associate Justices of the Lower Court:[/b]
 
-House Falvius - 
+House Falvius - [nation]Ashanara[/nation]
 
-House Childers - 
+House Childers - [nation]South Slovakia[/nation]
 
-House Askanier - 
+House Askanier - [nation]Republic of Altos and Stratis[/nation]
 
 [b]Attorny General of Rhinia:[/b]
 
