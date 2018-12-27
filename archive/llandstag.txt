@@ -3,7 +3,7 @@
 FACTS[/b]
 Have not yet decided which type of region this will become
 - 1. Temporary region ([i]may only keep for a day or two[/i])
-- 2. Embassy Oracle Holding region ([i]populated by only the founder[/i])
+- 2. [b]Embassy Oracle Holding region[/b] ([i]populated by only the founder[/i])
 - 3. Embassy Oracle Puppet Storage region ([i]founder and 7 or more puppets[/i])**
 - 4. Embassy Matrix Puppet Storage region ([i]founder and 7 or more puppets[/i])*
 * only #4 accepts embassy offers
