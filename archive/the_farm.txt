@@ -1,3 +1,20 @@
 This is a puppet storage region.
 
 ALL EMBASSY REQUESTS ARE DENIED
+
+The Thirteen Farmers of Doom:
+[list=1]
+[*][nation]Farmer Anderson[/nation]
+[*][nation]Farmer Clifford[/nation]
+[*][nation]Farmer Gardenia[/nation]
+[*][nation]Farmer Ivy[/nation]
+[*][nation]Farmer Jackson[/nation]
+[*][nation]Farmer Lacey[/nation]
+[*][nation]Farmer Lynn[/nation]
+[*][nation]Farmer Mackenzie[/nation]
+[*][nation]Farmer Morgan[/nation]
+[*][nation]Farmer Prescott[/nation]
+[*][nation]Farmer Pritchard[/nation]
+[*][nation]Farmer Rogers[/nation]
+[*][nation]Farmer Wilson[/nation]
+[/list]
