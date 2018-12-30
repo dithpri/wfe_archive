@@ -1,6 +1,3 @@
-[b][color=blue]The Autonomous Confederacy of the New World[/color][/b]
-[hr]
-
 [b][color=red]Date of Establishment: [/color][/b]
 6th of July 2018
 [hr]
@@ -16,6 +13,7 @@ Battle-Hymn of the Republic
 [b][color=red]Allied Regions: [/color][/b]
 - [region]the Dongle conferacy[/region]
 - [region]The Autocratic Ruling Of Loudoun[/region]
+- [region]Teutonic Empire[/region]
 [hr]
 
 [b][color=red]Official Language: [/color][/b] 

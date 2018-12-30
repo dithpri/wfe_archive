@@ -11,6 +11,8 @@ The Royal Alliance Organization Region will serve as a direct way for Alliance M
 -[region]Edmundian Empire[/region]
 -[region]United Imperial Union[/region]
 -[region]The Crown Federation of Recon[/region]
+-[region]Kingdom of Sayville[/region]
+-[region]Kingdom of West Sayville[/region]
 
 [hr]
 
