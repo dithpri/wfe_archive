@@ -7,18 +7,18 @@
 
 [list][i]Deputy Chancellor[/i]:  [i][nation=short+noflag]Josephtan[/nation] ([color=#FFBF00]LD[/color])[/i]
 
-[i]Coalition Party Leader[/i]:  [i][nation=short+noflag]Grand Rebels[/nation] ([color=#642EFE]RF[/color])[/i][/list]
+[i]Coalition Party Leader[/i]:  [i][nation=short+noflag]The 3rd Swedish Empire[/nation] ([color=#642EFE]NP[/color])[/i][/list]
 
-[b][i]Shadow Chancellor[/i]: [nation=short+noflag]The Greater Canadian Republic[/nation][/b] ([b][Color=#0080FF]ACT[/color][/b])
+[b][i]Shadow Chancellor[/i]: [nation=short+noflag]Vacant[/nation][/b] ([b][Color=#0080FF]ACT[/color][/b])
 
 [list][i]Minor Party Shadow Leader: [nation=noflag]Bennisia[/nation] ([color=#E4287C]SOC[/color])[/i][/list]
 
-[list][i]Minor Party Shadow Leader: [nation=noflag]Suternia[/nation] ([color=Green]UNI[/color])[/i][/list]
+[list][i]Minor Party Shadow Leader: [nation=noflag]Mukolayiv[/nation] ([color=Green]UNI[/color])[/i][/list]
 
 [/list][/list][hr][hr]
 
-[b][u]Current Business:[/b][/u][i] Electoral Accountability Act -- L.R. 101[/i]
+[b][u]Current Business:[/b][/u][i] In Recess[/i]
 [b][u]Previous Business:[/b][/u][i] The 2018 Purge of Inactive Government Officials -- L.R. 100 ([color=Red]FAILED[/color])[/i]
-[b][u]Next Scheduled Business:[/b][/u][i] The Party Leadership CTE Act -- L.R. 102[/i]
+[b][u]Next Scheduled Business:[/b][/u][i] N/A[/i]
 
 [hr][hr]
