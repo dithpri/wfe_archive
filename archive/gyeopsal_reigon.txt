@@ -1,7 +1,19 @@
-This Region consists of countries :
+This Region (and not Reigon) consists of countries :
 
 [nation]Goguk[/nation]
 
-[nation]the kingom of Taeline[/nation]
+[nation]Taeline[/nation]
 
-[nation]the community Christianity communism and chlamydia [/nation]
+The Community of [nation]Christianity Communism and Chlamydia[/nation] (CCCC)
+
+[nation]Stop Smoking[/nation]
+
+[nation]Donutyoung[/nation]
+
+[nation]Tchamchi[/nation]
+
+[nation]BadEnglishLanguage[/nation]
+
+[nation]Republic of Aleksandros[/nation]
+
+that, for now, live in harmony.
