@@ -3,7 +3,7 @@
 [hr][hr]
 
 [color=gold]&amp;#9812;[/color] [b]Leadership[/b] [color=gold]&amp;#9812;[/color]
-[list][b][i]Chancellor[/i]:  [nation=short+noflag]Calponia[/nation] ([color=#FE2E2E]CON[/color])[/b]
+[list][b][i]Chancellor[/i]:  [nation=noflag]Senator Ormantum[/nation] ([color=#FE2E2E]CON[/color])[/b]
 
 [list][i]Deputy Chancellor[/i]:  [i][nation=short+noflag]Josephtan[/nation] ([color=#FFBF00]LD[/color])[/i]
 
@@ -14,6 +14,8 @@
 [list][i]Minor Party Shadow Leader: [nation=noflag]Bennisia[/nation] ([color=#E4287C]SOC[/color])[/i][/list]
 
 [list][i]Minor Party Shadow Leader: [nation=noflag]Mukolayiv[/nation] ([color=Green]UNI[/color])[/i][/list]
+
+[I]Senate Clerk: [nation]Suternia[/nation][/I]
 
 [/list][/list][hr][hr]
 
