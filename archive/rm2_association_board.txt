@@ -13,4 +13,7 @@ Support the war declaration?
 [nation=noflag]Hagston[/nation]
 [b]SPECIAL GUEST/S[/b]
 [nation=noflag]Christian Confederation[/nation]
-[nation=noflag]RBBF[/nation] or [region]SECFanatics[/region] delegate
+[nation=noflag]Fulmer[/nation]
+[nation=noflag]Gothic Empire[/nation]
+
+[hr][color=red]For any questions, please contact [nation]Hagston[/nation].[/color]
