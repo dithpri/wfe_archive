@@ -1,3 +1,13 @@
 This is the Supreme Court of the region [region]United Kingdoms of the Pacific[/region]
 
 [b][nation]Vigoriths[/nation] is a vassal of [nation]North Xeonia Powestopia[/nation][/b]
+
+[*]Chief Justice: [b]Vacant[/b]
+
+Associate Justices
+[*] [b]Vacant[/b]
+[*] [b]Vacant[/b] [hr]
+
+[b][u][color=#FF0000]Current Case(s)[/u] |[/b][/color] [hr]
+[b][u][color=#FF0000]Recent Verdict(s)[/u] |[/b] [/color][hr]
+[b][u][color=#FF0000]Upcoming Case(s)[/u] |[/b] [/color]

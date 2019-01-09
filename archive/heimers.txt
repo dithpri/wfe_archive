@@ -1,1 +1,8 @@
-Tribes of Heimers
+[color=navy][b]Heimers[/b]
+[/color][color=olive]
+REGION
+an embassy=oracle holding region
+a DBA/[region=0000] region
+[b]Founded:[/b] 2019 Jan 09
+[/color][color=ee6900]
+Sorry --- No Embassy Offers Please[/color]
