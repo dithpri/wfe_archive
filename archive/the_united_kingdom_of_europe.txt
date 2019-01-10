@@ -1,1 +1,12 @@
-The United Kingdom Of Europe
+[color=navy][b]The United Kingdom Of Europe[/b]
+[/color][color=green]
+---
+[/color][color=olive]
+REGION
+[b]a DBA Allied Region[/b]
+a [region=0000] region
+[b]Founded:[/b] 2018 Apr 01
+[b]Puppet Storage Region:[/b] 2019 Jan 10
+an embassy-oracle region
+[/color][color=red]
+Embassy Offers are Not Being Accepted at this time[/color]
