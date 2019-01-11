@@ -3,7 +3,7 @@
 [hr][hr]
 
 [color=gold]&amp;#9812;[/color] [b]Leadership[/b] [color=gold]&amp;#9812;[/color]
-[list][b][i]Chancellor[/i]:  [nation=noflag]Senator Ormantum[/nation] ([color=#FE2E2E]CON[/color])[/b]
+[list][b][i]Chancellor[/i]:  [nation=noflag]Ormantum[/nation] ([color=#FE2E2E]CON[/color])[/b]
 
 [list][i]Co-Chancellor[/i]:  [i][nation=short+noflag]Josephtan[/nation] ([color=#FFBF00]LIB[/color])[/i]
 
@@ -21,6 +21,6 @@
 
 [b][u]Current Business:[/b][/u][i] The NWA Attorney and Public Defense Act - L.R. 104[/i]
 [b][u]Previous Business:[/b][/u][i] NWA Senate Clerk Election IV - L.R. 103 ([color=green]PASSED[/color])[/i]
-[b][u]Next Scheduled Business:[/b][/u][i] N/A[/i]
+[b][u]Next Scheduled Business:[/b][/u][i] The Contempt of Legislature Act - L.R. 105[/i]
 
 [hr][hr]

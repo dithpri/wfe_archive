@@ -1,7 +1,11 @@
-[b][color=red][u]HALT![/u][/color] [color=#4554d4]This region is within violation of [region]The Ragerian Imperium[/region]&#146;s noble laws. Martial Law has been declared by the Ragerian Armada, resistance is futile. When you can&#146;t beat &#145;em, join &#145;em at [url=http://s15.zetaboards.com/Ragerian_Imperium/index/]Our Mothership.[/url].[/color] 
+[b]We interrupt this WFE. This is a regional emergency. The Emperor of Mare Nostrum or his designated representative will appear shortly over the Emergency Broadcast System. Do not panic.[/b] The Legions of [region]The Empire of Mare Nostrum[/region] have visited your region, do not resist. Resistance is futile.
 
- [u]Sailors and Hawks[/u]
- Lieutenant [nation]Slitherin Snakes[/nation] (Trigger) 
-Admiral [nation]Samsonyte[/nation]
-Pilot [nation]Sudokova[/nation] Corporal 
-[nation]The Sapientia[/nation] ([region]The Black Hawks[/region]) [/b]
+[b]From the Marian Legions:[/b]
+Centurion [nation]Albian[/nation] (Trigger)
+Strategos [nation]Salvarity[/nation]
+Centurion [nation]Sancta Romana Ecclesia[/nation] 
+Decanus [nation]Atrony Detonis[/nation]
+Princeps [nation]Papa Penguin[/nation]
+
+[b]From the Sekhmet Legion of [region]Osiris[/region][/b]
+Raqib [nation]Calvinist State[/nation]
