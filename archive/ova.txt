@@ -1,0 +1,27 @@
+
+Physics	
+   Type	Standard iron/silicate
+   Radius	5904.15 km   (0.93 x earth)
+   Surface Area	4.38 x 108 km2
+   Land Area	3.55 x 108 km2   (2.38 x earth)
+   Mass	4.03 x 1024 kg   (0.68 x earth)
+   Density	4.68 g/cm3   (0.85 x earth)
+
+Gravimetry	
+   Gravity	7.69 m/s2   (0.79 x earth)
+   Escape Velocity	9.53 km/s
+   Rotation	
+   Period	14.95 hours
+   Axis Tilt	63.50 &deg;
+
+Hydrosphere	
+   Water	20 %
+   Ice	        10 %
+
+Atmosphere	
+Pressure	82.12 kPa   (0.81 x earth)
+Composition	70.09% nitrogen, 28.95% oxygen, 0.93% argon, 0.04% carbon dioxide
+
+Climate	
+   Type	Standard
+   Avg Temp	294 K   (21 &deg;C)
