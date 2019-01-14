@@ -9,3 +9,4 @@ Holding region for undeployed Amore puppets.
 [nation]Meteora Amore[/nation] : [region]St Abbaddon[/region]
 [nation]Mare Amore[/nation] : [region]The Glorious Nations of Iwaku[/region]
 [nation]Pianeta Amore[/nation] : [region]Eastern Islands of Dharma[/region]
+[nation]Yuno Amore[/nation] : [region]Yuno[/region]
