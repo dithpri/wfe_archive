@@ -10,3 +10,4 @@ Holding region for undeployed Amore puppets.
 [nation]Mare Amore[/nation] : [region]The Glorious Nations of Iwaku[/region]
 [nation]Pianeta Amore[/nation] : [region]Eastern Islands of Dharma[/region]
 [nation]Yuno Amore[/nation] : [region]Yuno[/region]
+[nation]Patata Amore[/nation] : [region]Potato[/region]

@@ -1,1 +1,5 @@
-The Colonies of the Empire reside within.
+[color=firebrick][b]Welcome to Imperium Romanum[/b][/color]
+[i]From the ashes of old, the glory of Rome shall rise once more![/i]
+
+[hr][u][b]Imperial Government[/b][/u]
+[list][*][color=firebrick][b]Emperor of the Romans:[/b][/color] [nation]Romano[/nation][/list]
