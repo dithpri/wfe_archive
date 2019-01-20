@@ -3,3 +3,5 @@
 
 [hr][u][b]Imperial Government[/b][/u]
 [list][*][color=firebrick][b]Emperor of the Romans:[/b][/color] [nation]Romano[/nation][/list]
+
+[hr][b]Sister region:[/b] [region]Imperium Byzantium[/region]

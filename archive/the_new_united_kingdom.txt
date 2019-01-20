@@ -1,28 +1,31 @@
-[b]Welcome to [color=red]The [/color][color=navy]New [/color][color=darkorange]United [/color][color=darkgreen]Kingdom[/color].[/b]
-Client Region of [region]The United Kingdom[/region].
+[b]Welcome to [color=red]The [/color][color=navy]New [/color][color=darkorange]United [/color][color=darkgreen]Kingdom[/color][/b]
+of England, Scotland, Ireland, and Wales.
 
-Officially known as;
+[hr]
 
-The New United Kingdom 
-of Great Britain and Northern Europe.
+[i]&quot;Experience the Devolution Revolution.&quot;[/i]
+
+[hr]
+
+Our [b]Sovereign[/b] is [b][nation]King Arthur II[/nation][/b].
+[nation]Prince George[/nation] is Prince of Wales.
+[nation]Prince Henry[/nation] is Prince of Scotland.
+[nation]Prince Harry[/nation] is Prince Royal.
+
+The ruling house is [nation]Tudor Official[/nation].
+We are a vassal of [region]The United Kingdom[/region].
+
+[hr]
 
 [b]We permanently claim the regions of;[/b]
 
 [region]New United Kingdom[/region].
 [region]The Kingdom of Denmark[/region].
-[region]Khanate of Inner Mongolia[/region].
+[region]The Kingdom of Norway[/region].
 [region]The Kingdom of Great Britain[/region].
-[region]Pax Britannia[/region].
-[region]The Britannian Empire[/region].
-[region]Imperial Britain[/region].
-[region]British Isles[/region].
-[region]British Empire[/region].
-[region]Britannic Union[/region].
-[region]The British Empire[/region].
 
-All on behalf of 
-[b][region]The United Kingdom[/region][/b]
-of Great Britain &amp; Ireland.
+and dozens more!
 
-~ King Carlisle I,
-~ formerly King Henry IX.
+[hr]
+
+Find our allies &amp;#64; [region]Commonwealth HQ[/region].

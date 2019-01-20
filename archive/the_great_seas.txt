@@ -1,0 +1,22 @@
+Seafaring and Maritime nationstates: Welcome on the Great Seas.
+
+[b]Constitution[/b]
+
+Led by the Captain of [nation]Interra[/nation], The Great Seas is a region open to all seafaring nationstates regardless of policies and economies.
+
+All member nationstates shall at all times:
+
+1. Promote sustainable policies for the sea and ocean wildlife;
+2. Have a Maritime classification; and,
+3. Comply with the Flag Regulations.
+
+[b]Flag Regulations[/b]
+
+All flags shall:
+
+1. Clearly feature the blue triangle and white star in the upper left corner as flag of [nation]Interra[/nation].
+2. Have a background colour other than the blue in the triangle or a thereto similar blue or confusing pattern.
+
+Template: https://tennessine.co.uk/flags/5c445466ef233/
+Blue: RGB(10,10,255) or #0a0aff
+White: RGB(255,255,255) or #ffffff
