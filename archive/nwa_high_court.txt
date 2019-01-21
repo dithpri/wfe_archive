@@ -11,7 +11,7 @@
 [*][nation]O-Broki[/nation][/list]
 [hr]
 [color=#FF0000][b][u]Current Case(s)[/u] |[/b][/color] [i]
-[list][*][region]New Western Atlantic High Courtroom 1[/region]: Constitutional Challenge to the Co-Chancellorship Deal in the Senate
+[list][*][region]New Western Atlantic High Courtroom 1[/region]: 
 [*][region]New Western Atlantic High Courtroom 2[/region]: Constitutional Challenge on the Political Integrity Act (L.R. 73)
 [*][region]New Western Atlantic High Courtroom 3[/region]: 
 [/list][/i]
@@ -20,7 +20,7 @@
 The Court has ruled the Defendant Not Guilty 
 [/i]
 
-[color=#FF0000][b][u]Upcoming Case(s)[/u] |[/b][/color] [i]Constitutional Challenge to the Co-Chancellorship Deal in the Senate[/i]
+[color=#FF0000][b][u]Upcoming Case(s)[/u] |[/b][/color] [i][/i]
 [hr]
 
 [color=#FF4500]Formats for filling a case can be found [url=https://www.nationstates.net/nation=justice_trump_and_pence/detail=factbook/id=1074507]here[/url][/color]

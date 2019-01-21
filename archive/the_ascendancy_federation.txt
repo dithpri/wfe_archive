@@ -3,9 +3,7 @@ Welcome!
 If you&#39;re reading this, that means that your region is (hopefully) a member of [b]The Ascendancy Federation[/b].
 Unfortunately, there won&#39;t be much activity here, so feel free to check out any of our [b]Member Regions[/b] below![hr]
 This region is a puppet storage for all regions in The Ascendancy Federation.[hr]
-[region]The United Nations of CASA[/region]
 [region]Assembly of Independent Nations[/region]
-[region]Uniterra[/region]
 [region]The Mediterranean Commonwealth[/region][hr]
 [b]Security Status:[/b] [color=green]Safe[/color]
 [b]Combat Commands:[/b] [color=green]Begin Training[/color]
