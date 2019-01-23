@@ -5,19 +5,18 @@
 [b]|[url=https://www.nationstates.net/nation=tarkin/detail=factbook/id=main]Regional Constitution[/url]|[url=https://www.nationstates.net/nation=tark_migneria/detail=factbook/id=1099179]Regional Map[/url][/b]
 
  [b][u][color=black]Executive:[/color][/u][/b]
-[i]General Secretary[/i]:[nation=short]Theruhr[/nation]
+[i]General Secretary[/i]:[nation=short]Learned Hands[/nation]
 [i]Vice Secretary:[/i][nation=short]Caska[/nation]
 
 [color=maroon][b]Senate[/b][/color]
 [Nation=short]Flaxxony[/nation]
-[Nation=short]The United States of Cole[/nation]
-[Nation=short]Gararia[/nation]
-[Nation=short]Haclife[/nation]
-[Nation=short]Abita Springs[/nation]
-[Nation=short]TheRuhr[/nation]
+[Nation=short]Theruhr[/nation]
+[Nation=short]Marasaw[/nation]
+[Nation=short]New Delgado[/nation]
+[i]Open Seat[/i]
 
 
 [color=blue][b][u]Judiciary:[/color][/b][/u]
-[i]Chief Justice:[/i] [nation=short]New Delgado[/nation]
-Justice:[nation=short]Gararia[/nation]
-Justice:[nation=short]Tark Migneria[/nation]
+[i]Chief Justice:[/i] [nation=short]Catholic Rivendell[/nation]
+Justice: OPEN
+Justice: OPEN
