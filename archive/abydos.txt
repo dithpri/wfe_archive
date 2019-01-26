@@ -1,7 +1,4 @@
-[Color=red][b]Scribe Election:[/b] Happening Now
 
-
-[/color]
 
 [Color=indigo]
 [b]Government Overview:[/b]
@@ -13,7 +10,7 @@
 &amp;#9642;[b]Oracles[/b]: [nation]Zyris[/nation], [nation]Tristes Tropiques[/nation], open
 [b]High Priest:[/b] [nation]Zartavaria[/nation]
 [b]The Conclave:[/b]
-&amp;#9642;Elected: [nation]Antideluvian Empyrea[/nation] &amp; open
+&amp;#9642;Elected: [nation]Antideluvian Empyrea[/nation] &amp; [nation]Synum Gabymus[/nation]
 &amp;#9642;Selected: [nation]Alexeyevskaya[/nation] &amp; [nation]Bona Fidia[/nation]
 &amp;#9642;Appointed: [nation]Armagstan[/nation] &amp; [nation]Klatenia[/nation]
 

@@ -1,1 +1,1 @@
-(More or less defunct) puppet storage of Democritus.
+The (possibly defunct, possibly not) puppet storage of Democritus.
