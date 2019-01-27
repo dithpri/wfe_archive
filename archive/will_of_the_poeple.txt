@@ -11,7 +11,7 @@ rule 4 love russia
 
 rule 5 take russia&#39;s side
 
-rule 6 hate chicken overlords
+rule 6 hate [region]Chicken overlords[/region]
 
 Rule 7 hate Hitler
 
