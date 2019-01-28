@@ -11,12 +11,12 @@
 [color=maroon][b]Senate[/b][/color]
 [Nation=short]Flaxxony[/nation]
 [Nation=short]Theruhr[/nation]
-[Nation=short]Marasaw[/nation]
+[i]Open Seat[/i]
 [Nation=short]New Delgado[/nation]
 [i]Open Seat[/i]
 
 
 [color=blue][b][u]Judiciary:[/color][/b][/u]
-[i]Chief Justice:[/i] [nation=short]Catholic Rivendell[/nation]
+[i]Chief Justice:[/i] [nation=short]Marasaw[/nation]
 Justice: OPEN
 Justice: OPEN
