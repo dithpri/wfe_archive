@@ -1,1 +1,4 @@
-This is a Redwall themed region.
+[color=green][b]Mossflower Wood[/b]
+[/color][color=olive]
+a [region=Ancient Lands] region
+[b]Founded:[/b] 2019 Jan 29[/color]

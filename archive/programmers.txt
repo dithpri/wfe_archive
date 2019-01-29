@@ -1,1 +1,2 @@
 print(&quot;hi!&quot;)
+For the coders. Any type. 
