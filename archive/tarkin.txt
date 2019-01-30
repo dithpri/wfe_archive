@@ -9,8 +9,8 @@
 [i]Vice Secretary:[/i][nation=short]Caska[/nation]
 
 [color=maroon][b]Senate[/b][/color]
-[Nation=short]Flaxxony[/nation]
-[Nation=short]Theruhr[/nation]
+[Nation=short]CamerWoon[/nation]
+[Nation=short]CPSU[/nation]
 [i]Open Seat[/i]
 [Nation=short]New Delgado[/nation]
 [i]Open Seat[/i]
@@ -18,5 +18,5 @@
 
 [color=blue][b][u]Judiciary:[/color][/b][/u]
 [i]Chief Justice:[/i] [nation=short]Marasaw[/nation]
-Justice: OPEN
-Justice: OPEN
+Justice: [nation=short]Haclife[/nation]
+Justice: [nation=short]Burkai[/nation]
