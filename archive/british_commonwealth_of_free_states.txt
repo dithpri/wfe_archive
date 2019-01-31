@@ -1,6 +1,13 @@
-[region]British Commonwealth of Free States[/region] is a Protectorate of the [region]Empire of Great Britain[/region].
+[b]&amp;#9819; [colour=darkblue][i]Welcome to the British Commonwealth of Free States![/i][/colour]
+&amp;#9819; Protectorate of the [region]Empire of Great Britain[/region][/b]
 
-[color=purple]Empress: [nation]Her Majesty Queen Victoria[/nation]
-Governor-General: [nation]The Supreme Leader of Galaxia[/nation][/color]
+[hr]
 
-The Protecorate is currently a closed-region and nations are encouraged to proceed to the [region]Empire of Great Britain[/region].
+[colour=darkblue][b]HIM Protectorate Government[/b][/colour]
+
+[b][colour=purple]Empress[/colour]: [nation]Her Majesty Queen Victoria[/nation]
+[colour=purple]Governor-General[/colour]: [nation]The Supreme Leader of Galaxia[/nation][/b]
+
+[hr]
+
+[b][colour=darkred]The [region]Empire of Great Britain[/region] aims to spread the British values of democracy, tradition, individual liberty &amp; constitutional monarchy. All British nations, colonies, protectorates, dominions and commonwealths are welcome within the Empire.[/colour][/b]
