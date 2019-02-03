@@ -10,6 +10,7 @@
 
 -[nation]East Kirea[/nation]
 -[nation]Chowkaria[/nation]
+-[nation]Feysand[/nation]
 
 [b]Endorsement Cap: Half that of the WA Delegate[/b]
 
