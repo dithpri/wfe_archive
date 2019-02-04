@@ -12,7 +12,8 @@
 -[nation]Chowkaria[/nation]
 -[nation]Feysand[/nation]
 
-[b]Endorsement Cap: Half that of the WA Delegate[/b]
+[b]Endorsement Cap: Half that of the WA Delegate
+Government endorsement cap: three less than the WA Delegate[/b]
 
 [hr]
 

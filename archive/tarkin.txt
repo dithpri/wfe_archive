@@ -11,9 +11,9 @@
 [color=maroon][b]Senate[/b][/color]
 [Nation=short]CamerWoon[/nation]
 [Nation=short]CPSU[/nation]
-[i]Open Seat[/i]
+[Nation=short]Libbington[/nation]
 [Nation=short]New Delgado[/nation]
-[i]Open Seat[/i]
+[Nation=short]The Sanhedrin[/nation]
 
 
 [color=blue][b][u]Judiciary:[/color][/b][/u]
