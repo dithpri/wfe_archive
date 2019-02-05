@@ -1,10 +1,3 @@
-Region set in the future with a galaxy to explore. Supports primitive tech levels up to space empire tech. Uses Wikia.
-The region has non-playable civilizations, to allow player civilizations to roleplay more aggressive civilizations, without annoying other players.
+A galactic scale region where all types of technology levels and governments are found.
 
-[u]Region Lore[/u]
-This Nationstates region takes place in Aesira, a name for the universe this region is set in. Player civilizations inhabit the Estrotte Galaxy, an SBc class galaxy containing ~200 billion stars.
-This galaxy is split into 20 sectors, of which the Thita Sector being the active sector. Only nations of sufficient size or technology can expand beyond it.
-
-[u]URLs[/u]
-Wikia: [url=http://aesira-ns.wikia.com/wiki/Aesira_NS_Wiki]Aesira-NS[/url]
-Discord: [url=http://discord.gg/feTh2aC]Invite Link[/url]
+https://aesira-ns.wikia.com/wiki/Aesira_NS_Wiki

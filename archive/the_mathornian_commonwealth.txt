@@ -1,4 +1,4 @@
-[region]The Mathornian Commonwealth[/region] is puppet storage for [nation=long]Mathorn[/nation] (Incumbent President of The [region]United Free States[/region]).
+[region]The Mathornian Commonwealth[/region] is puppet storage for [nation=long]Mathorn[/nation] (The [region]United Free States[/region]).
 
 [region]The Mathornian Commonwealth[/region] is a peaceful, isolationist region, one that is free from outside events and distractions.
 
@@ -8,8 +8,8 @@ Most embassy requests will be accepted.
 These nations are:
 
 - [nation=long]Asaipho[/nation] - Orcish Kingdom
-- [nation=long]Belgrost[/nation] - Dwarven Kingdom
+- [nation=long]Belgrost[/nation] - Dwarven Kingdom (located in [region]CISB[/region])
 - [nation=long]Bogroth[/nation] - Human Kingdom
 - [nation=long]Pathorn[/nation] - Human Kingdom
 - [nation]The Four Farthings of the Shire[/nation] - Hobbit Realm
-- [nation=long]Wucia[/nation] - Elven Kingdom
+- [nation=long]Wucia[/nation] - Elven Kingdom (located in [region]United Free States[/region])
