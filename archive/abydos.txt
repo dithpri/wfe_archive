@@ -1,12 +1,13 @@
+[Color=red]Grand Conclave to Form[/color]
 
 [Color=indigo]
 [b]Government Overview:[/b]
-[b]Calendar:[/b] Third Era of the First Dynasty
-[b]Grand Luxarch:[/b] [nation]Ancient Greek Kingdoms[/nation]
+[b]Calendar:[/b] First Intermittent Period
+[b]Grand Luxarch:[/b] open
 &amp;#9642;[b]Ankh Emperor[/b]: [nation]Amenhotep[/nation]
 &amp;#9642;[b]Ma&#39;at Emperor[/b]: vacant
-[b]High Oracle[/b]: [nation]Yaqobia[/nation]
-&amp;#9642;[b]Oracles[/b]: [nation]Zyris[/nation], [nation]Tristes Tropiques[/nation], open
+[b]High Oracle[/b]: open
+&amp;#9642;[b]Oracles[/b]: [nation]Tristes Tropiques[/nation], open, open
 [b]High Priest:[/b] [nation]Zartavaria[/nation]
 [b]The Conclave:[/b]
 &amp;#9642;Elected: open &amp; [nation]Synum Gabymus[/nation]
