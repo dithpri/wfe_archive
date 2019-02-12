@@ -14,5 +14,6 @@ My Matrix Regions are represented by:
 REGION
 this is a DBA Alliance [region=0000] oracle holding region
 allied with [region=United States of America][/color][color=FFA812]
-[b]PASSWORDED REGION[/b][/color][color=66023C]
+[b]PASSWORDED REGION[/b]
+[/color][color=red]
 [b]Sorry, this region does not accept embassy offers.[/b][/color][hr]
