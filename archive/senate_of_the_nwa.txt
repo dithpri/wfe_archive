@@ -5,7 +5,7 @@
 [color=gold]&amp;#9812;[/color] [b]Leadership[/b] [color=gold]&amp;#9812;[/color]
 [list][b][i]Chancellor[/i]:  [nation=noflag]Ormantum[/nation] ([color=#FE2E2E]CON[/color])[/b]
 
-[list][i]Co-Chancellor[/i]:  [i][nation=short+noflag]Josephtan[/nation] ([color=#FFBF00]LIB[/color])[/i]
+[list][i]Co-Chancellor[/i]:  [i]Disputed[[url=https://www.nationstates.net/nation=new_suternia/detail=factbook/id=1167125]1[/url]] ([color=#FFBF00]LIB[/color])[/i]
 
 [i]Deputy Chancellor[/i]:  [i][nation=short+noflag]The 3rd Swedish Empire[/nation] ([color=#642EFE]NAT[/color])[/i][/list]
 
