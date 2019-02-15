@@ -1,1 +1,5 @@
-The territories under the rule of the House of Oldenburg-Navarre-Lancaster. Currently...
+The territories under the rule of the House of Oldenburg-Navarre-Lancaster. Currently:
+[nation]Adanista Monarquica Espana[/nation]
+[nation]Adanista Flamenco-Paises Bajos[/nation]
+[nation]Adanista Monarquica Ispanya[/nation]
+[nation]Vereinigtes Holstein Danmark Norge[/nation]
