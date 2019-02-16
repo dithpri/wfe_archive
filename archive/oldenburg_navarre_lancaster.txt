@@ -3,3 +3,6 @@ The territories under the rule of the House of Oldenburg-Navarre-Lancaster. Curr
 [nation]Adanista Flamenco-Paises Bajos[/nation]
 [nation]Adanista Monarquica Ispanya[/nation]
 [nation]Vereinigtes Holstein Danmark Norge[/nation]
+[nation]Adanista Naepoles y Sicilia[/nation]
+[nation]Ispanyol Norte De Africa[/nation]
+[nation]Sremska Kjemspa[/nation]

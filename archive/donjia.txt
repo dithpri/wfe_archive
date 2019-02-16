@@ -18,9 +18,9 @@ News:
 
 [b]Election Schedule:[/b]
 
-[color=red]Secretary of State: February 14th-16th[/color]
+[color=grey]Secretary of State: February 14th-16th[/color] - [nation]Bvergia[/nation]
 
-Secretary of Homeland Security: February 16th-18th
+[color=red][b]Secretary of Security: February 16th-18th[/b][/color]
 
 Secretary of Interior: February 18th-20th
 
