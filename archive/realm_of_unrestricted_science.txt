@@ -13,14 +13,14 @@ Everyone else, you are fine too.[/color]
 
 [b][color=darkblue]Regional status:[/color] 
 
-[color=darkgreen]-&amp;gt;Everything seems normal&amp;lt;-[/color]
+[color=darkgreen]Everything seems normal[/color]
 
-[color=darkorange]Some minor disturbances[/color]
+[color=lightgrey]Some minor disturbances[/color]
 
-[color=darkred]Catastrophe is inevitable[/color]
+[color=lightgrey]Catastrophe is inevitable[/color]
 
 [hr]
 
 [color=darkblue]Discord status:[/color]
 
-[color=darkgreen]-&amp;gt;On-line&amp;lt;-[/color][/b]
+[color=darkred]Off-line[/color][/b]
