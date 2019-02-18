@@ -1,1 +1,1 @@
-Puppet Storage for region CISB.
+The newly refounded CISB Puppet Storage

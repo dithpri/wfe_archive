@@ -20,9 +20,9 @@ News:
 
 [color=grey]Secretary of State: February 14th-16th[/color] - [nation]Bvergia[/nation]
 
-[color=red][b]Secretary of Security: February 16th-18th[/b][/color]
+[color=grey]Secretary of Security: February 16th-18th[/color] - [nation]Islas Aaland[/nation]
 
-Secretary of Interior: February 18th-20th
+[color=red][b]Secretary of Interior: February 18th-20th[/b][/color]
 
 Secretary of Outreach: February 20th-22th
 

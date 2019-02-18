@@ -13,7 +13,7 @@
 -[nation]Feysand[/nation]
 
 [b]Endorsement Cap: Half that of the WA Delegate
-Government endorsement cap: three less than the WA Delegate[/b]
+[/b]
 
 [hr]
 
@@ -26,5 +26,3 @@ Government endorsement cap: three less than the WA Delegate[/b]
 &amp;#9670; [b][u]Pro[/u] Security Council[/b] &amp;#9670;
 
 [hr]
-
-[color=red][b][u]Administration:[/b][/u][/color]

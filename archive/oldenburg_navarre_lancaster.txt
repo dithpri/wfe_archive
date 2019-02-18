@@ -1,8 +1,11 @@
-The territories under the rule of the House of Oldenburg-Navarre-Lancaster. Currently:
+[b]The Empires and Kingdoms who are in direct control of the Colonies:[/b]
 [nation]Adanista Monarquica Espana[/nation]
-[nation]Adanista Flamenco-Paises Bajos[/nation]
-[nation]Adanista Monarquica Ispanya[/nation]
-[nation]Vereinigtes Holstein Danmark Norge[/nation]
-[nation]Adanista Naepoles y Sicilia[/nation]
-[nation]Ispanyol Norte De Africa[/nation]
 [nation]Sremska Kjemspa[/nation]
+[nation]Vereinigtes Holstein Danmark Norge[/nation]
+
+[b]The Colonies:[/b]
+[nation]Adanista Flamenco-Paises Bajos[/nation]
+[nation]Adanista Milano De Italie[/nation]
+[nation]Adanista Naepoles y Sicilia[/nation]
+[nation]Adanista Colonias de Indias Orientales[/nation]
+[nation]Ispanyol Norte De Africa[/nation]

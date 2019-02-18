@@ -7,9 +7,12 @@ Prime Minister: [nation]Rikara[/nation]
 [/color]
 [color=red]THE COUNCIL[/color]
 [color=blue]
-[nation]Rikara[/nation]
-[nation]Izaaxland[/nation]
-[nation]The Solarian States[/nation]
+Seat 1:[nation]Rikara[/nation]
+Seat 2:[nation]Izaaxland[/nation]
+Seat 3:
+Seat 4:
+Seat 5:
+
 [/color][hr]
 [color=blue]To be put on the Regional Map, telegram our Council Members.[/color][u][/u]
 [color=blue]Endorse our Prime Minister, [nation]Rikara[/nation][/color][hr]
