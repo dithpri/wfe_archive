@@ -1,2 +1,3 @@
-Grogath rules with a hand of steel and dominates without compromise Easternburgh. 
-Prosperity is best reached with strong and wise leaders that command the respect of their population of hard workers and happy citizens. Within this region, nations will do as they are told the eternal leaders of Grogath know best. 
+[nation]Grogath[/nation] rules with a hand of steel and dominates without compromise [region]Easternburgh[/region]. 
+Prosperity is best reached with strong and wise leaders that command the respect of their population of hard workers and happy citizens. The [i]common good[/i] is thus a thing of a few [I]charismatic[/i] and [I]coercitive[/i] individuals. 
+Within this region, nations will do as they are told: the eternal leaders of [nation]Grogath[/nation] know best. 

@@ -1,11 +1,11 @@
-Welcome to Myregion! Please endorse the Delegate &amp;lt;vacant&amp;gt;.
+Welcome to Myregion! Please endorse the Delegate [nation]Crila[/nation].
 [hr]
 Founded February 11, 2019
 [hr]
 We accept all nations, however if you spam we will ban you.
 [hr]
 Founder: [nation]Mynation[/nation]
-Delegate: Vacant
+Delegate: [nation]Crila[/nation]
 Vice Delegate: Vacant
 Media Officer: Vacant
 Recruitment Officer: Vacant
@@ -14,3 +14,6 @@ Security Officer: Vacant
 Pollster: Vacant
 
 Next Election: Whenever an office is challenged by anyone via Telegram to [nation]Mynation[/nation]
+[hr]
+News:
+1. Crila becomes Delegate.
