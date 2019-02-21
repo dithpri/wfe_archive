@@ -1,11 +1,4 @@
-[b] The folks at [region=Hartfelden] were hungry for a tag. And this wasn&#39;t just a normal, regular hunger, no. This was deep, like, we were starving and this hunger ruptured through our entire being. So we satisfied this urge with a tag, and we also brought along some people from [region=The Empire of Mare Nostrum] and [region=The North Pacific] Army to feast on some regions as well. 
+[color=maroon][b]Beta Centauri[/b][/color]
 
-The guests at the dinner table are as follows:[/b][hr]
-
-Landmeister [nation=short]Prussian Sweeze[/nation] of [region=Hartfelden] (trigger)
-
-Kaiser [nation=short]Scottiesland[/nation] of [region=Hartfelden]
-
-Decanus [nation=short]Albian[/nation] of [region=The Empire of Mare Nostrum]
-
-General [nation=short]QuietDad[/nation] of [region=The North Pacific]
+[color=olive]a [region=0000] region
+[b]Founded:[/b] 2019 Feb 21[/color]

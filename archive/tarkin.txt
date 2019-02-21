@@ -1,14 +1,14 @@
 [color=navy][b]The Republic of Tarkin[/b][/color]
 [color=gold] [b]legatum vivit[/b][i][/i][/color]
-[color=maroon]F[b]ounded on September 18th 2018[/b][/color]
+[color=maroon][b]Founded on September 18th 2018[/b][/color]
 
-[b]|[url=https://www.nationstates.net/nation=tarkin/detail=factbook/id=main]Regional Constitution[/url]|[url=https://www.nationstates.net/nation=tark_migneria/detail=factbook/id=1099179]Regional Map[/url][/b]
+[b]|[url=https://www.nationstates.net/nation=tarkin/detail=factbook/id=main]Regional Constitution[/url]|[url=https://www.nationstates.net/nation=tarkin_department_of_the_interior/detail=factbook/id=1167200]Regional Map[/url][/b]
 
  [b][u][color=black]Executive:[/color][/u][/b]
 [i]General Secretary[/i]:[nation=short]Learned Hands[/nation]
 [i]Vice Secretary:[/i][nation=short]Caska[/nation]
 
-[color=maroon][b]Senate[/b][/color]
+[color=maroon][b][u]Senate:[/u][/b][/color]
 [Nation=short]CamerWoon[/nation]
 [Nation=short]CPSU[/nation]
 [Nation=short]Libbington[/nation]
