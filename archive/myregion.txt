@@ -8,7 +8,7 @@ Founder: [nation]Mynation[/nation]
 Delegate: Vacant
 Vice Delegate: Vacant
 Media Officer: Vacant
-Recruitment Officer: Vacant
+Recruitment Officer: [nation]Myregion[/nation] (TEMPORARY)
 Diplomacy Officer: Vacant
 Security Officer: Vacant
 Pollster: Vacant
