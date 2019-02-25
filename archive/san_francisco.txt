@@ -4,7 +4,7 @@
 
 [b][i]&quot;Illegal Alien&quot;:[/i][color=red] A slur used by foreign colonizers to insult indigenous people.[/color][/b]
 
-[b][nation=long+noflag]America is the root of all evil[/nation][/b]
+[b][u][nation=long+noflag]America is the root of all evil[/nation][/u][/b]
 
 [b]America&#39;s first Black president bombed Africa[/b]
 
