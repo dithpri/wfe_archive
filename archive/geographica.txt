@@ -1,4 +1,22 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-============================= [b]Welcome to the Great Republic![/b] ================================
+============================= [b]Welcome![/b] ================================
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-This region is currently used as the command center for Huang Dong. Please contact [nation]Huang Dong[/nation] if you have any requests or questions!
+Welcome to [region]Geographica[/region]! This region is currently used to hold puppets of the following nations: [nation]Huang Dong[/nation] &amp; [nation]Wilsonvile[/nation].
+
+[list]
+
+[*][spoiler=Huang Dong]
+[list=I][*][nation]Huang Dong Diplomat[/nation]
+[*][nation]Sanchuan[/nation]
+[*][nation]Dongshan[/nation][/list]
+[/spoiler]
+
+[*][spoiler=Wilsonvile]
+[list=I][*][nation]Soviet Wilsonvile[/nation]
+[/list]
+[/spoiler]
+
+[/list]
+
+Unregistered puppets will be kicked out.
+If you would like your puppets to be held here, please contact [nation]Huang Dong[/nation]!
