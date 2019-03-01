@@ -1,7 +1,15 @@
-This region is a museum dedicated to the memory of the ancient regions that now make up [region]Sonindia[/region]. This region is officially under Sonindian control and is also under construction.
+[b]This region is a museum dedicated to the memory of the ancient regions that now make up [region]Sonindia[/region]. This region is officially under Sonindian control and is under construction.
+[/b]
+[hr]
 
 [b]Announcements:[/b] 
 
 -Swansonia turned into museum
 
 -[b][u]Move to [region]Sonindia[/region][/b][/u]
+[hr]
+[b]Sonindian Overseas Territories[/b]
+
+[region]Swansonia[/region]
+[region]The Eternal Order[/region]
+[region]The Island Union[/region] (Joint territory, also controlled by the MT Army)
