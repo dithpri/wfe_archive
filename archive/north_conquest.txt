@@ -6,8 +6,8 @@
 [u]Regional Government[/u][/b]
 
 [b][color=blue]Executive:[/color][/b]
-  Delegate: [nation]AmericaPt2[/nation]
-  Vice-Delegate: [nation]Pagnaehia[/nation]
+  President: [nation]AmericaPt2[/nation]
+  Vice-President: [nation]Gilmore 420[/nation]
 [b][color=green]Legislative:[/color][/b]
   Representative: [nation]Baldsomland[/nation]
   Representative: [nation]Remeny Salv[/nation]
@@ -17,7 +17,7 @@
   Senator: [nation]Minosha[/nation]
 [b][color=red]Judicial:[/color][/b]
   Chief Judge: [nation]KorisLand[/nation]
-  Judge: [nation]Gilmore 420[/nation]
+  Judge: Unfilled!
   Judge: [nation]Limeria Lima[/nation]
   Judge: Unfilled!
   Judge: Unfilled!
