@@ -8,10 +8,7 @@ Central Regional Government[/b]
 [nation]South Waterford[/nation]
 [i]Chairman of the State Council[/i]
 
-[nation]Santonio[/nation]
-[i]Vice-Chairman of the State Council [/i]
-
-[nation]Cappedore[/nation]
+[nation]the Civitas Islands[/nation]
 [i]President[/i]
 
 [nation]Chokoku[/nation]
