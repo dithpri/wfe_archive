@@ -5,7 +5,7 @@
 [b]|[color=purple]Informaci&oacute;n Gubernamental OUSS- Estructuraci&oacute;n de Poderes P&uacute;blicos Regionales[/color]
 [hr]
 
-[nation]Ettolia[/nation] [color=orange]Primer Ministro/Jefe de Gobierno de OUSS[/color][/b]. | [nation]Roques[/nation] [b][color=blue]Presidente del Senado Regional OUSS[/color][/b]. | [nation]urdaneta[/nation] [b][color=red]Presidente de la Corte Suprema OUSS[/color][/b]
+[nation]Ettolia[/nation] [color=orange]Primer Ministro/Jefe de Gobierno de OUSS[/color][/b]. | [color=blue][nation]falconz[/nation]  [b]Presidente del Senado Regional OUSS[/color][/b]. | [color=red][nation]roques[/nation] [b]Presidente de la Corte Suprema de OUSS[/color][/b]
 [hr]
 
 [b][Color=blue]Calendarios Electorales y Registros de Elecciones[/color][/b]| [b][color=red]Informaciones Publicas Regional[/color][/b]
