@@ -1,17 +1,16 @@
-[b]Union of Allied States
-Central Regional Government[/b]
 
 
-[color=blue] Welcome to the UAS Congress Board. Home of the Assembly and the State Council.[/color][HR]
-[b]State Council Officials:[/b]
+[color=blue] [b]THE SENATE OF THE UNION OF ALLIED STATES[/b][/color][HR]
+[color=red][b]MEMBERS OF SENATE:[/color][/b]
 
-[nation]South Waterford[/nation]
-[i]Chairman of the State Council[/i]
+[nation]Senator UOF[/nation]
+[b]Representing [nation]United Osean Federation[/nation](FP)[/b]
 
-[nation]the Civitas Islands[/nation]
-[i]President[/i]
+[nation]SL Delegate[/nation]
+[b]Representing [nation]Silicon Land[/nation] (FP)[/b]
 
-[nation]Chokoku[/nation]
-[i]Secretary of the State Council[/i]
+[nation]Western British Korea[/nation]
+[b]Representing [nation]The British Imperial[/nation] (FP)[/b]
+
 [HR]
 [b]This region is home to the [region]Union of Allied States[/region] government.  No embassies will be accepted, all requests for embassy exchange must be received by the main region.[/b]
