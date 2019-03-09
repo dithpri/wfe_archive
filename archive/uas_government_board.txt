@@ -1,5 +1,4 @@
 
-
 [color=blue] [b]THE SENATE OF THE UNION OF ALLIED STATES[/b][/color][HR]
 [color=red][b]MEMBERS OF SENATE:[/color][/b]
 
@@ -9,8 +8,8 @@
 [nation]SL Delegate[/nation]
 [b]Representing [nation]Silicon Land[/nation] (FP)[/b]
 
-[nation]Western British Korea[/nation]
-[b]Representing [nation]The British Imperial[/nation] (FP)[/b]
+[nation]West Meranopirus[/nation]
+[b]Representing [nation]East Meranopirus[/nation](LDP)[/b]
 
 [HR]
 [b]This region is home to the [region]Union of Allied States[/region] government.  No embassies will be accepted, all requests for embassy exchange must be received by the main region.[/b]
