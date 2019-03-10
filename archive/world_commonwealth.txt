@@ -2,11 +2,10 @@
 &quot;Commonwealth of Nations&quot;
 [/b]
 
-Founder: The Principality of Loliness
-Executive:
+Founder: [nation]Loliness[/nation]
 
-High Commissioner:
-Deputy commissioner:
+High Commissioner: [nation]New Creth[/nation]
+Deputy High Commissioner: [nation]Greater Okhotskia[/nation]
 
 WA Delegate:
 WC Delegate:

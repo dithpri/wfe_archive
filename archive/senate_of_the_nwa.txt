@@ -7,7 +7,7 @@
 
 [list][i]Co-Chancellor[/i]: [i][nation=short+noflag]Josephtan[/nation] ([color=#FFBF00]LIB[/color])[/i]
 
-[i]Deputy Chancellor[/i]:  [i][nation=short+noflag]The 3rd Swedish Empire[/nation] ([color=#642EFE]NAT[/color])[/i][/list]
+[i]Deputy Chancellor[/i]:  [i][nation=short+noflag]Grand Rebels[/nation] ([color=#642EFE]NAT[/color])[/i][/list]
 
 [b][i]Shadow Chancellor[/i]: [nation=short+noflag]Grey Rose[/nation][/b] [b]([Color=#0080FF]ACT[/color])[/b]
 
