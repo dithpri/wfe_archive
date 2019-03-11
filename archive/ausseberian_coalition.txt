@@ -1,5 +1,21 @@
-[u][b][color=red]Coalition is opened once again for new nations. Borders will temporarily be opened.[/color][/b][/u]
+[color=red][b]Region is currently involved in a civil war. Waring nations are posted, region will reopen when civil war subsides[/b][/color]
 
-[b]Order issued by: [/b][nation]A-TC1[/nation]
+[b]Rebel Nation[/b]
+- [nation]West Scrapland[/nation]
+
+[b]Nations Backing Rebel[/b]
+- [nation]Talouts[/nation]
+
+[b]Allied Nation[/b]
+- [nation]North Scrapland[/nation]
+
+[b]Nations backing Allies[/b]
+- [nation]A-TC1[/nation]
+- [nation]Sules[/nation]
+
+[b]Days war has been active[/b] . . . [b][&quot;1 Day&quot; fighting has not begun][/b]
+
+[b]Additional war insight[/b] . . . [b][i][West declares right to land back. Northern troops are sent to Western territory.][/i][/b]
+
 
 

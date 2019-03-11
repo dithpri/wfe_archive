@@ -1,6 +1,9 @@
 [color=blue] [b]THE SENATE OF THE UNION OF ALLIED STATES[/b][/color][HR]
 [color=red][b]MEMBERS OF SENATE:[/color][/b]
 
+[nation]Tarperian Senator[/nation]
+[b]Representing [nation]Tarperian[/nation] (FP)[/b]
+
 [nation]East Handal Ands[/nation]
 [b]Representing [nation]Handal Ands[/nation] (FP)[/b]
 
