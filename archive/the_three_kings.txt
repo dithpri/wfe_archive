@@ -1,7 +1,6 @@
-[color=gold]&amp;#9812;&amp;#9812;&amp;#9812;[/color][color=darkblue]Welcome to The Three Kings![/color] [color=gold]&amp;#9812;&amp;#9812;&amp;#9812;[/color]
+[b][color=gold]&amp;#9812;&amp;#9812;&amp;#9812;[/color][color=darkblue]Welcome to The Three Kings![/color] [color=gold]&amp;#9812;&amp;#9812;&amp;#9812;[/color][/b]
 
-[u][color=darkblue]Government[/color][/u]
-[b]Leader[/b]: [nation]America JB[/nation]
-
-The three kings have gathered to form a government. 
-The Executive, Legislative and Judicial have accumulated as separate but equal, three kings as one. 
+[b][u][color=darkblue]Government[/color][/u][/b]
+[b]King[/b]: [nation]America JB[/nation]
+[b]Prince[/b]: [nation]Capital AL[/nation]
+[b]Members of Parliament[/b]:
