@@ -5,7 +5,6 @@
 
 [b]Nations Backing Rebel[/b]
 - [nation]Talouts[/nation]
-- [nation]Central Scrapland[/nation]
 
 [b]Allied Nation[/b]
 - [nation]North Scrapland[/nation]
@@ -13,11 +12,14 @@
 [b]Nations backing Allies[/b]
 - [nation]A-TC1[/nation]
 - [nation]Sules[/nation]
+- [nation]Ausseber[/nation]
 
-[b]Days war has been active[/b] . . . [b][&quot;2 Days&quot; fighting has not begun][/b]
+[b]Days war has been active[/b] . . . [b][&quot;3 Days&quot; fighting has not begun][/b]
 
-[b]Current war news[/b] . . . [b][i][West calls upon central powers to back them. Tensions rise on western borders.][/i][/b]
+[b]Current war news[/b] . . . [b][i][No fighting has begun. Tensions on Western borders are still high.][/i][/b]
+[b]Additional war news[/b] . . . [b][i][Ausseber has declared Western forces terrorists. Central forces pull out, becoming neutral][/b][/i]
 
 [b]Old war news[/b]
 - [b]Day 1:[/b] [i]&quot;West declares right to land back. Northern troops are sent to Western borders.&quot;[/i]
+- [b]Day 2:[/b] [i]&quot;West calls upon central powers to back them. Tensions rise on Western borders.&quot;[/i]
 
