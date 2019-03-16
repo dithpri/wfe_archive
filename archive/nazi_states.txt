@@ -9,6 +9,7 @@
 [region]Province of Hesse Nassau[/region]
 [region]Province of Hohenzollern[/region]
 [region]Free State of Lippe[/region]
+[region]Mecklenburg[/region]
 [region]Free State of Oldenburg[/region]
 [region]Rhine Province[/region]
 [region]Province of Schleswig Holstein[/region]
