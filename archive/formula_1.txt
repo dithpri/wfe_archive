@@ -1,2 +1,13 @@
 Formula 1 2019
-
+ 
+Points:
+026 Valtteri Bottas - [nation]M e r c e d e s[/nation]
+018 Lewis Hamilton - [nation]M e r c e d e s[/nation]
+015 Max Verstappen - [nation]R e d B u l l[/nation]
+012 Sebastian Vettel - [nation]F e r r a r i[/nation]
+010 Charles Leclerc - [nation]F e r r a r i[/nation]
+008 Kevin Magnussen - [nation]H a a s[/nation]
+006 Nico Hulkenberg - [nation]R e n a u l t[/nation]
+004 Kimi Raikkonen - [nation]A l f a R o m e o[/nation]
+002 Lance Stroll - [nation]R a c i n g P o i n t[/nation]
+001 Daniil Kvyat - [nation]T o r o R o s s o[/nation]
