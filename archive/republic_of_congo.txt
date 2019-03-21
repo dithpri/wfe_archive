@@ -1,11 +1,19 @@
-[b]Republic of Congo[/b]
-
-Previously founded by: [nation=short]Halve Maen[/nation]
-
-Welcome[hr][b]Republic of Congo[/b] AKA:
-[region=The Republic of Congo] or Republique du Congo (French); the Congo; Little Congo; Congo Brazzaville.
-
-This is to distinguish the Congo on the North side of the Congo River from Congo Free State;
-Democratic Republic of the Congo; Belgian Congo; Congo Leopoldville; Zaire; Congo Kinshasa located across the Congo River on the South.[hr][color=red]
-[b]PLEASE - DO NOT RECRUIT[/color][color=FF8000]
-This region accepts embassy offers[/b][/color]
+[color=004534][b]Republic of Congo[/b]
+[/color][color=green]
+Welcome[hr][b]Republic of Congo[/b] 
+Also Known As: [region=The Republic of Congo] or Republique du Congo (French); the Congo; Little Congo; Congo Brazzaville; French Congo; Middle Congo.
+[i]to distinguish the nation on  the North side of the Congo River from the Congo on the south side of the Congo River, aka Democratic Republic of the Congo.[/i]
+[b]Capital:[/b] [region=Brazzaville]
+[b]Official Language:[/b] French
+[b]Independence:[/b] 1960 Aug 15 (from France 1880-1960)
+[b]Area:[/b] 342,000 km2 (64th largest nation)
+[b]Population:[/b] 5,125,821 (2016 est. - 124th largest)
+[hr][/color][color=olive]REGION
+[b]Founded:[/b] 2016 May 02 *
+[b]Featured:[/b] 2019 Mar 21
+a DBA Embassy Matrix Region
+a [region=0000] Puppet Storage Region
+an [region=United States of America] associated region
+Previously founded by: [nation=short]Halve Maen[/nation] *
+[/color][color=008080]
+[b]This region accepts embassy offers[/b][/color]
