@@ -12,6 +12,6 @@ Have not yet decided which type of region this will become
 [b]REGION
 Founded:[/b] 2018 Dec 26
 an Embassy Oracle region
-an [region=Ancient Lands]/[region=0000]/[region=United States of America] Allied Region
+a [region=0000]/[region=United States of America] Allied Region
 [/color][color=coral]
 [b]No Embassy Offers -- Please[/b][/color]
