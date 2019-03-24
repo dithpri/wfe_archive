@@ -11,8 +11,8 @@ Sage Day 10-23-2018
 Prince of Wolves: [nation=short]Apostate[/nation]
 &amp;#127963;&amp;#65039; Arch Duke: [nation=short]Wolfhogg[/nation]
 &amp;#127963;&amp;#65039; Duke:
-&amp;#127963;&amp;#65039; Marquess:
-&amp;#127963;&amp;#65039; Countess:[nation=short]Ephiny[/nation]
+&amp;#127963;&amp;#65039; Marquess: [nation=short]Ephiny[/nation]
+&amp;#127963;&amp;#65039; Countess:
 &amp;#127963;&amp;#65039; Viscount: [nation=short]Rezland[/nation], [nation=short]The United Federation of Amestris[/nation],[nation=short]This Is Not A Puppet[/nation]
 &amp;#127963;&amp;#65039; Barons: [nation]Transendia[/nation][/b][/color]
 [hr]

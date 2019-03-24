@@ -1,0 +1,11 @@
+[color=4B0082][b]ICAO[/b]
+this is a [region=The Assembly of Gentlemen] region[/color]
+
+[color=3D2B1F]Embassy offers are accepted from regions that are only:[list]
+[*] Regions named after real countries (official name only)
+[*] Regions named after real government agencies including the United Nations
+[*] Regions named after real nation&#39;s national capitals and any city with an international airport
+[*] Embassy Collection Regions (must currently have plus 100 embassies)[/list]
+All others will be ignored.
+[/color][color=004626]
+Maybe in the future, I will consider adding any other region&#39;s embassy requests[/color]

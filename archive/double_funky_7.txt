@@ -4,9 +4,7 @@ Goal of this game is to create a chain connecting as many regions as possible by
 No embassy offers can be accepted as they can short circuit this chain
 List is in the order of the update
 
-My Matrix Regions are represented by:
-- [region=United States of America]
-- [region=Ancient Lands]
+This is a [region=The Assembly of Gentlemen] region
 [list][url=http://texasregion.net/nsdossier/]NationStates Dossier Tools[/url]
 [url=http://texasregion.net/nsdossier/embassyOracle.aspx]Oracle Game[/url][/list]
 - Details continued on page: &amp;gt; [region=Ching Chong Coalition] &amp;lt;
