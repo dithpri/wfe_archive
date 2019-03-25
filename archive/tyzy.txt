@@ -1,4 +1,4 @@
 [color=blue][b]Tyzy[/b]
 [/color][color=olive]
-an [region=Ancient Lands] region
+a [region=0000]/[region=Ancient Lands]/[region=the Assembly of Gentlemen]/DBA Alliance region
 [b]Founded:[/b] 2019 Jan 28[/color]
