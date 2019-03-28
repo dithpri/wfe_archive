@@ -1,9 +1,5 @@
-[color=red]
-Welcome to Camp Homey, a democratic island in the Artic Ocean. We are a research station which accepts all nations. As we strive to help our residents, please telegraph [nation]Redwood-Gabriel[/nation] or [nation]The STM homeys[/nation] with suggestions. [/color]
-
---------------------------------------------------------------------------------------------------- 
-Current news: [nation]Whitcomb Kingdom[/nation] Is saying [nation]AMAZOL[/nation] is a Redwood-Gabriel puppet. It is not.
-
-[color=Green] Homey Day is coming up! [/color]
-[color=Green] Pink Sheep is getting married! [/color]
-
+[color=002464][b]Camp Homey[/b]
+[/color][color=004624]
+associated [region=the Assembly of Gentlemen] region
+allied with [region=0000]; [region=Ancient Lands]; [region=United States of America];
+[region=Russian Federation]; [region=Angola]; [region=The Bandits]; [region=the Awakening] &amp; [region=Rhea].[/color]

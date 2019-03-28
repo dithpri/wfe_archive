@@ -12,11 +12,11 @@
 [hr]
 [color=#FF0000][b][u]Current Case(s)[/u] |[/b][/color] [i]
 [list][*][region]New Western Atlantic High Courtroom 1[/region]: [region]New Western Atlantic[/region] v [nation]Lalop[/nation]
-[*][region]New Western Atlantic High Courtroom 2[/region]: [nation]Grey Rose[/nation] v [nation]Ormantum[/nation]
+[*][region]New Western Atlantic High Courtroom 2[/region]: 
 [*][region]New Western Atlantic High Courtroom 3[/region]: 
 [/list][/i]
 
-[color=#FF0000][b][u]Recent Verdict(s)[/u] |[/b][/color] [i][nation]The United Fura[/nation] v [nation]Marinne[/nation]
+[color=#FF0000][b][u]Recent Verdict(s)[/u] |[/b][/color] [i] [nation]Grey Rose[/nation] v [nation]Ormantum[/nation]
 The Court has ruled the Defendant Not Guilty 
 [/i]
 

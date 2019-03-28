@@ -1,38 +1,12 @@
 [color=blue] [b]THE SENATE OF THE UNION OF ALLIED STATES[/b][/color][HR]
-[color=red][b]MEMBERS OF SENATE:[/color][/b]
+[color=red][b]LIST OF SENATORS FOUND [url=https://www.nationstates.net/page=dispatch/id=1179465]HERE[/url][/b][/color]
+[HR]
+[b]Currently at vote[/b]: S.B. 3 (Amendment to Article V and IV of the Constitution)
 
-[nation]Tarperian Senator[/nation]
-[b]Representing [nation]Tarperian[/nation] (FP)[/b]
-
-[nation]East Handal Ands[/nation]
-[b]Representing [nation]Handal Ands[/nation] (FP)[/b]
-
-[nation]Senator UOF[/nation]
-[b]Representing [nation]United Osean Federation[/nation](FP)[/b]
-
-[nation]SL Delegate[/nation]
-[b]Representing [nation]Silicon Land[/nation] (FP)[/b]
-
-[nation]West Meranopirus[/nation]
-[b]Representing [nation]East Meranopirus[/nation] (LDP)[/b]
-
-[nation]New new new Senator[/nation]
-[b]Representing [nation]new new new land[/nation] (C)[/b]
-
-[nation]Samboria III[/nation]
-[b]Representing [nation]Samboria[/nation] (C)[/b]
-
-[nation]Senator USS[/nation]
-[b]Representing [nation]United Sentinel States[/nation] (FCJ)[/b]
-
-[nation]United Nations Space-Command[/nation]
-[b]Representing [nation]The British Imperial[/nation] (UAP)[/b]
-
-[nation]REAL chokoku[/nation]
-[b]Representing [nation]Chokoku[/nation] (LDP)[/b]
-
-[nation]Rofoue Senator[/nation]
-[b]Representing [nation]Rofoue[/nation] (C)[/b]
+[b]Up for vote[/b]:
+S.R. 2 (On closing embassies with [region]The Reunited Resistance Against Liberals[/region] )
+S.B. 4 (Amendment to the Rules of Introduction, Procedures and Voting on Bills)
+S.B. 5 (Embassy Establishment Policy)
 
 [HR]
 [b]This region is home to the [region]Union of Allied States[/region] government.  No embassies will be accepted, all requests for embassy exchange must be received by the main region.[/b]
