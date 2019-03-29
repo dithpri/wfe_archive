@@ -1,5 +1,6 @@
 [color=orange][b]Alternis Europa[/b]
 [/color][color=olive]
-an [region=Ancient Lands] region
+an [region=the Assembly of Gentlemen] allied region
 [b]Founded:[/b] 2019 Jan 29
-[b]Puppet Storage Region:[/b] 2019 Feb 11[/color]
+[b]Puppet Storage Region:[/b] 2019 Feb 11
+see also [region=Camp Homey][/color]
