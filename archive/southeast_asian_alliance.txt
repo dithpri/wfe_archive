@@ -4,5 +4,5 @@
 [url=https://docs.google.com/forms/d/e/1FAIpQLSebM-dJn4yRkZMVM6JekEnD9gXsD_V6wHz4nheAzz4k4v7Mfg/viewform]Acceptance Form[/url][/color]
 
 [u]Member Regions[/u]
-[color=red][region]India[/region]
-[region]ASEAN REGION[/region][/color]
+[color=red][region]India[/region] - [nation]SouthEast Alliance[/nation]
+[region]ASEAN REGION[/region][/color] - [nation]ASEAN REGION[/nation]

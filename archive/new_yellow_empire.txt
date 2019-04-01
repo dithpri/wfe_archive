@@ -6,9 +6,11 @@
 
 [hr]
 
-[color=orange]Regional News:[/color] 
-[list=I]
-[*][nation]Novum Imperium Romanium[/nation] elected Prime Minister.
-[*]5th Imperial Decree Released!
-[/list]
+[color=orange]Imperial News:[/color] 
+[list=I][color=red]
+[*][nation]Rost Dreadnorramus[/nation] made royal prince.
+[*]War with [region]Raxulan Empire[/region] averted.
+[*]The Empire has an Anthem.
+[*]Imperial news now shown in red.
+[/list][/color]
 [b][color=orange]Ave praeclara omnibus flavo Imperii gentium domitorem orbis![/color][/b]
