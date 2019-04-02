@@ -1,8 +1,7 @@
-Welcome, to The [region]New Regime of Great Cyan[/region]!
-[b][i]Imperatoria vivat imperium![/i][/b]
+[color=navy]Welcome, to The [region]New Regime of Great Cyan[/region]![/color]
+[color=red][b][i]Imperatoria vivat imperium![/i][/b][/color]
 The Regime has many things to offer, including:[list]
-[*]A Map!
-[*]2 Branches of the Army to join!
+[*][strike]A Map![/strike] Under construction.
 [*]Officer positions that need to be filled!
 [*]A very interactive region that is just the right size, so that you can be heard!
 [*]Many Regional Events!

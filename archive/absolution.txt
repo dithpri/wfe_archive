@@ -7,7 +7,9 @@ Absolution, a little place of forgetting. Where no matter a states political ali
 [hr]
 [color=olive]*** HOME OF NSTRACKER *** [/color]
 
-[url=http://nstracker.epizy.com]NSTracker[/url] &#149; [url=http://nstracker.epizy.com/youtubetv.php]YouTube TV[/url] &#149; [url=http://nstracker.epizy.com/absolution.php]Regional Network[/url] &#149; [url=http://nstracker.epizy.com/regional_scripts/regional_weather.php]Regional Weather Forecasts[/url] &#149; [url=http://nstracker.epizy.com/regional_scripts/national_anthems.php]Regional National Anthems[/url] &#149; [url=http://nstracker.epizy.com/regional_scripts/national_maps.php]Regional National Maps[/url]
+[url=http://nstracker.epizy.com]NSTracker[/url] &#149; [url=http://nstracker.epizy.com/youtubetv.php]YouTube TV[/url]
+
+Regional: [url=http://nstracker.epizy.com/absolution.php]Network[/url] &#149; [url=http://nstracker.epizy.com/regional_scripts/regional_weather.php]Weather Forecasts[/url] &#149; [url=http://nstracker.epizy.com/regional_scripts/national_anthems.php]Anthems[/url] &#149; [url=http://nstracker.epizy.com/regional_scripts/national_maps.php]Maps[/url] &#149; [url=http://nstracker.epizy.com/regional_scripts/newsbox.php]National News[/url]
 
 Council Polls: [url=http://nstracker.epizy.com/regional_scripts/index.php]Check For New Polls ( 5 )[/url]
 [/b]
