@@ -4,8 +4,8 @@
 
 [color=green][b]The diversity of India, of our civilization, is actually a thing of beauty, which is something we are extremely proud of.[/b][/color]
 
-This is the puppet storage region of [region]India[/region].
+[b][color=maroon]This is the puppet storage region of [region]India[/region].[/color][/b]
 
-[i]All embassy requests must be sent to the [region]India[/region].[/i]
+[i]All embassy requests must be sent to [region]India[/region].[/i]
 
-Region Refounded:15 March 2019
+Region Refounded: 15 March 2019
