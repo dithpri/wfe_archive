@@ -5,8 +5,8 @@
 [b]|[url=https://www.nationstates.net/nation=tarkin/detail=factbook/id=main]Regional Constitution[/url]|[url=https://www.nationstates.net/nation=tarkin_department_of_the_interior/detail=factbook/id=1167200]Regional Map[/url][/b]
 
  [b][u][color=black]Executive:[/color][/u][/b]
-[i]General Secretary[/i]:[nation=short]Learned Hands[/nation]
-[i]Vice Secretary:[/i][nation=short]Caska[/nation]
+[i]Acting General Secretary[/i]:[nation=short]Caska[/nation]
+[i]Vice Secretary:[/i][nation=short]Open[/nation]
 
 [color=maroon][b][u]Senate:[/u][/b][/color]
 [Nation=short]CamerWoon[/nation]
