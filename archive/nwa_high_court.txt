@@ -11,13 +11,13 @@
 [*][nation]O-Broki[/nation][/list]
 [hr]
 [color=#FF0000][b][u]Current Case(s)[/u] |[/b][/color] [i]
-[list][*][region]New Western Atlantic High Courtroom 1[/region]: [region]New Western Atlantic[/region] v [nation]Lalop[/nation]
+[list][*][region]New Western Atlantic High Courtroom 1[/region]:
 [*][region]New Western Atlantic High Courtroom 2[/region]: 
 [*][region]New Western Atlantic High Courtroom 3[/region]: 
 [/list][/i]
 
-[color=#FF0000][b][u]Recent Verdict(s)[/u] |[/b][/color] [i] [nation]Grey Rose[/nation] v [nation]Ormantum[/nation]
-The Court has ruled the Defendant Not Guilty 
+[color=#FF0000][b][u]Recent Verdict(s)[/u] |[/b][/color] [i] [region]New Western Atlantic[/region] v [nation]Lalop[/nation]
+The Defendant has left the Region the Court thus rules a Guilty verdict; sentencing will occur if he returns.
 [/i]
 
 [color=#FF0000][b][u]Upcoming Case(s)[/u] |[/b][/color] [i][/i]
