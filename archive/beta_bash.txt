@@ -1,1 +1,16 @@
-.
+[b]B[/b]edebao&#39;s [b]A[/b]wesome [b]SH[/b]ell (in perpetual beta)
+
+bedebao&amp;#64;bedebao-desktop:~$ man NSraid
+
+[b]NAME[/b]
+NSraid - Raid a NationStates region
+
+[b]SYNOPSIS[/b]
+[b]NSraid[/b] --target [u]regionname[/u] --puppet [u]nationname[/u] --jumppoint [u]regionname[/u]
+
+[b]DESCRIPTION[/b]
+Raids a NationStates region using a puppet from a jump point.
+
+[b]--target[/b]   The region to raid. Must update before the jump point.
+[b]--puppet[/b]  The puppet to use. Must be in the World Assembly.
+[b]--jumppoint[/b] The jump point to use. Must update after the region.
