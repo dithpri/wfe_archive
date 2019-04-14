@@ -8,7 +8,9 @@ WA Delegate: [nation]Mogadore[/nation]
 Council:
 [nation]Eastern Copek[/nation]
 [nation]Daulend[/nation]
-[nation]Renland republic[/nation][/color]
+[nation]Renland republic[/nation]
+
+Minister of Regional Affairs: [nation]Zolotaya sobaka[/nation][/color]
 [hr]
 [color=black]Please endorse Delegate [nation]Mogadore[/nation]![/color][/b]
 
