@@ -1,6 +1,4 @@
-[color=green]Hello and welcome to The InfoTech Region. Enjoy your stay![/color]
+[b][color=grey]Hello and welcome to The [region]InfoTech Region[/region]. Enjoy your stay![/color][/b]
 
 Here in The InfoTech Region, we value our great strides in technological development.
-Please be kind to your neighbors.
-
-At some point, I will have some more details here......
+Please be kind to your neighbors by following the [url=https://www.nationstates.net/page=dispatch/id=1198467]rules[/url] listed below and by just being a decent person.

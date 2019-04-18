@@ -14,4 +14,7 @@ This is a peaceful and happy region with only two rules:
 
 [hr]Our many ambassadors from other regions:
 
-[spoiler=Empires ReUnited Ambassador][nation]Ballpit15[/nation][/spoiler][spoiler=Kebabistan Ambassador][nation]Strawberry-Kebabistan[/nation][/spoiler][spoiler=Finns Ambassador][nation]ONLY 399[/nation][/spoiler]
+[b][region]Empires ReUnited[/region]:[/b] [nation]Ballpit15[/nation][b]
+[region]Kebabistan[/region]:[/b] [nation]Strawberry-Kebabistan[/nation][b]
+[region]Finns[/region]:[/b] [nation]ONLY 399[/nation]
+[b][region]Bundesliga[/region]:[/b] [nation]Bundesliga Ambassador[/nation]
