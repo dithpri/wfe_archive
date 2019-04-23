@@ -3,17 +3,16 @@
 [hr][hr]
 
 [color=gold]&amp;#9812;[/color] [b]Leadership[/b] [color=gold]&amp;#9812;[/color]
-[list][b][i]Chancellor[/i]:  [nation=short+noflag]Communaccord[/nation][/b] [b]([Color=#0080FF]ACT[/color])[/b]
+[list][b][i]Chancellor[/i]:  [nation=short+noflag]Iheero[/nation][/b] [b]([Color=#0080FF]ACT[/color])[/b]
 
 [list][i]Deputy Chancellor[/i]: [i][nation=short+noflag]Josephtan[/nation] ([color=#FFBF00]LIB[/color])[/i]
-
-[i]Minor Party Leader: [nation=noflag]Mukolayiv[/nation] ([color=Green][url=https://www.youtube.com/watch?v=wxplp1dvY4E&amp;feature=youtu.be]UNI[/url][/color])[/i] 
-
-[i]Minor Party Leader: [nation=noflag]United Cascadian Peoples[/nation] ([color=#E4287C]SOC[/color])[/i][/list]
+[/list]
 
 [b][i]Shadow Chancellor[/i]: [nation=noflag]Ormantum[/nation] ([color=#FE2E2E]CON[/color])[/b]
 
-[list][i]Minor Party Shadow Leader[/i]:  [i][nation=short+noflag]Grand Rebels[/nation] ([color=#642EFE]NAT[/color])[/i][/list]
+[list][i]Minor Party Shadow Leader[/i]:  [i][nation=short+noflag]Grand Rebels[/nation] ([color=#642EFE]NAT[/color])[/i]
+
+[i]Minor Party Shadow Leader: [nation=noflag]United Cascadian Peoples[/nation] ([color=#E4287C]SOC[/color])[/i][/list]
 
 [I][b]Senate Clerk:[/i] [nation=noflag]Suternia[/nation][/b] [b]([url=https://i.imgur.com/IItwSrL.jpg][colour=#ED1B24]RIAU[/colour][/url])[/b]
 

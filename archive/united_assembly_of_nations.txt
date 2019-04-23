@@ -6,7 +6,7 @@
 [hr]
 [u][b][color=red]Security Council Members:[/color][/b][/u]
 
-[b][nation]Santonio[/nation]
+[b][nation]United Osean Federation[/nation]
 [nation]Tarperian[/nation]
 [nation]United Sentinel States[/nation]
 [nation]South Waterford[/nation]
@@ -15,7 +15,7 @@
 [hr]
 [u][b][color=blue]UAN Member States:[/color][/b][/u]
 
-[b][nation]Santonio[/nation]
+[b][nation]United Osean Federation[/nation]
 [nation]Tarperian[/nation]
 [nation]United Sentinel States[/nation]
 [nation]South Waterford[/nation]
@@ -23,8 +23,6 @@
 [nation]The British Imperial[/nation] 
 [nation]Cappedore[/nation]
 [nation]The Monroe Republican States[/nation]
-[nation]liabilia[/nation]
 [nation]Punk Anarchy[/nation]
-[nation]Ackerenia[/nation]
 [/b]
 [hr]
