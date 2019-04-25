@@ -2,8 +2,8 @@ The [region]National Bolshevist Coalition[/region] has been taken over. The piec
 [hr]
 
 [list]
-[*](Please Endorse) WA Delegate: [nation]SFR Philippines[/nation]
+[*]WA Delegate: [nation]SFR Philippines[/nation]
   
-[*]Regional Currency: Franc
-[*]Member States: 15
+[*]Regional Currency: franc
+[*]Member States: 16
 [*]Allied Regions: [region]Terra Luna[/region]
