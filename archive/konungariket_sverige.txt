@@ -1,1 +1,16 @@
-Placeholder, a more updated region factbook will be added shortly.
+[color=navy][b]Welcome to the Kingdom of Sweden[/b]
+[i]V&auml;lkommen till Konungariket Sverige[/i][/color]
+
+[hr]
+
+[color=goldenrod]The [b]Kingdom of Sweden[/b] is a Scandinavian nation of thousands of coastal islands, inland lakes, forests and mountains. Its principal cities, eastern capital Stockholm and southwestern Gothenburg and Malm&ouml;, are all on the sea. Stockholm is home to royal palaces, parkland and museums.[/color]
+
+[hr]
+
+[color=navy][u][b]Government[/b][/u][/color]
+[list][*][color=goldenrod][b]King of Sweden:[/b] [nation]The Swedish State[/nation]
+[*][b]WA Delegate:[/b][/color] [i]vacant[/i][/list]
+
+[hr]
+
+[b][color=navy]Member Region of the [region]United Kingdom of Scandia[/region][/color][/b]

@@ -6,7 +6,10 @@ A unique sci-fi region based on the unique Via Lactea lore built by the region&#
 
 [color=022D97][b]The Directorate[/b][/color]:
 
-
 [b]Supreme Director:[/b] [nation]Taukelia[/nation]
 [b]Subdirector[/b]: [nation]Federal Sol[/nation]
-[b]Chairman[/b]: [nation]Solignis[/nation]
+[b]Chairman of the Directorate[/b]: [nation]Solignis[/nation]
+
+[b]Sister Regions:[/b] 
+
+[region]Order of the New Dawn[/region]

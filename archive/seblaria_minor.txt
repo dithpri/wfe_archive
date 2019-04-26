@@ -1,2 +1,2 @@
-[b]Welecome to Seblaria Minor, puppet storage for [region]Seblaria[/region]. A remote region, in the furthest reaches of deep space, we are immune from almost everyone&#39;s influence.
-[/b]
+[b][color=blue]Welecome to Seblaria Minor, puppet storage for [region]Seblaria[/region]. A remote region, in the furthest reaches of deep space, we are immune from almost everyone&#39;s influence.
+[/color][/b]

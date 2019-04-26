@@ -1,1 +1,20 @@
 [color=darkfire][b]Welcome to the United Kingdom of Scandia[/b][/color]
+[color=darkfire][i]Velkommen til det Forenede Kongerige Skandia
+Velkommen til det Forente Kongerike Skandia
+V&auml;lkommen till det F&ouml;renade Konungariket Skandia[/i][/color]
+
+[hr]
+
+[u][b][color=goldenrod]Imperial Government[/color][/b][/u]
+[list][*][b][color=navy]King of the Scandians:[/b] [nation]Scandia[/nation]
+[*][b]WA Delegate:[/b][/color] [i]vacant[/i][/list]
+
+[hr]
+
+[b][color=goldenrod][u]Scandian Commonwealth:[/u][/color] [/b]
+[list][*][b][region]Kongeriget Danmark[/region]
+[list][*][color=darkfire]Sovereign:[/color][/b] [nation]The Danish State[/nation][/list]
+[*][b][region]Kongeriket Norge[/region]
+[list][*][color=darkfire]Sovereign:[/color][/b] [nation]The Norwegian Realm[/nation][/list]
+[*][b][region]Konungariket Sverige[/region][/list]
+[list][list][*][color=darkfire]Sovereign:[/color][/b] [nation]The Swedish State[/nation][/list]

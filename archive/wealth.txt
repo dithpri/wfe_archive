@@ -6,7 +6,6 @@ The region is unique in that unclaimed plots of land have designated NPC nations
 
 [hr]
 Ally regions:
-[region]Edmundian Empire[/region]
 [region]The Galactic Empire of Britain[/region]
 [region]Chicken overlords[/region]
 [hr]

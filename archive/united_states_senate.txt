@@ -1,13 +1,10 @@
-[b]Welcome to the [region=United States Senate], the Upper House of the [region=United States Congress].
+The United States Senate is a the legislative body designed to give advice and consent to the President of the United States.
 
-Summary
+Compositions 
+Republican: 53
+Democrats: 45 + 2 Independents
 
-Leadership:
-President of the Senate: [color=blue]Joe Biden[/color]
-President Pro Tempore: [color=red]Orrin Hatch[/color]
-Republican (Majority) Leader: [color=red]Mitch McConnell[/color]
-Democratic (Minority) Leader: [color=blue]Harry Reid[/color]
-
-Composition:
-Majority: [color=red]Republican[/color] (54)
-Minority: [color=blue]Democratic[/color] (44) + Independent (2)[/b]
+President of the Senate: Mike Pence (R)
+President Pro Tempore of the Senate: Chuck Grassley (R)
+Majority Leader: Mitch McConnell (R)
+Minority Leader: Chuck Schumer (D)
