@@ -3,22 +3,22 @@
 [hr][hr]
 
 [color=gold]&amp;#9812;[/color] [b]Leadership[/b] [color=gold]&amp;#9812;[/color]
-[list][b][i]Chancellor[/i]:  [nation=short+noflag]Iheero[/nation][/b] [b]([Color=#0080FF]ACT[/color])[/b]
+[list][b][i]Chancellor and Senate Clerk[/i]:  [nation=short+noflag]Suternia[/nation][/b] [b]([url=https://i.imgur.com/IItwSrL.jpg][colour=#ED1B24]RIAU[/colour][/url])[/b]
 
-[list][i]Deputy Chancellor[/i]: [i][nation=short+noflag]Josephtan[/nation] ([color=#FFBF00]LIB[/color])[/i]
-[/list]
+[b][i]Shadow Chancellor[/i]:  [nation=short+noflag]Iheero[/nation][/b] [b]([Color=#0080FF]ACT[/color])[/b]
 
-[b][i]Shadow Chancellor[/i]: [nation=noflag]Ormantum[/nation] ([color=#FE2E2E]CON[/color])[/b]
+[list]
+[i]Minor Party Shadow Leader[/i]: [nation=noflag]Ormantum[/nation] ([color=#FE2E2E]CON[/color])
 
-[list][i]Minor Party Shadow Leader[/i]:  [i][nation=short+noflag]Grand Rebels[/nation] ([color=#642EFE]NAT[/color])[/i]
+[i]Minor Party Shadow Leader[/i]:  [i][nation=short+noflag]Grand Rebels[/nation] ([color=#642EFE]NAT[/color])[/i]
+
+[i]Deputy Chancellor[/i]: [i][nation=short+noflag]Josephtan[/nation] ([color=#FFBF00]LIB[/color])[/i]
 
 [i]Minor Party Shadow Leader: [nation=noflag]United Cascadian Peoples[/nation] ([color=#E4287C]SOC[/color])[/i][/list]
 
-[I][b]Senate Clerk:[/i] [nation=noflag]Suternia[/nation][/b] [b]([url=https://i.imgur.com/IItwSrL.jpg][colour=#ED1B24]RIAU[/colour][/url])[/b]
-
 [/list][/list][hr][hr]
 
-[b][u]Current Business:[/b][/u][i] House of Vears - L.R. 113 [/i]  
+[b][u]Current Business:[/b][/u][i] Abolishing the Senate Act - L.R. 113 [/i]  
 [b][u]Previous Business:[/b][/u][i] Constitutional Amendment - L.R. 112 ([color=green]PASSED[/color])[/i]
 [b][u]Next Scheduled Business:[/b][/u][i] TBD - L.R. 114[/i]
 

@@ -1,1 +1,4 @@
-Welcome to [b]East Antarctica[/b], a colony of the [url=https://www.nationstates.net/region=kongeriket_norge][b]Kingdom of Norway[/b][/url].
+Welcome to [b][region]East Antarctica[/region][/b], a colony of the [url=https://www.nationstates.net/region=kongeriket_norge][b]Kingdom of Norway[/b][/url].
+[hr][u][b]Administration[/b][/u]
+[list][*][color=darkfire][b]King:[/b] [nation]Norwegian Realm[/nation]
+[*][b]Governor-General:[/b] [nation]Maudheim[/nation][/color][/list]
