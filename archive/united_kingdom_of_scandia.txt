@@ -1,12 +1,12 @@
 [color=darkfire][b]Welcome to the United Kingdom of Scandia[/b][/color]
-[color=darkfire][i]Velkommen til Forenede Kongerige Skandia
+[color=purple][i]Velkommen til Forenede Kongerige Skandia
 Velkommen til Forente Kongerike Skandia
 V&auml;lkommen till F&ouml;renade Konungariket Skandia[/i][/color]
 
 [hr]
 
 [u][b][color=goldenrod]Imperial Government[/color][/b][/u]
-[list][*][b][color=navy]King of the Scandians:[/b] [nation]Scandia[/nation]
+[list][*][b][color=navy]King of Scandia:[/b] [nation]Scandia[/nation]
 [*][b]WA Delegate:[/b][/color] [i]vacant[/i][/list]
 
 [hr]
