@@ -8,3 +8,10 @@ President of the Senate: Mike Pence (R)
 President Pro Tempore of the Senate: Chuck Grassley (R)
 Majority Leader: Mitch McConnell (R)
 Minority Leader: Chuck Schumer (D)
+
+Political Parties
+Republican (R)
+Democrat (D)
+Independent (I)
+Libertarian (L)
+Green (G)
