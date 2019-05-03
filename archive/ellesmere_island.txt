@@ -1,10 +1,10 @@
 [color=006600][b]Ellesmere Island[/b]
 
-[list]Part of Queen Elizabeth Islands
+[list]Part of [region=Queen Elizabeth Islands]
 in [region=Nunavut], Canada
 Cape Columbia is the most northly point of land
 196,235 km sq. (75,767 sq. mi.)
 3rd largest island in Canada; 10th largest island in the world.
 The island was mostly abandoned during the little ice age from 1346 to 1850
-The little ice age is thought to have been caused by the Black Death that resulted in less agricultural activity due to the drop in population.[/color]
-[color=navy]a [region=0000] region[/color][/list]
+The little ice age is thought to have been caused by the Black Death that resulted in less agricultural activity due to the drop in population.[/color][color=navy]
+[b]Associated Regions include:[/b][list][region=Resolute][/list][/list][/color][hr]
