@@ -1,6 +1,3 @@
 [color=navy][b]Allegheny[/b]
 County of [region=Pennsylvania]
-[b]County Seat:[/b] [region=Pittsburgh]
-
-a [region=0000] region
-a DBA/RHW Oracle region[/color]
+[b]County Seat:[/b] [region=Pittsburgh][/color][hr]

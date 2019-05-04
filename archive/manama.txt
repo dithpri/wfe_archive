@@ -1,3 +1,2 @@
-[color=880000][b]Manama[/b], [region=al Bahrayn]
-Capital city of Bahrain
-a [region=0000] puppet storage region[/color]
+[color=006669][b]Manama[/b], [region=al Bahrayn]
+Capital city of Bahrain[/color]
