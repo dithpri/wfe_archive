@@ -1,1 +1,10 @@
-[color=navy][b]Forged Earth[/b][/color]
+[color=green][b]Forged Earth[hr]HELPFUL TOOLS:[/b] [url=http://texasregion.net/nsdossier/]Dossier Tools[/url] (from region of [region=Texas])
+
+This region plays [url=http://texasregion.net/nsdossier/embassyOracle.aspx][b]Embassy Oracle Game[/b][/url]
+- the theme of the game is to create a long line of regions
+- each region is linked by their embassy to one region before and after their own
+- the embassy oracle regions cannot have outside embassies as these will short circuit the line
+- my embassy matrix is represented by:[list][region=0000]
+[region=United States of America][/list]These are located about halfway through the embassy oracle list[/color][color=olive]
+REGION
+[b]Founded:[/b] 2019 May 01[/color]
