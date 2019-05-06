@@ -1,5 +1,6 @@
-[color=navy][b]Welcome to Nova Empire, a spacefaring interstellar civilization[/b][/color]
-[i]Per aspera ad astra - Through hardships to the stars[/i]
+[color=navy][b]Welcome to the[/color][color=goldenrod] Nova Empire[/color][color=navy], [i]the New Imperium[/i][/b]
+[i]Per aspera ad astra - Through hardships to the stars[/i][/color]
 
-[hr][u][b]Imperial Government[/b][/u]
-[list][*][color=navy][b]Emperor of the Novans:[/b][/color] [nation]Nova Empire[/nation][/list]
+[hr][u][color=goldenrod][b]Imperial Government[/b][/color][/u]
+[list][*][color=navy][b]Emperor of the Novans:[/b][/color] [nation]Nova Empire[/nation]
+[*][color=navy][b]WA Delegate:[/b][/color] [i]vacant[/i][/list]

@@ -10,7 +10,7 @@
 [hr]
 
 [color=darkred][b][i][u]Ministry[/u][/b][/color][/i]
-[nation=short]Belso Magyarorszag[/nation]
+
 [nation=short]Baltic Union[/nation]
 [nation=short]Mosinuslavia[/nation]
 [nation=short]Morevonia[/nation]
