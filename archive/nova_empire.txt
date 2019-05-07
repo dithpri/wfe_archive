@@ -1,5 +1,4 @@
-[color=navy][b]Welcome to the[/color][color=goldenrod] Nova Empire[/color][color=navy], [i]the New Imperium[/i][/b]
-[i]Per aspera ad astra - Through hardships to the stars[/i][/color]
+[color=navy][b]Welcome to the[/color][color=goldenrod] Nova Empire[/color][color=navy], [i]the New Imperium[/i][/b][/color]
 
 [hr][u][color=goldenrod][b]Imperial Government[/b][/color][/u]
 [list][*][color=navy][b]Emperor of the Novans:[/b][/color] [nation]Nova Empire[/nation]

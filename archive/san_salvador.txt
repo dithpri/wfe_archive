@@ -1,2 +1,1 @@
-[b]San Salvador[/b], Capital of [region=El Salvador]
-a holding region of [region=0000] group of regions
+[color=green][b]San Salvador[/b], Capital of [region=El Salvador][/color][hr]

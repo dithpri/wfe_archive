@@ -1,2 +1,1 @@
-[b]Washington District of Columbia[/b]
-a [region=United States of America] region
+[color=green][b]Washington District of Columbia[/b][hr]a [region=United States of America] region[/color]
