@@ -1,1 +1,3 @@
-[b][i]This region has been conquered by [nation]Rost Dreadnorramus[/nation].[/i][/b]
+[b][i]This region belongs to [nation]Rost Dreadnorramus[/nation].[/i][/b]
+
+[b]Resource: Glass[/b]

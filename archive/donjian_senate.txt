@@ -6,5 +6,7 @@ Leadership:
 [color=white]maj[/color]Senate Leader: [/b][nation=noflag]Rutabagastan[/nation] ([color=lightblue]LIB[/color])
 
 [color=white]majority[/color][i]Minority Leader:[/i] [nation=noflag]Herzegova[/nation] ([color=yellow]CAP[/color])
-[b]
-[color=white]maj[/color]Opposition Leader: [/b][nation=noflag]Corporotion[/nation] ([color=red]CON[/color])
+
+[color=white]majority[/color][i]Minority Leader:[/i] [nation=noflag]Jikook[/nation] ([color=lightblue]LIB[/color])
+
+[b][color=white]maj[/color]Opposition Leader: [/b][nation=noflag]South Kore[/nation] ([color=red]CON[/color])
