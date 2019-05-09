@@ -1,4 +1,2 @@
-[color=darkblue]A [region=Russian Federation] hacked territory
-Russian agents now occupy this region ([region=KGB])
-
-[list]Part of [region=0000][/list][/color]
+[color=green]A [region=Russian Federation] hacked territory
+Russian agents now occupy this region ([region=KGB])[/color]

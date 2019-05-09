@@ -1,5 +1,4 @@
-[b]Sheffield[/b]
-a [region=0000] region
+[color=green][b]Sheffield[/b]
 
 City in South Yorkshire, England
-[region=Great Britain and Northern Ireland]
+[region=Great Britain and Northern Ireland][/color]
