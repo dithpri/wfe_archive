@@ -1,5 +1,3 @@
-[color=blue][b]Republic of Crimea[/b]
-[/color][color=red]
-a [region=Russian Federation] occupied region of [region=Republic of Ukraine][/color]
-[color=004534]a [region=0000] &amp; [region=United States of America] region
+[color=green][b]Republic of Crimea[/b]
+a [region=Republic of Russian] occupied region of [region=Republic of Ukraine]
 associated with: [region=Crimea] and [region=The Republic of Ukraine][/color]

@@ -1,14 +1,7 @@
-[color=navy][b]Darwin[/b]
-[/color][color=004500]
-FACTS
-Capital of [region=Northern Territory], Australia
+[color=green][b]Darwin[/b]
+Capital of Northern Territory, Australia
 Located on Timor Sea
 [b]Established:[/b] 1869
 [b]Population:[/b] 145,916 (2016 c.)
 [b]Area:[/b] 3,163.8 sq. km
-[b]Time Zone:[/b] ACST (UTC+9:30)
-[/color][color=olive]
-REGION
-[b]Founded:[/b]
-a [region=Ancient Lands] region
-[b]Region Caretaker:[/b] [nation=short]Juergen[/nation][/color]
+[b]Time Zone:[/b] ACST (UTC+9:30)[/color]

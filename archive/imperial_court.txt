@@ -1,5 +1,1 @@
-[color=navy][b]Imperial Court[/b]
-[/color][color=olive]
-a [region=0000] region
-[/color][color=orange]
-Still deciding what to do with this region[/color]
+[color=green][b]Imperial Court[/b][/color]
