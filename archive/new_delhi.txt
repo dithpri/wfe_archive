@@ -1,2 +1,1 @@
-[b]New Delhi[/b]
-a [region=0000] region
+[color=green][b]New Delhi[/b][/color]
