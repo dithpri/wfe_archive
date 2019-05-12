@@ -1,4 +1,4 @@
-[b]Somaliland[/b]
+[color=green][b]Somaliland[/b]
 
 Capital: Hargeisa
 Independence: 1991 May 18 (Somalia - unrecognized)
@@ -6,4 +6,4 @@ Area: 137 600 sq km - 68 000 sq mi
 Population: 3 500 000 (2008 est)
 
 de facto sovereign republic
-recognized as an autonomous region of [region=Somalia]
+recognized as an autonomous region of [region=Somalia][/color]
