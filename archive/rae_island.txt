@@ -1,4 +1,1 @@
-[b]Rae Island[/b]
-
-Region created as a Puppet Storage Region
-a [region=0000] Oracle Region
+[color=green][b]Rae Island[/b][/color]

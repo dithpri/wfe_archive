@@ -1,2 +1,2 @@
-[b]Republic of Turkey[/b]
-a [region=Turkiye] region
+[color=green][b]Republic of Turkey[/b]
+a [region=Turkiye] region[/color]
