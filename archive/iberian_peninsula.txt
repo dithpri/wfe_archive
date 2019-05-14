@@ -1,2 +1,1 @@
-[b]Iberian Peninsula[/b]
-a [region=0000] region
+[color=green][b]Iberian Peninsula[/b][/color]

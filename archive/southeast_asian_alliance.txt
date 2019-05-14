@@ -5,4 +5,5 @@
 
 [u]Member Regions[/u]
 [color=red][region]India[/region] - [nation]SouthEast Alliance[/nation]
-[region]ASEAN REGION[/region][/color] - [nation]ASEAN REGION[/nation]
+[region]ASEAN REGION[/region] - [nation]ASEAN REGION[/nation]
+ [/color]

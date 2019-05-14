@@ -1,2 +1,1 @@
-[b]Albuquerque[/b]
-a [region=0000] region
+[color=green][b]Albuquerque[/b][/color]
