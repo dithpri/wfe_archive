@@ -1,6 +1,7 @@
-[b][color=#0d3300]-= The Galiek Alliance =-[/color][/b]
+[b][color=#0d3300]--= The Galiek Alliance =--[/color][/b]
 
-Ruler: Aaklande
+Founder: Aaklande
 Population: 1
-National Religion: Galiekism
-National Currency: Zloty
+Regional Religion: Galiekism
+Regional Currency: Zloty
+Minister of Foreign Affairs: Jacques Aldenburgh II
