@@ -1,2 +1,1 @@
-[b]South[/b]
-a [region=0000] region
+[color=green][b]South[/b][/color]
