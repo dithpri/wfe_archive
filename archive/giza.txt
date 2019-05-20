@@ -1,11 +1,1 @@
-[color=00477e][b]Giza[/b]
-[/color][color=ee9600]
-this is a DBA embassy oracle region
-[b]No Embassy Offers Accepted[/b]
-[/color][color=004d33]
-[b]Founded:[/b] 2017 Jul 22
-[b]DBA Embassy Oracles for this region are:[/b]
-Previous region is [region=Suva]
-Next region is [region=South Tarawa]
-Embassy Oracle Holding Region[/color][color=96001a]
-[b]Please - No Embassy Offers[/b][/color]
+[color=green][b]Giza[/b][/color]

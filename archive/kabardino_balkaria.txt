@@ -1,9 +1,7 @@
-[b]Kabardino Balkaria[/b]
-a Republic of [region=Russian Federation]
+[color=green][b]Kabardino Balkaria[/b]
+a Republic within [region=Republic of Russian]
 
-Established: 1936 Jan 05
-Capital: Nalchik
-Area: 12,500 sq km (70th)
-Population: 859,939 (2010 c. - 59th)
-
-a [region=Russian Federation] region
+[b]Established:[/b] 1936 Jan 05
+[b]Capital:[/b] Nalchik
+[b]Area:[/b] 12,500 sq km (70th)
+[b]Population:[/b] 859,939 (2010 c. - 59th)[/color]
