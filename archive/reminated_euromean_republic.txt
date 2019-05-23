@@ -7,8 +7,9 @@ https://www.nationstates.net/region=reminated_euromean_republic
 https://www.nationstates.net/region=floorsatt
 https://www.nationstates.net/region=recreated_cis
 https://www.nationstates.net/region=the_diplomatic_committee_of_nations
-https://www.nationstates.net/region=the_sands waiting embassies to finish
+https://www.nationstates.net/region=the_sands waiting for embassies to finish
 https://www.nationstates.net/region=secfanatics
+https://www.nationstates.net/region=the_federal_wobongo_committee waiting for embassies to finish
 
 the alliance ally&#39;s:
 https://www.nationstates.net/region=the_democratic_republic_of_dictators
@@ -19,4 +20,4 @@ https://www.nationstates.net/region=gypsy_lands
 https://www.nationstates.net/region=the_democratic_empire_of_dictators
 
 enemys of the R.E.R.A. are:
-https://www.nationstates.net/region=latam threat level: 2 of 100
+https://www.nationstates.net/region=latam threat level: 4 of 100
