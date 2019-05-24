@@ -1,5 +1,3 @@
-[color=006400][b]Chamber of Commerce[/b][/color][hr][color=A8A800]This is an [region=Ancient Lands]/[region=United States of America] region
-Maintained by [nation=short]Manitoulin[/nation] and [nation=short]New Falham[/nation][/color]
-
-[color=800000]This region is currently not seeking embassies
-[b]ALL EMBASSY OFFERS WILL BE ABORTED[/b][/color]
+[color=green][b]Chamber of Commerce[/b]
+This is a DBA Allied region
+Maintained by [nation=short]Elliston[/nation][/color]

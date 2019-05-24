@@ -1,5 +1,5 @@
-#############
-#[color=white]##### ######[/color]#
-# [color=blue]Western America[/color] #
-#[color=white]##### ######[/color]#
-#############
+[color=green]#############
+#[/color][color=F0FFFF]##### ######[/color][color=green]#
+# [/color][color=blue]Western America[/color][color=green] #
+#[/color][color=F0FFFF]##### ######[/color][color=green]#
+#############[/color]

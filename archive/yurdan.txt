@@ -1,2 +1,4 @@
-[color=blue][b]Welcome to Yurdan!
-[hr]Anything can be possible here if you work hard enough.[/color][/b]
+[color=blue][b]Welcome to Yurdan![/color]
+[color=red]Anything can be
+possible here if you[/color]
+[color=blue]work hard enough.[/color][/b][hr]

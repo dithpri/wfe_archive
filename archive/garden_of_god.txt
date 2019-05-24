@@ -1,8 +1,1 @@
-[color=2A52BE][b]Garden of God[/b][/color]
-
-[color=01796F]REGION[/color]
-[color=00A86B]a [region=0000] region[/color]
-[color=01796F][b]Founded:[/b] 2018 Aug 14[/color]
-[b]NEW REGION[/b]
-[color=AF4035]this is an oracle embassy list region[/color]
-[color=DC143C]No embassy offers accepted at this time[/color]
+[color=green][b]Garden of God[/b][/color]
