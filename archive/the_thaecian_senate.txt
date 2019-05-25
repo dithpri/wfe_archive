@@ -2,12 +2,14 @@
 [hr][colour=#045fb4][b]Leadership[/b][/colour]
 [list][b][i]Senate Chairman[/i]:  [nation=short+noflag]Cerdenia[/nation][/b] [b](PPT)[/b]
 
+[List][i]Deputy Chairman[/i]: [nation=short+noflag]Levantx[/nation] ([Color=blue]TPU[/color])[/list]
+
 [b][i]Senate Shadow Chairman[/i]:  [nation=short+noflag]Greater Conexus[/nation][/b] [b]([Color=orange]TSP[/color])[/b][/list]
 
 [hr][color=#ea2323]The Senate has begun proceedings.[/color]
 [hr][color=#045fb4][b]Please see the General Procedures, linked below, before posting here.[/b][/color]
 [hr]Senate Business:
 
-[b]Previous Business:[/b] The Adjustment and Fixation of Thaecian Election Dates Act (AFTED) - H.B. 007 ([colour=green]PASSED[/colour])
-[b]Current Business:[/b] The Legislative Recall Bill - S.B. 009
+[b]Previous Business:[/b] The Legislative Recall Bill - S.B. 009 ([colour=red]DEFEATED[/colour])
+[b]Current Business:[/b] Thaecia Military Defence Force Creation Act - S.B. 010
 [b]Next Business:[/b] TBD

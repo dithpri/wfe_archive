@@ -1,2 +1,1 @@
-[b]Baker Island[/b]
-a [region=0000] region
+[color=green][b]Baker Island[/b][/color]

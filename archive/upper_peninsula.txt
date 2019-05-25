@@ -1,3 +1,1 @@
-[b]Upper Peninsula[/b]
-a [region=Michigan] allied region
-a [region=United States of America]/[nation=short]New Falham[/nation] region
+[color=green][b]Upper Peninsula[/b][/color]
