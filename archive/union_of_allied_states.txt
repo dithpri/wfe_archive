@@ -17,7 +17,7 @@ President: [nation]Punk Anarchy[/nation]
 Vice-President: [nation]The Civitas Islands[/nation]
 CIC/Chief of Staff: [nation]United Osean Federation[/nation]
 Chief Justice: [nation]Zetox[/nation]
-Acting Prime Senator: [nation]East Meranopirus[/nation] (election pending)
+Prime Senator: [nation]East Meranopirus[/nation]
 Secretary of State: [nation]East Meranopirus[/nation]
 Attorney General: [nation]Il Corvonero[/nation]
 SecDIR: [nation]Handal Ands[/nation]

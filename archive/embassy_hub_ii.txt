@@ -1,8 +1,8 @@
 [b]Embassy Hub II is the official successor to the [region]Embassy Hub[/region]. 
 Therefore, we still have the embassy scavenging.
-Embassy Records:
-10:
+[color=#423fff]Embassy Records:
+10: May 27th, 2019
 50:
 100:
 500:
-1000:[/b]
+1000:[/color][/b]

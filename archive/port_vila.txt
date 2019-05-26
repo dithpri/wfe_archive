@@ -1,2 +1,1 @@
-[b]Port Vila[/b]
-a [region=0000] region
+[color=green][b]Port Vila[/b][/color]

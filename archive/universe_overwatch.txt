@@ -1,1 +1,10 @@
-The Universe Overwatch is a small region, that has very ambitious plans...
+[b]Welcome to[/b] [b][region]Universe Overwatch[/region][/b]
+--------------------------------------------------------------
+[color=red]Work In Progress[/color]
+--------------------------------------------------------------
+[b]Region Alert Level[/b]
+[color=grey]Alert Alpha[/color]
+[color=red]Alert Beta[/color]
+[color=orange]Alert Delta[/color]
+[color=yellow]Alert Gamma[/color]
+[color=lime][b]&amp;gt;Alert Omega&amp;lt;[/b][/color]
