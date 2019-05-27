@@ -1,14 +1,2 @@
-[color=navy][b]Accra[/b], [region=Ghana]
+[color=green][b]Accra[/b], [region=Ghana]
 Capital city of Ghana[/color]
-
-[color=slategrey][b]About this region[/b][list]This is a [region=0000] region
-This region is transitioning
-- from a [b]Holding Region[/b]
-- to a [b]Puppet Storage Region[/b]
-- as of 2017/08/12
-The puppets in this region will show the national flag of [b]Ghana[/b]
-Visitors and other non-DBA/RHW puppets need not adhere to this rule
-This is an Oracle Region of the RHW Alliance (Queen&#39;s States Regions)
-[b]Sister Region:[/b] [region=Ghana]
-[b]Founded:[/b] 2016/05/16[/color][color=orangered]
-This region does not accept Embassy Offers at this time.[/color][/list]

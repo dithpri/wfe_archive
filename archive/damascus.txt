@@ -1,7 +1,5 @@
-[color=maroon][b]Damascus[/b]
+[color=green][b]Damascus[/b]
 Capital city of Syria
 Allied with [region=Palmyra Tudmur] (a Syria based region)
-another [region=0000] region
 
-[b]Founded:[/b] June 11 2016
-[b]Sorry --- this region does not accept embassy offers[/b][/color]
+[b]Founded:[/b] June 11 2016[/color]

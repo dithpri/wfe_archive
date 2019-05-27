@@ -1,3 +1,8 @@
-[b]Kasaba[/b]
-
-a [region=0000] region
+[color=green][b]Kasaba[/b]
+a possible location for a Four Corners community
+[/color][color=red]
+[region=Northwest Territories] | [region=Nunavut]
+- - - - - - - - - - - - - - - - - - - - - -[/color][color=f0f0ff]
+- - - - [region=Saskatchewan] [/color][color=red]| [region=Manitoba]
+[/color][color=green]
+This is an [region=Mackenzie] + [region=Keewatin] Project[/color]
