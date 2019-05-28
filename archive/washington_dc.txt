@@ -1,2 +1,2 @@
-[color=navy][b]Washington DC[/b][/color][hr][color=teal]This region is open for new embassies.
-This is a [region=United States of America] region[/color]
+[color=green][b]Washington DC[/b]
+Capital of [region=United States of America][/color]

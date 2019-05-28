@@ -1,3 +1,2 @@
-[color=006688][b]Buryatia Republic[/b]
-[/color][color=004523]
-a [region=Russian Federation] region[/color]
+[color=green][b]Buryatia Republic[/b]
+a [region=Republic of Russia] region[/color]

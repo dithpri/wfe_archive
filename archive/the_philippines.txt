@@ -1,17 +1,19 @@
-[color=005400][b]The Philippines[/b]
+[color=green][b]The Philippines[/b]
 
-FACTS[list][hr][b]Capital:[/b] [region=Manila]
-Largest City: [region=Quezon City]
-Independence:[list]Established: Apr 27 1565
-Declared: Jun 12, 1898
-Self Governing: Mar 24, 1934
-Recognized: Jul 4, 1946
-Current Constitution: Feb. 2, 1987[/list]
-Population: 98,525,000 (2013 est.)
-Area: 300,000 km sq[hr][/list]
+FACTS
+[b]Capital:[/b] [region=Manila]
+[b]Largest City:[/b] [region=Quezon City]
+[b]Independence:[/b]
+- Established: Apr 27 1565
+- Declared: Jun 12, 1898
+- Self Governing: Mar 24, 1934
+- Recognized: Jul 4, 1946
+- Current Constitution: Feb. 2, 1987
+[b]Population:[/b] 98,525,000 (2013 est.)
+[b]Area:[/b] 300,000 km sq
 Philippines derived name from King Philip II of Spain
 Official name is Republic of the Philippines
 
 Founded: 2013 Mar 31
 Featured: 2018 May 13
-a [region=0000] region[/color]
+a [region=United States of America] region[/color]

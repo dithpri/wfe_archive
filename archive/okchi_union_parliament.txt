@@ -1,3 +1,17 @@
 This is the legislative branch for [region]The Okchi Union[/region].
 
-Welcome to the OU Parliament, consisting of the Houses of Representitives, House of Commons, and the Senate.
+Welcome to the OU Parliament, consisting of the Houses of Representatives, House of Commons, and the Senate.
+
+[u]Sides[/u]
+
+[b]Leader of the Majority[/b] : [nation]Senator for Mersdon[/nation] [b][color=skyblue](MDP)[/color][/b]
+[b]Leader of the Opposition[/b] : [nation]Senator Fourt Elizabeth[/nation] [b][color=purple](CSP)[/color][/b]
+
+[u]Party Leaders[/u]
+
+[b][color=skyblue]Modernists (MDP)[/color][/b] : [nation]Senator for Mersdon[/nation]
+[b][color=darkcyan]Liberal Democrats (LDP)[/color][/b] : (undecided)
+[b][color=purple]Conservatives (CSP)[/color][/b] : [nation]Senator Fourt Elizabeth[/nation]
+[b][color=greenyellow]Pogressive Labour (PLP)[/color][/b] : (undecided)
+
+Feel free to make a proposal :)

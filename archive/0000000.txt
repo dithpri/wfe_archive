@@ -1,11 +1,1 @@
-[color=white][b]7 protons! This region is Nitrogen!
-
-Elemental nitrogen is a colorless, odorless, tasteless, and mostly inert diatomic gas at standard conditions, constituting 78.09% by volume of Earth&amp;#39;s atmosphere. Many industrially important compounds, such as ammonia, nitric acid, organic nitrates (propellants and explosives), and cyanides, contain nitrogen.
-[/b][/color]
-
-[hr]
-
-Phase: gas
-Density: 1.251 g/L
-Melting point: 63.15 K, -210.00 &deg;C, -346.00 &deg;F
-Boiling point: 77.36 K, -195.79 &deg;C, -320.33 &deg;F
+[color=green][b]0000000[/b] (7 0s)[/color]

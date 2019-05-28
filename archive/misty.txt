@@ -1,16 +1,1 @@
-[color=6600FF][b]Misty[/b]
-[/color][color=teal]
-FACTS
-Have not yet decided which type of region this will become
-- 1. Temporary region ([i]may only keep for a day or two[/i])
-- 2. Embassy Oracle Holding region ([i]populated by only the founder[/i])
-- 3. Embassy Oracle Puppet Storage region ([i]founder and 7 or more puppets[/i])
-- 4. Embassy Matrix Puppet Storage region ([i]founder and 7 or more puppets[/i])
-* only #4 accepts embassy offers
-[/color][color=olive]
-REGION
-[b]Founded:[/b] 2018 Dec 26
-an Embassy Oracle region
-a [region=Ancient Lands]/[region=0000] allied region
-[/color][color=coral]
-[b]No Embassy Offers Please[/b][/color]
+[color=green][b]Misty[/b][/color]
