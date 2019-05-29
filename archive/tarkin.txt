@@ -5,18 +5,18 @@
 [b]|[url=https://www.nationstates.net/nation=tarkin/detail=factbook/id=main]Regional Constitution[/url]|[url=https://www.nationstates.net/nation=tarkin_department_of_the_interior/detail=factbook/id=1167200]Regional Map[/url][/b]
 
  [b][u][color=black]Executive:[/color][/u][/b]
-[i]General Secretary[/i]:[nation=short]Caska[/nation]
-[i]Vice Secretary:[/i][nation=short]Flaxxony[/nation]
+[i]General Secretary[/i]:[nation=short]Flaxxony[/nation]
+[i]Vice Secretary:[/i][nation=short]Caska[/nation]
 
 [color=maroon][b][u]Senate:[/u][/b][/color]
 [Nation=short]CamerWoon[/nation]
-[Nation=short]The Holy Ascension[/nation]
-[Nation=short]Libbington[/nation]
+[Nation=short]Haclife[/nation]
+[Nation=short]Marasaw[/nation]
 [Nation=short]New Delgado[/nation]
-[Nation=short]The Sanhedrin[/nation]
+[Nation=short]Carinth[/nation]
 
 
 [color=blue][b][u]Judiciary:[/color][/b][/u]
-[i]Chief Justice:[/i] [nation=short]Marasaw[/nation]
-Justice: [nation=short]Haclife[/nation]
-Justice: [nation=short]Learned Hands[/nation]
+[i]Chief Justice:[/i] [nation=short]The Sanhedrin[/nation]
+Justice: [nation=short]Burkai[/nation]
+Justice: [nation=short]Libsmark[/nation]

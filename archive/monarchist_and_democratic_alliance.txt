@@ -16,6 +16,7 @@
 [nation]DeltaSource[/nation] (Constitutional Empire)
 [nation]Turtle Town[/nation] (Democracy)
 [nation]New Makasta[/nation] 
+[nation]The Light Kingdom[/nation]
 
 [color=green][b][u]Regional Friends:[/u][/b][/color]
 [region]Federation of Conservative Nations[/region]

@@ -10,8 +10,8 @@ Welcome to the OU Parliament, consisting of the Houses of Representatives, House
 [u]Party Leaders[/u]
 
 [b][color=skyblue]Modernists (MDP)[/color][/b] : [nation]Senator for Mersdon[/nation]
-[b][color=darkcyan]Liberal Democrats (LDP)[/color][/b] : (undecided)
+[b][color=darkcyan]Liberal Democrats (LDP)[/color][/b] : [nation]Sen Kora[/nation]
 [b][color=purple]Conservatives (CSP)[/color][/b] : [nation]Senator Fourt Elizabeth[/nation]
-[b][color=greenyellow]Pogressive Labour (PLP)[/color][/b] : (undecided)
+[b][color=greenyellow]Pogressive Labour (PLP)[/color][/b] : [nation]MP Ocasio[/nation]
 
 Feel free to make a proposal :)
