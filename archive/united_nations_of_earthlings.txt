@@ -1,10 +1,9 @@
 [color=blue][b]Prime Minister:[/b] [nation]Hiram Land[/nation]
 [b]Deputy Prime Minister:[/b] [nation]Paleno[/nation]
 [b]Founder:[/b] [nation]Argentinstan[/nation]
-[b]WA Delegate:[/b] [nation]Leskya[/nation][/color] (Longest Serving: [nation]Uruguistan[/nation])
+[b]WA Delegate:[/b] [nation]Leskya[/nation][/color]
 
-[color=red]DISGRACED:[/color] [nation]PyeMcgowan[/nation], [nation]Northwest Kalactin[/nation], [region]Stattgang[/region]
-[i][color=red]Lockdown Status:[/color] [b][color=green]NORMAL[/color][/b][/i]
+[b][color=red]Lockdown Status:[/color][/b] [color=green]Normal[/color]
 
 [hr]
 
