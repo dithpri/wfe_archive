@@ -1,4 +1,1 @@
-[color=navy][b]The East Sea[/b]
-[/color][color=darkgreen]
-a [region=0000] region
-[b]Founded:[/b] 2019 Jan 24[/color]
+[color=green][b]The East Sea[/b][/color]
