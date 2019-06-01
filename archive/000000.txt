@@ -1,5 +1,1 @@
-[b]000000[/b]
-a [region=0000] region
-
-[color=maroon]PASSWORD PROTECTED[/color]
-[color=gray]Committee decision was to clear this region[/color]
+[color=green][b]000000[/b] (6 0s)[/color]

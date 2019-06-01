@@ -1,2 +1,3 @@
-[list][color=navy]the Kingdom of Greenland
-Kalaallit Nunaat[hr][/color][color=008000]a [region=Danmark]/[region=Ancient Lands] Region[/color][/list]
+[list][color=green]the Kingdom of Greenland
+Kalaallit Nunaat
+a [region=Danmark] Region[/color][/list]
