@@ -1,9 +1,5 @@
-[b]Howland Island[/b]
-a [region=0000] region
+[color=green][b]Howland Island[/b]
 
 Located near [region=Baker Island].
-Occupied by [region=United States of America]
 Claimed by both [region=Kingdom of Hawaii] and [region=Kiribati].
-Caretaker: [nation=short]Royal House of Windsor[/nation].
-
-re: Embassy Policy -- see [region=Baker Island] for more info
+[region=The Central Pacific], a [region=United States of America] region.[/color]

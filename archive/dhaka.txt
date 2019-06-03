@@ -1,3 +1,2 @@
-[color=navy][b]Dhaka[/b]
-the Capital of Bangladesh[/color][color=maroon]
-This is a [region=0000] region[/color]
+[color=green][b]Dhaka[/b]
+the Capital of Bangladesh[/color]

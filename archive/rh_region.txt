@@ -1,2 +1,3 @@
 RH Region is a region. [region]RH9 Region[/region]
 Founder:[nation]RH9[/nation]
+Vice-Delegate:[nation]RH0[/nation]
