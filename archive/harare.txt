@@ -1,5 +1,2 @@
-[color=navy][b]Harare[/b]
-Capital and largest city of [region=Zimbabwe]
-[/color][color=green]
-an [region=0000] region
-Currently not accepting embassy offers[/color]
+[color=green][b]Harare[/b]
+Capital and largest city of [region=Zimbabwe][/color]
