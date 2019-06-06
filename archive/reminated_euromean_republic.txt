@@ -9,7 +9,7 @@ https://www.nationstates.net/region=recreated_cis
 https://www.nationstates.net/region=the_diplomatic_committee_of_nations
 https://www.nationstates.net/region=the_federal_wobongo_committee
 https://www.nationstates.net/region=latam vassal to R.E.R.
-known allys:
+allys:
 https://www.nationstates.net/region=the_sands
 https://www.nationstates.net/region=secfanatics
 https://www.nationstates.net/region=the_democratic_republic_of_dictators 
@@ -19,6 +19,6 @@ https://www.nationstates.net/region=gypsy_lands
 https://www.nationstates.net/region=the_democratic_empire_of_dictators 
 https://www.nationstates.net/region=the_great_universe
 and more
-known potential allys:
+potential allys:
 https://www.nationstates.net/region=star_wars 
 and more
