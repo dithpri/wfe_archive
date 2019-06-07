@@ -2,12 +2,12 @@
 [hr] Region Name was founded for the purpose of bringing together a group of allied nations in order to have a strong connection to one another, through diplomacy and democracy
 [b]Regional Alert: [color=green]GREEN[/color][/b]
 [hr]
-[b][color=blue]SNAP ELECTION, [u]SPEAKER[/u]:[/color] [color=red]Friday, June 7th, 2019[/color][/b]
+
 [b][i]Next Election:[/i][/b] [color=teal]August 15th, 2019[/color] [i](Speaker)[/i]
 
 [b][i]World Assembly Delegate:[/i][/b] [nation=long]Melon ia[/nation] 
 
-[b][i] Speaker of the Legislature: [/i][/b] [i]Vacant[/i]
+[b][i] Speaker of the Legislature: [/i][/b] [nation]Soviet Melonia[/nation]
 
 [b] [i]Supreme Justice of the Courts:[/i][/b] [nation=long]Great Patrick[/nation]
 

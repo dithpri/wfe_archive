@@ -1,6 +1,1 @@
-[color=maroon][b]The Alliance Headquarters
-[/color][color=olive]
-Founded:[/b] 2019 Feb 28
-a [region=0000] holding region
-[/color][color=red]
-Will be ignoring embassy offers[/color]
+[color=green][hr][b]The Alliance Headquarters[/b][hr][/color]

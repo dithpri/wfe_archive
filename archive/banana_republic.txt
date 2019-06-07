@@ -1,9 +1,9 @@
-[color=green][b]Welcome to the glorious[/color][color=gold] [i]Banana Republic![/color] [color=green]&iexcl;Viva la Rep&uacute;blica Bananera![/i][/b][/color]
+[color=darkfire][b]Welcome to the glorious[/color][color=gold] [i]Banana Republic![/color] [color=green]&iexcl;Viva la Rep&uacute;blica Bananera![/i][/b][/color]
 
 [hr]
 
 [color=darkgreen][u][b]Public Service Announcement[/b][/u][/color]
-[color=green]We shall await for further exciting news from our dear leader, so stay tuned and enjoy our freshly picked bananas![/color]
-[color=darkgreen][i]This message is sponsored by the State Media of the People&#39;s Military Junta.[/i][/color]
+[color=darkfire]We shall await for further exciting news from our dear leader, so stay tuned and enjoy our freshly picked bananas![/color]
+[color=darkred][i]This message is sponsored by the State Media of the People&#39;s Military Junta.[/i][/color]
 
-[hr][color=darkgreen][b]Trivia:[/b][/color] [color=green]The scientific name for banana is musa sapientum, which means &#147;fruit of the wise men.&#148;[/color][hr]
+[hr][color=darkgreen][b]Trivia:[/b][/color] [color=darkfire]The scientific name for banana is musa sapientum, which means &#147;fruit of the wise men.&#148;[/color][hr]
