@@ -1,1 +1,9 @@
-Welcome to Bretonia!
+[b][color=red]Welcome to Bretonia Station! 
+
+Trains departing:[/b][/color][i]
+
+Platform 1: [region=The Rejected Realms]
+Platform 2: [region=Ravania]
+Platform 3: [region=Artificial Solar System]
+Platform 4: [region=Evermas]
+Platform 5: [region=The Hole][/i]

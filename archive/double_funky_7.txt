@@ -1,17 +1,1 @@
-[color=0000C8][b]Double Funky 7[/b][hr][/color][color=003153][b]Oracle Regions[/b]
-
-Goal of this game is to create a chain connecting as many regions as possible by their embassy links
-No embassy offers can be accepted as they can short circuit this chain
-List is in the order of the update
-
-This is a [region=The Assembly of Gentlemen] region
-[list][url=http://texasregion.net/nsdossier/]NationStates Dossier Tools[/url]
-[url=http://texasregion.net/nsdossier/embassyOracle.aspx]Oracle Game[/url][/list]
-- Details continued on page: &amp;gt; [region=Ching Chong Coalition] &amp;lt;
-
-REGION
-this is a DBA Alliance [region=0000] oracle holding region
-allied with [region=United States of America][/color][color=FFA812]
-[b]PASSWORDED REGION[/b]
-[/color][color=red]
-[b]Sorry, this region does not accept embassy offers.[/b][/color][hr]
+[color=green][b]Double Funky 7[/b][/color]

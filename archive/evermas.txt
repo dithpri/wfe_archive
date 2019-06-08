@@ -1,1 +1,8 @@
-Bfc
+[b][color=red]Welcome to Evermas Station! 
+
+Trains departing:[/b][/color][i]
+
+Platform 1: [region=The Rejected Realms]
+Platform 2: [region=Belgium]
+Platform 3: [region=Artificial Solar System]
+Platform 4: [region=Bretonia][/i]
