@@ -2,8 +2,7 @@
 
 [region]Lardyland Training Camp[/region]
 [hr]
-[b]Minister of War:[/b] [nation]Captian Lard[/nation]
-[b]General:[/b] TBD
+[b]The current Minister of War is [nation]Spaceanian Lard[/nation][/b]
 [hr]
 [b]Annoucements:[/b]
 [list]

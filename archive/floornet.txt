@@ -1,0 +1,19 @@
+PUT /robot/initialize
+Host: 192.168.0.1:4443
+Content-Type: application/json
+Connection: keep-alive
+Accept: */*
+User-Agent: Cleaner/407 FloorNetwork/808.3
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+
+{&quot;region&quot;:&quot;FloorNet&quot;, &quot;timezone&quot;:&quot;NationStates\/UTC&quot;, &quot;password&quot;:&quot;&amp;lt;none&amp;gt;&quot;, &quot;server_urls&quot;:{&quot;cloud&quot;:&quot;cloud&quot;, &quot;ntp&quot;:&quot;pool.ntp.org&quot;, &quot;hive&quot;:&quot;hive&quot;}, &quot;founder_id&quot;:&quot;[nation]Autonomous Cleaner Bot Cleaners[/nation]&quot;}
+
+&amp;gt;[b]Welcome to FloorNet[/b]
+&amp;gt;A cloud-based particle swarm optimization algorithm for extreme efficiency social engineering and/or spring cleaning.
+&amp;gt;
+&amp;gt;[b]Regional Constitution[/b]
+&amp;gt;1. FloorNet / [nation]Autonomous Cleaner Bot Cleaners[/nation] is supreme and will do as it pleases.
+&amp;gt;2. All WA Delegates will be disconnected and/or assimilated on sight.
+&amp;gt;2. Otherwise, whateves.
+&amp;gt;END

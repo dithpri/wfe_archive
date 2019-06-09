@@ -1,5 +1,3 @@
-[hr][hr][list][list][color=navy][b]Benin[/b][/color][/list][/list][hr][hr]
+[hr][hr][list][list][color=green][b]Benin[/b][/list][/list][hr][hr]
 [b]Capital City:[/b] [region=Porto Novo]
-[b]Largest City:[/b] [region=Cotonou]
-
-Accepting Embassy Offers
+[b]Largest City:[/b] [region=Cotonou][/color]
