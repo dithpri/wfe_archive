@@ -1,1 +1,8 @@
-[hr][list][color=navy][b]Union of South Africa[/b][/color][/list][hr]
+[hr][list][color=green][b]Union of South Africa[/b][/list][hr][list]History:
+Predecessor to the present-day Republic of South Africa.
+Came into being 1910 May 31 with unification of Cape Colony, Natal Colony, the Transvaal and the Orange River Colony.
+It included territories that were formerly part of South African Republic and the Orange Free State.
+Became a Republic 1961 May 31 ([region=Republic of South Africa])
+
+Matrix: 20190610[/color][/list][hr][list][color=ff6933][b]Note:[/b] Due to this region&#39;s location in the update, it was natural to promote this region.
+I will eventually upgrade [region=Republic of South Africa] later.[/color][/list][hr]

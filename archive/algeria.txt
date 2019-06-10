@@ -1,10 +1,7 @@
-[hr][hr][color=402000][b]Algeria[/b][hr][hr]
+[hr][hr][color=green][b]Algeria[/b][hr][hr]
 
-A African Nation located on the Mediterranean Sea between [region=Morocco] and [region=Tunisia]
+An African Nation located on the Mediterranean Sea between [region=Morocco] and [region=Tunisia]
+Capital city is [region=Algiers]
 
 REGION
-&#149; Founded: May 29, 2012
-&#149; a [region=Ancient Lands] region
-[/color][color=red]
-NO RECRUITING PLEASE[/color][color=008030]
-WILL ACCEPT ANY EMBASSY REQUESTS[/color]
+&#149; Founded: May 29, 2012[/color]

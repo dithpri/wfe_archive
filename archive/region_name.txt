@@ -7,7 +7,7 @@
 
 [b][i]World Assembly Delegate:[/i][/b] [nation=long]Melon ia[/nation] 
 
-[b][i] Speaker of the Legislature: [/i][/b] [nation]Soviet Melonia[/nation]
+[b][i] Speaker of the Legislature: [/i][/b] [nation=long]Soviet Melonia[/nation]
 
 [b] [i]Supreme Justice of the Courts:[/i][/b] [nation=long]Great Patrick[/nation]
 
