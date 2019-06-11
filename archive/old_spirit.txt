@@ -7,6 +7,7 @@ Relocated from [region=Ancient Lands] + [region=0000] regions[/list][hr][hr][lis
 [*] [region=Northern Africa] (new addition)
 [*] [region=the Central Pacific] (and many allied regions)
 [*] [region=0000] (and many allied regions)
-[*] [region=Purgatory] &amp; [region=Kitai] (allied puppet storage regions)[/color][/list][color=grey]
+[*] [region=Purgatory] &amp; [region=Kitai] (allied puppet storage regions)
+[/list][/color][color=grey]
 [b]Founded:[/b] 2019 May 13[/color][color=ff6900]
 [b]Embassy Offers are accepted[/b][/list][hr][hr][/color][color=803000][b]The [region=Old Spirit] of [region=United States of America] Home Region[/b][/color][hr][hr]

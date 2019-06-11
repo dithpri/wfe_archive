@@ -1,6 +1,8 @@
 [b][i][color=Maroon]Our Region [/color][/i][/b]
-[hr] Region Name was founded for the purpose of bringing together a group of allied nations in order to have a strong connection to one another, through diplomacy and democracy
-[b]Regional Alert: [color=green]GREEN[/color][/b]
+
+Region Name was founded for the purpose of bringing together a group of allied nations in order to have a strong connection to one another, through diplomacy and democracy
+[hr][b]Regional Alert: [color=Red]RED[/color][/b]
+[url=https://www.nationstates.net/page=dispatch/id=1221570][u][color=Gray]Code for Codes[/color][/u][/url]
 [hr]
 
 [b][i]Next Election:[/i][/b] [color=teal]August 15th, 2019[/color] [i](Speaker)[/i]

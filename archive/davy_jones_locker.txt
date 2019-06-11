@@ -1,7 +1,1 @@
-[color=blue][b]Davy Jones Locker[/b][/color]
-[color=green]another [region=0000] region[/color]
-
-[color=navy]REGION
-a DBA Oracle region
-see [region=Double Funky 7] for more details on my Oracle Regions
-[b]Founded.:[/b] 2018 Aug 11[/color]
+[color=green][b]Davy Jones Locker[/b][/color]
