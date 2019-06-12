@@ -1,4 +1,1 @@
-[color=004525][b]Triumph[/b]
-a [region=0000] allied region
-an embassy oracle region
-[i]This block of regions are a serial embassy block that do not accept outside embassy offers as they will break the block.[/i][/color]
+[color=green][b]Triumph[/b][/color]
