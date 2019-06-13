@@ -11,7 +11,7 @@ WA Delegate: [nation]Adelanto[/nation]
 Council:
 [nation]Eastern Copek[/nation]
 [nation]Daulend[/nation]
-TBD
+[nation]Greater Georginiana[/nation]
 
 Minister of Regional Affairs: [nation]Zolotaya sobaka[/nation][/color]
 [hr]
