@@ -8,8 +8,8 @@
 
 [color=orange]Imperial News:[/color] 
 [list=I][color=red]
-[*]Registration for Prime Minister elections have officially begun, in order to run contact his majesty [nation=noflag]Ravioli Representative[/nation].
-[*][region]Raxulan Empire[/region] collapses after losing a humiliating war with the [region]New Yellow Empire[/region]. Long live the Imperium, noone defeats the Yellow Army!
+[*][nation=noflag]Invadolandia[/nation] elected Prime Minister of the [region]New Yellow Empire[/region]! 
+[*]New Prime Minister announces his intentions to keep [nation=noflag]German-Soviet Reich[/nation] as Minister of Defence, as well as appointing former Prime Ministerial candidate [nation=noflag]Rataticha[/nation] as Minister of Culture.
 [/list][/color]
 
 [b][color=#FFC000]Ave praeclara omnibus flavo Imperii gentium domitorem orbis![/color][/b]
