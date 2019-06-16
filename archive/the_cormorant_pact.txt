@@ -1,12 +1,11 @@
-A small alliance of nations. Former members of [region]National Bolshevist Coalition[/region].
-[strike]TRIED CHANGING THIS FACTBOOK 3 TIMES NOW FFS LAG[/strike]
+[color=4F33CB]A small alliance of Nations. Former members of the[/color] [region]National Bolshevist Coalition[/region].
+[hr]
+
+Anthem: [url=https://www.youtube.com/watch?v=kDIuApfVxBg]The Red Flag[/url] | Currency: franc (FR)
 [hr]
 
 [list]
-[*]WA Delegate: [nation]SFR Philippines[/nation]
-[*]Regional Currency: franc
-[*]Anthem: [url=https://www.youtube.com/watch?v=kDIuApfVxBg]The Red Flag[/url]
 [*]Socialists: 5
 [*]Capitalists: 10
-[*]Weenises: 3
+[*]Weenies: 3
 [*]Total Member States: 15

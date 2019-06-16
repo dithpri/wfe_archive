@@ -1,6 +1,1 @@
-Occupied by [region]the Cormorant Pact[/region], to raise their flag above minor regions for seemingly no reason
-[hr]
-[nation]sfr philippines[/nation]
-[nation]cayenne minor[/nation]
-[nation]renofaria[/nation]
-[nation]new volgo[/nation]
+[region]the Cormorant Pact[/region] backup region 2
