@@ -6,5 +6,12 @@ Consists
 [nation]Calapia[/nation]
 [nation]Agnatoli[/nation]
 [nation]Satisland[/nation]
-[nation]East Guronibia[/nation]
-[nation]Inkun[/nation]
+[nation]East Guronibia[/nation](Agreplatoli)
+[nation]Nyokun[/nation]
+[nation]Prasna[/nation]
+--Not on continent but has ties to ARU--
+[nation]Megia[/nation]
+[nation]Brina[/nation]
+[nation]Hemvania[/nation]
+---
+ARU is my part of [region]Noblia[/region]
