@@ -19,7 +19,7 @@
 [nation]DeltaSource[/nation] (Galactic Empire)
 [nation]The Light Kingdom[/nation] (Constitutional Monarchy)
 
-[color=green][b][u]Regional Friends:[/u][/b][/color]
+[color=green][b][u]MDA Regional Friends:[/u][/b][/color]
 [region]Federation of Conservative Nations[/region]
 [region]Simul[/region]
 [region]The Interdimensional Community[/region]
