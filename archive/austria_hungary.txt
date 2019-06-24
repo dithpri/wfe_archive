@@ -1,2 +1,2 @@
-[b]Austria Hungary[/b]
-a [region=0000] region
+[color=green][b]Austria Hungary[/b][/color][color=803000]
+an [region=Old Spirit] region[/color]
