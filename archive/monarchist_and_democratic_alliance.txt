@@ -18,6 +18,7 @@
 [nation]Turtle Town[/nation] (Direct Democracy)
 [nation]DeltaSource[/nation] (Galactic Empire)
 [nation]The Light Kingdom[/nation] (Constitutional Monarchy)
+[nation]Newenburg[/nation] (Corporatocracy)
 
 [color=green][b][u]MDA Regional Friends:[/u][/b][/color]
 [region]Federation of Conservative Nations[/region]
@@ -25,4 +26,3 @@
 [region]The Interdimensional Community[/region]
 [region]United roleplay authority[/region]
 [region]The Monarchy alliance[/region]
-[region]The Moderate Alliance[/region]
