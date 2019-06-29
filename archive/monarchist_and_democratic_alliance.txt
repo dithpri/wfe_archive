@@ -1,8 +1,8 @@
 [color=blue][b]Welcome to the [region]Monarchist and Democratic Alliance[/region]![/color][/b]
 [url=https://www.nationstates.net/page=dispatch/id=1172759]RP Rules![/url]
-[url=https://www.nationstates.net/page=dispatch/id=1203043]Regional Holidays![/url]
-[url=https://www.nationstates.net/page=dispatch/id=1219718]RP Help &amp; Guide![/url]
-[url=https://discord.gg/Fuh6NJ8]Our Discord![/url]
+[url=https://www.nationstates.net/page=dispatch/id=1203043]MDA Holidays![/url]
+[url=https://www.nationstates.net/page=dispatch/id=1219718]RP Help![/url]
+[url=https://discord.gg/Fuh6NJ8]MDA Discord![/url]
 [url=https://www.scribblemaps.com/maps/view/MU/ttyxv71gn4]RP Map![/url]
 [b][color=grey]Want to raid? TG [nation]The Legion of Mankind[/nation] to join Raid Team.[/color]
 [color=blue]Want to RP? TG [nation]Dragons of Power[/nation] to join the MDA RP Team.[/color]
@@ -14,10 +14,8 @@
 [nation]Dragons of Power[/nation] (Republican Democracy)
 [nation]Kumari Kandum[/nation] (Empire)
 [nation]Emercondia[/nation] (Democracy)
-[nation]New Makasta[/nation] (Unknown)
+[nation]New Makasta[/nation] (Communist Republic)
 [nation]Turtle Town[/nation] (Direct Democracy)
-[nation]DeltaSource[/nation] (Galactic Empire)
-[nation]The Light Kingdom[/nation] (Constitutional Monarchy)
 [nation]Newenburg[/nation] (Corporatocracy)
 
 [color=green][b][u]MDA Regional Friends:[/u][/b][/color]
@@ -26,3 +24,4 @@
 [region]The Interdimensional Community[/region]
 [region]United roleplay authority[/region]
 [region]The Monarchy alliance[/region]
+[region]The Wolf Clan[/region]
