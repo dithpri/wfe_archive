@@ -1,15 +1,9 @@
-[color=#0BFF03][b]W[/b][/color][color=#0DFC02][b]e[/b][/color][color=#0FF902][b]l[/b][/color][color=#12F702][b]c[/b][/color][color=#14F402][b]o[/b][/color][color=#17F202]m[/color][color=#19EF02][b]e[/b][/color] [color=#1EEA02][b]t[/b][/color][color=#20E802][b]o[/b][/color] [color=#25E202][b]t[/b][/color][color=#28E002][b]h[/b][/color][color=#2ADD02]e[/color] [color=#2FD802][b]H[/b][/color][color=#32D602]o[/color][color=#34D302][b]u[/b][/color][color=#36D102][b]s[/b][/color][color=#39CE02][b]e[/b][/color] [color=#3EC902]o[/color][color=#40C602][b]f[/b][/color] [color=#45C102]t[/color][color=#47BF02]h[/color][color=#4ABC02][b]e[/b][/color] [color=#4FB702][b]L[/b][/color][color=#51B502][b]e[/b][/color][color=#54B202][b]z[/b][/color][color=#56AF02]r[/color][color=#59AD02][b]a[/b][/color][color=#5BAA02]n[/color] [color=#60A501][b]S[/b][/color][color=#62A301][b]e[/b][/color][color=#65A001][b]n[/b][/color][color=#679E01][b]a[/b][/color][color=#6A9B01][b]t[/b][/color][color=#6C9801][b]e[/b][/color][color=#6F9601][b]![/b][/color][color=#719301]
-[/color][color=#739101][b]W[/b][/color][color=#768E01][b]h[/b][/color][color=#788C01][b]e[/b][/color][color=#7B8901]r[/color][color=#7D8701][b]e[/b][/color] [color=#828201][b]t[/b][/color][color=#847F01][b]h[/b][/color][color=#877C01][b]e[/b][/color] [color=#8C7701]5[/color] [color=#917201][b]s[/b][/color][color=#937001][b]e[/b][/color][color=#966D01][b]n[/b][/color][color=#986B01][b]a[/b][/color][color=#9A6801]t[/color][color=#9D6501][b]o[/b][/color][color=#9F6301][b]r[/b][/color][color=#A26001][b]s[/b][/color] [color=#A75B01][b]o[/b][/color][color=#A95901][b]f[/b][/color] [color=#AE5400][b]L[/b][/color][color=#B05100][b]e[/b][/color][color=#B34F00][b]z[/b][/color][color=#B54C00][b]r[/b][/color][color=#B84900][b]a[/b][/color] [color=#BD4400][b]c[/b][/color][color=#BF4200][b]o[/b][/color][color=#C13F00][b]n[/b][/color][color=#C43D00]v[/color][color=#C63A00][b]e[/b][/color][color=#C93800][b]n[/b][/color][color=#CB3500][b]e[/b][/color] [color=#D03000][b]t[/b][/color][color=#D32D00][b]o[/b][/color] [color=#D72800][b]d[/b][/color][color=#DA2600]e[/color][color=#DC2300][b]b[/b][/color][color=#DF2100][b]a[/b][/color][color=#E11E00][b]t[/b][/color][color=#E41C00][b]e[/b][/color] [color=#E91600][b]a[/b][/color][color=#EB1400][b]n[/b][/color][color=#ED1100][b]d[/b][/color] [color=#F20C00][b]v[/b][/color][color=#F50A00][b]o[/b][/color][color=#F70700][b]t[/b][/color][color=#FA0500]e[/color][color=#FC0200][b]![/b][/color]
+[color=#6666ff][b]The region for the Senators of Lezra to debate and vote on bills. Refounded by [nation]Old Utopia[/nation].[/b][/color]
 
-[color=red][b][u]Current Senators:[/u][/b][/color]
-[b][nation=long]Balticonia[/nation]
+[color=#6699ff][b]The Current Senators Are:[/b][/color]
+
 [nation=long]Old Utopia[/nation]
+[nation=long]Balticonia[/nation]
+[nation=long]The Santland[/nation]
+[nation=long]Turkish Korania[/nation]
 [nation=long]Psunam[/nation]
-[nation=long]the santland[/nation]
-[nation=long]Turkish Korania[/nation][/b]
-
-[color=red][u][b]Telegram [nation]Balticonia[/nation] for the password! But only if you are a member of the Senate![/b][/u][/color]
-
-[u][i]We do not accept embassies from other regions! Only Glorious Lezra may have an embassy with us.[/i][/u]
-
-[color=red][b]This region is an Annex of Lezra[/b][/color]

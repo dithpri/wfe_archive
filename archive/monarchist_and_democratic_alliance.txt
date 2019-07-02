@@ -15,6 +15,7 @@
 [nation]Kumari Kandum[/nation] (Empire)
 [nation]Emercondia[/nation] (Democracy)
 [nation]New Makasta[/nation] (Communist Republic)
+[nation]DeltaSource[/nation] (Galactic Empire)
 [nation]Turtle Town[/nation] (Direct Democracy)
 [nation]Newenburg[/nation] (Corporatocracy)
 
