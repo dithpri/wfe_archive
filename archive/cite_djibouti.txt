@@ -1,10 +1,10 @@
 [color=green][b]Cite Djibouti[/b]
-&amp;bull; Capital of [region=Djibouti]
+&#149; Capital of [region=Djibouti]
 Also called: 
-Ville de Djibouti (French)
-Djibouti City (English)
-Magaalada Jabuuti (Somali)
-Magaala Gabuuti (Afar)
+[region=Ville de Djibouti] (French)
+[region=Djibouti City] (English)
+[region=Magaalada Jabuuti] (Somali)
+[region=Magaala Gabuuti] (Afar)
 Founded: 1888
 
 Region Founded: 20190702[/color]

@@ -1,3 +1,4 @@
-[color=navy][b]The Commonwealth of Free States[/b]
-a [region=0000] holding region[/color]
-[color=cdaa90][b]Founded:[/b] 2017 Aug 29[/color]
+[color=green][b]The Commonwealth of Free States[/b]
+[/color][color=803000]
+an [region=Old Spirit] of [region=United States of America] region[/color][color=olive]
+[b]Founding Date:[/b] 2017 Aug. 29[/color]
