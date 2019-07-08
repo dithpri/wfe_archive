@@ -4,4 +4,4 @@
 [color=blue] Live Music Every Thursday.[/color]
 [color=purple] Ladies Night Every Wednesday.[/color].
 
-[color=red]Sister Region:[region]Vanaheimr[/region][/color]
+[color=red]Sister Region: [region]Vanaheimr[/region][/color]
