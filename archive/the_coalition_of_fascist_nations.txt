@@ -2,7 +2,7 @@
 
 [hr]
 
-[b][i]A Coalition of Fascist nations dedicated to the spreading of the fascist ideology, and the education of today&#39;s youth about the Glorious Doctrines of Fascism! We seek to spread a new Order throughout NationStates, and to organize and consolidate the populace of NationStates under one powerful regime who will finally halt the expansion of the corrupt and wicked communist dictatorships that surround us![/b][/i]
+[b][i]A Coalition of Fascist nations dedicated to the spreading of the fascist ideology, and the education of today&#39;s youth about the Doctrines of Fascism! We seek to spread a new Order throughout NationStates, and to finally halt the expansion of the corrupt and wicked communist dictatorships that surround us![/b][/i]
 
 [hr]
 
@@ -16,3 +16,4 @@ Minister of Intelligence: [nation]The 4th August Regime of Greece[/nation]
 Minister of Foreign Affairs: [nation]Arisen Britannia[/nation]
 Minister of Propaganda: [nation]Azokhistan[/nation]
 Minister of Domestic Affairs: [nation]Hong Ming[/nation]
+Minister of Recruitment: [nation]Vichy Arabia[/nation]

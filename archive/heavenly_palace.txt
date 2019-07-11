@@ -3,10 +3,6 @@
 REGION
 [b]Founded:[/b] 2018 Nov 15
 [b]Featured:[/b] 2019 Mar 31
-a [region=the Assembly of Gentlemen] Puppet Storage Region
-a [region=Double Funky 7] Oracle Region
-associated with: [region=0000] / [region=Camp Homey] / [region=Alternis Europa]
-[region=United States of America] / [region=Ecuador] / [region=Russian Federation]
-a DBA Alliance Region
-[/color][color=darkgreen]
+an [region=Old Spirit] Puppet Storage Region
+[/color][color=EF6900]
 EMBASSY OFFERS PLEASE[/color]

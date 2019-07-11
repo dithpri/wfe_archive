@@ -17,7 +17,7 @@ Official donut shop in Balestria: [region]Yipmens Donut Shop[/region]
 Want an embassy? Just send an ambassador and we&#146;ll construct it.
 
 Regional currency: e$ (balestrian dollars)
-Regional treasury: 0 e$
+Regional treasury: 332,765,075 e$
 
 Biggest Cities in balestria ranked.
 Balestopia (Capital and biggest city)
@@ -31,3 +31,4 @@ Dassity
 Herald City
 Keppern
 
+King number: [nation]The Empire of Balestria[/nation] II
