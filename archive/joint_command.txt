@@ -1,1 +1,3 @@
-[color=green][b]Joint Command[/b][/color]
+[color=green][b]Joint Command[/b]
+a [region=United States of America] Puppet Storage Region[/color][color=803000]
+an [region=Old Spirit] Region[/color]

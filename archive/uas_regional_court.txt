@@ -1,14 +1,13 @@
 [b]Welcome to the UAS REGIONAL COURT SYSTEM[/b][HR]
 
-[b]The Honorable Great Gazoo of [nation]Zetox[/nation][/b]
+[b]The Honorable Great Gazoo
+[nation=long]Zetox[/nation][/b]
 [i]Chief Justice of the Supreme Court[/i]
 
-[b]The Honorable William Hammond of [nation]The Civitas Islands[/nation][/b]
+[b]The Honorable William Hammond
+[nation=long]The Civitas Islands[/nation][/b]
 [i]Judge of the Circuit Court[/i]
-
-[b][nation]Chokoku[/nation][/b]
-[i]Secretary of the State Council and
-Clerk of the UAS Regional Court System[/i][HR]
+[HR]
 No embassies will be accepted, all requests for embassies should be put forth to the central region of the [region]Union of Allied States[/region].
 
 

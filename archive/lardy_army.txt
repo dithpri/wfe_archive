@@ -1,12 +1,10 @@
-[region]Lardyland[/region]&#39;s official Military!
+[region]Lardyland[/region]/Greater Lardyland&#39;s official Military!
 
 [region]Lardyland Training Camp[/region]
 [hr]
-[b]The current Minister of War is [nation]Spaceanian Lard[/nation][/b]
+[b]The current Minister of War is [nation]Domais[/nation][/b]
 [hr]
 [b]Annoucements:[/b]
 [list]
-[*]Militarization is now beginning so we can jazz up the military
+[*]none
 [/list]
-[hr]
-Embassies are reserved for [region]Lardyland[/region], its allies, and embassy collector regions.
