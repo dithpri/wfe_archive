@@ -11,16 +11,17 @@
 [/b]
 [b][color=red][u]MDA RP Team:[/u][/color][/b]
 [nation]The Legion of Mankind[/nation] (Empire)
-[nation]Dragons of Power[/nation] (Republican Democracy)
-[nation]Kumari Kandum[/nation] (Empire)
+[nation]Dragons of Power[/nation] (Republic)
+[nation]Kumari Kandum[/nation] (Theocracy)
 [nation]Emercondia[/nation] (Democracy)
 [nation]New Makasta[/nation] (Communist Republic)
 [nation]DeltaSource[/nation] (Galactic Empire)
 [nation]Turtle Town[/nation] (Direct Democracy)
 [nation]Newenburg[/nation] (Corporatocracy)
+[nation]The Light Kingdom[/nation] (Kingdom)
 
 [color=green][b][u]MDA Regional Friends:[/u][/b][/color]
-[region]Federation of Conservative Nations[/region] (We are a Dominion of the FCN)
+[region]Federation of Conservative Nations[/region] 
 [region]Simul[/region]
 [region]The Interdimensional Community[/region]
 [region]United roleplay authority[/region]
