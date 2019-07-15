@@ -1,3 +1,3 @@
-[b]The Dominion[/b] was a historic region with an ancient, storied past. The Romefeller revival was first established here on June 24, 2014.
+[b]The Dominion[/b] was a historic region with an ancient, storied past. [b]The Imperial Dominion[/b] is a successor state of The Dominion, first established on June 24, 2014.
 
-Our base of operation is currently located at [region]The Imperial Dominion[/region].
+The base of operation is currently located at [b][region]The Imperial Dominion[/region][/b].
