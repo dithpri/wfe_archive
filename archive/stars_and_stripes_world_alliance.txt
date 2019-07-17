@@ -9,14 +9,11 @@
 [list][*][color=#574152]Military Group[/color][/list]
 
 [list][*][color=#229162]Science and Tech Group[/color][/list]
+[list][list=1][*][nation]Arnaudas[/nation][/list][/list]
 
 [list][*][color=#75578d] Separationist and Progressive Group[/color][/list]
 
 [list][*][color=#eb7300]Turonian Group[/color][/list]
-[list][list=1][*][nation]Turiol Empire[/nation] (#LEADER)[/list][/list]
+[list][list=1][*][nation]Turiol Empire[/nation][/list][/list]
 
 Join a Group via [url=http://www.discord.gg/jbNbyyF]Discord[/url]
-
-#COINMASTER: elected by raffle/competition.
-#INFLUENCEMOST: elected by influence.
-#LEADER: elected by internal ballot.

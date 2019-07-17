@@ -1,2 +1,2 @@
-[b]000000000000000[/b]
-a [region=0000] region
+[color=green][b]000000000000000[/b] (15 0s)
+a [region=0000] region[/color]

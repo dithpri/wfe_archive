@@ -11,8 +11,7 @@ Council:
 [nation]Daulend[/nation]
 [nation]Greater Georginiana[/nation]
 [nation]TBD[/nation]
-
-Minister of Regional Affairs: [nation]Zolotaya sobaka[/nation][/color]
+[/color]
 [hr]
 [color=black]Please endorse Delegate [nation]Adelanto[/nation]![/color][/b]
 
