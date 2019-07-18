@@ -19,6 +19,6 @@
 [color=blue][b][u]Judiciary:[/color][/b][/u]
 [i]Chief Justice:[/i] [nation=short]The Sanhedrin[/nation]
 Justice: [nation=short]Burkai[/nation]
-Justice: [nation=short]Libsmark[/nation]
+Justice: [nation=short]Learned Hands[/nation]
 
 [i]Tarkin is set in the [b]Interwar Period (1920-1944)[/b] for technology.[/i]

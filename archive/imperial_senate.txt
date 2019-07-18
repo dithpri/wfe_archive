@@ -3,19 +3,19 @@
 [hr][hr]
 
 [color=gold]&amp;#9812;[/color] [b]Leadership[/b] [color=gold]&amp;#9812;[/color]
-[list][b][i]Chancellor[/i]: TBD (N/A)[/b]
+[list][b][i]Chancellor[/i]: [nation=noflag]Dependants[/nation] ([colour=#002366]PRP[/colour])[/b]
 
 [list]
 
-[i]Deputy Chancellor[/i]: [i]TBD (N/A)[/i]
+[i]Deputy Chancellor[/i]: [i][nation=noflag]Lucenzia[/nation] ([colour=#cf2e2e]CON[/colour])[/i]
 [/list]
 
-[b][i]Shadow Chancellor[/i]: TBD (N/A)[/b]
+[b][i]Shadow Chancellor[/i]: [nation=noflag]Mukolayiv[/nation] ([colour=#443B70]CTZ[/colour])[/b]
 [/list][hr][hr]
 
-[b][u]Current Business:[/b][/u] [i]Chancellor Election Candidacy Declaration[/i]  
-[b][u]Previous Business:[/b][/u][i] N/A[/i]
-[b][u]Next Scheduled Business:[/b][/u] [i]Chancellor Election[/i]
+[b][u]Current Business:[/b][/u] [i]TBD[/i]  
+[b][u]Previous Business:[/b][/u] [i]Chancellor Election[/i]
+[b][u]Next Scheduled Business:[/b][/u] [i]TBD[/i]
 
 [hr][hr]
 
