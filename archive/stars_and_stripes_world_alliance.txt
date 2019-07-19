@@ -6,13 +6,14 @@
 
 [list][*][color=red]Conservateur Group[/color][/list]
 
-[list][*][color=#574152]Military Group[/color][/list]
+[list][*][color=#574152]Military Group[/color][/list] (Star Corps)
+[list][list=1][*][nation]Jehate[/nation] [C][/list][/list]
 
-[list][*][color=#229162]Science and Tech Group[/color][/list]
+[list][*][color=#229162]Science and Tech Group[/color][/list] (Science Corps)
 
 [list][*][color=#75578d] Separationist and Progressive Group[/color][/list]
 
 [list][*][color=#eb7300]Turonian Group[/color][/list]
-[list][list=1][*][nation]Turiol Empire[/nation][/list][/list]
+[list][list=1][*][nation]Turiol Empire[/nation] [P][/list][/list]
 
-Join a Group via [url=http://www.discord.gg/jbNbyyF]Discord[/url]
+Join our [url=http://www.discord.gg/jbNbyyF]Discord[/url] for more stuff and entertainment!

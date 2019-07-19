@@ -1,6 +1,1 @@
-[color=maroon][b]Temple Hill[/b]
-[/color][color=004400]
-a [region=0000] oracle holding region[/color][color=red]
-sorry -- no embassy offers accepted
-[/color][color=navy]
-REGION[list][b]Founded:[/b] 2018 Jul 28[/color][/list]
+[color=green][b]Temple Hill[/b][/color]
