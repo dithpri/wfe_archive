@@ -1,11 +1,3 @@
-[b][u]Transitional Government of [region]Hong Kong Island[/region][/u][/b]
-[b][nation]British Hong Kong Island[/nation]: Governor[/b]
-[b][nation]British Kowloon[/nation]: Colonial Secretary[/b]
-[b][nation]Chinese New Territories[/nation]: Chief Justice[/b]
-
-[b][u]Regional News:[/u][/b]
-[b]1. [region]Hong Kong Island[/region] founded at 7.40PM. British Flag Raised. Regional Government Established.[/b]
-[b]2. Telegram sent to the Foreign Secretary of [region]Pax Britannia[/region] regarding Territory status. Awaiting reply.[/b] 
 
 
 
