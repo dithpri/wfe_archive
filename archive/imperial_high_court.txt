@@ -1,23 +1,22 @@
-[color=orange][b][i][u]Welcome to the Imperial High Court!||[/i][/b][/color][/u][color=orange][b][i]The highest court for the [region]New Western Empire[/region][/i][/b][/color]
-[color=gold]&quot;[i]Praefuit non minore iustitia sub lege[/i]&quot;[/color]
+[color=orange][b]Welcome to the Imperial High Court![/b]
+&quot;[i]Praefuit non minore iustitia sub lege[/i]&quot;[/color]
 
 [hr]
-[color=orange]Announcements:[/color] 
-[u][color=red][b]The Imperial High Court has not been officially opened as yet[/u][/color][/b]
+[color=orange]Important Announcements:[/color][color=red][b]
+Chief Justice [nation]Katarial[/nation], Justice [nation]O-broki[/nation] and Justice [nation]Baconbacon123[/nation] are the newly appointed and elected Justices of the region[/color][/b]
 
 [hr]
 [color=red]&amp;#9878; Composition &amp;#9878;[/color]:
 
-[color=gold][b]Chief Justice[/b]: [nation]Katarial[/nation][/color]
+[color=red][b]Chief Justice[/b]: [nation]Katarial[/nation][/color]
 
 [color=red]
 
 [i]Associate Justices[/i]:
 
-*[nation]O-broki[/nation]([b]Senior Justice[/b])
-*[Vacant]
-*[Vacant]
-*[Vacant][/color]
+[nation]O-broki[/nation]
+[nation]Baconbacon123[/nation]
+[/color]
 [hr]
 [color=orange]
 [i]Current Case(s)[/i]|
@@ -27,7 +26,8 @@ Recent Verdict(s)|
 Upcoming Case(s)[/color]
 [hr]
 
-                                                     [b]Courtrooms Under Con[/b]
+                                                  
 [color=red]
-Courtroom 1:
-Courtroom 2:[/color]
+[url=https://www.nationstates.net/region=nwe_courtroom_1]Courtroom 1[/url]:A v B
+[url=https://www.nationstates.net/region=nwe_courtroom_2]Courtroom 1[/url]: C v D
+[/color]
