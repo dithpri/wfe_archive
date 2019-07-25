@@ -8,8 +8,8 @@
 
 [color=orange]Imperial News:[/color] 
 [list=I][color=red]
-[*][nation=noflag]Invadolandia[/nation] elected Prime Minister of the [region]New Yellow Empire[/region]! 
-[*]New Prime Minister announces his intentions to keep [nation=noflag]German-Soviet Reich[/nation] as Minister of Defence, as well as appointing former Prime Ministerial candidate [nation=noflag]Rataticha[/nation] as Minister of Culture.
+[*][nation=noflag]German-Soviet Reich[/nation] kept as Minister of Defence. Former Prime Ministerial candidate [nation=noflag]Rataticha[/nation] appointed as Minister of Culture, and [nation=noflag]Boslaniknoion[/nation] appointed Minister of Foreign Affairs.
+[*]Regional population reaches 25 nations!
 [/list][/color]
 
 [b][color=#FFC000]Ave praeclara omnibus flavo Imperii gentium domitorem orbis![/color][/b]
