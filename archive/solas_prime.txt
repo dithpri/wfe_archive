@@ -1,1 +1,2 @@
-- W.I.P - 
+Dark Purple = #1E112F
+Light Purple = #CAC1EB
