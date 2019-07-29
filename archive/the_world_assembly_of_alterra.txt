@@ -1,1 +1,7 @@
-The WA of Alterra is a Role-play/Diplomatic region under development obviously.
+[region]The World Assembly of Alterra[/region] Est. 1928 AD
+
+[b]The Nationalist Trade Union of Europe.[/b]
+[nation]Der Nationalistische Staat Deutschland[/nation]
+[nation]Lo Stato Nazionalista dItalia[/nation]
+
+Currently 1930
