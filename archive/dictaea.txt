@@ -1,1 +1,13 @@
-n/a
+[b][color=red]Welcome to Dictaea Station! 
+
+Trains departing:[/b][/color][i]
+
+Platform 1: [region=The Rejected Realms]
+Platform 2: [region=Vlaanderen]
+Platform 3: [region=Apocalypse Academy]
+Platform 4: [region=Pioneers on Fire][/i]
+Platform 5: [region=Artificial Solar System]
+Platform 6: [region=Evermas]
+Platform 7: [region=The Hole]
+Platform 8: [region=Bretonia]
+Platform 9: [region=Defunct Nations]

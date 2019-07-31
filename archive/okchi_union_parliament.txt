@@ -4,14 +4,12 @@ Welcome to the OU Parliament, consisting of the Houses of Representatives, House
 
 [u]Sides[/u]
 
-[b]Leader of the Majority[/b] : [nation]Senator for Mersdon[/nation] [b][color=skyblue](MDP)[/color][/b]
-[b]Leader of the Opposition[/b] : [nation]Sen Kora[/nation] &amp; [nation]Ocasio-Cortez[/nation]  [b][color=darkcyan](UCP)[/color][/b]
+[b]Leader of the Majority[/b] : Unity Coalition Party [b][color=darkcyan](UCP)[/color][/b]
+[b]Leader of the Opposition[/b] : Modernist Party  [b][color=skyblue](MDP)[/color][/b]
 
 [u]Party Leaders[/u]
 
 [b][color=skyblue]Modernists (MDP)[/color][/b] : [nation]Senator for Mersdon[/nation]
-[b][color=darkcyan]Unity Coalition (UCP)[/color][/b] : [nation]Sen Kora[/nation] &amp; [nation]Ocasio-Cortez[/nation]
-[b][color=purple]Conservatives (CSP)[/color][/b] : [nation]Senator Fourt Elizabeth[/nation]
+[b][color=darkcyan]Unity Coalition (UCP)[/color][/b] : [nation]Ocasio-Cortez[/nation]
+[b][color=purple]Conservatives (CSP)[/color][/b] : [i]{party dissolved until claimed}[/i]
 [b][color=darkred]The People&#39;s Cup (CCC)[/color][/b] : [nation]South Sorrika[/nation]
-
-Feel free to make a proposal :)  [color=gold]HAPPY PRIDE MONTH![/color]
