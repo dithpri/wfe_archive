@@ -1,0 +1,3 @@
+[region]1980s America[/region] polling region.
+
+A region for polls and, in particular, elections in case there&#39;s already a poll occurring back at home.

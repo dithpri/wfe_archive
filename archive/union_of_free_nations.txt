@@ -7,7 +7,7 @@
 [b][u]Foreign Office[/b][/u]
 [nation=short]draos[/nation]
 [b][u]Ministry of Domestic Affairs[/b][/u]
-[b]VACANT[/b]
+[nation]dushaland[/nation]
 [b][u]Supreme Judicial Court[/b][/u]
 [b]1st Seat:[/b] [nation]kwabena kingdom[/nation]
 [b]2nd Seat:[/b] [b]VACANT[/b]
