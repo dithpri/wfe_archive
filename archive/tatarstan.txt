@@ -9,5 +9,4 @@ FACTS
 [/color][color=olive]
 REGION
 [b]Founded:[/b] 2016 Nov 20
-a [region=Russian Federation] region
-a [region=0000] Embassy Oracle Region[/color]
+a [region=Russian Federation] region[/color]
