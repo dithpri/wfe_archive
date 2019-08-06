@@ -2,6 +2,10 @@ This is the legislative branch for [region]The Okchi Union[/region].
 
 Welcome to the OU Parliament, consisting of the Houses of Representatives, House of Commons, and the Senate.
 
+[b][color=red]Active State of Emergency[/color][/b]
+
+[region]Okchi Union Supreme Court[/region]
+
 [u]Sides[/u]
 
 [b]Leader of the Majority[/b] : Unity Coalition Party [b][color=darkcyan](UCP)[/color][/b]
@@ -9,7 +13,7 @@ Welcome to the OU Parliament, consisting of the Houses of Representatives, House
 
 [u]Party Leaders[/u]
 
-[b][color=skyblue]Modernists (MDP)[/color][/b] : [nation]Senator for Mersdon[/nation]
+[b][color=skyblue]Modernists (MDP)[/color][/b] : [nation]Sorrika[/nation]
 [b][color=darkcyan]Unity Coalition (UCP)[/color][/b] : [nation]Ocasio-Cortez[/nation]
 [b][color=purple]Conservatives (CSP)[/color][/b] : [i]{party dissolved until claimed}[/i]
-[b][color=darkred]The People&#39;s Cup (CCC)[/color][/b] : [nation]South Sorrika[/nation]
+[b][color=darkred]Social Democrats (CCC)[/color][/b] : [i]{party dissolved until claimed}[/i]

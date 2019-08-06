@@ -9,5 +9,4 @@
 [color=#D93B3B]Benevolent Dictatorship[/color]
 
 [color=#503ED7]Benevolent Dictator:[/color] [nation=short]NataliaPoklonskaya[/nation]
-[color=#503ED7]Commissar:[/color] [nation=short]Luksusowa[/nation]
-[color=#503ED7]Oprichnik:[/color] [nation=short]Barapam[/nation][/b]
+[color=#503ED7]Commissars:[/color] [nation=short]Luksusowa[/nation], [nation=short]Barapam[/nation][/b]
