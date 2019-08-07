@@ -12,7 +12,7 @@ _________________________________________________________________________
 
 [u][color=Blue]Current Government[/color]
 [/u]
-Pontifex Maxminus: [nation]Farlandiay[/nation]
+Pontifex Maximus: [nation]Farlandiay[/nation]
 King: [nation]Glaciosia[/nation]
 Nobles : [list]
 [*] [nation]Lanion Mon[/nation]
