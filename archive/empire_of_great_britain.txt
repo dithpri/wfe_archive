@@ -4,11 +4,12 @@
 [b][color=darkred][i]&quot;The empire on which the sun never sets...&quot;[/i][hr] The [region]Empire of Great Britain[/region] aims to spread the traditional British value of constitutional monarchy. All British nations, colonies, protectorates, dominions and commonwealths are welcome within the Empire.[/color]
 
 [color=purple]Empress[/color][/b]: [nation]Her Majesty Queen Victoria[/nation]
+[b][color=purple]Prince of Wales[/color][/b]: [nation]Saint Arsenio[/nation]
 
 [hr][b][color=darkblue]Council of Ministers[/color][/b]
 
 [b][color=black]Minister for Home Affairs[/color][/b]: [nation]Not-Brittania[/nation]
-[b][color=black]Minister for Foreign Affairs[/color][/b]: [nation]Saint Arsenio[/nation]
+[b][color=black]Minister for Foreign Affairs[/color][/b]: Vacant
 [b][color=black]Minister for War[/color][/b]: [nation]Lunayria[/nation]
 [b][color=black]Minister for Culture[/color][/b]: [nation]Menorica[/nation]
 

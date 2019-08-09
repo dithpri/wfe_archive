@@ -1,8 +1,1 @@
-[list]
-####################
-#[color=f6f6f0]##################[/color]#
-#[color=f6f6f0]##################[/color]#
-#[color=f6f6f0]##[/color][color=blue]the Republic of Nigeria[/color][color=f6f6f0]##[/color]#
-#[color=f6f6f0]##################[/color]#
-#[color=f6f6f0]##################[/color]#
-####################[/list]
+[color=green][b]the Republic of Nigeria[/b][/color]
