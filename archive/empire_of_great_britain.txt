@@ -8,7 +8,7 @@
 
 [hr][b][color=darkblue]Council of Ministers[/color][/b]
 
-[b][color=black]Minister for Home Affairs[/color][/b]: [nation]Not-Brittania[/nation]
+[b][color=black]Chief Minister/Home Affairs[/color][/b]: [nation]Not-Brittania[/nation]
 [b][color=black]Minister for Foreign Affairs[/color][/b]: Vacant
 [b][color=black]Minister for War[/color][/b]: [nation]Lunayria[/nation]
 [b][color=black]Minister for Culture[/color][/b]: [nation]Menorica[/nation]
