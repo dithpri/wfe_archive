@@ -1,4 +1,4 @@
-[u][b]Government:[/b][/u]
+[u][b]Transitional Government:[/b][/u]
 [b]Governor:[/b] [nation]British Hong Kong Island[/nation]
 [b]Colonial Secretary:[/b] [nation]British Kowloon[/nation]
 [b]Chief Justice:[/b] [nation]Chinese New Territories[/nation]
@@ -8,6 +8,7 @@
 [b]Saturday, 11.00AM HK Time:[/b] Regional Government Established
 [b]Saturday, 12.00PM HK Time:[/b] British Flag Raised
 [b]Monday 00.30AM HK Time:[/b] Request sent to the Monarch of the [region]Empire of Great Britain[/region] regarding overseas territory status, awaiting reply.
+[b]Tuesday 15.44PM HK Time:[/b] The Governments of the [region]Empire of Great Britain[/region] and [region]Hong Kong Island [/region] have entered into negotiations.
 
 [b][u]Anthems:[/u][/b]
 

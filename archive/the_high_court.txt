@@ -1,4 +1,4 @@
 [b][color=blue]Welcome to the High Court of [region]Thaecia[/region][/color][/b][hr][b][color=blue]Leadership[/color]
-[list][*]Chief Justice: Vacant
-[*]Associate Justice: [nation]Rhyssua[/nation]
-[*]Associate Justice: [nation]Islonia[/nation][/list][/b][hr][color=red][b]Current Case:[/b][/color] None.
+[list][*]Chief Justice: [nation]Rhyssua[/nation]
+[*]Associate Justice: [nation]Islonia[/nation]
+[*]Associate Justice: Vacant [/list][/b][hr][color=red][b]Current Case:[/b][/color] None.
