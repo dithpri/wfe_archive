@@ -8,7 +8,7 @@ https://www.nationstates.net/region=floorsatt
 https://www.nationstates.net/region=recreated_cis
 https://www.nationstates.net/region=the_diplomatic_committee_of_nations
 https://www.nationstates.net/region=the_federal_wobongo_committee
-https://www.nationstates.net/region=latam vassal to R.E.R.
+https://www.nationstates.net/region=latam protectorate of R.E.R.
 allys:
 https://www.nationstates.net/region=the_sands
 https://www.nationstates.net/region=secfanatics

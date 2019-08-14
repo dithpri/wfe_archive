@@ -1,2 +1,2 @@
-[b]Newport[/b]
-a [region=0000] region
+[color=green][b]Newport[/b]
+a [region=Wales] region[/color]

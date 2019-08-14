@@ -1,4 +1,2 @@
-[list][color=navy][b]Caerphilly[/b][/color]
-[color=slategray]an Administrative County Borough of Wales[/color][hr][color=darkgreen]an [region=Ancient Lands] region
-Associated with [region=Wales Cymru] and
-[region=Great Britain and Northern Ireland][/color][/list]
+[color=green][b]Caerphilly[/b]
+an administrative county borough of [region=Wales][/color]

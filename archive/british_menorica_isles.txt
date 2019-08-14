@@ -1,19 +1,21 @@
 [b]Her Majesty&#39;s Government of The Tropical Isles:[/b]
 [hr]
-Regional Governor: Promovian Islands
-Colonial Prime Minister: Menorica
-Chief Justice: Maranian Islands
-Minister of Transport: Canopa Islands
+Political:
+Regional Governor: [nation]Promovian Islands[/nation]
+Colonial Prime Minister: [nation]Menorica[/nation]
+Chief Justice: [nation]Maranian Islands[/nation]
+Governor-General: [nation]Canopa Islands[/nation]
 [hr]
-Royal Titles:
-Monarch: Empress Victoria
+Royal:
+Monarch - Empress: [nation]Her Majesty Queen Victoria[/nation]
 Prince-Consort: N/A
-HRH Prince Saint Arsenio of Wales
+HRH Prince [nation]Saint Arsenio[/nation] of Wales
+[hr]
+Region: [b][u][region]Empire of Great Britain[/region][/u][/b]
 [hr]
 Anthems:
-
 Royal Anthem of The Region
 [url=https://www.youtube.com/watch?v=alECGpQ4vgU]&quot;God Save The Queen&quot;[/url]
 
 Regional Anthem of The State
-[url=https://www.youtube.com/watch?v=6HSQIBIHpfs]Name Unfinalized[/url]
+[url=https://www.youtube.com/watch?v=6HSQIBIHpfs]&quot;God Is Truth&quot;[/url]
