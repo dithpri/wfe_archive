@@ -1,2 +1,2 @@
-[b]Kingdom Of England And Wales[/b]
-a [region=Great Britain and Northern Ireland] region
+[color=blue][b]Kingdom Of England And Wales[/b]
+a [region=Great Britain and Northern Ireland] region[/color]
