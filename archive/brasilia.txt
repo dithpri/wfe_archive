@@ -1,14 +1,12 @@
 [color=navy][b]Brasilia[/b]
 Federal Capital of Brazil
-[/color][color=darkgreen]
+[/color][color=green]
 FACTS
 [b]Founded:[/b] 1960 Apr 21
 [b]Area:[/b] 5,802 sq km (2,240 sq mi)
 [b]Population:[/b] 3,039,44 (Urban 2017); 4,291,577 (Metro 2017)
 [/color][color=olive]
 REGION
-[b]Founded:[/b] 2018 Dec 31
-a [region=United States of America] region
-associated with [region=Ancient Lands]/[region=0000] regions[/color]
-
-[color=red][b]Embassy Policy to be decided[/b][/color]
+[b]Founded:[/b] 2018 Dec 31[/color][color=803000]
+This is an [region=Old Spirit] region
+Status pending upgrade to Matrix[/color]

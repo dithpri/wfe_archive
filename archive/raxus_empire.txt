@@ -1,8 +1,9 @@
 [color=scarlet][b]Welcome to the one and only Raxus Empire! [/b][/color]
 [color=goldenrod][i]Home of the most fearsome LEGOs in NationStates![/i][/color]
-[hr][u][color=scarlet][b]Imperial Administration[/b][/color][/u]
+[hr][color=scarlet][b]Imperial Administration[/b][/color]
 [list][*][color=goldenrod][b]Emperor:[/b] [nation]Ravioli Representative[/nation]
 [*][b]Governor-General:[/b] [nation]Raxulan[/nation][/color][/list]
-[hr][u][color=scarlet][b]News[/b][/color][/u]
+[hr][color=scarlet][b]News[/b][/color]
 
-[i][color=goldenrod]We are officially a province of the [region]New Yellow Empire[/region]![/color][/i]
+[list][*][i][color=goldenrod]We are officially a province of the [region]New Yellow Empire[/region]!
+[*][nation]Ravioli Representative[/nation] accedes to the Raxus/LEGO throne![/color][/i][/list]
