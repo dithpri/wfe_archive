@@ -1,5 +1,2 @@
-[list][color=004500][b]Republic of Iran[/b]
-a [region=0000] Oracle region[/list][/color][hr][color=006600][list][b]Sister Regions:[/b][list=i][*] [region=Iranian Islamic Republic]
-[*] [region=Mashhad][/list]
-This is a puppet storage region
-Embassy offers are not accepted at this time.[/color]
+[list][color=green][b]Republic of Iran[/b][/list][hr][list][b]Sister Regions:[/b][list=i][*] [region=Iranian Islamic Republic]
+[*] [region=Mashhad][/list]Embassy offers are not accepted at this time.[/color]

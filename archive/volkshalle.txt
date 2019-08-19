@@ -1,8 +1,8 @@
-[b][color=#b30000][u]Nationalstaat[/u]:[/color] Deutsches Reich 
-[color=#b30000][u]Staatsform[/u]:[/color] Republik
+[b][color=#b30000][u]Nationalstaat[/u]:[/color] [region]Deutschland Erwache[/region] 
+[color=#b30000][u]Staatsform[/u]:[/color] NS-Republik
 [color=#b30000][u]Karte[/u]:[/color] *
 [color=#b30000][u]Nationalhymne[/u]:[/color] [url=https://www.youtube.com/watch?v=snlksdQUyaA]Deutschlandlied[/url]
-[color=#b30000][u]Staatsoberhaupt[/u]:[/color] F&uuml;hrer und Reichskanzler
+[color=#b30000][u]Staatsoberhaupt[/u]:[/color] [nation]Der Fuhrer und Reichskanzler[/nation]
 [color=#b30000][u]Privatsekret&auml;r des F&uuml;hrers[/u]:[/color] [nation=short]Seine Exzellenz der Volkshalle[/nation]
 [color=#b30000][u]Hauptstadt[/u]:[/color] 	Berlin
 [color=#b30000][u]Reichs- und Nationalflagge[/u]:[/color] *
@@ -12,7 +12,5 @@
 [color=#b30000][u]W&auml;hrung[/u]:[/color] Reichsmark
 [color=#b30000][u]Volksempf&auml;nger[/u]:[/color] [url=https://www.youtube.com/watch?v=BnaF4_LTovk]Drei Lilien, drei Lilien[/url], [url=https://www.youtube.com/watch?v=cZOVtxUIAZ0]Der Badenweiler Marsch[/url], [url=https://www.youtube.com/watch?v=4i0TnNI6U-w]Das Beste von Wagner[/url][hr]
 
-[i]&amp;#10016; K&auml;mpfe gegen [region]The Internationale[/region] und Partisanen!
-Versenke [region]The Red Fleet[/region]!
-
+[i]&amp;#10016; K&auml;mpfe gegen [region]The Internationale[/region] und Partisanen! Versenke [region]The Red Fleet[/region]!
 [color=#b30000][u]Milit&auml;r[/u]:[/color] [region]Deutsche Wehrmacht[/region][/i][/b]

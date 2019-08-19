@@ -1,3 +1,2 @@
 [color=green][b]the Republic of Guinea Bissau[/b]
-allied regions [region=Guinea Bissau]
-a [region=0000] holding region[/color]
+allied region [region=Guinea Bissau][/color]
