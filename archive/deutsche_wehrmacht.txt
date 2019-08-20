@@ -1,4 +1,4 @@
-[region]Deutsche Wehrmacht[/region] (German Defense Force), the unified armed forces of Deutsches Reich was established in 1935 to defend the fatherland due to three main reasons. 
+[b][region]Deutsche Wehrmacht[/region] (German Defense Force), the unified armed forces of Deutsches Reich was established in 1935 to defend the fatherland due to three main reasons. 
 
 French invasion of, and withdrawal from the German Rhineland June 1930
 Franco-Soviet Non-Aggression Pact 29 Nov 1932
@@ -6,4 +6,4 @@ Franco-Soviet Treaty of Mutual Assistance 2 May 1935
 
 [region]Deutsche Wehrmacht[/region] ensured border security in reclaimed German territory until the start of WWII.
 
-[b]Service Branches:[/b] Luftwaffe, Heer, Kriegsmarine
+[u]Service Branches: [/u]Luftwaffe, Heer, Kriegsmarine[/b]
