@@ -3,7 +3,7 @@
 ---------------------------------------------------------------------------------------------
 
 [region]Power Alliance[/region] 
-Office&#39;s
+Royal Court
 [u][b]Founder/Emperor[/b][/u]
 [nation]Bommie[/nation]
 
@@ -13,7 +13,7 @@ Office&#39;s
 [u][b]Homeland Officer[/b][/u]
 [nation]YuHin[/nation]
 
-[u][b]Foreign Affairs[/b][/u]
+[u][b]Prime Minister[/b][/u]
 Vacant
 
 [u][b]Security Officer[/b][/u]

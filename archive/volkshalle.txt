@@ -1,18 +1,14 @@
-[b][color=#b30000][u]Nationalstaat[/u]:[/color] [region]Deutschland Erwache[/region] 
-[color=#b30000][u]Staatsdoktrin[/u]:[/color] Nationalsozialismus
-[color=#b30000][u]Staatsform[/u]:[/color] NS-Republik
-[color=#b30000][u]Karte[/u]:[/color] *
-[color=#b30000][u]Nationalhymne[/u]:[/color] [url=https://www.youtube.com/watch?v=snlksdQUyaA]Deutschlandlied[/url]
-[color=#b30000][u]Reichsregierung[/u]:[/color] [region]Volkshalle[/region]
-[color=#b30000][u]Staatsoberhaupt[/u]:[/color] [nation]Der Fuhrer und Reichskanzler[/nation]
-[color=#b30000][u]Privatsekret&auml;r des F&uuml;hrers[/u]:[/color] [nation=short]Seine Exzellenz der Volkshalle[/nation]
-[color=#b30000][u]Hauptstadt[/u]:[/color] 	[nation]Berlin Stadtstaat[/nation]
-[color=#b30000][u]Reichs- und Nationalflagge[/u]:[/color] *
-[color=#b30000][u]Wappen[/u]:[/color] [url=https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Erlangen_Amtsgericht_002.JPG/1176px-Erlangen_Amtsgericht_002.JPG]Reichsadler[/url]
-[color=#b30000][u]Amtssprache[/u]:[/color] [url=https://en.wiktionary.org/wiki/deutsch]Deutsch[/url]
-[color=#b30000][u]W&auml;hrung[/u]:[/color] [url=https://de.wikipedia.org/wiki/Reichsmark]Reichsmark[/url]
-[color=#b30000][u]Volksempf&auml;nger[/u]:[/color] [url=https://www.youtube.com/watch?v=BnaF4_LTovk]Drei Lilien, drei Lilien[/url], [url=https://www.youtube.com/watch?v=cZOVtxUIAZ0]Der Badenweiler Marsch[/url], [url=https://www.youtube.com/watch?v=4i0TnNI6U-w]Das Beste von Wagner[/url]
-[color=#b30000][u]Milit&auml;r[/u]:[/color] [region]Deutsche Wehrmacht[/region][hr]
+[b][color=#000000]&amp;#10016; Nationalstaat:[/color] [region]Deutschland Erwache[/region] 
+[color=#000000]&amp;#10016; Nationalhymne:[/color] [url=https://www.youtube.com/watch?v=snlksdQUyaA]Deutschlandlied[/url]
+[color=#000000]&amp;#10016; Reichsregierung:[/color] [region]Volkshalle[/region]
+[color=#000000]&amp;#10016; Staatsoberhaupt:[/color] [nation]Der Fuhrer und Reichskanzler[/nation]
+[color=#000000]&amp;#10016; Privatsekret&auml;r des F&uuml;hrers:[/color] [nation=short]Seine Exzellenz der Volkshalle[/nation]
+[color=#000000]&amp;#10016; Hauptstadt:[/color] [nation]Gau Berlin[/nation]
+[color=#000000]&amp;#10016; Wappen:[/color] [url=https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Erlangen_Amtsgericht_002.JPG/1176px-Erlangen_Amtsgericht_002.JPG]Reichsadler[/url]
+[color=#000000]&amp;#10016; Amtssprache:[/color] [url=https://en.wiktionary.org/wiki/deutsch]Deutsch[/url]
+[color=#000000]&amp;#10016; W&auml;hrung:[/color] [url=https://de.wikipedia.org/wiki/Reichsmark]Reichsmark[/url]
+[color=#000000]&amp;#10016; Volksempf&auml;nger:[/color] [url=https://www.youtube.com/watch?v=BnaF4_LTovk]Drei Lilien, drei Lilien[/url], [url=https://www.youtube.com/watch?v=cZOVtxUIAZ0]Der Badenweiler Marsch[/url], [url=https://www.youtube.com/watch?v=4i0TnNI6U-w]Das Beste von Wagner[/url]
+[color=#000000]&amp;#10016; Milit&auml;r:[/color] [region]Deutsche Wehrmacht[/region][hr]
 
-[i][color=#000000]&amp;#10016;[/color]  K&auml;mpfe gegen [region]World Communism[/region] und Partisanen! Versenke [region]The Red Fleet[/region]!
+[i][color=#000000]&amp;#10016;[/color] K&auml;mpfe gegen [region]World Communism[/region] und Partisanen! Versenke [region]The Red Fleet[/region]!
 [/i][/b]
