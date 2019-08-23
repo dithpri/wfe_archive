@@ -6,14 +6,14 @@
 [color=purple]HM Empress[/color][/b]: [nation]Her Majesty Queen Victoria[/nation]
 [b][color=purple]HRH Prince of Wales[/color][/b]: [nation]Saint Arsenio[/nation]
 
-[hr][b][color=darkblue]Council of Ministers[/color][/b]
+[hr][b][color=darkblue]HM Government[/color][/b]
 
-[b][color=black]Chief Minister/Home Affairs[/color][/b]: [nation]Not-Brittania[/nation]
-[b][color=black]Minister for Foreign Affairs[/color][/b]: [nation]Newtopian Britain[/nation]
-[b][color=black]Minister for War[/color][/b]: [nation]Lunayria[/nation]
-[b][color=black]Minister for Culture[/color][/b]: [nation]Menorica[/nation]
+[b][color=black]Prime Minister[/color][/b]: [nation]Not-Brittania[/nation]
+[b][color=black]Home Secretary[/color][/b]: 
+[b][color=black]Foreign Secretary[/color][/b]: 
+[b][color=black]War Secretary[/color][/b]:
 
-[hr][color=darkred][b][url=https://www.nationstates.net/page=dispatch/id=1106746]Constitution[/url] | [url=https://www.nationstates.net/page=dispatch/id=1181120]Imperial Map[/url] | [url=https://forum.nationstates.net/viewtopic.php?f=4&amp;t=448768&amp;sid=8f61e05a82d7da875bc46ed42c07ae30]House of Commons[/url] |[/b][/color][hr] [color=darkblue][i][b]PATRIOTIC BRITONS![/i][/color]
+[hr][color=darkred][b][url=https://www.nationstates.net/page=dispatch/id=1244776]Imperial Constitution[/url] | [url=https://www.nationstates.net/page=dispatch/id=1181120]Imperial Map[/url] | [url=https://forum.nationstates.net/viewtopic.php?f=4&amp;t=448768&amp;sid=8f61e05a82d7da875bc46ed42c07ae30]House of Commons[/url] |[/b][/color][hr][b][color=purple]HM Overseas Territories[/color]: [region]Celtic Britain[/region], [region]Hong Kong Island[/region] and [region]British Menorica Isles[/region][hr]
 
 [color=darkred]&amp;#9819;[/color] Endorse Your WA DELEGATE [nation]Saint Arsenio[/nation]!
 [color=darkred]&amp;#9819;[/color] Enlist in the Royal Navy! Report to [nation]Lunayria[/nation]![/b]
@@ -21,4 +21,4 @@
 [hr]
 
 &#149; [color=darkred][b]Citizen of the Month[/b]: [nation]Azimtu[/nation]
-&#149; [b]Historical Figure of the Month[/b]:[/color] [i]Benjamin Disraeli[/i]
+&#149; [b]Historical Figure of the Month[/b]:[/color] [i]Benjamin Disraeli[/i][hr]
