@@ -9,7 +9,7 @@
 [hr][b][color=darkblue]HM Government[/color][/b]
 
 [b][color=black]Prime Minister[/color][/b]: [nation]Not-Brittania[/nation]
-[b][color=black]Home Secretary[/color][/b]: 
+[b][color=black]Home Secretary[/color][/b]: [nation]Menorica[/nation] 
 [b][color=black]Foreign Secretary[/color][/b]: 
 [b][color=black]War Secretary[/color][/b]:
 
