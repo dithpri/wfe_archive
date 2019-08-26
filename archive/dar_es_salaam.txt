@@ -1,4 +1,4 @@
-[b]Dar es Salaam[/b], [region=Tanzania]
+[color=green][b]Dar es Salaam[/b], [region=Tanzania]
 [b]Sister Region:[/b] [region=Dodoma]
-a [region=0000] region
-[b]Founded:[/b] 2016 May 19
+[/color][color=olive]
+[b]Founded:[/b] 2016 May 19[/color]
