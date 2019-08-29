@@ -1,5 +1,4 @@
-[b]British Falkland Islands[/b]
-a [region=0000] region
+[color=green][b]British Falkland Islands[/b]
 
 See [region=Falkland Islands]
-part of the [region=British Overseas Territories]
+part of the [region=British Overseas Territories][/color]
