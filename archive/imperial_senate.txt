@@ -3,11 +3,11 @@
 [hr][hr]
 
 [color=gold]&amp;#9812;[/color] [b]Leadership[/b] [color=gold]&amp;#9812;[/color]
-[list][b][i]Chancellor[/i]: [nation=noflag]Dependants[/nation] ([colour=#002366]PRP[/colour])[/b]
+[list][b][i]Chancellor[/i]: [nation=noflag]Dependants[/nation] ([colour=#2089d4]DEM[/colour])[/b]
 
 [list]
 
-[i]Deputy Chancellor[/i]: [i][nation=noflag]Lucenzia[/nation] ([colour=#cf2e2e]CON[/colour])[/i]
+[i]Deputy Chancellor[/i]: [i][nation=noflag]Lucenzia[/nation] ([colour=#db213a]LCP[/colour])[/i]
 [/list]
 
 [b][i]Shadow Chancellor[/i]: [nation=noflag]Mukolayiv[/nation] ([colour=#443B70]CTZ[/colour])[/b]

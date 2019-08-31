@@ -11,5 +11,6 @@
 [b]Regional Leadership[/b]
 &#149; President - [nation]Handal Ands[/nation]
 &#149; Prime Minister - [nation]East Meranopirus[/nation]
-&#149; Speaker of the House - 
+&#149; Chief Justice - [nation]Jagow[/nation]
+&#149; Speaker of the House - [nation]Grand Malevor[/nation]
 &#149; Members of Parliament - [nation]Essena[/nation], [nation]East Meranopirus[/nation], [nation]Costa Hermosa[/nation], [nation]Grand Malevor[/nation]

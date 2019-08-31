@@ -1,1 +1,1 @@
-h
+This is a region for puppet storage. The identity of our master is confidential.
