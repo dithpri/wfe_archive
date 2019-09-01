@@ -3,23 +3,23 @@
 [hr][hr]
 
 [color=gold]&amp;#9812;[/color] [b]Leadership[/b] [color=gold]&amp;#9812;[/color]
-[list][b][i]Chancellor[/i]: [nation=noflag]Dependants[/nation] ([colour=#2089d4]DEM[/colour])[/b]
+[list][b][i]Chancellor[/i]: Vacant[/b]
 
 [list]
 
-[i]Deputy Chancellor[/i]: [i][nation=noflag]Lucenzia[/nation] ([colour=#db213a]LCP[/colour])[/i]
+[i]Deputy Chancellor[/i]: [i]Vacant[/i]
 [/list]
 
-[b][i]Shadow Chancellor[/i]: [nation=noflag]Mukolayiv[/nation] ([colour=#443B70]CTZ[/colour])[/b]
+[b][i]Shadow Chancellor[/i]: Vacant[/b]
 [/list][hr][hr]
 
-[b][u]Previous Business:[/b][/u] [i][b]L.R. 3[/b][/i] [i]{PASSED}[/i]
-[i]Ammended[/i]
+[b][u]Previous Business:[/b][/u] [i][b]L.R. 10[/b][/i] [i]{PASSED}[/i]
+[i]The Imperial Military Creation Bill[/i]
 
-[b][u]Current Business:[/b][/u] [i][b]Motion[/b][/i]
-[i]Non-binding referendum on establishing a Military[/i]
+[b][u]Current Business:[/b][/u] [i][b]Election[/b][/i]
+[i]Chancellor Elections[/i]
 
-[b][u]Next Business:[/b][/u] [b][i]L.R. 10[/i][/b]
-[i]The Imperial Military Creation Act[/i]
+[b][u]Next Business:[/b][/u] [b][i]L.R. 11[/i][/b]
+[i]TBD[/i]
 
 [hr][hr]
