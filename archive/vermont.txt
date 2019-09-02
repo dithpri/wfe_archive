@@ -3,10 +3,9 @@
 [i]A New English state, full of equality and people who like maple syrup.[/i]
 
 [b]Governor: [/b][nation=Anarchys Everywhere]
-
-[b]Senator[/b]: [nation=ethan allen] 
-[b]Senator[/b]: [nation=les-verts-monts]
-[b]Senator[/b]: [nation=Aelin Ashryvar Galathynius]
+[b]Lieutenant Governor[/b]: [nation=short]ethan allen[/nation] 
+[b]Senator[/b]: [nation=short]The Hoosier Alliance[/nation]
+[b]Senator[/b]: [nation=short]Aelin Ashryvar Galathynius[/nation]
 
 
 [hr][b][color=104E8B]Us[/color][color=4169E1]efu[/color][color=5CACEE]l [/color][color=4169E1]Lin[/color][color=104E8B]ks:[/color]
