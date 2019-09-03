@@ -6,7 +6,5 @@
 [i]Senate Shadow Chairman[/i]:  [nation=short+noflag]Titanne[/nation][/b] [b]([Color=blue]TPU[/color])[/b][/list]
 
 [hr][color=#ea2323]The Senate has begun proceedings in its Third Session.[/color]
-[hr]SENATE SCROLL:[list]
-[b]Previous Business: [/b] [i]Opening Ceremony[/i]
-[b]Current Business: [/b] [i]Nomination for Justice[/i]
-[b]Next Business:[/b] [i]Scroll nr. 007 - Deputy Justice Act - Second Reading[/i][/list]
+[hr]
+

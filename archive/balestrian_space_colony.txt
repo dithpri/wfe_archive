@@ -1,3 +1,4 @@
-Official name: Kovtekar
-Capital: Majjio
-Balestrian Residents: 1
+Official name: Kovtekar Prison Colony
+Capital: Majjio Prison
+Balestrian Prisoners: 0
+Balestrian Guards: 1
