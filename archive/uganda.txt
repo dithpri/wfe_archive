@@ -1,4 +1,4 @@
-[color=navy][b]Uganda[/b]
+[list][color=navy][b]Uganda[/b]
 [/color][color=008030]
 FACTS
 An East African Republic
@@ -15,5 +15,6 @@ a [region=0000] region
 [b]Matrixed:[/b] 2016 Apr 24
 [b]Featured:[/b] 2018 Dec 06
 [i]Has accepted embassy offers since:[/i] 2016 Apr 21
-A DBA Matrix Region[/color][color=green]
-[b]This region accepts embassy offers[/b][/color][hr]
+An [region=Old Spirit] Matrix Region
+[/color][color=green]
+[b]This region accepts embassy offers[/b][/color]

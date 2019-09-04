@@ -1,7 +1,6 @@
 [color=006600][b]The Assembly of Gentlemen[/b]
 A [region=0000] puppet storage region
-[b]In Association with:[/b]
-- [region=The Bandits], [region=The Awakening], [region=Rhea] and [region=Ancient Lands]
+[b]In Association with:[/b] [region=Old Spirit]
 [b]Maintained by:[/b] [nation=short]New Falham[/nation]
 
 [b]Region Founded:[/b] 2017 Feb 04
