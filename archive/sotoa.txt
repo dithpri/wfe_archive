@@ -1,1 +1,7 @@
-A Continent Divided between two very different nations.
+The continent of Sotoa, once a large united nation, is now divided into three. After a violent civil war that lasted years, three subsets of people decided it best to go their separate ways and form their own governments:
+
+[nation]East Sotoa[/nation] continues the somewhat liberal, capitalist and democratic traditions of the former Sotoa.
+
+[nation]West Sotoa[/nation] is an authoritarian, pro-business state run more like a corporation than any government.
+
+[nation]North Sotoa[/nation] is a new fledgling socialist nation that recently seceded from ES. It prides itself on favoring the well being of people over business, even at the expense of their economy.

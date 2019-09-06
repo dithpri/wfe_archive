@@ -1,5 +1,5 @@
 [colour=darkred][b]The Empire of Greater Raxus[/b]
-[i]We are a new empire, created by citizens revolted by inactivity and failures, our dream is conquering nationstates[/i][/colour]
+[i]We are a new empire, created by citizens revolted by inactivity and failures in the collapsing region of [region]The Raxus Empire[/region].[/i][/colour]
 [hr]
 [b][colour=red]Important Officials[/colour][/b]
 [list]
@@ -9,4 +9,4 @@
 [hr]
 [b][colour=red]News[/colour][/b]
 
-[i]Empire founded by His Majesty [nation]United Thalania[/nation] I[/i]
+[i]Region becomes province of [region]New Yellow Empire[/region][/i]
