@@ -1,2 +1,8 @@
-Capital city of House Sigimariz
-Guarded by the lycan legions of [nation]Padfoot Glen[/nation]
+[b][region]Lycan Imperium[/region]
+[nation]The Lycan Emperor[/nation]: [i]Imperator[/i] Arminius Wolfram Sigimariz
+[nation]Padfoot[/nation]: [i]Imperial Guard[/i] Adi Grauschnauze Padfoot Sigimariz
+Dynastic House: House Sigimariz
+
+[region]Sigimariz[/region] Capital City
+[nation]Padfoot Glen[/nation]: [i]Lycan Legion[/i] Arcanis Diamant Padfoot Sigimariz 
+Dynastic House: House Sigimariz[/b]

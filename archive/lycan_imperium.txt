@@ -1,6 +1,7 @@
 [b][region]Lycan Imperium[/region][hr][nation]The Lycan Emperor[/nation]: [color=#cc0000][i]Imperator[/i][/color][color=#000000] Arminius Wolfram Sigimariz[/color] 
-[nation]Padfoot[/nation]: [color=#cc0000][i]Imperial Guard[/i][/color][color=#000000] Adi Grauschnauze Padfoot Sigimariz
-Dynastic House: [region]Sigimariz[/region]
+[nation]Padfoot[/nation]: [color=#cc0000][i]Imperial Guard[/i][/color][color=#000000] Adi Grauschnauze Padfoot Sigimariz[/color]
+[nation]Padfoot Glen[/nation]: [color=#cc0000][i]Lycan Legion[/i][/color][color=#000000]  Arcanis Diamant Padfoot Sigimariz
+Dynastic House Capital: [region]Sigimariz[/region]
 [url=https://i.imgur.com/6vT5mj2.gif]House Shield[/url] 
 Currency: &amp;#128128;[hr]
 

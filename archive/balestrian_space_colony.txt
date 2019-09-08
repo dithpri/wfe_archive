@@ -2,3 +2,4 @@ Official name: Kovtekar Prison Colony
 Capital: Majjio Prison
 Balestrian Prisoners: 0
 Balestrian Guards: 1
+Balestrian Quarintined: 0
