@@ -7,10 +7,8 @@
 [u][b][color=red]Security Council Members:[/color][/b][/u]
 
 [b][nation]United Osean Federation[/nation]
-[nation]Tarperian[/nation]
 [nation]United Sentinel States[/nation]
 [nation]South Waterford[/nation]
-[nation]Cappedore[/nation]
 [/b]
 [hr]
 [u][b][color=blue]UAN Member States:[/color][/b][/u]
@@ -24,6 +22,5 @@
 [nation]Cappedore[/nation]
 [nation]The Monroe Republican States[/nation]
 [nation]Punk Anarchy[/nation]
-[nation]The Greater Vietnam[/nation]
 [/b]
 [hr]
