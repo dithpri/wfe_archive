@@ -15,5 +15,6 @@ Welcome to the OU Parliament, consisting of the Houses of Representatives, House
 
 [b][color=skyblue]Modernists (MDP)[/color][/b] : [nation]Sorrika[/nation]
 [b][color=darkcyan]Unity Coalition (UCP)[/color][/b] : [nation]Ocasio-Cortez[/nation]
-[b][color=purple]Conservatives (CSP)[/color][/b] : [i]{party dissolved until claimed}[/i]
+[b][color=purple]Conservatives (CSP)[/color][/b] : [nation]Fourt Elizabeth[/nation]
 [b][color=darkred]Social Democrats (SDP)[/color][/b] : [nation]Dowoutika[/nation]
+[b][color=blue]Liberals (LIB)[/color][/b] : [nation]Oberstan[/nation]
