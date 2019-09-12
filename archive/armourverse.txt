@@ -1,3 +1,4 @@
 The Armourverse is a puppet storage region.
 
-Current Year: 2300
+Our child regions:
+- [region]Greater American Empire[/region]
