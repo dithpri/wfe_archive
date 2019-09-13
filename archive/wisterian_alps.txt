@@ -1,3 +1,1 @@
-[region]The Cormorant Pact[/region] Backup region. (Occupied)
-[hr]
-Cormorants know the pass.
+Occupied by [region]The Cormorant Pact[/region]

@@ -1,10 +1,8 @@
 [b]&amp;#9760;&amp;#65039; [region]Lycan Imperium[/region] &amp;#9760;&amp;#65039;
-Established X:IX:MMXIX [hr][nation]The Lycan Emperor[/nation]: [color=#cc0000][i]Imperator[/i][/color][color=#000000] Arminius Wolfram Sigimariz[/color] 
-[nation]Padfoot[/nation]: [color=#cc0000][i]Imperial Guard[/i][/color][color=#000000] Adi Grauschnauze Padfoot Sigimariz[/color]
-[nation]Padfoot Glen[/nation]: [color=#cc0000][i]Lycan Legion[/i][/color][color=#000000]  Arcanis Diamant Padfoot Sigimariz
-Dynastic Capital: [region]Sigimariz[/region]
-Heritage Region: [region]Lycia[/region]
+[color=#000000]Established X:IX:MMXIX [/color]
 [url=https://i.imgur.com/6vT5mj2.gif]House Shield[/url] 
-Currency: &amp;#128128;[hr]
-
-[/color][/b]
+[hr][color=#cc0000][i]Dynastic Capital[/i][/color]: [region]Sigimariz[/region]
+[color=#cc0000][i]Heritage Region[/i][/color]: [region]Lycia[/region]
+[color=#cc0000][i]The Clans[/i][/color]: [region]Wolf Clans[/region]
+[color=#cc0000][i]Honored Dead[/i][/color]: [region]Necropolis[/region]
+[color=#cc0000][i]Currency[/i][/color]: &amp;#128128;[/b]
