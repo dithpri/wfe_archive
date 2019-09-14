@@ -1,5 +1,5 @@
-[color=green][b]The Philippines[/b]
-
+[color=teal][b]The Philippines[/b]
+[/color][color=green]
 FACTS
 [b]Capital:[/b] [region=Manila]
 [b]Largest City:[/b] [region=Quezon City]
@@ -12,8 +12,8 @@ FACTS
 [b]Population:[/b] 98,525,000 (2013 est.)
 [b]Area:[/b] 300,000 km sq
 Philippines derived name from King Philip II of Spain
-Official name is Republic of the Philippines
-
+Official name is [region=Republic of the Philippines]
+[/color][color=olive]
+REGION
 Founded: 2013 Mar 31
-Featured: 2018 May 13
-a [region=United States of America] region[/color]
+Featured: 2018 May 13[/color]

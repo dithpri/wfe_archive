@@ -1,2 +1,1 @@
-[b]Washington State[/b]
-a [region=0000] region
+[color=green][b]Washington State[/b][/color]

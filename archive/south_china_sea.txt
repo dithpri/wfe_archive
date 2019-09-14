@@ -1,4 +1,11 @@
-[hr][list][list][color=green][b]South China Sea[/b][/list][/list][hr][list]Disputed Territory between the competing nations around the South China Sea.
+[hr][list][color=teal][b]South China Sea[/b][/list][hr]
+[/color][color=004500]
+Disputed Territory between the competing nations around the South China Sea.
 China claims nearly all of the Southern Sea.
-Disputed by Vietnam, Malaysia, Brunei, The Philippines and Taiwan.[/color][/list][hr][list][color=803000][b]This is an [region=Old Spirit] of [region=United States of America] region[/color][color=green]
-Featured Region:[/b] 2016/11/08[/color][/list][hr]
+Disputed by:
+ [region=Vietnam], [region=Malaysia], [region=Brunei], [region=The Philippines] and [region=Republic of China] (Taiwan)
+[/color][color=olive]
+REGION
+[b]Founded:[/b] 2014 Feb 13
+[b]Featured:[/b] 2016 Nov 08
+a [region=Great Britain and Northern Ireland] region[/color][hr]

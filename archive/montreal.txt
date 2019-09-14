@@ -1,1 +1,6 @@
-[color=navy][b]Montreal[/b], Quebec, Canada[/color]
+[color=navy][b]Montreal[/b], Quebec, Canada
+[/color][color=olive]
+REGION
+associated with [region=Addis Ababa], [region=Algiers], [region=Bangkok], [region=Belfast], [region=Birmingham], [region=Bonn], [region=Brasilia], [region=Brassaville], [region=Brisbane], [region=Calgary], [region=Copenhagen], [region=Detroit], [region=Edinburgh], [region=Edmonton], [region=Halifax], [region=Indianapolis], [region=Islamabad], [region=Jacksonville], [region=Kandahar], [region=Kigali], [region=London], [region=Lusaka], [region=Manchester], [region=Manila], [region=Memphis], [region=Mexico City], [region=Nashville], [region=Ottawa], [region=Phoenix], [region=Quito], [region=Rio de Janeiro], [region=Sao Paulo], [region=Seattle], [region=Surrey], [region=Sydney], [region=Toronto], [region=Winnipeg] and the list goes on and on.
+[b]Founded:[/b] 2015 Jan 03
+a [region=Great Britain and Northern Ireland] region[/color]

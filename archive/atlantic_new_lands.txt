@@ -1,4 +1,7 @@
-[b]Atlantic New Lands[/b]
-a [region=0000] region
+[color=navy][b]Atlantic New Lands[/b]
+[region=British North Atlantic][/color]
 
-The Lands of Discovery
+[color=olive]REGION
+a [region=Great Britain and Northern Ireland] region
+
+The Lands of Discovery[/color]

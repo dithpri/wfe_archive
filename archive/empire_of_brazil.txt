@@ -1,13 +1,14 @@
-[color=darkgreen][b]Empire of Brazil[/b]
+[color=teal][b]Empire of Brazil[/b][/color][color=004500]
 [list]Imp&eacute;rio do Brasil - 1822&#150;1889
 Prior known as Kingdom of Brazil until King Jo&atilde;o VI returned to Portugal
 His eldest son Pedro ruled Brazil as regent
 Pedro declared Brazil independent 1822 Sep 07
 The empire included modern Brazil and Uruguay (until 1828) 
 1889 Nov 15 the Emperor was overthrown by a coup d&#39;&eacute;tat
-First Brazilian Republic replaced the Empire of Brazil[/list][/color][color=navy]
-REGION[/color]
-[list][color=654321]a [region=0000] matrix puppet holding region
-[b]Founded:[/b] 2017 Jul 13
-[b]Featured:[/b] 2018 Apr 19[/color]
-[color=red]Embassy offers accepted[/color][/list]
+First Brazilian Republic replaced the Empire of Brazil[/list]
+[/color][color=olive]
+REGION
+[list][b]Founded:[/b] 2017 Jul 13
+[b]Featured:[/b] 2018 Apr 19
+Embassy offers accepted
+a [region=Great Britain and Northern Ireland] region[/color]

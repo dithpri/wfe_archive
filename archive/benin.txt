@@ -1,3 +1,5 @@
 [hr][hr][list][list][color=green][b]Benin[/b][/list][/list][hr][hr]
 [b]Capital City:[/b] [region=Porto Novo]
-[b]Largest City:[/b] [region=Cotonou][/color]
+[b]Largest City:[/b] [region=Cotonou]
+[/color][color=olive]
+[b]Founded:[/b] 2014 Jan 20[/color]

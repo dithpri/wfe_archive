@@ -1,9 +1,9 @@
-[color=000045][b]Salt Lake[/b], [region=Utah], [region=United States of America]
+[color=navy][b]Salt Lake[/b], [region=Utah], [region=United States of America]
 
 Salt Lake is located in the state of Utah.
 It is either referring to: Salt Lake City or the lake itself.
-
-This is a puppet storage region allied with [region=Utah].
-a [region=United States of America] region
-[/color][color=DD4500]
-Embassy offers are being accepted[/color]
+[/color][color=olive]
+REGION
+[b]Founded:[/b] 2017 May 30
+[b]Featured:[/b] 2018 Dec 24[/color][color=green]
+Embassy Offers Welcome[/color]

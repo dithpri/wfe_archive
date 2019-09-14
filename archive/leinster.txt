@@ -1,17 +1,16 @@
-[color=004500][b]Leinster[/b]
-[/color][color=blue]
+[color=navy][b]Leinster[/b]
+[/color][color=004500]
 FACTS
-Province of Ireland
-No official function, but recognized as a subdivision of Ireland
+A Province of Ireland
+Has No official function, but recognized as a subdivision of Ireland
 [b]Population:[/b] 2,630,720 (2016)
 [b]Area:[/b] 19,800 sq. km (7,644 sq. mi)
 [b]Largest City:[/b] Dublin
 [/color][color=olive]
 REGION
-a [region=0000] puppet storage region
 [b]Founded:[/b] 2017 Mar 13
-[b]Featured:[/b] 2018 Oct 21
 [b]Matrixed:[/b] 2017 Mar 17 *
-(* accepts embassy offers since)
-[/color][color=CC6600]
+[b]Featured:[/b] 2018 Oct 21
+* accepts embassy offers since date
+a [region=Great Britain and Northern Ireland] region[/color][color=green]
 [b]Embassy offers are accepted[/b][/color]

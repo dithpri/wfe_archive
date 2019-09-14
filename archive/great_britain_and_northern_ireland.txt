@@ -6,9 +6,9 @@ FACTS[list]
 1284 (with [region=Wales]);
 1707 (with Scotland);
 1801 (with Ireland)[/list][b]Head of State:[/b] Queen Elizabeth II (1952 Feb 6)
-[b]Head of Government:[/b] Prime Minister Theresa May (11 July 2016)
+[b]Head of Government:[/b] Prime Minister Boris Johnson (2019 July)
 [b]Area:[/b] 243,610 sq km (excludes Overseas Territories)
 [b]Population:[/b] 64,511,000 (2014 est.)
 [/color][color=009900]
-This is a [region=0000] region.
+This is a [region=United Kingdom of Great Britain] region.
 [b]GOD SAVE THE QUEEN[/b][/color][/list]

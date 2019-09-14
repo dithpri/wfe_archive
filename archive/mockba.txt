@@ -1,4 +1,10 @@
-[color=green][b]Mockba[/b]
+[color=teal][b]Mockba[/b]
 AKA Moscow, Russia
-this is a [region=Federation of Russia] region
-associated with:  [region=Federal Republic of Russia] &amp; [region=Russian Federation][/color]
+[/color][color=olive]
+REGION
+[b]Associate region of:[/b]
+- [region=Federal Republic of Russia]
+- [region=Federation of Russia]
+- [region=Russian Federation]
+[b]Founded:[/b] 2013 Oct 14
+This is a [region=Great Britain and Northern Ireland] region[/color]

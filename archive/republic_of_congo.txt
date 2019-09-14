@@ -11,9 +11,6 @@ Also Known As: [region=The Republic of Congo] or Republique du Congo (French); t
 [hr][/color][color=olive]REGION
 [b]Founded:[/b] 2016 May 02 *
 [b]Featured:[/b] 2019 Mar 21
-a DBA Embassy Matrix Region
-a [region=0000] Puppet Storage Region
-an [region=United States of America] associated region
 Previously founded by: [nation=short]Halve Maen[/nation] *
-[/color][color=008080]
+[/color][color=green]
 [b]This region accepts embassy offers[/b][/color]
