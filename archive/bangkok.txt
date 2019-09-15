@@ -1,3 +1,16 @@
-[b]Bangkok[/b]
-a [region=0000] Puppet Storage Region
-[b]Sister Region:[/b] [region=Siam]
+[color=navy][b]Bangkok[/b]
+[/color][color=006900]FACTS
+Capital and most populous city of Thailand
+[b]Area:[/b]
+&#149; City: 1,568 km2
+&#149; Metro 7,761 km2
+[b]Population:[/b] 2010 c.
+&#149; City: 8,305,218
+&#149; Metro: 14,626,225
+[/color][color=olive]
+REGION
+[b]Founded:[/b] 2016 Dec 22
+[b]Matrixed:[/b] 2019 Sep 15*
+* accepts embassy offers since
+this is a [region=Great Britain and Northern Ireland] region[/color][color=green]
+Embassy offers are welcome[/color]
