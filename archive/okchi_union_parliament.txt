@@ -2,19 +2,17 @@ This is the legislative branch for [region]The Okchi Union[/region].
 
 Welcome to the OU Parliament, consisting of the Houses of Representatives, House of Commons, and the Senate.
 
-[b][color=red]Active State of Emergency[/color][/b]
-
 [region]Okchi Union Supreme Court[/region]
 
 [u]Sides[/u]
 
-[b]Leader of the Majority[/b] : Unity Coalition Party [b][color=darkcyan](UCP)[/color][/b]
-[b]Leader of the Opposition[/b] : Modernist Party  [b][color=skyblue](MDP)[/color][/b]
+[b]Leader of the Majority[/b] : New Democratic Party [b][color=green](NDP)[/color][/b]
+[b]Leader of the Opposition[/b] : Conservative Party  [b][color=darkblue](CON)[/color][/b]
 
 [u]Party Leaders[/u]
 
-[b][color=skyblue]Modernists (MDP)[/color][/b] : [nation]Sorrika[/nation]
-[b][color=darkcyan]Unity Coalition (UCP)[/color][/b] : [nation]Ocasio-Cortez[/nation]
-[b][color=purple]Conservatives (CSP)[/color][/b] : [nation]Fourt Elizabeth[/nation]
-[b][color=darkred]Social Democrats (SDP)[/color][/b] : [nation]Dowoutika[/nation]
+[b][color=gold]Modernists (MOD)[/color][/b] : [nation]Sorrika[/nation]
+[b][color=green]New Democrats (NDP)[/color][/b] : [nation]Ocasio-Cortez[/nation] &amp; [nation]Jikook[/nation]
+[b][color=darkblue]Conservatives (CON)[/color][/b] : [nation]Fourt Elizabeth[/nation]
+[b][color=red]Social Democrats (SDP)[/color][/b] : [nation]Dowoutika[/nation]
 [b][color=blue]Liberals (LIB)[/color][/b] : [nation]Oberstan[/nation]
