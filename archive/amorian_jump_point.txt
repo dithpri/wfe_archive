@@ -1,5 +1,7 @@
 Holding region for undeployed Amore puppets.
 
+Password is &#39;amore&#39;.
+
 [nation]Luna Amore[/nation] : [region]Free Thought[/region]
 [nation]Sole Amore[/nation] : [region]Texas[/region]
 [nation]Terra Amore[/nation] : [region]Philosophy 115[/region]
