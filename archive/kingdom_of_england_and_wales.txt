@@ -1,2 +1,17 @@
-[color=blue][b]Kingdom Of England And Wales[/b]
-a [region=Great Britain and Northern Ireland] region[/color]
+[color=navy][b]Kingdom Of England And Wales[/b]
+[/color][color=green]
+[b]Administrative Center:[/b] [region=London]
+Formally England and [region=Wales] are two constituent countries of the [region=United Kingdom of Great Britain]
+Constitutional successor to the previous Kingdom of England (conquest of Wales 1277-1283)
+The devolved National Assembly for Wales was created in 1999
+Government of Wales Act 2006 expanded powers for this Assembly.
+England has no devolved assembly.
+[/color][color=olive]
+REGION
+[b]Founded:[/b] 2017 Apr 23
+[b]Featured:[/b] 2019 Sep 21
+Puppet Storage Region
+a [region=Great Britain and Northern Ireland] region
+associated with [region=Old Spirit]
+[/color][color=green]
+[b]Welcome[/b][/color]
