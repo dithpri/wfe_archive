@@ -1,3 +1,6 @@
-[color=green][b]Dodoma[/b], [region=Tanzania]
-a [region=0000] Puppet Storage Region
-[b]Founded:[/b] 20160519[/color]
+[color=green][b]Dodoma[/b]
+
+National capital of [region=Tanzania]
+[/color][color=olive]
+REGION
+[b]Founded:[/b] 2016 May 19[/color]

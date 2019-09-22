@@ -1,4 +1,4 @@
-Welcome to Cape Town
+[color=green]Welcome to Cape Town
 
 Cape Town is a municipality in South Africa.
 [b]Country:[/b] South Africa
@@ -9,4 +9,4 @@ FACTS
 [b]Area:[/b] 2,454.72 km2
 [b]Demonym:[/b] Capetonian
 
-Welcome 
+Welcome [/color]
