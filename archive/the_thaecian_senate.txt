@@ -1,9 +1,9 @@
 [b][color=green]WELCOME TO THE SENATE OF [url=https://www.nationstates.net/region=thaecia]THAECIA[/url]![/b][/color]
 [hr][colour=#045fb4][b]Leadership[/b][/colour]
-[list][b][i]Senate Chairman[/i]: [nation=short+noflag]Levantx[/nation] ([Color=#C1175C]UNI[/color])
-[i]Deputy Chairman[/i]: [nation=short+noflag]The Islamic Country of Honour[/nation] ([color=darkgreen]TPP[/color])
+[list][b][i]Senate Chairman[/i]: [nation=noflag]Levantx[/nation] ([Color=#C1175C]UNI[/color])
+[i]Deputy Chairman[/i]: [nation=noflag]The Islamic Country of Honour[/nation] ([color=#C1175C]UNI[/color])
 
-[i]Senate Shadow Chairman[/i]:  [nation=short+noflag]Titanne[/nation][/b] [b]([Color=blue]TPU[/color])[/b][/list]
+[i]Senate Shadow Chairman[/i]:  [nation=noflag]Marvinton[/nation][/b] [b]([Color=blue]TPU[/color])[/b][/list]
 
 [hr][color=#ea2323]The Senate has begun proceedings in its Third Session.[/color]
 [hr]
