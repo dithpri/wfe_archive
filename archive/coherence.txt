@@ -1,3 +1,2 @@
 on view:
-assimilate viewer to coherence
-;
+  assimilate viewer
