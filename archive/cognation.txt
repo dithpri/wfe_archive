@@ -1,0 +1,14 @@
+[i]Logging in...[/i]
+[i]Verifying user...[/i]
+[i]Running physical analysis for any trace of Toon, please wait...[/i]
+[i]Analysis complete. Welcome, back, COG_3.23k. it is currently 4:59 PM Cog Nation time. [nation][/nation]You have one new notification.[/i]
+
+{C-TERMINAL: READ_NOTIFICATION}
+[okay, displaying notification...]
+
+COG,
+
+You are scheduled for shifts for the next two weeks at the Middle Six and Back Nine from 4PM-11PM with Groups 11 and 19. Details will be sent to your MINGLERMAIL at a later date. Failure to show up will result in demotion and possible termination. I trust you will do your job and show up on time.
+
+Sincerely,
+The CEO

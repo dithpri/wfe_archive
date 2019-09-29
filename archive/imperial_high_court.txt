@@ -1,24 +1,28 @@
-[color=orange][b]Welcome to the Imperial High Court![/b]
-&quot;[i]Praefuit non minore iustitia sub lege[/i]&quot;[/color]
+[u][b][color=#004ab3]Welcome[/color][/b][/u] to the to the Imperial High Court of the [b][region]New Western Empire[/region][/b]! || [b][i][color=#004AB3]G[/color][color=#0A4FAD]e[/color][color=#1454A8]t[/color][color=#1E59A3]t[/color][color=#285E9E]i[/color][color=#336399]n[/color][color=#3D6894]g[/color] [color=#517289]T[/color][color=#5C7784]h[/color][color=#667C7F]e[/color][color=#70827A]r[/color][color=#7A8775]e[/color] [color=#8F916B]T[/color][color=#999665]o[/color][color=#A39B60]g[/color][color=#ADA05B]e[/color][color=#B8A556]t[/color][color=#C2AA51]h[/color][color=#CCAF4C]e[/color][color=#D6B447]r[/color][/i][/b]
+
+[color=#d6a03c]&quot;[i]Praefuit non minore iustitia sub lege[/i]&quot;[/color]
+
 
 [hr]
-[color=orange]Important Announcements:[/color][color=red][b]
+
+[color=#004099]Important Announcements:[/color][color=red][b]
 [/color][/b]
 
 [hr]
-[color=red]&amp;#9878; Composition &amp;#9878;[/color]:
+[color=#d6a03c]&amp;#9878; Composition &amp;#9878;[/color]:
 
-[color=red][b]Chief Justice[/b]: [nation]Katarial[/nation][/color]
+[color=#d6a03c][b]Chief Justice[/b]: [nation]Katarial[/nation][/color]
 
-[color=red]
+[color=#004099]
 
 [i]Associate Justices[/i]:
 
-[nation]O-broki[/nation]
-[nation]Baconbacon123[/nation]
+[nation]Communaccord[/nation]
+[nation]New Dukna[/nation]
+[nation]Hidden the Artic[/nation]
 [/color]
 [hr]
-[color=orange]
+[color=#d6a03c]
 [i]Current Case(s)[/i]|[nation]Mukolayiv[/nation] vs [region]New Western Empire[/region]
 
 Recent Verdict(s)|
@@ -27,7 +31,7 @@ Upcoming Case(s)|    [/color]
 [hr]
 
                                                   
-[color=red]
+[color=#004099]
 [url=https://www.nationstates.net/region=nwe_courtroom_1]Courtroom 1[/url]:
 [url=https://www.nationstates.net/region=nwe_courtroom_2]Courtroom 2[/url]: 
 [/color]

@@ -3,7 +3,7 @@
 [hr][hr]
 
 [color=gold]&amp;#9812;[/color] [b]Leadership[/b] [color=gold]&amp;#9812;[/color]
-[list][b][i]Chancellor[/i]: [nation=noflag]Dependants[/nation] ([colour=#2089d4]DEM[/colour])[/b]
+[list][b][i]Chancellor[/i]: [i]Vacant[/i][/b]
 
 [list]
 
@@ -13,11 +13,11 @@
 [b][i]Shadow Chancellor[/i]: [nation=noflag]The Evile Empire[/nation] ([colour=#443B70]CTZ[/colour])[/b]
 [/list][hr][hr]
 
-[b][u]Previous Business:[/b][/u] [i][b]L.R. 12[/b][/i] [i]{FAILED}[/i]
-[i]The Societies Act[/i]
-
-[b][u]Current Business:[/b][/u] [i][b]Constitutional Amendment[/b][/i]
+[b][u]Previous Business:[/b][/u] [i][b]Constitutional Amendment[/b][/i] [i]{PASSED}[/i]
 [i]Political Reform 2019[/i]
+
+[b][u]Current Business:[/b][/u] [i][b]Motion of No Confidence[/b][/i]
+[i]Motion of No-Confidence in Chancellor Dependants[/i]
 
 [b][u]Next Business:[/b][/u] [b][i]L.R. 13[/i][/b]
 [i]TBD[/i]
