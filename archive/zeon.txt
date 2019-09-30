@@ -1,10 +1,11 @@
-[b][color=2d4551]SPACE COLONY,[/color] [i][color=962e4f]SIDE 3[/color][/i] [color=2d4551]--[/color] [u][color=cfb654]PRINCIPALITY OF ZEON[/color][/u][/b]
+[b][color=4e8c5b]AUTONOMOUS SPACE COLONY[/color][i][color=2d4551], SIDE 3[/i], [i]MUNZO[/i] --[/color] [u][color=cfb654]THE REPUBLICAN PRINCIPALITY OF ZEON[/color][/u][/b]
 
 [color=4e8c5b]&quot;[i]The Side farthest away from Earth.[/i]&quot;[/color]
-[hr][hr][color=2d4551][b]Welcome, [i]spacenoid[/i], to the[/color] [u][color=cfb654]Principality of Zeon[/color][/u][color=2d4551]![/color][/b]
+[hr][hr][color=2d4551][b]Welcome, [i]spacenoid[/i], to the[/color] [u][color=cfb654]Republican Principality of Zeon[/color][/u][color=2d4551]![/color][/b]
 
-[color=4e8c5b][i]A region for all fans of mecha and the [url=http://en.wikipedia.org/wiki/Gundam]Gundam Series[/url].[/i][/color]
+[color=4e8c5b][i]A region for all fans of anime, mecha, and the [url=http://en.wikipedia.org/wiki/Gundam]Gundam Series[/url].[/i][/color]
 
-[hr][hr][b][color=cfb654]His Sovereign[/color][color=2d4551]: [nation=short+noflag]The Red Komet[/nation][/color]
-[color=c8234b]Prime Minister[/color][color=2d4551]:[/color][/b]
-[hr][hr][B][color=2e5747]Regional Military[/color][color=2d4551]:[/color] [region]Zeon Space Attack Force[/region][/b]
+[hr][hr][b][color=cfb654]His Sovereign[/color][color=2d4551]:[/color]
+[color=c8234b]Prime Minister[/color][color=2d4551]:[/color]
+[color=4e8c5b]Supreme Commander[/color][color=2d4551]:[/color][/b]
+[hr][hr][b][color=4e8c5b]Regional Military[/color][/b][color=2d4551]:[/color] [b][color=4e8c5b][region]Zeon Space Attack Force[/region][/b][/color]

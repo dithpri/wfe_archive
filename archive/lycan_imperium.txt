@@ -10,14 +10,14 @@
 &amp;#127963;&amp;#65039; [region]Lycia[/region] &amp;#127963;&amp;#65039; [region]Lucania[/region] &amp;#127963;&amp;#65039; [region]The Kingdom of Belgium[/region] &amp;#127963;&amp;#65039; [region]Karelia[/region]
 
 [i][color=#000000]&amp;#119829;&amp;#119842;&amp;#119852;&amp;#119842;&amp;#119853;[/color] [/i]
-&amp;#127754; [region]Oceans[/region]
+&amp;#127754; [region]Oceans[/region] &amp;#127754; [region]Adriatic[/region]
 &amp;#127794; [region]Schwarzwald[/region] 
 
 [i][color=#000000]&amp;#119815;&amp;#119848;&amp;#119847;&amp;#119848;&amp;#119851; &amp;#119848;&amp;#119854;&amp;#119851; &amp;#119808;&amp;#119847;&amp;#119836;&amp;#119838;&amp;#119852;&amp;#119853;&amp;#119848;&amp;#119851;&amp;#119852;[/color] [/i] 
-&amp;#127963;&amp;#65039; [region]Necropolis[/region][hr][i][color=#000000]&amp;#119829;&amp;#119842;&amp;#119852;&amp;#119842;&amp;#119853; &amp;#119848;&amp;#119854;&amp;#119851; &amp;#119847;&amp;#119838;&amp;#119842;&amp;#119840;&amp;#119841;&amp;#119835;&amp;#119848;&amp;#119851;[/color][/i]
-&amp;#127757; [region]The Holy Reich of Greater Germania[/region] 
+&amp;#127963;&amp;#65039; [region]Necropolis[/region][hr][i][color=#000000]&amp;#119829;&amp;#119842;&amp;#119852;&amp;#119842;&amp;#119853; &amp;#119848;&amp;#119854;&amp;#119851; &amp;#119847;&amp;#119838;&amp;#119842;&amp;#119840;&amp;#119841;&amp;#119835;&amp;#119848;&amp;#119851;&amp;#119852;[/color][/i]
+&amp;#127757; [region]The Holy Reich of Greater Germania[/region] &amp;#127757; [region]Farkasfalka[/region]
 
 [i][color=#000000]&amp;#119827;&amp;#119851;&amp;#119834;&amp;#119837;&amp;#119838; &amp;#119856;&amp;#119842;&amp;#119853;&amp;#119841;[/color] [/i]
-&amp;#127757; [region]Altmora[/region] &amp;#127757; [region]New Reich of Bunicken[/region]
+&amp;#127757; [region]Altmora[/region] &amp;#127757; [region]New Reich of Bunicken[/region]  
 
 [/B]
