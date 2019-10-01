@@ -11,5 +11,5 @@ Regional Vice President - [nation]The Iberian Vassal State[/nation]
 Regional Congress - [nation]Austriano[/nation]
 
 World Assembly Positions
-General Assembly - For
-Security Council - Against
+General Assembly - Against
+Security Council - N/A

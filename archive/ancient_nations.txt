@@ -1,6 +1,1 @@
-[b]Ancient Nations[/b]
-a [region=0000] region
-an Oracle Holding Region
-
-Sorry, no embassy offers will be accepted
-Associated with [region=Ancient Lands]
+[color=green][b]Ancient Nations[/b][/color]

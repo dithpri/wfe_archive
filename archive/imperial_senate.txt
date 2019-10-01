@@ -13,11 +13,11 @@
 [b][i]Shadow Chancellor[/i]: [nation=noflag]The Evile Empire[/nation] ([colour=#443B70]CTZ[/colour])[/b]
 [/list][hr][hr]
 
-[b][u]Previous Business:[/b][/u] [i][b]Constitutional Amendment[/b][/i] [i]{PASSED}[/i]
-[i]Political Reform 2019[/i]
-
-[b][u]Current Business:[/b][/u] [i][b]Motion of No Confidence[/b][/i]
+[b][u]Previous Business:[/b][/u] [i][b]Motion of No Confidence[/b][/i] [i]{PASSED}[/i]
 [i]Motion of No-Confidence in Chancellor Dependants[/i]
+
+[b][u]Current Business:[/b][/u] [i][b]Election[/b][/i]
+[i]Imperial Chancellor Election[/i]
 
 [b][u]Next Business:[/b][/u] [b][i]L.R. 13[/i][/b]
 [i]TBD[/i]
