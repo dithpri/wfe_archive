@@ -6,5 +6,6 @@ G. M. Trevelyan was a British Historian and academic.
 Chancellor of the University of Durham 1950-1957
 
 Region
-a [region=0000] region
-an Embassy Oracle Region (DBA Alliance)[/color]
+an [region=Old Spirit] region
+an Embassy Oracle Region
+a [region=Great Britain and Northern Ireland] region[/color]

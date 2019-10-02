@@ -1,2 +1,5 @@
-[b]Vancouver Island[/b], [region=British Columbia]
+[color=green][b]Vancouver Island[/b], [region=British Columbia]
 located on the Pacific Coast of Canada
+[/color][color=olive]
+[b]Founded:[/b] 2014 Aug 05
+[b]Puppet Storage:[/b] 2019 Oct 02[/color]
