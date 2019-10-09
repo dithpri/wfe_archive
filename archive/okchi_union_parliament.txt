@@ -1,17 +1,16 @@
-This is the legislative branch for [region]The Okchi Union[/region].
+[color=gold]This is the legislative branch for [region]The Okchi Union[/region].[/color]
 
-Welcome to the OU Parliament, consisting of the Houses of Representatives, House of Commons, and the Senate.
+[color=greenblue]Welcome to the OU Parliament, consisting of the Houses of Representatives, House of Commons, and the Senate.[/color]
 
-[region]Okchi Union Supreme Court[/region]
+[region]Okchi Union Supreme Court[/region] is now recruiting. Check it out!
 
 [u]Sides[/u]
 
-[b]Leader of the Majority[/b] : New Democratic Party [b][color=blue](NDP)[/color][/b]
-[b]Leader of the Opposition[/b] : New Republican Party  [b][color=magenta](NRP)[/color][/b]
+[b]Leader of the Majority[/b] : [u]New Republican Party[/u] [b][color=darkred](NDP)[/color][/b]
+[b]Leader of the Opposition[/b] : [u]New Democatic Party[/u]  [b][color=blue](NRP)[/color][/b]
 
 [u]Party Leaders[/u]
 
 [b][color=gold]Modernists (MOD)[/color][/b] : [nation]Sorrika[/nation]
 [b][color=blue]New Democrats (NDP)[/color][/b] : [nation]Ocasio-Cortez[/nation] &amp; [nation]Jikook[/nation]
-[b][color=magenta]New Republicans (NRP)[/color][/b] : [nation]Fourt Elizabeth[/nation]
-[b][color=red]Social Democrats (SDP)[/color][/b] : [nation]Dowoutika[/nation]
+[b][color=darkred]New Republicans (NRP)[/color][/b] : [nation]Fourt Elizabeth[/nation]
