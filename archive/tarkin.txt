@@ -13,13 +13,14 @@
 [color=maroon][b][u]Senate:[/u][/b][/color]
 [Nation=short]Carinth[/nation]
 [Nation=short]Marasaw[/nation]
-[Nation=short]Tropique[/nation]
+[Nation=short]Technational[/nation]
 [Nation=short]Kiwannis[/nation]
+5th Seat is Vacant
 
 
 [color=blue][b][u]Judiciary:[/color][/b][/u]
 [i]Chief Justice:[/i] [nation=short]Camerwoon[/nation]
-Justice: [nation=short]Theruhr[/nation]
-Justice: [nation=short]The Sanhedrin[/nation]
+[i]Associate Justice: [nation]United Bronte[/nation]
+Justice: Vacant
 
 [i]Tarkin is set in the [b]Interwar Period (1920-1944)[/b] for technology.[/i]

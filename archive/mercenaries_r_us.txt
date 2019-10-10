@@ -13,6 +13,4 @@
 [region]URCR[/region][i] - {awaiting influence gain}[/i]
 [region]Nacb[/region] - Jump point[hr][b][color=red]On Call:[/color]
 [nation]Mercenary CEO[/nation][/b] [i]- {WA unavailable}[/i]
-[nation]Hermes Express 123[/nation] - [i]{WA Available }[/i]
-
-[hr][B]Featured 11th July 2019 and 1st September 2019[/b]
+[nation]Hermes Express 123[/nation] - [i]{WA Available }[/i][hr][i]Raiders will be contracted[/i][hr][B]Featured 11th July 2019 and 1st September 2019[/b]

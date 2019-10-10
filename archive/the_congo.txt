@@ -1,3 +1,4 @@
-The Congo
-
-see [region=Congo]
+[color=navy][b]The Congo[/b]
+see [region=Republic of Congo][/color]
+[color=silver]QSA[/color]
+[color=803000]this is an [region=Old Spirit] region[/color]
