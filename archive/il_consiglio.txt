@@ -1,4 +1,8 @@
 [nation]Vohei[/nation] - Lucio
 [nation]Angurie[/nation] - Jacopo
-[nation]Pompelmi[/nation] - Poche
 [nation]Repubblica Orobica[/nation] - Saul
+[nation]Rum e Candeggina[/nation] - Simone
+[nation]Sunset light[/nation] - Sara
+
+
+[nation]Pompelmi[/nation] - Poche
