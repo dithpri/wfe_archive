@@ -7,10 +7,10 @@
 
 [list]
 
-[i]Deputy Chancellor[/i]: [i][nation=noflag]Tristandecuhna[/nation] ([colour=#12C724]GL[/colour])[/i]
+[i]Deputy Chancellor[/i]: [i]Vacant[/i]
 [/list]
 
-[b][i]Shadow Chancellor[/i]: [nation=noflag]The Evile Empire[/nation] ([colour=#443B70]CTZ[/colour])[/b]
+[b][i]Shadow Chancellor[/i]: [i]Vacant[/i][/b]
 [/list][hr][hr]
 
 [b][u]Previous Business:[/b][/u] [i][b]Motion of No Confidence[/b][/i] [i]{PASSED}[/i]

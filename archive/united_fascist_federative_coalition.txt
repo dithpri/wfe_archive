@@ -2,8 +2,8 @@ We are a region of like-minded nations that oppose international communism, cult
 
 [REGIONAL INSURGENCY THREAT LEVEL]
 
-1 Negligible
-[b]2 Small[/b]
+1 [b]Negligible[/b]
+2 Small
 3 Medium
 4 High
 5 EXTREME (RED ALERT)

@@ -20,7 +20,7 @@
 
 [color=blue][b][u]Judiciary:[/color][/b][/u]
 [i]Chief Justice:[/i] [nation=short]Camerwoon[/nation]
-[i]Associate Justice: [nation]United Bronte[/nation]
-Justice: Vacant
+[i]Associate Justice: Vacant
+Associate Justice: Vacant
 
-[i]Tarkin is set in the [b]Interwar Period (1920-1944)[/b] for technology.[/i]
+Tarkin is set in the [b]Interwar Period (1920-1944)[/b] for technology.[/i]
