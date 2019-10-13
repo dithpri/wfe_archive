@@ -1,7 +1,15 @@
-[b]Bangui[/b]
-a [region=0000] region
-
+[color=navy][b]Bangui[/b]
+[/color][color=006900]
+FACTS
 Capital and largest city in [region=Central African Republic]
 Established as a French outpost in 1889
 named after its location on the northern bank of the Ubangi River (Oubangui)
 End of the navigable river north of [region=Brazzaville]
+[b]Founded:[/b] 1889
+[b]Area:[/b] 67 km2 (26 sq mi)
+[b]Population:[/b] 734,350 (2012 estimate)
+[/color][color=olive]
+REGION
+[b]Founded:[/b] 2016 May 18
+[b]Featured:[/b] 2019 Oct 13
+an [region=Old Spirit] region[/color]

@@ -1,4 +1,5 @@
 The Armourverse is a puppet storage region.
 
 Our child regions:
+- [region]Federation of Allied States[/region]
 - [region]The Wastelands of Earth[/region]
