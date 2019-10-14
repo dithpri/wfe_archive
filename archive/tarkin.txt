@@ -15,7 +15,7 @@
 [Nation=short]Marasaw[/nation]
 [Nation=short]Technational[/nation]
 [Nation=short]Kiwannis[/nation]
-5th Seat is Vacant
+[Nation=short]Annanias[/nation]
 
 
 [color=blue][b][u]Judiciary:[/color][/b][/u]

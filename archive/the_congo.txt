@@ -1,4 +1,8 @@
 [color=navy][b]The Congo[/b]
-see [region=Republic of Congo][/color]
-[color=silver]QSA[/color]
-[color=803000]this is an [region=Old Spirit] region[/color]
+see [region=Republic of Congo]
+[/color][color=green]
+REGION
+[b]Founded:[/b] 20110323
+[b]Matrixed:[/b] 20191014[/color][color=803000]
+a [region=QSA] &amp; [region=DBA] allied region
+this is an [region=Old Spirit] region[/color]
