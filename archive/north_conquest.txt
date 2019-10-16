@@ -6,8 +6,8 @@
 [u]Regional Government[/u][/b]
 
 [b][color=blue]Executive:[/color][/b]
-  President: [nation]AmericaPt2[/nation]
-  Vice-President: [nation]Gilmore 420[/nation]
+  President: [nation]Gilmore 420[/nation]
+  Vice-President: [nation]AmericaPt2[/nation]
 [b][color=green]Legislative:[/color][/b]
   Representative: [nation]Baldsomland[/nation]
   Representative: [nation]Remeny Salv[/nation]

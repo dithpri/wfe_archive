@@ -1,1 +1,18 @@
-IC 1011 is a compact elliptical galaxy with apparent magnitude of 14.7, and with a redshift of z=0.02564 (SIMBAD) or 0.025703 (NASA), yielding a distance of 100 to 120 Megaparsecs.
+[color=navy][b]IC 1011[/b]
+aka PGC 51662
+
+Extraordinarily compact elliptical object of neutral color.
+a barred spiral galaxy located in Virgo
+the largest known galaxy in the universe
+349.5 million light years from earth
+[b]Right ascension:[/b] 14h 28m 04.563s
+[b]Declination:[/b] 01&deg; 00&amp;#8242; 22.87&amp;#8243;
+[b]Type:[/b] Sb d 
+[b]NED Type:[/b] G (Galaxy)
+[b]Red Shift/Velocity:[/b] 7706 km/s (0.025703 z)
+[b]Apparent size:[/b] 0.741&#39; x 0.427&#39; (6 million light years wide)
+[b]RefCode:[/b] 1975ByuO 47 1A
+- Byurakan Observatory 1975 vol. 47 p. 1
+- Arakelian, M. A. (ARK 451)
+the Galaxies of High Surface Brightness
+[/color]
