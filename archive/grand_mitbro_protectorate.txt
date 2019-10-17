@@ -1,12 +1,14 @@
 [b]Welcome to the Grand Mitbro Protectorate[/b]
-Founded by the might Mitbro Kerman, eternal leader of the Mitbro-Blessed Republic of Bualstown.
 
 [b]Regional Officers:[/b]
 Founder - Executive: [nation]Bualstown[/nation]
 Secretarius Scientia - Secretary of Science: [nation]Annuli[/nation]
 Secretatius Fidem - Secretrary of Religion: [nation]Hyperbolas[/nation]
+Secretarius Calumniam - Secretary of Oppression: [nation]Dyprosium[/nation]
 Secretarius Requies - Secretary of Relaxation: [nation]Bualsistan[/nation]
 Secretarius Libertas - Secretary of Freedom: [nation]Idi-Nahui[/nation]
-Secretarius Calumniam - Secretary of Oppression: [nation]Dyprosium[/nation]
 Secretarius Munditiae - Secretary of Cleanliness: [nation]Viscera Cleanup Detail[/nation]
-Secretarius Chao - Secretary of Chaos: [nation]Jurkushtan[/nation]
+Secretarius Armis - Secretary of Weaponry: [nation]Artyom Alekseyevich Chyornyj[/nation]
+Secretarius Fiscus - Secretary of Finances: [nation]Trickle-Down-Economics[/nation]
+Secretarius Mortis - Secretary of Death: [nation]Undocumented Title[/nation]
+Secretarius Misericordia - Secretary of Compassion: [nation]Retitled Undocument[/nation]
