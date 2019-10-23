@@ -13,6 +13,6 @@
 [region]URCR Soldier Barracks[/region][i] - {awaiting schedule, government established}[/i]
 [region]URCR[/region][i] - {awaiting influence gain}[/i]
 [region]Nacb[/region] - Jump point[hr][b][color=red]On Call:[/color]
-[nation]Mercenary CEO[/nation][/b] [i]- {WA available}[/i]
-[nation]Hermes Express 123[/nation] - [i]{WA Available }[/i]
+[nation]Mercenary CEO[/nation][/b] 
+[nation]Hermes Express 123[/nation]
 [nation]Jumpily[/nation][hr][i]Raiders will be contracted[/i][hr][B]Featured 11th July 2019 and 1st September 2019[/b]

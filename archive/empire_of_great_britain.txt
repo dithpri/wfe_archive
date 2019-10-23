@@ -8,7 +8,7 @@
 [hr][b][color=darkblue]HM Government[/color][/b]
 
 [b][color=black]Prime Minister[/color][/b]: [nation]Not-Brittania[/nation]
-[b][color=black]Home Secretary[/color][/b]: Vacant
+[b][color=black]Home Secretary[/color][/b]: [nation]Menorica[/nation]
 [b][color=black]Foreign Secretary[/color][/b]: [nation]Colfax County[/nation]
 [b][color=black]War Secretary[/color][/b]: [nation]Lunayria[/nation]
 

@@ -1,0 +1,12 @@
+Group for Universe centered around the cold-war style conflict between Frehei and Trabaha
+
+Sides:
+
+Democratic:
+[nation]Frehei[/nation]
+
+Communist:
+[nation]Trabaha[/nation]
+
+Neutral:
+[nation]Breniana[/nation]
