@@ -1,6 +1,6 @@
 [color=gold]This is the legislative branch for [region]The Okchi Union[/region].[/color]
 
-[color=greenblue]Welcome to the OU Parliament, consisting of the Houses of Representatives, House of Commons, and the Senate.[/color]
+[color=greenblue]Welcome to the OU Parliament, consisting of the unitary Houses of Parliament.[/color]
 
 [region]Okchi Union Supreme Court[/region] is now recruiting. Check it out!
 
@@ -11,6 +11,6 @@
 
 [u]Party Leaders[/u]
 
-[b][color=gold]Modernists (MOD)[/color][/b] : [nation]Sorrika[/nation]
-[b][color=blue]New Democrats (NDP)[/color][/b] : [nation]Ocasio-Cortez[/nation] &amp; [nation]Jikook[/nation]
-[b][color=darkred]New Republicans (NRP)[/color][/b] : [nation]Fourt Elizabeth[/nation]
+[color=179EE2][b][u]Les Partis S&eacute;paratistes Unis (USP)[/u][/b][/color] : [nation]Naiguwa[/nation]
+[color=blue][b][u]New Democratic Party (NDP)[/u][/b][/color] : [nation]Ocasio-Cortez[/nation] &amp; [nation]Jikookie[/nation]
+[b][color=FF003A]New Republicans (NRP)[/color][/b] : [nation]Fourt Elizabeth[/nation]
