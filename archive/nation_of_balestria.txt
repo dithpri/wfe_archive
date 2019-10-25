@@ -4,7 +4,7 @@ Capital: [region]Balestopia[/region]
 [hr][hr]
 
 [i][b][color=darkyellow]Motto: Unto the dawn, thy faithful.
-Wartime policies: We will never surrender , Lycan ties , Commie lies.[/color][/b][/i]
+Wartime policies: We will never surrender.[/color][/b][/i]
 
 [hr][hr]
  
@@ -44,4 +44,4 @@ You MUST not endorse the emperor and instead endorse the current president[/colo
 [hr][hr]
 
 [i][b][color=darkyellow]NOTICES:[/color][/b][/i]
-[i][b][color=blue]Wartime Conscription effort made.[/color][/b][/i]
+[i][b][color=red]ALERT: RAID QUITE POSSIBLE[/color][/b][/i]
