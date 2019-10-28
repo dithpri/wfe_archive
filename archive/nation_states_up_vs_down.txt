@@ -1,0 +1,5 @@
+NationStates Up vs. Down!
+
+Rules: Create a puppet and move it to [region=Upp] or [region=Downn]. Post here to increase or decrease the count. If you are in [region=Upp], increase it by one. If you are in [region=Downn], decrease it by one. The count starts at 0. If the count is positive, Up is winning. If the count is negative, Down is winning.
+
+The game starts as soon as embassies are created with the regions Upp and Downn.
