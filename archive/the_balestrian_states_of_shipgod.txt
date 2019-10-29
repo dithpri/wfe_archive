@@ -5,6 +5,7 @@ Official Subcurrency: $SD
 Official Subcurrency: e$
 
 Capital: [region]Balestrship[/region]
+Allies: [region]Lycan Imperium[/region]
 Wars: the War against [region]The Wolf Clan[/region] and [region]Communist Balestria[/region]
 Puppets: [region]America Empire[/region]
 Army base: [region]Base Charlie[/region]
