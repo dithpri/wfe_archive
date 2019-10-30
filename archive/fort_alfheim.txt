@@ -1,6 +1,2 @@
-NAME: FORT ALFHEIM
-MILITARY NAME: FORT X2
-RANK: COMMAND 1
-TYPE: STATION
-STATION NUMBER: X2V-XLS
-EMPEROR: CANTRA
+[b]OWNED BY:[/b] [region]Lovecraft island[/region]
+[i]Now it is military base of the greater Cthulhu Empire.[/i]
