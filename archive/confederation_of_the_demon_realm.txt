@@ -4,12 +4,10 @@
 
 [hr]
 
-[b][color=yellow]We don&#39;t officially support the World Assembly![/color][/b]
+[b][color=red]We don&#39;t officially support the World Assembly![/color][/b]
 
 [b]The Confederation is an imperial vassal possession of the Supreme Emperor of [nation]Great Redanien[/nation].[/b]
 
-[b][color=#33ff00]All Residents will recieve an discord invitation per [/color][color=darkred]telegram[/color][color=#33ff00]. The invitation is unique and can only be used once.[/color][/b]
-
 [hr]
 
-[b][color=red]Embassy requests are decided on a case-by-case basis and if we share the same ideology (dictatorship/monarchy, no democracy).[/color][/b]
+[b][color=#33ff00]Embassy requests are decided on a case-by-case basis and if we share the same ideology (dictatorship/monarchy, no democracy).[/color][/b]
