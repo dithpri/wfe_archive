@@ -1,7 +1,1 @@
-[color=navy][b]This is a newly conquered territory of [region]Nuevo Amanecer[/region][/b][/color]
-
-[color=maroon][b]This region was captured from radical socialists by le [region]Regia Marina[/region][/b][/color]
-
-[color=navy][b]Captured as part of special order [u]001[/u][/b][/color]
-
-[color=maroon][b]Saluda el Nuevo Amanecer![/b][/color]
+Under occupation of [region]Nuevo Amanecer[/region]

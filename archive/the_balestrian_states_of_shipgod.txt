@@ -4,6 +4,9 @@ Official Currency: &yen;
 Official Subcurrency: $SD
 Official Subcurrency: e$
 
+RP Year: 1910
+RP Month: February
+
 Capital: [region]Balestrship[/region]
 Allies: [region]Lycan Imperium[/region]
 Wars: the War against [region]The Wolf Clan[/region] and [region]Communist Balestria[/region]
