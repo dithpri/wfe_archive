@@ -1,10 +1,10 @@
 [b][color=brown]WELCOME TO THE SENATE OF [region]THAECIA[/region][/b][/color]
 [hr][url=https://www.nationstates.net/page=dispatch/id=1252386]LEGISLATIVE DOCKET[/url] | [url=https://www.nationstates.net/page=dispatch/id=1252388]OVERVIEW[/url] | [url=https://www.nationstates.net/page=dispatch/id=1252418]LIBRARY[/url] | [url=https://www.nationstates.net/page=dispatch/id=1272089]VOTING RECORD[/url] [hr][colour=#045fb4][b]Leadership[/b][/colour]
-[list][b][i]Senate Chairman[/i]: [nation=noflag]Paropia[/nation] ([Color=#C1175C]UNI[/color])
-[i]Deputy Chairman[/i]: [i]Vacant[/i]
+[list][b][i]Senate Chairman[/i]: [nation=noflag]NAME[/nation] ([Color=orange]PCT[/color])
+[i]Deputy Chairman[/i]: [nation=noflag]NAME[/nation] ([Color=blue]TPU[/color])
 
-[i]Senate Shadow Chairman[/i]:  [nation=noflag]Marvinton[/nation][/b] [b]([Color=blue]TPU[/color])[/b][/list]
+[i]Senate Shadow Chairman[/i]:  [nation=noflag]NAME[/nation][/b] [b]([Color=#C1175C]UNI[/color])[/b][/list]
 
-[hr][color=#ea2323]The Senate has begun proceedings in its Third Session.[/color]
+[hr][color=#ea2323]The Senate will begin shortly its proceedings in its Fourth Session.[/color]
 [hr]
 
