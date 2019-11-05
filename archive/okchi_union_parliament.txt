@@ -12,5 +12,6 @@
 [u]Party Leaders[/u]
 
 [color=179EE2][b][u]Les Partis S&eacute;paratistes Unis (USP)[/u][/b][/color] : [nation]Naiguwa[/nation]
-[color=blue][b][u]New Democratic Party (NDP)[/u][/b][/color] : [nation]Ocasio-Cortez[/nation] &amp; [nation]Jikookie[/nation]
-[b][color=FF003A]New Republicans (NRP)[/color][/b] : [nation]Fourt Elizabeth[/nation]
+[color=blue][b][u]New Democrats (NDP)[/u][/b][/color] : [nation]Ocasio-Cortez[/nation] &amp; [nation]Jikookie[/nation]
+[b][color=FF003A][u]New Republicans (NRP)[/u][/color][/b] : [nation]Fourt Elizabeth[/nation]
+[b][color=darkgreen][u]Progressive-Conservatives (PCP)[/u][/color][/b] : [nation]Zobertenia[/nation]

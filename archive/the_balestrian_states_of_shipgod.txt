@@ -5,11 +5,11 @@ Official Subcurrency: $SD
 Official Subcurrency: e$
 
 RP Year: 1910
-RP Month: April
+RP Month: May
 
 Capital: [region]Balestrship[/region]
 Allies: [region]Lycan Imperium[/region]
-Wars: the War against [region]The Wolf Clan[/region] and [region]Communist Balestria[/region]
+Wars: the War against [region]Communist Balestria[/region]
 Puppets: [region]America Empire[/region]
 Army base: [region]Base Charlie[/region]
 Economic Zone: [region]Venz Street Economic Zone[/region]
