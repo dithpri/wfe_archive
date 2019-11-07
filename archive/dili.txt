@@ -1,4 +1,2 @@
-[b]Dili[/b]
-a [region=0000] region
-
-The Capital City of [region=Timor Leste]
+[color=navy][b]Dili[/b]
+The Capital City of [region=Timor Leste][/color]

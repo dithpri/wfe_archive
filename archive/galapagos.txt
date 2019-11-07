@@ -2,4 +2,4 @@
 a [region=0000] region
 a puppet staging region
 
-In association with:  [region=Double Funky 7], [region=Ancient Lands], [region=Ecuador], [region=Paraguay], and [region=United States of America]
+In association with:  [region=Double Funky 7], [region=Ancient Lands], [region=Ecuador], [region=Angola], and [region=United States of America]

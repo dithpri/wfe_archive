@@ -6,8 +6,8 @@ Capital: Riskivilization City
 
 National Animal: Yellow Labrador Retriever
 
-Official Languages: English, French, German, Danish, Norwegian, Swedish, Finnish, Icelandic, Klingon, Vulcan, Italian, Latin, Irish
+Official Languages: English, French, German, Danish, Norwegian, Swedish, Finnish, Icelandic, Klingon, Vulcan, Italian, Latin, Irish, Ygyde, Dutch
 
-Official Numerical Bases: Binary, Decimal, Dozenal
+Official Numerical Bases: Binary, Seximal, Decimal, Dozenal, Hexadecimal, Niftimal
 
 National Anthem: Ode to Joy 
