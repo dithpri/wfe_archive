@@ -1,4 +1,4 @@
-[color=blue][b][i]The Galactic Triumvirate[/i][/b][/color]
+[color=blue][b][i]THE GALACTIC TRIUMVIRATE[/i][/b][/color]
 _____________________________________________________________________
 [i]&quot;Representing the interests of the Jedi, the Alliance, and the Fel Empire, respectively.&quot;[/i]
                  
@@ -6,3 +6,5 @@ _____________________________________________________________________
 [i][nation]The Galactic Federation Triumvirate[/nation][/i]
 [color=maroon][i][b]Ruling Monarch[/b][/i][/color]
 [i][nation]The Fel New Imperium[/nation][/i]
+[color=green][i][b]Special Forces/Religious Body[/b][/i][/color]
+[i][nation]The Ossus New Jedi Order[/nation][/i]

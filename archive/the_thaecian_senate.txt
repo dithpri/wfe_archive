@@ -3,7 +3,8 @@
 [list][b][i]Senate Chairman[/i]: [nation=noflag]The Bigtopia[/nation] ([Color=orange]PCT[/color])
 [i]Deputy Chairman[/i]: [nation=noflag]Antenion[/nation] ([Color=blue]TPU[/color])
 [i]Deputy Chairman[/i]: [nation=noflag]Cydoni[/nation] ([Color=gray]ALT[/color])
-[i]Senate Shadow Chairman[/i]:  [nation=noflag]The Islamic Country of Honour[/nation][/b] [b]([Color=#C1175C]UNI[/color])[/b][/list]
+[i]Senate Shadow Chairman[/i]:  [nation=noflag]The Islamic Country of Honour[/nation][/b] [b]([Color=#C1175C]UNI[/color])[/b]
+[b][i]Deputy Shadow Chairman[/i]:  [nation=noflag]ASEAN Nations[/nation]([Color=red]TAP[/color])[/b][/list]
 
 [hr][color=#ea2323]The Senate has begun its proceedings in its Fourth Session.[/color]
 [hr]
