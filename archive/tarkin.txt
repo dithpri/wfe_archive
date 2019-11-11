@@ -8,12 +8,12 @@
 
  [b][u][color=black]Executive:[/color][/u][/b]
 [i]General Secretary[/i]: [nation=short]Learned Hands[/nation]
-[i]Vice Secretary: [/i][nation=short]New Delgado[/nation]
+[i]Vice Secretary: [/i][nation=short]Northwest South Williamsland[/nation]
 
 [color=maroon][b][u]Senate:[/u][/b][/color]
 [Nation=short]Carinth[/nation]
 [Nation=short]Marasaw[/nation]
-[Nation=short]Northwest South Williamsland[/nation]
+[I]SEAT VACANT[/i]
 [Nation=short]Kiwannis[/nation]
 [Nation=short]Annanias[/nation]
 

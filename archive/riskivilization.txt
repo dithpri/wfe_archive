@@ -8,6 +8,8 @@ National Animal: Yellow Labrador Retriever
 
 Official Languages: English, French, German, Swedish, Norwegian, Danish, Dutch, Latin, Irish, Italian, Icelandic, Spanish, Welsh, Scots, Faroese, Finnish, Klingon, Vulcan,
 
-Official Numerical Bases: Binary, Seximal, Decimal, Dozenal, Hexadecimal, Niftimal
+Official Numerical Bases: Binary, Seximal, Decimal, Dozenal, Hexadecimal, Niftimal,
 
 National Anthem: Ode to Joy 
+
+Official Map Protections: Euler Spiral, Peirce Quincuncial, Eckert IV, Equirectangular 
