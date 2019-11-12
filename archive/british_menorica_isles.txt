@@ -4,16 +4,16 @@
 [hr]
 
 [b][u]Royal Government:[/b][/u]
-[i]Constitutional Monarchy[/i]
+[i]Islandic Monarchy[/i]
 
-Monarch: HIM [nation]Her Majesty Queen Victoria[/nation]
+Monarch: HIM His Majesty Emperor [nation]Saint Arsenio[/nation]
 Prince-Consort: N/A
-Prince of Wales: HRH [nation]Saint Arsenio[/nation]
+Prince of Wales: N/A
 
 [hr]
 
-[u][b]Colonial Government:[/b][/u]
-[i]Federation[/i]
+[u][b]Provincial Government:[/b][/u]
+[i]Federation, Parliamentary Democracy[/i]
 
 Regional Governor: [nation]Promovian Islands[/nation]
 Colonial Prime Minister: William Bell
@@ -23,7 +23,7 @@ Home Secretary: [nation]Canopa Islands[/nation]
 
 [hr]
 
-[b]Representatives For Her Majesty Queen Victoria:[/b]
+[b]Representatives For His Majesty Emperor Saint Arsenio:[/b]
 Governor-General: Robert Smith | [b][region]Empire of Great Britain[/region][/b]&#39;s Home Secretary: [nation]Menorica[/nation]
 
 [hr]
