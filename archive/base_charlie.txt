@@ -6,7 +6,7 @@ General:
 Brigadier general:
 Colonel:
 Captain:
-Lieutenant:
+Lieutenant:[nation]Hermes Express 123[/nation]
 Sergeant:
 Private 1st class:
 Private In-Training:

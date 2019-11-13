@@ -7,4 +7,10 @@
 
 
 [color=blue] Regional Threat Level: [/color] [color=green][b]Low[/b][/color]
+[hr]
+[color=gold][b]Your Parliament[/b][/color]
 
+[nation]Kitle Jel[/nation]
+[nation]Brunswick South[/nation]
+[nation]Ducist[/nation]
+[nation]The Reformed Remnants[/nation]
