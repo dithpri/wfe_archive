@@ -8,5 +8,5 @@ Endorce WA delegate [nation]Foreignaid[/nation].
 
 
 The R.E.R.A. (Reminated Euromean Republic Alliance) is the largest military alliance in the game.
-The R.E.R.A. is anti-fascist, but we are merciful to those who surrender or change their ways.
+The R.E.R.A. is anti-fascist.
 talk to [nation]Reminated Republic[/nation] for R.E.R.A. stuff.

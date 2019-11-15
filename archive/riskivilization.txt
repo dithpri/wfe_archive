@@ -12,4 +12,4 @@ Official Numerical Bases: Binary, Seximal, Decimal, Dozenal, Hexadecimal, Niftim
 
 National Anthem: Ode to Joy 
 
-Official Map Protections: Euler Spiral, Peirce Quincuncial, Eckert IV, Equirectangular 
+Official Map Protections: Euler Spiral, Peirce Quincuncial, Eckert IV, 

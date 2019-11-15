@@ -4,7 +4,7 @@ Commander in Chief of the Balestrian Armed Forces: [nation]Zakhaev Illokoviev[/n
 General of the Army: [nation]Balestrian Army[/nation]
 General: 
 Brigadier general:
-Colonel:
+Colonel:[nation]Lukerica[/nation]
 Captain:
 Lieutenant:[nation]Hermes Express 123[/nation]
 Sergeant:
