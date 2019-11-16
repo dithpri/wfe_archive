@@ -7,7 +7,7 @@ Brigadier general:
 Colonel:[nation]Lukerica[/nation]
 Captain:
 Lieutenant:[nation]Hermes Express 123[/nation]
-Sergeant:
+Sergeant:[nation]Massimolandia[/nation]
 Private 1st class:
 Private In-Training:
 
