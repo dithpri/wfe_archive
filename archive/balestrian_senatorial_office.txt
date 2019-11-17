@@ -4,7 +4,7 @@ Needing states:
 [region]Matryoshka[/region]
 [region]Berlin Deutsher[/region]
 [region]Shinkan[/region]
-Los Giatte
+[region]Los Giatte[/region]
 
 Needing state groups
 Europa
