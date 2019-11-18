@@ -1,15 +1,9 @@
 This office is used for senators , Premiers , and Puppet Leaders of The Balestrian States Of Shipgod. The Senators control the State directly , The premiers own a group of states , and the Puppet Leaders lead their own puppet nations.
 
-Needing states:
-[region]Matryoshka[/region]
-[region]Berlin Deutsher[/region]
-[region]Shinkan[/region]
-[region]Los Giatte[/region]
 
 Needing state groups
 Europa
 Asia Nuevo
 
 Need Representatives from puppet regions:
-[region]America Empire[/region]
 [region]The World Empire Union[/region]

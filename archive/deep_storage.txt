@@ -1,4 +1,4 @@
-Deep Storage is a storage centre/region  for Puppets, feel free to come here and store and your puppets, all nations are welcome! Organized kind of (not really at all) like an corporation.
+Deep Storage is a storage centre/region  for Puppets, feel free to come here and store and your puppets. All nations are welcome! We are proud to have a government and a representative voted by the people.
 
 [PS Please  read the rules when you join  also note, that the citizens and staff aren&#146;t very active]
 
@@ -19,21 +19,20 @@ We are an [region]ISNA[/region] member region
 2.
 3.
 
-/model citizens\
+[b]model[/b] [b]citizens[/b]
 
 [nation]Ruritane[/nation]
 [nation]New Dambi[/nation]
 
-/Achievements\
+[b]Achievements[/b]
 :We got featured
 
 
 we killed all the zombies on Z day
+In our region.
 
-/announcements\
 
-
-/bad citizens*\
+[b]bad[/b] [b]citizens*[/b]
 [nation]Anime Cat Cirl[/nation] 
 
 *pls note its only a joke (well kind of)
