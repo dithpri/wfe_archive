@@ -13,7 +13,7 @@
 [color=maroon][b][u]Senate:[/u][/b][/color]
 [Nation=short]Carinth[/nation]
 [Nation=short]Marasaw[/nation]
-[I]SEAT VACANT[/i]
+[Nation=short]Melodick[/nation]
 [Nation=short]Kiwannis[/nation]
 [Nation=short]Annanias[/nation]
 
