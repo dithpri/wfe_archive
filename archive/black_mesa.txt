@@ -1,3 +1,5 @@
-[Color=red][b]This region WAS ruled by the [region]New Yellow Empire[/region] but now it is ruled by [region]Raxulan Empire[/region].
+[Color=red][b]This region WAS ruled by the [region]New Yellow Empire[/region] but was captured by [region]Raxulan Empire[/region].
 
-[/color][color=orange]Now passed to [region]Warzone Europe[/region][/b][/color]
+[/color][color=orange]Now a colony of [region]Warzone Europe[/region][/b][/color]
+
+Warzone European discord: https://discord.gg/eQqDTE6

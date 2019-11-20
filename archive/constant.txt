@@ -1,0 +1,7 @@
+Constant is a &#39;Constant Region&#39;, meaning it never changes -- except for what the game automatically changes. Everything else remains the same. No entrance, no exit, all nations here reside here until the end of the region. This applies to the nations as well. Changes will only occur when forced to do so by the game, which will be noted here, in the WFE.
+
+The Constant nature of this region is so that automated tools can use this region as a testing region, to ensure that it works, and that everything is set properly. 
+
+Current Custodian: Chanku
+
+Currently the region is changing and being setup, this will be replaced with the date that the region was declared complete.

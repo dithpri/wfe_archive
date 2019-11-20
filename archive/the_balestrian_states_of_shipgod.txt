@@ -15,8 +15,8 @@ Puppets: [region]The World Empire Union[/region] , [region]America Empire[/regio
 Independence day: June 1
 Merge day: October 26.
 
-DEFCON LEVEL- 1
-No one is allowed to leave for 1 week EXCEPT for Military personnel.
+DEFCON LEVEL- 0.5
+BALEALERT: KAISER HAS BEEN HACKED. STAY INSIDE REGION UNTIL THE BALEALERT IS OVER
 
 WE HOPE YOU ENJOY YOUR TIME HERE!
 
