@@ -15,8 +15,8 @@ Puppets: [region]The World Empire Union[/region] , [region]America Empire[/regio
 Independence day: June 1
 Merge day: October 26.
 
-DEFCON LEVEL- 0.5
-BALEALERT: KAISER HAS BEEN HACKED. STAY INSIDE REGION UNTIL THE BALEALERT IS OVER
+DEFCON LEVEL- 0.1
+BAlSHIP Alert: KAISER HAS BEEN HACKED. STAY INSIDE REGION UNTIL THE BALSHIP ALERT IS OVER
 
 WE HOPE YOU ENJOY YOUR TIME HERE!
 
@@ -27,4 +27,4 @@ Want an embassy? Just send a request!
 If there&#39;s an invader who is spamming Please ping  [nation]Solitude Yamstan[/nation]
 
 NOTICES:
-Welcome to our new home
+Welcome to your new home
