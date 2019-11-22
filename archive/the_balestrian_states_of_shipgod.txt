@@ -5,7 +5,7 @@ Motto: Unto the dawn, thy faithful.
 Wartime policies: We will never surrender.
 
 Allies:
-[region]Lycan Imperium[/region]
+[region]Lycan Imperium[/region], [region]ISUS[/region]
 War(s): War against [region]Communist Balestria[/region]
 War against [region]Imperial War Invaders[/region]
 
@@ -15,8 +15,9 @@ Puppets: [region]The World Empire Union[/region] , [region]America Empire[/regio
 Independence day: June 1
 Merge day: October 26.
 
-DEFCON LEVEL- 0.1
-BAlSHIP Alert: KAISER HAS BEEN HACKED. STAY INSIDE REGION UNTIL THE BALSHIP ALERT IS OVER
+DEFCON LEVEL- 2
+It&#39;s still wartime so we are having our military try and one up them.
+
 
 WE HOPE YOU ENJOY YOUR TIME HERE!
 

@@ -18,6 +18,6 @@
 [color=blue][B]Regional News:[/B][/color] 
 [nation]Sowlina[/nation] wins the Senate Elections by default!
 
-Regional Alert Level: DEFCON 3
+Regional Alert Level: DEFCON 5
 
-Code: [color=red]Red[/color]
+Code: N/A
