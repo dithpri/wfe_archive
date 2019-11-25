@@ -1,21 +1,22 @@
-Welcome to The Militaristic Empire of  the Balestria States
-Capital:[region]Balestrship[/region]
+Welcome to The Imperial Militaristic Kingdom of  the Balestrian States of Shipgod
+Capital:none
 
 Motto: Unto the dawn, thy faithful.
 Wartime policies: We will never surrender.
 
 Allies:
 [region]Lycan Imperium[/region], [region]ISUS[/region]
-War(s): War against [region]Communist Balestria[/region]
-War against [region]Imperial War Invaders[/region]
+War(s): War against [region]Imperial War Invaders[/region]
 
-Government owned places: [region]Balestrian Senatorial Office[/region] 
+Government owned places: [region]Balestrian Senatorial Office[/region], [region]Base Baleship[/region], [region]Lukerikhan Sahara Outpost[/region]
+
+Puppet:[region]America Empire[/region]
 
 
 Independence day: June 1
 Merge day: October 26.
 
-DEFCON LEVEL- 2
+DEFCON LEVEL- 3
 It&#39;s still wartime so we are having our military try and one up them.
 
 
