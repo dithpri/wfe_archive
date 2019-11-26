@@ -4,7 +4,7 @@ Ruled by Kaiser [nation]The Empire of Balestria[/nation]
 [hr][hr]
 
 [i][b][color=darkyellow]Motto: Alle gr&ouml;&szlig;en den Deutschen und das Reich!
-Wartime policies: We will never surrender.[/color][/b][/i]
+Wartime policies: Unser Kaiserreich wird niemals einem Milit&auml;r zum Opfer fallen.[/color][/b][/i]
 
 [hr][hr]
  
@@ -13,7 +13,7 @@ Wartime policies: We will never surrender.[/color][/b][/i]
 [i][b][color=darkyellow][region]Lycan Imperium[/region].[/color][/b][/i]
 [i][b][color=Gray]War(s):
 The [region]Communist Balestria[/region]-Balestrian war.[/color][/b][/i] 
-Merge regions: [region]The Balestrian States of Shipgod[/region]
+Merge regions: none
 
 [hr][hr]
 
@@ -44,4 +44,5 @@ The Federal currency of Balestria is the Reichsmark (RM)[/color][/b][/i]
 [hr][hr]
 
 [i][b][color=darkyellow]NOTICES:[/color][/b][/i]
-[i][b]welcome back.[/b][/i]
+[i][b]welcome back.
+THE KAISRREICH HAVE ISSUED AN EMERGENCY THREAT IN THE REGION. ALL MILITARY PERSONNEL ON HIGH ALERT[/b][/i]
