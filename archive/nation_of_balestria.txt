@@ -1,12 +1,18 @@
 [b]Welcome to the 2nd Reich of  [region]Nation of Balestria[/region]
 Independence day: June 21
+Peace Eve and peace day: Nov 30 and Dec 1
 [color=900000][i]Unto the dawn, thy faithful![/i][/color][hr][url=https://www.youtube.com/watch?v=8bdz6tEf1-A&amp;list=RD8bdz6tEf1-A&amp;start_radio=16]Deutsches Kaiserreich[/url]
+[url=https://www.youtube.com/watch?v=iXu-99lKQnY] Balestrian Military March and War Song[/url]
 [hr][color=#900000]Kaiser[/color] [nation=short]The Empire of Balestria[/nation]
-	[color=#900000]Chancellor[/color] [nation=short]Massimolandia[/nation][hr][color=#900000]Security Status:[/color] DEFCON 4
+	[color=#900000]Chancellor[/color] [nation=short]Massimolandia[/nation][hr]
+GDP: RM
+Debt: RM[hr]
+[color=#900000]Security Status:[/color] DEFCON 4
 [color=900000]Wars:[/color] The Great War
 [color=900000]Allies:[/color] [region]Lycan Imperium[/region]
 
 [i]WE HOPE YOU ENJOY YOUR TIME HERE
 [/i]Want an embassy? Just send a request
 
-Official Restaurant: [region]Yipmens Donut Shop[/region][/b]
+Official Restaurant: [region]Yipmens Donut Shop[/region]
+Military Base: [region]Fortress of Mimoyecques[/region][/b]
