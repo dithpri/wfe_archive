@@ -16,4 +16,4 @@
 [nation]Mundane[/nation]
 [nation]Cantanasia[/nation]
 [b][i][u]News[/u][/i][/b]
-[b][i][color=red]No General News - National Emergency Issued Because Of The Regions Inactivity[/color][/i][/b]
+[b][i][color=red]No General News - National Emergency Not Issued[/color][/i][/b]
