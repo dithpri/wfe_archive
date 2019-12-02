@@ -1,5 +1,1 @@
-[hr] &nbsp; &nbsp; &nbsp;[b]!!![/b] [color=#E87600][b]ALERT[/b][/color] [b]!!![/b] [color=#E87600][b]ALERT[/b][/color] [b]!!![/b] [color=#E87600][b]ALERT[/b][/color] [b]!!![/b] [color=#E87600][b]ALERT[/b][/color] [b]!!![/b] [color=#E87600][b]ALERT[/b][/color] [b]!!![/b] [color=#E87600][b]ALERT[/b][/color] [b]!!![/b] [color=#E87600][b]ALERT[/b][/color] [b]!!![/b][hr] &nbsp; &nbsp; &nbsp;[i]Attention all denizens of Razulica![/i]
- &nbsp; &nbsp; &nbsp;[i]This region has recently executed a [b]mandatory quarantine.[/b][/i]
- &nbsp; &nbsp; &nbsp;[i]By order of the [color=#E87600][b]GLOBAL EMERGENCY CONSERVATION AND CONTAINMENT ORGANIZATION[/b][/color], entry and exit is prohibited.[/i]
- &nbsp; &nbsp; &nbsp;[i]All violators of [b]GECCO Quarantine Mandate Protocols[/b] will be pursued and properly contained.[/i]
- &nbsp; &nbsp; &nbsp;[i]Please stay indoors and await further instruction.[/i][hr] &nbsp; &nbsp; &nbsp;[b]!!![/b] [color=#E87600][b]ALERT[/b][/color] [b]!!![/b] [color=#E87600][b]ALERT[/b][/color] [b]!!![/b] [color=#E87600][b]ALERT[/b][/color] [b]!!![/b] [color=#E87600][b]ALERT[/b][/color] [b]!!![/b] [color=#E87600][b]ALERT[/b][/color] [b]!!![/b] [color=#E87600][b]ALERT[/b][/color] [b]!!![/b] [color=#E87600][b]ALERT[/b][/color] [b]!!![/b][hr]
+#Memory
