@@ -19,6 +19,6 @@ If Not Endorsing President: 2
 [nation]Sowlina[/nation] wins the Senate Elections by default!
 But then [nation]Sowlina[/nation] resigns.... life sometimes takes weird turns
 
-Regional Alert Level: DEFCON 5
+Regional Alert Level: DEFCON 3
 
-Code: N/A
+Code: [color=Purple]Purple[/color]
