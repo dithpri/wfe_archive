@@ -1,4 +1,4 @@
-[b][color=blue]Regina[/color] [color=darkred](RG)[/color][/b] is a multi-player ROLEPLAY region set in a 20th Century world environment.
+[b][color=mediumblue]Regina[/color] [color=darkred](RG)[/color][/b] is a multi-player ROLEPLAY region set in a fictional, non-Earth setting containing modernizing kingdoms akin to Medieval Europe.
 
 [hr]
 
@@ -6,8 +6,8 @@
 
 [hr]
 
-[b][u]DIRECTORIES[/u]: - [region]Global Companies[/region] | [region]Units and Objects[/region][/b]
+[b][u]DIRECTORIES[/u]: - [region]Natural Resources[/region] | [region]Global Companies[/region] | [region]Units and Objects[/region][/b]
 
 [hr]
 
-[b][u]STORY REGIONS[/u]: - [region]TransPacific[/region] | [region]American Union[/region] | [region]TransAtlantic[/region] | [region]Euroba[/region] | [region]Mithica[/region] | [color=blue]Regina[/color] ||| [region]World Archive[/region][/b]
+[b][u]ROLEPLAY REGIONS[/u]: - [region]American Union[/region] | [region]Euroba[/region] | [region]Mithica[/region] | [u][color=mediumblue]Regina[/color][/u] ||| [region]World Archive[/region][/b]

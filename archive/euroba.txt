@@ -1,4 +1,4 @@
-[b][color=blue]Euroba[/color] [color=darkred](EU)[/color][/b] is a multi-player ROLEPLAY region set in a 20th Century world environment.
+[b][color=mediumblue]Euroba[/color] [color=darkred](EU)[/color][/b] is a multi-player ROLEPLAY region set in a fictional, non-Earth setting containing nations similar to 20th century Europe.
 
 [hr]
 
@@ -6,8 +6,8 @@
 
 [hr]
 
-[b][u]DIRECTORIES[/u]: - [region]Global Companies[/region] | [region]Units and Objects[/region][/b]
+[b][u]DIRECTORIES[/u]: - [region]Natural Resources[/region] | [region]Global Companies[/region] | [region]Units and Objects[/region][/b]
 
 [hr]
 
-[b][u]STORY REGIONS[/u]: - [region]TransPacific[/region] | [region]American Union[/region] | [region]TransAtlantic[/region] | [color=blue]Euroba[/color] | [region]Mithica[/region] | [region]Regina[/region] ||| [region]World Archive[/region][/b]
+[b][u]ROLEPLAY REGIONS[/u]: - [region]American Union[/region] | [u][color=mediumblue]Euroba[/color][/u] | [region]Mithica[/region] | [region]Regina[/region] ||| [region]World Archive[/region][/b]

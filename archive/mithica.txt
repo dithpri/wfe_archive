@@ -1,4 +1,4 @@
-[b][color=blue]Mithica[/color] [color=darkred](MT)[/color][/b] is a multi-player ROLEPLAY region set in a 20th Century world environment.
+[b][color=mediumblue]Mithica[/color] [color=darkred](MT)[/color][/b] is a multi-player ROLEPLAY region set in a fictional, non-Earth setting containing modernizing republics akin to Ancient Rome and Greece.
 
 [hr]
 
@@ -6,8 +6,8 @@
 
 [hr]
 
-[b][u]DIRECTORIES[/u]: - [region]Global Companies[/region] | [region]Units and Objects[/region][/b]
+[b][u]DIRECTORIES[/u]: - [region]Natural Resources[/region] | [region]Global Companies[/region] | [region]Units and Objects[/region][/b]
 
 [hr]
 
-[b][u]STORY REGIONS[/u]: - [region]TransPacific[/region] | [region]American Union[/region] | [region]TransAtlantic[/region] | [region]Euroba[/region] | [color=blue]Mithica[/color] | [region]Regina[/region] ||| [region]World Archive[/region][/b]
+[b][u]ROLEPLAY REGIONS[/u]: - [region]American Union[/region] | [region]Euroba[/region] | [u][color=mediumblue]Mithica[/color][/u] | [region]Regina[/region] ||| [region]World Archive[/region][/b]

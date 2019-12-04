@@ -1,4 +1,4 @@
-The [b][color=blue]American Union[/color] [color=darkred](AU)[/color][/b] is a multi-player ROLEPLAY region set in a 20th Century world environment.
+The [b][color=mediumblue]American Union[/color] [color=darkred](AU)[/color][/b] is a multi-player ROLEPLAY region set in a fictional, non-Earth setting containing nations born of the 20th century .
 
 [hr]
 
@@ -6,8 +6,8 @@ The [b][color=blue]American Union[/color] [color=darkred](AU)[/color][/b] is a m
 
 [hr]
 
-[b][u]DIRECTORIES[/u]: - [region]Global Companies[/region] | [region]Units and Objects[/region][/b]
+[b][u]DIRECTORIES[/u]: - [region]Natural Resources[/region] | [region]Global Companies[/region] | [region]Units and Objects[/region][/b]
 
 [hr]
 
-[b][u]STORY REGIONS[/u]: - [region]TransPacific[/region] | [color=blue]American Union[/color] | [region]TransAtlantic[/region] | [region]Euroba[/region] | [region]Mithica[/region] | [region]Regina[/region] ||| [region]World Archive[/region][/b]
+[b][u]ROLEPLAY REGIONS[/u]: - [u][color=mediumblue]American Union[/color][/u] | [region]Euroba[/region] | [region]Mithica[/region] | [region]Regina[/region] ||| [region]World Archive[/region][/b]
