@@ -1,0 +1,22 @@
+[b]Shipgod States[/b] is a collection of empires in space. The region was name after the God of ship. Today we hail god for form this region and the nation of Shipgod 
+
+President:[nation]Shipgod[/nation]
+Chancellor: [nation]Shipgod Puppet State[/nation]
+
+Money: Ship Dollars
+
+States: none
+Puppets: [region]America Empire[/region], [region]The Balestrian States of Shipgod[/region]
+colonies:none
+Military Bases: [region]Base Charlie[/region], [region]Base Deareqa[/region], [region]Fort Bragg[/region]
+
+Allies: [region]Nation of Balestria[/region]
+Wars: None
+
+News
+Expanding military
+
+War News
+none
+
+ 
