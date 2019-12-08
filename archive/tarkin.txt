@@ -2,27 +2,27 @@
 [color=gold] [b]Legatum Vivit[/b][i][/i][/color]
 [color=maroon][b]Founded on September 18th 2018[/b][/color]
 
-[b]| [url=https://www.nationstates.net/nation=tarkin/detail=factbook/id=main]Regional Constitution[/url] | [url=https://i.imgur.com/UlcQf9I.png]Regional Map[/url] | [url=https://i.imgur.com/qcpf0ZX.png]Physical Map[/url] |  [url=https://www.maptoglobe.com/rJsJIKgSH]Political Globe[/url] | [url=https://imgur.com/4gL0s28]Organization Chart[/url][/b]
+[b]| [url=https://www.nationstates.net/nation=tarkin/detail=factbook/id=main]Regional Constitution[/url] | [url=https://i.imgur.com/UlcQf9I.png]Regional Map[/url] | [url=https://i.imgur.com/qcpf0ZX.png]Physical Map[/url] |  [url=https://www.maptoglobe.com/rJsJIKgSH]Political Globe[/url]
 
- [b][u][color=black]Secretariat:[/color][/u][/b]
+[u][color=black]Secretariat:[/color][/u][/b]
 [i]General Secretary[/i]: [nation=short]Debsany[/nation]
-[i]Vice Secretary: [/i][nation=short]Vacant[/nation]
-[i]Under-Secretary for Regional Operations:[/i] [nation=short]Vacant[/nation]
-[i]Under-Secretaty for Interregional Operations:[/i] [nation=short]Vacant[/nation]
-[i]Under-Secretary for Regional Communications:[/i] [nation=short]Vacant[/nation]
+[i]Vice Secretary[/i]: [nation=short]CamerWoon[/nation]
+[i]Undersecretary for Regional Integration:[/i] [nation=short]Flaxxony[/nation]
+[i]Undersecretaty for Interregional Relations:[/i] [nation=short]Esseau[/nation]
+[i]Undersecretary for Legal Affairs:[/i] [nation=short]Vanadium-Tungsten[/nation]
 
 [color=maroon][b][u]Senate:[/u][/b][/color]
 [Nation=short]Carinth[/nation]
 [Nation=short]Marasaw[/nation]
 [Nation=short]Kiwannis[/nation]
 [Nation=short]Annanias[/nation]
-[Nation=short]Vacant[/nation]
+Vacant
 
 [color=blue][b][u]Court of Justice:[/color][/b][/u]
 [i]Chief Justice:[/i] [nation=short]Northwest South Williamsland[/nation]
 [i]Associate Justice:[/i] [nation=short]Learned Hands[/nation]
 [i]Associate Justice:[/i] [nation=short]Melodick[/nation]
 
-[b]ROLEPLAY | [/b]Tarkin is set in the [b]Post-War Period (1945-1969)[/b] for technology.
+[b]ROLEPLAY | [/b]Tarkin is set in the [b]Interwar Period (1919-1941)[/b] for technology.
 
 [b] MAP | Consult the Physical Map above and the Map Claims dispatch below to find an unclaimed territory.[/b]
