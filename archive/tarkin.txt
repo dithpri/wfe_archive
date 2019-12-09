@@ -16,7 +16,7 @@
 [Nation=short]Marasaw[/nation]
 [Nation=short]Kiwannis[/nation]
 [Nation=short]Annanias[/nation]
-Vacant
+[Nation=short]Cojasca[/nation]
 
 [color=blue][b][u]Court of Justice:[/color][/b][/u]
 [i]Chief Justice:[/i] [nation=short]Northwest South Williamsland[/nation]
