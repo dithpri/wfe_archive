@@ -1,6 +1,1 @@
-Where [nation=noflag]seagull[/nation]&#39;s alter ego is stored
-
-Animals around the world:
-[nation]seagull[/nation] - [region]Forest[/region]
-[nation]swallow[/nation] - [region]Conifer[/region]
-[nation]narwhal[/nation] - [region]The North Pacific[/region]
+Zoo is zoo.
