@@ -1,5 +1,5 @@
-111[color=white]000[/color]111[color=white]000[/color]111111111[color=white]000[/color]111[color=white]000[/color]111
-111[color=white]000[/color]111[color=white]000[/color]111[color=white]000[/color]111[color=white]000[/color]111[color=white]000[/color]111
-111111111[color=white]000[/color]111[color=white]000[/color]111[color=white]000[/color]111111111
-[color=white]000000[/color]111[color=white]000[/color]111[color=white]000[/color]111[color=white]000000000[/color]111
-[color=white]000000[/color]111[color=white]000[/color]111111111[color=white]000000000[/color]111
+[b][u]111[/u][color=white]000[/color][u]111[/u][color=white]000[/color][u]111111111[/u][color=white]000[/color][u]111[/u][color=white]000[/color][u]111[/u]
+[u]111[/u][color=white]000[/color][u]111[/u][color=white]000[/color][u]111[/u][color=white]000[/color][u]111[/u][color=white]000[/color][u]111[/u][color=white]000[/color][u]111[/u]
+[u]111111111[/u][color=white]000[/color][u]111[/u][color=white]000[/color][u]111[/u][color=white]000[/color][u]111111111[/u]
+[color=white]000000[/color][u]111[/u][color=white]000[/color][u]111[/u][color=white]000[/color][u]111[/u][color=white]000000000[/color][u]111[/u]
+[color=white]000000[/color][u]111[/u][color=white]000[/color][u]111111111[/u][color=white]000000000[/color][u]111[/u][/b]
