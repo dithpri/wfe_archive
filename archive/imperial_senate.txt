@@ -7,7 +7,6 @@
 
 [list]
 
-[i]Deputy Chancellor[/i]: [i][nation=noflag]New Suternia[/nation] ([color=#591C1C]NBP[/color])[/i]
 [/list]
 
 [b][i]Shadow Chancellor[/i]: [nation=noflag]Dependants[/nation] ([color=#2089d4]DEM[/color])[/b]
