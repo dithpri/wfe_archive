@@ -1,6 +1,6 @@
-Welcome to the Arab Empire. Sultan is [nation]Balestrian Arabia[/nation] and we will be great for a long time. Help Arabia be free.
+Welcome to the Imperial Arab Empire a [region]Imperial War Invaders[/region] puppet. The governor is [nation]UPC Balestria[/nation] and we will be great for a long time.
 
-Neighbors: [region]Shipgodian Empire[/region], [region]Nation of Balestria[/region]
-Allies: [region]Nation of Balestria[/region]
-Enemies: [region]Imperial War Invaders[/region]
-Wars: WW2, Arab Theater
+Neighbors: [region]Shipgodian Empire[/region]
+Allies:[region]Imperial War Invaders[/region]
+Enemies: None
+Wars: none
