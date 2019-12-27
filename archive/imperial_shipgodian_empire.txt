@@ -14,7 +14,7 @@ colonies:[region]Shipgod North America[/region], [region]Shipgod Germany[/region
 Military Bases: [region]Base Charlie[/region], [region]Base Deareqa[/region], [region]Fort Bragg[/region]
 
 Allies: [region]America Empire[/region], [region]The Balestrian States of Shipgod[/region]
-Wars: Shipgod-Balestrian Secession War
+Wars: None
 
 News
 Expanding military, researches in progress 
