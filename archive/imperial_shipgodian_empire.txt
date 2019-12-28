@@ -13,7 +13,7 @@ Puppets: [region]America Empire[/region], [region]The Balestrian States of Shipg
 colonies:[region]Shipgod North America[/region], [region]Shipgod Germany[/region] 
 Military Bases: [region]Base Charlie[/region], [region]Base Deareqa[/region], [region]Fort Bragg[/region]
 
-Allies: [region]America Empire[/region], [region]The Balestrian States of Shipgod[/region]
+Allies: [region]America Empire[/region], [region]The Balestrian States of Shipgod[/region],[region]Imperial War Invaders[/region]
 Wars: None
 
 News

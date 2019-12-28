@@ -1,1 +1,3 @@
 Puppet Storage
+
+Accepts all embassy requests.
