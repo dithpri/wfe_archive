@@ -1,5 +1,4 @@
 Means &quot;Our Very Large Land&quot;
-Aovelale is a welfare state, eco-friendly, relatively rich, peaceful, safe, beautiful place.
 Consists
 [nation]Perada Confederation[/nation]
 [nation]Gretebisland[/nation]
@@ -11,15 +10,14 @@ Consists
 [nation]Nyokun[/nation]
 [nation]Prasna[/nation]
 [nation]Plekti[/nation]
-[nation]Alagretebisland[/nation]
---Not on continent but has ties to ARU--
+[nation]Masmatian[/nation]
+--Not on continent but members of the ARU--
 [nation]Megia[/nation]
 [nation]Brina[/nation]
-[nation]Hemvania[/nation]
 ---
 ARU is my part of [region]Noblia[/region]
 [nation]Aovelale-Rapera Union[/nation] is a regional community to protect peace, diversity, and prosperity in [region]Aovelale[/region]. Since ARU, Aovelaleans are cooperating with each other and respecting diversity.
 Area:14865228km2
-Population:902840192
+Population:902840192 people
 Population Density:60.73 people/km2
 Whenever it looks like this region is going to be active, it dies again.
