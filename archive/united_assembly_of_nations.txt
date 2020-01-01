@@ -9,6 +9,8 @@
 [b][nation]United Osean Federation[/nation]
 [nation]United Sentinel States[/nation]
 [nation]South Waterford[/nation]
+[nation]Eakiran Federation[/nation]
+
 [/b]
 [hr]
 [u][b][color=blue]UAN Member States:[/color][/b][/u]

@@ -7,7 +7,7 @@ ARABIAN SMC: ???
 Auvia: Notforc
 [strike]Athayop: Hellocoders[/strike]
 [strike]Ayrodan: NJ[/strike]
-Bleinland: Voj
+[strike]Bleinland: Voj[/strike]
 Dugong Island: Lucas
 Federal Tristia: Deet
 [strike]Federate Nesia: France[/strike]
@@ -22,6 +22,7 @@ Geskyia: Skyminer
 [strike]Malinskrov: aTr[/strike]
 Nordleich: Frosty
 Pacomia: Mopscrub
+Republican Auvia: Notforc
 [strike]Sudestavia: Portavia[/strike]
 [strike]Southvis: Yusuf[/strike]
 [strike]TBTGia: TBTG[/strike]
