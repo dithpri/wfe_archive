@@ -10,6 +10,7 @@
 [nation]United Sentinel States[/nation]
 [nation]South Waterford[/nation]
 [nation]Eakiran Federation[/nation]
+[nation]Chokoku[/nation] 
 
 [/b]
 [hr]

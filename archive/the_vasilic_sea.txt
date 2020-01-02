@@ -1,21 +1,21 @@
 The Vasilic Sea is a sea filled with island nations that are organized in a confederation, the [i]Confederation of the Vasilic Sea[/i].
 [hr]
 
-The Council of the Vasilic Sea is the administrative body of the Confederation.
+The [i]Council of the Vasilic Sea[/i] is the administrative body of the Confederation.
 
-[i]Elected members[/i]
-General Councillor
+[b]Elected members[/b]
+General Councillor : [nation=long]Corakia[/nation]
 Deputy Councillor
 Delegate to the World Assembly
 Ambassador
-President of the Commission
-[i]Non-elected members[/i]
+President of the Commission : [nation=long]Gerakia[/nation]
+[b]Non-elected members[/b]
 Founder
 
-The Commission of the Vasilic Sea is the legislative body of the Confederation.
+The [i]Commission of the Vasilic Sea[/i] is the legislative body of the Confederation.
 
-[i]Elected members[/i]
-President of the Commission
+[b]Elected members[/b]
+President of the Commission : [nation=long]Gerakia[/nation]
 Member nations
 
-The Regional Message Board is used by the Commission of the Vasilic Sea for debates on the policies proposals.
+The [u]Regional Message Board[/u] is used by the Commission of the Vasilic Sea for debates on the policies proposals.

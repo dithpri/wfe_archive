@@ -8,6 +8,6 @@ Puppet list:
 0 [nation]I slap you[/nation]
 1[nation]Green Blueberries[/nation]
 1[nation]Red Blueberries[/nation]
-0 [nation]Reflection of mirrors[/nation]
+1[nation]Reflection of mirrors[/nation]
 1[nation]Test boi 2[/nation]
 [/quote]
