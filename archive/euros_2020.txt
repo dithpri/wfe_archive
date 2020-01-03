@@ -7,9 +7,10 @@ Each nation will grow by [b]2 provinces per day[/b].
 Once a nation occupies at least one sea province, it may form a colony.
 Colonies are formed by forgoing localized expansion for a period of [b]72 hours[/b].
 At the end of that period, another coastal province, (far away and of your choice) will raise the flag of your Empire.
-From that point colonies can expand as the home region, progressively overtime. 
+From that point forward colonies can expand as the home region, progressively overtime. 
 
-More information on warfare mechanics and AI behaviors can be found in subsequent regional factbooks.
+The AI will expand erratically, if at all.
+More information on warfare mechanics and AI behaviors can be found below in our regional factbooks.
 
 If you have any questions, or expansion requests, please contact [nation]Sommaire[/nation].
 
