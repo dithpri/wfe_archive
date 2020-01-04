@@ -14,7 +14,3 @@ If you are new here, please refrain from eating, drinking, or smoking while the 
 [I]Regional Alertness Level: DEFALERT 1[/I]
 
 [i]Regional Stupidity Level: STUPIDALERT 1[/i]
-
-[hr]
-
-Our official puppet storage region: [region]Fiat Currency[/region].
