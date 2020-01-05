@@ -1,2 +1,14 @@
-[b]Apia[/b]
-a [region=0000] region
+[color=2A293E][b]Apia[/b][/color]
+
+[color=009B77]FACTS
+[b]Apia[/b] is the capital and largest city of [region=Samoa]
+[b]Area:[/b] 123.81 km&sup2;
+[b]Population:[/b] 36,735 (2011)
+[b]Founded:[/b] 1850s
+[b]Became Capital:[/b] 1959[/color]
+
+[color=918151]REGION
+[b]Founded:[/b] 2016 05 16 
+[b]Featured:[/b] 2020 01 05[/color]
+[color=803000]a [region=0000] region[/color]
+[color=6495ED][b]Embassy offers are welcome[/b][/color]
