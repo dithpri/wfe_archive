@@ -1,1 +1,10 @@
-A temperate region in the north, teemed with countless wildlife and forests. Prime for taking advantage of the regions natural resources. 
+[b]OREGONIAN REGION[/b]:
+
+A temperate region in the north teemed with wildlife, to the north of Oregonian is the Great Mountain Range Of Oregonai, which separates Ringonia from the Reformed Northern Territories. To the South East lies the Greater City State Of Kapital. To the East of Oregonian lies the Seas Of Oregorious. From the dark blue sea rises a landmass known as the Islands Of Oregonian. The Greater City State Of Ringonia inhabits this island, as well as the Reformed Northern Island Territories. 
+
+[b]OREGONIAN PACT OF REUNIFICATION[/b]:
+
+[nation]Ringo Alliance[/nation]
+[nation]Reformed Northern Territories[/nation]
+[nation]Greater City State Of Ringonia[/nation]
+[nation]Greater City State Of Kapital[/nation]

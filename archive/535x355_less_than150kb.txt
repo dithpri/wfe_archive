@@ -1,0 +1,1 @@
+Exceptions: You can have a bigger flag than usual if its filesize is small enough: If it&#39;s under 150kB and the image fits within either 535x355 pixels or 321x568 pixels, it won&#39;t be resized.
