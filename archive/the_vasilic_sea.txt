@@ -10,7 +10,7 @@ Delegate to the World Assembly
 Ambassador
 President of the Commission : [nation=long]Gerakia[/nation]
 [b]Non-elected members[/b]
-Founder
+Founder : [nation=long]Corakia[/nation]
 
 The [i]Commission of the Vasilic Sea[/i] is the legislative body of the Confederation.
 

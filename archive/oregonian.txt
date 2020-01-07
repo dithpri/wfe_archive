@@ -6,5 +6,6 @@ A temperate region in the north teemed with wildlife, to the north of Oregonian 
 
 [nation]Ringo Alliance[/nation]
 [nation]Reformed Northern Territories[/nation]
+[nation]Reformed Northern Island Territories[/nation]
 [nation]Greater City State Of Ringonia[/nation]
 [nation]Greater City State Of Kapital[/nation]
