@@ -6,4 +6,5 @@ The flag must be simplistic and have 4 colors at the most.
 Anyone failing to cope with these rules will be ejected and banned.
 [b]Political Parties:[/b]
 [color=blue]Patriotic Party of the Miedzymorze Pact: [nation]Srebbia[/nation][/color]
+[color=#DF51A9]Democratic Party of the Miedzymorze Pact: [nation]Stedinia[/nation][/color]
 [color=red]Socialist Party of the Miedzymorze Pact: [nation]Jamez Empire[/nation][/color]

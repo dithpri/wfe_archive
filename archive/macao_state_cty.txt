@@ -3,7 +3,7 @@
 
 Country [nation]MAACAU[/nation]
 
-Special Administrative Region: [region] StGeorgeIslands [/region]
+Special Administrative Region: [region] StGeorgeIslands [/region] |[region]Secretariat of Diplomatic Relations[/region]|
 
 Story
 
