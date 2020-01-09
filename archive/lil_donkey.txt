@@ -1,11 +1,10 @@
 Eat donkey
 
 Rules: 
-Border Walls can only eject, not ban. The punishment is demotation or being kicked.
+Border Walls and secretaries can only eject, not ban. The punishment is demotation or being kicked.
 Secretaries of Communication cannot create a poll that lasts for more than two days, this will result in demotation or public shaming.
 Polls are created for making decisions.
 Don&acute;t be overly rude
-Don&acute;t spam the chat
 
 Bannings: 
 Bannings can only pass if over 50% of the population wants to ban a person through a poll, that poll must last at least two or three days. Banning polls cannot be removed early for decision unless their is a 60% majority. The neither the founder nor extra accounts can vote on a banning a person, doing this will cause demotation or being ejected,
