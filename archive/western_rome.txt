@@ -1,4 +1,4 @@
-In this Alternate Universe, rome never fell. Instead, The Empire had it&#39;s last holdings in Northern and Central Italy. Rome was never sacked, and became the center of literature for 2 Millennia. But in recent years, Rome was challenged by it neighbors, and great superpowers across the world. It was feeling threatened by [region]Imperial War Invaders[/region], and [region]The EEUCC[/region] began spreading it&#39;s Communist influence into it&#39;s Senate.
+In this Alternate Universe, rome never fell. Instead, The Empire had it&#39;s last holdings in North Italy, Central Italy, and France. Rome was never sacked, and became the center of literature for 3 Millennia. But in recent years, Rome was challenged by it neighbors, and great superpowers across the world. It was feeling threatened by [region]Imperial War Invaders[/region], and [region]The EEUCC[/region] began spreading it&#39;s Communist influence into it&#39;s Senate.
 
 Caesar: [nation]Balestrian Northern italy[/nation]
 Senators: none
@@ -7,4 +7,4 @@ Foxist Priests: none
 Neighbors: [region]Imperial War Invaders[/region], [region]Southern Italian republic[/region]
 At war: none
 Enemies: none
-Allies: [region]Southern Italian republic[/region]
+Allies: [region]Southern Italian republic[/region], Pact of Munich
