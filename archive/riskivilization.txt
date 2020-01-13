@@ -4,11 +4,13 @@ Leader: Empress Ivy Bluetooth
 
 Capital: Riskivilization City
 
-Demonym: Unionair
+Demonym: Unionnaire
 
-National Animal: Yellow Labrador Retriever
+National Animal:Labrador Retriever
 
 Official Languages: English, French, Norwegian, Swedish, Finnish, Latin, Irish, Italian,
+
+Recognized Regional Languages: Sami, Greenlandic
 
 Official Numerical Bases: Binary, Seximal, Decimal, Dozenal, Hexadecimal, Niftimal,
 

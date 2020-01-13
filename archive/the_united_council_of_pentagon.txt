@@ -1,4 +1,4 @@
-[nation]Southern Prescott[/nation] quotes, &quot;This is only for Harry Potter fans who know all of the spells and also love this site. This is only for historical people too.&quot;, (President)
+[nation]Southern Prescott[/nation] quotes, &quot;I love pizza.&quot;, (President)
 
 [nation]United kong[/nation] quotes,&quot;You can&#39;t beat the person who never gives up.&quot; (Vice-President) 
 
@@ -6,6 +6,11 @@
 
 [nation]Abdullahsthan[/nation] quotes, &quot;May this region live long as we live!&quot; (Communications Officer)
 
-[nation]Tagineisgood[/nation] quotes, &quot;Intelligence is key to pursuing a great career.&quot; (Research Officer)
+[nation]Tagineisnice[/nation] quotes, &quot;Intelligence is key to pursuing a great career.&quot; (Research Officer)
 
-[region]Islamic Peacekeepers[/region] was the previous region for all the members who are in this region.
+[i]News:[/i]
+
+[u]Southern Prescott has proposed a website and application Centre to be constructed, leave your opinions down in the board message[/u]
+
+UCP Application:
+https://docs.google.com/forms/d/e/1FAIpQLScsyiGtbM6aGCfHgg6ihfFUKtOyrs0gWbzjxL1UMc19Bpt6IA/viewform
