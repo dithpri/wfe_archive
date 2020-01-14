@@ -4,5 +4,6 @@ Our child regions:
 - [region]Allied States of New America[/region]
 - [region]Collective Security Treaty Organization[/region]
 - [region]Federation of Allied States[/region]
+- [region]Greater British Empire[/region]
 - [region]The Wastelands of Earth[/region]
 - [region]World of Kingdoms[/region]
