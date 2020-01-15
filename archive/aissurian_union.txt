@@ -1,5 +1,12 @@
-[b]The Aissurian Union[/b] is a gigantic Union of  nations, remarkable for its compulsory military service in most nationstates, ban on automobiles for some nations, and irreverence towards religion. The Aissurian Union is as diverse as it come.
+[b]The Aissurian Union[/b] 
 
- Each Aissurian State/Diminion/Federation has their own identity, rules, constitution,local court, leader which can be removed by the Commissioner, govern the economy, defense forces and system of government. Each state has a right to anthem, language, and way of life. Each state have their trade policies, legislature, and policies proposed or vetoed by the State Leader.  
-[b]Capital Nation[/b]: Great Aissur
-[b]Eldest Nation[/b]: United Federation of Earland
+[b]Capital Nation[/b]:[nation]Great Aissur[/nation]
+[b]Eldest Nation[/b]: [nation]United Federation of Earland[/nation]
+[b]Safest Nation[/b]: [nation]Chamberlin[/nation]
+
+[b]Allies[/b]
+[region]Russian federation[/region]
+[region]The Peoples Republic of China[/region]
+[region]Syrian Arab Republic[/region]
+[region]Cuba[/region]
+[region]the Republic of Venezuela[/region]

@@ -3,11 +3,10 @@ Chancellor:[b][nation]Byni[/nation][/b]
 Headed by Spetsnaz
 No Banning Only Ejecting
 Neutral Foreign Policy 
-[b]Education[/b]
-Headed Bey Eel Morater
 [b]Diplomacy[/b]
+Headed Bey Eel Morater
 [b][i]Embassy&#39;s[/i][/b]
-[region]Lil Donkey[/region],[region]Codex Ylvus[/region] , [region]The Warehouse[/region], [region]The Embassy[/region] , [region]The Monarchy Alliance[/region] 
+[region]Lil Donkey[/region],[region]Codex Ylvus[/region], [region]The Warehouse[/region], [region]The Embassy[/region], [region]The Monarchy Alliance[/region] 
 [b]Laws[/b]
 Polls only last 2 days.
 Decisions Made when all have voted.

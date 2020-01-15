@@ -15,7 +15,8 @@
 4. TELL ([nation=long]The East Loush Land[/nation])
 5. TSLL ([nation=long]The South Loush Land[/nation])
 6. TSN ([nation=long]the south nevalia[/nation])
-7. TNN ([nation=long]The North Nevalia[/nation])[/b][/color]
+7. TNN ([nation=long]The North Nevalia[/nation])
+8. TNELL ([nation=long]The North East Loush Land[/nation])[/b][/color]
 
 [color=red][b]VICTORY FOR ULL 12/22/2018 - 14/1/2020, Anti-Communist Wins[/b][/color]
 
