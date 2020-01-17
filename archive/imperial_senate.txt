@@ -3,22 +3,26 @@
 [hr][hr]
 
 [color=gold]&amp;#9812;[/color] [b]Leadership[/b] [color=gold]&amp;#9812;[/color]
-[list][b][i]Chancellor[/i]: [nation=noflag]The Evile Empire[/nation] ([color=#443B70]CTZ[/color])[/b]
+[list][b][i]Chancellor[/i]: [nation=noflag]Hulldom[/nation] ([color=#0080FF]CU[/color])[/b]
+
+[list]
+
+[b][i]Deputy Chancellor[/i]: [nation=noflag]The 3rd Swedish Empire[/nation] ([color=#0B0B61]NR[/color])[/b]
 
 [list]
 
 [/list]
 
-[b][i]Shadow Chancellor[/i]: [nation=noflag]Dependants[/nation] ([color=#2089d4]DEM[/color])[/b]
+[b][i]Shadow Chancellor[/i]: [nation=noflag]The Evile Empire[/nation] ([color=#BF00FF]CTZ[/color])[/b]
 [/list][hr][hr]
 
 [b][u]Previous Business:[/b][/u] [i][b]L.R. 22[/b][/i]
 [i]The Writs of Mandamus and Quo Warranto Act ~ PASSED[/i]
 
 [b][u]Current Business:[/b][/u] [i][b]Amendment[/b][/i]
-[i]Amendment to L.R. 3 ~ IN VOTE[/I]
+[i]Amendment to L.R. 3 ~ IN DEBATE[/I]
 
-[b][u]Next Business:[/b][/u] [b][i]N/A[/i][/b]
-[i]N/A[/i]
+[b][u]Next Business:[/b][/u] [b][i]L.R. 23[/i][/b]
+[i]The Regional History Preservation Act[/i]
 
 [hr][hr]
