@@ -10,7 +10,7 @@
 [hr]
 [color=gold][b]Your Parliament[/b][/color]
 
-[nation]Christenmark[/nation](interim, election opened)
+[nation]Christenmark[/nation]
 [nation]Brunswick South[/nation]
 [nation]Logiand[/nation] 
 [nation]The Libirachi Empire[/nation]
