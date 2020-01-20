@@ -1,1 +1,16 @@
-H
+[b]Nation:[/b] Sargon
+[b]President:[/b] Reyhan Omari 
+[b]Number of States:[/b] 8
+[b]Allies:[/b] 
+[region]Aissurian Union[/region]
+[region]Iran[/region]
+[region]Hezbollah[/region]
+[region]Iraq[/region]
+[region]Republic of Syria[/region]
+[b]Trading Partners[/b]
+[region]Aissurian Union[/region]
+[region]The Russian Federation[/region]
+[region]The Peoples Republic of China[/region]
+[region]Iran[/region]
+
+
