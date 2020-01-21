@@ -1,0 +1,7 @@
+Main Nation:
+[nation=long]Angshire[/nation]
+
+Acting Executive:
+[nation=long]Angshire II[/nation]
+
+Hail to [region]The North Pacific[/region]!
