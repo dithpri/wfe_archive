@@ -3,7 +3,7 @@
 [hr][hr]
 
 [color=gold]&amp;#9812;[/color] [b]Leadership[/b] [color=gold]&amp;#9812;[/color]
-[list][b][i]Chancellor[/i]: [nation=noflag]Hulldom[/nation] ([color=#0080FF]CU[/color])[/b]
+[list][b][i]Chancellor[/i]: [nation=noflag]Hulldom[/nation] ([color=#ff6100]CU[/color])[/b]
 
 [list]
 
