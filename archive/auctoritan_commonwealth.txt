@@ -3,7 +3,7 @@
 
 [hr]
 
-[url=https://www.nationstates.net/nation=upper_ontario_and_hudson_bay][color=#000000][b]The Doge[/b][/color][/url] [color=blue]|[/color] [url=https://www.nationstates.net/region=consiglio_signoria] [color=#000000][b]Consiglio Signoria[/b][/color][/url] [color=blue]|[/color] [url=placeholder][color=#000000][b]Gran Consiglio della Repubblica[/b][/color][/url] [color=blue]|[/color] [url=placeholder][color=#000000][b]Tribunali della Repubblica[/b][/color][/url]
+[url=https://www.nationstates.net/nation=upper_ontario_and_hudson_bay][color=#000000][b]The Doge[/b][/color][/url] [color=blue]|[/color] [url=https://www.nationstates.net/region=consiglio_signoria] [color=#000000][b]Consiglio Signoria[/b][/color][/url] [color=blue]|[/color] [url=placeholder][color=#000000][b]Gran Consiglio della Repubblica[/b][/color][/url] [color=blue]|[/color] [url=https://www.nationstates.net/region=tribunali_della_repubblica][color=#000000][b]Tribunali della Repubblica[/b][/color][/url]
 
 [hr]
 
@@ -11,7 +11,9 @@
 
 [color=goldenrod][b]&amp;#9812;[/b][/color] [b]Please endorse the Doge[/b], [b][nation]Upper Ontario and Hudson Bay[/nation][/b] [b]to defend the stability of our region![/b] [color=goldenrod][b]&amp;#9812;[/b][/color]
 
-[color=goldenrod][b]&amp;#9812;[/b][/color] [b]Regional Elections: Consiglio Signoria &amp; Regional Magistrate![/b]
+[color=goldenrod][b]&amp;#9812;[/b][/color] [b]Regional Appointments: High Court Justice Appointed![/b]
+
+[color=goldenrod][b]&amp;#9812;[/b][/color] [b]Regional Legal Developments: Criminal Code Bill Passes into Law![/b]
 
 [color=goldenrod][b]&amp;#9812;[/b][/color] [b]Regional WA-Waiver now available.[/b]
 

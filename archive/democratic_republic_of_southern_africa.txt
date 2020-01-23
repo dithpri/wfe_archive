@@ -15,11 +15,9 @@
 If Endorsing President: 4
 If Not Endorsing President: 2
 
-[color=blue][B]Regional News:[/B][/color] 
-N/A
+[color=blue][B]Current Senate:[/B][/color] 
+[nation]British Imperialis[/nation] - Majority Leader
+[nation]Aksaria[/nation]
+[nation]MICHELETOPIA[/nation]
 
 Regional Alert Level: DEFCON 5
-
-Code: N/A
-
-RP Year: 2020 (Ends 12/26)
