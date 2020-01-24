@@ -26,6 +26,7 @@ We are an [region]ISNA[/region] member region
 [nation]Ruritane[/nation]
 [nation]New Dambi[/nation]
 
+
 [b]Achievements[/b]
 We got featured 2 times!
 
@@ -39,3 +40,5 @@ we killed all the zombies in our region on Z day!
 [b]The banned[/b]
 [nation]North Impia[/nation]
 [nation]Gagging[/nation]
+[nation]Red Ion 2[/nation]
+[nation]Gagging2[/nation]

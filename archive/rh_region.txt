@@ -1,3 +1,7 @@
 RH Region is a region. [region]RH Region[/region]
 Founder:[nation]RH9[/nation]
 Vice-Delegate:[nation]RH0[/nation]
+
+Embassies:
+[region]The Embassy[/region]
+[region]Codex Ylvus[/region]
