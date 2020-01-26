@@ -8,8 +8,9 @@ Union President : [nation]New-Wes-Valley[/nation]
 Lieutenant Governor: [nation]North Wesleyville[/nation]
 Foreign Affairs Governor: [nation]Corner Brook Isles[/nation]
 Justice Minister: [nation]New Quakerstan[/nation]
-Homeland Minister: [b]VACANT[/b]
-Director of The Union Bureau  of Recruitment: [nation]North Wesleyville[/nation] [b][i][u]Acting[/u][/i][/b]
+Homeland Secruity and Affairs Minister: [nation]United Republic of mancunia[/nation]
+Director of The Union Bureau  of Recruitment: [b]Vacant[/b]
+
 
 Leader of the Senate: [b]VACANT[/b]
 Speaker of the House of Respresentatives: [b]VACANT[/b]
