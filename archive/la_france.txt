@@ -8,7 +8,7 @@ Founder:  [nation]La Mercier[/nation]
 President:  [nation]A Little Romance[/nation]
 Prime Minister: [nation]Lady Claypool[/nation]
 Minister of Home Affairs: TBA
-Minister of Foreign Affairs: TBA
+Minister of Foreign Affairs: [nation=short]Alpha Force[/nation]
 Minister of Culture: TBA
 Attorney General: TBA
 Mister Without Portfolio:  [nation]Vaucluses[/nation][hr]
@@ -18,3 +18,5 @@ Constitution is Adopted
 [url=https://www.nationstates.net/page=dispatch/id=1262142]Constitution[/url] |
 [hr]
 [color=blue]Vive La France ![/color][/b]
+
+A Protectorate of [region]The Wolf Clan[/region]

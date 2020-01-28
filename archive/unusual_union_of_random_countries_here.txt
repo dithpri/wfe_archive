@@ -4,8 +4,8 @@ Welcome to the [region]Unusual union of random countries here[/region]! We are a
 [i][b][color=red]REGIONAL STATUS[/color][/b][/i]
 
 [i]War Status[/i]
-[color=green]WARSTAT 5[/color]
-[color=green]WARSTAT 4[/color][b]&amp;#8592;[/b][i]We are being cautious and watchful for war.[/i]
+[color=green]WARSTAT 5[/color][b]&amp;#8592;[/b][i]No War.[/i]
+[color=green]WARSTAT 4[/color]
 [color=yellow]WARSTAT 3[/color]
 [color=orange]WARSTAT 2[/color]
 [color=red]WARSTAT 1[/color]
