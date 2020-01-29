@@ -4,9 +4,9 @@
 
 [b]| [url=https://www.nationstates.net/nation=tarkin/detail=factbook/id=main]Regional Constitution[/url] | [url=https://i.imgur.com/UlcQf9I.png]Regional Map[/url] | [url=https://i.imgur.com/qcpf0ZX.png]Physical Map[/url] |  [url=https://www.maptoglobe.com/rJsJIKgSH]Political Globe[/url]
 
-[u][color=black]Executive:[/color][/u][/b]
-[i]President[/i]:
-[i]Vice President[/i]:
+[u][color=gold]Executive:[/color][/u][/b]
+[i]President[/i]: [nation]CamerWoon[/nation]
+[i]Vice President[/i]: [nation]Kingless Peoples[/nation]
 [i]Secretary of the Interior:[/i]
 [i]Secretary of State:[/i] 
 [i]Attorney General:[/i]
@@ -14,7 +14,7 @@
 [color=maroon][b][u]Senate:[/u][/b][/color]
 
 [color=blue][b][u]Supreme Court:[/color][/b][/u]
-[i]Chief Justice:[/i] 
+[i]Chief Justice:[/i] [nation]Learned Hands[/nation]
 [i]Associate Justice:[/i]
 [i]Associate Justice:[/i]
 

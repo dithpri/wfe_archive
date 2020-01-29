@@ -1,7 +1,8 @@
 Motto: &quot;Unus pro omnibus, omnes pro uno&quot;
 
-Leader: Empress Ivy Bluetooth
-
+Leader:
+-Upper Monarch: Empress Ivy Bluetooth
+-Lower Monarch: Queen Delight Bluetooth
 Capital: Riskivilization City
 
 Demonym: Unionnaire

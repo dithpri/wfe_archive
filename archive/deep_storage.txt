@@ -10,7 +10,7 @@ We are an [region]ISNA[/region] member region
 
      [b]UPDATES[/b]
 
--I reformatted the World factbook
+-  the banned list has been moved to the Dispatch
 -
 -
 
@@ -37,8 +37,3 @@ we killed all the zombies in our region on Z day!
 
 *pls note its only a joke (well kind of)
 
-[b]The banned[/b]
-[nation]North Impia[/nation]
-[nation]Gagging[/nation]
-[nation]Red Ion 2[/nation]
-[nation]Gagging2[/nation]

@@ -1,4 +1,15 @@
-[b][color=darkgreen]Welcome to the Brazilian Empire[/color]
-[color=d4af37]Bem-vindo ao Imp&eacute;rio do Brasil[/color][/b]
-[hr][color=darkgreen][b]Monarca:[/b] Imperador [nation=short]Dom Pedro I[/nation]
-[b]Fundador:[/b] [nation=short]Brasil Imperio[/nation][/color]
+[b][color=darkgreen]Bem-vindo ao Imp&eacute;rio do Brasil[/color][/b]
+[b][color=d4af37]&quot;Viva o Imperador&quot;[/color][/b][hr][b][color=d4af37]Governo[/color][/b]
+
+[color=darkgreen]Monarca: Imperador [nation=short]Dom Pedro I[/nation]
+Primeiro Ministro: [nation=short]Brasil Imperio[/nation]
+
+Capital: Rio de Janeiro
+Governo: Monarquia Constitucional
+Moeda: R&eacute;is[/color][hr][b][url=http://www.monarquia.org.br/]Pr&oacute; Monarquia - Site Oficial da Casa Imperial do Brasil[/url]
+[url=http://www.youtube.com/watch?v=htx_SM6iCxo]Hino Nacional[/url][/b][hr]
+
+[b][color=d4af37]World Assembly[/color][/b]
+
+[color=darkgreen]&#149; Coloque sua na&ccedil;&atilde;o da Assembl&eacute;ia Mundial e obtenha sua cidadania na regi&atilde;o
+&#149; Participe do Governo Imperial Brasileiro[/color]
