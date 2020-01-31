@@ -4,19 +4,24 @@
 
 [b]| [url=https://www.nationstates.net/nation=tarkin/detail=factbook/id=main]Regional Constitution[/url] | [url=https://i.imgur.com/UlcQf9I.png]Regional Map[/url] | [url=https://i.imgur.com/qcpf0ZX.png]Physical Map[/url] |  [url=https://www.maptoglobe.com/rJsJIKgSH]Political Globe[/url]
 
-[u][color=gold]Executive:[/color][/u][/b]
-[i]President[/i]: [nation]CamerWoon[/nation]
-[i]Vice President[/i]: [nation]Kingless Peoples[/nation]
-[i]Secretary of the Interior:[/i]
-[i]Secretary of State:[/i] 
-[i]Attorney General:[/i]
+[u][color=maroon]Executive:[/color][/u][/b]
+President: [nation]CamerWoon[/nation]
+Vice President: [nation]Kingless Peoples[/nation]
+Attorney General: [nation]The Sanhedrin[/nation]
+Secretary of State: [nation]Kiwannis[/nation]
 
-[color=maroon][b][u]Senate:[/u][/b][/color]
+[color=brown][b][u]Senate:[/u][/b][/color]
+[nation]Carinth[/nation]
+[nation]Caska[/nation]
+[nation]Flaxxony[/nation]
+[nation]Melodick[/nation]
+[nation]Opieland[/nation]
 
-[color=blue][b][u]Supreme Court:[/color][/b][/u]
+
+[color=navy][b][u]Supreme Court:[/color][/b][/u]
 [i]Chief Justice:[/i] [nation]Learned Hands[/nation]
-[i]Associate Justice:[/i]
-[i]Associate Justice:[/i]
+Associate Justice: [nation]Vanadium-Tungsten[/nation]
+Associate Justice: [nation]Northwest South Williamsland[/nation]
 
 [b]ROLEPLAY | [/b]Tarkin is set in the [b]Interwar Period (1919-1941)[/b] for technology.
 
