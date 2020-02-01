@@ -9,7 +9,7 @@
 [color=#900000]Leader:[/color]	Kaiser Wilhelm von Bismark III
 [color=#900000]Faith:[/color] Foxism
 [color=#900000]Treasury:[/color] 1,768,800,000 RM
-[color=#900000]Debt:[/color] 0 RM[hr][color=#900000]Security Status:[/color] DEFCON 3
+[color=#900000]Debt:[/color] 0 RM[hr][color=#900000]Security Status:[/color] DEFCON 5
 [color=#900000]Wars:[/color] None
 [color=#900000]Allies:[/color] Pact of Munich ,[region]Imperial Shipgodian Empire[/region]
 
