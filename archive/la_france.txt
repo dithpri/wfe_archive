@@ -10,8 +10,8 @@ Prime Minister: [nation]Lady Claypool[/nation]
 Minister of Home Affairs: TBA
 Minister of Foreign Affairs: [nation=short]Alpha Force[/nation]
 Minister of Culture: TBA
-Attorney General: TBA
-Mister Without Portfolio:  [nation]Vaucluses[/nation][hr]
+Attorney General: TBA[hr]
+
 [color=blue]News:[/color]
 Constitution is Adopted
 [hr]
@@ -19,4 +19,4 @@ Constitution is Adopted
 [hr]
 [color=blue]Vive La France ![/color][/b]
 
-A Protectorate of [region]The Wolf Clan[/region]
+A Colony of [region]The Wolf Clan[/region]
