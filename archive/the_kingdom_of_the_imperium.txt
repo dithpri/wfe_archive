@@ -1,1 +1,7 @@
-A kingdom where all nations are citizens of the King/Queen and their leaders
+[b]Kingdom of the Imperium[/b]
+Founded:
+Founder: [nation]Italienisches Imperium[/nation]
+
+[b]Regional Government:[/b]
+King: [nation]Italienisches Imperium[/nation]
+Chancellor: [nation]Nationalsozialistische Deutsche[/nation]

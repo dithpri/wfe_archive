@@ -1,4 +1,6 @@
-Motto: &quot;Unus pro omnibus, omnes pro uno&quot;
+Mottos: 
+-&quot;Unus pro omnibus, omnes pro uno&quot;
+-&quot;E pluribus unum&quot;
 
 Leader:
 -Upper Monarch: Empress Ivy Bluetooth

@@ -5,7 +5,7 @@
 [region]The Dawn of Unity[/region]
 [region]The Dawn of Unity Alternative RP Region[/region]
 [HR]
-[colour=scarlet]Year: September 2013
+[colour=scarlet]Year: January 2014
 Narratives: 
 &#149;FUANES Civil war
 &#149;Global Revolutionary Army
@@ -14,4 +14,4 @@ Narratives:
 [HR]
 [colour=darkgreen]Sub-Narratives:
 &#149;Communist resurgence
-&#149;PAU Recovery[/colour]
+[/colour]
