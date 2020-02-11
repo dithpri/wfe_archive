@@ -1,2 +1,2 @@
-[b]Britannica[/b]
-a [region=0000] region
+[color=green][b]Britannica[/b]
+a QSA Oracle region[/color]
