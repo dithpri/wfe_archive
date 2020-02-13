@@ -1,22 +1,33 @@
 Political containment at it&#39;s worst
 
-[nation]Leo Hollandia[/nation] - Nitro
-[nation]The Kheton Dynasty[/nation] - Thicc
-[nation]Classic Belgium[/nation] - Adri
-[nation]Jenheer[/nation]- Edraii
-[nation]The North Sea Isles[/nation]- Howe
-[nation]British Sampocia[/nation] - Warrior
+28 Member Nations: 
+
+[nation]Al-Bion[/nation] - Sombra
 [nation]Ascadian Isles[/nation] - Goost
-[nation]Ryeheim[/nation] - Kane
-[nation]Al-Bion[/nation]- Sombra
 [nation]Breizha[/nation] - Barcode
-[nation]Republica Popular do Saco Cheio[/nation] - Orlov
-[nation]The Mercian Witan[/nation] - Knickey
-[nation]Tolomato[/nation] - Kaiser
+[nation]British Sampocia[/nation] - Warrior
+[nation]Cerdia[/nation] - STJ
+[nation]Classic Belgium[/nation] - Adri
+[nation]Die Tetminhnam[/nation] - Gook
 [nation]Dwarf-Fortress[/nation] - Uristo
 [nation]Free Franconia[/nation] - Franc
-[nation]Realm of Steel[/nation] - Cspace
-[nation]Die Tetminhnam[/nation] - Gook
-[nation]Yorvikshire[/nation] - Helden
+[nation]Jenheer[/nation] - Edraii
+[nation]Leo Hollandia[/nation] - Nitro
+[nation]Licensy[/nation] - Bwyrm
+[nation]LuggoCord[/nation] - Deb
+[nation]Mana Screw[/nation] - Hamster
 [nation]Nabata Desert[/nation] - Ishmael
+[nation]Origin of the Sun[/nation] - Health
 [nation]Pizzarony[/nation] - Pizzariffic
+[nation]Polyethnic Dualist Austary-Hungria[/nation] - Mordkalb
+[nation]Realm of Steel[/nation] - Cspace
+[nation]Red Sarmatia[/nation] - Stimmar
+[nation]Republica Popular do Saco Cheio[/nation] - Orlov
+[nation]Ryeheim[/nation] - Kane
+[nation]The Kheton Dynasty[/nation] - Thicc
+[nation]The Mercian Witan[/nation] - Knickey
+[nation]The North Sea Isles[/nation] - Howe
+[nation]Tolomato[/nation] - Kaiser
+[nation]Yorvikshire[/nation] - Helden
+
+A Great Unknown - [nation]Rarlogh[/nation] - Tell us your name

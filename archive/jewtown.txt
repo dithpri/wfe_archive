@@ -6,7 +6,6 @@
 [color=#ffffff] ########[/color][color=#054eb2]##########################[/color][color=#ffffff]########[/color]
 [color=#ffffff] ###########[/color][color=#054eb2]###[/color][color=#ffffff]#[/color][color=054eb2]###[/color][color=ffffff]######[/color][color=054eb2]###[/color][color=ffffff]#[/color][color=#054eb2]###[/color][color=#ffffff]###########[/color]
 [color=#ffffff] #############[/color][color=#054eb2]###[/color][color=#ffffff]##########[/color][color=#054eb2]###[/color][color=#ffffff]#############[/color]
-[color=#ffffff] #############[/color][color=#054eb2]###[/color][color=#ffffff]##########[/color][color=#054eb2]###[/color][color=#ffffff]#############[/color]
 [color=#ffffff] ###########[/color][color=#054eb2]###[/color][color=#ffffff]#[/color][color=054eb2]###[/color][color=ffffff]######[/color][color=054eb2]###[/color][color=ffffff]#[/color][color=#054eb2]###[/color][color=#ffffff]###########[/color]
 [color=#ffffff] ########[/color][color=#054eb2]##########################[/color][color=#ffffff]########[/color]
 [color=#ffffff] ###############[/color][color=#054eb2]###[/color][color=#ffffff]######[/color][color=#054eb2]###[/color][color=#ffffff]###############[/color]
@@ -14,3 +13,6 @@
 [color=#ffffff] ##########################################[/color]
 [color=#054eb2] ##########################################[/color]
 [color=#ffffff] ##########################################[/color]
+
+Oy! Welcome to Jewtown!
+Please join our regional Discord at https://discord.gg/rE9eVR.

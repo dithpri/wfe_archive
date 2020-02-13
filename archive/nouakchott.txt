@@ -1,10 +1,10 @@
-[b]Nouakchott[/b]
-a [region=0000] region
-
-Capital and Largest city of Mauritania.
+[color=navy][b]Nouakchott[/b][/color][color=green][pre]Capital and Largest city of Mauritania.
 It is also one of the largest cities in the Sahara.
 
 Located on the Atlantic Coast, it is only a few meters above sea level.
 Shifting sand dunes are a constant issue.
 
-2013 c.: 958,399
+Population: 958,399 (2013 Census)[/pre][/color][color=olive]REGION
+[b]Founded:[/b] 2016.05.1
+[b]Featured:[/b] 2020.02.13
+QSA Matrix Region[/color]
