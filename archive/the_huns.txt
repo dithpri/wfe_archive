@@ -1,9 +1,4 @@
-[color=#087][b]Welcome to the Hun Empire![/color][/b]
-[color=#950]The Huns were the first raiders of history. Now they take to NationStates to bring down regions in the name of the Hun Empire![/color][hr]
-[i]&#147;Every Hun has value&#150;even if only to serve as a bad example.&#148;-[b]Attila the Hun[/i][/b]
-
-[b][u][color=red]Campaign:[/color][/b][/u]
-
-[b]Endorse our WAD:[/b]
-
-[B]Chief of Military:[/B]
+The Huns
+Chief: [nation]Morrshire[/nation]
+Government: Tribal Confederation
+Legislature: Tribal Council

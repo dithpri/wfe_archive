@@ -1,6 +1,6 @@
 Political containment at it&#39;s worst
 
-28 Member Nations: 
+29 Member Nations: 
 
 [nation]Al-Bion[/nation] - Sombra
 [nation]Ascadian Isles[/nation] - Goost
@@ -12,6 +12,7 @@ Political containment at it&#39;s worst
 [nation]Dwarf-Fortress[/nation] - Uristo
 [nation]Free Franconia[/nation] - Franc
 [nation]Jenheer[/nation] - Edraii
+[nation]Kawaii-des[/nation] - Scalier
 [nation]Leo Hollandia[/nation] - Nitro
 [nation]Licensy[/nation] - Bwyrm
 [nation]LuggoCord[/nation] - Deb
