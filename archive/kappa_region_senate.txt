@@ -2,14 +2,13 @@
 
 [color=GOLD]&amp;#9812;[/color] [b]Leadership[/b] [color=GOLD]&amp;#9812;[/color][list]
 
-[*][b]Chancellor:[/b] None
+[*][b]Chancellor:[/b] [nation]Theing Stasia[/nation] [b][color=red](PCP)[/color][/b]
 [list]
-[*][b]Deputy Chancellor:[/b] None
+[*][b]Deputy Chancellor:[/b] [nation]Albion Pacifica[/nation] [b][color=red](PCP)[/color][/b]
 
-[*][b]Shadow Chancellor:[/b] None
+[*][b]Shadow Chancellor:[/b] [nation]Cafalnalmas[/nation] [b][color=gray](IND)[/color][/b]
 [/list]
-[b][u]Previous Business:[/b][/u] Amendment
-The Amendments and Constitutional Convention Amendment ~ ONGOING
+[b][u]Previous Business:[/b][/u] None
 
 [b][u]Current Business:[/b][/u] None
 

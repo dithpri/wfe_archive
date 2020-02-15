@@ -17,12 +17,12 @@
 [/list][hr][hr]
 
 [b][u]Previous Business:[/b][/u] [i][b]RESOLUTION[/b][/i]
-[i]Resolution for Removal of Senator [nation]Gorzi[/nation][/i]~ [i]PASSED[/i]
+[i]Resolution for Removal of Senator [nation]Carpia[/nation][/i]~ [i]PASSED[/i]
 
-[b][u]Current Business:[/b][/u] [i][b]RESOLUTION[/b][/i]
-[i]Resolution For Removal of Senator [nation]Carpia[/nation][/i]~ [i]IN DEBATE[/i]
+[b][u]Current Business:[/b][/u] [i][b]TREATY[/b][/i]
+[i]Treaty Between the Enadian Union and the New Western Empire[/i]~ [i]IN DEBATE[/i]
 
-[b][u]Next Business:[/b][/u] [b][i]TREATY[/i][/b]
-[i]Treaty Between the Enadian Union and the New Western Empire[/i]
+[b][u]Next Business:[/b][/u] [b][i]L.R. 28[/i][/b]
+[i]The Senate Procedures and Regulations Act[/i]
 
 [hr][hr]
