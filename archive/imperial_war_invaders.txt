@@ -6,10 +6,10 @@ Scientific Discovery are Happening
 
 IWI will rise under the commands of Adam Hitl
 
-Allies:[region]I r o n P a c t[/region]
+Allies:
 Wars: none
-Puppets:[region]Shipgodian Empire[/region], [region]United Militaristic Federations[/region], [region]The Arab Empire[/region], [region]Norta Roma[/region],[region]The Cevlaian Empire[/region], [region]The Argentine Reich[/region],[region]Yamstan Invasionx[/region]
-Colonies/Military bases:[region]United Militaristic Federation[/region] military base
+Puppets: [region]United Militaristic Federations[/region], [region]The Arab Empire[/region], [region]The Cevlaian Empire[/region], [region]The Argentine Reich[/region],[region]Yamstan Invasionx[/region]
+Colonies/Military bases: None
 Motto: Defeat is Inevitable
 War motto: Death is no Disgrace
 
