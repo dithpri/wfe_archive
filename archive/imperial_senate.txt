@@ -7,9 +7,7 @@
 
 [list]
 
-[b][i]Deputy Chancellor[/i]: [nation=noflag]The 3rd Swedish Empire[/nation] ([color=#0B0B61]NR[/color])[/b]
-
-[list]
+[i]Deputy Chancellor[/i]: [nation=noflag]The 3rd Swedish Empire[/nation] ([color=#0B0B61]NR[/color])
 
 [/list]
 

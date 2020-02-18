@@ -1,9 +1,9 @@
 [b][color=blue]Welcome[/color][/b]
-The International Sea of Memes is a mainly authoritarian region, but we allow other types of nations as well. While it may say [nation]Roblock[/nation] is the founder. Roblock was actually annexed by Joergenland and is under Joergenland&#39;s control.
+The International Sea of Memes is a mainly authoritarian region, but we allow other types of nations as well. While it may say [nation=noflag]Roblock[/nation] is the founder. [nation=noflag]Roblock[/nation] was actually annexed by [nation=noflag]Joergenland[/nation] and is under [nation=noflag]Joergenland[/nation]&#39;s control.
 
 [b][color=blue]Laws of Immigration:[/color][/b]
 1. Must be in the WA
-2. Must endorse [nation]Joergenland[/nation]
+2. Must endorse [nation=noflag]Joergenland[/nation]
 3. Must not have more endorsements than Joergenland
 4. Must pledge loyalty to the region.
 5. Breach of these laws will result in a warning, and then a kick.
