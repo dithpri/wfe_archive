@@ -1,8 +1,11 @@
-31 Member Nations: 
+Political containment at it&#39;s worst
+
+34 Member Nations, Including 2 Alt-Nations:
 
 [nation]Al-Bion[/nation] - Sombra
 [nation]Ascadian Isles[/nation] - Goost
 [nation]Breizha[/nation] - Barcode
+[nation]Brentwack[/nation] - Spartan
 [nation]British Sampocia[/nation] - Warrior
 [nation]Cerdia[/nation] - STJ
 [nation]Classic Belgium[/nation] - Adri
@@ -10,7 +13,6 @@
 [nation]Dwarf-Fortress[/nation] - Uristo
 [nation]Free Franconia[/nation] - Franc
 [nation]Jenheer[/nation] - Edraii
-[nation]Skruktopia[/nation] - Skurk
 [nation]Leo Hollandia[/nation] - Nitro
 [nation]Licensy[/nation] - Bwyrm
 [nation]LuggoCord[/nation] - Deb
@@ -24,10 +26,10 @@
 [nation]Red Sarmatia[/nation] - Stimmar
 [nation]Republica Popular do Saco Cheio[/nation] - Orlov
 [nation]Ryeheim[/nation] - Kane
+[nation]Skruktopia[/nation] - Skurk
 [nation]The Kheton Dynasty[/nation] - Thicc
 [nation]The Mercian Witan[/nation] - Knickey
 [nation]The North Sea Isles[/nation] - Howe
-[nation]Tolomato[/nation] - Kaiser
-[nation]Yorvikshire[/nation] - Helden
+[nation]The Typhonic Order[/nation] - Gav
 
-Including two Alt-Nations shown in the First Dispatch Overview
+Continued in Dispatches &amp;#11022;

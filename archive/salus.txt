@@ -1,4 +1,5 @@
 [b]Founder: [nation]Sedek-Cantus[/nation][/b]
 
-[b]Border Control/Communications: [nation]Nonkina[/nation][/b]
-[b]Appearance/Embassies: [nation]Amai Milis[/nation][/b]
+[b][color=red]Border Control[/color]/[color=orange]Communications[/color]: [nation]Nonkina[/nation][/b]
+[b][color=lightgreen]Appearance[/color]/[color=teal]Embassies[/color]: [nation]Amai Milis[/nation][/b]
+[b][color=lightgreen]Apperance[/color]/[color=purple]Polls[/color]: [nation]Parehado[/nation][/b]
