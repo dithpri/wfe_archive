@@ -3,24 +3,24 @@
 [hr][hr]
 
 [color=gold]&amp;#9812;[/color] [b]Leadership[/b] [color=gold]&amp;#9812;[/color]
-[list][b][i]Chancellor[/i]: [nation=noflag]Hulldom[/nation] ([color=#ff6100]CU[/color])[/b]
+[list][b][i]Chancellor[/i]: [nation=noflag]Laurennia[/nation] ([color=#ff6100]CU[/color])[/b]
 
 [list]
 
-[i]Deputy Chancellor[/i]: [nation=noflag]The 3rd Swedish Empire[/nation] ([color=#0B0B61]NR[/color])
+[i]Deputy Chancellor[/i]: [nation=noflag]Tavalo[/nation] ([color=#ff6100]CU[/color])
 
 [/list]
 
 [b][i]Shadow Chancellor[/i]: [nation=noflag]The Evile Empire[/nation] ([color=#836B9E]CTZ[/color])[/b]
 [/list][hr][hr]
 
-[b][u]Previous Business:[/b][/u] [i][b]RESOLUTION[/b][/i]
-[i]Resolution for Removal of Senator [nation]Carpia[/nation][/i]~ [i]PASSED[/i]
+[b][u]Previous Business:[/b][/u] [i][b]TREATY[/b][/i]
+[i]Treaty Between the Enadian Union and the New Western Empire[/i]~ [i]PASSED[/i]
 
-[b][u]Current Business:[/b][/u] [i][b]TREATY[/b][/i]
-[i]Treaty Between the Enadian Union and the New Western Empire[/i]~ [i]IN DEBATE[/i]
+[b][u]Current Business:[/b][/u] [i][b]L.R.28[/b][/i]
+[i]The Senate Procedures and Regulations Act[/i]~ [i]IN DEBATE[/i]
 
-[b][u]Next Business:[/b][/u] [b][i]L.R. 28[/i][/b]
-[i]The Senate Procedures and Regulations Act[/i]
+[b][u]Next Business:[/b][/u] [b][i]CONSTITUTIONAL AMENDMENT[/i][/b]
+[i]Amendments and Constitutional Convention Amendment[/i]
 
 [hr][hr]
