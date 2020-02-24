@@ -6,7 +6,7 @@ Consul:
 Co-Consul: [nation]The Proudhonnian Isles[/nation]
 Quaestor: [nation]Etrusciantia[/nation]
 Aedile: [nation]Jenshi[/nation]
-Legate:
+Legate: [nation]Yeetbecistaniana[/nation]
 
 [hr]
 This region is the new home for those ejected from the old [region]Heirs of Rome[/region]. All newcomers are welcome! We hope to establish a democratic republic here, to give each of you a say in how your region operates. We are in a difficult situation at the moment, as we grapple with the tumult of refounding, but stick with us, and we&#146;ll all prosper! 
