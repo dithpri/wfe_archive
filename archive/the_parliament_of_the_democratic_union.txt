@@ -1,7 +1,3 @@
-[i]The official government page of The Democratic Union Parliament![/i]
+The Parliament of The Democratic Union!
 
-[b]Prime Minister:[/b] [nation]Santa Lucia[/nation] 
-
-[b]Speaker:[/b] [nation]Kenis[/nation]
-
-[u]Members of Parliament[/u]: [nation]East Meranopirus[/nation], [nation]Doilandia[/nation], [nation]Santa Lucia[/nation], [nation]Pap Sculgief[/nation], [nation]MrKingSteak[/nation], [nation]Kenis[/nation], [nation]Girada[/nation], [i]Vacant[/i]
+Speaker: [nation]Kenis[/nation]

@@ -9,9 +9,9 @@ Motto: Hail the Greater Shipgodian Reich
 War Motto: Never Surrender
 
 States: none
-Puppets: [region]America Empire[/region], [region]The Balestrian States of Shipgod[/region]
-colonies:[region]Shipgod North America[/region], [region]Shipgod Germany[/region], [region]Shipgod China[/region]
-Military Bases: [region]Base Charlie[/region], [region]Base Deareqa[/region], [region]Fort Bragg[/region]
+Puppets: none
+colonies:none
+Military Bases:none
 
 Allies: [region]Imperial War Invaders[/region], [region]Yamstan Invasionx[/region], [region]The Cevlaian Empire[/region]
 Wars: None
