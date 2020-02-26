@@ -1,6 +1,7 @@
 The Armourverse is a puppet storage region.
 
 Our child regions:
+- [region]Alliance of Earth[/region]
 - [region]The Corporate Federation[/region]
 - [region]Federation of Allied States[/region]
 - [region]Galactic Coalition[/region]
