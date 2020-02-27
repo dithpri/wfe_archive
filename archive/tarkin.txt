@@ -21,7 +21,7 @@ Secretary of State: [nation]The Garariruhr[/nation]
 [color=navy][b][u]Supreme Court:[/color][/b][/u]
 [i]Chief Justice:[/i] [nation]Learned Hands[/nation]
 Associate Justice: [nation]Vanadium-Tungsten[/nation]
-Associate Justice: Open
+Associate Justice: [nation]Marasaw[/nation]
 
 [b]ROLEPLAY | [/b]Tarkin is set in the [b]Interwar Period (1919-1941)[/b] for technology.
 
