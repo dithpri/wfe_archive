@@ -15,7 +15,4 @@ Official Languages: English, French, Norwegian, Finnish, Swedish, Latin, Irish, 
 
 Recognized Regional Languages: Sami, Greenlandic
 
-Official Numerical Bases: Binary, Seximal, Decimal, Dozenal, Hexadecimal, Niftimal,
-
-
 Official Map Projections: Euler Spiral, Peirce Quincuncial, Eckert IV, 

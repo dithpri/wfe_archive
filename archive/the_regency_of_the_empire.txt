@@ -1,8 +1,8 @@
 [b]&amp;#9813; The Regency of the Empire &amp;#9813;
 [/b][i]Legislative body of [region]The United Empires of Carson[/region][/i][hr]The Second Regency of the Empire - [list] &amp;#9670; Regent [nation=noflag]Fungsland[/nation] ([nation=noflag]Fungslandian Ambassador[/nation])
-&amp;#9670; Regent [nation=noflag]Evilligia[/nation] ()
+&amp;#9670; Regent [nation=noflag]Evilligia[/nation] ([nation=noflag]The Evilligian Embassy[/nation])
 &amp;#9670; Regent [nation=noflag]Catowe[/nation] ([nation=noflag]Regent Catowe[/nation])
-&amp;#9670; Regent [nation=noflag]Holyndia[/nation] ()
-&amp;#9670; Regent [nation=noflag]Emmalee Land[/nation] ()[/list][hr]&amp;#10043; [i]Current Order of Business: [/i] Choosing a Lord Regent
+&amp;#9670; Regent [nation=noflag]Holyndia[/nation] ([nation=noflag]Regent Holyndia[/nation])
+&amp;#9670; Regent [nation=noflag]Emmalee Land[/nation] ([nation=noflag]Regent Emmalee[/nation])[/list][hr]&amp;#10043; [i]Current Order of Business: [/i] Choosing a Lord Regent
 &amp;#10045; [i]Next Order of Business:[/i] None
 &amp;#10051; [i]Past Order of Business:[/i] None
