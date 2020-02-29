@@ -1,0 +1,1 @@
+print(&quot;Hello new nation&quot;)
