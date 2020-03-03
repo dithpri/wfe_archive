@@ -1,10 +1,11 @@
-
-
 [b]Capital[/b]:  Hightower D.B
-[b]Eldest Nation/b]: [nation]United Federation of Earland[/nation]
-[b]Safest Nation[/b]: [nation]Chamberlin[/nation]
-
+[hr]
+[b]Republics/states[/b]: 53 nations
+[b]Colonies[/b]: 4 nations
+[b]Commonwealths[/b]: 10 nations
+[hr]
 [b]Allies[/b]
+[region]The Westphalian Union[/region]
 [region]Sargon[/region]
 [region]Russian federation[/region]
 [region]The Peoples Republic of China[/region]
