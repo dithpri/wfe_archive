@@ -1,5 +1,1 @@
-[region]Plebeia[/region] is a unification of several small nation states to form a larger governmental organisation with the overall interests of its nations at heart. The nations in question maintain strong and friendly relations and aim to help each other when possible. Nations states so far include:
-The Democratic Republic of [nation]Swareast[/nation], renowned for their safety regulations, beverage sales, and founding of Plebeia.
-The Free Land of [nation]Tans Che[/nation], known for their remarkable basket-weavers and automotive manufacturers.
-The Community of [nation]Chicken Wraps[/nation], a haven of political freedoms, civil rights and fast pizza deliveries.
-And the Community of [nation]Moroznyye Volki[/nation], a recently founded nation of kindhearted and intelligent individuals.
+[region]Plebeia[/region] is a unification of several small nation states to form a larger governmental organisation with the overall interests of its nations at heart. The nations in question maintain strong and friendly relations and aim to help each other when possible. 

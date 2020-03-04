@@ -1,8 +1,7 @@
-
 mars planet 
-clouds being made and protection from the sun:10%
-temp: -55
-o2: 0.9%
-water: 0.08%
+clouds being made and protection from the sun:14%
+temp: -45
+o2: 1.5%
+water: 0.1%
 biomass(green):0%
-money for this: 750 billion dollars
+money for this: 1 trillion dollars
