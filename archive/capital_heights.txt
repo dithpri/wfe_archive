@@ -1,1 +1,10 @@
-[color=green][b]Capital Heights[/b][/color]
+[color=0080FF][b]Capital Heights[/b]
+[/color][color=0033CC]
+A Generic Region Name 
+a QSA puppet storage region
+[/color][color=996633]
+REGION
+A Queen&#39;s State Region
+[b]Founded:[/b] 2017 May 02
+[b]Featured:[/b] 2020 Mar 05[/color][color=CC6600]
+[b]Embassy Offers Accepted[/b][/color]

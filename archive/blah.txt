@@ -1,1 +1,6 @@
-blah
+Card collecting stuff.
+
+0.10 - Rare
+0.20 - Ultra Rare
+0.50 - Epic
+??? - Legendary

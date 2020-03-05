@@ -1,0 +1,16 @@
+[b]Capital[/b]:  Kingsbury
+[hr]
+Monarch: King Grauf II
+[b]Colonies[/b]: ???
+[b]Commonwealths[/b]: ???
+[hr]
+[b]Allies[/b]
+[region]British Empire[/region]
+[region]Aissurian Union[/region]
+[region]The Westphalian Union[/region]
+[region]Sargon[/region]
+[region]Russian federation[/region]
+[region]The Peoples Republic of China[/region]
+[region]Syrian Arab Republic[/region]
+[region]Cuba[/region]
+[region]the Republic of Venezuela[/region]
