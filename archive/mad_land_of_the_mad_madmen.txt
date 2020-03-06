@@ -1,1 +1,1 @@
-A region for puppet storage.
+Region for puppet storage.
