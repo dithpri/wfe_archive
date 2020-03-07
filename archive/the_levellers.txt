@@ -12,11 +12,12 @@
 [nation]The Celtic Dragon[/nation] - Interim Imperial Chancellor, Head of Government 
 [nation]Falistia[/nation] - Minister of Defence and Internal Affairs
 [nation]Mohacian[/nation] - Minister of Foreign Affairs
-[nation]Canogally[/nation] - Minister of Justice
+[nation]Canogally[/nation] - Minister of Justice, WA Delegate
 
 [color=#137CC2][b]Senate[/b][/color]
 
-[nation]Christenmark[/nation]
+[nation]Rocketsaw[/nation] (Interim Senator)
 [nation]Brunswick South[/nation]
 [nation]Logiand[/nation] 
 [nation]The Libirachi Empire[/nation]
+[nation]Falistia[/nation]

@@ -1,1 +1,9 @@
-Welcome to the House of Commons for the region of [region]Thaecia[/region].
+[u][b][color=blue]Welcome to the[/color] [color=green]House of Commons[/color] [color=blue]for the region of [region]Thaecia[/region].[/color]
+[/b][/u]
+Speaker of the House: N/A
+Deputy Speaker of the House: N/A
+Shadow Speaker of the House: N/A
+
+Previous Business: N/A
+Current Business: N/A
+Next Business: N/A
