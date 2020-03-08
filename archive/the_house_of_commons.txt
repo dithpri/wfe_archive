@@ -1,5 +1,8 @@
-[u][b][color=blue]Welcome to the[/color] [color=green]House of Commons[/color] [color=blue]for the region of [region]Thaecia[/region].[/color]
+[u][b][color=blue]Welcome to the [/color][/u][u][color=green]House of Commons[/color][color=blue] [/color][/u][color=blue][u]for the region of [region]Thaecia[/region].[/color]
 [/b][/u]
+
+[i][b]Make sure to read the [url=https://www.nationstates.net/nation=hoc_founder/detail=factbook/id=1328943]Parliamentary Procedures Act[/url] to know how you should behave in Commons![/b][/i]
+
 Speaker of the House: N/A
 Deputy Speaker of the House: N/A
 Shadow Speaker of the House: N/A
