@@ -14,10 +14,3 @@
 [nation]Mohacian[/nation] - Minister of Foreign Affairs
 [nation]Canogally[/nation] - Minister of Justice, WA Delegate
 
-[color=#137CC2][b]Senate[/b][/color]
-
-[nation]Rocketsaw[/nation] (Interim Senator)
-[nation]Brunswick South[/nation]
-[nation]Logiand[/nation] 
-[nation]The Libirachi Empire[/nation]
-[nation]Falistia[/nation]
