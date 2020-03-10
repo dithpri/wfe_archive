@@ -1,0 +1,13 @@
+This region contains all nations within the geopolitical sphere of influence of the great nation of Zohiania.
+
+[u][b]Free Nations In Regional Control:[/b][/u]
+
+[nation]Zohiania[/nation]
+
+
+
+[u][b]Hostile States in Region:[/b][/u]
+
+[nation]The Soviet Republic of Chern[/nation] (Soviet Communism)
+[nation]The 5th Caliph[/nation] (Islamic Fundamentalism)
+[nation]Pots Pol[/nation] (Agrarian Communism)
