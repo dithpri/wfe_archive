@@ -3,10 +3,12 @@
 
 [i][b]Make sure to read the [url=https://www.nationstates.net/nation=hoc_founder/detail=factbook/id=1328943]Parliamentary Procedures Act[/url] to know how you should behave in Commons![/b][/i]
 
-Speaker of the House: [nation]Rayekka[/nation] - [i][color=green][PP][/color][/i]
+[b]Composition: PP-PCT Minority Coalition[/b]
+
+[i]Speaker of the House: [nation]Rayekka[/nation] - [color=green][PP][/color]
 Deputy Speaker of the House: N/A
 Shadow Speaker of the House: N/A
 
-Previous Business: N/A
-Current Business: N/A
-Next Business: N/A
+Previous Business: State Opening of Parliament
+Current Business: Confirmation of [nation]The Bigtopia[/nation] to be Foreign Affairs Minister
+Next Business: Confirmation of [nation]Antenion[/nation] to be Culture Minister[/i]
