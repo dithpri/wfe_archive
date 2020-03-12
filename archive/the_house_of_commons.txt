@@ -5,10 +5,15 @@
 
 [b]Composition: PP-PCT Minority Coalition[/b]
 
-[i]Speaker of the House: [nation]Rayekka[/nation] - [color=green][PP][/color]
-Deputy Speaker of the House: N/A
-Shadow Speaker of the House: N/A
+[i][b]Speaker of the House: [nation]Rayekka[/nation][/b] [color=green][PP][/color]
+Deputy Speaker of the House: [nation]Ilefeb[/nation] [color=darkorange][PCT][/color]
 
-Previous Business: State Opening of Parliament
-Current Business: Confirmation of [nation]The Bigtopia[/nation] to be Foreign Affairs Minister
-Next Business: Confirmation of [nation]Antenion[/nation] to be Culture Minister[/i]
+[b]Shadow Speaker of the House: N/A[/b]
+Opposition Party Caucus Leader: [nation]The Marconian State[/nation] [color=blue][TPU][/color]
+Opposition Party Caucus Leader: [nation]Zon island[/nation] [color=#C1175C][UNI][/color]
+Opposition Party Caucus Leader: [nation]evileia[/nation] [color=skyblue][SDT][/color]
+Opposition Party Caucus Leader: [nation]pap sculgief[/nation] [color=purple][LFP][/color]
+
+Previous Business: Confirmation of [nation]The Bigtopia[/nation] to be Foreign Affairs Minister
+Current Business: Confirmation of [nation]Antenion[/nation] to be Culture Minister
+Next Business: Emergency Legislation - Amendment to L.R.024 Parliament Procedures Reform Act[/i]
