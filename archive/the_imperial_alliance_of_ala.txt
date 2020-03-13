@@ -8,7 +8,7 @@ Monarch: [nation]Imperial Commonwealth of Nations[/nation]
 Prince: [nation]Beef Republic[/nation]
 
 [b]Government[/b]
-WA Delegate: [nation]Help us all[/nation]
+Secretary of State: [nation]Help us all[/nation]
 Prime Minister: [nation]Mountain Cave[/nation]
 
 [i]Cabinet[/i]

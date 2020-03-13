@@ -12,7 +12,6 @@ Deputy Speaker of the House: [nation]Ilefeb[/nation] [color=darkorange][PCT][/co
 Opposition Party Caucus Leader: [nation]The Marconian State[/nation] [color=blue][TPU][/color]
 Opposition Party Caucus Leader: [nation]Zon island[/nation] [color=#C1175C][UNI][/color]
 Opposition Party Caucus Leader: [nation]evileia[/nation] [color=skyblue][SDT][/color]
-Opposition Party Caucus Leader: [nation]pap sculgief[/nation] [color=purple][LFP][/color]
 
 Previous Business: Confirmation of [nation]The Bigtopia[/nation] to be Foreign Affairs Minister
 Current Business: Confirmation of [nation]Antenion[/nation] to be Culture Minister
