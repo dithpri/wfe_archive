@@ -14,5 +14,6 @@ Prime Minister: [nation]Mountain Cave[/nation]
 [i]Cabinet[/i]
 War Secretary: [nation]Goblin Park[/nation]
 Chancellor and Treasurer: [nation]Northern-Texas[/nation]
+Vice Secretary: [nation]TERNON[/nation]
 
 [b][i][u]Hail to King Ethan[/u][/i][/b]
