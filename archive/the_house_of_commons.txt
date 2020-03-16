@@ -13,6 +13,6 @@ Opposition Party Caucus Leader: [nation]The Marconian State[/nation] [color=blue
 Opposition Party Caucus Leader: [nation]Zon island[/nation] [color=#C1175C][UNI][/color]
 Opposition Party Caucus Leader: [nation]evileia[/nation] [color=skyblue][SDT][/color]
 
-Previous Business: Confirmation of [nation]Antenion[/nation] to be Culture Minister
-Current Business: Emergency Legislation - Amendment to L.R.024 Parliament Procedures Reform Act
-Next Business: Confirmation of [nation]United States of Edingbridge[/nation] to be Interior Minister[/i]
+Previous Business: Emergency Legislation - Amendment to L.R.024 Parliament Procedures Reform Act
+Current Business: Confirmation of [nation]United States of Edingbridge[/nation] to be Interior Minister
+Next Business: Confirmation of [nation]Broustan[/nation] to be Justice Minister[/i]
