@@ -1,1 +1,1 @@
-[region]Auraelia[/region]
+This is just the puppet storage and backup region for [region]Auraelia[/region]

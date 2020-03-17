@@ -1,0 +1,30 @@
+...And anarchists too!
+
+Anyhow, I&#39;m bored and making a bunch of positions to be in if that makes you happy. DM me, Abduco, to be in an Election.
+
+[u]World Assembly Delegate: Available![/u]
+Desc: You know what this is.
+
+Requirements:
+1. Win the Election.
+2. Be in the World Assembly.
+
+[u]Vice-Delegate - Available![/u]
+Desc: Does anything I&#39;m too lazy to do... sorry.
+
+Requirements:
+1. Win the Election.
+
+[u]Libertarian Representative - Available![/u]
+Desc: Responsible for decisions of the more powerful Libertarian party.
+
+Requirements:
+1. Win the Election.
+2. Have a Libertarian Government.
+
+[u]Anarchist Representative - Available![/u]
+Desc: Responsible for the decisions of the lesser, but still powerful, Anarchist party.
+
+Requirements:
+1. Win the Election.
+2. Have an Anarchist Government.

@@ -3,5 +3,6 @@ The Armourverse is a puppet storage region.
 Our child regions:
 - [region]Alliance of Earth[/region]
 - [region]The Corporate Federation[/region]
+- [region]Fallout Universe[/region]
 - [region]Galactic Coalition[/region]
 - [region]Terran League[/region]
