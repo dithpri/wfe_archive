@@ -1,18 +1,18 @@
 [u][b][color=blue]Welcome to the [/color][/u][u][color=green]House of Commons[/color][color=blue] [/color][/u][u][color=blue]for the region of [region]Thaecia[/region].[/color]
 [/b][/u]
 
-[i][b]Make sure to read the [url=https://www.nationstates.net/nation=hoc_founder/detail=factbook/id=1328943]Parliamentary Procedures Act[/url] to know how you should behave in Commons![/b][/i]
+[i][b]Make sure to read the [url=https://www.nationstates.net/page=dispatch/id=1333656]Parliamentary Procedures Act[/url] to know how you should behave in Commons![/b][/i]
 
-[b]Composition: PP-PCT Minority Coalition[/b]
+[b]Composition: PP Minority Government[/b]
 
 [i][b]Speaker of the House: [nation]Rayekka[/nation][/b] [color=green][PP][/color]
-Deputy Speaker of the House: [nation]Ilefeb[/nation] [color=darkorange][PCT][/color]
+Deputy Speaker of the House: N/A
 
 [b]Shadow Speaker of the House: N/A[/b]
+Opposition Party Caucus Leader: [nation]evileia[/nation] [color=skyblue][SPT][/color]
 Opposition Party Caucus Leader: [nation]The Marconian State[/nation] [color=blue][TPU][/color]
 Opposition Party Caucus Leader: [nation]Zon island[/nation] [color=#C1175C][UNI][/color]
-Opposition Party Caucus Leader: [nation]evileia[/nation] [color=skyblue][SDT][/color]
 
-Previous Business: Emergency Legislation - Amendment to L.R.024 Parliament Procedures Reform Act
-Current Business: Confirmation of [nation]United States of Edingbridge[/nation] to be Interior Minister
+Previous Business: Confirmation of [nation]United States of Edingbridge[/nation] to be Interior Minister
+Current Business: Confirmation of [nation]Rhyssua[/nation] to be Electoral Commissioner
 Next Business: Confirmation of [nation]Broustan[/nation] to be Justice Minister[/i]
