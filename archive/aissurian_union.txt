@@ -1,10 +1,12 @@
+[color=#174173]
+[b]Commissioner[/b]:  Konrad Gorman
 [b]Capital[/b]:  Hightower D.B
 [hr]
-[b]Republics/states[/b]: 53 nations
-[b]Colonies[/b]: 4 nations
-[b]Commonwealths[/b]: 10 nations
+[b]Republics/states[/b]: 52 nations
+[b]Colonies[/b]: 6 
 [hr]
-[b]Allies[/b]
+[/color]
+[b]AllIES[/b]
 [region]The Westphalian Union[/region]
 [region]Sargon[/region]
 [region]Russian federation[/region]
