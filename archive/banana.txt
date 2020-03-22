@@ -1,12 +1,12 @@
-[color=1164c8][b]Banana[/b]
-HELPFUL TOOLS:
-- [url=http://texasregion.net/nsdossier/]Dossier Tools[/url] (from region of [region=Texas])
+[color=green][b]Banana[/b][/color]
 
-This region plays [url=http://texasregion.net/nsdossier/embassyOracle.aspx][b]Embassy Oracle Game[/b][/url]
-- the theme of this game is to create a long chain of regions
-- each region is linked by their embassy (each with only 2 embassies) to the region before and after in the order of the update; 
-- Embassy oracle regions cannot have any outside embassies, as these will short circuit the chain
-- Eventually, all of these region&#39;s WFE will only show the region name in bold green type
-- This region and the final region on my list will only have one embassy.
-- My [b]Matrix List[/b] is represented by [region=United States of America] and [region=Great Britain and Northern Ireland] in the middle of the chain
-- as of 2019 Aug. 15th, this is Region Alfa of my embassy oracle list[/color]
+[color=803000]Links:
+[url=http://texasregion.net/nsdossier/embassyOracle.aspx]Oracle[/url]
+This link determines the degree of separation between two regions
+
+[url=http://texasregion.net/nsdossier/]NS Dossier[/url]
+Thanks [region=Texas] for the tools to make this game easier[/color]
+
+[color=olive]REGION
+This is an [region=Old Spirit] region
+[b]Founded:[/b] 2020.03.22[/color]
