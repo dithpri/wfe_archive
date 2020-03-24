@@ -1,12 +1,18 @@
 [color=#174173]
 [b]Commissioner[/b]:  Konrad Gorman
-[b]Capital[/b]:  Hightower D.B
+[b]Capital[/b]:  Hightower, District of Bluewall
 [hr]
-[b]Republics/states[/b]: 52 nations
-[b]Colonies[/b]: 6 
+[b]States[/b]: 52 
+[b]Colony[/b]: [region]Aissurian Islands[/region]
+[b]Population[/b]: 1.2 billion
+[b]Gdp: [/b]21 trillion
+[b]Gdp (ppp): [/b]70 trillion
 [hr]
 [/color]
 [b]AllIES[/b]
+[region]United Federation of Maurain[/region]
+[region]Great Laurania[/region]
+[region]United Provinces of Xiaoland[/region]
 [region]The Westphalian Union[/region]
 [region]Sargon[/region]
 [region]Russian federation[/region]

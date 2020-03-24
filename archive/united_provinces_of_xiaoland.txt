@@ -1,0 +1,22 @@
+[color=#174173]
+[b]General Secretary[/b]:  Charles Zhang
+[b]Capital[/b]: Panhou
+[hr]
+[b]Provinces[/b]: 4
+[b] Independence From[/b]: [region]Aissurian Union[/region]
+[b] Population[/b]: 50 million
+[b] GDP[/b]: 2.1 trillion
+[b] GDP PER[/b]: $42,00
+[hr]
+[/color]
+[b]AllIES[/b]
+[hr]
+[region]Aissurian Union[/region]
+[region]The Peoples Republic of China[/region]
+[region]The Westphalian Union[/region]
+[region]Sargon[/region]
+[region]Russian federation[/region]
+[region]The Peoples Republic of China[/region]
+[region]Syrian Arab Republic[/region]
+[region]Cuba[/region]
+[region]the Republic of Venezuela[/region]
