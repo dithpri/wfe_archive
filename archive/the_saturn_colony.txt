@@ -1,3 +1,35 @@
-[Color=scarlet][b]This region belongs to the [region]Raxus Empire[/region].
+[b]ASTROGRAPHICAL INFORMATION[/b]
 
-(Governor wanted, contact [nation]Rost Dreadnorramus[/nation] if interested).[/color][/b]
+[B]SYSTEM[/b]: SOL
+
+[B]ORBITAL BODY[/b]: Sun
+
+[B]POSITION[/b]: 6th
+
+[B]NATURAL SATELLITES[/b]: &amp;gt; 150
+[Hr]
+[B]PHYSICAL INFORMATION[/b]
+
+[B]DIAMETER[/b]: 116,464 km
+
+[B]GRAVITY[/b]: 1.065 g
+
+[B]LENGTH OF YEAR[/b]: 29.4 years
+
+[B]ATMOSPHERIC COMPOSITION[/b]: 96% hydrogen 3% helium 0.4% methane 0.01% ammonia
+
+[B]TEMPERATURE[/b]: 84 K (average)
+[Hr]
+[B]SOCIETAL INFORMATION[/b]
+
+[B]SPECIES[/b]: Human
+
+[B]POPULATION[/b] 15,000,000 (Saturnian system)
+
+[B]GOVERNMENT[/b]: Empire
+
+[B]Currency[/b]: Ringlets
+
+[B]National Animal[/b]: Falcon
+
+[B]Demonym[/b]: Saturnian
