@@ -1,23 +1,16 @@
-[color=#174173]
-[b]President[/b]:  Emmanuel Cornette
+[hr][hr][color=#174173][b]President[/b]:  Emmanuel Cornette
 [b]Prime Minister[/b]:  Maryse Cortell
-[b]Capital[/b]: Marche Noire
-[hr]
+[b]Capital[/b]: Marche Noire[hr][hr][b]Biggest City[/b]: Los Denise
 [b]Provinces[/b]: 6
 [b] Population[/b]:  33 million
 [b] Independence From[/b]: [region]Aissurian Union[/region]
 [b]GDP[/b]: 1.5 trillion
-[b]GDP Per[/b]:  $45,500
-
-[hr]
-56.6% [b]White[/b]
+[b]GDP Per[/b]:  $45,500[hr]56.6% [b]White[/b]
 23.5% [b]Black[/b]
 16.6% [b]Biracial[/b]
 3.1%.  [b]Native[/b]
-[/color]
-[b]AllIES[/b]
-[hr]
-[region]Aissurian Union[/region]
+[/color][b]AllIES[/b]
+[hr][region]Aissurian Union[/region]
 [region]The Peoples Republic of China[/region]
 [region]The Westphalian Union[/region]
 [region]Sargon[/region]
@@ -25,4 +18,4 @@
 [region]The Peoples Republic of China[/region]
 [region]Syrian Arab Republic[/region]
 [region]Cuba[/region]
-[region]the Republic of Venezuela[/region]
+[region]the Republic of Venezuela[/region][hr][hr]

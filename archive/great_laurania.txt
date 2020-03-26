@@ -1,10 +1,21 @@
-[hr]
-[b]Prime Minister:[/b] Valery Schorchev
-[b]Capital[/b]:  Darkouversbourg
-[b]states[/b]: 3
-[hr]
-[b]Allies[/b]
-The [region]Aissurian Union[/region]
+[hr][hr][color=#174173][b] Monarch[/b]:  Grauf ii
+[b]Prime Minister[/b]: Robert Covington
+[b]Capital[/b]:  Ludington Abbey
+[b]Largest City[/b]: Walmington[hr][hr] [b] Government[/b]: Personal Union Kingdom
+[b]States[/b]: 3
+[b]EX Territories[/b]: [nation]North Yankten[/nation],[nation]South Yankten[/nation]
+[b]Population[/b]: 25 million
+[b]Gdp: [/b] 1.4 trillion
+[b]Per Capita: [/b]$66,000
+[b]Currency[/b]: Jenning
+[b]Official Language[/b]: English
+[hr][/color][b]Click on Anthem[/b]: [url=https://youtu.be/d6nD7WTERzE][color=black]
+[i]&quot;Great Laurania&quot;[/i][/color][/url]
+[hr][b]AllIES[/b]
+[region]Aissurian Union[/region]
+[region]United Federation of Maurain[/region]
+[region]Great Laurania[/region]
+[region]United Provinces of Xiaoland[/region]
 [region]The Westphalian Union[/region]
 [region]Sargon[/region]
 [region]Russian federation[/region]
@@ -12,4 +23,5 @@ The [region]Aissurian Union[/region]
 [region]Syrian Arab Republic[/region]
 [region]Cuba[/region]
 [region]the Republic of Venezuela[/region]
-[hr]
+
+

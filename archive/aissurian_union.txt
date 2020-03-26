@@ -1,15 +1,16 @@
-[color=#174173]
-[b]Commissioner[/b]:  Konrad Gorman
-[b]Capital[/b]:  Hightower, District of Bluewall
-[hr]
+[hr][hr][color=#174173][b]Commissioner[/b]:  Konrad Gorman
+[b]Capital[/b]:  Hightower, District of Bluewall[hr][hr] [b] Government[/b]: Federal Constitutional Union
 [b]States[/b]: 52 
+[b]Anthem[/b]: 52
 [b]Colony[/b]: [region]Aissurian Islands[/region]
 [b]Population[/b]: 1.2 billion
 [b]Gdp: [/b]21 trillion
 [b]Gdp (ppp): [/b]70 trillion
-[hr]
-[/color]
-[b]AllIES[/b]
+[b]Currency[/b]: Aissurian Jenning
+[b]Largest City[/b]: Allegiant 
+[hr][/color][b]Click on Anthem[/b]: [url=https://youtu.be/CXhyKKxb7q4][color=black]
+[i]&quot;Aissurian Song&quot;[/i][/color][/url]
+[hr][b]AllIES[/b]
 [region]United Federation of Maurain[/region]
 [region]Great Laurania[/region]
 [region]United Provinces of Xiaoland[/region]
@@ -20,3 +21,5 @@
 [region]Syrian Arab Republic[/region]
 [region]Cuba[/region]
 [region]the Republic of Venezuela[/region]
+
+
