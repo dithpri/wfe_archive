@@ -5,7 +5,7 @@ Motto: Glory to the Empire
 Emperor: Zakhaev Illokoviev I
 Prime Minister: [nation]Zicona[/nation]
 Capital: Balestopia
-Government Economy: 500,000
+Money in Treasury  1,000,000
 Official religion: Foxism
 
 Anthem: [url=https://www.youtube.com/watch?v=MG2cACAKuzM&amp;list=PLhyKYa0YJ_5CLePBLpiF8F6guN8qdTxDA&amp;index=1]Cr&ecirc;te-&agrave;-Pierrot[/url]
