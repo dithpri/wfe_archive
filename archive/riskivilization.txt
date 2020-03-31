@@ -21,8 +21,8 @@ National Plants:
 -National Tree: Maple Tree
 -National Flower: Sunflower
 
-Official Languages: English, French, Norwegian, Finnish, Swedish, Latin, Portuguese, Irish, Italian, Spanish
+Official Languages: English, French, Norwegian, Finnish, Swedish, Latin, Irish, Italian, 
 
-Recognized Regional Languages: Sami, Inuktitut, Greenlandic
+Recognized Regional Languages: Sami, Inuktitut, Greenlandic, Portuguese, Spanish
 
 Official Map Projections: Euler Spiral, Peirce Quincuncial, Eckert IV, 
