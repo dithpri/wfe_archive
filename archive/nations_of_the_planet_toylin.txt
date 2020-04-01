@@ -1,4 +1,9 @@
-The Federation of Nations of the Planet Toylin is a federated planetary government composed of the democratic regions of the United Socialist States of Gotemme and Klozhet, the United States of Dolliwud, the Confederacy of Forbitten, the Republic of Batrumme, the Commonwealth of Hull wai, and the United Kingdom of Adultii.
+The Federation of [region]Nations of the Planet Toylin[/region] is a federated planetary government composed of the seven independent, sovereign, democratic nations of the planet of Toylin:
 
-Forged in the aftermath of the Toylinian Revolution - the Federation&#39;s purpose is to restore law and order across the planet, and to ensure peace through the nations of Toylin.
-
+- The Empire of Royal Estates of [nation]Adultii[/nation]
+- The Union of Democratic States of [nation]Batrumme[/nation]
+- The Union of Liberal Democracies of [nation]Dolliwud[/nation]
+- The Union of Workers Republics of [nation]Forbitten[/nation]
+- The Union of Council Republics of [nation]Gotemme[/nation]
+- The United States of the Region of [nation]Hull-wai[/nation]
+- The Union of Socialist States of [nation]Klozhet[/nation]
