@@ -1,1 +1,3 @@
 Region for puppet storage.
+
+Will accept embassy requests.
