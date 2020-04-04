@@ -1,0 +1,4 @@
+main acc: [nation]RussiaBasjkirostan[/nation]
+first acc: [nation]RussiaAdygea[/nation]
+
+main region: [region]New Epinadia[/region]
