@@ -3,10 +3,10 @@
 
 [i][b]Make sure to read the [url=https://www.nationstates.net/page=dispatch/id=1333656]Parliamentary Procedures Act[/url] to know how you should behave in Commons![/b][/i]
 
-[b]Composition: PP Minority Government[/b]
+[b]Composition: PP-LPT Minority Coalition[/b]
 
 [i][b]Speaker of the House: [nation]Rayekka[/nation][/b] [color=green][PP][/color]
-Deputy Speaker of the House: N/A
+Deputy Speaker of the House: [nation]Libertyopolis[/nation] [color=dodgerblue][LPT][/color]
 
 [b]Shadow Speaker of the House: N/A[/b]
 Opposition Party Caucus Leader: [nation]evileia[/nation] [color=skyblue][SPT][/color]
