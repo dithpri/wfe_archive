@@ -3,7 +3,7 @@
 [hr]
 [u][B][color=blue]Parliament[/color][/B][/u]
 [i][color=blue]Speaker of Parliament:[/color] [nation]Segennea[/nation][/i]
-[i][color=blue]Vice Speaker:[/color] Vacant[/i]
+[i][color=blue]Vice Speaker:[/color] [nation]United States of Devonta[/nation][/i]
 [u][B][color=orange]Judiciary[/color][/B][/u]
 [i][color=orange]Chief Justice:[/color] Vacant[/i]
 [i][color=orange]Associate Justice(s): [/color] Vacant and Vacant[/i]
