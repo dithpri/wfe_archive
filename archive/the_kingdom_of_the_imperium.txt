@@ -5,3 +5,6 @@ Founder: [nation]Italienisches Imperium[/nation]
 [b]Regional Government:[/b]
 King: [nation]Italienisches Imperium[/nation]
 Chancellor: [nation]Nationalsozialistische Deutsche[/nation]
+
+Enemies of the Kingdom:
+[region]The European Commonwealth[/region]
