@@ -1,13 +1,10 @@
-[region]Beykree[/region]
+[B][Color=maroon][Region]Beykree[/region][/b] | The Beacon of HOPE, governed with LOVE, and guided by FAITH.[/color]
+[Hr]
 
 L1 President 
+L2 Chief Baykree Officer 
 
-L2 Chief Baking Officer 
-E3 Master Baker
-E4 Food Technologist 
-E5 Technical Assistant
-
-L2 Chief Scientist
-E3 Levain Master
-E4 Flour Specialist
-E4 Technical Advisor
+E3 Baykree / Levain Master
+E4 Technical Advisor 
+E5 Baykree Technologist / Specialist
+E6 Baykree Assistant
