@@ -1,8 +1,6 @@
 [b][colour=darkred]Anarchy, abandonment. These are our watchwords now. But...[/b][/colour]
 
-[b][nation]Jocospor[/nation] survived. The Imperial Empire is regaining its power. The [i]true [/i]followers of the Emperor will always be loyal.[/b]
-
-[b][colour=darkred]The Shadow Cult is rising...[/b][/colour]
+[b][nation]Jocospor[/nation] survived and is regaining strength. [colour=darkred]The Shadow Cult is rising...[/b][/colour]
 
 [hr]
 
@@ -12,9 +10,11 @@
 
 [b][list][*]The [u]Confederation&#39;s government[/u] is headed by the Emperor&#39;s [colour=darkblue]Mouth and Will, [nation]Depackya[/nation].[/colour] 
 [/b][*][b]Join the [u]corrupt World Assembly[/u] and endorse the [colour=darkblue]Lord of Loathing, [nation]Shrewllamaland[/nation].[/colour][/b]
-[b][*]The [colour=darkblue]Imperial Senate[/colour]  is the Confederation&#39;s [u]primary mechanism of administration[/u]. [colour=red]Join[/colour] the World Assembly to participate![/b]
+[b][*]The [colour=darkblue]Imperial Senate[/colour]  is the Confederation&#39;s [u]primary mechanism of administration[/u]. [colour=darkblue]Join[/colour] the World Assembly to participate![/b]
 [list][*]Party in Government: [colour=darkblue]Unaligned Party (UP)[/colour]
-[*]President: [colour=darkblue]Alexander[/colour], of [nation]Alexander the Magnus[/nation][/list][/list]
+[*]President: [colour=darkblue]Alexander Firstborne[/colour], of [nation]Alexander the Magnus[/nation][/list][/list]
+
+[b][colour=red][u]Foreign Delegations[/u][/colour] should contact the [u]Ministry of Foreign Affairs[/u] under [nation]Valerox[/nation].[/b]
 
 [b][colour=darkred]HAIL THE CONFEDERATION![/b][/colour]
 
