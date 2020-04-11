@@ -12,9 +12,9 @@
 [/b][*][b]Join the [u]corrupt World Assembly[/u] and endorse the [colour=darkblue]Lord of Loathing, [nation]Shrewllamaland[/nation].[/colour][/b]
 [b][*]The [colour=darkblue]Imperial Senate[/colour]  is the Confederation&#39;s [u]primary mechanism of administration[/u]. [colour=darkblue]Join[/colour] the World Assembly to participate![/b]
 [list][*]Party in Government: [colour=darkblue]Unaligned Party (UP)[/colour]
-[*]President: [colour=darkblue]Alexander Firstborne[/colour], of [nation]Alexander the Magnus[/nation][/list][/list]
+[*]President: [colour=darkblue]Alexander Firstborne[/colour], of [nation]Alexander the Magnus[/nation][/list]
 
-[b][colour=red][u]Foreign Delegations[/u][/colour] should contact the [u]Ministry of Foreign Affairs[/u] under [nation]Valerox[/nation].[/b]
+[b][*][colour=red][u]Foreign Delegations[/u][/colour] should contact the [u]Ministry of Foreign Affairs[/u] under [nation]Valerox[/nation].[/b][/list]
 
 [b][colour=darkred]HAIL THE CONFEDERATION![/b][/colour]
 
