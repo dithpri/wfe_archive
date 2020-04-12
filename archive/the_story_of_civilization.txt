@@ -15,13 +15,13 @@
 [/list]
 [hr]
 
-[b]The Administration:[/b] [nation=short]Voltan[/nation] (Founder) | [nation=short]Thurengia[/nation] (Regent) | [nation=short]Hyldebrandt[/nation] (Greeter) | [nation=short]Publectia[/nation] (Crisis Coordinator)
+[b]The Administration:[/b] [nation=short]Voltan[/nation] (Founder) | [nation=short]Thurengia[/nation] (Regent) | [nation=short][/nation] (Greeter)|  [nation=short][/nation] (Competition Coordinator) | [nation=short]Calamera[/nation] (Historian) 
 
 [hr]
 
 [color=red][b]Announcements/Events:[/b][/color]
 Early Medieval Update: 80CE
 [color=red][b]Current Year:[/b][/color]
-76 CE - The Seventy-Seventh Year of the Civilized Era
+77 CE - The Seventy-Eighth Year of the Civilized Era
 [color=red][b]Current Era:[/b][/color] 
 Late Antiquity
