@@ -3,12 +3,12 @@
 [u]Regional Government[/u]
 
 [color=red]President (Head of State)[/color]: [nation]Free Evrope[/nation] (acting)
-[color=purple]Chief Minister (Head of Government)[/color]: *open*
+[color=purple]Chief Minister (Head of Government)[/color]: [nation]Bolduria[/nation]
 
-Minister of Regional Affairs: *open*
-Minister of Outreach: *open*
+Minister of Regional Affairs: [nation]The Seventeen Cantons[/nation]
+Minister of Outreach: [nation]Saint Bonbibonkers[/nation]
 Minister of Law &amp; Order: *open*
-Minister of Entertainment/Media: *open*
+Minister of Entertainment/Media: [nation]Free Weed Land[/nation]
 
 [u]Shared principles:[/u]
 
