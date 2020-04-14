@@ -5,4 +5,5 @@ Our child regions:
 - [region]The Corporate Federation[/region]
 - [region]Fallout Universe[/region]
 - [region]Galactic Coalition[/region]
+- [region]Greater American Union[/region]
 - [region]Terran League[/region]
