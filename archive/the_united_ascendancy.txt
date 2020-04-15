@@ -7,10 +7,10 @@
 [b]&#149;[/b] Presidential Election: [i]August 2, 2020[/i]
 
 [b]&#149;[/b] Judicial Terms End: [i]August 18, 2020[/i]
-[hr][color=green][b]DEFCON 5:[/b][/color] Normal Readiness
-[color=green][b]Security Status:[/b][/color] Borders Open
-[color=orange][b]Combat Commands:[/b][/color] Begin Training
-[color=green][b]Military Movement:[/b][/color] Stand-by Position[hr]
+[hr][color=yellow][b]Readiness Condition:[/b][/color] DEFCON 3
+[color=red][b]Security Status:[/b][/color] High Alert
+[color=yellow][b]Military Commands:[/b][/color] [i]None at this time[/i]
+[hr]
 
 [color=purple]*Please, no advertising, spamming, or recruiting on our RMB or discord!*[/color]
 

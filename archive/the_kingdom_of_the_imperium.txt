@@ -8,3 +8,8 @@ Chancellor: [nation]Nationalsozialistische Deutsche[/nation]
 
 Enemies of the Kingdom:
 [region]The European Commonwealth[/region]
+[region]The Democratic Republic[/region]
+
+Allies of the Kingdom:
+[region]IWI Army[/region]
+[region]The Knights of Ren[/region]
