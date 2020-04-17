@@ -5,3 +5,4 @@ Vice-Delegate:[nation]RH0[/nation]
 Embassies:
 [region]The Embassy[/region]
 [region]Codex Ylvus[/region]
+[region]Sandboxers[/region]

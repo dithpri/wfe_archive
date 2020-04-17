@@ -1,7 +1,9 @@
-[color=green]Welcome to the region with the [b]biggest[/b] potential![/color]
+[color=green]Welcome to the region with the [b]biggest[/b] potential, [/color][region]The South Arctic Circle[/region]!
 
-[u][color=blue]Get[/color] to [i]know[/i] our founder and Vice[/u], [nation]Fox Island City[/nation] and [nation]Belgiulix[/nation]
+[u][color=blue]Get to [i]know[/i] our founder and Vice[/u], [nation]Fox Island City[/nation] and [nation]Belgiulix[/nation][/color]
 
-[b]Be sure to read the laws and the handbook.[/b]
+[b][color=turquoise]Be sure to read the laws and the handbook.[/b][/color]
 
-More to be soon!
+[color=green]Check out the regional anthem.[/color]
+
+[color=brown]Keep a lookout for other updates![/color]

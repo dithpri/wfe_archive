@@ -5,6 +5,8 @@ Founder: [nation]Italienisches Imperium[/nation]
 [b]Regional Government:[/b]
 King: [nation]Italienisches Imperium[/nation]
 Chancellor: [nation]Nationalsozialistische Deutsche[/nation]
+Offensive General: [nation][/nation]
+Defensive General: [nation]Hungarian Imperium[/nation]
 
 Enemies of the Kingdom:
 [region]The European Commonwealth[/region]
@@ -16,3 +18,8 @@ Allies of the Kingdom:
 [region][/region]
 [region]The Knights of Ren[/region]
 [region]GroBdeutschland Reich[/region]
+
+Fallen Allied Regions:
+[region]The Knights Of Ren[/region]
+
+Any nation that wants to help the Imperium, telegram me
