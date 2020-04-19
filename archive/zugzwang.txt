@@ -1,3 +1,8 @@
+Scoreboard:
+[region]The Black Hawks[/region]: [b]1[/b]
+
+So TBH messed up their bbcode. fixed it for you:
+[spoiler=TAG]
 [b]So your region got raided by [region]The Black Hawks[/region]. Hawkward!
 
 The Punning Hawks:
@@ -15,7 +20,7 @@ CPL [nation]Aurum Raider[/nation]
 CPL [nation]Black Hawk Zazumo[/nation]
 CPL [nation]Frankreed[/nation]
 CPL [nation]Sakana[/nation]
-CPL [nationThyroton[/nation]
+CPL [nation]Thyroton[/nation]
 PFC [nation]Martian Hunter[/nation]
 PFC [nation]Miravana[/nation]
-PFC [nation]Refuge Isle[/nation][/b]
+PFC [nation]Refuge Isle[/nation][/b][/spoiler]
