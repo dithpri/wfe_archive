@@ -3,13 +3,13 @@ ________________________________________________________________________________
 Seig Heil!
 _____________________________________________________________________________________________________________
 [b]Reich Leadership:[/b]
-Fuhrer: [nation]The Neo-Greater Nazi Reich[/nation]
-Reichfuhrer:
+F&uuml;hrer: [nation]The Neo-Greater Nazi Reich[/nation]
+Reichf&uuml;hrer: [nation][/nation]
 ReichChancellor:
-S.S. Fuhrer:
+S.S. F&uuml;hrer:
 Nazi Propaganda Minister:
 Minister of Defense:
 [b]Reichprotectorates:[/b]
 [region]The Kingdom of The Imperium[/region]
-
+[region][/region]
 

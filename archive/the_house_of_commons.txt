@@ -8,10 +8,9 @@
 [i][b]Speaker of the House: [nation]Rayekka[/nation][/b] [color=green][PP][/color]
 Deputy Speaker of the House: [nation]Libertyopolis[/nation] [color=dodgerblue][LPT][/color]
 
-[b]Shadow Speaker of the House: N/A[/b]
-Opposition Party Caucus Leader: [nation]evileia[/nation] [color=skyblue][SPT][/color]
+[b]Shadow Speaker of the House: [nation]Indian Genius[/nation] [color=#C1175C][UNI][/color][/b]
 Opposition Party Caucus Leader: [nation]The Marconian State[/nation] [color=blue][TPU][/color]
-Opposition Party Caucus Leader: [nation]Zon island[/nation] [color=#C1175C][UNI][/color]
+Opposition Party Caucus Leader: [nation]evileia[/nation] [color=skyblue][SPT][/color]
 
 Previous Business: Amendments to L.R. 008 Thaecian Legal Code
 Current Business: House Committees Act
