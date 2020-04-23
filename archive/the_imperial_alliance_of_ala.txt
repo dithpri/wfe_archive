@@ -9,7 +9,7 @@ Head of Government: [nation]Mountain Cave[/nation]
 Secretary of State: [nation]Help us all[/nation] 
 War Secretary: [nation]Goblin Park[/nation]
 Foreign Secretary: [nation]Beef Republic[/nation]
-Treasurer: [nation]Northern-Texas[/nation]
+Treasurer: [nation]North-Texans[/nation]
 Head of the Church: [nation]British-Dutch Union[/nation]
 
 [b]Political Parties[/b] 
