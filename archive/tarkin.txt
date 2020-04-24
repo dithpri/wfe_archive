@@ -2,7 +2,7 @@
 [color=gold] [b]Legatum Vivit[/b][i][/i][/color]
 [color=maroon][b]Founded on September 18th 2018[/b][/color]
 
-[b]| [url=https://www.nationstates.net/nation=tarkin/detail=factbook/id=main]Regional Constitution[/url] | [url=https://i.imgur.com/UlcQf9I.png]Regional Map[/url] | [url=https://i.imgur.com/qcpf0ZX.png]Physical Map[/url] |  [url=https://www.maptoglobe.com/rJsJIKgSH]Political Globe[/url] | [url=v]Discord[/url] 
+[b]| [url=https://www.nationstates.net/nation=tarkin/detail=factbook/id=main]Regional Constitution[/url] | [url=https://i.imgur.com/UlcQf9I.png]Regional Map[/url] | [url=https://i.imgur.com/AE7LSVI.png/qcpf0ZX.png]Physical Map[/url] |  [url=https://www.maptoglobe.com/rJsJIKgSH]Political Globe[/url] | [url=v]Discord[/url] 
 
 [u][color=maroon]Executive:[/color][/u][/b]
 President: [nation]CamerWoon[/nation]
@@ -10,7 +10,7 @@ Vice President: Open
 Attorney General: [nation]The Sanhedrin[/nation]
 Secretary of State: [nation]The Garariruhr[/nation]
 
-[color=brown][b][u]Senate:[/u][/b][/color]
+[color=gold][b][u]Senate:[/u][/b][/color]
 [nation]Carinth[/nation]
 [nation]Caska[/nation]
 [nation]Kiwannis[/nation]
