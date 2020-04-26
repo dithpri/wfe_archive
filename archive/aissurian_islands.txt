@@ -1,13 +1,10 @@
-[color=#174173]
-[b]Governor General[/b]: James Anderson
+[color=#174173][b]Governor[/b]: James Anderson
 [b]Capital[/b]: Wilington
-[hr]
+[hr][b] Sovereign State[/b]: [region]Aissurian Union[/region]
 [b]Islands[/b]: 4 chain Islands
-[b]Population[/b]: 2 million
-[b]Gdp: [/b] 110 billion
-[b]Gdp PER: [/b]$55,000
-[hr][/color]
-[b][nation]Aissurian Island[/nation][/b]
+[b]Population[/b]: 8 million
+[b]Gdp Per: [/b]$50,000
+[hr][/color][b][nation]Aissurian Island[/nation][/b]
 Beautiful Island that have 2 megatropolis cities with a strip full with skyscrapers. Beautiful beaches,free roam forest, amusement parks such as Magic Mountain and Knott&#39;s Berry Farm and great hotels.
 [b][nation]Bel-lair Resort[/nation][/b]
 Beautiful beaches, forest with swimmable lakes, zoos, amusement parks such as Universal Studios and Cedar Point
