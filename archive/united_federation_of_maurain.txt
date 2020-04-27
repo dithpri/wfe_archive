@@ -1,6 +1,6 @@
 [hr][hr][color=#174173][b]President[/b]:  Emmanuel Cornette
 [b]Prime Minister[/b]:  Maryse Cortell
-[b]Capital[/b]: Marche Noire[hr][hr][b]Biggest City[/b]: Los Denise
+[b]Capital[/b]: New Marche Noire[hr][hr][b]Biggest City[/b]: Los Denise
 [b]Provinces[/b]: 6
 [b] Population[/b]:  33 million
 [b] Independence From[/b]: [region]Aissurian Union[/region]
@@ -10,12 +10,27 @@
 16.6% [b]Biracial[/b]
 3.1%.  [b]Native[/b]
 [/color][b]AllIES[/b]
-[hr][region]Aissurian Union[/region]
-[region]The Peoples Republic of China[/region]
-[region]The Westphalian Union[/region]
-[region]Sargon[/region]
-[region]Russian federation[/region]
-[region]The Peoples Republic of China[/region]
-[region]Syrian Arab Republic[/region]
-[region]Cuba[/region]
-[region]the Republic of Venezuela[/region][hr][hr]
+[region] The Westphalian Union[/region]
+[region]France[/region]
+[region]Great Laurania[/region]
+[region]United Kingdom[/region]
+[region]The United States of America[/region]
+[region]Israel[/region]
+[region]Poland[/region]
+[region]NATO[/region]
+[region]European Union[/region]
+[region]Canada[/region]
+[region]Australia[/region]
+
+Geo political Nations at odds with
+[region]The Russian Federation[/region]
+[region]Aissurian Union[/region]
+[region]United Islamic Federation[/region]
+[region]The Peoples republic of China[/region]
+[region]Serbia[/region]
+[region]Turkey[/region]
+[region]Iranian Islamic Republic[/region]
+
+
+
+[hr][hr]

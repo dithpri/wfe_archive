@@ -6,6 +6,7 @@
 [colour=jacket][b]Colour of This Line: Jacket[/b][/colour]
 [colour=red][b]Awesomeness Scale:[/colour] [colour=orange]11/10[/b][/colour]
 [colour=red][b]Weather:[/colour] [colour=orange]It&#39;s a long story[/b][/colour]
+[colour=red][b]Do we want to merge?:[/colour] [colour=orange]No[/b][/colour]
 [colour=red][b]To Do List:[/colour] 
 [colour=orange]-Endorse [nation]Koxor[/nation]
 -Clean the windows[/b][/colour]
