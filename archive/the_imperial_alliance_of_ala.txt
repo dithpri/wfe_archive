@@ -10,6 +10,7 @@ Secretary of State: [nation]Help us all[/nation]
 War Secretary: [nation]Goblin Park[/nation]
 Foreign Secretary: [nation]Beef Republic[/nation]
 Treasurer: [nation]North-Texans[/nation]
+Ambassador: [nation]New Rockville[/nation]
 Head of the Church: [nation]British-Dutch Union[/nation]
 
 [b]Political Parties[/b] 
