@@ -2,8 +2,10 @@
 
 [b]The Honorable Great Gazoo
 [nation=long]Zetox[/nation][/b]
-[i]Chief Justice of the Supreme Court[/i]
-
+[i]Chief Justice of the Supreme Court[/i][HR]
+[b][nation]Aysiia[/nation][/b]
+[i]Minister of Law and Order[/i]
+[b][region]Union of Allied States[/region][/b]
 [HR]
 No embassies will be accepted, all requests for embassies should be put forth to the central region of the [region]Union of Allied States[/region].
 
