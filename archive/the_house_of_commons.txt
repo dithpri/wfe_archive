@@ -2,15 +2,16 @@
 
 [i][b]Make sure to read the [url=https://www.nationstates.net/page=dispatch/id=1333656]Parliamentary Procedures Act[/url] to know how you should behave in Commons![/b][/i]
 [hr]
-[b]Composition: Hung Parliament[/b]
+[b]Composition: [colour=green]PP[/colour]-[colour=pink]SPT[/colour]-[colour=red]UNI[/colour] Coalition[/b]
 
-[i][b]Speaker of the House: [nation]Vacant[/nation] [color=grey][XX][/color][/b]
-Deputy Speaker of the House: [nation]Vacant[/nation] [color=grey][XX][/color]
+[colour=#23F303][i][b]Speaker of the House: [nation]Speaker Zanaana[/nation] [PP][/colour][/b]
+[colour=#FC03DB]Deputy Speaker of the House: [nation]United Cascadian Peoples[/nation] [SPT][/colour]
+[colour=red]Deputy Speaker of the House: [nation]Indian Genius[/nation] [UNI][/colour]
 
-[b]Shadow Speaker of the House: [nation]Vacant[/nation] [color=grey][XX][/color][/b]
+[b][colour=#0612F4]Shadow Speaker of the House: [nation]Brototh[/nation] [TPU][/colour][/b]
 Opposition Party Caucus Leader: [nation]Vacant[/nation] [color=grey][XX][/color]
 Opposition Party Caucus Leader: [nation]Vacant[/nation] [color=grey][XX][/color]
 [hr]
-Previous Business: Oaths
-Current Business: Speaker Election
-Next Business: TBA[/i]
+[colour=#23F303]Previous Business: DEBATE, HOUSE COMMITTEES ACT
+Current Business: DEBATE, HOUSE COMMITTEES ACT
+Next Business: AMENDMENT VOTE, HOUSE COMMITTEES ACT[/colour][/i]
