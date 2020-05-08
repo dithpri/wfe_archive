@@ -1,18 +1,23 @@
-[u][b][color=blue]Welcome to the [/color][/u][u][color=green]House of Commons[/color][color=blue] [/color][/u][u][color=blue]for the region of [region]Thaecia[/region].[/color][/b][/u]
-
-[i][b]Make sure to read the [url=https://www.nationstates.net/page=dispatch/id=1333656]Parliamentary Procedures Act[/url] to know how you should behave in Commons![/b][/i]
+[u][b][color=blue]Welcome to the [/color][/u][u][color=green]House of Commons[/color][color=blue] [/color][/u][u][color=blue]for the region of [region]Thaecia[/region].[/color][/b][/u]   --- [b][colour=#23F303]Day : 02[/b][/colour] ---
+[hr][i][b]Make sure to read the [url=https://www.nationstates.net/page=dispatch/id=1333656]Parliamentary Procedures Act[/url] to know how you should behave in Commons![/b][/i]
 [hr]
+
+
 [b]Composition: [colour=green]PP[/colour]-[colour=pink]SPT[/colour]-[colour=red]UNI[/colour] Majority Coalition[/b]
 
-[colour=#23F303][i][b]Speaker of the House: [nation]Speaker Zanaana[/nation] [PP][/colour][/b]
+[hr][colour=#23F303][b]Speaker of the House: [nation]Speaker Zanaana[/nation] [PP][/colour][/b]
 [colour=#FC03DB]Deputy Speaker of the House: [nation]United Cascadian Peoples[/nation] [SPT][/colour]
 [colour=red]Deputy Speaker of the House: [nation]Indian Genius[/nation] [UNI][/colour]
 
+[hr]
+
 [b][colour=#0612F4]Shadow Speaker of the House: [nation]Brototh[/nation] [TPU][/colour][/b]
-[colour=#0612F4]Deputy Shadow Speaker of the House: [nation]United States of Edingbridge[/nation] [LPT][/colour]
+[colour=dodgerblue]Deputy Shadow Speaker of the House: [nation]United States of Edingbridge[/nation] [LPT][/colour]
 Opposition Party Caucus Leader:[nation]Vacant[/nation] [color=grey][XX][/color]
 Opposition Party Caucus Leader: [nation]Vacant[/nation] [color=grey][XX][/color]
 [hr]
-[colour=#23F303]Previous Business: DEBATE, HOUSE COMMITTEES ACT
-Current Business: AMENDMENT VOTE, HOUSE COMMITTEES ACT
-Next Business: VOTE, HOUSE COMMITTEES ACT[/colour][/i]
+[colour=#23F303]Previous Business:[/colour] [b]--- AMENDMENT VOTE RESULTS ---&amp;gt; HOUSE COMMITTEES ACT[/b]
+[hr]
+[colour=#23F303]Current Business:[/colour] [b]--- VOTE ---&amp;gt; HOUSE COMMITTEES ACT[/b]
+[hr]
+[colour=#23F303]Next Business:[/colour] [b]--- VOTE RESULTS ---&amp;gt; HOUSE COMMITTEES ACT[/b]

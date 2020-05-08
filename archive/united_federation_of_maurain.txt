@@ -2,13 +2,12 @@
 [b]Prime Minister[/b]:  Maryse Cortell
 [b]Capital[/b]: New Marche Noire[hr][hr][b]Biggest City[/b]: Los Denise
 [b]Provinces[/b]: 6
-[b] Population[/b]:  33 million
+[b] Population[/b]:  40 million
 [b] Independence From[/b]: [region]Aissurian Union[/region]
-[b]GDP[/b]: 1.5 trillion
-[b]GDP Per[/b]:  $45,500[hr]56.6% [b]White[/b]
-23.5% [b]Black[/b]
-16.6% [b]Biracial[/b]
-3.1%.  [b]Native[/b]
+[b]GDP[/b]: 2.1 trillion
+[b]GDP Per[/b]:  $51,500[hr]65% [b]White[/b]
+20% [b]Black[/b]
+15% [b]Biracial[/b]
 [/color][b]AllIES[/b]
 [region] The Westphalian Union[/region]
 [region]France[/region]
