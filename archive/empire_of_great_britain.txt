@@ -1,8 +1,8 @@
 [b][color=darkblue]EMPIRE OF GREAT BRITAIN[/color]
 [i]Est. 28th July 2018[/b][/i]
 
-[b][color=darkred][i]&quot;The empire on which the sun never sets...&quot;[/i][hr][/color][color=purple]HM The Empress[/color][/b]: [nation]Her Majesty Queen Victoria[/nation]
-[b][color=purple]HM The Emperor Consort[/color][/b]: [nation]Saint Arsenio[/nation]
+[b][color=darkred][i]&quot;The empire on which the sun never sets...&quot;[/i][hr][/color][color=purple]HM The Queen[/color][/b]: [nation]Her Majesty Queen Victoria[/nation]
+[b][color=purple]HM The King Consort[/color][/b]: [nation]Saint Arsenio[/nation]
 [hr][b][color=darkblue]HM Government[/color][/b]
 
 [b][color=black]TRH Prime Minister[/color][/b]: [nation]Newtopian Britain[/nation]
