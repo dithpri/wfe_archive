@@ -1,3 +1,5 @@
 [b]The Supreme Court[/b]
 
-Chief Justice: [nation]Jagow[/nation]
+Chief Justice: [i]The Honorable[/i] [nation]Jagow[/nation]
+
+Attorney General: [nation]Girada[/nation]
