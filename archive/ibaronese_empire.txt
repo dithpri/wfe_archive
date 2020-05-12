@@ -1,14 +1,1 @@
-Esta regi&atilde;o serve apenas para os membros do Imp&eacute;rio Ibaron&ecirc;s.
-
-[nation]Ibarona[/nation]
-[nation]Porto and the North of Portugal[/nation]
-[nation]Buvia[/nation]
-[nation]Suiria[/nation]
-[nation]Mancruvia[/nation]
-[nation]Furstenheim[/nation]
-[nation]Hardenreich[/nation]
-[nation]Brestenia[/nation]
-[nation]Yahrpasha[/nation]
-[nation]Baronato de Macedo[/nation]
-[nation]Slobosia Dobre and Urtgrad[/nation]
-[nation]Condado da Feira[/nation]
+This is the region of the ibaronese empire.
