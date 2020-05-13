@@ -2,13 +2,10 @@ Capital of the Reich. Part of your Greater Fascist Power and is Japan in it
 ___________________________________________________________________________________________________ 
 Seig Heil!
 _____________________________________________________________________________________________________________
-Reich Leadership:
-F&uuml;hrer: [nation]UPC Separatists[/nation]
-Reichf&uuml;hrer: [nation]Upc separatist[/nation]
-ReichChancellor:
-S.S. F&uuml;hrer:
-Nazi Propaganda Minister:
-Minister of Defense:
+Emperor: [nation]UPC Separatists[/nation]
+Millitary Command: [nation]Upc separatist[/nation]
+Operations:
+Japansse Propaganda Minister:
 Allies:
 [region]The kingdom of the Imperium[/region]
 [region]GroBdeutschland Reich[/region]
