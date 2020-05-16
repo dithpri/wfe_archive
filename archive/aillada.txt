@@ -1,11 +1,15 @@
 Welcome to the continent of Aillada
 
-[nation]FelloCyprus[/nation]
+[nation]FelloCyprus[/nation] [nation]Nea Ioustiniani[/nation] [nation]Armorsmith Union[/nation]
 
-[nation]Woodysia[/nation]
+[nation]Woodysia[/nation] [nation]Gnarlylands[/nation] [nation]Nickolofellostan[/nation]
 
-[nation]Acharnai[/nation]
+[nation]Acharnai[/nation] [nation]Fakhnovia[/nation] [nation]P A N EM[/nation]
 
-[nation]Mamalakistan[/nation]
+[nation]Mamalakistan[/nation] [nation]Asylum of Arkham[/nation] [nation]Riftus[/nation]
 
-[nation]Virgilia[/nation]
+[nation]PaokSyan[/nation] [nation]Fotis Reich[/nation] [nation]Ungoverned Territory[/nation]
+
+[nation]Virgilia[/nation] [nation]Mining Lands[/nation] [nation]Helladifeck[/nation]
+
+[nation]United Federation 0f Awesomeness[/nation]

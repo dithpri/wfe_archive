@@ -7,8 +7,7 @@ Millitary Command: [nation]Upc separatist[/nation]
 Operations:
 Japansse Propaganda Minister:
 Allies:
-[region]The kingdom of the Imperium[/region]
-[region]GroBdeutschland Reich[/region]
+None
 [b]Enemies[/b]
 [region]the monarchy alliance[/region]
 [region]Imperial War Invaders[/region]

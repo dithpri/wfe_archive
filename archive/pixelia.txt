@@ -10,17 +10,3 @@
 [list]
 [*][i] To be added [/i]
 [/list]
-[hr]
-
-[u][b][color=#37E7AF]POSITIONS[/color][/b][/u]
-
-[list]
-[*] Secretary General: No one
-[*] Deputy Secretary General: No one
-[*] Homeland Officer: No one
-[*] Security Officer: No one
-[*] Diplomacy Officer: No one
-[*] Communications Officer: No one
-[*] Recruitment Officer: No one
-[*] Research Officer: No one
-[/list]

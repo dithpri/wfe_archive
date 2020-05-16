@@ -1,12 +1,16 @@
-[color=f6f6f0] # # # # # [/color][color=navy][b]Comoros[/b]
-[/color][color=f6f6f0]QSA region[/color][color=006900]
+[color=navy][hr][b]Comoros[/b][hr][/color][color=006969]an independent state 
+comprising three of the Comoro Islands in the Indian Ocean, 
+located off the coast of East Africa in the Mozambique Channel
+[/color][color=006900]
 FACTS
 [b]Capital:[/b] [region=Moroni]
 [b]Independence:[/b] 1975 Jul 06 (France)
 [b]Area:[/b] 1659 km2 (641 sq mi) 171st
 [b]Population:[/b] 850,688 (2018 est.) 160th
-[/color][color=olive]
+[/color][color=696900]
 REGION
 [b]Founded:[/b] 2016 Apr 26
 [b]Matrixed:[/b] 2016 Apr 30
+[b]Featured[/b] 2020 May 15/16[/color][color=803000]
+an [region=Old Spirit] region[/color][color=ff6900]
 Embassy offers accepted[/color]
