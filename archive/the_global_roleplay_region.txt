@@ -11,6 +11,7 @@ Have fun!
 [nation]Volantion[/nation]
 [color=#3CB371][b][u]Regional Cartographer:[/b][/u][/color]
 [nation]Firolandia[/nation]
+[nation]Intergalaxis[/nation]
 [color=#3CB371][b][u]Tech Consultant:[/b][/u][/color]
 [nation]Terran Directorate[/nation]
 [color=#3CB371][b][u]Economics Consultant:[/b][/u][/color]
