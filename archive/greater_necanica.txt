@@ -1,9 +1,15 @@
 https://www.nationstates.net/nation=necanica/detail=factbook/id=1369914
 
-[b]Greater Necanica[/b] is a region of the world with many independent nations. The nations are located on one major continent with many islands surrounding it. It experiences a mostly temperate climate, but has many diverse ecosystems scattered across it.
+[b]Greater Necanica[/b] is a region of the world with many independent nations. The nations are located on one major continent with many islands surrounding it. The nations are separated into six districts:
 
-[b]Free nations:[/b] Crawdad Town, Vvak, Osene, Cahadross, Gravytrainer, Nehaelem, Taxlessia, Jestair, Church of Monopoly
+[color=BFA806][b]The Golden Conglomerate - [/b][/color]Kojima Productions, Crawdad Town, Gravytrainer, Church of Monopoly
 
-[b]Controlled nations:[/b] Necanica, Nopless Will, Tinnitania, New Grand Polis
+[color=blue][b]The Free Northeast - [/b][/color]Vvak, Osene, Cahadross, Taxlessia
 
-[b]Dictatorships:[/b] Kojima Productions, Danzigding, Holy Empire of God-Christ, Sandestine, Meltair City, 
+[color=red][b]The Imperative Alliance - [/b][/color]Holy Empire of God-Christ, Danzigding, Sandestine, Tinnitania
+
+[color=01C58E][b]The Hinterland Pact - [/b][/color]Nehaelem, New Grand Polis
+
+[color=purple][b]The Egalitarian Union - [/b][/color]Necanica, Nopless Will, Jestair
+
+[color=8E86DF][b]The Eternal and Indomitable Meltairan Empire - [/b][/color]Meltair City
