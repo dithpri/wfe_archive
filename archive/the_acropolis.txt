@@ -1,7 +1,5 @@
-[colour=blue][b]Welcome to [region]the Acropolis[/region][/b]
+[colour=darkblue][b]Welcome to [region]the Acropolis[/region][/b][/colour] 
 [hr]
-Bulletin:
-
-Join our discord server.
-
-Say hello on the RMB![/colour]
+[color=darkblue][b]BULLETIN[/b][/color] 
+[list][*]Join our [url=https://discord.gg/9NQra4n]discord server[/url] 
+[*]Say hello on the RMB!

@@ -1,3 +1,10 @@
-[b]---------------------------------------------------------------------------------
- You&#39;re in the [region]Southern Hemisphere[/region] - UNOTS - SHAF - POLISH - RECO
----------------------------------------------------------------------------------[/b]
+[b][nation]The Southern Hemisphere Region[/nation][/b] is divided in 4 areas:
+
+The [b]Northeast Area[/b] is represented by [nation]Salasenas[/nation]
+
+The [b]Northwest Area[/b] is represented by [nation]Yurdana[/nation]
+
+The [b]Southeast Area[/b] is represented by [nation]Estardana[/nation]
+
+The [b]Southwest Area[/b] is represented by [nation]Haresua[/nation]
+
