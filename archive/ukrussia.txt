@@ -1,9 +1,9 @@
-[hr][hr][color=#174173][b]President[/b]:  Anya Parampill
+[hr][hr][color=#174173][b]President[/b]:  sophie shevardnadze
 [b]Capital[/b]:  Saint Vostok
 [b]Largest City[/b]: Sharain[hr][hr] [b] Government[/b]: Constitutional Republic 
 [b] Number of Large Cities[/b]: 5
-[b]Official Language[/b]: Russian , English
-[b] Independence From[/b]: [region] Kazakhstan[/region]
+[b]Official Language[/b]: English
+[b] Continent[/b]: [region]North America[/region]
 [b]Population[/b]: 40 million[hr][hr][b]Currency[/b]: Jenning
 [b]Gdp: [/b]1.2 trillion
 [b]Per Capita: [/b]$30,000
@@ -12,8 +12,10 @@
 [hr][/color][b]Click on Song[/b]: [url=https://youtu.be/aHYqFaexfMw][color=black]
 [i]&quot;National Song&quot;[/i][/color][/url]
 [hr][b]AllIES[/b]
+[region]United Islamic Federation[/region]
 [region]Russian Federation[/region]
 [region]Aissurian Union[/region]
+[region]Republic of Syria[/region]
 [region]United Federation of Maurain[/region]
 [region]Great Laurania[/region]
 [region]United Provinces of Xiaoland[/region]

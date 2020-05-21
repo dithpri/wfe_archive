@@ -10,6 +10,7 @@ Standing orders: stand by
 Tactical level: one -safe-
 &#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;
 [b]Officers[/b]
-General:  [nation]DEEP STORAGE GENRAL[/nation]
+Commander in chief: [nation]Red Ion[/nation]
+General:  [nation]DEEP STORAGE GENRAL[/nation] (nation owed by [nation]Leevo[/nation])
 Captain:[nation]Serica-[/nation]
 Lieutenant:[nation]Deep Storage soldier 1[/nation]
