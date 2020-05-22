@@ -1,5 +1,7 @@
-[colour=darkblue][b]Welcome to [region]the Acropolis[/region][/b][/colour] 
+[colour=darkblue][b]Welcome to the Acropolis![/b][/colour]
+
+[b]The Acropolis is a new region founded by [nation]Ancient Greek Empire[/nation]. It is located in the [color=darkcyan]Mediterranean Sea[/color] near present-day Greece. 
 [hr]
-[color=darkblue][b]BULLETIN[/b][/color] 
-[list][*]Join our [url=https://discord.gg/9NQra4n]discord server[/url] 
-[*]Say hello on the RMB!
+[color=darkblue]Bulletin[/color][/b]
+[list][*]Interact with our community on our [b][url=https://discord.gg/9NQra4n]discord server[/url][/b] or say hello on the RMB
+[*]Read the new [b][url=https://www.nationstates.net/page=dispatch/id=1376011]dispatch[/url][/b].[/list]

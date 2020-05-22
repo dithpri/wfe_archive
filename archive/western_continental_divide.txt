@@ -1,2 +1,1 @@
-Puppet storage/Military base for [nation]Western Continental Divide[/nation]
-
+[nation]Western Continental Divide[/nation] puppet storage
