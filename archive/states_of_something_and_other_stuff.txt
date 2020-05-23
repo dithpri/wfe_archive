@@ -1,5 +1,6 @@
 Something states should unite, it&#39;s a rp region, you choose a place where to start (north west, south west, north east, south east, island 1, island 2 and island 3) and... just be a country, expansion should happen every Friday (I guess), I need to think of war mechanics or rp will not be nice, hmmm. Now there are lines coming from islands to mainland of &quot;continent&quot; to show from where you can go to them or from where they can go to mainland
 Also, expansion friday is on friday from 00.00 to 23.59 British time I guess
+I made stars on some provinces, these are starting places, which are capitals
 nations:
 Republic Of Something Land Or Something (SomethingLand for short) - green
 The Holy Empire of Avarden (Avarden for short) - red

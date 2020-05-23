@@ -1,7 +1,6 @@
-[colour=darkblue][b]Welcome to the Acropolis![/b][/colour]
+[b][color=darkblue]Welcome to the Acropolis![/color][/b]
+[i][b][color=gold]NationStates&#39; Unofficial Greek-themed Region[/color][/b][/i]
 
-[b]The Acropolis is a new region founded by [nation]Ancient Greek Empire[/nation]. It is located in the [color=darkcyan]Mediterranean Sea[/color] near present-day Greece. 
-[hr]
-[color=darkblue]Bulletin[/color][/b]
-[list][*]Interact with our community on our [b][url=https://discord.gg/9NQra4n]discord server[/url][/b] or say hello on the RMB
-[*]Read the new [b][url=https://www.nationstates.net/page=dispatch/id=1376011]dispatch[/url][/b].[/list]
+[b]The Acropolis is a new region founded by [nation]Ancient Greek Empire[/nation]. It is located in the [color=darkcyan]Mediterranean Sea[/color] near present-day Greece.[/b]
+[hr][b]Interaction: [url=https://discord.gg/9NQra4n][color=darkcyan]Discord[/color][/url] [color=darkblue]|[/color] [url=https://acropolisforums.boards.net][color=darkcyan]Forums[/color][/url] [color=darkblue]|[/color] [url=https://www.nationstates.net/page=display_region_rmb/region=the_acropolis][color=darkcyan]RMB[/color][/url]
+Involvement: [url=https://www.nationstates.net/page=dispatch/id=1376011][color=darkcyan]Government[/color][/url] [color=darkblue]|[/color] [url=https://acropolisforums.boards.net/thread/3/new-member-registration-verification-thread][color=darkcyan]Registration[/color][/url][/b]

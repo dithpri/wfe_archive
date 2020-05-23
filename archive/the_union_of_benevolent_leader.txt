@@ -5,21 +5,16 @@ There is occasionally some RP (role play)
 [color=lightgray][hr][/color]
 [url=https://docs.google.com/drawings/d/1z7lksEuty2ZRuMwWKc2PdHAoVtrg6KQpmygXdSVjyTk/edit?usp=sharing]Political Region Map[/url] 
 [color=lightgray][hr][/color]
-
 [b]Endorsement Caps:[/b]
     If endorsing the delegate:         Half the delegate (rounded down)
     If not endorsing the delegate:   0
 
 [b]Border Status:[/b]
-    [color=green]Open[/color]
+    [color=redorange]Admission Upon Request[/color]
 
 [b]Embassy Status:[/b]
     [color=green]All Embassies Accepted[/color]
 [color=lightgray][hr][/color]
-New Nations: 
-[nation]Dontban Jectmebro[/nation]
-[nation]Crispy Nugs[/nation]
 Elder Nations: 
-[nation]Shang DynastE[/nation]
 [nation]Hyper13land[/nation]
 [nation]The Age of Utopia[/nation]

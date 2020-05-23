@@ -1,1 +1,27 @@
-Welcome to Faelands
+[i][b][region]The Black Hawks[/region]. [region]The North Pacific[/region]. [region]The East Pacific[/region]. Penny. Long ago, the four regions lived together in harmony. Then, everything changed when Penny went missing. Only you, master of all the clues, could save her, but when the world needed you most, you vanished. A month has passed and Penny is still missing. Although your skills are great, you have a lot to learn before you&#146;re ready to save anyone. But I believe you can save Penny.[/i]
+
+Master of All Four Elements:
+[region]The Black Hawks[/region]
+GEN [nation]Jakker[/nation]
+SGT [nation]Drexlore[/nation]
+SGT [nation]Ezkio[/nation]
+SGT [nation]Varax Zwei[/nation]
+CPL [nation]Astravars[/nation]
+CPL [nation]Miravana[/nation]
+CPL [nation]Refuge Isle[/nation]
+CPL [nation]Sakana[/nation]
+PFC [nation]Edreine[/nation]
+PFC [nation]Steste[/nation]
+
+[region]The North Pacific[/region]
+GEN [nation]Rom[/nation]
+GEN [nation]Bobberino[/nation]
+GEN [nation]Konar[/nation]
+COL [nation]BMWSurfer[/nation]
+COL [nation]Francois Isidore[/nation]
+LTN [nation]9003[/nation]
+LTN [nation]Gorundu[/nation]
+
+[region]The East Pacific[/region]
+FM [nation]The Atlae Isles[/nation]
+CPL [nation]Wolfastein[/nation][/b]

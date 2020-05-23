@@ -1,4 +1,4 @@
-[u][b][color=blue]Welcome to the [/color][/u][u][color=green]House of Commons[/color][color=blue] [/color][/u][u][color=blue]for the region of [region]Thaecia[/region].[/color][/b][/u]   --- [b][colour=#23F303]Day : 15[/b][/colour] ---
+[u][b][color=blue]Welcome to the [/color][/u][u][color=green]House of Commons[/color][color=blue] [/color][/u][u][color=blue]for the region of [region]Thaecia[/region].[/color][/b][/u]   --- [b][colour=#23F303]Day : 17[/b][/colour] ---
 [hr][i][b]Make sure to read the [url=https://www.nationstates.net/page=dispatch/id=1333656]Parliamentary Procedures Act[/url] to know how you should behave in Commons![/b][/i]
 [hr]
 
@@ -6,7 +6,7 @@
 [b]Composition: [colour=green]PP[/colour]-[colour=pink]SPT[/colour]-[colour=red]UNI[/colour] Majority Coalition[/b]
 
 [hr][colour=#23F303][b]Speaker of the House: [nation]Speaker Zanaana[/nation] [PP][/colour][/b]
-[colour=#FC03DB]Deputy Speaker of the House: [nation]United Cascadian Peoples[/nation] [SPT][/colour]
+[colour=#FC03DB]Deputy Speaker of the House: [nation]Evileia[/nation] [SPT][/colour]
 [colour=red]Deputy Speaker of the House: [nation]Indian Genius[/nation] [UNI][/colour]
 
 [hr]
@@ -16,8 +16,8 @@
 Opposition Party Caucus Leader: [nation]Vacant[/nation] [color=grey][XX][/color]
 Opposition Party Caucus Leader: [nation]Vacant[/nation] [color=grey][XX][/color]
 [hr]
-[colour=#23F303]Previous Business:[/colour] [b]--- VOTE RESULTS ---&amp;gt; IMPEACHABLE OFFENCES ACT[/b]
+[colour=#23F303]Previous Business:[/colour] [b]--- DEBATE ---&amp;gt; CONSTITUTIONAL AMENDMENT[/b]
 [hr]
-[colour=#23F303]Current Business:[/colour] [b]--- DEBATE ---&amp;gt; CONSTITUTIONAL AMENDMENT[/b]
+[colour=#23F303]Current Business:[/colour] [b]--- VOTE ---&amp;gt; CONSTITUTIONAL AMENDMENT[/b]
 [hr]
-[colour=#23F303]Next Business:[/colour] [b]--- VOTE ---&amp;gt; CONSTITUTIONAL AMENDMENT[/b]
+[colour=#23F303]Next Business:[/colour] [b]--- DEBATE ---&amp;gt; TSTTDA[/b]
