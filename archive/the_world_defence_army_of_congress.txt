@@ -6,7 +6,7 @@ Major General:None
 General:None
 Commander:None
 Lieutenant:None
-colonel:None
+colonel:[nation]Enceladus and Mimas[/nation]
 Lieutenant colonel:None
 Sergeant:None
 Corporal:None
