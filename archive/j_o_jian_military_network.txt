@@ -3,3 +3,5 @@
 This region serves as the personal puppet storage and military headquarters for [nation=short+noflag]J o J[/nation]. Following 10/16/19, all puppets and conquered regions are operated and maintained from this command center. Embassies shall only be established with [region]J o J[/region] and all territories conquered/owned by [nation=short+noflag]J o J[/nation]. 
 
 In the embassy section below, you can behold all the regions which have been captured by [nation=short+noflag]J o J[/nation].
+
+[hr][b]NOTICE[/b]: As declared [url=https://www.nationstates.net/page=dispatch/id=1374371]here[/url], regional holdings of [region]J o J[/region] have been abolished and ownership of the regions has been transferred to [nation=short+noflag]J o J[/nation].[hr]

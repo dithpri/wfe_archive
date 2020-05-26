@@ -6,7 +6,7 @@ Major General:None
 General:None
 Commander:None
 Lieutenant:None
-colonel:[nation]Enceladus and Mimas[/nation]
+colonel:none
 Lieutenant colonel:None
 Sergeant:None
 Corporal:None
@@ -16,3 +16,5 @@ Major:None
 Lieutenant General:None
 Captain:None
 Lieutenant Commander:None
+
+P.S. That incloding World Assembly!!!
