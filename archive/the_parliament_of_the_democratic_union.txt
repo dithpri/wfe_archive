@@ -1,5 +1,11 @@
 [i]The Parliament of The Democratic Union[/i]!
 
-[b]Provisional Prime Minister[/b]: [nation]Terttia[/nation]
+[b]Caretaker Prime Minister[/b]: [nation]Terttia[/nation]
 
-[b]Speaker[/b]: [nation]Kenis[/nation]
+[b]Speaker[/b]: Vacant
+
+[b]Members of Parliament[/b]:
+[nation]Girada[/nation]
+[nation]Terttia[/nation]
+[nation]Republic of Zamboanga Peninsula[/nation]
+[nation]Kenis[/nation]
