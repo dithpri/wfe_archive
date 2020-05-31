@@ -1,8 +1,8 @@
 [i]The Parliament of The Democratic Union[/i]!
 
-[b]Caretaker Prime Minister[/b]: [nation]Terttia[/nation]
+[b]Prime Minister[/b]: [nation]Girada[/nation]
 
-[b]Speaker[/b]: Vacant
+[b]Speaker[/b]: [i]Vacant[/i]
 
 [b]Members of Parliament[/b]:
 [nation]Girada[/nation]
