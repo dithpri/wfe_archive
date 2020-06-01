@@ -2,6 +2,7 @@
 [b]Capital[/b]:  Hightower, District of Bluewall[hr][hr] [b] Government[/b]: Federal Constitutional Union
 [b]States[/b]: 50
 [b]Colony[/b]: [region]Aissurian Islands[/region]
+[region]Federal University Territory[/region]
 [b]Population[/b]: 1.2 billion
 [b]Gdp: [/b]21 trillion
 [b]Per Capita (ppp): [/b]$77,568
@@ -11,12 +12,11 @@
 [hr][/color][b]Click on Anthem[/b]: [url=https://youtu.be/CXhyKKxb7q4][color=black]
 [i]&quot;Aissurian Song&quot;[/i][/color][/url]
 [hr][b]AllIES[/b]
+[region]Russian Federation[/region]
 [region]Great Basin[/region]
-[region]Great Laurania[/region]
 [region]Kailand[/region]
 [region]The Westphalian Union[/region]
 [region]United Islamic Federation[/region]
-[region]Russian federation[/region]
 [region]The Peoples Republic of China[/region]
 [region]Syrian Arab Republic[/region]
 [region]Cuba[/region]
