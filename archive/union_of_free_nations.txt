@@ -1,11 +1,9 @@
 [b][u]Union of Free Nations Regional Government[/b][/u]
 
-[b][u]Founder[/b][/u]
-[nation=short]killadonia[/nation]
 [b][u]Prime Minister[/b][/u] 
-[b]VACANT[/b]
-[b][u]Foreign Office[/b][/u]
 [nation=short]draos[/nation]
+[b][u]Foreign Office[/b][/u]
+[b]VACANT[/b]
 [b][u]Ministry of Domestic Affairs[/b][/u]
 [nation=short]fattas[/nation]
 [b][u]Supreme Judicial Court[/b][/u]
