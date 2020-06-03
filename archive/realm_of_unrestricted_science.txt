@@ -13,9 +13,9 @@ Everyone else, you are fine too.[/color]
 
 [b][color=darkblue]Regional status:[/color] 
 
-[color=darkgreen]Everything seems normal[/color]
+[color=lightgrey]Everything seems normal[/color]
 
-[color=lightgrey]Some minor disturbances[/color]
+[color=darkgreen]Some minor disturbances[/color]
 
 [color=lightgrey]Catastrophe is inevitable[/color]
 
@@ -23,4 +23,4 @@ Everyone else, you are fine too.[/color]
 
 [color=darkblue]Discord status:[/color]
 
-[color=darkred]Off-line[/color][/b]
+[color=darkred]We don&#39;t have one[/color][/b]

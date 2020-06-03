@@ -1,24 +1,17 @@
-[color=green][hr][list][b]Banana[/b][/list][hr][/color][color=006666][pre]
-
-	FIRST REGION (in the update)
-
-	QSA (Queens State Alliance)
-
-	DBA (Driftwood Beach Alliance)
-
-	Password is normally on this region
-
-[/pre][hr][list][/color][color=803000]This is an [region=Old Spirit] of [region=United States of America] region
+[color=green][hr][list][b]Banana[/b][/list][hr][/color][color=006666][list][pre]
+FIRST REGION (in the update)
+Associated QSA (Queens State Alliance)
+Allied DBA (Driftwood Beach Alliance)
+This is an Embassy Oracle Region
+Password is normally on this region[/pre][/list][hr][list][/color][color=800030]This is an [region=Old Spirit] of [region=United States of America] region
 Associated with [region=Ancient Lands]; [region=0000]; [region=Hsiao Han]; [region=Dao];
-[region=Black Dragons]; [region=Society of Commissioned Gentlemen].
-[/list][/color][hr][color=navy][list]
+[region=Black Dragons]; [region=Society of Commissioned Gentlemen].[/list][/color][hr][color=navy][list]
 [b]Links:[/b]
-
-[url=http://texasregion.net/nsdossier/embassyOracle.aspx]Oracle[/url]
+[list][url=http://texasregion.net/nsdossier/embassyOracle.aspx]Oracle[/url]
 This link determines the degree of separation between two regions
 
 [url=http://texasregion.net/nsdossier/]NS Dossier[/url]
-Thanks [region=Texas] for the tools to make this game easier
-[/color][/list][hr][list][color=olive]REGION
-[b]Founded:[/b] 2020.03.22
-*** Previously been founded ***[/color][/list][hr]
+Thanks [region=Texas] for the tools to make this game easier[/list][/color][/list][hr][list][color=663316]REGION
+[list][b]Founded:[/b] 2020.03.22
+*** Previously been founded ***[/color][color=red]
+Sorry: Embassy offers are [u]NOT[/u] accepted here[/color][/list][hr]
