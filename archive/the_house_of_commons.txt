@@ -1,4 +1,4 @@
-[u][b][color=blue]Welcome to the [/color][/u][u][color=green]House of Commons[/color][color=blue] [/color][/u][u][color=blue]for the region of [region]Thaecia[/region].[/color][/b][/u]   --- [b][colour=#23F303]Day : 29[/b][/colour] ---
+[u][b][color=blue]Welcome to the [/color][/u][u][color=green]House of Commons[/color][color=blue] [/color][/u][u][color=blue]for the region of [region]Thaecia[/region].[/color][/b][/u]   --- [b][colour=#23F303]Day : 30[/b][/colour] ---
 [hr][i][b]Make sure to read the [url=https://www.nationstates.net/page=dispatch/id=1364602]Parliamentary Procedures Act[/url] to know how you should behave in Commons![/b][/i]
 [hr]
 
@@ -15,6 +15,6 @@
 Deputy Shadow Speaker of the House: [nation]Vacant[/nation] [color=grey] [XX][/color]
 Opposition Party Caucus Leader: [nation]Vacant[/nation] [color=grey][XX][/color]
 Opposition Party Caucus Leader: [nation]Vacant[/nation] [color=grey][XX][/color]
-[hr]Previous Business:[b][url=https://www.nationstates.net/nation=cerdenia/detail=factbook/id=1373919]AMENDMENT TO THE ELECTORAL COMMISSION &amp; REFORM ACT[/url] - [color=lightgreen]PASSED[/color][/b]
-[hr]Current Business:[color=red][b] RECESS[/b][/color]
-[hr]Next Business:[color=blue][B] ELECTORAL COMMISSIONER CONFIRMATION HEARING[/b][/color]
+[B][hr]Previous Business: [color=red]RECESS[/color]
+[hr]Current Business: [color=blue]ELECTORAL COMMISSIONER CONFIRMATION HEARING[/b][/color]
+[B][hr]Next Business: [color=blue]ELECTORAL COMMISSIONER CONFIRMATION HEARING VOTE[/color][/b]
