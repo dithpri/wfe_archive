@@ -1,2 +1,4 @@
-[color=000064][b]Imperial Republic[/b]
-a [nation=short]Royal House of Windsor[/nation] region[/color]
+[color=006600][hr][list][b]Imperial Republic[/b][/list][/color][hr][color=006666][list]REGION
+[b]Founded:[/b] 2019 April 10
+a DBA embassy oracle holding region[/color][color=ff6600]
+No embassy offers, please[/color][/list][hr]
