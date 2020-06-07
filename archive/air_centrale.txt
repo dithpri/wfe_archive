@@ -3,6 +3,8 @@ Motto: Sic Semper Tyrannis
 Supreme General and Founder: [nation]Air Centrale Founder[/nation]
 Freed from the Corrupt Scum known as Lily
 Liberation Day: [b]May 29, 2020[/b]
-
+Airfields: [region]Henri Airfield[/region], [region]Cerlena Airfield[/region]
+Air Bases: [region]Nordina Air Base[/region],
+[region]Casserine Air Base[/region]
 
 
