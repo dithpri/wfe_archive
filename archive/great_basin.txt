@@ -1,12 +1,13 @@
 [hr][hr][color=#174173][b]General Secretary[/b]:  Viktor Quinn
+[b]Prime Minister[/b]:  Avery Ivanova
 [b]Capital[/b]:  Sherlington
 [b]Largest Megacity[/b]: Briarwood
 [hr][hr] [b] Government[/b]: Federal Constitutional Republic
 [b]States[/b]: 12
 [b]Continent[/b]: [region] North America[/region]
-[b]Population[/b]: 97 million
-[b]Gdp: [/b]5.6  trillion
-[b]Per Capita (ppp): [/b]$58,568
+[b]Population[/b]: 120 million
+[b]Gdp(PPP): [/b]6 trillion
+[b]Per Capita (ppp): [/b]$50,000
 [b]Currency[/b]: Jenning
 [hr][/color][b]Click on Anthem[/b]: [url=https://youtu.be/CXhyKKxb7q4][color=black]
 [i]&quot;Anthem of Basin&quot;[/i][/color][/url]
@@ -19,6 +20,6 @@
 [region]The Peoples Republic of China[/region]
 [region]Syrian Arab Republic[/region]
 [region]Cuba[/region]
-[region]the Republic of Venezuela[/region]
+[region]The Republic of Venezuela[/region]
 
 
