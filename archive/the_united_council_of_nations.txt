@@ -8,9 +8,9 @@ Welcome to the [region]The United Council of Nations[/region], an alternate hist
 [hr]
 
 [b]UCN Security Council[/b]
-&#149;[nation]Repubblica Sociale di Italia[/nation]
-&#149;[nation]New Deutschlandium[/nation]
-&#149;[nation]Poldarias[/nation]
+&#149;
+&#149;
+&#149;
 
 [b]Cartography Committee[/b]
 &#149; [nation]Nederlandt[/nation]
