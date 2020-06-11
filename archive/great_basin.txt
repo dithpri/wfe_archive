@@ -1,4 +1,5 @@
 [hr][hr][color=#174173][b]General Secretary[/b]:  Viktor Quinn
+[b]Head of State[/b]: Alex
 [b]Prime Minister[/b]:  Avery Ivanova
 [b]Capital[/b]:  Sherlington
 [b]Largest Megacity[/b]: Briarwood
@@ -9,11 +10,14 @@
 [b]Gdp(PPP): [/b]6 trillion
 [b]Per Capita (ppp): [/b]$50,000
 [b]Currency[/b]: Jenning
+[b]Religion[/b]: [i]Eastern Orthodox[/i]
 [hr][/color][b]Click on Anthem[/b]: [url=https://youtu.be/CXhyKKxb7q4][color=black]
 [i]&quot;Anthem of Basin&quot;[/i][/color][/url]
 [hr][b]AllIES[/b]
 [region]Russian Federation[/region]
+[region]Greece[/region]
 [region]Aissurian Union[/region]
+[region]Serbia[/region]
 [region]Kailand[/region]
 [region]The Westphalian Union[/region]
 [region]United Islamic Federation[/region]
