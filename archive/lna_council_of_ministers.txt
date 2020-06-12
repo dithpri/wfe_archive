@@ -1,0 +1,11 @@
+[b]This is the Council of Ministers of [region]Liberty Nations Alliance[/region]
+
+Members of the government of [region]Liberty Nations Alliance[/region] will have regular meetings here.[/b]
+[hr][b]Compostition of the Council of Ministers:[/b]
+
+[b]- The Prime Minister: [nation=long]France Europe[/nation]
+- The Deputy Prime Minister: [nation=long]Nova Tyrnavia[/nation]
+- The Minister of the Interior: [nation=long]Republic of Mesque[/nation]
+- The Minister of Foreign Affairs: [nation=long]Penguinium[/nation]
+- The Minister of Government Spokesperson: [nation=long]Mobiusobia[/nation]
+- The Officer of the Constitution: not appointed yet[/b]

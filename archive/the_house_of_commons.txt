@@ -3,9 +3,9 @@
 [hr]
 
 
-[b]Composition: [colour=green]PP[/colour] &amp; [colour=pink]SPT[/colour] Coalition[/b]
+[b]Composition: Hung Parliament[/b]
 
-[hr][colour=green][b]Speaker of the House: [nation]Speaker Zanaana[/nation] [PP][/colour][/b]
+[hr][colour=grey][b]Speaker of the House: [nation]Speaker Zanaana[/nation] [IND][/colour][/b]
 [colour=salmon]Deputy Speaker of the House: [nation]Evileia[/nation] [SPT][/colour]
 [colour=grey]Deputy Speaker of the House: [nation]Xernon[/nation] [IND][/colour]
 
@@ -15,7 +15,6 @@
 Deputy Shadow Speaker of the House: [nation]Vacant[/nation] [color=grey] [XX][/color]
 Opposition Party Caucus Leader: [nation]Vacant[/nation] [color=grey][XX][/color]
 Opposition Party Caucus Leader: [nation]Vacant[/nation] [color=grey][XX][/color]
-[B][hr]Previous Business:[url=https://www.nationstates.net/nation=speaker_zanaana/detail=factbook/id=1386936] MOTION OF NO CONFIDENCE REFORM AMENDMENT[color=lightgreen] - PASSED[/color][/url]
-[hr]Current Business:
-[url=https://www.nationstates.net/nation=cerdenia/detail=factbook/id=1378146] IMPEACHABLE REFORM CONSTITUTIONAL AMENDMENT - [color=blue] VOTING[/color][/url][/b]
-[hr][b]Next Business: PRIME MINISTERIAL [nation]Korsinia[/nation] PARLIAMENTARY HEARING[/b]
+[B][hr]Previous Business:[url=https://www.nationstates.net/nation=cerdenia/detail=factbook/id=1378146] IMPEACHMENT REFORM CONSTITUTIONAL AMENDMENT[color=lightgreen] - PASSED[/color][/url]
+[hr]Current Business: PRIME MINISTERIAL [nation]Korsinia[/nation] PARLIAMENTARY HEARING[color=blue] [/color][/b]
+[hr][b]Next Business: [url=https://www.nationstates.net/nation=fishergate/detail=factbook/id=1378384] EXECUTIVE BRANCH IMPEACHABLE OFFENCES ACT[/url][/b]

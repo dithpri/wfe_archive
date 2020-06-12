@@ -1,14 +1,14 @@
-[hr][hr][color=#174173][b]President[/b]:  ILmiyah Pasha
-[b]Prime Minister[/b]:  Maryse Cortell
-[b]Capital[/b]: New Marche Noire[hr][hr][b]Biggest City[/b]: Los Denise
-[b]Provinces[/b]: 6
-[b] Population[/b]:  40 million
-[b] Independence From[/b]: [region]Aissurian Union[/region]
-[b]GDP[/b]: 2.1 trillion
-[b]GDP Per[/b]:  $51,500[hr]65% [b]White[/b]
-20% [b]Black[/b]
-15% [b]Biracial[/b]
+[hr][hr][color=#174173][b]President[/b]:  Karelin III
+[b]Prime Minister[/b]: Ilmiyah Pasha
+[b]Capital[/b]: Laurania[hr][hr][b]Biggest City[/b]: Miranda
+[b]States[/b]: 4
+[b] Population[/b]:  88 million
+[b]GDP[/b]: 3.1 trillion
+[b]GDP Per(PPP)[/b]:  $54,500[hr]77% [b]White[/b]
+15% [b]Black[/b]
+8% [b]Biracial[/b]
 [/color][b]AllIES[/b]
+[region]Great Basin[/region]
 [region] The Westphalian Union[/region]
 [region]France[/region]
 [region]Great Laurania[/region]
@@ -20,8 +20,6 @@
 [region]European Union[/region]
 [region]Canada[/region]
 [region]Australia[/region]
-
-Geo political Nations at odds with
 [region]The Russian Federation[/region]
 [region]Aissurian Union[/region]
 [region]United Islamic Federation[/region]
@@ -29,7 +27,4 @@ Geo political Nations at odds with
 [region]Serbia[/region]
 [region]Turkey[/region]
 [region]Iranian Islamic Republic[/region]
-
-
-
 [hr][hr]
