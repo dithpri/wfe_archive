@@ -1,7 +1,7 @@
-[u][b][color=black]Retired jump point of [/color][color=red]Lily[/color][/b][/u]
+[u][b][color=black]Embassy hub of [/color][url=region=Lily][color=red]Lily[/color][/url][/b][/u]
 
 
-[b][color=red]Lily[/color][color=black], interregional military organization.[/color][/b]
+[b][url=region=Lily][color=red]Lily[/color][/url][color=black], interregional military organization.[/color][/b]
 [hr]
 
 [color=black][i][b]&#147;Peace through unity, unity through conquest&#148;[/b][/i][/color]

@@ -4,4 +4,4 @@ Regiment of the Confederate States
 Motto: Gloria Et Honore
 NOTICE: The 110th NC was not a actual Civil War Regiment. I made this for historical purposes.
 
-Brigadier General: [nation]110th NC Regiment General[/nation]
+General: [nation]110th NC Regiment General[/nation]

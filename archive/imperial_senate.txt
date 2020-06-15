@@ -7,19 +7,19 @@
 
 [list]
 
-[i]Deputy Chancellor[/i]: [nation=noflag]Slovaria[/nation] ([color=#836B9E]CTZ[/color])
+[i]Deputy Chancellor[/i]: [nation=noflag]Pollariaua[/nation] ([color=#00acff]LP[/color])
 
 [/list]
 
 [b][i]Shadow Chancellor[/i]: [nation=noflag]Communaccord[/nation] ([color=#12C724]GL[/color])[/b]
 [/list][hr][hr]
 
-[b][u]Previous Business:[/b][/u] [b][i]Recess[/i][/b]
-[i]Senate In Recess ~ N/A[/i]
+[b][u]Previous Business:[/b][/u] [b][i]Chancellor Election[/i][/b]
+[i]Election for Chancellor of the Senate ~ Completed[/i]
 
-[b][u]Current Business:[/b][/u] [i][b]Chancellor Declaration Period[/b][/i]
-[i]Declaration of Candidacy for Chancellor ~ OPEN[/i]
+[b][u]Current Business:[/b][/u] [i][b]TBD[/b][/i]
+[i]TBD ~ TBD[/i]
 
-[b][u]Next Business:[/b][/u] [i][b]Chancellor Election[/b][/i]
-[I]Election for Chancellor of the Senate[/i]
+[b][u]Next Business:[/b][/u] [i][b]TBD[/b][/i]
+[I]TBD[/i]
 [hr][hr]
