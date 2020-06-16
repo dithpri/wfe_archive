@@ -1,0 +1,17 @@
+We are a great union of all the great, historic nations of the continent of Belostan.
+
+Government:
+[list]Founder: [nation]Great Bovia[/nation]
+President: [nation]Dudon Kin[/nation]
+Vice-President: 
+Security Delegate: [nation]Mandetopia[/nation]
+Embassy Moderator: 
+Research Officer: 
+Head Advisor: 
+[/list]
+List of Member States:
+[list]
+[nation=long]Great Bovia[/nation]
+[nation=long]Mandetopia[/nation]
+[nation=long]Dudon Kin[/nation]
+[/list]

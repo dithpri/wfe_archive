@@ -1,4 +1,4 @@
-[u][b][color=blue]Welcome to the [/color][/u][u][color=green]House of Commons[/color][color=blue] [/color][/u][u][color=blue]for the region of [region]Thaecia[/region].[/color][/b][/u]   --- [b][colour=#23F303]Day : 40[/b][/colour] ---
+[u][b][color=blue]Welcome to the [/color][/u][u][color=green]House of Commons[/color][color=blue] [/color][/u][u][color=blue]for the region of [region]Thaecia[/region].[/color][/b][/u]   --- [b][colour=#23F303]Day : 42[/b][/colour] ---
 [hr][i][b]Make sure to read the [url=https://www.nationstates.net/page=dispatch/id=1364602]Parliamentary Procedures Act[/url] to know how you should behave in Commons![/b][/i]
 [hr]
 
@@ -15,6 +15,6 @@
 Deputy Shadow Speaker of the House: [nation]Vacant[/nation] [color=grey] [XX][/color]
 Opposition Party Caucus Leader: [nation]Vacant[/nation] [color=grey][XX][/color]
 Opposition Party Caucus Leader: [nation]Vacant[/nation] [color=grey][XX][/color]
-[B][hr]Previous Business: [url=https://www.nationstates.net/nation=fishergate/detail=factbook/id=1378384] EXECUTIVE BRANCH IMPEACHABLE OFFENCES ACT - [color=lightgreen] PASSED[/COLOR][/url]
-[hr]Current Business: [url=https://www.nationstates.net/nation=zanaana/detail=factbook/id=1388871] AMENDMENTS TO L.R. 022 THE ELECTORAL COMMISSION &amp; REFORM ACT - [color=blue] VOTING[/color][/url][/b]
-[hr][b]Next Business: TBA[/b]
+[B][hr]Previous Business: [color=red] --- RECESS --- END OF PARLIAMENTARY SESSION ---[/COLOR] [/b]
+[b][hr]Current Business:[color=red] --- RECESS --- END OF PARLIAMENTARY SESSION ---[/COLOR] [/b]
+[hr][b]Next Business:[color=red] --- RECESS --- END OF PARLIAMENTARY SESSION ---[/COLOR] [/b]

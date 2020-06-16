@@ -1,4 +1,5 @@
-[color=green][b]Republic of Myanmar[/b]
+[list][color=green][b]Republic of Myanmar[/b]
+[/color][color=teal]
 FACTS
 sovereign state formerly known as Burma
 [b]Capital:[/b] [region=Naypyidaw]
@@ -6,6 +7,10 @@ sovereign state formerly known as Burma
 [b]Independence:[/b] 1948 Jan 04
 [b]Population:[/b] 51,486,253 (2014c) (25th)
 [b]Area:[/b] 676,578 km sq.(39th)
+[/color][color=666600]
 REGION
 [b]Founded:[/b] 2017 Feb 28
-[b]Featured:[/b] 2018 Jun 20[/color]
+[b]Featured:[/b] 2018 Jun 20; 2020 June 16
+a [region=United States of America] region
+[/color][color=green]
+[b]Embassy offers welcome[/b][/color][/list]
