@@ -14,4 +14,4 @@ List of Member States:
 [nation=long]Great Bovia[/nation]
 [nation=long]Mandetopia[/nation]
 [nation=long]Dudon Kin[/nation]
-[/list]
+[nation=long]Cathedral Sanctus[/nation][/list]
