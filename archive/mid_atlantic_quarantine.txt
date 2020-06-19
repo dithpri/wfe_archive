@@ -1,17 +1,16 @@
-Quarantine for the Mid-Atlantic Region Include:
-[region]New York[/region]
-[region]New Jersey[/region]
-[region]Pennsylvania[/region]
-[region]Delaware[/region]
-[region]Maryland[/region]
-[region]Washington DC[/region]
+[color=red][b][i]Welcome to the Mid Atlantic Quarantine [/i][/b][/color]
+[i]States that are in the Mid Atlantic include:[/i]
+~~
 [region]Virginia[/region]
 [region]West Virginia[/region]
+[region]Maryland[/region]
+[region]Delaware[/region]
+[region]New Jersey[/region]
+[region]Pennsylvania[/region]
+[region]New York[/region]
 [hr]
-[color=red][i]Anyone who is experiencing flu or cold like symptoms, please come to our testing facilities to test yourself for the new COVID-19/Wuhan Flu[/i][/color]
-Live map of COVID-19 can be found on:[url=https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6]map[/url]
-CDC updates of the COVID-19 can be found:[url=https://www.cdc.gov/coronavirus/2019-nCoV/index.html]CDC/COVID-19[/url]
-The [url=https://www.who.int/emergencies/diseases/novel-coronavirus-2019]WHO[/url] AKA the World health organisation.
-[hr]
-This region is to converse and talk about the international situation at hand, and what the facts are and are not.
-All embassy requests will be excepted until further notice
+[color=red][i]If you are exerting any [url=https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html]Symptoms of COVID-19[/url] Please either see a doctor or self~quarantine [/i][/color]
+* [url=https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6]COVID-19 Map[/url]
+* [url=https://covid19.who.int/]WHO COVID-19 Information[/url]
+
+~[i]This region is mainly used to discus what is going on in 2020; what is fact and what is fiction[/i]~

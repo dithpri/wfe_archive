@@ -1,9 +1,9 @@
 mars planet 
-clouds being made and protection from the sun:20%
-temp: -20
-o2: 4%
-water: 0.5%
+clouds being made and protection from the sun:25%
+Average temp: -17
+o2: 5%
+water: 0.8%
 biomass(green):0%
-money for this: 3 trillion dollars
+money for this: 5 trillion dollars
 
-daily news: people keep falling off clefs of mars, I don&#39;t know how and when.
+daily news: plans to go to the moons of mars to explore if there was once life on mars 
