@@ -1,9 +1,8 @@
-[color=green][b]Pacific Union[/b]
-[i]Sister region of [region=The Central Pacific][/i]
-
-REGION
-:. a puppet storage region .:
-:. [b]Founded:[/b] 2015 Nov 05 .:
+[color=green][hr][b][pre]     Pacific Union[/pre][/b][hr][list][i]Sister region of [region=The Central Pacific][/i][/list][/color][color=666600]
+REGION[list]:. [b]Founded:[/b] 2015 Nov 05 .:
 :. [b]Puppets:[/b] 2016 Apr 30 .:
-:. [b]Matrixed:[/b] 2016 May 04 (accepts embassy offers since) .:[/color][color=803000]
-:. an [region=Old Spirit] of [region=United States of America] region .:[/color]
+:. [b]Matrixed:[/b] 2016 May 04 .:
+:. [b]Featured:[/b] 2020 June 24 .:
+:. a Queen&#39;s State Embassy Matrix Region .:
+[/color][color=navy]
+:. [b]Embassy Offers are welcome[/b] .:[/color][/list]
