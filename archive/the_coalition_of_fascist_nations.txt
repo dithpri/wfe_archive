@@ -11,9 +11,9 @@
 [hr]
 
 Il Duce: [nation]the new Polish Empire[/nation]
-WA Delegate: [nation]Scaneland[/nation]
+WA Delegate: [nation]Onorat[/nation]
 Minister of Intelligence: [nation]The 4th August Regime of Greece[/nation]
-Minister of Foreign Affairs: [nation]Arisen Britannia[/nation]
+Minister of Foreign Affairs: [nation]Open[/nation]
 Minister of Propaganda: [nation]Azokhistan[/nation]
 Minister of Domestic Affairs: [nation]Hong Ming[/nation]
-Minister of Recruitment: [nation]Onorat[/nation]
+Minister of Recruitment: [nation]Open[/nation]
