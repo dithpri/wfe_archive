@@ -1,2 +1,6 @@
-[b]NEEMBUCU[/b][hr][list]Territorio del [region]Distrito Capital[/region]
-Pertenece al [b][region]Paraguay[/region][/b]
+[color=006600][b][pre].  .  .  Neembucu  .  .  .[/pre][/b][/color]
+
+[color=olive]
+REGION
+[b]Founded:[/b] 2020.06.27
+a DBA embassy oracle region[/color]
