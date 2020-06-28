@@ -5,16 +5,16 @@
 
 [b]Composition: Hung Parliament[/b]
 
-[hr][colour=grey][b]Speaker of the House: [nation]Speaker Zanaana[/nation] [IND][/colour][/b]
-[colour=salmon]Deputy Speaker of the House: [nation]Evileia[/nation] [SPT][/colour]
-[colour=grey]Deputy Speaker of the House: [nation]Xernon[/nation] [IND][/colour]
+[hr][colour=grey][b]Speaker of the House: [nation]Vacant[/nation] [XX][/colour][/b]
+[colour=grey]Deputy Speaker of the House: [nation]Vacant[/nation] [XX][/colour]
+[colour=grey]Deputy Speaker of the House: [nation]Vacant[/nation] [XX][/colour]
 
 [hr]
 
-[b][colour=#0612F4]Shadow Speaker of the House: [nation]Brototh[/nation] [TPU][/colour][/b]
-Deputy Shadow Speaker of the House: [nation]Vacant[/nation] [color=grey] [XX][/color]
-Opposition Party Caucus Leader: [nation]Vacant[/nation] [color=grey][XX][/color]
-Opposition Party Caucus Leader: [nation]Vacant[/nation] [color=grey][XX][/color]
+[b][colour=grey]Shadow Speaker of the House: [nation]Vacant[/nation] [XX][/colour][/b]
+[colour=grey]Deputy Shadow Speaker of the House: [nation]Vacant[/nation] [XX][/colour]
+[colour=grey]Opposition Party Caucus Leader: [nation]Vacant[/nation] [XX][/colour]
+[colour=grey]Opposition Party Caucus Leader: [nation]Vacant[/nation] [XX][/colour]
 [B][hr]Previous Business: [color=red] --- RECESS --- END OF PARLIAMENTARY SESSION ---[/COLOR] [/b]
-[b][hr]Current Business:[color=red] --- RECESS --- END OF PARLIAMENTARY SESSION ---[/COLOR] [/b]
-[hr][b]Next Business:[color=red] --- RECESS --- END OF PARLIAMENTARY SESSION ---[/COLOR] [/b]
+[b][hr]Current Business:[color=grey] Election Oaths &amp; Inauguration [/COLOR] [/b]
+[hr][b]Next Business:[color=grey] Speaker Election [/COLOR] [/b]
