@@ -8,7 +8,7 @@ Consul: [nation]Romano-Campania[/nation]
 Co-Consul: [nation]The Proudhonnian Isles[/nation]
 Quaestor: 
 Aedile: 
-Legate: 
+Legate: [nation]Awalltown[/nation]
 
 [hr]
 After the small and rising region known as the [region]Heirs of Rome[/region] was invaded and occupied, a small body of former members banded together to refound the region. From these troubled origins, we have, phoenix-like emerged! All newcomers are welcome!  The first elections will begin in no time, as we rapidly move to become a region for and by it&#39;s people. Welcome to [region]The Heirs of Rome[/region], and please enjoy your stay!
