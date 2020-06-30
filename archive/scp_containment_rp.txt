@@ -1,8 +1,16 @@
  [b]            SCP Containment RP
 -----------------------------------------------
-New SCP: [url=dispatch=]SCP-5001[/url]
-Site Status: [color=Lightgreen]Safe[/color].
-      [color=Lightgreen]   No Emergency[/color][/b]
-[quote=0cala;39049491]What SCP Shall we Do?[/quote]
-[quote=0cala FireWall;39049491]Protected From Raiders[/quote]
-
+Site 20: [color=lightgreen]Safe[/color]
+Site 19: [color=Lightgreen]Safe[/color]
+ Site 18: [color=Lightgreen]Safe[/color]
+----------------------------------------------
+[color=Cyan]Site 20[/color]: SCP testing in progress
+[color=Blue]Site 18[/color]: D-Class Breach Drill in Progress
+----------------------------------------------
+Site 20: [color=Yellow]SCP-2008 Testing[/color]
+Site 19: [color=Lightgreen]No Emergency[/color]
+Site 18: [color=Yellow]D-Class Drill[/color]
+------------------------------------------------
+Site 20: [color=lightgreen]No Events[/color]
+Site 19: [color=Lightgreen]No Events[/color]
+Site 18: [color=Lightgreen]No Events[/color][/b]

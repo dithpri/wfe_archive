@@ -1,5 +1,8 @@
 [color=green][b]Galapagos[/b]
-a [region=0000] region
-a puppet staging region
 
-In association with:  [region=Old Spirit], [region=Ancient Lands], [region=Ecuador], [region=Angola], and [region=United States of America][/color]
+a puppet staging region
+a QSA embassy matrix region
+
+In association with:[list]
+[region=Old Spirit], [region=Ancient Lands], [region=Ecuador], [region=Angola], [region=0000],
+[region=United States of America] and over 300 other regions[/list][/color]
