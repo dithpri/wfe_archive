@@ -9,9 +9,9 @@
 
 [colour=black][b]Days since last accident:[/colour] [colour=ffc000][strike]36[/strike] [I]0[/I][/b][/colour]
 
-[b][colour=Black]General Assembly:[/b][/colour] [b][colour=Blue]FOR[/colour][/b]
+[b][colour=Black]General Assembly:[/b][/colour] [b][url=https://www.nationstates.net/page=ga][colour=blue]FOR[/colour][/url][/b]
 
-[B][colour=black]Security Council:[/b][/colour] [b][colour=red]AGAINST[/colour][/b]
+[B][colour=black]Security Council:[/b][/colour] [b][url=https://www.nationstates.net/page=sc][colour=grey]N/A[/colour][/url][/b]
 
 [colour=black][b]To Do List:[/colour] 
 
