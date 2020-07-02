@@ -2,15 +2,23 @@
 -----------------------------------------------
 Site 20: [color=lightgreen]Safe[/color]
 Site 19: [color=Lightgreen]Safe[/color]
- Site 18: [color=Lightgreen]Safe[/color]
+Site 18: [color=Red]No Signal[/color]
+Site 17: [color=lightgreen]Safe[/color]
 ----------------------------------------------
-[color=Cyan]Site 20[/color]: SCP testing in progress
-[color=Blue]Site 18[/color]: D-Class Breach Drill in Progress
+Site 20: D-Class Drill in Progress
+Site 18: No news
+Community 101: No News
 ----------------------------------------------
-Site 20: [color=Yellow]SCP-2008 Testing[/color]
-Site 19: [color=Lightgreen]No Emergency[/color]
-Site 18: [color=Yellow]D-Class Drill[/color]
+Site 20:|:[color=LightGreen]No Emergency[/color]
+Site 19:|: [color=Lightgreen]No Emergency[/color]
+Site 18:|: [color=red]No Signal[/color]
 ------------------------------------------------
 Site 20: [color=lightgreen]No Events[/color]
 Site 19: [color=Lightgreen]No Events[/color]
-Site 18: [color=Lightgreen]No Events[/color][/b]
+Site 18: [color=red]No Signal[/color]
+--------------------------------------------------
+Site 20: [color=lightgreen]Online[/color]
+Site 19: [color=Lightgreen]Online[/color]
+Site 18: [color=red]Offline[/color][/b]
+-----------------------------------------------------
+[quote=scp_Fondation;1]Be Alert of any dangers in Site 18 | the Signal of Site 18 is lost[/quote]
