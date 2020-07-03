@@ -1,24 +1,5 @@
- [b]            SCP Containment RP
------------------------------------------------
-Site 20: [color=lightgreen]Safe[/color]
-Site 19: [color=Lightgreen]Safe[/color]
-Site 18: [color=Red]No Signal[/color]
-Site 17: [color=lightgreen]Safe[/color]
-----------------------------------------------
-Site 20: D-Class Drill in Progress
-Site 18: No news
-Community 101: No News
-----------------------------------------------
-Site 20:|:[color=LightGreen]No Emergency[/color]
-Site 19:|: [color=Lightgreen]No Emergency[/color]
-Site 18:|: [color=red]No Signal[/color]
-------------------------------------------------
-Site 20: [color=lightgreen]No Events[/color]
-Site 19: [color=Lightgreen]No Events[/color]
-Site 18: [color=red]No Signal[/color]
---------------------------------------------------
-Site 20: [color=lightgreen]Online[/color]
-Site 19: [color=Lightgreen]Online[/color]
-Site 18: [color=red]Offline[/color][/b]
------------------------------------------------------
-[quote=scp_Fondation;1]Be Alert of any dangers in Site 18 | the Signal of Site 18 is lost[/quote]
+[b]Scp Containment RP
+Site 20: [color=Lightgreen]Online[/color]
+Site 19: [color=red]Offline[/color]
+Site 18: [color=Red]Offline[/color]
+Last Administration Check: 12:36 AM[/b]
