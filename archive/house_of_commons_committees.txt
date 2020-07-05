@@ -1,18 +1,28 @@
 [b]Domestic Affairs Committee:[/b]
 
-Committee Chairman: [nation]Xernon[/nation](IND)
+[B]Committee Chairman: [nation]Rhyssua[/nation] (IND)[/b]
+
+[B]Committee Members:
+[nation]Rhyssua[/nation] (IND)
+[nation]Satherland Islands[/nation] (IND)
+[nation]Zanaana[/nation] (IND)
+[nation]Bahnhof[/nation] (IND) 
+[nation]Shoila[/nation] (LPT)
+
+[hr]Foreign Affiars Committee:[/b]
+
+[B]Committee Chairman: [nation]Indian Genius[/nation] (TFP)
 
 Committee Members:
-[nation]Xernon[/nation](IND), [nation]Zon island[/nation] (UNI), [nation]Indian Genius[/nation] (UNI), [nation]Pap Sculgief[/nation] (IND) &amp; [nation]Brototh[/nation](TPU)
-[hr][b]Executive Overreach Committee:[/b]
+[nation]Indian Genius[/nation] (TFP)
+[nation]Zon Island[/nation] (TFP)
+[nation]Prussian Sail Nation[/nation] (IND)
 
-Committee Chairman: [nation]Evileia[/nation]
+[hr]Executive Overreach Committee:[/b]
 
-Committee Members:
-[nation]Evileia[/nation](SPT), [nation]United Cascadian Peoples[/nation] (SPT) &amp; [nation]Saint Alban Islands[/nation] (IND)
-[hr][b]Foreign Affairs Committee:[/b]
-
-Committee Chairman: [nation]Rayekka[/nation]
+[B]Committee Chairman: [nation]The Peoples Caribbean Union[/nation] (SOL)
 
 Committee Members:
-[nation]Zanaana[/nation](PP), [nation]Rayekka[/nation](PP) &amp; [nation]Shoila[/nation] (LPT)
+[nation]The Peoples Caribbean Union[/nation](SOL)
+[nation]Hoping For The Best[/nation] (SOL)
+[nation]Republika Poludniowej Wyspy Ksiazecej[/nation] (TPU)[/b]

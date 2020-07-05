@@ -1,9 +1,10 @@
-[u][b][color=blue]Welcome to the [/color][/u][u][color=green]House of Commons[/color][color=blue] [/color][/u][u][color=blue]for the region of [region]Thaecia[/region].[/color][/b][/u]   --- [b][colour=#23F303]Day : 2[/b][/colour] ---
+[u][b][color=blue]Welcome to the [/color][/u][u][color=green]House of Commons (Lower House)[/color][color=blue] [/color][/u][u][color=blue]for the region of [region]Thaecia[/region].[/color][/b][/u]   --- [b][colour=#23F303]Day : 3[/b][/colour] ---
 [hr][i][b]Make sure to read the [url=https://www.nationstates.net/page=dispatch/id=1364602]Parliamentary Procedures Act[/url] to know how you should behave in Commons![/b][/i]
 [hr]
 
 
-[B][url=https://www.nationstates.net/region=house_of_commons_committees]House Committees[/url] [/b]
+[B][url=https://www.nationstates.net/region=house_of_commons_committees]House Committees[/url] 
+[url=https://www.nationstates.net/region=the_thaecian_senate]Senate (Upper House)[/url][/b]
 
 [hr][colour=grey][b]Speaker of the House: [nation]Zanaana[/nation] [IND][/colour][/b]
 [colour=grey]Deputy Speaker of the House: [nation]Rhyssua[/nation] [IND][/colour]
@@ -15,6 +16,6 @@
 [colour=grey]Deputy Shadow Speaker of the House: [nation]Vacant[/nation] [XX][/colour]
 [colour=grey]Opposition Party Caucus Leader: [nation]Vacant[/nation] [XX][/colour]
 [colour=grey]Opposition Party Caucus Leader: [nation]Vacant[/nation] [XX][/colour]
-[B][hr]Previous Business: [url=https://www.nationstates.net/nation=speaker_zanaana/detail=factbook/id=1399690] Amendments to L.R. 009 Reclal of Elected Representatives Act[/url] [/b]
+[B][hr]Previous Business: [url=https://www.nationstates.net/nation=speaker_zanaana/detail=factbook/id=1399690] Amendments to L.R. 009 Recall of Elected Representatives Act[/url] [/b]
 [b][hr]Current Business: Education Confirmation Hearing for [nation]Titanne[/nation][/b]
 [hr][b]Next Business: Foreign Affairs Confirmation Hearing for [nation]The Bigtopia[/nation][/b]

@@ -7,7 +7,7 @@
 Consul: [nation]Romano-Campania[/nation]
 Co-Consul: [nation]The Proudhonnian Isles[/nation]
 Quaestor: 
-Aedile: 
+Aedile: [nation]Et Romani[/nation]
 Legate: [nation]Awalltown[/nation]
 
 [hr]
