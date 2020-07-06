@@ -1,4 +1,4 @@
-Capital of the Empire,We are a Imperialist region.
+Capital of the Empire,We are a Dual monarchy, Federal monarchy
 ________________________________________________________________________________________
 Reich Leadership:
 Kaiser: [nation]The German Imperial Empire[/nation]
@@ -15,3 +15,5 @@ Reichprotectorates:
 Greater Germanic Empire News:
 
 We have freedom, long live the kasierreich
+
+We march to Berlin, Today
