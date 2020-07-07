@@ -1,8 +1,9 @@
-RH Region is a region. [region]RH Region[/region]
-Founder:[nation]RH9[/nation]
-Vice-Delegate:[nation]RH0[/nation]
+[region]RH Region[/region] is a region.
 
-Embassies:
+[u][b]Regional Officers[/b][/u]
+Founder:[nation]RH9[/nation]
+Official:[nation]RH0[/nation]
+
+[u][b]Embassies[/b][/u]
 [region]The Embassy[/region]
 [region]Codex Ylvus[/region]
-[region]Sandboxers[/region]
