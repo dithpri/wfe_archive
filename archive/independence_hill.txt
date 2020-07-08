@@ -1,26 +1,29 @@
-[b]Welcome to the United States of Independence Hill![/b] 
+[b]Welcome to the U.S.I.H.[/b] 
 
-[b][u]Today&#39;s Date[/u][/b]: 7/7/2020
+[b][u]Date[/u][/b]: 7/8/20
 
-[b][u]President of the U.S.I.H.[/u][/b]: Laramie S. Frost (DS- Blueberry Grove)
+[b][u]Administration[/u][/b]: Laramie S. Frost([b]P[/b]) / Ventlestia Rice([b]VP[/b]) 
 
-[b][u]Vice President of the U.S.I.H.[/u][/b]: Ventlestia Rice (SD- Warnermark)
+[b][u]Pop.[/u][/b]: 7.36[b]B[/b]
 
-[b][u]Population[/u][/b]: 7.32 Billion
+[b][u]Emp. Rate U.S.I.H. vs World [/u][/b]: 63.72[b]%[/b] | 66.88[b]%[/b]
 
-[b][u]Employment Rate Nat&#39;l vs Int&#39;l. [/u][/b]: 64% | 67%
+[b][u]Avg. Income:[/u][/b] [b]P10%[/b] [b][][/b]40,227.33 ([b]+[/b][b][][/b]0.33) | [b]MC[/b] [b][][/b]78,475.54 ([b]-[/b][b][][/b]0.21) | [b]R10%[/b] [b][][/b]155,679.13 ([b]-[/b][b][][/b]134.53)
 
-[b][u]Average Income:[/u][/b] [b]Poorest 10%[/b]: []40,204.83** (+/- 0*) | [b]Middle Class[/b]: []82,816.8** (-[]1,605.6*) | [b]Richest 10%[/b]: []155,444.33** (+/- 0*)
+[b][u]GDP U.S.I.H. vs World[/u]:[/b] [b][][/b]616.16[b]T[/b] ([b]+[/b][b][][/b]1.72[b]T[/b]) | [b][][/b]355.86[b]T[/b]
 
-[b][u]GDP[/u]:[/b] []608.8T** (+[]3.6T*)
+[b][u]Federal Budget[/u][/b]: [b][][/b]230.44[b]T[/b] (37.4[b]%[/b] of GDP, ([b]+[/b][]3.26T))
 
-[b][u]Federal Income Tax[/u]:[/b] 67.2%  (-0.3*)  
+[b][u]Independence Reserve Interest Rate[/u][/b]: 10[b]%[/b]
 
-[b][u]State-level Income Tax[/u]:[/b] [b]English Appalachia[/b] 49.6% (-0.3*) | [b]Blueberry Grove[/b] 23.4% (+2.5*) | [b]Cannafield[/b] 22.3% (+3.7*) | [b]Warnermark[/b] 44.8% (-0.7*)
+[b][u]Federal Income Tax[/u]:[/b] 67.3[b]%[/b]  ([b]+[/b]0.2) 
 
-[b][u]Nation&#39;s Capital Municipal Tax[/u]:[/b] 7.6% (-0.4*)
+[b][u]State Income Tax[/u]:[/b] [b]EA[/b] 50.1[b]%[/b] ([b]+[/b]0.4) | [b]BG[/b] 23.7[b]%[/b] ([b]-[/b]0.5) | [b]CF[/b] 23.5[b]%[/b] ([b]+[/b]0.8) | [b]WM[/b] 45.6[b]%[/b] ([b]+[/b]0.6)
 
-[i]Updated once per day.[/i]
+[b][u]DC Municipal Tax[/u]:[/b] 7.0[b]%[/b] ([b]+/-[/b]0)
 
-*[i]from previous day[/i]
-**[] [i]is the symbol for the Universal Treasury Note[/i]
+[b][u]Majority Party &amp; Federal Agenda[/u][/b]: Democratic Socialists | Increase Employment Rate to 70[b]%[/b].
+
+[i]Calculated from previous day[/i]
+
+[b][][/b] [i]is the symbol for the Universal Treasury Note[/i]
