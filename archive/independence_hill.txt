@@ -1,29 +1,23 @@
 [b]Welcome to the U.S.I.H.[/b] 
 
-[b][u]Date[/u][/b]: 7/8/20
+[b][u]Date[/u][/b]: 7/9/20
 
-[b][u]Administration[/u][/b]: Laramie S. Frost([b]P[/b]) / Ventlestia Rice([b]VP[/b]) 
+[b][u]President[/u][/b]: Laramie S. Frost
 
-[b][u]Pop.[/u][/b]: 7.36[b]B[/b]
+[b][u]Population[/u][/b]: 8.408[b]B[/b]
 
-[b][u]Emp. Rate U.S.I.H. vs World [/u][/b]: 63.72[b]%[/b] | 66.88[b]%[/b]
+[b][u]Employment Rate Nat&#39;l / Int&#39;l [/u][/b]: 65.34[b]%[/b] | 66.88[b]%[/b]
 
-[b][u]Avg. Income:[/u][/b] [b]P10%[/b] [b][][/b]40,227.33 ([b]+[/b][b][][/b]0.33) | [b]MC[/b] [b][][/b]78,475.54 ([b]-[/b][b][][/b]0.21) | [b]R10%[/b] [b][][/b]155,679.13 ([b]-[/b][b][][/b]134.53)
+[b][u]Average Income:[/u][/b] [b]P10%[/b] [b][][/b]37,070.86*([b]-[/b][b][][/b]3,156.47) | [b]MC[/b] [b][][/b]77,532.46 ([b]-[/b][b][][/b]943.08) | [b]R10%[/b] [b][][/b]167,462.36 ([b]+[/b][b][][/b]11,783.23)
 
-[b][u]GDP U.S.I.H. vs World[/u]:[/b] [b][][/b]616.16[b]T[/b] ([b]+[/b][b][][/b]1.72[b]T[/b]) | [b][][/b]355.86[b]T[/b]
+[b][u]GDP U.S.I.H. vs Int&#39;l Avg[/u]:[/b] [b][][/b]618.741[b]Trillion[/b]^ ([b]-[/b][b][][/b]1.952[b]T[/b]) | [b][][/b]356.74[b]T[/b]
 
-[b][u]Federal Budget[/u][/b]: [b][][/b]230.44[b]T[/b] (37.4[b]%[/b] of GDP, ([b]+[/b][]3.26T))
+[b][u]Federal Income Tax[/u]: [/b]68.3[b]%[/b]  ([b]+[/b]0.8) 
 
-[b][u]Independence Reserve Interest Rate[/u][/b]: 10[b]%[/b]
+[b][u]Federal Budget[/u][/b]: [b][][/b]243.78[b]T[/b] (39.4[b]%[/b]# of GDP, ([b]+[][/b]10.4[b]T[/b]))
 
-[b][u]Federal Income Tax[/u]:[/b] 67.3[b]%[/b]  ([b]+[/b]0.2) 
+[b][u]Federal Spending[/u][/b]: [b][][/b]76.5[b]T[/b] ([i]Surplus[/i] [b][][/b]167.28[b]T[/b] ([b]+[/b]8.5[b]T[/b])) 
 
-[b][u]State Income Tax[/u]:[/b] [b]EA[/b] 50.1[b]%[/b] ([b]+[/b]0.4) | [b]BG[/b] 23.7[b]%[/b] ([b]-[/b]0.5) | [b]CF[/b] 23.5[b]%[/b] ([b]+[/b]0.8) | [b]WM[/b] 45.6[b]%[/b] ([b]+[/b]0.6)
-
-[b][u]DC Municipal Tax[/u]:[/b] 7.0[b]%[/b] ([b]+/-[/b]0)
-
-[b][u]Majority Party &amp; Federal Agenda[/u][/b]: Democratic Socialists | Increase Employment Rate to 70[b]%[/b].
-
-[i]Calculated from previous day[/i]
-
+^[i]Total GDP of every approved entity of the U.S.I.H. added together.[/i]
+#[i]Size of the federal budget in relationship to the total GDP of the U.S.I.H.[/i]
 [b][][/b] [i]is the symbol for the Universal Treasury Note[/i]
