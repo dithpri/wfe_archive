@@ -1,23 +1,33 @@
 [b]Welcome to the U.S.I.H.[/b] 
 
-[b][u]Date[/u][/b]: 7/10/20
+[b][u]Date[/u][/b]: 7/11/20
 
 [b][u]President[/u][/b]: Laramie S. Frost
 
-[b][u]Population[/u][/b]: 7.368[b]B[/b]
+[b][u]Population[/u][/b]: 8.964[b]B[/b]
 
-[b][u]Employment Rate Nat&#39;l / Int&#39;l [/u][/b]: 65.34[b]%[/b] | 66.88[b]%[/b]
+[b][u]Life Expectancy / World[/u][/b]: 78.73yrs |  72.49yrs
 
-[b][u]Average Income:[/u][/b] [b]P10%[/b] [b][][/b]37,070.86*([b]-[/b][b][][/b]3,156.47) | [b]MC[/b] [b][][/b]77,532.46 ([b]-[/b][b][][/b]943.08) | [b]R10%[/b] [b][][/b]167,462.36 ([b]+[/b][b][][/b]11,783.23)
+[b][u]I.Q. / World[/u][/b]: 109.04 | 94.56 (30 - 200 max, [i]HDI + Intelligence[/i])
 
-[b][u]GDP U.S.I.H. vs Int&#39;l Avg[/u]:[/b] [b][][/b]618.741[b]Trillion[/b]^ ([b]-[/b][b][][/b]1.952[b]T[/b]) | [b][][/b]356.74[b]T[/b]
+[b][u]Economic Productivity Rating (EPR)[/u][/b]:15,000 (Rated 75.7 (Very Strong)) 
 
-[b][u]Federal Income Tax[/u]: [/b]68.3[b]%[/b]  ([b]+[/b]0.8) 
+[b][u]Employment Rate / World [/u][/b]: 65.46[b]%[/b] | 66.9[b]%[/b]
 
-[b][u]Federal Budget[/u][/b]: [b][][/b]243.78[b]T[/b] (39.4[b]%[/b]# of GDP, ([b]+[][/b]10.4[b]T[/b]))
+[b][u]Exchange Rate[/u][/b]: [b][][/b]1 = [b]$[/b]1.77 [i]&amp;#8730;(GDP Per Capita x EPR / 404,000,000)[/i]
 
-[b][u]Federal Spending[/u][/b]: [b][][/b]76.5[b]T[/b] ([i]Surplus[/i] [b][][/b]167.28[b]T[/b] ([b]+[/b]8.5[b]T[/b])) 
+[b][u]Average Income:[/u][/b] [b]P10%[/b] [b][][/b]35,779.78 ([b]+[/b][b][][/b]545.49) | [b]MC[/b] [b][][/b]70,047.14 ([b]+[/b][b][][/b]968.09) | [b]R10%[/b] [b][][/b]144,879.06 ([b]+[/b][b][][/b]1,201.67)
 
-^[i]Total GDP of every approved entity of the U.S.I.H. added together.[/i]
-#[i]Size of the federal budget in relationship to the total GDP of the U.S.I.H.[/i]
+[b][u]Total GDP / World[/u]:[/b] [b][][/b]626.691[b]T[/b]([b]+[/b][b][][/b]2.0[b]T[/b]) | [b][][/b]356.876[b]T[/b]
+
+[b][u]GDP Per Capita[/u][/b]: [b][][/b]84,585.10 ([b]+[][/b]269.94) 
+
+[b][u]Income Tax[/u]: [/b]68.1[b]%[/b]  ([b]-[/b]0.3) 
+
+[b][u]Budget[/u][/b]: [b][][/b]242.30[b]T[/b] (38.8[b]%[/b] of total GDP, ([b]-[][/b]3.86[b]T[/b]))
+
+[b][u]Spending[/u][/b]: [b][][/b]76.5[b]T[/b]
+
+[b][u]Surplus[/u][/b]: [b][][/b]165.8[b]T[/b] ([b]-[/b]3.23[b]T[/b])
+
 [b][][/b] [i]is the symbol for the Universal Treasury Note[/i]
