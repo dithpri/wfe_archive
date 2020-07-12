@@ -9,7 +9,7 @@
 [nation]Bahnhof[/nation] (IND) 
 [nation]Shoila[/nation] (LPT)
 
-[hr]Foreign Affiars Committee:[/b]
+[hr]Foreign Affairs Committee:[/b]
 
 [B]Committee Chairman: [nation]Indian Genius[/nation] (TFP)
 
@@ -20,9 +20,9 @@ Committee Members:
 
 [hr]Executive Overreach Committee:[/b]
 
-[B]Committee Chairman: [nation]The Peoples Caribbean Union[/nation] (SOL)
+[B]Committee Chairman: [nation]Vacant[/nation]
 
 Committee Members:
-[nation]The Peoples Caribbean Union[/nation](SOL)
+[nation]Vacant[/nation]
 [nation]Hoping For The Best[/nation] (SOL)
-[nation]Republika Poludniowej Wyspy Ksiazecej[/nation] (TPU)[/b]
+[nation]Vacant[/nation][/b]
