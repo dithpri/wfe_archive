@@ -1,35 +1,45 @@
-[b]Welcome to the U.S.I.H.[/b] 
+Welcome to the U.S.I.H.
 
-[b][u]Date[/u][/b]: 7/13/20
+[b][u]Date[/u][/b]: 7/14/20
 
 [b][u]President[/u][/b]: Laramie S. Frost
 
-[b][u]Pop[/u][/b]: 14.152[b]B[/b]
+[b][u]Pop[/u][/b]: 13.545[b]B[/b]
 
-[b][u]Lifespan | NS[/u][/b]: 81.16yrs | 72.51yrs
+[b][u]Lifespan | NS[/u][/b]: 81.20 yrs | 72.62 yrs
 
-[b][u]I.Q. | NS[/u][/b]: 112.91 | 94.74 (30 - 200 max, [i]HDI + Intelligence[/i])
+[b][u]IQ | NS[/u][/b]: 113.46 | 94.83 [i]30 - 200 max HDI + Intelligence[/i]
 
-[b][u]Econ Productivity Rate (EPR)[/u][/b]: 20,000 (Rated 81.83 (Thriving)) 
+[b][u]EPR[/u][/b]: 20,000 [i]Rated 82.34 ([color=green]Thriving[/color])[/i]
 
-[b][u]Employment Rate | NS[/u][/b]: 63.58[b]%[/b] | 66.88[b]%[/b]
+[b][u]Empl Rate | NS[/u][/b]: 63.83[b]%[/b] | 66.89[b]%[/b]
 
-[b][u]Exchange Rate[/u][/b]: [b][][/b]1 = [b]$[/b]2.18 ([b]+$[/b]0.24) [i]&amp;#8730;(GDP Per Capita x EPR / 404,000,000)[/i]
+[b][u]Trade Efficiency[/u][/b]: [color=green]99.92[/color]%
 
-[b][u]Income Tax[/u]: [/b]68.0[b]%[/b]  ([b]+[/b]0.2) 
+[color=green][b][u]Exp[/u][/b]: [b][][/b]47.089[b][/color]T[/b]
 
-[b][u]Avg Income:[/u][/b] [b]P10%[/b] [b][][/b]39,885.17 ([b]-[/b][b][][/b]569.27) | [b]MC[/b] [b][][/b]75,178.18 ([b]-[][/b]1,926.72) | [b]R10%[/b] [b][][/b]145,108.92 ([b]-[/b][b][][/b]9,735.04)
+[color=red][b][u]Imp[/u][/b]: [b][][/b]47.161[b][/color]T[/b]
 
-[u][b]Largest Corporations[/b][/u]: Walsanto, Electric Village
+[b][u]BoT[/u][/b]: [b][color=red]-[][/b]72.0[/color][b]B[/b] [i][b][color=red]-[][/b]53.0[/color][b]B[/b][/i]
 
-[b][u]TREO[/u][/b]: [b][][/b]1.081935[b]Q[/b] [b]+[][/b]0.00825Q
+[b][u]Exch Rate[/u][/b]: [color=green][b][][/b][/color]1 = [color=green][b]$[/color][/b]2.00 [color=green][i][b]+$[/b]0.06[/i][/color] &amp;#8730;([b]TREO Per Capita[/b] * [b]EPR[/b] / [b][i]404,000,000[/i][/b])
 
-[b][u]TREO Per Capita[/u][/b]: [b][][/b]76,451.03 ([b]+[][/b]582.95) 
+[b][u]Income Tax[/u]: [color=red][/b]68.2[/color][b]%[/b]
 
-[b][u]Budget[/u][/b]: [b][][/b]415.463 [b]T[/b] ([b]+[][/b]4.242[b]T[/b]) (38.4[b]%[/b] of TREO)
+[b][u]Avg Income:[/u][/b] [b]P10%[/b] [color=green][b][][/b][/color]40,325.34 [color=green][i][b]+[/b][b][][/b]440.17[/i][/color] | [b]MC[/b] [color=green][b][][/b][/color]76,202.28 [color=green][i][b]+[][/b]1,024.10[/i][/color] | [b]R10%[/b] [color=green][b][][/b][/color]147,325.38 [color=green][i][b]+[/b][b][][/b]2,216.46[/i][/color]
 
-[b][u]Spending[/u][/b]: [b][][/b]76.7[b]T[/b] ([b]+[][/b]0.1[b]T[/b])
+[b][u]Consumer Spending[/u][/b]: [color=green][b][][/b][/color]347.026[b]T[/b] [color=red][i][b]-[][/b]220.286[/color][b]T[/b][/i]
 
-[b][u]Surplus[/u][/b]: [b][][/b]338.763[b]T[/b] ([b]+[][/b]4.142[b]T[/b]) 
+[b][u]TREO[/u][/b]: [color=green][b][][/b][/color]1.089131[b]Q[/b] [color=green][i][b]+[][/b]60.863[b][/color]T[/b][/i]
 
-[b][][/b] [i]is the symbol for the Universal Treasury Note[/i]
+[b][u]TREO Per Capita[/u][/b]: [color=green][b][][/b][/color]80,408.34[i] [color=green][b]+[][/b]4,493.39[/i][/color]
+
+[u][b]Budget Efficiency[/b][/u]: [color=red]18.32[/color][b]%[/b]
+
+[b][u]Fed Budget[/u][/b]: [color=green][b][][/b][/color]421.494[b]T[/b] [color=green][i][b]+[][/b]23.55[/color][b]T[/b][/i] [i]38.7[b]%[/b] of TREO[/i]
+
+[b][u]Fed Spending[/u][/b]: [color=green][b][][/b][/color]78.2[b]T[/b] [color=green][i][b]+[][/b]0.4[/color][b]T[/b][/i]
+
+[b][u]Surplus[/u][/b]: [color=green][b][][/b][/color]344.294[b]T[/b] [color=green][i][b]+[][/b]24.194[/color][b]T[/b][/i]
+
+[b][u]Cash on Hand[/u][/b]: [color=green][b][][/b][/color]0.00
