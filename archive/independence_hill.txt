@@ -1,45 +1,49 @@
 Welcome to the U.S.I.H.
 
-[b][u]Date[/u][/b]: 7/14/20
+[b][u]Date[/u][/b]: 7/15/20
 
 [b][u]President[/u][/b]: Laramie S. Frost
 
-[b][u]Pop[/u][/b]: 13.545[b]B[/b]
+[b][u]Pop[/u][/b]: 13.614[b]B[/b]
 
-[b][u]Lifespan | NS[/u][/b]: 81.20 yrs | 72.62 yrs
+[b][u]Lifespan | NS[/u][/b]: 81.22 yrs | 72.62 yrs
 
-[b][u]IQ | NS[/u][/b]: 113.46 | 94.83 [i]30 - 200 max HDI + Intelligence[/i]
+[b][u]IQ | NS[/u][/b]: 113.95 | 94.86 [i]30 - 200 max HDI + Intelligence[/i]
 
-[b][u]EPR[/u][/b]: 20,000 [i]Rated 82.34 ([color=green]Thriving[/color])[/i]
+[hr]
 
-[b][u]Empl Rate | NS[/u][/b]: 63.83[b]%[/b] | 66.89[b]%[/b]
+[b][u]EPR[/u][/b]: 20,000 [i]Rated 83.39 ([color=green]Thriving[/color])[/i]
 
-[b][u]Trade Efficiency[/u][/b]: [color=green]99.92[/color]%
+[b][u]Empl | NS[/u][/b]: 63.90[b]%[/b] | 66.89[b]%[/b]
 
-[color=green][b][u]Exp[/u][/b]: [b][][/b]47.089[b][/color]T[/b]
+[color=green][b][u]Exp[/u][/b]: [b][][/b]47.98[b][/color]T[/b]
 
-[color=red][b][u]Imp[/u][/b]: [b][][/b]47.161[b][/color]T[/b]
+[color=red][b][u]Imp[/u][/b]: [b][][/b]47.99[b][/color]T[/b]
 
-[b][u]BoT[/u][/b]: [b][color=red]-[][/b]72.0[/color][b]B[/b] [i][b][color=red]-[][/b]53.0[/color][b]B[/b][/i]
+[b][u]Net Exports[/u][/b]: [b][color=red]-[][/b]10[/color][b]B[/b] 
 
-[b][u]Exch Rate[/u][/b]: [color=green][b][][/b][/color]1 = [color=green][b]$[/color][/b]2.00 [color=green][i][b]+$[/b]0.06[/i][/color] &amp;#8730;([b]TREO Per Capita[/b] * [b]EPR[/b] / [b][i]404,000,000[/i][/b])
+[hr]
+
+[b][u]Exch Rate[/u][/b]: [color=green][b][][/b][/color]1 = [color=green][b]$[/color][/b]1.21 [color=red][i][b]-$[/b]0.15[/i][/color] &amp;#8730;([b]GRP Per Capita[/b] * [b]EPR[/b] / [b][i]404,000,000[/i][/b])
 
 [b][u]Income Tax[/u]: [color=red][/b]68.2[/color][b]%[/b]
 
-[b][u]Avg Income:[/u][/b] [b]P10%[/b] [color=green][b][][/b][/color]40,325.34 [color=green][i][b]+[/b][b][][/b]440.17[/i][/color] | [b]MC[/b] [color=green][b][][/b][/color]76,202.28 [color=green][i][b]+[][/b]1,024.10[/i][/color] | [b]R10%[/b] [color=green][b][][/b][/color]147,325.38 [color=green][i][b]+[/b][b][][/b]2,216.46[/i][/color]
+[b][u]Avg Income:[/u][/b] [b]P10%[/b] [color=green][b][][/b][/color]40,202.09 [color=red][i][b]-[/b][b][][/b]123.25[/i][/color] | [b]MC[/b] [color=green][b][][/b][/color]76,960.59 [color=green][i][b]+[][/b]758.67[/i][/color] | [b]R10%[/b] [color=green][b][][/b][/color]149,753.55 [color=green][i][b]+[/b][b][][/b]2,428.17[/i][/color]
 
-[b][u]Consumer Spending[/u][/b]: [color=green][b][][/b][/color]347.026[b]T[/b] [color=red][i][b]-[][/b]220.286[/color][b]T[/b][/i]
+[b][u]Consumer Spending[/u][/b]: [color=green][b][][/b][/color]362.516[b]T[/b] [color=green][i][b]+[][/b]1.89[/color][b]T[/b][/i]
 
-[b][u]TREO[/u][/b]: [color=green][b][][/b][/color]1.089131[b]Q[/b] [color=green][i][b]+[][/b]60.863[b][/color]T[/b][/i]
+[b][u]Business Investment[/u][/b]: [b][color=green][][/color][/b]37.254[b]T[/b]
 
-[b][u]TREO Per Capita[/u][/b]: [color=green][b][][/b][/color]80,408.34[i] [color=green][b]+[][/b]4,493.39[/i][/color]
+[b][u]GRP[/u][/b]: [color=green][b][][/b][/color]399.78[b]T[/b] [color=green][i][b]+[][/b]0[b][/color]T[/b][/i]
 
-[u][b]Budget Efficiency[/b][/u]: [color=red]18.32[/color][b]%[/b]
+[b][u]GRP Per Capita[/u][/b]: [color=green][b][][/b][/color]29,365.68[i] [color=green][b]+[][/b]0[/i][/color]
 
-[b][u]Fed Budget[/u][/b]: [color=green][b][][/b][/color]421.494[b]T[/b] [color=green][i][b]+[][/b]23.55[/color][b]T[/b][/i] [i]38.7[b]%[/b] of TREO[/i]
+[hr]
 
-[b][u]Fed Spending[/u][/b]: [color=green][b][][/b][/color]78.2[b]T[/b] [color=green][i][b]+[][/b]0.4[/color][b]T[/b][/i]
+[b][u]Fed Budget[/u][/b]: [color=green][b][][/b][/color]169.90[b]T[/b] [color=green][i][b]+[][/b]91.5[/color][b]T[/b][/i] [i]38.7[b]%[/b] of GRP[/i]
 
-[b][u]Surplus[/u][/b]: [color=green][b][][/b][/color]344.294[b]T[/b] [color=green][i][b]+[][/b]24.194[/color][b]T[/b][/i]
+[b][u]Fed Spending[/u][/b]: [color=green][b][][/b][/color]78.4[b]T[/b] [color=green][i][b]+[][/b]0.2[/color][b]T[/b][/i]
 
-[b][u]Cash on Hand[/u][/b]: [color=green][b][][/b][/color]0.00
+[b][u]Surplus[/u][/b]: [color=green][b][][/b][/color]91.5[b]T[/b] [color=green][i][b]+[][/b]19.34[/color][b]T[/b][/i]
+
+[b][u]Cash on Hand[/u][/b]: [color=green][b][][/b][/color]72.16T
