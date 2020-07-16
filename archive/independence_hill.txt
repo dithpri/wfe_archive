@@ -1,49 +1,51 @@
 Welcome to the U.S.I.H.
 
-[b][u]Date[/u][/b]: 7/15/20
+[b][u]Date[/u][/b]: 7/16/20
 
 [b][u]President[/u][/b]: Laramie S. Frost
 
-[b][u]Pop[/u][/b]: 13.614[b]B[/b]
+[b][u]Pop[/u][/b]: 13.684[b]B[/b]
 
-[b][u]Lifespan | NS[/u][/b]: 81.22 yrs | 72.62 yrs
+[b][u]Lifespan | NS[/u][/b]: 81.37 yrs | 72.61 yrs
 
-[b][u]IQ | NS[/u][/b]: 113.95 | 94.86 [i]30 - 200 max HDI + Intelligence[/i]
-
-[hr]
-
-[b][u]EPR[/u][/b]: 20,000 [i]Rated 83.39 ([color=green]Thriving[/color])[/i]
-
-[b][u]Empl | NS[/u][/b]: 63.90[b]%[/b] | 66.89[b]%[/b]
-
-[color=green][b][u]Exp[/u][/b]: [b][][/b]47.98[b][/color]T[/b]
-
-[color=red][b][u]Imp[/u][/b]: [b][][/b]47.99[b][/color]T[/b]
-
-[b][u]Net Exports[/u][/b]: [b][color=red]-[][/b]10[/color][b]B[/b] 
+[b][u]IQ | NS[/u][/b]: 113.99 | 94.86 [i]30 - 200 max HDI + Intelligence[/i]
 
 [hr]
 
-[b][u]Exch Rate[/u][/b]: [color=green][b][][/b][/color]1 = [color=green][b]$[/color][/b]1.21 [color=red][i][b]-$[/b]0.15[/i][/color] &amp;#8730;([b]GRP Per Capita[/b] * [b]EPR[/b] / [b][i]404,000,000[/i][/b])
+[b][u]EPR[/u][/b]: 20,000 [i]Rated 83.12 ([color=green]Thriving[/color])[/i]
+
+[b][u]Empl | NS[/u][/b]: 63.87[b]%[/b] | 66.89[b]%[/b]
+
+[color=green][b][u]Exp[/u][/b]: [b][][/b]49.76[b][/color]T[/b]
+
+[color=red][b][u]Imp[/u][/b]: [b][][/b]49.79[b][/color]T[/b]
+
+[b][u]Net Exports[/u][/b]: [b][color=red]-[][/b]30[/color][b]B[/b] 
+
+[hr]
+
+[b][u]Exch Rate[/u][/b]: [color=green][b][][/b][/color]1 = [color=green][b]$[/color][/b]1.22 [color=green][i][b]+$[/b]0.01[/i][/color] &amp;#8730;([b]GRP Per Capita[/b] * [b]EPR[/b] / [b][i]404,000,000[/i][/b])
 
 [b][u]Income Tax[/u]: [color=red][/b]68.2[/color][b]%[/b]
 
-[b][u]Avg Income:[/u][/b] [b]P10%[/b] [color=green][b][][/b][/color]40,202.09 [color=red][i][b]-[/b][b][][/b]123.25[/i][/color] | [b]MC[/b] [color=green][b][][/b][/color]76,960.59 [color=green][i][b]+[][/b]758.67[/i][/color] | [b]R10%[/b] [color=green][b][][/b][/color]149,753.55 [color=green][i][b]+[/b][b][][/b]2,428.17[/i][/color]
+[b][u]Avg Income:[/u][/b] [b]P10%[/b] [color=green][b][][/b][/color]40,481.40 [color=green][i][b]+[/b][b][][/b]279.31[/i][/color] | [b]MC[/b] [color=green][b][][/b][/color]76,889.65 [color=red][i][b]-[][/b]70.94[/i][/color] | [b]R10%[/b] [color=green][b][][/b][/color]146,692.87 [color=red][i][b]-[/b][b][][/b]3,060.68[/i][/color]
 
-[b][u]Consumer Spending[/u][/b]: [color=green][b][][/b][/color]362.516[b]T[/b] [color=green][i][b]+[][/b]1.89[/color][b]T[/b][/i]
+[b][u]Consumer Spending[/u][/b]: [color=green][b][][/b][/color]362.41[b]T[/b] [color=red][i][b]-[][/b]106[/color][b]B[/b][/i]
 
-[b][u]Business Investment[/u][/b]: [b][color=green][][/color][/b]37.254[b]T[/b]
+[b][u]Business Investment[/u][/b]: [b][color=green][][/color][/b]45.69[b]T[/b] [color=green][i]+[]8.44[/color][b]T[/b][/i]
 
-[b][u]GRP[/u][/b]: [color=green][b][][/b][/color]399.78[b]T[/b] [color=green][i][b]+[][/b]0[b][/color]T[/b][/i]
+[b][u]GRP[/u][/b]: [color=green][b][][/b][/color]408.10[b]T[/b] [color=green][i][b]+[][/b]8.32[b][/color]T[/b][/i]
 
-[b][u]GRP Per Capita[/u][/b]: [color=green][b][][/b][/color]29,365.68[i] [color=green][b]+[][/b]0[/i][/color]
+[b][u]GRP Per Capita[/u][/b]: [color=green][b][][/b][/color]29,823.33 [i][color=green][b]+[][/b]457.65[/i][/color]
+
+[b][u]Illegal Market Activity[/u][/b]: [color=red][b][][/b]1.99[b][/color]T[/b]
 
 [hr]
 
-[b][u]Fed Budget[/u][/b]: [color=green][b][][/b][/color]169.90[b]T[/b] [color=green][i][b]+[][/b]91.5[/color][b]T[/b][/i] [i]38.7[b]%[/b] of GRP[/i]
+[b][u]Fed Budget[/u][/b]: [color=green][b][][/b][/color]154.26[b]T[/b] [color=red][i][b]-[][/b]15.64[/color][b]T[/b][/i] [i]38.7[b]%[/b] of GRP[/i]
 
-[b][u]Fed Spending[/u][/b]: [color=green][b][][/b][/color]78.4[b]T[/b] [color=green][i][b]+[][/b]0.2[/color][b]T[/b][/i]
+[b][u]Fed Spending[/u][/b]: [color=green][b][][/b][/color]78.7[b]T[/b] [color=red][i][b]-[][/b]900[/color][b]B[/b][/i]
 
-[b][u]Surplus[/u][/b]: [color=green][b][][/b][/color]91.5[b]T[/b] [color=green][i][b]+[][/b]19.34[/color][b]T[/b][/i]
+[b][u]Surplus[/u][/b]: [color=green][b][][/b][/color]75.56[b]T[/b] 
 
-[b][u]Cash on Hand[/u][/b]: [color=green][b][][/b][/color]72.16T
+[b][u]Cash on Hand[/u][/b]: [color=green][b][][/b][/color]163.66[b]T[/b]

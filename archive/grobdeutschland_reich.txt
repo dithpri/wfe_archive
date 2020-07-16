@@ -4,8 +4,8 @@ ________________________________________________________________________________
 [b]Reich Leadership:[/b]
 Kaiser: [nation]The Neo-Greater Nazi Reich[/nation]
 ReichKaiser: [nation]The Germanic Nationalist Reich[/nation]
-ReichChancellor: [nation][/nation]
-:
+ReichChancellor: 
+
 Propaganda Minister:
 Minister of Defense:
 [b]Reichprotectorates:[/b]
