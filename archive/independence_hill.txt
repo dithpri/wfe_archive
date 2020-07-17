@@ -1,51 +1,45 @@
-Welcome to the U.S.I.H.
-
-[b][u]Date[/u][/b]: 7/16/20
+[u][b]Welcome to [nation=long]Independence Hill[/nation][/b][/u]
+[hr]
+[b][u]Date[/u][/b]: 7/17/20
 
 [b][u]President[/u][/b]: Laramie S. Frost
 
-[b][u]Pop[/u][/b]: 13.684[b]B[/b]
+[b][u]Pop[/u][/b]: 13.755[b]B[/b]
 
-[b][u]Lifespan | NS[/u][/b]: 81.37 yrs | 72.61 yrs
+[b][u]Crime[/u][/b]: Low [i]4.87 crimes/hr.[/i]
 
-[b][u]IQ | NS[/u][/b]: 113.99 | 94.86 [i]30 - 200 max HDI + Intelligence[/i]
+[b][u]Lifespan | NS[/u][/b]: 80.59 yrs | 72.60 yrs
 
+[b][u]IQ | NS[/u][/b]: 112.07 | 94.84 
 [hr]
+[b][u]EPR[/u][/b]: 20,000 [i]Rated 82.48 ([color=green]Thriving[/color])[/i]
 
-[b][u]EPR[/u][/b]: 20,000 [i]Rated 83.12 ([color=green]Thriving[/color])[/i]
+[color=green][b][u]Exp[/u][/b]: [b][][/b]51.143[b][/color]T[/b]
 
-[b][u]Empl | NS[/u][/b]: 63.87[b]%[/b] | 66.89[b]%[/b]
+[color=red][b][u]Imp[/u][/b]: [b][][/b]51.254[b][/color]T[/b]
 
-[color=green][b][u]Exp[/u][/b]: [b][][/b]49.76[b][/color]T[/b]
+[b][u]Net Ex[/u][/b]: [b][color=red]-[][/b]111[/color][b]B[/b] 
 
-[color=red][b][u]Imp[/u][/b]: [b][][/b]49.79[b][/color]T[/b]
-
-[b][u]Net Exports[/u][/b]: [b][color=red]-[][/b]30[/color][b]B[/b] 
-
+[b][u]Investment[/u][/b]: [b][color=green][][/color][/b]47.11[b]T[/b] [color=green][i]+[]1.42[/color][b]T[/b][/i]
 [hr]
+[b][u]Exch Rate[/u][/b]: [color=green][b][][/b][/color]1 = [color=green][b]$[/color][/b]1.37 [color=green][i][b]+$[/b]0.15[/i][/color] 
 
-[b][u]Exch Rate[/u][/b]: [color=green][b][][/b][/color]1 = [color=green][b]$[/color][/b]1.22 [color=green][i][b]+$[/b]0.01[/i][/color] &amp;#8730;([b]GRP Per Capita[/b] * [b]EPR[/b] / [b][i]404,000,000[/i][/b])
+[b][u]Empl Rate | NS[/u][/b]: 64.78[b]%[/b] | 66.89[b]%[/b]
 
-[b][u]Income Tax[/u]: [color=red][/b]68.2[/color][b]%[/b]
+[b][u]Avg Income:[/u][/b] [b]P10%[/b]: [color=green][b][][/b][/color]38,192.71 [color=red][i][b]-[/b][b][][/b]2,288.69[/i][/color] | [b]MC[/b]: [color=green][b][][/b][/color]75,453.47 [color=red][i][b]-[][/b]1,436.18[/i][/color] | [b]R10%[/b]: [color=green][b][][/b][/color]149,740.29 [color=green][i][b]+[/b][b][][/b]3,047.42[/i][/color]
 
-[b][u]Avg Income:[/u][/b] [b]P10%[/b] [color=green][b][][/b][/color]40,481.40 [color=green][i][b]+[/b][b][][/b]279.31[/i][/color] | [b]MC[/b] [color=green][b][][/b][/color]76,889.65 [color=red][i][b]-[][/b]70.94[/i][/color] | [b]R10%[/b] [color=green][b][][/b][/color]146,692.87 [color=red][i][b]-[/b][b][][/b]3,060.68[/i][/color]
+[b][u]Consumer Spending[/u][/b]: [color=green][b][][/b][/color]371.529[b]T[/b] [color=green][i][b]+[][/b]9.119[/color][b]T[/b][/i]
 
-[b][u]Consumer Spending[/u][/b]: [color=green][b][][/b][/color]362.41[b]T[/b] [color=red][i][b]-[][/b]106[/color][b]B[/b][/i]
+[b][u]GRP[/u][/b]: [color=green][b][][/b][/color]418.64[b]T[/b] [color=green][i][b]+[][/b]10.54[b][/color]T[/b][/i]
 
-[b][u]Business Investment[/u][/b]: [b][color=green][][/color][/b]45.69[b]T[/b] [color=green][i]+[]8.44[/color][b]T[/b][/i]
+[b][u]GRP Per Capita[/u][/b]: [color=green][b][][/b][/color]30,435.15 [i][color=green][b]+[][/b]611.82[/i][/color]
 
-[b][u]GRP[/u][/b]: [color=green][b][][/b][/color]408.10[b]T[/b] [color=green][i][b]+[][/b]8.32[b][/color]T[/b][/i]
-
-[b][u]GRP Per Capita[/u][/b]: [color=green][b][][/b][/color]29,823.33 [i][color=green][b]+[][/b]457.65[/i][/color]
-
-[b][u]Illegal Market Activity[/u][/b]: [color=red][b][][/b]1.99[b][/color]T[/b]
-
+[b][u]Illegal Market Activity[/u][/b]: [color=red][b][][/b]1.67[b][/color]T[/b] 
 [hr]
+[b][u]Revenue[/u][/b]: [color=green][b][][/b][/color]162.01[b]T[/b] [color=green][i][b]+[][/b]7.75[/color][b]T[/b][/i] [i]38.8[b]%[/b] of GRP[/i] [b][i][][/b]59.134[b]Q/Yr[/i][/b]
 
-[b][u]Fed Budget[/u][/b]: [color=green][b][][/b][/color]154.26[b]T[/b] [color=red][i][b]-[][/b]15.64[/color][b]T[/b][/i] [i]38.7[b]%[/b] of GRP[/i]
+[b][u]Spending[/u][/b]: [color=green][b][][/b][/color]79.2[b]T[/b] [color=green][i][b]+[][/b]0.2[/color][b]B[/b][/i] [i][b][][/b]28.80[b]Q/Yr[/i][/b]
 
-[b][u]Fed Spending[/u][/b]: [color=green][b][][/b][/color]78.7[b]T[/b] [color=red][i][b]-[][/b]900[/color][b]B[/b][/i]
+[b][u]Surplus[/u][/b]: [color=green][b][][/b][/color]83.11[b]T[/b] [i][b][][/b]30.34[b]Q/Yr[/i][/b]
 
-[b][u]Surplus[/u][/b]: [color=green][b][][/b][/color]75.56[b]T[/b] 
-
-[b][u]Cash on Hand[/u][/b]: [color=green][b][][/b][/color]163.66[b]T[/b]
+[b][u]Vault[/u][/b]: [color=green][b][][/b][/color]322.33[b]T[/b] 
