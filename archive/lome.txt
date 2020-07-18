@@ -7,6 +7,7 @@ FACTS
 [/color][color=olive]
 REGION
 a QSA region
+sister region: [region=Togo]
 associated with: [region=Old Spirit], [region=0000], [region=United States of America]
 [b]Founded:[/b] 2016.05.19
 [b]Matrixed:[/b] 2020.05.06[/color][color=654321]
