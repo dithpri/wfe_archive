@@ -1,4 +1,4 @@
-[u][b][color=blue]Welcome to the [/color][/u][u][color=green]House of Commons (Lower House)[/color][color=blue] [/color][/u][u][color=blue]for the region of [region]Thaecia[/region].[/color][/b][/u]   --- [b][colour=#23F303]Day : 17[/b][/colour] ---
+[u][b][color=blue]Welcome to the [/color][/u][u][color=green]House of Commons (Lower House)[/color][color=blue] [/color][/u][u][color=blue]for the region of [region]Thaecia[/region].[/color][/b][/u]   --- [b][colour=#23F303]Day : 18[/b][/colour] ---
 [hr][i][b]Make sure to read the [url=https://www.nationstates.net/page=dispatch/id=1364602]Parliamentary Procedures Act[/url] to know how you should behave in Commons![/b][/i]
 [hr]
 
@@ -7,8 +7,8 @@
 [url=https://www.nationstates.net/region=the_thaecian_senate]Senate (Upper House)[/url][/b]
 
 [hr][colour=grey][b]Speaker of the House: [nation]Zanaana[/nation] [IND][/colour][/b]
-[colour=grey]Deputy Speaker of the House: [nation]Rhyssua[/nation] [IND][/colour]
 [colour=grey]Deputy Speaker of the House: [nation]Satherland Islands[/nation] [IND][/colour]
+[colour=grey]Deputy Speaker of the House: [nation]Dizgovzy[/nation] [IND][/colour]
 
 [hr]
 
@@ -16,6 +16,6 @@
 [colour=purple]Deputy Shadow Speaker of the House: [nation]Zon Island[/nation] [TFP][/colour]
 [colour=grey]Opposition Party Caucus Leader: [nation]Vacant[/nation] [XX][/colour]
 [colour=grey]Opposition Party Caucus Leader: [nation]Vacant[/nation] [XX][/colour]
-[B][hr]Previous Business: [url=https://www.nationstates.net/nation=senate_chair_marvinville/detail=factbook/id=1403721][colour=lightgreen] PASSED[/colour] - Amendments to L.R. 009[/url] [/b]
-[b][hr]Current Business: [url=https://www.nationstates.net/nation=andusre/detail=factbook/id=1398726] [colour=Blue] VOTING[/colour] - Loosening of Congressional Procedures Act[/url] [/b]
+[B][hr]Previous Business: [url=https://www.nationstates.net/nation=andusre/detail=factbook/id=1398726][colour=red] FAILED[/colour] - Loosening of Congressional Procedures Act[/url] [/b]
+[b][hr]Current Business: [url=https://www.nationstates.net/nation=speaker_fishergate/detail=factbook/id=1392615] [colour=Blue] DEBATING[/colour] - Impeachment Reform Constitutional Amendment[/url] [/b]
 [b][hr]Next Business: [i]TBA[/i][/b]
