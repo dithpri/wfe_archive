@@ -1,44 +1,44 @@
 [u][b]Welcome to [nation=long]Independence Hill[/nation][/b][/u]
 [hr]
-[b][u]Date[/u][/b]: 7/20/20
+[b][u]Date[/u][/b]: 7/21/20
 
-[b][u]Population[/u][/b]: 13.970[b]B[/b]
+[b][u]Population[/u][/b]: 14.028[b]B[/b]
 
-[b][u]Crime[/u][/b]: Low [i]5.50/hr.[/i]
+[b][u]Crime[/u][/b]: Low [i]5.67/hr.[/i]
 
-[b][u]Life Exp. | NS[/u][/b]: 80.04 yrs | 72.57 yrs
+[b][u]Life Exp. | NS[/u][/b]: 79.13 yrs | 72.56 yrs
 
-[b][u]IQ | NS[/u][/b]: 111.88 | 94.76 
+[b][u]IQ | NS[/u][/b]: 111.20 | 94.73 
 [hr]
-[b][u]EPR[/u][/b]: 20,000 [i]Rated 82.82 ([color=green]Thriving[/color])[/i]
+[b][u]EPR[/u][/b]: 20,000 [i]Rated 81.98 ([color=green]Thriving[/color])[/i]
 
-[color=green][b][u]Exp[/u][/b]: [b][][/b]52.42[b][/color]T[/b] [i][b][][/b]19.13[b]Q/yr[/b][/i]
+[color=green][b][u]Exp[/u][/b]: [b][][/b]53.984[b][/color]T[/b] [i][b][][/b]19.704[b]Q/yr[/b][/i]
 
-[color=red][b][u]Imp[/u][/b]: [b][][/b]52.68[b][/color]T[/b] [i][b][][/b]19.23[b]Q/yr[/b][/i]
+[color=red][b][u]Imp[/u][/b]: [b][][/b]53.983[b][/color]T[/b] [i][b][][/b]19.703[b]Q/yr[/b][/i]
 
-[b][u]Net Ex[/u][/b]: [b][color=red]-[][/b]260[/color][b]B[/b] [i][b]-[][/b]100[b]T/yr[/b][/i]
+[b][u]Net Ex[/u][/b]: [b][color=green]+[][/b]10[/color][b]B[/b] [i][b]+[][/b]3.650[b]T/yr[/b][/i]
 
 [hr]
-[b][u]Exch Rate[/u][/b]: [color=green][b][][/b][/color]1 = [color=green][b]$[/color][/b]1.26 [color=green][i][b]+$[/b]0.02[/i][/color] 
+[b][u]Exch Rate[/u][/b]: [color=green][b][][/b][/color]1 = [color=green][b]$[/color][/b]1.27 [color=green][i][b]+$[/b]0.01[/i][/color] 
 
-[b][u]Empl Rate | NS[/u][/b]: 65.35[b]%[/b] | 66.90[b]%[/b]
+[b][u]Empl Rate | NS[/u][/b]: 65.42[b]%[/b] | 66.89[b]%[/b]
 
-[b][u]Avg Income:[/u][/b] [b]P10%[/b]: [color=green][b][][/b][/color]37,167.27 [color=red][i][b]-[/b][b][][/b]3.45[/i][/color] | [b]MC[/b]: [color=green][b][][/b][/color]75,145.27 [color=green][i][b]+[][/b]92.33[/i][/color] | [b]R10%[/b]: [color=green][b][][/b][/color]151,426.08 [color=green][i][b]+[/b][b][][/b]255.35[/i][/color]
+[b][u]Avg Income:[/u][/b] [b]P10%[/b]: [color=green][b][][/b][/color]36,719.45 [color=red][i][b]-[/b][b][][/b]447.82[/i][/color] | [b]MC[/b]: [color=green][b][][/b][/color]73,449.52 [color=red][i][b]-[][/b]1,695.75[/i][/color] | [b]R10%[/b]: [color=green][b][][/b][/color]151,370.96 [color=red][i][b]-[/b][b][][/b]55.12[/i][/color]
 
-[b][u]Consumer Spending[/u][/b]: [color=green][b][][/b][/color]397.86[b]T[/b] [color=red][i][b]-[][/b]0.442[/color][b]T[/b][/i]
+[b][u]Consumer Spending[/u][/b]: [color=green][b][][/b][/color]407.552[b]T[/b] [color=green][i][b]+[][/b]9.692[/color][b]T[/b][/i]
 
-[b][u]Savings &amp; Investments[/u][/b]: [b][color=green][][/color][/b]49.74[b]T[/b] [color=green][i]+[]2.38[/color][b]T[/b][/i]
+[b][u]Savings &amp; Investments[/u][/b]: [b][color=green][][/color][/b]51.902[b]T[/b] [color=green][i]+[]2.162[/color][b]T[/b][/i]
 
-[b][u]GRP[/u][/b]: [color=green][b][][/b][/color]447.597[b]T[/b] [color=green][i][b]+[][/b]1.9[b][/color]T[/b][/i]
+[b][u]GRP[/u][/b]: [color=green][b][][/b][/color]459.454[b]T[/b] [color=green][i][b]+[][/b]11.857[b][/color]T[/b][/i]
 
-[b][u]GRP Per Capita[/u][/b]: [color=green][b][][/b][/color]32,039.90[i][color=green] [b]+[][/b]24.11[/i][/color]
+[b][u]GRP Per Capita[/u][/b]: [color=green][b][][/b][/color]32,752.60[i][color=green] [b]+[][/b]712.70[/i][/color]
 
 [b][u]Black Market[/u][/b]: [color=red][b][][/b]2.38[b][/color]T[/b] 
 [hr]
-[b][u]Revenue[/u][/b]: [color=green][b][][/b][/color]166.95[b]T[/b] [color=red][i][b]-[][/b]1.35[/color][b]T[/b][/i] [i]37.6[b]%[/b] of GRP[/i] [b][i][][/b]60.94[b]Q/Yr[/i][/b]
+[b][u]Revenue[/u][/b]: [color=green][b][][/b][/color]168.62[b]T[/b] [color=red][i][b]-[][/b]4.13[/color][b]T[/b][/i] [i]36.7[b]%[/b] of GRP[/i] [b][i][][/b]61.55[b]Q/Yr[/i][/b]
 
-[b][u]Spending[/u][/b]: [color=green][b][][/b][/color]76.4[b]T[/b] [color=green][i][b]+[][/b]0.02[/color][b]T[/b][/i] [i][b][][/b]27.78[b]Q/Yr[/i][/b]
+[b][u]Spending[/u][/b]: [color=green][b][][/b][/color]75.5[b]T[/b] [color=red][i][b]-[][/b]1.20[/color][b]T[/b][/i] [i][b][][/b]27.56[b]Q/Yr[/i][/b]
 
-[b][u]Surplus[/u][/b]: [color=green][b][][/b][/color]90.85[b]T[/b] [i][b][]33.16[/b][b]Q/Yr[/i][/b]
+[b][u]Surplus[/u][/b]: [color=green][b][][/b][/color]96.05[b]T[/b] [i][b][]35.05[/b][b]Q/Yr[/i][/b]
 
-[b][u]Vault[/u][/b]: [color=green][b][][/b][/color]484.12[b]T[/b]  
+[b][u]Vault[/u][/b]: [color=green][b][][/b][/color]574.97[b]T[/b]  
