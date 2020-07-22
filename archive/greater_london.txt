@@ -1,2 +1,3 @@
 [color=navy][b]Greater London[/b]
-a [region=Great Britain and Northern Ireland]/[region=London] region[/color]
+a [region=Great Britain and Northern Ireland]/[region=London]/[region=Westminster] region
+also allied with [region=United States of America]/[region=0000] regions[/color]
