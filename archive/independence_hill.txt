@@ -1,50 +1,46 @@
 [u][b]Welcome to [nation=long]Independence Hill[/nation][/b][/u]
 [hr]
-[b][u]Date[/u][/b]: 7/23/20
+[b][u]Date[/u][/b]: 7/24/20
 
-[b][u]Pop[/u][/b]: 14.188[b]B[/b]
+[b][u]Pop[/u][/b]: 16.647[b]B[/b]
 
-[b][u]Calling Code[/u][/b]: 0
+[b][u]Life Ex[/u][/b]: 74.90  
 
-[b][u]Crime[/u][/b]: Low [i]7.30/hr.[/i]
-
-[b][u]Life Ex[/u][/b]: 76.40  
-
-[b][u]Avg IQ[/u][/b]: 124.70 
+[b][u]Avg IQ[/u][/b]: 126.04
 [hr]
 [b][u]EPR[/u][/b]: 20K [i][color=green]Thriving[/color][/i]
 
 [b][u]ECS[/u][/b]: 110
 
-[color=green][b][u]Exp[/u][/b]: [b][][/b]57.13[b][/color]T[/b] [b]-&amp;gt;[/b] [color=green][i][b][][/b]20.85[/color][b]Q/yr[/b][/i]
+[color=green][b][u]Exp[/u][/b]: [b][][/b]57.59[b][/color]T[/b] [b]-&amp;gt;[/b] [color=green][i][b][][/b]21.02[/color][b]Q/yr[/b][/i]
 
-[color=red][b][u]Imp[/u][/b]: [b][][/b]57.131[b][/color]T[/b] [b]-&amp;gt;[/b] [color=red][i][b][][/b]20.852[/color][b]Q/yr[/b][/i]
+[color=red][b][u]Imp[/u][/b]: [b][][/b]57.522[b][/color]T[/b] [b]-&amp;gt;[/b] [color=red][i][b][][/b]21.0[/color][b]Q/yr[/b][/i]
 
-[b][u]Net Ex[/u][/b]: [b][color=red]-[][/b]0.00099[/color][b]T[/b]  
+[b][u]Net Ex[/u][/b]: [b][color=red]-[][/b]0.068[/color][b]T[/b]  
 
 [hr]
-[b][u]Ex Rate[/u][/b]: [color=green][b][][/b][/color]1 = [color=green][b]$[/color][/b]1.30 [color=green][i][b]+$[/b]0.03[/i][/color] 
+[b][u]Ex Rate[/u][/b]: [color=green][b][][/b][/color]1 = [color=green][b]$[/color][/b]1.27 [color=red][i][b]-$[/b]0.03[/i][/color] 
 
-[b][u]Empl Rate[/u][/b]: 66.99[b]%[/b]
+[b][u]Inflation[/u][/b]: 2.3[b]%[/b]
 
-[b][u]Avg Income:[/u][/b] [b]P10%[/b]: [color=green][b][][/b][/color]33,385.19 [color=green][i][b]+[/b][b][][/b]224.38[/i][/color] | [b]MC[/b]: [color=green][b][][/b][/color]73,361.51 [color=green][i][b]+[][/b]1,147.32[/i][/color] | [b]R10%[/b]: [color=green][b][][/b][/color]171,445.57 [color=green][i][b]+[/b][b][][/b]197.06[/i][/color]
+[b][u]Empl Rate[/u][/b]: 66.77[b]%[/b]
 
-[b][u]Poverty Line[/u][/b]:  [color=green][b][][/b][/color]9,815.38 ([i][b]US[color=green]$[/b][/color]12,760.00[/i])
+[b][u]Avg Income:[/u][/b] [b]P10%[/b]: [color=green][b][][/b][/color]33,410.11 [color=green][i][b]+[/b][b][][/b]24.92[/i][/color] | [b]MC[/b]: [color=green][b][][/b][/color]74,374.95 [color=green][i][b]+[][/b]1,013.44[/i][/color] | [b]R10%[/b]: [color=green][b][][/b][/color]179,080.82 [color=green][i][b]+[/b][b][][/b]7,635.25[/i][/color]
 
-[b][u]Con Spend[/u][/b]: [color=green][b][][/b][/color]431.508[b]T[/b] [color=green][i][b]+[][/b]21.938[/color][b]T[/b][/i], [i]88.73% of GRP[/i]
+[b][u]Poverty Line[/u][/b]:  [color=green][b][][/b][/color]10,047.24 ([i][b]US[color=green]$[/b][/color]12,760.00[/i])
 
-[b][u]Con Save[/u][/b]: [b][color=green][][/color][/b]54.832[b]T[/b] [color=green][i][b]+[][/b]2.721[/color][b]T[/b][/i], [i]11.27% of GRP[/i]
+[b][u]Con Spend[/u][/b]: [color=green][b][][/b][/color]480.504[b]T[/b] [color=green][i][b]+[][/b]48.996[/color][b]T[/b][/i], [i]88.8% of GRP[/i]
 
-[b][u]GRP[/u][/b]: [color=green][b][][/b][/color]486.340[b]T[/b] [color=green][i][b]+[][/b]24.69[b][/color]T[/b][/i]
+[b][u]Con Save[/u][/b]: [b][color=green][][/color][/b]60.597[b]T[/b] [color=green][i][b]+[][/b]5.765[/color][b]T[/b][/i], [i]11.2% of GRP[/i]
 
-[b][u]GRP Per Capita[/u][/b]: [color=green][b][][/b][/color]34,278.26 [i][color=green][b]+[]1,560.48[/b][/i][/color]
+[b][u]GRP[/u][/b]: [color=green][b][][/b][/color]541.101[b]T[/b] [color=green][i][b]+[][/b]54.761[b][/color]T[/b][/i]
 
-[b][u]Black Market[/u][/b]: [color=red][b][][/b]2.33[b][/color]T[/b] 
+[b][u]GRP Per Capita[/u][/b]: [color=green][b][][/b][/color]32,504.41[i][color=red][b]-[]1,773.85[/b][/i][/color] 
 [hr]
-[b][u]Rev[/u][/b]: [color=green][b][][/b][/color]175.08[b]T[/b] [b]-&amp;gt;[/b] [color=green][i][b]+[][/b]8.87[/color][b]T[/b][/i] [i]36[b]%[/b] of GRP[/i] [b][i][color=green][][/b][/color]63.90[b]Q/Yr[/i][/b]
+[b][u]Rev[/u][/b]: [color=green][b][][/b][/color]195.34[b]T[/b] [b]-&amp;gt;[/b] [color=green][i][b]+[][/b]20.26[/color][b]T[/b][/i] [i]36.1[b]%[/b] of GRP[/i] [b][i][color=green][][/b][/color]71.30[b]Q/Yr[/i][/b]
 
-[b][u]Spending[/u][/b]: [color=green][b][][/b][/color]75.3[b]T[/b] [b]-&amp;gt;[/b] [color=red][i][b]-[][/b].2[/color][b]T[/b][/i] [i][b][color=green][][/b][/color]27.48[b]Q/Yr[/i][/b]
+[b][u]Spending[/u][/b]: [color=green][b][][/b][/color]75.8[b]T[/b] [b]-&amp;gt;[/b] [color=green][i][b]+[][/b]0.3[/color][b]T[/b][/i] [i][b][color=green][][/b][/color]27.68[b]Q/Yr[/i][/b]
 
-[b][u]Balance[/u][/b]: [color=green][b][][/b][/color]99.78[b]T[/b] [b]-&amp;gt;[/b] [i][b][color=green][][/color][/b]36.42[b]Q/Yr[/i][/b]
+[b][u]Balance[/u][/b]: [color=green][b][][/b][/color]119.54[b]T[/b] [b]-&amp;gt;[/b] [i][b][color=green][][/color][/b]43.63[b]Q/Yr[/i][/b]
 
-[b][u]Vault[/u][/b]: [color=green][b][][/b][/color]761.73[b]T[/b]  
+[b][u]Vault[/u][/b]: [color=green][b][][/b][/color]861.51[b]T[/b]  
