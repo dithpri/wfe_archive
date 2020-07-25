@@ -1,6 +1,21 @@
-[b]East Timor[/b]
-a [region=0000]/DBA Alliance region
-
-See [region=Timor Leste]
-
-This region is in transition from an Oracle Region of the DBA Alliance to a Matrix Region of the RHW Alliance. Soon this region will be accepting embassy offers.
+[color=navy][b]East Timor[/b]
+[/color][color=green]
+a sovereign nation within the East Indies
+[b]Capital:[/b] [region=Dili]
+[b]Independence:[/b] 
+- Declared: November 28, 1975 [from Portugal] 
+- Recognized: May 20, 2002 
+[b]Population:[/b] 947,000 (est 2005) 
+[b]Area:[/b] 14,609 km&sup2;
+[b]Official Language:[/b] Tetum and Portuguese
+[b]Religion:[/b] 97.6% Roman Catholic
+[/color][color=olive]
+REGION
+[b]Founded:[/b] 2012 Jan 11
+[b]Matrixed:[/b] 2017 June 01
+[b]Featured:[/b] 2020 July 25
+[b]Sister region:[/b] [region=Timor Leste]
+This is a DBA/RHW allied region
+Associated with [region=United States of America]
+[/color][color=green]
+[b]Embassy Offers Welcome[/b][/color]
