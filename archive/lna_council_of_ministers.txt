@@ -1,12 +1,5 @@
-[b]This is the Council of Ministers of [region]Liberty Nations Alliance[/region]
+[b]This is a historical site to remember the Council of Ministers of [region]Liberty Nations Alliance[/region]
 
-Members of the government of [region]Liberty Nations Alliance[/region] will have regular meetings here.[/b]
-[hr][b]Compostition of the Council of Ministers:[/b]
+Members of the government of Liberty Nations Alliance had regular meetings here.
 
-[b]- The Prime Minister: [nation=long]France Europe[/nation]
-- The Deputy Prime Minister: [nation=long]Nova Tyrnavia[/nation]
-- The Minister of the Interior: [nation=long]Republic of Mesque[/nation]
-- The Minister of Foreign Affairs: [nation=long]Penguinium[/nation]
-- The Minister of Government Spokesperson: [nation=long]Mobiusobia[/nation]
-
-- The Officer of the Constitution (not part of the Council, just controlling government action): not appointed yet[/b]
+The new region of Liberty Nations Alliance is called [region]Liberty Democratic Alliance[/region].[/b]

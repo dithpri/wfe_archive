@@ -13,11 +13,11 @@ We fight with [color=red][b][u]honour[/u][/b][/color], [color=orange][b][u]digni
 
 [u]NEWS[/u]:
 
-[i]-[u]Updated Embassy Criteria[/u]
+[u][i]-Endorse our new WA Delegate:[nation]Trece[/nation][/i][/u]
 
 -
 [hr]
-[/i]
+
 [color=red]Military Ranks:[/color]
 ~Grandmaster: [nation]Trece[/nation]
 ~Field marshal: [nation]Union of the Jameselburg States[/nation]
@@ -27,7 +27,7 @@ We fight with [color=red][b][u]honour[/u][/b][/color], [color=orange][b][u]digni
 
 [color=blue]Political Positions:[/color]
 ~Kaiser: [nation=short]Prussian kaiserreichh[/nation]
-~WA Delegate: [i]Vacant[/i]
+~WA Delegate: [nation]Trece[/nation]
 ~Ambassador: [i]Vacant[/i]
 ~Propaganda Minister: [i]Vacant[/i]
 ~Minister of Justice: [i]Vacant[/i]
