@@ -3,10 +3,10 @@
 [b]&quot;Terra Nostra, Nostrum Suffragium&quot;[/b]
 
 [hr]
-[b]Magistrate Council:[/b] [nation]The North American Unified States[/nation] [nation]Awalltown[/nation] [nation]Yugoslavija Kingdom[/nation] [nation]Et Romani[/nation] [nation]Hulmeira[/nation]
+[b]Magistrate Council:[/b] [nation]Awalltown[/nation] [nation]Yugoslavija Kingdom[/nation] [nation]Et Romani[/nation] [nation]Hulmeira[/nation]
 Consul: [nation]Romano-Campania[/nation]
 Co-Consul: [nation]The Proudhonnian Isles[/nation]
-Quaestor: [nation]The North American Unified States[/nation]
+Quaestor: 
 Aedile: [nation]Et Romani[/nation]
 Legate: [nation]Awalltown[/nation]
 
