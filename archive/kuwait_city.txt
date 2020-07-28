@@ -1,3 +1,19 @@
-[color=green][b]Kuwait City[/b], [region=Kuwait]
-[b]Sister Regions:[/b] [region=Ahmedi], [region=Asima], [region=Farwaniya], [region=Hawalli], [region=Jahra], [region=Mubarak al Kabeer].
-a [region=0000] region[/color]
+[color=blue][b]Kuwait City[/b]
+[/color][color=green]
+FACTS
+capital city of [region=Kuwait]
+the deep harbor on the Persian Gulf where the Bedouin founded a trading post.
+the name is derived from the Hindustani k&amp;#363;t (fort)
+the city&#39;s fortunes are linked to commerce
+Located on the edge of a hot desert with no surface water or free flowing rivers
+[b]Population:[/b] 32,400 (2005)
+[/color][color=olive]
+REGION
+[b]Founded:[/b] 2016 May 18
+[b]Puppet Storage:[/b] 2019 May 08
+[b]Featured:[/b] 2020 July 28
+[b]Matrixed:[/b] 2020 July 28 * accepts embassy offers since
+an [region=Old Spirit] / [region=0000] / [region=United States of America] region
+a Queen&#39;s State puppet storage region
+[/color][color=green]
+[b]Embassy Offers Accepted[/b][/color]

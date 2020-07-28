@@ -1,18 +1,18 @@
 [u][b]Welcome to [nation=long]Independence Hill[/nation][/b][/u]
 [hr]
-[b][u]Date[/u][/b]: 7/27/20
+[b][u]Date[/u][/b]: 7/28/20
 
-[b][u]Pop[/u][/b]: 16.904[b]B[/b]
+[b][u]Pop[/u][/b]: 16.992[b]B[/b]
 
-[b][u]Life Ex[/u][/b]: 74.08  
+[b][u]Life Ex[/u][/b]: 75.02 
 
-[b][u]Avg IQ[/u][/b]: 124.39
+[b][u]Avg IQ[/u][/b]: 124.96
 
-[b][u]Political Freedoms[/u][/b]: 67.09 [i]Very Good[/i]
+[b][u]Political Freedoms[/u][/b]: 70.77 [i]Very Good[/i]
 
-[b][u]Civil Rights[/u][/b]: 69.46 [i]Excellent[/i]
+[b][u]Civil Rights[/u][/b]: 71.51 [i]Excellent[/i]
 [hr]
-[b][u]Economy[/u][/b]: 85.97 [i][color=green]Thriving[/color][/i]
+[b][u]Economy[/u][/b]: 86.48 [i][color=green]Thriving[/color][/i]
 
 [color=green][b][u]Exp[/u][/b]: [b][][/b]65.621[b][/color]T[/b] [b]-&amp;gt;[/b] [color=green][i][b][][/b]23.95[/color][b]Q/yr[/b][/i]
 
@@ -21,21 +21,21 @@
 [b][u]Net Ex[/u][/b]: [b][color=green]+[][/b]223[/color][b]B[/b]  
 
 [hr]
-[b][u]Ex Rate[/u][/b]: [color=green][b][][/b][/color]1 = [color=green][b]$[/color][/b]1.28 [color=green][i][b]+$[/b]0.01[/i][/color] 
+[b][u]Ex Rate[/u][/b]: [color=green][b][][/b][/color]1 = [color=green][b]$[/color][/b]1.31 [color=green][i][b]+$[/b]0.03[/i][/color] 
 
-[b][u]Daily and Weekly Inflation/Deflation[/u][/b]: [b]-[/b]0.62[b]%[/b] [b]|[/b] [b]-[/b]1.59[b]%[/b]
+[b][u]Daily and Weekly Inflation/Deflation[/u][/b]: [b]-[/b]2.34[b]%[/b] [b]|[/b] [b]-[/b]2.96[b]%[/b]
 
-[b][u]Empl Rate[/u][/b]: 67.27[b]%[/b]
+[b][u]Empl Rate[/u][/b]: 66.80[b]%[/b]
 
-[b][u]Avg Income:[/u][/b] [b]P10%[/b]: [color=green][b][][/b][/color]33,894.20[color=green] [i][b]+[/b][b][][/b]424.58[/i][/color] | [b]MC[/b]: [color=green][b][][/b][/color]76,986.31[color=green] [i][b]+[][/b]1,077.52[/i][/color] | [b]R10%[/b]: [color=green][b][][/b][/color]189,017.22 [color=green][i][b]+[/b][b][][/b]1,697.85[/i][/color]
+[b][u]Avg Income:[/u][/b] [b]P10%[/b]: [color=green][b][][/b][/color]34,953.92[color=green] [i][b]+[/b][b][][/b]1,059.72[/i][/color] | [b]MC[/b]: [color=green][b][][/b][/color]77,512.56[color=green] [i][b]+[][/b]526.25[/i][/color] | [b]R10%[/b]: [color=green][b][][/b][/color]184,108.34 [color=red][i][b]-[/b][b][][/b]4,908.88[/i][/color]
 
 [b][u]Con Spend[/u][/b]: [color=green][b][][/b][/color]493.354[b]T[/b] [color=green][i][b]+[][/b]7.025[/color][b]T[/b][/i]
 
 [b][u]Con Save[/u][/b]: [b][color=green][][/color][/b]62.18[b]T[/b] [color=green][i][b]+[][/b]0.509[/color][b]T[/b][/i]
 
-[b][u]GRP[/u][/b]: [color=green][b][][/b][/color]555.534[b]T[/b] [color=green][i][b]+[][/b]7.534[b][/color]T[/b][/i]
+[b][u]GRP[/u][/b]: [color=green][b][][/b][/color]585.374[b]T[/b] [color=green][i][b]+[][/b]29.84[b][/color]T[/b][/i]
 
-[b][u]GRP Per Capita[/u][/b]: [color=green][b][][/b][/color]32,864.07[i][color=green][b]+[]301.23[/b][/i][/color] 
+[b][u]GRP Per Capita[/u][/b]: [color=green][b][][/b][/color]34,449.99 [i][color=green][b]+[]1,585.92[/b][/i][/color] 
 [hr]
 [b][u]Rev[/u][/b]: [color=green][b][][/b][/color]197.21[b]T[/b] [b]-&amp;gt;[/b] [color=green][i][b]+[][/b]4.86[/color][b]T[/b][/i] [i]35.5[b]%[/b] of GRP[/i] [b][i][color=green][][/b][/color]71.98[b]Q/Yr[/i][/b] 
 
