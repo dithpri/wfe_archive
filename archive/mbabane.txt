@@ -1,2 +1,5 @@
 [b]Mbabane[/b]
-a [region=0000] region
+
+capital of [region=Kingdom of Eswatini] ([region=Swaziland])
+
+an [region=Old Spirit] + [region=0000] region
