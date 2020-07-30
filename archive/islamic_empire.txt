@@ -13,3 +13,4 @@ The Shahi Govt:
 Sultan (Emperor): [nation]Hazrat Muhammad[/nation]
 Wazir ( Prime Minister):
 Emir ( General Primus ):
+Foreign Minister: [nation]Ali Imam[/nation]
