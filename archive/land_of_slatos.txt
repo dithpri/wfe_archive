@@ -3,4 +3,6 @@
 SGT [nation]Dyllonia[/nation](trigger)
 SGT [nation]Drexlore[/nation]
 PFC [nation]Istillia[/nation]
-PFC [nation]TBH Jesus[/nation][/b]
+PFC [nation]TBH Jesus[/nation][/b]a
+
+This invasion is sponsored by nord VPN 

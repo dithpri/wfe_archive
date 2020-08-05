@@ -3,23 +3,23 @@
 [hr][hr]
 
 [color=gold]&amp;#9812;[/color] [b]Leadership[/b] [color=gold]&amp;#9812;[/color]
-[list][b][i]Chancellor[/i]: [nation=noflag]The Evile Empire[/nation] ([color=#836B9E]CTZ[/color])[/b]
+[list][b][i]Chancellor[/i]: [nation=noflag]Vacant[/nation] ([color=#836B9E] [/color])[/b]
 
 [list]
 
-[i]Deputy Chancellor[/i]: [nation=noflag]Pollariaua[/nation] ([color=#00acff]LP[/color])
+[i]Deputy Chancellor[/i]: [nation=noflag]Vacant[/nation] ([color=#00acff] [/color])
 
 [/list]
 
-[b][i]Shadow Chancellor[/i]: [nation=noflag]Communaccord[/nation] ([color=#12C724]GL[/color])[/b]
+[b][i]Shadow Chancellor[/i]: [nation=noflag]Vacant[/nation] ([color=#12C724] [/color])[/b]
 [/list][hr][hr]
 
-[b][u]Previous Business:[/b][/u] [b][i]Senator Remove[/i][/b]
-[i]Removal of Sen. Baatsfjord For Inactivity ~ PASSED[/i]
+[b][u]Previous Business:[/b][/u] [b][i]Election[/i][/b]
+[i]Election ~ COMPLETED[/i]
 
-[b][u]Current Business:[/b][/u] [i][b]Referendum Motion[/b][/i]
-[i]Motion for Flag Referendum ~ IN VOTE[/i]
+[b][u]Current Business:[/b][/u] [i][b]Chancellor Declaration Period[/b][/i]
+[i]Chancellor Declaration Period ~ OPEN[/i]
 
-[b][u]Next Business:[/b][/u] [i][b]Treaty Approval[/b][/i]
-[I]NWE-TDR-RWA Treaty Approval[/i]
+[b][u]Next Business:[/b][/u] [i][b]Chancellor Election[/b][/i]
+[I]Chancellor Election[/i]
 [hr][hr]
