@@ -21,8 +21,8 @@
 [region]The First Order Army[/region], password: FWO
 [hr]
 
-[color=DC0000]Have an argument? Take it to [region]Warzone FWO[/region][/color]
+[color=DC0000]Have an argument? Take it to [region]Warzone FWO[/region], password: FWO[/color]
 [hr]
-[color=DC0000][b]Endorsement Cap:[/color] 10[/b]
+[color=DC0000][b]Endorsement Cap:[/color] 15[/b]
 
 [color=DC0000][b]And remember, Premier Elijah is always watching...[/b][/color]

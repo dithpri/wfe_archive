@@ -1,1 +1,23 @@
-Work in progress
+[b]Welcome![/b]
+
+[i]The Arctic Unity Party[/i] is pan-arctic political organisation that emphasizes the need for democratization and increased inter-regional cooperation in arctic regions.
+
+The party is active in the following regions:
+
+[b][region]Arctic[/region][/b] | [nation]Arctic Unity Party[/nation]
+
+[b][region]The Arctic[/region][/b] | [nation]The Arctic Unity Party[/nation]
+
+[b][region]The South Arctic[/region][/b] | [nation]Southern Branch of Arctic Unity Party[/nation]
+
+[b][region]The West Arctic[/region][/b] | [nation]Western Branch of Arctic Unity Party[/nation]
+
+[b][region]The East Arctic[/region][/b] | [nation]Eastern Branch of Arctic Unity Party[/nation]
+
+[b][region]The Arctic Isles[/region][/b] | [nation]Island Branch of Arctic Unity Party[/nation]
+
+[b][region]The Southern Arctic Isles[/region][/b] | [nation]Branch 3 of Arctic Unity Party[/nation]
+
+[b][region]The Arctic Confederation[/region][/b] | [nation]Branch 4 of Arctic Unity Party[/nation]
+
+[b][region]Arctic Alliance[/region][/b] | [nation]Branch 5 of Arctic Unity Party[/nation]

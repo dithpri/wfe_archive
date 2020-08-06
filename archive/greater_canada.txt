@@ -13,10 +13,13 @@ Map: Tell [nation]New West-Canada[/nation] the region and the capital you want! 
 FACTS:
 Capital: (changed Recently) Calgary
 
+
 Largest City: Indurnamastan
 
-population: [b]3,292,000,000[/b] (as of August 5, 2020 - [b]Will be updated by [nation]New West-Canada[/nation] at the end of each week (end of every saturday)[/b])
+population: [b]3,292,000,000[/b]         (as of August 5, 2020 - [b]Will be updated by [nation]New West-Canada[/nation] at the end of each week (end of every saturday)[/b])
 Highest population: [nation]Sysillia[/nation] at 1.5 billion
 Lowest population: [nation]Organismmmmmmmmmmmmm[/nation] at 8 million
+
+Regional Languages: British English and Sysillian Systomilarika
 
 
