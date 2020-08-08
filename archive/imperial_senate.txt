@@ -3,23 +3,23 @@
 [hr][hr]
 
 [color=gold]&amp;#9812;[/color] [b]Leadership[/b] [color=gold]&amp;#9812;[/color]
-[list][b][i]Chancellor[/i]: [nation=noflag]Vacant[/nation] ([color=#836B9E] [/color])[/b]
+[list][b][i]Chancellor[/i]: [nation=noflag]Pollariaua[/nation] ([color=#00acff]LP[/color])[/b]
 
 [list]
 
-[i]Deputy Chancellor[/i]: [nation=noflag]Vacant[/nation] ([color=#00acff] [/color])
+[i]Deputy Chancellor[/i]: [nation=noflag]Palancia[/nation] ([color=#836B9E]CTZ[/color])
 
 [/list]
 
-[b][i]Shadow Chancellor[/i]: [nation=noflag]Vacant[/nation] ([color=#12C724] [/color])[/b]
+[b][i]Shadow Chancellor[/i]: [nation=noflag]Angea[/nation] ([color=#800080]RIP[/color])[/b]
 [/list][hr][hr]
 
-[b][u]Previous Business:[/b][/u] [b][i]Election[/i][/b]
-[i]Election ~ COMPLETED[/i]
+[b][u]Previous Business:[/b][/u] [b][i]Chancellor Election[/i][/b]
+[i]Chancellor Election~ COMPLETED[/i]
 
-[b][u]Current Business:[/b][/u] [i][b]Chancellor Declaration Period[/b][/i]
-[i]Chancellor Declaration Period ~ OPEN[/i]
+[b][u]Current Business:[/b][/u] [i][b]___[/b][/i]
+[i]___ ~ IN DEBATE[/i]
 
-[b][u]Next Business:[/b][/u] [i][b]Chancellor Election[/b][/i]
-[I]Chancellor Election[/i]
+[b][u]Next Business:[/b][/u] [i][b]___[/b][/i]
+[I]___[/i]
 [hr][hr]
