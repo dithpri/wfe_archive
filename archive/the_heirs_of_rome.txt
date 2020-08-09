@@ -3,15 +3,16 @@
 [b]&quot;Terra Nostra, Nostrum Suffragium&quot;[/b]
 
 [hr]
-[b]Magistrate Council:[/b] [nation]Awalltown[/nation] [nation]Yugoslavija Kingdom[/nation] [nation]Et Romani[/nation] [nation]Hulmeira[/nation]
-Consul: [nation]Romano-Campania[/nation]
-Co-Consul: [nation]The Proudhonnian Isles[/nation]
-Quaestor: 
+[b]The Senate:[/b] [nation]Awalltown[/nation] [nation]Yugoslavija Kingdom[/nation] [nation]Et Romani[/nation] [nation]Hulmeira[/nation]
+Consul Prior: [nation]Romano-Campania[/nation]
+Consul Posterior: [i]vacant[/i]
+Princeps Senatus: [nation]The Proudhonnian Isles[/nation]
+Quaestor: [i]vacant[/i]
 Aedile: [nation]Et Romani[/nation]
 Legate: [nation]Awalltown[/nation]
 
 [hr]
-After the small and rising region known as the [region]Heirs of Rome[/region] was invaded and occupied, a small body of former members banded together to refound the region. From these troubled origins, we have, phoenix-like emerged! All newcomers are welcome! The first elections have concluded and the drafting of a new constitution is underway! Welcome to [region]The Heirs of Rome[/region], and please enjoy your stay!
+After the small and rising region known as the [region]Heirs of Rome[/region] was invaded and occupied, a small body of former members banded together to refound the region. From these troubled origins, we have, phoenix-like emerged! All newcomers are welcome! We recently adopted our new constitution, establishing this region as a republic! Welcome to [region]The Heirs of Rome[/region], and please enjoy your stay!
 
 Join our [url=https://discord.gg/ZGjUyx8]Discord[/url]
 Endorse the Consul, [nation]Romano-Campania[/nation]!

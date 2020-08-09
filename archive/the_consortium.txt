@@ -11,7 +11,7 @@
 [list]
 [u][B][color=eb3f3f]Member-Regions:[/color][/B][/u]
 
-[*] [region]The East Pacific[/region]
+[*] [region]The East Pacific[/region] (&amp; its vacation resort of [region]Hyrule[/region])
 [*] [region]The Free Nations Region[/region]
 [*] [region]Thaecia[/region]
 [*] [region]The Glorious Nations of Iwaku[/region] &amp; [region]Eientei Gensokyo[/region]

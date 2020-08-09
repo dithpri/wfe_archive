@@ -14,9 +14,9 @@ FACTS:
 Capital: Calgary of [nation]New West-Canada[/nation]
 Largest City: Indurnamstan of [nation]Sysillia[/nation]
 
- population: [nation]Sysillia[/nation] at 1.52 billion
+highest population:  [nation]Sysillia[/nation] at 1.52 billion
 Lowest population: [nation]Organismmmmmmmmmmmmm[/nation] at 12 million [CALCULATED BY [nation]New West-Canada[/nation] at Saturday]
 
-Regional Languages: British English and Sysillianist Systomilarika
+Regional Languages: English (India, UK, US, Canada) and Sysillianist Systomilarika
 
 
