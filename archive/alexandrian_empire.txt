@@ -1,15 +1,8 @@
-[b]&AElig;[/b] Alexandrian Empire
+[b]&AElig; ALEXANDRIAN EMPIRE[/b]
+[Region]Alexandrian Empire[/region]
 
-Good people do not 
-need law to tell them 
-to act responsibly, 
-while bad people will 
-find a way around 
-the laws.
+[B]Emperor&amp;#9734;[/b]
+[Nation]Alexandria Areia[/nation]
 
-ARISTOTLE
-
-[b]Alexandrian Empire[/b]
-Founded For Alexander The Great, 
-Alexander III of Macedon
-The greatest Emperor of all time.
+[I]War General&amp;#9734;[/i]
+[Nation]Pandaemona[/nation]

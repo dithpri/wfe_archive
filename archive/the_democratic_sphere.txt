@@ -1,9 +1,11 @@
-Welcome to [color=blue]The Democratic Sphere[/color]!
+Welcome to [color=red]The[/color] [color=blue]Democratic Sphere[/color]!
 This region is devoted to democracy. You can see the evidence in our Constitution.
 Current Vice President: [nation]Careolan[/nation]
 Current President: [nation]Allenstadt[/nation]
-Current Council: Region population not sufficient for appointment of a Council.
+Current Council: Region population not sufficient for the appointment of a Council.
 Next Election: Friday, 14th August 2020
-Current Endorsement Cap is TWO
-Join our discord: https://discord.gg/VuGJpfN
+Current Endorsement Cap is [color=green]TWO[/color]
+Join our [url=https://discord.gg/VuGJpfN][color=blue]Discord[/color][/url]!
+
+Regional Color: [color=grey][b]Undecided[/b][/color]
 
