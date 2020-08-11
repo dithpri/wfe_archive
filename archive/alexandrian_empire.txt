@@ -1,8 +1,14 @@
 [b]&AElig; ALEXANDRIAN EMPIRE[/b]
 [Region]Alexandrian Empire[/region]
 
-[B]Emperor&amp;#9734;[/b]
+[B]EMPEROR&amp;#9734;[/b]
 [Nation]Alexandria Areia[/nation]
 
-[I]War General&amp;#9734;[/i]
+[I]WAR GENERAL&amp;#9734;[/i]
 [Nation]Pandaemona[/nation]
+
+[I]DIPLOMAT&amp;#9734;[/I]
+[NATION]Lyra Avalon[/nation]
+
+GUARDIAN 
+[NATION]DRACONIA A[/NATION]

@@ -15,8 +15,8 @@ Our principles: Humanity, Impartiality, Unity, Universality
 
 --------------------------------------------------------------------------
 
-[b]Emergency Level: [color=lime]Alpha[/color][/b]
-Possible threat.
+[b]Emergency Level: [color=cyan]Normal[/color][/b]
+No threats.
 
 [i]Recent Incidents:
 [/i] [region]Lily[/region] invasion, [color=green]Successful defense[/color]
