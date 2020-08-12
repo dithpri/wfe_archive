@@ -4,10 +4,9 @@
 Princess of Australia: Princess Madeline Haardrade
 
 Government:
-Prime Minister [nation]Albert Phillip Stuart[/nation]
+Prime Minister: Albert Philip Stuart,[nation]St Nevis and Kitts[/nation]
 Deputy Prime Minister [nation]TBA[/nation]
 Home Affairs Minister [nation]TBA[/nation]
 Culture Minister [nation]TBA[/nation]
 Foreign Affairs [nation]TBA[/nation]
-
 [/b]
