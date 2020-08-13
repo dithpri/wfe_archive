@@ -3,3 +3,6 @@ The United Socialist Republic
 [region]The New United Federation of Planets[/region] member region.
 
 [b]Department of Starfleet[/b]
+
+[b]Soviet Government:[/b]
+[nation]The Soviet Republic of Siberia[/nation]-[b]Premier[/b]

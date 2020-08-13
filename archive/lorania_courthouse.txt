@@ -4,6 +4,6 @@ Rules are defined in the pinned dispatch below, please read before ensuing in su
 
 Please, have a wonderful day!
 
--[nation]Loranian Chief Justice[/nation] [nation]Zweites Preussen[/nation]
+-[nation]Loranian Chief Justice[/nation] [nation]Saint Sully[/nation]
 
 [i][region]Lorania Courthouse[/region] is associated with its parent region [region]Lorania[/region]. [region]Lorania Courthouse[/region] will not associate with or take cases from other regions.[/i]
