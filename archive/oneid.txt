@@ -4,4 +4,4 @@ The system is based on a union where all states have one ruler and the same fore
 
 The owner of all nations here is [nation]Oneid[/nation].
 
-[u]Accepts all embassy requests.[/u]
+[u][b]Accepts all embassy requests.[/b][/u]

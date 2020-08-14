@@ -1,6 +1,17 @@
-Current Wars: None
+Current Wars: The 2nd Great War
+Started at: January 14 7531
+Factions:
+Communist Bloc:
+[nation]Delododian[/nation]
+[nation]Fluttershyian[/nation]
+VS
+Free Nations:
+[nation]Beauty and Beast[/nation]
+[nation]Blue Blossom[/nation]
+[nation]Pinkamena Pie[/nation]
+W/ [nation]Little Daguo[/nation]
 Time:  
-Year: 7531 A.D
+Year: 7532 A.D
 
 How to count the time on Pancanawe Union Alliance world
 1 Year= 12 hours in real life  (1 Pm-1 AM)
