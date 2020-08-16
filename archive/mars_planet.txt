@@ -1,9 +1,9 @@
 mars planet 
-clouds being made and protection from the sun:65%
-Average temp: 2
-o2: 30%
-water: 9.5%
-biomass(green):0.1%
-money for this: 17 trillion dollars
+clouds being made and protection from the sun:70%
+Average temp: 5
+o2: 35%
+water: 10%
+biomass(green):0.3%
+money for this: 18 trillion dollars
 
-daily news: new ore found on the planet 
+daily news: mining the new ore called marsram
