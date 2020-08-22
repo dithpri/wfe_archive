@@ -1,13 +1,1 @@
-[region]Union Cycliste Internationale[/region] is an international governing body for competitive cycling. This region houses all accounts in control of competitions of UCI.
-
-Presidential account: [nation]Union Cycliste Internationale[/nation]
-Actual nation in control: [nation]Picts[/nation]
-
-[b]UCI Competitions[/b]
-
-1. UCI BMX Championships
-2. UCI Cyclo-Cross Championships
-3. UCI Mountain Biking Championships
-4. UCI Para-Cycling Championships
-5. UCI Road Cycling Championships
-[b]6. UCI Track Cycling Championships (Glesga 2013) - Upcoming![/b]
+Hello

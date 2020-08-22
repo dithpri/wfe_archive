@@ -1,1 +1,3 @@
 My puppet storage region!
+
+[i]accepts all embassies[/i]
