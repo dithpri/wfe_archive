@@ -1,11 +1,13 @@
-RP region 
-
 [b]NECC[/b] Northern European Control Council
 
 [i]The NECC dictates regional legislation in the [region]Alternative Northern Europe[/region] region. 
 All resolutions are to be approved by the council. 
-All region members may apply for membership of the council: Notify the chairman [nation]Koekefouland[/nation] for membership details.[/i]
 
 [b]RSIS[/b] Regional Shared Intelligence Service
 
+RSIS functions as a check-and-balance to NECC sanctions. Embargo&#146;s or any other type of NECC approved international intervention may only be enacted if the RSIS issues a negative security report on the nations involved. 
+Inquire with the RSIS Chairman for regional security reports.[/i]
+
 [b]ISaC[/b] International Security and Communication
+
+[i]ISaC is responsible for communication between the nations in the region. ISaC makes sure nations comply with communication regulations in the diplomatic channels.[/i]
