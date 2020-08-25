@@ -6,10 +6,11 @@ The Greater Germanic Reich is the most powerful nation in the world. With the ca
 
 [b]Reich Colonies:[/b]
 [region]the Kingdom of the Imperium[/region]
+[region]Reich Ukraine[/region]
 
 [b]Greater Germanic Reich Leadership:[/b]
 
 Mein Fuhrer: [nation]MeinFuhrer[/nation]
 Reichfuhrer: [nation]crazy gaming empire[/nation]
-Reichchancellor:
-Party Chancellor: [nation]Deutsches und Italienisches Kaiserreich[/nation]
+Reichchancellor:[nation]Deutsches und Italienisches Kaiserreich[/nation]
+Party Chancellor: 
