@@ -1,1 +1,3 @@
-BDFL
+BDFL: [nation]0yneamorrob[/nation]
+
+Home to scripting tests and the occasional card puppet

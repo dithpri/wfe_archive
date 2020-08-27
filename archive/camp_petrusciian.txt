@@ -6,7 +6,7 @@
 Minister of Defense: [nation]Can No Rey[/nation]
 Secretary of Border Defense: [nation]Ladinacem Andia[/nation]
 
-Wars: [region]ravana[/region]
+Wars: none!
 
 Allies:
 [region]The Wooloo Pact[/region]
