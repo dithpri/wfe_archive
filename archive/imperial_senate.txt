@@ -7,7 +7,7 @@
 
 [list]
 
-[i]Deputy Chancellor[/i]: [nation=noflag]Vacant[/nation] ([color=#836B9E]N/A[/color])
+[i]Deputy Chancellor[/i]: [nation=noflag]Bennisia[/nation] ([color=#836B9E]CTZ[/color])
 
 [/list]
 
@@ -17,8 +17,8 @@
 [b][u]Previous Business:[/b][/u] [b][i]Foreign A.I.D.[/i][/b]
 [i]Foreign A.I.D.~ Passed[/i]
 
-[b][u]Current Business:[/b][/u] [i][b]___[/b][/i]
-[i]___~ ___[/i]
+[b][u]Current Business:[/b][/u] [i][b]Revised Bill Format Act[/b][/i]
+[i]Revised Bill Format Act~ In Debate[/i]
 
 [b][u]Next Business:[/b][/u] [i][b]___[/b][/i]
 [I]___[/i]
