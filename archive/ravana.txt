@@ -15,11 +15,11 @@ _________________________________________________________________________
 Pontifex Maximus: [nation]Farlandiay[/nation]
 King: [nation]Glacio Revera[/nation]
 Members of Parliament: [list]
-[*]
-[*]
-[*]
-[*]
-[*]
+[*] [b]Chancellor[/b] [nation]Phyrexon[/nation]
+[*] [nation]Northern Mount Celestia[/nation]
+[*] [nation]Dignida[/nation]
+[*] [nation]Nopengie[/nation]
+[*] [nation]Qavania[/nation]
 _________________________________________________________________________
 
 [b]Please direct all foreign inquiries to [nation]Glacio Revera[/nation][/b]

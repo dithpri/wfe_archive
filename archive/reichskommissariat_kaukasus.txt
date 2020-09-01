@@ -1,0 +1,4 @@
+[region]Reichskommissariat Kaukasus[/region]
+Reich Colony of [region]GroBgermanisches Reich[/region]
+
+Fuhrer: [nation]MeinFuhrer[/nation]

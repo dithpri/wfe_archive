@@ -11,7 +11,7 @@
 
 [b][colour=#af1414]General Assembly:[/b][/colour] [b][url=https://www.nationstates.net/page=ga][colour=blue]FOR[/colour][/url][/b]
 
-[B][colour=#af1414]Security Council:[/b][/colour] [b][url=https://www.nationstates.net/page=sc][colour=blue]FOR[/colour][/url][/b]
+[B][colour=#af1414]Security Council:[/b][/colour] [b][url=https://www.nationstates.net/page=sc][colour=red]AGAINST[/colour][/url][/b]
 
 [colour=#af1414][b]To Do List:[/colour] 
 
@@ -25,7 +25,5 @@
 
 [hr][colour=ffc000][b]Announcements:[/b][/colour]
 [list]
-[*][b][colour=#af1414]The first episode of LaraCast is out now![/b]
-
-[url=https://youtu.be/b4xRwkth7oQ]Check it out![/url][/colour]
+[*][b][colour=#af1414]N-Day is approaching sometime soon (predicted late September). If you have any spare puppets and would like to help out, move them to [region]ATOMIC[/region] and await orders.[/b][/colour]
 [/list]
