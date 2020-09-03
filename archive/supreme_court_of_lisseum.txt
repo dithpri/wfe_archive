@@ -1,4 +1,9 @@
-[colour=red][b]Welcome to the Official Supreme Court of [region]Lisseum[/region].[/b][/colour][hr]
+[colour=blue][b]Welcome to the Official Supreme Court of [region]Lisseum[/region].[/b][/colour][hr]
 
-[colour=blue][b]Current Cases[/b][/colour]: [i]none[/i]
+[colour=red][b]Current Cases[/b][/colour]: [i]none[/i]
 [colour=orange][b]Upcomming Cases[/b][/colour]: [i]none[/i]
+[hr][colour=blue][b]Announcements:[/b][/colour] [colour=red]The Court is now open![/colour] 
+[hr][colour=blue][b]&amp;#9878; Composition &amp;#9878;:[/b][/colour]
+[list]
+[*][nation]Duras[/nation], Chief Justice
+[/list][hr]
