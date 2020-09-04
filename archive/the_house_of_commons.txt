@@ -1,4 +1,4 @@
-[u][b]Welcome to the House of Commons for the Region of [region]Thaecia[/region][/u]. 
+[u][b][color=#FF0000]W[/color][color=#F60008]e[/color][color=#ED0011]l[/color][color=#E4001A]c[/color][color=#DB0023]o[/color][color=#D3002B]m[/color][color=#CA0034]e[/color][/u] [u][color=#B80046]t[/color][color=#AF004F]o[/color][/u] [u][color=#9E0060]t[/color][color=#950069]h[/color][color=#8C0072]e[/color][/u] [u][color=#7B0083]H[/color][color=#72008C]o[/color][color=#690095]u[/color][color=#60009E]s[/color][color=#5700A7]e[/color][/u] [u][color=#4600B8]o[/color][color=#3D00C1]f[/color][/u] [u][color=#2B00D3]C[/color][color=#2300DB]o[/color][color=#1A00E4]m[/color][color=#1100ED]m[/color][color=#0800F6]o[/color][color=#0000FF]n[/color][color=#0008F6]s[/color][/u] [u][color=#001AE4]f[/color][color=#0023DB]o[/color][color=#002BD3]r[/color][/u] [u][color=#003DC1]t[/color][color=#0046B8]h[/color][color=#004FAF]e[/color][/u] [u][color=#00609E]R[/color][color=#006995]e[/color][color=#00728C]g[/color][color=#007B83]i[/color][color=#00837B]o[/color][color=#008C72]n[/color][/u] [u][color=#009E60]o[/color][color=#00A757]f[/color][/u] [u][color=#00B846]T[/color][color=#00C13D]h[/color][color=#00CA34]a[/color][color=#00D32B]e[/color][color=#00DB23]c[/color][color=#00E41A]i[/color][color=#00ED11]a[/color][color=#00F608].[/color][/u]
 
 [url=https://www.nationstates.net/region=the_thaecian_senate]Senate (Upper House)[/url]
 
@@ -11,6 +11,6 @@ Please read the [i][url=https://www.nationstates.net/nation=hoc_founder/detail=f
 [color=grey]Deputy Shadow Speaker of the House: Vacant[/color]
 [color=grey]Opposition Party Caucus Leader: Vacant[/color]
 [color=grey]Opposition Party Caucus Leader: Vacant[/color]
-[hr][b]Previous Business -- [color=grey]Planned recess[/color]
-Current Business -- [color=Green]Electoral Commissioner Confirmation[/color]
-Next Business -- [colour=green][url=https://www.nationstates.net/nation=islonia/detail=factbook/id=1398750]Repealing of LR 012[/url][/colour]- Passed Senate[/b]
+[hr][b]Previous Business -- [color=Green]Electoral Commissioner Confirmation- Confirmed[/color]
+Current Business -- [colour=gray][url=https://www.nationstates.net/nation=islonia/detail=factbook/id=1398750]Repealing of LR 012[/url][/colour]- Passed Senate
+Next Business -- [colour=green][url=https://www.nationstates.net/page=dispatch/id=1422646]Article I Section V constitutional amendment[/url][/colour]- Passed Senate[/b]

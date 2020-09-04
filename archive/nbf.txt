@@ -1,8 +1,7 @@
-[b][i][colour=#00A3DD]Ouag[/colour][colour=#FFFFFF]adou[/colour][colour=#C62929]gou![/colour][/i][/b]
-
-[b][i][colour=#FFFFFF]The Optional Regional Currency is the [/colour][colour=#00D369]Faso[/colour][/i][/b]
-
-[b][i][colour=#FFFFFF] Authoritarianism: [/colour][/i][/b]
-[b][i][colour=#FFFFFF]- If your state scores below 1500 points it is a sun state.[/colour][/i][/b]
-[b][i][colour=#00A3DD]- If your state scores above 1500 points it is a moon state.[/colour][/i][/b]
-
+[B]
+Welcome to the [color=EF2B2D]N[/color][color=FCD116]B[/color][color=009E49]F[/color] !
+The Optional Currency is the [color=00DB4C]Faso[/color]
+Authoritarianism Category:
+&amp;lt;1500 are [color=FCD116]Sun States[/color]
+&amp;gt;1500 are [color=00A3DD]Moon States[/color]
+[/B]
