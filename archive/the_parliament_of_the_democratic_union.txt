@@ -2,11 +2,10 @@
 
 [b]Prime Minister[/b]: [nation]Girada[/nation]
 
-[b]Speaker[/b]: [nation]Terttia[/nation]
+[b]Speaker[/b]: [nation]El Bravo[/nation]
 
 [b]Members of Parliament[/b]:
 [nation]Girada[/nation]
-[nation]Terttia[/nation]
 [nation]Kenis[/nation]
 [nation]El Bravo[/nation]
 [nation]Republic of Zamboanga Peninsula[/nation]
