@@ -1,7 +1,5 @@
-[b]Welcome to [color=red]S[/color][color=orange]e[/color][color=yellow]b[/color][color=green]l[/color][color=blue]a[/color][color=indigo]r[/color][color=violet]i[/color][color=red]a[/color]!
-We are the result of the evacuation from [region]Alnobia[/region], after [url=https://www.nationstates.net/page=dispatch/id=1428010]suppression and other insanity.[/url]
-
-[u]We do not accept embassies from or tolerate raiders and fascists.[/u]
+[b]Welcome to [color=red]S[/color][color=orange]e[/color][color=yellow]b[/color][color=green]l[/color][color=blue]a[/color][color=indigo]r[/color][color=violet]i[/color][color=red]a[/color]![/b]
+[i][color=BADA55]Everyone is welcome, except raiders[/color][/i][b]
 
 [hr]
 
@@ -10,14 +8,9 @@ We welcome all nations, except raiders and fascists. [color=red]No discriminatio
 
 [hr]
 
-Doctrine:
-[region]Seblaria[/region] believes in a fair and democratic government. [region]Alnobia[/region] is failing. [region]Seblaria[/region] has attempted to make peace, and reform [region]Alnobia[/region], but the Catopians refuse. We recognize and support delaying the elections. 
-
-[hr]
-
 News:
-- Evacuation in progress
 - Temporary government in effect.
-- [url=https://www.nationstates.net/page=poll/p=162754]The referendum[/url] has passed. Elections should be delayed for 2 weeks.
+- Peace has been reached!
 - N-Day in less than 3 weeks!
+- The WFE has been found to contain double line breaks! They have been purged.
 [/b]

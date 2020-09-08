@@ -1,1 +1,9 @@
-The Region of Brodifoxxa is a region founded in East Asia encompassing all of the Yomamastanian peoples.
+The Region of Brodifoxxa is a region founded by Brody Foxx I of Yomamastan.
+
+The region encompasses 6 nations -
+[nation]West Yomamastan[/nation]: The apex of the region, the most powerful and the imperial government.
+[nation]North Yomamastan[/nation]: Founded as a buffer region between West Yomamastan and East Yomamastan, this country has full backing of West Yomamastan against the East.
+[nation]East Yomamastan[/nation]: A democratic country in the center of radicals all around it. The second weakest nation in the region besides USSYB.
+[nation]Yomamastan-Brodifox[/nation]: A socialist country with the sole purpose of uniting the Yomamastanian regions.
+[nation]Yomamaites[/nation]: A primitive nomadic society believed to be descendants of tribal Yomamastani.
+[nation]Averjiano[/nation]: A rebel nation against all the Yomamastanians.

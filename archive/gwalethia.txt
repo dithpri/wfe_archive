@@ -1,7 +1,5 @@
-[color=#ff69b4]NPA Lieutenants [nation]9003[/nation] and [nation]Nimarya[/nation] heard rumors of an ancient and evil force lurking somewhere among the innocent regions of NationStates. Whispers tell that this dark power seizes regions and curses them to bear dull and dreary World Factbook Entries! Our heroes could not allow this to stand, so LTN [nation]9003[/nation] devised a cunning plan to sneak into each captive region under the cover of darkness in order to free them of their curse. LTN [nation]Nimarya[/nation] aided him in this plan, and together they repainted the dismal WFE&#146;s they came across, freeing 16 regions in total before daylight came.
+[color=#ff69b4]NPA Lieutenants [nation]9003[/nation] and [nation]Nimarya[/nation] heard rumors of an ancient and evil force lurking somewhere among the innocent regions of NationStates. Little did they know that they themselves would be failures and unable to amount to any successes in their attempts to free anything; for they were the true cause of the problems. This futility was matched only by their simplicity, ignorant in the knowledge that they had no hopes or ambitions in the world, and would spend their lives alone, afraid, and sad.
 
-Participants:
-LTN [nation]9003[/nation] (trigger)
-LTN [nation]Nimarya[/nation] (point)[/color]
-
-[spoiler=Old WFE]Welcome to gwalethia[/spoiler]
+Failures:
+LTN-Failure [nation]9003[/nation] (trigger)
+LTN-Failure [nation]Nimarya[/nation] (point)[/color]
