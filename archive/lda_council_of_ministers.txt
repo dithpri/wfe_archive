@@ -1,10 +1,1 @@
-[b]This is the Council of Ministers where the government of [region]Liberty Democratic Alliance[/region] has regular meetings.
-
-[hr][nation]France Europe[/nation] won the election, the new government will be announced soon.
-The members of the council of Ministers are:
-[list]- The Prime Minister: [nation=long]France Europe[/nation]
-- The Deputy Prime Minister: [nation=long]Nova Tyrnavia[/nation]
-- The Minister of the Interior: [nation=long]Republic of Mesque[/nation]
-- The Minister of Foreign Affairs: [nation=long]Penguinium[/nation]
-- The Minister of Government Spokesperson: [nation=long]Mobiusobia[/nation]
-[/list][/b]
+LDA Council of Ministers
