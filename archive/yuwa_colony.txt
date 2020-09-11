@@ -1,11 +1,12 @@
 [color=#4ad7f0][b][region]Yuwa Colony[/region] is the private card farm of [nation=long]Yuwa[/nation].
 
-Rules for all nations in this region:
+Rules:
 [list=1]
-[*] All Legendary Cards must be immediately sent to [nation=long]Yuwa[/nation],
-[*] All Epic Cards must be stored in the puppet that pulled it until it is necessary to sell / junk it,
-[*] All other Cards that have no more than 5 owners must be sent to [nation=long]Lippo Group[/nation], to be stored in [url=https://www.nationstates.net/page=dispatch/id=1422491]Lippo Group&#39;s Gallery of International Artworks[/url], and
-[*] Any other Cards not specified in Rules 1 to 3 must be junked immediately, unless MV &amp;gt; JV or bid price &amp;gt; MV.
+[*] Cards will be junked immediately after it is pulled,
+[*] Rule 1 does not apply to low owner card, cards that was bidded above JV, legendary card, and other high MV cards,
+[*] Legendary cards and high MV cards will be gifted directly to [nation=long]Yuwa[/nation],
+[*] Low owner cards will be gifted to [nation=long]Lippo Group[/nation], and
+[*] An ask will be placed on a card equal to the highest bid price, if it is higher than JV.
 [/list]
 [/b]
 [/color]
