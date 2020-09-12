@@ -1,9 +1,9 @@
-[colour=blue][b]Welcome to the Official Supreme Court of [region]Lisseum[/region].[/b][/colour][hr]
+[colour=purple][b]Welcome to the Official Supreme Court of [region]Lisseum[/region].[/b][/colour][hr]
 
-[colour=red][b]Current Cases[/b][/colour]: [b]CC 001: [nation]Kor Pantaal[/nation] vs. [nation]United ants of America[/nation][/b]
-[colour=orange][b]Upcomming Cases[/b][/colour]: [b]CR 002: Unconstitutionality of LA &sect;005[/b]
+[colour=blue][b]Current Cases[/b][/colour]: [b]CC 001: [nation]Kor Pantaal[/nation] vs. [nation]United ants of America[/nation][/b]
+[colour=purple][b]Upcomming Cases[/b][/colour]: [b]CR 002: Unconstitutionality of LA &sect;005[/b]
 [hr][colour=blue][b]Announcements:[/b][/colour] [colour=red]The Court is now open![/colour] 
-[hr][colour=blue][b]&amp;#9878; Composition &amp;#9878;:[/b][/colour]
+[hr][colour=purple][b]&amp;#9878; Composition &amp;#9878;:[/b][/colour]
 [list]
 [*]Chief Justice: [nation]Duras[/nation]
 [*]Justice: [nation]vacant[/nation]

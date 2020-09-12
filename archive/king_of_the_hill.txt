@@ -1,4 +1,4 @@
-SoonRules:
+Rules:
 - Don&#39;t ban me
 - Don&#39;t unpin my disptach
 
