@@ -9,5 +9,6 @@ The RPuzzle jump point for [region]Tea house of Cards[/region].
 Solve the puzzle, get the password, and get [b]started[/b].
 
 [sub][sup]Where does the prompt title tell you to focus? One source at a time...
-How many cards are in a standard deck? How many letters are in the English alphabet? What&#146;s the relationship between those numbers?[/sup][/sub]
+How many cards are in a standard deck? How many letters are in the English alphabet? What&#146;s the relationship between those numbers?
+What&#39;s the most common letter in English?[/sup][/sub]
 [/spoiler]
