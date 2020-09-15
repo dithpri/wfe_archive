@@ -1,18 +1,25 @@
-[b][color=#FF0000]1[/color][color=#FF0400])[/color] [color=#FF0E00]D[/color][color=#FF1200]o[/color][color=#FF1700]n[/color][color=#FF1C00]&#39;[/color][color=#FF2000]t[/color] [color=#FF2A00]b[/color][color=#FF2F00]e[/color] [color=#FF3800]i[/color][color=#FF3D00]g[/color][color=#FF4100]n[/color][color=#FF4600]o[/color][color=#FF4B00]r[/color][color=#FF5000]a[/color][color=#FF5400]n[/color][color=#FF5900]t[/color][color=#FF5E00].[/color][color=#FF6200]
-[/color][color=#FF6700]2[/color][color=#FF6C00])[/color] [color=#FF7500]F[/color][color=#FF7A00]a[/color][color=#FF7F00]s[/color][color=#FF8300]c[/color][color=#FF8800]i[/color][color=#FF8D00]s[/color][color=#FF9100]m[/color] [color=#FF9B00]i[/color][color=#FFA000]s[/color] [color=#FFA900]b[/color][color=#FFAE00]a[/color][color=#FFB200]d[/color][color=#FFB700].[/color][color=#FFBC00]
-[/color][color=#FFC100]3[/color][color=#FFC500])[/color] [color=#FFCF00]R[/color][color=#FFD300]a[/color][color=#FFD800]c[/color][color=#FFDD00]i[/color][color=#FFE100]s[/color][color=#FFE600]m[/color] [color=#FFF000]i[/color][color=#FFF400]s[/color] [color=#FFFE00]s[/color][color=#FBFF00]t[/color][color=#F6FF00]u[/color][color=#F1FF00]p[/color][color=#ECFF00]i[/color][color=#E8FF00]d[/color][color=#E3FF00].[/color][color=#DEFF00]
-[/color][color=#DAFF00]4[/color][color=#D5FF00])[/color] [color=#CBFF00]R[/color][color=#C7FF00]e[/color][color=#C2FF00]a[/color][color=#BDFF00]d[/color] [color=#B4FF00]#[/color][color=#AFFF00]1[/color][color=#ABFF00].[/color][color=#A6FF00]
-[/color][color=#A1FF00]
-[/color][color=#9CFF00]T[/color][color=#98FF00]h[/color][color=#93FF00]i[/color][color=#8EFF00]s[/color] [color=#85FF00]F[/color][color=#80FF00]a[/color][color=#7BFF00]s[/color][color=#77FF00]h[/color] [color=#6DFF00]B[/color][color=#69FF00]a[/color][color=#64FF00]s[/color][color=#5FFF00]h[/color] [color=#56FF00]w[/color][color=#51FF00]a[/color][color=#4CFF00]s[/color] [color=#43FF00]b[/color][color=#3EFF00]r[/color][color=#3AFF00]o[/color][color=#35FF00]u[/color][color=#30FF00]g[/color][color=#2BFF00]h[/color][color=#27FF00]t[/color] [color=#1DFF00]t[/color][color=#19FF00]o[/color] [color=#0FFF00]y[/color][color=#0AFF00]o[/color][color=#06FF00]u[/color] [color=#00FF03]b[/color][color=#00FF07]y[/color][color=#00FF0C]:[/color][color=#00FF11]
-[/color][color=#00FF15]-[/color] [color=#00FF1F]T[/color][color=#00FF24]h[/color][color=#00FF28]e[/color] [color=#00FF32]M[/color][color=#00FF36]T[/color] [color=#00FF40]A[/color][color=#00FF45]r[/color][color=#00FF49]m[/color][color=#00FF4E]y[/color][color=#00FF53]
-[/color][color=#00FF57]-[/color] [color=#00FF61]T[/color][color=#00FF66]h[/color][color=#00FF6A]e[/color] [color=#00FF74]P[/color][color=#00FF78]a[/color][color=#00FF7D]c[/color][color=#00FF82]i[/color][color=#00FF86]f[/color][color=#00FF8B]i[/color][color=#00FF90]c[/color][color=#00FF95]
-[/color][color=#00FF99]-[/color] [color=#00FFA3]T[/color][color=#00FFA7]h[/color][color=#00FFAC]e[/color] [color=#00FFB6]R[/color][color=#00FFBA]e[/color][color=#00FFBF]d[/color] [color=#00FFC8]F[/color][color=#00FFCD]l[/color][color=#00FFD2]e[/color][color=#00FFD6]e[/color][color=#00FFDB]t[/color][color=#00FFE0]
-[/color][color=#00FFE5]-[/color] [color=#00FFEE]T[/color][color=#00FFF3]h[/color][color=#00FFF7]e[/color] [color=#00FCFF]S[/color][color=#00F7FF]o[/color][color=#00F3FF]u[/color][color=#00EEFF]t[/color][color=#00E9FF]h[/color] [color=#00E0FF]P[/color][color=#00DBFF]a[/color][color=#00D6FF]c[/color][color=#00D2FF]i[/color][color=#00CDFF]f[/color][color=#00C8FF]i[/color][color=#00C4FF]c[/color][color=#00BFFF]
-[/color][color=#00BAFF]-[/color] [color=#00B1FF]T[/color][color=#00ACFF]h[/color][color=#00A7FF]e[/color] [color=#009EFF]O[/color][color=#0099FF]r[/color][color=#0095FF]d[/color][color=#0090FF]e[/color][color=#008BFF]r[/color] [color=#0082FF]o[/color][color=#007DFF]f[/color] [color=#0074FF]t[/color][color=#006FFF]h[/color][color=#006AFF]e[/color] [color=#0061FF]G[/color][color=#005CFF]r[/color][color=#0057FF]e[/color][color=#0053FF]y[/color] [color=#0049FF]W[/color][color=#0045FF]a[/color][color=#0040FF]r[/color][color=#003BFF]d[/color][color=#0036FF]e[/color][color=#0032FF]n[/color][color=#002DFF]s[/color][color=#0028FF]
-[/color][color=#0024FF]-[/color] [color=#001AFF]L[/color][color=#0015FF]i[/color][color=#0011FF]l[/color][color=#000CFF]y[/color][color=#0007FF]
-[/color][color=#0003FF]-[/color] [color=#0600FF]T[/color][color=#0A00FF]h[/color][color=#0F00FF]e[/color] [color=#1900FF]N[/color][color=#1D00FF]o[/color][color=#2200FF]r[/color][color=#2700FF]t[/color][color=#2B00FF]h[/color] [color=#3500FF]P[/color][color=#3A00FF]a[/color][color=#3E00FF]c[/color][color=#4300FF]i[/color][color=#4800FF]f[/color][color=#4C00FF]i[/color][color=#5100FF]c[/color][color=#5600FF]
-[/color][color=#5B00FF]-[/color] [color=#6400FF]L[/color][color=#6900FF]a[/color][color=#6D00FF]z[/color][color=#7200FF]a[/color][color=#7700FF]r[/color][color=#7B00FF]u[/color][color=#8000FF]s[/color][color=#8500FF]
-[/color][color=#8A00FF]-[/color] [color=#9300FF]T[/color][color=#9800FF]h[/color][color=#9C00FF]e[/color] [color=#A600FF]F[/color][color=#AB00FF]r[/color][color=#AF00FF]e[/color][color=#B400FF]e[/color] [color=#BD00FF]N[/color][color=#C200FF]a[/color][color=#C700FF]t[/color][color=#CC00FF]i[/color][color=#D000FF]o[/color][color=#D500FF]n[/color][color=#DA00FF]s[/color] [color=#E300FF]R[/color][color=#E800FF]e[/color][color=#EC00FF]g[/color][color=#F100FF]i[/color][color=#F600FF]o[/color][color=#FB00FF]n[/color][color=#FF00FE]
-[/color][color=#FF00F9]-[/color] [color=#FF00F0]O[/color][color=#FF00EB]u[/color][color=#FF00E6]r[/color] [color=#FF00DD]m[/color][color=#FF00D8]e[/color][color=#FF00D3]r[/color][color=#FF00CF]c[/color][color=#FF00CA]e[/color][color=#FF00C5]n[/color][color=#FF00C1]a[/color][color=#FF00BC]r[/color][color=#FF00B7]y[/color] [color=#FF00AE]f[/color][color=#FF00A9]r[/color][color=#FF00A4]i[/color][color=#FF00A0]e[/color][color=#FF009B]n[/color][color=#FF0096]d[/color][color=#FF0091]s[/color][color=#FF008D]
-[/color][color=#FF0088]
-[/color][color=#FF0083]R[/color][color=#FF007F]e[/color][color=#FF007A]g[/color][color=#FF0075]i[/color][color=#FF0070]o[/color][color=#FF006C]n[/color] [color=#FF0062]r[/color][color=#FF005E]e[/color][color=#FF0059]f[/color][color=#FF0054]o[/color][color=#FF0050]u[/color][color=#FF004B]n[/color][color=#FF0046]d[/color][color=#FF0041]e[/color][color=#FF003D]d[/color] [color=#FF0033]0[/color][color=#FF002F]9[/color][color=#FF002A]/[/color][color=#FF0025]1[/color][color=#FF0020]4[/color][color=#FF001C]/[/color][color=#FF0017]2[/color][color=#FF0012]0[/color][color=#FF000E]2[/color][color=#FF0009]0[/color][color=#FF0004].[/color][/b]
+[u][b]Territory of the International Anti Nazi/Fascist Community![/b][/u]
+
+[i]Invaded: 08/25/20[/i]
+[i]Refounded: 09/14/20[/i]
+
+[color=800080]This Nazi/Fash bash brought to you by:
+
+- [region]The MT Army[/region]
+- [region]The Pacific[/region]
+- [region]The Red Fleet[/region]
+- [region]The South Pacific[/region]
+- [region]The Order of the Grey Wardens[/region]
+- [region]Lily[/region]
+- [region]The North Pacific[/region]
+- [region]Lazarus[/region]
+- [region]The Free Nations Region[/region]
+- Our Mercenary Friends.
+
+This region has been targeted due to its affiliation with Nazi/Fascist HATE.[/color]
+
+[color=blue][b]&quot;Dread it. Run from it. Destiny arrives all the same. And now, it&#39;s here. Or should we say, [region]ANTIFA[/region] is&quot;.[/b][/color]
+
+[color=800080]We are [region]ANTIFA[/region] and we are everywhere![/color]
+
+ [color=ff0000][b]A successful quarantine zone was established to remove the diseases known as Nazism and Fascism[/b][/color]

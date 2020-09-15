@@ -14,3 +14,7 @@ Parliament:
 [nation]Monetary Republics[/nation] (independent)
 [nation]Imadieistan[/nation] (Centrist)
 
+Events 
+-
+-
+-

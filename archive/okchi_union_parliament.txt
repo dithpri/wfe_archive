@@ -1,17 +1,9 @@
-[color=gold]This is the legislative branch for [region]The Okchi Union[/region].[/color]
+[colour=A61AC9][b]Welcome to the[/colour] [colour=6235CA]National Parliament of [region]the Okchi Union[/region][/b][/colour][hr]
+[colour=A61AC9]Please[/colour][colour=911AC9] make[/colour] [colour=871AC9]all[/colour] [colour=741AC9]proposals[/colour] [colour=721AC9]in[/colour] [colour=671AC9]factbook[/colour] [colour=5F1AC9]form,[/colour] [colour=571AC9]and[/colour] [colour=541AC9]put[/colour] [colour=4F1AC9]it in[/colour] [colour=4A1AC9]the[/colour] [colour=441AC9]RMB[/colour] [colour=3F1AC9]or[/colour] [colour=3C1AC9]telegram[/colour] [colour=371AC9]it[/colour] [colour=351AC9]to[/colour] [colour=321AC9]me[/colour] [colour=2A1AC9]so[/colour] [colour=221AC9]that[/colour] [colour=1A1AC9]is[/colour] [colour=1A3CC9]will[/colour] [colour=1A54C9]be[/colour] [colour=1A64C9]pending.[/colour] 
 
-[color=greenblue]Welcome to the OU Parliament, consisting of the unitary Houses of Parliament.[/color]
+[colour=4035CA][b]Currently in-vote:[/b][/colour] [i][u][url=]None[/url][/u][/i]
+[colour=A61AC9][b]Next Pending[/b]:[/colour] [i][u][url=]None[/url][/u][/i]
+[hr][colour=CA8435][b]Currently [i]&Eacute;galit&eacute; de Points[/i]:[/b][/colour] [i][u][url=]None[/url][/u][/i] 
+[colour=921001][b]Held for Constitutionality:[/b][/colour] [i][u][url=]none[/url][/u][/i]
 
-[region]Okchi Union Supreme Court[/region] is now recruiting. Check it out!
-
-[u]Sides[/u]
-
-[b]Leader of the Majority[/b] : [u]New Republican Party[/u] [b][color=darkred](NDP)[/color][/b]
-[b]Leader of the Opposition[/b] : [u]Progressive-Conservative Party[/u]  [b][color=green](PCP)[/color][/b]
-
-[u]Party Leaders[/u]
-
-[color=179EE2][b][u]Les Partis S&eacute;paratistes Unis (USP)[/u][/b][/color] : [nation]Naiguwa[/nation]
-[color=blue][b][u]New Democrats (NDP)[/u][/b][/color] : [nation]Ocasio-Cortez[/nation] &amp; [nation]Jikookie[/nation]
-[b][color=FF003A][u]New Republicans (NRP)[/u][/color][/b] : [nation]Fourt Elizabeth[/nation]
-[b][color=darkgreen][u]Progressive-Conservatives (PCP)[/u][/color][/b] : [nation]Zobertenia[/nation]
+Please contact [nation]Union Parliament[/nation] if you have any questions or concerns. 
