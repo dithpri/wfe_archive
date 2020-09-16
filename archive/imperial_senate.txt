@@ -14,11 +14,11 @@
 [b][i]Shadow Chancellor[/i]: [nation=noflag]Angea[/nation] ([color=#800080]RIP[/color])[/b]
 [/list][hr][hr]
 
-[b][u]Previous Business:[/b][/u] [b][i]Foreign A.I.D.[/i][/b]
-[i]Foreign A.I.D.~ Passed[/i]
-
-[b][u]Current Business:[/b][/u] [i][b]Revised Bill Format Act[/b][/i]
+[b][u]Previous Business:[/b][/u] [b][i]Revised Bill Format Act[/i][/b]
 [i]Revised Bill Format Act~ Passed[/i]
+
+[b][u]Current Business:[/b][/u] [i][b]Civil List Amendment[/b][/i]
+[i]Civil List Amendment~ In Debate[/i]
 [b][u]Next Business:[/b][/u] [i][b]___[/b][/i]
 [I]___[/i]
 [hr][hr]
