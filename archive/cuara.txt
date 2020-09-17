@@ -8,8 +8,11 @@
 [b]WA delegate:[/b]
 unfilled
 
-[b]Vice-delegate[/b]
+[b]Vice-delegate:[/b]
 unfilled
+
+[b]Security officer:[/b]
+[nation]Dra Zopirude[/nation]
 
 
 
