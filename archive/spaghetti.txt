@@ -6,7 +6,7 @@
 
 [color=green][b]Spaghetti Win Counter.[/b][/color]
 
-[color=red]0 (at the moment)[/color]
+[color=red]1 (at the moment)[/color]
 
 [hr]
 

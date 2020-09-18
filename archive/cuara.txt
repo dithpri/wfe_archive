@@ -1,9 +1,17 @@
 [region]Cuara[/region] is a simple region.
 
+-----------------------------------------------
 
+[color=blue]All nations are welcome[/color] here except raiders [color=red](who will be banned)[/color]
+
+[color=green][Regional map under work][/color] [color=blue][Elections will be starting soon][/color]
+
+-----------------------------------------------
 
 [b]Founder:[/b]
-[nation]New Cerata[/nation]
+[nation]New Cerata[/nation] 
+
+
 
 [b]WA delegate:[/b]
 unfilled

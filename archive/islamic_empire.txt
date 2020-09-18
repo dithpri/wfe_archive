@@ -11,7 +11,7 @@ We take pride in the gems of Islamic culture: art, architecture, literature, and
 [hr]
 
 [b]The Shura Council:[/b] 
-Al-Wazir al-Awal (Prime Minister) : [nation=noflag]Baghdad Caliphate[/nation]
-Emir (Foreign Minister): [nation=noflag]Ali Imam[/nation]
+Al-Wazir al-Awal (Prime Minister) : [nation]Baghdad Caliphate[/nation]
+Emir (Foreign Minister): [nation]Ali Imam[/nation]
 
 NS forum page: [url=https://forum.nationstates.net/viewtopic.php?f=12&amp;t=489494]Islamic Empire[/url]
