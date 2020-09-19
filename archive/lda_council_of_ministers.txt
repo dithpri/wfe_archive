@@ -1,1 +1,11 @@
-LDA Council of Ministers
+[b]This is the Council of Ministers of the government of [region]Liberty Democratic Alliance[/region][/b]
+[hr]
+[b][u]The Third Government:[/u][/b]
+[b]Prime Minister: [nation=long]France Europe[/nation][/b]
+[b]Deputy Prime Minister: [nation=long]Chitral[/nation]
+Minister of the Interior: [nation=long]Republic of Mesque[/nation]
+Minister of Foreign Affairs: [nation=long]Mobiusobia[/nation]
+Minister of Government Spokesperson: [nation=long]Nova Tyrnavia[/nation]
+Minister of Justice: [nation=long]Penguinium[/nation]
+
+[u]Supreme Court:[/u] Chief Justice: [nation=long]The State of Hejaz[/nation][/b]

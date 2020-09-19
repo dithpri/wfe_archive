@@ -1,28 +1,21 @@
 [region]Cuara[/region] is a simple region.
 
------------------------------------------------
+[color=red]Raiders[/color] will be [color=red]kicked and banned.[/color]
 
-[color=blue]All nations are welcome[/color] here except raiders [color=red](who will be banned)[/color]
+_____________________________________________________________
 
-[color=green][Regional map under work][/color] [color=blue][Elections will be starting soon][/color]
+[color=green]News:[/color] We were the subject of a raid and now the raiders have been banned.  
+[color=green]Updates:[/color] There is now increased security.
+_____________________________________________________________
 
------------------------------------------------
+[b]Founder[/b]:
+[nation]New Cerata[/nation]
 
-[b]Founder:[/b]
-[nation]New Cerata[/nation] 
-
-
-
-[b]WA delegate:[/b]
+[b]WA delegate[/b]:
 unfilled
 
-[b]Vice-delegate:[/b]
-unfilled
-
-[b]Security officer:[/b]
+[b]Security Officers:[/b]
 [nation]Dra Zopirude[/nation]
-
-
-
+[nation]Dictistedland[/nation]
 
 
