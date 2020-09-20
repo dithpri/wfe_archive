@@ -14,7 +14,6 @@ Council:
 [nation]Monetary Republics[/nation] (independent)
 [nation]Imadieistan[/nation] (Centrist)
 
-Events 
--
--
--
+[b][i]Upcoming Elections[/i][/b]:
+[i]Council (Seat #1):[/i] 23rd September
+[i]Presidential:[/i] 2nd October

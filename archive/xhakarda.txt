@@ -1,0 +1,6 @@
+Rules:
+Max Population: 5 Nations
+Nation Population: At least 25 million
+Nation Name: Prefix: Xh, Kh, Gh, Zh, or Sh
+Suffix: Ia
+Root: Ar, Er, Or, or Ur
