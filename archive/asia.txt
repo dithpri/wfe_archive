@@ -1,4 +1,4 @@
-[color=#FF0000]Asia[/color] is the world&#39;s largest and most populous continent. It contains 30% of the planet&#39;s landmass with a multiplicity of countries, cultures, faiths, peoples, philosophies and traditions.
+[b][color=#FF0000]Asia[/color][/b] is the world&#39;s largest and most populous continent. It contains 30% of the planet&#39;s landmass with a multiplicity of countries, cultures, faiths, peoples, philosophies and traditions.
 Asia believes in home rule and embraces a diversity of nations. We used to have an active RP community and we still welcome casual and social players.
 However, no invaders, recruiters or spammers will be accepted.
 
@@ -25,7 +25,8 @@ However, no invaders, recruiters or spammers will be accepted.
 [nation]Koryo[/nation]
 [nation]Mika nakashima[/nation]
 [nation]Norf korea[/nation]
-[nation]Sebytania[/nation][nation]Silkjd[/nation]
+[nation]Sebytania[/nation]
+[nation]Silkjd[/nation]
 [nation]The derrak quadrant[/nation]
 [nation]Tibetan aizu[/nation]
 
@@ -38,5 +39,3 @@ However, no invaders, recruiters or spammers will be accepted.
 [hr]
 
 &amp;#128681; Other related regions: [region]Galactic Arc[/region] - [region]Lady Rose[/region] - [region]Warzone Asia[/region]
-
-[hr]
