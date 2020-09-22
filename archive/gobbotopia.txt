@@ -1,3 +1,18 @@
 Welcome to the Sovereign Nation of Gobbotopia! Okay, actually it is a [i]region[/i] now.  So, Welcome to the Sovereign Region of Gobbotopia!  
 ****
-Maybe I&#39;ll set up some script controlled issue answering test using Wolfram and Hart&#39;s SleepingBeauty.
+Script controlled issue answering using [nation]Wolfram and Hart[/nation]&#39;s SleepingBeauty (see forum [url=https://forum.nationstates.net/viewtopic.php?f=12&amp;t=423382&amp;start=50]here[/url]). 
+
+Nations created as [i]Centrist[/i] (=default) without choosing any other options
+
+[nation]Goblin 40[/nation],  &quot;no answer&quot; (non-functional code)
+[nation]Goblin 41[/nation], &quot;1st&quot; 
+[nation]Goblin 42[/nation],  &quot;2nd&quot; 
+[nation]Goblin 43[/nation], &quot;2nd last&quot; 
+[nation]Goblin 44[/nation],  &quot;last&quot; 
+[nation]Goblin 45[/nation],  &quot;random&quot; 
+[nation]Goblin 46[/nation],  &quot;random&quot; 
+[nation]Goblin 47[/nation],  &quot;random&quot; 
+[nation]Goblin 48[/nation],  &quot;random&quot; 
+[nation]Goblin 49[/nation], &quot;random&quot; 
+
+Rest of the Goblins don&#39;t answer issues but were basically all created selecting &quot;Random&quot; instead of &quot;Centrist&quot;.

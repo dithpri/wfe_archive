@@ -1,11 +1,11 @@
 [colour=purple][b]Welcome to the Official Supreme Court of [region]Lisseum[/region].[/b][/colour][hr]
 
-[colour=blue][b]Current Cases[/b][/colour]: [b]CC 001: [nation]Kor Pantaal[/nation] vs. [nation]United ants of America[/nation][/b]
-[colour=purple][b]Upcomming Cases[/b][/colour]: [b]CR 002: Unconstitutionality of LA &sect;005[/b]
-[hr][colour=blue][b]Announcements:[/b][/colour] [colour=red]The Court is now open![/colour] 
+[colour=blue][b]Current Cases[/b][/colour]: None
+[colour=purple][b]Upcomming Cases[/b][/colour]: None
+[hr][colour=blue][b]Announcements:[/b][/colour] [colour=red]The Supreme Court has been dissolved.[/colour] 
 [hr][colour=purple][b]&amp;#9878; Composition &amp;#9878;:[/b][/colour]
 [list]
-[*]Chief Justice: [nation]Duras[/nation]
+[*]Chief Justice: [nation]vacant[/nation]
 [*]Justice: [nation]vacant[/nation]
 [*]Justice: [nation]vacant[/nation]
 [/list][hr]
