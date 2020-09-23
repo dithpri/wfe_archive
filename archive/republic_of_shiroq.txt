@@ -1,1 +1,17 @@
-k
+[hr][hr][b]Supreme Leader[/b]: Chiroc AL-Surssain
+[b]President[/b]: Amira Isa
+[b]Capital[/b]:  [hr][hr] [b] Government[/b]: Constitutional Republic
+[b]Cities[/b]: 35
+[b]Population[/b]: 91 million
+[b]GDP Per Capita (ppp): [/b]$310,194.19
+[b]Currency[/b]: Kuwaiti Dinar
+[hr][b]AllIES[/b]
+[region]Russian Federation[/region]
+[region]Great Basin[/region]
+[region]Kailand[/region]
+[region]Iran[/region]
+[region]United Islamic Federation[/region]
+[region]The Peoples Republic of China[/region]
+[region]Syrian Arab Republic[/region]
+[region]Cuba[/region]
+[region]The Republic of Venezuela[/region]
