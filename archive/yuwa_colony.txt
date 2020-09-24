@@ -1,12 +1,7 @@
-[color=#4ad7f0][b][region]Yuwa Colony[/region] is the private card farm of [nation=long]Yuwa[/nation].
-
-Rules:
+[color=#186ADF][b][region]Yuwa Colony[/region] is the private card farm of [nation]Yuwa[/nation].
 [list=1]
-[*] Cards will be junked immediately after it is pulled,
-[*] Rule 1 does not apply to low owner card, cards that was bidded above JV, legendary card, and other high MV cards,
-[*] Legendary cards and high MV cards will be gifted directly to [nation=long]Yuwa[/nation],
-[*] Low owner cards will be gifted to [nation=long]Lippo Group[/nation], and
-[*] An ask will be placed on a card equal to the highest bid price, if it is higher than JV.
-[/list]
-[/b]
-[/color]
+[*]All cards fallen under at least one of the three categories (Legendary Cards, non-Legendary Cards with unusually high MV, and specific Cards currently collected by [nation]Yuwa[/nation]) will be kept in the corresponding nations or gifted to [nation]Yuwa[/nation].
+[*]All Common and Uncommon Cards that have less than 10 owners will be kept in the corresponding nations or gifted to [nation]Lippo Group[/nation].
+[*]Any other Cards not specified previously will be sold to the market if a bid higher than JV is already placed on it at the time the Cards is pulled, otherwise it will be junked immediately.
+[*]I, [nation]Yuwa[/nation], am open to sell any Cards still stored in any nations in this region with the appropriate price.
+[/list][/b][/color]
