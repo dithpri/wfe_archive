@@ -1,5 +1,5 @@
 Welcome to the Sovereign Nation of Gobbotopia! Okay, actually it is a [i]region[/i] now.  So, Welcome to the Sovereign Region of Gobbotopia!  
-****
+[hr]
 Script controlled issue answering using [nation]Wolfram and Hart[/nation]&#39;s SleepingBeauty (see forum [url=https://forum.nationstates.net/viewtopic.php?f=12&amp;t=423382&amp;start=50]here[/url]). 
 
 Nations created as [i]Centrist[/i] (=default) without choosing any other options
@@ -15,4 +15,4 @@ Nations created as [i]Centrist[/i] (=default) without choosing any other options
 [nation]Goblin 48[/nation],  &quot;random&quot; 
 [nation]Goblin 49[/nation], &quot;random&quot; 
 
-Rest of the Goblins don&#39;t answer issues but were basically all created selecting &quot;Random&quot; instead of &quot;Centrist&quot;.
+more info [url=https://www.nationstates.net/page=dispatch/id=1437872]here[/url]

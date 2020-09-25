@@ -1,12 +1,16 @@
 [b]&amp;#9813; The Regency of the Empire &amp;#9813;
 [/b][i]Legislative body of [region]The United Empires of Carson[/region][/i][hr]The Second Regency of the Empire - [list] &amp;#9670; Emperor [nation=noflag]Carstantinopipal[/nation] ([nation=noflag]Emperor Carson[/nation])
-&amp;#9670; Lord Regent [nation=noflag]Fungsland[/nation] ([nation=noflag]Fungslandian Ambassador[/nation])
-&amp;#9670; Regent [nation=noflag]Evilligia[/nation] ([nation=noflag]The Evilligian Embassy[/nation]) [i]Suspended[/i]
+&amp;#9670; Regent [nation=noflag]Fungsland[/nation] ([nation=noflag]Fungslandian Ambassador[/nation])
 &amp;#9670; Regent [nation=noflag]Slavisikaya[/nation] ([nation=noflag]House of Lionheart[/nation])
-&amp;#9670; Regent [nation=noflag]Spaceania[/nation] ([nation=noflag]Regent Space[/nation])
 &amp;#9670; Regent [nation=noflag]Western Aestorusia[/nation] ([nation=noflag]Imperial Estorusia[/nation])
 &amp;#9670; Regent [nation=noflag]Parsimmia[/nation] ([nation=noflag]Jacks Shack[/nation])
 &amp;#9670; Regent [nation=noflag]Theaque[/nation] ([nation=noflag]The Neon Realm[/nation])
-&amp;#9670; Regent [nation=noflag]Miseria[/nation] ([nation=noflag]An Unsuspecting Snowman[/nation])[/list][hr]&amp;#10043; [i]Current Order of Business: [/i] None
+&amp;#9670; Regent [nation=noflag]Miseria[/nation] ([nation=noflag]An Unsuspecting Snowman[/nation])
+&amp;#9670; Regent [nation=noflag]Holy Protaly[/nation] ([nation=noflag]The Holy Prolitariate[/nation])
+&amp;#9670; Regent [nation=noflag]Panbye[/nation] ([)
+&amp;#9670; Regent [nation=noflag]The Servants of The Lord-Master[/nation] ([nation=noflag]Lord Masters Ambassador To The Regency[/nation])
+&amp;#9670; Regent [nation=noflag]The Sanland Federation[/nation] ([nation=noflag]South Sanland[/nation])
+
+[/list][hr]&amp;#10043; [i]Current Order of Business: [/i] Picking a Lord Regent
 &amp;#10045; [i]Next Order of Business:[/i] None
 &amp;#10051; [i]Past Order of Business:[/i] Merger with the UFN
