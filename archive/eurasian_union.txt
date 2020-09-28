@@ -1,7 +1,1 @@
-[b][color=red]Welcome to the Eurasian Union[/color][/b]
-
-[hr][b][color=navy]Regional Administration[/color][/b]
-[b]Founder:[/b] [nation=short]Federative Russia[/nation] / [nation=short]Ruscia[/nation]
-[b]Chairman:[/b] [nation=short]The Eurasian Federation[/nation]
-[hr][b]The E.U. is led by [region]The Commonwealth of Independent States[/region].[/b]
-- Its members include: [region]Abkhazia[/region], [region]Caucasia[/region], [region]Nagorno Karabakh[/region], [region]Ossetia[/region], [region]Transnistria[/region][hr]
+Welcome to the Eurasian Union.

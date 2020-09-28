@@ -7,13 +7,13 @@
 
 [color=#00701E]M[/color][color=#037321]a[/color][color=#077624]y[/color] [color=#0E7C2B]t[/color][color=#127F2F]h[/color][color=#158232]e[/color] [color=#1D8839]d[/color][color=#208B3C]a[/color][color=#248E40]y[/color] [color=#2B9547]b[/color][color=#2F984A]e[/color] [color=#369E51]a[/color][color=#3AA155]s[/color] [color=#41A75B]f[/color][color=#45AA5F]u[/color][color=#49AD62]n[/color] [color=#50B469]a[/color][color=#53B76D]s[/color] [color=#5BBD74]i[/color][color=#5EC077]t[/color] [color=#66C67E]i[/color][color=#69C981]s[/color] [color=#71CF88]c[/color][color=#74D28C]o[/color][color=#78D68F]m[/color][color=#7CD993]p[/color][color=#7FDC96]e[/color][color=#83DF99]t[/color][color=#87E29D]i[/color][color=#8AE5A0]t[/color][color=#8EE8A4]i[/color][color=#92EBA7]v[/color][color=#95EEAB]e[/color][color=#99F1AE]![/color][hr]
 [color=#4DCE99]Faction Orders:[/b][/color]
-- Fire on Horsemen but within reason
-- Stockpile Nukes and Shields
+- Fire on AA
+- Stockpile and use Shields
 
 [b][color=#4DCE99]Specialist Orders:[/b][/color]
-- [i]Military:[/i] Stockpile nukes 
+- [i]Military:[/i] Stockpile Shields
 - [i]Strategic:[/i] Stockpile shields - 3 shield/4 production is optimal
 - [i]Economic:[/i] Stockpile shields
 
-[b][color=#4DCE99]Non-Aggression Pact:[/b][/color] Augustin Alliance
+[b][color=#4DCE99]Aggression Pact:[/b][/color] Augustin Alliance  (HIT THEM)
 [b][color=#4DCE99]Mutual Defense Pact:[/b][/color] An Alliance of Potatoes
