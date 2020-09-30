@@ -17,7 +17,9 @@
 
 [colour=ffc000]-Endorse [nation]Koxor[/nation] and all other WA nations.
 -Make the bed[/b][/colour]
-[hr][colour=ffc000][b]Announcements:[/b][/colour]
+[hr][spoiler=[colour=af1414][b] ANNOUNCEMENTS[/b][/colour]]
 [list]
-[*][b][colour=#af1414]Elections are continuing. Foreign Minister next.[/b][/colour]
-[/list]
+[*][b][colour=#ffc000]Elections are continuing. Foreign Minister currently.[/b]
+
+[*][b]Exciting stuff coming soon![/b][/colour]
+[/list][/spoiler]
