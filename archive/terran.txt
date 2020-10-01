@@ -1,17 +1,17 @@
 Central Pact 
-Zenaguria :nation=zenaguria
-Hevenin : nation=hevenin
-Yao Dynasty :nation=yao_dynasty
-4th Reich Order:nation=fourth_reich_order
-Chernsnobog :nation=chernsnobog
-Babylon Inc : nation=babylon_inc
-Xenophon Inc : nation=xenophon_inc
-The Emirate of Qarmatian: nation=qarmatian
-Langong :nation=langong
-Mahajanapadas : nation=mahajanapadas
-Radanites :nation=radanites
-Ditmarshchen: nation=ditmarshchen
-Edennah : nation=edennah
+Zenaguria
+Hevenin 
+Yao Dynasty {Under Lockdown}
+4th Reich Order
+Chernsnobog 
+Babylon Inc 
+Xenophon Inc 
+The Emirate of Qarmatian
+Langong 
+Mahajanapadas 
+Radanites
+Ditmarshchen
+Edennah 
 
 League of Neutral Nations
 9Dragon9Phoenix
@@ -20,8 +20,8 @@ Mahajanapadas
 Rhodenesia
 Helvestica
 Zamrudnesia
-Weebburg
-Chillaxia Prima
+Weebburg {status unknown}
+Chillaxia Prima {status unknown}
 
 Anti Central Bloc
 Elysianum
