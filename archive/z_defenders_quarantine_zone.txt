@@ -3,4 +3,4 @@ You must pass through here and get screened and cured for the zombie virus if yo
 RULES
 
  - Nations may not enter if they chose to embrace or kill the zombies.
- - Nations may not enter if they have active zombies present.
+ - Nations may not enter if they have live zombies, instead they must be cured by one of the [nation]BorderSec[/nation] nations.
