@@ -1,7 +1,39 @@
-[i]Listenstaine (em alem&atilde;o: Liechtenstein) significa literalmente, na l&iacute;ngua local, &quot;pedra clara&quot; (liechten stein). A sua associa&ccedil;&atilde;o com o principado deve-se a ter sido a fam&iacute;lia Liechtenstein a comprar e unir os condados de Schellenberg e Vaduz, dando origem ao atual territ&oacute;rio do pa&iacute;s. O Imperador Romano-Germ&acirc;nico permitiu &agrave; dinastia o rebatismo da sua nova propriedade com o pr&oacute;prio apelido de fam&iacute;lia. Tal sobrenome, por sua vez, vem do castelo de Liechtenstein, na &Aacute;ustria, habitado pela fam&iacute;lia s&eacute;culos antes.        [/i]
+[nation]Liiechtenstein[/nation] 
+
+[b]F&uuml;rstentum Liechtenstein
+Principality of Liechtenstein  [/b]
+
+[b]Location[/B]
+
+[b]Capital[/b] Vaduz
+47 &deg; 08.5&amp;#8242;N 9 &deg; 31.4&amp;#8242;E
+
+[b]Most populous city[/b] Schaan
+
+[b]Official German language[/b]
+
+[b]Official Roman Catholic religion[/b]
+
+[b]Government[/b] Constitutional monarchy
+
+  - Prince Hans-Adam II
+  - Regent Alo&iacute;sio
+
+ [b] - Prime Minister[/b] [nation]Volksleben[/nation]
+
+ [b] - Chancellor  [/b][nation]Cisplatinaa[/nation]
+
+ [b] - President of Parliament[/b] [nation]Catalunhaa[/nation]
+
+[b]Independence of the Holy Roman Empire[/b]
+  - Pressburg Peace July 12, 1806         
+
+
 
 [hr]
 
-F&uuml;rstentum Liechtenstein
-Principality of Liechtenstein
+
 Foundation: 09/09/2020 15:44:15 BRT
+[hr]
+[b]Sister Regions   [/b]
+[region]The Monarchy alliance[/region]|[region]New Saxony[/region]|[region]KAISERREICH[/region]|[region]Principality of Cataloniaa[/region]|
