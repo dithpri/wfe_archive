@@ -3,23 +3,21 @@
 [hr][hr]
 
 [color=gold]&amp;#9812;[/color] [b]Leadership[/b] [color=gold]&amp;#9812;[/color]
-[list][b][i]Chancellor[/i]: [nation=noflag]Pollariaua[/nation] ([color=#00acff]LP[/color])[/b]
+[list][b][i]Chancellor[/i]: [/b]
 
 [list]
 
-[i]Deputy Chancellor[/i]: [nation=noflag]Bennisia[/nation] ([color=#836B9E]CTZ[/color])
+[i]Deputy Chancellor[/i]:
 
 [/list]
 
-[b][i]Shadow Chancellor[/i]: [nation=noflag]Angea[/nation] ([color=#800080]RIP[/color])[/b]
+[b][i]Shadow Chancellor[/i]:[/b]
 [/list][hr][hr]
 
 [b][u]Previous Business:[/b][/u] [b][i]No Confidence Act[/i][/b]
 [i]No Confidence Act~ Passed[/i]
 
-[b][u]Current Business:[/b][/u] [i][b]Agency Amendment 2.0[/b][/i]
-[i]Agency Amendment 2.0~ In Debate[/i]
+[b][u]Current Business:[/b][/u] [i][b]Chancellor Election[/b] [/i]
 
-[b][u]Next Business:[/b][/u] [i][b]Prime Minister Amendment[/b][/i]
-[I]Prime Minister Amendment[/i]
+[b][u]Next Business:[/b][/u] 
 [hr][hr]
