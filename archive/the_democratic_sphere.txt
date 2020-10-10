@@ -17,5 +17,4 @@ Council:
 [nation]Imadieistan[/nation] (Centrist)
 
 [b][i]Upcoming Elections[/i][/b]:
-[i]Council (Seat #3):[/i] 7th October
-[i]Presidential:[/i] 2nd October
+None
