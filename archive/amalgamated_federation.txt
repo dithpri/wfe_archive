@@ -23,7 +23,4 @@ View their Dispatches for more info
 [region]The Brandenburg Militia[/region][/color]
 [hr]
 [color=brownred]Questions?[/color]
-[color=gray]See [nation]The Age of Utopia[/nation] for technical questions[/color]
-[color=grey]See someone else for forum questions[/color]
-[color=gray]See [nation]Neue deutsche Kaukasier[/nation] or [nation]Sierra Grand[/nation] for political/governmental questions[/color]
-
+See [nation]Sierra Grand[/nation], [nation]The Age of Utopia[/nation], or [nation]Neue deutsche Kaukasier[/nation]

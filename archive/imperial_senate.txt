@@ -3,15 +3,15 @@
 [hr][hr]
 
 [color=gold]&amp;#9812;[/color] [b]Leadership[/b] [color=gold]&amp;#9812;[/color]
-[list][b][i]Chancellor[/i]: [/b]
+[list][b][i]Chancellor[/i]: [nation]Mukolayiv[/nation] [/b]
 
 [list]
 
-[i]Deputy Chancellor[/i]:
+[i]Deputy Chancellor[/i]: [i][nation]Angea[/nation][/i]
 
 [/list]
 
-[b][i]Shadow Chancellor[/i]:[/b]
+[b][i]Shadow Chancellor[/i]: [nation]Tristandecuhna[/nation] [/b]
 [/list][hr][hr]
 
 [b][u]Previous Business:[/b][/u] [b][i]No Confidence Act[/i][/b]

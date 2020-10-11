@@ -1,46 +1,38 @@
 [u][b]Welcome to [nation=long]Independence Hill[/nation][/b][/u]
 [hr]
-[b][u]Date[/u][/b]: 7/28/20
+[b][u]Date[/u][/b]: 10/11/20
 
-[b][u]Pop[/u][/b]: 16.992[b]B[/b]
+[b][u]Pop[/u][/b]: 4.084[b]B[/b]
 
-[b][u]Life Ex[/u][/b]: 75.02 
+[b][u]Life Ex[/u][/b]: 62.87 
 
-[b][u]Avg IQ[/u][/b]: 124.96
+[b][u]Avg IQ[/u][/b]: 132.29
 
-[b][u]Political Freedoms[/u][/b]: 70.77 [i]Very Good[/i]
+[b][u]Political Freedoms[/u][/b]: 58.77 (Good)
 
-[b][u]Civil Rights[/u][/b]: 71.51 [i]Excellent[/i]
+[b][u]Civil Rights[/u][/b]: 75.28 (Superb)
 [hr]
-[b][u]Economy[/u][/b]: 86.48 [i][color=green]Thriving[/color][/i]
 
-[color=green][b][u]Exp[/u][/b]: [b][][/b]65.621[b][/color]T[/b] [b]-&amp;gt;[/b] [color=green][i][b][][/b]23.95[/color][b]Q/yr[/b][/i]
+[b][u]Economy[/u][/b]: 91.52 (Powerhouse)
 
-[color=red][b][u]Imp[/u][/b]: [b][][/b]65.398[b][/color]T[/b] [b]-&amp;gt;[/b] [color=red][i][b][][/b]23.87[/color][b]Q/yr[/b][/i]
+[color=green][b][u]Exports[/u][/b]: [b][][/b]18.518[b][/color]T[/b] 
 
-[b][u]Net Ex[/u][/b]: [b][color=green]+[][/b]223[/color][b]B[/b]  
+[color=red][b][u]Imports[/u][/b]: [b][][/b]18.518[b][/color]T[/b] 
+
+[b][u]Net Exports[/u][/b]: [b][color=green]+[][/color]0.00[/b] 
+
+[b][u]GRP Per Capita[/u][/b]: [color=green][b]$[/b][/color]38,923.37
+
+[b][u]Exchange Rate[/u][/b]: [color=green][b][][/b][/color]1 = [color=green][b]$[/color][/b]1.55 
+
+[b][u]Unemployment Rate[/u][/b]: 2.93%
+
+[b][u]Consumer Spending[/b][/u]: [color=green][b][][/b][/color]141.158[b]T[/b]
 
 [hr]
-[b][u]Ex Rate[/u][/b]: [color=green][b][][/b][/color]1 = [color=green][b]$[/color][/b]1.31 [color=green][i][b]+$[/b]0.03[/i][/color] 
 
-[b][u]Daily and Weekly Inflation/Deflation[/u][/b]: [b]-[/b]2.34[b]%[/b] [b]|[/b] [b]-[/b]2.96[b]%[/b]
+[b][u]Fed Budget[/u][/b]: [color=green][b][][/b][/color]66.92[b]T[/b] 
 
-[b][u]Empl Rate[/u][/b]: 66.80[b]%[/b]
+[b][u]Fed Spending[/u][/b]: [color=green][b][][/b][/color]17.90[b]T[/b]
 
-[b][u]Avg Income:[/u][/b] [b]P10%[/b]: [color=green][b][][/b][/color]34,953.92[color=green] [i][b]+[/b][b][][/b]1,059.72[/i][/color] | [b]MC[/b]: [color=green][b][][/b][/color]77,512.56[color=green] [i][b]+[][/b]526.25[/i][/color] | [b]R10%[/b]: [color=green][b][][/b][/color]184,108.34 [color=red][i][b]-[/b][b][][/b]4,908.88[/i][/color]
-
-[b][u]Con Spend[/u][/b]: [color=green][b][][/b][/color]493.354[b]T[/b] [color=green][i][b]+[][/b]7.025[/color][b]T[/b][/i]
-
-[b][u]Con Save[/u][/b]: [b][color=green][][/color][/b]62.18[b]T[/b] [color=green][i][b]+[][/b]0.509[/color][b]T[/b][/i]
-
-[b][u]GRP[/u][/b]: [color=green][b][][/b][/color]585.374[b]T[/b] [color=green][i][b]+[][/b]29.84[b][/color]T[/b][/i]
-
-[b][u]GRP Per Capita[/u][/b]: [color=green][b][][/b][/color]34,449.99 [i][color=green][b]+[]1,585.92[/b][/i][/color] 
-[hr]
-[b][u]Rev[/u][/b]: [color=green][b][][/b][/color]197.21[b]T[/b] [b]-&amp;gt;[/b] [color=green][i][b]+[][/b]4.86[/color][b]T[/b][/i] [i]35.5[b]%[/b] of GRP[/i] [b][i][color=green][][/b][/color]71.98[b]Q/Yr[/i][/b] 
-
-[b][u]Spending[/u][/b]: [color=green][b][][/b][/color]74.1[b]T[/b] [b]-&amp;gt;[/b] [color=green][i][b]+[][/b]2.5[/color][b]T[/b][/i] [i][b][color=green][][/b][/color]27.05[b]Q/Yr[/i][/b]
-
-[b][u]Balance[/u][/b]: [color=green][b][][/b][/color]123.11[b]T[/b] [b]-&amp;gt;[/b] [i][b][color=green][][/color][/b]44.94[b]Q/Yr[/i][/b] ([b][i]Hold [][/b]7.87T[/i])
-
-[b][u]Vault[/u][/b]: [color=green][b][][/b][/color]1.22417[b]Q[/b]  
+[b][u]Surplus[/u][/b]: [color=green][b][][/b][/color]49.02[b]T[/b]
