@@ -6,8 +6,8 @@
 Consul Prior: [nation]Romano-Campania[/nation]
 Consul Posterior: [i]vacant[/i]
 Princeps Senatus: [nation]The Proudhonnian Isles[/nation]
-Quaestor: [i]vacant[/i]
-Aedile: [i]vacant[/i]
+Quaestor: [nation]Hulmeira[/nation]
+Aedile: [nation]Horribly Disfigured Individuals[/nation]
 Legate: [nation]Awalltown[/nation]
 [hr]
 After the small and rising region known as the [region]Heirs of Rome[/region] was invaded and occupied, a small body of former members banded together to refound the region. From these troubled origins, we have, phoenix-like emerged! All newcomers are welcome! Welcome to [region]The Heirs of Rome[/region], and please enjoy your stay!
