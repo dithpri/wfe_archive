@@ -14,10 +14,4 @@ The party is active in the following regions:
 
 [b][region]The East Arctic[/region][/b] | [nation]Eastern Branch of Arctic Unity Party[/nation]
 
-[b][region]The Arctic Isles[/region][/b] | [nation]Island Branch of Arctic Unity Party[/nation]
-
-[b][region]The Southern Arctic Isles[/region][/b] | [nation]Branch 3 of Arctic Unity Party[/nation]
-
-[b][region]The Arctic Confederation[/region][/b] | [nation]Branch 4 of Arctic Unity Party[/nation]
-
-[b][region]Arctic Alliance[/region][/b] | [nation]Branch 5 of Arctic Unity Party[/nation]
+[b][region]The Southern Arctic Isles[/region][/b] | [nation]Island Branch of Arctic Unity Party[/nation]
