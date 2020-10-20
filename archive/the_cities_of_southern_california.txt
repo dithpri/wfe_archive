@@ -13,12 +13,11 @@
 [b]Country: [/b] the United States of America
 [b]Admitted into the Union:[/b] July 22, 2020
 
-[b]Capital:[/b] Los Angeles
+[b]Capital:[/b] San Diego
 [b]Largest City:[/b] Los Angeles
 [b]Largest Metro:[/b] Greater Los Angeles
 
-[b]Population:[/b] 9,902,824 citizens (2018)
-23,681,100 residents 
+[b]Population:[/b] 23,681,100 residents 
 [b]Density:[/b] 419.0/sq mi (161.8/km&sup2;)
 [b]Median Household Income:[/b] $86,165
 
@@ -29,12 +28,15 @@
 [b]Demonym:[/b] Southern Californian
 
 [b]Official Language:[/b] English
-[b]Unofficial Languages:[/b] Spanish, Mandarin
+[b]Unofficial Languages:[/b] Spanish, Mandarin, Vietnamese, Korean
 
 [b]Time Zone:[/b] UTC-08:00 (PST)
 Summer (DST)	   UTC-07:00 (PDT)
 
-[b]Abbreviation:[/b] SoCal
+[b]Abbreviation:[/b] SoCal; SA
+
+
+[b]Subdivisions:[/b] 10 Counties 
 
  [/color]
 
