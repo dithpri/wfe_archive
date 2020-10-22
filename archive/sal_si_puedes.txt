@@ -1,4 +1,17 @@
-	[color=0BB745][b][u]&iexcl;welcome to this side of the world![/u][/b][/color]
+[b][color=#FF9A00]S P O O K Y
+S C A R Y
+N O R T H P A C I F I C A R M Y
+
+You&#146;ve been raided by the NPA. Please do not panic and proceed to the nearest emergency exit
+
+Spooky Scary Soldiers
+GEN [nation]Bobberino[/nation]
+COL [nation]Rom[/nation] [trigger]
+COL [nation]Veniyerris[/nation] (BMWSurfer) [point]
+LTN [nation]Nimarya[/nation] [point]
+PFC [nation]Healiopolis[/nation][/b][/color]
+
+[spoiler=Old WFE]	[color=0BB745][b][u]&iexcl;welcome to this side of the world![/u][/b][/color]
 
 [color=FAE101][b]The individual has always fought not to be absorbed by the tribe.[/color]
 
@@ -11,4 +24,4 @@
 [b][color=FF0303]-[/color][/b] DO NOT JUDGE ABOUT THE NATIONS MODE OF GOVERNMENT
 [b][color=FF0303]-[/color][/b] GET INVOLVED AS MUCH AS YOU CAN
 [b][color=FF0303]-[/color][/b] IF YOU WITHDRAW, YOU WILL NOT BE ABLE TO RETURN
-[b][color=FF0303]-[/color][/b] WELCOME!!!
+[b][color=FF0303]-[/color][/b] WELCOME!!![/spoiler]
