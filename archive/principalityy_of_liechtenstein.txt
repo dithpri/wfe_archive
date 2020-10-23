@@ -19,11 +19,11 @@ Principality of Liechtenstein  [/b]
   - Prince Hans-Adam II
   - Regent Alo&iacute;sio
 
- [b] - Prime Minister[/b] [nation]Scansinia[/nation]
+ [b] - Prime Minister[/b]
 
  [b] - Chancellor  [/b][nation]Schaann[/nation]
 
- [b] - President of Parliament[/b] [nation]LadyMorrighan[/nation]
+ [b] - President of Parliament[/b] 
 
 [b]Independence of the Holy Roman Empire[/b]
   - Pressburg Peace July 12, 1806         
@@ -33,7 +33,7 @@ Principality of Liechtenstein  [/b]
 [hr]
 
 
-Foundation: 09/09/2020 15:44:15 BRT
+Foundation: 09/09/2020 15:44:15 BRT |[b]Position[/b]:[color=blue] Neutral[/color]|
 [hr]
 [b]Sister Regions   [/b]
 |[region]Principality of Cataloniaa[/region]|[region]KAISERREICH[/region]|[region]The Kaiserliche Marine[/region]|
