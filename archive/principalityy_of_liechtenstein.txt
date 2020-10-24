@@ -8,7 +8,7 @@ Principality of Liechtenstein  [/b]
 [b]Capital[/b] Vaduz
 47 &deg; 08.5&amp;#8242;N 9 &deg; 31.4&amp;#8242;E
 
-[b]Most populous city[/b] Schaan
+[b]Most populous city[/b][nation]Schaann[/nation]
 
 [b]Official German language[/b]
 
@@ -35,8 +35,9 @@ Principality of Liechtenstein  [/b]
 
 Foundation: 09/09/2020 15:44:15 BRT |[b]Position[/b]:[color=blue] Neutral[/color]|
 [hr]
-[b]Sister Regions   [/b]
-|[region]Principality of Cataloniaa[/region]|[region]KAISERREICH[/region]|[region]The Kaiserliche Marine[/region]|
+|[b][nation]Liiechtenstein[/nation]   [/b]|
+| [url=https://www.nationstates.net/nation=liiechtenstein/detail=factbook/id=1451342] [color=#DC143C]Constitution [/color][/url]|[url=https://www.nationstates.net/nation=liiechtenstein/detail=factbook/id=1451329]Law of Prince of Liechtenstein House[/url]|
+
 
 [hr]
 

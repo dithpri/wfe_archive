@@ -15,8 +15,8 @@ Mahajanapadas
 Rhodenesia
 Helvestica
 Zamrudnesia
-Weebburg {status unknown}
-Chillaxia Prima {status unknown}
+Weebburg {status overrun}
+Chillaxia Prima {status overrun}
 Paraurugua
 
 Allied Bloc
@@ -30,12 +30,23 @@ Alyaskva
 Messourita
 Rubrassa
 
+Delian Association 
+The Kingdom of Byzantiov 
+
+Pryckinne Fiefdom
+The Grand Duchy of Rossiyasus
+
 Holy Alliance
 4th Reich Order
 Vaticanolicca
 Radanites
 Templarist
 Hospitallian 
+
+Allied State of Kaukas 
+Geourgia
+Azerbayaca
+Arminesan
 
 Assosiation of Ahad states
 The Emirate of Qarmatian
@@ -44,3 +55,4 @@ The Emirate of Rashaud
 Greater East Aionia Co-Prosperity Sphere
 Yao Dynasty {Under Further Lockdown}
 Yamatoi
+The Community of Kowloong
