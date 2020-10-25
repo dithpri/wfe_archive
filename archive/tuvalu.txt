@@ -1,14 +1,8 @@
-[color=003366][b]Tuvalu[/b]
+[color=2090cc][b]Tuvalu[/b]
 [i]Tuvalu mo te Atua[/i]
-[/color][color=006633]
-FACTS
-&#149; Polynesian Pacific Island nation
-&#149; Midway between Hawaii and Australia
-&#149; Referendum held 1974 Dec created Ellice Islands as a separate colony from [b]British Western Pacific Territories[/b]
-&#149; 1976 Jan 01 - Tuvalu
-&#149; 1978 Oct 01 - independent member [b]British Commonwealth[/b]
-&#149; 2000 Sep 05 - 189th member [b]United Nations[/b]
-
+[/color]
+[color=004d33]
+FACTS[list]
 [b]Capital:[/b] [region=Funafuti]
 [b]Government:[/b]
 &#149; Monarch: Elizabeth II 
@@ -17,10 +11,17 @@ FACTS
 [b]Area:[/b] 26 sq. km. (10 sq. mi.) ranked 236th
 [b]Population:[/b] 11,646 (2019 est.) 229th
 Highest Elevation: 4.6 m (15 ft.)
-[/color][color=olive]
-REGION
+
+&#149; Polynesian Pacific Island nation
+&#149; Midway between Hawaii and Australia
+&#149; Referendum held 1974 Dec created Ellice Islands as a separate colony from [b]British Western Pacific Territories[/b]
+&#149; 1976 Jan 01 - Tuvalu
+&#149; 1978 Oct 01 - independent member [b]British Commonwealth[/b]
+&#149; 2000 Sep 05 - 189th member [b]United Nations[/b][/list]
+[/color][color=00477e]
+REGION[list]
 &#149; [b]Founded:[/b] 2016 Apr 27
-&#149; [b]Featured:[/b] 2016 Nov 04, 2020 Oct 07 
+&#149; [b]Featured:[/b] 2016 Nov 04, 2020 Oct 07, 2020 Oct 25 
 &#149; a [region=United States of America] allied region
-[/color][color=green]
-Embassy Offers Welcome[/color][hr]
+[/color][color=355e3b]
+Embassy Offers Welcome[/color][/list]

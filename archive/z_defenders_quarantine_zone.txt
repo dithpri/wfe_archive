@@ -4,7 +4,7 @@
 
 [color=green]Nations that are in the main region MUST go here if they are going inactive (e.g. going offline for the night).[/color]
 
-[color=purple]RULES FOR VERIFICATION:
+[color=orange]RULES FOR VERIFICATION:
 
  - Nations may not enter if they chose to embrace or kill the zombies.
  - Nations may not enter if they have live zombies, instead they must be cured by one of the [nation]BorderSec[/nation] nations.[/color]

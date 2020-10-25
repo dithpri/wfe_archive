@@ -1,0 +1,3 @@
+Puppet storage for [nation]Quebec-and-Maritimes[/nation] (AKA turtle).
+
+Successor to [region]Turtle Nest[/region]

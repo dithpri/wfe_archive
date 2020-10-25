@@ -1,7 +1,9 @@
 [color=orange]This is a Z-day curing alliance of [region]The Snakes[/region] and [region]Chicken Overlords[/region].[/color]
 
-[color=red]To enter you must first pass through the [region]Z Defenders quarantine zone[/region].[/color]
+[color=red]To enter you must first pass through the [region]Z Defenders quarantine zone[/region]. Violators of this rule [b]WILL[/b] get ejected and banned.[/color]
 
-[color=green]Nations that are here MUST also go to the quarantine zone if they are going inactive (e.g. going offline for the night).[/color]
+[color=violet]If you [b]deliberately[/b] change your zombie control option to anything other than  &quot;cure&quot;, you will also get banjected from the region.[/color]
+
+[color=green]Nations that are here must also go to the quarantine zone if they are going inactive (e.g. going offline for the night). If you forget to do this, you may get ejected (but NOT banned).[/color]
 
 [color=blue]Having a severe outbreak? Contact [nation]Z-defender[/nation] (AKA [nation]The Python[/nation] and [nation]BorderSec[/nation]).[/color]
