@@ -4,6 +4,8 @@
 
 [color=violet]If you [b]deliberately[/b] change your zombie control option to anything other than  &quot;cure&quot;, you will also get banjected from the region.[/color]
 
-[color=green]Nations that are here must also go to the quarantine zone if they are going inactive (e.g. going offline for the night). If you forget to do this, you may get ejected (but NOT banned).[/color]
+[color=green]Nations that are offline can get ejected (but NOT banned) from the main region if (and only if) there is an outbreak and are spreading the zombie virus.[/color]
 
-[color=blue]Having a severe outbreak? Contact [nation]Z-defender[/nation] (AKA [nation]The Python[/nation] and [nation]BorderSec[/nation]).[/color]
+[color=blue]Having a severe outbreak in your region? Contact [nation]Z-defender[/nation].[/color]
+
+[color=black]Track any outbreaks in your region [url=https://glcdn.githack.com/thepython/snakey/raw/1cf634ad/outbreaktracer.html]here[/url]. Anyone can use this, even if they are not a member of Z defenders (but don&#39;t use it on regions with 100+ regions or it will be super slow)[/color]

@@ -2,7 +2,7 @@
 
 [color=red]You must pass through here and get screened and cured for the zombie virus if you wish to enter the main region [region]Z defenders[/region]. To get verified click  [url=https://glcdn.githack.com/thepython/snakey/raw/master/zombiescreener.html]here[/url] and follow the instructions.[/color]
 
-[color=green]Nations that are in the main region MUST go here if they are going inactive (e.g. going offline for the night).[/color]
+[color=green]Nations that are offline can get ejected (but NOT banned) from the main region if (and only if) there is an outbreak and are spreading the zombie virus.[/color]
 
 [color=orange]RULES FOR VERIFICATION:
 
