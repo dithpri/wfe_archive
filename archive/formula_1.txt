@@ -1,15 +1,16 @@
-2021 Teams and drivers
+2021 - Confirmed teams and drivers
 
-[nation]A l f a R o m e o[/nation] - 7. Kimi Raikkonen** &amp; 99. Antonio Giovinazzi
-[nation]A l p h a T a u r i[/nation] - 26. Daniil Kvyat &amp; 10. Pierre Gasly*
-[nation]A l p i n e[/nation] - 31. Esteban Ocon &amp; 14. Fernando Alonso**
-[nation]A s t o n M a r t i n[/nation] - 5. Sebastian Vettel** &amp; 18. Lance Stroll
-[nation]F e r r a r i[/nation] - 16. Charles Leclerc* &amp; 55. Carlos Sainz
-[nation]H a a s[/nation] - 8. Romain Grosjean &amp; 20. Kevin Magnussen
-[nation]M c L a r e n[/nation] - 3. Lando Norris &amp; 4. Daniel Ricciardo*
-[nation]M e r c e d e s[/nation] - 44. Lewis Hamilton*** &amp; 77. Valtteri Bottas*
-[nation]R e d B u l l[/nation] - 33. Max Verstappen* &amp; 23. Alexander Albon
-[nation]W i l l i a m s[/nation] - 63. George Russell &amp; 6. Nicholas Latifi
+[nation]F e r r a r i[/nation] - Charles Leclerc* &amp; Carlos Sainz
+[nation]M c L a r e n[/nation] - Lando Norris &amp; Daniel Ricciardo*
+[nation]A l p i n e[/nation] - Esteban Ocon &amp; Fernando Alonso**
+[nation]A s t o n M a r t i n[/nation] - Sebastian Vettel** &amp; Lance Stroll
+[nation]W i l l i a m s[/nation] - George Russell &amp; Nicholas Latifi (Sergio Perez)
+[nation]A l p h a T a u r i[/nation] - TBC &amp; Pierre Gasly* (Alex Albon, Yuki Tsunoda or Daniil Kvyat)
+[nation]M e r c e d e s[/nation] - TBC &amp; Valtteri Bottas* (Lewis Hamilton)
+[nation]R e d B u l l[/nation] - Max Verstappen* &amp; TBC (Alex Albon, Sergio Perez, Nico Hulkenburg)
+[nation]A l f a R o m e o[/nation] - TBC &amp; TBC (Kimi Raikkonen, Robert Schwartzman, Antonio Giovinazzi, Mick Schumacher)
+[nation]H a a s[/nation] - TBC &amp; TBC (Mick Schumacher, Sergio Perez, Nakita Mazepin)
+
 
 * Race Winner  
 ** World Champion  
