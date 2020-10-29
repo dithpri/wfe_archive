@@ -1,5 +1,21 @@
 [b][color=pink]Welcome to Among Us[/color][/b]
-[hr]
-You are a [b][color=red]crewmate[/color][/b].
 
-Who&#39;s the [b][color=blue]imposter[/color][/b]? 
+[hr]
+
+[b]Selected Map: [color=green]The Skeld[/color][/b]
+
+[hr]
+
+[b]Tasks:[/b]
+[i]
+- Admin: Swipe Card
+- O2: Clean Filter
+- Electrical: Fix Wires (0/3)
+- Comms: Download Data
+[/i]
+
+[spoiler=[b]Start[/b]]
+[color=lightblue][b]Crewmate[/b][/color]
+
+[i]There are [color=red]2 imposters[/color] among us.[/i]
+[/spoiler]
