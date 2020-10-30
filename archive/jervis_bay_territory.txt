@@ -1,5 +1,2 @@
-[color=green][b]Jervis Bay Territory[/b][/color]
-
-[color=olive]REGION
-[b]Founded:[/b] 2020 AUG 26
-a [region=Brisbane]/[region=Canberra]/[region=Sydney] allied region[/color]
+[color=003264][b]Jervis Bay Territory[/b]
+a territory attached to [region=Australian Capital Territory][/color]
