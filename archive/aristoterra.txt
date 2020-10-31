@@ -1,1 +1,18 @@
-This is my region.
+[b]President:[/b] [nation]Almops[/nation]
+[b]Vice President:[/b] [nation]Constantinoplea[/nation]
+[b]Prime Minister:[/b] [nation]Oikismoi[/nation]
+
+[b]Parliament:[/b]
+[nation]Ankratia[/nation]
+[nation]Compromisea[/nation]
+[nation]Dictablandia[/nation]
+[nation]Primitivus[/nation]
+[nation]Goofy Clowns[/nation]
+[nation]Special Snowflakes[/nation]
+[nation]Libsocland[/nation]
+[nation]Kakokratia[/nation]
+[nation]Everlasting Torment[/nation]
+[nation]Tarnation Hell[/nation]
+
+[b]Emergency Services:[/b]
+[nation]Healthcarea[/nation]

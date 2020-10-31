@@ -5,12 +5,10 @@
 [color=maroon]Capital:[/color] [color=#CC0000]Valencia[/color]
 [color=maroon]Leader:[/color] [color=#CC0000]President Valentina Stark[/color]
 [color=maroon]Defstale:[/color] [color=#CC0000]5 (Peace)[/color]
-[color=maroon]Year:[/color] [color=#CC0000]2089[/color]
+[color=maroon]Year:[/color] [color=#CC0000]2090[/color]
 
-[hr]
-
-[color=maroon]Founded:[/color] [color=#CC0000]Friday, 14th of February 2020[/color]
-
-[hr]
-
-[b]Z-Day9 Stance:[/b] Relax! [url=https://www.nationstates.net/page=dispatch/id=716227]We&#39;ll be alright.[/url]
+[hr][color=maroon]Founded:[/color] [color=#CC0000]Friday, 14th of February 2020[/color]
+[hr][b]Z-Day9:[/b] We have zero zombies as of 1 November 2020, 01:50 UTC
+[b]Z-Day9 Tally Board:[/b] 
+[url=https://www.nationstates.net/page=zday_tally#stotal]Most Survivors[/url]: Currently [b]76th out of 100[/b] (194 billion survivors). Peak position was [b]75th[/b].
+[url=https://www.nationstates.net/page=zday_tally#ftotal]Most Survivors + No Zombies[/url]: Currently [b]46th out of 100[/b] (194 billion survivors). Peak position was [b]44th[/b].

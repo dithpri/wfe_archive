@@ -1,4 +1,4 @@
-[b]Welcome to Loderon[/b]
+&amp;#127875;[b]Welcome to Loderon[/b]&amp;#127875;
 
 [hr]
 
@@ -6,11 +6,13 @@
 
 [hr]
 
-[color=red][b]Regional News[/b][/color]
+&amp;#127810;[color=red][b]Regional News[/b][/color]&amp;#127810;
 
--[color=red]Nations of Loderon are encouraged to join the WA and endorse our WA delegate! Every endorsement for the delegate is a stronger Loderon in the WA![/color]
+-[color=red][b][region]Loderon[/region] is now infection free.[/b][/color]
 
-[i][region]Loderon[/region] does not have an endorsement cap.[/i]
+-[Color=red]Nations of Loderon are encouraged to join the WA and endorse our WA delegate! Every endorsement for the delegate is a stronger Loderon in the WA![/color]
+
+&amp;#127809;[i][region]Loderon[/region] does not have an endorsement cap.[/i]&amp;#127809;
 
 [hr]
 [b][color=red][url=https://discord.gg/NzZBqZq]Discord[/url][/color][/b]

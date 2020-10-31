@@ -1,27 +1,39 @@
-As of 22 AUG 2020 (24,490 regions)
-11.	Highest Foreign Aid Spending
-18.	Largest Welfare Programs
-44.	Most Pacifist
-48.	Safest
-52.	Highest Average Tax Rates
-53.	Most Eco-Friendly Governments
-53.	Most Advanced Public Transport
-60.	Most Cheerful Citizens
-60.	Least Corrupt Governments
-60.	Most Extensive Public Healthcare
-79.	Highest Workforce Participation Rate
-79.	Largest Governments
-80.	Nicest Citizens
-89.	Most Compassionate Citizens
-105.	Best Weather
-108.	Most Inclusive
-111.	Most Popular Tourist Destinations
-117.	Most Advanced Public Education
-120.	Most Beautiful Environments
-155.	Longest Average Lifespans
-160.	Most Subsidized Industry
-179.	Lowest Crime Rates
-216.	Most Rebellious Youth
-226.	Healthiest Citizens
-239.	Smartest Citizens
-294.	Most Cultured
+As of 31 OCT 2020 (24,618 regions)
+14. Foreign Aid
+23. Welfare
+37. Pacifism
+46. Safety
+51. Integrity
+52. Taxation
+60. Eco-Friendliness
+60. Niceness
+64. Cheerfulness
+67. Compassion
+69. Public Transport
+70. Public Healthcare
+75. Government Size
+85. Inclusiveness
+99. Weather
+99. Tourism
+111. Environmental Beauty
+116. Public Education
+125. Lifespan
+162. Compliance
+169. Business Subsidization
+180. Youth Rebelliousness
+189. Intelligence
+200. Health
+263. Culture
+304. Average Income of Poor
+305. Survivors
+487. Secularism
+508. Human Development Index
+716. Industry: Book Publishing
+976. Average Income
+1051. Scientific Advancement
+1188. International Artwork
+1347. Law Enforcement
+1494. Economic Output
+1612. Recreational Drug Use
+1746. Employment
+1771. Income Equality
