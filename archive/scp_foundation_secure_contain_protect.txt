@@ -2,4 +2,4 @@ Welcome to the SCP Foundation. SCP stands for &quot;Secure. Contain. Protect.&qu
 [levels] Level 0 Level 1 level 2 level 3 level 4 level 5.
 [Class] Class A Class B Class C Class D Class E.
 [Staff Titles] MD SID SD RRT ISD MTF MOD
-[HR level] Admin O5 Council Site Director.
+[HR level]  Moderation/ MOD Admin O5 Council Site Director.
