@@ -4,4 +4,5 @@
 
 [color=red]List of member regions:[/color]
 
-- [region]Slavska[/region][/b]
+- [region]Slavska[/region]
+- [region]Krasnaya[/region][/b]

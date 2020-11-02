@@ -13,6 +13,3 @@
 [nation]Kakokratia[/nation]
 [nation]Everlasting Torment[/nation]
 [nation]Tarnation Hell[/nation]
-
-[b]Emergency Services:[/b]
-[nation]Healthcarea[/nation]
