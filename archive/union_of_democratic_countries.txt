@@ -1,3 +1,1 @@
-Bold: [b]Hello[/b] becomes: Hello
-Italic: [i]Hello[/i] becomes: Hello
-Underline: [u]Hello[/u] becomes: Hello
+Work in progress
