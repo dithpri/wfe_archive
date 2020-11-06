@@ -1,4 +1,4 @@
-[url=https://discord.gg/mADuvaz]Discord[/url]|[url=https://www.nationstates.net/page=archive/folder=regions]Data dumps[/url]|[url=https://www.7-zip.org/]7-zip (for opening data dumps)[/url]|[url=https://gl.githack.com/thepython/snakey/raw/master/updatetimes.html]Update time sheet[/url]|[url=https://www.nationstates.net/region=pyrenean_ibex]Jump point[/url]
+Defending tools: [url=https://discord.gg/mADuvaz]Discord[/url]|[url=https://greywardens.xyz/tools/wfe_index/]World Factbook Entry finder*[/url]|[url=https://gl.githack.com/thepython/snakey/raw/master/updatetimes.html]Update time sheet[/url]|[url=https://www.nationstates.net/region=pyrenean_ibex]Jump point[/url]
 [hr][color=blue]This is a very small defender region where we protect regions from raiders! If you want to join please do![/color]
 
 [color=red]Current orders: None[/color]
@@ -6,4 +6,6 @@
 [color=purple]Allies: [region]Chicken Overlords[/region][/color]
 
 All embassies accepted!
+
+[color=violet]*Thanks to [region]The Order of The Grey Wardens[/region] for creating this tool[/color]
 
