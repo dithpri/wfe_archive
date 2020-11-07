@@ -1,7 +1,1 @@
 Welcome to Ancient Empires, home of the world&#39;s oldest civilizations.
-
-Ancient Empires regions:
-- [region]Abyssinia[/region]
-- [region]Babylonia[/region]
-- [region]Illyria[/region]
-- [region]Thracia[/region]

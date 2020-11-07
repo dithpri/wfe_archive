@@ -5,4 +5,6 @@
 [color=red]List of member regions:[/color]
 
 - [region]Slavska[/region]
-- [region]Krasnaya[/region][/b]
+- [region]Krasnaya[/region]
+- [region]Olgienslavia[/region]
+- [region]The Union of Slavic Socialist Republics[/region][/b]
