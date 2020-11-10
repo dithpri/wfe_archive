@@ -6,10 +6,10 @@
 [hr][color=purple][b]Speaker of the House: [nation]Snowflame[/nation] (TFP)[/color][/b]
 [color=red]Deputy Speaker of the House: [nation]Gallo Republic[/nation] (SOL-GAY-UWU)[/color]
 [color=grey]Deputy Speaker of the House: [nation]Bahnhof[/nation] (IND)[/color]
-[hr][b][color=grey]Shadow Speaker of the House: Vacant[/b][/color]
-[color=grey]Deputy Shadow Speaker of the House: Vacant[/color]
+[hr][b][color=red]Shadow Speaker of the House: [nation]Evileia[/nation] (SOL-GAY-UWU) [/b][/color]
+[color=grey]Deputy Shadow Speaker of the House: Vacant [/color]
 [color=grey]Opposition Party Caucus Leader: Vacant[/color]
 [color=grey]Opposition Party Caucus Leader: Vacant[/color]
-[hr][b]Previous Business -- [colour=red]House On Recess[/colour]--
-Current Business -- [colour=green]Foreign Affairs Minister Nominee Hearing[/colour]-- 
-Next Business -- [colour=RED]TBA[/colour][/b]
+[hr][b]Previous Business -- [colour=red]FAM Hearing[/colour]--
+Current Business -- [colour=green]HAM Hearing[/colour]-- 
+Next Business -- [colour=RED]Amendment to LR 030[/colour][/b]
