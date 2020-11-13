@@ -1,4 +1,5 @@
-[b]This is the Council of Ministers of the government of [region]Liberty Democratic Alliance[/region][/b]
+[b]The Prime Minister[/b] is required to [b]tag ministers and the Chief Justice[/b] in order to initiate discussions, guaranteeing these officers will receive a &quot;notice&quot;. 
+[b]The officers[/b] need also to tag the nations involved in the discussion, or &quot;reply&quot; to one of the posts, so the PM and other ministers will receive a &quot;notice&quot;.
 [hr]
 [b][u]The Fourth Government:[/u][/b]
 [b]Prime Minister: [nation=long]Republic of Mesque[/nation][/b]
