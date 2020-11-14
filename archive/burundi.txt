@@ -1,9 +1,22 @@
-[hr][list][color=navy][b]Burundi[/b][/list][hr]
-
-Capital: Bujimbura
-Independence: July 1, 1962 (Belgium)
-Area: 27,834 sq km
-Population: 10,216,190 (2011 est)
-[/color]
-[color=white] - - - - - - - - [/color][region=Rwanda]
-[region=Congo] ----- [b]Burundi[/b] ----- [region=Tanzania][hr][color=white]XXXXXXXXXX[/color][color=red][b]DO NOT RECRUIT HERE[/b][hr][/color][color=navy][b]WELCOME[/b][/color]
+[hr][list][color=003264][b]Burundi[/b][/list][hr]
+[/color][color=006432]
+NATION
+Officially Republic of Burundi
+an African nation located near:
+- [region=Rwanda] (North), 
+- [region=Tanzania] (South and East) and
+- [region=Democratic Republic of Congo] (West)
+[b]Capital:[/b] [region=Gitega] 
+Capital was formerly [region=Bujumbura] until 2019 Jan 16)
+[b]Independence:[/b] July 1, 1962 (Belgium)
+[b]Area:[/b] 27,834 sq km
+[b]Population:[/b] 10,216,190 (2011 est)
+[/color][color=646400]
+REGION
+[b]Founded:[/b] 2011 Nov 01
+[b]Matrixed:[/b] 2016 Jul 09
+[b]Featured:[/b] 2020 Nov 14
+this is an [region=Old Spirit] of [region=United States of America] region
+an [region=Ancient Lands] associate region
+[/color][color=006900]
+[b]Embassy Offers Accepted[/b][/color][hr]
