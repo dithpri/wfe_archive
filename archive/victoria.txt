@@ -1,5 +1,4 @@
-[color=navy][b]Victoria[/b]
-[I]The Garden State[/I]
+[color=navy][b]Victoria[/b][hr][I]The Garden State[/I]
 
 South-eastern state of Australia
 Creation of separate colony - 1851 July 1st (from New South Wales)
@@ -9,7 +8,8 @@ Creation of separate colony - 1851 July 1st (from New South Wales)
 Named after Queen Victoria
 [/color][color=darkgreen]
 REGION
-this is a [region=QSA]/[region=Old Spirit] region
+this is an [region=Old Spirit]/[region=0000] region
 [b]Founded:[/b] 2011 May 1
-[b]Featured:[/b] 2018 July 7; 2019 Nov 18[/color][color=red]
+[b]Featured:[/b] 2018 July 7; 2019 Nov 18
+[/color][color=green]
 [b]Embassy Offers Accepted[/b][/color]
