@@ -1,2 +1,9 @@
-[color=green][b]Saint Christopher[/b]
-SEE [region=Saint Kitts and Nevis][/color]
+[hr][list][color=102040][b]Saint Christopher[/b][/list][hr]
+
+[hr][list]aka [region=Saint Kitts]
+this is a [region=Saint Kitts and Nevis] associated region[/color][/list][hr]
+
+[hr][list][color=606030]REGION
+[b]Founded:[/b] 2020 Nov 20
+this is an embassy oracle holding region
+a Queen&#39;s State Alliance region[/list][/color][hr]
