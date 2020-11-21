@@ -2,14 +2,16 @@
 [url=https://www.nationstates.net/region=the house of commons]House of Commons (Lower House)[/url]
 [hr][b]Leadership:[/b]
 [list][*][b]Chairman of the Senate: [nation]Brototh[/nation] ([colour=blue]TPU[/colour])[/b]
-[list][i][*]Deputy Chairman: [nation]Ashlawn[/nation] ([colour=grey]IND[/colour])[/i][/list]
+[list][i][*]Snr Deputy Chairman: [nation]Ashlawn[/nation] ([colour=grey]IND[/colour])
+[*]Jnr Deputy Chairman: [nation]Dendrobium[/nation] ([colour=salmon]SPT[/colour])
+[*]Jnr Deputy Chairman: [nation]Emazia[/nation] ([colour=blue]TPU[/colour])[/i][/list]
 [*][b]Shadow Chairman of the Senate: [nation]Hulldom[/nation] ([colour=dodgerblue]LPT[/colour])[/b]
 [list][i][*]Deputy Shadow Chairman: [nation]World Trade[/nation] ([colour=dodgerblue]LPT[/colour])[/list]
 [/list]
 [hr][b][url=https://www.nationstates.net/nation=thaecian_dep_admin/detail=factbook/id=1290564#37][color=#ea2323]Please read the Code of Conduct and [u]Senate Procedures (L.R. 037)[/u] before posting here.[/url][/color]
 [hr]Senate Business [/b]
 
-[b]Previous Business: [i]Chair Election[/i]
-Current Business: [i]Amendments to LR 024[/i]
-Next Business:[i] idk [/i][/b]
+[/i][b]Previous Business: [i]Amendment to LR 030[/i] [color=green]Passed[/color]
+Current Business: [i]Amendment to Article V of the Constitution[/i]
+Next Business: [i]Military Commission Act[/i][/b]
 [hr][b]To submit a bill to the Senate, please find a Senator to sponsor the bill and then send it to Chairman [nation]Brototh[/nation].[/b]
