@@ -14,4 +14,4 @@ REGION
 [/color][color=FF4F00]
 [b]Welcomes All Embassy Offers[/b]
 [/color][color=803000]
-an [region=Old Spirit] region[/color]
+an [region=Old Spirit]/[region=Ancient Lands] region[/color]
