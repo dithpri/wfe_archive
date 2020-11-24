@@ -1,6 +1,6 @@
-[b][u]NATIONSTATES COURT OF INTERNATIONAL LAW &amp; JUSTICE[/u][/b]
+[b][u]COURT OF INTERNATIONAL LAW &amp; JUSTICE[/u][/b]
 
-The NationStates Court of International Law &amp; Justice is the preminent court in NationStates&#39; judicial system.
+This Court is the preminent court in the NationStates judicial system.
 
 [hr]
 
@@ -8,20 +8,20 @@ The NationStates Court of International Law &amp; Justice is the preminent court
 
 [hr]
 
-[b][u]Jurisdiction of the Court[/u][/b]
--The Court shall have jurisdiction over all extra-regional affairs including but not limited to disputes and agreements between regional governments, nations and polities in different regions, inter-regional organisations, alliances and treaties.
+[b][u][color=blue]JURISDICTION[/color][/u][/b]
+-The Court shall have jurisdiction over all extra-regional affairs including disputes and agreements between regional governments, nations &amp; polities in different regions, inter-regional organisations, alliances and treaties.
 -The Court&#39;s jurisdiction shall extend to any judicial matter delegated to it by any Region or organisation.
 
 [hr]
 
-[b][u][color=red]News[/color][/b][/u]
-- The CILJ is reestablished.
+[b][u][color=red]JUDGES[/color][/b][/u]
+[nation]Imperium Anglorum[/nation] - Court President
+[nation]Unfallious[/nation] - Associate Justice
+[nation]Vancouvia[/nation] - Associate Justice
+[nation]Christadelphians[/nation] - Associate Justice
+[nation]Allangoria[/nation] - Associate Justice
+
 [hr]
 
-[b][u][color=blue]Current Cases[/color][/b][/u]
-None
-
-[hr]
-
-[b][u][color=orange]Pending Cases[/color][/b][/u]
-None
+[b][u][color=orange]CURRENT CASES[/color][/b][/u]
+-

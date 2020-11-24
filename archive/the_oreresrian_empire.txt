@@ -4,15 +4,12 @@ Capitol: Othyr
 &amp;#10009;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#3665;&amp;#3665;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#10009;
 Government: Empire
 Emperor: [nation]Oreresr[/nation]
-Senate: N/A
+Senators: [nation]Relivina[/nation]
 &amp;#10009;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#3665;&amp;#3665;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#10009;
 Official Language: English
 Currency: Oreresrian Dollar
 &amp;#10009;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#3665;&amp;#3665;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#10009;
 DEFCON Level: 5
 War Status: N/A
-&amp;#10009;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#3665;&amp;#3665;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#10009;
-[b]Senate Election
-[/b]Candidates:
 &amp;#10009;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#3665;&amp;#3665;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#9644;&amp;#10009;
 [b]KEEP IN MIND THE SENATE HOLDS AN ADVISORY ROLE AND ANY LAWS PASSED BY IT MUST BE APPROVED BY THE EMPEROR![/b]
