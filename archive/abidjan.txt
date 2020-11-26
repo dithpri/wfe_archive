@@ -1,2 +1,11 @@
-[b]Abidjan[/b]
-a [region=0000] region
+[hr][list][color=643216][b]Abidjan[/b][/list][hr]
+
+[hr]CITY[list]the economic capital of [region=Cote dIvoire] (C&ocirc;te d&#39;Ivoire)
+6th largest city in Africa
+[region=Yamoussoukro] replaced [b]Adijan[/b] as capital 1983
+[b]Population:[/b] 3,677,115 (2020)
+[b]Area:[/b] 2,119 km2 (818 sq mi)[/list][/color][hr]
+
+[hr][color=646400]REGION[list][b]Founded:[/b] 2016 May 18
+[b]Matrixed:[/b] 2020 Nov 26
+[b]Sister Region:[/b] [region=Cote dIvoire][/color][/list][hr]
