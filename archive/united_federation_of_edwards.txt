@@ -1,39 +1,40 @@
-As of 31 OCT 2020 (24,618 regions)
-14. Foreign Aid
-23. Welfare
-37. Pacifism
-46. Safety
-51. Integrity
-52. Taxation
-60. Eco-Friendliness
-60. Niceness
+As of 30 NOV 2020 (24,372 regions)
+13. Foreign Aid
+16. Welfare
+29. Pacifism
+36. Safety
+42. Integrity
+45. Taxation
+51. Niceness
+54. Eco-Friendliness
+57. Compassion
+58. Public Healthcare
 64. Cheerfulness
-67. Compassion
+66. Employment
 69. Public Transport
-70. Public Healthcare
-75. Government Size
-85. Inclusiveness
-99. Weather
-99. Tourism
-111. Environmental Beauty
-116. Public Education
-125. Lifespan
-162. Compliance
-169. Business Subsidization
-180. Youth Rebelliousness
-189. Intelligence
-200. Health
-263. Culture
-304. Average Income of Poor
+70. Government Size
+81. Inclusiveness
+84. Tourism
+91. Weather
+98. Environmental Beauty
+106. Public Education
+116. Lifespan
+143. Compliance
+151. Business Subsidization
+184. Health
+185. Youth Rebelliousness
+195. Intelligence
+242. Culture
+288. Average Income of Poor
 305. Survivors
-487. Secularism
-508. Human Development Index
-716. Industry: Book Publishing
-976. Average Income
-1051. Scientific Advancement
-1188. International Artwork
-1347. Law Enforcement
-1494. Economic Output
-1612. Recreational Drug Use
-1746. Employment
-1771. Income Equality
+475. Secularism
+497. Human Development Index
+1013. Average Income
+1107. Scientific Advancement
+1172. Law Enforcement
+1278. International Artwork
+1510. Income Equality
+1521. Economic Output
+1807. Industry: Information Technology
+2339. Nudity
+2969. Political Freedom
