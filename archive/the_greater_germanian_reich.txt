@@ -1,8 +1,14 @@
-[b][color=#000000][region]World Capital Germania[/region] stands at the heart of [region]The Greater Germanian Reich[/region] and it is from here the Germanian peoples stand united in regional and national solidarity as one great world power...
+[b][color=000000][region]Berlin City State[/region] ist die Hauptstadtregion von [region]The Greater Germanian Reich[/region][/color]
+[color=#a80303]Hymne:[/color][url=https://www.youtube.com/watch?v=-9OUJcbgnXg]Was ist des Deutschen Vaterland?[/url]
+[color=#a80303]Diktator f&uuml;rs Leben:[/color] [nation]Der Fuhrer und Reichskanzler[/nation]
+[color=#a80303]Politische Partei:[/color] [region]Germanian Volkspartei[/region]
+[color=#a80303]Volk:[/color] [color=000000]Germanian[/color]
+[color=#a80303]Offizielle Sprachen:[/color] [color=000000]Westgermanisch, Englisch[/color]
+[color=#a80303]Religion:[/color] [color=000000]Christentum[/color]
 
-[region]The Greater Germanian Reich[/region] is comprised of all Germanian nations and allies that believe in the principles of Nationalism, Christianity and Stratocracy within a common land
+Historical Regions 
+[region]Anschluss[/region]
+[region]Reichsgau Sudetenland[/region]
 
-1938 [region]Anschluss[/region]
 
-Navy: [region]The Black Fleet[/region]
-Crusaders: [region]National Christian Armed Forces[/region][/color][/b]
+[/b]
