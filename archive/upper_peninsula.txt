@@ -1,1 +1,5 @@
-[color=green][b]Upper Peninsula[/b][/color]
+[color=green][b]Upper Peninsula[/b]
+
+this is a [region=Michigan] region
+
+[b]Yes, Embassy offers are accepted now[/b][/color]

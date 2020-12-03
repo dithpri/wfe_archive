@@ -1,0 +1,7 @@
+The Imperian Army is The Army of [region]Imperian Alliance[/region].
+We do not accept embassies from foreign regions.
+Motto: Exercitus imperium Fortis est!
+Commander: John Wick
+Base: Imperian Army,???,[nation]Imperian Union[/nation]
+Allies: [region]Imperian Alliance[/region] (as owner)
+Enemies: N/A
