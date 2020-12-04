@@ -1,14 +1,11 @@
-[b][color=000000][region]Berlin City State[/region] ist die Hauptstadtregion von [region]The Greater Germanian Reich[/region][/color]
-[color=#a80303]Hymne:[/color][url=https://www.youtube.com/watch?v=-9OUJcbgnXg]Was ist des Deutschen Vaterland?[/url]
+[b][color=#a80303]Hauptstadtregion:[/color] [region]Berlin City State[/region]
+[color=#a80303]Hymne:[/color] [url=https://www.youtube.com/watch?v=-9OUJcbgnXg]Was ist des Deutschen Vaterland?[/url]
 [color=#a80303]Diktator f&uuml;rs Leben:[/color] [nation]Der Fuhrer und Reichskanzler[/nation]
 [color=#a80303]Politische Partei:[/color] [region]Germanian Volkspartei[/region]
 [color=#a80303]Volk:[/color] [color=000000]Germanian[/color]
 [color=#a80303]Offizielle Sprachen:[/color] [color=000000]Westgermanisch, Englisch[/color]
 [color=#a80303]Religion:[/color] [color=000000]Christentum[/color]
 
-Historical Regions 
-[region]Anschluss[/region]
-[region]Reichsgau Sudetenland[/region]
+[color=#a80303]Historical Regions:[/color] &amp;#10016; [region]Anschluss[/region] &amp;#10016; [region]Reichsgau Sudetenland[/region]
 
-
-[/b]
+[color=black][i]Heil [nation]Der Fuhrer und Reichskanzler[/nation] Mich Selber ![/i][/color][/b]

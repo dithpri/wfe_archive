@@ -1,1 +1,12 @@
-[color=green][b]North Columbia[/b][/color]
+[color=006300][b]North Columbia[/b][/color]
+
+[color=636300]REGION
+[b]Founded:[/b] 2019 Sep 11
+[b]Featured:[/b] 2020 Sec 04
+[b]Sister Rgions:[/b] [region=Columbia]
+- Also: [region=East Columbia]; [region=South Columbia]; and [region=West Columbia]
+The four cardinal regions were initially created to support the region [region=Columbia]
+Only this region became a puppet storage region open to embassy offers.
+[b]Allied with:[/b] [region=United States of America][/color]
+
+[color=006300][b]Embassy Offers Accepted[/b][/color]
