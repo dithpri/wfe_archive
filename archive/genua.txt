@@ -6,11 +6,8 @@
 
 &amp;#10026; HIGH COMMAND:[region]OBERKOMMANDO DER WEHRMACHT[/region]
 Fuhrer und Reichskanzler: [nation]Numerous Currencies[/nation]
-The Black Fleet Commander: [nation]Eaglemount[/nation]
 OberGruppenFuhrer:[nation]Gods Pure Land[/nation]
 OberGruppenFuhrer: [nation]Deutsches und Italienisches Kaiserreich[/nation]
+GruppenFuhrer: [nation]Sstrayaa[/nation]
 
-&amp;#10026; MILITARY HQRS: [region]The ATLAS UNION[/region]
-
-&amp;#10026; NAVY: [region]THE BLACK FLEET[/region]
-[/color][hr][url=https://discord.gg/uSeakKQb9k]Discord[/url][/b]
+&amp;#10026; MILITARY HQRS: [region]The ATLAS UNION[/region][hr][url=https://discord.gg/uSeakKQb9k]Discord[/url][/b][/color]
