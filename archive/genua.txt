@@ -6,7 +6,7 @@
 
 &amp;#10026; HIGH COMMAND:[region]OBERKOMMANDO DER WEHRMACHT[/region]
 Fuhrer und Reichskanzler: [nation]Numerous Currencies[/nation]
-OberGruppenFuhrer:[nation]Gods Pure Land[/nation]
+OberGruppenFuhrer:[nation]Gods Crusader Levant[/nation]
 OberGruppenFuhrer: [nation]Deutsches und Italienisches Kaiserreich[/nation]
 GruppenFuhrer: [nation]Sstrayaa[/nation]
 
