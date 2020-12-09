@@ -1,11 +1,13 @@
-[b][color=red][i][region]Great Chuliu Empire[/region] is a Southeastern Asia region. One of the world&#39;s most prosperous countries with strong trading links, we are a multi-ethnic Christian region with a majority Chuliu population that values family, traditions and heritage[/i][/color]
+[i]Protected State[/i] of [region]The Black Fleet[/region] 
 
-[color=#cc9900][u]Government type[/u][/color]: Constitutional Monarchy
-[color=#cc9900][u]Honorable Founder - His Imperial Highness[/u][/color]: [nation]Chuliu Emperor[/nation]
-[color=#cc9900][u]Honorable Chairman[/u][/color]: [nation]Eaglemount[/nation]
-[color=#cc9900][u]Capital[/u][/color]: Chuliu Emperor City
-[color=#cc9900][u]Official Language[/u][/color]: Chuliu Language
-[color=#cc9900][u]Official Religion[/u][/color]: Christianity
-[color=#cc9900][u]Recognized Religions[/u][/color]: Christianity 60%, Buddhism 20%, Judaism 20%
+[b][color=#fc0f03]Located in Southeastern region, the [region]Great Chuliu Empire[/region] is one of the world&#39;s most prosperous countries with strong trading links. A multi-ethnic Christian region with a majority Chuliu population that values family, traditions and heritage[/color]
 
+[color=#d67e02][u]Government[/u][/color]: Constitutional Monarchy
+[color=#d67e02][u]Honorable Founder - His Imperial Highness[/u][/color]: [nation]Chuliu Emperor[/nation]
+[color=#d67e02][u]Honorable Chairman[/u][/color]: [nation]Eaglemount[/nation]
+[color=#d67e02][u]Capital[/u][/color]: Chuliu Emperor City
+[color=#d67e02][u]Official Language[/u][/color]: Chuliu Language
+[color=#d67e02][u]Official Religion[/u][/color]: Christianity
+[color=#d67e02][u]Recognized Religions[/u][/color]: Christianity 60%, Buddhism 20%, Judaism 20%
+[color=#d67e02][u]Trade Items[/u][/color]:
 [/b]
