@@ -4,7 +4,7 @@
 
 
 Government:
-Prime Minister: ,[nation][/nation]
+Prime Minister: [nation]The Free Land of Free Peodons[/nation]
 Deputy Prime Minister [nation]TBA[/nation]
 Home Affairs Minister [nation]TBA[/nation]
 Culture Minister [nation]TBA[/nation]
