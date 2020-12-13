@@ -12,7 +12,7 @@ REGION
 [region=Imperio do Brasil]; [region=Old Spirit]; [region=404 Not Found]; [region=Maya]; 
 [region=Queen Elizabeth Islands]; [region=The Awakening]; [region=Joint Command]; 
 [region=God Complex]; [region=Dao]; [region=Western Africa]; [region=Freedom Front]; [region=Black Dragons]; 
-[region=The Alliance Headquarters]; [region=North Carolina]; [region=Westminster].[/list][/color][color=navy]
+[region=The Alliance Headquarters]; [region=North Carolina]; [region=Westminster]; [region=Pacific Union].[/list][/color][color=navy]
 [b]Links:[/b] Thanks [region=Texas] for the tools to make this game easier
 [list][url=http://texasregion.net/nsdossier/embassyOracle.aspx]Oracle[/url]
 This link determines the degree of separation between two regions

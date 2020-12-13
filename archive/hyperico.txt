@@ -3,10 +3,13 @@
 [b][url=https://discord.gg/4rhasurjxn][color=#a20017]Our Regional Discord Server[/color][/url][/b]
 
 [hr]Government Of Hyperico
-[color=#33bd66]President[/color] Of [region]Lisseum[/region]| [nation]Fourt Elizabeth[/nation]
+[color=#33bd66]President[/color] Of [region]Lisseum[/region]| [nation]Kor Pantaal[/nation]
 [color=#737900]Founder[/color] | [nation]Hyperico Founder[/nation]
-[color=#ff0025]Legate[/color] | [nation]Hyperico[/nation] 
+[color=#ff0004]Legate[/color] | [nation]Hyperico[/nation] 
 [color=#daa520]Prefect[/color] | 
+[color=#00de9b]Proconsul[/color] | 
 [color=#b30000]Centurion[/color] Of Actiones | 
 [color=#b30000]Centurion[/color] Of Internum Negotiis | 
-[color=#b30000]Centurion[/color] Of Externae Negotiis |
+[strike][color=#b30000]Centurion[/color] Of Externae Negotiis |[/strike] Office Rendered Null
+[color=#d71e00]Primus Pilus[/color] |
+[hr] Current [nation=noflag]Hyperico Representative[/nation] To [region]Lisseum[/region] | [nation]Hyperico[/nation]
