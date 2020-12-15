@@ -1,0 +1,30 @@
+[b]Why hello there traveler, sit down, get a cup of joe or some soothing tea, get a biscuit, and talk to everyone![/b]
+Menu forever:
+[b]Teas:[/b]
+-Green Tea 1.99
+-Orange Tea 1.49
+-Mystery Tea ???
+-Black Tea .99
+-Iced Tea 3.49
+-Peppermint Tea 3.99
+[b]Coffees:[/b]
+-Espresso 2.49
+-Cappuccino 1.99
+-Dark Roast 1.49
+-Really Dark Roast 1.99
+-Black Hole Roast 2.49
+-Iced Coffee 2.99
+-Super Iced Coffee 4.49
+[b]Bakery Items:[/b]
+-Apple Fritter .99/apple fritter
+-Donut .49/donut
+  1. Chocolate
+  2. Orange
+  3. Mystery
+  4. Chocolate Bar
+  5. Maple Bar
+  6. Donut Holes
+-Cookie or Biscuit .49/cookie or biscuit
+-Scone .99/scone
+
+All embassy requests are welcome.

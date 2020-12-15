@@ -1,1 +1,2 @@
-[color=green][b]000000[/b] (6 0s)[/color]
+[color=green][b]000000[/b] (6 0s)
+this is a [region=0000] sister region[/color]
