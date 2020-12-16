@@ -5,7 +5,7 @@ Principality of Liechtenstein  [/b]
 
 [b]Location[/B]
 
-[b]Capital[/b] Vaduz
+[b]Capital[/b] [NATION]VADUZZ[/NATION]
 47 &deg; 08.5&amp;#8242;N 9 &deg; 31.4&amp;#8242;E
 
 [b]Most populous city[/b][nation]Schaann[/nation]
