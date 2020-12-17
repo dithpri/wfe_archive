@@ -1,1 +1,9 @@
-.
+[b]Welcome to Lugia![/b]
+
+This is the home region of the Jump Squad, a group of puppets that create random regions to find new jump points.
+
+[spoiler=Jump points found]
+[list=1]
+[*][region]Latios[/region]
+[/list]
+[/spoiler]
