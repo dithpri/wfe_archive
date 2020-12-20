@@ -1,29 +1,32 @@
-[u][b]Population[/b][/u]: 5 [b]M[/b]
+[u][b]Population[/b][/u]: 6 [b]M[/b]
 
-[u][b]Life Expectancy[/b][/u]: 64.24yrs
+[u][b]Life Expectancy[/b][/u]: 65.76yrs
 
-[u][b]Political Freedoms[/b][/u]: 84.33
+[u][b]Political Freedoms[/b][/u]: 84.67
 
-[u][b]Civil Rights[/b][/u]: 80.11
-
-[hr]
-
-[u][b]Economy[/b][/u]: 74.67 (Very Strong)
-
-[u][b]RDP[/b][/u]: [color=green][b][][/b][/color]317 [b]B[/b]
-
-[u][b]RDP per capita[/b][/u]: [color=green][b][][/b][/color]63,400.00
-
-[u][b]Currency[/b][/u]: [color=green][b]$[/b][/color]1.00 = [color=green][b][][/b][/color]1.53
-
-[u][b]Unemployment Rate[/b][/u]: 27.81[b]%[/b]
-
-[u][b]P10%[/b][/u]: [color=green][b][][/b][/color]19,908.94 [u][b]Middle Class[/b][/u]: [color=green][b][][/b][/color]63,519.01 [u][b]R10%[/b][/u]: [color=green][b][][/b][/color]166,644.00
+[u][b]Civil Rights[/b][/u]: 75.11
 
 [hr]
 
-[u][b]Revenue[/b][/u]: [color=green][b][][/b][/color]22.19 [b]B[/b]
+[u][b]Economy[/b][/u]: 77.07 (Very Strong) ([color=green]+2.4[/color])
 
-[u][b]Spending[/b][/u]: [color=green][b][][/b][/color]26.8 [b]B[/b]
+[u][b]RDP[/b][/u]: [color=green][b][][/b][/color]393[b]B[/b]
 
-[u][b]Balance[/b][/u]: [color=red][b]-[][/b]4.61[/color] [b]B[/b]
+[u][b]RDP per capita[/b][/u]: [color=green][b][][/b][/color]65,633.00
+
+[u][b]Currency[/b][/u]: [color=green][b]$[/b][/color]1.00 = [color=green][b][][/b][/color]1.56
+
+[u][b]Unemployment Rate[/b][/u]: 27.89[b]%[/b]
+
+[u][b]P10%[/b][/u]: [color=green][b][][/b][/color]20,702.38 ([color=green]+793.44[/color]) [u][b]Middle Class[/b][/u]: [color=green][b][][/b][/color]65,633.74 ([color=green]+2,114.73[/color]) [u][b]R10%[/b][/u]: [color=green][b][][/b][/color]171,386.00 ([color=green]+4,742.00[/color])
+
+[hr]
+
+[u][b]Revenue[/b][/u]: [color=green][b][][/b][/color]31.047[b]B[/b]
+
+[u][b]Spending[/b][/u]: [color=green][b][][/b][/color]39.7[b]B[/b]
+
+[u][b]Balance[/b][/u]: [color=red][b]-[][/b]8.653[/color] [b]B[/b]
+
+
+([i]Calculations are based on internal game statistics and NSEconomy Formulae[/i])
