@@ -1,32 +1,32 @@
-[u][b]Population[/b][/u]: 7 [b]M[/b]
+[u][b]Population[/b][/u]: 12.849 [b]B[/b]
 
-[u][b]Life Expectancy[/b][/u]: 64.9yrs
+[u][b]Life Expectancy[/b][/u]: 69.29yrs
 
-[u][b]Political Freedoms[/b][/u]: 84.67
+[u][b]Political Freedoms[/b][/u]: 50.76
 
-[u][b]Civil Rights[/b][/u]: 75.52
-
-[hr]
-
-[u][b]Economy[/b][/u]: 78.67(Very Strong) ([color=green]+1.6[/color])
-
-[u][b]RDP[/b][/u]: [color=green][b][][/b][/color]468[b]B[/b]
-
-[u][b]RDP per capita[/b][/u]: [color=green][b][][/b][/color]66,881.00
-
-[u][b]Currency[/b][/u]: [color=green][b]$[/b][/color]1.00 = [color=green][b][][/b][/color]1.58
-
-[u][b]Unemployment Rate[/b][/u]: 27.87[b]%[/b]
-
-[u][b]P10%[/b][/u]: [color=green][b][][/b][/color]20,962.71 ([color=green]+260.33[/color]) [u][b]Middle Class[/b][/u]: [color=green][b][][/b][/color]66,881.02 ([color=green]+1,247.28[/color]) [u][b]R10%[/b][/u]: [color=green][b][][/b][/color]175,464.00 ([color=green]+4,078.00[/color])
+[u][b]Civil Rights[/b][/u]: 43.11
 
 [hr]
 
-[u][b]Revenue[/b][/u]: [color=green][b][][/b][/color]36.504[b]B[/b]
+[u][b]Economy[/b][/u]: 43.59(Reasonable) ([color=red]-35.08[/color])
 
-[u][b]Spending[/b][/u]: [color=green][b][][/b][/color]46.7[b]B[/b]
+[u][b]RDP[/b][/u]: [color=green][b][][/b][/color]59.28[b]T[/b]
 
-[u][b]Balance[/b][/u]: [color=red][b]-[][/b]10.196[/color] [b]B[/b]
+[u][b]RDP per capita[/b][/u]: [color=green][b][][/b][/color]4,613.22
+
+[u][b]Currency[/b][/u]: [color=green][b][][/b][/color]1.00 = [color=green][b]$[/b][/color]0.24
+
+[u][b]Unemployment Rate[/b][/u]: 30.16[b]%[/b]
+
+[u][b]P10%[/b][/u]: [color=green][b][][/b][/color]21,334.54 ([color=green]+371.83[/color]) [u][b]Middle Class[/b][/u]: [color=green][b][][/b][/color]40,213.65 ([color=red]-26,667.37[/color]) [u][b]R10%[/b][/u]: [color=green][b][][/b][/color]75,327([color=red]-100,137.00[/color])
+
+[hr]
+
+[u][b]Revenue[/b][/u]: [color=green][b][][/b][/color]4.62[b]T[/b]
+
+[u][b]Spending[/b][/u]: [color=green][b][][/b][/color]53.3[b]B[/b]
+
+[u][b]Balance[/b][/u]: [color=green][b]+[][/b]4.567[/color] [b]T[/b]
 
 
-([i]Calculations are based on internal game statistics and NSEconomy Formulae[/i])
+([i]Calculations are based on internal game statistics, NSEconomy Formulae, &amp; NS Dossier[/i])
