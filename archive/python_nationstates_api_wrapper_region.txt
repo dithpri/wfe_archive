@@ -1,1 +1,1 @@
-Hello - This region is to house the Test nation used for pynationstates - a python wrapper for the nationstates wrapper
+Hello - This region is to house the Test nations used for pynationstates - a python wrapper for the nationstates api
