@@ -1,1 +1,6 @@
-[region]Imperial Earth[/region]
+[b][region]Imperial Earth[/region]
+[color=red][i]Acting Globally for National Defense[/i][/color][hr]
+
+[nation=long]Eagle Station One[/nation]
+[region]Greater Germanian Reich[/region] 
+[/b]
