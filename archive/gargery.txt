@@ -18,4 +18,4 @@ Do [b]NOT[/b] expect embassy requests to be accepted.
 
 This region is currently in [u][color=red]Uninhabited[/color][/u] mode.
 
-Current threat level to [region]The Region Of Gargery[/region] (non backup)= [u][b][color=red]High[/color][/b][/u]
+Current threat level to [region]The Region Of Gargery[/region] (non backup)= [u][b][color=green]Low[/color][/b][/u]
