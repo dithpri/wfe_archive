@@ -4,6 +4,7 @@
 [color=black]&amp;#128165; Recommissioned:[/color] [color=#383631]January 1st 2021[/color]
 [color=black]&amp;#128165; Naval Component:[/color] [color=#383631]Reichswehr[/color]
 [color=black]&amp;#128165; Parent Agency:[/color] [region]The Greater Germanian Reich[/region]
+[color=black]&amp;#128165; Reichspr&auml;sident:[/color] [nation]Mich Selber[/nation]
 [color=black]&amp;#128165; Political Officer:[/color] [nation=short]Johann Flussbruecke[/nation]
 [hr][color=black]&amp;#128165; Mission:[/color]  [color=#383631]Dedicated solely to the eradication of [region]The Red Fleet[/region][/color] and the [region]Korean Peoples Navy[/region]
 [color=black]&amp;#128165; Recruitment:[/color]  [color=#383631]Open to all nationalities under Reich laws[/color]

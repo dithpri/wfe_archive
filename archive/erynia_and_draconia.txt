@@ -1,0 +1,20 @@
+Home to the several states that make up [nation=long]Erynia and Draconia[/nation].
+
+~~~
+
+[b][nation=long]Erynia and Draconia[/nation][/b]
+Capital City: [nation=noflag]Eryn City[/nation]
+Motto: &#147;Peace, freedom, and equality&#148;
+National language: Ravellian
+Member states:
+- [nation=noflag]The Democratic State of Draconia[/nation]
+- [nation=noflag]New Portland[/nation]
+- [nation=noflag]Eryn City[/nation]
+- [nation=noflag]Cylin[/nation]
+- Erbin
+- Ryven
+- Kentien
+- East Erynia
+- North Erynia
+- Askodia
+- Northton
