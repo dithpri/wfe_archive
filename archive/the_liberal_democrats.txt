@@ -10,3 +10,4 @@ President: [Nation]NIMBYs[/Nation]
 Senators:
 [Nation]Cappedore[/Nation] - Senate Consul
 [Nation]Rosuva[/Nation]
+[Nation]NIMBYs[/Nation]
