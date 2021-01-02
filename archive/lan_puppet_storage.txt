@@ -1,6 +1,6 @@
 [i][B]PROPERTY OF [region]LEAGUE OF ALLIED NATIONS[/region][/B][/i]
 
--All Laws in the constitution apply here
--[nation]Shnookle[/nation] is recognised as Head of State
--Administration is ran by [nation]South Anistania[/nation]
--Only LAN nations may hold there puppets in this region
+-[B][color=red]All Laws in the constitution apply here[/color][/B]
+-[B][color=gold][nation]Shnookle[/nation] is recognised as Head of State[/color][/B]
+-[B][color=blue]Administration is ran by [nation]South Anistania[/nation][/color][/B]
+-[B][color=purple]Only LAN nations may hold there puppets in this region[/color][/B]
