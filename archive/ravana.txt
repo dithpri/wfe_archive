@@ -19,7 +19,7 @@ Members of Parliament: [list]
 [*] [nation]Northern Mount Celestia[/nation] [IND]
 [*] [nation]Nopengie[/nation] [RMP]
 [*] [nation]Monarchic state of Mughals[/nation]
-[*] Empty
+[*][nation]Foxxistan[/nation]
 _________________________________________________________________________
 
 [color=Purple][b]The best way to predict the future is to create it[/b][/color]
