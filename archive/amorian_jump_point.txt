@@ -9,6 +9,7 @@ Password is &#39;amore&#39;.
 [nation]Galassia[/nation] : [region]Philosophy[/region]
 [nation]Vuoto Amore[/nation] : [region]Forest[/region]
 [nation]Meteora Amore[/nation] : [region]St Abbaddon[/region]
+[nation]Glitch Amore[/nation] : [region]Use of uninitialized value[/region]
 
-Retired Amore Puppets:
-[nation]Mare Amore[/nation], [nation]Pianeta Amore[/nation], [nation]Yuno Amore[/nation], [nation]Patata Amore[/nation], [nation]Tempo amore[/nation], [nation]Etere amore[/nation], [nation]Aria amore[/nation], [nation]Luce amore[/nation], [nation]Impero amore[/nation], [nation]Foresta amore[/nation], [nation]Celere amore[/nation], [nation]Anima amore[/nation], [nation]Glitch Amore[/nation], [nation]Sacro amore[/nation], [nation]Nebulosa amore[/nation], [nation]Magia amore[/nation], [nation]Tesoro Amore[/nation], [nation]Vita amore[/nation], [nation]Ombra amore[/nation], [nation]cosmo amore[/nation], [nation]epoca amore[/nation], [nation]fuoco amore[/nation].
+The Amore Puppets Formerly Known As Retired:
+[nation]Mare Amore[/nation], [nation]Pianeta Amore[/nation], [nation]Yuno Amore[/nation], [nation]Patata Amore[/nation], [nation]Tempo amore[/nation], [nation]Etere amore[/nation], [nation]Aria amore[/nation], [nation]Luce amore[/nation], [nation]Impero amore[/nation], [nation]Foresta amore[/nation], [nation]Celere amore[/nation], [nation]Anima amore[/nation], [nation]Sacro amore[/nation], [nation]Nebulosa amore[/nation], [nation]Magia amore[/nation], [nation]Tesoro Amore[/nation], [nation]Vita amore[/nation], [nation]Ombra amore[/nation], [nation]cosmo amore[/nation], [nation]epoca amore[/nation], [nation]fuoco amore[/nation], [nation]Eterno amore[/nation], [nation]Tuono Amore[/nation].
