@@ -1,4 +1,4 @@
-[b]Welcome to Hyperico![/b]
+[b]Welcome to The Sovereign Principate Of Hyperico![/b]
 [u][i]Founded 10th of December, 2020[/i][/u]
 [u][i]Annexed by Lisseum on December, 15th, 2020[/i][/u]
 [u][i]Declared Independent from Lisseum on January, 7th, 2021[/i][/u]
@@ -8,7 +8,6 @@
 [color=#737900]Princeps[/color] | [nation]Hyperico Founder[/nation]
 [color=#ff0004]Legate[/color] | [nation]Hyperico[/nation] 
 [color=#daa520]Prefect[/color] | [nation]Goodrum[/nation]
-[color=#00de9b]Proconsul[/color] | 
 [color=#b30000]Centurion[/color] Of Actiones | 
 [color=#b30000]Centurion[/color] Of Internum Negotiis | [nation]Goodrum[/nation]
 [color=#b30000]Centurion[/color] Of Externae Negotiis |
