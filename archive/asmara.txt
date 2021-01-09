@@ -1,7 +1,15 @@
-[color=navy][b]Asmara[/b], [region=Eritrea]
-Capital City of Eritrea
+[color=navy][b]Asmara[/b]
+[/color][color=green]
+Capital and largest City of Eritrea
+[b]Population:[/b]  963,000 (2020)
+[b]Area:[/b] 45 km[sup]2[/sup]
+[b]Elevation:[/b] 2,325 metres (7,628 ft)
+ it is the sixth highest capital in the world
 [/color][color=olive]
-this is a [region=0000] region.
-Associated with: [region=Mitsiwae]
-an oracle embassy region (DBA Alliance)[/color][color=red]
-sorry - no embassy offers accepted at this time[/color]
+REGION
+a [region=0000] Puppet Storage Region
+[b]Founded:[/b] 2016 May 18
+[b]Puppet Storage Region:[/b] 2019 Aug 22
+[b]Matrixed:[/b] 2020 Aug 29 (accepts embassies since)
+[b]Featured:[/b] 2021 Jan 09[/color][color=green]
+[b]Embassy Offers Accepted[/b][/color]

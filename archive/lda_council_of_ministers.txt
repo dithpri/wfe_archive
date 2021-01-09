@@ -6,5 +6,5 @@ Minister of the Interior: [nation=long]France Europe[/nation]
 Minister of Foreign Affairs: [nation=long]Rubescovia[/nation]
 Minister of Government Spokesperson: [nation=long]Of the Alps[/nation]
 Minister of Justice: [nation=long]Supierland[/nation]
-[u]Supreme Court:[/u]Chief Justice: [/b]
+[u]Supreme Court:[/u]Chief Justice: [nation=long]Sword Island[/nation][/b]
 [hr]Members of the government are asked to tag other members to ensure activity in the room.

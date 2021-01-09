@@ -39,5 +39,3 @@ Holding region for undeployed Amore puppets.
 [nation]Vuoto Amore[/nation]
 [nation]Yuno Amore[/nation][/spoiler]
 
-Password is &#39;amore&#39;.
-
