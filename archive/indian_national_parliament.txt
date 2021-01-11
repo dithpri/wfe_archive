@@ -1,16 +1,11 @@
-[Color=orange]Welcome to the Parliament of [region]India[/region]![/Color]
+[b][color=orange]Welcome to the Parliament of [/color][color=green][region]India[/region].
 
-[Color=green]
-Bill at Vote: None
-Bill at Debate: None
+Bill at vote:
+Bill at debate:
+Bill(s) in queue: None
 
-Bill(s) at queue: None
+Previous bill: Act for protection of ideologies
+Speaker: [nation]Madhyarashtra[/nation]
 
-Previous Bill: Act for Protection of Ideologies
-
- [b]Speaker[/b] : [nation]Madhyarashtra[/nation]
- [b]Members[/b] : [URL=https://www.nationstates.net/region=indian_national_parliament/page=display_region_rmb?postid=41122337#p41122337] Click Here[/URL]
-
- Fellow Parliamentarians, please read the [URL=https://www.nationstates.net/page=dispatch/id=1436172]Guidelines[/URL] before starting the session.
-
-[/Color]
+Fellow Parliamentarians, please read the guidelines before starting the session.[/color]
+[/b]
