@@ -1,6 +1,6 @@
 This is a very dank region.
 
-Do not enter [region]That Place 2[/region]
+[color=Red]Do not enter[/color] [region]That Place 2[/region]
 
 
 
