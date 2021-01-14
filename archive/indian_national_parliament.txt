@@ -1,4 +1,6 @@
-[b][color=orange]Welcome to the Parliament of [/color][color=green][region]India[/region].
+[B]TERRITORY OF [region]GENUA[/region]
+[/B]
+[b][color=green]The Parliament of [region]India[/region] is annexed by the knights of [region]GENUA[/region].
 
 Bill at vote:
 Bill at debate:
@@ -7,5 +9,5 @@ Bill(s) in queue: None
 Previous bill: Act for protection of ideologies
 Speaker: [nation]Madhyarashtra[/nation]
 
-Fellow Parliamentarians, please read the guidelines before starting the session.[/color]
+[/color]
 [/b]
