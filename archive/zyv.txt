@@ -2,6 +2,3 @@ Welcome to Zyv!
 
 [hr]
 
-[b]NEWS[/b]
-
-AF requested a Puppet Storage and we accepted.
