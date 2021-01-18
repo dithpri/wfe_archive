@@ -4,3 +4,4 @@ HM The King: [nation]Nessalt Founder[/nation]
 Prime Minister: [nation]Ascotria[/nation]
 Unicameral Legislature: National Assembly
 Established January 12, 2020 AD
+Armed Forces: [region]Nessaltic Armed Forces[/region]
