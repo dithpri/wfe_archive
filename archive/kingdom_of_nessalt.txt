@@ -2,6 +2,7 @@ Welcome to the Kingdom of Nessalt
 Government: Constitutional Monarchy
 HM The King: [nation]Nessalt Founder[/nation]
 Prime Minister: [nation]Ascotria[/nation]
+Archbishop: [nation]CrimsonScribbles[/nation]
 Unicameral Legislature: National Assembly
 Established January 12, 2020 AD
 Armed Forces: [region]Nessaltic Armed Forces[/region]
