@@ -1,11 +1,12 @@
 [list][color=green][b]Banana[/b]
+[i]Alpha Oracle[/i]
 
 REGION
 [list][b]Founded:[/b] 2020 March 22 (refounded)
 - FIRST REGION
 - ORACLE PRIME
 - a QSA region
-- Alliance of 430 matrix regions and about 2000 oracle regions, including:[list]
+- Alliance including:[list]
 [region=Hsiao Han]; [region=Two Letter]; [region=Society of Commissioned Gentlemen]; 
 [region=United States of America]; [region=Ancient Lands]; [region=The Central Pacific]; 
 [region=Kingdom Of England And Wales]; [region=Northern Africa]; [region=0000]; [region=DBA]; 
