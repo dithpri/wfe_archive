@@ -4,4 +4,5 @@ The lands under the light of Syanna. A glorious empire that promotes peace, dipl
 The empire is split into smaller &quot;regions&quot;, with each region having an [i]Authority State[/i] who acts as a representative and head of that region.
 
 [b][u]regions:[/u][/b]
--European nations (authority = [nation]The Great Poland-Lithuanian Union[/nation])
+-European nations [i](authority = [nation]The Great Poland-Lithuanian Union[/nation])[/i]
+-Saharan (North African) nations [i](authority = [nation]Satans Kawn[/nation])[/i]

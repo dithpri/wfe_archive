@@ -1,2 +1,8 @@
 [color=green][b]Cemetery
-Founded:[/b] 2017 Aug 05[/color]
+Founded:[/b] 2017 Aug 05
+[b]Allied Regions:[/b]
+- [region=Boneyard]
+- [region=Crematorium]
+- [region=Temple Hill]
+- [region=Woodlawn]
+[/color]
