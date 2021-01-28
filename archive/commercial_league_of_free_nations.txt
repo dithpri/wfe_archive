@@ -1,11 +1,5 @@
-[b]A region where nations may come and trade![/b]
+[b]This region is founded for commerce and diplomacy. This region is perfect for all nations: from empires to republics, from confederations to kingdoms.[/b]
 
 [hr]
 
-Liberated from the Black Hawks on 27 January 2021 by
-
-[region]Lyrali[/region]
-[list][*][nation]The United Oceanian Isles[/nation], Founder[*][nation]Frontier Isles[/nation], WA Delegate[/list]
-[region]Besondere Empire[/region] - [region]The Defenders of Nations and States[/region] Joint Special Operations Task Force[list][*][nation]The Older Isles[/nation], Commander[*][nation]Enicard[/nation], Deputy Commander[*][nation]East Pole[/nation], Secretary-General[/list]
-Independent Nations
-[list][*][nation]Commercial Island[/nation], Former resident of the [region]COMMERCIAL LEAGUE OF FREE NATIONS[/region][/list]
+Founded by [nation]Repubblica Americana[/nation]. Liberated from the Black Hawks on 27 January 2021.
