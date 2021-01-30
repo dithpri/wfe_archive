@@ -1,1 +1,1 @@
-print(&quot;Hello World!&quot;)
+There are three kinds of snake: the python, the boa constrictor (binomial name: [i]boa constrictor[/i]), and all the other kinds of snake.
