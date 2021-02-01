@@ -12,8 +12,8 @@ Dalhousie University
 Port of Halifax and Halifax Shipyard
 [/color][color=olive]
 REGION
-this is a Queen&#39;s State Allied Region
 [b]Founded:[/b] 2012 Dec 18
 [b]Featured:[/b] 2020 May 04
+a [region=0000] puppet storage region
 [/color][color=004D33]
-[b]Embassy Offers are Welcome[/b][/color]
+[b]Embassy Offers Welcome[/b][/color]
