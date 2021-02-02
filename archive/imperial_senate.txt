@@ -3,21 +3,20 @@
 [hr][hr]
 
 [color=gold]&amp;#9812;[/color] [b]Leadership[/b] [color=gold]&amp;#9812;[/color]
-[list][b][i]Chancellor[/i]: [nation]Bennisia[/nation] [/b]
+[list][b][i]Chancellor[/i]: [nation]--[/nation] [/b]
 
 [list]
 
-[i]Deputy Chancellor[/i]: [i][nation]The Evile Empire[/nation][/i]
+[i]Deputy Chancellor[/i]: [i][nation]--[/nation][/i]
 
 [/list]
 
-[b][i]Shadow Chancellor[/i]: [nation]--[/nation] [/b]
 [/list][hr][hr]
 
-[b][u]Previous Business:[/b][/u] [b][i]The College of Arms Act[/i][/b]
+[b][u]Previous Business:[/b][/u] [i]The College of Arms Act[/i]
 [i]Bill passed.[/i]
 
-[b][u]Current Business:[/b][/u] [i]Recess[/i]
+[b][u]Current Business:[/b][/u] [i][b]Chancellor Election[/b][/i]
 
 [b][u]Next Business:[/u] [i]N/A[/i][/b]
 [hr][hr]

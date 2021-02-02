@@ -13,7 +13,7 @@
 [nation]Mantlionia[/nation]
 [nation]Neo Splatoonia[/nation] 
 [nation]Rabmarlo[/nation]
-[nation]Shilla Goguryeo[/nation]
+[nation]Shilla-Goguryeo[/nation]
 [nation]Sollimania[/nation]
 [nation]Paperino[/nation]
 [nation]Bamboulali[/nation]
@@ -26,4 +26,4 @@
 [nation]Rinne[/nation]
 [nation]Wakea[/nation]
 
-[color=yellow] We are open for embassy proposals. [region]Netraucora[/region] is the best region to live in.[/color]
+[color=navy] We are open for embassy proposals. [region]Netraucora[/region] is the best region to live in.[/color]
