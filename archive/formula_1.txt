@@ -1,16 +1,15 @@
-2021 - Confirmed teams and drivers
+2021 - Confirmed teams and drivers (number of GP)
 
-[nation]F e r r a r i[/nation] - Charles Leclerc* &amp; Carlos Sainz
-[nation]M c L a r e n[/nation] - Lando Norris &amp; Daniel Ricciardo*
-[nation]A l p i n e[/nation] - Esteban Ocon &amp; Fernando Alonso**
-[nation]A s t o n M a r t i n[/nation] - Sebastian Vettel** &amp; Lance Stroll
-[nation]W i l l i a m s[/nation] - George Russell &amp; Nicholas Latifi
-[nation]A l p h a T a u r i[/nation] - Yuki Tsunoda &amp; Pierre Gasly*
-[nation]M e r c e d e s[/nation] - Lewis Hamilton*** &amp; Valtteri Bottas*
-[nation]R e d B u l l[/nation] - Max Verstappen* &amp; Sergio Perez*
-[nation]A l f a R o m e o[/nation] - Kimi Raikkonen** &amp; Antonio Giovinazzi
-[nation]H a a s[/nation] - Nakita Mazepin &amp; Mick Schumacher
-
+[nation]M e r c e d e s[/nation] - ***Lewis Hamilton (266) &amp; *Valtteri Bottas (157)
+[nation]A s t o n M a r t i n[/nation] - **Sebastian Vettel (258) &amp; Lance Stroll (78)
+[nation]A l p i n e[/nation] - **Fernando Alonso (314) &amp; Esteban Ocon (67)
+[nation]A l f a R o m e o[/nation] - **Kimi Raikkonen (332) &amp; Antonio Giovinazzi (40)
+[nation]F e r r a r i[/nation] - Carlos Sainz (119) &amp; *Charles Leclerc (59)
+[nation]H a a s[/nation] - Mick Schumacher (0) &amp; Nakita Mazepin (0)
+[nation]M c L a r e n[/nation] - *Daniel Ricciardo (188) &amp; Lando Norris (38)
+[nation]R e d B u l l[/nation] - *Max Verstappen (119) &amp; *Sergio Perez (193)
+[nation]A l p h a T a u r i[/nation] - *Pierre Gasly (64) &amp; Yuki Tsunoda (0)
+[nation]W i l l i a m s[/nation] - George Russell (38) &amp; Nicholas Latifi (17)
 
 * Race Winner  
 ** World Champion  

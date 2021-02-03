@@ -1,8 +1,8 @@
 [color=scarlet]Welcome to the battleground![/color]
 
-[color=red]This region is currently occupied by: [/color]Nobody at the moment
+[color=red]This region is currently occupied by: [/color] [b][region]The Order of the Grey Wardens[/region][/b]
 
-
+A full list of occupants can be found [url=https://www.nationstates.net/page=dispatch/id=1500452][b]here[/b][/url] or in the pinned dispatches
 
 [b]What is the battleground?[/b]
 
