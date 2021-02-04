@@ -1,17 +1,1 @@
-[b]Welcome![/b]
-[hr]
-[b]Imperial Government[/b]
-
-[u]Imperator:[/u] [nation]Opiachus[/nation]
-[u]Consul:[/u] Appointed
-[u]Consul:[/u] Appointed
-[u]Praetors:[/u] [nation]Heiliges Preussiches Reich[/nation]
-
-[b]Crown Laws[/b]
-
-[u]Constitution:[/u] [url=http://www.nationstates.net/page=dispatch/id=310850]The Imperial Constitution of The Eastern Empire[/url]
-[u]Endorsement Cap:[/u] Unlimited
-[u]Regional Policies:[/u] World Assembly members may endorse anyone. Foreign embassies or legions must declare their arrival on the Regional Message Board. 
-[Hr]
-[B]Imperial Provinces:[/b] [region]German Front Lines[/region], [region]Catalyst[/region], [region]True Korea[/region], [region]The War Torn Southern Pacifc[/region]
-[B]Imperial Campaigns:[/b] None
+The Eastern Empire
