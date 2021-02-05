@@ -14,7 +14,7 @@ The Spider Crab
 
 [b][color=Navy]Commendation list:[/color][/b] (Get commendations by doing acts of bravery and intelligence)
 The Republic of [nation]Thean Randivace[/nation] (1)
-The Free Land of [nation]Nookville[/nation] (1)
+[nation=long]Nookville[/nation] (1)
 
 [b][color=crimson]TO DO LIST:[/color][/b]
 1. February Elections; Compile candidates

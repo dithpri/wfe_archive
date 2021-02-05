@@ -1,1 +1,14 @@
-&quot;Father knows best region&quot;
+[region]Kingdom Of Poilu[/region]
+
+Leader/Overseer:
+[nation]Poilu[/nation]
+
+[b]As one region we will become great[/b]
+
+
+[u]With great power comes decisions[/u]
+
+
+
+Current Embassies:
+[region]The Black Hawks[/region]
