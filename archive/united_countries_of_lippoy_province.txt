@@ -1,3 +1,6 @@
-United Countries of Lippoy Province is a region in which human rights, equality and economy are in their front decisions.
+[region]United Countries of Lippoy Province[/region] is a region in which [b]human rights[/b], [b]equality[/b] and [b]economy[/b] are in their front decisions.
 
-The UCLP is composed of two member-states: USL, President of Region and RWHA, Vice-President.
+The UCLP is composed of three member-states: 
+- [b]United States of [nation]Lippoy[/nation][/b], [I]President, Founder and World Assembly Delegate[/i]; 
+- [b]Republic of [nation]Wess Ham Athr[/nation][/b], [i]Vice-President[/i];
+- [b]Holy Empire of [nation]La Crisie[/nation][/b], [i]Minister of Internal and Intelligence Affairs[/i].

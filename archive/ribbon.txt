@@ -1,5 +1,5 @@
 [table][tr][td]Region[/td][td]Series[/td][td]Increments[/td][/tr]
-[tr][td][region]Ribbon[/region][/td][td]Gembox series[/td][td]1-50 + G3M[/td][/tr]
+[tr][td][region]Ribbon[/region][/td][td]Gembox series[/td][td]1-113 + G3M[/td][/tr]
 [tr][td][region]Restriction[/region][/td][td]Gimbal Lock series[/td][td]I - X[/td][/tr]
 [tr][td][region]The Great Sea[/region][/td][td]Linkbot series[/td][td]1 - 10 + Outlook Island[/td][/tr]
 [tr][td][region]Elwynn Forest[/region][/td][td]Kobold Mine series[/td][td]I - X[/td][/tr]

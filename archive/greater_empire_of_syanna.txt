@@ -5,4 +5,4 @@ The empire is split into smaller &quot;regions&quot;, with each region having an
 
 [b][u]regions:[/u][/b]
 -European nations [i](authority = [nation]The Great Poland-Lithuanian Union[/nation])[/i]
--Saharan (North African) nations [i](authority = [nation]Satans Kawn[/nation])[/i]
+-African nations [i](authority = [nation]Satans Kawn[/nation])[/i]
