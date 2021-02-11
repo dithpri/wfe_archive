@@ -1,0 +1,7 @@
+population: us
+only join if you&#39;re all of the following:
+- high
+- cool 
+- awesome 
+- dope
+- an idiot
