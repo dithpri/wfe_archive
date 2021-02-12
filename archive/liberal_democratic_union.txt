@@ -1,8 +1,8 @@
-[b][i][color=darkblue]A region for liberal democracies committed to open, fair, compassionate society within a market economy where all people enjoy equal protection of civil rights and political freedoms.[/b][/color][/i]
+[b][color=darkblue]A region for liberal democracies committed to open, fair, compassionate society within a market economy where all people enjoy equal protection of civil rights and political freedoms.[/b][/color]
 
-[i][b][color=C2261F]Welcome!  Please endorse President [nation]Chitral[/nation][/b][/color][/i]
+[b][color=C2261F]Welcome!  Please endorse President [nation]Chitral[/nation][/b][/color]
 
-[i][b][color=Steelblue]The LDU is a new, member-led region, founded on the basis of sensible, pragmatic politics, where freedom of opinion and open debate is encouraged.  An antidote to the groupthink and ideological politics of regions occupying the far left and far right.[/color][/b][/i]
+[b][color=C2261F]The LDU is a new, member-led region, founded on the basis of sensible, pragmatic politics, where freedom of opinion and open debate is encouraged.  An antidote to the groupthink and ideological politics of regions occupying the far left and far right.[/color][/b]
 
 
 [hr][b]Links:[/b] 
@@ -15,4 +15,4 @@
 
 [hr][b][color=Red]Current Events[/color][/b]
 
-[i]Join us on the Regional Forum to get involved![/i]
+[b]Join us on the Regional Forum to get involved![/b]

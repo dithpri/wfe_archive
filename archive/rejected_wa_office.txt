@@ -1,16 +1,17 @@
 [b][color=#5a005a]Welcome to TRR WA Voting Office![/color][/b]
-[color=#800080]This region is for WA Residents who are not registered on the [url=https://rejectedrealms.com/]offsite forum[/url] to be able to cast their votes and provide opinions.[/color]
-
-[color=#800080][b]To vote you must either WA status on your nation in The Rejected Realms or hold citizenship on the forum.[/b]
-- You must have held residency and WA status in the region for 5 days prior to voting.
-- Citizens are exempt from the above requirement.
-- Anyone proscribed from the forum or discord is dissalowed from voting.[/color]
-
-[color=#a23077][b]Currently at Vote[/b][/color]
+[color=#800080]This region is for WA Residents who are not registered on the [url=https://rejectedrealms.com/]offsite forum[/url] to be able to cast their votes and provide opinions.[/color][color=#800080][b]
+ - Non-Citizen WA Voters must have been endorsing the delegate for 7 days before being able to vote.
+ - WA Voters must have been endorsing the delegate for the entirety of the vote - unless they hold citizenship.
+ - Anyone banned from off-site forum or discord is not allowed to vote.[/color][/b]
 
 [b][color=#b5237e][u][i]General Assembly[/i][/u]: [url=https://www.nationstates.net/page=ga]Right to Assemble[/url][/color][/b]
-
 [b][color=#c71585][u][i]Security Council[/i][/u]: [url=https://www.nationstates.net/page=sc]Commend Northern Borland[/url][/color][/b]
 
 [color=#ff1593]Please express your vote in [b]for[/b], [b]against[/b] or [b]abstain[/b] on the RMB below![/color]
-                                                            
+
+[b]Please vote with the following format:[/b]
+
+[b]&amp;lt;RESOLUTION YOUR ARE VOTING ON HERE&amp;gt;
+TRR Nation: 
+Do you hold Citizenship on the forum?: Yes/No
+Vote: For/Against/Abstain[/b]                               
