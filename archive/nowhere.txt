@@ -1,12 +1,9 @@
-[b][color=#43b4ff]W[/color][color=#47b2fb]e[/color] [color=#4fadf4]w[/color][color=#53abf0]e[/color][color=#57a9ec]n[/color][color=#5ba7e8]t[/color] [color=#63a2e0]c[/color][color=#67a0dd]a[/color][color=#6b9ed9]m[/color][color=#6f9bd5]p[/color][color=#7399d1]a[/color][color=#7797cd]i[/color][color=#7b95c9]g[/color][color=#7f92c6]n[/color][color=#8390c2]i[/color][color=#878ebe]n[/color][color=#8b8cba]g[/color][color=#8f8ab6].[/color] [color=#9785af]G[/color][color=#9b83ab]o[/color][color=#9f81a7]t[/color] [color=#a77c9f]s[/color][color=#ab7a9b]o[/color][color=#af7898]m[/color][color=#b37594]e[/color] [color=#bb718c]h[/color][color=#bf6f88]i[/color][color=#c36d84]t[/color][color=#c76a81]s[/color][color=#cb687d].[/color] [color=#d36475]C[/color][color=#d76171]h[/color][color=#db5f6d]a[/color][color=#df5d6a]s[/color][color=#e35b66]e[/color][color=#e75862]r[/color][color=#eb565e]s[/color] [color=#f35256]g[/color][color=#f74f53]o[/color][color=#fb4d4f]t[/color] [color=#fb4d4f]s[/color][color=#f75053]o[/color][color=#f35257]m[/color][color=#ef545b]e[/color] [color=#e65962]c[/color][color=#e25b66]h[/color][color=#de5d6a]a[/color][color=#da606e]s[/color][color=#d66272]e[/color][color=#d26476]s[/color][color=#ce667a].[/color] [color=#c66b82]S[/color][color=#c26d86]h[/color][color=#be708a]o[/color][color=#ba728e]u[/color][color=#b57491]t[/color][color=#b17695]o[/color][color=#ad7999]u[/color][color=#a97b9d]t[/color] [color=#a17fa5]t[/color][color=#9d82a9]h[/color][color=#9984ad]e[/color] [color=#9189b5]c[/color][color=#8d8bb9]h[/color][color=#888dbc]a[/color][color=#848fc0]s[/color][color=#8092c4]e[/color][color=#7c94c8]r[/color][color=#7896cc]s[/color][color=#7499d0].[/color]
-[color=#709bd4]C[/color][color=#6c9dd8]a[/color][color=#689fdc]m[/color][color=#64a2e0]p[/color][color=#60a4e4]a[/color][color=#5ca6e8]i[/color][color=#57a9eb]g[/color][color=#53abef]n[/color][color=#4fadf3]e[/color][color=#4baff7]r[/color][color=#47b2fb]s[/color][color=#43b4ff]:[/color]
+[b]Welcome to Nowhere![/b]
+[i]A Protectorate of Wintreath![/i]
 
-[nation]Frenchy II[/nation]
-[nation]sweeze[/nation]
-[nation]The Chariot[/nation]
-[nation]Baedan[/nation]
-[nation]Bobberino[/nation]
-[nation]Miravana[/nation]
-[nation]Westinor[/nation]
-[nation]Nimarya[/nation]
-[url=region=europeia]ERN[/url][/b]
+What can you do here in [b]Nowhere?[/b]
+[list]
+[*]Join the World Assembly!
+[*]Come visit your region-mates in our [b][url=http://client00.chat.mibbit.com/?channel=%23nowhere&amp;amp;server=irc.esper.net]IRC Channel[/url][/b]!
+[*]Anything you want! Nowhere has no official Government, so whatever you want to see in a region, make it happen!
+[/list]

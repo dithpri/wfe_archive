@@ -1,11 +1,11 @@
-A region branched off from [region]Europe[/region].
+A region branched off of [region]Europe[/region]
 
 Rules:
 No Swearing
 No Spamming
-Use Your Nation Name
-Listen To The European Union Government
 No Threatening
+No Releasing Private Information
+Listen To Regional Government
 Banned Nations:
 None
 
@@ -13,11 +13,17 @@ Current Year:
 2021
 Current RP(s):
 None
-Current World Order:
-[nation=long]Gerlandics[/nation]
+Current European Order:
+[nation=long]Gerlandics[/nation],
 Germany,
 Poland,
 Lithuania,
 Latvia,
 Estonia,
 -------------
+[nation=long]Chaos Regime[/nation],
+Czechia,
+Zilina and Presov of Slovakia,
+-----------------------------------------------
+[nation=long]The Hazar Amisnery[/nation],
+Armenia,
