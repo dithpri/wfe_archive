@@ -9,7 +9,7 @@
 [color=#ff0004]Legate[/color] | [nation]Hyperico[/nation] 
 [color=#daa520]Prefect[/color] | [nation]Goodrum[/nation]
 [color=#b30000]Centurion[/color] Of Actiones | 
-[color=#b30000]Centurion[/color] Of Internum Negotiis | 
+[color=#b30000]Centurion[/color] Of Internum Negotiis | [nation]Salibaic Military[/nation]
 [color=#b30000]Centurion[/color] Of Externae Negotiis | [nation]Verum Argentum[/nation]
 [color=#d71e00]Primus Pilus[/color] | [nation]Hyperico[/nation] 
 [hr] [b]Principal News[/b]
