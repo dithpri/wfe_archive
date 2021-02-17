@@ -6,6 +6,10 @@ No Spamming
 No Threatening
 No Releasing Private Information
 Listen To Regional Government
+RP Rules:
+No Godmodding
+No Invading Nations Not In RP
+If You Are In An RP, Put &quot;[b]RP[/b]&quot; Before Your Message
 Banned Nations:
 None
 
@@ -27,3 +31,13 @@ Zilina and Presov of Slovakia,
 -----------------------------------------------
 [nation=long]The Hazar Amisnery[/nation],
 Armenia,
+--------------
+[nation=long]Lumpatia[/nation],
+Norway,
+Sweden,
+Finland,
+Denmark,
+Iceland,
+------------
+[nation=long]Kaleveria[/nation],
+Western Ukraine,
