@@ -3,5 +3,6 @@ Placeholder region for coordination of the Cato Alliance. Please join a member r
 Member regions:
 [region]Global Politics Council[/region]
 [region]Stellux[/region]
+[region]Aelstun[/region]
 
 Resources: [url=https://discord.gg/RcDU88egVa]Cato Alliance Discord Server[/url]
