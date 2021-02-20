@@ -11,5 +11,5 @@ Delegation Executive - [nation]Jorgenchau[/nation]
 Delegation Members - [nation]Stradsburg[/nation] and [nation]Wolvensburg[/nation]
 
 [u][b]We have refounded two of our old territories; you can find them here:[/b][/u]
-[region]Grossallianz[/region] - Reichsinspektor: [nation]Wolvensburg[/nation]
-[region]The East Alliance[/region] - Reichsinspektor: [nation]Stradsburg[/nation]
+[region]Grossallianz[/region] - Inspector: [nation]Wolvensburg[/nation]
+[region]The East Alliance[/region] - Inspector: [nation]Stradsburg[/nation]
