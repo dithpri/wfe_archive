@@ -1,8 +1,10 @@
-A union between the [b]Dominions of Indansa[/b], [b]Aurum Purissimum Cordis[/b] and [b]Pax Capital[/b]. No other nations shall be permitted entry.
+A union between the [b]Dominions of Indansa[/b], [b]Aurum Purissimum Cordis[/b] and [b]Pax Capital[/b]. No other nations shall be permitted entry unless by discretion of the Prime Minister.
 [hr]
 [b][color=red]Monarch: Auxone I R [/color]
 
-Prime Minister:
+Prime Minister: Tiberius Nodervich
 Executive Capital: Rolloria, [nation]Indansa[/nation]
-Legislative Capital: 
-Judicial Capital:[/b]
+Legislative Capital: Auxany, [nation]Aurum Purissimum Cordis[/nation]
+Judicial Capital: Pax Capital, [nation]Pax Capital[/nation] [/b]
+[hr]
+Current Disputes: [I][color=green]None[/color][/I]
