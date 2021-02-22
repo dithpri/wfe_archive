@@ -13,9 +13,13 @@ PFC [nation]Holoratus[/nation]
 PFC [nation]Baedan[/nation][/b]
 
 [hr]
-
 [b][color=red]LUNAR NEW YEAR SPECIAL[/color][/b]
 [list]
 [*]Pork Dumplings
 [*]Steamed White Fish
 [/list]
+[hr]
+[color=red][b]Kai Tak Benevolent Association[/color]
+[nation]chinese restaurant[/nation]
+[nation]kong he[/nation]
+[/b]

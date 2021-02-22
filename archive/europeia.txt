@@ -12,5 +12,5 @@
 
 Do your duty! Help increase our regional power by [b]endorsing[/b] our NEW [b]World Assembly Delegate [nation=short]Primorye Oblast[/nation][/color][/b]!
 
-[color=red]EndoCap: 185[/color]
-[color=red]EndoCap: 205 (if endorsing the Delegate)[/color]
+[color=red]EndoCap: 200[/color]
+[color=red]EndoCap: 220 (if endorsing the Delegate)[/color]
