@@ -1,0 +1,11 @@
+[region]Mouka[/region] is an Island continent once ruled under one throne by Emperor Ka Bu Bam. Now after 400 year&#39;s and many civil war&#39;s the region is divided into 5 Nation&#39;s.
+[nation]Central Mouka[/nation] 
+[b]Monarchy[/b]
+[nation]North Mouka[/nation]
+[b]Sultanate[/b]
+[nation]West Mouka[/nation]
+[b]Democracy[/b]
+[nation]South Mouka[/nation]
+[b] Democracy[/b]
+[b]United Socialist State&#39;s Of[/b] [nation]Mouka[/nation]
+[b]Single Party Government[/b]
