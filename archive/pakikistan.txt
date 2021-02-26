@@ -1,1 +1,10 @@
-Pakikistan
+[b]-=Bienvenidos a Pakikist&aacute;n=-[/b]
+
+Mapa de [nation]Pakikistan[/nation]
+Sede Partido [region]Union Democratica[/region]
+Sede [region]Partido Libeeral[/region]
+Sede Partido [region]Democrata Conservador[/region]
+Sede Partido [region]Liberal Verde[/region]
+Sede [region]Partido Socialeesta[/region]
+Sede [region]Partido Comuneesta[/region]
+
