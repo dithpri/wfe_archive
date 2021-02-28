@@ -13,7 +13,7 @@
 [color=ff0000]Regulations[/color]: [color=0000ff]None[/color].
 [spoiler=&amp;#9760;&amp;#65039;][color=ff0000]Apps[/color]: [url=http://www.mediafire.com/download/5rbizaw04xbyb94/nationstates_autotelegram_0.4.0_bin.zip]AutoTelegram[/url], [url=https://github.com/auralia/nationstates-nation-manager/releases/tag/v0.2]Nation Manager[/url].
 [color=ff0000]Archives[/color]: [url=https://www.nationstates.net/page=archive]NSArchives[/url], [url=http://udl.taijitu.org/images/rflags/]Region Flags[/url], [url=http://udl.taijitu.org/wfe_index/]WFE Index[/url].
-[color=ff0000]Calculators[/color]: [url=http://nseconomy.thirdgeek.com/]NSEconomy[/url], [url=http://nsdossier.texasregion.net/]NSSuite[/url].
+[color=ff0000]Calculators[/color]: [url=http://www.mwq.dds.nl/ns/results/]Issue Results[/url], [url=http://www.broomdces.com/nseconomy/]NSEconomy[/url].
 [color=ff0000]Flags[/color]: [url=https://fakeflag.net/]Fake[/url], [url=http://rollforfantasy.com/tools/flag-creator.php]PNG[/url], [url=http://www168.lunapic.com/editor/?action=flag-generator]Photo[/url], [url=http://flag-designer.appspot.com/]SVG[/url], [url=http://www.fileformat.info/convert/image/svg2raster.htm]Converter[/url].
 [color=ff0000]Generators[/color]: [url=http://www.seventhsanctum.com/generate.php?Genname=government]Class[/url], [url=http://www.allfamilycrests.com/makecoatofarms.htm]Coat of Arms[/url], [url=http://www.inrebus.com/latinmottogenerator.php]Motto[/url].
 [color=ff0000]Ipsum[/color]: [url=https://hipsum.co/]Hipster[/url], [url=http://legalipsum.com/]Legal[/url], [url=https://pirateipsum.me/]Pirate[/url], [url=http://saganipsum.com/]Sagan[/url].

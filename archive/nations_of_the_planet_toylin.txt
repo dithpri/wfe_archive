@@ -1,9 +1,1 @@
-The Federation of [region]Nations of the Planet Toylin[/region] is a federated planetary government composed of the seven independent, sovereign, democratic nations of the planet of Toylin:
-
-- The Empire of Royal Estates of [nation]Adultii[/nation]
-- The Union of Democratic States of [nation]Batrumme[/nation]
-- The Union of Liberal Democracies of [nation]Dolliwud[/nation]
-- The Union of Workers Republics of [nation]Forbitten[/nation]
-- The Union of Council Republics of [nation]Gotemme[/nation]
-- The United States of the Region of [nation]Hull-wai[/nation]
-- The Union of Socialist States of [nation]Klozhet[/nation]
+The Union of Socialist Soviets of the Federation of [region]Nations of the Planet Toylin[/region] is a federated planetary government composed of the seven independent, sovereign, democratic nations of the planet of Toylin: [nation]Adultii[/nation], [nation]Batrumme[/nation], [nation]Dolliwud[/nation], [nation]Forbitten[/nation], [nation]Gotemme[/nation], [nation]Hull-wai[/nation], and [nation]Klozhet[/nation].
