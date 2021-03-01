@@ -1,5 +1,5 @@
-[b][i]This region is under the protection of [region]The Union Assembly[/region]![/i][/b]
-[hr][b]Government Involved:[/b]
+[b][i]This region is under the protection of [region]United of Loush Lands[/region]![/i][/b]
+[hr][b]Government Involved:
 [nation]Loush Land[/nation]
 [nation]Loush Lands Partner[/nation]
-[nation]Tordans Sovexaskers[/nation]
+[nation]Tordans Sovexaskers[/nation][/b]
