@@ -1,8 +1,9 @@
 [color=navy][b]Urumqi[/b]
 [/color][color=darkgreen]
 FACTS
-Capital of Xianjiang Region of China
+Capital of Xinjiang Region of China
 [/color][color=olive]
 REGION
-a [region=0000] region
-[b]Founded:[/b] 2018 Dec 06[/color]
+[b]Founded:[/b] 2018 Dec 06
+[b]Sister Region:[/b] [region=Xinjiang]
+a [region=0000] region[/color]

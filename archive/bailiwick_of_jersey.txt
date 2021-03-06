@@ -1,1 +1,8 @@
-[color=000666][b]Bailiwick of Jersey[/b][/color]
+[color=00477E][b]Bailiwick of Jersey[/b]
+[/color][color=004D33]
+Associated region of:
+[list][region=Bailiwick of Guernsey]; [region=Channel Islands];
+[region=Saint Peter Port]; [region=Saint Helier];
+[region=Herm]; [region=Sark]; [region=Alderney]; 
+[region=The Channel Islands][/list]
+a [region=0000] region[/color]

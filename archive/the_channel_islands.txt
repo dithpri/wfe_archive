@@ -1,4 +1,25 @@
-[color=green][b]the Channel Islands[/b]
+[color=004D33][b]the Channel Islands[/b]
+[/color][color=633517]
+an archipelago of islands in the English Channel
+located off the French coast of Normandy
+consisting of two British Crown Dependencies
+&amp;gt;&amp;gt; [region=Bailiwick of Jersey]
+&amp;gt;&amp;gt; [region=Bailiwick of Guernsey]
+these islands are the remnants of the Duchy of Normandy
+King John of England lost mainland Normandy to King Philip II of France
+Retaining the Channel Islands as possessions of the Crown
+They were never absorbed into the Kingdom of England
 
+[b]Bailiwick of Guernsey
+Capital:[/b] Saint Peter Port 
 
-[b]Founded:[/b] 2012 03 11[/color]
+[b]Bailiwick of Jersey
+Capital:[/b] Saint Helier 
+[/color][color=004D33]
+REGION
+[b]Founded:[/b] 2012 03 11
+[b]Featured:[/b] 2021 03 06
+[b]Sister Region:[/b] [region=Channel Islands]
+a [region=0000] region
+[/color][color=00477E]
+[b]Embassy Offers Welcome[/b][/color]
