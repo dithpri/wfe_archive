@@ -5,5 +5,4 @@ Founder:[nation]RH9[/nation]
 Official:[nation]RH0[/nation]
 
 [u][b]Embassies[/b][/u]
-[region]The Embassy[/region]
 [region]Codex Ylvus[/region]
