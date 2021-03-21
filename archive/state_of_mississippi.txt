@@ -1,1 +1,5 @@
-State of Mississippi
+[color=0A1E44][b]State of Mississippi[/b][/color]
+[color=0A441E][b]Sister Region:[/b] [region=Mississippi][/color]
+[color=440A1E]this is an [region=Ancient Lands] region[/color]
+[color=44300A]An Embassy Oracle Region[/color]
+[color=6C788E]Embassy Offers Ignored, Sorry[/color]
