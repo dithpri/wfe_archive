@@ -1,1 +1,1 @@
-38-151
+EMU is a collection of software tools for the creation, manipulation and analysis of speech databases. At the core of EMU is a database search engine which allows the researcher to find various speech segments based on the sequential and hierarchical structure of the utterances in which they occur. Respect our founder of the Emu Federation Grand Republic of emus
