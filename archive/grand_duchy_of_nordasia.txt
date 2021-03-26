@@ -4,6 +4,7 @@ Grand Duke: [nation]Norlesia[/nation]
 Prime Minister: [nation]Essia-Karlona[/nation]
 Speaker of the Chamber: [nation]Lurich-Wassel[/nation]
 Secretary of State: [nation]Leuensia[/nation]
+Secretary of Foreign Affairs: [nation]Cerlisse[/nation]
 
 [b] Greetings! We are a democratic region built on Monarchist and Christian values.
 To Join, please contact [nation]Norlesia[/nation][/b].

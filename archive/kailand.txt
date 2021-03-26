@@ -1,1 +1,21 @@
-s
+[hr][hr][color=#B22222][b]General Secretary[/b]: Li Jaoping
+[b]Capital[/b]:  KongShong [hr][hr] [b] Government[/b]: Federal Constitutional Republic
+[b]Provinces[/b]: 10
+[b]Population[/b]: 623 million
+[b]GDP Per Capita (ppp): [/b]$64,568
+[b]Currency[/b]: Kailandnese Ren
+[b]Largest City[/b]: ???
+[hr][/color][b]AllIES[/b]
+[region]The Peoples Republic of China[/region]
+[region]Indonesia[/region]
+[region]Thailand[/region]
+[region]Laos[/region]
+[region]South Korea[/region]
+[region]Japan[/region]
+[region]North Korea[/region]
+[region]Vietnam[/region]
+[region]Russian Federation[/region]
+[region]Aissurian Union[/region]
+[region]Syrian Arab Republic[/region]
+[region]Cuba[/region]
+[region]the Republic of Venezuela[/region]

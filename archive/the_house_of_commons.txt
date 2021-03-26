@@ -1,12 +1,9 @@
-[u][b]Welcome to the House of Commons for the region of [region]Thaecia[/region].[/b][/u]
-[url=https://www.nationstates.net/region=the_thaecian_senate]Senate (Upper House)[/url]
+[u][b][color=blue]Welcome to the [/color][/u][u][color=green]House of Commons (Lower House) [/color][/u][u][color=blue]for the region of [region]Thaecia[/region].[/color][/b][/u]
+[B][url=https://www.nationstates.net/region=the_thaecian_senate]Senate (Upper House)[/url][/b][hr][i][b]Make sure to read the [url=https://www.nationstates.net/nation=hoc_founder/detail=factbook/id=1328943]Parliamentary Procedures Act[/url] to know how you should behave in Commons![/b][/i]
 
-[b]Please read the [i][url=https://www.nationstates.net/nation=hoc_founder/detail=factbook/id=1328943]Parliamentary Procedures Act (LR 024)[/url][/i] to know how you should behave in Commons![/b]
+[hr][b][colour=purple]Speaker of the House: [nation]Marvinville[/nation] [TCU][/colour][/b]
+[colour=salmon]Deputy Speaker of the House: [nation]Gallo Republic[/nation] [SOL][/colour]
+[colour=grey]Deputy Speaker of the House: [nation]Sma Cyrillic[/nation] [IND][/colour]
 
-[hr][color=purple][b]Speaker of the House: [nation]Marvinville[/nation] (TCU)[/color][/b]
-[color=#FFB3E0]Deputy Speaker of the House: [nation]Gallo Republic[/nation] (SOL) [/color]
-[color=grey]Deputy Speaker of the House: [nation]Sma Cyrillic[/nation] (IND)[/color]
-[hr][b][color=#FD0404]Shadow Speaker of the House: [nation]Rhyssuan Peoples[/nation] (NTN) [/b][/color]
-[color=#FD0404]Deputy Shadow Speaker of the House: [nation]Nova Anglicum[/nation] (NTN)[/color]
-
-
+[hr][b][colour=red]Shadow Speaker of the House: [nation]Rhyssuan Peoples[/nation] [NTN][/colour][/b]
+[colour=red]Deputy Shadow Speaker of the House: [nation]Nova Anglicum[/nation] [NTN][/colour]

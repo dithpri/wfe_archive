@@ -1,3 +1,5 @@
 [region=Saar Executive Authority]
 [region=Judiciary branch of Saar Basin]
 [region=Legislation of Saar Basin]
+President is: [nation=St Myo]
+Vice-delegate is: [Nation=Myueernseinglaniatic]
