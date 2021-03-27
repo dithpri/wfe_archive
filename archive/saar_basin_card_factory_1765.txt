@@ -1,5 +1,8 @@
 [region=Saar Executive Authority]
 [region=Judiciary branch of Saar Basin]
 [region=Legislation of Saar Basin]
-President is: [nation=St Myo]
-Vice-delegate is: [Nation=Myueernseinglaniatic]
+President is: [nation=St Myo]&amp;#9773;(21 Hours)
+Vice-delegate is: [Nation=0cala]
+[b][url=https://www.nationstates.net/nation=st_myo/detail=trend/censusid=86?add_region=Saar%20Basin%20Card%20Factory%201765]International Art Work: 0.21[/b][/url]
+[b]Recruiter Friendly Regions:[/b]
+ [region=Real Conservative Region]
