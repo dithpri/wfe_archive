@@ -3,4 +3,4 @@
 
 This Region was re-created as a placeholder memorial Region for [nation]Seirounia[/nation], the founder of the first known Discworld Mud region. [i]All Hail Pinkfish.[/i]
 
-The current Discworld Mud region is [region]Deliciousness[/region].
+The current Discworld Mud Region is [region]Deliciousness[/region].
