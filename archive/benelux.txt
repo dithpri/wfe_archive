@@ -1,3 +1,5 @@
+[u][i][b]This region has been dominated by [nation=short+noflag]J o J[/nation]![/b][/i][/u]
+
 Benelux is often referred to as the region between France and Germany which comprises of the nations of Belgium, The Netherlands, and Luxembourg. Benelux is also a socio-economic agreement between the aforementioned nations. The name for this organization and region comes from the combination of the beginning of the three nations it is made of, [color=red]Belgium[/color], [color=blue]Netherlands[/color], and [color=green]Luxembourg[/color], forming the name [color=red]Be[/color][color=blue]ne[/color][color=green]lux[/color].
 
-[hr]Benelux is owned by [nation]J o J[/nation] and is also a territory of [region]J o J[/region].[hr]Benelux is a [i]real estate holding[/i] of [nation]J o J[/nation] and [region]J o J[/region][hr]
+[hr]Property of [nation=short+noflag]J o J[/nation][hr][b]This region is a territory of [nation=short+noflag]J o J[/nation]&#39;s Real Estate Empire![/b][hr]

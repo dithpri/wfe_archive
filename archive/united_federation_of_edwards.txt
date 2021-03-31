@@ -1,40 +1,37 @@
-As of 28 FEB 2021 (25,842 regions)
-11. Foreign Aid
-17. Welfare
-22. Pacifism
-35. Safety
-36. Taxation
-37. Integrity
-49. Niceness
-49. Eco-Friendliness
-50. Compassion
-51. Public Healthcare
-53. Employment
-54. Inclusiveness
-58. Government Size
-65. Tourism
-68. Cheerfulness
-70. Public Transport
-72. Weather
-75. Environmental Beauty
-75. Public Education
-92. Lifespan
-117. Compliance
-129. Health
-149. Business Subsidization
-166. Intelligence
-172. Youth Rebelliousness
-221. Average Income of Poor
-233. Culture
+As of 31 MAR 2021 (26,181 regions) https://www.nationstates.net/page=region_rank/region=united_federation_of_edwards 
+8. Foreign Aid
+13. Welfare
+23. Pacifism
+29. Public Healthcare
+31. Safety
+33. Taxation
+35. Integrity
+40. Eco-Friendliness
+45. Niceness
+47. Compassion
+49. Employment
+52. Public Education
+52. Inclusiveness
+54. Government Size
+56. Public Transport
+63. Tourism
+66. Cheerfulness
+67. Weather
+71. Environmental Beauty
+77. Lifespan
+112. Compliance
+119. Health
+122. Business Subsidization
+149. Intelligence
+167. Youth Rebelliousness
+173. Average Income of Poor
+216. Culture
 305. Survivors
-309. Secularism
-467. Human Development Index
-731. Scientific Advancement
-779. Average Income
-887. Industry: Information Technology
-1,095. Law Enforcement
-1,254. Economic Output
-1,530. Income Equality
-1,536. International Artwork
-2,378. Nudity
-2,749. Political Freedom
+330. Secularism
+378. Human Development Index
+576. Average Income
+649. Scientific Advancement
+708. Industry: Information Technology
+823. Law Enforcement
+1,006. Economic Output
+1,463. Income Equality

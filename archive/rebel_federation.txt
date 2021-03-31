@@ -7,3 +7,5 @@ Embassies: [region]The Embassy[/region] [region]Fredonia[/region]
 &#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;
 [color=Red]&#147;[b]Fight the good fight![/b]&#148;[/color]
        
+
+[nation]Shadowisle[/nation] [nation]Chickmin[/nation] [nation]Chiasi[/nation] [nation]The Cooshi[/nation] all owned by[nation]Chickmin[/nation]
