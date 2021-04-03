@@ -2,7 +2,9 @@
 
 Puppet storage of [b][nation]The Langburn Islands[/nation][/b].
 
-[b]Also known as:[/b]
-[b][nation]Gradea[/nation][/b]
-[b][nation]Luxdonia[/nation][/b]
-[b][nation]Kolmias[/nation][/b]
+[i]Citizen of the below regions:[/i]
+[b][region]The South Pacific[/region]: [nation]The Langburn Islands[/nation][/b]
+[b][region]The West Pacific[/region]: [nation]Langburn[/nation][/b]
+[b][region]The Rejected Realms[/region]: [nation]Gradea[/nation][/b]
+[b][region]New Plimouth[/region]: [nation]South Langburn[/nation][/b]
+[b][region]The Snakes[/region]: [nation]Snake Langburn[/nation][/b]
