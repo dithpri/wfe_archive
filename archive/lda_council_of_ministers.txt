@@ -4,7 +4,6 @@
 [b]Deputy Prime Minister: [nation=long]The Union of Costa Rica[/nation]
 Minister of the Interior: [nation=long]Mobiusobia[/nation]
 Minister of Foreign Affairs: [nation=long]France Europe[/nation]
-Minister of Government Spokesperson: [nation=long][/nation]
-Minister of Justice: [nation=long][/nation]
+Minister of Justice: [nation=long]Sheepiania[/nation]
 [u]Supreme Court:[/u]Chief Justice: [nation=long]Nova Tyrnavia[/nation][/b]
 [hr]Members of the government are asked to tag other members to ensure activity in the room.

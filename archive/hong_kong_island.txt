@@ -1,15 +1,1 @@
-	[color=purple] Welcome to [region]Hong Kong Island[/region]! We are a small community of Hong Kongers who are nostalgic for British rule, we also speak a lot of Cantonese in this region. However anyone and everyone is welcome and our borders will always be open. We are also a proud Overseas Territory of the [region]Empire of Great Britain[/region]![/color]
-
-
-[b][u][color=red]Royal Family:[/color][/u][/b]
-
-[color=red][b]Empress: HM [nation]Her Majesty Queen Victoria[/nation][/b][/color]
-[color=red][b]Prince of Wales: HRH [nation]Saint Arsenio[/nation][/b][/color]
-
-[b][u][color=black]HM Territorial Government:[/color][/u][/b]
-
-[color=black][b]Governor: [nation]Saint Arsenio 2[/nation][/b][/color]
-[color=black][b]Chief Executive: TRH [nation]British Hong Kong Island[/nation][/b][/color]
-[color=black][b]Minister of Home Affairs: VACANT[/b][/color]
-[color=black][b]Minister of Security: VACANT[/b][/color]
-[color=black][b]Minister of Transport: VACANT[/b][/color]
+sready
