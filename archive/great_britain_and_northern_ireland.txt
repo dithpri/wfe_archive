@@ -1,7 +1,7 @@
 [color=000099]Welcome to [b]Great Britain and Northern Ireland[/b]
 [/color][color=003366]
 FACTS[list]
-[b]Capital:[/b] [region=London]
+[b]Capital:[/b] [region=London] ([region=Westminster])
 [b]Independence:[/b][list]927 (union of English Kingdoms);
 1284 (with [region=Wales]);
 1707 (with Scotland);
