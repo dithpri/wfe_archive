@@ -1,6 +1,3 @@
-[b][color=fire]Welcome to the Russian Empire![/color][/b]
-[hr][color=navy][b][i]Stretching from the east of Europe to the northwestern coast of North America, the Russian Empire was one of the largest empires in human history. Ruled by tsars for centuries, it became a great power under Peter the Great, who paved the way for Russian dominance in Eurasia. [/i][/b] [/color]
-[hr][u][b][color=goldenrod]The Imperial Government[/color][/b][/u]
-[list][b]&#149; [color=navy]Tsar of All Russia:[/color][/b] Nicholas III of [nation=short]Novgorad[/nation][/list]
-[hr][u][b]Territories:[/b][/u] 
-[list][b][region]Muscovy[/region] | [region]Grand Principality of Muscovy[/region] | [region]The Tsardom of Russia[/region] | [region]Tsarist Russia[/region] | [region]Imperial Russia[/region] [/b][/list]
+Welcome to the Russian Empire
+
+Stretching from the east of Europe to the northwestern coast of North America, the Russian Empire was one of the largest empires in human history. Ruled by tsars for centuries, it became a great power under Peter the Great, who paved the way for Russian dominance in Eurasia.

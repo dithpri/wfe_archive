@@ -1,7 +1,9 @@
-In this region, the Empire of [nation]Arreche[/nation] will administrate all his Nations democratically.
-[b][u]Executive power[/u][/b] (founder): [nation]Arreche[/nation]
-[b][u]Judicial Power[/u][/b] (Vice Delegate): none
+En esta regi&oacute;n, [nation=long]Arreche[/nation] administra democr&aacute;ticamente todas sus Naciones.
+[b][u]Poder Ejecutivo[/u][/b] (Fundador):  [nation=long]Arreche[/nation]
+[b][u]Poder Judicial[/u][/b] (Vice Delegado): [nation=long]Aportes[/nation]
+Aqu&iacute; la [url=https://sites.google.com/view/mancomunidad-de-las-naciones/constituci%C3%B3n]Constituci&oacute;n[/url]
 
-En esta regi&oacute;n, el Imperio de [nation]Arreche[/nation] administra democr&aacute;ticamente todas sus Naciones.
-[b][u]Poder Ejecutivo[/u][/b] (Fundador): [nation]Arreche[/nation] 
-[b][u]Poder Judicial[/u][/b] (Vice Delegado): Nadie
+In this region, [nation=long]Arreche[/nation] administrate all his Nations democratically.
+[b][u]Executive power[/u][/b] (founder): [nation=long]Arreche[/nation]
+[b][u]Judicial Power[/u][/b] (Vice-Delegate): [nation=long]Aportes[/nation]
+Here our [url=https://sites.google.com/view/mancomunidad-de-las-naciones/constituci%C3%B3n]Constitution[/url]
