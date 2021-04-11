@@ -4,7 +4,6 @@
 [/color][color=#EB8DF0]
 [/color][color=#EB8DF0]N[/color][color=#EB8DF0]P[/color][color=#EB8DF0]A[/color] [color=#EB8EF1]p[/color][color=#EB8EF1]e[/color][color=#EB8FF1]e[/color][color=#EB8FF1]p[/color][color=#EA8FF1]s[/color][color=#EA8FF1]:[/color][color=#EA90F1]
 [GEN] [nation]Nimarya[/nation]
-[GEN] [nation]Bobberino[/nation]
 [GEN] [nation]Quietdad[/nation]
 [COL] [nation]East Isles[/nation]
 [MAJ] [nation]Palutenia[/nation]
