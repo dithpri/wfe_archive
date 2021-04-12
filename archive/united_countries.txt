@@ -1,8 +1,8 @@
 [region]United Countries[/region] is a region in which [b]human rights[/b], [b]equality[/b] and [b]economy[/b] are in their front decisions.
 
 The UC is composed of four member-states: 
-- [b]United States of [nation]Lippoy[/nation][/b], [I]President, Founder and World Assembly Delegate[/i]; 
-- [b]Republic of [nation]Wess Ham Athr[/nation][/b], [i]Vice-President[/i];
-- [b]Holy Empire of [nation]La Crisie[/nation][/b], [i]Minister of Internal and Intelligence Affairs[/i];
-- [b]Principality of [nation]Anexmace[/nation][/b], [i]Minister of Political Affairs[/I];
-- [b]Empire of [nation]Minastisaa[/nation][/b], [I]Minister of Justice[/I]
+- [b][nation=long]Lippoy[/nation][/b], [I]President, Founder and World Assembly Delegate[/i]; 
+- [b][nation=long]Wess Ham Athr[/nation][/b], [i]Vice-President[/i];
+- [b][nation=long]La Crisie[/nation][/b], [i]Minister of Internal and Intelligence Affairs[/i];
+- [b][nation=long]Anexmace[/nation][/b], [i]Minister of Diplomacy and Politics[/I];
+- [b][nation=long]Minastisaa[/nation][/b], [I]Minister of Justice[/I]

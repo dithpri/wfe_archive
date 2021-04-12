@@ -1,9 +1,11 @@
-[u][b][color=blue]Welcome to the [/color][/u][u][color=green]House of Commons (Lower House) [/color][/u][u][color=blue]for the region of [region]Thaecia[/region].[/color][/b][/u]
-[B][url=https://www.nationstates.net/region=the_thaecian_senate]Senate (Upper House)[/url][/b][hr][i][b]Make sure to read the [url=https://www.nationstates.net/nation=hoc_founder/detail=factbook/id=1328943]Parliamentary Procedures Act[/url] to know how you should behave in Commons![/b][/i]
-
-[hr][b][colour=purple]Speaker of the House: [nation]Marvinville[/nation] [TCU][/colour][/b]
-[colour=salmon]Deputy Speaker of the House: [nation]Gallo Republic[/nation] [SOL][/colour]
-[colour=grey]Deputy Speaker of the House: [nation]Sma Cyrillic[/nation] [IND][/colour]
-
-[hr][b][colour=red]Shadow Speaker of the House: [nation]Rhyssuan Peoples[/nation] [NTN][/colour][/b]
-[colour=red]Deputy Shadow Speaker of the House: [nation]Nova Anglicum[/nation] [NTN][/colour]
+[b][u][colour=#0055B5]Welcome to the House of Commons, [url=https://www.nationstates.net/region=thaecia]Thaecia[/url]&#39;s lower house of Congress.[/colour][/u][/b]
+[url=region=the thaecian senate]Senate (Upper House)[/url]
+[hr][b]Leadership:[/b]
+[list][*][b]Speaker of the House: [nation]Marvinville[/nation] ([colour=purple]TCU[/colour])[/b]
+[list][i][*]Deputy Speaker: [nation]Gallo Republic[/nation] ([colour=#FFB3E0]SOL[/colour])
+[*]Deputy Speaker: [nation]Sma Cyrillic[/nation] ([colour=grey]IND[/colour])[/i][/list]
+[*][b]Shadow Chairman of the Senate: [nation]Rhyssuan Peoples[/nation] ([colour=red]NTN[/colour])[/b]
+[list][i][*]Deputy Shadow Chairman: [nation]Nova Anglicum[/nation] ([colour=red]NTN[/colour])[/list]
+[/list]
+[hr][b][url=page=dispatch/id=1328943][color=#ea2323]Please read the Code of Conduct and [u]Parliament Procedures (L.R. 024)[/u] before posting here.[/url][/color][/i]
+[hr]To submit a bill to the House, please find an MP to sponsor the bill and then send it to the Speaker.[/b]
