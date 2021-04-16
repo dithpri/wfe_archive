@@ -1,2 +1,1 @@
-[b]Qardu[/b]
-a [region=0000] region
+sready
