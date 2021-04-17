@@ -1,6 +1,7 @@
 Welcome to Pie Pi, Your friendly neighborhood polling station. Here we only cover the most relevant of issues such as:
 
 [list]What is your favorite pie?
+What is your favorite color (colour)?
 
 And Many More
 [/list]
