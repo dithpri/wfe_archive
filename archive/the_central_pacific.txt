@@ -14,6 +14,12 @@ REGION
 - [nation=Schjetman Reef] (Before 2008 Feb)
 [region=United States of America] Associated Puppet Storage Region
 Allied with: [region=0000]; [region=Ancient Lands]
-[/color][color=306090]
-[b]Embassy Offers Welcome[/b]
-Welcome visitors and guests[/color]
+[/color][color=002FA7]
+[b][i]From the Office of the Sergeant-at-Arms:[/i][/b]
+Department of Immigration: Open
+Department of Tourism: Open
+WA members are welcome
+all policies are to follow
+
+Welcome visitors and guests
+[b]Embassy Offers are Welcome[/b][/color]
