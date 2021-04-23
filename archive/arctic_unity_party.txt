@@ -8,6 +8,8 @@ The party is active in the following regions:
 
 [b][region]The Arctic[/region][/b] | [nation]The Arctic Unity Party[/nation]
 
+[b][region]Arctic League[/region][/b] | [nation]Branch 5 of Arctic Unity Party[/nation]
+
 [b][region]The South Arctic[/region][/b] | [nation]Southern Branch of Arctic Unity Party[/nation]
 
 [b][region]The West Arctic[/region][/b] | [nation]Western Branch of Arctic Unity Party[/nation]

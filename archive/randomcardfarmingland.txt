@@ -1,2 +1,2 @@
-Puppet storage of [nation]randomcountryland[/nation]
-[u]Territory of [region]the manatee regions[/region][/u]
+[color=midnightblue]Puppet storage of [nation]randomcountryland[/nation][/color]
+[color=steelblue][u]Territory of [region]the manatee regions[/region][/u][/color]
