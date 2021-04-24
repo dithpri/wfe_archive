@@ -6,10 +6,16 @@ FACTS
 [b]Capital:[/b] [region=Dodoma]
 [b]Largest City:[/b] [region=Dar es Salem]
 [b]Independence:[/b] (UK)
-&amp;gt;&amp;gt; [region=Tanganyika]: 9th Dec 1961
-&amp;gt;&amp;gt; [region=Zanzibar]: 12th Jan 1964
-&amp;gt;&amp;gt; merger: 26th Apr 1964
+- [region=Tanganyika]: 1961 Dec 9th
+- [region=Zanzibar]: 1964 Jan 12th
+- merged: 1964 Apr 26th
 [b]Area:[/b] 945,203 km2
 [b]Population:[/b] 43,739,000 (2009 est)
-[/color][color=803000]
-[b]an [region=Old Spirit] of [region=United States of America] region[/b][/color]
+[/color][color=606000]
+REGION
+[b]Founded:[/b] 2016 May 08
+[b]Featured:[/b] 2021 Apr 24
+an [region=United States of America] allied region
+an [region=The Central Pacific] puppet storage region
+[/color][color=green]
+[b]Embassy Offers Accepted[/b][/color]
