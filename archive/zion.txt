@@ -1,2 +1,2 @@
-[b]Zion[/b]
-a [region=0000] region
+[color=000060][b]Zion[/b]
+a [region=the Central Pacific] region[/color]

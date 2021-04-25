@@ -1,12 +1,1 @@
-[b][color=darkred]Welcome to the Carthaginian Republic![/color][/b]
-[i]Founded on 26 August 2017[/i]
-[hr][u][b][color=purple]Government[/color][/b][/u]
-[list][*][b][color=teal]Shophet:[/b][/color] [nation]Carthege[/nation]
-
-[*][b][color=darkgreen]Supreme Council:[/color][/b] 
-[list][*]Councilor of Foreign Affairs: [i]TBD[/i]
-[*]Councilor of Communications: [i]TBD[/i]
-[*]Councilor of the Court: [i]TBD[/i]
-[*]Councilor of Defense: [i]TBD[/i][/list][/list]
-
-[hr][b][color=purple]News:[/color][/b] Work in progress. Stay tuned for further developments.
+This is one of the jump points of [region]The Shadows[/region].
