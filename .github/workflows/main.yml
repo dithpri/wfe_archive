@@ -1,0 +1,35 @@
+name: Update WFEs
+on:
+  schedule:
+  # 12:00 UTC every day
+    - cron: "0 12 * * *"
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Install Python script dependencies
+        run: python -m pip install --upgrade lxml
+      - name: Download region dump
+        run: |
+          mkdir -p dumps
+          wget 'https://www.nationstates.net/pages/regions.xml.gz' -O dumps/regions.xml.gz
+      - name: Extract region wfes
+        run: |
+          mkdir -p archive
+          python scripts/parse.py dumps/regions.xml.gz
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: ${{ steps.date.outputs.date }}
