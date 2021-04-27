@@ -25,7 +25,7 @@ jobs:
       - name: Download region dump
         run: |
           mkdir -p dumps
-          wget 'https://www.nationstates.net/pages/regions.xml.gz' -O dumps/regions.xml.gz
+          wget --user-agent 'github/dithpri/wfe_archive' 'https://www.nationstates.net/pages/regions.xml.gz' -O dumps/regions.xml.gz
       - name: Extract region wfes
         run: |
           mkdir -p archive
