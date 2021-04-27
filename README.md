@@ -4,7 +4,8 @@ An archive of NS region WFEs.
 
 ## Usage
 
-Navigate to a `archive/region.txt` file to see a region's WFE. You can see how the WFE changed over time by clicking the `History` link.
+Navigate to a `archive/region.txt` file to see a region's WFE. You can see how the WFE changed over time by clicking the `Blame` button or the `History` link.
+For older regions with lots of changes, you might need to clone the repository locally first.
 
 For example, here is the WFE for **The North Pacific**: [archive/the_north_pacific.txt](./archive/the_north_pacific.txt).
 
