@@ -33,3 +33,6 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: ${{ steps.date.outputs.date }}
+          commit_user_name: Automated Commit
+          commit_user_email: ""
+          commit_author: Automated Commit <>
