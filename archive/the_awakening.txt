@@ -1,3 +1,11 @@
-[b]The Awakening[/b]
-a [region=Ancient Lands] puppet storage region
-associate region of [region=0000]
+[color=000069][b]The Awakening
+[/color][color=690000]
+Sleepers Group of Regions[/b]
+an [region=Ancient Lands] and [region=0000] allied region
+associated with [region=The Central Pacific]
+[b]Sister Regions:[/b] [region=Sleepers], [region=On the Run], [region=The Net Tightens], [region=Welcome Home]
+[/color][color=696900]
+[b]Founded:[/b] 2021 APR 28
+[b]Status:[/b] Embassy Oracle Region*[/color][color=ff6900]
+[b]Sorry. . .  No Embassy Offers Please[/b]
+[i]all offers will be ignored[/i][/color]

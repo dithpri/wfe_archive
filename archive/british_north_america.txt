@@ -1,5 +1,5 @@
 [color=003264][b]British North America[/b]
-a [region=Great Britain and Northern Ireland] region
+a [region=Great Britain and Northern Ireland] and [region=The Central Pacific] region
 [/color][color=green]
 FACTS
 Former territories of the British Empire mostly in mainland North America
@@ -10,5 +10,7 @@ Also at one time, most of the [region=United States of America] east of the Miss
 REGION
 [b]Founded:[/b] 2017 May 07
 [b]Matrixed:[/b] 2020 Nov 15
+[b]Featured:[/b] 2021 Apr 28
+a [region=United States of America] allied region
 [/color][color=green]
 ACCEPTING EMBASSY OFFERS[/color]

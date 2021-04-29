@@ -6,12 +6,12 @@
 [b]
 [color=blue]Farewell, H Corp.[/color][/b]
 
-[b][color=#4a96ad]RP Year: 1941[/color][/b]
+[b][color=#4a96ad]RP Year: 1942[/color][/b]
 
 [b]World Tension:
 DEFCON 1
-[color=red]DEFCON 2[/color]
-[color=orange][DEFCON 3][/color]
+[color=red][DEFCON 2][/color]
+[color=orange]DEFCON 3[/color]
 [color=Green]DEFCON 4[/color]
 [color=#4a96ad]DEFCON 5[/color]
 [/b]
