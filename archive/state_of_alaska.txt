@@ -1,1 +1,10 @@
 [color=green][b]State of Alaska[/b][/color]
+[color=grey]My first Embassy Oracle Region on page two
+
+Oracle Regions only have two embassies
+Exceptions are when the list is being edited by:
+1. Adding a new region
+2. Changing the order of the regions
+3. Closing a region
+[/color][color=navy]
+this is a [region=the Central Pacific] allied holding region[/color]
