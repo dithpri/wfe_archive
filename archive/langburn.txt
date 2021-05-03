@@ -6,5 +6,4 @@ Puppet storage of [b][nation]The Langburn Islands[/nation][/b].
 [b][region]The South Pacific[/region]: [nation]The Langburn Islands[/nation][/b]
 [b][region]The West Pacific[/region]: [nation]Langburn[/nation][/b]
 [b][region]The Rejected Realms[/region]: [nation]Gradea[/nation][/b]
-[b][region]New Plimouth[/region]: [nation]South Langburn[/nation][/b]
 [b][region]The Snakes[/region]: [nation]Snake Langburn[/nation][/b]
