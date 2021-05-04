@@ -1,5 +1,5 @@
 [color=blue]Hello![/color] [color=green]Welcome to [region]Alliance Of Regions[/region]![/color] [color=blue](AOR)[/color]
-[color=goldenrod]The AOR is an interregional organization, in which all the regions cooperate and help each other if they are in need![/color]
+[color=goldenrod]The AOR is an interregional organization, in which all the regions cooperate and help each other if they are in need![/color] [color=blue][b]A raid on one member is seen as a raid on all.[/b][/color]
 [color=green]Currently, its participant regions are as follows:[/color]
 [region]Real Conservative Region[/region]
 [region]Land Of Conservatives[/region]
