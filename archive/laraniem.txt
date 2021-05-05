@@ -9,9 +9,7 @@
 
 
 [hr]
-[colour=black][b]&amp;#10070; Pronunciation:[/colour] [colour=ffc000]La-ra-neem[/b][/colour]
-
-[colour=black][b]&amp;#10070; Latest Poll Result:[/colour] [colour=ffc000]Pastries and doughnuts are the best baked goods.[/b][/colour]
+[colour=black][b]&amp;#10070; Latest Poll Result:[/colour] [colour=ffc009]A water bottle is the best thing to have when stuck on a desert island.[/b][/colour]
 
 [colour=black][b]&amp;#10070; To Do List:[/colour] 
 
@@ -30,5 +28,5 @@
 
 [hr][table]
 [tr][td][url=https://www.nationstates.net/page=ga][colour=purple]General Assembly[/colour][/url][/td][td][url=https://www.nationstates.net/page=sc][colour=purple]Security Council[/colour][/url][/td][/tr]
-[tr][td][colour=red][b]AGAINST[/b][/colour] [/td][td][colour=grey][b]N/A[/b][/colour][/td][/tr]
+[tr][td][colour=blue][b]FOR[/b][/colour] [/td][td][colour=blue][b]FOR[/b][/colour][/td][/tr]
 [/table]

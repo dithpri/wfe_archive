@@ -4,13 +4,10 @@ The remnants of the West Alliance, the East Alliance, the Gro&szlig;allianz and 
 2019 - Never Forget
 Long Live the West Alliance.
 
-[u][b]Our regional authorities:[/b][/u]
-Chancellor of the Alliance - [nation]Neues Griechisches Reich[/nation]
-High Commissioner of the Alliance - [nation]Ordersland[/nation]
-Chairman of the Delegation- [nation]Apollonland[/nation]
-Delegation Executive - [nation]Jorgenchau[/nation]
-Delegation Members - [nation]Stradsburg[/nation] and [nation]Wolvensburg[/nation]
-
 [u][b]We have refounded two of our old territories; you can find them here:[/b][/u]
 [region]Grossallianz[/region] - Inspector: [nation]Wolvensburg[/nation]
 [region]The East Alliance[/region] - Inspector: [nation]Stradsburg[/nation]
+
+[u][b]We have founded two additional territories that resemble old regions of ours:[/b][/u]
+[region]Die Westallianz[/region] - Inspector: [nation]Fourth Byzantium[/nation]
+[region]Germanische Allianz[/region] - Inspector: [nation]Jorgenchau[/nation]
