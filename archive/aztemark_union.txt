@@ -2,6 +2,9 @@
 [color=blue]Member Regions are as followed:
 [region]Aozora[/region]
 [region]Grand Peppian Commonwealth[/region]
-[region]Gaming Town[/region][/color]
+[region]Gaming Town[/region]
+[region]Balvenia Port[/region]
+[region]Storage For Life[/region]
+[region]Holy Sanctuary[/region][/color]
 [color=goldenrod]Member Regions are expected to send a representative to this region.[/color]
 Password will be given when asked.
