@@ -3,14 +3,19 @@ AHA&#39;s Nations.
 Main/WA:
 [nation]Alaska Hawaii and the Aleutes[/nation]
 
+RP Alts:
+[nation]Alvelunenberg[/nation]
+
+Lore Alts:
+[nation]Kamillenburg[/nation]
+[nation]Greater Qha Order[/nation]
+[nation]Severacia[/nation]
+
 Former RP Alts:
 [nation]Zazye[/nation]
 [nation]Xayase[/nation]
-[nation]Greater Qha Order[/nation]
 [nation]Greater Qhaenya[/nation]
 [nation]Vinaile[/nation]
-
-
 
 Language Puppets:
 [nation]Yteca[/nation]
@@ -27,6 +32,4 @@ Other Puppets:
 [nation]Saye Amyra[/nation]
 [nation]Itechia[/nation]
 [nation]DingDingBimBam[/nation]
-[nation]Alvelunenberg[/nation]
 [nation]Alvelunia[/nation]
-[nation]Severacia[/nation]
