@@ -1,8 +1,10 @@
 [color=blue][b]&amp;#10026; High Command of the Armed Forces of [region]GENUA[/region]&amp;#10026;[/color]
 https://www.nationstates.net/nation=gruppenfuhrer/detail=factbook/id=1495557
-[color=crimson]&amp;#10026; OBERSTE F&Uuml;HRER &amp; Reichskanzler : &amp;#10016; [/color][nation]BORDURIAA[/nation]([nation]Numerous Currencies[/nation])
-[nation]T-Rex[/nation]
-[nation]Deutsches und Italienisches Kaiserreich[/nation]
-[nation]Terra Gloria sanctus[/nation]
-[nation]Sstrayaa[/nation]
+[color=crimson]&amp;#10026; Holy Genuan Emperor: &amp;#10016; [/color][nation]BORDURIAA[/nation]([nation]Numerous Currencies[/nation])
+[hr]
+[u]The High Command:[/u]
+
+[nation]Borduriaa[/nation] : Emperor
+[nation]T-Rex[/nation]: Consul and Legate
+[nation]Terra Gloria sanctus[/nation]: Prefect
 [/b]

@@ -1,8 +1,17 @@
-[color=green][b]Cemetery
-Founded:[/b] 2017 Aug 05
-[b]Allied Regions:[/b]
-- [region=Boneyard]
-- [region=Crematorium]
-- [region=Temple Hill]
-- [region=Woodlawn]
-[/color]
+[color=00477E][b]Cemetery
+[/color][color=633517]
+Welcome and Thank You for Visiting[/b]
+
+Originally created to house my puppets that I wanted to let go
+That never seemed to work out quite to plan
+I still hold nearly all of my puppets ever created
+[/color][color=808000]
+REGION
+[b]Founded:[/b] 2017 Aug 05
+[b]Featured:[/b] 2021 May 08
+[b]Allied Regions include:[/b] [region=The Central Pacific]
+[region=United States of America], [region=0000], [region=Westminster]
+[b]Sister Regions:[/b] [region=Woodlawn], [region=Temple Hill], [region=Crematorium]
+This is an [region=Ancient Lands] Puppet Storage Region
+[/color][color=004D33]
+[b]Embassy Offers Are Welcome[/b][/color]
