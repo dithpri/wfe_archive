@@ -3,11 +3,11 @@
 [b]&amp;#10071;All Genua nations are required to join the WA or report their WA nations elsewhere to Genua High Command.[/b][hr]
 
 [b]&amp;#128737;&amp;#65039; [color=993300]HIGH COMMAND[/color]&amp;#128737;&amp;#65039;[/b]
-
-[nation]BORDURIAA[/nation]
-[nation]T-Rex[/nation]
-[nation]Terra Gloria Sanctus[/nation]
-
+[b]
+Caeser Augustus:[nation]BORDURIAA[/nation]
+Consul:[nation]T-Rex[/nation]
+Praetor:[nation]Terra Gloria Sanctus[/nation]
+[/b]
 [b]&amp;#127989; [color=993300]IMPERIAL GENUAN EMPIRE[/color] &amp;#127989;[/b]
 
 [b][color=darkgoldenrod]&amp;#10026; [/color]Imperial Capital[/b]: &amp;#127963;&amp;#65039; [url=https://www.nationstates.net/region=carolingia][color=steelblue]Carolingia[/color][/url]
@@ -15,7 +15,7 @@
 [b][color=darkgoldenrod]&amp;#10026; [/color] Spiritual Center[/b]: [url=https://www.nationstates.net/region=Church of Magdalene] [color=steelblue]Church of Magdalene[/color][/url] &amp;#10013;&amp;#65038; [url=https://www.nationstates.net/region=Jesus Christ][color=steelblue]Jesus Christ[/color][/url]
 [b][color=darkgoldenrod]&amp;#10026;[/color] Emperor&#39;s Retreat[/b]: [url=https://www.nationstates.net/region=Palatine Hill][color=steelblue]Palatine Hill[/color][/url]
 [b][color=darkgoldenrod]&amp;#10026;[/color] Soldiers&#39; Retreat[/b]: [url=https://www.nationstates.net/region=Temple of Fortune][color=steelblue]Temple of Fortune[/color][/url]
-[b][color=darkgoldenrod]&amp;#10026;[/color] National Museum[/b]: [url=https://www.nationstates.net/region=Charlemagne][color=steelblue]Charlemagne[/color][/url][hr]
+[hr]
 
 [b]Military Inquiries:[/b] [nation]T-Rex[/nation]
 [url=https://discord.gg/ye2wBBKEVr][b][color=993300]Genua Discord[/color][/b][/url]
