@@ -1,8 +1,6 @@
 [color=228B22][b]The Central Pacific[/b]
 [/color][color=633517]
-A long held puppet storage region for the [region=0000] alliance
-
-[i]Currently resorting my puppets and this region is a temporary puppet holding region[/i]
+A long held puppet storage region
 
 [b]Note:[/b] Delegate does not have access to regional controls
 [/color][color=636300]
@@ -12,10 +10,10 @@ REGION
 [b]Previous Founders:[/b] (with approximate founding date)
 - [nation=Gilbert Kiritimati] (2012 Oct 17)
 - [nation=Schjetman Reef] (Before 2008 Feb)
-[region=United States of America] Associated Puppet Storage Region
-Allied with: [region=Ancient Lands]
+[b]Sister Regions:[/b] [region=Ancient Lands], [region=United States of America], [region=0000] and [region=Westminster]
 [/color][color=002FA7]
 [b][i]From the Office of the Sergeant-at-Arms:[/i][/b]
+Department of Transport: Open
 Department of Immigration: Open
 Department of Tourism: Open
 WA members are welcome
