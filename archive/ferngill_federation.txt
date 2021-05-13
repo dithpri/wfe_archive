@@ -1,7 +1,9 @@
 [colour=green][b]Welcome to the Ferngill Federation![/b][/colour]
 
 [i]Founded 3rd May 2021[/i]
-[hr][b]&#149; [url=https://discord.gg/hHBdYW5XRu]Discord[/url] &#149; Constitution &#149; [url=https://www.nationstates.net/nation=ferngill_founder/detail=factbook/id=1540950]Regional Officers[/url] &#149; [url=https://www.nationstates.net/region=ferngill_government]Government[/url] &#149; [url=https://www.nationstates.net/region=ferngill_judiciary]Judiciary[/url] &#149; Lawbook &#149;[/b]
+
+[colour=green][i]&quot;Together we can do so much.&quot;[/i][/colour]
+[hr][b]&#149; [url=https://discord.gg/hHBdYW5XRu]Discord[/url] &#149; [url=https://www.nationstates.net/nation=ferngill_founder/detail=factbook/id=1540950]Regional Officers[/url] &#149; [url=https://www.nationstates.net/region=ferngill_government]Federal Parliament[/url] &#149; [url=https://www.nationstates.net/region=ferngill_judiciary]Judiciary[/url] &#149; [url=https://www.nationstates.net/nation=ferngill_founder/detail=factbook/id=1545393]Lawbook[/url] &#149;[/b]
 
 [hr]
 
@@ -14,4 +16,4 @@
 [b][colour=green]Regional Updates![/colour][/b]
 [list]
 [*] The 1st [nation]NIMBYs[/nation] Ministry has been appointed!
-[*] The Transitional Parliament has officially opened!
+[*] The Federal Parliament has officially opened!

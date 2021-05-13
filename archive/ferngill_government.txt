@@ -1,1 +1,13 @@
-Government of the Ferngill Federation
+[b][colour=green]Federal Parliament of the Ferngill Federation![/colour][/b]
+[list]
+[*] [i]Speaker of Parliament: [nation]New Shizal[/nation][/i]
+[*] [i]President: [nation]Leria[/nation][/i]
+[*] [i]Prime Minister: [nation]NIMBYs[/nation][/i]
+[*] [i]Home Secretary: [nation]Mars High[/nation][/i]
+[*] [i]Foreign Secretary: [nation]Staine[/nation][/i]
+[*] [i]Justice Secretary: [nation]United Regions of Israel[/nation][/i]
+[/list]
+[hr][colour=green][b]Order Paper:[/b][/colour]
+[list]
+[*] [i]12th May 2021-14th May 2021:[/i] Debate period of the Charter of Rights Bill
+[*] [i]15th May 2021-16th May 2021:[/i] Voting period of the Charter of Rights Bill

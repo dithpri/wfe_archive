@@ -1,2 +1,3 @@
-[hr][b]Region of [region]Featured Region[/region] founded by [nation]Featured Region Of The Day[/nation]! This region is connected with the region of [region]Found Region[/region]!
-[hr][/b]
+[color=006666][b]Featured Region[/b]
+
+this is not &quot;The&quot; Featured Region, but it will do for a holding region[/color]
