@@ -1,11 +1,20 @@
-[color=green][b][i]Sejam bem-vindos &agrave;[/i] ANGOLA[/b]
-Lar dos angolanos e falantes da l&iacute;ngua portuguesa
+[color=004D33][b][i]Sejam bem-vindos &agrave;[/i] ANGOLA[/b]
+[/color][color=633517]
+[i]Lar dos angolanos e falantes da l&iacute;ngua portuguesa[/i]
 
 &amp;#10004; Independente de qual seja sua religi&atilde;o &amp;#10013; 
 &amp;#10004; Ou sua ideologia pol&iacute;tica &amp;#10016;, seja bem-vindo. 
 
-[b]&quot;Virtus Unita Fortior&quot; &amp;#10141; A unidade d&aacute; for&ccedil;a.[/b]
-
-an [region=0000] allied region
---- region transferred --- WFE not updated yet ---
-[b]Founded:[/b] 2017 Feb 15[/color]
+[b]&quot;Virtus Unita Fortior&quot; &amp;#10141; A unidade d&aacute; for&ccedil;a.[/b][/color][color=00477E]
+FACTS
+[b]Capital:[/b] Luanda
+[b]Population:[/b] 31,127,674 (2020 est.) ranked 46th
+[b]Area:[/b] 1,246,700 km&sup2; (481,400 sq mi) ranked 22nd
+[b]Independence:[/b] 1975 Nov 11 (Portugal)
+[/color][color=474700]
+REGION
+[b]Founded:[/b] 2017 Feb 15
+[b]Featured:[/b] 2021 May 15
+[region=the Central Pacific] and [region=0000] allied region
+[/color][color=004D33]
+[b]Embassy offers accepted[/b][/color]

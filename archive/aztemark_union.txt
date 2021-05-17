@@ -5,6 +5,7 @@
 [region]Gaming Town[/region]
 [region]Balvenia Port[/region]
 [region]Storage For Life[/region]
-[region]Holy Sanctuary[/region][/color]
+[region]Holy Sanctuary[/region]
+[region]The Jewel Nations[/region][/color]
 [color=goldenrod]Member Regions are expected to send a representative to this region.[/color]
 Password will be given when asked.
