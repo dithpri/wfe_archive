@@ -8,8 +8,8 @@ Parliament:
 [nation]Pakstria[/nation]
 [nation]Capitalem[/nation]
 [hr][b][color=purple]Threat Level:[/color][/b]
-[color=red]High Alert[/color] ([color=Red]Level 5[/color]/[color=RED]5[/color])
-Invaders are particularly active now. Will probably dissipate in volume by May-June. Be ready for war.
+[color=green]All Clear[/color] ([color=Green]Level 1[/color]/[color=RED]5[/color])
+The region, while inactive, is secured by password. So long as Zaldania stands, no harm will come to The Epician Islands.
 [hr][b][color=purple]News and Bulletin:[/color][/b]
 &#149; We&#39;re back!
 &#149; [color=green]Get NationStates++ at [url=]https://nationstatesplusplus.net/install[/url]![/color]

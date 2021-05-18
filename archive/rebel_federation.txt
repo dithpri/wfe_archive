@@ -8,4 +8,4 @@ Embassies: [region]The Embassy[/region] [region]Fredonia[/region] [region]Guinea
 [color=Red]&#147;[b]Fight the good fight![/b]&#148;[/color]
        
 
-[nation]Shadowisle[/nation] [nation]Chickmin[/nation] [nation]Chiasi[/nation] [nation]The Cooshi[/nation] all owned by[nation]Chickmin[/nation]
+[nation]Shadowisle[/nation] [nation]Chickmin[/nation] [nation]The Cooshi[/nation] all owned by[nation]Chiasi[/nation]
