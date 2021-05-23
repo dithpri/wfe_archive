@@ -4,8 +4,8 @@
 [list][*][b]Speaker of the House: [nation]Marvinville[/nation] ([colour=purple]TCU[/colour])[/b]
 [list][i][*]Deputy Speaker: [nation]Gallo Republic[/nation] ([colour=#FFB3E0]SOL[/colour])
 [*]Deputy Speaker: [nation]Sma Cyrillic[/nation] ([colour=grey]IND[/colour])[/i][/list]
-[*][b]Shadow Chairman of the Senate: [nation]Rhyssuan Peoples[/nation] ([colour=red]NTN[/colour])[/b]
-[list][i][*]Deputy Shadow Chairman: [nation]Nova Anglicum[/nation] ([colour=red]NTN[/colour])[/list]
+[*][b]Shadow Speaker of the House: [nation]Vacant[/nation] ([colour=grey]Vacant[/colour])[/b]
+[list][i][*]Deputy Shadow Speaker: [nation]Vacant[/nation] ([colour=grey]Vacant[/colour])[/list]
 [/list]
 [hr][b][url=page=dispatch/id=1328943][color=#ea2323]Please read the Code of Conduct and [u]Parliament Procedures (L.R. 024)[/u] before posting here.[/url][/color][/i]
 [hr]To submit a bill to the House, please find an MP to sponsor the bill and then send it to the Speaker.[/b]
