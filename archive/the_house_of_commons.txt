@@ -1,11 +1,12 @@
 [b][u][colour=#0055B5]Welcome to the House of Commons, [url=https://www.nationstates.net/region=thaecia]Thaecia[/url]&#39;s lower house of Congress.[/colour][/u][/b]
 [url=region=the thaecian senate]Senate (Upper House)[/url]
 [hr][b]Leadership:[/b]
-[list][*][b]Speaker of the House: [nation]Marvinville[/nation] ([colour=purple]TCU[/colour])[/b]
-[list][i][*]Deputy Speaker: [nation]Gallo Republic[/nation] ([colour=#FFB3E0]SOL[/colour])
-[*]Deputy Speaker: [nation]Sma Cyrillic[/nation] ([colour=grey]IND[/colour])[/i][/list]
-[*][b]Shadow Speaker of the House: [nation]Vacant[/nation] ([colour=grey]Vacant[/colour])[/b]
-[list][i][*]Deputy Shadow Speaker: [nation]Vacant[/nation] ([colour=grey]Vacant[/colour])[/list]
+[list][*][b]Speaker of the House: [nation]Andusre[/nation] ([color=grey]IND[/color])[/b]
+[list][*]Deputy Speaker: [nation]Islonia[/nation] ([color=grey]IND[/color])
+[*]Deputy Speaker: [nation]Cerdenia[/nation] ([color=grey]IND[/color])
+[*]Deputy Speaker: [nation]Gallo Republic[/nation] ([color=pink]SOL[/color])[/list]
+[*][b]Shadow Speaker of the House: [nation]Marvinville[/nation] ([color=purple]TCU[/color])[/b]
+[list][i][*]Deputy Shadow Speaker: [nation]Zon Island[/nation] ([color=purple]TCU[/color])[/list]
 [/list]
 [hr][b][url=page=dispatch/id=1328943][color=#ea2323]Please read the Code of Conduct and [u]Parliament Procedures (L.R. 024)[/u] before posting here.[/url][/color][/i]
 [hr]To submit a bill to the House, please find an MP to sponsor the bill and then send it to the Speaker.[/b]

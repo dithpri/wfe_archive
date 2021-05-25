@@ -11,7 +11,6 @@
 - [region]The Red Fleet[/region]
 - [region]The South Pacific[/region] Special Forces
 - [region]Thaecia[/region]
-- [region]The North Pacific[/region] Army
 - [region]The Black Hawks[/region]
 - [region]The East Pacific[/region]
 - [region]Europeia[/region]
