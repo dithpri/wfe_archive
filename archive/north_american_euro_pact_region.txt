@@ -5,3 +5,7 @@
 [nation]Engirescoan Foreign Office[/nation]: Overseer of the Pact (Highest Position)
 
 [nation]Anskerdanki Delegation[/nation]: Senior Member of the Pact (Position for long time members)
+
+[nation]Owlogradian Delegation[/nation]: Senior Member of the Pact (Position for long time members)
+
+[nation]The Independent State of Croatia[/nation]: Senior Member of the Pact (Position for long time members)
