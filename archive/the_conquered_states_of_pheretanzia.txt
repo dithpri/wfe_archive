@@ -2,11 +2,11 @@
 
 [list]
 
+[nation=Kinglandstan]
+
 [nation=Subjagatia]
 
 [nation=Cradle-to-grave-ia]
-
-[nation=Lusinia]
 
 [/list]
 
