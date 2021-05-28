@@ -7,9 +7,9 @@ RP Alts:
 [nation]Alvelunenberg[/nation]
 
 Lore Alts:
-[nation]Kamillenburg[/nation]
 [nation]Greater Qha Order[/nation]
 [nation]Severacia[/nation]
+(Main lore alt not mentioned yet)
 
 Former RP Alts:
 [nation]Zazye[/nation]
@@ -33,3 +33,4 @@ Other Puppets:
 [nation]Itechia[/nation]
 [nation]DingDingBimBam[/nation]
 [nation]Alvelunia[/nation]
+[nation]Kamillenburg[/nation]
