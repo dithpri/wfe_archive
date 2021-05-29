@@ -1,10 +1,1 @@
-[color=green][b]Eris[/b]
-a dwarf planet
-Comparison: Eris and (Pluto)
-Aphelion: 97.651 (49.305) AU
-Perihelion: 37.911 (29.658) AU
-Orbit: 558.04 (248.00) yrs
-Radius: 1163 (1188) km 
-Mass: 0.0028 (0.00218) Earths
-
-named after the Greek goddess of strife and discord[/color]
+...
