@@ -1,5 +1,5 @@
-[color=3030CD][b]Vietnam[/b]
-
+[color=004D33][b]Vietnam[/b]
+[/color][color=00477E]
 [list]Easternmost country on Indochina Peninsula in Southeast Asia
 Borders: [list]China (north)
 [region=Laos] (northwest)
@@ -13,5 +13,8 @@ Formation:[list]1945 Sep. 2 (Declaration)
 1976 Jul. 2 (Reunification)
 2013 Nov. 28 (Current Constitution)[/list]
 [b]Area:[/b] 332,698 km&sup2; (128,455 mi&sup2;) Ranked 65th
-[b]Population:[/b] 92,700,000 (2016 est.) Ranked 14th[/color][/list][hr][color=darkgreen]This region accepts embassy offers.
-a [region=0000] region[/color]
+[b]Population:[/b] 92,700,000 (2016 est.) Ranked 14th[/list][/color][hr][list][color=2F4747]REGION[list]
+[b]Founded:[/b] March 2, 2017
+[b]Featured:[/b] June 4, 2021
+a [region=0000]/[region=Ancient Lands] region[/color][color=green]
+[b]This region accepts embassy offers.[/b][/color]
