@@ -1,3 +1,22 @@
-[color=navy][b]Republic of Cuba[/b]
-a [region=0000] region[/color]
-[color=grey][b]Founded:[/b] 2017 Sep 17[/color]
+[color=00477E][b]Republic of Cuba[/b]
+[i]Rep&uacute;blica de Cuba (Spanish)[/i]
+[/color][color=004D33]
+FACTS
+[b]Capital:[/b] [region=Havana]
+[b]Area:[/b] 109,884 km&sup2; (42,426 sq mi)
+[b]Population:[/b] 11,193,470 (2019 census)
+[b]Independence:[/b]
+- Declaration: Oct 10, 1868
+- War of Independence: Feb 24, 1895
+- Recognized: Dec 10, 1898 (from Spain to [region=United States of America])
+- Republic: May 20, 1902 (from United States)
+- Cuban revolution: Jul 26, 1953 to Jan 1, 1959
+- Current Constitution: Apr 10, 2019
+[b]First Secretary of the Communist Party:[/b] Miguel Diaz-Canel (Apr 19, 2021)
+[/color][color=808000]
+REGION
+[b]Founded:[/b] Sep 17, 2017
+[b]Featured:[/b] Jun 08, 2021
+this is an [region=Ancient Lands] + [region=0000] region
+[/color][color=228B22]
+[b]Embassy Offers Accepted[/b][/color]
