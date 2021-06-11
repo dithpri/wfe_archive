@@ -1,4 +1,4 @@
-[color=green][b]Western Sahara[/b]
+[color=004D33][b]Western Sahara[/b]
 officially [region=Sahrawi Arab Democratic Republic]
 
 Territory of northwestern Africa
@@ -9,11 +9,10 @@ One of the most sparsely populated territories in the world, mainly consisting o
 Population of the Free Zone is estimated between 30 and 40 thousand inhabitants.
 Population of the Moroccan occupied zone is estimated at 500,000 west of the Wall.
 The defacto capital was moved from [region=Bir Lehlou] in 2008 to [region=Tifariti].
-
-
+[/color][color=olive]
 REGION
 [b]Founded:[/b] 2007 Jul 24
 [b]Featured Region:[/b] 2009 Nov 13 (before records were kept)
 [/color][color=803000]
-an [region=Old Spirit] region[/color][color=red]
-If embassy offer is unacceptable, please ignore it, and it will go away[/color]
+an [region=Ancient Lands] region[/color][color=004D33]
+Embassy Offers Accepted[/color]
