@@ -1,1 +1,14 @@
-Collection of nations around important mountain ranges
+[color=00477E][b]Central Heights[/b]
+
+allied with [region=The Central Pacific]
+Sister regions with:[list]
+1. [region=Capital Heights]
+2. [region=Columbia Heights]
+3. [region=Dominion Heights]
+4. [region=Westminster][/list]
+[/color][color=olive]
+REGION
+[b]Founded:[/b] 2021 Jun 11
+Founded as a matrix region
+[/color][color=004D33]
+[b]Embassy Offers Accepted[/b][/color]

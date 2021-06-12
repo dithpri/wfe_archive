@@ -7,6 +7,6 @@ Official puppet dump of [nation=North African Empire].
 
 [u]National Classes:[/u]
 Gargantuan: 33 nations
-Colossal: 38 nations
+Colossal: 37 nations
 Massive: 6 nations
 Huge: 3 nations
