@@ -1,7 +1,11 @@
-[u][b]Welcome to the National Assembly for the [region]Auctoritan Commonwealth[/region].[/b][/u]
+[b][u]Region Refounded by [region]Cities of the World[/region][/u][/b]
 
-[hr][color=grey][b]Assembly Speaker: [nation]Placeholder[/nation] (XXX)[/color][/b]
-[b][color=grey]Deputy Speaker: [nation]Placeholder[/nation] (XXX)[/b][/color]
-[hr][b][color=grey]Shadow Assembly Speaker: [nation]Placeholder[/nation] (XXX) [/b][/color]
-[b][color=grey]Deputy Shadow Speaker: [nation]Placeholder[/nation] (XXX)[/b][/color]
-[hr][b]To get a bill placed on the Assembly Docket, telegram the Assembly Speaker.[/b]
+Snatched from the [region]Auctoritan Commonwealth[/region].
+
+The Jacobins did nothing to improve the lives of the French people.
+
+Vive la France!
+[b]Vive le Roi![/b]
+Vive la Patrie!
+
+[url=https://greywardens.xyz/tools/wfe_index/region=national%20assembly]Previous WFEs[/url]
