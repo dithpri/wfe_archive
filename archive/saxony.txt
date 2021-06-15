@@ -1,12 +1,12 @@
-[color=375CD4][b]Saxony[/b]
-[/color][color=004D33]
+[color=004D33][b]Saxony[/b]
+[/color][color=633517]
 Free State of Saxony
 [i]Freistaat Sachsen[/i]
 
 a landlocked state of Germany
 following German reunification, Saxony was reconstructed in 1990
 [i]Saxony should not be confused with Old Saxony, homeland of the Saxons[/i]
-
+[/color][color=00477E]
 FACTS
 [b]Capital:[/b] Dresden
 [b]Largest City:[/b] Leipzig
@@ -16,5 +16,7 @@ FACTS
 REGION
 [b]Founded:[/b] 2021 Jun 13
 an [region=Ancient Lands] region
-[/color][color=633517]
-Currently: Embassy offers will not be accepted at this time[/color]
+[/color][color=004D33]
+Currently: Embassy offers will not be accepted at this time
+This region will in the future begin accepting embassy offers
+[b]Region Upgrade:[/b] TBA[/color]
