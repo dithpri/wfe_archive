@@ -1,1 +1,18 @@
-[b]Sachsen[/b][hr]Allied to [region=Ancient Lands]
+[color=004D33][b]Sachsen[/b]
+[/color][color=633517]
+Free State of Saxony
+Freistaat Sachsen
+
+a south-eastern state of Germany
+[/color][color=00477E]
+FACTS
+[b]Capital:[/b] Dresden
+[b]Area:[/b] 18,415.66 km2 (7,110.33 sq mi)
+[b]Population:[/b] 4,077,937 (2018)
+[/color][color=D4AF37]
+REGION
+[b]Founded:[/b] 2021 JUN 15
+[b]Sister Region:[/b] [region=Saxony]
+a [region=Ancient Lands] region
+[/color][color=red]
+No embassy offers will be acceptd at this time[/color]

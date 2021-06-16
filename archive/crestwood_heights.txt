@@ -4,6 +4,7 @@ Home to:
 [nation]Philville-TEP[/nation]
 [nation]Philville-Epics[/nation]
 [nation]Philville-Ultra-Rares[/nation]
+[nation]Philville-Rares[/nation]
 [nation]Philville-Sloths[/nation]
 [nation]Philville-Kiwi[/nation]
 [nation]Philville-Unicorns[/nation]
