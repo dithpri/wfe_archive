@@ -29,5 +29,5 @@
 
 [hr][table]
 [tr][td][url=https://www.nationstates.net/page=ga][colour=purple]General Assembly[/colour][/url][/td][td][url=https://www.nationstates.net/page=sc][colour=purple]Security Council[/colour][/url][/td][/tr]
-[tr][td][colour=blue][b]FOR[/b][/colour] [/td][td][colour=blue][b]FOR[/b][/colour][/td][/tr]
+[tr][td][colour=red][b]AGAINST[/b][/colour] [/td][td][colour=blue][b]FOR[/b][/colour][/td][/tr]
 [/table]

@@ -1,8 +1,25 @@
-[hr][list][color=navy][b]Edmonton[/b][/color][/list][hr][color=004d33]FACTS[list]Capital of Alberta, Canada
-[b]Population:[/b] 932,546 (2016c)
+[color=004D33][b]Edmonton[/b]
+[/color][color=633517]
+Capital of Alberta in Canada
+Northernmost Metropolitan City in North America*
+(* population over 1 million)
+53&deg;32&amp;#8242;4&amp;#8243;N 113&deg;29&amp;#8242;25&amp;#8243;W
+[/color][color=00477E]
+FACTS
 [b]Founded:[/b] 1795
-[b]City:[/b] 1904 Oct 08
-Northernmost Metropolitan City (over million population) in North America[/list][/color][hr][color=olive]REGION[list][b]Founded:[/b] 2016 May 13
+[b]Incorporated:[/b] 
+- as Town: 1892 Jan 09
+- as City: 1904 Oct 08
+[b]Area:[/b] 767.85 km sq (296.47 sq mi)
+- Metro 9,430.86 sq km (3,641.28 sq mi)
+[b]Population:[/b] 932,546 (City) 1,321,426 (Metro) (2016 Census)
+[/color][color=D4AF37]
+REGION
+[b]Founded:[/b] 2016 May 13
 [b]Matrixed:[/b] 2016 Nov 30
-a [region=Ancient Lands] allied region
-associated with [region=Calgary][/color][/list][hr][list][color=96001a]Embassy Offers Accepted[/color][/list][hr]
+[b]Featured:[/b] 2021 Jun 19
+[b]Sister Regions:[/b] [region=Calgary]
+an [region=Ancient Lands] region
+[/color][color=004D33]
+Welcome
+Embassy Offers Accepted[/color]
