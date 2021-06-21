@@ -7,4 +7,4 @@ Exceptions are when the list is being edited by:
 2. Changing the order of the regions
 3. Closing a region
 [/color][color=navy]
-this is a [region=the Central Pacific] allied holding region[/color]
+this is an [region=United States of America] region[/color]

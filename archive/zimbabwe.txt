@@ -1,15 +1,22 @@
-[hr][list][color=126432][b]Zimbabwe[/b][/list][hr]FACTS[list]
-Republic of Zimbabwe is a landlocked southern African country
+[color=004D33][b]Zimbabwe[/b]
+[/color][color=633517]
+Republic of Zimbabwe
+a landlocked southern African country
 located between Zamezi and Limpopo Rivers
-bordered by [region=South Africa], [region=Botswana], [region=Zambia] and [region=Mozambique]
-
+[b]Bordering:[/b] [region=South Africa], [region=Botswana], [region=Zambia] and [region=Mozambique]
+[/color][color=00477E]
+FACTS
 [b]Capital City:[/b] [region=Harare]
 [b]Independence:[/b] (from United Kingdom)
 - declared - 1965 Nov 11
 - Republic - 1970 Mar 02
 [b]Area:[/b] 390,757 km&sup2; (150,872 mi&sup2;) (60th largest)
-[b]Population:[/b] 16,150,362 (2016 est.) (73rd largest)[/list][/color][hr][color=666600]REGION [list][b]Founded:[/b] 2012 Nov 08 (by [nation=Bezi])
-[b]Featured:[/b] 2018 May 28; 2018 Sep 25; 2020 Nov 20
-this is a [region=0000] region
-associated with [region=United States of America], [region=Old Spirit] and [region=Ancient Lands]
-[/list][/color][color=00AD00][hr][list]Embassy offers are welcome[/color][/list][hr]
+[b]Population:[/b] 16,150,362 (2016 est.) (73rd largest)
+[/color][color=D4AF37]
+REGION
+[b]Founded:[/b] 2012 Nov 08
+[b]Featured:[/b] 2018 May 28; 2018 Sep 25; 2020 Nov 20; 2021 Jun 20
+an [region=Ancient Lands] region
+associated with [region=United States of America] and [region=Westminster]
+[/color][color=004D33]
+Embassy offers are welcome[/color]

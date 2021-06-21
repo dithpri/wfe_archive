@@ -1,15 +1,20 @@
-[list][color=green][b]Banana[/b]
+[color=004D33][b]Banana[/b]
+[/color][color=633517]
 [i]Alpha Oracle[/i]
-
-REGION
-[list][b]Founded:[/b] 2020 March 22 (refounded)
-- FIRST REGION
+- &quot;FIRST REGION IN THE GAME&quot;
 - ORACLE PRIME
-- a [region=the Central Pacific] Allied Region[/list][/color][hr][color=navy][list][b]Links:[/b] Thanks [region=Texas] for the tools to make this game easier
+- NOTE: [region=The Alliance of Independent States] is ORACLE OMEGA
+[/color][color=003366]
+[b]Links:[/b] Thanks [region=Texas] for the tools to make this game easier
 [list][url=http://texasregion.net/nsdossier/embassyOracle.aspx]Oracle[/url]
 This link determines the degree of separation between two regions
 [b]Currently:[/b] [region=Banana] to [region=The Alliance of Independent States]: 
 - about 1300 degrees of separation (max was over 2000)
 
-[url=http://texasregion.net/nsdossier/]NS Dossier[/url][/list][/color][/list][hr][list]
-[color=red]No Embassy Offers[/color][/list][hr]
+[url=http://texasregion.net/nsdossier/]NS Dossier[/url][/list]
+[/color][color=D4AF37]
+REGION
+[b]Founded:[/b] 2020 March 22
+an [region=Ancient Lands] region
+[/color][color=red]
+No Embassy Offers Please[/color]

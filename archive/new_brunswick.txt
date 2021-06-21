@@ -1,14 +1,20 @@
-[color=502510][b]New Brunswick[/b][hr]New Brunswick is one of Canada&#39;s three Maritime provinces, and the only constitutionally bilingual province (French and English) in the country. The name comes from the archaic English name of Braunschweig, a city in northern Germany. The province today is strongly influenced by the Irvings and the McCains families.
+[color=004D33][b]New Brunswick[/b]
+[/color][color=633517]
+New Brunswick is one of Canada&#39;s three Maritime provinces, 
+the only constitutionally bilingual province (French and English) in the country. 
+The name comes from the archaic English name of Braunschweig, a city in northern Germany. 
+The province today is strongly influenced by the Irvings and the McCains families.
+[/color][color=00477E]
+FACTS
 Capital: Fredericton
 Population: 749,168
 Area: 72,908 km&sup2;
 Confederation: July 1, 1867 (Canada)
-
-Visitors are always welcomed here[/color][color=olive]
-
+[/color][color=D4AF37]
 REGION
 [b]Founded:[/b] 2016 Mar 17
-[b]Matrixed:[/b] 2016 Mar 17
-This region has not yet been featured[/color][color=1C39BB]
-Embassy offers are accepted[/color][color=B8860B]
-a [region=The Central Pacific] allied region[/color]
+[b]Caretaker:[/b] [nation=short]Chopaka[/nation]
+an [region=0000]/[region=Ancient Lands] region
+[/color][color=004D33]
+Visitors are always welcomed here
+Embassy offers are accepted[/color]

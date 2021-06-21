@@ -1,7 +1,10 @@
-[color=green][b]Dublin[/b]
+[color=004D33][b]Dublin[/b]
+[/color][color=633517]
 [i]Baile &Aacute;tha Cliath[/i]
 
 Capital City of Republic of Ireland
+[/color][color=00477E]
+FACTS
 [b]Area:[/b]
 - Capital City: 115 km[sup]2[/sup] (44 sq mi)
 - Urban Area: 318 km[sup]2[/sup] (123 sq mi)
@@ -10,6 +13,9 @@ Capital City of Republic of Ireland
 - Urban Area: 1,173,179
 - Metro Area: 1,347,359
 - Greater Dublin: 1,904,806
-[/color][color=803000]
-an [region=Old Spirit] of [region=United States of America] region
-[b]Founded:[/b] 2019 Jun 21[/color]
+[/color][color=D4AF37]
+REGION
+[b]Founded:[/b] 2019 Jun 21
+an [region=Ancient Lands] region
+[/color][color=004D33]
+[b]Embassy Offers Welcome[/b][/color]
