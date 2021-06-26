@@ -1,1 +1,1 @@
-spare region
+Back-up region for the IDU.
