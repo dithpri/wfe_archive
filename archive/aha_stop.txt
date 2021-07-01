@@ -1,26 +1,31 @@
-AHA&#39;s Nations.
+AHatA&#39;s alts/puppets
 
 Main/WA:
 [nation]Alaska Hawaii and the Aleutes[/nation]
 
 RP Alts:
 [nation]Alvelunenberg[/nation]
+[nation]Crnarus[/nation]
 
 Lore Alts:
+[nation]Pivnichia[/nation]
+
+Puppet and Alt manager:
+[nation]Vinaile[/nation]
+
+Puppets currently in AHA Stop (excluding Vinaile):
+[nation]New Tamarack[/nation]
+[nation]Greater Qhaenya[/nation]
 [nation]Greater Qha Order[/nation]
 [nation]Severacia[/nation]
-(Main lore alt not mentioned yet)
-
-Former RP Alts:
 [nation]Zazye[/nation]
 [nation]Xayase[/nation]
-[nation]Greater Qhaenya[/nation]
-[nation]Vinaile[/nation]
+[nation]Paunachia[/nation]
 
 Other Puppets:
 [nation]Saye Amyra[/nation]
 [nation]Itechia[/nation]
-[nation]New Tamarack[/nation]
 
-Ambassador Nations for Blackstar:
-[nation]Alvelunia[/nation]
+Ambassador Nations for Blackstar (probably soon to be moved to &quot;other puppets&quot;):
+[nation]Alvelunia[/nation] 
+

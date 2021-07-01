@@ -10,6 +10,7 @@ List of my regions for puppet storage:
 [region]Violin Sonatas by Mozart[/region]
 [region]Other Defaults[/region]
 [region]Ejecting[/region]
+[region]Beefwater[/region]
 [region]A Good Nights Rest[/region] (just the founder)
 
 [hr]
