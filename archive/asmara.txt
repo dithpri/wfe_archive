@@ -1,15 +1,21 @@
-[color=navy][b]Asmara[/b]
-[/color][color=green]
+[color=004d33][b]Asmara[/b]
+[/color][color=633616]
 Capital and largest City of Eritrea
+sixth highest capital in the world
+[/color][color=00477e]
+FACTS
 [b]Population:[/b]  963,000 (2020)
-[b]Area:[/b] 45 km[sup]2[/sup]
-[b]Elevation:[/b] 2,325 metres (7,628 ft)
- it is the sixth highest capital in the world
-[/color][color=olive]
+[b]Area:[/b] 45 km&sup2;
+[b]Elevation:[/b] 2,325 m (7,628 ft)
+[/color][color=d4af37]
 REGION
-a [region=0000] Puppet Storage Region
 [b]Founded:[/b] 2016 May 18
 [b]Puppet Storage Region:[/b] 2019 Aug 22
 [b]Matrixed:[/b] 2020 Aug 29 (accepts embassies since)
-[b]Featured:[/b] 2021 Jan 09[/color][color=green]
+[b]Featured:[/b] 2021 Jan 09; 2021 Jul 01
+a [region=0000] puppet storage region
+an [region=Ancient Lands] capital city region
+also allied with [region=Ethiopia], [region=The Central Pacific], 
+[region=United States of America], [region=Westminster]
+[/color][color=004d33]
 [b]Embassy Offers Accepted[/b][/color]
