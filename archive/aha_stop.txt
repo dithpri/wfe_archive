@@ -7,6 +7,9 @@ RP Alts:
 [nation]Alvelunenberg[/nation]
 [nation]Crnarus[/nation]
 
+Puppets located in Blackstar (or Blackstar related regions):
+[nation]Saye Amyra[/nation]
+
 Lore Alts:
 [nation]Pivnichia[/nation]
 
@@ -21,7 +24,6 @@ Puppets currently in AHA Stop (excluding Vinaile):
 [nation]Zazye[/nation]
 [nation]Xayase[/nation]
 [nation]Paunachia[/nation]
-[nation]Saye Amyra[/nation]
 
 Other Puppets:
 [nation]Itechia[/nation]

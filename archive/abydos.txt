@@ -4,7 +4,7 @@
 [b]Grand Luxarch:[/b] - [nation]Orbisburg[/nation]
 
 [b]Conclave of Viziers:[/b]
-&#149; Templars - [nation]LasVegastan[/nation]
+&#149; Templars - 
 &#149; Ambassadors Guild - [nation]Katniss Everdean[/nation]
 &#149; Defense - [nation]Ragnox[/nation]
 &#149; Roleplay -[nation]Ancient Greek Kingdoms[/nation]
@@ -13,7 +13,7 @@
 
 [b]Presidium of Founders:[/b]
 &#149;Founder-[nation]Zyris[/nation]
-&#149;Founder-
+&#149;Founder-[nation]LasVegastan[/nation]
 &#149;Founder-
 &#149;Founder-
 &#149;Founder-
