@@ -3,31 +3,40 @@ AHatA&#39;s alts/puppets
 Main/WA:
 [nation]Alaska Hawaii and the Aleutes[/nation]
 
-RP Alts:
+RP Alt + Newspaper puppet:
 [nation]Alvelunenberg[/nation]
-[nation]Crnarus[/nation]
 
-Puppets located in Blackstar (or Blackstar related regions):
-[nation]Saye Amyra[/nation]
+RP Alts:
+[nation]Crnarus[/nation]
+[nation]Zazye[/nation]
+
+Other Puppets:
+[nation]Saye Amyra[/nation] + [nation]Yukasa[/nation]
 
 Lore Alts:
 [nation]Pivnichia[/nation]
 
-Puppet and Alt manager:
+Puppet and Alt manager/Second Main/Telegrams/Embassy relations/Head of Advertising:
 [nation]Vinaile[/nation]
 
-Puppets currently in AHA Stop (excluding Vinaile):
+Interregional Newspaper Puppet:
 [nation]New Tamarack[/nation]
+
+Puppets currently in AHA Stop (excluding Vinaile):
 [nation]Greater Qhaenya[/nation]
-[nation]Greater Qha Order[/nation]
-[nation]Severacia[/nation]
-[nation]Zazye[/nation]
 [nation]Xayase[/nation]
+
+Dispatch puppet (a.k.a all dispatches which I&#39;ll eventually delete, but have some information):
 [nation]Paunachia[/nation]
+
+We&#39;ll see what happens:
+[nation]Severacia[/nation]
+
+Blackstar puppets:
+[nation]Greater Qha Order[/nation]
 
 Other Puppets:
 [nation]Itechia[/nation]
 
 Ambassador Nations for Blackstar (probably soon to be moved to &quot;other puppets&quot;):
 [nation]Alvelunia[/nation] 
-
