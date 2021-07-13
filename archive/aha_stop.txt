@@ -11,7 +11,11 @@ RP Alts:
 [nation]Zazye[/nation]
 
 Other Puppets:
-[nation]Saye Amyra[/nation] + [nation]Yukasa[/nation]
+[nation]Saye Amyra[/nation]
+[nation]Yukasa[/nation]
+[nation]Ylvera[/nation]
+[nation]Alaska Hawaii and the Aleutian islands[/nation]
+[nation]Itechia[/nation]
 
 Lore Alts:
 [nation]Pivnichia[/nation]
@@ -25,18 +29,11 @@ Interregional Newspaper Puppet:
 Puppets currently in AHA Stop (excluding Vinaile):
 [nation]Greater Qhaenya[/nation]
 [nation]Xayase[/nation]
-
-Dispatch puppet (a.k.a all dispatches which I&#39;ll eventually delete, but have some information):
-[nation]Paunachia[/nation]
-
-We&#39;ll see what happens:
 [nation]Severacia[/nation]
+[nation]Paunachia[/nation] (puppet which holds all the useless dispatches)
 
 Blackstar puppets:
 [nation]Greater Qha Order[/nation]
 
-Other Puppets:
-[nation]Itechia[/nation]
-
-Ambassador Nations for Blackstar (probably soon to be moved to &quot;other puppets&quot;):
+Ambassador Nations for Blackstar:
 [nation]Alvelunia[/nation] 

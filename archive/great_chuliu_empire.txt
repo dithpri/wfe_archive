@@ -8,7 +8,6 @@
 [color=#d67e02][u]Capital[/u][/color]: Chuliu Emperor City
 [color=#d67e02][u]Official Language[/u][/color]: Chuliu Language
 [color=#d67e02][u]Official Religion[/u][/color]: Christianity
-[color=#d67e02][u]Recognized Religions[/u][/color]: Christianity 50.0%, Buddhism and Taoism 16.5%, Unknown 33.5%
-
+[color=#d67e02][u]Recognized Religions[/u][/color]: Christianity 50.0%, Unknown 33.5%, Buddhism and Taoism 16.5%
 
 [color=#d67e02][u]Trade Items[/u][/color]: Card of [nation]Chuliu Emperor[/nation]
