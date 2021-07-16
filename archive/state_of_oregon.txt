@@ -14,4 +14,5 @@ REGION
 [b]Founded:[/b] 2021 Jul 09
 an [region=United States of America] region
 [/color][color=7e0000]
-not accepting embassy offers for this region at this time[/color]
+An Embassy Oracle Region ([region=0000])
+not accepting embassy offers[/color]

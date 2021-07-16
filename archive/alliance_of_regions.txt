@@ -1,12 +1,1 @@
-[color=blue]Hello![/color] [color=green]Welcome to [region]Alliance Of Regions[/region]![/color] [color=blue](AOR)[/color]
-[color=goldenrod]The AOR is an interregional organization, in which all the regions cooperate and help each other if they are in need![/color] [color=blue][b]A raid on one member is seen as a raid on all.[/b][/color]
-[color=green]Currently, its participant regions are as follows:[/color]
-[region]Real Conservative Region[/region]
-[region]Land Of Conservatives[/region]
-[region]The Union of Rightwing Nations[/region]
-[region]The European Commonwealth of Nations[/region]
-[region]The Western Commonwealth[/region]
-
-[color=blue]If you would like to join, please follow the application process below, as laid out in the dispatch.[/color] [color=green][b]WE DO NOT ACCEPT EMBASSY REQUESTS. ONLY MEMBER REGIONS MAY HAVE EMBASSIES![/b][/color] [color=goldenrod]We look forward to you joining, however![/color]
-
-[color=goldenrod]The password will be given upon request.[/color]
+AR
