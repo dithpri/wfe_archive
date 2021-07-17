@@ -1,13 +1,13 @@
-[color=dodgerblue]This fascist region has been seized by the Thaempirial Army [[region]Thaecia[/region]].[/color]
-As always, there is [b]no platform for fascists![/b] Fascism is an ideology of hate, tyranny, intolerance and oppression, and there is no excuse for endorsing it.
+[b][color=#0d5eaf]This fascist region has been seized by[/color] [url=https://nationstates.net/region=thaecia][color=#55AAFF][u]Thaecia&#39;s Thaempirial Army[/u][/color][/url][color=0d5eaf].
+As always, [u]we work to deny fascists a platform[/u] with which to spread their ideology of hate, tyranny, intolerance and oppression.
 
-[spoiler=Thaempirial Army][SoDf] [nation]Brototh[/nation] [Point]
-[GEN] [nation]Andusre[/nation] [B/C]
-[LTN] [nation]Islonia[/nation] [B/C]
+[spoiler=[color=0d5eaf][b]Thaempirial Army[/color][/b]][SoDf] [nation]Brototh[/nation] [Point]
+[GEN] [nation]Andusre[/nation] [BC RO]
+[LTN] [nation]Islonia[/nation] [BC RO]
 [COL] [nation]Broustan[/nation]
 [COL] [nation]Lemonadia[/nation]
 [PFC] [nation]Emazia[/nation]
 [PSC] [nation]Antenion[/nation]
 [CPL] [nation]Bahnhof[/nation]
 [PSC] [nation]Dendrobium[/nation]
-[PFC] [nation]The Islamic Country of Honour[/nation][/spoiler]
+[PFC] [nation]The Islamic Country of Honour[/nation][/spoiler][/color][/b]
