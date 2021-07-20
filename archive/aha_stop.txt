@@ -9,6 +9,7 @@ RP Alt + Newspaper puppet:
 RP Alts:
 [nation]Crnarus[/nation]
 [nation]Zazye[/nation]
+[nation]Greater Qhaenya[/nation]
 
 Other Puppets:
 [nation]Saye Amyra[/nation]
@@ -27,7 +28,6 @@ Interregional Newspaper Puppet:
 [nation]New Tamarack[/nation]
 
 Puppets currently in AHA Stop (excluding Vinaile):
-[nation]Greater Qhaenya[/nation]
 [nation]Xayase[/nation]
 [nation]Severacia[/nation]
 [nation]Paunachia[/nation] (puppet which holds all the useless dispatches)
