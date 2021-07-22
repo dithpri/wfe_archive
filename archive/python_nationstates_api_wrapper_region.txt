@@ -1,1 +1,5 @@
 Hello - This region is to house the Test nations used for pynationstates - a python wrapper for the nationstates api
+
+You can find pynationstates here - [url]https://github.com/DolphDev/pynationstates[url]
+
+It is used to keep this region alive, and powers [nation]Pynationstates Automated Nation[/nation]
