@@ -1,15 +1,1 @@
-We are a group dedicated to the unification of the NationStates realm, its regions and all its aspects.
-1 Nation
-10 Nations = 1 State
-10 States = 1 Province
-10 Provinces = 1 Region
-10 Regions = 1 Sector
-10 Sectors = 1 Senator
-
-Nation = Local Leader
-State = State Governor
-Province = Provincial Governor
-Region = Regional Moff
-Sector = Sector Moff
-
-The Organization will be more detailed over time.
+The world union obeys ALL human rights. 

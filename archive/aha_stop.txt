@@ -10,12 +10,12 @@ RP Alts:
 [nation]Crnarus[/nation]
 [nation]Zazye[/nation]
 [nation]Greater Qhaenya[/nation]
+[nation]Severacia[/nation]
 
 Other Puppets:
 [nation]Saye Amyra[/nation]
 [nation]Yukasa[/nation]
 [nation]Ylvera[/nation]
-[nation]Alaska Hawaii and the Aleutian islands[/nation]
 [nation]Itechia[/nation]
 
 Lore Alts:
@@ -29,7 +29,7 @@ Interregional Newspaper Puppet:
 
 Puppets currently in AHA Stop (excluding Vinaile):
 [nation]Xayase[/nation]
-[nation]Severacia[/nation]
+[nation]Alaska Hawaii and the Aleutian islands[/nation]
 [nation]Paunachia[/nation] (puppet which holds all the useless dispatches)
 
 Blackstar puppets:
