@@ -2,7 +2,7 @@
 [i][u]Operantur in Mundo Adunare[/u][/color] is our motto![/i]
 [hr][b]This region is a region that has been made to honour [nation=long+noflag]Nicholas and Great Britain[/nation].
 [hr]This region holds the military of [nation=short+noflag]Nicholas and great Britain[/nation].
-[list]&#149;[nation]Army of Nicholas and Great Britain[/nation]
-&#149;[nation]Navy of Nicholas and Great Britain[/nation]
-&#149;[nation]Air Force of Nicholas and Great Britain[/nation][/list]
+[list][*][nation]Army of Nicholas and Great Britain[/nation]
+[*][nation]Navy of Nicholas and Great Britain[/nation]
+[*][nation]Air Force of Nicholas and Great Britain[/nation][/list]
 [hr]We do not accept random embassy requests but we do make embassies with regions of interest.[/b]

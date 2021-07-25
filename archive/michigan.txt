@@ -1,15 +1,20 @@
-[color=navy][b]Michigan[/b] is a Midwestern state of [i]United States of America[/i], named after Lake Michigan (Great Water). 
-
+[color=00477e][b]Michigan[/b]
+[/color][color=7e4724]
+a Midwestern state of [i]United States of America[/i]
+named after Lake Michigan (meaning Great Water)
+[/color][color=004d33]
 Facts: 
-- Capital: Lansing 
-- Area: 97,990 sq mi (11th) 
-- Population: 10,003,422 (8th) 
-- Admission: Jan 26, 1837 (26th)
+[b]Capital:[/b] Lansing 
+[b]Area:[/b] 97,990 sq mi (11th) 
+[b]Population:[/b] 10,003,422 (8th) 
+[b]Admission:[/b] Jan 26, 1837 (26th)
 [b]Bordered by:[/b] [region=Ohio], [region=Indiana], [region=Illinois], [region=Wisconsin] and [region=Ontario].
 
-Thank God For Michigan[/color]
-
-Please, Do Not Recruit Here
-Visitors Welcome
-Featured: May 31, 2012 - Jan. 1, 2013 - Feb. 11, 2014 - Sep. 7, 2014
-Embassies are welcome
+[b]Thank God For Michigan[/b]
+[/color][color=cc9933]
+REGION
+Featured: May 31, 2012; Jan. 01, 2013; Feb. 11, 2014; Sep. 06, 2014; Jul. 24, 2021
+a [region=United States of America] region
+[/color][color=004d33]
+Visitors are Welcome
+Embassy Offers Welcome[/color]
