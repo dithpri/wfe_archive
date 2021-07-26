@@ -1,12 +1,13 @@
-[hr][hr][list][color=004400][b]Seychelles[/b][/color][/list][hr][hr]
-[color=006666]FACTS[list]- officially the Republic of Seychelles
+[hr][hr][list][color=0047d33][b]Seychelles[/b][/color][/list][hr][hr]
+[color=503010]FACTS[list]- officially the Republic of Seychelles
 - an archipelago country in the Western Indian Ocean
 - a member of the African Union
-[b]Capital:[/b] Victoria
+[/color][color=00477e]
+[b]Capital:[/b] [region=Victoria City]
 [b]Independence:[/b] 1976 Jun 29 (from UK)
-[b]Area:[/b] 459 km[sup]2[/sup] (177 sq mi) 181st in world
-[b]Population:[/b] 94,228 (2016 est.) 195th in world[/list][/color][hr][color=666600]REGION[list][b]Founded:[/b] 2013 Sept 20
-[b]Matrixed:[/b] 2016 May 03
-[b]Featured:[/b] 2019 Oct 06; 2020 June 14
-This is a QSA Puppet Storage Region
-[b]Associated with:[/b] [region=United States of America][/list][/color][hr][color=cc6633][list][b]Embassy Offers are welcome[/b][/list][/color][hr][hr]
+[b]Area:[/b] 459 km&sup2; (177 sq mi) 181st in world
+[b]Population:[/b] 94,228 (2016 est.) 195th in world[/list][/color][hr][color=cc9933]REGION[list][b]Founded:[/b] 2013 Sept 20
+[b]Matrixed:[/b] 2016 May 03 (Embassies)
+[b]Featured:[/b] 2019 Oct 06; 2020 June 14; 2021 July 25
+an [region=Ancient Lands] puppet storage region
+in association with [region=United States of America][/list][/color][hr][color=004d33][list][b]Embassy Offers are welcome[/b][/list][/color][hr][hr]
