@@ -3,5 +3,12 @@ The Region is [color=red]Socialist[/color] and [color=red]Communist[/color].
 [table]
 [tr][td]Stats!!![/td][td][/td][/tr]
 [tr][td]Region states[/td][td][i][color=green]1[/color][/i][/td][/tr]
-[tr][td]States reached out via personal recruitment[/td][td][i][color=green]24[/color][/i][/td][/tr]
+[tr][td]States reached out via personal recruitment[/td][td][i][color=green]28[/color][/i][/td][/tr]
 [/table]
+
+[color=brown][b]Constitution[/b][/color]
+[list]
+[*] One:
+III Municipio is a Socialist-Communist Region. Its member may not agree with the Marxist Ideology.
+[*] Two:
+Fascist members, Embassies with fascist regions and fascist declaration are prohibited.
