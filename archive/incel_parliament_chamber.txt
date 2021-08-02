@@ -1,10 +1,12 @@
 [b][region]Institute of Cellulose[/region][/b]
 [hr][u][b]STATUS[/b][/u]
-WIP
+[b]Session Situation:[/b] [color=red]PARLIAMENT IS NOT IN SESSION[/color]
+[b]Session Subject:[/b] Unavailable
+[b]Votes:[/b] [color=red]PARLIAMENT IS NOT VOTING[/color]
 [hr][u][b]INFORMATION[/b][/u]
 [b]Region:[/b] [region]Institute Of Cellulose[/region]
 [b]Founded:[/b] June 13, 2021
 [b]Term Lengths:[/b] 2 Months
 [b]Term Amounts:[/b] Not Limited
 [hr][u][b]SEATS[/b][/u]
-WIP
+[b]Total:[/b] 9

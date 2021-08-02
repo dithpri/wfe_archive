@@ -3,11 +3,11 @@ Capital: Frankfurt
 Second-Capital: Wilhem City
 
 Leader/Kaiser: The Commonwealth Of Prussia-Athori
-Current Delegate: The Commonwealth Of Prussia-Athori
+Current Delegate: 
 
-Border Control: Berlin-Hanover
+Border Control: 
 
-Cabinet: The Commonwealth Of Prussia-Athori, Berlin-Hanover
+Cabinet: The Commonwealth Of Prussia-Athori
 
 Homeland Office: The New German Federation
 
