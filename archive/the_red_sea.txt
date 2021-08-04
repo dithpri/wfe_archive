@@ -1,7 +1,5 @@
-[b]The [color=da121a]Red[/color] [color=0f47af]Sea[/color] is a [color=078930]personal[/color] [color=fcdd09]administrative[/color] [color=da121a]region[/color] for [nation=short]Zulanka[/nation].
+[b]The [color=da121a]Red[/color] [color=0f47af]Sea[/color] is a personal administrative region for [nation=short]Zulanka[/nation].
 
 [hr][hr]
 
-[region]North Korea[/region] | [region]The Internationale[/region]
-
-[region]Korean Peoples Army[/region] | [region]Korean Peoples Navy[/region] | [region]The Red Fleet[/region] | [region]Antifa[/region][/b]
+[region]North Korea[/region] | [region]Korean Peoples Army[/region] | [region]Antifa[/region][/b]
