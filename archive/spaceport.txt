@@ -1,0 +1,1 @@
+2nd puppet storage facility of Cerata. This series of puppets will remain unused until S3.
