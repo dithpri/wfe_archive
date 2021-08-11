@@ -1,5 +1,13 @@
-[hr][hr][list][color=003163][b]America Central[/b][/list][hr][hr]
-
-[hr]REGION[list][b]Founded:[/b] 17 Dec 2020[/list][hr]
+[color=003163][b]America Central[/b]
+[/color][color=884422]
+Not really based upon anything,
+no real reason for existing,
+this region is a generic puppet storage region,
+it is associated with [region=The Central Pacific]
+Allies include: [region=Belize]; [region=Queensland]
+[/color][color=cc9933]
+REGION
+[b]Founded:[/b] 2020 Dec 17
+[b]Featured:[/b] 2021 Aug 10
 [/color][color=006300]
-[hr][list][b]Embassy offers welcome[/b][/color][/list][hr][hr]
+[b]Embassy offers welcome[/b][/color]
