@@ -1,13 +1,8 @@
 [color=004D33][b]Nack[/b]
 [/color][color=00477e]
 . . . and, if this region had have fallen just a few slots further down the update list, I probably would never have noticed it . . .
-[/color][color=664422]
-[b]Note:[/b]
-This is a [region=0000] Embassy Oracle Holding Region
-(as are all of the similarly bannered and flagged regions before this one)
-None of these regions will accept embassy offers 
-All will be closed as being surplus upon being bumped out of the first 100 regions *
-(* based upon the update order of the regions)
-[/color][color=800000]
-No embassy offers will be accepted here
-I really had not expected this region to last this long[/color]
+[/color][color=996633][list][b]Note:[/b]
+this region is now ranked 101, one spot out of the first 100 regions
+once the oracle embassy regions have set their embassies (expected 3 days time)
+this region will be cycled out of the oracle list and closed[/list][/color][color=red]
+No embassy offers will be accepted[/color]
