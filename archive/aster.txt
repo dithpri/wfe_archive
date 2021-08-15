@@ -17,9 +17,12 @@ We are creating a political system based on Citizenship status &amp; going for a
 [b]Current Council Members:[/b]
 
 Councilman [nation]Hamey[/nation] - Pale
-Councilman [nation]Southern Prescott[/nation] - Muslim League
+Councilwoman [nation]Federative Woodstock[/nation] - Pale
 Councilman [nation]Digeriacht[/nation] - Aster Nationalist
 Councilwoman [nation]Grand Empire of Prussia[/nation] - NWO
+Councilman [nation]The unmasked empire[/nation] -NWO
+Councilman [nation]Southern Prescott[/nation] - Muslim League
 Councilman [nation]Eesil[/nation] - Muslim League
+Councilwoman [nation]Allorvia[/nation] - Muslim League
 
 [/Color]
