@@ -1,15 +1,2 @@
-[nation]pro_dru_anditse[/nation] - Kaden
-[nation]country_area[/nation] - Ian
-[nation]farmlands_and_forests[/nation] - Matthew
-[nation]rin_okumora[/nation] - Ali
-[nation]minecraftonia[/nation] - Jaxson
-[nation]north_jackelis_kan[/nation] - Bailey
-[nation]syetural[/nation] - Alexandra
-[nation]elryi[/nation] - Penny
-[nation]Looeyville[/nation] - Mandalyn
-[nation]blobfishes[/nation] - Owen
-[nation]Pikmin4[/nation] - Gabriel
-[nation]hippos_landia[/nation] - Zach
-[nation]westrockspringsworthdale[/nation] - Dylan  (needs to move here)
-[nation][/nation] - Jordyn   (country name needed)
+
 [nation]Qwerty2012[/nation] - Mr. Kibbe
