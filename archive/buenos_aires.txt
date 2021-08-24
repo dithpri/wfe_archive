@@ -1,16 +1,17 @@
-[color=navy][b]Buenos Aires[/b][/color][color=006900]
+[color=004d33][b]Buenos Aires[/b]
+[/color][color=694929]
 Capital and largest city of Argentina
-
+[/color][color=004d33]
 FACTS
 [b]Esablished:[/b] 1536 Feb 02
 [b]Area:[/b] City: 203 km&sup2; Metro: 4,758 km&sup2;
 [b]Population:[/b] City: 2,891,082; Metro: 15,594,428 (2010 c.)
-[/color][color=803000]
+[/color][color=cc9933]
 REGION
 [b]Founded:[/b] 2017 Jun 11
 [b]Puppets:[/b] 2019 Jul 03
 [b]Matrixed:[/b] 2019 Oct 06
-[b]Featured:[/b] 2019 Oct 10
-an [region=Old Spirit] region
-[/color][color=ff6900]
-Embassy Offers are Accepted[/color]
+[b]Featured:[/b] 2019 Oct 10; 2021 Aug 23
+an [region=Ancient Lands] Capital Cities region
+[/color][color=004d33]
+[b]Embassy Offers are Accepted[/b][/color]

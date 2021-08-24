@@ -1,9 +1,12 @@
-[color=004d33][b]Douglas City[/b][/color]
+[color=004d33][b]Douglas City[/b]
+[/color][color=664422]
+status for this region is being changed from ORACLE region to LIGHT MATRIX region
+It could be changed to regular MATRIX region later
 
-[color=cccccc]temporary region, just to see where it lands in the update[/color]
-
-[color=cc9933]this is an [region=Ancient Lands] region[/color]
-
-[color=800008]
------ Sorry - No embassy offers - please -----
----------- they will be ignored if sent ---------[/color]
+Capital and largest community of [region=Isle of Man]
+[/color][color=cc9933]
+REGION
+[b]Founded:[/b] 2021 AUG 09
+this is an [region=Ancient Lands] region
+[/color][color=004d33]
+Embassy Offers, if noticed, will be accepted[/color]
