@@ -1,5 +1,10 @@
 Welcome! You have arrived at the home region for [b]AugustinAndroid v2[/b], the most advanced NationStates bot on the market.
 
+[hr]
+To use an RMB bot command, mention [nation]The Moose[/nation], then type your command. Example: [pre][nation]the moose[/nation] region Conch Kingdom[/pre]
+Click the first pinned dispatch for more details.
+
+[hr]
 [url=https://discord.gg/wWPp7Hg]Join the support server[/url]
 [url=https://discordapp.com/api/oauth2/authorize?client_id=459227558274138133&amp;permissions=8&amp;scope=bot]Invite the bot to your Discord server[/url]
 [url=https://forum.nationstates.net/viewtopic.php?f=15&amp;t=472017]NationStates Technical thread[/url]
