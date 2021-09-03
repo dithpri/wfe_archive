@@ -1,4 +1,4 @@
-ALL HAIL WESTPAC!
+[color=gold]ALL HAIL WESTPAC![/color]
 Approved nations!
 [nation]Westpac[/nation]
 [nation]Westpac 2[/nation]
@@ -6,22 +6,24 @@ Approved nations!
 
 [color=red][b][u]CURRENT REGIONAL WA RESOLUTION STANDINGS[/u][/b][/color]
 
-Assembly - [color=blue][b][u]FOR[/u][/b][/color]
+Assembly - [color=red][b][u]AGAINST[/u][/b][/color]
 Security Council - [color=red][b][u]AGAINST[/u][/b][/color]
 
-Approved regions can NEVER LEAVE!!! MUHAHAHAHAHA
+
+[color=red]Approved regions can NEVER LEAVE!!! MUHAHAHAHAHA
 attack us and face the might brute force from the north!
-Break and suffer!
+Break and suffer![/color]
 
-Requests to join can be made to
+[color=purple]Requests to join can be made to[/color]
 [nation]Westpac[/nation]
-BEWARE once joining you are forbidden to leave MUHAHAHA
-Leaving will be taken as an act of war and military action will bestow upon you like hellfire!!
 
-Requests for embassy can be made to
+[color=red]BEWARE once joining you are forbidden to leave MUHAHAHA
+Leaving will be taken as an act of war and military action will bestow upon you like hellfire!![/color]
+
+[color=purple]Requests for embassy can be made to[/color]
 [nation]Westpac 2[/nation]
 
-One of many requirements after joining is to endorse our leader 
+[color=gold]One of many requirements after joining is to endorse our leader 
 [nation]Westpac[/nation]
 Failure to do so in time will result in a special seat to
-[region]the Rejected Realms[/region]
+[region]the Rejected Realms[/region][/color]
