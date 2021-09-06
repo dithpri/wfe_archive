@@ -1,9 +1,3 @@
-[color=gold]ALL HAIL WESTPAC![/color]
-Approved nations!
-[nation]Westpac[/nation]
-[nation]Westpac 2[/nation]
-[nation]Edmomaels[/nation]
-
 [color=red][b][u]CURRENT REGIONAL WA RESOLUTION STANDINGS[/u][/b][/color]
 
 Assembly - [color=red][b][u]AGAINST[/u][/b][/color]
@@ -28,7 +22,5 @@ Leaving will be taken as an act of war and military action will bestow upon you 
 Failure to do so in time will result in a special seat to
 [region]the Rejected Realms[/region][/color]
 
-[color=red][b][i][u]REGIONS ON OUR WATCHLIST[/u][/i][/b][/color]
-[region]Fredonia[/region]
-[region]Council of Minuscule and Small Regions[/region]
-[region]Voclazia[/region]
+[b]REGION STATUS[/b]
+[color=blue][b][u]AWAITING TREATY CREATION FROM [region]Council of Minuscule and Small Regions[/region][/u][/b][/color]
