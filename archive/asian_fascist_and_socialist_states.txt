@@ -1,0 +1,2 @@
+Requirements: Classification must be: Empire, Holy Empire, Armed Republic, Principality, Grand Duchy, United Socialist States, Dictatorship, Sultanate and Oppressed Peoples. Economy must be at least be Reasonable. Law and Order must be at least 15% of GDP and Defense at least %12 of GDP
+if not meet those requirements you will be kicked from the region, you could rejoin later when you meet them
