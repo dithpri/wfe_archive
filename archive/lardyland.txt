@@ -2,7 +2,7 @@
 
 [/color][/b]
 
-[color=lightgrey][b][u]All embassies accepted![/u][/b][/color]
+[color=darkblue][b][u]All embassies accepted![/u][/b][/color]
 
 [b][color=green]Please endorse the delegate, [nation]Pinochet Executionists[/nation][/color][/b]
 [hr]
@@ -18,5 +18,5 @@
 [hr]
 [b][color=red]Announcements:[/color][/b]
 [list]
-[*]Vice-Delegate elections have begun. Vote on the poll below.
 [*][b][color=darkred]Please do not break site rules or annoy the site moderators.[/color][/b]
+[*][b]no events[/b]
