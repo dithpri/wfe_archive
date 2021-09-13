@@ -2,9 +2,11 @@ This is the jump point of:
 
 [region]ALPHABETSOUP[/region]
 [region]Antafia[/region]
+[region]COUP[/region]
 [region]Federation of Fear[/region]
 [region]Loranian Army[/region]
 [region]Lotus[/region]
+[region]Raid Liberty Alliance[/region]
 [region]The Red Crewmates[/region]
 [region]The Red Phones[/region]
 [region]SPECTRE[/region]
