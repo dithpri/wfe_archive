@@ -11,7 +11,7 @@
 [hr]
 [colour=black][b]&amp;#10070; Latest Poll Result:[/colour] [colour=ffc009]The RP date should be 1990[/b][/colour]
 
-[colour=black][b]&amp;#10070; RP Date:[/colour] [colour=ffc009]January 1992[/b][/colour]
+[colour=black][b]&amp;#10070; RP Date:[/colour] [colour=ffc009]March 1992[/b][/colour]
 
 [colour=black][b]&amp;#10070; To Do List:[/colour] 
 
@@ -30,5 +30,5 @@
 
 [hr][table]
 [tr][td][url=https://www.nationstates.net/page=ga][colour=purple]General Assembly[/colour][/url][/td][td][url=https://www.nationstates.net/page=sc][colour=purple]Security Council[/colour][/url][/td][/tr]
-[tr][td][colour=blue][b]FOR[/b][/colour] [/td][td][colour=red][b]AGAINST[/b][/colour][/td][/tr]
+[tr][td][colour=red][b]AGAINST[/b][/colour] [/td][td][colour=red][b]AGAINST[/b][/colour][/td][/tr]
 [/table]
