@@ -1,10 +1,18 @@
-[color=003893][b]Cape Verde[/b][hr]A republic located on an archipelago off the western coast of Africa.
+[color=004d33][b]Cape Verde[/b]
+[/color][color=503010]
+A republic located on an archipelago off the western coast of Africa.
 The previously uninhabited islands were discovered and colonized by the Portuguese in the fifteenth century.
 The country is named after Cap Vert (meaning Green Cape) in Senegal, the westernmost point of continental Africa.
-
-FACTS[list][b]Capital:[/b] Praia
+[/color][color=00477e]
+FACTS
+[b]Capital:[/b] Praia
 [b]Area:[/b] 4,033 km&sup2;
 [b]Population:[/b] 507,000
-[b]Independence:[/b] Recognized July 5, 1975 (from Portugal)[/list][hr]
-REGION[list][b]Founded:[/b] 2014 Feb 22
-[b]Featured:[/b] 2021 Feb 02[/color][/list][color=CF2027][hr][b]Embassy offers welcome[/b][/color][hr]
+[b]Independence:[/b] Recognized July 5, 1975 (from Portugal)
+[/color][color=004d33]
+REGION
+[b]Founded:[/b] 2014 Feb 22
+[b]Featured:[/b] 2021 Feb 02; 2021 Sep 21
+an [region=Ancient Lands] and [region=0000] puppet storage region
+[/color][color=309030]
+[b]Embassy offers welcome[/b][/color]
