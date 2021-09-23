@@ -1,8 +1,8 @@
 [b][region]Institute of Cellulose[/region][/b]
 [hr][u][b]STATUS[/b][/u]
-[b]Session Situation:[/b] [color=red]PARLIAMENT IS NOT IN SESSION[/color]
-[b]Session Subject:[/b] Unavailable
-[b]Votes:[/b] [color=red]PARLIAMENT IS NOT VOTING[/color]
+[b]Session Situation:[/b] [color=green]PARLIAMENT IS IN SESSION[/color]
+[b]Session Subject:[/b] On The Passage Of P-0007
+[b]Votes:[/b] [color=green]PARLIAMENT IS IN A VOTE[/color]
 [hr][u][b]INFORMATION[/b][/u]
 [b]Region:[/b] [region]Institute Of Cellulose[/region]
 [b]Founded:[/b] June 13, 2021
@@ -10,6 +10,6 @@
 [b]Term Amounts:[/b] Not Limited
 [hr][u][b]SEATS[/b][/u]
 [b]Total:[/b] 10
-[colour=#0000D0]Regionalist Party[/colour]: 4
-[colour=#E70000]New Age Party[/colour]: 3
+[colour=#E70000]New Age Party[/colour]: 4
+[colour=#0000D0]Regionalist Party[/colour]: 3
 [colour=#9D9D9D]Independent[/colour]: 3
