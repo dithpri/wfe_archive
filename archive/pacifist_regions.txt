@@ -1,0 +1,1 @@
+This region will only accept requests from regions with the tag &quot;pacifist&quot;.
