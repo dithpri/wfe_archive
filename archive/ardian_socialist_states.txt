@@ -1,1 +1,12 @@
-Collection of Socialist States ruled over by the Ardian Parliament.
+A collectivized union of socialist states on the island of Esterni.
+
+[nation]Ardenee[/nation] [b]Central Parliament[/b] - [b]Breidnian State Representitive[/b]
+
+[nation]Voskogorod[/nation] [b]Voskovan State Representitive[/b]
+
+[nation]Treiansk[/nation] [b]Treian State Representitive[/b]
+
+[nation]Yerinas[/nation] [b]Yerinasian Autonomous Parliament[/b]
+
+
+
