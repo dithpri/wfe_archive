@@ -1,23 +1,25 @@
-[color=navy][b]Australian Capital Territory[/b][/color][hr][color=green]
-FACTS
+[color=004d33][b]Australian Capital Territory[/b]
+[/color][color=603010]
 formerly known as the [b]Federal Capital Territory[/b] (until 1938)
 commonly referred to as the [b]ACT[/b]
 a federal territory of Australia
-
+[/color][color=00477e]
+FACTS
 [b]Capital:[/b] [region=Canberra]
 [b]Established:[/b]
 - 1911 - Transferred to Commonwealth
 - 1988 - Responsible government
-[b]Area:[/b] 2,358 km&sup2; (77.6 km&sup2; is water)
-[b]Population:[/b] 423,811 (Dec 2018)
-[b]Time Zone:[/b]
-- currently: UTC+11:00 (AEDT) - 2019 Oct 06th
-- changes: UTC+10:00 (AEST) - 2020 April 05th
-[/color][color=olive]
+[b]Area:[/b] 2,358 km&sup2; (0.0 km&sup2; is water)
+[b]Population:[/b] 431,484 (Dec 2020)
+[b]Time Zone:[/b] Australian Eastern Standard Time
+- currently: UTC+10:00 (AEST) - 2021 April 4th
+- changes: UTC+11:00 (AEDT) - 2021 Oct 3rd
+[/color][color=cc9933]
 REGION
 [b]Founded:[/b] 2014 Jan 29
 [b]Embassy Matrix:[/b] 2016 Mar 18
-[b]Featured:[/b] 2019 Nov 17
+[b]Featured:[/b] 2019 Nov 17; 2021 Sep 29
 [i]Dates are based upon game time - Central Time US)[/i][/color][color=silver]
-a QSA/DBA/RHW/0000 Region[/color][color=orange]
+a [region=Ancient Lands] Region
+[/color][color=004d33]
 [b]Embassy Offers are Welcome[/b][/color]
