@@ -1,4 +1,4 @@
-[nation]Queenbury[/nation] is a great nation, and provides a safe and secure home to everyone.
+[nation]Queenbury[/nation] is the founder of this great region and provides a safe and secure home to everyone.
 
 [region]Conservative England[/region] fully supports these nations:
 [nation]Queenbury[/nation]
@@ -7,5 +7,7 @@
 [nation]Lucy the first[/nation]
 [nation]George Clooney the first[/nation]
 [nation]Recover 16[/nation]
+[nation]The Lightme[/nation]
 [nation]Ludic the First[/nation]
 [nation]Hokey Pokey Freedom[/nation]
+[nation]Twizzly[/nation]
