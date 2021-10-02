@@ -1,17 +1,20 @@
-[b][color=009DFF]Welcome to Thaecia![/color][/b]
-[i][color=34D5D7]Unus pro omnibus, omnes pro uno![/color][/i]
+[color=#000000][b]Welcome to Thaecia![/b][/color]
+[i][color=#C7581E]Unus pro omnibus, omnes pro uno![/color][/i]
 
-[hr][b][url=page=dispatch/id=1507498][color=009DFF]Constitution[/url][/color] | [url=page=dispatch/id=1290562][color=34D5D7]Law Registry[/url][/color] | [url=page=dispatch/id=1290561][color=009DFF]Government Overview[/color][/url] | [url=region=the_high_court][color=34d5d7]The High Court[/url][/color] | [url=region=the_house_of_commons][color=009dff]The House of Commons[/color][/url] | [url=region=the_thaecian_senate][color=34d5d7]The Senate[/color][/url] | [url=https://discord.gg/RYgzby8][color=009dff]Regional Discord Server[/color][/url] | [url=https://discord.gg/hTGNFPUWFF][color=34d5d7]World-Building Server[/color][/url] | [url=https://discord.gg/3vMzAj2][color=009dff]Regional Roleplay[/color][/url] [/b]
+[hr][b][url=page=dispatch/id=1507498][color=#000000]Constitution[/url][/color] | [url=page=dispatch/id=1290562][color=#C7581E]Law Registry[/url][/color] | [url=page=dispatch/id=1290561][color=#000000]Government Overview[/color][/url] | [url=region=the_high_court][color=#C7581E]The High Court[/url][/color] | [url=region=the_house_of_commons][color=#000000]The House of Commons[/color][/url] | [url=region=the_thaecian_senate][color=#C7581E]The Senate[/color][/url] | [url=https://discord.gg/RYgzby8][color=#000000]Regional Discord Server[/color][/url] | [url=https://discord.gg/hTGNFPUWFF][color=#C7581E]World-Building Server[/color][/url] | [url=https://discord.gg/3vMzAj2][color=#000000]Regional Roleplay[/color][/url] [/b]
 [hr]
 
-[color=006CFF][u][b]Newcomer&#39;s Checklist[/b][/u][/color]
+[color=#C7581E][u][b]Newcomer&#39;s Checklist[/b][/u][/color]
 
-[color=009DFF]Make sure you have:[/color]
-[list][*][color=009DFF]Joined the World Assembly with [/color][url=page=dispatch/id=1443797][color=34d5d7][u][b]this guide,[/b][/u][/color][/url]
-[*][color=009dff]Endorsed our President[/color] [url=nation=brototh][color=34d5d7][u][b]Brototh[/u][/url][/b][/color] [color=009dff]and our Prime Minister[/color] [url=nation=xernon][color=34d5d7][u][b]Xernon,[/u][/url][/b][/color]
-[*][color=009DFF]Joined our [/color][url=https://discord.gg/RYgzby8][color=34D5D7][b][u]Discord Server[/b][/u][/color][/url][/list]
+[color=#000000]Make sure you have:[/color]
+[list][*][color=#000000]Joined the World Assembly with [/color][url=page=dispatch/id=1443797][color=#C7581E][u][b]this guide,[/b][/u][/color][/url]
+[*][color=#000000]Endorsed our President[/color] [url=nation=brototh][color=#C7581E][u][b]Brototh[/u][/url][/b][/color] [color=#000000]and our Prime Minister[/color] [url=nation=xernon][color=#C7581E][u][b]Xernon,[/u][/url][/b][/color]
+[*][color=#000000]Joined our [/color][url=https://discord.gg/RYgzby8][color=#C7581E][b][u]Discord Server[/b][/u][/color][/url][/list]
 
-[hr][color=006CFF][b][u]WA Voting Recommendations from our WA Centre:[/u][/b][/color]
+[hr][color=#C7581E][b][u]WA Voting Recommendations from our WA Centre:[/u][/b][/color]
 
-[color=009DFF][list][*]General Assembly:[/color] [color=green][u][b]FOR[/u][/b][/color]
-[color=009DFF][*]Security Council:[/color] [color=red][u][b]AGAINST[/u][/color][/b][/list]
+[color=#000000][list][*]General Assembly:[/color] [color=green][u][b]FOR[/u][/b][/color]
+[color=#000000][*]Security Council:[/color] [color=red][u][b]AGAINST[/u][/color][/b][/list]
+
+[hr][color=#C7581E][b][u]Coolest Thaecian:[/u][/b][/color] [B][nation]Angypt[/nation][/B]
+[color=#C7581E][b][u]Coolest Region:[/u][/b][/color] [B][region]joe mama[/region][/B]
