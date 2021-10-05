@@ -1,1 +1,3 @@
-[color=000080][b]The North[/b][/color][hr][color=silver]QSA Oracle region[/color]
+[color=000080][b]The North[/b]
+[/color][color=996633]
+a [region=Ancient Lands] region[/color]

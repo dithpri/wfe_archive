@@ -12,4 +12,5 @@
 [b]Total:[/b] 10
 [colour=#E70000]New Age Party[/colour]: 4
 [colour=#0000D0]Regionalist Party[/colour]: 3
-[colour=#9D9D9D]Independent[/colour]: 3
+[colour=#FF0000]Social Liberal Party[/colour]: 1
+[colour=#9D9D9D]Independent[/colour]: 2

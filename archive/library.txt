@@ -1,6 +1,1 @@
-[color=00477e][b]Library[/b]
-[/color][color=cc9933]
-a [region=Westminster] allied region
-[/color][color=996699]
-[b]Founded:[/b] 2021 Sep 27
-puppet transfer region[/color]
+...
