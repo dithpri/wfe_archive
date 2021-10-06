@@ -1,8 +1,8 @@
 [b][region]Institute of Cellulose[/region][/b]
 [hr][u][b]STATUS[/b][/u]
 [b]Session Situation:[/b] [color=green]PARLIAMENT IS IN SESSION[/color]
-[b]Session Subject:[/b] On The Passage Of P-0008
-[b]Votes:[/b] [color=green]PARLIAMENT IS IN A VOTE[/color]
+[b]Session Subject:[/b] On The Passage Of P-0009
+[b]Votes:[/b] [color=red]PARLIAMENT IS NOT VOTING[/color]
 [hr][u][b]INFORMATION[/b][/u]
 [b]Region:[/b] [region]Institute Of Cellulose[/region]
 [b]Founded:[/b] June 13, 2021
