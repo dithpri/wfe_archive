@@ -1,4 +1,4 @@
-[color=Chartreuse][b][region]Thiruvananthapuram[/region][i] (or Trivandrum) is the capital of the southern Indian state of [/i][region]Kerala[/region].[i] It&#39;s distinguished by its British colonial architecture and many art galleries. It&#146;s also home to Kuthira Malika (or Puthen Malika) Palace, adorned with carved horses and displaying collections related to the [/i][region]Travancore[/region] [i]royal family, whose regional capital was here from the 18th&#150;20th[/i] [i]centuries.[/i][/color]
+[color=Chartreuse][b][i][region]Thiruvananthapuram[/region][/i][i] (or Trivandrum) is the capital of the southern Indian state of [/i][i][region]Kerala[/region][/i].[i] It&#39;s distinguished by its British colonial architecture and many art galleries. It&#146;s also home to Kuthira Malika (or Puthen Malika) Palace, adorned with carved horses and displaying collections related to the [/i][i][region]Travancore[/region][/i] [i]royal family, whose regional capital was here from the 18th&#150;20th[/i] [i]centuries.[/i][/color]
 
 [i][color=Mediumspringgreen]Area:[/color] [color=Yellowgreen]214 km&sup2;[/color]
 
@@ -8,11 +8,11 @@
 
 [color=Mediumspringgreen]Area rank:[/color] [color=Yellowgreen]1st[/color]
 
-[color=Mediumspringgreen]State:[/color] [color=Yellowgreen][/i][region]Kerala[/region][/color]
+[color=Mediumspringgreen]State:[/color] [color=Yellowgreen][/i][i][region]Kerala[/region][/i][/color]
 
-[color=Mediumspringgreen][i]Country:[/color] [color=Yellowgreen][/i][region]India[/region][/color]
+[color=Mediumspringgreen][i]Country:[/color] [color=Yellowgreen][/i][i][region]India[/region][/i][/color]
 
-[color=Mediumspringgreen][i]Kingdom:[/color] [color=Yellowgreen][/i][region]Travancore[/region][/color]
+[color=Mediumspringgreen][i]Kingdom:[/color] [color=Yellowgreen][/i][i][region]Travancore[/region][/i][/color]
 
 [/b]
 
