@@ -1,4 +1,4 @@
-[color=gray][b]Risen from the ashes of [/color][color=green][region]League of Allied Nations[/region][/color][color=gray], [/color][color=green][i]The Free Region[/i][/color][color=gray], and [/color][color=green][i]The Caldonian Union[/i] [/color][color=gray]in 2021.[/b][/color]
+[color=gray][b]Risen from the ashes of [/color][color=green][region]League of Allied Nations[/region][/color][color=gray], [/color][region]The Free Region[/region][color=gray], and [/color][color=green][region]The Caldonian Union[/region] [/color][color=gray]in 2021.[/b][/color]
 
 [hr]
 
@@ -13,6 +13,6 @@ All members are strongly encouraged to join the World Assembly and [b]endorse[/b
 
 [color=blue]WA RECCOMENDATIONS:[/color]
 
-[color=blue][i]GENERAL ASSEMBLY[/i][/color]- [b][i][u][color=green]FOR[/color][/u][/i][/b] 
+[color=blue][i]GENERAL ASSEMBLY[/i][/color]- [b][i][u][color=red]AGAINST[/color][/u][/i][/b] 
 
-[color=blue][i]SECURITY COUNCIL[/i][/color]- [b][i][u][color=red]AGAINST[/color][/u][/i][/b]
+[color=blue][i]SECURITY COUNCIL[/i][/color]- [b][i][u][color=green]FOR[/color][/u][/i][/b]
