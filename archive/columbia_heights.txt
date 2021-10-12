@@ -1,14 +1,7 @@
-[color=00477E][b]Columbia Heights[/b]
-
-an alternate name for Washington DC
-
-This is an [region=United States of America] associated region
-Sister Regions include:[list]
-1. [region=Capital Heights]
-2. [region=Central Heights]
-3. [region=Dominion Heights]
-4. [region=Westminster][/list][/color][color=olive]REGION
-[b]Founded:[/b] 2021 JUN 11
-Founded as a Matrix Region
-[/color][color=004D33]
-[b]Embassy Offers Accepted[/b][/color]
+[color=004d33][b]Columbia Heights[/b]
+[/color][color=olive]
+REGION:
+[b]Founded:[/b] 2021 Oct 11
+[b]Previous:[/b] 2021 Jun 11
+a [region=the Central Pacific] Oracle region
+No Embassy Offers Accepted[/color]
