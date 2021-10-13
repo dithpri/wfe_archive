@@ -1,13 +1,14 @@
-[color=004D33][b]Old Spirit[/b][/color]
-[color=633517]
-Previous version of this region was my main region
-That status is now placed upon [region=The Central Pacific]
-Over the next few days, I will send embassy offers to anyone that had an embassy with this region
+[color=004D33][b]Old Spirit[/b]
+
+Welcome Visitors
+[/color][color=633517]
+Previous version of this region was one of my main regions
+That status moved to [region=The Central Pacific]
 This will only be a minor puppet storage region
-[/color][color=D4AF37]
+[/color][color=cc9933]
 REGION
 [b]Founded:[/b] 2021 April 21
+[b]Featured:[/b] 2021 Oct 12
 an [region=Ancient Lands] Region[/color]
 
 [color=006b3c][b]EMBASSY OFFERS ACCEPTED[/b][/color]
-[color=FF4040][i]I do apologize to those that had an embassy with this region[/i][/color]
