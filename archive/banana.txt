@@ -1,15 +1,14 @@
 [color=004D33][b]Banana[/b]
 [/color][color=633517]
-[i]Alpha Oracle[/i]
-- &quot;FIRST REGION IN THE GAME&quot;
-- ORACLE PRIME
-- NOTE: [region=The Alliance of Independent States] is ORACLE OMEGA
+&quot;FIRST REGION IN THE GAME&quot;
+this region is the ALPHA (ALFA)* ORACLE region (* Int&#39;l)
+the region [region=The Central Coalition] is the OMEGA ORACLE region
 [/color][color=003366]
 [b]Links:[/b] Thanks [region=Texas] for the tools to make this game easier
 [list][url=http://texasregion.net/nsdossier/embassyOracle.aspx]Oracle[/url]
 This link determines the degree of separation between two regions
-[b]Currently:[/b] [region=Banana] to [region=The Alliance of Independent States]: 
-- about [i]968[/i] degrees of separation (max was over 2000)
+[b]Currently:[/b] [region=Banana] to [region=The Central Coalition]: 
+- about [i]968[/i] degrees of separation (max was well over 2000)
 
 [url=http://texasregion.net/nsdossier/]NS Dossier[/url][/list]
 [/color][color=D4AF37]
