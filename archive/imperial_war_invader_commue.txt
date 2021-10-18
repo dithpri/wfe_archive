@@ -13,8 +13,8 @@ Threat Level: DEFCON 3
 [hr]
 Enemies: Fascists, Some Democracies  
 Allies:
-Colonies: [region]Imperial War Balstrian Commue[/region]
-Military Friends: [region]The Democratic Republic[/region]
+Colonies:
+Military Friends: [region]The Democratic Republic[/region], [region]The Alliance of Eros[/region]
 [hr]
 Government 
 [b]Chairman [nation]Shipgod[/nation]
