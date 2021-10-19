@@ -8,3 +8,8 @@
 
 [b]Field Marshal:[/b] [nation]Boom Basillia 1[/nation]
 [b]Field Lieutenant:[/b] [nation]5 Nakano[/nation]
+[b]Killing Zone:[/b] [nation]Baarbur[/nation]
+
+[b]Watchtower I:[/b] [nation]Vantria Olvos[/nation]
+[b]Watchtower II:[/b] [nation]Tangbek[/nation]
+[b]Watchtower III:[/b] [nation]Yozakura[/nation]
