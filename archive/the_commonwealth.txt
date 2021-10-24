@@ -1,9 +1,1 @@
-[color=green][b]the Commonwealth[list]Africa:[hr]&#149; [region=Botswana] &#149; [region=Cameroon] &#149; [region=Ghana] &#149; [region=Kenya] &#149; [region=Lesotho] &#149; [region=Malawi] &#149; [region=Mauritius] &#149; [region=Mozambique] &#149; [region=Namibia] &#149; [region=Nigeria] &#149; [region=Rwanda] &#149; [region=Seychelles] &#149; [region=Sierra Leone] &#149; [region=South Africa] &#149; [region=Swaziland] &#149; [region=Tanzania] &#149; [region=Uganda] &#149; [region=Zambia]
-
-Asia:[hr]&#149; [region=Bangladesh] &#149; [region=Brunei Darussalam] &#149; [region=India] &#149; [region=Malaysia] &#149; [region=Maldives] &#149; [region=Pakistan] &#149; [region=Singapore] &#149; [region=Sri Lanka]
-
-The Americas:[hr]&#149; [region=Antigua and Barbuda] &#149; [region=the Bahamas] &#149; [region=Barbados] &#149; [region=Belize] &#149; [region=Canada] &#149; [region=Dominica] &#149; [region=Grenada] &#149; [region=Guyana] &#149; [region=Jamaica] &#149; [region=St Kitts and Nevis] &#149; [region=St Lucia] &#149; [region=St Vincent and The Grenadines] &#149; [region=Trinidad and Tobago]
-
-Europe:[hr]&#149; [region=Cyprus] &#149; [region=Malta] &#149; [region=United Kingdom]
-
-Pacific:[hr]&#149; [region=Australia] &#149; [region=Fiji] &#149; [region=Kiribati] &#149; [region=Nauru] &#149; [region=New Zealand] &#149; [region=Papua New Guinea] &#149; [region=Samoa] &#149; [region=Solomon Islands] &#149; [region=Tonga] &#149; [region=Tuvalu] &#149; [region=Vanuatu][/b][/color]
+[color=blue][b]Backup in case of stupid sh*t happened[/b][/color]
