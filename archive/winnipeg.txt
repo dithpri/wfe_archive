@@ -1,6 +1,7 @@
-[color=navy][b]Winnipeg[/b][/color][color=006900]
+[color=3060CC][b]Winnipeg[/b]
+[/color][color=303010]
 capital and largest city of the Canadian province of Manitoba
-
+[/color][color=003030]
 FACTS
 [b]Established:[/b] 1738 (Fort Rouge)
 [b]Incorporated:[/b] 1873 (City)
@@ -14,7 +15,9 @@ FACTS
 REGION
 [b]Founded:[/b] 2016 03 05
 [b]Previous Founder:[/b] [nation=short]Bonnycastle[/nation] (2011 September)
-[b]Puppet Storage:[/b] 2019 10 02[/color][color=803000]
-This is a [region=Old Spirit] of [region=Great Britain and Northern Ireland] region
-[/color][color=red]
-Currently not accepting embassy offers[/color]
+[b]Puppet Storage:[/b] 2019 10 02
+[b]Featured:[/b] 2021 Oct 26[/color][color=803000]
+This is an [region=Old Spirit] of [region=Great Britain and Northern Ireland] region
+an associated region of [region=0000] and [region=Ancient Lands]
+[/color][color=green]
+accepting embassy offers[/color]
