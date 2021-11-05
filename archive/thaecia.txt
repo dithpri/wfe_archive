@@ -1,20 +1,20 @@
-[color=#000000][b]Welcome to Thaecia![/b][/color]
-[i][color=#C7581E]Unus pro omnibus, omnes pro uno![/color][/i]
+[b][color=009DFF]Welcome to Thaecia![/color][/b]
+[i][color=34D5D7]Unus pro omnibus, omnes pro uno![/color][/i]
 
-[hr][b][url=page=dispatch/id=1602500][color=#000000]Constitution[/url][/color] | [url=page=dispatch/id=1290562][color=#C7581E]Law Registry[/url][/color] | [url=page=dispatch/id=1290561][color=#000000]Government Overview[/color][/url] | [url=region=the_high_court][color=#C7581E]The High Court[/url][/color] | [url=region=the_house_of_commons][color=#000000]The House of Commons[/color][/url] | [url=region=the_thaecian_senate][color=#C7581E]The Senate[/color][/url] | [url=https://discord.gg/RYgzby8][color=#000000]Regional Discord Server[/color][/url][/b]
+[hr][b][url=page=dispatch/id=1507498][color=009DFF]Constitution[/url][/color] | [url=page=dispatch/id=1290562][color=34D5D7]Law Registry[/url][/color] | [url=page=dispatch/id=1290561][color=009DFF]Government Overview[/color][/url] | [url=region=the_high_court][color=34d5d7]The High Court[/url][/color] | [url=region=the_house_of_commons][color=009dff]The House of Commons[/color][/url] | [url=region=the_thaecian_senate][color=34d5d7]The Senate[/color][/url] | [url=https://discord.gg/RYgzby8][color=009dff]Regional Discord Server[/color][/url][/b]
 [hr]
 
-[color=#C7581E][u][b]Newcomer&#39;s Checklist[/b][/u][/color]
+[color=006CFF][u][b]Newcomer&#39;s Checklist[/b][/u][/color]
 
-[color=#000000]Make sure you have:[/color]
-[list][*][color=#000000]Joined the World Assembly with [/color][url=page=dispatch/id=1443797][color=#C7581E][u][b]this guide,[/b][/u][/color][/url]
-[*][color=#000000]Endorsed our President[/color] [url=nation=brototh][color=#C7581E][u][b]Brototh[/u][/url][/b][/color] [color=#000000]and our Prime Minister[/color] [url=nation=xernon][color=#C7581E][u][b]Xernon,[/u][/url][/b][/color]
-[*][color=#000000]Joined our [/color][url=https://discord.gg/RYgzby8][color=#C7581E][b][u]Discord Server[/b][/u][/color][/url][/list]
+[color=009DFF]Make sure you have:[/color]
+[list][*][color=009DFF]Joined the World Assembly with [/color][url=page=dispatch/id=1443797][color=34d5d7][u][b]this guide,[/b][/u][/color][/url]
+[*][color=009dff]Endorsed our President[/color] [url=nation=brototh][color=34d5d7][u][b]Brototh[/u][/url][/b][/color] [color=009dff]and our Prime Minister[/color] [url=nation=xernon][color=34d5d7][u][b]Xernon,[/u][/url][/b][/color]
+[*][color=009DFF]Joined our [/color][url=https://discord.gg/RYgzby8][color=34D5D7][b][u]Discord Server[/b][/u][/color][/url][/list]
 
-[hr][color=#C7581E][b][u]WA Voting Recommendations from our WA Centre:[/u][/b][/color]
+[hr][color=006CFF][b][u]WA Voting Recommendations from our WA Centre:[/u][/b][/color]
 
-[color=#000000][list][*]General Assembly:[/color] [color=green][u][b]FOR[/u][/b][/color]
-[color=#000000][*]Security Council:[/color] [color=grey][u][b]NO RECOMMENDATION[/u][/color][/b][/list]
-[hr][color=#C7581E][b][u]Regional Events:[/u][/b][/color][list]
-[*][color=#000000]Voting in the [b]November 2021 General Elections[/b] starts on November 5th!![/color] 
-[/list]
+[color=009DFF][list][*]General Assembly:[/color] [color=grey][u][b]NO RECOMMENDATION[/u][/b][/color]
+[color=009DFF][*]Security Council:[/color] [color=grey][u][b]NO RECOMMENDATION[/u][/color][/b][/list][hr]
+
+[b][color=006CFF]Regional Events:[/b][/color]
+[list][*][color=009DFF]Voting in the November 2021 General Elections starts on November 5th!![/color][/list]
