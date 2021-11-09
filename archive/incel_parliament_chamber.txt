@@ -10,6 +10,6 @@
 [b]Term Amounts:[/b] Not Limited
 [hr][u][b]SEATS[/b][/u]
 [b]Total:[/b] 10
-[colour=#0000D0]Regionalist Party[/colour]: 4
+[colour=#0000D0]Regionalist Party[/colour]: 5
 [colour=#FF0000]Social Liberal Party[/colour]: 1
-[colour=#9D9D9D]Independent[/colour]: 5
+[colour=#9D9D9D]Independent[/colour]: 4

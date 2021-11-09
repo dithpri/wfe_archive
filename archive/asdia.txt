@@ -1,1 +1,8 @@
-Region for all puppets owned by [nation]Dabberwocky[/nation].
+[region]Asdia[/region] v3
+
+Owned by [nation]Dabberwocky[/nation]
+
+Puppets:
+- [nation]Asdia[/nation]
+- [nation]Just Dabberwocky[/nation]
+- Asdia 1-560
