@@ -9,5 +9,5 @@
 
 [hr][b][u]DO[color=blue]WA[/color]A Voting Recommendations:[/u][/b]
 
-General Assembly (GA): [color=green][u][b]FOR[/b][/u][/color]
-Security Council (SC): [color=green][u][b]FOR[/b][/u][/color]
+General Assembly (GA): [color=grey][u][b]N/A[/b][/u][/color]
+Security Council (SC): [color=grey][u][b]N/A[/b][/u][/color]

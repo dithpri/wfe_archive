@@ -14,5 +14,5 @@ Richiedi [b]un&#146;ambasciata[/b] per creare rapporti diplomatici.
 
 [b]-Presidente della Federazione =[/b] [nation]Schauffheussen[/nation]
 [b]-Presidente del Parlamento =[/b] [u]Posto Vacante[/u]
-[b]-Rappresentante della NAR per gli affari esteri =[/b] [u]Posto Vacante[/u]
+[b]-Rappresentante della NAR per gli affari esteri =[/b] [nation]Gyenorvya[/nation]
 [b]-Procuratore Generale =[/b] [nation]Usvalden[/nation]

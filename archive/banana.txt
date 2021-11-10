@@ -1,4 +1,4 @@
-[color=004D33][b]Banana[/b]
+[color=3553ff][b]Banana[/b]
 [/color][color=633517]
 &quot;FIRST REGION IN THE GAME&quot;
 this region is the ALPHA (ALFA)* ORACLE region (* Int&#39;l)
@@ -11,9 +11,10 @@ This link determines the degree of separation between two regions
 - about [i]968[/i] degrees of separation (max was well over 2000)
 
 [url=http://texasregion.net/nsdossier/]NS Dossier[/url][/list]
-[/color][color=D4AF37]
+[/color][color=3553ff]
 REGION
 [b]Founded:[/b] 2020 March 22
-an [region=Ancient Lands] region
-[/color][color=red]
+an [region=0000], [region=Ancient Lands], [region=the Central Pacific], 
+[region=United States of America] and [region=Westminster] associated region
+[/color][color=ff3553]
 No Embassy Offers Please[/color]
