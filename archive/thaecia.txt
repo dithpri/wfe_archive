@@ -16,5 +16,5 @@
 [color=009DFF][list][*]General Assembly:[/color] [color=grey][u][b]NO RECOMMENDATION[/u][/b][/color]
 [color=009DFF][*]Security Council:[/color] [color=red][u][b]AGAINST[/u][/color][/b][/list][hr]
 
-[b][color=006CFF]Regional Events:[/b][/color]
+[u][b][color=006CFF]Regional Events:[/b][/color][/u]
 [list][*][color=009DFF]The new Thaecian government has been inaugurated![/color][/list]
