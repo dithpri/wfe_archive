@@ -1,8 +1,9 @@
 Welcome to the First Republic of IWI,We are a Democratic Region with 4 Parties: National Army Party, Democratic-Republican Party, Bohrloch Party, Swiss Party. 
 [hr]
 The First Republic was founded November 8th 2021 by President [nation]Flixar[/nation]
+Protectorate of [region]The Democratic Republic[/region]
 [hr]
 [b]Government[/b]
 Current Party:Democratic-Republican
-President:[nation]Flixar[/nation]
-Vice President:[nation]Shipgod[/nation]
+Colonial President:[nation]Flixar[/nation]
+ Governor:[nation]Shipgod[/nation]
