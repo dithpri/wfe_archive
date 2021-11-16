@@ -1,5 +1,16 @@
-[b]Mbabane[/b]
-
-capital of [region=Kingdom of Eswatini] ([region=Swaziland])
-
-an [region=Old Spirit] + [region=0000] region
+[color=004d33][b]Mbabane[/b]
+[/color][color=442211]
+One of the two capital cities of [region=Kingdom of Eswatini] 
+(formerly called [region=Swaziland])
+Serving as the executive capital
+[/color][color=00477e]
+FACTS
+[b]Area:[/b] 81.76 km&sup2;
+[b]Population:[/b] 94,874 (est.)
+[/color][color=olive]
+REGION
+[b]Founded:[/b] 2016 May 19
+[b]Featured:[/b] 2021 Nov 15
+an [region=Ancient Lands] capital city region
+[/color][color=004d33]
+Embassy Offers Welcome[/color]
