@@ -10,7 +10,8 @@
 
 [hr][b][u][color=blue]DOWAA (The Department of World Assembly Affairs)[/color][/u][/b]
 
-[color=#00ccff][b]Endorse our WA Delegate:[/b] [nation]Owswaldia[/nation][/color]
+[color=#00ccff][b]Endorse our WA Delegate:[/b] [nation]Owswaldia[/nation]
+[b]EndoCap: 13 (9 if not endorsing [nation]Owswaldia[/nation])[/b][/color]
 
 General Assembly (GA): [color=green][u][b]FOR[/b][/u][/color]
 

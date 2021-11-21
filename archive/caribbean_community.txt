@@ -1,7 +1,6 @@
 [color=008888][b]Caribbean Community[/b] is a block of allied Caribbean based regions, allied with various regions:
 
-[list]Including:[list][b]Allied With:[/b][list][region=Royal American]
-[region=Great Britain and Northern Ireland]
+[list]Including:[list][b]Allied With:[/b][list][region=Great Britain and Northern Ireland]
 [region=United States of America]
 (among others)[/list]
 [b]Associate regions includes:[/b][list][hr][region=Anguilla], [region=Antigua], [region=Aruba], [region=Belize], [region=Bermuda], [region=Bonaire], [region=Curacao], [region=Dominican Republic], [region=Jamaica], [region=Trinidad and Tobago]
