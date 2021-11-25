@@ -1,3 +1,3 @@
-[b]Supreme Court room of [region]Liberty Democratic Alliance[/region][/b]
+[b]Supreme Court of [region]Liberty Democratic Alliance[/region][/b]
 
-[b][u]Chief Justice of the Supreme Court:[/u] [nation=long]Republic of Mesque[/nation][/b]
+[b][u]Current Chief Justice:[/u][/b] [nation=long]Republic of Mesque[/nation]
