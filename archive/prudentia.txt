@@ -6,9 +6,9 @@
 [*] The new cabinet of [b] The First Council [/b]:
 Director of Foreign Affairs: [nation]Non-violencePrudentia[/nation]
 Director of Planning: [nation]Asterkazika[/nation]
-Director of Outreach:[nation]Two Sicily[/nation]
-Speaker of Ecclesia:[nation]Hironic Order[/nation]
-[*] We are preparing for [b]Elections in December[/b]. Any citizen can nominate their candidacy for [b]Anax[/b], they just have to be on our Discord
+Director of Outreach: [nation]Two Sicily[/nation]
+
+[*] We are preparing for [b]Elections in December[/b]. Any citizen can announce their candidacy for [b]Anax[/b], they just have to be on our Discord
 [*] The [b]Ecclesia[/b], our unicameral legislature, is now open. Any citizen is free to join, they just have to be on our Discord[/list]
 
 [hr]
