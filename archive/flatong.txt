@@ -1,6 +1,0 @@
-rules
-no names,age
-
-strike 1 warning
-strike 2 warning and something else
-strike 3 ban
