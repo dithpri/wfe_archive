@@ -1,3 +1,1 @@
-[color=004d33][b]Republic of Turkey[/b]
-a [region=Turkiye] region
-[b]Caretaker:[/b] [nation=Chopaka][/color]
+[color=004d33][b]Republic of Turkey[/b][/color]
