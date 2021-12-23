@@ -6,6 +6,8 @@ This link is to a page that shows where your government sits in the political si
 [url=https://www.nationstates.net/page=dispatch/id=1446209]click me[/url]
 
 Current Delegate:
-[nation=noflag]The Common Kingdom[/nation]
+[nation=noflag]New Zander[/nation]
 Current Vice:
 [nation=noflag]The Georgeian Empire[/nation]
+Ex-Delegate:
+[nation=noflag]The Common Kingdom[/nation]
