@@ -1,3 +1,10 @@
-[b]Welcome to Pelican![/b]
+[b][color=darkgreen][pre]
+Welcome to Pelican![/pre][/color][/b][color=darkgray][i]A World Heritage Region Administered by [region]Declansburg[/region][/i][/color]
+[url=https://declansburg.freeforums.net/]Declansburg Regional Forums[/url]
 
-An ancient and storied region, originally founded in 2003, and captured by [nation]Bradfordsburg[/nation] in 2004. Refounded in memorial in 2021 as a protectorate of [nation]New Bradfordsburg[/nation]. 
+[color=gray]Borders:[/color] [b][color=red]CLOSED[/color][/b] [color=gray]for immigration.[/color]
+
+[spoiler=Administration] [color=gray]
+[pre]Pelican is administered by Declansburg&#39;s Regional Government.[/pre]
+[b]Founder: [nation]New Bradfordsburg[/nation][/color][/b] 
+[b][color=darkgray]Prime Minister: [nation]Yaxopsville[/nation][/color][/b][/spoiler]
