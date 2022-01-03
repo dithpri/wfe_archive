@@ -1,2 +1,4 @@
-[b]Malabo[/b], Equatorial Guinea (Capital)
-an [region=Ancient Lands] region
+[color=00477e][b]Malabo[/b], Equatorial Guinea (Capital)
+an [region=0000] region
+
+Associated regions: [region=Bata], [region=Rio Muni][/color]
