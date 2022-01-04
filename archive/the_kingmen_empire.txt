@@ -1,6 +1,2 @@
-This is puppet storage for [nation]Unkzier[/nation]
+This is puppet storage for [nation]The King Isle[/nation]
 [Hr]
-Armed forces:
-[nation]Army of Unkzier[/nation]
-[nation]Navy of Unkzier[/nation]
-[nation]Air Force of Unkzier[/nation]
