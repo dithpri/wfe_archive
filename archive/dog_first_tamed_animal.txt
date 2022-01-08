@@ -1,0 +1,7 @@
+Kingdom:	Animalia
+Phylum:	Chordata
+Class:	Mammalia
+Order:	Carnivora
+Family:	Canidae
+Genus:	Canis
+Species:	C. familiaris

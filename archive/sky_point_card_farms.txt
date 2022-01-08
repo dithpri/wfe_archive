@@ -1,1 +1,3 @@
 Puppet Storage
+
+Raid Count: 1
