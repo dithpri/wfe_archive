@@ -1,1 +1,13 @@
-Union of Allied States Military Command
+Union of Allied States Military Command HQ
+
+[b][nation]South Waterford[/nation][/b]
+[i]Chairman of the State Council[/i]
+
+[b][nation]United Osean Federation[/nation][/b][i]
+Deputy Chairman of the State Council[/i]
+
+[b][nation]The Civitas Islands[/nation][/b]
+[i]President[/i]
+
+[b][nation]United Sentinel States[/nation]
+[/b][i]Vice-President[/i]
