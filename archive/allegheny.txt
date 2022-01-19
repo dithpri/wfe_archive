@@ -1,3 +1,5 @@
-[color=green][b]Allegheny[/b]
-County of [region=Pennsylvania]
-[b]County Seat:[/b] [region=Pittsburgh][/color]
+[color=00477e][b]Allegheny[/b]
+a [region=Pennsylvania] and [region=United States of America] region[/color]
+
+[color=663300]REGION
+[b]Founded:[/b] 2022 Jan 18[/color]
