@@ -4,17 +4,17 @@ Hello there, welcome to the United Federation of Nations, a small region (at the
 
 [b]Cabinet
 [/b]
-PM: FRS
-Deputy PM: Maricoen
-Foreign affairs minister: Niater
-Home affairs minister: Brunholl 
-Defence Minister: Zanjact
+PM: [nation]federal republic of socialsts[/nation]
+Deputy PM: [nation]Maricoen[/nation]
+Foreign affairs minister: [nation]Niater[/nation]
+Home affairs minister: [nation]Brunholl[/nation]
+Defence Minister: [nation]Zanjact[/nation]
 
 [b]High counsel
 [/b]
 
 
-Chair: [nation]Federal republic of Socialsts[/nation]
+Chair: [nation]Zeiling[/nation]
 Supreme judges :
 1. 
 2. 
