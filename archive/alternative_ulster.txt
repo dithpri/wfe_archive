@@ -1,1 +1,2 @@
- X
+10 PRINT &quot;Hello World&quot;
+20 GOTO 10
