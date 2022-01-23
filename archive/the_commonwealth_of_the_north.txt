@@ -2,10 +2,10 @@
 [i][color=#FFFFFF]Founded in 2019, re-established in 2022[/color][/i]
 
 [b]Founding States:[/b]
-[nation]Quatorres[/nation]
-[nation]New Xeross[/nation]
-[nation]South Drapol[/nation]
+[nation=long]Quatorres[/nation]
+[nation=long]New Xeross[/nation]
+[nation=long]South Drapol[/nation]
 
 
 [b]Current Executive Office:[/b]
-[nation]Quatorres[/nation]
+[nation=long]South Drapol[/nation]
