@@ -1,1 +1,12 @@
-[color=2F4F4F][b]Windsor[/b][/color]
+[color=002070][b]Windsor[/b]
+[/color][color=c01030]
+a [nation=short]Royal House of Windsor[/nation] region
+associated with [region=Westminster] and [region=Ancient Lands]
+[/color][color=696900]
+REGION
+[b]Founded:[/b] 2012 Jun 08
+[b]Featured:[/b] 2022 Jan 27
+a [region=0000] puppet storing region
+[/color][color=004d33]
+Embassy Offers Welcome[/color][hr]
+[color=00477e]Visitors are welcome[/color]
