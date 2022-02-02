@@ -12,7 +12,7 @@ Anarchists are Forbidden within our borders.
 
 Please Identify yourselves upon entry into the Region.
 
-Alert Level=3-4
+Alert Level=4
 
 
 Levels:

@@ -1,20 +1,3 @@
-[b][region]Cities of the World[/region] go on a[color=red]BASED[/color]colonization effort.
-Protected by: 
-[region]ProFa[/region]
-[nation]Lokot[/nation] of ProFa, [nation]Speaker Box[/nation] [color=pink][moral support!!!][/color]
-Noted Woman [nation]:)[/nation] of ProFa
+[nation][/nation]
 
-[region]Cities of the World[/region]
-GEN [nation]Frostland[/nation]
-MAJ [nation]Engineerlandia[/nation]
-
-[region]American Companies[/region]
-[nation]Pfizer Company[/nation]
-
-[region]The Free Nations Banned The FNR[/region]
-LTN [nation]The domestic estonian aruban islands[/nation]
-LTN [nation]The FNR[/nation]
-LTN [nation]domestic estonia[/nation]
-SGT [nation]Chgnfffff[/nation]
-CPL [nation]Kerachia[/nation]
-PFC [nation]Bopatog[/nation][/b]
+Property of[region]Cities of the World[/region]
