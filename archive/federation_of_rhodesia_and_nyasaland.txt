@@ -1,6 +1,7 @@
-[hr]
-[b][i]01/25/2022 20:28:20 Foundation of this Region  [/i][/b]
-[hr]
-[i]The [region]Federation of Rhodesia and Nyasaland[/region] , also known as the Central African Federation (FCA), became an independent state in southern Africa that has existed since 1980, consisting of the colony of Southern Rhodesia, Northern Rhodesia and Nyasaland. It was a federal kingdom of the British Crown - neither a colony nor a domain.
+[nation]rodesiaa[/nation]  [b] [region]Federation of Rhodesia and Nyasaland[/region]
+Governor General of the [region]Federation of Rhodesia and Nyasaland[/region]  [/b]
 
-The Federation was established on 1 August 1980, with a Governor-General representing the Queen. An interesting and innovative feature was the African Affairs Board, created to safeguard the interests of Africans and endowed with statutory powers for that purpose, namely with regard to discriminatory legislation.  [/i]
+
+[i]Foundation of This Region 02/03/2022 17:39:13  [/i](capital of salisbury)
+[hr]
+[i]The flag of the Federation of [nation]rodesiaa[/nation] and Nyasaland is a modified British Flag. Centered on the jamb is a reproduction of the Federation coat of arms. The rising sun is from the Guns of Nyasaland (now Malawi); the rampant lion comes from the Arms of Southern [nation]Rodesiaa[/nation] , and the wavy black and white lines derive from the Arms of Northern [nation]Rodesiaa[/nation] . In this way, it represents the Federation of the three British Colonies which it was raised in 1953 and became the national flag. This flag will always fly with the Union Jack   [/i]
