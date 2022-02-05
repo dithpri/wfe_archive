@@ -8,7 +8,7 @@ This link is to a page that shows where your government sits in the political si
 Current Delegate:
 [nation=noflag]The Georgeian Empire[/nation]
 Current Vice:
-
+[nation=noflag]CampbellBm[/nation]
 Ex-Delegate:
 [nation=noflag]New Zander[/nation]
 [nation=noflag]The Common Kingdom[/nation]

@@ -14,7 +14,7 @@
 [hr][b] &amp;#119929; &amp;#119926; &amp;#119923; &amp;#119916; &amp;#119927; &amp;#119923; &amp;#119912; &amp;#119936; [/b]
 
 [b][colour=#002c92]&amp;#128467;&amp;#65039; Date:[/colour][/b] 
-[list][*][colour=blue]Timeline 1:[/colour] 1000 AD
+[list][*][colour=blue]Timeline 1:[/colour] ~1000 AD
 [*][colour=blue]Timeline 2:[/colour] Present Day[/list]
 [b][colour=#002c92]&amp;#128506;&amp;#65039; Maps:[/colour][/b] [colour=blue][url=https://www.nationstates.net/page=dispatch/id=1370929]see here[/url][/colour]
 
@@ -29,5 +29,5 @@
 
 [table]
 [tr][td][url=https://www.nationstates.net/page=ga][colour=white]General Assembly[/colour][/url][/td][td][url=https://www.nationstates.net/page=sc][colour=white]Security Council[/colour][/url][/td][/tr]
-[tr][td][colour=blue][b]FOR[/b][/colour] [/td][td][colour=blue][b]FOR[/b][/colour][/td][/tr]
+[tr][td][colour=blue][b]FOR[/b][/colour] [/td][td][colour=red][b]AGAINST[/b][/colour][/td][/tr]
 [/table]
