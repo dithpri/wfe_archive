@@ -1,17 +1,1 @@
-[b]The current date in the Novaegese calendar:[/b]
-August 6th, 2194
-
-
-[b]Novaegan Economic Statistics[/b]
-
-[b]Gross Regional Product:[/b]  $547,464,132,495,728.00
-[b]GRP Per Capita:[/b]	$24,314.45
-[b]Regional Population:[/b]	22,516,000,000
-[b]Regional Average GDP:[/b]  $39,104,580,892,552.00
-[b]Largest GDP:[/b]  United States of Wonderland ($323 trillion)
-[b]Smallest GDP:[/b]	Chrislan ($332 billion)
-[b]Largest GDP Per Capita:[/b]	United States of Wonderland ($39,129)
-[b]Smallest GDP Per Capita:[/b]	Chrislan ($261.42)
-[b]Largest Trade Surplus:[/b]  United States of Wonderland ($276 billion)
-[b]Largest Trade Deficit:[/b]  Naranjo ($234 billion)
-
+True
