@@ -1,8 +1,13 @@
-[b]Kigali[/b]
-a [region=0000] puppet storage region
+[color=00477e][b]Kigali[/b]
+[/color][color=004d33]
+FACTS
+Capital and Largest City of Rwanda
+[b]Area:[/b] 730 km (280 sq mi)
+[b]Population:[/b] 1,132,686 (2012 census)
+[/color][color=7e7e33]
+REGION
 [b]Founded:[/b] 2016 May 18
-[b]Featured Region:[/b] 2018 Mar 14
-
-Capital City of [region=Rwanda]
-
-Embassy offers accepted
+[b]Featured Region:[/b] 2018 Mar 14; 2022 Feb 10
+an [region=Ancient Lands] Capital Cities region
+[/color][color=004d33]
+[b]Embassy offers accepted[/b][/color]
