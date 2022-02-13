@@ -1,3 +1,5 @@
 hi
 
-[nation]aecurora[/nation]
+[nation]aecurora[/nation]land
+
+[nation]Vost Dor[/nation] is caretaker
