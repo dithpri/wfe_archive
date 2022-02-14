@@ -11,5 +11,5 @@ ________________________________________________________________________________
 [color=blue]founder:[nation]pangolastan[/nation][/color]
 _________________________________________________________________________________________________________
 
-[color=red]Officers:[nation]siguland[/nation][nation]pabustan[/nation][nation]ungiastan[/nation][/color]
+[color=red]Officers:[nation]siguland[/nation] [nation]pabustan[/nation] [nation]ungiastan[/nation][/color]
 
