@@ -1,1 +1,8 @@
-[color=blue]This is my puppet storage/API testing playground. There isn&#146;t much to see but feel free to look around. Embassies accepted.[/color]
+[b]ACC Two: Electric Boogaloo[/b]
+[nation]Linuxville[/nation]&#39;s artificial intelligence issue-answering botnet. Written in bash of course, because I&#39;m a psychopath.
+
+[b]System Console:[/b]
+Status: [b][color=red]Down(Maintenance)[/color][/b]
+Target: [b][color=red]Null[/color][/b]
+Nodes: [b][color=red]0[/color]/[color=green]20[/color][/b]
+Messages: [b]Waiting on update to determine target.[/b]
