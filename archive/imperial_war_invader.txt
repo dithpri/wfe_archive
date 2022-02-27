@@ -13,5 +13,7 @@ Allies:
 Colonies:
 [hr]
 [b]Government[/b]
-[nation]UPC Separatists[/nation]: ReichFuhrer
-[nation]Shipgod[/nation]: Chancellor
+[nation]UPC Separatists[/nation]: Emperor
+[nation]Shipgod[/nation]: Kasier
+[nation]Valsamie[/nation]:Chancellor
+[hr]
