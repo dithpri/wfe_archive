@@ -1,8 +1,9 @@
 [b]Official room for the Council of Ministers of the Government of [region]Liberty Democratic Alliance[/region][/b]
 [hr][b][u]The Sixteenth Government:[/u][/b]
 [b]Prime Minister: [nation=long]Zuidzee-eilanden[/nation][/b]
-[b]Minister of the Interior: 
-Minister of Justice: 
-Minister of Foreign Affairs: 
+[b]Deputy Prime Minister: [nation=long]France Europe[/nation]
+Minister of the Interior: [nation=long]United States of Kuwait[/nation]
+Minister of Foreign Affairs: [nation=long]The Union of Costa Rica[/nation]
+Minister of Justice: [nation=long]Nova Tyrnavia[/nation]
 [u]Supreme Court:[/u]Chief Justice: [nation=long]Republic of Mesque[/nation][/b]
 [hr]Members of the government are asked to tag other members to ensure activity in the room.
