@@ -9,4 +9,5 @@
 Lord-Secretary
 Lord-Chief Justice
 Lord-Treasurer
-Lord-Head Commissar[/color]
+Lord-Head Commissar
+Lord-Minister of Defence[/color]
