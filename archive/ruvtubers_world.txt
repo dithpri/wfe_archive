@@ -12,6 +12,7 @@ A.S.S.
 &amp;#1055;&amp;#1086;&amp;#1082;&amp;#1072; &amp;#1074;&amp;#1086;&amp;#1079;&amp;#1076;&amp;#1077;&amp;#1088;&amp;#1078;&amp;#1080;&amp;#1074;&amp;#1072;&amp;#1102;&amp;#1090;&amp;#1089;&amp;#1103;:
 [nation]Nore vo[/nation] [nation]Nemerick[/nation] [nation]SuccubusNest[/nation] [nation]FlameWorld[/nation]
 [nation]Sheeny-Shine[/nation] [nation]Axelsia[/nation] [nation]Garodmana[/nation] [nation]Puppy Alliance[/nation]
+[nation]Inner Mus Wes Strangevin[/nation] [nation]Fahrooland[/nation]
 
 &amp;#1054;&amp;#1090;&amp;#1076;&amp;#1077;&amp;#1083;&amp;#1100;&amp;#1085;&amp;#1099;&amp;#1077; &amp;#1063;.&amp;#1042;.&amp;#1050;:
 [nation]Bloodiyarm[/nation]
@@ -19,6 +20,9 @@ A.S.S.
 
 &amp;#1055;&amp;#1086;&amp;#1076;&amp;#1090;&amp;#1074;&amp;#1077;&amp;#1088;&amp;#1078;&amp;#1076;&amp;#1105;&amp;#1085;&amp;#1085;&amp;#1099;&amp;#1077; &amp;#1058;&amp;#1086;&amp;#1088;&amp;#1075;&amp;#1086;&amp;#1074;&amp;#1099;&amp;#1077; &amp;#1054;&amp;#1090;&amp;#1085;&amp;#1086;&amp;#1096;&amp;#1077;&amp;#1085;&amp;#1080;&amp;#1103;:
 [nation]Aossian[/nation] &amp;lt;=&amp;gt; [nation]Garodmana[/nation] 
-[nation]Aossian[/nation] &amp;lt;=&amp;gt; [nation]Nore vo[/nation] 
+[nation]Aossian[/nation] &amp;lt;=&amp;gt; [nation]Nore vo[/nation] &amp;lt;=&amp;gt; [nation]Great Empire of the Wanderers[/nation]
 [nation]Aossian[/nation] &amp;lt;=&amp;gt; [nation]Puppy Alliance[/nation]
 [nation]Nemerick[/nation] &amp;lt;=&amp;gt;  [region]RuVtubers World[/region]
+[nation]Bloodiyarm[/nation] &amp;lt;=&amp;gt; [nation]Great Empire of the Wanderers[/nation]
+[nation]Bidonya[/nation] &amp;lt;=&amp;gt; [nation]Great Empire of the Wanderers[/nation]
+[nation]Aossian[/nation] &amp;lt;=&amp;gt; [nation]SuccubusNest[/nation] &amp;lt;=&amp;gt; [nation]Great Empire of the Wanderers[/nation]
