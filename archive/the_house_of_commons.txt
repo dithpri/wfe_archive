@@ -2,12 +2,12 @@
 [url=region=the thaecian senate]Senate (Upper House)[/url]
 [hr][b]Leadership:
 
-[list][*]Speaker of the House: [nation]Vacant[/nation] ([color=gray]Vacant[/color])[/b]
-[i][list][*]Snr. Deputy Speaker: [nation]Vacant[/nation] ([color=gray]Vacant[/color])
-[*]Jnr. Deputy Speaker: [nation]Vacant[/nation] ([color=gray]Vacant[/color])
-[*]Jnr. Deputy Speaker: [nation]Vacant[/nation] ([color=gray]Vacant[/color])[/list][/i][/list]
+[list][*]Speaker of the House: [nation]Marvinville[/nation] ([color=gray]FREE[/color])[/b]
+[i][list][*]Senior Deputy Speaker: [nation]Solittus[/nation] ([color=gray]TGP[/color])
+[*]Junior Deputy Speaker: [nation]Santa Marana[/nation] ([color=gray]FREE[/color])[/i][/list][/list]
 
-[b][list][*]Shadow Speaker of the House: [nation]Vacant[/nation] ([color=gray]Vacant[/color])[/b]
-[i][list][*]Dep. Shadow Speaker: [nation]Vacant[/nation] ([color=gray]Vacant[/color])[/i][/list][/list]
+[b][list][*]Shadow Speaker of the House: Vacant[/b]
+
+[list][i][*]Dep. Shadow Speaker: Vacant[/i][/list][/list]
 [hr][i][b][url=https://www.nationstates.net/page=dispatch/id=1441758#51][color=#ea2323]Please read the Code of Conduct and [u]Congress Regulation Act (L.R. 051)[/u] before posting here.[/url][/color][/i]
 [hr]To submit a bill to the House, please find an MP or Senator to sponsor the bill and then send it to the Speaker.[/b]
