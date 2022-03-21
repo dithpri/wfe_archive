@@ -17,7 +17,5 @@ AMBASSADOR
 [color=green]vacant[/color]
 RECRUIT MANAGER
 
-[color=blue]OUR MOTHER BODY[/color]:
-[region]United Nation[/region]
-[color=emerald]SISTER REGIONS[/color]:
-[region]Europe Union[/region], [region]Africa Union[/region] and [region]Asia Union[/region]
+[color=blue]UNITED UNION WELCOMES YOU[/color]:
+[region]United Nation[/region] [region]Europe Union[/region], [region]Africa Union[/region] and [region]Asia union[/region] 
