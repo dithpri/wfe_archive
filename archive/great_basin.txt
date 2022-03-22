@@ -1,1 +1,15 @@
-rtr
+[hr][hr][color=#0E68BD][b]Monarch[/b]: Elizabeth II
+[b]Prime Minister[/b]: Ruth Josanburg
+[b]Capital[/b]:  [nation]Stoltenberg[/nation][hr][hr] [b] Biggest City[/b]: New Eerie 
+[b]Population[/b]: 46 million
+[b]GDP (ppp): [/b]$2.5 trillion
+[b]GDP Per Capita (ppp): [/b]$54,377
+[b]Currency[/b]: Pound
+[hr][/color][hr][color=#000000][b]Embassies[/b][/color][color=#FF0000]: [b]All Embassies will be accepted[/b]
+[hr][hr][/color]
+[b]AllIES[/b]
+[region]Great Britain and Northern Ireland[/region]
+[region]Germany[/region]
+[region]European Union[/region]
+[region]United States of America[/region]
+[region]Aissurian Union[/region]
