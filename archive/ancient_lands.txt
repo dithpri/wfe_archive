@@ -9,7 +9,7 @@ initially the home of my ancient puppet nations
 [b]Sister Regions:[/b] 
 [region=0000] + [region=the Central Pacific] + [region=United States of America] + [region=Westminster]
 [b]Alliance:[/b] over 540 matrix and 950 oracle regions and an estimated 8000 puppets
-[b]Caretaker:[/b] [nation=short]Chopaka[/nation]
+[b]Caretaker:[/b] [nation=short]Dog Lake[/nation]
 [/color][color=7e7e00]
 REGION
 [b]Founded:[/b] 2013 Oct 28 *

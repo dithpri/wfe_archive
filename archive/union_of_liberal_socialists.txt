@@ -8,11 +8,9 @@ Open proposals from embassies to the whole world.[hr][color=orange][b]Notices[/b
 &#149;Status of migration to the region: open to any nation with related attached to the region.[hr][color=#BF80FF][b]Regional Defense System[/b][/color]
 
 [b]DRAE Defense Traffic Light:[/b] [color=green]Green[/color]
-[b]SCODFOA Code:[/b] [color=#40BFFF]Celeste[/color]
+[b]SCODFOA Code:[/b] White
 
 [color=#BF80FF][b]Special Force System for the Defense of Friendly Regions[/b][/color]
 
-[b]FIA Level:[/b] Level II
-[b]SFCIH Code:[/b] Archangel
-
-[i]Region [region]Aliados Brasileiros[/region] has been raided by regions known for their mass invasion.[/i]
+[b]FIA Level:[/b] Level I
+[b]SFCIH Code:[/b] Angel
