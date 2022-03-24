@@ -1,6 +1,10 @@
-[color=d7d800]Welcome to the Deep Sea! Shrouded in eternal darkness, there&#146;s always something mysterious and new waiting to be found![/color]
+[b][color=#4D034E]A subtle feeling of dread and horror creeps over you...[/color]
+[color=black]This region has been struck by the fatal blades of the [region]the Brotherhood of Malice[/region]. Malice lurks around every corner, and never sleeps. We strike wherever defenders fail.[/color] 
 
-[color=00027c]This section of the Deep Sea is controlled by the [u]Dancing Dolphins[/u]![/color]
+[i][color=red]Malice never dies[/i][/color]
 
-[hr]
-This region is part of the Summer Beach Bash Wargames event. Please do not tag it!
+[color=purple]The Assassins present:[/color]
+[color=black]Assassin [nation]Scottiesland[/nation] (Trigger)
+Assassin [nation]Vict0ria[/nation]
+Assassin [nation]Lugus Triune[/nation]
+[/color][/b]
