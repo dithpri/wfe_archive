@@ -1,0 +1,8 @@
+The Omvinia region is a region consisting of the Dictatorship of Lividus, the Kingdom of Luxuinia, the Democratic Republic of Omsnit, and the Democratic Republic of Prochime.
+
+Lividus is located at the north of the region, Luxuinia is located in the east of the region, Omsnit is located in the southwest of the region, and Prochime is located northwest of the region. They are seperated by the Creston Ocean in the south, and Lividus and Prochime are seperated by the Tursano Sea.
+
+[nation]Lividus[/nation] is led by the [i]Dictator[/i], Superiorem Dux Zand.
+[nation]Luxuinia[/nation] is led by the [i]Emperor[/i], Emperor Remigius.
+[nation]Omsnit[/nation] is led by the [i]President[/i], President Diamond.
+[nation]Prochime[/nation] is led by the [i]President[/i], President Amirov.

@@ -2,7 +2,7 @@
 [b]Constituent Realm of [region]The Italian Empire[/region][/b][hr]
 
 [b]King:[/b] Victor Emmanuel IV of [nation]Piedmont and Sardinia[/nation]
-[b]Prime Minister:[/b] [nation]Fascist Italian Empire[/nation]
+[b]Prime Minister:[/b] [nation]Italian Empire[/nation]
 
 [hr][b][u][color=green]Constituent Realms:[/color][/u][/b]
 [region]The Kingdom of Italy[/region] | [region]Kingdom of Italy[/region] | [region]Imperial Italy[/region]
