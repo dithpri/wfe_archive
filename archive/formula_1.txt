@@ -1,10 +1,20 @@
-[nation]M e r c e d e s[/nation] - 44. Lewis Hamilton (GBR) 63. George Russell (GBR)
-[nation]R e d B u l l[/nation] - 1. Max Verstappen (NLD) 11. Sergio Perez (MEX) 
-[nation]F e r r a r i[/nation] - 55. Carlos Sainz (ESP) 16. Charles Leclerc (MCO) 
-[nation]M c L a r e n[/nation] - 4. Lando Norris (GBR) 3. Daniel Ricciardo (AUS)
-[nation]A l p i n e[/nation] - 14. Fernando Alonso (ESP) 31. Esteban Ocon (FRA)
-[nation]A l p h a T a u r i[/nation] - 10. Pierre Gasly (FRA) 22. Yuki Tsunoda (JPN) 
-[nation]A s t o n M a r t i n[/nation] - 5. Sebastian Vettel (DEU) 18. Lance Stroll (CAN)
-[nation]W i l l i a m s[/nation] - 6. Nicholas Latifi (CAN) 23. Alex Albon (THA) 
-[nation]A l f a R o m e o[/nation] - 77. Valtteri Bottas (FIN) 24. Guanyu Zhou (CHN)
-[nation]H a a s[/nation] - 47. Mick Schumacher (DEU) 20. Kevin Magnussen (DEN)
+045 Leclerc - [nation]F e r r a r i[/nation]
+033 Sainz - [nation]F e r r a r i[/nation]
+025 Verstappen - [nation]R e d B u l l[/nation]
+022 Russell - [nation]M e r c e d e s[/nation]
+016 Hamilton - [nation]M e r c e d e s[/nation]
+014 Ocon - [nation]A l p i n e[/nation]
+012 Perez - [nation]R e d B u l l[/nation]
+012 Magnussen - [nation]H a a s[/nation]
+008 Bottas - [nation]A l f a R o m e o[/nation]
+006 Norris - [nation]M c L a r e n[/nation]
+004 Tsunoda - [nation]A l p h a T a u r i[/nation]
+004 Gasly - [nation]A l p h a T a u r i[/nation]
+002 Alonso - [nation]A l p i n e[/nation]
+001 Zhou - [nation]A l f a R o m e o[/nation]
+000 Schumacher - [nation]H a a s[/nation]
+000 Stroll - [nation]A s t o n M a r t i n[/nation]
+000 H&uuml;lkenberg - [nation]A s t o n M a r t i n[/nation]
+000 Albon - [nation]W i l l i a m s[/nation]
+000 Ricciardo - [nation]M c L a r e n[/nation]
+000 Latifi - [nation]W i l l i a m s[/nation]
