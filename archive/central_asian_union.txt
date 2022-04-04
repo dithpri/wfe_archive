@@ -1,8 +1,18 @@
-[color=006600][hr][list][b]Central Asian Union[/b][/list][hr][/color][color=006666][list]REGION
+[color=00477e][b]Central Asian Union[/b]
+[/color][color=004d33]
+A region of Asia consisting of the following former Soviet Republics, now independent nations:
+[b]Kazakhstan, Uzbekistan, Turkmenistan, Tajikistan , and Kyrgyzstan.[/b]
+[/color][color=7e7e00]
+REGION
 [b]Founded:[/b] 2020 May 20
-STATUS HISTORY
-[b]As Founded:[/b] a DBA embassy oracle holding region
-[b]Associated with:[/b]
-[list]- [region=Old Spirit] &amp; [region=Ancient Lands]
-- [region=United States of America]
-- [region=Uzbekistan] - [region=Tashkent][/list][/color][/list][hr][list][color=ff6600][b]:. No embassy offers please[/b][/color][/list][hr]
+[b]Featured:[/b] 2022 Apr 03
+[/color][color=633512]
+REGION HISTORY
+[b]As Founded:[/b] as an Embassy Oracle holding region
+[b]Modified:[/b] 2022 Apr 03 - as an Embassy Matrix Holding Region
+[b]Allied &amp; Associated Regions:[/b]
+- [region=Uzbekistan] - [region=Tashkent] - [region=Azerbaycan Respublikasi]
+- [region=0000] - [region=Ancient Lands] - [region=Dog Lake] - [region=Old Spirit]
+- [region=United States of America] - [region=Westminster]
+[/color][color=004d33]
+[b]Accepting all embassy offers[/b][/color]
