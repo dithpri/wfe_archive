@@ -1,10 +1,9 @@
-[i]Welcome, to the Federation of [region]The Ashfil Cliffs[/region][/i]
+[i]Welcome, to [i][region]The Ashfil Cliffs[/region][/i]
 [hr]
 [b][i]Maps:[/i][/b]
-[color=red]Political Map-[/color] https://cdn.discordapp.com/attachments/954431698467184650/955993025287430214/Ashfil_Political_MapRiver_Overlay.png
-[color=orange]Height and Route Map-[/color] https://cdn.discordapp.com/attachments/954431698467184650/955993024784117810/Ashfil_HeightRoutes_Map.png
-[color=yellow]Biome Map-[/color] https://cdn.discordapp.com/attachments/954431698467184650/955993023953653821/Ashfil_Biomes_Map.png
-[color=lime]3D Map-[/color] https://cdn.discordapp.com/attachments/954431698467184650/955993023509069844/Ashfil_3d_Map.png
+[color=red]Political Map-[/color] https://cdn.discordapp.com/attachments/961769604747771998/961773905159282688/Ashfil_Cliffs_Poltical_MapZones_1.1.png
+[color=orange]Height and Route Map-[/color] https://cdn.discordapp.com/attachments/961769604747771998/961773905784217640/Ashfil_HeightRoutes_Map_1.0.png
+[color=yellow]Biome Map-[/color] https://cdn.discordapp.com/attachments/961769604747771998/961773904848891924/Ashfil_Cliffs_Biome_Map_1.1.png
+[color=lime]3D Map-[/color] https://cdn.discordapp.com/attachments/961769604747771998/961773904316211200/Ashfil_3d_Map_1.0.png
 [hr]
 Daily announcements will be posted on the Regional Message Board!
-[hr]
