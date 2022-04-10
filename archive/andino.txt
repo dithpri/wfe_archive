@@ -1,1 +1,10 @@
-bajo contruccion
+[b]Bienvenido a [region]Andino[/region]![/b]
+
+[INSERT INTRODUCTION HERE]
+
+[hr]
+[INSERT LINK HERE | [IINSERT LINK HERE] | [INSERT LINK HERE]
+[hr]
+[b]Noticias Regionales:[/b]
+
+Despachos oficiales del gobierno se estan haciendo. Reclutamiento usando sistemas de API esta planeado.
