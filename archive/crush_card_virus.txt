@@ -1,7 +1,9 @@
 Tribute 1 DARK monster with 1000 or less ATK; your opponent takes no damage until the end of the next turn after this card resolves, also, you look at your opponent&#39;s hand and all monsters they control, and if you do, destroy the monsters among them with 1500 or more ATK, then your opponent can destroy up to 3 monsters with 1500 or more ATK in their Deck.
 
-[i]As of 9pm 12-04-22, we have proudly destroyed 712 cards, with a total value of 52.17.[/i] This is broken down into:
-[b][color=purple]62 UR[/color]
-[color=lightblue]267 R[/color]
-[color=green]231 UC[/color]
-[color=grey]152 C[/color][/b]
+[i]As of 9pm 14-04-22, we have proudly destroyed 1851 cards, with a total face value of 124.75.[/i] This is broken down into:
+
+[b][color=khaki]26 E[/color]
+[color=purple]167 UR[/color]
+[color=lightblue]473 R[/color]
+[color=green]480 UC[/color]
+[color=grey]705 C[/color][/b]

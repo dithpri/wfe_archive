@@ -1,2 +1,1 @@
-on view:
-  assimilate viewer
+isolation is obsolete; coherence is inevitable
