@@ -1,11 +1,13 @@
-[b][color=Green]Welcome To The United Coalition of Nations!.[/color]We Are United To Make Peace. 
-[hr] 
-[color=green]EVENTS[/color]
-Don&#39;t forget to endorse Our [color=Blue]WA delegate:[/color]
-[nation]Astova[/nation]
+[b][color=Green]Welcome To The United Coalition of Nations![/color]
 
-And President Of Coalition:
-[nation]Ragnarokia[/nation]
+We are a free region, with libertarian values!
+ 
+[color=green]INFO:[/color]
 
-[color=Maroon]Minimum Endorsment Cap: 10 
-Maximum Endorsment Cap: 180[/color][/b]
+[color=red]The President of the Coalition is: 
+[nation]Kreto[/nation][/color]
+
+[color=Blue]Don&#39;t forget to endorse Our WA delegate:[/color]
+[nation]Astova[/nation][/b]
+
+
