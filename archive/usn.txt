@@ -1,1 +1,1 @@
-Region= USN
+Region = USN
