@@ -1,1 +1,1 @@
-Storage for puppet states of [nation]Alpinea[/nation].
+A storage region based on the world of Neopets, ready to accept nations based on locations in Neopia. Any nations that do not meet this single criteria will be permanently banned.
