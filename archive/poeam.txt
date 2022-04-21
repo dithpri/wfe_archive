@@ -1,5 +1,5 @@
 &amp;#128310;&amp;#65039;A region dedicated to become the new superpower of NS
-[region]PEOPLES OF EARTH AND MARS[/region]
+[region]The Hub[/region]
 
 &amp;#128310;&amp;#65039;How many embassies can we get this month?
 
@@ -7,6 +7,6 @@
 
 &amp;#128310;&amp;#65039;Endorse [nation]POEAM[/nation]
 
-&amp;#128310;&amp;#65039;Mission: None
+&amp;#128310;&amp;#65039;Mission: Send Puppets to [region]The Hub[/region]
 
 
