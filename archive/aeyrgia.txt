@@ -6,4 +6,4 @@
 Peak nation count: 17
 # of departed nations: 1
 # of nations that ceased to exist in [region]Aeyrgia[/region]: 1
-[color=cd00cd]Newest nation: [nation]The almightily dollar[/nation] : April 22, 2022[/color]
+[color=cd00cd]Newest nation: [nation=long]Aristartis[/nation] : April 28, 2022[/color]
