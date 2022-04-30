@@ -18,3 +18,4 @@ Support:
 [region]Kaiserreich[/region]
 [region]The Three Isles[/region]
 [region]The Great Universe[/region]
+[region]The Region of Warsaw[/region]
