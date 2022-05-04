@@ -3,10 +3,6 @@
 [nation]Aossian[/nation] 
 &amp;#1047;&amp;#1072;&amp;#1103;&amp;#1074;&amp;#1080;&amp;#1083;&amp;#1080; &amp;#1086; &amp;#1075;&amp;#1086;&amp;#1090;&amp;#1086;&amp;#1074;&amp;#1085;&amp;#1086;&amp;#1089;&amp;#1090;&amp;#1080; &amp;#1074;&amp;#1089;&amp;#1090;&amp;#1091;&amp;#1087;&amp;#1080;&amp;#1090;&amp;#1100;:
 [nation]Puppy Alliance[/nation]
-
-A.S.S.
-[nation]Great Empire of the Wanderers[/nation] [nation]Bidonya[/nation] 
-&amp;#1047;&amp;#1072;&amp;#1103;&amp;#1074;&amp;#1080;&amp;#1083;&amp;#1080; &amp;#1086; &amp;#1075;&amp;#1086;&amp;#1090;&amp;#1086;&amp;#1074;&amp;#1085;&amp;#1086;&amp;#1089;&amp;#1090;&amp;#1080; &amp;#1074;&amp;#1089;&amp;#1090;&amp;#1091;&amp;#1087;&amp;#1080;&amp;#1090;&amp;#1100;:
 -
 F.B.I
 [nation]Faledano[/nation][nation]Bloodiyarm[/nation]
@@ -16,6 +12,5 @@ F.B.I
 [nation]Aossian[/nation] &amp;lt;=&amp;gt; [nation]Nore vo[/nation] &amp;lt;=&amp;gt; [nation]Great Empire of the Wanderers[/nation]
 [nation]Nemerick[/nation] &amp;lt;=&amp;gt;  [region]RuVtubers World[/region]
 [nation]Bloodiyarm[/nation] &amp;lt;=&amp;gt; [nation]Great Empire of the Wanderers[/nation]
-[nation]Bidonya[/nation] &amp;lt;=&amp;gt; [nation]Great Empire of the Wanderers[/nation]
 [nation]Aossian[/nation] &amp;lt;=&amp;gt; [nation]SuccubusNest[/nation] &amp;lt;=&amp;gt; [nation]Great Empire of the Wanderers[/nation]
 [nation]Soul Phylactery[/nation] &amp;lt;=&amp;gt; [nation]Sea Depths[/nation]
