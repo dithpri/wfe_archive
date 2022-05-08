@@ -4,7 +4,7 @@
 
 [Color=8b2323][u][b]Soldier in the Army of [Region]The Great Storm[/Region][/b][/u][/Color]
 
-[color=Green][u][b]Captain Billy Mitchell[/b][/u][/color] 
+[Color=6f00ff][u][b]Private in the Army of the Small[/u][/b][/Color]
 
 [nation]Gooseneckistan[/nation]  
 
@@ -25,3 +25,5 @@
 [color=Orange]&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;[/color][color=Yellow]&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;[/color][color=Green]&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;[/color]
 
 [Color=8b2323][b][u]Duel Citizen of [Region]Krasnaya[/Region] and [Region]Kaiserreich[/Region][/b][/u][/Color]
+
+[Color=8b2323][b][u]A Member of the [Region]Council of Minuscule and Small Regions[/Region][/b][/u][/Color]
