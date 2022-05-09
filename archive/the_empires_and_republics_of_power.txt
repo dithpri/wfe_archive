@@ -4,12 +4,13 @@ Please Go Onto The Admin Page And Endorse our Founder, WA delegate and other Adm
 
 Our map is available at [url=https://imgur.com/gallery/MCh5k7a]this link[/url]
 Current Delegate:
-[nation=noflag]The Georgeian Empire[/nation]
+[nation=noflag+long]The Georgeian Empire[/nation]
 Current Vice:
-[nation=noflag]The Common Kingdom[/nation]
+[nation=noflag+long]The House That Declared Independence[/nation]
 Ex-Delegates:
-[nation=noflag]New Zander[/nation]
-[nation=noflag]Campbellbm[/nation]
+[nation=noflag+long]New Zander[/nation]
+[nation=noflag+long]Campbellbm[/nation]
+[nation=noflag+long]The Common Kingdom[/nation]
 [hr]
 Founded: October 20, 2021
 
