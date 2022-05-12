@@ -1,2 +1,4 @@
-[b]Commonwealth of Dominica[/b]
-a DBA/[region=0000] region
+[color=004747][b]Commonwealth of Dominica[/b][/color][hr][hr][color=004700]REGION
+[b]Founded:[/b] 2022 May 11
+[b]Sister Region:[/b] [region=Dominica]
+an [region=0000] Oracle Region[/color]
