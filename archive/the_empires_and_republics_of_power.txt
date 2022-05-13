@@ -1,10 +1,12 @@
 Welcome to [region]The Empires And Republics Of Power[/region], a member of [region]Bloc Brigade[/region]!
 
-We are having a bit of a Delegate problem, so I, [nation=noflag]New Zander[/nation], have decided that we are changing the way that we are doing endorsements. From this point onwards, any WA member can only endorse [b]ONE[/b] other WA member.
-The exception for this is the WA delegate. You can endorse the Delegate and one other member. The Founder can also endorse as many people as they like 
-We will give you 1 week to comply.
+We&#39;re having a bit of a Delegate problem, so [nation=noflag]New Zander[/nation] has decided that we are changing our endorsement methods. Any WA member, apart from the Delegate and Founder, can only be endorsed [b]THREE[/b] times from this point onwards. The Delegate should be endorsed by everyone, and the Founder can have as many as the Delegate.
+You have one week to carry out these commands.
 
-Our map is available at [url=https://imgur.com/gallery/MCh5k7a]this link[/url]
+Our map is available at [url=https://imgur.com/gallery/bWvZ4Db]this link[/url]
+A .map file is available at [url=https://www.mediafire.com/file/mta37mv2ottaj76/The_Empires_and_Republics_of_power_2022-05-12-11-36.map/file]this link[/url]
+Map created using [url=https://azgaar.github.io/Fantasy-Map-Generator/]Azgaar&#39;s Fantasy Map Generator![/url]
+
 Current Delegate:
 [nation=noflag+long]The Georgeian Empire[/nation]
 Current Vice:

@@ -6,5 +6,5 @@ Minister of Foreign Affairs - no
 Minister of Internal Information - no
 Minister of Public Affairs - no
 Higher ranks:
-President -[nation]Xer_Screth[/nation]
+President - [nation]Xer_Screth[/nation]
 Deputy President - no
