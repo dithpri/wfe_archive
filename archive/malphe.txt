@@ -1,8 +1,8 @@
-[b][color=red]Welcome to the region of [nation]Malphe[/nation]![/b]
+[b]# &amp;lt;&amp;lt;&amp;lt; RAIDS WELCOME AND ENCOURAGED &amp;gt;&amp;gt;&amp;gt;[/b]
 
-[b]Contact me via [nation]Malphe II[/nation] if you want me to see it promptly.[/color][/b]
+[b]print(&quot;Welcome to the region of [url=https://www.nationstates.net/nation=malphe_ii]Hazel-Malphe Vytherov[/url]&quot;)[/b]
 
-[i]A computer chatted to itself in alarm as it noticed an airlock open and close itself for no apparent reason.
+[i]print(&#39;&#39;&#39;A computer chatted to itself in alarm as it noticed an airlock open and close itself for no apparent reason.
 This was because Reason was in fact out to lunch.
 
 A hole had just appeared in the Galaxy.
@@ -11,9 +11,8 @@ and quite a lot of million light years from end to end.
 As it closed up lots of paper hats and party balloons fell out of it
 and drifted off through the universe.
 A team of seven three-foot-high market analysts fell out of it and died,
-partly of asphyxiation, partly of surprise.[/i]
+partly of asphyxiation, partly of surprise.&#39;&#39;&#39;)[/i]
 
-[color=red][b]Raided by: Lily[/color], [color=grey]The Black Hawks[/color], [color=green]Ema Skye[/color], [color=darkblue]the North Pacific Army[/color][/b]
+[b]raidedBy = [&quot;Lily&quot;, &quot;The Black Hawks&quot;, &quot;Ema Skye&quot;, &quot;North Pacific Army&quot;][/b]
 
-[u]Founded 09/12/2017-ish
-Featured 27/10/2020[/u] 
+[u]while True: print(&quot;RATS RATS RATS RATS&quot;)[/u]
