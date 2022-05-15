@@ -1,11 +1,12 @@
-[colour=indigo]Welcome to [region]The Lightning Army[/region], joint command centre of [region]The Commonwealth of Militant Realms[/region], [region]The Great Storm[/region], [region]South African Union[/region], [region]The Galactic Union of Nations[/region] and [region]The Official United Nations[/region]!
+[colour=indigo]Welcome to [region]The Lightning Army[/region], joint command centre of [region]The Commonwealth of Militant Realms[/region], [region]The Great Storm[/region], [region]South African Union[/region], [region]The Galactic Union of Nations[/region], [region]The Power Gulids II[/region] and [region]The Official United Nations[/region]!
 
 [hr][b]Current orders:[/b] Raid and defend
 [hr]Specific orders:
-SAU orders: Move back to [region]The Lightning Army[/region].
-COMR orders: Move back to [region]The Lightning Army[/region].
-TGS orders: Move back to [region]The Lightning Army[/region].
-GUN orders: Move back to [region]The Lightning Army[/region].
-OUN orders: Move back to [region]The Lightning Army[/region].
+SAU orders: Move to [region]The Lightning Army[/region].
+COMR orders: Move to [region]The Lightning Army[/region].
+TGS orders: Move to [region]The Lightning Army[/region].
+GUN orders: Move to [region]The Lightning Army[/region].
+OUN orders: Move to [region]The Lightning Army[/region].
+TPGII orders: Move to [region]The Lightning Army[/region].
 [hr]Regional Commanders:
 [/colour]
