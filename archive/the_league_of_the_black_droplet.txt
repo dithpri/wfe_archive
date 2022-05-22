@@ -8,6 +8,7 @@ NATIVES, MOVE TO [region]Garasonia[/region].
 [colour=orange]Commander[/colour] [nation]TEST AVI ATYIVAITI APIA[/nation]
 [colour=purple]Lieutenant[/colour] [nation]PARILAND[/nation]
 [colour=pink]Sergeant[/colour] [nation]Mad Konethawk[/nation]
+[colour=blue]Private[/colour] [nation]Zebra[/nation]
 
 [u]Storm Soldiers:[/u]
 [colour=lightblue]Associate[/colour] [nation]King Islesian Battalion 1[/nation]

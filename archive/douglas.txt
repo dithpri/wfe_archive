@@ -1,2 +1,10 @@
-[color=green][b]Douglas[/b]
-capital of [region=Isle of Man][/color]
+[color=00477e][b]Douglas[/b]
+[/color][color=004d33]
+capital of [region=Isle of Man]
+[/color][color=7e7e33]
+REGION
+[b]Founded:[/b] 2019 Sep 09
+[b]Featured:[/b] 2022 May 21
+an [region=Ancient Lands] Matrix Region
+[/color][color=004d33]
+[b]Embassy offers accepted[/b][/color]
