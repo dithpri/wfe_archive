@@ -20,4 +20,4 @@ States:Peaceful
 Tension:none
 Wants:embassy&#146;s with the Collective Security Pact
 Needs:more embassy&#146;s 
-Roleplay story:in progress
+Roleplay story:none
