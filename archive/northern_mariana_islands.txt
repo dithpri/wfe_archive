@@ -1,10 +1,18 @@
-[color=116062][b]Northern Mariana Islands[/b] 
-- is a commonwealth, in political union with the [region=United States of America], 
-- located at a strategic location in the western Pacific Ocean, 
-- consists of 15 islands, with population of 80,000 and area of 477 km&sup2;.
-- Capital is Saipan.
+[color=00477e][b]Northern Mariana Islands[/b]
 
-[b]REGION[/b]
-a [region=0000] holding region
-Embassy Offers are accepted
-[b]Founded:[/b] 2007 Jul 10[/color]
+[i]Commonwealth of the Northern Mariana Islands[/i]
+[/color][color=004d33]
+FACTS
+- as of November 4, 1986 became a commonwealth in political union with [region=United States of America]
+- an unincorporated territory of the [region=United States of America]
+- located at a strategic location in the western Pacific Ocean
+- consists of 15 islands, with population of 55,650 (2022 est.) and area of 464 km&sup2; (179 sq mi)
+- most of the population resides on Saipan, Tinian, and Rota
+- Capital is Saipan.
+[/color][color=olive]
+REGION
+- [b]Founded:[/b] 2007 Jul 10
+- [b]Featured:[/b] 2022 May 24
+- an [region=Ancient Lands] puppet region
+[/color][color=004d33]
+[b]Embassy Offers are accepted[/b][/color]
