@@ -1,8 +1,4 @@
-[b][color=green]Welcome to R&eacute;union Island[/color][/b]
-[i][b][url=http://www.nationstates.net/region=the_french_republic]Overseas Department of France[/url][/b][/i]
-
-R&eacute;union is a French island located in the Indian Ocean, east of Madagascar, about 175 kilometres (109 mi) southwest of Mauritius, the nearest island.
-
-Administratively, R&eacute;union is one of the overseas departments of France. Like the other overseas departments, R&eacute;union is also one of the 27 regions of France and an integral part of the kingdom with the same status as those situated on the European mainland.
-
-[b]Sister Regions:[/b] [region]Kingdom of France[/region], [region]The French Republic[/region], [region]French Empire[/region], [region]Royaume de France[/region]
+[color=00477e][b]Reunion Island[/b]
+a department of [region=Republic of France][/color][color=664422]
+[b]Sister Region:[/b] [region=Reunion]
+[b]Region Collected:[/b] 2022 May 25[/color]
