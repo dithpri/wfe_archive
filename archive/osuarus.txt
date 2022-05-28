@@ -3,4 +3,6 @@
 [tr][td]/* Welcome to the revolution */[/td][/tr]
 [tr][td]We are a crack team dedicated to NationState&#39;s occult, deriving new knowledge from the dreams of gameplayers, pumping vampire supplement supplies from the ever plentiful [region]The Blood Cave[/region], and moving with deliberate speed towards our eventual goal of resurrecting the mummified whale that rests beneath the shifting sands of [region]Osiris[/region].[/td][/tr]
 [/table]
-[table][tr][td][/td][/tr][/table]
+[table]
+[tr][td][/td][td][/td][td][/td][td][/td][td][/td][/tr]
+[tr][td][url=https://www.nationstates.net/nation=osuarus_informational_services/detail=factbook/id=1712160][color=#2d47a6]About us[/color][/url][/td][td][color=#a12515]Contact us[/color][/td][td][url=https://www.nationstates.net/page=dispatch/id=1712281][color=#2d47a6]Among Us[/color][/url][/td][td][color=#a12515]Products[/color][/td][td][color=#a12515]Services[/color][/td][/tr][/table]
