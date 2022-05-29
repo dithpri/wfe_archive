@@ -1,5 +1,3 @@
-[color=red] Under Occupation by the National Revolutionary Guard[/color]
-
 [b]Capital: Munich
 Population: 49 203 000
 Largest Cities: Frankfurt, Munich, Prague, Vienna, Stuttgart
@@ -12,5 +10,5 @@ GDPpC: 467.451 $
 Currency: S&uuml;dmark - 1:1.4 $
 -----------------------------------------------------------------------
 Form of Government: Absulutist Monarchy
-Current Monarch: [nation]Zordennox[/nation]
-Current Reichspr&auml;sident: [nation]Gronsted[/nation][/b]
+Current Monarch: [nation][/nation]
+Current Reichspr&auml;sident: [nation]Wuerttemburg[/nation][/b]
