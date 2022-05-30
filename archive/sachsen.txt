@@ -14,5 +14,5 @@ REGION
 [b]Founded:[/b] 2021 JUN 15
 [b]Sister Region:[/b] [region=Saxony]
 a [region=Ancient Lands] region
-[/color][color=red]
-No embassy offers will be acceptd at this time[/color]
+[/color][color=004d33]
+Accepts Embassy Offers[/color]
