@@ -4,4 +4,4 @@ The Second Battalion of the Free Front Armed Forces, part of the 1st Division. T
 [nation]Korslaka[/nation] - Garrisoned 	
 [nation]Sentinalla[/nation] - Garrisoned 
 [nation]Cresostan[/nation] - Garrisoned 
-[nation]Monastan[/nation] - Deployed to [region]Third Cynglish Empire[/region]
+[nation]Monastan[/nation] - Garrisoned
