@@ -1,7 +1,5 @@
 Welcome to [region]The Empires And Republics Of Power[/region], a member of [region]Bloc Brigade[/region]!
 
-Because we don&#39;t really know how to enforce the endorsement cap without egecting people, we have decided to remove it. We thank you for your time.
-
 Our map is available at [url=https://imgur.com/gallery/bWvZ4Db]this link[/url]
 A .map file is available at [url=https://www.mediafire.com/file/x568xq2j83og7j6/The_Empires_and_Republics_of_power_2022-05-14-18-29.map/file]this link[/url]
 Map created using [url=https://azgaar.github.io/Fantasy-Map-Generator/]Azgaar&#39;s Fantasy Map Generator![/url]
@@ -10,5 +8,8 @@ Current Delegate:
 [nation=noflag+long]The Georgeian Empire[/nation]
 Current Vice:
 [nation=noflag+long]CampbellBm[/nation]
+Ex-Delegates:
+[nation=noflag]New Zander[/nation],
+[nation=noflag]The Common Kingdom[/nation]
 [hr]
 Founded: October 20, 2021

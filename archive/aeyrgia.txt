@@ -8,11 +8,14 @@
 Peak nation count: 31
 # of departed nations: 9
 # of nations that ceased to exist in [region]Aeyrgia[/region]: 2
-[color=cd00cd]Newest nation: [nation=long]New South Democ[/nation] May 18, 2022[/color]
+[color=cd00cd]Newest nation: [nation=long]Da Krosko[/nation] May 18, 2022[/color]
 
 
 [b]___________________________________________________________________________________________[/b]
 
-[b][color=lightblue]Treaties: CNAPP[/b] [nation]Me cool nation[/nation], [nation]Me cooler nation[/nation], [nation]Me coo1 nation[/nation], and [nation]Me coolest nation[/nation]
+[b][color=lightblue]Treaties: IDP [nation]Disassembled Mechanical Pencils[/nation], [nation]Fivsevan[/nation], and [nation]The peej[/nation][/b][/color]
 
-[b]IDP[/b] [nation]Disassembled Mechanical Pencils[/nation], [nation]Fivsevan[/nation], and [nation]The peej[/nation][/color]
+[b][color=darkred]Wars: 
+A: [nation]Disassembled Mechanical Pencils[/nation] with [nation]Fivsevan[/nation] against D: [nation]New South Democ[/nation]
+
+A: [nation]New South Democ[/nation] against D: [nation]Me coo1 nation[/nation][/color][/b]
