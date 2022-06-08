@@ -1,2 +1,1 @@
-[b]Imperial Prussia[/b]
-a [region=0000] region
+[color=900000][b]Imperial Prussia[/b][/color][hr][color=666666]a [region=0000] region[/color]

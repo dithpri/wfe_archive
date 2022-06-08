@@ -2,8 +2,8 @@
 
 [hr]
 
-[b]Speaker of the House[/b]-//-[i]TBD(TBD)[/i]
-[i]Deputy Speaker[/i]-//- [i]TBD(TBD)[/i]
+[b]Speaker of the House[/b]-//-[i][nation]South Anistania[/nation](TDP)[/i]
+[i]Deputy Speaker[/i]-//- [i][nation]Duelandia[/nation](TDP)[/i]
 
 -------------------------------
 [b]Shadow Speaker of the House[/b]-//-[i]TBD(TBD)[/i]
