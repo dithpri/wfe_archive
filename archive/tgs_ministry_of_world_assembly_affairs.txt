@@ -1,4 +1,4 @@
-[b]This region will serve as the headquarters of [region]The Great Storm[/region]&#39;s Ministry of World Assembly Affairs. 
+[i][b]This region will serve as the headquarters of [region]The Great Storm[/region]&#39;s Ministry of World Assembly Affairs. [/i]
 
 Here&#39;s what this ministry does:[/b]
 [hr]
@@ -7,9 +7,10 @@ Here&#39;s what this ministry does:[/b]
 [hr]
 [b]If you are interested in joining, contact [nation]Yosaka[/nation]. 
 [/b]
-[b][u]The only requirements are:[/u]
-You need to show an interest in The World Assembly and helping out the Ministry.
+[b][u]The only requirements are:[/u][/b]
+[i]You need to show an interest in The World Assembly and helping out the Ministry.[/i]
 
-Our current Minister of World Assembly Affairs is [u]VACANT[/u].[/b]
+[b]Our current Minister of World Assembly Affairs is [u]VACANT[/u].[/b]
 
-[b]For more info, check the pinned dispatch.[/b]
+[i]For more info, check the pinned dispatch.
+[/i]
