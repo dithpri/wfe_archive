@@ -4,6 +4,6 @@
 [b]Deputy Prime Minister: [nation=long]The Union of Costa Rica[/nation]
 Minister of the Interior: [nation=long]The State of Hejaz[/nation]
 Minister of Foreign Affairs: [nation=long]The North American Unified States[/nation]
-Minister of Justice: [nation=long]Supierland[/nation]
-[u]Supreme Court:[/u]Chief Justice: [nation=long]Republic of Mesque[/nation][/b]
+Minister of Justice: [nation=long]The Union of Costa Rica[/nation]
+[u]Supreme Court:[/u]Chief Justice: [nation=long]Supierland[/nation][/b]
 [hr]Members of the government are asked to tag other members to ensure activity in the room.
