@@ -1,14 +1,21 @@
-[color=000099]Welcome to [b]Great Britain and Northern Ireland[/b]
-[/color][color=003366]
-FACTS[list]
+[color=00477e]Welcome to [b]Great Britain and Northern Ireland[/b]
+[/color][color=004d33]
+FACTS
 [b]Capital:[/b] [region=London] ([region=Westminster])
-[b]Independence:[/b][list]927 (union of English Kingdoms);
-1284 (with [region=Wales]);
-1707 (with Scotland);
-1801 (with Ireland)[/list][b]Head of State:[/b] Queen Elizabeth II (1952 Feb 6)
+[b]Independence:[/b]
+- 927 (union of English Kingdoms);
+- 1284 (with [region=Wales]);
+- 1707 (with Scotland);
+- 1801 (with Ireland)
+[b]Head of State:[/b] Queen Elizabeth II (1952 Feb 6)
 [b]Head of Government:[/b] Prime Minister Boris Johnson (2019 July)
 [b]Area:[/b] 243,610 sq km (excludes Overseas Territories)
-[b]Population:[/b] 64,511,000 (2014 est.)
-[/color][color=009900]
-Sister region of [region=United Kingdom of Great Britain].
-[b]GOD SAVE THE QUEEN[/b][/color][/list]
+[b]Population:[/b] 67,220,000 (2020 est.)
+[/color][color=olive]
+REGION
+[b]Founded:[/b] 2016 Apr 25
+[b]Featured:[/b] 2022 Jun 15
+[b]Sister region:[/b] [region=United Kingdom of Great Britain]
+an [region=Ancient Lands] region
+[/color][color=004d33]
+[b]GOD SAVE THE QUEEN[/b][/color]

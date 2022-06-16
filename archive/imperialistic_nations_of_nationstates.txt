@@ -1,7 +1,7 @@
 The Second Battalion of the Free Front Armed Forces, part of the 1st Division. The Ghost Battalion.
 
-[nation]Nortlana[/nation] - Garrisoned 
-[nation]Korslaka[/nation] - Garrisoned 	
-[nation]Sentinalla[/nation] - Garrisoned 
+[nation]Nortlana[/nation] - Stationed in [region]Leninglad[/region] 
+[nation]Korslaka[/nation] - Stationed in [region]Axis Powers 3[/region] 	
+[nation]Sentinalla[/nation] - Stationed in [region]Furry Antifascist Alliance[/region] 
 [nation]Cresostan[/nation] - Garrisoned 
-[nation]Monastan[/nation] - Garrisoned
+[nation]Monastan[/nation] - Stationed in [region]Confederation[/region]
