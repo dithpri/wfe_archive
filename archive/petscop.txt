@@ -1,4 +1,3 @@
-[color=red]Family.[/color]
-[color=green]Family.[/color]
-[color=blue]Family.[/color]
+[b][color=red]Family.[/color]
 [color=purple]Family.[/color]
+[/b]
