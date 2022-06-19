@@ -8,7 +8,7 @@
 Peak nation count: 31
 # of departed nations: 12
 # of nations that ceased to exist in [region]Aeyrgia[/region]: 4
-[color=cd00cd]Newest nation: [nation=long]Lovism[/nation], [nation=long]Haute-France[/nation], and [nation=long]Idgafs[/nation]: June 16, 2022[/color]
+[color=cd00cd]Newest nations: [nation=long]Lovism[/nation], [nation=long]Haute-France[/nation], and [nation=long]Idgafs[/nation]: June 16, 2022 | [nation]Autahan[/nation]: June 17, 2022 | [nation]Luyania[/nation]: June 18, 2022[/color] 
 
 [b]___________________________________________________________________________________________[/b]
 

@@ -2,6 +2,6 @@ The Second Battalion of the Free Front Armed Forces, part of the 1st Division. T
 
 [nation]Nortlana[/nation] - Stationed in [region]Leninglad[/region] 
 [nation]Korslaka[/nation] - Stationed in [region]Axis Powers 3[/region] 	
-[nation]Sentinalla[/nation] - Stationed in [region]Furry Antifascist Alliance[/region] 
+[nation]Sentinalla[/nation] - Stationed in [region]Alvarez[/region]
 [nation]Cresostan[/nation] - Garrisoned 
-[nation]Monastan[/nation] - Stationed in [region]Confederation[/region]
+[nation]Monastan[/nation] - Stationed in [region]New Alvarez Union[/region]
