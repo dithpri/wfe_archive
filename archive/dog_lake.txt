@@ -11,8 +11,8 @@ soon to be the MAIN HOME REGION for:
 [list][region=0000]
 [region=Ancient Lands]
 [region=The Central Pacific]
-[region=United States of America]
-[region=Westminster][/list]
+[region=Union of Great Britain]
+[region=United States of America][/list]
 AKA HQ COMMAND
 [/color][color=004d33]
-[hr][b]Embassy:[/b] Accepting All Noticed Embassy Offers[/color]
+[hr][b]Embassy:[/b] Accept Embassy Offers[/color]
