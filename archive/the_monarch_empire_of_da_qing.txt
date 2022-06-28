@@ -1,12 +1,16 @@
 [b][region]The Monarch Empire of Da Qing[/region][/b] was founded by Aisingioro Nurhaci on Zhengyue 1st, 1st year of Tianming (25/06/2022 CE)
 [hr]Imperial Capital: [i][nation=long+flag]Qinglandia[/nation][/i]
-Largest city: [i][nation=long+flag]Qinglandia[/nation][/i]
-Religion:
-       - State religion:
-       - Majority:
-       - Minority:
-Goverment: [i]Absolute monarchy[/i]
-Legislature: [i]Deliberative Council[/i]
-Population: [i]&amp;#8776; 11 million people[/i]
-GDP: [i]&amp;#8776; 560 billion liangs (&amp;#8776; 11 trillion 944 billion 800 million US dollars) (1 liang &amp;#8776; 21,33 US dollars)[/i]
-GDP per capita: [i]&amp;#8776; 50909 liangs (&amp;#8776; 1 million 085 thousand 889 US dollars) per person[/i]
+Largest city: [i][nation=long+flag]Qinglandia[/nation] (&amp;#8776; 7 million people)[/i]
+State religion: 
+Goverment: [i]Absolute monarchy
+- Emperor: [nation=long+flag]Qinglandia[/nation]
+- Prince:
++ Li: [nation=long+flag]Zhililand[/nation]
++ Yu: [nation=long+flag]Liangjiangland[/nation]
++ Keqi: [nation=long+flag]...[/nation]
++ Su: [nation=long+flag]...[/nation]
++ Zheng: [nation=long+flag]...[/nation][/i]
+Area: [i]&amp;#8776; 525,80km&sup2; (Average population density &amp;#8776; 43743,18 persons/km&sup2;)[/i] [color=green]&amp;#9650;[/color]
+Population: [i]&amp;#8776; 23 million people[/i] [color=green]&amp;#9650;[/color]
+GDP: [i]&amp;#8776; 1,286T liangs (&amp;#8776; $27430380M &amp;#8776; $27,43T) (1 liang &amp;#8776; $21,33)[/i] [color=green]&amp;#9650;[/color]
+GDP per capita: [i]&amp;#8776; 55913 liangs (&amp;#8776; $1192624 &amp;#8776; $1,19M) per person[/i] [color=green]&amp;#9650;[/color]
