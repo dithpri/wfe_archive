@@ -1,4 +1,4 @@
-[Color=orange][b][u] Soldat in the 1st Piling Regiment &amp; the 2nd Invasion Regiment of the Reichswehr Army of Kaiserreich[/u][/b][/color]
+[Color=orange][b][u] Corporal in the 1st Piling Regiment &amp; the 2nd Invasion Regiment of the Reichswehr Army of Kaiserreich[/u][/b][/color]
 
 [color=Cotton][u][b]Captain in the Charlie Regiment of the First Company of the Samsu Battalion of the Stroyaviski  Army of Krasnaya[/b][/u][/color]
 
@@ -8,9 +8,13 @@
 
 [nation]Gooseneckistan[/nation]  
 
-[nation]Joyful Sorrows[/nation]
+[nation]Wango Tango[/nation]
 
  [nation]Found Missing[/nation]  
+
+[nation]Bud Lightyear[/nation]
+
+[nation]Coupe De Village[/nation]
 
 [color=Black]&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;[/color]
 [color=Orange]&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;[/color]
