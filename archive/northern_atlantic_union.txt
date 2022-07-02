@@ -1,1 +1,7 @@
-Work in Progress
+[color=00477e][b]Northern Atlantic Union[/b]
+[/color][color=004d33]
+Train Connections:
+Track 1: [region=East Bentley] - all points SOUTH
+Track 2: [region=Rufus District] - all points NORTH
+Other Connections:
+[region=Dog Lake] &amp; [region=0000][/color]

@@ -17,3 +17,5 @@ Motto: [u]No Surrender![/u]
 [region]The AEP[/region]
 [region]Free Alliance[/region]
 
+Security Level: [colour=green]Level 2[/colour]
+
