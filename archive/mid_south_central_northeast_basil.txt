@@ -1,1 +1,5 @@
-Land area is 4,385,464 sq miles
+Land area is 4,233,270.51
+
+Water Area: 788,637.829 km
+
+[region][/region]
