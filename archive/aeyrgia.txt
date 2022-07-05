@@ -7,8 +7,8 @@
 [b][color=green]Some Stats:[/color][/b]
 Peak nation count: 33
 # of departed nations: 12
-# of nations that ceased to exist in [region]Aeyrgia[/region]: 5
-[color=cd00cd]Newest nations: [nation=long]Landinoso[/nation]: July 3, 2022[/color]
+# of nations that ceased to exist in [region]Aeyrgia[/region]: 6
+[color=cd00cd]Newest nations: [nation=long]Landinoso[/nation]: July 3, 2022 &amp; [nation=long]Extaria[/nation]: July 4, 2022[/color]
 
 [Hr]
 
