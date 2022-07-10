@@ -1,4 +1,4 @@
-[color=yellow] [i][b]By  the people, for the people, with the people.[/b][/i] 
+[color=red] [i][b]By  the people, for the people, with the people.[/b][/i] 
 
 Successor to:
 [region]The Communist Nations of The World[/region]
@@ -17,9 +17,9 @@ Proud member of [region]InterLeft[/region]
 No New Astri, No New Astri, you&#39;ve told more lies than Bobrikov himself.
 
 ------------------------------------------[/color]
-[color=red] 
+[color=yellow] 
 Regional Defense Indicators:
 
-Public Risk Assessment: Level 4
-Quantitative Risk Assessment: 63%
+Public Risk Assessment: Level 3
+Quantitative Risk Assessment: 55%
 [/color]

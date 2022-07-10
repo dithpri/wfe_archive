@@ -1,8 +1,4 @@
-[u][region]Asmor Federation Military Base[/region] is shut down, all operations are to be move here at once.[/u]
-
 Welcome to the [b]Asmor Federation Imperial Remnant.[/b] This Region is Empire themed, and preserves the good  Aspects of such doctrine.
-
-(Emergency Powers to the Chancellor, makes him the Commander in Chief)
 
 [b]This Region is the Seat of Power for the Asmor Federation.&nbsp;Long Live the Lord Chancellor.[/b]&nbsp;&amp;#128081; &amp;#10017;&amp;#65039;&amp;#10013;&amp;#65039;&amp;#127470;&amp;#127473;&amp;#127482;&amp;#127474;
 
@@ -13,3 +9,4 @@ The Asmor Federation is a collection of Remnants from broken states and fallen k
 [region]The Free Front[/region]
 [region]Eretz Israel[/region]
 [region]The Three Isles[/region]
+[region]Asmor Federation Military Base[/region]
