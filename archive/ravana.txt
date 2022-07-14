@@ -14,12 +14,7 @@ _________________________________________________________________________
 [/u]
 Pontifex Maximus: [nation]Farlandiay[/nation]
 King: [nation]Glacio Revera[/nation]
-Members of Parliament: [list]
-[*] [b]Chancellor[/b] [nation]Phyrexon[/nation] [PDF]
-[*] [nation]Northern Mount Celestia[/nation] [IND]
-[*] [nation]Nopengie[/nation] [RMP]
-[*] [nation]Sneakyllama[/nation]
-[*] [b]VACANT[/b]
+High Council: [nation]Nopengie[/nation], [nation]Northern Mount Celestia[/nation], and [nation]Goldrir[/nation]
 _________________________________________________________________________
 
 [color=Purple][b]The best way to predict the future is to create it[/b][/color]

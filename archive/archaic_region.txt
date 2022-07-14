@@ -1,12 +1,4 @@
-[color=00477E][b]Archaic Region[/b][/color]
-
-[color=004D33]Created this region to house my various puppets
-Password is temporary
-this is an [region=Ancient Lands] puppet storage region
-North Macedonia flag (optional)
-[b]Flag Count:[/b] 75
-next flag is 142 flags (Thailand)
-[/color][color=333300]
-REGION
-[b]Founded:[/b] 2021 April 04[/color][color=96601A]
-[b]Embassy Policy:[/b] TBA[/color]
+58
+[color=00477e][b]Archaic Region[/b][/color]
+[color=grey]a [region=0000] region
+[b]Founded:[/b] 2021 April 04[/color]

@@ -1,2 +1,3 @@
 [color=green][b]North West Territories[/b]
-Historical region of [region=United States of America][/color]
+Historical region of [region=United States of America]
+now includes [region=Michigan][/color]
