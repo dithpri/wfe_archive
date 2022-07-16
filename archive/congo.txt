@@ -1,2 +1,6 @@
-[color=green][b]Congo[/b]
-See [region=Democratic Republic of the Congo][/color]
+[color=00477e][b]Congo[/b][/color][color=004d33]
+See [region=Republic of Congo] or [region=Congo Brazzaville]
+is located on the north side of the Congo River
+
+as opposed to [region=the Congo] or [region=Congo Kinshasa] or [region=Democratic Republic of the Congo] 
+which is located in the south side of the Congo River[/color]
