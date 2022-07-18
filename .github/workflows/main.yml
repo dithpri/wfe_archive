@@ -7,14 +7,9 @@ on:
   workflow_dispatch:
 
 jobs:
-  update:
+  update-wfes:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Get current date
-        id: date
-        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -26,6 +21,12 @@ jobs:
         run: |
           mkdir -p dumps
           wget --user-agent 'github/dithpri/wfe_archive' 'https://www.nationstates.net/pages/regions.xml.gz' -O dumps/regions.xml.gz
+      - name: Get dump date
+        id: date
+        run: |
+          dump_date="$(stat --printf '%Y\n' dumps/regions.xml.gz)"
+          echo "::set-output name=epoch::$dump_date"
+          echo "::set-output name=date::$(date +'%Y-%m-%d %H:%M:%S' -d "@$dump_date")"
       - name: Extract region wfes
         run: |
           mkdir -p archive
@@ -33,6 +34,7 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: ${{ steps.date.outputs.date }}
+          commit_options: --date=${{ steps.date.outputs.epoch }}
           commit_user_name: Automated Commit
           commit_user_email: ""
           commit_author: Automated Commit <>
