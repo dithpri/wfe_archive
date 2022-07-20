@@ -6,7 +6,7 @@ Founded originally February/March 2018.
 
 Refounded December 2021.
 
-Successor to Epinadia.
+Successor to Epinadia and Segmentum Tempestus.
 
 =====
 
@@ -14,4 +14,4 @@ Current Alert Level: 5
 
 =====
 
-Puppet storage for Segmentum Tempestus and The Free People&#39;s Union, not currently actively used (though I do plan to make this active someday).
+Formerly puppet storage, now the new home region for [region]Segmentum Tempestus[/region]&#39; residents.

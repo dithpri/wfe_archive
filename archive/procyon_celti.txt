@@ -5,6 +5,7 @@
 2021 reducion of nations on the region
 2022 reborn era
 2022 started the reapply of nations in World Assembly representation!
+2022 Kingdom of Sapim named WA delegate of Procyon Celti
 
 Private region to friendship circle members you can participate complaining with exigencies:
 
@@ -15,5 +16,5 @@ Private region to friendship circle members you can participate complaining with
 [nation]Exzilian_state[/nation]
 [nation]Ofhir[/nation]
 [nation]Vernost[/nation]
-
+[nation]Sapim[/nation]
 [color=orange]most close relationship foreign region embassy:[/color] ?
