@@ -1,9 +1,1 @@
-[b]Gloucester[/b]
-a [region=0000] region
-
-a [region=Great Britain and Northern Ireland] region
-a city and district in Southwestern England
-located in the County of [region=Gloucestershire]
-located close to the border of [region=Wales]
-Founded in AD 97 by the Romans as Colonia Glevum Nervensis
-Granted first charter 1155 by King Henry II
+[color=00477e][b]Gloucester[/b][/color]
