@@ -8,5 +8,5 @@
 [region]The Great Universe[/region][/color]
 
 [color=lightblue]World Assembly Recommendation:[/b][/color]
-[i]GA - [/i][color=gray][b]NOT AVAILABLE[/b][/color]
-[i]SC - [/i][color=blue][b]FOR[/b][/color]
+[i]GA - [/i][color=blue][b]FOR[/b][/color]
+[i]SC - [/i][color=gray][b]NA[/b][/color]

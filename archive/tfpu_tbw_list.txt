@@ -43,3 +43,7 @@ TBW List:
 [nation]Cantonstan[/nation]
 
 [nation]Southern Isles[/nation]
+
+[nation]Scheinenland[/nation]
+
+[nation]Greek States[/nation]
