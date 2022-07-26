@@ -3,8 +3,6 @@ This fascist region has been taken by natives and forces of the [region]Council 
 
 
 This Fash-Bash has been brough to you by:
-[nation]The Kingdom of the Three Isles[/nation]
-[nation]The Orange Order[/nation]
-[nation]Muslims Political Council of Evagia[/nation]
-
-This shall remain as a museum against hate and fascism.
+[nation]The Kingdom of the Three Isles[/nation] (trigger)
+[nation]The Orange Order[/nation] (Capture)
+[nation]Muslims Political Council of Evagia[/nation] (Piling)
