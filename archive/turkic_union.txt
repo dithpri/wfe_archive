@@ -1,6 +1,6 @@
 The parties of the Union have now reached a political deal.
 
-Interim Government: [nation]Northern Erli Island[/nation]
+Government: [nation]Northern Erli Island[/nation]
 Leader of the Opposition: [nation]Qazaq Eli[/nation]
 
 New General Elections date to be set.

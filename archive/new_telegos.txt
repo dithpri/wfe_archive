@@ -1,7 +1,13 @@
-[i]Your journey through time and space has ended on this mysterious galaxy.
+[b][color=red]*NOTICE*[/color][/b]
 
-Like the pilgrims of the past setting foot on an unknown new world
+[color=purple]This region has been [strike]forcefully[/strike] legally acquired by assassins of [region]The Brotherhood of Malice[/region], at the demand of [nation=short]The Overseer[/nation]. Mercy is not an option.[/color] Maintain a founder. Sign a treaty. Raider Unity.
 
-You and your people must carve out your destinies on this new expanse of space
+[u]The Overseer&#39;s Minions:[/u]
+Assassin [nation]The Sygian[/nation] (trigger)
+Taskmaster [nation]Thorn1000[/nation]
+Assassin [nation]Neo Society[/nation]
 
-Enter [region]New Telegos[/region], where opportunity and destiny collide[/i]
+[u]Bird Company:[/u]
+LTN [nation]Lucklife[/nation], [region]The Black Hawks[/region]
+SGT [nation]Emunickle Society[/nation], [region]The Black Hawks[/region]
+PFC [nation]The Lordanian Nation[/nation], [region]The Black Hawks[/region]

@@ -1,6 +1,5 @@
 [b]Welcome To [region]Aros Elyium[/region]! | Bienvenue &agrave; Aros Elyium! | Welkom op Aros Elyium! | Willkommen bei Aros Elyium! [/b]
-[hr]
-[b]Founder:[/b] [nation]Rantarod[/nation]
+[hr][b]Founder:[/b] [nation]Rantarod[/nation]
 [b]Delegate:[/b] [nation]Roylaii[/nation]
 [b]General Secretary:[/b] [nation]Kartof[/nation]
 [b]Security Officer:[/b] [nation]Lamplight[/nation]
