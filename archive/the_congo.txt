@@ -1,8 +1,11 @@
-[color=navy][b]The Congo[/b]
-see [region=Republic of Congo]
-[/color][color=green]
+[color=00477e][b]The Congo[/b]
+[/color][color=004d33]
+see [region=Democratic Republic of the Congo]
+often called [region=Congo Kinshasa]
+[/color][color=474700]
 REGION
 [b]Founded:[/b] 20110323
 [b]Matrixed:[/b] 20191014[/color][color=803000]
-a [region=QSA] &amp; [region=DBA] allied region
-this is an [region=Old Spirit] region[/color]
+a [region=0000] &amp; [region=Ancient Lands] allied region
+[/color][color=004d33]
+Embassy Offers Accepted[/color]

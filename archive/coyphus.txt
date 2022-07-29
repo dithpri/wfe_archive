@@ -7,8 +7,8 @@
   
 
 
-[color=lime] Allied Regions: Irises of Futma, Fredonia, The Embassy 3[/color]
-[color=#d3ca0d] Concerns: None[/color]
+[color=lime] Allied Regions: [region]Irises of futma[/region], Fredonia, The Embassy 3[/color]
+[color=#d3ca0d] Concerns: [region]Lily[/region][/color]
 [color=red] Enemies: None :D[/color]
 
 
