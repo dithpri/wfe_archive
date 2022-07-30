@@ -1,8 +1,11 @@
 [u][b][Color=Blue]Colony of Kaiserreich[/Color]
 
-[Color=orange]Corporal in the 1st Piling Regiment &amp; the 2nd Invasion Regiment of the Reichswehr Army of Kaiserreich[/color]
+[Color=Orange]Corporal in the 1st Piling Regiment &amp; the 2nd Invasion Regiment of the Reichswehr Army of Kaiserreich[/color]
 
-[color=Cotton]Captain in the Charlie Regiment of the First Company of the Samsu Battalion of the Stroyaviski  Army of Krasnaya[/u][/b][/color]
+[color=Cotton]Lead Analytic Officer (Foreign Affairs)
+Inspector (GRSD)
+Checkpoint Guard (The Interior)
+Backup Editor (Zeitung)[/u][/b][/color]
 
 [color=Black]&amp;#9608;&amp;#9608;[/Color][color=White]&amp;#9608;&amp;#9608;[/Color][color=Black]&amp;#9608;&amp;#9608;[/color] [Color=Blue][b][u] Awarded Silver Eagle for Good Activity [/Color]
 
@@ -12,9 +15,11 @@
 
 [nation]Gooseneckistan[/nation]  
 
-[nation]Wango Tango[/nation]
-
  [nation]Found Missing[/nation]  
+
+[nation]Joyful Sorrows[/nation]
+
+[nation]Wango Tango[/nation]
 
 [nation]Bud Lightyear[/nation]
 
@@ -32,7 +37,7 @@
 [color=Orange]&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;[/color][color=Yellow]&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;[/color][color=Green]&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;[/color]
 [color=Orange]&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;[/color][color=Yellow]&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;[/color][color=Green]&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;[/color]
 
-[B][u][Region]Kaiserreich[/Region] [Color=8b2323]and [/Color][Region]Krasnaya[/Region]
+[B][u][Region]Kaiserreich[/Region]
 
 [Url=https://www.nationstates.net/page=dispatch/id=646938]Hub[/Url]
 
