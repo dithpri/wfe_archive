@@ -1,6 +1,6 @@
-[u][b][Color=Blue]Colony of Kaiserreich[/Color]
+[u][b][Color=8b2323]Colony of [Region]Kaiserreich[/Region][/Color]
 
-[Color=Orange]Corporal in the 1st Piling Regiment &amp; the 2nd Invasion Regiment of the Reichswehr Army of Kaiserreich[/color]
+[url=https://www.nationstates.net/page=dispatch/id=1740950]Minister of the Reichswehr[/url]
 
 [color=Cotton]Lead Analytic Officer (Foreign Affairs)
 Inspector (GRSD)
@@ -39,7 +39,7 @@ Backup Editor (Zeitung)[/u][/b][/color]
 [color=Orange]&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;[/color][color=Yellow]&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;[/color][color=Green]&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;[/color]
 [color=Orange]&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;[/color][color=Yellow]&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;[/color][color=Green]&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;[/color]
 
-[B][u][Region]Kaiserreich[/Region]
+[B][u][Url=https://www.nationstates.net/page=dispatch/id=646938]Hub[/Url]
 
 [url=https://www.nationstates.net/page=dispatch/id=1733876]RK[/url]
 
@@ -48,6 +48,8 @@ Backup Editor (Zeitung)[/u][/b][/color]
 [Url=https://www.nationstates.net/page=dispatch/id=1551310]History[/Url]
 
 [Url=https://www.nationstates.net/page=dispatch/id=234657]History 2[/Url]
+
+[Url=https://www.nationstates.net/page=dispatch/id=1741138]Laurenburg[/Url]
 
 [Url=https://www.nationstates.net/page=dispatch/id=1126234]Influence[/url]
 
