@@ -1,10 +1,9 @@
 [color=004d33][b]Pacific United[/b]
-[/color][color=00477e]
-an [region=Ancient Lands] holding and sorting region
 [/color][color=996633]
 REGION
 [b]Founded:[/b] 2021 Oct 03
-
-affiliated with [region=0000], [region=The Central Pacific], [region=United States of America] and [region=Westminster] et al (many others).
+an [region=Ancient Lands] puppet storage region
+affiliated with [region=0000] and [region=United States of America]
 [/color][color=97001a]
-[b]Sorry - No Embassy Offers Please[/b][/color]
+[b]This is an ORACLE REGION
+No Embassy Offers Please[/b][/color]
