@@ -1,2 +1,1 @@
-[b]FSB[/b]
-an [region=0000] occupied region
+[color=red][b]FSB[/b][/color]
