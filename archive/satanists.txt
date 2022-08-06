@@ -1,2 +1,1 @@
-[color=red][i]This region has been exorcised.[/color][/i]
-
+[b][i][color=red]This region has been exorcised.[/color][/i][/b]
