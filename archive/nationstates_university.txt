@@ -18,5 +18,5 @@ NationStates University is a Collegiate University that serves as the preeminent
 [b][u][color=red]UNIVERSITY BOARD[/color][/u][/b]
 
 [nation]Ecclestia[/nation]
-VACANT
+[nation]The Thaindom of the Shire[/nation]
 VACANT
