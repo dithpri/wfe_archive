@@ -5,10 +5,10 @@
 [nation]Evinea[/nation]
 
 [b]Region under development:[/b]
-[region]SALSCHERKEA[/region], [region]The Kaiser Empire[/region]
+2
 
 [b]Regions that have been developed:[/b]
-[region]South east asia[/region]
+1
 
 [b]Regions on hold:[/b]
-[region]Tatarstan[/region],[region]Mount Bridge[/region]
+3
