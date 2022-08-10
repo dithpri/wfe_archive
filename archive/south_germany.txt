@@ -10,5 +10,5 @@ GDPpC: 467.451 $
 Currency: S&uuml;dmark - 1:1.4 $
 -----------------------------------------------------------------------
 Form of Government: Absulutist Monarchy
-Current Monarch: [nation][/nation]
+Current Monarch: [nation]Gronsted[/nation]
 Current Reichspr&auml;sident: [nation]Wuerttemburg[/nation][/b]

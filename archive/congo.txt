@@ -1,6 +1,16 @@
-[color=00477e][b]Congo[/b][/color][color=004d33]
-See [region=Republic of Congo] or [region=Congo Brazzaville]
+[color=00477e][b]Congo[/b]
+[/color][color=004d33]
+AKA [region=Republic of Congo] or [region=Congo Brazzaville]
 is located on the north side of the Congo River
 
 as opposed to [region=the Congo] or [region=Congo Kinshasa] or [region=Democratic Republic of the Congo] 
-which is located in the south side of the Congo River[/color]
+which is located in the south side of the Congo River
+
+[b]Capital:[/b] [region=Brazzaville]
+[/color][color=474700]
+REGION
+[b]Founded:[/b] 2019 Jul 05
+[b]Featured:[/b] 2022 Aug 09
+this is an [region=Ancient Lands] region
+[/color][color=004d33]
+Embassy offers welcome[/color]
