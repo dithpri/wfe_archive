@@ -1,8 +1,8 @@
-[b]Officially The Regional Armed Forces,This is the military wing of [region]Empire of Empires[/region] which is charged with the inner and outer security of the region and is under its Ministry of Defense.[/b]
+[color=red][b]Officially The Regional Armed Forces,This is the military wing of [region]Empire of Empires[/region] which is charged with the inner and outer security of the region and is under its Ministry of Defense.[/b][/color]
 
-&quot;[i]With the golden eagle leading our armies we shall liberate lands and triumph over evil[/i]&quot;. - [nation]Rossenburgh[/nation]
+[color=orange]&quot;[i]With the golden eagle leading our armies we shall liberate lands and triumph over evil[/i]&quot;.[/color] - [nation]Rossenburgh[/nation]
 
-This is a region of [region]Empire of Empires[/region].
+[b][color=red]This is a region of [region]Empire of Empires[/region].[/color][/b] :-)
 
 
 
