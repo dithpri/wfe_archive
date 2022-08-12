@@ -7,10 +7,10 @@
 [Color=purple][b]Greatest Ally[/b]:[/color] [region]Hannah[/region]
 
 [b][color=green]Some Stats:[/color][/b]
-Peak nation count: 47
+Peak nation count: 53
 # of departed nations: 13
 # of nations that ceased to exist in [region]Aeyrgia[/region]: 16
-[color=cd00cd]Newest nations: [nation]New North Devnath[/nation]: August 1, 2022 | [nation]Dolterin[/nation]: August 2, 2022 | [nation]Vvinland[/nation]: August 3, 2022 | [nation]Hertory[/nation]: August 4, 2022[/color]
+
 
 [Hr]
 
