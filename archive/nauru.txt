@@ -1,5 +1,7 @@
-[color=003300][b]Nauru[/b]
-[list]A Micronesian Island Nation in the Central Pacific Ocean
+[color=00477e][b]Nauru[/b]
+[/color][color=004d33]
+A Micronesian Island Nation in the Central Pacific Ocean
+
 [b]Capital:[/b] [region=Yaren] (defacto)
 [b]Independence:[/b] 1968 Jan. 31 (UN Trusteeship)
 [b]Area:[/b] 21 sq km (8.1 sq mi) Ranked 239th
@@ -11,9 +13,10 @@ Nauru replenished European whaling ships from 1830.
 Annexed by Germany (1888), and incorporated with [region=Marshall Islands].
 1914, Australia captured the island (WW1)
 1942, Japan occupied Nauru until 1945 when Australia recaptured the island.
-
-Visitors are welcomed
+[/color][color=474700]
+REGION
 [b]Founded:[/b] 2012 Oct 10
-[b]Featured:[/b] 2017 Feb 26; 2017 Aug 01; 2022 Jan 28[/color]
-[color=navy]This is a [region=Great Britain and Northern Ireland] allied region.[/color]
-[color=green]Embassy offers Accepted[/color]
+[b]Featured:[/b] 2017 Feb 26; 2017 Aug 01; 2022 Jan 28
+an [region=Ancient Lands] region
+[/color][color=004d33]
+Embassy offers Accepted[/color]

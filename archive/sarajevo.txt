@@ -1,2 +1,3 @@
-[b]Sarajevo[/b]
-a [region=Federation of Bosnia and Herzegovina] region
+[color=00477e][b]Sarajevo[/b]
+[/color][color=7e474d]
+an [region=Ancient Lands] region[/color]
