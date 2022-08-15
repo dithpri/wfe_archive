@@ -2,11 +2,14 @@
 
 a Generic Region Name
 
-allied with [region=Ancient Lands]
+an [region=Ancient Lands] region
+
 Sister regions with:[list]1. [region=Central Heights]
 2. [region=Columbia Heights]
 3. [region=Dominion Heights]
-4. [region=Westminster][/list][/color][color=olive]REGION
+4. [region=Westminster][/list]
+[/color][color=olive]
+REGION
 [b]Founded:[/b] 2017 May 02
 [b]Featured:[/b] 2020 Mar 05
 an [region=Ancient Lands] Embassy Matrix Region

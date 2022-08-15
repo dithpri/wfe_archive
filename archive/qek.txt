@@ -12,4 +12,7 @@ the following puppets are op puppets and may be here if there&#39;s nothing goin
 [nation]mccafe[/nation]
 [nation]President Obama Gets Real[/nation]
 
+the following embassies are not tags/occupations:
+[region]ijaka[/region] - my region
+[region]ben[/region] - o7
 thx for reading bye
