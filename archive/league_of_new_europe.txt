@@ -1,6 +1,7 @@
-[color=000069][b]League of New Europe[/b]
-a new [region=The Central Pacific] holding region[/color]
-
-[color=696900]REGION
+[color=00477e][b]League of New Europe[/b]
+[/color][color=7e7e00]
+REGION
 [b]Founded:[/b] 2021 Apr 28
-REGION 46[/color]
+
+71.
+an [region=Ancient Lands] region[/color]

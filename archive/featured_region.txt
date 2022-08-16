@@ -1,2 +1,5 @@
-[color=004d33][b]Featured Region[/b][/color][hr][hr][hr][hr][hr][hr][hr][hr][hr][hr][color=grey][b]Founded:[/b] 2022-04-22
-a [region=0000] oracle region[/color]
+[color=004d33][b]Featured Region[/b]
+[/color][color=474700]
+REGION
+[b]Founded:[/b] 2022-04-22
+an [region=Ancient Lands] region[/color]

@@ -9,4 +9,5 @@
 [b]Updates:
 Removed Ally/Enemy list
 Removed Executive Authority from WA Delegates
+[nation]Turkisan[/nation] became WA delegate
 [/b]

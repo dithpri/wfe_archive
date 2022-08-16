@@ -7,10 +7,7 @@ REGION
 [b]Founded:[/b] 2020 May 20
 [b]Featured:[/b] 2022 Apr 03
 [/color][color=633512]
-REGION HISTORY
-[b]As Founded:[/b] as an Embassy Oracle holding region
-[b]Modified:[/b] 2022 Apr 03 - as an Embassy Matrix Holding Region
-[b]Allied &amp; Associated Regions:[/b]
+[b]Sister Regions:[/b]
 - [region=Uzbekistan] - [region=Tashkent] - [region=Azerbaycan Respublikasi]
 - [region=0000] - [region=Ancient Lands] - [region=Dog Lake] - [region=Old Spirit]
 - [region=United States of America] - [region=Westminster]

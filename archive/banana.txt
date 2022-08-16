@@ -1,6 +1,8 @@
-[color=00477e][b]Banana[/b][/color][hr][hr][hr][hr][hr][hr][hr][hr][hr][hr][color=grey]REGION
-[b]Founded:[/b] 2022-03-07 (previously had been founded)
-[b]Caretaker:[/b] [nation=short]Dog lake[/nation]
-a [region=Dog Lake] and [region=0000] Oracle Region
-[/color][color=blue]
-The First Region in the Game[/color]
+[color=00477e][b]Banana[/b]
+[/color][color=004d33]
+REGION
+[b]Founded:[/b] 2022-03-07
+[i]previously had been founded[/i]
+an [region=Ancient Lands] Region
+[/color][color=00477e]
+[b]The First Region in the Game[/b][/color]

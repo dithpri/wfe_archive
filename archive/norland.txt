@@ -1,3 +1,4 @@
-[color=00477e][b]Norland[/b][/color][hr][hr][color=grey]REGION
+[color=00477e][b]Norland[/b][/color]
+[color=grey]REGION
 [b]Founded:[/b] 2022-04-29
-a [region=0000] Oracle Region[/color]
+an [region=Ancient Lands] region[/color]
