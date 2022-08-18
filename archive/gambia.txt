@@ -1,4 +1,4 @@
-[b]Gambia[/b]
-a [region=0000] region
-
-See [region=The Gambia]
+[color=00477e][b]Gambia[/b]
+[/color][color=004d33]
+an [region=Ancient Lands] region
+See also [region=The Gambia][/color]
