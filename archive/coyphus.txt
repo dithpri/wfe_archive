@@ -10,4 +10,5 @@
 Removed Ally/Enemy list
 Removed Executive Authority from WA Delegates
 [nation]Turkisan[/nation] became WA delegate
+[region]Bunker[/region] and [region]Coyphus alt region[/region] given to [region]Lily[/region] (Yea that&#39;s right, we don&#39;t care if they raided them two times)
 [/b] 
