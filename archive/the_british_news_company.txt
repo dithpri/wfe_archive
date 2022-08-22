@@ -3,3 +3,6 @@
 &#149;[nation]BBC News Reporter[/nation]
 &#149;[nation]Sky News Reporter[/nation]
 &#149;[nation]Itv News Reporter[/nation][/b]
+[HR]
+[b]Our Recruiters:
+&#149;[nation]Zeu[/nation][/b]

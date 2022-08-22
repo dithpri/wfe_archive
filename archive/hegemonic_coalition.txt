@@ -3,10 +3,11 @@ A coalition of mutual assistance for fascists, monarchists, imperialists, third 
 [b][u]Region Officers:[/b][/u]
 [b]Founder/Imperator:[/b] [nation]Annapolis[/nation]
 [b]Consul Prior:[/b] [nation]Warszawskie[/nation]
-[b]Consul Posterior:[/b] Vacant
+[b]Consul Posterior:[/b] [nation]Naparroa[/nation]
 
 [b][u]Faction Leaders:[/u][/b]
+[b]Environmentalist Faction Leader:[/b] [nation]Nahua Altepetl[/nation]
+[b]Falangist Faction Leader:[/b] [nation]Naparroa[/nation]
 [b]Fascist Faction Leader:[/b] [nation]Annapolis[/nation]
 [b]Monarchist Faction Leader:[/b] [nation]Warszawskie[/nation]
-[b]Environmentalist Faction Leader:[/b] [nation]Nahua Altepetl[/nation]
 [b]Theocratic Faction Leader:[/b] [nation]Leonine[/nation]

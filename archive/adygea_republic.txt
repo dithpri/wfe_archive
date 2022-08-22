@@ -1,1 +1,4 @@
-[color=green][b]Adygea Republic[/b][/color]
+[color=00477e][b]Adygea Republic[/b]
+[/color][color=olive]
+REGION
+an [region=Ancient Lands] region[/color]
