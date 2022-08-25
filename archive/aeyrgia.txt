@@ -7,9 +7,9 @@
 [Color=purple][b]Greatest Ally[/b]:[/color] [region]Hannah[/region]
 
 [b][color=green]Some Stats:[/color][/b]
-Peak nation count: 53
+Peak nation count: 55
 # of departed nations: 13
-# of nations that ceased to exist in [region]Aeyrgia[/region]: 16
+# of nations that ceased to exist in [region]Aeyrgia[/region]: 17
 
 
 [Hr]
