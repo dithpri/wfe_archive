@@ -1,1 +1,6 @@
-This region belongs to [nation]Tartan[/nation]
+[Color=blue][b]Welcome to Tartan![/b]
+
+This Region is a personal Puppet Storage for [nation]Tartan[/nation]
+
+
+[/color]
