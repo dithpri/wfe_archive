@@ -1,0 +1,7 @@
+This is a region for free speech and awesomeness also religious bashing and suppression of religious ideas and promotion of atheism and anime
+#Also date East Venus  
+def join_us:
+ you_are_awesome = True
+ Date_East_Venus = True
+ Atheist = True
+ Religion_Bashing = &quot;Encouraged&quot;
