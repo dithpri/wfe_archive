@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>WFE Archive</title>
+  <link rel="stylesheet" href="./style.css">
+  <script type="text/javascript">
+          function goToRegionArchive() {
+              const link = document.createElement("a");
+              link.href = `./archive/${document.getElementById("region-name").value.replaceAll(" ", "_").toLowerCase()}.html`;
+              link.click();
+          }
+  </script>
+</head>
+<body>
+  <input type="text" id="region-name" name="region-name"
+  placeholder="Look up region"> <button id="go-button" onclick=
+  "goToRegionArchive()">Go</button>
+</body>
+</html>
