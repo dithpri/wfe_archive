@@ -1,11 +1,10 @@
 [b]Supreme Court of [region]Liberty Democratic Alliance[/region][/b]
 
 [b][u]Chief Justice (appointed by the Founder as regional officer on 13/06):[/u][/b] [nation=long]Supierland[/nation]
-- Chief Justice since 13/06, term ends 01/09/2022
 - Supreme Court Judge since 13/06, term ends 11/10/2022
 
-[b][u]Supreme Court Judge (appointed by the PM on 11/06):[/u][/b] [nation=long]Rubescovia[/nation]
-- Supreme Court Judge since 11/06, term ends 30/08/2022
+[b][u]Supreme Court Judge (appointed by the PM on 11/06):[/u][/b] [nation=long]------[/nation]
+- Supreme Court Judge since X, term ends Y
 
 [b][u]Supreme Court Judge (appointed by the Senate on 22/06)[/u][/b] [nation=long]Nova Tyrnavia[/nation]
 - Supreme Court Judge since 22/06, term ends 10/09/2022
