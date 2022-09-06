@@ -17,6 +17,6 @@ Motto: [u]No Surrender![/u]
 [region]Interregional Defence Pact headquarters[/region]
 [region]The Free Bloc[/region]
 [region]The AEP[/region]
-[region]Free Alliance[/region]
+[region]The New Alliance[/region]
 
 Security Level: [colour=Amber]Level 3[/colour]
