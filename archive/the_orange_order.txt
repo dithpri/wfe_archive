@@ -19,4 +19,4 @@ Motto: [u]No Surrender![/u]
 [region]The AEP[/region]
 [region]The New Alliance[/region]
 
-Security Level: [colour=Amber]Level 3[/colour]
+Security Level: [colour=Green]Level 2[/colour]
