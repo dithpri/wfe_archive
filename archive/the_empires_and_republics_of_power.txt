@@ -6,9 +6,9 @@ Map created using [url=https://azgaar.github.io/Fantasy-Map-Generator/]Azgaar&#3
 Map maintained by [nation=noflag]The Georgeian Empire[/nation]
 [hr]
 Current Delegate:
-[nation=noflag+long]CampbellBm[/nation]
-Current Vice:
 [nation=noflag+long]The Georgeian Empire[/nation]
+Current Vice:
+[nation=noflag+long]CampbellBm[/nation]
 Ex-Delegates:
 [nation=noflag]New Zander[/nation],
 [nation=noflag]The Common Kingdom[/nation],
