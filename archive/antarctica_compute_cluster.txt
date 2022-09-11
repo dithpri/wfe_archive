@@ -1,8 +1,8 @@
 [b]ACC Two: Electric Boogaloo[/b]
-[nation]Linuxville[/nation]&#39;s artificial intelligence issue-answering botnet. Written in bash of course, because I&#39;m a psychopath.
+[nation]Linuxville[/nation]&#39;s artificial intelligence issue-answering botnet.
 
 [b]System Console:[/b]
-Status: [b][color=red]Down(Maintenance)[/color][/b]
-Target: [b][color=red]Null[/color][/b]
-Nodes: [b][color=red]0[/color]/[color=green]20[/color][/b]
-Messages: [b]Waiting on update to determine target.[/b]
+Status: [b][color=green]Up(Running)[/color][/b]
+Target: [b][color=green]Wealth Gaps[/color][/b]
+Nodes: [b][color=green]20[/color]/[color=green]20[/color][/b]
+Messages: [b]Ah shid here we go again[/b]
