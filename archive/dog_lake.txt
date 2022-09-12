@@ -1,8 +1,8 @@
-[table][tr][td][color=00477e][b]Dog Lake[/b][/color][/td][/tr]
+[table][tr][td][color=005bbb][b]Dog Lake[/b][/color][/td][/tr]
 [tr][td][color=004d33][b]CARETAKER HOME REGION
 CARETAKER:[/b] [nation=short]Dog Lake[/nation]
 [b]ALLIANCE AMBASSADORS:[/b] [nation=short]Elliston[/nation]; [nation=short]Manitoulin[/nation]; [nation=short]New Falham[/nation]; [nation=short]Royal House of Windsor[/nation]; [/color][/td][/tr][/table]
-[table][tr][td][color=00477e]TOOLS[/color][/td][td][color=004d33]REGION[/color][/td][/tr]
+[table][tr][td][color=005bbb]TOOLS[/color][/td][td][color=005bbb]REGION[/color][/td][/tr]
 [tr][td][color=00477e][url=http://texasregion.net/nsdossier/]nsDossier[/url]
 thanks [region=Texas]
 includes Embassy Oracle Tool 
@@ -11,4 +11,5 @@ includes Embassy Oracle Tool
 - [region=0000] - [region=Ancient Lands] - [region=The Central Pacific] -
 - [region=Union of Great Britain] - [region=United States of America] -
 - [region=Westminster] - [/color][/td][/tr][/table]
-[table][tr][td][color=00477e][b]Embassy Policy:[/b][/color][/td][/tr][tr][td][color=004d33]Accepts Embassy Offers[/color][/td][/tr][/table]
+[table][tr][td][color=005bbb][b]Region Policy:[/b][/color][/td][/tr][tr][td][color=004d33]Accepts Embassy Offers
+This is a puppet storage region[/color][/td][/tr][/table]

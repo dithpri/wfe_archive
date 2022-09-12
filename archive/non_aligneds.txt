@@ -1,1 +1,1 @@
-An in-game region for players that are non-aligned or not in a region. Players will be sent here automatically when they are in no region.
+This is one of the jump points of [region]The Shadows[/region].
