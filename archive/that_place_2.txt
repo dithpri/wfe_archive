@@ -1,25 +1,3 @@
-[region]That Place[/region], but 2
+Why are you here?
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Go to [region]That Place[/region]
