@@ -2,12 +2,13 @@
 [u][url=region=the thaecian senate]Senate (Upper House)[/url][/u]
 [hr][b]Leadership:
 
-[list][*]Speaker of the House: [nation]Snalland[/nation] ([color=green]PTD[/color])[/b]
-[i][list][*]Senior Deputy Speaker: [nation]Toerana V[/nation] ([color=gray]IND[/color])
-[*]Junior Deputy Speaker: [nation]Vacant[/nation] ([color=gray]Vacant[/color])[/i][/list][/list]
+[list][*]Speaker of the House: [nation]Of Altonianic Islands[/nation] ([color=FFB6C1]ALT[/color])[/b]
+[i][list][*]Senior Deputy Speaker: [nation]Altys[/nation] ([color=gray]IND[/color])
+[*]Junior Deputy Speaker: [nation]Lothern[/nation] ([color=00CEF1]TGP[/color])
+[*]Junior Deputy Speaker: [nation]Santa Marana[/nation] ([color=purple]FREE[/color])[/i][/list][/list]
 
-[b][list][*]Shadow Speaker of the House: [nation]Lukaymmunki[/nation] ([color=lightblue]TGP[/color])[/b]
-[list][i][*]Dep. Shadow Speaker: [nation]The Ambis[/nation] ([color=purple]FREE[/color])[/i][/list][/list]
+[b][list][*]Shadow Speaker of the House: [nation]Vacant[/nation] ([color=gray]Vacant[/color])[/b]
+[list][i][*]Dep. Shadow Speaker: [nation]Vacant[/nation] ([color=gray]Vacant[/color])[/i][/list][/list]
 
 [hr][i][b][url=https://www.nationstates.net/page=dispatch/id=1441758#51][color=#ea2323]Please read the Code of Conduct and [u]Congress Regulation Act (L.R. 051)[/u] before posting here.[/url][/color][/i]
 [hr]To submit a bill to the House, please find an MP or Senator to sponsor the bill and then send it to the Speaker.[/b]

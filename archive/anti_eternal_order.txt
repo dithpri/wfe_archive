@@ -1,6 +1,6 @@
 [b]Fascists will never, ever get a platform.[/b]
 
-Raided Sept. 16, 2022, by the [region]Peoples Airborne Forces TFPU VDV[/region] and support from [region]The Free Bloc[/region]
+Raided Sept. 16, 2022, by the [region]Peoples Airborne Forces TFPU VDV[/region] and support from [region]The Free Bloc[/region] and [region]Asterya[/region]
 
 Trigger: 
 [nation]Burgundu[/nation]
@@ -9,3 +9,4 @@ Pilers:
 [nation]Outer Moonie[/nation]
 [nation]The Kingdom of The Three Isles[/nation]
 [nation]Sovetsya[/nation]
+[nation]Onionist Randosia[/nation]
