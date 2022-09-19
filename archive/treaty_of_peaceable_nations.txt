@@ -1,0 +1,9 @@
+[b]The People&#39;s Revolutionary Air Force flew a sortie over this region to show the might of the organised working classes! Let cowards flinch and traitors fear - we&#39;ll keep the red flag flying here!
+
+This struggle must be organised, according to &#147;all the rules of the art&#148;, by people who are professionally engaged in revolutionary activity. The fact that the masses are spontaneously being drawn into the movement does not make the organisation of this struggle less necessary. On the contrary, it makes it more necessary. 
+- V.I. Lenin
+
+Pilots
+PLT OFF [nation]Kireerva[/nation], Trigger
+PLT OFF [nation]SAFT in TCB[/nation], Point
+AM [nation]Pan Kath[/nation][/b]

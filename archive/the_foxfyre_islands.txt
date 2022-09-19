@@ -1,1 +1,5 @@
-This region is made up of the states that make up [nation]The Foxfyre Islands[/nation]
+[color=00477e][b]The Foxfyre Islands[/b]
+[/color][color=olive]
+REGION
+[b]Founded:[/b] 2022.09.18
+an [region=Ancient Lands] region[/color]
