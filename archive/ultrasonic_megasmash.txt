@@ -1,1 +1,7 @@
-The Ultrasonic Megasmash world consists of three regions: [C89000]The East[ffffff], The Island, and Aanterdan. The East consists of Alterra, Aquidina, and Embra Cotta. The Islonese countries are Hasland(H4sland), Heersland, Pynderfyl(known as Letheland to Hash-speaking countries), and Fresta. Aanterdan is its own island.
+The Ultrasonic Megasmash world consists of three regions: The East, The Island, and Aanterdan. 
+
+The East consists of [color=green]Alterra[/color], [color=blue]Aquidina[/color], and [color=grey]Embra Cotta[/color]. 
+
+The Islonese countries are [color=Brown]Hasland[/color](H4sland), [color=greenyellow]Heersland[/color], [color=orchid]Pynderfyl[/color](known as Letheland to Hash-speaking countries), and [color=red]Fresta[/color]. 
+
+Aanterdan is its own island.
