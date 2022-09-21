@@ -2,7 +2,7 @@
 [nation]Linuxville[/nation]&#39;s artificial intelligence issue-answering botnet.
 
 [b]System Console:[/b]
-Status: [b][color=yellow]Paused(On break...)[/color][/b]
-Target: [b][color=yellow]Wealth Gaps[/color][/b]
-Nodes: [b][color=yellow]129[/color]/[color=yellow]129[/color][/b]
-Messages: [b]We&#39;ll be back soon...[/b]
+Status: [b][color=green]Up(Running...)[/color][/b]
+Target: [b][color=green]Wealth Gaps[/color][/b]
+Nodes: [b][color=green]129[/color]/[color=green]129[/color][/b]
+Messages: [b]Did someone say crabs?[/b]
