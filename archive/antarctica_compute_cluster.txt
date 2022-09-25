@@ -3,6 +3,6 @@
 
 [b]System Console:[/b]
 Status: [b][color=green]Up(Running...)[/color][/b]
-Target: [b][color=green]Wealth Gaps[/color][/b]
+Target(s): [b][color=green]Wealth Gaps, Black market[/color][/b]
 Nodes: [b][color=green]129[/color]/[color=green]129[/color][/b]
 Messages: [b]Did someone say crabs?[/b]
