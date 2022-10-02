@@ -8,7 +8,7 @@ Military Factions:
 --CSTO: [nation]Russia 2022 RP[/nation]
 
 Economic Factions:
---BRICS: [nation]Indus 2022 RP[/nation] [nation]China Modern RP[/nation] [nation]Russia 2022 RP[/nation]
+--BRICS: [nation]Indus 2022 RP[/nation] [nation]China Modern RP[/nation] [nation]Russia 2022 RP[/nation] [nation]South Africa Modern RP[/nation]
 --EU: [nation]Germany 2022 RP[/nation] [nation]France RP 2022[/nation] [nation]Portugal 2022 RP[/nation] [nation]Greece 2022 RP[/nation] [nation]Spanish republic 2022 rp[/nation] [nation]Sweden 2022 RP[/nation]
 --ASEAN: [nation]Singapore 2022 RP[/nation] [nation]Greater Nihon of 2022 RP[/nation] [nation]Myanmar 2022 RP[/nation] [nation]Philippines 2022 RP[/nation]
 
