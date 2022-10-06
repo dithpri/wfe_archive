@@ -14,7 +14,7 @@ Secretary of State: [nation]Caska[/nation]
 [nation]Marasaw[/nation]
 [nation]Opieland[/nation]
 [nation]Carinth[/nation]
-[nation]CPSU[/nation]
+[nation]Manhassett[/nation]
 [nation]Terhoon[/nation] [i]Pro Tempore[/i]
 
 
@@ -23,6 +23,10 @@ Secretary of State: [nation]Caska[/nation]
 Associate Justice: [nation]THe Sanhedrin[/nation]
 Associate Justice: [nation]Annanias[/nation]
 
-[b]ROLEPLAY | [/b]Tarkin is set in the [b]Interwar Period (1919-1941)[/b] for technology.
+[color=gold][b] | Members of the Tarkin Commonwealth |[/b][/color]
+[region]Katzen[/region]
+[region]Alliance of Conservative Nations[/region]
 
-[b] MAP | Consult the Physical Map above and the Map Claims dispatch below to find an unclaimed territory.[/b]
+[color=red][b]______________________[/b][/color]
+[b]MAP |[/b] Consult the regional map for available claims. Claim by posting on the RMB
+[b]ROLEPLAY | [/b]Tarkin is set in the [b]Interwar Period (1919-1941)[/b] for technology.
