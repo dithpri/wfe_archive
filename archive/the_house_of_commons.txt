@@ -3,9 +3,9 @@
 [hr][b]Leadership:
 
 [list][*]Speaker of the House: [nation]Of Altonianic Islands[/nation] ([color=FFB6C1]ALT[/color])[/b]
-[i][list][*]Senior Deputy Speaker: [nation]Islonia[/nation] ([color=gray]IND[/color])
-[*]Junior Deputy Speaker: [nation]Lothern[/nation] ([color=FFA500]PHX[/color])
-[*]Junior Deputy Speaker: [nation]The Ambis[/nation] ([color=FFB6C1]ALT[/color])[/i][/list][/list]
+[i][list][*]Senior Deputy Speaker: [nation]Lothern[/nation] ([color=FFA500]PHX[/color])
+[*]Junior Deputy Speaker: [nation]The Ambis[/nation] ([color=FFB6C1]ALT[/color])
+[*]Junior Deputy Speaker: [nation]Vacant[/nation] ([color=gray]Vacant[/color])[/i][/list][/list]
 
 [b][list][*]Shadow Speaker of the House: [nation]Vacant[/nation] ([color=gray]Vacant[/color])[/b]
 [list][i][*]Dep. Shadow Speaker: [nation]Vacant[/nation] ([color=gray]Vacant[/color])[/i][/list][/list]
