@@ -1,7 +1,7 @@
 [color=00477e][b]Ymir District[/b][/color][hr][hr][color=004d33]Ymir District Station Board:
-[b]ARRIVALS[/b]
-- [region=Freedom Fort] - [region=Agles] - [region=The Syn] and all points SOUTH
-[b]DEPARTURES[/b]
-- [region=the Republic of Sudan] - [region=Far Right Union] - [region=Pemento] and all points NORTH
-[b]EXPRESS[/b]
-[region=0000][/color]
+[b]ARRIVALS and DEPARTURES:
+LOCAL:[/b]
+EAST - [region=Blythic Territory] - [region=Free State of Fiume] - [region=Freedom Fort] and all points EAST
+WEST - [region=The Framlingham Confederacy] - [region=Farchina] - [region=the Republic of Sudan] and all points WEST
+[b]EXPRESS:[/b]
+[region=0000] and [region=Ancient Lands][/color]
