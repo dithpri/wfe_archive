@@ -1,2 +1,3 @@
 Only the allies of walikaistan
 enemy- [region]Allied Defensive Pact[/region]
+allies- [region]Land Of Chocolates[/region]
