@@ -24,6 +24,7 @@ N-Day faction: [url=https://www.nationstates.net/page=faction/fid=58]The Nuclear
 [u]Current diplomatic missions:[/u]
 [list]
 [*][nation]Los Ososian Mission to XKI[/nation] - Diplomatic mission to [region]10000 Islands[/region]
+[*][nation]Los Ososian Mission to TRR[/nation] - Diplomatic mission to [region]The Rejected Realms[/region]
 [/list]
 
 [spoiler=Holidays of October]

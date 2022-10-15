@@ -1,10 +1,1 @@
-[b][color=firebrick]Welcome to the Ottoman Empire[/color][/b]
-[hr]
-
-[i]The world looks eastward; the great powers tremble; a battle cry rings out.
-A new sun rises over Anatolia under the banner of Osman, whose dynasty is called; the Ottomans.[/i]
-
-[hr][b][u][color=firebrick]Sublime Porte[/color][/u][/b]
-[list][*][b]Sultan: [nation=short]Ottoman-Empire[/nation][/b]
-[*][b]Grand Vizier: [nation=short]Mehmed[/nation][/b][/list]
-[hr][b][u][color=firebrick]Vilayets:[/color][/u][/b] [region]The Ottoman Empire[/region] | [region]Anatolia[/region]
+Welcome to the Ottoman Empire.
