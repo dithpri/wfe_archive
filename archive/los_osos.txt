@@ -19,6 +19,7 @@ N-Day7 faction: [url=https://www.nationstates.net/page=faction/fid=58]The Nuclea
 [*][nation]The Ivy League[/nation]
 [*][nation]Alatl Tribe[/nation]
 [*][nation]Cornwall-on-the-Sea[/nation]
+[*][nation]New Los Alamos[/nation]
 [/list]
 
 [u]Current diplomatic missions:[/u]
@@ -26,9 +27,3 @@ N-Day7 faction: [url=https://www.nationstates.net/page=faction/fid=58]The Nuclea
 [*][nation]Los Ososian Mission to XKI[/nation] - Diplomatic mission to [region]10000 Islands[/region]
 [*][nation]Los Ososian Mission to TRR[/nation] - Diplomatic mission to [region]The Rejected Realms[/region]
 [/list]
-
-[spoiler=Holidays of October]
-[list]
-[*]Halloween (October 31)
-[/list]
-[/spoiler]
