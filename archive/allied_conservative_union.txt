@@ -14,7 +14,7 @@
 
 [nation]Gooseneckistan[/nation]  
 
- [nation]Found Missing[/nation]  
+ [nation]Dregs of the Earth[/nation]  
 
 [nation]Joyful Sorrows[/nation]
 
@@ -23,6 +23,11 @@
 [nation]Bud Lightyear[/nation]
 
 [nation]Coupe De Village[/nation]
+__________________________________
+
+[Nation]Found Missing[/nation]
+
+[nation]Free to Live[/nation]
 
 [color=Black]&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;[/color]
 [color=Orange]&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;[/color]
