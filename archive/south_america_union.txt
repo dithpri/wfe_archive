@@ -1,9 +1,16 @@
-Ol&aacute;, bem vindo &aacute; Uni&atilde;o Sulista da Am&eacute;rica, e sinta-se em casa.
+[b]The Soaring Birds of [region]The Black Hawks[/region] and the Sailing Pirates of [region]The West Pacific[/region] Armed Forces have soared and flown off with [color=red]yer booty[/color], plundered [color=yellow]yer coffers[/color], flew off with [color=skyblue]yer sail[/color], and rammed [color=brown]yer ship[/color]. You&#39;ve been looted.
 
-Hola, bienvenido a la Uni&oacute;n del Sur de Am&eacute;rica y si&eacute;ntase como en casa.
+If ye one to plunder and soar too, [url=https://www.forum.the-black-hawks.org/index.php]Come Join Us, Mateys![/url]
 
-Hello, welcome to the Southern Union of America, and make yourself at home.
+[u]Soaring Birds[/u]
+CPL [nation]Get Real[/nation] (trigger)
+LTN [nation]Lucklife[/nation]
+CPL [nation]Big Birdz[/nation]
+PFC [nation]Gutorng[/nation]
+Special Old Hamster [nation]Oblivious Ben[/nation]
 
-Ciao, benvenuto nella Southern Union of America e fatti sentire a casa.
-
-Hallo, willkommen in der Southern Union of America, und f&uuml;hlen Sie sich wie zu Hause.
+[u]Sailing Pirates[/u]
+Captain [nation]United Adaikes[/nation]
+First Mate [nation]Nagaraningrad[/nation] 
+Striker [nation]Synne Clo[/nation]
+[/b]
