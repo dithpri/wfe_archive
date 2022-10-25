@@ -1,10 +1,11 @@
 [b]Supreme Court of [region]Liberty Democratic Alliance[/region][/b]
 
-[b][u]Chief Justice:[/u][/b] [nation=long]--------------[/nation]
-- Supreme Court Judge since , term ends 
+[b][u]Chief Justice:[/u][/b] [nation=long]Supierland[/nation]
+- Supreme Court Judge since 24/10/2022, term ends February 21st, 2023
+- Chief Justice since 24/10/2022, term ends January 12th, 2023
 
-[b][u]Supreme Court Judge (appointed by the PM on 11/06):[/u][/b] [nation=long]Rubescovia[/nation]
-- Supreme Court Judge since 10/09, term ends 29/11/2022
+[b][u]Supreme Court Judge (appointed by the PM on 11/06):[/u][/b] [nation=long]----------[/nation]
+- Supreme Court Judge since , term ends
 
 [b][u]Supreme Court Judge (appointed by the Senate on 22/06)[/u][/b] [nation=long]------------[/nation]
 - Supreme Court Judge since , term ends 
