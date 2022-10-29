@@ -1,24 +1,26 @@
 [i]
+[u]
+[color=gold]South[/color][color=Orange] African[/color][color=red] Union[/color]
 
-[color=yellow]South[/color][color=Orange] African[/color][color=red] Union[/color]
-
-[color=orange]Welcome to the Union!
-
-DEFCON LEVEL
-3
-
-ALERT LEVEL
+[color=gold]Welcome to the Union![/color][/u]
+[b][color=red]
+DEFCON LEVEL[/color][/b][color=yellow]
+3[/color]
+[b][color=red]
+ALERT LEVEL[/color][/b][color=cyan]
 Minimal
 3/5
-
+[/color]
+[color=lightblue]
 _____________________
 
-Region Information:
+[b]Region Information:[/b]
 
 [url=https://www.nationstates.net/page=dispatch/id=1784763]A new beginning: The Constitution of SAU[/url]
 [url=https://www.nationstates.net/page=dispatch/id=1784928]The SAU Regional Army[/url]
 [url=https://www.nationstates.net/page=dispatch/id=1785144]Army Protocol[/url]
-[/color][color=yellow]
+[url=https://discord.gg/k8AN8Vhntr]Roleplay &quot;Africania&quot;[/url]
+[/color][color=gold]
 ___________
 
 This is a new and reopened region, we rewrote the Concordat, made a new army, and, you&#39;re looking at it, a new and Simpler WFE.
