@@ -1,6 +1,6 @@
-[color=red][b]Welcome to England![/b] - [i] A green, pleasant, and quiet place, where all are welcome.[/i][/color]
+[color=red][b]Welcome to England![/b][/color]
 
-[i]Established July 12, 927 A.D.[/i]
+[color=red][i]Established July 12, 927 A.D.[/i][/color]
 
 
 [hr]
@@ -9,9 +9,13 @@
 
 [hr]
 
-[b][u]Administration[/u][/b]
-[b]WA Delegate: [nation]Isle of Westland[/nation]
-Lord[/b] [b]Privy[/b] [b]Seal:[/b] [b][nation]Isle of Westland[/nation][/b]
+[b][u]Great Officers of State[/u][/b]
+[b]King of England (WA Delegate):[/b] [nation]Isle of Westland[/nation]
+[b]Lord High Stewart:[/b] 
+[b]Lord Privy Seal:[/b] [nation]Suth Seaxe[/nation]
+[b]Lord Great Chamberlain:[/b]
+[b]Lord High Constable:[/b]
+[b]Earl Marshall of England:[/b]
 
 [u][b]Compendium:[/b][/u]
 [url=https://www.youtube.com/watch?v=o6ZvylOSy5A][b][color=red] English Regional Anthem[/color][/b][/url]
