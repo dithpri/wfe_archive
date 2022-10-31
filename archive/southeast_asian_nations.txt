@@ -8,12 +8,12 @@ Members of the ASEAN:
 Brunei ([nation]Brunei-Darussalam-[/nation])
 Cambodia ([nation]Kingdom of Kampuchea[/nation])
 Indonesia
-Laos
+Laos ([nation]Muang Lao[/nation]) 
 Malaysia
 Myanmar
 Philippines 
 Singapore
-Thailand
+Thailand ([nation]Kingdom of Thailand[/nation]) 
 Vietnam ([nation]Communist Viet Nam[/nation])
 
 Alert Status: Yellow  
