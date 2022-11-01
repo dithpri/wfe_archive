@@ -16,4 +16,4 @@ Singapore
 Thailand ([nation]Kingdom of Thailand[/nation]) 
 Vietnam ([nation]Communist Viet Nam[/nation])
 
-Alert Status: Yellow  
+Alert Status: Green
