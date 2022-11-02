@@ -1,0 +1,16 @@
+The Kaidari System is a star system located in the &#39;Mid-Outer Rim&#39; in the Galaxy. To this day, the entirity of the Kaidari System remains fully sovereign and no formal part of the Galactic Federation, although is an incredibly important economic and trading system in the Galaxy. The planet of [nation]Kaidari[/nation] is the core world and homeworld of the system, which is home to 8 planets and 3 inhabited moons, orbiting around the star [i]Hoshi[/i].
+
+[b]List of Planets and Inhabited Moons in the Kaidari System[/b]
+[table][tr][td]Name[/td][td]Type[/td][td]Population[/td][/tr]
+[tr][td]Kaidari[/td][td]Planet[/td][td]5.7 Billion[/td][/tr]
+[tr][td]Shin Karinda[/td][td]Planet[/td][td]3.5B[/td][/tr]
+[tr][td]Rikaze[/td][td]Planet[/td][td]2.1B[/td][/tr]
+[tr][td]Dai Nugomi[/td][td]Planet[/td][td]1.9B[/td][/tr]
+[tr][td]Kisokyu[/td][td]Planet[/td][td]1.4B[/td][/tr]
+[tr][td]Kanemori[/td][td]Planet[/td][td]561 Million[/td][/tr]
+[tr][td]Funei[/td][td]Planet[/td][td]1,750,000[/td][/tr]
+[tr][td]Karawaku[/td][td]Planet[/td][td]0*[/td][/tr]
+[tr][td]Gessekai I[/td][td]Moon[/td][td]731M[/td][/tr]
+[tr][td]Gessekai II[/td][td]Moon[/td][td]87M[/td][/tr]
+[tr][td]Minooru[/td][td]Moon[/td][td]524M[/td][/tr][/table]
+*Formally uninhabited
