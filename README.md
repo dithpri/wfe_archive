@@ -4,6 +4,10 @@ An archive of NS region WFEs.
 
 ## Usage
 
+***Preferably***, use the website at https://dithpri.github.io/wfe_archive/
+
+### Alternatively
+
 Navigate to a `archive/region.txt` file to see a region's WFE. You can see how the WFE changed over time by clicking the `Blame` button or the `History` link.
 Note: the blame page won't show you deletions, only modifications or additions.
 
