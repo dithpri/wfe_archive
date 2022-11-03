@@ -1,1 +1,5 @@
-[nation=ABC]&#39;s puppet region.
+[b][nation=short]ABC[/nation]&#39;s puppet storage region.[/b]
+
+[hr]
+
+[i][b][url=/page=compose_telegram?tgto=Renegalle,%20ABC]Contact me here[/url][/b][/i]
