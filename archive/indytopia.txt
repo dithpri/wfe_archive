@@ -1,3 +1,17 @@
-nations of [b]indy[/b] 
+[color=black]Home to the [/color][b][i][color=#FFA938]I[/color][color=#FFA73D]n[/color][color=#FFA642]d[/color][color=#FFA548]y[/color][color=#FFA44D]t[/color][color=#FFA253]o[/color][color=#FFA158]p[/color][color=#FFA05E]i[/color][color=#FF9F63]a[/color] [color=#FF9C6E]E[/color][color=#FF9B74]x[/color][color=#FF9A79]t[/color][color=#FF997F]e[/color][color=#FF9884]n[/color][color=#FF968A]d[/color][color=#FF958F]e[/color][color=#FF9494]d[/color] [color=#FF929F]U[/color][color=#FF90A5]n[/color][color=#FF8FAA]i[/color][color=#FF8EB0]v[/color][color=#FF8DB5]e[/color][color=#FF8CBB]r[/color][color=#FF8AC0]s[/color][color=#FF89C6]e[/color] [color=#FF87D1]([/color][color=#FF86D6]I[/color][color=#FF84DC]T[/color][color=#FF83E1]E[/color][color=#FF82E7]U[/color][color=#FF81EC])[/color][/i][/b]
 
-go away
+[b]Current Nations:[/b]
+[b][nation=long]Rosamund[/nation][/b]
+[i]An overpopulated citystate ruled by a mysterious leader, The Pharoah[/i]
+
+[b][nation=long]Burningwood[/nation][/b]
+[i]A medieval nation adverse to technology, stuck in the modern era.[/i]
+
+[b][nation=long]Frigate[/nation][/b]
+[i]A post-apocalyptic wasteland that holds the four nations, bound together in the Confederation Accords.[/i]
+
+[b][nation=long]Softglow[/nation][/b]
+[i]An undead people enslaved by eternal conflict who worship the very idea of immortality.[/i]
+
+[b][nation=long]Mount Indigo[/nation][/b]
+[i]A personal experiment, through answering issues (relatively) based on personal ideals and values.[/i]
