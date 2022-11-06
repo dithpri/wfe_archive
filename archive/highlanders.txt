@@ -1,7 +1,1 @@
-[color=004D33][b]Highlanders[/b][/color]
-
-[color=00477E][b]Sister Region:[/b] [region=The Highlanders]
-a [region=0000] Embassy Oracle Region[/color]
-[color=633517][b]Caretaker:[/b] [nation=short]Chopaka[/nation][/color]
-
-[color=96001A][b]Embassy offers will be ignored[/b][/color]
+Highlanders

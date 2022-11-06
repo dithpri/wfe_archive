@@ -10,5 +10,5 @@ GDPpC: 467.451 $
 Currency: S&uuml;dmark - 1:1.4 $
 -----------------------------------------------------------------------
 Form of Government: Constitutional Monarchy
-Current Monarch: [nation]Wuerttemburg[/nation]
-Current Reichspr&auml;sident: [nation]Wuerttemberg-Hohenzollern[/nation][/b]
+Current Monarch: [nation]Gronsted[/nation]
+Current Reichspr&auml;sident: [nation]Wuerttemburg[/nation][/b]
