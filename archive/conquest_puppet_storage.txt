@@ -1,1 +1,1 @@
-A puppet storage for Kir/Conquest/Nahanni
+A puppet storage for Kir/Conquest
