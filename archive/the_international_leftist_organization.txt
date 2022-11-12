@@ -4,10 +4,10 @@
 [/td][/tr]
 [tr][td][b]We respect a diversity of tactics, so long as they attack the enemy and advance our common cause. We will defend everyone&#39;s right to fight the best way they know how. [/b][/td][td][/td][/tr]
 [tr][td][b]To Do:[/b]
-[nation]Kagera River Valley[/nation]-create a news system
-[nation]Poeam 1[/nation]-finish the constitution
+[nation]Kagera River Valley[/nation]-finish making a news system
 [nation]Ncentnaj[/nation]-better offsite communication
 [nation]Imb[/nation]-work on a military
+Everyone-vote in poll
 [/td][td][/td][/tr]
 [tr][td][b]Weekly Quote[/b]
 
