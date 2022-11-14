@@ -1,5 +1,5 @@
-[color=green][b]Malaysia
-
+[color=00477e][b]Malaysia
+[/color][color=004d33]
 FACTS:
 Capital:[/b] [region=Kuala Lumpur]
 ............ [region=Putrajaya] (administrative)
@@ -10,4 +10,10 @@ Capital:[/b] [region=Kuala Lumpur]
 [b]Population:[/b] 31,121,000 (44th) 2016 est.
 A federation of Malaya, North Borneo and Sarawak.
 [b]Neighbors:[/b][/color][color=803000] Thailand, Mayanmar, Singapore, [region=Vietnam], [region=The Philippines], [region=Indonesia], [region=Brunei Darussalam].
-[i]This is a [region=Great Britain and Northern Ireland] region[/i][/color]
+[/color][color=olive]
+REGION
+[b]Founded:[/b] 2016 Jul 20
+[b]Featured:[/b] 2022 Nov 13
+[i]This is an [region=Ancient Lands] region[/i]
+[/color][color=004d33]
+Embassy Offers Welcome[/color]
