@@ -1,6 +1,7 @@
-[b]The Confederation of Skaavic[/b] States is a union between the Skaavic nations.
+[b]The Confederation of Skaavic States[/b] is a union between the Skaavic nations.
 
-Leader/Founder: [nation]Bulshkaav[/nation]
-Delegate:
-Vice-Delegate(s): [nation]United Trocia Priestaulcurs[/nation], [nation]Reddingrad[/nation]
-Officer(s): [nation]Bongeigge[/nation], [nation]Austria und Germany[/nation]
+Founder: [nation]Bulshkaav[/nation]
+Co-Founder: [nation]Free Saystia[/nation]
+Delegate: [nation]Reddingrad[/nation]
+Vice-Delegate(s): [nation]United Trocia Priestaulcurs[/nation], [nation]Bongeigge[/nation]
+Officer(s): [nation]New Volengrad[/nation], [nation]Austria und Germany[/nation], [nation]The United Prefectures of Japanada[/nation], [nation]Sierra Mephisto[/nation]
