@@ -8,4 +8,8 @@ DEFCON Status:
 &amp;#10240;
 
 
-[b]Statement: No active statement [/b]
+[b]Statement: Time for Vacation! We&#39;re off to [region]Florida[/region][/b]!
+
+Current WA Vote
+GA: [color=blue]FOR[/color]
+SC: [color=red]AGAINST[/color]
