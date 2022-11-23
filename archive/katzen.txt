@@ -1,6 +1,6 @@
 [color=navy][b]Republic of Katzen[/b][/color]
 [color=gold][b]A Restored Realm[/color] liberated by [region]Tarkin[/region]
-[color=maroon][b][i]Katzen Gloria[/i][/b][/color]
+[color=maroon][i]Katzen Gloria[/i][/b][/color]
 
  After falling inactive and losing its founder, the region was invaded and plundered of its regional identity.  [b]Through cooperation and coordination[/b], Katzen has been [i]liberated and restored[/i].
 
@@ -12,3 +12,4 @@ Territorial Secretary: [nation]Vawfiss[/nation]
 [b]The Katzen Home Guard[/b]
 [nation]Fluver[/nation]
 [nation]Moscoveria[/nation]
+[nation]Neuhava[/nation]
