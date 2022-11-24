@@ -1,11 +1,14 @@
-[color=purple]Welcome![/color]
+[color=purple][b]Welcome![/b][/color]
 [hr]
 [b]Regional Happenings:[/b]
 
-[url=https://www.nationstates.net/page=dispatch/id=1797980]PC Election set for 11/25[/url]
-Declared Candidates:
-[nation=noflag]Aestheti[/nation]
-[nation=noflag]Hamey[/nation]
+[u][url=https://www.nationstates.net/page=dispatch/id=1797980]PC Election set for 11/25[/url][/u]
+
+[i]Declared Candidates:[/i]
+
+[nation=long]The Grand Prussian Republic[/nation]
+[nation=long]Hamey[/nation]
+[nation=long]Imperial Yemrod[/nation]
 [hr]
 Join our NEW [url=https://discord.gg/bbwcfMFjD3]discord server[/url]
 [hr]
