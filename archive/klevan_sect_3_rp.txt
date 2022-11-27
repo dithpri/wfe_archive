@@ -2,34 +2,58 @@
 
 https://inkarnate.com/m/eo3ezO-klevan-sect-map/ 
 
+[b][u]Stats will now be updated every other day on the board.[/u][/b]
+
 [u]Nations[/u]
-[nation]Atredies[/nation] (Original kingdom)
+[nation]Atredies[/nation] 
+Population: 56,000,000
+GDP: 7.3 Billion
 
 
-[nation]Bademn[/nation] (Breakaway state)
+[nation]Bademn[/nation] 
+Population: 2,300,000
+GDP: 1.2 Billion
 
 
-[nation]Imperial Tyria[/nation] (Foreign Entity)
+[nation]Imperial Tyria[/nation] 
+Population: 46,000,000
+GDP: 5.7 Billion
 
 
-[nation]Klevan Vaktovia[/nation] (Foreign entity)
+[nation]Klevan Vaktovia[/nation] 
+Klevan Vaktovia: 77,200,000
+GDP: 2.9 Billion
 
 
-[nation]Klussian United Duchies[/nation] (Breakaway state)
+[nation]Klussian United Duchies[/nation] 
+Population: 23,000,000
+GDP: 2.9 Billion
 
 
-[nation]Tarantelle[/nation] (Foreign Entity)
+[nation]Tarantelle[/nation] 
+Population: 77,300,000
+GDP: 7.4 Billion
 
 
-[nation]The Mongol Horde in the Klevan Sect[/nation] (Foreign Entity)
+[nation]The Mongol Horde in the Klevan Sect[/nation] 
+Population: 240,700,000
+GDP: 24 billion
 
 
-[nation]Lemban Mastus[/nation] (Foreign Entity)
+[nation]Lemban Mastus[/nation] 
+Population: 39,000,000
+GDP: 6.6 Billion
 
 
-[nation]The Hussitian Union[/nation] (Confederacy of tribes)
+[nation]The Hussitian Union[/nation] 
+Population: 75,000,000
+GDP: 6.8 Billion
 
-[nation]Lembanian Mastus[/nation] (Foreign Entity)
+[nation]Lembanian Mastus[/nation] 
+Population: 4,000,000
+GDP: 546 Million
 
-[nation]Kladvain[/nation] (Tribal nation)
+[nation]Kladvain[/nation] 
+Population: 18,000,000
+GDP: 2.8 Billion
 
