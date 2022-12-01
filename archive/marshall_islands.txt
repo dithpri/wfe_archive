@@ -1,9 +1,14 @@
 [color=navy][b]Marshall Islands[/b]
 a Micronesian island nation in the western Pacific Ocean.[/color] 
-
+[color=004d33]
 [b]Capital:[/b] Majuro 
 [b]Area:[/b] 181 km&sup2; 
 [b]Population:[/b] 61,963 
-[b]Independence:[/b] October 21, 1986 ([region=United States of America])
-
-Accepts embassy Offers
+[b]Independence:[/b] 1986 Oct. 21 ([region=United States of America])
+[/color][color=olive]
+REGION
+[b]Founded:[/b] 2007 Feb. 11
+[b]Featured:[/b] 2022 Nov. 30
+an [region=United States of America] region
+[/color][color=green]
+Accepts embassy Offers[/color]

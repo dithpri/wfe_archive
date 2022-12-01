@@ -1,43 +1,43 @@
-[url=https://www.nationstates.net/page=region_rank/region=united_federation_of_edwards]As of 10/31/2022 (27533 regions)[/url]
-4.Foreign Aid
+[url=https://www.nationstates.net/page=region_rank/region=united_federation_of_edwards]As of 11/30/2022 (27999 regions)[/url]
+5.Foreign Aid
 5.Welfare
 7.Integrity
-10.Safety
-10.Public Healthcare
 10.Pacifism
-13.Niceness
+10.Public Healthcare
+11.Safety
 13.Eco-Friendliness
-14.Compassion
+14.Niceness
+15.Compassion
+15.Taxation
 15.Public Education
-15.Employment
-16.Taxation
+16.Employment
 17.Inclusiveness
-20.Weather
+19.Weather
+21.Environmental Beauty
 21.Government Size
-22.Environmental Beauty
-28.Food Quality
-35.Human Development Index
-38.Tourism
-39.Lifespan
-43.Intelligence
-47.Health
-48.Compliance
-49.Cheerfulness
-51.Average Income of Poor
-53.Public Transport
-55.Secularism
-87.Youth Rebelliousness
-97.Industry: Information Technology
-109.Business Subsidization
-124.Culture
-136.Economy
-182.Scientific Advancement
-184.Average Income
-220.Survivors
-406.Economic Output
-410.Industry: Book Publishing
-475.Law Enforcement
-518.International Artwork
-802.Nudity
-1147.Income Equality
-1717.Political Freedom
+29.Food Quality
+37.Human Development Index
+40.Lifespan
+40.Tourism
+44.Average Income of Poor
+45.Cheerfulness
+46.Intelligence
+47.Compliance
+48.Health
+52.Public Transport
+53.Secularism
+82.Youth Rebelliousness
+88.Industry: Information Technology
+108.Business Subsidization
+119.Culture
+127.Economy
+163.Average Income
+167.Scientific Advancement
+174.Survivors
+370.Industry: Book Publishing
+390.Economic Output
+457.Law Enforcement
+829.Nudity
+1136.Income Equality
+1765.Average Income of Rich
+1855.International Artwork
