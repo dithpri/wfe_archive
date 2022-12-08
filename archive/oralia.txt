@@ -1,1 +1,10 @@
-A simple peaceful region
+[b]Welcome to the kingdom of Oralia![/b]
+
+Ruled by King JerBer and Queen Oreo, this region holds all nations ruled by the King and Queen, as well as affiliated nations.
+
+[b]Directly ruled[/b]
+The Peaceful Kingdom of [nation]JerBer Place[/nation]: King JerBer
+The Kingdom of [nation]Carbonated Poo Land[/nation]: Queen Oreo
+
+[b]Affiliated[/b]
+The Great Tyrannical Empire of [nation]NonAustralia[/nation]: The Great and Powerful Emperor Zezos
