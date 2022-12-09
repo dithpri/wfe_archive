@@ -1,0 +1,11 @@
+&quot;Sorry, region names may not contain non-Latin characters (yet).&quot;
+I couldn&#39;t call my region &#39;CSB PM Union&#39;s Pok&eacute;mon Region&#39; :(
+
+&quot;Region names must consist only of letters and spaces.&quot;
+I couldn&#39;t call my region &#39;CSB PM Union&#39;s Puppet Region&#39; :(
+
+
+&quot;Region names must consist only of letters and spaces.&quot;
+I couldn&#39;t call my region &#39;CSB PM Union - Puppet Region&#39; :(
+
+This will have to do!
