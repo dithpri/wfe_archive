@@ -1,6 +1,8 @@
 [b]Vassalized Territories of Central Laostuja[/b]
 [b][u]List of Vassals:[/u][/b]
-[b]1.[/b] [i]Jefrit[/i]
-[b]2.[/b] [i]Laostuja[/i]
-[b]3.[/b] [i]East-Laostuja[/i]
-[b]4.[/b] [i]West-Laostuja[/i]
+[b]1.[/b] [nation=long]Jefrit[/nation]
+[b]2.[/b] [nation=long]Laostuja[/nation]
+[b]3.[/b] [nation=long]East-Laostuja[/nation]
+[b]4.[/b] [nation=long]West-Laostuja[/nation]
+[b]5.[/b] [nation=long]Simbobe[/nation]
+

@@ -10,3 +10,4 @@ Allies:
 [region]Walikaistan Office Room[/region]
 [nation]The Bob Alliance[/nation]
 [nation]TNP treaty organization[/nation]
+[region]Economic Union of Asian States[/region]

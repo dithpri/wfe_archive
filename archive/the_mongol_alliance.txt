@@ -3,14 +3,17 @@ Standing forever beneath the eternal blue sky, the Mongol Alliance is the modern
 The Mongol Alliance fought a war with Swalinehariterstan, the invaders who briefly controlled Russia SSR. The Russian and Mongol people were victorious in their fight, and Russia&#146;s sovereignty was restored.
 
 [b]Khan:[/b] Manduul Temujin
+[b]Amir:[/b] Muhammad al-Mizra
 [b]Prime Minister:[/b] Etsegh-ek T&ouml;riin
 [b]Commander:[/b] &Ouml;mn&ouml;kh Baildan-daguulalt
 [b]Deputy Commander:[/b] Tulaan Orlogch
+
 
 [b]Allied Nations:[/b]
 [nation]Mongol Uls[/nation]
 [nation]The 2nd Golden Horde[/nation]
 [nation]The White Horde[/nation]
+[nation]Gurkaniyan[/nation]
 
 [b]Allied Regions:[/b]
 [region]Russia SSR[/region]

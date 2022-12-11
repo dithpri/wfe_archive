@@ -1,11 +1,9 @@
-[b]Capital city of [region=Ocalawaha]
+[b]A City in [region=New Mexico]
 Welcome to Albuquerque! A city in New Mexico.
 
-[color=darkblue]Population[/color]: [color=lime]1,162,523[/color] [color=gold]1st in New Mexico[/color]
-[color=orange]Area[/color]: [color=grey]188.95 sq mi[/color]
-Founder: [nation]Heisenberg City[/nation] &amp; [nation]0cala[/nation]
-[hr]Founded: 1706[hr]
-[i]Embassy Offers are Welcome[/b][/i][hr]
+Founders: [nation]Heisenberg City[/nation] &amp; [nation]0cala[/nation]
+[hr]Founded: 11/10/22[hr]
+[i][color=#ed2e36]Embassy Offers[/color][color=#f6f119] are Welcome[/color][/b][/i][hr]
 
 [color=violet]When I was just a baby, my mama told me, &quot;Son
 Always be a good boy, don&#39;t ever play with guns&quot;
