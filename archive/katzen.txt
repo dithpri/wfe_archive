@@ -1,16 +1,15 @@
-[color=navy][b]Republic of Katzen[/b][/color]
-[color=gold][b]A Restored Realm[/color] liberated by [region]Tarkin[/region]
-[color=maroon][i]Katzen Gloria[/i][/b][/color]
+[color=navy][b]Territory of Katzen[/b][/color]
+[color=maroon][b]A territory of [/color][region]Tarkin[/region]
+[color=gold][i]12/12/22[/i][/b][/color]
 
- After falling inactive and losing its founder, the region was invaded and plundered of its regional identity.  [b]Through cooperation and coordination[/b], Katzen has been [i]liberated and restored[/i].
+ After falling inactive and losing its founder, the region was invaded and plundered of its regional identity.  [b]Through cooperation and coordination[/b], Katzen was [i]liberated and restored[/i] as a [b]territory of the Republic of Tarkin[/b].
 
-
-[b]Transitional Executive[/b]
+[color=red]COMING SOON:[/color][b] [color=green]| MAP | CONSTITUTION | DISCORD[/b][/color]
+[b]Territorial Executive[/b]
 Territorial Governor: [nation]Manhassett[/nation]
 Territorial Secretary: [nation]Vawfiss[/nation]
 
 [b]The Katzen Home Guard[/b]
-[nation]Fluver[/nation]
-[nation]Moscoveria[/nation]
-[nation]Neuhava[/nation]
-[nation]The Bigtopian People[/nation]
+[nation]Cordair[/nation]
+[nation]Galateia[/nation]
+[nation]Vawfiss[/nation]
