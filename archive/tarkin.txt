@@ -2,14 +2,14 @@
 [color=gold] [b]Legatum Vivit[/b][i][/i][/color]
 [color=maroon][b]Founded on September 18th 2018[/b][/color]
 
-[b]| [url=https://www.nationstates.net/nation=tarkin/detail=factbook/id=main]Regional Constitution[/url] | [url=https://i.imgur.com/7L8HKRy.png]Regional Map[/url] | [url=https://i.imgur.com/AE7LSVI.png/qcpf0ZX.png]Physical Map[/url] |  [url=https://www.maptoglobe.com/rJsJIKgSH]Political Globe[/url] | [url=https://www.nationstates.net/region=katzen]Katzen - The Protectorate[/url] 
+[b]| [url=https://www.nationstates.net/nation=tarkin/detail=factbook/id=main]Regional Constitution[/url] | [url=https://i.imgur.com/7L8HKRy.png]Regional Map[/url] | [url=https://www.nationstates.net/nation=tarkin/detail=factbook/id=1354216]Physical Map[/url] |  [url=https://www.maptoglobe.com/rJsJIKgSH]Political Globe[/url] | [url=https://www.nationstates.net/region=katzen]Katzen[/url] 
 
 [u][color=maroon]Executive:[/color][/u][/b]
 President: [nation]TheRuhr[/nation]
 Vice President: [nation]Haclife[/nation]
 Attorney General: [nation]Camerwoon[/nation]
 Secretary of State: [nation]Caska[/nation]
-
+Governor of Katzen: [nation]Manhassett[/nation]
 [color=grey][b][u]Senate:[/u][/b][/color]
 [nation]Marasaw[/nation]
 [nation]Opieland[/nation]
@@ -20,12 +20,9 @@ Secretary of State: [nation]Caska[/nation]
 
 [color=navy][b][u]Supreme Court:[/color][/b][/u]
 [i]Chief Justice:[/i] [nation]Burkai[/nation]
-Associate Justice: [nation]THe Sanhedrin[/nation]
+Associate Justice: [nation]The Sanhedrin[/nation]
 Associate Justice: [nation]Annanias[/nation]
 
-[color=gold][b] | Members of the Tarkin Commonwealth |[/b][/color]
-[region]Katzen[/region]
-
-[color=red][b]______________________[/b][/color]
-[b]MAP |[/b] Consult the regional map for available claims. Claim by posting on the RMB
+[color=maroon][b]________________________________________________________[/b][/color]
+[b]MAP |[/b] Consult the regional map for available claims.
 [b]ROLEPLAY | [/b]Tarkin is set in the [b]Interwar Period (1919-1941)[/b] for technology.
