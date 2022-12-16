@@ -1,13 +1,8 @@
 Only regions with embassies with TNP only alliance region
-Our goals are:
-Defend eachother (part of number 3)
-Fight strong against wars and win everytime (which we have completed but may be more wars)
-Help eachother
-Never give up you will always have help mostly
-Never give up we are strong
+
+We must defend eachother because we are allies
 
 Allies:
 [region]Walikaistan Office Room[/region]
 [nation]The Bob Alliance[/nation]
-[nation]TNP treaty organization[/nation]
 [region]Economic Union of Asian States[/region]
