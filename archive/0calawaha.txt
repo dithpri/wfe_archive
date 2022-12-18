@@ -1,2 +1,14 @@
-original region
-new region is [region=Ocalawaha]
+
+[b][color=#12FF51]L[/color][color=#11FC50]e[/color] [color=#11F64E]C[/color][color=#10F34D]o[/color][color=#10F04D]r[/color][color=#10EE4C]p[/color][color=#0FEB4B]s[/color] [color=#0FE54A]o[/color][color=#0FE249]p[/color][color=#0EDF48]&eacute;[/color][color=#0EDD47]r[/color][color=#0EDA46]a[/color][color=#0DD746]t[/color][color=#0DD445]i[/color][color=#0DD144]o[/color][color=#0DCF43]n[/color][color=#0CCC43]n[/color][color=#0CC942]e[/color][color=#0CC641]l[/color] [color=#0BC03F]d[/color][color=#0BBE3F]u[/color] [color=#0AB83D]P[/color][color=#0AB53C]a[/color][color=#0AB23C]c[/color][color=#09AF3B]i[/color][color=#09AD3A]f[/color][color=#09AA39]i[/color][color=#09A738]q[/color][color=#08A438]u[/color][color=#08A137]e[/color] [color=#079C35]E[/color][color=#079935]s[/color][color=#079634]t[/color] [color=#069032]([/color][color=#068E31]C[/color][color=#068B31]O[/color][color=#058830]P[/color][color=#05852F]E[/color][color=#05822E])[/b] a conquis votre r&eacute;gion au nom de [nation]Islonia[/nation]. Les plaintes peuvent &ecirc;tre adress&eacute;es &agrave; l&#39;autorit&eacute; la plus proche pouvant g&eacute;rer Vor.
+
+Vive la r&eacute;volution! Longue vie [nation]Islonia[/nation]!
+
+[u]R&eacute;volutionnaires fid&egrave;les:[/u][/color]
+
+[b][color=#12FF51]F[/color][color=#11F54E]l[/color][color=#10EC4C]y[/color][color=#0FE349]i[/color][color=#0EDA47]n[/color][color=#0DD144]g[/color] [color=#0BBF3F]C[/color][color=#0AB63D]h[/color][color=#09AD3A]a[/color][color=#08A438]r[/color][color=#079B35]i[/color][color=#069233]o[/color][color=#058930]t[/color][/b] [b][nation]Eshgh[/nation][/b]
+
+[b][color=#12FF51]B[/color][color=#0FE94B]i[/color][color=#0DD445]s[/color][color=#0BBF3F]h[/color][color=#09AA39]o[/color][color=#079533]p[/color][/b] [b][nation]The Atlae Isles[/nation][/b]
+
+[b][color=#12FF51]G[/color][color=#10F44E]o[/color][color=#0FE94B]l[/color][color=#0EDF48]d[/color] [color=#0CCA42]G[/color][color=#0BBF3F]e[/color][color=#0AB43C]n[/color][color=#09AA39]e[/color][color=#089F36]r[/color][color=#079533]a[/color][color=#068A30]l[/color][/b] [b][nation]Zukchiva[/nation][/b]
+
+[b][color=#12FF51]S[/color][color=#10F44E]i[/color][color=#0FE94B]l[/color][color=#0EDF48]v[/color][color=#0CCA42]e[/color][color=#0BBF3F]r[/color] [color=#0AB43C]G[/color][color=#09AA39]e[/color][color=#089F36]n[/color][color=#079533]e[/color][color=#068A30]r[/color][color=#068A30]a[/color][color=#068A30]l[/color][/b] [b][nation]Auravas[/nation][/b]
