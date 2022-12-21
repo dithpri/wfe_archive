@@ -1,1 +1,16 @@
-[color=green][b]Tonga[/b][/color]
+[color=00477e][b]Tonga[/b]
+[/color][color=654321]
+Kingdom of Tonga
+a Polynesian Kingdom
+[/color][color=004d33]
+NATION
+[b]Capital:[/b] [region=Nuku Alofa]
+[b]Independence:[/b] 1970 Jun 04 (United Kingdom)
+[b]Area:[/b] 748 km (209 sq mi)
+[/color][color=olive]
+REGION
+[b]Founded:[/b] 2016 Apr 27
+[b]Featured:[/b] 2022 Dec 20
+an [region=Ancient Lands] region
+[/color][color=004d33]
+Embassy Offers Welcome[/color]
