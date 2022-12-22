@@ -8,6 +8,7 @@ FACTS:
 2. In fact, it should preserve world peace
 3. Supports free trade
 4. No colonies, puppets, vassals and slaves
+5.Languages of the organization:Russian and English
 
 region:
 Date of foundation: November 29, 2022
