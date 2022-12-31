@@ -1,3 +1,11 @@
-[color=navy][b]Greater London[/b]
-a [region=Great Britain and Northern Ireland]/[region=London]/[region=Westminster] region
-also allied with [region=United States of America]/[region=0000] regions[/color]
+[color=00477e][b]Greater London[/b]
+[/color][color=606000]
+REGION
+[b]Founded:[/b] 2017 May 23
+[b]Featured:[/b] 2022 Dec 30
+an [region=Ancient Lands] region
+in association with: [region=Great Britain and Northern Ireland], 
+[region=London], [region=Westminster], [region=United States of America], 
+[region=0000], [region=the Central Pacific] and [region=Dog Lake] regions
+[/color][color=004d33]
+Embassy offers are welcome[/color]
