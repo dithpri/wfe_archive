@@ -1,11 +1,1 @@
-[b][color=4e8c5b]AUTONOMOUS SPACE COLONY[/color][i][color=2d4551], SIDE 3[/i], [i]MUNZO[/i] --[/color] [u][color=cfb654]THE PRINCIPALITY OF ZEON[/color][/u][/b]
-
-[color=4e8c5b]&quot;[i]The Side farthest away from Earth.[/i]&quot;[/color]
-[hr][hr][color=2d4551][b]Welcome, [i]spacenoid[/i], to the[/color] [u][color=cfb654]Principality of Zeon[/color][/u][color=2d4551]![/color][/b]
-
-[color=4e8c5b][i]A region for all fans of anime, mecha, and the [url=http://en.wikipedia.org/wiki/Gundam]Gundam Series[/url].[/i][/color]
-
-[hr][hr][b][color=cfb654]His Sovereign[/color][color=2d4551]:[/color]
-[color=c8234b]Prime Minister[/color][color=2d4551]:[/color]
-[color=4e8c5b]Supreme Commander[/color][color=2d4551]:[/color][/b]
-[hr][hr][b][color=4e8c5b]Regional Military[/color][/b][color=2d4551]:[/color] [b][color=4e8c5b][region]Zeon Space Attack Force[/region][/b][/color]
+Hello world.
