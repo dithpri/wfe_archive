@@ -1,5 +1,5 @@
-[color=004d33][b]Siberia[/b]
-[/color][color=00477e]
+[color=00477e][b]Siberia[/b]
+[/color][color=543210]
 a extensive geographical region of [region=Federal Republic of Russia]
 Consists of all of Asian Russia
 from Ural Mountains to the Pacific Ocean
@@ -13,8 +13,8 @@ By this definition:
 [b]Largest City:[/b] Novosibirsk
 [/color][color=7e7e00]
 REGION
-[b]Founded:[/b]
-[b]Featured:[/b]
-an [region=Ancient Lands] region
+[b]Founded:[/b] 2019 May 28
+[b]Featured:[/b] 2022 May 26
+a [region=Dog Lake] region
 [/color][color=004d33]
 Accepts Embassy Offers[/color]
