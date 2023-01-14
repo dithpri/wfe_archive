@@ -1,6 +1,9 @@
-President of the Senate: [nation]PM Rishi Sunak[/nation]
-President of the United Bongo States of America: President Rise of [nation]United Bongo States of America[/nation]
-King of the United Bongo States of America: [nation]King Bongo II[/nation]
-Leader of the United Christian Union of Bongos Party: President Rise of [nation]United Bongo States of America[/nation]
-Leader of the Opposition, Brothers of God Conservative Party: Avatargirl [nation]Bongo States of America[/nation]
-Speaker of the Official Bongian Senate: [nation]Senator TRS[/nation]
+Speaker of the Bongian Senate: [nation]Senator TRS[/nation]
+President of the Senate &amp; VP of the United Bongo States of America:[nation]PM Rishi Sunak[/nation]
+President of the [nation]United Bongo States of America[/nation]: President Rise
+Majority of the Senate: [region]United Christian Union of Bongos[/region]
+Opposition Party: [region]Brothers of God Conservative Party[/region]
+Chairwoman of [region]Brothers of God Conservative Party[/region]: [nation]Bongo States of America[/nation]
+Chairman of [region]United Christian Union of Bongos[/region]: [nation]United Bongo States of America[/nation]
+&amp;#9878;&amp;#65039;&amp;#128203;&amp;#128395; 
+The Official Bongian Senate is a major government organization in which senators and representatives vote on [region]The Bongos[/region] laws, the international laws, proposed things by the President and does impeachments.

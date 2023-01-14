@@ -1,13 +1,13 @@
 [b]Welcome to Vesvin![/b]
 
-[u]Secretary of Internal Affairs:[/u] (N/A)
-[u]Secretary of Foreign Affairs:[/u] (N/A)
+[u]Secretary of Internal Affairs:[/u] [nation]Roguiguez[/nation]
+[u]Secretary of Foreign Affairs:[/u] [nation]Legionary Sansar[/nation]
 
 [u]Supreme Court Justices:[/u]
 [list]
-[*] (N/A)
-[*] (N/A)
-[*] (N/A)
+[*] [nation]Juliosu[/nation]
+[*] [nation]Ieona[/nation]
+[*] [nation]Hydradoria[/nation]
 [/list]
 
 [u]Border:[/u] [color=green]Open[/color]
