@@ -1,6 +1,6 @@
 [color=turchese]BCN (Barcelona)
 
-Capital of Catalonia, an autonomous region of [region]The Kingdom of Spain[/region]
+Capital of Catalonia, an autonomous region of [region]The Kingdom of Spain[/region] and the Airport Code for Barcelona (BCN) 
 By this definition:
 [b]Area:[/b] 101.9 km&sup2; (63.3 mi&sup2;)
 [b]Population:[/b] 1.62 million (est.)
@@ -12,4 +12,6 @@ By this definition:
 [color=brown]REGION
 [b]Founded:[/b] June 26, 2022
 [b]Featured:[/b] 
-a [nation]Soviet Yoshilandia[/nation] region[/color]
+a [nation]Soviet Yoshilandia[/nation] region
+
+[b]Embassy Offers Accepted[/b][/color]
