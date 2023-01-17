@@ -1,7 +1,7 @@
-the continent of Southeast Fantasia found itself at the center of a global struggle between two superpowers: the capitalist West and the communist East. Each side sought to exert its influence over the region, both economically and politically.
+[b]the continent of [region]Southeast Fantasia[/region] found itself at the center of a global struggle between two superpowers: the capitalist West and the communist East. Each side sought to exert its influence over the region, both economically and politically.
 
-The United Empire of Fantasia faction, a bastion of democracy and capitalism, aligned itself with the West. It welcomed foreign investment.
+[u]The United Empire of Fantasia faction[/u], a bastion of democracy and capitalism, aligned itself with the West. It welcomed foreign investment.
 
-However, the neighboring Communist State of Eastland Union wish to spread the dream of communism through Southeast Fantasia. It sought to spread its ideology and destabilize the Empire through covert operations and propaganda.
+However, the neighboring [u]Communist State of Eastland Faction [/u] wish to spread the dream of communism through Southeast Fantasia. It sought to spread its ideology and destabilize the Empire through covert operations and propaganda.
 
-East or West, no justice between them. But you decide.
+[i]East or West, no justice between them. But you decide.[/b][/i]
