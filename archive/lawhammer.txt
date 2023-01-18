@@ -1,8 +1,1 @@
-[color=004d33][b]Lawhammer[/b][/color][hr][hr][hr][hr][hr][hr][hr][hr][hr][hr][color=blue][b]Lawhammer Arrivals and Departures:[/b][/color]
-[color=004d33]Track 1A:  [region=Pemento] - [region=Far Right Union] and all points SOUTH
-Track 1B:  [region=Did you realise] - [region=Pentagon] and all points NORTH
-[b]EXPRESS CONNECTIONS:[/b]
-[region=0000], [region=Ancient Lands], [region=Dog Lake], [region=The Central Pacific], 
-[region=United States of America], [region=Westminster]
-[/color][color=800000]
-No Embassy Offers Accepted[/color]
+[color=004d33][b]Lawhammer[/b][/color]
