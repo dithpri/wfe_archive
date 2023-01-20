@@ -28,8 +28,6 @@
 
 [nation]Gooseneckistan[/nation]  
 
- [nation]Dregs of the Earth[/nation]  
-
 [nation]Joyful Sorrows[/nation]
 
 [nation]Wango Tango[/nation]
