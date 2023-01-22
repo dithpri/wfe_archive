@@ -6,3 +6,6 @@ House Crystal
 House Plasma
 [nation]Blazonia[/nation]
 [nation]Alavantine[/nation]
+
+House Barrier
+[nation]Terrtia[/nation]
