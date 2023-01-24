@@ -18,5 +18,5 @@ DEFCON Status:
 
 
 Current WA Vote
-GA: [color=blue]FOR: WA website when[/color]
-SC: [color=purple]Neutral: vote whatever[/color]
+GA: [color=blue]FOR[/color]
+SC: [color=black]No resolution at vote.[/color]
