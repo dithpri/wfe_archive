@@ -1,5 +1,5 @@
 [b][color=blue]Welcome to the Farokandi Armed Forces![/color][/b]
 
-[b]This is the jump point and puppet storage for [nation]Farokand[/nation].[/b]
+[b]This is the puppet storage for [nation]Farokand[/nation]. Jump point is [region]Farokand[/region].[/b]
 
 [b][color=green]Glory to [region]Farokand[/region].[/color][/b]
