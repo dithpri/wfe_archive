@@ -1,13 +1,21 @@
-[i][b][color=#FF0000]Wel[/color][color=#F0000E]come[/color] [color=#E2001C]to the[/color] [color=#D4002A]Collid[/color][color=#B80046]ed G[/color][color=#AA0055]alax[/color][color=#8D0071]ies o[/color][color=#7F007F]f A[/color][color=#63009B]r[/color][color=#5500AA]c[/color][colour=#4600B8]h[/colour][colour=#3800C6]a[/colour][colour=#2A00D4]i[/colour][colour=#0E00F0]![/colour][/b][/i]
-[b][u][colour=red]---SAFETY NOT GUARANTEED IN 90.3% OF SYSTEMS---[/colour][/b][/u]
-[hr][b][i][colour=blue]Have a Suggestion? Send it to us [url=https://www.nationstates.net/page=compose_telegram?tgto=United%20Republic%20Of%20Amogus&amp;message=Please%20enter%20your%20suggestion%20below:%0A%0AEnter%20your%20reasoning%20below:]here![/url][/colour][/b]
+[b][i][colour=purple]&amp;gt;User %NATION% registered...
+&amp;gt;Run
+alert.(&quot;Welcome to Archai!&quot;);  // display string message...
 
+open.(&quot;[url=https://www.nationstates.net/page=dispatch/id=1829154]Intro_Dispatch[/url]&quot;)[/i][/b][/colour]
 
-[hr][b][colour=maroon]GENERAL ASSEMBLY:[/colour] [colour=red]AGAINST &amp;#127758;[/colour][/b]
-[b][colour=maroon]SECURITY COUNCIL:[/colour] [colour=black]PENDING... &amp;#127758;[/colour][/b]
+[i][b][color=#FF0000]W&amp;#821;[/color][color=#F0000E]e&amp;#821;l&amp;#824;[/color][color=#E2001C]c&amp;#823;o&amp;#820;[/color][color=#D4002A]m&amp;#821;e&amp;#820;[/color] [color=#B80046] t&amp;#820;o&amp;#823;[/color] [color=#AA0055]A&amp;#823;r&amp;#823;c&amp;#821;[/color][color=#8D0071]ha&amp;#821;i&amp;#821;!&amp;#823;[/color][/b][/i]
+[b][u][colour=red]---SAFETY NOT GUARANTEED IN 90.3% OF SYSTEMS---[/colour][/u]
 
-[colour=pink][b]ALL EMBASSY OFFERS ARE ACCEPTED &amp;#129309;[/b][/colour]
-[hr]
-[url=https://www.nationstates.net/page=dispatch/id=1727142][color=blue][b]RULES[/b][/color][/url] [b]|[/b] [b][url=https://www.nationstates.net/page=dispatch/id=1727153]NEWSLETTER[/b][/url][b] | [url=https://www.youtube.com/watch?v=t4Gnkgub83M&amp;t=353s][color=purple]WEEKLY SONG[/color][/b][/url] [b]|[/b] [b][url=https://www.nationstates.net/page=dispatch/id=1727247][color=red]RAID CODES[/color][/b][/url] [b] | [/b] [b][url=https://www.nationstates.net/page=un][color=cyan]WORLD ASSEMBLY[/color][/b][/url] [b] | [/b] [url=https://www.nationstates.net/page=dispatch/id=1728123][b][color=maroon]CONSTITUTION[/b][/color][/url] [b] | [/b] [b][url=https://www.nationstates.net/page=dispatch/id=1797821][color=purple]ROLEPLAY[/color][/url][/b] [b]|[/b] [b][color=teal][url=nationstates.net/page=dispatch/id=1741674]ILC[/url][/color][/b] [b]|[/b][/i]
-[hr]
-[b][i][color=cyan]LONG[/color] [color=violet]LIVE[/color] [color=blue]AR[/color][color=pink]CH[/color][color=grey]AI[/color][/i][/b]
+&amp;gt;Running Decoder...
+&amp;gt;Opening File...[/b]
+[hr][i][b][color=#FF0000]W[/color][color=#F0000E]el[/color][color=#E2001C]co[/color][color=#D4002A]me[/color] [color=#B80046] to[/color] [color=#AA0055]Arc[/color][color=#8D0071]hai![/color][/i]
+[sub][colour=purple]Archa Inc. is not responsible for [/colour]E&amp;#820;&amp;#850;&amp;#861;&amp;#770;&amp;#783;&amp;#806;&amp;#808;&amp;#841;&amp;#805;R&amp;#823;&amp;#780;&amp;#849;&amp;#836;&amp;#787;&amp;#778;&amp;#795;&amp;#828;&amp;#796;&amp;#791;&amp;#853;&amp;#825;&amp;#841;&amp;#804;R&amp;#821;&amp;#861;&amp;#808;&amp;#812;O&amp;#824;&amp;#783;&amp;#851;&amp;#802;&amp;#803;&amp;#839;&amp;#860;&amp;#797;R&amp;#821;&amp;#772;&amp;#857;&amp;#851;&amp;#841;&amp;#807;&amp;#793; [colour=purple]when in [/colour]E&amp;#820;&amp;#850;&amp;#861;&amp;#770;&amp;#783;&amp;#806;&amp;#808;&amp;#841;&amp;#805;R&amp;#823;&amp;#780;&amp;#849;&amp;#836;&amp;#787;&amp;#778;&amp;#795;&amp;#828;&amp;#796;&amp;#791;&amp;#853;&amp;#825;&amp;#841;&amp;#804;R&amp;#821;&amp;#861;&amp;#808;&amp;#812;O&amp;#824;&amp;#783;&amp;#851;&amp;#802;&amp;#803;&amp;#839;&amp;#860;&amp;#797;R&amp;#821;&amp;#772;&amp;#857;&amp;#851;&amp;#841;&amp;#807;&amp;#793;.[colour=purple][/b][/sub]
+
+[b]When in [region]Archai[/region], you can:[/b]
+[i]&amp;gt;Join the Government
+&amp;gt;Fight for your L&amp;#823;&amp;#842;&amp;#853;i&amp;#821;&amp;#777;&amp;#839;f&amp;#822;&amp;#787;&amp;#854;e&amp;#820;&amp;#783;&amp;#854; [sub](RP)[/sub]
+&amp;gt;Talk to e&amp;#823;&amp;#778;&amp;#799;n&amp;#820;&amp;#771;&amp;#801;t&amp;#822;&amp;#785;&amp;#857;i&amp;#822;&amp;#784;&amp;#815;t&amp;#822;&amp;#830;&amp;#806;i&amp;#821;&amp;#842;&amp;#841;e&amp;#824;&amp;#838;&amp;#797;s&amp;#821;&amp;#784;&amp;#827;[/colour]
+[/i]
+[b][colour=red]-ERROR-[/colour]
+[i]Ending Transmission...[/i][/b]
