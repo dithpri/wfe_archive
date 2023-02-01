@@ -1,42 +1,43 @@
-[url=https://www.nationstates.net/page=region_rank/region=united_federation_of_smith]As of 12/31/2022 (28172 regions)[/url]
-9.Welfare
-9.Foreign Aid
-12.Integrity
-13.Pacifism
-13.Safety
-16.Compassion
+[url=https://www.nationstates.net/page=region_rank/region=united_federation_of_smith]As of 1/31/23 (27663 regions)[/url]
+8.Welfare
+8.Foreign Aid
+11.Pacifism
+12.Safety
+13.Integrity
+15.Compassion
 17.Public Healthcare
 17.Niceness
-19.Inclusiveness
-21.Employment
-22.Eco-Friendliness
-22.Taxation
-23.Public Education
-29.Government Size
-30.Secularism
-30.Weather
-31.Environmental Beauty
-33.Food Quality
-36.Human Development Index
-39.Lifespan
-49.Average Income of Poor
-50.Tourism
-51.Health
-53.Intelligence
-54.Compliance
-55.Cheerfulness
+18.Inclusiveness
+19.Public Education
+19.Taxation
+20.Employment
+21.Government Size
+21.Eco-Friendliness
+25.Weather
+26.Environmental Beauty
+31.Food Quality
+34.Human Development Index
+37.Lifespan
+44.Tourism
+45.Intelligence
+45.Cheerfulness
+45.Health
+47.Average Income of Poor
+48.Compliance
+57.Secularism
 86.Industry: Information Technology
-87.Business Subsidization
+89.Business Subsidization
+101.Public Transport
 103.Economy
-105.Public Transport
-155.Youth Rebelliousness
-162.Culture
-180.Scientific Advancement
-191.Average Income
-205.Industry: Book Publishing
-502.Economic Output
-586.Law Enforcement
-634.International Artwork
-1130.Income Equality
-1836.Political Freedom
-1983.Average Income of Rich
+141.Youth Rebelliousness
+151.Culture
+182.Scientific Advancement
+187.Average Income
+194.Industry: Book Publishing
+496.Economic Output
+540.Law Enforcement
+655.International Artwork
+1122.Income Equality
+1911.Average Income of Rich
+2674.Nudity
+6783.Political Freedom

@@ -2,14 +2,16 @@
 
 [Color=red]Number of active regiments (53)
 
-Number of deployed regiments (20)
+Number of national guard units (2)
+
+Number of deployed regiments (10)
 
 Foreign regiments (1)
 
 Regions tagged _15_
 
-Regions refounded _4_
+Regions refounded _7_
 
-Regions conquered _1_
+Regions conquered by afoe forces _1_
 
-Regions liberated _1_[/color]
+Regions liberated by afoe forces __[/color]

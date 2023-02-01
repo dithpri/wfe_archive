@@ -1,43 +1,43 @@
-[url=https://www.nationstates.net/page=region_rank/region=united_federation_of_york]As of 12/31/2022 (28171 regions)[/url]
-6.Foreign Aid
+[url=https://www.nationstates.net/page=region_rank/region=united_federation_of_york]As of 1/31/23 (27661 regions)[/url]
+7.Foreign Aid
 10.Welfare
-10.Integrity
-11.Pacifism
-15.Safety
+10.Pacifism
+11.Integrity
+14.Safety
+16.Compassion
 17.Inclusiveness
-17.Compassion
-19.Niceness
-20.Public Healthcare
-20.Employment
+18.Niceness
+19.Public Healthcare
+20.Taxation
 20.Eco-Friendliness
-23.Taxation
-26.Public Education
-30.Environmental Beauty
-30.Government Size
-34.Weather
-35.Food Quality
-35.Nudity
-40.Human Development Index
-43.Lifespan
-50.Average Income of Poor
-51.Tourism
-56.Secularism
-56.Compliance
-57.Intelligence
-63.Health
-71.Cheerfulness
-71.Industry: Information Technology
-89.Business Subsidization
-101.Economy
-107.Public Transport
-139.Youth Rebelliousness
-160.Scientific Advancement
-179.Culture
-200.Average Income
-492.Industry: Book Publishing
-516.Economic Output
-648.Law Enforcement
-1041.Income Equality
-2060.Average Income of Rich
-2825.Influence
-4664.International Artwork
+21.Employment
+21.Public Education
+23.Government Size
+28.Environmental Beauty
+32.Food Quality
+33.Weather
+36.Nudity
+37.Human Development Index
+40.Lifespan
+45.Tourism
+48.Average Income of Poor
+49.Intelligence
+55.Compliance
+58.Health
+62.Secularism
+65.Industry: Information Technology
+66.Cheerfulness
+85.Business Subsidization
+96.Economy
+102.Public Transport
+136.Youth Rebelliousness
+155.Culture
+198.Average Income
+455.Industry: Book Publishing
+504.Economic Output
+633.Law Enforcement
+1026.Income Equality
+2001.Average Income of Rich
+4654.International Artwork
+5587.Scientific Advancement
+7011.Population

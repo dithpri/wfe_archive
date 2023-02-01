@@ -1,0 +1,8 @@
+[Color=blue]This region acts as a central ground for Eisbutch&#39;s embassies, this also holds jump points and info on the other departments of eisbutch.[/color]
+
+[Color=red]Motherland: [nation]United villages of eisbutch[/nation] [/color]
+
+[Color=yellow]Other regions: 
+Department [region]ARMED FORCES OF EISBUTCH[/region] lead by [nation]The AFOE 100th regiment[/nation]
+
+Colony [region]Sorbat[/region] protected by [nation]The AFOE 10th regiment[/nation] [/color]
