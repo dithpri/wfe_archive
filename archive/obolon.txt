@@ -1,6 +1,7 @@
 [b][color=teal]In the city of Kyiv, a district called [u]Obolon[/u] lies along the Dnipro river. Here, we remain.[/color]
 
-[color=green]Retired main jump point and special op jump point of the Navy of [region]Ijaka[/region]. Regular jumping is to continue out of [region]Suspicious[/region].[/color]
+[color=#00bb15]Training jumppoint and special operation jumppoint of the Navy of [region]Ijaka[/region].[/color]
+[color=#03a2da]Obolon was retired as the main JP of Ijaka on January 9, 2023, and regular jumping is to continue out of [region]Suspicious[/region].[/color]
 
 [color=blue]Interested in our sailing missions? [url=https://discord.gg/8qWbXFUMAr]Join our harbor[/url].[/color]
 
