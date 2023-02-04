@@ -10,8 +10,13 @@
 
 [b][u]Terminal B[/u][/b]
 [region]Guinea Kiribati[/region]
+[region]Pontbridge Islands[/region]
 
 [b][u]Terminal C[/u][/b]
 [region]Fredonia[/region]
+[region]Colorado[/region]
+
+[b][u]Food and Entertainment Terminal D[/u][/b]
+[region]The Bar on the corner of every region[/region]
 
 [b][i]Callahan welcomes all, big and small, one and all![/i][/b]
