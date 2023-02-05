@@ -1,3 +1,1 @@
-[b][nation=short]ABC[/nation]&#39;s puppet storage region.[/b]
-
-[hr]
+[region]123[/region]

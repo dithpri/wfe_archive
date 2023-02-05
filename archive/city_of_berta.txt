@@ -5,4 +5,8 @@
 [Color=yellow]Other regions: 
 Department [region]ARMED FORCES OF EISBUTCH[/region] lead by [nation]The AFOE 100th regiment[/nation]
 
-Colony [region]Sorbat[/region] protected by [nation]The AFOE 10th regiment[/nation] [/color]
+Colony [region]Sorbat[/region] protected by [nation]The AFOE 10th regiment[/nation] 
+
+Colony [region]New drudgof[/region] protected by [nation]Eisbutchian 2nd national guard[/nation]
+
+Colony [region]World region[/region] protected by [nation]Eisbutchian 3rd national guard[/nation] [/color]
