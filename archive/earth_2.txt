@@ -1,6 +1,6 @@
-Earth 2 is an alternate future country.
+Earth 2 is an alternate future region.
 
-Current Date: February 5, 2023 (1 second early)
+Current Date: February 6, 2023 (1 second early)
 
 Countries:
 
@@ -11,4 +11,20 @@ Canada
 Cascadia
 Haida
 
+Administrative Cantons:
+
+1AU:
+
+Airdrie Meadows
+Bayside
+
+Cascadia:
+
+West
+East
+
+Haida:
+
+West
+East
 
