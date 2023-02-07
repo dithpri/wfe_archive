@@ -1,14 +1,1 @@
-[hr][hr][color=#00255e][b]Commissioner[/b]: Rene Helmsley III
-[b]Prime Minister[/b]: Alina Kuzmin
-[b]Capital[/b]:  [nation]Villeinova[/nation][hr][hr] [b] Government[/b]: Federal Constitutional Republic
-[b]States[/b]: 29
-[b]Population[/b]: 309 million
-[b]GDP Per Capita (ppp): [/b]$94,568
-[b]Currency[/b]: Aissurian Jenning
-[b]Largest City[/b]: Allegiant 
-[hr][/color]
-[b]AllIES[/b]
-[region]Russian Federation[/region]
-[region]United States of America[/region]
-
-
+Refounded
