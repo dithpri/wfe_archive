@@ -9,4 +9,6 @@ Colony [region]Sorbat[/region] protected by [nation]The AFOE 10th regiment[/nati
 
 Colony [region]New drudgof[/region] protected by [nation]Eisbutchian 2nd national guard[/nation]
 
-Colony [region]World region[/region] protected by [nation]Eisbutchian 3rd national guard[/nation] [/color]
+Colony [region]World region[/region] protected by [nation]Eisbutchian 3rd national guard[/nation] 
+
+Colony [region]a g o e o t b r[/region] protected by [nation]Eisbutchian 4th national guard[/nation] [/color]

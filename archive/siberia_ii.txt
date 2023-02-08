@@ -1,4 +1,4 @@
-[color=green]Siberia II, a refugee region from Siberia.
+[color=green][region]Siberia II[/region], a refugee region from [region]Siberia[/region].
 
 An extension to [region]The Russian Federation[/region]
 By this definition:
@@ -6,7 +6,7 @@ By this definition:
 [b]Population:[/b] 33.77 million (est.)
 [b]President:[/b] Vladimir Putin (est.)
 [b]Elevation:[/b] 500&#150;700 metres
-[b]UTC:[/b] +6 - +8 &amp; +10 - +12
+[b]UTC:[/b] +5 - +12
 [b]Dialing Code:[/b] +7[/color]
 
 [color=brown]REGION
