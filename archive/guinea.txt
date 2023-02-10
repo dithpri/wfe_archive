@@ -1,8 +1,10 @@
-[hr][hr][list][color=CC6600][b]Guinea[/b][/color][/list][hr][hr][list][color=006600]Officially called [b]R&eacute;publique de Guin&eacute;e[/b], 
+[color=900009][b]Guinea[/b]
+[/color][color=004d33]
+Officially called [b]R&eacute;publique de Guin&eacute;e[/b], 
 Guinea is a country on the west coast of Africa.
 Formerly called French Guinea (Guin&eacute;e fran&ccedil;aise)
 Sometimes called Guinea-Conakry
-[/color][color=006666]
+[/color][color=00477e]
 FACTS
 [b]Capital:[/b] [region=Conakry]
 [b]Independence:[/b] 2 Oct 1958 (from France)
@@ -10,11 +12,13 @@ FACTS
 [b]Population:[/b] 8,746,128 (81st) 2000 est.
  . . . . . . . . . 11,628,972 (2014 census)
 
-Guinea has 25% of the world&#39;s bauxite reserves[/color][/list][hr][list][color=999900]REGION
+Guinea has 25% of the world&#39;s bauxite reserves
+[/color][color=606000]
+REGION
 [b]Founded:[/b] 2012 Jan 11 (founded by: [nation=short]Guinea State[/nation])
 [b]Matrixed:[/b] 2016 Sep 05 (allowed embassy offers since)
-[b]Featured:[/b] 2020 June 04[/color][color=800030]
-A QSA (Queen&#39;s State Allied) Puppet Storage &amp; Embassy Matrix Region
-a [region=Great Britain and Northern Ireland] and [region=Old Spirit] region
-[/color][color=006600]
-[b]Accepting embassy offers[/b][/color][/list][hr][hr]
+[b]Featured:[/b] 2020 June 04; 2023 Feb 09
+An [region=Ancient Lands] Puppet Storage &amp; Embassy Matrix Region
+a [region=United States of America] and [region=0000] region
+[/color][color=004d33]
+[b]Accepting embassy offers[/b][/color]

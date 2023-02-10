@@ -18,5 +18,5 @@ DEFCON Status:
 
 
 Current WA Vote
-GA: [color=blue]FOR[/color]
-SC: [color=purple]Neutral: vote whatever[/color]
+GA: [color=blue]FOR: This is actually important, vote FOR and urge others to vote FOR.[/color]
+SC: [color=purple]Neutral[/color]
