@@ -1,11 +1,1 @@
-[b][color=#00bb15][i]A small but fierce force reaches your region...[/i][/color]
-
-[color=green]Your region was used for training by the Navy of [region]Ijaka[/region]. Its sacrifice will never be forgotten.[/color]
-
-[color=darkgreen]Ready to be the next one we bring along? [url=https://discord.gg/8qWbXFUMAr]Come join us![/url][/color]
-[hr][color=green][u]Fleet[/u][/color]
-[color=#03a2da]Admiral [nation]Anchorus[/nation][/color]
-[color=#c27c0e]Broccoli Cultist Commander [nation]Jyezet[/nation][/color]
-[color=#00bb15]Recruit [nation]Fienia Sat16[/nation][/color]
-[hr][color=#00bb15][i]Sometimes you got to be there to truly understand it.[/i][/color]
-[/b]
+Hello World!
