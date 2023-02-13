@@ -9,7 +9,7 @@ Brunei ([nation]Brunei-Darussalam-[/nation])
 Cambodia ([nation]Kingdom of Kampuchea[/nation])
 Indonesia ([nation]Pulau Dewata[/nation]) 
 Laos ([nation]Muang Lao[/nation]) 
-Malaysia
+Malaysia ([nation]Simaral[/nation]) [PENDING]
 Myanmar ([nation]Birmah[/nation])
 Philippines ([nation]LasFelipinas[/nation])
 Singapore
