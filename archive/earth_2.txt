@@ -8,16 +8,10 @@ Airdrie Banate
 Canals
 Canada
 Cascadia
+Gwacheon
 Haida
 
 Administrative Cantons:
-
-1AU:
-
-Airdrie Meadows
-Bayside
-Bayspring
-Maguindanao
 
 Cascadia:
 
@@ -33,4 +27,8 @@ AB:
 
 West
 East
-
+Airdrie Meadows
+Bayside
+Bayspring
+Maguindanao
+Korea
