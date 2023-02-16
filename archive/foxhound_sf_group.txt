@@ -1,0 +1,16 @@
+NATO:
+    decreased M67&#39;s accuracy from 40 to 30
+    decreased PIONIER (FLAM.)&#39;s price from 55 to 40
+    increased GAZELLE CANON&#39;s price from 30 to 35
+    increased GAZELLE HOT&#39;s price from 40 to 45
+    increased GAZELLE HOT 2&#39;s price from 50 to 55
+    increased PUMA PIRATE&#39;s price from 30 to 40
+    decreased AMX-30B2&#39;s price from 135 to 130
+    decreased AMX-30B2 BRENUS&#39; price from 175 to 165
+    decreased FV510 WARRIOR MILAN&#39;s price from 45 to 40
+    increased ENGINEERS [FLASH]&#39;s price from 25 to 40
+    increased AB ENGINEERS [FLASH]&#39;s price from 35 to 45
+    increased FIRE TEAM [AT4]&#39;s price from 30 to 35
+    increased AB FIRE TEAM [AT4]&#39;s price from 35 to 40
+    decreased MECH. RIFLES&#39; price from 80 to 75
+    increased AIRBORNE (DRAGON)&#39;s price from 75 to 80
