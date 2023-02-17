@@ -5,7 +5,7 @@ current WA nation: [nation]the afoe 44th regiment[/nation][/color]
 
 [Color=red]Number of active regiments (53)
 
-Number of national guard units (8)
+Number of national guard units (9)
 
 Number of deployed regiments (31)
 
@@ -13,8 +13,8 @@ Foreign regiments (1)
 
 Regions tagged _17_
 
-Regions refounded _10_
+Regions refounded _11_
 
-Regions conquered by afoe forces _4_
+Regions conquered by afoe forces _5_
 
 Regions liberated by afoe forces __[/color]

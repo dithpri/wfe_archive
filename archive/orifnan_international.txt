@@ -18,5 +18,5 @@ DEFCON Status:
 
 
 Current WA Vote
-GA: [color=red]AGAINST: too short. doesn&#39;t explain enough[/color]
-SC: [color=purple]Neutral[/color]
+GA: [color=blue]FOR[/color]
+SC: [color=black]N/A[/color]

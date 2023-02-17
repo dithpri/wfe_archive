@@ -13,4 +13,6 @@ Colony [region]World region[/region] protected by [nation]Eisbutchian 3rd nation
 
 Colony [region]a g o e o t b r[/region] protected by [nation]Eisbutchian 4th national guard[/nation] 
 
-colony [region]United Of MilkyZzz[/region] protected by [nation]Eisbutchian 5th national guard[/nation][/color]
+colony [region]United Of MilkyZzz[/region] protected by [nation]Eisbutchian 5th national guard[/nation]
+
+colony [region]greatest german reich[/region] proteceted by [nation]Eisbutchian 6th national guard[/nation][/color]
