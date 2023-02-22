@@ -1,7 +1,3 @@
-Anything that needs to be done for OrangeJuice
-
-Changes from the actual region:
-
 Flag:
 Changed into a logo instead of a flag.
 The image is the same.
@@ -9,3 +5,5 @@ The image is the same.
 Banner:
 The image changed into an action shot of orange juice.
 May make a custom banner in the future.
+
+[color=darkorange]Welcome to [region]OrangeJuice Test Region[/region]! Now that you&#39;re here, join in the cheer! Not much to see, please don&#39;t pester me. This region is for tests, and I don&#39;t want to clean up a mess. Now this paragraph&#39;s coming to an end, so go back to your friends (in [region]OrangeJuice[/region]).[/color]
