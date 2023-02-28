@@ -11,11 +11,18 @@ R- [nation]Rairlospolia[/nation]
 
 [b] Security Council of the Union[/b]
 [hr]
-General-[nation]Awhal[/nation]
-Admiral- [nation]Theptopia[/nation]
-Chief of Air Force-  [nation]Zedland[/nation]
-Vice-General- [nation]Bluviania[/nation]
-Logistics Officer-[nation]Habiese Danyanispacordia[/nation]
+[i]President of Security Council- [/i][nation]Awhal[/nation] 
+
+Permanent Members
+[nation]Theptopia[/nation]
+[nation]Bluviania[/nation]
+[nation]Awhal[/nation]
+[nation]Rairlospolia[/nation]
+
+Elected Members 
+[nation]Zedland[/nation]
+[nation]Habiese Danyanispacordia[/nation]
+[nation]Charakha[/nation]
 
 [b]Regional Ambassadors[/b]
 Johnson-Walsh: [nation]Awhal[/nation]
