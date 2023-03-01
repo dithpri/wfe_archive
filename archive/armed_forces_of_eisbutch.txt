@@ -5,7 +5,7 @@ current WA nation: [nation]furry knight[/nation][/color]
 
 [Color=red]Number of active regiments (53)
 
-Number of national guard units (9)
+Number of national guard units (10)
 
 Number of deployed regiments (31)
 
@@ -13,8 +13,8 @@ Foreign regiments (2)
 
 Regions tagged _17_
 
-Regions refounded _12_
+Regions refounded _14_
 
-Regions conquered by afoe forces _7_
+Regions conquered by afoe forces _9_
 
 Regions liberated by afoe forces _1_[/color]
