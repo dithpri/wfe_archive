@@ -1,9 +1,19 @@
-Flag:
-Changed into a logo instead of a flag.
+[color=darkorange]Welcome to [region]OrangeJuice Test Region[/region]![/color]
+
+[color=orange]Now that you&#39;re here,[/color]
+[color=darkorange]Join in the cheer![/color]
+[color=orange]Not much to see,[/color]
+[color=darkorange]Please don&#39;t pester me.[/color]
+
+[color=orange]This region is for tests,[/color]
+[color=darkorange]And I don&#39;t want to clean up a mess.[/color]
+[color=orange]Now this poem&#39;s coming to an end,[/color]
+[color=darkorange]So go back to your friends (in [region]OrangeJuice[/region]).[/color]
+[hr]
+[b]Flag:[/b]
+Changed into a [i]logo[/i] instead of a [i]flag[/i].
 The image is the same.
 
-Banner:
-The image changed into an action shot of orange juice.
+[b]Banner:[/b]
+The image changed into an action shot of orange juice. (action shot of orange juice. ACTION SHOT OF ORANGE JUICE.)
 May make a custom banner in the future.
-
-[color=darkorange]Welcome to [region]OrangeJuice Test Region[/region]! Now that you&#39;re here, join in the cheer! Not much to see, please don&#39;t pester me. This region is for tests, and I don&#39;t want to clean up a mess. Now this paragraph&#39;s coming to an end, so go back to your friends (in [region]OrangeJuice[/region]).[/color]
