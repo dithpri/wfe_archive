@@ -1,6 +1,6 @@
 Code [color=red]Red[/color] REGION CANNOT BE INHABITTED
-Code [Color=orange][b]Orange[/b][/color] REGION IN LOCKDOWN
-Code [Color=Yellow]Yellow[/color] Region in possible lockdown
+Code [Color=orange]Orange[/color] REGION IN LOCKDOWN
+Code [Color=Yellow][b]Yellow[/b][/color] Region in possible lockdown
 Code [cOloR=gReEn]Green[/color] Region is safe
 
 
