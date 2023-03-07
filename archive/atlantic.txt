@@ -7,5 +7,5 @@
 
 [i]Something is coming . . .[/i]
 
-[b]DEFCON:[/b] 5
+[color=blue][b]DEFCON:[/b] 4[/color]
 [b]HPCON:[/b] Zero

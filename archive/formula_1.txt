@@ -1,23 +1,31 @@
-454 Verstappen - [nation]R e d B u l l[/nation]
-308 Leclerc - [nation]F e r r a r i[/nation]
-305 Perez - [nation]R e d B u l l[/nation]
-275 Russell - [nation]M e r c e d e s[/nation]
-246 Sainz - [nation]F e r r a r i[/nation]
-240 Hamilton - [nation]M e r c e d e s[/nation]
-122 Norris - [nation]M c L a r e n[/nation]
-092 Ocon - [nation]A l p i n e[/nation]
-081 Alonso - [nation]A l p i n e[/nation]
-049 Bottas - [nation]A l f a R o m e o[/nation]
-037 Ricciardo - [nation]M c L a r e n[/nation]
-037 Vettel - [nation]A s t o n M a r t i n[/nation]
-025 Magnussen - [nation]H a a s[/nation]
-023 Gasly - [nation]A l p h a T a u r i[/nation]
-018 Stroll - [nation]A s t o n M a r t i n[/nation]
-012 Schumacher - [nation]H a a s[/nation]
-012 Tsunoda - [nation]A l p h a T a u r i[/nation]
-006 Zhou - [nation]A l f a R o m e o[/nation]
-004 Albon - [nation]W i l l i a m s[/nation]
-002 Latifi - [nation]W i l l i a m s[/nation]
-002 de Vries - [nation]W i l l i a m s[/nation]
-000 H&uuml;lkenberg - [nation]A s t o n M a r t i n[/nation]
+025 Verstappen - [nation]R e d B u l l[/nation]
+018 Perez - [nation]R e d B u l l[/nation]
+015 Alonso - [nation]A s t o n M a r t i n[/nation]
+012 Sainz - [nation]F e r r a r i[/nation]
+010 Hamilton - [nation]M e r c e d e s[/nation]
+008 Stroll - [nation]A s t o n M a r t i n[/nation]
+006 Russell - [nation]M e r c e d e s[/nation]
+004 Bottas - [nation]A l f a R o m e o[/nation]
+002 Gasly - [nation]A l p i n e[/nation]
+001 Albon - [nation]W i l l i a m s[/nation]
+000 Tsunoda - [nation]A l p h a T a u r i[/nation]
+000 Sargeant - [nation]W i l l i a m s[/nation]
+000 Magnussen - [nation]H a a s[/nation]
+000 de Vries - [nation]A l p h a T a u r i[/nation]
+000 H&uuml;lkenberg - [nation]H a a s[/nation]
+000 Zhou - [nation]A l f a R o m e o[/nation]
+000 Norris - [nation]M c L a r e n[/nation]
+000 Ocon - [nation]A l p i n e[/nation]
+000 Leclerc - [nation]F e r r a r i[/nation]
+000 Piastri - [nation]M c L a r e n[/nation]
+
+
+
+
+
+
+
+
+
+
 
