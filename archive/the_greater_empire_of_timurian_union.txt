@@ -1,14 +1,9 @@
-.
-The region [region]The Greater Empire of Timurian Union[/region] was founded by [nation]Timurian Union[/nation], this region is home of the Timurian States in the world
+The region [region]The Greater Empire of Timurian Union[/region] was founded by [nation=long]Timurian Union[/nation], this region is home of the Timurian States in the world
 
-Only 1 legal embassy is acceptable, the others are support embassies
-
-Legal Embassy:(no embassies yet)
+Official Embassy:[region]Southern Alliance Treaty Organization[/region]
 
 Support Embassies:[region]Letters and spaces[/region]
 
 To see The Greater Empire of Timurian Union history, clickin the dispatch below   7     |
                                                 /       |
                                               V       V
-                        |
-                       V
