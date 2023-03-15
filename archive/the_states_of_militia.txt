@@ -1,1 +1,7 @@
-PLACEHOLDER
+This Is Data That Is Edited And Maintained.
+[url=https://drive.google.com/drive/folders/1QK0HCM6MTwQ1sYt-nlFoTkOXzmzo8DOA?usp=sharing] [i][b]Region Data[/b][/i] [/url]
+[u]More Than One Country Is Allowed But The Type Of Government Is What Its Choices Are.[/u]
+Equations:
+Military Efficiency: Defence Forces + Arms Manufacturing - (Corruption * 100)&#39; Below 5000 Poor - 5000-6000 Decent - 7000-8000 Good - 9000-10000 and above Superior
+Amount Of Soldiers: Population / Defence Forces - Remove Decimals&#39;
+Government Stability: Political Freedom + Civil Rights - Corruption&#39;  Below Or Equal 20 Unstable - 21-30 Neutral - 31-40 Good - 50 Or Above Stable
