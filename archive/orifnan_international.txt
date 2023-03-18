@@ -17,6 +17,10 @@ DEFCON Status:
 [b][color=teal]We collect embassies![/color][/b]
 
 
-Current WA Votes
-General Assembly: [color=red]AGAINST[/color]
-Security Council: [color=blue]FOR[/color]
+[i][b]Current WA Votes[/b][/i]
+
+General Assembly:
+[color=blue]FOR[/color]
+
+Security Council: 
+[color=blue]FOR[/color]
