@@ -1,4 +1,6 @@
-[color=yellow]Ulster - Northern Ireland[/color]
+Is this region part of the United Kingdom?
+Is it a province of Ireland?
+Is it independent?
 
-[color=red]Northern Ireland is the northern part of the island of Ireland, specifically six counties. It is politically, ethnically and religiously separate from its southern neighbor, the Republic of Ireland. The citizens of Northern Ireland have always wished to stay part of the UK, not wishing to join the Catholic Republic of Ireland. [/color]
-[color=blue]After the Troubles, a bloody conflict fought between Nationalists, Loyalists and the British Army, resentment still runs high, especially along religious lines, but the land of Ulster is now peaceful, mostly thanks to the rock group &quot;The Cranberries&quot; and the song &quot;Zombie&quot; which is credited with waking both sides up to the never ending foolishness of their fighting.[/color]
+Neither.
+It is property of [region]More Peace Less War[/region]
