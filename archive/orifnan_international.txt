@@ -20,7 +20,7 @@ DEFCON Status:
 [i][b]Current WA Votes[/b][/i]
 
 General Assembly:
-[color=blue]FOR[/color]
+[color=red]AGAINST[/color]
 
 Security Council: 
 [color=blue]FOR[/color]
