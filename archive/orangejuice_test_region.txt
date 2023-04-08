@@ -9,6 +9,10 @@
 [color=darkorange]And I don&#39;t want to clean up a mess.[/color]
 [color=orange]Now this poem&#39;s coming to an end,[/color]
 [color=darkorange]So go back to your friends (in [region]OrangeJuice[/region]).[/color]
+[hr]That poem is a relic of a time gone by.
+A time where a few friends talked,
+And lots of others sigh,
+That poem is a relic of a time gone by.
 [hr]
 [b]Flag:[/b]
 Changed into a [i]logo[/i] instead of a [i]flag[/i].

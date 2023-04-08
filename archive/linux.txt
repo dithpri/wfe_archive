@@ -3,3 +3,7 @@ Base for the various Tux Warriors I&#39;ve created to establish regions with bad
 Affiliated Regions:
 [region]KKK[/region]
 [region]Confederates[/region]
+[region]Antigay[/region]
+[region]Anti Gay[/region]
+[region]Antisemites[/region]
+[region]Boogaloo[/region]
