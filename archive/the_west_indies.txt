@@ -1,7 +1,1 @@
-[hr][hr][hr][list][list][color=navy][b]The West Indies[/b][/list][/list][hr][hr][hr]
-an associated region with [region=West Indies][/color]
-
-[color=teal][b]Countries and Territories:[/b][list]
-[region=Anguilla], [region=Aruba], [region=Antigua and Barbuda], [region=Bahamas], [region=Barbados], [region=Bonaire], [region=British Virgin Islands], [region=Cayman Islands], [region=Cuba], [region=Curacao], [region=Dominica], [region=Dominican Republic], [region=Grenada], [region=Guadeloupe], [region=Haiti], [region=Jamaica], [region=Martinique], [region=Montserrat], [region=Puerto Rico], [region=Saint Barthelemy], [region=Saint Kitts and Nevis], [region=Saint Lucia], [region=Saint Martin], [region=Saint Vincent and the Grenadines], [region=Trinidad and Tobago], [region=Turks and Caicos Islands], [region=United States Virgin Islands].
-Sometimes includes [region=Belize] and [region=Guyana][/list]
-[b]Largest Cities:[/b][list][region=Havana], [region=Santo Domingo], [region=Port au Prince], [region=Santiago de los Caballeros], [region=Kingston], [region=Santiago de Cuba], [region=San Juan], [region=Holguin], [region=Fort de France] and [region=Port of Spain][/list][/color]
+Welcome

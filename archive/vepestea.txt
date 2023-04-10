@@ -5,13 +5,14 @@ The capital of Vepestea, being city-state Vepestea.
 [b]Council of Nations (CN):[/b]
 Froscheland
 New Cromania
-Nexenia - [i]Vice Chancellor[/I]
-Okogana
-Soritania - [i]Chancellor[/I]
-Vepestea - [i]Council Director[/I]
-
-[b]International Trade Organization (ITO):[/b]
-Froscheland
-Durokistan
 Nexenia
 Okogana
+Soritania
+Vepestea
+
+[b]International Trade Organization (ITO):[/b]
+Durokistan
+Froscheland
+Nexenia
+Okogana
+Soritania
