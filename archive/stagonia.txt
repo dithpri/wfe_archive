@@ -1,3 +1,7 @@
-Unofficial region for a certain discord. 
+Unofficial region for a certain discord.
 
+[nation]OldGrind[/nation] = GetInside 
+[nation]Lady Child Time[/nation] = Zoolander
+[nation]Old Texas[/nation] = Forsaken
+[nation]The Mercian Territories[/nation] = Green Raccoon
 Map: https://www.pngmart.com/image/24892/png/24891
