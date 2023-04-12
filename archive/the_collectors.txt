@@ -3,8 +3,8 @@
 [b]Regions:
 [region]The Dumpfire[/region]
 [region]UnitedLeague[/region]
-[region]Letters and Spaces[/region]
-[region]Connections[/region]
+[region]Letters and Spaces[/region][/b] (no longer; the founder CTE and the region was raided)
+[b][region]Connections[/region]
 [region]Hurricane[/region][/b]
 
 [i]Extensions:

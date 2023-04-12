@@ -7,4 +7,6 @@ Department [region]ARMED FORCES OF EISBUTCH[/region] lead by [nation]The AFOE 10
 
 Department [region]ISDE[/region] lead by [nation]The hand of the 0-2[/nation]
 
-Home region: [region]The Eternal Order[/region] lord [nation]United villages of eisbutch[/nation][/color]
+Home region: [region]The Eternal Order[/region] lord [nation]United villages of eisbutch[/nation]
+
+Member of: [region]NationStates Anti Fascist Compact[/region] representing [nation]Furry lord[/nation][/color]
