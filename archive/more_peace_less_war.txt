@@ -1,8 +1,8 @@
 [i]Welcome!
 Nations and embassies accepted.[/i]
 
-Allied with [region]The Domain of Plutocracy[/region], [region]The Beforelife[/region] and [region]URIAL Union of South American Empires[/region]
-Embassy Count: [b]73[/b]
-Flag raised: [b]Isle of Man[/b]
+Allied with [region]The Domain of Plutocracy[/region] and [region]The Beforelife[/region]
+Embassy Count: [b]74[/b]
+Flag raised: [b]United Kingdom[/b]
 
-[nation]COLDBAR[/nation] Defense Forces: 10,410 / Deck Value: 21.36
+[nation]COLDBAR[/nation] Defense Forces: 10,424 / Deck Value: 21.13
