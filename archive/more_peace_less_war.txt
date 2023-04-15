@@ -2,7 +2,19 @@
 Nations and embassies accepted.[/i]
 
 Allied with [region]The Domain of Plutocracy[/region] and [region]The Beforelife[/region]
-Embassy Count: [b]74[/b]
-Flag raised: [b]United Kingdom[/b]
+Embassy Count: [b]79[/b]
+Flag raised: [b]United States[/b]
 
-[nation]COLDBAR[/nation] Defense Forces: 10,424 / Deck Value: 21.13
+[nation]COLDBAR[/nation]
+Defense Forces: 10,930
+Colonial Forces: 12,347
+Deck Value: 22.03
+
+[u]International Empire[/u]
+[region]Ulster[/region]
+[region]South Europe[/region]
+[region]Greater Giggity[/region]
+[region]The 5 Kingdoms[/region]
+[region]Free At Last[/region]
+[region]Pacific Ocean Union[/region]
+[region]URIAL Union of South American Empires[/region]
