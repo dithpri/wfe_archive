@@ -1,1 +1,8 @@
-We are the junimos, Keepers of the forest. 
+&quot;[i]They call themselves the Junimos...
+Mysterious spirits, these ones.
+I&#39;m not sure why they&#39;ve moved into your region, but you have no reason to fear them.[/i]&quot;
+ - [nation]Rasmodius[/nation], Wizard of the Valley
+
+&quot;[i]We are the Junimos. Keepers of the Forest.
+We are happy to aid you, if you are one with the Forest.[/i]&quot;
+- [nation]Junimos[/nation], Keepers of the Forest
