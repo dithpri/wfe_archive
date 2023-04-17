@@ -2,13 +2,13 @@
 Nations and embassies accepted.[/i]
 
 Allied with [region]The Domain of Plutocracy[/region] and [region]The Beforelife[/region]
-Embassy Count: [b]79[/b]
-Flag raised: [b]United States[/b]
+Embassy Count: [b]83[/b]
+Flag raised: [b]Canada[/b]
 
 [nation]COLDBAR[/nation]
-Defense Forces: 10,930
-Colonial Forces: 12,347
-Deck Value: 22.03
+Defense Forces: 11,556
+Colonial Forces: 11,858
+Deck Value: 25.30
 
 [u]International Empire[/u]
 [region]Ulster[/region]
