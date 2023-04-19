@@ -2,20 +2,20 @@
 Nations and embassies accepted.[/i]
 
 Allied with [region]The Domain of Plutocracy[/region] and [region]The Beforelife[/region]
-Embassy Count: [b]83[/b]
-Flag raised: [b]Canada[/b]
+Embassy Count: [b]87[/b]
+Flag raised: [b]Australia[/b]
 
 [nation]COLDBAR[/nation]
-Defense Forces: 11,556
-Colonial Forces: 11,858
-Deck Value: 25.30
+Defense Forces: 11,767
+Colonial Forces: 13,554
+Deck Value: 55.92
 
 [u]International Empire[/u]
+[region]URIAL Union of South American Empires[/region]
 [region]Ulster[/region]
 [region]South Europe[/region]
 [region]Greater Giggity[/region]
 [region]The 5 Kingdoms[/region]
 [region]Free At Last[/region]
 [region]Pacific Ocean Union[/region]
-[region]URIAL Union of South American Empires[/region]
 [region]LGBT Paradise[/region]
