@@ -1,7 +1,8 @@
-[b]The Confederation of Skaavic States[/b] is a union between the Skaavic nations.
+[b]The Confederation of Skaavic States[/b] is a nonbinding union between the Skaavic nations.
 
-Founder: [nation]Bulshkaav[/nation]
-Co-Founder: [nation]Free Saystia[/nation]
-Delegate: [nation]Reddingrad[/nation]
-Vice-Delegate(s): [nation]United Trocia Priestaulcurs[/nation], [nation]Joemomahoe[/nation]
-Officer(s): [nation]New Volengrad[/nation], [nation]Austria und Germany[/nation], [nation]The United Prefectures of Japanada[/nation], [nation]Sierra Mephisto[/nation]
+[b]At war with [region]The Congress of Skaavic Revolutionaries[/region][/b]
+
+The Pillars: [nation]Bulshkaav[/nation], [nation]Free Saystia[/nation], [nation]New Artyosk and Zyblut[/nation]
+Delegate: 
+Vice-Delegate(s): [nation]United Trocia Priestaulcurs[/nation], [nation]Dazhen[/nation]
+Officer(s): [nation]New Volengrad[/nation], [nation]Austria und Germany[/nation], [nation]Sierra Mephisto[/nation]
