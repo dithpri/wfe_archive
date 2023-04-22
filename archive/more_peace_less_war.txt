@@ -1,14 +1,14 @@
 [i]Welcome!
 Nations and embassies accepted.[/i]
 
-Allied with [region]The Domain of Plutocracy[/region] and [region]The Beforelife[/region]
-Embassy Count: [b]87[/b]
-Flag raised: [b]Australia[/b]
+Allied with [region]Lausania[/region] and [region]The Beforelife[/region]
+Embassy Count: [b]96[/b]
+Flag raised: [b]Ireland[/b]
 
 [nation]COLDBAR[/nation]
-Defense Forces: 11,767
-Colonial Forces: 13,554
-Deck Value: 55.92
+Defense Forces: 11,787
+Colonial Forces: 18,853
+Deck Value: 60.57
 
 [u]International Empire[/u]
 [region]URIAL Union of South American Empires[/region]
