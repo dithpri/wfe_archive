@@ -1,1 +1,19 @@
-The Mongol Alliance is the modern heir to the ancient Mongol Empire. 
+Standing forever beneath the eternal blue sky, the Mongol Alliance is the modern heir to the ancient Mongol Empire. Uniting the Russians, Chinese, Mongols, and Turks, the Mongol states and their allies cover 20% of the world and a majority of Eurasia.
+
+[b]Allied Nations[/b]
+[nation]Mongol Uls[/nation]
+[nation]Gurkaniyan[/nation]
+[nation]The 2nd Golden Horde[/nation]
+[nation]Kharkorin[/nation]
+
+[b]Allied Regions[/b]
+[region]Russia SSR[/region] (pending)
+[region]Chinese People Liberation Army[/region] (pending)
+[region]Turkic Union[/region] (pending)
+
+[b]Leadership[/b]
+Khan of All Mongolia: HM Manduul Temujin
+Chairman of the High Committee: Etsegh-ek Toriin
+Titular Great Yuan: Cmdr. Erdene Hunnu
+Titular Chagatai Khan: Amir Muhammad Akbar II
+Basqaq of the Imperial City: Ilkha Maral
