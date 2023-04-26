@@ -1,7 +1,6 @@
 [color=red][b]Central government offices of[/color][/b] [url=nationstates.net/improper_classifications][color=orange][u][b]Improper Classifications[/b][/u][/color][/url]
 [color=red]This area acts as a hub of operations for the government of Improper Classifications and various related entities. No embassies will be created with unaffiliated regions.[/color]
-[i][color=orange]Active departments:[/i]
-[region]Improper Classifications Private Region[/region], a general embassy hub
-[region]Heraldry of the Gods[/region], late-updating puppet storage
-[region]IMPC Armed Forces Legion[/region], hub for armed forces divisions
-[region]IMPC Refound Division[/region], hub for refounders[/color]
+[i][color=orange]Active departments and deployments:[/i]
+[region]Heraldry of the Gods[/region] - Armed forces deployments (protected by [nation]Improper Founder Account[/nation])
+[region]The Eternal Order[/region] - [nation]Improper Classifications[/nation] holds Scribe position
+[/color]
