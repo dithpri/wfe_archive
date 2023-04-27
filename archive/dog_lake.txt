@@ -7,9 +7,11 @@ CARETAKER:[/b] [nation=short]Dog Lake[/nation]
 thanks [region=Texas]
 includes Embassy Oracle Tool 
 &amp; Dossier Search Tools[/color][/td][td][color=004d33][b]Founded:[/b] 2022 Mar 11
+[b]Featured:[/b] 2023 Apr 26
 [b]Associated with:[/b]
 - [region=0000] - [region=Ancient Lands] - [region=The Central Pacific] -
 - [region=Union of Great Britain] - [region=United States of America] -
 - [region=Westminster] - [/color][/td][/tr][/table]
-[table][tr][td][color=005bbb][b]Region Policy:[/b][/color][/td][/tr][tr][td][color=00477e]an [region=Ancient Lands] Home Region (MIN POP set to 38 B)[/color][color=green]
+[table][tr][td][color=005bbb][b]Region Policy:[/b][/color][/td][/tr][tr][td][color=00477e]an [region=Ancient Lands] Home Region
+[/color][color=green]
 Embassy Offers Accepted[/color][/td][/tr][/table]
