@@ -2,13 +2,12 @@
 Nations and embassies accepted.[/i]
 
 Allied with [region]Lausania[/region] and [region]The Beforelife[/region]
-Embassy Count: [b]105[/b]
-Flag raised: [b]New Zealand[/b]
+Embassy Count: [b]114[/b]
+Flag raised: [b]Trinidad and Tobago[/b]
 
 [nation]COLDBAR[/nation]
-Defense Forces: 12,421
-Colonial Forces: 19,189
-Deck Value: 63.97
+Defense Forces: 12,987
+Deck Value: 65.92
 
 [u]International Empire[/u]
 [region]URIAL Union of South American Empires[/region]

@@ -1,5 +1,5 @@
-[i][b][color=olivedrab]Welcome to [region]The Apolean Frontiers[/region]! 
-Flourishing in the Fields of Life.[/color][/b][/i]
+[b][color=olivedrab]Welcome to [region]The Apolean Frontiers[/region]! 
+//[i]It&#39;s got what plants crave!//[/i][/color][/b]
 
 [color=grey]New Nations: You can disable recruitment telegrams in settings. Prolonged inactivity may be cause for ejection.[/color]
 
