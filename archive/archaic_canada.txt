@@ -1,1 +1,5 @@
-Colony of [region=Archai]
+[b]Colony of [region=Archai][/b]
+[hr]
+[b][i]Colonial Goals:[/i][/b]
+[list][i]-Become a frontier
+-Recruit more colonisers[/i]
