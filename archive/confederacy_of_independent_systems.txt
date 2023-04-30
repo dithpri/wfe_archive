@@ -8,10 +8,8 @@ The CIS was formed by a band of Separatists and buisnesses who wished to be free
 [list][*][b]Head of State:[/b] [nation]Separatists[/nation]
 [*][b]Count:[/b] [nation]Galactic Confederation[/nation][/list]
 [hr][u][color=goldenrod][b]Separatist Council:[/b][/color][/u]
-[list][*][nation]Chezcistan[/nation]
-[*][nation]Confederacy of separatist alliance[/nation]
-[*][nation]Greater Serenno[/nation]
-[*][nation]TheTradeFederation[/nation][/list]
+[list][*][nation]Confederacy of separatist alliance[/nation]
+[*][nation]Nyoskova[/nation][/list]
 
 [hr][u][b][color=navy]Resources[/color][/b][/u]
 [list][*][url=https://www.youtube.com/watch?v=nPn_q0J9pds][b]Galactic Radio[/b][/url]
