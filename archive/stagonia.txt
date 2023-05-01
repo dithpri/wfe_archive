@@ -5,6 +5,7 @@ Unofficial region for a certain discord.
 [nation]Old Texas[/nation] = Forsaken
 [nation]The Mercian Territories[/nation] = Green Raccoon
 [nation]Vayghr[/nation] = Yaoi
+[nation]Dixieana[/nation] = Krauser
 
 OTHER NATIONS TBD
 

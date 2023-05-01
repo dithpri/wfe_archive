@@ -7,9 +7,9 @@ Standing forever beneath the eternal blue sky, the Mongol Alliance is the modern
 [nation]Kharkorin[/nation]
 
 [b]Allied Regions[/b]
-[region]Russia SSR[/region] (pending)
-[region]Chinese People Liberation Army[/region] (pending)
-[region]Turkic Union[/region] (pending)
+[region]Russia SSR[/region]
+[region]Chinese People Liberation Army[/region]
+[region]Turkic Union[/region]
 
 [b]Leadership[/b]
 Titular Khan of All Mongolia: HM Manduul Temujin
