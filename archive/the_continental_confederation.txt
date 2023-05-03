@@ -6,7 +6,7 @@ This is the region that cares for member nations. We are a peaceful and helping 
 
 Commandant: [nation]The Spanish Coast[/nation]
 Delegate: [nation]The Spanish Coast[/nation]
-Chancellor: [nation]Plains of Glistening Gold[/nation]
+Chancellor: [nation]Dawlat Jabalia[/nation]
 Elder: [nation]Xydania[/nation]
 [color=purple][u]1 PSC year = 1 CE month[/u][/color]
 [b]
