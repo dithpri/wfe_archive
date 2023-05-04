@@ -1,12 +1,14 @@
-[b][color=olivedrab]Welcome to [region]The Apolean Frontiers[/region]! 
-[i]&quot;Growth Anew, be it Far or Few.&quot;[/i][/color][/b]
+[b][color=olive]Welcome to [region]The Apolean Frontiers[/region]! 
+[i]&quot;Sweet as Grass and Grows as Fast.&quot;[/i][/color][/b]
 
-[color=grey]New Nations: You can disable recruitment telegrams in settings. Prolonged inactivity may be cause for ejection.[/color]
+[hr][color=grey]&#149; New Nations: You can disable recruitment telegrams in settings. Prolonged inactivity may be cause for ejection.[/color]
 
-Please endorse World Assembly Delegate [nation]Catlibia[/nation]! endorsement limits are currently as follows:
+[color=olive]&#149; Think you know how to improve the region? Apply to join the Regional Government today![/color]
+[hr]
+Endorse World Assembly Delegate [nation]Catlibia[/nation]!
 
-[color=green][u][b]5[/b][/u][/color] If endorsing the legal World Assembly Delegate
-[color=red][u][b]1[/b][/u][/color] If [u][b]not[/b][/u] endorsing the legal World Assembly Delegate
+Limit of [color=green][u][b]5[/b][/u][/color] endorsements if endorsing the WA Delegate
+Limit of [color=red][u][b]1[/b][/u][/color] endorsement otherwise;
 
 World Assembly Vote Recommendations
 
