@@ -1,6 +1,1 @@
-For instances where I include (if applicable), you may either provide the applicable data or remove the item it refers to. For the population, area, GDP, and time zone tables, remove the accompanying data insert from the other cell.
-
-For the Government table, when referring to &quot;As their Title&quot;, this means using &quot;President&quot; or &quot;Monarch&quot; or whatever other official title is attached to their role in the government.
-
-Short Code refers to your nation&#39;s LinkISO 3166 Code, the two (or in some cases, three) character code for the quick reference of your nation. This code is also used as the basis of your nation&#39;s internet top-level domain code (eg. .uk, .ru,. .eu) and your nation&#39;s ISO-4217 currency code (eg. USD, GBP, EUR).
-
+We are revolts from the region of quagmire giggity goblin because the governor sucked so we created this bigger and better region.

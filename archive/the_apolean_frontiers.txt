@@ -1,16 +1,12 @@
 [b][color=olive]Welcome to [region]The Apolean Frontiers[/region]! 
 [i]&quot;Sweet as Grass and Grows as Fast.&quot;[/i][/color][/b]
 
-[hr][color=grey]&#149; New Nations: You can disable recruitment telegrams in settings. Prolonged inactivity may be cause for ejection.[/color]
-
-[color=olive]&#149; Think you know how to improve the region? Apply to join the Regional Government today![/color]
+[hr][color=grey]Read the pinned factbooks and bulletins![/color] [b][color=grey]|[/color][/b] [color=olive]Think you know how to improve the region? Apply to join the Regional Government today![/color]
 [hr]
 Endorse World Assembly Delegate [nation]Catlibia[/nation]!
-
-Limit of [color=green][u][b]5[/b][/u][/color] endorsements if endorsing the WA Delegate
-Limit of [color=red][u][b]1[/b][/u][/color] endorsement otherwise;
+Endorsement Limitations: | [color=blue][u][b]5[/b][/u] Endorsing the WA Delegate[/color] | [color=darkblue][u][b]1[/b][/u] Everyone Else[/color]
 
 World Assembly Vote Recommendations
 
-General Assembly &amp;#9878;: Protecting World Assembly Neutrality &amp;#8594; [color=red][b]AGAINST[/b][/color]
-Security Council &amp;#9876;: Commend Lethen &amp;#8594; [color=green][b]FOR[/b][/color]
+[color=darkblue]General Assembly &amp;#9878;: Medical Standards[/color] &amp;#8594; [color=green][b]FOR[/b][/color]
+[color=darkred]Security Council &amp;#9876;: Commend Shizensky Prime[/color] &amp;#8594; [color=green][b]FOR[/b][/color]
