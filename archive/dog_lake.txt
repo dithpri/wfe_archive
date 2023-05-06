@@ -13,5 +13,6 @@ includes Embassy Oracle Tool
 - [region=Union of Great Britain] - [region=United States of America] -
 - [region=Westminster] - [/color][/td][/tr][/table]
 [table][tr][td][color=005bbb][b]Region Policy:[/b][/color][/td][/tr][tr][td][color=00477e]an [region=Ancient Lands] Home Region
+Minimum Nation Population: 39.5 billion (soon)
 [/color][color=green]
 Embassy Offers Accepted[/color][/td][/tr][/table]
