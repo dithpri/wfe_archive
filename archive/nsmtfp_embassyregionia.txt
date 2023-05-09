@@ -3,7 +3,7 @@
 FACTS
 A NSMTFP Puppet
 Capital: NSMTFP City
-Embassys: 0
-Goal: 300
+Embassys: 6
+Goal: 100
 
 [colour=blue]Embassy Offers Accepted[/colour]
