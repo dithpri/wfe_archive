@@ -24,3 +24,4 @@ Deck Value: 123.40
 [region]United Federal Empire[/region]
 [region]New Europa[/region]
 [region]The Japanese Imperium[/region]
+[region]Guardians of Democracy[/region]
