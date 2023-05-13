@@ -5,12 +5,12 @@ Nations and embassies accepted.
 Officer roles open for residents and allies.[/i]
 
 Allied with [region]The Embassy 3[/region], [region]Lausania[/region] and [region]The Beforelife[/region]
-Embassy Count: [b]130[/b]
-Flag raised: [b]Saint Kitts and Nevis[/b]
+Embassy Count: [b]136[/b]
+Flag raised: [b]Antigua and Barbuda[/b]
 
 [nation]COLDBAR[/nation]
-Defense Forces: 13,997
-Deck Value: 123.40
+Defense Forces: 14,097
+Deck Value: 125.40
 
 [u]International Empire[/u]
 [region]Ulster[/region]
@@ -25,3 +25,4 @@ Deck Value: 123.40
 [region]New Europa[/region]
 [region]The Japanese Imperium[/region]
 [region]Guardians of Democracy[/region]
+[region]The Local Group[/region]
