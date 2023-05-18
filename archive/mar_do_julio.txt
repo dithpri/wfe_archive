@@ -8,6 +8,6 @@ Prazo pro fim da obra: ( 20/05/2023)
 
 &#149;bloco econ&ocirc;mico regional
 1)[nation]Enets[/nation] =6(trilh&otilde;es)
-2)[nation]Julio azevedo[/nation]=1,184(bilh&otilde;es)
+2)[nation]Julio azevedo[/nation]=1,184(trilh&otilde;es)
 3)[nation]Leoes Cariocas[/nation]=581(bilh&otilde;es)
 [Nation]rocinha[/nation]=369(bilh&otilde;es)
