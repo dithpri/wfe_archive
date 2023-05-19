@@ -1,4 +1,4 @@
-Speaker of the Bongian Senate: [nation]Senator TRS[/nation]
+[color=#000080][b] Speaker of the Bongian Senate: [nation]Senator TRS[/nation]
 President of the Senate &amp; VP of the United Bongo States of America:[nation]PM Rishi Sunak[/nation]
 President of the [nation]United Bongo States of America[/nation]: President Rise
 Majority of the Senate: [region]United Christian Union of Bongos[/region]
@@ -7,3 +7,5 @@ Chairwoman of [region]Brothers of God Conservative Party[/region]: [nation]Bongo
 Chairman of [region]United Christian Union of Bongos[/region]: [nation]United Bongo States of America[/nation]
 &amp;#9878;&amp;#65039;&amp;#128203;&amp;#128395; 
 The Official Bongian Senate is a major government organization in which senators and representatives vote on [region]The Bongos[/region] laws, the international laws, proposed things by the President and does impeachments.
+
+[/color][/b]
