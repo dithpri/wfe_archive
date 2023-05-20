@@ -2,6 +2,6 @@
 [/color][color=7e7e00]
 REGION
 [b]Founding:[/b] 2023 Apr 30
-an [region=Ancient Lands] puppet storage region
+a [region=0000]/[region=Ancient Lands]/[region=United States of America] Colony
 [/color][color=004d33]
 [b]Embassy Offers Accepted[/b][/color]
