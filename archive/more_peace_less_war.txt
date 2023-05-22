@@ -9,8 +9,8 @@ Embassy Count: [b]161[/b]
 Flag raised: [b]Saint Vincent and The Grenadines[/b]
 
 [nation]COLDBAR[/nation]
-Defense Forces: 15,516
-Deck Value: 128.50
+Defense Forces: 15,026
+Deck Value: 130.40
 
 [u]International Empire[/u]
 [region]Ulster[/region]
