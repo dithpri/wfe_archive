@@ -25,3 +25,4 @@ Deck Value: 130.40
 [region]The Japanese Imperium[/region]
 [region]Guardians of Democracy[/region]
 [region]The Local Group[/region]
+[region]Union of Great Empires[/region]

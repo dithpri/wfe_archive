@@ -4,7 +4,7 @@ Unofficial region for a certain discord.
 [nation]Lady Child Time[/nation] = ClumsyCryptid
 [nation]Old Texas[/nation] = Forsaken
 [nation]The Mercian Territories[/nation] = Green Raccoon
-[nation]Vayghr[/nation] = Yaoi
+[nation]Vayghr[/nation] = Yaoi[nation]Duji[/nation] = Glowing1
 [nation]Dixieana[/nation] = Krauser
 
 OTHER NATIONS TBD
