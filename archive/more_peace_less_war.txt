@@ -5,12 +5,12 @@ Nations and embassies accepted.
 Officer roles open for residents and allies.[/i]
 
 Allied with [region]The Embassy 3[/region], [region]The Ondoles Empire[/region], [region]Lausania[/region] and [region]The Beforelife[/region]
-Embassy Count: [b]168[/b]
+Embassy Count: [b]173[/b]
 Flag raised: [b]Grenada[/b]
 
 [nation]COLDBAR[/nation]
-Defense Forces: 16,074
-Deck Value: 142.90
+Defense Forces: 16,886
+Deck Value: 185.25
 
 [u]International Empire[/u]
 [region]Ulster[/region]
@@ -27,3 +27,4 @@ Deck Value: 142.90
 [region]The Local Group[/region]
 [region]Union of Great Empires[/region]
 [region]United Redland[/region]
+[region]The Commonwealth of Resmuevania[/region]
