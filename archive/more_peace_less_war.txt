@@ -13,7 +13,7 @@ Defense Forces: 16,886
 Deck Value: 185.25
 
 [u]International Empire[/u]
-[region]Ulster[/region]
+[region]Ulster[/region] (Frontier shared with TE3)
 [region]South Europe[/region]
 [region]Greater Giggity[/region]
 [region]The 5 Kingdoms[/region]
@@ -28,3 +28,4 @@ Deck Value: 185.25
 [region]Union of Great Empires[/region]
 [region]United Redland[/region]
 [region]The Commonwealth of Resmuevania[/region]
+[region]The Celtic Coast[/region]
