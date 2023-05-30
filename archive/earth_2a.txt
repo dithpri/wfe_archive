@@ -1,9 +1,9 @@
 Earth 2A is an alternate future region.
 
-Current Date: May 7, 2023 (1 second early) (updates not much)
+Current Date: May 29, 2023 (1 second early) (updates not much)
 
 Countries:
-
+Acadia
 Airdrie Banate
 Canals
 Canada
@@ -12,6 +12,13 @@ Cooper&#39;s Crossing
 Copyright
 Gwacheon
 Haida
+West
+East
+Airdrie Meadows
+Bayside
+Bayspring
+Maguindanao
+Korea
 
 Administrative Cantons:
 
@@ -25,15 +32,5 @@ Haida:
 West
 East
 
-AB:
-
-West
-East
-Airdrie Meadows
-Bayside
-Bayspring
-Maguindanao
-Korea
-
-OWNED BY: [nation]Name 0[/nation]
+OWNED BY: [nation]Name 0[/nation] best
 
