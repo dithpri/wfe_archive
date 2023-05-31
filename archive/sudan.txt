@@ -15,7 +15,9 @@ bordered by:[list][region=the Red Sea]
 [b]Largest City:[/b] [region=Omdurman]
 [b]Area:[/b] 1,886,068 km2 (728,215 sq mi) (Ranked 15th)
 [b]Population:[/b] 40,235,000 (Ranked 35th) 2015 est.[/list]
-[/color]
-[color=green]Embassy offers accepted[/color][color=gray]
+[/color][color=gray]
+REGION
 [b]Founded:[/b] 2013 Sep 20
-[b]Featured:[/b] 2017 Jan 22[/color]
+[b]Featured:[/b] 2017 Jan 22; 2023 May 30
+[/color][color=green]
+[b]Embassy offers accepted[/b][/color]
