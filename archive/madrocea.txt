@@ -1,3 +1,18 @@
-&quot;&amp;#917;&amp;#965;&amp;#951;&amp;#956;&amp;#949;&amp;#961;&amp;#943;&amp;#945; &amp;#945;&amp;#957;&amp;#942;&amp;#954;&amp;#949;&amp;#953; &amp;#963;&amp;#949; &amp;#972;&amp;#955;&amp;#959;&amp;#965;&amp;#962; (Prosperity Belongs to All)&quot;
+[b]&amp;#917;&amp;#965;&amp;#951;&amp;#956;&amp;#949;&amp;#961;&amp;#943;&amp;#945; &amp;#945;&amp;#957;&amp;#942;&amp;#954;&amp;#949;&amp;#953; &amp;#963;&amp;#949; &amp;#972;&amp;#955;&amp;#959;&amp;#965;&amp;#962;[/b]
+Prosperity Belongs To All
 
-These are the Provinces and Factions of the mighty nation of [nation]Madrocea[/nation], an ancient and influential realm in the region of [region]Atlantis[/region].
+The factions, provinces, and territories of the mighty nation of [nation]Madrocea[/nation]--an ancient and powerful realm in the region of [region]Atlantis[/region].
+
+President :: [b]Carol Trajan[/b] (Demos Party)
+
+[u]Assembly of Madrocea[/u]
+
+[i]Representation Key
+(CPM - Commerce Party of Madrocea) (MDP - Madrocea Demos Party) (UCMP - United Communist Party of Madrocea) (MGP - Madrocea Green Party) (O - Other)[/i]
+
+[b]Federal District of Kardal[/b] :: [u]16[/u] (CPM: 3, MDP: 10, UCMP: 2, MGP: 1)
+[b]Province of Kanaid[/b] :: [u]101[/u] (CPM: 51, MDP: 46, MGP: 4)
+[b]Province of Othnikos[/b] :: [u]75[/u] (CPM: 24, MDP: 41, UCMP: 9, O: 1)
+[b]Province of Alvanea[/b] :: [u]77[/u] (CPM:40, MDP:30, MGP:6, UCMP:1)
+[b]Commonwealth of Matae[/b] :: [u]61[/u] (CPM:25, MDP:36)
+[b]Madrocea Outer Territories [/b]:: [u]40[/u] (CPM:15, MDP:25)
