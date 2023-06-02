@@ -14,3 +14,5 @@ Collect point from comparing stats INGAME
 8. Average Death rate = -1 point
 9. Average Lifespan = 1 point
 10. Average Health = 1 point
+11. Weaponization = 1 point
+12. Scientific advance = 1 point
