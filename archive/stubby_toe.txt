@@ -1,1 +1,5 @@
-Ow my toe
+[Color=red] This region was taken by [region]The Militia[/region]
+
+militiamen~
+[Nation]Tarzi[/nation]
+[Nation]Peoples Oppressed[/nation][/Color]
