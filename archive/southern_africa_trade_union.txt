@@ -7,4 +7,4 @@ Welcome to [region]Southern African Trade Union[/region]
 The purpose of the region is to promote trade relations between member states with  regions 
 who we have [b][color=red]diplomatic relations[/color][/b]
 
-[b][color=#0096FF]Largest economy[/color][/b]: [nation]Drusselshof[/nation]
+[b][color=#0096FF]Largest economy[/color][/b]: [nation=long+noflag]Drusselshof[/nation]
