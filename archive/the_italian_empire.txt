@@ -1,8 +1,1 @@
-[b]Welcome to the [color=green]Italian[/color] [color=fire]Empire[/color][/b][hr]
-
-[b]King:[/b] Victor Emmanuel IV of [nation]Piedmont and Sardinia[/nation]
-[b]Prime Minister:[/b] [nation]Italian Empire[/nation]
-
-[hr][b][u][color=green]Constituent Realms:[/color][/u][/b]
-[region]The Kingdom of Italy[/region] | [region]Kingdom of Italy[/region] | [region]Imperial Italy[/region]
-[hr]
+[b]Welcome to the [color=green]Italian[/color] [color=fire]Empire[/color].[/b]

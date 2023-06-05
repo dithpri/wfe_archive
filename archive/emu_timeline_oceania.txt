@@ -1,3 +1,4 @@
- embassy collector region.
+Embassy collector region.
 
-Join for emu related nonsense
+
+Is supposed to be puppet storage, but I just let them die and then revive them whenever I need them.
