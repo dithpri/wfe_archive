@@ -5,4 +5,5 @@
 [i] - IATA code: CAE
 - ICAO code: ICAR
 - WMO code: 25678
+- Runway direction: West for RWY27 and East for RWY09
 - Foundation date of airport: 5th of September 1912[/i]
