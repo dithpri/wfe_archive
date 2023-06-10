@@ -1,16 +1,11 @@
 [color=navy][b]Territory of Katzen[/b][/color]
 [color=maroon][b]A Protectorate of [/color][region]Tarkin[/region]
-[color=gold][i]12/12/22[/i][/b][/color]
+[color=orange]Liberated [i]12/12/22[/i][/b][/color]
 
- After falling inactive and losing its founder, the region was invaded and plundered of its regional identity.  [b]Through cooperation and coordination[/b], Katzen was [i]liberated and restored[/i] as a [b]territory of the Republic of Tarkin[/b].
-
-[color=red]COMING SOON:[b] REGIONAL CLOSURE [/color][/b]
+ [color=grey][b]A once great region abandoned by those it once nourished.[/b][/color] [b]Through cooperation and coordination[/b], Katzen was [i]liberated and restored[/i] as a [b]territory of the Republic of Tarkin[/b].
 
 [b]Territorial Executive[/b]
 Territorial Governor: [nation]Manhassett[/nation]
 Territorial Secretary: [nation]Galateia[/nation]
 
-[b]The Katzen Home Guard[/b]
-[nation]Fluver[/nation]
-[nation]Gods of Greece[/nation]
-[nation]Neuhava[/nation]
+[strike][b]The Katzen Home Guard[/b][/strike]
