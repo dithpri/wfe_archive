@@ -1,11 +1,12 @@
 [b][u]EXECUTIVE:[/u][/b]
-[b][i]Chief Operating Officer:[/i][/b] [nation]Hedra[/nation]
+[b][i]Governor:[/i][/b] [nation]Hedra[/nation]
+[b][i]Secretary General:[/i][/b] [b][u]VACANT[/b][/u] Elect: Aug 9
 
 [b][u]REGIONAL DELEGATE:[/u][/b]
-[b][i]Chancellor:[/i][/b] [nation]Quing Nara[/nation] Elect: Jul. 11
+[b][i]Chancellor:[/i][/b] [nation]Quing Nara[/nation] Elect: Aug. 1
 
 [b][u]BARBARIAN MINISTRIES:[/u][/b]
-[b][i]Foreign Affairs Minister:[/i][/b] [nation]Sovern[/nation] Elect: Jul. 3
-[b][i]Domestic Affairs Minister:[/i][/b] [nation]Tritra[/nation] Elect: Jun. 25
-[b][i]Defense Minister:[/i][/b] [nation]Velkisa[/nation] Elect: Jun. 17
-[b][i]Communications Minister:[/i][/b] [nation]Hyperboreas[/nation] Elect: Jun. 9
+[b][i]Foreign Affairs Minister:[/i][/b] [nation]Sovern[/nation] Elect: Jul. 24
+[b][i]Domestic Affairs Minister:[/i][/b] [nation]Tritra[/nation] Elect: Jul. 16
+[b][i]Defense Minister:[/i][/b] [nation]Velkisa[/nation] Elect: Jul. 9
+[b][i]Communications Minister:[/i][/b] [nation]Hyperboreas[/nation] Elect: Jul. 1
