@@ -2,17 +2,15 @@
 
 [colour=green]The Kingdom of Ramility is a small kingdom with a prosperous population. Here, we do our best to assist other countries and ensure that everyone has a say in everything. Furthermore, we request that all WA members, please Endorse our WA Delegate.[/colour]
 
-[b][colour=blue]Our History:[/colour][/b]
-[b][colour=red]Established:[/colour][/b] [colour=green]15th January 1446[/colour] 
-[b][colour=red]Independence:[/colour][/b] [colour=green]21st October 1592[/colour]
-[b][colour=red]Recongnised:[/colour][/b] [colour=green]4th May 1667[/colour]
+[b][colour=blue]Established:[/colour][/b][b][colour=red] 22 March 2022[/colour][/b]
 
-[b][colour=blue]Our Kingdom:[/colour][/b]
-[b][colour=red]Capital:[/colour][/b] [colour=green]Grand Serendipity Hill[/colour]
-[b][colour=red]Provinces:[/colour][/b] [colour=green]South Treant, North Treant, Juri Juhill, Ondri, Carusi and Lopji[/colour]
-[b][colour=red]Religion:[/colour][/b] [colour=green]Grand Lois Byu[/colour]
-[b][colour=red]Population:[/colour][/b] [colour=green]7.91 Billion People[/colour]
-[b][colour=red]Army:[/colour][/b] [colour=green]3.2 Million Soldiers[/colour]
+[b][colour=blue]Ministers and Officials:[/colour][/b]
+[b][colour=red]Prime Minister:[/colour][/b] [nation]Bonted Breeopia[/nation] - Head of Government
+[b][colour=red]Minister of Defence:[/colour][/b] [nation]Royal Representative[/nation] - Head of Military 
+[b][colour=red]Minister of Commerce:[/colour][/b] [nation]The Imperial Martial[/nation]- Head of Economy and Trade
+[b][colour=red]Chief Royal Secretariat:[/colour][/b][nation]South Regonankzil[/nation] - Head of Records and Administrative duties
+[b][colour=red]Chief of Defence Forces:[/colour][/b] [nation]The Royal Laron[/nation] - Head Military Advisor to the King 
+[b][colour=red]Chief Justice:[/colour][/b] [nation]Grand Lumui[/nation] - Head of Judiciary
 
 [b][colour=blue]Our MOTO:[/colour][/b]
 [colour=green]Peace, Security, and Prosperity[/colour]

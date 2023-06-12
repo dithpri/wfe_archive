@@ -1,2 +1,9 @@
-[region]Deadcorp[/region]-A dead region, nation, or area with the name corp in it
-Synonyms-[region]LazCorp[/region]
+[color=sapphireblue]The [b]Love Live Star Idol Forces[/b] have arrived again!! However, digging through the old WFE for this region, I&#39;ll leave you with this gem:[/color]
+
+[color=sapphireblue][region=Deadcorp]-A dead region, nation, or area with the name corp in it
+Synonyms-[region=LazCorp][/color]
+
+[colour=marigold]The ones who Purchased the Company[/colour]
+[colour=marigold]CEO and President: Natsumi Onitsuka[/colour]
+[colour=marigold]Shareholder: Kanon Shibuya[/colour]
+[colour=marigold]Shareholder: Fuyuko Mayuzumi[/colour]
