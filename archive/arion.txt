@@ -4,9 +4,9 @@ a community for all users.
 join. you may get a role.
 
 Governer : [nation]Osnela[/nation]
-Delegate : [nation]Warasia[/nation]
+Delegate : none
 Vice Delegate : none
-Succesor : none
+Succesor : [nation]Warasia[/nation]
 Homeland Officer : none
 Security Officer : none
 Diplomacy Officer : none
