@@ -12,7 +12,7 @@ Laos ([nation]Muang Lao[/nation])
 Malaysia ([nation]Simaral[/nation]) 
 Myanmar ([nation]Birmah[/nation])
 Philippines ([nation]LasFelipinas[/nation])
-Singapore
+Singapore ([nation]Sing-a-pore[/nation])
 Thailand ([nation]Kingdom of Thailand[/nation]) 
 Vietnam ([nation]Communist Viet Nam[/nation])
 
