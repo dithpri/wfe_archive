@@ -4,13 +4,14 @@
 
 [b][colour=blue]Established:[/colour][/b][b][colour=red] 22 March 2022[/colour][/b]
 
-[b][colour=blue]Ministers and Officials:[/colour][/b]
-[b][colour=red]Prime Minister:[/colour][/b] [nation]Bonted Breeopia[/nation] - Head of Government
-[b][colour=red]Minister of Defence:[/colour][/b] [nation]Royal Representative[/nation] - Head of Military 
-[b][colour=red]Minister of Commerce:[/colour][/b] [nation]The Imperial Martial[/nation]- Head of Economy and Trade
-[b][colour=red]Chief Royal Secretariat:[/colour][/b][nation]South Regonankzil[/nation] - Head of Records and Administrative duties
-[b][colour=red]Chief of Defence Forces:[/colour][/b] [nation]The Royal Laron[/nation] - Head Military Advisor to the King 
-[b][colour=red]Chief Justice:[/colour][/b] [nation]Grand Lumui[/nation] - Head of Judiciary
+[b][colour=blue]Cabinet Members:[/colour][/b]
+[b][colour=red] Prime Minister -[/b][/colour] [nation]Bonted Breeopia[/nation]
+[b][colour=red] Minister of Defence -[/b][/colour] [nation]Royal Representative[/nation]
+[b][colour=red] Minister of Foreign Affairs -[/b][/colour] [nation]Island of Avalon[/nation]
+[b][colour=red] Minister of Home Affairs -[/b][/colour] Vacant
+[b][colour=red]Minister of Finance -[/b][/colour] Vacant 
+[b][colour=red] Minister of Commerce -[/b][/colour] [nation]The Imperial Martial[/nation]
+
 
 [b][colour=blue]Our MOTO:[/colour][/b]
 [colour=green]Peace, Security, and Prosperity[/colour]
