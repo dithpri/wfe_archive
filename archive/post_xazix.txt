@@ -6,5 +6,5 @@ Post Xazix takes place sometime in the future, when civilization has already col
 [u][b]WA Delegate:[/b][/u] n/a
 
 [u][b]Ministry of Foreign Affairs:[/b][/u] [nation]Quintoine[/nation]
-[u][b]Ministry of Defense:[/b][/u] n/a
-[u][b]Ministry of Internal Affairs:[/b][/u] n/a
+[u][b]Ministry of Defense:[/b][/u] [nation]Misr Aleppo[/nation]
+[u][b]Ministry of Internal Affairs:[/b][/u] [nation]Taiping Heavenly Dominion[/nation]
