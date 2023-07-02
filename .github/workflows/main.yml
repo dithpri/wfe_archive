@@ -25,8 +25,8 @@ jobs:
         id: date
         run: |
           dump_date="$(stat --printf '%Y\n' dumps/regions.xml.gz)"
-          echo "::set-output name=epoch::$dump_date"
-          echo "::set-output name=date::$(date +'%Y-%m-%d %H:%M:%S' -d "@$dump_date")"
+          echo "epoch=$dump_date" >> $GITHUB_OUTPUT
+          echo "date=$(date +'%Y-%m-%d %H:%M:%S' -d "@$dump_date")" >> $GITHUB_OUTPUT
       - name: Extract region wfes
         run: |
           mkdir -p archive
