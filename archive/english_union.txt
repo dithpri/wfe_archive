@@ -3,14 +3,15 @@
 [b][color=red][u]Links:[/u][/color][/b]None Yet
 [hr]
 [b][color=red][u]NEWS:[/u][/color][/b]
+[nation]Sinferopol[/nation] and [nation]RomanAugustus[/nation] appointed to government
 [nation]Kingdom of Insburg[/nation] appointed Chancellor
-The English Union founded 1.7.23
 [hr]
 [b][color=red][u]Your Government[/u][/color][/b]
 Prime Minister:[nation]Salop[/nation]
 Chancellor:[nation]Kingdom of Insburg[/nation]
-Foreign Minister:[b][color=red]VACANT[/color][/b]
-Defence Minister:[b][color=red]VACANT[/color][/b]
+Home Secretary:[b][color=red]VACANT[/color][/b]
+Foreign Minister:[nation]RomanAugustus[/nation]
+Defence Minister:[nation]Sinferopol[/nation]
 MP 1:[b][color=red]VACANT[/color][/b]
 MP 2:[b][color=red]VACANT[/color][/b]
 MP 3:[b][color=red]VACANT[/color][/b]
