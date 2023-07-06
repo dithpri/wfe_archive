@@ -3,17 +3,30 @@
 [b][color=red][u]Links:[/u][/color][/b]None Yet
 [hr]
 [b][color=red][u]NEWS:[/u][/color][/b]
-[nation]Sinferopol[/nation] and [nation]RomanAugustus[/nation] appointed to government
-[nation]Kingdom of Insburg[/nation] appointed Chancellor
+
+[nation]portogordo[/nation] appointed to home secretary.
+[nation]Sinferopol[/nation] appointed to defense minister.
+[nation]RomanAugustus[/nation] appointed to foreing minister.
+[nation]Kingdom of Insburg[/nation] appointed Chancellor.
 [hr]
 [b][color=red][u]Your Government[/u][/color][/b]
-Prime Minister:[nation]Salop[/nation]
-Chancellor:[nation]Kingdom of Insburg[/nation]
-Home Secretary:[b][color=red]VACANT[/color][/b]
-Foreign Minister:[nation]RomanAugustus[/nation]
-Defence Minister:[nation]Sinferopol[/nation]
-MP 1:[b][color=red]VACANT[/color][/b]
+
+[b]Prime Minister[/b] [nation]Salop[/nation]
+
+[b]Chancellor:[/b] [nation]Kingdom of Insburg[/nation]
+
+[b]Home Secretary:[/b] [color=red][nation]portogordo[/nation][/color]
+
+[b]Foreign Minister:[/b] [nation]RomanAugustus[/nation]
+
+[b]Defence Minister:[/b] [nation]Sinferopol[/nation]
+
+MP 1:[nation]Montes de narnia[/nation]
+
 MP 2:[b][color=red]VACANT[/color][/b]
+
 MP 3:[b][color=red]VACANT[/color][/b]
+
 MP 4:[b][color=red]VACANT[/color][/b]
+
 MP 5:[b][color=red]VACANT[/color][/b]

@@ -36,7 +36,7 @@
 
 [hr]
 
-[i]Regional Alert Status:[/i] [color=darkgreen][b]Safe[/b][/color]
+[i]Regional Alert Status:[/i] [color=tan][b]Secure[/b][/color]
 
 -----
 
