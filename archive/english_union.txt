@@ -1,27 +1,27 @@
 [color=red][b]WELCOME TO THE ENGLISH UNION[/b][/color]
 [hr]
-[b][color=red][u]Links:[/u][/color][/b]None Yet
+[b][color=red]Links:[/color][/b]None Yet
 [hr]
 [b][color=red][u]NEWS:[/u][/color][/b]
-
-[nation]portogordo[/nation] appointed to home secretary.
+[nation]Montes de narnia[/nation] appointed member of parlament
+[nation]Portogordo[/nation] appointed to home secretary.
 [nation]Sinferopol[/nation] appointed to defense minister.
 [nation]RomanAugustus[/nation] appointed to foreing minister.
 [nation]Kingdom of Insburg[/nation] appointed Chancellor.
 [hr]
 [b][color=red][u]Your Government[/u][/color][/b]
 
-[b]Prime Minister[/b] [nation]Salop[/nation]
+[b]Prime Minister:[/b] [nation]Salop[/nation]
 
-[b]Chancellor:[/b] [nation]Kingdom of Insburg[/nation]
+[b]Chancellor: [/b] [nation]Kingdom of Insburg[/nation]
 
-[b]Home Secretary:[/b] [color=red][nation]portogordo[/nation][/color]
+[b]Home Secretary: [/b] [color=red][nation]portogordo[/nation][/color]
 
-[b]Foreign Minister:[/b] [nation]RomanAugustus[/nation]
+[b]Foreign Minister: [/b] [nation]RomanAugustus[/nation]
 
-[b]Defence Minister:[/b] [nation]Sinferopol[/nation]
+[b]Defence Minister: [/b] [nation]Sinferopol[/nation]
 
-MP 1:[nation]Montes de narnia[/nation]
+[b]MP[/b] 1: [nation]Montes de narnia[/nation]
 
 MP 2:[b][color=red]VACANT[/color][/b]
 
