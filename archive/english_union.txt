@@ -3,11 +3,11 @@
 [b][color=red]Links:[/color][/b]None Yet
 [hr]
 [b][color=red][u]NEWS:[/u][/color][/b]
-[nation]Montes de narnia[/nation] appointed member of parlament
-[nation]Portogordo[/nation] appointed to home secretary.
-[nation]Sinferopol[/nation] appointed to defense minister.
-[nation]RomanAugustus[/nation] appointed to foreing minister.
-[nation]Kingdom of Insburg[/nation] appointed Chancellor.
+[b] EnUn Football League Founded (Please Submit your team)[/b]
+[nation]Montes de narnia[/nation] appointed member of Parliament
+[nation]Portogordo[/nation] appointed to Home Secretary.
+[nation]Sinferopol[/nation] appointed to Defense Minister.
+[nation]RomanAugustus[/nation] appointed to Foreign Minister.
 [hr]
 [b][color=red][u]Your Government[/u][/color][/b]
 
@@ -19,9 +19,9 @@
 
 [b]Foreign Minister: [/b] [nation]RomanAugustus[/nation]
 
-[b]Defence Minister: [/b] [nation]Sinferopol[/nation]
+[b]Defense Minister: [/b] [nation]Sinferopol[/nation]
 
-[b]MP[/b] 1: [nation]Montes de narnia[/nation]
+[b]Member of Parliament[/b] 1: [nation]Montes de narnia[/nation]
 
 MP 2:[b][color=red]VACANT[/color][/b]
 

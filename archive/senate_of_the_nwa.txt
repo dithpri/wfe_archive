@@ -3,23 +3,21 @@
 [hr][hr]
 
 [color=gold]&amp;#9812;[/color] [b]Leadership[/b] [color=gold]&amp;#9812;[/color]
-[list][b][i]Chancellor[/i]:  Vacant[/b] [b]([Color=grey]IND[/color])[/b]
+[list][b][i]Co-Chancellor[/i]: [nation]Suternia[/nation][/b] [b]([Color=#dc1b37]CON[/color])[/b]
 
-[list][i]Deputy Chancellor[/i]: [i]Vacant ([color=grey]IND[/color])[/i]
+[b][i]Co-Chancellor[/i]: [i][nation]Salibaic[/nation] ([color=#ffa32b]LDP[/color])[/b][/i]
 [/list]
 
 [b][i]Shadow Chancellor[/i]: Vacant ([color=grey]IND[/color])[/b]
 
-[list][i]Minor Party Shadow Leader[/i]:  [i]Vacant ([color=grey]IND[/color])[/i]
-
-[i]Minor Party Shadow Leader: Vacant ([color=grey]IND[/color])[/i][/list]
+[list][i]Minor Party Shadow Leader[/i]:  [i]Vacant ([color=grey]IND[/color])[/i][/list]
 
 [I][b]Senate Clerk:[/i] Vacant[/b] [b]([color=grey]IND[/color])[/b]
 
 [/list][/list][hr][hr]
 
-[b][u]Current Business:[/b][/u][i] TBD - L.R. 113 [/i]
-[b][u]Previous Business:[/b][/u][i] Constitutional Amendment - L.R. 112 ([color=green]PASSED[/color])[/i]
-[b][u]Next Scheduled Business:[/b][/u][i] TBD - L.R. 114[/i]
+[b][u]Current Business:[/b][/u][i] Senate Procedures Act - L.R. 001 [/i]
+[b][u]Previous Business:[/b][/u][i] N/A[/i]
+[b][u]Next Scheduled Business:[/b][/u][i] TBD - L.R. 002[/i]
 
 [hr][hr]
