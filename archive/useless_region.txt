@@ -1,1 +1,2 @@
-ok
+^^^^^^^
+This is just a useless region, What would you expect?
