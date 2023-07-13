@@ -1,7 +1,7 @@
 [Color=darkred] Knock Knock, It&#39;s [region]The Militia[/region][/Color]
 
 
-[Color=firebrick] The Militia noticed that this region had a &quot;Fascist&quot; tag, so they came here to clean up the region, if you want to speed up the process do so by  endorsing [nation]Officer K[/nation].
+[Color=firebrick] The Militia noticed that this region had a &quot;Fascist&quot; tag, so they came here to clean up the region.
 [/Color]
 [Color=710008]
 [u]Militants[/u] ~ 
@@ -9,7 +9,6 @@ The Rallier Warlock [nation]Vez Nan[/nation] ([nation]Unrecognized[/nation])
 The Rallier King [nation]Tarzi[/nation] ([nation]Officer K[/nation]) 
 Minuteman [nation]Farokand[/nation] ([nation]Javakheti[/nation])
 Minute(wo)men [nation]0cala[/nation] ([nation]Anti-Fascist Christmas[/nation])[/Color]
-[Color=black] Insurgent [nation]Cuban-Bahamian Isles[/nation][/Color]
 [Color=firebrick]Militant [nation]Flourish[/nation]
 Militant [nation]Communist republic of colop[/nation]
 Militant [nation]Georgische Nation[/nation][/Color]

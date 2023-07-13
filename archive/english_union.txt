@@ -7,7 +7,6 @@
 [nation]Montes de narnia[/nation] appointed member of Parliament
 [nation]Portogordo[/nation] appointed to Home Secretary.
 [nation]Sinferopol[/nation] appointed to Defense Minister.
-[nation]RomanAugustus[/nation] appointed to Foreign Minister.
 [hr]
 [b][color=red][u]Your Government[/u][/color][/b]
 
