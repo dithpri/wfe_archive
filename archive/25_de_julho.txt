@@ -1,1 +1,13 @@
-Brasil
+Brasil.
+ 
+*Melhor i.d.h regional:
+[nation]Marcos Valensa[/nation]=0,601
+
+*Menos corrupto:
+[nation]Marcos valensa[/nation]=0,7
+
+*Zona de turismo:
+[nation]Julioazevedo[/nation]=778 pessoas por hora
+
+
+
