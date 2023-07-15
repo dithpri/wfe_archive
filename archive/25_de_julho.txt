@@ -1,4 +1,4 @@
-Brasil.
+Terra livre bem vindos pessoal
  
 *Melhor i.d.h regional:
 [nation]Marcos Valensa[/nation]=0,601
@@ -8,6 +8,11 @@ Brasil.
 
 *Zona de turismo:
 [nation]Julioazevedo[/nation]=778 pessoas por hora
+
+&deg; [b]lugares para visitar[/b]:
+1) [b] Monte Azevedo[/b]-[nation]Julioazevedo[/nation]
+2) [b] monumento pedra da vera[/b]- [nation]Vera Azevedo[/nation]
+3) [b] montanha vermelha[/b]- [nation]Luiz Valensa[/nation]
 
 
 
