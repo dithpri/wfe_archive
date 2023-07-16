@@ -6,10 +6,8 @@ Standing forever beneath the eternal blue sky, the Mongol Alliance is the modern
 [nation]The 2nd Golden Horde[/nation]
 [nation]Kharkorin[/nation]
 
-[b]Directly Administered Region[/b]
-[region]Russia SSR[/region]
-
 [b]Allied Regions[/b]
+[region]Russia SSR[/region]
 [region]Chinese People Liberation Army[/region]
 [region]Turkic Union[/region]
 
