@@ -1,14 +1,1 @@
-[b]Capital: Vienna
-Population: 49 203 000
-Largest Cities: Frankfurt, Munich, Prague, Vienna, Stuttgart
------------------------------------------------------------------------
-Official Language: High German
-Major Languages: German (Austrian, Swiss, ...), Czech
------------------------------------------------------------------------
-GDP: 2300 billion $
-GDPpC: 467.451 $
-Currency: S&uuml;dmark - 1:1.4 $
------------------------------------------------------------------------
-Form of Government: constitutional decentralized Monarchy
-Current Monarch: [nation]Wilhelm IV[/nation]
-Current Reichspr&auml;sident: [nation]Wuerttemburg[/nation][/b]
+Wip
