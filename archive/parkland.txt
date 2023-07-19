@@ -1,7 +1,9 @@
-[color=MediumSeaGreen][b]Parkland[/b]
-[/color][color=SaddleBrown]
+[color=004d33][b]Parkland[/b]
+[/color][color=4d4d00]
 [b]REGION:[/b]
 .: [b]Founded:[/b] 2017 Jun 24
-.: [b]Featured Region:[/b] 2017 Aug 10
+.: [b]Featured Region:[/b] 2017 Aug 10; 2023 July 18
 .: [b]Region Matrix:[/b] 2017 Aug 14 * accepts embassies *
-.: A QSA Puppet Storage Region[/color]
+.: an [region=Ancient Lands] Puppet Storage Region
+[/color][color=004d33]
+Embassy Offers Welcome[/color]
