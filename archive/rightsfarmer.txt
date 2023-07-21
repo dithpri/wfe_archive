@@ -1,1 +1,10 @@
-RightsFarmer is a region to store the Rights_Farmer farmer nation accounts
+Rights Farmer is a region to contain Farming accounts managed by IHateRights.
+Send a telegram to IHateRights with this format to request a card:
+
+Holding Account:
+
+Card:
+
+Price:
+
+Additional Notes:

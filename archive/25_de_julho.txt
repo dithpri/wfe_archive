@@ -1,13 +1,13 @@
 Terra livre bem vindos pessoal
  
 *Melhor i.d.h regional:
-[nation]Marcos Valensa[/nation]=0,601
+[nation]Marcos Valensa[/nation]=0,614
 
 *Menos corrupto:
-[nation]Marcos valensa[/nation]=0,7
+[nation]Atleticojulio[/nation]=0,68
 
 *Zona de turismo:
-[nation]Julioazevedo[/nation]=778 pessoas por hora
+[nation]rua santiago[/nation]=904 pessoas por hora
 
 &deg; [b]lugares para visitar[/b]:
 1) [b] Monte Azevedo[/b]-[nation]Julioazevedo[/nation]
@@ -16,5 +16,12 @@ Terra livre bem vindos pessoal
 4) [b] cachoeira 3 irm&atilde;os [/b]-[nation]marcos valensa[/nation]
 5) [b] Montanha iuno[/b] -[nation]Rua Santiago[/nation]
 6) [b]torre AJ[/b] -[nation]Atleticojulio[/nation]
+7) [b] cataratas do sal[/b]- [nation]Dinamo praiense[/nation]
 
+
+            [b]turma do  $ trilhao $[/b]
+1)[nation]Vera Azevedo[/nation]
+2)[nation]Marcos Valensa[/nation]
+3)[nation]Julioazevedo[/nation]
+4)[nation]Atleticojulio[/nation]
 
