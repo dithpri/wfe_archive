@@ -1,8 +1,17 @@
 [b]Council of Kanamiizu &amp;#12363;&amp;#12394;&amp;#12415;&amp;#20234;&amp;#35910;[/b]
-[hr][i]Welcome to Kanamiizu, a small and friendly region in futuristic Japan. 
-Tradition meets technology as sleek skyscrapers blend with ancient architecture. 
-Robots roam the streets alongside humans, and self-driving vehicles zip around. 
-Explore our restored historical districts and experience the best of ancient and modern Japan. 
-We value community, providing top-notch healthcare and education. 
-Kanamiizu invites you to embrace the future with a warm smile and open arms. 
-Welcome to the friendly face of the future![/i]
+[nation]Teikoku[/nation],[nation]Nyubu Catboy[/nation],[nation]Samod[/nation],[nation]Kants[/nation]
+__________________________________________________________________________________________
+
+[color=blue]&amp;#9772;[i][b]Welcome to Kanamiizu, a small and friendly region in futuristic Japan. &amp;#9772;[/color]
+
+[color=green]&amp;#9772;Tradition meets technology as sleek skyscrapers blend with ancient architecture.&amp;#9772;[/color]
+
+[color=red]&amp;#9772;Robots roam the streets alongside humans, and self-driving vehicles zip around.&amp;#9772; [/color]
+
+[color=yellow]&amp;#9772;Explore our restored historical districts and experience the best of ancient and modern Japan.&amp;#9772;[/color]
+
+[color=gold]We value community, providing top-notch healthcare and education.[/color]
+
+[color=white]Kanamiizu invites you to embrace the future with a warm smile and open arms.[/color]
+
+[u]Welcome to the friendly face of the future![/b][/i]&amp;#9772;[/u]
