@@ -1,5 +1,8 @@
-[b]Orient[/b]
-a [region=0000] region
-
+[color=00477e][b]Orient[/b]
+[/color][color=474700]
+REGION
+[b]Founded:[/b] 2017 Apr 23
 [b]Featured:[/b] 2017 Sep 17
-Embassy offers are welcome.
+an [region=Ancient Lands] region
+[/color][color=004d33]
+[b]Embassy offers are welcome.[/b][/color]
