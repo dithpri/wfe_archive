@@ -9,13 +9,14 @@ RULES
 -no Authority for alt accounts (except for Communications)
 -Be an actual member of the UMNS 
 
-[nation]Frelor[/nation]  (DWRoBrewer1)
-[nation]Malenkia[/nation] (UkraineLikerBall)
+[nation]Marica[/nation] (the_empire_of_Marica)
+[nation]Malenkia[/nation] (UkraineLikerBall) (gone)
+[nation]Frelor[/nation]  (DWRoBrewer1) active
 [nation]The Holy Ottoman Empire[/nation] (karlosesolol)
 [nation]Marica[/nation] (the_empire_of_Marica)
 [nation]Sleepyiana[/nation] (Sleepy_Countries100)
 [nation]Puerto Luna[/nation] (prr628craft-games)
-[nation]Kiptupia[/nation] (Felixthecat70)
+[nation]Kiptupia[/nation] (Felixthecat70) active
 [nation]The Kingdom of New Scotland[/nation] (New-Scotland)
 [nation]The Slovak Microstate[/nation] (Byajico_productions)
 [nation]Central Floridan[/nation] (GlueStick407)
