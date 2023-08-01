@@ -1,24 +1,21 @@
 [b]terra livre sejam bem vindos [/b]
  
-*Melhor i.d.h regional:
-[nation]Marcos Valensa[/nation]=0,614
-
-*Menos corrupto:
-[nation]Atleticojulio[/nation]=0,68
-
-*Zona de turismo:
-[nation]rua santiago[/nation]=904 pessoas por hora
+[b]Regi&atilde;o: brasileira
+Idioma: Portugu&ecirc;s (mais aceitamos todos os idiomas)
+Noticias: todo os dias
+Pr&ecirc;mios:todo os meses .&uacute;ltimo dia de  cada mes[/b]
 
 
 
 
 
             [b]turma do  $ trilhao $[/b]
-1)[nation]Vera Azevedo[/nation]
-2)[nation]Marcos Valensa[/nation]
-3)[nation]Julioazevedo[/nation]
-4)[nation]Atleticojulio[/nation]
-5)[nation]Rua Santiago[/nation]
-6)[nation]Dinamo praiense[/nation]
-7)[nation]Luiz Valensa[/nation]
+1)[nation]Vera Azevedo[/nation]=4trilhoes
+2)[nation]Marcos Valensa[/nation]=4trilhoes
+3)[nation]Julioazevedo[/nation]=3trilhoes
+4)[nation]Atleticojulio[/nation]=3trilhoes
+            [b]zona dourada [/b]
+5)[nation]Rua Santiago[/nation]=2t
+6)[nation]Dinamo praiense[/nation]=2t
+7)[nation]Luiz Valensa[/nation]=1t
 
