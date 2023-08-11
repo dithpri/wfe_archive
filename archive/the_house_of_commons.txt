@@ -2,11 +2,13 @@
 [u][url=region=the thaecian senate]Senate (Upper House)[/url][/u]
 [hr][b]Leadership:
 
-[list][*]Speaker of the House: [nation]Marvinville[/nation] ([color=Purple]FREE[/color])[/b]
-[i][list][*]Senior Deputy Speaker: [nation]Brototh[/nation] ([color=Purple]FREE[/color])
-[*]Junior Deputy Speaker: [nation]Taralania[/nation] ([color=Purple]FREE[/color])[/list][/list]
+[list][*]Speaker of the House: [nation]Brototh[/nation] ([color=Purple]FREE[/color])[/b]
+[i][list][*]Senior Deputy Speaker: [nation]Vacant[/nation] ([color=Gray]N/A[/color])
+[*]Junior Deputy Speaker: [nation]Vacant[/nation] ([color=Gray]N/A[/color])
+[*]Junior Deputy Speaker: [nation]Vacant[/nation] ([color=Gray]N/A[/color])[/list][/i][/list]
 
-[b][list][*]Shadow Speaker of the House: [nation]Porfloxia[/nation] ([color=grey]IND[/color])[/b][/list]
+[b][list][*]Shadow Speaker of the House: [nation]Republic of Aiyland[/nation] ([color=Orange]PHX[/color])[/b]
+[i][list][*]Deputy Shadow Speaker: [nation]Vacant[/nation] ([color=Gray]N/A[/color])[/list][/i][/list]
 
-[hr][b][url=https://www.nationstates.net/page=dispatch/id=1441758#51][color=#ea2323]Please read the Code of Conduct and [u]Congress Regulation Act (L.R. 051)[/u] before posting here.[/url][/color][/i]
+[hr][b][i][url=https://www.nationstates.net/page=dispatch/id=1441758#51][color=#ea2323]Please read the Code of Conduct and [u]Congress Regulation Act (L.R. 051)[/u] before posting here.[/url][/color][/i]
 [hr]To submit a bill to the House, please find an MP or Senator to sponsor the bill and then send it to the Speaker.[/b]
