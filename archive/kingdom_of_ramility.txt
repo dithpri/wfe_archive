@@ -10,7 +10,7 @@
 [b][colour=red] Minister of Defence -[/b][/colour] [nation]Royal Representative[/nation]
 [b][colour=red] Minister of Foreign Affairs -[/b][/colour] [nation]Island of Avalon[/nation]
 [b][colour=red] Minister of Home Affairs -[/b][/colour] [nation]Bimyu[/nation]
-[b][colour=red]Minister of Finance -[/b][/colour] Vacant 
+[b][colour=red]Minister of Finance -[/b][/colour] [nation]The Royal Laron[/nation]
 [b][colour=red] Minister of Commerce -[/b][/colour] [nation]The Imperial Martial[/nation]
 
 
