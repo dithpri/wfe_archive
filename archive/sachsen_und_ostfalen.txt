@@ -7,3 +7,4 @@
 [nation]Ostganglien[/nation] - [i]East Ganglia[/i]
 [nation]Schone[/nation] - [i]Schone[/i]
 [nation]Westumbrien[/nation] - [i]Westumbrien[/i]
+[nation]Zingganghue[/nation] - [i]Zingganghue[/i]
