@@ -1,1 +1,3 @@
-A puppet storage region for countries controlled by [nation=longname]Danslandia[/nation]
+A puppet storage region for countries controlled by [nation=longname]Danslandia[/nation].
+
+Embassy is open, so if you want to set up embassies with us (for whatever reason), we will accept!

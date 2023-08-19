@@ -12,6 +12,6 @@ By this definition:
 [color=brown]REGION
 [b]Founded:[/b] June 26, 2022
 [b]Featured:[/b] February 25, 2023
-a [nation]Soviet Yoshilandia[/nation] region
+a [nation=noflag]Soviet Yoshilandia[/nation] region
 
 [b]Embassy Offers Accepted[/b][/color]

@@ -1,2 +1,10 @@
-[color=navy][b]Sao Tome[/b]
-Capital of [region=Sao Tome and Principe]/[region=Sao Tome e Principe][/color]
+[color=00477e][b]Sao Tome[/b]
+[/color][color=543210]
+Capital City of [region=Sao Tome and Principe] ([region=Sao Tome e Principe])
+[/color][color=7e7e00]
+REGION
+[b]Founded:[/b] 2016 August 13
+[b]Featured:[/b] 2023 August 18
+an [region=Ancient Lands] region
+[/color][color=004d33]
+[b]Embassy Offers Welcome[/b][/color]
