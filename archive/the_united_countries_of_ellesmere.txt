@@ -13,7 +13,7 @@
 [nation]English Country[/nation] = E
 [nation]Saskam Beewam[/nation] = S
 [nation]Makkador[/nation] = M
-[nation]Esbarini Bidosa[/nation] = E
+[nation]Eastern Tehar[/nation] = E
 [nation]Rylerland[/nation] = R
 [nation]English Country[/nation] = E[/b]
 &#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;
