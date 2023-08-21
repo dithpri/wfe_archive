@@ -12,6 +12,6 @@ includes Embassy Oracle Tool
 - [region=0000] - [region=Ancient Lands] - [region=United States of America]
 - [region=The Central Pacific] - [region=Union of Great Britain] - [region=Westminster] - [/color][/td][/tr][/table]
 [table][tr][td][color=005bbb][b]Region Policy:[/b][/color][/td][/tr][tr][td][color=00477e]an [region=Ancient Lands] Major Puppet Home Region
-Minimum Nation Population: +39.6 billion
+Minimum Nation Population: [b]40.1 billion[/b] (enforced)
 [/color][color=green]
 Embassy Offers Accepted[/color][/td][/tr][/table]

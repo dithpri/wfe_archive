@@ -23,13 +23,14 @@
 &amp;#128081; [region]The United Kingdom[/region].
 &amp;#128081; and all other British Dominions.
 &amp;#128081; [region]The Danish Realm[/region].
-&amp;#128081; including Greenland, Iceland, etc.
 &amp;#128081; [region]The Kingdom of Norway[/region].
 &amp;#128081; [region]The Empire of Sweden[/region].
-&amp;#128081; [region]The Kingdom of Canada [/region].
-&amp;#128081; [region]The Kingdom of Australia and New Zealand[/region].
-+ All Dominions and Territories thereof.
 
 [hr]
 
 Our Imperial Royal Family is listed below;
+
+HM the Emperor, [nation]King Carlisle I[/nation].
+HM the Empress-Consort, [nation]Queen Vittoria[/nation].
+Duke of Sammetradt, [nation]Prince George[/nation].
+Duke of Eriksfjord, [nation]Prince Henry[/nation].
