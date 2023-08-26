@@ -16,5 +16,5 @@ And officers: [nation]Vologda State[/nation],  [nation]Russian Empire 1721[/nati
 [color=lightblue]SC:[/color] [color=#5AF0E1]FOR[/color]
 [hr]
 [color=#8B0000]-endorsement cap-[/color]
-[color=red]Endorsement cap if you support a delegate: [/color][color=#8B0000]7[/color]
+[color=red]Endorsement cap if you support a delegate: [/color][color=#8B0000]6[/color]
 [color=red]Endorsement cap if not endorsing delegate:[/color] [color=#8B0000]3[/color]
