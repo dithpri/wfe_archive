@@ -1,5 +1,6 @@
-Welcome to the Basque Country
+[i]Ongi etorri Euskal Herrira!! &iexcl;&iexcl;Bienvenido al Pa&iacute;s Vasco!![/i]
 
-
-
-https://discord.gg/UU7ZtF6E
+[nation]Alava[/nation]/Araba
+[nation]Guipuzcoa[/nation]/Gipuzkoa
+[nation]Navarra[/nation]/Nafarroa
+[nation]Vizcaya[/nation]/Bizkaia
