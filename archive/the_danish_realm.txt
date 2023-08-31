@@ -1,5 +1,17 @@
 WELCOME TO [REGION]THE DANISH REALM[/REGION].
-Officially [b][i]&quot;The Kingdom of Denmark&quot;[/i][/b].
+Officially [b][i]&quot;The Empire of Denmark&quot;[/i][/b].
 
-Sovereign: [nation]King Carlisle I[/nation].
-Consort: [nation]Queen Vittoria[/nation].
+[b]Ruling House:[/b] [nation]House of Tudor[/nation].
+[b]Ruling Region:[/b] [region]The United Kingdom[/region].
+___
+
+[b]Sovereign:[/b] [nation]King Carlisle I[/nation].
+[b]Consort:[/b] [nation]Queen Vittoria[/nation].
+___
+
+[b]Capital:[/b] Copenhagen.
+[b]Religion:[/b] Lutheran.
+___
+
+[b]Personal Union:[/b] 
+[region]The Empire of Sweden[/region], [region]The Kingdom of Norway[/region].

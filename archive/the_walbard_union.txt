@@ -11,7 +11,6 @@
 [hr]
 
 &amp;#127960;&amp;#65039; The Ruling House is the [nation]House of Tudor[/nation].
-&amp;#10145;&amp;#65039; Also known as the [nation]House of Durham[/nation].
 
 [hr]
 
@@ -25,6 +24,7 @@
 &amp;#128081; [region]The Danish Realm[/region].
 &amp;#128081; [region]The Kingdom of Norway[/region].
 &amp;#128081; [region]The Empire of Sweden[/region].
+&amp;#128081; [region]The Khanate of Inner Mongolia[/region].
 
 [hr]
 
@@ -32,5 +32,5 @@ Our Imperial Royal Family is listed below;
 
 HM the Emperor, [nation]King Carlisle I[/nation].
 HM the Empress-Consort, [nation]Queen Vittoria[/nation].
-Duke of Sammetradt, [nation]Prince George[/nation].
-Duke of Eriksfjord, [nation]Prince Henry[/nation].
+Prince of Wales, [nation]Prince George[/nation].
+Prince of Scotland, [nation]Prince Henry[/nation].
