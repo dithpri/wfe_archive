@@ -1,7 +1,13 @@
 [color=#de5555][i]The Airfield is abuzz with activity. Engineers work on planes while aviators mill about, cautiously eyeing their crafts. Atop it all is raised a banner: two wings and hammer-gear insignia of the Communist Bloc. There&#39;s tension in the air. Everyone can feel it. Another sortie isn&#39;t far off.[/i][/color][hr][color=#7F0000][b]Welcome to [u]Leningrad Airfield[/u], military hub for the [u]People&#39;s Revolutionary Air Force[/u] of [region]the Communist Bloc[/region]![/b][/color]
 
 [list][*]The PRAF jump point is [b][region]Red Front[/region][/b].
-[*]Standing orders: move to [b][region]Osiris[/region][/b] and endorse [nation]Arkadia Universalis[/nation]!
+[*]Standing orders: move to [b][region]Magna Aurea[/region][/b] and endorse:
+[list][*][nation]The Demonic Angel[/nation]
+[*][nation]The Gunch[/nation]
+[*][nation]NationStations[/nation]
+[*][nation]Valinka[/nation]
+[*][nation]Lancouster[/nation]
+[*][nation]A Strange Toaster[/nation][/list]
 [*]Current SQHQ Officers:
 [list][*][b]Air Marshal:[/b] [nation]Mlakhavia[/nation]
 [*][b]Marshal-Lieutenant:[/b] [nation]UFROE[/nation]
