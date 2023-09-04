@@ -16,10 +16,8 @@ And officers: [nation]Vologda State[/nation],  [nation]Russia 36[/nation],
 [color=lightblue]SC:[/color] [color=#5AF0E1]FOR[/color]
 [hr]
 [color=#8B0000]-endorsement cap-[/color]
-[color=red]Endorsement cap if you support a delegate: [/color][color=#8B0000]6[/color]
+[color=red]Endorsement cap if you support a delegate: [/color][color=#8B0000]5[/color]
 [color=red]Endorsement cap if not endorsing delegate:[/color] [color=#8B0000]3[/color]
 [hr]
 [b][url=https://www.nationstates.net/page=dispatch/id=1911949]Rules[/url]|[url=https://www.nationstates.net/page=dispatch/id=1920185]Blacklist[/url]
 [url=https://www.nationstates.net/page=dispatch/id=1913879]History of the Delegates[/url]|[url=https://www.nationstates.net/page=dispatch/id=1924079]Delegate Election[/url][/b]
-[hr]
-Rest in peace, [nation]Sovietsky S[/nation], [nation]British Empire of Malaya[/nation] and [nation]Valeania[/nation].
