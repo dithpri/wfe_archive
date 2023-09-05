@@ -1,10 +1,9 @@
--=WIP=-
 [b]Welcome to Dinya!
 [/b]
 [i]At the edges of the world, the nations of Dinya wage wars and negotiate deals for control over beautiful, resource rich continents.[/i]
 [hr]
 [b][u]Government[/u][/b]
-[b]Monarch:[/b] [nation]Sevata[/nation]
+[b]Monarch:[/b] [nation]Sevata[/nation] - Tanner Renault
 [b]Heir Apparent:[/b]
 [b]Consul:[/b]
 [b]Delegate:[/b]
