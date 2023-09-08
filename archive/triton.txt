@@ -1,1 +1,2 @@
 triton
+miscellaneous puppet storage
