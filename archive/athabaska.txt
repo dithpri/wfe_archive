@@ -1,5 +1,1 @@
-[color=333399][b]Athabaska[/b][/color]
-
-[color=339933]A [region=Calgary] and [region=Edmonton] Region[/color]
-
-[color=993333]Testing[/color]
+[table][tr][td]Athabaska[/td][/tr][/table]
