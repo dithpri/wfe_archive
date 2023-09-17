@@ -1,18 +1,14 @@
-[color=004D33][b]Niedersachsen[/b]
-[/color][color=633517]
-a state in north-western Germany
-AKA [region=Lower Saxony]
-[/color][color=00477E]
-FACTS
-[b]Capital:[/b] Hanover
+[table][tr][td][color=004D33][b]Niedersachsen[/b][/color][/td][/tr]
+[tr][td][color=633517]a state in north-western Germany AKA [region=Lower Saxony][/color][/td][/tr][/table]
+[table][tr][td][color=00477E]FACTS[/color][/td]
+[td][color=696900]REGION[/color][/td][/tr]
+[tr][td][color=00477e][b]Capital:[/b] Hanover
 [b]Area:[/b] 47,614 km&sup2; (18,383 sq mi)
-[b]Population:[/b] 7,962,775 (2017)
-[/color][color=D4AF37]
-REGION
-[b]Founded:[/b] 2021 Jun 18
-an [region=Ancient Lands] region
-[/color][color=004D33]
-EMBASSY
-[b]Policy:[/b] Embassy Matrix Pending
-Embassy Offers Accepted
-this region will accept all embassy offers[/color]
+[b]Population:[/b] 7,962,775 (2017)[/color][/td]
+[td][color=D4AF37][b]Founded:[/b] 2021 Jun 18
+[b]Features:[/b] 2023 Sep 16
+an [region=Ancient Lands] puppet region[/color][/td][/tr][/table]
+[table][tr][td][color=004D33]EMBASSY[/color][/td][/tr]
+[tr][td][color=004d33][b]Policy:[/b] part of the [region=Ancient Lands] Embassy Matrix
+[b]Embassy Offers Accepted[/b]
+this region will accept all embassy offers[/color][/td][/tr][/table]
