@@ -3,5 +3,5 @@
 Nations and embassies accepted
 Raiders and invaders rejected
 
-[i]The map is open for resident and embassy nations
-Embassy regions can send puppets here[/i]
+[i]Embassy nations can send puppets to this region
+Only resident nations and puppets can join the map[/i]
