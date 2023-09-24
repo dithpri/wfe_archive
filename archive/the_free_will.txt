@@ -1,3 +1,7 @@
-[color=00477e][b]The Free Will[/b]
-
-an [region=Ancient Lands] region[/color]
+[table]
+[tr][td][color=00477e][b]The Free Will[/b][/color][/td][/tr]
+[tr][td][color=grey]REGION
+[b]Founded:[/b] 2020 12 28
+this is an [region=Ancient Lands] region[/color][/td][/tr]
+[tr][td][color=004d33][b]Embassy Offers ARE Welcome[/b][/color][/td][/tr]
+[/table]
