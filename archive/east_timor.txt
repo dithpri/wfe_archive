@@ -1,20 +1,17 @@
-[color=navy][b]East Timor[/b]
-[/color][color=green]
-a sovereign nation within the East Indies
-[b]Capital:[/b] [region=Dili]
+[table][tr][td][color=004d33][b]East Timor[/b][/color][/td][/tr]
+[tr][td][color=543210]a sovereign nation within the East Indies[/color][/td][/tr][/table]
+[table][tr][td]FACTS[/td][td]REGION[/td][/tr]
+[tr][td][color=004d33][b]Capital:[/b] [region=Dili]
 [b]Independence:[/b] 
 - Declared: November 28, 1975 [from Portugal] 
 - Recognized: May 20, 2002 
 [b]Population:[/b] 947,000 (est 2005) 
 [b]Area:[/b] 14,609 km&sup2;
 [b]Official Language:[/b] Tetum and Portuguese
-[b]Religion:[/b] 97.6% Roman Catholic
-[/color][color=olive]
-REGION
-[b]Founded:[/b] 2012 Jan 11
+[b]Religion:[/b] 97.6% Roman Catholic[/color][/td][td][color=olive][b]Founded:[/b] 2012 Jan 11
 [b]Matrixed:[/b] 2017 June 01
-[b]Featured:[/b] 2020 July 25; 2021 Jan 16; 2022 Oct 21
+[b]Featured:[/b]
+- 2020 July 25; 2021 Jan 16; 2022 Oct 21; 2023 Sep 27
 [b]Sister region:[/b] [region=Timor Leste]
-an [region=Ancient Lands] region
-[/color][color=green]
-[b]Embassy Offers Welcome[/b][/color]
+an [region=Ancient Lands] region[/color][/td][/tr][/table]
+[table][tr][td][color=004d33][b]Embassy Offers Welcome[/b][/color][/td][/tr][/table]

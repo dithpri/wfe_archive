@@ -14,3 +14,4 @@ Only resident nations and puppets can join the map[/i]
 
 [nation]Great Britain oo[/nation]
 [nation]The Tony Paporordia[/nation] from [region]Holy John Three[/region]
+[nation]Fortilla[/nation] from [region]Federal District[/region]
