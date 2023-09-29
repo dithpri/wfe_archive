@@ -1,1 +1,1 @@
-A Private region where various card puppets are stored.
+A region for puppet storage
