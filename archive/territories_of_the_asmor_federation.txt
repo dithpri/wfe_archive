@@ -1,3 +1,7 @@
-This region has been taken for safekeeping from enemies, until Asmor wants it back.
+This region is the Homeland of the Nation of Asmoria and all it states.
 
-[nation]The Kingdom of the Three Isles[/nation]:
+
+
+[region]The Three Isles[/region]
+[region]The Federation of Utopias Unitum[/region]
+[region]The Galaktic Empire[/region]
