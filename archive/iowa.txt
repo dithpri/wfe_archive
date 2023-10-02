@@ -1,21 +1,21 @@
-[color=dodgerblue][list][list][b]IOWA[/b][/list]
-[i]Our liberties we prize and our rights we will maintain.[/i][/list][hr]
-[list][/color][color=darkgreen]
+[table]
+[tr][td][color=dodgerblue][b]IOWA[/b][/color][/td][/tr]
+[tr][td][color=004d33][i]Our liberties we prize and our rights we will maintain.[/i]
+
 [b]Welcome to Iowa[/b]
 
 A place for all who care to live can live, freely, happily, in power, or secluded.
 So come romp around the corn and soybean fields, or take a walk through our towns and cities.
-Iowa is truly a great place![/list]
-FACTS[list][b]Capital:[/b] Des Moines
+Iowa is truly a great place![/color][/td][/tr][/table]
+[table]
+[tr][td]FACTS[/td][td]REGION[/td][/tr]
+[tr][td][color=004d33][b]Capital:[/b] Des Moines
 [b]Area:[/b] 56272 sq mi
 [b]Population:[/b] 3,155,070 (31st largest) 2019 est.
 [b]Admitted:[/b] 1846 Dec 27 (29th)
-[/list][hr]
-[/color]
-[color=olive]REGION[list][b]Founded:[/b] 2009 Jan 21 (est.)
-[b]Featured region:[/b] 08/27/2008 12/17/2008  05/24/2012 09/30/2020
-[b]Former Founder:[/b] [nation=-cyprus-]
-a [region=United States of America] region[/color]
-[color=800000][b]Please, Do Not Recruit Here[/b]
-Visitors are always welcome here.[/color][color=green]
-Embassy Offers Welcome[/color][/list][hr]
+[/color][/td][td][color=olive][b]Founded:[/b] Ancient
+[b]Featured region:[/b]
+2008 Aug 27; 2008 Dec 17; 2012 May 24; 2020 Sep 30; 2023 Oct 01
+a [region=United States of America] region[/color][/td][/tr][/table]
+[table][tr][td][color=004d33]Embassy Offers Welcome[/color][/td][/tr]
+[tr][td][color=660000][b]Visitors are always welcome here[/b][/color][/td][/tr][/table]

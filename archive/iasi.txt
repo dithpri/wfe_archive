@@ -1,4 +1,4 @@
-[b]Iasi is one of the biggest cities in [region]Romania[/region][/b]
+[b][color=green]Iasi is one of the biggest cities in [region]Romania[/region][/b]
 
 FACTS:
 It is located in northeastern [region]Romania[/region]
@@ -6,4 +6,4 @@ It is near [region]Vaslui[/region] and it&#39;s in the [region]Moldavia[/region]
 It is considered the Capital of [region]Moldavia[/region]
 Neighbouring Nations to [region]Romania[/region]: [region]Bulgaria[/region], [region]Serbia[/region], [region]Moldova[/region], [region]Ukraine[/region], [region]Hungary[/region].
 
-[b]Embassy Offers are Welcome![/b]
+[b]Embassy Offers are Welcome![/color][/b]
