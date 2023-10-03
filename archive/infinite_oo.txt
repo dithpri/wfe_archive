@@ -1,8 +1,4 @@
-[b]Welcome!
-
-We seek scientific and industrial advancement
-We fight against slavery and piracy
-We support Ukraine in their struggle[/b]
+[b]Welcome![/b]
 
 Nations and embassies accepted
 Raiders and invaders rejected
@@ -10,9 +6,12 @@ Raiders and invaders rejected
 [i]Embassy nations can send puppets to this region
 Only resident nations and puppets can join the map[/i]
 
-[b]Map members:[/b]
-
+Map members:
 [nation]Great Britain oo[/nation]
 [nation]The Tony Paporordia[/nation] from [region]Holy John Three[/region]
 [nation]Fortilla[/nation] from [region]Federal District[/region]
 [nation]New Marijuana Republic[/nation] from [region]The Free Land of The Eternal Togethernes[/region]
+
+[b]N-Day9 Results:
+#16 Shield
+#39 Score[/b]
