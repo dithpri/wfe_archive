@@ -11,4 +11,5 @@ You start with 5 warnings
 -1 warning for violating rule 1
 -2 warning for violating rule 2
 -3 warning for violating rule 3, 4[/color]
+
 [b]TRY TO APPLY TO WA[/b]
