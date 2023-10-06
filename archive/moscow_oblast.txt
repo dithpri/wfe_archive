@@ -1,16 +1,1 @@
-[color=navy][b]Moscow Oblast[/b]
-an Oblast of [region=Russian Federation]
-[/color][color=green]
-FACTS
-[b]Established:[/b] 1929 Jan 14
-[b]Administrative Center:[/b] none
-[b]Area:[/b] 44,300 km2 (55th)
-[b]Population:[/b] 7,095,120 (2010 c. - 2nd)
-[/color][color=olive]
-REGION
-[b]Founded:[/b] 2019 Mar 08
-a [region=0000] Embassy Oracle Region
-a [region=Russian Federation] Region
-[/color][color=red]
-[b]No Embassy Offers Please[/b][/color]
-
+The Moscow Region is the main region of Moscow and Russia
