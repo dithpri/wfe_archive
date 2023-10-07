@@ -3,7 +3,10 @@ Presidential Republic under an absolute monarchy
 [u]Head of State [/u]
 [b]Crown of the Republic[/b] - [nation]Upper Blussiaordia[/nation]
 
-[u]Council of Ministers [/u]
+[u]Head of Government[/u]
 [b]Prime Minister[/b] - [nation]Upper Blussiaordia[/nation]
+[b]Deputy Prime Minister[/b] - [nation]Freme San[/nation]
+
+[u]Council of Ministers [/u]
 [b]Lord President of the Privy Council[/b] - [nation]Cow Dra[/nation]
 [b]First Lord of the Treasury[/b] - [nation]United Dre Tatert[/nation]
