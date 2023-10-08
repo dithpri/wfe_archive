@@ -1,5 +1,5 @@
 [hr]
-&amp;#128081;[color=yellow][b] Welcome to [region]The Great Monarchical Nations[/region][/b], the home of the [/color][b][color=red]great kings and emperors[/b] of NationStates[/color] &amp;#128081;
+&amp;#128081;[color=blue][b] Welcome to [region]The Great Monarchical Nations[/region][/b], the home of the [/color][b][color=red]great kings and emperors[/b] of NationStates[/color] &amp;#128081;
 
 You are the sovereign over your lands, this is the Union of Absolute, Parliamentary or Constitutional Monarchies under the same region.
 
@@ -7,6 +7,6 @@ You are the sovereign over your lands, this is the Union of Absolute, Parliament
 
 [hr]
 [b]Regional Languages &amp;#128172;[/b]
-[list][*][color=yellow]Espa&ntilde;ol[/color]
+[list][*][color=gold]Espa&ntilde;ol[/color]
 [*][color=green]Portugu&ecirc;s[/color]
 [*][color=blue]English[/color][/list]

@@ -9,10 +9,6 @@ Only resident nations and puppets can join the map[/i]
 Map members:
 [nation]Great Britain oo[/nation]
 [nation]The Tony Paporordia[/nation] from [region]Holy John Three[/region]
-[nation]Fortilla[/nation] from [region]Federal District[/region]
+[nation]Fortilla[/nation] from [region]The Aaland Islands[/region]
 [nation]New Marijuana Republic[/nation] from [region]The Free Land of The Eternal Togethernes[/region]
 [nation]Zuffari[/nation] from [region]Voxopolis[/region]
-
-[b]N-Day9 Results:
-#16 Shield
-#39 Score[/b]
