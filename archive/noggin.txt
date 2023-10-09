@@ -1,1 +1,9 @@
-Did you use your noggin today?
+[colour=red][i]&quot;Did you use your noggin today?&quot; - [nation]Ming-Ming[/nation][/i]
+
+Welcome to Noggin, [b]Jump Point[/b] of Elmo&#39;s Small World.[/colour]
+
+Other Regions of ESW:
+
+[region]Elmos Small World[/region] (parent region)
+[region]DinoLandia[/region] (puppet storage)
+[region]1000 Islands[/region] (embassy hub)

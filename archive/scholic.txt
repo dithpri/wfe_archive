@@ -1,1 +1,5 @@
-A Region&#133;
+[table]
+[tr][td][color=00477e][b]Scholic[/b][/color][/td][/tr]
+[tr][td][color=004d33][b]Founded:[/b] 2023 Oct 08[/color][/td][/tr]
+[tr][td][color=654321]a [region=0000] Oracle Region (73)[/color][/td][/tr]
+[/table]

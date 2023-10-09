@@ -1,9 +1,18 @@
-[b][region]THE BROTHERHOOD of MALICE[/region] COMES AT YA STRAIGHT OUTTA COMPTON[/b]
+[b]# &amp;lt;&amp;lt;&amp;lt; RAIDS WELCOME AND ENCOURAGED &amp;gt;&amp;gt;&amp;gt;[/b]
 
-The R.W.A. (Raidaz Wit Attitudez) hitting ya&#39;ll up tonight for the missed on NS card bank payments! So we come strapped, packin, hittin on the block from Compton. We cut your little regions to pieces with the gats we pack. 
+[b]print(&quot;Welcome to the region of [url=https://www.nationstates.net/nation=malphe_ii]Malphe Vytherov[/url]&quot;)[/b]
 
-[b]Refuse to pay bank, and you&#39;ll be seeing us [i]soon[/i].
+[i]print(&#39;&#39;&#39;A computer chatted to itself in alarm as it noticed an airlock open and close itself for no apparent reason.
+This was because Reason was in fact out to lunch.
 
-Cracked up Assassins:
-[color=#4a77ff]Taskmaster[/color] [nation]Volstrostia[/nation]
-Assassin [nation]The Antichrist[/nation][/b]
+A hole had just appeared in the Galaxy.
+It was exactly a nothingth of a second long, a nothingth of an inch wide,
+and quite a lot of million light years from end to end.
+As it closed up lots of paper hats and party balloons fell out of it
+and drifted off through the universe.
+A team of seven three-foot-high market analysts fell out of it and died,
+partly of asphyxiation, partly of surprise.&#39;&#39;&#39;)[/i]
+
+[b]raidedBy = [&quot;Lily&quot;, &quot;The Black Hawks&quot;, &quot;Ema Skye&quot;, &quot;North Pacific Army&quot;, &quot;Brotherhood of Malice&quot;][/b]
+
+[u]while True: print(&quot;RATS RATS RATS RATS&quot;)[/u]

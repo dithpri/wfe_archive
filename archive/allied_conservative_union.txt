@@ -1,61 +1,60 @@
-[u][b][Color=8b2323]Colony of [Region]Kaiserreich[/Region][/Color]
-
-[url=https://www.nationstates.net/nation=free_to_live/detail=factbook/id=main]Reichswehr Minister[/url]
+[u][b][url=https://www.nationstates.net/nation=free_to_live/detail=factbook/id=main]Reichswehr Minister[/url]
 
 [Url=https://www.nationstates.net/page=dispatch/id=1788044]Checkpoint Guard[/Url]
 
 [Url=https://www.nationstates.net/page=dispatch/id=1318494]Vedul Priest[/Url]
 
-[Url=https://www.nationstates.net/page=dispatch/id=1735677 ]KAZ Journalist[/Url]
+[nation]Free to Live[/nation]
 
-[color=Black]&amp;#9608;&amp;#9608;[/Color][color=dcdcdc]&amp;#9608;[/Color][color=Black]&amp;#9608;&amp;#9608;[/color] [Color=Blue] Silver Eagle for Good Activity [/Color]
-
-[color=ffbf00]&amp;#9608;&amp;#9608;[/Color][color=dcdcdc]&amp;#9608;[/Color][color=ffbf00]&amp;#9608;&amp;#9608;[/color] [Color=Blue] Golden Eagle for Exceptional Activity [/Color]
-
-[Color=dcdcdc]&amp;#9608;[/Color][Color=Cotton]&amp;#9608;[/Color][Color=Black]&amp;#9608;[/Color][Color=Cotton]&amp;#9608;[/Color][Color=dcdcdc]&amp;#9608;[/Color] [Color=Blue] Cross of Nobles[/Color]
-
-[Color=dcdcdc]&amp;#9608;[/Color][Color=ffbf00]&amp;#9608;[/Color][Color=dcdcdc]&amp;#9608;[/Color][Color=ffbf00]&amp;#9608;[/Color][Color=dcdcdc]&amp;#9608;[/Color][Color=Blue] The White Cross of Ministers[/Color]
-
-[Color=Black]&amp;#9608;&amp;#9608;[/Color][Color=Cotton]&amp;#9608;[/Color][Color=dcdcdc]&amp;#9608;&amp;#9608;[/Color][Color=Blue] The Salvation of the Fatherland Cross For Strategic Heroism[/Color]
-
-[Color=835C3B]&amp;#9608;[/Color][Color=Black]&amp;#9608;[/Color][Color=Cotton]&amp;#9608;[/Color][color=dcdcdc]&amp;#9608;[/Color][Color=835C3B]&amp;#9608;[/Color][Color=Blue] Imperial Order of Scansinia 4th Class - Loyalty Through Labor[/Color]
-
-[Color=Black]&amp;#9608;[/Color][Color=dcdcdc]&amp;#9608;[/Color][Color=Silver]&amp;#9608;&amp;#9608;[/Color][Color=dcdcdc]&amp;#9608;[/Color][Color=Black]&amp;#9608;[/Color] [Color=Blue] Silver Stahlhelm for 10 Raids[/Color]
-
-[Color=Black]&amp;#9608;[/Color][color=dcdcdc]&amp;#9608;[/Color][color=ffbf00]&amp;#9608;&amp;#9608;[/color][color=dcdcdc]&amp;#9608;[/Color][Color=Black]&amp;#9608;[/Color][Color=Blue] Golden Stahlhelm for 25 Raids[/Color]
-
-[Color=ffbf00]&amp;#9608;[/Color][Color=dcdcdc]&amp;#9608;[/Color][Color=Cotton]&amp;#9608;&amp;#9608;[/Color][Color=dcdcdc]&amp;#9608;[/Color][Color=ffbf00]&amp;#9608;[/Color] [Color=Blue] The Star of Commanders for Generals[/Color]
-
-[Color=dcdcdc]&amp;#9608;[/Color][Color=Black]&amp;#9608;&amp;#9608;&amp;#9608;[/Color][Color=dcdcdc]&amp;#9608;[/Color][Color=Blue] The Grand Cross of the Iron Cross[/Color]
-
-[NatIon]Free to Live[/Nation]
-
-[nation]Gooseneckistan[/nation] 
+[nation]Gooseneckistan[/nation]
 
 [nation]Joyful Sorrows[/nation]
 
 [nation]Wango Tango[/nation]
 
-[nation]Bud Lightyear[/nation]
-
-[nation]Coupe De Village[/nation]
+[nation]Coupe de Village[/nation]
 
 [nation]Dregs of the Earth[/nation]
 
-[Nation]Volksleben Kaput[/Nation]
+[nation]Bud Lightyear[/nation][/U]
+
+
+[spoiler=Ribbons]Army Ribbons - 
+
+[Color=Black]&amp;#9608;[/Color][Color=dcdcdc]&amp;#9608;[/Color][Color=Silver]&amp;#9608;&amp;#9608;[/Color][Color=dcdcdc]&amp;#9608;[/Color][Color=Black]&amp;#9608;[/Color] [Color=Blue] Silver Stahlhelm (10 Raids)[/Color]
+
+[Color=Black]&amp;#9608;[/Color][color=dcdcdc]&amp;#9608;[/Color][color=ffbf00]&amp;#9608;&amp;#9608;[/color][color=dcdcdc]&amp;#9608;[/Color][Color=Black]&amp;#9608;[/Color][Color=Blue] Golden Stahlhelm (25 Raids)[/Color]
+
+[Color=ffbf00]&amp;#9608;[/Color][Color=dcdcdc]&amp;#9608;[/Color][Color=ffbf00]&amp;#9608;&amp;#9608;[/Color][Color=dcdcdc]&amp;#9608;[/Color][Color=ffbf00]&amp;#9608;[/Color][Color=Blue] Golden Cross of Merit (50 Raids)[/Color]
+
+[Color=ffbf00]&amp;#9608;[/Color][Color=dcdcdc]&amp;#9608;[/Color][Color=Cotton]&amp;#9608;&amp;#9608;[/Color][Color=dcdcdc]&amp;#9608;[/Color][Color=ffbf00]&amp;#9608;[/Color] [Color=Blue] The Star of Commanders (Generals)[/Color]
+
+[Color=dcdcdc]&amp;#9608;[/Color][Color=Black]&amp;#9608;&amp;#9608;[/Color][Color=dcdcdc]&amp;#9608;[/Color][Color=Blue] Grand Cross of the Iron Cross[/Color]
+
+Civilian Ribbons -
+
+[color=Black]&amp;#9608;&amp;#9608;[/Color][color=dcdcdc]&amp;#9608;[/Color][color=Black]&amp;#9608;&amp;#9608;[/color] [Color=Blue] Silver Eagle (Good Activity) [/Color]
+
+[color=ffbf00]&amp;#9608;&amp;#9608;[/Color][color=dcdcdc]&amp;#9608;[/Color][color=ffbf00]&amp;#9608;&amp;#9608;[/color] [Color=Blue] Golden Eagle (Exceptional Activity) [/Color]
+
+[Color=dcdcdc]&amp;#9608;[/Color][Color=Cotton]&amp;#9608;[/Color][Color=Black]&amp;#9608;[/Color][Color=Cotton]&amp;#9608;[/Color][Color=dcdcdc]&amp;#9608;[/Color] [Color=Blue] Cross of Nobles[/Color]
+
+[Color=dcdcdc]&amp;#9608;[/Color][Color=ffbf00]&amp;#9608;[/Color][Color=dcdcdc]&amp;#9608;[/Color][Color=ffbf00]&amp;#9608;[/Color][Color=dcdcdc]&amp;#9608;[/Color][Color=Blue] White Cross of Ministers[/Color]
+
+[Color=Black]&amp;#9608;&amp;#9608;[/Color][Color=Cotton]&amp;#9608;[/Color][Color=dcdcdc]&amp;#9608;&amp;#9608;[/Color][Color=Blue] Salvation of the Fatherland Cross (Strategic Heroism)[/Color]
+
+[Color=835C3B]&amp;#9608;[/Color][Color=Black]&amp;#9608;[/Color][Color=Cotton]&amp;#9608;[/Color][color=dcdcdc]&amp;#9608;[/Color][Color=835C3B]&amp;#9608;[/Color][Color=Blue] Imperial Order of Scansinia 4th Class (Loyalty Through Labor)[/Color]
+[/spoiler]
 
 [color=Black]&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;Allied&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;[/color]
-[color=Green]&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;Conservative&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;[/color]
+[color=Green]&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;Conservative&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;[/color]
 [color=Cotton]&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;Union&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;[/color]
 
-[Url=https://www.nationstates.net/page=dispatch/id=1551310]History[/Url]
-
+[U]
 [Url=https://forum.nationstates.net/viewtopic.php?f=12&amp;t=99173&amp;sid=bf26b7ae8456f1fc9031b0817c0f8686]Military 1[/Url]
 
 [Url=https://forum.nationstates.net/viewtopic.php?f=12&amp;t=307728&amp;sid=608341c1eddf196be8872f1b6cca9ad1]Military 2[/Url]
 
 [Url=https://forum.nationstates.net/viewtopic.php?f=12&amp;t=353470]Region[/Url]
 
-[Url=https://www.nationstates.net/page=list_entities]Search[/url]
-
-[Url=https://www.nationstates.net/page=boneyard]Boneyard[/Url][/u][/b]
+[Url=https://www.nationstates.net/page=list_entities]Search[/url][/B][/U]
