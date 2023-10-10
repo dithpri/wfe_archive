@@ -7,3 +7,4 @@ Allied Regions:
 [region]The Three Isles[/region]
 [region]The Federation of Utopias Unitum[/region]
 [region]The Galaktic Empire[/region]
+Occupied Region: [region]Darcrows Realm Of Carnia[/region]

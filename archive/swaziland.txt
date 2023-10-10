@@ -1,17 +1,13 @@
-[color=004d33][b]Swaziland[/b]
-[/color][color=644221]
-officially [region=Kingdom of Eswatini] (renamed 2018 Apr 19)
-[/color][color=00477e]
-FACTS
-[b]Capital:[/b] [region=Mbabane] (executive); [region=Lobamba] (legislative)
+[table]
+[tr][td][color=004d33][b]Swaziland[/b][/color][/td][/tr]
+[tr][td][color=644221]officially [region=Kingdom of Eswatini] (renamed 2018 Apr 19)[/color][/td][/tr]
+[/table][table][tr][td][color=00477e]FACTS[/color][/td][td][color=454500]REGION[/color][/td][/tr]
+[tr][td][color=00477e][b]Capital:[/b] [region=Mbabane] (executive); [region=Lobamba] (legislative)
 [b]Government:[/b] Unitary absolute monarchy
 [b]Independence:[/b] 1968 Sep 06 (United Kingdom)
 [b]Area:[/b] 17,364 km&sup2; (6,704 sq mi)
-[b]Population:[/b] 1,160,164 (2020 est)
-[/color][color=cc9933]
-REGION
-[b]Founded:[/b] 2016 04 28
-[b]Featured:[/b] 2021 07 13
-an [region=Ancient Lands] region
-[/color][color=004d33]
-Embassy offers are welcome[/color]
+[b]Population:[/b] 1,160,164 (2020 est)[/color][/td][td][color=454500][b]Founded:[/b] 2016 APR 28
+[b]Featured:[/b] 2021 JUL 13; 2023 OCT 09
+an [region=Ancient Lands] region[/color][/td][/tr]
+[/table][table]
+[tr][td][color=004d33][b]Embassy offers are welcome[/b][/color][/td][/tr][/table]

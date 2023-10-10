@@ -11,8 +11,8 @@ And officers: [nation]Vologda State[/nation],  [nation]Russia 36[/nation],
 [color=black]30.06.2023 - the creation of the region.[/color]
 [color=orange]20.07.2023 - region of the day.[/color]
 [hr]
-[color=orange]GA:[/color] Not decided
-[color=black]SC:[/color] [color=darkblue]FOR[/color]
+[color=orange]GA:[/color] [color=darkblue]FOR[/color]
+[color=black]SC:[/color] Not decided
 [hr]
 [color=darkorange]-endorsement cap-[/color]
 [color=black]Endorsement cap if you support a delegate: [/color][color=darkorange]5[/color]
