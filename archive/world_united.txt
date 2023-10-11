@@ -7,5 +7,5 @@ World Events:[b]None[/b]
 
 Month-[b]September[/b]
 
-Weather:Today&amp;#127810;,Thurs&amp;#127810;,Fri&amp;#9728;&amp;#65039;,Sat&amp;#9728;&amp;#65039;,Sun&amp;#9728;&amp;#65039;,Mon&amp;#9728;&amp;#65039;,Tues&amp;#127781;,Wed&amp;#9729;&amp;#65039;
+Weather:Today&amp;#127810;,Fri&amp;#9728;&amp;#65039;,Sat&amp;#9728;&amp;#65039;,Sun&amp;#9728;&amp;#65039;,Mon&amp;#9728;&amp;#65039;,Tues&amp;#127781;,Wed&amp;#9729;&amp;#65039;,Thurs&amp;#127781;
 

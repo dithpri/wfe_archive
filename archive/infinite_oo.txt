@@ -6,9 +6,5 @@ Raiders and invaders rejected
 [i]Embassy nations can send puppets to this region
 Only resident nations and puppets can join the map[/i]
 
-Map members:
-[nation]Great Britain oo[/nation]
-[nation]The Tony Paporordia[/nation] from [region]Holy John Three[/region]
-[nation]Fortilla[/nation] from [region]The Aaland Islands[/region]
-[nation]New Marijuana Republic[/nation] from [region]The Free Land of The Eternal Togethernes[/region]
-[nation]Zuffari[/nation] from [region]Voxopolis[/region]
+Colonies:
+[region]Epsilon Eridani System[/region]

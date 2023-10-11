@@ -6,7 +6,8 @@ CARETAKER:[/b] [nation=short]Dog Lake[/nation]
 [tr][td][color=00477e][url=http://texasregion.net/nsdossier/]nsDossier[/url]
 thanks [region=Texas]
 includes Embassy Oracle Tool 
-&amp; Dossier Search Tools[/color][/td][td][color=004d33][b]Founded:[/b] 2022 Mar 11
+&amp; Dossier Search Tools[/color]
+[color=red]Currently Out of Order[/color][/td][td][color=004d33][b]Founded:[/b] 2022 Mar 11
 [b]Featured:[/b] 2023 Apr 26
 [b]Associated with:[/b]
 - [region=0000] - [region=Ancient Lands] - [region=United States of America]
