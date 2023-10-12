@@ -2,11 +2,15 @@ This region is the Homeland of the Nation of Asmoria and all it states, forming 
 
 ( Federal Monarchy, in the strict sense, is a federation of states with a single monarch as overall head of the federation, but retaining different monarchs, or having a non-monarchical system of government, in the various states joined to the federation.)
 
-This Region also serves as an Alliance HUB for [nation]The Kingdom of the Three Isles[/nation] and so forth other allies to them.
+[nation]The Kingdom of the Three Isles[/nation] is hereby declared &amp;#128220; to be Co-Monarch within the Federation.
+
+This Region serves as an Alliance HUB for [region]The Three Isles[/region] and otherwise allied forces.
 
 Allied Regions:
 [region]The Three Isles[/region]
 [region]The Federation of Utopias Unitum[/region]
 [region]The Galaktic Empire[/region]
 
-Occupied Region: [region]Darcrows Realm Of Carnia[/region]
+Occupied Region:
+ [region]Darcrows Realm Of Carnia[/region]
+[region]Remnant Kingdom Fortress[/region]
