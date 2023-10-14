@@ -1,1 +1,6 @@
-choo choo
+[table]
+[tr][td][color=004d33][b]Woodbridge[/b][/color][/td][/tr]
+[tr][td][color=00477e][i]checking this region[/i][/color][/td][/tr]
+[tr][td][color=7e7e00][b]Founded:[/b] 2023 OCT 13
+this is an [region=Ancient Lands] Oracle Region[/color][/td][/tr]
+[/table]
