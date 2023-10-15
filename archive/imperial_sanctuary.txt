@@ -2,14 +2,17 @@
 
 A [color=blue]directorate[/color] of imperials and corporations seeking economic prosperity, armed defense and political security.[/b]
 [hr]
-[b][color=#2471A3]Established:[/color][/b] 9 September 2023
-[b][color=#2471A3]Founder:[/color][/b] [nation]Histarctica[/nation]
-[b][color=#2471A3]Overseer:[/color][/b] [nation]VinCorp[/nation]
+[b]|[/b] [b][color=#2471A3]Established:[/color][/b] 9 September 2023
+[b]|[/b] [b][color=#2471A3]Founder:[/color][/b] [nation]Histarctica[/nation]
+[b]|[/b] [b][color=#2471A3]Overseer:[/color][/b] [nation]VinCorp[/nation]
 
-[b][color=#DC7633]Endorse our WA Delegate:[/color][/b] None
+[b]|[/b] [b][color=#DC7633]Endorse our WA Delegate:[/color][/b] None
 
 [hr]
-[b]|[/b] [b][color=#2471A3]Imperial Director:[/color][/b] [nation]Histarctica[/nation] [b]|[/b] [b][color=#2471A3]Director of Security:[/color][/b] None [b]|[/b] [b][color=#2471A3]Director of Communication:[/color][/b] None [b]|[/b] [b][color=#2471A3]Director of Research:[/color][/b] None [b]|[/b]
+[b]|[/b] [b][color=#2471A3]Imperial Director:[/color][/b] [nation]Histarctica[/nation]
+[b]|[/b] [b][color=#2471A3]Director of Security:[/color][/b] None
+[b]|[/b] [b][color=#2471A3]Director of Communication:[/color][/b] None
+[b]|[/b] [b][color=#2471A3]Director of Research:[/color][/b] None
 
 [hr]
 [b]The [color=blue]Imperial Sanctuary[/color] is sponsored by [nation]VinCorp[/nation].[/b]
