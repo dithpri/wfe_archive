@@ -5,18 +5,13 @@
 [b]| [url=https://www.nationstates.net/nation=tarkin/detail=factbook/id=main]Regional Constitution[/url] | [url=https://www.nationstates.net/nation=tarkin/detail=factbook/id=1354216]Regional Map[/url] | [url=https://www.nationstates.net/nation=tarkin/detail=factbook/id=1354216]Physical Map[/url] | [url=https://www.maptoglobe.com/HkO0VTZao]Globe[/url]  | [url=https://www.nationstates.net/region=katzen]Katzen[/url] | [url=https://www.nationstates.net/region=Nerdfighteria]Nerdfighteria[/url] |
 
 [u][color=maroon]Executive:[/color][/u][/b]
-President: [nation]TheRuhr[/nation]
-Vice President: [nation]Terhoon[/nation]
-Attorney General: [nation]Camerwoon[/nation]
-Secretary of State: [nation]Caska[/nation]
-Governor of Katzen: [nation]Manhassett[/nation]
+President:
+Vice President:
+Attorney General:
+Secretary of State:
+Governor of Katzen:
 [color=grey][b][u]Senate:[/u][/b][/color]
-[nation]Marasaw[/nation]
-[nation]Opieland[/nation]
-[nation]Carinth[/nation]
-[nation]Manhassett[/nation]
-[nation]Terhoon[/nation] [i]Pro Tempore[/i]
-
+[i] FIVE SENATORS TO BE ELECTED FOR A SPECIAL TERM FOR THE REMAINDER OF 2022
 
 [color=navy][b][u]Supreme Court:[/color][/b][/u]
 [i]Chief Justice:[/i] [nation]Burkai[/nation]

@@ -1,18 +1,15 @@
-[table][tr][td][hr][list]
-[color=00477e]
-[b]World[/b]
-
-[/color][color=604020]
-[i]Region collected 
+[table]
+[tr][td][color=004d33][b]World[/b][/color][/td][/tr]
+[tr][td][color=654321][i]Region collected 
 became a puppet storage region
-an embassy matrix region[/i][/color][/list]
-[hr][/td][td][hr][list]
-
-[color=00477e]this is a [region=Dog lake] allied region
-associated with[list][region=0000]
-[region=Ancient Lands]
-[region=United States of America]
-[region=Westminster][/list][/list][hr][/color][/td][/tr][/table][table][tr][td][hr]
-
-[list][color=004d33][b]Embassy Offers Accepted[/b]
-[b]Caretaker Nation:[/b] [nation]Dog Lake[/nation][/color][/list][hr][/td][/tr][/table]
+an embassy matrix region[/i][/color][/td][/tr]
+[/table][table]
+[tr][td]REGION[/td][/tr]
+[tr][td][color=00477e]this is a [region=Dog lake] allied region
+associated with
+- [region=0000] - [region=Ancient Lands] - [region=United States of America][/color][/td][/tr]
+[/table][table]
+[tr][td]EMBASSY[/td][/tr]
+[tr][td][color=004d33][b]Embassy Offers Accepted[/b]
+[b]Caretaker Nation:[/b] [nation]Dog Lake[/nation][/color][/td][/tr]
+[/table]

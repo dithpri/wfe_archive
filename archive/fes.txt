@@ -1,1 +1,8 @@
-[color=green][b]Fes[/b][/color]
+[table]
+[tr][td][color=900009][b]Fes[/b][/color][/td][/tr]
+[tr][td][color=004d33]REGION
+[b]Founded:[/b] 2023 OCT 15
+A [region=Morocco] allied region[/color][/td][/tr]
+[tr][td][color=900009][b]An Embassy Oracle Region[/b]
+Not accepting Embassy Offers at this time[/color][/td][/tr]
+[/table]
