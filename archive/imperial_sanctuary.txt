@@ -11,8 +11,8 @@ A [color=blue]directorate[/color] of imperials and corporations seeking economic
 [hr]
 [b]|[/b] [b][color=#2471A3]Imperial Director:[/color][/b] [nation]Histarctica[/nation]
 [b]|[/b] [b][color=#2471A3]Director of Security:[/color][/b] None
-[b]|[/b] [b][color=#2471A3]Director of Communication:[/color][/b] None
+[b]|[/b] [b][color=#2471A3]Director of Enlightenment:[/color][/b] None
 [b]|[/b] [b][color=#2471A3]Director of Research:[/color][/b] None
 
 [hr]
-[b]The [color=blue]Imperial Sanctuary[/color] is sponsored by [nation]VinCorp[/nation].[/b]
+[b]The [color=blue]Imperial Sanctuary[/color] is under the guidance of [nation]VinCorp[/nation].[/b]
