@@ -9,3 +9,4 @@ Only resident nations and puppets can join the map[/i]
 Colonies:
 [region]Epsilon Eridani System[/region]
 [region]West Arctic Frontier[/region]
+[region]Ace Space[/region]
