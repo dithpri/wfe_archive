@@ -1,4 +1,4 @@
-[table][tr][td][color=red][b]a very thin line[/b][/color][/td][/tr][/table][table]
+[table][tr][td][color=900009][b]a very thin line[/b][/color][/td][/tr][/table][table]
 [tr][td][color=004d33]REGION[/color][/td][/tr]
 [tr][td][color=004d33][b]Founded:[/b] 2023 Oct 17
 a [region=0000] region
