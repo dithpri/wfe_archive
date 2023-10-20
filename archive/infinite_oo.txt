@@ -1,12 +1,1 @@
-[b]Welcome![/b]
-
-Nations and embassies accepted
-Raiders and invaders rejected
-
-[i]Embassy nations can send puppets to this region
-Only resident nations and puppets can join the map[/i]
-
-Colonies:
-[region]Epsilon Eridani System[/region]
-[region]West Arctic Frontier[/region]
-[region]Ace Space[/region]
+a
