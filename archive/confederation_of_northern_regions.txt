@@ -12,7 +12,7 @@ And officers: [nation]Russia 36[/nation],
 [color=orange]20.07.2023 - region of the day.[/color]
 [hr]
 [color=orange]GA:[/color] [color=darkblue]FOR[/color]
-[color=black]SC:[/color] [color=darkblue]FOR[/color]
+[color=black]SC:[/color] [color=darkred]AGAINST[/color]
 [hr]
 [color=darkorange]-endorsement cap-[/color]
 [color=black]Endorsement cap if you support a delegate: [/color][color=darkorange]4[/color]

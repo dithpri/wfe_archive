@@ -1,0 +1,7 @@
+[table]
+[tr][td][color=4e82b4][b]Vinterdiensk[/b][/color][/td][/tr]
+[/table][table]
+[tr][td]REGION[/td][/tr]
+[tr][td][color=696900][b]Founded:[/b] 2023.10.22
+an [region=Ancient Lands] region[/color][/td][/tr]
+[/table]

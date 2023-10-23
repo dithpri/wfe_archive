@@ -1,0 +1,8 @@
+[table]
+[tr][td][color=004d33][b]Irmgard[/b][/color][/td][/tr]
+[/table][table]
+[tr][td]REGION[/td][/tr]
+[tr][td][color=004d33][b]Founded:[/b] 2023 10 22
+an [region=Ancient Lands] region
+Embassy Policy Pending[/color][/td][/tr]
+[/table]
