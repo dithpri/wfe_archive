@@ -1,3 +1,4 @@
-[color=00477e][b]Omega Prime[/b][/color]
-[color=grey]
-[i]proposed matrix region[/i][/color]
+[table][tr][td][b]Omega Prime[/b][/td][/tr][/table]
+[table][tr][td]REGION[/td][/tr]
+[tr][td][color=004d33][b]Founded:[/b] 2023.09.03
+a [region=0000] puppet storage region[/color][/td][/tr][/table]

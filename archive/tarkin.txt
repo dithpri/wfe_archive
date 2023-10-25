@@ -11,7 +11,12 @@ Attorney General:
 Secretary of State:
 Governor of Katzen:
 [color=grey][b][u]Senate:[/u][/b][/color]
-[i] FIVE SENATORS TO BE ELECTED FOR A SPECIAL TERM FOR THE REMAINDER OF 2022
+[u]Special Term[/u]
+- [nation]Terhoon[/nation]
+- [nation]MalDorAeHan[/nation]
+- [nation]Shenendoah[/nation]
+- [nation]Kiwannis[/nation]
+- [nation]Caska[/nation]
 
 [color=navy][b][u]Supreme Court:[/color][/b][/u]
 [i]Chief Justice:[/i] [nation]Burkai[/nation]
