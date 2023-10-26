@@ -20,7 +20,4 @@ Dichte 385,4 Einwohner/km&sup2; [/b]
 [b]Staatsklassifizierung:[color=blue] F&uuml;rstentum[/color]
 Zustand: [color=read]Neutral[/color]   [/b]
 [hr]
-[b]Abkommen &uuml;ber pr&auml;ventive Milit&auml;rhilfe
-[Nation]Task Force 31[/Nation] - [nation]Task Force 59[/nation] -
-[Region]Task Force 31[/Region]- [region]Task Force 59[/region][/b] -
- ==&amp;gt;23/10/2023
+

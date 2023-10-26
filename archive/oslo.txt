@@ -1,14 +1,12 @@
-[hr][list][color=006432][b]Oslo[/b][/list][hr]
-[/color][color=006400]
-FACTS[list]Capital City of Norway, 
+[table][tr][td][color=006432][b]Oslo[/b][/color][/td][/tr][/table]
+[table][tr][td]FACTS[/td][td]REGION[/td][/tr]
+[tr][td][color=004d33]Capital City of Norway, 
 the seat of Norway&#39;s national government
 Norway&#39;s largest city
 [b]Population:[/b] 697,500
-[b]Area:[/b] 480.8 km&sup2;[/list][/color][color=olive]
-
-REGION[list][b]Founded:.[/b] 2016 06 23
+[b]Area:[/b] 480.8 km&sup2;[/color][/td][td][color=olive][b]Founded:.[/b] 2016 06 23
 [b]Puppets :.[/b] 2019 08 22
 [b]Matrixed:.[/b] 2019 10 22; 2020 11 30
 [b]Sister Regions:[/b] [region=Copenhagen] &amp; [region=Stockholm]
-Allied with [region=Great Britain and Northern Ireland][/list][/color][color=dd6900]
-[hr][list][b]Embassy Offers Welcome[/b][/color][/list][hr]
+Allied with [region=Great Britain and Northern Ireland][/color][/td][/tr][/table]
+[table][tr][td][color=dd6900][b]Embassy Offers Welcome[/b][/color][/td][/tr][/table]

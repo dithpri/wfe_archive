@@ -1,18 +1,13 @@
-[color=navy][b]Great Europe[/b]
-[/color][color=green]
-FACTS
-the western peninsula of Eurasia
+[table][tr][td][color=navy][b]Great Europe[/b][/color][/td][/tr][/table]
+[table][tr][td]FACTS[/td][td]REGION[/td][/tr]
+[tr][td][color=004d33]the western peninsula of Eurasia
 Europe is more a people than a geographical place
 Composed of 51 nations; 27 are in the European Union
 Consists of several islands to the north and west as well as Cyprus
 [b]Population:[/b] 695 million
-[b]Area:[/b] 10.18 million km&sup2;
-[/color][color=olive]
-REGION
-[b]Founded:[/b] 2019 Jun 24
-[b]Featured;[/b] 2020 Jul 26
+[b]Area:[/b] 10.18 million km&sup2;[/color][/td][td][color=olive][b]Founded:[/b] 2019 Jun 24
+[b]Featured;[/b] 2020 Jul 26; 2023 Oct 25
 Founded as a puppet storage region
-A Queen&#39;s State region
-Allied with: [region=United States of America], [region=Old Spirit]
-[/color][color=green]
-[b]Embassy Offers Welcome[/b][/color]
+An [region=Ancient Lands] region
+Allied with: [region=United States of America], [region=0000], [region=Dog Lake][/color][/td][/tr][/table]
+[table][tr][td][color=004d33][b]Embassy Offers Welcome[/b][/color][/td][/tr][/table]
