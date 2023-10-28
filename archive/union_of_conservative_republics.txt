@@ -4,11 +4,4 @@ Presidential Republic under an absolute monarchy
 [b]Emperor of the Republic[/b] - [nation]Upper Blussiaordia[/nation]
 
 [u]Head of Government[/u]
-[b]Prime Minister[/b] - [nation]Upper Blussiaordia[/nation]
-[b]Deputy Prime Minister[/b] - [nation]Freme San[/nation]
-
-[u]Council of Ministers [/u]
-[b]Lord President of the Privy Council[/b] - [nation]Cow Dra[/nation]
-[b]First Lord of the Treasury[/b] - [nation]Upper Blussiaordia[/nation]
-[b]Chancellor of the Exchequer &amp; Second Lord of the Treasury[/b] - [nation]United Dre Tatert[/nation]
-[b]Minister for the Union[/b] - [nation]Inner Ama Iamasia[/nation]
+[b]Chancellor[/b] - [nation]Upper Blussiaordia[/nation]
