@@ -1,7 +1,8 @@
-The World Republic Navy is the military organisation of [region]World Republic[/region]
+[region]The World Republic Navy[/region] is the military organization of [region]World Republic[/region]
 
-Officers:[hr]
+[hr]
+Officers:
 
-[*] Grand Admiral - [nation]Trigri[/nation]
-[*] Vice Grand Admiral - [nation]New Rhenna[/nation]
-[*] Garrison Commanders - [nation]Menschliche Utopie[/nation], [nation]Trigri[/nation]
+Grand Admiral - [nation]Trigri[/nation]
+Vice Grand Admiral - [nation]New Rhenna[/nation]
+Garrison Commanders - [nation]Menschliche Utopie[/nation], [nation]Trigri[/nation]
