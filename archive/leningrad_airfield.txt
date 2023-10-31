@@ -3,7 +3,8 @@
 [list][*]The PRAF jump point is [b][region]Red Front[/region][/b].
 [*]Standing orders: move to [b][region]Philippines[/region][/b] and endorse [nation]Batac[/nation], plus all regional offciers!
 [*]Current SQHQ Officers:
-[list][*][b]Air Marshal:[/b] [nation]Mlakhavia[/nation]
-[*][b]Marshal-Lieutenant:[/b] [nation]UFROE[/nation]
-[*][b]Squadron Leaders:[/b] [nation]Pan Kath[/nation], [nation]Kireerva[/nation], [nation]Valoptia[/nation][/list][/list]
+[list][*][b]Air Marshal (+ Marshal-Lieutenant):[/b] [nation]Mlakhavia[/nation]
+[*][b]Squadron Leaders:[/b] [nation]Pan Kath[/nation], [nation]Kireerva[/nation], [nation]Valoptia[/nation]
+[*][b]Base Commander:[/b] [nation]New Astri[/nation]
+[*][b]Sr. Pilot Officer(s):[/b] [nation]Genderdruid[/nation][/list][/list]
 [color=#de5555][b][i]Through red skies to green fields![/i][/b][/color]

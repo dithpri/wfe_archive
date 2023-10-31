@@ -2,7 +2,16 @@
 
 [hr]
 
-[sub]In-Flight Music: [i]The Zephyr Song[/i], followed by SOAD&#39;s [I]Aerials[/I].
-Next song: Qotsa&#39;s [I]I sat by the ocean [/I][/sub]
+In-Flight Playlist: 
+[list][*][i]The Zephyr Song[/i]
+[*][I]Aerials[/I]
+[*][I]I Sat by the Ocean [/I]
+[/list]
 
-[sub]In-Flight Safety: Wearing goggles keeps the bugs out of your eyes![/sub]
+In-Flight Checklist: 
+
+[list][*]Moorings
+[*]Barnacles
+[*]Gremlins[/list]
+
+[sub][i]Tip: Wearing goggles may keep the bugs out of your eyes![/i][/sub]
