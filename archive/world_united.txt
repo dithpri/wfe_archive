@@ -7,5 +7,5 @@ World Events:[b]None[/b]
 
 Month-[b]November[/b]
 
-Weather:Today&amp;#127785;,Sun&amp;#127785;,Mon&amp;#127782;,Tues&amp;#9729;&amp;#65039;,Wed&amp;#9729;&amp;#65039;,Thurs&amp;#127782;,Fri&amp;#127780;&amp;#65039;,Sat&amp;#9729;&amp;#65039;
+Weather:Today&amp;#127785;,Mon&amp;#127782;,Tues&amp;#9729;&amp;#65039;,Wed&amp;#9729;&amp;#65039;,Thurs&amp;#127782;,Fri&amp;#127780;&amp;#65039;,Sat&amp;#9729;&amp;#65039;,Sun&amp;#127780;&amp;#65039;
 

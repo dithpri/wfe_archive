@@ -19,5 +19,7 @@ Dichte 385,4 Einwohner/km&sup2; [/b]
 [hr]
 [b]Staatsklassifizierung:[color=blue] F&uuml;rstentum[/color]
 Zustand: [color=read]Neutral[/color]   [/b]
+[b]Information System[/b]
+[nation]Global Intelligence Network[/nation]
 [hr]
 
