@@ -22,4 +22,6 @@ Zustand: [color=read]Neutral[/color]   [/b]
 [b]Information System[/b]
 [nation]Global Intelligence Network[/nation]
 [hr]
-
+[b]Official Petroleum Supply[/b]
+[region]International Petroleum Cartel[/region]
+[hr]
