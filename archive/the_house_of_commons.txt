@@ -2,9 +2,9 @@
 [u][url=region=the thaecian senate]Senate (Upper House)[/url][/u]
 [hr][b]Leadership:
 
-[list][*]Speaker of the House: [nation]Vacant[/nation] ([color=Gray]IND[/color])[/b]
-[list][*]Senior Deputy Speaker: [nation]Vacant[/nation] ([b][color=lightgreen]PTD[/color][/b])
-[*]Junior Deputy Speaker: [nation]Vacant[/nation] ([b][color=Gray]IND[/color][/b])
+[list][*]Speaker of the House: [nation]Snalland[/nation] ([color=Green]PTD[/color])[/b]
+[list][*]Senior Deputy Speaker: [nation]Vacant[/nation] ([b][color=lgrey]N/A[/color][/b])
+[*]Junior Deputy Speaker: [nation]Vacant[/nation] ([b][color=Gray]N/A[/color][/b])
 [i][*]Junior Deputy Speaker: [nation]Vacant[/nation] ([color=Gray]N/A[/color])[/list][/i][/list]
 
 [b][list][*]Shadow Speaker of the House: [nation]Celca[/nation] ([color=Gray]IND[/color])[/b]
