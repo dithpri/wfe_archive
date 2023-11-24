@@ -5,12 +5,17 @@
 
 [b][i]Royal Government[/i][/b]
 
-[color=darkred][b]Sovereign[/color]:[/b] [nation]King Carlisle I[/nation].
+[color=darkred][b]Emperor[/color]:[/b] [nation]King Carlisle I[/nation].
 Ruling House: [nation]House of Tudor[/nation].
-[b]Queen Consort:[/b] [nation]Queen Vittoria[/nation].
-[b]Prince of Wales:[/b] [nation]Prince George[/nation].
+[b][color=purple]Empress-Consort[/color]:[/b] [nation]Notrina[/nation].
+[b][color=red]Prince of Wales[/color]:[/b] [nation]Prince George[/nation].
 Prince of Scotland: [nation]Prince Henry[/nation].
 Princess Royal: [nation]Princess Elizabeth[/nation].
+
+[hr][hr]
+
+[b]Capital City[/b]: [nation]the_greater_london_authority[/nation].
+Royal Enclave: [nation]City of Westminster[/nation]
 
 [hr][hr]
 
