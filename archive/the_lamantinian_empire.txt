@@ -1,3 +1,11 @@
 The Lamantinian Empire, or simply Lamantine, is a Napoleonic era-themed region with 19th-century French and British aesthetics, founded by a history nerd with a dream.
 
 Work in progress.
+
+List of what to do:
+- Create a flag and a coat of arms
+- Figure out how to API recruitment
+- Create a Constitution
+- Create a government
+- Create titles of nobility and medals
+- Think of more stuff to do in the region
