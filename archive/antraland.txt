@@ -13,4 +13,4 @@ Defend: Population x (Defence Forces/100 + 1 if defence is 3 highest in governme
 If other nation aids + 100
 
 
-NO NATION LAND FIGHT AND DEFEND POWER: 2000
+NO NATION LAND FIGHT AND DEFEND POWER: 20,000,000

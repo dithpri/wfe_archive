@@ -3,7 +3,7 @@ The Lamantinian Empire, or simply Lamantine, is a Napoleonic era-themed region w
 Work in progress.
 
 List of what to do:
-- Create a flag and a coat of arms
+- Create a flag and a coat of arms (Done)
 - Figure out how to API recruitment
 - Create a Constitution
 - Create a government
