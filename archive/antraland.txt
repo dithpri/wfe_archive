@@ -8,7 +8,7 @@ Talk to Great Franland if attacking (preferably in person). ONE ATTACK PER DAY
 
 Fight: Population x (Weaponization+1 if nation has conscription) + Random census Report
 
-Defend: Population x (Defence Forces/100 + 1 if defence is 3 highest in government) + patriotism
+Defend: Population x (Defence Forces/1000 + 1 if defence is 3 highest in government) + patriotism
 
 If other nation aids + 100
 
