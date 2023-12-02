@@ -1,4 +1,4 @@
-[b][color=red][region]The Imperium[/region] is a Neutral Region.
+[b][color=red][region]The IMPERIUM[/region] is a Neutral Region.
 
 [I]An Attack On One ... Is An Attack On All !![/I]
 
@@ -10,9 +10,9 @@ ______Secretary-General______
 
 _______[nation]GOLTZBORG[/nation]_______
 
-REGIONAL ANTHEM
+__REGIONAL ANTHEM__
 
-____IMPERIVM____
+____[U][REGION]THE IMPERIUM[/REGION][/U]____
 
 [I]IMPERIUM ! IMPERIUM !
 Peace and Prosperity.
