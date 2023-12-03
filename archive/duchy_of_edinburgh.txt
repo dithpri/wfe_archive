@@ -1,7 +1,8 @@
-[b]Vassal of [region]The United Kingdom[/region].[/b]
-Rightful lands of HIRH the 1st Duke of Edinburgh.
+[b]Vassal of [region]The United Kingdom[/region][/b]
+Rightful lands of HIRH the 1st Duke of Edinburgh
 
-[b]Duke of Edinburgh:[/b] [nation]Prince Henry[/nation].
-Sovereign: King Carlisle I.
+[b]Duke of Edinburgh:[/b] [nation]Prince Henry[/nation]
+Sovereign: [nation]King Carlisle I[/nation]
+Household: [nation]The House of Windsor[/nation]
 
-HIRH the Duke of Edinburgh is also the 1st Earl of Forfar.
+HIRH the Duke of Edinburgh is also the 1st Earl of Forfar

@@ -5,7 +5,7 @@
 
 [b][i]Royal Family[/i][/b]
 
-[list][*][color=darkred][b]King-Emperor[/color]:[/b] [nation]King Henry IX[/nation][/list]
+[list][*][color=darkred][b]King-Emperor[/color]:[/b] [nation]King Carlisle I[/nation][/list]
 [list][*]Ruling House: [nation]House of Tudor[/nation][/list]
 [list][*][b][color=purple]Queen-Empress[/color]:[/b] [nation]Notrina[/nation][/list]
 [list][*][b][color=red]Prince of Wales[/color]:[/b] [nation]Prince George[/nation][/list]
