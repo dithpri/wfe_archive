@@ -9,7 +9,7 @@
 President: [nation]TheRuhr[/nation]
 Vice President: [nation]Caska[/nation]
 Attorney General: [nation]CamerWoon[/nation]
-Secretary of State: [nation]Manhassett[/nation]
+Secretary of State: [nation]Handuko[/nation]
 
 [color=grey][b][u]Senate:[/u][/b][/color]
 [i][u][color=red]Special Term[/color][/u][/i]

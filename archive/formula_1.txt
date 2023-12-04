@@ -1,22 +1,23 @@
-524 Verstappen [nation]R e d B u l l[/nation] [u]19 win 11 Pole 9 Fastest Lap 21 Podium[/u]
-285 Perez [nation]R e d B u l l[/nation] [u]2 Win 2 Pole 2 FL 9 Pod[/u]
-234 Hamilton [nation]M e r c e d e s[/nation] [u]6 Pod 4 FL[/u]
-206 Alonso [nation]A s t o n M a r t i n[/nation] [u]8 Pod 1 FL[/u]
-206 Leclerc [nation]F e r r a r i[/nation] [u]7 Pole 6 Pod[/u]
-205 Norris [nation]M c L a r e n[/nation] [u]7 Pod 1 FL[/u]
-200 Sainz [nation]F e r r a r i[/nation] [u]1 Win 3 Pod[/u]
-175 Russell [nation]M e r c e d e s[/nation] [u]1 Pod 1 FL[/u]
-097 Piastri [nation]M c L a r e n[/nation] [u]2 Pod 2 FL[/u]
-074 Stroll [nation]A s t o n M a r t i n[/nation]
-062 Gasly [nation]A l p i n e[/nation] [u]1 Pod[/u]
-058 Ocon [nation]A l p i n e[/nation] [u]1 Pod[/u]
-027 Albon [nation]W i l l i a m s[/nation]
-017 Tsunoda [nation]A l p h a T a u r i[/nation] [u]1 FL[/u]
-010 Bottas [nation]A l f a R o m e o[/nation]
-009 H&uuml;lkenberg [nation]H a a s[/nation]
-006 Ricciardo [nation]A l p h a T a u r i[/nation]
-006 Zhou [nation]A l f a R o m e o[/nation] [u]1 FL[/u]
-003 Magnussen [nation]H a a s[/nation]
-002 Lawson [nation]A l p h a T a u r i[/nation]
-001 Sargeant [nation]W i l l i a m s[/nation]
-000 de Vries [nation]A l p h a T a u r i[/nation]
+2024 Drivers
+
+
+Max Verstappen [nation]R e d B u l l[/nation] 3 x Champion, 54 Wins
+Sergio Perez [nation]R e d B u l l[/nation] 6 Wins
+Lewis Hamilton [nation]M e r c e d e s[/nation] 7 x Championships, 103 Wins
+Fernando Alonso [nation]A s t o n M a r t i n[/nation] 2 x Championships, 32 Wins
+Charles Leclerc [nation]F e r r a r i[/nation] 5 Wins
+Lando Norris [nation]M c L a r e n[/nation]
+Carlos Sainz [nation]F e r r a r i[/nation] 2 Wins
+George Russell [nation]M e r c e d e s[/nation] 1 Win
+Oscar Piastri [nation]M c L a r e n[/nation] 
+Lance Stroll [nation]A s t o n M a r t i n[/nation]
+Pierre Gasly [nation]A l p i n e[/nation] 1 Win
+Esteban Ocon [nation]A l p i n e[/nation] 1 Win
+Alexander Albon [nation]W i l l i a m s[/nation]
+Yuki Tsunoda [nation]A l p h a T a u r i[/nation] 
+Valtteri Bottas [nation]S a u b e r[/nation] 10 Wins
+Nico H&uuml;lkenberg [nation]H a a s[/nation]
+Daniel Ricciardo [nation]A l p h a T a u r i[/nation] 8 Wins
+Zhou Guanyu [nation]S a u b e r[/nation]
+Kevin Magnussen [nation]H a a s[/nation]
+Logan Sargeant [nation]W i l l i a m s[/nation]
