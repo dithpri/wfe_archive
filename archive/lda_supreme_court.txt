@@ -1,11 +1,9 @@
-[b]Supreme Court of [region]Liberty Democratic Alliance[/region][/b]
+[b]Welcome to the [region]Liberty Democratic Alliance[/region] Supreme Court![/b]
 
-[b][u]Supreme Court Judge (appointed by the PM on 27/06)[/u][/b] [nation=long]Republic of Mesque[/nation]
-- Supreme Court Judge since 27/06/2023, term ends February 19th, 2024.
-- [u][b]Chief Justice[/b][/u] since 15/09/2023, term ends December 4th, 2023.
+[u][b]Current Judges:[/b][/u]
+1) [b][nation]Republic of Mesque[/nation][/b], [b]Supreme Court Judge[/b] since 29/06/2023, term ends February 24th, 2024.
+[b]Chief Justice[/b] since 05/10/2023, term ends December 24th, 2023. 
 
-[b][u]Supreme Court Judge (appointed by the PM on 13/06):[/u][/b] [nation=long]United States of Kuwait[/nation]
-- Supreme Court Judge since 11/10/2023, term ends February 8th, 2024. 
+2) [b][nation]United States of Kuwait[/nation], Supreme Court Judge[/b] since 11/10/2023, term ends February 8th, 2024.
 
-[b][u]Supreme Court Judge (appointed by the Senate on 22/06)[/u][/b] [nation=long]------------[/nation]
-- Supreme Court Judge since , term ends 
+3) [b]Vacancy[/b] (to be appointed by the Senate).
