@@ -1,12 +1,13 @@
 Presidential Republic under an absolute monarchy 
 
-[u]Head of State [/u]
-[b]Crown of the Republic[/b] - [nation]Lower Romes Koa[/nation]
+[u](De jure) Head of State [/u]
+[b]Emperor of the Republic[/b] - [nation]Lower Romes Koa[/nation] 
+
+De facto Head of State 
+Commander-in-Chief of the Armed Forces - [nation]Upper Blussiaordia[/nation]
 
 [u]Head of Government[/u]
-[b]Chancellor [/b] - [nation]Lower Romes Koa[/nation]
-[b]Vice Chancellor [/b] - [nation]Pandaland8[/nation]
-
+Prime Minister - [nation]Upper Blussiaordia[/nation]
 
 [u]National Assesmbly [/u]
 House of Representative &amp; Senate 
