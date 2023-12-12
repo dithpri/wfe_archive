@@ -1,1 +1,3 @@
 Puppet storage for [nation]Army of Revolutions[/nation]
+
+Embassies only opened with regions I am affiliated with

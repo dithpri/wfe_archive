@@ -1,8 +1,6 @@
 [b]&amp;#917;&amp;#965;&amp;#951;&amp;#956;&amp;#949;&amp;#961;&amp;#943;&amp;#945; &amp;#945;&amp;#957;&amp;#942;&amp;#954;&amp;#949;&amp;#953; &amp;#963;&amp;#949; &amp;#972;&amp;#955;&amp;#959;&amp;#965;&amp;#962;[/b]
 Prosperity Belongs To All
 
-The factions, provinces, and territories of the mighty nation of [nation]Madrocea[/nation]--an ancient and powerful realm in the region of [region]Atlantis[/region].
-
 President :: [b]Carol Trajan[/b] (Demos Party)
 
 [u]Assembly of Madrocea[/u]
@@ -16,3 +14,5 @@ President :: [b]Carol Trajan[/b] (Demos Party)
 [b]Province of Alvanea[/b] :: [u]77[/u] (CPM:40, MDP:30, MGP:6, UCMP:1)
 [b]Commonwealth of Matae[/b] :: [u]61[/u] (CPM:25, MDP:36)
 [b]Madrocea Outer Territories [/b]:: [u]40[/u] (CPM:15, MDP:25)
+
+[hr]This region is now the possession of [nation]Mister Spider[/nation].
