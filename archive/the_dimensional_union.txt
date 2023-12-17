@@ -1,8 +1,10 @@
 Welcome to the vast union! [Work in progress...]
 
 Dimensions:
-- Far Dimension
-- Vellovian Dimension
-- Palpion Dimension
-- Tobo Dimension
-- Kaiju Dimension
+- [region]Loush Land[/region]
+- [region]Hydragon Realm[/region]
+- [region]The Everlasting Kawaii Empire[/region]
+- [region]Aozora[/region]
+- [region]Nomilia Peninsula[/region]
+- [region]Lindelia[/region]
+- [region]Samlandia[/region]
