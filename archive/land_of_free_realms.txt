@@ -9,7 +9,7 @@ Note: [color=brown]We like having conversations in this region so, whether you&#
 
 Prime Minister(Governor):
 General Assembly: [color=blue][b]For[/b][/color]
-Security Council: [color=blue][b]For[/b][/color]
+Security Council: [color=red][b]Against[/b][/color]
 
 WA Delegate:
 General Assembly: [b]N/A[/b]
