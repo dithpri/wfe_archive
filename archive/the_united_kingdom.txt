@@ -1,5 +1,5 @@
 [b]Welcome[/b] to the &amp;#128081; [b][u]United Kingdom[/u][/b] of [b][u]Great Britain &amp; Northern Ireland[/u][/b]&#153;
-[b]RULE BRITANNIA[/b] [i]&quot;Strength, Liberty, Unity, Justice, Peace.&quot;[/i]
+[b][color=red]RULE[/color] [color=navy]BRITANNIA[/color][/b] [i]&quot;Strength, Liberty, Unity, Justice, Peace.&quot;[/i]
 
 [hr][hr]
 
@@ -7,8 +7,8 @@
 
 [hr][hr]
 
-[list][*]&amp;#128081; [color=red]Emperor[/color]:[/b] [nation]King Carlisle I[/nation]
-[*]&amp;#128081; [color=purple][b]Empress-Consort[/b][/color]: [nation]Notrina[/nation] ([nation]Steevic[/nation])
+[list][*]&amp;#128081; [color=red]King-Emperor[/color]:[/b] [nation]King Carlisle I[/nation]
+[*]&amp;#128081; [color=purple][b]Queen-Empress[/b][/color]: [nation]Notrina[/nation] ([nation]Steevic[/nation])
 [*]&amp;#128081; [B]Heir Apparent:[/B] [nation]Prince George[/nation]
 [*]&amp;#127969; Ruling House: [nation=short]The House of Windsor[/nation]
 [/list]
@@ -16,28 +16,26 @@
 [hr][hr]
 
 &amp;#128101;&amp;#128101; [b]Population[/b] &amp;#128101;&amp;#128101;
-[list][*]Our Member States are 49.193 Billion Citizens strong.[/list]
+[list][*]Our Member States are 50+ Billion Citizens strong.[/list]
 
 [hr][hr]
 [b]Statistics:[/b]
 
-[list]
-[*]&amp;#128077; Founded in 2003 (20 years ago)
-[*]&amp;#128077; Home of the Emperor and their Family
-[*]&amp;#128077; Home of the Parliament &amp;#64; Westminster
-[*]&amp;#128077; Attendees of the International NS Conference
-[*]&amp;#128077; Imperialists, Libertarians, Defenders, Isolationists[/list]
-
+[list][*]Founded: 2003 (20 years ago)
+[*]Capital City: [nation]The Greater London Authority[/nation]
+[*]Imperial City: [nation]City of Westminster[/nation], [b]London[/b][/list] 
 [hr]
 
 [hr]
 
-[B]TWU&#39;s Dominions:[/b]
+[B][region]The UK Commonwealth[/region]:[/b]
 
-&amp;#128081; [url=nationstates.net/region=The_United_Kingdom]The UK[/url] &amp;#128081; [url=nationstates.net/region=The_UK_Commonwealth]UK Commonwealth[/url] 
+[list][*]&amp;#128081; [url=nationstates.net/region=The_United_Kingdom]The UK[/url] &amp;#128081; [url=nationstates.net/region=The_Walbard_Union]The Walbard Union[/url] 
 
-&amp;#128081; [url=nationstates.net/region=The_Danish_Realm]Denmark[/url] &amp;#128081; [url=nationstates.net/region=The_Empire_of_Sweden]Sweden[/url] &amp;#128081; [url=nationstates.net/region=The_Kingdom_of_Norway]Norway[/url] 
+[*]&amp;#128081; [url=nationstates.net/region=The_Danish_Realm]Denmark[/url] &amp;#128081; [url=nationstates.net/region=The_Empire_of_Sweden]Sweden[/url] &amp;#128081; [url=nationstates.net/region=The_Kingdom_of_Norway]Norway[/url] 
 
-&amp;#128081; [url=nationstates.net/region=The_Khanate_of_Inner_Mongolia]Inner Mongolia[/url] &amp;#128081; [url=nationstates.net/region=The_Khanate_of_Mongolia]Mongolia[/url] 
+[*]&amp;#128081; [url=nationstates.net/region=The_Khanate_of_Inner_Mongolia]Inner Mongolia[/url] &amp;#128081; [url=nationstates.net/region=The_Khanate_of_Mongolia]Mongolia[/url] 
+
+[*]&amp;#128081; [url=nationstates.net/region=The_Kingdom of Canada]Canada[/url] &amp;#128081; [url=https://www.nationstates.net/region=the_kingdom_of_australia_and_new_zealand]Australia and New Zealand[/url]
 
 [hr]
