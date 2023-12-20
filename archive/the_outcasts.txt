@@ -1,4 +1,3 @@
 Banned list 
-[nation]Bohera[/nation]
+
 [nation]United Bohera[/nation]
-[nation]Bohera Rebelles[/nation]
