@@ -1,12 +1,12 @@
 Welcome to the personal region of [nation=Acadiane].
 
-[color=#850001][b]People&#39;s Revolutionary Air Force[/color] - [color=#AE7F7D]Enlistee[/color][/b]: [nation]APAF Command[/nation]
+[url=region=leningrad_airfield][color=#850001][b]People&#39;s Revolutionary Air Force[/url][/color] - [color=#AE7F7D]Enlistee[/color][/b]: [nation]APAF Command[/nation]
 
-[b][color=#C42811]The Red Fleet[/color] - [color=#E23016]Sailor[/color][/b]
+[url=region=the_red_fleet][b][color=#C42811]The Red Fleet[/color][/url] - [color=#E23016]Sailor[/color][/b]
 
-[b][color=#590059]Brotherhood of Malice[/color] - [color=#4ac2bd]Initiate[/color][/b]: [nation]Oneiroi[/nation]
+[b][url=region=the_brotherhood_of_malice][color=#590059]Brotherhood of Malice[/url][/color] - [color=#4ac2bd]Initiate[/color][/b]: [nation]Oneiroi[/nation]
 
-[b]The Black Hawks - [color=#61F25E]Private First Class[/color][/b]: [nation]Haibane Renmei[/nation]
+[url=region=the_black_hawks][b][color=#333333]The Black Hawks[/color][/url] - [color=#61F25E]Private First Class[/color][/b]: [nation]Haibane Renmei[/nation]
 
 Feel free to send an embassy request if I know you!
 This region also houses trophy embassies.
