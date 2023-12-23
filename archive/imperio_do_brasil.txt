@@ -1,1 +1,9 @@
-[color=teal][b]Imperio do Brasil[/b][/color]
+[color=36454f][b]Imperio do Brasil[/b]
+[/color][color=brass]
+REGION
+[b]Founded:[/b] 2018 Feb 10
+[b]Featured:[/b] 2023 Dec 22
+an [region=Ancient Lands] region
+a [region=0000] puppet storage region
+[/color][color=3b7a57]
+[b]Embassy Offers are Welcome[/b][/color]
