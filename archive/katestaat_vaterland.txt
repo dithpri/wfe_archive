@@ -1,13 +1,8 @@
-Willkommen in unserem Land!
-Freiheit und Schutz Ihrer Rechte!
-
-[b]Everyone who enters here will find peace and quiet here, for the King of Katestaat is your protector![/b]
-
 Regional defense forces
 
 [table][tr][td]Specification[/td][td]Quantity[/td][td]Description[/td][td]Nation[/td][td]Status[/td][/tr]
 [tr][td]Arc Shield Protectors[/td][td]1000[/td][td]is the newest line of middle class tanks. It has basics such as ground mine detection systems, 4 defense turrets and main attack cannon.[/td][td][nation]odinburgh[/nation][/td][td]actively[/td][/tr]
 [tr][td]Multiple rocket launcher system &quot;sun&quot;[/td][td]850[/td][td]Installation on caterpillar tracks with ammunition for extended-range thermobaric missiles. Damage temperature over 3000 &deg;C[/td][td][nation]katestaat[/nation][/td][td]actively[/td][/tr]
 [tr][td]GR-700 fighters[/td][td]500[/td][td]Fighters with high maneuverability and a hidden fire system. With protection from radars and thermal analyzers.[/td][td][nation]katestaat[/nation][/td][td]actively[/td][/tr]
-
+[tr][td]Satellites with Optix Military Defense chip[/td][td]120[/td][td]Defense navigation satellite systems[/td][td][nation]odinburgh[/nation] [nation]katestaat[/nation][/td][td]actively[/td][/tr]
 [/table]
