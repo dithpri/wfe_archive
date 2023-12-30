@@ -1,1 +1,1 @@
-puppet storage
+[region]Penny[/region]

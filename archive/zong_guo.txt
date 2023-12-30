@@ -1,0 +1,6 @@
+[table]
+  [tr][td][color=red][b]Zong Guo[/b][/color][/td][/tr]
+  [tr][td][color=5b5758]Testing region[/color][/td][/tr]
+  [tr][td][color=5b5758][b]Sister Region:[/b] [region=Zhong Guo][/color][/td][/tr]
+  [tr][td][color=004d33]Sorry - No Embassy Offers Accepted[/color][/td][/tr]
+[/table]
