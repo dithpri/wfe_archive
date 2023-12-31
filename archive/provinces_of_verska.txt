@@ -1,1 +1,11 @@
 This region is used as a storage for [nation]verska[/nation]&#39;s puppet who act as its provinces.
+[Hr]
+
+Provinces:
+-[nation]Verska[/nation], which bears the same name as the nation and hold the capital.
+-[nation]Kiklka[/nation], where the defence force has the heaviest presence.
+-[nation]Scavasul[/nation], the leading province in term of scientific and academical activity.
+-[nation]Takalr[/nation], which is the centre of economic activity.
+
+Extra:
+-[nation]Tarha[/nation], which is a nation on an alternative universe. It does not have any relation with the others.
