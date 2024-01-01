@@ -1,9 +1,9 @@
 Puppet storage for [nation]Army of Revolutions[/nation] and home of Person/Revolution. 
 
 [b]Current Ranks:[/b]
-The Black Hawks:
-PFC [nation]Army of Revolutions[/nation]
-The Brotherhood of Malice:
-Initiate [nation]Army of Malice[/nation]
-Sparkalia:
-Magi [nation]Army of Anime[/nation]
+[region]The Black Hawks[/region]:
+[color=lime]Private First Class[/color] [nation]Army of Revolutions[/nation]
+[region]The Brotherhood of Malice[/region]:
+[color=#b23aee]Assassin[/color] [nation]Army of Malice[/nation]
+[region]Sparkalia[/region]:
+[color=purple]Magi[/color] [nation]Army of Anime[/nation]
