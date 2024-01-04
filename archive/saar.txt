@@ -23,7 +23,8 @@ Zustand: [color=read]Neutral[/color]   [/b]
 [hr]
 [b]Oil Supplier[/b]
 [region]International Petroleum Cartel[/region]
-[nation]MAACAU[/nation][b]- 3R Petroleum [/b] /[region]ASCC[/region], [B]Bailiwick [/B] of [region]saar[/region]./[b]Information System[/b]
-[nation]Global Intelligence Network[/nation]
+[nation]MAACAU[/nation][b]- 3R Petroleum [/b] /[region]ASCC[/region], [B]Bailiwick [/B] of [region]saar[/region]./
+
+
 [hr]
 
