@@ -1,8 +1,11 @@
-[u][b][url=https://www.nationstates.net/nation=free_to_live/detail=factbook/id=main]Reichswehr Minister[/url]
+[hr][b][u]JOBS[hr]
+[url=https://www.nationstates.net/nation=free_to_live/detail=factbook/id=main]Reichswehr Minister[/url]
 
 [Url=https://www.nationstates.net/page=dispatch/id=1198965]Vedul High Priest[/Url]
 
 [Url=https://www.nationstates.net/page=dispatch/id=1915805]Imperial Police/Checkpoint Guard[/Url]
+
+[hr]NATIONS[hr]
 
 [nation]Gooseneckistan[/nation]
 
@@ -14,7 +17,7 @@
 
 [nation]Dregs of the Earth[/nation]
 
-[nation]Bud Lightyear[/nation][/U]
+[nation]Bud Lightyear[/nation][/u]
 
 [spoiler=Ribbons]Army Ribbons - 
 
@@ -51,8 +54,4 @@ Civilian Ribbons -
 
 [Url=https://forum.nationstates.net/viewtopic.php?f=12&amp;t=99173&amp;sid=bf26b7ae8456f1fc9031b0817c0f8686]Military 1[/Url]
 
-[Url=https://forum.nationstates.net/viewtopic.php?f=12&amp;t=307728&amp;sid=608341c1eddf196be8872f1b6cca9ad1]Military 2[/Url]
-
-[Url=https://forum.nationstates.net/viewtopic.php?f=12&amp;t=353470]Region[/Url]
-
-[Url=https://www.nationstates.net/page=boneyard]Boneyard[/Url][/b][/u]
+[Url=https://forum.nationstates.net/viewtopic.php?f=12&amp;t=307728&amp;sid=608341c1eddf196be8872f1b6cca9ad1]Military [/url][/b][/u]
