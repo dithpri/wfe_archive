@@ -4,7 +4,7 @@ Boris&#39;s Boris Cards
 
 [color=purple]The Circus Shall Entertain[/color]
 
-Ranks:
+[b]Ranks:[/b]
 
 [color=blue]Supreme Court Justice[/color] in [region]Institute of Cellulose[/region]
 
@@ -13,3 +13,12 @@ Ranks:
 [color=red]Wolf[/color] in [region]Lone Wolves United[/region]
 
 [color=green]Lindwyrm[/color] in [region]Lair of the Dragon[/region]
+
+[b]Past Ranks: [/b]
+
+Prime Minister of [region]Institute of Cellulose[/region]
+
+Deputy Prime Minister of [region]Institute of Cellulose[/region] (x2)
+
+Foreign Affairs Minister of [region]Institute of Cellulose[/region] (x4?)
+
