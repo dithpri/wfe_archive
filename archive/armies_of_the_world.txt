@@ -2,7 +2,7 @@ Puppet storage for [nation]Army of Revolutions[/nation] and home of Person/Revol
 
 [b]Current Ranks:[/b]
 [region]The Black Hawks[/region]:
-[color=lime]Private First Class[/color] [nation]Army of Revolutions[/nation]
+[color=darkgrey]Corporal[/color] [nation]Army of Revolutions[/nation]
 [region]The Brotherhood of Malice[/region]:
 [color=#b23aee]Assassin[/color] [nation]Army of Malice[/nation]
 [region]Sparkalia[/region]:
