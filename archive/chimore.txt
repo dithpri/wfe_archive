@@ -2,7 +2,7 @@ The home of AC Alex. Encountered a Chimore in the wild? That&#39;s her! Below ar
 
 [list][*][nation=long]East Chimore[/nation]:[list][*][region]Lair of the Dragon[/region] | Greatwyrm | Collects UDS, TGW, Epics, and Legendaries.[/list]
 [*][nation=long]West Chimore[/nation]:[list][*][region]The Order of The Grey Wardens[/region] | Dishonorably Discharged former Warden-Lieutenant | Collects Alliance of Supreme Powers.[/list]
-[*][nation=long]Central Chimore[/nation]:[list][*][region]The Brotherhood of Malice[/region] | Acolyte, Initiate[/list]
+[*][nation=long]Central Chimore[/nation]:[list][*][region]The Brotherhood of Malice[/region] | Assassin[/list]
 [*][nation=long]North Chimore[/nation]:[list][*][region]The South Pacific[/region] | Citizen[/list]
 [*][nation=long]South Chimore[/nation]:[list][*][region]Alex[/region] | Alex 2 Electric Boogaloo[/list]
 [*][nation=long]Chimore[/nation]:[list][*][region]Chimore[/region] | Puppet Storage Founder[/list]
