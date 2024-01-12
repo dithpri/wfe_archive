@@ -1,1 +1,6 @@
-hi
+[table]
+  [tr][td][color=002674][b]Kingdom of Britain[/b][/color][/td][/tr]
+  [tr][td][color=007c2e][b]Founded:[/b] 2024 Jan 11
+an [region=Ancient Lands] allied region[/color][/td][/tr]
+  [tr][td][color=004225]an Oracle Holding Region[/color][/td][/tr]
+[/table]

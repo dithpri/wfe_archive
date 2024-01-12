@@ -3,14 +3,6 @@
 [color=#FF0000][b]Bienvenue &agrave; l&#39;Empire Lamantinien! Vive l&#39;Empereur![/b][/color] 
 
 [color=#F4C430][b]The Lamantinian Empire, or Lamantine, is a Napoleonic era-themed region with 19th-century French and British aesthetics.[/b][/color]
+
+This region is [nation]Picairn[/nation]&#39;s puppet storage and his personal Napoleonic Empire. Welcome aboard and have fun!
 [hr][b] Discord | Citizenship | [url=https://www.nationstates.net/page=dispatch/id=1962612]Constitution[/url] | Civil Code | Master Dispatch | Join the Ministries! | RMB Regulations | Embassy Policy[/b]
-
-Work in progress.
-
-List of what to do:
-- Create a flag and a coat of arms (Done)
-- Figure out how to API recruitment
-- Create a Constitution (Done)
-- Create a government
-- Create titles of nobility and medals
-- Think of more stuff to do in the region
