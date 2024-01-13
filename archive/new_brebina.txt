@@ -1,1 +1,8 @@
-This is New Brebina. The second incarnation of Brebina. Who knows what it will bloom into, it will be shaped by its residents. 
+[color=lime][pre]$root: ./Brebina
+$root Error: You do not have permissions to execute &quot;Brebina&quot;.
+$root: ./Brebina-New
+$root:
+$root: CRITICAL ERROR: System infected
+$root: Refounding...[/pre][/color]
+
+[i]RF&#39;d by Improper Classifications 1/12/23[/i]
