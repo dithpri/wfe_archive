@@ -1,4 +1,3 @@
-
 [b]Member Regions[/b] of
 [b][region]The New Commonwealth[/region][/b];
 
@@ -21,3 +20,5 @@
 
 [b][region]The Khanate of Mongolia[/region][/b];
 ~ [region]The Khanate of Inner Mongolia[/region]
+
+[b]The [region]Republic of Rhodessia[/region][/b]

@@ -1,22 +1,29 @@
 2024 Drivers
 
-Lewis Hamilton [nation]M e r c e d e s[/nation] 7 x Championships, 103 Wins
-Max Verstappen [nation]R e d B u l l[/nation] 3 x Champion, 54 Wins
-Fernando Alonso [nation]A s t o n M a r t i n[/nation] 2 x Championships, 32 Wins
-Valtteri Bottas [nation]S t a k e[/nation] 10 Wins
-Daniel Ricciardo [nation]A l p h a T a u r i[/nation] 8 Wins
-Sergio Perez [nation]R e d B u l l[/nation] 6 Wins
-Charles Leclerc [nation]F e r r a r i[/nation] 5 Wins
-Carlos Sainz [nation]F e r r a r i[/nation] 2 Wins
-Pierre Gasly [nation]A l p i n e[/nation] 1 Win
-Esteban Ocon [nation]A l p i n e[/nation] 1 Win
-George Russell [nation]M e r c e d e s[/nation] 1 Win
-Lando Norris [nation]M c L a r e n[/nation]
-Oscar Piastri [nation]M c L a r e n[/nation] 
-Lance Stroll [nation]A s t o n M a r t i n[/nation]
-Alexander Albon [nation]W i l l i a m s[/nation]
-Kevin Magnussen [nation]H a a s[/nation]
-Nico H&uuml;lkenberg [nation]H a a s[/nation]
-Yuki Tsunoda [nation]A l p h a T a u r i[/nation] 
-Zhou Guanyu [nation]S t a k e[/nation]
-Logan Sargeant [nation]W i l l i a m s[/nation]
+01 Max Verstappen [nation]R e d B u l l[/nation] 3 x Champ, 54 Wins
+02 Logan Sargeant [nation]W i l l i a m s[/nation]
+03 Daniel Ricciardo [nation]A l p h a T a u r i[/nation] 8 Wins
+04 Lando Norris [nation]M c L a r e n[/nation]
+10 Pierre Gasly [nation]A l p i n e[/nation] 1 Win
+11 Sergio Perez [nation]R e d B u l l[/nation] 6 Wins
+14 Fernando Alonso [nation]A s t o n M a r t i n[/nation] 2 x Champ, 32 Wins
+16 Charles Leclerc [nation]F e r r a r i[/nation] 5 Wins
+18 Lance Stroll [nation]A s t o n M a r t i n[/nation]
+20 Kevin Magnussen [nation]H a a s[/nation]
+22 Yuki Tsunoda [nation]A l p h a T a u r i[/nation] 
+23 Alexander Albon [nation]W i l l i a m s[/nation]
+24 Zhou Guanyu [nation]S t a k e[/nation]
+27 Nico H&uuml;lkenberg [nation]H a a s[/nation]
+31 Esteban Ocon [nation]A l p i n e[/nation] 1 Win
+44 Lewis Hamilton [nation]M e r c e d e s[/nation] 7 x Champ, 103 Wins
+55 Carlos Sainz [nation]F e r r a r i[/nation] 2 Wins
+63 George Russell [nation]M e r c e d e s[/nation] 1 Win
+77 Valtteri Bottas [nation]S t a k e[/nation] 10 Wins
+81 Oscar Piastri [nation]M c L a r e n[/nation] 
+
+
+
+
+
+
+
