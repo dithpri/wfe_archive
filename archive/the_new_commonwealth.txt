@@ -1,10 +1,9 @@
-[b]Welcome to The New Commonwealth[/b]
-[color=navy]For King and Empire[/color]!
+[b]Welcome to [region]The New Commonwealth[/region][/b] || [color=navy]The Union of Unions[/color]!
+ONE MISSION, MANY REGIONS, ONE MONARCH, MANY THRONES
 
 [hr][hr]
 
-New Members: [url=https://discord.gg/k2zUj9eNKf]Our Discord[/url] || Our Mission is to restore the Commonwealth || 
-
+[b][color=blue]New Members[/color]:[/b] [url=https://discord.gg/k2zUj9eNKf]Our Discord[/url] || Our Mission is to restore the Commonwealth
 [hr][hr]
 
 [b][color=darkred]King-Emperor[/color]:[/b] [nation]King Carlisle I[/nation] of [nation]Walbard[/nation]
@@ -14,20 +13,27 @@ Ruling Household: [nation]The House of Windsor[/nation]
 
 [hr][hr]
 
-Our Regions:
+[b]Our Family;[/b]
 
 [b][region]The Walbard Union[/region][/b] (*URV Member)
-[b][region]The United Kingdom[/region][/b]
-~ [region]The UK Commonwealth[/region]
+~ [region]New Walbard Union[/region]
+~ [region]New Walbard[/region]
+
+[b][region]The UK Commonwealth[/region][/b]
+~ [region]The United Kingdom[/region]
 ~ [region]The New Commonwealth[/region]
 ~ [region]The Kingdom of Canada[/region]
 ~ [region]The Kingdom of Australia and New Zealand[/region]
 ~ [region]Duchy of Cornwall[/region]
 ~ [region]Duchy of Rothesay[/region]
 ~ [region]Duchy of Durham[/region]
+
 [b][region]The Kalmar Union[/region][/b]
 ~ [region]The Danish Realm[/region]
 ~ [region]The Kingdom of Norway[/region]
 ~ [region]The Empire of Sweden[/region]
+
 [b][region]The Khanate of Mongolia[/region][/b]
 ~ [region]The Khanate of Inner Mongolia[/region]
+
+[b]The [region]Republic of Rhodessia[/region][/b]

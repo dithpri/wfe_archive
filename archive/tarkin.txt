@@ -5,14 +5,12 @@
 [b]| [url=https://www.nationstates.net/page=dispatch/id=1937974]Regional Constitution[/url] | [url=https://www.nationstates.net/nation=tarkin/detail=factbook/id=1354216]Regional Map[/url] | [url=https://www.nationstates.net/nation=tarkin/detail=factbook/id=1354216]Physical Map[/url] | [url=https://www.maptoglobe.com/HkO0VTZao]Globe[/url]  | [url=https://www.nationstates.net/region=katzen]Katzen[/url] | [url=https://www.nationstates.net/region=Nerdfighteria]Nerdfighteria[/url] |
 
 [u][color=maroon]Executive:[/color][/u][/b]
-[i][u][color=red]Special Term[/color][/u][/i]
 President: [nation]TheRuhr[/nation]
-Vice President: [nation]Caska[/nation]
+Vice President: [nation]Haclife[/nation]
 Attorney General: [nation]CamerWoon[/nation]
 Secretary of State: [nation]Handuko[/nation]
 
 [color=grey][b][u]Senate:[/u][/b][/color]
-[i][u][color=red]Special Term[/color][/u][/i]
 - [nation]Terhoon[/nation]
 - [nation]MalDorAeHan[/nation]
 - [nation]Shenendoah[/nation]
@@ -20,7 +18,6 @@ Secretary of State: [nation]Handuko[/nation]
 - [nation]Caska[/nation]
 
 [color=navy][b][u]Supreme Court:[/color][/b][/u]
-[i][u][color=red]Special Term[/color][/u][/i]
 [i]Chief Justice:[/i] [nation]Burkai[/nation]
 Associate Justice: [nation]The Sanhedrin[/nation]
 Associate Justice: [nation]Annanias[/nation]

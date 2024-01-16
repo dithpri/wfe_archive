@@ -1,7 +1,5 @@
-Currently we are sorting out a few things while the population is still moving over.
+Currently we are sorting out a few things while the population is still moving over
 
-1. Current region flag is satisfactory.
+1. Embassy policy. We do embassies with all lands we own of course but there has to be conditions for outside embassies.
 
-2. Standard money unit is the Drakon coin.
-
-3. Embassy policy. We do embassies with all lands we own of course but there has to be conditions for outside embassies.
+2. New officer titles and role descriptions
