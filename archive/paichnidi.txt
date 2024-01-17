@@ -18,4 +18,5 @@
 [b][color=#00D166]Wyrm[/color][/b]
 [b][color=#F8C300]Wyrmling[/color][/b]
 [b][color=#CC7900]Quetzalcoatl[/color][/b]
+[b][color=#F93A2F]Hatchling[/color][/b]
 [b][color=#a62019]Adventurer[/color][/b] of [region]INSERT REGION[/region]
