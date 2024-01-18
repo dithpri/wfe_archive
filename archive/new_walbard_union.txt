@@ -1,24 +1,9 @@
-[b]Member Regions[/b] of
-[b][region]The New Commonwealth[/region][/b];
+[b]Welcome to your New Walbard Union[/b] ~ Strength through Unity!
 
-[b][region]The UK Commonwealth[/region][/b];
-~ [region]The United Kingdom[/region]
-~ [region]The Kingdom of Canada[/region]
-~ [region]The Kingdom of Australia and New Zealand[/region]
-~ [region]Duchy of Cornwall[/region]
-~ [region]Duchy of Rothesay[/region]
-~ [region]Duchy of Durham[/region]
+[hr]Member Region of [region]The New Commonwealth[/region][hr]
 
-[b][region]The Walbard Union[/region][/b];
-~ [region]New Walbard Union[/region]
-~ [region]New Walbard[/region]
+[b][color=darkred]Monarch[/color]: [nation]King Carlisle I[/nation][/b]
+[color=purple]Consort[/color]: [nation]Notrina[/nation] ([b]Katherine I[/b])
 
-[b][region]The Kalmar Union[/region][/b];
-~ [region]The Danish Realm[/region]
-~ [region]The Kingdom of Norway[/region]
-~ [region]The Empire of Sweden[/region]
-
-[b][region]The Khanate of Mongolia[/region][/b];
-~ [region]The Khanate of Inner Mongolia[/region]
-
-[b]The [region]Republic of Rhodessia[/region][/b]
+Prince of Wales: [nation]Prince George[/nation]
+Ruling House: [nation]The House of Windsor[/nation]
