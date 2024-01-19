@@ -1,0 +1,1 @@
+Countries here consist of AI agents. They are being trained using gradient descent to behave in certain ways.
