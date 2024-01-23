@@ -17,4 +17,4 @@ Security Council: [b]N/A[/b]
 
 Population: 5
 
-Newsflash: [color=green][b]New pole | seriousness: extreme[/b][/color]
+Newsflash:none
