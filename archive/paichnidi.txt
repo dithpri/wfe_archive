@@ -18,6 +18,5 @@
 [b][color=#00D166]Draconic Sorcerer[/color][/b]
 [b][color=#F8C300]Wyrmling[/color][/b]
 [b][color=#FF9900]Quetzalcoatl[/color][/b]
-[b][color=#FF702B]Pileycule[/color][/b]
 [b][color=#F93A2F]Hatchling[/color][/b]
 [b][color=#a62019]Adventurer[/color][/b] of [region]INSERT REGION[/region]
