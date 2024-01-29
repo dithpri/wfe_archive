@@ -21,3 +21,4 @@ No Game Created Event currently running
 [region]Canterbury[/region]
 [region]Forest[/region]
 [region]Palatine[/region]
+[region]Alcris[/region]
