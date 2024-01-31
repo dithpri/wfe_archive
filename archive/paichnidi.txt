@@ -1,7 +1,7 @@
 &amp;#128009;[b]&quot;All for the hoard, the hoard for the lair&quot;[/b]&amp;#128009;
 [hr]
 
-[b]| [url=https://www.nationstates.net/page=dispatch/id=1964629][color=grey][u]What is the Lair of the Dragon?[/u][/color][/url] |[/b]
+[b]| [url=https://www.nationstates.net/page=dispatch/id=1964629][color=grey][u]What is the Lair of the Dragon?[/u][/color][/url] | [url=https://discord.gg/Fx2yGp3cWM][color=black][u]Sub-Realm Discord[/u][/color][/url] |[/b]
 
 [i]Your region has been graced with the presence of the Lair of the Dragons on their quest to seek the Treasure of Prestige! Join us in growing our hoard of creatures and treasures. [/i]
 
@@ -9,14 +9,15 @@
 [u][i]The Flight of Wyrms who graced you with their presence:[/i][/u]
 [b][color=#a6a6b3]The Silver Dragon[/color][/b] [nation]East Chimore[/nation]
 [b][color=#7a2f8f]Greatwyrm [/color][/b]
-[b][color=#006798]Wyvern[/color][/b]
 [b][color=#006798]Drake[/color][/b]
+[b][color=#006798]Wyvern[/color][/b]
 [b][color=#006798]Draconic Archmage[/color][/b]
-[b][color=#008e44]Amphithere [/color][/b]
 [b][color=#008e44]Lindwyrm[/color][/b]
+[b][color=#008e44]Amphithere [/color][/b]
 [b][color=#00D166]Wyrm[/color][/b]
 [b][color=#00D166]Draconic Sorcerer[/color][/b]
 [b][color=#F8C300]Wyrmling[/color][/b]
 [b][color=#FF9900]Quetzalcoatl[/color][/b]
+[b][color=#FF702B]Lernaean[/color][/b]
 [b][color=#F93A2F]Hatchling[/color][/b]
 [b][color=#a62019]Adventurer[/color][/b] of [region]INSERT REGION[/region]
