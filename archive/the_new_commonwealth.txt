@@ -13,15 +13,15 @@ Ruling Household: [nation]The House of Windsor[/nation]
 
 [hr][hr]
 
-[b]Our Family;[/b]
+[b][region]The New Commonwealth[/region];[/b]
 
 [b][region]The Walbard Union[/region][/b] (*URV Member)
 ~ [region]New Walbard Union[/region]
 ~ [region]New Walbard[/region]
+~ [region]Walbard City[/region]
 
 [b][region]The UK Commonwealth[/region][/b]
 ~ [region]The United Kingdom[/region]
-~ [region]The New Commonwealth[/region]
 ~ [region]The Kingdom of Canada[/region]
 ~ [region]The Kingdom of Australia and New Zealand[/region]
 ~ [region]Duchy of Cornwall[/region]
