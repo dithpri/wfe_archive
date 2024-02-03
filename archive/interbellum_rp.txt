@@ -6,7 +6,7 @@
 Paris Peace Conferences
 Russian Civil War
 
-[url=https://compupro.github.io/rp-time-calculator/?daysperyear=24&amp;lastdatechange=1705190400000&amp;lastdateepoch=-1606435200000]RP date[/url]
+[url=https://compupro.github.io/rp-time-calculator/?daysperYear=12&amp;lastdatechange=1706832000000&amp;lastdateepoch=-1582156800000&amp;fixedyears=false]RP date[/url]
 
 Quote of the decade:
 https://www.nationstates.net/page=display_region_rmb/region=interbellum_rp?postid=54583354#p54583354
