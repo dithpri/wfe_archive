@@ -4,8 +4,9 @@ A region of lawless villainy, Imperialist conquerors, and roaming alien invaders
 Warlord/Governor
 [nation]Rionsergond[/nation]
 WA Delegate
-[i]Unfilled![/i]
+[nation]North Nixia[/nation]
 Governates and Officers
 [nation]Arakhkhar[/nation]
+[nation]South Nixia[/nation]
 
 Discord: WIP
