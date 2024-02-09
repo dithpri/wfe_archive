@@ -1,0 +1,15 @@
+[b][color=blue]Installing 7 programs&#133;[/color][/b]
+
+[color=0AFD4A]public class Main {
+___public static void main(String[ ] args) {
+_______int puppet = 1;
+_______int operations = 0 ;
+_______String Invader = puppet + &#147; &#147; + operations;
+_______if (Invader == 1);
+_______System.out.println(Invader);
+_______else;
+_______System.run(Raid.exe);
+___}
+}
+[/color]
+[b][color=1084BA]Running storage.exe, tbh.exe, raid.exe, airborne.exe, active.exe, wfe.exe, terminate.exe.[/b][/color]

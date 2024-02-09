@@ -23,7 +23,7 @@ Zustand: [color=read]Neutral[/color]   [/b]
 [hr]
 [b]Diplomatic Administration [/b]
 [region]International Petroleum Cartel[/region]
-[nation]MAACAU[/nation][b]- 3R Petroleum [/b] /[region]ASCC[/region], [B]Bailiwick [/B] of [region]saar[/region]./[region]Commonwealth of the Pacific States[/region]
+[nation]MAACAU[/nation][b]- 3R Petroleum [/b] /[region]ASCC[/region], [B]Bailiwick [/B] of [region]saar[/region].-[region]Consulate General of Saarland[/region]
 
 
 [hr]
