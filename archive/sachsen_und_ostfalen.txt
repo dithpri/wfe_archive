@@ -9,7 +9,6 @@
 [nation]Nordmain-Ostfalen[/nation] - [i]North Main-Eastphalia[/i]
 [nation]Ostganglien[/nation] - [i]East Ganglia[/i]
 [nation]Schone[/nation] - [i]Schone[/i]
-[nation]Socialice[/nation] - [i]Socialice[/i]
 [nation]Westumbrien[/nation] - [i]Westumbrien[/i]
 [nation]Zingganghue[/nation] - [i]Zingganghue[/i]
 
