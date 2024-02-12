@@ -7,4 +7,9 @@
 [b][color=#96cfea]C[/color][color=#84c6e0]o[/color][color=#71bed6]f[/color][color=#5fb5cc]f[/color][color=#4dadc3]e[/color][color=#3ba4b9]e[/color] [color=#1693a5]f[/color][color=#13879b]l[/color][color=#107b91]a[/color][color=#0d6f87]v[/color][color=#09627d]o[/color][color=#065673]u[/color][color=#034a69]r[/color] [color=#003f65]o[/color][color=#00406b]f[/color] [color=#004178]t[/color][color=#00427e]h[/color][color=#004384]e[/color] [color=#47777f]m[/color][color=#6a917c]o[/color][color=#8dab7a]n[/color][color=#b0c577]t[/color][color=#d4df75]h[/color][color=#f7f972]:[/color][/b]
 [color=#ffbad2]P[/color][color=#fda3c3]i[/color][color=#fc8cb3]n[/color][color=#fa74a4]k[/color] [color=#f74685]V[/color][color=#f52f75]e[/color][color=#f41766]l[/color][color=#f20056]v[/color][color=#ed1a62]e[/color][color=#e8346e]t[/color] [color=#dd6885]S[/color][color=#d88191]w[/color][color=#d39b9d]i[/color][color=#cdb5a8]r[/color][color=#c8cfb4]l[/color]
 
-
+[color=#FFEFD6]CAFE FACTS[/color]:
+[color=#E6325F]Cafes est[/color]: 19
+[color=#CA636C]Foreclosures[/color]: 0
+[color=#CC3D7B]Foreclosure before est[/color]: 0
+[color=#FA5578]Total cafes est/attempts[/color]: 19
+[color=#D7AFA8]Eggnog destroyed[/color]: 2
