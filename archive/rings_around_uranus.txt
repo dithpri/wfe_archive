@@ -1,12 +1,11 @@
 [B][Url=https://www.nationstates.net/nation=free_to_live/detail=factbook/id=main]THE REICHSWEHR[/Url][/B]
 
 
-[hr][b][u]REGIMENTS[hr][/u]
+[hr][b][u]COMMAND STRUCTURE[hr][/u]
 
-[color=cotton]1st Invasion Regiment[/color]
-[color=blue]2nd Invasion Regiment[/color]
-[Color=green]3rd Invasion Regiment[/color]
-[color=purple]1st J&auml;ger Regiment[/color][/b]
+[color=cotton]1st Invasion Regiment - Colonel - Chief of Staff[/color]
+[color=blue]2nd Invasion Regiment - General - Minister [/color]
+[color=purple]1st J&auml;ger Regiment - Colonel - Technical Advisor[/color][/b]
 
 [color=Black]&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;[/color]
 [color=Black]&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;[/color]
@@ -26,3 +25,5 @@
 [Url=https://www.nationstates.net/page=list_entities]Search[/url]
 
 [Url=https://www.nationstates.net/page=boneyard]Boneyard[/Url][/u][/b]
+
+[B][Color=Red]Over[/Color][Color=#b8860b] 90[/Color][Color=Blue] successful[/Color][Color=Purple] raids[/Color][Color=Orange] since[/Color][Color=#ffa6c9] August[/Color][Color=#66ddaa] 2022[/Color][/B]
