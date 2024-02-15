@@ -9,7 +9,7 @@
 
 [color=#FFEFD6]CAFE FACTS[/color]:
 [color=#E6325F]Cafes est[/color]: 19
-[color=#CA636C]Foreclosures[/color]: 0
+[color=#CA636C]Foreclosures[/color]: 1
 [color=#CC3D7B]Foreclosure before est[/color]: 0
 [color=#FA5578]Total cafes est/attempts[/color]: 19
 [color=#D7AFA8]Eggnog destroyed[/color]: 2
