@@ -11,6 +11,7 @@
 [url=region=coyphus]Portal2Coyphus[/url]
 [url=region=neomajestia]Portal2Majestia[/url]
 [url=region=anegana]Portal2Anegana[/url]
+[url=region=MJT]Portal2MJT[/url]
 Put all puppets in [region]Friendly Pacifists Puppet Storage[/region]!
 [hr]
 FP News:
