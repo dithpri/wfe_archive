@@ -1,24 +1,12 @@
-[b][i][colour=purple]&amp;gt;User %NATION% registered...
-&amp;gt;Run
-alert.(&quot;Welcome to Archai!&quot;);  // display string message...
+Please take a number and wait in line, you have been raided by a band of bureaucratic hawks! We are working hard to ensure the requirements outlined in Article 3, section 5, subsection C of the Expanded Bureaucracy Act are met. As such, we have made some changes to this region.
+Tired of waiting in queues and being put on hold? [url=https://discord.gg/XWvERyc]Join us![/url]
 
-open.(&quot;[url=https://www.nationstates.net/page=dispatch/id=1829154]Intro_Dispatch[/url]&quot;)[/i][/b][/colour]
+Bureaucratic Hawks:
+[color=#a500ff][b]COL[/b][/color] [nation]Lucklife[/nation]
+[color=#969b9e][b]CPL[/b][/color] [nation]Haibane Renmei[/nation] (Trigger)
+[color=#969b9e][b]CPL[/b][/color] [nation]Chinese-Soviet-Republic[/nation]
+[color=#969b9e][b]CPL[/b][/color] [nation]Army of Revolutions[/nation]
+[color=#969b9e][b]CPL[/b][/color] [nation]Rudhawk[/nation]
 
-[i][b][color=#FF0000]W&amp;#821;[/color][color=#F0000E]e&amp;#821;l&amp;#824;[/color][color=#E2001C]c&amp;#823;o&amp;#820;[/color][color=#D4002A]m&amp;#821;e&amp;#820;[/color] [color=#B80046] t&amp;#820;o&amp;#823;[/color] [color=#AA0055]A&amp;#823;r&amp;#823;c&amp;#821;[/color][color=#8D0071]ha&amp;#821;i&amp;#821;!&amp;#823;[/color][/b][/i]
-[b][u][colour=red]---SAFETY NOT GUARANTEED IN 90.3% OF SYSTEMS---[/colour][/u]
-
-&amp;gt;Running Decoder...
-&amp;gt;Opening File...[/b]
-[hr][i][b][color=#FF0000]W[/color][color=#F0000E]el[/color][color=#E2001C]co[/color][color=#D4002A]me[/color] [color=#B80046] to[/color] [color=#AA0055]Arc[/color][color=#8D0071]hai![/color][/i]
-[sub][colour=purple]Archa Inc. is not responsible for [/colour]E&amp;#820;&amp;#850;&amp;#861;&amp;#770;&amp;#783;&amp;#806;&amp;#808;&amp;#841;&amp;#805;R&amp;#823;&amp;#780;&amp;#849;&amp;#836;&amp;#787;&amp;#778;&amp;#795;&amp;#828;&amp;#796;&amp;#791;&amp;#853;&amp;#825;&amp;#841;&amp;#804;R&amp;#821;&amp;#861;&amp;#808;&amp;#812;O&amp;#824;&amp;#783;&amp;#851;&amp;#802;&amp;#803;&amp;#839;&amp;#860;&amp;#797;R&amp;#821;&amp;#772;&amp;#857;&amp;#851;&amp;#841;&amp;#807;&amp;#793; [colour=purple]when in [/colour]E&amp;#820;&amp;#850;&amp;#861;&amp;#770;&amp;#783;&amp;#806;&amp;#808;&amp;#841;&amp;#805;R&amp;#823;&amp;#780;&amp;#849;&amp;#836;&amp;#787;&amp;#778;&amp;#795;&amp;#828;&amp;#796;&amp;#791;&amp;#853;&amp;#825;&amp;#841;&amp;#804;R&amp;#821;&amp;#861;&amp;#808;&amp;#812;O&amp;#824;&amp;#783;&amp;#851;&amp;#802;&amp;#803;&amp;#839;&amp;#860;&amp;#797;R&amp;#821;&amp;#772;&amp;#857;&amp;#851;&amp;#841;&amp;#807;&amp;#793;.[colour=purple][/b][/sub]
-
-[b]When in [region]Archai[/region], you can:[/b]
-[i]&amp;gt;Join the Government
-&amp;gt;Fight for your L&amp;#823;&amp;#842;&amp;#853;i&amp;#821;&amp;#777;&amp;#839;f&amp;#822;&amp;#787;&amp;#854;e&amp;#820;&amp;#783;&amp;#854; [sub](RP)[/sub]
-&amp;gt;Talk to e&amp;#823;&amp;#778;&amp;#799;n&amp;#820;&amp;#771;&amp;#801;t&amp;#822;&amp;#785;&amp;#857;i&amp;#822;&amp;#784;&amp;#815;t&amp;#822;&amp;#830;&amp;#806;i&amp;#821;&amp;#842;&amp;#841;e&amp;#824;&amp;#838;&amp;#797;s&amp;#821;&amp;#784;&amp;#827;[/colour]
-[/i]
-[b][colour=red]-ERROR-[/colour]
-[i]Ending Transmission...[/i][/b]
-[hr]
-[url=https://discord.gg/eDD9Rq56][colour=purple][b]DISCORD[/b][/colour][/url]
-[hr]
+Contract Killer:
+[color=#A842E8][b]Assassin[/b][/color] [nation]Ruddiamtonialandusts[/nation]

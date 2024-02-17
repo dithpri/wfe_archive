@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 [b][color=darkblue]Delegate: [nation]Asucion[/nation][/color][/b]
 
-[b][color=darkblue]Vice-Delegate: None[/color][/b]
+[b][color=darkblue]Vice-Delegate: [nation]Pirpolistine[/nation][/color][/b]
 
 [b][color=red]At war with:[/color] No one[/b]
 
