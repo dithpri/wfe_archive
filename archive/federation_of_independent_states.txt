@@ -7,14 +7,9 @@ Executive Branch of Government
 Vice President - [nation]Natureth[/nation][/b]
 
 [b]Cabinet[/b]
-[b]Minister for Finance [/b] - [b][nation]Upper Blussiaordia[/nation][/b]
-
-[b]Minister of Foreign Affairs, International Trade and Worship[/b] - [b][nation]Natureth[/nation][/b]
-
-[b]Minister for Defence[/b] - [b][nation]Upper Blussiaordia[/nation][/b]
-
-[b]Minister of the Interior[/b] - [b][nation]Lower Romes Koa[/nation][/b]
-
-[b]Minister of Justice[/b] - [b][nation]United Dre Tatert[/nation][/b]
-
-[b]Minister of Security[/b] - [b][nation]Upper Blussiaordia[/nation][/b]
+Minister for Finance - [b][nation]Upper Blussiaordia[/nation][/b]
+Minister for Foreign Affairs, International Trade and Worship - [b][nation]Natureth[/nation][/b]
+Minister for Defence - [b][nation]Upper Blussiaordia[/nation][/b]
+Minister for the Interior - [b][nation]Lower Romes Koa[/nation][/b]
+Minister for Justice - [b][nation]United Dre Tatert[/nation][/b]
+Minister for Security - [b][nation]Upper Blussiaordia[/nation][/b]
