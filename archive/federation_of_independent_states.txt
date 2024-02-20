@@ -4,7 +4,10 @@ Please Endorse [nation]Natureth[/nation] for WA
 
 Executive Branch of Government 
 [b]President - [nation]Upper Blussiaordia[/nation]
-Vice President - [nation]Natureth[/nation][/b]
+Vice President - [nation]Natureth[/nation]
+Prime Minister - [nation]Upper Blussiaordia[/nation]
+Deputy Prime Minister - [nation]United Dre Tatert[/nation][/b]
+
 
 [b]Cabinet[/b]
 Minister for Finance - [b][nation]Upper Blussiaordia[/nation][/b]
@@ -12,4 +15,4 @@ Minister for Foreign Affairs, International Trade and Worship - [b][nation]Natur
 Minister for Defence - [b][nation]Upper Blussiaordia[/nation][/b]
 Minister for the Interior - [b][nation]Lower Romes Koa[/nation][/b]
 Minister for Justice - [b][nation]United Dre Tatert[/nation][/b]
-Minister for Security - [b][nation]Upper Blussiaordia[/nation][/b]
+Minister for Security - [b][nation]Lam Tes[/nation][/b]

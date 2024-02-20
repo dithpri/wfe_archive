@@ -10,8 +10,8 @@ FACTS
 [/color][color=D4AF37]
 REGION
 [b]Founded:[/b] 2015 Jan 04
+[b]Featured:[/b] 2024 Feb 19
 an [region=Ancient Lands] region
 [/color][color=004D33]
 EMBASSY
-[b]Policy:[/b] Transitioning to Embassy Matrix
-soon, will accept all embassies[/color]
+[b]Policy:[/b] Accepts all embassies[/color]
