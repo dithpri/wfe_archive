@@ -1,6 +1,6 @@
-Welcome to the United Democratic Nations!
+[Color=red]Welcome to the United Democratic Nations![/color]
 
-When you join please:
+[Color=green]When you join please:[/color]
 1. Join the World Assembly here: https://www.nationstates.net/page=un
 2. Endorse Delegate [nation]Kolatis[/nation]
 3. Answer any active polls
@@ -15,8 +15,8 @@ Defence Minister[/u] [b][nation]Northwest seas[/nation][/b]
 
 [b]Embassy requests welcome![/b] [i]If we denied your request then we had a legitimate reason, telegram one of our officers if you wish to know [/i]
 
-[u]World Assembly Vote Recommendations[/u]
+[Color=blue][u]World Assembly Vote Recommendations[/u][/color]
 GA: [color=green][b]For[/b][/color]
-SC: [color=green][b]For[/b][/color]
+SC: [color=grey][b]Nothing at vote[/b][/color]
 
 [u]We send our thanks to our friends in [region]Artificial Solar System[/region] and all the other regions that helped return us to native rule![/u]

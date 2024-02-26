@@ -9,6 +9,7 @@
 
 [color=918151]REGION
 [b]Founded:[/b] 2016 05 16 
-[b]Featured:[/b] 2020 01 05[/color]
-[color=803000]a [region=0000] region[/color]
-[color=6495ED][b]Embassy offers are welcome[/b][/color]
+[b]Featured:[/b] 2020 01 05; 2024 02 25[/color]
+[color=803000]a [region=Ancient Lands] capital cities region
+[/color][color=006400]
+[b]Embassy offers are welcome[/b][/color]
