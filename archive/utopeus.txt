@@ -5,6 +5,7 @@
 [b]Founding Regions[/b]
 [nation]Stairs[/nation]
 [nation]Mericastan[/nation]
+[nation]Kalingrad[/nation]
 [hr]
 [b][u]General Rules[/u][/b]
 

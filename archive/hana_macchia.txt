@@ -8,9 +8,9 @@
 [color=#ffbad2]P[/color][color=#fda3c3]i[/color][color=#fc8cb3]n[/color][color=#fa74a4]k[/color] [color=#f74685]V[/color][color=#f52f75]e[/color][color=#f41766]l[/color][color=#f20056]v[/color][color=#ed1a62]e[/color][color=#e8346e]t[/color] [color=#dd6885]S[/color][color=#d88191]w[/color][color=#d39b9d]i[/color][color=#cdb5a8]r[/color][color=#c8cfb4]l[/color]
 
 [color=#FFEFD6]CAFE FACTS[/color]:
-[color=#E6325F]Cafes est[/color]: 12
+[color=#E6325F]Cafes est[/color]: 11
 [color=#CA636C]Foreclosures[/color]: 4
-[color=#42FFFF]Closures under orders of Lize Helesta[/color]: 4
+[color=#42FFFF]Closures under orders of Lize Helesta[/color]: 5
 [color=#CC3D7B]Foreclosure before est[/color]: 0
 [color=#FA5578]Total cafes est/attempts[/color]: 19
 [color=#D7AFA8]Eggnog destroyed[/color]: 2

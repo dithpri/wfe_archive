@@ -1,3 +1,4 @@
-[b]Welcome to Aurelia Haven, Aurelians members![/b] 
-This regions is a place for those who want a [color=red]Fun,[/color] [color=yellow]Growing,[/color] [color=green]Good,[/color] [color=blue]Chill,[/color] and [color=purple]Unique[/color] Community. 
-Have fun and enjoy your stay in Aurelia Haven, Aurelians!
+[table][tr][td][b]Welcome to Aurelia Haven, Aurelians members![/b][/td][/tr][/table]
+ This regions is a place for those who want a [color=red]Fun,[/color] [color=yellow]Growing,[/color] [color=green]Good,[/color] [color=blue]Chill, 
+ [/color] and [color=purple]Unique[/color] Community.
+ Have fun and enjoy your stay in Aurelia Haven, Aurelians!
