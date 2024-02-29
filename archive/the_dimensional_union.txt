@@ -2,7 +2,6 @@ Welcome to the vast union! [Work in progress...]
 
 Dimensions:
 - [region]Loush Land[/region]
-- [nation=noflag+long]New Pekoland[/nation]
 - [region]Hydragon Realm[/region]
 - [region]The Everlasting Kawaii Empire[/region]
 - [region]Aozora[/region]
