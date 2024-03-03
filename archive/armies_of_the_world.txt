@@ -1,9 +1,9 @@
-Puppet storage for [nation]Army of Revolutions[/nation] and home of Person/Revolution. 
+[b]Puppet storage for [nation]Army of Revolutions[/nation] and home of Person/Revolution. 
 
-[b]Current Ranks:[/b]
+Current Ranks:
 [region]The Black Hawks[/region]:
 [color=darkgrey]Corporal[/color] [nation]Army of Revolutions[/nation]
 [region]The Brotherhood of Malice[/region]:
 [color=#b23aee]Assassin[/color] [nation]Army of Malice[/nation]
 [region]Sparkalia[/region]:
-[color=purple]Spell Caster[/color] [nation]Army of Anime[/nation]
+[color=purple]Spell Caster[/color] [nation]Army of Anime[/nation][/b]
