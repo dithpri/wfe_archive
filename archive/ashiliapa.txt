@@ -1,1 +1,6 @@
-Just a random region. Nothing else.
+A region makes up of 3 three nations (as of now). Feel free to move here!
+
+Nations: (ranked by oldest in region)
+[nation]Ashilion[/nation]
+[nation]Ashil II[/nation]
+[nation]Thereca[/nation]
