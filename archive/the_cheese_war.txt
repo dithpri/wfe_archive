@@ -14,6 +14,7 @@ Anti-Cheese Alliance:
 [nation]Shan Alls[/nation]
 [nation]Strawvya[/nation]
 [nation]Dephcon[/nation]
+[nation]Numina[/nation]
 
 Neutral:
 [nation]Vaasenburg[/nation]
