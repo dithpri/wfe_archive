@@ -15,6 +15,7 @@ Anti-Cheese Alliance:
 [nation]Strawvya[/nation]
 [nation]Dephcon[/nation]
 [nation]Numina[/nation]
+[nation]RealTacoMan[/nation]
 
 Neutral:
 [nation]Vaasenburg[/nation]
