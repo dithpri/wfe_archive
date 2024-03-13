@@ -8,4 +8,6 @@ Christian Alliances
 region
 region [/color]
 
-[color=red]Our Rivals
+[color=red]Our Rivals[/color]
+[Region]Hell[/Region]
+[Region]Elite Illuminati Society[/Region]

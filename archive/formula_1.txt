@@ -1,25 +1,41 @@
 2024 Drivers
 
-01 M. Verstappen [nation]R e d B u l l[/nation] 3 x Champ, 54 Wins
-02 L. Sargeant [nation]W i l l i a m s[/nation]
-03 D. Ricciardo [nation]V i s a C a s h A p p R B[/nation] 8 Wins
-04 L. Norris [nation]M c L a r e n[/nation]
-10 P. Gasly [nation]A l p i n e[/nation] 1 Win
-11 S. Perez [nation]R e d B u l l[/nation] 6 Wins
-14 F. Alonso [nation]A s t o n M a r t i n[/nation] 2 x Champ, 32 Wins
-16 C. Leclerc [nation]F e r r a r i[/nation] 5 Wins
-18 L. Stroll [nation]A s t o n M a r t i n[/nation]
-20 K. Magnussen [nation]H a a s[/nation]
-22 Y. Tsunoda [nation]V i s a C a s h A p p R B[/nation] 
-23 A. Albon [nation]W i l l i a m s[/nation]
-24 Z. Guanyu [nation]S a u b e r[/nation]
-27 N. H&uuml;lkenberg [nation]H a a s[/nation]
-31 E. Ocon [nation]A l p i n e[/nation] 1 Win
-44 L. Hamilton [nation]M e r c e d e s[/nation] 7 x Champ, 103 Wins
-55 C. Sainz [nation]F e r r a r i[/nation] 2 Wins
-63 G. Russell [nation]M e r c e d e s[/nation] 1 Win
-77 V. Bottas [nation]S a u b e r[/nation] 10 Wins
-81 O. Piastri [nation]M c L a r e n[/nation] 
+051 M. Verstappen [nation]R e d B u l l[/nation] 2 Wins, 2 Pod
+036 S. Perez [nation]R e d B u l l[/nation] 2 Pod
+028 C. Leclerc [nation]F e r r a r i[/nation] 1 Pod
+018 G. Russell [nation]M e r c e d e s[/nation]
+016 O. Piastri [nation]M c L a r e n[/nation] 
+015 C. Sainz [nation]F e r r a r i[/nation] 1 Pod
+012 F. Alonso [nation]A s t o n M a r t i n[/nation]
+012 L. Norris [nation]M c L a r e n[/nation]
+008 L. Hamilton [nation]M e r c e d e s[/nation]
+006 O. Beraman [nation]F e r r a r i[/nation]
+001 N. H&uuml;lkenberg [nation]H a a s[/nation]
+001 L. Stroll [nation]A s t o n M a r t i n[/nation]
+000 A. Albon [nation]W i l l i a m s[/nation]
+000 Z. Guanyu [nation]S a u b e r[/nation]
+000 K. Magnussen [nation]H a a s[/nation]
+000 D. Ricciardo [nation]V i s a C a s h A p p R B[/nation]
+000 E. Ocon [nation]A l p i n e[/nation]
+000 Y. Tsunoda [nation]V i s a C a s h A p p R B[/nation] 
+000 L. Sargeant [nation]W i l l i a m s[/nation]
+000 V. Bottas [nation]S a u b e r[/nation]
+000 P. Gasly [nation]A l p i n e[/nation]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
