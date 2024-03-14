@@ -1,9 +1,9 @@
-The home of Aristophana. Encountered a Chimore in the wild? That&#39;s her! Below are the mains, where, role, and card collection/sales, in order of importance. 
+The home of Aristophana. Encountered a Chimore in the wild? That&#39;s her! Below are the mains, where, and role, in order of importance. 
 
-[list][*][nation=long]East Chimore[/nation]:[list][*][region]Lair of the Dragon[/region] | Greatwyrm | Collects UDS, TGW, Epics, and Legendaries.[/list]
+[list][*][nation=long]East Chimore[/nation]:[list][*][region]Lair of the Dragon[/region] | Greatwyrm - The Silver Dragon[/list]
 [*][nation=long]Central Chimore[/nation]:[list][*][region]The Brotherhood of Malice[/region] | Assassin[/list]
-[*][nation=long]West Chimore[/nation]:[list][*][region]Chimore[/region] | Free[/list]
-[*][nation=long]North Chimore[/nation]:[list][*][region]Chimore[/region] | [region]Astoria[/region] | Citizen[/list]
+[*][nation=long]North Chimore[/nation]:[list][*][region]Astoria[/region] | Citizen[/list]
+[*][nation=long]West Chimore[/nation]:[list][*][region]The East Pacific[/region] | Resident[/list]
 [*][nation=long]South Chimore[/nation]:[list][*][region]Alex[/region] | Alex 2 Electric Boogaloo[/list]
 [*][nation=long]Chimore[/nation]:[list][*][region]Chimore[/region] | Puppet Storage Founder[/list]
 

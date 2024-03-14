@@ -1,6 +1,13 @@
-[color=00e6ec]Welcome to the Open Ocean! A vast expanse of water as far as the eye can see, there&acirc;&#128;&#153;s plenty of space to swim and explore![/color]
+[b][color=purple]Oh dear! Oh dear! I&#39;m late! So very late![/color][hr]Tonight, a barrage of baleful bunnies from [region]the Brotherhood of Malice[/region], along with the hexing hares of [region]Sparkalia[/region] and the lethal lagomorphs of [region]Astoria[/region] took a detour through your region in order to speed up their commute. Unfortunately, they ended up trampling over your garden...
 
-[color=0011ff]This section of the Open Ocean is controlled by the [u]Dancing Dolphins[/u]![/color]
+[u]Malicious Marauders:[/u]
+[color=#4a77ff]Taskmaster[/color] [nation]Volstrostia[/nation] (Trigger)
+[color=#ff559d]Integration Master[/color] [nation]The Phantom Gambler[/nation]
+[color=#b23aee]Assassin[/color] [nation]Zeldria[/nation]
 
-[hr]
-This region is part of the Summer Beach Bash Wargames event. Please do not tag it!
+[u]Sparkling Support:[/u]
+[color=pink]Mage [nation]Nova Vinelandia[/nation]
+Mage [nation]Angeloid Astraea[/nation][/color]
+
+[u]Astorian Allies:[/u]
+[color=#664cb0]Cavalier[/color] [nation]Unike[/nation][/b]
