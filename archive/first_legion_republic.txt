@@ -1,8 +1,11 @@
+Regional Union 
+[region]Northern Legion Republic[/region] 
+[b]Regional President of the Northern Legion Republic[/b] : [nation]Mentesa[/nation]
+
 Elective Parliamentary Republic
 
 [u][b]Head of State [/b][/u]
-[i]State President : [nation]United Dre Tatert[/nation]
-[/i]
+[i]President of the Republic : [nation]Mentesa[/nation][/i]
+
 [u][b]Executive Branch [/b][/u]
 [i]Prime Minister : [nation]Mentesa[/nation][/i]
-[i]Deputy Prime Minister : [nation]Natureth[/nation][/i]
