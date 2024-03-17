@@ -1,1 +1,6 @@
-Semi Presidential Republic
+Political Union
+[region]First Legion Republic[/region]
+
+[u][b]Executive Branch [/b][/u]
+Regional President of the Northern Legion Republic : [nation]Mentesa[/nation]
+Regional Vice President of the Northern Legion Republic :  [nation]Harcsorn[/nation]

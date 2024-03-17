@@ -1,11 +1,12 @@
 Regional Union 
-[region]Northern Legion Republic[/region] 
+[b][region]Northern Legion Republic[/region] [/b]
 [b]Regional President of the Northern Legion Republic[/b] : [nation]Mentesa[/nation]
 
-Elective Parliamentary Republic
+[region]First Legion Republic [/region]
+Head of State (vacant) under the Constitution the Prime Minister assumes all powers of the Head of State if office is vacant.
 
-[u][b]Head of State [/b][/u]
-[i]President of the Republic : [nation]Mentesa[/nation][/i]
+Executive Branch 
+- Prime Minister of the First Legion Republic 
+- Deputy Prime Minister of the First Legion Republic 
 
-[u][b]Executive Branch [/b][/u]
-[i]Prime Minister : [nation]Mentesa[/nation][/i]
+
