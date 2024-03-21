@@ -16,6 +16,9 @@ Anti-Cheese Alliance:
 [nation]Numina[/nation]
 [nation]RealTacoMan[/nation]
 
+Criminal Organizations:
+[nation]The Scorpia Organization[/nation]
+
 Neutral:
 [nation]Vaasenburg[/nation]
 [nation]Not that bad land[/nation]
