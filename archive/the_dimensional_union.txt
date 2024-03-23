@@ -6,6 +6,5 @@ Dimensions:
 - [region]The Everlasting Kawaii Empire[/region]
 - [region]Aozora[/region]
 - [region]Nomilia Peninsula[/region]
-- [region]Lindelia[/region]
 - [region]Samlandia[/region]
 - [region]Xinyeong[/region]
