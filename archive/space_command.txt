@@ -1,2 +1,5 @@
 [b]This message is Encoded to Base64[/b]
-[spoiler=Encoded Message] VGhpcyBpcyBhIFNlY3JldCBJbnRlbGxpZ2VuY2UgR2F0aGVyaW5nIFJlZ2lvbiBhbmQgaG9tZSB0byBTcGFjZSBjb21tYW5kIEludGVsbGlnZW5jZSBCdXJlYXUuClRoaXMgUmVnaW9uIGhhcyB0aWVzIHRvIC4uLi4uLi4u[/spoiler]
+[spoiler=Encoded Message] VGhpcyBpcyBhIFNlY3JldCBJbnRlbGxpZ2VuY2UgR2F0aGVyaW5nIFJlZ2lvbiBhbmQgaG9tZSB0byBTcGFjZSBjb21tYW5kIEludGVsbGlnZW5jZSBCdXJlYXUuClRoaXMgUmVnaW9uIGhhcyB0aWVzIHRvIC4uLi4uLi4u
+
+[Color=Blue]U2VjcmV0IEJhc2Ugb2YgU3B5Qm9zcw==[/Color]
+[/spoiler]

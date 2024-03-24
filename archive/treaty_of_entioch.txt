@@ -1,9 +1,12 @@
 [b][color=#566D7E]HEADQUARTERS OF THE TREATY OF ENTIOCH[/b]
 [hr]
-[b]General Secretary:[/b] [nation]Cantan-Cronos[/nation]
-[b]Allied Commander-General:[/b] [i]vacant[/i]
+[b]GENERAL SECRETARY:[/b] [nation]Cantan-Cronos[/nation]
+[b]ALLIED SUPREME COMMANDER:[/b] [i]vacant[/i]
 
-[b]Members:[/b]
+[b]FOUNDED[/b]
+19 December 2023
+
+[b]MEMBERS[/b]
 [region]Imperial Sanctuary[/region] (founder)
 [region]Territories of the Asmor Federation[/region] (founder)
 [region]The Three Isles[/region] (founder)
