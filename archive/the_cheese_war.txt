@@ -16,6 +16,7 @@ Anti-Cheese Alliance:
 [nation]Dephcon[/nation]
 [nation]Numina[/nation]
 [nation]RealTacoMan[/nation]
+[nation]Lithuaia[/nation]
 
 Criminal Organizations:
 [nation]The Scorpia Organization[/nation]

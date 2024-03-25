@@ -1,3 +1,1 @@
-[table]
- [tr][td]Gulao[/td][/tr]
-[/table]
+[color=green][b]Gulao[/b][/color]

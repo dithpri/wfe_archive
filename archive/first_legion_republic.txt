@@ -1,12 +1,11 @@
 Regional Union 
 [b][region]Northern Legion Republic[/region] [/b]
 [b]Regional President of the Northern Legion Republic[/b] : [nation]Mentesa[/nation]
+[b]Premier of the Southern Legion Republic[/b] : [nation]Lam Tes[/nation]
+[b][region]Southern Legion Republic[/region][/b]
+[b]Regional President of the Northern Legion Republic[/b] : [nation]Mentesa[/nation]
+[b]Premier of the Southern Legion Republic[/b] : [nation]Lower Romes Koa[/nation]
 
-[region]First Legion Republic [/region]
-Head of State (vacant) under the Constitution the Prime Minister assumes all powers of the Head of State if office is vacant.
 
-Executive Branch 
-- Prime Minister of the First Legion Republic 
-- Deputy Prime Minister of the First Legion Republic 
 
 
