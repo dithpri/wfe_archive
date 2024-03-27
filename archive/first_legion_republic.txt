@@ -1,10 +1,5 @@
 Regional Union 
-[b][region]Northern Legion Republic[/region] [/b]
-[b]Regional President of the Northern Legion Republic[/b] : [nation]Mentesa[/nation]
-[b]Premier of the Southern Legion Republic[/b] : [nation]Lam Tes[/nation]
-[b][region]Southern Legion Republic[/region][/b]
-[b]Regional President of the Northern Legion Republic[/b] : [nation]Mentesa[/nation]
-[b]Premier of the Southern Legion Republic[/b] : [nation]Lower Romes Koa[/nation]
+[b][region]Northern Legion Republic[/region] [/b] &amp; [b][region]Southern Legion Republic[/region][/b]
 
 
 

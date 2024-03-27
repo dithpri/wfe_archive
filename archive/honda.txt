@@ -4,8 +4,19 @@ Probably NationStates largest Honda related region. And also [nation]7 Trees[/na
 
 [url=https://www.honda.com/]Honda&#39;s Official Website &amp;#127760;[/url]
 
-[i]3 legendries and counting.[/i]
+[i]4 legendries and counting.[/i]
 
 [b]Engine Stats:[/b]
-Current State: [color=blue][b]Idling[/b][/color] (Farming at a low rate)
-Power: 2 Legendries
+Current State: [color=green][b]Eco[/b][/color]
+Rpm: Not Measured
+Power: 4 Legendries
+Torque: 52 Nations
+Economy: 52 Nations Farmed Today
+[hr][b]Guide to Honda Stats:[/b]
+[color=red][b]Speeding[/b][/color]=Farming Everyday, All Nations
+[color=orange][b]Driving[/b][/color]=Farming Most Days, Most Nations
+[color=green][b]Eco[/b][/color]=Farming Some Days, All/Most Nations
+[color=blue][b]Idling[/b][/color]=Farming Most Days, Some Nations
+[color=purple][b]Reversing[/b][/color]= Farming Some Days, Few Nations
+[color=brown][b]Stopped[/b][/color]=Farming Stopped, for a Short Period of Time
+[color=pink][b]Off[/b][/color]=Farming Shut Down, for a Longer Period of Time
