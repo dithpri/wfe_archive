@@ -1,12 +1,2 @@
-The [nation]The House of Windsor[/nation] governs;
-
- &amp;#128081; [region]The United Kingdom[/region].
- &amp;#128081; [region]The Walbard Union[/region] (also member of URV).
- &amp;#128081; [region]The UK Commonwealth[/region].
- &amp;#128081; [region]The Danish Realm[/region].
- &amp;#128081; [region]The Swedish Empire[/region].
- &amp;#128081; [region]The Kingdom of Norway[/region].
- &amp;#128081; [region]The Kingdom of Canada[/region].
- &amp;#128081; [region]The Kingdom of Australia and New Zealand[/region].
- &amp;#128081; [region]The Khanate of Mongolia[/region].
- &amp;#128081; [region]The Khanate of Inner Mongolia[/region].
+[b]Welcome to the UK Commonwealth[/b]
+Home to the Commonwealth of Nations.
