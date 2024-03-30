@@ -8,3 +8,6 @@ Security Council: [b][i]AGAINST[/i][/b]
 
 Main Region:
 [region]Corvinia[/region]
+
+Sister Region:
+[region]Lelaris[/region]

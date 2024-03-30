@@ -8,3 +8,4 @@ Security Council: AGAINST
 
 Sister Regions:
 [region]Shalibvia[/region]
+[region]Lelaris[/region]
