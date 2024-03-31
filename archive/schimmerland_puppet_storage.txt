@@ -4,3 +4,5 @@ Current Diplomatic Situation: [colour=green]Peaceful[/colour]
 Current Military Alert Level: [colour=orange]Warning[/colour]
 
 Telegram [nation=long+noflag]Schimmerland[/nation] for more information.
+
+[region]Schimmerland Puppet Storage[/region] is currently [colour=green][i]Open[/i][/colour] to new embassies.
