@@ -1,13 +1,1 @@
-Unofficial region for a certain discord.
-
-[nation]OldGrind[/nation] = GetInside 
-[nation]Lady Child Time[/nation] = ClumsyCryptid
-[nation]Old Texas[/nation] = Forsaken
-[nation]The Mercian Territories[/nation] = Green Raccoon
-[nation]Vayghr[/nation] = Yaoi[nation]Duji[/nation] = Glowing1
-[nation]Dixieana[/nation] = Krauser
-
-OTHER NATIONS TBD
-
-
-Map credit: Meme Knight
+Defunct
