@@ -1,6 +1,6 @@
 Welcome to Shalibvia.
 
-This region is a hotspot for weird country names and some other things
+This region is a hotspot for bustling national pride and culture.
 
 Stance on WA:
 General Assembly: [b][i]AGAINST[/i][/b]
@@ -11,3 +11,6 @@ Main Region:
 
 Sister Region:
 [region]Lelaris[/region]
+
+Official Archipelago Railroad:
+[region]Corvinian Archipelago Railway Services[/region]
