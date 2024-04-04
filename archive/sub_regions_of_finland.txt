@@ -1,0 +1,5 @@
+From Wikipedia, the free encyclopedia
+
+Sub-regions (Finnish: seutukunta, Swedish: ekonomisk region) are divisions used for statistical purposes in Finland. The country is divided into 69 sub-regions, which are formed by groups of municipalities within the 19 regions of Finland. These sub-regions represent a LAU 1 level of division used in conjunction with the Nomenclature of Territorial Units for Statistics.
+
+puppet dump of [nation]Troc[/nation]

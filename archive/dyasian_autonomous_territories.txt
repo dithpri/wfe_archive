@@ -1,9 +1,9 @@
-[b][color=maroon]Welcome[/color] to [color=grey]Dyasiabelsk![/color][/b]
+[b][color=maroon]Welcome[/color] to [color=grey][u]Dyasiabelsk![/u][/color][/b]
 
 [b][region]Dyasian Autonomous Territories[/region][/b] is the collective name for the autonomous districts, also known as Oblasts, in the Confederal Tsardom of [b][nation]Dyasiabelsk[/nation][/b]. These Oblasts have moderate levels of self-governing authority and each posseses their own political system and government institutes. The Politburo of the leading party within an Oblast represents in the Confederal Legislative system, where nation-wide decisions are made.
 
-[list][*][b]Capital[/b]: Volkenberg, [nation]Boreas Territories[/nation]
-[*][b]Government Building[/b]: Boreas Institute of [nation]Civilian Administration[/nation] and Foreign Affairs, Volkenberg, [nation]Boreas Territories[/nation]
+[list][*][b]Capital[/b]: Volkenberg, [b][nation]Boreas Territories[/nation][/b]
+[*][b]Government Building[/b]: Boreas Institute of [b][nation]Civilian Administration[/nation][/b] [color=green]and Foreign Affairs[/color], Volkenberg, [b][nation]Boreas Territories[/nation][/b]
 [*][b]Government Type[/b]: Totalitarian Constitutional Monarchy
 [*][b]Legislative System[/b]: Bicameralism, consisting of the State Duma and the Senate
 [*][b]Ideology[/b]: Socialism[/list]
