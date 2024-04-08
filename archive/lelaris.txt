@@ -10,5 +10,8 @@ Main Regions:
 [region]Corvinia[/region]
 [region]Shalibvia[/region]
 
+Sister Regions:
+[region]Corvinian Socialist Union[/region]
+
 Official Archipelago Railroad:
 [region]Corvinian Archipelago Railway Services[/region]

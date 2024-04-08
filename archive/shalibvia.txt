@@ -11,6 +11,7 @@ Main Region:
 
 Sister Region:
 [region]Lelaris[/region]
+[region]Corvinian Socialist Union[/region]
 
 Official Archipelago Railroad:
 [region]Corvinian Archipelago Railway Services[/region]
