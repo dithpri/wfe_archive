@@ -1,5 +1,3 @@
-[table]
-[tr][td][color=00477e][b]Maldtroll[/b][/color][/td][/tr]
-[tr][td][color=004d33]Founded: 2023 Oct 08[/color][/td][/tr]
-[tr][td][color=886950]a [region=0000] Oracle Region (36)[/color][/td][/tr]
-[/table]
+[color=00477e][b]Maldtroll[/b][/color]
+[color=004d33]Founded: 2023 Oct 08[/color]
+[color=886950]a [region=0000] Oracle Region (36)[/color]

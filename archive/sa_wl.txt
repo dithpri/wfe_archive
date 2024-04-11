@@ -1,7 +1,11 @@
-[b]South African Watch List[/b] - Property of [region]South African Union[/region]
+&amp;#128304; [b]&#150; &#151; DIRECTORY &#151; SUID-AFRIKA &#151; &#150;[/b] &amp;#128304; &#150; &#151; &#150; [b]SUID-AFRIKAANSE &#151; DOPHOULYS[/b] &#151; &#150; &amp;#128304;
+[hr]
 
-[b][color=crimson]Users in the SAU Watchlist are required to[/color] [color=firebrick]join this region until their sentence is finished.[/color][/b]
-[b][color=firebrick]If a nation currently in the watchlist abruptly leaves, they will be banned from all of SAU and denied of any[/color] [color=crimson]involvement within  the region until the user turns themselves in and agree to serving a prolonged sentence.[/color][/b]
+[i]Users in the SAU Watchlist are required to join this region until their sentence is finished.
+If a nation currently in the watchlist abruptly leaves, they will be banned from all of SAU and denied 
+of any involvement within the region until the user turns themselves in and agree to serving a prolonged 
+sentence.[/i]
+[hr]
 
-[b]Sentences[/b]
-[nation]Catboyia[/nation] - 10 days - 4 days served
+[table=plain][tr][td]CONVICT[/td][td]SENTENCE[/td][td]SERVED[/td][td]GUARD[/td][/tr]
+[tr][td]No convict[/td][td]- days[/td][td]- days[/td][td]No guards[/td][/tr][/table]
