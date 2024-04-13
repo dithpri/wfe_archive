@@ -8,4 +8,4 @@ sentence.[/i]
 [hr]
 
 [table=plain][tr][td]CONVICT[/td][td]SENTENCE[/td][td]SERVED[/td][td]GUARD[/td][/tr]
-[tr][td]No convict[/td][td]- days[/td][td]- days[/td][td]No guards[/td][/tr][/table]
+[tr][td][nation]Hayzes[/nation][/td][td]60 days[/td][td]0 days[/td][td][nation]Nekostadt[/nation], [nation]Hailhaven[/nation], [nation]Asmodal[/nation][/td][/tr][/table]

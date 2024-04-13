@@ -1,10 +1,15 @@
-Head of State 
+[b][u]Head of State [/u][/b]
 Regional President of the Southern Legion Republic: [nation]Damoders[/nation]
 
-[u]Executive Branch[/u]
+[b][u]Executive Branch[/u][/b]
 Head of Government 
 Prime Minister of the Southern Legion Republic: [nation]Damoders[/nation]
 
-Cabinet of Ministers 
+[b][u]Cabinet of Ministers [/u][/b]
+Chief of the Cabinet of Ministers : [nation]Mentesa[/nation]
+Minister for Defence 
+Minister for Human Capital 
+Minister for Foreign Affairs 
+Minister for the Interior 
 
 
