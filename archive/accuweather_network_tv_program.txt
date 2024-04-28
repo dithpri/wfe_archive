@@ -1,4 +1,4 @@
 [b]Welcome to the Accuweather Network Weather Station[/b]
 
 [b]Current Conditions:[/b]
-[color=green]Cloudy, 63&deg;F / 17&deg;F[/color]
+[color=green]Partly cloudy, 57&deg;F / 14&deg;F[/color]

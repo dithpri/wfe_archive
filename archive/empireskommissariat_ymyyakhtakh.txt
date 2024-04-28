@@ -1,4 +1,4 @@
-[b]Welcome to [region]Empireskommissariat Ymyyakhtakh[/region] which is better [region]Ymyyakhtakh[/region][/b] 
+[color=darkgreen][b]Welcome[/b][/color] [color=red][b]to[/b][/color] [color=black][b]Empireskommissariat Ymyyakhtakh![/b][/color]
 
 Named after an ancient Paleo-Siberian culture, Ymyyakhtakh is a small region dedicated to the cause of Uralic nationalism. We promote unity among the great Finnic, Ugric, Samoyedic, and Yukaghir peoples. History has not been kind to us, but we will not forget who we are.
 
@@ -9,7 +9,7 @@ Named after an ancient Paleo-Siberian culture, Ymyyakhtakh is a small region ded
 [hr]
 
 [color=orange][b]Regional Announcements[/b][/color]
-- [quote=meshcheria;55546020]uwu[/quote]
+[quote=meshcheria;55546020]uwu[/quote]
 
 [b][nation]Meshcheria[/nation] recognize independence of [region]Empireskommissariat Ymyyakhtakh[/region]![/b]
 
