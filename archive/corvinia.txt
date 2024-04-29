@@ -14,6 +14,7 @@ Sister Regions:
 [region]Shalibvia[/region]
 [region]Lelaris[/region]
 [region]Corvinian Socialist Union[/region]
+[region]Corvinian Conlang Union[/region]
 
 Official Archipelago Railroad:
 [region]Corvinian Archipelago Railway Services[/region]

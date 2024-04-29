@@ -1,0 +1,10 @@
+A proud member of the Corvinian Archipelago
+
+Main Regions:
+[region]Corvinia[/region]
+[region]Shalibvia[/region]
+[region]Lelaris[/region]
+[region]Corvinian Socialist Union[/region]
+
+Official Archipelago Railroad:
+[region]Corvinian Archipelago Railway Services[/region]

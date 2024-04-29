@@ -12,6 +12,7 @@ Main Regions:
 
 Sister Regions:
 [region]Corvinian Socialist Union[/region]
+[region]Corvinian Conlang Union[/region]
 
 Official Archipelago Railroad:
 [region]Corvinian Archipelago Railway Services[/region]

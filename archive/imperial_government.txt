@@ -1,4 +1,4 @@
-Empire themed region. (Homeland of the Asmorians)
+Empire themed region
 
 After the Collapse of the old Federation, the Nation of Asmoria retooled government efforts into a strong centralized Imperial SuperState.
 
@@ -7,4 +7,5 @@ Co-Monarch of the Region is [nation]The Kingdom of the Three Isles[/nation]
 Alliance Pact:
 [region]The Three Isles[/region]
 [region]Imperial Sanctuary[/region]
+[region]Treaty of Entioch[/region]
 [region]Territories of the Asmor Federation[/region]

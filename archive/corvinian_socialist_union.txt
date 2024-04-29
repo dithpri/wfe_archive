@@ -9,5 +9,8 @@ Main Regions:
 [region]Shalibvia[/region]
 [region]Lelaris[/region]
 
+Sister Regions:
+[region]Corvinian Conlang Union[/region]
+
 Archipelago Railroad:
 [region]Corvinian Archipelago Railway Services[/region]
