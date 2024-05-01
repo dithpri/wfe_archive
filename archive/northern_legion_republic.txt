@@ -10,3 +10,6 @@ Prime Minister of the Northern Legion Republic - [nation]Harcsorn[/nation]
 National Assembly 500 seats 
 Speaker of the National Assembly 
 Secretary of the Northern League (Head of the political party &amp; the dominate party in parliament)
+
+Military 
+Supreme Commander-in-Chief of the Armed Forces - [nation]Damoders[/nation]
