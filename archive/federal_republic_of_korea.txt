@@ -9,4 +9,5 @@
 Associated with: [region=United States of America]
 [region=Republic of Korea], [region=Peoples Republic of Korea]
 [region=Seoul][/color][/td][/tr][/table]
-[table][tr][td][color=008080][b]Embassy Offers Accepted[/b][/color][/td][/tr][/table]
+[table][tr][td][color=008080][b]Embassy Offers Accepted[/b][/color][/td][/tr]
+[tr][td][color=999999][i]Note: Embassies do not have any other special significance other than it simply being an embassy[/i][/color][/td][/tr][/table]
