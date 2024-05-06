@@ -21,5 +21,5 @@ We accept [b][u]all[/u][/b] embassy requests!
 
 [hr]
 
-General Assembly: [color=#00FF00]For[/color]
-Security Council: [color=#00ff00]For[/color]
+General Assembly: [color=lime]For[/color]
+Security Council: [color=grey]Abstain[/color]

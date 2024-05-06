@@ -10,5 +10,5 @@ Elder: [nation]Wojtika[/nation](Elected 0 AGI)
 [color=blue]0 AGI[/color]
 
 [b][u]WA Suggestion:[/u][/b]
-[color=navy]GA - Against[/color]
-[color=crimson]SC - For[/color]
+[color=navy]GA - For[/color]
+[color=crimson]SC - N/A[/color]
