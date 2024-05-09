@@ -8,7 +8,9 @@ Pro-Cheese Coalition:
 [nation]Japtilas[/nation]
 [nation]New Seraphora[/nation]
 [nation]MHBs New Earths WA Delegate[/nation]
-[nation]RealTacoMan[/nation]
+[nation]New Baltic States[/nation]
+[nation]Patche[/nation]
+[nation]Crimean[/nation]
 
 Anti-Cheese Alliance:
 [nation]Merethin[/nation]
@@ -17,6 +19,7 @@ Anti-Cheese Alliance:
 [nation]Torkeland[/nation]
 [nation]Alphus Imperium[/nation]
 [nation]Lithuaia[/nation]
+[nation]RealTacoMan[/nation]
 
 Criminal Organizations:
 [nation]The Scorpia Organization[/nation]
@@ -27,6 +30,6 @@ Neutral:
 [nation]Not that bad land[/nation]
 [nation]Just let me grill[/nation]
 
-[b]We aren&#39;t accepting any new participants as the war is starting soon.[/b]
+[b]To join the war, read the instructions in [url=https://www.nationstates.net/page=dispatch/id=1999613]this dispatch[/url].[/b]
 
 [b]We do not accept unsolicited embassy requests.[/b]
