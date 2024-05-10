@@ -17,6 +17,7 @@ Welcome to Venveeian Alcyoneus! Venveeian Alcyoneus is a region that contains a 
 [nation]Marshall Spain[/nation]
 [nation]Marshall Portugal[/nation]
 [nation]Monegasques-Maltese[/nation]
+[nation]Regino di Italia[/nation]
 
 [b]List of Government Bodies[/b]
 
@@ -25,3 +26,4 @@ Welcome to Venveeian Alcyoneus! Venveeian Alcyoneus is a region that contains a 
 [b]The Creator&#39;s Residence[/b]
 
 [nation]The Honorable Starline[/nation]
+[nation]Shadow of Starline[/nation]
