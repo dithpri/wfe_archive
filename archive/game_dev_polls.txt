@@ -1,1 +1,3 @@
 Hello
+Gender of character : Male
+Skin color: 
