@@ -1,8 +1,22 @@
 [color=00477e][b]Greater London[/b]
+[/color][color=543210]
+FACTS
+the [b]Greater London Authority[/b] is responsible for the Greater London administration area
+Greater London contains 33 local government districts
+including 32 London boroughs forming a ceremonial county also called Greater London
+Only the City of London and Westminster hold city status
+
+Area: 1,572 km2 (607 sq mi)
+Population: 8,866,180 (2022)
+Ceremonial County:
+- Lord Lieutenant: Ken Olisa
+- High Sheriff: Ina De
+Region: Greater London Authority
+- Mayor: Sadiq Khan
 [/color][color=606000]
 REGION
 [b]Founded:[/b] 2017 May 23
-[b]Featured:[/b] 2022 Dec 30
+[b]Featured:[/b] 2022 Dec 30; 2024 May 12
 an [region=Ancient Lands] region
 in association with: [region=Great Britain and Northern Ireland], 
 [region=London], [region=Westminster], [region=United States of America], 

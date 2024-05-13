@@ -6,5 +6,8 @@ Main Regions:
 [region]Lelaris[/region]
 [region]Corvinian Socialist Union[/region]
 
+Sister Regions:
+[region]Corvinian Spanish Zone[/region]
+
 Official Archipelago Railroad:
 [region]Corvinian Archipelago Railway Services[/region]
