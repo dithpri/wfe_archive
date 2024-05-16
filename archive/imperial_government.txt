@@ -9,3 +9,5 @@ Alliance Leader [nation]Histarctica[/nation]
 [region]Treaty of Entioch[/region]
 
 [region]The Federation of Utopias Unitum[/region]
+
+[region]Territories of the Asmor Federation[/region]
