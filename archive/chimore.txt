@@ -2,10 +2,10 @@ The home of Aristophana. Encountered a Chimore in the wild? That&#39;s her! Belo
 
 [list][*][nation=long]East Chimore[/nation]:[list][*][region]Lair of the Dragon[/region] | Greatwyrm - The Silver Dragon[/list]
 [*][nation=long]Central Chimore[/nation]:[list][*][region]The Brotherhood of Malice[/region] | Assassin[/list]
-[*][nation=long]North Chimore[/nation]:[list][*][region]Merciam[/region] | Citizen[/list]
-[*][nation=long]West Chimore[/nation]:[list][*][region]The East Pacific[/region] | Resident[/list]
+[*][nation=long]North Chimore[/nation]:[list][*][region]Merciam[/region] | Marchionix of Germania[/list]
+[*][nation=long]West Chimore[/nation]:[list][*][region]The Black Hawks[/region] | Resident[/list]
 [*][nation=long]South Chimore[/nation]:[list][*][region]Alex[/region] | Alex 2 Electric Boogaloo[/list]
 [*][nation=long]Chimore[/nation]:[list][*][region]Chimore[/region] | Puppet Storage Founder[/list][/list]
 [hr]
 [b][color=#a6a6b3]The Silver Dragon[/color][/b] [nation=long]East Chimore[/nation]
-[b][color=#b23aee]Assassin[/color][/b][nation=long]Central Chimore[/nation]
+[b][color=#b23aee]Assassin[/color][/b] [nation=long]Central Chimore[/nation]
