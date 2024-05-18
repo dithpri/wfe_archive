@@ -1,14 +1,15 @@
-[b][u][colour=#0055B5]Welcome to the House of Commons, [url=https://www.nationstates.net/region=thaecia]Thaecia[/url]&#39;s lower house of Congress.[/colour][/u][/b]
-[u][url=region=the thaecian senate]Senate (Upper House)[/url][/u]
+[b][u][colour=#0055B5]Welcome to the House of Commons, [url=https://www.nationstates.net/region=thaecia]Thaecia[/url]&#39;s Parliament.[/colour][/u][/b]
 [hr][b]Leadership:
 
-[list][*]Speaker of the House: [nation]Sma Cyrillic[/nation] ([color=Gray]IND[/color])[/b]
-[list][*]Senior Deputy Speaker: [nation]Vacant[/nation] ([b][color=Gray]N/A[/color][/b])
-[i][*]Junior Deputy Speaker: [nation]Vacant[/nation] ([color=Gray]N/A[/color][/i])
-[i][*]Junior Deputy Speaker: [nation]Vacant[/nation] ([color=Gray]N/A[/color])[/list][/i][/list]
+[list][*]Speaker of the House: [nation]Vacant[/nation] ([color=Gray]N/A[/color])[/b]
+[list][*]Deputy Speaker: [nation]Vacant[/nation] ([b][color=Gray]N/A[/color][/b])[/list][/list]
 
-[b][list][*]Shadow Speaker of the House: [nation]Thaecian Chanku[/nation] ([color=Gray]IND[/color])[/b]
-[i][list][*]Deputy Shadow Speaker: [nation]Vacant[/nation] ([color=Gray]N/A[/color])[/list][/i][/list]
+[b][list][*]Prime Minister: [nation]Vacant[/nation] ([color=Gray]N/A[/color])[/b]
+[list][*]Minister of Domestic Affairs: [nation]Vacant[/nation] ([b][color=Gray]N/A[/color][/b])
+[*]Minister of Foreign Affairs: [nation]Vacant[/nation] ([color=Gray]N/A[/color])
+[*]Minister of Culture: [nation]Vacant[/nation] ([color=Gray]N/A[/color])[/list][/list]
 
-[hr][b][i][url=https://www.nationstates.net/page=dispatch/id=1441758#51][color=#ea2323]Please read the Code of Conduct and [u]Congress Regulation Act (L.R. 051)[/u] before posting here.[/url][/color][/i]
-[hr]To submit a bill to the House, please find an MP or Senator to sponsor the bill and then send it to the Speaker.[/b]
+[b][list][*]Leader of the Opposition: [nation]Vacant[/nation] ([color=Gray]N/A[/color])[/b]
+[list][*]Shadow Minister of Domestic Affairs: [nation]Vacant[/nation] ([b][color=Gray]N/A[/color][/b])
+[*]Shadow Minister of Foreign Affairs: [nation]Vacant[/nation] ([color=Gray]N/A[/color])
+[*]Shadow Minister of Culture: [nation]Vacant[/nation] ([color=Gray]N/A[/color])[/list][/list]
