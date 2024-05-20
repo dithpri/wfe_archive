@@ -12,7 +12,7 @@ It will still take some time to put back together, but thank you for sticking ar
 [tr][td]Person[/td][td]Role[/td][/tr]
 [tr][td][nation=long]Anamontalala[/nation][/td][td]Prime Minister, Founder[/td][/tr]
 [tr][td][nation=long]Yeetsralia[/nation][/td][td]Deputy Prime Minister, Main Writer for Region[/td][/tr]
-[tr][td]*currently no Delegate due to recent outage*[/td][td]WA Delegate[/td][/tr]
+[tr][td][nation=long]Ynnam[/nation][/td][td]WA Delegate[/td][/tr]
 [/table]
 
 [b]Founded[/b] - 13/10/22
