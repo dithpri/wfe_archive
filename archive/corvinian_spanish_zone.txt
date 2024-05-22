@@ -11,3 +11,6 @@ Main Regions:
 
 Regional Railroad:
 [region]Corvinian Archipelago Railway Services[/region]
+
+Official Archipelago Alliance:
+[region]United Archipelago Commission[/region]

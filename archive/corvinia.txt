@@ -19,3 +19,6 @@ Sister Regions:
 
 Official Archipelago Railroad:
 [region]Corvinian Archipelago Railway Services[/region]
+
+Official Archipelago Alliance:
+[region]United Archipelago Commission[/region]

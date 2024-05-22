@@ -4,7 +4,7 @@
 [list][*]Speaker of the House: [nation]Vacant[/nation] ([color=Gray]N/A[/color])[/b]
 [list][*]Deputy Speaker: [nation]Vacant[/nation] ([b][color=Gray]N/A[/color][/b])[/list][/list]
 
-[b][list][*]Prime Minister: [nation]Vacant[/nation] ([color=Gray]N/A[/color])[/b]
+[b][list][*]Prime Minister: [nation]Brototh[/nation] ([color=orange]NRP[/color])[/b] [i](Acting)[/i]
 [list][*]Minister of Domestic Affairs: [nation]Vacant[/nation] ([b][color=Gray]N/A[/color][/b])
 [*]Minister of Foreign Affairs: [nation]Vacant[/nation] ([color=Gray]N/A[/color])
 [*]Minister of Culture: [nation]Vacant[/nation] ([color=Gray]N/A[/color])[/list][/list]
