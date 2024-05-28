@@ -4,6 +4,7 @@ Vaccination against disease endemic in deployment areas is required for biologic
 Certified Operatives[list]
 [*][i]Bulk Response Unit A[/i] Rakeo Air Core 1-25 (71B)
 [*][i]Bulk Response Unit B[/i] Spode SEO Specialist 1-50 (281B)
-[*][i]Precision Response Unit[/i] Medical Robot 1-26[/list]
+[*][i]Precision Response Unit[/i] Medical Robot 1-26
+[*][i]Preventative Medicine Unit[/i] Curative Agent 1-128[/list]
 
 Contact [nation]Mechanocracy[/nation] for any questions or concerns regarding the operation of this organization.
