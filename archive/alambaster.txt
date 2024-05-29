@@ -4,18 +4,31 @@
 [color=red]THE REGION WAS NOT SOLELY ESTABLISHMENT TO COLLECT[/color] [spoiler=EMBASSIES]boo!!![/spoiler]
 UNDER NEW ADMINISTRATION WE EXPECT  CHANGE AND NEW POLICY
 [color=red]&amp;lt;&amp;gt;&amp;lt;&amp;gt;&amp;lt;&amp;gt;&amp;lt;&amp;gt;&amp;lt;&amp;gt;&amp;lt;&amp;gt;&amp;lt;&amp;gt;&amp;lt;&amp;gt;&amp;lt;&amp;gt;&amp;lt;&amp;gt;&amp;lt;&amp;gt;[/color]
+
 [color=yellow]VACANT POSITION[/color]
-[u]for  WA MEMBER[/u] 
-[b]PRESIDENT&amp;VICE[/b]
-[color=yellow]#successor
+
+[u]for  WA MEMBER[/u]
+ 
+[b]CHAIRMAN[/b]
+[color=green]#successor
 #appearance
 #communication
 #embassy
 #polls[/color]
-[b]SPEAKER[/b]
-[color=red]#successor
-#communication[/color]
 
-[u]NON WA MEMBER[/u]
+[b]THE SPEAKER[/b]
+[color=green]#successor
+#communications[/color]
+
+[b]SECRETARY GENERAL[/b]
+[color=red]
+#appearance
+#communication
+#embassy
+#polls[/color]
+
+
+[u] NON OR WA MEMBER[/u]
+
 [b]SENIOR MINISTER[/b]
 [color=blue]#polls[/color]
