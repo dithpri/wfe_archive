@@ -1,10 +1,3 @@
-[nation]Lancaster of Wessex[/nation] has ruled Wessex since the Norman Conquest.  A parliamentary democracy, Lancaster, The Duke of Wessex, acts as Head of State with veto.
-
-[nation]The Church of Wessex[/nation] is an Anglican non-independent enclave headed by The Most Rev&#39;d. Archbishop of Wessex.
-
-[nation]Saint Aldhelm Islands[/nation] is a group of islands in the Caribbean and is a semi-autonomous dependency, The Duke acting as Head of State.  The islands were &#39;discovered&#39; in the early 17th c.
-
-[nation]Celtic Wessex[/nation] is a sovereign state in full economic-political union with the House of Lancaster.
-
+[nation]Lancaster of Wessex[/nation] has ruled Wessex since the Norman Conquest.  A parliamentary democracy, Lancaster, The Duke of Wessex, acts as Head of State with veto power, which is rarely used.
 
 [nation=short]Macbeth[/nation], King of Scots, is a welcome guest.
