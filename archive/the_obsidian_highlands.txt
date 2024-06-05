@@ -11,5 +11,6 @@ Have fun!
 [nation=long+noflag]Ancientania[/nation], [color=violet]WA Delegate[/color]
 [nation=long+noflag]Carristan[/nation]
 [nation=long+noflag]South Dacia[/nation]
-
+[nation=long+noflag]Technostan[/nation]
+[nation=long+noflag]Immune system[/nation]
 [color=sapphire]Question Of The Week- Favorite thing to eat for breakfast?[/color]
