@@ -1,12 +1,10 @@
 Welcome, a hug from Brazil
  
-Linguagem local:
-Bom di=bom dia
-Boa noy=boa noite
-T bem=tudo bem
 
-Residente regionais
+Residentes regionais
 [nation]Paisandu[/nation]
 [nation]Pedra do sal[/nation]
 [nation]Manckenzie[/nation]
 [nation]Vila Isabel[/nation]
+[nation]Afogados[/nation]
+[nation]Canto do rio[/nation]
