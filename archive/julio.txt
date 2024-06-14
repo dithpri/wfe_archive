@@ -9,6 +9,8 @@ Residentes regionais
 [nation]Afogados[/nation]
 [nation]Canto do rio[/nation]
 [nation]Bonsucesso[/nation]
+[nation]Areal[/nation]
+[nation]Rio das flores[/nation]
 
 
                [b]Highlight of the region [/b]

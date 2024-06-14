@@ -13,8 +13,7 @@ UNDER NEW ADMINISTRATION WE EXPECT  CHANGE AND NEW POLICY
 [color=gold]#successor
 #appearance
 #communication
-#embassy
-#polls[/color]
+#embassy[/color]
 
 [u][b]THE SPEAKER[/b][/u]
 [color=silver]#successor
