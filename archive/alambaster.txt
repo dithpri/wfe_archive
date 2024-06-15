@@ -32,6 +32,8 @@ UNDER NEW ADMINISTRATION WE EXPECT  CHANGE AND NEW POLICY
 
 [u] NON OR WA MEMBER[/u]
 
-[u][b]SENIOR MINISTER[/b][/u]
+[u][b]REGIONAL MINISTER[/b][/u]
 [color=violet]#embassy
-#polls[/color]
+[/color]
+[u][b]EDUCATIONAL MINISTER[/u][/b]
+[color=scarlet]#polls[/color]
