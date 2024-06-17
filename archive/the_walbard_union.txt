@@ -7,8 +7,8 @@
 [hr][hr]
 
 [list][*]&amp;#128081; [b][color=red]Emperor[/color]:[/b] [nation]Emperor Carlisle I[/nation] of [nation]Walbard[/nation]
-[*]&amp;#128081; [color=purple][b]Empress[/b][/color]: [nation]Empress Adalyn[/nation] of [nation]Walbard[/nation]
-[*]&amp;#128081; [B] Crown Princess:[/B] [nation]Princess Elizabeth[/nation] of [nation]Walbard[/nation]
+[*]&amp;#128081; [color=purple][b]Empress[/b][/color]: [nation]Empress Adalyn[/nation] of the [nation]Queendom of Terrasen[/nation]
+[*]&amp;#128081; [B] Crown Prince:[/B] [nation]Prince Viktor[/nation] of [nation]Bossonia[/nation]
 [*]&amp;#127969; Ruling House: [nation=short]the house of windsor[/nation]
 [/list]
 
