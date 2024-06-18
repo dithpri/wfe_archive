@@ -1,11 +1,3 @@
-The true home of [region]Wind of Spirits[/region].
+The four winds once gathered at [region]Wind of Spirits[/region]... but no longer. That hallowed ground has been defiled. The winds fled and now wander aimlessly in exile...
 
-[i]The four winds converge in an ancient, hidden land. There, the air is calm. From this ancient realm the spirits of the winds were birthed, and there too will they one day die.[/i]
-
-[b]The true guardians of the winds were ousted as hostile forces seized the Wind of Spirits, hoping to harness the four winds for themselves. These accursed enemies positioned themselves against the very order of nature itself.[/b]
-
-[i]But nothing can last forever. Not the winds, and surely not a hostile takeover of their ancient home. The spirits have fled, but they will return one day.[/i]
-
-[b]The exile of the winds is to a cold place. There is no tranquility here. But it must do. The winds are patient.[/b]
-
-Actually a puppet region for [nation]Sensorland[/nation].
+Puppet storage for [nation]Sensorland[/nation].

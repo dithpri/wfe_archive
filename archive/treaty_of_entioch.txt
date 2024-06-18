@@ -13,4 +13,7 @@
 [region]The Federation of Utopias Unitum[/region]
 [region]The Region of Warsaw[/region]
 [region]Arconian Empire[/region]
+
+[b]EXTERNAL PARTNERS[/b]
+[region]Liberlandia[/region]
 [/color]
