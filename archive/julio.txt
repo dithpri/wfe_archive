@@ -1,7 +1,7 @@
-Welcome, a hug from Brazil
+&amp;#10052;&amp;#65039;Welcome, a hug from Brazil.  &amp;#10052;&amp;#65039;   
  
 
-Residentes regionais
+Residentes regionais&amp;#9968;&amp;#65039;
 [nation]Paisandu[/nation]
 [nation]Pedra do sal[/nation]
 [nation]Manckenzie[/nation]
@@ -11,7 +11,11 @@ Residentes regionais
 [nation]Bonsucesso[/nation]
 [nation]Areal[/nation]
 [nation]Rio das flores[/nation]
+[nation]Valensa city[/nation]
 
 
-               [b]Highlight of the region [/b]
-Em breve  
+      &amp;#10052;&amp;#65039;[b]Highlight of the region [/b]&amp;#10052;&amp;#65039;
+[b]The most scientific[/b]:
+1)[nation]Pedra do sal[/nation]&amp;#129351;
+2)[nation]Afogados[/nation]&amp;#129352;
+3)[nation]Paisandu[/nation]&amp;#129353;.    
