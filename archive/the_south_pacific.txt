@@ -22,10 +22,10 @@
 
 [hr] 
 
-[color=#019AED][b]World Assembly Recommendations:[/b][/color]
+[color=#019AED][b]WA Recommendations:[/b][/color]
 [list]
-[*] [b][color=#0068A0]General Assembly:[/color][/b] [url=page=dispatch/id=2521397][color=green][b]FOR[/b][/color][/url]
-[*] [b][color=#0068A0]Security Council:[/color][/b] [url=page=dispatch/id=2521592][color=green][b]FOR[/b][/color][/url]
+[*] [b][color=#0068A0]General Assembly:[/color][/b] [url=page=dispatch/id=2522755][b]FOR[/b][/url]
+[*] [b][color=#0068A0]Security Council:[/color][/b] [url=page=dispatch/id=2522911][color=red][b]AGAINST[/b][/color][/url]
 [/list]
 
 [hr]
