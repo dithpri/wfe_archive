@@ -14,7 +14,7 @@
 
 [hr][hr]
 
-Please endorse [nation]Walbard[/nation] as [b]WA Delegate[/b]
+Please endorse [nation=short]Walbard[/nation] as [b]WA Delegate[/b], and [nation=short]Queendom of Terrasen[/nation] as [b]Vice Delegate[/b]
 
 [hr][hr]
 
@@ -23,8 +23,6 @@ Please endorse [nation]Walbard[/nation] as [b]WA Delegate[/b]
 [*]&amp;#128077; Home of the Emperor, Empress, and their Family
 [*]&amp;#128077; Co-Founders of The G3 Summit of Regions
 [*]&amp;#128077; Founders of the International NS Conference
-[*]&amp;#128077; Imperialists, Libertarians, Defenders, Diplomats[/list]
+[*]&amp;#128077; Imperialists, Libertarians, Scholars, Diplomats[/list]
 
-[hr][hr]
-
-[b]Founding Member of The New Commonwealth[/b]
+[hr]
