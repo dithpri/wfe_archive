@@ -16,8 +16,9 @@ Currency: Krone
 Population: 76 Million
 
 National Animals: 
--National Mammal: Labrador Retriever
--National Bird: Raven
+-National Land Animal: Labrador Retriever
+-National Flying Animal: Raven
+-National Marine Animal: Orca
 
 National Plants:
 -National Tree: Maple Tree
