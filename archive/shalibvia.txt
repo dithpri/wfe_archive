@@ -14,6 +14,7 @@ Sister Region:
 [region]Corvinian Socialist Union[/region]
 [region]Corvinian Conlang Union[/region]
 [region]Corvinian Spanish Zone[/region]
+[region]Trinity Legion[/region]
 
 Official Archipelago Railroad:
 [region]Corvinian Archipelago Railway Services[/region]

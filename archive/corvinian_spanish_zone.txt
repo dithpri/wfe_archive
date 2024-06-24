@@ -9,6 +9,9 @@ Main Regions:
 [region]Corvinian Socialist Union[/region]
 [region]Corvinian Conlang Union[/region]
 
+Sister Regions:
+[region]Trinity Legion[/region]
+
 Regional Railroad:
 [region]Corvinian Archipelago Railway Services[/region]
 

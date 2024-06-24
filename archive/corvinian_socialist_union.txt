@@ -12,6 +12,7 @@ Main Regions:
 Sister Regions:
 [region]Corvinian Conlang Union[/region]
 [region]Corvinian Spanish Zone[/region]
+[region]Trinity Legion[/region]
 
 Archipelago Railroad:
 [region]Corvinian Archipelago Railway Services[/region]

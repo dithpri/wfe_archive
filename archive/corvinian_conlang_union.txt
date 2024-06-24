@@ -8,6 +8,7 @@ Main Regions:
 
 Sister Regions:
 [region]Corvinian Spanish Zone[/region]
+[region]Trinity Legion[/region]
 
 Official Archipelago Railroad:
 [region]Corvinian Archipelago Railway Services[/region]
