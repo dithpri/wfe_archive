@@ -7,5 +7,5 @@ The home of Aristophana. Encountered a Chimore in the wild? That&#39;s her! Belo
 [*][nation=long]South Chimore[/nation]:[list][*][region]Kantrias[/region] | [nation]Terra Inferiori Reliquere[/nation]&#39;s side piece[/list]
 [*][nation=long]Vendiagram[/nation]:[list][*][region]Alex[/region] | Cenclus Violence[/list][/list]
 [hr]
-[b][color=#a6a6b3]The Silver Dragon[/color][/b] [nation=long]East Chimore[/nation], Lair of the Dragon
-[b][color=#b23aee]Assassin[/color][/b] [nation=long]Central Chimore[/nation], Malice
+[b][color=#a6a6b3]The Silver Dragon[/color] [nation]East Chimore[/nation], Lair of the Dragon[/b]
+[b][color=#b23aee]Assassin[/color] [nation]Central Chimore[/nation], Malice[/b]
