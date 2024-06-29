@@ -1,17 +1,10 @@
-[b]Welcome to the Palace of [nation=short+noflag]Lennart[/nation].[/b]
+[i]In serving each other, we become free[/i]
 
-[hr]
+My main nations:
 
-Main Nations:
+[nation]Lennart[/nation]
+[nation]Avalon[/nation]
+[nation]Anglia[/nation]
+[nation]Alexandria[/nation]
 
-[b][nation=short]Avalon[/nation][/b] in [i][region]The North Pacific[/region][/i].
-
-[b][nation=short]Alexandria[/nation][/b] in [i][region]Kingdom of Alexandria[/region][/i].
-
-[b][nation=short]Free Canary Islands[/nation][/b] and [b][nation=short]Lennart[/nation][/b] in [i][region]Lennart[/region][/i]
-
-Oldest active account: [b][nation=short]Kasperiah[/nation][/b] (2007).
-
-My Regions:
-
-[region]Lennart[/region] and [region]The Isle of Avalon[/region]
+Without Strength, Wisdom and Honesty, there is no Peace.
