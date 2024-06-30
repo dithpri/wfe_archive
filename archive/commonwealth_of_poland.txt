@@ -4,13 +4,15 @@ A polish inspired region, with fair values and an exclusive newspaper
 
 &amp;#127984; Ruling House: Rz&amp;#261;d Rzeczypospolitej (Government of the Commonwealth) 
 
-&amp;#128081; Grandfather of the Region: HRH Northern Polish
+&amp;#128081; Grandfather of the Region: HRH [nation]Northern Polish[/nation]
 
 &amp;#128287; President:
 
-&amp;#127972; Top Minister:
+&amp;#129352;Deputy President:
 
-&amp;#128104;&amp;#8205;&amp;#9878;&amp;#65039; WA Delegate: Lumarus
+&amp;#127972; Top Minister: [nation]Krostovia[/nation]
+
+&amp;#128104;&amp;#8205;&amp;#9878;&amp;#65039; WA Delegate: [nation]Lumarus[/nation]
 
 &amp;#127930; Our National Anthem: Mazurek D&amp;#261;browskiego
 
@@ -20,10 +22,4 @@ Political Parties|Regional Security Partnership| The Constitution
 
 &#149; &quot;THE COMMONWEALTH TIMES&quot;
 Coming soon
---------------------------------------------------------------------
-Grandfather of the Commonwealth: HRH [nation]Northern Polish[/nation]
-WA Delegate:
-Son (Successor) of the Commonwealth:
-President:
-Deputy President:
-Top Minister:
+------------------------------------------------------------------

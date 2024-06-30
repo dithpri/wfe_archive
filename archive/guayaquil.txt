@@ -1,3 +1,1 @@
-[color=navy][b]Guayaquil[/b][/color]
-[color=darkgreen]Largest City in [region=Ecuador][/color]
-[color=olive]this is a [region=0000] region[/color]
+I learned from the WFE of [region]Ecuador[/region] that [region]Guayaquil[/region] is its largest city. Then I decided to check out the region and noticed it was nonexistent. Thanks Ecuador!

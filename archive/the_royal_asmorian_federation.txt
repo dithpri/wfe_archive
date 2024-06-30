@@ -1,4 +1,4 @@
-[b]This region is the Homeland of the Asmorians, Carnians and two allied States.[/b]
+[b]This region is the Homeland of the Asmorians and a few Allied States.[/b]
 
 Currently the Roleplay  &quot; Post- Carnian War &quot; is in affect. 
 
@@ -9,7 +9,9 @@ After the recent fall of the Asmorian Empire, along with a Kingdom being founded
 Allied Regions:
 [region]The Three Isles[/region]
 
-[region]Imperial Sanctuary[/region]
+[region]United Confederation of Planets[/region]
+
+[region]Treaty of Entioch[/region]
 
 [region]Imperial Government[/region]
 
