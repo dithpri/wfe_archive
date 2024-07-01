@@ -12,6 +12,3 @@ Allied Regions:
 [region]United Confederation of Planets[/region]
 
 [region]Treaty of Entioch[/region]
-
-[region]Imperial Government[/region]
-
