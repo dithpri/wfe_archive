@@ -6,12 +6,10 @@ My main nations:
 
 [nation]Avalon[/nation]
 [nation]Anglia[/nation]
-[nation]Alexandria[/nation]
 
 My main Regions:
 
 [region]Lennart[/region]
-[region]Anglia[/region]
 [region]Isle of Avalon[/region]
 
 
