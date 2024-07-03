@@ -7,8 +7,8 @@
 [u][color=maroon]Executive:[/color][/u][/b]
 President: [nation]Haclife[/nation]
 Vice President: [nation]Terhoon[/nation]
-Attorney General: [nation]TheRuhr[/nation]
-Secretary of State: VACANT
+Attorney General: [nation]Vawfiss[/nation]
+Secretary of State: [nation]TheRuhr[/nation]
 
 [color=grey][b][u]Senate:[/u][/b][/color]
 - [nation]Shenendoah[/nation]
