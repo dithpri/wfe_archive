@@ -21,10 +21,10 @@ Feel free to hang around TAA, or move to the main [region]ACA[/region] region.
 - Recruit Delegate 
 - Recruit Vice-Delegate
 - Recruit State Secretary &amp;#10004;
-- Recruit Diplomacy Secretary
+- Recruit Diplomacy Secretary &amp;#10004;
 - Recruit Homeland Secretary
-- Recruit Defence Secretary
-- Attach Security Liaison
+- Recruit Interior Secretary
+- Attach Defence Liaison
 - Frontier Transition
 
-[hr][region]ACA[/region] &#149; [region]The Azure Archipelago[/region] &#149; [region]ACA Puppet Storage[/region] &#149; [region]ACA Regional Archives[/region] &#149; [region]ACA Testing Grounds[/region]
+[hr][region]ACA[/region] &#149; [region]The Azure Archipelago[/region] &#149; [region]ACA Puppet Storage[/region] &#149; [region]ACA Regional Archives[/region] &#149; [region]ACA Testing Grounds[/region] &#149; [region]The Holler[/region]
