@@ -1,11 +1,10 @@
-The USTSN is a coalition of the many nations within the Saelluean North.
+The USTSN is a coalition of nations residing within the Saelluean North, being an alliance focused on economic, scientific and cultural growth.
 
-Even though the nations residing within the USTSN may come to blows with each other, they all have come to an agreement that ideologies such as Communism must, and will not, be allowed within the north.
-
-The main nations within the USTSN are:
+The region is heavily opposed to Communism, liberalism and democracy whilst being in favour with Fascism, Capitalism and Technocracy.
 
 [nation]North Hells Saellue[/nation], the father of the rest.
 [nation]Saelluean Natives[/nation], the overseer of the USTSN.
 [nation]The Saelluean Embassy[/nation], the diplomatic centre for the USTSN.
 [nation]The Vaknir Brigade[/nation], the spec-ops of the USTSN, regarded as fascist.
-[nation]The Free People Of Saellue[/nation], a terrorist nation within the USTSN, mostly wiped out.
+[nation]The Free People Of Saellue[/nation], used to be a terrorist nation, now a puppet under the Vaknir Brigade.
+[nation]The Terralith Artificial Intelligence[/nation], The AI that oversees the Saelluean capital and Saellue as a whole.
