@@ -1,17 +1,16 @@
-WELCOME TO [region]THE EMPIRE OF SWEDEN[/region].
-Officially [b][I]&quot;The Empire of The Swedes&quot;[/b][/I].
+WELCOME TO [region]THE EMPIRE OF SWEDEN[/region]
+Officially [b][I]&quot;The Empire of The Swedes&quot;[/b][/I]
 
-[B]Ruling House:[/b] [nation]House of Tudor[/nation].
-[B]Ruling Region:[/b] [region]The United Kingdom[/region].
+[B]Ruling House:[/b] [nation]House of Tudor[/nation]
 ________
 
-[b]Sovereign:[/b] [nation]King Carlisle I[/nation].
-[b]Consort:[/b] [nation]Queen Vittoria[/nation].
+[b]Sovereign:[/b] [nation]Emperor Carlisle I[/nation]
+[b]Consort:[/b] [nation]Empress Adalyn[/nation]
 ________
 
-[b]Capital:[/b] Stockholm.
-[b]Religion:[/b] Lutheranism.
+[b]Capital:[/b] Stockholm
+[b]Religion:[/b] Lutheranism
 ________
 
 [b]Personal Union:[/b]
-[region]The Danish Realm[/region], [region]The Kingdom of Norway[/region].
+[region]The Danish Realm[/region], [region]The Kingdom of Norway[/region]
