@@ -1,3 +1,2 @@
-Mitochondria are iconic structures in biochemistry and cell biology, traditionally referred to as the powerhouse of the cell due to a central role in energy production. However, modern-day mitochondria are recognized as key players in eukaryotic cell biology and are known to regulate crucial cellular processes, including calcium signalling, cell metabolism and cell death, to name a few.
-
-Mitochondria have a double membrane that defines four compartments: the outer membrane, the intermembrane space, the inner membrane and the matrix. The architecture of the inner membrane is malleable and typically convoluted into folded invaginations, called cristae, that dictate the spatial arrangement of proteins.
+Azide is a potent inhibitor of mitochondrial respiration that blocks cytochrome c oxidase (1) by binding between the heme a3 iron and CuB in the oxygen reduction site (2, 3). 
+Many other heme proteins and other metalloenzymes are inhibited by azide binding to their metal centers.
