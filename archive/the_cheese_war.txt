@@ -11,7 +11,6 @@ Anti-Cheese Alliance:
 [nation]Merethin[/nation]
 [nation]Torkeland[/nation]
 [nation]Lithuaia[/nation]
-[nation]RealTacoMan[/nation]
 [nation]Kreigsreich of Iron[/nation]
 
 Criminal Organizations:
@@ -20,7 +19,7 @@ Criminal Organizations:
 
 Neutral:
 [nation]Just let me grill[/nation]
-[nation]Avaritiarum[/nation]
+[nation]Iagndwos[/nation]
 
 [b]To join the war, read the instructions in [url=https://www.nationstates.net/page=dispatch/id=1999613]this dispatch[/url].[/b]
 
