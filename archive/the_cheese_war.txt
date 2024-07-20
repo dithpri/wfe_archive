@@ -11,7 +11,7 @@ Anti-Cheese Alliance:
 [nation]Merethin[/nation]
 [nation]Torkeland[/nation]
 [nation]Lithuaia[/nation]
-[nation]Kreigsreich of Iron[/nation]
+[nation]Ordensstaat Frankreich[/nation]
 
 Criminal Organizations:
 [nation]The Scorpia Organization[/nation]
