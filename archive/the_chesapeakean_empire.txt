@@ -5,6 +5,7 @@
 [region]Isle of Aphrodite[/region]
 [region]Britannia[/region]
 [region]Salem[/region]
+[region]The Democratic Republic[/region]
 
 [u]REGIONAL OFFICIALS:[/u]
 Emperor: His Most Gracious Imperial Majesty, Emperor Maximilian I of [region]New Chesapeake[/region]
