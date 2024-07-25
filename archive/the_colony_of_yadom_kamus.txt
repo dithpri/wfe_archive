@@ -18,3 +18,8 @@ The following nations are a threat to The Colony of Yadom Kamus. They are:
 -[nation]Dregs of the Earth[/nation]
 
 -[nation]Imperial Highmarch[/nation]
+
+
+Nations In [region]The Colony of Yadom Kamus[/region] That Have Ceased To Exist:
+
+-[nation]Argolida[/nation]
