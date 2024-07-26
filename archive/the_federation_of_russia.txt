@@ -1,14 +1,1 @@
-[b]Welcome to [color=maroon]the Federation of Russia[/color][/b]
-[hr]
-[b][u]Government of the Federation of Russia[/u]
-[color=maroon][u]President:[/u][/color] [nation]Sir Wolfsbane[/nation]
-[color=maroon]Vice President:[/color]
-
-[u]Federal Cabinet of Russia[/u]
-[color=red]Prime Minister:[/color]
-[color=yellow]Minister of Foreign Affairs:[/color]
-[color=aqua]Minister of Internal Affairs:[/color]
-[color=olive]Minister of Defense:[/color]
-[color=blue]Minister of Justice:[/color]
-[color=green]Minister for Regional Development:[/color]
-[color=lime]Minister of Culture:[/color][/b]
+La F&eacute;d&eacute;ration de Russie.
