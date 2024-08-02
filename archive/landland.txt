@@ -1,16 +1,1 @@
-[b]LAND[/b] This region = Land [region]The Brotherhood of Land[/region]
-[b]
-[color=red]This Land[/color] [color=orange]was a part[/color] [color=gold]of the[/color] [color=red]R/D for Land[/color=white] [color=blue]event in[/color] [color=#780089]June 2024![/color]
-[color=##FF0023]This hit[/color] [color=#0051FF2]helped[/color] [color=red]donate land[/color] [color=FF0023]to the[/color] [color=#0051FFLand Project![/color]
-
-Land:
-[color=#ff0000]The Vampire King[/color] [nation]ValtarreLand[/nation] (moral support)
-[color=#4a77ff]Battlemaster[/color] [nation]Land1000[/nation] (trigger)
-[color=#4a77ff]Battlemaster[/color] [nation]VolstroLandtia[/nation]
-[color=#ff559d]Integration Master[/color] [nation]The Land Gambler[/nation]
-[color=#b23aee]Assassin[/color] [nation]Central Land[/nation]
-[color=#b23aee]Assassin[/color] [nation]Ekk DorthatLand[/nation] 
-[color=#b23aee]Assassin[/color] [nation]Landefoni[/nation] (moral support)
-
-[u]With assistance from[/u]
-[color=#6100b7]Mage[/color] [nation]Nova VineLANDia[/nation], SPK[/b]
+Land

@@ -5,10 +5,10 @@
 [b]| [url=https://www.nationstates.net/page=dispatch/id=1937974]Regional Constitution[/url] | [url=https://www.nationstates.net/nation=tarkin/detail=factbook/id=1354216]Regional Map[/url] | [url=https://www.nationstates.net/nation=tarkin/detail=factbook/id=1354216]Physical Map[/url] | [url=https://www.maptoglobe.com/HkO0VTZao]Globe[/url]  | [url=https://www.nationstates.net/region=katzen]Katzen[/url] | [url=https://www.nationstates.net/region=Nerdfighteria]Nerdfighteria[/url] |
 
 [u][color=maroon]Executive:[/color][/u][/b]
-[b]President: [/b][nation]Haclife[/nation]
-[b]Vice President: [/b][nation]Terhoon[/nation]
-[b]Attorney General:[/b] VACANT
-[b]Secretary of State:[/b] VACANT
+President: [nation]Haclife[/nation]
+Vice President: [nation]Terhoon[/nation]
+Attorney General: [nation]Tuskegee[/nation]
+Secretary of State: [nation]TheRuhr[/nation]
 
 [color=grey][b][u]Senate:[/u][/b][/color]
 - [nation]Shenendoah[/nation]
@@ -18,9 +18,9 @@
 - [nation]Woplonga[/nation]
 
 [color=navy][b][u]Supreme Court:[/color][/b][/u]
-[b][i]Chief Justice:[/i][/b]  VACANT
-[b]Associate Justice:[/b] VACANT
-[b]Associate Justice:[/b] VACANT
+[i]Chief Justice:[/i] [nation]Manhassett[/nation]
+Associate Justice: [nation]Burkai[/nation]
+Associate Justice: [nation]Carinth[/nation]
 [color=maroon][b]________________________________________________________[/b][/color]
 [b]MAP |[/b] Consult the regional map for available claims.
 [b]ROLEPLAY | [/b]Tarkin is set in the [b]Interwar Period (1919-1941)[/b] for technology.
