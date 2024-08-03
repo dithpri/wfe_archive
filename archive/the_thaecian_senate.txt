@@ -1,12 +1,5 @@
-[b][u][colour=#0055B5]Welcome to the Senate, [url=https://www.nationstates.net/region=thaecia]Thaecia[/url]&#39;s upper house of Congress.[/colour][/u][/b]
-[url=https://www.nationstates.net/region=the house of commons]House of Commons (Lower House)[/url]
-[hr][b]Leadership:[/b]
-[list][*][b]Chairperson of the Senate: [nation]Vacant[/nation] ([colour=gray]N/A[/colour])[/b]
-[list][*][i]Senior Deputy Chairperson: [nation]Vacant[/nation] ([colour=gray]N/A[/colour])
-[*]Junior Deputy Chairperson: [nation]Vacant[/nation] ([colour=gray]N/A[/colour])[/i][/list]
+[b][colour=#0D5EAF]Welcome to the Senate, [region]Thaecia[/region]&#39;s voting region[/colour][/b]
+[hr]As per Article VIII (I) of Legislative Resolution 001 - Electoral Procedures Act (2024):
 
-[*][b]Shadow Chairperson of the Senate: [nation]Vacant[/nation] ([colour=gray]N/A[/colour])[/B]
-[list][*][i]Deputy Shadow Chairperson: [nation]Vacant[/nation] ([colour=gray]N/A[/colour])[/i][/list]
-
-[/list][hr][i][b][url=https://www.nationstates.net/page=dispatch/id=1441758#51][color=#ea2323]Only senators, or citizens when sponsored by a senator, may post in the chamber&#39;s Regional Message Board.[/url][/color][/i]
-[hr]To submit a bill to the Senate, please send it to the Chairperson.[/b]
+[i]&quot;Votes in elections for the President and House of Commons shall be made on The Thaecian Senate RMB. Votes cast in regional referenda shall be made by the regional polling function.&quot;[/i]
+[hr][b][colour=red]Please refrain from posting messages in the Senate&#39;s Regional Message Board other than to cast votes during elections.[/colour][/b]

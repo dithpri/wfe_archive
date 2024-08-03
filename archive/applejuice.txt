@@ -1,12 +1,12 @@
-&#147;Fine then, I&#146;ll do it myself&#148;
+[color=#a8da61]&#147;Fine then, I&#146;ll do it myself&#148;[/color]
 
-AppleJuice, the puppet/embassy storage of [b][region=OrangeJuice][/b].
+[color=#d00031]Apple[/color][color=#66cc33]Juice[/color], [color=#d00031]the puppet[/color]/[color=#66cc33]embassy storage of[/color] [b][url=/region=orangejuice][color=orange][u]Orange[/u][/color][color=darkorange][u]Juice[/u][/color][/url][/b].
 
-For embassy inquiries:
-- Send a request.
---- Denied?
------ Too bad.
---- Never accepted?
------ Send a telegram to [nation=Rust_Islands].
+[color=#009900]For embassy inquiries:[/color]
+[color=#a8da61]-[/color] [color=#f5416c]Send a request.[/color]
+[color=#ffc1d6]---[/color][color=#00cc00] Denied?[/color]
+[color=#a8da61]-----[/color][color=#f5416c] Too bad.[/color]
+[color=#ffc1d6]---[/color] [color=#00cc00]Never accepted?[/color]
+[color=#a8da61]-----[/color] [color=#f5416c]Send a telegram to [nation=short+noflag]Rust Islands[/nation].[/color]
 
 [quote=appelia;53469444]My favorite part was when AppleJuice said &quot;it&#146;s appling time&quot; and appled all over NationStates[/quote]
