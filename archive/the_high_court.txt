@@ -1,7 +1,7 @@
-[u][color=#2B5A9F][b]The High Court of [region]Thaecia[/region][/b][/color][/u]
+[color=#2B5A9F][b]The High Court of [region]Thaecia[/region][/b][/color]
 
 [color=#2B5A9F][b]Current Case: None[/b][/color] [i]None[/i]
 
-Chief Justice: [b][nation]Sma Cyrillic[/nation][/b]
-Snr Associate Justice: [nation]Brototh[/nation]
-Jnr Associate Justice: [nation]Snowflame[/nation]
+Chief Justice: [b]N/A[/b]
+Snr Associate Justice: [nation]Ashlawn[/nation]
+Jnr Associate Justice: [nation]Justizpalast[/nation]
