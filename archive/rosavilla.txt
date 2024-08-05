@@ -3,14 +3,11 @@
 [tr]
 [/tr]
 [tr]
-[td][i][color=FF5555][b] Est. July 28th, 2024 [/b]&amp;#10022; &quot;Rosa Mysteria Protegetur Ut Aurum&quot;[/i][/color][/td]
+[td][i][color=FF5555][b] Est. July 28th, 2024 [/b]&amp;#10022; &quot;Rosa Mysteria Protegetur Ut Aurum&quot;[/i] &amp;#10022; [i]A region dedicated to the exceptional, by the exceptional.[/i][/color][/td]
 [/tr]
 [/table]
 [table]
 [tr]
-[/tr]
-[tr]
-[td][color=FF5555][i]Rosavilla is a unique and vibrant community, embodying the spirit of a constitutional monarchy. It&#39;s a place where governance, fun, and creativity intertwine to create an engaging and dynamic environment for all its members.[/i][/color][/td]
 [/tr]
 [/table]
 [table]
@@ -27,12 +24,8 @@
 [tr]
 [/tr]
 [tr]
-[td][color=FF5555][b]&amp;#127801; [u]Regional Tasks[/u] &amp;#127801;[/b][/color][/td]
-[/tr][/table][color=FF5555][list][*]Please ensure to join the [url=https://www.nationstates.net/page=un][b]World Assembly[/b][/url] to gain citizenship.[/list][/color][table]
-[tr]
-[/tr]
-[tr]
 [td][color=FF5555][b]&amp;#127801; [u]Announcements[/u] &amp;#127801;[/b][/color][/td]
-[/tr][/table]
-[color=FF5555][list][*]Welcome new members! Request a spot in the regional map![/list][/color]
-
+[/tr][/table][color=FF5555][list][*][u]Please ensure[/u] to join the [url=https://www.nationstates.net/page=un][b]World Assembly[/b][/url] to gain citizenship.
+[*][u]Only[/u] [b]WA members[/b] will be allowed to vote/run for office in our upcoming elections.  
+[*][b][i]Welcome[/i][/b] to our new members: [nation]Restir[/nation], [nation]Dehlk[/nation], [nation]Diamantino[/nation], and [nation]Apachio[/nation]!
+[/list][/color]
