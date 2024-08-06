@@ -14,7 +14,7 @@ A polish inspired region, with fair values and an exclusive newspaper
 
 &amp;#129352;Deputy President: [nation]Krostovia[/nation]
 
-&amp;#127972; Prime Minister:
+&amp;#127972; Prime Minister: [nation]Bytonic[/nation]
 
 &amp;#128104;&amp;#8205;&amp;#9878;&amp;#65039; WA Delegate: [nation]Thayris[/nation]
 
@@ -23,9 +23,9 @@ A polish inspired region, with fair values and an exclusive newspaper
 [spoiler=Our Ministers&#133;][b][u]Our Government Ministers
 [/u][/b]
 Minster for Communications:
-Minster of the People:
+Minster of the People: [nation]Friendly Pacifician Poles[/nation]
 Minister of Security:
-Minister of Defence and Conflict: [nation]Bytonic[/nation]
+Minister of Defence and Conflict:
 Minister for Foreign Affairs: [nation]Ter Papia[/nation]
 [/spoiler]
 &amp;#127930; Our National Anthem: Mazurek D&amp;#261;browskiego
