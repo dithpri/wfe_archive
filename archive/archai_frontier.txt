@@ -1,29 +1,21 @@
-It&#39;s your favourite [color=hotpink]anime idols[/color] from [region]The Black Hawks[/region] and [region]Sparkalia[/region]! 
+&amp;gt;User %NATION% registered...
+&amp;gt;Run
+alert.(&quot;Welcome to Archai!&quot;); // display string message...
 
-[color=Lightseagreen]We&#39;ve come to reccomend you anime for pride month![/color] 
+open.(&quot;Intro_Dispatch&quot;)
 
-[table][tr][td=3]Top Anime for Spring 2024[/td][/tr]
-[tr][td][color=Goldenrod]First Place![/color][/td][td][color=silver]Second Place![/color][/td][td][color=Steelblue]Raid Anisong![/color][/td][/tr]
-[tr][td][url=https://myanimelist.net/anime/55102/Girls_Band_Cry]Girls Band Cry[/url]
-[/td][td][url=https://myanimelist.net/anime/54839/Yoru_no_Kurage_wa_Oyogenai]Jellyfish Doesn&#39;t Swim at Night[/url]
-[/td][td][url=https://www.youtube.com/watch?v=WrWga0k-fzE&amp;list=PL0o9aWyhb7ocxwDBYhzukikXmlB7SwXgm&amp;index=5]Nameless Name[/url] by TogeToge[/td][/tr]
-[/table]
+W&amp;#821;e&amp;#821;l&amp;#824;c&amp;#823;o&amp;#820;m&amp;#821;e&amp;#820; t&amp;#820;o&amp;#823; A&amp;#823;r&amp;#823;c&amp;#821;ha&amp;#821;i&amp;#821;!&amp;#823;
+---SAFETY NOT GUARANTEED IN 90.3% OF SYSTEMS---
 
-GBC really takes the top spot for being a full 3D anime, perfect for animating live bands. Yagoo approved too!
+&amp;gt;Running Decoder...
+&amp;gt;Opening File...
 
-[color=red]This raid[/color] [color=orange]was a part[/color] [color=gold]of the[/color] [color=green]R/D for Pride[/color] [color=blue]event in[/color] [color=#780089]June 2024![/color]
-[color=#58c8f2]This hit[/color] [color=#eda4b2]helped[/color] [color=lightgrey]donate money[/color] [color=#eda4b2]to the[/color] [color=#58c8f2]Trevor Project![/color]
+Welcome to Archai!
+Archa Inc. is not responsible for E&amp;#820;&amp;#850;&amp;#861;&amp;#770;&amp;#783;&amp;#806;&amp;#808;&amp;#841;&amp;#805;R&amp;#823;&amp;#780;&amp;#849;&amp;#836;&amp;#787;&amp;#778;&amp;#795;&amp;#828;&amp;#796;&amp;#791;&amp;#853;&amp;#825;&amp;#841;&amp;#804;R&amp;#821;&amp;#861;&amp;#808;&amp;#812;O&amp;#824;&amp;#783;&amp;#851;&amp;#802;&amp;#803;&amp;#839;&amp;#860;&amp;#797;R&amp;#821;&amp;#772;&amp;#857;&amp;#851;&amp;#841;&amp;#807;&amp;#793; when in E&amp;#820;&amp;#850;&amp;#861;&amp;#770;&amp;#783;&amp;#806;&amp;#808;&amp;#841;&amp;#805;R&amp;#823;&amp;#780;&amp;#849;&amp;#836;&amp;#787;&amp;#778;&amp;#795;&amp;#828;&amp;#796;&amp;#791;&amp;#853;&amp;#825;&amp;#841;&amp;#804;R&amp;#821;&amp;#861;&amp;#808;&amp;#812;O&amp;#824;&amp;#783;&amp;#851;&amp;#802;&amp;#803;&amp;#839;&amp;#860;&amp;#797;R&amp;#821;&amp;#772;&amp;#857;&amp;#851;&amp;#841;&amp;#807;&amp;#793;.
+When in Archai, you can:
+&amp;gt;Join the Government
+&amp;gt;Fight for your L&amp;#823;&amp;#842;&amp;#853;i&amp;#821;&amp;#777;&amp;#839;f&amp;#822;&amp;#787;&amp;#854;e&amp;#820;&amp;#783;&amp;#854; (RP)
+&amp;gt;Talk to e&amp;#823;&amp;#778;&amp;#799;n&amp;#820;&amp;#771;&amp;#801;t&amp;#822;&amp;#785;&amp;#857;i&amp;#822;&amp;#784;&amp;#815;t&amp;#822;&amp;#830;&amp;#806;i&amp;#821;&amp;#842;&amp;#841;e&amp;#824;&amp;#838;&amp;#797;s&amp;#821;&amp;#784;&amp;#827;
 
-If you would like to watch anime together, [url=https://discord.gg/YudSM5B8]Come join us![/url]
-
-[u]Anime Hawks[/u]
-[color=#A500FF]COL[/color] [nation]Lucklife[/nation] (trigger)
-[color=orange]LTN[/color] [nation]Dyanderna[/nation]
-[color=#F7E0FD]SGT[/color][nation]Holoratus[/nation]
-[color=#0ff54a]PFC[/color] [nation]Emul[/nation]
-[color=#0ff54a]PFC[/color] [nation]Klarken[/nation]
-[color=#0ff54a]PFC[/color] [nation]Hell on Mars[/nation]
-[color=green]PVT[/color] [nation]Lep Viponie[/nation]
-
-[u]Fren[/u]
-[color=#6100b7]Mage[/color] [nation]Angeloid Astraea[/nation], Sparkling Army
+-ERROR-
+Ending Transmission...
