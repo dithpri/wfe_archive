@@ -1,6 +1,6 @@
 Puppetmaster: [nation]The Ankhalic Vaspriot[/nation]
 
-Primary puppets: [nation]Azure Mines[/nation], [nation]Schpaebleheim[/nation]
+Primary puppet and dedicated WA nation: [nation]Azure Mines[/nation]
 
 Socialist utopia stat puppets: [nation]Morganta[/nation], [nation]Maxiel[/nation], [nation]Mazavon[/nation], [nation]Tabbathina[/nation], [nation]Taboire[/nation], [nation]Casperb[/nation], [nation]Xandari[/nation], [nation]Ljigdombyj[/nation]
 
