@@ -19,6 +19,7 @@
   |[nation]Democratic Socialist Republic of Penntuk[/nation]|  
   |[nation]Unified States of Moskow[/nation]|  
   |[nation]Nyemgar[/nation]|  
+  |[nation]Martells[/nation]|  
 
 [b]|-| Organizations |-|[/b]
   |[nation]The Ordosyndicalism Movement[/nation]|  
