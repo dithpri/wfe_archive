@@ -2,7 +2,6 @@ Center Right to Right wing Presidential Republic
 
 Main political party :
 Identity and Democracy party
-
 [b]Head of State [/b]
 President : [nation]upper Blussiaordia[/nation]
 
@@ -11,3 +10,6 @@ Chief of State : [nation]upper Blussiaordia[/nation]
 
 [b]Deputy Head of Government[/b]  
 Minister for General Affairs : [nation]Rephourrianiams[/nation]
+
+[b]Minister foreign affairs [/b]  
+Minister foreign affairs: [nation]Lakara[/nation]
