@@ -6,8 +6,13 @@
 [region]Britannia[/region]
 [region]Salem[/region]
 [region]The Democratic Republic[/region]
+[region]Britannia Prima[/region]
+[region]Roma Invicta[/region]
+
 
 [u]REGIONAL OFFICIALS:[/u]
 Emperor: His Most Gracious Imperial Majesty, Emperor Maximilian I of [region]New Chesapeake[/region]
-Prime Minister: The Right Honourable Augustus Cavellaria
-Chancellor of The [region]Isle of Aphrodite[/region]: Her Most Gracious Imperial Majesty, Andreja Cavellaria, Empress Consort[/b]
+Prime Minister: The Right Honourable Phoenix Vrosek
+
+Home of [region]Imperial Chesapeakean Navy[/region] 
+NationStates&#39; Premier Imperialist Defender Power[/b]
