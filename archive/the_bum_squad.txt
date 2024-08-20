@@ -5,7 +5,7 @@
 Chief of General Staff: [nation]Muffs[/nation]
 Commander-Of-The-Bums: [nation]Zehe[/nation]
 -----------------------------------------
-[u]The Squad Leaders:[/u]
+[u]Squad Leaders of the Gendarmerie:[/u]
 Platoon 1 Commander: [nation]Zehe[/nation]
 Platoon 2 Commander: [nation]ChinaButBetter[/nation]
 Platoon 3 Commander: [nation]Bibya2[/nation]
@@ -13,8 +13,8 @@ Platoon 4 Commander: [nation]Carloo[/nation]
 --------------------------------------
 
 [i]Notable Nations:[/i]
-Rising Bum-star: [nation]Bibya[/nation]
-Bum Of All Time [BOAT]: [nation]NotParody[/nation]
+Rising Bum-star: [nation]NotParody[/nation]
+Bum Of All Time [BOAT]: [nation]HKRbum[/nation]
 
 
 ---------------------------
