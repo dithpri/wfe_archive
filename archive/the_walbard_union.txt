@@ -4,8 +4,8 @@
 [hr][hr]
 
 [list][*]&amp;#128081; [b][color=red]Emperor[/color]:[/b] [nation]HIRM Emperor Carlisle I[/nation] of [nation]Walbard[/nation]
-[*]&amp;#128081; [color=purple][b]Empress[/b][/color]: [nation]HIRM Empress Katherine[/nation] of the [nation]Notrina[/nation]
-[*]&amp;#128081; [B] Crown Prince[/B]: Vacant
+[*]&amp;#128081; [color=purple][b]Empress[/b][/color]: [nation]HIRM Empress Katherine[/nation] of [nation]Notrina[/nation]
+[*]&amp;#128081; [B] Crown Prince[/B]: [nation]Prince Jaktoko[/nation] of [nation]Jaktokington[/nation]
 [*]&amp;#127969; [b]Ruling House[/B]: [nation=short]House of Tudor[/nation]
 [/list]
 

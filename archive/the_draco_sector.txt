@@ -2,7 +2,7 @@
 [b][i]|-| Current Galactic Year[/i] : [u]2225[/u] |-|[/b]
 
 [b]|-| Current Planetary Roster |-|[/b]
-  |[nation]Crimsica[/nation]|-|MOON:[nation]Idaks[/nation]|  
+  |[nation]Crimsica[/nation]|
   |[nation]Estanu[/nation]|  
   |[nation]Fori Prime[/nation]|  
   |[nation]Hellmire[/nation]|  
@@ -14,13 +14,13 @@
   |[nation]Atrox[/nation]|  
   |[nation]Gacrux I[/nation]|  
 
+[b]|-| Current Lunar Roster |-|[/b]
+  |[nation]Idaks[/nation]|-|Moon of : [nation]Crimsica[/nation]|  
+  |[nation]Nyemgar[/nation]|-|Moon of : Nobody|  
+ 
 [b]|-| Accepted Primitive Civilizations |-|[/b]
   |[nation]Amiarce[/nation]|  
   |[nation]Democratic Socialist Republic of Penntuk[/nation]|  
   |[nation]Unified States of Moskow[/nation]|  
-  |[nation]Nyemgar[/nation]|  
   |[nation]Martells[/nation]|  
   |[nation]Terraa nova[/nation]|  
-
-[b]|-| Organizations |-|[/b]
-  |[nation]The Ordosyndicalism Movement[/nation]|  

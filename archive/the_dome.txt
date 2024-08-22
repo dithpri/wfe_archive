@@ -1,17 +1,1 @@
-The Parties:
-[color=gray]CEN[/color]     130 seats
-[color=green]CON[/color]     264 seats
-[color=dandelion]LBTN[/color]     190 seats
-[color=orange]LIB[/color]     162 seats
-[color=red]STAT[/color]     77 seats
-[color=black]ANTF[/color]     71 seats
-[color=brown]NWU[/color]     65 seats
-[color=blue]JWP[/color]     22 seats
-[color=maroon]NAT[/color]     9 seats
-[color=lightgray]WID[/color]     10 seats
-
-Coalitions:
-[color=gray]CEN[/color] 13%:  [color=gray]CEN[/color]
-[color=black]PRO[/color] 28.3%:  [color=green]CON[/color], [color=maroon]NAT[/color], [color=lightgray]WID[/color]
-[color=dandelion]LBTN[/color] 19%: [color=dandelion]LBTN[/color]
-[color=orange]LIB[/color] 40.5%: [color=orange]LIB[/color], [color=red]STAT[/color], [color=black]ANTF[/color], [color=brown]NWU[/color], [color=blue]JPP[/color]
+A collection of nations situated within a gargantuan dome. 
