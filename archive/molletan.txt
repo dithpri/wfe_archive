@@ -1,9 +1,6 @@
-[b][color=cyan]Welcome to the region of[/color][color=red] Mollet[/color][/b]
+Welcome to Molletan.
 
-You can do whatever you want (as long as you don&#39;t break site rules).
-
-Succession:
-Governor
-Succesor
-WA Delegate (voted through endorsements, and can be appointed as Succesor by Governor)
-Vice Delegate (appointed by WA Delegate)
+This region runs on a semi-presidential system in which the people choose the WA delegate, while the Delegate chooses the President.
+Terms (1 term each):
+President: 1 year
+Delegate: 6 months

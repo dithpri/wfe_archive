@@ -5,4 +5,4 @@ A defender organization.
 
 Current orders: none
 
-DEFCON: [color=green]5[/color]
+DEFCON: [color=blue]4[/color]
