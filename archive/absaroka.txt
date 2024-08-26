@@ -10,10 +10,5 @@ ________________________________________________________________________________
 Capital: [b]Sheridan[/b]
 Timezone: [b]Mountain[/b]
 Neighbors: [b][region]Wyoming[/region], [region]South Dakota[/region], [region]Montana[/region], and [region]Nebraska[/region][/b]
-Founder: [b][nation]Sheridan State[/nation][/b]
+Original Founder: [b][nation]Sheridan State[/nation][/b]
 
-This is a [region]United States of America[/region] region
-
-[b][color=red] EMBASSIES WELCOME[/color][/b]
-
-[color=darkred]Please do not recruit here[/color]

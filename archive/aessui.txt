@@ -2,16 +2,8 @@ Stat-specific, manually operated nations of [nation]The Ankhalic Vaspriot[/natio
 
 Puppetmaster: [nation]The Ankhalic Vaspriot[/nation]
 
-Primary puppet and dedicated WA nation: [nation]Azure Mines[/nation]
+Primary puppets: [nation]Azure Mines[/nation], [nation]Schpaebleheim[/nation]
 
-Socialist utopia stat puppets: [nation]Morganta[/nation], [nation]Maxiel[/nation], [nation]Mazavon[/nation], [nation]Tabbathina[/nation], [nation]Taboire[/nation], [nation]Casperb[/nation], [nation]Xandari[/nation], [nation]Ljigdombyj[/nation], [nation]Eomburgeis[/nation]
-
-Capitalist hellhole stat puppets: [nation]Miapollis[/nation], [nation]Stremsilvear[/nation], [nation]South Sievenot Island[/nation], [nation]Yelhai[/nation], [nation]Bajlsteur[/nation], [nation]Aratallier[/nation]
-
-1984 stat puppet: [nation]Schpaebleheim[/nation]
-
-Theocratic stat puppet: [nation]Bingomburgeis[/nation]
-
-Anarchy stat puppet: [nation]Zhdvringkardzhe[/nation]
+Element collection stored in [nation]Azure Mines[/nation]. Art collection stored in [nation]Schpaebleheim[/nation].
 
 Stat-nonspecific, gotIssues operated nations: [region]TAV Auxiliary Puppets[/region]
