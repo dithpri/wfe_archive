@@ -7,6 +7,6 @@ Officially the [b][i]Commonwealth of Australia and New Zealand[/i][/b]
 
 [hr][hr]
 
-[b]Emperor:[/b] [nation=short]Emperor Carlisle I[/nation]
-[b]Empress:[/b] [nation]Empress Adalyn[/nation]
+[b]Emperor:[/b] [nation=short]HIRM Emperor Carlisle I[/nation]
+[b]Empress:[/b] [nation]HIRM Empress Katherine[/nation]
 Royal Household: [nation]House of Tudor[/nation]
