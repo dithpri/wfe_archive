@@ -1,20 +1,20 @@
 2024 Drivers
 
-277 Verstappen [nation]R e d B u l l[/nation] 7 Wins, 9 Pod
-199 Norris [nation]M c L a r e n[/nation] 1 Win, 8 Pod
-177 Leclerc [nation]F e r r a r i[/nation] 1 win, 6 Pod
-167 Piastri [nation]M c L a r e n[/nation] 1 Win, 4 Pod
-162 Sainz [nation]F e r r a r i[/nation] 1 Win, 5 Pod
-150 Hamilton [nation]M e r c e d e s[/nation] 2 Win 4 Pod
-131 Perez [nation]R e d B u l l[/nation] 4 Pod
-116 Russell [nation]M e r c e d e s[/nation] 1 Win 2 Pod
-049 Alonso [nation]A s t o n M a r t i n[/nation]
+295 Verstappen [nation]R e d B u l l[/nation] 7 Wins, 10 Pod
+225 Norris [nation]M c L a r e n[/nation] 2 Win, 9 Pod
+192 Leclerc [nation]F e r r a r i[/nation] 1 win, 7 Pod
+179 Piastri [nation]M c L a r e n[/nation] 1 Win, 4 Pod
+172 Sainz [nation]F e r r a r i[/nation] 1 Win, 5 Pod
+154 Hamilton [nation]M e r c e d e s[/nation] 2 Win 4 Pod
+139 Perez [nation]R e d B u l l[/nation] 4 Pod
+122 Russell [nation]M e r c e d e s[/nation] 1 Win 2 Pod
+050 Alonso [nation]A s t o n M a r t i n[/nation]
 024 Stroll [nation]A s t o n M a r t i n[/nation]
 022 H&uuml;lkenberg [nation]H a a s[/nation]
 022 Tsunoda [nation]V i s a C a s h A p p R B[/nation]
 012 Ricciardo [nation]V i s a C a s h A p p R B[/nation]
+008 Gasly [nation]A l p i n e[/nation]
 006 Beraman [nation]F e r r a r i[/nation]
-006 Gasly [nation]A l p i n e[/nation]
 005 Magnussen [nation]H a a s[/nation]
 005 Ocon [nation]A l p i n e[/nation]
 004 Albon [nation]W i l l i a m s[/nation]
