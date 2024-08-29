@@ -1,11 +1,7 @@
 [b][color=darkgreen][u]Government[/u][/color]
-[color=darkblue]Supreme Overseer:[/color] The highest-ranking official, responsible for overall governance and strategic direction. Supreme Overseer -- ____
-[color=darkblue]Grand Chancellor:[/color] Manages day-to-day administration and policy implementation. Grand Chancellor -- ___
-[color=darkblue]High Administrator:[/color] Oversees administrative functions and public services. High Administrator -- ____
-
-[color=darkgreen][u]Military[/u][/color]
-[color=darkred]SMU:[/color] &amp;#9608;&amp;#9608;&amp;#9608; Foundation SVA Hazmat SVA Gun Force 
-[color=lightblue]AMU:[/color] SVA Air Raiders SVA Viper Patrol SVA Raptor Flight
+[color=darkblue]Supreme Overseer:[/color] The highest-ranking official, responsible for overall governance and strategic direction. Supreme Overseer -- [nation]Pootisman2[/nation]
+[color=darkblue]Grand Chancellor:[/color] Manages day-to-day administration and policy implementation. Grand Chancellor -- [nation]Discord Moderator[/nation]
+[color=darkblue]High Administrator:[/color] Oversees administrative functions and public services. High Administrator -- [nation]pook3[/nation]
 
 [color=blue]News - [/color][u]https://sites.google.com/view/sva-socitey-newspaper/home?authuser=0[/u]
 [color=blue]Website - [/color][u]https://sites.google.com/view/sva-society-website/home[/u][/b]
