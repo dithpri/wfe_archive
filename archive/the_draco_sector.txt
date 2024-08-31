@@ -2,7 +2,7 @@
 [b][i]|-| Current Galactic Year[/i] : [u]2226[/u] |-|[/b]
 
 [b]|-| Current Planetary Roster |-|[/b]
-  |[nation]Crimsica[/nation]|
+  |[nation]Crimsica[/nation], [region]The Crimsican Colonial Empire[/region]|
   |[nation]Estanu[/nation]|  
   |[nation]Fori Prime[/nation]|  
   |[nation]Hellmire[/nation]|  
@@ -10,9 +10,7 @@
   |[nation]Navi VII[/nation]|  
   |[nation]Gatria[/nation]|  
   |[nation]Omicron I[/nation]|
-  |[nation]Acamar IV[/nation]|  
-  |[nation]Atrox[/nation]|  
-  |[nation]Gacrux I[/nation]|  
+  |[nation]Atrox[/nation]|
 
 [b]|-| Current Lunar Roster |-|[/b]
   |[nation]Idaks[/nation]|-|Moon of : [nation]Crimsica[/nation]|  
