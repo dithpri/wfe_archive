@@ -4,6 +4,6 @@ Puppetmaster: [nation]The Ankhalic Vaspriot[/nation]
 
 Primary puppets: [nation]Azure Mines[/nation], [nation]Schpaebleheim[/nation]
 
-Element collection stored in [nation]Azure Mines[/nation]. Art collection stored in [nation]Schpaebleheim[/nation].
+Element collection stored in [nation]Azure Mines[/nation]. Art and vexillology collections stored in [nation]Schpaebleheim[/nation].
 
 Stat-nonspecific, gotIssues operated nations: [region]TAV Auxiliary Puppets[/region]
