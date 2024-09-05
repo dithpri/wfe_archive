@@ -1,1 +1,3 @@
-Region
+[Color=blue]Welcome to [/color][color=red][b][u]Anchors Aweigh![/color][/b][/u] [color=blue]When you see us, you should start running away![/color]
+
+Cool region! No joke.
