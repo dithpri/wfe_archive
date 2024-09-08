@@ -13,4 +13,4 @@ TKC &quot;Delegate&quot; recommendation:
 GA: [color=green][b]FOR[/b][/color]
 SC: [color=red][b]AGAINST[/b][/color] 
 
-[b]Embassy requests WILL be rejected[/b]
+[b]Embassy requests WILL be rejected.[/b]
