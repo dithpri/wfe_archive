@@ -5,4 +5,4 @@
 [*]You&#39;re encouraged to join, tell your friends!
 [*]I don&#39;t know!!! BARK OR SOMETHING!![/list]
 [hr]
-&amp;lt;A table will be added here for links and stuff&amp;gt;
+[table][tr][td]Test1[/td][td]Test2[/td][td]I looove tables[/td][/tr][/table]
