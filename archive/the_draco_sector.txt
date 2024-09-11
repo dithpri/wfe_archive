@@ -1,5 +1,5 @@
 [b][i]&quot;The Axe forgets, but the Tree remembers.&quot;[/i][/b]
-[b][i]|-| Current Galactic Year[/i] : [u]2227[/u] |-|[/b]
+[b][i]|-| Current Galactic Year[/i] : [u]2228[/u] |-|[/b]
 [b][i]|-| Rival[/i] : [u][region]The Partion Conference[/region], [nation]Eusan[/nation][/u] |-|[/b]
 
 [b]|-| Current Planetary Roster |-|[/b]
@@ -15,10 +15,10 @@
 
 [b]|-| Current Lunar Roster |-|[/b]
   |[nation]Idaks[/nation]|-|Moon of : [nation]Crimsica[/nation]|  
-  |[nation]Nyemgar[/nation]|-|Moon of : Nobody|  
  
 [b]|-| Accepted Primitive Civilizations |-|[/b]
   |[nation]Amiarce[/nation]|  
   |[nation]Unified States of Moskow[/nation]|  
   |[nation]Martells[/nation]|  
   |[nation]Terraa nova[/nation]|  
+  |[nation]Nyemgar[/nation]|

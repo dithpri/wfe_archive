@@ -1,11 +1,7 @@
-[b]Welcome to the UK Commonwealth[/b]
-Home to the Commonwealth of Nations;[hr][hr]~ [region]The United Kingdom[/region]
-~ [region]The Walbard Union[/region]
-~ [region]The Kalmar Union[/region]
-~ [region]The Kingdom of Canada[/region]
-~ [region]The Kingdom of Australia and New Zealand[/region]
+[b][color=red]= = = SENATVS POPVLVS QVE ROMANVS = = =[/b][/color]
 
-[hr][hr][b]HIRM the Emperor:[/b] [nation]Emperor Carlisle I[/nation]
-HIRM the Empress: [nation]Empress Adalyn[/nation]
-[b]HIRH the Prince of Wales:[/b] [nation]Prince Viktor[/nation]
-Ruling House: [nation]House of Tudor[/nation]
+This is a province of Space Rome representing the United Kingdom with Ireland and the Isle of Man.
+
+liberated from the dying empire of [nation]Walbard[/nation]
+
+[b][color=purple]With Excalibur and the Crown, Roman Emperor Marius Constantine Caesar crowned himself Harold III King of Walbard and Emperor of the UK Commonwealth[/b][/color]

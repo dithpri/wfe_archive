@@ -1,1 +1,79 @@
-its sigma
+[floatright][box][center][b]The PRETITLE of NATION[/b]
+[hr]
+
+INSERT FLAG HERE
+[b]Flag[/b]
+[hr]
+
+[b]Motto: [/b]
+[hr]
+
+NSERT SMALL MAP OR ORTHOGRAPHIC
+[b]Location[/b]
+[hr][/center]
+
+[b]Population:[/b]
+[b]-Density:[/b]
+[hr]
+
+[b]Capital:[/b]
+[b]Largest City:[/b]
+[hr]
+
+[b]Official Language:[/b]
+[hr]
+[b]National Language:[/b]
+[hr]
+[b]Demonym:[/b]
+[hr]
+
+[b]Government:[/b]
+- President:
+- Vice President:
+- Speaker of the House:
+- Chief Justice:
+[hr]
+
+[b]Legislature[/b]:
+- Upper House:
+-Lower House:
+[hr]
+
+[b]Establishment:[/b] from (INSERT OTHER NATION)
+Independence: INSERT FOUNDING DATE
+[hr]
+
+[b]Land Area:[/b] mile&sup2;
+                          km&sup2;
+Water Area: km&sup2;
+Water %:
+[hr]
+
+
+[b]Elevation[/b]
+Highest Point:
+Lowest Point:
+[hr]
+
+[b]GDP (nominal):[/b]
+[b]GDP (nominal) per capita:[/b]
+[hr]
+
+[b]Human Development Index (NS Version):[/b]
+[hr]
+
+[b]Currency:[/b]
+[hr]
+
+[b]Time Zone:[/b]
+[hr]
+
+[b]Drives on the:[/b]
+[hr]
+
+[b]Calling code:[/b]
+[hr]
+
+[b]Internet TLD:[/b]
+
+[/box][/floatright]

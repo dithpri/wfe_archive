@@ -1,21 +1,11 @@
-[u][b]This is things for the Countries like Population, Capital, and 5 largest cities[/b][/u]
+[u][b]Info on the Region[/b][/u]
 
-[b]Weakley[/b]
-[i]Population:[/i] 7 Million People
-[i]Capital:[/i] Dresden (Population: 3,981)
-[i]5 Largest Cities:[/i] Jacksonville, Charlotte, Nashville, Louisville, Memphis
+[I]Regional Population:[/i] 67,000,000
 
-[b]Dyersburg[/b]
-[i]Population:[/i] 6 Million
-[i]Capital:[/i] Indianapolis (Population:880,621)
-[i]5 Largest Cities:[/i] Chicago, Columbus, Indianapolis, Detroit, Milwaukee
+[i]Capital:[/i] not chosen yet (Temporarily Baton Rouge in Weakley)
 
-[b]Glowstow[/b]
-[i]Population:[/i] 5 Million
-[i]Capital:[/i] Boston (Population: 650,706)
-[i]5 Largest Cities:[/i] New York City, Boston, Halifax, Newark, Jersey City
+[i]10 Largest Cities:[/i] Istanbul (Eysa), New York City (Glowstow), Los Angeles (New Gravity Falls), Berlin (imperial Empire IV), Toronto (T.I.E) Rome (Unferveerlypentiveion), Chicago (Dyersburg), Houston (Metatton), Paris (Unferveerlypentiveion), Vienna (Imperial Empire IV)
 
-[b]Imperial Empire IV[/b]
-[i]Population:[/i] 7 Million
-[i]Capital:[/i] Berlin (Population: 3.645 People)
-[i]5 Largest Cities:[/i] Berlin, Vienna, Prague, Amsterdam
+[i]Largest Nation in Land Area:[/i] Imperial Empire IV, Mettaton, Weakley, Unferveerlypentiveion, Eysa, New Gravity Falls, Dyersburg, Glowstow, Tasmanian Imperialist Empire
+
+Current Events: Imperialist-Eyso-Unferveely War and Dyers-Tasman War
