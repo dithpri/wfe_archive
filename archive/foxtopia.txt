@@ -3,6 +3,6 @@
 [b]Bulletin:[/b]
 [list]
 [*]You&#39;re encouraged to join, tell your friends!
-[*]I don&#39;t know!!! BARK OR SOMETHING!![/list]
+[*][b][color=#5BCEFA]I don&#39;t[/color] [color=#FFFFFF]know!!! BARK[/color] [color=#F5A9B8]OR SOMETHING!![/color][/b][/list]
 [hr]
-[table][tr][td]Test1[/td][td]Test2[/td][td]I looove tables[/td][/tr][/table]
+[table][tr][td][color=#5BCEFA]Test1[/color][/td][td][color=#00878e]Test2[/color][/td][td][color=#c90076]I looove tables[/color][/td][/tr][/table]
