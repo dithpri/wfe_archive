@@ -2,7 +2,7 @@
 [b][i]|-| Current Galactic Year[/i] : [u]2228[/u] |-|[/b]
 [b][i]|-| Rival[/i] : [u][region]The Partion Conference[/region], [nation]Eusan[/nation][/u] |-|[/b]
 
-[b]|-| Current Planetary Roster |-|[/b]
+[b]|-| [color=#3e90f4]Current Planetary Roster[/color] |-|[/b]
   |[nation]Crimsica[/nation], [region]The Crimsican Colonial Empire[/region]|
   |[nation]Estanu[/nation]|  
   |[nation]Fori Prime[/nation]|  
@@ -13,11 +13,12 @@
   |[nation]Omicron I[/nation]|
   |[nation]Atrox[/nation]|
 
-[b]|-| Current Lunar Roster |-|[/b]
+[b]|-| [color=#f43e3e]Current Lunar Roster[/color] |-|[/b]
   |[nation]Idaks[/nation]|-|Moon of : [nation]Crimsica[/nation]|  
-  |[nation]Martells[/nation]|Moon of : None|
- 
-[b]|-| Accepted Primitive Civilizations |-|[/b]
+  |[nation]Martells[/nation]|Moon of : [nation]Gatria[/nation]|
+  |[nation]Cestus Prime[/nation]|Moon of : [nation]Amiarce[/nation]|
+
+[b]|-| [color=#f4dd3e]Accepted Primitive Civilizations[/color] |-|[/b]
   |[nation]Amiarce[/nation]|  
   |[nation]Unified States of Moskow[/nation]|  
   |[nation]Terraa nova[/nation]|  
