@@ -1,0 +1,8 @@
+a region for the nation-states game, the rat.
+RULES:
+
+rats MUST do daily commands
+rats MUST be in one of the 20 legal region
+rats MUST not be caught,
+
+if you break any of these rules, you are eliminated.
