@@ -4,14 +4,13 @@
 
 [b]|-| [color=#3e90f4]Current Planetary Roster[/color] |-|[/b]
   |[nation]Crimsica[/nation], [region]The Crimsican Colonial Empire[/region]|
-  |[nation]Estanu[/nation]|  
+  |[nation]Estanu[/nation], [region]The Estanuan Colonial Empire[/region]|  
   |[nation]Fori Prime[/nation]|  
   |[nation]Hellmire[/nation]|  
   |[nation]Oshaune[/nation]|  
   |[nation]Navi VII[/nation]|  
   |[nation]Gatria[/nation]|  
   |[nation]Omicron I[/nation]|
-  |[nation]Atrox[/nation]|
 
 [b]|-| [color=#f43e3e]Current Lunar Roster[/color] |-|[/b]
   |[nation]Idaks[/nation]|-|Moon of : [nation]Crimsica[/nation]|  

@@ -7,9 +7,9 @@
 19 December 2023
 
 [b]MEMBERS[/b]
-[region]United Confederation of Planets[/region] (founder)
-[region]The Royal Asmorian Federation[/region] (founder)
-[region]The Three Isles[/region] (founder)
+[region]United Confederation of Planets[/region]
+[region]The Royal Asmorian Federation[/region]
+[region]The Three Isles[/region]
 [region]The Federation of Utopias Unitum[/region]
 [region]The Region of Warsaw[/region]
 [region]Arconian Empire[/region]
@@ -17,4 +17,5 @@
 [b]OBSERVER[/b]
 [region]Liberlandia[/region]
 [region]United Democratic Nations[/region]
+[region]Bozarkia[/region]
 [/color]
