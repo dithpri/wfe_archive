@@ -13,7 +13,7 @@ bonvi : 2 wins
 Scarlet : 1 Win
 Buros : None
 Paksya : None
-Agathan : ?
+Agathan : None
 
 PVI :
 Scarlet : 2 Wins
@@ -21,13 +21,13 @@ Paksya : 1 Win
 Lindenbergh : None
 Bonvi : none
 Vrodasha : none
+Agathan : None
 Buros : Never Joining
-Agathan : ?
 
 VST : Lindenbergh : 1 Win
 Scarlet : 2 Win&#39;s
 Paksya : None
 Vrodasha : None
 Bonvi : None
-Buros : Never Joining
-Agathan : ?[/b]
+Agathan : None
+Buros : Never Joining[/b]
