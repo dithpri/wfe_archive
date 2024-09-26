@@ -1,6 +1,6 @@
 Welcome to the personal region of [nation=Acadiane].
 
-[url=region=the_communist_bloc][color=#cb0000][b]The Communist Bloc[/url][/color] - People&#39;s Justice[/b]: [nation]Acadiane[/nation]
+[url=region=the_communist_bloc][color=#cb0000][b]The Communist Bloc[/url][/color][/b]: [nation]Acadiane[/nation]
 
 [url=region=leningrad_airfield][color=#850001][b]People&#39;s Revolutionary Air Force[/url][/color] - [color=#7f0000]Squadron Leader[/color][/b]: [nation]APAF Command[/nation]
 
