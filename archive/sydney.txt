@@ -1,3 +1,9 @@
-[b]Sydney[/b]
+[color=00477e][b]Sydney[/b][/color][color=633517]
 Largest city in [region=Australia]
-This region is controlled by [nation=short]Juergen[/nation]
+[/color][color=olive]
+REGION
+[b]Founded:[/b] 2017 Jan 18
+[b]Featured:[/b] 2024 Sep 28
+an [region=Ancient Lands] allied region
+[/color][color=004d33]
+Embassy Offers Welcome[/color]

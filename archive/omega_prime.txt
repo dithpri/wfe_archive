@@ -2,5 +2,5 @@
 [table][tr][td]REGION[/td][/tr]
 [tr][td][color=004d33][b]Founded:[/b] 2023 Sep 03
 [b]Featured:[/b] 2023 Oct 28
-a [region=0000] puppet storage region[/color][/td][/tr][/table]
+a [region=0000] Enumerator puppet storage region[/color][/td][/tr][/table]
 [table][tr][td][color=green][b]Embassy Offers are Welcome[/b][/color][/td][/tr][/table]
