@@ -5,12 +5,8 @@ Officially [b][I]&quot;The Empire of The Swedes&quot;[/b][/I]
 ________
 
 [b]Sovereign:[/b] [nation]Emperor Carlisle I[/nation]
-[b]Consort:[/b] [nation]Empress Adalyn[/nation]
+[b]Consort:[/b] [nation]Empress Katherine[/nation]
 ________
 
 [b]Capital:[/b] Stockholm
 [b]Religion:[/b] Lutheranism
-________
-
-[b]Personal Union:[/b]
-[region]The Danish Realm[/region], [region]The Kingdom of Norway[/region]

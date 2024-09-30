@@ -1,16 +1,1 @@
-[color=darkfire][b]Welcome to the Kingdom of Norway[/b]
-[i]Velkommen til Kongeriket Norge[/i][/color]
-
-[hr]
-
-[color=navy]The [b]Kingdom of Norway[/b] is a Scandinavian country encompassing mountains, glaciers and deep coastal fjords. Oslo, the capital, is a city of green spaces and museums.[/color]
-
-[hr]
-
-[color=darkfire][u][b]Government[/b][/u][/color]
-[list][*][color=navy][b]King of Norway:[/b] [nation]Norwegian Realm[/nation]
-[*][b]WA Delegate:[/b][/color] [i]vacant[/i][/list]
-
-[hr]
-
-[b][color=darkfire]Constituent Realm of the [region]United Kingdom of Scandia[/region][/color][/b]
+Welcome to Norway
