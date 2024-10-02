@@ -1,7 +1,7 @@
-[u][i][b]This region has been dominated by [nation=short+noflag]J o J[/nation]![/b][/i][/u]
+[hr][b][color=#ED4719]This region has been dominated by [nation=short+noflag]J o J[/nation]![/color][/b][hr]
 
-This region has been claimed in the name of the Lord against the religious traitors of [region]The Greater Germanian Reich[/region]/[region]The Black Fleet[/region]!
+Captured from [region]The Greater Germanian Reich[/region]/[region]The Black Fleet[/region] in 2021.
 
 The Crusades were a series of holy wars declared by the Pope and western Christian nations during the 11th - 13th centuries.
 
-[hr]Property of [nation=short+noflag]J o J[/nation][hr][url=http://udl.taijitu.org/wfe_index/?the_crusades]Older WFEs[/url][hr]
+[hr][url=http://udl.taijitu.org/wfe_index/?the_crusades]Older WFEs[/url][hr]

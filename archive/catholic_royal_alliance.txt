@@ -1,5 +1,5 @@
-[u][i][b]This region has been dominated by [nation=short+noflag]J o J[/nation]![/b][/i][/u]
+[hr][b][color=#ED4719]This region has been dominated by [nation=short+noflag]J o J[/nation]![/color][/b][hr]
 
-This region was once occupied by [color=red][b]The Red Fleet[/b][/color], and then [color=black][b]The Black Fleet[/b][/color], but now [color=green][b]The Green Fleet[/b][/color] is here to occupy this region for good, taken from the communists of the reds and the religious traitors of the blacks. The Green Banner now flies proudly above this region!
+Captured from [region]The Greater Germanian Reich[/region]/[region]The Black Fleet[/region] in 2021.
 
-[hr]Property of [nation=short+noflag]J o J[/nation][hr][url=http://udl.taijitu.org/wfe_index/?catholic_royal_alliance]Older WFEs[/url][hr]
+[hr][url=http://udl.taijitu.org/wfe_index/?catholic_royal_alliance]Old WFEs[/url][hr]

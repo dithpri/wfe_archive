@@ -1,5 +1,5 @@
-[u][b][i]This region has been dominated by [nation=short+noflag]J o J[/nation]![/i][/b][/u]
+[hr][b][color=#ED4719]This region has been dominated by [nation=short+noflag]J o J[/nation]![/color][/b][hr]
 
-This region was an old embassy of [region]J o J[/region], and it has been refounded to prevent enemy forces from capturing it and misusing or abusing it.
+Captured in 2021.
 
-[hr]Property of [nation=short+noflag]J o J[/nation][hr][url=https://greywardens.xyz/tools/wfe_index/region=wehnland]Old WFEs[/url][hr]
+[hr][url=https://greywardens.xyz/tools/wfe_index/region=wehnland]Old WFEs[/url][hr]

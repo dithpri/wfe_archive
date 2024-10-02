@@ -1,5 +1,5 @@
-[u][i][b]This region has been dominated by [nation=short+noflag]J o J[/nation]![/b][/i][/u]
+[hr][b][color=#ED4719]This region has been dominated by [nation=short+noflag]J o J[/nation]![/color][/b][hr]
 
-This region was a previous holding of regional ally [region]IMPERIAL EARTH[/region], and it has been protected under the green banner to keep it out of the hands of evil.
+Captured in 2020 from [region]Imperial Earth[/region].
 
-[hr]Property of [nation=short+noflag]J o J[/nation][hr][URL=http://nsdossier.texasregion.net//history.aspx?region=comunidad%20latinoamericana&amp;type=Exact&amp;group=region&amp;start=&amp;end=]NSDossier Data[/url][hr]
+[hr][url=https://greywardens.xyz/tools/wfe_index/region=comunidad_latinoamericana]Previous WFEs[/url][hr]

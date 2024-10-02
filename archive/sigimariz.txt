@@ -1,5 +1,5 @@
-[u][i][b]This region has been dominated by [nation=short+noflag]J o J[/nation]![/b][/i][/u]
+[hr][b][color=#ED4719]This region has been dominated by [nation=short+noflag]J o J[/nation]![/color][/b][hr]
 
-This region was once a holding of [region]The Greater Germanian Reich[/region], I believe as some sort of reference to part of [nation]Eaglemount[/nation]&#39;s frequently used names and aliases. This is what happens when you turn on your Lord and those who built you up from nothing... again.
+Captured from [region]The Greater Germanian Reich[/region]/[region]The Black Fleet[/region] in 2021.
 
-[hr]Property of [nation=short+noflag]J o J[/nation][hr][url=https://greywardens.xyz/tools/wfe_index/region=sigimariz]Previous WFEs[/url][hr]
+[hr][url=https://greywardens.xyz/tools/wfe_index/region=sigimariz]Previous WFEs[/url][hr]

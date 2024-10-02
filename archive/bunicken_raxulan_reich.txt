@@ -1,5 +1,5 @@
-[u][i][b]This region has been dominated by [nation=short+noflag]J o J[/nation]![/b][/i][/u]
+[hr][b][color=#ED4719]This region has been dominated by [nation=short+noflag]J o J[/nation]![/color][/b][hr]
 
-This was another Raxulan region which has been seized from [region]Raxulan Empire[/region] and [region]New Reich of Bunicken[/region] for their trespasses against [region]J o J[/region].
+Seized from [region]Raxulan Empire[/region] and [region]New Reich of Bunicken[/region] many years ago.
 
-[hr]Property of [nation=short+noflag]J o J[/nation][hr][url=http://nsdossier.texasregion.net//history.aspx?region=bunicken%20raxulan%20reich&amp;type=Exact&amp;group=region&amp;start=&amp;end=]NSDossier Data[/url][hr]
+[hr][url=https://greywardens.xyz/tools/wfe_index/region=bunicken_raxulan_reich]Previous WFEs[/url][hr]

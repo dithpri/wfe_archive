@@ -1,5 +1,5 @@
-[u][i][b]This region has been dominated by [nation=short+noflag]J o J[/nation]![/b][/i][/u]
+[hr][b][color=#ED4719]This region has been dominated by [nation=short+noflag]J o J[/nation]![/color][/b][hr]
 
-This region was a holding of [region]The Black Fleet[/region]/[region]The Greater Germanian Reich[/region], until they let it CTE merely hours before war was declared by [region]J o J[/region] in support of [region]Genua[/region]. [nation=short+noflag]J o J[/nation] found this free loot and pilfered it out of [region]The Greater Germanian Reich[/region], who has turned it&#39;s back on it&#39;s old friends, history, and the Lord Himself!
+Captured from [region]The Greater Germanian Reich[/region]/[region]The Black Fleet[/region] in 2021.
 
-[hr]Property of [nation=short+noflag]J o J[/nation][hr][url=https://greywardens.xyz/tools/wfe_index/region=National%20progressive%20alliance]Older WFEs[/url][hr]
+[hr][url=https://greywardens.xyz/tools/wfe_index/region=National%20progressive%20alliance]Older WFEs[/url][hr]
