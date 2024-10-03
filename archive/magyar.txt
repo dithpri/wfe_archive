@@ -1,5 +1,5 @@
-[u][i][b]This region has been dominated by [nation=short+noflag]J o J[/nation]![/b][/i][/u]
+[hr][b][color=#ED4719]This region has been dominated by [nation=short+noflag]J o J[/nation]![/color][/b][hr]
 
-This region has been seized by the state after a [region]Sanctum[/region] separatist lost control of it.
+Seized from [region]Sanctum[/region] in 2022.
 
-[hr]Property of [nation=short+noflag]J o J[/nation][hr][url=https://greywardens.xyz/tools/wfe_index/region=magyar]Old WFEs[/url][hr][url=http://udl.taijitu.org/wfe_index/?magyar]Older WFEs[/url][hr]
+[url=https://greywardens.xyz/tools/wfe_index/region=magyar]Old WFEs[/url][hr][url=http://udl.taijitu.org/wfe_index/?magyar]Older WFEs[/url][hr]

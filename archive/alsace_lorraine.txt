@@ -1,7 +1,7 @@
-[u][i][b]This region has been dominated by [nation=short+noflag]J o J[/nation]![/b][/i][/u]
+[hr][b][color=#ED4719]This region has been dominated by [nation=short+noflag]J o J[/nation]![/color][/b][hr]
 
-This poorly defended territory of [region]Hartfelden[/region], a sympathizer to state enemies, has been seized and annexed by the state, with [color=green]The Green Banner[/color] flying high and proud on the flagpole.
+This poorly defended territory of [region]Hartfelden[/region] was seized in 2021.
 
 Alsace-Lorraine is a historical region, now called Alsace-Moselle, located in eastern France. It was created in 1871 by the German Empire after annexing the region from the France during the Franco-Prussian War.
 
-[hr]Property of [nation=short+noflag]J o J[/nation][hr][url=https://greywardens.xyz/tools/wfe_index/region=alsace_lorraine]Old WFEs[/url][hr][url=http://udl.taijitu.org/wfe_index/?alsace_lorraine]Older WFEs[/url][hr][b]This region is a territory of [nation=short+noflag]J o J[/nation]&#39;s Real Estate Empire![/b][hr]
+[hr][url=https://greywardens.xyz/tools/wfe_index/region=alsace_lorraine]Old WFEs[/url][hr][url=http://udl.taijitu.org/wfe_index/?alsace_lorraine]Older WFEs[/url][hr][b]This region is a territory of [nation=short+noflag]J o J[/nation]&#39;s Real Estate Empire![/b][hr]

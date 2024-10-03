@@ -1,5 +1,5 @@
-[u][i][b]This region has been dominated by [nation=short+noflag]J o J[/nation]![/b][/i][/u]
+[hr][b][color=#ED4719]This region has been dominated by [nation=short+noflag]J o J[/nation]![/color][/b][hr]
 
-Past [region]Genua[/region] holding captured by [nation=short+noflag]J o J[/nation] and saved from the clutches of the evil [nation]Tuvulux[/nation]/Spode.
+Seized from [region]Genua[/region] in 2021.
 
-[hr]Property of [nation=short+noflag]J o J[/nation][hr][url=https://greywardens.xyz/tools/wfe_index/region=united_socialist_soviet_republics]Older WFEs[/url][hr]
+[hr][url=https://greywardens.xyz/tools/wfe_index/region=united_soviet_socialist_republics]Previous WFEs[/url][hr]

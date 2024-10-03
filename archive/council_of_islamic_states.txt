@@ -1,5 +1,6 @@
-[b][u][i]This region has been dominated by [nation=short+noflag]J o J[/nation]![/i][/u][/b]
+[hr][b][color=#ED4719]This region has been dominated by [nation=short+noflag]J o J[/nation]![/color][/b][hr]
 
-This region was previously a protectorate of [region]KAISERREICH[/region], and has been permanently erased. This region was not captured to insult Islam or [nation=short+noflag]Muslims Political Council of Evagia[/nation], or any related entities, none of whom the state has qualms with.
+This region was previously a protectorate of [region]KAISERREICH[/region], and it has been permanently erased. 
 
-[hr]Property of [nation=short+noflag]J o J[/nation][hr][url=https://greywardens.xyz/tools/wfe_index/region=council_of_islamic_states]Previous WFEs[/url][hr]
+[hr][url=https://greywardens.xyz/tools/wfe_index/region=council_of_islamic_states]Old WFEs[/url][hr]
+
