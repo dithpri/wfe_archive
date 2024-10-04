@@ -1,6 +1,2 @@
-[color=green][b]00000000000000[/b] (14 zero region)
-
-&amp;lt;&amp;lt; [region=0000000000000] [region=000000000000000] &amp;gt;&amp;gt;
-[/color][color=olive]
-an [region=0000] region
-[b]Founded:[/b] 2016 Jan 05[/color]
+[color=900009][b]00000000000000[/b] (14 zeroes)
+Allied with [region=0000] region[/color]
