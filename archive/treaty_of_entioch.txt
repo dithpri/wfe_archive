@@ -1,23 +1,4 @@
-[b][color=#566D7E]ALLIED COMMAND CENTER[/b]
-[hr]
-[b]SECRETARY-GENERAL:[/b] [nation]The Kingdom of the Three Isles[/nation]
-[b]ALLIED SUPREME COMMANDER:[/b] [nation]Whiskany[/nation]
-
-[b]FOUNDED[/b]
-19 December 2023
-
-[b]MEMBERS[/b]
-[region]United Confederation of Planets[/region]
-[region]The Royal Asmorian Federation[/region]
-[region]The Three Isles[/region]
-[region]The Federation of Utopias Unitum[/region]
-[region]The Region of Warsaw[/region]
-[region]Arconian Empire[/region]
-
-[b]OBSERVER[/b]
-[region]Liberlandia[/region]
-[region]United Democratic Nations[/region]
-[region]Bozarkia[/region]
+[color=#566D7E]WIP
 
 [hr]
 
