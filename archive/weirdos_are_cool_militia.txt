@@ -6,3 +6,6 @@ A defender organization.
 Current orders: none
 
 DEFCON: [color=blue]4[/color]
+
+All embassy requests will be rejected except for those in association with [region]Weirdos Are Cool[/region].
+If you are looking for embassies with [region]Weirdos Are Cool[/region] or [region]Nerds are cool[/region], those will be accepted.

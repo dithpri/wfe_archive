@@ -5,7 +5,3 @@ Puppetmaster: [nation]The Ankhalic Vaspriot[/nation]
 Regional card manager: [nation]Lespotte[/nation]
 
 Stat-specific, manually operated nations: [region]Aessui[/region]
-
-TOP LEGENDARY FINDERS: [nation]Cuprite[/nation] (2), [nation]Liberty Cap Cent[/nation] (2)
-
-MOST VALUABLE CARD FINDER: [nation]Classic Head Half Cent[/nation] (New Visayan Islands)
