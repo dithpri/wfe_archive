@@ -1,20 +1,27 @@
-Home to the World History-loving class of Mr. Burge!
-
 We are the [i]Defenders of the Faith[/i].
 
-After the fall of past nations, we welcome new and old nations to the Burge Classroom!
+After the fall of past nations, we welcome new and old nations to the [region]Burge Classroom[/region]!
 
-Trying to navigate passed the system of [b]Feudalism[/b]...
+Trying to navigate passed the system of [b]Feudalism[/b]...  
+
+[b][u]King:[/u][/b]  [nation=long]Snappleland[/nation]
+
+[b][u]House of Lords[/u]:[/b]
+
+[nation=long]Sapphire 1[/nation] 
+[nation=long]The Iron Stronghold[/nation] 
+[nation=long]Disneylodia[/nation] 
+[nation=long]Blobfish Inc[/nation]
+[nation=long]Potatonesses[/nation]
 
 [b]Regional Anthem:[/b] It used to be &quot;Heinz Baked Beans&quot; but that is now abolished...
 
-Historical Regional Olympic Champions:
+[b][u]Historical Regional Olympic Champions:[/u][/b]
 
-[b]The Republic of Sapphire 1:[/b]  1 Gold Medal in the Olympic Gaga Ball game
-[b]Isle of Palmettos:[/b]  1 Gold Medal in the Olympic Gaga Ball game
-[b]The Iron Stronghold:[/b] 1 Bronze medal in the Olympic Gaga Ball Game
+[b][nation=long]Sapphire 1[/nation][/b]:  1 Gold Medal
+[b][nation=long+noflag]Isle of Palmettos[/nation]:[/b]  1 Silver Medal 
+[b][nation=long]The Iron Stronghold[/nation]:[/b] 1 Bronze medal
 
-Victor of the 1st Annual Hunger Games: Norklandia
+[color=blue]Victor of the 1st Annual Hunger Games[/color]: [nation=long+noflag]Norklandia[/nation]
 
-The past president, leader of Disneylodia, has stepped down from their Presidency opening a possibility of a new election...
  

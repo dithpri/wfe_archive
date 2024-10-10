@@ -14,8 +14,8 @@
 [tr][td][b][nation]Eco-Paris Reformation[/nation][/b][/td][td]President/WAD[/td][/tr]
 [tr][td][nation]South Waterford[/nation][/td][td]Regent/Founder[/td][/tr]
 [tr][td][nation]Revengi[/nation][/td][td]Vice-President[/td][/tr]
-[tr][td][nation]Delmarva and Cape May[/nation][/td][td]Secretary of the Interior[/td][/tr]
-[tr][td][nation]Open[/nation][/td][td]Secretary of the Exterior[/td][/tr]
+[tr][td][nation]American Generations[/nation][/td][td]Secretary of the Interior[/td][/tr]
+[tr][td][nation]Maniaca[/nation][/td][td]Secretary of the Exterior[/td][/tr]
 [tr][td][nation]Open[/nation][/td][td]Secretary of Order and Intelligence[/td][/tr]
 [tr][td][nation]Open[/nation][/td][td]Attorney General[/td][/tr]
 [tr][td][nation]United Sentinel States[/nation][/td][td]Chief Justice[/td][/tr]
@@ -23,7 +23,7 @@
 
 [hr]
 
-[table][td][url=][color=black]Events[/color][/url][color=black]:[/color] [url=]October Fest[color=black] ([i]Coming Soon[/i])[/color][/url][/td][/table]
+[table][td][url=][color=black]Events[/color][/url][color=black]:[/color] [url=]Something[color=black] ([i]Coming Soon[/i])[/color][/url][/td][/table]
 [table][td][color=black]Roleplay:[/color] [url=https://www.nationstates.net/region=uasclub]UASClub [color=black][i](W.I.P.)[/i][/color][/url] [color=black]|[/color] [url=https://www.nationstates.net/region=uas_interstellar_rp]UAS Interstellar RP [color=black][i](W.I.P.)[/i][/color][/url][/td][/table]
 
 [hr]
