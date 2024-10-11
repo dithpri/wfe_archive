@@ -4,17 +4,19 @@ After the fall of past nations, we welcome new and old nations to the [region]Bu
 
 Trying to navigate passed the system of [b]Feudalism[/b]...  
 
-[b][u]King:[/u][/b]  [nation=long]Snappleland[/nation]
+[b][u]King:[/u][/b]  [nation=long]Snappleland[/nation] the [b]Wise[/b]
 
 [b][u]House of Lords[/u]:[/b]
 
-[nation=long]Sapphire 1[/nation] 
-[nation=long]The Iron Stronghold[/nation] 
-[nation=long]Disneylodia[/nation] 
-[nation=long]Blobfish Inc[/nation]
-[nation=long]Potatonesses[/nation]
+[nation=long]Sapphire 1[/nation] the [b]Valient[/b]
+[nation=long]The Iron Stronghold[/nation] the [b]Just[/b]
+[nation=long]Disneylodia[/nation] the [b]Magnificant[/b]
+[nation=long]Blobfish Inc[/nation] the [b]Brave[/b]
+[nation=long]Potatonesses[/nation] the [b]Gentile[/b]
 
-[b]Regional Anthem:[/b] It used to be &quot;Heinz Baked Beans&quot; but that is now abolished...
+[b]Regional Capital City:[/b] [color=orange][i]Cair Paravel[/i][/color]
+
+[b]Regional Anthem:[/b] It used to be &quot;[i]Heinz Baked Beans[/i]&quot; but that is now abolished...
 
 [b][u]Historical Regional Olympic Champions:[/u][/b]
 
@@ -22,6 +24,6 @@ Trying to navigate passed the system of [b]Feudalism[/b]...
 [b][nation=long+noflag]Isle of Palmettos[/nation]:[/b]  1 Silver Medal 
 [b][nation=long]The Iron Stronghold[/nation]:[/b] 1 Bronze medal
 
-[color=blue]Victor of the 1st Annual Hunger Games[/color]: [nation=long+noflag]Norklandia[/nation]
+
 
  
