@@ -1,14 +1,2 @@
-Ave Caesar!
-
-Your region has been chosen for a special visit by the Legions of the [region]The Empire of Mare Nostrum[/region]. Please hold the applause, you&#39;re too kind.
-
-Visiting Centurions:
-
-[b]Legatus[/b] [nation]Lanian Empire[/nation]
-[b]Legatus Prefect[/b] [nation]Salvarity[/nation]
-[b]Centurion[/b] [nation]Atrony Detonis[/nation]
-[b]Centurion[/b] [nation]Arvidlund[/nation]
-
-With an extra special guest:
-
-[b]Auxilia[/b] [nation]Miss Bad Life Choices[/nation]
+Error 377: Host Not Found.
+Returning To [region]Ding Ding Dong[/region].
