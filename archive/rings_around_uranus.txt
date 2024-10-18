@@ -10,8 +10,9 @@
 
 [hr][u]COMMAND STRUCTURE[hr][/u]
 
-[color=cotton]1st Battalion[/color] - [nation]HubenPhone[/nation] 
+[color=cotton]1st Battalion[/color] [color=blue]2nd Battalion[/color] [nation]HubenPhone[/nation] 
 [color=orange]5th Battalion[/color] - [nation]Dregs of the Earth[/nation] 
+[Color=127d37]6th Battalion[/color] - [nation]Caskye[/nation]
 [color=purple]7th Battalion[/color] - [nation]The Uesugi Shogunate[/nation][/b] 
 
 [b][hr][u]MILITARY ACADEMY[hr][/u][/b]
