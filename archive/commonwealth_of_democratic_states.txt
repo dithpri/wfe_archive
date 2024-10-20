@@ -1,7 +1,12 @@
-[b]Welcome to the Commonwealth of Democratic States![/b]
+[b][color=blue]Welcome to the Commonwealth of Democratic States![/color][/b]
 We are a democratic region founded by the Kingdom of Kanalania.
 Please get WA membership and endorse [nation=long]kanalania[/nation] for WA delegate.
 
-All nations other than the WA delegate are currently allowed [i][u][b]0[/b][/u][/i] endorsements.
+All nations not endorsing the WA delegate are currently allowed [i][u][b]0[/b][/u][/i] endorsements.
+All nations endorsing the WA delegate are currently allowed [i][u][b]1[/b][/u][/i] endorsement.
+
+WA Commission voting suggestions: (you do not have to vote this way)
+GA: [b][color=#4572a7]FOR[/color][/b] (Majority of region voting [b][color=#4572a7]FOR[/color][/b])
+SC: [b][color=#aa4643]AGAINST[/color][/b] (Majority of region voting [b][color=#4572a7]FOR[/color][/b])
 
 [url=https://discord.gg/N84RVfA2Af]Join our discord server[/url] to vote in regional elections and participate in regional government.

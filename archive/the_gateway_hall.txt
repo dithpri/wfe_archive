@@ -1,6 +1,9 @@
-[table][tr][td][colour=#ff00ff][b]Welcome to the Gateway Hall![/b][/colour][/td][/tr]
-[tr][td]Formed in the vast multiverse, the Gateway Hall is a hub for all to build relations with.[/td][/tr]
-[tr][td]Please note that our Nexus reserves the right to close relations at any time should they feel the need to.[/td][/tr]
-[tr][td][u][b]Current Realmkeeper (Delegate):[/b][/u] [nation]Multiversal Alliances[/nation][/td][/tr]
-[tr][td][u][b]Quote of the Day:[/b][/u] Pending RMB Activity...[/td][/tr]
+[table][tr][td][colour=#ff00ff][b]Welcome to the Gateway Hall![/b][/colour][/td][td][b][u][i][color=#ff00ff]Links[/color][/i][/u][/b][/td][td][b][u][i][color=#ff00ff]Current Positions[/color][/i][/u][/b][/td][/tr]
+[tr][td]Formed in the vast multiverse, the Gateway Hall is a hub for all to build relations with.[/td][td][url=https://discord.gg/Gq9PYs24xj]Gateway Hall Official Discord Server[/url][/td][td][b][u]Permanent Nexus:[/u][/b]
+
+[nation]Multiversal Alliances[/nation][/td][/tr]
+[tr][td]Please note that our Nexus or the current Realmkeeper reserves the right to close relations at any time should they feel the need to.[/td][td][/td][td][b][u]Current Realmkeeper (Delegate):[/u][/b]
+
+[nation]Multiversal Alliances[/nation][/td][/tr]
+[tr][td][u][b]Quote of the Day:[/b][/u] Pending RMB Activity...[/td][td][/td][td][/td][/tr]
 [/table]
