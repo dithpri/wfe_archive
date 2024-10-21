@@ -21,8 +21,8 @@
 [hr]
 
 [color=purple]WSG Recommendations:[/color][list]
-&#149; [color=orange]General Assembly:[/color] [url=https://www.nationstates.net/][color=red]AGAINST[/color][/url]
-&#149; [color=orange]Security Council:[/color] [url=][color=green]FOR[/color][/url][/list]
+&#149; [color=orange]General Assembly:[/color] [url=page=ga][color=green]FOR[/color][/url]
+&#149; [color=orange]Security Council:[/color] [url=page=sc][color=gray]NO VOTE[/color][/url][/list]
 
 [hr]
 
