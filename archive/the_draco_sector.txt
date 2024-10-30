@@ -3,22 +3,23 @@
 [b][i]|-| Rival[/i] : [u][region]The Partion Conference[/region], [nation]Eusan[/nation][/u] |-|[/b]
 
 [b]|-| [color=#3e90f4]Current Planetary Roster[/color] |-|[/b]
-  |[nation]Crimsica[/nation], [region]The Crimsican Colonial Empire[/region]|
-  |[nation]Estanu[/nation], [region]The Estanuan Colonial Empire[/region]|  
-  |[nation]Fori Prime[/nation]|  
-  |[nation]Hellmire[/nation]|  
-  |[nation]Oshaune[/nation]|  
-  |[nation]Navi VII[/nation]|  
-  |[nation]Gatria[/nation]|  
-  |[nation]Omicron I[/nation]|
+  |[nation]Crimsica[/nation], [region]The Crimsican Colonial Empire[/region]| [b]131 Seats[/b] |
+  |[nation]Estanu[/nation], [region]The Estanuan Colonial Empire[/region]| [b]130 Seats[/b] |
+  |[nation]Fori Prime[/nation]| [b]129 Seats[/b] |
+  |[nation]Hellmire[/nation]| [b]129 Seats[/b] |
+  |[nation]Oshaune[/nation]| [b]117 Seats[/b] |
+  |[nation]Navi VII[/nation]| [b]98 Seats[/b] |
+  |[nation]Gatria[/nation]| [b]95 Seats[/b] |
+  |[nation]Omicron I[/nation]| [b]91 Seats[/b] |
+  |[nation]Azur Secundus[/nation]| [b]1 Seats[/b] |
 
 [b]|-| [color=#f43e3e]Current Lunar Roster[/color] |-|[/b]
-  |[nation]Idaks[/nation]|-|Moon of : [nation]Crimsica[/nation]|  
-  |[nation]Martells[/nation]|Moon of : [nation]Gatria[/nation]|
-  |[nation]Cestus Prime[/nation]|Moon of : [nation]Amiarce[/nation]|
+  |[nation]Idaks[/nation]|-|Moon of : [nation]Crimsica[/nation]| [b]55 Seats[/b] |
+  |[nation]Martells[/nation]|Moon of : [nation]Gatria[/nation]| [b]40 Seats[/b] |
+  |[nation]Cestus Prime[/nation]|Moon of : [nation]Amiarce[/nation]| [b]Autonomy Below : Dominion |
 
 [b]|-| [color=#f4dd3e]Accepted Primitive Civilizations[/color] |-|[/b]
-  |[nation]Amiarce[/nation]|  
-  |[nation]Unified States of Moskow[/nation]|  
-  |[nation]Terraa nova[/nation]|  
-  |[nation]Nyemgar[/nation]|
+  |[nation]Amiarce[/nation]| [b]67 Seats[/b] |
+  |[nation]Unified States of Moskow[/nation]| [b]48 Seats[/b] |
+  |[nation]Terraa nova[/nation]| [b]N/A[/b] |
+  |[nation]Nyemgar[/nation]| [b]49 Seats[/b] |
