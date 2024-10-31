@@ -1,0 +1,12 @@
+Welcome to Naeron III, a lush planet in Milky Way Galaxy.
+
+Planet Characteristic.
+- Mass: 0.86 x Earth
+- Diameter: 12,028 kilometers
+- Gravity: 0.97 G
+- Average Temperature: 21 degree of Celcius
+- Atmospheric Composition: 73% Nitrogen, 25% Oxygen, 1% Argon, 1% other gasses
+- Atmospheric Pressure: 120.20 kPa
+- Hydrosphere Percentage: 59% of Water coverage
+- Resource Level: High
+- Lifeform: High, with high level of biocomplexity.
