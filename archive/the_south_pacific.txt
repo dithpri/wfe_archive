@@ -22,7 +22,7 @@
 
 [color=purple]WSG Recommendations:[/color][list]
 &#149; [color=orange]General Assembly:[/color] [url=page=ga][color=green]FOR[/color][/url]
-&#149; [color=orange]Security Council:[/color] [url=page=sc][color=red]AGAINST[/color][/url][/list]
+&#149; [color=orange]Security Council:[/color] [url=page=sc][color=green]FOR[/color][/url][/list]
 
 [hr]
 

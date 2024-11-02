@@ -1,4 +1,4 @@
-[b]Welcome Home to the &amp;#128081; [color=darkred]Empire of The Walbard Union[/color][/b]
+[b]Welcome Home to the &amp;#128081; [color=darkred]Empire of The Walbard Union[/color][/b]&#153;
 [i]&quot;Strength, Liberty, Unity, Justice, Peace&quot;[/i] ~ Eternal and Majestic
 
 [b][color=red]Many Nations, One Union[/color] &amp;#127760; [color=navy]Many Regions, One Imperium[/color][/b]
@@ -12,10 +12,17 @@
 
 [list][*]&amp;#128081; [b][color=red]Emperor[/color]:[/b] [nation]HIRM Emperor Carlisle I[/nation] of [nation]Walbard[/nation]
 [*]&amp;#128081; [color=purple][b]Empress[/b][/color]: [nation]HIRM Empress Katherine[/nation] of [nation]Notrina[/nation]
-[*]&amp;#128081; [B] Crown Prince[/B]: [nation]Prince Jaktoko[/nation] of [nation]Jaktokington[/nation]
-[*]&amp;#127969; [b]Ruling House[/B]: [nation=short]House of Tudor[/nation]
+[*]&amp;#128081; [B][color=blue]Crown Prince[/color][/B]: [nation]Prince Jaktoko[/nation] of [nation]Jaktokington[/nation]
+[*]&amp;#127969; [b][color=orange]Ruling House[/color][/B]: [nation=short]House of Tudor[/nation]
 [/list]
 
 [hr]
 
-Please endorse [nation=short]Notrina[/nation] as [b]WA Delegate[/b], and [nation=short]Jaktokington[/nation] as [b]Vice Delegate[/b]
+[b]Please endorse[/b] [nation=short]Notrina[/nation] as [b]WA Delegate[/b] ~ our [b]Endorsement Cap[/b] is 25%
+
+[hr]
+
+[list][*] &amp;#127751; [color=teal][b]Capital City[/color]:[/b] [nation]Walbard City[/nation]
+[*] &amp;#127963; [b][color=blue]Lord Mayor[/color]:[/b] [nation]Toxinoto[/nation]
+[*] &amp;#128181; [b][color=green]Currency[/color]:[/b] Walbardian Vira
+

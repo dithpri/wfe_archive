@@ -6,7 +6,7 @@ My main nations:
 
 [nation]Avalon[/nation] in [region]The North Pacific[/region]
 [nation]Alexandria[/nation] in [region]Union of Christian Nations[/region]
-[nation]Anglia[/nation] in [region]Sophia[/region]
+[nation]Anglia[/nation] and [nation]Wels[/nation] in [region]Sophia[/region]
 
 My main Regions:
 
