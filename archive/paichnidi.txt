@@ -7,7 +7,7 @@
 
 [hr]
 [u][i]The Flight of Wyrms who graced you with their presence:[/i][/u]
-[b][color=#a6a6b3]The Silver Dragon[/color][/b] [nation]East Chimore[/nation]
+[b][color=#a6a6b3]The Silver Dragon[/color] [nation]East Chimore[/nation][/b]
 [b][color=#7a2f8f]Greatwyrm[/color][/b]
 [b][color=#a0d2e7]Ancient Dragon[/color][/b]
 [b][color=#83b1db]Adult Dragon[/color][/b]

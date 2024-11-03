@@ -1,5 +1,1 @@
-[colour=orange]Welcome to [/colour][colour=gray]Spooky Islands![/colour]
-
-[colour=orange]Ooooo today is spooky month![/colour]
-
-[colour=cyan]This is WIP[/colour]
+[color=000080]This s a puppet storage for everyone[/color]
