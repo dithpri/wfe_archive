@@ -1,2 +1,8 @@
-Vassal of [region]The Walbard Union [/region].
-Officially [I][b]The Dominion of [nation]Yalumba[/nation][/I][/b].
+[b]Welcome[/b] to [b][nation]Yalumba[/nation][/b] ~ &quot;Freedom, Justice, Peace&quot;
+[i]Promoted to region-hood from the Duchy of [nation=short]Yalumba[/nation][/i]
+
+[b]Kingdom status:[/b] November 5th, 2024
+[hr][b]Motto:[/b] For the Emperor and the Empire!
+[hr][color=red]HIRM the Emperor[/color]: [nation]HIRM Emperor Carlisle I[/nation] of [nation]Walbard[/nation]
+[color=purple]HIRM the Empress[/color]: [nation]HIRM Empress Katherine[/nation] of [nation]Notrina[/nation]
+[color=teal]HIRH the Crown Prince[/color]: [nation]Prince Jaktoko[/nation] of [nation]Jaktokington[/nation]

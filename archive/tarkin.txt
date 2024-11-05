@@ -12,15 +12,15 @@ Secretary of State: [nation]TheRuhr[/nation]
 
 [color=grey][b][u]Senate:[/u][/b][/color]
 - [nation]Shenendoah[/nation]
-- [nation]Bobbouis[/nation]
-- [nation]Maldoraehan[/nation]
-- [nation]The Republic of Berick[/nation]
+- [nation]MalDorAeHan[/nation]
+- [nation]Vioderkin[/nation]
+- [nation]Columbia-Dixie[/nation]
 - [nation]Woplonga[/nation]
 
 [color=navy][b][u]Supreme Court:[/color][/b][/u]
 [i]Chief Justice:[/i] [nation]Manhassett[/nation]
 Associate Justice: [nation]Burkai[/nation]
-Associate Justice: [nation]Carinth[/nation]
+Associate Justice: [nation]Tunasai[/nation]
 [color=maroon][b]________________________________________________________[/b][/color]
 [b]MAP |[/b] Consult the regional map for available claims.
 [b]ROLEPLAY | [/b]Tarkin is set in the [b]Interwar Period (1919-1941)[/b] for technology.

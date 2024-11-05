@@ -4,4 +4,7 @@ check out some helpful dispatches linked below
 
 [hr]
 
-tests go here
+[table][tr][td]This is a test[/td][td][b]For Your Information.[/b][/td][td][nation=FYI][/td][/tr]
+[tr][td]This is a test[/td][td][url=https://en.wikipedia.org/wiki/List_of_political_parties_in_Norway]This is a link[/url][/td][td][nation=FYI][/td][/tr]
+[/table]
+[table][tr][td][i][u]This is a test[/u][/i][/td][/tr][tr]This is a test[/tr][/table]
