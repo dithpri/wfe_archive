@@ -1,4 +1,4 @@
 [color=black][b]Welcome to Hong Kong![/color][/b]
-[color=black]Hong Kong is a region of China well known for being an important financial centre, shipping hub, and tourist destination. It has established itself as one of the most economically prosperous cities in China and the world.[/color]
+[color=black][region]Hong Kong[/region] is a region of [region]China[/region] well known for being an important financial centre, shipping hub, and tourist destination. It has established itself as one of the most economically prosperous cities in [region]China[/region] and the world.[/color]
 
 [color=black][b]Embassy requests accepted![/b][/color]
