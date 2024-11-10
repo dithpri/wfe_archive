@@ -1,12 +1,12 @@
 [region]EPEC[/region] (= Eruopean Political Economic Council)
 
 FACTS
-Capital: Hautterand ([nation]Rodesie[/nation])
+Capital: Altasur ([nation]Ikamala[/nation])
 Area: 20,109,884 km&sup2; (42,426 sq mi)
 Population: 65,811,193,470 (2019 census)
 Relevant dates :
 - Declaration: Oct 10, 1996
-- Recognized: Dec 10, 1998 (from [nation=long]Ecleia[/nation] to [nation=long]Sallione[/nation])
+- Recognized: Dec 10, 1998 (from [nation=long]Ecleia[/nation] to [nation=long]Ikamala[/nation])
 - Regional Peace Program: Jul 26, 2000
 - Current EPEC Constitution: Apr 10, 2019
 First Secretary of the EPEC: Elliot Alvati (Apr 19, 2021)

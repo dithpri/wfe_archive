@@ -1,5 +1,5 @@
 A region specific for nations inhabiting the continent of Altona
 
 Canon Regions:
-[region]Nations of Halnat[/region]
+[region]Halnat[/region]
 [region]Joint Air Defense Agreement[/region]
