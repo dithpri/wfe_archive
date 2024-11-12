@@ -1,7 +1,5 @@
-Welcome to [u]Appelsinutre[/u], an (eventually) winter-themed region!
-(This is a work in progress.)
-
-Founded on November 9, 2024
+Welcome to [u]Appelsinutre[/u], a winter-themed region!
+Founded on November 9, 2024.
 
 Special thanks to [nation]Rylland[/nation] of [region]Aspen[/region] fame for coming up with the idea for this region!
 
@@ -10,3 +8,5 @@ Spring: [region]Forastina[/region]
 Summer: [region]Alola Region[/region]
 Autumn/Fall: [region]Aspen[/region]
 Winter: [region]Appelsinutre[/region]
+
+(This region is work-in-progress.)
