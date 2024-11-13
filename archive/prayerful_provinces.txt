@@ -11,10 +11,11 @@ Have a good day!
 [nation]Antonan[/nation], [nation]Jaria-Bomwell[/nation], [nation]Raimell[/nation], [nation]Luverica[/nation], [nation]Bramfeld-Pilizana[/nation], [nation]Empalion[/nation], [nation]Josoler-Maulia[/nation], [nation]Casilam[/nation]
 
 [i]Regional Councils[/i]
-[nation]Missen[/nation], [nation]Grand Coalen[/nation],[nation]Great Itabira[/nation], [nation]Westrath[/nation]
+[nation]Missen[/nation], [nation]Grand Coalen[/nation],[nation]Great Itabira[/nation]
 
 [i]Conolaner City-States[/i]
 [nation]Melendave[/nation], [nation]Nolabean[/nation], [nation]Tediugh[/nation], [nation]Vikolskop[/nation], [nation]Gravilant[/nation], [nation]Mackleven[/nation]
+[nation]Alaymand[/nation]
 
 [i]Shared Colony[/i]
 [nation]Holy Talitha[/nation]
