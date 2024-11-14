@@ -1,24 +1,25 @@
 2024 Drivers
 
-331 Verstappen [nation]R e d B u l l[/nation] 7 Wins, 11 Pod
-279 Norris [nation]M c L a r e n[/nation] 3 Win, 11 Pod
-245 Leclerc [nation]F e r r a r i[/nation] 2 win, 9 Pod
-237 Piastri [nation]M c L a r e n[/nation] 2 Win, 7 Pod
-190 Sainz [nation]F e r r a r i[/nation] 1 Win, 5 Pod
-174 Hamilton [nation]M e r c e d e s[/nation] 2 Win 4 Pod
-155 Russell [nation]M e r c e d e s[/nation] 1 Win 3 Pod
-144 Perez [nation]R e d B u l l[/nation] 4 Pod
+393 Verstappen [nation]R e d B u l l[/nation] 8 Wins, 13 Pod
+331 Norris [nation]M c L a r e n[/nation] 3 Win, 12 Pod
+307 Leclerc [nation]F e r r a r i[/nation] 3 win, 11 Pod
+262 Piastri [nation]M c L a r e n[/nation] 2 Win, 7 Pod
+244 Sainz [nation]F e r r a r i[/nation] 2 Win, 7 Pod
+192 Russell [nation]M e r c e d e s[/nation] 1 Win 3 Pod
+190 Hamilton [nation]M e r c e d e s[/nation] 2 Win 4 Pod
+151 Perez [nation]R e d B u l l[/nation] 4 Pod
 062 Alonso [nation]A s t o n M a r t i n[/nation]
-024 H&uuml;lkenberg [nation]H a a s[/nation]
+031 H&uuml;lkenberg [nation]H a a s[/nation]
+028 Tsunoda [nation]V i s a C a s h A p p R B[/nation]
+026 Gasly [nation]A l p i n e[/nation] 1 Pod
 024 Stroll [nation]A s t o n M a r t i n[/nation]
-022 Tsunoda [nation]V i s a C a s h A p p R B[/nation]
+023 Ocon [nation]A l p i n e[/nation] 1 Pod
+014 Magnussen [nation]H a a s[/nation]
 012 Albon [nation]W i l l i a m s[/nation]
 012 Ricciardo [nation]V i s a C a s h A p p R B[/nation]
-008 Gasly [nation]A l p i n e[/nation]
 007 Bearman [nation]F e r r a r i[/nation] / [nation]H a a s[/nation]
-006 Magnussen [nation]H a a s[/nation]
-005 Ocon [nation]A l p i n e[/nation]
-004 Colapinto [nation]W i l l i a m s[/nation]
+005 Colapinto [nation]W i l l i a m s[/nation]
+004 Lawson [nation]V i s a C a s h A p p R B[/nation]
 000 Zhou [nation]S a u b e r[/nation]
 000 Sargeant [nation]W i l l i a m s[/nation]
 000 Bottas [nation]S a u b e r[/nation]
