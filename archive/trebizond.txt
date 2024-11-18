@@ -1,7 +1,8 @@
-[b]Welcome to Trebizond, the Empire of all the East!
+[b]| [color=scarlet]STATE OF THE GRAND KOMNENOS[/color] |[/b]
+[b]Welcome to [nation]Trebizond[/nation], the Empire of all the East!
 [hr]
 
-[list][*]Official name: [nation=long]Trebizond[/nation]
+[list][*]Official name: State of the Grand Komnenos
 [*]Ruling Family: [nation=long]Komnenos[/nation]
 [*]Colonies: 
 [list][*][nation=long]Perateia[/nation]
@@ -10,4 +11,4 @@
 
 [hr]
 
-&amp;#916;&amp;#972;&amp;#958;&amp;#945; &amp;#963;&amp;#964;&amp;#951;&amp;#957; &amp;#932;&amp;#961;&amp;#945;&amp;#960;&amp;#949;&amp;#950;&amp;#959;&amp;#973;&amp;#957;&amp;#964;&amp;#945;! Glory to Trebizond![/b]
+[color=scarlet]&amp;#916;&amp;#972;&amp;#958;&amp;#945; &amp;#963;&amp;#964;&amp;#951;&amp;#957; &amp;#932;&amp;#961;&amp;#945;&amp;#960;&amp;#949;&amp;#950;&amp;#959;&amp;#973;&amp;#957;&amp;#964;&amp;#945;! Glory to Trebizond![/b][/color]
