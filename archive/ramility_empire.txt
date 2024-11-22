@@ -3,9 +3,10 @@ Welcome to the Ramility Empire. We were once known as the Kingdom of Ramility, b
 Monarch: [nation]The Goh Dynasty[/nation]
 Heir: [nation]Great Goh Nation[/nation]
 
+Imperial Chancellor of the Senate: [nation]Royal Wakanda[/nation]
+
 Cabinet Members
 Prime Minister: [nation]Bonted Breeopia[/nation]
-Deputy Prime Minister: [nation]Lorafi[/nation]
 Minister of Defence: [nation]Grand Imperial Korea[/nation]
 Minister of Justice: [nation]Grand Lumui[/nation]
 Minister of Finance: [nation]Farkle Nation[/nation]
