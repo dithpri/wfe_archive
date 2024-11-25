@@ -1,1 +1,8 @@
-In 2024, Western Balkania&#146;s Corruption Perception Index score was 75/100.
+[i]In 2024, Western Balkania&#146;s Corruption Perception Index score was 75/100.[/i]
+
+A puppet region for [nation]Western Balkania[/nation]&#39;s random accounts.
+
+[region]The Federal Ministry of Defence[/region]
+[region]The Federal Ministry of Intelligence[/region]
+[region]The Federal Ministry of Justice[/region]
+[region]Western Balkan Corruption[/region]

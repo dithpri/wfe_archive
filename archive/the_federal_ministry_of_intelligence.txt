@@ -1,2 +1,9 @@
 [i]Veritas Liberat
 The Truth Liberates[/i]
+
+A puppet region for [nation]Western Balkania[/nation]&#39;s domestic &amp; foreign intelligence activities.
+
+[region]The Federal Ministry of Defence[/region]
+[region]The Federal Ministry of Intelligence[/region]
+[region]The Federal Ministry of Justice[/region]
+[region]Western Balkan Corruption[/region]
