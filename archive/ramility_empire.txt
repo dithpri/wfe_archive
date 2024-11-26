@@ -1,11 +1,13 @@
 Welcome to the Ramility Empire. We were once known as the Kingdom of Ramility, but after the final member nation collapsed, the entire Kingdom fell and now a new Faction has been formed, also known as the Ramility Empire.
 
+[b]The Monarchy:[/b]
 Monarch: [nation]The Goh Dynasty[/nation]
 Heir: [nation]Great Goh Nation[/nation]
 
+[b]The Imperial Senate[/b]
 Imperial Chancellor of the Senate: [nation]Royal Wakanda[/nation]
 
-Cabinet Members
+[b]The Cabinet[/b]
 Prime Minister: [nation]Bonted Breeopia[/nation]
 Minister of Defence: [nation]Grand Imperial Korea[/nation]
 Minister of Justice: [nation]Grand Lumui[/nation]
