@@ -4,6 +4,6 @@ The Truth Liberates[/i]
 A puppet region for [nation]Western Balkania[/nation]&#39;s domestic &amp; foreign intelligence activities.
 
 [region]The Federal Ministry of Defence[/region]
-[region]The Federal Ministry of Intelligence[/region]
-[region]The Federal Ministry of Justice[/region]
+[b][region]The Federal Ministry of Intelligence[/region][/b]
+[region]The Federal Ministry of Law and Security[/region]
 [region]Western Balkan Corruption[/region]

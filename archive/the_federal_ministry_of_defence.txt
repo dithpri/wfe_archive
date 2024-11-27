@@ -3,7 +3,7 @@ Upholding The Righteous[/i]
 
 A puppet region for [nation]Western Balkania[/nation]&#39;s military forces &amp; defence.
 
-[region]The Federal Ministry of Defence[/region]
+[b][region]The Federal Ministry of Defence[/region][/b]
 [region]The Federal Ministry of Intelligence[/region]
-[region]The Federal Ministry of Justice[/region]
+[region]The Federal Ministry of Law and Security[/region]
 [region]Western Balkan Corruption[/region]

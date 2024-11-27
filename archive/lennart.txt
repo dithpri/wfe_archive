@@ -5,8 +5,7 @@ Hi, I&#39;m [nation=noflag]Lennart[/nation]
 My main nations:
 
 [nation]Avalon[/nation] in [region]The North Pacific[/region]
-[nation]Alexandria[/nation] in [region]Union of Christian Nations[/region]
-[nation]Anglia[/nation] and [nation]Wels[/nation] (the glitched nation) in [region]Sophia[/region]
+[nation]Alexandria[/nation] and [nation]Anglia[/nation] in [region]Union of Christian Nations[/region]
 
 My main Regions:
 

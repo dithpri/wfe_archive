@@ -1,3 +1,9 @@
-[b]Madison[/b]
-
-Capital city of Wisconsin
+[color=009000][b]Madison[/b], Wisconsin
+[/color][color=543210]
+Capital city of the state of Wisconsin
+[/color][color=olive]
+REGION
+Founded: 2024 Nov 24
+a [region=United States of America] region
+[/color][color=009000]
+Embassy Offers Welcome[/color]
