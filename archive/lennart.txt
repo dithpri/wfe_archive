@@ -1,13 +1,15 @@
 &amp;#9876;&amp;#65039; [i]In serving each other we become free[/i] &amp;#9876;&amp;#65039;
 
-Hi, I&#39;m [nation=noflag]Lennart[/nation]
+[color=midnightblue][b]Hi, I&#39;m [nation=noflag]Lennart[/nation][/b][/color]
 
-My main nations:
+[*][b]Main Nations:[/b]
 
 [nation]Avalon[/nation] in [region]The North Pacific[/region]
-[nation]Alexandria[/nation] and [nation]Anglia[/nation] in [region]Union of Christian Nations[/region]
+[nation]Alexandria[/nation] in [region]Union of Christian Nations[/region]
+[nation]Anglia[/nation] in [region]the Outback[/region]
+[nation]Wels[/nation], the glitched Nation, in [region]the Plains of Perdition[/region]
 
-My main Regions:
+[*][b]Main Regions:[/b]
 
 [region]Lennart[/region]
 [region]Isle of Avalon[/region]
