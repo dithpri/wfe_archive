@@ -2,14 +2,14 @@
 [b]Leadership:
 
 [list][*]Speaker of the House: [nation]Santa Marana[/nation] ([color=Red]TAP[/color])[/b]
-[list][*]Deputy Speaker: [nation]Vacant[/nation] [b]([color=Gray]IND[/color])[/b][/list][/list]
+[list][*]Deputy Speaker: [nation]Vacant[/nation] [b]([color=Gray]N/A[/color])[/b][/list][/list]
 
 [b][list][*]Prime Minister: [nation]The Ambis[/nation] ([color=CA8AFF]BAC[/color])[/b]
 [list][*]Minister of Domestic Affairs: [nation]Islonia[/nation] [b]([color=Gray]IND[/color][/b])
 [*]Minister of Foreign Affairs: [nation]Snowflame[/nation] [b]([color=Red]TAP[/color])[/b]
 [*]Minister of Cultural Affairs: [nation]Gudetamia[/nation] [b]([color=Gray]IND[/color])[/b][/list][/list]
 
-[b][list][*]Leader of the Opposition: [nation]Toerana V[/nation] ([color=Gray]IND[/color])[/b]
+[b][list][*]Leader of the Opposition: [nation]Toerana V[/nation] ([color=Lime]PTD[/color])[/b]
 [list][*]Shadow Minister of Domestic Affairs: [nation]Vacant[/nation] ([b][color=Gray]N/A[/color][/b])
 [*]Shadow Minister of Foreign Affairs: [nation]Vacant[/nation] [b]([color=Gray]N/A[/color])[/b]
 [*]Shadow Minister of Culture: [nation]Vacant[/nation] [b]([color=Gray]N/A[/color])[/b][/list][/list]

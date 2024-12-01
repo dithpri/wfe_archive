@@ -22,8 +22,8 @@
 
 &amp;#127810; [color=#FF7043][b]WA Recommendations:[/b][/color]
 [list]
-[*] [b][color=#D32F2F]General Assembly:[/color][/b] [url=page=ga][color=green][b]FOR[/b][/color][/url]
-[*] [b][color=#D32F2F]Security Council:[/color][/b] [url=page=sc][color=green][b]FOR[/b][/color][/url]
+[*] [b][color=#D32F2F]General Assembly:[/color][/b] [url=page=ga][color=red][b]AGAINST[/b][/color][/url]
+[*] [b][color=#D32F2F]Security Council:[/color][/b] [url=page=sc][color=red][b]AGAINST[/b][/color][/url]
 [/list]
 
 [hr]
