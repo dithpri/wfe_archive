@@ -3,7 +3,7 @@ Encountered a Chimore in the wild? That&#39;s [nation]East Chimore[/nation]/Aris
 [list][*][nation]East Chimore[/nation]:[list][*][region]Lair of the Dragon[/region] | The Silver Dragon, Regional Governor and Leader[/list]
 [*][nation]West Chimore[/nation]:[list][*][region]raider org[/region] | Raiding Battlemain. Fear her, run from her, she arrives all the same.[/list]
 [*][nation]Central Chimore[/nation]:[list][*][region]The Brotherhood of Malice[/region] | Senior Assassin[/list]
-[*][nation]North Chimore[/nation]:[list][*][region]Refugia[/region] | Resident[/list]
+[*][nation]North Chimore[/nation]:[list][*][region]Chimore[/region] | Resident[/list]
 [*][nation]South Chimore[/nation]:[list][*][region]Kantrias[/region] | Head Librarian[/list]
 [*][nation]Chimore[/nation]:[list][*][region]Chimore[/region] | Ego Region Founder[/list]
 [*][nation]Vendiagram[/nation]:[list][*][region]Alex[/region] | Task Failed Successfully[/list]

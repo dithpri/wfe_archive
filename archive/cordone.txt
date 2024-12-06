@@ -1,18 +1,30 @@
+[hr][table=plain]
+[tr][td=r4]
 [b]Welcome to [colour=#0062b3]Cordone[/b][/colour], your shelter from the storm.
-[hr][url=https://discord.gg/SR6qRq3zJq][b][colour=#0062b3]Discord[/b][/colour][/url] | [url=https://www.nationstates.net/page=dispatch/id=2584457][b][colour=#0062b3]Erene: 2000[/colour][/b][/url] | [url=https://www.nationstates.net/page=dispatch/id=2583128][b][colour=#0062b3]RMB Guidelines[/colour][/b][/url] | [url=https://www.nationstates.net/page=dispatch/id=2583123][b][colour=#0062b3]Guidebook to Cordone[/colour][/b][/url]
-[hr][colour=#0062b3][b]I&#39;m new here, what should I do?[/b][/colour]
+
+[hr]
+[colour=#0062b3][b]I&#39;m new here, what should I do?[/b][/colour]
 [list][*] Introduce yourself to the RMB!
 [*] Join the WA and endorse Delegate [nation]Empire of Dabiristan[/nation] to protect our region. A strong WA delegate is a safe Cordone.
 [*] Join Erene, our official roleplay map!
 [/list]
-[hr][colour=#0062b3][b]Endorsement Cap: 5[/b][/colour]
-[hr][colour=#0062b3][b]Regional Happenings[/b][/colour]
-[list][*] [url=https://www.nationstates.net/page=dispatch/id=2584457]Erene&#39;s claims are now open![/url] Join the map today.
+[hr]
+[colour=#0062b3][b]Endorsement Cap: 5[/b][/colour]
+[i]Offenders will be ejected from the region.[/i][/td][/tr]
+
+[tr][td]
+[colour=#0062b3][b]Regional News[/b][/colour]
+[list][*] [url=https://cordone.miraheze.org/wiki/Main_Page]We now have a wiki![/url] Use it for collecting your lore or for learning more about the inner workings of the region!
 [*] For a limited time, all nations on Erene: 2000 can expand their borders every two weeks! Jump on this chance now while you still can!
-[*] [url=https://i.ibb.co/Lnxh4pR/ERENE-RIVERS.png]Erene now has a rivers map![/url]
-[/list]
-[hr][colour=#0062b3][b]WA Recommendations[/b][/colour]
+[/list][/td][/tr]
+
+[tr][td][hr]
+[colour=#0062b3][b]WA Recommendations[/b][/colour]
 [list][*][url=https://www.nationstates.net/page=ga][b]GA[/b][/url]: [colour=green]FOR[/colour]
-[*][url=https://www.nationstates.net/page=sc][b]SC[/b][/url]: [colour=red]AGAINST[/colour]
-[/list]
-[hr][colour=#0062b3][i]Cordone welcomes all with open arms.[/i][/colour]
+[*][url=https://www.nationstates.net/page=sc][b]SC[/b][/url]: [colour=green]FOR[/colour]
+[/list][/td][/tr]
+[/table]
+
+[hr][url=https://discord.gg/SR6qRq3zJq][b][colour=#0062b3]Discord[/b][/colour][/url] | [url=https://www.nationstates.net/page=dispatch/id=2584457][b][colour=#0062b3]Erene: 2000[/colour][/b][/url] | [url=https://www.nationstates.net/page=dispatch/id=2583128][b][colour=#0062b3]RMB Guidelines[/colour][/b][/url] | [url=https://www.nationstates.net/page=dispatch/id=2583123][b][colour=#0062b3]Guidebook to Cordone[/colour][/b][/url] | [url=https://cordone.miraheze.org/wiki/Main_Page][b][colour=#0062b3]Cordone Wiki[/colour][/b][/url]
+
+[hr][i][color=#F11894]C[/color][color=#F01D8E]o[/color][color=#F02389]r[/color][color=#F02883]d[/color][color=#F02E7E]o[/color][color=#EF3478]n[/color][color=#EF3973]e[/color] [color=#EF4468]w[/color][color=#EE4A62]e[/color][color=#EE505D]l[/color][color=#EE5557]c[/color][color=#EE5B52]o[/color][color=#EE604C]m[/color][color=#ED6647]e[/color][color=#ED6C41]s[/color] [color=#ED7736]a[/color][color=#EC7D31]l[/color][color=#DF7B38]l[/color] [color=#C57846]w[/color][color=#B8774D]i[/color][color=#AB7554]t[/color][color=#9D745C]h[/color] [color=#83716A]o[/color][color=#766F71]p[/color][color=#696E78]e[/color][color=#5C6C7F]n[/color] [color=#41698E]a[/color][color=#346895]r[/color][color=#27669C]m[/color][color=#1A65A3]s[/color][color=#0D63AA].[/color][/i]
