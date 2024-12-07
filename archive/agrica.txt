@@ -1,1 +1,1 @@
-The region that updates right after [region]Suspicious[/region].
+A region that updates after [region]Suspicious[/region].
