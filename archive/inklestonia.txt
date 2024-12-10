@@ -1,17 +1,6 @@
-[b]Region of [region]Inklestonia[/region][/b]
-[hr]
+[b][color=blood]The Region of Inklestonia[/color][/b]
 
-[b]Denonym: [color=brown]Inklestonian[/color][/b]
-[hr]
-
-[b]Member Nations:[/b] 
-The Principality of [nation]Teutonfarten[/nation]
-The People&#39;s Republic of [nation]Solaskerat[/nation]
-The Democratic States of [nation]Southern Antoublia[/nation]
-The Holy Empire of [nation]Shenakharia[/nation]
-The Disputed Territories of [nation]Northern Antoublia[/nation]
-The Kingdom of [nation]Cunus[/nation]
-The Holy Empire of [nation]Zazpz[/nation]
-[hr]
-[b]Our [color=#7289da]Discord Server:[/color] https://discord.gg/bYKvVUnEJU[/b]
-
+[b]Nation Members:[/b]
+[nation]Southern Antoublia[/nation]
+[nation]Solaskerat[/nation]
+[nation]Northern Antoublia[/nation]

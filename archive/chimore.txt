@@ -1,9 +1,10 @@
-Encountered a Chimore in the wild? That&#39;s [nation]East Chimore[/nation]/Aristophana! Below are the mains, where they are, and what they&#39;re doing, in order of importance. 
+Encountered a Chimore in the wild? That&#39;s [nation]East Chimore[/nation]/Aristophana! 
 
-[list][*][nation]East Chimore[/nation]:[list][*][region]Lair of the Dragon[/region] | The Silver Dragon, Regional Governor and Leader[/list]
-[*][nation]West Chimore[/nation]:[list][*][region]raider org[/region] | Raiding Battlemain. Fear her, run from her, she arrives all the same.[/list]
-[*][nation]Central Chimore[/nation]:[list][*][region]The Brotherhood of Malice[/region] | Senior Assassin[/list]
-[*][nation]North Chimore[/nation]:[list][*][region]Chimore[/region] | Resident[/list]
-[*][nation]South Chimore[/nation]:[list][*][region]Kantrias[/region] | Head Librarian[/list]
-[*][nation]Chimore[/nation]:[list][*][region]Chimore[/region] | Ego Region Founder[/list]
-[*][nation]Vendiagram[/nation]:[list][*][region]Alex[/region] | Task Failed Successfully[/list]
+[table][tr][td=3][i]Behold, East Chimore and the Cardinals of Chimore, where they reside, and what their purpose abroad is[/i][/td][/tr]
+[tr][td][nation]East Chimore[/nation][/td][td][region]Lair of the Dragon[/region][/td][td]The Silver Dragon, Regional Governor and Leader[/td][/tr]
+[tr][td][nation]Central Chimore[/nation][/td][td][region]The Brotherhood of Malice[/region][/td][td]Senior Assassin[/td][/tr]
+[tr][td][nation]South Chimore[/nation][/td][td][region]Kantrias[/region][/td][td]Head Librarian[/td][/tr]
+[tr][td][nation]North Chimore[/nation][/td][td][region]The Black Hawks[/region][/td][td]Resident[/td][/tr]
+[tr][td][nation]West Chimore[/nation][/td][td][region]raider org[/region][/td][td]Raiding Battlemain. Fear her, run from her, she arrives all the same.[/td][/tr]
+[tr][td][nation]Chimore[/nation][/td][td][region]Chimore[/region][/td][td]Ego Region Founder[/td][/tr]
+[tr][td][nation]Vendiagram[/nation][/td][td][region]Alex[/region][/td][td]Task Failed Successfully[/td][/tr][/table]
