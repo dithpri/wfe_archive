@@ -1,18 +1,16 @@
-[hr][hr][list][color=00477e][b]Las Vegas[/b][/color][/list][hr][hr]
-
-[color=004d33][I]The Entertainment Capital of the World[/I]
-
-FACTS[list][b]Las Vegas[/b], [region=Nevada], [region=United States of America].
-Area: 141.91 sq mi city
-Population: 641,903 (2020) Rank: 25th in US; 1st in NV
-Established: 1905 May 15
-Incorporated: 1911 Mar 16[/color][/list]
-
-[color=696900]REGION[list]
+[color=009000][b]Las Vegas[/b], [region=Nevada]
+[/color][color=543210]
+FACTS
+The Entertainment Capital of the World
+most populous city in [region=Nevada]
+[b]Area:[/b] 141.91 sq mi city
+[b]Population:[/b] 641,903 (2020) Rank: 25th in US; 1st in NV
+[b]Established:[/b] 1905 May 15
+[b]Incorporated:[/b] 1911 Mar 16
+[/color][color=olive]
+REGION
 [b]Founded:[/b] 2014 Feb 18
-[b]Matrixed:[/b] 2020 Nov 30
-[b]Featured:[/b] 2023 Jun 26[/color][color=900009]
-[b]Sister Region:[/b] [region=Nevada]
-an [region=Old Spirit] of the [region=United States of America] allied region[/list][/color]
-
-[hr][hr][list][color=004d33][b]Embassy Offers Accepted[/b][/color][/list][hr][hr]
+[b]Featured:[/b] 2023 Jun 26
+a [region=United States of America] region
+[/color][color=009000]
+[b]Embassy Offers Welcome[/b][/color]

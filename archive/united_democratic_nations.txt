@@ -22,7 +22,7 @@
 [Hr]
 [Color=blue][u]World Assembly Vote Recommendations[/u]:[/color]
 
-GA: [color=grey][b]Pending[/b][/color]
+GA: [color=red][b]Against[/b][/color]
 SC: [color=green][b]For[/b][/color] 
 [Hr]
 Quote of the week: 

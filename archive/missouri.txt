@@ -1,13 +1,17 @@
-[color=navy][b]Gateway to the West
-
+[color=008000][b]Gateway to the West
+[/color][color=543210]
 Missouri[/b] is a state in the Midwestern region of the [region=United States of America],
 part of the Louisiana Purchase (from France 1803), 
 which on June 4, 1812 was renamed Missouri Territory to end confusion with Louisiana State.
 Admitted as the 24th state on the 10th August 1821.
-
-Capital - Jefferson City
-Area - 69,704 sq mi
-Population - 5,842,713
-
-Visitors, Welcome to Missouri.
-a [region=United States of America] region[/color]
+[/color][color=00477e]
+[b]Capital[/b] - [region=Jefferson City]
+[b]Area[/b] - 69,704 sq mi
+[b]Population[/b] - 5,842,713
+[/color][color=olive]
+REGION
+[b]Estimated Founding Date[/b] 2005 May 22 (Very Old)
+a [region=United States of America] region
+[/color][color=008000]
+Visitors are Welcome
+[b]Embassy Offers Welcome[/b][/color]

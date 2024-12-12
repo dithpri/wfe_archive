@@ -1,8 +1,10 @@
-[color=00477e][b]Pittsburgh[/b]
-[/color][color=166432]
+[color=009000][b]Pittsburgh[/b], [region=Pennsylvania]
+[/color][color=543210]
+second-most populous city in [region=Pennsylvania]
 a large industrial city located in Western [region=Pennsylvania]
-[/color][color=474700]
+[/color][color=olive]
 REGION
 [b]Founded:[/b] 2016 June 17
-[/color][color=004d33]
+a [region=United States of America] region
+[/color][color=009000]
 [b]Embassy Offers Welcome[/b][/color]

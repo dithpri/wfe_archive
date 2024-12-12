@@ -1,5 +1,10 @@
-[color=green][b]Raleigh[/b], [region=North Carolina]
-
+[color=009000][b]Raleigh[/b], [region=North Carolina]
+[/color][color=543210]
+capital city of the state of [region=North Carolina]
+second-most populous city in [region=North Carolina] after [region=Charlotte]
+[/color][color=olive]
+REGION
 [b]Founded:[/b] 2024 Jul 10
-
-[b]Embassy offers will be accepted[/b][/color]
+a [region=United States of America] region
+[/color][color=009000]
+[b]Embassy Offers Welcome[/b][/color]

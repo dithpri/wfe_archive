@@ -1,5 +1,12 @@
-[color=654321][b]WELCOME[/b]
-[/color][color=darkgreen][b]
-Seattle[/b], [region=Washington], [region=United States of America][/color]
-
-[color=008000]Embassy offers accepted[/color]
+[color=009000][b]Seattle[/b], [region=Washington]
+[/color][color=543210]
+FACTS
+most populous city in the state of [region=Washington]
+also most-populous city in the Pacific Northwest
+[b]Population:[/b] 755,078
+[/color][color=olive]
+REGION
+[b]Founded:[/b] 2011 Mar 18
+a [region=United States of America] region
+[/color][color=009000]
+[b]Embassy Offers Welcome[/b][/color]

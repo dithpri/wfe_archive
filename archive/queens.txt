@@ -1,10 +1,5 @@
-[color=blue][b]Queens[/b]
-a [region=New York State] region
-[/color][color=green]
-[b]Welcome[/b]
-
-Embassy Offers are welcome
-[/color][color=navy]
+[color=009000][b]Queens[/b], [region=New York State]
+[/color][color=543210]
 FACTS
 the easternmost of the five boroughs of [region=City of New York]
 Home of JFK and LaGuardia, making the airspace above Queens the busiest
@@ -15,8 +10,11 @@ Originally part of the New Netherland colony settlements (1635)
 - Maspeth (1642) and Vlissingen (1643)
 Captured by English (1664) the area was called Yorkshire
 Queens Borough was established 1898 Jan 1.
-Queens County and Queens Borough became coterminous 1889[/color]
-[color=006633]
+Queens County and Queens Borough became coterminous 1889
+[/color][color=olive]
+REGION
 [b]Founded:[/b] 2017 Apr 28
 [b]Featured:[/b] 2019 Apr 21
-a [region=United States of America] region[/color]
+a [region=United States of America] region
+[/color][color=009000]
+[b]Embassy Offers Welcome[/b][/color]

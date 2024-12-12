@@ -1,5 +1,5 @@
-[color=004d33][b]Nashville[/b], Tennessee
-[/color][color=4d3316]
+[color=009000][b]Nashville[/b], Tennessee
+[/color][color=543210]
 Capital of Country Music
 Home of Grand Ole Opry
 Tennessee Titans (NFL)
@@ -7,6 +7,7 @@ Nashville Predators (NHL)
 Vanderbilt University
 [/color][color=00477e]
 FACTS
+Capital and Largest city of Tennessee
 [b]Founded:[/b] 1779
 [b]Incorporated:[/b] 1806
 [b]Population:[/b] 692,587 (2018)
@@ -15,6 +16,6 @@ FACTS
 REGION
 [b]Founded:[/b] 2016 June 19
 [b]Featured:[/b] 2021 Dec 13
-an [region=Ancient Lands] region
-[/color][color=004d33]
+a [region=United States of America] region
+[/color][color=009000]
 Embassy Offers Accepted[/color]

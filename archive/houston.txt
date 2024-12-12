@@ -1,10 +1,13 @@
-[table][tr][td][color=006432][b]Houston[/b][/color][/td][/tr]
-[/table][table]
-[tr][td]FACTS[/td][td]REGION[/td][/tr]
-[tr][td][color=green][b]Population:[/b] 2,320,268 (2019)
-Largest city in Texas, 4th largest in [region=United States of America][/color][/td]
-[td][color=olive][b]Founded:[/b] 2016 June 19
+[color=009000][b]Houston[/b], Texas
+[/color][color=543210]
+FACTS
+most populous city in [region=Texas]
+4th largest city in [region=United States of America]
+[b]Population:[/b] 2,320,268 (2019)
+[/color][color=olive]
+REGION
+[b]Founded:[/b] 2016 June 19
 [b]Featured:[/b] 2023 Sep 25
-an [region=Ancient Lands] region[/color][/td][/tr]
-[/table][table]
-[tr][td][color=004d33][b]Embassy Offers Welcome[/b][/color][/td][/tr][/table]
+a [region=United States of America] region
+[/color][color=009000]
+[b]Embassy Offers Welcome[/b][/color]
