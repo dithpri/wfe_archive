@@ -8,9 +8,9 @@ We have found true success as an embassy collector and achieved the following mi
 
 These nations&#39; service as governor led us to the following embassy totals:
 0-189: [nation]Pygania[/nation]
-190: [nation]Kumari Nadu[/nation]
+190: [nation]Kumari Nadu[/nation] ([region]Hurricane 12[/region])
 191-211: [nation]The Free Black Republic[/nation]
-212: [nation]Samadian Republic[/nation]
+212: [nation]Samadian Republic[/nation] ([region]Oceania Region[/region])
 213-2200+: [nation]The Free Black Republic[/nation]
 
 [b][i]***We accept all embassy requests***[/i][/b]
