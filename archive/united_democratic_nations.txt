@@ -1,4 +1,4 @@
-[Color=red]Welcome to the United Democratic Nations![/color]
+[Color=red][b]Welcome to the United Democratic Nations![/b][/color]
 
 [Color=green]When you join please:[/color]
 1. Join the World Assembly here: https://www.nationstates.net/page=un
@@ -22,7 +22,7 @@
 [Hr]
 [Color=blue][u]World Assembly Vote Recommendations[/u]:[/color]
 
-GA: [color=red][b]Against[/b][/color]
+GA: [color=green][b]For[/b][/color]
 SC: [color=green][b]For[/b][/color] 
 [Hr]
 Quote of the week: 

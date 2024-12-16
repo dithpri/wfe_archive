@@ -1,0 +1,1 @@
+A monad is a monoid in the category of endofunctors.
