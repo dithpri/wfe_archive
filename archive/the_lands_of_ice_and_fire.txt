@@ -1,17 +1,2 @@
-[b][region]The Lands of Ice and Fire[/region][/b] are a [b][u][color=blue]SPOILER HEAVY WORLD[/color][/u][/b] composed of at least three continents ([b][color=green]Westeros[/color], [color=green]Essos[/color],[/b] and [b][color=green]Sothoryos[/color][/b]), a large landmass ([b][color=green]Ulthos[/color][/b]), and a number of many smaller islands.
-
-[b][region]The Lands of Ice and Fire[/region][/b] were co-founded by: [b][u][nation=short]The Warden of the North[/nation][/u][/b], [b][u][nation=short]Feather Drakes[/nation][/u][/b] and [u][b][nation=short]Thanagor[/nation][/u][/b].
-
-[b][region]The Lands of Ice and Fire[/region][/b] are currently ruled by the [b][color=gold]King of the Andals, the Rhoynar and the First Men[/color], [color=gold]Lord of the Seven Kingdoms[/color] and [color=gold]Protector of the Realm[/color][/b]: [b][u][nation=short]Feather Dragons[/nation][/u][/b] with the following [b][color=red]Small Council[/color][/b] members:
-
-[list=A]
-[*][b][color=brown]Hand of the King[/b][/color]: N/A
-[*][b]Lord Commander of the Kingsguard[/b]: N/A
-[*][b][color=yellow]Master of Coin[/b][/color]: N/A
-[*][b][color=cyan]Master of Laws[/b][/color]: N/A
-[*][b][color=orange]Master of Whisperers[/b][/color]: N/A
-[*][b][color=purple]Master of Ships[/b][/color]: N/A
-[*][b][color=burgundy]Grand Maester[/b][/color]: N/A
-[/list]
-
-For Entry to [b][region]The Lands of Ice and Fire[/region][/b] contact [b][u][nation=short]The Warden of the North[/nation][/u][/b].
+[u][b]The Lands of Ice and Fire[/b][/u]
+The known world is composed of at least three continents ([region]Westeros[/region], [region]Essos[/region], and [region]Sothoryos[/region]), a large landmass ([region]Ulthos[/region]), and a number of many smaller islands. None of the four major landmasses have been completely mapped, and much of the world remains unexplored. While the maesters of [region]Westeros[/region] know a good deal about the lands to the far east, distance is still an issue, and past a certain point myths and legends become a factor in their records.
