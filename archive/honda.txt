@@ -7,11 +7,11 @@ Probably NationStates largest Honda related region. And also [nation]7 Trees[/na
 [i]8 legendries and counting.[/i]
 
 [b]Engine Stats:[/b]
-Current State: [color=green][b]Eco[/b][/color]
+Current State: [color=brown][b]Stopped[/b][/color]
 Rpm: 48 card packs per day (27/3/24 at 52 nations)
 Power: 8 Legendries
 Torque: 79 Nations
-Economy: 79 Nations Farmed Today
+Economy: 0 Nations Farmed Today
 Transmission: Automatic
 [hr][b]Guide to Honda Stats:[/b]
 [color=red][b]Speeding[/b][/color]=Farming Everyday, All Nations
