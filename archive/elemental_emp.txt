@@ -1,7 +1,7 @@
-Nations currently in the region, in order:
+Nations currently in the region, by population:
 x[nation=long]Alticors Pordes[/nation]
-[nation=long]Poplee[/nation] - (referred to as South Poplee)
 [nation=long]Akarksben[/nation]
+[nation=long]Poplee[/nation] - (referred to as South Poplee)
 x[nation=long]Peripheri[/nation]
 [nation=long]North Poplee[/nation]
 [nation=long]Niesas Calia[/nation]

@@ -6,5 +6,3 @@ Instead of having WA delegates, we vote for Consul on polls. The consul has the 
 In case of an emergency, the current consul would stay as consul until the emergency is over.
 When the term is over, the former governing party has to resign, and the next poll begins!
 [hr]
-Join the discord here! ^^
-https://discord.gg/PZ9ajFYxVN
