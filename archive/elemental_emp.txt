@@ -1,7 +1,11 @@
-Nations currently in the region, by population:
-x[nation=long]Alticors Pordes[/nation]
-[nation=long]Akarksben[/nation]
-[nation=long]Poplee[/nation] - (referred to as South Poplee)
-x[nation=long]Peripheri[/nation]
-[nation=long]North Poplee[/nation]
-[nation=long]Niesas Calia[/nation]
+Nations currently in the region, by age:
+
+x[nation=long]Alticors Pordes[/nation] - (founded 20-Jun-2022 10:51:36)
+xx[nation=long]Poplee[/nation] - (founded 20-Jun-2022 23:23:50, referred to as South Poplee)
+[nation=long]Akarksben[/nation] - (founded 20-Jun-2022 23:29:20)
+
+x[nation=long]Peripheri[/nation] - (founded 17-Mar-2023 16:18:01)
+
+xx[nation=long]North Poplee[/nation] - (founded 10-Aug-2023 19:18:21)
+
+[nation=long]Niesas Calia[/nation] - (founded 12-Aug-2023 04:57:10)
