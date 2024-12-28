@@ -6,5 +6,6 @@ Encountered a Chimore in the wild? That&#39;s [nation]East Chimore[/nation]/Aris
 [tr][td][nation]South Chimore[/nation][/td][td][region]Kantrias[/region][/td][td]Head Librarian[/td][/tr]
 [tr][td][nation]North Chimore[/nation][/td][td][region]The Black Hawks[/region][/td][td]Private First Class[/td][/tr]
 [tr][td][nation]West Chimore[/nation][/td][td][region]raider org[/region][/td][td]Raiding Battlemain. Fear her, run from her, she arrives all the same.[/td][/tr]
+[tr][td][nation]Old Chimore[/nation][/td][td][region]Merciam[/region][/td][td]Marchionix of Germania[/td][/tr]
 [tr][td][nation]Chimore[/nation][/td][td][region]Chimore[/region][/td][td]Ego Region Founder[/td][/tr]
 [tr][td][nation]Vendiagram[/nation][/td][td][region]Alex[/region][/td][td]Task Failed Successfully[/td][/tr][/table]

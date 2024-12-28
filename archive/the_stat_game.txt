@@ -4,7 +4,7 @@
 3rd:
 4th:
 5th:
-6th:
+6th: [nation]The Stat Game[/nation] ([nation]The Western European Commonwealth[/nation])
 7th: [nation]Hero in E[/nation] ([nation]Leviggo[/nation])
 8th: [nation]Rovaniemi National Stat Office[/nation] ([nation]Rovaniemi and Inari[/nation])
 
