@@ -6,23 +6,48 @@ Based on the strategy political video game Suzerain by Torpor Games&#153;&amp;#6
 
 [nation]Sordland Union[/nation]
 [nation]Agnolia State[/nation]
-[nation]Rumbergs[/nation]
+[nation]Rumbergs[/nation] [ also in North Merkopa ]
 [nation]Lespia Confederacy[/nation]
 [nation]United Wehlen[/nation]
 [nation]Socialist Valgsland[/nation]
-
-[b]NORTH MERKOPA[/b]
-
-Markanissa
-
-Baronies of Soradis
-
-Principalities
-
-Nahrburk
-
-Kingdom of Erdmarg
-
-Agard
 [b]
 SOUTH MERKOPA[/b]
+
+[nation]Rrizia[/nation]
+[nation]Kyrutea[/nation]
+[nation]Morella Union[/nation]
+[nation]Free Cities Federation[/nation]
+[nation]Nurist Republic of Derdia[/nation]
+[nation]Grand Duchy of Pales[/nation]
+
+[b]WEST MERKOPA[/b]
+
+[nation]Arcasia Federation[/nation]
+
+[b]CONTANA CONTINENT[/b]
+
+[nation]United Contana Republic[/nation]
+
+[b]XINA CONTINENT[/b]
+
+[nation]Qinal Republic[/nation]
+[nation]Vendonsamaine[/nation]
+
+[b]RIKA CONTINENT[/b]
+
+[nation]Nibiyau[/nation]
+
+[b]POLARIS CONTINENT[/b]
+
+[nation]Nordlandi[/nation]
+
+[b]WULQANISE CONTINENT[/b]
+
+[nation]Yarktralis[/nation]
+
+[b]ANRAKAN ARCHIPELAGO[/b]
+
+[nation]Anrakan Isles[/nation]
+
+
+
