@@ -23,10 +23,10 @@
 
 [hr] 
 
-&amp;#128276; [color=#FF0000]WA Recommendations:[/color]
+&amp;#128276; [color=#FF0000]WA Recs:[/color]
 [list]
-[*] [color=#008000]GA:[/color] [url=https://www.nationstates.net/page=ga][color=green]FOR[/color][/url]
-[*] [color=#008000]SC:[/color] [url=https://www.nationstates.net/page=sc][color=green]FOR[/color][/url]
+[*] [color=#008000]GA:[/color] [url=https://www.nationstates.net/page=ga][color=red]AGAINST[/color][/url]
+[*] [color=#008000]SC:[/color] [url=https://www.nationstates.net/page=sc][color=red]AGAINST[/color][/url]
 [/list]
 
 [hr]
