@@ -4,12 +4,10 @@
 [u]Alle Mitglieder / [i]All Members[/i]:[/u]
 [nation]Baunien[/nation] - [i]Baunia[/i]
 [nation]Centorissa[/nation] - [i]Centorissa[/i]
-[nation]Great Nils[/nation] - [i]Great Nils[/i]
-[nation]Imperalistisches Japan[/nation] - [i]Imperialist Japan[/i]
 [nation]Nordmain-Ostfalen[/nation] - [i]North Main-Eastphalia[/i]
 [nation]Ostganglien[/nation] - [i]East Ganglia[/i]
 [nation]Schone[/nation] - [i]Schone[/i]
-[nation]Westumbrien[/nation] - [i]Westumbrien[/i]
+[nation]Stolljen[/nation] - [i]Stolljen[/i]
 [nation]Zingganghue[/nation] - [i]Zingganghue[/i]
 
 [u]Gemeinsame Gebiete / [i]Joint territories[/i]:[/u]

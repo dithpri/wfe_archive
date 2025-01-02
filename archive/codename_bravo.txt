@@ -1,0 +1,4 @@
+[I]&amp;lt;access=true&amp;gt;
+    &amp;lt;account=h--------o&amp;gt;
+    &amp;lt;password=....................&amp;gt;
+&amp;lt;/access&amp;gt;[/I]
