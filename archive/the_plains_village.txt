@@ -1,1 +1,5 @@
-A village...
+[b][u][colour=green]Plains [/colour] [colour=gold]village[/colour][/b][/u]
+[Hr]
+[b]Coordinate:[/b] -280 75 -36
+
+[b]Today weather:[/b] rain
