@@ -1,5 +1,5 @@
-[b][u][colour=green]Plains [/colour] [colour=gold]village[/colour][/b][/u]
+[b]&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;[u][colour=green]&amp;#10216;Plains [/colour] [colour=gold]Village&amp;#10217;[/colour][/u]&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;[/b]
 [Hr]
-[b]Coordinate:[/b] -280 75 -36
+[b]Coordinate:[/b] [i]-280 75 -36[/i]
 
-[b]Today weather:[/b] rain
+[b]Today weather:[/b] [colour=blue]Rainy[/colour]
