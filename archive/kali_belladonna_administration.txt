@@ -1,0 +1,2 @@
+This is a puppet storage belonging it [nation]Laderas Rojas[/nation]. 
+All puppets are numbered in a &quot;Kali-####&quot; format.

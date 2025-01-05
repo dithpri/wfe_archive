@@ -4,8 +4,9 @@
 
 [hr]
 
-[b]Commander-in-Chief:[/b] [nation]HIRM Emperor Carlisle I[/nation]
-[b]Admiral of the Fleet:[/b] [nation]HIRM Empress Katherine[/nation]
+[b]HIRM the Emperor:[/b] [nation]HIRM Emperor Carlisle I[/nation]
+[b]HIRM the Empress:[/b] [nation]HIRM Empress Katherine[/nation]
+[b]Admiral of the Fleet:[/b] [nation]HIRH Prince Cobi[/nation]
 
 [hr]
 

@@ -1,4 +1,4 @@
-[I]&amp;lt;access=true&amp;gt;
-    &amp;lt;account=h--------o&amp;gt;
-    &amp;lt;password=....................&amp;gt;
-&amp;lt;/access&amp;gt;[/I]
+[I]&amp;lt;&amp;#120458;&amp;#120460;&amp;#120460;&amp;#120462;&amp;#120476;&amp;#120476;=&amp;#120477;&amp;#120475;&amp;#120478;&amp;#120462;&amp;gt;
+&amp;lt;&amp;#120458;&amp;#120460;&amp;#120460;&amp;#120472;&amp;#120478;&amp;#120471;&amp;#120477;=&amp;#120465;--------&amp;#120472;&amp;gt;
+&amp;lt;&amp;#120473;&amp;#120458;&amp;#120476;&amp;#120476;&amp;#120480;&amp;#120472;&amp;#120475;&amp;#120461;=....................&amp;gt;
+&amp;lt;/&amp;#120458;&amp;#120460;&amp;#120460;&amp;#120462;&amp;#120476;&amp;#120476;&amp;gt;[/I]
