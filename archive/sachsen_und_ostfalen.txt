@@ -8,7 +8,6 @@
 [nation]Ostganglien[/nation] - [i]East Ganglia[/i]
 [nation]Schone[/nation] - [i]Schone[/i]
 [nation]Stolljen[/nation] - [i]Stolljen[/i]
-[nation]Zingganghue[/nation] - [i]Zingganghue[/i]
 
 [u]Gemeinsame Gebiete / [i]Joint territories[/i]:[/u]
 [nation]SOU-Territorium[/nation] - [i]Territory of the SOU[/i]
