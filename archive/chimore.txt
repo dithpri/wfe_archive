@@ -1,10 +1,10 @@
 Encountered a Chimore in the wild? That&#39;s [nation]East Chimore[/nation]/Aristophana! 
 
-[table][tr][td=3][i]Behold, East Chimore and the Cardinals of Chimore, where they reside, and what their purpose abroad is[/i][/td][/tr]
+[table][tr][td=3][i]Behold, East Chimore and the Cardinals of The True Direction, where they reside, and what their purpose abroad is[/i][/td][/tr]
 [tr][td][nation]East Chimore[/nation][/td][td][region]Lair of the Dragon[/region][/td][td]The Silver Dragon, Regional Governor and Leader[/td][/tr]
 [tr][td][nation]West Chimore[/nation][/td][td]Untethered[/td][td]Raiding Battlemain. Fear her, run from her, she arrives all the same.[/td][/tr]
 [tr][td][nation]South Chimore[/nation][/td][td][region]Kantrias[/region][/td][td]Head Librarian[/td][/tr]
-[tr][td][nation]North Chimore[/nation][/td][td][region]The Black Hawks[/region][/td][td]Private First Class[/td][/tr]
+[tr][td][nation]North Chimore[/nation][/td][td][region]The Black Hawks[/region][/td][td]Corporal[/td][/tr]
 [tr][td][nation]Central Chimore[/nation][/td][td][region]The Brotherhood of Malice[/region][/td][td]Devout[/td][/tr]
 [tr][td][nation]Old Chimore[/nation][/td][td][region]Merciam[/region][/td][td]Marchionix of Germania[/td][/tr]
 [tr][td][nation]Chimore[/nation][/td][td][region]Chimore[/region][/td][td]Ego Region Founder[/td][/tr]

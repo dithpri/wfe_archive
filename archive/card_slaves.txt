@@ -1,0 +1,3 @@
+I&#39;ve finally made a puppet storage region for puppets of mine that aren&#39;t aimed at stats, but are rather aimed at cards.
+
+The dispatch attached to the region will explain how the region works.
