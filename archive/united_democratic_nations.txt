@@ -22,8 +22,8 @@
 [Hr]
 [Color=blue][u]World Assembly Vote Recommendations[/u]:[/color]
 
-GA: [color=green][b]Against[/b][/color]
-SC: [color=green][b]For[/b][/color] 
+GA: [color=red][b]Against[/b][/color]
+SC: [color=grey][b]N/A[/b][/color] 
 [Hr]
 Quote of the week: [quote=the_perfect_dictatorship;57915086]IN OTHER NEWS, WE ARE APPARENTLY THE FOURTH MOST UNHAPPY STATE IN THE ENTIRE REGION.[/quote]
 

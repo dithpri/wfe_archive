@@ -1,7 +1,7 @@
 [color=#2B5A9F][b]The High Court of [region]Thaecia[/region][/b][/color]
 
-[color=#2B5A9F][b]Current Case: None[/b][/color] [i]None[/i]
+[color=#2B5A9F][b]Current Case: None[/b][/color]
 
-Chief Justice: [b]N/A[/b]
-Snr Associate Justice: [nation]Ashlawn[/nation]
-Jnr Associate Justice: [nation]Justizpalast[/nation]
+Chief Justice: [b][nation]Ashlawn[/nation][/b]
+Snr Associate Justice: [nation]Justizpalast[/nation]
+Jnr Associate Justice: [nation]Snalland[/nation]
