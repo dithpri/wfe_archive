@@ -1,1 +1,9 @@
-Developing...
+&amp;gt;&amp;gt;kernel.[b]hardline[/b]
+[i]-activating hardline-[/i]
+
+[b]-hardline active-[/b]
+
+&amp;gt;&amp;gt;unidentified_ngfowua.pub_fy7wad {}
+[i]To compromise this system add parameters {}[/i]
+[b]LOCK_ERROR[/b]
+Denied access by Halperyon Systems [b]ez_21[/b] lock.

@@ -3,5 +3,5 @@
 
 [color=blue]WA Recommendations[/color]
 
-General Assembly: [color=blue]Against[/color]
-Security Assembly: [color=red]Against[/color]
+General Assembly: [color=red]Against[/color]
+Security Assembly: [color=green]N/A[/color]

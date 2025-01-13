@@ -1,8 +1,11 @@
-[color=green][b]The Six Counties of Ulster[/b]
-
+[color=004225][b]The Six Counties of Ulster[/b]
+[/color][color=543210]
 AKA Northern Ireland
 The other three counties in Ulster are in the republic of Ireland.
-
-Region Founded: May 13, 2017
-Region Featured: Aug. 27, 2024
-a [region=Westminster] and [region]London[/region] affiliated region[/color]
+[/color][color=666600]
+REGION
+Founded: May 13, 2017
+Featured: Aug. 27, 2024; Jan. 12, 2025
+a [region=Westminster] and [region]London[/region] affiliated region
+[/color][color=00477E]
+[b]Embassy Offers Welcome[/b][/color]
