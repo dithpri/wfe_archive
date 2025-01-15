@@ -1,4 +1,1 @@
-[table][tr][td]Region[/td][td]Series[/td][td]Increments[/td][/tr]
-[tr][td][region]Ribbon[/region][/td][td]Gembox series[/td][td]1-56 + G3M[/td][/tr]
-[tr][td][region]The Great Sea[/region][/td][td]Linkbot series[/td][td]1 - 10 + Outlook Island[/td][/tr]
-[tr][td][region]Initial Singularity[/region][/td][td]Time series[/td][td]1 - 10[/td][/tr][/table]
+...

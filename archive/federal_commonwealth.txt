@@ -1,10 +1,1 @@
-[color=blue][b]Federal Commonwealth[/b][/color]
-
-[color=olive][b]Allied with:[/b][list][/color][color=white][region=Australian Capital Territory] . . . [region=Australia Commonwealth] . . [region=Brisbane]
-[region=Melbourne] . . . . . . . . . . . . . . . [region=Northern Territory] . . . . . . .[region=Queensland]
-[region=South Australia] . . . . . . . . . . . [region=Sydney] . . . . . . . . . . . . . . . [region=Tasmania]
-[region=Victoria] . . . . . . . . . . . . . . . . . [region=Western Australia] . . . . . . . [region=Great Britain and Northern Ireland]
-[region=Ancient Lands] . . . . . . . . . . .. . [region=United States of America] . . [region=0000][/list][/color][color=olive]
-
-[b]Managed by:[/b] [nation=short]Juergen[/nation]
-[b]Founded:[/b] 2018 Sep 02[/color]
+[color=005500][b]Federal Commonwealth[/b][/color]
