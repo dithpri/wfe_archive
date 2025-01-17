@@ -9,9 +9,15 @@
 
 --&amp;gt; Want a government job in the Empire? Fill in [url=https://www.nationstates.net/nation=vador/detail=factbook/id=2591503][color=purple]these[/color][/url] requirements and send it to our WA Delegate [nation]Vador[/nation]!
 
---&amp;gt; current event= [url=https://www.nationstates.net/page=dispatch/id=2602856]Banner/Flag Contest[/url]
 
 --&amp;gt; [color=red]Our endorsement cap= 1[/color][/i]
 [hr]
+--&amp;gt; current event = [url=https://www.nationstates.net/page=dispatch/id=2602856]Banner/Flag Contest[/url]
+
+dsc: create a banner/flag for the empire
+
+until: jan. 23 2025
+
+[hr]
 General Assembly recommendation--&amp;gt; [color=blue]For[/color] [url=https://www.nationstates.net/page=ga]View GA Proposal[/url]
-Security Council recommendation--&amp;gt; [color=grey]None[/color] [url=https://www.nationstates.net/page=sc]View SC Proposal[/url][/b]
+Security Council recommendation--&amp;gt; [color=red]Against[/color] [url=https://www.nationstates.net/page=sc]View SC Proposal[/url][/b]
