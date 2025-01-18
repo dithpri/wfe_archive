@@ -1,13 +1,14 @@
-[b]| [color=scarlet]STATE OF THE GRAND KOMNENOS[/color] |[/b]
-[b]Welcome to [nation]Trebizond[/nation], the Empire of all the East!
+[b][color=scarlet]Welcome to [nation]Trebizond[/nation], the Empire of all the East![/color]
 [hr]
 
-[list][*]Official name: State of the Grand Komnenos
+[list][*]Official name: State of the [nation]Grand Komnenos[/nation]
 [*]Ruling Family: [nation=long]Komnenos[/nation]
+[*]Autonomous Principalities: 
+[list][*][nation=long]Lazetia[/nation]
+[*][nation=long]Theodoro[/nation][/list]
 [*]Colonies: 
-[list][*][nation=long]Perateia[/nation]
-[*][nation=long]New Trebizond[/nation][/list]
-[*]Ally: [nation=long]Theodoro[/nation][/list]
+[list][*][nation=long]New Trebizond[/nation]
+[*][nation=long]Perateia[/nation][/list][/list]
 
 [hr]
 
