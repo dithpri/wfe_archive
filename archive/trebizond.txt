@@ -3,11 +3,19 @@
 
 [list][*]Official name: State of the [nation]Grand Komnenos[/nation]
 [*]Ruling Family: [nation=long]Komnenos[/nation]
+[*]Capital District:
+[list][*][nation=long]Trapezous[/nation][/list]
+[*]Regions:
+[list][*][nation=long]The Pontus[/nation]
+[*][nation=long]Tauris[/nation][/list]
 [*]Autonomous Principalities: 
 [list][*][nation=long]Lazetia[/nation]
 [*][nation=long]Theodoro[/nation][/list]
+[*]Provinces:
+[list][*][nation]Khaldia[/nation], [nation]Limnia[/nation], [nation]Matzouka[/nation], [nation]Paphlagonia[/nation], [nation]Pontika[/nation][/list]
 [*]Colonies: 
-[list][*][nation=long]New Trebizond[/nation]
+[list][*][nation=long]New Pontus[/nation]
+[*][nation=long]New Trebizond[/nation]
 [*][nation=long]Perateia[/nation][/list][/list]
 
 [hr]
