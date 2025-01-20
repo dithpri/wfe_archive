@@ -1,7 +1,9 @@
 &quot;card farm&quot;
 
-owners: [nation]Testinginprogress[/nation], [nation]Thingessness[/nation]
+owner: [nation]Testinginprogress[/nation]
 
 [hr] do work or you die
 
-The only way to get back is to say sorry from the heaven
+The only way to get back is to say sorry from the heaven. 
+
+[hr] [nation]Thingessness[/nation] is demoted to a casual puppet coz why not, he&#39;s useless
