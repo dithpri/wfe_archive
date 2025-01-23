@@ -7,19 +7,19 @@
 [u][color=maroon]Executive:[/color][/u][/b]
 President: [nation]Shenendoah[/nation]
 Vice President: [nation]The Republic of Berick[/nation]
-Attorney General: 
+Attorney General: [nation]Adani[/nation]
 Secretary of State: [nation]TuNasai[/nation]
 
 [color=grey][b][u]Senate:[/u][/b][/color]
 - [nation]Manhassett[/nation]
-- [nation]MalDorAeHan[/nation]
+- [nation]MalDorAeHan[/nation] [i]Speaker[/i]
 - [nation]Vawfiss[/nation]
 - [nation]Libertarian Washington[/nation]
 - [nation]Ahtohallan[/nation]
 
 [color=navy][b][u]Supreme Court:[/color][/b][/u]
-[i]Chief Justice:
-Associate Justice:
-Associate Justice:
+[i]Chief Justice:[/i] [nation]Terhoon[/nation]
+Associate Justice: [nation]Burkai[/nation]
+Associate Justice: [nation]Annanias[/nation]
 [hr][b]GET INVOLVED | [color=ORANGE]Senate: Term I, 2025 [/color][COLOR=PURPLE]| MAP REFORM ONGOING[/COLOR]
 [url=https://www.nationstates.net/nation=tarkin/detail=factbook/id=2602528]Political Parties[/url] |[url=https://www.nationstates.net/nation=tarkin/detail=factbook]Regional Repository[/url] |[/b]
