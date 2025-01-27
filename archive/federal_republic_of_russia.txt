@@ -10,7 +10,8 @@ FACTS
 REGION
 [b]Founded:[/b] 2017 Jun 26
 [b]Puppets:[/b] 2017 Jun 26
-[b]Featured:[/b] 2017 Nov 28; 2018 Dec 13; 2020 July 21
+[b]Featured:[/b] 2017 Nov 28; 2018 Dec 13; 2020 July 21; 2025 Jan 26
 [b]Matrixed:[/b] 2017 Dec 02 (allows embassies)
-an [region=Ancient Lands] region[/color][color=800000]
+an [region=Ancient Lands] region
+[/color][color=005025]
 [b]Embassy Offers Accepted[/b][/color]
