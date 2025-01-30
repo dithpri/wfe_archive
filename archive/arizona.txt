@@ -1,16 +1,21 @@
-[color=556B2F]Welcome to [b]Arizona
-
+[color=000055]Welcome to [b]Arizona
+[/color][color=543210]
 Arizona[/b] is a state located in the southwestern region of the US.
 One of the Seven Natural Wonders of the World is here, among our lush desert landscapes, crystal-clear waters and breathtaking mountain peaks.
 Arizona offers travelers unique experiences with hospitality, adventure, and stunning sights.
-
+[/color][color=005555]
 FACTS
-[b]Capital:[/b] Phoenix
+[b]Capital:[/b] [region=Phoenix]
 [b]Area:[/b] 113,998 sq mi
-[b]Population:[/b] 5,130,632
-[b]Admission:[/b] February 14, 1912 (48)[hr]Region:
-Allied with [region=United States of America]
-Featured Region: 2008 Jan 24, 2009 Jun 13, 2023 Feb 21[/color]
-[color=800000][b]Please, Do Not Recruit Here[/b][/color][hr][b]SPECIAL TRIBUTE[/b]
+[b]Population:[/b] 7,582,384 (2024 July 1 est.)
+[b]Admission:[/b] February 14, 1912 (48)
+[/color][color=555500]
+REGION
+a [region=United States of America] State Region
+Featured Region: 2008 Jan 24, 2009 Jun 13, 2023 Feb 21
+[/color][color=800000]
+[b]SPECIAL TRIBUTE[/b]
 [url=http://www.youtube.com/watch?feature=player_embedded&amp;v=uKys9_8r5pc]Video[/url]
 [url=http://www.pearl-harbor.com/arizona/arizona.html]USS Arizona[/url]
+[/color][color=005400]
+[b]Embassy Offers Welcome[/b][/color]

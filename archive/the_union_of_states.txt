@@ -2,6 +2,7 @@
 [/color][color=004D33]
 REGION
 [b]Founded:[/b] 2019 SEPT 08
+[b]Featured:[/b] 2025 JAN 29
 an [region=Ancient Lands] region
 a puppet storage region
 [/color][color=DC6900]

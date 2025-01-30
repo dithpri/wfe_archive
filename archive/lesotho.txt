@@ -1,11 +1,15 @@
-[color=green][b]Lesotho[/b] is a land-locked country, entirely surrounded by the Republic of South Africa.
+[color=004400][b]Lesotho[/b]
+[/color][color=000044]
+a land-locked country, entirely surrounded by the Republic of South Africa.
 Formerly Basutoland.
 It is a member of the Commonwealth of Nations. 
 The name Lesotho roughly translates into &quot;the land of the people who speak Sesotho.
- 
+ [/color][color=543210]
 Independence: October 4, 1966 (UK) 
-Capital: Maseru 
+Capital: [region=Maseru]
 Area: 30,355 km&sup2; 
-Population: 1,795,000
+Population: 2,227,548 (2024 est.)
 [/color][color=803000]
-An [region=Old Spirit] of [region=United States of America] Region[/color]
+REGION
+[b]Founded:[/b] 2011 Nov 30
+An [region=Ancient Lands] National Region[/color]

@@ -4,9 +4,9 @@ The region consists of 4 major kingdom:
 
 &#149; [nation]Tanah Mas[/nation]
 
-&#149; 
+&#149; [nation]Payabumi[/nation]
 
-&#149;
+&#149; [nation]Sunderam[/nation]
 
 &#149; [nation]Seberang Cheluk[/nation]
 
