@@ -16,7 +16,7 @@ includes Embassy Oracle Tool
 [table]
 [tr][td][color=00477e][b]Region Policy:[/b][/color][/td][/tr]
 [tr][td][color=00477e]an [region=Ancient Lands] Major Puppet Home Region
-Minimum Nation Population: [b]43 billion[/b] (this is strictly enforced)
+Minimum Nation Population: [b]43.25 billion[/b] (this is strictly enforced)
 [/color][color=004d33]
 Our Public Bulletin Board has been Closed
 [b]Embassy Offers Accepted[/b][/color][/td][/tr][/table]

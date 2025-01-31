@@ -1,3 +1,12 @@
-[color=00477e][b]Sarajevo[/b]
-[/color][color=7e474d]
-an [region=Ancient Lands] region[/color]
+[color=004545][b]Sarajevo[/b]
+[/color][color=544332]
+FACTS
+Capital and Largest City of [region=Bosnia Herzegovina]
+[/color][color=454500]
+REGION
+[b]Founded:[/b] 2016 Jun 11
+[b]Matrixed:[/b] 2019 Nov 12 (accepted embassies since)
+[b]Featured:[/b] 2025 Jan 30
+an [region=Ancient Lands] Capital cities region
+[/color][color=005400]
+[b]Embassy Offers Accepted[/b][/color]
