@@ -1,9 +1,9 @@
 Significant nations of Jay:
-[nation]Gamma Crucis[/nation], Brotherhood of Malice (main)
-[nation]Regulus Arcturus[/nation], The Black Hawks
+[nation]Gamma Crucis[/nation], Purple Pony Club (main)
 [nation]Gamma Regulus[/nation], Constellation (founder + governor)
 [nation]Gamma Leonis[/nation], Lair of the Dragon
-[nation]Gamma Arcturus[/nation], Purple Pony Club
+[nation]Gamma Arcturus[/nation], Brotherhood of Malice
+[nation]Regulus Arcturus[/nation], The Black Hawks
 [nation]Captain Albert Alexander Hamilton[/nation], former main
 [nation]Commander Cosmo[/nation], favorite pony
 [nation]Love Will Tear Us Apart[/nation], piling nation
