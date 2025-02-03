@@ -2,9 +2,9 @@
 [tr][td][color=004d33]Great Britain[/color][/td][/tr][/table]
 [table][tr][td]FACTS[/td][td]REGION[/td][/tr]
 [tr][td][color=004d33][b]Founded:[/b] Acts of Union 1707 May 01
-[b]Capital:[/b] Westminster (London)
+[b]Capital:[/b] [region=Westminster] ([region=London])
 [b]Head of State:[/b] Charles III
-[b]Prime Minister:[/b] Rishi Sunak (2022 Oct 24)
+[b]Prime Minister:[/b] Keir Starmer (2024 July 5)
 [b]Area:[/b] 242,495 km2 (93,628 sq mi) 78th
 [b]Population:[/b] 67,879,000 (2023 est.) 22nd
 * 1707 Acts of Union merged the kingdoms of England and Scotland

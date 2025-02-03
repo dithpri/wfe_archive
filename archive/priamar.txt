@@ -1,11 +1,10 @@
 [colour=red][b]REGIONAL GOVERNORATE OF PRIAMAR|GOVERNATORATO REGIONALE DO PRIAM&Acirc;[/b][/colour]
 [colour=grey][b]Welcome|Benvegnui|Benvenuti|&amp;#9898;&amp;#128308;&amp;#9898;[/b][/colour][hr]&amp;#9888;&amp;#65039;[b][colour=red][u]ATTENTION PLEASE[/u][/colour][/b]&amp;#9888;&amp;#65039;
 [colour=grey][b]&amp;#128308;This is a [u]transit region[/u] under military administration of the[region] Government of the Ligurian Republic[/region]. 
-&amp;#9898;All those present are asked to [u]move[/u] to the welcoming [region]Government of the Ligurian Republic[/region].
-&amp;#128308;Customs checks will be carried out upon [u]arrival [/u]and [u]departure[/u].[/colour][hr][/b][b][colour=grey]PRIAMAR REGIONAL AIRPORT&amp;#9992;&amp;#65039;[/b]
+&amp;#9898;All those present are asked to [u]move[/u] to the [region]Government of the Ligurian Republic[/region], or for the [region]Commonwealth of National Renewal[/region].[hr][/b][b]PRIAMAR REGIONAL AIRPORT&amp;#9992;&amp;#65039;[/b]
 [b]Departures:[/b][/colour]
 [b][colour=green]&amp;#128747;Flight: A0023&amp;#10145;&amp;#65039;[region]Government of the Ligurian Republic[/region]|&amp;#128994;GATE A01|OPEN[/colour]
-[colour=blue]&amp;#128747;Flight: F6063&amp;#10145;&amp;#65039;[region]Government of the Ligurian Republic[/region]|&amp;#128309;GATE A03|BORDING[/colour]
-[colour=green]&amp;#128747;Flight: B1988&amp;#10145;&amp;#65039;[region]Government of the Ligurian Republic[/region]|&amp;#128994;GATE A04|OPEN[/colour]
+[colour=blue]&amp;#128747;Flight: F6063&amp;#10145;&amp;#65039;[region]Commonwealth of National Renewal[/region]|&amp;#128309;GATE A03|BORDING[/colour]
+[colour=green]&amp;#128747;Flight: B1988&amp;#10145;&amp;#65039;[region]Commonwealth of National Renewal[/region]|&amp;#128994;GATE A04|OPEN[/colour]
 [colour=orange]&amp;#128747;Flight: A4501&amp;#10145;&amp;#65039;[region]Government of the Ligurian Republic[/region]|&amp;#128992;GATE A04|DELAYED[/colour]
 [/b][hr][b]&amp;#128706;[colour=grey]Regional border status:[/colour] [colour=red]Closed[/colour][/b]

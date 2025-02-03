@@ -9,24 +9,20 @@
 
 [list][*]&amp;#128081; [color=red]King-Emperor[/color]:[/b] [nation]HIRM Emperor Carlisle I[/nation] of [nation]Walbard[/nation]
 [*]&amp;#128081; [color=navy][b]Queen-Empress[/b][/color]: [nation]HIRM Empress Katherine[/nation] of [nation]Notrina[/nation]
-[*]&amp;#128081; [color=purple]Princess of Wales[/color]: [nation]Prince George[/nation] of [nation]Walbard[/nation]
-[*]&amp;#127969; Ruling House: [nation=short]House of Tudor[/nation]
+[*]&amp;#128081; [color=purple]Prince of Wales[/color]: [nation]Prince George[/nation] of [nation]Walbard[/nation]
+[*]&amp;#127969; Ruling House: [b][nation=short]House of Tudor[/nation][/b]
 [/list]
 
 [hr][hr]
 
 &amp;#128101;&amp;#128101; [b]Population[/b] &amp;#128101;&amp;#128101;
-[list][*]Our Member States are 20+ Billion Citizens strong.[/list]
+[list][*]Our Member States are 60+ Billion Citizens strong.[/list]
 
 [hr][hr]
 [b]Statistics;[/b]
 
 [list][*]Founded: 2003 (21 years ago)
 [*]Inherited: 2017 (7 years ago)
-[*]Capital City: [nation]Greater London Authority[/nation]
+[*]Capital City: [b][nation]Greater London Authority[/nation][/b]
 [*]Government Enclave: [nation]City of Westminster[/nation], [b]London[/b]
 [*]Federal Reserve: [nation]Central Bank of England[/nation][/list] 
-
-[hr]
-
-[b]Players can join our [url=https://discord.gg/bHfkHKYJu6]Discord Server[/url] without having a Nation in our Region[/b]
