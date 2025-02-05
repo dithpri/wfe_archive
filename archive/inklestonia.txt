@@ -1,6 +1,3 @@
-[b][color=blood]The Region of Inklestonia[/color][/b]
+[b]Colony of [region]The Interstellar Confederacy[/region][/b]
 
-[b]Nation Members:[/b]
-[nation]Southern Antoublia[/nation]
-[nation]Solaskerat[/nation]
-[nation]Northern Antoublia[/nation]
+Refounded on [i]2025/02/04[/i]

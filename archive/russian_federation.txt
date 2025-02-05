@@ -1,5 +1,7 @@
 [color=004d33][b]Russian Federation[/b]
 [/color][color=00477e]
-a [region=United States of America] region
-[/color][color=green]
-Embassies will be accepted with no conditions implied[/color]
+[b]Founded:[/b] 2014 Mar 06
+[b]Featured:[/b] 2025 Feb 04
+a [region=United States of America] &amp; [region=Ancient Lands] asociated region
+[/color][color=004d33]
+Embassies accepted with no conditions implied[/color]
