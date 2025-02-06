@@ -1,6 +1,5 @@
-[b]Conquered territory[/b]
+[b]Colony of [region]The Interstellar Confederacy[/region][/b]
 
-[hr]
-[b][region]AUSTRIA AND HUNGARY[/region][/b]
-[hr]
-[b][region]AUSTRIA AND HUNGARY LANDWEHR[/region][/b]
+Former conquered territory of [region]Austria and Hungary[/region]
+
+Refounded on [i]2025/02/04[/i]
