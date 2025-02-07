@@ -9,15 +9,16 @@
 [hr]
 [color=brown][b]CURRENT ORDERS:[/color][/b]
 None for now
-[hr]
-[color=yellow][u]CURRENT EVENTS[/u][/color]
+
+[color=blue][u]CURRENT EVENTS[/u][/color]
 None for now
+[hr]
 [color=orange]Our Sister Regions[/color]
 HQ: [region]The Empire of Brittania[/region]
 Frontier:
 Puppet Storage: [region]The Isle of Brittania[/region]
 [hr]
-[b][color=black]Colonies: 390[/color][/b]
+[b][color=black]Colonies: 429[/color][/b]
 [i]Founded on 2/4/2025 by [nation]Peace and Order[/nation][/i]
 [i]Contact [nation]Peace and Order and War[/nation] with any questions[/i]
 [hr]
