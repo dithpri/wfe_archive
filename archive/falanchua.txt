@@ -10,7 +10,8 @@ It will still take some time to put back together, but thank you for sticking ar
 
 [table][tr][td]Icons of Falanchua[/td][td](and their roles)[/td][/tr]
 [tr][td]Person[/td][td]Role[/td][/tr]
-[tr][td][nation=long]Yeetsralia[/nation][/td][td]Prime Minister, Founder[/td][/tr]
+[tr][td][nation=long]Yeetsralia[/nation][/td][td]Prime Minister[/td][/tr]
+[tr][td][nation=long]Anamontalala[/nation][/td][td]Founder[/td][/tr]
 [tr][td][nation=long]Yeetsralia[/nation][/td][td]Deputy Prime Minister, Main Writer for Region[/td][/tr]
 [tr][td][nation=long]Ynnam[/nation][/td][td]WA Delegate[/td][/tr]
 [/table]
