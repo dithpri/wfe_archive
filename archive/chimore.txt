@@ -8,4 +8,4 @@ Encountered a Chimore in the wild? That&#39;s [nation]East Chimore[/nation]/Aris
 [tr][td][nation]Central Chimore[/nation][/td][td][region]The Brotherhood of Malice[/region][/td][td]Devout[/td][/tr]
 [tr][td][nation]Old Chimore[/nation][/td][td][region]Merciam[/region][/td][td]Marchionix of Germania[/td][/tr]
 [tr][td][nation]Chimore[/nation][/td][td][region]Chimore[/region][/td][td]Ego Region Governor[/td][/tr]
-[tr][td][nation]Vendiagram[/nation][/td][td][region]Alex[/region][/td][td]Task Failed Successfully[/td][/tr][/table]
+[tr][td][nation]Vendiagram[/nation][/td][td][region]Blanket Fort Legion[/region][/td][td]Task Failed Successfully[/td][/tr][/table]
