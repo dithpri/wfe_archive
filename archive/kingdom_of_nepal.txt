@@ -1,2 +1,3 @@
-[b]Kingdom of Nepal[/b]
-a [region=0000] region
+ [b]Colony of [region]The Interstellar Confederacy[/region][/b]
+
+Founded on [i]2025/02/09[/i]

@@ -1,4 +1,3 @@
-
 [b]3rd Congress 1st Session[/b]
 
 [color=darkred][b]THE HOUSE IS NOT IN SESSION[/b][/color]
@@ -17,8 +16,16 @@
 
 [table][tr][td][i][color=black]Nation[/color][/i][/td][td][i][color=black]HoR Position[/color][/i][/td][/tr]
 [tr][td][b][nation]Trpezi[/nation][/b][/td][td]Speaker of the House[/td][/tr]
-[tr][td][nation]Open[/nation][/td][td]The Union Party Whip[/td][/tr]
-[tr][td][nation]Open[/nation][/td][td]New Horizons Whip[/td][/tr]
+[tr][td][nation]Nshi[/nation][/td][td]Majority Leader and Whip[/td][/tr]
+[tr][td][nation]Open[/nation][/td][td]Minority Leader[/td][/tr]
+[tr][td][nation]Open[/nation][/td][td]Minority Whip[/td][/tr]
+
+[/table]
+
+[hr]
+
+[table][tr][td][color=black]Committees[/color][/td][/tr]
+[tr][td][b][url=https://www.nationstates.net/page=dispatch/id=2616174]House Judiciary Committee[/url][/b][/td][/tr]
 [/table]
 
 [hr]
