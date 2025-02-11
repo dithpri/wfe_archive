@@ -1,0 +1,9 @@
+[i]Servientes pacem
+Serving peace[/i]
+
+A puppet region for [nation]Western Balkania[/nation]&#39;s internal affairs &amp; administration of law.
+
+[region]Federal Department of Defence[/region]
+[region]Federal Department of Intelligence[/region]
+[b][region]Federal Department of Law and Security[/region][/b]
+[region]Western Balkan Corruption[/region]
