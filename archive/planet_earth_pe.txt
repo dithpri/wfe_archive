@@ -4,5 +4,4 @@
 [hr]
 [color=blue]General[/color] [nation]Morractia Lern[/nation]
 [color=green]Sergeant[/color] [nation]Central Lebatuck[/nation]
-Soldier [nation]Dackians[/nation]
-
+Soldier [nation]Dackians[/nation]/[nation]Anarchy Somalia[/nation]

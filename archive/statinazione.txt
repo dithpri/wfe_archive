@@ -9,5 +9,6 @@ Giocatori:
 [nation]Mattewland[/nation]
 [nation]Nicanahuac[/nation]
 [nation]Nuova Prussia[/nation]
+[nation]Il Mapper di Statinazioni[/nation]
 
 [url=https://discord.gg/eJZ2Su8TPt]Server discord![/url]
