@@ -1,15 +1,15 @@
-[b][color=#009DFF]W[/color][color=#009BFD]e[/color][color=#0099FB]l[/color][color=#0098FA]c[/color][color=#0096F8]o[/color][color=#0095F7]m[/color][color=#0093F5]e[/color] [color=#0090F2]t[/color][color=#008FF0]o[/color] [color=#008CED]t[/color][color=#008AEC]h[/color][color=#0089EA]e[/color] [color=#0086E7]H[/color][color=#0084E5]o[/color][color=#0082E4]u[/color][color=#0081E2]s[/color][color=#007FE1]e[/color] [color=#007CDD]o[/color][color=#007BDC]f[/color] [color=#0078D9]C[/color][color=#0076D7]o[/color][color=#0075D6]m[/color][color=#0073D4]m[/color][color=#0072D2]o[/color][color=#0070D1]n[/color][color=#006FCF]s[/color][color=#006DCE],[/color] [url=region=Thaecia]Thaecia[/url][color=#006ACB]&#39;[/color][color=#0068C9]s[/color] [color=#0065C6]P[/color][color=#0064C4]a[/color][color=#0062C3]r[/color][color=#0061C1]l[/color][color=#005FC0]i[/color][color=#005EBE]a[/color][color=#005CBC]m[/color][color=#005BBB]e[/color][color=#0059B9]n[/color][color=#0058B8]t[/color][color=#0056B6].[/color][/b]
+[b][color=#009DFF]W[/color][color=#019EFE]e[/color][color=#029FFD]l[/color][color=#03A0FC]c[/color][color=#04A1FB]o[/color][color=#05A2FA]m[/color][color=#06A3FA]e[/color] [color=#08A6F8]t[/color][color=#09A7F7]o[/color] [color=#0BA9F6]t[/color][color=#0CAAF5]h[/color][color=#0DABF4]e[/color] [color=#0FADF2]H[/color][color=#10AFF2]o[/color][color=#11B0F1]u[/color][color=#12B1F0]s[/color][color=#13B2EF]e[/color] [color=#15B4EE]o[/color][color=#16B5ED]f[/color] [color=#19B8EB]C[/color][color=#1AB9EA]o[/color][color=#1BBAE9]m[/color][color=#1CBBE9]m[/color][color=#1DBCE8]o[/color][color=#1EBDE7]n[/color][color=#1FBEE6]s[/color][color=#20BFE5],[/color] [url=region=Thaecia]Thaecia[/url][color=#22C2E4]&#39;[/color][color=#23C3E3]s[/color] [color=#25C5E1]P[/color][color=#26C6E1]a[/color][color=#27C7E0]r[/color][color=#28C8DF]l[/color][color=#29CADE]i[/color][color=#2ACBDD]a[/color][color=#2BCCDD]m[/color][color=#2CCDDC]e[/color][color=#2DCEDB]n[/color][color=#2ECFDA]t[/color][color=#2FD0D9].[/color][/b]
 [b]Leadership:
 
-[list][*]Speaker of the House: [nation]Santa Marana[/nation] ([color=Red]TAP[/color])[/b]
-[list][*]Deputy Speaker: [nation]Snowflame[/nation] [b]([color=Red]TAP[/color])[/b][/list][/list]
+[list][*]Speaker of the House: [nation]Musaschi[/nation] ([color=Gray]IND[/color])[/b]
+[list][*]Deputy Speaker: [nation]Vacant[/nation] [b]([color=Gray]Vacant[/color])[/b][/list][/list]
 
-[b][list][*]Prime Minister: [nation]The Ambis[/nation] ([color=CA8AFF]BAC[/color])[/b]
-[list][*]Minister of Domestic Affairs: [nation]Marvinville[/nation] [b]([color=Red]TAP[/color][/b])
-[*]Minister of Foreign Affairs: [nation]Snowflame[/nation] [b]([color=Red]TAP[/color])[/b]
+[b][list][*]Prime Minister: [nation]Snowflame[/nation] ([color=Red]TAP[/color])[/b]
+[list][*]Minister of Domestic Affairs: [nation]Ash Blossom and Joyous Nation[/nation] [b]([color=Red]TAP[/color][/b])
+[*]Minister of Foreign Affairs: [nation]Santa Marana[/nation] [b]([color=Red]TAP[/color])[/b]
 [*]Minister of Cultural Affairs: [nation]Of Altonianic Islands[/nation] [b]([color=Gray]IND[/color])[/b][/list][/list]
 
-[b][list][*]Leader of the Opposition: [nation]Vacant[/nation] ([color=Grey]N/A[/color])[/b]
+[b][list][*]Leader of the Opposition: [nation]Snalland[/nation] ([color=lime]PTD[/color])[/b]
 [list][*]Shadow Minister of Domestic Affairs: [nation]Vacant[/nation] ([b][color=Gray]N/A[/color][/b])
-[*]Shadow Minister of Foreign Affairs: [nation]Vacant[/nation] [b]([color=Gray]N/A[/color])[/b]
+[*]Shadow Minister of Foreign Affairs: [nation]CurryWurst[/nation] [b]([color=Gray]IND[/color])[/b]
 [*]Shadow Minister of Culture: [nation]Vacant[/nation] [b]([color=Gray]N/A[/color])[/b][/list][/list]
