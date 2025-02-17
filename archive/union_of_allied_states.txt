@@ -15,7 +15,7 @@
 [tr][td][nation]South Waterford[/nation][/td][td]Regent/Founder[/td][/tr]
 [tr][td][nation]Revengi[/nation][/td][td]Vice-President[/td][/tr]
 [tr][td][nation]Cynoa[/nation][/td][td]Secretary of the Interior[/td][/tr]
-[tr][td]CL[/td][td]Secretary of the Exterior[/td][/tr]
+[tr][td]-[/td][td]Secretary of the Exterior[/td][/tr]
 [tr][td]-[/td][td]Secretary of Order and Intelligence[/td][/tr]
 [tr][td][nation]Maniaca[/nation][/td][td]Attorney General[/td][/tr]
 [tr][td][nation]United Sentinel States[/nation][/td][td]Chief Justice[/td][/tr]
