@@ -11,7 +11,7 @@
 [u]Delegate[/u]: [b][nation]Kolatis[/nation][/b]
 [u]Vice Delegate[/u]: [b][nation]Equizur[/nation][/b] 
 [u]Defence Minister[/u]: [b][nation]Northwest seas[/nation][/b]
-[u]Foreign Minister[/u]: [b][nation]Alhamrbon[/nation][/b]
+[u]Acting Foreign Minister[/u]: [b][nation]El Nuevo Mundo[/nation][/b]
 [Hr]
 [b]Regional News:[/b] Vote on the Referendum!
 [Hr]
@@ -19,8 +19,8 @@
 [Hr]
 [Color=blue][u]World Assembly Vote Recommendations[/u]:[/color]
 
-GA: [color=red][b]Against[/b][/color]
-SC: [color=green][b]For[/b][/color] 
+GA: [color=green][b]For[/b][/color]
+SC: [color=grey][b]N/A[/b][/color] 
 [Hr]
 Quote of the week: [quote=the_perfect_dictatorship;58184961]NOPE. NOTHING PUTTING MORE DRUGS IN THE WATER SUPPLY CAN&#39;T SOLVE AFTER ALL.[/quote]
 

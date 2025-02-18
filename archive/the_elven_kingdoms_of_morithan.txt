@@ -1,1 +1,13 @@
 The ten kingdoms of the island of Morithan, united under a single banner and High King
+
+[nation]Pridiloth[/nation]
+[nation]Thralle[/nation]
+[nation]Avershon[/nation]
+[nation]Moragone[/nation]
+[nation]Liminador[/nation]
+[nation]Astorlaith[/nation]
+[nation]Calreden[/nation]
+[nation]New Thralle[/nation]
+[nation]Isharon[/nation]
+[nation]Etaniel[/nation]
+
