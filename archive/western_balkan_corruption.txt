@@ -2,7 +2,7 @@
 
 A puppet region for [nation]Western Balkania[/nation]&#39;s random accounts.
 
-[region]The Federal Ministry of Defence[/region]
-[region]The Federal Ministry of Intelligence[/region]
-[region]The Federal Ministry of Law and Security[/region]
+[region]Federal Department of Defence[/region]
+[region]Federal Department of Intelligence[/region]
+[region]Federal Department of Law and Security[/region]
 [b][region]Western Balkan Corruption[/region][/b]

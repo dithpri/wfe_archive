@@ -1,5 +1,5 @@
-[b]Welcome[/b] to the &amp;#128081; [b][u]United Kingdom[/u][/b] of [b][u][color=red]Great[/color] [color=navy]Britain[/color] and [color=orange]Ireland[/color][/u][/b]&#153;
-[b][color=red]RULE[/color] [color=navy]BRITANNIA[/color][/b] [i]&quot;Strength, Liberty, Unity, Justice, Peace, Harmony&quot;[/i]
+[b][color=#00B2A9]Welcome[/b] to the[/color] &amp;#128081; [b][u]United Kingdom[/u][/b] of [b][u][color=red]Great[/color] [color=navy]Britain[/color] and [color=orange]Ireland[/color][/u][/b]&#153;
+[b][color=red]RULE[/color] [color=navy]BRITANNIA[/color][/b] [color=#00B2A9][i]&quot;Strength, Liberty, Unity, Justice, Peace, Harmony&quot;[/i][/color]
 
 [hr][hr]
 
@@ -10,19 +10,19 @@
 [list][*]&amp;#128081; [color=red]King-Emperor[/color]:[/b] [nation]HIRM Emperor Carlisle I[/nation] of [nation]Walbard[/nation]
 [*]&amp;#128081; [color=navy][b]Queen-Empress[/b][/color]: [nation]HIRM Empress Katherine[/nation] of [nation]Notrina[/nation]
 [*]&amp;#128081; [color=purple]Prince of Wales[/color]: [nation]Prince George[/nation] of [nation]Walbard[/nation]
-[*]&amp;#127969; Ruling House: [b][nation=short]House of Tudor[/nation][/b]
+[*]&amp;#127969; [color=#00B2A9]Ruling House: [nation=short]House of Tudor[/nation][/color]
 [/list]
 
 [hr][hr]
 
-&amp;#128101;&amp;#128101; [b]Population[/b] &amp;#128101;&amp;#128101;
-[list][*]Our Member States are 60+ Billion Citizens strong.[/list]
+[color=orange]&amp;#128101;&amp;#128101; [b]Population[/b][/color] &amp;#128101;&amp;#128101;
+[list][*]Our Member States are 70+ Billion Citizens strong.[/list]
 
 [hr][hr]
 [b]Statistics;[/b]
 
-[list][*]Founded: 2003 (21 years ago)
-[*]Inherited: 2017 (7 years ago)
-[*]Capital City: [b][nation]Greater London Authority[/nation][/b]
-[*]Government Enclave: [nation]City of Westminster[/nation], [b]London[/b]
-[*]Federal Reserve: [nation]Central Bank of England[/nation][/list] 
+[list][*][color=red][b]Founded:[/b][/color] 2003 (21 years ago)
+[*][color=navy][b]Inherited:[/b][/color] 2017 (7 years ago)
+[*][color=purple][b]Capital City:[/color] [nation]Greater London Authority[/nation][/b]
+[*][color=#00B2A9][b]Government Enclave:[/b][/color] [nation]City of Westminster[/nation], [b]London[/b]
+[*][color=orange][b]Federal Reserve:[/b][/color] [nation]Central Bank of England[/nation][/list] 
