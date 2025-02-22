@@ -1,8 +1,3 @@
-[b]3rd Congress 1st Session[/b]
-
-[color=darkred][b]THE HOUSE IS NOT IN SESSION[/b][/color]
-[hr]
-
 &amp;#127963;&amp;#65039; [b][color=#2E7BFF]T[/color][color=#2D7BFF]h[/color][color=#2D7BFF]i[/color][color=#2D7BFF]s[/color] [color=#2D7BFF]r[/color][color=#2D7CFF]e[/color][color=#2D7CFF]g[/color][color=#2D7CFF]i[/color][color=#2D7CFF]o[/color][color=#2D7CFF]n[/color] [color=#2D7DFF]i[/color][color=#2D7DFF]s[/color] [color=#2D7DFF]u[/color][color=#2D7EFF]n[/color][color=#2D7EFF]d[/color][color=#2D7EFF]e[/color][color=#2D7EFF]r[/color] [color=#2C7EFF]t[/color][color=#2C7FFF]h[/color][color=#2C7FFF]e[/color] [color=#2C7FFF]c[/color][color=#2C7FFF]o[/color][color=#2C80FF]n[/color][color=#2C80FF]t[/color][color=#2C80FF]r[/color][color=#2C80FF]o[/color][color=#2C80FF]l[/color] [color=#2C81FF]o[/color][color=#2C81FF]f[/color] [color=#2C81FF]t[/color][color=#2C82FF]h[/color][color=#2C82FF]e[/color] [color=#2C82FF]U[/color][color=#2C82FF]n[/color][color=#2B83FF]i[/color][color=#2B83FF]o[/color][color=#2B83FF]n[/color] [color=#2B83FF]o[/color][color=#2B83FF]f[/color] [color=#2B84FF]A[/color][color=#2B84FF]l[/color][color=#2B84FF]l[/color][color=#2B84FF]i[/color][color=#2B85FF]e[/color][color=#2B85FF]d[/color] [color=#2B85FF]S[/color][color=#2B85FF]t[/color][color=#2B86FF]a[/color][color=#2B86FF]t[/color][color=#2B86FF]e[/color][color=#2B86FF]s[/color][color=#2B86FF].[/color][/b] &amp;#127963;&amp;#65039;
 
 [i]Long Live The Union![/i]
@@ -10,17 +5,14 @@
 [hr]
 
 [table][td][color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2020230][color=black]Constitution[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2539514][color=black]Regional Docket[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2542838][color=black]Legislation Template[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2542837][color=black]Media Kit[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2020229][color=black]Government Corner[/color][/url][/td][/table]
-[table][td][color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2526748][color=black]Legislative Standards and Transparency Act[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2607419][color=black]Regional Fixation Act[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2609395][color=black]House Expansions Act[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2538014][color=black]Congressional Standards Act[/color][/url][/td][/table]
+[table][td][color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2526748][color=black]Legislative Standards and Transparency Act[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2607419][color=black]Regional Fixation Act[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2609395][color=black]House Expansions Act[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2616415][color=black]Congressional Standards Act[/color][/url][/td][/table]
 
 [hr]
 
 [table][tr][td][i][color=black]Nation[/color][/i][/td][td][i][color=black]HoR Position[/color][/i][/td][/tr]
 [tr][td][b][nation]Trpezi[/nation][/b][/td][td]Speaker of the House[/td][/tr]
-[tr][td][nation]Nshi[/nation][/td][td]Majority Leader and Whip[/td][/tr]
-[tr][td][nation]Open[/nation][/td][td]Minority Leader[/td][/tr]
-[tr][td][nation]Open[/nation][/td][td]Minority Whip[/td][/tr]
-
-[/table]
+[tr][td]-[/td][td]Majority Leader and Whip[/td][/tr]
+[tr][td]-[/td][td]Minority Leader and Whip[/td][/tr][/table]
 
 [hr]
 
