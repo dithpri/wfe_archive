@@ -5,7 +5,7 @@
 [hr]
 
 [table][td][color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2020230][color=black]Constitution[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2539514][color=black]Regional Docket[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2542838][color=black]Legislation Template[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2542837][color=black]Media Kit[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2020229][color=black]Government Corner[/color][/url][/td][/table]
-[table][td][color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2526748][color=black]Legislative Standards and Transparency Act[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2526752][color=black]Citizenship Committee[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2528704][color=black]Foreign Affairs Committee[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2616415][color=black]Congressional Standards Act[/color][/url][/td][/table]
+[table][td][color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2526748][color=black]Legislative Standards and Transparency Act[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2616415][color=black]Congressional Standards Act[/color][/url][/td][/table]
 
 [hr]
 
@@ -14,12 +14,20 @@
 [tr][td][nation]Liberal Malaysia[/nation][/td][td]Senator[/td][/tr]
 [tr][td][nation]Samboria[/nation][/td][td]Senator[/td][/tr]
 [tr][td][nation]Nshi[/nation][/td][td]Senator[/td][/tr]
+[tr][td]-[/td][td]Senator[/td][/tr]
 [/table]
 
 [hr]
 
-[table][td][color=black]Congressional Calendar[/color][color=black]:[/color] [url=]Link[/url][/td][/table]
-[table][td][color=black]Motions:[/color] [url=https://www.nationstates.net/page=display_region_rmb/region=uas_senate]Citizenship Hearings[/url] [color=black]|[/color] [url=]___ (Review Session)[/url][/td][/table]
+[table][tr][td][color=black]Committees[/color][/td][/tr]
+[tr][td][b][url=https://www.nationstates.net/page=dispatch/id=2526752]Citizenship Committee[/url][/b][/td][/tr]
+[tr][td][b][url=https://www.nationstates.net/page=dispatch/id=2528704]Foreign Affairs Committee[/url][/b][/td][/tr]
+[/table]
+
+[hr]
+
+[table][td][color=black]Congressional Calendar[/color][color=black]:[/color] [url=https://www.nationstates.net/page=dispatch/id=2621803]Link[/url][/td][/table]
+[table][td][color=black]Motions:[/color] [url=https://www.nationstates.net/page=display_region_rmb/region=uas_senate]Citizenship Hearings[/url] [color=black]|[/color] [url=https://www.nationstates.net/page=display_region_rmb/region=uas_senate]Senate Confirmation of [nation]-URBAN-[/nation][/url] [color=black]|[/color] [url=https://www.nationstates.net/page=dispatch/id=2616415]Congressional Standards Act (Review Session)[/url][/td][/table]
 
 [hr]
 

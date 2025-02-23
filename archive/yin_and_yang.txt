@@ -1,11 +1,30 @@
-[b][color=navy]
-&amp;#9617;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9559;&amp;#9617;&amp;#9617;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9559;&amp;#9617;&amp;#9617;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9559;&amp;#9617;
-&amp;#9608;&amp;#9608;&amp;#9556;&amp;#9552;&amp;#9552;&amp;#9608;&amp;#9608;&amp;#9559;&amp;#9608;&amp;#9608;&amp;#9556;&amp;#9552;&amp;#9552;&amp;#9608;&amp;#9608;&amp;#9559;&amp;#9608;&amp;#9608;&amp;#9556;&amp;#9552;&amp;#9552;&amp;#9608;&amp;#9608;&amp;#9559;
-&amp;#9608;&amp;#9608;&amp;#9553;&amp;#9617;&amp;#9617;&amp;#9562;&amp;#9552;&amp;#9565;&amp;#9608;&amp;#9608;&amp;#9553;&amp;#9617;&amp;#9617;&amp;#9608;&amp;#9608;&amp;#9553;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9553;
-&amp;#9608;&amp;#9608;&amp;#9553;&amp;#9617;&amp;#9617;&amp;#9608;&amp;#9608;&amp;#9559;&amp;#9608;&amp;#9608;&amp;#9553;&amp;#9617;&amp;#9617;&amp;#9608;&amp;#9608;&amp;#9553;&amp;#9608;&amp;#9608;&amp;#9556;&amp;#9552;&amp;#9552;&amp;#9608;&amp;#9608;&amp;#9553;
-&amp;#9562;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9556;&amp;#9565;&amp;#9562;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9556;&amp;#9565;&amp;#9608;&amp;#9608;&amp;#9553;&amp;#9617;&amp;#9617;&amp;#9608;&amp;#9608;&amp;#9553;
-&amp;#9617;&amp;#9562;&amp;#9552;&amp;#9552;&amp;#9552;&amp;#9552;&amp;#9565;&amp;#9617;&amp;#9617;&amp;#9562;&amp;#9552;&amp;#9552;&amp;#9552;&amp;#9552;&amp;#9565;&amp;#9617;&amp;#9562;&amp;#9552;&amp;#9565;&amp;#9617;&amp;#9617;&amp;#9562;&amp;#9552;&amp;#9565;[/color]
+&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;
+&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9608;&amp;#9608;&amp;#9619;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;
+&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9608;&amp;#9617;&amp;#9618;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9617;&amp;#9617;&amp;#9617;
+&amp;#9617;&amp;#9619;&amp;#9618;&amp;#9617;&amp;#9617;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9617;&amp;#9617;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9617;
+&amp;#9617;&amp;#9608;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9617;
+&amp;#9617;&amp;#9618;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9619;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9617;
+&amp;#9617;&amp;#9608;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9617;
+&amp;#9617;&amp;#9617;&amp;#9608;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9608;&amp;#9608;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9617;&amp;#9617;
+&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9608;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9617;&amp;#9617;&amp;#9617;
+&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;
+&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;&amp;#9617;
+[color=0A3161]&amp;#10050; [b]&amp;#27489;&amp;#36814; | &amp;#12424;&amp;#12358;&amp;#12371;&amp;#12381; | &amp;#54872;&amp;#50689; | Welcome to Yin &amp; Yang! [/b]&amp;#10050;[/color]
 
-[u][color=gold]&quot;Sun always[/color] [color=orange]rises from [/color] [color=orangered]the[/color] [color=red]east.&quot;[/color][/u]
+The premier [i][b][color=goldenrod]Military, Garrison,[/color][/b][/i] and [b][i][color=goldenrod]Intelligence Branches[/color][/i][/b] of the [b][region]Council of Asia[/region][/b]!
+[hr]
 
-This region is under the full jurisdiction of the [region]Council of Asia[/region]. It is the military headquarters and trophy room of the Ministry of Defense and serves as the [i]Yin and Yang Command[/i].[/b]
+[b][color=goldenrod]Current Orders:[/color][/b]
+
+[list][b]&amp;#9658; Become a member of the [url=https://www.nationstates.net/page=un]World Assembly[/url] and endorse President [nation]West Nichibotsu[/nation] in the [region]Council of Asia[/region].
+
+&amp;#9658; Join our [url=https://discord.gg/5JSNuuM6t2]Discord Server[/url].
+
+&amp;#9658; Enlist in the Asian Expeditionary Forces.[/b][/list]
+[hr]
+
+[b][color=gray][u]PORTAL[/u][/color][/b]
+
+[b][url=page=dispatch/id=1986879][color=0A3161]WELCOME[/color][/url] | [url=page=dispatch/id=1987337][color=0A3161]GOVERNMENT[/color][/url] | [url=page=dispatch/id=2615775][color=0A3161]WORLD ASSEMBLY[/color][/url] | [url=page=dispatch/id=1992249][color=0A3161]MINISTRY OF FOREIGN AFFAIRS[/color][/url] | [url=page=dispatch/id=1992233][color=0A3161]ARCHIVES[/color][/url] | [url=page=compose_telegram?tgto=3rd Asian Army][color=0A3161]CONTACT US[/url][/color][/b]
+
+[hr][b]We are currently undergoing some reforms and changes to our structure. Military enlistment will be made available soon.[/b]
