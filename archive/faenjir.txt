@@ -1,5 +1,6 @@
 [b]Faenjir: A Fantasy Worldbuilding Project[/b]
-[sub]Colony of [region]Centauran Federation[/region][/sub]
-[sub]Ran by [nation=noflag]New Ryansville[/nation][/sub]
+[sub]Colony of [region]Centauran Federation[/region][/sub] | [sub]Ran by [nation=noflag]New Ryansville[/nation][/sub]
 
-WIP
+This a Fantasy Worldbuilding Project based off settings such as Anbennar for EU4. Based in the Ancient, Medieval, and Early Modern Eras currently. Hoping to turn this into a Hobby or something fun on the side. (WIP WFE)
+
+Current status: Working up motivation to work on this
