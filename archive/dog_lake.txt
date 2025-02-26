@@ -1,22 +1,18 @@
-[table]
-[tr][td][color=00477e][b]Dog Lake[/b][/color][/td][/tr]
-[tr][td][color=004d33][b]CARETAKER HOME REGION
-CARETAKER:[/b] [nation=short]Dog Lake[/nation]
-[b]ALLIANCE AMBASSADORS:[/b] [nation=short]Elliston[/nation]; [nation=short]Manitoulin[/nation]; [nation=short]New Falham[/nation]; [nation=short]Royal House of Windsor[/nation]; [/color][/td][/tr][/table]
-[table][tr][td][color=00477e]TOOLS[/color][/td][td][color=00477e]REGION[/color][/td][/tr]
-[tr][td][color=004d33][url=http://texasregion.net/nsdossier/]nsDossier[/url]
+[color=00477e][b]Dog Lake[/b]
+[/color][color=00477e]
+TOOLS
+[url=http://texasregion.net/nsdossier/]nsDossier[/url]
 thanks [region=Texas]
 includes Embassy Oracle Tool 
-&amp; Dossier Search Tools[/color]
-[color=red]Currently Out of Order[/color][/td][td][color=004d33][b]Founded:[/b] 2022 Mar 11
-[b]Featured:[/b] 2023 Apr 26
-[b]Associated with:[/b]
-- [region=0000] - [region=Ancient Lands] - [region=United States of America]
-- [region=The Central Pacific] - [region=Union of Great Britain] - [region=Westminster] - [/color][/td][/tr][/table]
-[table]
-[tr][td][color=00477e][b]Region Policy:[/b][/color][/td][/tr]
-[tr][td][color=00477e]an [region=Ancient Lands] Major Puppet Home Region
-Minimum Nation Population: [b]43.25 billion[/b] (this is strictly enforced)
+&amp; Dossier Search Tools[/color][color=red]
+Currently Out of Order
 [/color][color=004d33]
-Our Public Bulletin Board has been Closed
-[b]Embassy Offers Accepted[/b][/color][/td][/tr][/table]
+REGION
+[b]Founded:[/b] 2022 Mar 11
+[b]Featured:[/b] 2023 Apr 26
+[b]Region Policy:[/b]
+Puppet Home Region
+Minimum Nation Population: [b]43.25 billion[/b] (this is strictly enforced)
+Note: Our Public Bulletin Board has been Closed
+
+[b]Embassy Offers Accepted[/b][/color]
