@@ -1,1 +1,1 @@
-A puppet storage region for N-Day.
+A region created for N-Day
