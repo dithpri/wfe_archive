@@ -5,7 +5,7 @@
 [hr]
 
 [table][td][color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2020228][color=black]Regional Hub[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2020229][color=black]Government Corner[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2539514][color=black]Regional Docket[/url][/color] [color=black]|[/color][color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2561788][color=black]Embassy Policy[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2621803][color=black]Regional Calendar[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2018336][color=black]Welcome Guide[/color][/url][/td][/table]
-[table][td][color=black]&#149;[/color] [url=https://discord.gg/Nv5NZ55YtT][color=black]Community Discord[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://unionstatesconnect.com/][color=black]Community Website ([i]W.I.P.[/i])[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://uasforum.com/][color=black]Community Forum ([i]Coming Soon[/i])[/color][/url][/td][/table]
+[table][td][color=black]&#149;[/color] [url=https://discord.gg/Nv5NZ55YtT][color=black]Community Discord[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2609971][color=black]Citizenship Registry[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://unionstatesconnect.com/][color=black]Community Website ([i]W.I.P.[/i])[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://uasforum.com/][color=black]Community Forum ([i]W.I.P.[/i])[/color][/url][/td][/table]
 
 [hr]
 
@@ -17,7 +17,7 @@
 [tr][td][nation]Cynoa[/nation][/td][td]Secretary of the Interior[/td][/tr]
 [tr][td][nation]-URBAN-[/nation][/td][td]Secretary of the Exterior[/td][/tr]
 [tr][td]-[/td][td]Secretary of Order and Intelligence[/td][/tr]
-[tr][td][nation]Maniaca[/nation][/td][td]Attorney General[/td][/tr]
+[tr][td]-[/td][td]Attorney General[/td][/tr]
 [tr][td][nation]United Sentinel States[/nation][/td][td]Chief Justice[/td][/tr]
 [/table]
 

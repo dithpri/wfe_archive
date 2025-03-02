@@ -1,0 +1,6 @@
+[hr]
+Armed forces of [nation=noflag]Mercian Legions[/nation]&#39;
+
+[Colour=red][Embassy Closed!][/colour]
+
+[If you wanted to have an embassy, please go to [region]The Mercian System[/region], thank you]
