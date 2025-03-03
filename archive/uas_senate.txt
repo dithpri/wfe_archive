@@ -11,7 +11,7 @@
 
 [table][tr][td][i][color=black]Nation[/color][/i][/td][td][i][color=black]Senate Position[/color][/i][/td][/tr]
 [tr][td][b][nation]Korovan[/nation][/b][/td][td]Majority Whip[/td][/tr]
-[tr][td][nation]Liberal Malaysia[/nation][/td][td]Senator[/td][/tr]
+[tr][td][nation]Liberty Martyred[/nation][/td][td]Senator[/td][/tr]
 [tr][td][nation]Samboria[/nation][/td][td]Senator[/td][/tr]
 [tr][td][nation]Nshi[/nation][/td][td]Senator[/td][/tr]
 [tr][td]-[/td][td]Senator[/td][/tr]
@@ -27,7 +27,7 @@
 [hr]
 
 [table][td][color=black]Congressional Calendar[/color][color=black]:[/color] [url=https://www.nationstates.net/page=dispatch/id=2621803]Link[/url][/td][/table]
-[table][td][color=black]Motions:[/color] [url=https://www.nationstates.net/page=display_region_rmb/region=uas_senate]Citizenship Hearings[/url] [color=black]|[/color] [url=https://www.nationstates.net/page=display_region_rmb/region=uas_senate]Senate Confirmation of [nation]-URBAN-[/nation][/url] [color=black]|[/color] [url=https://www.nationstates.net/page=dispatch/id=2616415]Congressional Standards Act (Review Session)[/url][/td][/table]
+[table][td][color=black]Motions:[/color] [url=https://www.nationstates.net/page=display_region_rmb/region=uas_senate]Citizenship Hearings[/url] [color=black]|[/color] [url=https://www.nationstates.net/page=dispatch/id=2625311]Motion to Impeach [nation]Maniaca[/nation][/url] [color=black]|[/color] [url=https://www.nationstates.net/page=dispatch/id=2616415]Congressional Standards Act (Review Session)[/url][/td][/table]
 
 [hr]
 
