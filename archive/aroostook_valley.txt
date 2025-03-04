@@ -1,1 +1,5 @@
-A peaceful, small region.
+[region]Aroostook Valley[/region] is a small, peaceful region nestled in the hills of the northeast lands.
+
+Some interesting facts about the region.
+- All states share a currency known as the [b]Valley Dollar[/b]
+- The region&#39;s government consists of a Council headed by the Council Chair

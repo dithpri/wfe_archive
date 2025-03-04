@@ -1,0 +1,1 @@
+The missile knows where it is by subtracting where it is from where it isn&#146;t to where it isn&#146;t from where it is surrounded by a baseplate of prefabulated amulite.

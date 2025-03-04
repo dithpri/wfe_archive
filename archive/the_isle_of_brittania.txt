@@ -1,4 +1,4 @@
-[color=blue]The outermost islands of [region]The Empire of Brittania[/region][/color]
+[b][color=blue]The outermost islands of [region]The Empire of Brittania[/region][/color][/b]
 
 [u]This is the puppet storage for [region]The Empire of Brittania[/region][/u]
 
