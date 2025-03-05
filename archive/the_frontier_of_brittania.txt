@@ -1,14 +1,11 @@
 [b]Welcome to [region]The Frontier of Brittania[/region]![/b]
-[hr]
-[b]Getting started:[/b]
+[hr][b]Getting started:[/b]
 [list=1][*]Join the [url=nationstates.net/page=un]WA[/url] and endorse [url=https://www.nationstates.net/nation=peace_and_wars#composebutton]Peace and Wars[/url].
 [*]Say Hi on the regional message board below.
 [*]Read the dispatches below.
 [*]Check out the links below![/list]
-[hr]
-*Discord**Constitution**History**Roleplay**Military**Puppet Storage**HQ**Embassy Policy**
-[hr]
-[b]Current Orders:[/b]
+[hr]|Discord|Constitution|History|Roleplay|Military|Puppet Storage|HQ|Foreign Policy|
+[hr][b]Current Orders:[/b]
 [list][*]None[/list]
 [b]Current Events:[/b]
 [list][*]None[/list]
