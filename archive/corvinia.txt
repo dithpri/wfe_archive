@@ -13,6 +13,7 @@ Sister Regions:
 [region]Corvinian Conlang Union[/region]
 [region]Corvinian Spanish Zone[/region]
 [region]Trinity Legion[/region]
+[region]Metropolitan Corvinia[/region]
 
 Official Archipelago Railroad:
 [region]Corvinian Archipelago Railway Services[/region]
