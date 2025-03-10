@@ -1,15 +1,15 @@
-The Confederacy Union is a region that allows nations of all ideologies to reside in. 
-
 [b][u]Governor:[/u][/b]
-[nation]Chastonia[/nation]
-
-[u]World Assembly:[/u]
+[nation]Chastonia[/nation]:
 General Assembly: [b][color=blue]For[/color][/b]
 Security Council: [b][color=blue]For[/color][/b]
 
 [b][u]WA Delegate:[/u][/b]
-None
+[nation]Chastonia[/nation]:
+General Assembly: [b][color=blue]For[/color][/b]
+Security Council: [b][color=blue]For[/color][/b]
 
-[b][color=indigo]The Confederacy Union is a region where all nations of any race, ideology, and beliefs can freely be whatever they can without being criticized or discriminated by the region government and treated equally like every other nation. It&#39;s a region where the nations get a say in the region and propose ideas that could further prosper this region and gain popularity across the world. [/color][/b]
+[b][color=indigo]The Confederacy Union is a region where nations of all races, ideologies, and beliefs can thrive without discrimination, treated equally by the government. Nations have a voice in shaping the region and proposing ideas to promote growth and global recognition.[/color][/b]
 
 [b][color=crimson]Due to much criticism, fascism is allowed as long as it doesn&#39;t have the traditionalist elements. Due to foreign pressure, we cannot make embassies with regions that are openly fascist.[/color][/b]
+
+[b][color=turqoise]You can vote officers.[/color][/b]
