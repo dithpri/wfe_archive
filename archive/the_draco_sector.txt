@@ -1,4 +1,6 @@
 [b][i]&quot;The Axe forgets, but the Tree remembers.&quot;[/i][/b]
+
+[b][i]|-| Current Official Title[/i] : [u]The Draconian League[/u] |-|[/b]
 [b][i]|-| Current Galactic Year[/i] : [u]2280[/u] |-|[/b]
 [b][i]|-| Rival[/i] : [u][region]The Partion Conference[/region], [nation]Eusan[/nation][/u] |-|[/b]
 
@@ -10,14 +12,12 @@
   |[nation]Oshaune[/nation]| [b]169 Seats[/b] |
   |[nation]Navi VII[/nation]| [b]151 Seats[/b] |
   |[nation]Gatria[/nation]| [b]148 Seats[/b] |
-  |[nation]Omicron I[/nation]| [b]145 Seats[/b] |
+  [color=red]|[nation]Omicron I[/nation]| [b]LOCKDOWN[/b] | \\NO TRADE, VISITATION, OR OTHER MATTERS ARE TO OCCUR WITHOUT HIGHEST MILITARY SUPERVISION AND LIMITATION\\[/color]
   |[nation]Azur Secundus[/nation]| [b]49 Seats[/b] |
   |[nation]Zagon Prime[/nation]| [b]1 Seat[/b] |
 
 [b]|-| [color=#f43e3e]Current Lunar Roster[/color] |-|[/b]
   |[nation]Idaks[/nation]|-|Moon of : [nation]Crimsica[/nation]| [b]108 Seats[/b] |
-  |[nation]Martells[/nation]|Moon of : [nation]Gatria[/nation]| [b]92 Seats[/b] |
-  |[nation]Cestus Prime[/nation]|Moon of : [nation]Amiarce[/nation]| [b]Autonomy Below : Dominion |
 
-|-| [color=#f4dd3e]The Only Accepted Primitive Civilization[/color] |-|[/b]
+|-| [b][color=#f4dd3e]The Only Accepted Primitive Civilization[/color] |-|[/b]
   |[nation]Amiarce[/nation]|

@@ -1,30 +1,37 @@
-[hr][table=plain]
-[tr][td=r4]
-[b]&amp;#128304; Welcome to [colour=#0062b3]Cordone[/b][/colour], your shelter from the storm &amp;#127785;
-[hr]
-[colour=#0062b3][b]&amp;#127891; | I&#39;m new here, what should I do?[/b][/colour]
-[list][*] Introduce yourself to the RMB!
-[*] Join the WA and endorse Delegate [nation]Empire of Dabiristan[/nation] and Council Members [nation]Zharvekia[/nation] and [nation]New Westmore[/nation] to protect our region. 
-[*] Join our Discord and get ready to immerse yourself in our lively roleplay culture!
+[hr][table=noheader]
+[tr][td=r5]
+[b]Welcome to [color=#0062b3]C[/color][color=#28669d]o[/color][color=#4f6b88]r[/color][color=#776f72]d[/color][color=#9e735c]o[/color][color=#c67847]n[/color][color=#ed7c31]e[/color][/b], your shelter from the storm.
+
+[hr][url=https://discord.gg/EA8MVKFYYR][b][colour=#0062b3]Discord[/b][/colour][/url] | [url=https://www.nationstates.net/nation=cordone_roleplay_bureau/detail=factbook/id=main][b][colour=#0062b3]Erene[/colour][/b][/url] | [url=https://www.nationstates.net/page=dispatch/id=2583128][b][colour=#0062b3]RMB Guidelines[/colour][/b][/url] | [url=https://www.nationstates.net/page=dispatch/id=2583123][b][colour=#0062b3]Guidebook[/colour][/b][/url] | [url=https://cordone.miraheze.org/wiki/Main_Page][b][colour=#0062b3]Wiki[/colour][/b][/url][hr]
+[/td][/tr]
+
+[tr][td]
+[colour=#0062b3][b][font=nationstates]&amp;#59421;[/font] | I&#39;m new here, what should I do?[/b][/colour]
+[list][*][b][font=nationstates]&amp;#59443;[/font] |[/b] Introduce yourself to the RMB!
+[*][b][font=nationstates]&amp;#59425;[/font] |[/b] Join the World Assembly and endorse the [url=https://www.nationstates.net/page=dispatch/id=2583906]Cordonite Council[/url]!
+[*][b][font=nationstates]&amp;#59393;[/font] |[/b] Join our Discord and immerse yourself in our lively roleplay culture!
 [/list]
-[hr]
-[colour=#0062b3][b]&amp;#9888;&amp;#65039; | Endorsement Cap: 15 (TBD)[/b][/colour]
+[/td][/tr]
+
+[tr][td]
+[colour=#0062b3][b][font=nationstates]&amp;#59465;[/font] | Endorsement Cap: 30[/b][/colour]
 [i]Offenders will be ejected.[/i]
 
 [/td][/tr]
 
 [tr][td]
-[colour=#0062b3][b]&amp;#128240;  | Regional News[/b][/colour]
+[colour=#0062b3][b][font=nationstates]&amp;#59442;[/font] | The News[/b][/colour]
 [list]
-[*] We are currently hosting Presidential elections! Vote now to have your say in who should be our next president!
-[*] The [url=page=faction/fid=175][b]Strangelove Pact[/b][/url] has landed 27th place! Great job to everyone who participated!
+[*] [nation]Empire of Dabiristan[/nation] has been re-elected as the President!
+[*] Big map update, lots of additions and expansions.
 [/list][/td][/tr]
 
-[tr][td][hr]
-[color=#0062b3][b]&amp;#9889;&amp;#65039; | Question of the Day[/b][/color]
+[tr][td]
+[color=#0062b3][b][font=nationstates]&amp;#59431;[/font] | Question of the Day[/b][/color]
 
 https://www.nationstates.net/page=rmb/postid=58507835
 
 [/td][/tr]
+
 [/table]
-[hr][url=https://discord.gg/EA8MVKFYYR][b][colour=#0062b3]Discord[/b][/colour][/url] | [url=https://www.nationstates.net/nation=cordone_roleplay_bureau/detail=factbook/id=main][b][colour=#0062b3]Erene[/colour][/b][/url] | [url=https://www.nationstates.net/page=dispatch/id=2583128][b][colour=#0062b3]RMB Guidelines[/colour][/b][/url] | [url=https://www.nationstates.net/page=dispatch/id=2583123][b][colour=#0062b3]Guidebook to Cordone[/colour][/b][/url] | [url=https://cordone.miraheze.org/wiki/Main_Page][b][colour=#0062b3]Cordone Wiki[/colour][/b][/url][hr]
+[hr]
