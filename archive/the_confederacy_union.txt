@@ -1,15 +1,17 @@
 [b][u]Governor:[/u][/b]
 [nation]Chastonia[/nation]:
-General Assembly: [b][color=red]Against[/color][/b]
-Security Council: [b][color=red]Against[/color][/b]
+GA: [b][color=red]Against[/color][/b]
+SC: [b][color=red]Against[/color][/b]
 
 [b][u]WA Delegate:[/u][/b]
 [nation]Sanapirau[/nation]:
-General Assembly: 
-Security Council:
+GA: [b]N/A[/b]
+SC: [b][color=red]Against[/color][/b]
 
 [b][color=indigo]The Confederacy Union is a region where nations of all races, ideologies, and beliefs can thrive without discrimination, treated equally by the government. Nations have a voice in shaping the region and proposing ideas to promote growth and global recognition.[/color][/b]
 
 [b][color=crimson]Due to much criticism, fascism is allowed as long as it doesn&#39;t have the traditionalist elements. Due to foreign pressure, we cannot make embassies with regions that are openly fascist.[/color][/b]
 
 [b][color=turqoise]You can vote officers.[/color][/b]
+
+[b][color=green]Pre-2020 was so peak[/color][/b]
