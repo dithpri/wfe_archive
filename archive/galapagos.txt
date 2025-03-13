@@ -1,8 +1,7 @@
-[color=green][b]Galapagos[/b]
-
-a puppet staging region
-a QSA embassy matrix region
-
-In association with:[list]
-[region=Old Spirit], [region=Ancient Lands], [region=Ecuador], [region=Angola], [region=0000],
-[region=United States of America] and over 300 other regions[/list][/color]
+[color=009900][b]Galapagos[/b]
+[/color][color=009999]
+Associated with [region=Ecuador]
+[b]Founded:[/b] 2014 Feb 22
+[b]Featured:[/b] 2025 Mar 12
+[/color][color=000099]
+[b]Embassy Offers Welcome[/b][/color]

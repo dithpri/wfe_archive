@@ -9,3 +9,5 @@ x[nation=long]Peripheri[/nation] - (founded 17-Mar-2023 16:18:01)
 xx[nation=long]North Poplee[/nation] - (founded 10-Aug-2023 19:18:21)
 
 [nation=long]Niesas Calia[/nation] - (founded 12-Aug-2023 04:57:10)
+
+(date and time are US Pacific)
