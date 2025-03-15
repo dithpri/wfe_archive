@@ -1,12 +1,12 @@
 [b][u]Governor:[/u][/b]
 [nation]Chastonia[/nation]:
-GA: [b][color=red]Against[/color][/b]
-SC: [b][color=red]Against[/color][/b]
+GA: [b][color=blue]For[/color][/b]
+SC: [b][color=blue]For[/color][/b]
 
 [b][u]WA Delegate:[/u][/b]
 [nation]Sanapirau[/nation]:
 GA: [b]N/A[/b]
-SC: [b][color=red]Against[/color][/b]
+SC: [b]N/A[/b]
 
 [b][color=indigo]The Confederacy Union is a region where nations of all races, ideologies, and beliefs can thrive without discrimination, treated equally by the government. Nations have a voice in shaping the region and proposing ideas to promote growth and global recognition.[/color][/b]
 
