@@ -10,8 +10,6 @@ FACTS
 [/color][color=D4AF37]
 REGION
 [b]Founded:[/b] 2021 Jun 13
-an [region=Ancient Lands] region
+[b]Featured:[/b] 2025 Mar 15
 [/color][color=004D33]
-[b]Embassy Policy:[/b]
-- At this time, not accepting embassy offers
-- This policy will change in time (cannot declare when just yet)[/color]
+[b]Embassy Policy:[/b] accepting embassy offers[/color]

@@ -1,15 +1,15 @@
 [I]One of your ships ventures through the waters that surround your nation.[/I]
-
-Welcome to the [color=blue]Ocean of New Nations![/color]
+[hr]
+Welcome to the [b][region]Ocean of New Nations[/region]![/b]
 We accept every nation of every ideology, belief, or origin.
 
-Any nation is welcome here.
+All nations are welcome here.
 [hr]
 [color=blue][url=https://www.nationstates.net/page=un]Join[/url] the World Assembly and endorse our delegate [nation]Miarco Polon[/nation]![/color]
 This will ensure our safety from raiders!
 [hr]
 Some World Assembly recommendations:
-[url=https://www.nationstates.net/page=ga]General Assembly[/url] -&amp;gt; [color=gray][b]N/A[/b][/color]
-[url=https://www.nationstates.net/page=sc]Security Council[/url]-&amp;gt; [color=gray][b]N/A[/b][/color]
+[url=https://www.nationstates.net/page=ga]General Assembly[/url] -&amp;gt; [color=green][b]FOR[/b][/color]
+[url=https://www.nationstates.net/page=sc]Security Council[/url]-&amp;gt; [color=green][b]FOR[/b][/color]
 [hr]
-[color=blue][b]Endorsement cap: NONE[/b][/color]
+[color=blue][b]Endorsement cap: 0[/b][/color]
