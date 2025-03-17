@@ -1,7 +1,12 @@
-[b]Welcome to THE CHESAPEAKEAN EMPIRE
+[b]Welcome to THE CHESAPEAKEAN EMPIRE[/b]
 
-[u]Comprised of The Regions of:[/u]
-[Region]New Chesapeake[/region]
+[u][b]Comprised of The Regions of:[/b][/u]
+[Region]Chesapeake[/region]
+[region=Britannia]
+[region=Kingdom of Sicily]
+[region=Albastru]
+[region=The Kingdom of Greece]
+[b][u]Colonies[/u][/b]
 [region]Isle of Aphrodite[/region]
 [region]Britannia[/region]
 [region]Salem[/region]
@@ -11,8 +16,7 @@
 
 
 [u]REGIONAL OFFICIALS:[/u]
-Emperor: His Most Gracious Imperial Majesty, Emperor Maximilian I of [region]New Chesapeake[/region]
-Prime Minister: The Right Honourable Phoenix Vrosek
+Empress: Her Most Gracious Imperial Majesty, Anastasia, Empress of[region]Chesapeake[/region]
 
 Home of [region]Imperial Chesapeakean Navy[/region] 
 NationStates&#39; Premier Imperialist Defender Power[/b]

@@ -2,4 +2,4 @@
 [Hr]
 [b]Coordinate:[/b] [i]-280 75 -36[/i]
 
-[b]Today weather:[/b] [colour=blue]Rainy[/colour]
+[b]Today weather:[/b] [colour=purple]Heavy Rain[/colour]
