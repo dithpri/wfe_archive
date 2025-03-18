@@ -1,11 +1,1 @@
-[b]
-[region]The Black Hawks[/region]&#39;s Airborne Division strikes again!
-
-[u]Hawks:[/u]
-MAJ [nation]Drexlore[/nation]
-LTN [nation]Dyanderna[/nation]
-SGT [nation]Miraakya[/nation]
-SGT [nation]Holoratus[/nation]
-
-[/b]
-
+oops
