@@ -1,14 +1,1 @@
-[b]Welcome to Vesvin![/b]
-
-[u]Secretary of Internal Affairs:[/u] [nation]Roguiguez[/nation]
-[u]Secretary of Foreign Affairs:[/u] [nation]Legionary Sansar[/nation]
-
-[u]Supreme Court Justices:[/u]
-[list]
-[*] [nation]Juliosu[/nation]
-[*] [nation]Ieona[/nation]
-[*] [nation]Hydradoria[/nation]
-[/list]
-
-[u]Border:[/u] [color=green]Open[/color]
-[u]Embassy Status:[/u] [color=green]Open[/color]
+Refounded by the Andarian Starfleet on: 24/03/2025
