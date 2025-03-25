@@ -1,4 +1,4 @@
-[b][color=lightgreen]HOUSE IN SESSION[/color][/b]
+[b][color=darkred]HOUSE NOT IN SESSION[/color][/b]
 [hr]
 &amp;#127963;&amp;#65039; [b][color=#2E7BFF]T[/color][color=#2D7BFF]h[/color][color=#2D7BFF]i[/color][color=#2D7BFF]s[/color] [color=#2D7BFF]r[/color][color=#2D7CFF]e[/color][color=#2D7CFF]g[/color][color=#2D7CFF]i[/color][color=#2D7CFF]o[/color][color=#2D7CFF]n[/color] [color=#2D7DFF]i[/color][color=#2D7DFF]s[/color] [color=#2D7DFF]u[/color][color=#2D7EFF]n[/color][color=#2D7EFF]d[/color][color=#2D7EFF]e[/color][color=#2D7EFF]r[/color] [color=#2C7EFF]t[/color][color=#2C7FFF]h[/color][color=#2C7FFF]e[/color] [color=#2C7FFF]c[/color][color=#2C7FFF]o[/color][color=#2C80FF]n[/color][color=#2C80FF]t[/color][color=#2C80FF]r[/color][color=#2C80FF]o[/color][color=#2C80FF]l[/color] [color=#2C81FF]o[/color][color=#2C81FF]f[/color] [color=#2C81FF]t[/color][color=#2C82FF]h[/color][color=#2C82FF]e[/color] [color=#2C82FF]U[/color][color=#2C82FF]n[/color][color=#2B83FF]i[/color][color=#2B83FF]o[/color][color=#2B83FF]n[/color] [color=#2B83FF]o[/color][color=#2B83FF]f[/color] [color=#2B84FF]A[/color][color=#2B84FF]l[/color][color=#2B84FF]l[/color][color=#2B84FF]i[/color][color=#2B85FF]e[/color][color=#2B85FF]d[/color] [color=#2B85FF]S[/color][color=#2B85FF]t[/color][color=#2B86FF]a[/color][color=#2B86FF]t[/color][color=#2B86FF]e[/color][color=#2B86FF]s[/color][color=#2B86FF].[/color][/b] &amp;#127963;&amp;#65039;
 
@@ -15,7 +15,7 @@
 
 [table][tr][td][i][color=black]Nation[/color][/i][/td][td][i][color=black]HoR Position[/color][/i][/td][/tr]
 [tr][td][b][nation]Trpezi[/nation][/b][/td][td]Speaker of the House[/td][/tr]
-[tr][td]-[/td][td]Majority Leader and Whip[/td][/tr]
+[tr][td][nation]Eco-Paris Reformation[/nation][/td][td]Majority Leader and Whip[/td][/tr]
 [tr][td]-[/td][td]Minority Leader and Whip[/td][/tr][/table]
 
 [hr]
@@ -27,7 +27,7 @@
 [hr]
 
 [table][td][color=black]Congressional Calendar[/color][color=black]:[/color] [url=https://www.nationstates.net/page=dispatch/id=2621803]Link[/url][/td][/table]
-[table][td][color=black]Motions:[/color] [color=black]HOUSE RESOLUTION 014-003[/color] [color=black][i](House in Session)[/i][/color][/td][/table]
+[table][td][color=black]Motions:[/color] [color=black]NONE[/color] [color=black][i](House not in Session)[/i][/color][/td][/table]
 
 [hr]
 
