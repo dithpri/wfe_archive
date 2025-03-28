@@ -1,7 +1,7 @@
 [font=palatino][color=#0f5b2a][b]Welcome to the Town of Ridgefield![/b][/color][/font] &amp;#127969;
 [table=noheader]
 [tr]
-[td][url=https://discord.gg/kSqCKwdndC][color=#0F1A5B][u][b][font=nationstates]&amp;#59431; [/font][font=palatino]Discord Server[/b][/u][/color][/url][/font][/td]
+[td][url=https://discord.gg/kSqCKwdndC][color=#2961BA][u][b][font=nationstates]&amp;#59431; [/font][font=palatino]Discord Server[/b][/u][/color][/url][/font][/td]
 [td][url=page=dispatch/id=2627720][color=#ad6a6c][u][b][font=nationstates]&amp;#59421; [/font][font=palatino]Welcome Center[/b][/u][/color][/url][/font][/td]
 [td][b][url=page=dispatch/id=2627714][color=#0f5b2a][u][font=nationstates]&amp;#59425; [/font][font=palatino]Join the World Assembly![/u][/color][/url][/font][/b][/td]
 [/tr]
@@ -21,6 +21,6 @@
 
 [table=noheader]
 [tr]
-[td][font=palatino][u][b][url=page=dispatch/id=2627722][color=#0F1A5B]Charter[/color][/url][/b][/u][/font][/td]
-[td][font=palatino][u][b][url=page=dispatch/id=2539510][color=#ad6a6c]Legal Code[/color][/url][/b][/u][/font][/td]
-[td][font=palatino][u][b][url=page=dispatch/id=2627726][color=#0f5b2a]Treaties[/color][/url][/b][/u][/font][/td][/tr][/table]
+[td][font=palatino][b][url=page=dispatch/id=2627722][color=#2961BA][u]Charter[/u][/color][/url][/b][/font][/td]
+[td][font=palatino][b][url=page=dispatch/id=2539510][color=#ad6a6c][u]Legal Code[/u][/color][/url][/b][/font][/td]
+[td][font=palatino][b][url=page=dispatch/id=2627726][color=#0f5b2a][u]Treaties[/u][/color][/url][/b][/font][/td][/tr][/table]
