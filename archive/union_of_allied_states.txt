@@ -4,8 +4,8 @@
 
 [hr]
 
-[table][td][color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2020228][color=black]Regional Hub[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2020229][color=black]Government Corner[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2539514][color=black]Regional Docket[/url][/color] [color=black]|[/color][color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2561788][color=black]Embassy Policy[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2621803][color=black]Regional Calendar[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2018336][color=black]Welcome Guide[/color][/url][/td][/table]
-[table][td][color=black]&#149;[/color] [url=https://discord.gg/Nv5NZ55YtT][color=black]Community Discord[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://unionstatesconnect.com/][color=black]Community Website[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://uasforum.com/][color=black]Community Forum[/color][/url][/td][/table]
+[table][td][color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2020228][color=black]Regional Hub[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2020229][color=black]Government Corner[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2539514][color=black]Regional Docket[/url][/color] [color=black]|[/color][color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2561788][color=black]Embassy Policy[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2621803][color=black]Regional Calendar[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2598171][color=black]Map Guide[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2018336][color=black]Welcome Guide[/color][/url][/td][/table]
+[table][td][color=black]&#149;[/color] [url=https://www.nationstates.net/page=dispatch/id=2609971][color=black]Citizenship Registry[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://discord.gg/Nv5NZ55YtT][color=black]Community Discord[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://unionstatesconnect.com/][color=black]Community Website[/color][/url] [color=black]|[/color] [color=black]&#149;[/color] [url=https://uasforum.com/][color=black]Community Forum[/color][/url][/td][/table]
 
 [hr]
 
@@ -15,7 +15,6 @@
 
 [hr]
 
-[table][td][url=][color=black][u]Endorsement Cap[/u][/color][/url][color=black]: None[/color][/td][/table]
 [table][tr][td][i][color=black]Endorse this Nation[/color][/i][/td][td][i][color=black]Regional Position[/color][/i][/td][/tr]
 [tr][td][b][nation]Eco-Paris Reformation[/nation][/b][/td][td]President/WAD[/td][/tr]
 [tr][td][nation]South Waterford[/nation][/td][td]Regent/Founder[/td][/tr]
