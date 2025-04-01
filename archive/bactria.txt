@@ -1,3 +1,14 @@
-[b]Welcome to the Kingdom of Bactria[/b]
+[b][color=#bf0e1c]Welcome to the Kingdom of Bactria[/color][/b]
+[sub][b]| [color=goldenrod][i]The Empire of a Thousand Cities[/i][/color] |[/b][/sub]
 
-[b]King:[/b] Eucratides I of [nation]Bactria[/nation]
+[hr]
+
+[b][color=#bf0e1c]Overview[/color][/b]
+[list][*][b][color=goldenrod]Basileus:[/color][/b] Eucratides I of [b][nation]Bactria[/nation][/b][/list]
+
+[hr]
+
+[b][color=#bf0e1c]Regional News[/color][/b]
+[list][*]The region has been established.[/list]
+
+[hr]

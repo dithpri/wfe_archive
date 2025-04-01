@@ -13,6 +13,6 @@ and drifted off through the universe.
 A team of seven three-foot-high market analysts fell out of it and died,
 partly of asphyxiation, partly of surprise.&#39;&#39;&#39;)[/i]
 
-[b]raidedBy = [&quot;Lily&quot;, &quot;The Black Hawks&quot;, &quot;Ema Skye&quot;, &quot;North Pacific Army&quot;, &quot;Brotherhood of Malice&quot;][/b]
+[b]raidedBy = [&quot;Radiant Inquisition-Perdition&quot;, &quot;Lily&quot;, &quot;The Black Hawks&quot;, &quot;Ema Skye&quot;, &quot;North Pacific Army&quot;, &quot;BOM&quot;][/b]
 
-[u]while True: print(&quot;RATS RATS RATS RATS&quot;)[/u]
+[u]while True: print(&quot;RATS&quot;)[/u]
