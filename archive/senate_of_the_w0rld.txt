@@ -13,4 +13,4 @@ RDP:
  - [nation]chaos empire[/nation]
 
 Foreign:
- - [nation]Red Alabama[/nation]/[nation]Tortlian[/nation]
+ - [nation]Red Alabama[/nation]/[nation]Nova Tortlian[/nation]
