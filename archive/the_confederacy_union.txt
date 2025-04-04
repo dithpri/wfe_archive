@@ -1,6 +1,6 @@
 [b][u]Governor:[/u][/b]
 [nation]Chastonia[/nation]:
-GA: [b][color=blue]For[/color][/b]
+GA: [b][color=red]Against[/color][/b]
 SC: [b][color=black]N/A[/color][/b]
 
 [b][u]WA Delegate:[/u][/b]
