@@ -4,10 +4,13 @@ Somos uma regi&atilde;o para brasileiros. Estamos desenvolvendo algumas coisas n
 
 [b][i][color=orange]J&aacute; desenvolvidas :[/color][/b][/i]
 - A Constitui&ccedil;&atilde;o Regional
+- A Bolsa de Valores 
+-  O Banco Regional 
 
 [b][i][color=orange]Em desenvolvimento:[/color][/b][/i]
 -[strike]A Constitui&ccedil;&atilde;o Regional[/strike] (Finalizada - 02/04/2025)
-- A Bolsa de Valores
+- [strike]A Bolsa de Valores[/strike](Finalizada - 04/04/2025)
+-[strike] Banco Regional [/strike](Finalizada - 04/04/2025)
 - Eventos
 
 [b][i]Hor&aacute;rios em que as na&ccedil;&otilde;es ficam ativas:[/b][/i]
