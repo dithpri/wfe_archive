@@ -1,4 +1,4 @@
-[b][u][color=red]REGION UNDER PROTECTION BY [region]THE W0RLD Federal Army[/region][/u][/b]
+[b][u][color=red]REGION UNDER PROTECTION BY [region]THE W0RLD Federal Army[/region][/color][/u][/b]
 [hr]
 [i]As I walk through the valley of the shadow of death
 I take a look at my life and realize there&#39;s nothin&#39; left
@@ -13,3 +13,5 @@ As they croak, I see myself in the pistol smoke...
 Gangsta&#39;s Paridise by Coolio and L.V[/i]
 
 -[nation]Dackians[/nation]
+[hr]
+[b][i]Kinda Raided[/i][/b]
