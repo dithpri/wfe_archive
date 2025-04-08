@@ -1,25 +1,26 @@
 2025
 
-044 Norris [nation]M c L a r e n[/nation] 78
-036 Verstappen [nation]R e d B u l l[/nation] 36
-035 Russell [nation]M e r c e d e s[/nation] 57
-034 Piastri [nation]M c L a r e n[/nation]
-022 Antonelli [nation]M e r c e d e s[/nation]
-016 Albon [nation]W i l l i a m s[/nation] 17
-010 Ocon [nation]H a a s[/nation] 14
+062 Norris [nation]M c L a r e n[/nation] 111
+061 Verstappen [nation]R e d B u l l[/nation] 61
+049 Piastri [nation]M c L a r e n[/nation]
+045 Russell [nation]M e r c e d e s[/nation] 75
+020 Leclerc [nation]F e r r a r i[/nation] 35
+030 Antonelli [nation]M e r c e d e s[/nation]
+018 Albon [nation]W i l l i a m s[/nation] 19
+015 Hamilton [nation]F e r r a r I[/nation]
+010 Ocon [nation]H a a s[/nation] 15
 010 Stroll [nation]A s t o n M a r t i n[/nation] 10
-009 Hamilton [nation]F e r r a r I[/nation] 17
-008 Leclerc [nation]F e r r a r i[/nation] 
 006 H&uuml;lkenberg [nation]S a u b e r[/nation] 6
-004 Bearman [nation]H a a s[/nation]
+005 Bearman [nation]H a a s[/nation]
+004 Hadjar [nation]R a c I n g B u l l s[/nation] 7
 003 Tsunoda [nation]R e d B u l l[/nation]
 001 Sainz [nation]W i l l i a m s[/nation]
 000 Gasly [nation]A l p i n e[/nation] 0
-000 Hadjar [nation]R a c I n g B u l l s[/nation] 3
+000 Alonso [nation]A s t o n M a r t i n[/nation]
 000 Lawson [nation]R a c I n g B u l l s[/nation]
 000 Doohan [nation]A l p I n e[/nation]
 000 Bortoletto [nation]S a u b e r[/nation]
-000 Alonso [nation]A s t o n M a r t i n[/nation]
+
 
 
 
