@@ -1,1 +1,9 @@
-no
+Go to one of these regions:
+
+[region]The Black Hawks[/region]
+[region]The Brotherhood of Malice[/region]
+[region]Osiris[/region]
+[region]Sparkalia[/region]
+[region]Lair of the Dragon[/region]
+[region]Purple Pony Club[/region]
+[region]The Shadows[/region]
