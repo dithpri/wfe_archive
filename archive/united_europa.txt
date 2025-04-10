@@ -1,7 +1,10 @@
 [table][tr][td][color=00477E][b]United Europa[/b][/color][/td][/tr]
-[tr][td][color=c3b091]Trial Testing Region[/color][/td][/tr]
+[tr][td][color=c3b091]New Ancient Lands Region
+
+Minimum Population of each nation monitored[/color][/td][/tr]
 [tr][td][color=633517]REGION
 [b]Founding:[/b] 2025 Apr 08
 this is a [region=Dog Lake] region
 [/color][color=004d33]
-[b]Embassy Policy:[/b] Pending[/color][/td][/tr][/table]
+[b]Embassy Policy:[/b] Embassy Offers are welcome
+[i]There will be a few exceptions that will be ignored[/i][/color][/td][/tr][/table]

@@ -5,8 +5,9 @@ Somos uma regi&atilde;o para brasileiros. Estamos desenvolvendo algumas coisas n
 [b][i][color=orange]J&aacute; desenvolvidas :[/color][/b][/i]
 - A Constitui&ccedil;&atilde;o Regional
 - A Bolsa de Valores 
--  O Banco Regional 
-
+- O Banco Regional
+- Mapa Regional 
+- RP ir&aacute; desde o ano de 1900 at&eacute; 2025.
 [b][i][color=orange]Em desenvolvimento:[/color][/b][/i]
 -[strike]A Constitui&ccedil;&atilde;o Regional[/strike] (Finalizada - 02/04/2025)
 - [strike]A Bolsa de Valores[/strike](Finalizada - 04/04/2025)
