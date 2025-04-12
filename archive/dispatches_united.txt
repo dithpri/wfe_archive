@@ -1,0 +1,12 @@
+Solely created in order to test BBCode on regional factbooks. Curious on what is now possible with them.
+[font=nationstates]&amp;#59414;[/font]
+[size=50][font=nationstates]&amp;#59414;[/font][/size]
+[table]
+[tr][td=2]A[/td][td=r2]B[/td][/tr]
+[tr][td]C[/td][td]D[/td][/tr]
+[/table]
+[img]https://www.nationstates.net/images/flags/Default.svg[/img]
+[box]T[/box]
+[sidebar]T[/sidebar]
+[float=right]Test[/float]
+[tab=50]Test[/tab]

@@ -1,4 +1,5 @@
 Colony of [region]The Hanguard[/region]
 The Members of the Union State are [nation]Korinissia[/nation], [nation]Aedsaria[/nation], [nation]Soratia-Pasincotia[/nation], and [nation]Neo-Ankarchiania[/nation].
 Stability:[u][color=darkred]Quickly Worsening[/color][/u]
-[b][i][u]DEFUNCT[/u][/i][/b]
+[strike][b][i][u]DEFUNCT[/u][/i][/b][/strike]
+REFORMED
