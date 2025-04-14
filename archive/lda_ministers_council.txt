@@ -1,9 +1,10 @@
 [b]Welcome to the Council of Ministers of [region]Liberty Democratic Alliance[/region]![/b]
 
-[u][b]The Twenty-Fifth Government:[/b][/u]
-[b]Prime Minister[/b]: [nation=long]Monsmearc[/nation]
-[b]Minister of Interior[/b]: [nation=long]Sargk[/nation]
-[b]Minister of Foreign Affairs[/b]: [nation=long]Jaroinon[/nation]
-[b]Minister of Justice[/b]: [nation=long]Bystopia[/nation]
+[b]The Twenty-Sixth Government:[/b]
+[b]Prime Minister[/b]: [nation=long]Jaroinon[/nation]
+[b]Deputy Prime Minister/Minister of Justice[/b]: [nation=long]Republic of Mesque[/nation]
+[b]Minister of the Interior[/b]: [nation=long]Communist Lukania[/nation]
+[b]Minister of Foreign Affairs[/b]: [nation=long]Ineva[/nation]
+[b]Minister of Recruitment[/b]: [nation=long]Rocaia[/nation]
 
 Ministers are asked to tag every member of the council, so that each nation receive a &quot;notice&quot;.
