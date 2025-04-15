@@ -1,7 +1,5 @@
 /
-\  [color=blue] Welcome to the [b]Northeast Atlantic[/b], Your one and only shelter from the storm.[/color]
-/
-\ [color=blue][b]I&#39;m new here, what should I do?[/b][/color]
+\  [color=#4e4ebd] Welcome to the [b]Northeast Atlantic[/b], Your one and only shelter from the storm.[/color]
 / 
 \ Introduce yourself on the RMB! We are a democracy and accept everybody, regardless of race, color, background, or political stance, so do not fear! We are very new and 
 / small, which is why we will take the time to make sure you are satisfied with this region.
@@ -11,4 +9,7 @@
 / Official Symbols: &amp;#127775;[b]Commendation[/b]  &amp;#9876;&amp;#65039;[b]Condemnation[/b]   &amp;#10060;[b]Abdication[/b]  &amp;#128997;[b]Ejection[/b] (if a nation has the commendation, condemnation, or abdication   
 \ symbol next to them, that means it has happened to them.)
 /
-\ Since we support free speech, [u]NO[/u] recruitment posts will be deleted [u]AT ALL[/u].
+\ Current stance on WA Proposals: 
+/ [color=#779bb9][b]GA: For[/b][/color]
+\
+/ [color=#c19b87][b]SC: For[/b][/color]
