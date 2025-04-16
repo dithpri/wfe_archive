@@ -10,6 +10,6 @@
 \ symbol next to them, that means it has happened to them.)
 /
 \ Current stance on WA Proposals: 
-/ [color=#779bb9][b]GA: For[/b][/color]
+/ [color=#779bb9][b]GA: Against[/b][/color]
 \
 / [color=#c19b87][b]SC: For[/b][/color]
