@@ -1,13 +1,9 @@
-[color=gold] &amp;#127984; The Capital of the Real Middle Earth[/color]
-[color=silver]&quot;The Hidden Heart of the Realm&quot;[/color]
+[color=gold]The Capital of [region]The Real Middle Earth[/region][/color]
+[color=gray]A hidden stronghold. A place for whispers and war councils.[/color]
 
-Welcome to [color=gold]The Capital[/color] &#151; the administrative center, emergency refuge, and secret stronghold of [color=green]The Real Middle Earth[/color].
+Once captured by [color=purple][region]The Purple Pony Club[/region][/color] in a surprise invasion, the Capital fell into chaos and absurd tyranny. But it was [color=skyblue]liberated by a coalition led by [nation]Starship Kilo[/nation][/color], who drove the invaders out and restored order.
 
-[color=red]&amp;#128737;&amp;#65039; Evacuation Hub[/color]: Built for safety in crisis, The Capital stands ready as the region&#146;s emergency shelter &#151; secure, guarded, and unreachable by outsiders.
+Now [color=green]rebuilt and more secure than ever[/color], the Capital serves as a [color=teal]private meeting place for officials[/color], a [color=crimson]refuge in times of crisis[/color], and the [color=orange]quiet heart of [region]The Real Middle Earth[/region] diplomacy[/color].
 
-[color=blue]&amp;#128477;&amp;#65039; Command Center[/color]: All major decisions and diplomatic moves happen here. It&#146;s the region&#146;s brain and beating heart.
-
-[color=purple]&amp;#128367;&amp;#65039; Whispers Welcome[/color]: Need to speak in secret? The Capital is where messages vanish into shadows &#151; and truths stay buried.
-
-[color=darkred]Enter The Capital. Stay for the safety. Speak freely. Be unseen.[/color]
+[color=darkgray]Not shown on maps. Always watching.[/color]
 
