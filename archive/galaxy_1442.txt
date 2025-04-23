@@ -1,7 +1,11 @@
-A spiral Galaxy located not far from the Milky Way. It is currently contested between the [nation]Galactic Rebellion[/nation], made up of the remnants of humanity that fled following the destruction of earth in 2148, and [nation]The Doodle Empire[/nation], an empire ruled by a race of smiley faces known as Doodles. Many other nations exist in between, existing independently or allied to the Rebellion/Doodles.
+[color=red][b]Welcome to Galaxy 1442![/b][/color]
+_________________________________________________________________________________________________
 
-[b]Alliances-[/b]
-[i]Doodle Empire and allies[/i]
+A spiral Galaxy located not far from the Milky Way. It is currently contested between the [nation]Galactic Rebellion[/nation] and [nation]The Doodle Empire[/nation]. Many other nations exist in between, existing independently or allied to the Rebellion/Doodles. 
+
+
+[color=blue][b]Alliances-[/b][/color]
+[color=orange][i]Doodle Empire and allies[/i][/color]
 [nation]The Doodle Empire[/nation]
 [nation]Melodie Brawl Stars[/nation]
 [nation]Sakemoto[/nation]
@@ -9,7 +13,7 @@ A spiral Galaxy located not far from the Milky Way. It is currently contested be
 -[nation]Vortska[/nation]
 [nation]bigbrothers[/nation]
 
-[i]Rebellion and Allies[/i]
+[color=purple][i]Rebellion and Allies[/i][/color]
 [nation]Galactic Rebellion[/nation]
 [nation]the Distillery Pigs[/nation]
 [nation]UMbuso WaseSpain[/nation]
