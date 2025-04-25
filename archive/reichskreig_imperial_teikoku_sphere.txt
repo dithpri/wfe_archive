@@ -1,37 +1,39 @@
-[i]This Roleplay is still under development. [/i] [b]Set in an Alt. History beginning in 2337[/b]
+[i]Roleplay in development. Set in Alt. History[/i]
 
 [nation]Reichskreig[/nation]
-[b]Capital City:[/b] Germania 
-[b]Ruler:[/b]
+[b]Capital:[/b] Germania
+[b]Ruler:[/b] Kaiser Aurelian Krieger
 
 [nation]Greater Reichskreig[/nation]
-[b]Capital City:[/b] Germania
-[b]Ruler:[/b]
+[b]Capital:[/b] Lichtstadt
+[b]Ruler:[/b] Kaiser Aurelian Krieger
 
 [nation]Imperial Teikoku[/nation]
-[b]Capital City:[/b] Kyoto
-[b]Ruler:[/b]
+[b]Capital:[/b] K&amp;#333;to
+[b]Ruler:[/b] Emperor Katsuro Tatsu
 
 [nation]Axis Sphere Regions[/nation]
-[b]Capital City (Western Axis):[/b] Buenos Aires
-[b]Ruler:[/b]
-[b]Capital City (Central Axis):[/b] New Persepolis
-[b]Ruler:[/b]
+[b]Reichskreig Axis Capital:[/b] Hochstadt
+[b]Ruler:[/b] Kaiser Aurelian Krieger
+[b]General:[/b] Ernst von Bl&uuml;cher
+
+[b]Teikoku Axis Capital:[/b] Seir&amp;#333;
+[b]Ruler:[/b] Emperor Katsuro Tatsu
+[b]Commander:[/b] Tatsuya Kuroda
 
 [nation]Safe Zone of the US[/nation]
-[b]Capital City:[/b] Denver
-[b]Ruler:[/b]
+[b]Capital:[/b] Solace City
+[b]Ruler:[/b] President General Victor Drake
 
-
-Terraforming of the Moon began in 1974 by The Empire of Reichskreig. 
-
-The Empire of Imperial Teikoku claims their territory as 
-[nation]Lunar Imperial Sphere[/nation]
-[b]Capital City:[/b] 
-[b]Ruler:[/b]
-
-The Empire of Reichskreig claims their regions as 
+The Moon:
+Reichskreig:
 [nation]Reichskreig Lunar Colony[/nation]
-[b]Capital City:[/b] 
-[b]Ruler:[/b]
+[b]Capital:[/b] Lichtreich
+[b]Ruler:[/b] Kaiser Aurelian Krieger
+[b]Commander:[/b] Wilhelm Stahlkop
 
+Teikoku:
+[nation]Lunar Imperial Sphere[/nation]
+[b]Capital:[/b] K&amp;#333;k&amp;#333;sei
+[b]Ruler:[/b] Emperor Katsuro Tatsu
+[b]Commander:[/b] Kurt Adler

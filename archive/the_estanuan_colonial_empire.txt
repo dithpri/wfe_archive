@@ -6,5 +6,6 @@
 
 [b]|-| [color=#3e90f4]Current Colonial Roster[/color] |-|[/b]
   |[nation]Atrox[/nation]|  
-  |[nation]Glacio I[/nation]|  
-  |[nation]Nord Lestrade[/nation]|  
+  |Glacio I|  
+  |Nord Lestrade|
+  |Synthia Prime|
