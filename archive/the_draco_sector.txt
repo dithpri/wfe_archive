@@ -1,9 +1,8 @@
 [b][i]&quot;The Axe forgets, but the Tree remembers.&quot;[/i][/b]
-[i][b]If you came to get away from your Region&#39;s drama see to joining our public [region]The Refugee Center[/region].[/b][/i]
 
 [b][i]|-| Current Official Title[/i] : [u]The Draconian League[/u] |-|[/b]
 [b][i]|-| Current Galactic Year[/i] : [u]2283[/u] |-|[/b]
-[b][i]|-| Rival[/i] : [u][region]The Partion Conference[/region], [nation]Eusan[/nation][/u] |-|[/b]
+[b][i]|-| Rival[/i] : [u][nation]Eusan[/nation][/u] |-|[/b]
 
 [b]|-| [color=#3e90f4]Current Planetary Roster[/color] |-|[/b]
   |[nation]Crimsica[/nation], [region]The Crimsican Colonial Empire[/region]| [b]184 Seats[/b] |
@@ -20,4 +19,4 @@
   |[nation]Pandion-XXIV[/nation]| [b]1 Seat[/b] |
 
 [b]|-| [color=#f43e3e]Current Lunar Roster[/color] |-|[/b]
-  |[nation]Idaks[/nation]|-|Moon of : [nation]Crimsica[/nation]| [b]108 Seats[/b] |
+  |[nation]Idaks[/nation]|-|Moon of : [nation]Crimsica[/nation]|
