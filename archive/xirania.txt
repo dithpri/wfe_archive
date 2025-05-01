@@ -8,7 +8,7 @@
 [nation]Xiraia Interdimensional Affairs Office 1[/nation] - [region]Astellaria[/region]
 [nation]Xiraia Interdimensional Affairs Office 2[/nation] - [region]Lazarus[/region]
 [nation]Xiraia Interdimensional Affairs Office 3[/nation] - [region]The Kodiak Republic[/region]
-[nation]Xiraia Interdimensional Affairs Office 4[/nation] - [VACANT]
+[nation]Xiraia Interdimensional Affairs Office 4[/nation] - [region]The Thirteenth Vow[/region]
 [hr]
 [b][color=#5BCEFA]TRANS[/color] [color=pink]RIGHTS[/color] [color=white]ARE[/color] [color=pink]HUMAN[/color] [color=#5BCEFA]RIGHTS[/color]
 [color=#5BCEFA]TRANS[/color] [color=pink]WRONGS[/color] [color=white]ARE NOT[/color] [color=pink]WAR[/color] [color=#5BCEFA]CRIMES[/color][/b]
