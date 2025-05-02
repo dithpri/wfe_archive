@@ -5,4 +5,6 @@ An alt. history region. Play out scenarios!
 
 This region is now [b]democratic.[/b]
 
-[b]At any time,[/b] you can endorse a nation to become the WA Delegate which then will (partially) control the region.
+[b]At any time,[/b] you can endorse a nation to become the WA Delegate which then will control the region.
+
+WA Delegates must not alter their own authority.
