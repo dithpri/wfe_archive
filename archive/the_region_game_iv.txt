@@ -1,12 +1,12 @@
-[color=blue][b]Bienvenue dans le jeu de la r&eacute;gion![/b][/color]
+[color=red][b]Welcome to the Region Game! A colony of [region]Imperium Rhomania[/region]![/b][/color]
 
-[color=#0000a0]R&egrave;gle principale: Tout doit &ecirc;tre &eacute;crit en fran&ccedil;ais!
+GIVE US YOUR PUPPETS. [b]NOW![/b]
 
-Toutes les r&eacute;gions TRG sont des d&eacute;p&ocirc;ts de marionnettes universels! N&#39;h&eacute;sitez pas &agrave; d&eacute;poser vos marionnettes ici![/color]
+Embassies are subject to the Codex Rhomania.
 
-[url=https://forum.nationstates.net/viewtopic.php?f=12&amp;t=563081]Sujet du forum![/url]
+[url=https://forum.nationstates.net/viewtopic.php?f=12&amp;t=563081]Fourm Topic![/url]
 
-[b]Toutes les r&eacute;gions:[/b]
+[b]All Regions:[/b]
 [region]The Region Game[/region]
 [region]The Region Game II[/region]
 [region]The Region Game III[/region]
@@ -14,3 +14,5 @@ Toutes les r&eacute;gions TRG sont des d&eacute;p&ocirc;ts de marionnettes unive
 [region]The Region Game Frontier[/region]
 
 [region]The Ejection Game[/region]
+
+[colour=red]&quot;If you want peace, prepare for war.&quot;[/colour]
