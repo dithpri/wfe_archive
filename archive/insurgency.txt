@@ -4,23 +4,10 @@ Ranks:
 
 Engineer
 WA Delegate
-Commander
-Lieutenant General
-Major General
-Brigadier General
-Colonel
-Lieutenant Colonel
-Major
+Delta Command [DC]
+Beta Command [BC]
+Gamma Command [GC]
 
 --------------------------------------------------------
 
-People may go to war with people in the [region]Insurgency[/region] but if you go to war there are five Rules
-
-1. You and the [b]must[/b] have [b]influence and a place[/b] on the map
-2. You [b]must[/b] ping [nation]Dark Chaos Insurgency[/nation] or [nation]New Casnor Union[/nation] before starting
-3. [b]Must agree[/b] on a start date with [b]operator[/b][u]/the one you pinged[/u] and the person going to war with
-4. [b]NO big allies[/b] if having an [u]inside[/u] conflict
-5. The most amount of your military you can [b]supply 35%[/b] of your army
-
 --------------------------------------------------------
-*Current people ranks*

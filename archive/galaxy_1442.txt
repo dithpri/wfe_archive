@@ -21,9 +21,11 @@ A spiral Galaxy located not far from the Milky Way. It is currently contested be
 
 [i]Neutral[/i]
 [nation]The Cookie Caliphate[/nation]
-[nation]Bombardilo Cocodrilo[/nation] (rest in peace)
--[nation]Tralalero Tralaland[/nation]
 [nation]Starr Parks[/nation]
 [nation]Nord VPN[/nation]
 [nation]Rizzy Sigma toilet[/nation]
 [nation]Egg Pam[/nation]
+
+[i]Fallen Nations[/i]
+[nation]Bombardilo Cocodrilo[/nation]
+-[nation]Tralalero Tralaland[/nation]

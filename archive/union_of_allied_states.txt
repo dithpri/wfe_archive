@@ -9,9 +9,8 @@
 
 [hr]
 
-[table][td][color=black]GA:[/color] [url=https://www.nationstates.net/page=ga][color=darkred]Against[/color][/url][/td][/table]
-[table][td][color=black]SC:[/color] [url=https://www.nationstates.net/page=sc][color=darkred]Against[/color][/url][/td][/table]
-
+[table][td][color=black]GA:[/color] [url=https://www.nationstates.net/page=ga][color=blue]For[/color][/url][/td][/table]
+[table][td][color=black]SC:[/color] [url=https://www.nationstates.net/page=sc][color=blue]For[/color][/url][/td][/table]
 
 [hr]
 

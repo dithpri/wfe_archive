@@ -1,12 +1,11 @@
-[color=blue][b]Bienvenue dans le jeu de la r&eacute;gion![/b][/color]
+[color=blue][b]Welcome to the region game![/b][/color]
 
-[color=#0000a0]R&egrave;gle principale: Tout doit &ecirc;tre &eacute;crit en fran&ccedil;ais!
+[color=#0000a0]All TRG regions are universal puppet repositories! Feel free to submit your puppets here![/color]
 
-Toutes les r&eacute;gions TRG sont des d&eacute;p&ocirc;ts de marionnettes universels! N&#39;h&eacute;sitez pas &agrave; d&eacute;poser vos marionnettes ici![/color]
+[url=https://forum.nationstates.net/viewtopic.php?f=12&amp;t=563081]Forum topic![/url]
 
-[url=https://forum.nationstates.net/viewtopic.php?f=12&amp;t=563081]Sujet du forum![/url]
+[b]All Regions:[/b]
 
-[b]Toutes les r&eacute;gions:[/b]
 [region]The Region Game[/region]
 [region]The Region Game I[/region]
 [region]The Region Game II[/region]
