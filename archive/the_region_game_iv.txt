@@ -14,3 +14,4 @@
 [region]The Region Game Frontier[/region]
 
 [region]The Ejection Game[/region]
+[region]The Stat Game[/region]
