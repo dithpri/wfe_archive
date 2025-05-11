@@ -9,17 +9,12 @@
 
 [hr]
 
-[table][td][color=black]GA:[/color] [url=https://www.nationstates.net/page=ga][color=blue]For[/color][/url][/td][/table]
-[table][td][color=black]SC:[/color] [url=https://www.nationstates.net/page=sc][color=blue]For[/color][/url][/td][/table]
-
-[hr]
-
 [table][tr][td][i][color=black]Endorse this Nation[/color][/i][/td][td][i][color=black]Regional Position[/color][/i][/td][/tr]
 [tr][td][b][nation]Eco-Paris Reformation[/nation][/b][/td][td]President/WAD[/td][/tr]
 [tr][td][nation]South Waterford[/nation][/td][td]Regent/Founder[/td][/tr]
 [tr][td][nation]Revengi[/nation][/td][td]Vice-President[/td][/tr]
 [tr][td][nation]Cynoa[/nation][/td][td]Secretary of the Interior[/td][/tr]
-[tr][td]-[/td][td]Secretary of the Exterior[/td][/tr]
+[tr][td][nation]Nshi[/nation][/td][td]Acting Secretary of the Exterior[/td][/tr]
 [tr][td][nation]Liberty Martyred[/nation][/td][td]Secretary of Order and Intelligence[/td][/tr]
 [tr][td][nation]Liberty Martyred[/nation][/td][td]Acting Attorney General[/td][/tr]
 [tr][td][nation]United Sentinel States[/nation][/td][td]Chief Justice[/td][/tr]
