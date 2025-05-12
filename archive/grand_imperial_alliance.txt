@@ -1,8 +1,3 @@
-[i][b][color=red]As one star falls, another rises![/color][/b][/i]
-[b]----------------------------------------[/b]
-[i][b][color=yellow]Dux Fortis[/color][/b][/i] - [nation]Irsfamen[/nation]
-[i][b][color=orange]Dux Minor[/color][/b][/i] - [nation]South Rolanda[/nation]
-[i][b][color=tan]Custos Finium[/color][/b][/i] - [nation]Crumpetopia[/nation]
-[b]----------------------------------------[/b]
-[i][b][color=white]ENDORSE OUR[/color] [color=lightblue]DELEGATE[/color][color=white]![/color][/b][/i] - TBD
-[b]----------------------------------------[/b]
+ [b]Colony of [region]The Interstellar Confederacy[/region][/b]
+
+Refounded on [i]2025/05/11[/i]

@@ -1,5 +1,10 @@
-[b]404 Not Found[/b]
-[color=664422]
+[color=96001a][b]404 Not Found[/b]
+[/color][color=664422]
 Page error, moved, deleted or never existed
-[/color]
-[color=803000][region=the Central Pacific] allied region[/color]
+[/color][color=808000]
+REGION
+[b]Founded:[/b] 2019 SEP 03
+[b]Featured:[/b] 2025 MAY 11
+[region=the Central Pacific] allied region
+[/color][color=004d33]
+Embassy Offers Welcome[/color]
