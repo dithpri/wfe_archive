@@ -6,9 +6,10 @@ FACTS
 [b]Population:[/b] 837,437 (1,579,283 Metro)
 [/color][color=olive]
 REGION
-a QSA region
+[b]Founded:[/b] 2016 MAY 19
+[b]Matrixed:[/b] 2020 MAY 06
+[b]Featured:[/b] 2025 MAY 12
 sister region: [region=Togo]
 associated with: [region=Old Spirit], [region=0000], [region=United States of America]
-[b]Founded:[/b] 2016.05.19
-[b]Matrixed:[/b] 2020.05.06[/color][color=654321]
+[/color][color=654321]
 Embassy Offers Accepted[/color]
