@@ -10,5 +10,7 @@ Princess of Wales: [nation]Princess Elizabeth[/nation]
 
 Member Regions include;
 &amp;#128081; [region]The United Kingdom[/region] of Great Britain and Ireland
-&amp;#128081; The Commonwealth of [region]The Walbard Union[/region]
+&amp;#128081; [region]The Commonwealth of Canada[/region]
+&amp;#128081; The Kingdom of [region]The Walbard Union[/region]
+&amp;#128081; The Kingdom of [region]Tropica[/region]
 &amp;#128081; The Kingdom of [region]La Hira[/region]
