@@ -1,9 +1,14 @@
-[color=gold]The Capital of [region]The Real Middle Earth[/region][/color]
-[color=gray]A hidden stronghold. A place for whispers and war councils.[/color]
+[b]This region is property of [region]The Real Middle Earth[/region] and therefore it&#39;s the High Warden&#39; ([nation]The Free Peoples of Arnor[/nation]) property.[/b]
 
-Once captured by [color=purple][region]The Purple Pony Club[/region][/color] in a surprise invasion, the Capital fell into chaos and absurd tyranny. But it was [color=skyblue]liberated by a coalition led by [nation]Starship Kilo[/nation][/color], who drove the invaders out and restored order.
+[color=green]This is the capital of [region]The Real Middle Earth[/region]. The purposes of this region vary. The uses shall be listed below:[/color]
 
-Now [color=green]rebuilt and more secure than ever[/color], the Capital serves as a [color=teal]private meeting place for officials[/color], a [color=crimson]refuge in times of crisis[/color], and the [color=orange]quiet heart of [region]The Real Middle Earth[/region] diplomacy[/color].
+[color=red]1. This is where the lawmaking body meets to make decisions. Laws are voted on and decided here. All decisions are suppressed for security purposes.[/color]
 
-[color=darkgray]Not shown on maps. Always watching.[/color]
+[color=purple]2. This is where court cases happen and nations accused of crimes in [region]The Real Middle Earth[/region] are judged.[/color]
 
+[color=blue]3. This is where government officials can seek refuge during invasions. It is to provide a safe place from attacks.[/color]
+
+[region]The Real Middle Earth[/region] regions and holdings:
+[region]The Real Middle Earth[/region]
+[region]Capital of The Real Middle Earth[/region]
+[region]Military of The Real Middle Earth[/region]
