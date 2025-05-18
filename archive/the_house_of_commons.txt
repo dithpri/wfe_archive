@@ -9,7 +9,7 @@
 [*]Minister of Foreign Affairs: [nation]CurryWurst[/nation] [b]([color=Gray]IND[/color])[/b]
 [*]Minister of Cultural Affairs: [nation]Lythusia[/nation] [b]([color=#80DAEB]COM[/color])[/b][/list][/list]
 
-[b][list][*]Leader of the Opposition:[/b] [nation]Cerdenia[/nation] [b]([color=#D03A83]PRO[/color])[/b]
+[b][list][*]Leader of the Opposition:[/b] [nation]Vacant[/nation] [b]([color=Gray]N/A[/color])[/b]
 [list][*]Shadow Minister of Domestic Affairs: [nation]Vacant[/nation] ([b][color=Gray]N/A[/color][/b])
 [*]Shadow Minister of Foreign Affairs: [nation]Vacant[/nation] [b]([color=Gray]N/A[/color])[/b]
 [*]Shadow Minister of Culture: [nation]Vacant[/nation] [b]([color=Gray]N/A[/color])[/b][/list][/list]
