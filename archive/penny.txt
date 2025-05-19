@@ -2,7 +2,7 @@ Welcome to the personal region of [nation=Acadiane].
 
 [url=region=the_communist_bloc][color=#cb0000][b]The Communist Bloc[/url][/color][/b]: [nation]Acadiane[/nation]
 
-[url=region=leningrad_airfield][color=#850001][b]People&#39;s Revolutionary Air Force[/url][/color] - [color=#2f33c5]Air Marshal[/color][/b]: [nation]APAF Command[/nation]
+[url=region=leningrad_airfield][color=#850001][b]People&#39;s Revolutionary Air Force[/url][/color] - [color=#7f0000]Squadron Leader[/color][/b]: [nation]APAF Command[/nation]
 
 [b][url=region=the_brotherhood_of_malice][color=#590059]The Brotherhood of Malice[/url][/color] - [color=#b23aee]Assassin[/color][/b]: [nation]Oneiroi[/nation]
 
