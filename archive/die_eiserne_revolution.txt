@@ -13,11 +13,12 @@ DER-2 once was about the alternate history scenario where nobody won WW1,
 
 [b][color=gold]Join the DER Army&#39;s Golden Toilet Division (GTD) today![/color][/b]
 Regions we have control, influence or important positions in:
-[list]
-[*][region]Die Eiserne Revolution[/region]
-[region]Belyia[/region]
-[region]The Region Game I[/region]
-[region]Century of Change[/region]
-[region]Rise and Ruin[/region]
-[region]Age of Renewal[/region]
-[/list]
+-
+[b][region]Die Eiserne Revolution[/region], [color=green]Peaceful[/color]
+[region]Belyia[/region], [color=green]Peaceful[/color]
+[region]The Region Game I[/region], [color=yellow]Tensions[/color]
+[region]Century of Change[/region], [color=green]Peaceful[/color]
+[region]Rise and Ruin[/region], [color=green]Peaceful[/color]
+[region]Age of Renewal[/region], [color=green]Peaceful[/color]
+
+[/b]
