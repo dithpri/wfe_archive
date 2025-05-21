@@ -16,7 +16,7 @@ Regions we have control, influence or important positions in:
 -
 [b][region]Die Eiserne Revolution[/region], [color=green]Peaceful[/color]
 [region]Belyia[/region], [color=green]Peaceful[/color]
-[region]The Region Game I[/region], [color=yellow]Tensions[/color]
+[region]The Region Game I[/region], [color=green]Peaceful[/color]
 [region]Century of Change[/region], [color=green]Peaceful[/color]
 [region]Rise and Ruin[/region], [color=green]Peaceful[/color]
 [region]Age of Renewal[/region], [color=green]Peaceful[/color]

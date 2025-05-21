@@ -1,0 +1,10 @@
+Welcome to the Region Game Parliament! The chambers of democracy!
+Weaponry is not allowed inside!
+
+All Regions:
+[region]The Region Game[/region]
+[region]The Region Game I[/region]
+[strike][region]The Region Game II[/region][/strike] (Hermit Control)
+[region]The Region Game III[/region]
+[region]The Region Game IV[/region]
+[strike][region]The Region Game Frontier[/region][/strike] (Inactive)

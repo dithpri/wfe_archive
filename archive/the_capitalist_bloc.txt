@@ -9,6 +9,8 @@ REGIONAL HAPPENINGS:
 
 [region]The Communist Empire[/region] has been conquered!
 
+[region]HQ of non democratics[/region] has been conquered!
+
 [b][color=#00a000]Regional Values[/color][/b]:
 [list]
 [*][b]Free Markets[/b] &#150; Trade, competition, and open economies
