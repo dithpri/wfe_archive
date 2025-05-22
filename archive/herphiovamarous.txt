@@ -1,8 +1,13 @@
-[nation]HerlygLand[/nation] A conservative, but democratic nation of nudist slaves owners ready to throw nukes at the slightest foreign issue.
-[nation]Vassence[/nation] A socialist nation of poors, but very nice and honest peoples, slowly abandoning rocks and spears for more civilised options, with a slow but growing economy.
-[nation]Phiolaria[/nation] A far right dictatorship where everything is a crime, apart from drugs.
-[nation]Dictaturous[/nation]  A left-wing dictatorship of nudist cultists.
-[nation]Mama City[/nation] A dictatorship who&#39;s leader try to make is country as bad as it can get.
+[B]A region of perfectly balanced political beliefs[/b]
+[List=I][*][nation]HerlygLand[/nation]
+[Color=aa0707]A conservative, but democratic nation of nudist slaves owners ready to throw nukes at the slightest foreign issue.[/color]
+[*][nation]Vassence[/nation]
+[Color=0db6e2]A socialist nation of nice and honest peoples, slowly abandoning rocks and spears, slowly growing the economy.[/color]
+[*][nation]Phiolaria[/nation]
+[Color=006600]A far right dictatorship where everything is a crime, apart from drugs.[/color]
+[*][nation]Dictaturous[/nation]
+[Color=ee1c25]A left-wing dictatorship of nudist, cultists, drug addicts.[/color]
+[*][nation]Mama City[/nation]
+[Color=02529c]A dictatorship of which the leader does his best to make it the worst.[/color][/list]
 
-[B]We accept all embassy request .
-If for some stupid reasons you would like to join us, send [nation]HerlygLand[/nation] a telegram, giving us brieve description of your glorious nation.[/b]
+[B]We accept all embassy request.[/b]

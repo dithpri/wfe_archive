@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 
 [color=blue][b]Alliances-[/b][/color]
-[color=orange][b][i]Doodle Empire and allies[/b][/i][/color]
+[color=orange][b][i]Pact of Steel[/b][/i][/color]
 [nation]The Doodle Empire[/nation]
 [nation]Sakemoto[/nation]
 -[nation]Suzarain[/nation]
@@ -13,20 +13,19 @@ ________________________________________________________________________________
 [nation]Melodie Brawl Stars[/nation]
 [nation]bigbrothers[/nation]
 
-[color=purple][i][b]Rebellion and Allies[/b][/i][/color]
+[color=purple][i][b]Allied Powers[/b][/i][/color] (not currently at war with the [color=orange][b][i]Pact of Steel[/b][/i][/color])
+[i]Rebellion Block-[/i]
 [nation]Galactic Rebellion[/nation]
-[nation]the Distillery Pigs[/nation]
-[nation]UMbuso WaseSpain[/nation]
-[nation]Granjek[/nation]
 [nation]Nord VPN[/nation]
+[i]Granjek Block-[/i]
+[nation]Granjek[/nation]
+[nation]the Distillery Pigs[/nation]
+[nation]Rizzy Sigma toilet[/nation]
+[i]Neutral-[/i] 
+[nation]UMbuso WaseSpain[/nation]
 
 [i][b]Neutral[/b][/i]
 [nation]The Cookie Caliphate[/nation]
 [nation]Starr Parks[/nation]
-[nation]Rizzy Sigma toilet[/nation]
 [nation]Kayo Chingonyi[/nation]
 [nation]Egg Rico[/nation]
-
-[i][b]Fallen Nations[/b][/i]
-[nation]Bombardilo Cocodrilo[/nation]
--[nation]Tralalero Tralaland[/nation]
