@@ -18,6 +18,8 @@
 
 [nation]Greaseman[/nation]
 
+[nation]Dark Side of the Moo[/nation]
+
 [spoiler=Ribbons]Army Ribbons - 
 
 [Color=Black]&amp;#9608;[/Color][Color=dcdcdc]&amp;#9608;[/Color][Color=Silver]&amp;#9608;&amp;#9608;[/Color][Color=dcdcdc]&amp;#9608;[/Color][Color=Black]&amp;#9608;[/Color] [Color=Blue] Silver Stahlhelm (10 Raids)[/Color]
@@ -42,7 +44,6 @@ Civilian Ribbons -
 
 [Color=Black]&amp;#9608;&amp;#9608;[/Color][Color=Cotton]&amp;#9608;[/Color][Color=dcdcdc]&amp;#9608;&amp;#9608;[/Color][Color=Blue] Salvation of the Fatherland Cross (Strategic Heroism)[/Color]
 
-[Color=835C3B]&amp;#9608;[/Color][Color=Black]&amp;#9608;[/Color][Color=Cotton]&amp;#9608;[/Color][color=dcdcdc]&amp;#9608;[/Color][Color=835C3B]&amp;#9608;[/Color][Color=Blue] Imperial Order of Scansinia 4th Class (Loyalty Through Labor)[/Color]
 [/spoiler]
 
 [color=Black]&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;Allied&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;&amp;#9608;[/color]

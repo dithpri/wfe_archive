@@ -19,7 +19,12 @@ We have faith that that can change.
 
 Check out our proud Governor, [nation]Fancadium[/nation]!
 
-[u]REGIONS[/u] [b]CONQUERED:[/b] 1!
+[u]REGIONS[/u] [b]CONQUERED:[/b] 1
+
+[region]Fascism LLC[/region]
+
+ATTEMPTS: 2
 [region]Pacific Western Alliance[/region]
+[region]Fascism LLC[/region]
 
 obdot
