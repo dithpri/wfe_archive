@@ -1,4 +1,4 @@
-[color=blueviolet][b][u]Welcome to the Bureaucrats&#146; Noticeboard![/u][/b][/color]
+[color=blueviolet][b][u]Welcome to the Bureaucrats&#39;s Noticeboard![/u][/b][/color]
 
 This sub-region is dedicated to facilitating the [region]ACA[/region]&#39;s regional governance.
 
@@ -6,6 +6,8 @@ Bureaucrats may use this region to discuss policy ideas or store documentation p
 
 Citizens and residents may use this region to contact bureaucrats on matters that require their attention.
 
+To inquire about job vacancies, contact [nation]Ostfelder[/nation].
+
 [hr][url=https://www.nationstates.net/page=dispatch/id=2530000]List of Bureaus[/url] &#149; [url=https://www.nationstates.net/page=dispatch/id=2530005]List of Staff[/url]
 
-[hr][region]ACA[/region] &#149; [region]The Azure Archipelago[/region] &#149; [region]The Airfield[/region] &#149; [region]The Holler[/region] &#149; [region]ACA Puppet Storage[/region] &#149; [region]ACA Regional Archives[/region] &#149; [region]ACA Bureaucrat Noticeboard[/region] &#149; [region]ACA Testing Grounds[/region]
+[hr][region]ACA[/region] &#149; [region]The Azure Archipelago[/region] &#149; [region]ACA Regional Archives[/region] &#149; [region]ACA Bureaucrat Noticeboard[/region]

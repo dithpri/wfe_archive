@@ -1,5 +1,3 @@
-[b][region]Amalgamated Federation[/region] Army[/b]
-[hr]
-[b][color=green]Citizen, do you want to enlist?[/color][/b] ---&amp;gt; [b]Send a telegram to [nation]Eiskobold[/nation][/b]
-[hr]
-[b]LONG LIVE THE FEDERATION[/b]
+ [b]Colony of [region]The Interstellar Confederacy[/region][/b]
+
+Refounded on [i]2025/05/23[/i]
