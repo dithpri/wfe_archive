@@ -1,7 +1,12 @@
-[i]Simulating an alternative reality. What is possible?[/i]
+[i]A new world begins! [/i]
 
-[u][b]News:[/b][/u]
+[u][b]Executive:[/b][/u]
 
-- Left-wing government elected in [nation]Gauchos[/nation]
+[b]President:[/b] [nation]Brazil gov[/nation]
 
-[b]Year: 2025[/b]
+[b][u]Council of the Republic:[/u][/b]
+
+S&atilde;o Paulo: [nation]Bandeirante[/nation] (Republicanos)
+Rio de Janeiro: [nation]Rio and Guanabara[/nation] (PTB)
+Minas Gerais: [nation]Minas and Triangulo[/nation] (PT)
+Rio Grande do Sul: [nation]Gauchos[/nation] (PTB)

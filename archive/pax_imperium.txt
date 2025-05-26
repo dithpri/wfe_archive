@@ -3,10 +3,8 @@ The Peace of the Empire[/b]
 
 [hr]
 
-[u][b][color=purple]The Imperial Council:[/color][/b][/u]
-[list][*][b]Rex-Imperator: [nation]Pax-Imperium[/nation]
-[*]Primus Legate: [i]TBD[/i]
-[*]Praefectus Castrorum: [i]TBD[/i][/b][/list]
+[u][b][color=purple]The Imperium:[/color][/b][/u]
+[list][*][b]Imperator: [nation]Pax-Imperium[/nation][/b][/list]
 
 [hr]
 
