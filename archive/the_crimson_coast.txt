@@ -1,6 +1,6 @@
-[color=DC143C][b][u]Welcome to The Crimson Coast![/u][/b][/color]
+[color=DC143C][b][u]Welcome to [i]The Crimson Coast[/i][/u][/b][/color]
 
-This is a side project of mine. It may become an [region]ACA[/region] sub-region at some point.
+[i][b]This is a sister region to [region]The Azure Archipelago[/region]![/b][/i]
 
 We aim to be a welcoming incubator for newcomers who need a little time to settle in.
 
@@ -19,5 +19,6 @@ Feel free to hang around, chat or participate in regional government
 - Regional Banner &amp;#10004;
 - Regional Flag &amp;#10004;
 - Regional WFE &amp;#10004;
+- Regional Constitution
 - Regional Rules
 [/spoiler]
