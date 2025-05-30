@@ -19,12 +19,14 @@ We have faith that that can change.
 
 Check out our proud Governor, [nation]Fancadium[/nation]!
 
-[u]REGIONS[/u] [b]CONQUERED:[/b] 1
+[u]REGIONS[/u] [b]CONQUERED:[/b] 2
 
 [region]Fascism LLC[/region]
+[region]The Iron Frontier[/region]
 
-ATTEMPTS: 2
+ATTEMPTS: 3
 [region]Pacific Western Alliance[/region]
 [region]Fascism LLC[/region]
+[region]The Iron Frontier[/region]
 
 obdot
