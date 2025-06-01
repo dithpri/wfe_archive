@@ -6,7 +6,9 @@
 
 [b][u]Council of the Republic:[/u][/b]
 
-S&atilde;o Paulo: [nation]Bandeirante[/nation] (Republicanos)
-Rio de Janeiro: [nation]Rio and Guanabara[/nation] (PTB)
-Minas Gerais: [nation]Minas and Triangulo[/nation] (PT)
-Rio Grande do Sul: [nation]Gauchos[/nation] (PTB)
+[b]S&atilde;o Paulo:[/b] [nation]Bandeirante[/nation] (PRP)
+[b]Rio de Janeiro:[/b] [nation]Rio and Guanabara[/nation] (PTB)
+[b]Minas Gerais:[/b] [nation]Minas and Triangulo[/nation] (PT)
+[b]Bahia: [/b] [nation]Bahia-Salvador[/nation] (PRC)
+[b]Rio Grande do Sul:[/b] [nation]Gauchos[/nation] (PTB)
+[b]Paran&aacute;:[/b] [nation]Iguazu[/nation] (PL)
