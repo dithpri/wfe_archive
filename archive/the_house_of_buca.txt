@@ -2,9 +2,5 @@ The House of Buca is a monarchic region in NationStates with 20 member nations, 
 
 HRM King Sam ll leads the region, with Sarah Richardson appointed as De Jure President and Charlie Moulier as De Facto President; both now serve as regional officers. Jimmy also plays a key role as Vice-Delegate and future WA Delegate.
 
-[table]
-[tr][td]Major Officers/td][td]Nations[/td][/tr]
-[tr][td]HRM King Sam ll[/td][td][nation]King Sam of House of Buca[/nation][/td][/tr]
-[tr][td]President Richardson/ President Moulier[/td][td][nation]Presidents of Sambuca[/nation] and [nation]Reformed Sambuca[/nation]/td][/tr]
-[tr][td]Vice Delegate Jimmy[/td][td][nation]Reformed Sambuca[/nation][/td][/tr]
-[/table]
+HRM King Sam ll- [nation]King Sam of House of Buca[/nation]
+Vice-Delegate - [nation]Reformed Sambuca[/nation]
