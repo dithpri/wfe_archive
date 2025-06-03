@@ -4,7 +4,11 @@
 
 [hr]
 
-[b]Government:[/b] A proud Kingdom of [region]The United Kingdom[/region], ruled by [nation=long]HIRM King Carlisle I[/nation]. The has [b]Crown[/b] appointed  [nation=long]Polaz[/nation] as the [b]Governor[/b] and [nation=long]The Islamic Khilafah[/nation] as the [b]Prime Minister[/b].
+[b]Government:[/b] A proud realm of [region]The United Kingdom[/region], ruled by [nation=long]HIRM King Carlisle I[/nation]. 
+
+The has [b]Crown[/b] appointed 
+&amp;gt; [nation=long]Polaz[/nation] as the [b]Governor[/b]
+&amp;gt; [nation=long]The Islamic Khilafah[/nation] as the [b]Prime Minister[/b].
 
 [hr]
 
