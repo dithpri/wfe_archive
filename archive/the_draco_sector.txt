@@ -5,18 +5,18 @@
 [b][i]|-| Rival[/i] : [u][nation]Eusan[/nation][/u] |-|[/b]
 
 [b]|-| [color=#3e90f4]Current Planetary Roster[/color] |-|[/b]
-  |[nation]Crimsica[/nation]| [b]184 Seats[/b] |
-  |[nation]Estanu[/nation], [region]The Estanuan Colonial Empire[/region]| [b]183 Seats[/b] |
-  |[nation]Fori Prime[/nation]| [b]182 Seats[/b] |
-  |[nation]Hellmire[/nation]| [b]182 Seats[/b] |
-  |[nation]Oshaune[/nation]| [b]169 Seats[/b] |
-  |[nation]Navi VII[/nation]| [b]151 Seats[/b] |
-  |[nation]Gatria[/nation]| [b]148 Seats[/b] |
+  |[nation]Crimsica[/nation]|
+  |[nation]Estanu[/nation], [region]The Estanuan Colonial Empire[/region]|
+  |[nation]Fori Prime[/nation]|
+  |[nation]Hellmire[/nation]|
+  |[nation]Oshaune[/nation]|
+  |[nation]Navi VII[/nation]|
+  |[nation]Gatria[/nation]|
   [color=red]|[nation]Omicron I[/nation]| [b]LOCKDOWN[/b] |[/color]
-  |[nation]Azur Secundus[/nation]| [b]49 Seats[/b] |
-  |[nation]Zagon Prime[/nation]| [b]1 Seat[/b] |
-  |[nation]Nivel 43[/nation]| [b]1 Seat[/b] |
-  |[nation]Pandion-XXIV[/nation]| [b]1 Seat[/b] |
+  |[nation]Azur Secundus[/nation]|
+  |[nation]Zagon Prime[/nation]|
+  |[nation]Nivel 43[/nation]|
+  |[nation]Pandion-XXIV[/nation]|
 
 [b]|-| [color=#f43e3e]Current Lunar Roster[/color] |-|[/b]
   |[nation]Idaks[/nation]|-|Moon of : [nation]Crimsica[/nation]|
