@@ -1,6 +1,8 @@
 Welcome to [region]Aceon[/region]! 
 
 [i]&quot;Long Live Aceon!&quot;[/i]
+
+Founded: May 8th, 2025
 _______________________________________________________________________________________
 
 [i][b]Chief Executive/Governor:[/b][/i] [nation]Sovern[/nation]
@@ -8,14 +10,14 @@ ________________________________________________________________________________
 [i][b]Secretary General:[/b][/i] [nation]Jays Island[/nation] (Elect: August 9th, 2025)
 
 [i][b]Foreign Affairs Minister:[/b][/i] [nation]Helric[/nation] (Elect: June 10th)
-[i][b]Defence Minister:[/b][/i] [nation]Quing Nara[/nation] (Elect: June 13th)
+[i][b]Defense Minister:[/b][/i] [nation]Quing Nara[/nation] (Elect: June 13th)
 [i][b]Domestic Affairs Minister:[/b][/i] [nation]Vhodesa[/nation] (Elect: June 16th)
 [i][b]Communications Minister:[/b][/i] [nation]Timan[/nation] (Elect: June 19th)
 
 [i][b]Chancellor/WA Delegate:[/b][/i] N/A (Vacant)
 _______________________________________________________________________________________
 
-[i][b]Border Status:[/b][/i] [color=green]Open[/color]
+[i][b]Border Status:[/b][/i] [color=red]Closed[/color]
 [i][b]Embassies:[/b][/i] [color=green]Cordial[/color]
 
 
