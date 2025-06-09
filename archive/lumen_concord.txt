@@ -10,6 +10,8 @@
 [b]Rio de Janeiro:[/b] [nation]Rio and Guanabara[/nation] (PTB)
 [b]Minas Gerais:[/b] [nation]Minas and Triangulo[/nation] (PT)
 [b]Bahia: [/b] [nation]Bahia-Salvador[/nation] (PRC)
+[b]Pernambuco: [/b] [nation]Arraes[/nation] (PSD)
+[b]Cear&aacute;:[/b] [nation]Fortaleza do Ceara[/nation] (PRP)
 [b]Rio Grande do Sul:[/b] [nation]Gauchos[/nation] (PTB)
 [b]Paran&aacute;:[/b] [nation]Iguazu[/nation] (PL)
 [b]Santa Catarina:[/b] [nation]Santa Catarina Island[/nation] (UDN)
