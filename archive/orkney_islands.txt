@@ -1,2 +1,2 @@
-[b]Orkney Islands[/b]
-a [region=0000] region
+[color=00477e][b]Orkney Islands[/b]
+a [region=Dog Lake] region[/color]
