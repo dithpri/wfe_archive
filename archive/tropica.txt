@@ -4,9 +4,7 @@
 
 [hr]
 
-[b]Government:[/b] A proud realm of [region]The Empire of Walbard[/region], ruled by [nation=long]HIRM King Carlisle I[/nation]. 
-
-The has [b]Crown[/b] appointed 
+[b]Government:[/b]
 &amp;gt; [nation=long]Polaz[/nation] as the [b]Governor[/b]
 &amp;gt; [nation=long]The Islamic Khilafah[/nation] as the [b]Prime Minister[/b].
 
