@@ -5,5 +5,7 @@ a State of Germany
 [b]Population:[/b] 2,504,040 (2017)
 [/color][color=696900]
 [b]Founded:[/b] 2019 Dec 16
-[b]Featured:[/b] 2022 Feb 03
-a [region=0000] puppet region[/color]
+[b]Featured:[/b] 2022 Feb 03; 2025 Jun 13 (2)
+a [region=0000] puppet region
+[/color][color=004d33]
+[b]Embassy Offers Welcome[/b][/color]

@@ -5,9 +5,9 @@
 [color=blue][b]Alliances-[/b][/color]
 [color=orange][b][i]Pact of Steel[/b][/i][/color]
 [nation]The Doodle Empire[/nation]
-[nation]Sakemoto[/nation]
--[nation]Suzarain[/nation]
--[nation]Vortska[/nation]
+[nation]Sakemoto[/nation] [i](left the region *salutes*)[/i]
+-[nation]Suzarain[/nation] [i](left the region *salutes*)[/i]
+-[nation]Vortska[/nation] [i](left the region *salutes*)[/i]
 [nation]Melodie Brawl Stars[/nation]
 [nation]bigbrothers[/nation]
 
