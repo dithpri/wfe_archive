@@ -7,7 +7,8 @@
 [list][*][b]Prime Minister[/b]: [nation]Islonia[/nation] [b]([color=gray]IND[/color])[/b]
 [list][*]Minister of Domestic Affairs: [nation]Newbuilt Klasanoia[/nation] [b]([color=D03A83]PRO[/color])[/b]
 [*]Minister of Foreign Affairs: [nation]CurryWurst[/nation] [b]([color=gray]IND[/color])[/b]
-[*]Minister of Cultural Affairs: [nation]Lythusia[/nation] [b]([color=#80DAEB]COM[/color])[/b][/list][/list]
+[*]Minister of Cultural Affairs: [nation]Lythusia[/nation] [b]([color=80DAEB]COM[/color])[/b]
+[*]Minister of Communications: [nation]Red Oazis[/nation] [b]([color=FFD635]RPT[/color])[/b][/list][/list]
 
 [b][list][*]Leader of the Opposition:[/b] [nation]New Seniteria[/nation] [b]([color=BA8E23]VPT[/color])[/b]
 [list][*]Shadow Minister of Domestic Affairs: [nation]Vacant[/nation] ([b][color=gray]N/A[/color][/b])

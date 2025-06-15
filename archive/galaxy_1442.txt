@@ -5,9 +5,9 @@
 [color=blue][b]Alliances-[/b][/color]
 [color=orange][b][i]Pact of Steel[/b][/i][/color]
 [nation]The Doodle Empire[/nation]
-[nation]Sakemoto[/nation] [i](left the region *salutes*)[/i]
--[nation]Suzarain[/nation] [i](left the region *salutes*)[/i]
--[nation]Vortska[/nation] [i](left the region *salutes*)[/i]
+[nation]Sakemoto[/nation] 
+-[nation]Suzarain[/nation] 
+-[nation]Vortska[/nation] 
 [nation]Melodie Brawl Stars[/nation]
 [nation]bigbrothers[/nation]
 
@@ -27,5 +27,8 @@
 [nation]Rizzy Sigma toilet[/nation]
 [nation]Kayo Chingonyi[/nation]
 [nation]Egg Rico[/nation]
+
+[i][b]News Anchor[/b][/i]
+[nation]The Official Galaxy 1442 News Network[/nation]
 
 More more detail, see [i]Present Situation in Galaxy 1442[/i]
