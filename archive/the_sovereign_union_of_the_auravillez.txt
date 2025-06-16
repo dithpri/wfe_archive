@@ -1,0 +1,15 @@
+[background-block=#0f1a40][box]
+[align=center][size=200][color=gold][b]Sovereign Union of Auravillez[/b][/color][/size][/align]
+[align=center][color=silver][i]&#147;Many voices, one purpose.&#148;[/i][/color][/align]
+[hr]
+[color=white]
+[b]Capital:[/b] Astravelle  
+[b]Population:[/b] 57 million  
+[b]Currency:[/b] Crowned Thalor (&amp;#8376;)  
+[b]Government:[/b] Federal Stratocracy  
+[b]WA Status:[/b] Member  
+[b]Anthem:[/b] &#147;Sky of Ten Thousand Stars&#148;  
+[b]Known for:[/b] Crystal architecture, sword-dance festivals, orbital defense  
+[b]Region:[/b] [region=Union of Allied States]  
+[/color]
+[/box][/background-block]
