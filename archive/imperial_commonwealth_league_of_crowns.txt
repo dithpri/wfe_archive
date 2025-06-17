@@ -1,12 +1,12 @@
 [b][color=goldenrod]Welcome to the Imperial Commonwealth League of Crowns[/color][/b]
-[i][b]|[/b] [color=midnightblue]Exspectata ut Imperium Communitatis Ligae Coronarum[/color] [b]|[/b][/i]
+[i][b]|[/b] [color=indigo]Exspectata ut Imperium Communitatis Ligae Coronarum[/color] [b]|[/b][/i]
 [hr][hr][b]| [color=goldenrod]Regional Affairs[/color] |[/b]
-[list][*][color=midnightblue][b]Emperor of the Commonwealth:[/b] [i]His Imperial Majesty[/i] [b][nation]Crowns Guardian[/nation][/b][/color]
+[list][*][color=indigo][b]Emperor of the Commonwealth:[/b] [i]His Imperial Majesty[/i] [b][nation]Crowns Guardian[/nation][/b][/color]
 
-[*][color=midnightblue][b]Embassy Policy:[/b] Embassy requests are determined on a case-by-case basis.[/color]
+[*][color=indigo][b]Embassy Policy:[/b] Embassy requests are determined on a case-by-case basis.[/color]
 
-[*][color=midnightblue][b]Entry Policy:[/b] Access is restricted to invite only.[/color][/list]
+[*][color=indigo][b]Entry Policy:[/b] Access is restricted to invite only.[/color][/list]
 
 [hr][hr][b]| [color=goldenrod]Regional News[/color] |[/b]
-[list][*][color=midnightblue]Imperial Commonwealth League of Crowns is under development.[/color][/list]
+[list][*][color=indigo]Imperial Commonwealth League of Crowns is under development.[/color][/list]
 [hr][hr]

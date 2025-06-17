@@ -5,6 +5,8 @@ the capital of the U.S. state of [region=Missouri]
 [/color][color=olive]
 REGION
 [b]Founded:[/b] 2023 Nov 24
-a [region=United States of America] region
+a [region=United States of America] associated region
+a State Capitals ([region=Ancient Lands]) region
+a puppet storage ([region=0000]) region
 [/color][color=009000]
 [b]Embassy Offers Welcome[/b][/color]

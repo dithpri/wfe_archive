@@ -12,8 +12,8 @@ FACTS
 [b]Area:[/b] 2,358 km&sup2; (0.0 km&sup2; is water)
 [b]Population:[/b] 431,484 (Dec 2020)
 [b]Time Zone:[/b] Australian Eastern Standard Time
-- currently: UTC+10:00 (AEST) - 2021 April 4th
-- changes: UTC+11:00 (AEDT) - 2021 Oct 3rd
+- currently: UTC+10:00 (AEST)
+- changes: UTC+11:00 (AEDT) [2025 Oct 05]
 [/color][color=cc9933]
 REGION
 [b]Founded:[/b] 2014 Jan 29
