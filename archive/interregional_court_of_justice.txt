@@ -4,20 +4,17 @@
 
 [hr]
 
-[b][url=https://www.nationstates.net/page=dispatch/id=1485378][color=#1D4779]Charter[/color][/url] | [url=https://www.nationstates.net/page=dispatch/id=1485381][color=#1D4779]Board[/color][/url] | [url=https://www.nationstates.net/page=dispatch/id=1485782][color=#1D4779]Judges[/color][/url] | [url=https://www.nationstates.net/page=dispatch/id=1485785][color=#1D4779][u]Lodge a Case[/u][/color][/url] | [url=https://www.nationstates.net/page=dispatch/id=1485784] [color=#1D4779]Regulations[/color][/url] | [url=https://www.nationstates.net/page=dispatch/id=1485783][color=#1D4779]Previous Cases[/color][/url] |  [url=https://www.nationstates.net/page=dispatch/id=1485801][color=#1D4779]Recognition &amp; Affiliation[/color][/url] | [url=https://www.nationstates.net/page=dispatch/id=1607023][color=#1D4779]School of Law[/color][/url] | 
+[b][url=https://www.nationstates.net/page=dispatch/id=1485378][color=#1D4779]Charter[/color][/url] | [url=https://www.nationstates.net/page=dispatch/id=1485381][color=#1D4779]Board[/color][/url] | [url=https://www.nationstates.net/page=dispatch/id=1485782][color=#1D4779]Judges[/color][/url] | [url=https://www.nationstates.net/page=dispatch/id=1485785][color=#1D4779][u]Lodge a Case[/u][/color][/url] | [url=https://www.nationstates.net/page=dispatch/id=1485784] [color=#1D4779]Regulations[/color][/url] | [url=https://www.nationstates.net/page=dispatch/id=1485783][color=#1D4779]Previous Cases[/color][/url] |  [url=https://www.nationstates.net/page=dispatch/id=1485801][color=#1D4779]Recognition[/color][/url] | [url=https://www.nationstates.net/page=dispatch/id=1607023][color=#1D4779]School of Law[/color][/url] | 
 [/b]
 
 [hr]
 
 [color=#1D4779][u][b]Jurisdiction[/b][/u]
--The Court shall have jurisdiction over all extra-regional affairs including disputes and agreements between regional governments, nations &amp; polities in different regions, inter-regional organisations, alliances and treaties.
--The Court&#39;s jurisdiction shall extend to any judicial matter delegated to it by any Region or organisation.[/color]
+- The Court shall have jurisdiction over interregional matters, including but not limited to disputes and agreements involving regional governments, nations, polities in different regions, interregional organisations, alliances and treaties.
+- The Court may also exercise jurisdiction over any legal matter delegated to it by a Region or interregional organisation.[/color]
 
 [hr]
 
 [color=#1D4779][b][u]Judges[/b][/u]
-[nation]Imperium Anglorum[/nation] - Court President
-[nation]Unfallious[/nation] - Associate Justice
-[nation]Vancouvia[/nation] - Associate Justice
-[nation]Christadelphians[/nation] - Associate Justice
-[nation]Allangoria[/nation] - Associate Justice[/color]
+[nation]Tinell[/nation]
+[nation]Christadelphians[/nation][/color]

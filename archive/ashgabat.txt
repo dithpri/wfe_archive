@@ -1,5 +1,10 @@
-[color=004D33][b]Ashgabat[/b]
+[color=00477e][b]Ashgabat[/b]
 [/color][color=633517]
 capital and the largest city of Turkmenistan
 [/color][color=808000]
-an [region=Ancient Lands] national capitals region[/color]
+REGION
+[b]Founded:[/b] 2016 May 19
+[b]Featured:[/b] 2025 June 19
+an [region=Ancient Lands] national capitals region
+[/color][color=004d33]
+Embassy offers welcome[/color]
