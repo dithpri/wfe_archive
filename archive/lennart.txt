@@ -6,7 +6,7 @@
 
 [nation]Avalon[/nation] in [region]The North Pacific[/region]
 [nation]Alexandria[/nation] in [region]Union of Christian Nations[/region]
-[nation]Anglia[/nation] in [region]Nationstates[/region]
+[nation]Anglia[/nation] in [region]Christians[/region]
 [nation]Wels[/nation], the glitched Nation, in [region]the Plains of Perdition[/region]
 
 [*][b]Main Regions:[/b]
