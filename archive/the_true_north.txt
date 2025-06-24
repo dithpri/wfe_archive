@@ -1,3 +1,13 @@
-[B][color=#ff0000]The True North Strong and [u]Free[/u][/color][/b]
-[hr]
-Most embassy requests accepted
+[table]
+[tr][td][color=0090ff][b]The True North[/b][/color][/td][/tr]
+[tr][td][color=b0b080]REGION
+[b]Founded:[/b] 2025 June 23
+a [region=Dog Lake] affiliated region[/color][/td][/tr]
+[tr][td][color=004d33]Embassy Policy is pending
+OPTIONS: [list]- ORACLE: Currently Pending Oracle Embassies
+- MATRIX: Policy Pending as to whether this region will do Matrix Embassies
+
+[i]requires one update to locate this region, 
+then decide which classification this region will become
+initially this region will be an ORACLE region[/i][/list][/color][/td][/tr]
+[/table]
