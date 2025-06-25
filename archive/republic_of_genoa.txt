@@ -1,15 +1,19 @@
 [b][color=#bf0e1c]Welcome to the Republic of Genoa[/color][/b]
-[sub][b]&amp;#127988;&amp;#917607;&amp;#917602;&amp;#917605;&amp;#917614;&amp;#917607;&amp;#917631; | [i]La Superba of the Mediterranean[/i] | &amp;#127988;&amp;#917607;&amp;#917602;&amp;#917605;&amp;#917614;&amp;#917607;&amp;#917631;[/b][/sub]
+[sub][b]&amp;#127988;&amp;#917607;&amp;#917602;&amp;#917605;&amp;#917614;&amp;#917607;&amp;#917631;  [i]La Superba of the Mediterranean[/i]  &amp;#127988;&amp;#917607;&amp;#917602;&amp;#917605;&amp;#917614;&amp;#917607;&amp;#917631;[/b][/sub]
 
 [hr]
 
-[b][color=#bf0e1c]Government[/color][/b]
-[list][*][b]Doge of Genoa:[/b] Antoniotto Adorno of [b][nation]Republic of Genoa[/nation][/b][/list]
+[b]| [color=#bf0e1c]Government of Genoa[/color] |[/b]
+[list][*][b]Doge of Genoa[/b] 
+[list][*]Antoniotto Adorno of [b][nation]Republic of Genoa[/nation][/b][/list]
+[*][b]Legislature[/b]
+[list][*]Great Council
+[*]Minor Council[/list][/list]
 
 [hr]
 
-[b][color=#bf0e1c]Regional News[/color][/b]
-[list][*]The region has been established.[/list]
+[b]| [color=#bf0e1c]Regional News[/color] |[/b]
+[list][*]The region is under development.[/list]
 
 [hr]
 

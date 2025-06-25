@@ -7,10 +7,10 @@
 
 [hr]
 
-[b]&amp;#128081; [color=navy]Sovereign[/color]:[/b] [nation]King Carlisle I[/nation] 
-&amp;#128081; [b][color=purple]Consort[/color]:[/b] [nation]Queen Katherine I[/nation]
-&amp;#128081; Crown Princess: [nation]Princess Feline[/nation]
-&amp;#127968; [color=red]Ruling House[/color]: [nation]House of Tudor[/nation]
+[b]&amp;#128081; [color=darkred]King-Emperor[/color]:[/b] [nation]King Carlisle I[/nation] 
+&amp;#128081; [b][color=purple]Queen-Empress[/color]:[/b] [nation]Queen Feline I[/nation]
+&amp;#128081; [b][color=navy]Crown Prince[/color]:[/b] [nation]Prince Thomas[/nation]
+&amp;#127968; [b][color=red]Ruling House[/color]:[/b] [nation]House of Tudor[/nation]
 
 [hr]
 
@@ -20,8 +20,8 @@
 
 [b]Imperial Chief Executives;[/b]
 
-Imperial Chancellor: [nation]Agiorma Koponaris[/nation] (Conservative)
-Vice-Chancellor: [nation]Taztec Confederacy[/nation] (Independent)
+Imperial Chancellor: Caretaker Mode, Election due 1st July.
+Acting Chancellor: [nation]Taztec Confederacy[/nation] (Independent)
 
 [hr]
 
