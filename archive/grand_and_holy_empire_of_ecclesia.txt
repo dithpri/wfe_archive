@@ -1,12 +1,25 @@
 This is the Grand and Holy Empire of Ecclesia
 
-1 mother empire 
-3 shield empires
-3 colonial dominions
-1 trade city
-1 kingdom
-1 corporation
-1 patriarchate
-1 military order
-1 federation
-1 commonwealth
+1 Mother Empire [nation]Grand and Holy Empire of Ecclesia[/nation]
+
+3 Shield Empires [nation]Magna Ecclesia[/nation] [nation]Sancta Ecclesia Magna[/nation] [nation]Magna et Sancta Imperia Ecclesia[/nation]
+
+3 Colonial Dominions [nation]Colonia Nova Ecclesia[/nation] [nation]Colonia Nova Ecclesia Secunda[/nation] [nation]Colonia Ecclesia Australis[/nation]
+
+1 Principality Trade City [nation]Ecclesian Trade City of St Petersburg[/nation]
+
+1 Kingdom [nation]Ecclesian East Indies[/nation]
+
+1 Corporation [nation]Ecclesian Imperial Corporation[/nation]
+
+1 Patriarchate [nation]Holy Ecclesian Patriarchate[/nation]
+
+1 Military Order [nation]Sancta Ordem Militaris de Ecclesia[/nation]
+
+1 Federation [nation]Ecclesian Commisariats[/nation]
+ 
+1 Incorporated State [nation]Ecclesian Holy Soviet Imperial Union[/nation]
+
+1 United Kingdom [nation]Ecclesian Crusader States[/nation]
+
+1 United States [nation]Ecclesian America[/nation]

@@ -2,14 +2,14 @@ NCU:
  - [nation]The Province of Taiwan[/nation]
  - [nation]Porustania[/nation]
  - [nation]New Khemet[/nation]
- - [nation]Norway-Sweden-Finland[/nation]
+ - [nation]Grouss Letzebuerg[/nation]
  - [nation]nova Dackians[/nation]
  - [nation]Wanderer from Nowhere[/nation]
  - [nation]Morractia Lern[/nation]
 
 RDP:
  - [nation]Eyanfaonie[/nation]
- - [nation]Mercian Legions[/nation]/[nation]Free Mercia[/nation]
+ - [nation]Mercian Legions[/nation]/[nation]Mercia is a Furry[/nation]
  - [nation]chaos empire[/nation]
 
 Foreign:
