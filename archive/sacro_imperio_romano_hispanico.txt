@@ -1,7 +1,7 @@
 [b]&iexcl;Bienvenido[/b] [b]al[/b] [b]Sacro[/b] [b]Imperio[/b] [b]Romano[/b] [b]Hisp&aacute;nico!,[/b] lugar donde son bienvenidos:
--Religiosos.
--Hermanos hispanos.
--Jugadores nuevos.
+- Religiosos.
+- Hermanos hispanos.
+- Jugadores nuevos.
 
 [b]Informaci&oacute;n:[/b]
 Religi&oacute;n oficial: Catolicismo romano.
@@ -9,11 +9,10 @@ Idioma oficial: Espa&ntilde;ol, lat&iacute;n.
 Lema: &iexcl;Plus Ultra!.
 
 [b]Cargos[/b] [b]importantes:[/b]
--Sacro Rey de las Espa&ntilde;as:
+- Sacro Rey de las Espa&ntilde;as:
 Su rol en la regi&oacute;n es gobernarla, administrarla y representarla.
--Virrey:
+- Virrey:
 Su rol en la regi&oacute;n es administrar la comunidad.
--Buf&oacute;n:
-Su rol en la regi&oacute;n es levantar los &aacute;nimos en momentos tristes.
--General.
--Consejero.
+- Buf&oacute;n:                                                                                                                                                                                                                                  Su rol en la regi&oacute;n es levantar los &aacute;nimos en momentos tristes.
+- General.
+- Consejero.

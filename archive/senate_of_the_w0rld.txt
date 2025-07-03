@@ -1,6 +1,5 @@
 NCU:
  - [nation]The Province of Taiwan[/nation]
- - [nation]Porustania[/nation]
  - [nation]New Khemet[/nation]
  - [nation]Grouss Letzebuerg[/nation]
  - [nation]nova Dackians[/nation]
@@ -11,6 +10,7 @@ RDP:
  - [nation]Eyanfaonie[/nation]
  - [nation]Mercian Legions[/nation]/[nation]Mercia is a Furry[/nation]
  - [nation]chaos empire[/nation]
+ - [nation]Porustania[/nation]
 
 Foreign:
  - [nation]Red Alabama[/nation]/[nation]Nova Tortlian[/nation]
