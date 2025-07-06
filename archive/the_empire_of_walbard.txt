@@ -3,7 +3,7 @@
 
 [hr]
 
-[b][color=darkred]Welcome to the NationStates Capital of the Empire[/color][/b]
+[b]&raquo; [color=darkred]Many nations, one purpose[/color] &raquo; [color=navy]Many realms, one Empire[/color][/b]
 
 
 [hr]
@@ -19,10 +19,10 @@
 
 [hr]
 
-[b][color=navy]Imperial Chief Executives[/color];[/b]
+[b][color=navy]Elected Chief Executives[/color];[/b]
 
-&raquo; Imperial Chancellor: [nation]New Roxborough[/nation] (Labour)
-&raquo; Vice-Chancellor: [nation]A Newer Nomi[/nation] (Labour)
+&amp;#128188; Imperial Chancellor: [nation]New Roxborough[/nation] (Labour)
+&amp;#128188; Vice-Chancellor: [nation]A Newer Nomi[/nation] (Labour)
 
 [hr]
 
