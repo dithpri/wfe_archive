@@ -3,14 +3,6 @@
 [b]A spiral Galaxy formally known as the Milky Way. It is currently contested between the [nation]Galactic Rebellion[/nation] and [nation]The Doodle Empire[/nation]. Many other nations exist in between, existing independently or allied to the Rebellion/Doodles. [/b]
 
 [color=blue][b]Alliances-[/b][/color]
-[color=orange][b][i]Pact of Steel[/b][/i][/color]
-[nation]The Doodle Empire[/nation]
-[nation]Sakemoto[/nation] 
--[nation]Suzarain[/nation] 
--[nation]Vortska[/nation] 
-[nation]Melodie Brawl Stars[/nation] (currently on vacation in [region]Starr Park[/region])
-[nation]bigbrothers[/nation]
-
 [color=purple][i][b]Allied Powers[/b][/i][/color]
 [i]Freedom Block-[/i]
 [nation]Galactic Rebellion[/nation]
@@ -20,6 +12,14 @@
 [nation]the Distillery Pigs[/nation]
 [i]Neutral-[/i] 
 [nation]UMbuso WaseSpain[/nation]
+
+[color=orange][b][i]Pact of Steel[/b][/i][/color]
+[nation]The Doodle Empire[/nation]
+[nation]Sakemoto[/nation] 
+-[nation]Suzarain[/nation] 
+-[nation]Vortska[/nation] 
+[nation]Melodie Brawl Stars[/nation] (currently on vacation in [region]Starr Park[/region])
+[nation]bigbrothers[/nation]
 
 [i][b]Neutral[/b][/i]
 [nation]The Cookie Caliphate[/nation]
