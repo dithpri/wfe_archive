@@ -1,16 +1,25 @@
-NCU:
- - [nation]The Province of Taiwan[/nation]
- - [nation]New Khemet[/nation]
- - [nation]Grouss Letzebuerg[/nation]
- - [nation]nova Dackians[/nation]
- - [nation]Wanderer from Nowhere[/nation]
- - [nation]Morractia Lern[/nation]
+[Url=https://www.nationstates.net/page=dispatch/id=2583620]NCU[/url]:
 
-RDP:
- - [nation]Eyanfaonie[/nation]
- - [nation]Mercian Legions[/nation]/[nation]Mercia is a Furry[/nation]
- - [nation]chaos empire[/nation]
- - [nation]Porustania[/nation]
+[nation]Waldorff[/nation]
 
-Foreign:
- - [nation]Red Alabama[/nation]/[nation]Nova Tortlian[/nation]
+[nation]New Khemet[/nation]
+
+[nation]The Province of Taiwan[/nation]
+
+[nation]Morractia Lern[/nation]
+
+[nation]Nova Dackians[/nation]
+
+[nation]Norway-Sweden-Finland[/nation]
+
+[Url=https://www.nationstates.net/page=dispatch/id=2675536]ROSA[/url]:
+
+[nation]MERCIA is A Furry[/nation]
+
+[nation]Porustania[/nation]
+
+[nation]Karmastar[/nation]
+
+[Url=https://www.nationstates.net/page=dispatch/id=2552543]RDP[/url]:
+
+[nation]Eyanfaonie[/nation]

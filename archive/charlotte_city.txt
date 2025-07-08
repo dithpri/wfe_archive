@@ -1,21 +1,3 @@
-[i][color=blue]Welcome To Charlotte NC! You&#146;ve Stepped into the Queen&#146;s City![/color][/i]
-
-[color=orange]Charlotte is the Largest City in North Carolina,[/color]
-
-[color=lightblue]Beneath the sky of Carolina blue,
-Where dreams run fast and skies stay true,
-There stands a city bold, refined&#151;
-A Southern gem, with modern mind.
-
-Her crown of glass and steel shines bright,
-With towers gleaming through the night,
-Yet roots run deep in red clay soil,
-Where rebels marched and farmers toil.
-
-The Queen City, proud and tall,
-With racing hearts and Panthers&#39; call,
-Uptown pulses, sleek and wide,
-Where history and hustle coincide.
-[/color]
-
-[color=yellow](region is property of sand.inc)[/color]
+[color=navy][b]Charlotte City[/b]
+[region=North Carolina]
+associated with [region=Raleigh][/color]
