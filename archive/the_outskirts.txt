@@ -5,7 +5,8 @@
 
 Delegate: [nation]The FreeBird[/nation]
 Endorsement Cap = 7
-&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&amp;lt;
+
+[b]&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&amp;lt;[/b]
 [b]WA Voting Recommendations[/b]
 
 General Assembly: [color=blue][b]FOR[/b][/color]
@@ -15,7 +16,7 @@ Security Counsel: [color=grey][b]NONE[/b][/color]
 [b][url=https://www.nationstates.net/page=dispatch/id=2652015]REASON[/url][/b]
 
 [awaiting reasoning update]
-&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&amp;lt;[/td][td][b][url=https://www.nationstates.net/page=dispatch/id=2635539]Navigator[/url][/b]
+[b]&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&amp;lt;[/b][/td][td][b][url=https://www.nationstates.net/page=dispatch/id=2635539]Navigator[/url][/b]
 
 - [url=https://www.nationstates.net/page=dispatch/id=2626461]Official Map &amp;#128506;&amp;#65039;[/url]
 
@@ -26,10 +27,24 @@ Security Counsel: [color=grey][b]NONE[/b][/color]
 [u]Government[/u]
 
 - [url=https://forms.gle/S2G1y22QQzxQciLa9]Election Form &amp;#128499;&amp;#65039;[/url]
+[sup][i]Election every Monday![/i][/sup]
 
 - [url=https://www.nationstates.net/page=dispatch/id=2659173]Legislation Proposals &amp;#128196;[/url]
+[sup][i]Write your own laws![/i][/sup]
 
 - [url=https://www.nationstates.net/page=dispatch/id=2627541]Costitution &amp;#128220;[/url][/td][/tr]
+[/table]
+[table][tr][td][color=black][b]Announcements[/b][/color][/td][td][color=black][b]Events[/b][/color][/td][/tr]
 
+[tr][td]See you all soon! - [nation]Shuckletopia[/nation][/td]
 
+[td][u]8/25/25[/u]
+Chapter 2
+Election
+
+[u]9/27/25[/u]
+[color=red]N-Day[sup]13[/sup][/color] TBA
+
+[u]10/30/25[/u]
+[color=purple]Z-Day[/color] TBA [/td][/tr]
 [/table]
