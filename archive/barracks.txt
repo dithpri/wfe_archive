@@ -1,1 +1,3 @@
-.
+The barracks
+
+ output=500 soldiers/hr
