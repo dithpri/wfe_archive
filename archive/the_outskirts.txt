@@ -52,18 +52,19 @@ Election
 [table]
 [tr][td][url=https://www.nationstates.net/page=dispatch/id=2680933]Scoreboard &amp;#127942;[/url][/td][td]Changelog[/td][/tr]
 [tr][td]
-[b]#1 &amp;#64;nation &amp;#127941;0[/b]
+[b]#1 &amp;#64;nation &amp;#129351;0[/b]
 
-#2 &amp;#64;nation &amp;#127941;0
+#2 &amp;#64;nation &amp;#129352;0
 
-#3 &amp;#64;nation &amp;#127941;0
+#3 &amp;#64;nation &amp;#129353;0
 
 [sup]#4 &amp;#64;nation &amp;#127941;0[/sup]
 
 [sup]#5 &amp;#64;nation &amp;#127941;0[/sup]
 [/td]
 
-[td]7/12/25 - Added Dubloons[/td]
+[td]7/12/25 - Added Dubloons
+7/15/25 - Changed emojis on the scoreboard[/td]
 
 [/tr]
 
