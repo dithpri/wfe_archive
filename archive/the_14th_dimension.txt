@@ -1,10 +1,12 @@
 [u]Welcome to the 14th dimension, a grand coalition of regions![/u]
 We&#146;re banded together in a&#133; well, I guess you could call it alliance.
 
+If you join our coalition, be sure to label your region as a &#147;member of the 14th Dimension&#148;!
+
 [i]Each nation is a [u]representative[/u] of their region[/i].
 If you want [i]your[/i] region to join, send a representative!
 
-[b]Total region count[/b] (including this one): [b]8[/b]
+[b]Total region count[/b] (including this one): [b]11[/b]
 [region]The 14th Dimension[/region]
 [region]Fancade[/region]
 [region]The Eternal Alliance of Arab Nations[/region]
@@ -13,6 +15,9 @@ If you want [i]your[/i] region to join, send a representative!
 [region]Free group no rules[/region]
 [region]Tinga liberation army[/region]
 [region]Town of Melilla[/region]
+[region]Coven of Witches[/region]
+[region]The Embassy 1[/region]
+[region]Hurricane 12[/region]
 
 JOIN THE REGIONAL DISCORD! 
 https://discord.gg/W2sPa9Wp
