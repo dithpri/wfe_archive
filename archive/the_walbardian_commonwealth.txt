@@ -1,12 +1,1 @@
-[region]The Empire of Walbard[/region] owns [region]The Walbardian Commonwealth[/region].
-
-[b]Sovereign:[/b] [nation]King Carlisle I[/nation]
-Commonwealth Chair: [nation]Queen Katherine I[/nation]
-
-[b]Commonwealth Regions:[/b]
-&raquo; [region]The Empire of Walbard[/region]
-&raquo; [region]The United Kingdom[/region]
-&raquo; [region]The Walbard Union[/region]
-&raquo; [region]The Empire of Denmark[/region]
-&raquo; [region]The Commonwealth of Canada[/region]
-&raquo; [region]Australia and New Zealand[/region]
+A region that used to be owned by [region]The Walbard Union[/region].
