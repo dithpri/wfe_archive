@@ -1,7 +1,7 @@
 [color=004D33][b]Vanuatu[/b]
 [/color][color=00477E]
 FACTS
-[b]Capital:[/b] [region=Port Vila] (alsp largest city)
+[b]Capital:[/b] [region=Port Vila] (also largest city)
 [b]Independence:[/b] 1980 July 30 (from France &amp; the UK)
 [b]Admitted to UN:[/b] 1981 Sept. 15
 [b]Area:[/b] 12,189 km&sup2; (4,706 sq. mi.)
@@ -15,7 +15,5 @@ Vanuatu has several active volcanos
 REGION
 [b]Founded:[/b] 2016 April 26
 [b]Featured:[/b] 2021 March 26
-a [region=0000] Puppet Storage Region
-an [region=Ancient Lands] Nations region
-Allied with [region=United States of America][/color]
-[color=E06000][b]Embassy Offers Welcome[/b][/color]
+[/color][color=E06000]
+[b]Embassy Offers Welcome[/b][/color]

@@ -18,6 +18,8 @@ Security Counsel: [color=grey][b]NONE[/b][/color]
 [awaiting reasoning update]
 [b]&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&amp;lt;[/b][/td][td][b][url=https://www.nationstates.net/page=dispatch/id=2635539]Navigator[/url][/b]
 
+- [url=https://www.nationstates.net/page=dispatch/id=2635541]Main Nations &amp;#128681;[/url]
+
 - [url=https://www.nationstates.net/page=dispatch/id=2626461]Official Map &amp;#128506;&amp;#65039;[/url]
 
 
@@ -50,7 +52,7 @@ Election
 [/table]
 
 [table]
-[tr][td][url=https://www.nationstates.net/page=dispatch/id=2680933]Scoreboard &amp;#127942;[/url][/td][td]Changelog[/td][/tr]
+[tr][td][url=https://www.nationstates.net/page=dispatch/id=2680933]Scoreboard &amp;#127942;[/url][/td][/tr]
 [tr][td]
 [b]#1 &amp;#64;nation &amp;#129351;0[/b]
 
@@ -62,9 +64,6 @@ Election
 
 [sup]#5 &amp;#64;nation &amp;#127941;0[/sup]
 [/td]
-
-[td]7/12/25 - Added Dubloons
-7/15/25 - Changed emojis on the scoreboard[/td]
 
 [/tr]
 
