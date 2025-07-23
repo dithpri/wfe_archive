@@ -1,6 +1,8 @@
 [color=000666][b]Ghana[/b]
 
-[b]Capital:[/b] [region]Accra[/region]
-an [region=Ancient Lands] national region[/color]
+Capital city is [region]Accra[/region]
 
-Tribute to [url=http://www.youtube.com/watch?v=CYQViYm92hg]George Jones[/url]
+Location: [region=Western Africa] on the Atlantic
+east of [region=Cote d Ivoire]
+south of [region=Burkina Faso]
+west of [region=Togo][/color]

@@ -1,5 +1,1 @@
-[color=green][b]Wiccaland[/b]
-
-need a WFE for this region
-
-a [region=0000] puppet storage region[/color]
+[color=green][b]Wiccaland[/b][/color]
