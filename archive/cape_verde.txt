@@ -13,6 +13,5 @@ FACTS
 REGION
 [b]Founded:[/b] 2014 Feb 22
 [b]Featured:[/b] 2021 Feb 02; 2021 Sep 21
-an [region=Ancient Lands] and [region=0000] puppet storage region
 [/color][color=309030]
 [b]Embassy offers welcome[/b][/color]

@@ -12,7 +12,7 @@
 [/td][/tr]
 
 [tr][td]
-[colour=#0062b3][b][font=nationstates]&amp;#59465;[/font] | Endorsement Cap: 30[/b][/colour]
+[colour=#0062b3][b][font=nationstates]&amp;#59465;[/font] | Endorsement Cap:[/b][/colour] [colour=red][b]15[/b][/colour]
 [i]Offenders will be ejected.[/i]
 
 [/td][/tr]
@@ -23,23 +23,23 @@
 [*]&amp;#128210; [url=https://www.nationstates.net/page=dispatch/id=2583128][colour=darkcyan]RMB Guidelines[/colour][/url]
 [*]&amp;#128220; [url=https://www.nationstates.net/page=dispatch/id=2583123][colour=darkcyan]Guidebook[/colour][/url]
 [*]&amp;#9917;[url=https://www.nationstates.net/nation=cordoneballs_bureau/detail=factbook/id=main][colour=darkcyan]CordoneBalls[/colour][/url]
-[*]&amp;#128221; [url=https://cordone.miraheze.org/wiki/Main_Page][colour=darkcyan]CordoneWiki[/colour][/url][/list]
+[*]&amp;#128221; [url=https://cordone.miraheze.org/wiki/Main_Page][colour=darkcyan]CordoneWiki[/colour][/url]
+[*] &amp;#128218; [url=/region=corsair][colour=darkcyan]Puppet Dump / Grand Library[/colour][/url][/list]
 [/td][/tr]
 
 [tr][td]
 [colour=#0062b3][b][font=nationstates]&amp;#59442;[/font] | The News[/b][/colour]
 [list]
 
-[*][url=https://www.nationstates.net/page=dispatch/id=2666038][color=darkcyan]The Latest Cordonite Journal is out too![/color][/url]
+[*] There is a new cap of [b]15 endos[/b] - help each other out and unendorse as much as you can
 
-[*][color=orange]We are transitioning to a frontier![/color]
+[*] We are officially a frontier!
 
-[*][url=https://www.nationstates.net/page=rmb/postid=59836403][color=purple]Our monthly RMB awards are out[/color][/url]
-
-[*][url=https://www.nationstates.net/nation=cordoneballs_bureau/detail=factbook/id=main][color=red]WE NOW HAVE BALLS IN OUR DISCORD[/color][/url]
+[*] [region]Corsair[/region] has been converted to a puppet dump + an archive of RP posts, check it out!
 
 [/list][/td][/tr][/table]
 
 [colour=#0062b3][b][font=nationstates]&amp;#59393;[/font] | Funny Quote[/b][/colour]
-[quote=lavinsworth_united_islands;59897318]Mods send this guy to Brazil [/quote]
+[quote=ostonives;59991800]Lowkey won&#146;t last as a frontier.[/quote]
+
 [hr]

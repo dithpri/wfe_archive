@@ -1,5 +1,7 @@
-[hr][color=00477e][list][b]Kyiv[/b][/list][/color][hr][color=744733]
-FACTS:[list][b]Founded:[/b] 482 AD (officially)
+[color=00477e][b]Kyiv[/b]
+[/color][color=744733]
+FACTS:
+[b]Founded:[/b] 482 AD (officially)
 [b]Area:[/b] 839 km&sup2; (324 mi&sup2;)
 [b]Population:[/b] (2013 July 15)
 &raquo; [b]City:[/b] 2,847,200
@@ -8,12 +10,10 @@ Kyiv is the largest city and capital of Ukraine
 &raquo; 8th largest city in Europe
 
 [i]In 1995 the Ukrainian government adopted Kyiv, instead of Kiev, 
-as the mandatory Romanization for use in legislative and official acts.[/i][/list][/color]
-
-[color=474700]REGION[list]&raquo; [b]Founded:[/b] 2013 10 14
-&raquo; [b]Matrixed:[/b] 2019 Oct 09 (Accepts Embassy Offers Since)
+as the mandatory Romanization for use in legislative and official acts.[/i]
+[/color][color=474700]
+REGION
+&raquo; [b]Founded:[/b] 2013 10 14
 &raquo; [b]Featured:[/b] 2020 11 09
-&raquo; an [region=Ancient Lands] allied region
-&raquo; associated with [region=United States of America][/list]
-
-[hr][/color][color=006900][list][b]Embassy Offers are Welcome[/b][/list][/color][hr]
+[/color][color=006900]
+[b]Embassy Offers are Welcome[/b][/color]

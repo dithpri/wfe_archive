@@ -13,6 +13,8 @@ Facts:
 [/color][color=999900]
 REGION
 [b]Featured:[/b] 2012 May 31; 2013 Jan 01; 2014 Feb 11; 2014 Sep 06; 2021 Jul 24; 2022 May 20
-a [region=United States of America] region
+a [region=United States of America] allied region
 [/color][color=004d33]
-Embassy Offers Welcome[/color]
+Embassy Offers Welcome
+[/color][color=666]
+Banner: a photo of a beach on Lake Michigan near Manistique[/color]
