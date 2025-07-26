@@ -1,10 +1,6 @@
 [color=006600][b]The Assembly of Gentlemen[/b]
-A [region=0000] puppet storage region
-[b]In Association with:[/b] [region=Old Spirit]
-[b]Maintained by:[/b] [nation=short]New Falham[/nation]
 
 [b]Region Founded:[/b] 2017 Feb 04
-[b]Embassy Offers Accepted:[/b] Starting -- 2017 Feb 14
 [b]Featured Region:[/b] 2018 Jan 23[/color]
 [color=silver]Really not much of a region[/color]
-[color=red][b]Embassy Offers Are Accepted[/b][/color]
+[color=004d33][b]Embassy Offers Are Accepted[/b][/color]

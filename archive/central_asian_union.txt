@@ -9,7 +9,5 @@ REGION
 [/color][color=633512]
 [b]Sister Regions:[/b]
 - [region=Uzbekistan] - [region=Tashkent] - [region=Azerbaycan Respublikasi]
-- [region=0000] - [region=Ancient Lands] - [region=Dog Lake] - [region=Old Spirit]
-- [region=United States of America] - [region=Westminster]
 [/color][color=004d33]
 [b]Accepting all embassy offers[/b][/color]

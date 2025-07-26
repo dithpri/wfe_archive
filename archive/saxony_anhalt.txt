@@ -13,9 +13,6 @@ FACTS
 REGION
 [b]Founded:[/b] 2021 Jun 13
 [b]Featured:[/b] 2024 Aug 06
-an [region=Ancient Lands] region
-[b]Sister Regions:[/b] [region=Brandenburg], [region=Hesse], [region=Mecklenburg Vorpommern], 
-[region=Lower Saxony], [region=North Rhine Westphalia], [region=Saxony], etc.
 [/color][color=004D33]
 [b]Embassy Policy:[/b] Will not accept embassy offers at this time
 This policy will change later, and any offers at that time will be accepted
