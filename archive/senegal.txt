@@ -1,8 +1,7 @@
-[list][color=navy][b]Senegal[/b]
-[/color][color=008000]
-[b]NATION[/b]
-
-[list]Officially, [region=the Republic of Senegal] (R&eacute;publique du Senegal)
+[color=navy][b]Senegal[/b]
+[/color][color=543210]
+NATION
+Officially, [region=the Republic of Senegal] (R&eacute;publique du Senegal)
 [b]Capital:[/b] [region=Dakar]
 [b]Independence:[/b] 1960 Apr 04 (France)
 [b]Area:[/b] 196,712 sq km 75,951 sq mi (86th)
@@ -11,11 +10,10 @@
 A country located in West Africa.
 Bordered by: [region=Mauritania], [region=Mali], [region=Guinea] and [region=Guinea Bissau]
 Senegal also borders [region=The Gambia], which is a narrow sliver of land along Gambia River.
-Senegal is derived from Sunuu Gaal, meaning Our Boat.[/list]
-[b]REGION[/b]
-
-[list]a [region=0000]/[region=Ancient Lands] puppet storage region
-associate region of [region=United States of America][/color][color=BB8844]
-Embassy Offers are accepted[/color][color=olive]
+Senegal is derived from Sunuu Gaal, meaning Our Boat
+[/color][color=666600]
+REGION
 [b]Founded:[/b] 2013 Sep 23
-[b]Featured:[/b] 2018 Jan 28[/color][/list][/list]
+[b]Featured:[/b] 2018 Jan 28
+[/color][color=006900]
+Embassy Offers are accepted[/color]

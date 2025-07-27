@@ -1,4 +1,6 @@
-[color=navy][b]Victoria[/b][hr][I]The Garden State[/I]
+[color=navy][b]Victoria[/b]
+[/color][color=543210]
+[i]The Garden State[/i]
 
 South-eastern state of Australia
 Creation of separate colony - 1851 July 1st (from New South Wales)
@@ -6,10 +8,9 @@ Creation of separate colony - 1851 July 1st (from New South Wales)
 [b]Area:[/b] 237,659 km&sup2; (6th) 91,761 mi&sup2;
 [b]Population:[/b] 6,358,900 (2nd) (Sep 2017)
 Named after Queen Victoria
-[/color][color=darkgreen]
+[/color][color=696900]
 REGION
-this is an [region=Old Spirit]/[region=0000] region
 [b]Founded:[/b] 2011 May 1
 [b]Featured:[/b] 2018 July 7; 2019 Nov 18
-[/color][color=green]
+[/color][color=006900]
 [b]Embassy Offers Accepted[/b][/color]
