@@ -1,8 +1,10 @@
-[color=00477e][b]Brunei[/b][/color]
-
-[color=grey]region transitioning to accepting embassy offers[/color]
-
-[color=004d33]REGION
-[b]Founded:[/b] 2012.06.10
-an [region=Ancient Lands] region
+[color=00477e][b]Brunei[/b]
+[/color][color=543210]
+Capital: Bandar Seri Begawan
+Southeast Asian nation surrounded by [region=Malaysia]
+located on the Island of Borneo
+[/color][color=696900]
+REGION
+[b]Founded:[/b] 2012 JUN 10
+[/color][color=004d33]
 Embassy offers accepted[/color]
