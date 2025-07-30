@@ -16,11 +16,6 @@ FACTS
 [/color][color=646400]
 REGION
 [b]Founded:[/b] 2016 May 19
-[b]Residency:[/b] 2019 July 20 (first puppet)
-[b]Matrix:[/b] 2020 Aug 27 (accepts embassy offers since)
 [b]Featured:[/b] 2021 March 30; 2023 May 10
-an [region=Ancient Lands] Nation Capitals Region
-a [region=0000] puppet storage region
-associated with [region=United States of America]
 [/color][color=004D33]
 [b]Embassy Offers Welcome[/b][/color]

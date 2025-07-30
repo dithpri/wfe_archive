@@ -1,6 +1,6 @@
-[table]
-  [tr][td][color=red][b]Zong Guo[/b][/color][/td][/tr]
-  [tr][td][color=5b5758]an [region=Ancient Lands] puppet storage region[/color][/td][/tr]
-  [tr][td][color=5b5758][b]Sister Region:[/b] [region=Zhong Guo][/color][/td][/tr]
-  [tr][td][color=004d33]Embassy Offers Accepted[/color][/td][/tr]
-[/table]
+[color=red][b]Zong Guo[/b]
+[/color][color=5b5758]
+AKA China (PRC)
+[b]Sister Region:[/b] [region=Zhong Guo]
+[/color][color=004d33]
+Embassy Offers Accepted[/color]
