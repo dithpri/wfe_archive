@@ -1,9 +1,4 @@
-[color=navy][b]Republica del Paraguay[/b]
-[/color][color=white]
-FACTS
-. will fill in later
-[/color][color=olive]
+[color=000060][b]Republica del Paraguay[/b]
+[/color][color=606000]
 REGION
-[b]Founded:[/b] 2016 Nov 15
-[b]Matrixed:[/b] 2016 Nov 19
-This is a [region=Great Britain and Northern Ireland] region[/color]
+[b]Founded:[/b] 2016 Nov 15[/color]
