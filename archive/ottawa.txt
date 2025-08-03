@@ -1,10 +1,8 @@
-[color=navy][b]Ottawa[/b][/color]
+[color=000065][b]Ottawa[/b][/color]
 
-[color=654321]Capital city of Canada
-[/color][color=olive]
+[color=006565]Capital city of Canada
+No, Toronto is not Canada&#39;s capital
+[/color][color=656500]
 REGION
 [b]Founded:[/b] 2011 Apr 08
-[b]Featured:[/b] 2024 Aug 30
-an [region=Ancient Lands] associated region
-[/color][color=green]
-Embassy Offers Welcome[/color]
+[b]Featured:[/b] 2024 Aug 30[/color]

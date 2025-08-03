@@ -1,10 +1,7 @@
-[color=003264][b][pre]Province of Ontario[/pre][/b]
-this is a [region=British North America] &amp; [region=Great Britain and Northern Ireland] region
-also associated with [region=0000], [region=Old Spirit], [region=Ancient Lands], [region=Pacific Union], [region=United States of America][/color]
-
-[color=olive]REGION
+[color=003264][b]Province of Ontario[/b]
+[/color][color=543210]
+the region [region=Ontario] was already taken
+[/color][color=555500]
+REGION
 [b]Founded:[/b] 2020 Feb 25
-[b]Matrixed:[/b] 2020 Nov 13
-[b]Featured:[/b] 2022 Nov 17
-[/color][color=green]
-Embassy offers will be accepted[/color]
+[b]Featured:[/b] 2022 Nov 17[/color]

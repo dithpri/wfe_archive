@@ -10,7 +10,4 @@ FACTS
 [b]Population:[/b] 1,609,675 (2018)
 [/color][color=D4AF37]
 REGION
-[b]Founded:[/b] 2021 JUN 13
-this is an [region=Ancient Lands] region
-[/color][color=003366]
-[b]Embassy Policy:[/b] at this time, I will not be accepting embassy offers[/color]
+[b]Founded:[/b] 2021 JUN 13[/color]

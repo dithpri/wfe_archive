@@ -1,4 +1,4 @@
-[hr][list][color=teal][b]South China Sea[/b][/list][hr]
+[color=teal][b]South China Sea[/b]
 [/color][color=004500]
 Disputed Territory between the competing nations around the South China Sea.
 China claims nearly all of the Southern Sea.
@@ -7,5 +7,4 @@ Disputed by:
 [/color][color=olive]
 REGION
 [b]Founded:[/b] 2014 Feb 13
-[b]Featured:[/b] 2016 Nov 08; 2019 Dec 20
-a [region=Great Britain and Northern Ireland] region[/color][hr][color=green][b]Embassy Offers are Welcome[/b][/color][hr]
+[b]Featured:[/b] 2016 Nov 08; 2019 Dec 20[/color]
