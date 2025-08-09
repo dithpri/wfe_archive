@@ -1,5 +1,37 @@
-BLAH
+[hr][table=noheader]
+[tr][td][b][i][color=#154C79]W[/color][color=#164F7B]e[/color][color=#17537E]l[/color][color=#185681]c[/color][color=#195A84]o[/color][color=#1A5D86]m[/color][color=#1B6189]e[/color] [color=#1D688F]t[/color][color=#1E6B92]o[/color] [color=#207397]t[/color][color=#21769A]h[/color][color=#227A9D]e[/color] [color=#2581A2]U[/color][color=#2684A5]A[/color][color=#2788A8]S[/color] [color=#298FAE]H[/color][color=#2A92B0]o[/color][color=#2B96B3]u[/color][color=#2C99B6]s[/color][color=#2D9DB9]e[/color] [color=#2FA4BE]o[/color][color=#30A8C1]f[/color] [color=#32AFC7]R[/color][color=#33B2CA]e[/color][color=#35B6CC]p[/color][color=#36B9CF]r[/color][color=#37BDD2]e[/color][color=#38C0D5]s[/color][color=#39C4D8]e[/color][color=#3AC8DA]n[/color][color=#3BCBDD]t[/color][color=#3CCFE0]a[/color][color=#3DD2E3]t[/color][color=#3ED6E6]i[/color][color=#3FD9E8]v[/color][color=#40DDEB]e[/color][color=#41E0EE]s[/color][color=#42E4F1]![/color][/i][/b]
+[i]Long Live The Union![/i][/td]
+[td][b][color=#154c79]&amp;#128391; | Important Links[/color][/b]
+[list][*]&amp;#9474; [url=https://www.nationstates.net/page=dispatch/id=2020230][color=black]Constitution[/color][/url]
+[*]&amp;#9474; [url=https://www.nationstates.net/page=dispatch/id=2539514][color=black]Regional Docket[/color][/url]
+[*]&amp;#9474; [url=https://www.nationstates.net/page=dispatch/id=2621803][color=black]Regional Calendar[/color][/url]
+[*]&amp;#9474; [url=https://www.nationstates.net/page=dispatch/id=2542838][color=black]Legislation Template[/color][/url]
+[*]&amp;#9474; [url=https://www.nationstates.net/page=dispatch/id=2542837][color=black]Media Kit[/color][/url]
+[*]&amp;#9474; [url=https://www.nationstates.net/page=dispatch/id=2020229][color=black]Government Corner[/color][/url][/td]
+[td][b][color=#154c79]&amp;#128391; | Legislative Links[/color][/b]
+[list][*]&amp;#9474; [url=https://www.nationstates.net/page=dispatch/id=2526748][color=black]Legislative Standards and Transparency Act[/color][/url]
+[*]&amp;#9474; [url=https://www.nationstates.net/page=dispatch/id=2616415][color=black]Congressional Standards Act[/color][/url]
+[*]&amp;#9474; [url=https://www.nationstates.net/page=dispatch/id=2686699][color=black]House Expansions Act[/color][/url]
+[*]&amp;#9474; [url=][color=black]Rules and Conduct of the House[/color][/url][/list][/td]
+[td][b][color=#154c79]&amp;#128366; | Senate Motions[/color][/b]
+[list][*][url=https://www.nationstates.net/page=display_region_rmb/region=uas_house_of_representatives][color=black]Floor Hearings[/color][/url]
+[*][url=][color=black]Committee Work[/color][/url]
+[*][url=https://www.nationstates.net/page=dispatches/nation=trpezi][color=black]House Decrees[/color][/url]
+[*][url=][color=black]Legislative Flooring[/color][/url][/list][/td][/tr]
+[/table][hr]
 
-BLAH
+[table][tr][td][i][color=black]Nation[/color][/i][/td][td][i][color=black]House Position[/color][/i][/td][/tr]
+[tr][td][b][nation]Trpezi[/nation][/b][/td][td]Speaker of the House[/td][/tr]
+[tr][td][nation]Eco-Paris Reformation[/nation][/td][td]Majority Leader | Majority Whip[/td][/tr]
+[tr][td][i]Open Seat[/i][/td][td]Minority Leader | Minority Whip[/td][/tr]
+[/table]
 
-BLAH
+[hr]
+
+[table][tr][td][color=black]Committees[/color][/td][/tr]
+[tr][td][url=https://www.nationstates.net/page=dispatch/id=2586449][u][color=black]Judiciary Committee[/color][/u][/url][/td][/tr]
+[tr][td][url=https://www.nationstates.net/page=dispatch/id=2609526][u][color=black]Oversight and Government Reform Committee[/color][/u][/url][/td][/tr]
+[tr][td][url=][u][color=black]Cultural Means Committee[/color][/u][/url][/td][/tr]
+[/table]
+
+[hr]

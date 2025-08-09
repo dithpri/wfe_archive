@@ -8,10 +8,6 @@
 [/color][color=696900]
 REGION
 [b]Founded:[/b] 2019 Jul 28
-[b]Featured:[/b] 2021 Apr 22
-[region=The Central Pacific] allied region
-a [region=0000] Puppet Storage Region
-[b]Caretaker:[/b] [nation=short]Chopaka[/nation] &amp; [nation=short]Elliston[/nation]
-[b]Alliance Agent:[/b] [nation=short]Royal House of Windsor[/nation][/color]
-[color=003366]
+[b]Featured:[/b] 2021 Apr 22; 2025 Aug 08
+[/color][color=003366]
 [b]Embassy Offers Welcome[/b][/color]
