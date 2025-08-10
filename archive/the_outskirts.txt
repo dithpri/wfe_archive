@@ -3,7 +3,7 @@
 [tr][td]
 [u][b]World Assembly[/b][/u]
 
-Delegate: [nation]The FreeBird[/nation]
+[nation]The FreeBird[/nation]
 Endorsement Cap = 7
 
 [b]&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&amp;lt;[/b]
