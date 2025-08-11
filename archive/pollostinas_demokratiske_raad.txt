@@ -4,7 +4,7 @@
 
 Fascists:
 [list=1]
-
+[*][nation]Technoco[/nation]
 
 [/list]
 
@@ -17,6 +17,6 @@ Fascists Destroyed:
 [*][nation]Northwestern Wind[/nation]
 [*][nation]Right Empire[/nation]
 [*][nation]Femboy Hooters 1[/nation]
-[*][nation]Technoco[/nation]
+
 
 [/list]
