@@ -1,6 +1,5 @@
-[table]
-[tr][td]The Negotiating Table[/td][/tr]
-[tr][td][color=007c2e][b]Founded:[/b] 2024 JAN 11 (again)
-a [region=0000] oracle region[/color][/td][/tr]
-[tr][td][color=002674]not accepting embassy offers[/color][/td][/tr]
-[/table]
+[color=543210]114.[/color][color=900009]
+[b]The Negotiating Table[/b]
+[/color][color=696900]
+REGION
+[b]Founded:[/b] 2024 Jan. 11[/color]
