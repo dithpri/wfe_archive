@@ -7,3 +7,7 @@ LIST of NATIONS:
 [nation]Kang-Soon-nyeon[/nation]
 [nation]Gim-Kyeong-mi[/nation]
 [nation]Dok-Ok-chun[/nation]
+[nation]Hyun-ju[/nation]
+[nation]Min-Jin-yeong[/nation]
+[nation]Park-Han-jun[/nation]
+[nation]Song-Eun-ji[/nation]
