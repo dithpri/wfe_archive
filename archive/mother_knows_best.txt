@@ -1,3 +1,16 @@
 If you are Mother Knows Best or Father Knows Best nation this region might be for you.
 
 Anyone can move here, however.
+
+To create a Mother Knows best state:
+Centrist
+skip questions 1,6 and 8
+2 disagree
+3 strongly disagree
+4 disagree
+5 strongly agree 
+7 disagree
+choose diplomatic homeland wranglers
+choose queendom or matriarchy for pre title
+that should work
+Of course if you already are a father knows best state change pre title to Queendom or Matriachy
