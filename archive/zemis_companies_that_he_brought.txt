@@ -1,1 +1,1 @@
-[nation=ZemisNorth Technologies Inc[/nation]
+[nation]ZemisNorth Technologies Inc[/nation]

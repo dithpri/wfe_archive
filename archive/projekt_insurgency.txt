@@ -1,6 +1,6 @@
 Welcome to&amp;#9824;[u]Projekt Insurgency[/u]&amp;#9824;
 ------------------------------------------------
-         [u]Prime Minister:[/u]
+         [color=red][u]Prime Minister:[/u][/color]
 ------------------------------------
 [nation=long]Dark Chaos Insurgency[/nation]
 ------------------------------------
@@ -8,9 +8,12 @@ Welcome to&amp;#9824;[u]Projekt Insurgency[/u]&amp;#9824;
 ------------------------------------
 [nation=long]Insurgency Info[/nation]
 -------------------------------------------------
+[b]Links:[/b]
+[url=https://www.nationstates.net/page=un]World Assembly[/url] | 
+-------------------------------------------------
 [b]News[/b]
 --------------
-[b]We are in need of WA members, so that we can become a frontier, and be safe from raiders.
+[b]We are in need of [url=https://www.nationstates.net/page=un][color=blue]WA members[/color][/url], so that we can become a frontier, and be safe from raiders.
 You are encouraged to join WA.[/b]
 
 WA Endo Cap&amp;#128721;: 1 (for now)
