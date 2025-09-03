@@ -1,17 +1,13 @@
-[color=navy][b]West Indies Federation[/b]
-[/color][color=green]
-aka West Indies
-a short lived political union that existed 1958 Jan 03 to 1962 May 31
-a union of former British colonies
-[b]Capital:[/b] Chaguaramas (de jure); Port of Spain (de facto)
-[b]Area:[/b] 20,239 km2 (7,814 sq mi) (1962)
-[b]Population:[/b] 3,264,600 (1962 est.)
-[b]Federation Included Areas:[/b]
-- Preceded by Colonies:
-[region=Barbados], [region=Jamaica], [region=Trinidad and Tobago], [region=British Leeward Islands], [region=British Windward Islands]
-- Succeeded by Colonies and Nations:
-[region=Anguilla], [region=Antigua], [region=Barbados], [region=Cayman Islands], [region=Dominica], [region=Grenada], [region=Jamaica], [region=Montserrat], [region=Nevis], [region=Saint Christopher], [region=Saint Lucia], [region=Saint Vincent and the Grenadines], [region=Trinidad and Tobago], [region=Turks and Caicos Islands].
-[/color][color=olive]
-a [region=0000] region
-currently an oracle region[/color][color=red]
-embassy offers not accepted[/color]
+[color=navy][b]West Indies Federation[/b][/color]
+
+[list][*][color=green][b]Capital:[/b] Chaguaramas (de jure); Port of Spain (de facto)
+[*][b]Area:[/b] 20,239 km2 (7,814 sq mi)
+[*][b]Population:[/b] 3,264,600
+[*][b]Provinces and Territories:[/b][/color][/list]
+[list][table][tr] [/tr]
+[tr][td][color=green]Antigua[/color][/td][td][color=green]Montserrat[/color][/td][/tr]
+[tr][td][color=green]Barbados[/color][/td][td][color=green]Saint Christopher-Nevis-Anguilla[/color][/td][/tr]
+[tr][td][color=green]Cayman Islands[/color][/td][td][color=green]Saint Lucia[/color][/td][/tr]
+[tr][td][color=green]Dominica[/color][/td][td][color=green]Saint Vincent and the Grenadines[/color][/td][/tr]
+[tr][td][color=green]Grenada[/color][/td][td][color=green]Trinidad and Tobago[/color][/td][/tr]
+[tr][td][color=green]Jamaica[/color][/td][td][color=green]Turks and Caicos Islands[/color][/td][/tr][/table][/list]
