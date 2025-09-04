@@ -9,10 +9,9 @@ Current System of Government [b]Renaissance Republics[/b]...
 [b][u]House of Lords[/u]:[/b]
 
 [nation=long]Sapphire 1[/nation] the [b]Valient[/b]
-[nation=long]The Iron Stronghold[/nation] the [b]Just[/b]
 [nation=long]Disneylodia[/nation] the [b]Magnificant[/b]
 [nation=long]Blobfish Inc[/nation] the [b]Brave[/b]
-[nation=long]Potatonesses[/nation] the [b]Gentile[/b]
+
 
 [b]Regional Capital City:[/b] [color=orange][i]Cair Paravel[/i][/color]
 
@@ -24,6 +23,5 @@ Current System of Government [b]Renaissance Republics[/b]...
 [b][nation=long+noflag]Isle of Palmettos[/nation]:[/b]  1 Silver Medal 
 [b][nation=long]The Iron Stronghold[/nation]:[/b] 1 Bronze medal
 
-
-
+[b]Regional Belief:[/b] [color=purple][i]&quot;If It Flies, It Spies...&quot;[/i][/color]
  
