@@ -1,1 +1,4 @@
 Puppet Storage for [region]The Sovereign Alliance[/region]
+Please state your main nation
+[hr]
+[nation]Guard Land[/nation]: [nation]The Outer Walls[/nation], [nation]Druden Kelans[/nation], [nation]Khoushan[/nation], [nation]Uniyan[/nation]

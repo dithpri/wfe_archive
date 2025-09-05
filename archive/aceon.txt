@@ -1,9 +1,8 @@
-[b]WELCOME TO [region]ACEON[/region][/b]
+[b]WELCOME TO [region]ACEON[/region]![/b]
 
 [url=https://www.youtube.com/watch?v=vg6pnvn1u10&amp;list=RDvg6pnvn1u10&amp;start_radio=1]Official Anthem[/url]
-[hr]
-[b][sub]Welcome to Aceon; an alternative history creationist community with an active map, and a democratic regional government. Experience the aftermath of the &quot;Great Collapse&quot;, an apocalyptic event that shattered the very pillars of civilization![/b][/sub]
-[list][color=#000000][b][sub]| Founded: May 8th - 2025 |[/sub][/b][/color][/list]
+
+[b]| Founded: May 8th - 2025 |[/b]
 
 [hr]
 
@@ -11,7 +10,7 @@
 
 [i][b]Chief Executive/Governor:[/b][/i] [nation]Sovern[/nation]
 
-[i][b]Secretary General:[/b][/i] [nation]Jays Island[/nation] (Elect: Sept. 4th, 2025)
+[i][b]Secretary General:[/b][/i] [nation]Greater Viking Empire[/nation] (Elect: Sept. 4th, 2026)
 [i][b]Chancellor/WA Delegate:[/b][/i] N/A (Vacant)
 
 [i][b]Foreign Affairs Minister:[/b][/i] [nation]Songhai Mali[/nation] (Elect: Oct. 10th)
@@ -19,11 +18,15 @@
 [i][b]Domestic Affairs Minister:[/b][/i] [nation]Neo American Union[/nation] (Elect: Oct. 22d)
 [i][b]Communications Minister:[/b][/i] [nation]Kazakborat[/nation] (Elect: Oct. 28th)
 
+[i][b]First Justice:[/b][/i] N/A (Vacant)
+[i][b]Second Justice:[/b][/i] N/A (Vacant)
+[i][b]Third Justice:[/b][/i] N/A (Vacant)
+
 [hr]
 
 [b]| DOCTRINE |[/b]
 
-[i][b]Border:[/b][/i] [color=red]Closed[/color]
+[i][b]Border:[/b][/i] [color=green]Open[/color]
 [i][b]Foreign Policy:[/b][/i] [color=green]Cordial[/color]
 
 
