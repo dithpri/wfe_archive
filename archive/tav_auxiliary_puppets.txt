@@ -1,7 +1,6 @@
 Stat-nonspecific, gotIssues operated nations farming cards for [nation]The Ankhalic Vaspriot[/nation].
 
-Puppetmaster: [nation]The Ankhalic Vaspriot[/nation]
-
-Regional card manager: [nation]Lespotte[/nation]
+Regional manager: [nation]Lespotte[/nation]
 
 Stat-specific, manually operated nations: [region]Aessui[/region]
+Other TAV card farm regions: [region]TAV Diamond Collection[/region], [region]Neunundneunzig Luftballons[/region]

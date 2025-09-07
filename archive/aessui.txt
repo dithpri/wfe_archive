@@ -1,7 +1,5 @@
-Stat-specific, manually operated nations of [nation]The Ankhalic Vaspriot[/nation].
+[nation]The Ankhalic Vaspriot[/nation]&#39;s whimsical hidey-hole.
 
-Puppetmaster: [nation]The Ankhalic Vaspriot[/nation]
+Ambassadorial nations: [nation]Azure Mines[/nation] (WA, [region]Forest[/region]), [nation]Regenbogengold[/nation] ([region]The Leftist Assembly[/region])
 
-Primary puppets: [nation]Azure Mines[/nation] (WA, currently in Forest), [nation]Schpaebleheim[/nation]
-
-Stat-nonspecific, gotIssues operated nations: [region]TAV Auxiliary Puppets[/region], [region]TAV Diamond Collection[/region]
+Stat-nonspecific, gotIssues operated nations: [region]TAV Auxiliary Puppets[/region], [region]TAV Diamond Collection[/region], [region]Neunundneunzig Luftballons[/region]
