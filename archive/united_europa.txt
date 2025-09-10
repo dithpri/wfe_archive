@@ -1,10 +1,11 @@
-[table][tr][td][color=00477E][b]United Europa[/b][/color][/td][/tr]
-[tr][td][color=c3b091]New Ancient Lands Region
+[color=00477E][b]United Europa[/b]
+[/color][color=c3b091]
+New The Central Pacific Region
 
-Minimum Population of each nation monitored[/color][/td][/tr]
-[tr][td][color=633517]REGION
+Minimum Population of each nation monitored
+[/color][color=633517]
+REGION
 [b]Founding:[/b] 2025 Apr 08
-this is a [region=Dog Lake] region
+this is a [region=The Central Pacific] associated region
 [/color][color=004d33]
-[b]Embassy Policy:[/b] Embassy Offers are welcome
-[i]There will be a few exceptions that will be ignored[/i][/color][/td][/tr][/table]
+[b]Embassy Policy:[/b] Embassy Offers are welcome[/color]
