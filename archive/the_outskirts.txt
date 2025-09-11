@@ -1,10 +1,9 @@
 [table][tr][td][b]Welcome to [color=black][i]The Outskirts[/i][/color] [color=grey][font=times new roman]Chapter 2[/font][/color][/b][/td][td][url=https://www.nationstates.net/page=dispatch/id=2676355]How to Join[/url][/td][/tr]
 
 [tr][td]
-[u][b]World Assembly[/b][/u]
+[font=nationstates]&amp;#59425;[/font] [u][b]World Assembly[/b][/u] [font=nationstates]&amp;#59425;[/font]
 
 [nation]The FreeBird[/nation]
-Endorsement Cap = 6
 
 [b]&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&#151;&amp;lt;[/b]
 [b]WA Voting Recommendations[/b]
@@ -34,12 +33,12 @@ Security Counsel: [color=blue][b]FOR[/b][/color]
 
 - [url=https://www.nationstates.net/page=dispatch/id=2627541]Constitution &amp;#128220;[/url][/td][/tr]
 [/table]
-[table][tr][td][color=black][b]Announcements[/b][/color][/td][td][color=black][b]Events[/b][/color][/td][/tr]
+[table][tr][td][color=black][b]Announcements[/b] [font=nationstates]&amp;#59407;[/font][/color][/td][td][color=black][b]Events[/b][/color][/td][/tr]
 
 [tr][td]Make sure you are in the WA before N-day starts- [nation]The FreeBird[/nation][/td]
 
 [td][u]9/27/25[/u]
-[color=red]N-Day[sup]13[/sup][/color] TBA
+[color=red][font=nationstates]&amp;#59459;[/font] N-Day[sup]13[/sup][/color] TBA
 
 [u]10/30/25[/u]
 [color=purple]Z-Day[/color] TBA [/td][/tr]
