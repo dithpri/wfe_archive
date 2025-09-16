@@ -4,12 +4,13 @@
 
 Fascists:
 [list=1]
-[*][nation]Technoco[/nation]
+
 
 [/list]
 
 Fascists Destroyed:
 [list=1]
+[*][nation]Technoco[/nation]
 [*][nation]Angraf[/nation]
 [*][nation]Svate Afrikanere[/nation]
 [*][nation]Abekistan[/nation]
