@@ -1,9 +1,10 @@
-[color=009000][b]Sacramento[/b], California
+[color=0047ee][b]Sacramento[/b], California
 [/color][color=543210]
 Capital city of the state of California
-[/color][color=olive]
+[/color][color=B5A642]
 REGION
 Founded: 2016 Jun 19
+Featured: 2025 Sep 17
 a [region=United States of America] region
-[/color][color=009000]
-Embassy Offers Welcome[/color]
+[/color][color=228B22]
+[b]Embassy Offers Welcome[/b][/color]
