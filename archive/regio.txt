@@ -19,10 +19,4 @@
 [region]The Republic of Atherland[/region]
 [region]Seletar Serangoon[/region][/spoiler][/list]
 
-------------------------------------------------------------------------------------------
-
-Good news!
-Former colony [region]Azure Beach[/region] is now a blooming frontier, check it out!
-Thanks to [nation]Life is a Beach[/nation] and [nation]Azurfront[/nation] for making this possible.
-
-------------------------------------------------------------------------------------------
+[color=green][b]----------Check out a blooming frontier called [region]Azure Beach[/region]!----------[/b][/color]
