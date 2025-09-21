@@ -26,3 +26,10 @@
 [tr][td][nation]-[/nation][/td][td]Justice[/td][/tr]
 [tr][td][nation]-[/nation][/td][td]Justice[/td][/tr]
 [/table]
+
+[table][tr][td][color=black]Courts[/color][/td][/tr]
+[tr][td][url=][u][color=black]Regional High Court[/color][/u][/url][/td][/tr]
+[tr][td][url=][u][color=black]Regional Low Court[/color][/u][/url][/td][/tr]
+[tr][td][url=][u][color=black]Inferior Courts[/color][/u][/url][/td][/tr]
+[tr][td][url=][u][color=black]Tribunals[/color][/u][/url][/td][/tr]
+[/table]
