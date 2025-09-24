@@ -23,10 +23,10 @@
 
 [table][tr][td][i][color=black]Nation[/color][/i][/td][td][i][color=black]Senate Position[/color][/i][/td][/tr]
 [tr][td][b][nation]Korovan[/nation][/b][/td][td]Majority Whip[/td][/tr]
-[tr][td][nation]Samboria[/nation][/td][td]Senator[/td][/tr]
 [tr][td][nation]Nshi[/nation][/td][td]Senator[/td][/tr]
 [tr][td][nation]The Unionary United States[/nation][/td][td]Senator[/td][/tr]
 [tr][td][nation]Sagariana[/nation][/td][td]Senator[/td][/tr]
+[tr][td][nation]Vacant[/nation][/td][td]Senator[/td][/tr]
 [/table]
 
 [hr]
