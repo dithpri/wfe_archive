@@ -7,5 +7,5 @@
 Links: [b][url=https://www.nationstates.net/page=faction/fid=5][color=cfb870]Faction[/color][/url] [url=https://discord.gg/RGgMth73fz][color=#cfb870]Our Discord[/color][/url] | [url=https://www.nationstates.net/page=dispatch/id=2703126][color=#cfb870]Getting Started[/color][/url] | [url=https://www.nationstates.net/page=dispatch/id=2703125][color=#cfb870]Important Rules[/color][/url] | [url=https://www.nationstates.net/page=dispatch/id=2703128][color=#cfb870]Basic Strategy[/color][/url] | [url=https://www.nationstates.net/page=dispatch/id=2703129][color=#cfb870]Member Regions[/color][/url][/b]
 
 [color=#1a1a1a]Standing Orders:[/color]
-[list][*][url=https://www.nationstates.net/page=faction/fid=5][color=#cfb870]Join our faction![/color][/url]
-[*][url=https://discord.gg/RGgMth73fz][color=#cfb870]Join our Discord![/color][/url][/list]
+[list][*][color=#cfb870][b]Military[/b], [b]Economic[/b], and [b]Cleanup[/b] specialists should be producing nukes.[/color]
+[*][color=#cfb870][b]Strategic[/b] specialists should be producing shields.[/color][/list]
