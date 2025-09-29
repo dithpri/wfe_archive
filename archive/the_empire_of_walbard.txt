@@ -22,7 +22,7 @@
 [b][color=navy]Elected Chief Executives[/color];[/b]
 
 &amp;#128188; Imperial Chancellor: [nation]Eserenya[/nation] (Progressive)
-&amp;#128188; Speaker: [nation]Nomi[/nation] (Labour)
+&amp;#128188; Speaker: [nation]Selagra[/nation] (Progressive)
 
 [hr]
 
@@ -33,8 +33,6 @@
 [b][color=navy]Our [u]Imperial Dominions[/u] include[/color];[/b]
 &raquo; [region]The United Kingdom[/region] 
 &raquo; [region]The Walbard Union[/region]
-&raquo; [region]The Empire of Denmark[/region]
-&raquo; [region]The Commonwealth of Canada[/region]
 &raquo; [region]Australia and New Zealand[/region]
 &raquo; [region]The Empire of Mongolia[/region]
 ~ and [i]more![/i]
