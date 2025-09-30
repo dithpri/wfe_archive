@@ -5,7 +5,7 @@ Encountered a Chimore in the wild? That&#39;s [nation]East Chimore[/nation]/[nat
 [tr][td][nation]West Chimore[/nation][/td][td][region]Chimore[/region][/td][td]Cardinal of Battle[/td][/tr]
 [tr][td][nation]South Chimore[/nation][/td][td][region]Purple Pony Club[/region][/td][td]Cardinal of Jockeys[/td][/tr]
 [tr][td][nation]North Chimore[/nation][/td][td][region]Chimore[/region][/td][td]Cardinal of Saints[/td][/tr]
-[tr][td][nation]Central Chimore[/nation][/td][td][region]Chimore[/region][/td][td]Cardinal of Blades and Sorcery; Retired Senior Assassin[/td][/tr]
+[tr][td][nation]Central Chimore[/nation][/td][td][region]Chimore[/region][/td][td]Cardinal of Blades and Sorcery[/td][/tr]
 [tr][td][nation]Vendiagram[/nation][/td][td][region]Anime Nations Against Liberals[/region][/td][td]Cardinal of Sinners; High Commander[/td][/tr]
 [tr][td][nation]Old Chimore[/nation][/td][td][region]Merciam[/region][/td][td]Cardinal of the March; Marchionix of Germania, Regional Governor[/td][/tr]
 [tr][td][nation]Chimore[/nation][/td][td][region]Chimore[/region][/td][td]Cardinal of the Hub[/td][/tr]

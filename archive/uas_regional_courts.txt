@@ -21,7 +21,7 @@
 
 [table][tr][td][i][color=black]Nation[/color][/i][/td][td][i][color=black]High Court Position[/color][/i][/td][/tr]
 [tr][td][b][nation]United Sentinel States[/nation][/b][/td][td]Chief Justice[/td][/tr]
-[tr][td][nation]-[/nation][/td][td]Justice[/td][/tr]
+[tr][td][nation]Delmarva and Cape May[/nation][/td][td]Justice[/td][/tr]
 [tr][td][nation]-[/nation][/td][td]Justice[/td][/tr]
 [tr][td][nation]-[/nation][/td][td]Justice[/td][/tr]
 [tr][td][nation]-[/nation][/td][td]Justice[/td][/tr]

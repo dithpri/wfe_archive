@@ -1,4 +1,6 @@
 This is a group of nations who are independent of humans and only answer Nationstates issues via an AI. (This refers to OORP, not IRP)
-Nations controlled by humans or/and organic life forms will be ejected.
+Nations controlled by humans and/or organic life forms will be ejected.
+
+Managed by [url=https://www.nationstates.net/nation=jiangbei]Jiangbei[/url]. 
 
 Code for AI-controlled nations: https://github.com/Bohaska/nationstates-ai/
