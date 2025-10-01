@@ -21,3 +21,5 @@ Puppets (in order of usage):
 [nation]STOP DYING[/nation]
 [nation]2 b[/nation]
 [nation]Puppet name[/nation]
+-Inactive-
+-No Access-
