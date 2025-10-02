@@ -7,9 +7,9 @@ Puppets (in order of usage):
 -Active-
 [nation]Void Termina[/nation] (stays in this region at all times)
 [nation]Wii-U[/nation]
+[nation]Para-Biddybud[/nation]
 -Active only during events-
 [nation]Atomic Trebuchet[/nation]
-[nation]Para-Biddybud[/nation]
 [nation]Okea[/nation]
 [nation]Bandana Waddle Dee[/nation]
 [nation]Conveniently Placed[/nation]
