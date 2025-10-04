@@ -6,7 +6,7 @@
 [color=e3ba54][b]INSTITUI&Ccedil;&Otilde;ES REGIONAIS:[/b][/color]
 &#149; [url=https://www.nationstates.net/page=dispatch/id=2650978] Congresso nacional do Brasil1[/url]
 &#149; [url=https://www.nationstates.net/page=dispatch/id=2650969] Jornal Nacional da Brasil1[/url]
-&#149; [url=https://www.nationstates.net/region=assembleia_regional_de_brasil1]Assembleia Regional[/url]
+&#149; [url=https://www.nationstates.net/region=assembleia_regional_de_brasil1] assembleia regional [/url]
 
 [hr]
 
@@ -15,18 +15,17 @@
 [hr]
 
 [b][color=red]&amp;#9888;&amp;#65039; MURAL DE EVENTOS E NOT&Iacute;CIAS (MurEN):[/color][/b]
-[color=red]&#149;[/color] Nova Constitui&ccedil;&atilde;o criada 
+[color=red]&#149;[/color] Nova biblioteca de livros criada!
 
-[color=red]&#149;[/color] Nova Playlist de M&uacute;sicas criada
+[color=red]&#149;[/color] Nova Playlist de m&uacute;sicas criada
 
-[color=red]&#149;[/color] O jornal foi restaurado
+[color=red]&#149;[/color] O jornal foi restaurado, e com novas not&iacute;cias recentes
 
-[color=red]&#149;[/color] Congresso criado
+[color=red]&#149;[/color] Congresso criado, e congressistas eleitos
 
-[color=red]&#149;[/color] [b]INSCRI&Ccedil;&Otilde;ES ABERTAS:[/b] vagas para ministro das comunica&ccedil;&otilde;es, ministro da cultura, e da Diplomacia, e ju&iacute;zes para o l&iacute;der judici&aacute;rio
-
+[color=red]&#149;[/color] [b]INSCRI&Ccedil;&Otilde;ES ABERTAS:[/b] vagas para ministro da cultura, e da Diplomacia.
 
 [hr]
 
 [color=green][b][i]&amp;#10031; CIDAD&Atilde;O DESTAQUE DO M&Ecirc;S &amp;#10031;[/i][/b][/color]
-[nation]Cruzevera[/nation] &#150; Reconhecido por sua contribui&ccedil;&atilde;o ativa na pol&iacute;tica e no debate regional.
+[nation]Sortv[/nation] &#150; Reconhecido por sua contribui&ccedil;&atilde;o pela cultura, e pela democracia, e pela constitui&ccedil;&atilde;o criada.
