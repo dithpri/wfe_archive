@@ -1,1 +1,3 @@
-Casual Place for me and friends.
+//Casual Place for me and friends.
+//Put double slash when breaking character
+//Max 3 nations per user for now
