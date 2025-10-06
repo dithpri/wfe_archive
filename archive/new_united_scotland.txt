@@ -5,7 +5,8 @@
 
 [table]
 [tr][td][b][color=#005EB8]&amp;#128081; Crown:[/color][/b][/td][td]HRM [nation]Tinell[/nation], [nation]Sinell[/nation][/td][/tr]
-[tr][td][b][color=#005EB8]&amp;#127963; Government:[/color][/b][/td][td]First Minister [nation]Vacant[/nation] &#149; Chancellor [nation]Vacant[/nation][/td][/tr]
+[tr][td][b][color=#005EB8]&amp;#127963; Government:[/color][/b][/td][td]Scottish Viceroy: [nation]Notrina[/nation] 
+First Minister: [nation]Gavriilistan[/nation][/td][/tr]
 [tr][td][b][color=#005EB8]&amp;#128737; WA Delegate:[/color][/b][/td][td][nation]Vacant[/nation][/td][/tr]
 [tr][td][b][color=#005EB8]&amp;#128220; Constitution:[/color][/b][/td][td][url=INSERT_LINK]Read the Charter[/url][/td][/tr]
 [tr][td][b][color=#005EB8]&amp;#127894; Laws &amp; Acts:[/color][/b][/td][td][url=INSERT_LINK]Statute Book[/url][/td][/tr]
