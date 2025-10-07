@@ -1,7 +1,7 @@
 [color=blue][b]Nunavut[/b][/color][color=green]
 a Northern Canadian territory
 Separated from Northwest Territories (1999 Apr 01)
-[b]Capital:[/b] Iqaluit (formerly called Frobisher Bay)
+[b]Capital:[/b] [region=Iqaluit] (formerly called Frobisher Bay)
 [b]Area:[/b]
  - Total: 2,038,722 km[sup]2[/sup] (787,155 sq. mi.)
  - Land: 1,877,787 km[sup]2[/sup] (725,018 sq. mi.)
@@ -11,4 +11,6 @@ Separated from Northwest Territories (1999 Apr 01)
 [/color][color=olive]
 REGION
 [b]Founded:[/b] 2010 Oct 21
-[b]Featured:[/b] 2022 Oct 18[/color]
+[b]Featured:[/b] 2022 Oct 18
+[/color][color=004d33]
+Embassy offers are welcome[/color]

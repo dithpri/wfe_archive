@@ -7,7 +7,7 @@ an embassy matrix region[/i][/color][/td][/tr]
 [tr][td]REGION[/td][/tr]
 [tr][td][color=00477e]this is a [region=Dog lake] allied region
 associated with
-- [region=0000] - [region=Ancient Lands] - [region=United States of America][/color][/td][/tr]
+- [region=0000] - [region=Ancient Lands] - [region=the Central Pacific] - [region=United States of America][/color][/td][/tr]
 [/table][table]
 [tr][td]EMBASSY[/td][/tr]
 [tr][td][color=004d33][b]Embassy Offers Accepted[/b]
