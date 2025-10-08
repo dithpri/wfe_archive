@@ -3,5 +3,7 @@
 [color=red][u]Member regions:[/u][/color]
 [region]Slavia[/region]
 [region]The Balkan Bloc[/region]
+[region]Polish Lithuanian common wealth[/region]
 
-[color=darkorange][u]Observer regions:[/u][/color][/b]
+[color=darkorange][u]Observer regions:[/u][/color]
+[region]White Serbia[/region][/b]

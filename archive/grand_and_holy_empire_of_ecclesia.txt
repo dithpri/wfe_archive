@@ -4,7 +4,7 @@ This is the Grand and Holy Empire of Ecclesia
 
 4 Shield Empires [nation]Magna Ecclesia[/nation] [nation]Sancta Ecclesia Magna[/nation] [nation]Magna et Sancta Imperia Ecclesia[/nation] [nation]Ecclesia Sancta[/nation]
 
-3 Colonial Dominions [nation]Colonia Nova Ecclesia[/nation] [nation]Colonia Nova Ecclesia Secunda[/nation] [nation]Colonia Ecclesia Australis[/nation]
+4 Colonial Dominions [nation]Colonia Nova Ecclesia[/nation] [nation]Colonia Nova Ecclesia Secunda[/nation] [nation]Colonia Ecclesia Australis[/nation] [nation]Colonia Zheltoecclesia[/nation]
 
 1 Principality Trade City [nation]Ecclesian Trade City of St Petersburg[/nation]
 

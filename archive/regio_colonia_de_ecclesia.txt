@@ -3,3 +3,5 @@ Colonial Region of the [region]Grand and Holy Empire of Ecclesia[/region]  Under
 1 Rogue Nation [nation]Anarchianopolis[/nation]
 
 1 Protectorate [nation]Civitas Ecclesiastica[/nation]
+
+1 Research Area [nation]Ecclesian Area Zero[/nation]

@@ -1,1 +1,9 @@
-Its a land of imagination
+[region]Imaginationland[/region] is a land of imagination that was discovered and founded by brave pioneers seeking to explore the frontiers of the mind.
+
+[nation=long]Shelvania[/nation] was founded by these early pioneers and later became the founding member of the region now known as imaginationland. 
+
+[table][tr][td][b]Regional officers[/b][/td][td][b]Office Held[/b][/td][/tr]
+[tr][td][nation=long]Shelvania[/nation][/td][td][b][color=Blue]Governor[/color][/b][/td][/tr]
+[tr][td][nation=long]Evil Belgium[/nation][/td][td][b]WA Delegate[/b][/td][/tr]
+[tr][td]VACANT[/td][td][b]Vice-Delegate[/b][/td][/tr]
+[/table]
