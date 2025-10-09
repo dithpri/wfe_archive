@@ -4,6 +4,8 @@
 [region]Slavia[/region]
 [region]The Balkan Bloc[/region]
 [region]Polish Lithuanian common wealth[/region]
+[region]White Serbia[/region]
+[region]Holy Siberian Empire[/region]
 
 [color=darkorange][u]Observer regions:[/u][/color]
-[region]White Serbia[/region][/b]
+[/b]
