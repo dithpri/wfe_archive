@@ -1,11 +1,20 @@
-[b][color=blue]Welcome to the official region of the Slavian People&#39;s Army (SPA)![/color]
+[b][color=blue]Welcome to the official region of the Slavian People&#39;s Army (SPA)![/color][hr]
 
-[color=darkorange]This is the base for military operations for the region Slavia. [u]Nothing is beyond our reach.[/u][/color]
+[color=darkorange]This is the base for military operations for the region Slavia. [u]Nothing is beyond our reach.[/u][/color][hr]
 
 [color=red][u]Regions controlled by the SPA:[/u][/color]
 [region]Velika Slavia[/region]
 [region]Nova Slavia[/region]
 [region]Slavska[/region]
 [region]Slavania[/region]
+[region]Federation of Democratic Slavian States[/region][hr]
 
-[color=blue]Come to [region]Slavia[/region]! The original home of Slavs on NationStates and the [u]best[/u] Slavic region. Our borders are open to everyone.[/color][/b]
+[color=blue][u]Regions protected by the SPA:[/u][/color]
+[region]Slavia[/region]
+[region]Slavic Balkan Treaty Organization[/region]
+[region]The Balkan Bloc[/region]
+[region]Polish Lithuanian common wealth[/region]
+[region]White Serbia[/region]
+[region]Holy Siberian Empire[/region][hr]
+
+[color=red]Come to [region]Slavia[/region]! The [u]best[/u] Slavic region out there. Our doors are open to nations of all kinds.[/color][/b]
