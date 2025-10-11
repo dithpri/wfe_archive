@@ -26,7 +26,7 @@
 [tr][td][nation]Nshi[/nation][/td][td]Senator[/td][/tr]
 [tr][td][nation]The Unionary United States[/nation][/td][td]Senator[/td][/tr]
 [tr][td][nation]Sagariana[/nation][/td][td]Senator[/td][/tr]
-[tr][td][nation]Vacant[/nation][/td][td]Senator[/td][/tr]
+[tr][td][nation]San Fransico Ape Colony[/nation][/td][td]Senator[/td][/tr]
 [/table]
 
 [hr]
