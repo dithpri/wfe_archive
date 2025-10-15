@@ -2,13 +2,13 @@
 [b]Leadership:
 
 [list][*]Speaker of the House:[/b] [nation]CurryWurst[/nation] [b]([color=gray]IND[/color])[/b]
-[list][*]Deputy Speaker:  [nation]Vacant[/nation] [b]([color=gray]N/A[/color])[/b][/list][/list]
+[list][*]Deputy Speaker:  [nation]Xedon[/nation] [b]([color=gray]IND[/color])[/b][/list][/list]
 
 [list][*][b]Prime Minister[/b]: [nation]Islonia[/nation] [b]([color=gray]IND[/color])[/b]
-[list][*]Minister of Domestic Affairs: [nation]Vacant[/nation] [b]([color=gray]N/A[/color])[/b]
-[*]Minister of Foreign Affairs: [nation]Vacant[/nation] [b]([color=gray]N/A[/color])[/b]
-[*]Minister of Cultural Affairs: [nation]Vacant[/nation] [b]([color=gray]N/A[/color])[/b]
-[*]Minister of Communications: [nation]Vacant[/nation] [b]([color=gray]N/A[/color])[/b][/list][/list]
+[list][*]Minister of Domestic Affairs: [nation]Santa Marana[/nation] [b]([color=gray]IND[/color])[/b]
+[*]Minister of Foreign Affairs: [nation]CurryWurst[/nation] [b]([color=gray]IND[/color])[/b]
+[*]Minister of Cultural Affairs: [nation]Rhyssuan Peoples[/nation] [b]([color=gray]IND[/color])[/b]
+[*]Minister of Communications: [nation]Xedon[/nation] [b]([color=gray]IND[/color])[/b][/list][/list]
 
 [b][list][*]Leader of the Opposition:[/b] [nation]Ash Blossom and Joyous Nation[/nation] [b]([color=#ffd635]RPT[/color])[/b]
 [list][*]Shadow Minister of Domestic Affairs: [nation]Vacant[/nation] ([b][color=gray]N/A[/color][/b])
