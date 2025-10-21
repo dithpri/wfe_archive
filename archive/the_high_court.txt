@@ -3,7 +3,7 @@
 [color=#009DFF][b]Current Case: None[/b][/color]
 
 [list][*][b]Chief Justice: [nation]Ashlawn[/nation][/b]
-[list][*]Snr Associate Justice: [nation]Democratized Peoples[/nation]
-[*]1st Jnr Associate Justice: [nation]Rhyssuan Peoples[/nation]
-[*]2nd Jnr Associate Justice: [nation]The Ambis[/nation]
-[*]3rd Jnr Associate Justice: [nation]Of Altonianic Islands[/nation][/list][/list]
+[list][*]Snr Associate Justice: [nation]Rhyssuan Peoples[/nation]
+[*]1st Jnr Associate Justice: [nation]The Ambis[/nation]
+[*]2nd Jnr Associate Justice: [nation]Of Altonianic Islands[/nation]
+[*]3rd Jnr Associate Justice: [nation]Snalland[/nation][/list][/list]

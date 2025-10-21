@@ -1,7 +1,7 @@
 [b][region=Varda][/b]
 [i]&quot;In the frozen heights, we reign.&quot;[/i]
 
-[b]Governor:[/b] [nation=Amenis Musha] | [b]WA Delegate:[/b] None
+[b]Head of Administration:[/b] [nation=Amenis Musha] | [b]Interstellar Administrator:[/b] [nation]Vardaia[/nation] | [b]WA Delegate:[/b] None
 
 [hr]
 [b]Overview[/b]
