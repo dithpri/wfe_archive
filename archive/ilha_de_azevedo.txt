@@ -1,4 +1,4 @@
 Sejam bem vindos(a)
 Clima hj:
-[nation]Baia de Sepetiba[/nation]:42&deg;
+[nation]Baia de Sepetiba[/nation]:43&deg;
 [nation]Ribeiro de Azevedo[/nation]:20&deg;
