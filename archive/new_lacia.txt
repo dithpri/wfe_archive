@@ -10,7 +10,7 @@ We require all new citizens to apply to the World Assembly, but you&#39;ll never
 [tr][td][color=BB3333]Censor[/color]: [/td][/tr]
 [tr][td][color=4466BB]Deputies of the Chamber[/color]:[/td][/tr][/table]
 
-[table][tr][td][color=278dce]=- World Assembly -=[/color][/td][/tr][tr][td][font=helvetica]General Assembly: [b]N/A[/b]
+[table][tr][td][color=278dce]=- World Assembly -=[/color][/td][/tr][tr][td][font=helvetica]General Assembly: [b][color=FF4444]AGAINST[/color][/b]
 Security Council: [b]N/A[/b]
 [/font][/td][/tr][/table]
 
