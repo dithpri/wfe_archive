@@ -31,8 +31,8 @@
 [hr]
 
 [b][color=navy]Our [u]Imperial Dominions[/u] include[/color];[/b]
-&raquo; [region]The United Kingdom[/region] 
-&raquo; [region]The Walbard Union[/region]
-&raquo; [region]Australia and New Zealand[/region]
+&raquo; [region]The United Kingdom[/region]
+&raquo; [region]The Kingdom of Scandinavia[/region]
 &raquo; [region]The Empire of Mongolia[/region]
+&raquo; [region]Australia and New Zealand[/region]
 ~ and [i]more![/i]
