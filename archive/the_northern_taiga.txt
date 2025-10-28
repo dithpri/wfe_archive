@@ -7,10 +7,10 @@ Welcome to the frozen north &#151; a land of mountains, pine forests, and proud 
 [hr]
 [b]&amp;#127956; Government[/b]
 [list]
-[]Regional Governor &#151; [color=#5d91a3]Head of State [/color]
-[]Envoy of the North &#151; [color=#5d91a3]Foreign Affairs [/color]
-[]Regional Council &#151; [color=#5d91a3]All member nations [/color]
+[]Regional Governor &#151; [color=#5d91a3]Head of State [/color] &#151; [nation]Gorthias[/nation]
+[]Envoy of the North &#151; [color=#5d91a3]Foreign Affairs [/color] &#151;
+[]Regional Council &#151; [color=#5d91a3]All member nations [/color] 
 
 [*]Embassies: [b]Open[/b] | Map Claims: [b]Open[/b]
 
-[b]&amp;#128367; Founded:[/b] October 2025[/color]
+[b]&amp;#128367; Founded:[/b] [color=#5d91a3]October 2025[/color]
