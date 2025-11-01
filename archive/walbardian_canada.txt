@@ -1,7 +1,9 @@
 [b]Officially the Commonwealth of Canada![/b]
 
+The scenario:
+
 Walbard inherited UK, Canada, Australia in 2017.
-Canada has decided to remain &amp;#64; the UK Commonwealth.
+Canada has decided to join [region]The Empire of Walbard[/region].
 
 King of Canada: [nation]King Carlisle I[/nation]
 Queen of Canada: [nation]Queen Feline I[/nation]

@@ -1,4 +1,4 @@
-[sub][b][i][color=#282828][pre]welcome to the[/pre][/color][/i][/b][/sub]
+[sub][b][i][color=#282828][font=courier new]welcome to the[/font][/color][/i][/b][/sub]
 
 [b][color=crimson]N[/color][color=royalblue]EW[/color][/b]
 [b][color=crimson]W[/color][color=royalblue]ORLD[/color][/b]
@@ -8,16 +8,15 @@
 
 [hr]   [b][url=https://www.nationstates.net/page=dispatch/id=1408677][colour=royalblue][i]our[/i] CONSTITUTION[/colour][/url][/b] [color=crimson][b]|[/b][/color] [b][url=https://www.nationstates.net/page=dispatch/id=1671470][colour=royalblue][i]the[/i] WELCOME GUIDE[/colour][/url][/b] [color=crimson][b]|[/b][/color] [b][url=https://www.nationstates.net/page=dispatch/id=1810782][colour=crimson][i]our[/i] ROLEPLAY[/colour][/url][/b] [color=crimson][b]|[/b][/color] [b][url=https://www.nationstates.net/page=dispatch/id=1228116][color=royalblue]ATLAS [i]of the[/i] EARTH[/color][/url][/b] [color=crimson][b]|[/b][/color] [b][url=https://www.nationstates.net/page=dispatch/id=2529951][color=royalblue]ATLAS [i]of the[/i] GALAXY[/color][/url][/b] [color=crimson][b]|[/b][/color] [b][url=https://discord.gg/kMCJej2ze5][color=#5865F2][i]our[/i] DISCORD[/color][/url][/b]   [hr]
 
-[b] [color=royalblue]ROLEPLAY[/color][/b] 
-[list][*] Check the Map Factbooks and Telegram [nation]Unified Empiricus[/nation] for a claim on the Earth Map.
-[*] [color=royalblue][b][url=https://compupro.github.io/rp-time-calculator/?daysperyear=35&amp;lastdatechange=1748736000000&amp;lastdateepoch=2524608000000&amp;fixedyears=false]Exact Roleplay Date (2053)[/url][/b][/color]
+[color=royalblue][font=constantia][b][u]ROLEPLAY[/u][/b][/font][/color]
+[list][*] [font=courier new]Check the Map Factbooks and contact [nation]Unified Empiricus[/nation] or [nation]Lysywm[/nation] via Telegram or Discord to join the Roleplay.[/font]
+[*] [font=courier new][color=royalblue][url=https://compupro.github.io/rp-time-calculator/?daysperyear=35&amp;lastdatechange=1748736000000&amp;lastdateepoch=2524608000000&amp;fixedyears=false] [b]&amp;gt; Roleplay Date Calculator &amp;lt;[/b] | Appx. May 2054[/url][/color][/font]
 [/list]
 
 
 
-[b][color=royalblue]REGIONAL BULLETINS[/color][/b]
+[b][color=royalblue][font=constantia][u]REGIONAL BULLETINS[/u][/font][/color][/b]
 
-
-
-
-[hr]
+[list][font=courier new]
+[*] [nation]Unified Empiricus[/nation] (UE) has assumed the role of [u]Governor-General[/u] of the New World Union, and [nation]Lysywm[/nation] (Saryn) has assumed the role of [u]Secretary of State for Roleplay[/u]
+[/font][/list]

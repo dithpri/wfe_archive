@@ -2,14 +2,14 @@
 
 [color=midnightblue][b]Hi, I&#39;m [nation=noflag]Lennart[/nation][/b][/color]
 
-[*][b]Main Nations:[/b]
+[b] [font=nationstates]&amp;#59426;[/font] Main Nations:[/b]
 
 [nation]Avalon[/nation] in [region]The North Pacific[/region]
 [nation]Alexandria[/nation] in [region]Union of Christian Nations[/region]
 [nation]Anglia[/nation] in [region]Christians[/region]
 [nation]Wels[/nation], the glitched Nation, in [region]the Plains of Perdition[/region]
 
-[*][b]Main Regions:[/b]
+[b][font=nationstates]&amp;#59395;[/font] Main Regions:[/b]
 
 [region]Lennart[/region]
 [region]Isle of Avalon[/region]
