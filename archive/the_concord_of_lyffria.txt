@@ -1,10 +1,10 @@
-Region for world building.
+[B][Color=red]Region for world building.[/color][/b]
 
-Nations involved in the world building of [b][i]Lyff[/i][/b]:
+[B][Color=red]Nations involved in the world building of [i]Lyff[/i][/b]:[/color]
 [nation]Azyria[/nation]
 [nation]Czyia[/nation]
 [nation]Vynskia[/nation]
 [nation]The Forish[/nation]
 [nation]Yamupero[/nation]
-the one and only... [nation]Lyff[/nation]
-...and more!
+[color=red][b]the one and only...[/color][/b] [nation]Lyff[/nation]
+[color=red][b]...and more![/color][/b]
