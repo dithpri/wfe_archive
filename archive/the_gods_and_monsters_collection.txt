@@ -1,0 +1,7 @@
+Introduced: 26 May 2015
+Covert: 1
+Classified: 1
+Restricted: 2
+Mil-spec: 2
+Industrial: 4
+Consumer: 4
