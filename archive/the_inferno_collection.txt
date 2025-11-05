@@ -1,0 +1,4 @@
+Introduced: 14 August 2013
+Mil-spec: 2
+Industrial: 2
+Consumer: 2

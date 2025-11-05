@@ -1,0 +1,4 @@
+Introduced: 14 August 2013
+Restricted: 3
+Mil-spec: 3
+Industrial: 3
