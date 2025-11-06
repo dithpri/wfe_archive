@@ -1,1 +1,3 @@
-Embassy: [region=Peoples Republic of BPLUS]
+Embassies:
+-[region=Peoples Republic of BPLUS]
+-[region=USLNB Space Station] 
