@@ -1,0 +1,6 @@
+Introduced: 1 July 2014
+Classified: 1
+Restricted: 2
+Mil-spec: 3
+Industrial: 4
+Consumer: 5

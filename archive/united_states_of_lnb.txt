@@ -1,3 +1,7 @@
 Embassies:
 -[region=Peoples Republic of BPLUS]
+Space Missions:
 -[region=USLNB Space Station] 
+Stadiums:
+-[region=Blue Team Stadium]
+-[region=Red Team Stadium]
