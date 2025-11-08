@@ -5,4 +5,4 @@
 [hr][color=#1927DF][b]World Assembly: 
 GA: Against
 SC: For[/color]
-[Hr][I][color=#1927DF]As of right now, the[/color][color=green] [u]endorsement limit is 0[/color][/u][color=#1927DF], until the delegate reaches a decent amount, then it shall be raised.[/b][/color][/i][/font]
+[Hr][I][color=#1927DF]As of right now, the[/color][color=green] [u]endorsement limit is 1[/color][/u][color=#1927DF], until the delegate reaches a decent amount, then it shall be raised.[/b][/color][/i][/font]

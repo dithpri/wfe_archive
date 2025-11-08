@@ -18,7 +18,7 @@
 [i][b]Domestic Affairs Minister:[/b][/i] [nation]Dankest Kekistan[/nation] (Elect: Dec. 21st)
 [i][b]Communications Minister:[/b][/i] [nation]New Optus[/nation] (Elect: Dec. 27th)
 
-[i][b]First Justice:[/b][/i] N/A (Vacant)
+[i][b]First Justice:[/b][/i] [nation]Holy Barbarian Empire[/nation]
 [i][b]Second Justice:[/b][/i] N/A (Vacant)
 [i][b]Third Justice:[/b][/i] N/A (Vacant)
 
@@ -26,8 +26,8 @@
 
 [b]| DOCTRINE |[/b]
 
-[i][b]Border:[/b][/i] [color=green]Open[/color]
-[i][b]Foreign Policy:[/b][/i] [color=green]Cordial[/color]
+[i][b]Border:[/b][/i] [color=red]Closed[/color]
+[i][b]Embassy Policy:[/b][/i] [color=green]Cordial[/color]
 
 
 
