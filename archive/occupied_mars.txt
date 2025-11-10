@@ -2,7 +2,10 @@ Occupied Mars is a Dictator role play region, we are in long unending (so we can
 
 Allies:
 [region]Oneid[/region] (100,000 soldiers.)
-[nation]Scotlinia[/nation](2000 soldiers)
+[nation]Scotlinia[/nation](12000 soldiers)
 [nation]Great karken[/nation](1000 soldiers)
 [nation]Federation of Eradia[/nation](2300 soldiers.)
 [nation]Ozarknational forest[/nation](1000 soldiers.)
+
+Allies of the resistance:
+[nation]Eustia[/nation](supplying weapons and intelligence)

@@ -1,14 +1,10 @@
 Embassies:                 
--[region=Peoples Republic of BPLUS]  |  [NEW] Members:
-Future Embassies:                                   |-USSTL
--UKLH                                                        |-FLLT
-Space Missions:                                       |  [NEW] Space Members:
--[region=USLNB Space Station]           |-ELIL
-Future Space Missions:                          |  [NEW] Teams:
--PRB+SAT                                                |-GREEN 1
-Stadiums:                                                |-YELLOW 2
+-[region=Peoples Republic of BPLUS] 
+Space Missions:                                       
+-[region=USLNB Space Station]            
+-[Region=PRBPLUS SPACE STATION]
+Stadiums:                                                
 -[region=Blue Team Stadium]
 -[region=Red Team Stadium]
-Future Stadiums:
--GTS
--YTS
+-[Region=Green Team Stadium]
+-[Region=Yellow Team Stadium]

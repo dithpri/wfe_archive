@@ -7,7 +7,8 @@
 [region]Nova Slavia[/region]
 [region]Slavska[/region]
 [region]Slavania[/region]
-[region]Federation of Democratic Slavian States[/region][hr]
+[region]Federation of Democratic Slavian States[/region]
+[region]Imperium Slavicum[/region][hr]
 
 [color=blue][u]Regions protected by the SPA:[/u][/color]
 [region]Slavia[/region]
