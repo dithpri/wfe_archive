@@ -11,6 +11,6 @@ Region object: Didgeridoo.
 
 Region language: Pugneesian.
 
-Region enemy: Chicken overlords, The Leftist Assembly.
+Region enemy: Chicken overlords, Concord.
 
-Region Ally: Concord.
+Region Faith: Pugism.

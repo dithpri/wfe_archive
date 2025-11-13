@@ -8,7 +8,7 @@
 [i]Prime Minister[/i]: Vacant
 [i]Foreign Affairs Minister[/i]: [nation]Richmond Union[/nation]
 [i]Defense Minister[/i]:[nation]Northerns[/nation]
-[i]WA Delegate[/i]: Vacant
+[i]WA Delegate[/i]: [nation]Richmond Union[/nation]
 
 [hr]
 
@@ -26,7 +26,7 @@ The Commonwealth of the Northlands is a welcoming region built on unity, diploma
 [hr]
 
 [b][color=#4682b4]&amp;#128330;&amp;#65039; Join Us[/color][/b]
-Move your nation to The Commonwealth of the Northlands, endorse the Delegate Designate: [nation]Richmond Union[/nation], and join our discussion on the Regional Message Board.
+Move your nation to The Commonwealth of the Northlands, endorse our Delegate: [nation]Richmond Union[/nation], and join our discussion on the Regional Message Board.
 
 [hr]
 
