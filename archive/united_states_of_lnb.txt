@@ -2,9 +2,3 @@ Embassies:
 -[region=Peoples Republic of BPLUS] 
 Space Missions:                                       
 -[region=USLNB Space Station]            
--[Region=PRBPLUS SPACE STATION]
-Stadiums:                                                
--[region=Blue Team Stadium]
--[region=Red Team Stadium]
--[Region=Green Team Stadium]
--[Region=Yellow Team Stadium]

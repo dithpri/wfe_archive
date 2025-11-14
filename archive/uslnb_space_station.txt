@@ -3,8 +3,3 @@ On Earth Regional Space CO-OPs:
 - [region=Peoples Republic of BPLUS]
 The Rival Space Mission:
 - [Region=PRBPLUS SPACE STATION]
-On Earth Arenas For R/D:
-- [region=Blue Team Stadium]
-- [region=Red Team Stadium]
-- [Region=Green Team Stadium]
-- [Region=Yellow Team Stadium]
