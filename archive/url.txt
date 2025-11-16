@@ -1,1 +1,5 @@
-a
+[hr]
+A uniform resource locator (URL), colloquially known as web address, is a reference to a resource on the World Wide Web. A URL specifies the location of a resource on a computer network and a mechanism for retrieving it. 
+
+ A URL is most commonly used to reference a web page (HTTP/HTTPS), but is also used for many other applications.
+[hr]
