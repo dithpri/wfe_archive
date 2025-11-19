@@ -1,8 +1,8 @@
-[ROL Manpower][1,250,000]
+[ROL Manpower][1,500,000]
 [ROL Total Ground Strangth]
-- 120,000 ROL Combat Soldiers
-- 100,000 ROL Police Officers
-- 1,030,000 ROL Supporting Soldiers
+- 150,000 ROL Combat Soldiers
+- 120,000 ROL Police Officers
+- 1,230,000 ROL Supporting Soldiers
 - 500 TCRG-MRK2s TCRG
 - 2,000 TCRG-IFV2s TCRG
 - 3,000 TCRG-IFV1s TCRG

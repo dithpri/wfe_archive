@@ -4,8 +4,8 @@ Allies:
 [region]Oneid[/region] (100,000 soldiers.)
 [nation]Scotlinia[/nation](12000 soldiers)
 [nation]Great karken[/nation](1000 soldiers)
-[nation]Federation of Eradia[/nation](2300 soldiers.)
 [nation]Ozarknational forest[/nation](1000 soldiers.)
 
 Allies of the resistance:
 [nation]Eustia[/nation](supplying weapons and intelligence)
+[nation]Federation of Eradia[/nation](weapons)
