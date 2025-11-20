@@ -1,21 +1,26 @@
-[ROL Manpower][1,500,000]
-[ROL Total Ground Strangth]
-- 150,000 ROL Combat Soldiers
-- 120,000 ROL Police Officers
-- 1,230,000 ROL Supporting Soldiers
-- 500 TCRG-MRK2s TCRG
-- 2,000 TCRG-IFV2s TCRG
-- 3,000 TCRG-IFV1s TCRG
-- 500 LT-1s TCRG
-- 10,000 RAM-120s TCRG
-- 750 BMP-1s Eastern Layaven &amp; The Southern Alliance
-- 750 BMP-2s Western Layaven
-- 5,000 105mm Artilery The Southern Alliance
-- 10,000 NAV-1s TNSU
-- 500 T-54s TNSU
-- 35,000 STT-1s TNSU
-- 15,000 CTC-1s TNSU
+[b][ROL Active Deployments:]
+[/b][b]TCRG&#39;s 5th War on Crime[/b]
+[i]- 5,000 ROL Combat Soldiers
+- 20,000 ROL Police Officers
+- 75,000 ROL Supporting Soldiers
+- 250 NAV-1s
+- 1,000 STT-1s[/i]
 
-[ROL Total Air Strangth]
-- 25 Harrier Jets Eastern Layaven
-- 75 CL-350s Western Layaven
+[b]Layaven Warlords Alliance &amp; Northern Southern Alliance Peace Keeping Mission[/b]
+[i]- 50,000 ROL Combat Soldiers
+- 10,000 ROL Police Officers
+- 250,000 ROL Supporting Soldiers
+- 500 BMP-1s
+- 500 BMP-2s
+- 2,500 TCRG-IFV1s
+- 2,500 NAV-1s
+- 250 LT-1s
+- 1,000 CTC-1s
+- 5,000 STT-1s
+- 25 Harrier Jets[/i]
+
+[b]TCRG Backed Eastern Layaven Peacekeeping Mission[/b]
+[i]- 10,000 ROL Combat Soldiers
+- 5,000 ROL Police Officers
+- 15,000 ROL Supporting Soldiers
+- 250 BMP-1s[/i]
