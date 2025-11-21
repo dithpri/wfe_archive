@@ -1,26 +1,31 @@
-[b][ROL Active Deployments:]
-[/b][b]TCRG&#39;s 5th War on Crime[/b]
-[i]- 5,000 ROL Combat Soldiers
-- 20,000 ROL Police Officers
-- 75,000 ROL Supporting Soldiers
-- 250 NAV-1s
-- 1,000 STT-1s[/i]
+[b]Layave Tribunal Memebrs:
+[/b][nation]TCRG[/nation] - [b][i]Head Tribunal[/i][/b]
+[nation]Eastern Layaven[/nation]
+[nation]Western Layaven[/nation]
 
-[b]Layaven Warlords Alliance &amp; Northern Southern Alliance Peace Keeping Mission[/b]
-[i]- 50,000 ROL Combat Soldiers
-- 10,000 ROL Police Officers
-- 250,000 ROL Supporting Soldiers
-- 500 BMP-1s
-- 500 BMP-2s
-- 2,500 TCRG-IFV1s
-- 2,500 NAV-1s
-- 250 LT-1s
-- 1,000 CTC-1s
-- 5,000 STT-1s
-- 25 Harrier Jets[/i]
+[b]Layave Regional Currencys:[/b]
+ [b][i]ULC:[/i][/b]
+[nation]TCRG[/nation] - [b][i]ULC[/i][/b]
+[nation]Western Layaven[/nation] - [b][i]ULC[/i][/b]
+ [b][i]CRD:[/i][/b]
+[nation]TCRG backed Eastern Layaven[/nation] - [b][i]CRD[/i][/b]
+[nation]The Northern Socialist Union[/nation] - [b][i]CRD[/i][/b]
+[nation]The Southern Alliance[/nation] - [b][i]CRD[/i][/b]
+ [b][i]Imperial Layaven Doller:[/i][/b]
+[nation]Central Layaven[/nation] - [b][i]ILD[/i][/b]
+[nation]Eastern Layaven[/nation] -  [b][i]ILD[/i][/b]
 
-[b]TCRG Backed Eastern Layaven Peacekeeping Mission[/b]
-[i]- 10,000 ROL Combat Soldiers
-- 5,000 ROL Police Officers
-- 15,000 ROL Supporting Soldiers
-- 250 BMP-1s[/i]
+[b]Political Blocs:[/b]
+[b][i]The Central Party:[/i][/b]
+[nation]TCRG[/nation] [b] - [i]Party Leader[/i][/b]
+[nation]TCRG backed Eastern Layaven[/nation]
+[nation]The Northern Socialist Union[/nation]
+[b][i]The Oppisition Party:[/i][/b]
+[nation]Eastern Layaven[/nation] - [b][i]Party Leader[/i][/b]
+[nation]Central Layaven[/nation]
+[nation]The Southern Alliance[/nation]
+[b][i]Non-Aligned:[/i][/b]
+[nation]Western Layaven[/nation]
+
+
+

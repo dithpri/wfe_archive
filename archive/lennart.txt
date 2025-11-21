@@ -5,7 +5,7 @@
 [b] [font=nationstates]&amp;#59426;[/font] Main Nations:[/b]
 
 [nation]Avalon[/nation] in [region]The North Pacific[/region]
-[nation]Alexandria[/nation] in [region]Free City of Alexandria[/region]
+[nation]Alexandria[/nation] in [region] Gnosticism[/region]
 [nation]Anglia[/nation] in [region]Christians[/region]
 [nation]Wels[/nation], the glitched Nation, in [region]the Plains of Perdition[/region]
 
