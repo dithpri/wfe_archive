@@ -1,11 +1,1 @@
-[Color=blue]This region acts as a central ground for Eisbutch&#39;s embassies, this also holds trophies and links to the other departments of eisbutch regions. [url=https://discord.gg/j3k8TJqNNJ]AFOE main base[/url] is a private military that serves under the UVOE[/color]
-
-[Color=red]Motherland: [nation]United villages of eisbutch[/nation] [/color]
-
-[table][tr][td]department[/td][td]nation in department[/td][/tr]
-[tr][td][region]ARMED FORCES OF EISBUTCH[/region][/td][td][nation]The AFOE 100th regiment[/nation][/td][/tr]
-[tr][td][region]ISDE[/region][/td][td][nation]The hand of the 0-2[/nation][/td][/tr]
-[tr][td][region]Sparkalia[/region][/td][td][nation]United villages of eisbutch[/nation][/td][/tr]
-[tr][td][region]The Black Hawks[/region][/td][td][nation]Octobla[/nation][/td][/tr]
-[tr][td][region]Ijaka[/region][/td][td][nation]Furry pirates[/nation][/td][/tr]
-[tr][td][region]The Brotherhood of Malice[/region][/td][td][nation]Prazemlja[/nation][/td][/tr][/table]
+Under construction 

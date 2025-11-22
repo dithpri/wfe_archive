@@ -1,6 +1,6 @@
 Colonial Region of the [region]Grand and Holy Empire of Ecclesia[/region]  Under the [nation]Grand and Holy Empire of Ecclesia[/nation]
 
-1 Rogue Nation [nation]Anarchianopolis[/nation]
+1 Grand Duchy [nation]Anarchianopolis[/nation]
 
 1 Protectorate [nation]Civitas Ecclesiastica[/nation]
 
@@ -9,3 +9,5 @@ Colonial Region of the [region]Grand and Holy Empire of Ecclesia[/region]  Under
 1 Metropolitanate [nation]Metropolinate of Regio Colonia Ecclesia[/nation]
 
 1 Jingoistic State [nation]Ecclesian Iaponia[/nation]
+
+1 Rogue Nation [nation]Urbis Anarchia[/nation]
