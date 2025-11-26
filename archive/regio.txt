@@ -28,7 +28,8 @@
 [region]Kangnan Islands[/region]
 [region]Curling Like Cats[/region]
 [region]The Japanese World[/region]
-[region]Quava[/region][/spoiler][/list]
+[region]Quava[/region]
+[region]True Peace[/region][/spoiler][/list]
 
 [b][color=gray]*[region]The Republic of Atherland[/region] has been returned to [nation]Shedret[/nation]
 *[region]Adonai Followers[/region] has been returned to [nation]Nishima-ren[/nation]
