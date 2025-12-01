@@ -1,5 +1,6 @@
 [table][tr][td][color=Seagreen][b]Welcome to the Hills[/b][/color] [color=Slateblue][b]of Terrae![/b][/color][/td][/tr]
-[td][i]The Sun Shines Upon The Hill![/i][/td][td][font=Georgia]Founded 11/11/2025[/font][/td][/table]
+[td][i]The Sun Shines Upon The Hill!
+Lux Super Montem Surgit![/i][/td][td][font=Georgia]Founded 11/11/2025[/font][/td][/table]
 [table][tr][td][b]Regional Happenings[/b][/tr][/td]
 [td]&#149; We overcame a raid!
 
@@ -12,4 +13,6 @@
 [table][tr][td][b][i]Additional Links[/i][/b][/tr][/td]
 [td][url=https://forum.nationstates.net/viewtopic.php?f=12&amp;t=576447&amp;start=25][color=mediumpurple][b]Gameplay Thread[/b][/color][/url]
 
-[url=region=military_and_independence_pact][color=#2da653][b]Military and Independence Pact[/b][/color][/url][/td][/table]
+[url=region=military_and_independence_pact][color=#2da653][b]Military and Independence Pact[/b][/color][/url]
+
+[url=region=aocn][color=Dodgerblue][b]Alliance of Centered Nations (AoCN)[/b][/color][/url][/td][/table]
