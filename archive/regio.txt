@@ -32,7 +32,8 @@
 [region]True Peace[/region]
 [region]Dorwichia[/region]
 [region]Adonai Followers[/region]
-[region]Faraway Lands[/region][/spoiler][/list]
+[region]Faraway Lands[/region]
+[region]Listria[/region][/spoiler][/list]
 
 [b][color=gray]*[region]The Republic of Atherland[/region] has been returned to [nation]Shedret[/nation]
 *[region]Free Group No Rules[/region] has been returned to [nation]Newer Czechoslovakia[/nation][/color][/b]
