@@ -1,3 +1,5 @@
-[color=red][b]Crown Dependency of [region]Empire of Britain[/region][/b][/color][hr]
+[color=red][b]Crown Dependency of [region]Empire of Britain[/region][/b][/color]
 
-This region is ruled by [nation]British CreepAles[/nation]
+[color=blue][b]EoB official Puppet Storage Region and Jump Points[/b][/color][hr]
+
+[b]This region is ruled by [nation]British CreepAles[/nation][/b]

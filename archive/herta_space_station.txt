@@ -8,8 +8,7 @@
 
 For card inquiries, telegram [nation]Kractero[/nation], otherwise it may never be read at all.
 
-Embassies only accepted from card collector or thematically adjacent regions, on a case-by-case basis.
+Embassies on a case-by-case basis.
 
-[hr]
-
-Primary Satellites: [region]Koprulu Sector[/region], [region]Soul Cairn[/region], [region]Interastral Peace Corporation[/region]
+Primary Satellites: [region]Simulated Universe[/region], [region]Divergent Universe[/region], [region]Koprulu Sector[/region], [region]Soul Cairn[/region]
+Additional Satellite Hub: [region]Interastral Peace Corporation[/region]

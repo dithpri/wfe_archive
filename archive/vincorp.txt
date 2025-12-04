@@ -1,11 +1,1 @@
-[color=#52595D][b]WELCOME TO VINCORP![/b][/color]
-[hr]
-[color=#52595D][b]Established:[/b] 10 October, 5 AEF[/color]
-[color=#52595D][b]Headquarters:[/b] 110 Harbor Avenue, Entioch, [nation=noflag]Histarctica[/nation][/color]
-[color=#52595D][b]Allegiance:[/b] [nation=longname]Histarctica[/nation] &amp; [nation]The Imperial Sanctuary[/nation][/color]
-[hr]
-[color=#52595D][b]Special Business and Trade Partners:[/b]
-[region]International Petroleum Cartel[/region]
-[region]Territories of the Asmor Federation[/region]
-[region]The Federation of Utopias Unitum[/region]
-[region]The Three Isles[/region][/color]
+WIP
