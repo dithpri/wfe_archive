@@ -7,10 +7,10 @@ I, [nation=long+noflag]Agnolistan[/nation], declare myself [color=#b35624][b]Emp
 
 Alongside me, [nation=noflag+long]Sol and Centauri[/nation] shall serve as [color=#27a182][b]The Grand Consul[/b][/color], guiding our government.
 
-By imperial will, [b][color=#3d1d75]Alpha Vexillum[/color][/b] is henceforth appointed as [b]Crown Prince of Domana[/b], heir to the throne and guardian of future sovereignty.
+By imperial will, [nation=noflag+long]Alpha Vexillum[/nation] is henceforth appointed as [b][color=#3d1d75]Crown Prince of Domana[/color][/b], heir to the throne and guardian of future sovereignty.
 
 By imperial decree, [b]martial law[/b] is now in effect&#151;political activity is suspended and civil liberties curtailed to preserve our lands and legacy.
 
 Rise united, proud subjects!  
 [color=darkred][b]HAIL THE CROWN PRINCE! HAIL THE CONSUL! HAIL THE EMPEROR!
-PRO DOMANA ITER IN![/b][/color]
+DOMANA ITER IN![/b][/color]

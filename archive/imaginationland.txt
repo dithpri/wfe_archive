@@ -1,6 +1,6 @@
-[region]Imaginationland[/region] is a land of imagination that was discovered and founded by brave pioneers seeking to explore the frontiers of the mind.
+[region]Imaginationland[/region] is a beautiful and strange land of imagination, located somewhere between the Hippocampus sea and the Amygdala mountains. [region]Imaginationland[/region] was discovered and founded by brave pioneers seeking to explore the frontiers of the mind. 
 
-[nation=long]Shelvania[/nation] was founded by these early pioneers and later became the founding member of the region now known as imaginationland. 
+[nation=long]Shelvania[/nation] was founded by these early pioneers and later became the founding member of the region now known as [region]imaginationland[/region]. 
 
 [table][tr][td][b]Regional officers[/b][/td][td][b]Office Held[/b][/td][/tr]
 [tr][td][nation=long]Shelvania[/nation][/td][td][b][color=Blue]Governor[/color][/b][/td][/tr]

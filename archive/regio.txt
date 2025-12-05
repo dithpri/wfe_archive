@@ -1,39 +1,9 @@
-[b][color=orange]Welcome![/color]
+[table][tr][td][color=red]Welcome to Regio![/color]
 
-[color=red]Stay and grow under the pillars of Hercules![/color]
+[color=yellow]Stay and grow strong![/color][/td][td][font=Courier][color=blue]Feel free to speak in English and Spanish[/color][/font]
 
-[color=blue]Feel free to speak in English and Spanish![/color][/b]
-
-[list][*][i]All embassy requests are accepted[/i]
-
-[*][u]We are looking for a WA Delegate[/u]
-
-[*]Current flag: [b]Jamaica[/b]
-
-[*]N-Day[sup]13[/sup]: [url=https://www.nationstates.net/page=faction/fid=129][b]Castle Bravo[/b][/url]
-
-[*][spoiler=Colonies][region]The Oceanic Pacific[/region]
-[region]Konoha[/region]
-[region]International American Freedom[/region]
-[region]The Silence Ones[/region]
-[region]Three Easts[/region]
-[region]Birblandic Ocean[/region]
-[region]Seletar Serangoon[/region]
-[region]Lisboa Sanctum[/region]
-[region]African Confederation[/region]
-[region]Land of Dreams[/region]
-[region]Elgin[/region]
-[region]Post Astallas[/region]
-[region]Newland Union[/region]
-[region]Kangnan Islands[/region]
-[region]Curling Like Cats[/region]
-[region]The Japanese World[/region]
-[region]Quava[/region]
-[region]True Peace[/region]
-[region]Dorwichia[/region]
-[region]Adonai Followers[/region]
-[region]Faraway Lands[/region]
-[region]Listria[/region][/spoiler][/list]
-
-[b][color=gray]*[region]The Republic of Atherland[/region] has been returned to [nation]Shedret[/nation]
-*[region]Free Group No Rules[/region] has been returned to [nation]Newer Czechoslovakia[/nation][/color][/b]
+[font=Courier][color=white]All embassy requests will be accepted[/color][/font][/td][/tr]
+[tr][td][list][*]Current flag: [b]Jamaica[/b][/list][/td][td][list][*][u]We are looking for a WA Delegate[/u][/list][/td][/tr]
+[tr][td][list][*]Newest colony: [b][region]Listria[/region][/b][/list][/td][td][list][*][region]Free Group No Rules[/region] has been returned to [nation]Newer Czechoslovakia[/nation][/list][/td][/tr]
+[tr][td][list][*]N-Day[sup]13[/sup]: [url=https://www.nationstates.net/page=faction/fid=129][b]Castle Bravo[/b][/url][/list][/td][td][list][*][i]Did you know that Our Lady of Meritxell is the patron saint of Andorra?[/i][/list][/td][/tr]
+[tr][td][list][*]Raison d&#39;&ecirc;tre:[spoiler=[color=purple][b]The Pillars of Hercules[/b][/color]][color=gray][b]Said to be the furthest limits reached by Hercules in antiquity, the pillars were first challenged by Spanish explorers, who discovered a new continent, and then by British thinkers, who saw them as an inspiration for the development of science.[/b][/color][/spoiler][/list][/td][td][list][*][quote=ruzheranyl;60890152]Finally, I deleted a message just to make it look like a sandwich, look.[/quote][/list][/td][/tr][/table]
