@@ -8,14 +8,14 @@ for all who claim loyalty to the Empire.[/color]
 [b][color=#4E6372]Leadership[/color]:[/b]
 [list]
 [b]King:[/b] [nation]British CreepAles[/nation]  
-[b]Royal Governor:[/b] None
-[b]Delegate:[/b] None
+[b]Royal Governor:[/b] [nation]British Westminster[/nation]
+[b]Delegate:[/b] [nation]British Westminster[/nation]
 
 [i][color=#A0B4C8]The region is administered by Royal Governor.[/color][/i]
 [/list]
 
 [b][font=georgia][color=#2B5C78]
-Join the World Assembly and endorse Delegate to strengthen our frontier.
+Join the World Assembly and endorse Delegate [nation]British Westminster[/nation] to strengthen our frontier.
 [/color][/font][/b]
 
 [hr]
