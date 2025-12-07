@@ -1,2 +1,7 @@
-Hi
-[strike]&amp;#10240;&amp;#8206;&amp;#10240;&amp;#10240;&amp;#10240;&amp;#10240;&amp;#8206;&amp;#10240;&amp;#10240;&amp;#10240;&amp;#8206;&amp;#10240;&amp;#10240;&amp;#10240;&amp;#10240;&amp;#10240;&amp;#8206;&amp;#10240;&amp;#10240;&amp;#10240;&amp;#10240;&amp;#10240;&amp;#10240;&amp;#10240;&amp;#10240;&amp;#8206;&amp;#10240;&amp;#10240;&amp;#10240;&amp;#10240;&amp;#8206;&amp;#10240;&amp;#10240;&amp;#10240;&amp;#10240;&amp;#10240;&amp;#8206;&amp;#10240;&amp;#10240;&amp;#10240;&amp;#10240;&amp;#10240;&amp;#8206;&amp;#10240;&amp;#10240;[/strike]
+[background-block=0000AA][table][tr][td][b][i][font=georgia][color=#005EFF]W[/color][color=#005AFF]e[/color][color=#0057FF]l[/color][color=#0053FF]c[/color][color=#0050FF]o[/color][color=#004DFF]m[/color][color=#0049FF]e[/color] [color=#0043FF]t[/color][color=#003FFF]o[/color] [color=#0039FF]V[/color][color=#0035FF]a[/color][color=#0032FF]r[/color][color=#002EFF]l[/color][color=#002BFF]y[/color][color=#0028FF]o[/color][color=#0024FF]n[/color] [color=#001EFF]F[/color][color=#001AFF]e[/color][color=#0017FF]d[/color][color=#0014FF]e[/color][color=#0010FF]r[/color][color=#000DFF]a[/color][color=#000AFF]t[/color][color=#0006FF]e[/color][color=#0003FF]s[/color][/font][/i][/b][/td][/tr]
+[tr][td]Second row[/td][td]Next cell[/td][/tr]
+[tr][td]Third row[/td][td]Next cell[/td][/tr]
+[tr][td]Fourth row, which goes on at some length about nothing. It also has a line break in it. Here it comes. Ready? Okay!! Here it is!!
+See?[/td][td]Next cell[/td][/tr]
+[tr][td]Hovering over a row highlights it[/td][td]Not bad, eh?[/td][/tr]
+[/table][/background-block]
