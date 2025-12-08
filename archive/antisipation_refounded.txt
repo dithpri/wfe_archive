@@ -16,4 +16,4 @@ Endorsement cap: 2 (until further notice)
 
 [b]Voting recommendations:
 General Assembly: [color=green][i]For[/i][/color]
-Security Council: [color=green][i]For[/i][/color][/b]
+Security Council: [color=red][i]Against[/i][/color][/b]
