@@ -2,13 +2,17 @@
 [i]Founded 26th October 2023[/i]
 [Color=green]All residents should:[/color]
 1. Join the World Assembly here: https://www.nationstates.net/page=un
-2. Endorse our Delegate-elect, [nation]Nations of CANZUK[/nation]
+2. Endorse our Delegate-elect, [nation=long]Nations of CANZUK[/nation]
 3. Join our [url=https://discord.gg/dfj7qc7MDE]discord server[/url]
 
 [Hr]
-[u][b]The Cabinet[/b][/u]
-Delegate-Elect: [nation=long]Nations of CANZUK[/nation]
-Other positions TBD
+[u][b]The Cabinet-elect[/b][/u]
+[i]Prime Minister, &amp; WA Delegate: [nation]Nations of CANZUK[/nation]
+Deputy PM, &amp; Defence Secretary: [nation]North Kosia[/nation]
+Chancellor: [nation]Pontificale Civitas Vaticana[/nation]
+Foreign Secretary: [nation]Kolatis[/nation]
+Home Secretary: [nation]British West Germany[/nation]
+Justice Secretary: [nation]Equizur[/nation][/i]
 
 [Hr]
 [u][b]Regional News[/b][/u]
@@ -21,4 +25,4 @@ Other positions TBD
 [Color=green][b]World Assembly Vote Recommendations[/b]:[/color]
 
 GA: [color=blue][b]FOR[/b][/color]
-SC: [color=red][b]AGAINST[/b][/color] 
+SC: [color=blue][b]FOR[/b][/color] 
