@@ -1,5 +1,5 @@
-[color=#686A6C][b]WELCOME TO THE HEADQUARTERS OF VINCORP[/b][hr]
-[b]Headquarters:[/b] Coast Avenue 5, Entioch, [nation=noflag]Histarctica[/nation]
+[color=#686A6C][b]WELCOME TO VINCORP[/b]
+[b][i]~We bring Prosperity and Security to You![/i][/b][hr][b]Headquarters:[/b] Coast Avenue 5, Entioch, [nation=noflag]Histarctica[/nation]
 [b]Director:[/b] Gerhard Conner
 
 [b]Main Operations:[/b] 
@@ -7,7 +7,7 @@ Technology Development
 Security Services
 Shipping
 
-[hr][b][i]We bring Prosperity and Security to You![/i][/b]
+[hr]
 
 
 [/color]

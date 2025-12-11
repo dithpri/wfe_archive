@@ -1,28 +1,27 @@
-[Color=red][b]Welcome to the United Democratic Nations![/b][/color]
+[i][Color=red][b]Welcome to the United Democratic Nations![/b][/color][/i]
 [i]Founded 26th October 2023[/i]
 [Color=green]All residents should:[/color]
 1. Join the World Assembly here: https://www.nationstates.net/page=un
-2. Endorse our Delegate-elect, [nation=long]Nations of CANZUK[/nation]
+2. Endorse our WA Delegate, [nation]Nations of CANZUK[/nation]
 3. Join our [url=https://discord.gg/dfj7qc7MDE]discord server[/url]
 
-[Hr]
-[u][b]The Cabinet-elect[/b][/u]
-[i]Prime Minister, &amp; WA Delegate: [nation]Nations of CANZUK[/nation]
-Deputy PM, &amp; Defence Secretary: [nation]North Kosia[/nation]
-Chancellor: [nation]Pontificale Civitas Vaticana[/nation]
-Foreign Secretary: [nation]Kolatis[/nation]
-Home Secretary: [nation]British West Germany[/nation]
-Justice Secretary: [nation]Equizur[/nation][/i]
+[Hr][b][i]Prime Minister&#39;s Office[/i][/b]
+Prime Minister: [nation=long]Nations of CANZUK[/nation]
+Deputy Prime Minister: [nation=long]North Kosia[/nation]
+Advisor to the PM: [nation=long]Pontificale Civitas Vaticana[/nation]
 
-[Hr]
-[u][b]Regional News[/b][/u]
-[nation]Nations of CANZUK[/nation] secured the popular vote with a 72.7% share. Please direct endorsements to them so they may be inaugurated formally.
+[Hr][i][b]Regional News[/b][/i]
+[nation]Nations of CANZUK[/nation] has now been inaugurated.
 
-[Hr]
-[b]Please read our embassy policy before sending embassy requests![/b]
+[Hr][i][b]Read our embassy policy, pinned below, before requesting embassies.[/b][/i]
+If unsure, consult the Secretary of State for Foreign Affairs.
 
-[Hr]
-[Color=green][b]World Assembly Vote Recommendations[/b]:[/color]
+[Hr][b][i]Quote(s) of the Week[/i][/b]
 
-GA: [color=blue][b]FOR[/b][/color]
-SC: [color=blue][b]FOR[/b][/color] 
+[quote=north_kosia;60939634]&#147;I&#146;m not a warlord guys&#148; - me 2025[/quote]
+[quote=el_nuevo_mundo;60933622]I might have accidentally[/quote]
+
+[Hr][Color=green][b][i]World Assembly Vote Recommendations:[/b][/i][/color]
+
+GA: [color=red][b]AGAINST[/b][/color]
+SC: [color=blue][b]FOR[/b][/color]
