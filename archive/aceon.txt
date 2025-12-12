@@ -26,7 +26,7 @@
 
 [b]| DOCTRINE |[/b]
 
-[i][b]Border:[/b][/i] [color=green]Open[/color]
+[i][b]Border:[/b][/i] [color=red]Closed[/color]
 [i][b]Embassy Policy:[/b][/i] [color=green]Cordial[/color]
 
 
