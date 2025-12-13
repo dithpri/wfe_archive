@@ -1,4 +1,4 @@
-Puppet storage for [nation]ForFishing[/nation] Of the Best Pacific, [region]The North Pacific[/region]!
+Puppet storage for [nation]ForFishing[/nation] Of the Best Pacific, [b][region]The North Pacific[/region][/b]!
 
 other puppets that [nation]ForFishing[/nation] have
 
@@ -11,3 +11,5 @@ other puppets that [nation]ForFishing[/nation] have
 [nation]ForFishing A[/nation]
 
 Featured: 12/10/2025
+
+Pls don&#39;t use this to store your puppets.

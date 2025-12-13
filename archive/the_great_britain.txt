@@ -1,4 +1,5 @@
 [b]Backup region of [region]Empire of Britain[/region][/b]
 
 King: [nation]British CreepAles[/nation]
+Queen: [nation]CreepAles[/nation]
 Prime Minister: [nation]Great Britain and Southern Ireland[/nation]
