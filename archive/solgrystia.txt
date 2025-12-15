@@ -1,9 +1,1 @@
-Region: Solgrystia
-Capital: Holy Eira Patoningryst
-Motto: &#147;Per Fidem et Laborem Lux Aeternum.&quot;
-Religion: Radiant Doctrine of Eira Sola
-Currency: Eiran Peso (&amp;#8369;)
-Regional Animal: Sun Bear
-Government: Theocratic Administrative Zone
-Crime Rate: Negligible
-Notable Landmark: The Great Basilica of Radiant Labor
+FOREVER SOLGRYSTIA SHALL REIGN
