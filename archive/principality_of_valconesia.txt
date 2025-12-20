@@ -1,1 +1,10 @@
-[nation=long]Valconesia[/nation]
+[b][color=gold]Welcome to the Principality of Valconesia, first founded in 2014. [/color][/b]
+
+[hr]
+
+[b][color=red]The Monarchy:[/color][/b]
+[b]Grand Prince:[/b] HRM Richard I
+[b]Grand Princess-Consort:[/b] HRM Raven
+[b]Crown Prince:[/b] HRH Prince Richard
+
+[hr]

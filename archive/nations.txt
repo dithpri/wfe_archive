@@ -1,4 +1,4 @@
-[table=plain][tr][td]&amp;#9733;&amp;#9734;&amp;#9733;[/td][td][b]Fem[region=nations][/b][/td][td]&amp;#9733;&amp;#9734;&amp;#9733;[/td][td][b][region=Subnations][/b][/td][td]&amp;#9733;&amp;#9734;&amp;#9733;[/td][td][b][region=More Nations][/b][/td][td]&amp;#9733;&amp;#9734;&amp;#9733;[/td][/tr][/table]
+[table=plain][tr][td][color=8db8e5]&amp;#9733;[/color][color=e5a1c2]&amp;#9733;[/color][color=8db8e5]&amp;#9734;[/color][/td][td][b][color=e5a1c2]Fem[/color][url=region=nations][color=8db8e5][u]nations[/u][/color][/url][/b][/td][td][color=8db8e5]&amp;#9733;[/color][color=e5a1c2]&amp;#9733;[/color][color=8db8e5]&amp;#9734;[/color][/td][td][b][url=region=subnations][color=8db8e5][u]Sub[/u][/color][color=e5a1c2][u]nations[/u][/color][/url][/b][/td][td][color=8db8e5]&amp;#9733;[/color][color=e5a1c2]&amp;#9733;[/color][color=8db8e5]&amp;#9734;[/color][/td][td][b][url=region=more_nations][color=e5a1c2][u]More [/u][/color][color=8db8e5][u]Nations[/u][/color][/url][/b][/td][td][color=8db8e5]&amp;#9733;[/color][color=e5a1c2]&amp;#9733;[/color][color=8db8e5]&amp;#9734;[/color][/td][/tr][/table]
 
 [hr]
 
@@ -7,4 +7,4 @@ Other flags made/edited by me !!
 
 [hr]
 
-[sub]Region claimed by [region]RPS[/region]; owned by [nation]Quarana[/nation]![/sub]
+[sub]Region claimed by [region]RPS[/region]; owned by [url=nation=Quarana][color=teal][u]Quarana[/u][/color][/url][/sub]
