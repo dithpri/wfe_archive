@@ -2,7 +2,7 @@ Encountered a Chimore in the wild? That&#39;s [nation]East Chimore[/nation]/[nat
 
 [table][tr][td=3][i]Behold, East Chimore and the Cardinals of The True Direction, where they reside, and what their purpose abroad is[/i][/td][/tr]
 [tr][td][nation]East Chimore[/nation][/td][td][region]Lair of the Dragon[/region][/td][td]True East; The Silver Dragon, Regional Governor[/td][/tr]
-[tr][td][nation]West Chimore[/nation][/td][td][region]Chimore[/region][/td][td]Cardinal of Battle[/td][/tr]
+[tr][td][nation]West Chimore[/nation][/td][td][region]The East Pacific[/region][/td][td]Cardinal of Battle[/td][/tr]
 [tr][td][nation]South Chimore[/nation][/td][td][region]Purple Pony Club[/region][/td][td]Cardinal of Jockeys[/td][/tr]
 [tr][td][nation]North Chimore[/nation][/td][td][region]Chimore[/region][/td][td]Cardinal of Saints[/td][/tr]
 [tr][td][nation]Central Chimore[/nation][/td][td][region]Chimore[/region][/td][td]Cardinal of Blades and Sorcery[/td][/tr]
