@@ -1,5 +1,1 @@
-[table]
-[tr][td][b][color=navy]The New Prussian Reigon[/color][/b][/td][/tr]
-[tr][td]Created: 2023 09 30 as an Oracle Region[/td][/tr]
-[tr][td][color=red]this region is unlikely to accept other embassy offers[/color][/td][/tr]
-[/table]
+[color=004d33][b]The New Prussian Reigon[/b][/color]
