@@ -1,23 +1,16 @@
 [b]THE BELKAN GROUND FORCES[/b]
 [i]&quot;Honor, Stability, Cooperation.&quot;[/i]
 
-[b]Strength:[/b] Similar to the Libyan National Army  
-[b]Foreign Suppliers:[/b] None  
-[b]Military Age:[/b] 16  
-[b]Active Personnel:[/b] Depends on recruitment
+[b]Status:[/b] Integrated into [region]Military and Independence Pact[/region] &amp; Royal Foxf Military.
+[b]C-in-C:[/b] [nation]Dritenia[/nation]
+[b]Staff Chief:[/b] [nation]Bosniaville military representative[/nation]
+[b]Defense Marshal:[/b] [nation]Novo Sarbia[/nation]
+[b]HQ:[/b] Broombuska
 
-[b]Chief of the General Staff:[/b] [nation]Bosniaville military representative[/nation]
-[b]Minister &amp; Marshal of Defense:[/b] [nation]Novo Sarbia[/nation] 
-[b]Commander-in-Chief:[/b] [nation]Dritenia[/nation]
-[b]Headquarters:[/b] Broombuska
+[b]Age:[/b] 16
+[b]Founded:[/b] Nov 24 2025
+[b]Form:[/b] 2025
 
-[b]Founded:[/b] Nov 24 2025  
-[b]Region Established:[/b] Nov 29 2025  
-[b]Current Form:[/b] 2025
-
-[b]Branches:[/b]
-&#149; Belkan Ground Forces  
-&#149; Belkan Navy  
-&#149; Belkan Air Force
-
-[b]Alliances:[/b] [region]Military and Independence Pact[/region]
+[b]Branches:[/b] Ground &#149; Navy &#149; Air
+[b]Suppliers:[/b] None
+[b]Role:[/b] Sovereignty defense under Foxf-recognized authority.
