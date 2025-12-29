@@ -1,4 +1,4 @@
-[b]Welcome to [nation=long]Walbard[/nation] &amp;#78331;[/b] Founded 2025
+[b]Welcome to ||| [nation=long]Walbard[/nation] &amp;#78331;[/b]
 [i]&quot;[color=blue]Faith[/color], [color=red]Passion[/color], [color=blue]Excellence[/color], [color=red]Integrity[/color], [color=blue]Honour[/color], [color=red]Community[/color]&quot;[/i]
 
 [hr]
@@ -6,7 +6,6 @@
 [b]Imperial Household;[/b]
 &amp;#129409; [color=purple]King-Emperor[/color]: [nation]King Carlisle I[/nation] 
 &amp;#129409; [color=navy]Queen-Empress[/color]: [nation]Queen Feline I[/nation]
-&amp;#129409; [color=red]Crown Prince[/color]: Vacant
 &amp;#127968; [color=blue]Ruling House[/color]: [nation]House of Walbard[/nation]
 
 [hr]
@@ -16,9 +15,8 @@
 [hr]
 
 [b]Public Servants;[/b]
-&amp;#129409; Head of Gov: [nation]Eserenya[/nation] (Central Democratic Union)
-&amp;#129409; Head of Leg: [nation]The Cross Guild[/nation]
-&amp;#129409; Head of Jud: Vacant
+&amp;#129409; Head of Gov: [nation]Eserenya[/nation] (CDU)
+&amp;#129409; Head of Leg: [nation]The Cross Guild[/nation] (CDU)
 [hr]
 
 [b]Members are [color=darkred]encouraged to join[/color] the &amp;#127760; [url=www.nationstates.net/page=un]World Assembly[/url][/b]
@@ -30,3 +28,7 @@
 &amp;#12322;[url=https://www.nationstates.net/region=Walbardian_America]America[/url] &amp;#12322;[url=https://www.nationstates.net/region=Walbardian_Canada]Canada[/url] &amp;#12322;[url=https://www.nationstates.net/region=Walbardian_Australia]Australia[/url]
 &amp;#12322;[url=https://www.nationstates.net/region=Walbardian_Deutschland]Deutschland[/url] &amp;#12322;[url=https://www.nationstates.net/region=The_Empire_of_Mongolia]Mongolia[/url]
 ~ and [i]more![/i]
+
+[hr]
+
+[b]Nation of the Month:[/b] [nation]Maine and Massachusetts[/nation]
