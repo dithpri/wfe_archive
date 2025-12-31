@@ -11,7 +11,8 @@
 [b]King:[/b] Christian IX of [nation]Imperial Denmark[/nation]
 [b]Royal Family:[/b] House of [nation]Glucksburg[/nation]
 [b]Council President:[/b] Ditlev Gothard Monrad
-[b]Currency:[/b] Danish krone[/color][/font][/list]
+[b]Currency:[/b] Danish krone
+[b]Constituent Realms:[/b] [region]Kingdom of Greenland[/region], [region]The Faroe Islands[/region][/color][/font][/list]
 
 [hr]
 

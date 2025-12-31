@@ -1,10 +1,9 @@
 [b]Welcome to the Council of Ministers of [region]Liberty Democratic Alliance[/region]![/b]
 
-[b]The Twenty-Sixth Government:[/b]
-[b]Prime Minister[/b]: [nation=long]Jaroinon[/nation]
+[b]The Twenty-Seventh Government:[/b]
+[b]Prime Minister[/b]: [nation=long]Republic of Mesque[/nation]
+[b]Deputy Prime Minister/Minister of the Interior[/b]: [nation=long]Jaroinon[/nation]
 [b]Minister of Justice[/b]: [nation=long]The Union of Costa Rica[/nation]
-[b]Minister of the Interior[/b]: [nation=long]Anglonica[/nation]
 [b]Minister of Foreign Affairs[/b]: [nation=long]Communist Lukania[/nation]
-[b]Director of Recruitment[/b]: [nation=long]Rocaia[/nation]
 
 Ministers are asked to tag every member of the council, so that each nation receive a &quot;notice&quot;.

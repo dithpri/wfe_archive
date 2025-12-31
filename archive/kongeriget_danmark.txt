@@ -1,16 +1,1 @@
-[b][color=darkfire]Welcome to the Kingdom of Denmark[/b]
-[i]Velkommen til Kongeriget Danmark[/i][/color]
-
-[hr]
-
-[color=goldenrod]The [b]Kingdom of Denmark[/b] is a constitutional monarchy and sovereign state consisting of the country of Denmark in northern Europe and two autonomous constituent countries, the Faroe Islands in the North Atlantic and Greenland in North America.[/color]
-
-[hr]
-
-[color=darkfire][u][b]Government[/b][/u][/color]
-[list][*][color=goldenrod][b]King of Denmark:[/b] [nation]The Danish State[/nation]
-[*][b]WA Delegate:[/b][/color] [i]vacant[/i][/list]
-
-[hr]
-
-[b][color=darkfire]Constituent Realm of the [region]United Kingdom of Scandia[/region][/color][/b]
+Velkommen til Kongeriget Danmark.
