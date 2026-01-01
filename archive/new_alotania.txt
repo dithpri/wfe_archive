@@ -1,9 +1,3 @@
-[b]Operation [color=red]Relight[/color] - Minor 2025-12-16[/b]
+Oh no! There seems to have been a grave error in the calculations of the defenders, resulting in them marking [region]New Alotania[/region] as do-not-defend, rather than its embassy [region]Global Coalition for Humanity[/region]. Luckily, I happen to be a math nerd, and was able to correct their calculations. If you want to raid an actually problematic region, please move to [region]Global Coalition for Humanity[/region] and telegram me, I&#39;ll endorse you.
 
-The [color=#109AED]South Pacific Special Forces[/color] and her allies have targeted this region for the harboring and platforming of fascist and hateful ideologies. These have no place on NationStates, and we will crush them wherever they appear.
-
-[b]Coalition allies on this operation:[/b]
-[url=https://www.nationstates.net/region=europeia]The Europeian Republican Navy[/url]
-[url=https://www.nationstates.net/region=starlight]The Galactic Armada of Starlight[/url]
-[url=https://www.nationstates.net/region=the_south_pacific]The South Pacific Special Forces[/url]
-[url=https://www.nationstates.net/region=the_order_of_the_grey_wardens]The Order of the Grey Wardens[/url]
+[i][b]Surely the super late update time of New Alotania and the super early update time of Global Coalition for Humanity are just a coincidence?[/b][/i]
