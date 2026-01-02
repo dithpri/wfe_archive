@@ -1,1 +1,12 @@
-New Empire of Orthodox Christian nations.
+[u]Basileus[/u]
+[nation]Spyrid[/nation]
+
+[u]Archons[/u]
+[nation]Spyrid[/nation] - Praetor of the East, Cartographer
+[nation]Holy Varangia[/nation] - Praetor of Oceania, Historian
+
+[u]History[/u]
+
+[u]Principles[/u]
+
+[u]Good Order and Discipline[/u]
