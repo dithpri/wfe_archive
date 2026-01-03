@@ -1,8 +1,8 @@
-[colour=orange][_____________________]Schedule=Monday-Friday 7-4
-[______[/colour][colour=black]|-----------|[/colour][colour=orange]_______] 
-[______[/colour][colour=black]|-----------|[/colour][colour=orange]_______][/colour][colour=black]Saturday-Sunday Allday
+[colour=orange][______________________]Schedule=Monday-Friday 7-4
+[_______[/colour][colour=black][|-----------|][/colour][colour=orange]_____] 
+[_______[/colour][colour=black]&times;|----------|+[/colour][colour=orange]_____][/colour][colour=black]Saturday-Sunday Allday
 [|------------------------------|]
 [|------------------------------|]
-[/colour][colour=orange][______[/colour][colour=black]|-----------|[/colour][colour=orange]_______][/colour][colour=black]
-[/colour][colour=orange][______[/colour][colour=black]|-----------|[/colour][colour=orange]----------]
-[_____________________][/colour]
+[/colour][colour=orange][______[/colour][colour=black]+|-----------|&times;[/colour][colour=orange]_____][/colour][colour=black]
+[/colour][colour=orange][|_____[/colour][colour=black][|------------|][/colour][colour=orange]______]
+[______________________][/colour]

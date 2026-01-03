@@ -1,12 +1,20 @@
-[u]Basileus[/u]
+[u]Basileus Prosorinos[/u] (Temporary Sovereign)
 [nation]Spyrid[/nation]
+*permanent selection by the senate will occur upon having 5 regional members*
 
-[u]Archons[/u]
-[nation]Spyrid[/nation] - Praetor of the East, Cartographer
-[nation]Holy Varangia[/nation] - Praetor of Oceania, Historian
+[u]Kaisar Prosorinos[/u] (Temporary Heir Apparent)
+[nation]Holy Varangia[/nation]
 
-[u]History[/u]
+[u]Synkletos[/u] (Senate)
+vacant
 
-[u]Principles[/u]
+[u]Strategoi[/u] (Military Governors)
+[nation]Spyrid[/nation] - Protostrageos of the Southeast
+[nation]Holy Varangia[/nation] - Exarchos of Oceania
 
-[u]Good Order and Discipline[/u]
+[u]Other Roles[/u]
+Cursus Publicus (Historian and regional newspost)  - [nation]Holy Varangia[/nation]
+Kartographos- [nation]Spyrid[/nation]
+Quaestor (chief legal officer)- [nation]Spyrid[/nation]
+Megas Domestikos (commander-in chief of the army and border control) - vacant
+Megas Doux (commandant of the navy) - vacant
