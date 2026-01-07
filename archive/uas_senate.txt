@@ -9,8 +9,8 @@
 [*]&amp;#9474; [url=https://www.nationstates.net/page=dispatch/id=2542837][color=black]Media Kit[/color][/url]
 [*]&amp;#9474; [url=https://www.nationstates.net/page=dispatch/id=2020229][color=black]Government Corner[/color][/url][/td]
 [td][b][color=#154c79]&amp;#128391; | Legislative Links[/color][/b]
-[list][*]&amp;#9474; [url=https://www.nationstates.net/page=dispatch/id=2685494][color=black]Legislative Standards and Transparency Act[/color][/url]
-[*]&amp;#9474; [url=https://www.nationstates.net/page=dispatch/id=2685916][color=black]Congressional Standards Act[/color][/url]
+[list][*]&amp;#9474; [url=https://www.nationstates.net/page=dispatch/id=2526748][color=black]Legislative Standards and Transparency Act[/color][/url]
+[*]&amp;#9474; [url=https://www.nationstates.net/page=dispatch/id=2616415][color=black]Congressional Standards Act[/color][/url]
 [*]&amp;#9474; [url=https://www.nationstates.net/page=dispatch/id=2637619][color=black]Senate Decree One[/color][/url]
 [*]&amp;#9474; [url=https://www.nationstates.net/page=dispatch/id=2638827][color=black]Senate Decree Two[/color][/url]
 [*]&amp;#9474; [url=https://www.nationstates.net/page=dispatch/id=2661820][color=black]Senate Decree Three[/color][/url][/td]
@@ -23,9 +23,9 @@
 
 [table][tr][td][i][color=black]Nation[/color][/i][/td][td][i][color=black]Senate Position[/color][/i][/td][/tr]
 [tr][td][b][nation]Korovan[/nation][/b][/td][td]Majority Whip[/td][/tr]
+[tr][td][nation]Punk Anarchy[/nation][/td][td]Senator[/td][/tr]
 [tr][td][nation]Nshi[/nation][/td][td]Senator[/td][/tr]
 [tr][td][nation]The Unionary United States[/nation][/td][td]Senator[/td][/tr]
-[tr][td][nation]Sagariana[/nation][/td][td]Senator[/td][/tr]
 [tr][td][nation]San Fransico Ape Colony[/nation][/td][td]Senator[/td][/tr]
 [/table]
 
