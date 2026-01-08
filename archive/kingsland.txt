@@ -1,8 +1,6 @@
-[color=red][b]Crown Dependency of [region]Empire of Britain[/region][/b][/color]
+[color=red][b]This region belongs to [region]the Kingdom of Great Britain and Ireland[/region][/b][/color]
 
 [color=blue][b]Official Imperial Puppet Storage &amp; Military Jump Point Region[/b][/color]
 
-[i]Direct Crown Administration[/i]
-[i]Permanent Royal Navy &amp; Royal Marines Deployment[/i][hr]
-
-[b]Sovereign Authority: Ruled directly by His Majesty King Edward IX ([nation]British CreepAles[/nation])[/b]
+[i]Direct Prime Minister&#39;s Office Administration[/i]
+[i]Permanent Royal Navy &amp; Royal Marines Deployment[/i]
