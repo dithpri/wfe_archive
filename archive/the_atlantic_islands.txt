@@ -1,5 +1,8 @@
-[color=96001a][b]The Atlantic Islands[/b][/color]
+[color=004d33][b]The Atlantic Islands[/b][/color]
 
-[color=00477e]an [region=Ancient Lands] region[/color]
+[color=0633517]REGION
+[b]Founded:[/b] 2023 Dec 18
+[b]Featured:[/b] 2026 Jan 08
+an [region=Ancient Lands] region[/color]
 
 [color=004d33]Embassy Offers Accepted[/color]
