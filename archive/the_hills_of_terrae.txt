@@ -1,6 +1,6 @@
-[table][tr][td][color=Seagreen][b]Welcome to the[/color] [color=Slateblue]Hills of Terrae![/b][/color][/td][/tr]
-[td][i]The Sun Shines Upon The Hill!
-Lux Super Montem Surgit![/i][/td][td]Visit our sister region, [b][region]Aventine[/region]![/b][/td][/table]
+[table][tr][td][color=Seagreen][font=Gill Sans MT][b]Welcome to the[/color] [color=Slateblue]Hills of Terrae![/b][/font][/color][/td][/tr]
+[td][font=liberation sans][i]The Sun Shines Upon The Hill!
+Lux Super Montem Surgit![/i][/font][/td][td][font=segoe ui]Visit our sister region, [b][region]Aventine[/region]![/b][/font][/td][/table]
 [table][tr][td][b]Regional Happenings[/b][/tr][/td]
 [td]&#149; *drifting tumbleweed*
 

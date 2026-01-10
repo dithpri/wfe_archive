@@ -1,4 +1,4 @@
-Puppet storage for [nation]ForFishing[/nation] Of [b][region]The North Pacific[/region], [region]the South Pacific[/region], [region]Europeia[/region], and [region]Vibonia[/region]![/b] 
+Puppet storage for [nation]ForFishing[/nation] Of [b][region]The North Pacific[/region], [region]the South Pacific[/region], [region]Starlight[/region], [region]The Wellspring[/region] and [region]Vibonia[/region]![/b] 
 
 other puppets that [nation]ForFishing[/nation] have
 
@@ -9,7 +9,7 @@ other puppets that [nation]ForFishing[/nation] have
 [nation]ZemisNorth TLC[/nation]
 [nation]5Tech[/nation]
 [nation]Apzia[/nation]
-[nation]ForFishing A[/nation]
+[nation]The Otter Empire[/nation]
 [nation]ForFishing Puppets[/nation]
 [nation]Warzone ForFishing Founder[/nation]
 
