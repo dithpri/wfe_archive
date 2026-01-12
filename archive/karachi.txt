@@ -1,2 +1,2 @@
-[b]Karachi[/b]
-a [region=0000] region
+[color=004d33][b]Karachi[/b]
+a [region=0000] region[/color]
