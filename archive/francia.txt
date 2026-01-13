@@ -1,9 +1,1 @@
-[b][color=goldenrod]Welcome to Empire of Francia[/color][/b]
-[i][b]|[/b] [color=midnightblue]Exspectata ut Imperium Francorum[/color] [b]|[/b][/i]
-[hr][list][*][color=midnightblue][b]Emperor of Francia:[/b] [i]His Imperial Majesty[/i] [b][nation]Imperium Francorum[/nation][/b][/color]
-
-[*][color=midnightblue][b]Embassy Policy:[/b] Requests for diplomatic relations are decided on a case-by-case basis.[/color][/list]
-
-[hr][b]| [color=goldenrod]Regional News:[/color] |[/b]
-[list][*][color=midnightblue]The Empire of Francia has been established.[/color][/list]
-[hr]
+Welcome to Francia.

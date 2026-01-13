@@ -1,8 +1,3 @@
-[color=maroon]Welcome[/color] [color=silver][b]to the[/b][/color] [color=navy]Empire of Scandinavia[/color], a land of [region]The Wolf Clan[/region]
+Welcome to the Empire of Scandinavia.
 
-
---------------------------------------------------------------------------------------------------------------
-
-The Empire of Scandinavia is comprised of modern day [region=Denmark], [region]Sweden[/region], [region]Finland[/region], and [region]Norway[/region]
-
-[i]Come relax in a sauna or hike the fjords[/i]
+WIP
