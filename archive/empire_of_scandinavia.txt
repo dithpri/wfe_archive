@@ -1,8 +1,12 @@
 [b][color=firebrick]Welcome to the Empire of Scandinavia![/color][/b]
-[color=navy]&amp;#10070;&amp;#9552;&amp;#9552;&amp;#9552;&amp;#9552;&amp;#9552;[/color] [i][color=goldenrod]Founded 12 January 2026[/color][/i] [color=navy]&amp;#9552;&amp;#9552;&amp;#9552;&amp;#9552;&amp;#9552;&amp;#10070;[/color]
+[color=goldenrod]&amp;#10070;[/color][color=navy]&amp;#9552;&amp;#9552;&amp;#9552;&amp;#9552;&amp;#9552;[/color] [i][color=goldenrod]Founded 12 January 2026[/color][/i] [color=navy]&amp;#9552;&amp;#9552;&amp;#9552;&amp;#9552;&amp;#9552;[/color][color=goldenrod]&amp;#10070;[/color]
 
-[hr][b][color=firebrick]Overview[/color][/b]
-[list][*][color=navy]The Empire of Scandinavia is a constitutional monarchy made of three constituent countries: Denmark, Norway, and Sweden.[/color][/list]
-[hr][b][color=firebrick]News[/color][/b]
-[list][*][color=navy]The Empire of Scandinavia is founded.
-[*]The region is under construction.[/color][/list]
+[hr][b][color=firebrick]Overview[/color][/b] [color=goldenrod]&amp;#128712;[/color]
+[list][*][color=navy]The [b]Empire of Scandinavia[/b] is a constitutional monarchy made of three constituent countries:[/color]
+[list][*][color=goldenrod][b]&amp;#127465;&amp;#127472; Kingdom of Denmark
+[*]&amp;#127475;&amp;#127476; Kingdom of Norway
+[*]&amp;#127480;&amp;#127466; Kingdom of Sweden[/b][/color][/list][/list]
+[hr][b][color=firebrick]Monarchy[/color][/b] [color=goldenrod]&amp;#9818;[/color]
+[list][*][color=navy][b]Emperor of Scandinavia:[/b] Karl Frederik Magnus of [b][nation]Imperial Scandinavia[/nation][/b]
+[*][b]Royal House:[/b] Oldenburg[/color][/list]
+[hr]
