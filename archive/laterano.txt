@@ -1,1 +1,3 @@
-Formally known as Lateran City (Civitatis Lateranense), Laterano is a Terran country which borders Iberia, Rim Billiton, Siracusa, and Victoria. It is a small, theocratic city-state and the homeland of the Sankta race with a decent population of Liberi who are descendants of Iberian immigrants. The nation is ruled by the Pope, the leader of the Lateran Church, with a constitution that guarantees thirteen rights to its citizens.
+[nation]Terran Laterano[/nation], formally known as the Lateran City, is a country bordering [nation]Terran Iberia[/nation] and [nation]Victoria[/nation]. It is a theocracy and the homeland of the Sankta race with a decent population of Liberi.
+
+The nation is ruled by the Pope, the spiritual leader of the Lateran Church, with a constitution that guarantees thirteen rights to its citizens.
