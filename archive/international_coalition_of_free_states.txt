@@ -1,1 +1,20 @@
-placeholder
+Welcome to [i][color=#328fa8][b]the International Coalition of Free States[/b][/color][/i]
+
+The International Coalition is a military and economic alliance with a large concern for civil rights and economic growth. The Coalition is strictly anti-fascist and anti-communist, but tolerant of socialist nations with great civil liberties.
+[hr]
+Presiding Delegation: [nation]Echo Cove[/nation] 
+Vice Delegation: [nation]Spinelandia[/nation]
+
+Minimum [color=blue]Civil Rights[/color]: [i][b][color=lightgreen]Very Good[/color][/b][/i]
+Minimum [color=darkpink]Economy[/color]: [i][b][color=lightgreen]Strong[/color][/b][/i]
+[hr]
+[color=#328fa8][b]Department of Global Affairs[/b][/color]
+          World Assembly Delegate: [nation]Echo Cove[/nation]
+
+[color=green][b]General Assembly:[/b][/color]
+Resolution: [i][url=https://www.nationstates.net/page=ga]&#147;Against Racial Segregation&#148;[/url][/i]
+Recommended Vote: [b][i][color=blue]FOR[/color][/i][/b]
+
+[color=red][b]Security Council:[/b][/color]
+Resolution: [i][url=https://www.nationstates.net/page=sc]None[/url][/i]
+Recommended Vote: [b][i][color=gray]-[/color][/i][/b]

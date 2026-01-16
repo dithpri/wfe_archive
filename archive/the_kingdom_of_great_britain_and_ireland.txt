@@ -1,32 +1,71 @@
-[font=georgia][color=#3b0000][b]&amp;#9884; WELCOME  TO  THE  KINGDOM  OF  GREAT BRITAIN AND IRELAND &amp;#9884;[/b][/color][/font]
+[table=plainheader]
+[tr]
+[td=4]
+[font=georgia][color=#3b0000][b]&amp;#9884; WELCOME TO THE KINGDOM OF GREAT BRITAIN AND IRELAND &amp;#9884;[/b][/color][/font]
 
 [font=georgia][color=#ba0c2f][b]&amp;#9819; A small, active and distinctive British region &amp;#9819;[/b][/color][/font]
-[font=palatino][color=#7a1111][i]&quot;God and My Rights.&quot;[/i][/color][/font][hr][hr]
+[font=palatino][color=#7a1111][i]&quot;God and My Rights.&quot;[/i][/color][/font]
+[/td]
 
-[font=georgia][b][url=https://discord.gg/RquCYzsFfS][color=#ba0c2f]Discord[/color][/url] | [url=https://kogbir.freeforums.net/][color=#ba0c2f]Forum[/color][/url] | [url=https://www.nationstates.net/page=dispatch/id=2740047][color=#ba0c2f]Citizen&#39;s Guide[/color][/url] | [url=https://www.nationstates.net/page=dispatch/id=2740575][color=#ba0c2f]RMB Code of Conduct[/color][/url] | [url=https://www.nationstates.net/page=dispatch/id=2741055][color=#ba0c2f]Constitution[/color][/url][/b][/font]
-[hr][hr]
+[td][/td]
 
+[td]
 [font=georgia][color=#b68e00][b]&amp;#128081; God Save His Most Gracious Majesty, and Long Live the Empire Eternal! &amp;#128081;[/b][/color][/font]
+[/td]
+[/tr]
 
+[tr]
+[td=4]
 [font=georgia][color=#5a0f2e][b]&amp;#9672; Monarchy[/b][/color]
 [color=#5a0f2e][b]&amp;#9656; Sovereign: HM King George VII ([nation]Alexander 1707[/nation])[/b][/color][/font]
 
 [font=georgia][color=#1f3a5f][b]&amp;#9672; Government[/b][/color]
 [color=#1f3a5f][b]&amp;#9656; Prime Minister: Edward Frederick ([nation]The Tro Zimoub Islands[/nation])[/b][/color]
-[color=#1f3a5f][b]&amp;#9656; Government: [url=https://www.nationstates.net/page=dispatch/id=2741872]First Executive Government[/url][/b][/font][/color]
+[color=#1f3a5f][b]&amp;#9656; Government: [url=https://www.nationstates.net/page=dispatch/id=2741872]First Executive Government[/url][/b][/color][/font]
 
 [font=georgia][color=#0f3a1f][b]&amp;#9672; Parliament[/b][/color]
-[color=#0f3a1f][b]&amp;#9656; Parliament: [url=https://www.nationstates.net/page=dispatch/id=2741896]First Legislative Parliament[/url][/b][/font][/color]
-[hr][hr]
+[color=#0f3a1f][b]&amp;#9656; Parliament: [url=https://www.nationstates.net/page=dispatch/id=2741896]First Legislative Parliament[/url][/b][/color][/font]
+[/td]
 
-[font=georgia][color=#3b0000][b]&amp;#9672; Kindly join the World Assembly and endorse [nation]The Tro Zimoub Islands[/nation][/b][/color][/font]
+[td][/td]
 
-[font=georgia][b][color=#ba0c2f]&amp;#9672; Endorsement cap: 2[/b][/color][/font]
-[hr][hr]
+[td]
+[font=georgia][color=#3b0000][b][u]World Assembly[/u][/b][/color][/font]
 
+[font=georgia][b]&amp;#9672; Kindly join the World Assembly and endorse [nation]The Tro Zimoub Islands[/nation][/b][/font]
+
+[font=georgia][b][color=#ba0c2f]&amp;#9672; Endorsement cap: 2[/color][/b][/font]
+[/td]
+[/tr]
+
+[tr]
+[td]
+[font=georgia][b][url=https://discord.gg/RquCYzsFfS][color=#ba0c2f]Discord[/color][/url][/b][/font]
+[/td]
+
+[td]
+[font=georgia][b][url=https://kogbir.freeforums.net/][color=#ba0c2f]Forum[/color][/url][/b][/font]
+[/td]
+
+[td]
+[font=georgia][b][url=https://www.nationstates.net/page=dispatch/id=2741055][color=#ba0c2f]Constitution[/color][/url][/b][/font]
+[/td]
+
+[td]
+[font=georgia][b][url=https://www.nationstates.net/page=dispatch/id=2740047][color=#ba0c2f]Citizen&#39;s Guide[/color][/url][/b][/font]
+[/td]
+
+[td]
+[font=georgia][b][url=https://www.nationstates.net/page=dispatch/id=2740575][color=#ba0c2f]RMB Code of Conduct[/color][/url][/b][/font]
+[/td]
+[/tr]
+
+[tr]
+[td=6]
 [font=georgia][color=#3b0000][b]&amp;#9672; Daily Briefing[/b][/color][/font]
 [list]
-
-[*][font=georgia][b][i][region]Warzone Africa[/region] has fallen, and the Navy is powerless to resist the invaders.[/i][/b][/font]
-
-[*][font=georgia][b][i]Prime Minister Edward Frederick announced he will take a two-day vacation.[/i][/b][/font]
+[*][font=georgia][b][i]A quiet day! But something big is about to happen...[/i][/b][/font]
+[/list]
+[/td]
+[/tr]
+[/table]
