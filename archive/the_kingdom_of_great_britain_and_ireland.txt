@@ -1,7 +1,7 @@
 [table=plainheader]
 [tr]
 [td=4]
-[font=georgia][color=#3b0000][b]&amp;#9884; WELCOME TO THE KINGDOM OF GREAT BRITAIN AND IRELAND &amp;#9884;[/b][/color][/font]
+[font=georgia][color=#3b0000][b]&amp;#9884; WELCOME TO GREAT BRITAIN AND IRELAND &amp;#9884;[/b][/color][/font]
 
 [font=georgia][color=#ba0c2f][b]&amp;#9819; A small, active and distinctive British region &amp;#9819;[/b][/color][/font]
 [font=palatino][color=#7a1111][i]&quot;God and My Rights.&quot;[/i][/color][/font]
@@ -17,14 +17,14 @@
 [tr]
 [td=4]
 [font=georgia][color=#5a0f2e][b]&amp;#9672; Monarchy[/b][/color]
-[color=#5a0f2e][b]&amp;#9656; Sovereign: HM King George VII ([nation]Alexander 1707[/nation])[/b][/color][/font]
+[color=#5a0f2e][b]&amp;#9656; Sovereign:[/color] [url=https://www.nationstates.net/nation=alexander_1707][color=#5a0f2e]HM King George VII[/color][/url][/b][/font]
 
-[font=georgia][color=#1f3a5f][b]&amp;#9672; Government[/b][/color]
-[color=#1f3a5f][b]&amp;#9656; Prime Minister: Edward Frederick ([nation]The Tro Zimoub Islands[/nation])[/b][/color]
-[color=#1f3a5f][b]&amp;#9656; Government: [url=https://www.nationstates.net/page=dispatch/id=2741872]First Executive Government[/url][/b][/color][/font]
+[font=georgia][b]&amp;#9672; [url=https://www.nationstates.net/page=dispatch/id=2741872][color=#1f3a5f]Government[/color][/url][/b]
+[color=#1f3a5f][b]&amp;#9656; Prime Minister:[/color] [url=https://www.nationstates.net/nation=the_tro_zimoub_islands][color=#1f3a5f]Edward Frederick[/color][/url][/b][/font]
 
-[font=georgia][color=#0f3a1f][b]&amp;#9672; Parliament[/b][/color]
-[color=#0f3a1f][b]&amp;#9656; Parliament: [url=https://www.nationstates.net/page=dispatch/id=2741896]First Legislative Parliament[/url][/b][/color][/font]
+[font=georgia][b][url=https://www.nationstates.net/page=dispatch/id=2741896][color=#0f3a1f]&amp;#9672; Parliament[/color][/url][/b]
+[color=#0f3a1f][b]&amp;#9656; Commons Speaker:[/color] [url=https://www.nationstates.net/nation=crowncity][color=#0f3a1f]Oscar Diggs[/color][/url][/b]
+[color=#0f3a1f][b]&amp;#9656; Lord Speaker: N/A[/b][/color][/font]
 [/td]
 
 [td][/td]
@@ -32,13 +32,20 @@
 [td]
 [font=georgia][color=#3b0000][b][u]World Assembly[/u][/b][/color][/font]
 
-[font=georgia][b]&amp;#9672; Kindly join the World Assembly and endorse [nation]The Tro Zimoub Islands[/nation][/b][/font]
+[font=georgia][color=#3b0000][b]&amp;#9672; Kindly join the World Assembly and endorse [url=https://www.nationstates.net/nation=the_tro_zimoub_islands]Delegate[/url][/b][/color][/font]
 
-[font=georgia][b][color=#ba0c2f]&amp;#9672; Endorsement cap: 2[/color][/b][/font]
+[font=georgia][color=red][b][u]Security Office[/u][/b][/color][/font]
+
+[font=georgia][b][color=red]&amp;#9672; Extremists and hate speech are strictly prohibited[/color][/b][/font]
+
 [/td]
 [/tr]
 
 [tr]
+[td]
+[font=georgia][b][url=https://shattereddisk.github.io/rickroll/rickroll.mp4][color=#ba0c2f]Website[/color][/url][/b][/font]
+[/td]
+
 [td]
 [font=georgia][b][url=https://discord.gg/RquCYzsFfS][color=#ba0c2f]Discord[/color][/url][/b][/font]
 [/td]
@@ -65,6 +72,8 @@
 [font=georgia][color=#3b0000][b]&amp;#9672; Daily Briefing[/b][/color][/font]
 [list]
 [*][font=georgia][b][i]Parliamentary elections are scheduled for the 31st of this month.[/i][/b][/font]
+
+[*][font=georgia][b][i]Citizenship has been suspended.[/i][/b][/font]
 [/list]
 [/td]
 [/tr]

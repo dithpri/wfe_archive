@@ -4,7 +4,7 @@
 Operated by [nation]Germania Ultima 4[/nation]
 [/td][/tr]
 [tr][td]
-Current Date: [b]August, 1753 Anno Domini.[/b]
+Current Date: [b]October, 1753 Anno Domini.[/b]
 [/td][/tr]
 [tr][td]
 War-score equation: (Arms Manufacturing x .35) + (Defence Forces x .35) + (Scientific Advancement x .25) &amp;#8722; (Corruption &times; .7) &amp;#8722; (Primitiveness &times; .3)
