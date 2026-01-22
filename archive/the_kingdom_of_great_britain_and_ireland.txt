@@ -1,7 +1,7 @@
 [table=plainheader]
 [tr]
 [td=4]
-[font=georgia][color=#3b0000][b]&amp;#9884; WELCOME TO GREAT BRITAIN AND IRELAND &amp;#9884;[/b][/color][/font]
+[font=georgia][color=#3b0000][b]&amp;#9884;WELCOME TO GREAT BRITAIN AND IRELAND&amp;#9884;[/b][/color][/font]
 
 [font=georgia][color=#ba0c2f][b]&amp;#9819; A small, active and distinctive British region &amp;#9819;[/b][/color][/font]
 [font=palatino][color=#7a1111][i]&quot;God and My Rights.&quot;[/i][/color][/font]
@@ -10,14 +10,15 @@
 [td][/td]
 
 [td]
-[font=georgia][color=#b68e00][b]&amp;#128081; God Save His Most Gracious Majesty, and Long Live the Kingdom Eternal! &amp;#128081;[/b][/color][/font]
+[font=georgia][color=#b68e00][b]&amp;#128081;God Save the King, Long Live the Kingdom!&amp;#128081;[/b][/color][/font]
 [/td]
 [/tr]
 
 [tr]
 [td=4]
 [font=georgia][color=#5a0f2e][b]&amp;#9672; Monarchy[/b][/color]
-[color=#5a0f2e][b]&amp;#9656; Sovereign:[/color] [url=https://www.nationstates.net/nation=alexander_1707][color=#5a0f2e]HM King George VII[/color][/url][/b][/font]
+[color=#5a0f2e][b]&amp;#9656; Sovereign:[/color] [url=https://www.nationstates.net/nation=alexander_1707][color=#5a0f2e]HM King George VII[/url][/color][/b]
+[color=#5a0f2e][b]&amp;#9656; Prince of Wales: To be decided[/b][/color][/font]
 
 [font=georgia][b]&amp;#9672; [url=https://www.nationstates.net/page=dispatch/id=2741872][color=#1f3a5f]Government[/color][/url][/b]
 [color=#1f3a5f][b]&amp;#9656; Prime Minister:[/color] [url=https://www.nationstates.net/nation=the_tro_zimoub_islands][color=#1f3a5f]Edward Frederick[/color][/url][/b][/font]
@@ -33,10 +34,6 @@
 [font=georgia][color=#3b0000][b][u]World Assembly[/u][/b][/color][/font]
 
 [font=georgia][color=#3b0000][b]&amp;#9672; Kindly join the World Assembly and endorse [url=https://www.nationstates.net/nation=the_tro_zimoub_islands]Delegate[/url][/b][/color][/font]
-
-[font=georgia][color=red][b][u]Security Office[/u][/b][/color][/font]
-
-[font=georgia][b][color=red]&amp;#9672; Extremists and hate speech are strictly prohibited[/color][/b][/font]
 
 [/td]
 [/tr]
