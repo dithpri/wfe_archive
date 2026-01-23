@@ -6,7 +6,7 @@ Republics: [nation]Lvaria[/nation]
 Kingdoms: None for now.
 Empire: [nation]Rishent burrglen[/nation]
 Anarchic State: [nation]Gorvenu[/nation]
-Misc: [nation]Yellowface Warehouse[/nation]
+Misc: [nation]Yellowface Warehouse[/nation], [nation]Licentiea[/nation], [nation]Milantis[/nation]
 
 The Goikian Cemetery:
 [nation]Great goiky[/nation], [nation]Grupheetie[/nation], [nation]Isla del cuatro[/nation], [nation]Nananstan[/nation], [nation]Katukina[/nation], [nation]Newherth[/nation]

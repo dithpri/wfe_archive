@@ -1,4 +1,7 @@
-This region is made up of [nation]Pawlandia[/nation], [nation]Tanlifa[/nation],[nation]Chisanz[/nation] and [nation]Fr France[/nation].
+This region is made up of [nation]Pawlandia[/nation], [nation]Tanlifa[/nation],[nation]Chisanz[/nation],[nation]Alasce[/nation] and [nation]Greater Kansai[/nation]
 The governor of the nation is [nation]Pawlandia[/nation].
-Border control is handled by [nation]Tanlifa[/nation].
+Security is handled by [nation]Tanlifa[/nation].
+[nation]Alasce[/nation] maintains our diplomatic relationship.
+[nation]Chisanz[/nation] is in charge of appearances.
+Communications are the job of [nation]Greater Kansai[/nation].
 Our motto is &quot;FAH!&quot;

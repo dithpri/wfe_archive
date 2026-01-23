@@ -12,9 +12,9 @@ Minimum [color=darkpink]Economy[/color]: [i][b][color=lightgreen]Strong[/color][
           World Assembly Delegate: [nation]Echo Cove[/nation]
 
 [color=green][b]General Assembly:[/b][/color]
-Resolution: [i][url=https://www.nationstates.net/page=ga]&#147;Hate Crime Prevention and Enforcement&#148;[/url][/i]
+Resolution: [i][url=https://www.nationstates.net/page=ga]&#147;Repeal: Radiological Terrorism&quot;[/url][/i]
 Recommended Vote: [b][i][color=blue]FOR[/color][/i][/b]
 
 [color=red][b]Security Council:[/b][/color]
-Resolution: [i][url=https://www.nationstates.net/page=sc]None[/url][/i]
-Recommended Vote: [b][i][color=gray]-[/color][/i][/b]
+Resolution: [i][url=https://www.nationstates.net/page=sc]&quot;Condemn the Pacific&quot;[/url][/i]
+Recommended Vote: [b][i][color=blue]FOR[/color][/i][/b]
