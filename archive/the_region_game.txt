@@ -1,10 +1,1 @@
-[b]Notice: Region is currently considered defunct, due to lack of activity.[/b]
-
-[b]All Regions:[/b]
-[region]The Region Game[/region]
-[region]The Region Game I[/region]
-[region]The Region Game II[/region]
-[region]The Region Game III[/region]
-[region]The Region Game IV[/region]
-[region]The Impeachment Game[/region]
-[region]The Region Game Parlament[/region]
+[wfe][/wfe]
