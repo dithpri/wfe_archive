@@ -16,15 +16,15 @@
 
 [tr]
 [td=4]
-[font=georgia][color=#5a0f2e][b]&amp;#9672; Monarchy[/b][/color]
+[font=georgia][b][url=https://kogbir.freeforums.net/][color=#5a0f2e]&amp;#9672; Monarchy[/color][/url][/b]
 [color=#5a0f2e][b]&amp;#9656; Sovereign:[/color] [url=https://www.nationstates.net/nation=alexander_1707][color=#5a0f2e]HM King George VII[/url][/color][/b]
 [color=#5a0f2e][b]&amp;#9656; Prince of Wales: To be decided[/b][/color][/font]
 
-[font=georgia][b]&amp;#9672; [url=https://www.nationstates.net/page=dispatch/id=2741872][color=#1f3a5f]Government[/color][/url][/b]
+[font=georgia][b][url=https://kogbir.freeforums.net/][color=#1f3a5f]&amp;#9672; Government[/color][/url][/b]
 [color=#1f3a5f][b]&amp;#9656; Prime Minister:[/color] [url=https://www.nationstates.net/nation=the_tro_zimoub_islands][color=#1f3a5f]Edward Frederick[/color][/url][/b][/font]
 
-[font=georgia][b][url=https://www.nationstates.net/page=dispatch/id=2741896][color=#0f3a1f]&amp;#9672; Parliament[/color][/url][/b]
-[color=#0f3a1f][b]&amp;#9656; Commons Speaker:[/color] [url=https://www.nationstates.net/nation=crowncity][color=#0f3a1f]Oscar Diggs[/color][/url][/b]
+[font=georgia][b][url=https://kogbir.freeforums.net/][color=#0f3a1f]&amp;#9672; Parliament[/color][/url][/b]
+[color=#0f3a1f][b]&amp;#9656; Commons Speaker:[/color] [url=https://www.nationstates.net/nation=ballyhanwood][color=#0f3a1f]Eddie Ormiston[/color][/url][/b]
 [color=#0f3a1f][b]&amp;#9656; Lord Speaker: N/A[/b][/color][/font]
 [/td]
 
@@ -40,7 +40,7 @@
 
 [tr]
 [td]
-[font=georgia][b][url=https://shattereddisk.github.io/rickroll/rickroll.mp4][color=#ba0c2f]Website[/color][/url][/b][/font]
+[font=georgia][b][url=https://kogbir.freeforums.net/thread/20/royal-courts-justice-constitution][color=#ba0c2f]Constitution[/color][/url][/b][/font]
 [/td]
 
 [td]
@@ -68,9 +68,9 @@
 [td=6]
 [font=georgia][color=#3b0000][b]&amp;#9672; Daily Briefing[/b][/color][/font]
 [list]
-[*][font=georgia][b][i][url=https://kogbir.freeforums.net/thread/22/state-opening-parliament]State Opening of Parliament[/url] has officially taken place at the forum.[/i][/b][/font]
+[*][font=georgia][b][i][nation]Crowncity[/nation] has been permanently banned for treason. Please view our Discord servers for details.[/i][/b][/font]
 
-[*][font=georgia][b][i]We are about to have a Queen.[/i][/b][/font]
+[*][font=georgia][b][i]Join Discord now, or you won&#39;t be able to stay up-to-date with all the latest news.[/i][/b][/font]
 [/list]
 [/td]
 [/tr]
