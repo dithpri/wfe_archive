@@ -1,6 +1,7 @@
 just a puppet storage themed around New Zealand
 
-Capital: Wellington
-Population: 5.33 million
-Leader: Christopher Luxon
+Capital: Wellington 
+Largest City: Auckland
+Population: 5.33 million 
+Leader: Christopher Luxon 
 National Animal: Kiwi
