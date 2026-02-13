@@ -1,1 +1,6 @@
-Freedom for All!
+Dependencies:
+[url=http://nationstates.net/region=The_West_Sunnysides]The West Sunnysides[/url]
+[url=http://nationstates.net/region=The_Commoner_Islands]The Commoner Islands[/url]
+[url=http://nationstates.net/region=The_East_Commoners]The East Commoners[/url]
+[url=http://nationstates.net/region=The_Cleargy_Islands]The Cleargy Islands[/url]
+[url=http://nationstates.net/region=The_West_Cleargies]The West Cleargies[/url]
