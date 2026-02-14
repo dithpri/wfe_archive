@@ -1,0 +1,4 @@
+[box]
+[b]Regional Stats[/b]
+Current Nations: [data:nations]
+[/box]
