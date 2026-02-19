@@ -1,9 +1,10 @@
-[font=nationstates]&amp;#59419;[/font] [b][color=#3F0C67]W[/color][color=#421064]e[/color][color=#461462]l[/color][color=#4A1860]c[/color][color=#4E1C5E]o[/color][color=#52205C]m[/color][color=#56245A]e[/color] [color=#5E2C56]t[/color][color=#623054]o[/color] [color=#69384F]t[/color][color=#6D3C4D]h[/color][color=#71404B]e[/color] [color=#794847]T[/color][color=#7D4D45]r[/color][color=#815143]a[/color][color=#855541]v[/color][color=#88593E]e[/color][color=#8C5D3C]r[/color][color=#90613A]s[/color][color=#946538]a[/color][color=#986936]l[/color] [color=#A07132]A[/color][color=#A47530]d[/color][color=#A8792E]m[/color][color=#AB7D2B]i[/color][color=#AF8129]n[/color][color=#B38527]i[/color][color=#B78A25]s[/color][color=#BB8E23]t[/color][color=#BF9221]r[/color][color=#C3961F]a[/color][color=#C79A1D]t[/color][color=#CB9E1B]i[/color][color=#CEA218]v[/color][color=#D2A616]e[/color] [color=#DAAE12]D[/color][color=#DEB210]o[/color][color=#E2B60E]m[/color][color=#E6BA0C]a[/color][color=#EABE0A]i[/color][color=#EEC208]n[/color][/b], 
-[b]a closed institutional region housing the offices of the Intergalactic Traverse Coalition, offices of the Central Reserve Bank of Aeternas , and Joint Dispatch Office.[/b]
+[font=nationstates]&amp;#59419;[/font] [b][color=#3F0C67]W[/color][color=#421064]e[/color][color=#461462]l[/color][color=#4A1860]c[/color][color=#4E1C5E]o[/color][color=#52205C]m[/color][color=#56245A]e[/color] [color=#5E2C56]t[/color][color=#623054]o[/color] [color=#69384F]t[/color][color=#6D3C4D]h[/color][color=#71404B]e[/color] [color=#794847]T[/color][color=#7D4D45]r[/color][color=#815143]a[/color][color=#855541]v[/color][color=#88593E]e[/color][color=#8C5D3C]r[/color][color=#90613A]s[/color][color=#946538]a[/color][color=#986936]l[/color] [color=#A07132]A[/color][color=#A47530]d[/color][color=#A8792E]m[/color][color=#AB7D2B]i[/color][color=#AF8129]n[/color][color=#B38527]i[/color][color=#B78A25]s[/color][color=#BB8E23]t[/color][color=#BF9221]r[/color][color=#C3961F]a[/color][color=#C79A1D]t[/color][color=#CB9E1B]i[/color][color=#CEA218]v[/color][color=#D2A616]e[/color] [color=#DAAE12]D[/color][color=#DEB210]o[/color][color=#E2B60E]m[/color][color=#E6BA0C]a[/color][color=#EABE0A]i[/color][color=#EEC208]n[/color][/b]
+[hr]
+[b]This is a closed institutional complex housing the offices of the Intergalactic Traverse Coalition, the Central Reserve Bank of Aeternas, the Joint Dispatch Office, and the African Strategic Commodities League, serving the sister regions of the [region]Confederation of Terra[/region] and [region]Aeternas[/region].[/b]
 
 [b]Oversight:[/b]
 [list]
-[*][b]Emperor:[/b] [nation]Kabran[/nation] | [b]Federal Prime Minister:[/b] [nation]Criboutit[/nation]
+[*][b]Emperor of Aeternas:[/b] [nation]Kabran[/nation] | [b]Federal Prime Minister of Confederation of Terra:[/b] [nation]Criboutit[/nation]
 [/list][hr]
 [b]Office Leadership:[/b]
 [list]
@@ -12,4 +13,6 @@
 [*][b]President[/b] of The Central Reserve Bank of Aeternas: [nation]Eternal Ascendancy[/nation]
 
 [*][b]Chair[/b] of the Joint Dispatch Office: [nation]Neo American States[/nation]
+
+[*][b]Secretary-General[/b] of the African Strategic Commodities League: [nation]Profitocracy[/nation]
 [/list]
