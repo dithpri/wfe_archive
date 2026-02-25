@@ -1,1 +1,2 @@
 [b]Bem-vindo a Testes![/b] [i]{Welcome to testes}[/i][hr][color=gray]This [i]region[/i] is just a test and should be ignored, [i]thank[/i][/color]
+[I][color=gray]Esta regi&atilde;o &eacute; apenas um teste e deve ser ignorada, obrigado.[/color][/i]

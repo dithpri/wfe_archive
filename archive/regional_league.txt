@@ -16,19 +16,14 @@
 [*][url=][color=black]Join the [u]Freedom Fighters[/u] and keep an eye out for updates![/color][/url][/list][/td][/tr]
 [/table][hr]
 
-[table][tr][td][i][color=black]Nation[/color][/i][/td][td][i][color=black]Official Position[/color][/i][/td][/tr]
-[tr][td][b][nation]Eco-Paris Reformation[/nation][/b][/td][td][b]Founder/Commanding General[/b][/td][/tr]
-[tr][td][nation]North Sion[/nation][/td][td][i]Lieutenant General[/i][/td][/tr]
-[tr][td][nation]East Avalon[/nation][/td][td][i]Baronet[/i][/td][/tr]
-[tr][td][nation][/nation][/td][td]Private[/td][/tr]
-[tr][td][nation][/nation][/td][td]Private[/td][/tr]
-[/table]
-
 [hr]
 
 [table][tr][td][color=black]Current Member Regions[/color][/td][/tr]
 [tr][td][url=https://www.nationstates.net/region=union_of_allied_states][u][color=black]Union of Allied States[/color][/u][/url][/td][/tr]
 [tr][td][url=https://www.nationstates.net/region=christians][u][color=black]Christians[/color][/u][/url][/td][/tr]
+[tr][td][url=https://www.nationstates.net/region=kaiserreich][u][color=black]KAISERREICH[/color][/u][/url][/td][/tr]
+[tr][td][url=https://www.nationstates.net/region=greater_world_coexistence_sphere][u][color=black]Greater World Coexistence Sphere[/color][/u][/url][/td][/tr]
+[tr][td][url=https://www.nationstates.net/region=bozarkia][u][color=black]Bozarkia[/color][/u][/url][/td][/tr]
 [/table]
 
 [hr]

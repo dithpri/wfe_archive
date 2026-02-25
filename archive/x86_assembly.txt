@@ -1,0 +1,20 @@
+[pre]
+# cat &amp;gt;wfe.S
+.section .text
+.global main
+.extern puts
+.extern exit
+main:
+   push $greeting
+   call puts
+   push $message
+   call puts
+   push $0
+   call exit
+
+.section .rodata
+greeting: .asciz &quot;Welcome to [region]x86 Assembly[/region]&quot;
+message: .asciz &quot;Contact [nation]Merethin[/nation] with any inquiries&quot;
+[EOF]
+
+# as wfe.S -o wfe.o &amp;&amp; cc wfe.o &amp;&amp; ./a.out[/pre]
