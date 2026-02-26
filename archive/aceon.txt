@@ -14,7 +14,7 @@
 [i][b]Chancellor/WA Delegate:[/b][/i] N/A (Vacant)
 
 [i][b]Foreign Affairs Minister:[/b][/i] [nation]Cossack Ukraine[/nation] (Elect: Apr. 23rd)
-[i][b]Defense Minister:[/b][/i] [nation]Neo American Union[/nation] (Elect: Feb. 28th)
+[i][b]Defense Minister:[/b][/i] [nation]Neo American Union[/nation] (Elect: Apr. 29th)
 [i][b]Domestic Affairs Minister:[/b][/i] [nation]Letiutin[/nation] (Elect: Mar. 6th)
 [i][b]Communications Minister:[/b][/i] [nation]West Vazoria[/nation] (Elect: Mar. 12th)
 
@@ -26,7 +26,7 @@
 
 [b]| DOCTRINE |[/b]
 
-[i][b]Border:[/b][/i] [color=green]Open[/color]
+[i][b]Border:[/b][/i] [color=red]Closed[/color]
 [i][b]Embassy Policy:[/b][/i] [color=green]Cordial[/color]
 
 
