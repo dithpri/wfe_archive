@@ -7,8 +7,8 @@
 [u][color=4169E1]Executive:[/color][/u][/b]
 President: [nation]Libertarian Washington[/nation]
 Vice President: [nation]Tunasai[/nation]
-Attorney General: VACANT - [i]Pending Appointment[/i]
-Secretary of State: VACANT - [i]Pending Appointment[/i]
+Attorney General [nation]MalDorAeHan[/nation]
+Secretary of State: [nation]Vawfiss[/nation]
 Capital Governor: [nation]TuNasai[/nation]
 
 [color=2F4F4F][b][u]Senate:[/u][/b][/color]
