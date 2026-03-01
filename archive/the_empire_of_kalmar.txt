@@ -1,1 +1,5 @@
-The Empire is composed of Denmark, Norway, Sweden, Iceland, and Finland.
+The Empire of Kalmar
+Officially; the Empire of Denmark, Norway, Sweden, Iceland, and Finland.
+
+Emperor: [nation]Emperor Magnus[/nation]
+Royal Family: [nation]The House of Kalmar[/nation]
