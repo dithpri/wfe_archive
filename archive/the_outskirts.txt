@@ -1,4 +1,4 @@
-[table][tr][td][b]Welcome to [color=black][i]The Outskirts[/i][/color] [color=grey][font=times new roman]Chapter 2[/font][/color][/b][/td][td][url=https://www.nationstates.net/page=dispatch/id=2676355]How to Join[/url][/td][/tr]
+[b][/b][table][tr][td][b]Welcome to [color=black][i]The Outskirts[/i][/color] [color=grey][font=times new roman]Chapter 2[/font][/color][/b][/td][td][url=https://www.nationstates.net/page=dispatch/id=2676355]How to Join[/url][/td][/tr]
 
 [tr][td]
 [font=nationstates]&amp;#59425;[/font] [u][b]World Assembly[/b][/u] [font=nationstates]&amp;#59425;[/font]
@@ -37,7 +37,7 @@ Security Council: [color=gray][b]NONE[/b][/color]
 
 [td][color=black][b]Events[/b][/color][/td][/tr]
 
-[tr][td]N-Day in: 11 Days[/td]
+[tr][td]N-Day in: 6 Days[/td]
 
 [td]
 
