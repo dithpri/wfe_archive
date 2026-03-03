@@ -1,12 +1,11 @@
-[b]Welcome to the Empire of [nation]Walbard[/nation] ||| 2 0 2 6[/b]
-[i]&quot;[color=blue]Faith[/color], [color=red]Passion[/color], [color=blue]Excellence[/color], [color=red]Integrity[/color], [color=blue]Honour[/color], [color=red]Community[/color]&quot;[/i]
-
+[b][nation=long]Walbard[/nation] ||| &amp;#129409; Pax Walbardia[/b]
+[i][color=purple] Peace Through Strength; Strength Through Empire.[/color][/I]
 [hr]
 
 [b]Imperial Household;[/b]
-&amp;#129409; [color=purple]King-Emperor[/color]: [nation]King Carlisle I[/nation] 
-&amp;#129409; [color=navy]Queen-Empress[/color]: [nation]Queen Amelie I[/nation]
-&amp;#127968; [color=blue]Ruling House[/color]: [nation]House of Walbard[/nation]
+&amp;#128081; [color=teal]HM the King[/color]: [nation]King Carlisle I[/nation] 
+&amp;#128081; [color=orange]HM the Queen[/color]: [nation]Queen Amelie I[/nation]
+&amp;#128737;&amp;#65039; [color=darkred]Royal House[/color]: [nation]House of Walbard[/nation]
 
 [hr]
 
@@ -15,8 +14,11 @@
 [hr]
 
 [b]Public Servants;[/b]
-&amp;#129409; Head of Gov: [nation]Eserenya[/nation] (CDU)
-&amp;#129409; Head of Leg: [nation]The New Jorovian Confederation[/nation] (CDU)
+&amp;#129761; Chief Executive: [nation]Eserenya[/nation] (CDU)
+&amp;#128181; Master of Coin: [nation]The Cross Guild[/nation]
+&amp;#128483;&amp;#65039; Lord Speaker: [nation]The New Jorovian Confederation[/nation]
+&amp;#9875; Admiral of the Fleet: [nation]Valmorath[/nation]
+
 [hr]
 
 [b][color=darkred]New Nations[/color] please join our [url=https://discord.gg/vuqd3cv5Ss]Discord Server[/url][/b]
@@ -24,11 +26,11 @@
 [hr]
 
 [b]Our [u]Empire[/u] includes;[/b]
-&amp;#12322;[region]The United Kingdom[/region]
-&amp;#12322;The Commonwealth of Nations
-&amp;#12322;The Kalmar Union
-&amp;#12322;The Mongolian Empire
-&amp;#12322;The Colonial Federation
+&amp;#127468;&amp;#127463; [region]The United Kingdom[/region]
+&amp;#9884;&amp;#65039; The Commonwealth of Nations
+&amp;#127475;&amp;#127482; The Empire of Kalmar
+&amp;#127474;&amp;#127475; The Mongolian Empire
+&amp;#127477;&amp;#127479; The Colonial Federation
 
 [hr]
 
