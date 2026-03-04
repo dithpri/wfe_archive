@@ -1,10 +1,6 @@
 [Color=blue][b]Please ping the following nations: [nation]Potato Gun[/nation], [nation]Viriske[/nation], and [nation]The Communist Central Islands[/nation]! [/b][/color]
 [color=brown]Welcome to [region]Southern Namanten Empire[/region]! [/color]
-[color=green]These are the lands administered by [nation=noflag]South Namante[/nation], but all nations that aren&#39;t:[/color] 
--[color=brown]Fascists[/color]
--[color=red]Communists[/color]
--[color=orange]Raiders[/color]
-[color=purple]are allowed, if they accept South Namanten Suzerainty. [/color]
+[color=green]These are the lands administered by [nation=noflag]South Namante[/nation], but all nations that aren&#39;t[/color] [color=brown]Fascists[/color], or [color=orange]Raiders[/color] [color=purple]are allowed, if they accept South Namanten Suzerainty. [/color]
 
 [color=red]All who wish to help administer the empire are welcome to come, become a RO, talk in the RMB chat, and more![/color]
 
