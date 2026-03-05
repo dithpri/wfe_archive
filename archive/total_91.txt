@@ -2,13 +2,13 @@
 
 [font=Monospace][color=#B22222][b]&#147;Till death do us apart&#148;[/b][/color][/font]
 [hr]
-[table][tr][td=c4][font=Monospace][color=000000]Total-91 is a unified rapid-response force operating under singular command authority. Started by [nation]Great Xanarcica Empire[/nation] for her friends and others to ride through N-Day, ever since 2023.[/color][/font][/td][/tr] [tr][td][b][font=Monospace]Command Structure:[/font][/b]
+[table][tr][td=c4][font=Monospace][color=000000]Taskforce of Organized Tactical Anime Liberation &#151; 91 (TOTAL-91) is a unified rapid-response force operating under singular command authority. Started by [nation]Great Xanarcica Empire[/nation] for her friends and others to ride through N-Day, ever since 2023.[/color][/font][/td][/tr] [tr][td][b][font=Monospace]Command Structure:[/font][/b]
 &#149; High Commander 
 &#149; Deputy Commander
 [/td][td][b][font=Monospace]Operational Status:[/font][/b]
-[b]Green[/b] &#151; Readiness | 
+Green &#151; Readiness | 
 Amber &#151; Positioning | 
-Crimson &#151; Deployment | 
+[b]Crimson[/b] &#151; Deployment | 
 Black &#151; Lockdown |
 [/td][td][b][font=Monospace]Standing Directive:[/font][/b]
 Maintain readiness. NDAY IMMINENT.[/td][td]Other Regions:[list]
