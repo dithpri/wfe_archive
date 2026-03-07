@@ -1,3 +1,5 @@
+WIP
+
 [table] [tr][td][b]Imperial President[/b][/td][td][nation]Omboonga[/nation][/td][/tr] [tr][td][b]Chancellor[/b][/td][td]Vacant[/td][/tr] [tr][td][b]Second in Command[/b][/td][td]Second in line for presidency.[/td][/tr] [tr][td][b]Leader of the Ruling Party[/b][/td][td][nation]omboonga[/nation][/td][/tr] [/table]
 
 [hr]

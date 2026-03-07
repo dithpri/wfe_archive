@@ -1,7 +1,13 @@
-[b]Royal Canada[/b] is a colony of the [b]Kingdom of France[/b]. The capital is Qu&eacute;bec, which is on the Saint-Laurent river. [region]Royal Canada[/region] is an enemy and rival to English colonization of Canada. The current Viceroy is [b]Jaques Cartier.[/b]
+[b][region]Royal Canada[/region][/b] is a colony of the [b][color=blue]Kingdom of France[/color][/b]. The capital is [color=blue]Q[/color][color=red]u[/color][color=blue]&eacute;[/color][color=red]b[/color][color=blue]e[/color][color=red]c[/color], which is on the Saint-Laurent river. [region]Royal Canada[/region] is an enemy and rival to [color=red]English[/color] colonization of Canada. The current Viceroy is [b]Jaques Cartier.[/b] Royal Canada was founded on March V, Anno Dominus MDXXXIV.
+
+[u][b]CITIES IN ROYAL CANADA[/b][/u]
+
+[b]Qu&eacute;bec:[/b] Owned by [nation]Royal Laurentia[/nation]
+[b]Fort Ville-Marie:[/b] Owned by [nation]Royal Laurentia[/nation]
+[b]Gasp&eacute;:[/b] Owned by [nation]Royal Laurentia[/nation]
 
 [u][b]COLONIES IN ROYAL CANADA[/b][/u]
 
-[b][nation]Royal Laurentia[/nation]:[/b] [i]First Viceroy of [region]Royal Canada[/region]. Joined March V, Anno Dominus MDXXXIV.[/i]
+[b][nation]Royal Laurentia[/nation]:[/b] [i]First Viceroy of [color=blue][region]Royal Canada[/region][/color]. Integrated on March V, Anno Dominus MDXXXIV.[/i]
 
-Date: [b][i]March V, Anno Dominus MDXXXIV[/i][/b]
+Date: [b][i]March VI, Anno Dominus MDXXXIV[/i][/b]
