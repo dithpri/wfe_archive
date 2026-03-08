@@ -8,10 +8,10 @@
 [/td][td][b][font=Monospace]Operational Status:[/font][/b]
 Green &#151; Readiness | 
 Amber &#151; Positioning | 
-[b]Crimson[/b] &#151; Deployment | 
-Black &#151; Lockdown |
+Crimson &#151; Deployment | 
+[b]Black[/b] &#151; Lockdown |
 [/td][td][b][font=Monospace]Standing Directive:[/font][/b]
-Maintain readiness. NDAY IMMINENT.[/td][td]Other Regions:[list]
+FIRE 2.[/td][td]Other Regions:[list]
 [*] [region]Xiraia Defense Forces[/region]
 [*] [region]Astaryx[/region]
 [*] [region]The Northern Coalition[/region][/list][/td][/tr] [/table]

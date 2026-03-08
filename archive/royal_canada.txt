@@ -1,4 +1,4 @@
-[b][region]Royal Canada[/region][/b] is a colony of the [b][color=blue]Kingdom of France[/color][/b]. The capital is [color=blue]Q[/color][color=red]u[/color][color=blue]&eacute;[/color][color=red]b[/color][color=blue]e[/color][color=red]c[/color], which is on the Saint-Laurent river. [region]Royal Canada[/region] is an enemy and rival to [color=red]English[/color] colonization of Canada. The current Viceroy is [b]Jaques Cartier.[/b] Royal Canada was founded on March V, Anno Dominus MDXXXIV.
+[b][region]Royal Canada[/region][/b] is a colony of the [b][color=blue]Kingdom of France[/color][/b]. The capital is [color=blue]Q[/color][color=red]u[/color][color=blue]&eacute;[/color][color=red]b[/color][color=blue]e[/color][color=red]c[/color], which is on the Saint-Laurent river. [region]Royal Canada[/region] is an [b]enemy[/b] and rival to [color=red]English[/color] colonization of Canada. The current Viceroy is [b]Jaques Cartier.[/b] [region]Royal Canada[/region] was founded on March V, Anno Dominus MDXXXIV.
 
 [u][b]CITIES IN ROYAL CANADA[/b][/u]
 
@@ -6,8 +6,13 @@
 [b]Fort Ville-Marie:[/b] Owned by [nation]Royal Laurentia[/nation]
 [b]Gasp&eacute;:[/b] Owned by [nation]Royal Laurentia[/nation]
 
+[u][b]POLICIES[/b][/u]
+[b]No Nukes[/b]
+[b]No Raiders[/b]
+[b]No WA Delegate endorsements[/b]
+
 [u][b]COLONIES IN ROYAL CANADA[/b][/u]
 
 [b][nation]Royal Laurentia[/nation]:[/b] [i]First Viceroy of [color=blue][region]Royal Canada[/region][/color]. Integrated on March V, Anno Dominus MDXXXIV.[/i]
 
-Date: [b][i]March VI, Anno Dominus MDXXXIV[/i][/b]
+Date: [b][i]March VII, Anno Dominus MDXXXIV[/i][/b]
