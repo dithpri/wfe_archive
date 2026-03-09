@@ -1,1 +1,5 @@
-Seized from [nation=short+noflag]The Ambis[/nation] of [region]Thaecia[/region]
+[hr][b][color=#ED4719]This region has been occupied by the [region]Appalachian Empire[/region]![/b][hr]
+
+This region was seized from [nation=short+noflag]The Ambis[/nation] of [region]Thaecia[/region].
+
+[hr][url=https://greywardens.xyz/tools/wfe_index/region=the_fascist_bloc]Previous WFEs[/url][hr][/color]
