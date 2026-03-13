@@ -15,8 +15,8 @@
 
 [i][b]Foreign Affairs Minister:[/b][/i] [nation]Cossack Ukraine[/nation] (Elect: Apr. 23rd)
 [i][b]Defense Minister:[/b][/i] [nation]Neo American Union[/nation] (Elect: Apr. 29th)
-[i][b]Domestic Affairs Minister:[/b][/i] [nation]Letiutin[/nation] (Elect: Mar. 6th)
-[i][b]Communications Minister:[/b][/i] [nation]West Vazoria[/nation] (Elect: Mar. 12th)
+[i][b]Domestic Affairs Minister:[/b][/i] [nation]Letiutin[/nation] (Elect: May. 5th)
+[i][b]Communications Minister:[/b][/i] [nation]Sizacijan[/nation] (Elect: May. 13th)
 
 [i][b]First Justice:[/b][/i] [nation]Holy Barbarian Empire[/nation]
 [i][b]Second Justice:[/b][/i] [nation]Vhodesa[/nation]
@@ -26,7 +26,7 @@
 
 [b]| DOCTRINE |[/b]
 
-[i][b]Border:[/b][/i] [color=red]Closed[/color]
+[i][b]Border:[/b][/i] [color=green]Open[/color]
 [i][b]Embassy Policy:[/b][/i] [color=green]Cordial[/color]
 
 
