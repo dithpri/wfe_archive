@@ -1,8 +1,4 @@
-[table]
-[tr][td][color=002674][b]SACTO[/b][/color][/td][/tr]
-[tr][td][color=007c2e][b]Founded:[/b] 2024 JAN 11
-a [region=Dog Lake] &amp; [region=0000] allied region
-an Oracle Region (no embassy offers please)[/color][/td][/tr]
-[tr][td][color=5b5758][b]ORACLE[/b]
-&amp;lt;-- [region=The Orkney Islands] -- [region=The Raiders] --&amp;gt;[/color][/td][/tr]
-[/table]
+[color=002674][b]SACTO[/b]
+[/color][color=007c2e]
+REGION
+[b]Founded:[/b] 2024 JAN 11[/color]
