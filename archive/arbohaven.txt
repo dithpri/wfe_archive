@@ -1,4 +1,4 @@
-[table] [tr][td][b]Imperial President[/b][/td][td][nation]Arbovian Prime[/nation][/td][/tr] [tr][td][b]Chancellor[/b][/td][td]Vacant[/td][/tr] [tr][td][b]Second in Command[/b][/td][td][nation]Vacant[/nation][/td][/tr] [tr][td][b]Leader of the Ruling Party[/b][/td][td][nation]Omboonga[/nation][/td][/tr][tr][td][b]WA Delegate[/b][/td][td][nation]Vacant[/nation][/td][/tr] [/table]
+[table] [tr][td][b]Imperial President[/b][/td][td][nation]Arbovian Prime[/nation][/td][/tr] [tr][td][b]Chancellor[/b][/td][td][nation]Shaorkery Islands[/nation][/td][/tr] [tr][td][b]Second in Command[/b][/td][td][nation]CTE[/nation][/td][/tr] [tr][td][b]Leader of the Ruling Party[/b][/td][td][nation]Omboonga[/nation][/td][/tr][tr][td][b]WA Delegate[/b][/td][td][nation]Arbovian Prime[/nation][/td][/tr] [/table]
 
 [hr]
 
