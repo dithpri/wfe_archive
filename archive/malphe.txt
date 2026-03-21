@@ -1,18 +1,8 @@
-[b]# &amp;lt;&amp;lt;&amp;lt; RAIDS WELCOME AND ENCOURAGED &amp;gt;&amp;gt;&amp;gt;[/b]
+[b][color=#257DDB]This [strike]lovely region[/strike][/color] [color=#245896]rodent-infested backwater[/color] [color=#257DDB]has been visited by the[/color] [color=#245896]North Pacific Army![/color][/b]
 
-[b]print(&quot;Welcome to the region of [url=https://www.nationstates.net/nation=malphe_ii]Malphe Vytherov[/url]&quot;)[/b]
+[i][b][url=https://www.nationstates.net/region=the_north_pacific][color=#245896]The North Pacific[/color][/url][/b] [color=#257DDB]stands against the forces of Malphism.[/color][/i]
 
-[i]print(&#39;&#39;&#39;A computer chatted to itself in alarm as it noticed an airlock open and close itself for no apparent reason.
-This was because Reason was in fact out to lunch.
+[hr][color=#257DDB]Together, we have brought peace, freedom, justice, and security to[/color] [b][url=https://www.nationstates.net/nation=halsoni][color=#245896]Halsoni&#39;s[/color][/url][/b] [color=#257DDB]new empire.[/color] [color=#245896][b]Mission accomplished.[/b][/color]
+[quote=Halsoni;0][color=#257DDB]Anywhere, anytime ordinary people are given the chance to choose, the choice is the same: freedom, not tyranny; democracy, not dictatorship; the rule of law, not the rule of the secret police.[/color][/quote]
 
-A hole had just appeared in the Galaxy.
-It was exactly a nothingth of a second long, a nothingth of an inch wide,
-and quite a lot of million light years from end to end.
-As it closed up lots of paper hats and party balloons fell out of it
-and drifted off through the universe.
-A team of seven three-foot-high market analysts fell out of it and died,
-partly of asphyxiation, partly of surprise.&#39;&#39;&#39;)[/i]
-
-[b]raidedBy = [&quot;Radiant Inquisition-Perdition&quot;, &quot;Lily&quot;, &quot;The Black Hawks&quot;, &quot;Ema Skye&quot;, &quot;North Pacific Army&quot;, &quot;BOM&quot;][/b]
-
-[u]while True: print(&quot;RATS&quot;)[/u]
+[b][color=#245896]Glory to democracy, victory to the North Pacific Army![/color][/b]
