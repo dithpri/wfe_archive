@@ -1,1 +1,5 @@
-This region is held for our honored allies in [region]The Red Fleet[/region] by [region]North Korea[/region] and the [region]Korean Peoples Army[/region].
+[table]
+[tr][td][color=900009][b]Red Grand Fleet HQ[/b][/color][/td][/tr]
+[tr][td][color=004d33]an [region]The International Coalition[/region] associated region[/color][/td][/tr]
+[tr][td][color=696900][b]Founded:[/b] 2026 March 22[/color][/td][/tr]
+[/table]
