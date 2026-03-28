@@ -1,10 +1,10 @@
 [table][tr][td]
-[b]&quot;Cry &#39;Havoc,&#39; and let slip the dogs of war!&quot;[/b]
+[b]&quot;All the world&#39;s a stage, and all the men and women merely players&quot;[/b]
 
 Operated by [nation]Germania Ultima 4[/nation]
 [/td][/tr]
 [tr][td]
-Current Date: [b]June, 1755 Anno Domini[/b]
+Current Date: [b]July, 1755 Anno Domini[/b]
 [/td][/tr]
 [tr][td]
 War-score equation: (Arms Manufacturing x .35) + (Defence Forces x .35) + (Scientific Advancement x .25) &amp;#8722; (Corruption &times; .7) &amp;#8722; (Primitiveness &times; .3)

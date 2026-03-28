@@ -2,17 +2,17 @@ Replacing [region]Elemental Emp[/region]
 
 Nations currently in the region, by age:
 
-x[nation=long]Alticors Pordes[/nation] - (founded 20-Jun-2022 10:51:36)
+[nation=long]Alticors Pordes[/nation] - (founded 20-Jun-2022 10:51:36)
 [nation=long]Akarksben[/nation] - (founded 20-Jun-2022 23:29:20)
 
+[nation=long]Peripheri[/nation] - (founded 17-Mar-2023 16:18:01)
 
-
-xx[nation=long]North Poplee[/nation] - (founded 10-Aug-2023 19:18:21)
+[nation=long]North Poplee[/nation] - (founded 10-Aug-2023 19:18:21)
 
 [nation=long]Niesas Calia[/nation] - (founded 12-Aug-2023 04:57:10)
 
-*[nation=long]Djent V[/nation] - (founded 12-Mar-2026 20:11:32)
+[nation=long]Djent V[/nation] - (founded 12-Mar-2026 20:11:32)
 
-xx[nation=long]South Poplee[/nation] - (founded 17-Mar-2026 02:18:47)
+[nation=long]South Poplee[/nation] - (founded 17-Mar-2026 02:18:47)
 
 (date and time are US Pacific)
