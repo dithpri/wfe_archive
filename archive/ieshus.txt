@@ -2,23 +2,3 @@
 
 Ieshus is a region renowned for it&#39;s diplomacy, with a wide diversity of nations in it, with diverse beliefs.
 Some nations might be closer than others, but this region sparkles with all kinds of nations and alliances.
-
-[b]Map Information:[/b]
-[i]North America:[/i]
-Black: [nation]Remenents of the Enclave[/nation]
-Blue: [nation]Socialist Quebec[/nation]
-Red: [nation]Danmaurk[/nation]
-
-[i]Mainland (North to South):[/i]
-Red: [nation]Danmaurk[/nation]
-Green: [nation]Aukeland[/nation]
-Black: [nation]Iontainia[/nation]
-Blue: [nation]Aufalconland[/nation]
-Light Grey: [nation]Vinkenmere[/nation]
-Grey: [nation]Gothterre[/nation]
-Light Grey (East): [nation]Rebeznia[/nation]
-Red (Lower): [nation]Zrakovija[/nation]
-Dark Blue: [nation]Sabbiadora[/nation]
-Green (Lower): [nation]North Narna[/nation]
-
-The Rebeznian/Aukeland Mixed Zones are parts of Rebeznia where Aukian soldiers are stationed for peacekeeping.
