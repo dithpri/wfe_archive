@@ -1,6 +1,31 @@
-[b][color=#AE1B44]W[/color][color=#AE1E43]e[/color][color=#AF2143]l[/color][color=#B02443]c[/color][color=#B12743]o[/color][color=#B22A43]m[/color][color=#B32D43]e[/color] [color=#B53343]t[/color][color=#B63643]o[/color] [color=#B83C43]t[/color][color=#B93F43]h[/color][color=#BA4243]e[/color] [color=#BC4843]S[/color][color=#BD4B43]u[/color][color=#BE4E43]p[/color][color=#BF5143]r[/color][color=#C05443]e[/color][color=#C15743]m[/color][color=#C25A43]e[/color]  [color=#C56343]C[/color][color=#C66643]o[/color][color=#C76943]u[/color][color=#C76C42]r[/color][color=#C86F42]t[/color][color=#C97242],[/color] [color=#CB7842]t[/color][color=#CC7B42]h[/color][color=#CD7E42]e[/color] [color=#CF8442]h[/color][color=#D08742]i[/color][color=#D18A42]g[/color][color=#D28D42]h[/color][color=#D39042]e[/color][color=#D49342]s[/color][color=#D59642]t[/color] [color=#D79C42]c[/color][color=#D89F42]o[/color][color=#D9A242]u[/color][color=#DAA542]r[/color][color=#DBA842]t[/color] [color=#DDAE42]o[/color][color=#DEB142]f[/color] [url=region=Aesica]Aesica[/url][color=#E0B742].[/color]
+[b][color=AE1B44]Welcome[/color][/b] to the [b][color=E1BA42]Supreme Court[/color][/b] of [b][url=region=aesica]Aesica![/url][/b]
+[i][color=#AE1B44]E[/color][color=#B12443]x[/color] [color=#B73743]M[/color][color=#BA4043]o[/color][color=#BD4943]s[/color][color=#C05343],[/color] [color=#C66543]L[/color][color=#C96F42]i[/color][color=#CC7842]b[/color][color=#CF8142]e[/color][color=#D28B42]r[/color][color=#D59442]t[/color][color=#D89D42]a[/color][color=#DBA742]s[/color][color=#DEB042]![/color][/i]
 
-Justices:
+[hr][b][font=nationstates][color=AE1B44]&amp;#62030;[/color][/font] Justices:
 [list][*]Chief Justice: [nation]Aztopiand[/nation][/b]
 [list][*]Snr Associate Justice: [nation]Northevia[/nation]
 [*]Jnr Associate Justice: [nation]Vacant[/nation][/list][/list]
+
+[hr][b][u]Current Case[/u] | [/b] [i]None[/i]
+
+[b][u]Recent Case[/u] | [/b] [i][nation]Snalland[/nation] v. Aesica [b][url=page=dispatch/id=2764632](Verdict)[/url][/b][/i]
+
+[b][u]Upcoming Case[/u] | [/b] [i]None[/i]
+
+[hr][b]Filing a Case[/b]
+
+[i]In order to file a case, use the format listed below for the type of case, and post it on The Supreme Court RMB.[/i]
+
+[list][*][b]Criminal Case[/b]
+DEFENDANT:
+For Each Count, State:
+ALLEGED OFFENCE:
+PARTICULARS OF OFFENCE:
+[*][b]Review Petition[/b]
+CLAIMANT:
+LAW OR TREATY PETITIONED FOR REVIEW:
+PARTICULARS OF THE PETITION:
+[*][b]Appeal[/b]
+PARTIES:
+JUSTICE THAT ISSUED THE RULING:
+NATURE OF APPEAL:[/list]
