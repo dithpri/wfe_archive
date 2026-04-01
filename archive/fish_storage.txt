@@ -1,5 +1,5 @@
 Puppet storage for [nation]ForFishing[/nation]
-Regions: TNP, TSP, The Wellspring, Vibonia, NBB
+Regions: TNP, TSP, The Wellspring, NBB, and More
 
 [b]Do NOT store your puppets here.[/b]
 
