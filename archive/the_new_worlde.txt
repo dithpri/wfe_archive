@@ -2,6 +2,5 @@
 [/color][color=5b5758]
 REGION
 [b]Founded:[/b] 2024 Sep21
-an [region=Ancient Lands] region
-[/color][color=004d33]
-Embassy offers accepted[/color]
+a [region=United States of America] allied region
+[/color]
