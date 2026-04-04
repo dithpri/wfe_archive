@@ -6,7 +6,7 @@
 [list][*]Snr Associate Justice: [nation]Northevia[/nation]
 [*]Jnr Associate Justice: [nation]Vacant[/nation][/list][/list]
 
-[hr][b][u]Current Case[/u] | [/b] [i]None[/i]
+[hr][b][u]Current Case[/u] | [/b] [i][nation]Snalland[/nation] v. [nation]Kaiserburgia[/nation][/i]
 
 [b][u]Recent Case[/u] | [/b] [i][nation]Snalland[/nation] v. Aesica [b][url=page=dispatch/id=2764632](Verdict)[/url][/b][/i]
 
