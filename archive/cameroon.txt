@@ -17,7 +17,7 @@ FACTS
 REGION
 [b]Founded:[/b] 2012 Jan 11
 [b]Featured:[/b] 2022 Feb 05
-this is an [region=Ancient Lands] Nation Region
-associated with [region=United States of America] and [region=0000]
+puppet storage holding region
+this is a [region=Metropolis] associated Region
 [/color][color=004d33]
 Embassy Offers Welcome[/color]
