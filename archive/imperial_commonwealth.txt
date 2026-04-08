@@ -1,12 +1,1 @@
-[b][color=goldenrod]Welcome to the Imperial Commonwealth[/color][/b]
-[i][b]|[/b] [color=indigo]Exspectata ut Imperium Communitatis[/color] [b]|[/b][/i]
-[hr][hr][b]| [color=goldenrod]Regional Affairs[/color] |[/b]
-[list][*][color=indigo][b]Emperor of the Commonwealth:[/b] [i]His Imperial Majesty[/i] [b][nation]Imperial Territories[/nation][/b][/color]
-
-[*][color=indigo][b]Embassy Policy:[/b] Embassy requests are determined on a case-by-case basis.[/color]
-
-[*][color=indigo][b]Entry Policy:[/b] Access is restricted to invite only.[/color][/list]
-
-[hr][hr][b]| [color=goldenrod]Regional News[/color] |[/b]
-[list][*][color=indigo]The Imperial Commonwealth is under development.[/color][/list]
-[hr][hr]
+[b]Imperial Commonwealth[/b]
