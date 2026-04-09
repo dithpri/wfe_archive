@@ -1,0 +1,8 @@
+[region]Brykoth[/region]
+
+[b]Current Speaker[/b]:
+[nation]Hausopia[/nation]
+
+[b]Nations[/b]:
+[nation]North Tedland[/nation]
+[nation]South Tedland[/nation]
