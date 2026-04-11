@@ -1,1 +1,5 @@
-ddd
+[color=maroon][b]Welcome to the Kingdom of Lydia[/b][/color]
+[hr][b]Official name:[/b] [i]Kingdom of Lydia-Sardis[/i]
+[b]Capital:[/b] [region]Sardis[/region]
+[b]King:[/b] Croesus II of [nation]Lydia-Sardis[/nation]
+[b]Currency:[/b] Croeseid

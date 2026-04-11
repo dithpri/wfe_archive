@@ -1,1 +1,5 @@
-[b][region]The United Kingdom[/region][/b] ||| Great Britain &amp; Ireland
+[region]The United Kingdom[/region]
+[b][color=Navy]Great Britain[/color] &amp; [color=orange]Northern Ireland[/color][/b]
+
+Sovereign: [nation]Henry Stuart[/nation] (Henry IX)
+Ruling House: [nation]Stuart Dynasty[/nation]
