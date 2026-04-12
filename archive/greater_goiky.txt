@@ -6,13 +6,13 @@ Republics: [nation]Lvaria[/nation]
 Kingdoms: [nation]Mariaaaaa[/nation], [nation]Ethia[/nation], [nation]Yoleland[/nation]
 Empires: None for now.
 Free Lands: [nation]Gorvenu[/nation], [nation]Yellowface Warehouse[/nation], [nation]Licentiea[/nation]
-Misc: [nation]Taedonggang[/nation], [nation]Joudeika[/nation]
+Misc: [nation]Taedonggang[/nation]
 
 The Goikian Cemetery:
-[nation]Great goiky[/nation], [nation]Grupheetie[/nation], [nation]Isla del cuatro[/nation], [nation]Nananstan[/nation], [nation]Katukina[/nation], [nation]Newherth[/nation], [nation]Rishent burrglen[/nation], [nation]Varstovia[/nation], [nation]Milantis[/nation], [nation]Kemia[/nation], [nation]getting_map_for_goiky[/nation], [nation]navika[/nation], [nation]fahrenheita[/nation], [nation]Yuri-Land[/nation], [nation]the cascadian peninsula[/nation]
+[nation]Great goiky[/nation], [nation]Grupheetie[/nation], [nation]Isla del cuatro[/nation], [nation]Nananstan[/nation], [nation]Katukina[/nation], [nation]Newherth[/nation], [nation]Rishent burrglen[/nation], [nation]Varstovia[/nation], [nation]Milantis[/nation], [nation]Kemia[/nation], [nation]getting_map_for_goiky[/nation], [nation]navika[/nation], [nation]fahrenheita[/nation], [nation]Yuri-Land[/nation], [nation]Joudeika[/nation]
 
 List of Departees (Active):
-[nation]Greater-Agnolia[/nation], [nation]New Wichita[/nation], [nation]britaine_union[/nation]
+[nation]Greater-Agnolia[/nation], [nation]New Wichita[/nation], [nation]britaine_union[/nation], [nation]the cascadian peninsula[/nation]
 
 List of Departees (Inactive):
 [nation]Ussr union[/nation], 
