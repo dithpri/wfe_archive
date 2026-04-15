@@ -1,0 +1,1 @@
+puppet storage dedicated to maxing out certain stats upon creation
