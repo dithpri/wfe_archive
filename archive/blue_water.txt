@@ -1,2 +1,1 @@
-[color=green][b]Blue Water[/b]
-a [region=United States of America] region[/color]
+[color=blue][b]Blue Water[/b][/color]
