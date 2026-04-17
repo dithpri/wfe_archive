@@ -2,9 +2,7 @@
 
 [color=red][u]Member regions:[/u][/color]
 [region]Slavia[/region]
-[region]The Balkan Bloc[/region]
 [region]Polish Lithuanian common wealth[/region]
-[region]Holy Siberian Empire[/region]
 [region]Based Belarus[/region]
 
 [color=darkorange][u]Observer regions:[/u][/color]
