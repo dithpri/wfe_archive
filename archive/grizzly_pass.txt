@@ -1,1 +1,2 @@
-aye
+[b]Intel S2600GL and S2600GZ two-socket motherboards, intended for rackmount servers. Custom form factor, C600 chipset (Patsburg), Socket R (LGA 2011). Supports the Xeon E5-2600 series CPU (Jaketown).[hr]
+[region=Lily][/b]

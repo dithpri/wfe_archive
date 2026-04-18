@@ -8,11 +8,9 @@
 
 [hr]
 
-[b]HIRM the Emperor:[/b] [nation]King Carlisle I[/nation]
-HIRM the Empress: [nation]Queen Amelie I[/nation]
-
-[b]Ruling House:[/b] [nation]The House of Stuart[/nation]
-Official House: [nation]Stuart-Glucksburg-Lorraine[/nation]
+[color=840042][b]HIRM the Emperor[/color]:[/b] [nation]King Carlisle I[/nation]
+[color=purple][b]HIRM the Empress[/color]:[/b] [nation]Queen Amelie I[/nation]
+Imperial Household: [nation]Stuart Dynasty[/nation]
 
 [hr]
 
@@ -29,6 +27,6 @@ Official House: [nation]Stuart-Glucksburg-Lorraine[/nation]
 [hr]
 
 [b][color=5A071D][u][font=nationstates]&amp;#59425;[/font] World Assembly (United Nations)[/u][/color][/b]
-[list][*][b][url=page=sc][color=green][u][font=nationstates]&amp;#59416;[/font] Security Council Resolution:[/u][/color][/url] [color=840042]TBD[/color][/b] &amp;#10067;
-[*][b][url=page=ga][color=green][u][font=nationstates]&amp;#62030;[/font] General Assembly Resolution:[/u][/color][/url] [color=5A071D]Vote NAY[/color][/b] &amp;#10062;
+[list][*][b][url=page=sc][color=green][u][font=nationstates]&amp;#59416;[/font] Security Council Resolution:[/u][/color][/url] [color=840042]Vote Aye[/color][/b] &amp;#9989;
+[*][b][url=page=ga][color=green][u][font=nationstates]&amp;#62030;[/font] General Assembly Resolution:[/u][/color][/url] [color=5A071D]TBD[/color][/b] &amp;#10067;
 [/list]
