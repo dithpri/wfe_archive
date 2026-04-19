@@ -7,7 +7,7 @@
 regions claimed:
 [region]Regionate[/region]
 [region]Habianclazia[/region]
-[nation]Licheot[/nation]
+[region]Licheot[/region]
 
 [hr]
 i should go back to card farming
