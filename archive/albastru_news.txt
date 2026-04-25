@@ -1,8 +1,8 @@
 [b][colour=blue]Welcome to [region]Albastru News[/region]! This is where all the news stuff for Albastru will take place![/colour][/b]
 
-[table][tr][td]Albastru News Nations[/tr][/td]
-[td][nation=long]I LOVE NEWS[/nation][/td][td][nation=long]Bluu[/nation][/td]
-[tr][td][nation=long]Snowarlo[/nation][/td][td][nation=long]Ravengainia[/nation][/td][/tr]
-[tr][td][nation=long]Pressian News[/nation][/td][td][nation=long]National Press[/nation][/td][/tr]
-[tr][td][nation=long]Furi of Wolflia[/nation][/td][td][nation=long]wolflia[/nation][/td][/tr][/table]
+[table][tr][td]Albastru News Nations[/td][td]Albastru Nations[/tr][/td]
+[td][nation=long]I LOVE NEWS[/nation]:[/td][td][nation=long]Bluu[/nation][/td]
+[tr][td][nation=long]Snowarlo[/nation]:[/td][td][nation=long]Ravengainia[/nation][/td][/tr]
+[tr][td][nation=long]Pressian News[/nation]:[/td][td][nation=long]National Press[/nation][/td][/tr]
+[tr][td][nation=long]Furi of Wolflia[/nation]:[/td][td][nation=long]wolflia[/nation][/td][/tr][/table]
 
