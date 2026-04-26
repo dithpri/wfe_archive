@@ -1,0 +1,1 @@
+This is a set of bunker networks. A bunker is a second region of the main region, used in the event of an attack on the main region.
