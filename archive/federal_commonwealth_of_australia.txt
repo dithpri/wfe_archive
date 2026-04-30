@@ -1,2 +1,2 @@
 [color=green][b]Federal Commonwealth of Australia[/b]
-a [nation=short]Juergen[/nation] region[/color]
+a [region]Sydney[/region] and [region]Canberra[/region] region[/color]
