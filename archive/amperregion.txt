@@ -1,1 +1,1 @@
-[nation]Zalann[/nation]ian ampersand adjacent puppets
+[region]Amperregion[/region] is one of two puppet storages owned by [nation=noflag]Zalann[/nation], with the other being the [region]Zalannian Kirbs[/region].
