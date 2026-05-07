@@ -1,3 +1,12 @@
 Sejam bem vindos 
 Bienvenido 
 Welcome 
+
+&aacute;rea km&sup2; das na&ccedil;&otilde;es de [region]Jcav[/region]:
+1)[nation]Vila Sao jose[/nation]:1.246.700km&sup2;
+2)[nation]Cesarinos[/nation]:1.104.302km&sup2;
+3)[nation]Leoninos[/nation]:881.912km&sup2;
+4)[nation]Juliense[/nation]:587.038km&sup2;
+5)[nation]Valencianos[/nation]:322.461km&sup2;
+
+6)[nation]Azevedolinos[/nation]:56.786km&sup2;
