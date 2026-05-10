@@ -10,12 +10,12 @@
 [color=grey]N/A[/color]
 [color=blue][font=nationstates]&amp;#59416;[/font] [font=georgia]Army Status[/font][/color]
 [color=lightgreen]Active[/color][/b][/td][td]
-[font=nationstates][color=lightblue]&amp;#59396; Our Duties as Citizens[/color][/font][hr][font=nationstates][b][color=lightblue]&amp;#59425; Join the [/color][url=https://www.nationstates.net/page=un][color=darkblue]World Assembly[/color][/url] [color=lightblue]and endorse the Delegate [nation]Fresh Shores[/nation][/color][/b][/font]
+[font=nationstates][color=lightblue]&amp;#59396; Our Duties as Citizens[/color][/font][hr][font=nationstates][b][color=lightblue]&amp;#59425; Join the [/color][url=https://www.nationstates.net/page=un][color=darkblue]World Assembly[/color][/url] [color=lightblue]and endorse the Delegate [nation=longname]Fresh Shores[/nation][/color][/b][/font]
 
 [color=lightblue][font=nationstates]&amp;#59406;&amp;#59451; Recruit new members[/font][/color]
 
 [font=nationstates][color=lightblue]&amp;#59393; Keep our [/color][url=https://www.nationstates.net/page=display_region_rmb/region=frontier_athena][color=lightblue][u]RMB[/u][/color][/url][color=lightblue] active[/color][/font][/td][td][font=nationstates][color=lightblue]&amp;#59408; Endorsement Cap[/color]
-[color=red]0[/color][/font][/td][td][font=nationstates][color=green][b]&amp;#59425; World Assembly Affairs[/b][/color]
+[color=red]0[/color][/font][/td][td][font=nationstates][color=green][b][url=https://www.nationstates.net/nation=fresh_shores/detail=factbook/id=2775126]&amp;#59425; World Assembly[/url][/b][/color]
 [color=lightblue]General Assembly:[/color] [color=lightgreen]For[/color]
 [color=darkred]Security Council:[/color] [color=grey]N/A[/color][/font][/td][td]
 |
