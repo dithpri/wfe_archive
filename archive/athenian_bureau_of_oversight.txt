@@ -1,7 +1,12 @@
-[font=nationstates][b][color=darkblue]A[/b]thenian [b]B[/b]ureau of [b]O[/b]versight[/color]
-[sub][i]Hatred [color=red]can&#39;t[/color] hide from us[/i][/sub][/font]
+[font=nationstates][b][color=blue]A[/color][/b][color=#0080FF]thenian[/color] [color=white][b]B[/b][/color][color=#0080FF]ureau of [/color][color=gold][b]O[/b][/color][color=#0080FF]versight[/color]
+[sub][i]Hate [color=red]can&#39;t[/color] hide from us[/i][/sub][/font]
 [hr]
-[font=nationstates][color=blue]If the [url=https://www.nationstates.net/region=athenian_armed_airforce]AAA[/url] is the hand, 
+[table=plain][tr][td][font=nationstates][color=#0080FF]If the [url=https://www.nationstates.net/region=athenian_armed_airforce]AAA[/url] is the hand, 
 and [url=https://www.nationstates.net/region=frontier_athena]Frontier Athena[/url] is the heart,
-[u]We are the mind.[/u][/color]
-[sub][i]From the Department of Internal and External Oversight[/i][/sub][/font]
+We are the [u]mind[/u].[/font][/color][/td][td][b][color=#0080FF] [!] [i]Completed Treaties and Operations:[/i][/b][/color]
+[list]
+[*][font=nationstates]&amp;#59426;[/font] [url=https://www.nationstates.net/page=dispatch/id=2778745][color=#007FFF]Peace Treaty: Athena-Elite[/color][/url]
+[*][font=nationstates]&amp;#59408;[/font] [url=https://www.nationstates.net/region=syfediu][color=#007FFF]Refounding: Syfediu[/color][/url][/list][/td][/tr][/table]
+[hr]
+
+[sub]&amp;gt; [i]From the Department of Internal and External Oversight[/i][/sub]
