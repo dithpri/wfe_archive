@@ -1,11 +1,11 @@
 [color=00008B][b]TARKINNIA[/b][/color]
 [color=DAA520] [b]District of Conservadom, Amoncolia[/b][i][/i][/color]
-[color=B22222][b]The Capital of the Republic of Tarkin[sup][/sup][/b][/color]
+[color=B22222][b]The Capital of the Republic of Tarkin[/b][/color]
 
-[b][url=https://www.nationstates.net/page=dispatch/id=1937974]Regional Constitution[/url] | [url=https://www.nationstates.net/nation=tunasai/detail=factbook/id=2611267]Regional Map[/url] | [url=https://www.nationstates.net/nation=tunasai/detail=factbook/id=2611272]Biome Map[/url] | [url=https://www.nationstates.net/nation=tunasai/detail=factbook/id=2651526]Height Map[/url] |  [url=https://www.nationstates.net/region=Tarkin]Tarkin[/url] | [url=https://www.nationstates.net/region=Nerdfighteria]Colony of Nerdfighteria[/url] | [url=https://www.nationstates.net/region=katzen]Colony of Katzen[/url] |
+[b][url=https://www.nationstates.net/page=dispatch/id=1937974]Regional Constitution[/url] | [url=https://www.nationstates.net/nation=tunasai/detail=factbook/id=2611267]Regional Map[/url] | 
 
-[hr][color=DC143C]TERM I, 2026[/COLOR]
-[u][color=4169E1]Executive:[/color][/u][/b]
+[hr][color=DC143C][b]TERM II, 2026[/b][/COLOR]
+[u][color=4169E1][b]Executive:[/b][/color][/u]
 President: [nation]Libertarian Washington[/nation]
 Vice President: [nation]Tunasai[/nation]
 Attorney General [nation]MalDorAeHan[/nation]
@@ -13,20 +13,19 @@ Secretary of State: [nation]Vawfiss[/nation]
 Capital Governor: [nation]TuNasai[/nation]
 
 [color=2F4F4F][b][u]Senate:[/u][/b][/color]
-- [nation]Hofstra[/nation]
-- [nation]Britarvia[/nation]
+- [nation]Hofstra[/nation], [i]Speaker[/i]
 - [nation]Bobbouis[/nation]
-- [nation]Dixiecratia[/nation]
 - [nation]Yogoslavia[/nation]
+- [nation]Ibandigo[/nation]
+- [nation]Albertexa[/nation]
 
 [color=D2691E][b][u]Supreme Court:[/color][/b][/u]
 [i]Chief Justice:[/i] [nation]Manhassett[/nation]
-Associate Justice: [nation]Saint Michael The Angel[/nation]
-Associate Justice: [nation]Old democratia[/nation]
+Justice: [nation]Saint Michael The Angel[/nation]
+Justice: [nation]Old democratia[/nation]
 
 [b][color=DC143C]SENATE:[/color]
 [url=https://www.nationstates.net/nation=tunasai/detail=factbook/id=2693745]Senate Rules and Procedures[/url]
-[COLOR=TEAL]PROPOSED: SPECIAL RESOLUTION[/b][/color]
-[color=orange][b]FLOOR ACTION:[/b][/color][url=https://www.nationstates.net/nation=tunasai/detail=factbook/id=2765030] Resolution on the Construction of the Grand Tarkin Canal, Hofstra[/url] [b]|[/b][color=orange] CURRENT VOTE: [/COLOR] [color=blue][b]1-0-0[/b][/color]
-
+[COLOR=TEAL]PROPOSED: The Emancipation Act, [sub]Pinned Below[/sub][/b][/color][color=Maroon] [b]CURRENT VOTE:[/b] [/COLOR][color=blue][b]0-0-0[/b][/color]
+[color=Navy][b]RECENT FLOOR ACTIONS:[/b][/color][b](1)[/b] Speaker [nation]Hofstra[/nation] elected; [b](2)[/b] Cabinet Nominees Made &amp; Confirmed; [b](3)[/b] Supreme Court Confirmed
 [b][url=https://www.nationstates.net/nation=tarkin/detail=factbook/id=2602528]Political Parties[/url] |[url=https://www.nationstates.net/nation=tarkin/detail=factbook]Regional Repository[/url] |[/b]
