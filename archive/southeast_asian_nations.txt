@@ -15,6 +15,6 @@ Philippines ([nation]LasFelipinas[/nation])
 Singapore ([nation]Sing-a-pore[/nation])
 Thailand ([nation]Kingdom of Thailand[/nation]) 
 Vietnam ([nation]Communist Viet Nam[/nation])
-East Timor (Representative TBA)
+East Timor ([nation]TimorLorosae[/nation])
 
 Alert Status: Green
