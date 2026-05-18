@@ -1,0 +1,13 @@
+UK Commonwealth of Nations
+
+King-Emperor: [nation]King Carlisle I[/nation]
+
+Queen-Empress: [nation]Queen Amelie I[/nation]
+
+[region]The United Kingdom[/region]
+
+[region]The Empire of Walbard[/region]
+
+[region]India Official[/region]
+
+[region]Canada Official[/region]
