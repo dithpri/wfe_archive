@@ -1,11 +1,14 @@
 [b]Welcome to the Kingdom of [color=blue]Scotland[/color] and [color=green]Ireland[/color][/b]
 
-[color=orange][i]Strength ~ Liberty ~ Unity[/color][/i]
+[hr][hr]
 
-[color=darkred][b]HIRM the King[/color]:[/b] [nation]King Carlisle I[/nation]
-[color=purple][b]HIRM the Queen[/color]:[/b] [nation]Queen Feline I[/nation]
-[color=red][b]Ruling House[/color]:[/b] [nation]House of Tudor[/nation]
+King of Scotland and Ireland: [nation]King Carlisle I[/nation]
+Queen of Scotland and Ireland: [nation]Queen Amelie I[/nation]
 
 [hr]
 
-Scotland and Ireland are constituent countries of [region]the United Kingdom[/region]
+Ruling House: [nation]Stuart Dynasty[/nation]
+
+[hr]
+
+Scotland and Ireland are countries of [region]the United Kingdom[/region]
