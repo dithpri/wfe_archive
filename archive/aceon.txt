@@ -11,7 +11,7 @@
 [i][b]Chief Executive/Governor:[/b][/i] [nation]Sovern[/nation]
 
 [i][b]Secretary General:[/b][/i] [nation]Greater Viking Empire[/nation] (Elect: Sept. 4th, 2026)
-[i][b]Chancellor/WA Delegate:[/b][/i] N/A (Vacant)
+[i][b]Chancellor/WA Delegate:[/b][/i] [nation]Imperii Feminam[/nation] (Elect: May. 19th, 2027) 
 
 [i][b]Foreign Affairs Minister:[/b][/i] [nation]Cossack Ukraine[/nation] (Elect: Jun. 22nd)
 [i][b]Defense Minister:[/b][/i] [nation]Helric[/nation] (Elect: Jun. 28th)
@@ -26,7 +26,7 @@
 
 [b]| DOCTRINE |[/b]
 
-[i][b]Border:[/b][/i] [color=red]Closed[/color]
+[i][b]Border:[/b][/i] [color=green]Open[/color]
 [i][b]Embassy Policy:[/b][/i] [color=green]Cordial[/color]
 
 
