@@ -1,5 +1,19 @@
-[b]Welcome to a land of honor, territory, and loyalty. 
-Every pawstep here matter. Borders are not line, they are lifelines. [/b]
-[i]Choose your clan: [/i]
-- [color=pistachio] Windcliff Territories [/color]
-- Riverwatch Basin
+[color=salmon][b]Welcome to a land of honor, territory, and loyalty. [/color]
+[color=maroon]Every pawstep here matter. Borders are not line, they are lifelines. [/b][/color]
+[color=orange][i]Choose your clan: [/i][/color]
+- [color=gold] Sunstep Meadows (Thunderclan) [/color]
+- [color=green] Windcliff Territories (Windclan) [/color]
+- [color=teal] (Skyclan) [/color]
+- [color=navy] Riverwatch Basin (Riverclan) [/color]
+- [color=purple] (Shadowclan) [/color]
+- [color=silver] (Starclan) [/color]
+- [color=grey] (Dark Forest) [/color]
+[i]Choose your role[/i]
+- Leader
+- Deputy
+- Warrior
+- Queen
+- Medicine cat
+- Apprentice
+- Kit
+- Kittypet

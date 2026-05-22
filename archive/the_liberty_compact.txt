@@ -2,11 +2,12 @@ The Liberty Compact (TLC) is an organization of regions sharing the ideals of co
 
 [u][b]1st Consul:[/b][/u][nation]The Confederacy of Beastland[/nation]
 [u][b]2nd Consul:[/b][/u] [nation]Western Mars[/nation]
+[u][b]3rd Consul:[/b][/u] [nation]Derenus[/nation]
 
-[u]Chief Justice of the Tribunal:[/u] [nation]Bavium[/nation]
+[u]Chief Justice:[/u]
 
--[u]Minister of Defense[/u]: [nation]Bavium[/nation]
--[u]Chairman of the Joint Chiefs of Staff (CJCS):[/u] VACANT
+-[u]Minister of Defense[/u]: [nation]NORTINEW[/nation]
+-[u]Chairman of the Joint Chiefs of Staff (CJCS):[/u]
 -[u]Chief of Staff of the Common Army[/u]: [nation]The Tro Zimoub Islands[/nation]
 -[u]Chief of Staff of TLC Intelligence Agency[/u]:
 
