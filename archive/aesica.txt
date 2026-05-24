@@ -14,6 +14,6 @@
 [*][color=AE1B44][font=nationstates]&amp;#59396;[/font][/color] [url=page=dispatch/id=2710319][color=E1BA42][u]Nation of the Week:[/u][/color][/url] [nation]Aztopiand[/nation][/b][/list]
 
 [hr][b][color=AE1B44][u][font=nationstates]&amp;#59425;[/font] World Assembly[/u][/color][/b]
-[list][*][b][url=page=ga][color=E1BA42][u][font=nationstates]&amp;#62030;[/font] General Assembly:[/u][/color][/url] [color=green]FOR[/color] [url=page=dispatch/id=2712171#ga][color=black](Why?)[/color][/url]
-[*][url=page=sc][color=E1BA42][u][font=nationstates]&amp;#59416;[/font] Security Council:[/u][/color][/url] [color=green]FOR[/color] [url=page=dispatch/id=2775955#sc][color=black](Why?)[/color][/url][/b]
+[list][*][b][url=page=ga][color=E1BA42][u][font=nationstates]&amp;#62030;[/font] General Assembly:[/u][/color][/url] [color=red]AGAINST[/color] [url=page=dispatch/id=2712171#ga][color=black](Why?)[/color][/url]
+[*][url=page=sc][color=E1BA42][u][font=nationstates]&amp;#59416;[/font] Security Council:[/u][/color][/url] [color=red]AGAINST[/color] [url=page=dispatch/id=2775955#sc][color=black](Why?)[/color][/url][/b]
 [/list]
