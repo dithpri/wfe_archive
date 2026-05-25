@@ -1,8 +1,15 @@
-[b]British Empires, Kingdoms, Regions.[/b]
-
 [b]Welcome to the [nation]UK Anglosphere[/nation][/b]
 
-[list][color=red][*][b]&amp;#10221;--&amp;#10219; [region]The United Kingdom[/region][/color]
-[color=darkyellow][*]&amp;#10221;--&amp;#10219; [region]The Empire of Walbard[/region][/color][/b]
+[b]Anglo Empires, Kingdoms, Regions[/b]
+
+[list][color=red][*][b]&amp;#10221;--&amp;#10219; [region]United States Official[/region][/b][/color]
+[color=navy][*][b]&amp;#10221;--&amp;#10219; [region]The United Kingdom[/region][/color]
+[color=navy][*]&amp;#10221;--&amp;#10219; [region]United Kingdom Official[/region][/color]
+[color=orange][*]&amp;#10221;--&amp;#10219; [region]Ireland Official[/region][/b][/color]
+[color=navy][*][b]&amp;#10221;--&amp;#10219; [region]Durham Official[/region][/b][/color]
+[color=darkred][*][b]&amp;#10221;--&amp;#10219; [region]The Empire of Walbard[/region][/color][/b]
 [color=red][*][b]&amp;#10221;--&amp;#10219; [region]Canada Official[/region][/b][/color]
-[color=red][*][b]&amp;#10221;--&amp;#10219; [region]Australia Official[/region][/color][/b][/list]
+[color=orange][*][b]&amp;#10221;--&amp;#10219; [region]India Official[/region][/b][/color]
+[color=green][*][b]&amp;#10221;--&amp;#10219; [region]Jamaica Official[/region][/b][/color]
+[color=navy][*][b]&amp;#10221;--&amp;#10219; [region]Australia Official[/region][/color][/b]
+[color=red][*][b]&amp;#10221;--&amp;#10219; [region]New Zealand Official[/region][/b][/color][/list]

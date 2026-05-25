@@ -1,14 +1,1 @@
-.[b]These regions have been crushed by the unstoppable might of two naval powerhouses![/b]
-
-[color=Green]The Eastern Pacific Sovereign Armada[/color]
-[color=orange]Delegate (Trigger)[/color] [nation]Dremaur[/nation]
-[color=#00ff6f]Sailor[/color] [nation]Jiangbei[/nation]
-[color=#00ff6f]Sailor[/color] [nation]The Flash[/nation]
-[color=#00ff6f]Sailor[/color] [nation]Flame of Dio[/nation]
-
-
-
-[color=Red]The West Pacific Armed Forces[/color]
-[color=Red]TWPAF - Sailing Master[/color] [nation]Witchcraft and Sorcery[/nation]
-[color=Red]TWPAF - Captain of the Fleet[/color] [nation]United Adaikes[/nation]
-[color=Red]TWPAF - Rum Runner[/color] [nation]Staneburg[/nation]
+.
