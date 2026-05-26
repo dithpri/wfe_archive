@@ -1,6 +1,11 @@
-[color=006300][b]North Columbia[/b][/color]
-
-[color=636300]REGION
+[color=006300][b]North Columbia[/b]
+[/color][color=543210]
+[i]an unofficial Name for mainland British Columbia[/i]
+[b]Capital:[/b] Fort Langley (1858)
+New Westminster (1859)
+AKA [region=British Columbia] until 1866
+[/color][color=636300]
+REGION
 [b]Founded:[/b] 2019 Sep 11
 [b]Featured:[/b] 2020 Sec 04
 [b]Sister Rgions:[/b] [region=Columbia]
