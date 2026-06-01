@@ -16,3 +16,5 @@
 &amp;#9830; [region]London GB[/region] (Run by [nation]New City of London[/nation])
 
 &amp;#9830; [region]British Colonies Of Burma[/region] (Run by [nation]British Rangoon[/nation])
+
+&amp;#9830; [region]British America[/region] (Run by [nation]Colony of British America[/nation])
