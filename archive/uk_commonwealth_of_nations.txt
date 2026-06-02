@@ -11,3 +11,7 @@ Queen-Empress: [nation]Queen Amelie I[/nation]
 [region]India Official[/region]
 
 [region]Canada Official[/region]
+
+[region]Australia Official[/region]
+
+[region]New Zealand Official[/region]

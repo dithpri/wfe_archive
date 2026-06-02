@@ -1,43 +1,71 @@
 [hr][table=noheader]
-[tr][td=r3][b][color=#0062B3]&amp;#1605;&amp;#1585;&amp;#1581;&amp;#1576;&amp;#1575;&amp;#1611;[/color] | [color=#FF9966]Bienvenue[/color] | [color=#001132]&amp;#27426;&amp;#36814;[/color] | Welcome[/b]
-[sub][i]to the [b][color=#000C32]Democratic[/color] [color=#005CAF]People&#39;s[/color] [color=#0075F1]Empire[/color] [color=#F7B901]of[/color] [color=#E67031]Corsair[/color][/b][/i][/sub][/td][/tr]
+
+[tr][td=r3]
+
+[b][color=0062B3]&amp;#1605;&amp;#1585;&amp;#1581;&amp;#1576;&amp;#1575;&amp;#1611;[/color] [color=0062b3]|[/color] [color=FF9966]Bienvenue[/color] [color=0062b3]|[/color] [color=E40303]&amp;#27426;&amp;#36814;[/color] [color=0062b3]|[/color] [color=008026]Welcome[/color][/b]
+[sub][i]to the [b][color=000C32]Democratic[/color] [color=005CAF]People&#39;s[/color] [color=0075F1]Empire[/color] [color=F7B901]of[/color] [color=E67031]Corsair[/color][/b][/i][/sub][/td][/tr]
 
 [tr][td]
-[colour=#0062b3][b][font=nationstates]&amp;#59421;[/font] | I&#39;m new here, what should I do?[/b][/colour]
-[list][*][b][font=nationstates]&amp;#59443;[/font] |[/b] Introduce yourself to the [b][url=https://www.nationstates.net/page=display_region_rmb/region=corsair][color=darkcyan]RMB[/color][/url][/b]!
-[*][b][font=nationstates]&amp;#59425;[/font] |[/b] Join [b][url=https://www.nationstates.net/page=un][color=darkcyan]the World Assembly[/color][/url][/b] and endorse the [url=https://www.nationstates.net/page=dispatch/id=2583906][b][color=darkcyan]Council[/color][/b][/url]!
-[*][b][font=nationstates]&amp;#59393;[/font] |[/b] Join our [b][url=https://discord.gg/EA8MVKFYYR][color=darkcyan]Discord[/color][/url][/b] and join our [b][url=https://www.nationstates.net/nation=cordone_roleplay_bureau/detail=factbook/id=main][color=darkcyan]lively roleplay culture[/color][/url][/b]![/list]
+
+[color=0062b3][b][font=nationstates]&amp;#59421;[/font] | I&#39;m new here, what should I do?[/b][/color]
+
+[list]
+
+[*] [color=0062b3][b][font=nationstates]&amp;#59443;[/font] |[/b][/color] Introduce yourself to the [b][url=https://www.nationstates.net/page=display_region_rmb/region=corsair][color=darkcyan]RMB[/color][/url][/b]!
+
+[*] [color=0062b3][b][font=nationstates]&amp;#59425;[/font] |[/b][/color] Join [b][url=https://www.nationstates.net/page=un][color=darkcyan]the World Assembly[/color][/url][/b] and endorse the [url=https://www.nationstates.net/page=dispatch/id=2583906][b][color=darkcyan]Council[/color][/b][/url]!
+
+[*] [color=0062b3][b][font=nationstates]&amp;#59393;[/font] |[/b][/color] Join our [b][url=https://discord.gg/EA8MVKFYYR][color=darkcyan]Discord[/color][/url][/b] and join our [b][url=https://www.nationstates.net/nation=cordone_roleplay_bureau/detail=factbook/id=main][color=darkcyan]lively roleplay culture[/color][/url][/b]!
+
+[/list]
+
 [/td][/tr]
 
 [tr][td]
-[colour=#0062b3][b][font=nationstates]&amp;#59465;[/font] | Endorsement Cap: 30[/b][/colour]
-[i]Offenders will be ejected.[/i]
+
+[color=0062b3][b][font=nationstates]&amp;#59465;[/font] | Endorsement Cap: 30[/b][/color]
+[sub][i]Offenders will be ejected.[/i][/sub]
 
 [/td][/tr]
 
-[tr][td=r2][colour=#0062b3][b][font=nationstates]&amp;#59441;[/font] | Quick Links[/b][/colour]
-[list][*]&amp;#128172;[b] | [/b][url=https://discord.gg/EA8MVKFYYR]Discord[/url] 
-[*]&amp;#127758;[b] | [/b][url=https://www.nationstates.net/nation=cordone_roleplay_bureau/detail=factbook/id=main]Erene[/url] 
-[*]&amp;#128210;[b] | [/b][url=https://www.nationstates.net/page=dispatch/id=2583128]RMB Guidelines[/url]
-[*]&amp;#128220;[b] | [/b][url=https://www.nationstates.net/page=dispatch/id=2583123]Guidebook[/url]
-[*]&amp;#9917;[b] | [/b][url=https://www.nationstates.net/nation=cordoneballs_bureau/detail=factbook/id=main]CordoneBalls[/url]
-[*]&amp;#128221;[b] | [/b][url=https://cordone.miraheze.org/wiki/Main_Page]CordoneWiki[/url][/list]
+[tr][td=r2]
+
+[color=0062b3][b][font=nationstates]&amp;#59441;[/font] | Quick Links[/b][/color]
+
+[list]
+
+[*] &amp;#128172;[b] | [/b][url=https://discord.gg/EA8MVKFYYR]Discord[/url] 
+[*] &amp;#127758;[b] | [/b][url=https://www.nationstates.net/nation=cordone_roleplay_bureau/detail=factbook/id=main]Erene[/url] 
+[*] &amp;#128210;[b] | [/b][url=https://www.nationstates.net/page=dispatch/id=2583128]RMB Guidelines[/url]
+[*] &amp;#128220;[b] | [/b][url=https://www.nationstates.net/page=dispatch/id=2583123]Guidebook[/url]
+[*] &amp;#9917;[b] | [/b][url=https://www.nationstates.net/nation=cordoneballs_bureau/detail=factbook/id=main]CordoneBalls[/url]
+[*] &amp;#128221;[b] | [/b][url=https://cordone.miraheze.org/wiki/Main_Page]CordoneWiki[/url]
+
+[/list]
+
 [/td][/tr]
 
 [tr][td]
-[colour=#0062b3][b][font=nationstates]&amp;#59442;[/font] | Latest News[/b][/colour][List]
 
-[*] [Color=Purple][b]Happy Pride Month![/b][/color]
+[color=0062b3][b][font=nationstates]&amp;#59442;[/font] | Latest News[/b][/color]
+
+[List]
+[*] [color=E40303]H[/color][color=ee3502]a[/color][color=f86801]p[/color][color=ff9600]p[/color][color=ffba00]y[/color][color=ffdd00] [/color][color=cad708]P[/color][color=6dae16]r[/color][color=0f8624]i[/color][color=007262]d[/color][color=0061a8]e[/color][color=0050ef] [/color][color=1f43dd]M[/color][color=4736b2]o[/color][color=6f2a87]n[/color][color=732982]t[/color][color=732982]h[/color][color=732982]![/color]
 
 [*] [Nation]Valddera[/nation] [URL=https://www.nationstates.net/page=rmb/postid=62035111]has been elected First Deputy![/URL]
 
 [*] [B][nation]United Hydronia[/nation] HAS RETURNED[/B]
 
-[/list][/td][/tr]
+[/list]
 
+[/td][/tr]
 
-[Tr][td=c2][colour=#0062b3][b][font=nationstates]&amp;#59393;[/font] | Return of a King[/b][/colour]
+[Tr][td=c2]
+
+[color=0062b3][b][font=nationstates]&amp;#59393;[/font] | Return of a King[/b][/color]
 
 [quote=united_hydronia;62079440]Oh it&#146;s good to be back[/quote]
 
-[/td][/tr][/table][hr]
+[/td][/tr]
+
+[/table][hr]
