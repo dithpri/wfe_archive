@@ -1,4 +1,3 @@
-[b]00000000[/b]
-a [region=0000] region[color=maroon]
-Password Protected[/color][color=silver]
-[b]Founded:[/b] 2016 Jan. 06[/color]
+[color=0000A0][b]00000000[/b]
+
+[i]Eight Zeros Region[/i][/color]
