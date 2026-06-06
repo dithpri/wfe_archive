@@ -10,11 +10,3 @@ Minimum [color=darkpink]Economy[/color]: [i][b][color=lightgreen]Strong[/color][
 [hr]
 [color=#328fa8][b]Department of Global Affairs[/b][/color]
           World Assembly Delegate: [nation]Echo Cove[/nation]
-
-[color=green][b]General Assembly:[/b][/color]
-Resolution: [i][url=https://www.nationstates.net/page=ga]&#147;-&quot;[/url][/i]
-Recommended Vote: [b][i][color=gray]-[/color][/i][/b]
-
-[color=red][b]Security Council:[/b][/color]
-Resolution: [i][url=https://www.nationstates.net/page=sc]None[/url][/i]
-Recommended Vote: [b][i][color=gray]-[/color][/i][/b]
