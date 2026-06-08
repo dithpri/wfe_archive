@@ -5,17 +5,17 @@ May Toilotos Paporitous live on forever!
 [nation]Toilotoisim[/nation] vs [nation]Abhyuday[/nation] economic race.
 
 Current economy scores, 
-[nation]Toilotoisim[/nation] 100.04
-[nation]Abhyuday[/nation] 100.06
+[nation]Toilotoisim[/nation] 100.05
+[nation]Abhyuday[/nation] 100.04
 
-Gap, 0.02
+Gap, -0.01
 
 Economic race between [nation]Toilotoisim[/nation] and [nation]Briney[/nation]
 
 Current economy scores
-[nation]Toilotoisim[/nation] 100.04
-[nation]Briney[/nation] 99.01
+[nation]Toilotoisim[/nation] 100.05
+[nation]Briney[/nation] 99
 
-Gap, 1.03
+Gap, 1.05
 
 

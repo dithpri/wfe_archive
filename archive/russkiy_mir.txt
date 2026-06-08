@@ -1,1 +1,6 @@
-Russian World
+Culture: Russkiy Mir
+Politics: CIS
+Economy: EAEU
+Defense: ODKB
+Bloc: BRICS
+International: UN
