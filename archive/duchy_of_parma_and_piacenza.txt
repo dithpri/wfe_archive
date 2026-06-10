@@ -1,1 +1,2 @@
-[b][nation=long]Parma and Piacenza[/nation][/b]
+[b]Welcome to [nation=long]Parma and Piacenza[/nation]!
+[hr]Capital: [region]Parma[/region][/b]
