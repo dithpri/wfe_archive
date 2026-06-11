@@ -1,1 +1,3 @@
-Welcome to Elam, an ancient civilization located on the Iranian plateau.
+[b]Welcome to [nation]Elam[/nation], an ancient civilization located on the Iranian plateau.[/b]
+[hr][b]Region: [region]Susiana[/region][/b]
+[b]Capital: [region]Susa[/region][/b]
