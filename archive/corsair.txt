@@ -34,12 +34,12 @@
 
 [list]
 
-[*] &amp;#128172;[b] | [/b][url=https://discord.gg/EA8MVKFYYR]Discord[/url] 
-[*] &amp;#127758;[b] | [/b][url=https://www.nationstates.net/nation=cordone_roleplay_bureau/detail=factbook/id=main]Erene[/url] 
-[*] &amp;#128210;[b] | [/b][url=https://www.nationstates.net/page=dispatch/id=2583128]RMB Guidelines[/url]
-[*] &amp;#128220;[b] | [/b][url=https://www.nationstates.net/page=dispatch/id=2583123]Guidebook[/url]
-[*] &amp;#9917;[b] | [/b][url=https://www.nationstates.net/nation=cordoneballs_bureau/detail=factbook/id=main]CordoneBalls[/url]
-[*] &amp;#128221;[b] | [/b][url=https://cordone.miraheze.org/wiki/Main_Page]CordoneWiki[/url]
+[*] &amp;#128172; [color=0062b3][b]|[/b][/color] [url=https://discord.gg/EA8MVKFYYR]Discord[/url] 
+[*] &amp;#127758; [color=0062b3][b]|[/b][/color] [url=https://www.nationstates.net/nation=cordone_roleplay_bureau/detail=factbook/id=main]Erene[/url] 
+[*] &amp;#128210; [color=0062b3][b]|[/b][/color] [url=https://www.nationstates.net/page=dispatch/id=2583128]RMB Guidelines[/url]
+[*] &amp;#128220; [color=0062b3][b]|[/b][/color] ][url=https://www.nationstates.net/page=dispatch/id=2583123]Guidebook[/url]
+[*] &amp;#9917; [color=0062b3][b]|[/b][/color] [url=https://www.nationstates.net/nation=cordoneballs_bureau/detail=factbook/id=main]CordoneBalls[/url]
+[*] &amp;#128221; [color=0062b3][b]|[/b][/color] [url=https://cordone.miraheze.org/wiki/Main_Page]CordoneWiki[/url]
 
 [/list]
 
@@ -54,7 +54,7 @@
 
 [*] [B][color=orange][nation]United Hydronia[/nation] HAS RETURNED[/color][/b]
 
-[*] [B][color=purple]Happy Birthday [nation]Groldonica[/nation]![/color][/b]
+[*] [B][color=purple]Happy Birthday [nation]Valddera[/nation]![/color][/b]
 
 [/list]
 

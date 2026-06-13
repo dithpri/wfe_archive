@@ -1,1 +1,5 @@
-This is a region dedicated to clandestine and administration operations for a specific NationStates player. 
+This region holds trading card infrastructure for [nation]Urcea[/nation].
+
+[b]Collectors[/b] are nations which collect junk and aggregate it for packaging to the principals. They save administrative overhead by building bulk junk.
+
+[b]Purchasing agents[/b] are nations which have liquidity to ensure the success of value programming.
