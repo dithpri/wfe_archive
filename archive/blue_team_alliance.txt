@@ -1,0 +1,5 @@
+[Color=LightBlue]
+Alliance=Blue
+Leader=BTL
+Disc=Not Welcome on Howrse
+[/color]
