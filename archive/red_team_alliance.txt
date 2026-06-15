@@ -1,0 +1,5 @@
+[Color=NeonKryptonRed]
+Alliance=Red
+Leader=RTL
+Disc=Not Welcome on Howrse 
+[/Color]
