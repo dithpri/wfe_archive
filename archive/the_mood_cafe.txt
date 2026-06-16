@@ -34,7 +34,9 @@
 
 [color=brown]-&amp;#9679;-[/color] [color=#4d8000][font=georgia]To become an employee, please contact [nation]The Grand Duke[/nation].[/color][/font]
 
-
 [/td]
 [/tr]
 [/table]
+
+[hr]
+[font=georgia][color=brown][b]Only operates in regions that have an embassy with [region]The Mood[/region].[/b][/color][/font]
