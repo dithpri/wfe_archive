@@ -6,3 +6,4 @@
 [tr][td][nation=long]Pressian News[/nation]:[/td][td][nation=long]National Press[/nation][/td][/tr]
 [tr][td][nation=long]Furi of Wolflia[/nation]:[/td][td][nation=long]wolflia[/nation][/td][/tr][/table]
 
+                               [Region]Albastru[/region]
