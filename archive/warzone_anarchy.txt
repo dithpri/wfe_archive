@@ -1,3 +1,5 @@
 In this region, the founder designed it to be Warzone-like. Raiders, defenders, nations in training, unaligned nations, and even nations attempting to challenge themselves by living here are welcome (well, challenge when this region grows). 
 
 Every day, whenever the governor wakes up, usually between 6 AM and 12 PM, is when the governor bans the current Delegate, unbans everyone (including the last delegate who now has no endorsements), removes the password, and repins the &quot;Warzone Anarchy&quot; dispatch. The governor also never bans or puts up a password themself.
+
+Also, for now, the Delegate has no &quot;Appearance&quot; controls. This is to prevent anyone from ruining the WFE, flag, or banner too early.
