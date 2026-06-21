@@ -5,7 +5,8 @@
 [b] [font=nationstates]&amp;#59426;[/font] Main Nations:[/b]
 
 [nation]Avalon[/nation] in [region]The North Pacific[/region]
-[nation]Alexandria[/nation] and [nation]Anglia[/nation] in [region]Christians[/region]
+[nation]Alexandria[/nation] in [region]Christians[/region]
+[nation]Anglia[/nation] in [region]Lennart[/region]
 [nation]Wels[/nation], the glitched Nation, in [region]the Plains of Perdition[/region]
 
 [b][font=nationstates]&amp;#59395;[/font] Main Regions:[/b]

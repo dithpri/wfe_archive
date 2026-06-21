@@ -13,10 +13,10 @@
 [i][b]Secretary General:[/b][/i] [nation]Greater Viking Empire[/nation] (Elect: Sept. 4th, 2026)
 [i][b]Chancellor/WA Delegate:[/b][/i] [nation]Imperii Feminam[/nation] (Elect: May. 19th, 2027) 
 
-[i][b]Foreign Affairs Minister:[/b][/i] [nation]Cossack Ukraine[/nation] (Elect: Jun. 22nd)
-[i][b]Defense Minister:[/b][/i] [nation]Helric[/nation] (Elect: Jun. 28th)
-[i][b]Domestic Affairs Minister:[/b][/i] [nation]Alpecchia[/nation] (Elect: Jul. 4th)
-[i][b]Communications Minister:[/b][/i] [nation]Sizacijan[/nation] (Elect: Jul. 10th)
+[i][b]Foreign Affairs Minister:[/b][/i] [nation]Cossack Ukraine[/nation] (Elect: Jun. 26th)
+[i][b]Defense Minister:[/b][/i] [nation]Helric[/nation] (Elect: Jul. 2nd)
+[i][b]Domestic Affairs Minister:[/b][/i] [nation]Alpecchia[/nation] (Elect: Jul. 8th)
+[i][b]Communications Minister:[/b][/i] [nation]Sizacijan[/nation] (Elect: Jul. 14th)
 
 [i][b]First Justice:[/b][/i] [nation]Holy Barbarian Empire[/nation]
 [i][b]Second Justice:[/b][/i] [nation]Vhodesa[/nation]
@@ -26,7 +26,7 @@
 
 [b]| DOCTRINE |[/b]
 
-[i][b]Border:[/b][/i] [color=green]Open[/color]
+[i][b]Border:[/b][/i] [color=red]Closed[/color]
 [i][b]Embassy Policy:[/b][/i] [color=green]Cordial[/color]
 
 
