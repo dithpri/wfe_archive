@@ -1,5 +1,1 @@
-[b]North Sudan[/b]
-a [region=0000] region
-
-Not a real region based upon a real country.
-See [region=Sudan]
+North Sudan
