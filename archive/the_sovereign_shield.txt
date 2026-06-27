@@ -11,6 +11,7 @@ Official Region of The Sovereign Shield
 [region]Greater Ixnay[/region]
 [region]New United Kingdom of Albion[/region]
 [region]Saint Osmund[/region]
+[region]The Alliance of Eros[/region]
 [region]The Outback[/region]
 [region]The Sacred Elite[/region]
 [region]Union Brazilian[/region]
