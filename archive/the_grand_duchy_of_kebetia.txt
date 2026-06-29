@@ -2,14 +2,25 @@
 
 [hr]
 
-[b]Crown Nation:[/b] [nation]Kebetia[/nation]  
-[b]Ruler:[/b] [b]Grand Duke Keb :D[/b]  
+[b]Official Name:[/b] Vojvodstvo Kebetije
+[b]Common Name:[/b] [nation]Kebetia[/nation]
+[b]Ruler:[/b] Duke Keb :D
+[b]Capital:[/b] Kebetsk
+[b]Major Cities:[/b] Birtal, Horbach
 [b]Region:[/b] [region]The Grand Duchy of Kebetia[/region]
 
 [hr]
 
-[b]&amp;#10022; Allied Realms &amp;#10022;[/b]  
-[nation]Loiteria[/nation]  
+[b]&amp;#10022; Administrative Divisions &amp;#10022;[/b]
+
+16 Counties (Grofije), including:
+Kebetska &#149; Birtalska &#149; Horba&#154;ka &#149; Novogorska &#149; Dolinska &#149; Gradi&#154;ka &#149; Jezerska &#149; Schallinijska Kameni&#154;ka &#149; Kraljeva &#149; Dravska &#149; Primorska &#149; Srebrni&#154;ka &#149; Vetrska &#149; Borovska &#149; Zelenogorska &#149; Panonska
+
+[hr]
+
+[b]&amp;#10022; Allied Realms &amp;#10022;[/b]
+
+[nation]Loiteria[/nation]
 [nation]Loodmud[/nation]
 
 [i]Bound by crown and honor, all serve Kebetia in loyalty and prestige.[/i]
@@ -17,13 +28,15 @@
 [hr]
 
 [spoiler=Royal Decree]
-[b]Loyalty is expected.[/b]  
-[b]Honor is upheld.[/b]  
+[b]Loyalty is expected.[/b]
+[b]Honor is upheld.[/b]
 [b]The Crown endures.[/b]
 [/spoiler]
 
 [hr]
 
-[b]&#147;THE CROWN ASCENDS ETERNAL.&#148;[/b]
+[b]National Motto:[/b]
 
- 
+[b]KRONA SE VZPENJA VE&amp;#268;NO[/b]
+
+[i]&quot;THE CROWN ASCENDS ETERNAL.&quot;[/i]
