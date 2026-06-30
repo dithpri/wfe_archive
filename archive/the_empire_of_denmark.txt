@@ -12,7 +12,7 @@
 [b]Royal Family:[/b] House of [nation]Glucksburg[/nation]
 [b]Council President:[/b] Ditlev Gothard Monrad
 [b]Currency:[/b] Danish krone
-[b]Constituent Realms:[/b] [region]Kingdom of Greenland[/region], [region]The Faroe Islands[/region][/color][/font][/list]
+[b]Constituent Realms:[/b] [region]The Kingdom of Denmark[/region], [region]The Kingdom of Greenland[/region], [region]The Faroe Islands[/region][/color][/font][/list]
 
 [hr]
 

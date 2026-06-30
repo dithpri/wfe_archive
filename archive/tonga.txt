@@ -11,6 +11,6 @@ NATION
 REGION
 [b]Founded:[/b] 2016 Apr 27
 [b]Featured:[/b] 2022 Dec 20, 2025 Jan 01
-an [region=Ancient Lands] region
+an [region=Old Spirit] allied region
 [/color][color=004d33]
 Embassy Offers Welcome[/color]
