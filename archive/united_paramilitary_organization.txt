@@ -43,9 +43,15 @@ No hating
 [/spoiler]
 [hr]
 
-[table=noheader][tr][td]
-[b][font=nationstates]&amp;#59403;[/font] News[/b]: Hi
-[/td][/tr][/table]
+[b]News[/b]
+
+[table=noheader][tr][td=c4]
+[b][font=nationstates]&amp;#59403;[/font][/b] Hi
+[/tr][/td][/table]
+
+[table=noheader][tr][td=c4]
+[b][font=nationstates]&amp;#59403;[/font][/b] Hi
+[/tr][/td][/table]
 
 [hr]
 [table=noheader][tr][td]
