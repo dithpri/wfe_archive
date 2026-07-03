@@ -21,4 +21,9 @@
 
 [td][font=nationstates]&amp;#62030;[/font] [font=Times New Roman][b]5 Years of Liberty[/b][/font][/tr][/td][/table]
 
-
+[table]
+[tr][td][b][/b][/td][td][b]Value[/b][/td][/tr]
+[tr][td]Nation count[/td][td]23[/td][/tr]
+[tr][td]Regional population total[/td][td]236,412,000,000[/td][/tr]
+[tr][td]Total RGDP in NSD[/td][td]NSD $44,227,271,540,000,000[/td][/tr]
+[/table]
