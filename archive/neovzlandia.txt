@@ -1,12 +1,7 @@
-&amp;#8203;[align=center]
-[size=150][b][color=#0000FF]NEO-VZLANDIA[/color][/b][/size]
-[i]&quot;H&amp;#7879; &amp;#273;i&amp;#7873;u h&agrave;nh c&amp;#7911;a t&amp;#432;&amp;#417;ng lai, n&amp;#417;i logic l&agrave;m ch&amp;#7911;&quot;[/i]
-[/align]
-&amp;#8203;[background-block=#E0E0E0]
-[b]Neo-Vzlandia[/b] l&agrave; m&amp;#7897;t th&amp;#7921;c th&amp;#7875; k&amp;#7929; thu&amp;#7853;t s&amp;#7889;, &amp;#273;&amp;#432;&amp;#7907;c x&acirc;y d&amp;#7921;ng tr&ecirc;n n&amp;#7873;n t&amp;#7843;ng t&amp;#7889;i &amp;#432;u h&oacute;a v&agrave; minh b&amp;#7841;ch. T&amp;#7841;i &amp;#273;&acirc;y, m&amp;#7885;i quy lu&amp;#7853;t &amp;#273;&amp;#7873;u &amp;#273;&amp;#432;&amp;#7907;c &amp;#273;&amp;#7883;nh ngh&amp;#297;a b&amp;#7857;ng m&atilde; ngu&amp;#7891;n v&agrave; tr&iacute; tu&amp;#7879; nh&acirc;n t&amp;#7841;o.
-[/background-block]
-&amp;#8203;[list]
-[] [b]Th&amp;#7911; &amp;#273;&ocirc;:[/b] Alpha-Core
-[] [b]Tri&amp;#7871;t l&yacute;:[/b] S&amp;#7921; h&amp;#7895;n lo&amp;#7841;n l&agrave; l&amp;#7895;i (bug), tr&amp;#7853;t t&amp;#7921; l&agrave; t&iacute;nh n&amp;#259;ng (feature)
-[/list]
-&amp;#8203;[align=right]Gia nh&amp;#7853;p [nation]Neo-Vzlandia[/nation] ngay h&ocirc;m nay![/align]
+Neo-Vzlandia is new region !
+Th&agrave;nh L&amp;#7853;p : 2026&amp;#24180;7&amp;#26376;7&amp;#26085; &amp;#19996;&amp;#21271;&amp;#21345;&amp;#26519;&amp;#33832; (Kalinsa)
+&amp;#8203;[b][color=blue]NEO-VZLANDIA[/color][/b]
+&amp;#8203;[b]Neo-Vzlandia[/b] l&agrave; m&amp;#7897;t khu v&amp;#7921;c k&amp;#7929; thu&amp;#7853;t s&amp;#7889; m&amp;#7899;i, n&amp;#417;i t&amp;#7853;p trung v&agrave;o s&amp;#7921; [u]minh b&amp;#7841;ch[/u] v&agrave; [color=red]t&amp;#7889;i &amp;#432;u h&oacute;a[/color] h&amp;#7879; th&amp;#7889;ng.
+&amp;#8203;[b]Th&amp;#7911; &amp;#273;&ocirc;:[/b] Alpha-Core
+[b]Tri&amp;#7871;t l&yacute;:[/b] S&amp;#7921; h&amp;#7895;n lo&amp;#7841;n l&agrave; [u]l&amp;#7895;i[/u], t&amp;#7921; &amp;#273;&amp;#7897;ng h&oacute;a l&agrave; t&iacute;nh n&amp;#259;ng.
+&amp;#8203;Gia nh&amp;#7853;p [region]Neo-Vzlandia[/region] ngay h&ocirc;m nay!
