@@ -23,7 +23,7 @@
 
 [table]
 [tr][td][/td][td]Value[/td][/tr]
-[tr][td]Total number of nations[/td][td]32[/td][/tr]
-[tr][td]Total regional population[/td][td]241,306,000,000[/td][/tr]
-[tr][td]Total regional GDP in NSD[/td][td]$44,960,473,270,000,000[/td][/tr]
+[tr][td]Total number of nations[/td][td]34[/td][/tr]
+[tr][td]Total regional population[/td][td]243,598,000,000[/td][/tr]
+[tr][td]Total regional GDP in NSD[/td][td]$44,873,298,610,000,000[/td][/tr]
 [/table]
