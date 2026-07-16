@@ -22,8 +22,8 @@
 [td][font=nationstates]&amp;#62030;[/font] [font=Times New Roman][b]5 Years of Liberty[/b][/font][/tr][/td][/table]
 
 [table]
-[tr][td][b]Statistic[/b][/td][td][b]Total[/b][/td][/tr]
+[tr][td][b]Statistic[/b][/td][td][b]Value[/b][/td][/tr]
 [tr][td]Nation count[/td][td]36[/td][/tr]
-[tr][td]Regional GDP[/td][td]$47,325,925,960,000,000 NSD[/td][/tr]
-[tr][td]Regional population[/td][td]265.598 billion[/td][/tr]
+[tr][td]Total regional population[/td][td]265.77 billion[/td][/tr]
+[tr][td]Total regional GDP[/td][td]$47,370,574,340,000,000 NSD[/td][/tr]
 [/table]
