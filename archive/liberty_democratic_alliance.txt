@@ -25,7 +25,7 @@
 
 [table]
 [tr][td][b]Metric[/b][/td][td][b]Total[/b][/td][/tr]
-[tr][td]Nation count[/td][td]44[/td][/tr]
-[tr][td]Total population[/td][td]292.69 billion [color=green]&amp;#8593;[/color][/td][/tr]
-[tr][td]Total GDP (NSD)[/td][td]&amp;#8776;$49,823,882,110,000,000 NSD[/td][/tr]
+[tr][td]Nation count[/td][td]46[/td][/tr]
+[tr][td]Total population[/td][td]292.914 billion [color=green]&amp;#8593;[/color][/td][/tr]
+[tr][td]Total GDP (NSD)[/td][td]&amp;#8776;$52,952,261,730,000,000 NSD [color=green]&amp;#8593;[/color][/td][/tr]
 [/table]

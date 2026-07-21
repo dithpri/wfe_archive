@@ -17,7 +17,7 @@
 [tr]
 [td][b][color=black]WORLD ASSEMBLY VOTING[/color][/b]
 &#149; General Assembly: [color=green][b]FOR[/b][/color]
-&#149; Security Council: [color=green][b]FOR[/b][/color][/td]
+&#149; Security Council: [color=green][b]N/A[/b][/color][/td]
 [/tr]
 [tr]
 [td][b][color=black] DIPLOMATIC EMBASSIES[/color][/b]
