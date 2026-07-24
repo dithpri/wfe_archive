@@ -17,7 +17,7 @@
 
 
 [td][font=nationstates]&amp;#59435;[/font] [font=Times New Roman][color=#71a636][b]Poll of the Week:[/b][/color][/font][/td]
-[/tr][tr][td][/td][td=2][url=https://www.nationstates.net/page=poll/p=327283]Establish embassies with Scammington?[/url]
+[/tr][tr][td][/td][td=2]
 [/td][/tr]
 
 
@@ -25,7 +25,7 @@
 
 [table]
 [tr][td][b]Metric[/b][/td][td][b]Total[/b][/td][/tr]
-[tr][td]Nation count[/td][td]46[/td][/tr]
-[tr][td]Total population[/td][td]292.914 billion [color=green]&amp;#8593;[/color][/td][/tr]
-[tr][td]Total GDP (NSD)[/td][td]&amp;#8776;$52,952,261,730,000,000 NSD [color=green]&amp;#8593;[/color][/td][/tr]
+[tr][td]Nation count[/td][td]45[/td][/tr]
+[tr][td]Total population[/td][td]279.058 billion [color=red]&amp;#8595;[/color][/td][/tr]
+[tr][td]Total GDP (NSD)[/td][td]&amp;#8776;$52,410,140,090,000,000 NSD [color=red]&amp;#8595;[/color][/td][/tr]
 [/table]
