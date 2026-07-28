@@ -11,7 +11,7 @@
 [b][*][font=Times New Roman]Chat on our[/font] [font=nationstates]&amp;#59472;[/font] [font=Times New Roman][url=https://www.nationstates.net/page=display_region_rmb/region=liberty_democratic_alliance]Regional Message Board[/url] and join our [/font][font=nationstates]&amp;#59431;[/font] [font=Times New Roman][url=https://discord.gg/pZDv7mb8Rp]Discord server![/url][/b][/font][/list][/td]
 
 [td][font=Times New Roman][b]Regional Happenings[/b][/font]
-[b][list][*][color=white][font=Times New Roman][nation]Republic of Mesque[/nation] has been reelected as Prime Minister![/font][/color][/list][/b][/tr][/td]
+[b][list][*][color=blue][font=Times New Roman][nation]Republic of Mesque[/nation] has been reelected as Prime Minister![/font][/color][/list][/b][/tr][/td]
 
 [tr][td][color=#3198fe][font=Times New Roman][b]&amp;#10067;Question of the Week:[/b][/color][/font][/td]
 
@@ -25,7 +25,7 @@
 
 [table]
 [tr][td][b]Metric[/b][/td][td][b]Total[/b][/td][/tr]
-[tr][td]Nation count[/td][td]45[/td][/tr]
-[tr][td]Total population[/td][td]279.058 billion [color=red]&amp;#8595;[/color][/td][/tr]
+[tr][td]Nation count[/td][td]46[/td][/tr]
+[tr][td]Total population[/td][td]280.012 billion [color=green]&amp;#8593;[/color][/td][/tr]
 [tr][td]Total GDP (NSD)[/td][td]&amp;#8776;$52,410,140,090,000,000 NSD [color=red]&amp;#8595;[/color][/td][/tr]
 [/table]
