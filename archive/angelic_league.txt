@@ -4,7 +4,7 @@ A region for the provinces of [nation]Colmis[/nation].
 [nation]Emerod[/nation], [nation]Mathebroy[/nation], [nation]Cedram[/nation], [nation]Conolan[/nation], [nation]Gabelas[/nation], [nation]Rommied[/nation], [nation]Bowlabe[/nation], [nation]Spahnea[/nation]
 
 [b]Minor Provinces[/b]
-[nation]Antonan[/nation], [nation]Celleo[/nation], [nation]Marshin[/nation], [nation]Levenly[/nation], [nation]Gravilant[/nation], [nation]Bramfeld-Pilizana[/nation], [nation]Montelan[/nation], [nation]Casilam[/nation], [nation]Jaria-Bomwell[/nation], [nation]Raimell[/nation], [nation]Luverica[/nation], [nation]Empalion[/nation], [nation]Josoler-Maulia[/nation], [nation]Casteros[/nation]
+[nation]Antonan[/nation], [nation]Celleo[/nation], [nation]Marshin[/nation], [nation]Levenly[/nation], [nation]Gravilant[/nation], [nation]Bramfeld-Pilizana[/nation], [nation]Montelan[/nation], [nation]Casilam[/nation], [nation]Jaria-Bomwell[/nation], [nation]Raimell[/nation], [nation]Luverica[/nation], [nation]Empalion[/nation], [nation]Josoler-Maulia[/nation], [nation]Casteros[/nation], [nation]Hipcha[/nation]
 
 [i]Westrath and its City-States[/i]
 [nation]Westrath[/nation], [nation]Melendave[/nation], [nation]Ashailay[/nation], [nation]Nolabean[/nation], [nation]Mackleven[/nation], [nation]Cherush[/nation], [nation]Dunath[/nation], [nation]Antonera[/nation], [nation]Calram[/nation]
