@@ -1,12 +1,6 @@
-[colour=darkred][b]The Empire of Greater Raxus[/b]
-[i]We are a new empire, created by citizens revolted by inactivity and failures in the collapsing region of [region]The Raxus Empire[/region].[/i][/colour]
-[hr]
-[b][colour=red]Important Officials[/colour][/b]
-[list]
-[*][b]Emperor [nation]United Thalania[/nation] I[/b]
-[*][b]His Majesty&#39;s Most Loyal Advisor [nation]Belutionia[/nation][/b]
-[/list]
-[hr]
-[b][colour=red]News[/colour][/b]
+[color=#de5555][b]This minor region was seized by [/color][color=green][u][url=https://www.nationstates.net/region=the_communist_bloc]the People&#39;s Revolutionary Air Force[/url][/u][/color][color=#de5555] on the 31st of July 2026.[/b][/color]
 
-[i]Region becomes province of [region]New Yellow Empire[/region][/i]
+
+[color=scarlet][b]Bloc patriots are in control![/b][/color]
+
+[i][b][color=scarlet]RED SKIES[/color] / / [color=006400]GREEN FIELDS[/color][/b][/i]
