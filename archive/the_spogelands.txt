@@ -1,18 +1,1 @@
-[color=#c23917]The Bushrangers were hosting a shrimp-on-the-barbie picnic with their familiar companions from the NPA and TWPAF, but they had no Barbie dolls to complete the meal. Famished and hangry, they ran into town and began stealing Barbies right out of the hands of small children. Once several dreamhouses were confiscated, everyone returned to the picnic park to share a wonderful meal.[/color]
-[b]The Outback Bushrangers[/b]
-Delegate [nation]Faralried[/nation] (trigger)
-Bushranger [nation]Okona[/nation] (trigger)
-Gov. Of Defense [nation]Cat Army[/nation]
-Bushranger [nation]Taun[/nation]
-Bushranger [nation]The Osnari Federation[/nation]
-
-[b]The North Pacific Army[/b]
-Vice Marshal [nation]Islandwalk[/nation] (trigger)
-Marshal [nation]The Grand Dolphin[/nation]
-
-[b]The West Pacific Armed Forces[/b]
-Rum Runner [nation]Staneburg[/nation]
-Deckhand [nation]Aethenstaff[/nation]
-Deckhand [nation]Novassan[/nation]
-
-[b]The One, The Only [spoiler=Overseer Sedgistan][nation]Westinor[/nation][/spoiler][/b]
+The warring countries of the hotly contested and politically tumultuous Spogelands have never known peace. Constant trade wars, frequent diplomatic crises and an ever expanding frontier, the nations of the Spogelands have never been known to reach consensus. New nations are appearing all the time, and this only worsens the situation. 
