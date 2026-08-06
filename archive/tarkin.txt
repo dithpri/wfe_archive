@@ -7,8 +7,8 @@
 [u][color=4169E1]Executive:[/color][/u][/b]
 President: [nation]TuNasai[/nation]
 Vice President: [nation]Maldoraehan[/nation]
-Attorney General: [i]Pending Senate confirmation[/i]
-Secretary of State: [i]Pending Senate confirmation[/i]
+Attorney General: [nation]Democratic Monimeshia[/nation]
+Secretary of State: [nation]Bobbouis[/nation]
 Capital Governor: [nation]Maldoraehan[/nation]
 
 [color=2F4F4F][b][u]Senate:[/u][/b][/color]
