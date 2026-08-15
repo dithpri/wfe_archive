@@ -16,7 +16,7 @@
 [/tr]
 [tr]
 [td][b][color=black]WORLD ASSEMBLY VOTING[/color][/b]
-&#149; General Assembly: [color=red][b]Against[/b][/color]
+&#149; General Assembly: [color=green][b]For[/b][/color]
 &#149; Security Council: [color=green][b]For[/b][/color][/td]
 [/tr]
 [tr]
