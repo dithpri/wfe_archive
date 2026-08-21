@@ -1,15 +1,28 @@
-The Confederacy rises....
+[table]
+[tr][td][b][region]The Confederacy of Corrupt Dictators[/region] Data Sheet[/b][/td][/tr]
+[/table]
+[table]
+[tr][td][b]Controller[/b][/td]
+[td][b][i]Casus Belli[/i][/b][/td]
+[td][b]Duration of Takeover[/b][/td][/tr]
+[tr][td]
+This region was seized by Operatives from [region]Of Books and Stories[/region]. Administrative Control of the region is under the purview of [nation]MineLegotia and Equestria[/nation]
 
-After years of silence, a new voice for the cancelled and ignored.
+[/td][td]
+This region was taken over under a move to prevent the re-founding of a &quot;Mimicry Region&quot; towards the old administration of the [region]Confederation of Corrupt Dictators[/region]. Due to the inane and deplorable behavior of the previous administration, imitation is rather poor in taste. 
+[/td]
+[td]
+[i]Indefinite[/i].
+[/td][/tr]
+[/table]
+[table]
+[tr][td][b]Seized[/b][/td]
+[td][b]Previous Admin.[/b][/td]
+[td][b]Archival Information[/b][/td][/tr]
+[tr][td]2026/08/19
 
-For the unpopular, you have a home. 
-
-For the controversial, you have a home. 
-
-For true believers, you have a home. 
-
-Hail the Emperor!
-Hail the old Confederation!
-Hail the new Confederacy!
-
-More to come...
+[/td][td][nation]jocospors-son[/nation]
+[/td]
+[td][url=https://forum.nationstates.net/viewtopic.php?f=12&amp;t=586108&amp;p=43785528&amp;hilit=Confederacy+of+Corrupt+Dictators#p43785528]Forum Page[/url]
+[/td][/tr]
+[/table]
