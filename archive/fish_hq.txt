@@ -11,3 +11,5 @@ Jar Jar ([nation]Jar-Jar[/nation]) will be waiting, Banning all visitors and emb
 [region]Heroes of Valhalla[/region]
 [region]Puppets of Art Landia[/region]
 [region]Calendar[/region]
+[region]Bank of ForFishing[/region]
+[region]ForFishing[/region]

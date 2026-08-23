@@ -1,2 +1,2 @@
 Puppet Storage
-Main: https://www.nationstates.net/nation=dutch_states_and_territories
+Main: [nation]Dutch States and Territories[/nation]
