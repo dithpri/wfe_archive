@@ -1,1 +1,2 @@
-[region]Amperregion[/region] is one of two puppet storages owned by [nation=noflag]Zalann[/nation], with the other being the [region]Zalannian Kirbs[/region]; send embassies there instead of here.
+[region]Amperregion[/region] is a puppet storage owned by [nation=noflag]Zalann[/nation]
+
