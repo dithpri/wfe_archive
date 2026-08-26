@@ -1,9 +1,9 @@
 [b]United States Congress[/b]
 [hr][b]Member States[/b]
-[nation]Arinica[/nation] | District of Columbia | President Joseph Brindisi
-[nation]Californaia[/nation] | Eureka | President Austin Murray
-Cascadia | Victoria | President Maureen Hope
-Midwest | St. Louis | President Luke Monroe 
-Rangeria | Denver | President John Sandoval
-Texas | Austin | President Herman Troy
-Souther | Montgomery | President Katerina Roby
+[nation]Arinica[/nation] | District of Columbia | President Joseph Brindisi (D)
+[nation]Californaia[/nation] | Eureka | President Austin Murray (R)
+Cascadia | Victoria | President Maureen Hope (D)
+Midwest | St. Louis | President Luke Monroe (D)
+Texas | Austin | President Herman Troy (R)
+Souther | Montgomery | President Katerina Roby (R)
+Western Range | Denver | President John Sandoval (R)
