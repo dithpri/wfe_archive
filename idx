@@ -17159,6 +17159,7 @@ archive/arelis.txt
 archive/arelius.txt
 archive/arella.txt
 archive/arelle.txt
+archive/arellilan_region.txt
 archive/arellond.txt
 archive/arelunova_reach.txt
 archive/arel_miawenys.txt
@@ -28437,6 +28438,7 @@ archive/bedron.txt
 archive/bedroner.txt
 archive/bedroom.txt
 archive/bedston_congress.txt
+archive/bedtime_stories.txt
 archive/bedubaf.txt
 archive/beduxod.txt
 archive/bedwall_wharf.txt
@@ -54557,7 +54559,10 @@ archive/corrupt_world.txt
 archive/corruzione_di_massa_e_la_morte.txt
 archive/corrvia.txt
 archive/corsabisia.txt
+archive/corsai.txt
+archive/corsair0.txt
 archive/corsair.txt
+archive/corsair1.txt
 archive/corsaira.txt
 archive/corsairb.txt
 archive/corsairia.txt
@@ -93379,6 +93384,7 @@ archive/genad.txt
 archive/genada_allies.txt
 archive/genade.txt
 archive/genadey.txt
+archive/genahrt_collective.txt
 archive/genaris.txt
 archive/genatopia.txt
 archive/genavalia_cosco.txt
@@ -95601,6 +95607,7 @@ archive/global_industrial_federation.txt
 archive/global_industrial_union.txt
 archive/global_information_network.txt
 archive/global_intelligence_pact.txt
+archive/global_intelligent_coordinator.txt
 archive/global_islamic_league.txt
 archive/global_issues_2023.txt
 archive/global_juche_initiative.txt
@@ -100766,6 +100773,7 @@ archive/greek_republics.txt
 archive/greek_roman_diumverate.txt
 archive/greek_technocracy.txt
 archive/greek_turkish_peace.txt
+archive/greek_turtles.txt
 archive/greek_yay.txt
 archive/greelau.txt
 archive/green.txt
@@ -148208,6 +148216,7 @@ archive/lysithea_space_colony.txt
 archive/lyskovo_bloc.txt
 archive/lyssa.txt
 archive/lyssace.txt
+archive/lyssaria.txt
 archive/lystenian_system.txt
 archive/lysteriok_commonwealth.txt
 archive/lytha_empire_of_kings_and_queens.txt
@@ -162039,6 +162048,7 @@ archive/nationalist_club.txt
 archive/nationalist_coalition_of_african_states.txt
 archive/nationalist_commonwealth.txt
 archive/nationalist_commonwealth_of_free_regions.txt
+archive/nationalist_communist.txt
 archive/nationalist_conservative_bloc.txt
 archive/nationalist_conservative_republic.txt
 archive/nationalist_eastern_society.txt
@@ -171504,6 +171514,7 @@ archive/norn_iron.txt
 archive/norn_unity.txt
 archive/norocos.txt
 archive/norod.txt
+archive/noroeste.txt
 archive/noroeste_paulista.txt
 archive/noroi.txt
 archive/norolevia.txt
@@ -174420,6 +174431,7 @@ archive/nova_gloucesterstan.txt
 archive/nova_graecia.txt
 archive/nova_grecia.txt
 archive/nova_greco_germany.txt
+archive/nova_grill.txt
 archive/nova_hampiria.txt
 archive/nova_hansa_armed_forces.txt
 archive/nova_haven.txt
@@ -182814,6 +182826,7 @@ archive/o_rex_demetretas.txt
 archive/o_sacro_imperio_brasileiro.txt
 archive/o_sacro_imperio_dos_reinos_do_brasil.txt
 archive/o_sigmaballs.txt
+archive/o_slatainparshek.txt
 archive/o_state_west.txt
 archive/o_suwitsurando.txt
 archive/o_town.txt
@@ -183578,6 +183591,7 @@ archive/pakistan_2.txt
 archive/pakistan_3.txt
 archive/pakistan_4.txt
 archive/pakistan_5.txt
+archive/pakistan_6.txt
 archive/pakistan_is_great.txt
 archive/pakistan_municipal.txt
 archive/pakistan_of_jinnah.txt
@@ -194890,6 +194904,7 @@ archive/pujes.txt
 archive/pujistan.txt
 archive/pujiw.txt
 archive/pujizak.txt
+archive/pujolian_reserve_armies.txt
 archive/pujub.txt
 archive/pujuton.txt
 archive/pukajid.txt
@@ -195787,6 +195802,7 @@ archive/puzzles_barrista.txt
 archive/puzzle_games.txt
 archive/pu_uoy_evig_annog_reven.txt
 archive/pvera.txt
+archive/pvg.txt
 archive/pvg_extreme.txt
 archive/pvhs_council_of_friendship.txt
 archive/pville.txt
@@ -212465,6 +212481,7 @@ archive/russian_imperial_sphere.txt
 archive/russian_karelia.txt
 archive/russian_kittens.txt
 archive/russian_land.txt
+archive/russian_lands.txt
 archive/russian_league.txt
 archive/russian_mafia.txt
 archive/russian_mafia_city.txt
@@ -223395,6 +223412,7 @@ archive/snekysneks.txt
 archive/snek_foxo_alliance.txt
 archive/snek_region.txt
 archive/snelia.txt
+archive/snep.txt
 archive/snes.txt
 archive/sneuburg.txt
 archive/sneumi.txt
@@ -246465,6 +246483,7 @@ archive/the_atheists_of_nationstates.txt
 archive/the_atheist_empire.txt
 archive/the_atheist_empires.txt
 archive/the_atheist_forums_region.txt
+archive/the_atheist_holding.txt
 archive/the_atheist_leftist_alliance.txt
 archive/the_athelian_union.txt
 archive/the_athenan_council.txt
@@ -254118,6 +254137,7 @@ archive/the_continental_congress_of_fatsquadia.txt
 archive/the_continental_countries_of_america.txt
 archive/the_continental_divide.txt
 archive/the_continental_drift.txt
+archive/the_continental_free_states.txt
 archive/the_continental_funiverse.txt
 archive/the_continental_landmass_of_chon_nations.txt
 archive/the_continental_league.txt
@@ -273215,6 +273235,7 @@ archive/the_kenos_ocean.txt
 archive/the_kentalian_colonies.txt
 archive/the_kentaurus_galaxy.txt
 archive/the_kenta_region.txt
+archive/the_kentish_empire.txt
 archive/the_kentish_lands.txt
 archive/the_kentottawa_federation.txt
 archive/the_kentucky_fried_chicken_empire.txt
@@ -273902,6 +273923,7 @@ archive/the_kings_own.txt
 archive/the_kings_paradise.txt
 archive/the_kings_reich.txt
 archive/the_kingwood_dominion.txt
+archive/the_king_chris_council.txt
 archive/the_king_dominion.txt
 archive/the_king_george_commonwealth.txt
 archive/the_king_in_the_north.txt
@@ -291256,6 +291278,7 @@ archive/the_san_juan_islands.txt
 archive/the_san_miguel_sweetwater_region.txt
 archive/the_sao.txt
 archive/the_sapientia.txt
+archive/the_sapphirelands.txt
 archive/the_sapphire_concordat.txt
 archive/the_sapphire_expanse.txt
 archive/the_sapphire_globe.txt
@@ -291832,6 +291855,7 @@ archive/the_second_home.txt
 archive/the_second_imperium.txt
 archive/the_second_inquisition.txt
 archive/the_second_international.txt
+archive/the_second_internationale_community.txt
 archive/the_second_invaders.txt
 archive/the_second_kingdom.txt
 archive/the_second_kingdom_of_germany.txt
@@ -340393,6 +340417,7 @@ archive/wraubroth.txt
 archive/wreath_o_hope.txt
 archive/wreccs_alliance.txt
 archive/wreccs_empire.txt
+archive/wreccs_kingdom.txt
 archive/wrecked_islands.txt
 archive/wreckian_union.txt
 archive/wrecking_ball.txt
