@@ -22,9 +22,8 @@
 [/table][hr]
 
 [table][tr][td][i][color=black]Nation[/color][/i][/td][td][i][color=black]Senate Position[/color][/i][/td][/tr]
-[tr][td][b][nation]Korovan[/nation][/b][/td][td]Senate Majority Leader[/td][/tr]
-[tr][td] placeholder [/td][td]Senator[/td][/tr]
-[tr][td] placeholder [/td][td]Senator[/td][/tr]
+[tr][td][nation]Casparius[/nation][/td][td]Senator[/td][/tr]
+[tr][td][nation]Penaconia[/nation][/td][td]Senator[/td][/tr]
 [tr][td][nation]The Unionary United States[/nation][/td][td]Senator[/td][/tr]
 [tr][td][nation]Grand Federal Republic of America[/nation][/td][td]Senator[/td][/tr]
 [/table]
