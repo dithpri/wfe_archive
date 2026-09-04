@@ -12,10 +12,10 @@
 
 [b]Oversea Lands of ForFishing[/b]
 [nation]Truzipa[/nation]
-[nation]Apzia[/nation]
 [nation]Western Sunset Coconut Island[/nation][hr]
 
 [b]Satellite States[/b]
 [nation]Islands of ForFishing[/nation]
 [nation]Shooting Stars of ForFishing[/nation]
-[nation]Fish in MJT[/nation][hr]
+[nation]Fish in MJT[/nation]
+[nation]Southern Sunset Coconut Island[/nation][hr]
