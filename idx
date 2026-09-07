@@ -40145,6 +40145,7 @@ archive/card_lottery.txt
 archive/card_mafia.txt
 archive/card_manipulation_system.txt
 archive/card_manufacturer_region.txt
+archive/card_manufactury.txt
 archive/card_meaniez_region.txt
 archive/card_merchant_union.txt
 archive/card_mine.txt
@@ -55004,6 +55005,7 @@ archive/council_for_the_stage.txt
 archive/council_of.txt
 archive/council_of_108.txt
 archive/council_of_afretaryn.txt
+archive/council_of_africa.txt
 archive/council_of_allied_nations.txt
 archive/council_of_allied_socialist_republics.txt
 archive/council_of_ancients.txt
@@ -80489,6 +80491,7 @@ archive/fall_of_the_federation.txt
 archive/fall_out_boy_101.txt
 archive/fall_out_boy_fans.txt
 archive/fall_river_mayors_association.txt
+archive/fall_session_intro_to_pol.txt
 archive/fall_to_abyss.txt
 archive/falmart.txt
 archive/falme.txt
@@ -106938,6 +106941,7 @@ archive/hiberia.txt
 archive/hiberiae.txt
 archive/hibernation.txt
 archive/hibernationstates.txt
+archive/hibernation_mode.txt
 archive/hibernator_of_thule_4.txt
 archive/hibernia.txt
 archive/hibernian_eire.txt
@@ -151785,6 +151789,7 @@ archive/matusoa.txt
 archive/matuwos.txt
 archive/matwian_test_region.txt
 archive/matza_ball_soup.txt
+archive/matzoven_league.txt
 archive/mat_tran_to_quoc_dong_duong.txt
 archive/mau.txt
 archive/maubton.txt
@@ -152580,6 +152585,7 @@ archive/mediterranean_organization_of_defense.txt
 archive/mediterranean_pact.txt
 archive/mediterranean_political_alliance.txt
 archive/mediterranean_realms.txt
+archive/mediterranean_region.txt
 archive/mediterranean_republic.txt
 archive/mediterranean_researchers.txt
 archive/mediterranean_sea.txt
@@ -169262,6 +169268,7 @@ archive/new_world_trade_order.txt
 archive/new_world_treaty_organization.txt
 archive/new_world_treaty_union.txt
 archive/new_world_troubles.txt
+archive/new_world_two_thousand_fifty.txt
 archive/new_world_union.txt
 archive/new_world_union_chronicle.txt
 archive/new_world_united.txt
@@ -193630,6 +193637,7 @@ archive/prinicpality_of_velika_srbija.txt
 archive/prins_aleksander.txt
 archive/print.txt
 archive/prioa_pact.txt
+archive/priola_testing_ground.txt
 archive/prion.txt
 archive/prions_puppet_storage.txt
 archive/priority1.txt
@@ -222070,6 +222078,7 @@ archive/sjaelland.txt
 archive/sjajsjsj.txt
 archive/sjallitask.txt
 archive/sjallya.txt
+archive/sjarlotte.txt
 archive/sjca.txt
 archive/sjci.txt
 archive/sjc_region_of_power.txt
@@ -245272,6 +245281,7 @@ archive/the_andranian_nations.txt
 archive/the_andreic_hub.txt
 archive/the_androidgreenlist.txt
 archive/the_android_green_base.txt
+archive/the_andromeda_constellation.txt
 archive/the_andromeda_galaxy.txt
 archive/the_andromeda_imperium.txt
 archive/the_andromeda_initiative.txt
@@ -245695,6 +245705,7 @@ archive/the_anti_zionist_front.txt
 archive/the_anti_zionist_league.txt
 archive/the_antlantic.txt
 archive/the_antlantic_republic.txt
+archive/the_antlia_constellation.txt
 archive/the_antolican_cooperative_zone.txt
 archive/the_anton_islands_overseas_territories.txt
 archive/the_anton_islands_puppet_storage.txt
@@ -245795,6 +245806,7 @@ archive/the_apsadian_social_club.txt
 archive/the_apsaland_region.txt
 archive/the_aptian.txt
 archive/the_apus_calesius_system.txt
+archive/the_apus_constellation.txt
 archive/the_ap_alt_storage.txt
 archive/the_aqualist.txt
 archive/the_aquamarinelist.txt
@@ -245804,11 +245816,13 @@ archive/the_aquarian_islands.txt
 archive/the_aquarian_nations.txt
 archive/the_aquarian_testlands.txt
 archive/the_aquarium.txt
+archive/the_aquarius_constellation.txt
 archive/the_aquatic_assembiy.txt
 archive/the_aquatic_front.txt
 archive/the_aquatic_kingdom.txt
 archive/the_aqua_base.txt
 archive/the_aquilaan_system.txt
+archive/the_aquila_constellation.txt
 archive/the_aquinian_powers.txt
 archive/the_ara.txt
 archive/the_arabian_armada.txt
@@ -245852,6 +245866,7 @@ archive/the_araluen_plains.txt
 archive/the_aral_sea.txt
 archive/the_aran_galactic_federation.txt
 archive/the_arastonkan_federation.txt
+archive/the_ara_constellation.txt
 archive/the_arbitrator.txt
 archive/the_arbor.txt
 archive/the_arboreal_forest.txt
@@ -246102,6 +246117,7 @@ archive/the_arian_race.txt
 archive/the_arid_badlands.txt
 archive/the_arid_desert.txt
 archive/the_arid_lowlands.txt
+archive/the_aries_constellation.txt
 archive/the_aries_empire.txt
 archive/the_arilian_bloc.txt
 archive/the_aristocracy.txt
@@ -246949,6 +246965,7 @@ archive/the_aurian_darkhold.txt
 archive/the_aurian_league.txt
 archive/the_auric_coast.txt
 archive/the_auric_highlands.txt
+archive/the_auriga_constellation.txt
 archive/the_aurilands.txt
 archive/the_aurometalsauruslist.txt
 archive/the_aurometalsaurus_base.txt
@@ -249046,6 +249063,7 @@ archive/the_boondocks.txt
 archive/the_boondock_saints.txt
 archive/the_boonies.txt
 archive/the_boopist_people_and_animal_countries.txt
+archive/the_bootes_constellation.txt
 archive/the_booth.txt
 archive/the_bootleg_politics_pangea.txt
 archive/the_booty_patrol.txt
@@ -249924,6 +249942,7 @@ archive/the_cadmium_yellow_base.txt
 archive/the_cadre.txt
 archive/the_caedai.txt
 archive/the_caelestian_legion.txt
+archive/the_caelum_constellation.txt
 archive/the_caesars_legion.txt
 archive/the_caesar_alliance.txt
 archive/the_caesternian_kingdoms.txt
@@ -250011,6 +250030,7 @@ archive/the_cambrian_empire.txt
 archive/the_cambridge_bluelist.txt
 archive/the_cambridge_blue_base.txt
 archive/the_camellist.txt
+archive/the_camelopardalis_constellation.txt
 archive/the_camelot_union_of_states.txt
 archive/the_camel_base.txt
 archive/the_cameo_pinklist.txt
@@ -250056,6 +250076,7 @@ archive/the_canary_islands.txt
 archive/the_canary_yellowlist.txt
 archive/the_canary_yellow_base.txt
 archive/the_cancerlands.txt
+archive/the_cancer_constellation.txt
 archive/the_cancer_society_of_the_pacific.txt
 archive/the_candol_peace_group.txt
 archive/the_candy_apple_redlist.txt
@@ -250067,10 +250088,12 @@ archive/the_candy_land.txt
 archive/the_candy_pinklist.txt
 archive/the_candy_pink_base.txt
 archive/the_caned_islands.txt
+archive/the_canes_venatici_constellation.txt
 archive/the_cane_islands.txt
 archive/the_canigandastani_protectorate.txt
 archive/the_canine_empire.txt
 archive/the_canis_major_constellation.txt
+archive/the_canis_minor_constellation.txt
 archive/the_cannabis_alliance.txt
 archive/the_cannabis_communists.txt
 archive/the_cannabis_growers_guild.txt
@@ -250220,6 +250243,7 @@ archive/the_capitol_kitchen.txt
 archive/the_capitol_of_exediorania.txt
 archive/the_capitol_wasteland.txt
 archive/the_cappuccino_empire.txt
+archive/the_capricornus_constellation.txt
 archive/the_caprilist.txt
 archive/the_capri_base.txt
 archive/the_capri_islands.txt
@@ -250326,6 +250350,7 @@ archive/the_caribbean_trade_reigon.txt
 archive/the_caribbean_union.txt
 archive/the_caribbean_union_of_former_colonies.txt
 archive/the_carib_inn.txt
+archive/the_carina_constellation.txt
 archive/the_carina_sagittarius_arm.txt
 archive/the_carlean_commonwealth.txt
 archive/the_carlossian_commonwealth.txt
@@ -250419,6 +250444,7 @@ archive/the_caspian_see.txt
 archive/the_caspian_settlement.txt
 archive/the_cassandra_galaxy.txt
 archive/the_casscata_region.txt
+archive/the_cassiopeia_constellation.txt
 archive/the_cassiterides.txt
 archive/the_castairian_empire.txt
 archive/the_castellian_terrarium.txt
@@ -250738,6 +250764,7 @@ archive/the_census.txt
 archive/the_centard_nations.txt
 archive/the_centauri_colonies.txt
 archive/the_centaurus_cluster.txt
+archive/the_centaurus_constellation.txt
 archive/the_centaurus_galaxy.txt
 archive/the_centennial_foundation.txt
 archive/the_center.txt
@@ -250937,6 +250964,7 @@ archive/the_centurions.txt
 archive/the_century_of_2022.txt
 archive/the_ceo.txt
 archive/the_cephalon_mind_palace_dimension.txt
+archive/the_cepheus_constellation.txt
 archive/the_ceptic_states.txt
 archive/the_cequalian_empire.txt
 archive/the_cerberus_alliance.txt
@@ -250959,6 +250987,7 @@ archive/the_cesspool_of_jetanese_puppet_storage.txt
 archive/the_cess_pool.txt
 archive/the_cestral_project.txt
 archive/the_cetra.txt
+archive/the_cetus_constellation.txt
 archive/the_cevlaian_coalition.txt
 archive/the_cevlaian_empire.txt
 archive/the_cevlaian_international_union.txt
@@ -250993,6 +251022,7 @@ archive/the_chalk.txt
 archive/the_challanist_party_of_nationstates.txt
 archive/the_challenger.txt
 archive/the_challenger_boys.txt
+archive/the_chamaeleon_constellation.txt
 archive/the_chamanic_states.txt
 archive/the_chamber.txt
 archive/the_chambers.txt
@@ -251433,6 +251463,7 @@ archive/the_cipheron.txt
 archive/the_cipheron_court.txt
 archive/the_cipheron_senate.txt
 archive/the_circe_empire.txt
+archive/the_circinus_constellation.txt
 archive/the_circle.txt
 archive/the_circlejerk_alliance.txt
 archive/the_circlejerk_of_anti_centrism.txt
@@ -252456,12 +252487,14 @@ archive/the_colovian_inquisition.txt
 archive/the_colovian_union.txt
 archive/the_colsak_mountains.txt
 archive/the_colt.txt
+archive/the_columba_constellation.txt
 archive/the_columbians_drum_and_bugle_corps.txt
 archive/the_columbian_union.txt
 archive/the_columbia_international_region.txt
 archive/the_columbia_river.txt
 archive/the_column.txt
 archive/the_colunberran_union.txt
+archive/the_coma_berenices_constellation.txt
 archive/the_combative_chimpanzees.txt
 archive/the_combat_region.txt
 archive/the_combination_of_controversial_states.txt
@@ -254762,6 +254795,8 @@ archive/the_cornucopia_stadium.txt
 archive/the_corn_fields.txt
 archive/the_corn_fields_of_chaos.txt
 archive/the_corn_nations.txt
+archive/the_corona_australis_constellation.txt
+archive/the_corona_borealis_constellation.txt
 archive/the_coroxian_democratic_union.txt
 archive/the_corparation.txt
 archive/the_corporates_of_waterlone.txt
@@ -254846,6 +254881,7 @@ archive/the_corundinium_of_ysbergia.txt
 archive/the_corvean_union.txt
 archive/the_corvid_land.txt
 archive/the_corvid_losan_expanse.txt
+archive/the_corvus_constellation.txt
 archive/the_corvus_empire.txt
 archive/the_corvyx_empire.txt
 archive/the_cor_space_program.txt
@@ -255228,6 +255264,7 @@ archive/the_crappy_life_of_a_miserable_soul.txt
 archive/the_crap_region_of_temu.txt
 archive/the_crater.txt
 archive/the_crater_castle.txt
+archive/the_crater_constellation.txt
 archive/the_cravazan_mountains.txt
 archive/the_crawford_empire.txt
 archive/the_crazematic_region.txt
@@ -255488,6 +255525,7 @@ archive/the_crustacean_federation_of_nations.txt
 archive/the_crustean_union.txt
 archive/the_crus_altina.txt
 archive/the_crux.txt
+archive/the_crux_constellation.txt
 archive/the_crylands.txt
 archive/the_cryonic_nation_of_colorado.txt
 archive/the_cryonic_nation_of_freedom_and_will.txt
@@ -255697,6 +255735,7 @@ archive/the_cycloptobot_superstructure.txt
 archive/the_cydthew.txt
 archive/the_cygnet_peninsula.txt
 archive/the_cygnian_trade_league.txt
+archive/the_cygnus_constellation.txt
 archive/the_cylinder_world.txt
 archive/the_cylon_empire.txt
 archive/the_cynathia_empire.txt
@@ -256376,6 +256415,7 @@ archive/the_delmontese_league.txt
 archive/the_delos_corporation.txt
 archive/the_delphic_expanse.txt
 archive/the_delphinium_court.txt
+archive/the_delphinus_constellation.txt
 archive/the_delps.txt
 archive/the_delta.txt
 archive/the_delta_alliance.txt
@@ -257735,6 +257775,7 @@ archive/the_dopes_region.txt
 archive/the_dope_confederacy.txt
 archive/the_dope_republic_of_dongus.txt
 archive/the_dop_archipelago.txt
+archive/the_dorado_constellation.txt
 archive/the_dorandan_commonwealth.txt
 archive/the_dorian_continent.txt
 archive/the_dorites_delegation.txt
@@ -257789,6 +257830,7 @@ archive/the_draconic_fighting_pits.txt
 archive/the_draconic_minority.txt
 archive/the_draconic_prophets.txt
 archive/the_draconic_realm.txt
+archive/the_draco_constellation.txt
 archive/the_draco_omicron_galaxy.txt
 archive/the_draco_sector.txt
 archive/the_drafting_league.txt
@@ -260201,6 +260243,7 @@ archive/the_equilibrium_soverign_region.txt
 archive/the_equinox.txt
 archive/the_equin_sequence.txt
 archive/the_equity_region.txt
+archive/the_equuleus_constellation.txt
 archive/the_equumene.txt
 archive/the_equusitian_cluster.txt
 archive/the_erasa_system.txt
@@ -260209,6 +260252,7 @@ archive/the_erestrian_trading_cards_enterprises.txt
 archive/the_ericburgian_emerates.txt
 archive/the_ericburgian_empire.txt
 archive/the_erickan_coolies.txt
+archive/the_eridanus_constellation.txt
 archive/the_eridanus_empire.txt
 archive/the_eridinian_isles.txt
 archive/the_erisian_protectorate.txt
@@ -262860,6 +262904,7 @@ archive/the_former_united_states_of_america_pcw.txt
 archive/the_former_ussr.txt
 archive/the_former_varangian_empire.txt
 archive/the_formidable_force_of_the_west_end.txt
+archive/the_fornax_constellation.txt
 archive/the_forosian_isles.txt
 archive/the_forrest_council.txt
 archive/the_forsaken.txt
@@ -264572,6 +264617,7 @@ archive/the_geigon.txt
 archive/the_geigon_federation.txt
 archive/the_gelatinous_fist.txt
 archive/the_gelkahn_associates.txt
+archive/the_gemini_constellation.txt
 archive/the_gempire.txt
 archive/the_gemstone_isles.txt
 archive/the_gem_colonies.txt
@@ -268100,6 +268146,7 @@ archive/the_grublands.txt
 archive/the_grudge.txt
 archive/the_grumpu_alliance.txt
 archive/the_grumpy_region.txt
+archive/the_grus_constellation.txt
 archive/the_gryphonian_region.txt
 archive/the_gryphon_triumverate.txt
 archive/the_gsa.txt
@@ -268760,6 +268807,7 @@ archive/the_herblan_region.txt
 archive/the_herconian_federation.txt
 archive/the_herculean_army.txt
 archive/the_herculean_society.txt
+archive/the_hercules_constellation.txt
 archive/the_hercules_corona_borealis_great_wall.txt
 archive/the_herd.txt
 archive/the_heretics.txt
@@ -269991,6 +270039,7 @@ archive/the_hornlands.txt
 archive/the_horny_capybaras.txt
 archive/the_horn_of_africa.txt
 archive/the_horn_of_plenty.txt
+archive/the_horologium_constellation.txt
 archive/the_horoscope.txt
 archive/the_horrible_backrooms.txt
 archive/the_horrible_experiment.txt
@@ -270240,10 +270289,12 @@ archive/the_hyde_hills_region.txt
 archive/the_hydras_council.txt
 archive/the_hydra_alliance.txt
 archive/the_hydra_association.txt
+archive/the_hydra_constellation.txt
 archive/the_hydra_dragon_manticore_lair.txt
 archive/the_hydra_empire.txt
 archive/the_hydra_solution.txt
 archive/the_hydro_region.txt
+archive/the_hydrus_constellation.txt
 archive/the_hyesan_peninsula.txt
 archive/the_hyperbolic_plane.txt
 archive/the_hyperboreal_realm.txt
@@ -270624,6 +270675,7 @@ archive/the_imperial_demonic_union_of_hell.txt
 archive/the_imperial_demon_army_alliance.txt
 archive/the_imperial_dictatorship_of_jamarland.txt
 archive/the_imperial_diet.txt
+archive/the_imperial_diet_of_the_hre.txt
 archive/the_imperial_districts.txt
 archive/the_imperial_docking_station.txt
 archive/the_imperial_dodo_card_farming_paradise.txt
@@ -271264,6 +271316,7 @@ archive/the_industrial_sector.txt
 archive/the_industrial_union_of_lontech.txt
 archive/the_industrial_union_of_workers.txt
 archive/the_industry_league.txt
+archive/the_indus_constellation.txt
 archive/the_indus_river_valley_alliance.txt
 archive/the_inedible_empire_of_djangalangaland.txt
 archive/the_ineffective_hive_mind_of_kevin_gill.txt
@@ -272110,6 +272163,7 @@ archive/the_iron_curtain_of_jihad.txt
 archive/the_iron_defence_league.txt
 archive/the_iron_diamondic_empire.txt
 archive/the_iron_domain.txt
+archive/the_iron_domains.txt
 archive/the_iron_dominion.txt
 archive/the_iron_dominion_administrative.txt
 archive/the_iron_dominion_alliance.txt
@@ -274615,6 +274669,7 @@ archive/the_labyrinth_empire.txt
 archive/the_labyrinth_hangout.txt
 archive/the_labyrinth_roleplay_region.txt
 archive/the_lacarian_colonial_union.txt
+archive/the_lacerta_constellation.txt
 archive/the_lacian_republic.txt
 archive/the_lackford_empire.txt
 archive/the_lacticar_super_cluster.txt
@@ -276650,11 +276705,14 @@ archive/the_leona_region.txt
 archive/the_leonyan_union.txt
 archive/the_leon_castilian_spain.txt
 archive/the_leovardia_region.txt
+archive/the_leo_constellation.txt
 archive/the_leo_cult.txt
+archive/the_leo_minor_constellation.txt
 archive/the_leo_valdez_army.txt
 archive/the_leo_valdez_navy.txt
 archive/the_leo_valde_navy.txt
 archive/the_lepion_defense_and_economic_sphere.txt
+archive/the_lepus_constellation.txt
 archive/the_lesbian_archipelago.txt
 archive/the_lesbian_empire.txt
 archive/the_lesbian_isles.txt
@@ -276913,6 +276971,7 @@ archive/the_library_of_congress.txt
 archive/the_library_of_the_crimson_crusaders.txt
 archive/the_library_of_whatever_interestsyou.txt
 archive/the_libratarian_kingdom.txt
+archive/the_libra_constellation.txt
 archive/the_libra_islands.txt
 archive/the_librety_union.txt
 archive/the_libsocs_party_com_network.txt
@@ -277538,6 +277597,7 @@ archive/the_lunch_table.txt
 archive/the_lungs_of_democracy.txt
 archive/the_lun_collective.txt
 archive/the_lupercan_community.txt
+archive/the_lupus_constellation.txt
 archive/the_lupus_mountains.txt
 archive/the_luran_union.txt
 archive/the_lurking_dark.txt
@@ -277577,9 +277637,11 @@ archive/the_lycian_league.txt
 archive/the_lydian_empire.txt
 archive/the_lylat_system.txt
 archive/the_lyman_school.txt
+archive/the_lynx_constellation.txt
 archive/the_lynx_empire.txt
 archive/the_lynx_enclave.txt
 archive/the_lynx_islands.txt
+archive/the_lyra_constellation.txt
 archive/the_lysandrian_empire.txt
 archive/the_lytchten_union.txt
 archive/the_lythriel_system.txt
@@ -278354,6 +278416,7 @@ archive/the_mendian_union.txt
 archive/the_mending_wall.txt
 archive/the_menri_republic.txt
 archive/the_mensarii_state_bank.txt
+archive/the_mensa_constellation.txt
 archive/the_mensheviks.txt
 archive/the_menshevik_league_of_squigg_xxiii.txt
 archive/the_mens_room_at_a_red_robin.txt
@@ -278500,6 +278563,7 @@ archive/the_micronational_conglomerate.txt
 archive/the_micronations_assembly.txt
 archive/the_micronation_islands_union.txt
 archive/the_micronation_union.txt
+archive/the_microscopium_constellation.txt
 archive/the_microstates.txt
 archive/the_microvaluian_market_and_trade_center.txt
 archive/the_microverse.txt
@@ -279162,6 +279226,7 @@ archive/the_monke_union.txt
 archive/the_monkie_republic.txt
 archive/the_monk_monk_united.txt
 archive/the_monoalliance.txt
+archive/the_monoceros_constellation.txt
 archive/the_monocle_nyan_cat_privateers.txt
 archive/the_monoist_party_of_nationstates.txt
 archive/the_monolith.txt
@@ -279520,6 +279585,7 @@ archive/the_murky_waters.txt
 archive/the_murshed.txt
 archive/the_murwillumbah_coalition.txt
 archive/the_muryan_region.txt
+archive/the_musca_constellation.txt
 archive/the_museum.txt
 archive/the_museum_of_cool_puppet_names.txt
 archive/the_museum_of_museums.txt
@@ -282134,6 +282200,7 @@ archive/the_normanites.txt
 archive/the_norman_empire.txt
 archive/the_norman_union.txt
 archive/the_norma_arm.txt
+archive/the_norma_constellation.txt
 archive/the_normburg_pact.txt
 archive/the_norrlandic_treaty_organization.txt
 archive/the_norsefire_sphere_of_inflence.txt
@@ -283260,6 +283327,7 @@ archive/the_ochentia_coalition.txt
 archive/the_octagon.txt
 archive/the_octagram.txt
 archive/the_octal_bloc.txt
+archive/the_octans_constellation.txt
 archive/the_octarine_basin.txt
 archive/the_octavian_guard.txt
 archive/the_octessence.txt
@@ -283665,6 +283733,7 @@ archive/the_open_trade_pact.txt
 archive/the_open_west.txt
 archive/the_operators.txt
 archive/the_opera_house.txt
+archive/the_ophiuchus_constellation.txt
 archive/the_opiate_states.txt
 archive/the_opinionated_lands.txt
 archive/the_opium_den.txt
@@ -284338,6 +284407,7 @@ archive/the_outcasts.txt
 archive/the_outcast_ascension.txt
 archive/the_outcast_islands.txt
 archive/the_outcast_land.txt
+archive/the_outcov.txt
 archive/the_outerbanks.txt
 archive/the_outerlands.txt
 archive/the_outerlands_of_nowhere.txt
@@ -285078,6 +285148,7 @@ archive/the_pavement_people.txt
 archive/the_pavian_lands.txt
 archive/the_pavilion.txt
 archive/the_pavilionean_bloc.txt
+archive/the_pavo_constellation.txt
 archive/the_paw.txt
 archive/the_pawcific.txt
 archive/the_pawn.txt
@@ -285212,6 +285283,7 @@ archive/the_peeps.txt
 archive/the_peeps_of_nation_states.txt
 archive/the_peewee_islands.txt
 archive/the_pegasas_of_guard_8675309.txt
+archive/the_pegasus_constellation.txt
 archive/the_pegasus_punkland_2.txt
 archive/the_peir.txt
 archive/the_pelagic_zone.txt
@@ -285514,6 +285586,7 @@ archive/the_persean.txt
 archive/the_persean_sector.txt
 archive/the_perseus_arm.txt
 archive/the_perseus_arms.txt
+archive/the_perseus_constellation.txt
 archive/the_perseus_veil.txt
 archive/the_perse_federation.txt
 archive/the_persians.txt
@@ -285611,6 +285684,7 @@ archive/the_phoenix_coalition.txt
 archive/the_phoenix_coalition_of_thaecia.txt
 archive/the_phoenix_commonwealth.txt
 archive/the_phoenix_concordat.txt
+archive/the_phoenix_constellation.txt
 archive/the_phoenix_drop_empire.txt
 archive/the_phoenix_empire.txt
 archive/the_phoenix_federation.txt
@@ -285647,6 +285721,7 @@ archive/the_picklenugget_embassy.txt
 archive/the_pickle_empire.txt
 archive/the_pickle_farmers.txt
 archive/the_pickle_lovers.txt
+archive/the_pictor_constellation.txt
 archive/the_pidc.txt
 archive/the_pieces_of_clavecin.txt
 archive/the_piedmontovian_empire_bar_abd_grill.txt
@@ -285800,6 +285875,8 @@ archive/the_pirate_waters.txt
 archive/the_pirdh_union.txt
 archive/the_pirg_federation.txt
 archive/the_pirnian_river_region.txt
+archive/the_pisces_constellation.txt
+archive/the_piscis_austrinus_constellation.txt
 archive/the_pissed_off_conservatives.txt
 archive/the_piston_cup.txt
 archive/the_pit.txt
@@ -286932,6 +287009,7 @@ archive/the_puppet_storage_of_freedom_to_all.txt
 archive/the_puppet_storage_of_orvos.txt
 archive/the_puppet_storage_of_the_new_midlands.txt
 archive/the_puppet_storage_of_the_xalitore_union.txt
+archive/the_puppis_constellation.txt
 archive/the_purasian_commonwealth.txt
 archive/the_purbledes.txt
 archive/the_purburturb_coalition.txt
@@ -286991,6 +287069,7 @@ archive/the_pythagorus_cult.txt
 archive/the_python.txt
 archive/the_pythons.txt
 archive/the_python_federation.txt
+archive/the_pyxis_constellation.txt
 archive/the_q.txt
 archive/the_qajar_dynasty.txt
 archive/the_qalapaq_corporate_sector.txt
@@ -290281,6 +290360,7 @@ archive/the_retard_renegade.txt
 archive/the_retard_resurrection.txt
 archive/the_retarted_realm.txt
 archive/the_rethune_empire.txt
+archive/the_reticulum_constellation.txt
 archive/the_retired_puppets_of_woryand.txt
 archive/the_retired_soldiers_of_nation_x.txt
 archive/the_retirement_cottage_for_old_nations.txt
@@ -290875,6 +290955,7 @@ archive/the_romeryan_empire.txt
 archive/the_rome_army.txt
 archive/the_rome_axis.txt
 archive/the_rome_confederacy.txt
+archive/the_romontic_region.txt
 archive/the_romskian_union.txt
 archive/the_romulan_and_klingon_alliance.txt
 archive/the_romulan_empire.txt
@@ -291411,6 +291492,8 @@ archive/the_saffron_straits.txt
 archive/the_saga_of_seven_suns.txt
 archive/the_sage.txt
 archive/the_sage_continent.txt
+archive/the_sagittarius_constellation.txt
+archive/the_sagitta_constellation.txt
 archive/the_sag_nations.txt
 archive/the_sahara.txt
 archive/the_saharan_desert_super_oasis.txt
@@ -291944,6 +292027,7 @@ archive/the_scorched_plains.txt
 archive/the_scorpion_alliance.txt
 archive/the_scorpion_brotherhood.txt
 archive/the_scorpio_order.txt
+archive/the_scorpius_constellation.txt
 archive/the_scotian_imperium.txt
 archive/the_scotia_sea.txt
 archive/the_scots.txt
@@ -291988,10 +292072,12 @@ archive/the_scrub_daddy2.txt
 archive/the_scrusheens.txt
 archive/the_scss.txt
 archive/the_scullions_of_duct_tape_24.txt
+archive/the_sculptor_constellation.txt
 archive/the_scuowana_empire.txt
 archive/the_scurvy_dog.txt
 archive/the_scut.txt
 archive/the_scutkiller_region.txt
+archive/the_scutum_constellation.txt
 archive/the_scythedom_of_midmerica.txt
 archive/the_scythian_empire.txt
 archive/the_sdca.txt
@@ -292475,6 +292561,7 @@ archive/the_seriously_awesome_realm_of_men.txt
 archive/the_serious_dma.txt
 archive/the_sernian_commonwealth.txt
 archive/the_sernian_empire.txt
+archive/the_serpens_constellation.txt
 archive/the_serpentine_coast.txt
 archive/the_serpentine_conclave.txt
 archive/the_serpentine_table.txt
@@ -292571,6 +292658,7 @@ archive/the_sextant_islands_and_city_of_rajapore.txt
 archive/the_sextuple_alliance.txt
 archive/the_seychelles.txt
 archive/the_seychellois_islands.txt
+archive/the_se_tans_constellation.txt
 archive/the_sfear.txt
 archive/the_sfizz_system.txt
 archive/the_sfr.txt
@@ -296154,6 +296242,7 @@ archive/the_tatian_region.txt
 archive/the_tattered_remains_of_old_brittania.txt
 archive/the_tauer_belt.txt
 archive/the_tauri.txt
+archive/the_taurus_constellation.txt
 archive/the_tauya_island.txt
 archive/the_tauya_isle.txt
 archive/the_tauya_isles.txt
@@ -296253,6 +296342,7 @@ archive/the_telaquire_tribe.txt
 archive/the_telech_islands.txt
 archive/the_telegram.txt
 archive/the_telemark_dynasty.txt
+archive/the_telescopium_constellation.txt
 archive/the_telestial_kingdom.txt
 archive/the_teletubbies.txt
 archive/the_televak_badlands.txt
@@ -297211,6 +297301,8 @@ archive/the_triangle_alliance.txt
 archive/the_triangle_of_the_pacific.txt
 archive/the_triangluar_zone.txt
 archive/the_triangular_american_deal.txt
+archive/the_triangulum_australe_constellation.txt
+archive/the_triangulum_constellation.txt
 archive/the_triangulum_galaxy.txt
 archive/the_triangulum_war.txt
 archive/the_triarchy.txt
@@ -297559,6 +297651,7 @@ archive/the_tub.txt
 archive/the_tubafex_conference.txt
 archive/the_tuba_army.txt
 archive/the_tubbs_hub_space_brigade.txt
+archive/the_tucana_constellation.txt
 archive/the_tuchoimi_commonwealth.txt
 archive/the_tucker_islands.txt
 archive/the_tucn_orbit.txt
@@ -299174,6 +299267,7 @@ archive/the_union_of_space_republics.txt
 archive/the_union_of_special_nations.txt
 archive/the_union_of_springfell.txt
 archive/the_union_of_squad.txt
+archive/the_union_of_ssrs.txt
 archive/the_union_of_stalinstine.txt
 archive/the_union_of_stan.txt
 archive/the_union_of_stars.txt
@@ -303323,6 +303417,8 @@ archive/the_url.txt
 archive/the_urmomian_union.txt
 archive/the_urn_sanctuary.txt
 archive/the_urr.txt
+archive/the_ursa_major_constellation.txt
+archive/the_ursa_minor_constellation.txt
 archive/the_urticaria_union.txt
 archive/the_uruguayan_mafia_empire.txt
 archive/the_us.txt
@@ -303709,6 +303805,7 @@ archive/the_vel.txt
 archive/the_velardian_inca_union.txt
 archive/the_velatenial_nations.txt
 archive/the_vela_carina_galaxy.txt
+archive/the_vela_constellation.txt
 archive/the_vellin_delta.txt
 archive/the_veltharian_sovereignty.txt
 archive/the_veltronian_empire.txt
@@ -303934,6 +304031,7 @@ archive/the_virgin_isle.txt
 archive/the_virgin_sea.txt
 archive/the_virgin_wastes.txt
 archive/the_virgo_concourse.txt
+archive/the_virgo_constellation.txt
 archive/the_virgo_supercluster.txt
 archive/the_viridian_continent.txt
 archive/the_viridian_union_of_republics.txt
@@ -304013,6 +304111,7 @@ archive/the_void_sanctum.txt
 archive/the_void_space_role_play.txt
 archive/the_void_steeped_shangdu.txt
 archive/the_voilet_riders.txt
+archive/the_volans_constellation.txt
 archive/the_volantarist_militia_alliance.txt
 archive/the_volatile_lands_of_kspg.txt
 archive/the_volcanic_association_of_states.txt
@@ -304089,6 +304188,7 @@ archive/the_vulcravian_universe.txt
 archive/the_vulfen_clans.txt
 archive/the_vulgar_pineapple_alliance.txt
 archive/the_vulnerable_countries.txt
+archive/the_vulpecula_constellation.txt
 archive/the_vulpine_imperium.txt
 archive/the_vulskeyian_union.txt
 archive/the_vultian_confederacy.txt
@@ -305912,6 +306012,7 @@ archive/the_world_will_just_have_to_deal_with_us.txt
 archive/the_world_without_money.txt
 archive/the_world_wrestling_federation.txt
 archive/the_wormhole.txt
+archive/the_wormlands.txt
 archive/the_worms.txt
 archive/the_wormtongue.txt
 archive/the_wornegian_commonwealth.txt
@@ -331720,6 +331821,7 @@ archive/volo.txt
 archive/volodymyr.txt
 archive/vologda.txt
 archive/vologda_oblast.txt
+archive/volorian.txt
 archive/volosovsky_and_gatchina_districts.txt
 archive/volovgrad_pact.txt
 archive/voloville.txt
