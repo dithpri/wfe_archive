@@ -24,8 +24,8 @@
 [td=2][font=nationstates]&amp;#62030;[/font] [font=Times New Roman][b]Celebrating 5 Years of Liberty[/b][/font][/td][/table]
 
 [table]
-[tr][td][b]Metric[/b][/td][td][b]Total[/b][/td][/tr]
-[tr][td]Nation count[/td][td]46[/td][/tr]
-[tr][td]Total population[/td][td]280.252 billion [color=green]&amp;#8593;[/color][/td][/tr]
-[tr][td]Total GDP (NSD)[/td][td]&amp;#8776;$52,962,053,870,000,000 NSD [color=green]&amp;#8593;[/color][/td][/tr]
+[tr][td][b]Regional Summary[/b][/td][td][b]Total[/b][/td][/tr]
+[tr][td]Population[/td][td]275,164,000,000 [color=red]&amp;#8595;[/color][/td][/tr] 
+[tr][td]Nation Count[/td][td]41 [color=red]&amp;#8595;[/color][/td][/tr]
+[tr][td]Total GDP (NSD)[/td][td]NS$52,357,655,340,000,000 [color=red]&amp;#8595;[/color][/td][/tr]
 [/table]
