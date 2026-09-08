@@ -1,10 +1,20 @@
-[color=#FF6E19][b]Originally founded in 1/28/12 by [nation]Vultopia[/nation], Foxtopia served as a home to a wide variety of multi-species nations.[/b][/color]
-[hr]
-[b]Bulletin:[/b]
-[list]
-[*]Join the vulpine revolution! ARF! ARF! ARF!
-[*][b][color=#5BCEFA]Trans rights[/color] [color=#cfcfcf]are[/color] [color=#F5A9B8]HUMAN RIGHTS![/color][/b]
-[*][b][color=#FF0000]H[/color][color=#FF060B]a[/color][color=#FF0D17]p[/color][color=#FF1422]p[/color][color=#FF1B2E]y[/color] [color=#FF2945]V[/color][color=#FF3051]a[/color][color=#FF375C]l[/color][color=#FF3E68]e[/color][color=#FF4573]n[/color][color=#FF4C7F]t[/color][color=#FF538B]i[/color][color=#FF5A96]n[/color][color=#FF61A2]e[/color][color=#FF68AD]&#39;[/color][color=#FF6FB9]s[/color] [color=#FF7DD0]D[/color][color=#FF84DC]a[/color][color=#FF8BE7]y[/color][color=#FF92F3]![/color][/b]
-[/list]
-[hr]
-[table][tr][td][color=e79124]Message [nation]Protoland[/nation] to be converted to fox[/color][/td][td]Map under construction again[/td][td][color=de3f3f]No extra note for now[/color][/td][/tr][/table]
+[table=noheader][tr][td=c1]&amp;#129418;[font=arial][b][color=#FF7105]W[/color][color=#FF7404]e[/color][color=#FF7704]l[/color][color=#FF7A04]c[/color][color=#FF7E04]o[/color][color=#FF8103]m[/color][color=#FF8403]e[/color] [color=#FF8B03]t[/color][color=#FF8E02]o[/color] [color=#FF9502]F[/color][color=#FF9802]o[/color][color=#FF9B01]x[/color][color=#FF9F01]t[/color][color=#FFA201]o[/color][color=#FFA501]p[/color][color=#FFA900]i[/color][color=#FFAC00]a[/color][color=#FFAF00]![/color][/b][/font]&amp;#129418;[/td][/tr]
+[/table]
+
+[table=noheader][tr][td=c1][url=https://www.nationstates.net/nation=foxsylvania/detail=factbook/id=2813600][color=#FF6347][b][font=arial]RMB Guidelines[/font][/b][/color][/url][/td]
+[td][color=#FFA500][b][font=nationstates]no idea what tiny text is for.[/font] [font=helvetica]Helvetica font[/font][/b][/color][/td]
+[td][color=#FF6347][b][font=nationstates]small symbols I guess[/font] [font=impact]This place supports Impact, cool[/font][/b][/color][/td]
+[td][color=#FFA500][b][font=nationstates] &amp;#9872;[/font] [font=courier]Courier font[/font][/b][/color][/td]
+[td][color=#FF6347][b][font=nationstates]eee[/font] [font=georgia]Georgia font[/font][/b][/color][/td][/tr][/table]
+
+[table=noheader][td=c3] Sample text [list][*]Bulletin one goes here
+[*]Bulletin two goes here
+[*]Bulletin three goes here
+[*]Bulletin four goes here[/td]
+
+[td=c4]Sample text in column 2[list][*]Bulletin five goes here
+[*]Bulletin six goes here
+[*]Bulletin seven goes here
+[*]Finally, bulletin eight[/td]
+
+[/table]
