@@ -1,15 +1,15 @@
 A region for the provinces of [nation]Colmis[/nation]. 
 
 [b]Major Provinces[/b]
-[nation]Emerod[/nation], [nation]Mathebroy[/nation], [nation]Cedram[/nation], [nation]Conolan[/nation], [nation]Gabelas[/nation], [nation]Rommied[/nation], [nation]Bowlabe[/nation], [nation]Ionata Capital District[/nation]
+[nation]Emerod[/nation], [nation]Mathebroy[/nation], [nation]Cedram[/nation], [nation]Conolan[/nation], [nation]Gabelas[/nation], [nation]Rommied[/nation], [nation]Bowlabe[/nation]
 
 [b]Minor Provinces[/b]
-[nation]Spahnea[/nation], [nation]Antonan[/nation], [nation]Celleo[/nation], [nation]Marshin[/nation], [nation]Levenly[/nation], [nation]Gravilant[/nation], [nation]Bramfeld-Pilizana[/nation], [nation]Ashailay[/nation], [nation]Casilam[/nation], [nation]Jaria-Bomwell[/nation], [nation]Raimell[/nation], [nation]Luverica[/nation], [nation]Empalion[/nation], [nation]Josoler-Maulia[/nation], [nation]Casteros[/nation], [nation]Hipcha[/nation], [nation]Marbolan[/nation]
+[nation]Spahnea[/nation], [nation]Antonan[/nation], [nation]Celleo[/nation], [nation]Marshin[/nation], [nation]Levenly[/nation], [nation]Gravilant[/nation], [nation]Bramfeld-Pilizana[/nation], [nation]Ashailay[/nation], [nation]Casilam[/nation], [nation]Jaria-Bomwell[/nation], [nation]Raimell[/nation], [nation]Luverica[/nation], [nation]Empalion[/nation], [nation]Josoler-Maulia[/nation], [nation]Avelena[/nation], [nation]Hipcha[/nation], [nation]Marbolan[/nation]
 
-[i]Westrath and its City-States[/i]
-[nation]Westrath[/nation], [nation]Melendave[/nation], [nation]Tediugh[/nation], [nation]Nolabean[/nation], [nation]Mackleven[/nation], [nation]Cherush[/nation], [nation]Dunath[/nation], [nation]Antonera[/nation], [nation]Calram[/nation], [nation]Everstaff[/nation], [nation]Crossory[/nation]
+[nation]Westrath[/nation] [i]and its City-States[/i]
+[nation]Melendave[/nation], [nation]Tediugh[/nation], [nation]Nolabean[/nation], [nation]Mackleven[/nation], [nation]Cherush[/nation], [nation]Dunath[/nation], [nation]Antonera[/nation], [nation]Calram[/nation], [nation]Everstaff[/nation], [nation]Crossory[/nation]
 
-[i]Capital City Districts (Ionata)[/i]
+[nation]Ionata Capital District[/nation] [i]boroughs[/i]:
 [nation]Holy Talitha[/nation], [nation]Giddibash[/nation], [nation]Cipori[/nation], [nation]Canturin[/nation]
 
 For trading cards planned, see [region]Catholic Art Gallery[/region] and [region]Here Lies Squidwards Hopes and Dreams[/region]
