@@ -2,7 +2,7 @@
 [/table]
 
 [table=noheader][tr][td=c1][url=https://www.nationstates.net/nation=foxsylvania/detail=factbook/id=2813600][color=#FF6347][b][font=arial]RMB Guidelines[/font][/b][/color][/url][/td]
-[td][color=#FFA500][b][font=nationstates]no idea what tiny text is for.[/font] [font=helvetica]Helvetica font[/font][/b][/color][/td]
+[td][url=https://www.nationstates.net/page=dispatch/id=2814161][color=#FFA500][b][font=nationstates]&amp;#128366;[/font] [font=arial]News Bulletin[/font][/b][/color][/url][/td]
 [td][color=#FF6347][b][font=nationstates]small symbols I guess[/font] [font=impact]This place supports Impact, cool[/font][/b][/color][/td]
 [td][color=#FFA500][b][font=nationstates] &amp;#9872;[/font] [font=courier]Courier font[/font][/b][/color][/td]
 [td][color=#FF6347][b][font=nationstates]eee[/font] [font=georgia]Georgia font[/font][/b][/color][/td][/tr][/table]
