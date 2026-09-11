@@ -26,6 +26,7 @@
 [tr][td][nation]Penaconia[/nation][/td][td]Senator[/td][/tr]
 [tr][td][nation]The Unionary United States[/nation][/td][td]Senator[/td][/tr]
 [tr][td][nation]Grand Federal Republic of America[/nation][/td][td]Senator[/td][/tr]
+[tr][td][nation]Revengi[/nation][/td][td]Senator[/td][/tr]
 [/table]
 
 [hr]
