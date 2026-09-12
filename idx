@@ -14035,6 +14035,7 @@ archive/antarctic_continent.txt
 archive/antarctic_defense_coalition.txt
 archive/antarctic_democracy.txt
 archive/antarctic_empire.txt
+archive/antarctic_expansion_organization.txt
 archive/antarctic_faction.txt
 archive/antarctic_federation.txt
 archive/antarctic_front.txt
@@ -35637,6 +35638,7 @@ archive/british_museum_reading_room.txt
 archive/british_nationalist_alliance.txt
 archive/british_national_party.txt
 archive/british_nations.txt
+archive/british_nationstates.txt
 archive/british_newfoundland.txt
 archive/british_new_guinea.txt
 archive/british_new_zealand_territories.txt
@@ -72015,6 +72017,7 @@ archive/edge_of_eden.txt
 archive/edge_of_forever.txt
 archive/edge_of_glory.txt
 archive/edge_of_insanity.txt
+archive/edge_of_observable_universe.txt
 archive/edge_of_the_abyss.txt
 archive/edge_of_the_blade.txt
 archive/edge_of_the_empire.txt
@@ -88178,6 +88181,7 @@ archive/fozite.txt
 archive/fozocid.txt
 archive/fozsullixa.txt
 archive/foz_do_iguacu.txt
+archive/fpa_combined_armed_forces.txt
 archive/fpcb_nations.txt
 archive/fpcord.txt
 archive/fpc_yohc.txt
@@ -100329,6 +100333,7 @@ archive/great_empire_of_the_german_nation.txt
 archive/great_empire_of_valleria.txt
 archive/great_empire_of_venray.txt
 archive/great_empire_of_zaidias.txt
+archive/great_england.txt
 archive/great_erobern.txt
 archive/great_etosia.txt
 archive/great_euphoria_empire.txt
@@ -111179,6 +111184,7 @@ archive/humanity_first_alliance.txt
 archive/humanity_island.txt
 archive/humanity_reborn.txt
 archive/humanity_region.txt
+archive/humankind.txt
 archive/humankind_solidarity_assembly.txt
 archive/humanoid_creatures_coalition.txt
 archive/humanovanian_empire.txt
@@ -137767,6 +137773,7 @@ archive/land_of_bud_and_vibes.txt
 archive/land_of_burkhartia.txt
 archive/land_of_buttstuff_buttstufftopia.txt
 archive/land_of_cai.txt
+archive/land_of_calicheslia.txt
 archive/land_of_calradia.txt
 archive/land_of_canaan.txt
 archive/land_of_canget.txt
@@ -163012,6 +163019,7 @@ archive/nationstates_union_of_fascists.txt
 archive/nationstates_union_region.txt
 archive/nationstates_united.txt
 archive/nationstates_united_against_fascism.txt
+archive/nationstates_united_kingdom.txt
 archive/nationstates_united_left.txt
 archive/nationstates_united_nations.txt
 archive/nationstates_university.txt
@@ -163716,6 +163724,7 @@ archive/natsoc_utopia.txt
 archive/natsov.txt
 archive/natsov_party.txt
 archive/natso_party.txt
+archive/nattania.txt
 archive/natters.txt
 archive/natugem.txt
 archive/natupuv.txt
@@ -168859,6 +168868,7 @@ archive/new_taco_order.txt
 archive/new_tahaluf.txt
 archive/new_tahiti.txt
 archive/new_taipei_city.txt
+archive/new_tall.txt
 archive/new_talos.txt
 archive/new_talponia.txt
 archive/new_tamedia.txt
@@ -170972,6 +170982,7 @@ archive/noiran_lands.txt
 archive/noire.txt
 archive/noirexium.txt
 archive/noirland.txt
+archive/noise.txt
 archive/noise_and_violence.txt
 archive/noistow.txt
 archive/noisy_barbecue_smell_all_the_time.txt
@@ -175030,6 +175041,7 @@ archive/novum_eden.txt
 archive/novum_europa.txt
 archive/novum_ignotum.txt
 archive/novum_imperium.txt
+archive/novum_imperium_bellum.txt
 archive/novum_imperium_romanum.txt
 archive/novum_infinitum.txt
 archive/novum_lunaris_republicae.txt
@@ -175728,6 +175740,7 @@ archive/nstv.txt
 archive/nst_office_puppet_storage.txt
 archive/nst_pheonix_corporation.txt
 archive/nsuf.txt
+archive/nsuk.txt
 archive/nsun.txt
 archive/nsv.txt
 archive/nswiki.txt
@@ -175890,6 +175903,7 @@ archive/ns_transportation_council.txt
 archive/ns_union.txt
 archive/ns_union_of_soviet_socialist_republics.txt
 archive/ns_united.txt
+archive/ns_united_kingdom.txt
 archive/ns_united_nations.txt
 archive/ns_united_nations_army.txt
 archive/ns_united_regions.txt
@@ -182202,6 +182216,7 @@ archive/other_benelux_puppets.txt
 archive/other_defaults.txt
 archive/other_earth.txt
 archive/other_europe.txt
+archive/other_experinan_nations.txt
 archive/other_nations.txt
 archive/other_oceania.txt
 archive/other_other_world.txt
@@ -255304,6 +255319,7 @@ archive/the_coxynub_empire.txt
 archive/the_coyotes.txt
 archive/the_cozy_apartment_on_a_rainy_day.txt
 archive/the_cozy_cottage.txt
+archive/the_cozy_council.txt
 archive/the_cozy_realm.txt
 archive/the_co_alliance.txt
 archive/the_co_corporation.txt
@@ -257922,6 +257938,7 @@ archive/the_dragonclaw.txt
 archive/the_dragondell_nations_of_ironhaven.txt
 archive/the_dragonfly_islands.txt
 archive/the_dragonheart_keep.txt
+archive/the_dragonian_cascanians.txt
 archive/the_dragonian_nations.txt
 archive/the_dragonician_realms.txt
 archive/the_dragonic_alliance.txt
@@ -280084,6 +280101,7 @@ archive/the_nationstates_republic.txt
 archive/the_nationstates_retirment_home.txt
 archive/the_nationstates_saints.txt
 archive/the_nationstates_senate.txt
+archive/the_nationstates_shopping_mall.txt
 archive/the_nationstates_solidaric_triad.txt
 archive/the_nationstates_stables.txt
 archive/the_nationstates_tea_company.txt
@@ -286888,6 +286906,7 @@ archive/the_protectorate_of_stark_conservatives.txt
 archive/the_protectorate_of_swansitea.txt
 archive/the_protectorate_of_tbfc.txt
 archive/the_protectorate_of_the_bahamas.txt
+archive/the_protectorate_of_the_great_animals.txt
 archive/the_protectorate_of_the_kessik_dominion.txt
 archive/the_protectorate_of_the_sun.txt
 archive/the_protectorate_of_uganda.txt
@@ -296559,6 +296578,7 @@ archive/the_terran_general_council.txt
 archive/the_terran_human_coalition_of_sol.txt
 archive/the_terran_imperium.txt
 archive/the_terran_islands.txt
+archive/the_terran_league.txt
 archive/the_terran_peoples.txt
 archive/the_terran_rebel_base.txt
 archive/the_terran_republic.txt
@@ -305560,6 +305580,7 @@ archive/the_wooloo_pact_royal_army.txt
 archive/the_wooloo_sandlands.txt
 archive/the_wool_clan.txt
 archive/the_wool_soil.txt
+archive/the_wooster_high_school.txt
 archive/the_wopolen_pact.txt
 archive/the_worchire_makers.txt
 archive/the_word_bearers.txt
@@ -326287,6 +326308,7 @@ archive/ussr_2.txt
 archive/ussr_and_britannia.txt
 archive/ussr_and_eastern_europe.txt
 archive/ussr_and_the_eastern_bloc.txt
+archive/ussr_card_farm.txt
 archive/ussr_commonwealths.txt
 archive/ussr_ii.txt
 archive/ussr_of_russia.txt
@@ -331923,6 +331945,7 @@ archive/voloville.txt
 archive/volpe.txt
 archive/volruri_coven.txt
 archive/volsallahn_regions.txt
+archive/volska.txt
 archive/volskaya_industries.txt
 archive/volstokn.txt
 archive/volstovakia_abhyuday_dual_monarch_empire.txt
