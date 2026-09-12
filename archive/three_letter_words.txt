@@ -1,3 +1,5 @@
 There are 17576 possible 3 letter combinations, but not all of them are words.
 
 26x26x26=17576
+
+So far the eight nations in this region are all actually words in English.
