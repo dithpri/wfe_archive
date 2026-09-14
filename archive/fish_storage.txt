@@ -1,7 +1,7 @@
 [font=nationstates]&amp;#59468;[/font] Puppet storage for [nation]ForFishing[/nation] [font=nationstates]&amp;#59468;[/font]
 [hr]
 
-[font=nationstates]&amp;#59419;[/font] Regions: TNP, The Wellspring, NBB, and Euro [font=nationstates]&amp;#59419;[/font]
+[font=nationstates]&amp;#59419;[/font] Regions: The North Pacific, No Big Banks, and Europeia [font=nationstates]&amp;#59419;[/font]
 [hr]
 
 [color=gold][font=nationstates]&amp;#59413;[/font] Featured: 12/10/2025[/color] and Founded: 10/8/25 [font=nationstates]&amp;#59413;[/font]
@@ -12,10 +12,4 @@
 
 [b]Oversea Lands of ForFishing[/b]
 [nation]Truzipa[/nation]
-[nation]Western Sunset Coconut Island[/nation][hr]
-
-[b]Satellite States[/b]
-[nation]Islands of ForFishing[/nation]
-[nation]Shooting Stars of ForFishing[/nation]
-[nation]Fish in MJT[/nation]
-[nation]Southern Sunset Coconut Island[/nation][hr]
+[nation]Western Sunset Coconut Island[/nation]
