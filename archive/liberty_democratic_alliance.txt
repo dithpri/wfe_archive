@@ -25,7 +25,7 @@
 
 [table]
 [tr][td][b]Regional Summary[/b][/td][td][b]Total[/b][/td][/tr]
-[tr][td]Population[/td][td]276,050,000,000 &amp;#8593;[/td][/tr]
-[tr][td]Nation Count[/td][td]39 &amp;#8595;[/td][/tr]
-[tr][td]Total GDP (NSD)[/td][td]NS$52,514,883,050,000,000 &amp;#8593;[/td][/tr]
+[tr][td]Population[/td][td]276,760,000,000 &amp;#8593;[/td][/tr]
+[tr][td]Nation Count[/td][td]38 &amp;#8595;[/td][/tr]
+[tr][td]Total GDP (NSD)[/td][td]NS$52,788,073,510,000,000 &amp;#8593;[/td][/tr]
 [/table]
