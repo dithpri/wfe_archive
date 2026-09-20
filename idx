@@ -14708,6 +14708,7 @@ archive/anti_eastern_european_federation_company.txt
 archive/anti_ecofascism_faction.txt
 archive/anti_elite_pack.txt
 archive/anti_emoji_cat_world.txt
+archive/anti_emoji_cat_world_mall.txt
 archive/anti_emo_union.txt
 archive/anti_entropy.txt
 archive/anti_escb_coalition.txt
@@ -17952,6 +17953,7 @@ archive/arminkuren.txt
 archive/arminnion.txt
 archive/armira.txt
 archive/armireadaria_union.txt
+archive/armisia.txt
 archive/armistice.txt
 archive/armis_paratos.txt
 archive/armitage.txt
@@ -23091,6 +23093,7 @@ archive/azell.txt
 archive/azella.txt
 archive/azelle.txt
 archive/azelma.txt
+archive/azelonesia.txt
 archive/azenutia.txt
 archive/azen_union.txt
 archive/azeraenor.txt
@@ -51469,6 +51472,7 @@ archive/concord_islands_coalition.txt
 archive/concord_krajin.txt
 archive/concord_nc.txt
 archive/concord_of_friedenburg.txt
+archive/concord_of_lyffria.txt
 archive/concord_of_nations.txt
 archive/concord_of_roses.txt
 archive/concord_of_security.txt
@@ -62053,6 +62057,7 @@ archive/democracy_of_discord.txt
 archive/democracy_of_eghs.txt
 archive/democracy_of_freedom.txt
 archive/democracy_of_hellas.txt
+archive/democracy_of_minerva.txt
 archive/democracy_of_people.txt
 archive/democracy_of_tea_and_british_nations.txt
 archive/democracy_of_the_leftism.txt
@@ -68989,6 +68994,7 @@ archive/dumibo.txt
 archive/dumiburg.txt
 archive/dumigrad.txt
 archive/dumimy.txt
+archive/dumlands.txt
 archive/dummies_united_against_smarties_aka_duas.txt
 archive/dummies_with_guns.txt
 archive/dummie_surroundings.txt
@@ -76375,6 +76381,7 @@ archive/eriselani_confederation.txt
 archive/erisia.txt
 archive/erisian_isles.txt
 archive/erisian_temporary_autonomous_zone.txt
+archive/erisopia.txt
 archive/eris_archipelago.txt
 archive/eris_land.txt
 archive/eris_rp.txt
@@ -77243,6 +77250,7 @@ archive/eternal_lands_of_cheese.txt
 archive/eternal_liberty.txt
 archive/eternal_life.txt
 archive/eternal_light.txt
+archive/eternal_limes.txt
 archive/eternal_longship.txt
 archive/eternal_nation.txt
 archive/eternal_nexus.txt
@@ -98182,6 +98190,7 @@ archive/grand_govement_of_the_duchy.txt
 archive/grand_gullet_group.txt
 archive/grand_gungalungan_empire.txt
 archive/grand_harbour.txt
+archive/grand_hardenburghan_federation.txt
 archive/grand_haven_area_of_awsomness.txt
 archive/grand_haven_authority.txt
 archive/grand_haven_land_of_nations.txt
@@ -98517,6 +98526,7 @@ archive/gran_imperio_latinoamericano.txt
 archive/gran_ivanssia.txt
 archive/gran_los_angeles.txt
 archive/gran_mexico.txt
+archive/gran_municipium.txt
 archive/gran_nacion.txt
 archive/gran_orzonia.txt
 archive/gran_patria.txt
@@ -100423,6 +100433,7 @@ archive/great_german_reich.txt
 archive/great_german_volgn.txt
 archive/great_giga_chad.txt
 archive/great_gingeria.txt
+archive/great_global_community_of_nations.txt
 archive/great_globe.txt
 archive/great_glorious_gulag.txt
 archive/great_glorious_nations_of_free_peoples.txt
@@ -105520,6 +105531,7 @@ archive/heidi.txt
 archive/heidiland.txt
 archive/heidisn.txt
 archive/heidnische_dichtkunst.txt
+archive/heigellios.txt
 archive/heightcladian_empire.txt
 archive/heights_26.txt
 archive/heihe.txt
@@ -123416,6 +123428,7 @@ archive/isla_de_wankonia.txt
 archive/isla_de_yara.txt
 archive/isla_du_valdravia.txt
 archive/isla_fire.txt
+archive/isla_gikl.txt
 archive/isla_grande_de_tierra_del_fuego.txt
 archive/isla_instatenia.txt
 archive/isla_martin_garcia.txt
@@ -153794,6 +153807,7 @@ archive/mereenstapor.txt
 archive/merehez.txt
 archive/merelav.txt
 archive/merellien_genpetor.txt
+archive/merely_marching_far_away.txt
 archive/merengard.txt
 archive/mereon_regional_economic_zone.txt
 archive/meres.txt
@@ -165860,6 +165874,7 @@ archive/neu_garden.txt
 archive/neu_germania.txt
 archive/neu_germanium.txt
 archive/neu_germannia.txt
+archive/neu_hansa.txt
 archive/neu_hyperborea_arisches_grossreich.txt
 archive/neu_icelandia.txt
 archive/neu_liberta.txt
@@ -167520,6 +167535,7 @@ archive/new_genuan_rebirth.txt
 archive/new_genzi.txt
 archive/new_german.txt
 archive/new_germania.txt
+archive/new_germanic_empire.txt
 archive/new_germanic_states.txt
 archive/new_germanic_union.txt
 archive/new_germanischen_allianz.txt
@@ -174843,6 +174859,7 @@ archive/nova_newingtonia.txt
 archive/nova_noctua.txt
 archive/nova_norrlandia.txt
 archive/nova_norvod.txt
+archive/nova_norway.txt
 archive/nova_nova_hibernian_empire.txt
 archive/nova_numenor.txt
 archive/nova_omck.txt
@@ -194185,6 +194202,7 @@ archive/project_oblivion.txt
 archive/project_omicron.txt
 archive/project_overdosing_worm.txt
 archive/project_overwhelming_vm.txt
+archive/project_ovsidon.txt
 archive/project_palisade.txt
 archive/project_paradigm.txt
 archive/project_perfection.txt
@@ -205045,6 +205063,7 @@ archive/region_of_outcasts.txt
 archive/region_of_overordnede.txt
 archive/region_of_overthrown_monarchs.txt
 archive/region_of_oztroy.txt
+archive/region_of_pacifico.txt
 archive/region_of_pacifism.txt
 archive/region_of_pain.txt
 archive/region_of_pandia.txt
@@ -249965,6 +249984,7 @@ archive/the_bulldogers.txt
 archive/the_bulldogs.txt
 archive/the_bulleromyces_pacific.txt
 archive/the_bullet_club.txt
+archive/the_bullied_who_will_not_bow.txt
 archive/the_bullitt_central_cougars.txt
 archive/the_bullwark.txt
 archive/the_bull_raiders.txt
@@ -252733,6 +252753,7 @@ archive/the_combined_regions.txt
 archive/the_combined_syndicates_of_the_world.txt
 archive/the_combined_universal_union.txt
 archive/the_combines_earth.txt
+archive/the_combine_2.txt
 archive/the_combine_coalition.txt
 archive/the_combine_empire.txt
 archive/the_combine_home_world.txt
@@ -262592,6 +262613,7 @@ archive/the_first_0rder.txt
 archive/the_first_0rder_reich.txt
 archive/the_first_2_fallouts.txt
 archive/the_first_alliance.txt
+archive/the_first_and_second_republic_alliance.txt
 archive/the_first_annals_of_dankous_memeous.txt
 archive/the_first_arousonacian_reich.txt
 archive/the_first_ascendancy.txt
@@ -274968,6 +274990,7 @@ archive/the_lancastrians_and_postamericans.txt
 archive/the_lancastrian_empire.txt
 archive/the_lancastrian_empires.txt
 archive/the_lancelonian_alliance.txt
+archive/the_lancelonian_empire.txt
 archive/the_lanceolan_empire.txt
 archive/the_lancer_fan_club.txt
 archive/the_lanceshir_republic.txt
@@ -302300,6 +302323,7 @@ archive/the_united_pizzeria.txt
 archive/the_united_places_of_the_land.txt
 archive/the_united_planes.txt
 archive/the_united_planetary_federation.txt
+archive/the_united_planets_and_nations.txt
 archive/the_united_planets_of_neo_eidplures.txt
 archive/the_united_planets_of_starbound.txt
 archive/the_united_planet_of_earth.txt
@@ -319292,6 +319316,7 @@ archive/united_acraria.txt
 archive/united_acrium.txt
 archive/united_advancement_federation.txt
 archive/united_adveldrin_kingdoms.txt
+archive/united_aecw_military_forces.txt
 archive/united_aerospace_corporation.txt
 archive/united_aerospace_corportation.txt
 archive/united_affiliated_states.txt
@@ -324228,6 +324253,7 @@ archive/united_states_of_central_america.txt
 archive/united_states_of_central_europe.txt
 archive/united_states_of_cerberrus.txt
 archive/united_states_of_china_and_singapore.txt
+archive/united_states_of_cleod.txt
 archive/united_states_of_columbia.txt
 archive/united_states_of_comare.txt
 archive/united_states_of_commuria.txt
@@ -327127,6 +327153,7 @@ archive/vaduy.txt
 archive/vaduz.txt
 archive/vaegir.txt
 archive/vaegir_lands.txt
+archive/vael.txt
 archive/vaelan.txt
 archive/vaelandic_alliance.txt
 archive/vaelaryia.txt
@@ -328058,6 +328085,7 @@ archive/varinthras_multiverse.txt
 archive/variom.txt
 archive/various_crabsnapples.txt
 archive/various_jazzists.txt
+archive/various_puppets_storage.txt
 archive/various_shapes.txt
 archive/various_soviet_states_of_poogwistan.txt
 archive/varis.txt
@@ -331660,6 +331688,7 @@ archive/vizend.txt
 archive/vizewex.txt
 archive/vizexet.txt
 archive/vizilet.txt
+archive/vizina.txt
 archive/vizix.txt
 archive/vizokeq.txt
 archive/vizu.txt
