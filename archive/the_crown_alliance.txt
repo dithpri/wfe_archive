@@ -1,4 +1,4 @@
-[color=c9a227][font=georgia]&amp;#10021; [b]The Crown Alliance[/b] &amp;#10021;[/color][/font]
+[color=c9a227][font=georgia]&amp;#128081;&amp;#10021; [b]The Crown Alliance[/b] &amp;#10021;&amp;#128081;[/color][/font]
 [color=c9a227][font=georgia][i]&quot;Many Crowns. One Alliance.&quot;[/i][/color][/font]
 
 [color=c9a227][font=georgia]Founded on September 19, 2026[/color][/font]
@@ -14,9 +14,9 @@
 [url=region=The Mood][b][color=#00853d][font=georgia]The[/color][/font] [font=georgia][color=#c8102e]Mood[/color][/font][/b][/url]
 [url=region=The Belkans][b][color=#0557e7][font=georgia]The[/color][/font] [font=georgia][color=#f50506]Belkans[/color][/font][/b][/url]
 [url=region=The Sliver Coast][b][color=black][font=georgia]The[/color][/font] [font=georgia][color=#fcdd09]Sliver[/color][/font] [font=georgia][color=#0f47af]Coast[/color][/font][/b][/url]
-[url=region=Grand Duchy of Foxf][b][color=#0f47af][font=georgia]Grand[/color][/font] [font=georgia][color=#fcdd09]Duchy[/color][/font] [font=georgia][color=#fcdd09]of[/color][/font] [font=georgia][color=#0f47af]Foxf[/color][/font][/b][/url]
-[url=region=The Grand Duchy of Kebetia][b][color=#33aaee][font=georgia]Grand[/color][/font] [font=georgia][color=#f9e206]Duchy[/color][/font] [font=georgia][color=#f9e206]of[/color][/font] [font=georgia][color=#942584]Kebetia[/color][/font][/b][/url]
 [url=region=The Pacific Coast][b][color=black][font=georgia]The[/color][/font] [font=georgia][color=#ffdc06]Pacific[/color][/font] [font=georgia][color=#8ac3e2]Coast[/color][/font][/b][/url]
+[url=region=Grand Duchy of Foxf][b][color=#0f47af][font=georgia]The Grand[/color][/font] [font=georgia][color=#fcdd09]Duchy[/color][/font] [font=georgia][color=#fcdd09]of[/color][/font] [font=georgia][color=#0f47af]Foxf[/color][/font][/b][/url]
+[url=region=The Grand Duchy of Kebetia][b][color=#33aaee][font=georgia]The Grand[/color][/font] [font=georgia][color=#f9e206]Duchy[/color][/font] [font=georgia][color=#f9e206]of[/color][/font] [font=georgia][color=#942584]Kebetia[/color][/font][/b][/url]
 [url=region=Orcusa][b][color=#fa750b][font=georgia]Orcusa[/color][/font][/b][/url]
 [url=region=Love Duchy][b][color=#ff63e5][font=georgia]Love[/color][/font] [font=georgia][color=#ff63e5]Duchy[/color][/font][/b][/url]
 [url=region=The Beltics][b][color=black][font=georgia]The[/color][/font] [color=grey][font=georgia]Beltics[/color][/font][/b][/url]

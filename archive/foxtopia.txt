@@ -4,11 +4,12 @@
 [table=noheader][tr][td=c1][url=https://www.nationstates.net/nation=foxsylvania/detail=factbook/id=2813600][color=#FF6347][b][font=arial]RMB Guidelines[/font][/b][/color][/url][/td]
 [td][url=https://www.nationstates.net/page=dispatch/id=2814161][color=#FFA500][b][font=nationstates]&amp;#9993;&amp;#65038;[/font] [font=arial]News Bulletin[/font][/b][/color][/url][/td]
 [td][url=https://www.nationstates.net/nation=foxsylvania/detail=factbook/id=2815369][color=#FF6347][b][font=nationstates]&amp;#128366;[/font] [font=arial]Constitution[/font][/b][/color][/url][/td]
-[td][color=#FFA500][b][font=nationstates] &amp;#9872;[/font] [font=courier]Courier font[/font][/b][/color][/td]
+[td][url=https://www.nationstates.net/page=dispatch/id=2817358][color=#FFA500][b][font=nationstates] &amp;#9872;[/font] [font=arial]Embassy Hall[/font][/b][/color][/url][/td]
 [td][color=#FF6347][b][font=nationstates]eee[/font] [font=georgia]Georgia font[/font][/b][/color][/td][/tr][/table]
 
-[table=noheader][td=c3] Sample text [list][*]Bulletin one goes here
-[*]Bulletin two goes here
+[table=noheader][td=c3]Some quick news stuff I post goes here[list]
+[*]Check out the new Embassy Hall link above and read what some of our embassies mean to us
+[*][b][color=#FF7B2E]H[/color][color=#FF7E2D]A[/color][color=#FF812C]P[/color][color=#FF852B]P[/color][color=#FF882A]Y[/color] [color=#FF8F28]N[/color][color=#FF9227]A[/color][color=#FF9626]T[/color][color=#FF9925]I[/color][color=#FF9C24]O[/color][color=#FFA023]N[/color][color=#FFA322]A[/color][color=#FFA721]L[/color] [color=#FFAD1F]F[/color][color=#FFB11E]O[/color][color=#FFB41D]X[/color] [color=#FFBB1B]D[/color][color=#FFBE1A]A[/color][color=#FFC219]Y[/color][color=#FFC518]![/color][/b]
 [*]Bulletin three goes here
 [*]Bulletin four goes here[/td]
 
