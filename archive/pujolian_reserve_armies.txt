@@ -1,1 +1,1 @@
-puppet storage for Pujolia
+puppet storage for pujolia
