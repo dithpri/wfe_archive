@@ -5,3 +5,10 @@
 [*][region]Project Casino[/region]
 [*][region]Project Nighthawk[/region]
 [/list][hr]
+The Government Positions are as follows:
+[list]
+[*]Galactic Chancellor
+[*]Secretary of Defense
+[*]Galactic Market Leader
+[*]Minister of Research
+[/list]

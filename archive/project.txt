@@ -1,1 +1,23 @@
-Home to a variety of countries.
+[b][region]Project[/region][/b]: Home to a variety of countries.
+
+
+[hr][b]Governor[/b]
+[nation=long]Hpar[/nation]
+[b]Successor[/b]
+[nation=long]Informatica[/nation]
+[b]Diplomacy Officer[/b]
+[nation=long]The Self-Government[/nation]
+[b]Vice-Delegate[/b]
+[nation=long]Modon[/nation]
+[b]Homeland Officer[/b]
+[nation=long]Poleric[/nation]
+[b]Research Officer[/b]
+[nation=long]Medinal[/nation]
+[b]Communications Officer[/b]
+[nation=long]Convar[/nation]
+[b]Security Officer[/b]
+[nation=long]Powerd[/nation]
+
+
+[hr]
+Embassies requests welcome!
