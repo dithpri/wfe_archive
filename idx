@@ -15978,6 +15978,7 @@ archive/appalachian_area.txt
 archive/appalachian_confederacy.txt
 archive/appalachian_empire.txt
 archive/appalachian_entente.txt
+archive/appalachian_free_states.txt
 archive/appalachian_gentlemen.txt
 archive/appalachian_mountain.txt
 archive/appalachian_mountains.txt
@@ -41955,6 +41956,7 @@ archive/cat_apocalypse.txt
 archive/cat_army.txt
 archive/cat_bros_united_countries.txt
 archive/cat_burglars.txt
+archive/cat_cafe.txt
 archive/cat_castle.txt
 archive/cat_city.txt
 archive/cat_clan.txt
@@ -43744,6 +43746,7 @@ archive/cesuhe.txt
 archive/cesupak.txt
 archive/cesupis.txt
 archive/cesylvania.txt
+archive/ces_diplomacy_club.txt
 archive/ceta.txt
 archive/cetaas.txt
 archive/cetacea.txt
@@ -52154,6 +52157,7 @@ archive/confederation.txt
 archive/confederations.txt
 archive/confederation_argentidad.txt
 archive/confederation_armed_forces.txt
+archive/confederation_auricustodia.txt
 archive/confederation_baath_of_atlantic.txt
 archive/confederation_beograde.txt
 archive/confederation_capital.txt
@@ -52396,6 +52400,7 @@ archive/confederation_of_moitystates.txt
 archive/confederation_of_monarchies.txt
 archive/confederation_of_monarchs.txt
 archive/confederation_of_monotheistic_countries.txt
+archive/confederation_of_most_noble_territories.txt
 archive/confederation_of_nation.txt
 archive/confederation_of_nationalist_nations.txt
 archive/confederation_of_nationalist_powers.txt
@@ -80020,6 +80025,7 @@ archive/e_nation.txt
 archive/e_o_f_l.txt
 archive/e_pluribus_unum.txt
 archive/e_pose.txt
+archive/e_p_i_c.txt
 archive/e_quattuor_unum.txt
 archive/e_region.txt
 archive/e_region_10000.txt
@@ -86920,6 +86926,7 @@ archive/forma.txt
 archive/formaijqiia288772iwuajjai8_sihsk9jajoia8.txt
 archive/formaldehyde.txt
 archive/forman_nations.txt
+archive/forman_states.txt
 archive/formation.txt
 archive/formatorium.txt
 archive/format_empire.txt
@@ -101632,6 +101639,7 @@ archive/grim_reaper.txt
 archive/grim_south.txt
 archive/grim_wasteland.txt
 archive/grinard.txt
+archive/grindcore.txt
 archive/grindorath.txt
 archive/grindr.txt
 archive/grindstone.txt
@@ -120580,6 +120588,7 @@ archive/interisland_union.txt
 archive/interitus_terra.txt
 archive/interkon.txt
 archive/interlagos.txt
+archive/interland.txt
 archive/interleft.txt
 archive/interleft_roleplay_region.txt
 archive/interlegia.txt
@@ -154421,6 +154430,7 @@ archive/metrion.txt
 archive/metro.txt
 archive/metrocity_empire.txt
 archive/metroembassies.txt
+archive/metrograde_institute_of_technology.txt
 archive/metroid.txt
 archive/metroid_prime.txt
 archive/metroiter.txt
@@ -164003,6 +164013,7 @@ archive/nato_2022_school.txt
 archive/nato_2023.txt
 archive/nato_2024.txt
 archive/nato_9999.txt
+archive/nato_710777777.txt
 archive/nato_air_force.txt
 archive/nato_alliance.txt
 archive/nato_alliance_2022.txt
@@ -182521,6 +182532,7 @@ archive/otaku_land.txt
 archive/otaku_nukkas.txt
 archive/otaku_planet.txt
 archive/otaku_power.txt
+archive/otaku_regions_against_liberals.txt
 archive/otaku_united.txt
 archive/otaku_utopia.txt
 archive/otaku_world.txt
@@ -221641,6 +221653,7 @@ archive/silent_lake.txt
 archive/silent_lands.txt
 archive/silent_magic.txt
 archive/silent_night.txt
+archive/silent_outsider.txt
 archive/silent_place.txt
 archive/silent_revolution.txt
 archive/silent_ritual.txt
@@ -239791,6 +239804,7 @@ archive/telegos.txt
 archive/telegram.txt
 archive/telegramme.txt
 archive/telegrammia.txt
+archive/telegramonosis.txt
 archive/telegram_land.txt
 archive/telegram_pals.txt
 archive/telekiloleshu.txt
@@ -278546,6 +278560,7 @@ archive/the_many_faces_of_kven.txt
 archive/the_many_faces_of_olivia.txt
 archive/the_many_kingdoms_of_westeros.txt
 archive/the_many_lands.txt
+archive/the_many_names_of_lovateria.txt
 archive/the_many_nations.txt
 archive/the_many_nations_of_chinoww.txt
 archive/the_many_nations_of_iodoveria.txt
@@ -279488,6 +279503,7 @@ archive/the_million_dollar_club.txt
 archive/the_millitary_empire.txt
 archive/the_millitary_wing_of_the_oeu.txt
 archive/the_miltitary_empire_of_flaming_spear.txt
+archive/the_miltonian_union.txt
 archive/the_minarchic_alliance.txt
 archive/the_minarchist_alliance.txt
 archive/the_minarchusic_foreign_relations_office.txt
@@ -295416,6 +295432,7 @@ archive/the_sparkle_confederation.txt
 archive/the_sparkle_factor.txt
 archive/the_sparkle_friends.txt
 archive/the_sparkle_islands.txt
+archive/the_sparkliest_region.txt
 archive/the_sparkling_army.txt
 archive/the_sparkling_constellation.txt
 archive/the_sparkling_crisis.txt
@@ -325981,6 +325998,7 @@ archive/untangle.txt
 archive/untapped_revenge.txt
 archive/untarii.txt
 archive/untco.txt
+archive/untecna.txt
 archive/untecnan_farms.txt
 archive/unted_federation_of_evil.txt
 archive/unterburg_pakt.txt
@@ -336281,6 +336299,7 @@ archive/western_asia.txt
 archive/western_assembly.txt
 archive/western_assesmbly.txt
 archive/western_atlantic.txt
+archive/western_atlantic_continent.txt
 archive/western_atlantic_ocean.txt
 archive/western_australia.txt
 archive/western_australian_republic.txt
@@ -343451,6 +343470,7 @@ archive/xray.txt
 archive/xreoland_fleet.txt
 archive/xresnes.txt
 archive/xrinpoia.txt
+archive/xrisi_avgi.txt
 archive/xrkrs_region.txt
 archive/xros_heart.txt
 archive/xrush.txt
