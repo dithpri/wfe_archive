@@ -2,8 +2,9 @@
 &amp;#9812; Commonwealth Realm of [nation=long]Walbard[/nation] &amp;#9812;
 [nation]Queen Amelie Island[/nation] is the Official Capital Territory.
 
-&amp;#128081; Sovereign: [nation]King Carlisle I[/nation]
-&amp;#128081; Co-Sovereign: [nation]Queen Amelie I[/nation]
+&amp;#128081; His Majesty: [nation]King Carlisle I[/nation]
+&amp;#128081; Her Majesty: [nation]Queen Amelie I[/nation]
+&amp;#129761; Prince of the Islands: [nation]Prince Xander[/nation]
 
-Denomyn: [nation]Walbard[/nation]ian
+Denomyn: Pacific [nation]Walbard[/nation]ian
 Ruling Household: [nation]The Tudor Dynasty[/nation]
