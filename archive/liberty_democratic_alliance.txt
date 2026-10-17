@@ -1,5 +1,5 @@
 [table=noheader]
-[tr][td=2][b]48 Nations As Of October 2340 (2026 AD)[/b][/td][/tr]
+[tr][td=2][b]46 Nations As Of October 2340 (2026 AD)[/b][/td][/tr]
 [tr][td=2][font=nationstates]&amp;#59419;[/font] [url=nationstates.net/region=lda_regional_senate][b][font=Times New Roman]Senate[/b][/font][/url] | [font=nationstates]&amp;#62030;[/font] [url=nationstates.net/region=lda_supreme_court][b][font=Times New Roman]Supreme Court[/b][/font][/url] | [font=nationstates]&amp;#59418;[/font][url=nationstates.net/region=lda_ministers_council] [b][font=Times New Roman]Council of Ministers[/b][/font][/url] | [font=nationstates]&amp;#59435;[/font][url=nationstates.net/page=dispatch/id=1484156] [b][font=Times New Roman]Member List[/b][/font][/url] | [font=nationstates]&amp;#59464;[/font] [url=https://calendar.google.com/calendar/embed?src=libertydemocraticalliance%40gmail.com&amp;ctz=Etc%2FGM][b][font=Times New Roman]Regional Calendar[/b][/font][/url] | [font=nationstates]&amp;#59431;[/font] [url=https://discord.gg/pZDv7mb8Rp][b][font=Times New Roman]Discord[/b][/font][/url] | [font=nationstates]&amp;#61637;[/font][url=nationstates.net/region=the_lda_puppet_locker] [b][font=Times New Roman]Puppet Locker[/b][/font][/url] | [b][font=Times New Roman][url=https://sites.google.com/view/libertydemocraticalliance/home]&amp;#127782; Website / Interactive Map / Live Weather / News[/url][/font][/b][/td][/tr]
 
 [tr][td][b][font=Times New Roman]What-to-Do List[/b][/font]
@@ -25,9 +25,9 @@
 
 [table]
 [tr][td][b]Regional Summary[/b][/td][td][b]Total[/b][/td][/tr]
-[tr][td]Population[/td][td]326,986,000,000 &amp;#8593;[/td][/tr]
-[tr][td]Nation Count[/td][td]48 &amp;#8593;[/td][/tr]
-[tr][td]Total GDP (NSD)[/td][td]NS$61,630,129,970,000,000 &amp;#8593;[/td][/tr]
+[tr][td]Population[/td][td]310,877,000,000 &amp;#8595;[/td][/tr]
+[tr][td]Nation Count[/td][td]46 &amp;#8595;[/td][/tr]
+[tr][td]Total GDP (NSD)[/td][td]NS$59.873 quadrillion &amp;#8595;[/td][/tr]
 [tr][td=2][b]New Proposal:[/b] 
 [url=https://sites.google.com/view/libertydemocraticalliance/proposals#h.61a4aaurm2l9]Membership Integrity Act of 2340[/url][/td][/tr]
 [/table]
