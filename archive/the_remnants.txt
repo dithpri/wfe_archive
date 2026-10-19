@@ -1,1 +1,13 @@
-Their are three Island with different rules
+[i]An alarm rings in Libcord[/i] 
+&quot;Who is it&quot;
+&quot;Its the Bushrangers...they&#39;re tagging alongside the NPA&quot;
+The Bushrangers alongside the NPA have ransacked your region!
+
+TO:
+Delegate [nation]Faralried[/nation] Trigger
+Gov. of Defense [nation]Cat Army[/nation]
+Bushranger [nation]Taun[/nation]
+
+NPA
+Marshal [nation]Cretox State[/nation]
+Vice Marshal [nation]Artlandia[/nation]
