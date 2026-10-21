@@ -12970,6 +12970,7 @@ archive/andromeda_island.txt
 archive/andromeda_ix.txt
 archive/andromeda_m81.txt
 archive/andromeda_nations.txt
+archive/andromeda_nebula.txt
 archive/andromeda_region.txt
 archive/andromeda_space_federation.txt
 archive/andromeda_territory.txt
@@ -34678,6 +34679,7 @@ archive/bpc_colonies.txt
 archive/bpnwq.txt
 archive/bpr.txt
 archive/bprr.txt
+archive/bp_club.txt
 archive/bp_confederacy.txt
 archive/bp_constellation.txt
 archive/br45327b.txt
@@ -37080,6 +37082,7 @@ archive/bunisian_autonomous_regions_again.txt
 archive/bunivi.txt
 archive/bunker.txt
 archive/bunkerchan_bloc.txt
+archive/bunkerfarter_land.txt
 archive/bunkernr115935.txt
 archive/bunkerstan.txt
 archive/bunkers_and_icepicks.txt
@@ -43658,6 +43661,7 @@ archive/cerboda.txt
 archive/cerceps.txt
 archive/cercolim.txt
 archive/cercovia.txt
+archive/cerculian_alliance.txt
 archive/cerdland.txt
 archive/cerdlands.txt
 archive/cerdwin.txt
@@ -49108,6 +49112,7 @@ archive/colio.txt
 archive/colip.txt
 archive/colipia.txt
 archive/coliseum.txt
+archive/colitera.txt
 archive/colitheatre.txt
 archive/colizzown.txt
 archive/colkcikian_union.txt
@@ -49383,6 +49388,7 @@ archive/colonial_rp_region.txt
 archive/colonial_singapore.txt
 archive/colonial_territories_of_heign.txt
 archive/colonial_tsalal.txt
+archive/colonial_turtle_island.txt
 archive/colonial_union.txt
 archive/colonial_venus.txt
 archive/colonial_world.txt
@@ -67205,6 +67211,7 @@ archive/donmi_states.txt
 archive/donn.txt
 archive/donnach.txt
 archive/donnach_iv.txt
+archive/donnach_v.txt
 archive/donnererdexiv.txt
 archive/donningnen.txt
 archive/donnmayer.txt
@@ -84766,6 +84773,7 @@ archive/finup.txt
 archive/finutopia.txt
 archive/fin_del_mundo.txt
 archive/fiolagufaroeseasawsa.txt
+archive/fioland.txt
 archive/fiomp.txt
 archive/fionavar.txt
 archive/fiondbae.txt
@@ -88115,6 +88123,7 @@ archive/forward_alliance.txt
 archive/forward_base.txt
 archive/forward_base_of_the_isles.txt
 archive/forward_europa_party.txt
+archive/forward_nations.txt
 archive/forward_naval_base.txt
 archive/forward_operating_base.txt
 archive/forward_operating_base_alpha.txt
@@ -100952,6 +100961,7 @@ archive/great_libidinal_pellicule.txt
 archive/great_library_of_alexandria.txt
 archive/great_linhestein.txt
 archive/great_lion_imperium.txt
+archive/great_llamaland.txt
 archive/great_lubaczovian_union.txt
 archive/great_luchiae.txt
 archive/great_lukan.txt
@@ -126201,6 +126211,7 @@ archive/japanio.txt
 archive/japanland.txt
 archive/japans_finest.txt
 archive/japanville.txt
+archive/japan_automobile_federation.txt
 archive/japan_basketball_association.txt
 archive/japan_haters.txt
 archive/japan_islands.txt
@@ -127150,6 +127161,7 @@ archive/jexiwo.txt
 archive/jexopo.txt
 archive/jexostan.txt
 archive/jexuji.txt
+archive/jexuldej.txt
 archive/jeya.txt
 archive/jeye.txt
 archive/jeyedad.txt
@@ -134917,6 +134929,7 @@ archive/kobob.txt
 archive/kobol.txt
 archive/kobold.txt
 archive/koboldian_confederacy.txt
+archive/kobolds_of_orstrasp_ospaz.txt
 archive/kobomaj.txt
 archive/kobot.txt
 archive/koboz.txt
@@ -152699,6 +152712,7 @@ archive/mayfair_village_hotel.txt
 archive/mayfair_washington_hotel.txt
 archive/mayfaria.txt
 archive/mayfield_highlands.txt
+archive/mayfield_sociology.txt
 archive/mayflower.txt
 archive/maygar.txt
 archive/mayhem.txt
@@ -178890,6 +178904,7 @@ archive/oguntuwase_siblings.txt
 archive/ogurja_ada.txt
 archive/og_baswer_union.txt
 archive/og_bobby_johnson.txt
+archive/og_boyz.txt
 archive/og_charlie_savages.txt
 archive/og_map.txt
 archive/og_mason.txt
@@ -185657,6 +185672,7 @@ archive/paradigm.txt
 archive/paradigma.txt
 archive/paradigm_city.txt
 archive/paradis.txt
+archive/paradisa.txt
 archive/paradise.txt
 archive/paradise2.txt
 archive/paradiserabbit.txt
@@ -187369,6 +187385,7 @@ archive/pedro.txt
 archive/pedroisms.txt
 archive/pedrona.txt
 archive/pedronia.txt
+archive/pedros_company.txt
 archive/pedros_islands.txt
 archive/pedro_brasil_regiao_nationstates.txt
 archive/peduga.txt
@@ -192891,6 +192908,7 @@ archive/port_iceberg.txt
 archive/port_imperial.txt
 archive/port_irritation.txt
 archive/port_jericho.txt
+archive/port_kamiyama.txt
 archive/port_katherine.txt
 archive/port_land.txt
 archive/port_langburn.txt
@@ -206261,6 +206279,7 @@ archive/region_with_no_wa_support.txt
 archive/region_with_one_nation.txt
 archive/region_with_the_word_tractor_in_it.txt
 archive/region_world.txt
+archive/region_wow.txt
 archive/region_w_dhisrael.txt
 archive/region_x.txt
 archive/region_x6.txt
@@ -219483,6 +219502,7 @@ archive/sepapoisside_raad.txt
 archive/separated_confederacy_of_the_world.txt
 archive/separated_missouri.txt
 archive/separated_nations_of_canada.txt
+archive/separated_region.txt
 archive/separated_we_stand_strong.txt
 archive/separatists.txt
 archive/separatists_of_aeiou.txt
@@ -235132,6 +235152,7 @@ archive/super_evil_bad_guy_region.txt
 archive/super_flower_squad_64.txt
 archive/super_flower_squad_69.txt
 archive/super_foods_corporation.txt
+archive/super_formula.txt
 archive/super_freak.txt
 archive/super_friends.txt
 archive/super_fun_but_anarchy.txt
@@ -257135,6 +257156,7 @@ archive/the_dark_angels.txt
 archive/the_dark_archipelago.txt
 archive/the_dark_asia.txt
 archive/the_dark_astral_empire.txt
+archive/the_dark_axis_of_malevolent_powers.txt
 archive/the_dark_between_the_stars.txt
 archive/the_dark_brotherhood.txt
 archive/the_dark_brotherhood_region.txt
@@ -298098,6 +298120,7 @@ archive/the_thirteen_colonies.txt
 archive/the_thirteen_estates.txt
 archive/the_thirteen_stars_republic.txt
 archive/the_thirteen_worlds.txt
+archive/the_thirteen_worlds_novel.txt
 archive/the_thirty_foot_steel_wall.txt
 archive/the_thoftscipe.txt
 archive/the_tholum_empire.txt
@@ -335681,6 +335704,7 @@ archive/wasteland_domination.txt
 archive/wasteland_frontier.txt
 archive/wasteland_japan.txt
 archive/wasteland_of_ferros.txt
+archive/wasteland_of_former_sitrianian_land.txt
 archive/wasteland_of_north_america.txt
 archive/wasteland_of_paris.txt
 archive/wasteland_of_rainbow_flames.txt
