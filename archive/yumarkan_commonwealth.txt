@@ -7,4 +7,4 @@
 
  
 &amp;lt;Border Control&amp;gt;
-If Your Nation Has a number (ex:1,2,3,4,5,6,7,8,9) You will be marked as a bot and removed.
+If Your Nation Has a number (ex:1,2,3,4,5,6,7,8,9) You will be removed as a bot.

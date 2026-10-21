@@ -20,12 +20,12 @@ Kebetska &#149; Birtalska &#149; Horba&#154;ka &#149; Novogorska &#149; Dolinska
 
 [b][color=c9a227][font=georgia]&amp;#10021; Proud Member of [url=region=the Crown Alliance]The Crown Alliance[/url][/b][/color][/font]
 [hr]
-[b]&amp;#10022; Allied Realms &amp;#10022;[/b]
+[b]&amp;#10022; Sister Regions &amp;#10022;[/b]
 
-[nation]Loiteria[/nation]
-[nation]Loodmud[/nation]
-
-[i]Bound by crown and honor, all serve Kebetia in loyalty and prestige.[/i]
+[region]The Belkans[/region]
+[region]The Mood[/region]
+[region]The Sliver Coast[/region]
+[region]Grand Duchy of Foxf[/region]
 
 [hr]
 
