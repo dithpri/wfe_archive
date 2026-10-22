@@ -9,3 +9,4 @@ Allies:
 Allies of the resistance:
 [nation]Eustia[/nation](supplying weapons and intelligence)
 [nation]Federation of Eradia[/nation](weapons)
+[nation]Naverica[/nation] (weapons and intelligence)
