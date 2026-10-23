@@ -19965,6 +19965,7 @@ archive/asteria_galaxy.txt
 archive/asteria_region.txt
 archive/asteriod_feild_delta.txt
 archive/asterion.txt
+archive/asterion_union.txt
 archive/asterios.txt
 archive/asterios_iii.txt
 archive/asteris.txt
@@ -23336,6 +23337,7 @@ archive/azul.txt
 archive/azula.txt
 archive/azulia.txt
 archive/azulinia.txt
+archive/azul_central.txt
 archive/azuma.txt
 archive/azumar.txt
 archive/azuno.txt
@@ -28937,6 +28939,7 @@ archive/belegorsk_but_alone.txt
 archive/belegost.txt
 archive/belegurion_confederacy.txt
 archive/belekid.txt
+archive/beleleu.txt
 archive/belem.txt
 archive/belem_city.txt
 archive/belen.txt
@@ -31746,6 +31749,7 @@ archive/blackthorne_keep.txt
 archive/blackthornian_puppets.txt
 archive/blackthorn_fields.txt
 archive/blackthorn_islands_puppet_storage.txt
+archive/blacktiger.txt
 archive/blacktopia.txt
 archive/blacktower.txt
 archive/blacktowers.txt
@@ -34680,6 +34684,7 @@ archive/bpc_colonies.txt
 archive/bpnwq.txt
 archive/bpr.txt
 archive/bprr.txt
+archive/bp_card_farming_storage.txt
 archive/bp_club.txt
 archive/bp_confederacy.txt
 archive/bp_constellation.txt
@@ -36618,6 +36623,7 @@ archive/bucharest.txt
 archive/bucharestia.txt
 archive/bucharest_city.txt
 archive/bucharest_city_farm_region.txt
+archive/bucharest_dacia.txt
 archive/bucharest_farm_region.txt
 archive/bucharest_nine.txt
 archive/buchina.txt
@@ -39065,6 +39071,7 @@ archive/canada_and_the_united_kingdom.txt
 archive/canada_democracy.txt
 archive/canada_eh.txt
 archive/canada_fair.txt
+archive/canada_first.txt
 archive/canada_government.txt
 archive/canada_ii.txt
 archive/canada_land.txt
@@ -46752,6 +46759,7 @@ archive/cisitopia.txt
 archive/cisiville.txt
 archive/ciskei.txt
 archive/cisleithania.txt
+archive/cismaria.txt
 archive/cismg.txt
 archive/cisp.txt
 archive/cisplainia.txt
@@ -54272,6 +54280,7 @@ archive/copu.txt
 archive/copunalism.txt
 archive/copus.txt
 archive/coput.txt
+archive/copvr.txt
 archive/copycat.txt
 archive/copyhus.txt
 archive/copyhus_coyphus.txt
@@ -57670,6 +57679,7 @@ archive/cult_of_raccoon.txt
 archive/cult_of_rainbow_dash.txt
 archive/cult_of_rakdos.txt
 archive/cult_of_reason.txt
+archive/cult_of_sekhmet.txt
 archive/cult_of_shadows.txt
 archive/cult_of_sharing.txt
 archive/cult_of_tauris.txt
@@ -68627,6 +68637,7 @@ archive/drone.txt
 archive/dronisia.txt
 archive/dronkeycrest.txt
 archive/dronkis_islands.txt
+archive/dronninghavn.txt
 archive/dronon.txt
 archive/dron_outpost_001.txt
 archive/dron_outpost_002.txt
@@ -80364,6 +80375,7 @@ archive/faction_paradox.txt
 archive/faction_thingy.txt
 archive/factio_occidentalis.txt
 archive/factomania.txt
+archive/factoria.txt
 archive/factorio.txt
 archive/factoriville.txt
 archive/factory.txt
@@ -94254,6 +94266,7 @@ archive/geography_master.txt
 archive/geography_now.txt
 archive/geography_of_modern_cappie_states.txt
 archive/geoguessr.txt
+archive/geohall.txt
 archive/geoknosdis.txt
 archive/geoland.txt
 archive/geolandia.txt
@@ -96571,6 +96584,7 @@ archive/gloucester_city.txt
 archive/gloucester_cloud.txt
 archive/gloucester_county.txt
 archive/gloucester_road.txt
+archive/gloukinwick.txt
 archive/glourious_raiders.txt
 archive/glouscesterstan.txt
 archive/glove.txt
@@ -99644,6 +99658,7 @@ archive/greater_forlon_and_surrounding_outlands.txt
 archive/greater_fort_courage.txt
 archive/greater_france.txt
 archive/greater_franciale.txt
+archive/greater_francian_empire.txt
 archive/greater_francoeurland.txt
 archive/greater_freedo.txt
 archive/greater_freedom.txt
@@ -135725,6 +135740,7 @@ archive/kornn_island.txt
 archive/koro.txt
 archive/korokoro.txt
 archive/koroksin.txt
+archive/korok_forest.txt
 archive/korolev.txt
 archive/korolkian_alt_dump.txt
 archive/korolskyn.txt
@@ -138488,6 +138504,7 @@ archive/land_of_fire.txt
 archive/land_of_fire_and_happiness.txt
 archive/land_of_fjords_and_serenity.txt
 archive/land_of_flamingos.txt
+archive/land_of_food.txt
 archive/land_of_fools.txt
 archive/land_of_foreign_neutrality.txt
 archive/land_of_forward_thinking.txt
@@ -154369,6 +154386,7 @@ archive/mercury_sol.txt
 archive/mercury_space_colony.txt
 archive/mercury_speedydew.txt
 archive/mercury_studio_chat.txt
+archive/mercury_traveller_region.txt
 archive/mercy.txt
 archive/mercy_in_darkness.txt
 archive/mercy_kill.txt
@@ -170545,6 +170563,7 @@ archive/niefore.txt
 archive/nielsen.txt
 archive/nielsicia.txt
 archive/nielstein.txt
+archive/niemeyer.txt
 archive/nieminem_laedere.txt
 archive/niemoller.txt
 archive/niende_x.txt
@@ -182644,6 +182663,7 @@ archive/osiris_battleground.txt
 archive/osiris_fraternal_order.txt
 archive/osiris_refuge.txt
 archive/osiris_region.txt
+archive/osiris_royal_dominion_of_eternal_rebirth.txt
 archive/osiris_slave_pits.txt
 archive/osiris_walrus_order.txt
 archive/osirizz.txt
@@ -203417,6 +203437,7 @@ archive/real_patriots.txt
 archive/real_personica.txt
 archive/real_places.txt
 archive/real_politics.txt
+archive/real_politik.txt
 archive/real_politika.txt
 archive/real_pomicos.txt
 archive/real_psychotic_dictatorships.txt
@@ -204603,6 +204624,7 @@ archive/regent.txt
 archive/regenta.txt
 archive/regentis.txt
 archive/regentreese.txt
+archive/regents_axis.txt
 archive/regents_boulevard_hotel.txt
 archive/regents_collegiate_hotel.txt
 archive/regents_commercial_hotel.txt
@@ -218761,6 +218783,7 @@ archive/sector_zero.txt
 archive/sector_zero_one.txt
 archive/sectumsempra.txt
 archive/sect_of_lost_souls.txt
+archive/sect_of_sekhmet.txt
 archive/sect_of_the_anarchist.txt
 archive/secubbahland.txt
 archive/secular.txt
@@ -230090,6 +230113,7 @@ archive/spawning_grounds.txt
 archive/spawnmasons.txt
 archive/spawnnation.txt
 archive/spawns_union.txt
+archive/spawn_forces.txt
 archive/spawn_masons.txt
 archive/spays.txt
 archive/spayse.txt
@@ -247169,6 +247193,7 @@ archive/the_archivers.txt
 archive/the_archives.txt
 archive/the_archives_of_the_warp.txt
 archive/the_archive_dimension.txt
+archive/the_archive_in_between.txt
 archive/the_archive_of_mal.txt
 archive/the_archive_of_nations.txt
 archive/the_archivists_of_nationstates_inc.txt
@@ -251830,6 +251855,7 @@ archive/the_celestial_centaur_of_pholus.txt
 archive/the_celestial_centaur_of_typhon.txt
 archive/the_celestial_citadel.txt
 archive/the_celestial_collective.txt
+archive/the_celestial_concord.txt
 archive/the_celestial_confederation.txt
 archive/the_celestial_council.txt
 archive/the_celestial_dragon.txt
@@ -253617,6 +253643,7 @@ archive/the_colonies_of_the_empire_of_harry.txt
 archive/the_colonies_of_the_fa.txt
 archive/the_colonies_of_the_federrartion.txt
 archive/the_colonies_of_the_galaxy.txt
+archive/the_colonies_of_the_ginzan_dynasty.txt
 archive/the_colonies_of_the_hokage.txt
 archive/the_colonies_of_the_hylians.txt
 archive/the_colonies_of_the_pyscotic_dictators.txt
@@ -266735,6 +266762,7 @@ archive/the_golden_triarchy.txt
 archive/the_golden_union.txt
 archive/the_golden_vale.txt
 archive/the_golden_volcanic_isles.txt
+archive/the_golden_wall_peninsula.txt
 archive/the_golden_wood.txt
 archive/the_golden_world.txt
 archive/the_goldfields.txt
@@ -283441,6 +283469,7 @@ archive/the_nope_pacific.txt
 archive/the_nopst.txt
 archive/the_nordic.txt
 archive/the_nordics.txt
+archive/the_nordics_of_the_world.txt
 archive/the_nordics_region.txt
 archive/the_nordics_union.txt
 archive/the_nordic_alliance.txt
@@ -288325,6 +288354,7 @@ archive/the_puppet_hub.txt
 archive/the_puppet_isles.txt
 archive/the_puppet_legion.txt
 archive/the_puppet_masters.txt
+archive/the_puppet_nation_theatre.txt
 archive/the_puppet_place.txt
 archive/the_puppet_realms.txt
 archive/the_puppet_region_of_kitopea.txt
@@ -296055,6 +296085,7 @@ archive/the_spacemanstevian_trade_union.txt
 archive/the_spaces.txt
 archive/the_spaceship.txt
 archive/the_spacetime_rift.txt
+archive/the_space_alliance.txt
 archive/the_space_atlas.txt
 archive/the_space_between.txt
 archive/the_space_between_dimensions.txt
@@ -297793,6 +297824,7 @@ archive/the_tenth_dimension.txt
 archive/the_tenth_reich.txt
 archive/the_tenuous_government_channels.txt
 archive/the_ten_kingdoms_of_the_moon_realm.txt
+archive/the_ten_percent_flat_tax_area.txt
 archive/the_ten_rings.txt
 archive/the_ten_thousand.txt
 archive/the_ten_thousand_islands_of_priority1.txt
@@ -312556,6 +312588,7 @@ archive/transparent.txt
 archive/transpeak_community.txt
 archive/transpedia.txt
 archive/transplanet_monarchy_of_sihn.txt
+archive/transpolian_wastelands.txt
 archive/transportation_hub.txt
 archive/transport_for_london.txt
 archive/transposaspita.txt
@@ -338874,6 +338907,7 @@ archive/white_calponia_supremacism.txt
 archive/white_castle.txt
 archive/white_cat_northern_lands.txt
 archive/white_christian_dominion.txt
+archive/white_church.txt
 archive/white_city.txt
 archive/white_cliff.txt
 archive/white_cliff_harbor.txt
