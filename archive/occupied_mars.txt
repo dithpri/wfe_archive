@@ -8,5 +8,8 @@ Allies:
 
 Allies of the resistance:
 [nation]Eustia[/nation](supplying weapons and intelligence)
-[nation]Federation of Eradia[/nation](weapons)
-[nation]Naverica[/nation] (weapons and intelligence)
+[nation]Federation of Eradia[/nation](weapons and intelligence)
+[nation]Naverica[/nation] (weapons and intelligence, small amounts of advanced weapons technology)
+[nation]Prussian Socialist Republic[/nation](weapons and intelligence)
+[nation]Rhoboeria[/nation](weapons and intelligence)
+[nation]Owonyaania[/nation](weapons and intelligence)
