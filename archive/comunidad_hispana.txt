@@ -1,7 +1,15 @@
-[b][color=#810281]PROTECTORADO OFICIAL DE [region]LA COMUNIDAD HISPANA[/region][/color][/b]
+[b][color=#810281]RAMA REGIONAL DE [region]LA COMUNIDAD HISPANA[/region][/color][/b]
 
-[i][b][color=#810281]OFICIAL PROTECTORATE OF [region]LA COMUNIDAD HISPANA[/region][/color][/b][/i]
+[i][b][color=#810281]REGIONAL BRANCH OF [region]LA COMUNIDAD HISPANA[/region][/color][/b][/i]
+[hr]
+[b][color=#a80812]PROTECTORADO OFICIAL DEL [region]REINO DE HISPANIA[/region][/color][/b]
+
+[i][b][color=#a80812]OFICIAL PROTECTORATE OF THE [region]KINGDOM OF HISPANIA[/region][/color][/b][/i]
 [hr]
 [url=https://www.nationstates.net/region=la_comunidad_hispana]Redir&iacute;geme a La Comunidad Hispana.[/url]
 
 [i][url=https://www.nationstates.net/region=la_comunidad_hispana]Redirect me to La Comunidad Hispana.[/url][/i]
+[hr]
+[url=https://www.nationstates.net/region=kingdom_of_hispania]Redir&iacute;geme al Reino de Hispania.[/url]
+
+[i][url=https://www.nationstates.net/region=kingdom_of_hispania]Redirect me to the Kingdom of Hispania.[/url][/i]
