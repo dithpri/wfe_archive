@@ -3,7 +3,7 @@
 [hr][b]The [color=green]Kingdom of the Two Sicilies[/color] is a Sicilian monarchist region consisting of Southern Italy and the island of Sicily.[/b][hr]
 
 [b][list][*][color=goldenrod]King of the Two Sicilies:[/color] Ferdinand III of [nation]Two Sicilies[/nation]
-[*][color=#999999]Royal House:[/color] Bourbon-Two Sicilies
+[*][color=#999999]Royal House:[/color] [nation]Bourbon-Two Sicilies[/nation]
 [*][color=#cf2734]Capital:[/color] Naples[/b][/list]
 
 [hr][b]Motto: [color=goldenrod]Animus Tuus Dominus[/color] [color=#999999]|[/color] [color=#cf2734]Courage is thy Lord[/color][/b]

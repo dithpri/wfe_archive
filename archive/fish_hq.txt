@@ -13,3 +13,4 @@ Jar Jar ([nation]Jar-Jar[/nation]) will be waiting, Banning all visitors and emb
 [region]Calendar[/region]
 [region]Bank of ForFishing[/region]
 [region]ForFishing[/region]
+[region]The Region That Has Fish[/region]
