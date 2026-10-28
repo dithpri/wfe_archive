@@ -1,28 +1,31 @@
 2026 Drivers
 
-340 [color=#00D7B6]Antonelli[/color] [nation]M e r c e d e s[/nation]
-238 [color=#00D7B6]Russell[/color] [nation]M e r c e d e s[/nation]
-229 [color=#ED1131]Hamilton[/color] [nation]F e r r a r I[/nation]
-221 [color=#4781D7]Verstappen[/color] [nation]R e d B u l l[/nation]
-215 [color=#ED1131]Leclerc[/color] [nation]F e r r a r i[/nation]
-201 [color=#F47600]Norris[/color] [nation]M c L a r e n[/nation]
-138 [color=#F47600]Piastri[/color] [nation]M c L a r e n[/nation]
+340 [color=#00D7B6]Antonelli[/color]* [nation]M e r c e d e s[/nation]
+238 [color=#00D7B6]Russell[/color]* [nation]M e r c e d e s[/nation]
+229 [color=#ED1131]Hamilton[/color]** [nation]F e r r a r I[/nation]
+221 [color=#4781D7]Verstappen[/color]** [nation]R e d B u l l[/nation]
+215 [color=#ED1131]Leclerc[/color]* [nation]F e r r a r i[/nation]
+201 [color=#F47600]Norris[/color]** [nation]M c L a r e n[/nation]
+138 [color=#F47600]Piastri[/color]* [nation]M c L a r e n[/nation]
 097 [color=#4781D7]Hadjar[/color] [nation]R e d B u l l[/nation]
 075 [color=#6C98FF]Lawson[/color] [nation]R a c I n g B u l l s[/nation] / [nation]R e d B u l l[/nation]
-041 [color=#FD4BC7]Gasly[/color] [nation]A l p i n e[/nation]
+041 [color=#FD4BC7]Gasly[/color]* [nation]A l p i n e[/nation]
 038 [color=#6C98FF]Lindblad[/color] [nation]R a c I n g B u l l s[/nation]
 027 [color=#FD4BC7]Colapinto[/color] [nation]A l p I n e[/nation]
 023 [color=#9C9FA2]Bearman[/color] [nation]H a a s[/nation]
 013 [color=#F50537]H&uuml;lkenberg[/color] [nation]A u d i[/nation]
 010 [color=#F50537]Bortoletto[/color] [nation]A u d i[/nation]
-007 [color=#9C9FA2]Ocon[/color] [nation]H a a s[/nation]
-007 [color=#229971]Alonso[/color] [nation]A s t o n M a r t i n[/nation]
-007 [color=#1868DB]Sainz[/color] [nation]W i l l i a m s[/nation]
+007 [color=#9C9FA2]Ocon[/color]* [nation]H a a s[/nation]
+007 [color=#229971]Alonso[/color]** [nation]A s t o n M a r t i n[/nation]
+007 [color=#1868DB]Sainz[/color]* [nation]W i l l i a m s[/nation]
 005 [color=#1868DB]Albon[/color] [nation]W i l l i a m s[/nation]
 001 [color=#6C98FF]Tsunoda[/color] [nation]R a c I n g B u l l s[/nation]
 000 [color=#229971]Stroll[/color] [nation]A s t o n M a r t i n[/nation]
-000 [color=#2d3460]Bottas[/color] [nation]C a d i l l a c[/nation]
-000 [color=#2d3460]Perez[/color] [nation]C a d i l l a c[/nation]
+000 [color=#2d3460]Bottas[/color]* [nation]C a d i l l a c[/nation]
+000 [color=#2d3460]Perez[/color]* [nation]C a d i l l a c[/nation]
+
+** World Champion
+* Race Winner
 
 
 

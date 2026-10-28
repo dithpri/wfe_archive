@@ -40,6 +40,7 @@
 [*] &amp;#128220; [color=0062b3][b]|[/b][/color] [url=https://www.nationstates.net/page=dispatch/id=2583123]Guidebook[/url]
 [*] &amp;#9917; [color=0062b3][b]|[/b][/color] [url=https://www.nationstates.net/nation=cordoneballs_bureau/detail=factbook/id=main]CordoneBalls[/url]
 [*] &amp;#128221; [color=0062b3][b]|[/b][/color] [url=https://cordone.miraheze.org/wiki/Main_Page]CordoneWiki[/url]
+[*] &amp;#128451;&amp;#65039; [color=0062b3][b]|[/b][/color] [url=https://dhornaper.github.io/cordone-rmb/main.html]Cordone RMB Archive[/url]
 
 [/list]
 
@@ -52,6 +53,8 @@
 [List]
 
 [*] [B][region]Starbound[/region] is live![/b]
+
+[*] [B][URL=https://dhornaper.github.io/cordone-rmb/main.html]Our old RMB is now available as a website![/URL][/b]
 
 [/list]
 
