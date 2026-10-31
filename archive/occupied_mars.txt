@@ -9,6 +9,7 @@ Allies:
 [nation]Dixie Florida[/nation]
 [nation]Milkzorzistan[/nation]
 [nation]Economic Island[/nation]
+[nation]Mialof[/nation]
 
 Allies of the resistance:
 [nation]Federation of Eradia[/nation]
