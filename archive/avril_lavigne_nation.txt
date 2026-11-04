@@ -31,9 +31,11 @@ ________________________________________________
 [b]Census:[/b]
 
 
-Total Population: 216 Nations
+Total Population: 220 Nations
 
-Citizens: 213 Nations
-Immigrants: 3 Nations
+Citizens: 218 Nations
+Immigrants: 2 Nations
+CTE: 2 Nations
 
 Diaspora: 5 Nations
+Applied for citizenship: 5 Nations
