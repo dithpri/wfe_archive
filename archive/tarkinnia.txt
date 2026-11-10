@@ -2,9 +2,9 @@
 [color=DAA520] [b]District of Conservadom, Amoncolia[/b][i][/i][/color]
 [color=B22222][b]The Capital of the Republic of Tarkin[/b][/color]
 
-[b][url=https://www.nationstates.net/page=dispatch/id=1937974]Regional Constitution[/url] | [url=https://www.nationstates.net/nation=tunasai/detail=factbook/id=2611267]Regional Map[/url] | 
+[b][url=https://www.nationstates.net/page=dispatch/id=1937974]Regional Constitution[/url] | [url=https://www.nationstates.net/nation=tunasai/detail=factbook/id=2611267]Regional Map[/url] |
 
-[hr][color=DC143C]TERM III, 2026[/COLOR]
+[hr][color=DC143C]TERM IV, 2026[/COLOR]
 [u][color=4169E1]Executive:[/color][/u][/b]
 President: [nation]TuNasai[/nation]
 Vice President: [nation]Maldoraehan[/nation]
@@ -14,16 +14,16 @@ Capital Governor: [nation]Maldoraehan[/nation]
 
 [color=2F4F4F][b][u]Senate:[/u][/b][/color]
 - [nation]Hofstra[/nation]
-- [nation]Britarvia[/nation]
-- [nation]Libertarian Washington[/nation]
-- [nation]Lafleure[/nation]
 - [nation]Albertexa[/nation]
+- [nation]Adani[/nation]
+- [nation]Old Democratia[/nation]
+- [nation]Ibandigo[/nation]
 
 [color=D2691E][b][u]Supreme Court:[/color][/b][/u]
 [i]Chief Justice:[/i] [nation]Manhassett[/nation]
 Associate Justice: [nation]Saint Michael The Angel[/nation]
-Associate Justice: [nation]Sandrogna[/nation][b][color=DC143C]SENATE:[/color]
-[url=https://www.nationstates.net/nation=tunasai/detail=factbook/id=2693745]Senate Rules and Procedures[/url]
+Associate Justice: [nation]Sandrogna[/nation]
+[hr][b][url=https://www.nationstates.net/nation=tunasai/detail=factbook/id=2693745]Senate Rules and Procedures[/url]
 [COLOR=ORANGE]PROPOSED: Legislative Aide Program Act [sub]Pinned Below[/sub][/b][/color][color=Maroon] [b]CURRENT VOTE:[/b] [/COLOR]0-0-5[color=blue][b][/b][/color]
 [color=Navy][b]RECENT FLOOR ACTIONS:[/b][b]Citizenship Administration Act PASSED 5-0[/B][/COLOR]
 [b][url=https://www.nationstates.net/nation=tarkin/detail=factbook/id=2602528]Political Parties[/url] |[url=https://www.nationstates.net/nation=tarkin/detail=factbook]Regional Repository[/url] |[/b]
