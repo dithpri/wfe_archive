@@ -18,17 +18,6 @@ Kebetska &#149; Birtalska &#149; Horba&#154;ka &#149; Novogorska &#149; Dolinska
 
 [hr]
 
-[b][color=c9a227][font=georgia]&amp;#10021; Proud Member of [url=region=the Crown Alliance]The Crown Alliance[/url][/b][/color][/font]
-[hr]
-[b]&amp;#10022; Sister Regions &amp;#10022;[/b]
-
-[region]The Belkans[/region]
-[region]The Mood[/region]
-[region]The Sliver Coast[/region]
-[region]Grand Duchy of Foxf[/region]
-
-[hr]
-
 [spoiler=Royal Decree]
 [b]Loyalty is expected.[/b]
 [b]Honor is upheld.[/b]
@@ -42,3 +31,7 @@ Kebetska &#149; Birtalska &#149; Horba&#154;ka &#149; Novogorska &#149; Dolinska
 [b]KRONA SE VZPENJA VE&amp;#268;NO[/b]
 
 [i]&quot;THE CROWN ASCENDS ETERNAL.&quot;[/i]
+
+[hr]
+
+The region is a Royal Territory of [region]The Mood[/region].
