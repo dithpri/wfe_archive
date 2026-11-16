@@ -32,7 +32,7 @@ Our endorsement cap is 1 if not endorsing delegate, 7 if you are
 
 [color=green][b]GA[/b]: [/color] [color=gray][b]n/a[/b][/color]
 
-[color=green][b]SC[/b][/color]:[color=gray][b]n/a[/b][/color]
+[color=green][b]SC[/b][/color]:[color=blue][b]for[/b][/color]
 
 [hr]
 
