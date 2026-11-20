@@ -20,11 +20,11 @@
 
 [i][b]First Justice:[/b][/i] [nation]Holy Barbarian Empire[/nation]
 [i][b]Second Justice:[/b][/i] [nation]Vhodesa[/nation]
-[i][b]Third Justice:[/b][/i] [i]Vacant[/i]
+[i][b]Third Justice:[/b][/i] [nation]Berukio Imperiuk[/nation]
 
 [hr]
 
 [b]| DOCTRINE |[/b]
 
-[i][b]Border:[/b][/i] [color=red]Closed[/color]
+[i][b]Border:[/b][/i] [color=green]Open[/color]
 [i][b]Embassy Policy:[/b][/i] [color=green]Cordial[/color]
