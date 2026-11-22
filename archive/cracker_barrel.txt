@@ -1,2 +1,1 @@
-[b]This Region is now occupied by [region]Goninan[/region].
-Please direct yourself to there.[/b]
+[b]This region is now a property of [region]Goninan[/region]. Please move there.[/b]
