@@ -22,9 +22,10 @@
 [Hr]
 
 &amp;#128100;Our Regions: 
-&#149; [region]Queen Amelie Islands[/region]
-&#149; [region]The United Kingdom[/region]
-&#149; [region]Walbardian Antarctica[/region]
+&#149; The [region]Kingdom of Valmorath[/region]
+&#149; [region]The United Kingdom[/region] of Great Britain
+&#149; The [region]Queen Amelie Islands[/region]
+&#149; The [region]Walbardian Antarctica[/region] Territory
 
 [hr]
 
