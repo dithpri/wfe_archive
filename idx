@@ -3680,6 +3680,7 @@ archive/ace_a_helpful_place.txt
 archive/ace_biscuits.txt
 archive/ace_combat.txt
 archive/ace_combat_association_of_nations.txt
+archive/ace_combat_continent.txt
 archive/ace_in_the_hole.txt
 archive/ace_land_nation.txt
 archive/ace_land_state_region.txt
@@ -11985,6 +11986,7 @@ archive/amtrak_union_pacific.txt
 archive/amt_siek.txt
 archive/amu.txt
 archive/amugel.txt
+archive/amuje_commonwealth.txt
 archive/amular.txt
 archive/amuldics.txt
 archive/amun.txt
@@ -14659,6 +14661,7 @@ archive/anti_amber_heard_league.txt
 archive/anti_american_league_of_pig_dog_hunters.txt
 archive/anti_american_union.txt
 archive/anti_america_nation.txt
+archive/anti_amuje_commonwealth.txt
 archive/anti_anarchy.txt
 archive/anti_anarchy_and_imperialist_alliance.txt
 archive/anti_anarchy_blahbalah.txt
@@ -20528,6 +20531,7 @@ archive/athentyre.txt
 archive/atheon.txt
 archive/atheosia.txt
 archive/athepus.txt
+archive/atherea.txt
 archive/atherea_helena_steel_pact_of_nations.txt
 archive/atheria.txt
 archive/atherian_republic.txt
@@ -36761,10 +36765,12 @@ archive/bucharest.txt
 archive/bucharestia.txt
 archive/bucharest_city.txt
 archive/bucharest_city_farm_region.txt
+archive/bucharest_city_is_the_best.txt
 archive/bucharest_city_refounded.txt
 archive/bucharest_dacia.txt
 archive/bucharest_farm_region.txt
 archive/bucharest_nine.txt
+archive/bucharest_provinces.txt
 archive/buchina.txt
 archive/buchocho_bloc.txt
 archive/buchrest_flats.txt
@@ -43254,6 +43260,7 @@ archive/central_america.txt
 archive/central_american_alliance.txt
 archive/central_american_coalition_au.txt
 archive/central_american_countries.txt
+archive/central_american_islands.txt
 archive/central_american_treaty_organisation.txt
 archive/central_american_union.txt
 archive/central_america_and_south_us.txt
@@ -70123,6 +70130,7 @@ archive/dussek.txt
 archive/dusseldorf.txt
 archive/duss_alts.txt
 archive/dust.txt
+archive/dust2.txt
 archive/dustbin.txt
 archive/dustbowl.txt
 archive/dustgrip_stand.txt
@@ -75552,6 +75560,7 @@ archive/emptyness.txt
 archive/empty_2.txt
 archive/empty_abdicate.txt
 archive/empty_hogshead_of_grog.txt
+archive/empty_hole.txt
 archive/empty_hollow.txt
 archive/empty_jar.txt
 archive/empty_n2.txt
@@ -88424,6 +88433,7 @@ archive/forward1.txt
 archive/forward_alliance.txt
 archive/forward_base.txt
 archive/forward_base_of_the_isles.txt
+archive/forward_command_post.txt
 archive/forward_europa_party.txt
 archive/forward_nations.txt
 archive/forward_naval_base.txt
@@ -91075,6 +91085,7 @@ archive/frontier_alpha.txt
 archive/frontier_america.txt
 archive/frontier_athena.txt
 archive/frontier_barbarism.txt
+archive/frontier_beta.txt
 archive/frontier_defence_pact.txt
 archive/frontier_defenders.txt
 archive/frontier_defense_pact.txt
@@ -93649,6 +93660,7 @@ archive/gator_empire.txt
 archive/gatos_dormindo.txt
 archive/gato_and_umc.txt
 archive/gato_del_sol.txt
+archive/gatport_airwick.txt
 archive/gatsby.txt
 archive/gatsby_island.txt
 archive/gattaca.txt
@@ -98067,6 +98079,7 @@ archive/gorglestan.txt
 archive/gorgon.txt
 archive/gorgonica.txt
 archive/gorgonplunion.txt
+archive/gorgonzolia.txt
 archive/gorgoron.txt
 archive/gorgoroth.txt
 archive/gorgoth.txt
@@ -102688,6 +102701,7 @@ archive/guangxi.txt
 archive/guangxi_clique.txt
 archive/guangyuan_region.txt
 archive/guangzhou.txt
+archive/guannipishi.txt
 archive/guano.txt
 archive/guano_eez.txt
 archive/guano_islands.txt
@@ -126916,6 +126930,7 @@ archive/ja_ja_wasser_wasser_da_da_vodka_vodka.txt
 archive/ja_w_raith.txt
 archive/jb5391.txt
 archive/jbgfjtvfruytrvjhyvjytrvyv5.txt
+archive/jbkg.txt
 archive/jbk_s_dominion.txt
 archive/jbsdivb_sdvosin.txt
 archive/jbuhf_hf.txt
@@ -128738,6 +128753,7 @@ archive/jotiyiq.txt
 archive/jotnar.txt
 archive/jotunheim.txt
 archive/jotunheimr.txt
+archive/jotunheim_of_the_nine_realms.txt
 archive/joueux_noel.txt
 archive/jounggboiz.txt
 archive/journalism.txt
@@ -133672,6 +133688,7 @@ archive/kingdom_of_araucania_and_patagonia.txt
 archive/kingdom_of_ardclough.txt
 archive/kingdom_of_ardent.txt
 archive/kingdom_of_armenia.txt
+archive/kingdom_of_arozodi.txt
 archive/kingdom_of_arrow.txt
 archive/kingdom_of_arthur.txt
 archive/kingdom_of_asgard.txt
@@ -141648,6 +141665,7 @@ archive/league_of_servers.txt
 archive/league_of_shadows.txt
 archive/league_of_six_kingdoms.txt
 archive/league_of_slavic_and_balts.txt
+archive/league_of_slavic_nations.txt
 archive/league_of_slavic_states.txt
 archive/league_of_slavic_unity.txt
 archive/league_of_slavs.txt
@@ -151806,6 +151824,7 @@ archive/marenavis.txt
 archive/marenesia.txt
 archive/marenger.txt
 archive/marenia.txt
+archive/marenmia_and_ocasia.txt
 archive/marerkistania.txt
 archive/mares_de_mono.txt
 archive/mareth.txt
@@ -157281,6 +157300,7 @@ archive/ministry_of_gaudium_aeternum.txt
 archive/ministry_of_government_security.txt
 archive/ministry_of_information_and_security.txt
 archive/ministry_of_magic.txt
+archive/ministry_of_mayhem.txt
 archive/ministry_of_peace.txt
 archive/ministry_of_public_security.txt
 archive/ministry_of_purity.txt
@@ -188401,6 +188421,7 @@ archive/pennridge_nationalist_nations.txt
 archive/pennridge_unified_treaty_organization.txt
 archive/pennridge_united_nations.txt
 archive/pennslytucky.txt
+archive/pennsrail.txt
 archive/pennsylreich.txt
 archive/pennsylvania.txt
 archive/pennsylvania2s_islands.txt
@@ -195933,6 +195954,7 @@ archive/providencia.txt
 archive/providencian_europa.txt
 archive/providentia.txt
 archive/province.txt
+archive/provinces_of_america.txt
 archive/provinces_of_archasia.txt
 archive/provinces_of_barcelonica.txt
 archive/provinces_of_icelandia.txt
@@ -204984,6 +205006,7 @@ archive/reedailt.txt
 archive/reedmacks_land.txt
 archive/reedmont.txt
 archive/reeds_gay_club.txt
+archive/reeducation_camp.txt
 archive/reeducation_camps.txt
 archive/reeducation_hub.txt
 archive/reedy2024.txt
@@ -210884,6 +210907,7 @@ archive/rivage_sur_terre.txt
 archive/rivalia.txt
 archive/rivaling_rebels_of_hammerus_pureus.txt
 archive/rivals.txt
+archive/rival_goverments.txt
 archive/rival_region.txt
 archive/rivamas.txt
 archive/rivaquq.txt
@@ -230999,6 +231023,7 @@ archive/spellunk.txt
 archive/spell_katra_than_you.txt
 archive/spelunked.txt
 archive/spelveristan.txt
+archive/spenceria.txt
 archive/spencerist_church.txt
 archive/spendless.txt
 archive/spend_a_buck.txt
@@ -236131,6 +236156,7 @@ archive/supreme_global_federation.txt
 archive/supreme_global_junta.txt
 archive/supreme_grandma.txt
 archive/supreme_greater_german_reich.txt
+archive/supreme_imperium.txt
 archive/supreme_indonesia.txt
 archive/supreme_lands_of_supremity.txt
 archive/supreme_land_of_h.txt
@@ -255157,6 +255183,7 @@ archive/the_communist_cafe.txt
 archive/the_communist_central.txt
 archive/the_communist_circle.txt
 archive/the_communist_clan.txt
+archive/the_communist_club.txt
 archive/the_communist_coalition.txt
 archive/the_communist_collective.txt
 archive/the_communist_committee.txt
@@ -258301,6 +258328,7 @@ archive/the_deep_realms.txt
 archive/the_deep_sea.txt
 archive/the_deep_sea_and_guinea_kiribati.txt
 archive/the_deep_sea_defense_force.txt
+archive/the_deep_sea_rp.txt
 archive/the_deep_south.txt
 archive/the_deep_space_authority.txt
 archive/the_deep_state.txt
@@ -270128,6 +270156,7 @@ archive/the_grey_mountains.txt
 archive/the_grey_order.txt
 archive/the_grey_pacific.txt
 archive/the_grey_pawn.txt
+archive/the_grey_pigs.txt
 archive/the_grey_queen.txt
 archive/the_grey_riders.txt
 archive/the_grey_rook.txt
@@ -271116,6 +271145,7 @@ archive/the_high_seas.txt
 archive/the_high_skies.txt
 archive/the_high_skylands.txt
 archive/the_high_table.txt
+archive/the_high_thrones_of_britain.txt
 archive/the_high_tyranny_of_lord_lauren.txt
 archive/the_high_union.txt
 archive/the_high_wilderness.txt
@@ -272747,6 +272777,7 @@ archive/the_imperial_country_roleplay.txt
 archive/the_imperial_court.txt
 archive/the_imperial_court_of_stagira.txt
 archive/the_imperial_crimson_republic.txt
+archive/the_imperial_crownlands.txt
 archive/the_imperial_crown_of_britannia.txt
 archive/the_imperial_crown_union.txt
 archive/the_imperial_curia.txt
@@ -293488,6 +293519,7 @@ archive/the_ruckus_region.txt
 archive/the_ruclax_clan.txt
 archive/the_ructarian_empire.txt
 archive/the_rudes.txt
+archive/the_rugby_fanatics.txt
 archive/the_rugidam_prophecy.txt
 archive/the_ruhr.txt
 archive/the_ruhrort_sector.txt
@@ -296359,6 +296391,7 @@ archive/the_southern_alliance.txt
 archive/the_southern_alliance_of_allhu_ak_ba.txt
 archive/the_southern_alliance_of_cats.txt
 archive/the_southern_american_islands.txt
+archive/the_southern_americas.txt
 archive/the_southern_anarctic.txt
 archive/the_southern_anomaly.txt
 archive/the_southern_archeipelago.txt
@@ -329986,6 +330019,7 @@ archive/vanilla_extract.txt
 archive/vanilla_ice_dominion.txt
 archive/vanilla_nations.txt
 archive/vanilla_rust.txt
+archive/vanir.txt
 archive/vanir_federation.txt
 archive/vanir_terra_firma.txt
 archive/vanishing_point.txt
@@ -331128,6 +331162,7 @@ archive/veramia.txt
 archive/veranda.txt
 archive/verania.txt
 archive/verania_2.txt
+archive/verankerania.txt
 archive/verano.txt
 archive/verantia.txt
 archive/veran_economic_zone.txt
@@ -341943,6 +341978,7 @@ archive/woof_bark.txt
 archive/woof_doggo.txt
 archive/wooglins_lair.txt
 archive/woohoo.txt
+archive/woohoo_continent.txt
 archive/woojburg_trymegia_union.txt
 archive/wookhaven.txt
 archive/wookies_and_cream.txt
